@@ -8,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: person working on computer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 ## Introduction: The Two Revolutions

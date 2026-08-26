@@ -7,7 +7,7 @@ description: >-
   Learn what they do, why they are essential for developer adoption, and how.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 In the fast-paced field of [Web3](/what-is-web3), the **Technical Writer** plays an essential role that often goes unrecognized. While [smart contract](/what-are-smart-contracts) engineers construct the protocols and community managers shape the culture, technical writers serve as the important links connecting technical information to its users. They translate complex concepts into accessible language, helping developers use platforms effectively and guiding users in safe interactions.

@@ -7,7 +7,7 @@ description: >-
   creating 'scholarship' programs and building communities that are.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 The emergence of [Web3](/what-is-web3) gaming and the "Play-to-Earn" (P2E) model transformed how players can earn income through video games. However, a major obstacle quickly surfaced. To participate in leading P2E games such as Axie Infinity, players typically needed to invest significant amounts to acquire necessary [NFT](/what-are-nfts) assets, which often cost substantial sums. This upfront cost excluded millions of potential players, especially in developing nations where such income could greatly impact their lives.

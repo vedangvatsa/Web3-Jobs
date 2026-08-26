@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: difficult conversation meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Nobody becomes a manager because they love difficult conversations. But ignoring underperformance is one of the fastest ways to lose your best people - they see the problem, they know you see it, and your silence tells them you don't care enough to act.

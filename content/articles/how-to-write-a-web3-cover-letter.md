@@ -7,7 +7,7 @@ description: >-
   how to showcase your passion, your 'proof of work,' and your deep.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 In the [Web3](/what-is-web3) job market, your **[resume](/how-to-build-a-web3-resume-that-stands-out)** gets you past the first filter. Your cover letter often makes the first significant impression. A generic, copy-pasted cover letter quickly leads to rejection. A thoughtful, well-researched, and crypto-native cover letter can open the door to your desired position.

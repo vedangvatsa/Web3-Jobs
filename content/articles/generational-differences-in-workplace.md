@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: team diverse generations
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Four generations are working side by side right now, and they don't always agree on how work should get done. That's not a crisis - it's just reality. The friction usually comes from different defaults around communication, feedback, and what "professionalism" even means. Here's how to deal with it practically, especially in Web3 and remote-first teams where these differences get amplified.

@@ -7,7 +7,7 @@ description: >-
   guide helps you craft a compelling and authentic story about your passion for.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 In any [Web3](/what-is-web3) job [interview](/how-to-prepare-for-job-interview), you will almost certainly encounter the question:

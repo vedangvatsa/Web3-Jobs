@@ -8,7 +8,7 @@ description: >-
   law.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-25"
+lastUpdated: "2026-08-26"
 ---
 
 Smart contracts serve as the engines driving the [Web3](/what-is-web3) ecosystem, enabling a wide range of applications from Decentralized Finance ([DeFi](/what-is-defi)) protocols to complex governance systems. Unlike traditional legal documents, a [smart contract](/what-are-smart-contracts) is a self-executing program stored on a blockchain. This program automatically executes actions when specific conditions are met. Imagine a digital vending machine: you insert money (input), and the machine dispenses your selected snack (output). No intermediaries, no paperwork, and trust in the code itself replace reliance on a third party. This discussion explores how smart contracts work, their essential characteristics, and their potential across various industries.
