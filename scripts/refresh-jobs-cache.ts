@@ -170,7 +170,13 @@ async function refreshJobsCache() {
             link.includes('docs.google.com/forms') ||
             link.includes('typeform.com') ||
             link.includes('cal.com') ||
-            link.includes('jotform.com')
+            link.includes('jotform.com') ||
+            // Reject links to competitor job boards — these are scraped/bad data
+            link.includes('web3.career') ||
+            link.includes('crypto.jobs') ||
+            link.includes('remote3.co') ||
+            link.includes('cryptojobslist.com') ||
+            link.includes('web3jobboard.com')
           );
 
           if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty') && !isUnsafeLink) {
