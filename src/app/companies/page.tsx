@@ -5,6 +5,8 @@ import { Building2, MapPin, BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
+import { CompanyLogo } from '@/components/company-logo';
+import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 
 export const metadata: Metadata = {
  title: 'Web3 Companies Hiring - Browse Blockchain & Crypto Companies',
@@ -117,41 +119,49 @@ export default async function CompaniesPage() {
      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
       {[...companies]
        .sort((a, b) => b.jobCount - a.jobCount)
-       .map((company) => (
-       <Link key={company.slug} href={`/${company.slug}`}>
-        <Card className="group hover:border-primary transition-all h-full bg-muted/20">
-         <CardContent className="p-5">
-          <div className="flex items-start justify-between gap-2 mb-3">
-           <h3 className="font-semibold group-hover:text-foreground transition-colors line-clamp-1">
-            {company.name}
-           </h3>
-           <Badge variant="default" className="shrink-0 text-xs">
-            {company.jobCount} jobs
-           </Badge>
-          </div>
-          {company.description && (
-            <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
-             {company.description}
-            </p>
-          )}
-          <div className="flex items-center gap-4 text-xs text-muted-foreground">
-            {company.category && (
-             <span className="flex items-center gap-1">
-              <Building2 className="h-3 w-3" />
-              {company.category}
-             </span>
-            )}
-            {company.headquarters && (
-             <span className="flex items-center gap-1">
-              <MapPin className="h-3 w-3" />
-              {company.headquarters.split(',')[0]}
-             </span>
-            )}
-          </div>
-         </CardContent>
-        </Card>
-       </Link>
-      ))}
+       .map((company) => {
+        const logoSrc = resolveCompanyLogo(company.slug);
+        const faviconUrl = getCompanyFaviconUrl(company.website);
+        return (
+        <Link key={company.slug} href={`/${company.slug}`}>
+         <Card className="group hover:border-primary transition-all h-full bg-muted/20">
+          <CardContent className="p-5">
+           <div className="flex items-start justify-between gap-2 mb-3">
+            <div className="flex items-center gap-3 min-w-0">
+             <div className="h-8 w-8 flex items-center justify-center p-1 bg-background rounded-lg border shrink-0 overflow-hidden">
+              <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={company.name} size="h-5 max-w-5" />
+             </div>
+             <h3 className="font-semibold group-hover:text-foreground transition-colors line-clamp-1">
+              {company.name}
+             </h3>
+            </div>
+            <Badge variant="default" className="shrink-0 text-xs">
+             {company.jobCount} jobs
+            </Badge>
+           </div>
+           {company.description && (
+             <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
+              {company.description}
+             </p>
+           )}
+           <div className="flex items-center gap-4 text-xs text-muted-foreground">
+             {company.category && (
+              <span className="flex items-center gap-1">
+               <Building2 className="h-3 w-3" />
+               {company.category}
+              </span>
+             )}
+             {company.headquarters && (
+              <span className="flex items-center gap-1">
+               <MapPin className="h-3 w-3" />
+               {company.headquarters.split(',')[0]}
+              </span>
+             )}
+           </div>
+          </CardContent>
+         </Card>
+        </Link>
+       )})}
      </div>
     </section>
    </main>
