@@ -25,13 +25,8 @@ export const dynamicParams = true;
 export const revalidate = 3600;
 
 export async function generateStaticParams() {
-  const jobsWithSlugs = await getAllJobsWithSlugs();
-  const cachedSlugs = jobsWithSlugs
-    .filter(({ job }) => hasSubstantialJobContent(job))
-    .slice(0, 60)
-    .map(({ slug }) => slug);
-
-  return Array.from(new Set(cachedSlugs)).map((slug) => ({ slug }));
+  // Jobs are now at /<slug> (root), not /jobs/<slug>. /jobs/:slug redirects via next.config.
+  return [];
 }
 
 export async function generateMetadata({ params }: JobPageProps): Promise<Metadata> {
