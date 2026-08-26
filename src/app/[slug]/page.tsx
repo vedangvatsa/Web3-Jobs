@@ -4,6 +4,8 @@ import { getJobs } from '@/lib/jobs';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound, redirect } from 'next/navigation';
+import * as fs from 'fs';
+import * as path from 'path';
 import { getJobBySlug, getJobSlug, getAllJobsWithSlugs, fetchJobOriginalContent } from '@/lib/job-guides';
 import { getCompanyBySlug } from '@/lib/companies';
 import { JobDetailView } from '@/components/job-detail-view';
@@ -292,6 +294,28 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       .filter((j) => j.id !== job.id && (j.company.toLowerCase() === job.company.toLowerCase() || j.title.toLowerCase().includes(job.title.split(' ')[0].toLowerCase())))
       .slice(0, 4);
 
+    const possiblePaths = [
+      `/logo/companies/${companySlug}.png`,
+      `/logo/companies/${companySlug}.jpg`,
+      `/logo/companies/${companySlug}.svg`,
+      `/logo/companies/${companySlug.toLowerCase()}.png`,
+      `/logo/job/${companySlug}.png`,
+      `/logo/job/${companySlug}.jpg`,
+      `/logo/job/${companySlug}.svg`,
+      `/logo/job/${companySlug.toLowerCase()}.png`,
+      `/logo/partners/${companySlug}.png`,
+      `/logo/partners/${companySlug.toLowerCase()}.png`,
+    ];
+
+    let logoSrc: string | null = null;
+    for (const relPath of possiblePaths) {
+      const fullPath = path.join(process.cwd(), 'public', relPath);
+      if (fs.existsSync(fullPath)) {
+        logoSrc = relPath;
+        break;
+      }
+    }
+
     return (
       <JobDetailView
         job={job}
@@ -299,6 +323,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         company={company}
         relatedJobs={relatedJobs}
         siteUrl={siteUrl}
+        logoSrc={logoSrc}
       />
     );
   }

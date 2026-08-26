@@ -21,6 +21,7 @@ interface JobDetailViewProps {
   company: Partial<Company> | null;
   relatedJobs: Job[];
   siteUrl: string;
+  logoSrc?: string | null;
 }
 
 export function JobDetailView({
@@ -29,6 +30,7 @@ export function JobDetailView({
   company,
   relatedJobs,
   siteUrl,
+  logoSrc = null,
 }: JobDetailViewProps) {
   const slug = getJobSlug(job);
   const companySlug = (job.company || 'web3')
@@ -132,28 +134,40 @@ export function JobDetailView({
         <div className="bg-card border border-border/70 rounded-xl p-6 sm:p-8 shadow-sm mb-8">
           <div className="flex flex-col md:flex-row md:items-start justify-between gap-6">
             
-            <div className="space-y-4 flex-1">
-              <div className="flex flex-wrap items-center gap-2">
-                <Badge variant="outline" className="text-muted-foreground">
-                  <Clock className="w-3.5 h-3.5 mr-1" /> Posted {relativeDate}
-                </Badge>
-              </div>
+            <div className="flex flex-col sm:flex-row items-start gap-5 flex-1 min-w-0">
+              {logoSrc && (
+                <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-xl overflow-hidden border border-border/80 bg-white flex items-center justify-center p-2 shrink-0 shadow-sm">
+                  <img 
+                    src={logoSrc} 
+                    alt={`${job.company} logo`} 
+                    className="max-w-full max-h-full object-contain"
+                  />
+                </div>
+              )}
+              
+              <div className="space-y-4 flex-1 min-w-0">
+                <div className="flex flex-wrap items-center gap-2">
+                  <Badge variant="outline" className="text-muted-foreground">
+                    <Clock className="w-3.5 h-3.5 mr-1" /> Posted {relativeDate}
+                  </Badge>
+                </div>
 
-              <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight text-foreground leading-tight">
-                {job.title}
-              </h1>
+                <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight text-foreground leading-tight">
+                  {job.title}
+                </h1>
 
-              <div className="flex flex-wrap items-center gap-y-2 gap-x-6 text-sm text-muted-foreground pt-1">
-                <Link 
-                  href={`/companies/${companySlug}`}
-                  className="flex items-center gap-1.5 font-semibold text-foreground hover:text-primary transition-colors"
-                >
-                  <Building2 className="w-4 h-4 text-primary" />
-                  {job.company}
-                </Link>
-                <div className="flex items-center gap-1.5">
-                  <MapPin className="w-4 h-4 text-muted-foreground" />
-                  Remote / Global
+                <div className="flex flex-wrap items-center gap-y-2 gap-x-6 text-sm text-muted-foreground pt-1">
+                  <Link 
+                    href={`/companies/${companySlug}`}
+                    className="flex items-center gap-2 font-semibold text-foreground hover:text-primary transition-colors"
+                  >
+                    {!logoSrc && <Building2 className="w-4 h-4 text-primary" />}
+                    {job.company}
+                  </Link>
+                  <div className="flex items-center gap-1.5">
+                    <MapPin className="w-4 h-4 text-muted-foreground" />
+                    Remote / Global
+                  </div>
                 </div>
               </div>
             </div>
