@@ -1,35 +1,17 @@
 import { JobBoard } from '@/components/job-board';
-import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
-import { getCompanyBySlug } from '@/lib/companies';
-import { getCompanySlug } from '@/lib/job-slugs';
+import { buildCompanyLogoMap } from '@/lib/job-listing';
+import { getJobSlug } from '@/lib/job-slugs';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
 import { Rss } from 'lucide-react';
 import type { Metadata } from 'next';
-import type { WebPage, JobPosting } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
 
 import { SITE_STATS } from '@/lib/constants';
 import { PageShell } from '@/components/page-shell';
-import type { Job } from '@/types';
 
-async function buildCompanyLogos(jobs: Job[]): Promise<Record<string, { logo: string | null; favicon: string | null }>> {
-  const slugs = Array.from(new Set(jobs.map(j => getCompanySlug(j.company))));
-  const map: Record<string, { logo: string | null; favicon: string | null }> = {};
-  for (const slug of slugs) {
-    const logo = resolveCompanyLogo(slug);
-    let favicon: string | null = null;
-    if (!logo) {
-      const company = await getCompanyBySlug(slug);
-      favicon = getCompanyFaviconUrl(company?.website);
-    }
-    map[slug] = { logo, favicon };
-  }
-  return map;
-}
-
-
+const JOBS_PER_PAGE = 50;
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -60,72 +42,42 @@ export const metadata: Metadata = {
 };
 
 export default async function JobsPage() {
- const initialJobs = await getJobs();
- const companyLogos = await buildCompanyLogos(initialJobs);
+ const allJobs = await getJobs();
+ const initialJobs = allJobs.slice(0, JOBS_PER_PAGE);
+ const companyLogos = await buildCompanyLogoMap(initialJobs);
+ const totalJobs = allJobs.length;
   
  const siteUrl = 'https://hashtagweb3.com';
- const pageSchema: WebPage = {
-  '@type': 'WebPage',
-  url: `${siteUrl}/jobs`,
-  name: `${initialJobs.length}+ Live Web3 Jobs in 2026 | Remote Crypto Careers`,
-  isPartOf: {
-   '@type': 'WebSite',
-   url: siteUrl,
-   name: 'Hashtag Web3'
-  },
-  description: `Browse ${initialJobs.length}+ verified Web3 jobs updated daily. Find remote blockchain developer, DeFi, DAO, and crypto roles at top companies. Apply today!`,
- };
-
- const jobPostingsSchema: JobPosting[] = initialJobs.slice(0, 50).map(job => ({
-  '@type': 'JobPosting',
-  title: job.title,
-  description: `A new job opportunity: ${job.title} at ${job.company}.`,
-  datePosted: new Date(job.date).toISOString(),
-  hiringOrganization: {
-   '@type': 'Organization',
-   name: job.company,
-  },
-  employmentType: 'FULL_TIME',
-  jobLocation: {
-   '@type': 'Place',
-   address: {
-    '@type': 'PostalAddress',
-    addressLocality: 'Remote'
-   }
-  },
-  url: job.link,
-  validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(),
-  skills: ((job as any).tags || []).join(', ') || 'Web3, Blockchain, Cryptocurrency',
- }));
-
- const itemListSchema = {
+ const structuredData = {
   '@context': 'https://schema.org',
-  '@type': 'ItemList',
-  name: `Web3 Jobs | ${initialJobs.length}+ Open Positions`,
-  description: `Curated list of ${initialJobs.length}+ Web3, blockchain, and crypto job openings updated daily.`,
-  url: `${siteUrl}/jobs`,
-  numberOfItems: initialJobs.length,
-  itemListElement: initialJobs.slice(0, 50).map((job, idx) => ({
-   '@type': 'ListItem',
-   position: idx + 1,
-   url: job.link,
-   name: `${job.title} at ${job.company}`,
-  })),
+  '@graph': [
+   {
+    '@type': 'WebPage',
+    '@id': `${siteUrl}/jobs#page`,
+    url: `${siteUrl}/jobs`,
+    name: 'Web3 Jobs & Crypto Careers',
+    description: `Browse ${totalJobs} current Web3 and crypto job openings.`,
+    isPartOf: { '@type': 'WebSite', url: siteUrl, name: 'Hashtag Web3' },
+   },
+   {
+    '@type': 'ItemList',
+    name: 'Current Web3 job openings',
+    numberOfItems: totalJobs,
+    itemListElement: initialJobs.map((job, index) => ({
+     '@type': 'ListItem',
+     position: index + 1,
+     url: `${siteUrl}/jobs/${getJobSlug(job)}`,
+     name: `${job.title} at ${job.company}`,
+    })),
+   },
+  ],
  };
 
  return (
   <>
    <script
     type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
-   />
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingsSchema) }}
-   />
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(itemListSchema) }}
+    dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, '\\u003c') }}
    />
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
@@ -142,13 +94,13 @@ export default async function JobsPage() {
            href={SITE_STATS.telegramUrl}
            target="_blank"
            rel="noopener noreferrer"
-           className="text-sm text-muted-foreground hover:text-primary transition-colors group inline-flex items-center gap-2"
+           className="text-sm text-muted-foreground hover:text-foreground inline-flex items-center gap-2"
            >
-           <Rss className="h-4 w-4 transition-transform group-hover:scale-110" />
+           <Rss className="h-4 w-4" />
            <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
            </Link>
          </div>
-         <JobBoard initialJobs={initialJobs} companyLogos={companyLogos} />
+         <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />
        </div>
      </PageShell>
     </main>

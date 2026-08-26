@@ -1,5 +1,5 @@
 ---
-term: Account Abstraction
+term: Account Abstraction Architecture
 slug: account-abstraction-advanced
 category: technical
 difficulty: Advanced

@@ -30,7 +30,7 @@ export function JobApplicationButton({
    target="_blank" 
    rel="noopener noreferrer" 
    onClick={handleClick}
-   className="block h-full transform transition-all duration-200 hover:-translate-y-1"
+   className="block h-full"
   >
    {children}
   </a>

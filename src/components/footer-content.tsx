@@ -1,5 +1,3 @@
-'use client';
-
 import { Instagram, Linkedin, Mail, Twitter, Send, Youtube } from 'lucide-react';
 import Link from 'next/link';
 import type { Article } from '@/types';

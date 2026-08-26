@@ -100,7 +100,14 @@ export function CommunityPageContent({
                   <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-4 p-2 sm:p-4">
                     {chunk.map((logo) => (
                       <div key={logo.name} className="relative h-14 sm:h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm border border-border/50" title={logo.name}>
-                        <Image src={`${logo.src}?v=2`} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                        <Image
+                          src={`${logo.src}?v=2`}
+                          alt={logo.alt}
+                          fill
+                          className="object-contain p-2"
+                          sizes="(max-width: 640px) 33vw, (max-width: 768px) 25vw, 16vw"
+                          unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                        />
                       </div>
                     ))}
                   </div>
@@ -172,7 +179,14 @@ export function CommunityPageContent({
                 <div className="h-full">
                   <Card className="overflow-hidden h-full flex flex-col shadow-sm">
                     <div className="relative h-48 sm:h-56 w-full">
-                      <Image src={study.image} alt={`${study.title} - Hashtag Web3 case study`} fill className="object-cover" data-ai-hint={study.data_ai_hint} unoptimized/>
+                      <Image
+                        src={study.image}
+                        alt={`${study.title} - Hashtag Web3 case study`}
+                        fill
+                        className="object-cover"
+                        sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+                        data-ai-hint={study.data_ai_hint}
+                      />
                     </div>
                     <CardHeader className="p-4 sm:p-6 pb-2">
                       <CardTitle className="text-lg sm:text-xl">{study.title}</CardTitle>
@@ -240,7 +254,7 @@ export function CommunityPageContent({
                       width={500}
                       height={500}
                       className="object-cover w-full h-full"
-                      unoptimized
+                      sizes="(max-width: 640px) 50vw, (max-width: 1024px) 50vw, 33vw"
                     />
                   </CardContent>
                 </Card>
@@ -266,7 +280,14 @@ export function CommunityPageContent({
                   <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-4 p-2 sm:p-4">
                     {chunk.map((logo) => (
                       <div key={logo.name} className="relative h-14 sm:h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm border border-border/50" title={logo.name}>
-                        <Image src={`${logo.src}?v=2`} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                        <Image
+                          src={`${logo.src}?v=2`}
+                          alt={logo.alt}
+                          fill
+                          className="object-contain p-2"
+                          sizes="(max-width: 640px) 33vw, (max-width: 768px) 25vw, 16vw"
+                          unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                        />
                       </div>
                     ))}
                   </div>
@@ -296,7 +317,14 @@ export function CommunityPageContent({
                 <p className="font-medium italic text-base sm:text-lg">&quot;{testimonial.quote}&quot;</p>
               </CardContent>
               <CardFooter className="flex-col text-center pt-4 border-t bg-secondary/50 p-4 sm:p-6">
-                <Image src={testimonial.image} alt={`Photo of ${testimonial.author}, ${testimonial.title} - Hashtag Web3 testimonial`} width={64} height={64} className="rounded-full mx-auto mb-3 sm:mb-4 object-cover" />
+                <Image
+                  src={testimonial.image}
+                  alt={`Photo of ${testimonial.author}, ${testimonial.title} - Hashtag Web3 testimonial`}
+                  width={64}
+                  height={64}
+                  className="rounded-full mx-auto mb-3 sm:mb-4 object-cover"
+                  sizes="64px"
+                />
                 <p className="font-semibold text-sm sm:text-base">{testimonial.author}</p>
                 <p className="text-xs sm:text-sm text-muted-foreground">{testimonial.title}</p>
               </CardFooter>
@@ -329,7 +357,14 @@ export function CommunityPageContent({
                   <div className="grid grid-cols-3 sm:grid-cols-4 gap-2 sm:gap-4 p-2 sm:p-4">
                     {chunk.map((logo) => (
                       <div key={logo.name} className="relative h-14 sm:h-16 w-full flex items-center justify-center p-2 bg-background rounded-md shadow-sm border border-border/50" title={logo.name}>
-                        <Image src={`${logo.src}?v=2`} alt={logo.alt} fill className="object-contain p-2" unoptimized/>
+                        <Image
+                          src={`${logo.src}?v=2`}
+                          alt={logo.alt}
+                          fill
+                          className="object-contain p-2"
+                          sizes="(max-width: 640px) 33vw, (max-width: 768px) 25vw, 16vw"
+                          unoptimized={logo.src.toLowerCase().endsWith('.svg')}
+                        />
                       </div>
                     ))}
                   </div>

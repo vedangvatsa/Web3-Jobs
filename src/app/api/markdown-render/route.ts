@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 import fs from 'fs';
 import path from 'path';
-import { getJobBySlug } from '@/lib/job-guides';
+import { fetchJobOriginalContent, getJobBySlug } from '@/lib/job-guides';
 import { getArticle } from '@/lib/articles';
 import { getTerm } from '@/lib/glossary';
 import { getCompanyBySlug } from '@/lib/companies';
@@ -129,24 +129,33 @@ export async function GET(request: NextRequest) {
     }
 
     // 3. Dynamic Job Check
-    const job = await getJobBySlug(slug);
+    const jobSlug = cleanPath.startsWith('/jobs/')
+      ? cleanPath.slice('/jobs/'.length)
+      : slug;
+    const job = await getJobBySlug(jobSlug);
     if (job) {
+      const employerContent = await fetchJobOriginalContent(job);
+      const verifiedDate = job.dateVerified === false
+        ? null
+        : new Date(job.date).toISOString().split('T')[0];
+      const locationLine = job.location ? `- **Location**: ${job.location}\n` : '';
+      const dateLine = verifiedDate ? `- **Date Posted**: ${verifiedDate}\n` : '';
+      const dateFrontmatter = verifiedDate ? `date-posted: ${verifiedDate}\n` : '';
       const md = `---
-title: ${job.title} at ${job.company}
-description: Explore the ${job.title} position at ${job.company}.
-canonical: ${canonical}
-date-posted: ${new Date(job.date).toISOString().split('T')[0]}
+title: ${JSON.stringify(`${job.title} at ${job.company}`)}
+description: ${JSON.stringify(`${job.company}'s employer-provided details for the ${job.title} role.`)}
+canonical: ${JSON.stringify(canonical)}
+${dateFrontmatter.trimEnd()}
 ---
 
 # ${job.title} at ${job.company}
 
-- **Company**: [${job.company}](https://hashtagweb3.com/companies/${(job.company || 'web3').toLowerCase().replace(/[^a-z0-9]+/g, '-')})
-- **Location**: Remote / Global
-- **Date Posted**: ${new Date(job.date).toISOString().split('T')[0]}
-- **Application Link**: ${job.link}
+- **Company**: [${job.company}](https://hashtagweb3.com/${(job.company || 'web3').toLowerCase().replace(/[^a-z0-9]+/g, '-')})
+${locationLine}${dateLine}- **Application Link**: ${job.link}
 
-## Role Overview
-Explore verified career opportunities in Web3, blockchain, and decentralized infrastructure at ${job.company}. Review the full job specifications and submit applications directly on the official hiring portal.
+## Employer-provided role details
+
+${employerContent}
 `;
       return new NextResponse(md, {
         status: 200,
@@ -159,7 +168,44 @@ Explore verified career opportunities in Web3, blockchain, and decentralized inf
       });
     }
 
-    // 4. Dynamic Article Check
+    // 4. Dynamic Company Check (canonical /[slug] plus legacy /companies/[slug])
+    const companySlug = cleanPath.startsWith('/companies/')
+      ? cleanPath.replace('/companies/', '')
+      : slug.includes('/')
+        ? null
+        : slug;
+
+    if (companySlug) {
+      const company = await getCompanyBySlug(companySlug);
+      if (company) {
+        const companyCanonical = `https://hashtagweb3.com/${companySlug}`;
+        const md = `---
+title: ${company.name} Web3 Jobs & Company Profile
+description: View active Web3 job openings and company profile for ${company.name}.
+canonical: ${companyCanonical}
+---
+
+# ${company.name}
+
+- **Website**: ${company.website || 'https://hashtagweb3.com'}
+- **Active Openings**: ${company.jobCount || company.jobs?.length || 0}
+
+## Open Positions
+${(company.jobs || []).map((companyJob) => `- [${companyJob.title}](${companyJob.link})`).join('\n')}
+`;
+        return new NextResponse(md, {
+          status: 200,
+          headers: {
+            'Content-Type': 'text/markdown; charset=utf-8',
+            'Vary': 'Accept, Accept-Encoding, User-Agent',
+            'Link': `<${companyCanonical}>; rel="canonical"`,
+            'Access-Control-Allow-Origin': '*',
+          },
+        });
+      }
+    }
+
+    // 5. Dynamic Article Check
     const article = await getArticle(slug);
     if (article) {
       const md = stripLeadingFrontmatter(article.content);
@@ -174,7 +220,7 @@ Explore verified career opportunities in Web3, blockchain, and decentralized inf
       });
     }
 
-    // 5. Dynamic Glossary Term Check
+    // 6. Dynamic Glossary Term Check
     const term = await getTerm(slug);
     if (term) {
       const md = `---
@@ -204,7 +250,7 @@ ${term.content || ''}
       });
     }
 
-    // 6. Dynamic Event Check
+    // 7. Dynamic Event Check
     const event = await getEventBySlug(slug);
     if (event) {
       const md = `---
@@ -231,37 +277,6 @@ ${event.description || ''}
           'Access-Control-Allow-Origin': '*',
         },
       });
-    }
-
-    // 7. Dynamic Company Check (/companies/[slug])
-    if (cleanPath.startsWith('/companies/')) {
-      const companySlug = cleanPath.replace('/companies/', '');
-      const company = await getCompanyBySlug(companySlug);
-      if (company) {
-        const md = `---
-title: ${company.name} Web3 Jobs & Company Profile
-description: View active Web3 job openings and company profile for ${company.name}.
-canonical: ${canonical}
----
-
-# ${company.name}
-
-- **Website**: ${company.website || 'https://hashtagweb3.com'}
-- **Active Openings**: ${company.jobCount || company.jobs?.length || 0}
-
-## Open Positions
-${(company.jobs || []).map((j) => `- [${j.title}](${j.link})`).join('\n')}
-`;
-        return new NextResponse(md, {
-          status: 200,
-          headers: {
-            'Content-Type': 'text/markdown; charset=utf-8',
-            'Vary': 'Accept, Accept-Encoding, User-Agent',
-            'Link': `<${canonical}>; rel="canonical"`,
-            'Access-Control-Allow-Origin': '*',
-          },
-        });
-      }
     }
 
     // 8. Dynamic Resource Check

@@ -4,8 +4,8 @@ image: >-
  https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: foundry software toolkit
 description: >-
- A guide for Ethereum developers on Foundry, the fast, portable, and
- Solidity-native development toolkit that is changing how we build and test.
+ Learn what Foundry includes, why Solidity-native testing is fast, how to write
+ a basic Forge test, and how its workflow compares with Hardhat.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

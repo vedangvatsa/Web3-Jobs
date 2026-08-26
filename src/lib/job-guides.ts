@@ -5,7 +5,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
-import { getJobSlug } from './job-slugs';
+import { getJobContentKey, getJobSlug } from './job-slugs';
 
 const DESCRIPTIONS_CACHE_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
 
@@ -27,14 +27,36 @@ function loadDescriptionsCache(): Record<string, string> {
   return descriptionsCache;
 }
 
-export function saveJobDescriptionToCache(jobId: string, contentHtml: string) {
+function getCachedRawContent(job: Job): string {
   const cache = loadDescriptionsCache();
-  cache[jobId] = contentHtml;
-  try {
-    fs.writeFileSync(DESCRIPTIONS_CACHE_PATH, JSON.stringify(cache, null, 2), 'utf-8');
-  } catch (err) {
-    console.error('[job-descriptions] Failed to write cache:', err);
-  }
+  return cache[getJobContentKey(job)] || cache[job.id] || '';
+}
+
+function plainTextFromHtml(value: string): string {
+  if (!value) return '';
+  return cheerio.load(decodeDoubleEscapedHtml(value)).text().replace(/\s+/g, ' ').trim();
+}
+
+const FABRICATED_CONTENT_MARKERS = [
+  'leading organisation in the Web3 and blockchain ecosystem',
+  'passion for the Web3 space',
+  'dynamic and collaborative environment where you can grow your career',
+  'fast-paced environment, collaborating with talented colleagues',
+];
+
+export function hasSubstantialJobContent(job: Job): boolean {
+  const text = plainTextFromHtml(getCachedRawContent(job));
+  if (text.length < 300) return false;
+  return !FABRICATED_CONTENT_MARKERS.some((marker) => text.includes(marker));
+}
+
+export function getCachedJobSummary(job: Job, maxLength = 155): string | null {
+  if (!hasSubstantialJobContent(job)) return null;
+  const text = plainTextFromHtml(getCachedRawContent(job));
+  if (text.length <= maxLength) return text;
+  const clipped = text.slice(0, maxLength - 1);
+  const lastSpace = clipped.lastIndexOf(' ');
+  return `${clipped.slice(0, lastSpace > 80 ? lastSpace : clipped.length).trim()}...`;
 }
 
 /**
@@ -44,43 +66,7 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   const allJobs = await getJobs();
   const cleanSlug = slug.toLowerCase().trim();
 
-  // 1. Direct match with getJobSlug
-  for (const job of allJobs) {
-    if (getJobSlug(job) === cleanSlug) {
-      return job;
-    }
-  }
-
-  // 2. Match without trailing digits/serial numbers
-  for (const job of allJobs) {
-    const fullSlug = getJobSlug(job);
-    const baseSlug = fullSlug.replace(/\d+$/, '');
-    if (baseSlug === cleanSlug) {
-      return job;
-    }
-  }
-
-  // 3. Match by numeric suffix
-  const match = cleanSlug.match(/\d+$/);
-  if (match) {
-    const suffix = match[0];
-    for (const job of allJobs) {
-      const fullSlug = getJobSlug(job);
-      if (fullSlug.endsWith(suffix)) {
-        return job;
-      }
-    }
-  }
-
-  // 4. Fuzzy fallback across company + title words
-  for (const job of allJobs) {
-    const fullSlug = getJobSlug(job);
-    if (fullSlug.includes(cleanSlug) || cleanSlug.includes(fullSlug)) {
-      return job;
-    }
-  }
-
-  return null;
+  return allJobs.find((job) => getJobSlug(job) === cleanSlug) || null;
 }
 
 /**
@@ -212,50 +198,28 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
   return blocks;
 }
 
-/**
- * Rephrase dynamic phrases to keep content plagiarism-free.
- */
-function rephraseSentence(sentence: string): string {
-  let s = sentence;
-
-  const phraseMap: Array<[RegExp, string]> = [
-    [/\bwe are looking for a\b/gi, 'The team is seeking a'],
-    [/\bwe are seeking a\b/gi, 'The team is looking for a'],
-    [/\byou will be responsible for\b/gi, 'Your core responsibilities will include'],
-    [/\bwhat you will do\b/gi, 'Core duties'],
-    [/\bwhat we offer\b/gi, 'Benefits and compensation'],
-    [/\babout the company\b/gi, 'Company overview'],
-    [/\bjoin our team\b/gi, 'Work with us'],
-    [/\bcollaborate with\b/gi, 'Partner alongside'],
-    [/\bin this role, you will\b/gi, 'In this position, you are expected to'],
-    [/\byou should have\b/gi, 'The ideal candidate possesses'],
-    [/\bexperience with\b/gi, 'hands-on experience with'],
-    [/\bstrong understanding of\b/gi, 'deep familiarity with'],
-    [/\bwork closely with\b/gi, 'collaborate directly with'],
-    [/\bdesign and implement\b/gi, 'architect and deploy'],
-    [/\bdevelop and maintain\b/gi, 'build and support'],
-    [/\bbuild and scale\b/gi, 'create and optimize'],
-  ];
-
-  for (const [pattern, replacement] of phraseMap) {
-    s = s.replace(pattern, replacement);
-  }
-
-  return s;
+function escapeHtml(value: string): string {
+  return value
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&#39;');
 }
 
 /**
- * Synthesizes a unique, plagiarism-free job description based strictly on the original content.
+ * Formats employer-provided content without changing its meaning or pretending
+ * that mechanical phrase swaps create original editorial copy.
  */
-function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
+function formatJobContent(originalHtml: string): string {
   const blocks = cleanAndExtractBlocks(originalHtml);
   
   let currentListOpen = false;
   let html = '<div class="space-y-6">';
 
   for (const block of blocks) {
-    let rephrasedText = rephraseSentence(block.text);
-    rephrasedText = rephrasedText
+    let text = escapeHtml(block.text);
+    text = text
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
       .replace(/\*\*/g, '');
@@ -267,12 +231,12 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
       }
 
       // If item starts with "Label: Description", format label as bold
-      const colonMatch = rephrasedText.match(/^([A-Za-z0-9\s/&–—-]+):(\s+.*)$/);
+      const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
       if (colonMatch && colonMatch[1].length < 40) {
-        rephrasedText = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
+        text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
       }
 
-      html += `<li>${rephrasedText}</li>`;
+      html += `<li>${text}</li>`;
     } else {
       if (currentListOpen) {
         html += '</ul>';
@@ -280,9 +244,9 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
       }
       
       if (block.type === 'h3') {
-        html += `<h3 class="text-xl font-bold mt-6 mb-3 text-foreground">${rephrasedText}</h3>`;
+        html += `<h3>${text}</h3>`;
       } else {
-        html += `<p class="leading-relaxed text-muted-foreground">${rephrasedText}</p>`;
+        html += `<p>${text}</p>`;
       }
     }
   }
@@ -296,12 +260,12 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
 }
 
 /**
- * Fetches the authentic job posting content directly from the ATS / original job link,
- * then rewrites it to ensure 100% unique, plagiarism-free content exceeding 500 words.
+ * Reads cached employer content and, for a newly discovered posting, attempts a
+ * read-only fetch from the original ATS. Cache refresh scripts persist content;
+ * request-time rendering never rewrites the deployment filesystem.
  */
 export async function fetchJobOriginalContent(job: Job): Promise<string> {
-  const cache = loadDescriptionsCache();
-  let rawContent = cache[job.id] || '';
+  let rawContent = getCachedRawContent(job);
 
   if (rawContent.length < 100) {
     const url = job.link || '';
@@ -331,7 +295,6 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
           const data = await res.json();
           if (data.content) {
             rawContent = data.content;
-            saveJobDescriptionToCache(job.id, rawContent);
           }
         }
       }
@@ -358,7 +321,6 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
             if (data.additional) html += data.additional;
             if (html.length > 50) {
               rawContent = html;
-              saveJobDescriptionToCache(job.id, rawContent);
             }
           }
         }
@@ -390,7 +352,6 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
             const html = data?.data?.jobPosting?.descriptionHtml;
             if (html && html.length > 50) {
               rawContent = html;
-              saveJobDescriptionToCache(job.id, rawContent);
             }
           }
         }
@@ -425,7 +386,6 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
                 const html = data?.data?.jobPosting?.descriptionHtml;
                 if (html && html.length > 50) {
                   rawContent = html;
-                  saveJobDescriptionToCache(job.id, rawContent);
                 }
               }
             } catch {}
@@ -451,7 +411,6 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
                                htmlText.match(/<div[^>]*class="[^"]*(?:job-description|posting-content|description|job-details)[^"]*"[\s\S]*?<\/div>/i);
           if (contentMatch && contentMatch[0].length > 200) {
             rawContent = contentMatch[0];
-            saveJobDescriptionToCache(job.id, rawContent);
           }
         }
       }
@@ -460,27 +419,15 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
     }
   }
 
-  // Fallback if fetch failed completely — build rich content from job metadata
+  // Be explicit when the employer content cannot be verified. Do not invent
+  // responsibilities, qualifications, culture, benefits, or remote status.
   if (!rawContent) {
-    const dateStr = job.date ? new Date(job.date).toLocaleDateString('en-US', { year: 'numeric', month: 'long' }) : '';
-    const sourceLabel = job.source ? ` via ${job.source}` : '';
-    const locationHint = job.slug?.includes('remote') ? 'This is a remote position.' : '';
-    rawContent = `<div>
-      <h3>About the Role</h3>
-      <p>${job.title} at ${job.company}${sourceLabel}${dateStr ? ` - posted ${dateStr}` : ''}. ${locationHint}</p>
-      <h3>About ${job.company}</h3>
-      <p>${job.company} is a leading organisation in the Web3 and blockchain ecosystem, building products and services that advance decentralised technology. This role represents an opportunity to contribute to that mission in a meaningful way.</p>
-      <h3>What You Will Do</h3>
-      <p>As ${job.title}, you will work closely with cross-functional teams to drive key initiatives. You will be responsible for delivering high-quality work in a fast-paced environment, collaborating with talented colleagues, and contributing to the growth and success of ${job.company}.</p>
-      <h3>Who You Are</h3>
-      <p>You are an experienced professional with a passion for the Web3 space. You bring strong communication skills, a proactive mindset, and the ability to operate effectively in a distributed, global team. You are comfortable with ambiguity and thrive when given ownership over meaningful work.</p>
-      <h3>Why Join ${job.company}</h3>
-      <p>${job.company} offers a dynamic and collaborative environment where you can grow your career while working on technology that matters. The team is driven, mission-focused, and committed to making an impact in decentralised finance and blockchain infrastructure.</p>
-    </div>`;
+    const title = escapeHtml(job.title);
+    const company = escapeHtml(job.company);
+    return `<div><h2>Role details unavailable</h2><p>${company} lists this opening as ${title}, but the full employer description could not be verified. Use the application link to review the current requirements and location on the employer's website.</p></div>`;
   }
 
-  // Synthesize a completely unique, structured job description
-  return synthesizeUniqueJobContent(decodeDoubleEscapedHtml(rawContent), job);
+  return formatJobContent(decodeDoubleEscapedHtml(rawContent));
 }
 
 /**

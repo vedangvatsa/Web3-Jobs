@@ -8,6 +8,9 @@
 
 import * as fs from 'fs';
 import * as path from 'path';
+import Parser from 'rss-parser';
+import { load } from 'cheerio';
+import { getJobContentKey, getJobIdentity, getJobSlug } from '../src/lib/job-slugs';
 
 interface GetroBoard {
   url: string;
@@ -35,10 +38,71 @@ const GETRO_BOARDS: GetroBoard[] = [
   { url: 'https://jobs.arbitrum.io/jobs', defaultCompany: 'Arbitrum' },
   { url: 'https://jobs.avax.network/jobs', defaultCompany: 'Avalanche' },
   { url: 'https://jobs.solana.com/jobs', defaultCompany: 'Solana' },
-  { url: 'https://coinbase.getro.com/jobs', defaultCompany: 'Coinbase' },
 ];
 
 const FEED_TIMEOUT_MS = 15000;
+
+// Previously guessed ATS slugs that resolve to unrelated companies (or dead
+// boards). Keeping their cached rows would make source counts look healthier
+// while publishing jobs outside the site's scope.
+const RETIRED_BAD_SOURCES = new Set([
+  'greenhouse: guild',
+  'greenhouse: gearbox',
+  'greenhouse: axiom',
+  'ashby: jump',
+  'ashby: jane',
+  'ashby: electric',
+  'ashby: tokenterminal',
+  'recruitee: circle',
+  'recruitee: harmony',
+  'recruitee: bitfinex',
+  'recruitee: jump',
+  'lever: zeta',
+  'lever: cleanspark',
+  'lever: celestia',
+  'lever: starknet',
+  'lever: kraken',
+  'lever: big time',
+  'lever: neon evm',
+  'ashby: foundation',
+  'ashby: render network',
+  'ashby: lido',
+  'ashby: zerodev',
+  'ashby: puffer finance',
+  'ashby: flipside crypto',
+]);
+
+const RETIRED_BAD_BOARD_KEYS = new Set([
+  'greenhouse:guild', 'greenhouse:gearbox', 'greenhouse:axiom',
+  'greenhouse:nexus', 'greenhouse:sonic', 'greenhouse:spire',
+  'greenhouse:foundry', 'greenhouse:galaxy', 'greenhouse:eclipse',
+  'greenhouse:alchemy', 'greenhouse:avalabs', 'greenhouse:chainlink',
+  'greenhouse:scroll', 'greenhouse:starkware', 'greenhouse:mantlenetwork',
+  'greenhouse:worldcoin', 'greenhouse:berachain', 'greenhouse:gnosis',
+  'greenhouse:wormhole', 'greenhouse:moralis', 'greenhouse:dydx',
+  'greenhouse:pancakeswap', 'greenhouse:farcaster', 'greenhouse:etherscan',
+  'lever:zeta', 'lever:cleanspark', 'lever:celestia', 'lever:starknet',
+  'lever:kraken', 'lever:bigtime', 'lever:neon', 'lever:ethena',
+  'lever:mantra', 'lever:swissborg',
+  'ashby:jump', 'ashby:jane', 'ashby:electric', 'ashby:tokenterminal',
+  'ashby:foundation', 'ashby:render', 'ashby:lido', 'ashby:zerodev',
+  'ashby:puffer', 'ashby:flipsidecrypto', 'ashby:base', 'ashby:compound',
+  'ashby:espresso', 'ashby:dapper', 'ashby:lens', 'ashby:safe',
+  'ashby:gelato', 'ashby:socket', 'ashby:maple', 'ashby:stacks',
+  'ashby:cantina', 'ashby:switchboard', 'ashby:sequence', 'ashby:artemis',
+  'ashby:delphi',
+  'ashby:cosmos', 'ashby:backpack', 'ashby:biconomy', 'ashby:cubist',
+  'workable:blast',
+  'recruitee:circle', 'recruitee:harmony', 'recruitee:bitfinex',
+  'recruitee:jump', 'recruitee:celestia', 'recruitee:holepunch',
+]);
+
+function isRetiredSource(source: string): boolean {
+  const normalized = source.toLowerCase();
+  if (RETIRED_BAD_SOURCES.has(normalized)) return true;
+  const match = normalized.match(/^([^:]+):.*\[([^\]]+)\]$/);
+  return Boolean(match && RETIRED_BAD_BOARD_KEYS.has(`${match[1]}:${match[2]}`));
+}
 
 // Normalize variant company names to a canonical form
 const COMPANY_ALIASES: Record<string, string> = {
@@ -69,6 +133,12 @@ const COMPANY_ALIASES: Record<string, string> = {
   'lens protocol': 'Lens Protocol',
   'espresso systems': 'Espresso Systems',
   'pyth network': 'Pyth Network',
+  'aave': 'Aave Labs',
+  'aave labs': 'Aave Labs',
+  'chainlink': 'Chainlink Labs',
+  'chainlink labs': 'Chainlink Labs',
+  'startale': 'Startale Group',
+  'startale group': 'Startale Group',
 };
 
 function normalizeCompany(company: string): string {
@@ -82,7 +152,12 @@ interface CachedJob {
   company: string;
   link: string;
   date: string;
+  dateVerified?: boolean;
   source: string;
+  slug?: string;
+  location?: string;
+  department?: string;
+  active?: boolean;
 }
 
 function cleanCompany(company: string | undefined): string | undefined {
@@ -92,20 +167,117 @@ function cleanCompany(company: string | undefined): string | undefined {
 
 function cleanTitle(text: string | undefined): string | undefined {
   if (!text) return undefined;
-  // Strip CJK fullwidth brackets and content (e.g. 【MY】, 【SG】)
-  text = text.replace(/[\u3010\uFF08].*?[\u3011\uFF09]/g, '');
-  // Strip regular parenthetical country codes and junk (e.g. "(MY)", "(Remote)")
-  text = text.replace(/\s*\([^)]{1,4}\)\s*$/g, '');
-  return text.replace(/[^a-z0-9\s.,-\u2013\u2014_()|/\\\u0026+#@:\u2019\u2018`\u00b4~!?$%[\]{}*]/gi, '').trim();
+  // Location and team qualifiers distinguish otherwise-identical postings.
+  return text
+    .replace(/<[^>]*>?/gm, '')
+    .replace(/[\u200B-\u200D\uFEFF]/g, '')
+    .replace(/\s+/g, ' ')
+    .trim();
 }
 
-function createUniqueKey(title: string, company: string): string {
-  const normalize = (str: string) => str
-    .toLowerCase()
-    .trim()
-    .replace(/\s+/g, '')
-    .replace(/[^a-z0-9]/gi, '');
-  return `${normalize(title)}|${normalize(company)}`;
+function isDirectSource(source: string): boolean {
+  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|FirstParty):/i.test(source);
+}
+
+function sourceLabel(provider: string, board: string, company: string): string {
+  return `${provider}: ${company} [${board}]`;
+}
+
+function matchesRefreshedSource(job: CachedJob, provider: string, board: string, company: string): boolean {
+  const source = job.source.toLowerCase();
+  return source === sourceLabel(provider, board, company).toLowerCase()
+    || source === `${provider}: ${company}`.toLowerCase();
+}
+
+function combineLeverContent(posting: {
+  opening?: string;
+  description?: string;
+  descriptionBody?: string;
+  salaryDescription?: string;
+  lists?: Array<{ text?: string; content?: string }>;
+  additional?: string;
+}): string {
+  const sections = [posting.opening, posting.description, posting.descriptionBody];
+  for (const list of posting.lists || []) {
+    if (list.text) sections.push(`<h3>${list.text}</h3>`);
+    if (list.content) sections.push(`<ul>${list.content}</ul>`);
+  }
+  // Some employers put the full role body in Lever's salary-description field.
+  // Treat it as source content, but only after the normal sections.
+  sections.push(posting.salaryDescription);
+  sections.push(posting.additional);
+  return sections.filter(Boolean).join('\n');
+}
+
+const FABRICATED_DESCRIPTION_MARKERS = [
+  'leading organisation in the Web3 and blockchain ecosystem',
+  'passion for the Web3 space',
+  'dynamic and collaborative environment where you can grow your career',
+  'fast-paced environment, collaborating with talented colleagues',
+];
+
+function isUsableDescription(content: string | undefined): content is string {
+  if (!content || content.replace(/<[^>]+>/g, ' ').replace(/\s+/g, ' ').trim().length < 200) return false;
+  return !FABRICATED_DESCRIPTION_MARKERS.some((marker) => content.includes(marker));
+}
+
+function isConcreteOpening(title: string): boolean {
+  return !/(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|future opportunities|future consideration|future builders|join our talent|dream job|spontaneous application|open position|create your own role)/i.test(title);
+}
+
+interface JsonLdJobPosting {
+  '@type'?: string;
+  description?: string;
+  datePosted?: string;
+  title?: string;
+}
+
+function extractJsonLdJobPosting(html: string): JsonLdJobPosting | undefined {
+  const scripts = html.matchAll(/<script[^>]+type=["']application\/ld\+json["'][^>]*>([\s\S]*?)<\/script>/gi);
+  for (const match of scripts) {
+    try {
+      const parsed = JSON.parse(match[1]);
+      const roots = Array.isArray(parsed) ? parsed : [parsed];
+      const entries = roots.flatMap((entry) => (
+        Array.isArray(entry?.['@graph']) ? entry['@graph'] : [entry]
+      ));
+      const posting = entries.find((entry) => entry?.['@type'] === 'JobPosting');
+      if (posting) return posting as JsonLdJobPosting;
+    } catch {
+      // Ignore unrelated or malformed structured-data blocks.
+    }
+  }
+  return undefined;
+}
+
+function extractJsonLdJobDescription(html: string): string | undefined {
+  const description = extractJsonLdJobPosting(html)?.description;
+  return description ? String(description) : undefined;
+}
+
+function extractBreezyJobDescription(html: string): string | undefined {
+  const $ = load(html);
+  return $('#description .description').first().html() || undefined;
+}
+
+function extractAshbyAppData(html: string): any | undefined {
+  const match = html.match(/window\.__appData\s*=\s*(\{[^\n\r]*\});/);
+  if (!match) return undefined;
+  try {
+    return JSON.parse(match[1]);
+  } catch {
+    return undefined;
+  }
+}
+
+async function runInBatches<T>(
+  items: T[],
+  batchSize: number,
+  task: (item: T) => Promise<void>,
+): Promise<void> {
+  for (let index = 0; index < items.length; index += batchSize) {
+    await Promise.all(items.slice(index, index + batchSize).map(task));
+  }
 }
 
 async function refreshJobsCache() {
@@ -113,6 +285,51 @@ async function refreshJobsCache() {
   console.log(`Getro boards to fetch: ${GETRO_BOARDS.length}`);
 
   const jobMap = new Map<string, CachedJob>();
+  const persistedSlugs = new Map<string, string>();
+  const persistedDates = new Map<string, string>();
+  const persistedDateVerification = new Map<string, boolean | undefined>();
+  const descriptionsPath = path.join(process.cwd(), 'content/job-descriptions.json');
+  let existingDescriptions: Record<string, string> = {};
+  const refreshedDescriptions = new Map<string, string>();
+
+  const upsertJob = (job: CachedJob): boolean => {
+    const identity = getJobIdentity(job);
+    const existing = jobMap.get(identity);
+    const nextJob = {
+      ...job,
+      slug: existing?.slug || persistedSlugs.get(identity) || job.slug || getJobSlug(job),
+    };
+    jobMap.set(identity, nextJob);
+    return !existing;
+  };
+
+  const removeJobs = (predicate: (job: CachedJob) => boolean): void => {
+    for (const [identity, job] of jobMap) {
+      if (predicate(job)) jobMap.delete(identity);
+    }
+  };
+
+  const removeAggregatorCopiesForCompany = (company: string): void => {
+    const canonicalCompany = normalizeCompany(company).toLowerCase();
+    removeJobs((job) => (
+      !isDirectSource(job.source)
+      && normalizeCompany(job.company).toLowerCase() === canonicalCompany
+    ));
+  };
+
+  const rememberDescription = (job: CachedJob, content: string | undefined): void => {
+    if (isUsableDescription(content)) {
+      refreshedDescriptions.set(getJobContentKey(job), content);
+    }
+  };
+
+  try {
+    if (fs.existsSync(descriptionsPath)) {
+      existingDescriptions = JSON.parse(fs.readFileSync(descriptionsPath, 'utf-8'));
+    }
+  } catch {
+    console.warn('Could not read the existing job description cache; rebuilding it from live sources.');
+  }
 
   // Load existing cache to preserve jobs that may have dropped from feeds
   const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
@@ -123,12 +340,18 @@ async function refreshJobsCache() {
       thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
       
       existing.forEach(job => {
-        if (new Date(job.date) > thirtyDaysAgo) {
-          const key = createUniqueKey(job.title, job.company);
-          jobMap.set(key, job);
+        const identity = getJobIdentity(job);
+        if (job.slug) persistedSlugs.set(identity, job.slug);
+        persistedDates.set(identity, job.date);
+        persistedDateVerification.set(identity, job.dateVerified);
+        if (isRetiredSource(job.source)) return;
+        // Direct ATS roles are replaced only after their board responds
+        // successfully. This avoids wiping a company during a transient outage.
+        if (isDirectSource(job.source) || new Date(job.date) > thirtyDaysAgo) {
+          jobMap.set(getJobIdentity(job), job);
         }
       });
-      console.log(`📦 Loaded ${jobMap.size} existing jobs from cache (after 30-day filter)`);
+      console.log(`📦 Loaded ${jobMap.size} existing jobs (active ATS roles plus recent aggregator discoveries)`);
     }
   } catch (e) {
     console.warn('⚠️ Could not read existing cache, starting fresh');
@@ -138,6 +361,10 @@ async function refreshJobsCache() {
   const fetchStart = Date.now();
   let feedsOk = 0;
   let feedsFailed = 0;
+  const configuredDirectSources = new Set<string>();
+  const registerDirectSource = (provider: string, board: string, company: string): void => {
+    configuredDirectSources.add(sourceLabel(provider, board, company).toLowerCase());
+  };
 
   await Promise.all(
     GETRO_BOARDS.map(async (board) => {
@@ -157,6 +384,7 @@ async function refreshJobsCache() {
         
         const nextData = JSON.parse(nextDataMatch[1]);
         const jobsData = nextData?.props?.pageProps?.initialState?.jobs?.found || nextData?.props?.pageProps?.initialState?.jobs?.data || [];
+        removeJobs((job) => job.source === board.url);
         
         let added = 0;
         jobsData.forEach((job: any) => {
@@ -180,18 +408,15 @@ async function refreshJobsCache() {
           );
 
           if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty') && !isUnsafeLink) {
-            const key = createUniqueKey(title, company);
-            if (!jobMap.has(key)) {
-              jobMap.set(key, {
+            const candidate: CachedJob = {
                 id: String(job.id) || link,
                 title,
                 company,
                 link,
                 date: job.createdAt ? new Date(job.createdAt * 1000).toISOString() : new Date().toISOString(),
                 source: board.url,
-              });
-              added++;
-            }
+              };
+            if (upsertJob(candidate)) added++;
           }
         });
         feedsOk++;
@@ -205,27 +430,37 @@ async function refreshJobsCache() {
 
   // --- Greenhouse API Sources ---
   const GREENHOUSE_BOARDS = [
-    { board: 'guild', company: 'Guild' },
-
     { board: 'stripe', company: 'Stripe' },
 
     { board: 'messari', company: 'Messari' },
-
-    { board: 'gearbox', company: 'Gearbox' },
-
-    { board: 'axiom', company: 'Axiom' },
 
     { board: 'coinbase', company: 'Coinbase' },
     { board: 'ripple', company: 'Ripple' },
     { board: 'robinhood', company: 'Robinhood' },
     { board: 'bitgo', company: 'BitGo' },
     { board: 'fireblocks', company: 'Fireblocks' },
-    { board: 'alchemy', company: 'Alchemy' },
     { board: 'consensys', company: 'Consensys' },
     { board: 'gemini', company: 'Gemini' },
+    { board: 'ondofinance', company: 'Ondo Finance' },
+    { board: 'figure', company: 'Figure' },
+    { board: 'bvnk', company: 'BVNK' },
+    { board: 'hut8', company: 'Hut 8' },
+    { board: 'mesh', company: 'Mesh' },
+    { board: 'straitsx', company: 'StraitsX' },
+    { board: 'digitalassetcorp', company: 'Digital Asset' },
+    { board: 'breezecash', company: 'Breeze Cash' },
+    { board: 'xapo61', company: 'Xapo Bank' },
+    { board: 'strike', company: 'Strike' },
+    { board: 'daylight', company: 'Daylight' },
+    { board: 'm0dbathenextthingltd', company: 'M0' },
+    { board: 'telcoin', company: 'Telcoin' },
+    { board: 'validationcloud', company: 'Validation Cloud' },
+    { board: 'filecoinfoundation', company: 'Filecoin Foundation' },
+    { board: '21shares', company: '21Shares' },
+    { board: 'bcbgroup', company: 'BCB Group' },
+    { board: 'block', company: 'Block' },
     // --- New web3 Greenhouse feeds ---
     { board: 'aptoslabs', company: 'Aptos Labs' },
-    { board: 'avalabs', company: 'Ava Labs' },
     { board: 'layerzerolabs', company: 'LayerZero' },
     { board: 'galaxydigitalservices', company: 'Galaxy Digital' },
     { board: 'blockchain', company: 'Blockchain.com' },
@@ -246,8 +481,6 @@ async function refreshJobsCache() {
     { board: 'securitize', company: 'Securitize' },
     { board: 'copperco', company: 'Copper.co' },
     { board: 'figment', company: 'Figment' },
-    { board: 'eclipse', company: 'Eclipse' },
-    { board: 'nexus', company: 'Nexus' },
     { board: 'openzeppelin', company: 'OpenZeppelin' },
     { board: 'immunefi', company: 'Immunefi' },
     { board: 'b2c2', company: 'B2C2' },
@@ -279,33 +512,31 @@ async function refreshJobsCache() {
     { board: 'magic', company: 'Magic' },
     { board: 'helium', company: 'Helium' },
     { board: 'janestreet', company: 'Jane Street' },
-    { board: 'galaxy', company: 'Galaxy Digital' },
     { board: 'genesis', company: 'Genesis' },
-    { board: 'foundry', company: 'Foundry' },
+    { board: 'startale', company: 'Startale Group' },
     // --- CoinGecko May 2026 expansion ---
-    { board: 'sonic', company: 'Sonic' },
-    { board: 'spire', company: 'Spire' },
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
-    { board: 'chainlink', company: 'Chainlink Labs' },
-    { board: 'scroll', company: 'Scroll' },
-    { board: 'starkware', company: 'StarkWare' },
-    { board: 'mantlenetwork', company: 'Mantle' },
-    { board: 'worldcoin', company: 'Worldcoin' },
-    { board: 'berachain', company: 'Berachain' },
-    { board: 'gnosis', company: 'Gnosis' },
-    { board: 'wormhole', company: 'Wormhole' },
-    { board: 'moralis', company: 'Moralis' },
-    { board: 'dydx', company: 'dYdX' },
-    { board: 'pancakeswap', company: 'PancakeSwap' },
-    { board: 'farcaster', company: 'Farcaster' },
-    { board: 'etherscan', company: 'Etherscan' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
+    registerDirectSource('Greenhouse', gh.board, gh.company);
     try {
-      const res = await fetch(`https://boards-api.greenhouse.io/v1/boards/${gh.board}/jobs?content=false`);
+      const res = await fetch(`https://boards-api.greenhouse.io/v1/boards/${gh.board}/jobs?content=true`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json() as { jobs: Array<{ title: string; absolute_url: string; id: number; updated_at: string; first_published: string; metadata: Array<{ name: string; value: string }> }> };
+      const data = await res.json() as { jobs: Array<{
+        title: string;
+        absolute_url: string;
+        id: number;
+        updated_at: string;
+        first_published: string;
+        content?: string;
+        location?: { name?: string };
+        departments?: Array<{ name?: string }>;
+        metadata?: Array<{ name: string; value: string }>;
+      }> };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Greenhouse', gh.board, gh.company));
+      removeAggregatorCopiesForCompany(gh.company);
 
       let added = 0;
       for (const job of data.jobs) {
@@ -317,19 +548,20 @@ async function refreshJobsCache() {
         const dept = job.metadata?.find(m => m.name === 'Careersite Department (for job postings)')?.value;
         if (dept === 'Do Not Post') continue;
 
-        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
-          const key = createUniqueKey(title, company);
-          if (!jobMap.has(key)) {
-            jobMap.set(key, {
+        if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title)) {
+          const candidate: CachedJob = {
               id: String(job.id),
               title,
               company,
               link,
               date: date || new Date().toISOString(),
-              source: `Greenhouse: ${gh.company}`,
-            });
-            added++;
-          }
+              source: sourceLabel('Greenhouse', gh.board, gh.company),
+              location: job.location?.name,
+              department: job.departments?.[0]?.name || dept,
+              active: true,
+            };
+          if (upsertJob(candidate)) added++;
+          rememberDescription(candidate, job.content);
         }
       }
       feedsOk++;
@@ -341,26 +573,23 @@ async function refreshJobsCache() {
   }
 
   // --- Lever API Sources ---
-  const LEVER_BOARDS = [
-    { board: 'crypto', company: 'Crypto' },
-
-    { board: 'zeta', company: 'Zeta' },
-
-    { board: 'cleanspark', company: 'Cleanspark' },
+  const LEVER_BOARDS: Array<{ board: string; company: string; apiHost?: string }> = [
+    { board: 'crypto', company: 'Crypto.com' },
+    { board: 'aavelabs', company: 'Aave Labs', apiHost: 'https://api.eu.lever.co' },
+    { board: 'funxyz', company: 'Fun.xyz' },
+    { board: 'serotonin', company: 'Serotonin' },
+    { board: 'renegade', company: 'Renegade' },
+    { board: 'waterfall', company: 'Waterfall' },
+    { board: 'relay', company: 'Relay' },
 
     { board: 'immutable', company: 'Immutable' },
-    { board: 'celestia', company: 'Celestia' },
-    { board: 'starknet', company: 'StarkNet' },
-    { board: 'kraken', company: 'Kraken' },
     { board: 'anchorage', company: 'Anchorage Digital' },
     { board: 'moonpay', company: 'MoonPay' },
     { board: 'ledger', company: 'Ledger' },
-    { board: 'ethena', company: 'Ethena' },
     { board: '1inch', company: '1inch' },
     { board: 'zerion', company: 'Zerion' },
     // --- Crypto exchanges ---
     { board: 'gate', company: 'Gate.io' },
-    { board: 'swissborg', company: 'SwissBorg' },
     // --- New Web3 companies ---
     { board: 'wintermute-trading', company: 'Wintermute' },
     { board: 'superstate', company: 'Superstate' },
@@ -383,24 +612,35 @@ async function refreshJobsCache() {
     { board: 'aurora-dev', company: 'Aurora' },
     // --- Apr 2026 expansion (wave 3) ---
     { board: 'binance', company: 'Binance' },
-    { board: 'bigtime', company: 'Big Time' },
     // --- Apr 2026 expansion (wave 4) ---
     { board: 'newton', company: 'Newton' },
     // --- Massive May 2026 expansion ---
     { board: 'coins', company: 'Coins.ph' },
-    { board: 'coinmarketcap', company: 'CoinMarketCap' },
-    { board: 'zerion', company: 'Zerion' },
     { board: 'aragon', company: 'Aragon' },
     // --- CoinGecko May 2026 expansion ---
-    { board: 'mantra', company: 'MANTRA' },
-    { board: 'neon', company: 'Neon EVM' },
   ];
 
   for (const lv of LEVER_BOARDS) {
+    registerDirectSource('Lever', lv.board, lv.company);
     try {
-      const res = await fetch(`https://api.lever.co/v0/postings/${lv.board}?mode=json`);
+      const res = await fetch(`${lv.apiHost || 'https://api.lever.co'}/v0/postings/${lv.board}?mode=json`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const postings = await res.json() as Array<{ text: string; hostedUrl: string; id: string; createdAt: number; categories?: { team?: string; department?: string; location?: string } }>;
+      const postings = await res.json() as Array<{
+        text: string;
+        hostedUrl: string;
+        id: string;
+        createdAt: number;
+        categories?: { team?: string; department?: string; location?: string };
+        opening?: string;
+        description?: string;
+        descriptionBody?: string;
+        salaryDescription?: string;
+        lists?: Array<{ text?: string; content?: string }>;
+        additional?: string;
+      }>;
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Lever', lv.board, lv.company));
+      removeAggregatorCopiesForCompany(lv.company);
 
       let added = 0;
       for (const posting of postings) {
@@ -408,20 +648,22 @@ async function refreshJobsCache() {
         const company = normalizeCompany(lv.company);
         const link = posting.hostedUrl;
         const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : new Date().toISOString();
+        const content = combineLeverContent(posting);
 
-        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
-          const key = createUniqueKey(title, company);
-          if (!jobMap.has(key)) {
-            jobMap.set(key, {
+        if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title) && isUsableDescription(content)) {
+          const candidate: CachedJob = {
               id: posting.id,
               title,
               company,
               link,
               date,
-              source: `Lever: ${lv.company}`,
-            });
-            added++;
-          }
+              source: sourceLabel('Lever', lv.board, lv.company),
+              location: posting.categories?.location,
+              department: posting.categories?.department || posting.categories?.team,
+              active: true,
+          };
+          if (upsertJob(candidate)) added++;
+          rememberDescription(candidate, content);
         }
       }
       feedsOk++;
@@ -436,69 +678,92 @@ async function refreshJobsCache() {
   const ASHBY_BOARDS = [
     { board: 'ramp', company: 'Ramp' },
 
-    { board: 'jump', company: 'Jump' },
-
-    { board: 'jane', company: 'Jane' },
-
-    { board: 'electric', company: 'Electric' },
-
-    { board: 'tokenterminal', company: 'Tokenterminal' },
+    // High-signal crypto employers verified against their official careers pages.
+    { board: 'chainalysis-careers', company: 'Chainalysis' },
+    { board: 'chainalysis-government-solutions', company: 'Chainalysis' },
+    { board: 'blockstream', company: 'Blockstream' },
+    { board: 'Talos-Trading', company: 'Talos' },
+    { board: 'keyrock', company: 'Keyrock' },
+    { board: 'coinhako', company: 'Coinhako' },
+    { board: 'Hyperliquid Labs', company: 'Hyperliquid Labs' },
+    { board: 'Tools for Humanity', company: 'Tools for Humanity' },
+    { board: 'Solana Foundation', company: 'Solana Foundation' },
+    { board: 'Sui Foundation', company: 'Sui Foundation' },
+    { board: 'ethereum-foundation', company: 'Ethereum Foundation' },
+    { board: 'category-labs', company: 'Category Labs' },
+    { board: 'monad.foundation', company: 'Monad Foundation' },
+    { board: 'lightning', company: 'Lightning Labs' },
+    { board: 'matter-labs', company: 'Matter Labs' },
+    { board: 'solanalabs', company: 'Solana Labs' },
+    { board: 'ether.fi', company: 'ether.fi' },
+    { board: 'rain', company: 'Rain' },
+    { board: 'tempo-xyz', company: 'Tempo' },
+    { board: '0g', company: '0G Labs' },
+    { board: 'coinflow', company: 'Coinflow' },
+    { board: 'allium', company: 'Allium' },
+    { board: 'braiins', company: 'Braiins' },
+    { board: 'luxor', company: 'Luxor Technology' },
+    { board: 'ellipsislabs', company: 'Ellipsis Labs' },
+    { board: 'grvt', company: 'GRVT' },
+    { board: 'doublezero', company: 'DoubleZero' },
+    { board: 'symbiotic', company: 'Symbiotic' },
+    { board: 'stargate-foundation', company: 'Stargate Foundation' },
+    { board: 'plasma', company: 'Plasma' },
+    { board: 'sahara', company: 'Sahara AI' },
+    { board: 'ethglobal', company: 'ETHGlobal' },
+    { board: 'cow-dao', company: 'CoW DAO' },
+    { board: 'cointracker', company: 'CoinTracker' },
+    { board: 'lightspark', company: 'Lightspark' },
+    { board: 'cryptio', company: 'Cryptio' },
+    { board: 'alpenlabs', company: 'Alpen Labs' },
+    { board: 'improbable', company: 'Improbable' },
+    { board: 'p2p.org', company: 'P2P.org' },
+    { board: 'world-foundation', company: 'World Foundation' },
+    { board: 'kraken.com', company: 'Kraken' },
+    { board: 'starknetfoundation', company: 'Starknet Foundation' },
+    { board: 'Lido.fi', company: 'Lido' },
+    { board: 'veda', company: 'Veda' },
+    { board: 'walrus', company: 'Walrus Foundation' },
+    { board: 'blackbird-labs-inc', company: 'Blackbird Labs' },
+    { board: 'alchemy', company: 'Alchemy' },
 
     // L1/L2 Chains
     { board: 'polygon-labs', company: 'Polygon Labs' },
     { board: 'mystenlabs', company: 'Mysten Labs' },
-    { board: 'Base', company: 'Base' },
-    { board: 'Cosmos', company: 'Cosmos' },
     { board: 'Injective', company: 'Injective' },
     { board: 'Conduit', company: 'Conduit' },
-    { board: 'Espresso', company: 'Espresso Systems' },
     { board: 'Succinct', company: 'Succinct' },
     { board: 'SkyEcosystem', company: 'Sky (MakerDAO)' },
     // Exchanges & Trading
     { board: 'Polymarket', company: 'Polymarket' },
-    { board: 'Backpack', company: 'Backpack' },
     // DeFi
     { board: 'Uniswap', company: 'Uniswap' },
-    { board: 'Compound', company: 'Compound' },
     { board: 'Morpho', company: 'Morpho' },
     { board: 'Orca', company: 'Orca' },
     // NFT & Social
     { board: 'OpenSea', company: 'OpenSea' },
     { board: 'MagicEden', company: 'Magic Eden' },
-    { board: 'Dapper', company: 'Dapper Labs' },
-    { board: 'Foundation', company: 'Foundation' },
-    { board: 'Lens', company: 'Lens Protocol' },
     { board: 'Sorare', company: 'Sorare' },
     // Wallets & Auth
     { board: 'Phantom', company: 'Phantom' },
-    { board: 'Safe', company: 'Safe' },
     { board: 'Turnkey', company: 'Turnkey' },
     { board: 'SpruceID', company: 'Spruce' },
     // Infra & Dev Tools
-    { board: 'Gelato', company: 'Gelato' },
     { board: 'QuickNode', company: 'QuickNode' },
     { board: 'Syndica', company: 'Syndica' },
     { board: 'Helius', company: 'Helius' },
     { board: '0x', company: '0x' },
     { board: 'LI.FI', company: 'LI.FI' },
-    { board: 'Socket', company: 'Socket' },
     { board: 'PythNetwork', company: 'Pyth Network' },
-    { board: 'Biconomy', company: 'Biconomy' },
     // Analytics & Security
     { board: 'Elliptic', company: 'Elliptic' },
-    { board: 'Maple', company: 'Maple Finance' },
     { board: 'Blockdaemon', company: 'Blockdaemon' },
     // L1 Chains
-    { board: 'Stacks', company: 'Stacks' },
     { board: 'Stellar', company: 'Stellar' },
     // Infra & Security
     { board: 'Nethermind', company: 'Nethermind' },
-    { board: 'cantina', company: 'Cantina' },
-    { board: 'cubist', company: 'Cubist' },
     { board: 'trm-labs', company: 'TRM Labs' },
-    { board: 'switchboard', company: 'Switchboard' },
     // Wallets & SDK
-    { board: 'Sequence', company: 'Sequence' },
     // Crypto VC
     { board: 'Nascent', company: 'Nascent' },
     // --- Apr 2026 expansion ---
@@ -515,32 +780,36 @@ async function refreshJobsCache() {
     { board: 'eigen-labs', company: 'Eigen Labs' },
     { board: 'aztec-labs', company: 'Aztec' },
     { board: 'provable', company: 'Provable (Aleo)' },
-    { board: 'Render', company: 'Render Network' },
     // --- Apr 2026 expansion (wave 3) ---
     { board: 'seifoundation', company: 'Sei' },
-    { board: 'artemis', company: 'Artemis' },
     // --- Apr 2026 expansion (wave 4) ---
     { board: 'trust-wallet', company: 'Trust Wallet' },
     { board: 'bitvavo', company: 'Bitvavo' },
-    { board: 'delphi', company: 'Delphi Digital' },
     { board: 'variant-fund', company: 'Variant Fund' },
-    { board: 'flipsidecrypto', company: 'Flipside Crypto' },
     // --- Massive May 2026 expansion ---
-    { board: 'biconomy', company: 'Biconomy' },
-    { board: 'dapper', company: 'Dapper Labs' },
     { board: 'protocol', company: 'Protocol Labs' },
     { board: 'cyberconnect', company: 'CyberConnect' },
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
-    { board: 'lido', company: 'Lido' },
-    { board: 'zerodev', company: 'ZeroDev' },
-    { board: 'puffer', company: 'Puffer Finance' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
+    registerDirectSource('Ashby', ab.board, ab.company);
     try {
-      const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${ab.board}`);
+      const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodeURIComponent(ab.board)}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json() as { jobs: Array<{ title: string; jobUrl: string; id: string; publishedAt: string; location: string; department: string }> };
+      const data = await res.json() as { jobs: Array<{
+        title: string;
+        jobUrl: string;
+        id: string;
+        publishedAt: string;
+        location?: string;
+        department?: string;
+        team?: string;
+        descriptionHtml?: string;
+      }> };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Ashby', ab.board, ab.company));
+      removeAggregatorCopiesForCompany(ab.company);
 
       let added = 0;
       for (const job of data.jobs) {
@@ -549,19 +818,20 @@ async function refreshJobsCache() {
         const link = job.jobUrl;
         const date = job.publishedAt || new Date().toISOString();
 
-        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
-          const key = createUniqueKey(title, company);
-          if (!jobMap.has(key)) {
-            jobMap.set(key, {
+        if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title)) {
+          const candidate: CachedJob = {
               id: job.id,
               title,
               company,
               link,
               date,
-              source: `Ashby: ${ab.company}`,
-            });
-            added++;
-          }
+              source: sourceLabel('Ashby', ab.board, ab.company),
+              location: job.location,
+              department: job.department || job.team,
+              active: true,
+            };
+          if (upsertJob(candidate)) added++;
+          rememberDescription(candidate, job.descriptionHtml);
         }
       }
       feedsOk++;
@@ -572,40 +842,169 @@ async function refreshJobsCache() {
     }
   }
 
+  // Some employers use Ashby's public hosted board but disable its posting API.
+  // The hosted HTML still exposes the same live posting data and full details.
+  const ASHBY_HTML_BOARDS = [
+    { board: 'chainlink-labs', company: 'Chainlink Labs' },
+  ];
+
+  for (const ab of ASHBY_HTML_BOARDS) {
+    registerDirectSource('Ashby', ab.board, ab.company);
+    try {
+      const boardUrl = `https://jobs.ashbyhq.com/${ab.board}`;
+      const boardRes = await fetch(boardUrl);
+      if (!boardRes.ok) throw new Error(`HTTP ${boardRes.status}`);
+      const boardData = extractAshbyAppData(await boardRes.text());
+      const postings = boardData?.jobBoard?.jobPostings as Array<{
+        id: string;
+        title: string;
+        locationName?: string;
+        teamId?: string;
+      }> | undefined;
+      if (!Array.isArray(postings)) throw new Error('Missing Ashby hosted job list');
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Ashby', ab.board, ab.company));
+      removeAggregatorCopiesForCompany(ab.company);
+      let added = 0;
+
+      await runInBatches(postings, 8, async (posting) => {
+        const title = cleanTitle(posting.title);
+        if (!title || !isConcreteOpening(title)) return;
+
+        const link = `${boardUrl}/${posting.id}`;
+        let detail: {
+          id?: string;
+          title?: string;
+          descriptionHtml?: string;
+          locationName?: string;
+          departmentName?: string;
+          teamNames?: string[];
+          isListed?: boolean;
+        } = {};
+        let datePosted: string | undefined;
+        try {
+          const detailRes = await fetch(link);
+          if (detailRes.ok) {
+            const detailHtml = await detailRes.text();
+            detail = extractAshbyAppData(detailHtml)?.posting || {};
+            datePosted = extractJsonLdJobPosting(detailHtml)?.datePosted;
+          }
+        } catch {
+          // Keep the verified live listing, but never invent missing detail text.
+        }
+        if (detail.isListed === false) return;
+
+        const candidate: CachedJob = {
+          id: detail.id || posting.id,
+          title: cleanTitle(detail.title) || title,
+          company: ab.company,
+          link,
+          date: datePosted || new Date().toISOString(),
+          dateVerified: Boolean(datePosted),
+          source: sourceLabel('Ashby', ab.board, ab.company),
+          location: detail.locationName || posting.locationName,
+          department: detail.departmentName || detail.teamNames?.[0],
+          active: true,
+        };
+        const identity = getJobIdentity(candidate);
+        candidate.date = datePosted || persistedDates.get(identity) || candidate.date;
+        candidate.dateVerified = datePosted
+          ? true
+          : persistedDateVerification.get(identity) ?? false;
+        if (upsertJob(candidate)) added++;
+        rememberDescription(candidate, detail.descriptionHtml);
+      });
+
+      feedsOk++;
+      console.log(`  ✅ Ashby hosted (${ab.company}): ${postings.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Ashby hosted (${ab.company}): ${error.message}`);
+    }
+  }
+
   // --- Workable API Sources ---
   const WORKABLE_BOARDS = [
     { board: 'aethir', company: 'Aethir' },
-    { board: 'blast', company: 'Blast' },
+    { board: 'anza-xyz', company: 'Anza' },
+    { board: 'walletconnect', company: 'WalletConnect' },
+    { board: 'io-global', company: 'IO Global' },
+    { board: 'hextrust', company: 'Hex Trust' },
+    { board: 'crypto-finance', company: 'Crypto Finance' },
+    { board: 'gomining', company: 'GoMining' },
   ];
 
   for (const wb of WORKABLE_BOARDS) {
+    registerDirectSource('Workable', wb.board, wb.company);
     try {
       const res = await fetch(`https://apply.workable.com/api/v1/widget/accounts/${wb.board}`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json() as { jobs: Array<{ title: string; url: string; id: string; published_on: string; department: string; location: { city: string; country: string } }> };
+      const data = await res.json() as { jobs: Array<{
+        title: string;
+        url?: string;
+        application_url?: string;
+        shortcode?: string;
+        code?: string;
+        published_on?: string;
+        created_at?: string;
+        department?: string;
+        city?: string;
+        country?: string;
+      }> };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Workable', wb.board, wb.company));
+      removeAggregatorCopiesForCompany(wb.company);
 
       let added = 0;
-      for (const job of data.jobs) {
-        const title = cleanTitle(job.title);
-        const company = normalizeCompany(wb.company);
-        const link = `https://apply.workable.com/${wb.board}/j/${job.id}/`;
-        const date = job.published_on || new Date().toISOString();
+      await runInBatches(data.jobs, 10, async (job) => {
+        const id = job.shortcode || job.code;
+        if (!id) return;
 
-        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
-          const key = createUniqueKey(title, company);
-          if (!jobMap.has(key)) {
-            jobMap.set(key, {
-              id: job.id,
-              title,
-              company,
-              link,
-              date,
-              source: `Workable: ${wb.company}`,
-            });
-            added++;
-          }
+        let detail: {
+          title?: string;
+          published?: string;
+          department?: string;
+          description?: string;
+          requirements?: string;
+          benefits?: string;
+          location?: { city?: string; country?: string };
+          locations?: Array<{ city?: string; country?: string }>;
+        } = {};
+        try {
+          const detailRes = await fetch(`https://apply.workable.com/api/v1/accounts/${wb.board}/jobs/${id}`);
+          if (detailRes.ok) detail = await detailRes.json() as typeof detail;
+        } catch {
+          // Keep the verified listing and omit optional fields on detail failure.
         }
-      }
+
+        const title = cleanTitle(detail.title || job.title);
+        const company = normalizeCompany(wb.company);
+        const link = job.url || job.application_url || `https://apply.workable.com/${wb.board}/j/${id}/`;
+        const date = detail.published || job.published_on || job.created_at || new Date().toISOString();
+        if (!link || !title || title.length > 180 || title.toLowerCase().includes('bounty')) return;
+
+        const detailLocations = detail.locations || (detail.location ? [detail.location] : []);
+        const location = detailLocations
+          .map((item) => [item.city, item.country].filter(Boolean).join(', '))
+          .filter(Boolean)
+          .join(' / ');
+        const candidate: CachedJob = {
+          id,
+          title,
+          company,
+          link,
+          date,
+          source: sourceLabel('Workable', wb.board, wb.company),
+          location: location || [job.city, job.country].filter(Boolean).join(', ') || undefined,
+          department: detail.department || job.department,
+          active: true,
+        };
+        if (upsertJob(candidate)) added++;
+        rememberDescription(
+          candidate,
+          [detail.description, detail.requirements, detail.benefits].filter(Boolean).join('\n')
+        );
+      });
       feedsOk++;
       console.log(`  ✅ Workable (${wb.company}): ${data.jobs.length} items, ${added} new`);
     } catch (error: any) {
@@ -616,20 +1015,27 @@ async function refreshJobsCache() {
 
   // --- Recruitee API Sources ---
   const RECRUITEE_BOARDS = [
-    { board: 'circle', company: 'Circle' },
-    { board: 'celestia', company: 'Celestia' },
-    { board: 'harmony', company: 'Harmony' },
-    // --- CoinGecko May 2026 expansion ---
     { board: 'tether', company: 'Tether' },
-    { board: 'bitfinex', company: 'Bitfinex' },
-    { board: 'jump', company: 'Jump' },
   ];
 
   for (const rt of RECRUITEE_BOARDS) {
+    registerDirectSource('Recruitee', rt.board, rt.company);
     try {
       const res = await fetch(`https://${rt.board}.recruitee.com/api/offers`);
       if (!res.ok) throw new Error(`HTTP ${res.status}`);
-      const data = await res.json() as { offers: Array<{ title: string; careers_url: string; id: number; published_at: string; department: string; location: string }> };
+      const data = await res.json() as { offers: Array<{
+        title: string;
+        careers_url: string;
+        id: number;
+        published_at: string;
+        department?: string;
+        location?: string;
+        description?: string;
+        requirements?: string;
+      }> };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Recruitee', rt.board, rt.company));
+      removeAggregatorCopiesForCompany(rt.company);
 
       let added = 0;
       for (const offer of data.offers) {
@@ -638,19 +1044,20 @@ async function refreshJobsCache() {
         const link = offer.careers_url;
         const date = offer.published_at || new Date().toISOString();
 
-        if (link && title && title.split(' ').length <= 15 && !title.includes('*') && !title.toLowerCase().includes('bounty')) {
-          const key = createUniqueKey(title, company);
-          if (!jobMap.has(key)) {
-            jobMap.set(key, {
+        if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty')) {
+          const candidate: CachedJob = {
               id: String(offer.id),
               title,
               company,
               link,
               date,
-              source: `Recruitee: ${rt.company}`,
-            });
-            added++;
-          }
+              source: sourceLabel('Recruitee', rt.board, rt.company),
+              location: offer.location,
+              department: offer.department,
+              active: true,
+            };
+          if (upsertJob(candidate)) added++;
+          rememberDescription(candidate, [offer.description, offer.requirements].filter(Boolean).join('\n'));
         }
       }
       feedsOk++;
@@ -661,16 +1068,591 @@ async function refreshJobsCache() {
     }
   }
 
+  // --- Workday Sources ---
+  // Workday's public CXS endpoint exposes a complete listing and a separate
+  // detail document with the employer-authored description.
+  const WORKDAY_BOARDS = [
+    {
+      tenant: 'circle',
+      site: 'Circle',
+      company: 'Circle',
+      host: 'https://circle.wd1.myworkdayjobs.com',
+    },
+  ];
+
+  for (const wd of WORKDAY_BOARDS) {
+    const board = `${wd.tenant}/${wd.site}`;
+    registerDirectSource('Workday', board, wd.company);
+    try {
+      const endpoint = `${wd.host}/wday/cxs/${wd.tenant}/${wd.site}/jobs`;
+      const postings: Array<{ title: string; externalPath: string; locationsText?: string }> = [];
+      let total = 1;
+
+      for (let offset = 0; offset < total; offset += 20) {
+        const res = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json' },
+          body: JSON.stringify({ appliedFacets: {}, limit: 20, offset, searchText: '' }),
+        });
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const data = await res.json() as {
+          total: number;
+          jobPostings: Array<{ title: string; externalPath: string; locationsText?: string }>;
+        };
+        // Workday reports the total only on the first page and returns zero on
+        // later offsets, so never shrink the pagination bound.
+        total = Math.max(total, data.total);
+        postings.push(...data.jobPostings);
+      }
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Workday', board, wd.company));
+      removeAggregatorCopiesForCompany(wd.company);
+      let added = 0;
+
+      await runInBatches(postings, 10, async (posting) => {
+        const detailUrl = `${wd.host}/wday/cxs/${wd.tenant}/${wd.site}${posting.externalPath}`;
+        let detail: {
+          id?: string;
+          title?: string;
+          jobDescription?: string;
+          location?: string;
+          jobReqId?: string;
+          startDate?: string;
+          externalUrl?: string;
+        } = {};
+        try {
+          const detailRes = await fetch(detailUrl);
+          if (detailRes.ok) {
+            const body = await detailRes.json() as { jobPostingInfo?: typeof detail };
+            detail = body.jobPostingInfo || {};
+          }
+        } catch {
+          // The listing still identifies a live role; omit unverified details.
+        }
+
+        const title = cleanTitle(detail.title || posting.title);
+        const link = detail.externalUrl || `${wd.host}/${wd.site}${posting.externalPath}`;
+        if (!title || !isConcreteOpening(title)) return;
+        const identityDraft: CachedJob = {
+          id: detail.jobReqId || detail.id || posting.externalPath,
+          title,
+          company: wd.company,
+          link,
+          date: detail.startDate || new Date().toISOString(),
+          source: sourceLabel('Workday', board, wd.company),
+          location: detail.location || posting.locationsText,
+          active: true,
+        };
+        identityDraft.date = detail.startDate
+          || persistedDates.get(getJobIdentity(identityDraft))
+          || identityDraft.date;
+        if (upsertJob(identityDraft)) added++;
+        rememberDescription(identityDraft, detail.jobDescription);
+      });
+
+      feedsOk++;
+      console.log(`  ✅ Workday (${wd.company}): ${postings.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Workday (${wd.company}): ${error.message}`);
+    }
+  }
+
+  // --- SmartRecruiters Sources ---
+  const SMARTRECRUITERS_BOARDS = [
+    { board: 'Solflare', company: 'Solflare' },
+  ];
+
+  for (const sr of SMARTRECRUITERS_BOARDS) {
+    registerDirectSource('SmartRecruiters', sr.board, sr.company);
+    try {
+      const listRes = await fetch(`https://api.smartrecruiters.com/v1/companies/${sr.board}/postings?limit=100&offset=0`);
+      if (!listRes.ok) throw new Error(`HTTP ${listRes.status}`);
+      const list = await listRes.json() as {
+        content: Array<{
+          id: string;
+          name: string;
+          releasedDate?: string;
+          postingUrl?: string;
+          location?: { fullLocation?: string };
+          department?: { label?: string };
+        }>;
+      };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'SmartRecruiters', sr.board, sr.company));
+      removeAggregatorCopiesForCompany(sr.company);
+      let added = 0;
+      await runInBatches(list.content, 10, async (posting) => {
+        const detailRes = await fetch(`https://api.smartrecruiters.com/v1/companies/${sr.board}/postings/${posting.id}`);
+        if (!detailRes.ok) return;
+        const detail = await detailRes.json() as typeof posting & {
+          postingUrl?: string;
+          jobAd?: { sections?: Record<string, { title?: string; text?: string }> };
+        };
+        const title = cleanTitle(detail.name || posting.name);
+        const link = detail.postingUrl || posting.postingUrl;
+        if (!title || !link || !isConcreteOpening(title)) return;
+        const candidate: CachedJob = {
+          id: posting.id,
+          title,
+          company: sr.company,
+          link,
+          date: detail.releasedDate || posting.releasedDate || new Date().toISOString(),
+          source: sourceLabel('SmartRecruiters', sr.board, sr.company),
+          location: detail.location?.fullLocation || posting.location?.fullLocation,
+          department: detail.department?.label || posting.department?.label,
+          active: true,
+        };
+        if (upsertJob(candidate)) added++;
+        const content = Object.values(detail.jobAd?.sections || {})
+          .flatMap((section) => [section.title ? `<h3>${section.title}</h3>` : '', section.text || ''])
+          .filter(Boolean)
+          .join('\n');
+        rememberDescription(candidate, content);
+      });
+      feedsOk++;
+      console.log(`  ✅ SmartRecruiters (${sr.company}): ${list.content.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ SmartRecruiters (${sr.company}): ${error.message}`);
+    }
+  }
+
+  // --- Breezy Sources ---
+  const BREEZY_BOARDS = [
+    { board: 'bitdeer', company: 'Bitdeer' },
+    { board: 'nexo', company: 'Nexo' },
+    { board: 'zero-hash', company: 'Zero Hash' },
+  ];
+
+  for (const bz of BREEZY_BOARDS) {
+    registerDirectSource('Breezy', bz.board, bz.company);
+    try {
+      const res = await fetch(`https://${bz.board}.breezy.hr/json`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const postings = await res.json() as Array<{
+        id: string;
+        name: string;
+        url: string;
+        published_date?: string;
+        department?: string;
+        location?: { name?: string };
+      }>;
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Breezy', bz.board, bz.company));
+      removeAggregatorCopiesForCompany(bz.company);
+      let added = 0;
+      const concretePostings = postings.filter((posting) => isConcreteOpening(posting.name));
+      await runInBatches(concretePostings, 12, async (posting) => {
+        const title = cleanTitle(posting.name);
+        if (!title || !posting.url) return;
+        const candidate: CachedJob = {
+          id: posting.id,
+          title,
+          company: bz.company,
+          link: posting.url,
+          date: posting.published_date || new Date().toISOString(),
+          source: sourceLabel('Breezy', bz.board, bz.company),
+          location: posting.location?.name,
+          department: posting.department,
+          active: true,
+        };
+        candidate.date = posting.published_date
+          || persistedDates.get(getJobIdentity(candidate))
+          || candidate.date;
+        if (upsertJob(candidate)) added++;
+
+        try {
+          const pageRes = await fetch(posting.url);
+          if (pageRes.ok) {
+            const html = await pageRes.text();
+            rememberDescription(candidate, extractJsonLdJobDescription(html) || extractBreezyJobDescription(html));
+          }
+        } catch {
+          // Preserve the verified listing without fabricating missing content.
+        }
+      });
+      feedsOk++;
+      console.log(`  ✅ Breezy (${bz.company}): ${concretePostings.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Breezy (${bz.company}): ${error.message}`);
+    }
+  }
+
+  // --- BambooHR Sources ---
+  const BAMBOO_BOARDS = [
+    { board: 'bitcoin', company: 'Bitcoin.com' },
+    { board: 'uphold', company: 'Uphold' },
+    { board: 'chainstack', company: 'Chainstack' },
+  ];
+
+  for (const bh of BAMBOO_BOARDS) {
+    registerDirectSource('BambooHR', bh.board, bh.company);
+    try {
+      const res = await fetch(`https://${bh.board}.bamboohr.com/careers/list`);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json() as {
+        result: Array<{
+          id: string;
+          jobOpeningName: string;
+          departmentLabel?: string;
+          atsLocation?: { city?: string; state?: string; country?: string };
+        }>;
+      };
+      removeJobs((job) => matchesRefreshedSource(job, 'BambooHR', bh.board, bh.company));
+      removeAggregatorCopiesForCompany(bh.company);
+      const openings = data.result.filter((opening) => isConcreteOpening(opening.jobOpeningName));
+      let added = 0;
+
+      await runInBatches(openings, 8, async (opening) => {
+        const detailRes = await fetch(`https://${bh.board}.bamboohr.com/careers/${opening.id}/detail`);
+        if (!detailRes.ok) return;
+        const detailData = await detailRes.json() as {
+          result?: { jobOpening?: {
+            jobOpeningName?: string;
+            jobOpeningShareUrl?: string;
+            departmentLabel?: string;
+            description?: string;
+            datePosted?: string;
+            atsLocation?: { city?: string; state?: string; country?: string };
+          } };
+        };
+        const detail = detailData.result?.jobOpening;
+        const title = cleanTitle(detail?.jobOpeningName || opening.jobOpeningName);
+        const link = detail?.jobOpeningShareUrl || `https://${bh.board}.bamboohr.com/careers/${opening.id}`;
+        if (!title) return;
+        const location = detail?.atsLocation || opening.atsLocation;
+        const candidate: CachedJob = {
+          id: opening.id,
+          title,
+          company: bh.company,
+          link,
+          date: detail?.datePosted || new Date().toISOString(),
+          source: sourceLabel('BambooHR', bh.board, bh.company),
+          location: [location?.city, location?.state, location?.country].filter(Boolean).join(', ') || undefined,
+          department: detail?.departmentLabel || opening.departmentLabel,
+          active: true,
+        };
+        candidate.date = detail?.datePosted
+          || persistedDates.get(getJobIdentity(candidate))
+          || candidate.date;
+        if (upsertJob(candidate)) added++;
+        rememberDescription(candidate, detail?.description);
+      });
+      feedsOk++;
+      console.log(`  ✅ BambooHR (${bh.company}): ${openings.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ BambooHR (${bh.company}): ${error.message}`);
+    }
+  }
+
+  // --- Comeet Sources ---
+  const COMEET_BOARDS = [
+    { board: '41.009', token: '14952452466D3DB7B61495240B91', company: 'eToro' },
+  ];
+
+  for (const cm of COMEET_BOARDS) {
+    registerDirectSource('Comeet', cm.board, cm.company);
+    try {
+      const url = `https://www.comeet.co/careers-api/2.0/company/${cm.board}/positions?token=${cm.token}&details=true`;
+      const res = await fetch(url);
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const postings = await res.json() as Array<{
+        uid: string;
+        name: string;
+        department?: string;
+        time_updated?: string;
+        url_active_page?: string;
+        url_comeet_hosted_page?: string;
+        location?: { name?: string };
+        details?: Array<{ name?: string; value?: string; order?: number }>;
+      }>;
+      removeJobs((job) => matchesRefreshedSource(job, 'Comeet', cm.board, cm.company));
+      removeAggregatorCopiesForCompany(cm.company);
+      let added = 0;
+      for (const posting of postings) {
+        const title = cleanTitle(posting.name);
+        const link = posting.url_active_page || posting.url_comeet_hosted_page;
+        if (!title || !link || !isConcreteOpening(title)) continue;
+        const candidate: CachedJob = {
+          id: posting.uid,
+          title,
+          company: cm.company,
+          link,
+          date: posting.time_updated || new Date().toISOString(),
+          source: sourceLabel('Comeet', cm.board, cm.company),
+          location: posting.location?.name,
+          department: posting.department,
+          active: true,
+        };
+        if (upsertJob(candidate)) added++;
+        const content = [...(posting.details || [])]
+          .sort((a, b) => (a.order || 0) - (b.order || 0))
+          .flatMap((section) => [section.name ? `<h3>${section.name}</h3>` : '', section.value || ''])
+          .filter(Boolean)
+          .join('\n');
+        rememberDescription(candidate, content);
+      }
+      feedsOk++;
+      console.log(`  ✅ Comeet (${cm.company}): ${postings.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Comeet (${cm.company}): ${error.message}`);
+    }
+  }
+
+  // --- Teamtailor public RSS Sources ---
+  const TEAMTAILOR_BOARDS = [
+    { board: 'crossmint.na', company: 'Crossmint', url: 'https://crossmint.na.teamtailor.com/jobs.rss' },
+    { board: 'crystalintelligence', company: 'Crystal Intelligence', url: 'https://crystalintelligence.teamtailor.com/jobs.rss' },
+  ];
+  const rssParser = new Parser();
+
+  for (const tt of TEAMTAILOR_BOARDS) {
+    registerDirectSource('Teamtailor', tt.board, tt.company);
+    try {
+      const feed = await rssParser.parseURL(tt.url);
+      removeJobs((job) => matchesRefreshedSource(job, 'Teamtailor', tt.board, tt.company));
+      removeAggregatorCopiesForCompany(tt.company);
+      let added = 0;
+      for (const item of feed.items) {
+        const title = cleanTitle(item.title);
+        const link = item.link;
+        if (!title || !link || !isConcreteOpening(title)) continue;
+        const candidate: CachedJob = {
+          id: item.guid || link,
+          title,
+          company: tt.company,
+          link,
+          date: item.isoDate || item.pubDate || new Date().toISOString(),
+          source: sourceLabel('Teamtailor', tt.board, tt.company),
+          active: true,
+        };
+        if (upsertJob(candidate)) added++;
+        rememberDescription(candidate, item.content);
+      }
+      feedsOk++;
+      console.log(`  ✅ Teamtailor (${tt.company}): ${feed.items.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Teamtailor (${tt.company}): ${error.message}`);
+    }
+  }
+
+  // --- Rippling Sources ---
+  // Rippling's public API can collapse location variants for the same job UUID.
+  // Detail responses contain the employer-authored description and post date.
+  const RIPPLING_BOARDS = [
+    { board: 'riot-platforms-careers', company: 'Riot Platforms' },
+  ];
+
+  for (const rp of RIPPLING_BOARDS) {
+    registerDirectSource('Rippling', rp.board, rp.company);
+    try {
+      const listRes = await fetch(
+        `https://ats.rippling.com/api/v2/board/${rp.board}/jobs?groupJobsByLocation=true&page=0&pageSize=1000`
+      );
+      if (!listRes.ok) throw new Error(`HTTP ${listRes.status}`);
+      const list = await listRes.json() as { items: Array<{
+        id: string;
+        name: string;
+        url: string;
+        department?: { name?: string };
+        locations?: Array<{ name?: string }>;
+      }> };
+      if (!Array.isArray(list.items)) throw new Error('Missing Rippling job list');
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Rippling', rp.board, rp.company));
+      removeAggregatorCopiesForCompany(rp.company);
+      let added = 0;
+
+      await runInBatches(list.items, 8, async (posting) => {
+        const title = cleanTitle(posting.name);
+        if (!title || !posting.url || !isConcreteOpening(title)) return;
+
+        let detail: {
+          uuid?: string;
+          name?: string;
+          description?: Record<string, string>;
+          workLocations?: string[];
+          department?: { name?: string };
+          createdOn?: string;
+          url?: string;
+        } = {};
+        try {
+          const detailRes = await fetch(
+            `https://ats.rippling.com/api/v2/board/${rp.board}/jobs/${posting.id}`
+          );
+          if (detailRes.ok) {
+            detail = await detailRes.json() as typeof detail;
+          }
+        } catch {
+          // The verified board entry is still usable without optional details.
+        }
+
+        const candidate: CachedJob = {
+          id: detail.uuid || posting.id,
+          title: cleanTitle(detail.name) || title,
+          company: rp.company,
+          link: detail.url || posting.url,
+          date: detail.createdOn || new Date().toISOString(),
+          source: sourceLabel('Rippling', rp.board, rp.company),
+          location: (detail.workLocations || posting.locations?.map((location) => location.name).filter(Boolean) || []).join(', ') || undefined,
+          department: detail.department?.name || posting.department?.name,
+          active: true,
+        };
+        candidate.date = detail.createdOn
+          || persistedDates.get(getJobIdentity(candidate))
+          || candidate.date;
+        if (upsertJob(candidate)) added++;
+        rememberDescription(candidate, Object.values(detail.description || {}).join('\n'));
+      });
+
+      feedsOk++;
+      console.log(`  ✅ Rippling (${rp.company}): ${list.items.length} unique jobs, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Rippling (${rp.company}): ${error.message}`);
+    }
+  }
+
+  // Verified employer-owned career pages that do not expose a conventional
+  // ATS feed. Each adapter discovers only links on the employer's live index
+  // and stores the employer-written detail page content.
+  const FIRST_PARTY_CAREER_BOARDS = [
+    {
+      board: 'etherscan-careers',
+      company: 'Etherscan',
+      indexUrl: 'https://etherscan.io/careers',
+      linkSelector: 'a[href*="/careers-inner/"]',
+      pathPattern: /^\/careers-inner\/[^/]+$/,
+      titleSelector: 'main h1',
+      locationSelector: 'main .row.justify-content-center.text-center .text-cap',
+      contentSelector: '#about, #role, #apply',
+    },
+    {
+      board: 'streamingfast-careers',
+      company: 'StreamingFast',
+      indexUrl: 'https://www.streamingfast.io/careers',
+      linkSelector: 'a[href^="/careers/"]',
+      pathPattern: /^\/careers\/[^/]+$/,
+      titleSelector: 'main h1',
+      locationSelector: 'main section:first-of-type h1 + p',
+      contentSelector: 'main section:nth-of-type(2) .max-w-3xl',
+    },
+    {
+      board: 'zama-careers',
+      company: 'Zama',
+      indexUrl: 'https://jobs.zama.org/',
+      linkSelector: 'a.jobs-list-item-link',
+      pathPattern: /^\/jobs\/[^/]+$/,
+      titleSelector: 'h1.main-header-title',
+      locationSelector: '.sticky-header-details li:first-child',
+      contentSelector: '.block-job-description, .block-job-profile',
+    },
+  ];
+
+  for (const fp of FIRST_PARTY_CAREER_BOARDS) {
+    registerDirectSource('FirstParty', fp.board, fp.company);
+    try {
+      const indexRes = await fetch(fp.indexUrl);
+      if (!indexRes.ok) throw new Error(`HTTP ${indexRes.status}`);
+      const indexHtml = await indexRes.text();
+      const $index = load(indexHtml);
+      const links = [...new Set(
+        $index(fp.linkSelector)
+          .map((_, element) => $index(element).attr('href'))
+          .get()
+          .filter(Boolean)
+          .map((href) => new URL(href, fp.indexUrl).toString())
+          .filter((href) => fp.pathPattern.test(new URL(href).pathname))
+      )];
+      if (links.length === 0) {
+        throw new Error('No job detail links found; preserving the previous snapshot');
+      }
+
+      const staged: Array<{ job: CachedJob; content: string }> = [];
+
+      await runInBatches(links, 6, async (link) => {
+        const detailRes = await fetch(link);
+        if (!detailRes.ok) throw new Error(`Detail HTTP ${detailRes.status}: ${link}`);
+        const html = await detailRes.text();
+        const $ = load(html);
+        const title = cleanTitle($(fp.titleSelector).first().text());
+        if (!title) throw new Error(`Missing title in detail page: ${link}`);
+        if (!isConcreteOpening(title)) return;
+
+        const content = $(fp.contentSelector)
+          .map((_, element) => $(element).html())
+          .get()
+          .filter(Boolean)
+          .join('\n');
+        if (!isUsableDescription(content)) {
+          throw new Error(`Missing substantial employer content: ${link}`);
+        }
+        const location = cleanTitle($(fp.locationSelector).first().text());
+        const datePosted = html.match(/"datePosted"\s*:\s*"([^"]+)"/)?.[1];
+        const candidate: CachedJob = {
+          id: new URL(link).pathname.split('/').filter(Boolean).pop() || link,
+          title,
+          company: fp.company,
+          link,
+          date: datePosted || new Date().toISOString(),
+          dateVerified: Boolean(datePosted),
+          source: sourceLabel('FirstParty', fp.board, fp.company),
+          location,
+          active: true,
+        };
+        const identity = getJobIdentity(candidate);
+        candidate.date = datePosted
+          || persistedDates.get(identity)
+          || candidate.date;
+        candidate.dateVerified = datePosted
+          ? true
+          : persistedDateVerification.get(identity) ?? false;
+        staged.push({ job: candidate, content });
+      });
+
+      removeJobs((job) => matchesRefreshedSource(job, 'FirstParty', fp.board, fp.company));
+      removeAggregatorCopiesForCompany(fp.company);
+      let added = 0;
+      for (const { job, content } of staged) {
+        if (upsertJob(job)) added++;
+        rememberDescription(job, content);
+      }
+
+      feedsOk++;
+      console.log(`  ✅ First-party (${fp.company}): ${links.length} items, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ First-party (${fp.company}): ${error.message}`);
+    }
+  }
+
   const elapsed = Date.now() - fetchStart;
   console.log(`\n⏱️ Fetched in ${elapsed}ms (${feedsOk} ok, ${feedsFailed} failed)`);
 
   // Convert to array and sort by date
   let allJobs = Array.from(jobMap.values());
 
-  // Apply 30-day filter
+  // Direct ATS feeds are authoritative: an older posting remains active until
+  // it disappears from a successful board response. Aggregator discoveries are
+  // published only when employer-authored content was verified and cached;
+  // otherwise they remain low-confidence leads rather than public job pages.
   const thirtyDaysAgo = new Date();
   thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-  allJobs = allJobs.filter(job => new Date(job.date) > thirtyDaysAgo);
+  allJobs = allJobs.filter((job) => (
+    isDirectSource(job.source)
+      ? job.active !== false && configuredDirectSources.has(job.source.toLowerCase())
+      : new Date(job.date) > thirtyDaysAgo
+        && isUsableDescription(
+          refreshedDescriptions.get(getJobContentKey(job))
+            || existingDescriptions[getJobContentKey(job)]
+            || existingDescriptions[job.id]
+        )
+  ));
 
   // Filter out unwanted companies and non-tech roles
   const BLOCKED_COMPANIES = new Set([
@@ -703,6 +1685,12 @@ async function refreshJobsCache() {
 
     // Block placeholder/generic entries
     if (companyLower === 'interop labs' && titleLower.includes('interested in working with us')) return false;
+
+    // A first-party ATS is authoritative for the employer. Do not silently
+    // discard valid operations, facilities, support, or other non-engineering
+    // roles; Coinbase and every other company page should reflect its full board.
+    if (isDirectSource(job.source)) return isConcreteOpening(job.title);
+
     if (job.title.includes('*')) return false;
 
     // Block titles that are actually locations (e.g. "West Hollywood, CA")
@@ -719,9 +1707,22 @@ async function refreshJobsCache() {
 
   // Write cache
   fs.mkdirSync(path.dirname(cachePath), { recursive: true });
-  fs.writeFileSync(cachePath, JSON.stringify(allJobs, null, 2));
+  fs.writeFileSync(cachePath, `${JSON.stringify(allJobs, null, 2)}\n`);
+
+  // Keep only employer-provided descriptions for jobs that are still
+  // published. Composite source keys avoid the old cross-company ID clashes.
+  const nextDescriptions: Record<string, string> = {};
+  for (const job of allJobs) {
+    const key = getJobContentKey(job);
+    const content = refreshedDescriptions.get(key)
+      || existingDescriptions[key]
+      || existingDescriptions[job.id];
+    if (isUsableDescription(content)) nextDescriptions[key] = content;
+  }
+  fs.writeFileSync(descriptionsPath, `${JSON.stringify(nextDescriptions, null, 2)}\n`);
 
   console.log(`\n✅ Cache updated: ${allJobs.length} jobs written to content/jobs-cache.json`);
+  console.log(`🏢 ${new Set(allJobs.map((job) => job.company)).size} companies; ${nextDescriptions ? Object.keys(nextDescriptions).length : 0} verified descriptions`);
   console.log(`📅 Date range: ${allJobs[allJobs.length - 1]?.date || 'N/A'} to ${allJobs[0]?.date || 'N/A'}`);
 }
 

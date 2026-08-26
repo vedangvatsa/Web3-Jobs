@@ -5,7 +5,7 @@ import type { Job } from '@/types';
 import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText } from '@/lib/noslop';
-import { getOneWordRole } from './job-slugs';
+import { getJobIdentity, getJobSlug } from './job-slugs';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -24,20 +24,9 @@ const BLOCKED_COMPANIES = new Set([
  * The cache is refreshed every 8 hours by GitHub Actions (refresh-jobs-cache.yml).
  * No RSS fetching happens at runtime.
  */
-/**
- * Cleans job titles by removing parenthesized/bracketed suffixes
- * and everything after" -" dashes.
- * e.g."Business Development Manager (Acquiring)" →"Business Development Manager"
- *"Engineering Manager - DevX" →"Engineering Manager"
- */
+/** Keep the employer's title intact; team and location qualifiers distinguish roles. */
 function cleanJobTitle(title: string, company?: string): string {
- let cleaned = title.trim();
-
- // Handle pipe splits: keep only the first part
- const pipeIdx = cleaned.indexOf('|');
- if (pipeIdx >= 0) {
-  cleaned = cleaned.substring(0, pipeIdx).trim();
- }
+ let cleaned = title.replace(/[\u200B-\u200D\uFEFF]/g, '').trim();
 
  // Strip"CompanyName -" prefix (e.g."Morph - Token Growth Lead" →"Token Growth Lead")
  if (company) {
@@ -49,73 +38,30 @@ function cleanJobTitle(title: string, company?: string): string {
   }
  }
 
- // If entire title is wrapped in parens, unwrap it:"(Core Dev)" →"Core Dev"
- if (/^\(.*\)$/.test(cleaned)) {
-  cleaned = cleaned.slice(1, -1).trim();
- }
+ cleaned = cleaned.replace(/\s+/g, ' ').trim();
 
- // Strip parenthesized suffixes if meaningful text remains
- const withoutParens = cleaned.replace(/\s*\(.*?\)\s*/g, ' ').trim();
- if (withoutParens.length > 0 && (!company || withoutParens.toLowerCase() !== company.toLowerCase())) {
-  cleaned = withoutParens;
- }
+ return cleanPublishText(cleaned.length > 0 ? cleaned : title.trim());
+}
 
- // Remove [anything]
- cleaned = cleaned.replace(/\s*\[.*?\]\s*/g, ' ').trim();
+function sourceQuality(job: Job): number {
+ const source = job.source.toLowerCase();
+ if (/^(greenhouse|lever|ashby|workable|recruitee|workday|smartrecruiters|breezy|bamboohr|comeet|teamtailor|rippling|firstparty):/.test(source)) return 3;
+ if (!source.startsWith('http')) return 2;
+ return 1;
+}
 
- // Remove common unbracketed fluff (case-insensitive)
- const fluffPatterns = [
-  // Remote/location fluff
-  /100%\s*(?:worldwide\s*)?remote/gi,
-  /worldwide\s*remote/gi,
-  /fully\s*remote/gi,
-  /\bremote\s*(?:ok|only)?\b/gi,
-  // Timezone fluff
-  /\b(?:cet|est|pst|gmt|utc)\s*timezone\b/gi,
-  /\b(?:cet|est|pst|gmt|utc)\b/gi,
-  // Contract/Employment type fluff
-  /\d+\s*months?\s*contract/gi,
-  /with\s*potential\s*extension/gi,
-  /contract\s*to\s*hire/gi,
-  /full[- ]time/gi,
-  /part[- ]time/gi,
-  /fixed[- ]term/gi,
-  /b2b/gi,
-  // Common EU gender inclusivity tags not caught by brackets/parens
-  /\bm\/?w\/?d\b/gi,
-  /\bf\/?m\/?d\b/gi,
-  /\bm\/?f\/?x\b/gi
- ];
+function deduplicateJobs(jobs: Job[]): Job[] {
+ const byIdentity = new Map<string, Job>();
 
- for (const pattern of fluffPatterns) {
-  cleaned = cleaned.replace(pattern, ' ');
- }
-
- // Clean up any hanging " -" or "," that might be left behind
- cleaned = cleaned.replace(/,\s*$/, '').trim();
-
- // Handle" -" splits: keep the meaningful side
- const dashIdx = cleaned.search(/\s+-\s+/);
- if (dashIdx > 0) {
-  const before = cleaned.substring(0, dashIdx).trim();
-  const after = cleaned.substring(dashIdx).replace(/^\s+-\s+/, '').trim();
-  if (before.split(/\s+/).length >= 2 && before.length >= 8) {
-   cleaned = before; // before is meaningful, drop suffix
-  } else if (after.split(/\s+/).length >= 2 && after.length >= 8) {
-   cleaned = after;  // before is a short qualifier like"Mid", keep after
+ for (const job of jobs) {
+  const identity = getJobIdentity(job);
+  const existing = byIdentity.get(identity);
+  if (!existing || sourceQuality(job) > sourceQuality(existing)) {
+   byIdentity.set(identity, job);
   }
  }
 
- // Clean up leading slashes, dashes, or pipes (e.g."/BizDev" ->"BizDev")
- cleaned = cleaned.replace(/^[\/\-\|\\\s]+/, '').trim();
-
- // Clean up trailing dashes
- cleaned = cleaned.replace(/[-\u2013]$/, '').trim();
-
- // Collapse whitespace
- cleaned = cleaned.replace(/\s+/g, ' ').trim();
-
-  return cleanPublishText(cleaned.length > 0 ? cleaned : title.trim());
+ return [...byIdentity.values()];
 }
 
 let jobsCache: Job[] | null = null;
@@ -152,33 +98,25 @@ export async function getJobs(): Promise<Job[]> {
    return true;
   });
 
-  // Apply 30-day freshness filter
-  const thirtyDaysAgo = new Date();
-  thirtyDaysAgo.setDate(thirtyDaysAgo.getDate() - 30);
-  const freshJobs = web3Jobs.filter(job => new Date(job.date) > thirtyDaysAgo);
+  // The refresh job already retains only active direct-ATS postings and recent
+  // aggregator discoveries. Applying another age cutoff here hid still-open
+  // roles that had been published more than 30 days ago.
+  const uniqueJobs = deduplicateJobs(web3Jobs);
 
   // Distribute so no single company dominates
-  const distributed = distributeJobsByCompany(freshJobs);
+  const distributed = distributeJobsByCompany(uniqueJobs);
 
-  // Generate stable serial slugs sorted by posting date (oldest first) so new jobs always append sequentially
-  const stableSorted = [...distributed].sort((a, b) => {
-    const diff = new Date(a.date).getTime() - new Date(b.date).getTime();
-    if (diff !== 0) return diff;
-    return a.id.localeCompare(b.id);
+  // Keep persisted legacy slugs where they are unique. Records affected by the
+  // old ID-keyed collision bug receive a deterministic source-based slug.
+  const claimedSlugs = new Set<string>();
+  jobsCache = distributed.map((job) => {
+   const preferredSlug = getJobSlug(job);
+   const slug = claimedSlugs.has(preferredSlug)
+    ? getJobSlug({ ...job, slug: undefined })
+    : preferredSlug;
+   claimedSlugs.add(slug);
+   return { ...job, slug };
   });
-
-  const counters: Record<string, number> = {};
-  const slugMap = new Map<string, string>();
-  for (const job of stableSorted) {
-    const roleWord = getOneWordRole(job.title);
-    counters[roleWord] = (counters[roleWord] || 0) + 1;
-    slugMap.set(job.id, `${roleWord}${counters[roleWord]}`);
-  }
-
-  jobsCache = distributed.map(job => ({
-    ...job,
-    slug: slugMap.get(job.id),
-  }));
   return jobsCache;
  } catch (error) {
   console.error('[getJobs] Could not read jobs cache:', error);

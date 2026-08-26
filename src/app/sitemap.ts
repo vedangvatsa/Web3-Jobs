@@ -4,9 +4,34 @@ import { getAllTerms, getAllCategorySlugs } from '@/lib/glossary';
 import { getCompanies } from '@/lib/companies';
 import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getCategories, getLessons } from '@/lib/learn';
-import { getAllJobsWithSlugs } from '@/lib/job-guides';
+import { getAllJobsWithSlugs, hasSubstantialJobContent } from '@/lib/job-guides';
 
 const siteUrl = 'https://hashtagweb3.com';
+
+function canonicalizeUrl(url: string): string {
+ const withoutFragmentOrQuery = url.split(/[?#]/, 1)[0];
+ return withoutFragmentOrQuery === siteUrl
+  ? siteUrl
+  : withoutFragmentOrQuery.replace(/\/+$/, '');
+}
+
+/**
+ * A number of content collections share the root-level slug namespace. Keep
+ * the first route from the explicit collection order below, then sort the
+ * canonical URLs so sitemap output is stable across filesystem/API ordering.
+ */
+function uniqueRoutes(routes: MetadataRoute.Sitemap): MetadataRoute.Sitemap {
+ const routesByUrl = new Map<string, MetadataRoute.Sitemap[number]>();
+
+ for (const route of routes) {
+  const url = canonicalizeUrl(route.url);
+  if (!routesByUrl.has(url)) {
+   routesByUrl.set(url, { ...route, url });
+  }
+ }
+
+ return [...routesByUrl.values()].sort((a, b) => a.url.localeCompare(b.url));
+}
 
 // Stable fallback date used when content files carry no explicit date field.
 // Update this when a significant batch of content is published or revised.
@@ -225,14 +250,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   priority: 0.7,
  }));
 
- // Company pages are derived from the live jobs cache. lastUpdated is set to
- // build time inside getCompanies(), so we use a stable fallback here too.
- const companyRoutes: MetadataRoute.Sitemap = companies.map((company) => ({
-  url: `${siteUrl}/companies/${company.slug}`,
-  lastModified: new Date('2025-03-01'),
-  changeFrequency: 'weekly' as const,
-  priority: 0.6,
- }));
+ // Company pages are derived from the live jobs cache. Use the newest verified
+ // listing date for a stable, source-backed modification timestamp.
+ const companyRoutes: MetadataRoute.Sitemap = companies
+  .filter((company) => company.jobCount >= 2)
+  .map((company) => ({
+   url: `${siteUrl}/${company.slug}`,
+   lastModified: new Date(company.lastUpdated),
+   changeFrequency: 'weekly' as const,
+   priority: 0.6,
+  }));
 
  // Glossary terms live at /<slug> (same [slug] route, resolved before articles).
  // updatedDate is not populated in any current term file; use stable fallback.
@@ -284,14 +311,16 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
  }
 
   const jobsWithSlugs = await getAllJobsWithSlugs();
-  const jobRoutes: MetadataRoute.Sitemap = jobsWithSlugs.map(({ job, slug }) => ({
-    url: `${siteUrl}/${slug}`,
+  const jobRoutes: MetadataRoute.Sitemap = jobsWithSlugs
+   .filter(({ job }) => hasSubstantialJobContent(job))
+   .map(({ job, slug }) => ({
+    url: `${siteUrl}/jobs/${slug}`,
     lastModified: new Date(job.date),
     changeFrequency: 'daily' as const,
     priority: 0.8,
-  }));
+   }));
 
-  return [
+  return uniqueRoutes([
    ...staticRoutes,
    ...glossaryCategoryRoutes,
    ...glossaryRoutes,
@@ -301,5 +330,5 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
    ...resourceRoutes,
    ...learnCategoryRoutes,
    ...learnLessonRoutes,
-  ];
+  ]);
 }

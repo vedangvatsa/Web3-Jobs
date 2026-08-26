@@ -18,6 +18,8 @@ lastUpdated: "2026-08-26"
 4. Healthy skepticism aligns with WAGMI principles.
 5. Successful careers balance optimism with critical analysis.
 
+WAGMI means "we are all going to make it" and signals shared confidence in a project or community. NGMI means "not going to make it" and is usually used to criticize a decision, incentive, or short-term mindset. Neither acronym is evidence about an investment or employer; treat both as community shorthand, not due diligence.
+
 ## Web3 Opportunities
 
 The Web3 sector has seen significant growth, driven by innovations in blockchain technology and decentralized applications. Demand for qualified talent continues to surge, outpacing supply.

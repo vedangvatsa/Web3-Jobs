@@ -54,7 +54,7 @@ PostHog analytics is now fully integrated and tracking comprehensive user events
    - Added `ArticleViewTracker` for blog posts
    - Added `GlossaryViewTracker` for glossary terms
 
-2. **src/app/companies/[slug]/page.tsx**
+2. **src/components/company-detail-view.tsx**
    - Added `CompanyViewTracker`
 
 3. **src/components/job-board.tsx**

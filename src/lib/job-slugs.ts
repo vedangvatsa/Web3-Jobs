@@ -1,5 +1,84 @@
 import type { Job } from '@/types';
 
+const TRACKING_QUERY_PARAMS = new Set([
+  'gh_src',
+  'source',
+  'ref',
+  'referrer',
+  't',
+  'utm_campaign',
+  'utm_content',
+  'utm_medium',
+  'utm_source',
+  'utm_term',
+]);
+
+/**
+ * Normalizes a source URL without removing identifiers needed by embedded ATS
+ * pages. The result is used for deduplication, not for navigation.
+ */
+export function normalizeJobLink(link: string): string {
+  try {
+    const url = new URL(link);
+    const hostname = url.hostname.toLowerCase();
+
+    const greenhouseId = url.searchParams.get('gh_jid')
+      || (hostname.includes('greenhouse.io') ? url.pathname.match(/\/jobs\/(\d+)/i)?.[1] : undefined)
+      || url.pathname.match(/\/(?:careers\/)?positions\/(\d+)/i)?.[1];
+    if (greenhouseId) return `greenhouse:${greenhouseId}`;
+
+    const uuid = url.pathname.match(/\/([a-f0-9]{8}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{4}-[a-f0-9]{12})(?:\/|$)/i)?.[1];
+    if (uuid && hostname.includes('ashbyhq.com')) return `ashby:${uuid.toLowerCase()}`;
+    if (uuid && hostname.includes('lever.co')) return `lever:${uuid.toLowerCase()}`;
+
+    const workableId = hostname.includes('workable.com')
+      ? url.pathname.match(/\/j\/([a-z0-9]+)(?:\/|$)/i)?.[1]
+      : undefined;
+    if (workableId) return `workable:${workableId.toLowerCase()}`;
+
+    const breezyId = hostname.endsWith('.breezy.hr')
+      ? url.pathname.match(/\/p\/([a-z0-9]+)(?:-|\/|$)/i)?.[1]
+      : undefined;
+    if (breezyId) return `breezy:${hostname}:${breezyId.toLowerCase()}`;
+
+    url.hash = '';
+    for (const param of [...url.searchParams.keys()]) {
+      if (TRACKING_QUERY_PARAMS.has(param.toLowerCase())) {
+        url.searchParams.delete(param);
+      }
+    }
+    url.hostname = hostname;
+    url.pathname = url.pathname.replace(/\/+$/, '') || '/';
+    return url.toString();
+  } catch {
+    return link.trim().toLowerCase();
+  }
+}
+
+/** A source-stable identity used by the cache, description store, and slugs. */
+export function getJobIdentity(job: Pick<Job, 'id' | 'title' | 'company' | 'link'>): string {
+  const normalizedLink = normalizeJobLink(job.link || '');
+  if (normalizedLink) return normalizedLink;
+
+  return [job.company, job.id, job.title]
+    .map((value) => (value || '').trim().toLowerCase().replace(/\s+/g, ' '))
+    .join('|');
+}
+
+/** Small deterministic hash that works in both server and browser bundles. */
+function stableHash(value: string): string {
+  let hash = 0x811c9dc5;
+  for (let index = 0; index < value.length; index += 1) {
+    hash ^= value.charCodeAt(index);
+    hash = Math.imul(hash, 0x01000193);
+  }
+  return (hash >>> 0).toString(36).padStart(7, '0');
+}
+
+export function getJobContentKey(job: Pick<Job, 'id' | 'title' | 'company' | 'link'>): string {
+  return `job-${stableHash(getJobIdentity(job))}`;
+}
+
 /**
  * Extracts exactly ONE word representing the core role category
  */
@@ -54,8 +133,7 @@ export function getJobSlug(job: Job): string {
     return job.slug;
   }
   const roleWord = getOneWordRole(job.title || 'job');
-  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
-  return shortId ? `${roleWord}${shortId}` : roleWord;
+  return `${roleWord}-${stableHash(getJobIdentity(job))}`;
 }
 
 export function getCompanySlug(company: string): string {

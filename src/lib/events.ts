@@ -201,53 +201,18 @@ export function getRelativeBadge(startDate: string): string | null {
 export function getEventSlug(event: Web3Event): string {
   if (event.slug) return event.slug.toLowerCase().trim();
 
-  let name = event.name.toLowerCase();
-  
-  // 1. Strip parentheses, brackets, and their contents
-  name = name.replace(/\([^)]*\)/g, '').replace(/\[[^\]]*\]/g, '');
-  
-  // 2. Strip colons/dashes and everything after them
-  name = name.replace(/\s+[-|:].*$/g, '');
-
-  // 3. Strip noise words
-  name = name
-    .replace(/hacker\s*house/g, '')
-    .replace(/conference/g, '')
-    .replace(/summit/g, '')
-    .replace(/festival/g, '')
-    .replace(/gathering/g, '')
-    .replace(/hackathon/g, '')
-    .replace(/world\s*tour/g, '')
-    .replace(/global\s*tour/g, '')
-    .replace(/buildathon/g, '')
-    .replace(/community/g, '')
-    .replace(/meetup/g, '')
-    .replace(/workshop/g, '');
-
-  // 4. Slugify
-  const cleanName = name
+  // Keep the full event name and calendar date. The old two-word slugger
+  // collapsed distinct conferences and side events onto the same root URL.
+  const cleanName = event.name
+    .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '');
+  const parsedDate = new Date(event.startDate);
+  const date = Number.isNaN(parsedDate.getTime())
+    ? 'date-tba'
+    : parsedDate.toISOString().slice(0, 10);
 
-  const year = event.startDate ? String(new Date(event.startDate).getFullYear()) : '2026';
-  
-  // 5. Filter out year and common filler/sponsor words
-  const fillers = new Set(['by', 'for', 'and', 'the', 'with', 'from', 'of', 'in', 'at', 'on', 'to', 'coindesk', 'foundation', 'labs', 'association', 'group', 'team']);
-  const words = cleanName.split('-').filter(w => w !== year && w.length > 0 && !fillers.has(w));
-  
-  // 6. Keep first 2 words if they are descriptive, or 3 words if one is short (e.g. 'sf', 'hk', 'hong', 'kong', '9')
-  let limit = 2;
-  if (words.length > 2 && (words[0].length <= 4 || words[1].length <= 4 || words[2].length <= 4)) {
-    limit = 3;
-  }
-  const slugWords = words.slice(0, limit);
-  
-  let finalSlug = slugWords.join('-');
-  if (!finalSlug) {
-    finalSlug = event.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '').split('-').slice(0, 2).join('-');
-  }
-  
-  return `${finalSlug}-${year}`;
+  return `${cleanName || 'web3-event'}-${date}`;
 }
 
 export function generateGoogleCalendarUrl(event: Web3Event): string {

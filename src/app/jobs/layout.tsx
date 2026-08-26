@@ -34,12 +34,10 @@ export async function generateMetadata(): Promise<Metadata> {
  };
 }
 
-import { FirebaseClientProvider } from '@/firebase/client-provider';
-
 export default function JobsLayout({
  children,
 }: {
  children: React.ReactNode;
 }) {
- return <FirebaseClientProvider>{children}</FirebaseClientProvider>;
+ return children;
 }

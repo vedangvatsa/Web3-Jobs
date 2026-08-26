@@ -3,8 +3,8 @@ title: The Role of Web3 Business Development Professionals
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 data-ai-hint: business development partnership
 description: >-
- A career guide for Web3 Business Development (BizDev) and partnership roles.
- Learn how BizDev drives growth in a composable, interconnected ecosystem.
+ Understand how Web3 business development professionals source integrations,
+ structure partnerships, coordinate stakeholders, and build the skills for the role.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

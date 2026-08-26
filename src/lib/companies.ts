@@ -5,26 +5,9 @@ import { getJobs } from './jobs';
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
-import { remark } from 'remark';
-import remarkGfm from 'remark-gfm';
-import html from 'remark-html';
-import sanitizeHtml from 'sanitize-html';
 
-/**
- * Company content interface for markdown files
- */
 interface CompanyContent {
- name: string;
  website?: string;
- description?: string;
- founded?: string;
- category?: string;
- headquarters?: string;
- about?: string;
- mission?: string;
- culture?: string[];
- benefits?: string[];
- techStack?: string[];
 }
 
 /**
@@ -36,9 +19,22 @@ const ATS_HOSTNAMES = new Set([
  'jobs.solana.com', 'jobs.dragonfly.xyz', 'www.linkedin.com',
  'circle.wd1.myworkdayjobs.com', 'apply.workable.com',
  'jobs.smartrecruiters.com', 'getro.com', 'ats.rippling.com',
+ 'www.comeet.com', 'wellfound.com',
  'in.linkedin.com', 'sg.linkedin.com', 'il.linkedin.com',
  'de.linkedin.com', 'my.linkedin.com', 'eg.linkedin.com',
 ]);
+
+const ATS_HOSTNAME_SUFFIXES = [
+ '.ashbyhq.com', '.bamboohr.com', '.breezy.hr', '.comeet.com',
+ '.greenhouse.io', '.lever.co', '.myworkdayjobs.com', '.rippling.com',
+ '.smartrecruiters.com', '.teamtailor.com', '.traffit.com', '.workable.com',
+];
+
+function isAtsHostname(hostname: string): boolean {
+ const normalized = hostname.toLowerCase();
+ return ATS_HOSTNAMES.has(normalized)
+  || ATS_HOSTNAME_SUFFIXES.some((suffix) => normalized.endsWith(suffix));
+}
 
 /**
  * Hardcoded website overrides for major Web3 companies
@@ -99,43 +95,52 @@ function createSlug(companyName: string): string {
   .replace(/^-+|-+$/g, '');
 }
 
-/**
- * Convert markdown company content to sanitized HTML
- */
-async function markdownToHtml(markdown: string): Promise<string> {
- const processed = await remark()
-  .use(remarkGfm)
-  .use(html, { sanitize: false })
-  .process(markdown);
+function buildListingDescription(companyName: string, jobs: Job[]): string {
+ const countLabel = jobs.length === 1 ? '1 active role' : `${jobs.length} active roles`;
+ const titles = [...new Set(jobs.map((job) => job.title.trim()).filter(Boolean))].slice(0, 3);
+ const locations = [...new Set(jobs.map((job) => job.location?.trim()).filter((value): value is string => Boolean(value)))].slice(0, 3);
 
- return sanitizeHtml(processed.toString(), {
-  allowedTags: sanitizeHtml.defaults.allowedTags.concat([
-   'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'
-  ]),
-  allowedAttributes: {
-   ...sanitizeHtml.defaults.allowedAttributes,
-   '*': ['class'],
-   'a': ['href', 'name', 'target', 'rel'],
-   'img': ['src', 'alt', 'title', 'width', 'height'],
-  },
- });
+ if (titles.length === 0) {
+  return `${companyName} currently has no active roles listed on Hashtag Web3.`;
+ }
+
+ const titleSummary = `Current openings include ${titles.join(', ')}.`;
+ const locationSummary = locations.length > 0
+  ? ` Listed locations include ${locations.join(', ')}.`
+  : '';
+
+ return `${companyName} has ${countLabel} listed on Hashtag Web3. ${titleSummary}${locationSummary}`;
+}
+
+function getSafeProfileWebsite(value: unknown): string | undefined {
+ if (typeof value !== 'string' || !value.trim()) return undefined;
+
+ try {
+  const url = new URL(value.trim());
+  if (!['http:', 'https:'].includes(url.protocol) || isAtsHostname(url.hostname)) {
+   return undefined;
+  }
+  return value.trim();
+ } catch {
+  return undefined;
+ }
 }
 
 /**
- * Load company content from markdown file if exists
+ * Read only a company's canonical website from legacy markdown. The prose in
+ * those files is intentionally not rendered: company-page copy is derived from
+ * current, company-specific job facts instead of copied marketing language.
  */
 async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent> | null> {
  try {
   const companiesDir = path.join(process.cwd(), 'content', 'companies');
   const filePath = path.join(companiesDir, `${slug}.md`);
   const fileContent = await fs.readFile(filePath, 'utf-8');
-  const { data, content } = matter(fileContent);
+  const { data } = matter(fileContent);
+  const website = getSafeProfileWebsite(data.website);
 
-  return {
-   ...data,
-   about: await markdownToHtml(content.trim()),
-  } as Partial<CompanyContent>;
- } catch (error) {
+  return website ? { website } : {};
+ } catch {
   // No content file exists, return null
   return null;
  }
@@ -196,7 +201,7 @@ export async function getCompanies(): Promise<Company[]> {
   let website = '';
   try {
    const url = new URL(firstJobLink);
-   if (!ATS_HOSTNAMES.has(url.hostname)) {
+   if (!isAtsHostname(url.hostname)) {
     website = `${url.protocol}//${url.hostname}`;
    }
   } catch (e) {
@@ -227,30 +232,8 @@ export async function getCompanies(): Promise<Company[]> {
   await Promise.all(
    companies.map(async (company) => {
     const content = await loadCompanyContent(company.slug);
-    if (content) {
-     Object.assign(company, {
-      ...(content.website && { website: content.website }),
-      description: content.description,
-      founded: content.founded,
-      category: content.category,
-      headquarters: content.headquarters,
-      about: content.about,
-      mission: content.mission,
-      culture: content.culture,
-      benefits: content.benefits,
-      techStack: content.techStack,
-     });
-    }
-    
-    // Provide realistic fallbacks for missing descriptions/about fields
-    if (!company.description) {
-      const topJobs = company.jobs.slice(0, 2).map(j => j.title).join(' and ');
-      company.description = `Explore open careers and job opportunities at ${company.name}, specializing in Web3 development. Current openings include ${topJobs || 'various roles'}.`;
-    }
-    if (!company.about) {
-      const rolesStr = company.jobCount === 1 ? '1 active job listing' : `${company.jobCount} active job listings`;
-      company.about = `<p>${company.name} is an active contributor to the Web3 and decentralised technologies ecosystem. The organisation is currently expanding its team and has ${rolesStr} available on our platform.</p><p>By joining ${company.name}, you will work alongside skilled industry professionals in a fast-paced environment. Explore their open roles below to find a career path that matches your skills in engineering, product management, design, or marketing.</p>`;
-    }
+    if (content?.website) company.website = content.website;
+    company.description = buildListingDescription(company.name, company.jobs);
    })
   );
  
@@ -296,7 +279,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
  let website = '';
  try {
   const url = new URL(firstJobLink);
-  if (!ATS_HOSTNAMES.has(url.hostname)) {
+  if (!isAtsHostname(url.hostname)) {
    website = `${url.protocol}//${url.hostname}`;
   }
  } catch (e) {}
@@ -321,72 +304,8 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
  
  // Try to load enriched content
  const content = await loadCompanyContent(slug);
- if (content) {
-  Object.assign(company, {
-   ...(content.website && { website: content.website }),
-   description: content.description,
-   founded: content.founded,
-   category: content.category,
-   headquarters: content.headquarters,
-   about: content.about,
-   mission: content.mission,
-   culture: content.culture,
-   benefits: content.benefits,
-   techStack: content.techStack,
-  });
- }
- 
- // Provide realistic fallbacks for missing descriptions/about fields
- if (!company.description) {
-  const topJobs = company.jobs.slice(0, 2).map(j => j.title).join(' and ');
-  company.description = `Explore open careers and job opportunities at ${company.name}, specializing in Web3 development. Current openings include ${topJobs || 'various roles'}.`;
- }
- if (!company.about) {
-  const rolesStr = company.jobCount === 1 ? '1 active job listing' : `${company.jobCount} active job listings`;
-  company.about = `<p>${company.name} is an active contributor to the Web3 and decentralised technologies ecosystem. The organisation is currently expanding its team and has ${rolesStr} available on our platform.</p><p>By joining ${company.name}, you will work alongside skilled industry professionals in a fast-paced environment. Explore their open roles below to find a career path that matches your skills in engineering, product management, design, or marketing.</p>`;
- }
+ if (content?.website) company.website = content.website;
+ company.description = buildListingDescription(company.name, company.jobs);
  
  return company;
-}
-
-/**
- * Get company statistics - all computed from real job data
- */
-export async function getCompanyStats() {
- const companies = await getCompanies();
- const totalJobs = companies.reduce((sum, c) => sum + c.jobCount, 0);
-
- // Category distribution (from enriched company profiles)
- const categoryMap = new Map<string, number>();
- companies.forEach(c => {
-  const cat = c.category || 'Other';
-  categoryMap.set(cat, (categoryMap.get(cat) || 0) + 1);
- });
- const categoryBreakdown = Array.from(categoryMap.entries())
-  .map(([category, count]) => ({ category, count, pct: Math.round((count / companies.length) * 100) }))
-  .sort((a, b) => b.count - a.count);
-
- // Source distribution (RSS vs Greenhouse vs Lever vs Ashby)
- const sourceMap = new Map<string, number>();
- const jobs = await getJobs();
- jobs.forEach(j => {
-  const src = j.source?.split(':')[0]?.trim() || 'RSS';
-  sourceMap.set(src, (sourceMap.get(src) || 0) + 1);
- });
- const sourceBreakdown = Array.from(sourceMap.entries())
-  .map(([source, count]) => ({ source, count, pct: Math.round((count / jobs.length) * 100) }))
-  .sort((a, b) => b.count - a.count);
-
- // Companies with enriched profiles
- const enrichedCount = companies.filter(c => c.description || c.about).length;
-
- return {
-  totalCompanies: companies.length,
-  totalJobs,
-  averageJobsPerCompany: Math.round(totalJobs / companies.length),
-  topCompanies: companies.slice(0, 10),
-  categoryBreakdown,
-  sourceBreakdown,
-  enrichedCount,
- };
 }

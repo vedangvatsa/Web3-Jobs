@@ -40,8 +40,11 @@ for (const file of files) {
     frontmatter += `lastUpdated: "${today}"\n`;
   }
 
-  fs.writeFileSync(filePath, `---${frontmatter}---${body}`, 'utf8');
-  updated++;
+  const nextContent = `---${frontmatter}---${body}`;
+  if (nextContent !== content) {
+    fs.writeFileSync(filePath, nextContent, 'utf8');
+    updated++;
+  }
 }
 
-console.log(`Stamped ${updated} articles with lastUpdated: ${today}`);
+console.log(`Stamped ${updated} changed articles with lastUpdated: ${today}`);
