@@ -35,7 +35,9 @@ const ATS_HOSTNAMES = new Set([
  'boards.greenhouse.io', 'coinbase.getro.com', 'jobs.multicoin.capital',
  'jobs.solana.com', 'jobs.dragonfly.xyz', 'www.linkedin.com',
  'circle.wd1.myworkdayjobs.com', 'apply.workable.com',
- 'jobs.smartrecruiters.com', 'getro.com',
+ 'jobs.smartrecruiters.com', 'getro.com', 'ats.rippling.com',
+ 'in.linkedin.com', 'sg.linkedin.com', 'il.linkedin.com',
+ 'de.linkedin.com', 'my.linkedin.com', 'eg.linkedin.com',
 ]);
 
 /**
@@ -73,6 +75,18 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'bitvavo': 'https://bitvavo.com',
  'venice': 'https://venice.ai',
  'parity-technologies': 'https://www.parity.io',
+ 'blockaid': 'https://blockaid.io',
+ 'zone': 'https://zone.network',
+ 'altonomy': 'https://www.altonomy.com',
+ 'apex': 'https://apex.win',
+ 'cinch': 'https://cinch.co',
+ 'swipe-io': 'https://swipe.io',
+ 'alphapoint': 'https://alphapoint.com',
+ 'onmeta': 'https://onmeta.in',
+ 'rise': 'https://risework.co',
+ 'utila': 'https://utila.io',
+ 'bitpay': 'https://bitpay.com',
+ 'spearbit': 'https://spearbit.com',
 };
 
 /**
