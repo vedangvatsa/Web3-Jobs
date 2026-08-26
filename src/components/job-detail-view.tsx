@@ -34,7 +34,7 @@ export function JobDetailView({
 }: JobDetailViewProps) {
   const slug = getJobSlug(job);
   const companySlug = getCompanySlug(job.company);
-  const canonicalUrl = `${siteUrl}/jobs/${slug}`;
+  const canonicalUrl = `${siteUrl}/${slug}`;
   const companyUrl = `${siteUrl}/${companySlug}`;
   const postedLabel = job.dateVerified === false ? null : getPostedLabel(job.date);
   const postedDate = new Date(job.date);

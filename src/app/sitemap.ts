@@ -314,7 +314,7 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   const jobRoutes: MetadataRoute.Sitemap = jobsWithSlugs
    .filter(({ job }) => hasSubstantialJobContent(job))
    .map(({ job, slug }) => ({
-    url: `${siteUrl}/jobs/${slug}`,
+    url: `${siteUrl}/${slug}`,
     lastModified: new Date(job.date),
     changeFrequency: 'daily' as const,
     priority: 0.8,

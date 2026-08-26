@@ -28,7 +28,7 @@ import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
 import {
-  buildUniqueJobPageContent,
+  buildSynthesizedJobContent,
   buildUniqueJobMetaDescription,
   getAllJobsWithSlugs,
   getJobBySlug,
@@ -36,6 +36,7 @@ import {
 } from '@/lib/job-guides';
 import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { getCompanySlug } from '@/lib/job-slugs';
 
 
 type ArticlePageProps = {
@@ -51,6 +52,7 @@ export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
   const events = await getEvents();
+  const jobsWithSlugs = await getAllJobsWithSlugs();
 
   // Pre-render 50 most recent articles + all resource pages at build time.
   const topArticles = articles
@@ -70,6 +72,7 @@ export async function generateStaticParams() {
     .sort((a, b) => b.jobCount - a.jobCount)
     .slice(0, 20)
     .map((company) => ({ slug: company.slug })),
+   ...jobsWithSlugs.slice(0, 60).filter(({ job }) => hasSubstantialJobContent(job)).map(({ slug }) => ({ slug })),
   ];
 }
 
@@ -177,10 +180,34 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     images: [ogImageUrl],
    },
   };
- }
+  }
 
- // Check if it's a glossary term
- const term = await getTerm(params.slug);
+  // Check if it's a job (root-level: /frontend1 not /jobs/frontend1)
+  const jobMeta = await getJobBySlug(params.slug);
+  if (jobMeta) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const { getJobSlug } = await import('@/lib/job-slugs');
+    const slug = getJobSlug(jobMeta);
+    const canonicalUrl = `${siteUrl}/${slug}`;
+    const title = `${jobMeta.title} at ${jobMeta.company}`;
+    let sourceHost = 'employer site';
+    try { sourceHost = new URL(jobMeta.link).hostname.replace(/^www\./, ''); } catch {}
+    const uniqueMarker = `${jobMeta.company} | ${jobMeta.location || 'Remote'} | ${sourceHost}`;
+    const description = `${buildUniqueJobMetaDescription(jobMeta)} ${uniqueMarker}.`;
+    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(title)}`;
+    const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
+    return {
+      title,
+      description,
+      alternates: { canonical: canonicalUrl },
+      robots: hasVerifiedContent ? undefined : { index: false, follow: true },
+      openGraph: { title, description, url: canonicalUrl, type: 'website', siteName: 'Hashtag Web3', images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }] },
+      twitter: { card: 'summary_large_image', title, description, images: [ogImageUrl] },
+    };
+  }
+
+  // Check if it's a glossary term
+  const term = await getTerm(params.slug);
  if (term) {
   const siteUrl = 'https://hashtagweb3.com';
   const termUrl = `${siteUrl}/${term.slug}`;
@@ -547,11 +574,23 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   );
  }
 
- // Check if it's a glossary term
- const term = await getTerm(params.slug);
- if (term) {
-  const siteUrl = 'https://hashtagweb3.com';
-  const allTerms = await getAllTerms();
+  // Check if it's a job (root-level: /frontend1)
+  const job = await getJobBySlug(params.slug);
+  if (job) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const companySlug = getCompanySlug(job.company);
+    const company = await getCompanyBySlug(companySlug);
+    const contentHtml = buildSynthesizedJobContent(job);
+    const logoSrc = resolveCompanyLogo(companySlug);
+    const faviconUrl = getCompanyFaviconUrl(company?.website);
+    return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
+  }
+
+  // Check if it's a glossary term
+  const term = await getTerm(params.slug);
+  if (term) {
+   const siteUrl = 'https://hashtagweb3.com';
+   const allTerms = await getAllTerms();
   const relatedTermsData = term.relatedTerms
    .map(relatedSlug => allTerms.find(t => t.slug === relatedSlug || t.term === relatedSlug))
    .filter((t): t is NonNullable<typeof t> => t != null);

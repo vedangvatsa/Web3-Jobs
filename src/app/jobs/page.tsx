@@ -66,7 +66,7 @@ export default async function JobsPage() {
     itemListElement: initialJobs.map((job, index) => ({
      '@type': 'ListItem',
      position: index + 1,
-     url: `${siteUrl}/jobs/${getJobSlug(job)}`,
+      url: `${siteUrl}/${getJobSlug(job)}`,
      name: `${job.title} at ${job.company}`,
     })),
    },

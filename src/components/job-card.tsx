@@ -9,7 +9,7 @@ import { CompanyLogo } from '@/components/company-logo';
 export function JobCard({ job, logoUrl, faviconUrl }: { job: Job; logoUrl?: string | null; faviconUrl?: string | null }) {
   const slug = getJobSlug(job);
   return (
-    <Link href={`/jobs/${slug}`} className="block h-full">
+    <Link href={`/${slug}`} className="block h-full">
       <Card className="flex h-full flex-col border-border/70 bg-card shadow-none hover:border-foreground/25">
         <CardHeader className="pb-3 pt-4 px-4">
           <div className="flex items-center gap-3">

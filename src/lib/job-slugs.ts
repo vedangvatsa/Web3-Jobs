@@ -121,19 +121,15 @@ export function getOneWordRole(title: string): string {
 /**
  * Generates an extremely short, single-word-based slug followed by numbers
  * to guarantee absolute uniqueness and prevent collisions.
- * e.g. "/onboarding-29373"
- *      "/trader-30002"
- *      "/supervisor-25712"
- *      "/developer-20729"
- *      "/qa-3331"
- *      "/associate-de40"
+ * e.g. "/onboarding29373" -> sequential: /frontend1, /frontend2
  */
 export function getJobSlug(job: Job): string {
   if (job.slug) {
     return job.slug;
   }
   const roleWord = getOneWordRole(job.title || 'job');
-  return `${roleWord}-${stableHash(getJobIdentity(job))}`;
+  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
+  return shortId ? `${roleWord}${shortId}` : roleWord;
 }
 
 export function getCompanySlug(company: string): string {
