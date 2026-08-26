@@ -57,3 +57,10 @@ export function getJobSlug(job: Job): string {
   const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
   return shortId ? `${roleWord}${shortId}` : roleWord;
 }
+
+export function getCompanySlug(company: string): string {
+  return (company || 'web3')
+    .toLowerCase()
+    .replace(/[^a-z0-9]+/g, '-')
+    .replace(/^-+|-+$/g, '');
+}
