@@ -1,4 +1,7 @@
 import { JobBoard } from '@/components/job-board';
+import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { getCompanyBySlug } from '@/lib/companies';
+import { getCompanySlug } from '@/lib/job-slugs';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
 import Link from 'next/link';
@@ -9,12 +12,28 @@ import { SITE_STATS } from '@/lib/constants';
 import type { WebPage, JobPosting } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
+import type { Job } from '@/types';
+
+async function buildCompanyLogos(jobs: Job[]): Promise<Record<string, { logo: string | null; favicon: string | null }>> {
+  const slugs = Array.from(new Set(jobs.map(j => getCompanySlug(j.company))));
+  const map: Record<string, { logo: string | null; favicon: string | null }> = {};
+  await Promise.all(slugs.map(async slug => {
+    const company = await getCompanyBySlug(slug);
+    map[slug] = {
+      logo: resolveCompanyLogo(slug),
+      favicon: getCompanyFaviconUrl(company?.website),
+    };
+  }));
+  return map;
+}
+
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
 export default async function JobsPage() {
  const allJobs = await getJobs();
- const initialJobs = allJobs; // Pass all jobs; JobBoard handles pagination client-side
+ const initialJobs = allJobs;
+ const companyLogos = await buildCompanyLogos(initialJobs); // Pass all jobs; JobBoard handles pagination client-side
 
  
  const siteUrl = 'https://hashtagweb3.com';
@@ -82,7 +101,7 @@ export default async function JobsPage() {
            </Link>
          </div>
          <FirebaseClientProvider>
-          <JobBoard initialJobs={initialJobs} />
+          <JobBoard initialJobs={initialJobs} companyLogos={companyLogos} />
          </FirebaseClientProvider>
        </article>
      </PageShell>
