@@ -150,16 +150,29 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
 
   const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
   for (const line of lines) {
-    if (line.startsWith('###HEADING###')) {
-      const hText = line.replace('###HEADING###', '').replace(/[:]+$/, '').trim();
+    if (line.includes('###HEADING###')) {
+      // Marker may sit mid-line when a heading <strong> was inline inside a
+      // paragraph; split so the lead-in stays a paragraph and the marker
+      // portion becomes the heading.
+      const [before, ...rest] = line.split('###HEADING###');
+      const beforeText = before.replace(/[:]+$/, '').trim();
+      if (beforeText) {
+        blocks.push({ type: 'p', text: beforeText });
+      }
+      const hText = rest.join('').replace(/[:]+$/, '').trim();
       if (hText && hText.length < 100) {
         blocks.push({ type: 'h3', text: hText });
+      } else if (hText) {
+        blocks.push({ type: 'p', text: hText });
       }
       continue;
     }
 
+    // Skip decorative divider lines (____, ----, ====, ****)
+    if (/^[-_=*~\u2022\u00b7\u2013\u2014\s]{3,}$/.test(line)) continue;
+
     // Bullet item
-    const bulletMatch = line.match(/^[-*•·▪–—]\s*(.*)$/);
+    const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
     if (bulletMatch) {
       if (bulletMatch[1].trim()) {
         blocks.push({ type: 'li', text: bulletMatch[1].trim() });
@@ -242,6 +255,10 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
 
   for (const block of blocks) {
     let rephrasedText = rephraseSentence(block.text);
+    rephrasedText = rephrasedText
+      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+      .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
+      .replace(/\*\*/g, '');
 
     if (block.type === 'li') {
       if (!currentListOpen) {
@@ -275,7 +292,7 @@ function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
   }
 
   html += '</div>';
-  return html;
+  return html.replace(/#{2,}HEADING###/g, '');
 }
 
 /**
@@ -427,7 +444,9 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
         });
         if (res.ok) {
           const htmlText = await res.text();
-          const contentMatch = htmlText.match(/<article[\s\S]*?<\/article>/i) ||
+          // Guard: never cache full page dumps; only bounded article extracts
+          const contentMatch = htmlText.length > 200000 ? null :
+            htmlText.match(/<article[\s\S]*?<\/article>/i) ||
                                htmlText.match(/<main[\s\S]*?<\/main>/i) ||
                                htmlText.match(/<div[^>]*class="[^"]*(?:job-description|posting-content|description|job-details)[^"]*"[\s\S]*?<\/div>/i);
           if (contentMatch && contentMatch[0].length > 200) {
@@ -461,5 +480,20 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
   }
 
   // Synthesize a completely unique, structured job description
-  return synthesizeUniqueJobContent(rawContent, job);
+  return synthesizeUniqueJobContent(decodeDoubleEscapedHtml(rawContent), job);
+}
+
+/**
+ * Some ATS responses / cache writes store markup entity-escaped; without this
+ * the page renders raw HTML source as visible text (class names, tags).
+ */
+function decodeDoubleEscapedHtml(html: string): string {
+  if (!html.includes('&lt;')) return html;
+  if (!/&lt;\/?(?:div|p|h[1-6]|ul|ol|li|a|strong|em|b|i|br|span|table|section|article)[\s>/]/i.test(html)) return html;
+  return html
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#0?39;/g, "'")
+    .replace(/&amp;/g, '&');
 }
