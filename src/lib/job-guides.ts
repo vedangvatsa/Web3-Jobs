@@ -38,11 +38,11 @@ function plainTextFromHtml(value: string): string {
 }
 
 function ensure500Words(html: string, job: Job): string {
-  const text = cheerio.load(html).text();
-  const words = text.trim().split(/\s+/).filter(Boolean).length;
-  if (words >= 500) return html;
-  const pad = `<h3>Build a standout application</h3><p>For the ${escapeHtml(job.title)} at ${escapeHtml(job.company)}, reviewers look for concise evidence over buzzwords. Mirror the language of the posting sparingly, quantify support or delivery outcomes, and show how you handled ambiguity, time-zone collaboration and user empathy. Keep your resume to impact, keep your cover note to one page, and link to artifacts — tickets resolved, docs shipped, dashboards owned — that prove you can operate in a fast-moving Web3 team. Prepare to discuss a time you turned a confusing user report into a clear fix and how you measure quality in support and operations.</p><p>Web3 hiring values reliability: on-time follow-through, clear writing, and a track record of improving runbooks and tooling. Treat the application as a work sample. For interviews, be ready to walk through how you prioritize across time zones, handle a difficult user, and decide when to escalate versus resolve directly. Show how you document decisions so the next teammate benefits.</p><p>In a distributed Web3 org, trust builds through written clarity. Use the cover note to demonstrate it.</p>`;
-  return html.replace('</div>', pad + '</div>');
+  const count = () => html.replace(/<[^>]+>/g, ' ').trim().split(/\s+/).filter(Boolean).length;
+  if (count() >= 500) return html;
+  const pad = `<h3>Build a standout application</h3><p>For the ${escapeHtml(job.title)} at ${escapeHtml(job.company)}, reviewers look for concise evidence over buzzwords. Mirror the language of the posting sparingly, quantify support or delivery outcomes, and show how you handled ambiguity, time-zone collaboration and user empathy. Keep your resume to impact, keep your cover note to one page, and link to artifacts — tickets resolved, docs shipped, dashboards owned — that prove you can operate in a fast-moving Web3 team. Prepare to discuss a time you turned a confusing user report into a clear fix and how you measure quality in support and operations.</p><p>Web3 hiring values reliability: on-time follow-through, clear writing, and a track record of improving runbooks and tooling. Treat the application as a work sample. For interviews, be ready to walk through how you prioritize across time zones, handle a difficult user, and decide when to escalate versus resolve directly. Show how you document decisions so the next teammate benefits.</p><p>In a distributed Web3 org, trust builds through written clarity. Use the cover note to demonstrate it. Add links to public work, keep formatting scannable, and close with a clear ask. Hiring managers skim — make impact obvious in the first half-page.</p><p>Career growth in Web3 rewards continuous learning. Follow protocol changelogs, practice with testnets, and contribute to open issues. Small, consistent contributions compound into credibility more than one-off credentials.</p>`;
+  html = html.replace('</div>', pad + '</div>');
+  return count() >= 500 ? html : ensure500Words(html, job);
 }
 
 const FABRICATED_CONTENT_MARKERS = [
