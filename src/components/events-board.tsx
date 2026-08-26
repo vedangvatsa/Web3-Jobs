@@ -32,7 +32,6 @@ import {
   List,
   X,
   PlusCircle,
-  CheckCircle2,
   ArrowRight,
 } from 'lucide-react';
 import { CtaBanner } from '@/components/cta-banner';
