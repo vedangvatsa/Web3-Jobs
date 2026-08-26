@@ -1,0 +1,224 @@
+{
+  "mu-315286686": {
+    "summaryLead": "A free online session from Microsoft Reactor Redmond walks you through connecting the Real-Time Intelligence MCP server to an AI agent, letting you query streaming data from Fabric's Eventhouse using plain Spanish—no KQL required.",
+    "sections": [
+      {
+        "heading": "What This Session Covers",
+        "content": [
+          "Real-time data is useful, but only if you can actually ask it questions without writing complex queries. That is the problem this session tackles head-on. Hosted by Microsoft Reactor Redmond on August 28, 2026, the workshop is part of an ongoing Spanish-language series exploring Microsoft Fabric's newest capabilities.",
+          "The focus is the Real-Time Intelligence (RTI) MCP server and how it plugs into an AI agent so you can interact with Eventhouse and Azure Data Explorer using natural language. The session runs entirely online, so you can attend from anywhere with a browser. Registration is free through Meetup, and the Microsoft Reactor Redmond page has the link you need to sign up.",
+          "What makes this session different from a typical Fabric overview is the hands-on focus. You are not watching slides about MCP in the abstract—you are building a working pipeline that connects a real-time data source to a natural language interface. That practical orientation is consistent across the Microsoft Reactor series."
+        ]
+      },
+      {
+        "heading": "Connecting MCP to an AI Agent",
+        "content": [
+          "The core demo walks you through hooking up the RTI MCP server to an AI agent that can dynamically discover schemas and metadata from KQL databases. From a prompt written in Spanish, the agent generates optimized queries, runs them against live streaming data, and returns insights—all without you writing a single line of KQL.",
+          "Two server modes are covered: the local open-source read-only server for development and testing, and the remote hosted server that requires no installation at all. By the end you will have built a complete agentic query pipeline over real-time data, which is a pattern you can replicate in production once you are back at your desk.",
+          "The agent's ability to discover schemas dynamically is worth paying attention to. Rather than hardcoding table names and column mappings, the MCP server lets the agent figure out what data is available and how it is structured. That makes the pipeline more resilient to schema changes, which matters in streaming environments where data evolves fast."
+        ]
+      },
+      {
+        "heading": "Prerequisites and What to Prepare",
+        "content": [
+          "Before the session starts, make sure you have access to an Eventhouse in your Fabric workspace with at least one table containing data. That is the only hard prerequisite listed by the organizers. A working familiarity with Fabric will help, but the session is designed to be approachable even if you are newer to the platform.",
+          "If you do not already have a Fabric workspace set up, the Microsoft Learn AI Hub—listed as a sponsor of this event—is a good place to start. The Copilot Hub is another resource worth bookmarking if you want to explore agent-based workflows after the session.",
+          "The event is free and hosted through Meetup, so registering on the Microsoft Reactor Redmond page gives you the join link. Given the interactive format, plan to attend live rather than relying on a recording."
+        ]
+      },
+      {
+        "heading": "Who Should Attend",
+        "content": [
+          "Data engineers and analysts who work with streaming pipelines and want to reduce the barrier between asking a question and getting an answer will get the most out of this session. Developers building agentic AI workflows on top of Fabric will also find the multi-server approach useful as a reference architecture.",
+          "The Spanish-language delivery is worth noting: if you are more comfortable in Spanish, this is one of the few hands-on Fabric workshops that runs entirely in that language. It lowers the bar for Latin American and Spanish audiences who want practical Fabric training without the language friction.",
+          "If you have already attended earlier sessions in this series, this one builds on the concepts introduced previously and takes them into real-time territory specifically. The progression from batch-oriented Fabric work to streaming agentic queries is a natural next step."
+        ]
+      }
+    ]
+  },
+  "luma-evt-PqD1IT9Im6b2Kot": {
+    "summaryLead": "Author Kelsey Armstrong brings her Charmed book tour to Annabelle's Book Club in Studio City for a hands-on keychain-making workshop with Haricot Vert's signature Picto-Charms. Tickets are sold out, but a pop-up at the same venue on August 27-28 still offers custom creations.",
+    "sections": [
+      {
+        "heading": "The Workshop Experience",
+        "content": [
+          "This is not a sit-and-listen book event. You get a keychain base, a signed copy of Charmed by Kelsey Armstrong, two Haricot Vert Picto-Charms, a curated selection of jewelry chain, trinkets, and vintage findings, plus all the hardware you need to assemble a finished keychain. No prior experience is required.",
+          "The evening unfolds at Annabelle's Book Club LA on Ventura Boulevard in Studio City. Kelsey walks you through the basics of assembling a durable, good-looking keychain while sharing her perspective on creativity, building a handmade business, and the story behind Charmed. The vibe is casual, tactile, and beginner-friendly.",
+          "The Picto-Charms are Haricot Vert's signature product—small, colorful charms designed to be mixed and matched into personalized pieces. The workshop gives you access to the full range, so you can build something that actually reflects your taste rather than picking from a limited set of options."
+        ]
+      },
+      {
+        "heading": "What Your Ticket Includes",
+        "content": [
+          "Your ticket price covers every material you will use during the workshop: a signed copy of Charmed, two Picto-Charms, curated jewelry chain and trinkets, clasps and jump rings, and guided instruction. You walk out with a finished keychain you made yourself and a book to take home.",
+          "All registrations are final. The organizers run a small team that preps materials and staffing based on headcount, so cancellations and refunds are not offered. If you are on the fence, decide before you buy rather than after.",
+          "The price point is reasonable when you factor in the book and materials. A signed copy of Charmed alone would run you retail, and the workshop instruction plus materials add real value on top of that. For a handmade-focused event, the cost reflects what it takes to put on this kind of experience."
+        ]
+      },
+      {
+        "heading": "The Pop-Up Alternative",
+        "content": [
+          "If you missed the sold-out workshop, Haricot Vert is running a pop-up at Annabelle's Book Club LA from August 27 through 28, open 11am to 6pm. You can walk in and customize your own Haricot Vert creation without needing a workshop ticket.",
+          "The pop-up gives you access to the same Picto-Charms and materials, just in a self-guided format rather than the instructor-led workshop. It is a solid fallback if the workshop sold out before you could register. The pop-up also lets you browse the full Haricot Vert collection beyond what the workshop focuses on.",
+          "Annabelle's Book Club LA is a bookshop and cultural space on Ventura Boulevard, and hosting the pop-up there ties the crafting experience back to the book that inspired it. If you are in Studio City anyway, it is worth a visit even if you are not buying anything."
+        ]
+      },
+      {
+        "heading": "The Broader Charmed Tour",
+        "content": [
+          "This LA date is one stop on Kelsey Armstrong's Charmed book tour. The same workshop format appears in other cities—Austin gets its version on August 30 at Roommate Collective—so if you are in Texas or have travel flexibility, there are additional opportunities to attend.",
+          "Craftnook, the community arm of Haricot Vert's Williamsburg, Brooklyn base, is behind the organizing. Their workshop series focuses on accessible, hands-on craft sessions that pair a creative project with conversation and community, which gives these events a relaxed social texture beyond just making a thing.",
+          "The combination of book author, craft brand, and community space is a smart way to do a book tour. Instead of a traditional reading and signing, Kelsey gets two hours of hands-on time with her audience, which makes for a more memorable and personal connection than a standard bookstore appearance."
+        ]
+      }
+    ]
+  },
+  "luma-evt-CUx7hOecWJrO8RW": {
+    "summaryLead": "Roommate Collective in Austin hosts the second Charmed workshop stop with author Kelsey Armstrong on August 30-31, offering the same hands-on keychain-making format and signed book that sold out in Los Angeles.",
+    "sections": [
+      {
+        "heading": "Austin's Turn at the Keychain Bench",
+        "content": [
+          "After the Los Angeles stop sold out, Austin gets its chance. The workshop lands at Roommate Collective on Springdale Road on August 30, with the event running from 6:30pm to 8:30pm local time. The format mirrors the LA version: you build a custom keychain while Kelsey Armstrong talks about her book Charmed, creativity, and running a handmade business.",
+          "Roommate Collective is a creative space in East Austin, and the workshop fits the venue's community-oriented programming. You will work with the same Haricot Vert materials—Picto-Charms, vintage findings, jewelry chain, and all the hardware—to assemble a keychain that is entirely your own design.",
+          "The space itself is worth noting. Roommate Collective at 1023 Springdale Road is set up for exactly this kind of hands-on gathering, with the room layout and atmosphere to support a group crafting session. If you have been to other events there, you know the venue works well for intimate, interactive experiences."
+        ]
+      },
+      {
+        "heading": "Tickets and Materials",
+        "content": [
+          "Your ticket includes a signed copy of Charmed, two Picto-Charms, a curated selection of jewelry chain, charms, and trinkets, plus all clasps and jump rings. Guided instruction is built in, and no prior crafting experience is needed. You leave with a finished keychain and a book.",
+          "This event is also sold out. The no-cancellation, no-refund policy means any last-minute openings would need to come through the organizers directly. Check the Luma listing for waitlist or transfer options. The sold-out status across both LA and Austin suggests the Charmed tour has real momentum.",
+          "The materials are prepared in advance based on confirmed headcount, which is why the cancellation policy is strict. It is a small-team operation, and every ticket represents materials purchased and staffing arranged. That is worth understanding before you register, not after."
+        ]
+      },
+      {
+        "heading": "The Austin Pop-Up",
+        "content": [
+          "Before the workshop, Haricot Vert runs a pop-up at Roommate Collective from August 29 through 30, open noon to 6pm. You can walk in and customize your own Haricot Vert creation without a workshop ticket, using the same Picto-Charms and materials available at the instructor-led sessions.",
+          "The pop-up is a good option if you want the Haricot Vert experience without committing to the full workshop format, or if you want to preview the materials before the workshop begins. It also gives you a chance to browse the broader Haricot Vert collection and see what kinds of designs other people are making.",
+          "Roommate Collective's programming tends toward creative and community-focused events, so the pop-up fits naturally into their space. If you are in East Austin on August 29 or 30, the pop-up is easy to visit without any advance planning."
+        ]
+      },
+      {
+        "heading": "Tour Context and Organizer",
+        "content": [
+          "This Austin date is the second stop on Kelsey Armstrong's Charmed book tour workshop series. The same format runs in Los Angeles on August 29 at Annabelle's Book Club LA, so if you have friends in both cities, the experience is consistent across stops.",
+          "Craftnook, the community arm of Haricot Vert's Williamsburg, Brooklyn base, organizes these workshops. Their programming emphasizes accessible, beginner-friendly craft sessions that pair hands-on making with author conversation, which gives the evening a social dimension beyond just the project.",
+          "The tour structure—multiple cities, consistent format, pop-up companion events—is well planned for a book launch. It maximizes the number of people who can interact with the materials and the author while keeping the experience intimate enough to feel personal rather than industrial."
+        ]
+      }
+    ]
+  },
+  "luma-evt-cOrVXkSQSbRfWAo": {
+    "summaryLead": "Artverse Gallery in Paris closes its KOY NO YOKAN exhibition by artist POLYGON1993 with a free finissage on September 3, featuring the artist and curator Arthemort for the final walkthrough.",
+    "sections": [
+      {
+        "heading": "The Closing Reception",
+        "content": [
+          "A finissage is the last chance to see an exhibition before it comes down, and this one brings you into Artverse Gallery for the final moments of KOY NO YOKAN, a show by POLYGON1993 curated by Arthemort. The event runs September 3 from 5pm to 6pm at Artverse Gallery on Rue de Beauce in the Marais.",
+          "The gallery describes this as a chance to share those last memorable moments with the artist and curator. For anyone who saw the exhibition during its run or missed it entirely, this one-hour closing is the final opportunity to experience the work in the space it was made for.",
+          "The finissage format is deliberately brief—just one hour. That makes it easy to fit into an evening, and it signals that the event is about presence and atmosphere rather than a formal presentation. Show up, see the work one last time, and talk to the people who made it."
+        ]
+      },
+      {
+        "heading": "POLYGON1993 and the Exhibition",
+        "content": [
+          "POLYGON1993 is the artist behind KOY NO YOKAN, and the exhibition has drawn a crowd—80 people are already marked as going on the Luma listing, with notable names like Brian Beccafico and Relavil Rodford among the confirmed attendees. The title references a Japanese concept about the anticipation of something before it arrives, which suggests the work engages with expectation and timing.",
+          "Arthemort curated the show, and their presence at the finissage gives you a chance to hear directly about the curatorial decisions, the artist's process, and the themes running through the exhibition. This is not a formal talk—it is a closing reception where conversation happens naturally.",
+          "The combination of the artist and curator both being present makes this more than a standard gallery closing. You get two perspectives on the work, which adds depth to whatever you already know about the exhibition from seeing it or reading about it."
+        ]
+      },
+      {
+        "heading": "Artverse Gallery and the Venue",
+        "content": [
+          "Artverse is a digital art gallery and culture hub in central Paris, located at 5 bis Rue de Beauce in the 3rd arrondissement. The gallery positions itself at the intersection of digital culture and traditional exhibition space, which fits a show like KOY NO YOKAN.",
+          "The venue also hosts its own programming and events beyond exhibitions. If you are visiting Paris and interested in digital art and culture, Artverse is worth following for future events beyond this finissage. Their contact email is available on the listing if you want to inquire about hosting your own event there.",
+          "The Marais location puts you in one of Paris's most walkable neighborhoods, so you can combine the finissage with dinner or drinks nearby. The 3rd arrondissement has no shortage of options for extending the evening after the gallery closes."
+        ]
+      },
+      {
+        "heading": "Registration and Attendance",
+        "content": [
+          "Registration is free and handled through the Luma listing. Given that 80 people are already confirmed and the gallery is not a large space, arriving early is worth your time if you want a comfortable spot.",
+          "The event is listed under Arts and Culture on Luma and featured in the Paris category, which means it is getting visibility beyond just the gallery's own audience. If you are in Paris on September 3 and interested in digital art, this is a low-commitment, high-reward way to spend an hour.",
+          "ArtVerse also has a presence as a featured organizer on Luma, so following their page will keep you updated on future exhibitions and events at the gallery. The digital art scene in Paris is active, and Artverse is a consistent node in that network."
+        ]
+      }
+    ]
+  },
+  "luma-evt-d4RWCD4h0jfI1C2": {
+    "summaryLead": "Part Three of the R³ Group Bodywork Series at Pluto in Toronto focuses on shoulders, chest, neck, jaw, and head—areas tied to communication, expression, and how you show up in pressure moments.",
+    "sections": [
+      {
+        "heading": "The Upper Body Focus",
+        "content": [
+          "This is the third installment of Lisa Nogueira's A New Way Forward series, and it moves up the body to the shoulders, chest, neck, jaw, and head. These are the areas involved in expression, communication, and how you respond to what is happening around you. The session explores what happens physically when it is time to speak, be seen, or take up more space.",
+          "You may notice your shoulders tightening, your jaw clenching, or tension building through your neck and head in moments of pressure. The workshop treats these patterns as worth examining—not as problems to fix, but as information about how your body relates to communication and connection in everyday situations.",
+          "The framing is important here. The organizers are careful to say these are not fixed meanings assigned to body parts. They are reference points for noticing how physical patterns may relate to the way you communicate, relate, and respond. That distinction keeps the work grounded rather than speculative."
+        ]
+      },
+      {
+        "heading": "What You Will Do",
+        "content": [
+          "The session combines self-bodywork, movement, awareness exercises, and reflection. Most of the work is guided and done on your own body, though hands-on support may be offered and is always optional. You remain fully clothed throughout, and no previous bodywork experience is required.",
+          "Themes explored include expression and communication, being seen and taking up space, holding back or over-controlling, carrying responsibility through the upper body, and allowing more choice in how you show up. The session is designed to give you tools you can continue using outside of the room.",
+          "The two-hour format is long enough to go deeper than a quick workshop but short enough to maintain focus. You are supported to work at your own pace, which means the experience scales to wherever you are in your body awareness practice."
+        ]
+      },
+      {
+        "heading": "The Three-Part Series",
+        "content": [
+          "Part One on August 18 covered feet, legs, hips, and pelvis. Part Two on August 27 addressed the core, diaphragm, ribs, and mid-back. Part Three on September 3 completes the arc with the upper body. You can attend any single session, but the three-part structure builds a progressive understanding of how different body regions relate.",
+          "Each session runs two hours at Pluto, a community space at 60 Sumach Street in Toronto. The venue is described as a fourth space for community, co-creation, and coworking, which fits the group-oriented, experiential format of the bodywork sessions.",
+          "The series design is thoughtful. Starting from the ground up—feet and legs first, then core, then upper body—follows a logical progression that mirrors how body awareness typically develops. Even if you only attend one session, the individual workshops are designed to stand alone."
+        ]
+      },
+      {
+        "heading": "What to Bring and Ticket Details",
+        "content": [
+          "Wear comfortable clothing you can move in and bring a pillow for additional support. The work is experiential and educational, designed to give you tools you can continue using outside the session. You are supported to work at your own pace and notice what is relevant for you.",
+          "Ticket options include a standard admission and a Pluto member rate that requires approval. Nine people are already confirmed to attend, and the event is organized by R³ Group Bodywork, which specializes in group experiences that help people work with the body and shift familiar patterns.",
+          "Lisa Nogueira hosts and facilitates the session. Her approach to group bodywork emphasizes individual agency within a shared container—you are not being adjusted or fixed, you are exploring your own patterns with guidance and support. The small group size keeps the experience personal even in a group setting."
+        ]
+      }
+    ]
+  },
+  "mu-315286722": {
+    "summaryLead": "The final session in Microsoft Reactor Redmond's Fabric series introduces Fabric IQ and MCP Ontology—a semantic layer that lets external agents like Claude, Copilot, and Foundry agents reason against your business data without custom integrations.",
+    "sections": [
+      {
+        "heading": "The Semantic Foundation for Agents",
+        "content": [
+          "This is the most advanced session in the series. Fabric IQ, which went GA at Build 2026, is the shared context layer that unifies Data Agents, semantic models, and Ontologies across OneLake. The session walks you through what an Ontology in Fabric actually is: entities, relationships, properties, and business rules tied to live data.",
+          "The practical payoff is that you can expose your Ontology as an MCP server. Any external agent—Claude, Copilot, agents built on Foundry—can then ground its reasoning in your business semantics without you rewriting integrations for each one. That is a meaningful shift from one-off agent deployments to a reusable semantic infrastructure.",
+          "The concept of an Ontology in this context is specific to Fabric. It is not a general knowledge graph or a theoretical construct—it is a governed, data-backed definition of your business domain that lives alongside your actual data in OneLake. That makes it both discoverable and trustworthy for agents that need to understand what your data means, not just what it contains."
+        ]
+      },
+      {
+        "heading": "Building a Multi-Agent Flow",
+        "content": [
+          "The session builds a complete multi-agent pipeline. An orchestrator queries the Ontology via MCP to understand the business context, then delegates to a Data Agent for the actual data retrieval. The result is a response that is both consistent and governed, because every agent in the chain is anchored to the same semantic definitions.",
+          "This is not a theoretical architecture discussion. The organizers walk through the full build, from Ontology setup to MCP exposure to agent orchestration. You see the code and the configuration, which means you can adapt the pattern to your own stack once you leave the session.",
+          "The multi-agent approach is worth understanding even if you are not planning to deploy it immediately. As more organizations move toward agentic architectures, having a semantic layer that multiple agents can share becomes a governance advantage. It prevents each agent from developing its own interpretation of what your business data means."
+        ]
+      },
+      {
+        "heading": "Adoption Roadmap and Q and A",
+        "content": [
+          "The session closes with a practical adoption roadmap: what is GA, what is still in Preview, and how to plan for rolling Fabric IQ into your organization. That kind of honest status breakdown is useful for teams trying to decide whether to invest now or wait for broader feature coverage.",
+          "The final fifteen minutes are reserved for open Q and A, and the organizers encourage you to bring your own use case. If you have a specific architecture question or a data governance challenge you want to pressure-test, this is the time to do it with people who know the platform deeply.",
+          "Bringing your actual use case to the Q and A turns a generic session into a targeted consultation. The organizers have seen enough implementations to give you practical feedback on whether your approach is realistic, what pitfalls to watch for, and where the current feature set might fall short."
+        ]
+      },
+      {
+        "heading": "Series Context and Access",
+        "content": [
+          "This is the third and final session in the Fabric MCP series at Microsoft Reactor Redmond. The first session on August 28 covered Real-Time Intelligence MCP and streaming data queries. This closing session takes the furthest step toward enterprise-grade agent infrastructure.",
+          "The session runs online on September 4, 2026, starting at 8:00 AM Pacific. It is free to attend through Meetup, and the Microsoft Reactor Redmond page has the registration link. Spanish-language delivery keeps it accessible for Latin American and Spanish audiences who want practical Fabric training.",
+          "If you have attended the earlier sessions in this series, this one ties the previous concepts together and pushes them into the most complex territory. The progression from streaming queries to semantic ontologies maps directly onto how Fabric's capabilities layer on top of each other in production."
+        ]
+      }
+    ]
+  }
+}
