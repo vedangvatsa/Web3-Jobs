@@ -145,15 +145,19 @@ async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent>
  * Normalize company name for matching
  */
 function normalizeCompanyName(name: string): string {
- return name
-  .toLowerCase()
-  .replace(/\s+inc\.?$/i, '')
-  .replace(/\s+ltd\.?$/i, '')
-  .replace(/\s+llc\.?$/i, '')
-  .replace(/\s+corp\.?$/i, '')
-  .replace(/\s+labs?$/i, '')
-  .replace(/[^a-z0-9]/g, '')
-  .trim();
+  const lower = name.toLowerCase().trim();
+  if (lower.includes('offchain') || lower.includes('arbitrum')) {
+    return 'arbitrum';
+  }
+  return name
+   .toLowerCase()
+   .replace(/\s+inc\.?$/i, '')
+   .replace(/\s+ltd\.?$/i, '')
+   .replace(/\s+llc\.?$/i, '')
+   .replace(/\s+corp\.?$/i, '')
+   .replace(/\s+labs?$/i, '')
+   .replace(/[^a-z0-9]/g, '')
+   .trim();
 }
 
 /**
@@ -172,8 +176,9 @@ export async function getCompanies(): Promise<Company[]> {
   
   // Use the first occurrence as the canonical name
   if (!nameMap.has(normalized)) {
-   nameMap.set(normalized, companyName);
-   companyMap.set(companyName, []);
+   const canonicalName = normalized === 'arbitrum' ? 'Arbitrum' : companyName;
+   nameMap.set(normalized, canonicalName);
+   companyMap.set(canonicalName, []);
   }
   
   const canonicalName = nameMap.get(normalized)!;
@@ -271,8 +276,9 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const normalized = normalizeCompanyName(companyName);
   
   if (!nameMap.has(normalized)) {
-   nameMap.set(normalized, companyName);
-   companyMap.set(companyName, []);
+   const canonicalName = normalized === 'arbitrum' ? 'Arbitrum' : companyName;
+   nameMap.set(normalized, canonicalName);
+   companyMap.set(canonicalName, []);
   }
   
   const canonicalName = nameMap.get(normalized)!;
