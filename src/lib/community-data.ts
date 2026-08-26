@@ -32,7 +32,7 @@ export const companies = [
   { name: 'Ripple', src: '/logo/companies/ripple.png', alt: 'Ripple logo' },
   { name: 'LBank', src: '/logo/job/lbank.png', alt: 'LBank logo' },
   { name: 'dYdX', src: '/logo/job/dydx.png', alt: 'dYdX logo' },
-  { name: 'Coinbase', src: '/logo/job/coinbase.svg', alt: 'Coinbase logo' },
+  { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Coinbase logo' },
 ];
 
 export const partnersLogos = [
@@ -81,7 +81,7 @@ export const hiredCompanies = [
   { name: 'Antier', src: '/logo/job/Antier.svg', alt: 'Antier logo' },
   { name: 'Bitget', src: '/logo/job/bitget.png', alt: 'Bitget logo' },
   { name: 'Circle', src: '/logo/job/circle.png', alt: 'Circle logo' },
-  { name: 'Coinbase', src: '/logo/job/coinbase.svg', alt: 'Coinbase logo' },
+  { name: 'Coinbase', src: '/logo/job/coinbase.png', alt: 'Coinbase logo' },
   { name: 'DePHY', src: '/logo/job/dephy.png', alt: 'DePHY logo' },
   { name: 'dYdX', src: '/logo/job/dydx.png', alt: 'dYdX logo' },
   { name: 'Funtoken', src: '/logo/job/funtoken.png', alt: 'Funtoken logo' },
