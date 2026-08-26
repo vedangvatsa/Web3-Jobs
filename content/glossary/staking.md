@@ -58,17 +58,17 @@ Beyond network validation, "staking" in DeFi refers to locking tokens in protoco
 ## Staking Rewards and Risks
 
 - **Rewards Come From**:
-- Newly issued tokens (inflation)
-- Transaction fees collected by the network
-- Protocol revenue sharing
-- Incentive programs from protocols
+  - Newly issued tokens (inflation)
+  - Transaction fees collected by the network
+  - Protocol revenue sharing
+  - Incentive programs from protocols
 
 - **Risks Include**:
-- **Slashing**: Loss of staked funds for validator misbehavior (PoS chains)
-- **Lock-up Periods**: Many staking mechanisms require assets be locked for days, weeks, or months
-- **Smart Contract Risk**: Bugs in staking contracts could lead to loss of funds
-- **Impermanent Loss**: For LP token staking, price divergence can reduce value
-- **Opportunity Cost**: Staked assets cannot be sold if prices move
+  - **Slashing**: Loss of staked funds for validator misbehavior (PoS chains)
+  - **Lock-up Periods**: Many staking mechanisms require assets be locked for days, weeks, or months
+  - **Smart Contract Risk**: Bugs in staking contracts could lead to loss of funds
+  - **Impermanent Loss**: For LP token staking, price divergence can reduce value
+  - **Opportunity Cost**: Staked assets cannot be sold if prices move
 
 ## Staking Yields
 

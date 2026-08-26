@@ -124,11 +124,11 @@ Scammers exploit airdrop excitement:
 - **Impersonation**: Fake accounts may impersonate projects, announcing airdrops that require deposits to "verify wallets."
 
 - **Safety Rules**:
-- Never share seed phrases or private keys.
-- Do not send ETH or crypto to "verify" or "activate" airdrops.
-- Verify announcements on official channels only.
-- Use revoke.cash to check token approvals.
-- Be cautious of unsolicited tokens in your wallet.
+  - Never share seed phrases or private keys.
+  - Do not send ETH or crypto to "verify" or "activate" airdrops.
+  - Verify announcements on official channels only.
+  - Use revoke.cash to check token approvals.
+  - Be cautious of unsolicited tokens in your wallet.
 
 ## The Economic Model
 
@@ -156,17 +156,17 @@ Airdrops may seem like free money but come with costs:
 
 - **Trends**:
 
-- **More Sophisticated Criteria**: Projects are moving beyond simple transaction counts to analyze intent and authenticity.
+  - **More Sophisticated Criteria**: Projects are moving beyond simple transaction counts to analyze intent and authenticity.
 
-- **Proof of Humanity**: Integration with identity systems may help prove unique personhood without KYC.
+  - **Proof of Humanity**: Integration with identity systems may help prove unique personhood without KYC.
 
-- **Tiered Distributions**: Core contributors may receive more tokens, while casual users receive less.
+  - **Tiered Distributions**: Core contributors may receive more tokens, while casual users receive less.
 
-- **Vesting Schedules**: Airdropped tokens may be locked for months or years to reduce sell pressure.
+  - **Vesting Schedules**: Airdropped tokens may be locked for months or years to reduce sell pressure.
 
-- **Clawbacks**: Projects may reserve the right to reclaim tokens from Sybil attackers or rule violators.
+  - **Clawbacks**: Projects may reserve the right to reclaim tokens from Sybil attackers or rule violators.
 
-- **Continuous Distributions**: Instead of one-time airdrops, tokens may be distributed over time to sustained users.
+  - **Continuous Distributions**: Instead of one-time airdrops, tokens may be distributed over time to sustained users.
 
 ## Airdrop Tracking and Tools
 

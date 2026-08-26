@@ -92,8 +92,8 @@ This reduces L1 gas costs since verification only happens when needed.
 4. Sequencer loses their bond if fraud is proven; challenger is rewarded.
 
 - **Interactive vs. Non-Interactive**:
-- **Interactive** (Arbitrum): Multiple rounds of back-and-forth to narrow down the dispute.
-- **Non-Interactive** (proposed for Optimism): Challenger submits proof directly without interaction.
+  - **Interactive** (Arbitrum): Multiple rounds of back-and-forth to narrow down the dispute.
+  - **Non-Interactive** (proposed for Optimism): Challenger submits proof directly without interaction.
 
 Interactive fraud proofs are more complex but more efficient; non-interactive proofs are simpler but more expensive.
 
@@ -107,9 +107,9 @@ The **7-day challenge period** is a fundamental tradeoff:
 - Allows for L1 congestion, network issues, or other delays.
 
 - **Drawbacks**:
-- **Slow Withdrawals**: Users must wait 7 days to withdraw funds from the rollup to L1.
-- **Poor UX**: 7-day wait is unacceptable for many use cases.
-- **Capital Inefficiency**: Liquidity providers filling "fast withdrawals" need to lock capital for 7 days.
+  - **Slow Withdrawals**: Users must wait 7 days to withdraw funds from the rollup to L1.
+  - **Poor UX**: 7-day wait is unacceptable for many use cases.
+  - **Capital Inefficiency**: Liquidity providers filling "fast withdrawals" need to lock capital for 7 days.
 
 Some rollups are exploring shorter challenge periods or preconfirmation mechanisms to mitigate this.
 
@@ -120,30 +120,30 @@ Some rollups are exploring shorter challenge periods or preconfirmation mechanis
 - **Overview**: The largest Optimistic rollup by TVL and usage, developed by Offchain Labs.
 
 - **Key Features**:
-- **Arbitrum Nitro**: Second-generation tech using WASM for faster execution.
-- **Interactive fraud proofs**: Efficient multi-round challenge protocol.
-- **EVM+ compatibility**: Supports EVM plus additional precompiles.
-- **ARB token**: Governance token for Arbitrum DAO.
+  - **Arbitrum Nitro**: Second-generation tech using WASM for faster execution.
+  - **Interactive fraud proofs**: Efficient multi-round challenge protocol.
+  - **EVM+ compatibility**: Supports EVM plus additional precompiles.
+  - **ARB token**: Governance token for Arbitrum DAO.
 
 ### Optimism Mainnet
 
 - **Overview**: The original Optimistic rollup, developed by OP Labs.
 
 - **Key Features**:
-- **OP Stack**: Modular framework for deploying OP-based rollups.
-- **Superchain**: Vision of many interconnected OP Stack chains.
-- **EVM equivalence**: Strives for byte-for-byte EVM compatibility.
-- **OP token**: Governance token and core of the Optimism Collective.
+  - **OP Stack**: Modular framework for deploying OP-based rollups.
+  - **Superchain**: Vision of many interconnected OP Stack chains.
+  - **EVM equivalence**: Strives for byte-for-byte EVM compatibility.
+  - **OP token**: Governance token and core of the Optimism Collective.
 
 ### Base
 
 - **Overview**: Coinbase's Optimistic rollup built on the OP Stack.
 
 - **Key Features**:
-- **OP Stack-based**: Uses Optimism's technology.
-- **Coinbase backing**: Strong institutional support and fiat on-ramps.
-- **Consumer focus**: Targets mainstream consumer applications.
-- **No token (yet)**: No separate token, may eventually join OP governance.
+  - **OP Stack-based**: Uses Optimism's technology.
+  - **Coinbase backing**: Strong institutional support and fiat on-ramps.
+  - **Consumer focus**: Targets mainstream consumer applications.
+  - **No token (yet)**: No separate token, may eventually join OP governance.
 
 ### Other OP Stack Chains
 
@@ -177,10 +177,10 @@ Optimistic rollups excel at EVM compatibility:
 - **Arbitrum**: "EVM+", supports all EVM features plus some additional functionality.
 
 - **Benefits**:
-- Existing Ethereum contracts deploy with minimal or no changes.
-- Developer tools (Hardhat, Foundry, Remix) work out-of-the-box.
-- Solidity skills directly transferable.
-- Faster ecosystem growth.
+  - Existing Ethereum contracts deploy with minimal or no changes.
+  - Developer tools (Hardhat, Foundry, Remix) work out-of-the-box.
+  - Solidity skills directly transferable.
+  - Faster ecosystem growth.
 
 This EVM compatibility is a major reason for Optimistic rollup adoption.
 
@@ -197,9 +197,9 @@ Optimistic rollups security relies on:
 - **L1 Settlement**: Ultimately, Ethereum L1 arbitrates disputes and enforces the correct state.
 
 - **Risks**:
-- If all challengers are offline or compromised simultaneously, fraud could slip through.
-- If the L1 contract has bugs, rollup security is compromised.
-- During the challenge period, state is not yet final.
+  - If all challengers are offline or compromised simultaneously, fraud could slip through.
+  - If the L1 contract has bugs, rollup security is compromised.
+  - During the challenge period, state is not yet final.
 
 Overall, Optimistic rollups inherit Ethereum's security with the additional assumption that at least one honest challenger exists.
 
@@ -210,22 +210,22 @@ Overall, Optimistic rollups inherit Ethereum's security with the additional assu
 - **Transaction Fees**: Transaction fees are significantly lower than L1.
 
 - **Breakdown**:
-- Execution cost: Minimal (off-chain computation is cheap).
-- L1 data cost: Majority of cost (posting calldata/blobs to L1).
-- Sequencer fee: Small markup for sequencer operation.
+  - Execution cost: Minimal (off-chain computation is cheap).
+  - L1 data cost: Majority of cost (posting calldata/blobs to L1).
+  - Sequencer fee: Small markup for sequencer operation.
 
 ### Rollup Economics
 
 - **Revenue Sources**:
-- Transaction fees from users.
-- MEV extraction by sequencer.
-- L1 data cost savings.
+  - Transaction fees from users.
+  - MEV extraction by sequencer.
+  - L1 data cost savings.
 
 - **Costs**:
-- L1 data availability (calldata/blob costs).
-- L1 state root posting and proof verification.
-- Infrastructure (sequencers, RPC nodes, indexers).
-- Development and operations.
+  - L1 data availability (calldata/blob costs).
+  - L1 state root posting and proof verification.
+  - Infrastructure (sequencers, RPC nodes, indexers).
+  - Development and operations.
 
 Most Optimistic rollups are currently profitable or close to breakeven.
 

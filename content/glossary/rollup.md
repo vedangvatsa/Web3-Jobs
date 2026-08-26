@@ -44,18 +44,18 @@ This simple mechanism scales transactions from dozens per second (Layer 1) to th
 Two main rollup types have different security models:
 
 - **Optimistic Rollups** (Arbitrum, Optimism):
-- Assume transactions are valid unless proved otherwise.
-- Post transaction data and compressed state to Layer 1.
-- Anyone can challenge transactions using fraud proofs.
-- If a challenge succeeds, the invalid state is reverted.
-- Simpler to implement but longer withdrawal periods.
+  - Assume transactions are valid unless proved otherwise.
+  - Post transaction data and compressed state to Layer 1.
+  - Anyone can challenge transactions using fraud proofs.
+  - If a challenge succeeds, the invalid state is reverted.
+  - Simpler to implement but longer withdrawal periods.
 
 - **ZK Rollups** (zkSync, StarkNet, Polygon zkEVM):
-- Submit cryptographic zero-knowledge proofs proving all transactions valid.
-- Layer 1 verifies proofs mathematically.
-- No dispute period, state is proven valid immediately.
-- More complex to implement but faster withdrawals.
-- Proof verification is computationally intense.
+  - Submit cryptographic zero-knowledge proofs proving all transactions valid.
+  - Layer 1 verifies proofs mathematically.
+  - No dispute period, state is proven valid immediately.
+  - More complex to implement but faster withdrawals.
+  - Proof verification is computationally intense.
 
 Both approaches inherit Layer 1 security while scaling throughput.
 

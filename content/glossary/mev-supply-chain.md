@@ -33,10 +33,10 @@ The modern MEV supply chain consists of four distinct roles:
 
 - **Searchers** (also called "MEV searchers" or "bots") are actors who continuously scan the mempool and blockchain state to identify profitable MEV opportunities. Searchers run algorithms to detect:
 
-- **Arbitrage opportunities**: Price discrepancies across DEXs that can be exploited for profit
-- **Liquidation opportunities**: Undercollateralized positions in lending protocols like Aave or Compound
-- **Sandwich attack opportunities**: Large trades that can be front-run and back-run for profit
-- **NFT sniping**: Underpriced NFT listings or mints
+  - **Arbitrage opportunities**: Price discrepancies across DEXs that can be exploited for profit
+  - **Liquidation opportunities**: Undercollateralized positions in lending protocols like Aave or Compound
+  - **Sandwich attack opportunities**: Large trades that can be front-run and back-run for profit
+  - **NFT sniping**: Underpriced NFT listings or mints
 
 When searchers identify an opportunity, they construct a **bundle** of transactions designed to extract the MEV (e.g., a flash loan to fund arbitrage, the arbitrage trades, and repayment). Searchers compete to submit the most profitable bundles to builders.
 
@@ -58,11 +58,11 @@ Leading builders like Titan, Beaver Build, and Flashbots Builder dominate the ma
 
 - **Relays** are intermediaries that sit between builders and proposers, enabling communication while preventing theft. Relays serve several critical functions:
 
-- **Receive sealed blocks** from builders with bid amounts (but not full block content)
-- **Validate blocks** for correctness (proper gas limits, valid transactions, accurate bid amounts)
-- **Forward the highest bid** to the proposer without revealing block contents
-- **Escrow block contents** until the proposer commits to the block
-- **Release the full block** only after the proposer has cryptographically committed to it
+  - **Receive sealed blocks** from builders with bid amounts (but not full block content)
+  - **Validate blocks** for correctness (proper gas limits, valid transactions, accurate bid amounts)
+  - **Forward the highest bid** to the proposer without revealing block contents
+  - **Escrow block contents** until the proposer commits to the block
+  - **Release the full block** only after the proposer has cryptographically committed to it
 
 This "sealed bid auction" model prevents proposers from stealing MEV by looking at block contents and rebuilding the block themselves. Relays are currently trusted entities (operated by Flashbots, bloXroute, Aestus, etc.), though researchers are working on trustless relay designs.
 
@@ -70,12 +70,12 @@ This "sealed bid auction" model prevents proposers from stealing MEV by looking 
 
 - **Proposers** are Ethereum validators selected by the consensus layer to propose the next block. In the PBS model, proposers:
 
-- **Receive block bids** from multiple relays
-- **Select the highest bid** (maximizing their MEV revenue)
-- **Commit to the block** by signing a block header
-- **Receive the full block content** from the relay after committing
-- **Propose the block** to the network
-- **Collect payment** (the builder's bid plus normal priority fees)
+  - **Receive block bids** from multiple relays
+  - **Select the highest bid** (maximizing their MEV revenue)
+  - **Commit to the block** by signing a block header
+  - **Receive the full block content** from the relay after committing
+  - **Propose the block** to the network
+  - **Collect payment** (the builder's bid plus normal priority fees)
 
 Proposers effectively "rent out" their block space to the highest-bidding builder, capturing MEV revenue without needing to run sophisticated MEV extraction strategies themselves. This democratizes MEV rewards across all validators, not just those with technical MEV extraction capabilities.
 

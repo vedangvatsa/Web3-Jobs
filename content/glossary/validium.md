@@ -42,11 +42,11 @@ The validium architecture parallels ZK rollups with one critical difference:
 ### 2. Off-Chain Data Posting
 
 - **Key Difference from Rollups**:
-- Transaction data is NOT posted to Ethereum L1.
-- Instead, data is posted to a **Data Availability Committee (DAC)**.
-- The DAC consists of trusted parties, such as members with a multisig.
-- The DAC signs attestations that they have received and stored the data.
-- Only the DAC attestations are posted to L1.
+  - Transaction data is NOT posted to Ethereum L1.
+  - Instead, data is posted to a **Data Availability Committee (DAC)**.
+  - The DAC consists of trusted parties, such as members with a multisig.
+  - The DAC signs attestations that they have received and stored the data.
+  - Only the DAC attestations are posted to L1.
 
 ### 3. Proof Generation
 
@@ -95,26 +95,26 @@ The DAC is the critical component that differentiates validiums:
 - **Threshold**: Requires a majority to sign availability attestations.
 
 - **Duties**:
-- Store transaction data off-chain.
-- Provide data to users on request.
-- Sign attestations that data is available.
-- Participate in data reconstruction if needed.
+  - Store transaction data off-chain.
+  - Provide data to users on request.
+  - Sign attestations that data is available.
+  - Participate in data reconstruction if needed.
 
 ### DAC Examples
 
 - **StarkEx DAC** (used by dYdX, Immutable X):
-- 6 members including Nethermind and ConsenSys.
-- 4-of-6 threshold.
-- Members selected by StarkWare and application operators.
+  - 6 members including Nethermind and ConsenSys.
+  - 4-of-6 threshold.
+  - Members selected by StarkWare and application operators.
 
 - **zkPorter DAC** (zkSync):
-- Uses zkSync validators as DAC members.
-- Secured by zkSync token stake.
-- Slashing for data withholding.
+  - Uses zkSync validators as DAC members.
+  - Secured by zkSync token stake.
+  - Slashing for data withholding.
 
 - **Polygon Miden DAC**:
-- Committee of Polygon validators.
-- Backed by MATIC stake.
+  - Committee of Polygon validators.
+  - Backed by MATIC stake.
 
 ### DAC Risks
 
@@ -179,10 +179,10 @@ Validiums excel in specific scenarios:
 - **Why**: Games generate many micro-transactions that don't individually justify L1 data costs.
 
 - **Examples**:
-- **Immutable X**: NFT gaming platform using StarkEx validium.
-- **Sorare**: Fantasy sports using StarkEx.
+  - **Immutable X**: NFT gaming platform using StarkEx validium.
+  - **Sorare**: Fantasy sports using StarkEx.
 
-- **Trade-off**: Gaming transactions are low-value; users can tolerate small DAC trust for cost savings.
+  - **Trade-off**: Gaming transactions are low-value; users can tolerate small DAC trust for cost savings.
 
 ### Social Media / Content Platforms
 
@@ -197,19 +197,19 @@ Validiums excel in specific scenarios:
 - **Why**: HFT needs very low latency and costs, with frequent small trades.
 
 - **Example**:
-- **dYdX V3**: Used StarkEx validium for perpetuals trading.
+  - **dYdX V3**: Used StarkEx validium for perpetuals trading.
 
-- **Trade-off**: Traders accept DAC trust for superior performance.
+  - **Trade-off**: Traders accept DAC trust for superior performance.
 
 ### Non-Financial Applications
 
 - **Why**: Applications where security of funds isn't the primary concern but scalability is critical.
 
 - **Examples**:
-- Loyalty points.
-- In-game currencies.
-- Achievement systems.
-- Social tokens.
+  - Loyalty points.
+  - In-game currencies.
+  - Achievement systems.
+  - Social tokens.
 
 ## Validium Implementations
 
@@ -219,14 +219,14 @@ Validiums excel in specific scenarios:
 - **Proof System**: ZK-STARKs
 
 - **Features**:
-- Powers dYdX, Immutable X, Sorare.
-- 6-member DAC with 4-of-6 threshold.
-- Can process many transactions per batch.
-- Low transaction costs.
+  - Powers dYdX, Immutable X, Sorare.
+  - 6-member DAC with 4-of-6 threshold.
+  - Can process many transactions per batch.
+  - Low transaction costs.
 
-- **Mode Options**: StarkEx offers both validium mode and rollup mode.
+  - **Mode Options**: StarkEx offers both validium mode and rollup mode.
 
-- **Status**: Established with significant trading volume and users.
+  - **Status**: Established with significant trading volume and users.
 
 ### zkPorter
 
@@ -234,12 +234,12 @@ Validiums excel in specific scenarios:
 - **Proof System**: ZK-SNARKs
 
 - **Features**:
-- Validium mode for zkSync.
-- DAC backed by zkSync token stakers.
-- Slashing for data withholding.
-- Users choose rollup or validium mode per account.
+  - Validium mode for zkSync.
+  - DAC backed by zkSync token stakers.
+  - Slashing for data withholding.
+  - Users choose rollup or validium mode per account.
 
-- **Status**: Planned for zkSync 2.0.
+  - **Status**: Planned for zkSync 2.0.
 
 ### Polygon Miden
 
@@ -247,12 +247,12 @@ Validiums excel in specific scenarios:
 - **Proof System**: ZK-STARKs
 
 - **Features**:
-- Client-side proving.
-- Validium mode with Polygon validator DAC.
-- Local data storage by users.
-- High privacy potential.
+  - Client-side proving.
+  - Validium mode with Polygon validator DAC.
+  - Local data storage by users.
+  - High privacy potential.
 
-- **Status**: Testnet, planned mainnet.
+  - **Status**: Testnet, planned mainnet.
 
 ### StarkNet with Validium Mode
 
@@ -260,10 +260,10 @@ Validiums excel in specific scenarios:
 - **Proof System**: ZK-STARKs
 
 - **Features**:
-- StarkNet can optionally use validium for specific applications.
-- Applications choose rollup or validium mode.
+  - StarkNet can optionally use validium for specific applications.
+  - Applications choose rollup or validium mode.
 
-- **Status**: In development.
+  - **Status**: In development.
 
 ## Hybrid Rollup-Validium Models
 
@@ -272,25 +272,25 @@ Some systems offer **hybrid modes** where users choose their security level:
 ### zkSync's Approach
 
 - **zkRollup Mode**:
-- Data posted to L1.
-- Higher security, slower, more expensive.
+  - Data posted to L1.
+  - Higher security, slower, more expensive.
 
 - **zkPorter Mode** (Validium):
-- Data posted to DAC.
-- Lower security, faster, cheaper.
+  - Data posted to DAC.
+  - Lower security, faster, cheaper.
 
-- **Benefits**: Users choose based on needs.
+  - **Benefits**: Users choose based on needs.
 
 ### StarkEx Data Availability Modes
 
 - **Rollup Mode**:
-- All data on L1.
+  - All data on L1.
 
 - **Validium Mode**:
-- All data with DAC.
+  - All data with DAC.
 
 - **Volition Mode** (future):
-- Users choose per-transaction.
+  - Users choose per-transaction.
 
 ## Security Model
 
@@ -305,8 +305,8 @@ Validium security relies on:
 - **Exit Safety**: Depends on DAC providing data for Merkle proofs.
 
 - **Realistic Threat Model**:
-- If DAC majority is honest, security is equivalent to ZK rollup.
-- If DAC majority is dishonest, users can be censored, funds frozen.
+  - If DAC majority is honest, security is equivalent to ZK rollup.
+  - If DAC majority is dishonest, users can be censored, funds frozen.
 
 Validiums accept **liveness/censorship risk** but maintain **safety**.
 

@@ -35,13 +35,13 @@ AMMs introduce unique challenges, such as impermanent loss and slippage, that tr
 The most common AMM formula is **x × y = k**:
 
 - **Definition**:
-- x = amount of token A in pool
-- y = amount of token B in pool
-- k = constant (product of x and y at any time)
+  - x = amount of token A in pool
+  - y = amount of token B in pool
+  - k = constant (product of x and y at any time)
 
 - **Example**:
-- Uniswap ETH/USDC pool with 1000 ETH and 2,000,000 USDC
-- k = 1000 × 2,000,000 = 2,000,000,000
+  - Uniswap ETH/USDC pool with 1000 ETH and 2,000,000 USDC
+  - k = 1000 × 2,000,000 = 2,000,000,000
 
 ### Trading
 
@@ -82,36 +82,36 @@ Starting state: 1000 ETH, 2,000,000 USDC
 - **Formula**: x × y = k
 
 - **Characteristics**:
-- Simple formula
-- Requires large trades to move prices significantly
-- Works well for all token pairs
+  - Simple formula
+  - Requires large trades to move prices significantly
+  - Works well for all token pairs
 
 ### Constant Sum (Curve Finance, in a simplified form)
 
 - **Formula**: x + y = k (for stablecoins)
 
 - **Characteristics**:
-- Designed for stablecoin pairs (similar valued assets)
-- Much lower slippage for similar-valued assets
-- Can become unbalanced (price at boundary = infinity)
+  - Designed for stablecoin pairs (similar valued assets)
+  - Much lower slippage for similar-valued assets
+  - Can become unbalanced (price at boundary = infinity)
 
 ### Constant Mean (Balancer)
 
 - **Formula**: (x^w1) × (y^w2) = k (weighted product)
 
 - **Characteristics**:
-- Allows arbitrary weights between tokens (not 50/50)
-- Example: 80% USDC / 20% ETH pool
-- More complex but more flexible
+  - Allows arbitrary weights between tokens (not 50/50)
+  - Example: 80% USDC / 20% ETH pool
+  - More complex but more flexible
 
 ### Hybrid (Curve V2, Solidly)
 
 - **Formula**: Combines constant-product and constant-sum properties
 
 - **Characteristics**:
-- Low slippage for similar-valued assets
-- Works well across price ranges
-- More complex math, higher gas costs
+  - Low slippage for similar-valued assets
+  - Works well across price ranges
+  - More complex math, higher gas costs
 
 ## AMM Design Comparison
 
@@ -131,15 +131,15 @@ Starting state: 1000 ETH, 2,000,000 USDC
 - **Formula**: Price Impact = (Input / (Input + Pool Balance))
 
 - **Example**:
-- Pool: 1000 USDC, 1 ETH (price = 1000 USDC/ETH)
-- Swap 100 USDC for ETH
-- Price impact = 100 / (100 + 1000) = 9.1%
-- You get worse than market price due to slippage
+  - Pool: 1000 USDC, 1 ETH (price = 1000 USDC/ETH)
+  - Swap 100 USDC for ETH
+  - Price impact = 100 / (100 + 1000) = 9.1%
+  - You get worse than market price due to slippage
 
 - **Implications**:
-- Large trades result in higher slippage and worse execution.
-- Slippage increases as pools become imbalanced.
-- Slippage decreases as pool liquidity increases.
+  - Large trades result in higher slippage and worse execution.
+  - Slippage increases as pools become imbalanced.
+  - Slippage decreases as pool liquidity increases.
 
 ## Liquidity Provider Rewards and Risks
 
@@ -173,57 +173,57 @@ LPs earn:
 - **Innovation**: Instead of providing liquidity across all price ranges, LPs provide within a specific range.
 
 - **Benefits**:
-- Lower impermanent loss if price stays in range
-- Higher fee earnings with the same volume and less capital
-- More capital efficient
+  - Lower impermanent loss if price stays in range
+  - Higher fee earnings with the same volume and less capital
+  - More capital efficient
 
 - **Drawbacks**:
-- More complex, requiring management of price ranges
-- Risk if price moves outside range (0% fees until price returns)
-- Requires active management
+  - More complex, requiring management of price ranges
+  - Risk if price moves outside range (0% fees until price returns)
+  - Requires active management
 
 ## Popular AMM Platforms
 
 ### Uniswap
 
 - **Features**:
-- Constant product (V2) and concentrated (V3)
-- Multi-chain deployment
-- Strong ecosystem
+  - Constant product (V2) and concentrated (V3)
+  - Multi-chain deployment
+  - Strong ecosystem
 
 ### Curve Finance
 
 - **Specialization**: Stablecoin trading
 
 - **Features**:
-- Constant-sum formula optimized for stablecoins
-- Extremely low slippage
-- High trading volume
+  - Constant-sum formula optimized for stablecoins
+  - Extremely low slippage
+  - High trading volume
 
 ### Balancer
 
 - **Specialization**: Multi-token pools, index investments
 
 - **Features**:
-- Weighted pools (not just 50/50)
-- Liquidity as a Service platform
-- Self-balancing portfolios
+  - Weighted pools (not just 50/50)
+  - Liquidity as a Service platform
+  - Self-balancing portfolios
 
 ### PancakeSwap (BSC), Raydium (Solana)
 
 - **Specialization**: L2/alternative chain AMMs
 
 - **Features**:
-- Similar to Uniswap but on different chains
-- Lower fees, lower security
+  - Similar to Uniswap but on different chains
+  - Lower fees, lower security
 
 ### Astroport (Terra), Thruster (Blast)
 
 - **Specialization**: Newer chain AMMs
 
 - **Features**:
-- Latest AMM innovations
-- Lower liquidity, higher risk
+  - Latest AMM innovations
+  - Lower liquidity, higher risk
 
 ## Career Opportunities in AMMs
 

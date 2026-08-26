@@ -54,16 +54,16 @@ Most NFTs follow the ERC-721 standard on Ethereum, though other standards like E
 ## Benefits and Criticisms
 
 - **Advantages**:
-- Verifiable ownership and authenticity on a public blockchain
-- Creators can earn royalties automatically on secondary sales
-- Enables new creator economy models and direct artist-to-collector sales
-- Composable assets that can work across multiple platforms
+  - Verifiable ownership and authenticity on a public blockchain
+  - Creators can earn royalties automatically on secondary sales
+  - Enables new creator economy models and direct artist-to-collector sales
+  - Composable assets that can work across multiple platforms
 
 - **Challenges**:
-- Environmental concerns, though largely addressed with Proof of Stake
-- Market speculation and price volatility
-- Copyright and intellectual property questions
-- Media files typically stored off-chain, creating dependency on external servers
+  - Environmental concerns, though largely addressed with Proof of Stake
+  - Market speculation and price volatility
+  - Copyright and intellectual property questions
+  - Media files typically stored off-chain, creating dependency on external servers
 
 ## The NFT Market
 

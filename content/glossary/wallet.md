@@ -51,8 +51,8 @@ When you "send" cryptocurrency, your wallet creates a transaction message, signs
 
 - **Custodial vs. Non-Custodial**:
 
-- **Custodial**: A company controls your private keys
-- **Non-Custodial**: You control your own keys ("not your keys, not your crypto")
+  - **Custodial**: A company controls your private keys
+  - **Non-Custodial**: You control your own keys ("not your keys, not your crypto")
 
 ## Seed Phrases and Backup
 
@@ -120,39 +120,39 @@ Gnosis Safe is a multi-sig platform securing assets for DAOs and protocols.
 Traditional wallets are Externally Owned Accounts (EOAs), addresses controlled by private keys. Smart contract wallets are contracts with programmed logic:
 
 - **Benefits**:
-- Social recovery: Trusted contacts can help recover lost access
-- Spending limits: Restrict transaction amounts without additional approval
-- Session keys: Temporary keys for gaming or apps with limited permissions
-- Gasless transactions: Someone else can pay gas fees
-- Batched transactions: Execute multiple operations atomically
+  - Social recovery: Trusted contacts can help recover lost access
+  - Spending limits: Restrict transaction amounts without additional approval
+  - Session keys: Temporary keys for gaming or apps with limited permissions
+  - Gasless transactions: Someone else can pay gas fees
+  - Batched transactions: Execute multiple operations atomically
 
-- **ERC-4337 Account Abstraction**: New standard enabling smart contract wallet features without protocol changes. Argent and Safe are leading adoption.
+  - **ERC-4337 Account Abstraction**: New standard enabling smart contract wallet features without protocol changes. Argent and Safe are leading adoption.
 
 ## Wallet Security Best Practices
 
 - **Seed Phrase Security**:
-- Write on paper or metal, never digital screenshots
-- Store copies in multiple secure locations
-- Never enter seed phrases on computers connected to the internet
-- Test recovery process with small amounts first
+  - Write on paper or metal, never digital screenshots
+  - Store copies in multiple secure locations
+  - Never enter seed phrases on computers connected to the internet
+  - Test recovery process with small amounts first
 
 - **Transaction Signing**:
-- Verify contract addresses before approving
-- Check token amounts and permissions requested
-- Understand unlimited approvals, they persist until revoked
-- Use tools like Revoke.cash to audit and revoke old approvals
+  - Verify contract addresses before approving
+  - Check token amounts and permissions requested
+  - Understand unlimited approvals, they persist until revoked
+  - Use tools like Revoke.cash to audit and revoke old approvals
 
 - **Phishing Prevention**:
-- Bookmark legitimate dApp URLs
-- Verify contract addresses on multiple sources
-- Be suspicious of unexpected token airdrops
-- Never share screen during support calls
+  - Bookmark legitimate dApp URLs
+  - Verify contract addresses on multiple sources
+  - Be suspicious of unexpected token airdrops
+  - Never share screen during support calls
 
 - **Device Security**:
-- Keep wallet software updated
-- Use dedicated browsers for crypto
-- Avoid public WiFi for sensitive transactions
-- Consider dedicated hardware devices for large holdings
+  - Keep wallet software updated
+  - Use dedicated browsers for crypto
+  - Avoid public WiFi for sensitive transactions
+  - Consider dedicated hardware devices for large holdings
 
 ## Wallet Comparison by Use Case
 
@@ -171,16 +171,16 @@ Traditional wallets are Externally Owned Accounts (EOAs), addresses controlled b
 ## Mobile vs Desktop Wallets
 
 - **Mobile Advantages**:
-- QR code scanning for easy transactions
-- Always accessible
-- Better for point-of-sale crypto payments
-- Biometric authentication
+  - QR code scanning for easy transactions
+  - Always accessible
+  - Better for point-of-sale crypto payments
+  - Biometric authentication
 
 - **Desktop Advantages**:
-- Larger screens for reviewing complex transactions
-- Better for extended DeFi sessions
-- Hardware wallet integration
-- More storage for full nodes
+  - Larger screens for reviewing complex transactions
+  - Better for extended DeFi sessions
+  - Hardware wallet integration
+  - More storage for full nodes
 
 ## WalletConnect Protocol
 
