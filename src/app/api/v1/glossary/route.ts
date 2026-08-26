@@ -1,1 +1,1 @@
-export { GET, POST, OPTIONS, HEAD, revalidate } from '@/app/api/glossary/route';
+export { GET, OPTIONS, revalidate } from '@/app/api/glossary/route';
