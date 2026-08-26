@@ -1,7 +1,7 @@
-import { getCompanies, getCompanyStats } from '@/lib/companies';
+import { getCompanies } from '@/lib/companies';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Building2, MapPin, BarChart3 } from 'lucide-react';
+import { BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
@@ -33,20 +33,12 @@ export const revalidate = 3600;
 
 export default async function CompaniesPage() {
  const companies = await getCompanies();
- const stats = await getCompanyStats();
- 
- // Group companies by category
- const categorizedCompanies = companies.reduce((acc, company) => {
-  const category = company.category || 'Other';
-  if (!acc[category]) acc[category] = [];
-  acc[category].push(company);
-  return acc;
- }, {} as Record<string, typeof companies>);
- 
+ const totalJobs = companies.reduce((sum, company) => sum + company.jobCount, 0);
+ const topCompanies = companies.slice(0, 10);
 
  
  // Find max job count for bar chart scaling
- const maxJobCount = stats.topCompanies[0]?.jobCount || 1;
+ const maxJobCount = topCompanies[0]?.jobCount || 1;
 
  return (
   <div className="flex flex-col min-h-screen">
@@ -55,17 +47,17 @@ export default async function CompaniesPage() {
      <div className="container mx-auto px-4 page-section max-w-6xl text-center">
       <PageHeader title="Web3 Companies Hiring Now" />
       <p className="text-lg md:text-xl text-muted-foreground mb-10 leading-relaxed site-container">
-       Browse {stats.totalCompanies} companies with {stats.totalJobs} open roles across exchanges, DeFi, infrastructure, and more.
+       Browse {companies.length} companies with {totalJobs} open roles across exchanges, DeFi, infrastructure, and more.
       </p>
       
       <div className="flex flex-wrap items-center justify-center gap-8 md:gap-16 text-center">
        <div className="flex flex-col">
-        <span className="text-4xl font-bold text-foreground mb-1">{stats.totalCompanies}</span>
+        <span className="text-4xl font-bold text-foreground mb-1">{companies.length}</span>
         <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Companies</span>
        </div>
        <div className="hidden md:block h-16 w-px bg-border" />
        <div className="flex flex-col">
-        <span className="text-4xl font-bold text-foreground mb-1">{stats.totalJobs}</span>
+        <span className="text-4xl font-bold text-foreground mb-1">{totalJobs}</span>
         <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Open Roles</span>
        </div>
       </div>
@@ -85,7 +77,7 @@ export default async function CompaniesPage() {
       
       {/* Horizontal bar chart */}
       <div className="grid md:grid-cols-2 gap-x-8 gap-y-3">
-       {stats.topCompanies.map((company, index) => (
+       {topCompanies.map((company, index) => (
         <Link key={company.slug} href={`/${company.slug}`} className="group">
          <div className="flex items-center gap-3">
           <span className="text-sm font-medium text-muted-foreground w-5 text-right shrink-0">
@@ -144,20 +136,6 @@ export default async function CompaniesPage() {
               {company.description}
              </p>
            )}
-           <div className="flex items-center gap-4 text-xs text-muted-foreground">
-             {company.category && (
-              <span className="flex items-center gap-1">
-               <Building2 className="h-3 w-3" />
-               {company.category}
-              </span>
-             )}
-             {company.headquarters && (
-              <span className="flex items-center gap-1">
-               <MapPin className="h-3 w-3" />
-               {company.headquarters.split(',')[0]}
-              </span>
-             )}
-           </div>
           </CardContent>
          </Card>
         </Link>

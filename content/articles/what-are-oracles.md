@@ -2,8 +2,8 @@
 title: What Are Oracles? Blockchains Connected to Real World
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-
- Smart contracts can't access off-chain data on their own. Learn how blockchain
- oracles solve this problem by securely bringing real-world data onto the.
+ A step-by-step guide to blockchain oracles covering determinism, Chainlink
+ node economics, off-chain data use cases, current limits, and related roles.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

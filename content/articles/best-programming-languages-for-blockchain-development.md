@@ -1,5 +1,5 @@
 ---
-title: The Top 5 Programming Languages for Web3 Development
+title: Best Programming Languages for Blockchain Development by Use Case
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: programming skill learn
 description: >-

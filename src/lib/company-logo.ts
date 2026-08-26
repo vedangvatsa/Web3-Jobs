@@ -1,20 +1,34 @@
 import fs from 'fs';
 import path from 'path';
 
+const COMPANY_LOGO_ALIASES: Record<string, string> = {
+  'chainlink': 'chainlink-labs',
+  'ethena-labs': 'ethena',
+  'hedera-hashgraph': 'hedera',
+  'ava-labs': 'ava',
+};
+
 const LOGO_PATHS = (slug: string): string[] => {
-  const lower = slug.toLowerCase();
-  return [
-    `/logo/companies/${slug}.png`,
-    `/logo/companies/${slug}.jpg`,
-    `/logo/companies/${slug}.svg`,
-    `/logo/companies/${lower}.png`,
-    `/logo/job/${slug}.png`,
-    `/logo/job/${slug}.jpg`,
-    `/logo/job/${slug}.svg`,
-    `/logo/job/${lower}.png`,
-    `/logo/partners/${slug}.png`,
-    `/logo/partners/${lower}.png`,
-  ];
+  const candidates = [slug];
+  const alias = COMPANY_LOGO_ALIASES[slug.toLowerCase()];
+
+  if (alias) candidates.push(alias);
+
+  return candidates.flatMap((candidate) => {
+    const lower = candidate.toLowerCase();
+    return [
+      `/logo/companies/${candidate}.png`,
+      `/logo/companies/${candidate}.jpg`,
+      `/logo/companies/${candidate}.svg`,
+      `/logo/companies/${lower}.png`,
+      `/logo/job/${candidate}.png`,
+      `/logo/job/${candidate}.jpg`,
+      `/logo/job/${candidate}.svg`,
+      `/logo/job/${lower}.png`,
+      `/logo/partners/${candidate}.png`,
+      `/logo/partners/${lower}.png`,
+    ];
+  });
 };
 
 export function resolveCompanyLogo(companySlug: string): string | null {

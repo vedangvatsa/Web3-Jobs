@@ -1,14 +1,13 @@
 import { getCompanyBySlug } from '@/lib/companies';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { CompanyLogo } from '@/components/company-logo';
-import { Badge } from '@/components/ui/badge';
-import { Building2, Briefcase, ExternalLink, Calendar, MapPin } from 'lucide-react';
+import { Briefcase, ExternalLink } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import type { JobPosting, Organization, WithContext } from 'schema-dts';
+import type { Organization, WithContext } from 'schema-dts';
 import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
-import { CompanyApplyButton } from '@/components/tracking/company-apply-button';
 import { OutboundLink } from '@/components/tracking/outbound-link';
+import { getJobSlug } from '@/lib/job-slugs';
 
 export async function CompanyDetailView({ slug }: { slug: string }) {
   const company = await getCompanyBySlug(slug);
@@ -37,46 +36,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     name: displayName,
     ...(company.website && { url: company.website }),
     ...(company.description && { description: company.description }),
-    ...(company.founded && { foundingDate: String(company.founded) }),
   };
-
-  const jobPostingsSchema: WithContext<JobPosting>[] = company.jobs.slice(0, 10).map(job => ({
-    '@context': 'https://schema.org',
-    '@type': 'JobPosting',
-    title: job.title,
-    description: `${job.title} at ${displayName}`,
-    datePosted: new Date(job.date).toISOString(),
-    hiringOrganization: {
-      '@type': 'Organization',
-      name: displayName,
-      ...(company.website && { url: company.website }),
-    },
-    employmentType: 'FULL_TIME',
-    jobLocation: {
-      '@type': 'Place',
-      address: { '@type': 'PostalAddress', addressLocality: company.headquarters || 'Remote' }
-    },
-    url: job.link,
-    validThrough: new Date(new Date(job.date).setDate(new Date(job.date).getDate() + 30)).toISOString(),
-  }));
-
-  const categorizeJob = (title: string): string => {
-    const lower = title.toLowerCase();
-    if (lower.includes('engineer') || lower.includes('developer') || lower.includes('software')) return 'Engineering';
-    if (lower.includes('marketing') || lower.includes('growth')) return 'Marketing';
-    if (lower.includes('product') || lower.includes('manager')) return 'Product';
-    if (lower.includes('design')) return 'Design';
-    if (lower.includes('sales') || lower.includes('business development')) return 'Sales';
-    if (lower.includes('analyst') || lower.includes('data')) return 'Data';
-    return 'Other';
-  };
-
-  const jobsByCategory = company.jobs.reduce((acc, job) => {
-    const category = categorizeJob(job.title);
-    if (!acc[category]) acc[category] = [];
-    acc[category].push(job);
-    return acc;
-  }, {} as Record<string, typeof company.jobs>);
 
   return (
     <>
@@ -85,14 +45,6 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
       />
-      {jobPostingsSchema.map((schema, i) => (
-        <script
-          key={i}
-          type="application/ld+json"
-          dangerouslySetInnerHTML={{ __html: JSON.stringify(schema) }}
-        />
-      ))}
-
       <div className="flex flex-col min-h-screen">
         <main className="flex-grow">
           <div className="container mx-auto px-4 page-section md:py-12 max-w-6xl">
@@ -131,64 +83,14 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
                       </OutboundLink>
                     )}
                   </div>
+                  {company.description && (
+                    <p className="mt-4 max-w-3xl text-sm leading-relaxed text-muted-foreground">
+                      {company.description}
+                    </p>
+                  )}
                 </div>
               </div>
             </header>
-
-            {/* About Card */}
-            {company.about && (
-              <div className="border rounded-lg p-5 mb-8 bg-muted/30">
-                <div
-                  className="prose prose-sm sm:prose-base dark:prose-invert max-w-none text-muted-foreground prose-headings:text-foreground prose-headings:text-lg prose-headings:font-semibold prose-headings:mt-6 prose-headings:mb-3 prose-p:leading-relaxed prose-p:mb-3 prose-li:leading-relaxed prose-strong:text-foreground prose-a:text-primary"
-                  dangerouslySetInnerHTML={{ __html: company.about }}
-                />
-              </div>
-            )}
-
-            {/* Stats Bar */}
-            <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 mb-8 border rounded-lg p-5">
-              <div className="min-w-0">
-                <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Active Roles</div>
-                <div className="text-base font-bold mt-0.5 truncate">{company.jobCount}</div>
-              </div>
-              {company.headquarters && (
-                <div className="min-w-0 overflow-hidden">
-                  <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">HQ</div>
-                  <div className="text-base font-bold mt-0.5 flex items-center gap-1 min-w-0">
-                    <MapPin className="h-4 w-4 text-muted-foreground shrink-0" />
-                    <span className="truncate">{company.headquarters}</span>
-                  </div>
-                </div>
-              )}
-              {company.category && (
-                <div className="min-w-0">
-                  <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Category</div>
-                  <div className="text-base font-bold mt-0.5 truncate">{company.category}</div>
-                </div>
-              )}
-              {company.founded && (
-                <div className="min-w-0">
-                  <div className="text-xs font-medium text-muted-foreground uppercase tracking-wider">Founded</div>
-                  <div className="text-base font-bold mt-0.5 flex items-center gap-1.5">
-                    <Calendar className="h-4 w-4 text-muted-foreground shrink-0" />
-                    {company.founded}
-                  </div>
-                </div>
-              )}
-            </div>
-
-            {/* Department breakdown */}
-            {Object.keys(jobsByCategory).length > 1 && (
-              <div className="flex flex-wrap gap-2 mb-6">
-                {Object.entries(jobsByCategory)
-                  .sort(([, a], [, b]) => b.length - a.length)
-                  .map(([category, jobs]) => (
-                    <Badge key={category} variant="secondary" className="text-xs">
-                      {category}: {jobs.length}
-                    </Badge>
-                  ))}
-              </div>
-            )}
 
             {/* Open Roles Header */}
             <div className="flex items-center justify-between mb-4">
@@ -201,27 +103,38 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
             {/* 2-Column Job Grid */}
             <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
               {company.jobs.map((job) => (
-                <div key={job.id} className="border rounded-lg p-4 hover:bg-muted/40 transition-colors flex items-start justify-between gap-3">
+                <Link
+                  key={getJobSlug(job)}
+                  href={`/jobs/${getJobSlug(job)}`}
+                  aria-label={`View ${job.title} at ${displayName} and apply`}
+                  className="flex items-start gap-3 rounded-lg border p-4 transition-colors hover:bg-muted/40"
+                >
                   <div className="flex items-start gap-3 flex-1 min-w-0">
-                    <div className="bg-primary/10 p-2 rounded-md shrink-0 mt-0.5">
-                      <Briefcase className="h-4 w-4 text-primary" />
+                    <div className="h-10 w-10 rounded-md border border-border/70 bg-background p-1.5 shrink-0 flex items-center justify-center">
+                      <CompanyLogo
+                        logoSrc={logoSrc}
+                        faviconUrl={faviconUrl}
+                        name={displayName}
+                        size="h-full w-full"
+                      />
                     </div>
                     <div className="flex-1 min-w-0">
                       <div className="font-medium text-sm truncate">{job.title}</div>
                       <div className="flex items-center gap-2 text-xs text-muted-foreground mt-1">
                         <span>{company.name}</span>
-                        <span aria-hidden="true">-</span>
-                        <span>{new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+                        {job.dateVerified !== false && (
+                          <>
+                            <span aria-hidden="true">-</span>
+                            <span>{new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
+                          </>
+                        )}
                       </div>
                     </div>
                   </div>
-                  <CompanyApplyButton
-                    jobId={job.id}
-                    jobTitle={job.title}
-                    companyName={company.name}
-                    jobUrl={job.link}
-                  />
-                </div>
+                  <span className="self-center shrink-0 text-sm font-medium text-primary">
+                    Apply
+                  </span>
+                </Link>
               ))}
             </div>
 

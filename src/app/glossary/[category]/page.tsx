@@ -1,7 +1,7 @@
 import { getTermsByCategory, getCategory } from '@/lib/glossary';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { BookOpen } from 'lucide-react';
+import { ArrowLeft, BookOpen } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
@@ -136,8 +136,9 @@ export default async function CategoryPage({ params }: { params: { category: str
      <div className="container mx-auto px-4 page-section max-w-6xl">
       <div className="max-w-3xl">
        <div className="mb-4">
-        <Link href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
-         ← Web3 Glossary
+        <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
+         <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+         Web3 Glossary
         </Link>
        </div>
        <PageHeader title={category.name} />

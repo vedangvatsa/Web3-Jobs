@@ -3,9 +3,8 @@ title: How to Write a Professional Resume
 image: 'https://picsum.photos/seed/professional-resume/1200/630'
 data-ai-hint: resume paper document
 description: >-
- A step-by-step guide on how to write a professional resume that gets noticed
- by recruiters. Learn how to highlight your skills and achievements
- effectively.
+ Choose the right resume format, write a focused summary, quantify achievements,
+ organize essential sections, and resolve common resume questions.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

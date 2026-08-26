@@ -45,8 +45,9 @@ export function MediaCarousel({ logos }: MediaCarouselProps) {
                     src={`${logo.src}?v=2`} 
                     alt={`Logo of ${logo.name} media outlet, where Hashtag Web3 has been featured`} 
                     fill 
-                    className="object-contain" 
-                    unoptimized
+                    className="object-contain"
+                    sizes="(max-width: 640px) 50vw, (max-width: 768px) 33vw, 20vw"
+                    unoptimized={logo.src.toLowerCase().endsWith('.svg')}
                   />
                 </div>
               </div>

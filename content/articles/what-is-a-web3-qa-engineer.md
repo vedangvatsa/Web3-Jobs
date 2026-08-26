@@ -4,9 +4,8 @@ image: >-
  https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlfGVufDB8fHx8MTc1NTAzNjYxNnww&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: quality assurance test
 description: >-
- An inside look at the important role of a Quality Assurance (QA) Engineer in
- Web3. Learn how QA differs in a blockchain environment and the skills needed
- to.
+ Learn how Web3 QA differs from auditing, from transaction and wallet-flow
+ checks to automated, end-to-end, fork, load, and regression testing.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

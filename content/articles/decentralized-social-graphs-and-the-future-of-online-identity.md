@@ -3,8 +3,8 @@ title: Decentralized Social Graphs and the Future of Online Identity
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: social network identity
 description: >-
- A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and
- Lens are creating a decentralized foundation for social media where users.
+ Compare Farcaster and Lens approaches to portable social graphs, including
+ identity ownership, open composability, protocol architecture, and tradeoffs.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

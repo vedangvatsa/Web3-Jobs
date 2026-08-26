@@ -4,8 +4,8 @@ image: >-
  https://images.unsplash.com/photo-1524675053444-52c3ca294ad2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aW5kb25lc2lhfGVufDB8fHx8MTc1OTI2OTM0OHww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: indonesia bali temple
 description: >-
- A guide to the Web3 job market in Indonesia. Learn about the country's rapid
- crypto adoption, the key players, in-demand roles, and typical salary ranges.
+ Review salary bands for smart contract, mobile, community, and marketing roles
+ in Indonesia, with job-search advice for Jakarta, Bali, and remote candidates.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

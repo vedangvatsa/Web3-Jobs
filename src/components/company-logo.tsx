@@ -1,6 +1,6 @@
 'use client';
 
-import { useState } from 'react';
+import { useEffect, useState } from 'react';
 import { Building2 } from 'lucide-react';
 
 export function CompanyLogo({
@@ -16,8 +16,12 @@ export function CompanyLogo({
 }) {
   const [src, setSrc] = useState<string | null>(logoSrc ?? faviconUrl);
 
+  useEffect(() => {
+    setSrc(logoSrc ?? faviconUrl);
+  }, [logoSrc, faviconUrl]);
+
   if (!src) {
-    return <Building2 className="h-10 w-10 text-primary" />;
+    return <Building2 className={`w-full text-primary ${size}`} />;
   }
 
   return (
@@ -28,7 +32,12 @@ export function CompanyLogo({
       decoding="async"
       className={`object-contain ${size}`}
       onError={() => {
-        if (src !== faviconUrl) setSrc(faviconUrl);
+        if (src === logoSrc && faviconUrl && faviconUrl !== logoSrc) {
+          setSrc(faviconUrl);
+          return;
+        }
+
+        setSrc(null);
       }}
     />
   );

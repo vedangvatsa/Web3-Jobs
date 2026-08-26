@@ -1,5 +1,5 @@
 ---
-term: Wrapped Token
+term: Wrapped Token Custody Models
 slug: wrapped-token-v2
 category: cryptocurrencies
 difficulty: Beginner

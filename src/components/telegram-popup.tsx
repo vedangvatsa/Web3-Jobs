@@ -2,6 +2,7 @@
 
 import { useEffect, useState } from"react";
 import { usePathname } from"next/navigation";
+import { X } from 'lucide-react';
 
 export function PromoPopup() {
   const [isOpen, setIsOpen] = useState(false);
@@ -27,10 +28,10 @@ export function PromoPopup() {
       <div className="relative bg-background border rounded-lg shadow-lg w-full max-w-sm p-6">
         <button
           onClick={dismiss}
-          className="absolute top-3 right-3 text-muted-foreground hover:text-foreground text-lg leading-none"
+          className="absolute top-3 right-3 text-muted-foreground hover:text-foreground"
           aria-label="Close"
         >
-          ✕
+          <X className="h-5 w-5" aria-hidden="true" />
         </button>
 
         <p className="text-lg font-semibold tracking-tight">

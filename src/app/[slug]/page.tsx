@@ -1,16 +1,12 @@
 
 import { getArticle, getAllArticles } from '@/lib/articles';
-import { getJobs } from '@/lib/jobs';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound } from 'next/navigation';
 import * as fs from 'fs';
 import * as path from 'path';
-import { getJobBySlug, getJobSlug, getAllJobsWithSlugs, fetchJobOriginalContent } from '@/lib/job-guides';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
 import { CompanyDetailView } from '@/components/company-detail-view';
-import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
-import { JobDetailView } from '@/components/job-detail-view';
 import { GlossaryCTA } from '@/components/glossary-cta';
 import { GlossaryCharts } from '@/components/glossary-charts';
 import Image from 'next/image';
@@ -32,7 +28,7 @@ import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
-import { Calendar, MapPin, ExternalLink, ArrowRight } from 'lucide-react';
+import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
 import { CtaBanner } from '@/components/cta-banner';
 
 
@@ -49,7 +45,6 @@ export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
   const events = await getEvents();
-  const jobsWithSlugs = await getAllJobsWithSlugs();
 
   // Pre-render 50 most recent articles + all resource pages at build time.
   const topArticles = articles
@@ -65,7 +60,6 @@ export async function generateStaticParams() {
    ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
    ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
    ...feedEvents.slice(0, 20).map((event) => ({ slug: getEventSlug(event) })),
-   ...jobsWithSlugs.slice(0, 60).map(({ slug }) => ({ slug })),
    ...(await getCompanies())
     .sort((a, b) => b.jobCount - a.jobCount)
     .slice(0, 20)
@@ -74,57 +68,6 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
-  // Check if it's a job page
-  const job = await getJobBySlug(params.slug);
-  if (job) {
-    const jobSlug = getJobSlug(job);
-    const siteUrl = 'https://hashtagweb3.com';
-    const canonicalUrl = `${siteUrl}/${jobSlug}`;
-    const title = `${job.title} at ${job.company}`;
-    const description = `Explore the ${job.title} role at ${job.company}. Review responsibilities, qualifications, and apply directly.`;
-    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(`${job.title} at ${job.company}`)}`;
-
-    const keywords = [
-      job.title,
-      job.company,
-      'Web3 Jobs',
-      'Crypto Careers',
-      'Blockchain Engineering',
-      'Remote Web3 Jobs',
-      'Hashtag Web3',
-    ];
-
-    return {
-      title,
-      description,
-      keywords,
-      alternates: {
-        canonical: canonicalUrl,
-      },
-      openGraph: {
-        title,
-        description,
-        url: canonicalUrl,
-        type: 'article',
-        siteName: 'Hashtag Web3',
-        images: [
-          {
-            url: ogImageUrl,
-            width: 1200,
-            height: 630,
-            alt: `${job.title} at ${job.company}`,
-          },
-        ],
-      },
-      twitter: {
-        card: 'summary_large_image',
-        title,
-        description,
-        images: [ogImageUrl],
-      },
-    };
-  }
-
   // Check if it's a company page
   const companyMeta = await getCompanyBySlug(params.slug);
   if (companyMeta) {
@@ -132,13 +75,15 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
     const ogImageUrl = `${siteUrl}/api/og?type=company&title=${encodeURIComponent(companyMeta.name)}&count=${companyMeta.jobCount}`;
     const rawDesc = companyMeta.description
-      ? `${companyMeta.description}. ${companyMeta.jobCount} open positions at ${companyMeta.name}.`
-      : `Browse ${companyMeta.jobCount} open Web3 and blockchain positions at ${companyMeta.name}. Find remote crypto jobs in engineering, marketing, product, and more on Hashtag Web3.`;
+      || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
     const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
 
     return {
       title: `${companyMeta.name} Jobs - ${companyMeta.jobCount} Open Positions`,
       description: desc,
+      robots: companyMeta.jobCount >= 2
+        ? undefined
+        : { index: false, follow: true },
       alternates: { canonical: canonicalUrl },
       openGraph: {
         type: 'website',
@@ -315,32 +260,6 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  // Check if it's a job page
-  const job = await getJobBySlug(params.slug);
-  if (job) {
-    const siteUrl = 'https://hashtagweb3.com';
-    const allJobs = await getJobs();
-    const companySlug = (job.company || 'web3').toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-    const company = await getCompanyBySlug(companySlug);
-    const contentHtml = await fetchJobOriginalContent(job);
-    const relatedJobs = allJobs
-      .filter((j) => j.id !== job.id && (j.company.toLowerCase() === job.company.toLowerCase() || j.title.toLowerCase().includes(job.title.split(' ')[0].toLowerCase())))
-      .slice(0, 4);
-
-    const logoSrc = resolveCompanyLogo(companySlug) ?? getCompanyFaviconUrl(company?.website) ?? getCompanyFaviconUrlBySlug(companySlug);
-
-    return (
-      <JobDetailView
-        job={job}
-        contentHtml={contentHtml}
-        company={company}
-        relatedJobs={relatedJobs}
-        siteUrl={siteUrl}
-        logoSrc={logoSrc}
-      />
-    );
-  }
-
 // Check if it's a company page
   const companyPage = await getCompanyBySlug(params.slug);
   if (companyPage) {
@@ -668,8 +587,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <div>
          <header className="mb-8">
           <div className="flex items-center gap-2 mb-4">
-           <Link href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
-            ← Web3 Glossary
+           <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
+            <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+            Web3 Glossary
            </Link>
           </div>
           <PageHeader title={term.term} />

@@ -1,6 +1,6 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Button } from '@/components/ui/button';
-import { Mail, Send, MapPin, Clock, Terminal, Building2 } from 'lucide-react';
+import { Mail, Send, MapPin, Clock, Terminal, Building2, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { PageHeader } from '@/components/page-header';
 import { PageShell } from '@/components/page-shell';
@@ -81,7 +81,10 @@ export default function ContactPage() {
                     href="/developers"
                     className="font-semibold text-primary hover:underline block pt-2 text-base"
                   >
-                    Developer Portal & Docs →
+                    <span className="inline-flex items-center gap-1.5">
+                      Developer Portal &amp; Docs
+                      <ArrowRight className="h-4 w-4" aria-hidden="true" />
+                    </span>
                   </Link>
                   <p className="text-xs text-muted-foreground pt-1 flex items-center gap-1">
                     <Clock className="h-3.5 w-3.5" /> Direct email: dev@hashtagweb3.com

@@ -1,8 +1,17 @@
 import { getJobs } from '@/lib/jobs';
+import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
+import type { Job } from '@/types';
 
 export const revalidate = 300; // Cache on CDN for 5 minutes
+
+function getJobTags(job: Job): string[] {
+  const tags = (job as Job & { tags?: unknown }).tags;
+  return Array.isArray(tags)
+    ? tags.filter((tag): tag is string => typeof tag === 'string')
+    : [];
+}
 
 export async function GET(request: NextRequest) {
   try {
@@ -74,14 +83,14 @@ export async function GET(request: NextRequest) {
         (j) =>
           j.title.toLowerCase().includes(q) ||
           j.company.toLowerCase().includes(q) ||
-          ((j as any).tags || []).some((t: string) => t.toLowerCase().includes(q))
+          getJobTags(j).some((t) => t.toLowerCase().includes(q))
       );
     }
 
     if (tag) {
       const t = tag.toLowerCase().trim();
       filtered = filtered.filter((j) =>
-        ((j as any).tags || []).some((tagItem: string) => tagItem.toLowerCase() === t || tagItem.toLowerCase().includes(t))
+        getJobTags(j).some((tagItem) => tagItem.toLowerCase() === t || tagItem.toLowerCase().includes(t))
       );
     }
 
@@ -102,6 +111,7 @@ export async function GET(request: NextRequest) {
 
     const total = filtered.length;
     const paginated = filtered.slice(offset, offset + limit);
+    const companyLogos = await buildCompanyLogoMap(paginated);
 
     const nextOffset = offset + limit < total ? offset + limit : null;
     const prevOffset = offset - limit >= 0 ? offset - limit : null;
@@ -112,6 +122,7 @@ export async function GET(request: NextRequest) {
     return NextResponse.json(
       {
         data: paginated,
+        companyLogos,
         meta: {
           total,
           limit,

@@ -4,8 +4,8 @@ image: >-
  https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: salary money negotiation
 description: >-
- A practical guide to negotiating your Web3 job offer. Learn how to evaluate
- token packages, understand vesting schedules, and maximize your total.
+ Evaluate a Web3 offer across base salary, equity, and tokens, then use vesting,
+ liquidity, valuation, risk tolerance, and market research in your negotiation.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

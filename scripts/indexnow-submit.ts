@@ -58,7 +58,7 @@ async function main() {
   const allUrls = [
     ...staticUrls,
     ...articles.map((a) => `${siteUrl}/${a.slug}`),
-    ...companies.map((c) => `${siteUrl}/companies/${c.slug}`),
+    ...companies.map((c) => `${siteUrl}/${c.slug}`),
     ...glossaryTerms.map((t) => `${siteUrl}/${t.slug}`),
     ...categorySlugs.map((c) => `${siteUrl}/glossary/${c}`),
     ...resourcePages.map((p) => `${siteUrl}/${p.seo.canonicalSlug}`),

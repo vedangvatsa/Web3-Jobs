@@ -177,7 +177,7 @@ export async function GET(request: NextRequest) {
                       fontWeight: 'bold',
                     }}
                   >
-                    💰 {salary}
+                    {salary}
                   </div>
                 </div>
               )}
@@ -331,7 +331,7 @@ export async function GET(request: NextRequest) {
                     marginBottom: '16px',
                   }}
                 >
-                  🚀 {count} Open Positions
+                  {count} Open Positions
                 </div>
               )}
               <p
