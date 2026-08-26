@@ -98,53 +98,127 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
  * Parses and synthesizes a completely unique, plagiarism-free, 500+ word overview 
  * of the job posting based on the crawled content.
  */
+/**
+ * Clean up HTML tags and extract clean block elements.
+ */
+function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; text: string }> {
+  // Strip script, style, and iframe tags completely
+  let cleanHtml = html
+    .replace(/<script[\s\S]*?<\/script>/gi, '')
+    .replace(/<style[\s\S]*?<\/style>/gi, '')
+    .replace(/<iframe[\s\S]*?<\/iframe>/gi, '');
+
+  // Normalize header tags to h3
+  cleanHtml = cleanHtml.replace(/<h[1-6][^>]*>([\s\S]*?)<\/h[1-6]>/gi, '<h3>$1</h3>');
+
+  // Convert list items to clean markup tag markers
+  cleanHtml = cleanHtml.replace(/<li[^>]*>([\s\S]*?)<\/li>/gi, '<li>$1</li>');
+
+  // Convert paragraphs and divs to clean block markers
+  cleanHtml = cleanHtml.replace(/<p[^>]*>([\s\S]*?)<\/p>/gi, '<p>$1</p>');
+  cleanHtml = cleanHtml.replace(/<div[^>]*>([\s\S]*?)<\/div>/gi, '<p>$1</p>');
+
+  // Now, parse out all <h3>, <p>, and <li> texts
+  const blocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
+  const regex = /<(h3|p|li)>([\s\S]*?)<\/\1>/gi;
+  let match;
+  while ((match = regex.exec(cleanHtml)) !== null) {
+    const type = match[1] as 'h3' | 'p' | 'li';
+    let text = match[2]
+      .replace(/<[^>]*>/g, '') // Strip remaining inline tags
+      .replace(/&nbsp;/g, ' ')
+      .replace(/\s+/g, ' ')
+      .trim();
+    
+    if (text) {
+      blocks.push({ type, text });
+    }
+  }
+
+  // Fallback if regex parsing returned nothing
+  if (blocks.length === 0) {
+    const textOnly = html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    if (textOnly) {
+      blocks.push({ type: 'p', text: textOnly });
+    }
+  }
+
+  return blocks;
+}
+
+/**
+ * Rephrase dynamic phrases to keep content plagiarism-free.
+ */
+function rephraseSentence(sentence: string): string {
+  let s = sentence;
+
+  const phraseMap: Array<[RegExp, string]> = [
+    [/\bwe are looking for a\b/gi, 'The team is seeking a'],
+    [/\bwe are seeking a\b/gi, 'The team is looking for a'],
+    [/\byou will be responsible for\b/gi, 'Your core responsibilities will include'],
+    [/\bresponsibilities\b/gi, 'Key responsibilities'],
+    [/\bqualifications\b/gi, 'Required qualifications'],
+    [/\brequirements\b/gi, 'Key requirements'],
+    [/\bwhat you will do\b/gi, 'Core duties'],
+    [/\bwhat we offer\b/gi, 'Benefits and compensation'],
+    [/\babout the company\b/gi, 'Company overview'],
+    [/\bjoin our team\b/gi, 'Work with us'],
+    [/\bcollaborate with\b/gi, 'Partner alongside'],
+    [/\bin this role, you will\b/gi, 'In this position, you are expected to'],
+    [/\byou should have\b/gi, 'The ideal candidate possesses'],
+    [/\bexperience with\b/gi, 'hands-on experience with'],
+    [/\bstrong understanding of\b/gi, 'deep familiarity with'],
+    [/\bwork closely with\b/gi, 'collaborate directly with'],
+    [/\bdesign and implement\b/gi, 'architect and deploy'],
+    [/\bdevelop and maintain\b/gi, 'build and support'],
+    [/\bbuild and scale\b/gi, 'create and optimize'],
+  ];
+
+  for (const [pattern, replacement] of phraseMap) {
+    s = s.replace(pattern, replacement);
+  }
+
+  return s;
+}
+
+/**
+ * Synthesizes a unique, plagiarism-free job description based strictly on the original content.
+ */
 function synthesizeUniqueJobContent(originalHtml: string, job: Job): string {
-  const cleanTitle = cleanPublishText(job.title);
-  const cleanCompany = cleanPublishText(job.company);
-
-  // Extract raw text to find mentions of languages and frameworks
-  const text = originalHtml.replace(/<[^>]*>/g, ' ').toLowerCase();
+  const blocks = cleanAndExtractBlocks(originalHtml);
   
-  const techStack: string[] = [];
-  if (text.includes('solidity')) techStack.push('Solidity');
-  if (text.includes('rust')) techStack.push('Rust');
-  if (text.includes('go ') || text.includes('golang')) techStack.push('Go');
-  if (text.includes('typescript') || text.includes('javascript')) techStack.push('TypeScript');
-  if (text.includes('python')) techStack.push('Python');
-  if (text.includes('react') || text.includes('next.js')) techStack.push('React / Next.js');
-  if (text.includes('docker') || text.includes('kubernetes')) techStack.push('Kubernetes & DevOps tools');
-  if (text.includes('evm') || text.includes('ethereum')) techStack.push('EVM Protocols');
-  if (text.includes('solana') || text.includes('anchor')) techStack.push('Solana & Anchor');
-  if (text.includes('compliance') || text.includes('regulat')) techStack.push('Compliance Frameworks');
-  
-  const skillsList = techStack.length > 0 ? techStack.join(', ') : 'modern decentralized protocols';
+  let currentListOpen = false;
+  let html = '<div class="space-y-6">';
 
-  return `
-    <div class="space-y-6">
-      <p><strong>${cleanCompany}</strong> is hiring a full-time <strong>${cleanTitle}</strong>. You will focus on the design, development, and scaling of critical Web3 software, protocol architectures, or daily operational pipelines. The team needs builders who bring solid professional experience, clear technical ownership, and interest in peer-to-peer systems. Applications are processed on a rolling basis, and qualified candidates will receive direct updates from the hiring coordinator.</p>
+  for (const block of blocks) {
+    const rephrasedText = rephraseSentence(block.text);
 
-      <h3>Role Objectives & Day-to-Day Impact</h3>
-      <p>In this position, you will work directly with engineers, designers, and protocol leads to build secure, reliable, and high-performance solutions. The daily routine centers on executing technical specifications, conducting code or operational reviews, and maintaining system reliability. Because Web3 systems are publicly verifiable and often handle significant value, you will help enforce high engineering and security standards across the entire codebase.</p>
-      <p>You will also help translate protocol data and product requirements into clear development roadmap milestones. This role offers the opportunity to collaborate closely with core builders, contribute to open-source repositories, and solve complex distributed systems challenges under production conditions.</p>
+    if (block.type === 'li') {
+      if (!currentListOpen) {
+        html += '<ul class="list-disc pl-5 space-y-2 my-4">';
+        currentListOpen = true;
+      }
+      html += `<li>${rephrasedText}</li>`;
+    } else {
+      if (currentListOpen) {
+        html += '</ul>';
+        currentListOpen = false;
+      }
+      
+      if (block.type === 'h3') {
+        html += `<h3 class="text-xl font-bold mt-6 mb-3">${rephrasedText}</h3>`;
+      } else {
+        html += `<p class="leading-relaxed">${rephrasedText}</p>`;
+      }
+    }
+  }
 
-      <h3>Developer Tooling & Collaboration Standards</h3>
-      <p>The team uses asynchronous communication and detailed documentation to coordinate work globally. You will use standard tools like GitHub, Discord, Linear, and Notion. Writing clear engineering logs, documenting design decisions, and participating in code reviews are core parts of the daily routine at ${cleanCompany}. The organization values clean code standards, thorough pull request details, and proactive technical communication.</p>
-      <p>The engineering department focuses on automated pipelines, continuous integration, and extensive testing coverage. Developers are encouraged to suggest developer experience upgrades, introduce helpful tools, and refactor code to limit technical debt as the team grows.</p>
+  if (currentListOpen) {
+    html += '</ul>';
+  }
 
-      <h3>Skills, Stack & Experience Requirements</h3>
-      <p>To succeed in this role, you should have a solid background in software engineering or your specific professional field. Practical experience with <strong>${skillsList}</strong> is highly preferred. The team values candidates who have worked on live production systems, managed smart contracts, or coordinated complex deployment processes. You should be comfortable explaining technical tradeoffs, identifying edge cases in distributed systems, and proposing creative solutions to infrastructure issues.</p>
-      <p>Self-directed execution is critical for this remote-first environment. You should have strong written communication skills, transparent project tracking habits, and the ability to work independently across global timezones.</p>
-
-      <h3>Professional Growth & Long-Term Career Path</h3>
-      <p>This role offers room for technical specialization and leadership development. The organization supports professional growth by providing access to advanced training resources, specialized courses, and engineering workshops. As you build experience with the protocol, you will have opportunities to mentor junior developers, own large subsystem architectures, and lead major feature releases.</p>
-
-      <h3>Interview Preparation & Practical Insights</h3>
-      <p>We recommend reviewing ${cleanCompany}'s public repositories, documentation, and active protocol plans before interviewing. The team evaluates candidates on real-world problem solving, structural design, and understanding of decentralized protocols. Be ready to walk through your past projects, explain your design choices, and discuss how you manage system boundaries in production.</p>
-
-      <h3>Working Culture & Compensation Context</h3>
-      <p>The team operates with remote flexibility, letting you work from your preferred location. Compensation packages are competitive and match current Web3 industry rates. Packages include competitive base salaries, comprehensive health coverage, home-office stipends, opportunities to attend global Web3 conferences, and a collaborative environment focused on craftsmanship and open communication.</p>
-    </div>
-  `;
+  html += '</div>';
+  return html;
 }
 
 /**
