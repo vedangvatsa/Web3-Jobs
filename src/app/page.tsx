@@ -17,15 +17,18 @@ import type { Job } from '@/types';
 async function buildCompanyLogos(jobs: Job[]): Promise<Record<string, { logo: string | null; favicon: string | null }>> {
   const slugs = Array.from(new Set(jobs.map(j => getCompanySlug(j.company))));
   const map: Record<string, { logo: string | null; favicon: string | null }> = {};
-  await Promise.all(slugs.map(async slug => {
-    const company = await getCompanyBySlug(slug);
-    map[slug] = {
-      logo: resolveCompanyLogo(slug),
-      favicon: getCompanyFaviconUrl(company?.website),
-    };
-  }));
+  for (const slug of slugs) {
+    const logo = resolveCompanyLogo(slug);
+    let favicon: string | null = null;
+    if (!logo) {
+      const company = await getCompanyBySlug(slug);
+      favicon = getCompanyFaviconUrl(company?.website);
+    }
+    map[slug] = { logo, favicon };
+  }
   return map;
 }
+
 
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
