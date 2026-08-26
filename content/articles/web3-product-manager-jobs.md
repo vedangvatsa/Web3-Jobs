@@ -1,12 +1,12 @@
 ---
 title: 'The Web3 Product Manager: A Career Guide'
 image: >-
-  https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTUxNjEwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1556742502-ec7c0e9f34b1?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9kdWN0JTIwbWFuYWdlbWVudHxlbnwwfHx8fDE3NTUxNjEwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: web3 product manager
 description: >-
-  Web3 needs product managers. Learn about the unique challenges and
-  opportunities of being a PM in a decentralized world, from managing
-  community-led.
+ Web3 needs product managers. Learn about the unique challenges and
+ opportunities of being a PM in a decentralized world, from managing
+ community-led.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

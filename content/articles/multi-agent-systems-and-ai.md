@@ -3,8 +3,8 @@ title: An Introduction to Multi-Agent AI Systems
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 data-ai-hint: multi agent ai
 description: >-
-  Explore the field of Multi-Agent Systems (MAS), where multiple intelligent AI
-  agents interact, collaborate, and compete to solve complex problems.
+ Explore the field of Multi-Agent Systems (MAS), where multiple intelligent AI
+ agents interact, collaborate, and compete to solve complex problems.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: What is Total Value Locked in DeFi
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: defi crypto vault
 description: >-
-  Total Value Locked (TVL) is a key metric used to measure the size and health
-  of a DeFi protocol. It represents the total value of all assets deposited by.
+ Total Value Locked (TVL) is a key metric used to measure the size and health
+ of a DeFi protocol. It represents the total value of all assets deposited by.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

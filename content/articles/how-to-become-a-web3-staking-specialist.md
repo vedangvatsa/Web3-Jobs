@@ -1,12 +1,12 @@
 ---
 title: How to Become a Web3 Staking Specialist
 image: >-
-  https://images.unsplash.com/photo-1639762681485-074b7f938ba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdGFraW5nfGVufDB8fHx8MTc1NTAwNjkxNnww&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1639762681485-074b7f938ba0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzdGFraW5nfGVufDB8fHx8MTc1NTAwNjkxNnww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: crypto staking rewards
 description: >-
-  A career guide for the growing field of Web3 staking. Learn what a staking
-  specialist does, from running validators to designing liquid staking
-  protocols.
+ A career guide for the growing field of Web3 staking. Learn what a staking
+ specialist does, from running validators to designing liquid staking
+ protocols.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

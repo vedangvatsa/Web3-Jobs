@@ -3,9 +3,9 @@ title: Web3 Customer Support Careers
 image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 data-ai-hint: customer support headset
 description: >-
-  A guide to building a career in Web3 customer support. Learn how the role
-  differs from traditional support and what skills you need to help users work
-  through.
+ A guide to building a career in Web3 customer support. Learn how the role
+ differs from traditional support and what skills you need to help users work
+ through.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

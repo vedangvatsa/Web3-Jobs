@@ -3,9 +3,9 @@ title: Blockchain Transaction Verification Process Explained
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: blockchain transaction process
 description: >-
-  A step-by-step guide to how transactions are verified and added to a
-  blockchain, explaining the roles of nodes, miners, and consensus mechanisms in
-  this.
+ A step-by-step guide to how transactions are verified and added to a
+ blockchain, explaining the roles of nodes, miners, and consensus mechanisms in
+ this.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

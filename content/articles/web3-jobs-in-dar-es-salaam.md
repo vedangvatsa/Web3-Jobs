@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Dar es Salaam: A Guide to Tanzania''s Growing Tech Scene'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: dar es salaam tanzania
 description: >-
-  A career guide to the Web3 job market in Dar es Salaam. Explore how Tanzania's
-  commercial capital is becoming a hub for mobile money, blockchain.
+ A career guide to the Web3 job market in Dar es Salaam. Explore how Tanzania's
+ commercial capital is becoming a hub for mobile money, blockchain.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

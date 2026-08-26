@@ -3,9 +3,9 @@ title: Using Tokenomics for Web3 Compensation
 image: /images/glenn-carstens-peters-npxXWgQ33ZQ-unsplash.jpg
 data-ai-hint: tokenomics web3 compensation
 description: >-
-  A guide to understanding and designing token-based compensation packages.
-  Learn about vesting schedules, cliffs, and how to use tokens to align
-  incentives.
+ A guide to understanding and designing token-based compensation packages.
+ Learn about vesting schedules, cliffs, and how to use tokens to align
+ incentives.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

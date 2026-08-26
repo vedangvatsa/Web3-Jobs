@@ -1,9 +1,9 @@
 ---
 title: Signs You Should Quit Your Job
 description: >-
-  It can be hard to know when it's time to move on. This guide covers the key
-  signs that indicate it might be time to quit your job and find a new
-  opportunity.
+ It can be hard to know when it's time to move on. This guide covers the key
+ signs that indicate it might be time to quit your job and find a new
+ opportunity.
 image: 'https://picsum.photos/seed/311/1200/630'
 data-ai-hint: person leaving office
 category: Career Guides

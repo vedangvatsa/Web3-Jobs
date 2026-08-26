@@ -3,8 +3,8 @@ name: Orca
 website: 'https://orca.so'
 category: DeFi Protocol
 description: >-
-  Orca is a decentralized exchange focused on providing efficient trading
-  solutions.
+ Orca is a decentralized exchange focused on providing efficient trading
+ solutions.
 ---
 
 Orca is a decentralized exchange built on the Solana blockchain. It offers users a platform for trading cryptocurrencies with low fees and fast transaction speeds. The protocol uses an automated market maker (AMM) model, allowing users to provide liquidity and earn rewards.

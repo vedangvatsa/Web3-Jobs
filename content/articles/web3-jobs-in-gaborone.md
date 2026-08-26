@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Gaborone: A Guide to Botswana''s Stable and Growing Tech Sc
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: gaborone botswana city
 description: >-
-  A career guide to the Web3 job market in Gaborone. Explore how Botswana's
-  capital is using its economic stability and strategic vision to become a.
+ A career guide to the Web3 job market in Gaborone. Explore how Botswana's
+ capital is using its economic stability and strategic vision to become a.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

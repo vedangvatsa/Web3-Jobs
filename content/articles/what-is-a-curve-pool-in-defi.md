@@ -1,8 +1,8 @@
 ---
 title: What is a Curve Pool in DeFi?
 description: >-
-  An in-depth explanation of Curve Finance's specialized liquidity pools, how
-  their unique StableSwap invariant allows for ultra-efficient stablecoin.
+ An in-depth explanation of Curve Finance's specialized liquidity pools, how
+ their unique StableSwap invariant allows for ultra-efficient stablecoin.
 category: Educational
 image: 'https://picsum.photos/seed/curvepool/1200/630'
 data-ai-hint: curve pool

@@ -3,9 +3,9 @@ title: How to Choose a Smart Contract Auditor
 image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
 data-ai-hint: choosing smart contract auditor
 description: >-
-  Your protocol's security is critical. This guide for founders and project
-  leads covers how to choose a reputable smart contract security auditor and
-  what.
+ Your protocol's security is critical. This guide for founders and project
+ leads covers how to choose a reputable smart contract security auditor and
+ what.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: What is Proof of Humanity Protocol
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: person human identity
 description: >-
-  Proof of Humanity is a system that combines a social verification web of trust
-  with a video submission process to create a blockchain-based registry of.
+ Proof of Humanity is a system that combines a social verification web of trust
+ with a video submission process to create a blockchain-based registry of.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

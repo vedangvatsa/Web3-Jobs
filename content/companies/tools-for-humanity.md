@@ -5,8 +5,8 @@ founded: 2019
 category: Technology / Identity
 headquarters: 'San Francisco, CA & Berlin, Germany'
 description: >-
-  The technology company that built the initial Worldcoin protocol and the World
-  App.
+ The technology company that built the initial Worldcoin protocol and the World
+ App.
 ---
 
 Tools for Humanity (TFH) is a technology company built to ensure a more just economic system. They are the initial creators and lead contributors to the Worldcoin protocol, a privacy-preserving identity and financial network.

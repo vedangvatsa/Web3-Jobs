@@ -5,8 +5,8 @@ founded: 2018
 category: Data / Analytics
 headquarters: 'Oslo, Norway'
 description: >-
-  Community-powered crypto analytics platform for querying and visualizing
-  blockchain data
+ Community-powered crypto analytics platform for querying and visualizing
+ blockchain data
 ---
 
 Community-powered crypto analytics platform for querying and visualizing blockchain data.

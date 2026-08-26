@@ -10,7 +10,6 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle } from '@/com
 import { Form, FormControl, FormField, FormItem, FormLabel, FormMessage } from '@/components/ui/form';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
-import { Calculator, Sparkles } from 'lucide-react';
 import { useState, useEffect } from 'react';
 import { CtaBanner } from '@/components/cta-banner';
 
@@ -336,9 +335,6 @@ export function SalaryCalculatorForm() {
           {isCalculated && estimatedSalary !== null ? (
           <Card className="bg-muted/30 border shadow-none transition-all duration-300 animate-in fade-in">
             <CardHeader className="text-center">
-            <div className="mx-auto bg-primary/10 p-3 rounded-full w-fit mb-2">
-                <Sparkles className="h-8 w-8 text-primary" />
-              </div>
             <CardTitle className="text-2xl">
               Your Estimated Salary
             </CardTitle>
@@ -357,10 +353,11 @@ export function SalaryCalculatorForm() {
             </CardContent>
           </Card>
           ) : (
-            <Card className="bg-background border-dashed h-full flex flex-col justify-center items-center text-center p-8">
-              <Calculator className="h-12 w-12 text-muted-foreground mb-4" />
-              <h3 className="font-semibold text-lg">Your Estimate Will Appear Here</h3>
-              <p className="text-muted-foreground text-sm mt-2">Fill out the form to see your potential Web3 salary.</p>
+            <Card className="bg-card border-dashed h-full flex flex-col justify-center items-center text-center p-8">
+              <h3 className="font-semibold text-base text-foreground">Estimated Annual Compensation</h3>
+              <p className="text-muted-foreground text-xs mt-1 max-w-xs">
+                Select your role, experience level, and company parameters to view live compensation benchmarks.
+              </p>
             </Card>
           )}
           </div>

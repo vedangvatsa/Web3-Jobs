@@ -3,8 +3,8 @@ title: How to Get a Job in DeFi with No Experience
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: decentralized finance defi
 description: >-
-  A practical guide to breaking into the world of Decentralized Finance. Learn
-  how to build the necessary skills and a 'proof of work' portfolio to land a.
+ A practical guide to breaking into the world of Decentralized Finance. Learn
+ how to build the necessary skills and a 'proof of work' portfolio to land a.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

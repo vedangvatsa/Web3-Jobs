@@ -3,8 +3,8 @@ title: How to Become a Web3 Liquidity Provider in Decentralized Finance
 image: /images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg
 data-ai-hint: liquidity provider defi
 description: >-
-  A career guide for those interested in becoming a liquidity provider in DeFi.
-  Learn the strategies, risks, and rewards of providing liquidity to.
+ A career guide for those interested in becoming a liquidity provider in DeFi.
+ Learn the strategies, risks, and rewards of providing liquidity to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

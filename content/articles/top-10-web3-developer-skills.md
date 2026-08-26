@@ -3,9 +3,9 @@ title: Top 10 Skills for Web3 Developer Roles
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: essential skills list
 description: >-
-  A developer's guide to the most in-demand skills for Web3. From Solidity
-  mastery to understanding gas optimization, here's what you need to know to
-  land a.
+ A developer's guide to the most in-demand skills for Web3. From Solidity
+ mastery to understanding gas optimization, here's what you need to know to
+ land a.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

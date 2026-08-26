@@ -5,8 +5,8 @@ founded: 2012
 category: HR / Recruiting
 headquarters: 'New York, United States'
 description: >-
-  Hiring platform and applicant tracking system used widely across the tech and
-  Web3 industry
+ Hiring platform and applicant tracking system used widely across the tech and
+ Web3 industry
 ---
 
 Hiring platform and applicant tracking system used widely across the tech and Web3 industry.

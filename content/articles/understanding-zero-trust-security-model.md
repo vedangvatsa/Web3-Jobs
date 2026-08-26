@@ -1,8 +1,8 @@
 ---
 title: Understanding Zero Trust Security Model
 description: >-
-  An explanation of the Zero Trust security model, a modern approach to
-  cybersecurity that assumes no user or device is trusted by default.
+ An explanation of the Zero Trust security model, a modern approach to
+ cybersecurity that assumes no user or device is trusted by default.
 category: Educational
 image: 'https://picsum.photos/seed/zerotrust/1200/630'
 data-ai-hint: cyber security

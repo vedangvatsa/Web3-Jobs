@@ -1,8 +1,8 @@
 ---
 title: 'Web3 and Real Estate: The Tokenization Revolution'
 description: >-
-  An exploration of how Web3 technologies, particularly tokenization, are set to
-  change the real estate industry, unlocking liquidity and fractional.
+ An exploration of how Web3 technologies, particularly tokenization, are set to
+ change the real estate industry, unlocking liquidity and fractional.
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: people discussing chart

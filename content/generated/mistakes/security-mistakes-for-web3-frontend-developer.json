@@ -1,258 +1,258 @@
 {
-  "meta": {
-    "contentType": "mistakes",
-    "topic": "security",
-    "niche": "web3-frontend-developer",
-    "generatedAt": "2026-05-17T16:55:57.098Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "30 Common Mistakes Web3 Frontend Developers Make (And How to Avoid Them)",
-    "description": "Learn from the mistakes of others. A detailed guide to the most common errors Web3 frontend developers make in wallet integration, state management, and UX.",
-    "keywords": [
-      "web3-frontend",
-      "mistakes",
-      "wagmi",
-      "wallet",
-      "UX",
-      "security"
-    ],
-    "canonicalSlug": "security-mistakes-for-web3-frontend-developer"
-  },
-  "content": {
-    "intro": "Web3 frontend development has unique challenges around wallet connections, transaction handling, and blockchain state. Here are the mistakes that trip up most developers.",
-    "sections": [
-      {
-        "heading": "Wallet Connection Issues",
-        "items": [
-          {
-            "title": "Assuming wallet is always connected",
-            "description": "Not handling disconnected state leads to crashes and poor UX.",
-            "severity": "high",
-            "solution": "Always check connection state. Show appropriate UI for each state."
-          },
-          {
-            "title": "Not handling chain switching",
-            "description": "Users switching networks in wallet breaks app if not handled.",
-            "severity": "high",
-            "solution": "Listen for chain changes. Prompt users to switch back or adapt UI."
-          },
-          {
-            "title": "Only supporting one wallet",
-            "description": "MetaMask-only apps exclude mobile users and hardware wallet users.",
-            "severity": "medium",
-            "solution": "Use RainbowKit or Web3Modal to support multiple wallets."
-          },
-          {
-            "title": "Not persisting connection state",
-            "description": "Users have to reconnect wallet on every page refresh.",
-            "severity": "medium",
-            "solution": "Use wagmi's auto-connect feature. Store connection preference."
-          },
-          {
-            "title": "Blocking UI during wallet prompts",
-            "description": "User cannot do anything while waiting for wallet signature.",
-            "severity": "medium",
-            "solution": "Show loading state but allow cancellation. Timeout long requests."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Transaction Handling",
-        "items": [
-          {
-            "title": "Not showing transaction status",
-            "description": "Users don't know if transaction succeeded, failed, or is pending.",
-            "severity": "high",
-            "solution": "Show clear pending, success, and error states. Link to explorer."
-          },
-          {
-            "title": "No gas estimation before send",
-            "description": "Transactions fail due to insufficient gas without warning.",
-            "severity": "medium",
-            "solution": "Simulate transactions before sending. Show estimated gas cost."
-          },
-          {
-            "title": "Ignoring transaction reverts",
-            "description": "Silent failures leave users confused about what happened.",
-            "severity": "high",
-            "solution": "Catch revert reasons and display human-readable error messages."
-          },
-          {
-            "title": "Not handling stuck transactions",
-            "description": "Low gas transactions can hang indefinitely.",
-            "severity": "medium",
-            "solution": "Provide speedup/cancel options. Link to tools for stuck transactions."
-          },
-          {
-            "title": "Displaying raw error messages",
-            "description": "Technical revert strings are meaningless to users.",
-            "severity": "medium",
-            "solution": "Map common errors to friendly messages. Log technical details."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "State Management",
-        "items": [
-          {
-            "title": "Polling too frequently",
-            "description": "Excessive RPC calls hit rate limits and waste resources.",
-            "severity": "medium",
-            "solution": "Use appropriate polling intervals. use websockets where available."
-          },
-          {
-            "title": "Not caching blockchain data",
-            "description": "Re-fetching same data on every render wastes RPC calls.",
-            "severity": "medium",
-            "solution": "Use TanStack Query with wagmi for smart caching."
-          },
-          {
-            "title": "Stale data after transactions",
-            "description": "UI shows old balances/state after user's transaction confirms.",
-            "severity": "high",
-            "solution": "Invalidate queries after transaction success. Optimistic updates."
-          },
-          {
-            "title": "Mixing local and chain state incorrectly",
-            "description": "Local state can diverge from blockchain causing confusion.",
-            "severity": "medium",
-            "solution": "Use blockchain as source of truth. Local state for pending only."
-          },
-          {
-            "title": "Not handling block reorgs",
-            "description": "Confirmed transactions can be undone in reorgs.",
-            "severity": "low",
-            "solution": "Wait for sufficient confirmations for important transactions."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Security Problems",
-        "items": [
-          {
-            "title": "Exposing private keys in frontend",
-            "description": "Private keys in client-side code can be stolen.",
-            "severity": "critical",
-            "solution": "Never use private keys in frontend. Use wallet signatures only."
-          },
-          {
-            "title": "Not validating input before signing",
-            "description": "Users might sign malicious transactions from manipulated UI.",
-            "severity": "high",
-            "solution": "Validate all inputs. Show clear transaction details before signing."
-          },
-          {
-            "title": "Trusting URL parameters blindly",
-            "description": "Phishing attacks can manipulate transaction parameters via URL.",
-            "severity": "high",
-            "solution": "Validate and sanitize all URL parameters. Confirm with user."
-          },
-          {
-            "title": "No phishing protection",
-            "description": "Users can be tricked by lookalike domains.",
-            "severity": "medium",
-            "solution": "Educate users. Consider ENS/domain verification features."
-          },
-          {
-            "title": "Storing sensitive data in localStorage",
-            "description": "localStorage is accessible to any script on the domain.",
-            "severity": "medium",
-            "solution": "Never store private keys or sensitive tokens in localStorage."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "UX Mistakes",
-        "items": [
-          {
-            "title": "No mobile responsiveness",
-            "description": "Many users access dApps via mobile wallet browsers.",
-            "severity": "high",
-            "solution": "Build mobile-first. Test in MetaMask Mobile, Rainbow, etc."
-          },
-          {
-            "title": "Complex onboarding for new users",
-            "description": "Requiring wallet setup immediately loses potential users.",
-            "severity": "medium",
-            "solution": "Allow browsing without wallet. Consider embedded wallets for onboarding."
-          },
-          {
-            "title": "No loading states",
-            "description": "Blockchain operations are slow. Empty states confuse users.",
-            "severity": "medium",
-            "solution": "Show skeletons and spinners. Explain why operations take time."
-          },
-          {
-            "title": "Displaying raw addresses",
-            "description": "0x742d35Cc6634C0532925a3b844Bc9e7595f0ab3 is unreadable.",
-            "severity": "low",
-            "solution": "Show ENS names when available. Truncate addresses (0x742d...0ab3)."
-          },
-          {
-            "title": "Not explaining gas",
-            "description": "New users don't understand why they need ETH for transactions.",
-            "severity": "medium",
-            "solution": "Explain gas in simple terms. Show estimated costs in USD."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Development Practices",
-        "items": [
-          {
-            "title": "Not testing with real wallets",
-            "description": "Mocked wallets behave differently than MetaMask.",
-            "severity": "medium",
-            "solution": "Test with real wallets on testnets. Use Synpress for E2E tests."
-          },
-          {
-            "title": "Hardcoding contract addresses",
-            "description": "Makes deployment to different networks painful.",
-            "severity": "low",
-            "solution": "Use environment variables or config files for addresses."
-          },
-          {
-            "title": "Using outdated libraries",
-            "description": "Old versions of ethers/web3 have bugs and security issues.",
-            "severity": "medium",
-            "solution": "Keep dependencies updated. Consider migrating to viem/wagmi."
-          },
-          {
-            "title": "No error boundaries",
-            "description": "One error crashes entire app instead of just affected component.",
-            "severity": "medium",
-            "solution": "Wrap components in error boundaries. Show fallback UI."
-          },
-          {
-            "title": "Ignoring TypeScript types",
-            "description": "Using 'any' types leads to runtime errors.",
-            "severity": "medium",
-            "solution": "Use strict TypeScript. wagmi and viem have excellent types."
-          }
-        ],
-        "description": ""
-      }
-    ],
-    "relatedResources": [
-      {
-        "title": "Portfolio Project Ideas for Web3 Frontend Developers",
-        "slug": "portfolio-project-ideas-for-web3-frontend-developer"
-      },
-      {
-        "title": "Development Tools for Web3 Frontend Developers",
-        "slug": "development-tools-for-web3-frontend-developer"
-      }
-    ],
-    "proTips": [
-      "Most frontend exploits target the user, not the code. Think like a phisher.",
-      "Test with multiple wallets. MetaMask behavior differs from WalletConnect.",
-      "Log client-side errors to Sentry. Users will not report bugs."
-    ]
-  }
+ "meta": {
+ "contentType": "mistakes",
+ "topic": "security",
+ "niche": "web3-frontend-developer",
+ "generatedAt": "2026-05-17T16:55:57.098Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "30 Common Mistakes Web3 Frontend Developers Make (And How to Avoid Them)",
+ "description": "Learn from the mistakes of others. A detailed guide to the most common errors Web3 frontend developers make in wallet integration, state management, and UX.",
+ "keywords": [
+ "web3-frontend",
+ "mistakes",
+ "wagmi",
+ "wallet",
+ "UX",
+ "security"
+ ],
+ "canonicalSlug": "security-mistakes-for-web3-frontend-developer"
+ },
+ "content": {
+ "intro": "Web3 frontend development has unique challenges around wallet connections, transaction handling, and blockchain state. Here are the mistakes that trip up most developers.",
+ "sections": [
+ {
+ "heading": "Wallet Connection Issues",
+ "items": [
+ {
+ "title": "Assuming wallet is always connected",
+ "description": "Not handling disconnected state leads to crashes and poor UX.",
+ "severity": "high",
+ "solution": "Always check connection state. Show appropriate UI for each state."
+ },
+ {
+ "title": "Not handling chain switching",
+ "description": "Users switching networks in wallet breaks app if not handled.",
+ "severity": "high",
+ "solution": "Listen for chain changes. Prompt users to switch back or adapt UI."
+ },
+ {
+ "title": "Only supporting one wallet",
+ "description": "MetaMask-only apps exclude mobile users and hardware wallet users.",
+ "severity": "medium",
+ "solution": "Use RainbowKit or Web3Modal to support multiple wallets."
+ },
+ {
+ "title": "Not persisting connection state",
+ "description": "Users have to reconnect wallet on every page refresh.",
+ "severity": "medium",
+ "solution": "Use wagmi's auto-connect feature. Store connection preference."
+ },
+ {
+ "title": "Blocking UI during wallet prompts",
+ "description": "User cannot do anything while waiting for wallet signature.",
+ "severity": "medium",
+ "solution": "Show loading state but allow cancellation. Timeout long requests."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Transaction Handling",
+ "items": [
+ {
+ "title": "Not showing transaction status",
+ "description": "Users don't know if transaction succeeded, failed, or is pending.",
+ "severity": "high",
+ "solution": "Show clear pending, success, and error states. Link to explorer."
+ },
+ {
+ "title": "No gas estimation before send",
+ "description": "Transactions fail due to insufficient gas without warning.",
+ "severity": "medium",
+ "solution": "Simulate transactions before sending. Show estimated gas cost."
+ },
+ {
+ "title": "Ignoring transaction reverts",
+ "description": "Silent failures leave users confused about what happened.",
+ "severity": "high",
+ "solution": "Catch revert reasons and display human-readable error messages."
+ },
+ {
+ "title": "Not handling stuck transactions",
+ "description": "Low gas transactions can hang indefinitely.",
+ "severity": "medium",
+ "solution": "Provide speedup/cancel options. Link to tools for stuck transactions."
+ },
+ {
+ "title": "Displaying raw error messages",
+ "description": "Technical revert strings are meaningless to users.",
+ "severity": "medium",
+ "solution": "Map common errors to friendly messages. Log technical details."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "State Management",
+ "items": [
+ {
+ "title": "Polling too frequently",
+ "description": "Excessive RPC calls hit rate limits and waste resources.",
+ "severity": "medium",
+ "solution": "Use appropriate polling intervals. use websockets where available."
+ },
+ {
+ "title": "Not caching blockchain data",
+ "description": "Re-fetching same data on every render wastes RPC calls.",
+ "severity": "medium",
+ "solution": "Use TanStack Query with wagmi for smart caching."
+ },
+ {
+ "title": "Stale data after transactions",
+ "description": "UI shows old balances/state after user's transaction confirms.",
+ "severity": "high",
+ "solution": "Invalidate queries after transaction success. Optimistic updates."
+ },
+ {
+ "title": "Mixing local and chain state incorrectly",
+ "description": "Local state can diverge from blockchain causing confusion.",
+ "severity": "medium",
+ "solution": "Use blockchain as source of truth. Local state for pending only."
+ },
+ {
+ "title": "Not handling block reorgs",
+ "description": "Confirmed transactions can be undone in reorgs.",
+ "severity": "low",
+ "solution": "Wait for sufficient confirmations for important transactions."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Security Problems",
+ "items": [
+ {
+ "title": "Exposing private keys in frontend",
+ "description": "Private keys in client-side code can be stolen.",
+ "severity": "critical",
+ "solution": "Never use private keys in frontend. Use wallet signatures only."
+ },
+ {
+ "title": "Not validating input before signing",
+ "description": "Users might sign malicious transactions from manipulated UI.",
+ "severity": "high",
+ "solution": "Validate all inputs. Show clear transaction details before signing."
+ },
+ {
+ "title": "Trusting URL parameters blindly",
+ "description": "Phishing attacks can manipulate transaction parameters via URL.",
+ "severity": "high",
+ "solution": "Validate and sanitize all URL parameters. Confirm with user."
+ },
+ {
+ "title": "No phishing protection",
+ "description": "Users can be tricked by lookalike domains.",
+ "severity": "medium",
+ "solution": "Educate users. Consider ENS/domain verification features."
+ },
+ {
+ "title": "Storing sensitive data in localStorage",
+ "description": "localStorage is accessible to any script on the domain.",
+ "severity": "medium",
+ "solution": "Never store private keys or sensitive tokens in localStorage."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "UX Mistakes",
+ "items": [
+ {
+ "title": "No mobile responsiveness",
+ "description": "Many users access dApps via mobile wallet browsers.",
+ "severity": "high",
+ "solution": "Build mobile-first. Test in MetaMask Mobile, Rainbow, etc."
+ },
+ {
+ "title": "Complex onboarding for new users",
+ "description": "Requiring wallet setup immediately loses potential users.",
+ "severity": "medium",
+ "solution": "Allow browsing without wallet. Consider embedded wallets for onboarding."
+ },
+ {
+ "title": "No loading states",
+ "description": "Blockchain operations are slow. Empty states confuse users.",
+ "severity": "medium",
+ "solution": "Show skeletons and spinners. Explain why operations take time."
+ },
+ {
+ "title": "Displaying raw addresses",
+ "description": "0x742d35Cc6634C0532925a3b844Bc9e7595f0ab3 is unreadable.",
+ "severity": "low",
+ "solution": "Show ENS names when available. Truncate addresses (0x742d...0ab3)."
+ },
+ {
+ "title": "Not explaining gas",
+ "description": "New users don't understand why they need ETH for transactions.",
+ "severity": "medium",
+ "solution": "Explain gas in simple terms. Show estimated costs in USD."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Development Practices",
+ "items": [
+ {
+ "title": "Not testing with real wallets",
+ "description": "Mocked wallets behave differently than MetaMask.",
+ "severity": "medium",
+ "solution": "Test with real wallets on testnets. Use Synpress for E2E tests."
+ },
+ {
+ "title": "Hardcoding contract addresses",
+ "description": "Makes deployment to different networks painful.",
+ "severity": "low",
+ "solution": "Use environment variables or config files for addresses."
+ },
+ {
+ "title": "Using outdated libraries",
+ "description": "Old versions of ethers/web3 have bugs and security issues.",
+ "severity": "medium",
+ "solution": "Keep dependencies updated. Consider migrating to viem/wagmi."
+ },
+ {
+ "title": "No error boundaries",
+ "description": "One error crashes entire app instead of just affected component.",
+ "severity": "medium",
+ "solution": "Wrap components in error boundaries. Show fallback UI."
+ },
+ {
+ "title": "Ignoring TypeScript types",
+ "description": "Using 'any' types leads to runtime errors.",
+ "severity": "medium",
+ "solution": "Use strict TypeScript. wagmi and viem have excellent types."
+ }
+ ],
+ "description": ""
+ }
+ ],
+ "relatedResources": [
+ {
+ "title": "Portfolio Project Ideas for Web3 Frontend Developers",
+ "slug": "portfolio-project-ideas-for-web3-frontend-developer"
+ },
+ {
+ "title": "Development Tools for Web3 Frontend Developers",
+ "slug": "development-tools-for-web3-frontend-developer"
+ }
+ ],
+ "proTips": [
+ "Most frontend exploits target the user, not the code. Think like a phisher.",
+ "Test with multiple wallets. MetaMask behavior differs from WalletConnect.",
+ "Log client-side errors to Sentry. Users will not report bugs."
+ ]
+ }
 }

@@ -5,8 +5,8 @@ founded: 2016
 category: Exchange / Fintech
 headquarters: Singapore
 description: >-
-  Global cryptocurrency exchange and financial services platform serving over 80
-  million users worldwide
+ Global cryptocurrency exchange and financial services platform serving over 80
+ million users worldwide
 ---
 
 Global cryptocurrency exchange and financial services platform serving over 80 million users worldwide.

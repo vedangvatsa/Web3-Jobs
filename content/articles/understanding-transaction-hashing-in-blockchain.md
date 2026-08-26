@@ -3,8 +3,8 @@ title: Understanding Transaction Hashing in Blockchain
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 data-ai-hint: blockchain hash
 description: >-
-  A detailed look at transaction hashing. Learn what a hash is, how it's
-  created, and why it's a cornerstone of blockchain security and data integrity.
+ A detailed look at transaction hashing. Learn what a hash is, how it's
+ created, and why it's a cornerstone of blockchain security and data integrity.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

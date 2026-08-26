@@ -3,8 +3,8 @@ title: Bleisure Destinations Perfect for Remote Workers
 image: /images/firmbee-com-SpVHcbuKi6E-unsplash.jpg
 data-ai-hint: travel work destination
 description: >-
-  Discover the top 'bleisure' destinations that perfectly blend business and
-  leisure for remote workers. This guide covers cities that offer great.
+ Discover the top 'bleisure' destinations that perfectly blend business and
+ leisure for remote workers. This guide covers cities that offer great.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: How to Build Freelance Portfolio Fast
 image: 'https://picsum.photos/seed/freelance-portfolio/1200/630'
 data-ai-hint: portfolio work showcase
 description: >-
-  Learn effective strategies to build a compelling freelance portfolio quickly,
-  even if you have no clients. Attract high-quality clients faster.
+ Learn effective strategies to build a compelling freelance portfolio quickly,
+ even if you have no clients. Attract high-quality clients faster.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

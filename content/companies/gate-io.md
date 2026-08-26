@@ -3,8 +3,8 @@ name: Gate.io
 website: 'https://www.gate.io'
 category: Cryptocurrency Exchange
 description: >-
-  Gate.io is a cryptocurrency exchange offering trading services for various
-  digital assets.
+ Gate.io is a cryptocurrency exchange offering trading services for various
+ digital assets.
 ---
 
 Gate.io provides a platform for trading a wide range of cryptocurrencies. The exchange supports spot and margin trading, as well as futures and options trading. Gate.io is known for its extensive list of available cryptocurrencies and trading pairs.

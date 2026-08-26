@@ -3,9 +3,9 @@ title: Blockchain Yield Farming and Passive Income Strategies
 image: /images/javier-quesada-qYfwGVNJqSA-unsplash.jpg
 data-ai-hint: crypto yield farming
 description: >-
-  A guide to yield farming, the art of maximizing returns in Decentralized
-  Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi
-  ecosystem.
+ A guide to yield farming, the art of maximizing returns in Decentralized
+ Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi
+ ecosystem.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

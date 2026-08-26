@@ -3,8 +3,8 @@ title: How MEV Impacts Web3 Networks and Developers
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 data-ai-hint: mev network developer
 description: >-
-  A deep dive into MEV (Maximal Extractable Value), the 'invisible tax' on the
-  blockchain. Learn how it works, its impact on users and developers, and the.
+ A deep dive into MEV (Maximal Extractable Value), the 'invisible tax' on the
+ blockchain. Learn how it works, its impact on users and developers, and the.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

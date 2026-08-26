@@ -3,9 +3,9 @@ title: How to Become a Web3 Blockchain Marketing Strategist
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: blockchain marketing strategy
 description: >-
-  A career guide for marketers looking to specialize in Web3. Learn the key
-  skills and strategies needed to become a successful blockchain marketing
-  strategist.
+ A career guide for marketers looking to specialize in Web3. Learn the key
+ skills and strategies needed to become a successful blockchain marketing
+ strategist.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

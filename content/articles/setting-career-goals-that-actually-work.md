@@ -1,8 +1,8 @@
 ---
 title: How to Set Career Goals That You'll Actually Achieve
 description: >-
-  Many career goals are forgotten after a few weeks. This guide explains how to
-  set meaningful, actionable goals that will drive your career forward.
+ Many career goals are forgotten after a few weeks. This guide explains how to
+ set meaningful, actionable goals that will drive your career forward.
 category: Career Guides
 image: 'https://picsum.photos/seed/310/1200/630'
 data-ai-hint: career goals

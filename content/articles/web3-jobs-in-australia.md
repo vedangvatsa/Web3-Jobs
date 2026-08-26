@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in Australia: A Guide to the Booming Crypto Market'
 image: >-
-  https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdXN0cmFsaWF8ZW58MHx8fHwxNzE2NDAxODg5fDA&lib=rb-4.0.3&q=80&w=1080
+ https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdXN0cmFsaWF8ZW58MHx8fHwxNzE2NDAxODg5fDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: australia city skyline
 description: >-
-  Your guide to landing a Web3 job in Australia. Explore the crypto space,
-  discover top companies, and get insights into salary expectations down under.
+ Your guide to landing a Web3 job in Australia. Explore the crypto space,
+ discover top companies, and get insights into salary expectations down under.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

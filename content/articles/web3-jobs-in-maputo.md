@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Maputo: A Guide to Mozambique''s Coastal Tech Scene'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: maputo mozambique city
 description: >-
-  A career guide to the emerging Web3 job market in Maputo. Explore how
-  Mozambique's capital is using its young population and growing tech scene to.
+ A career guide to the emerging Web3 job market in Maputo. Explore how
+ Mozambique's capital is using its young population and growing tech scene to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,8 +1,8 @@
 ---
 title: 'Celebrating International Blockchain Day: A Look at a Decade of Disruption'
 description: >-
-  International Blockchain Day marks a key moment in technological history. We
-  explore the journey of blockchain from a niche concept to a global phenomenon.
+ International Blockchain Day marks a key moment in technological history. We
+ explore the journey of blockchain from a niche concept to a global phenomenon.
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: blockchain technology

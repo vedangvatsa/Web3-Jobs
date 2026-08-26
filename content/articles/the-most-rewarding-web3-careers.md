@@ -3,8 +3,8 @@ title: The Most Rewarding Web3 Careers You Should Know
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: rewarding web3 career
 description: >-
-  Find roles that align with your values, offer financial upside, and create
-  positive impact.
+ Find roles that align with your values, offer financial upside, and create
+ positive impact.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

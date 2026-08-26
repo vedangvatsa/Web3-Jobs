@@ -3,8 +3,8 @@ name: Luno
 website: 'https://luno.com'
 category: Cryptocurrency Exchange
 description: >-
-  Luno is a cryptocurrency exchange that enables buying, selling, and storing
-  digital currencies.
+ Luno is a cryptocurrency exchange that enables buying, selling, and storing
+ digital currencies.
 ---
 
 Luno operates as a cryptocurrency exchange, allowing users to buy, sell, and store Bitcoin and Ethereum. The platform offers a user-friendly interface and is available in multiple countries. Luno provides educational resources to help users understand cryptocurrency and its benefits.

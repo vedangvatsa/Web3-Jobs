@@ -4,8 +4,8 @@ category: Career Guides
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: video interview
 description: >-
-  Your background, lighting, and camera angle speak volumes before you even say
-  a word. This guide covers everything you need to know to create a.
+ Your background, lighting, and camera angle speak volumes before you even say
+ a word. This guide covers everything you need to know to create a.
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"
 ---

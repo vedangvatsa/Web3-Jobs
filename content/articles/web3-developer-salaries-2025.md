@@ -3,8 +3,8 @@ title: Top Blockchain Dev Job Salaries
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: web3 salary money
 description: >-
-  A full guide to Web3 developer salaries in 2026. We break down what you can
-  earn as a smart contract, frontend, or protocol engineer in the.
+ A full guide to Web3 developer salaries in 2026. We break down what you can
+ earn as a smart contract, frontend, or protocol engineer in the.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

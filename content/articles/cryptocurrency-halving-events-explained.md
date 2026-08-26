@@ -3,8 +3,8 @@ title: Cryptocurrency Halving Events Explained
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: crypto chart graph
 description: >-
-  A cryptocurrency halving is a programmed event that reduces the rate at which
-  new coins are created. It's a core part of the economic model for many.
+ A cryptocurrency halving is a programmed event that reduces the rate at which
+ new coins are created. It's a core part of the economic model for many.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

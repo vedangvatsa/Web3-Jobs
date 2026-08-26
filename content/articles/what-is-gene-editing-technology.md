@@ -1,8 +1,8 @@
 ---
 title: What is Gene Editing Technology
 description: >-
-  A detailed explanation of gene editing, focusing on how technologies like
-  CRISPR work and their potential to change medicine and agriculture.
+ A detailed explanation of gene editing, focusing on how technologies like
+ CRISPR work and their potential to change medicine and agriculture.
 category: Educational
 image: 'https://picsum.photos/seed/geneediting/1200/630'
 data-ai-hint: dna strand

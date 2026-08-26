@@ -1,11 +1,11 @@
 ---
 title: 'Tokenomics 101: Understanding Crypto Token Economics'
 image: >-
-  https://images.unsplash.com/photo-1666032250188-b6797784b249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0b2tlbnxlbnwwfHx8fDE3NTQ5NTU4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1666032250188-b6797784b249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0b2tlbnxlbnwwfHx8fDE3NTQ5NTU4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
-  A beginner's guide to tokenomics. Learn about supply, distribution, and
-  utility, and how these factors determine a crypto asset's value and long-term
-  viability.
+ A beginner's guide to tokenomics. Learn about supply, distribution, and
+ utility, and how these factors determine a crypto asset's value and long-term
+ viability.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

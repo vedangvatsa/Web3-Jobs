@@ -3,8 +3,8 @@ title: Is a Career in Web3 Right for You? A Self-Assessment Guide
 image: /images/linus-mimietz-gvptKmonylk-unsplash.jpg
 data-ai-hint: career choice person
 description: >-
-  Assess whether Web3 aligns with your technical skills, personality, and
-  long-term career goals.
+ Assess whether Web3 aligns with your technical skills, personality, and
+ long-term career goals.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

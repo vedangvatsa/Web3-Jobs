@@ -3,8 +3,8 @@ title: How to Become a Web3 Blockchain Patent and IP Expert
 image: /images/pakata-goh-RDolnHtjVCY-unsplash.jpg
 data-ai-hint: law books intellectual property
 description: >-
-  A career guide for legal professionals specializing in intellectual property.
-  Learn how to apply patent, trademark, and copyright law to the novel.
+ A career guide for legal professionals specializing in intellectual property.
+ Learn how to apply patent, trademark, and copyright law to the novel.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

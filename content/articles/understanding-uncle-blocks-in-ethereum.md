@@ -1,9 +1,9 @@
 ---
 title: Understanding Uncle Blocks in Ethereum
 description: >-
-  Discover what Uncle blocks are in Ethereum's Proof-of-Work history, why they
-  were created, and how they improved network security and miner
-  decentralization.
+ Discover what Uncle blocks are in Ethereum's Proof-of-Work history, why they
+ were created, and how they improved network security and miner
+ decentralization.
 category: Educational
 image: 'https://picsum.photos/seed/uncle/1200/630'
 data-ai-hint: uncle blocks

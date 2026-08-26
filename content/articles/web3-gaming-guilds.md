@@ -1,10 +1,10 @@
 ---
 title: 'Inside Web3 Gaming Guilds: The Future of Play-and-Earn'
 image: >-
-  https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
-  Discover the world of Web3 gaming guilds. Learn how organizations like YGG are
-  creating 'scholarship' programs and building communities that are.
+ Discover the world of Web3 gaming guilds. Learn how organizations like YGG are
+ creating 'scholarship' programs and building communities that are.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

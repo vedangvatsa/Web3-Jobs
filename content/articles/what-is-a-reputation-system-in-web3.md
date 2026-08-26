@@ -3,9 +3,9 @@ title: What is a Reputation System in Web3
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: person reputation score
 description: >-
-  A Web3 reputation system uses on-chain data to build a trustworthy and
-  portable digital identity. Learn how these systems are enabling new forms of
-  social.
+ A Web3 reputation system uses on-chain data to build a trustworthy and
+ portable digital identity. Learn how these systems are enabling new forms of
+ social.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

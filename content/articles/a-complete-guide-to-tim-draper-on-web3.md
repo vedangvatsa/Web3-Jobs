@@ -1,9 +1,9 @@
 ---
 title: What does Tim Draper think about Web3
 description: >-
-  Explore the unwavering conviction of Tim Draper, a legendary venture
-  capitalist and one of Bitcoin's earliest and most vocal proponents. This guide
-  covers.
+ Explore the unwavering conviction of Tim Draper, a legendary venture
+ capitalist and one of Bitcoin's earliest and most vocal proponents. This guide
+ covers.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man confident

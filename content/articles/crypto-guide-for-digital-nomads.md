@@ -3,8 +3,8 @@ title: The Crypto Guide for Digital Nomads
 image: /images/domenico-loia-EhTcC9sYXsw-unsplash.jpg
 data-ai-hint: digital nomad laptop
 description: >-
-  A practical guide for digital nomads on how to use cryptocurrency for a
-  location-independent lifestyle, from getting paid in stablecoins to.
+ A practical guide for digital nomads on how to use cryptocurrency for a
+ location-independent lifestyle, from getting paid in stablecoins to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

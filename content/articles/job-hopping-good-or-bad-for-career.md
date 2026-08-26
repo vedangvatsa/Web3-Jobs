@@ -1,8 +1,8 @@
 ---
 title: Job Hopping Is It Good or Bad for Your Career?
 description: >-
-  The old rules about staying at one company for years are changing. This guide
-  explores the pros and cons of job hopping in today's professional space.
+ The old rules about staying at one company for years are changing. This guide
+ explores the pros and cons of job hopping in today's professional space.
 image: 'https://picsum.photos/seed/320/1200/630'
 data-ai-hint: career path
 category: Career Guides

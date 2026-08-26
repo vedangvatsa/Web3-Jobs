@@ -13,7 +13,7 @@ import {
  SelectValue,
 } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
-import { ArrowRight, FileText } from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { useMemo, useState } from 'react';
 import { PageHeader } from "@/components/page-header";
@@ -332,7 +332,7 @@ export default function FreelanceRatesByIndustryPage() {
         <Link href="/invoice-generator" className="block">
          <Button variant="outline" className="w-full justify-between">
           Invoice Generator
-          <FileText className="h-4 w-4" />
+          <ArrowRight className="h-4 w-4" />
          </Button>
         </Link>
         <Link href="/salary-calculator" className="block">

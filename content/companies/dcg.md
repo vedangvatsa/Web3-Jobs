@@ -3,8 +3,8 @@ name: DCG
 website: 'https://dcg.co'
 category: Other
 description: >-
-  DCG is a venture capital firm focused on the digital currency and blockchain
-  technology sector.
+ DCG is a venture capital firm focused on the digital currency and blockchain
+ technology sector.
 ---
 
 Digital Currency Group (DCG) is a venture capital firm that invests in blockchain technology and digital currency companies. The firm has built a portfolio that includes a range of companies in the cryptocurrency ecosystem. DCG also owns Grayscale Investments, which offers cryptocurrency investment products.

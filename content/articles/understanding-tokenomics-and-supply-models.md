@@ -3,9 +3,9 @@ title: Understanding Tokenomics and Supply Models
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: tokenomics model crypto
 description: >-
-  Tokenomics is the science of a cryptocurrency's economic model. Learn how
-  supply, distribution, and utility determine a token's value and long-term
-  viability.
+ Tokenomics is the science of a cryptocurrency's economic model. Learn how
+ supply, distribution, and utility determine a token's value and long-term
+ viability.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

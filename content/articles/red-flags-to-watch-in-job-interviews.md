@@ -1,8 +1,8 @@
 ---
 title: Red Flags to Watch for in Job Interviews
 description: >-
-  A job interview is a two-way street. It's your chance to evaluate the company,
-  too. Learn to spot the red flags that could signal a toxic work environment.
+ A job interview is a two-way street. It's your chance to evaluate the company,
+ too. Learn to spot the red flags that could signal a toxic work environment.
 image: 'https://picsum.photos/seed/309/1200/630'
 data-ai-hint: job interview stress
 category: Career Guides

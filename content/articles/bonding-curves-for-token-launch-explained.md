@@ -3,9 +3,9 @@ title: Bonding Curves for Token Launch Explained
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: bonding curve token
 description: >-
-  A guide to using bonding curves for a token launch. Learn how this mechanism
-  provides instant liquidity and transparent price discovery for new crypto
-  projects.
+ A guide to using bonding curves for a token launch. Learn how this mechanism
+ provides instant liquidity and transparent price discovery for new crypto
+ projects.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

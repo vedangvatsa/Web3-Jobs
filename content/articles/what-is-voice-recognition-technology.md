@@ -1,8 +1,8 @@
 ---
 title: What is Voice Recognition Technology
 description: >-
-  An explanation of voice recognition technology, how it differs from speech
-  recognition, and its applications in security and user interfaces.
+ An explanation of voice recognition technology, how it differs from speech
+ recognition, and its applications in security and user interfaces.
 category: Educational
 image: 'https://picsum.photos/seed/voicerec/1200/630'
 data-ai-hint: voice wave

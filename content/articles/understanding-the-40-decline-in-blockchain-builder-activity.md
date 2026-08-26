@@ -3,9 +3,9 @@ title: Understanding the Decline in Blockchain Dev Activity
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: developer decline graph
 description: >-
-  An analysis of the 40% decline in blockchain developer activity, exploring the
-  shift in VC funding, the rise of AI, and what it means for the future of
-  crypto.
+ An analysis of the 40% decline in blockchain developer activity, exploring the
+ shift in VC funding, the rise of AI, and what it means for the future of
+ crypto.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

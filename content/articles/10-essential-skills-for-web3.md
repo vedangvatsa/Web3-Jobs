@@ -1,13 +1,13 @@
 ---
 title: >-
-  10 Essential Web3 Skills for Blockchain Careers: Developer, PM, Marketing &
-  More
+ 10 Essential Web3 Skills for Blockchain Careers: Developer, PM, Marketing &
+ More
 description: >-
-  Learn the 10 must-have Web3 skills for blockchain careers: smart contracts,
-  Solidity, DeFi knowledge, community management, product thinking. Build a
-  market-ready skill set for crypto jobs in 2026.
+ Learn the 10 must-have Web3 skills for blockchain careers: smart contracts,
+ Solidity, DeFi knowledge, community management, product thinking. Build a
+ market-ready skill set for crypto jobs in 2026.
 image: >-
-  https://images.unsplash.com/photo-1629721671030-a83edbb11211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxza2lsbHxlbnwwfHx8fDE3NjE4ODg3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1629721671030-a83edbb11211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxza2lsbHxlbnwwfHx8fDE3NjE4ODg3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080
 category: Career Guides
 data-ai-hint: blockchain developer
 publishedDate: '2026-03-11'

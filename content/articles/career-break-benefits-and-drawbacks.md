@@ -1,8 +1,8 @@
 ---
 title: Career Break Benefits and Drawbacks
 description: >-
-  Thinking about taking a career break? This guide explores the potential
-  benefits and drawbacks to help you make an informed decision.
+ Thinking about taking a career break? This guide explores the potential
+ benefits and drawbacks to help you make an informed decision.
 image: 'https://picsum.photos/seed/317/1200/630'
 data-ai-hint: career choice
 category: Career Guides

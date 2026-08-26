@@ -1,8 +1,8 @@
 ---
 title: Sandwich Attack in DEX Explained
 description: >-
-  Learn how sandwich attacks work on decentralized exchanges (DEXs), how they
-  exploit DeFi traders, and what strategies you can use to protect your trades.
+ Learn how sandwich attacks work on decentralized exchanges (DEXs), how they
+ exploit DeFi traders, and what strategies you can use to protect your trades.
 category: Educational
 image: 'https://picsum.photos/seed/sandwich/1200/630'
 data-ai-hint: sandwich attack

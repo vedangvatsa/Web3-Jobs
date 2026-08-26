@@ -3,9 +3,9 @@ title: How to Learn AI Without Coding
 image: 'https://picsum.photos/seed/ai-no-code/1200/630'
 data-ai-hint: person using computer interface
 description: >-
-  You don't need to be a programmer to understand and use AI. This guide
-  explores accessible ways to learn AI concepts and apply them using no-code
-  tools.
+ You don't need to be a programmer to understand and use AI. This guide
+ explores accessible ways to learn AI concepts and apply them using no-code
+ tools.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

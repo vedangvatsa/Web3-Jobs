@@ -3,9 +3,9 @@ title: How to Research a Blockchain Startup Before You Join
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: research analysis magnifying glass
 description: >-
-  A guide for job seekers on how to perform due diligence on a Web3 startup.
-  Learn what to look for in the team, tokenomics, and community before
-  accepting.
+ A guide for job seekers on how to perform due diligence on a Web3 startup.
+ Learn what to look for in the team, tokenomics, and community before
+ accepting.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

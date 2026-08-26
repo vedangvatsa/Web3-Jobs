@@ -1,8 +1,8 @@
 ---
 title: Additive Manufacturing Complete Guide
 description: >-
-  A full guide to additive manufacturing, also known as 3D printing, covering
-  its processes, materials, benefits, and impact on the future of production.
+ A full guide to additive manufacturing, also known as 3D printing, covering
+ its processes, materials, benefits, and impact on the future of production.
 category: Educational
 image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: industrial 3d

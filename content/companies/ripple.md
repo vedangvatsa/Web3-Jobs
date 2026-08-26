@@ -5,8 +5,8 @@ founded: 2012
 category: Blockchain Infrastructure
 headquarters: 'San Francisco, California, USA'
 description: >-
-  Enterprise blockchain and digital payment network powering cross-border
-  transactions
+ Enterprise blockchain and digital payment network powering cross-border
+ transactions
 ---
 
 Ripple provides enterprise blockchain solutions for global payments. The company's network, RippleNet, enables financial institutions to process cross-border payments using the XRP Ledger.

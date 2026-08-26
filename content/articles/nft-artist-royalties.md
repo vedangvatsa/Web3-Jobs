@@ -1,11 +1,11 @@
 ---
 title: A Creator's Guide to NFT Royalties
 image: >-
-  https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
-  Understand how NFT royalties work, the technical standards like EIP-2981, the
-  ongoing debate about enforcement, and how creators can protect their secondary
-  sale earnings.
+ Understand how NFT royalties work, the technical standards like EIP-2981, the
+ ongoing debate about enforcement, and how creators can protect their secondary
+ sale earnings.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

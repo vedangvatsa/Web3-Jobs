@@ -1,8 +1,8 @@
 ---
 title: Understanding Elon Musk's Stance on Web3 and Decentralization
 description: >-
-  Examine Elon Musk's skeptical yet evolving views on blockchain and
-  decentralized technology.
+ Examine Elon Musk's skeptical yet evolving views on blockchain and
+ decentralized technology.
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man thinking

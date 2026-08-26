@@ -5,8 +5,8 @@ founded: 2014
 category: Layer 1 / Payments
 headquarters: 'San Francisco, California'
 description: >-
-  Non-profit supporting the Stellar network for cross-border payments and
-  financial access
+ Non-profit supporting the Stellar network for cross-border payments and
+ financial access
 ---
 
 Non-profit supporting the Stellar network for cross-border payments and financial access.

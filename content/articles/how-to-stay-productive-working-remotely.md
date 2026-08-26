@@ -3,9 +3,9 @@ title: How to Stay Productive Working Remotely
 image: 'https://picsum.photos/seed/remote-productive/1200/630'
 data-ai-hint: person focused working
 description: >-
-  Learn effective strategies to stay productive and focused while working
-  remotely. Create a routine, manage distractions, and maintain a healthy
-  work-life.
+ Learn effective strategies to stay productive and focused while working
+ remotely. Create a routine, manage distractions, and maintain a healthy
+ work-life.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

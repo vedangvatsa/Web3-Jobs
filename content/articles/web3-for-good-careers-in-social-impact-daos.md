@@ -1,11 +1,11 @@
 ---
 title: 'Web3 for Good: Careers in Social Impact & Public Goods DAOs'
 image: >-
-  https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjB8ZW58MHx8fHwxNzU1MDM3NTkxfDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjB8ZW58MHx8fHwxNzU1MDM3NTkxfDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: social impact charity
 description: >-
-  Build a career creating positive change through research, community building,
-  and impact-focused protocols.
+ Build a career creating positive change through research, community building,
+ and impact-focused protocols.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

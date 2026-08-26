@@ -3,8 +3,8 @@ title: How to Break Into Web3 Smart Contract Auditing
 image: /images/jakob-owens-WUmb_eBrpjs-unsplash.jpg
 data-ai-hint: smart contract audit
 description: >-
-  A guide for aspiring security researchers on how to start a career in smart
-  contract auditing, one of Web3's most critical and challenging fields.
+ A guide for aspiring security researchers on how to start a career in smart
+ contract auditing, one of Web3's most critical and challenging fields.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

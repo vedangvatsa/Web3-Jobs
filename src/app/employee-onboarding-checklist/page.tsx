@@ -4,13 +4,7 @@ import * as React from 'react';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Checkbox } from '@/components/ui/checkbox';
 import { Label } from '@/components/ui/label';
-import {
-  Users,
-  Laptop,
-  BookOpen,
-  Calendar,
-  ArrowRight,
-} from 'lucide-react';
+import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { PageHeader } from '@/components/page-header';
@@ -20,7 +14,6 @@ const checklistData = {
   sections: [
     {
       title: 'Phase 1: Pre-First Day (Preparation)',
-      icon: Calendar,
       items: [
         'Send welcome email with first-day logistics (start time, schedule).',
         'Ship hardware (laptop, monitor) & company swag.',
@@ -32,7 +25,6 @@ const checklistData = {
     },
     {
       title: 'Phase 2: Day 1 (Welcome & Setup)',
-      icon: Laptop,
       items: [
         'Hold a team welcome meeting and introductions.',
         'Assist with technical setup (Git, dev environment, VPN).',
@@ -44,7 +36,6 @@ const checklistData = {
     },
     {
       title: 'Phase 3: Week 1 (Immersion)',
-      icon: BookOpen,
       items: [
         'Schedule 1-on-1s with key team members across departments.',
         'Provide a curated "rabbit hole" list of essential podcasts/articles.',
@@ -56,7 +47,6 @@ const checklistData = {
     },
     {
       title: 'Phase 4: First 30 Days (Integration)',
-      icon: Users,
       items: [
         'Co-create a 30-60-90 day plan with clear goals.',
         'Involve them in a core project or feature sprint.',

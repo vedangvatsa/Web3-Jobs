@@ -4,8 +4,8 @@ category: Career Guides
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: phone interview
 description: >-
-  Master the art of the phone interview with this full guide. Learn how to
-  prepare, what to say, and how to follow up to make a lasting impression.
+ Master the art of the phone interview with this full guide. Learn how to
+ prepare, what to say, and how to follow up to make a lasting impression.
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"
 ---

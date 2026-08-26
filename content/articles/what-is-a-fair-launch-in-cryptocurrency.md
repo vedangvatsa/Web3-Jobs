@@ -3,8 +3,8 @@ title: What is a Fair Launch in Cryptocurrency
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: fairness balance scale
 description: >-
-  A fair launch is a token distribution model where a new cryptocurrency is
-  launched without any pre-mine or early allocation to insiders. This guide.
+ A fair launch is a token distribution model where a new cryptocurrency is
+ launched without any pre-mine or early allocation to insiders. This guide.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: Exploring Opportunities in Web3 Real Estate Tokenization
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: real estate tokenization
 description: >-
-  A look at how Web3 is improving how real estate. Learn about the career
-  opportunities emerging at the intersection of blockchain technology and the.
+ A look at how Web3 is improving how real estate. Learn about the career
+ opportunities emerging at the intersection of blockchain technology and the.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

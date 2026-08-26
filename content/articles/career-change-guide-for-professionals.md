@@ -3,9 +3,9 @@ title: Career Change Guide for Professionals
 image: 'https://picsum.photos/seed/career-change/1200/630'
 data-ai-hint: crossroads sign different directions
 description: >-
-  A step-by-step guide for professionals on how to work through a successful
-  career change. Learn how to plan your transition and make your next move with
-  confidence.
+ A step-by-step guide for professionals on how to work through a successful
+ career change. Learn how to plan your transition and make your next move with
+ confidence.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

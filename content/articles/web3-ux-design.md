@@ -3,8 +3,8 @@ title: Web3 UX Design Best Practices
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 data-ai-hint: ux design web3
 description: >-
-  Master wallet design, transaction flows, and accessibility patterns unique to
-  decentralized applications.
+ Master wallet design, transaction flows, and accessibility patterns unique to
+ decentralized applications.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

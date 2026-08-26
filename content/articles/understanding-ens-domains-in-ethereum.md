@@ -3,9 +3,9 @@ title: Understanding ENS Domains in Ethereum
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: domain name service
 description: >-
-  An ENS domain is a human-readable name for your Ethereum wallet, like
-  'vitalik.eth'. This guide explains how the Ethereum Name Service works and why
-  it's.
+ An ENS domain is a human-readable name for your Ethereum wallet, like
+ 'vitalik.eth'. This guide explains how the Ethereum Name Service works and why
+ it's.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

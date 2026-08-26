@@ -3,8 +3,8 @@ name: Crossmint
 website: 'https://crossmint.com'
 category: Other
 description: >-
-  Crossmint provides tools for businesses to integrate NFTs into their
-  operations.
+ Crossmint provides tools for businesses to integrate NFTs into their
+ operations.
 ---
 
 Crossmint offers a platform that enables businesses to create, manage, and sell NFTs. Their services focus on simplifying the NFT minting process for companies looking to incorporate digital assets into their offerings. Crossmint's technology allows for smooth integration of NFTs into existing workflows, catering to various industries.

@@ -3,8 +3,8 @@ title: 'Entry Level Jobs in Web3: Your Guide to Getting Started'
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: career ladder entry
 description: >-
-  Find entry-level Web3 roles that require technical skills and passion for
-  blockchain.
+ Find entry-level Web3 roles that require technical skills and passion for
+ blockchain.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

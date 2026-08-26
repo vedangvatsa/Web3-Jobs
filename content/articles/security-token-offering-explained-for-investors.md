@@ -3,8 +3,8 @@ title: Security Token Offering Explained for Investors
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: security token
 description: >-
-  A Security Token Offering (STO) is a regulated process where a project raises
-  capital by issuing tokens that represent a financial security. This guide.
+ A Security Token Offering (STO) is a regulated process where a project raises
+ capital by issuing tokens that represent a financial security. This guide.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

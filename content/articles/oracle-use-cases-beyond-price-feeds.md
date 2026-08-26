@@ -3,8 +3,8 @@ title: 'Oracle Use Cases: Beyond Price Feeds'
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: oracle blockchain data
 description: >-
-  A look at the advanced applications of blockchain oracles, from parametric
-  insurance and dynamic NFTs to decentralized identity and RWA tokenization.
+ A look at the advanced applications of blockchain oracles, from parametric
+ insurance and dynamic NFTs to decentralized identity and RWA tokenization.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

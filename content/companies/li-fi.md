@@ -3,8 +3,8 @@ name: LI.FI
 website: 'https://li.fi'
 category: DeFi Protocol
 description: >-
-  LI.FI provides liquidity and interoperability solutions for decentralized
-  finance.
+ LI.FI provides liquidity and interoperability solutions for decentralized
+ finance.
 ---
 
 LI.FI focuses on enhancing liquidity and interoperability within decentralized finance. The platform enables users to access various DeFi protocols smooth. LI.FI integrates multiple liquidity sources, allowing users to optimize their transactions across different platforms.

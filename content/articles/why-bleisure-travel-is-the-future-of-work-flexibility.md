@@ -3,9 +3,9 @@ title: Why Bleisure Travel is the Future of Work Flexibility
 image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
 data-ai-hint: travel work future
 description: >-
-  An analysis of the rise of 'bleisure' travel and how it represents the new
-  frontier of work-life balance for professionals in remote-first industries
-  like Web3.
+ An analysis of the rise of 'bleisure' travel and how it represents the new
+ frontier of work-life balance for professionals in remote-first industries
+ like Web3.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

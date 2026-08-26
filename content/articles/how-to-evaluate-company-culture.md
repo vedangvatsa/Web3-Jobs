@@ -1,8 +1,8 @@
 ---
 title: How to Evaluate Company Culture Before You Accept the Job
 description: >-
-  Use targeted interview questions and observations to assess cultural fit
-  before joining.
+ Use targeted interview questions and observations to assess cultural fit
+ before joining.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: people talking
 category: Career Guides

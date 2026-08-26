@@ -3,8 +3,8 @@ name: Antimetal
 website: 'https://antimetal.com'
 category: Other
 description: >-
-  Antimetal offers solutions for managing cryptocurrency payments and
-  transactions.
+ Antimetal offers solutions for managing cryptocurrency payments and
+ transactions.
 ---
 
 Antimetal provides tools for businesses to accept cryptocurrency payments. Their platform simplifies the integration of crypto transactions into existing payment systems. The company focuses on enhancing the user experience for both merchants and customers in the crypto space.

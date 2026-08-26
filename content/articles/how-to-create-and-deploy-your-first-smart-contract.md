@@ -1,10 +1,10 @@
 ---
 title: How to Create and Deploy Your First Smart Contract
 image: >-
-  https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
-  A beginner-friendly guide to writing, compiling, and deploying a basic smart
-  contract on the Ethereum blockchain using Remix.
+ A beginner-friendly guide to writing, compiling, and deploying a basic smart
+ contract on the Ethereum blockchain using Remix.
 category: Getting Started
 data-ai-hint: smart contract deployment
 publishedDate: '2026-03-11'

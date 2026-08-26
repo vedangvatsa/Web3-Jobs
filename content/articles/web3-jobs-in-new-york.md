@@ -3,8 +3,8 @@ title: 'Web3 Jobs in New York: DeFi and FinTech Capital'
 image: /images/usa-web3-jobs-by-hashtag-web3.jpg
 data-ai-hint: new york city
 description: >-
-  A career guide to the Web3 job market in New York City. Discover how the
-  world's financial capital is becoming the epicenter of DeFi, institutional.
+ A career guide to the Web3 job market in New York City. Discover how the
+ world's financial capital is becoming the epicenter of DeFi, institutional.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,10 +1,10 @@
 ---
 title: 'Web3 Data Analyst: The On-Chain Detective'
 image: >-
-  https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080
 description: >-
-  A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use
-  on-chain data to drive strategy and what skills you need to become an.
+ A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use
+ on-chain data to drive strategy and what skills you need to become an.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

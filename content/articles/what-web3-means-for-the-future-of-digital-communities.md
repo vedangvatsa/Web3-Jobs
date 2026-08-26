@@ -3,9 +3,9 @@ title: What Web3 Means for the Future of Digital Communities
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: digital community future
 description: >-
-  Web3 is changing how online communities are formed and governed. Explore how
-  DAOs and NFTs are creating more engaged, equitable, and user-owned digital
-  nations.
+ Web3 is changing how online communities are formed and governed. Explore how
+ DAOs and NFTs are creating more engaged, equitable, and user-owned digital
+ nations.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

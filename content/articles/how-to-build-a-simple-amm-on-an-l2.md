@@ -1,11 +1,11 @@
 ---
 title: How to Build a Simple AMM on an L2
 image: >-
-  https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVjaHxlbnwwfHx8fDE3NTQ5NTU3OTJ8MA&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVjaHxlbnwwfHx8fDE3NTQ5NTU3OTJ8MA&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: decentralized exchange crypto
 description: >-
-  A practical guide for developers on how to build a basic Automated Market
-  Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism.
+ A practical guide for developers on how to build a basic Automated Market
+ Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,9 +3,9 @@ title: 'The On-Chain Analyst Job: A Career Guide'
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: data analyst chart
 description: >-
-  A career guide for aspiring on-chain data analysts. Learn what the role
-  entails, the tools you need to master, and how to build a portfolio that gets
-  you hired.
+ A career guide for aspiring on-chain data analysts. Learn what the role
+ entails, the tools you need to master, and how to build a portfolio that gets
+ you hired.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

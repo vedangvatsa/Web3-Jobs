@@ -1,8 +1,8 @@
 ---
 title: What does Vitalik Buterin think about Web3
 description: >-
-  cover the mind of Vitalik Buterin, the creator of Ethereum. This guide covers
-  his initial vision for a 'world computer,' his evolving thoughts on.
+ cover the mind of Vitalik Buterin, the creator of Ethereum. This guide covers
+ his initial vision for a 'world computer,' his evolving thoughts on.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man glasses

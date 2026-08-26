@@ -3,8 +3,8 @@ title: Blockchain Remote Jobs and Salary Expectations
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: remote job salary
 description: >-
-  An overview of the remote job market in the blockchain industry. Learn about
-  the most common remote roles, what to expect in terms of salary, and how to.
+ An overview of the remote job market in the blockchain industry. Learn about
+ the most common remote roles, what to expect in terms of salary, and how to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,9 +3,9 @@ title: What is Soulbound Token Technology
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: person soul connection
 description: >-
-  Soulbound Tokens (SBTs) are non-transferable NFTs that can represent a
-  person's identity, reputation, and affiliations. Learn how this concept,
-  proposed.
+ Soulbound Tokens (SBTs) are non-transferable NFTs that can represent a
+ person's identity, reputation, and affiliations. Learn how this concept,
+ proposed.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,11 +1,11 @@
 ---
 title: 'Tips from a Web3 Recruiter: How to Get Hired'
 image: >-
-  https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1556742212-5b321f3c261b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxyZWNydWl0ZXJ8ZW58MHx8fHwxNzU1MTYxOTk3fDA&lib=rb-4.1.0&q=80&w=1080
 description: >-
-  Get insider tips from a Web3 headhunter. Learn what recruiters are looking
-  for, the biggest red flags on a resume, and how to stand out in a competitive
-  market.
+ Get insider tips from a Web3 headhunter. Learn what recruiters are looking
+ for, the biggest red flags on a resume, and how to stand out in a competitive
+ market.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,8 +1,8 @@
 ---
 title: 'Crypto Developer Activity: Is a Slowdown a Sign of Fundamental Issues?'
 description: >-
-  A deeply expanded analysis of the 'developer activity slowdown' metric in
-  crypto with a 360° framework for interpreting developer activity.
+ A deeply expanded analysis of the 'developer activity slowdown' metric in
+ crypto with a 360° framework for interpreting developer activity.
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man worried computer

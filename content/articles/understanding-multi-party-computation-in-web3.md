@@ -3,8 +3,8 @@ title: Understanding Multi-Party Computation in Web3
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: computation security keys
 description: >-
-  A guide to Multi-Party Computation (MPC), a powerful cryptographic technique
-  that is changing digital asset security and private computation in Web3.
+ A guide to Multi-Party Computation (MPC), a powerful cryptographic technique
+ that is changing digital asset security and private computation in Web3.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

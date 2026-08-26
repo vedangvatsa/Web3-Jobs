@@ -3,8 +3,8 @@ title: What is a 'Degen' in Web3?
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: risky bet crypto
 description: >-
-  An exploration of the 'degen,' a term of endearment in Web3 for high-risk,
-  thrill-seeking traders and DeFi power users.
+ An exploration of the 'degen,' a term of endearment in Web3 for high-risk,
+ thrill-seeking traders and DeFi power users.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

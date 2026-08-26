@@ -1,8 +1,8 @@
 ---
 title: 'Bitcoin Whitepaper Day: The Genesis of a Revolution'
 description: >-
-  Celebrate the anniversary of Satoshi Nakamoto's a significant Bitcoin
-  whitepaper and its impact on decentralization and crypto.
+ Celebrate the anniversary of Satoshi Nakamoto's a significant Bitcoin
+ whitepaper and its impact on decentralization and crypto.
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin cryptocurrency

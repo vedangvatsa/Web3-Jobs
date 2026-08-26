@@ -3,9 +3,9 @@ title: What is a Launchpad in Crypto Projects
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: rocket launch crypto
 description: >-
-  A crypto launchpad is a platform that helps new blockchain projects raise
-  capital by selling their initial tokens to the public. This guide explains
-  how.
+ A crypto launchpad is a platform that helps new blockchain projects raise
+ capital by selling their initial tokens to the public. This guide explains
+ how.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

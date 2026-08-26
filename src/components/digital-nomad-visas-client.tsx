@@ -5,7 +5,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Input } from '@/components/ui/input';
 import { Button } from '@/components/ui/button';
-import { Search, Wallet, CalendarDays, FileCheck2 } from 'lucide-react';
+import { Search } from 'lucide-react';
 import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
@@ -13,49 +13,42 @@ import { CtaBanner } from '@/components/cta-banner';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
   return (
-    <Card className="flex flex-col h-full transform transition-all duration-300 hover:shadow-sm hover:-translate-y-1.5 bg-card">
-      <CardHeader className="flex flex-row items-start justify-between pb-4">
+    <Card className="flex flex-col h-full bg-card border-border hover:border-primary/40 transition-colors">
+      <CardHeader className="flex flex-row items-start justify-between pb-3">
         <div className="flex items-center gap-3">
-          <span className="text-4xl">{getFlagEmoji(visa.country)}</span>
+          <span className="text-3xl" aria-hidden="true">{getFlagEmoji(visa.country)}</span>
           <div>
-            <CardTitle className="text-xl font-bold">{visa.country}</CardTitle>
-            <Badge variant="outline" className="mt-1">
+            <CardTitle className="text-lg font-bold text-foreground">{visa.country}</CardTitle>
+            <Badge variant="outline" className="text-[10px] font-mono mt-0.5">
               {visa.continent}
             </Badge>
           </div>
         </div>
       </CardHeader>
-      <CardContent className="flex-grow flex flex-col justify-between">
+      <CardContent className="flex-grow flex flex-col justify-between pt-0">
         <div>
-          <p className="text-muted-foreground mb-4 text-sm">{visa.description}</p>
-          <div className="space-y-4">
-            <div className="flex items-start gap-3">
-              <Wallet className="h-5 w-5 text-primary mt-0.5 shrink-0" />
-              <div>
-                <h4 className="font-semibold text-sm text-foreground">Minimum Income</h4>
-                <p className="text-sm">
-                  Approx. <strong>${visa.minIncome.toLocaleString()} USD</strong> / month
-                </p>
-              </div>
+          <p className="text-muted-foreground mb-4 text-xs leading-relaxed">{visa.description}</p>
+          <div className="space-y-3 text-xs border-t border-border/50 pt-3">
+            <div>
+              <span className="text-muted-foreground block text-[11px] mb-0.5">Minimum Income</span>
+              <p className="font-semibold text-foreground text-sm">
+                Approx. ${visa.minIncome.toLocaleString()} USD / month
+              </p>
             </div>
-            <div className="flex items-start gap-3">
-              <CalendarDays className="h-5 w-5 text-primary mt-0.5 shrink-0" />
-              <div>
-                <h4 className="font-semibold text-sm text-foreground">Visa Length</h4>
-                <p className="text-sm">{visa.visaLength}</p>
-              </div>
+            <div>
+              <span className="text-muted-foreground block text-[11px] mb-0.5">Visa Length</span>
+              <p className="font-medium text-foreground">{visa.visaLength}</p>
             </div>
-            <div className="flex items-start gap-3">
-              <FileCheck2 className="h-5 w-5 text-primary mt-0.5 shrink-0" />
+            {visa.requirements && visa.requirements.length > 0 && (
               <div>
-                <h4 className="font-semibold text-sm text-foreground">Key Requirements</h4>
-                <ul className="list-disc pl-4 mt-1 space-y-1 text-xs">
+                <span className="text-muted-foreground block text-[11px] mb-1">Key Requirements</span>
+                <ul className="list-disc pl-4 space-y-0.5 text-muted-foreground text-xs">
                   {visa.requirements.map((req, i) => (
                     <li key={i}>{req}</li>
                   ))}
                 </ul>
               </div>
-            </div>
+            )}
           </div>
         </div>
       </CardContent>

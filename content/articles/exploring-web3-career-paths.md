@@ -1,8 +1,8 @@
 ---
 title: Exploring the Most Promising Web3 Career Paths for 2026
 description: >-
-  A full guide to the diverse career paths available in the Web3 industry. From
-  development to marketing, discover the roles that are defining the.
+ A full guide to the diverse career paths available in the Web3 industry. From
+ development to marketing, discover the roles that are defining the.
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 category: Career Guides
 data-ai-hint: people working together

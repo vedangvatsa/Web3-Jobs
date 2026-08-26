@@ -3,8 +3,8 @@ title: Understanding Network State in Blockchains
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: blockchain network state
 description: >-
-  A foundational guide to understanding 'network state' in blockchain technology
-  and why this shared, global 'computer' is a a significant concept.
+ A foundational guide to understanding 'network state' in blockchain technology
+ and why this shared, global 'computer' is a a significant concept.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

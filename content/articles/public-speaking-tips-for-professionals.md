@@ -1,9 +1,9 @@
 ---
 title: Public Speaking Tips for Professionals
 description: >-
-  Go from a nervous speaker to a confident presenter with these practical public
-  speaking tips. Learn how to structure your speech, engage your audience, and
-  deliver with impact.
+ Go from a nervous speaker to a confident presenter with these practical public
+ speaking tips. Learn how to structure your speech, engage your audience, and
+ deliver with impact.
 image: 'https://picsum.photos/seed/public-speaking/1200/630'
 category: Career Guides
 data-ai-hint: person speaking

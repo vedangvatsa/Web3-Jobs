@@ -3,8 +3,8 @@ title: What is Avalanche? A Guide to the High-Throughput Blockchain
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: avalanche blockchain network
 description: >-
-  Explore the Avalanche consensus mechanism and how it powers fast, scalable
-  DeFi.
+ Explore the Avalanche consensus mechanism and how it powers fast, scalable
+ DeFi.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

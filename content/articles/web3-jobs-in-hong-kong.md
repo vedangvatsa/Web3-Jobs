@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in Hong Kong: Gateway Between East & West'
 image: >-
-  https://images.unsplash.com/photo-1556015522-8b9b1d56d015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aG9uZyUyMGtvbmd8ZW58MHx8fHwxNzU5MjY5MzA2fDA&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1556015522-8b9b1d56d015?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8aG9uZyUyMGtvbmd8ZW58MHx8fHwxNzU5MjY5MzA2fDA&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: hong kong skyline
 description: >-
-  Web3 Jobs in Hong Kong | $100K-$300K+ Salary | Asia's Emerging Crypto Hub
-  2026. ETF specialists, DeFi engineers, compliance roles. Bridging East-West.
+ Web3 Jobs in Hong Kong | $100K-$300K+ Salary | Asia's Emerging Crypto Hub
+ 2026. ETF specialists, DeFi engineers, compliance roles. Bridging East-West.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

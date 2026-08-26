@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in Brazil: A Guide to Latin America''s Crypto Powerhouse'
 image: >-
-  https://images.unsplash.com/photo-1593995863951-57c27e518295?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicmF6aWx8ZW58MHx8fHwxNzU5MjY4ODYxfDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1593995863951-57c27e518295?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxicmF6aWx8ZW58MHx8fHwxNzU5MjY4ODYxfDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: brazil city skyline
 description: >-
-  Discover how to build a career in Brazil's growing Web3 industry. This guide
-  covers the market space, in-demand roles, and salary insights for one.
+ Discover how to build a career in Brazil's growing Web3 industry. This guide
+ covers the market space, in-demand roles, and salary insights for one.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

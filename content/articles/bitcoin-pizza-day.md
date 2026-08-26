@@ -1,8 +1,8 @@
 ---
 title: 'Bitcoin Pizza Day: The $300 Million Meal That Made History'
 description: >-
-  On May 22, 2010, Laszlo Hanyecz paid 10,000 bitcoins for two pizzas, marking
-  the first-ever real-world commercial transaction using cryptocurrency.
+ On May 22, 2010, Laszlo Hanyecz paid 10,000 bitcoins for two pizzas, marking
+ the first-ever real-world commercial transaction using cryptocurrency.
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin pizza day

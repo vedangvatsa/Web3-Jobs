@@ -3,9 +3,9 @@ title: 'Beyond the Code: Exploring Non-Tech Roles in Web3'
 image: /images/marvin-meyer-SYTO3xs06fU-unsplash.jpg
 data-ai-hint: team collaboration meeting
 description: >-
-  You don't have to be a developer to build a career in Web3. This guide
-  explores the wide range of essential non-technical roles, from community
-  management.
+ You don't have to be a developer to build a career in Web3. This guide
+ explores the wide range of essential non-technical roles, from community
+ management.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

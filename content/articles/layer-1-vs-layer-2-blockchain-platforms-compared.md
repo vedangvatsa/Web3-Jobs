@@ -3,8 +3,8 @@ title: Layer 1 vs Layer 2 Blockchain Platforms Compared
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: blockchain layers comparison
 description: >-
-  A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms.
-  Understand their different roles, security models, and how they work.
+ A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms.
+ Understand their different roles, security models, and how they work.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,9 +3,9 @@ title: The Role of Web3 Developer Advocates in Community Building
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: developer advocate community
 description: >-
-  An in-depth look at the Web3 Developer Advocate (DevRel) role, exploring how
-  they act as the important bridge between a protocol and its developer
-  community.
+ An in-depth look at the Web3 Developer Advocate (DevRel) role, exploring how
+ they act as the important bridge between a protocol and its developer
+ community.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

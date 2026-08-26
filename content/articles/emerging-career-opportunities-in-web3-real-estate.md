@@ -3,8 +3,8 @@ title: Emerging Career Opportunities in Web3 Real Estate
 image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
 data-ai-hint: real estate tokenization
 description: >-
-  Explore how blockchain and tokenization are creating new roles in property
-  ownership and real estate markets.
+ Explore how blockchain and tokenization are creating new roles in property
+ ownership and real estate markets.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,9 +1,9 @@
 ---
 title: How to Make a Good First Impression at a New Job
 description: >-
-  Your first impression can set the tone for your entire career at a new
-  company. This guide provides actionable tips for making a positive and
-  lasting.
+ Your first impression can set the tone for your entire career at a new
+ company. This guide provides actionable tips for making a positive and
+ lasting.
 category: Career Guides
 image: 'https://picsum.photos/seed/304/1200/630'
 data-ai-hint: first impression

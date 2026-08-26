@@ -1,10 +1,10 @@
 ---
 title: >-
-  Mark Zuckerberg on Web3: The Metaverse, Centralization, and the Future of the
-  Internet
+ Mark Zuckerberg on Web3: The Metaverse, Centralization, and the Future of the
+ Internet
 description: >-
-  Review Meta's metaverse strategy and Zuckerberg's perspective on
-  decentralization and Web3.
+ Review Meta's metaverse strategy and Zuckerberg's perspective on
+ decentralization and Web3.
 image: 'https://picsum.photos/seed/zuckweb3/1200/630'
 category: Industry Insights
 data-ai-hint: man technology

@@ -1,333 +1,333 @@
 {
-  "meta": {
-    "contentType": "tools",
-    "topic": "development",
-    "niche": "web3-community-manager",
-    "generatedAt": "2026-05-17T19:57:17.201Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Essential Tools for Web3 Community Managers",
-    "description": "A curated list of tools for Web3 community managers covering Discord management, engagement, analytics, and member coordination.",
-    "keywords": [
-      "web3-community-manager",
-      "tools",
-      "Discord",
-      "community",
-      "engagement"
-    ],
-    "canonicalSlug": "development-tools-for-web3-community-manager"
-  },
-  "content": {
-    "intro": "Community management in Web3 requires specialized tools for token-gated access, engagement tracking, and managing 24/7 global communities. Here are the essentials.",
-    "sections": [
-      {
-        "heading": "Discord Management",
-        "description": "Essential Discord tools.",
-        "items": [
-          {
-            "name": "Collab.Land",
-            "description": "Token gating for Discord and Telegram. Verify holders. Used by production teams across the ecosystem.",
-            "category": "Access Control",
-            "url": "https://collab.land",
-            "pricing": "Free tier + Premium",
-            "useCase": "Token verification"
-          },
-          {
-            "name": "Guild.xyz",
-            "description": "Advanced role and access management based on on-chain activity.",
-            "category": "Access Control",
-            "url": "https://guild.xyz",
-            "pricing": "Free",
-            "useCase": "Role management"
-          },
-          {
-            "name": "Carl-bot",
-            "description": "Moderation, logging, and reaction roles. Used by production teams across the ecosystem.",
-            "category": "Moderation",
-            "url": "https://carl.gg",
-            "pricing": "Free + Premium",
-            "useCase": "Moderation"
-          },
-          {
-            "name": "MEE6",
-            "description": "Leveling, moderation, and custom commands. Used by production teams across the ecosystem.",
-            "category": "Engagement",
-            "url": "https://mee6.xyz",
-            "pricing": "Free + Premium",
-            "useCase": "Leveling system"
-          },
-          {
-            "name": "Dyno",
-            "description": "Moderation, auto-moderation, and announcements. Used by production teams across the ecosystem.",
-            "category": "Moderation",
-            "url": "https://dyno.gg",
-            "pricing": "Free + Premium",
-            "useCase": "Auto-moderation"
-          },
-          {
-            "name": "Wick",
-            "description": "Security bot for raid protection and anti-spam. Used by production teams across the ecosystem.",
-            "category": "Security",
-            "url": "https://wickbot.com",
-            "pricing": "Free + Premium",
-            "useCase": "Raid protection"
-          }
-        ]
-      },
-      {
-        "heading": "Engagement Platforms",
-        "description": "Drive community participation.",
-        "items": [
-          {
-            "name": "Zealy (Crew3)",
-            "description": "Quest and task platform for community engagement. Used by production teams across the ecosystem.",
-            "category": "Engagement",
-            "url": "https://zealy.io",
-            "pricing": "Free tier + Paid",
-            "useCase": "Quests"
-          },
-          {
-            "name": "Galxe",
-            "description": "Credential and campaign platform with NFT rewards. Used by production teams across the ecosystem.",
-            "category": "Campaigns",
-            "url": "https://galxe.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Campaigns"
-          },
-          {
-            "name": "Layer3",
-            "description": "Learn-to-earn quests with on-chain verification. Used by production teams across the ecosystem.",
-            "category": "Engagement",
-            "url": "https://layer3.xyz",
-            "pricing": "Paid",
-            "useCase": "Educational quests"
-          },
-          {
-            "name": "Snapshot",
-            "description": "Governance voting for community decisions. Free and open-source.",
-            "category": "Governance",
-            "url": "https://snapshot.org",
-            "pricing": "Free",
-            "useCase": "Community voting"
-          },
-          {
-            "name": "Tally",
-            "description": "On-chain governance for DAOs. Use for web3 community manager workflows.",
-            "category": "Governance",
-            "url": "https://www.tally.xyz",
-            "pricing": "Free",
-            "useCase": "On-chain governance"
-          }
-        ]
-      },
-      {
-        "heading": "Analytics and Insights",
-        "description": "Understand your community.",
-        "items": [
-          {
-            "name": "Statbot",
-            "description": "Discord analytics and statistics. Worth evaluating for your workflow.",
-            "category": "Analytics",
-            "url": "https://statbot.net",
-            "pricing": "Free + Premium",
-            "useCase": "Discord metrics"
-          },
-          {
-            "name": "Commonroom",
-            "description": "Community intelligence across platforms. Provides dashboards and alerting for production use.",
-            "category": "Analytics",
-            "url": "https://www.commonroom.io",
-            "pricing": "Paid",
-            "useCase": "Cross-platform insights"
-          },
-          {
-            "name": "Discord Server Insights",
-            "description": "Built-in Discord analytics for large servers. Provides dashboards and alerting for production use.",
-            "category": "Analytics",
-            "url": "https://discord.com/blog/server-and-creator-analytics",
-            "pricing": "Free (requires Community)",
-            "useCase": "Native analytics"
-          }
-        ]
-      },
-      {
-        "heading": "Communication Tools",
-        "description": "Communicate with your community.",
-        "items": [
-          {
-            "name": "Notion",
-            "description": "Documentation and wikis for community resources. Used by production teams across the ecosystem.",
-            "category": "Documentation",
-            "url": "https://notion.so",
-            "pricing": "Free tier + Paid",
-            "useCase": "Community docs"
-          },
-          {
-            "name": "Luma",
-            "description": "Event management for community events. Worth evaluating for your workflow.",
-            "category": "Events",
-            "url": "https://lu.ma",
-            "pricing": "Free tier + Paid",
-            "useCase": "Event hosting"
-          },
-          {
-            "name": "Paragraph",
-            "description": "Web3-native newsletter platform. Worth evaluating for your workflow.",
-            "category": "Newsletter",
-            "url": "https://paragraph.xyz",
-            "pricing": "Free tier + Paid",
-            "useCase": "Community updates"
-          },
-          {
-            "name": "Riverside",
-            "description": "Recording platform for community calls and podcasts. Used by production teams across the ecosystem.",
-            "category": "Recording",
-            "url": "https://riverside.fm",
-            "pricing": "Free tier + Paid",
-            "useCase": "Community calls"
-          },
-          {
-            "name": "StreamYard",
-            "description": "Live streaming to multiple platforms. Worth evaluating for your workflow.",
-            "category": "Streaming",
-            "url": "https://streamyard.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "AMAs and streams"
-          }
-        ]
-      },
-      {
-        "heading": "Rewards and Recognition",
-        "description": "Recognize community contributions.",
-        "items": [
-          {
-            "name": "Coordinape",
-            "description": "Peer-to-peer reward allocation for contributors. Free and open-source.",
-            "category": "Rewards",
-            "url": "https://coordinape.com",
-            "pricing": "Free",
-            "useCase": "Contributor rewards"
-          },
-          {
-            "name": "POAP",
-            "description": "Attendance NFTs for events and milestones. Free and open-source.",
-            "category": "Recognition",
-            "url": "https://poap.xyz",
-            "pricing": "Free",
-            "useCase": "Event badges"
-          },
-          {
-            "name": "Soulbound Tokens",
-            "description": "Non-transferable tokens for achievements. Used by production teams across the ecosystem.",
-            "category": "Recognition",
-            "url": "https://eips.ethereum.org/EIPS/eip-5192",
-            "pricing": "Varies",
-            "useCase": "Achievement badges"
-          },
-          {
-            "name": "Superfluid",
-            "description": "Token streaming for continuous contributor payments. Used by production teams across the ecosystem.",
-            "category": "Payments",
-            "url": "https://www.superfluid.finance",
-            "pricing": "Free (gas only)",
-            "useCase": "Contributor payments"
-          }
-        ]
-      },
-      {
-        "heading": "Support Tools",
-        "description": "Help community members.",
-        "items": [
-          {
-            "name": "Intercom",
-            "description": "Customer support with chat and help center. Used by production teams across the ecosystem.",
-            "category": "Support",
-            "url": "https://www.intercom.com",
-            "pricing": "Paid",
-            "useCase": "Help desk"
-          },
-          {
-            "name": "Zendesk",
-            "description": "Enterprise support ticketing system. Worth evaluating for your workflow.",
-            "category": "Support",
-            "url": "https://www.zendesk.com",
-            "pricing": "Paid",
-            "useCase": "Ticket management"
-          },
-          {
-            "name": "Discord Ticket Bot",
-            "description": "Create support tickets within Discord. Worth evaluating for your workflow.",
-            "category": "Support",
-            "url": "https://tickettool.xyz",
-            "pricing": "Free + Premium",
-            "useCase": "Discord support"
-          },
-          {
-            "name": "GitBook",
-            "description": "Documentation platform for help articles. Used by production teams across the ecosystem.",
-            "category": "Documentation",
-            "url": "https://www.gitbook.com",
-            "pricing": "Free tier + Paid",
-            "useCase": "Help documentation"
-          },
-          {
-            "name": "FAQ Bot",
-            "description": "Auto-answer common questions in Discord. Used by production teams across the ecosystem.",
-            "category": "Support",
-            "url": "https://carl.gg",
-            "pricing": "Free + Premium",
-            "useCase": "FAQ automation"
-          },
-          {
-            "name": "HelpDocs",
-            "description": "Simple knowledge base for community docs. Used by production teams across the ecosystem.",
-            "category": "Documentation",
-            "url": "https://www.helpdocs.io",
-            "pricing": "Paid",
-            "useCase": "Knowledge base"
-          }
-        ]
-      },
-      {
-        "heading": "Analytics and Insights (Continued)",
-        "description": "Measure community health and growth.",
-        "items": [
-          {
-            "name": "SocialBlade",
-            "description": "Track social media growth over time. Worth evaluating for your workflow.",
-            "category": "Analytics",
-            "url": "https://socialblade.com",
-            "pricing": "Free + Paid",
-            "useCase": "Growth tracking"
-          },
-          {
-            "name": "Kaito",
-            "description": "AI-powered crypto social media analytics. Provides dashboards and alerting for production use.",
-            "category": "Analytics",
-            "url": "https://www.kaito.ai",
-            "pricing": "Paid",
-            "useCase": "Sentiment tracking"
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      {
-        "tip": "Guild.xyz is more flexible than Collab.Land for complex role requirements."
-      },
-      {
-        "tip": "Rotate moderators across time zones for 24/7 coverage."
-      },
-      {
-        "tip": "Use quests strategically. Too many creates fatigue."
-      },
-      {
-        "tip": "Build a contributor program with clear levels and rewards."
-      },
-      {
-        "tip": "Document everything. Community knowledge should not be in one person's head."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "tools",
+ "topic": "development",
+ "niche": "web3-community-manager",
+ "generatedAt": "2026-05-17T19:57:17.201Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Essential Tools for Web3 Community Managers",
+ "description": "A curated list of tools for Web3 community managers covering Discord management, engagement, analytics, and member coordination.",
+ "keywords": [
+ "web3-community-manager",
+ "tools",
+ "Discord",
+ "community",
+ "engagement"
+ ],
+ "canonicalSlug": "development-tools-for-web3-community-manager"
+ },
+ "content": {
+ "intro": "Community management in Web3 requires specialized tools for token-gated access, engagement tracking, and managing 24/7 global communities. Here are the essentials.",
+ "sections": [
+ {
+ "heading": "Discord Management",
+ "description": "Essential Discord tools.",
+ "items": [
+ {
+ "name": "Collab.Land",
+ "description": "Token gating for Discord and Telegram. Verify holders. Used by production teams across the ecosystem.",
+ "category": "Access Control",
+ "url": "https://collab.land",
+ "pricing": "Free tier + Premium",
+ "useCase": "Token verification"
+ },
+ {
+ "name": "Guild.xyz",
+ "description": "Advanced role and access management based on on-chain activity.",
+ "category": "Access Control",
+ "url": "https://guild.xyz",
+ "pricing": "Free",
+ "useCase": "Role management"
+ },
+ {
+ "name": "Carl-bot",
+ "description": "Moderation, logging, and reaction roles. Used by production teams across the ecosystem.",
+ "category": "Moderation",
+ "url": "https://carl.gg",
+ "pricing": "Free + Premium",
+ "useCase": "Moderation"
+ },
+ {
+ "name": "MEE6",
+ "description": "Leveling, moderation, and custom commands. Used by production teams across the ecosystem.",
+ "category": "Engagement",
+ "url": "https://mee6.xyz",
+ "pricing": "Free + Premium",
+ "useCase": "Leveling system"
+ },
+ {
+ "name": "Dyno",
+ "description": "Moderation, auto-moderation, and announcements. Used by production teams across the ecosystem.",
+ "category": "Moderation",
+ "url": "https://dyno.gg",
+ "pricing": "Free + Premium",
+ "useCase": "Auto-moderation"
+ },
+ {
+ "name": "Wick",
+ "description": "Security bot for raid protection and anti-spam. Used by production teams across the ecosystem.",
+ "category": "Security",
+ "url": "https://wickbot.com",
+ "pricing": "Free + Premium",
+ "useCase": "Raid protection"
+ }
+ ]
+ },
+ {
+ "heading": "Engagement Platforms",
+ "description": "Drive community participation.",
+ "items": [
+ {
+ "name": "Zealy (Crew3)",
+ "description": "Quest and task platform for community engagement. Used by production teams across the ecosystem.",
+ "category": "Engagement",
+ "url": "https://zealy.io",
+ "pricing": "Free tier + Paid",
+ "useCase": "Quests"
+ },
+ {
+ "name": "Galxe",
+ "description": "Credential and campaign platform with NFT rewards. Used by production teams across the ecosystem.",
+ "category": "Campaigns",
+ "url": "https://galxe.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Campaigns"
+ },
+ {
+ "name": "Layer3",
+ "description": "Learn-to-earn quests with on-chain verification. Used by production teams across the ecosystem.",
+ "category": "Engagement",
+ "url": "https://layer3.xyz",
+ "pricing": "Paid",
+ "useCase": "Educational quests"
+ },
+ {
+ "name": "Snapshot",
+ "description": "Governance voting for community decisions. Free and open-source.",
+ "category": "Governance",
+ "url": "https://snapshot.org",
+ "pricing": "Free",
+ "useCase": "Community voting"
+ },
+ {
+ "name": "Tally",
+ "description": "On-chain governance for DAOs. Use for web3 community manager workflows.",
+ "category": "Governance",
+ "url": "https://www.tally.xyz",
+ "pricing": "Free",
+ "useCase": "On-chain governance"
+ }
+ ]
+ },
+ {
+ "heading": "Analytics and Insights",
+ "description": "Understand your community.",
+ "items": [
+ {
+ "name": "Statbot",
+ "description": "Discord analytics and statistics. Worth evaluating for your workflow.",
+ "category": "Analytics",
+ "url": "https://statbot.net",
+ "pricing": "Free + Premium",
+ "useCase": "Discord metrics"
+ },
+ {
+ "name": "Commonroom",
+ "description": "Community intelligence across platforms. Provides dashboards and alerting for production use.",
+ "category": "Analytics",
+ "url": "https://www.commonroom.io",
+ "pricing": "Paid",
+ "useCase": "Cross-platform insights"
+ },
+ {
+ "name": "Discord Server Insights",
+ "description": "Built-in Discord analytics for large servers. Provides dashboards and alerting for production use.",
+ "category": "Analytics",
+ "url": "https://discord.com/blog/server-and-creator-analytics",
+ "pricing": "Free (requires Community)",
+ "useCase": "Native analytics"
+ }
+ ]
+ },
+ {
+ "heading": "Communication Tools",
+ "description": "Communicate with your community.",
+ "items": [
+ {
+ "name": "Notion",
+ "description": "Documentation and wikis for community resources. Used by production teams across the ecosystem.",
+ "category": "Documentation",
+ "url": "https://notion.so",
+ "pricing": "Free tier + Paid",
+ "useCase": "Community docs"
+ },
+ {
+ "name": "Luma",
+ "description": "Event management for community events. Worth evaluating for your workflow.",
+ "category": "Events",
+ "url": "https://lu.ma",
+ "pricing": "Free tier + Paid",
+ "useCase": "Event hosting"
+ },
+ {
+ "name": "Paragraph",
+ "description": "Web3-native newsletter platform. Worth evaluating for your workflow.",
+ "category": "Newsletter",
+ "url": "https://paragraph.xyz",
+ "pricing": "Free tier + Paid",
+ "useCase": "Community updates"
+ },
+ {
+ "name": "Riverside",
+ "description": "Recording platform for community calls and podcasts. Used by production teams across the ecosystem.",
+ "category": "Recording",
+ "url": "https://riverside.fm",
+ "pricing": "Free tier + Paid",
+ "useCase": "Community calls"
+ },
+ {
+ "name": "StreamYard",
+ "description": "Live streaming to multiple platforms. Worth evaluating for your workflow.",
+ "category": "Streaming",
+ "url": "https://streamyard.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "AMAs and streams"
+ }
+ ]
+ },
+ {
+ "heading": "Rewards and Recognition",
+ "description": "Recognize community contributions.",
+ "items": [
+ {
+ "name": "Coordinape",
+ "description": "Peer-to-peer reward allocation for contributors. Free and open-source.",
+ "category": "Rewards",
+ "url": "https://coordinape.com",
+ "pricing": "Free",
+ "useCase": "Contributor rewards"
+ },
+ {
+ "name": "POAP",
+ "description": "Attendance NFTs for events and milestones. Free and open-source.",
+ "category": "Recognition",
+ "url": "https://poap.xyz",
+ "pricing": "Free",
+ "useCase": "Event badges"
+ },
+ {
+ "name": "Soulbound Tokens",
+ "description": "Non-transferable tokens for achievements. Used by production teams across the ecosystem.",
+ "category": "Recognition",
+ "url": "https://eips.ethereum.org/EIPS/eip-5192",
+ "pricing": "Varies",
+ "useCase": "Achievement badges"
+ },
+ {
+ "name": "Superfluid",
+ "description": "Token streaming for continuous contributor payments. Used by production teams across the ecosystem.",
+ "category": "Payments",
+ "url": "https://www.superfluid.finance",
+ "pricing": "Free (gas only)",
+ "useCase": "Contributor payments"
+ }
+ ]
+ },
+ {
+ "heading": "Support Tools",
+ "description": "Help community members.",
+ "items": [
+ {
+ "name": "Intercom",
+ "description": "Customer support with chat and help center. Used by production teams across the ecosystem.",
+ "category": "Support",
+ "url": "https://www.intercom.com",
+ "pricing": "Paid",
+ "useCase": "Help desk"
+ },
+ {
+ "name": "Zendesk",
+ "description": "Enterprise support ticketing system. Worth evaluating for your workflow.",
+ "category": "Support",
+ "url": "https://www.zendesk.com",
+ "pricing": "Paid",
+ "useCase": "Ticket management"
+ },
+ {
+ "name": "Discord Ticket Bot",
+ "description": "Create support tickets within Discord. Worth evaluating for your workflow.",
+ "category": "Support",
+ "url": "https://tickettool.xyz",
+ "pricing": "Free + Premium",
+ "useCase": "Discord support"
+ },
+ {
+ "name": "GitBook",
+ "description": "Documentation platform for help articles. Used by production teams across the ecosystem.",
+ "category": "Documentation",
+ "url": "https://www.gitbook.com",
+ "pricing": "Free tier + Paid",
+ "useCase": "Help documentation"
+ },
+ {
+ "name": "FAQ Bot",
+ "description": "Auto-answer common questions in Discord. Used by production teams across the ecosystem.",
+ "category": "Support",
+ "url": "https://carl.gg",
+ "pricing": "Free + Premium",
+ "useCase": "FAQ automation"
+ },
+ {
+ "name": "HelpDocs",
+ "description": "Simple knowledge base for community docs. Used by production teams across the ecosystem.",
+ "category": "Documentation",
+ "url": "https://www.helpdocs.io",
+ "pricing": "Paid",
+ "useCase": "Knowledge base"
+ }
+ ]
+ },
+ {
+ "heading": "Analytics and Insights (Continued)",
+ "description": "Measure community health and growth.",
+ "items": [
+ {
+ "name": "SocialBlade",
+ "description": "Track social media growth over time. Worth evaluating for your workflow.",
+ "category": "Analytics",
+ "url": "https://socialblade.com",
+ "pricing": "Free + Paid",
+ "useCase": "Growth tracking"
+ },
+ {
+ "name": "Kaito",
+ "description": "AI-powered crypto social media analytics. Provides dashboards and alerting for production use.",
+ "category": "Analytics",
+ "url": "https://www.kaito.ai",
+ "pricing": "Paid",
+ "useCase": "Sentiment tracking"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Guild.xyz is more flexible than Collab.Land for complex role requirements."
+ },
+ {
+ "tip": "Rotate moderators across time zones for 24/7 coverage."
+ },
+ {
+ "tip": "Use quests strategically. Too many creates fatigue."
+ },
+ {
+ "tip": "Build a contributor program with clear levels and rewards."
+ },
+ {
+ "tip": "Document everything. Community knowledge should not be in one person's head."
+ }
+ ]
+ }
 }

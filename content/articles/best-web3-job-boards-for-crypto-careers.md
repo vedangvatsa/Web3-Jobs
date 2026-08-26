@@ -1,9 +1,9 @@
 ---
 title: 15 Best Web3 Job Boards in 2026 | Find $100K+ Crypto Careers
 description: >-
-  Discover the top 15 Web3 job boards for 2026. Find $100K+ remote blockchain,
-  DeFi, NFT, and DAO jobs. Expert-curated list of platforms where top crypto
-  companies actually hire.
+ Discover the top 15 Web3 job boards for 2026. Find $100K+ remote blockchain,
+ DeFi, NFT, and DAO jobs. Expert-curated list of platforms where top crypto
+ companies actually hire.
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 category: Career Guides
 data-ai-hint: job search

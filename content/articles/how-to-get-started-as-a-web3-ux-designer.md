@@ -3,9 +3,9 @@ title: How to Get Started as a Web3 UX Designer
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: web3 ux design
 description: >-
-  A career guide for UX/UI designers looking to enter the Web3 space. Learn the
-  unique challenges of designing for dApps and how to build a standout
-  portfolio.
+ A career guide for UX/UI designers looking to enter the Web3 space. Learn the
+ unique challenges of designing for dApps and how to build a standout
+ portfolio.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"
