@@ -3,8 +3,8 @@ title: How to Ask for Raise at Work
 image: 'https://picsum.photos/seed/ask-for-raise/1200/630'
 data-ai-hint: upward graph arrow
 description: >-
-  A practical guide on how to successfully ask for a raise. Learn when to ask,
-  how to prepare, and what to say to get the pay increase you deserve.
+ A practical guide on how to successfully ask for a raise. Learn when to ask,
+ how to prepare, and what to say to get the pay increase you deserve.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,9 +1,9 @@
 ---
 title: Business Writing Tips for Professionals
 description: >-
-  improve your career with effective business writing. This guide covers
-  essential tips for writing clear, concise, and impactful emails, reports, and
-  proposals.
+ improve your career with effective business writing. This guide covers
+ essential tips for writing clear, concise, and impactful emails, reports, and
+ proposals.
 image: 'https://picsum.photos/seed/writing/1200/630'
 category: Career Guides
 data-ai-hint: professional writing

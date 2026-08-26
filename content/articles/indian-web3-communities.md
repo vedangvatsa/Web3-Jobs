@@ -4,8 +4,8 @@ slug: indian-web3-communities
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: indian community web3
 description: >-
-  Explore India's booming Web3 scene. This guide covers the rapid growth, key
-  investment trends, and provides a full list of top Indian Web3.
+ Explore India's booming Web3 scene. This guide covers the rapid growth, key
+ investment trends, and provides a full list of top Indian Web3.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

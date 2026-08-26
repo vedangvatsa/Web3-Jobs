@@ -6,15 +6,8 @@ import { Card, CardContent, CardDescription, CardHeader, CardTitle, CardFooter }
 import { Progress } from '@/components/ui/progress';
 import { quizData, getResult } from '@/lib/quiz';
 import type { QuizResult } from '@/types';
-import { BrainCircuit, Lightbulb, BarChart, Users, Zap, Twitter } from 'lucide-react';
+import { Twitter } from 'lucide-react';
 import { CtaBanner } from '@/components/cta-banner';
-
-const icons: { [key: string]: React.ElementType } = {
-  builder: Zap,
-  strategist: Lightbulb,
-  analyst: BarChart,
-  weaver: Users,
-};
 
 export function Web3CareerQuiz() {
   const [currentQuestionIndex, setCurrentQuestionIndex] = React.useState(0);
@@ -115,8 +108,8 @@ export function Web3CareerQuiz() {
       <Card className="shadow-sm">
         <CardHeader>
           <div className="flex items-center justify-between mb-2">
-            <CardTitle className="text-2xl font-bold flex items-center gap-2">
-              <BrainCircuit className="text-primary" /> Archetype Assessment
+            <CardTitle className="text-2xl font-bold text-foreground">
+              Archetype Assessment
             </CardTitle>
             <span className="text-sm font-medium text-muted-foreground">
               {currentQuestionIndex + 1} / {totalQuestions}

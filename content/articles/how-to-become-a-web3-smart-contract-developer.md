@@ -3,9 +3,9 @@ title: How to Become a Smart Contract Developer
 image: /images/tommy-texter-T42j_xLOqw0-unsplash.jpg
 data-ai-hint: smart contract developer
 description: >-
-  Your complete guide to becoming a smart contract developer. Learn the
-  essential skills, languages, tools, and projects you need to build a
-  successful.
+ Your complete guide to becoming a smart contract developer. Learn the
+ essential skills, languages, tools, and projects you need to build a
+ successful.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

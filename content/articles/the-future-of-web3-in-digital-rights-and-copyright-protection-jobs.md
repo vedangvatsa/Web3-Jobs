@@ -3,8 +3,8 @@ title: The Future of Web3 in Digital Rights and Copyright Protection Jobs
 image: /images/umberto-jXd2FSvcRr8-unsplash.jpg
 data-ai-hint: digital rights copyright
 description: >-
-  An exploration of how Web3 technologies are creating new solutions for digital
-  rights management and copyright protection, and the career opportunities.
+ An exploration of how Web3 technologies are creating new solutions for digital
+ rights management and copyright protection, and the career opportunities.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,8 +1,8 @@
 ---
 title: 'Agency vs. In-House: Decoding the Key Differences for Your Career'
 description: >-
-  Choosing between an agency and an in-house role is a critical career decision.
-  This guide breaks down the differences in work, culture, skill development.
+ Choosing between an agency and an in-house role is a critical career decision.
+ This guide breaks down the differences in work, culture, skill development.
 image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: two doors
 category: Career Guides

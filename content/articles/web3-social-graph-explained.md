@@ -3,8 +3,8 @@ title: 'The Web3 Social Graph: Owning Your Online Identity'
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: social network graph
 description: >-
-  A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and
-  Lens are creating a decentralized foundation for social media where users.
+ A deep dive into the Web3 Social Graph. Learn how protocols like Farcaster and
+ Lens are creating a decentralized foundation for social media where users.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

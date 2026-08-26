@@ -3,8 +3,8 @@ title: How Crypto Shilling Impacts Web3 Trust
 image: /images/thisisengineering-t4qI2IDcL5s-unsplash.jpg
 data-ai-hint: trust handshake crypto
 description: >-
-  An analysis of 'shilling' in the crypto space and its corrosive effect on user
-  trust. Learn how undisclosed promotions and hype cycles undermine the.
+ An analysis of 'shilling' in the crypto space and its corrosive effect on user
+ trust. Learn how undisclosed promotions and hype cycles undermine the.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

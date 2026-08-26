@@ -3,9 +3,9 @@ title: 'Web3 Jobs in Tunis: A Guide to Tunisia''s Tech-Savvy Talent Hub'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: tunis tunisia city
 description: >-
-  A career guide to the Web3 job market in Tunis. Discover how Tunisia's
-  capital, with its deep pool of engineering talent and focus on FinTech, is
-  becoming.
+ A career guide to the Web3 job market in Tunis. Discover how Tunisia's
+ capital, with its deep pool of engineering talent and focus on FinTech, is
+ becoming.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

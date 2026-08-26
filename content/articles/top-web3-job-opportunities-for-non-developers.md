@@ -3,8 +3,8 @@ title: Top Web3 Job Opportunities for Non-Developers
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: team meeting collaboration
 description: >-
-  You don't need to code to thrive in Web3. This guide breaks down the most
-  in-demand non-technical roles, the skills you need, and how to use your.
+ You don't need to code to thrive in Web3. This guide breaks down the most
+ in-demand non-technical roles, the skills you need, and how to use your.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

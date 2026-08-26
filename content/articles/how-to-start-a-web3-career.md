@@ -3,9 +3,9 @@ title: 'How to Start a Career in Web3: A Beginner''s Guide'
 image: /images/thisisengineering-64YrPKiguAE-unsplash.jpg
 data-ai-hint: career journey start
 description: >-
-  Your step-by-step guide to launching a career in Web3. This guide is for
-  absolute beginners, covering the foundational knowledge and practical first
-  steps.
+ Your step-by-step guide to launching a career in Web3. This guide is for
+ absolute beginners, covering the foundational knowledge and practical first
+ steps.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ name: Permian Labs
 website: 'https://permianlabs.xyz'
 category: Other
 description: >-
-  Permian Labs focuses on building decentralized applications and
-  infrastructure.
+ Permian Labs focuses on building decentralized applications and
+ infrastructure.
 ---
 
 Permian Labs develops decentralized applications and infrastructure for the Web3 ecosystem. They emphasize creating tools that enhance user experience and accessibility in blockchain technology. The company is currently hiring for a GTM Engineer, indicating a focus on growth and market strategy.

@@ -1,11 +1,11 @@
 ---
 title: 'Vitalik Buterin on Web3: A Vision for a Decentralized Future'
 description: >-
-  Explore the specific perspectives of Ethereum co-founder Vitalik Buterin on
-  the evolution of Web3, his hopes for its potential, and his concerns about
-  its.
+ Explore the specific perspectives of Ethereum co-founder Vitalik Buterin on
+ the evolution of Web3, his hopes for its potential, and his concerns about
+ its.
 image: >-
-  https://images.unsplash.com/photo-1644925155331-cda18e17d99f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aXRhbGlrfGVufDB8fHx8MTc2MTQyMjYzNnww&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1644925155331-cda18e17d99f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2aXRhbGlrfGVufDB8fHx8MTc2MTQyMjYzNnww&ixlib=rb-4.1.0&q=80&w=1080
 category: Industry Insights
 data-ai-hint: futuristic man
 publishedDate: '2026-03-11'

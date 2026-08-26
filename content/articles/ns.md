@@ -1,11 +1,11 @@
 ---
 title: 'Network School: A Startup Society for Builders'
 image: >-
-  https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080
+ https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080
 description: >-
-  Network School is a startup society on an island off Singapore. Co-living,
-  coworking, and community for remote workers, founders, and creators. From
-  $1,500/month.
+ Network School is a startup society on an island off Singapore. Co-living,
+ coworking, and community for remote workers, founders, and creators. From
+ $1,500/month.
 category: Career Guides
 data-ai-hint: startup society co-living coworking
 publishedDate: '2026-03-11'

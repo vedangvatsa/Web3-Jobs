@@ -3,8 +3,8 @@ title: How to Use ChatGPT for Beginners Guide
 image: 'https://picsum.photos/seed/chatgpt-guide/1200/630'
 data-ai-hint: robot human interaction
 description: >-
-  A simple, practical guide to getting started with ChatGPT. Learn how to ask
-  the right questions and use it effectively for work, learning, and creativity.
+ A simple, practical guide to getting started with ChatGPT. Learn how to ask
+ the right questions and use it effectively for work, learning, and creativity.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,9 +1,9 @@
 ---
 title: How to Find a Mentor at a New Company
 description: >-
-  A good mentor can be invaluable for your career growth, especially at a new
-  company. This guide provides a step-by-step approach to finding and building
-  a.
+ A good mentor can be invaluable for your career growth, especially at a new
+ company. This guide provides a step-by-step approach to finding and building
+ a.
 category: Career Guides
 image: 'https://picsum.photos/seed/308/1200/630'
 data-ai-hint: finding mentor

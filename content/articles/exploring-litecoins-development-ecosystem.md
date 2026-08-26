@@ -2,9 +2,9 @@
 title: Exploring Litecoin's Development Ecosystem in Web3
 image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
 description: >-
-  A deep dive into Litecoin's current developer activity, examining its
-  relevance, recent updates, and how it compares to other blockchains in the
-  Web3 era.
+ A deep dive into Litecoin's current developer activity, examining its
+ relevance, recent updates, and how it compares to other blockchains in the
+ Web3 era.
 category: Technology Deep Dives
 data-ai-hint: blockchain technology
 publishedDate: '2026-03-11'

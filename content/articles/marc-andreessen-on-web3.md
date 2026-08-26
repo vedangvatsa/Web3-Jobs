@@ -1,8 +1,8 @@
 ---
 title: 'Marc Andreessen on Web3: The Internet''s Next Evolution'
 description: >-
-  Explore the perspective of Marc Andreessen, co-founder of Andreessen Horowitz
-  (a16z), on why he believes Web3 represents the next fundamental.
+ Explore the perspective of Marc Andreessen, co-founder of Andreessen Horowitz
+ (a16z), on why he believes Web3 represents the next fundamental.
 image: 'https://picsum.photos/seed/maweb3/1200/630'
 category: Industry Insights
 data-ai-hint: man portrait

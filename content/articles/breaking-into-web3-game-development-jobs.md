@@ -3,9 +3,9 @@ title: Breaking Into Web3 Game Development Jobs
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: web3 game development
 description: >-
-  A guide for game developers looking to enter the Web3 space. Learn about the
-  unique challenges of GameFi, from player-owned economies to on-chain
-  mechanics.
+ A guide for game developers looking to enter the Web3 space. Learn about the
+ unique challenges of GameFi, from player-owned economies to on-chain
+ mechanics.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

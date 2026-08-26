@@ -3,8 +3,8 @@ title: How to Be a Good Community Moderator
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: team meeting collaboration
 description: >-
-  A deep dive into the most important non-technical role in Web3. Learn what a
-  community manager does, the skills they need, and how to build a career as.
+ A deep dive into the most important non-technical role in Web3. Learn what a
+ community manager does, the skills they need, and how to build a career as.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

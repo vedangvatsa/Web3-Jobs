@@ -3,9 +3,9 @@ title: 'Web3 Jobs in Antananarivo: A Guide to Madagascar''s Tech Scene'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: antananarivo madagascar city
 description: >-
-  A career guide to the emerging Web3 job market in Antananarivo. Explore how
-  Madagascar's capital, with its unique biodiversity and growing tech talent,
-  is.
+ A career guide to the emerging Web3 job market in Antananarivo. Explore how
+ Madagascar's capital, with its unique biodiversity and growing tech talent,
+ is.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

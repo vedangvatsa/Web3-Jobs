@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Bangui: A Guide to the Central African Republic''s Crypto F
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: bangui central african republic city
 description: >-
-  A career guide to the Web3 job market in Bangui. Explore the unique but
-  challenging crypto space in the Central African Republic following its.
+ A career guide to the Web3 job market in Bangui. Explore the unique but
+ challenging crypto space in the Central African Republic following its.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

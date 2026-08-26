@@ -3,8 +3,8 @@ title: Exploring Web3 Careers in Decentralized Autonomous Finance (DeFi)
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: decentralized finance defi
 description: >-
-  A deep dive into the career space of Decentralized Finance (DeFi). Explore the
-  key roles, from smart contract engineering to quantitative analysis.
+ A deep dive into the career space of Decentralized Finance (DeFi). Explore the
+ key roles, from smart contract engineering to quantitative analysis.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

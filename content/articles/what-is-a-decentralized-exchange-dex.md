@@ -1,9 +1,9 @@
 ---
 title: What is a Decentralized Exchange (DEX)
 description: >-
-  Explore how decentralized exchanges (DEXs) are changing crypto trading by
-  enabling peer-to-peer transactions without intermediaries, and learn how they
-  differ from centralized exchanges.
+ Explore how decentralized exchanges (DEXs) are changing crypto trading by
+ enabling peer-to-peer transactions without intermediaries, and learn how they
+ differ from centralized exchanges.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: Educational
 data-ai-hint: cryptocurrency exchange

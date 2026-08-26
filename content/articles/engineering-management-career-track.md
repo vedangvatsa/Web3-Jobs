@@ -1,8 +1,8 @@
 ---
 title: 'The Engineering Management Career Track: A Detailed Guide'
 description: >-
-  Work through the transition from IC to manager, managing skill shifts,
-  communication, and team dynamics.
+ Work through the transition from IC to manager, managing skill shifts,
+ communication, and team dynamics.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: flowchart diagram
 category: Career Guides

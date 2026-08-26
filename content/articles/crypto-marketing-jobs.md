@@ -3,9 +3,9 @@ title: 'Crypto Marketing Jobs: How to Build a Career Promoting Web3 Projects'
 image: /images/surface-F4ottWBnCpM-unsplash.jpg
 data-ai-hint: crypto marketing growth
 description: >-
-  The complete guide to landing a marketing job in Web3. Learn about the
-  different roles, from meme-lord to content strategist, and the skills you need
-  to.
+ The complete guide to landing a marketing job in Web3. Learn about the
+ different roles, from meme-lord to content strategist, and the skills you need
+ to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

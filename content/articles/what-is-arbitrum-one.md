@@ -3,8 +3,8 @@ title: What is Arbitrum One? A Guide to the Leading L2
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: arbitrum blockchain
 description: >-
-  A deep dive into Arbitrum One, a leading Layer 2 scaling solution for Ethereum
-  that uses Optimistic Rollup technology to provide fast and cheap transactions.
+ A deep dive into Arbitrum One, a leading Layer 2 scaling solution for Ethereum
+ that uses Optimistic Rollup technology to provide fast and cheap transactions.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: What is Shilling in the Crypto World?
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: person talking crowd
 description: >-
-  A guide to understanding 'shilling,' the practice of enthusiastically
-  promoting a cryptocurrency or NFT project, and how to spot it.
+ A guide to understanding 'shilling,' the practice of enthusiastically
+ promoting a cryptocurrency or NFT project, and how to spot it.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

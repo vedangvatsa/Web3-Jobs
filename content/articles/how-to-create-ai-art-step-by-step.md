@@ -3,8 +3,8 @@ title: How to Create AI Art Step by Step
 image: 'https://picsum.photos/seed/ai-art/1200/630'
 data-ai-hint: robot painting canvas
 description: >-
-  A beginner-friendly guide to making your own AI-generated art. Learn how
-  text-to-image models work and the simple steps to create stunning images with.
+ A beginner-friendly guide to making your own AI-generated art. Learn how
+ text-to-image models work and the simple steps to create stunning images with.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

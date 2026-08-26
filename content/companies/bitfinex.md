@@ -5,8 +5,8 @@ founded: 2012
 category: Exchange
 headquarters: Hong Kong
 description: >-
-  Professional cryptocurrency exchange and trading platform operated by iFinex
-  Inc
+ Professional cryptocurrency exchange and trading platform operated by iFinex
+ Inc
 ---
 
 Professional cryptocurrency exchange and trading platform operated by iFinex Inc.

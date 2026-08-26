@@ -1,8 +1,8 @@
 ---
 title: How to Follow Up After a Job Interview
 description: >-
-  The interview isn't over when you walk out the door. A strategic follow-up can
-  make all the difference. Learn when and how to follow up effectively.
+ The interview isn't over when you walk out the door. A strategic follow-up can
+ make all the difference. Learn when and how to follow up effectively.
 image: 'https://picsum.photos/seed/305/1200/630'
 data-ai-hint: job interview
 category: Career Guides

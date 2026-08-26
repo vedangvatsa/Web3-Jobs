@@ -3,8 +3,8 @@ title: Exploring Cosmos SDK for Web3 Development
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: cosmos space galaxy
 description: >-
-  A developer's guide to the Cosmos SDK. Learn how this powerful framework
-  enables the creation of sovereign, interoperable blockchains and powers the.
+ A developer's guide to the Cosmos SDK. Learn how this powerful framework
+ enables the creation of sovereign, interoperable blockchains and powers the.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

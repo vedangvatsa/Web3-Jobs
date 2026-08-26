@@ -3,8 +3,8 @@ title: What is a Token Swap in Cryptocurrency
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: token swap crypto
 description: >-
-  A token swap, or atomic swap, is the process of exchanging one cryptocurrency
-  for another without the need for a centralized intermediary. It's a.
+ A token swap, or atomic swap, is the process of exchanging one cryptocurrency
+ for another without the need for a centralized intermediary. It's a.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

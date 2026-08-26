@@ -1,8 +1,8 @@
 ---
 title: What is a Balancer Weighted Pool?
 description: >-
-  A full guide to Balancer's Weighted Pools, a powerful DeFi primitive that
-  allows for multi-asset liquidity pools with custom, unequal weightings.
+ A full guide to Balancer's Weighted Pools, a powerful DeFi primitive that
+ allows for multi-asset liquidity pools with custom, unequal weightings.
 category: Educational
 image: 'https://picsum.photos/seed/balancer/1200/630'
 data-ai-hint: balancer weighted pool

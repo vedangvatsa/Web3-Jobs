@@ -3,8 +3,8 @@ title: How to Get Started as a Web3 NFT Marketplace Developer
 image: /images/maximalfocus-0n4jhVGS4zs-unsplash.jpg
 data-ai-hint: nft marketplace developer
 description: >-
-  A guide for developers on building a career in the NFT space. Learn the key
-  skills needed to build NFT marketplaces, from smart contract standards to.
+ A guide for developers on building a career in the NFT space. Learn the key
+ skills needed to build NFT marketplaces, from smart contract standards to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

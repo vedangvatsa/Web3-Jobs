@@ -3,8 +3,8 @@ title: Virtual Interview Tips and Tricks
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: laptop video call
 description: >-
-  Master your next virtual interview with these essential tips and tricks. From
-  setting up your tech to making a great impression, we've got you covered.
+ Master your next virtual interview with these essential tips and tricks. From
+ setting up your tech to making a great impression, we've got you covered.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

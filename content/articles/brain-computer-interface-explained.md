@@ -1,8 +1,8 @@
 ---
 title: Brain Computer Interface Explained
 description: >-
-  An introduction to Brain-Computer Interfaces (BCIs), exploring how they work,
-  their life-changing applications in medicine, and their potential future uses.
+ An introduction to Brain-Computer Interfaces (BCIs), exploring how they work,
+ their life-changing applications in medicine, and their potential future uses.
 category: Educational
 image: 'https://picsum.photos/seed/bci/1200/630'
 data-ai-hint: brain interface

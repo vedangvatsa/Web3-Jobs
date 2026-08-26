@@ -1,9 +1,9 @@
 ---
 title: Stakeholder Management Complete Guide
 description: >-
-  A full guide to identifying, analyzing, and engaging stakeholders to ensure
-  your projects succeed. Learn practical strategies for effective communication
-  and relationship building.
+ A full guide to identifying, analyzing, and engaging stakeholders to ensure
+ your projects succeed. Learn practical strategies for effective communication
+ and relationship building.
 image: 'https://picsum.photos/seed/stakeholder/1200/630'
 category: Career Guides
 data-ai-hint: team business

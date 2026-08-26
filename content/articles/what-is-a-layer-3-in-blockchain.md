@@ -1,8 +1,8 @@
 ---
 title: What is a Layer 3 in Blockchain?
 description: >-
-  A look at Layer 3 solutions, which build on top of Layer 2s to offer even
-  greater scalability and customization for specific applications.
+ A look at Layer 3 solutions, which build on top of Layer 2s to offer even
+ greater scalability and customization for specific applications.
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 category: Educational
 data-ai-hint: layer network

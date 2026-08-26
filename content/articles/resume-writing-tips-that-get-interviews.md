@@ -3,8 +3,8 @@ title: Resume Writing Tips That Get Interviews
 image: 'https://picsum.photos/seed/resume-tips/1200/630'
 data-ai-hint: resume paper interview
 description: >-
-  Learn advanced resume writing tips that will help you stand out and land more
-  interviews. Go beyond the basics and craft a truly compelling resume.
+ Learn advanced resume writing tips that will help you stand out and land more
+ interviews. Go beyond the basics and craft a truly compelling resume.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

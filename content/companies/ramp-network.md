@@ -3,8 +3,8 @@ name: Ramp Network
 website: 'https://ramp.network'
 category: Crypto Payments
 description: >-
-  Ramp Network provides fiat-to-crypto payment solutions for businesses and
-  users.
+ Ramp Network provides fiat-to-crypto payment solutions for businesses and
+ users.
 ---
 
 Ramp Network offers a platform that enables users to buy cryptocurrencies using traditional payment methods. The company focuses on simplifying the process of purchasing digital assets for both individuals and businesses. Ramp's technology integrates with various applications, allowing users to access crypto markets easily.

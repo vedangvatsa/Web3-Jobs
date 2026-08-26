@@ -3,8 +3,8 @@ name: CoinSwitch
 website: 'https://coinswitch.co'
 category: Cryptocurrency Exchange
 description: >-
-  CoinSwitch is a cryptocurrency exchange platform for trading various digital
-  assets.
+ CoinSwitch is a cryptocurrency exchange platform for trading various digital
+ assets.
 ---
 
 CoinSwitch offers a platform that allows users to trade a wide range of cryptocurrencies. It aggregates liquidity from multiple exchanges to provide users with the best rates for their trades. The platform supports various cryptocurrencies, making it accessible for both novice and experienced traders.

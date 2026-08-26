@@ -3,8 +3,8 @@ title: Understanding Web3 Developer Career Paths
 image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
 data-ai-hint: developer career path
 description: >-
-  A guide to the various career paths for developers in Web3, from smart
-  contract engineering to protocol development.
+ A guide to the various career paths for developers in Web3, from smart
+ contract engineering to protocol development.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

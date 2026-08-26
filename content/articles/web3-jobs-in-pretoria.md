@@ -3,8 +3,8 @@ title: 'Web3 Jobs in Pretoria: A Guide to South Africa''s GovTech Hub'
 image: /images/africa-web3-jobs.jpg
 data-ai-hint: pretoria south africa city
 description: >-
-  A career guide to the Web3 job market in Pretoria. Explore how South Africa's
-  administrative capital is becoming a center for GovTech, enterprise.
+ A career guide to the Web3 job market in Pretoria. Explore how South Africa's
+ administrative capital is becoming a center for GovTech, enterprise.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

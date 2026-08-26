@@ -2,9 +2,9 @@
 title: 'The Slow Path to Web3 Mass Adoption: Why Isn''t Everyone Here Yet?'
 image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
 description: >-
-  An analysis of the key barriers-from user experience and scalability to
-  regulation and perception-that are hindering the mass adoption of Web3
-  technologies.
+ An analysis of the key barriers-from user experience and scalability to
+ regulation and perception-that are hindering the mass adoption of Web3
+ technologies.
 category: Industry Insights
 data-ai-hint: empty road
 publishedDate: '2026-03-11'

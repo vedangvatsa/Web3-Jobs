@@ -3,8 +3,8 @@ title: How to Build a Public On-Chain Developer Brand
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: developer brand building
 description: >-
-  In Web3, your reputation is your resume. This guide provides a step-by-step
-  framework for developers to build a powerful public brand using on-chain.
+ In Web3, your reputation is your resume. This guide provides a step-by-step
+ framework for developers to build a powerful public brand using on-chain.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

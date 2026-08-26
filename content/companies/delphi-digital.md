@@ -3,8 +3,8 @@ name: Delphi Digital
 website: 'https://www.delphidigital.io'
 category: Other
 description: >-
-  Delphi Digital provides research and consulting services in the digital asset
-  space.
+ Delphi Digital provides research and consulting services in the digital asset
+ space.
 ---
 
 Delphi Digital specializes in research, consulting, and investment strategies for the digital asset industry. The company offers insights into market trends, investment opportunities, and the broader cryptocurrency ecosystem. Their team consists of professionals with backgrounds in finance, technology, and research.

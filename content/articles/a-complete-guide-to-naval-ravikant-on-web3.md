@@ -1,8 +1,8 @@
 ---
 title: What does Naval Ravikant think about Web3
 description: >-
-  A deep dive into the philosophy of Naval Ravikant, a celebrated entrepreneur,
-  investor, and philosopher, on Web3. This guide covers his views on.
+ A deep dive into the philosophy of Naval Ravikant, a celebrated entrepreneur,
+ investor, and philosopher, on Web3. This guide covers his views on.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man thinking

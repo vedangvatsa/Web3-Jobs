@@ -3,8 +3,8 @@ title: What is DeSci? A Guide to Decentralized Science
 image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
 data-ai-hint: decentralized science
 description: >-
-  Discover how blockchain is decentralizing scientific research and creating new
-  funding models.
+ Discover how blockchain is decentralizing scientific research and creating new
+ funding models.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

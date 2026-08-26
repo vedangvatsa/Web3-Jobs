@@ -3,8 +3,8 @@ title: How to Pass a Solidity Technical Interview
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: solidity job interview
 description: >-
-  A full guide to acing your Solidity technical interview, covering common
-  questions, live coding challenges, security concepts, and how to.
+ A full guide to acing your Solidity technical interview, covering common
+ questions, live coding challenges, security concepts, and how to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

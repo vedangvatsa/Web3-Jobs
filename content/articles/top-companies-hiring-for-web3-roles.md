@@ -3,8 +3,8 @@ title: Top Companies Hiring for Web3 Roles in 2026
 image: /images/vishnu-mohanan-pfR18JNEMv8-unsplash.jpg
 data-ai-hint: companies hiring people
 description: >-
-  A look at the top companies and protocols actively hiring in the Web3 space.
-  From DeFi giants to NFT marketplaces, discover where the best career.
+ A look at the top companies and protocols actively hiring in the Web3 space.
+ From DeFi giants to NFT marketplaces, discover where the best career.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

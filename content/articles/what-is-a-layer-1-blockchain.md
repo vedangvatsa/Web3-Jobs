@@ -3,9 +3,9 @@ title: What is a Layer 1 Blockchain? The Foundation of Web3
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: blockchain network foundation
 description: >-
-  A simple guide to understanding Layer 1 (L1) blockchains, the foundational
-  networks like Bitcoin and Ethereum that form the base layer of the Web3
-  ecosystem.
+ A simple guide to understanding Layer 1 (L1) blockchains, the foundational
+ networks like Bitcoin and Ethereum that form the base layer of the Web3
+ ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

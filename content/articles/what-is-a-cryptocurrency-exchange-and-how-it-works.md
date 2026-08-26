@@ -3,8 +3,8 @@ title: What is a Cryptocurrency Exchange and How It Works
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: crypto exchange
 description: >-
-  A cryptocurrency exchange is an online marketplace where you can buy, sell,
-  and trade cryptocurrencies. It's the most common gateway for newcomers to.
+ A cryptocurrency exchange is an online marketplace where you can buy, sell,
+ and trade cryptocurrencies. It's the most common gateway for newcomers to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

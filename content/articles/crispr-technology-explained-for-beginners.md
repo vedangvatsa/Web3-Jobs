@@ -1,8 +1,8 @@
 ---
 title: CRISPR Technology Explained for Beginners
 description: >-
-  A simple and clear explanation of CRISPR, the new gene-editing tool, covering
-  how it works, its applications, and the ethical questions it raises.
+ A simple and clear explanation of CRISPR, the new gene-editing tool, covering
+ how it works, its applications, and the ethical questions it raises.
 category: Educational
 image: 'https://picsum.photos/seed/crispr/1200/630'
 data-ai-hint: dna editing

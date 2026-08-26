@@ -3,8 +3,8 @@ title: When and How Often Should You Update Your Resume
 image: 'https://picsum.photos/seed/career2/1200/630'
 data-ai-hint: resume document update
 description: >-
-  Keeping your resume updated is important for career readiness. Learn the key
-  moments to refresh your resume and what information to add to stay ahead.
+ Keeping your resume updated is important for career readiness. Learn the key
+ moments to refresh your resume and what information to add to stay ahead.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

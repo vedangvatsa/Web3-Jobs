@@ -3,9 +3,9 @@ title: How Web3 Can Improve Online Privacy and Security
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: online privacy security
 description: >-
-  Explore how Web3 technologies like decentralized identity, zero-knowledge
-  proofs, and self-custodial wallets are building a more private and secure
-  internet.
+ Explore how Web3 technologies like decentralized identity, zero-knowledge
+ proofs, and self-custodial wallets are building a more private and secure
+ internet.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

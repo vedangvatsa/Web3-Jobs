@@ -1,8 +1,8 @@
 ---
 title: What is Haptic Feedback Technology
 description: >-
-  An exploration of haptic feedback technology, explaining how it uses the sense
-  of touch to create more immersive and intuitive digital experiences.
+ An exploration of haptic feedback technology, explaining how it uses the sense
+ of touch to create more immersive and intuitive digital experiences.
 category: Educational
 image: 'https://picsum.photos/seed/haptic/1200/630'
 data-ai-hint: haptic touch

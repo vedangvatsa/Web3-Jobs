@@ -3,8 +3,8 @@ name: Walrus Foundation
 website: 'https://walrus.xyz'
 category: Other
 description: >-
-  Non-profit organization focused on supporting open-source projects in the
-  blockchain space.
+ Non-profit organization focused on supporting open-source projects in the
+ blockchain space.
 ---
 
 Walrus Foundation is a non-profit organization that supports open-source projects related to blockchain technology. The foundation aims to build collaboration and innovation within the blockchain community. They provide resources and funding to developers and projects that align with their mission of promoting open-source solutions.

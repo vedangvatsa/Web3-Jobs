@@ -3,8 +3,8 @@ title: Web3 Real Estate and Tokenized Assets
 image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
 data-ai-hint: real estate tokenization
 description: >-
-  A deep dive into the tokenization of Real-World Assets (RWAs), exploring how
-  Web3 is bringing traditional assets like real estate and private credit onto.
+ A deep dive into the tokenization of Real-World Assets (RWAs), exploring how
+ Web3 is bringing traditional assets like real estate and private credit onto.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

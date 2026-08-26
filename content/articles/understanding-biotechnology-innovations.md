@@ -1,9 +1,9 @@
 ---
 title: Understanding Biotechnology Innovations
 description: >-
-  A look into the world of biotechnology, from gene editing to synthetic
-  biology, and how these innovations are shaping medicine, agriculture, and
-  industry.
+ A look into the world of biotechnology, from gene editing to synthetic
+ biology, and how these innovations are shaping medicine, agriculture, and
+ industry.
 category: Educational
 image: 'https://picsum.photos/seed/biotech/1200/630'
 data-ai-hint: dna science

@@ -3,8 +3,8 @@ title: Blockchain Networking Engineer Career Guide
 image: /images/philipp-katzenberger-iIJrUoeRoCQ-unsplash.jpg
 data-ai-hint: blockchain network nodes
 description: >-
-  A career guide for networking engineers looking to specialize in Web3. Learn
-  about the unique challenges of peer-to-peer networking, node communication.
+ A career guide for networking engineers looking to specialize in Web3. Learn
+ about the unique challenges of peer-to-peer networking, node communication.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

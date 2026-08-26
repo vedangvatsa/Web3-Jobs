@@ -1,9 +1,9 @@
 ---
 title: What is Neuromorphic Computing
 description: >-
-  An introduction to neuromorphic computing, a field of computer science that
-  aims to build processors that mimic the structure and function of the human
-  brain.
+ An introduction to neuromorphic computing, a field of computer science that
+ aims to build processors that mimic the structure and function of the human
+ brain.
 category: Educational
 image: 'https://picsum.photos/seed/neuromorphic/1200/630'
 data-ai-hint: brain chip

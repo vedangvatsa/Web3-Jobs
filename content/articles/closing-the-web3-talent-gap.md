@@ -3,8 +3,8 @@ title: Closing the Web3 Talent Gap
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: team hiring collaboration
 description: >-
-  An analysis of the Web3 talent shortage. We explore why the demand for skilled
-  professionals outpaces supply and what the industry can do to close the gap.
+ An analysis of the Web3 talent shortage. We explore why the demand for skilled
+ professionals outpaces supply and what the industry can do to close the gap.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

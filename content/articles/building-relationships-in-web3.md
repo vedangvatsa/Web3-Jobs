@@ -1,8 +1,8 @@
 ---
 title: Building Relationships in Web3 for Career Growth
 description: >-
-  Learn how to build meaningful professional relationships in Web3 communities,
-  from networking strategies to maintaining long-term connections that support.
+ Learn how to build meaningful professional relationships in Web3 communities,
+ from networking strategies to maintaining long-term connections that support.
 category: Career Guides
 image: 'https://picsum.photos/seed/networking/1200/630'
 publishedDate: '2026-03-11'

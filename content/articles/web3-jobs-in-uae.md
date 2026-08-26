@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in the UAE: Middle East''s Crypto Hub'
 image: >-
-  https://images.unsplash.com/photo-1518684079-3c830dcef090?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1YWV8ZW58MHx8fHwxNzE2NDAxOTM3fDA&lib=rb-4.0.3&q=80&w=1080
+ https://images.unsplash.com/photo-1518684079-3c830dcef090?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1YWV8ZW58MHx8fHwxNzE2NDAxOTM3fDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: uae city skyline
 description: >-
-  Your career guide to the UAE's Web3 job market. Learn why Dubai has become a
-  global magnet for crypto talent, the roles in demand, and the benefits of a.
+ Your career guide to the UAE's Web3 job market. Learn why Dubai has become a
+ global magnet for crypto talent, the roles in demand, and the benefits of a.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

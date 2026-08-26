@@ -3,8 +3,8 @@ name: Animoca Brands
 website: 'https://animocabrands.com'
 category: Gaming/Metaverse
 description: >-
-  Animoca Brands develops and publishes blockchain-based games and digital
-  entertainment.
+ Animoca Brands develops and publishes blockchain-based games and digital
+ entertainment.
 ---
 
 Animoca Brands is known for its work in the gaming and metaverse sectors, focusing on blockchain technology. The company has developed popular titles such as "The Sandbox" and "F1 Delta Time." Animoca Brands aims to provide players with true ownership of in-game assets through non-fungible tokens (NFTs).

@@ -3,9 +3,9 @@ title: How to Contribute to a DAO and Get Paid
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: dao crypto tokens
 description: >-
-  A practical guide to starting your career in a DAO. Learn how to find the
-  right DAO, make your first contribution, take on bounties, and get paid for
-  your.
+ A practical guide to starting your career in a DAO. Learn how to find the
+ right DAO, make your first contribution, take on bounties, and get paid for
+ your.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

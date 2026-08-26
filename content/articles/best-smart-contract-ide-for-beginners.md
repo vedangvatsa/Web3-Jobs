@@ -3,8 +3,8 @@ title: Best Smart Contract IDE for Beginners in 2026
 image: 'https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1080'
 data-ai-hint: smart contract IDE beginner development tools
 description: >-
-  The best IDEs and tools for writing smart contracts as a beginner. Compare
-  Remix, Hardhat, Foundry, and VS Code extensions with setup guides.
+ The best IDEs and tools for writing smart contracts as a beginner. Compare
+ Remix, Hardhat, Foundry, and VS Code extensions with setup guides.
 category: Technology Deep Dives
 slug: best-smart-contract-ide-for-beginners
 imageAlt: Smart contract development environment on a computer screen

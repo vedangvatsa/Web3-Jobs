@@ -1,265 +1,265 @@
 {
-  "meta": {
-    "contentType": "checklists",
-    "topic": "security",
-    "niche": "web3-product-manager",
-    "generatedAt": "2026-05-17T05:30:09.446Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "Web3 Product Security Checklist",
-    "description": "Security checklist for Web3 product managers covering product requirements, risk management, launch preparation, and user protection.",
-    "keywords": [
-      "web3-product-manager",
-      "security",
-      "checklist",
-      "product",
-      "risk"
-    ],
-    "canonicalSlug": "security-checklists-for-web3-product-manager"
-  },
-  "content": {
-    "intro": "Product managers own security decisions. You do not need to be technical to ensure your product is secure. This checklist helps you ask the right questions and make informed decisions.",
-    "sections": [
-      {
-        "heading": "Pre-Development Security",
-        "description": "Security considerations before building.",
-        "items": [
-          {
-            "task": "Threat model documented",
-            "priority": "critical",
-            "description": "Document who might attack, how, and what is at risk. Drives security decisions."
-          },
-          {
-            "task": "Security budget allocated",
-            "priority": "critical",
-            "description": "Audits, bug bounties, and security tools cost money. Budget for them."
-          },
-          {
-            "task": "Audit timeline in roadmap",
-            "priority": "critical",
-            "description": "Audits take weeks and have waitlists. Schedule early."
-          },
-          {
-            "task": "Compliance requirements identified",
-            "priority": "critical",
-            "description": "GDPR, SOC2, regulatory requirements affect design. Know them early."
-          },
-          {
-            "task": "Data minimization planned",
-            "priority": "important",
-            "description": "Collect only data you need. Less data means less risk."
-          }
-        ]
-      },
-      {
-        "heading": "Smart Contract Requirements",
-        "description": "Requirements for on-chain components.",
-        "items": [
-          {
-            "task": "Upgradeability decision made",
-            "priority": "critical",
-            "description": "Decide if contracts can be upgraded. Both choices have tradeoffs."
-          },
-          {
-            "task": "Admin key management planned",
-            "priority": "critical",
-            "description": "Who holds admin keys? Multisig? Timelock? Document the plan."
-          },
-          {
-            "task": "Emergency procedures defined",
-            "priority": "critical",
-            "description": "What happens if we find a bug? Pause mechanism? Response plan?"
-          },
-          {
-            "task": "Audit scope defined",
-            "priority": "critical",
-            "description": "Which contracts need audit? What severity findings are acceptable?"
-          },
-          {
-            "task": "Bug bounty program planned",
-            "priority": "critical",
-            "description": "Post-launch security coverage. Budget, scope, and platform decided."
-          }
-        ]
-      },
-      {
-        "heading": "User Security",
-        "description": "Protecting users.",
-        "items": [
-          {
-            "task": "Wallet connection security reviewed",
-            "priority": "critical",
-            "description": "Users understand what they are signing. Clear transaction descriptions."
-          },
-          {
-            "task": "Phishing protection in place",
-            "priority": "critical",
-            "description": "Official links documented. Verification guidance for users."
-          },
-          {
-            "task": "Token approval limits considered",
-            "priority": "critical",
-            "description": "Request only needed approvals. Avoid unlimited approvals when possible."
-          },
-          {
-            "task": "User fund recovery planned",
-            "priority": "important",
-            "description": "Can users recover if they lose access? What are the limitations?"
-          },
-          {
-            "task": "Support for hacked users",
-            "priority": "important",
-            "description": "What do we tell users who get phished? Support documentation ready."
-          }
-        ]
-      },
-      {
-        "heading": "Launch Readiness",
-        "description": "Security items before launch.",
-        "items": [
-          {
-            "task": "Audit completed and issues resolved",
-            "priority": "critical",
-            "description": "All critical and high findings fixed. Medium findings tracked."
-          },
-          {
-            "task": "Bug bounty launched before or at mainnet",
-            "priority": "critical",
-            "description": "Security researchers can report issues. Rewards ready."
-          },
-          {
-            "task": "Monitoring and alerting configured",
-            "priority": "critical",
-            "description": "Anomaly detection. Alert when unusual activity occurs."
-          },
-          {
-            "task": "Incident response plan documented",
-            "priority": "critical",
-            "description": "Who does what if something goes wrong. Contact list ready."
-          },
-          {
-            "task": "Communication templates prepared",
-            "priority": "important",
-            "description": "Pre-written templates for security incidents. Faster response."
-          },
-          {
-            "task": "Insurance or reserve fund",
-            "priority": "important",
-            "description": "Consider coverage or reserve fund for security events."
-          }
-        ]
-      },
-      {
-        "heading": "Vendor and Third-Party Security",
-        "description": "External dependencies.",
-        "items": [
-          {
-            "task": "Third-party contract risks assessed",
-            "priority": "critical",
-            "description": "External protocols we depend on. What if they get hacked?"
-          },
-          {
-            "task": "Oracle security reviewed",
-            "priority": "critical",
-            "description": "If using price oracles, understand manipulation risks."
-          },
-          {
-            "task": "Bridge security evaluated",
-            "priority": "critical",
-            "description": "Cross-chain bridges are high-risk. Know the security model."
-          },
-          {
-            "task": "RPC provider redundancy",
-            "priority": "important",
-            "description": "Multiple RPC providers. Fallback if one is down or compromised."
-          }
-        ]
-      },
-      {
-        "heading": "Ongoing Security",
-        "description": "Post-launch security management.",
-        "items": [
-          {
-            "task": "Regular security reviews scheduled",
-            "priority": "critical",
-            "description": "Security is not one-time. Schedule regular reviews."
-          },
-          {
-            "task": "Dependency updates tracked",
-            "priority": "important",
-            "description": "Keep track of security updates in dependencies."
-          },
-          {
-            "task": "Bug bounty submissions reviewed",
-            "priority": "critical",
-            "description": "Process for triaging and responding to reports."
-          },
-          {
-            "task": "Security metrics tracked",
-            "priority": "important",
-            "description": "Track security-related metrics. Time to fix, report quality."
-          }
-        ]
-      },
-      {
-        "heading": "Third-Party Risk Management",
-        "description": "Managing risks from external dependencies.",
-        "items": [
-          {
-            "task": "Oracle provider evaluated",
-            "priority": "critical",
-            "description": "Understand oracle trust assumptions and failure modes."
-          },
-          {
-            "task": "Bridge risks documented",
-            "priority": "critical",
-            "description": "Know risks of any bridges your protocol uses or integrates with."
-          },
-          {
-            "task": "API dependencies listed",
-            "priority": "important",
-            "description": "Document all external APIs. Plan for their failure."
-          },
-          {
-            "task": "Vendor security assessed",
-            "priority": "important",
-            "description": "Evaluate security practices of key vendors and partners."
-          },
-          {
-            "task": "RPC provider redundancy",
-            "priority": "important",
-            "description": "Multiple RPC providers to avoid single point of failure."
-          },
-          {
-            "task": "IPFS pinning strategy",
-            "priority": "important",
-            "description": "Ensure critical metadata is pinned and will persist."
-          }
-        ]
-      }
-    ],
-    "commonMistakes": [
-      {
-        "mistake": "Launching without audit",
-        "impact": "Undiscovered vulnerabilities exploited. User funds lost.",
-        "prevention": "Always audit before mainnet with real funds."
-      },
-      {
-        "mistake": "Underestimating audit timeline",
-        "impact": "Launch delayed or rushed audit misses issues.",
-        "prevention": "Book audits months in advance. Build buffer time."
-      },
-      {
-        "mistake": "No incident response plan",
-        "impact": "Chaos during exploit. Poor communication. Slower response.",
-        "prevention": "Document plan before you need it. Practice scenarios."
-      }
-    ],
-    "proTips": [
-      "Security checklists should be part of the product spec, not an afterthought.",
-      "Involve the security team in design reviews, not just code reviews.",
-      "Document known risks and accepted trade-offs explicitly."
-    ]
-  }
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "web3-product-manager",
+ "generatedAt": "2026-05-17T05:30:09.446Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "Web3 Product Security Checklist",
+ "description": "Security checklist for Web3 product managers covering product requirements, risk management, launch preparation, and user protection.",
+ "keywords": [
+ "web3-product-manager",
+ "security",
+ "checklist",
+ "product",
+ "risk"
+ ],
+ "canonicalSlug": "security-checklists-for-web3-product-manager"
+ },
+ "content": {
+ "intro": "Product managers own security decisions. You do not need to be technical to ensure your product is secure. This checklist helps you ask the right questions and make informed decisions.",
+ "sections": [
+ {
+ "heading": "Pre-Development Security",
+ "description": "Security considerations before building.",
+ "items": [
+ {
+ "task": "Threat model documented",
+ "priority": "critical",
+ "description": "Document who might attack, how, and what is at risk. Drives security decisions."
+ },
+ {
+ "task": "Security budget allocated",
+ "priority": "critical",
+ "description": "Audits, bug bounties, and security tools cost money. Budget for them."
+ },
+ {
+ "task": "Audit timeline in roadmap",
+ "priority": "critical",
+ "description": "Audits take weeks and have waitlists. Schedule early."
+ },
+ {
+ "task": "Compliance requirements identified",
+ "priority": "critical",
+ "description": "GDPR, SOC2, regulatory requirements affect design. Know them early."
+ },
+ {
+ "task": "Data minimization planned",
+ "priority": "important",
+ "description": "Collect only data you need. Less data means less risk."
+ }
+ ]
+ },
+ {
+ "heading": "Smart Contract Requirements",
+ "description": "Requirements for on-chain components.",
+ "items": [
+ {
+ "task": "Upgradeability decision made",
+ "priority": "critical",
+ "description": "Decide if contracts can be upgraded. Both choices have tradeoffs."
+ },
+ {
+ "task": "Admin key management planned",
+ "priority": "critical",
+ "description": "Who holds admin keys? Multisig? Timelock? Document the plan."
+ },
+ {
+ "task": "Emergency procedures defined",
+ "priority": "critical",
+ "description": "What happens if we find a bug? Pause mechanism? Response plan?"
+ },
+ {
+ "task": "Audit scope defined",
+ "priority": "critical",
+ "description": "Which contracts need audit? What severity findings are acceptable?"
+ },
+ {
+ "task": "Bug bounty program planned",
+ "priority": "critical",
+ "description": "Post-launch security coverage. Budget, scope, and platform decided."
+ }
+ ]
+ },
+ {
+ "heading": "User Security",
+ "description": "Protecting users.",
+ "items": [
+ {
+ "task": "Wallet connection security reviewed",
+ "priority": "critical",
+ "description": "Users understand what they are signing. Clear transaction descriptions."
+ },
+ {
+ "task": "Phishing protection in place",
+ "priority": "critical",
+ "description": "Official links documented. Verification guidance for users."
+ },
+ {
+ "task": "Token approval limits considered",
+ "priority": "critical",
+ "description": "Request only needed approvals. Avoid unlimited approvals when possible."
+ },
+ {
+ "task": "User fund recovery planned",
+ "priority": "important",
+ "description": "Can users recover if they lose access? What are the limitations?"
+ },
+ {
+ "task": "Support for hacked users",
+ "priority": "important",
+ "description": "What do we tell users who get phished? Support documentation ready."
+ }
+ ]
+ },
+ {
+ "heading": "Launch Readiness",
+ "description": "Security items before launch.",
+ "items": [
+ {
+ "task": "Audit completed and issues resolved",
+ "priority": "critical",
+ "description": "All critical and high findings fixed. Medium findings tracked."
+ },
+ {
+ "task": "Bug bounty launched before or at mainnet",
+ "priority": "critical",
+ "description": "Security researchers can report issues. Rewards ready."
+ },
+ {
+ "task": "Monitoring and alerting configured",
+ "priority": "critical",
+ "description": "Anomaly detection. Alert when unusual activity occurs."
+ },
+ {
+ "task": "Incident response plan documented",
+ "priority": "critical",
+ "description": "Who does what if something goes wrong. Contact list ready."
+ },
+ {
+ "task": "Communication templates prepared",
+ "priority": "important",
+ "description": "Pre-written templates for security incidents. Faster response."
+ },
+ {
+ "task": "Insurance or reserve fund",
+ "priority": "important",
+ "description": "Consider coverage or reserve fund for security events."
+ }
+ ]
+ },
+ {
+ "heading": "Vendor and Third-Party Security",
+ "description": "External dependencies.",
+ "items": [
+ {
+ "task": "Third-party contract risks assessed",
+ "priority": "critical",
+ "description": "External protocols we depend on. What if they get hacked?"
+ },
+ {
+ "task": "Oracle security reviewed",
+ "priority": "critical",
+ "description": "If using price oracles, understand manipulation risks."
+ },
+ {
+ "task": "Bridge security evaluated",
+ "priority": "critical",
+ "description": "Cross-chain bridges are high-risk. Know the security model."
+ },
+ {
+ "task": "RPC provider redundancy",
+ "priority": "important",
+ "description": "Multiple RPC providers. Fallback if one is down or compromised."
+ }
+ ]
+ },
+ {
+ "heading": "Ongoing Security",
+ "description": "Post-launch security management.",
+ "items": [
+ {
+ "task": "Regular security reviews scheduled",
+ "priority": "critical",
+ "description": "Security is not one-time. Schedule regular reviews."
+ },
+ {
+ "task": "Dependency updates tracked",
+ "priority": "important",
+ "description": "Keep track of security updates in dependencies."
+ },
+ {
+ "task": "Bug bounty submissions reviewed",
+ "priority": "critical",
+ "description": "Process for triaging and responding to reports."
+ },
+ {
+ "task": "Security metrics tracked",
+ "priority": "important",
+ "description": "Track security-related metrics. Time to fix, report quality."
+ }
+ ]
+ },
+ {
+ "heading": "Third-Party Risk Management",
+ "description": "Managing risks from external dependencies.",
+ "items": [
+ {
+ "task": "Oracle provider evaluated",
+ "priority": "critical",
+ "description": "Understand oracle trust assumptions and failure modes."
+ },
+ {
+ "task": "Bridge risks documented",
+ "priority": "critical",
+ "description": "Know risks of any bridges your protocol uses or integrates with."
+ },
+ {
+ "task": "API dependencies listed",
+ "priority": "important",
+ "description": "Document all external APIs. Plan for their failure."
+ },
+ {
+ "task": "Vendor security assessed",
+ "priority": "important",
+ "description": "Evaluate security practices of key vendors and partners."
+ },
+ {
+ "task": "RPC provider redundancy",
+ "priority": "important",
+ "description": "Multiple RPC providers to avoid single point of failure."
+ },
+ {
+ "task": "IPFS pinning strategy",
+ "priority": "important",
+ "description": "Ensure critical metadata is pinned and will persist."
+ }
+ ]
+ }
+ ],
+ "commonMistakes": [
+ {
+ "mistake": "Launching without audit",
+ "impact": "Undiscovered vulnerabilities exploited. User funds lost.",
+ "prevention": "Always audit before mainnet with real funds."
+ },
+ {
+ "mistake": "Underestimating audit timeline",
+ "impact": "Launch delayed or rushed audit misses issues.",
+ "prevention": "Book audits months in advance. Build buffer time."
+ },
+ {
+ "mistake": "No incident response plan",
+ "impact": "Chaos during exploit. Poor communication. Slower response.",
+ "prevention": "Document plan before you need it. Practice scenarios."
+ }
+ ],
+ "proTips": [
+ "Security checklists should be part of the product spec, not an afterthought.",
+ "Involve the security team in design reviews, not just code reviews.",
+ "Document known risks and accepted trade-offs explicitly."
+ ]
+ }
 }

@@ -1,268 +1,268 @@
 {
-  "meta": {
-    "contentType": "mistakes",
-    "topic": "security",
-    "niche": "nft-developer",
-    "generatedAt": "2026-05-17T16:55:57.097Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "30 Common Mistakes NFT Developers Make (And How to Avoid Them)",
-    "description": "Learn from the mistakes of others. A detailed guide to the most common errors NFT developers make in smart contracts, metadata, and launch strategy.",
-    "keywords": [
-      "nft-developer",
-      "mistakes",
-      "ERC-721",
-      "metadata",
-      "minting",
-      "security"
-    ],
-    "canonicalSlug": "security-mistakes-for-nft-developer"
-  },
-  "content": {
-    "intro": "NFT development combines smart contract security with art, metadata, and launch logistics. Here are the most common mistakes that cost NFT developers money, reputation, or both.",
-    "sections": [
-      {
-        "heading": "Smart Contract Vulnerabilities",
-        "items": [
-          {
-            "title": "Using sequential token IDs for reveal",
-            "description": "Predictable token IDs let snipers identify rare NFTs before reveal by watching metadata.",
-            "severity": "high",
-            "solution": "Use randomized assignment with Chainlink VRF or commit-reveal schemes."
-          },
-          {
-            "title": "No reentrancy protection on mint",
-            "description": "Mint functions with callbacks (like safe transfers) can be exploited for extra mints.",
-            "severity": "high",
-            "solution": "Use ReentrancyGuard and checks-effects-interactions pattern."
-          },
-          {
-            "title": "Integer overflow in batch minting",
-            "description": "Pre-0.8.0 contracts without SafeMath could overflow mint counters.",
-            "severity": "high",
-            "solution": "Use Solidity 0.8+ or implement proper overflow checks."
-          },
-          {
-            "title": "Unchecked array lengths in airdrops",
-            "description": "Airdrop functions without length limits can exceed block gas limit.",
-            "severity": "medium",
-            "solution": "Batch airdrops with reasonable limits per transaction."
-          },
-          {
-            "title": "Allowing mints to contracts without callback check",
-            "description": "Minting to non-ERC721Receiver contracts locks tokens permanently.",
-            "severity": "medium",
-            "solution": "Use safeMint or implement receiver checks."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Allowlist Issues",
-        "items": [
-          {
-            "title": "Storing allowlist on-chain",
-            "description": "On-chain arrays are expensive and can be manipulated by watching transactions.",
-            "severity": "medium",
-            "solution": "Use Merkle trees for gas-efficient, tamper-proof allowlists."
-          },
-          {
-            "title": "No per-wallet mint limits on allowlist",
-            "description": "Allowlisted addresses can transfer their spot to others or mint multiple times.",
-            "severity": "medium",
-            "solution": "Track mints per address and enforce limits."
-          },
-          {
-            "title": "Merkle proof replay attacks",
-            "description": "Valid proofs can be reused if contract doesn't track used proofs.",
-            "severity": "high",
-            "solution": "Mark addresses as claimed after successful mint."
-          },
-          {
-            "title": "Allowlist signature without expiry",
-            "description": "Signed allowlist entries without expiry can be used indefinitely.",
-            "severity": "medium",
-            "solution": "Include expiry timestamp in signed messages."
-          },
-          {
-            "title": "Front-runnable signature reveals",
-            "description": "Signatures revealed in pending transactions can be stolen.",
-            "severity": "medium",
-            "solution": "Tie signatures to specific msg.sender addresses."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Metadata Problems",
-        "items": [
-          {
-            "title": "Centralized metadata hosting",
-            "description": "Traditional hosting means metadata disappears if server goes down.",
-            "severity": "high",
-            "solution": "Use IPFS, Arweave, or on-chain storage for permanence."
-          },
-          {
-            "title": "Mutable metadata without transparency",
-            "description": "Ability to change metadata after mint destroys trust.",
-            "severity": "medium",
-            "solution": "Use provenance hash and freeze metadata after reveal."
-          },
-          {
-            "title": "No provenance hash",
-            "description": "Without provenance, you cannot prove art was finalized before minting.",
-            "severity": "medium",
-            "solution": "Hash all metadata/images and publish before mint starts."
-          },
-          {
-            "title": "Incorrect token URI implementation",
-            "description": "Returning wrong URI format breaks marketplace display.",
-            "severity": "medium",
-            "solution": "Test on OpenSea testnet before mainnet. Follow metadata standards."
-          },
-          {
-            "title": "Large image files",
-            "description": "Large files slow loading and increase IPFS pinning costs.",
-            "severity": "low",
-            "solution": "Optimize images. Use proper compression. Consider thumbnails."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Randomness Failures",
-        "items": [
-          {
-            "title": "Using block.timestamp for randomness",
-            "description": "Miners can manipulate timestamps within bounds. Not truly random.",
-            "severity": "high",
-            "solution": "Use Chainlink VRF for verifiable randomness."
-          },
-          {
-            "title": "Predictable blockhash randomness",
-            "description": "blockhash(block.number) is always 0. blockhash of past blocks can be known.",
-            "severity": "high",
-            "solution": "Use commit-reveal or Chainlink VRF."
-          },
-          {
-            "title": "Single-transaction reveal",
-            "description": "Reveals in same transaction as mint let attackers simulate and cherry-pick.",
-            "severity": "high",
-            "solution": "Separate mint and reveal into different transactions/blocks."
-          },
-          {
-            "title": "Insufficient randomness entropy",
-            "description": "Combining weak entropy sources doesn't make strong randomness.",
-            "severity": "medium",
-            "solution": "Use cryptographically secure randomness from oracles."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Access Control",
-        "items": [
-          {
-            "title": "Owner can rug-pull funds",
-            "description": "Arbitrary withdrawal functions let owners steal mint proceeds.",
-            "severity": "high",
-            "solution": "Use transparent withdrawal to known addresses or multi-sig."
-          },
-          {
-            "title": "No withdrawal function",
-            "description": "Forgetting to include a withdrawal function locks ETH in contract forever.",
-            "severity": "high",
-            "solution": "Always test withdrawal on testnet before mainnet deploy."
-          },
-          {
-            "title": "Single owner key",
-            "description": "One compromised key loses entire collection control.",
-            "severity": "high",
-            "solution": "Use multi-sig for owner functions."
-          },
-          {
-            "title": "Pausable without unpause",
-            "description": "Some contracts can be paused but have no unpause function.",
-            "severity": "medium",
-            "solution": "Ensure all pausable functionality can be reversed."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Royalty Issues",
-        "items": [
-          {
-            "title": "No on-chain royalty support",
-            "description": "Without EIP-2981, royalties depend on marketplace voluntary enforcement.",
-            "severity": "medium",
-            "solution": "Implement EIP-2981 royaltyInfo function."
-          },
-          {
-            "title": "Immutable royalty recipient",
-            "description": "Cannot update royalty address if wallet is compromised.",
-            "severity": "medium",
-            "solution": "Make royalty recipient updateable by owner/multi-sig."
-          },
-          {
-            "title": "Excessive royalty percentages",
-            "description": "Very high royalties encourage marketplace bypass.",
-            "severity": "low",
-            "solution": "Keep royalties reasonable. 5-10% is standard."
-          }
-        ],
-        "description": ""
-      },
-      {
-        "heading": "Launch Mistakes",
-        "items": [
-          {
-            "title": "No gas optimization",
-            "description": "High gas costs during popular mints price out regular users.",
-            "severity": "medium",
-            "solution": "Use ERC721A for batch minting. Optimize storage operations."
-          },
-          {
-            "title": "Unverified contract on Etherscan",
-            "description": "Unverified contracts look suspicious and reduce trust.",
-            "severity": "medium",
-            "solution": "Verify source code immediately after deployment."
-          },
-          {
-            "title": "No testnet testing",
-            "description": "Deploying directly to mainnet without thorough testing.",
-            "severity": "high",
-            "solution": "Test extensively on Goerli/Sepolia. Test OpenSea display."
-          },
-          {
-            "title": "Wrong network deployment",
-            "description": "Accidentally deploying to wrong network or testnet with real funds.",
-            "severity": "high",
-            "solution": "Double-check network ID in deployment scripts."
-          }
-        ],
-        "description": ""
-      }
-    ],
-    "relatedResources": [
-      {
-        "title": "Security Checklist for NFT Developers",
-        "slug": "security-checklists-for-nft-developer"
-      },
-      {
-        "title": "Portfolio Project Ideas for NFT Developers",
-        "slug": "portfolio-project-ideas-for-nft-developer"
-      },
-      {
-        "title": "Development Tools for NFT Developers",
-        "slug": "development-tools-for-nft-developer"
-      }
-    ],
-    "proTips": [
-      "Deploy a test collection first. Iterate on metadata and minting before the real launch.",
-      "Gas optimization matters for minting. Users will compare your mint cost to competitors.",
-      "Test with large collection sizes. Bugs often appear at scale."
-    ]
-  }
+ "meta": {
+ "contentType": "mistakes",
+ "topic": "security",
+ "niche": "nft-developer",
+ "generatedAt": "2026-05-17T16:55:57.097Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "30 Common Mistakes NFT Developers Make (And How to Avoid Them)",
+ "description": "Learn from the mistakes of others. A detailed guide to the most common errors NFT developers make in smart contracts, metadata, and launch strategy.",
+ "keywords": [
+ "nft-developer",
+ "mistakes",
+ "ERC-721",
+ "metadata",
+ "minting",
+ "security"
+ ],
+ "canonicalSlug": "security-mistakes-for-nft-developer"
+ },
+ "content": {
+ "intro": "NFT development combines smart contract security with art, metadata, and launch logistics. Here are the most common mistakes that cost NFT developers money, reputation, or both.",
+ "sections": [
+ {
+ "heading": "Smart Contract Vulnerabilities",
+ "items": [
+ {
+ "title": "Using sequential token IDs for reveal",
+ "description": "Predictable token IDs let snipers identify rare NFTs before reveal by watching metadata.",
+ "severity": "high",
+ "solution": "Use randomized assignment with Chainlink VRF or commit-reveal schemes."
+ },
+ {
+ "title": "No reentrancy protection on mint",
+ "description": "Mint functions with callbacks (like safe transfers) can be exploited for extra mints.",
+ "severity": "high",
+ "solution": "Use ReentrancyGuard and checks-effects-interactions pattern."
+ },
+ {
+ "title": "Integer overflow in batch minting",
+ "description": "Pre-0.8.0 contracts without SafeMath could overflow mint counters.",
+ "severity": "high",
+ "solution": "Use Solidity 0.8+ or implement proper overflow checks."
+ },
+ {
+ "title": "Unchecked array lengths in airdrops",
+ "description": "Airdrop functions without length limits can exceed block gas limit.",
+ "severity": "medium",
+ "solution": "Batch airdrops with reasonable limits per transaction."
+ },
+ {
+ "title": "Allowing mints to contracts without callback check",
+ "description": "Minting to non-ERC721Receiver contracts locks tokens permanently.",
+ "severity": "medium",
+ "solution": "Use safeMint or implement receiver checks."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Allowlist Issues",
+ "items": [
+ {
+ "title": "Storing allowlist on-chain",
+ "description": "On-chain arrays are expensive and can be manipulated by watching transactions.",
+ "severity": "medium",
+ "solution": "Use Merkle trees for gas-efficient, tamper-proof allowlists."
+ },
+ {
+ "title": "No per-wallet mint limits on allowlist",
+ "description": "Allowlisted addresses can transfer their spot to others or mint multiple times.",
+ "severity": "medium",
+ "solution": "Track mints per address and enforce limits."
+ },
+ {
+ "title": "Merkle proof replay attacks",
+ "description": "Valid proofs can be reused if contract doesn't track used proofs.",
+ "severity": "high",
+ "solution": "Mark addresses as claimed after successful mint."
+ },
+ {
+ "title": "Allowlist signature without expiry",
+ "description": "Signed allowlist entries without expiry can be used indefinitely.",
+ "severity": "medium",
+ "solution": "Include expiry timestamp in signed messages."
+ },
+ {
+ "title": "Front-runnable signature reveals",
+ "description": "Signatures revealed in pending transactions can be stolen.",
+ "severity": "medium",
+ "solution": "Tie signatures to specific msg.sender addresses."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Metadata Problems",
+ "items": [
+ {
+ "title": "Centralized metadata hosting",
+ "description": "Traditional hosting means metadata disappears if server goes down.",
+ "severity": "high",
+ "solution": "Use IPFS, Arweave, or on-chain storage for permanence."
+ },
+ {
+ "title": "Mutable metadata without transparency",
+ "description": "Ability to change metadata after mint destroys trust.",
+ "severity": "medium",
+ "solution": "Use provenance hash and freeze metadata after reveal."
+ },
+ {
+ "title": "No provenance hash",
+ "description": "Without provenance, you cannot prove art was finalized before minting.",
+ "severity": "medium",
+ "solution": "Hash all metadata/images and publish before mint starts."
+ },
+ {
+ "title": "Incorrect token URI implementation",
+ "description": "Returning wrong URI format breaks marketplace display.",
+ "severity": "medium",
+ "solution": "Test on OpenSea testnet before mainnet. Follow metadata standards."
+ },
+ {
+ "title": "Large image files",
+ "description": "Large files slow loading and increase IPFS pinning costs.",
+ "severity": "low",
+ "solution": "Optimize images. Use proper compression. Consider thumbnails."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Randomness Failures",
+ "items": [
+ {
+ "title": "Using block.timestamp for randomness",
+ "description": "Miners can manipulate timestamps within bounds. Not truly random.",
+ "severity": "high",
+ "solution": "Use Chainlink VRF for verifiable randomness."
+ },
+ {
+ "title": "Predictable blockhash randomness",
+ "description": "blockhash(block.number) is always 0. blockhash of past blocks can be known.",
+ "severity": "high",
+ "solution": "Use commit-reveal or Chainlink VRF."
+ },
+ {
+ "title": "Single-transaction reveal",
+ "description": "Reveals in same transaction as mint let attackers simulate and cherry-pick.",
+ "severity": "high",
+ "solution": "Separate mint and reveal into different transactions/blocks."
+ },
+ {
+ "title": "Insufficient randomness entropy",
+ "description": "Combining weak entropy sources doesn't make strong randomness.",
+ "severity": "medium",
+ "solution": "Use cryptographically secure randomness from oracles."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Access Control",
+ "items": [
+ {
+ "title": "Owner can rug-pull funds",
+ "description": "Arbitrary withdrawal functions let owners steal mint proceeds.",
+ "severity": "high",
+ "solution": "Use transparent withdrawal to known addresses or multi-sig."
+ },
+ {
+ "title": "No withdrawal function",
+ "description": "Forgetting to include a withdrawal function locks ETH in contract forever.",
+ "severity": "high",
+ "solution": "Always test withdrawal on testnet before mainnet deploy."
+ },
+ {
+ "title": "Single owner key",
+ "description": "One compromised key loses entire collection control.",
+ "severity": "high",
+ "solution": "Use multi-sig for owner functions."
+ },
+ {
+ "title": "Pausable without unpause",
+ "description": "Some contracts can be paused but have no unpause function.",
+ "severity": "medium",
+ "solution": "Ensure all pausable functionality can be reversed."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Royalty Issues",
+ "items": [
+ {
+ "title": "No on-chain royalty support",
+ "description": "Without EIP-2981, royalties depend on marketplace voluntary enforcement.",
+ "severity": "medium",
+ "solution": "Implement EIP-2981 royaltyInfo function."
+ },
+ {
+ "title": "Immutable royalty recipient",
+ "description": "Cannot update royalty address if wallet is compromised.",
+ "severity": "medium",
+ "solution": "Make royalty recipient updateable by owner/multi-sig."
+ },
+ {
+ "title": "Excessive royalty percentages",
+ "description": "Very high royalties encourage marketplace bypass.",
+ "severity": "low",
+ "solution": "Keep royalties reasonable. 5-10% is standard."
+ }
+ ],
+ "description": ""
+ },
+ {
+ "heading": "Launch Mistakes",
+ "items": [
+ {
+ "title": "No gas optimization",
+ "description": "High gas costs during popular mints price out regular users.",
+ "severity": "medium",
+ "solution": "Use ERC721A for batch minting. Optimize storage operations."
+ },
+ {
+ "title": "Unverified contract on Etherscan",
+ "description": "Unverified contracts look suspicious and reduce trust.",
+ "severity": "medium",
+ "solution": "Verify source code immediately after deployment."
+ },
+ {
+ "title": "No testnet testing",
+ "description": "Deploying directly to mainnet without thorough testing.",
+ "severity": "high",
+ "solution": "Test extensively on Goerli/Sepolia. Test OpenSea display."
+ },
+ {
+ "title": "Wrong network deployment",
+ "description": "Accidentally deploying to wrong network or testnet with real funds.",
+ "severity": "high",
+ "solution": "Double-check network ID in deployment scripts."
+ }
+ ],
+ "description": ""
+ }
+ ],
+ "relatedResources": [
+ {
+ "title": "Security Checklist for NFT Developers",
+ "slug": "security-checklists-for-nft-developer"
+ },
+ {
+ "title": "Portfolio Project Ideas for NFT Developers",
+ "slug": "portfolio-project-ideas-for-nft-developer"
+ },
+ {
+ "title": "Development Tools for NFT Developers",
+ "slug": "development-tools-for-nft-developer"
+ }
+ ],
+ "proTips": [
+ "Deploy a test collection first. Iterate on metadata and minting before the real launch.",
+ "Gas optimization matters for minting. Users will compare your mint cost to competitors.",
+ "Test with large collection sizes. Bugs often appear at scale."
+ ]
+ }
 }

@@ -1,12 +1,12 @@
 ---
 title: >-
-  This Simple Trick Will Dramatically Improve Your Chances of Getting a Crypto
-  Job
+ This Simple Trick Will Dramatically Improve Your Chances of Getting a Crypto
+ Job
 image: /images/glenn-carstens-peters-P1qyEf1g0HU-unsplash.jpg
 data-ai-hint: person writing notes
 description: >-
-  The secret to landing a Web3 job isn't a secret at all. It's about providing
-  value before you ask for it. This guide explains the single most effective.
+ The secret to landing a Web3 job isn't a secret at all. It's about providing
+ value before you ask for it. This guide explains the single most effective.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

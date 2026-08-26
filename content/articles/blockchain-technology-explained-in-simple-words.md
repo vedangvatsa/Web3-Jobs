@@ -3,8 +3,8 @@ title: Blockchain Technology Explained in Simple Words
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain technology abstract
 description: >-
-  A simple, easy-to-understand guide to blockchain technology, explaining what
-  it is, how it works, and why it's the foundation of the Web3 revolution.
+ A simple, easy-to-understand guide to blockchain technology, explaining what
+ it is, how it works, and why it's the foundation of the Web3 revolution.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

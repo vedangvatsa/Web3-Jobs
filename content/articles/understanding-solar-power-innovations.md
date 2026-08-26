@@ -1,8 +1,8 @@
 ---
 title: Understanding Solar Power Innovations
 description: >-
-  A look at the latest innovations in solar power technology, from modern
-  photovoltaic cells to new approaches in energy storage and grid integration.
+ A look at the latest innovations in solar power technology, from modern
+ photovoltaic cells to new approaches in energy storage and grid integration.
 category: Educational
 image: 'https://picsum.photos/seed/solarpower/1200/630'
 data-ai-hint: solar panels

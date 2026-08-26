@@ -1,11 +1,11 @@
 ---
 title: Web3 Security Best Practices for Developers
 image: >-
-  https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNoJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzU1MDA3MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNoJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzU1MDA3MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
-  A important guide for Web3 developers. Learn the essential security best
-  practices for writing smart contracts, from the Checks-Effects-Interactions
-  pattern.
+ A important guide for Web3 developers. Learn the essential security best
+ practices for writing smart contracts, from the Checks-Effects-Interactions
+ pattern.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

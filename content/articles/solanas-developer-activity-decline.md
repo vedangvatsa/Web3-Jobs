@@ -3,8 +3,8 @@ title: 'Solana''s Developer Activity Decline: A Warning Sign?'
 image: /images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg
 data-ai-hint: solana developer chart
 description: >-
-  An analysis of the declining developer activity on the Solana blockchain. We
-  explore the potential causes, from ecosystem challenges to the rise of L2s.
+ An analysis of the declining developer activity on the Solana blockchain. We
+ explore the potential causes, from ecosystem challenges to the rise of L2s.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

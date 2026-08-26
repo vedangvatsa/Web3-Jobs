@@ -3,8 +3,8 @@ title: What is a Bonding Curve in Token Economics
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: bonding curve token
 description: >-
-  A bonding curve is a mathematical curve that defines the relationship between
-  a token's price and its supply, creating an automated and predictable market.
+ A bonding curve is a mathematical curve that defines the relationship between
+ a token's price and its supply, creating an automated and predictable market.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

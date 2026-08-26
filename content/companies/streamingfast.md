@@ -3,8 +3,8 @@ name: StreamingFast
 website: 'https://streamingfast.io'
 category: Other
 description: >-
-  StreamingFast provides blockchain data infrastructure solutions for developers
-  and enterprises.
+ StreamingFast provides blockchain data infrastructure solutions for developers
+ and enterprises.
 ---
 
 StreamingFast specializes in blockchain data infrastructure, offering tools that enable developers to build applications on various blockchain networks. Their services include real-time data streaming and analytics, which help enterprises access and use blockchain data efficiently. 

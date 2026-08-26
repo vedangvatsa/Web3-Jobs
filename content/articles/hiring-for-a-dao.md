@@ -3,9 +3,9 @@ title: 'Hiring for a DAO: Finding Top Talent'
 image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
 data-ai-hint: dao hiring talent
 description: >-
-  DAOs require a new approach to recruitment. This guide covers how to find,
-  vet, and onboard talent for a decentralized organization, from writing
-  bounties.
+ DAOs require a new approach to recruitment. This guide covers how to find,
+ vet, and onboard talent for a decentralized organization, from writing
+ bounties.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

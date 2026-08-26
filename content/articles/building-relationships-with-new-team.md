@@ -1,9 +1,9 @@
 ---
 title: A Guide to Building Relationships With Your New Team
 description: >-
-  Integrating into a new team is about more than just the work. This guide
-  outlines practical steps for building strong, positive working relationships
-  with.
+ Integrating into a new team is about more than just the work. This guide
+ outlines practical steps for building strong, positive working relationships
+ with.
 category: Career Guides
 image: 'https://picsum.photos/seed/305/1200/630'
 data-ai-hint: team relationships

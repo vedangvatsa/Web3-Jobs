@@ -3,9 +3,9 @@ title: How to Become a Web3 Technical Writer in 2026 | $90K-$180K Remote
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 data-ai-hint: technical writer keyboard
 description: >-
-  Complete guide to becoming a Web3 technical writer in 2026. Earn $90K-$180K
-  writing blockchain documentation. No coding required. Learn skills, find jobs,
-  and break into this high-demand remote role.
+ Complete guide to becoming a Web3 technical writer in 2026. Earn $90K-$180K
+ writing blockchain documentation. No coding required. Learn skills, find jobs,
+ and break into this high-demand remote role.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

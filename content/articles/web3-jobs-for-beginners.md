@@ -3,8 +3,8 @@ title: 'Web3 Jobs for Beginners: A Roadmap to Your First Role'
 image: /images/markus-spiske-hvSr_CVecVI-unsplash.jpg
 data-ai-hint: career roadmap journey
 description: >-
-  A step-by-step guide for complete beginners looking to get a job in Web3.
-  Learn the foundational skills and first steps to take to land an entry-level.
+ A step-by-step guide for complete beginners looking to get a job in Web3.
+ Learn the foundational skills and first steps to take to land an entry-level.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

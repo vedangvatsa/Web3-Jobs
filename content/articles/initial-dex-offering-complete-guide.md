@@ -3,9 +3,9 @@ title: Initial DEX Offering Complete Guide
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: rocket launch crypto
 description: >-
-  An Initial DEX Offering (IDO) is a fundraising method where a new crypto
-  project launches its token on a decentralized exchange. This guide explains
-  how.
+ An Initial DEX Offering (IDO) is a fundraising method where a new crypto
+ project launches its token on a decentralized exchange. This guide explains
+ how.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in Singapore: A Guide to Asia''s Leading FinTech Hub'
 image: >-
-  https://images.unsplash.com/photo-1525625293386-3f8f99389edd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaW5nYXBvcmV8ZW58MHx8fHwxNzE2NDAxOTMwfDA&lib=rb-4.0.3&q=80&w=1080
+ https://images.unsplash.com/photo-1525625293386-3f8f99389edd?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzaW5nYXBvcmV8ZW58MHx8fHwxNzE2NDAxOTMwfDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: singapore city skyline
 description: >-
-  Web3 Jobs in Singapore | SGD $120K-$280K+ Salary | Asia's FinTech Hub 2026.
-  Smart contract engineers, DeFi specialists, product managers. Regulated.
+ Web3 Jobs in Singapore | SGD $120K-$280K+ Salary | Asia's FinTech Hub 2026.
+ Smart contract engineers, DeFi specialists, product managers. Regulated.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

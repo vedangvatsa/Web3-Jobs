@@ -2,8 +2,8 @@
 title: Neural Networks Complete Guide for Newcomers
 image: 'https://picsum.photos/seed/neural-networks/1200/630'
 description: >-
-  A beginner's guide to neural networks, the technology that powers deep
-  learning and modern AI, explained in simple terms.
+ A beginner's guide to neural networks, the technology that powers deep
+ learning and modern AI, explained in simple terms.
 category: Educational
 data-ai-hint: connected nodes
 publishedDate: '2026-03-11'

@@ -1,9 +1,9 @@
 ---
 title: What is a Smart Contract Audit and Why Is It Important
 description: >-
-  A smart contract audit is an essential security check for any Web3 project.
-  Discover how auditors find vulnerabilities and why this process is critical
-  for protecting user funds.
+ A smart contract audit is an essential security check for any Web3 project.
+ Discover how auditors find vulnerabilities and why this process is critical
+ for protecting user funds.
 image: /images/alex-knight-2EJCSULRwC8-unsplash.jpg
 category: Educational
 data-ai-hint: security code

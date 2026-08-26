@@ -2,8 +2,8 @@
 title: Blockchain Oracle Networks and Data Integration
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-
-  Smart contracts can't access off-chain data on their own. Learn how blockchain
-  oracles solve this problem by securely bringing real-world data onto the.
+ Smart contracts can't access off-chain data on their own. Learn how blockchain
+ oracles solve this problem by securely bringing real-world data onto the.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

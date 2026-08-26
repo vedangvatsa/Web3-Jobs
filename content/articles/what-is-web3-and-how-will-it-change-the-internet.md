@@ -3,9 +3,9 @@ title: What Is Web3 and How Will It Change the Internet?
 image: /images/adi-goldstein-EUsVwEOsblE-unsplash.jpg
 data-ai-hint: web3 future internet
 description: >-
-  An introduction to Web3, the next evolution of the internet. This guide
-  explains the core concepts of decentralization, blockchain technology, and
-  user.
+ An introduction to Web3, the next evolution of the internet. This guide
+ explains the core concepts of decentralization, blockchain technology, and
+ user.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: 'Quadratic Funding: A Fairer Way to Fund Public Goods'
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: fairness balance scale
 description: >-
-  A deep dive into Quadratic Funding, the new mechanism that uses a matching
-  pool to amplify the power of small community donations, creating a more.
+ A deep dive into Quadratic Funding, the new mechanism that uses a matching
+ pool to amplify the power of small community donations, creating a more.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

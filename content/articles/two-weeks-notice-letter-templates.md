@@ -1,9 +1,9 @@
 ---
 title: Two Weeks' Notice Letter Templates
 description: >-
-  Writing a two weeks' notice letter is an important part of leaving a job
-  professionally. Here are several templates you can use to ensure you leave on
-  good terms.
+ Writing a two weeks' notice letter is an important part of leaving a job
+ professionally. Here are several templates you can use to ensure you leave on
+ good terms.
 image: 'https://picsum.photos/seed/313/1200/630'
 data-ai-hint: writing letter
 category: Career Guides

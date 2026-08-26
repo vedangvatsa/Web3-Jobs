@@ -2,8 +2,8 @@
 title: How to Delegate Tasks Effectively
 image: 'https://picsum.photos/seed/del1/1200/630'
 description: >-
-  Delegation is a superpower for any leader. Learn how to delegate tasks
-  effectively to enable your team, free up your time, and drive better results.
+ Delegation is a superpower for any leader. Learn how to delegate tasks
+ effectively to enable your team, free up your time, and drive better results.
 category: Career Guides
 data-ai-hint: delegation tasks
 publishedDate: '2026-03-11'

@@ -1,8 +1,8 @@
 ---
 title: 'The Product Management Career Path: A Full Guide'
 description: >-
-  From Associate PM to Chief Product Officer, this guide explains the roles,
-  responsibilities, and skills required at each stage of the product management.
+ From Associate PM to Chief Product Officer, this guide explains the roles,
+ responsibilities, and skills required at each stage of the product management.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: stairs upward
 category: Career Guides

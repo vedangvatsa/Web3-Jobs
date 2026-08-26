@@ -3,8 +3,8 @@ title: Crypto Journalist Career Roadmap Guide
 image: /images/firmbee-com-SpVHcbuKi6E-unsplash.jpg
 data-ai-hint: journalist writing crypto
 description: >-
-  A full guide to building a career as a crypto journalist. Learn the skills you
-  need, how to build a portfolio, and how to find opportunities in.
+ A full guide to building a career as a crypto journalist. Learn the skills you
+ need, how to build a portfolio, and how to find opportunities in.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

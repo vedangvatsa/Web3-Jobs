@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in Vietnam: A Deep Dive into a GameFi Superpower'
 image: >-
-  https://images.unsplash.com/photo-1528127269322-539801943592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aWV0bmFtfGVufDB8fHx8MTcxNjQwMTg4NHww&lib=rb-4.0.3&q=80&w=1080
+ https://images.unsplash.com/photo-1528127269322-539801943592?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHx2aWV0bmFtfGVufDB8fHx8MTcxNjQwMTg4NHww&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: vietnam city skyline
 description: >-
-  Explore Vietnam's explosive Web3 scene, a global leader in GameFi and crypto
-  adoption. This guide covers the job market, key roles, and salary.
+ Explore Vietnam's explosive Web3 scene, a global leader in GameFi and crypto
+ adoption. This guide covers the job market, key roles, and salary.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

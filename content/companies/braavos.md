@@ -3,8 +3,8 @@ name: Braavos
 website: 'https://braavos.app'
 category: Other
 description: >-
-  Braavos is a platform focused on enhancing user experience in Web3
-  applications.
+ Braavos is a platform focused on enhancing user experience in Web3
+ applications.
 ---
 
 Braavos offers a user-friendly wallet designed for decentralized applications. The wallet supports Ethereum and other EVM-compatible networks, providing users with a smooth experience for managing their digital assets. Braavos emphasizes security and ease of use, catering to both novice and experienced users in the Web3 space.

@@ -1,11 +1,11 @@
 ---
 title: 'Web3 Jobs in Canada: A Guide to the Northern Crypto Hub'
 image: >-
-  https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5hZGF8ZW58MHx8fHwxNzE2NDAxOTI0fDA&lib=rb-4.0.3&q=80&w=1080
+ https://images.unsplash.com/photo-1503614472-8c93d56e92ce?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjYW5hZGF8ZW58MHx8fHwxNzE2NDAxOTI0fDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: canada space
 description: >-
-  Discover Web3 career opportunities in Toronto, Vancouver, and other Canadian
-  tech hubs.
+ Discover Web3 career opportunities in Toronto, Vancouver, and other Canadian
+ tech hubs.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: Sui Blockchain Technology and Developer Ecosystem
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: sui blockchain
 description: >-
-  An overview of the Sui blockchain, a new Layer 1 designed for high performance
-  and scalability, with a unique object-centric data model and the Move.
+ An overview of the Sui blockchain, a new Layer 1 designed for high performance
+ and scalability, with a unique object-centric data model and the Move.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

@@ -3,8 +3,8 @@ title: What Does it Mean to 'Ape In' to a Crypto Project?
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: rocket moon crypto
 description: >-
-  A guide to the crypto slang term 'apeing in,' a phrase that captures the
-  high-risk, FOMO-driven investment style common in the Web3 world.
+ A guide to the crypto slang term 'apeing in,' a phrase that captures the
+ high-risk, FOMO-driven investment style common in the Web3 world.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

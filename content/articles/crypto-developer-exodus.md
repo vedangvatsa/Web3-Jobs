@@ -3,8 +3,8 @@ title: Why Crypto Developers Are Leaving Some Chains
 image: /images/thisisengineering-64YrPKiguAE-unsplash.jpg
 data-ai-hint: developer leaving
 description: >-
-  An analysis of the 'great migration' in Web3 development. We explore the
-  factors causing developers to leave certain blockchain ecosystems for others.
+ An analysis of the 'great migration' in Web3 development. We explore the
+ factors causing developers to leave certain blockchain ecosystems for others.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

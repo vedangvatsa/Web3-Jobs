@@ -1,572 +1,572 @@
 {
-  "meta": {
-    "contentType": "ideas",
-    "topic": "portfolio-project",
-    "niche": "solana-developer",
-    "generatedAt": "2026-05-17T05:30:09.450Z",
-    "version": "1.0.0"
-  },
-  "seo": {
-    "title": "50 Portfolio Project Ideas for Solana Developers",
-    "description": "Build an impressive Solana portfolio with these 50 project ideas. From Anchor programs to DeFi protocols, showcase your Rust and Solana expertise.",
-    "keywords": [
-      "solana-developer",
-      "portfolio",
-      "Anchor",
-      "Rust",
-      "SPL",
-      "web3",
-      "Metaplex",
-      "Solana"
-    ],
-    "canonicalSlug": "portfolio-project-ideas-for-solana-developer"
-  },
-  "content": {
-    "intro": "Solana's high-performance architecture requires a different approach than EVM chains. These projects will help you demonstrate expertise in Anchor, account models, and Solana-specific patterns.",
-    "sections": [
-      {
-        "heading": "Anchor Program Fundamentals",
-        "description": "Master the basics of Solana program development with Anchor.",
-        "items": [
-          {
-            "title": "Simple Escrow Program",
-            "description": "Build an escrow program that holds tokens until conditions are met, demonstrating PDAs and token transfers.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "PDAs",
-              "SPL Tokens"
-            ],
-            "outcomes": [
-              "Anchor fundamentals",
-              "PDA understanding",
-              "Token handling"
-            ]
-          },
-          {
-            "title": "Voting Program",
-            "description": "Create a voting program with proposal creation, voting periods, and result tallying using Anchor.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Account Management"
-            ],
-            "outcomes": [
-              "Governance basics",
-              "Account design",
-              "Time-based logic"
-            ]
-          },
-          {
-            "title": "Token Vesting Contract",
-            "description": "Build a vesting program with cliff periods, linear unlocks, and beneficiary management.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Time Logic",
-              "SPL Tokens"
-            ],
-            "outcomes": [
-              "Vesting mechanics",
-              "Token distribution",
-              "Schedule management"
-            ]
-          },
-          {
-            "title": "Subscription Service",
-            "description": "Create a recurring payment program where users subscribe and are charged periodically.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Recurring Logic",
-              "Clockwork"
-            ],
-            "outcomes": [
-              "Recurring payments",
-              "Automation",
-              "Subscription models"
-            ]
-          },
-          {
-            "title": "Multi-sig Wallet",
-            "description": "Implement a multi-signature wallet requiring M-of-N approvals for transactions.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Signatures",
-              "Security"
-            ],
-            "outcomes": [
-              "Multi-sig patterns",
-              "Security practices",
-              "Complex approvals"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "NFT and Token Projects",
-        "description": "Build NFT and token projects on Solana using Metaplex and SPL standards.",
-        "items": [
-          {
-            "title": "Candy Machine Custom Guard",
-            "description": "Create a custom guard for Candy Machine v3 with unique minting conditions.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "Rust",
-              "Metaplex",
-              "Guard Logic"
-            ],
-            "outcomes": [
-              "Metaplex expertise",
-              "Custom logic",
-              "Launch mechanics"
-            ]
-          },
-          {
-            "title": "NFT Staking Program",
-            "description": "Build a staking program for NFTs that rewards holders with SPL tokens based on time staked.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Metaplex",
-              "Rewards"
-            ],
-            "outcomes": [
-              "Staking mechanics",
-              "NFT utility",
-              "Reward calculation"
-            ]
-          },
-          {
-            "title": "Compressed NFT Collection",
-            "description": "Deploy a collection using cNFTs with Bubblegum for cost-effective large-scale mints.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "Rust",
-              "Bubblegum",
-              "State Compression"
-            ],
-            "outcomes": [
-              "cNFT expertise",
-              "Cost optimization",
-              "Scale handling"
-            ]
-          },
-          {
-            "title": "Token Extensions Implementation",
-            "description": "Build tokens using Token-2022 extensions like transfer hooks, fees, and confidential transfers.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "Rust",
-              "Token-2022",
-              "Extensions"
-            ],
-            "outcomes": [
-              "Modern token standard",
-              "Advanced features",
-              "Compliance tools"
-            ]
-          },
-          {
-            "title": "NFT Rental System",
-            "description": "Create an NFT rental program where owners can lend NFTs for a fee while retaining ownership.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Delegation",
-              "Time Logic"
-            ],
-            "outcomes": [
-              "Rental mechanics",
-              "Delegation patterns",
-              "Utility creation"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "DeFi on Solana",
-        "description": "Build DeFi protocols use Solana's speed and low costs.",
-        "items": [
-          {
-            "title": "Simple AMM",
-            "description": "Build a constant product AMM with liquidity provision, swaps, and fee collection.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-5 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "AMM Math",
-              "Liquidity"
-            ],
-            "outcomes": [
-              "AMM fundamentals",
-              "DeFi on Solana",
-              "Math implementation"
-            ]
-          },
-          {
-            "title": "Order Book DEX",
-            "description": "Create a limit order book exchange using Serum's matching engine patterns.",
-            "difficulty": "advanced",
-            "timeEstimate": "5-6 weeks",
-            "skills": [
-              "Rust",
-              "Order Matching",
-              "Data Structures"
-            ],
-            "outcomes": [
-              "Order book design",
-              "High-performance trading",
-              "Complex state"
-            ]
-          },
-          {
-            "title": "Lending Pool",
-            "description": "Build a simple lending pool with deposits, borrows, and interest accrual.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-5 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Interest Math",
-              "Oracles"
-            ],
-            "outcomes": [
-              "Lending mechanics",
-              "Risk parameters",
-              "Oracle integration"
-            ]
-          },
-          {
-            "title": "Yield Aggregator",
-            "description": "Create a vault that auto-compounds yields from multiple Solana DeFi protocols.",
-            "difficulty": "advanced",
-            "timeEstimate": "4-6 weeks",
-            "skills": [
-              "Rust",
-              "CPI",
-              "Yield Strategies"
-            ],
-            "outcomes": [
-              "Cross-program calls",
-              "Yield optimization",
-              "Protocol integration"
-            ]
-          },
-          {
-            "title": "Perpetual Futures Simplified",
-            "description": "Build a simplified perpetual futures contract with funding rates and liquidations.",
-            "difficulty": "advanced",
-            "timeEstimate": "6-8 weeks",
-            "skills": [
-              "Rust",
-              "Derivatives",
-              "Oracles",
-              "Liquidations"
-            ],
-            "outcomes": [
-              "Derivatives expertise",
-              "Complex mechanics",
-              "High-value knowledge"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Infrastructure and Tools",
-        "description": "Build tooling and infrastructure for Solana development.",
-        "items": [
-          {
-            "title": "Anchor Testing Framework",
-            "description": "Create a reusable testing framework for Anchor programs with common test patterns.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "TypeScript",
-              "Anchor",
-              "Testing"
-            ],
-            "outcomes": [
-              "Testing expertise",
-              "Reusable framework",
-              "Quality assurance"
-            ]
-          },
-          {
-            "title": "Transaction Builder UI",
-            "description": "Build a visual interface for constructing and simulating Solana transactions.",
-            "difficulty": "intermediate",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "React",
-              "Solana Web3.js",
-              "UI/UX"
-            ],
-            "outcomes": [
-              "Developer tooling",
-              "Transaction understanding",
-              "User-friendly tool"
-            ]
-          },
-          {
-            "title": "Account Deserializer",
-            "description": "Create a tool that deserializes any Anchor account given the IDL and displays readable data.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "TypeScript",
-              "IDL Parsing",
-              "Serialization"
-            ],
-            "outcomes": [
-              "Debugging tool",
-              "IDL understanding",
-              "Account inspection"
-            ]
-          },
-          {
-            "title": "Priority Fee Calculator",
-            "description": "Build a service that estimates optimal priority fees based on current network conditions.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "TypeScript",
-              "RPC",
-              "Fee Analysis"
-            ],
-            "outcomes": [
-              "Fee optimization",
-              "Network awareness",
-              "User savings"
-            ]
-          },
-          {
-            "title": "Automated Program Upgrade Bot",
-            "description": "Create a CI/CD pipeline for safely deploying and upgrading Solana programs.",
-            "difficulty": "advanced",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "DevOps",
-              "Anchor",
-              "Automation"
-            ],
-            "outcomes": [
-              "Deployment automation",
-              "Safe upgrades",
-              "CI/CD expertise"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Gaming and Social",
-        "description": "Build gaming and social applications use Solana's speed.",
-        "items": [
-          {
-            "title": "On-chain Game State",
-            "description": "Build a simple game (chess, tic-tac-toe) with game state stored entirely on-chain.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Game Logic"
-            ],
-            "outcomes": [
-              "Gaming patterns",
-              "State management",
-              "Turn-based logic"
-            ]
-          },
-          {
-            "title": "Achievement System",
-            "description": "Create an on-chain achievement system that mints soulbound NFTs for completed challenges.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "Rust",
-              "Metaplex",
-              "Achievement Logic"
-            ],
-            "outcomes": [
-              "Gamification",
-              "SBT minting",
-              "Engagement mechanics"
-            ]
-          },
-          {
-            "title": "Social Feed Program",
-            "description": "Build a decentralized social feed where posts are stored on-chain with likes and comments.",
-            "difficulty": "intermediate",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Social Features"
-            ],
-            "outcomes": [
-              "Social mechanics",
-              "Content storage",
-              "Engagement features"
-            ]
-          },
-          {
-            "title": "Tipping Protocol",
-            "description": "Create a protocol for tipping content creators with SPL tokens and tracking contributions.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "SPL Tokens"
-            ],
-            "outcomes": [
-              "Creator economy",
-              "Micropayments",
-              "Attribution tracking"
-            ]
-          },
-          {
-            "title": "Prediction Game",
-            "description": "Build a prediction game where users bet on outcomes with oracle-resolved results.",
-            "difficulty": "intermediate",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Oracles",
-              "Betting Logic"
-            ],
-            "outcomes": [
-              "Prediction markets",
-              "Oracle integration",
-              "Game mechanics"
-            ]
-          }
-        ]
-      },
-      {
-        "heading": "Infrastructure and Tooling",
-        "description": "Build tools that help other Solana developers.",
-        "items": [
-          {
-            "title": "Account Deserializer",
-            "description": "Build a tool that deserializes Solana account data given an IDL.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "TypeScript",
-              "IDL parsing",
-              "Account data"
-            ],
-            "outcomes": [
-              "Developer tooling",
-              "Data inspection",
-              "Debugging aid"
-            ]
-          },
-          {
-            "title": "Transaction Builder UI",
-            "description": "Create a GUI for building and simulating Solana transactions.",
-            "difficulty": "intermediate",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "React",
-              "Solana.js",
-              "Transaction building"
-            ],
-            "outcomes": [
-              "UX tool",
-              "Transaction simulation",
-              "Multi-step building"
-            ]
-          },
-          {
-            "title": "Program Upgrade Tracker",
-            "description": "Build a service that monitors program upgrades and alerts on changes.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2-3 weeks",
-            "skills": [
-              "TypeScript",
-              "Monitoring",
-              "Alerting"
-            ],
-            "outcomes": [
-              "Security tooling",
-              "Change detection",
-              "Monitoring service"
-            ]
-          },
-          {
-            "title": "Compute Budget Analyzer",
-            "description": "Tool to analyze compute unit usage across transactions.",
-            "difficulty": "intermediate",
-            "timeEstimate": "2 weeks",
-            "skills": [
-              "TypeScript",
-              "Transaction analysis",
-              "Optimization"
-            ],
-            "outcomes": [
-              "Performance tooling",
-              "Cost analysis",
-              "Optimization insights"
-            ]
-          },
-          {
-            "title": "Multi-sig Program",
-            "description": "Build a multi-signature program for secure team transactions.",
-            "difficulty": "advanced",
-            "timeEstimate": "3-4 weeks",
-            "skills": [
-              "Rust",
-              "Anchor",
-              "Access control"
-            ],
-            "outcomes": [
-              "Security patterns",
-              "Team management",
-              "Governance"
-            ]
-          }
-        ]
-      }
-    ],
-    "proTips": [
-      {
-        "tip": "Master the account model first. Solana's programming model is fundamentally different from EVM, and accounts are the key."
-      },
-      {
-        "tip": "Use Anchor for most projects but understand native Solana programs too. Some optimizations require going lower-level."
-      },
-      {
-        "tip": "Test on devnet extensively. Solana's transaction limits and compute budgets catch many developers off guard."
-      },
-      {
-        "tip": "Learn to read Solana explorer transaction logs. They tell you exactly what happened when things go wrong."
-      },
-      {
-        "tip": "Join the Anchor Discord and follow Solana developers on Twitter. The ecosystem moves fast and knowledge is shared publicly."
-      }
-    ]
-  }
+ "meta": {
+ "contentType": "ideas",
+ "topic": "portfolio-project",
+ "niche": "solana-developer",
+ "generatedAt": "2026-05-17T05:30:09.450Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "50 Portfolio Project Ideas for Solana Developers",
+ "description": "Build an impressive Solana portfolio with these 50 project ideas. From Anchor programs to DeFi protocols, showcase your Rust and Solana expertise.",
+ "keywords": [
+ "solana-developer",
+ "portfolio",
+ "Anchor",
+ "Rust",
+ "SPL",
+ "web3",
+ "Metaplex",
+ "Solana"
+ ],
+ "canonicalSlug": "portfolio-project-ideas-for-solana-developer"
+ },
+ "content": {
+ "intro": "Solana's high-performance architecture requires a different approach than EVM chains. These projects will help you demonstrate expertise in Anchor, account models, and Solana-specific patterns.",
+ "sections": [
+ {
+ "heading": "Anchor Program Fundamentals",
+ "description": "Master the basics of Solana program development with Anchor.",
+ "items": [
+ {
+ "title": "Simple Escrow Program",
+ "description": "Build an escrow program that holds tokens until conditions are met, demonstrating PDAs and token transfers.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "PDAs",
+ "SPL Tokens"
+ ],
+ "outcomes": [
+ "Anchor fundamentals",
+ "PDA understanding",
+ "Token handling"
+ ]
+ },
+ {
+ "title": "Voting Program",
+ "description": "Create a voting program with proposal creation, voting periods, and result tallying using Anchor.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Account Management"
+ ],
+ "outcomes": [
+ "Governance basics",
+ "Account design",
+ "Time-based logic"
+ ]
+ },
+ {
+ "title": "Token Vesting Contract",
+ "description": "Build a vesting program with cliff periods, linear unlocks, and beneficiary management.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Time Logic",
+ "SPL Tokens"
+ ],
+ "outcomes": [
+ "Vesting mechanics",
+ "Token distribution",
+ "Schedule management"
+ ]
+ },
+ {
+ "title": "Subscription Service",
+ "description": "Create a recurring payment program where users subscribe and are charged periodically.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Recurring Logic",
+ "Clockwork"
+ ],
+ "outcomes": [
+ "Recurring payments",
+ "Automation",
+ "Subscription models"
+ ]
+ },
+ {
+ "title": "Multi-sig Wallet",
+ "description": "Implement a multi-signature wallet requiring M-of-N approvals for transactions.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Signatures",
+ "Security"
+ ],
+ "outcomes": [
+ "Multi-sig patterns",
+ "Security practices",
+ "Complex approvals"
+ ]
+ }
+ ]
+ },
+ {
+ "heading": "NFT and Token Projects",
+ "description": "Build NFT and token projects on Solana using Metaplex and SPL standards.",
+ "items": [
+ {
+ "title": "Candy Machine Custom Guard",
+ "description": "Create a custom guard for Candy Machine v3 with unique minting conditions.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "Rust",
+ "Metaplex",
+ "Guard Logic"
+ ],
+ "outcomes": [
+ "Metaplex expertise",
+ "Custom logic",
+ "Launch mechanics"
+ ]
+ },
+ {
+ "title": "NFT Staking Program",
+ "description": "Build a staking program for NFTs that rewards holders with SPL tokens based on time staked.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Metaplex",
+ "Rewards"
+ ],
+ "outcomes": [
+ "Staking mechanics",
+ "NFT utility",
+ "Reward calculation"
+ ]
+ },
+ {
+ "title": "Compressed NFT Collection",
+ "description": "Deploy a collection using cNFTs with Bubblegum for cost-effective large-scale mints.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "Rust",
+ "Bubblegum",
+ "State Compression"
+ ],
+ "outcomes": [
+ "cNFT expertise",
+ "Cost optimization",
+ "Scale handling"
+ ]
+ },
+ {
+ "title": "Token Extensions Implementation",
+ "description": "Build tokens using Token-2022 extensions like transfer hooks, fees, and confidential transfers.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "Rust",
+ "Token-2022",
+ "Extensions"
+ ],
+ "outcomes": [
+ "Modern token standard",
+ "Advanced features",
+ "Compliance tools"
+ ]
+ },
+ {
+ "title": "NFT Rental System",
+ "description": "Create an NFT rental program where owners can lend NFTs for a fee while retaining ownership.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Delegation",
+ "Time Logic"
+ ],
+ "outcomes": [
+ "Rental mechanics",
+ "Delegation patterns",
+ "Utility creation"
+ ]
+ }
+ ]
+ },
+ {
+ "heading": "DeFi on Solana",
+ "description": "Build DeFi protocols use Solana's speed and low costs.",
+ "items": [
+ {
+ "title": "Simple AMM",
+ "description": "Build a constant product AMM with liquidity provision, swaps, and fee collection.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-5 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "AMM Math",
+ "Liquidity"
+ ],
+ "outcomes": [
+ "AMM fundamentals",
+ "DeFi on Solana",
+ "Math implementation"
+ ]
+ },
+ {
+ "title": "Order Book DEX",
+ "description": "Create a limit order book exchange using Serum's matching engine patterns.",
+ "difficulty": "advanced",
+ "timeEstimate": "5-6 weeks",
+ "skills": [
+ "Rust",
+ "Order Matching",
+ "Data Structures"
+ ],
+ "outcomes": [
+ "Order book design",
+ "High-performance trading",
+ "Complex state"
+ ]
+ },
+ {
+ "title": "Lending Pool",
+ "description": "Build a simple lending pool with deposits, borrows, and interest accrual.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-5 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Interest Math",
+ "Oracles"
+ ],
+ "outcomes": [
+ "Lending mechanics",
+ "Risk parameters",
+ "Oracle integration"
+ ]
+ },
+ {
+ "title": "Yield Aggregator",
+ "description": "Create a vault that auto-compounds yields from multiple Solana DeFi protocols.",
+ "difficulty": "advanced",
+ "timeEstimate": "4-6 weeks",
+ "skills": [
+ "Rust",
+ "CPI",
+ "Yield Strategies"
+ ],
+ "outcomes": [
+ "Cross-program calls",
+ "Yield optimization",
+ "Protocol integration"
+ ]
+ },
+ {
+ "title": "Perpetual Futures Simplified",
+ "description": "Build a simplified perpetual futures contract with funding rates and liquidations.",
+ "difficulty": "advanced",
+ "timeEstimate": "6-8 weeks",
+ "skills": [
+ "Rust",
+ "Derivatives",
+ "Oracles",
+ "Liquidations"
+ ],
+ "outcomes": [
+ "Derivatives expertise",
+ "Complex mechanics",
+ "High-value knowledge"
+ ]
+ }
+ ]
+ },
+ {
+ "heading": "Infrastructure and Tools",
+ "description": "Build tooling and infrastructure for Solana development.",
+ "items": [
+ {
+ "title": "Anchor Testing Framework",
+ "description": "Create a reusable testing framework for Anchor programs with common test patterns.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "TypeScript",
+ "Anchor",
+ "Testing"
+ ],
+ "outcomes": [
+ "Testing expertise",
+ "Reusable framework",
+ "Quality assurance"
+ ]
+ },
+ {
+ "title": "Transaction Builder UI",
+ "description": "Build a visual interface for constructing and simulating Solana transactions.",
+ "difficulty": "intermediate",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "React",
+ "Solana Web3.js",
+ "UI/UX"
+ ],
+ "outcomes": [
+ "Developer tooling",
+ "Transaction understanding",
+ "User-friendly tool"
+ ]
+ },
+ {
+ "title": "Account Deserializer",
+ "description": "Create a tool that deserializes any Anchor account given the IDL and displays readable data.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "TypeScript",
+ "IDL Parsing",
+ "Serialization"
+ ],
+ "outcomes": [
+ "Debugging tool",
+ "IDL understanding",
+ "Account inspection"
+ ]
+ },
+ {
+ "title": "Priority Fee Calculator",
+ "description": "Build a service that estimates optimal priority fees based on current network conditions.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "TypeScript",
+ "RPC",
+ "Fee Analysis"
+ ],
+ "outcomes": [
+ "Fee optimization",
+ "Network awareness",
+ "User savings"
+ ]
+ },
+ {
+ "title": "Automated Program Upgrade Bot",
+ "description": "Create a CI/CD pipeline for safely deploying and upgrading Solana programs.",
+ "difficulty": "advanced",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "DevOps",
+ "Anchor",
+ "Automation"
+ ],
+ "outcomes": [
+ "Deployment automation",
+ "Safe upgrades",
+ "CI/CD expertise"
+ ]
+ }
+ ]
+ },
+ {
+ "heading": "Gaming and Social",
+ "description": "Build gaming and social applications use Solana's speed.",
+ "items": [
+ {
+ "title": "On-chain Game State",
+ "description": "Build a simple game (chess, tic-tac-toe) with game state stored entirely on-chain.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Game Logic"
+ ],
+ "outcomes": [
+ "Gaming patterns",
+ "State management",
+ "Turn-based logic"
+ ]
+ },
+ {
+ "title": "Achievement System",
+ "description": "Create an on-chain achievement system that mints soulbound NFTs for completed challenges.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "Rust",
+ "Metaplex",
+ "Achievement Logic"
+ ],
+ "outcomes": [
+ "Gamification",
+ "SBT minting",
+ "Engagement mechanics"
+ ]
+ },
+ {
+ "title": "Social Feed Program",
+ "description": "Build a decentralized social feed where posts are stored on-chain with likes and comments.",
+ "difficulty": "intermediate",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Social Features"
+ ],
+ "outcomes": [
+ "Social mechanics",
+ "Content storage",
+ "Engagement features"
+ ]
+ },
+ {
+ "title": "Tipping Protocol",
+ "description": "Create a protocol for tipping content creators with SPL tokens and tracking contributions.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "SPL Tokens"
+ ],
+ "outcomes": [
+ "Creator economy",
+ "Micropayments",
+ "Attribution tracking"
+ ]
+ },
+ {
+ "title": "Prediction Game",
+ "description": "Build a prediction game where users bet on outcomes with oracle-resolved results.",
+ "difficulty": "intermediate",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Oracles",
+ "Betting Logic"
+ ],
+ "outcomes": [
+ "Prediction markets",
+ "Oracle integration",
+ "Game mechanics"
+ ]
+ }
+ ]
+ },
+ {
+ "heading": "Infrastructure and Tooling",
+ "description": "Build tools that help other Solana developers.",
+ "items": [
+ {
+ "title": "Account Deserializer",
+ "description": "Build a tool that deserializes Solana account data given an IDL.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "TypeScript",
+ "IDL parsing",
+ "Account data"
+ ],
+ "outcomes": [
+ "Developer tooling",
+ "Data inspection",
+ "Debugging aid"
+ ]
+ },
+ {
+ "title": "Transaction Builder UI",
+ "description": "Create a GUI for building and simulating Solana transactions.",
+ "difficulty": "intermediate",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "React",
+ "Solana.js",
+ "Transaction building"
+ ],
+ "outcomes": [
+ "UX tool",
+ "Transaction simulation",
+ "Multi-step building"
+ ]
+ },
+ {
+ "title": "Program Upgrade Tracker",
+ "description": "Build a service that monitors program upgrades and alerts on changes.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2-3 weeks",
+ "skills": [
+ "TypeScript",
+ "Monitoring",
+ "Alerting"
+ ],
+ "outcomes": [
+ "Security tooling",
+ "Change detection",
+ "Monitoring service"
+ ]
+ },
+ {
+ "title": "Compute Budget Analyzer",
+ "description": "Tool to analyze compute unit usage across transactions.",
+ "difficulty": "intermediate",
+ "timeEstimate": "2 weeks",
+ "skills": [
+ "TypeScript",
+ "Transaction analysis",
+ "Optimization"
+ ],
+ "outcomes": [
+ "Performance tooling",
+ "Cost analysis",
+ "Optimization insights"
+ ]
+ },
+ {
+ "title": "Multi-sig Program",
+ "description": "Build a multi-signature program for secure team transactions.",
+ "difficulty": "advanced",
+ "timeEstimate": "3-4 weeks",
+ "skills": [
+ "Rust",
+ "Anchor",
+ "Access control"
+ ],
+ "outcomes": [
+ "Security patterns",
+ "Team management",
+ "Governance"
+ ]
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Master the account model first. Solana's programming model is fundamentally different from EVM, and accounts are the key."
+ },
+ {
+ "tip": "Use Anchor for most projects but understand native Solana programs too. Some optimizations require going lower-level."
+ },
+ {
+ "tip": "Test on devnet extensively. Solana's transaction limits and compute budgets catch many developers off guard."
+ },
+ {
+ "tip": "Learn to read Solana explorer transaction logs. They tell you exactly what happened when things go wrong."
+ },
+ {
+ "tip": "Join the Anchor Discord and follow Solana developers on Twitter. The ecosystem moves fast and knowledge is shared publicly."
+ }
+ ]
+ }
 }

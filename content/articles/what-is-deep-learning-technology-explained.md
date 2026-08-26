@@ -2,8 +2,8 @@
 title: What is Deep Learning Technology Explained
 image: 'https://picsum.photos/seed/deep-learning/1200/630'
 description: >-
-  A clear look at deep learning, a powerful type of machine learning that uses
-  neural networks to solve complex problems like image recognition and natural.
+ A clear look at deep learning, a powerful type of machine learning that uses
+ neural networks to solve complex problems like image recognition and natural.
 category: Educational
 data-ai-hint: neural network
 publishedDate: '2026-03-11'

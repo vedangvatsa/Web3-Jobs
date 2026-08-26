@@ -1,10 +1,10 @@
 ---
 title: Building a Killer Web3 Developer Portfolio
 image: >-
-  https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&lib=rb-4.1.0&q=80&w=1080
+ https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&lib=rb-4.1.0&q=80&w=1080
 description: >-
-  In Web3, your GitHub is your resume. This guide covers the essential projects
-  you need in your portfolio to land a job as a blockchain developer, from.
+ In Web3, your GitHub is your resume. This guide covers the essential projects
+ you need in your portfolio to land a job as a blockchain developer, from.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"

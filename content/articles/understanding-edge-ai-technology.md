@@ -1,8 +1,8 @@
 ---
 title: Understanding Edge AI Technology
 description: >-
-  Learn how edge AI processes data locally for faster, more efficient machine
-  learning.
+ Learn how edge AI processes data locally for faster, more efficient machine
+ learning.
 category: Educational
 image: 'https://picsum.photos/seed/edgeai/1200/630'
 data-ai-hint: ai chip

@@ -2,8 +2,8 @@
 title: First Time Manager Complete Survival Guide
 image: 'https://picsum.photos/seed/ftm1/1200/630'
 description: >-
-  Stepping into management for the first time? Here's your no-nonsense survival
-  guide to work through the challenges and thrive in your new leadership role.
+ Stepping into management for the first time? Here's your no-nonsense survival
+ guide to work through the challenges and thrive in your new leadership role.
 category: Career Guides
 data-ai-hint: new manager
 publishedDate: '2026-03-11'

@@ -3,8 +3,8 @@ title: Building Blockchain Applications Using Python
 image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
 data-ai-hint: python code blockchain
 description: >-
-  A developer's guide to using Python for blockchain and Web3 development. Learn
-  about the key libraries like Web3.py and the use cases where Python excels.
+ A developer's guide to using Python for blockchain and Web3 development. Learn
+ about the key libraries like Web3.py and the use cases where Python excels.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-08-26"
