@@ -1,128 +1,89 @@
-'use client';
-
 import Link from 'next/link';
-import type { Job, Company } from '@/types';
-import { getJobSlug } from '@/lib/job-slugs';
-import { Button } from '@/components/ui/button';
-import { Badge } from '@/components/ui/badge';
-import { 
-  MapPin, 
-  ExternalLink, 
-  ArrowLeft, 
-  Clock, 
-  ArrowRight
-} from 'lucide-react';
+import { ArrowLeft, ArrowRight, Clock, ExternalLink, MapPin } from 'lucide-react';
+import type { Company, Job } from '@/types';
+import { CompanyLogo } from '@/components/company-logo';
 import { JobApplicationButton } from '@/components/tracking/job-application-button';
+import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 
 interface JobDetailViewProps {
   job: Job;
   contentHtml: string;
   company: Partial<Company> | null;
-  relatedJobs: Job[];
   siteUrl: string;
   logoSrc?: string | null;
+  faviconUrl?: string | null;
+}
+
+function getPostedLabel(date: string): string | null {
+  const postedAt = new Date(date);
+  if (Number.isNaN(postedAt.getTime())) return null;
+
+  const daysAgo = Math.max(0, Math.floor((Date.now() - postedAt.getTime()) / 86_400_000));
+  if (daysAgo === 0) return 'Posted today';
+  if (daysAgo === 1) return 'Posted yesterday';
+  return `Posted ${daysAgo} days ago`;
 }
 
 export function JobDetailView({
   job,
   contentHtml,
   company,
-  relatedJobs,
   siteUrl,
   logoSrc = null,
+  faviconUrl = null,
 }: JobDetailViewProps) {
   const slug = getJobSlug(job);
-  const companySlug = (job.company || 'web3')
-    .toLowerCase()
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
+  const companySlug = getCompanySlug(job.company);
+  const canonicalUrl = `${siteUrl}/jobs/${slug}`;
+  const companyUrl = `${siteUrl}/${companySlug}`;
+  const postedLabel = job.dateVerified === false ? null : getPostedLabel(job.date);
+  const postedDate = new Date(job.date);
+  const absoluteLogoUrl = logoSrc
+    ? logoSrc.startsWith('http')
+      ? logoSrc
+      : `${siteUrl}${logoSrc.startsWith('/') ? '' : '/'}${logoSrc}`
+    : null;
 
-  const effectiveLogoSrc = logoSrc || `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${companySlug.replace(/-/g, '')}.com&size=128`;
-
-  const canonicalUrl = `${siteUrl}/${slug}`;
-
-  const daysAgo = Math.max(0, Math.floor((Date.now() - new Date(job.date).getTime()) / (1000 * 60 * 60 * 24)));
-  const relativeDate = daysAgo === 0 ? 'Today' : daysAgo === 1 ? 'Yesterday' : `${daysAgo} days ago`;
-
-  const absoluteLogoUrl = effectiveLogoSrc.startsWith('http')
-    ? effectiveLogoSrc
-    : `${siteUrl}${effectiveLogoSrc.startsWith('/') ? '' : '/'}${effectiveLogoSrc}`;
-
-  const lowerTitle = (job.title || '').toLowerCase();
-  let employmentType = 'FULL_TIME';
-  if (lowerTitle.includes('part-time') || lowerTitle.includes('part time')) {
-    employmentType = 'PART_TIME';
-  } else if (lowerTitle.includes('contract') || lowerTitle.includes('freelance')) {
-    employmentType = 'CONTRACTOR';
-  } else if (lowerTitle.includes('intern')) {
-    employmentType = 'INTERN';
-  }
+  const hiringOrganization = {
+    '@type': 'Organization',
+    name: job.company,
+    url: companyUrl,
+    ...(company?.website && { sameAs: company.website }),
+    ...(absoluteLogoUrl && { logo: absoluteLogoUrl }),
+  };
 
   const jobPostingSchema = {
     '@context': 'https://schema.org',
     '@type': 'JobPosting',
     title: job.title,
     description: contentHtml,
-    datePosted: new Date(job.date).toISOString(),
-    validThrough: new Date(new Date(job.date).getTime() + 60 * 24 * 60 * 60 * 1000).toISOString(),
-    employmentType: employmentType,
-    hiringOrganization: {
-      '@type': 'Organization',
-      name: job.company,
-      sameAs: company?.website || `${siteUrl}/${companySlug}`,
-      logo: absoluteLogoUrl,
-    },
-    jobLocation: {
-      '@type': 'Place',
-      address: {
-        '@type': 'PostalAddress',
-        addressLocality: 'Remote',
-        addressCountry: 'Worldwide',
+    ...(job.dateVerified !== false && !Number.isNaN(postedDate.getTime()) && { datePosted: postedDate.toISOString() }),
+    hiringOrganization,
+    ...(job.location && {
+      jobLocation: {
+        '@type': 'Place',
+        address: {
+          '@type': 'PostalAddress',
+          addressLocality: job.location,
+        },
       },
-    },
-    applicantLocationRequirements: {
-      '@type': 'Country',
-      name: 'Worldwide',
-    },
-    jobLocationType: 'TELECOMMUTE',
+    }),
     url: canonicalUrl,
-    directApply: true,
   };
 
   const breadcrumbSchema = {
     '@context': 'https://schema.org',
     '@type': 'BreadcrumbList',
     itemListElement: [
-      {
-        '@type': 'ListItem',
-        position: 1,
-        name: 'Home',
-        item: siteUrl,
-      },
-      {
-        '@type': 'ListItem',
-        position: 2,
-        name: 'Jobs',
-        item: `${siteUrl}/jobs`,
-      },
-      {
-        '@type': 'ListItem',
-        position: 3,
-        name: job.company,
-        item: `${siteUrl}/${companySlug}`,
-      },
-      {
-        '@type': 'ListItem',
-        position: 4,
-        name: job.title,
-        item: canonicalUrl,
-      },
+      { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+      { '@type': 'ListItem', position: 2, name: 'Jobs', item: `${siteUrl}/jobs` },
+      { '@type': 'ListItem', position: 3, name: job.company, item: companyUrl },
+      { '@type': 'ListItem', position: 4, name: job.title, item: canonicalUrl },
     ],
   };
 
   return (
-    <article className="w-full">
-      {/* JSON-LD Schemas */}
+    <article className="mx-auto w-full max-w-4xl px-4 py-10 sm:py-14">
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(jobPostingSchema) }}
@@ -132,129 +93,80 @@ export function JobDetailView({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      <div className="container mx-auto page-section px-4">
-        <div className="site-container">
-        
-        {/* Breadcrumb Navigation */}
-        <nav aria-label="Breadcrumb" className="mb-6 flex items-center space-x-2 text-sm text-muted-foreground">
-          <Link href="/" className="hover:text-foreground transition-colors">Home</Link>
-          <span>/</span>
-          <Link href="/jobs" className="hover:text-foreground transition-colors">Jobs</Link>
-          <span>/</span>
-          <Link href={`/${companySlug}`} className="hover:text-foreground transition-colors">{job.company}</Link>
-          <span>/</span>
-          <span className="text-foreground truncate max-w-[200px] sm:max-w-xs">{job.title}</span>
-        </nav>
+      <nav aria-label="Breadcrumb" className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground">
+        <Link href="/" className="hover:text-foreground">Home</Link>
+        <span aria-hidden="true">/</span>
+        <Link href="/jobs" className="hover:text-foreground">Jobs</Link>
+        <span aria-hidden="true">/</span>
+        <Link href={`/${companySlug}`} className="hover:text-foreground">{job.company}</Link>
+      </nav>
 
-        {/* Job Hero Header Card */}
-        <div className="bg-card border border-border/70 rounded-xl p-6 sm:p-8 shadow-sm mb-8">
-          <div className="flex flex-col md:flex-row md:items-start justify-between gap-6">
-            
-            <div className="flex flex-col sm:flex-row items-start gap-5 flex-1 min-w-0">
-              <div className="w-16 h-16 sm:w-20 sm:h-20 rounded-xl overflow-hidden border border-border/80 bg-white flex items-center justify-center p-2 shrink-0 shadow-sm">
-                <img 
-                  src={effectiveLogoSrc} 
-                  alt={`${job.company} logo`} 
-                  className="max-w-full max-h-full object-contain"
-                  onError={(e) => {
-                    e.currentTarget.src = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${companySlug.replace(/-/g, '')}.com&size=128`;
-                  }}
-                />
-              </div>
-              
-              <div className="space-y-4 flex-1 min-w-0">
-                <div className="flex flex-wrap items-center gap-2">
-                  <Badge variant="outline" className="text-muted-foreground">
-                    <Clock className="w-3.5 h-3.5 mr-1" /> Posted {relativeDate}
-                  </Badge>
-                </div>
-
-                <h1 className="text-2xl sm:text-3xl lg:text-4xl font-bold tracking-tight text-foreground leading-tight">
-                  {job.title}
-                </h1>
-
-                <div className="flex flex-wrap items-center gap-y-2 gap-x-6 text-sm text-muted-foreground pt-1">
-                  <Link 
-                    href={`/${companySlug}`}
-                    className="flex items-center gap-2 font-semibold text-foreground hover:text-primary transition-colors"
-                  >
-                    {job.company}
-                  </Link>
-                  <div className="flex items-center gap-1.5">
-                    <MapPin className="w-4 h-4 text-muted-foreground" />
-                    Remote / Global
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            {/* Action Buttons */}
-            <div className="flex flex-col sm:flex-row md:flex-col gap-3 min-w-[180px] shrink-0">
-              <JobApplicationButton
-                jobId={job.id}
-                jobTitle={job.title}
-                companyName={job.company}
-                jobUrl={job.link}
-                source={job.source}
-                date={job.date}
-              >
-                <Button size="lg" className="w-full text-base font-semibold shadow-sm hover:shadow transition-all">
-                  Apply <ExternalLink className="ml-2 w-4 h-4" />
-                </Button>
-              </JobApplicationButton>
-
-              <Button variant="outline" size="lg" asChild className="w-full text-base font-semibold">
-                <Link href={`/${companySlug}`}>
-                  More roles by {job.company}
-                </Link>
-              </Button>
-            </div>
-
-          </div>
-        </div>
-
-        {/* Main Layout: Single Column Centered */}
-        <div className="space-y-8">
-          
-          <div 
-            className="prose prose-slate dark:prose-invert max-w-none prose-headings:font-bold prose-headings:tracking-tight prose-a:text-primary prose-ul:my-4 prose-li:my-1 text-foreground/90 leading-relaxed"
-            dangerouslySetInnerHTML={{ __html: contentHtml }}
-          />
-
-          {/* Centered Apply Button */}
-          <div className="flex justify-center pt-8">
-            <JobApplicationButton
-              jobId={job.id}
-              jobTitle={job.title}
-              companyName={job.company}
-              jobUrl={job.link}
-              source={job.source}
-              date={job.date}
-            >
-              <Button size="lg" className="font-semibold shadow min-w-[200px] text-base py-6">
-                Apply <ExternalLink className="ml-2 w-4 h-4" />
-              </Button>
-            </JobApplicationButton>
+      <header className="border-b pb-8">
+        <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
+          <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-lg border bg-background p-2">
+            <CompanyLogo
+              logoSrc={logoSrc}
+              faviconUrl={faviconUrl}
+              name={job.company}
+              size="h-full w-full"
+            />
           </div>
 
-        </div>
-
-        {/* Bottom Back Button */}
-        <div className="mt-12 pt-8 border-t border-border/60 flex items-center justify-between">
-          <Button variant="outline" asChild>
-            <Link href="/jobs" className="flex items-center gap-2">
-              <ArrowLeft className="w-4 h-4" /> Back to All Jobs
+          <div className="min-w-0 flex-1">
+            <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{job.title}</h1>
+            <Link href={`/${companySlug}`} className="mt-2 inline-block font-medium hover:text-primary">
+              {job.company}
             </Link>
-          </Button>
-          <Button variant="outline" asChild>
-            <Link href={`/${companySlug}`}>
-              All {job.company} Openings <ArrowRight className="ml-2 w-4 h-4" />
-            </Link>
-          </Button>
-        </div>
 
-      </div>
-    </div>
-  </article>
-);
+            {(job.location || postedLabel) && (
+              <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
+                {job.location && (
+                  <span className="flex items-center gap-1.5">
+                    <MapPin className="h-4 w-4" aria-hidden="true" />
+                    {job.location}
+                  </span>
+                )}
+                {postedLabel && (
+                  <span className="flex items-center gap-1.5">
+                    <Clock className="h-4 w-4" aria-hidden="true" />
+                    {postedLabel}
+                  </span>
+                )}
+              </div>
+            )}
+          </div>
+
+          <JobApplicationButton
+            jobId={job.id}
+            jobTitle={job.title}
+            companyName={job.company}
+            jobUrl={job.link}
+            source={job.source}
+            date={job.dateVerified === false ? undefined : job.date}
+          >
+            <span className="inline-flex h-11 w-full items-center justify-center gap-2 whitespace-nowrap rounded-md bg-primary px-8 text-sm font-medium text-primary-foreground hover:bg-primary/90 sm:w-auto">
+              Apply on employer site
+              <ExternalLink className="h-4 w-4" aria-hidden="true" />
+            </span>
+          </JobApplicationButton>
+        </div>
+      </header>
+
+      <section
+        className="prose prose-slate mt-10 max-w-none dark:prose-invert prose-headings:tracking-tight prose-a:text-primary"
+        dangerouslySetInnerHTML={{ __html: contentHtml }}
+      />
+
+      <footer className="mt-12 flex flex-col gap-3 border-t pt-6 text-sm sm:flex-row sm:items-center sm:justify-between">
+        <Link href="/jobs" className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground">
+          <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+          All jobs
+        </Link>
+        <Link href={`/${companySlug}`} className="inline-flex items-center gap-2 font-medium hover:text-primary">
+          More roles at {job.company}
+          <ArrowRight className="h-4 w-4" aria-hidden="true" />
+        </Link>
+      </footer>
+    </article>
+  );
 }

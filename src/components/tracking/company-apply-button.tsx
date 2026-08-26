@@ -23,7 +23,7 @@ export function CompanyApplyButton({
  return (
   <a href={jobUrl} target="_blank" rel="noopener noreferrer" onClick={handleClick}>
    <Button>
-    Apply Now
+    Apply
     <ExternalLink className="ml-2 h-4 w-4" />
    </Button>
   </a>

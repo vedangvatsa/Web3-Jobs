@@ -58,7 +58,7 @@ function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
 
 function getFlagEmoji(countryName: string): string {
   const countryCode = Object.keys(countryMap).find((code) => countryMap[code] === countryName);
-  if (!countryCode) return '🌐';
+  if (!countryCode) return '';
   const codePoints = countryCode
     .toUpperCase()
     .split('')

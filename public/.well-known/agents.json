@@ -75,11 +75,11 @@
     {
       "name": "Company Directory",
       "description": "Browse companies hiring for Web3 roles with open position counts.",
-      "url_pattern": "https://hashtagweb3.com/companies/{company-slug}",
+      "url_pattern": "https://hashtagweb3.com/{company-slug}",
       "examples": [
-        "https://hashtagweb3.com/companies/coinbase",
-        "https://hashtagweb3.com/companies/stripe",
-        "https://hashtagweb3.com/companies/binance"
+        "https://hashtagweb3.com/coinbase",
+        "https://hashtagweb3.com/stripe",
+        "https://hashtagweb3.com/binance"
       ]
     },
     {

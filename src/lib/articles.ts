@@ -11,8 +11,14 @@ import html from 'remark-html';
 import sanitizeHtml from 'sanitize-html';
 
 const contentArticlesDirectory = path.join(process.cwd(), 'content/articles');
+type ArticleMetadata = Omit<Article, 'content' | 'rawContent'>;
 
-function readArticlesFromDirectory(directory: string): Omit<Article, 'content' | 'rawContent'>[] {
+// Article files are immutable within a deployed server/build process. Cache the
+// parsed frontmatter so shared layout consumers (notably the footer) do not
+// re-read all article bodies for every prerendered route.
+let articleMetadataCache: ArticleMetadata[] | undefined;
+
+function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
  if (!fs.existsSync(directory)) {
   return [];
  }
@@ -50,7 +56,7 @@ function readArticlesFromDirectory(directory: string): Omit<Article, 'content' |
     lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
    };
   })
-  .filter((article): article is NonNullable<typeof article> => article !== null) as Omit<Article, 'content' | 'rawContent'>[];
+  .filter((article): article is NonNullable<typeof article> => article !== null) as ArticleMetadata[];
 }
 
 function removePlaceholderKeyTakeaways(content: string): string {
@@ -60,9 +66,20 @@ function removePlaceholderKeyTakeaways(content: string): string {
  });
 }
 
-export async function getAllArticles(): Promise<Omit<Article, 'content' | 'rawContent'>[]> {
- const contentArticles = readArticlesFromDirectory(contentArticlesDirectory);
- return contentArticles.sort((a, b) => a.title.localeCompare(b.title));
+export async function getAllArticles(): Promise<ArticleMetadata[]> {
+ if (process.env.NODE_ENV !== 'production') {
+  return readArticlesFromDirectory(contentArticlesDirectory)
+   .sort((a, b) => a.title.localeCompare(b.title));
+ }
+
+ if (!articleMetadataCache) {
+  articleMetadataCache = readArticlesFromDirectory(contentArticlesDirectory)
+   .sort((a, b) => a.title.localeCompare(b.title));
+ }
+
+ // Callers sort the result for their own views, so return a fresh array while
+ // retaining the cached metadata objects and their existing visible values.
+ return [...articleMetadataCache];
 }
 
 export async function getArticle(slug: string): Promise<Article | undefined> {

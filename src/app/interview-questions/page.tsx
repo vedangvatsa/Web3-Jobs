@@ -1,18 +1,12 @@
-
-'use client';
-
-import * as React from 'react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
 import { Badge } from '@/components/ui/badge';
-import { interviewData, Role } from '@/lib/interview-questions';
+import { interviewData, type Question, type Role } from '@/lib/interview-questions';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { cn } from '@/lib/utils';
-import { Button } from '@/components/ui/button';
 import { PageHeader } from "@/components/page-header";
 import { CtaBanner } from "@/components/cta-banner";
 
-const QuestionItem = ({ question }: { question: any }) => (
+const QuestionItem = ({ question }: { question: Question }) => (
  <div className="border-b py-4">
   <div className="flex flex-wrap items-center gap-2 mb-2">
    <Badge variant="outline" className="font-mono text-xs">{question.id}</Badge>
@@ -89,7 +83,7 @@ const faqSchema = {
  '@context': 'https://schema.org',
  '@type': 'FAQPage',
  mainEntity: interviewData.roles.flatMap(role =>
-  Object.values(role.questions).flat().slice(0, 2).map((q: any) => ({
+  Object.values(role.questions).flat().slice(0, 2).map((q) => ({
    '@type': 'Question',
    name: q.question,
    acceptedAnswer: {

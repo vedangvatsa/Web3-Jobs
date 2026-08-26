@@ -6,8 +6,12 @@ export interface Job {
  company: string;
  link: string;
  date: string; // ISO string for serialization
+ dateVerified?: boolean; // false when the source exposes discovery time only
  source: string;
  slug?: string;
+ location?: string;
+ department?: string;
+ active?: boolean;
 }
 
 export interface Article {

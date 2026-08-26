@@ -60,7 +60,3 @@ The company has also announced partnerships with major firms including:
 - BlackRock (August 2022): Allowing BlackRock clients to use Aladdin to oversee bitcoin exposure
 - Google Cloud Platform (October 2022): Customers can pay for cloud services with cryptocurrencies
 - Kalshi (November 2025): Launching prediction markets on the platform
-
-## Sources
-
-Information compiled from official Coinbase website (coinbase.com/about) and Wikipedia.

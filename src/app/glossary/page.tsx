@@ -1,7 +1,7 @@
 import { getAllTerms, getCategoriesWithCounts, getGlossaryStats } from '@/lib/glossary';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { BookOpen, TrendingUp } from 'lucide-react';
+import { ArrowLeft, BookOpen, TrendingUp } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
@@ -72,8 +72,9 @@ export default async function GlossaryPage({
        {searchParams.category ? (
         <>
          <div className="mb-4">
-          <Link href="/glossary" className="text-sm text-muted-foreground hover:text-primary">
-           ← All Terms
+          <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
+           <ArrowLeft className="h-4 w-4" aria-hidden="true" />
+           All Terms
           </Link>
          </div>
          <PageHeader title={searchParams.category} />

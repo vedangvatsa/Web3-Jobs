@@ -85,7 +85,6 @@ export function middleware(request: NextRequest) {
   // Add security + agentic web headers to all responses
   const response = NextResponse.next();
   response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
-  response.headers.set('X-Robots-Tag', 'index, follow');
   response.headers.set('X-Content-Type-Options', 'nosniff');
   response.headers.set('X-Frame-Options', 'DENY');
   response.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
