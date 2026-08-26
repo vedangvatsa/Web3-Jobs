@@ -570,16 +570,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
 
 
                     {/* Footer Action */}
-                    <div className="pt-3 mt-auto border-t border-border/40 flex items-center justify-between text-xs">
-                      <span className="text-[11px] text-muted-foreground uppercase tracking-wider font-semibold">
-                        {event.source === 'curated-premier' ? (
-                          <span className="text-muted-foreground font-semibold">
-                            Curated
-                          </span>
-                        ) : (
-                          event.source || 'Web3'
-                        )}
-                      </span>
+                    <div className="pt-3 mt-auto border-t border-border/40 flex items-center justify-end text-xs">
                       <span className="font-medium text-primary flex items-center gap-1 group-hover:translate-x-0.5 transition-transform">
                         View Details
                         <ArrowRight className="h-3.5 w-3.5" />
@@ -652,11 +643,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                                   {relativeBadge}
                                 </Badge>
                               )}
-                              {event.source === 'curated-premier' && (
-                                <Badge variant="secondary" className="text-[10px] px-2 py-0">
-                                  Curated
-                                </Badge>
-                              )}
+
                             </div>
 
                             <div className="flex flex-wrap items-center gap-3 text-xs text-muted-foreground">

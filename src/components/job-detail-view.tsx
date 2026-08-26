@@ -119,7 +119,6 @@ export function JobDetailView({
 
       <div className="container mx-auto page-section px-4">
         <div className="site-container">
-          <div className="max-w-3xl mx-auto">
         
         {/* Breadcrumb Navigation */}
         <nav aria-label="Breadcrumb" className="mb-6 flex items-center space-x-2 text-sm text-muted-foreground">
@@ -241,7 +240,6 @@ export function JobDetailView({
 
       </div>
     </div>
-  </div>
-</article>
+  </article>
 );
 }
