@@ -72,6 +72,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'sonic': 'https://soniclabs.com',
  'bitvavo': 'https://bitvavo.com',
  'venice': 'https://venice.ai',
+ 'parity-technologies': 'https://www.parity.io',
 };
 
 /**
