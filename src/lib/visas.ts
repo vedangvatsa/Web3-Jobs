@@ -31,12 +31,13 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Argentina',
     continent: 'South America',
-    minIncome: 2500,
+    minIncome: 0,
     visaLength: '180 days, renewable',
     description: 'Argentina\'s visa allows nomads to stay for 180 days, renewable for another 180. It offers access to vibrant culture, especially in Buenos Aires.',
     requirements: [
       'Work remotely for a foreign company.',
-      'Demonstrate sufficient funds (approx. $2,500/month).',
+      'Demonstrate sufficient funds (no fixed minimum is published).',
+      'Available to nationals of visa-waiver countries.',
       'Valid passport and clean criminal record.',
     ]
   },
@@ -44,7 +45,7 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Armenia',
     continent: 'Asia',
     minIncome: 0,
-    visaLength: '1 year, renewable up to 5',
+    visaLength: '1 year, renewable',
     description: 'Armenia offers a very accessible path by allowing remote workers to register as sole proprietors. The country has a simple, low-tax system. No minimum income is stated.',
     requirements: [
       'Obtain a residency permit by registering as a self-employed person.',
@@ -69,7 +70,7 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Bahamas',
     continent: 'North America',
     minIncome: 0,
-    visaLength: '1 year, renewable up to 3',
+    visaLength: '1 year',
     description: 'The Bahamas Extended Access Travel Stay (BEATS) program allows professionals and students to work or study remotely from the islands for up to one year.',
     requirements: [
       'Valid passport.',
@@ -94,12 +95,13 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Belize',
     continent: 'North America',
     minIncome: 6250,
-    visaLength: '180 days',
-    description: 'Belize\'s"Work Where You Vacation" program allows a stay of up to 6 months, aimed at professionals who want to enjoy the country\'s natural beauty.',
+    visaLength: '6 months, non-extendable',
+    description: 'Belize\'s"Work Where You Vacation" program (Long Stay Visitor Permit) allows a stay of up to 6 months, aimed at professionals who want to enjoy the country\'s natural beauty.',
     requirements: [
+      'Citizen or permanent resident of the EU, UK, USA, or Canada.',
       'Proof of employment with a foreign company.',
-      'Annual income of at least $75,000 USD for individuals (~$6,250/month).',
-      'Health insurance coverage.'
+      'Annual income of at least $75,000 USD for individuals (~$6,250/month), or $100,000 with dependents.',
+      'Health insurance with at least $50,000 USD coverage.'
     ]
   },
   {
@@ -112,20 +114,6 @@ export const visaData: DigitalNomadVisa[] = [
       'Proof of remote employment or enrollment in higher education.',
       'Sufficient funds to support your stay.',
       'Health insurance and a clean criminal record.'
-    ]
-  },
-  {
-    country: 'Bhutan',
-    continent: 'Asia',
-    minIncome: 2800,
-    visaLength: '12 months, renewable up to 24',
-    description: 'Bhutan\'s Digital Nomad Visa through the Gelephu Mindfulness City (GMC) program offers a unique blend of ancient wisdom and modern connectivity in the Himalayas. This is an exclusive opportunity for remote professionals and entrepreneurs.',
-    requirements: [
-      'Professional, entrepreneur, or self-employed in GMC-aligned sectors.',
-      'Non-refundable program fee of $2,800 USD.',
-      'Minimum deposit of $10,000 in TER (gold-backed tokens) at DK Bank.',
-      'Income threshold and minimum stay requirements waived.',
-      '12-month visa, renewable up to 24 months total.'
     ]
   },
   {
@@ -143,14 +131,14 @@ export const visaData: DigitalNomadVisa[] = [
    {
     country: 'Bulgaria',
     continent: 'Europe',
-    minIncome: 2500,
+    minIncome: 0,
     visaLength: '12 months, renewable',
     description: 'Bulgaria offers a Type D Visa through a freelance permit. It boasts a low cost of living, a growing tech scene in Sofia, and a 10% flat tax rate.',
     requirements: [
       'Obtain a freelance permit from the Employment Agency.',
-      'Minimum monthly income of approx. $2,500.',
+      'Prove sufficient financial means (no fixed amount is published).',
       'Non-EU/EEA national.',
-      'Bulgaria joined the Schengen zone (air/sea) in 2024 - offers Schengen travel.'
+      'Bulgaria is a full Schengen member since January 2025 (air/sea borders opened March 2024).'
     ]
   },
   {
@@ -158,7 +146,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Africa',
     minIncome: 1630,
     visaLength: '6 months, renewable',
-    description: 'The Cabo Verde Remote Working Program allows a stay of six months, renewable for another six. It targets remote workers from Europe, North America, and ECOWAS countries.',
+    description: 'The Cabo Verde Remote Working Program allows a stay of six months, renewable for another six. It targets remote workers from Europe, North America, and ECOWAS countries. Note: the program portal has been offline - verify availability before applying.',
     requirements: [
       'Proof of remote work and sufficient funds.',
       'Average bank balance of at least €1,500 (~$1,630 USD) over the last 6 months.',
@@ -178,18 +166,6 @@ export const visaData: DigitalNomadVisa[] = [
     ]
   },
   {
-    country: 'Cayman Islands',
-    continent: 'North America',
-    minIncome: 8333,
-    visaLength: 'Up to 2 years',
-    description: 'The Global Citizen Concierge Program (GCCP) is a premium option, allowing high-earning individuals to work remotely in the Cayman Islands.',
-    requirements: [
-      'Proof of employment with a foreign entity.',
-      'Annual income of at least $100,000 USD (~$8,333/month).',
-      'Notarized bank reference and proof of health insurance.',
-    ]
-  },
-  {
     country: 'Colombia',
     continent: 'South America',
     minIncome: 1200,
@@ -198,7 +174,7 @@ export const visaData: DigitalNomadVisa[] = [
     requirements: [
       'Passport from a visa-exempt country.',
       'Proof of remote work for a foreign company.',
-      'Monthly income of at least 3x SMMLV (~5.2 million COP or ~$1,200 USD) for each of the last 3 months.',
+      'Monthly income of at least 3x SMMLV (COP 5,252,715 in 2026, ~$1,200 USD) for each of the last 3 months.',
       'Health insurance with coverage in Colombia.'
     ]
   },
@@ -210,19 +186,19 @@ export const visaData: DigitalNomadVisa[] = [
     description: 'Costa Rica\'s"Estancia por Teletrabajo" visa is for one year, extendable for a second. Nomads are exempt from income tax and can enjoy the"Pura Vida" lifestyle.',
     requirements: [
       'Proof of remote work for a foreign entity.',
-      'Stable monthly income of at least $3,000 USD.',
+      'Stable monthly income of at least $3,000 USD ($5,000 for families).',
       'Health insurance covering the duration of the stay.'
     ]
   },
   {
     country: 'Croatia',
     continent: 'Europe',
-    minIncome: 2750,
-    visaLength: 'Up to 1 year',
-    description: 'Croatia offers a temporary residence permit for nomads, allowing a stay of up to a year (cannot be immediately extended). It\'s known for its beautiful coastline.',
+    minIncome: 4200,
+    visaLength: 'Up to 18 months',
+    description: 'Croatia offers a temporary residence permit for nomads, granting up to 18 months (shorter grants can be extended once). It\'s known for its beautiful coastline.',
     requirements: [
       'Proof of remote work for a foreign company.',
-      'Monthly income of at least €2,539.31 (~$2,750 USD).',
+      'Monthly income of at least €3,622.50 (2.5x the average Croatian net salary, recalculated annually).',
       'Proof of accommodation and health insurance.',
       'Clean criminal record check.'
     ]
@@ -255,14 +231,14 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Czech Republic',
     continent: 'Europe',
-    minIncome: 2500,
-    visaLength: '1 year, renewable',
-    description: 'The Czech Republic offers a long-term visa for business (Zivno), popular among freelancers. It requires a trade license and proof of sufficient monthly income.',
+    minIncome: 0,
+    visaLength: 'Up to 1 year',
+    description: 'The Czech Republic offers a long-term visa for business (Zivno), popular among freelancers. It requires a trade license and proof of funds rather than a monthly income.',
     requirements: [
       'A trade license (Zivnostenske opravneni)',
-      'Proof of monthly income of at least 2,500 USD or savings to cover living expenses',
+      'Proof of funds of CZK 156,500 (~$6,800 USD, 50x the subsistence minimum) - not a monthly income test',
       'Proof of accommodation and a clean criminal record',
-      'The application process requires several steps and documentation'
+      'Extensions are limited to the first year; longer stays require switching to a residence permit'
     ]
   },
   {
@@ -280,37 +256,24 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Ecuador',
     continent: 'South America',
-    minIncome: 1350,
-    visaLength: '2 years, renewable',
+    minIncome: 1410,
+    visaLength: '2 years, renewable once',
     description: 'Ecuador offers a professional, technical, or artisanal visa (Rentista) for up to two years. It\'s a great option for those seeking adventure in a biodiverse country.',
     requirements: [
       'Proof of a stable income from foreign sources.',
-      'Minimum monthly income of three unified basic salaries (approx. $1,350 USD).',
+      'Minimum monthly income of three unified basic salaries ($1,410 USD, based on the 2025 SBU of $470).',
       'Clean criminal record and health insurance.',
-    ]
-  },
-  {
-    country: 'El Salvador',
-    continent: 'North America',
-    minIncome: 1460,
-    visaLength: '1 year, renewable',
-    description: 'El Salvador offers a digital nomad visa for remote professionals, with its surfing beaches and developing tech scene. The country is famous for its Bitcoin adoption.',
-    requirements: [
-      'Proof of remote work for a foreign company',
-      'Minimum monthly income of $1,460 USD',
-      'Valid passport and health insurance',
-      'Clean criminal record'
     ]
   },
   {
     country: 'Estonia',
     continent: 'Europe',
-    minIncome: 4880,
+    minIncome: 4300,
     visaLength: 'Up to 1 year',
     description: 'Estonia was a pioneer, launching one of the first dedicated digital nomad visas. It allows you to work remotely for a company registered abroad for up to one year.',
     requirements: [
       'Proof of remote work contract or business registration.',
-      'Gross monthly income of at least €4,500 (~$4,880 USD) for the last 6 months.',
+      'Monthly income of at least €3,960 (~$4,300 USD, calculated as €132 per day) for the last 6 months.',
       'Health insurance for Estonia.'
     ]
   },
@@ -330,12 +293,12 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Germany',
     continent: 'Europe',
-    minIncome: 3000,
+    minIncome: 0,
     visaLength: 'Up to 3 years',
-    description: 'Germany offers a freelance residence permit (Aufenthaltserlaubnis, §21 AufenthG) allowing self-employed remote workers to live in the country for up to 3 years. There is no strict minimum income, but you must prove you can cover living expenses.',
+    description: 'Germany offers a freelance residence permit (Aufenthaltserlaubnis, §21 AufenthG) allowing self-employed remote workers to live in the country for up to 3 years. There is no fixed minimum income; viability of your freelance activity is assessed case-by-case.',
     requirements: [
-      'Proof of sufficient funds to cover living costs (approx. €3,000/month recommended).',
-      'Portfolio and letters of intent from clients.',
+      'Evidence the freelance activity is economically viable (clients, contracts, financing).',
+      'Applicants under 45 must show adequate pension provision.',
       'German health insurance and registered address (Anmeldung).'
     ]
   },
@@ -367,7 +330,7 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Hungary',
     continent: 'Europe',
     minIncome: 3250,
-    visaLength: '1 year, renewable',
+    visaLength: '1 year, renewable once',
     description: 'Hungary\'s"White Card" is a residence permit for digital nomads. It allows a stay of one year, extendable for one more. It targets high-income remote workers.',
     requirements: [
       'Proof of remote work contract outside of Hungary.',
@@ -406,24 +369,24 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Ireland',
     continent: 'Europe',
-    minIncome: 4050,
-    visaLength: '90 days, extendable',
-    description: 'Ireland does not have a dedicated nomad visa. A short-stay visa allows a 90-day stay, which can be extended in special circumstances. You must prove sufficient funds.',
+    minIncome: 0,
+    visaLength: '90 days (not extendable)',
+    description: 'Ireland does not have a dedicated nomad visa. The Atypical Working Scheme allows short-term (max 90 days) specialized assignments arranged by a host employer. Longer stays require a standard employment permit.',
     requirements: [
-      'For certain nationalities, a visa is required for entry.',
-      'Proof of sufficient funds is required (approx. $4,050/month).',
-      'English-speaking environment.',
+      'A host company in Ireland must arrange the Atypical Working Scheme application.',
+      'Salary must meet the General Employment Permit threshold (EUR 34,000/year).',
+      'The 90-day cap applies with a cooling-off period before reuse.',
     ]
   },
   {
     country: 'Italy',
     continent: 'Europe',
-    minIncome: 2335,
+    minIncome: 2680,
     visaLength: '1 year, renewable',
     description: 'Launched in 2024, Italy\'s Digital Nomad Visa targets "highly skilled" professionals. It grants a one-year renewable permit.',
     requirements: [
       'Must be a"highly skilled worker" (degree or 3+ years experience).',
-      'Minimum annual income of approx. €28,000 (~$2,335/month).',
+      'Minimum annual income of €28,000 (~€2,333/month, ~$2,680 USD).',
       'Health insurance covering all risks in Italy.',
       'Proof of accommodation.',
     ]
@@ -431,26 +394,25 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Japan',
     continent: 'Asia',
-    minIncome: 5250,
-    visaLength: 'Up to 6 months',
-    description: 'Japan introduced a digital nomad visa in 2024 for citizens of 49 countries that have tax treaties with Japan. It allows a stay of up to six months but cannot be renewed.',
+    minIncome: 5650,
+    visaLength: 'Up to 6 months (non-renewable)',
+    description: 'Japan introduced a digital nomad visa in 2024 for citizens of 49 countries that have tax treaties with Japan. It allows a stay of up to six months but cannot be renewed (6-month wait before reapplying).',
     requirements: [
       'Citizen of a visa-exempt country with a tax treaty with Japan (49 eligible countries)',
-      'Annual income of at least ¥10 million (approximately $63,000 USD or $5,250/month)',
-      'Private health insurance covering entire stay',
+      'Annual income of at least ¥10 million (~$68,000 USD)',
+      'Private health/travel insurance with at least ¥10 million in treatment coverage',
       'Proof of remote work or freelance activity'
     ]
   },
   {
     country: 'Latvia',
     continent: 'Europe',
-    minIncome: 4160,
+    minIncome: 2700,
     visaLength: '1 year, renewable',
-    description: 'Latvia\'s digital nomad visa allows remote workers from OECD countries to live in the country for one year, with a possible renewal for a second year.',
+    description: 'Latvia offers a temporary residence permit for remote workers, allowing stays of up to one year with renewal while conditions hold.',
     requirements: [
-      'Citizen of an OECD country.',
       'Proof of remote work for a foreign employer.',
-      'Monthly income of at least 2.5 times the Latvian average wage (approx. €3,843 or ~$4,160 USD).',
+      'Monthly income of at least 3x the Latvian minimum monthly wage (€2,340/month as of April 2026).',
       'Valid health insurance.'
     ]
   },
@@ -458,60 +420,62 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Malaysia',
     continent: 'Asia',
     minIncome: 2000,
-    visaLength: 'Up to 1 year, renewable',
-    description: 'The DE Rantau Nomad Pass aims to establish Malaysia as a leading digital nomad hub. It\'s valid for up to 12 months and can be renewed for another 12 months.',
+    visaLength: '3-12 months, renewable up to 24 months total',
+    description: 'The DE Rantau Nomad Pass aims to establish Malaysia as a leading digital nomad hub. It is issued as a Professional Visit Pass of 3-12 months, renewable once.',
     requirements: [
       'Proof of remote work (freelancer or remote employee).',
-      'Annual income of over $24,000 USD ($2,000/month).',
+      'Annual income of at least $24,000 USD ($2,000/month) for tech talent, or $60,000 USD for non-tech talent.',
+      'Spouses may not work locally.',
       'Valid passport and health insurance.',
     ]
   },
   {
     country: 'Malta',
     continent: 'Europe',
-    minIncome: 2925,
-    visaLength: '1 year, renewable',
+    minIncome: 4000,
+    visaLength: '1 year, renewable up to 3 times (max 4 years)',
     description: 'Malta\'s Nomad Residence Permit is for non-EU nationals and allows a stay of one year. Malta offers an English-speaking environment and sunny Mediterranean climate.',
     requirements: [
       'Proof of remote work for a foreign company.',
-      'Gross monthly income of at least €2,700 (~$2,925 USD).',
-      'Valid travel document and health insurance.',
+      'Gross annual income of at least €42,000 (~€3,500/month) for applications since April 2024.',
+      'Valid travel document and health insurance (EU + UK coverage).',
       'Rental or purchase agreement for accommodation.'
     ]
   },
   {
     country: 'Mauritius',
     continent: 'Africa',
-    minIncome: 1500,
+    minIncome: 0,
     visaLength: '1 year, renewable',
-    description: 'The Mauritius Premium Travel Visa is a one-year renewable visa for remote workers. It offers a tropical lifestyle with no local income tax obligations.',
+    description: 'The Mauritius Premium Visa is a free, one-year renewable visa for remote workers. It offers a tropical lifestyle with no local income tax obligations.',
     requirements: [
       'Proof of remote work and funds from outside Mauritius.',
-      'Minimum monthly income of $1,500.',
+      'No minimum income requirement.',
+      'Must not enter the Mauritian labour market.',
       'Proof of accommodation and health insurance.',
     ]
   },
   {
     country: 'Mexico',
     continent: 'North America',
-    minIncome: 2720,
+    minIncome: 1850,
     visaLength: '1 year, up to 4',
     description: 'Mexico\'s Temporary Resident Visa is very popular with remote workers. It allows stays longer than 180 days and up to four years.',
     requirements: [
       'Proof of economic solvency.',
-      'A monthly income of approx. $2,720 USD over the last six months, OR a bank account balance of approx. $45,000 USD.',
+      'A monthly income of at least 300x the daily UMA (MXN 35,193/month in 2026, ~$1,850 USD), OR equivalent savings.',
       'Must be applied for from a Mexican consulate outside of Mexico.'
     ]
   },
   {
     country: 'Montenegro',
     continent: 'Europe',
-    minIncome: 1460,
+    minIncome: 0,
     visaLength: '2 years, renewable for 2 more',
-    description: 'Montenegro has launched its digital nomad program, allowing a stay of up to two years, with a possible extension of another two.',
+    description: 'Montenegro offers a temporary residence permit for digital nomads, allowing a stay of up to two years, with a possible extension of another two.',
     requirements: [
-      'Proof of remote work for a foreign company.',
-      'Monthly income of at least €1,350 (~$1,460 USD).',
+      'Proof of remote work for a foreign company (or your own company not registered in Montenegro).',
+      'Proof of sufficient financial means (no fixed amount is published).',
       'Proof of accommodation.',
       'Valid travel document and health insurance.'
     ]
@@ -542,21 +506,21 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Netherlands',
     continent: 'Europe',
-    minIncome: 1340,
-    visaLength: '90+ days, renewable',
-    description: 'The Netherlands offers a self-employed residence permit, allowing you to live there as a foreign professional. It requires a detailed business plan.',
+    minIncome: 0,
+    visaLength: 'Varies by permit (typically 1-2 years)',
+    description: 'The Netherlands has no digital nomad visa. The closest routes are the self-employed residence permit (points-based business plan assessment) and the Dutch-American Friendship Treaty (DAFT) for US entrepreneurs.',
     requirements: [
-      'Must register as an independent worker.',
-      'Sufficient funds based on business plan (approx. $1,340/month).',
-      'Apply at a Dutch embassy or consulate.'
+      'Self-employed route: a business plan scored on viability via RVO points system.',
+      'DAFT route (US citizens only): investment capital in a Dutch business, not an income threshold.',
+      'No remote-work-for-foreign-employer category exists.'
     ]
   },
   {
     country: 'North Macedonia',
     continent: 'Europe',
     minIncome: 0,
-    visaLength: 'Likely 1 year',
-    description: 'North Macedonia has been discussing a digital nomad visa since 2021, but a program has not yet been formally implemented.',
+    visaLength: 'Not yet available',
+    description: 'North Macedonia announced a digital nomad permit in 2024, but it was never enacted. Remote workers use ordinary temporary residence routes under the Law on Foreigners.',
     requirements: [
       'Details are yet to be announced (TBA).',
       'Expected to offer low living costs.'
@@ -565,13 +529,13 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Norway',
     continent: 'Europe',
-    minIncome: 3320,
-    visaLength: 'Up to 2 years',
-    description: 'Norway offers a 2-year visa for independent contractors for Svalbard, an archipelago between mainland Norway and the North Pole, not for the mainland itself.',
+    minIncome: 0,
+    visaLength: 'Up to 2 years per grant (self-employed route)',
+    description: 'Norway has no digital nomad visa. The former independent contractor permit has been discontinued. The closest route is a self-employed permit requiring a company abroad and skilled-worker qualifications.',
     requirements: [
-      'Be self-employed with a business registered abroad.',
-      'Proof of annual income of at least €37,680 (approx. €3,140 or ~$3,320 USD/month).',
-      'Proof of accommodation.',
+      'An assignment contract with one Norwegian enterprise (not remote work for foreign clients).',
+      'Pay not poorer than normal in Norway: at least NOK 545,400/year (~$4,500/month, bachelor level).',
+      'Skilled-worker qualifications required.',
     ]
   },
   {
@@ -590,8 +554,8 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Paraguay',
     continent: 'South America',
     minIncome: 0,
-    visaLength: '1 year',
-    description: 'Paraguay allows foreign nationals to apply for residency, making it an option for digital nomads. The process involves submitting documents and obtaining a residence permit.',
+    visaLength: 'Temporary residence (typically 1-2 years)',
+    description: 'Paraguay has no dedicated digital nomad visa, but foreign nationals can apply for temporary residency under general categories (Ley 6984/22), making it an option for remote workers. The process involves submitting documents and obtaining a residence permit.',
     requirements: [
       'Proof of economic solvency (no specific amount).',
       'Clean criminal record.',
@@ -601,12 +565,12 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Peru',
     continent: 'South America',
-    minIncome: 1000,
+    minIncome: 1240,
     visaLength: '1 year, renewable',
-    description: 'Peru launched a visa with a one-year duration (renewable) for remote workers. It requires a relatively low monthly income.',
+    description: 'Peru launched the "nomada digital" residence category with a one-year duration (renewable) for remote workers.',
     requirements: [
       'Proof of remote work for a company outside Peru.',
-      'Minimum monthly income of $1,000 USD.',
+      'Minimum monthly income of $1,240 USD.',
       'Health insurance.',
     ]
   },
@@ -627,10 +591,10 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Poland',
     continent: 'Europe',
     minIncome: 0,
-    visaLength: '1 year',
-    description: 'Poland doesn\'t have a dedicated nomad visa, but non-EU citizens can apply for a national visa (Type D) based on a work contract with a Polish entity or as a business owner.',
+    visaLength: 'Up to 3 years (temporary residence)',
+    description: 'Poland doesn\'t have a dedicated nomad visa, but non-EU freelancers and remote workers can obtain a temporary residence permit via Voivodeship offices.',
     requirements: [
-      'Proof of steady income.',
+      'Proof of stable and regular income (no fixed minimum; subsistence benchmark ~PLN 776/month).',
       'Health insurance.',
       'Proof of accommodation.'
     ]
@@ -638,12 +602,12 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Portugal',
     continent: 'Europe',
-    minIncome: 3990,
-    visaLength: '1 year, up to 5',
+    minIncome: 4000,
+    visaLength: '4-month visa, then 2-year permits up to 5 years',
     description: 'Portugal\'s D8 visa is highly popular. It offers a path to residency and access to the Schengen Area. The country boasts a great quality of life and vibrant tech scenes.',
     requirements: [
       'Proof of income from remote work.',
-      'Monthly income of at least 4 times the Portuguese minimum wage (approx. €3,680 or ~$3,990 USD).',
+      'Monthly income of at least 4 times the Portuguese minimum wage (€3,480/month in 2025, ~$4,000 USD; revised annually).',
       'Proof of accommodation for at least 12 months.',
       'Clean criminal record and private health insurance.'
     ]
@@ -652,8 +616,8 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Puerto Rico',
     continent: 'North America',
     minIncome: 0,
-    visaLength: '90 days',
-    description: 'As a US territory, Puerto Rico is a popular remote work destination for US citizens. For others, a standard US visa (like ESTA for eligible countries) allows a 90-day stay.',
+    visaLength: 'No limit for US citizens',
+    description: 'As a US territory, Puerto Rico requires no visa or time limit for US citizens. For others, a standard US visa (like ESTA for eligible countries) allows a 90-day stay.',
     requirements: [
       'US Citizens can work freely.',
       'Others require a valid US visa (e.g., ESTA).',
@@ -663,12 +627,13 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Romania',
     continent: 'Europe',
-    minIncome: 4500,
+    minIncome: 6200,
     visaLength: '1 year, renewable',
-    description: 'Romania provides a digital nomad visa with a relatively high income requirement. It allows a one-year stay, which can be extended.',
+    description: 'Romania provides a digital nomad visa with one of the highest income requirements. It allows a one-year stay, which can be extended.',
     requirements: [
       'Proof of remote work for a company registered outside Romania.',
-      'Monthly income of at least three times the Romanian average gross salary (approx. €4,150 or ~$4,500 USD).',
+      'Monthly income of at least three times the Romanian average gross salary (~€5,400/month as of 2025, ~$6,200 USD; floating target revised quarterly).',
+      'Income proven for each of the last 6 months.',
       'Proof of accommodation and health insurance.'
     ]
   },
@@ -687,13 +652,13 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Serbia',
     continent: 'Europe',
-    minIncome: 3500,
+    minIncome: 4025,
     visaLength: '1 year',
-    description: 'Serbia offers a temporary residence permit for remote workers. It provides a tax-free period for the first 90 days of the stay.',
+    description: 'Serbia\'s Law on Foreigners (amended February 2024) explicitly allows temporary residence for foreigners working remotely for foreign employers.',
     requirements: [
-      'Proof of remote work and a monthly income of at least $3,500.',
+      'Proof of remote work and a reported monthly income of at least €3,500 (~$4,025 USD).',
       'Low cost of living compared to the high income requirement.',
-      'The visa program is active.'
+      'Temporary residence is granted for up to 1-3 years depending on basis.'
     ]
   },
   {
@@ -711,12 +676,12 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'South Africa',
     continent: 'Africa',
-    minIncome: 4400,
+    minIncome: 2900,
     visaLength: '1 year, up to 3',
-    description: 'South Africa has introduced a digital nomad visa, allowing a stay of up to one year with the possibility of renewal for up to three years.',
+    description: 'South Africa has introduced a digital nomad visa (Immigration Amendment Act 2024), allowing remote work for a foreign employer.',
     requirements: [
-      'Proof of remote work for a foreign employer',
-      'Annual income of at least R1 million (approximately $53,000 USD or ~$4,400/month)',
+      'Proof of remote work for a foreign employer; may not serve the South African market',
+      'Annual earnings of at least R650,000 (~$34,000 USD or ~$2,900/month)',
       'Sufficient funds and comprehensive health insurance',
       'Clean criminal record'
     ]
@@ -725,12 +690,12 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'South Korea',
     continent: 'Asia',
     minIncome: 5500,
-    visaLength: '1 year, renewable up to 2',
-    description: 'South Korea\'s F-1-D"workcation" visa allows remote workers to stay for up to two years. It targets high-income professionals wanting to experience Korean culture.',
+    visaLength: 'Up to 3 years (F-1-D, permanent since July 2026)',
+    description: 'South Korea\'s F-1-D"workcation" visa was made permanent in July 2026 with eased eligibility and longer stays. The original 2024 pilot required high income and capped stays at 2 years.',
     requirements: [
       'Proof of remote work for a foreign company for at least 1 year.',
-      'Annual income must be at least twice the South Korean GNI per capita (approx. $66,000 USD/year or $5,500/month).',
-      'Clean criminal record and private health insurance with KRW 100M+ coverage.'
+      'Income threshold (originally KRW 85M/year ~ $5,500/month; lowered under the July 2026 rules, especially for applicants under 55).',
+      'Private health insurance enrollment required.'
     ]
   },
   {
@@ -742,7 +707,7 @@ export const visaData: DigitalNomadVisa[] = [
     requirements: [
       'Proof of being a qualified professional (university degree or 3+ years of experience).',
       'Work contract with a foreign company (active for at least 3 months).',
-      'Income of at least 200% of the Spanish minimum wage (approx. €2,850 or ~$3,100 USD/month).',
+      'Income of at least 200% of the Spanish minimum wage (€2,760/month in 2025, ~$3,100 USD).',
       'Clean criminal record and comprehensive health insurance.'
     ]
   },
@@ -762,25 +727,25 @@ export const visaData: DigitalNomadVisa[] = [
   {
     country: 'Taiwan',
     continent: 'Asia',
-    minIncome: 5700,
-    visaLength: '1-3 years, renewable',
-    description: 'Taiwan\'s Employment Gold Card is a 4-in-1 visa for highly skilled professionals, widely used by remote workers. It combines a work permit, resident visa, and re-entry permit.',
+    minIncome: 3333,
+    visaLength: '180 days, extendable up to 2 years',
+    description: 'Taiwan launched a Digital Nomad Visitor Visa in January 2025. The Employment Gold Card (open work permit + residence, 1-3 years) remains an option for highly skilled professionals.',
     requirements: [
-      'Must qualify as a highly skilled professional in specific fields.',
-      'Minimum monthly income of approx. $5,700 USD.',
-      'Exempt from Taiwan income tax on foreign earnings.',
+      'Age 30+: annual salary of at least $40,000 USD in one of the last 2 years (age 20-29: $20,000/year).',
+      'OR hold another country\'s digital nomad visa.',
+      'Bank balance averaging at least $10,000 USD/month over the past 6 months.',
+      'Health insurance and proof of remote employment.'
     ]
   },
   {
     country: 'Thailand',
     continent: 'Asia',
-    minIncome: 2000,
+    minIncome: 0,
     visaLength: '5 years (Destination Thailand Visa)',
-    description: 'Thailand offers the Destination Thailand Visa (DTV) for digital nomads and remote workers. It allows a 5-year stay with multiple entries and is more accessible than the LTR visa.',
+    description: 'Thailand offers the Destination Thailand Visa (DTV) for digital nomads and remote workers. It is a 5-year multiple-entry visa with 180-day stays per entry, extendable once.',
     requirements: [
       'Proof of remote work, freelancing, or being a digital nomad',
-      'Minimum funds of 500,000 THB (approximately $14,000 USD) in bank account',
-      'Financial evidence of $2,000+ USD monthly income or equivalent savings',
+      'Bank balance of at least 500,000 THB (~$14,000 USD) - a funds test, not an income test',
       'Valid passport and health insurance'
     ]
   },
@@ -788,13 +753,12 @@ export const visaData: DigitalNomadVisa[] = [
     country: 'Turkey',
     continent: 'Asia',
     minIncome: 3000,
-    visaLength: '1 year, renewable',
-    description: 'Turkey introduced its Digital Nomad Visa in 2024 for remote workers from 36 eligible countries. It offers a low cost of living and is tax-free for stays under 183 days.',
+    visaLength: 'Short-term residence permit (duration varies)',
+    description: 'Turkey introduced digital nomad provisions in April 2024, implemented as a short-term residence permit for remote workers from designated countries. It offers a low cost of living and is tax-free for stays under 183 days.',
     requirements: [
       'Citizen of an eligible country (US, Canada, UK, EU, etc.).',
-      'Age 21-55.',
-      'Minimum monthly income of $3,000 USD.',
-      'University degree.'
+      'Reported minimum monthly income of $3,000 USD.',
+      'Valid passport and proof of accommodation.'
     ]
   },
   {
@@ -815,7 +779,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'South America',
     minIncome: 0,
     visaLength: '6-12 months',
-    description: 'Uruguay offers a permit for digital nomads for six months, renewable. It\'s notable for not having a specific income requirement, though applicants must prove they can support themselves.',
+    description: 'Uruguay offers the "Hoja de Identidad Provisoria - Nomada Digital" for six months, renewable. It\'s notable for not having a specific income requirement, though applicants must prove they can support themselves.',
     requirements: [
       'A sworn statement declaring you have the means to support yourself.',
       'No specified minimum income.',
