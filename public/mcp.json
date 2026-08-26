@@ -49,6 +49,11 @@
           "search": { "type": "string", "description": "Filter headlines by keyword" },
           "limit": { "type": "integer", "default": 10 }
         }
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/news"
+        }
       }
     },
     {
@@ -61,10 +66,35 @@
           "type": { "type": "string", "enum": ["conference", "hackathon", "meetup", "online"] },
           "country": { "type": "string", "description": "Country filter" }
         }
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/events"
+        }
       }
     }
   ],
   "resources": [
+    {
+      "uri": "ui://hashtagweb3.com/jobs",
+      "name": "Web3 Jobs Directory UI",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "ui://hashtagweb3.com/glossary",
+      "name": "Web3 Glossary UI",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "ui://hashtagweb3.com/news",
+      "name": "Crypto News UI",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "ui://hashtagweb3.com/events",
+      "name": "Web3 Events Calendar UI",
+      "mimeType": "text/html"
+    },
     {
       "uri": "hashtagweb3://jobs/latest",
       "name": "Latest Web3 Jobs",
