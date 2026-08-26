@@ -1,8 +1,9 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
-import { Button } from '@/components/ui/button';
-import { Mail, Send, MapPin, Clock, MessageSquare, Terminal, Building2, HelpCircle } from 'lucide-react';
+ '@/components/ui/button';
+import { Mail, Send, MapPin, Clock, Terminal, Building2 } from 'lucide-react';
 import Link from 'next/link';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 86400; // 24 hours
 
@@ -10,7 +11,7 @@ export default function ContactPage() {
   return (
     <div className="flex flex-col min-h-screen">
       <main className="flex-1">
-        <div className="container mx-auto page-section px-4">
+        <PageShell>
           <div className="site-container space-y-12">
             
             {/* Header */}
@@ -138,7 +139,7 @@ export default function ContactPage() {
             </section>
 
           </div>
-        </div>
+        </PageShell>
       </main>
     </div>
   );

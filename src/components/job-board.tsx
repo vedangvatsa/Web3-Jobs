@@ -8,10 +8,10 @@ import { JobCard } from './job-card';
 import { Search } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 
-import { JobApplicationButton } from './tracking/job-application-button';
+ './tracking/job-application-button';
 import { SearchTracker } from './tracking/search-tracker';
 import { trackJobView } from '@/lib/posthog';
-import { useDebounce } from '@/hooks/use-debounce';
+ '@/hooks/use-debounce';
 
 const INITIAL_JOBS_COUNT = 50;
 const LOAD_MORE_COUNT = 50;

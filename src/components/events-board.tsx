@@ -2,39 +2,14 @@
 
 import { useState, useMemo, useRef, useEffect } from 'react';
 import Link from 'next/link';
-import {
-  Web3Event,
-  EventType,
-  getEventType,
-  getEventFormat,
-  getEventEcosystems,
-  formatEventDate,
-  getEventDatePill,
-  getRelativeBadge,
-  normalizeCountry,
-  getEventSlug,
-} from '@/lib/events';
+import { Web3Event, getEventType, getEventFormat, getEventEcosystems, formatEventDate, getEventDatePill, getRelativeBadge, getEventSlug } from '@/lib/events';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
-import {
-  Search,
-  Calendar,
-  MapPin,
-  ExternalLink,
-  Globe,
-  Building2,
-  Code2,
-  Users,
-  Layers,
-  LayoutGrid,
-  List,
-  X,
-  PlusCircle,
-  ArrowRight,
-} from 'lucide-react';
+import { Search, Calendar, MapPin, ExternalLink, Globe, Building2, Code2, Users, Layers, LayoutGrid, List, X, PlusCircle, ArrowRight } from 'lucide-react';
 import { CtaBanner } from '@/components/cta-banner';
+import { EventCardImage } from '@/components/event-cover';
 
 const INITIAL_COUNT = 30;
 const LOAD_MORE_COUNT = 30;
@@ -80,82 +55,6 @@ const ECOSYSTEM_OPTIONS = [
   'Security',
   'RWA',
 ];
-
-// Deterministic gradients for cover image fallbacks
-const PLACEHOLDER_GRADIENTS = [
-  'from-violet-600/80 via-purple-700/80 to-indigo-800/80',
-  'from-blue-600/80 via-cyan-700/80 to-teal-800/80',
-  'from-emerald-600/80 via-teal-700/80 to-cyan-800/80',
-  'from-amber-600/80 via-orange-700/80 to-rose-800/80',
-  'from-rose-600/80 via-pink-700/80 to-fuchsia-800/80',
-  'from-indigo-600/80 via-blue-700/80 to-sky-800/80',
-];
-
-function getGradient(name: string): string {
-  let hash = 0;
-  for (let i = 0; i < name.length; i++) {
-    hash = name.charCodeAt(i) + ((hash << 5) - hash);
-  }
-  return PLACEHOLDER_GRADIENTS[Math.abs(hash) % PLACEHOLDER_GRADIENTS.length];
-}
-
-function EventCardImage({
-  src,
-  name,
-  type,
-  format,
-  index,
-}: {
-  src?: string | null;
-  name: string;
-  type: EventType;
-  format: string;
-  index?: number;
-}) {
-  const [hasError, setHasError] = useState(false);
-  const initial = name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
-  const gradient = getGradient(name);
-
-  if (!src || hasError) {
-    return (
-      <div className={`w-full h-full bg-gradient-to-br ${gradient} flex items-center justify-center relative overflow-hidden`}>
-        <div className="absolute inset-0 opacity-15">
-          <div className="absolute -top-6 -right-6 w-32 h-32 border border-white/40 rounded-full" />
-          <div className="absolute -bottom-8 -left-8 w-40 h-40 border border-white/40 rounded-full" />
-          <div className="absolute top-1/2 left-1/2 -translate-x-1/2 -translate-y-1/2 w-20 h-20 border border-white/20 rounded-xl rotate-45" />
-        </div>
-        <div className="flex flex-col items-center gap-1.5 relative z-10">
-          <div className="w-12 h-12 rounded-xl bg-white/20 backdrop-blur-sm flex items-center justify-center border border-white/20 shadow-md">
-            <span className="text-xl font-bold text-white tracking-wider">{initial}</span>
-          </div>
-          <span className="text-[11px] font-medium uppercase tracking-wider text-white/80">
-            {type === 'hackathon'
-              ? 'Hackathon'
-              : type === 'conference'
-              ? 'Conference'
-              : format === 'online'
-              ? 'Virtual Event'
-              : 'Web3 Event'}
-          </span>
-        </div>
-      </div>
-    );
-  }
-
-  const isAboveFold = index !== undefined && index < 3;
-
-  return (
-    <img
-      src={src}
-      alt={name}
-      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
-      loading={isAboveFold ? "eager" : "lazy"}
-      fetchPriority={index === 0 ? "high" : undefined}
-      decoding="async"
-      onError={() => setHasError(true)}
-    />
-  );
-}
 
 export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   const [searchQuery, setSearchQuery] = useState('');

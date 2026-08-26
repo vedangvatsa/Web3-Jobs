@@ -11,22 +11,12 @@ import { PageHeader } from '@/components/page-header';
 import { Input } from '@/components/ui/input';
 import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
-import {
- Select,
- SelectContent,
- SelectItem,
- SelectTrigger,
- SelectValue,
-} from '@/components/ui/select';
+import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Download, Trash2, Plus, ImageIcon, Wallet } from 'lucide-react';
-import { cn } from '@/lib/utils';
+ '@/lib/utils';
 
 import { useToast } from '@/hooks/use-toast';
-import {
- Popover,
- PopoverContent,
- PopoverTrigger,
-} from '@/components/ui/popover';
+import { Popover, PopoverContent, PopoverTrigger } from '@/components/ui/popover';
 import { Calendar } from '@/components/ui/calendar';
 
 const lineItemSchema = z.object({

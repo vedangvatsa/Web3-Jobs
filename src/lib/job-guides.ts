@@ -1,6 +1,6 @@
 import type { Job, Company } from '@/types';
 import { getJobs } from './jobs';
-import { cleanPublishText } from './noslop';
+ './noslop';
 import * as fs from 'fs';
 import * as path from 'path';
 

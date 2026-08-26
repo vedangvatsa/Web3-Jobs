@@ -1,24 +1,54 @@
-# Hashtag Web3 — Developer & Agent Scoped Context
+# Hashtag Web3 — Developer Portal, Public API & Agent Context
 
-> Scoped documentation index for developers, LLMs, and autonomous agents integrating with Hashtag Web3 APIs, OpenAPI specifications, and MCP servers.
+> Scoped documentation index for developers, LLMs, and autonomous agents integrating with Hashtag Web3 APIs, OpenAPI specifications, Model Context Protocol (MCP) servers, and CLI tools.
 
-## Endpoints
+## When to Use Hashtag Web3
+- **Web3 Job Search**: Query live blockchain, Solidity, Rust, and crypto jobs via `GET /api/v1/jobs` (or `/api/jobs`).
+- **Crypto & Web3 News**: Real-time aggregated industry headlines via `GET /api/v1/news`.
+- **Global Web3 Events**: Upcoming conferences, hackathons, and builder summits via `GET /api/v1/events`.
+- **Blockchain Technical Glossary**: 200+ definitions covering DeFi, consensus, and cryptography via `GET /api/v1/glossary`.
 
-- `GET https://hashtagweb3.com/api/jobs`: Search and paginate live Web3 jobs (`search`, `tag`, `company`, `limit`, `offset`).
-- `GET https://hashtagweb3.com/api/news`: Real-time aggregated crypto headlines (`search`, `limit`).
-- `GET https://hashtagweb3.com/api/events`: Global Web3 conferences and hackathons (`search`, `type`, `country`, `limit`).
-- `GET https://hashtagweb3.com/api/glossary`: 200+ blockchain glossary definitions (`search`, `category`, `limit`).
-- `POST https://hashtagweb3.com/ask`: Microsoft NLWeb natural-language query endpoint with streaming support.
+## REST API Endpoints (v1 & Public)
 
-## Machine-Readable Specs
+- `GET https://hashtagweb3.com/api/v1/jobs`: Search and paginate live Web3 jobs (`search`, `tag`, `company`, `limit`, `offset`, `cursor`).
+- `GET https://hashtagweb3.com/api/v1/news`: Real-time aggregated crypto headlines (`search`, `limit`).
+- `GET https://hashtagweb3.com/api/v1/events`: Global Web3 conferences and hackathons (`search`, `type`, `country`, `limit`, `offset`).
+- `GET https://hashtagweb3.com/api/v1/glossary`: 200+ blockchain glossary definitions (`search`, `category`, `limit`).
+- `POST https://hashtagweb3.com/api/mcp`: Model Context Protocol Streamable HTTP endpoint for AI tool calling.
 
-- [OpenAPI 3.1 JSON](https://hashtagweb3.com/openapi.json)
-- [OpenAPI 3.1 YAML](https://hashtagweb3.com/api/openapi.yaml)
-- [MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json)
-- [Agent Manifest](https://hashtagweb3.com/.well-known/agents.json)
-- [A2A Agent Card](https://hashtagweb3.com/.well-known/agent-card.json)
-- [Agentic Resource Discovery Catalog](https://hashtagweb3.com/.well-known/ai-catalog.json)
-- [RFC 9727 API Catalog](https://hashtagweb3.com/.well-known/api-catalog)
-- [Agent Auth Guide](https://hashtagweb3.com/auth.md)
-- [RFC 9728 OAuth Protected Resource Metadata](https://hashtagweb3.com/.well-known/oauth-protected-resource)
-- [RFC 8414 OAuth Authorization Server Metadata](https://hashtagweb3.com/.well-known/oauth-authorization-server)
+## Official CLI Tool
+
+```bash
+# Run directly via npx
+npx hashtagweb3 jobs --search "Solidity" --limit 5
+npx hashtagweb3 news --limit 5
+npx hashtagweb3 events --type conference
+npx hashtagweb3 glossary --search "Zero Knowledge"
+
+# Install globally
+npm install -g hashtagweb3
+```
+
+## Rate Limits & Response Headers
+- Default public rate limit: 120 requests/minute per IP.
+- Standard RFC rate limit response headers on all API endpoints:
+  - `RateLimit-Limit: 120`
+  - `RateLimit-Remaining: 119`
+  - `RateLimit-Reset: 60`
+  - `RateLimit-Policy: 120;w=60`
+  - `Retry-After: 60` (on 429 status code)
+  - `API-Version: 1.0.0`
+  - `Deprecation: @1767225600`
+  - `Sunset: Wed, 31 Dec 2026 23:59:59 GMT`
+
+## Machine-Readable Specifications
+
+- [OpenAPI 3.1 JSON](https://hashtagweb3.com/openapi.json): Complete machine-readable OpenAPI 3.1 specification.
+- [OpenAPI 3.1 YAML](https://hashtagweb3.com/api/openapi.yaml): OpenAPI 3.1 YAML schema.
+- [MCP Server Manifest](https://hashtagweb3.com/.well-known/mcp/server-card.json): Model Context Protocol server definition.
+- [Agent Manifest](https://hashtagweb3.com/.well-known/agents.json): Standardized agent capabilities and tool definitions.
+- [Agent Auth Guide](https://hashtagweb3.com/auth.md): WorkOS auth.md compliant authentication guide for AI agents.
+- [RFC 9727 API Catalog](https://hashtagweb3.com/.well-known/api-catalog): Standardized linkset API catalog.
+- [RFC 9728 OAuth Protected Resource](https://hashtagweb3.com/.well-known/oauth-protected-resource)
+- [RFC 8414 OAuth Authorization Server](https://hashtagweb3.com/.well-known/oauth-authorization-server)
+- [Developer Portal UI](https://hashtagweb3.com/developers): Interactive web documentation, quickstart guides, and code samples.

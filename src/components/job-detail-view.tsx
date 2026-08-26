@@ -44,19 +44,33 @@ export function JobDetailView({
   const daysAgo = Math.max(0, Math.floor((Date.now() - new Date(job.date).getTime()) / (1000 * 60 * 60 * 24)));
   const relativeDate = daysAgo === 0 ? 'Today' : daysAgo === 1 ? 'Yesterday' : `${daysAgo} days ago`;
 
+  const absoluteLogoUrl = effectiveLogoSrc.startsWith('http')
+    ? effectiveLogoSrc
+    : `${siteUrl}${effectiveLogoSrc.startsWith('/') ? '' : '/'}${effectiveLogoSrc}`;
+
+  const lowerTitle = (job.title || '').toLowerCase();
+  let employmentType = 'FULL_TIME';
+  if (lowerTitle.includes('part-time') || lowerTitle.includes('part time')) {
+    employmentType = 'PART_TIME';
+  } else if (lowerTitle.includes('contract') || lowerTitle.includes('freelance')) {
+    employmentType = 'CONTRACTOR';
+  } else if (lowerTitle.includes('intern')) {
+    employmentType = 'INTERN';
+  }
+
   const jobPostingSchema = {
     '@context': 'https://schema.org',
     '@type': 'JobPosting',
     title: job.title,
     description: contentHtml,
     datePosted: new Date(job.date).toISOString(),
-    validThrough: new Date(new Date(job.date).getTime() + 45 * 24 * 60 * 60 * 1000).toISOString(),
-    employmentType: 'FULL_TIME',
+    validThrough: new Date(new Date(job.date).getTime() + 60 * 24 * 60 * 60 * 1000).toISOString(),
+    employmentType: employmentType,
     hiringOrganization: {
       '@type': 'Organization',
       name: job.company,
       sameAs: company?.website || `${siteUrl}/companies/${companySlug}`,
-      logo: `${siteUrl}/logo/companies/${companySlug}.png`,
+      logo: absoluteLogoUrl,
     },
     jobLocation: {
       '@type': 'Place',
@@ -71,7 +85,7 @@ export function JobDetailView({
       name: 'Worldwide',
     },
     jobLocationType: 'TELECOMMUTE',
-    url: job.link,
+    url: canonicalUrl,
     directApply: true,
   };
 

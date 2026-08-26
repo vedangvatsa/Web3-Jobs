@@ -2,6 +2,7 @@ import { Card, CardContent } from '@/components/ui/card';
 import Link from 'next/link';
 import { ArrowRight } from 'lucide-react';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 86400; // 24 hours
 
@@ -9,7 +10,7 @@ export default function AboutPage() {
   return (
     <div className="flex flex-col min-h-screen">
       <main className="flex-1">
-        <div className="container mx-auto page-section px-4">
+        <PageShell>
           <div className="site-container space-y-12">
             
             {/* Header */}
@@ -114,7 +115,7 @@ export default function AboutPage() {
             </section>
 
           </div>
-        </div>
+        </PageShell>
       </main>
     </div>
   );

@@ -1,4 +1,4 @@
-import { getTermsByCategory, getCategory, getAllCategorySlugs } from '@/lib/glossary';
+import { getTermsByCategory, getCategory } from '@/lib/glossary';
 import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { BookOpen } from 'lucide-react';
