@@ -14,8 +14,9 @@ const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
  * Jobs from these companies are filtered out at read time.
  */
 const BLOCKED_COMPANIES = new Set([
- 'notion', 'ashby', 'merge', 'salt ai', 'workable',
- 'button', 'breeze', 'citadel securities', 'zipline',
+  'notion', 'ashby', 'merge', 'salt ai', 'workable',
+  'button', 'breeze', 'citadel securities', 'zipline',
+  'greenhouse', 'lever', 'greenhouse io',
 ]);
 
 /**
