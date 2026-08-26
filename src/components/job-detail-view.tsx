@@ -10,7 +10,6 @@ import {
   ExternalLink, 
   Building2, 
   ArrowLeft, 
-  Sparkles, 
   Clock, 
   ArrowRight
 } from 'lucide-react';
@@ -135,9 +134,6 @@ export function JobDetailView({
             
             <div className="space-y-4 flex-1">
               <div className="flex flex-wrap items-center gap-2">
-                <Badge variant="secondary" className="font-medium bg-primary/10 text-primary border-primary/20">
-                  <Sparkles className="w-3.5 h-3.5 mr-1" /> Verified Web3 Opening
-                </Badge>
                 <Badge variant="outline" className="text-muted-foreground">
                   <Clock className="w-3.5 h-3.5 mr-1" /> Posted {relativeDate}
                 </Badge>
