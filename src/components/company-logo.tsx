@@ -24,6 +24,8 @@ export function CompanyLogo({
     <img
       src={src}
       alt={`${name} logo`}
+      loading="lazy"
+      decoding="async"
       className={`object-contain ${size}`}
       onError={() => {
         if (src !== faviconUrl) setSrc(faviconUrl);
