@@ -44,22 +44,22 @@ Intents can be simple (single-chain token swap) or complex (multi-chain operatio
 ### 2. Solvers (Intent Fulfillers)
 
 - **Solvers** are specialized entities that compete to fulfill user intents optimally. Solvers:
-- Monitor intent mempool for profitable opportunities
-- Calculate optimal execution paths (which DEXs, which routes, which chains)
-- Submit solutions (execution plans) with bids
-- Execute the winning solution on-chain
-- Compete on execution quality, speed, and price
+  - Monitor intent mempool for profitable opportunities
+  - Calculate optimal execution paths (which DEXs, which routes, which chains)
+  - Submit solutions (execution plans) with bids
+  - Execute the winning solution on-chain
+  - Compete on execution quality, speed, and price
 
 Solvers are incentivized through fees paid by users or by capturing any surplus beyond the user's minimum requirements.
 
 ### 3. Auctioneers (Intent Coordinators)
 
 - **Auctioneers** (or **matchers**) coordinate the intent fulfillment process:
-- Collect intents from users
-- Run auctions to select winning solvers
-- Verify solution correctness
-- Settle completed intents on-chain
-- Handle disputes and enforce guarantees
+  - Collect intents from users
+  - Run auctions to select winning solvers
+  - Verify solution correctness
+  - Settle completed intents on-chain
+  - Handle disputes and enforce guarantees
 
 Different protocols implement auctioneers differently; some use centralized coordinators, while others use decentralized networks.
 

@@ -172,154 +172,189 @@ export default function LessonPage({ params }: Props) {
 }
 
 /**
- * Minimal markdown-to-HTML converter.
+ * Markdown-to-HTML converter.
  * Supports: headings, paragraphs, bold, italic, inline code,
- * code blocks, lists, links, tables, and raw HTML/SVG passthrough.
+ * code blocks, nested lists (indented with spaces), links, tables, and raw HTML/SVG passthrough.
  */
 function markdownToHtml(md: string): string {
- const lines = md.split('\n');
- let html = '';
- let inCodeBlock = false;
- let inList = false;
- let listType: 'ul' | 'ol' = 'ul';
- let inTable = false;
- let inHtmlBlock = false;
- let htmlBlockContent = '';
+  const lines = md.split('\n');
+  let html = '';
+  let inCodeBlock = false;
+  let inTable = false;
+  let inHtmlBlock = false;
+  let htmlBlockContent = '';
 
- for (let i = 0; i < lines.length; i++) {
-  const line = lines[i];
+  // Nested list state: stack of { type, indent }
+  const listStack: Array<{ type: 'ul' | 'ol'; indent: number }> = [];
 
-  // Raw HTML/SVG blocks (pass through)
-  if (!inHtmlBlock && /^<(div|svg|table|figure|section|aside)\b/.test(line.trim())) {
-   inHtmlBlock = true;
-   htmlBlockContent = line;
-   // Check if it closes on same line
-   const tagMatch = line.trim().match(/^<(\w+)/);
-   if (tagMatch && line.includes(`</${tagMatch[1]}>`)) {
-    html += line + '\n';
-    inHtmlBlock = false;
-    htmlBlockContent = '';
-   }
-   continue;
-  }
-  if (inHtmlBlock) {
-   htmlBlockContent += '\n' + line;
-   // Check for closing tag
-   if (/<\/(div|svg|table|figure|section|aside)>\s*$/.test(line.trim())) {
-    html += htmlBlockContent + '\n';
-    inHtmlBlock = false;
-    htmlBlockContent = '';
-   }
-   continue;
+  function closeListsDownTo(targetIndent: number) {
+    while (listStack.length > 0 && listStack[listStack.length - 1].indent > targetIndent) {
+      const popped = listStack.pop()!;
+      html += `</${popped.type}>\n`;
+    }
   }
 
-  // Code blocks
-  if (line.trim().startsWith('```')) {
-   if (inCodeBlock) {
-    html += '</code></pre>\n';
-    inCodeBlock = false;
-   } else {
-    const lang = line.trim().slice(3).trim();
-    html += `<pre><code class="language-${lang || 'text'}">`;
-    inCodeBlock = true;
-   }
-   continue;
-  }
-  if (inCodeBlock) {
-   html += escapeHtml(line) + '\n';
-   continue;
+  function closeAllLists() {
+    while (listStack.length > 0) {
+      const popped = listStack.pop()!;
+      html += `</${popped.type}>\n`;
+    }
   }
 
-  // Close list if we hit a non-list line
-  if (inList && !line.match(/^[\s]*[-*]\s/) && !line.match(/^[\s]*\d+\.\s/) && line.trim() !== '') {
-   html += `</${listType}>\n`;
-   inList = false;
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
+    // Raw HTML/SVG blocks (pass through)
+    if (!inHtmlBlock && /^<(div|svg|table|figure|section|aside)\b/.test(line.trim())) {
+      closeAllLists();
+      inHtmlBlock = true;
+      htmlBlockContent = line;
+      const tagMatch = line.trim().match(/^<(\w+)/);
+      if (tagMatch && line.includes(`</${tagMatch[1]}>`)) {
+        html += line + '\n';
+        inHtmlBlock = false;
+        htmlBlockContent = '';
+      }
+      continue;
+    }
+    if (inHtmlBlock) {
+      htmlBlockContent += '\n' + line;
+      if (/<\/(div|svg|table|figure|section|aside)>\s*$/.test(line.trim())) {
+        html += htmlBlockContent + '\n';
+        inHtmlBlock = false;
+        htmlBlockContent = '';
+      }
+      continue;
+    }
+
+    // Code blocks
+    if (line.trim().startsWith('```')) {
+      if (inCodeBlock) {
+        html += '</code></pre>\n';
+        inCodeBlock = false;
+      } else {
+        closeAllLists();
+        const lang = line.trim().slice(3).trim();
+        html += `<pre><code class="language-${lang || 'text'}">`;
+        inCodeBlock = true;
+      }
+      continue;
+    }
+    if (inCodeBlock) {
+      html += escapeHtml(line) + '\n';
+      continue;
+    }
+
+    // Detect list item (unordered or ordered) with indentation
+    const ulMatch = line.match(/^(\s*)[-*]\s+(.*)/);
+    const olMatch = line.match(/^(\s*)\d+\.\s+(.*)/);
+    const listMatch = ulMatch || olMatch;
+
+    if (listMatch) {
+      const indent = listMatch[1].length;
+      const content = listMatch[2];
+      const type: 'ul' | 'ol' = ulMatch ? 'ul' : 'ol';
+
+      if (listStack.length === 0) {
+        // Start first list
+        html += `<${type}>\n`;
+        listStack.push({ type, indent });
+      } else {
+        const current = listStack[listStack.length - 1];
+        if (indent > current.indent) {
+          // Go deeper — open nested list
+          html += `<${type}>\n`;
+          listStack.push({ type, indent });
+        } else if (indent < current.indent) {
+          // Go shallower — close until matching level
+          closeListsDownTo(indent);
+          // If no matching level, ensure we're at the right one
+          if (listStack.length === 0 || listStack[listStack.length - 1].indent !== indent) {
+            html += `<${type}>\n`;
+            listStack.push({ type, indent });
+          }
+        }
+        // Same indent: stay in current list
+      }
+
+      html += `<li>${inlineFormat(content)}</li>\n`;
+      continue;
+    }
+
+    // Table
+    if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
+      closeAllLists();
+      if (!inTable) {
+        html += '<table>\n';
+        inTable = true;
+        const cells = line.split('|').filter(c => c.trim()).map(c => `<th>${inlineFormat(c.trim())}</th>`).join('');
+        html += `<thead><tr>${cells}</tr></thead>\n<tbody>\n`;
+        i++; // Skip separator row
+        continue;
+      }
+      const cells = line.split('|').filter(c => c.trim()).map(c => `<td>${inlineFormat(c.trim())}</td>`).join('');
+      html += `<tr>${cells}</tr>\n`;
+      continue;
+    }
+    if (inTable && !line.trim().startsWith('|')) {
+      html += '</tbody></table>\n';
+      inTable = false;
+    }
+
+    // Empty line — close lists only if followed by a non-list line
+    if (line.trim() === '') {
+      // Peek ahead: if next non-empty line is NOT a list item, close lists
+      let nextNonEmpty = '';
+      for (let j = i + 1; j < lines.length; j++) {
+        if (lines[j].trim() !== '') { nextNonEmpty = lines[j]; break; }
+      }
+      if (nextNonEmpty && !nextNonEmpty.match(/^\s*[-*]\s/) && !nextNonEmpty.match(/^\s*\d+\.\s/)) {
+        closeAllLists();
+      }
+      continue;
+    }
+
+    // Close any open lists before headings/paragraphs
+    closeAllLists();
+
+    // Headings
+    if (line.startsWith('## ')) {
+      const text = line.slice(3).trim();
+      const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      html += `<h2 id="${id}">${inlineFormat(text)}</h2>\n`;
+      continue;
+    }
+    if (line.startsWith('### ')) {
+      const text = line.slice(4).trim();
+      const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+      html += `<h3 id="${id}">${inlineFormat(text)}</h3>\n`;
+      continue;
+    }
+
+    // Regular paragraph
+    html += `<p>${inlineFormat(line)}</p>\n`;
   }
 
-  // Table
-  if (line.trim().startsWith('|') && line.trim().endsWith('|')) {
-   if (!inTable) {
-    html += '<table>\n';
-    inTable = true;
-    // Header row
-    const cells = line.split('|').filter(c => c.trim()).map(c => `<th>${inlineFormat(c.trim())}</th>`).join('');
-    html += `<thead><tr>${cells}</tr></thead>\n<tbody>\n`;
-    i++; // Skip separator row
-    continue;
-   }
-   const cells = line.split('|').filter(c => c.trim()).map(c => `<td>${inlineFormat(c.trim())}</td>`).join('');
-   html += `<tr>${cells}</tr>\n`;
-   continue;
-  }
-  if (inTable && !line.trim().startsWith('|')) {
-   html += '</tbody></table>\n';
-   inTable = false;
-  }
+  // Close any open blocks
+  closeAllLists();
+  if (inTable) html += '</tbody></table>\n';
+  if (inCodeBlock) html += '</code></pre>\n';
 
-  // Empty line
-  if (line.trim() === '') {
-   continue;
-  }
-
-  // Headings
-  if (line.startsWith('## ')) {
-   const text = line.slice(3).trim();
-   const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-   html += `<h2 id="${id}">${inlineFormat(text)}</h2>\n`;
-   continue;
-  }
-  if (line.startsWith('### ')) {
-   const text = line.slice(4).trim();
-   const id = text.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
-   html += `<h3 id="${id}">${inlineFormat(text)}</h3>\n`;
-   continue;
-  }
-
-  // Unordered list
-  if (line.match(/^[-*]\s/)) {
-   if (!inList) {
-    html += '<ul>\n';
-    inList = true;
-    listType = 'ul';
-   }
-   html += `<li>${inlineFormat(line.replace(/^[-*]\s/, ''))}</li>\n`;
-   continue;
-  }
-
-  // Ordered list
-  if (line.match(/^\d+\.\s/)) {
-   if (!inList) {
-    html += '<ol>\n';
-    inList = true;
-    listType = 'ol';
-   }
-   html += `<li>${inlineFormat(line.replace(/^\d+\.\s/, ''))}</li>\n`;
-   continue;
-  }
-
-  // Regular paragraph
-  html += `<p>${inlineFormat(line)}</p>\n`;
- }
-
- // Close any open blocks
- if (inList) html += `</${listType}>\n`;
- if (inTable) html += '</tbody></table>\n';
- if (inCodeBlock) html += '</code></pre>\n';
-
- return html;
+  return html;
 }
 
 function inlineFormat(text: string): string {
- return text
-  .replace(/`([^`]+)`/g, '<code>$1</code>')
-  .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-  .replace(/\*([^*]+)\*/g, '<em>$1</em>')
-  .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
+  return text
+    .replace(/`([^`]+)`/g, '<code>$1</code>')
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/\*([^*]+)\*/g, '<em>$1</em>')
+    .replace(/\[([^\]]+)\]\(([^)]+)\)/g, '<a href="$2">$1</a>');
 }
 
 function escapeHtml(text: string): string {
- return text
-  .replace(/&/g, '&amp;')
-  .replace(/</g, '&lt;')
-  .replace(/>/g, '&gt;');
+  return text
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;');
 }
+

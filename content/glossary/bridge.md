@@ -56,10 +56,10 @@ Most common bridge mechanism:
 3. Original tokens return to user.
 
 - **Example: Wormhole Bridge**:
-- Send 1 ETH on Ethereum to Wormhole contract.
-- Wormhole mints 1 wETH on Solana.
-- Use wETH on Solana DeFi.
-- To withdraw: Burn wETH on Solana, unlock ETH on Ethereum.
+  - Send 1 ETH on Ethereum to Wormhole contract.
+  - Wormhole mints 1 wETH on Solana.
+  - Use wETH on Solana DeFi.
+  - To withdraw: Burn wETH on Solana, unlock ETH on Ethereum.
 
 ### Liquidity Pool Model
 
@@ -82,52 +82,52 @@ Some bridges use liquidity pools on both chains:
 Centralized entity or federation controls locked assets.
 
 - **Examples**:
-- **WBTC** (Wrapped Bitcoin): BitGo custodian holds BTC, mints ERC-20 WBTC on Ethereum.
-- **Multichain** (formerly Anyswap): Multi-party computation but still permissioned validators.
+  - **WBTC** (Wrapped Bitcoin): BitGo custodian holds BTC, mints ERC-20 WBTC on Ethereum.
+  - **Multichain** (formerly Anyswap): Multi-party computation but still permissioned validators.
 
 - **Advantages**:
-- Simpler to build.
-- Faster transactions.
-- Better user experience.
+  - Simpler to build.
+  - Faster transactions.
+  - Better user experience.
 
 - **Disadvantages**:
-- Trust required in bridge operator.
-- Single point of failure.
-- Regulatory risk.
+  - Trust required in bridge operator.
+  - Single point of failure.
+  - Regulatory risk.
 
 ### Trustless Bridges
 
 Operate using smart contracts and algorithms without trusted intermediaries.
 
 - **Examples**:
-- **Rainbow Bridge** (Ethereum ↔ NEAR): Light client proofs validate cross-chain transactions.
-- **IBC** (Inter-Blockchain Communication): Cosmos ecosystem standard.
-- **LayerZero**: Omnichain messaging protocol.
+  - **Rainbow Bridge** (Ethereum ↔ NEAR): Light client proofs validate cross-chain transactions.
+  - **IBC** (Inter-Blockchain Communication): Cosmos ecosystem standard.
+  - **LayerZero**: Omnichain messaging protocol.
 
 - **Advantages**:
-- More decentralized.
-- Censorship resistant.
-- No trusted parties.
+  - More decentralized.
+  - Censorship resistant.
+  - No trusted parties.
 
 - **Disadvantages**:
-- More complex.
-- May be slower.
-- Higher technical requirements.
+  - More complex.
+  - May be slower.
+  - Higher technical requirements.
 
 ### Layer 2 Bridges
 
 Connect Ethereum mainnet to Layer 2 rollups.
 
 - **Canonical Bridges**:
-- Arbitrum Bridge.
-- Optimism Bridge.
-- zkSync Bridge.
+  - Arbitrum Bridge.
+  - Optimism Bridge.
+  - zkSync Bridge.
 
 These are native bridges built by L2 teams, inheriting L2's security model.
 
 - **Third-Party Bridges**:
-- Hop, Across, Synapse enable faster L2-to-L2 transfers.
-- Trade security assumptions for speed.
+  - Hop, Across, Synapse enable faster L2-to-L2 transfers.
+  - Trade security assumptions for speed.
 
 ## Major Bridge Protocols
 
@@ -285,17 +285,17 @@ Services that route bridge transactions across multiple bridges for best price a
 
 - **Trends**:
 
-- **Intent-Based Bridging**: Describe desired outcome, solvers compete to fulfill.
+  - **Intent-Based Bridging**: Describe desired outcome, solvers compete to fulfill.
 
-- **Shared Security**: Bridges inherit security from underlying chains.
+  - **Shared Security**: Bridges inherit security from underlying chains.
 
-- **ZK Bridges**: Zero-knowledge proofs enable trustless verification.
+  - **ZK Bridges**: Zero-knowledge proofs enable trustless verification.
 
-- **Modular Architecture**: Separate messaging, settlement, validation layers.
+  - **Modular Architecture**: Separate messaging, settlement, validation layers.
 
-- **Institutional Bridges**: Regulated, insured bridges for institutional users.
+  - **Institutional Bridges**: Regulated, insured bridges for institutional users.
 
-- **Regulatory Clarity**: Governments may regulate bridges as money transmitters.
+  - **Regulatory Clarity**: Governments may regulate bridges as money transmitters.
 
 ## Career Opportunities
 

@@ -164,18 +164,18 @@ Understanding and optimizing yields creates professional paths:
 Distinguishing legitimate yields from unsustainable schemes:
 
 - **Sustainable Yields Come From**:
-- Trading fees on DEXs
-- Borrowing interest from real users
-- Block rewards on PoS networks
-- Revenue from protocol usage
-- Productive economic activity
+  - Trading fees on DEXs
+  - Borrowing interest from real users
+  - Block rewards on PoS networks
+  - Revenue from protocol usage
+  - Productive economic activity
 
 - **Unsustainable Yields Come From**:
-- Inflating token supply to pay yields
-- New user deposits funding old user returns
-- Promotional campaigns with defined end dates
-- Using on using
-- Circular token emission schemes
+  - Inflating token supply to pay yields
+  - New user deposits funding old user returns
+  - Promotional campaigns with defined end dates
+  - Using on using
+  - Circular token emission schemes
 
 Ask: "Where does this yield come from?" If the answer is token emissions without corresponding revenue, question sustainability. If there's no clear revenue source, it may be temporary or fraudulent.
 

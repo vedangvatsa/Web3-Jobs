@@ -74,9 +74,9 @@ Several prominent projects are competing in the DA layer market:
 
 - **Celestia** is the first modular blockchain specifically designed as a DA layer. Key features:
 
-- **Data Availability Sampling**: Light clients sample random chunks to verify availability with high confidence.
-- **Sovereign Rollups**: Rollups can use Celestia for DA without settling to any L1, maintaining full sovereignty.
-- **Namespace Merkle Trees**: Different rollups get isolated namespaces, preventing data overlap.
+  - **Data Availability Sampling**: Light clients sample random chunks to verify availability with high confidence.
+  - **Sovereign Rollups**: Rollups can use Celestia for DA without settling to any L1, maintaining full sovereignty.
+  - **Namespace Merkle Trees**: Different rollups get isolated namespaces, preventing data overlap.
 
 Celestia has attracted numerous rollup projects, particularly for alt-VM rollups (non-EVM) and application-specific chains.
 
@@ -84,9 +84,9 @@ Celestia has attracted numerous rollup projects, particularly for alt-VM rollups
 
 - **EigenDA** is a DA layer built on EigenLayer's restaking infrastructure. Key features:
 
-- **Restaked Security**: Secured by Ethereum validators who opt into EigenLayer restaking.
-- **Very High Throughput**: Targeting high throughput for rollups.
-- **EVM Alignment**: Designed specifically for Ethereum rollups with native L1 integration.
+  - **Restaked Security**: Secured by Ethereum validators who opt into EigenLayer restaking.
+  - **Very High Throughput**: Targeting high throughput for rollups.
+  - **EVM Alignment**: Designed specifically for Ethereum rollups with native L1 integration.
 
 EigenDA launched in 2024 and has been adopted by major Ethereum rollups seeking cost reduction.
 
@@ -94,9 +94,9 @@ EigenDA launched in 2024 and has been adopted by major Ethereum rollups seeking 
 
 - **Avail** (formerly part of Polygon, now independent) is a DA layer with a focus on interoperability:
 
-- **Validity Proofs**: Uses validity proofs to prove data availability.
-- **Multichain Attestations**: Can provide DA guarantees to multiple L1s simultaneously.
-- **Modular Integration**: Designed to work with any rollup stack.
+  - **Validity Proofs**: Uses validity proofs to prove data availability.
+  - **Multichain Attestations**: Can provide DA guarantees to multiple L1s simultaneously.
+  - **Modular Integration**: Designed to work with any rollup stack.
 
 Avail launched its mainnet in 2024 and focuses on enterprise and gaming rollups.
 
@@ -104,9 +104,9 @@ Avail launched its mainnet in 2024 and focuses on enterprise and gaming rollups.
 
 - **NEAR DA** uses the NEAR Protocol blockchain as a DA layer:
 
-- **Low Cost**: Extremely cheap compared to Ethereum calldata.
-- **Immediate Availability**: Live mainnet with battle-tested infrastructure.
-- **Ethereum Integration**: Integrated with major rollup frameworks.
+  - **Low Cost**: Extremely cheap compared to Ethereum calldata.
+  - **Immediate Availability**: Live mainnet with battle-tested infrastructure.
+  - **Ethereum Integration**: Integrated with major rollup frameworks.
 
 NEAR DA targets cost-sensitive rollups willing to accept alt-L1 security assumptions.
 
@@ -141,18 +141,18 @@ Different DA layers use different security models:
 Rollups integrate with DA layers through standardized interfaces:
 
 - **Optimistic Rollups (OP Stack, Arbitrum Orbit)**:
-- Post transaction batches to DA layer.
-- Reference DA commitments in L1 state roots.
-- Fraud proofs reference DA layer data if disputes arise.
+  - Post transaction batches to DA layer.
+  - Reference DA commitments in L1 state roots.
+  - Fraud proofs reference DA layer data if disputes arise.
 
 - **ZK Rollups (Polygon zkEVM, Scroll, zkSync)**:
-- Post transaction data to DA layer.
-- Generate validity proofs and submit to L1.
-- L1 verifies proof references correct DA commitments.
+  - Post transaction data to DA layer.
+  - Generate validity proofs and submit to L1.
+  - L1 verifies proof references correct DA commitments.
 
 - **Sovereign Rollups** (using Celestia):
-- Post data to Celestia without settling to any L1.
-- Social consensus determines canonical fork.
+  - Post data to Celestia without settling to any L1.
+  - Social consensus determines canonical fork.
 
 Many major rollup frameworks now support configurable DA layers, allowing projects to choose the DA layer that best fits their cost, security, and decentralization requirements.
 
@@ -167,10 +167,10 @@ The key technical innovation enabling DA layers is **data availability sampling*
 4. If any chunk is missing, light clients alert the network of unavailability.
 
 - **Benefits**:
-- Light clients verify DA with a small fraction of the data.
-- Scales to very large blocks since verification cost stays constant.
-- Enables mobile/browser light clients to participate in DA verification.
-- Creates strong censorship resistance.
+  - Light clients verify DA with a small fraction of the data.
+  - Scales to very large blocks since verification cost stays constant.
+  - Enables mobile/browser light clients to participate in DA verification.
+  - Creates strong censorship resistance.
 
 DAS is a breakthrough that makes high-throughput DA layers practical and secure.
 
@@ -179,14 +179,14 @@ DAS is a breakthrough that makes high-throughput DA layers practical and secure.
 DA layers dramatically reduce rollup costs:
 
 - **Ethereum Rollup Cost Breakdown** (using Ethereum calldata):
-- A significant portion of costs comes from posting data to L1 (calldata).
-- A smaller portion of costs comes from computation and proof generation.
+  - A significant portion of costs comes from posting data to L1 (calldata).
+  - A smaller portion of costs comes from computation and proof generation.
 
 - **With DA Layer**:
-- A larger portion of costs comes from DA layer fees.
-- A smaller portion of costs comes from L1 settlement and computation.
+  - A larger portion of costs comes from DA layer fees.
+  - A smaller portion of costs comes from L1 settlement and computation.
 
-- **Overall Savings**: Rollups using DA layers can significantly reduce total operating costs, which can be passed to users as lower transaction fees.
+  - **Overall Savings**: Rollups using DA layers can significantly reduce total operating costs, which can be passed to users as lower transaction fees.
 
 ## Risks and Challenges
 

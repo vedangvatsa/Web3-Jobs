@@ -54,18 +54,18 @@ Bitcoin's leading consensus mechanism. Miners compete to solve computationally e
 - **Security Model**: Attacking requires controlling 51% of network hash rate, which is economically infeasible for Bitcoin.
 
 - **Advantages**:
-- Battle-tested security (Bitcoin: 15+ years).
-- Highly decentralized (anyone can mine).
-- Objective finality (longest chain rule).
-- Proven track record.
+  - Battle-tested security (Bitcoin: 15+ years).
+  - Highly decentralized (anyone can mine).
+  - Objective finality (longest chain rule).
+  - Proven track record.
 
 - **Disadvantages**:
-- Massive energy consumption.
-- Limited throughput (~7 TPS for Bitcoin).
-- Mining centralization in regions with cheap electricity.
-- Hardware arms race (ASICs).
+  - Massive energy consumption.
+  - Limited throughput (~7 TPS for Bitcoin).
+  - Mining centralization in regions with cheap electricity.
+  - Hardware arms race (ASICs).
 
-- **Used By**: Bitcoin, Ethereum (pre-Merge), Litecoin, Dogecoin, Bitcoin Cash.
+  - **Used By**: Bitcoin, Ethereum (pre-Merge), Litecoin, Dogecoin, Bitcoin Cash.
 
 ## Proof of Stake (PoS)
 
@@ -82,17 +82,17 @@ Validators stake cryptocurrency as collateral. The network randomly selects vali
 - **Security Model**: Attacking requires acquiring and staking 51% of total staked tokens, which is economically costly.
 
 - **Advantages**:
-- More scalable (faster block times possible).
-- Lower barriers to participation (no specialized hardware).
-- Penalties for misbehavior (slashing).
+  - More scalable (faster block times possible).
+  - Lower barriers to participation (no specialized hardware).
+  - Penalties for misbehavior (slashing).
 
 - **Disadvantages**:
-- "Rich get richer", large stakers earn more.
-- Newer, less battle-tested than PoW.
-- More complex implementations.
-- Potential long-range attacks (theoretical).
+  - "Rich get richer", large stakers earn more.
+  - Newer, less battle-tested than PoW.
+  - More complex implementations.
+  - Potential long-range attacks (theoretical).
 
-- **Used By**: Ethereum (post-Merge), Cardano, Polkadot, Cosmos, Avalanche (variant).
+  - **Used By**: Ethereum (post-Merge), Cardano, Polkadot, Cosmos, Avalanche (variant).
 
 ## Ethereum's Transition: The Merge
 

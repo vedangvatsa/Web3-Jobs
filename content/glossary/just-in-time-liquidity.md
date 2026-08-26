@@ -51,21 +51,21 @@ The entire cycle completes in seconds, minimizing impermanent loss risk while ma
 Consider a scenario on Uniswap V3 ETH/USDC:
 
 - **Initial State**:
-- Current price: $2,000 per ETH
-- Existing passive liquidity: $5M spread across various ranges
-- Large incoming trade: 100 ETH swap with a 0.3% fee tier
+  - Current price: $2,000 per ETH
+  - Existing passive liquidity: $5M spread across various ranges
+  - Large incoming trade: 100 ETH swap with a 0.3% fee tier
 
 - **Without JIT**:
-- Trade pays fees based on the total amount.
+  - Trade pays fees based on the total amount.
 
 - **With JIT**:
-- JIT bot detects the trade in the mempool.
-- Bot adds liquidity in a tight range around $2,000.
-- Total active liquidity increases.
-- Trade executes, paying fees.
-- JIT position captures a significant share of fees despite being active for a short time.
-- Passive LPs capture a smaller share of fees.
-- JIT bot removes liquidity, earning a profit after gas costs.
+  - JIT bot detects the trade in the mempool.
+  - Bot adds liquidity in a tight range around $2,000.
+  - Total active liquidity increases.
+  - Trade executes, paying fees.
+  - JIT position captures a significant share of fees despite being active for a short time.
+  - Passive LPs capture a smaller share of fees.
+  - JIT bot removes liquidity, earning a profit after gas costs.
 
 The JIT bot extracted fees that would have gone to passive LPs, reducing their returns.
 
@@ -181,17 +181,17 @@ Some economists argue that JIT liquidity represents market efficiency, while oth
 JIT liquidity occupies an ethically gray area:
 
 - **Arguments for JIT Being Legitimate**:
-- Uses public protocol features as intended.
-- Provides liquidity during large trades.
-- Represents efficient capital allocation.
-- No explicit rule violation.
+  - Uses public protocol features as intended.
+  - Provides liquidity during large trades.
+  - Represents efficient capital allocation.
+  - No explicit rule violation.
 
 - **Arguments Against JIT Being Harmful**:
-- Extracts value from passive participants without adding long-term value.
-- Exploits information asymmetry.
-- Concentrates profits among sophisticated operators.
-- Harms protocol health by discouraging passive LPs.
-- Creates centralization pressures.
+  - Extracts value from passive participants without adding long-term value.
+  - Exploits information asymmetry.
+  - Concentrates profits among sophisticated operators.
+  - Harms protocol health by discouraging passive LPs.
+  - Creates centralization pressures.
 
 Regulators have not yet specifically addressed JIT liquidity, though it could potentially fall under market manipulation frameworks. The DeFi community remains divided on whether JIT should be prevented or is simply efficient market behavior.
 

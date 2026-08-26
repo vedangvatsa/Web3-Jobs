@@ -47,17 +47,17 @@ The fundamental trade-off: CEXs offer better user experience and performance; DE
 Most DEXs use Automated Market Makers (AMMs) instead of order books:
 
 - **Traditional Order Book** (CEXs):
-- Users place buy/sell orders at specific prices
-- Matching engine connects buyers and sellers
-- Requires sufficient liquidity on both sides
-- Expensive to implement on-chain (gas costs)
+  - Users place buy/sell orders at specific prices
+  - Matching engine connects buyers and sellers
+  - Requires sufficient liquidity on both sides
+  - Expensive to implement on-chain (gas costs)
 
 - **Automated Market Maker** (DEXs):
-- Liquidity pools hold token reserves
-- Algorithmic pricing based on pool ratios
-- Users trade against pools, not other users
-- Anyone can provide liquidity and earn fees
-- Efficient for on-chain implementation
+  - Liquidity pools hold token reserves
+  - Algorithmic pricing based on pool ratios
+  - Users trade against pools, not other users
+  - Anyone can provide liquidity and earn fees
+  - Efficient for on-chain implementation
 
 - **Example Trade on Uniswap**:
 1. Connect wallet (MetaMask, etc.)
@@ -76,10 +76,10 @@ No account needed, no custody transfer, no withdrawal delays.
 Largest DEX by volume, pioneered AMM model on Ethereum.
 
 - **Versions**:
-- **V1** (2018): Proved AMM concept
-- **V2** (2020): Any token pairs, price oracles
-- **V3** (2021): Concentrated liquidity changing capital efficiency
-- **V4** (Coming): Hooks for customization
+  - **V1** (2018): Proved AMM concept
+  - **V2** (2020): Any token pairs, price oracles
+  - **V3** (2021): Concentrated liquidity changing capital efficiency
+  - **V4** (Coming): Hooks for customization
 
 Dominates Ethereum DEX volume. The UNI governance token has a significant market cap.
 

@@ -28,16 +28,16 @@ Most common standard:
 - **Fungible**: All tokens identical. 1 USDC = 1 USDC.
 
 - **Standard Functions**:
-- `transfer`: Send tokens to address
-- `approve`: Allow address to spend tokens
-- `transferFrom`: Spend approved tokens
+  - `transfer`: Send tokens to address
+  - `approve`: Allow address to spend tokens
+  - `transferFrom`: Spend approved tokens
 
 - **Optional Functions**:
-- `name`, `symbol`, `decimals`: Metadata
+  - `name`, `symbol`, `decimals`: Metadata
 
 - **Events**:
-- `Transfer`: Emitted when tokens transferred
-- `Approval`: Emitted when allowance set
+  - `Transfer`: Emitted when tokens transferred
+  - `Approval`: Emitted when allowance set
 
 ERC-20 enables interoperable fungible tokens.
 
@@ -48,13 +48,13 @@ NFT standard:
 - **Non-Fungible**: Each token unique. Token ID 1 != Token ID 2.
 
 - **Standard Functions**:
-- `transferFrom`: Transfer specific NFT
-- `approve`: Approve address to transfer NFT
-- `ownerOf`: Get owner of token
+  - `transferFrom`: Transfer specific NFT
+  - `approve`: Approve address to transfer NFT
+  - `ownerOf`: Get owner of token
 
-- **Metadata**: Can point to off-chain metadata (JSON).
+  - **Metadata**: Can point to off-chain metadata (JSON).
 
-- **Usage**: Digital art, collectibles, domain names.
+  - **Usage**: Digital art, collectibles, domain names.
 
 ERC-721 enables the NFT ecosystem.
 

@@ -113,23 +113,23 @@ ZK rollups use two main proof systems:
 ### ZK-SNARKs (Succinct Non-Interactive Argument of Knowledge)
 
 - **Properties**:
-- Very small proofs.
-- Fast verification.
-- Requires trusted setup.
-- Based on elliptic curve pairings.
+  - Very small proofs.
+  - Fast verification.
+  - Requires trusted setup.
+  - Based on elliptic curve pairings.
 
-- **Used By**: zkSync Era, Polygon zkEVM (early versions), Scroll.
+  - **Used By**: zkSync Era, Polygon zkEVM (early versions), Scroll.
 
 ### ZK-STARKs (Scalable Transparent Argument of Knowledge)
 
 - **Properties**:
-- Larger proofs.
-- Slower verification.
-- No trusted setup.
-- Quantum-resistant.
-- Based on hash functions and polynomial commitments.
+  - Larger proofs.
+  - Slower verification.
+  - No trusted setup.
+  - Quantum-resistant.
+  - Based on hash functions and polynomial commitments.
 
-- **Used By**: StarkNet, Polygon zkEVM (transitioning), some Validiums.
+  - **Used By**: StarkNet, Polygon zkEVM (transitioning), some Validiums.
 
 ## ZK-EVM: The Holy Grail
 
@@ -142,30 +142,30 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 ### Types of zkEVMs
 
 - **Type 1 (Ethereum-Equivalent)**:
-- Byte-for-byte identical to Ethereum.
-- Can verify Ethereum L1 blocks with ZK proofs.
-- Slowest proving times.
+  - Byte-for-byte identical to Ethereum.
+  - Can verify Ethereum L1 blocks with ZK proofs.
+  - Slowest proving times.
 
 - **Type 2 (EVM-Equivalent)**:
-- Equivalent at the EVM level but makes minor modifications for efficiency.
-- Existing contracts deploy unchanged.
-- Moderate proving times.
+  - Equivalent at the EVM level but makes minor modifications for efficiency.
+  - Existing contracts deploy unchanged.
+  - Moderate proving times.
 
 - **Type 2.5 (EVM-Compatible with Gas Changes)**:
-- Nearly EVM-equivalent but changes gas costs for ZK-friendly operations.
-- Most contracts work with minor adjustments.
-- Faster proving.
+  - Nearly EVM-equivalent but changes gas costs for ZK-friendly operations.
+  - Most contracts work with minor adjustments.
+  - Faster proving.
 
 - **Type 3 (Almost EVM-Compatible)**:
-- Some EVM features removed or modified for faster proving.
-- Most contracts work but some require rewrites.
+  - Some EVM features removed or modified for faster proving.
+  - Most contracts work but some require rewrites.
 
 - **Type 4 (High-Level Language Compatible)**:
-- Compiles Solidity to a different VM.
-- Many contracts need significant changes.
-- Fastest proving times.
+  - Compiles Solidity to a different VM.
+  - Many contracts need significant changes.
+  - Fastest proving times.
 
-- **The Race**: Type 2 zkEVMs (Polygon, Scroll) are balancing compatibility with performance. Type 1 remains the long-term goal.
+  - **The Race**: Type 2 zkEVMs (Polygon, Scroll) are balancing compatibility with performance. Type 1 remains the long-term goal.
 
 ## Major ZK Rollup Projects
 
@@ -176,12 +176,12 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 - **Proof System**: ZK-SNARKs 
 
 - **Key Features**:
-- Native account abstraction.
-- Strong ecosystem growth.
-- ZK token for governance.
-- Plans for zkEVM full compatibility.
+  - Native account abstraction.
+  - Strong ecosystem growth.
+  - ZK token for governance.
+  - Plans for zkEVM full compatibility.
 
-- **Status**: Mainnet since March 2023.
+  - **Status**: Mainnet since March 2023.
 
 ### Polygon zkEVM
 
@@ -190,11 +190,11 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 - **Proof System**: FRI-based STARKs + SNARKs (hybrid) 
 
 - **Key Features**:
-- High EVM equivalence.
-- Part of Polygon 2.0 vision.
-- Integrated with Polygon ecosystem.
+  - High EVM equivalence.
+  - Part of Polygon 2.0 vision.
+  - Integrated with Polygon ecosystem.
 
-- **Status**: Mainnet since March 2023.
+  - **Status**: Mainnet since March 2023.
 
 ### Scroll
 
@@ -203,11 +203,11 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 - **Proof System**: ZK-SNARKs 
 
 - **Key Features**:
-- Close EVM equivalence for easy migration.
-- Bytecode-level compatibility.
-- Open-source prover.
+  - Close EVM equivalence for easy migration.
+  - Bytecode-level compatibility.
+  - Open-source prover.
 
-- **Status**: Mainnet since October 2023.
+  - **Status**: Mainnet since October 2023.
 
 ### StarkNet
 
@@ -216,11 +216,11 @@ The biggest challenge for ZK rollups has been **EVM compatibility**. The Ethereu
 - **Proof System**: ZK-STARKs 
 
 - **Key Features**:
-- Cairo language (custom for ZK-friendliness).
-- No trusted setup.
-- Native account abstraction.
+  - Cairo language (custom for ZK-friendliness).
+  - No trusted setup.
+  - Native account abstraction.
 
-- **Status**: Mainnet since 2021.
+  - **Status**: Mainnet since 2021.
 
 ### Other Notable Projects
 
@@ -296,22 +296,22 @@ Despite advantages, ZK rollups face significant challenges:
 - **Transaction Fees**: Currently similar to Optimistic rollups.
 
 - **Cost Breakdown**:
-- L1 data posting: 60-80% of cost.
-- Proof generation: 20-30%.
-- Proof verification on L1: 5-10%.
-- Sequencer margin: 5%.
+  - L1 data posting: 60-80% of cost.
+  - Proof generation: 20-30%.
+  - Proof verification on L1: 5-10%.
+  - Sequencer margin: 5%.
 
 ### Rollup Economics
 
 - **Costs**:
-- Prover hardware and electricity.
-- L1 data availability and proof verification.
-- Sequencer infrastructure.
+  - Prover hardware and electricity.
+  - L1 data availability and proof verification.
+  - Sequencer infrastructure.
 
 - **Revenue**:
-- Transaction fees from users.
-- MEV extraction.
-- Protocol tokens.
+  - Transaction fees from users.
+  - MEV extraction.
+  - Protocol tokens.
 
 ZK rollups are more capital-intensive than Optimistic rollups due to proving costs, but improving efficiency and scaling to millions of transactions per batch make them viable.
 

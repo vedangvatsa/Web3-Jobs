@@ -131,22 +131,22 @@ Different risk tolerances lead to different strategies.
 Comparing approaches:
 
 - **Solo Staking ETH**:
-- Earn staking rewards
-- Single slashing risk
-- Simple and straightforward
-- Requires running validator infrastructure
+  - Earn staking rewards
+  - Single slashing risk
+  - Simple and straightforward
+  - Requires running validator infrastructure
 
 - **Staking with Service (Lido)**:
-- Earn staking rewards, split with service
-- Lido manages validator, you receive a liquid staking token
-- Relying on Lido's validator security
-- Easy onboarding
+  - Earn staking rewards, split with service
+  - Lido manages validator, you receive a liquid staking token
+  - Relying on Lido's validator security
+  - Easy onboarding
 
 - **Restaking to AVS**:
-- Earn APY depending on AVS
-- Multiple slashing risks
-- Experiment-stage infrastructure
-- Potential for larger gains but unproven
+  - Earn APY depending on AVS
+  - Multiple slashing risks
+  - Experiment-stage infrastructure
+  - Potential for larger gains but unproven
 
 For risk-averse individuals, solo or service staking makes sense. For sophisticated validators comfortable with risk, restaking offers better returns.
 

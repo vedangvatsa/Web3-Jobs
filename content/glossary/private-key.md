@@ -104,35 +104,35 @@ This explains how losing your device doesn't lose funds, recover the seed phrase
 
 - **Best Practices**:
 
-- **1. Write Down Seed Phrases on Paper** 
-- Use paper or metal (Cryptosteel, Billfodl). 
-- Never screenshots, cloud storage, or text files. 
-- Malware can steal digital copies. 
+  - **1. Write Down Seed Phrases on Paper** 
+  - Use paper or metal (Cryptosteel, Billfodl). 
+  - Never screenshots, cloud storage, or text files. 
+  - Malware can steal digital copies. 
 
-- **2. Multiple Secure Locations** 
-- Store copies in different physical locations. 
-- Safe deposit boxes, home safes. 
-- Protects against fire, theft, or loss. 
+  - **2. Multiple Secure Locations** 
+  - Store copies in different physical locations. 
+  - Safe deposit boxes, home safes. 
+  - Protects against fire, theft, or loss. 
 
-- **3. Test Recovery Process** 
-- Create new wallet, transfer small amount. 
-- Wipe wallet, recover from seed. 
-- Ensures backup works before trusting significant funds. 
+  - **3. Test Recovery Process** 
+  - Create new wallet, transfer small amount. 
+  - Wipe wallet, recover from seed. 
+  - Ensures backup works before trusting significant funds. 
 
-- **4. Hardware Wallets for Large Holdings** 
-- Ledger, Trezor keep private keys on secure hardware. 
-- Never exposed to potentially compromised computers. 
-- Signs transactions internally. 
+  - **4. Hardware Wallets for Large Holdings** 
+  - Ledger, Trezor keep private keys on secure hardware. 
+  - Never exposed to potentially compromised computers. 
+  - Signs transactions internally. 
 
-- **5. Be Cautious About Phishing** 
-- Never enter seed phrases on computers connected to the internet. 
-- Verify hardware wallet purchase directly from manufacturer. 
-- Beware of fake wallet apps. 
+  - **5. Be Cautious About Phishing** 
+  - Never enter seed phrases on computers connected to the internet. 
+  - Verify hardware wallet purchase directly from manufacturer. 
+  - Beware of fake wallet apps. 
 
-- **6. Operational Security** 
-- Don't brag about holdings publicly. 
-- Use different addresses for different purposes. 
-- Consider multi-signature setups for large amounts. 
+  - **6. Operational Security** 
+  - Don't brag about holdings publicly. 
+  - Use different addresses for different purposes. 
+  - Consider multi-signature setups for large amounts. 
 
 ## Common Private Key Compromises
 

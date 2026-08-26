@@ -81,40 +81,40 @@ Several protocols dominate the liquid restaking market:
 - **Overview**: Largest LRT protocol, issues eETH.
 
 - **Key Features**:
-- Non-custodial staking (users maintain control)
-- Decentralized operator network
-- Integrated with multiple DeFi protocols
-- ETHFI token for governance and incentives
+  - Non-custodial staking (users maintain control)
+  - Decentralized operator network
+  - Integrated with multiple DeFi protocols
+  - ETHFI token for governance and incentives
 
 ### Puffer Finance
 
 - **Overview**: Security-focused LRT protocol, issues pufETH.
 
 - **Key Features**:
-- Secure-Signer technology (anti-slashing protection via secure enclaves)
-- Emphasis on decentralization and home stakers
-- Lower capital requirements for validators
-- Native restaking to EigenLayer
+  - Secure-Signer technology (anti-slashing protection via secure enclaves)
+  - Emphasis on decentralization and home stakers
+  - Lower capital requirements for validators
+  - Native restaking to EigenLayer
 
 ### Renzo Protocol
 
 - **Overview**: Fast-growing LRT aggregator, issues ezETH.
 
 - **Key Features**:
-- Multi-AVS exposure through curated strategies
-- Simple UX (deposit and forget)
-- Cross-chain expansion (Arbitrum, Base, Linea, BNB Chain)
-- REZ token for governance
+  - Multi-AVS exposure through curated strategies
+  - Simple UX (deposit and forget)
+  - Cross-chain expansion (Arbitrum, Base, Linea, BNB Chain)
+  - REZ token for governance
 
 ### Kelp DAO
 
 - **Overview**: Community-governed LRT protocol, issues rsETH.
 
 - **Key Features**:
-- DAO-controlled AVS selection and strategy
-- Multi-LST support (stETH, ETHx, sfrxETH)
-- Focus on decentralization and governance
-- Integration with major DeFi platforms
+  - DAO-controlled AVS selection and strategy
+  - Multi-LST support (stETH, ETHx, sfrxETH)
+  - Focus on decentralization and governance
+  - Integration with major DeFi platforms
 
 ## LRT vs LST vs Native Staking
 
@@ -133,21 +133,21 @@ Several protocols dominate the liquid restaking market:
 LRTs enable sophisticated yield stacking strategies:
 
 - **Level 1 - Base Staking**:
-- ETH staked to Beacon Chain through liquid staking protocol
-- Earns base validator rewards
+  - ETH staked to Beacon Chain through liquid staking protocol
+  - Earns base validator rewards
 
 - **Level 2 - Restaking Yields**:
-- LST restaked via EigenLayer to validate AVSs
-- Earns AVS validation rewards
+  - LST restaked via EigenLayer to validate AVSs
+  - Earns AVS validation rewards
 
 - **Level 3 - Protocol Incentives**:
-- LRT protocol issues governance tokens (ETHFI, REZ, PUFFER, KELP)
-- Token incentives to bootstrap liquidity
+  - LRT protocol issues governance tokens (ETHFI, REZ, PUFFER, KELP)
+  - Token incentives to bootstrap liquidity
 
 - **Level 4 - DeFi Yields**:
-- Use LRT as collateral in lending
-- Provide liquidity in DEX pools
-- Deposit in yield aggregators
+  - Use LRT as collateral in lending
+  - Provide liquidity in DEX pools
+  - Deposit in yield aggregators
 
 ## Risks and Considerations
 
@@ -178,16 +178,16 @@ Liquid restaking introduces layered risks:
 LRTs have been integrated across DeFi:
 
 - **Lending Protocols**:
-- **Aave**: Use eETH, ezETH as collateral to borrow stablecoins.
-- **Compound**: Similar collateral use cases.
+  - **Aave**: Use eETH, ezETH as collateral to borrow stablecoins.
+  - **Compound**: Similar collateral use cases.
 
 - **DEX Liquidity**:
-- **Curve**: eETH/ETH, ezETH/ETH pools with high yields.
-- **Uniswap V3**: Concentrated liquidity pools for LRTs.
+  - **Curve**: eETH/ETH, ezETH/ETH pools with high yields.
+  - **Uniswap V3**: Concentrated liquidity pools for LRTs.
 
 - **Yield Aggregators**:
-- **Pendle**: Tokenize future yields of LRTs.
-- **Yearn**: Automated LRT strategies.
+  - **Pendle**: Tokenize future yields of LRTs.
+  - **Yearn**: Automated LRT strategies.
 
 This integration makes LRTs a core primitive of modern DeFi.
 
@@ -207,10 +207,10 @@ The LRT market has competitive dynamics:
 - Fee structures
 
 - **Defensive Moats**:
-- **First-mover**: EtherFi captured early market share.
-- **Integrations**: Protocols deeply integrated into DeFi have network effects.
-- **Reputation**: Security track records build trust.
-- **Liquidity**: Deeper liquidity attracts more users.
+  - **First-mover**: EtherFi captured early market share.
+  - **Integrations**: Protocols deeply integrated into DeFi have network effects.
+  - **Reputation**: Security track records build trust.
+  - **Liquidity**: Deeper liquidity attracts more users.
 
 ## Career Opportunities in Liquid Restaking
 
