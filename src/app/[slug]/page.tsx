@@ -87,7 +87,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const jobSlug = getJobSlug(job);
     const siteUrl = 'https://hashtagweb3.com';
     const canonicalUrl = `${siteUrl}/${jobSlug}`;
-    const title = `${job.title} at ${job.company} — Web3 Job | Hashtag Web3`;
+    const title = `${job.title} at ${job.company}`;
     const description = `Explore the ${job.title} role at ${job.company}. Review responsibilities, qualifications, and apply directly.`;
     const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(`${job.title} at ${job.company}`)}`;
 
