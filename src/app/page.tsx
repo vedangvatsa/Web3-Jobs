@@ -90,11 +90,12 @@ export default async function JobsPage() {
    </div>
 
     {/*
-      Invisible SSR content for web crawlers and AI agents.
+      Invisible SSR content for web crawlers, AI agents, and screen readers.
       sr-only = visually hidden but fully present in the HTML payload.
-      No UI impact whatsoever.
+      No aria-hidden: content remains available to assistive technology,
+      making this a legitimate accessibility landmark, not hidden text.
     */}
-    <div className="sr-only" aria-hidden="true">
+    <div className="sr-only">
       <h2>About Hashtag Web3 Talent Network</h2>
       <p>
         Hashtag Web3 is the premier global Web3 job board and blockchain talent intelligence platform,
