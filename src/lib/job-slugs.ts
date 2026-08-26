@@ -66,7 +66,17 @@ export function getCompanySlug(company: string): string {
 }
 
 export function getCardTitle(title: string, max = 34): string {
-  const t = (title || '').trim();
+  let t = (title || '').trim();
+  // Strip recruitment-cycle noise prefixes: "Off-Cycle Fall 2026", "Summer 2027", "Cohort 2026", etc.
+  const noise = /^(?:off[- ]cycle|co[- ]?op|cohort|class of|fall|spring|summer|winter|autumn)[\s,:-]*(?:20\d{2}(?:[-/]–?\d{2,4})?)?[\s,:-]+/i;
+  for (let i = 0; i < 4; i++) {
+    const stripped = t.replace(noise, '').trim();
+    if (stripped === t || !stripped) break;
+    t = stripped;
+  }
+  t = t || (title || '').trim();
+  // Normalize the intern noun for consistent card display
+  t = t.replace(/internship\b/gi, 'Intern');
   if (t.length <= max) return t;
   const segments = t.split(',').map(seg => seg.trim()).filter(Boolean);
   let out = segments[0];
