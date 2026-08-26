@@ -3,7 +3,7 @@
 import type { Job } from '@/types';
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
-import { getJobSlug } from '@/lib/job-slugs';
+import { getJobSlug, getCardTitle } from '@/lib/job-slugs';
 import { CompanyLogo } from '@/components/company-logo';
 
 export function JobCard({ job, logoUrl, faviconUrl }: { job: Job; logoUrl?: string | null; faviconUrl?: string | null }) {
@@ -19,8 +19,8 @@ export function JobCard({ job, logoUrl, faviconUrl }: { job: Job; logoUrl?: stri
               </div>
             )}
             <div className="min-w-0">
-              <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2" title={job.title}>
-                {job.title}
+              <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors truncate" title={job.title}>
+                {getCardTitle(job.title)}
               </CardTitle>
               <p className="text-xs text-muted-foreground truncate mt-0.5">{job.company}</p>
             </div>
