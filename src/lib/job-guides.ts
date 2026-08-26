@@ -448,7 +448,7 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
     const locationHint = job.slug?.includes('remote') ? 'This is a remote position.' : '';
     rawContent = `<div>
       <h3>About the Role</h3>
-      <p>${job.title} at ${job.company}${sourceLabel}${dateStr ? ` — posted ${dateStr}` : ''}. ${locationHint}</p>
+      <p>${job.title} at ${job.company}${sourceLabel}${dateStr ? ` - posted ${dateStr}` : ''}. ${locationHint}</p>
       <h3>About ${job.company}</h3>
       <p>${job.company} is a leading organisation in the Web3 and blockchain ecosystem, building products and services that advance decentralised technology. This role represents an opportunity to contribute to that mission in a meaningful way.</p>
       <h3>What You Will Do</h3>

@@ -1,5 +1,5 @@
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
- '@/components/ui/button';
+import { Button } from '@/components/ui/button';
 import { Mail, Send, MapPin, Clock, Terminal, Building2 } from 'lucide-react';
 import Link from 'next/link';
 import { PageHeader } from '@/components/page-header';
