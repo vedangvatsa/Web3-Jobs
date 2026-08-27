@@ -52,22 +52,70 @@ export function JobDetailView({
     ...(absoluteLogoUrl && { logo: absoluteLogoUrl }),
   };
 
+  const isDateValid = !Number.isNaN(postedDate.getTime());
+  const datePostedIso = isDateValid ? postedDate.toISOString() : new Date().toISOString();
+  const validThroughDate = new Date(
+    (isDateValid ? postedDate.getTime() : Date.now()) + 60 * 24 * 60 * 60 * 1000
+  ).toISOString();
+
+  const titleLower = job.title.toLowerCase();
+  const deptLower = (job.department || '').toLowerCase();
+  const locLower = (job.location || '').toLowerCase();
+
+  const employmentType = (() => {
+    if (titleLower.includes('intern') || deptLower.includes('intern')) return 'INTERN';
+    if (titleLower.includes('contract') || titleLower.includes('freelance') || deptLower.includes('contract')) return 'CONTRACTOR';
+    if (titleLower.includes('part-time') || titleLower.includes('part time')) return 'PART_TIME';
+    return 'FULL_TIME';
+  })();
+
+  const isRemote =
+    !job.location ||
+    locLower.includes('remote') ||
+    locLower.includes('anywhere') ||
+    locLower.includes('worldwide') ||
+    locLower.includes('global') ||
+    locLower.includes('virtual');
+
+  const applicantLocationName = (() => {
+    if (locLower.includes('us') || locLower.includes('united states') || locLower.includes('usa')) return 'United States';
+    if (locLower.includes('emea') || locLower.includes('europe') || locLower.includes('eu')) return 'Europe';
+    if (locLower.includes('apac') || locLower.includes('asia')) return 'Asia';
+    if (locLower.includes('latam') || locLower.includes('latin america')) return 'Latin America';
+    if (locLower.includes('uk') || locLower.includes('united kingdom')) return 'United Kingdom';
+    if (locLower.includes('canada')) return 'Canada';
+    return 'Worldwide';
+  })();
+
   const jobPostingSchema = {
     '@context': 'https://schema.org',
     '@type': 'JobPosting',
     title: job.title,
     description: contentHtml,
-    ...(job.dateVerified !== false && !Number.isNaN(postedDate.getTime()) && { datePosted: postedDate.toISOString() }),
+    ...(job.dateVerified !== false && isDateValid && { datePosted: datePostedIso }),
+    validThrough: validThroughDate,
+    employmentType,
+    directApply: true,
     hiringOrganization,
-    ...(job.location && {
-      jobLocation: {
-        '@type': 'Place',
-        address: {
-          '@type': 'PostalAddress',
-          addressLocality: job.location,
-        },
-      },
-    }),
+    industry: 'Web3 / Blockchain / Cryptocurrency',
+    ...(job.department && { occupationalCategory: job.department }),
+    ...(isRemote
+      ? {
+          jobLocationType: 'TELECOMMUTE',
+          applicantLocationRequirements: {
+            '@type': 'Country',
+            name: applicantLocationName,
+          },
+        }
+      : {
+          jobLocation: {
+            '@type': 'Place',
+            address: {
+              '@type': 'PostalAddress',
+              addressLocality: job.location,
+            },
+          },
+        }),
     url: canonicalUrl,
   };
 
