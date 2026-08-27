@@ -8,7 +8,7 @@ description: >-
   links to real contributions.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-08-27"
 ---
 
 I have hired juniors for Web3 teams. The ones who got offers had no prior crypto title. They had public proof that they could do the work.

@@ -7,7 +7,7 @@ description: >-
  using tokens to represent access rights, governance privileges, and other.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 The initial phase of the [NFT](/what-are-nfts) boom focused on a straightforward yet impactful concept: tokenizing ownership of digital assets. An NFT served as a deed or title for digital art or collectibles. However, this perspective only scratches the surface of what blockchain technology can offer. The true potential of [blockchain](/what-is-a-blockchain) [tokens](/what-is-a-token) extends beyond ownership to encompass a spectrum of rights and privileges.

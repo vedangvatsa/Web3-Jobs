@@ -7,7 +7,7 @@ description: >-
  lexicon that represent the community's belief in the future of Web3.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 ## Key Takeaways

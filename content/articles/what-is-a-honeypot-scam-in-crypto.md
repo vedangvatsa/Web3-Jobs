@@ -8,7 +8,7 @@ description: >-
  spot.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 In cryptocurrency, a **honeypot** represents a particularly deceptive and harmful type of scam. This scam uses a [smart contract](/what-are-smart-contracts) that creates an illusion of a lucrative opportunity, such as a new [token](/what-is-a-token) with an enticing price increase. However, the code prevents anyone except the scammer from withdrawing funds. This trap targets both naive and greedy users, effectively locking their investments away indefinitely.

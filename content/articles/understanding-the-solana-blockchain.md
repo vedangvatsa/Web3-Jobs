@@ -7,7 +7,7 @@ description: >-
  applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 **Solana (SOL)** represents a high-performance, open-source [Layer 1 blockchain](/what-is-a-layer-1-blockchain) tailored for decentralized applications and enterprise blockchain solutions. Launched in 2020 by the Solana Foundation, it aims to deliver near-instant transaction finality and exceptional scalability for developers.

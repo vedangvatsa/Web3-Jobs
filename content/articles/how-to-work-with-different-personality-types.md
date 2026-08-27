@@ -8,7 +8,7 @@ description: >-
 image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: team diverse personalities
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 You don't need a psychology degree to work well with different people. But you do need to stop assuming everyone thinks the way you do.

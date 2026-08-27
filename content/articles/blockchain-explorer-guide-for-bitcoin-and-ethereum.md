@@ -8,7 +8,7 @@ description: >-
  smart.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 A public [blockchain](/what-is-a-blockchain) serves as a transparent and accessible ledger. Every transaction is recorded and available for anyone to view. To access this information, users rely on a **blockchain explorer**. A blockchain explorer is a web application that enables users to examine blockchain data in a user-friendly format. Think of it as a search engine tailored for blockchain information.

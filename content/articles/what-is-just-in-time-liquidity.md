@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/jit/1200/630'
 data-ai-hint: just in time
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 ## What is Just-In-Time (JIT) Liquidity?

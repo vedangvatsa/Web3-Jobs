@@ -7,7 +7,7 @@ description: >-
  thrill-seeking traders and DeFi power users.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 The [Web3](/what-is-web3) ecosystem features a unique lexicon, and one of the most significant terms you will encounter is "degen." This term is particularly relevant in the fields of [DeFi](/what-is-defi) and [NFT](/what-are-nfts) trading.
