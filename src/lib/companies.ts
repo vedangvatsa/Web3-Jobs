@@ -5,6 +5,7 @@ import { getJobs } from './jobs';
 import fs from 'fs/promises';
 import path from 'path';
 import matter from 'gray-matter';
+import { COMPANY_RICH_ABOUT } from './company-profiles';
 
 interface CompanyContent {
  website?: string;
@@ -232,14 +233,15 @@ export async function getCompanies(): Promise<Company[]> {
    });
  });
  
- // Load enriched content for each company
-  await Promise.all(
-   companies.map(async (company) => {
-    const content = await loadCompanyContent(company.slug);
-    if (content?.website) company.website = content.website;
-    company.description = buildListingDescription(company.name, company.jobs);
-   })
-  );
+  // Load enriched content for each company
+   await Promise.all(
+    companies.map(async (company) => {
+     const content = await loadCompanyContent(company.slug);
+     if (content?.website) company.website = content.website;
+     const rich = COMPANY_RICH_ABOUT[company.slug];
+     company.description = rich ? rich : buildListingDescription(company.name, company.jobs);
+    })
+   );
  
  // Sort by job count (most jobs first)
  companies.sort((a, b) => b.jobCount - a.jobCount);
@@ -306,10 +308,11 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   lastUpdated: latestJobDate.toISOString(),
  };
  
- // Try to load enriched content
- const content = await loadCompanyContent(slug);
- if (content?.website) company.website = content.website;
- company.description = buildListingDescription(company.name, company.jobs);
+  // Try to load enriched content
+  const content = await loadCompanyContent(slug);
+  if (content?.website) company.website = content.website;
+  const rich = COMPANY_RICH_ABOUT[slug];
+  company.description = rich ? rich : buildListingDescription(company.name, company.jobs);
  
  return company;
 }
