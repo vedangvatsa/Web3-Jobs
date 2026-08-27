@@ -7,6 +7,7 @@ import { notFound } from 'next/navigation';
 import type { Organization, BreadcrumbList, WithContext } from 'schema-dts';
 import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 import { OutboundLink } from '@/components/tracking/outbound-link';
+import { JobCard } from '@/components/job-card';
 import { getJobSlug } from '@/lib/job-slugs';
 
 export async function CompanyDetailView({ slug }: { slug: string }) {
@@ -61,39 +62,35 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
       />
       <div className="flex flex-col min-h-screen">
         <main className="flex-grow">
-          <div className="container mx-auto px-4 page-section md:py-12 max-w-6xl">
-            {/* Breadcrumbs */}
-            <nav className="text-sm text-muted-foreground mb-6" aria-label="Breadcrumb">
-              <Link href="/" className="hover:text-primary">Home</Link>
-              {' / '}
-              <Link href="/companies" className="hover:text-primary">Companies</Link>
-              {' / '}
+          <article className="site-container px-4 py-10 sm:py-14">
+            <nav className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground" aria-label="Breadcrumb">
+              <Link href="/" className="hover:text-foreground">Home</Link>
+              <span aria-hidden="true">/</span>
+              <Link href="/companies" className="hover:text-foreground">Companies</Link>
+              <span aria-hidden="true">/</span>
               <span className="text-foreground">{displayName}</span>
             </nav>
 
-            {/* Company Header */}
-            <header className="mb-8 border border-border/60 bg-muted/10 rounded-2xl p-6">
-              <div className="flex flex-col sm:flex-row sm:items-center gap-6">
-                <div className="relative h-20 w-20 flex items-center justify-center p-3 bg-background rounded-2xl shadow-sm border border-border/80 shrink-0">
-                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} />
+            <header className="border-b pb-8">
+              <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
+                <div className="flex h-16 w-16 shrink-0 items-center justify-center">
+                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
                 </div>
-                <div className="flex-1 min-w-0">
-                  <h1 className="text-3xl md:text-4xl font-bold tracking-tight text-foreground">
-                    {displayName} Careers
-                  </h1>
-                  <div className="flex items-center gap-4 text-sm text-muted-foreground mt-3">
-                    <span className="flex items-center gap-1.5 font-medium">
-                      <Briefcase className="h-4 w-4" />
-                      {company.jobCount} Active Role{company.jobCount !== 1 ? 's' : ''}
+                <div className="min-w-0 flex-1">
+                  <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{displayName}</h1>
+                  <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
+                    <span className="flex items-center gap-1.5">
+                      <Briefcase className="h-4 w-4" aria-hidden="true" />
+                      {company.jobCount} role{company.jobCount !== 1 ? 's' : ''}
                     </span>
                     {company.website && (
                       <OutboundLink
                         href={company.website}
                         label={`${displayName} website`}
-                        className="flex items-center gap-1.5 text-primary hover:underline font-medium"
+                        className="flex items-center gap-1.5 hover:text-foreground"
                       >
-                        <ExternalLink className="h-4 w-4" />
-                        Website
+                        <ExternalLink className="h-4 w-4" aria-hidden="true" />
+                        {new URL(company.website).hostname.replace(/^www\./, '')}
                       </OutboundLink>
                     )}
                   </div>
@@ -106,53 +103,15 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
               </div>
             </header>
 
-            {/* Open Roles Header */}
-            <div className="flex items-center justify-between mb-4">
-              <h2 className="text-xl font-bold">Open Roles</h2>
-              <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">
-                {company.jobCount} Job{company.jobCount !== 1 ? 's' : ''} Found
-              </span>
-            </div>
-
-            {/* 2-Column Job Grid */}
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-              {company.jobs.map((job) => (
-                <Link
-                  key={getJobSlug(job)}
-                  href={`/${getJobSlug(job)}`}
-                  aria-label={`View ${job.title} at ${displayName} and apply`}
-                  className="flex items-start gap-3 rounded-lg border p-4 transition-colors hover:bg-muted/40"
-                >
-                  <div className="flex items-start gap-3 flex-1 min-w-0">
-                    <div className="h-10 w-10 rounded-md border border-border/70 bg-background p-1.5 shrink-0 flex items-center justify-center">
-                      <CompanyLogo
-                        logoSrc={logoSrc}
-                        faviconUrl={faviconUrl}
-                        name={displayName}
-                        size="h-full w-full"
-                      />
-                    </div>
-                    <div className="flex-1 min-w-0">
-                      <div className="font-medium text-sm truncate">{job.title}</div>
-                      <div className="flex items-center gap-2 text-xs text-muted-foreground mt-1">
-                        <span>{company.name}</span>
-                        {job.dateVerified !== false && (
-                          <>
-                            <span aria-hidden="true">-</span>
-                            <span>{new Date(job.date).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}</span>
-                          </>
-                        )}
-                      </div>
-                    </div>
-                  </div>
-                  <span className="self-center shrink-0 text-sm font-medium text-primary">
-                    Apply
-                  </span>
-                </Link>
-              ))}
-            </div>
-
-          </div>
+            <section className="mt-10">
+              <h2 className="text-lg font-bold tracking-tight mb-4">Open roles</h2>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                {company.jobs.map((job) => (
+                  <JobCard key={getJobSlug(job)} job={job} logoUrl={logoSrc} faviconUrl={faviconUrl} />
+                ))}
+              </div>
+            </section>
+          </article>
         </main>
       </div>
     </>
