@@ -293,68 +293,77 @@ export async function GET(request: NextRequest) {
 
     // Company template
     if (type === 'company') {
-      return new ImageResponse(
-        (
-          <div
-            style={{
-              ...baseContainerStyle,
-              flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              ...backgroundStyle,
-            }}
-          >
+      try {
+        const safeTitle = (title || 'Hashtag Web3').slice(0, 80);
+        const safeCount = count ? String(count).slice(0, 10) : null;
+        return new ImageResponse(
+          (
             <div
               style={{
-                ...baseCardStyle,
-                maxWidth: '980px',
-                width: '88%',
+                ...baseContainerStyle,
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'center',
+                ...backgroundStyle,
               }}
             >
-              <h1
+              <div
                 style={{
-                  fontSize: '64px',
-                  fontWeight: 'bold',
-                  color: '#38bdf8',
-                  marginBottom: '20px',
-                  textAlign: 'center',
-                  letterSpacing: '-0.5px',
+                  ...baseCardStyle,
+                  maxWidth: '980px',
+                  width: '88%',
                 }}
               >
-                {title}
-              </h1>
-              {count && (
-                <div
+                <h1
                   style={{
-                    fontSize: '36px',
-                    color: '#ffffff',
-                    marginBottom: '16px',
+                    fontSize: safeTitle.length > 24 ? '54px' : '64px',
+                    fontWeight: 'bold',
+                    color: '#38bdf8',
+                    marginBottom: '20px',
+                    textAlign: 'center',
+                    letterSpacing: '-0.5px',
+                    lineHeight: 1.1,
                   }}
                 >
-                  {count} Open Positions
-                </div>
-              )}
-              <p
-                style={{
-                  fontSize: '26px',
-                  color: '#a1a1aa',
-                  textAlign: 'center',
-                  margin: 0,
-                }}
-              >
-                Explore Web3 Careers • {date}
-              </p>
+                  {safeTitle}
+                </h1>
+                {safeCount && (
+                  <div
+                    style={{
+                      fontSize: '36px',
+                      color: '#ffffff',
+                      marginBottom: '16px',
+                      textAlign: 'center',
+                    }}
+                  >
+                    {safeCount} Open Positions
+                  </div>
+                )}
+                <p
+                  style={{
+                    fontSize: '26px',
+                    color: '#a1a1aa',
+                    textAlign: 'center',
+                    margin: 0,
+                  }}
+                >
+                  Explore Web3 Careers • {date}
+                </p>
+              </div>
             </div>
-          </div>
-        ),
-        {
-          width: 1200,
-          height: 630,
-          headers: {
-            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
-          },
-        }
-      );
+          ),
+          {
+            width: 1200,
+            height: 630,
+            headers: {
+              'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+            },
+          }
+        );
+      } catch (err: any) {
+        console.error('Company OG failed, falling back to default:', err?.message);
+        // Fall through to default fallback below
+      }
     }
 
     // Default fallback
