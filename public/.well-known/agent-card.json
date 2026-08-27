@@ -11,6 +11,7 @@
   "endpoints": {
     "openapi": "https://hashtagweb3.com/openapi.json",
     "mcp": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+    "sandbox": "https://hashtagweb3.com/api/sandbox",
     "nlweb": "https://hashtagweb3.com/ask",
     "auth": "https://hashtagweb3.com/auth.md",
     "skills": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
