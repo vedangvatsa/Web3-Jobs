@@ -16,6 +16,15 @@ Hashtagweb3.com supports both unauthenticated (public) and authenticated agent a
 - `GET /api/events` — Upcoming Web3 events
 - `GET /api/glossary` — Web3 glossary terms
 
+**Sandbox & Test Mode** (zero-auth, mock data):
+- `GET /api/sandbox` — Sandbox descriptor & capabilities
+- `GET /api/sandbox/jobs` — Mock job listings for test verification
+- `GET /api/sandbox/glossary` — Mock glossary terms
+- `GET /api/sandbox/news` — Mock crypto news
+- `GET /api/sandbox/events` — Mock crypto events
+- `POST /api/sandbox/auth/register` — Instant self-serve test API key generation
+- `POST /api/sandbox/echo` — Echo test probe
+
 **Auth metadata endpoints:**
 - `GET /.well-known/oauth-protected-resource` — RFC 9728 protected resource descriptor
 - `GET /.well-known/oauth-authorization-server` — RFC 8414 authorization server metadata
