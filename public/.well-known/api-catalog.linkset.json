@@ -32,6 +32,11 @@
           "href": "https://hashtagweb3.com/api/v1/glossary",
           "type": "application/json",
           "title": "Blockchain Glossary API"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/sandbox",
+          "type": "application/json",
+          "title": "Hashtag Web3 Zero-Auth Sandbox & Testing Environment"
         }
       ],
       "service-desc": [

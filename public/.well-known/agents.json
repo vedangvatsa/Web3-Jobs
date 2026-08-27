@@ -127,9 +127,29 @@
     "description": "Connect AI agents via Model Context Protocol streamable-http transport to search jobs, glossary terms, events, and news."
   },
 
+  "onboarding": {
+    "zero_auth_access": true,
+    "free_tier": true,
+    "self_serve_registration": "https://hashtagweb3.com/api/auth/register",
+    "sandbox_registration": "https://hashtagweb3.com/api/sandbox/auth/register",
+    "contact_sales_required": false
+  },
+  "sandbox": {
+    "available": true,
+    "url": "https://hashtagweb3.com/api/sandbox",
+    "description": "Zero-auth testing and mock data environment for autonomous agents",
+    "endpoints": {
+      "jobs": "https://hashtagweb3.com/api/sandbox/jobs",
+      "glossary": "https://hashtagweb3.com/api/sandbox/glossary",
+      "news": "https://hashtagweb3.com/api/sandbox/news",
+      "events": "https://hashtagweb3.com/api/sandbox/events",
+      "echo": "https://hashtagweb3.com/api/sandbox/echo"
+    }
+  },
   "content_resources": {
     "openapi_json": "https://hashtagweb3.com/openapi.json",
     "openapi_yaml": "https://hashtagweb3.com/api/openapi.yaml",
+    "sandbox": "https://hashtagweb3.com/api/sandbox",
     "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
     "developers_portal": "https://hashtagweb3.com/developers",
     "llms_txt": "https://hashtagweb3.com/llms.txt",
