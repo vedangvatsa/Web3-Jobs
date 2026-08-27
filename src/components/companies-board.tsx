@@ -1,14 +1,14 @@
 'use client';
 
-import { useState, useMemo } from 'react';
-import Link from 'next/link';
+import { useState, useMemo, useRef, useEffect } from 'react';
 import { Search } from 'lucide-react';
 import { Input } from '@/components/ui/input';
-import { Card, CardContent } from '@/components/ui/card';
-import { Badge } from '@/components/ui/badge';
-import { CompanyLogo } from '@/components/company-logo';
+import { CompanyCard } from '@/components/company-card';
 import type { Company } from '@/types';
 import type { CompanyLogoMap } from '@/lib/job-listing';
+
+const INITIAL_COUNT = 48;
+const LOAD_MORE_COUNT = 30;
 
 interface CompaniesBoardProps {
   initialCompanies: Company[];
@@ -17,6 +17,8 @@ interface CompaniesBoardProps {
 
 export function CompaniesBoard({ initialCompanies, companyLogos = {} }: CompaniesBoardProps) {
   const [searchQuery, setSearchQuery] = useState('');
+  const [visibleCount, setVisibleCount] = useState(INITIAL_COUNT);
+  const sentinelRef = useRef<HTMLDivElement>(null);
 
   const filtered = useMemo(() => {
     if (!searchQuery.trim()) return initialCompanies;
@@ -29,65 +31,82 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
     );
   }, [initialCompanies, searchQuery]);
 
+  const visibleCompanies = useMemo(() => {
+    return filtered.slice(0, visibleCount);
+  }, [filtered, visibleCount]);
+
+  const hasMore = visibleCount < filtered.length;
+
+  useEffect(() => {
+    const sentinel = sentinelRef.current;
+    if (!sentinel) return;
+
+    const observer = new IntersectionObserver(
+      (entries) => {
+        if (entries[0]?.isIntersecting && hasMore) {
+          setVisibleCount((prev) => Math.min(prev + LOAD_MORE_COUNT, filtered.length));
+        }
+      },
+      { rootMargin: '200px' }
+    );
+
+    observer.observe(sentinel);
+    return () => observer.disconnect();
+  }, [hasMore, filtered.length]);
+
   return (
-    <div className="space-y-8">
-      {/* Shared filter bar — same pattern as JobBoard / EventsBoard */}
-      <div className="p-4 sm:p-5 rounded-2xl border bg-card/60 backdrop-blur-sm shadow-sm space-y-4">
+    <div>
+      {/* Search Bar - identical to JobBoard & EventsBoard */}
+      <div className="mb-6">
         <div className="relative">
-          <Search className="absolute left-3.5 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" />
           <Input
             placeholder="Search companies"
             value={searchQuery}
-            onChange={(e) => setSearchQuery(e.target.value)}
-            className="pl-9 h-10 rounded-xl text-sm bg-background border-border/80 w-full"
+            onChange={(e) => {
+              setSearchQuery(e.target.value);
+              setVisibleCount(INITIAL_COUNT);
+            }}
+            className="h-11 w-full rounded-md pl-10 pr-10 text-base"
             aria-label="Search companies"
           />
+          <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
         </div>
-        <div className="flex items-center justify-between text-xs text-muted-foreground border-t border-border/50 pt-3">
-          <span>
-            Showing <strong className="text-foreground font-semibold">{filtered.length}</strong> companies
-          </span>
-          <span className="hidden sm:inline">Browse all {initialCompanies.length} hiring now</span>
-        </div>
+        {searchQuery && (
+          <p className="mt-2 text-sm text-muted-foreground" aria-live="polite">
+            {filtered.length} result{filtered.length === 1 ? '' : 's'}
+          </p>
+        )}
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-        {filtered.map((company) => {
+      {/* Companies Grid - identical to JobBoard & EventsBoard */}
+      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+        {visibleCompanies.map((company) => {
           const logo = companyLogos[company.slug];
-          const logoSrc = logo?.logo ?? null;
-          const faviconUrl = logo?.favicon ?? null;
           return (
-            <Link key={company.slug} href={`/${company.slug}`}>
-              <Card className="group hover:border-primary transition-all h-full bg-muted/20">
-                <CardContent className="p-5">
-                  <div className="flex items-start justify-between gap-2 mb-3">
-                    <div className="flex items-center gap-3 min-w-0">
-                      <div className="h-8 w-8 flex items-center justify-center p-1 bg-background rounded-lg border shrink-0 overflow-hidden">
-                        <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={company.name} size="h-5 max-w-5" />
-                      </div>
-                      <h3 className="font-semibold group-hover:text-foreground transition-colors line-clamp-1">
-                        {company.name}
-                      </h3>
-                    </div>
-                    <Badge variant="default" className="shrink-0 text-xs">
-                      {company.jobCount} jobs
-                    </Badge>
-                  </div>
-                  {company.description && (
-                    <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
-                      {company.description}
-                    </p>
-                  )}
-                </CardContent>
-              </Card>
-            </Link>
+            <CompanyCard
+              key={company.slug}
+              company={company}
+              logoUrl={logo?.logo}
+              faviconUrl={logo?.favicon}
+            />
           );
         })}
       </div>
 
+      {/* Infinite scroll sentinel */}
+      {hasMore && (
+        <div ref={sentinelRef} className="flex justify-center py-8" aria-hidden="true">
+          <div className="flex items-center gap-2 text-sm text-muted-foreground">
+            <div className="h-4 w-4 border-2 border-muted-foreground/30 border-t-primary rounded-full animate-spin" />
+            Loading more companies...
+          </div>
+        </div>
+      )}
+
       {filtered.length === 0 && (
-        <div className="text-center py-16 px-4 border-2 border-dashed border-border/80 rounded-2xl max-w-lg mx-auto">
-          <p className="text-sm text-muted-foreground">No companies found for “{searchQuery}”.</p>
+        <div className="py-16 text-center">
+          <h2 className="text-lg font-semibold">No companies found</h2>
+          <p className="mt-1 text-sm text-muted-foreground">Try a different company name.</p>
         </div>
       )}
     </div>
