@@ -1,21 +1,39 @@
 import { cn } from '@/lib/utils';
 
 export function ArticleContent({ content, className }: { content: string; className?: string }) {
- return (
-  <div
-   className={cn("article-prose","prose prose-lg dark:prose-invert max-w-none",
-    // Headings: sans font, tight tracking, strong weight"prose-headings:font-headline prose-headings:tracking-tight prose-headings:text-zinc-900 dark:prose-headings:text-zinc-50","prose-h2:text-2xl prose-h2:sm:text-3xl prose-h2:font-bold prose-h2:mt-10 prose-h2:mb-5","prose-h3:text-xl prose-h3:sm:text-2xl prose-h3:font-bold prose-h3:mt-8 prose-h3:mb-4","prose-h4:text-lg prose-h4:font-bold prose-h4:mt-6 prose-h4:mb-3",
-    // Body: clean, readable, generous line height"prose-p:text-[15px] prose-p:sm:text-base prose-p:text-zinc-600 dark:prose-p:text-zinc-400 prose-p:leading-[1.85] prose-p:mb-5",
-    // Links: subtle underline with transition"prose-a:text-zinc-900 dark:prose-a:text-zinc-100 prose-a:underline prose-a:underline-offset-2 prose-a:decoration-zinc-300 dark:prose-a:decoration-zinc-600 hover:prose-a:decoration-indigo-400 prose-a:transition-colors prose-a:no-underline",
-    // Lists: clean spacing"prose-li:text-[15px] prose-li:sm:text-base prose-li:text-zinc-600 dark:prose-li:text-zinc-400 prose-li:leading-[1.85] prose-li:mb-1","prose-ul:my-5 prose-ol:my-5",
-    // Strong/bold"prose-strong:text-zinc-900 dark:prose-strong:text-zinc-100 prose-strong:font-semibold",
-    // Code"prose-code:text-sm prose-code:bg-zinc-100 dark:prose-code:bg-zinc-800/60 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md prose-code:font-normal","prose-pre:bg-zinc-950 dark:prose-pre:bg-zinc-900/60 prose-pre:border prose-pre:border-zinc-200 dark:prose-pre:border-zinc-800/40 prose-pre:rounded-lg",
-    // Blockquote: elegant left-border callout"prose-blockquote:border-l-2 prose-blockquote:border-zinc-900 dark:prose-blockquote:border-zinc-100 prose-blockquote:pl-6 prose-blockquote:py-2 prose-blockquote:my-6 prose-blockquote:not-italic","prose-blockquote:text-lg prose-blockquote:sm:text-xl prose-blockquote:text-zinc-800 dark:prose-blockquote:text-zinc-200 prose-blockquote:leading-relaxed",
-    // Images"prose-img:rounded-lg prose-img:shadow-sm prose-img:border prose-img:border-zinc-200 dark:prose-img:border-zinc-800/40",
-    // HR"prose-hr:border-zinc-200 dark:prose-hr:border-zinc-800/50 prose-hr:my-8",
-    className
-   )}
-   dangerouslySetInnerHTML={{ __html: content }}
-  />
- );
+  return (
+    <div
+      className={cn(
+        "article-prose",
+        "prose prose-lg dark:prose-invert max-w-none",
+        // Headings
+        "prose-headings:font-bold prose-headings:tracking-tight prose-headings:text-foreground",
+        "prose-h2:text-2xl prose-h2:sm:text-3xl prose-h2:mt-10 prose-h2:mb-4",
+        "prose-h3:text-xl prose-h3:sm:text-2xl prose-h3:mt-8 prose-h3:mb-3",
+        "prose-h4:text-lg prose-h4:font-semibold prose-h4:mt-6 prose-h4:mb-2",
+        // Paragraphs & Body
+        "prose-p:text-base prose-p:text-muted-foreground prose-p:leading-relaxed prose-p:mb-5",
+        // Links
+        "prose-a:text-foreground prose-a:font-medium prose-a:underline hover:prose-a:text-primary prose-a:transition-colors",
+        // Lists
+        "prose-li:text-base prose-li:text-muted-foreground prose-li:leading-relaxed prose-li:mb-1.5",
+        "prose-ul:my-5 prose-ol:my-5",
+        // Strong
+        "prose-strong:text-foreground prose-strong:font-semibold",
+        // Code
+        "prose-code:text-sm prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md prose-code:font-mono prose-code:text-foreground",
+        "prose-pre:bg-muted/60 prose-pre:border prose-pre:border-border/70 prose-pre:rounded-lg",
+        // Blockquote
+        "prose-blockquote:border-l-2 prose-blockquote:border-primary prose-blockquote:pl-5 prose-blockquote:py-1 prose-blockquote:my-6 prose-blockquote:italic prose-blockquote:text-muted-foreground",
+        // Tables
+        "[&_table]:w-full [&_table]:border-collapse [&_th]:text-left [&_th]:p-3 [&_th]:border-b [&_th]:border-border [&_th]:font-semibold [&_th]:text-foreground [&_td]:p-3 [&_td]:border-b [&_td]:border-border/60 [&_td]:text-muted-foreground",
+        // Images & Media
+        "prose-img:rounded-xl prose-img:border prose-img:border-border/70 prose-img:my-8",
+        // HR
+        "prose-hr:border-border/70 prose-hr:my-10",
+        className
+      )}
+      dangerouslySetInnerHTML={{ __html: content }}
+    />
+  );
 }

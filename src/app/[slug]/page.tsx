@@ -20,6 +20,8 @@ import { addInternalLinksToContent, generateDefinedTermSchema, generateGlossaryM
 import { GlossaryViewTracker } from '@/components/tracking/glossary-view-tracker';
 import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
+import { PageShell } from "@/components/page-shell";
+import { CtaBanner } from "@/components/cta-banner";
 import { getEventSlug, getEventFormat, getEventEcosystems, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { JsonLd } from '@/components/json-ld';
@@ -742,66 +744,86 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  };
 
  return (
-  <div className="flex flex-col min-h-screen bg-background">
-   <ArticleViewTracker slug={article.slug} title={article.title} category={article.category} />
-   <JsonLd data={articleSchema} />
-   <JsonLd data={breadcrumbSchema} />
-   {faqSchema && (
-    <JsonLd data={faqSchema} />
-   )}
-   {howToSchema && (
-    <JsonLd data={howToSchema} />
-   )}
+    <div className="flex flex-col min-h-screen bg-background">
+      <ArticleViewTracker slug={article.slug} title={article.title} category={article.category} />
+      <JsonLd data={articleSchema} />
+      <JsonLd data={breadcrumbSchema} />
+      {faqSchema && <JsonLd data={faqSchema} />}
+      {howToSchema && <JsonLd data={howToSchema} />}
       <main className="flex-1">
-    <div className="bg-[#fafafa] dark:bg-black transition-colors duration-200">
-      <article className="site-container px-6 page-section">
-       <div>
-         <Suspense fallback={<div>Loading...</div>}>
-          <header className="mb-12">
-           {(article.lastUpdated || article.publishedDate) && (
-            <p className="text-[11px] font-semibold text-zinc-400 uppercase tracking-[0.2em] mb-6">
-             Hashtag Web3 / Updated{' '}
-             <time dateTime={article.lastUpdated || article.publishedDate}>
-              {new Date(article.lastUpdated || article.publishedDate!).toLocaleDateString('en-US', { year: 'numeric', month: 'long', day: 'numeric' })}
-             </time>
-            </p>
-           )}
-           <PageHeader title={article.title} />
-           <p className="text-[17px] text-zinc-500 dark:text-zinc-400 leading-[1.8] max-w-3xl">
-            {article.description}
-           </p>
-          </header>
-          
-          {article.image && (
-           <div
-            className={cn("relative w-full md:max-w-6xl overflow-hidden rounded-lg shadow-sm mb-8","aspect-[16/9] max-h-[280px] sm:max-h-[320px] md:max-h-[360px]"
-            )}
-           >
-            <Image
-             src={article.image}
-             alt={`${article.title} - Hashtag Web3 article cover`}
-             fill
-             className="object-cover"
-             sizes="(max-width: 768px) 100vw, (max-width: 1200px) 900px, 1024px"
-             priority
-             data-ai-hint={`${article['data-ai-hint'] || ''}`}
+        <PageShell>
+          <article className="max-w-3xl mx-auto">
+            <Suspense fallback={<div className="py-12 text-center text-muted-foreground">Loading article...</div>}>
+              {/* Header: Symmetrically centered metadata, title, and subtitle */}
+              <header className="text-center mb-10">
+                {(article.lastUpdated || article.publishedDate) && (
+                  <div className="inline-flex items-center justify-center gap-2 text-xs font-semibold text-muted-foreground uppercase tracking-widest mb-4">
+                    {article.category && (
+                      <>
+                        <span className="text-primary font-bold">{article.category}</span>
+                        <span aria-hidden="true">•</span>
+                      </>
+                    )}
+                    <span>Updated</span>
+                    <time dateTime={article.lastUpdated || article.publishedDate}>
+                      {new Date(article.lastUpdated || article.publishedDate!).toLocaleDateString('en-US', {
+                        year: 'numeric',
+                        month: 'long',
+                        day: 'numeric',
+                      })}
+                    </time>
+                  </div>
+                )}
+
+                <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2] mb-4">
+                  {article.title}
+                </h1>
+
+                {article.description && (
+                  <p className="text-base sm:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto mt-3">
+                    {article.description}
+                  </p>
+                )}
+              </header>
+
+              {/* Featured Image */}
+              {article.image && (
+                <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-10">
+                  <Image
+                    src={article.image}
+                    alt={`${article.title} - Hashtag Web3 article cover`}
+                    fill
+                    className="object-cover"
+                    sizes="(max-width: 768px) 100vw, (max-width: 1200px) 800px, 900px"
+                    priority
+                    data-ai-hint={`${article['data-ai-hint'] || ''}`}
+                  />
+                </div>
+              )}
+
+              {/* Prose Content */}
+              <ArticleContent content={article.content} className="mb-12" />
+
+              {/* In-article CTA */}
+              <CtaBanner
+                variant="jobs"
+                title="Looking for a Web3 Job?"
+                description="Explore thousands of verified blockchain, DeFi, and crypto roles on the #1 Web3 job board."
+                className="my-12"
+              />
+            </Suspense>
+          </article>
+
+          {/* Related Articles with symmetrical grid */}
+          <Suspense fallback={null}>
+            <RelatedArticles
+              allArticles={allArticles}
+              currentCategory={article.category}
+              currentSlug={article.slug}
             />
-           </div>
-          )}
-          
-          <ArticleContent content={article.content} className="mb-12" />
-         </Suspense>
-       </div>
-      </article>
-            <Suspense fallback={null}>
-        <RelatedArticles
-         allArticles={allArticles}
-         currentCategory={article.category}
-         currentSlug={article.slug}
-        />
-       </Suspense>
+          </Suspense>
+        </PageShell>
+      </main>
     </div>
-   </main>
-  </div>
- );
+  );
 }
