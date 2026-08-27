@@ -14,6 +14,7 @@ const KNOWN_STATIC_PATHS = new Set([
   '/developers',
   '/docs',
   '/api-docs',
+  '/api-policy',
   '/glossary',
   '/learn',
   '/auth',

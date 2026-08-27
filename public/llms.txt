@@ -101,7 +101,7 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 MCP Alternative Endpoint](https://hashtagweb3.com/api/mcp): Hashtag Web3 MCP server alias for tool calling.
 - [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Hashtag Web3 coding agent instructions.
 - [Hashtag Web3 Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Hashtag Web3 public GitHub repository.
-- [Hashtag Web3 API Versioning & Deprecation Policy](https://hashtagweb3.com/developers): Hashtag Web3 current API version 1.0.0. Deprecation signaled via `Deprecation` and `Sunset` headers on every /api/* endpoint; sunset date 2026-12-31 for v1 paths.
+- [Hashtag Web3 API Versioning & Deprecation Policy](https://hashtagweb3.com/api-policy): Hashtag Web3 official API versioning strategy, RFC 8594 Sunset/Deprecation headers, and 12-month advance notice guarantee.
 
 ## Official CLI Tool & SDKs
 
