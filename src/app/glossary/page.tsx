@@ -62,8 +62,41 @@ export default async function GlossaryPage({
  const alphabet = 'ABCDEFGHIJKLMNOPQRSTUVWXYZ'.split('');
  const availableLetters = Object.keys(termsByLetter).sort();
 
+ const siteUrl = 'https://hashtagweb3.com';
+ const glossaryPageSchema = {
+  '@context': 'https://schema.org',
+  '@type': 'CollectionPage',
+  '@id': `${siteUrl}/glossary#page`,
+  url: `${siteUrl}/glossary`,
+  name: 'Web3 Glossary | Hashtag Web3',
+  description: 'Complete guide to Web3, blockchain, DeFi, NFT, and crypto terminology with plain-language explanations.',
+  isPartOf: {
+   '@type': 'WebSite',
+   url: siteUrl,
+   name: 'Hashtag Web3',
+  },
+  about: {
+   '@type': 'DefinedTermSet',
+   '@id': `${siteUrl}/glossary#termset`,
+   name: 'Web3 Glossary',
+   description: 'Comprehensive taxonomy of blockchain, DeFi, and cryptocurrency terms',
+   url: `${siteUrl}/glossary`,
+  },
+  breadcrumb: {
+   '@type': 'BreadcrumbList',
+   itemListElement: [
+    { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+    { '@type': 'ListItem', position: 2, name: 'Glossary', item: `${siteUrl}/glossary` },
+   ],
+  },
+ };
+
  return (
   <div className="flex flex-col min-h-screen">
+   <script
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{ __html: JSON.stringify(glossaryPageSchema) }}
+   />
       <main className="flex-grow">
     {/* Hero Section */}
     <section className="border-b">

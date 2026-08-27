@@ -32,43 +32,55 @@ export default async function EventsPage() {
 
   const siteUrl = 'https://hashtagweb3.com';
 
-  const pageSchema: WebPage = {
-    '@type': 'WebPage',
-    url: `${siteUrl}/events`,
-    name: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
-    isPartOf: {
-      '@type': 'WebSite',
-      url: siteUrl,
-      name: 'Hashtag Web3'
-    },
-    description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups.',
+  const structuredData = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebPage',
+        '@id': `${siteUrl}/events#page`,
+        url: `${siteUrl}/events`,
+        name: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
+        isPartOf: {
+          '@type': 'WebSite',
+          url: siteUrl,
+          name: 'Hashtag Web3',
+        },
+        description: 'Discover the top Web3 events, crypto conferences, blockchain summits, and virtual meetups.',
+      },
+      {
+        '@type': 'ItemList',
+        name: 'Upcoming Web3 Conferences & Events',
+        numberOfItems: events.length,
+        itemListElement: events.slice(0, 25).map((event: Web3Event, index: number) => ({
+          '@type': 'ListItem',
+          position: index + 1,
+          item: {
+            '@type': 'Event',
+            name: event.name,
+            description: event.description,
+            startDate: event.startDate,
+            endDate: event.endDate,
+            eventAttendanceMode: event.location.includes('Virtual')
+              ? 'https://schema.org/OnlineEventAttendanceMode'
+              : 'https://schema.org/OfflineEventAttendanceMode',
+            eventStatus: 'https://schema.org/EventScheduled',
+            location: {
+              '@type': event.location.includes('Virtual') ? 'VirtualLocation' : 'Place',
+              name: event.location,
+              ...(event.url ? { url: event.url } : {}),
+            },
+            url: event.url || `${siteUrl}/events`,
+          },
+        })),
+      },
+    ],
   };
-
-  const eventsSchema: Event[] = events.slice(0, 20).map((event: Web3Event) => ({
-    '@type': 'Event',
-    name: event.name,
-    description: event.description,
-    startDate: event.startDate,
-    endDate: event.endDate,
-    eventAttendanceMode: event.location.includes('Virtual') ? 'https://schema.org/OnlineEventAttendanceMode' : 'https://schema.org/OfflineEventAttendanceMode',
-    eventStatus: 'https://schema.org/EventScheduled',
-    location: {
-      '@type': event.location.includes('Virtual') ? 'VirtualLocation' : 'Place',
-      name: event.location,
-      ...(event.url ? { url: event.url } : {})
-    },
-    url: event.url,
-  }));
 
   return (
     <>
       <script
         type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
-      />
-      <script
-        type="application/ld+json"
-        dangerouslySetInnerHTML={{ __html: JSON.stringify(eventsSchema) }}
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData) }}
       />
       <div className="flex flex-col min-h-screen">
                 <main className="flex-1">

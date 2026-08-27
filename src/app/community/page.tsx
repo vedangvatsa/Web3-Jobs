@@ -3,7 +3,7 @@ import { getJobs } from '@/lib/jobs';
 import { getNewsFeed } from '@/lib/news';
 import { CommunityPageContent } from '@/components/community-page-content';
 import { Metadata } from 'next';
-import type { WebPage } from 'schema-dts';
+import type { WebPage, WithContext } from 'schema-dts';
 import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 43200; // Revalidate every 12 hours
@@ -40,7 +40,8 @@ export default async function Page() {
   const latestNews = (await getNewsFeed()).slice(0, 10);
   
   const siteUrl = 'https://hashtagweb3.com';
-  const pageSchema: WebPage = {
+  const pageSchema: WithContext<WebPage> = {
+    '@context': 'https://schema.org',
     '@type': 'WebPage',
     url: `${siteUrl}/community`,
     name: 'Web3 Community | Hashtag Web3',
