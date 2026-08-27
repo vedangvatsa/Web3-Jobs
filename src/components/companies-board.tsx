@@ -24,7 +24,7 @@ export function CompaniesBoard({ initialCompanies, companyLogos = {} }: Companie
     return initialCompanies.filter(
       (c) =>
         c.name.toLowerCase().includes(q) ||
-        c.description.toLowerCase().includes(q) ||
+        (c.description?.toLowerCase() || '').includes(q) ||
         c.slug.toLowerCase().includes(q)
     );
   }, [initialCompanies, searchQuery]);
