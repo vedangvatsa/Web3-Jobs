@@ -182,6 +182,26 @@ export function getEventDatePill(startDate: string): { month: string; day: strin
   };
 }
 
+export function getEventCity(event: Web3Event): string {
+  if (event.city && event.city.trim()) {
+    const c = event.city.split(',')[0].trim();
+    if (c) return c;
+  }
+  const loc = event.location || '';
+  if (!loc || loc.toLowerCase().includes('virtual') || loc.toLowerCase().includes('online') || loc.toLowerCase().includes('tba')) {
+    return 'Online';
+  }
+  const parts = loc.split(',').map(p => p.trim()).filter(Boolean);
+  if (parts.length === 1) return parts[0];
+  if (parts.length === 2) {
+    return parts[0];
+  }
+  if (parts.length >= 3) {
+    return parts[parts.length - 2];
+  }
+  return loc;
+}
+
 export function getRelativeBadge(startDate: string): string | null {
   const now = new Date();
   const start = new Date(startDate);
