@@ -1,11 +1,11 @@
 import { getCompanies } from '@/lib/companies';
-import { Card, CardContent } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { BarChart3 } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
-import { CompanyLogo } from '@/components/company-logo';
+import { PageShell } from '@/components/page-shell';
+import { CompaniesBoard } from '@/components/companies-board';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 
 export const metadata: Metadata = {
@@ -32,117 +32,92 @@ export const metadata: Metadata = {
 export const revalidate = 3600;
 
 export default async function CompaniesPage() {
- const companies = await getCompanies();
- const totalJobs = companies.reduce((sum, company) => sum + company.jobCount, 0);
- const topCompanies = companies.slice(0, 10);
+  const companies = await getCompanies();
+  const totalJobs = companies.reduce((sum, company) => sum + company.jobCount, 0);
+  const topCompanies = companies.slice(0, 10);
 
- 
- // Find max job count for bar chart scaling
- const maxJobCount = topCompanies[0]?.jobCount || 1;
+  // Build logo map server-side (shared pattern with homepage JobBoard)
+  const companyLogos: Record<string, { logo: string | null; favicon: string | null }> = {};
+  for (const c of companies) {
+    companyLogos[c.slug] = {
+      logo: resolveCompanyLogo(c.slug),
+      favicon: getCompanyFaviconUrl(c.website),
+    };
+  }
 
- return (
-  <div className="flex flex-col min-h-screen">
-      <main className="flex-grow">
-    <section className="border-b bg-muted/10">
-     <div className="container mx-auto px-4 page-section max-w-6xl text-center">
-      <PageHeader title="Web3 Companies Hiring Now" />
-      <p className="text-lg md:text-xl text-muted-foreground mb-10 leading-relaxed site-container">
-       Browse {companies.length} companies with {totalJobs} open roles across exchanges, DeFi, infrastructure, and more.
-      </p>
-      
-      <div className="flex flex-wrap items-center justify-center gap-8 md:gap-16 text-center">
-       <div className="flex flex-col">
-        <span className="text-4xl font-bold text-foreground mb-1">{companies.length}</span>
-        <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Companies</span>
-       </div>
-       <div className="hidden md:block h-16 w-px bg-border" />
-       <div className="flex flex-col">
-        <span className="text-4xl font-bold text-foreground mb-1">{totalJobs}</span>
-        <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Open Roles</span>
-       </div>
-      </div>
-     </div>
-    </section>
+  // Find max job count for bar chart scaling
+  const maxJobCount = topCompanies[0]?.jobCount || 1;
 
-    {/* Top Hiring - Horizontal Bar Chart */}
-    <section className="bg-muted/30 border-y">
-     <div className="container mx-auto px-4 page-section max-w-6xl">
-      <div className="mb-8">
-       <h2 className="text-3xl font-bold mb-2 flex items-center gap-2">
-        <BarChart3 className="h-7 w-7 text-primary" />
-        Top companies hiring right now
-       </h2>
-       <p className="text-muted-foreground">Companies with the most active job openings</p>
-      </div>
-      
-      {/* Horizontal bar chart */}
-      <div className="grid md:grid-cols-2 gap-x-8 gap-y-3">
-       {topCompanies.map((company, index) => (
-        <Link key={company.slug} href={`/${company.slug}`} className="group">
-         <div className="flex items-center gap-3">
-          <span className="text-sm font-medium text-muted-foreground w-5 text-right shrink-0">
-           {index + 1}
-          </span>
-          <div className="flex-1 min-w-0">
-           <div className="flex justify-between items-baseline mb-1">
-            <span className="font-medium text-sm group-hover:text-primary transition-colors truncate">
-             {company.name}
-            </span>
-            <span className="text-xs text-muted-foreground ml-2 shrink-0">
-             {company.jobCount}
-            </span>
+  return (
+   <div className="flex flex-col min-h-screen">
+     <main className="flex-1">
+       <PageShell>
+         <section className="text-center mb-8">
+           <div className="site-container">
+             <PageHeader
+               title="Web3 Companies Hiring Now"
+               description={`Browse ${companies.length} companies with ${totalJobs} open roles across exchanges, DeFi, infrastructure, and more.`}
+             />
            </div>
-           <div className="h-2 bg-muted rounded-full overflow-hidden">
-            <div 
-             className="h-full bg-primary/80 rounded-full transition-all group-hover:bg-primary"
-             style={{ width: `${Math.max((company.jobCount / maxJobCount) * 100, 4)}%` }}
-            />
-           </div>
-          </div>
-         </div>
-        </Link>
-       ))}
-      </div>
-     </div>
-    </section>
-
-    {/* Company Cards */}
-    <section className="container mx-auto px-4 page-section max-w-6xl">
-     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
-      {[...companies]
-       .sort((a, b) => b.jobCount - a.jobCount)
-       .map((company) => {
-        const logoSrc = resolveCompanyLogo(company.slug);
-        const faviconUrl = getCompanyFaviconUrl(company.website);
-        return (
-        <Link key={company.slug} href={`/${company.slug}`}>
-         <Card className="group hover:border-primary transition-all h-full bg-muted/20">
-          <CardContent className="p-5">
-           <div className="flex items-start justify-between gap-2 mb-3">
-            <div className="flex items-center gap-3 min-w-0">
-             <div className="h-8 w-8 flex items-center justify-center p-1 bg-background rounded-lg border shrink-0 overflow-hidden">
-              <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={company.name} size="h-5 max-w-5" />
+           <div className="flex flex-wrap items-center justify-center gap-8 md:gap-16 text-center mt-8">
+             <div className="flex flex-col">
+               <span className="text-4xl font-bold text-foreground mb-1">{companies.length}</span>
+               <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Companies</span>
              </div>
-             <h3 className="font-semibold group-hover:text-foreground transition-colors line-clamp-1">
-              {company.name}
-             </h3>
-            </div>
-            <Badge variant="default" className="shrink-0 text-xs">
-             {company.jobCount} jobs
-            </Badge>
+             <div className="hidden md:block h-16 w-px bg-border" />
+             <div className="flex flex-col">
+               <span className="text-4xl font-bold text-foreground mb-1">{totalJobs}</span>
+               <span className="text-sm font-medium text-muted-foreground uppercase tracking-wider">Open Roles</span>
+             </div>
            </div>
-           {company.description && (
-             <p className="text-sm text-muted-foreground line-clamp-2 mb-3">
-              {company.description}
-             </p>
-           )}
-          </CardContent>
-         </Card>
-        </Link>
-       )})}
-     </div>
-    </section>
-   </main>
-  </div>
- );
+         </section>
+
+         {/* Top Hiring - Horizontal Bar Chart (shared pattern, same card style as homepage) */}
+         <section className="site-container mb-8">
+           <div className="p-4 sm:p-5 rounded-2xl border bg-card/60 backdrop-blur-sm shadow-sm">
+             <div className="mb-6">
+               <h2 className="text-xl font-bold mb-1 flex items-center gap-2">
+                 <BarChart3 className="h-5 w-5 text-primary" />
+                 Top companies hiring right now
+               </h2>
+               <p className="text-sm text-muted-foreground">Companies with the most active job openings</p>
+             </div>
+             <div className="grid md:grid-cols-2 gap-x-8 gap-y-3">
+               {topCompanies.map((company, index) => (
+                 <Link key={company.slug} href={`/${company.slug}`} className="group">
+                   <div className="flex items-center gap-3">
+                     <span className="text-sm font-medium text-muted-foreground w-5 text-right shrink-0">
+                       {index + 1}
+                     </span>
+                     <div className="flex-1 min-w-0">
+                       <div className="flex justify-between items-baseline mb-1">
+                         <span className="font-medium text-sm group-hover:text-primary transition-colors truncate">
+                           {company.name}
+                         </span>
+                         <span className="text-xs text-muted-foreground ml-2 shrink-0">
+                           {company.jobCount}
+                         </span>
+                       </div>
+                       <div className="h-2 bg-muted rounded-full overflow-hidden">
+                         <div
+                           className="h-full bg-primary/80 rounded-full transition-all group-hover:bg-primary"
+                           style={{ width: `${Math.max((company.jobCount / maxJobCount) * 100, 4)}%` }}
+                         />
+                       </div>
+                     </div>
+                   </div>
+                 </Link>
+               ))}
+             </div>
+           </div>
+         </section>
+
+         {/* Company Directory — reuses JobBoard/EventsBoard filter + grid pattern */}
+         <section className="site-container">
+           <CompaniesBoard initialCompanies={companies} companyLogos={companyLogos} />
+         </section>
+       </PageShell>
+     </main>
+   </div>
+  );
 }
