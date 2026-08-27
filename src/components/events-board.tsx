@@ -107,7 +107,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
         if (countryFilter === 'Online') {
           matchesCountry = event.location === 'Online' || event.location?.toLowerCase().includes('online');
         } else {
-          matchesCountry = normalizeCountry(event.country) === countryFilter || event.location?.includes(countryFilter);
+          matchesCountry = normalizeCountry(event.country || '') === countryFilter || Boolean(event.location?.includes(countryFilter));
         }
       }
 
