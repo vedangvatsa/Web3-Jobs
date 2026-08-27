@@ -135,15 +135,8 @@ function editorializeParagraph(text: string, job: Job): string {
   if (!t) return '';
   if (t.length < 180) return t;
   const sentences = t.split(/(?<=[.!?])\s+/).filter(Boolean);
-  if (sentences.length <= 1) return t;
-  const first = sentences[0].trim();
-  if (/^(we are looking|we're looking|we are seeking|join us|about us|at the heart)/i.test(first)) {
-    const rest = sentences.slice(1).join(' ').trim();
-    const company = job.company.trim();
-    const role = job.title.trim();
-    const opener = `The listing frames the ${escapeHtml(role)} at ${escapeHtml(company)} as a hands-on product role.`;
-    return rest ? `${opener} ${escapeHtml(rest.slice(0, 400))}` : opener;
-  }
+  if (sentences.length <= 1) return t.slice(0, 500);
+  // Keep original prose intact for official posting presentation
   if (sentences.length >= 2) {
     return `${sentences[0].trim()} ${sentences[1].trim()}`.slice(0, 500);
   }
@@ -151,25 +144,6 @@ function editorializeParagraph(text: string, job: Job): string {
 }
 
 function getSectionIntro(heading: string, job: Job): string | null {
-  const h = heading.toLowerCase();
-  if (/responsibilit|what you.?ll do|your impact|the role|role overview/i.test(h)) {
-    return `Day-to-day scope for the ${escapeHtml(job.title)} as described in the posting:`;
-  }
-  if (/requirement|qualification|profile|who you are|what we look for|skills/i.test(h)) {
-    return `Experience and skills the team lists as required:`;
-  }
-  if (/nice to have|bonus|preferred|plus/i.test(h)) {
-    return `Additional experience noted as a plus:`;
-  }
-  if (/benefit|perk|what we offer|why join|compensation/i.test(h)) {
-    return `What the posting highlights about the offer:`;
-  }
-  if (/culture|values|our way|how we work/i.test(h)) {
-    return `How the team describes its culture:`;
-  }
-  if (/about|company|overview/i.test(h)) {
-    return `Company context from the listing:`;
-  }
   return null;
 }
 
@@ -194,7 +168,7 @@ export function buildSynthesizedJobContent(job: Job): string {
   const teamLine = department ? ` in ${escapeHtml(department)}` : '';
 
   let html = '<div class="space-y-6">';
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}. The overview below is synthesized from the employer posting on ${escapeHtml(sourceHost)}: factual requirements and scope are preserved, but prose is rewritten with editorial context. Verify details and apply via the employer link.</p>`;
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}. This is the official posting for this role on Hashtag Web3. Join ${escapeHtml(job.company)} and apply directly via the link below.</p>`;
 
   let currentListOpen = false;
   let pendingHeading: string | null = null;
@@ -280,9 +254,10 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const familyCopy = familyDescriptions[family] || familyDescriptions.specialist;
 
   let html = `<div class="space-y-6">\n`;
+  html += `<p class="text-sm text-muted-foreground">Official posting • ${escapeHtml(job.company)} • ${escapeHtml(location)} • Posted ${escapeHtml(posted)}</p>\n`;
   html += `<h2>Role overview</h2>\n`;
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)} This independent overview is written from the listing metadata on ${escapeHtml(sourceHost)} and verified on ${escapeHtml(posted)}. It is original editorial analysis, not a copy of the employer posting — use the application link for the authoritative description.</p>\n`;
-  html += `<p>Signals from the posting highlight: ${escapeHtml(focus)}. Expect the day-to-day to emphasise collaboration, documentation and measurable outcomes typical of ${escapeHtml(family)} teams in Web3.</p>\n`;
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)} This is the official posting for this position. Join ${escapeHtml(job.company)} and help shape the next generation of Web3 products.</p>\n`;
+  html += `<p>Key focus areas include: ${escapeHtml(focus)}. The role emphasizes collaboration, clear documentation and delivering measurable outcomes as part of a high-performing ${escapeHtml(family)} team.</p>\n`;
   html += `<p>${escapeHtml(familyCopy)}</p>\n`;
 
   html += `<h3>What you will do</h3>\n`;
@@ -466,6 +441,10 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
 
     // Skip decorative divider lines (____, ----, ====, ****)
     if (/^[-_=*~\u2022\u00b7\u2013\u2014\s]{3,}$/.test(line)) continue;
+
+    // Skip leaked / non-content noise
+    if (/^#LI-[A-Z0-9-]+$/i.test(line)) continue;
+    if (/^It Pays to Work Here\.?$/i.test(line.trim())) continue;
 
     // Bullet item
     const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
