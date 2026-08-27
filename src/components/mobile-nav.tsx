@@ -1,9 +1,18 @@
 'use client';
 
 import { Button } from '@/components/ui/button';
-import { Sheet, SheetContent, SheetTrigger, SheetClose } from '@/components/ui/sheet';
+import {
+  Sheet,
+  SheetContent,
+  SheetTrigger,
+  SheetClose,
+  SheetHeader,
+  SheetTitle,
+  SheetDescription,
+} from '@/components/ui/sheet';
 import { Menu, Users } from 'lucide-react';
 import Link from 'next/link';
+import Image from 'next/image';
 import {
   Accordion,
   AccordionContent,
@@ -23,33 +32,27 @@ export function MobileNav() {
   return (
     <Sheet>
       <SheetTrigger asChild>
-        <Button variant="ghost" size="icon">
+        <Button variant="ghost" size="icon" aria-label="Toggle navigation menu">
           <Menu className="h-6 w-6" />
           <span className="sr-only">Toggle navigation menu</span>
         </Button>
       </SheetTrigger>
       <SheetContent side="right" className="w-[300px] flex flex-col bg-card p-0">
-        <div className="p-4 flex items-center justify-center border-b bg-secondary/50">
-          <div className="flex items-center gap-6">
-            {SOCIAL_LINKS.map((link) => {
-              const IconComponent = link.icon;
-              return (
-                <a
-                  key={link.label}
-                  href={link.href}
-                  target="_blank"
-                  rel="noopener noreferrer"
-                  onClick={() => trackOutboundClick(link.href, link.label)}
-                  className="text-muted-foreground transition-colors hover:text-foreground"
-                  aria-label={link.ariaLabel || link.label}
-                >
-                  {IconComponent && <IconComponent size={24} />}
-                  <span className="sr-only">{link.label}</span>
-                </a>
-              );
-            })}
-          </div>
-        </div>
+        <SheetHeader className="p-4 border-b flex flex-row items-center justify-between space-y-0 pr-12">
+          <SheetTitle className="sr-only">Mobile Navigation</SheetTitle>
+          <SheetDescription className="sr-only">Hashtag Web3 Navigation Menu</SheetDescription>
+          <SheetClose asChild>
+            <Link href="/" className="flex items-center gap-2" aria-label="Hashtag Web3 Homepage">
+              <Image
+                src="/logo/HashtagWeb3.png"
+                alt="Hashtag Web3 Logo"
+                width={120}
+                height={20}
+                className="h-5 w-auto"
+              />
+            </Link>
+          </SheetClose>
+        </SheetHeader>
         <nav className="flex-grow flex flex-col p-4 overflow-y-auto">
           <div className="flex-grow space-y-2">
             <SheetClose asChild>
@@ -145,6 +148,27 @@ export function MobileNav() {
             </Accordion>
           </div>
         </nav>
+        <div className="p-4 border-t bg-secondary/30 mt-auto">
+          <div className="flex items-center justify-center gap-5">
+            {SOCIAL_LINKS.map((link) => {
+              const IconComponent = link.icon;
+              return (
+                <a
+                  key={link.label}
+                  href={link.href}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  onClick={() => trackOutboundClick(link.href, link.label)}
+                  className="text-muted-foreground transition-colors hover:text-foreground p-1"
+                  aria-label={link.ariaLabel || link.label}
+                >
+                  {IconComponent && <IconComponent className="h-5 w-5" />}
+                  <span className="sr-only">{link.label}</span>
+                </a>
+              );
+            })}
+          </div>
+        </div>
       </SheetContent>
     </Sheet>
   );
