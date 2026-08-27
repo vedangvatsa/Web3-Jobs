@@ -97,6 +97,10 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   const filteredEvents = useMemo(() => {
     const now = new Date();
     return initialEvents.filter(event => {
+      // Exclude past events
+      const eventEnd = event.endDate ? new Date(event.endDate) : new Date(event.startDate);
+      if (!isNaN(eventEnd.getTime()) && eventEnd < now) return false;
+
       // Search
       const q = searchQuery.toLowerCase();
       const matchesSearch = !q || event.name.toLowerCase().includes(q) ||
