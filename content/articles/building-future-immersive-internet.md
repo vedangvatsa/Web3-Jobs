@@ -1,5 +1,5 @@
 ---
-title: Building the Immersive Internet: WebXR, WebGPU and Open Standards in 2026
+title: "Building the Immersive Internet: WebXR, WebGPU and Open Standards in 2026"
 description: >-
   A practical guide to the immersive internet in 2026: what it is, who it is for,
   how WebXR, WebGPU, OpenXR, glTF and USD work together, where Apple Vision Pro
