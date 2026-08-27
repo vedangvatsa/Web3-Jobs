@@ -9,7 +9,7 @@
   },
   "api": {
     "type": "openapi",
-    "url": "https://hashtagweb3.com/.well-known/openapi.json"
+    "url": "https://hashtagweb3.com/openapi.json"
   },
   "logo_url": "https://hashtagweb3.com/logo/HashtagWeb3.png",
   "contact_email": "hello@hashtagweb3.com",

@@ -242,6 +242,12 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.8,
  },
  {
+  url: `${siteUrl}/auth.md`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.8,
+ },
+ {
   url: `${siteUrl}/events`,
   lastModified: new Date(),
   changeFrequency: 'daily',

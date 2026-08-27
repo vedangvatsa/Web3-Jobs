@@ -1,6 +1,6 @@
-# Hashtagweb3.com Agent Authentication Guide
+# Hashtag Web3 Authentication Docs & Agent Auth Guide
 
-> **agent_auth** specification for AI agents accessing the Hashtagweb3 platform.
+> **agent_auth** specification for AI agents accessing the Hashtag Web3 platform.
 
 This document describes how AI agents can authenticate with `hashtagweb3.com` to access its Web3 jobs, news, events, and glossary APIs.
 
