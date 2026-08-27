@@ -236,6 +236,12 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.8,
  },
  {
+  url: `${siteUrl}/agent-instructions.md`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.8,
+ },
+ {
   url: `${siteUrl}/events`,
   lastModified: new Date(),
   changeFrequency: 'daily',

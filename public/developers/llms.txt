@@ -2,7 +2,7 @@
 
 > Scoped documentation index for developers, LLMs, and autonomous agents integrating with Hashtag Web3 APIs, OpenAPI specifications, Model Context Protocol (MCP) servers, and CLI tools.
 
-## When to Use
+## When to use this
 
 Use Hashtag Web3 developer endpoints and tools for:
 - **Web3 Job Search**: Query live blockchain, Solidity, Rust, and crypto jobs via `GET /api/v1/jobs` (or `/api/jobs`).

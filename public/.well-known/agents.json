@@ -130,6 +130,7 @@
   "content_resources": {
     "openapi_json": "https://hashtagweb3.com/openapi.json",
     "openapi_yaml": "https://hashtagweb3.com/api/openapi.yaml",
+    "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
     "developers_portal": "https://hashtagweb3.com/developers",
     "llms_txt": "https://hashtagweb3.com/llms.txt",
     "llms_full_txt": "https://hashtagweb3.com/llms-full.txt",
