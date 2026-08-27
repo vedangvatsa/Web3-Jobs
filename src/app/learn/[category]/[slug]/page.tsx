@@ -6,6 +6,7 @@ import { ChevronRight, Clock, ArrowLeft, ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
 import type { Metadata } from 'next';
+import type { TechArticle, BreadcrumbList, WithContext } from 'schema-dts';
 
 interface Props {
  params: { category: string; slug: string };
@@ -65,11 +66,60 @@ export default function LessonPage({ params }: Props) {
  const allLessons = getLessons(params.category);
  const { prev, next } = getAdjacentLessons(params.category, params.slug);
 
+ const siteUrl = 'https://hashtagweb3.com';
+ const lessonUrl = `${siteUrl}/learn/${params.category}/${params.slug}`;
+
+ const articleSchema: WithContext<TechArticle> = {
+  '@context': 'https://schema.org',
+  '@type': 'TechArticle',
+  headline: lesson.title,
+  description: lesson.description,
+  proficiencyLevel: lesson.difficulty,
+  url: lessonUrl,
+  author: {
+    '@type': 'Organization',
+    name: 'Hashtag Web3',
+    url: siteUrl,
+  },
+  publisher: {
+    '@type': 'Organization',
+    name: 'Hashtag Web3',
+    url: siteUrl,
+    logo: {
+      '@type': 'ImageObject',
+      url: `${siteUrl}/logo.png`,
+    },
+  },
+  mainEntityOfPage: {
+    '@type': 'WebPage',
+    '@id': lessonUrl,
+  },
+ };
+
+ const breadcrumbSchema: WithContext<BreadcrumbList> = {
+  '@context': 'https://schema.org',
+  '@type': 'BreadcrumbList',
+  itemListElement: [
+   { '@type': 'ListItem', position: 1, name: 'Home', item: siteUrl },
+   { '@type': 'ListItem', position: 2, name: 'Learn', item: `${siteUrl}/learn` },
+   { '@type': 'ListItem', position: 3, name: category?.title || 'Course', item: `${siteUrl}/learn/${params.category}` },
+   { '@type': 'ListItem', position: 4, name: lesson.title, item: lessonUrl },
+  ],
+ };
+
  // Convert markdown to simple HTML (headings, paragraphs, bold, lists, code)
  const htmlContent = markdownToHtml(lesson.content);
 
  return (
   <div className="flex flex-col min-h-screen">
+   <script
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+   />
+   <script
+    type="application/ld+json"
+    dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+   />
       <main className="flex-grow">
     <div className="container mx-auto px-4 page-section max-w-6xl">
      <div className="flex flex-col lg:flex-row gap-8 lg:gap-12">
