@@ -37,7 +37,7 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
      content: '', // Don't process content for list view
      relatedTerms: data.relatedTerms || [],
      synonyms: data.synonyms || [],
-     publishedDate: new Date().toISOString(),
+     publishedDate: data.publishedDate || '2024-01-15T00:00:00.000Z',
      updatedDate: data.updatedDate,
     } as GlossaryTerm;
    })
@@ -85,7 +85,7 @@ export async function getTerm(slug: string): Promise<GlossaryTerm | null> {
      content: contentHtml,
      relatedTerms: data.relatedTerms || [],
      synonyms: data.synonyms || [],
-     publishedDate: new Date().toISOString(),
+     publishedDate: data.publishedDate || '2024-01-15T00:00:00.000Z',
      updatedDate: data.updatedDate,
     } as GlossaryTerm;
    }
