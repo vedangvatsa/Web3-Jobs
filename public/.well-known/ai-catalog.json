@@ -7,23 +7,26 @@
   },
   "entries": [
     {
-      "identifier": "urn:air:hashtagweb3:openapi",
+      "identifier": "urn:air:hashtagweb3.com:openapi",
       "displayName": "Hashtag Web3 REST API",
       "description": "OpenAPI 3.1.0 specification for searching Web3 jobs, crypto news, events, and glossary definitions.",
+      "mediaType": "application/vnd.oai.openapi+json;version=3.1",
       "type": "application/vnd.oai.openapi+json;version=3.1",
       "url": "https://hashtagweb3.com/openapi.json"
     },
     {
-      "identifier": "urn:air:hashtagweb3:mcp",
+      "identifier": "urn:air:hashtagweb3.com:mcp",
       "displayName": "Hashtag Web3 Action MCP Server",
       "description": "Model Context Protocol streamable-http server for job search, glossary lookups, and event queries.",
-      "type": "application/mcp-server+json",
+      "mediaType": "application/mcp+json",
+      "type": "application/mcp+json",
       "url": "https://hashtagweb3.com/.well-known/mcp/server-card.json"
     },
     {
-      "identifier": "urn:air:hashtagweb3:agent-skills",
+      "identifier": "urn:air:hashtagweb3.com:agent-skills",
       "displayName": "Hashtag Web3 Agent Skills Index",
       "description": "Index of specialized capabilities and skills for autonomous AI agents.",
+      "mediaType": "application/json",
       "type": "application/json",
       "url": "https://hashtagweb3.com/.well-known/agent-skills/index.json"
     }
