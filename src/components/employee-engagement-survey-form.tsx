@@ -10,8 +10,8 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Download } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import { Slider } from './ui/slider';
-import { Separator } from './ui/separator';
+import { Slider } from '@/components/ui/slider';
+import { Separator } from '@/components/ui/separator';
 import { CtaBanner } from '@/components/cta-banner';
 import {
   createPdfInstance,

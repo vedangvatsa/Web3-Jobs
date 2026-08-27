@@ -8,13 +8,11 @@ import { z } from 'zod';
 import { Button } from '@/components/ui/button';
 import { Card, CardHeader, CardTitle, CardContent } from '@/components/ui/card';
 import { Input } from '@/components/ui/input';
- '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@/components/ui/select';
 import { Download, Trash2, Plus } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
 import { CtaBanner } from '@/components/cta-banner';
- '@/lib/pdf-utils';
 
 
 const jobDescriptionSchema = z.object({
