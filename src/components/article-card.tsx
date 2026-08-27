@@ -20,43 +20,51 @@ export function ArticleCard({
   className,
 }: ArticleCardProps) {
   const imageHeightClass =
-    variant === 'compact' ? 'h-40' : variant === 'related' ? 'h-36' : 'h-48';
+    variant === 'compact' ? 'h-36' : variant === 'related' ? 'h-32' : 'h-44';
   const titleSizeClass =
     variant === 'compact'
-      ? 'text-lg leading-tight'
+      ? 'text-base font-semibold leading-snug line-clamp-2'
       : variant === 'related'
-      ? 'text-sm leading-snug line-clamp-2'
-      : 'text-xl';
-  const headerPadding = variant === 'related' ? 'p-3' : 'p-6';
+      ? 'text-sm font-semibold leading-snug line-clamp-2'
+      : 'text-lg font-bold leading-snug line-clamp-2';
+  const headerPadding = variant === 'related' ? 'p-3' : 'p-4 sm:p-5';
 
   return (
     <Card
       className={cn(
-        'flex flex-col transform transition-all duration-200 hover:-translate-y-1 hover:shadow-sm h-full bg-background border',
+        'group flex flex-col h-full bg-card border-border/70 shadow-none hover:border-foreground/25 transition-colors overflow-hidden',
         className
       )}
     >
-      <Link href={`/${article.slug}`} className="block h-full flex flex-col">
-        <div className={cn('relative w-full overflow-hidden rounded-t-lg', imageHeightClass)}>
-          <Image
-            src={article.image}
-            alt={`${article.title} - Hashtag Web3`}
-            fill
-            className="object-cover transition-transform duration-300 hover:scale-105"
-            sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
-            data-ai-hint={article['data-ai-hint'] || ''}
-          />
-        </div>
-        <CardHeader className={cn('flex-grow', headerPadding)}>
-          {article.category && (
-            <p className="text-xs md:text-sm font-medium text-primary mb-1">{article.category}</p>
-          )}
-          <CardTitle className={titleSizeClass}>{article.title}</CardTitle>
-          {showDescription && article.description && (
-            <CardDescription className="pt-2 line-clamp-3">
-              {article.description}
-            </CardDescription>
-          )}
+      <Link href={`/${article.slug}`} className="flex flex-col h-full">
+        {article.image && (
+          <div className={cn('relative w-full overflow-hidden bg-muted/40 shrink-0', imageHeightClass)}>
+            <Image
+              src={article.image}
+              alt={`${article.title} - Hashtag Web3`}
+              fill
+              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
+              data-ai-hint={article['data-ai-hint'] || ''}
+            />
+          </div>
+        )}
+        <CardHeader className={cn('flex-grow flex flex-col justify-between', headerPadding)}>
+          <div>
+            {article.category && (
+              <p className="text-[11px] font-semibold text-primary uppercase tracking-wider mb-1.5 line-clamp-1">
+                {article.category}
+              </p>
+            )}
+            <CardTitle className={cn(titleSizeClass, "group-hover:text-primary transition-colors")}>
+              {article.title}
+            </CardTitle>
+            {showDescription && article.description && (
+              <CardDescription className="pt-2 line-clamp-2 text-xs sm:text-sm text-muted-foreground leading-relaxed">
+                {article.description}
+              </CardDescription>
+            )}
+          </div>
         </CardHeader>
       </Link>
     </Card>
@@ -65,14 +73,14 @@ export function ArticleCard({
 
 export function ArticleCardSkeleton({ variant = 'default' }: { variant?: 'default' | 'compact' | 'related' }) {
   const imageHeightClass =
-    variant === 'compact' ? 'h-40' : variant === 'related' ? 'h-36' : 'h-48';
+    variant === 'compact' ? 'h-36' : variant === 'related' ? 'h-32' : 'h-44';
 
   return (
-    <Card className="flex flex-col h-full">
-      <Skeleton className={cn('w-full rounded-t-lg', imageHeightClass)} />
+    <Card className="flex flex-col h-full border-border/70 bg-card shadow-none overflow-hidden">
+      <Skeleton className={cn('w-full', imageHeightClass)} />
       <CardHeader className="p-4 space-y-2">
-        <Skeleton className="h-4 w-1/4" />
-        <Skeleton className="h-6 w-full" />
+        <Skeleton className="h-3 w-1/4" />
+        <Skeleton className="h-5 w-full" />
         {variant === 'default' && <Skeleton className="h-4 w-3/4 mt-2" />}
       </CardHeader>
     </Card>

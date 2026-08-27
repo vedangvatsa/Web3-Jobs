@@ -1,5 +1,4 @@
 import type { Article } from '@/types';
-import { BookOpen } from 'lucide-react';
 import { ArticleCard } from '@/components/article-card';
 
 interface RelatedArticlesProps {
@@ -27,15 +26,20 @@ export function RelatedArticles({ allArticles, currentCategory, currentSlug }: R
   }
 
   return (
-    <div className="my-16 site-container px-4">
-      <h2 className="text-2xl font-bold text-center mb-8 flex items-center justify-center gap-3">
-        <BookOpen className="h-6 w-6" /> Related Reading
-      </h2>
+    <section className="mt-16 pt-12 border-t border-border/70 max-w-5xl mx-auto px-4">
+      <div className="text-center mb-8">
+        <h2 className="text-2xl font-bold tracking-tight text-foreground">
+          Related Reading
+        </h2>
+        <p className="text-sm text-muted-foreground mt-1">
+          Explore more guides and career playbooks
+        </p>
+      </div>
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-4">
         {related.map((article) => (
           <ArticleCard key={article.slug} article={article} variant="related" />
         ))}
       </div>
-    </div>
+    </section>
   );
 }
