@@ -8,6 +8,7 @@ import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { Search, Calendar, MapPin, ExternalLink } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
+import { EventCard } from '@/components/event-card';
 
 // ISO 3166-1 alpha-2 → full country name
 const COUNTRY_NAMES: Record<string, string> = {
@@ -166,21 +167,23 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   return (
     <div>
       {/* Search + Filters */}
-      <div className="mb-8 max-w-6xl mx-auto">
+      <div className="mb-6">
         <div className="flex flex-col sm:flex-row gap-3">
-          <div className="relative flex-1">
+          <div className="relative flex-1" role="search">
             <Input
               placeholder="Search events, locations..."
               value={searchQuery}
               onChange={(e) => { setSearchQuery(e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="w-full text-base pl-12 h-12 rounded-full shadow-sm focus-visible:ring-offset-4"
+              className="h-11 w-full rounded-md pl-10 text-base"
+              aria-label="Search events"
             />
-            <Search className="absolute left-5 top-1/2 -translate-y-1/2 h-5 w-5 text-muted-foreground" />
+            <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
           </div>
           <select
             value={countryFilter || ''}
-            onChange={(e) => setCountryFilter(e.target.value === '' ? null : e.target.value)}
-            className="h-12 px-4 rounded-full border border-input bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 cursor-pointer"
+            onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
+            className="h-11 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer"
+            aria-label="Filter by location"
           >
             <option value="">All Locations</option>
             {countries.map(c => (
@@ -189,8 +192,9 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
           </select>
           <select
             value={dateFilter || ''}
-            onChange={(e) => setDateFilter(e.target.value === '' ? null : e.target.value)}
-            className="h-12 px-4 rounded-full border border-input bg-background text-sm text-foreground shadow-sm focus:outline-none focus:ring-2 focus:ring-ring focus:ring-offset-2 cursor-pointer"
+            onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
+            className="h-11 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer"
+            aria-label="Filter by date"
           >
             <option value="">All Dates</option>
             {DATE_RANGES.map(r => (
@@ -199,51 +203,17 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
           </select>
         </div>
         {isSearching && (
-          <p className="text-center text-sm text-muted-foreground mt-3">
-            {filteredEvents.length} event{filteredEvents.length !== 1 ? 's' : ''} found
+          <p className="mt-2 text-sm text-muted-foreground" aria-live="polite">
+            {filteredEvents.length} result{filteredEvents.length === 1 ? '' : 's'}
           </p>
         )}
       </div>
 
       {/* Events Grid */}
       <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {visibleEvents.map((event) => {
-          const slug = getEventSlug(event);
-          return (
-            <Link
-              key={event.id}
-              href={`/${slug}`}
-              className="block h-full"
-            >
-              <Card className="flex h-full flex-col border-border/70 bg-card shadow-none hover:border-foreground/25">
-                <CardHeader className="pb-3 pt-4 px-4">
-                  <div className="flex items-center gap-3">
-                    <div className="relative h-10 w-10 rounded-md border border-border/60 bg-muted/40 shrink-0 overflow-hidden flex items-center justify-center">
-                      {event.coverImage ? (
-                        <img
-                          src={event.coverImage}
-                          alt={event.name}
-                          className="h-full w-full object-cover"
-                          loading="lazy"
-                        />
-                      ) : (
-                        <Calendar className="h-5 w-5 text-muted-foreground" />
-                      )}
-                    </div>
-                    <div className="min-w-0">
-                      <CardTitle className="text-base leading-snug font-semibold line-clamp-2" title={event.name}>
-                        {event.name}
-                      </CardTitle>
-                      <p className="text-xs text-muted-foreground truncate mt-0.5">
-                        {event.location ? `${event.location} • ` : ''}{formatEventDate(event.startDate, event.endDate)}
-                      </p>
-                    </div>
-                  </div>
-                </CardHeader>
-              </Card>
-            </Link>
-          );
-        })}
+        {visibleEvents.map((event) => (
+          <EventCard key={event.id} event={event} />
+        ))}
       </div>
 
       {/* Infinite scroll sentinel */}
