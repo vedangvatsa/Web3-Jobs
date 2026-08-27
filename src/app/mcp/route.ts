@@ -34,6 +34,11 @@ export async function OPTIONS() {
   });
 }
 
+import { getJobs } from '@/lib/jobs';
+import { getAllTerms } from '@/lib/glossary';
+import { getNewsFeed } from '@/lib/news';
+import { getEvents } from '@/lib/events-server';
+
 // MCP streamable-http: handles tool calls from MCP clients
 export async function POST(request: Request) {
   let body: Record<string, unknown> = {};
@@ -207,54 +212,111 @@ export async function POST(request: Request) {
     });
   }
 
-  // tools/call — proxy to REST API
+  // tools/call — in-process execution for 100% reliability
   if (method === 'tools/call') {
     const toolName = params.name as string;
     const toolArgs = (params.arguments as Record<string, string | number>) || {};
-    const baseUrl = 'https://hashtagweb3.com';
-
-    let apiUrl = '';
-    if (toolName === 'search_jobs') {
-      const q = new URLSearchParams();
-      if (toolArgs.search) q.set('search', String(toolArgs.search));
-      if (toolArgs.limit) q.set('limit', String(toolArgs.limit));
-      apiUrl = `${baseUrl}/api/jobs?${q}`;
-    } else if (toolName === 'search_glossary') {
-      const q = new URLSearchParams();
-      if (toolArgs.search) q.set('search', String(toolArgs.search));
-      apiUrl = `${baseUrl}/api/glossary?${q}`;
-    } else if (toolName === 'get_news') {
-      const q = new URLSearchParams();
-      if (toolArgs.limit) q.set('limit', String(toolArgs.limit));
-      apiUrl = `${baseUrl}/api/news?${q}`;
-    } else if (toolName === 'get_events') {
-      const q = new URLSearchParams();
-      if (toolArgs.search) q.set('search', String(toolArgs.search));
-      if (toolArgs.type) q.set('type', String(toolArgs.type));
-      apiUrl = `${baseUrl}/api/events?${q}`;
-    } else {
-      return NextResponse.json({
-        jsonrpc: '2.0',
-        id,
-        error: { code: -32601, message: `Unknown tool: ${toolName}` },
-      });
-    }
 
     try {
-      const res = await fetch(apiUrl, { headers: { Accept: 'application/json' } });
-      const data = await res.json();
+      if (toolName === 'search_jobs') {
+        const allJobs = await getJobs();
+        const search = String(toolArgs.search || '').toLowerCase().trim();
+        const limit = Math.min(Math.max(Number(toolArgs.limit) || 20, 1), 100);
+        let filtered = allJobs;
+        if (search) {
+          filtered = filtered.filter(j => 
+            j.title.toLowerCase().includes(search) ||
+            j.company.toLowerCase().includes(search) ||
+            (j.location && j.location.toLowerCase().includes(search)) ||
+            (j.department && j.department.toLowerCase().includes(search))
+          );
+        }
+        const results = filtered.slice(0, limit);
+        return NextResponse.json({
+          jsonrpc: '2.0',
+          id,
+          result: {
+            content: [{ type: 'text', text: JSON.stringify({ total: filtered.length, count: results.length, jobs: results }, null, 2) }],
+          },
+        });
+      } else if (toolName === 'search_glossary') {
+        const allTerms = await getAllTerms();
+        const search = String(toolArgs.search || '').toLowerCase().trim();
+        let filtered = allTerms;
+        if (search) {
+          filtered = filtered.filter(t => 
+            t.term.toLowerCase().includes(search) ||
+            t.description.toLowerCase().includes(search) ||
+            t.category.toLowerCase().includes(search)
+          );
+        }
+        const results = filtered.slice(0, 10);
+        return NextResponse.json({
+          jsonrpc: '2.0',
+          id,
+          result: {
+            content: [{ type: 'text', text: JSON.stringify({ total: filtered.length, count: results.length, terms: results }, null, 2) }],
+          },
+        });
+      } else if (toolName === 'get_news') {
+        const allNews = await getNewsFeed();
+        const limit = Math.min(Math.max(Number(toolArgs.limit) || 10, 1), 50);
+        const search = String(toolArgs.search || '').toLowerCase().trim();
+        let filtered = allNews;
+        if (search) {
+          filtered = filtered.filter(n => 
+            n.title.toLowerCase().includes(search) || 
+            n.contentSnippet.toLowerCase().includes(search)
+          );
+        }
+        const results = filtered.slice(0, limit);
+        return NextResponse.json({
+          jsonrpc: '2.0',
+          id,
+          result: {
+            content: [{ type: 'text', text: JSON.stringify({ total: filtered.length, count: results.length, news: results }, null, 2) }],
+          },
+        });
+      } else if (toolName === 'get_events') {
+        const allEvents = await getEvents();
+        const search = String(toolArgs.search || '').toLowerCase().trim();
+        const type = String(toolArgs.type || '').toLowerCase().trim();
+        let filtered = allEvents;
+        if (search) {
+          filtered = filtered.filter(e => 
+            e.name.toLowerCase().includes(search) || 
+            e.description.toLowerCase().includes(search) ||
+            e.location.toLowerCase().includes(search)
+          );
+        }
+        if (type) {
+          filtered = filtered.filter(e => 
+            e.location.toLowerCase().includes(type) || 
+            e.name.toLowerCase().includes(type) ||
+            e.description.toLowerCase().includes(type)
+          );
+        }
+        const results = filtered.slice(0, 20);
+        return NextResponse.json({
+          jsonrpc: '2.0',
+          id,
+          result: {
+            content: [{ type: 'text', text: JSON.stringify({ total: filtered.length, count: results.length, events: results }, null, 2) }],
+          },
+        });
+      } else {
+        return NextResponse.json({
+          jsonrpc: '2.0',
+          id,
+          error: { code: -32601, message: `Unknown tool: ${toolName}` },
+        });
+      }
+    } catch (err: any) {
+      console.error('MCP Tool Call Error:', err);
       return NextResponse.json({
         jsonrpc: '2.0',
         id,
-        result: {
-          content: [{ type: 'text', text: JSON.stringify(data, null, 2) }],
-        },
-      });
-    } catch {
-      return NextResponse.json({
-        jsonrpc: '2.0',
-        id,
-        error: { code: -32603, message: 'Upstream API error' },
+        error: { code: -32603, message: err?.message || 'Internal MCP execution error' },
       });
     }
   }
