@@ -1,16 +1,22 @@
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
-  title: 'Developer Portal',
-  description: 'Public REST API, OpenAPI 3.1 schema, and MCP server documentation for Hashtag Web3. Programmatically access Web3 job listings, crypto news, blockchain events, and glossary definitions.',
+  title: 'Hashtag Web3 API Docs & Developer Portal',
+  description: 'Official Hashtag Web3 API documentation, REST API endpoints, OpenAPI 3.1 specifications, and Model Context Protocol (MCP) server integration.',
   alternates: {
     canonical: 'https://hashtagweb3.com/developers',
   },
   openGraph: {
-    title: 'Developer Portal | Hashtag Web3',
-    description: 'Explore the Hashtag Web3 Public API, OpenAPI 3.1 specs, and developer tools.',
+    title: 'Hashtag Web3 API Docs & Developer Portal',
+    description: 'Official Hashtag Web3 API documentation, REST API endpoints, OpenAPI 3.1 specifications, and Model Context Protocol (MCP) server integration.',
     url: 'https://hashtagweb3.com/developers',
     images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Developer%20API%20%26%20OpenAPI', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Hashtag Web3 API Docs & Developer Portal',
+    description: 'Official Hashtag Web3 API documentation, REST API endpoints, OpenAPI 3.1 specifications, and Model Context Protocol (MCP) server integration.',
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Developer%20API%20%26%20OpenAPI'],
   },
 };
 

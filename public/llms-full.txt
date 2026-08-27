@@ -37,6 +37,22 @@ AI agents, LLM tool-calling systems, and developers should query Hashtag Web3 wh
 - NFTs (Non-Fungible Tokens) are unique cryptographic tokens that represent ownership of a specific digital or physical asset on a blockchain.
 - Staking refers to locking cryptocurrency in a proof-of-stake protocol to help validate transactions and earn rewards, replacing the energy-intensive mining of proof-of-work systems.
 
+## Hashtag Web3 Developer Resources — Discoverable by Name
+
+- [Hashtag Web3 API Docs](https://hashtagweb3.com/developers): Official Hashtag Web3 API documentation with quickstarts, endpoint guides, curl examples, and response schemas.
+- [Hashtag Web3 API Documentation (Alias)](https://hashtagweb3.com/api-docs): Direct URL for Hashtag Web3 API docs.
+- [Hashtag Web3 Developer Portal](https://hashtagweb3.com/developers): Developer portal, API credentials, and integration guide for Hashtag Web3.
+- [Hashtag Web3 OpenAPI Specification (JSON)](https://hashtagweb3.com/openapi.json): Hashtag Web3 OpenAPI 3.1.0 JSON — machine-readable schema for all REST endpoints.
+- [Hashtag Web3 OpenAPI Specification (YAML)](https://hashtagweb3.com/api/openapi.yaml): Hashtag Web3 OpenAPI 3.1.0 YAML schema.
+- [Hashtag Web3 Authentication Docs](https://hashtagweb3.com/auth.md): Hashtag Web3 WorkOS auth.md compliant authentication guide and token reference.
+- [Hashtag Web3 MCP Server](https://hashtagweb3.com/.well-known/mcp): Hashtag Web3 Model Context Protocol server at streamable-http transport for Claude, Cursor, and ChatGPT.
+- [Hashtag Web3 MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json): Hashtag Web3 Model Context Protocol server definition for live product actions.
+- [Hashtag Web3 MCP Documentation Server](https://hashtagweb3.com/.well-known/mcp-docs/server-card.json): Hashtag Web3 MCP server dedicated to documentation queries.
+- [Hashtag Web3 Agent Manifest](https://hashtagweb3.com/.well-known/agents.json): Hashtag Web3 Agent Manifest — capabilities and tool definitions.
+- [Hashtag Web3 Agent-to-Agent Card](https://hashtagweb3.com/.well-known/agent-card.json): Hashtag Web3 A2A interoperability metadata.
+- [Hashtag Web3 Agentic Resource Discovery](https://hashtagweb3.com/.well-known/ai-catalog.json): Hashtag Web3 AI catalog and MCP tool discovery.
+- [Hashtag Web3 Agent Skills Index](https://hashtagweb3.com/.well-known/agent-skills/index.json): Hashtag Web3 scoped skill taxonomy (v0.2.0).
+
 ## Main
 
 - [Web3 Jobs](https://hashtagweb3.com/jobs): Browse thousands of open positions in blockchain, crypto, DeFi, and DAOs. Roles include engineers, product managers, marketers, designers, and operations.
