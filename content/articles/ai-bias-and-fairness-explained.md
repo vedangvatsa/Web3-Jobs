@@ -12,7 +12,7 @@ lastUpdated: "2026-08-28"
 
 AI bias happens when a system makes systematic errors that favor one group over another. It is not about a model having opinions. It is about data, design choices, and deployment decisions that produce uneven outcomes at scale. Once deployed, those outcomes can affect hiring, healthcare, credit, and criminal justice.
 
-This matters because AI decisions are often treated as neutral. NIST frames it directly in Special Publication 1270, published March 2022: it is not possible to achieve zero risk of bias in any AI system. The task is to identify, measure, and manage it across the lifecycle.
+This matters because AI decisions are often treated as neutral. NIST frames it directly in NIST Special Publication 1270, published March 2022: it is not possible to achieve zero risk of bias in any AI system. The task is to identify, measure, and manage it across the lifecycle.
 
 ### Who this guide is for
 
