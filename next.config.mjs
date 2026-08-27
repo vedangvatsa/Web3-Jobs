@@ -23,17 +23,17 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/blog/:slug',
+        source: '/blog/:slug((?!llms\\.txt$).*)',
         destination: '/:slug',
         permanent: true,
       },
       {
-        source: '/companies/:slug',
+        source: '/companies/:slug((?!llms\\.txt$).*)',
         destination: '/:slug',
         permanent: true,
       },
       {
-        source: '/jobs/:slug',
+        source: '/jobs/:slug((?!llms\\.txt$).*)',
         destination: '/:slug',
         permanent: true,
       },

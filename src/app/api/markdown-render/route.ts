@@ -13,6 +13,7 @@ const KNOWN_STATIC_PATHS = new Set([
   '/jobs',
   '/developers',
   '/docs',
+  '/api-docs',
   '/glossary',
   '/learn',
   '/auth',
@@ -43,15 +44,36 @@ const KNOWN_STATIC_PATHS = new Set([
   '/resources',
 ]);
 
-function stripLeadingFrontmatter(content: string): string {
-  const trimmed = content.replace(/^\uFEFF/, '').replace(/^\s+/, '');
+function ensureFrontmatter(content: string, meta: { title: string; description: string; canonical: string; lastUpdated?: string }): string {
+  const trimmed = content.replace(/^\uFEFF/, '').trim();
+  const dateStr = meta.lastUpdated || '2026-08-28';
+  
   if (trimmed.startsWith('---')) {
     const end = trimmed.indexOf('\n---', 3);
     if (end !== -1) {
-      return trimmed.slice(trimmed.indexOf('\n', end + 1)).replace(/^\s+/, '');
+      // It already has frontmatter; ensure last-updated and canonical exist
+      const existingFm = trimmed.slice(3, end);
+      let updatedFm = existingFm;
+      if (!updatedFm.includes('canonical:')) {
+        updatedFm += `\ncanonical: ${JSON.stringify(meta.canonical)}`;
+      }
+      if (!updatedFm.includes('last-updated:') && !updatedFm.includes('lastUpdated:')) {
+        updatedFm += `\nlast-updated: ${JSON.stringify(dateStr)}`;
+      }
+      return `---\n${updatedFm.trim()}\n---` + trimmed.slice(end + 4);
     }
   }
-  return trimmed;
+
+  // Prepend complete frontmatter block
+  return `---
+title: ${JSON.stringify(meta.title)}
+description: ${JSON.stringify(meta.description)}
+canonical: ${JSON.stringify(meta.canonical)}
+last-updated: ${JSON.stringify(dateStr)}
+---
+
+${trimmed}
+`;
 }
 
 export async function GET(request: NextRequest) {
@@ -64,19 +86,55 @@ export async function GET(request: NextRequest) {
     const cleanPath = pathname.replace(/\.md$/, '') || '/';
     const slug = cleanPath.replace(/^\//, '');
     const canonical = `https://hashtagweb3.com${cleanPath === '/' ? '' : cleanPath}`;
+    const todayStr = '2026-08-28';
 
-    // 1. Homepage
-    if (cleanPath === '/') {
+    // 0. Check direct public markdown file matches (e.g. /AGENTS.md, /auth.md, etc.)
+    const directPublicFiles = [
+      path.join(process.cwd(), 'public', `${slug}.md`),
+      path.join(process.cwd(), 'public', `${cleanPath}.md`),
+      path.join(process.cwd(), `${slug}.md`),
+    ];
+    for (const p of directPublicFiles) {
+      if (fs.existsSync(p) && fs.statSync(p).isFile()) {
+        const rawContent = fs.readFileSync(p, 'utf8');
+        const mdWithFm = ensureFrontmatter(rawContent, {
+          title: `Hashtag Web3 - ${slug}`,
+          description: `Hashtag Web3 developer resource and guide for ${slug}.`,
+          canonical,
+          lastUpdated: todayStr,
+        });
+        return new NextResponse(mdWithFm, {
+          status: 200,
+          headers: {
+            'Content-Type': 'text/markdown; charset=utf-8',
+            'Vary': 'Accept, Accept-Encoding, User-Agent',
+            'X-Robots-Tag': 'index, follow',
+            'X-AI-Usage': 'indexing=yes, search=yes, inference=yes, citation=yes',
+            'Link': `<${canonical}>; rel="canonical"`,
+            'Access-Control-Allow-Origin': '*',
+          },
+        });
+      }
+    }
+
+    // 1. Homepage / index.md
+    if (cleanPath === '/' || cleanPath === '/index') {
       const filePath = path.join(process.cwd(), 'public', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Hashtag Web3\n';
-      return new NextResponse(stripLeadingFrontmatter(rawContent), {
+      const mdWithFm = ensureFrontmatter(rawContent, {
+        title: 'Hashtag Web3 - Web3 Jobs, Blockchain Careers & Intelligence Network',
+        description: 'Premier Web3 job board, crypto career resource platform, developer APIs, and intelligence network.',
+        canonical: 'https://hashtagweb3.com/',
+        lastUpdated: todayStr,
+      });
+      return new NextResponse(mdWithFm, {
         status: 200,
         headers: {
           'Content-Type': 'text/markdown; charset=utf-8',
           'Vary': 'Accept, Accept-Encoding, User-Agent',
           'X-Robots-Tag': 'index, follow',
           'X-AI-Usage': 'indexing=yes, search=yes, inference=yes, citation=yes',
-          'Link': `<${canonical}>; rel="canonical"`,
+          'Link': `<https://hashtagweb3.com/>; rel="canonical"`,
           'Access-Control-Allow-Origin': '*',
         },
       });
@@ -86,16 +144,28 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/jobs') {
       const filePath = path.join(process.cwd(), 'public', 'jobs', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Jobs Directory\n';
-      return new NextResponse(stripLeadingFrontmatter(rawContent), {
+      const mdWithFm = ensureFrontmatter(rawContent, {
+        title: 'Hashtag Web3 - Web3 Jobs & Crypto Careers Directory',
+        description: 'Browse thousands of verified smart contract, blockchain engineering, DeFi, and crypto jobs.',
+        canonical: 'https://hashtagweb3.com/jobs',
+        lastUpdated: todayStr,
+      });
+      return new NextResponse(mdWithFm, {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
     }
 
-    if (cleanPath === '/developers' || cleanPath === '/docs') {
+    if (cleanPath === '/developers' || cleanPath === '/docs' || cleanPath === '/api-docs') {
       const filePath = path.join(process.cwd(), 'public', 'developers', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Developer Portal\n';
-      return new NextResponse(stripLeadingFrontmatter(rawContent), {
+      const mdWithFm = ensureFrontmatter(rawContent, {
+        title: 'Hashtag Web3 API Docs & Developer Portal',
+        description: 'Official Hashtag Web3 API documentation, OpenAPI 3.1 specifications, REST endpoint reference, and MCP servers.',
+        canonical: `https://hashtagweb3.com${cleanPath}`,
+        lastUpdated: todayStr,
+      });
+      return new NextResponse(mdWithFm, {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -104,7 +174,13 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/glossary') {
       const filePath = path.join(process.cwd(), 'public', 'glossary-scoped.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Glossary\n';
-      return new NextResponse(stripLeadingFrontmatter(rawContent), {
+      const mdWithFm = ensureFrontmatter(rawContent, {
+        title: 'Hashtag Web3 - 200+ Blockchain & Crypto Glossary Definitions',
+        description: 'Comprehensive dictionary and reference for Web3, DeFi, Zero Knowledge, and blockchain concepts.',
+        canonical: 'https://hashtagweb3.com/glossary',
+        lastUpdated: todayStr,
+      });
+      return new NextResponse(mdWithFm, {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -113,7 +189,13 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/learn') {
       const filePath = path.join(process.cwd(), 'public', 'learn', 'llms.txt');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Web3 Learn\n';
-      return new NextResponse(stripLeadingFrontmatter(rawContent), {
+      const mdWithFm = ensureFrontmatter(rawContent, {
+        title: 'Hashtag Web3 - Interactive Web3 Learning Courses & Lessons',
+        description: 'Structured Web3 development curricula covering Solidity, Rust, DeFi protocols, and security audits.',
+        canonical: 'https://hashtagweb3.com/learn',
+        lastUpdated: todayStr,
+      });
+      return new NextResponse(mdWithFm, {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -122,7 +204,13 @@ export async function GET(request: NextRequest) {
     if (cleanPath === '/auth') {
       const filePath = path.join(process.cwd(), 'public', 'auth.md');
       const rawContent = fs.existsSync(filePath) ? fs.readFileSync(filePath, 'utf8') : '# Agent Authentication Guide\n';
-      return new NextResponse(stripLeadingFrontmatter(rawContent), {
+      const mdWithFm = ensureFrontmatter(rawContent, {
+        title: 'Hashtag Web3 - Agent Authentication Guide & Token Reference',
+        description: 'WorkOS auth.md compliant agent registration, OAuth metadata, and bearer token workflow for Hashtag Web3.',
+        canonical: 'https://hashtagweb3.com/auth.md',
+        lastUpdated: todayStr,
+      });
+      return new NextResponse(mdWithFm, {
         status: 200,
         headers: { 'Content-Type': 'text/markdown; charset=utf-8', 'Access-Control-Allow-Origin': '*' },
       });
@@ -139,12 +227,11 @@ export async function GET(request: NextRequest) {
         : new Date(job.date).toISOString().split('T')[0];
       const locationLine = job.location ? `- **Location**: ${job.location}\n` : '';
       const dateLine = verifiedDate ? `- **Date Posted**: ${verifiedDate}\n` : '';
-      const dateFrontmatter = verifiedDate ? `date-posted: ${verifiedDate}\n` : '';
       const md = `---
 title: ${JSON.stringify(`${job.title} at ${job.company}`)}
 description: ${JSON.stringify(buildUniqueJobMetaDescription(job))}
 canonical: ${JSON.stringify(canonical)}
-${dateFrontmatter.trimEnd()}
+last-updated: ${JSON.stringify(verifiedDate || todayStr)}
 ---
 
 # ${job.title} at ${job.company}
@@ -169,7 +256,7 @@ This page is an original index entry. The employer link above is the authoritati
       });
     }
 
-    // 4. Dynamic Company Check (canonical /[slug] plus legacy /companies/[slug])
+    // 4. Dynamic Company Check
     const companySlug = cleanPath.startsWith('/companies/')
       ? cleanPath.replace('/companies/', '')
       : slug.includes('/')
@@ -181,9 +268,10 @@ This page is an original index entry. The employer link above is the authoritati
       if (company) {
         const companyCanonical = `https://hashtagweb3.com/${companySlug}`;
         const md = `---
-title: ${company.name} Web3 Jobs & Company Profile
-description: View active Web3 job openings and company profile for ${company.name}.
-canonical: ${companyCanonical}
+title: ${JSON.stringify(`${company.name} Web3 Jobs & Company Profile`)}
+description: ${JSON.stringify(`View active Web3 job openings and company profile for ${company.name}.`)}
+canonical: ${JSON.stringify(companyCanonical)}
+last-updated: ${JSON.stringify(todayStr)}
 ---
 
 # ${company.name}
@@ -209,7 +297,12 @@ ${(company.jobs || []).map((companyJob) => `- [${companyJob.title}](${companyJob
     // 5. Dynamic Article Check
     const article = await getArticle(slug);
     if (article) {
-      const md = stripLeadingFrontmatter(article.content);
+      const md = ensureFrontmatter(article.content, {
+        title: article.title,
+        description: article.description || `Hashtag Web3 career guide: ${article.title}`,
+        canonical,
+        lastUpdated: article.lastUpdated || article.publishedDate || todayStr,
+      });
       return new NextResponse(md, {
         status: 200,
         headers: {
@@ -225,10 +318,11 @@ ${(company.jobs || []).map((companyJob) => `- [${companyJob.title}](${companyJob
     const term = await getTerm(slug);
     if (term) {
       const md = `---
-title: ${term.term} - Web3 Glossary
-description: ${term.description}
-canonical: ${canonical}
-category: ${term.category}
+title: ${JSON.stringify(`${term.term} - Web3 Glossary`)}
+description: ${JSON.stringify(term.description)}
+canonical: ${JSON.stringify(canonical)}
+last-updated: ${JSON.stringify(todayStr)}
+category: ${JSON.stringify(term.category)}
 ---
 
 # ${term.term}
@@ -255,9 +349,10 @@ ${term.content || ''}
     const event = await getEventBySlug(slug);
     if (event) {
       const md = `---
-title: ${event.name}
-description: Web3 Event in ${event.location}
-canonical: ${canonical}
+title: ${JSON.stringify(event.name)}
+description: ${JSON.stringify(`Web3 Event in ${event.location}`)}
+canonical: ${JSON.stringify(canonical)}
+last-updated: ${JSON.stringify(todayStr)}
 ---
 
 # ${event.name}
@@ -284,9 +379,10 @@ ${event.description || ''}
     const resource = getResourceByCanonicalSlug(slug);
     if (resource) {
       const md = `---
-title: ${resource.seo.title}
-description: ${resource.seo.description}
-canonical: ${canonical}
+title: ${JSON.stringify(resource.seo.title)}
+description: ${JSON.stringify(resource.seo.description)}
+canonical: ${JSON.stringify(canonical)}
+last-updated: ${JSON.stringify(todayStr)}
 ---
 
 # ${resource.seo.title}
@@ -307,14 +403,15 @@ ${resource.seo.description}
     // 9. Static Known Paths Check
     if (KNOWN_STATIC_PATHS.has(cleanPath)) {
       const md = `---
-title: Hashtag Web3 - ${cleanPath.replace(/^\//, '')}
-description: Web3 Career Platform & Intelligence Network
-canonical: ${canonical}
+title: ${JSON.stringify(`Hashtag Web3 - ${cleanPath.replace(/^\//, '')}`)}
+description: "Web3 Career Platform, Developer APIs & Talent Intelligence Network"
+canonical: ${JSON.stringify(canonical)}
+last-updated: ${JSON.stringify(todayStr)}
 ---
 
-# Hashtag Web3
+# Hashtag Web3 - ${cleanPath.replace(/^\//, '')}
 
-Explore resources, tools, and job listings on Hashtag Web3 (${canonical}).
+Explore verified resources, developer tools, and job listings on Hashtag Web3 (${canonical}).
 `;
       return new NextResponse(md, {
         status: 200,
@@ -329,10 +426,11 @@ Explore resources, tools, and job listings on Hashtag Web3 (${canonical}).
 
     // 10. AUTHENTIC 404 NOT FOUND (Non-existent path)
     const notFoundMarkdown = `---
-title: 404 Not Found - Hashtag Web3
-description: The requested resource does not exist on Hashtag Web3.
+title: "404 Not Found - Hashtag Web3"
+description: "The requested resource does not exist on Hashtag Web3."
 status: 404
-canonical: ${canonical}
+canonical: ${JSON.stringify(canonical)}
+last-updated: ${JSON.stringify(todayStr)}
 ---
 
 # 404 - Resource Not Found
@@ -364,7 +462,7 @@ The requested path \`${cleanPath}\` was not found on Hashtag Web3.
   } catch (error) {
     console.error('Error rendering markdown:', error);
     return new NextResponse(
-      `# 404 - Not Found\n\nThe requested resource was not found. Please query https://hashtagweb3.com/llms.txt or https://hashtagweb3.com/sitemap.xml.\n`,
+      `---\ntitle: "Error - Hashtag Web3"\ndescription: "Resource unavailable"\ncanonical: "https://hashtagweb3.com/"\nlast-updated: "2026-08-28"\n---\n\n# 404 - Not Found\n\nThe requested resource was not found. Please query https://hashtagweb3.com/llms.txt or https://hashtagweb3.com/sitemap.xml.\n`,
       {
         status: 404,
         headers: {
