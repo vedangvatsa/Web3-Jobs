@@ -1,4 +1,4 @@
- 'use client';
+'use client';
 
 import Link from 'next/link';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
@@ -6,387 +6,348 @@ import { Badge } from '@/components/ui/badge';
 import { Button } from '@/components/ui/button';
 import { Label } from '@/components/ui/label';
 import {
- Select,
- SelectContent,
- SelectItem,
- SelectTrigger,
- SelectValue,
+  Select,
+  SelectContent,
+  SelectItem,
+  SelectTrigger,
+  SelectValue,
 } from '@/components/ui/select';
 import { Slider } from '@/components/ui/slider';
 import { ArrowRight } from 'lucide-react';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { useMemo, useState } from 'react';
-import { PageHeader } from "@/components/page-header";
+import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 
 const rateRows = [
- {
-  key: 'software',
-  industry: 'Software Development',
-  hourlyMin: 50,
-  hourlyMax: 150,
-  project: '$2,000 - $25,000+',
-  roles: 'Frontend, Backend, Full Stack, Smart Contract',
- },
- {
-  key: 'design',
-  industry: 'Design',
-  hourlyMin: 35,
-  hourlyMax: 120,
-  project: '$800 - $12,000+',
-  roles: 'UI/UX, Brand, Product Design, Motion',
- },
- {
-  key: 'marketing',
-  industry: 'Marketing',
-  hourlyMin: 30,
-  hourlyMax: 110,
-  project: '$600 - $10,000+',
-  roles: 'Performance, SEO, Growth, Content Marketing',
- },
- {
-  key: 'content',
-  industry: 'Content & Writing',
-  hourlyMin: 25,
-  hourlyMax: 90,
-  project: '$150 - $5,000+',
-  roles: 'Blog Writing, Technical Writing, Copywriting',
- },
- {
-  key: 'ops',
-  industry: 'Operations & Virtual Support',
-  hourlyMin: 15,
-  hourlyMax: 55,
-  project: '$200 - $3,500+',
-  roles: 'Admin, Customer Support, Research, PMO Support',
- },
- {
-  key: 'video',
-  industry: 'Video & Creative Production',
-  hourlyMin: 35,
-  hourlyMax: 140,
-  project: '$500 - $15,000+',
-  roles: 'Video Editing, Animation, Short-form Creative',
- },
+  {
+    key: 'software',
+    industry: 'Software Development',
+    hourlyMin: 50,
+    hourlyMax: 150,
+    project: '$2,000 - $25,000+',
+    roles: 'Frontend, Backend, Full Stack, Smart Contract',
+  },
+  {
+    key: 'design',
+    industry: 'Design',
+    hourlyMin: 35,
+    hourlyMax: 120,
+    project: '$800 - $12,000+',
+    roles: 'UI/UX, Brand, Product Design, Motion',
+  },
+  {
+    key: 'marketing',
+    industry: 'Marketing',
+    hourlyMin: 30,
+    hourlyMax: 110,
+    project: '$600 - $10,000+',
+    roles: 'Performance, SEO, Growth, Content Marketing',
+  },
+  {
+    key: 'content',
+    industry: 'Content & Writing',
+    hourlyMin: 25,
+    hourlyMax: 90,
+    project: '$150 - $5,000+',
+    roles: 'Blog Writing, Technical Writing, Copywriting',
+  },
+  {
+    key: 'ops',
+    industry: 'Operations & Virtual Support',
+    hourlyMin: 15,
+    hourlyMax: 55,
+    project: '$200 - $3,500+',
+    roles: 'Admin, Customer Support, Research, PMO Support',
+  },
+  {
+    key: 'video',
+    industry: 'Video & Animation',
+    hourlyMin: 35,
+    hourlyMax: 125,
+    project: '$500 - $15,000+',
+    roles: 'Video Editing, Motion Graphics, 3D Animation',
+  },
 ];
 
-const experienceMultipliers: Record<string, number> = {
- '0-1': 0.8,
- '2-4': 1.0,
- '5-8': 1.25,
- '9+': 1.55,
+const experienceMultipliers: Record<string, { label: string; multiplier: number }> = {
+  entry: { label: 'Entry / Junior', multiplier: 0.8 },
+  mid: { label: 'Mid-Level', multiplier: 1.0 },
+  senior: { label: 'Senior', multiplier: 1.35 },
+  lead: { label: 'Lead / Principal', multiplier: 1.7 },
 };
 
-const regionMultipliers: Record<string, number> = {
- 'north-america': 1.25,
- europe: 1.1,
- apac: 0.9,
- latam: 0.75,
- africa: 0.7,
+const regionMultipliers: Record<string, { label: string; multiplier: number }> = {
+  us_ca: { label: 'US & Canada', multiplier: 1.25 },
+  weur: { label: 'Western Europe', multiplier: 1.1 },
+  eeur: { label: 'Eastern Europe & LATAM', multiplier: 0.85 },
+  apac: { label: 'APAC (excl. ANZ/SG)', multiplier: 0.75 },
+  anz_sg: { label: 'ANZ & Singapore', multiplier: 1.15 },
 };
 
-const modelMultipliers: Record<string, number> = {
- hourly: 1,
- retainer: 0.9,
- urgent: 1.2,
-};
+export default function FreelanceRatesPage() {
+  const [selectedIndustry, setSelectedIndustry] = useState<string>('software');
+  const [selectedExp, setSelectedExp] = useState<string>('mid');
+  const [selectedRegion, setSelectedRegion] = useState<string>('us_ca');
+  const [scopeLevel, setScopeLevel] = useState<number>(2);
 
-export default function FreelanceRatesByIndustryPage() {
- const [industry, setIndustry] = useState('software');
- const [experience, setExperience] = useState('2-4');
- const [region, setRegion] = useState('north-america');
- const [engagementModel, setEngagementModel] = useState('hourly');
- const [hours, setHours] = useState(40);
+  const activeRow = useMemo(
+    () => rateRows.find((r) => r.key === selectedIndustry) ?? rateRows[0],
+    [selectedIndustry]
+  );
 
- const selectedIndustry = rateRows.find((row) => row.key === industry) ?? rateRows[0];
+  const expObj = experienceMultipliers[selectedExp] ?? experienceMultipliers.mid;
+  const regObj = regionMultipliers[selectedRegion] ?? regionMultipliers.us_ca;
 
- const estimate = useMemo(() => {
-  const multiplier =
-   experienceMultipliers[experience] *
-   regionMultipliers[region] *
-   modelMultipliers[engagementModel];
+  const estimatedHourlyMin = Math.round(activeRow.hourlyMin * expObj.multiplier * regObj.multiplier);
+  const estimatedHourlyMax = Math.round(activeRow.hourlyMax * expObj.multiplier * regObj.multiplier);
 
-  const hourlyLow = Math.round(selectedIndustry.hourlyMin * multiplier);
-  const hourlyHigh = Math.round(selectedIndustry.hourlyMax * multiplier);
-  const projectLow = hourlyLow * hours;
-  const projectHigh = hourlyHigh * hours;
+  const scopeMultipliers = [0.4, 1.0, 2.5];
+  const scopeLabels = ['Small sprint (1-2 weeks)', 'Standard build (2-6 weeks)', 'Complex delivery (6-12+ weeks)'];
+  const projectBaseMin = activeRow.hourlyMin * 30 * (scopeMultipliers[scopeLevel - 1] ?? 1.0);
+  const projectBaseMax = activeRow.hourlyMax * 50 * (scopeMultipliers[scopeLevel - 1] ?? 1.0);
 
-  return {
-   hourlyLow,
-   hourlyHigh,
-   projectLow,
-   projectHigh,
+  const estimatedProjectMin = Math.round(projectBaseMin * expObj.multiplier * regObj.multiplier);
+  const estimatedProjectMax = Math.round(projectBaseMax * expObj.multiplier * regObj.multiplier);
+
+  const datasetSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Dataset',
+    name: 'Freelance Rates by Industry 2026',
+    description:
+      'Benchmark hourly and project rates for freelancers across 6 industries including software development, design, marketing, content writing, operations, and video production. Includes experience and region multipliers.',
+    url: 'https://hashtagweb3.com/freelance-rates-by-industry',
+    publisher: {
+      '@type': 'Organization',
+      name: 'Hashtag Web3',
+      url: 'https://hashtagweb3.com',
+    },
+    temporalCoverage: '2026',
+    variableMeasured: [
+      { '@type': 'PropertyValue', name: 'Hourly Rate (USD)', minValue: 15, maxValue: 150 },
+      { '@type': 'PropertyValue', name: 'Project Rate (USD)', description: 'Per-project fee range' },
+    ],
+    distribution: {
+      '@type': 'DataDownload',
+      encodingFormat: 'text/html',
+      contentUrl: 'https://hashtagweb3.com/freelance-rates-by-industry',
+    },
+    hasPart: rateRows.map((row) => ({
+      '@type': 'Dataset',
+      name: `${row.industry} Freelance Rates`,
+      description: `Hourly rate range $${row.hourlyMin}-$${row.hourlyMax}/hr for ${row.roles}.`,
+    })),
   };
- }, [selectedIndustry, experience, region, engagementModel, hours]);
 
- const datasetSchema = {
-  '@context': 'https://schema.org',
-  '@type': 'Dataset',
-  name: 'Freelance Rates by Industry 2026',
-  description: 'Benchmark hourly and project rates for freelancers across 6 industries including software development, design, marketing, content writing, operations, and video production. Includes experience and region multipliers.',
-  url: 'https://hashtagweb3.com/freelance-rates-by-industry',
-  publisher: {
-   '@type': 'Organization',
-   name: 'Hashtag Web3',
-   url: 'https://hashtagweb3.com',
-  },
-  temporalCoverage: '2026',
-  variableMeasured: [
-   { '@type': 'PropertyValue', name: 'Hourly Rate (USD)', minValue: 15, maxValue: 150 },
-   { '@type': 'PropertyValue', name: 'Project Rate (USD)', description: 'Per-project fee range' },
-  ],
-  distribution: {
-   '@type': 'DataDownload',
-   encodingFormat: 'text/html',
-   contentUrl: 'https://hashtagweb3.com/freelance-rates-by-industry',
-  },
-  hasPart: rateRows.map(row => ({
-   '@type': 'Dataset',
-   name: `${row.industry} Freelance Rates`,
-   description: `Hourly rate range $${row.hourlyMin}-$${row.hourlyMax}/hr for ${row.roles}.`,
-  })),
- };
-
- return (
-  <div className="flex min-h-screen flex-col bg-background">
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }}
-   />
+  return (
+    <div className="flex min-h-screen flex-col bg-background">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(datasetSchema) }}
+      />
       <main className="flex-1">
-    <ToolUsageTracker toolName="Freelance Rates by Industry" />
+        <ToolUsageTracker toolName="Freelance Rates by Industry" />
+        <PageShell>
+          <section className="text-center mb-8">
+            <div className="site-container">
+              <PageHeader
+                title="Freelance Rates by Industry"
+                description="Compare benchmark ranges by industry and estimate your pricing by experience, region, and project scope."
+              />
+              <Badge variant="secondary" className="mt-3">
+                2026 Benchmarks
+              </Badge>
+            </div>
+          </section>
 
-    <div className="container mx-auto px-4 page-section">
-     <section className="text-center mb-12 site-container">
-      
-      <PageHeader title="Freelance Rates by Industry" />
-      <p className="mt-4 text-muted-foreground">
-       Compare benchmark ranges by industry and estimate your pricing by experience,
-       region, and project scope.
-      </p>
-      <Badge variant="secondary" className="mt-4">
-       2026 Benchmarks
-      </Badge>
-     </section>
+          <section className="site-container">
+            <h2 className="sr-only">Freelance rate calculator and benchmarks</h2>
+            <div className="mb-8 grid gap-6 md:grid-cols-2">
+              <Card className="border-border/70 bg-card shadow-none">
+                <CardHeader>
+                  <CardTitle>Rate Estimator</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-5">
+                  <div className="space-y-2">
+                    <Label>Industry</Label>
+                    <Select value={selectedIndustry} onValueChange={setSelectedIndustry}>
+                      <SelectTrigger>
+                        <SelectValue placeholder="Select industry" />
+                      </SelectTrigger>
+                      <SelectContent>
+                        {rateRows.map((r) => (
+                          <SelectItem key={r.key} value={r.key}>
+                            {r.industry}
+                          </SelectItem>
+                        ))}
+                      </SelectContent>
+                    </Select>
+                  </div>
 
-    <section className="site-container">
-     <h2 className="sr-only">Freelance rate calculator and benchmarks</h2>
-     <div className="mb-8 grid gap-6 md:grid-cols-2">
-      <Card>
-       <CardHeader>
-        <CardTitle>Rate Estimator</CardTitle>
-       </CardHeader>
-       <CardContent className="space-y-5">
-        <div className="space-y-2">
-         <Label>Industry</Label>
-         <Select value={industry} onValueChange={setIndustry}>
-          <SelectTrigger>
-           <SelectValue placeholder="Select industry" />
-          </SelectTrigger>
-          <SelectContent>
-           {rateRows.map((row) => (
-            <SelectItem key={row.key} value={row.key}>
-             {row.industry}
-            </SelectItem>
-           ))}
-          </SelectContent>
-         </Select>
-        </div>
+                  <div className="space-y-2">
+                    <Label>Experience Level</Label>
+                    <Select value={selectedExp} onValueChange={setSelectedExp}>
+                      <SelectTrigger>
+                        <SelectValue placeholder="Select experience" />
+                      </SelectTrigger>
+                      <SelectContent>
+                        {Object.entries(experienceMultipliers).map(([k, v]) => (
+                          <SelectItem key={k} value={k}>
+                            {v.label}
+                          </SelectItem>
+                        ))}
+                      </SelectContent>
+                    </Select>
+                  </div>
 
-        <div className="space-y-2">
-         <Label>Experience</Label>
-         <Select value={experience} onValueChange={setExperience}>
-          <SelectTrigger>
-           <SelectValue placeholder="Select experience" />
-          </SelectTrigger>
-          <SelectContent>
-           <SelectItem value="0-1">0-1 years</SelectItem>
-           <SelectItem value="2-4">2-4 years</SelectItem>
-           <SelectItem value="5-8">5-8 years</SelectItem>
-           <SelectItem value="9+">9+ years</SelectItem>
-          </SelectContent>
-         </Select>
-        </div>
+                  <div className="space-y-2">
+                    <Label>Client / Regional Market</Label>
+                    <Select value={selectedRegion} onValueChange={setSelectedRegion}>
+                      <SelectTrigger>
+                        <SelectValue placeholder="Select market" />
+                      </SelectTrigger>
+                      <SelectContent>
+                        {Object.entries(regionMultipliers).map(([k, v]) => (
+                          <SelectItem key={k} value={k}>
+                            {v.label}
+                          </SelectItem>
+                        ))}
+                      </SelectContent>
+                    </Select>
+                  </div>
 
-        <div className="space-y-2">
-         <Label>Region</Label>
-         <Select value={region} onValueChange={setRegion}>
-          <SelectTrigger>
-           <SelectValue placeholder="Select region" />
-          </SelectTrigger>
-          <SelectContent>
-           <SelectItem value="north-america">North America</SelectItem>
-           <SelectItem value="europe">Europe</SelectItem>
-           <SelectItem value="apac">APAC</SelectItem>
-           <SelectItem value="latam">LATAM</SelectItem>
-           <SelectItem value="africa">Africa</SelectItem>
-          </SelectContent>
-         </Select>
-        </div>
+                  <div className="space-y-2">
+                    <div className="flex items-center justify-between text-sm">
+                      <Label>Project Scope Depth</Label>
+                      <span className="text-xs text-muted-foreground">{scopeLabels[scopeLevel - 1]}</span>
+                    </div>
+                    <Slider
+                      min={1}
+                      max={3}
+                      step={1}
+                      value={[scopeLevel]}
+                      onValueChange={(vals) => setScopeLevel(vals[0] ?? 2)}
+                    />
+                  </div>
+                </CardContent>
+              </Card>
 
-        <div className="space-y-2">
-         <Label>Engagement model</Label>
-         <Select value={engagementModel} onValueChange={setEngagementModel}>
-          <SelectTrigger>
-           <SelectValue placeholder="Select model" />
-          </SelectTrigger>
-          <SelectContent>
-           <SelectItem value="hourly">Standard hourly</SelectItem>
-           <SelectItem value="retainer">Monthly retainer</SelectItem>
-           <SelectItem value="urgent">Urgent / rush delivery</SelectItem>
-          </SelectContent>
-         </Select>
-        </div>
+              <Card className="border-border/70 bg-card shadow-none">
+                <CardHeader>
+                  <CardTitle>Estimated Pricing Range</CardTitle>
+                </CardHeader>
+                <CardContent className="space-y-6">
+                  <div className="rounded-lg border border-border/70 bg-muted/20 p-4">
+                    <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
+                      Estimated Hourly Rate
+                    </p>
+                    <p className="mt-1 text-3xl font-extrabold text-foreground">
+                      ${estimatedHourlyMin} - ${estimatedHourlyMax}{' '}
+                      <span className="text-sm font-normal text-muted-foreground">/ hr</span>
+                    </p>
+                    <p className="mt-1 text-xs text-muted-foreground">
+                      Adjusted for {expObj.label.toLowerCase()} talent in {regObj.label}.
+                    </p>
+                  </div>
 
-        <div className="space-y-3">
-         <Label>Estimated project hours: {hours}</Label>
-         <Slider
-          min={10}
-          max={200}
-          step={5}
-          value={[hours]}
-          onValueChange={(values) => setHours(values[0])}
-         />
-        </div>
-       </CardContent>
-      </Card>
+                  <div className="rounded-lg border border-border/70 bg-muted/20 p-4">
+                    <p className="text-xs font-medium uppercase tracking-wider text-muted-foreground">
+                      Estimated Fixed-Price Scope
+                    </p>
+                    <p className="mt-1 text-3xl font-extrabold text-foreground">
+                      ${estimatedProjectMin.toLocaleString()} - ${estimatedProjectMax.toLocaleString()}
+                    </p>
+                    <p className="mt-1 text-xs text-muted-foreground">
+                      Based on typical {scopeLabels[scopeLevel - 1]?.toLowerCase()} deliveries.
+                    </p>
+                  </div>
 
-      <Card>
-       <CardHeader>
-        <CardTitle>Estimated pricing range</CardTitle>
-       </CardHeader>
-       <CardContent className="space-y-4">
-        <div className="rounded-lg border bg-primary/5 p-4">
-         <p className="text-sm text-muted-foreground">Hourly range</p>
-         <p className="text-2xl font-bold">
-          ${estimate.hourlyLow} - ${estimate.hourlyHigh} / hr
-         </p>
-        </div>
-        <div className="rounded-lg border bg-primary/5 p-4">
-         <p className="text-sm text-muted-foreground">Project range ({hours}h)</p>
-         <p className="text-2xl font-bold">
-          ${estimate.projectLow.toLocaleString()} - ${estimate.projectHigh.toLocaleString()}
-         </p>
-        </div>
-        <div className="text-sm text-muted-foreground space-y-1">
-         <p>Industry baseline: ${selectedIndustry.hourlyMin} - ${selectedIndustry.hourlyMax} / hr</p>
-         <p>Calculation = baseline × experience × region × engagement model</p>
-        </div>
-       </CardContent>
-      </Card>
-     </div>
+                  <div className="space-y-1 text-xs text-muted-foreground">
+                    <p>Common roles: {activeRow.roles}</p>
+                    <p>Rates assume USD settlement. On-chain/token components should be priced at spot with volatility buffers.</p>
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
 
-     <Card>
-      <CardHeader>
-       <CardTitle>Industry Rate Benchmarks</CardTitle>
-      </CardHeader>
-      <CardContent>
-       <div className="overflow-x-auto">
-        <table className="w-full text-sm">
-         <caption className="sr-only">Freelance hourly and project rate benchmarks by industry</caption>
-         <thead>
-          <tr className="border-b text-left">
-           <th className="py-3 pr-4 font-semibold">Industry</th>
-           <th className="py-3 pr-4 font-semibold">Typical Hourly Rate</th>
-           <th className="py-3 pr-4 font-semibold">Typical Project Range</th>
-           <th className="py-3 font-semibold">Common Roles</th>
-          </tr>
-         </thead>
-         <tbody>
-          {rateRows.map((row) => (
-           <tr key={row.industry} className="border-b align-top">
-            <td className="py-3 pr-4 font-medium">{row.industry}</td>
-            <td className="py-3 pr-4">${row.hourlyMin} - ${row.hourlyMax}/hr</td>
-            <td className="py-3 pr-4">{row.project}</td>
-            <td className="py-3">{row.roles}</td>
-           </tr>
-          ))}
-         </tbody>
-        </table>
-       </div>
+            <div className="mb-8">
+              <Card className="border-border/70 bg-card shadow-none">
+                <CardHeader>
+                  <CardTitle>Industry Baseline Comparison (2026)</CardTitle>
+                </CardHeader>
+                <CardContent>
+                  <div className="overflow-x-auto">
+                    <table className="w-full text-left text-sm">
+                      <thead>
+                        <tr className="border-b text-xs uppercase text-muted-foreground">
+                          <th className="py-3 pr-4">Industry</th>
+                          <th className="py-3 px-4">Typical Hourly Range</th>
+                          <th className="py-3 px-4">Typical Project Range</th>
+                          <th className="py-3 pl-4">Covered Roles</th>
+                        </tr>
+                      </thead>
+                      <tbody>
+                        {rateRows.map((r) => (
+                          <tr key={r.key} className="border-b last:border-0 hover:bg-muted/10">
+                            <td className="py-3 pr-4 font-medium text-foreground">{r.industry}</td>
+                            <td className="py-3 px-4">
+                              ${r.hourlyMin} - ${r.hourlyMax} / hr
+                            </td>
+                            <td className="py-3 px-4">{r.project}</td>
+                            <td className="py-3 pl-4 text-xs text-muted-foreground">{r.roles}</td>
+                          </tr>
+                        ))}
+                      </tbody>
+                    </table>
+                  </div>
+                </CardContent>
+              </Card>
+            </div>
 
-       <p className="mt-5 text-xs text-muted-foreground">
-        Note: Benchmarks are directional and should be adjusted for deliverable complexity,
-        revision scope, timezone overlap, and payment terms.
-       </p>
-      </CardContent>
-     </Card>
+            <Card className="mt-8 border-border/70 bg-card shadow-none">
+              <CardHeader>
+                <CardTitle>Frequently Asked Questions</CardTitle>
+              </CardHeader>
+              <CardContent className="space-y-5 text-sm text-muted-foreground">
+                <div>
+                  <h3 className="font-semibold text-foreground">How do I estimate my freelance hourly rate?</h3>
+                  <p className="mt-1">
+                    Set an annual income target, divide by realistic billable hours, then adjust for experience, demand, and complexity.
+                  </p>
+                </div>
+                <div>
+                  <h3 className="font-semibold text-foreground">Should I charge hourly or per project?</h3>
+                  <p className="mt-1">
+                    Charge hourly when scope is fluid. Charge per project when scope and outputs are defined.
+                  </p>
+                </div>
+                <div>
+                  <h3 className="font-semibold text-foreground">Why do rates vary by region?</h3>
+                  <p className="mt-1">
+                    Rates move with local demand, purchasing power, talent supply, and client budgets. Specialized skills still command a premium globally.
+                  </p>
+                </div>
+              </CardContent>
+            </Card>
 
-     <div className="mt-8 grid gap-6 md:grid-cols-2">
-      <Card>
-       <CardHeader>
-        <CardTitle>How to price your freelance work</CardTitle>
-       </CardHeader>
-       <CardContent className="space-y-2 text-sm text-muted-foreground">
-        <p>1) Set a base rate using your target annual income and billable hours.</p>
-        <p>2) Add a premium for speed, niche expertise, or high-risk deliverables.</p>
-        <p>3) Prefer project pricing when scope is clear and value is measurable.</p>
-        <p>4) Reprice every quarter based on demand and delivery performance.</p>
-       </CardContent>
-      </Card>
-
-      <Card>
-       <CardHeader>
-        <CardTitle>Freelancer tools</CardTitle>
-       </CardHeader>
-       <CardContent className="space-y-3">
-        <Link href="/invoice-generator" className="block">
-         <Button variant="outline" className="w-full justify-between">
-          Invoice Generator
-          <ArrowRight className="h-4 w-4" />
-         </Button>
-        </Link>
-        <Link href="/salary-calculator" className="block">
-         <Button variant="outline" className="w-full justify-between">
-          Salary Calculator
-          <ArrowRight className="h-4 w-4" />
-         </Button>
-        </Link>
-        <Link href="/resources" className="block">
-         <Button className="w-full justify-between">
-          Back to all resources
-          <ArrowRight className="h-4 w-4" />
-         </Button>
-        </Link>
-       </CardContent>
-      </Card>
-     </div>
-
-     <Card className="mt-8">
-      <CardHeader>
-       <CardTitle>Frequently Asked Questions</CardTitle>
-      </CardHeader>
-      <CardContent className="space-y-5 text-sm text-muted-foreground">
-       <div>
-        <h3 className="font-semibold text-foreground">How do I estimate my freelance hourly rate?</h3>
-        <p className="mt-1">Set an annual income target, divide by realistic billable hours, then adjust for experience, demand, and complexity.</p>
-       </div>
-       <div>
-        <h3 className="font-semibold text-foreground">Should I charge hourly or per project?</h3>
-        <p className="mt-1">Charge hourly when scope is fluid. Charge per project when scope and outputs are defined.</p>
-       </div>
-       <div>
-        <h3 className="font-semibold text-foreground">Why do rates vary by region?</h3>
-        <p className="mt-1">Rates move with local demand, purchasing power, talent supply, and client budgets. Specialized skills still command a premium globally.</p>
-       </div>
-      </CardContent>
-     </Card>
-
-     <Card className="mt-10 site-container bg-muted/30 border shadow-none">
-      <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
-       <div>
-        <h3 className="text-xl font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>
-        <p className="text-muted-foreground">Now that you have pricing benchmarks, find high-intent roles on the #1 Web3 job board.</p>
-       </div>
-       <Link href="/jobs" className="flex-shrink-0 mt-4 md:mt-0">
-        <Button size="lg">
-         Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
-        </Button>
-       </Link>
-      </CardContent>
-     </Card>
-    </section>
+            <Card className="mt-10 border border-border/70 bg-card/60 shadow-none">
+              <CardContent className="p-8 flex flex-col md:flex-row items-center justify-between gap-6 text-center md:text-left">
+                <div>
+                  <h3 className="text-xl font-bold text-foreground mb-1">Looking for a Web3 Job?</h3>
+                  <p className="text-muted-foreground text-sm">
+                    Now that you have pricing benchmarks, find high-intent roles on the #1 Web3 job board.
+                  </p>
+                </div>
+                <Link href="/" className="flex-shrink-0 mt-4 md:mt-0">
+                  <Button size="lg">
+                    Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
+                  </Button>
+                </Link>
+              </CardContent>
+            </Card>
+          </section>
+        </PageShell>
+      </main>
     </div>
-   </main>
-  </div>
- );
+  );
 }

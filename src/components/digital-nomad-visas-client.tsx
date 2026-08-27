@@ -10,10 +10,11 @@ import type { DigitalNomadVisa } from '@/types';
 import { visaData } from '@/lib/visas';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { CtaBanner } from '@/components/cta-banner';
+import { PageHeader } from '@/components/page-header';
 
 function VisaCard({ visa }: { visa: DigitalNomadVisa }) {
   return (
-    <Card className="flex flex-col h-full bg-card border-border hover:border-primary/40 transition-colors">
+    <Card className="flex flex-col h-full bg-card border-border/70 shadow-none hover:border-foreground/25 transition-colors">
       <CardHeader className="flex flex-row items-start justify-between pb-3">
         <div className="flex items-center gap-3">
           <span className="text-3xl" aria-hidden="true">{getFlagEmoji(visa.country)}</span>
@@ -161,10 +162,11 @@ export function DigitalNomadVisasContent() {
   return (
     <div className="site-container">
       <ToolUsageTracker toolName="Digital Nomad Visas" />
-      <section className="text-center mb-12 site-container">
-        <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">
-          Work From Anywhere Visa List
-        </h1>
+      <section className="text-center mb-8 site-container">
+        <PageHeader
+          title="Digital Nomad Visas"
+          description="Explore countries offering remote work and digital nomad visas for Web3 builders and creators."
+        />
       </section>
 
       <Card className="p-4 mb-8 sticky top-20 z-10 shadow-sm bg-background">

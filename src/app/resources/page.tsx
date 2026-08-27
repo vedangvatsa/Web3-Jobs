@@ -7,6 +7,7 @@ import { getAllResourcePages } from '@/lib/pseo';
 import { Metadata } from 'next';
 import type { ResourcePage } from '@/types/pseo';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 import { EMPLOYEE_RESOURCES, EMPLOYER_RESOURCES } from '@/lib/nav-config';
 
 export const metadata: Metadata = {
@@ -52,7 +53,7 @@ function ToolCard({
 }) {
   return (
     <Link href={href} className="group block h-full">
-      <div className="h-full rounded-lg border border-border bg-card p-4 hover:border-primary/50 hover:bg-muted/20 transition-colors flex flex-col justify-between">
+      <Card className="h-full border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors p-4 flex flex-col justify-between">
         <div>
           <h3 className="font-semibold text-sm text-foreground group-hover:text-primary transition-colors mb-1">
             {label}
@@ -61,7 +62,7 @@ function ToolCard({
             <p className="text-xs text-muted-foreground leading-relaxed">{description}</p>
           )}
         </div>
-      </div>
+      </Card>
     </Link>
   );
 }
@@ -70,7 +71,7 @@ function NicheGroup({ niche, pages }: { niche: string; pages: ResourcePage[] }) 
   const label =
     nicheLabels[niche] ?? niche.replace(/-/g, ' ').replace(/\b\w/g, (c) => c.toUpperCase());
   return (
-    <div className="rounded-lg border border-border bg-card p-5 space-y-3">
+    <Card className="border-border/70 bg-card shadow-none p-5 space-y-3">
       <div className="flex items-center justify-between border-b border-border/50 pb-2">
         <h3 className="font-semibold text-sm text-foreground">{label}</h3>
         <Badge variant="outline" className="text-[10px] font-mono">
@@ -104,7 +105,7 @@ function NicheGroup({ niche, pages }: { niche: string; pages: ResourcePage[] }) 
           );
         })}
       </ul>
-    </div>
+    </Card>
   );
 }
 
@@ -125,87 +126,88 @@ export default function ResourcesPage() {
   return (
     <div className="flex flex-col min-h-screen bg-background text-foreground">
       <main className="flex-1">
-        {/* Hero Section */}
-        <section className="border-b border-border bg-card/30">
-          <div className="container mx-auto px-4 py-10 md:py-14 max-w-6xl">
-            <PageHeader
-              title="Web3 Career Resources & Tools"
-              description="Free calculators, interview kits, and role-specific guides for Web3 professionals and decentralized teams."
-            />
-          </div>
-        </section>
-
-        <div className="container mx-auto px-4 py-12 max-w-6xl space-y-16">
-          {/* For Job Seekers */}
-          <section>
-            <div className="mb-6">
-              <h2 className="text-xl font-bold tracking-tight text-foreground mb-1">
-                Career Tools for Job Seekers
-              </h2>
-              <p className="text-sm text-muted-foreground">
-                Benchmark rates, evaluate compensation, build resumes, and prepare for technical interviews.
-              </p>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
-              {EMPLOYEE_RESOURCES.map((tool) => (
-                <ToolCard key={tool.label} {...tool} />
-              ))}
+        <PageShell>
+          <section className="text-center mb-8">
+            <div className="site-container">
+              <PageHeader
+                title="Web3 Career Resources & Tools"
+                description="Free calculators, interview kits, and role-specific guides for Web3 professionals and decentralized teams."
+              />
             </div>
           </section>
 
-          {/* For Hiring Teams */}
-          <section>
-            <div className="mb-6">
-              <h2 className="text-xl font-bold tracking-tight text-foreground mb-1">
-                Templates for Hiring Teams
-              </h2>
-              <p className="text-sm text-muted-foreground">
-                Standardize recruitment, structured feedback, milestone tracking, and onboarding.
-              </p>
-            </div>
-            <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
-              {EMPLOYER_RESOURCES.map((tool) => (
-                <ToolCard key={tool.label} {...tool} />
-              ))}
-            </div>
-          </section>
-
-          {/* Role-Specific Resources */}
-          {sortedNiches.length > 0 && (
+          <div className="site-container space-y-12">
+            {/* For Job Seekers */}
             <section>
-              <div className="mb-6">
-                <h2 className="text-xl font-bold tracking-tight text-foreground mb-1">
-                  Guides & Checklists by Role
+              <div className="mb-4">
+                <h2 className="text-lg font-bold tracking-tight text-foreground mb-0.5">
+                  Career Tools for Job Seekers
                 </h2>
-                <p className="text-sm text-muted-foreground">
-                  In-depth architectural patterns, project ideas, and checklists categorized by specialization.
+                <p className="text-xs text-muted-foreground">
+                  Benchmark rates, evaluate compensation, build resumes, and prepare for technical interviews.
                 </p>
               </div>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
-                {sortedNiches.map(([niche, pages]) => (
-                  <NicheGroup key={niche} niche={niche} pages={pages} />
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
+                {EMPLOYEE_RESOURCES.map((tool) => (
+                  <ToolCard key={tool.label} {...tool} />
                 ))}
               </div>
             </section>
-          )}
 
-          {/* Call to Action */}
-          <div className="p-6 sm:p-8 rounded-xl border border-border bg-muted/20 flex flex-col sm:flex-row items-center justify-between gap-6 text-center sm:text-left">
-            <div>
-              <h3 className="text-base sm:text-lg font-bold text-foreground">
-                Ready to Join a Web3 Team?
-              </h3>
-              <p className="text-xs sm:text-sm text-muted-foreground mt-1">
-                Browse verified engineering, product, and growth openings across top protocols.
-              </p>
+            {/* For Hiring Teams */}
+            <section>
+              <div className="mb-4">
+                <h2 className="text-lg font-bold tracking-tight text-foreground mb-0.5">
+                  Templates for Hiring Teams
+                </h2>
+                <p className="text-xs text-muted-foreground">
+                  Standardize recruitment, structured feedback, milestone tracking, and onboarding.
+                </p>
+              </div>
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
+                {EMPLOYER_RESOURCES.map((tool) => (
+                  <ToolCard key={tool.label} {...tool} />
+                ))}
+              </div>
+            </section>
+
+            {/* Role-Specific Resources */}
+            {sortedNiches.length > 0 && (
+              <section>
+                <div className="mb-4">
+                  <h2 className="text-lg font-bold tracking-tight text-foreground mb-0.5">
+                    Guides & Checklists by Role
+                  </h2>
+                  <p className="text-xs text-muted-foreground">
+                    In-depth architectural patterns, project ideas, and checklists categorized by specialization.
+                  </p>
+                </div>
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                  {sortedNiches.map(([niche, pages]) => (
+                    <NicheGroup key={niche} niche={niche} pages={pages} />
+                  ))}
+                </div>
+              </section>
+            )}
+
+            {/* Call to Action */}
+            <div className="p-6 sm:p-8 rounded-xl border border-border/70 bg-card/60 flex flex-col sm:flex-row items-center justify-between gap-6 text-center sm:text-left">
+              <div>
+                <h3 className="text-base sm:text-lg font-bold text-foreground">
+                  Ready to Join a Web3 Team?
+                </h3>
+                <p className="text-xs sm:text-sm text-muted-foreground mt-1">
+                  Browse verified engineering, product, and growth openings across top protocols.
+                </p>
+              </div>
+              <Link href="/" className="shrink-0">
+                <Button size="default">
+                  Explore Jobs <ArrowRight className="ml-1.5 h-4 w-4" />
+                </Button>
+              </Link>
             </div>
-            <Link href="/jobs" className="shrink-0">
-              <Button size="default">
-                Explore Jobs <ArrowRight className="ml-1.5 h-4 w-4" />
-              </Button>
-            </Link>
           </div>
-        </div>
+        </PageShell>
       </main>
     </div>
   );
