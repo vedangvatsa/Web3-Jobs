@@ -8,6 +8,7 @@ import { ArrowRight } from 'lucide-react';
 import Link from 'next/link';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { PageHeader } from '@/components/page-header';
+import { PageShell } from '@/components/page-shell';
 import { CtaBanner } from '@/components/cta-banner';
 
 const checklistData = {
@@ -78,27 +79,29 @@ export default function EmployeeOnboardingChecklistPage() {
     <div className="flex flex-col min-h-screen">
       <main className="flex-1">
         <ToolUsageTracker toolName="Employee Onboarding Checklist" />
-        <div className="container mx-auto px-4 page-section">
-          <section className="text-center mb-12 site-container">
-            <PageHeader title="Web3 Onboarding Checklist" />
-            <p className="mt-4 text-muted-foreground">
-              A practical onboarding checklist for Web3 teams, from pre-boarding to 90-day execution.
-            </p>
+        <PageShell>
+          <section className="text-center mb-8">
+            <div className="site-container">
+              <PageHeader
+                title="Web3 Onboarding Checklist"
+                description="A practical onboarding checklist for Web3 teams, from pre-boarding to 90-day execution."
+              />
+            </div>
           </section>
 
           <div className="site-container space-y-8">
-            <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
-              {checklistData.sections.map((section, sectionIndex) => (
-                <Card key={section.title} className="flex flex-col bg-card">
+            <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
+              {checklistData.sections.map((section) => (
+                <Card key={section.title} className="flex flex-col border-border/70 bg-card shadow-none">
                   <CardHeader>
-                    <CardTitle>{section.title}</CardTitle>
+                    <CardTitle className="text-base">{section.title}</CardTitle>
                   </CardHeader>
                   <CardContent className="flex-grow">
-                    <div className="space-y-2">
+                    <div className="space-y-1.5">
                       {section.items.map((item, itemIndex) => (
                         <ChecklistItem
                           key={itemIndex}
-                          id={`item-${sectionIndex}-${itemIndex}`}
+                          id={`item-${section.title}-${itemIndex}`}
                           label={item}
                         />
                       ))}
@@ -115,14 +118,14 @@ export default function EmployeeOnboardingChecklistPage() {
               className="col-span-full"
             />
 
-            <div className="text-center pt-8">
-              <p className="text-muted-foreground text-sm">Find this checklist useful?</p>
-              <Link href="/blog" className="text-primary font-semibold hover:underline">
-                Explore our Web3 Playbook for more resources <ArrowRight className="inline h-4 w-4" />
+            <div className="text-center pt-4">
+              <p className="text-muted-foreground text-xs">Find this checklist useful?</p>
+              <Link href="/blog" className="text-primary text-xs font-semibold hover:underline">
+                Explore our Web3 Playbook for more resources <ArrowRight className="inline h-3.5 w-3.5" />
               </Link>
             </div>
           </div>
-        </div>
+        </PageShell>
       </main>
     </div>
   );

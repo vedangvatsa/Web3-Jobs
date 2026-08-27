@@ -11,8 +11,8 @@ import { Label } from '@/components/ui/label';
 import { Textarea } from '@/components/ui/textarea';
 import { Download } from 'lucide-react';
 import { useToast } from '@/hooks/use-toast';
-import { Slider } from './ui/slider';
-import { RadioGroup, RadioGroupItem } from './ui/radio-group';
+import { Slider } from '@/components/ui/slider';
+import { RadioGroup, RadioGroupItem } from '@/components/ui/radio-group';
 import { CtaBanner } from '@/components/cta-banner';
 import {
   createPdfInstance,

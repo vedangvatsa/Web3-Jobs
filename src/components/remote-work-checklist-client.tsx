@@ -10,6 +10,7 @@ import { useToast } from '@/hooks/use-toast';
 import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
 import { CtaBanner } from '@/components/cta-banner';
 import { createPdfInstance } from '@/lib/pdf-utils';
+import { PageHeader } from '@/components/page-header';
 
 const checklistData = {
   sections: [
@@ -186,19 +187,20 @@ export function RemoteWorkChecklistClient() {
   return (
     <div className="site-container space-y-8">
       <ToolUsageTracker toolName="Remote Work Checklist" />
-      <section className="text-center mb-12 site-container">
-        <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">
-          Remote Work Readiness Checklist
-        </h1>
-        <Button onClick={handleDownloadPdf} className="mt-6">
+      <section className="text-center mb-8 site-container">
+        <PageHeader
+          title="Remote Work Readiness Checklist"
+          description="Optimize your workspace, digital security, communication tools, and workflow for peak productivity."
+        />
+        <Button onClick={handleDownloadPdf} className="mt-4">
           <Download className="mr-2 h-4 w-4" />
           Download as PDF
         </Button>
       </section>
 
-      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
+      <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
         {checklistData.sections.map((section, sectionIndex) => (
-          <Card key={section.title} className="flex flex-col">
+          <Card key={section.title} className="flex flex-col border-border/70 bg-card shadow-none">
             <CardHeader>
               <CardTitle>{section.title}</CardTitle>
             </CardHeader>
