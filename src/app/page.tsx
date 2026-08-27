@@ -43,21 +43,36 @@ export default async function JobsPage() {
   ],
  };
 
- return (
-  <>
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
-   />
-   <div className="flex flex-col min-h-screen">
-        <main className="flex-1">
-     <PageShell>
-       <section className="text-center mb-8">
-         <div className="site-container">
-           <PageHeader title="Find Your Next Web3 Job" />
-         </div>
-       </section>
-        <section className="site-container">
+  return (
+   <>
+    <script
+     type="application/ld+json"
+     dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
+    />
+    <div className="flex flex-col min-h-screen">
+         <main className="flex-1">
+       <PageShell>
+         <section className="text-center mb-8">
+           <div className="site-container">
+             <PageHeader title="Find Your Next Web3 Job" />
+           </div>
+         </section>
+         {/* SSR-only agentic content: invisible to sighted users, visible to crawlers without JS */}
+         <section className="sr-only" aria-hidden="false">
+           <h2>Explore Verified Web3 Jobs by Role and Technology</h2>
+           <p>
+             Hashtag Web3 indexes thousands of verified Web3 jobs across Solidity, Rust, smart contracts, zero-knowledge proofs, DeFi, DAOs, and crypto marketing. Every listing is verified against the original employer posting and refreshed every five minutes via our public REST API at https://hashtagweb3.com/api/v1/jobs. Search by keyword, technology tag, company, or location, and paginate with limit and offset. Our job board serves engineers, auditors, product managers, designers, and community builders seeking remote and on-site roles at leading Web3 startups, L2 teams, and DAOs. Trusted by 60,000+ professionals, the platform surfaces salary benchmarks, hiring trends, and company directories without requiring authentication for read access.
+           </p>
+           <h2>Top Web3 Companies Hiring Now</h2>
+           <p>
+             Discover employers actively hiring in Web3, from L1 foundations and DeFi protocols to custody, analytics, and infrastructure providers. Browse 200+ companies with open position counts, locations, and direct application links. Each company page aggregates live openings, verification dates, and structured JobPosting data for AI agents.
+           </p>
+           <h3>How Hashtag Web3 Verifies Every Listing</h3>
+           <p>
+             Listings are sourced from Greenhouse, Lever, Ashby, and first-party career pages, deduplicated by canonical link, and checked for substance before indexing. Substantial postings retain full verified descriptions; thin postings are marked noindex. All data is available as JSON-LD, RSS, and via the Agent Skill at https://hashtagweb3.com/.well-known/agent-skills/index.json.
+           </p>
+         </section>
+        <article className="site-container">
           <TrustedBy />
           <div className="text-center my-4 space-y-2">
             <Link
@@ -75,11 +90,11 @@ export default async function JobsPage() {
            initialTotal={allJobs.length}
            companyLogos={companyLogos}
           />
-        </section>
-     </PageShell>
-    </main>
-   </div>
+        </article>
+      </PageShell>
+     </main>
+    </div>
 
-  </>
- );
+   </>
+  );
 }

@@ -47,6 +47,40 @@ export async function POST(request: Request) {
   const params = (body.params as Record<string, unknown>) || {};
   const id = body.id ?? null;
 
+  // initialize — MCP spec 2024-11-05 / 2025-03-26 handshake
+  if (method === 'initialize') {
+    const clientVersion = (params as any)?.protocolVersion || '2024-11-05';
+    return NextResponse.json({
+      jsonrpc: '2.0',
+      id,
+      result: {
+        protocolVersion: clientVersion,
+        capabilities: {
+          tools: { listChanged: false },
+          resources: { subscribe: false, listChanged: false },
+        },
+        serverInfo: {
+          name: 'hashtagweb3-mcp-server',
+          version: '1.0.0',
+        },
+        instructions: 'Hashtag Web3 MCP server. Use search_jobs for Web3 jobs, search_glossary for definitions, get_news for headlines, get_events for conferences.',
+      },
+    }, {
+      headers: {
+        'Content-Type': 'application/json',
+        'MCP-Protocol-Version': clientVersion,
+      },
+    });
+  }
+
+  if (method === 'notifications/initialized' || method === 'initialized') {
+    return new NextResponse(null, { status: 202 });
+  }
+
+  if (method === 'ping') {
+    return NextResponse.json({ jsonrpc: '2.0', id, result: {} });
+  }
+
   // tools/list — return available tools with _meta.ui.resourceUri for MCP Apps
   if (method === 'tools/list') {
     return NextResponse.json({
