@@ -93,6 +93,44 @@ export default function DevelopersPage() {
               </div>
             </section>
 
+            {/* Sandbox & Zero-Auth Testing Environment */}
+            <section className="bg-muted/30 border border-border/70 rounded-2xl p-6 sm:p-8 space-y-4">
+              <div className="flex items-center gap-3">
+                <Shield className="h-6 w-6 text-primary" />
+                <h2 className="text-xl sm:text-2xl font-bold text-foreground">Hashtag Web3 Sandbox &amp; Test Environment</h2>
+              </div>
+              <p className="text-sm text-muted-foreground leading-relaxed max-w-3xl">
+                Hashtag Web3 provides a zero-auth, zero-friction Sandbox and testing environment for AI agents and developers. 
+                Test integrations safely against mock payloads without touching production databases or consuming rate limits.
+              </p>
+              <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-4 gap-4 pt-2">
+                <div className="p-4 border border-border/70 rounded-xl bg-card">
+                  <h3 className="font-semibold text-sm mb-1">Sandbox Base URL</h3>
+                  <a href="/api/sandbox" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    /api/sandbox
+                  </a>
+                </div>
+                <div className="p-4 border border-border/70 rounded-xl bg-card">
+                  <h3 className="font-semibold text-sm mb-1">Instant Sandbox Key</h3>
+                  <a href="/api/sandbox/auth/register" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    /api/sandbox/auth/register
+                  </a>
+                </div>
+                <div className="p-4 border border-border/70 rounded-xl bg-card">
+                  <h3 className="font-semibold text-sm mb-1">Zero-Auth Jobs</h3>
+                  <a href="/api/sandbox/jobs" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    /api/sandbox/jobs
+                  </a>
+                </div>
+                <div className="p-4 border border-border/70 rounded-xl bg-card">
+                  <h3 className="font-semibold text-sm mb-1">Echo Test Probe</h3>
+                  <a href="/api/sandbox/echo" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono">
+                    /api/sandbox/echo
+                  </a>
+                </div>
+              </div>
+            </section>
+
             {/* Agent Platform Configurations & Public Repository */}
             <section className="bg-muted/30 border rounded-2xl p-6 sm:p-8 space-y-4">
               <div className="flex items-center gap-3">
