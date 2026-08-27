@@ -179,28 +179,30 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             />
             <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
           </div>
-          <select
-            value={countryFilter || ''}
-            onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-            className="h-11 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer"
-            aria-label="Filter by location"
-          >
-            <option value="">All Locations</option>
-            {countries.map(c => (
-              <option key={c} value={c}>{c}</option>
-            ))}
-          </select>
-          <select
-            value={dateFilter || ''}
-            onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-            className="h-11 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer"
-            aria-label="Filter by date"
-          >
-            <option value="">All Dates</option>
-            {DATE_RANGES.map(r => (
-              <option key={r.value} value={r.value}>{r.label}</option>
-            ))}
-          </select>
+          <div className="grid grid-cols-2 gap-3 sm:flex sm:gap-3">
+            <select
+              value={countryFilter || ''}
+              onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
+              className="h-11 w-full sm:w-auto px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
+              aria-label="Filter by location"
+            >
+              <option value="">All Locations</option>
+              {countries.map(c => (
+                <option key={c} value={c}>{c}</option>
+              ))}
+            </select>
+            <select
+              value={dateFilter || ''}
+              onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
+              className="h-11 w-full sm:w-auto px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
+              aria-label="Filter by date"
+            >
+              <option value="">All Dates</option>
+              {DATE_RANGES.map(r => (
+                <option key={r.value} value={r.value}>{r.label}</option>
+              ))}
+            </select>
+          </div>
         </div>
         {isSearching && (
           <p className="mt-2 text-sm text-muted-foreground" aria-live="polite">
