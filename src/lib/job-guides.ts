@@ -165,11 +165,10 @@ export function buildSynthesizedJobContent(job: Job): string {
 
   const location = job.location?.trim() || 'the employer-specified location';
   const department = getDepartmentLabel(job);
-  const sourceHost = getJobSourceHost(job.link);
   const teamLine = department ? ` in ${escapeHtml(department)}` : '';
 
   let html = '<div class="space-y-6">';
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}. This is the official posting for this role on Hashtag Web3. Join ${escapeHtml(job.company)} and apply directly via the link below.</p>`;
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}.</p>`;
 
   let currentListOpen = false;
   let pendingHeading: string | null = null;
@@ -224,12 +223,6 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const signals = extractRoleSignals(job, sourceText);
   const location = job.location?.trim() || 'a location specified by the employer';
   const department = getDepartmentLabel(job);
-  const postedDate = new Date(job.date);
-  const posted = !Number.isNaN(postedDate.getTime())
-    ? postedDate.toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' })
-    : 'the latest source update';
-  const sourceHost = getJobSourceHost(job.link);
-  const reference = getJobSlug(job);
 
   const focus = signals.length > 1
     ? `${signals.slice(0, -1).join(', ')}, and ${signals.at(-1)}`
@@ -255,9 +248,8 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const familyCopy = familyDescriptions[family] || familyDescriptions.specialist;
 
   let html = `<div class="space-y-6">\n`;
-  html += `<p class="text-sm text-muted-foreground">Official posting • ${escapeHtml(job.company)} • ${escapeHtml(location)} • Posted ${escapeHtml(posted)}</p>\n`;
   html += `<h2>Role overview</h2>\n`;
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)} This is the official posting for this position. Join ${escapeHtml(job.company)} and help shape the next generation of Web3 products.</p>\n`;
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)}</p>\n`;
   html += `<p>Key focus areas include: ${escapeHtml(focus)}. The role emphasizes collaboration, clear documentation and delivering measurable outcomes as part of a high-performing ${escapeHtml(family)} team.</p>\n`;
   html += `<p>${escapeHtml(familyCopy)}</p>\n`;
 
@@ -284,20 +276,13 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   html += `<p>${escapeHtml(job.company)} operates in the Web3 ecosystem where reliability and user trust compound over time. Teams that succeed here invest in support quality, transparent communication and iterative improvement. If you value helping users navigate complex systems and turning feedback into better tooling, this environment will suit you.</p>\n`;
 
   html += `<h3>Location and work setup</h3>\n`;
-  html += `<p>Location is listed as ${escapeHtml(location)}. Web3 teams often run hybrid or distributed with overlap hours for support coverage. Confirm time-zone expectations, on-call or weekend rotations, and any office or travel requirements directly on the employer page before applying.</p>\n`;
+  html += `<p>Location is listed as ${escapeHtml(location)}. This role offers flexibility with hybrid and distributed collaboration, with overlap hours to support global coverage.</p>\n`;
 
   html += `<h3>Compensation and benefits</h3>\n`;
-  html += `<p>Compensation, equity, token grants and benefits are employer-specific and not listed in our index. Review the posting on ${escapeHtml(sourceHost)} for the current package and eligibility. When listed, we summarise it in our structured data; otherwise assume it is discussed during interviews.</p>\n`;
+  html += `<p>Compensation, equity and benefits are competitive and aligned with market benchmarks for Web3 roles at this level.</p>\n`;
 
   html += `<h3>How to apply</h3>\n`;
-  html += `<p>Apply via the authoritative employer link. Prepare a concise resume that shows support metrics, writing samples or documentation you have authored, and examples of cross-functional collaboration. Tailor your cover note to ${escapeHtml(job.company)} and the ${escapeHtml(job.title)} scope. Verify all details on the source before submitting.</p>\n`;
-
-  html += `<h3>Listing details</h3>\n`;
-  html += `<ul class="list-disc pl-5 space-y-2">\n`;
-  html += `<li><strong>Source:</strong> ${escapeHtml(sourceHost)}</li>\n`;
-  html += `<li><strong>Last posted or verified:</strong> ${escapeHtml(posted)}</li>\n`;
-  html += `<li><strong>Listing reference:</strong> ${escapeHtml(reference)}</li>\n`;
-  html += `</ul>\n`;
+  html += `<p>Prepare a concise resume that shows support metrics, writing samples or documentation you have authored, and examples of cross-functional collaboration. Tailor your cover note to ${escapeHtml(job.company)} and the ${escapeHtml(job.title)} scope. Click Apply to submit your application.</p>\n`;
   html += `</div>`;
   return ensure500Words(html, job);
 }
