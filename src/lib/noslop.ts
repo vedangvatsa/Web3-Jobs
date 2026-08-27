@@ -19,6 +19,10 @@ const PUNCT_REPLACEMENTS: Array<[RegExp, string]> = [
   [/\u200B|\u200C|\u200D|\uFEFF/g, ''], // zero-width
 ];
 
+// Emoji ranges - strip all pictographic symbols for clean job publishing
+const EMOJI_RE = /[\u{1F300}-\u{1F9FF}\u{2600}-\u{27BF}\u2300-\u23FF\u2B50\u2700-\u27BF\u{1FA70}-\u{1FAFF}]/gu;
+const EMOJI_VARIATION_RE = /[\uFE0F\u200D]/g;
+
 /** Soft AI/marketing filler phrases we strip only in our own copy helpers */
 const FILLER_PHRASES: Array<[RegExp, string]> = [
   [/\bIn today'?s fast[- ]paced (?:digital )?world,?\s*/gi, ''],
@@ -58,6 +62,8 @@ export function cleanPublishText(
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
     s = s.replace(re, rep);
   }
+  // Strip emojis for noslop job pages
+  s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
   // HTML entity forms that often sneak into scraped JDs
   s = s
@@ -116,6 +122,7 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
     s = s.replace(re, rep);
   }
+  s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
   // Tighten double spaces
   s = s.replace(/[ \t]{2,}/g, ' ');
