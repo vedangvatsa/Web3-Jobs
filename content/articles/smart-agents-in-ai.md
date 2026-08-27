@@ -7,7 +7,7 @@ description: >-
  and why they represent a fundamental shift from traditional software to.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 The field of artificial intelligence has evolved significantly, introducing a new category of software known as Smart Agents. A smart agent, also referred to as an intelligent agent, is an AI-driven system capable of perceiving its environment, making decisions, and taking actions to accomplish specific objectives.

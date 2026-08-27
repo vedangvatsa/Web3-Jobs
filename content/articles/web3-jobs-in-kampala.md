@@ -7,7 +7,7 @@ description: >-
  is becoming a key center for blockchain innovation, driven by a young.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Kampala, the active capital of Uganda, is establishing itself as a key hub for [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) innovation in East Africa. With a median age of just 16, Uganda boasts one of the youngest populations globally. This youthful demographic, combined with increasing internet and smartphone penetration, creates a fertile ground for decentralized technology. The local Web3 ecosystem is in the growth phase, characterized by a dedicated community focused on using blockchain for financial inclusion and social impact.

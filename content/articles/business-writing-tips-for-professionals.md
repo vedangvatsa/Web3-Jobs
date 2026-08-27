@@ -8,7 +8,7 @@ image: 'https://picsum.photos/seed/writing/1200/630'
 category: Career Guides
 data-ai-hint: professional writing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 ## Introduction: Business Writing as a Key Competency

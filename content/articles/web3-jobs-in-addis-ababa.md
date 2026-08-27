@@ -7,7 +7,7 @@ description: >-
  potential of Ethiopia's capital as a future hub for blockchain innovation.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Addis Ababa, the capital of Ethiopia, is poised for a technological transformation. As Africa's second-most populous nation, Ethiopia presents a significant market for digital innovation. The [Web3](/what-is-web3) ecosystem in Addis Ababa is in its early stages but shows potential, fueled by a youthful population, an increasing emphasis on tech education, and a demand for decentralized solutions in identity management, finance, and agriculture.

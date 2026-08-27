@@ -8,7 +8,7 @@ description: >-
  the right user engagement metrics, and build a sustainable growth model in a.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Launching a project in [Web3](/what-is-web3) requires a fundamentally different approach than in the traditional tech world. The old go-to-market (GTM) playbook of paid ads and sales-driven funnels is often ineffective and can even be counterproductive in a culture that values organic community and authenticity above all else.

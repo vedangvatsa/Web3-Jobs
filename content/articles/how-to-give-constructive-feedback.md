@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: constructive feedback meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Most feedback is useless. Not because people don't mean well, but because they deliver it in ways that either confuse the recipient or put them on the defensive. If you've ever walked out of a review thinking "what am I actually supposed to change?" - you've been on the receiving end of bad feedback.
