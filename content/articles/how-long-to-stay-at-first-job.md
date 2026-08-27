@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: office career
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Deciding when to leave your first job is one of the most significant early career decisions you'll make. Stay too long, and you might feel stagnant. Leave too soon, and you risk looking unreliable to future employers. There's no magic number, but understanding the factors at play can help you make a choice that sets your career on the right trajectory.

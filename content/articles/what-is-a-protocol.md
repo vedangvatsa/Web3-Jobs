@@ -7,7 +7,7 @@ description: >-
  these open, rule-based systems are the foundational building blocks of the.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 In the [Web3](/what-is-web3) sector, the term **"protocol"** frequently appears. Common references include "lending protocols," "liquid [staking](/how-to-become-a-web3-staking-specialist) protocols," and "[decentralized exchange](/what-is-a-decentralized-exchange-dex) protocols." Understanding what a protocol entails is essential.

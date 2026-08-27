@@ -7,7 +7,7 @@ description: >-
  moments to refresh your resume and what information to add to stay ahead.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a vital document throughout your career, not just during job searches. Treat it as a continually evolving summary of your professional achievements. Regular updates ensure you remain ready for unexpected job opportunities and help you keep track of your accomplishments. The question remains: how often should you refresh it?

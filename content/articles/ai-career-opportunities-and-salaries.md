@@ -7,7 +7,7 @@ description: >-
   the salary ranges you can expect. From engineering to product management.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-08-27"
 ---
 
 AI work in 2026 is not one job. It is a set of distinct roles with different day-to-day work, skill requirements, and pay.

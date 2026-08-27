@@ -8,7 +8,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai autonomy
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-08-27"
 ---
 
 Automation follows rules you write. AI agency pursues goals you set. An AI agent perceives its environment, makes a plan, calls tools or smart contracts, and adjusts based on results, all within limits you define.

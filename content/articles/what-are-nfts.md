@@ -8,7 +8,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: nft explainer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-08-27"
 ---
 
 ## What is an NFT

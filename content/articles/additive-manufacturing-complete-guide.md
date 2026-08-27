@@ -8,7 +8,7 @@ category: Educational
 image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: industrial 3d
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-08-27"
 ---
 
 Additive manufacturing builds parts by joining material layer by layer from 3D model data. It is the formal industrial term for what most people call 3D printing.

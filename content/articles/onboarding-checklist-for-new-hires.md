@@ -7,7 +7,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/303/1200/630'
 data-ai-hint: onboarding checklist
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 ## Onboarding Checklist for New Hires

@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: new manager
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-26"
+lastUpdated: "2026-08-27"
 ---
 
 Congratulations on becoming a manager. While this promotion brings excitement, the transition can be overwhelming. Your success shifts from individual performance to the achievements of your team. This guide provides a structured approach to help you manage the initial challenges and establish a strong foundation for effective leadership.
