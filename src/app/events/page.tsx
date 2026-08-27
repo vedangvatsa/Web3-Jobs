@@ -81,9 +81,9 @@ export default async function EventsPage() {
                 />
               </div>
             </section>
-            <article className="site-container">
+            <section className="site-container">
               <EventsBoard initialEvents={events} />
-            </article>
+            </section>
           </PageShell>
         </main>
       </div>

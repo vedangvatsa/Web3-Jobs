@@ -1,7 +1,7 @@
 import { getAllArticles } from '@/lib/articles';
 import { BlogPageClientWrapper } from '@/components/blog-page-client-wrapper';
 import type { Metadata } from 'next';
-import type { CollectionPage } from 'schema-dts';
+import type { CollectionPage, WithContext } from 'schema-dts';
 
 export const metadata: Metadata = {
  title: 'Web3 Career Playbook',
@@ -35,7 +35,8 @@ export default async function PlaybookIndexPage() {
  const categories = ['All', ...[...new Set(allArticles.map(a => a.category))].sort()];
  
  const siteUrl = 'https://hashtagweb3.com';
- const blogSchema: CollectionPage = {
+ const blogSchema: WithContext<CollectionPage> = {
+  '@context': 'https://schema.org',
   '@type': 'CollectionPage',
   name: 'Web3 Career Guides 2026 | $120K+ Salary Insights & Job Search Tips',
   url: `${siteUrl}/blog`,
@@ -51,7 +52,6 @@ export default async function PlaybookIndexPage() {
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
      <div className="bg-background">
-      <h1 className="sr-only">Web3 Playbook - Career Guides and Tech Deep Dives</h1>
       <BlogPageClientWrapper allArticles={allArticles} categories={categories} />
      </div>
     </main>
