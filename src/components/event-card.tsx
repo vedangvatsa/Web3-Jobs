@@ -2,14 +2,12 @@
 
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
-import { getEventSlug, getEventDatePill, getEventCity, formatEventDate, type Web3Event } from '@/lib/events';
+import { getEventSlug, getEventDatePill, getEventCity, type Web3Event } from '@/lib/events';
 
 export function EventCard({ event }: { event: Web3Event }) {
   const slug = getEventSlug(event);
   const datePill = getEventDatePill(event.startDate);
-  const city = getEventCity(event);
-  const formattedDate = formatEventDate(event.startDate, event.endDate);
-  const subtitle = city ? `${city} • ${formattedDate}` : formattedDate;
+  const city = getEventCity(event) || 'Online';
 
   return (
     <Link href={`/${slug}`} className="block h-full">
@@ -28,8 +26,8 @@ export function EventCard({ event }: { event: Web3Event }) {
               <CardTitle className="text-base leading-snug font-semibold line-clamp-2" title={event.name}>
                 {event.name}
               </CardTitle>
-              <p className="text-xs text-muted-foreground truncate mt-0.5" title={subtitle}>
-                {subtitle}
+              <p className="text-xs text-muted-foreground truncate mt-0.5" title={city}>
+                {city}
               </p>
             </div>
           </div>
