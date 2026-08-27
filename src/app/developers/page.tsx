@@ -10,8 +10,42 @@ import { PageShell } from '@/components/page-shell';
 export const revalidate = 86400; // 24 hours
 
 export default function DevelopersPage() {
+  const schemaData = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'WebAPI',
+        name: 'Hashtag Web3 REST API',
+        description: 'Official public REST API for Hashtag Web3, providing endpoints for searching Web3 jobs, crypto news, blockchain events, and glossary definitions.',
+        url: 'https://hashtagweb3.com/developers',
+        documentation: 'https://hashtagweb3.com/developers',
+        termsOfService: 'https://hashtagweb3.com/privacy',
+        provider: {
+          '@type': 'Organization',
+          name: 'Hashtag Web3',
+          url: 'https://hashtagweb3.com',
+        },
+      },
+      {
+        '@type': 'TechArticle',
+        headline: 'Hashtag Web3 API Documentation & Developer Portal',
+        description: 'Comprehensive guide and reference for integrating with Hashtag Web3 REST APIs, OpenAPI 3.1 specifications, and Model Context Protocol (MCP) servers.',
+        url: 'https://hashtagweb3.com/developers',
+        author: {
+          '@type': 'Organization',
+          name: 'Hashtag Web3',
+          url: 'https://hashtagweb3.com',
+        },
+      },
+    ],
+  };
+
   return (
     <div className="flex flex-col min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(schemaData) }}
+      />
       <main className="flex-1">
         <PageShell>
           <div className="site-container space-y-12">
@@ -19,7 +53,7 @@ export default function DevelopersPage() {
             {/* Header */}
             <section className="text-center">
               <PageHeader
-                title="Hashtag Web3 Developer Portal & Public API"
+                title="Hashtag Web3 API Docs & Developer Portal"
                 description="Machine-readable REST endpoints, OpenAPI 3.1 specifications, MCP servers, and agent integration tools for Hashtag Web3."
               />
             </section>
@@ -29,7 +63,7 @@ export default function DevelopersPage() {
               <div className="flex flex-col lg:flex-row items-start lg:items-center justify-between gap-6">
                 <div>
                   <Badge variant="outline" className="mb-2 border-primary text-primary">OpenAPI 3.1.0 Ready</Badge>
-                  <h2 className="text-xl sm:text-2xl font-bold text-foreground">Authoritative Machine Specifications</h2>
+                  <h2 className="text-xl sm:text-2xl font-bold text-foreground">Hashtag Web3 OpenAPI Specifications &amp; Schemas</h2>
                   <p className="text-muted-foreground text-sm mt-1 max-w-2xl">
                     Hashtag Web3 publishes fully typed schemas and agent manifests for automated tool use, MCP servers, and LLM function calling.
                   </p>
@@ -63,7 +97,7 @@ export default function DevelopersPage() {
             <section className="bg-muted/30 border rounded-2xl p-6 sm:p-8 space-y-4">
               <div className="flex items-center gap-3">
                 <Cpu className="h-6 w-6 text-primary" />
-                <h2 className="text-xl sm:text-2xl font-bold text-foreground">Agent Platform Configurations &amp; Open Source</h2>
+                <h2 className="text-xl sm:text-2xl font-bold text-foreground">Hashtag Web3 Agent Configurations &amp; Open Source</h2>
               </div>
               <p className="text-sm text-muted-foreground leading-relaxed max-w-3xl">
                 Hashtag Web3 is fully open-source and built to be indexable and readable by autonomous AI coding assistants and agents. 
@@ -101,7 +135,7 @@ export default function DevelopersPage() {
             <section className="space-y-6">
               <div className="flex items-center gap-3">
                 <Key className="h-6 w-6 text-primary" />
-                <h2 className="text-2xl sm:text-3xl font-bold text-foreground">Authentication &amp; API Access</h2>
+                <h2 className="text-2xl sm:text-3xl font-bold text-foreground">Hashtag Web3 Authentication Docs &amp; Security Guide</h2>
               </div>
               <div className="grid grid-cols-1 md:grid-cols-2 gap-6">
                 <Card className="p-6">
@@ -137,7 +171,7 @@ export default function DevelopersPage() {
 
             {/* Quickstart Code Examples */}
             <section className="space-y-6">
-              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Quickstart &amp; Code Samples</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">Hashtag Web3 API Quickstart &amp; Code Samples</h2>
               <p className="text-muted-foreground text-sm sm:text-base">
                 Query verified Web3 jobs, crypto news, blockchain glossary terms, and global events using your preferred language or command line.
               </p>
@@ -209,7 +243,7 @@ for job in res["data"]:
             <section className="bg-card border rounded-2xl p-6 sm:p-8 shadow-sm space-y-4">
               <div className="flex items-center gap-3">
                 <Terminal className="h-6 w-6 text-primary" />
-                <h2 className="text-2xl font-bold text-foreground">Official CLI Tool (npx hashtagweb3)</h2>
+                <h2 className="text-2xl font-bold text-foreground">Hashtag Web3 Official CLI Tool (npx hashtagweb3)</h2>
               </div>
               <p className="text-muted-foreground text-sm leading-relaxed">
                 Developers and agents can run the official CLI tool directly with zero configuration via <code>npx</code> or install it globally from npm:
@@ -228,7 +262,7 @@ npm install -g hashtagweb3`}</code></pre>
 
             {/* REST Endpoint Reference */}
             <section className="space-y-6">
-              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Endpoints Reference</h2>
+              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">Hashtag Web3 REST API Endpoints &amp; Reference</h2>
 
               <div className="space-y-6">
                 
@@ -324,7 +358,7 @@ npm install -g hashtagweb3`}</code></pre>
                 <Cpu className="h-4 w-4" /> Agentic AI &amp; Model Context Protocol (MCP)
               </div>
               <h2 className="text-2xl font-bold text-foreground">
-                MCP Streamable HTTP Server &amp; Manifest
+                Hashtag Web3 Model Context Protocol (MCP) Server &amp; Manifest
               </h2>
               <p className="text-muted-foreground text-sm sm:text-base leading-relaxed">
                 Autonomous AI agents (Claude Desktop, Cursor, ChatGPT, Antigravity) can connect directly to Hashtag Web3 using our standardized Streamable HTTP MCP server at <code>https://hashtagweb3.com/.well-known/mcp</code> or <code>https://hashtagweb3.com/api/mcp</code>.
@@ -346,7 +380,7 @@ npm install -g hashtagweb3`}</code></pre>
             <section className="space-y-6 border-t pt-10">
               <div className="flex items-center gap-3">
                 <RefreshCw className="h-6 w-6 text-primary" />
-                <h2 className="text-2xl sm:text-3xl font-bold text-foreground">API Versioning &amp; Deprecation Policy</h2>
+                <h2 className="text-2xl sm:text-3xl font-bold text-foreground">Hashtag Web3 API Versioning &amp; Deprecation Policy</h2>
               </div>
               <div className="bg-muted/30 border rounded-xl p-6 text-sm text-muted-foreground space-y-4 leading-relaxed">
                 <p>
