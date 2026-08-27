@@ -3,7 +3,7 @@ import { ChevronDown } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
 import Script from 'next/script';
-import type { SiteNavigationElement } from 'schema-dts';
+import type { SiteNavigationElement, WithContext } from 'schema-dts';
 import {
   DropdownMenu,
   DropdownMenuContent,
@@ -22,7 +22,8 @@ import {
 
 export function Header() {
   const siteUrl = 'https://hashtagweb3.com';
-  const navigationSchema: SiteNavigationElement = {
+  const navigationSchema: WithContext<SiteNavigationElement> = {
+    '@context': 'https://schema.org',
     '@type': 'SiteNavigationElement',
     name: 'Main Navigation',
     about: 'Main navigation links for Hashtag Web3',

@@ -535,7 +535,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
   const siteUrl = 'https://hashtagweb3.com';
   const pageUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
-  const articleSchema = {
+  const articleSchema: WithContext<ArticleSchema> = {
    '@context': 'https://schema.org',
    '@type': 'Article',
    headline: resource.seo.title,
@@ -553,7 +553,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
    mainEntityOfPage: { '@type': 'WebPage', '@id': pageUrl },
    keywords: resource.seo.keywords.join(', '),
   };
-  const breadcrumbSchema = {
+  const breadcrumbSchema: WithContext<BreadcrumbList> = {
    '@context': 'https://schema.org',
    '@type': 'BreadcrumbList',
    itemListElement: [
@@ -600,7 +600,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   
   const definedTermSchema = generateDefinedTermSchema(term, siteUrl, relatedTermsData);
   
-  const breadcrumbSchema: BreadcrumbList = {
+  const breadcrumbSchema: WithContext<BreadcrumbList> = {
+   '@context': 'https://schema.org',
    '@type': 'BreadcrumbList',
    itemListElement: [
     {
@@ -687,7 +688,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
  const howToSchema = article.rawContent ? extractHowToSchema(article.rawContent, article.title, article.description) : null;
 
- const articleSchema: ArticleSchema | ScholarlyArticle = {
+ const articleSchema: WithContext<ArticleSchema | ScholarlyArticle> = {
+  '@context': 'https://schema.org',
   '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
   headline: article.title,
   description: article.description,
@@ -714,7 +716,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   }
  };
 
- const breadcrumbSchema: BreadcrumbList = {
+ const breadcrumbSchema: WithContext<BreadcrumbList> = {
+  '@context': 'https://schema.org',
   '@type': 'BreadcrumbList',
   itemListElement: [
    {

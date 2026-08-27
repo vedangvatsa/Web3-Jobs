@@ -4,7 +4,7 @@ import { CompanyLogo } from '@/components/company-logo';
 import { Briefcase, ExternalLink } from 'lucide-react';
 import Link from 'next/link';
 import { notFound } from 'next/navigation';
-import type { Organization, WithContext } from 'schema-dts';
+import type { Organization, BreadcrumbList, WithContext } from 'schema-dts';
 import { CompanyViewTracker } from '@/components/tracking/company-view-tracker';
 import { OutboundLink } from '@/components/tracking/outbound-link';
 import { getJobSlug } from '@/lib/job-slugs';
@@ -38,12 +38,26 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
     ...(company.description && { description: company.description }),
   };
 
+  const breadcrumbSchema: WithContext<BreadcrumbList> = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      { '@type': 'ListItem', position: 1, name: 'Home', item: 'https://hashtagweb3.com' },
+      { '@type': 'ListItem', position: 2, name: 'Companies', item: 'https://hashtagweb3.com/companies' },
+      { '@type': 'ListItem', position: 3, name: displayName, item: `https://hashtagweb3.com/${company.slug}` },
+    ],
+  };
+
   return (
     <>
       <CompanyViewTracker slug={company.slug} name={displayName} jobCount={company.jobCount} />
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <div className="flex flex-col min-h-screen">
         <main className="flex-grow">
