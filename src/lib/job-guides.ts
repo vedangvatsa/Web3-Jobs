@@ -3,6 +3,7 @@ import { getJobs } from './jobs';
 import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import * as path from 'path';
+import { cleanPublishText } from './noslop';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug } from './job-slugs';
@@ -348,13 +349,14 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
  * Clean up HTML tags and extract structured block elements using Cheerio.
  */
 function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; text: string }> {
-  const decoded = html
+  let decoded = html
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
     .replace(/&amp;/g, '&')
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&nbsp;/g, ' ');
+  decoded = cleanPublishText(decoded);
 
   const $ = cheerio.load(decoded);
 
@@ -482,13 +484,23 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
 
   // Fallback if parsing produced nothing
   if (blocks.length === 0) {
-    const textOnly = html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+    const textOnly = cleanPublishText(html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim());
     if (textOnly) {
       blocks.push({ type: 'p', text: textOnly });
     }
   }
 
-  return blocks;
+  // Deduplicate identical blocks (e.g., duplicated About Us 🚀 sections)
+  const seen = new Set<string>();
+  const deduped: typeof blocks = [];
+  for (const b of blocks) {
+    const key = `${b.type}:${cleanPublishText(b.text).toLowerCase().replace(/\s+/g, ' ').trim()}`;
+    if (seen.has(key)) continue;
+    seen.add(key);
+    deduped.push(b);
+  }
+
+  return deduped;
 }
 
 function escapeHtml(value: string): string {
