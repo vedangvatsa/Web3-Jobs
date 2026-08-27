@@ -531,29 +531,33 @@ export function InvoiceForm() {
           <CardContent className="space-y-4">
             <div className="space-y-2">
               {fields.map((item, index) => (
-               <div key={item.id} className="grid grid-cols-12 gap-3 items-end">
-                <div className="col-span-12 sm:col-span-5 space-y-1">
-                  {index === 0 && <Label>Description</Label>}
-                  <Input {...form.register(`lineItems.${index}.description`)} placeholder="Service..." />
+                <div key={item.id} className="grid grid-cols-12 gap-3 items-end border-b pb-4 sm:border-0 sm:pb-0">
+                  <div className="col-span-12 sm:col-span-5 space-y-1">
+                    {index === 0 && <Label>Description</Label>}
+                    <Input {...form.register(`lineItems.${index}.description`)} placeholder="Service..." />
+                  </div>
+                  <div className="col-span-4 sm:col-span-2 space-y-1">
+                    {index === 0 && <Label>Quantity</Label>}
+                    <Input type="number" {...form.register(`lineItems.${index}.quantity`, { valueAsNumber: true })} />
+                  </div>
+                  <div className="col-span-4 sm:col-span-2 space-y-1">
+                    {index === 0 && <Label>Rate</Label>}
+                    <Input type="number" {...form.register(`lineItems.${index}.rate`, { valueAsNumber: true })} />
+                  </div>
+                  <div className="col-span-3 sm:col-span-2 text-right space-y-1">
+                    {index === 0 && <Label className="text-transparent sm:block hidden">Total</Label>}
+                    <p className="font-semibold h-10 flex items-center justify-end px-1">{currencySymbol}{(((watchedForm.lineItems ?? [])[index]?.quantity || 0) * ((watchedForm.lineItems ?? [])[index]?.rate || 0)).toFixed(2)}</p>
+                  </div>
+                  <div className="col-span-1 flex justify-end h-10 items-center">
+                    {index > 0 ? (
+                      <Button variant="ghost" size="icon" className="h-9 w-9 text-destructive hover:bg-destructive/10" onClick={() => remove(index)}>
+                        <Trash2 className="h-4 w-4" />
+                      </Button>
+                    ) : (
+                      <div className="w-9 h-9 sm:block hidden" />
+                    )}
+                  </div>
                 </div>
-                <div className="col-span-4 sm:col-span-2 space-y-1">
-                  {index === 0 && <Label>Quantity</Label>}
-                  <Input type="number" {...form.register(`lineItems.${index}.quantity`, { valueAsNumber: true })} />
-                </div>
-                <div className="col-span-4 sm:col-span-2 space-y-1">
-                  {index === 0 && <Label>Rate</Label>}
-                  <Input type="number" {...form.register(`lineItems.${index}.rate`, { valueAsNumber: true })} />
-                </div>
-                <div className="col-span-3 sm:col-span-2 text-right">
-                   {index === 0 && <Label className="text-transparent sm:block hidden">Total</Label>}
-                   <p className="font-medium h-10 flex items-center justify-end px-1 truncate">{currencySymbol}{(((watchedForm.lineItems ?? [])[index]?.quantity || 0) * ((watchedForm.lineItems ?? [])[index]?.rate || 0)).toFixed(2)}</p>
-                </div>
-                <div className="col-span-1 flex justify-end">
-                  {index > 0 && 
-                    <Button variant="ghost" size="icon" onClick={() => remove(index)}><Trash2 className="h-4 w-4 text-destructive" /></Button>
-                  }
-                </div>
-               </div>
               ))}
             </div>
             <Button type="button" variant="outline" className="bg-green-500/10 text-green-700 border-green-300 hover:bg-green-500/20" onClick={() => append({ description: '', quantity: 1, rate: 0 })}>
