@@ -120,13 +120,13 @@ Each example below uses real standards correctly and notes the common error to a
 
 ### 1. DeFi-curious candidate with a finance background
 
-Spark: "On a testnet Aave v3 pool I supplied USDC and checked the borrow panel. I saw that I could only borrow up to the asset's Loan-to-Value, for example 75 percent for ETH in many markets, and that a health factor below 1 allows liquidation. The rules were in the contract and the dashboard, not in a credit check."
+Spark: "On a testnet Aave v3 pool I supplied USDC and checked the borrow panel. I saw that I could only borrow up to the asset's Loan-to-Value, for example 70 to 80 percent depending on the reserve and market, and that a health factor below 1 allows liquidation. The rules were in the contract and the dashboard, not in a credit check."
 
 Journey: "I read the Aave 101 docs on overcollateralization and utilization-based rates, then replicated the supply and borrow flow with a small amount on Sepolia. I wrote a short post with screenshots, the pool address, and the transaction hashes for supply and borrow. I then built a read-only dashboard that fetches the pool's utilization and prints the variable borrow rate for two assets."
 
 Vision: "You are building on top of Aave's liquidity layer for [specific use case from their docs]. I want to work on [risk, onboarding, or analytics for that market] and my next pull request would be a small fix to your example app that adds a live health factor warning."
 
-Error to avoid: Do not say Aave gives permissionless loans without collateral or instant free leverage. It requires locked collateral that exceeds the borrow.
+Error to avoid: Do not say Aave gives permissionless loans without collateral or instant unbacked borrowing. It requires locked collateral that exceeds the borrow.
 
 ### 2. Creator-focused candidate
 
@@ -164,11 +164,11 @@ Interviewers remember specifics you can defend more than adjectives.
 
 Instead of:
 
-> "I am passionate about Web3 because I believe in decentralization and want to be part of this revolutionary ecosystem."
+> "I am passionate about Web3 because I believe in decentralization and want to be part of this ecosystem."
 
 Say:
 
-> "I supplied 20 USDC on Aave v3 on Sepolia, borrowed 5 USDC against ETH at a 75 percent Loan-to-Value, and watched the health factor move from 1.8 to 1.6 when ETH price moved. After that I built a small script that reads pool utilization and prints the variable rate. That is why I want to work on your borrowing interface, specifically the health factor explainer."
+> "I supplied 20 USDC on Aave v3 on Sepolia, borrowed 5 USDC against ETH within the market's Loan-to-Value limit, and watched the health factor move from 1.8 to 1.6 when ETH price moved. After that I built a small script that reads pool utilization and prints the variable rate. That is why I want to work on your borrowing interface, specifically the health factor explainer."
 
 The second version gives the panel something to ask about: the LTV, the health factor, and the script.
 

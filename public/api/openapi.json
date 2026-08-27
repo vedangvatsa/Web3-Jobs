@@ -1,7 +1,7 @@
 {
   "openapi": "3.1.0",
   "info": {
-    "title": "Hashtag Web3 Public API",
+    "title": "Hashtag Web3 OpenAPI Specification & REST API",
     "version": "1.0.0",
     "description": "Public REST API for Hashtag Web3 (hashtagweb3.com). Search live Web3 jobs, crypto industry news, global blockchain conferences & hackathons, and the 200+ term Web3 glossary. Optimized for LLM agents, automated scripts, and developer integrations.",
     "x-api-versioning": {
