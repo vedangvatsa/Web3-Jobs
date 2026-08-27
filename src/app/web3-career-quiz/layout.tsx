@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Web3 Career Quiz',
  description:"What's your Web3 personality? Take our free assessment to discover your professional archetype and the crypto career paths that best match your skills.",
  alternates: {
-  canonical: '/web3-career-quiz',
+  canonical: 'https://hashtagweb3.com/web3-career-quiz',
  },
  openGraph: {
   type: 'website',

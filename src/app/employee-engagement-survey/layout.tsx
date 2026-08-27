@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Engagement Survey',
  description: 'A free tool to generate an employee engagement pulse survey. Measure team morale and satisfaction to build a strong company culture.',
  alternates: {
-  canonical: '/employee-engagement-survey',
+  canonical: 'https://hashtagweb3.com/employee-engagement-survey',
  },
  openGraph: {
   type: 'website',

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Invoice Generator',
  description: 'A free and simple invoice generator for Web3 freelancers and contractors. Create and download a professional PDF invoice instantly.',
  alternates: {
-  canonical: '/invoice-generator',
+  canonical: 'https://hashtagweb3.com/invoice-generator',
  },
  openGraph: {
   type: 'website',

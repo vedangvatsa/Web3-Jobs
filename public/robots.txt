@@ -12,6 +12,7 @@ Allow: /openapi.json
 Allow: /llms.txt
 Allow: /llms-full.txt
 Allow: /.well-known/
+Allow: /_next/static/
 Disallow: /_next/
 Disallow: /api/auth/
 Disallow: /api/send-job-alerts
@@ -152,5 +153,4 @@ Disallow: /
 # ─── DISCOVERY FILES ───
 
 Sitemap: https://hashtagweb3.com/sitemap.xml
-schemamap: https://hashtagweb3.com/schemamap.xml
 Content-Signal: search=yes, ai-train=no
