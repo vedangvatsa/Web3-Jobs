@@ -1,4 +1,4 @@
-import type { Metadata } from 'next';
+import type { Metadata, Viewport } from 'next';
 import { Toaster } from '@/components/ui/toaster';
 import { cn } from '@/lib/utils';
 import './globals.css';
@@ -31,6 +31,11 @@ const siteConfig = {
 };
 
 const ogImageUrl = `${siteConfig.url}/api/og?type=default&title=Hashtag%20Web3`;
+
+export const viewport: Viewport = {
+ width: 'device-width',
+ initialScale: 1,
+};
 
 export const metadata: Metadata = {
  metadataBase: new URL(siteConfig.url),
