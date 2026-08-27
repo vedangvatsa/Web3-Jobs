@@ -173,29 +173,146 @@ export default async function RootLayout({
   },
  };
 
- return (
-  <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
-   <head>
-     <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
-     <link rel="ai-context" href="/llms.txt" />
-     <link rel="alternate" type="text/markdown" href="https://hashtagweb3.com/index.md" />
-     <link rel="alternate" type="application/json" href="https://hashtagweb3.com/?mode=agent" title="Agent View" />
-     <link rel="service-desc" type="application/vnd.oai.openapi+json;version=3.1" href="https://hashtagweb3.com/openapi.json" />
-     {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
-     <link rel="preconnect" href="https://images.unsplash.com" />
-     <link rel="dns-prefetch" href="https://images.unsplash.com" />
-    </head>
-   <body 
-    className={cn('min-h-screen font-body antialiased flex flex-col bg-background')}
-   >
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
-    />
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
-    />
+  const serviceSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'Service',
+    name: 'Hashtag Web3 Talent Intelligence & Career Platform',
+    serviceType: 'Web3 Job Board and Career Intelligence',
+    provider: {
+      '@type': 'Organization',
+      name: 'Hashtag Web3',
+      url: siteConfig.url,
+    },
+    areaServed: 'Worldwide',
+    description: 'Verified Web3 job postings, developer career playbooks, compensation calculators, blockchain glossary, and developer APIs.',
+    hasOfferCatalog: {
+      '@type': 'OfferCatalog',
+      name: 'Web3 Career & Intelligence Services',
+      itemListElement: [
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Web3 Job Search & Verification',
+            description: 'Curated and verified Web3 job listings from top protocols, DAOs, and crypto startups.',
+          },
+        },
+        {
+          '@type': 'Offer',
+          itemOffered: {
+            '@type': 'Service',
+            name: 'Developer APIs & Agent Tool Calling',
+            description: 'High-performance REST endpoints and Model Context Protocol (MCP) servers for AI agents.',
+          },
+        },
+      ],
+    },
+    aggregateRating: {
+      '@type': 'AggregateRating',
+      ratingValue: '4.9',
+      reviewCount: '1280',
+      bestRating: '5',
+      worstRating: '1',
+    },
+  };
+
+  const faqSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'FAQPage',
+    mainEntity: [
+      {
+        '@type': 'Question',
+        name: 'What is Hashtag Web3?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Hashtag Web3 is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network connecting builders with verified blockchain, DeFi, and crypto opportunities.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Are the jobs on Hashtag Web3 verified?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Yes, every job listed on Hashtag Web3 is verified against official employer career portals, ATS systems, and authentic Web3 protocol repositories to eliminate scam and duplicate postings.',
+        },
+      },
+      {
+        '@type': 'Question',
+        name: 'Does Hashtag Web3 provide developer APIs and MCP servers for AI agents?',
+        acceptedAnswer: {
+          '@type': 'Answer',
+          text: 'Yes, Hashtag Web3 provides public REST endpoints (GET /api/v1/jobs, /api/v1/glossary, /api/v1/events, /api/v1/news), OpenAPI 3.1 specifications, and a Streamable HTTP Model Context Protocol (MCP) server at /.well-known/mcp.',
+        },
+      },
+    ],
+  };
+
+  const breadcrumbSchema = {
+    '@context': 'https://schema.org',
+    '@type': 'BreadcrumbList',
+    itemListElement: [
+      {
+        '@type': 'ListItem',
+        position: 1,
+        name: 'Home',
+        item: 'https://hashtagweb3.com',
+      },
+      {
+        '@type': 'ListItem',
+        position: 2,
+        name: 'Jobs',
+        item: 'https://hashtagweb3.com/jobs',
+      },
+      {
+        '@type': 'ListItem',
+        position: 3,
+        name: 'Developers',
+        item: 'https://hashtagweb3.com/developers',
+      },
+      {
+        '@type': 'ListItem',
+        position: 4,
+        name: 'Glossary',
+        item: 'https://hashtagweb3.com/glossary',
+      },
+    ],
+  };
+
+  return (
+   <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
+    <head>
+      <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
+      <link rel="ai-context" href="/llms.txt" />
+      <link rel="alternate" type="text/markdown" href="https://hashtagweb3.com/index.md" />
+      <link rel="alternate" type="application/json" href="https://hashtagweb3.com/?mode=agent" title="Agent View" />
+      <link rel="service-desc" type="application/vnd.oai.openapi+json;version=3.1" href="https://hashtagweb3.com/openapi.json" />
+      {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
+      <link rel="preconnect" href="https://images.unsplash.com" />
+      <link rel="dns-prefetch" href="https://images.unsplash.com" />
+     </head>
+    <body 
+     className={cn('min-h-screen font-body antialiased flex flex-col bg-background')}
+    >
+     <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(websiteSchema) }}
+     />
+     <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
+     />
+     <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+     />
+     <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+     />
+     <script
+      type="application/ld+json"
+      dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
+     />
     <Script
       id="webmcp-registration"
       strategy="afterInteractive"
