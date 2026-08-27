@@ -157,6 +157,25 @@ export function JobDetailView({
         dangerouslySetInnerHTML={{ __html: contentHtml }}
       />
 
+      {company?.description && (
+        <section className="mt-12 border-t pt-8">
+          <h2 className="text-lg font-bold tracking-tight mb-3">About {company.name}</h2>
+          <p className="text-sm text-muted-foreground leading-relaxed">{company.description}</p>
+          <div className="mt-4 flex flex-wrap gap-3 text-sm">
+            {company.website && (
+              <a href={company.website} target="_blank" rel="noopener noreferrer" className="inline-flex items-center gap-1.5 font-medium hover:text-primary">
+                {new URL(company.website).hostname.replace(/^www\./, '')}
+                <ExternalLink className="h-3.5 w-3.5" aria-hidden="true" />
+              </a>
+            )}
+            <Link href={`/${companySlug}`} className="inline-flex items-center gap-1.5 font-medium hover:text-primary">
+              View all {company.jobCount} roles at {company.name}
+              <ArrowRight className="h-3.5 w-3.5" aria-hidden="true" />
+            </Link>
+          </div>
+        </section>
+      )}
+
       <footer className="mt-12 flex flex-col gap-3 border-t pt-6 text-sm sm:flex-row sm:items-center sm:justify-between">
         <Link href="/jobs" className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground">
           <ArrowLeft className="h-4 w-4" aria-hidden="true" />
