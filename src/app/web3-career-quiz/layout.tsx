@@ -29,33 +29,10 @@ export const metadata: Metadata = {
  },
 };
 
-const webAppSchema = {
- '@context': 'https://schema.org',
- '@type': 'WebApplication',
- name: 'Web3 Career Archetype Assessment',
- description: 'Discover your Web3 professional archetype and ideal career path with this interactive assessment.',
- url: 'https://hashtagweb3.com/web3-career-quiz',
- applicationCategory: 'EducationalApplication',
- operatingSystem: 'Any',
- offers: {
-  '@type': 'Offer',
-  price: '0',
-  priceCurrency: 'USD',
- },
-};
-
 export default function Web3CareerQuizLayout({
  children,
 }: {
  children: React.ReactNode;
 }) {
- return (
-  <>
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(webAppSchema) }}
-   />
-   {children}
-  </>
- );
+ return <>{children}</>;
 }
