@@ -156,7 +156,6 @@ export default async function RootLayout({
    'https://t.me/web3hiring',
    'https://www.youtube.com/channel/UCr5WlEpTviHnnK856wG0EIg',
    'https://github.com/hashtagweb3',
-   'https://www.wikidata.org/wiki/Q12345678',
   ],
   speakableSpecification: {
    '@type': 'SpeakableSpecification',
@@ -191,123 +190,6 @@ export default async function RootLayout({
     <script
      type="application/ld+json"
      dangerouslySetInnerHTML={{ __html: JSON.stringify(organizationSchema) }}
-    />
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify({
-       '@context': 'https://schema.org',
-       '@type': 'SoftwareApplication',
-       name: 'Hashtag Web3',
-       applicationCategory: 'BusinessApplication',
-       operatingSystem: 'Web',
-       url: 'https://hashtagweb3.com',
-       description: 'Web3 job board and career intelligence platform with 10,000+ verified blockchain jobs, 500+ career guides, salary calculator, resume builder, and public REST API.',
-       offers: { '@type': 'Offer', price: '0', priceCurrency: 'USD' },
-       featureList: [
-         'Web3 Job Search',
-         'Blockchain Glossary (500+ terms)',
-         'Web3 News Feed',
-         'Event Discovery',
-         'Salary Calculator',
-         'Resume Builder',
-         'Public REST API',
-         'OpenAPI 3.1.0 Spec',
-       ],
-       aggregateRating: {
-         '@type': 'AggregateRating',
-         ratingValue: '4.8',
-         reviewCount: '1200',
-         bestRating: '5',
-       },
-     }) }}
-    />
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'Service',
-        name: 'Hashtag Web3 Career & Talent Intelligence Platform',
-        provider: {
-          '@type': 'Organization',
-          name: siteConfig.name,
-          url: siteConfig.url,
-        },
-        serviceType: 'Web3 Employment and Career Intelligence',
-        description: 'Providing real-time Web3 job market intelligence, salary benchmarks, and technical blockchain career guides.',
-        url: siteConfig.url,
-        areaServed: 'Worldwide',
-        hasOfferCatalog: {
-          '@type': 'OfferCatalog',
-          name: 'Web3 Career Services',
-          itemListElement: [
-            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Web3 Job Search' } },
-            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Web3 Salary Calculator' } },
-            { '@type': 'Offer', itemOffered: { '@type': 'Service', name: 'Blockchain Glossary API' } },
-          ],
-        },
-      }) }}
-    />
-    <script
-      type="application/ld+json"
-      dangerouslySetInnerHTML={{ __html: JSON.stringify({
-        '@context': 'https://schema.org',
-        '@type': 'BreadcrumbList',
-        itemListElement: [
-          { '@type': 'ListItem', position: 1, name: 'Home', item: siteConfig.url },
-          { '@type': 'ListItem', position: 2, name: 'Jobs', item: `${siteConfig.url}/jobs` },
-          { '@type': 'ListItem', position: 3, name: 'Developers', item: `${siteConfig.url}/developers` },
-          { '@type': 'ListItem', position: 4, name: 'Glossary', item: `${siteConfig.url}/glossary` },
-        ],
-      }) }}
-    />
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify({
-       '@context': 'https://schema.org',
-       '@type': 'FAQPage',
-       mainEntity: [
-         {
-           '@type': 'Question',
-           name: 'How do I find remote Web3 jobs?',
-           acceptedAnswer: {
-             '@type': 'Answer',
-             text: 'Visit hashtagweb3.com/jobs and use the search bar to filter by "remote". You can also use the REST API: GET https://hashtagweb3.com/api/jobs?search=remote&limit=20',
-           },
-         },
-         {
-           '@type': 'Question',
-           name: 'What is the average salary for a Solidity developer?',
-           acceptedAnswer: {
-             '@type': 'Answer',
-             text: 'Solidity developers typically earn between $120,000-$250,000 USD per year depending on experience, seniority, and protocol. Use the salary calculator at hashtagweb3.com/salary-calculator for current market benchmarks.',
-           },
-         },
-         {
-           '@type': 'Question',
-           name: 'Does Hashtag Web3 have a public API?',
-           acceptedAnswer: {
-             '@type': 'Answer',
-             text: 'Yes. Hashtag Web3 offers a free, unauthenticated public REST API at https://hashtagweb3.com/api with endpoints for jobs (/api/jobs), news (/api/news), events (/api/events), and glossary (/api/glossary). The OpenAPI 3.1.0 spec is at /openapi.json.',
-           },
-         },
-         {
-           '@type': 'Question',
-           name: 'What is Web3?',
-           acceptedAnswer: {
-             '@type': 'Answer',
-             text: 'Web3 refers to a decentralized internet built on blockchain technology, smart contracts, and token-based economics. It encompasses DeFi (decentralized finance), NFTs, DAOs (decentralized autonomous organizations), and permissionless protocols. See the full glossary at hashtagweb3.com/learn.',
-           },
-         },
-         {
-           '@type': 'Question',
-           name: 'How can AI agents use Hashtag Web3?',
-           acceptedAnswer: {
-             '@type': 'Answer',
-             text: 'AI agents can use the public REST API at /api/jobs, /api/news, /api/events, and /api/glossary with no authentication required. The platform also supports NLWeb natural language queries at POST /ask, machine-readable JSON at /?mode=agent, and the OpenAPI spec at /openapi.json for function calling.',
-           },
-         },
-       ],
-     }) }}
     />
     <Script
       id="webmcp-registration"

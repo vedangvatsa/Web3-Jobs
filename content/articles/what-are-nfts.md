@@ -11,6 +11,8 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-08-28"
 ---
 
+## What is an NFT
+
 An NFT is a unique token recorded on a [blockchain](/what-is-a-blockchain) that proves ownership of a specific item. Unlike one bitcoin that equals any other bitcoin, each NFT is distinct and cannot be swapped one-for-one.
 
 Think of it as a digital deed. The deed itself lives on the blockchain, while the item it points to can be digital art, a game item, a ticket, or a record of attendance. Owning the deed does not always mean you own copyright to the art. It means you own that one token, with a verifiable history of who created it and who held it before you.
@@ -82,7 +84,7 @@ Minting calls a function in the contract that assigns a new tokenId to your wall
 
 This is the best known use case. On March 11, 2021, Christie's sold Beeple's *Everydays: The First 5000 Days* for about $69 million, the first purely digital NFT sold by a major auction house. It showed that provenance and scarcity could drive value for digital art, but it is an outlier, not a baseline.
 
-Bored Ape Yacht Club by Yuga Labs is a 10,000-item profile picture collection on Ethereum. It minted at 0.08 ETH on April 23, 2021 and sold out within 12 hours. Each ape also acted as a membership card with access to private channels and events. Floor price peaked around 145 ETH in early May 2022, then fell sharply in the bear market. As with most 2021-era collections, prices in 2024 to 2026 have remained far below peak, with typical floor prices in single-digit ETH and day-to-day changes that make any fixed dollar figure quickly out of date.
+Bored Ape Yacht Club by Yuga Labs is a 10,000-item profile picture collection on Ethereum. It minted at 0.08 ETH in April 2021 and sold out within about 12 hours. Each ape also acted as a membership card with access to private channels and events. Floor price peaked around 145 ETH in early May 2022, then fell sharply in the bear market. As with most 2021-era collections, prices since 2024 have remained far below peak, with typical floor prices in single-digit ETH and day-to-day changes that make any fixed dollar figure quickly out of date.
 
 Takeaway: art and collectibles prove the tech, but most lose value. Treat trading volume from 2021 to 2022, about $25 billion in organic volume per year per DappRadar reports, as a historical peak driven by speculation, not a norm.
 
@@ -172,7 +174,7 @@ ERC-721 is for unique, non-interchangeable items with one owner per tokenId. ERC
 No. EIP-2981 lets your contract signal the royalty you request, such as 5 percent to a wallet address, but ERC-721 transfers do not know if a transfer is a sale. Only the marketplace can collect and forward the fee, and it can choose not to. Some contracts try allowlists that block marketplaces that do not pay, but this limits where buyers can trade and is seen as trade-off between control and openness.
 
 **Can someone copy the image behind my NFT?**
-Yes. Anyone can right-click and save the image. The NFT proves you own the authenticated token that points to that image with on-chain provenance, not that copies cannot exist. Value comes from that provenance, the community or utility attached, and demand, not from preventing copies.
+Yes. Anyone can right-click and save the image. The NFT proves you own the verified token that points to that image with on-chain provenance, not that copies cannot exist. Value comes from that provenance, the community or utility attached, and demand, not from preventing copies.
 
 **Are NFTs still a viable career area?**
 There are durable roles, but fewer speculative ones than in 2021. Developers who know Solidity, ERC-721 and ERC-1155, gas optimization, and secure contract patterns work on minting platforms and games. Backend and frontend developers build indexers, metadata services, and wallet-connected interfaces. Community, marketing, design, and operations roles exist, yet hiring follows market cycles and is tighter in bear markets. Pick teams with real users, audited contracts, and clear licensing, and avoid projects that cannot explain utility beyond resale.
