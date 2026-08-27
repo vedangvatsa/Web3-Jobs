@@ -9,7 +9,16 @@
   "bugs": {
     "url": "https://github.com/vedangvatsa/Web3-Jobs/issues"
   },
-  "private": true,
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "files": [
+    "bin/hashtagweb3.js",
+    "src/lib/**/*",
+    "public/openapi.json"
+  ],
   "scripts": {
     "dev": "next dev",
     "prebuild": "npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true",
