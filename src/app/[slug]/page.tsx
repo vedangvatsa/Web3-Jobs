@@ -754,27 +754,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
         <PageShell>
           <article className="max-w-3xl mx-auto">
             <Suspense fallback={<div className="py-12 text-center text-muted-foreground">Loading article...</div>}>
-              {/* Header: Symmetrically centered metadata, title, and subtitle */}
+              {/* Header: title and subtitle */}
               <header className="text-center mb-10">
-                {(article.lastUpdated || article.publishedDate) && (
-                  <div className="inline-flex items-center justify-center gap-2 text-xs font-semibold text-muted-foreground uppercase tracking-widest mb-4">
-                    {article.category && (
-                      <>
-                        <span className="text-primary font-bold">{article.category}</span>
-                        <span aria-hidden="true">•</span>
-                      </>
-                    )}
-                    <span>Updated</span>
-                    <time dateTime={article.lastUpdated || article.publishedDate}>
-                      {new Date(article.lastUpdated || article.publishedDate!).toLocaleDateString('en-US', {
-                        year: 'numeric',
-                        month: 'long',
-                        day: 'numeric',
-                      })}
-                    </time>
-                  </div>
-                )}
-
                 <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold tracking-tight text-foreground leading-[1.25] text-balance break-normal mb-4">
                   {article.title}
                 </h1>
