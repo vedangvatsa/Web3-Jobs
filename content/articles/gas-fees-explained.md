@@ -1,5 +1,5 @@
 ---
-title: Understanding Gas Fees and Optimization in Ethereum
+title: "Gas Fees Explained: How Ethereum Fees Work and How to Pay Less"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: ethereum gas fees
 description: >-
