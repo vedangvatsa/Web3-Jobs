@@ -41,9 +41,11 @@ function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
     return null;
    }
 
-   const image = typeof data.image === 'string' && data.image ? data.image : `https://picsum.photos/seed/${slug}/1200/630`;
-   const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
    const category = typeof data.category === 'string' && data.category ? data.category : 'General';
+   const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
+    ? data.image
+    : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(data.title)}&category=${encodeURIComponent(category)}`;
+   const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
 
    return {
     slug,

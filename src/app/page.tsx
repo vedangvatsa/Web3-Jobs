@@ -57,25 +57,25 @@ export default async function JobsPage() {
            <PageHeader title="Find Your Next Web3 Job" />
          </div>
        </section>
-       <article className="site-container">
-         <TrustedBy />
-         <div className="text-center my-4 space-y-2">
-           <Link
-           href={SITE_STATS.telegramUrl}
-           target="_blank"
-           rel="noopener noreferrer"
-           className="text-sm text-muted-foreground hover:text-foreground inline-flex items-center gap-2"
-           >
-           <Rss className="h-4 w-4" />
-           <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
-           </Link>
-         </div>
-         <JobBoard
-          initialJobs={initialJobs}
-          initialTotal={allJobs.length}
-          companyLogos={companyLogos}
-         />
-       </article>
+        <section className="site-container">
+          <TrustedBy />
+          <div className="text-center my-4 space-y-2">
+            <Link
+            href={SITE_STATS.telegramUrl}
+            target="_blank"
+            rel="noopener noreferrer"
+            className="text-sm text-muted-foreground hover:text-foreground inline-flex items-center gap-2"
+            >
+            <Rss className="h-4 w-4" />
+            <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
+            </Link>
+          </div>
+          <JobBoard
+           initialJobs={initialJobs}
+           initialTotal={allJobs.length}
+           companyLogos={companyLogos}
+          />
+        </section>
      </PageShell>
     </main>
    </div>
