@@ -531,8 +531,8 @@ export function InvoiceForm() {
           <CardContent className="space-y-4">
             <div className="space-y-2">
               {fields.map((item, index) => (
-               <div key={item.id} className="grid grid-cols-12 gap-2 items-end">
-                <div className="col-span-12 sm:col-span-6 space-y-1">
+               <div key={item.id} className="grid grid-cols-12 gap-3 items-end">
+                <div className="col-span-12 sm:col-span-5 space-y-1">
                   {index === 0 && <Label>Description</Label>}
                   <Input {...form.register(`lineItems.${index}.description`)} placeholder="Service..." />
                 </div>
@@ -544,9 +544,9 @@ export function InvoiceForm() {
                   {index === 0 && <Label>Rate</Label>}
                   <Input type="number" {...form.register(`lineItems.${index}.rate`, { valueAsNumber: true })} />
                 </div>
-                <div className="col-span-3 sm:col-span-1 text-right">
+                <div className="col-span-3 sm:col-span-2 text-right">
                    {index === 0 && <Label className="text-transparent sm:block hidden">Total</Label>}
-                   <p className="font-medium h-10 flex items-center justify-end">{currencySymbol}{(((watchedForm.lineItems ?? [])[index]?.quantity || 0) * ((watchedForm.lineItems ?? [])[index]?.rate || 0)).toFixed(2)}</p>
+                   <p className="font-medium h-10 flex items-center justify-end px-1 truncate">{currencySymbol}{(((watchedForm.lineItems ?? [])[index]?.quantity || 0) * ((watchedForm.lineItems ?? [])[index]?.rate || 0)).toFixed(2)}</p>
                 </div>
                 <div className="col-span-1 flex justify-end">
                   {index > 0 && 
