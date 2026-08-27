@@ -3,6 +3,11 @@ import path from 'path';
 import { Web3Event, normalizeCountry, getEventSlug, getEventEcosystems, getEventType } from './events';
 import { cleanPublishText } from './noslop';
 
+// Explicitly blocked promotional posts that are not events
+const BLOCKED_EVENT_IDS = new Set([
+  'luma-host-evt-ueBMP7nPZ9SngEX', // Compass for Bitcoin Asia 2026 Companies & Participant List — promo post, not an event
+]);
+
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
 // that leak into the aggregated feed. Curated premier events always pass.
 const SPAMMY = /earn (crypto|money|income)|passive income|get rich|financial freedom|trading signal|forex|scam|live zoom|webinar|100x|millionaire|double your|guaranteed (profit|return)/i;
@@ -57,6 +62,8 @@ export async function getEvents(): Promise<Web3Event[]> {
 
     for (const e of rawAll) {
       if (!e.name || !e.startDate) continue;
+      if (BLOCKED_EVENT_IDS.has(e.id)) continue;
+      if (/participant list/i.test(e.name)) continue;
       if (!isQualityEvent(e)) continue;
 
       let cleanName = cleanPublishText(e.name.replace(/\s+\[\d+\]$/g, '').trim()); // Remove trailing brackets like [4]
