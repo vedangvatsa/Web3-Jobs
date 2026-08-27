@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Milestones Tracker',
  description: 'Create a structured 30-60-90 day plan for new hires. Track employee milestones and align on goals to support career progression with our free tool.',
  alternates: {
-  canonical: '/employee-milestones-tracker',
+  canonical: 'https://hashtagweb3.com/employee-milestones-tracker',
  },
  openGraph: {
   type: 'website',

@@ -12,7 +12,7 @@ export const metadata: Metadata = {
   title: 'Web3 Community',
   description: 'Your hub for Web3 careers. Explore thousands of crypto jobs, get career advice, and connect with a global community of blockchain professionals.',
   alternates: {
-    canonical: '/community',
+    canonical: 'https://hashtagweb3.com/community',
   },
   openGraph: {
     type: 'website',

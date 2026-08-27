@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Career Tools',
  description: 'Free tools for Web3 careers including a resume builder, salary calculator, interview questions, and offer letter templates.',
  alternates: {
-  canonical: '/resources',
+  canonical: 'https://hashtagweb3.com/resources',
  },
  openGraph: {
   type: 'website',

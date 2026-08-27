@@ -9,7 +9,7 @@ export async function generateMetadata(): Promise<Metadata> {
   title: 'Web3 Jobs',
   description: 'Browse Web3 job listings in engineering, product, design, and marketing. Updated daily with roles from leading crypto companies and DAOs.',
   alternates: {
-   canonical: '/jobs',
+   canonical: 'https://hashtagweb3.com/jobs',
   },
   openGraph: {
    type: 'website',

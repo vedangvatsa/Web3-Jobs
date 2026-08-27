@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Offer Letter Tool',
  description: 'Generate professional offer letters for Web3 roles. Customize salary, token allocation, and vesting schedules to attract top talent.',
  alternates: {
-  canonical: '/offer-letter-customizer',
+  canonical: 'https://hashtagweb3.com/offer-letter-customizer',
  },
  openGraph: {
   type: 'website',

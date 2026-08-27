@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Resume Builder',
  description: 'Create a professional resume that stands out to recruiters. Our free builder helps you highlight your skills and experience to land your dream job.',
  alternates: {
-  canonical: '/resume-builder',
+  canonical: 'https://hashtagweb3.com/resume-builder',
  },
  openGraph: {
   type: 'website',

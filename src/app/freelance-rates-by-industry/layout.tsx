@@ -27,7 +27,7 @@ export const metadata: Metadata = {
   },
  },
  alternates: {
-  canonical: '/freelance-rates-by-industry',
+  canonical: 'https://hashtagweb3.com/freelance-rates-by-industry',
  },
  openGraph: {
   type: 'website',

@@ -10,7 +10,7 @@ export const metadata: Metadata = {
  title: 'Web3 Glossary',
  description: 'Web3 glossary covering blockchain, cryptocurrency, DeFi, and NFT terminology with plain-language explanations.',
  alternates: {
-  canonical: '/glossary',
+  canonical: 'https://hashtagweb3.com/glossary',
  },
  openGraph: {
   type: 'website',

@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Remote Work Checklist',
  description: 'Remote work checklist for setup, security, collaboration, and productivity.',
  alternates: {
-  canonical: '/remote-work-checklist',
+  canonical: 'https://hashtagweb3.com/remote-work-checklist',
  },
  openGraph: {
   type: 'website',

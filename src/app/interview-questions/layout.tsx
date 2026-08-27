@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Interview Questions',
  description: 'Web3 interview question bank with 200+ real questions for Solidity, DeFi, Product Management, Security, and related roles.',
  alternates: {
-  canonical: '/interview-questions',
+  canonical: 'https://hashtagweb3.com/interview-questions',
  },
  openGraph: {
   type: 'website',
