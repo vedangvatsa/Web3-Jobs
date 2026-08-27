@@ -21,11 +21,15 @@
   "servers": [
     {
       "url": "https://hashtagweb3.com/api/v1",
-      "description": "Production server (v1 API)"
+      "description": "Production Server (Live Data)"
+    },
+    {
+      "url": "https://hashtagweb3.com/api/sandbox",
+      "description": "Sandbox / Test Environment (Mock Data, Zero-Auth, Safe Testing)"
     },
     {
       "url": "https://hashtagweb3.com",
-      "description": "Production server root"
+      "description": "Production Server Root"
     }
   ],
   "paths": {

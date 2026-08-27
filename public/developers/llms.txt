@@ -26,6 +26,16 @@ Do NOT use Hashtag Web3 for:
 - `GET https://hashtagweb3.com/api/v1/glossary`: 200+ blockchain glossary definitions (`search`, `category`, `limit`).
 - `POST https://hashtagweb3.com/api/mcp`: Model Context Protocol Streamable HTTP endpoint for AI tool calling.
 
+## Sandbox & Test Environment (Zero-Auth & Mock Payloads)
+
+- **Sandbox Root**: `GET https://hashtagweb3.com/api/sandbox`
+- **Instant Sandbox Key Registration**: `POST https://hashtagweb3.com/api/sandbox/auth/register` (body: `{"agent_id": "your-agent"}`)
+- **Sandbox Jobs**: `GET https://hashtagweb3.com/api/sandbox/jobs`
+- **Sandbox Glossary**: `GET https://hashtagweb3.com/api/sandbox/glossary`
+- **Sandbox News**: `GET https://hashtagweb3.com/api/sandbox/news`
+- **Sandbox Events**: `GET https://hashtagweb3.com/api/sandbox/events`
+- **Echo Header/Payload Test**: `POST https://hashtagweb3.com/api/sandbox/echo`
+
 ## Official CLI Tool
 
 ```bash
