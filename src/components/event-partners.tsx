@@ -3,14 +3,11 @@ import Image from 'next/image';
 export function EventPartners() {
   const logos = [
     { name: 'TOKEN2049', src: '/logo/partners/token2049.png' },
-    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png' },
-    { name: 'EDCON', src: '/logo/partners/edcon.png' },
-    { name: 'ETHVietnam', src: '/logo/partners/ethvietnam.png' },
-    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png' },
+    { name: 'Harvard Blockchain', src: '/logo/partners/harvard.png' },
     { name: 'ETH Oxford', src: '/logo/partners/ETHOxford.png' },
-    { name: 'Coinfest Asia', src: '/logo/partners/coinfest.png' },
-    { name: 'Malaysia Blockchain Week', src: '/logo/partners/malaysiablockchainweek.png' },
-    { name: 'Istanbul Blockchain Week', src: '/logo/partners/istanbul.png' },
+    { name: 'Taipei Blockchain Week', src: '/logo/partners/taipeiblockchainweek.png' },
+    { name: 'ETHBrussels', src: '/logo/partners/ethbrussels.png' },
+    { name: 'IEEE Entrepreneurship', src: '/logo/partners/ieee.png' },
   ];
 
   return (
@@ -22,16 +19,15 @@ export function EventPartners() {
           </h2>
 
           <div className="flow-root">
-            <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center gap-x-8 gap-y-3">
+            <div className="-my-1 -mx-3 flex flex-wrap items-center justify-center gap-x-6 gap-y-2">
               {logos.map((logo) => (
-                <div key={logo.name} className="flex items-center justify-center h-8 w-[110px]">
+                <div key={logo.name} className="flex items-center justify-center h-8 w-[100px]">
                   <Image
                     src={logo.src}
                     alt={`Logo of ${logo.name}`}
-                    width={110}
+                    width={100}
                     height={28}
-                    className="object-contain max-h-7 opacity-85 hover:opacity-100 transition-opacity"
-                    unoptimized
+                    className="object-contain max-h-7"
                   />
                   <span className="sr-only">{logo.name}</span>
                 </div>
