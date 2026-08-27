@@ -3,10 +3,7 @@ import { buildCompanyLogoMap } from '@/lib/job-listing';
 import { getJobSlug } from '@/lib/job-slugs';
 import { getJobs } from '@/lib/jobs';
 import { TrustedBy } from '@/components/trusted-by';
-import Link from 'next/link';
-import { Rss } from 'lucide-react';
-
-import { SITE_STATS } from '@/lib/constants';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 
@@ -74,17 +71,7 @@ export default async function JobsPage() {
          </section>
         <article className="site-container">
           <TrustedBy />
-          <div className="text-center my-4 space-y-2">
-            <Link
-            href={SITE_STATS.telegramUrl}
-            target="_blank"
-            rel="noopener noreferrer"
-            className="text-sm text-muted-foreground hover:text-foreground inline-flex items-center gap-2"
-            >
-            <Rss className="h-4 w-4" />
-            <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
-            </Link>
-          </div>
+          <CommunityFeedBanner label="hiring feed" />
           <JobBoard
            initialJobs={initialJobs}
            initialTotal={allJobs.length}
