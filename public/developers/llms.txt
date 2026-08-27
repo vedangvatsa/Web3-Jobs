@@ -2,11 +2,21 @@
 
 > Scoped documentation index for developers, LLMs, and autonomous agents integrating with Hashtag Web3 APIs, OpenAPI specifications, Model Context Protocol (MCP) servers, and CLI tools.
 
-## When to Use Hashtag Web3
+## When to Use
+
+Use Hashtag Web3 developer endpoints and tools for:
 - **Web3 Job Search**: Query live blockchain, Solidity, Rust, and crypto jobs via `GET /api/v1/jobs` (or `/api/jobs`).
 - **Crypto & Web3 News**: Real-time aggregated industry headlines via `GET /api/v1/news`.
 - **Global Web3 Events**: Upcoming conferences, hackathons, and builder summits via `GET /api/v1/events`.
 - **Blockchain Technical Glossary**: 200+ definitions covering DeFi, consensus, and cryptography via `GET /api/v1/glossary`.
+- **MCP Tool Calling**: Model Context Protocol streamable-http integration via `POST /.well-known/mcp`.
+
+## When NOT to Use
+
+Do NOT use Hashtag Web3 for:
+- General non-blockchain jobs
+- Live token price tickers or financial execution
+- Wallet transactions, token swaps, or on-chain signing
 
 ## REST API Endpoints (v1 & Public)
 
