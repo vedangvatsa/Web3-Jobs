@@ -29,49 +29,10 @@ export const metadata: Metadata = {
  },
 };
 
-const faqSchema = {
- '@context': 'https://schema.org',
- '@type': 'FAQPage',
- mainEntity: [
-  {
-   '@type': 'Question',
-   name: 'What types of Web3 roles are covered in this question bank?',
-   acceptedAnswer: {
-    '@type': 'Answer',
-    text: 'The question bank covers Solidity Developer, DeFi Protocol Designer, Product Manager, Security Auditor, and Community Manager roles with 200+ questions across different difficulty levels.',
-   },
-  },
-  {
-   '@type': 'Question',
-   name: 'How are the interview questions categorized?',
-   acceptedAnswer: {
-    '@type': 'Answer',
-    text: 'Questions are categorized by difficulty (Foundation, Intermediate, Advanced, Expert) and type (Knowledge, Practical, Debugging, Problem-Solving).',
-   },
-  },
-  {
-   '@type': 'Question',
-   name: 'Are answers and explanations provided?',
-   acceptedAnswer: {
-    '@type': 'Answer',
-    text: 'Yes, each question includes detailed answers, follow-up questions, common pitfalls, and red flags to watch for during interviews.',
-   },
-  },
- ],
-};
-
 export default function InterviewQuestionsLayout({
  children,
 }: {
  children: React.ReactNode;
 }) {
- return (
-  <>
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
-   />
-   {children}
-  </>
- );
+ return <>{children}</>;
 }

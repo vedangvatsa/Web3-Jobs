@@ -29,33 +29,10 @@ export const metadata: Metadata = {
  },
 };
 
-const webAppSchema = {
- '@context': 'https://schema.org',
- '@type': 'WebApplication',
- name: 'Job Description Builder',
- description: 'Create professional job descriptions for Web3 and blockchain roles.',
- url: 'https://hashtagweb3.com/jd-builder',
- applicationCategory: 'BusinessApplication',
- operatingSystem: 'Any',
- offers: {
-  '@type': 'Offer',
-  price: '0',
-  priceCurrency: 'USD',
- },
-};
-
 export default function JobDescriptionBuilderLayout({
  children,
 }: {
  children: React.ReactNode;
 }) {
- return (
-  <>
-   <script
-    type="application/ld+json"
-    dangerouslySetInnerHTML={{ __html: JSON.stringify(webAppSchema) }}
-   />
-   {children}
-  </>
- );
+ return <>{children}</>;
 }
