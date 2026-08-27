@@ -117,6 +117,15 @@ function buildListingDescription(companyName: string, jobs: Job[]): string {
  return `${companyName} has ${countLabel} listed on Hashtag Web3. ${titleSummary}${locationSummary}`;
 }
 
+function buildRichDescription(companyName: string, jobs: Job[], rich: string): string {
+ const countLabel = jobs.length === 1 ? '1 active role' : `${jobs.length} active roles`;
+ const titles = [...new Set(jobs.map((job) => job.title.trim()).filter(Boolean))].slice(0, 3);
+ const locations = [...new Set(jobs.map((job) => job.location?.trim()).filter((value): value is string => Boolean(value)))].slice(0, 3);
+ const titleSummary = titles.length ? ` — including ${titles.join(', ')}` : '';
+ const locationSummary = locations.length ? ` in ${locations.join(', ')}` : '';
+ return `${rich} On Hashtag Web3, ${companyName} has ${countLabel} listed${titleSummary}${locationSummary}.`;
+}
+
 function getSafeProfileWebsite(value: unknown): string | undefined {
  if (typeof value !== 'string' || !value.trim()) return undefined;
 
@@ -239,7 +248,7 @@ export async function getCompanies(): Promise<Company[]> {
      const content = await loadCompanyContent(company.slug);
      if (content?.website) company.website = content.website;
      const rich = COMPANY_RICH_ABOUT[company.slug];
-     company.description = rich ? rich : buildListingDescription(company.name, company.jobs);
+     company.description = rich ? buildRichDescription(company.name, company.jobs, rich) : buildListingDescription(company.name, company.jobs);
     })
    );
  
@@ -312,7 +321,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const content = await loadCompanyContent(slug);
   if (content?.website) company.website = content.website;
   const rich = COMPANY_RICH_ABOUT[slug];
-  company.description = rich ? rich : buildListingDescription(company.name, company.jobs);
+  company.description = rich ? buildRichDescription(company.name, company.jobs, rich) : buildListingDescription(company.name, company.jobs);
  
  return company;
 }
