@@ -62,6 +62,8 @@ const nextConfig = {
       { source: '/what-is-staking', destination: '/staking', permanent: true },
       { source: '/what-is-depin', destination: '/glossary/defi', permanent: true },
       { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
+      { source: '/deprecation-policy', destination: '/api-policy', permanent: true },
+      { source: '/versioning-policy', destination: '/api-policy', permanent: true },
     ]
   },
   async rewrites() {
@@ -127,6 +129,19 @@ const nextConfig = {
             // revalidate daily and serve stale up to 30 days while revalidating.
             value: 'public, max-age=86400, stale-while-revalidate=2592000, must-revalidate',
           },
+        ],
+      },
+      {
+        source: '/api/:path*',
+        headers: [
+          { key: 'API-Version', value: '1.0.0' },
+          { key: 'Deprecation', value: '@1767225600' },
+          { key: 'Sunset', value: 'Wed, 31 Dec 2026 23:59:59 GMT' },
+          { key: 'RateLimit-Limit', value: '120' },
+          { key: 'RateLimit-Policy', value: '120;w=60' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Access-Control-Expose-Headers', value: 'RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, API-Version, Sunset, Deprecation, Link' },
+          { key: 'Link', value: '<https://hashtagweb3.com/developers>; rel="deprecation"; type="text/html", <https://hashtagweb3.com/developers>; rel="sunset"; type="text/html", </openapi.json>; rel="service-desc"' },
         ],
       },
     ];
