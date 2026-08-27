@@ -8,7 +8,7 @@ export const metadata: Metadata = {
  title: 'Web3 Career Playbook',
  description: 'Actionable Web3 guides, career playbooks, and technical deep dives for builders, operators, and job seekers.',
  alternates: {
-  canonical: '/blog',
+  canonical: 'https://hashtagweb3.com/blog',
  },
  openGraph: {
   type: 'website',

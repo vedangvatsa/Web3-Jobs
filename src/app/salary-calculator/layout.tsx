@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Salary Calculator',
  description: 'Estimate your salary in the Web3 industry. Get data-driven salary estimates for developer, marketing, and product manager roles in crypto.',
  alternates: {
-  canonical: '/salary-calculator',
+  canonical: 'https://hashtagweb3.com/salary-calculator',
  },
  openGraph: {
   type: 'website',

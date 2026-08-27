@@ -23,7 +23,7 @@ export const metadata: Metadata = {
     images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Events%20Calendar'],
   },
   alternates: {
-    canonical: '/events',
+    canonical: 'https://hashtagweb3.com/events',
   },
 };
 

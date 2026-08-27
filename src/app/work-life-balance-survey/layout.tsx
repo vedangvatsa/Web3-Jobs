@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Work-Life Survey',
  description: 'Generate a free survey to assess work-life balance on your team. Understand workload and stress levels to prevent burnout and build a healthier culture.',
  alternates: {
-  canonical: '/work-life-balance-survey',
+  canonical: 'https://hashtagweb3.com/work-life-balance-survey',
  },
  openGraph: {
   type: 'website',

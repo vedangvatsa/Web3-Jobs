@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Exit Survey',
  description: 'Generate an employee exit survey with our free tool. Gather valuable feedback from departing team members to improve retention and culture.',
  alternates: {
-  canonical: '/employee-exit-survey',
+  canonical: 'https://hashtagweb3.com/employee-exit-survey',
  },
  openGraph: {
   type: 'website',

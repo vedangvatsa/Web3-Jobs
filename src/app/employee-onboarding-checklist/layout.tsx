@@ -5,7 +5,7 @@ export const metadata: Metadata = {
  title: 'Onboarding Checklist',
  description: 'Onboarding checklist for Web3 teams covering culture, security, role training, and first-90-day execution.',
  alternates: {
-  canonical: '/employee-onboarding-checklist',
+  canonical: 'https://hashtagweb3.com/employee-onboarding-checklist',
  },
  openGraph: {
   type: 'website',
