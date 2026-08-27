@@ -775,12 +775,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   </div>
                 )}
 
-                <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2] mb-4">
+                <h1 className="text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-extrabold tracking-tight text-foreground leading-[1.25] text-balance break-normal mb-4">
                   {article.title}
                 </h1>
 
                 {article.description && (
-                  <p className="text-base sm:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto mt-3">
+                  <p className="text-base sm:text-lg text-muted-foreground leading-relaxed max-w-2xl mx-auto text-balance mt-3">
                     {article.description}
                   </p>
                 )}
