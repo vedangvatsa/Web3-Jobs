@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { ArrowLeft, ArrowRight, Clock, ExternalLink, MapPin } from 'lucide-react';
+import { ArrowRight, Clock, ExternalLink, MapPin } from 'lucide-react';
 import type { Company, Job } from '@/types';
 import { CompanyLogo } from '@/components/company-logo';
 import { JobApplicationButton } from '@/components/tracking/job-application-button';
@@ -175,17 +175,6 @@ export function JobDetailView({
           </div>
         </section>
       )}
-
-      <footer className="mt-12 flex flex-col gap-3 border-t pt-6 text-sm sm:flex-row sm:items-center sm:justify-between">
-        <Link href="/jobs" className="inline-flex items-center gap-2 text-muted-foreground hover:text-foreground">
-          <ArrowLeft className="h-4 w-4" aria-hidden="true" />
-          All jobs
-        </Link>
-        <Link href={`/${companySlug}`} className="inline-flex items-center gap-2 font-medium hover:text-primary">
-          More roles at {job.company}
-          <ArrowRight className="h-4 w-4" aria-hidden="true" />
-        </Link>
-      </footer>
     </article>
   );
 }
