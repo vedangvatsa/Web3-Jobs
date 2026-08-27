@@ -86,6 +86,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'gomining': 'https://gomining.com',
  'bitdeer': 'https://www.bitdeer.com',
  'crypto-finance': 'https://www.crypto-finance.com',
+ 'offchain-labs': 'https://www.offchain.io',
 };
 
 /**
@@ -184,7 +185,7 @@ export async function getCompanies(): Promise<Company[]> {
   
   // Use the first occurrence as the canonical name
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Arbitrum' : companyName;
+   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : companyName;
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
@@ -262,7 +263,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const normalized = normalizeCompanyName(companyName);
   
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Arbitrum' : companyName;
+   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : companyName;
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
@@ -270,7 +271,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const canonicalName = nameMap.get(normalized)!;
   companyMap.get(canonicalName)!.push(job);
   
-  if (createSlug(canonicalName) === slug) {
+  if (createSlug(canonicalName) === slug || (slug === 'arbitrum' && canonicalName === 'Offchain Labs')) {
    targetCanonicalName = canonicalName;
   }
  });
