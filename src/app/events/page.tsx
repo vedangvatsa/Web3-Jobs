@@ -4,6 +4,10 @@ import type { Web3Event } from '@/lib/events';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
+import { EventPartners } from '@/components/event-partners';
+import { SITE_STATS } from '@/lib/constants';
+import Link from 'next/link';
+import { Rss } from 'lucide-react';
 
 export const metadata: Metadata = {
   title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
@@ -94,6 +98,18 @@ export default async function EventsPage() {
               </div>
             </section>
             <article className="site-container">
+              <EventPartners />
+              <div className="text-center my-4 space-y-2">
+                <Link
+                  href={SITE_STATS.telegramUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-sm text-muted-foreground hover:text-foreground inline-flex items-center gap-2"
+                >
+                  <Rss className="h-4 w-4" />
+                  <span>Join our events &amp; networking feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
+                </Link>
+              </div>
               <EventsBoard initialEvents={events} />
             </article>
           </PageShell>
