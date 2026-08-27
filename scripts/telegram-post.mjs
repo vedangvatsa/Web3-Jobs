@@ -58,6 +58,12 @@ function savePosted(posted) {
   fs.writeFileSync(POSTED_LOG, JSON.stringify(arr));
 }
 
+// ── Build URL with UTM ──
+function withUtm(url, params) {
+  const qs = new URLSearchParams(params).toString();
+  return url + (url.includes('?') ? '&' : '?') + qs;
+}
+
 // ── Pick random jobs ──
 function pickJobs(count) {
   const cachePath = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/jobs-cache.json');
@@ -103,11 +109,19 @@ function pickJobs(count) {
   for (const j of selected) posted.add(j.id || j.link);
   savePosted(posted);
   
-  return selected.map(j => ({
-    url: j.link,
-    company: fixCompanyName((j.company || '').trim()),
-    title: truncateTitle((j.title || '').trim()),
-  }));
+  return selected.map(j => {
+    // If we have a page for this job on hashtagweb3.com, use it; otherwise use original link.
+    // Jobs in jobs-cache.json are exactly the jobs we have pages for.
+    const hasPage = Boolean(j.slug);
+    const url = hasPage
+      ? withUtm(`https://hashtagweb3.com/${j.slug}`, { utm_source: 'telegram', utm_medium: 'social', utm_campaign: 'web3hiring' })
+      : withUtm(j.link, { utm_source: 'hashtagweb3', utm_medium: 'telegram', utm_campaign: 'web3hiring' });
+    return {
+      url,
+      company: fixCompanyName((j.company || '').trim()),
+      title: truncateTitle((j.title || '').trim()),
+    };
+  });
 }
 
 // ── Shorten long titles: drop qualifiers after , or - or ( ──
