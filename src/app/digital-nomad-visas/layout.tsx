@@ -1,15 +1,14 @@
-
 import type { Metadata } from 'next';
 
 export const metadata: Metadata = {
- title: 'Digital Nomad Visas',
+ title: 'Visas for Digital Nomads',
  description: 'A searchable list of digital nomad visas for Web3 professionals. Find details for over 50 crypto-friendly countries to work from anywhere.',
  alternates: {
   canonical: 'https://hashtagweb3.com/digital-nomad-visas',
  },
   openGraph: {
   type: 'website',
-  title: 'Digital Nomad Visas | Hashtag Web3',
+  title: 'Visas for Digital Nomads | Hashtag Web3',
   description: 'Browse digital nomad visa options with country-level details for Web3 professionals.',
   url: 'https://hashtagweb3.com/digital-nomad-visas',
   images: [
@@ -23,7 +22,7 @@ export const metadata: Metadata = {
  },
  twitter: {
   card: 'summary_large_image',
-  title: 'Digital Nomad Visas | Hashtag Web3',
+  title: 'Visas for Digital Nomads | Hashtag Web3',
   description: 'Compare digital nomad visa options and eligibility details for remote Web3 work.',
   images: ['https://hashtagweb3.com/api/og?type=default&title=Visas%20for%20Digital%20Nomads'],
  },
