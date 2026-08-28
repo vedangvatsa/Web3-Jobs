@@ -503,6 +503,9 @@
   "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
   "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
   "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+  "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
+  "https://decrypt.co/376813/bitcoin-traders-watch-fed-chair-warsh-for-clues-and-get-nothing",
+  "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1417,6 +1420,12 @@
   "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
   "Nvidia shares rise after record $96.2 billion revenue",
   "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+  "BitGo buys NYDIG trading arm for $57.5 million",
+  "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+  "Fed Chair Warsh Gives No Interest Rate Guidance",
+  "Bitcoin Traders Watch Fed Chair Warsh for Clues—And Get Nothing",
+  "Bybit Launches 24/7 SpaceX and Nvidia Stock Options",
+  "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1470,5 +1479,8 @@
   "fp:agency|blockchain|cash|creat|development|early2027|fast|financial|institution|japan",
   "fp:192|byt|contract|creat|deposit|dev|developer|expand|key|older",
   "fp:aim|automation|bill|can|discourag|employe|fir|gat|human|job",
-  "fp:366b|962b|chipmaker|commitment|disclos|doubl|futur|hour|nvidia|quarterly"
+  "fp:366b|962b|chipmaker|commitment|disclos|doubl|futur|hour|nvidia|quarterly",
+  "fp:15m|425m|575m|along|arm|bitgo|buy|cash|earnout|includ",
+  "fp:absent|await|chair|clu|decision|federal|get|giv|guidanc|high",
+  "fp:around|bybit|can|clock|contract|fractional|launches24|nvidia|option|perpetual"
 ]
