@@ -9,7 +9,7 @@ description: >-
   oversight that holds up in an audit.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-08-28'
+lastUpdated: "2026-08-28"
 ---
 
 Supervising AI in the workplace means a trained person can understand what the system does, check its output before it affects people, and stop or correct it when needed. The person is accountable for the outcome, not the model.

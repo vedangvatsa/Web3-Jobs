@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/selfish/1200/630'
 data-ai-hint: selfish mining
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ## Selfish Mining Attack Explained Simply

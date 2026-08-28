@@ -8,7 +8,7 @@ description: >-
  real-world asset tokenization, stablecoin payments, and more.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 Web3 is evolving beyond its experimental phase. On-chain transaction volume has surpassed trillions in value annually. Stablecoins processed more transactions than traditional payment systems, and Bitcoin ETFs attracted significant net inflows within just 14 months. The focus has shifted from questioning the relevance of crypto to identifying where it has the most impact.

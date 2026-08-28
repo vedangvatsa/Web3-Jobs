@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/51attack/1200/630'
 data-ai-hint: 51 percent attack
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ## What is a 51% Attack in Blockchain?

@@ -7,7 +7,7 @@ description: >-
  transaction states, trust and security, core skills, and portfolio projects.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 One of the significant barriers to the widespread adoption of [Web3](/what-is-web3) is its often subpar user experience. New users frequently find interacting with decentralized applications (dApps) confusing and daunting. This situation has generated substantial demand for skilled UX/UI designers who can connect the complex backend of the [blockchain](/what-is-a-blockchain) with the end-user experience.

@@ -7,7 +7,7 @@ description: >-
   protocols like IPFS and Arweave, and the engineering roles available in this.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 A decentralized storage expert designs how apps store and retrieve data without relying on a single cloud provider. The role sits at the intersection of distributed systems, cryptography, and developer tooling. You choose the right network for each dataset, keep data available and verifiable, and make retrieval fast enough for users.

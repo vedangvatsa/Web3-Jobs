@@ -7,7 +7,7 @@ description: >-
  backbone of decentralized identity, enabling a future of user-owned.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 In the digital age, identity consists of claims made about individuals by various authorities. Governments assert citizenship, universities verify degrees, and employers confirm employment. Currently, individuals confirm these claims through physical documents or by accessing centralized systems. This method proves inefficient and insecure, limiting user control over personal data.

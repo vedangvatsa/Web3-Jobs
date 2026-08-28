@@ -8,7 +8,7 @@ category: Educational
 image: 'https://picsum.photos/seed/uncle/1200/630'
 data-ai-hint: uncle blocks
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ## Understanding Uncle Blocks in Ethereum
