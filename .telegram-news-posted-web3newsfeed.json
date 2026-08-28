@@ -524,6 +524,9 @@
   "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
   "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
   "https://decrypt.co/376649/what-traders-watching-bitcoin-next-move",
+  "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
+  "https://decrypt.co/376843/meta-tests-robots-data-center",
+  "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1479,6 +1482,12 @@
   "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
   "Key Factors Influencing Upcoming Bitcoin Price Movements",
   "What Traders Are Watching for Bitcoin's Next Move",
+  "Court upholds state authority over prediction markets",
+  "Kalshi takes legal blow in court ruling confirming state powers over prediction markets",
+  "Meta Tests Robots for Data Center Operations",
+  "Meta Tests Robots to Handle Data Center Work",
+  "Evernorth Gains SEC Clearance for Nasdaq Listing Shareholder Vote",
+  "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1535,5 +1544,8 @@
   "fp:cannot|civil|claim|digital|ecb|euro|fear|group|identity|level",
   "fp:comput|consensus|contract|deposit|dev|developer|expand|futur|key|network",
   "fp:1085b|366b|962b|chipmaker|commitment|disclos|doubl|exposur|futur|guarante",
-  "fp:are|catalyst|determin|factor|follow|futur|gain|influenc|key|market"
+  "fp:are|catalyst|determin|factor|follow|futur|gain|influenc|key|market",
+  "fp:authority|blow|confirm|conflict|contract|court|event|federal|intervention|kalshi",
+  "fp:automation|center|data|eliminat|employe|expand|fear|handl|infrastructur|job",
+  "fp:asset|clearanc|closer|evernorth|firm|gain|get|hold|list|loss"
 ]
