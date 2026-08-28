@@ -1,38 +1,26 @@
 {
-  "$schema": "https://agent-plugins.org/schema/v1/plugin.json",
+  "$schema": "https://agent-plugins.org/specification",
   "name": "hashtagweb3",
   "version": "1.0.0",
-  "description": "Hashtag Web3 Agent Plugin for searching blockchain jobs, crypto news, Web3 events, and technical glossary definitions.",
+  "displayName": "Hashtag Web3",
+  "description": "Agent plugin for searching verified Web3 jobs, crypto news, blockchain glossary terms, and global events.",
+  "author": "Hashtag Web3",
   "homepage": "https://hashtagweb3.com",
-  "author": {
-    "name": "Hashtag Web3",
-    "url": "https://hashtagweb3.com",
-    "email": "contact@hashtagweb3.com"
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedangvatsa/Web3-Jobs"
   },
-  "mcpServers": [
-    {
-      "name": "hashtagweb3-actions",
-      "url": "https://hashtagweb3.com/.well-known/mcp",
-      "transport": "streamable-http"
-    },
-    {
-      "name": "hashtagweb3-docs",
-      "url": "https://hashtagweb3.com/.well-known/mcp-docs",
-      "transport": "streamable-http"
-    }
+  "capabilities": [
+    "job-search",
+    "glossary-lookup",
+    "news-feed",
+    "events-calendar"
   ],
   "skills": [
-    {
-      "name": "search_jobs",
-      "url": "https://hashtagweb3.com/api/v1/jobs"
-    },
-    {
-      "name": "lookup_glossary",
-      "url": "https://hashtagweb3.com/api/v1/glossary"
-    }
+    "https://hashtagweb3.com/SKILL.md"
   ],
-  "api": {
-    "type": "openapi",
-    "url": "https://hashtagweb3.com/openapi.json"
+  "mcp": {
+    "server": "https://hashtagweb3.com/api/mcp",
+    "transport": "streamable-http"
   }
 }

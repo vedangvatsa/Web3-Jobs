@@ -23,6 +23,8 @@ export async function POST(request: NextRequest) {
         headers: {
           'Content-Type': 'application/json',
           'Access-Control-Allow-Origin': '*',
+          'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+          'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, Origin',
         },
       }
     );
@@ -43,6 +45,8 @@ export async function POST(request: NextRequest) {
       headers: {
         'Content-Type': 'application/json',
         'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, Origin',
       },
     }
   );
@@ -52,6 +56,8 @@ export async function GET() {
   return NextResponse.json(
     {
       message: 'POST to this endpoint with { registration_token } to claim a bearer credential.',
+      claim_uri: 'https://hashtagweb3.com/api/auth/claim',
+      register_uri: 'https://hashtagweb3.com/api/auth/register',
       docUrl: 'https://hashtagweb3.com/auth.md',
     },
     {
@@ -60,6 +66,8 @@ export async function GET() {
         'Content-Type': 'application/json',
         'WWW-Authenticate': 'Bearer resource_metadata="https://hashtagweb3.com/.well-known/oauth-protected-resource"',
         'Access-Control-Allow-Origin': '*',
+        'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
+        'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, Origin',
       },
     }
   );
@@ -67,11 +75,12 @@ export async function GET() {
 
 export async function OPTIONS() {
   return new NextResponse(null, {
-    status: 204,
+    status: 200,
     headers: {
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
-      'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept',
+      'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, Origin',
+      'Allow': 'GET, POST, OPTIONS',
     },
   });
 }
