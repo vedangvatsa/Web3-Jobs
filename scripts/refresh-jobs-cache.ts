@@ -514,6 +514,10 @@ async function refreshJobsCache() {
     { board: 'janestreet', company: 'Jane Street' },
     // --- Regional Exchanges & Protocols ---
     { board: 'coinme', company: 'Coinme' },
+    { board: 'oasis', company: 'Oasis Network' },
+    { board: 'plume', company: 'Plume Network' },
+    { board: 'eclipse', company: 'Eclipse' },
+    { board: 'apex', company: 'Apex Protocol' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -617,7 +621,7 @@ async function refreshJobsCache() {
     { board: 'aragon', company: 'Aragon' },
     // --- Regional Exchanges & Protocols ---
     { board: 'swissborg', company: 'SwissBorg' },
-    { board: 'plume', company: 'Plume Network' },
+    { board: 'mantra', company: 'Mantra Chain' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -789,6 +793,11 @@ async function refreshJobsCache() {
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
     { board: 'swan', company: 'Swan Bitcoin' },
     { board: 'union', company: 'Union' },
+    { board: 'switchboard', company: 'Switchboard' },
+    { board: 'somnia', company: 'Somnia' },
+    { board: 'compound', company: 'Compound' },
+    { board: 'espresso', company: 'Espresso Systems' },
+    { board: 'chronicle-labs', company: 'Chronicle Labs' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -936,6 +945,7 @@ async function refreshJobsCache() {
     { board: 'ndax', company: 'Ndax' },
     { board: 'coinjar', company: 'CoinJar' },
     { board: 'giottus', company: 'Giottus' },
+    { board: 'ajaib', company: 'Ajaib Crypto' },
   ];
 
   for (const wb of WORKABLE_BOARDS) {
@@ -1020,6 +1030,7 @@ async function refreshJobsCache() {
   // --- Recruitee API Sources ---
   const RECRUITEE_BOARDS = [
     { board: 'tether', company: 'Tether' },
+    { board: 'saga', company: 'Saga' },
   ];
 
   for (const rt of RECRUITEE_BOARDS) {
@@ -1289,6 +1300,8 @@ async function refreshJobsCache() {
     { board: 'bitcoin', company: 'Bitcoin.com' },
     { board: 'uphold', company: 'Uphold' },
     { board: 'chainstack', company: 'Chainstack' },
+    { board: 'fasset', company: 'Fasset' },
+    { board: 'paribu', company: 'Paribu' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
