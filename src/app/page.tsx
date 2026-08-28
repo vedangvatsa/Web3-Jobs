@@ -137,16 +137,11 @@ export default async function JobsPage() {
             <article className="site-container">
               <TrustedBy />
               <CommunityFeedBanner label="hiring feed" />
-              <section className="mt-6">
-                <h2 className="text-lg sm:text-xl font-semibold text-foreground mb-4">
-                  Latest Verified Web3 &amp; Blockchain Jobs
-                </h2>
-                <JobBoard
-                  initialJobs={initialJobs}
-                  initialTotal={allJobs.length}
-                  companyLogos={companyLogos}
-                />
-              </section>
+              <JobBoard
+                initialJobs={initialJobs}
+                initialTotal={allJobs.length}
+                companyLogos={companyLogos}
+              />
             </article>
           </PageShell>
         </main>
