@@ -856,6 +856,32 @@ export const visaData: DigitalNomadVisa[] = [
       'Low cost of living and vibrant nomad community.'
     ]
   },
+  {
+    country: 'Andorra',
+    continent: 'Europe',
+    minIncome: 4500,
+    visaLength: 'Residency permit for remote workers',
+    description: 'Andorra offers a remote worker residency permit under its Digital Economy Law. It is set in a safe, low-tax European microstate with beautiful Pyrenean nature.',
+    requirements: [
+      'Work remotely for an employer or clients based outside Andorra.',
+      'Proof of monthly income of at least 3x Andorran minimum wage (approx. €4,128/month, ~$4,500 USD).',
+      'Proof of local accommodation (rental or purchase agreement).',
+      'Clean criminal record and private health insurance.'
+    ]
+  },
+  {
+    country: 'Kyrgyzstan',
+    continent: 'Asia',
+    minIncome: 417,
+    visaLength: 'Initially 60 days, extendable up to 1 year (renewable)',
+    description: 'Kyrgyzstan launched a dedicated "Digital Nomad" status for IT, creative, and digital professionals, offering a path to low-tax residency in Central Asia.',
+    requirements: [
+      'IT, digital design, or tech sector professional.',
+      'Proof of stable remote income (approx. $5,000 USD/year, ~$417/month).',
+      'Clean criminal record and valid passport.',
+      'Allows registration as an individual entrepreneur with local bank accounts.'
+    ]
+  },
 ];
 export async function getVisas(): Promise<DigitalNomadVisa[]> {
   // Sort alphabetically by country
