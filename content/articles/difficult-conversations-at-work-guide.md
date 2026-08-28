@@ -8,7 +8,7 @@ description: >-
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: difficult conversation meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 Nobody enjoys difficult conversations. But avoiding them is always worse than having them. Unaddressed problems compound. Feedback you dodge in March becomes a performance issue by September. A conflict you "let them work out" poisons the team dynamic for months.

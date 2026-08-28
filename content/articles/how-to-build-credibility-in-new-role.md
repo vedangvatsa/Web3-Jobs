@@ -7,7 +7,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/301/1200/630'
 data-ai-hint: building trust
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ## How to Build Credibility in a New Role

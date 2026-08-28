@@ -7,7 +7,7 @@ description: >-
  secure and decentralized foundation of the Web3 ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 To understand the [Web3](/what-is-web3) transformation, one must first grasp the foundational technology that underpins it: the **[blockchain](/what-is-a-blockchain)**. While these terms often appear together, it is essential to differentiate between them. The blockchain serves as the infrastructure, while Web3 represents the new generation of applications and services built on that infrastructure. The blockchain functions as the foundation of Web3, not merely a feature.

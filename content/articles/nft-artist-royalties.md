@@ -8,7 +8,7 @@ description: >-
  sale earnings.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 For digital artists and creators, the promise of automatic, on-chain royalties represents a significant shift in how they can benefit from their work. Traditionally, visual artists often missed out on the profits generated from secondary market sales. For instance, a painter might sell a canvas for a certain amount, only to see it resold for a much higher price years later, without receiving any of that increased value. NFTs, using [smart contracts](/what-are-smart-contracts), introduced a solution: coding a royalty fee directly into the [token](/what-is-a-token), allowing the original creator to earn a percentage from each future sale indefinitely.

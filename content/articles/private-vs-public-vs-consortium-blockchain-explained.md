@@ -7,7 +7,7 @@ description: >-
  and consortium. Understand their differences in permissions, decentralization.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 While the terms "[blockchain](/what-is-a-blockchain)" and "decentralization" often appear synonymous, not all blockchains are entirely decentralized or accessible to everyone. The architecture of a blockchain can cater to various requirements, resulting in three primary types: **public, private, and consortium blockchains**. 

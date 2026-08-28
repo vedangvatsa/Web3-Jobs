@@ -7,7 +7,7 @@ image: 'https://picsum.photos/seed/320/1200/630'
 data-ai-hint: career path
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 The practice of "job hopping," which involves changing jobs every one to two years, has evolved significantly in recent years. Once viewed as a red flag on a [resume](/how-to-build-a-web3-resume-that-stands-out), it now reflects adaptability and ambition in many sectors, especially in technology. As companies face rapid change, the traditional perception of loyalty and tenure is shifting. Understanding the implications of job hopping is essential for making informed career decisions.

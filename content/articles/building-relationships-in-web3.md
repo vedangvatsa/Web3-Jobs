@@ -6,7 +6,7 @@ description: >-
 category: Career Guides
 image: 'https://picsum.photos/seed/networking/1200/630'
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ## Why Relationships Matter in Web3

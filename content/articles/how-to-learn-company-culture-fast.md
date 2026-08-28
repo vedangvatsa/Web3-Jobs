@@ -7,7 +7,7 @@ description: >-
 image: 'https://picsum.photos/seed/company-culture/1200/630'
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ### 1. Observe - The Silent Curriculum

@@ -8,7 +8,7 @@ description: >-
  they.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 In the digital era, identity consists of claims made by various authorities. Governments assert citizenship, universities confirm degrees, and employers validate employment. Currently, we rely on physical documents or centralized systems to verify these claims. This approach is inefficient, insecure, and limits user control over personal data.

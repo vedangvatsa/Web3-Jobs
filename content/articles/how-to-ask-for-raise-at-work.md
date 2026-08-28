@@ -7,7 +7,7 @@ description: >-
  how to prepare, and what to say to get the pay increase you deserve.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 Asking for a raise often feels daunting. Many professionals worry about discussing compensation due to fears of appearing greedy or ungrateful. However, if you consistently perform well and take on additional responsibilities, you have a valid case for a pay increase.
