@@ -68,6 +68,7 @@ function getFlagEmoji(countryName: string): string {
 }
 
 const countryMap: Record<string, string> = {
+  AD: 'Andorra',
   AL: 'Albania',
   AG: 'Antigua and Barbuda',
   AR: 'Argentina',
@@ -104,6 +105,7 @@ const countryMap: Record<string, string> = {
   IE: 'Ireland',
   IT: 'Italy',
   JP: 'Japan',
+  KG: 'Kyrgyzstan',
   LV: 'Latvia',
   MY: 'Malaysia',
   MT: 'Malta',
