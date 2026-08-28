@@ -430,6 +430,8 @@ async function refreshJobsCache() {
 
   // --- Greenhouse API Sources ---
   const GREENHOUSE_BOARDS = [
+    { board: 'drivewealth', company: 'DriveWealth' },
+
     { board: 'stripe', company: 'Stripe' },
 
     { board: 'messari', company: 'Messari' },
@@ -622,7 +624,7 @@ async function refreshJobsCache() {
     // --- Regional Exchanges & Protocols ---
     { board: 'swissborg', company: 'SwissBorg' },
     { board: 'mantra', company: 'Mantra Chain' },
-  ];
+];
 
   for (const lv of LEVER_BOARDS) {
     registerDirectSource('Lever', lv.board, lv.company);
@@ -680,6 +682,15 @@ async function refreshJobsCache() {
 
   // --- Ashby API Sources ---
   const ASHBY_BOARDS = [
+    { board: 'primeintellect', company: 'Prime Intellect' },
+    { board: 'socket', company: 'Socket' },
+    { board: 'parallel', company: 'Parallel' },
+    { board: 'fleek', company: 'Fleek' },
+    { board: 'lens', company: 'Lens Protocol' },
+    { board: 'delphi', company: 'Delphi Digital' },
+    { board: 'satoshilabs', company: 'Trezor' },
+    { board: 'risklabs', company: 'Across Protocol' },
+
     { board: 'ramp', company: 'Ramp' },
 
     // High-signal crypto employers verified against their official careers pages.
@@ -933,6 +944,10 @@ async function refreshJobsCache() {
 
   // --- Workable API Sources ---
   const WORKABLE_BOARDS = [
+    { board: 'mudrex', company: 'Mudrex' },
+    { board: 'bitfinex', company: 'Bitfinex' },
+    { board: 'zebpay', company: 'ZebPay' },
+
     { board: 'aethir', company: 'Aethir' },
     { board: 'anza-xyz', company: 'Anza' },
     { board: 'walletconnect', company: 'WalletConnect' },

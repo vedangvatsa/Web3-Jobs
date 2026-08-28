@@ -176,6 +176,23 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'giottus': 'https://www.giottus.com',
  'bitoasis': 'https://bitoasis.net',
  'union': 'https://union.build',
+ 'coindcx': 'https://coindcx.com',
+ 'indodax': 'https://indodax.com',
+ 'starkware': 'https://starkware.co',
+ 'amina-bank': 'https://aminabank.com',
+ 'drivewealth': 'https://drivewealth.com',
+ 'prime-intellect': 'https://www.primeintellect.ai',
+ 'socket': 'https://socket.tech',
+ 'parallel': 'https://parallel.life',
+ 'fleek': 'https://fleek.xyz',
+ 'lens-protocol': 'https://lens.xyz',
+ 'delphi-digital': 'https://delphidigital.io',
+ 'trezor': 'https://trezor.io',
+ 'across-protocol': 'https://across.to',
+ 'mudrex': 'https://mudrex.com',
+ 'bitfinex': 'https://www.bitfinex.com',
+ 'unocoin': 'https://www.unocoin.com',
+ 'zebpay': 'https://zebpay.com',
 };
 
 /**
