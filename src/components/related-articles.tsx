@@ -26,7 +26,7 @@ export function RelatedArticles({ allArticles, currentCategory, currentSlug }: R
   }
 
   return (
-    <section className="mt-16 pt-12 border-t border-border/70 max-w-5xl mx-auto px-4">
+    <section className="mt-16 pt-12 border-t border-border/70 site-container">
       <div className="text-center mb-8">
         <h2 className="text-2xl font-bold tracking-tight text-foreground">
           Related Reading
