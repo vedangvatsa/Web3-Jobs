@@ -81,7 +81,7 @@
     "location": "Malta, Malta, Malta",
     "department": "Media Sales",
     "active": true,
-    "slug": "analyst45"
+    "slug": "analyst45-08en"
   },
   {
     "id": "8162911",
@@ -1194,7 +1194,7 @@
     "source": "BambooHR: Bitcoin.com [bitcoin]",
     "department": "HR, Administrative & Legal",
     "active": true,
-    "slug": "manager44"
+    "slug": "manager44-084n"
   },
   {
     "id": "871",
@@ -1591,42 +1591,6 @@
     "department": "Legal, Compliance & Risk",
     "active": true,
     "slug": "compliance159"
-  },
-  {
-    "id": "2714619",
-    "title": "Frontend Software Engineer (100% Remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/frontend-software-engineer-100-remote-10",
-    "date": "2026-08-26 16:11:09 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "frontend221"
-  },
-  {
-    "id": "2714620",
-    "title": "Frontend Software Engineer (100% Remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/frontend-software-engineer-100-remote-11",
-    "date": "2026-08-26 16:11:04 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "frontend220"
-  },
-  {
-    "id": "2714623",
-    "title": "Frontend Software Engineer (100% Remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/frontend-software-engineer-100-remote-14",
-    "date": "2026-08-26 16:09:55 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "frontend219"
   },
   {
     "id": "2714626",
@@ -2752,18 +2716,6 @@
     "slug": "sales268"
   },
   {
-    "id": "8138042",
-    "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8138042",
-    "date": "2026-08-25T15:53:39-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "New York, NY; San Francisco, CA",
-    "department": "1652 Platforms - Account Executives (NA)",
-    "active": true,
-    "slug": "sales267"
-  },
-  {
     "id": "4727563005",
     "title": "Client Platforms Engineer",
     "company": "DV Trading",
@@ -2942,18 +2894,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "senior69"
-  },
-  {
-    "id": "8156996",
-    "title": "Account Executive, SMB (Grower)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8156996",
-    "date": "2026-08-25T12:56:13-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Chicago",
-    "department": "1651 Velocity - Account Executives (NA)",
-    "active": true,
-    "slug": "sales265"
   },
   {
     "id": "b98aa9016f2d",
@@ -3395,18 +3335,6 @@
     "department": "Account Management",
     "active": true,
     "slug": "manager560"
-  },
-  {
-    "id": "2721648",
-    "title": "Expansion Manager - Ivory Coast",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-ivory-coast",
-    "date": "2026-08-25 12:02:37 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "manager559"
   },
   {
     "id": "2721642",
@@ -5591,18 +5519,6 @@
     "slug": "procurement5"
   },
   {
-    "id": "8693354002",
-    "title": "Procurement Specialist",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8693354002?gh_jid=8693354002",
-    "date": "2026-08-20T17:09:50-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "procurement4"
-  },
-  {
     "id": "8144836",
     "title": "Staff Data Engineer, Market Data",
     "company": "Coinbase",
@@ -5805,18 +5721,6 @@
     "department": "Money Product Division",
     "active": true,
     "slug": "product677"
-  },
-  {
-    "id": "8138000",
-    "title": "Communities Partner Development Manager, SaaS Platforms",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8138000",
-    "date": "2026-08-20T12:59:03-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "US-Remote",
-    "department": "1630 Alliances & Channels",
-    "active": true,
-    "slug": "product676"
   },
   {
     "id": "8103952",
@@ -6344,28 +6248,6 @@
     "slug": "staff11"
   },
   {
-    "id": "JR101119",
-    "title": "Senior Analyst, Network Onboarding",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Delhi - remote first in India",
-    "active": true,
-    "slug": "onboarding12"
-  },
-  {
-    "id": "JR101118",
-    "title": "Manager, Risk Management - AI Transformation",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "manager534"
-  },
-  {
     "id": "JR101115",
     "title": "Senior Analyst, Investigation Operations",
     "company": "Circle",
@@ -6377,6 +6259,17 @@
     "slug": "analyst159"
   },
   {
+    "id": "JR101119",
+    "title": "Senior Analyst, Network Onboarding",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Delhi - remote first in India",
+    "active": true,
+    "slug": "onboarding12"
+  },
+  {
     "id": "JR101116",
     "title": "Senior Director, Ecosystem Growth, South Korea",
     "company": "Circle",
@@ -6386,6 +6279,17 @@
     "location": "South Korea",
     "active": true,
     "slug": "marketing198"
+  },
+  {
+    "id": "JR101118",
+    "title": "Manager, Risk Management - AI Transformation",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "manager534"
   },
   {
     "id": "1fd65f6d-95f0-4190-98c0-788f4df7b61e",
@@ -7010,18 +6914,6 @@
     "department": "Trading",
     "active": true,
     "slug": "trader116"
-  },
-  {
-    "id": "4722091005",
-    "title": "Trader",
-    "company": "DV Trading",
-    "link": "https://job-boards.greenhouse.io/dvtrading/jobs/4722091005",
-    "date": "2026-08-19T11:27:54-04:00",
-    "source": "Greenhouse: DV Trading [dvtrading]",
-    "location": "Chicago",
-    "department": "Trading",
-    "active": true,
-    "slug": "trader115"
   },
   {
     "id": "efe17dbd-dd55-4271-a35d-f878e47bf1ec",
@@ -9783,18 +9675,6 @@
     "slug": "manager494"
   },
   {
-    "id": "8700980002",
-    "title": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
-    "date": "2026-08-13T13:15:09-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Trading Desk Operations",
-    "active": true,
-    "slug": "engineer782"
-  },
-  {
     "id": "59164dea-9e53-4ad8-96bf-2a63c4f72fd8",
     "title": "Operations and Financial Specialist (E4A Solutions - A Subsidiary of Riot Platforms)",
     "company": "Riot Platforms",
@@ -9975,18 +9855,6 @@
     "slug": "trader112"
   },
   {
-    "id": "2469395",
-    "title": "Blockchain Expansion Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/blockchain-expansion-manager-100-remote-9",
-    "date": "2026-08-13 14:18:38 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager487"
-  },
-  {
     "id": "2469400",
     "title": "Blockchain Expansion Manager (100% remote)",
     "company": "Tether",
@@ -9997,30 +9865,6 @@
     "department": "Expansion",
     "active": true,
     "slug": "manager486"
-  },
-  {
-    "id": "2469391",
-    "title": "Blockchain Expansion Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/blockchain-expansion-manager-100-remote-7",
-    "date": "2026-08-13 14:15:47 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager485"
-  },
-  {
-    "id": "2469388",
-    "title": "Blockchain Expansion Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/blockchain-expansion-manager-100-remote-6",
-    "date": "2026-08-13 14:11:54 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager484"
   },
   {
     "id": "8127942",
@@ -11639,6 +11483,17 @@
     "slug": "senior63"
   },
   {
+    "id": "JR101102",
+    "title": "Senior Director Product, Onboarding, Compliance & Risk",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director-Product--Onboarding--Compliance---Risk_JR101102",
+    "date": "2026-08-12",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product603"
+  },
+  {
     "id": "JR101098",
     "title": "Software Engineer II",
     "company": "Circle",
@@ -11659,17 +11514,6 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "compliance125"
-  },
-  {
-    "id": "JR101102",
-    "title": "Senior Director Product, Onboarding, Compliance & Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director-Product--Onboarding--Compliance---Risk_JR101102",
-    "date": "2026-08-12",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product603"
   },
   {
     "id": "8123027",
@@ -12198,18 +12042,6 @@
     "department": "Product & Design",
     "active": true,
     "slug": "product599"
-  },
-  {
-    "id": "4950522101",
-    "title": "Senior Principal Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4950522101",
-    "date": "2026-08-11T05:55:35-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Kuala Lumpur, Malaysia",
-    "department": "Architecture",
-    "active": true,
-    "slug": "backend111"
   },
   {
     "id": "3e9df9f9-6dc8-47cd-ab48-c2b4570908a1",
@@ -12970,18 +12802,6 @@
     "slug": "solution4"
   },
   {
-    "id": "4698041006",
-    "title": "Sales Director",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698041006",
-    "date": "2026-08-10T08:23:38-04:00",
-    "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Singapore",
-    "department": "Sales",
-    "active": true,
-    "slug": "sales215"
-  },
-  {
     "id": "98f4e250-c4f6-48e2-b939-8f074632723f",
     "title": "Site Reliability Engineer",
     "company": "P2P.org",
@@ -13625,18 +13445,6 @@
     "department": "1185 Account Executives (EMEA)",
     "active": true,
     "slug": "sales212"
-  },
-  {
-    "id": "8647260002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
-    "date": "2026-08-07T11:36:42-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer732"
   },
   {
     "id": "590cce23-6a20-400e-9b82-85e08b2a91c8",
@@ -14566,18 +14374,6 @@
     "slug": "product575"
   },
   {
-    "id": "4892074101",
-    "title": "Big Data Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4892074101",
-    "date": "2026-08-06T11:06:55-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Kuala Lumpur, Malaysia",
-    "department": "Big Data",
-    "active": true,
-    "slug": "product574"
-  },
-  {
     "id": "4947956101",
     "title": "(Principal) Golang Development Engineer",
     "company": "Bybit",
@@ -14672,18 +14468,6 @@
     "department": "Client Sales",
     "active": true,
     "slug": "manager427"
-  },
-  {
-    "id": "7321236e022701",
-    "title": "Account Manager",
-    "company": "Nexo",
-    "link": "https://nexo.breezy.hr/p/7321236e022701-account-manager",
-    "date": "2026-08-06T13:00:38.512Z",
-    "source": "Breezy: Nexo [nexo]",
-    "location": "United States",
-    "department": "Client Sales",
-    "active": true,
-    "slug": "manager426"
   },
   {
     "id": "4945283101",
@@ -15300,18 +15084,6 @@
     "slug": "engineer706"
   },
   {
-    "id": "6122806004",
-    "title": "Senior Fullstack Engineer - Operational Automations",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6122806004",
-    "date": "2026-08-05T10:34:21-04:00",
-    "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "North America",
-    "department": "Engineering",
-    "active": true,
-    "slug": "fullstack37"
-  },
-  {
     "id": "3180f919-bde8-44a4-810f-cca0bc5788a9",
     "title": "Customer Support Analyst",
     "company": "Allium",
@@ -15416,66 +15188,6 @@
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
     "slug": "sales202"
-  },
-  {
-    "id": "7163307b-7ad6-42c7-82ad-c9797bf527d2",
-    "title": "Associate Director of Sales - US, Private Sector (Remote)",
-    "company": "Crystal Intelligence",
-    "link": "https://crystalintelligence.teamtailor.com/jobs/8174127-associate-director-of-sales-us-private-sector-remote",
-    "date": "2026-08-05T11:31:41.000Z",
-    "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
-    "active": true,
-    "slug": "sales201"
-  },
-  {
-    "id": "48cb7848-5835-4ea8-9a4e-30004f0d5f90",
-    "title": "Associate Director of Sales - US, Private Sector (Remote)",
-    "company": "Crystal Intelligence",
-    "link": "https://crystalintelligence.teamtailor.com/jobs/8174122-associate-director-of-sales-us-private-sector-remote",
-    "date": "2026-08-05T11:31:04.000Z",
-    "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
-    "active": true,
-    "slug": "sales200"
-  },
-  {
-    "id": "87fad970-ecca-419f-8510-a1f3c8c8724e",
-    "title": "Associate Director of Sales - US, Private Sector (Remote)",
-    "company": "Crystal Intelligence",
-    "link": "https://crystalintelligence.teamtailor.com/jobs/8174117-associate-director-of-sales-us-private-sector-remote",
-    "date": "2026-08-05T11:30:25.000Z",
-    "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
-    "active": true,
-    "slug": "sales199"
-  },
-  {
-    "id": "84ab0230-09df-4237-b689-284643e901ec",
-    "title": "Associate Director of Sales - US, Private Sector (Remote)",
-    "company": "Crystal Intelligence",
-    "link": "https://crystalintelligence.teamtailor.com/jobs/8174110-associate-director-of-sales-us-private-sector-remote",
-    "date": "2026-08-05T11:29:52.000Z",
-    "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
-    "active": true,
-    "slug": "sales198"
-  },
-  {
-    "id": "6edd4ebd-69e8-44d5-9adc-d05ba2bfdd0f",
-    "title": "Associate Director of Sales - US, Private Sector (Remote)",
-    "company": "Crystal Intelligence",
-    "link": "https://crystalintelligence.teamtailor.com/jobs/8174105-associate-director-of-sales-us-private-sector-remote",
-    "date": "2026-08-05T11:28:49.000Z",
-    "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
-    "active": true,
-    "slug": "sales197"
-  },
-  {
-    "id": "9736e285-388e-4c52-b4fa-1e99f150e00a",
-    "title": "Associate Director of Sales - US, Private Sector (Remote)",
-    "company": "Crystal Intelligence",
-    "link": "https://crystalintelligence.teamtailor.com/jobs/8174007-associate-director-of-sales-us-private-sector-remote",
-    "date": "2026-08-05T11:14:28.000Z",
-    "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
-    "active": true,
-    "slug": "sales196"
   },
   {
     "id": "3b28adba-a63c-41c3-8338-fa9d763b2076",
@@ -15778,20 +15490,6 @@
     "slug": "engineer701"
   },
   {
-    "id": "9CB0EE3B47",
-    "title": "Head of Product Marketing (Financial Products)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/9CB0EE3B47",
-    "date": "2026-08-05T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "Marketing"
-    ],
-    "active": true,
-    "slug": "product557"
-  },
-  {
     "id": "91177F2914",
     "title": "Head of Product Marketing (Core)",
     "company": "GoMining",
@@ -15804,6 +15502,20 @@
     ],
     "active": true,
     "slug": "product556"
+  },
+  {
+    "id": "9CB0EE3B47",
+    "title": "Head of Product Marketing (Financial Products)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/9CB0EE3B47",
+    "date": "2026-08-05T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "Marketing"
+    ],
+    "active": true,
+    "slug": "product557"
   },
   {
     "id": "2AB065F537",
@@ -16925,18 +16637,6 @@
     "slug": "sales190"
   },
   {
-    "id": "8626146002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8626146002?gh_jid=8626146002",
-    "date": "2026-08-03T09:32:55-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend173"
-  },
-  {
     "id": "6129946004",
     "title": "Senior Analytics Engineer",
     "company": "Alpaca",
@@ -16985,30 +16685,6 @@
     "slug": "manager408"
   },
   {
-    "id": "2698179",
-    "title": "Corporate Development Portfolio Manager ( Fintech & Emerging Markets)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/corporate-development-portfolio-manager-fintech-emerging-markets",
-    "date": "2026-08-03 12:32:20 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Investment",
-    "active": true,
-    "slug": "product543"
-  },
-  {
-    "id": "8651405002",
-    "title": "Hardware Engineer (FPGA/ASIC)",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8651405002?gh_jid=8651405002",
-    "date": "2026-08-03T06:44:12-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer676"
-  },
-  {
     "id": "8651286002",
     "title": "Linux Engineer",
     "company": "Jane Street",
@@ -17043,54 +16719,6 @@
     "department": "3313 SDC - Financial Crimes",
     "active": true,
     "slug": "operations92"
-  },
-  {
-    "id": "8600948002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8600948002?gh_jid=8600948002",
-    "date": "2026-08-03T05:30:42-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader107"
-  },
-  {
-    "id": "8576270002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8576270002?gh_jid=8576270002",
-    "date": "2026-08-03T05:30:03-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader106"
-  },
-  {
-    "id": "8474416002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8474416002?gh_jid=8474416002",
-    "date": "2026-08-03T05:29:08-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader105"
-  },
-  {
-    "id": "8474407002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8474407002?gh_jid=8474407002",
-    "date": "2026-08-03T05:26:24-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader104"
   },
   {
     "id": "744000141207989",
@@ -17346,6 +16974,17 @@
     "slug": "sales187"
   },
   {
+    "id": "JR101089",
+    "title": "VP of Ecosystem Growth, Brazil",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/VP-of-Ecosystem-Growth--Brazil_JR101089",
+    "date": "2026-08-03",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "São Paulo - remote first in Brazil",
+    "active": true,
+    "slug": "marketing170"
+  },
+  {
     "id": "JR101097",
     "title": "Senior Customer Care Advisor",
     "company": "Circle",
@@ -17366,17 +17005,6 @@
     "location": "Singapore - remote first in Singapore",
     "active": true,
     "slug": "marketing169"
-  },
-  {
-    "id": "JR101089",
-    "title": "VP of Ecosystem Growth, Brazil",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/VP-of-Ecosystem-Growth--Brazil_JR101089",
-    "date": "2026-08-03",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
-    "active": true,
-    "slug": "marketing170"
   },
   {
     "id": "4942108101",
@@ -19223,18 +18851,6 @@
     "slug": "product520"
   },
   {
-    "id": "8648512002",
-    "title": "IT Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8648512002?gh_jid=8648512002",
-    "date": "2026-07-29T10:28:53-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer644"
-  },
-  {
     "id": "8079858",
     "title": "Technical Solutions Engineering Manager",
     "company": "Stripe",
@@ -19616,18 +19232,6 @@
     "department": "Compliance",
     "active": true,
     "slug": "director96008"
-  },
-  {
-    "id": "5373189008",
-    "title": "Senior Sales Account Executive",
-    "company": "Block",
-    "link": "http://block.xyz/careers/jobs/5373189008?gh_jid=5373189008",
-    "date": "2026-07-28T16:17:33-04:00",
-    "source": "Greenhouse: Block [block]",
-    "location": "London, United Kingdom",
-    "department": "20213 S&M - Sales - Square Outside",
-    "active": true,
-    "slug": "sales179"
   },
   {
     "id": "8089812",
@@ -20614,18 +20218,6 @@
     "slug": "associate50"
   },
   {
-    "id": "4931787101",
-    "title": "Senior Data Analyst",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4931787101",
-    "date": "2026-07-26T21:44:48-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Abu Dhabi, UAE",
-    "department": "Business Intelligence",
-    "active": true,
-    "slug": "analyst109"
-  },
-  {
     "id": "8485e325-111f-4370-b3c6-0ed95872144f",
     "title": "Software Engineer I, CCIP",
     "company": "Chainlink Labs",
@@ -21147,18 +20739,6 @@
     "slug": "regional2"
   },
   {
-    "id": "53f4727b-89a8-4b19-8b1a-65781808c5dd",
-    "title": "Binance Accelerator Program - AI Agent Engineer",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/53f4727b-89a8-4b19-8b1a-65781808c5dd",
-    "date": "2026-07-24T10:53:37.591Z",
-    "source": "Lever: Binance [binance]",
-    "location": "Asia",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer618"
-  },
-  {
     "id": "6562f4e6-c78d-49f2-ad82-68a00b1ab458",
     "title": "Campaigns & Memberships Marketing Manager",
     "company": "Elliptic",
@@ -21387,19 +20967,6 @@
     "slug": "security179"
   },
   {
-    "id": "29a35402-8d93-443c-ae31-891b122591d7",
-    "title": "People Business Partner - Engineering",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/29a35402-8d93-443c-ae31-891b122591d7",
-    "date": "2026-07-24",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "United States",
-    "department": "People",
-    "active": true,
-    "slug": "engineer616"
-  },
-  {
     "id": "4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
     "title": "Institutional Relations Lead",
     "company": "Chainlink Labs",
@@ -21411,6 +20978,19 @@
     "department": "Marketing",
     "active": true,
     "slug": "devrel31"
+  },
+  {
+    "id": "29a35402-8d93-443c-ae31-891b122591d7",
+    "title": "People Business Partner - Engineering",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/29a35402-8d93-443c-ae31-891b122591d7",
+    "date": "2026-07-24",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "United States",
+    "department": "People",
+    "active": true,
+    "slug": "engineer616"
   },
   {
     "id": "8060600",
@@ -21759,18 +21339,6 @@
     "department": "User Experience Design (UED)",
     "active": true,
     "slug": "product494"
-  },
-  {
-    "id": "7366f0dd-5f08-4fc5-a677-53fd69ec7239",
-    "title": "Binance Accelerator Program - QA",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/7366f0dd-5f08-4fc5-a677-53fd69ec7239",
-    "date": "2026-07-23T10:06:55.486Z",
-    "source": "Lever: Binance [binance]",
-    "location": "Asia",
-    "department": "Engineering",
-    "active": true,
-    "slug": "qa33"
   },
   {
     "id": "7632855003",
@@ -22254,18 +21822,6 @@
     "slug": "compliance95"
   },
   {
-    "id": "8635672002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8635672002?gh_jid=8635672002",
-    "date": "2026-07-22T11:45:51-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend156"
-  },
-  {
     "id": "8641280002",
     "title": "IT Operations Engineer",
     "company": "Jane Street",
@@ -22468,18 +22024,6 @@
     "department": "STX - Compliance",
     "active": true,
     "slug": "compliance93"
-  },
-  {
-    "id": "8643171002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8643171002?gh_jid=8643171002",
-    "date": "2026-07-22T06:32:31-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend154"
   },
   {
     "id": "7812572003",
@@ -22988,18 +22532,6 @@
     "slug": "frontend152"
   },
   {
-    "id": "8641377002",
-    "title": "IT Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8641377002?gh_jid=8641377002",
-    "date": "2026-07-21T13:09:51-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer595"
-  },
-  {
     "id": "7788c9a6-235c-467b-9e3a-cb69c5700e7d",
     "title": "Senior Product Manager - Consumer",
     "company": "Kraken",
@@ -23288,42 +22820,6 @@
     "slug": "manager345"
   },
   {
-    "id": "2684020",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-18",
-    "date": "2026-07-21 08:33:52 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager344"
-  },
-  {
-    "id": "2684019",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-17",
-    "date": "2026-07-21 08:33:10 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager343"
-  },
-  {
-    "id": "2684018",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-16",
-    "date": "2026-07-21 08:32:31 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager342"
-  },
-  {
     "id": "8dbde7d6-b2e1-46f3-bd98-b7da70a97ffe",
     "title": "Wallet & Crypto Security Engineer",
     "company": "Coins.ph",
@@ -23336,30 +22832,6 @@
     "slug": "security169"
   },
   {
-    "id": "2684015",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-15",
-    "date": "2026-07-21 08:26:38 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager341"
-  },
-  {
-    "id": "2684014",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-14",
-    "date": "2026-07-21 08:25:51 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager340"
-  },
-  {
     "id": "d6d8cf94-095e-4bea-8c9a-4a0740d3e307",
     "title": "Senior Infrastructure Engineer — IDC / Bare-Metal Kubernetes",
     "company": "Binance",
@@ -23370,42 +22842,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "devops72"
-  },
-  {
-    "id": "2684008",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-13",
-    "date": "2026-07-21 08:23:05 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager339"
-  },
-  {
-    "id": "2683999",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-12",
-    "date": "2026-07-21 08:20:55 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager338"
-  },
-  {
-    "id": "2683995",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-11",
-    "date": "2026-07-21 08:19:23 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager337"
   },
   {
     "id": "63b555b7-0b53-4355-8b51-fd53302dde3d",
@@ -23430,18 +22866,6 @@
     "department": "R&D",
     "active": true,
     "slug": "analyst104"
-  },
-  {
-    "id": "2683985",
-    "title": "Engagement Manager, AI Implementations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/engagement-manager-ai-implementations-10",
-    "date": "2026-07-21 08:17:04 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager336"
   },
   {
     "id": "7802446003",
@@ -23552,30 +22976,6 @@
     "slug": "product471"
   },
   {
-    "id": "8632392002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002",
-    "date": "2026-07-21T02:03:40-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Singapore",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer584"
-  },
-  {
-    "id": "8623868002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8623868002?gh_jid=8623868002",
-    "date": "2026-07-21T01:59:58-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader96"
-  },
-  {
     "id": "8620505002",
     "title": "Trading Desk Operations Engineer",
     "company": "Jane Street",
@@ -23586,18 +22986,6 @@
     "department": "Trading Desk Operations",
     "active": true,
     "slug": "engineer583"
-  },
-  {
-    "id": "8623733002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8623733002?gh_jid=8623733002",
-    "date": "2026-07-21T01:58:59-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader95"
   },
   {
     "id": "e92d8b5f-0f0a-4569-884f-4f45c8ad024c",
@@ -23998,18 +23386,6 @@
     "department": "Legal & Compliance",
     "active": true,
     "slug": "compliance88"
-  },
-  {
-    "id": "4932856101",
-    "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
-    "date": "2026-07-20T16:24:54-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Abu Dhabi, UAE",
-    "department": "Legal & Compliance",
-    "active": true,
-    "slug": "compliance87"
   },
   {
     "id": "4931436101",
@@ -25212,18 +24588,6 @@
     "slug": "manager321"
   },
   {
-    "id": "6115761004",
-    "title": "Senior Fullstack Engineer - Operational Automations",
-    "company": "Alpaca",
-    "link": "https://job-boards.greenhouse.io/alpaca/jobs/6115761004",
-    "date": "2026-07-16T10:09:01-04:00",
-    "source": "Greenhouse: Alpaca [alpaca]",
-    "location": "North America",
-    "department": "Engineering",
-    "active": true,
-    "slug": "fullstack31"
-  },
-  {
     "id": "4694977006",
     "title": "SecOps Expert",
     "company": "Fireblocks",
@@ -25646,18 +25010,6 @@
     "slug": "qa29"
   },
   {
-    "id": "8626260002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8626260002?gh_jid=8626260002",
-    "date": "2026-07-15T12:48:12-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend144"
-  },
-  {
     "id": "8059929",
     "title": "Recruiting Scheduler (Fixed Term Contract)",
     "company": "Stripe",
@@ -25836,18 +25188,6 @@
     "department": "Engineering - Back End",
     "active": true,
     "slug": "engineer559"
-  },
-  {
-    "id": "8632723002",
-    "title": "Cybersecurity Engineer - Security Operations Center (SOC)",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8632723002?gh_jid=8632723002",
-    "date": "2026-07-15T07:16:20-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Cybersecurity",
-    "active": true,
-    "slug": "security162"
   },
   {
     "id": "8041655",
@@ -27274,18 +26614,6 @@
     "slug": "developer31"
   },
   {
-    "id": "8624440002",
-    "title": "Hardware Engineer (FPGA/ASIC)",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8624440002?gh_jid=8624440002",
-    "date": "2026-07-10T13:26:06-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer533"
-  },
-  {
     "id": "8041894",
     "title": "Account Executive, Enterprise Platforms, Tier 2 Grower",
     "company": "Stripe",
@@ -27895,18 +27223,6 @@
     "department": "Commercial",
     "active": true,
     "slug": "deputy5"
-  },
-  {
-    "id": "8617298002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002",
-    "date": "2026-07-09T03:28:52-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer522"
   },
   {
     "id": "eb8d067d-75be-4b54-848d-0f1bdb3ce63c",
@@ -29205,30 +28521,6 @@
     "slug": "product411"
   },
   {
-    "id": "8617344002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8617344002?gh_jid=8617344002",
-    "date": "2026-07-06T15:03:49-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader92"
-  },
-  {
-    "id": "8594541002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8594541002?gh_jid=8594541002",
-    "date": "2026-07-06T15:02:09-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer503"
-  },
-  {
     "id": "8611307002",
     "title": "Machine Learning Engineer",
     "company": "Jane Street",
@@ -29251,42 +28543,6 @@
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer501"
-  },
-  {
-    "id": "8498547002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8498547002?gh_jid=8498547002",
-    "date": "2026-07-06T15:01:09-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader91"
-  },
-  {
-    "id": "8419303002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8419303002?gh_jid=8419303002",
-    "date": "2026-07-06T15:00:03-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer500"
-  },
-  {
-    "id": "8384490002",
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002",
-    "date": "2026-07-06T14:59:10-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "machine11"
   },
   {
     "id": "8621431002",
@@ -30353,42 +29609,6 @@
     "slug": "manager279"
   },
   {
-    "id": "2662701",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-16",
-    "date": "2026-07-01 11:36:40 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager278"
-  },
-  {
-    "id": "2662688",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-15",
-    "date": "2026-07-01 11:35:37 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager277"
-  },
-  {
-    "id": "2662690",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-14",
-    "date": "2026-07-01 11:34:53 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager276"
-  },
-  {
     "id": "44b90282-2747-4a39-9e38-67e99adf986c",
     "title": "Business Operations Associate",
     "company": "Braiins",
@@ -30688,18 +29908,6 @@
     "department": "Marketing & Communications",
     "active": true,
     "slug": "designer20"
-  },
-  {
-    "id": "8039800",
-    "title": "Software Engineer, Product Security Data Platforms",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8039800",
-    "date": "2026-06-30T18:11:48-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Seattle",
-    "department": "8612 Security Infrastructure",
-    "active": true,
-    "slug": "security141"
   },
   {
     "id": "ca5ccdcd-fd2c-4041-8579-6813b71eebaa",
@@ -31970,18 +31178,6 @@
     "slug": "concierge4"
   },
   {
-    "id": "8031308",
-    "title": "Concierge Specialist IV",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8031308?gh_jid=8031308",
-    "date": "2026-06-26T17:02:56-04:00",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Hybrid - London, UK",
-    "department": "Customer Experience",
-    "active": true,
-    "slug": "concierge3"
-  },
-  {
     "id": "cfcb2581-87c7-4db1-9679-0364eea1e23c",
     "title": "Machine Learning Lead",
     "company": "Coinflow",
@@ -32160,18 +31356,6 @@
     "department": "Europe",
     "active": true,
     "slug": "market2"
-  },
-  {
-    "id": "4908935101",
-    "title": "Lead Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
-    "date": "2026-06-26T02:36:37-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Kuala Lumpur, Malaysia",
-    "department": "Infrastructure",
-    "active": true,
-    "slug": "backend73"
   },
   {
     "id": "ec1a6359-0989-4ea3-96a1-6418cb4b62a8",
@@ -32377,18 +31561,6 @@
     "slug": "security135"
   },
   {
-    "id": "8011682",
-    "title": "Operations Associate - Managed Support (Includes Weekend Rotation)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8011682",
-    "date": "2026-06-25T11:41:53-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Mexico City",
-    "department": "4160 SDC - Managed Operations: Issuing",
-    "active": true,
-    "slug": "operations54"
-  },
-  {
     "id": "6100176004",
     "title": "Policy Associate – AI and Data Centers",
     "company": "Galaxy Digital",
@@ -32471,18 +31643,6 @@
     "department": "Operations, Strategy & Project Management",
     "active": true,
     "slug": "manager266"
-  },
-  {
-    "id": "8027844",
-    "title": "Senior Software Engineer, C++",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8027844",
-    "date": "2026-06-25T03:38:56-04:00",
-    "source": "Greenhouse: Flow Traders [flowtraders]",
-    "location": "London",
-    "department": "Product Development",
-    "active": true,
-    "slug": "engineer457"
   },
   {
     "id": "8027843",
@@ -32603,18 +31763,6 @@
     "department": "Engineering - Security",
     "active": true,
     "slug": "security133"
-  },
-  {
-    "id": "8021647",
-    "title": "Senior Software Engineer",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/8021647?gh_jid=8021647",
-    "date": "2026-06-24T14:39:38-04:00",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Remote - USA",
-    "department": "Engineering - Security",
-    "active": true,
-    "slug": "engineer453"
   },
   {
     "id": "b6ca1fd5-a374-4c99-a6fd-a0c4d0859a61",
@@ -32759,18 +31907,6 @@
     "department": "5902 Tax Autofile",
     "active": true,
     "slug": "global8"
-  },
-  {
-    "id": "8025933",
-    "title": "Senior Software Engineer, C++",
-    "company": "Flow Traders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8025933",
-    "date": "2026-06-24T09:57:36-04:00",
-    "source": "Greenhouse: Flow Traders [flowtraders]",
-    "location": "Amsterdam",
-    "department": "Product Development",
-    "active": true,
-    "slug": "engineer449"
   },
   {
     "id": "a0ad19ba-c92d-46c4-81ee-bd6faba464db",
@@ -33158,18 +32294,6 @@
     "slug": "product362"
   },
   {
-    "id": "43fafef4-b5f3-495c-a8d5-07ce89a26f4e",
-    "title": "Senior Account Executive - Israel",
-    "company": "Chainalysis",
-    "link": "https://jobs.ashbyhq.com/chainalysis-careers/43fafef4-b5f3-495c-a8d5-07ce89a26f4e",
-    "date": "2026-06-23T12:52:40.717+00:00",
-    "source": "Ashby: Chainalysis [chainalysis-careers]",
-    "location": "Tel Aviv Office",
-    "department": "Sales",
-    "active": true,
-    "slug": "sales113"
-  },
-  {
     "id": "9975636b-8def-452b-be67-1ec42e6cc085",
     "title": "Senior Account Executive - Israel",
     "company": "Chainalysis",
@@ -33302,18 +32426,6 @@
     "department": "Machine Learning",
     "active": true,
     "slug": "achine1"
-  },
-  {
-    "id": "8594416002",
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8594416002?gh_jid=8594416002",
-    "date": "2026-06-22T16:11:51-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "machine9"
   },
   {
     "id": "8021857",
@@ -33484,18 +32596,6 @@
     "slug": "manager251"
   },
   {
-    "id": "4904748101",
-    "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4904748101",
-    "date": "2026-06-22T05:49:23-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Abu Dhabi, UAE",
-    "department": "Legal & Compliance",
-    "active": true,
-    "slug": "compliance55"
-  },
-  {
     "id": "4882378101",
     "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity",
     "company": "Bybit",
@@ -33653,6 +32753,17 @@
     "slug": "engineer435"
   },
   {
+    "id": "JR101060",
+    "title": "Security Engineer II, Detection and Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security130"
+  },
+  {
     "id": "JR101064",
     "title": "Business Development Director, USYC",
     "company": "Circle",
@@ -33673,17 +32784,6 @@
     "location": "New York City - remote first in US",
     "active": true,
     "slug": "senior34"
-  },
-  {
-    "id": "JR101060",
-    "title": "Security Engineer II, Detection and Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security130"
   },
   {
     "id": "7d52b612-c0f7-4534-b3c5-5f6531176bf9",
@@ -34958,42 +34058,6 @@
     "slug": "engineer412"
   },
   {
-    "id": "2643384",
-    "title": "AI Research Engineer (Multi-Modal & Vision)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-multi-modal-vision-5",
-    "date": "2026-06-16 22:16:00 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer411"
-  },
-  {
-    "id": "2643383",
-    "title": "AI Research Engineer (Multi-Modal & Vision)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-multi-modal-vision-4",
-    "date": "2026-06-16 22:12:52 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer410"
-  },
-  {
-    "id": "2643382",
-    "title": "AI Research Engineer (Multi-Modal & Vision)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-multi-modal-vision",
-    "date": "2026-06-16 22:12:19 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer409"
-  },
-  {
     "id": "be75224c-854c-4a55-9da5-62ca2dcc09df",
     "title": "Software Engineer, International",
     "company": "Ramp",
@@ -35040,54 +34104,6 @@
     "department": "Natural Assets and Special Projects",
     "active": true,
     "slug": "manager234"
-  },
-  {
-    "id": "2643275",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-10",
-    "date": "2026-06-16 16:50:17 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager233"
-  },
-  {
-    "id": "2643268",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-9",
-    "date": "2026-06-16 16:49:22 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager232"
-  },
-  {
-    "id": "2643267",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-8",
-    "date": "2026-06-16 16:48:10 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager231"
-  },
-  {
-    "id": "2643266",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-7",
-    "date": "2026-06-16 16:47:26 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager230"
   },
   {
     "id": "84fab38a-ef1a-48ee-b487-e16b4ff9ee74",
@@ -35220,18 +34236,6 @@
     "department": "Human Resources",
     "active": true,
     "slug": "frontend99"
-  },
-  {
-    "id": "8009536",
-    "title": "Customer Success Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8009536",
-    "date": "2026-06-16T04:23:09-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "London",
-    "department": "1340 Customer Success Management",
-    "active": true,
-    "slug": "manager229"
   },
   {
     "id": "5bd60183-5e79-49ca-b59c-4960f05c65e9",
@@ -35835,18 +34839,6 @@
     "slug": "associate29"
   },
   {
-    "id": "7994498",
-    "title": "Concierge Specialist IV",
-    "company": "Coinbase",
-    "link": "https://www.coinbase.com/careers/positions/7994498?gh_jid=7994498",
-    "date": "2026-06-12T15:22:25-04:00",
-    "source": "Greenhouse: Coinbase [coinbase]",
-    "location": "Hybrid - Singapore",
-    "department": "Customer Experience",
-    "active": true,
-    "slug": "concierge2"
-  },
-  {
     "id": "d36e8c85-aa6f-43b9-85ed-a41e61db3085",
     "title": "Thermal & Cooling Liquid Engineer (SME)",
     "company": "Riot Platforms",
@@ -36191,78 +35183,6 @@
     "department": "Data",
     "active": true,
     "slug": "engineer397"
-  },
-  {
-    "id": "2637660",
-    "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal-7",
-    "date": "2026-06-11 19:42:27 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer396"
-  },
-  {
-    "id": "2637659",
-    "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal-6",
-    "date": "2026-06-11 19:37:12 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer395"
-  },
-  {
-    "id": "2637658",
-    "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal-4",
-    "date": "2026-06-11 19:36:40 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer394"
-  },
-  {
-    "id": "2637657",
-    "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal-3",
-    "date": "2026-06-11 19:35:57 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer393"
-  },
-  {
-    "id": "2637655",
-    "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal-1",
-    "date": "2026-06-11 19:34:43 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer392"
-  },
-  {
-    "id": "2637638",
-    "title": "AI Research Engineer (Pre-training - LLM & Multi-Modal)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-pre-training-llm-multi-modal",
-    "date": "2026-06-11 19:33:39 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "engineer391"
   },
   {
     "id": "4704781005",
@@ -36806,18 +35726,6 @@
     "slug": "engineer382"
   },
   {
-    "id": "2635816",
-    "title": "Bare Developer (100% Remote - Worldwide) - C / JavaScript",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/bare-developer-100-remote-worldwide-c-javascript-3",
-    "date": "2026-06-10 16:35:49 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "developer28"
-  },
-  {
     "id": "59df8379-a9b3-4967-b64d-19b94e9d0cc4",
     "title": "SOX Auditor - IT Controls Manager",
     "company": "Kraken",
@@ -36852,54 +35760,6 @@
     "department": "Marketing",
     "active": true,
     "slug": "marketing89"
-  },
-  {
-    "id": "2635809",
-    "title": "Senior Software Architect (100% Remote - Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide-9",
-    "date": "2026-06-10 16:21:58 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "senior24"
-  },
-  {
-    "id": "2635808",
-    "title": "Senior Software Architect (100% Remote - Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide-8",
-    "date": "2026-06-10 16:20:06 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "senior23"
-  },
-  {
-    "id": "2635804",
-    "title": "Senior Software Architect (100% Remote - Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide-7",
-    "date": "2026-06-10 16:14:09 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "senior22"
-  },
-  {
-    "id": "2635796",
-    "title": "Senior Software Architect (100% Remote - Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide-6",
-    "date": "2026-06-10 16:12:18 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "senior21"
   },
   {
     "id": "5217611008",
@@ -36950,42 +35810,6 @@
     "slug": "sales94"
   },
   {
-    "id": "2635663",
-    "title": "Senior Software Architect (100% Remote - Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide-11",
-    "date": "2026-06-10 14:28:17 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "senior20"
-  },
-  {
-    "id": "2635641",
-    "title": "Senior Software Architect (100% Remote - Worldwide)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-software-architect-100-remote-worldwide-12",
-    "date": "2026-06-10 14:20:10 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "senior19"
-  },
-  {
-    "id": "2635636",
-    "title": "Bare Developer (100% Remote - Worldwide) - C / JavaScript",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/bare-developer-100-remote-worldwide-c-javascript",
-    "date": "2026-06-10 14:17:14 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "developer27"
-  },
-  {
     "id": "2635583",
     "title": "Senior Business Analyst Mining (100% remote)",
     "company": "Tether",
@@ -37008,78 +35832,6 @@
     "department": "Operations",
     "active": true,
     "slug": "mining2"
-  },
-  {
-    "id": "2635581",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-9",
-    "date": "2026-06-10 13:50:25 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst65"
-  },
-  {
-    "id": "2635580",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-8",
-    "date": "2026-06-10 13:49:48 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst64"
-  },
-  {
-    "id": "2635575",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-7",
-    "date": "2026-06-10 13:49:12 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst63"
-  },
-  {
-    "id": "2635570",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-6",
-    "date": "2026-06-10 13:48:28 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst62"
-  },
-  {
-    "id": "2635563",
-    "title": "Bare Developer (100% Remote - Worldwide) - C / JavaScript",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/bare-developer-100-remote-worldwide-c-javascript-1",
-    "date": "2026-06-10 13:45:22 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "developer26"
-  },
-  {
-    "id": "2635547",
-    "title": "Bare Developer (100% Remote - Worldwide) - C / JavaScript",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/bare-developer-100-remote-worldwide-c-javascript-2",
-    "date": "2026-06-10 13:39:42 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Engineering",
-    "active": true,
-    "slug": "developer25"
   },
   {
     "id": "7972102",
@@ -37648,66 +36400,6 @@
     "slug": "marketing85"
   },
   {
-    "id": "2633351",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-6",
-    "date": "2026-06-09 08:57:23 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager206"
-  },
-  {
-    "id": "2633346",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-5",
-    "date": "2026-06-09 08:56:44 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager205"
-  },
-  {
-    "id": "2633344",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-4",
-    "date": "2026-06-09 08:56:15 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager204"
-  },
-  {
-    "id": "2633342",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-3",
-    "date": "2026-06-09 08:55:31 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager203"
-  },
-  {
-    "id": "2633338",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote-2",
-    "date": "2026-06-09 08:54:26 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager202"
-  },
-  {
     "id": "0b862c4c-0205-4fe1-a838-6b5a126b509b",
     "title": "Web3后端开发工程师",
     "company": "Gate.io",
@@ -37730,18 +36422,6 @@
     "department": "4138 SDC - Tech Ops",
     "active": true,
     "slug": "analyst60"
-  },
-  {
-    "id": "2633023",
-    "title": "Portfolio Manager - Real Estate",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/portfolio-manager-real-estate-1",
-    "date": "2026-06-09 07:11:23 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "manager201"
   },
   {
     "id": "6b21b701-03c9-42ab-8519-a294c7256b0c",
@@ -37972,18 +36652,6 @@
     "slug": "sales92"
   },
   {
-    "id": "6016480004",
-    "title": "Technical Program Manager",
-    "company": "Galaxy Digital",
-    "link": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6016480004",
-    "date": "2026-06-08T14:57:14-04:00",
-    "source": "Greenhouse: Galaxy Digital [galaxydigitalservices]",
-    "location": "London",
-    "department": "GalaxyOne",
-    "active": true,
-    "slug": "manager199"
-  },
-  {
     "id": "5199070008",
     "title": "Mid-Market Account Manager",
     "company": "Block",
@@ -38092,54 +36760,6 @@
     "slug": "manager196"
   },
   {
-    "id": "2632427",
-    "title": "Global Events Finance Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-finance-manager-100-remote-1",
-    "date": "2026-06-08 13:46:29 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "manager195"
-  },
-  {
-    "id": "2632423",
-    "title": "Global Events Finance Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-finance-manager-100-remote-2",
-    "date": "2026-06-08 13:45:14 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "manager194"
-  },
-  {
-    "id": "2632414",
-    "title": "Global Events Finance Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-finance-manager-100-remote-3",
-    "date": "2026-06-08 13:42:18 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "manager193"
-  },
-  {
-    "id": "2632412",
-    "title": "Global Events Finance Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-finance-manager-100-remote-4",
-    "date": "2026-06-08 13:41:07 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "manager192"
-  },
-  {
     "id": "8581625002",
     "title": "Financial Resource Management Specialist",
     "company": "Jane Street",
@@ -38212,54 +36832,6 @@
     "slug": "expansion6"
   },
   {
-    "id": "2631822",
-    "title": "Expansion Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-event-coordinator-6",
-    "date": "2026-06-08 09:57:17 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "expansion5"
-  },
-  {
-    "id": "2631814",
-    "title": "Expansion Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-event-coordinator-5",
-    "date": "2026-06-08 09:56:23 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "expansion4"
-  },
-  {
-    "id": "2631812",
-    "title": "Expansion Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-event-coordinator-4",
-    "date": "2026-06-08 09:55:09 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "expansion3"
-  },
-  {
-    "id": "2631805",
-    "title": "Expansion Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-event-coordinator-3",
-    "date": "2026-06-08 09:51:00 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "expansion2"
-  },
-  {
     "id": "163e72c9-cf90-406a-9311-6ee1d743ae84",
     "title": "Senior Backend Engineer, Rust",
     "company": "Arbitrum",
@@ -38282,78 +36854,6 @@
     "department": "Operations",
     "active": true,
     "slug": "brands6"
-  },
-  {
-    "id": "2631785",
-    "title": "Brands Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/brands-event-coordinator-6",
-    "date": "2026-06-08 09:45:49 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "brands5"
-  },
-  {
-    "id": "2631780",
-    "title": "Brands Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/brands-event-coordinator-5",
-    "date": "2026-06-08 09:44:34 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "brands4"
-  },
-  {
-    "id": "2631777",
-    "title": "Brands Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/brands-event-coordinator-4",
-    "date": "2026-06-08 09:43:52 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "brands3"
-  },
-  {
-    "id": "2631775",
-    "title": "Brands Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/brands-event-coordinator-3",
-    "date": "2026-06-08 09:42:58 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "brands2"
-  },
-  {
-    "id": "2631739",
-    "title": "Expansion Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-event-coordinator",
-    "date": "2026-06-08 09:38:04 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "expansion1"
-  },
-  {
-    "id": "2631704",
-    "title": "Brands Event Coordinator",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/brands-event-coordinator",
-    "date": "2026-06-08 09:29:15 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "brands1"
   },
   {
     "id": "3b025b92-83dc-44a9-8786-e618d43f5393",
@@ -38606,30 +37106,6 @@
     "department": "Natural Assets and Special Projects",
     "active": true,
     "slug": "manager191"
-  },
-  {
-    "id": "2630023",
-    "title": "Program Manager Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/program-manager-mining-100-remote",
-    "date": "2026-06-05 11:28:27 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Natural Assets and Special Projects",
-    "active": true,
-    "slug": "manager190"
-  },
-  {
-    "id": "2630002",
-    "title": "Portfolio Manager - Real Estate",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/portfolio-manager-real-estate",
-    "date": "2026-06-05 11:25:52 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "manager189"
   },
   {
     "id": "e904a594-870c-42bb-9a1a-1ddfc0e53057",
@@ -38894,30 +37370,6 @@
     "department": "Marketing",
     "active": true,
     "slug": "marketing81"
-  },
-  {
-    "id": "8576934002",
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8576934002?gh_jid=8576934002",
-    "date": "2026-06-04T12:40:37-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "machine8"
-  },
-  {
-    "id": "8576931002",
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8576931002?gh_jid=8576931002",
-    "date": "2026-06-04T12:40:35-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "machine7"
   },
   {
     "id": "2628755",
@@ -39268,66 +37720,6 @@
     "slug": "engineer353"
   },
   {
-    "id": "2627215",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-5",
-    "date": "2026-06-03 16:00:57 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst56"
-  },
-  {
-    "id": "2627214",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-4",
-    "date": "2026-06-03 15:59:50 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst55"
-  },
-  {
-    "id": "2627213",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-3",
-    "date": "2026-06-03 15:59:05 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst54"
-  },
-  {
-    "id": "2627211",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote-1",
-    "date": "2026-06-03 15:58:10 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst53"
-  },
-  {
-    "id": "2627209",
-    "title": "Senior Business Analyst Mining (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/senior-business-analyst-mining-100-remote",
-    "date": "2026-06-03 15:56:33 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "analyst52"
-  },
-  {
     "id": "bea51e5b-073e-4a37-b446-73af217112ad",
     "title": "Risk Operations Agent (AMER. US Timezone) - 8-months Contract",
     "company": "Binance",
@@ -39374,42 +37766,6 @@
     "department": null,
     "active": true,
     "slug": "security110"
-  },
-  {
-    "id": "2626864",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-8",
-    "date": "2026-06-03 13:03:43 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security109"
-  },
-  {
-    "id": "2626859",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-7",
-    "date": "2026-06-03 13:02:00 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security108"
-  },
-  {
-    "id": "2626851",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-6",
-    "date": "2026-06-03 12:58:13 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security107"
   },
   {
     "id": "a5f5571da88301",
@@ -39901,18 +38257,6 @@
     "slug": "deputy3"
   },
   {
-    "id": "8573726002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002",
-    "date": "2026-06-02T07:19:31-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader79"
-  },
-  {
     "id": "4880524101",
     "title": "Software Engineer, Rust & Python (Asset Pricing & Hedging)",
     "company": "Bitpanda",
@@ -39983,18 +38327,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "ai3"
-  },
-  {
-    "id": "2624161",
-    "title": "Global Events Finance Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-finance-manager-100-remote-5",
-    "date": "2026-06-02 07:54:04 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "manager178"
   },
   {
     "id": "ca19da4f-720f-4d84-a966-96f08def0735",
@@ -40069,30 +38401,6 @@
     "slug": "manager177"
   },
   {
-    "id": "8573523002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8573523002?gh_jid=8573523002",
-    "date": "2026-06-01T14:04:10-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader78"
-  },
-  {
-    "id": "2623515",
-    "title": "Global Events Finance Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-finance-manager-100-remote-6",
-    "date": "2026-06-01 17:41:01 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "manager176"
-  },
-  {
     "id": "7753700003",
     "title": "Director, Lifecycle Marketing",
     "company": "OKX",
@@ -40165,30 +38473,6 @@
     "slug": "global7"
   },
   {
-    "id": "2623051",
-    "title": "Global Events Financial Controller (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-financial-controller-100-remote-1",
-    "date": "2026-06-01 13:17:18 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "global6"
-  },
-  {
-    "id": "2623041",
-    "title": "Global Events Financial Controller (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/global-events-financial-controller-100-remote",
-    "date": "2026-06-01 13:13:54 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Operations",
-    "active": true,
-    "slug": "global5"
-  },
-  {
     "id": "4857029101",
     "title": "Chief Product Officer",
     "company": "Bybit",
@@ -40199,66 +38483,6 @@
     "department": "Growth Product Team",
     "active": true,
     "slug": "product306"
-  },
-  {
-    "id": "2622288",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-5",
-    "date": "2026-06-01 08:36:37 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security105"
-  },
-  {
-    "id": "2622285",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-4",
-    "date": "2026-06-01 08:35:46 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security104"
-  },
-  {
-    "id": "2622283",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-3",
-    "date": "2026-06-01 08:34:58 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security103"
-  },
-  {
-    "id": "2622280",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote-1",
-    "date": "2026-06-01 08:33:46 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security102"
-  },
-  {
-    "id": "2622267",
-    "title": "Internal Audit Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/internal-audit-manager-100-remote",
-    "date": "2026-06-01 08:29:10 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "security101"
   },
   {
     "id": "7757518003",
@@ -41000,20 +39224,6 @@
     "slug": "vp1"
   },
   {
-    "id": "0C1A634B81",
-    "title": "Senior Site Technician - Bitcoin Mining",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/0C1A634B81",
-    "date": "2026-05-27T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Butte, United States",
-    "department": [
-      "Hostings"
-    ],
-    "active": true,
-    "slug": "senior16"
-  },
-  {
     "id": "CE68D43E05",
     "title": "Senior Site Technician - Bitcoin Mining",
     "company": "GoMining",
@@ -41026,6 +39236,20 @@
     ],
     "active": true,
     "slug": "senior17"
+  },
+  {
+    "id": "0C1A634B81",
+    "title": "Senior Site Technician - Bitcoin Mining",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/0C1A634B81",
+    "date": "2026-05-27T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Butte, United States",
+    "department": [
+      "Hostings"
+    ],
+    "active": true,
+    "slug": "senior16"
   },
   {
     "id": "7ba8147257b1",
@@ -41963,20 +40187,6 @@
     "slug": "head36"
   },
   {
-    "id": "99D41DDA7A",
-    "title": "Relationship Manager - Wealth Management (East Asia)",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/99D41DDA7A",
-    "date": "2026-05-21T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "Taiwan / Taiwan / South Korea / Japan",
-    "department": [
-      "Clients Team"
-    ],
-    "active": true,
-    "slug": "devrel14"
-  },
-  {
     "id": "55CAA34008",
     "title": "Relationship Manager - Wealth Management (Central Asia)",
     "company": "Hex Trust",
@@ -41989,6 +40199,20 @@
     ],
     "active": true,
     "slug": "devrel13"
+  },
+  {
+    "id": "99D41DDA7A",
+    "title": "Relationship Manager - Wealth Management (East Asia)",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/99D41DDA7A",
+    "date": "2026-05-21T00:00:00.000Z",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "Taiwan / Taiwan / South Korea / Japan",
+    "department": [
+      "Clients Team"
+    ],
+    "active": true,
+    "slug": "devrel14"
   },
   {
     "id": "FF112DB38F",
@@ -42436,114 +40660,6 @@
     "slug": "manager161"
   },
   {
-    "id": "2609039",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-15",
-    "date": "2026-05-19 16:16:41 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader69"
-  },
-  {
-    "id": "2609038",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-14",
-    "date": "2026-05-19 16:12:46 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader68"
-  },
-  {
-    "id": "2608772",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-13",
-    "date": "2026-05-19 16:11:55 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader67"
-  },
-  {
-    "id": "2608771",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-11",
-    "date": "2026-05-19 16:07:26 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader66"
-  },
-  {
-    "id": "2608769",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-12",
-    "date": "2026-05-19 16:05:07 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader65"
-  },
-  {
-    "id": "2608768",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-10",
-    "date": "2026-05-19 16:04:18 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader64"
-  },
-  {
-    "id": "2608767",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-9",
-    "date": "2026-05-19 13:52:09 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader63"
-  },
-  {
-    "id": "2608765",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization-8",
-    "date": "2026-05-19 13:50:01 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader62"
-  },
-  {
-    "id": "2608762",
-    "title": "AI Research Engineer (Model Compression & Quantization)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/ai-research-engineer-model-compression-quantization",
-    "date": "2026-05-19 13:47:30 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "trader61"
-  },
-  {
     "id": "4682157006",
     "title": "Senior QA Engineer (Financial Apps)",
     "company": "Fireblocks",
@@ -42950,20 +41066,6 @@
     "slug": "compliance37"
   },
   {
-    "id": "7FC3D0CE7F",
-    "title": "Quantitative Trader",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/7FC3D0CE7F",
-    "date": "2026-05-18T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "United States / Canada / France / Dubai, United Arab Emirates",
-    "department": [
-      "Markets"
-    ],
-    "active": true,
-    "slug": "trader60"
-  },
-  {
     "id": "F388E7681D",
     "title": "Analyst / Associate - Institutional Sales (Mandarin Speaking)",
     "company": "Hex Trust",
@@ -42976,6 +41078,20 @@
     ],
     "active": true,
     "slug": "analyst37"
+  },
+  {
+    "id": "7FC3D0CE7F",
+    "title": "Quantitative Trader",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/7FC3D0CE7F",
+    "date": "2026-05-18T00:00:00.000Z",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "United States / Canada / France / Dubai, United Arab Emirates",
+    "department": [
+      "Markets"
+    ],
+    "active": true,
+    "slug": "trader60"
   },
   {
     "id": "8BD673D5B6",
@@ -43734,30 +41850,6 @@
     "department": "Business Development",
     "active": true,
     "slug": "product256"
-  },
-  {
-    "id": "2601903",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-11",
-    "date": "2026-05-12 16:28:57 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager147"
-  },
-  {
-    "id": "2601902",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-10",
-    "date": "2026-05-12 16:28:28 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager146"
   },
   {
     "id": "4863091101",
@@ -45498,18 +43590,6 @@
     "slug": "backend57"
   },
   {
-    "id": "1a00a64d-2dbb-4e2f-9efe-1ed32226397e",
-    "title": "Senior Data Scientist",
-    "company": "Sardine",
-    "link": "https://jobs.ashbyhq.com/Sardine/1a00a64d-2dbb-4e2f-9efe-1ed32226397e",
-    "date": "2026-04-29T23:37:48.981+00:00",
-    "source": "Ashby: Sardine [Sardine]",
-    "location": "United Kingdom",
-    "department": "Data Science",
-    "active": true,
-    "slug": "senior11"
-  },
-  {
     "id": "7d228d6e-e115-4aaf-8b2f-21dc1456b078",
     "title": "Backend Engineer, Integrations & APIs",
     "company": "Stellar",
@@ -46254,18 +44334,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "manager123"
-  },
-  {
-    "id": "2580691",
-    "title": "Expansion Manager - Tokenization (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/expansion-manager-tokenization-100-remote-9",
-    "date": "2026-04-24 09:09:30 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Expansion",
-    "active": true,
-    "slug": "manager122"
   },
   {
     "id": "7712845003",
@@ -47322,18 +45390,6 @@
     "slug": "security67"
   },
   {
-    "id": "7701559003",
-    "title": "Overseas Operations Manager (P2P)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7701559003",
-    "date": "2026-04-15T03:09:50-04:00",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "Remote Roles - CIS",
-    "department": "User Risk Management",
-    "active": true,
-    "slug": "manager110"
-  },
-  {
     "id": "767b467a-cb7f-4e48-98a5-de376a0923b0",
     "title": "Full Stack Engineer (AI)",
     "company": "Binance",
@@ -47428,18 +45484,6 @@
     "department": "Finance",
     "active": true,
     "slug": "analyst25"
-  },
-  {
-    "id": "7810205",
-    "title": "Customer Success Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7810205",
-    "date": "2026-04-14T04:52:27-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "London",
-    "department": "1340 Customer Success Management",
-    "active": true,
-    "slug": "manager109"
   },
   {
     "id": "da139395-7bd1-4ede-a277-742bacecadcd",
@@ -47728,42 +45772,6 @@
     "department": "User Risk Management",
     "active": true,
     "slug": "manager104"
-  },
-  {
-    "id": "7696270003",
-    "title": "Overseas Operations Manager (P2P)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7696270003",
-    "date": "2026-04-10T08:59:24-04:00",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "Remote Roles - EMEA",
-    "department": "User Risk Management",
-    "active": true,
-    "slug": "manager103"
-  },
-  {
-    "id": "7696264003",
-    "title": "Overseas Operations Manager (P2P)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7696264003",
-    "date": "2026-04-10T08:55:06-04:00",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "Remote Roles - CIS",
-    "department": "User Risk Management",
-    "active": true,
-    "slug": "manager102"
-  },
-  {
-    "id": "ce1bb0f7-a6e7-4f68-bc65-34cd6ad8774d",
-    "title": "Tech Ops",
-    "company": "Coins.ph",
-    "link": "https://jobs.lever.co/coins/ce1bb0f7-a6e7-4f68-bc65-34cd6ad8774d",
-    "date": "2026-04-10T05:31:46.028Z",
-    "source": "Lever: Coins.ph [coins]",
-    "location": "Shanghai",
-    "department": "Crypto Exchange",
-    "active": true,
-    "slug": "operations29"
   },
   {
     "id": "5182994008",
@@ -48390,6 +46398,17 @@
     "slug": "compliance31"
   },
   {
+    "id": "JR100869",
+    "title": "Principal Product Operations and Risk Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product184"
+  },
+  {
     "id": "JR100477",
     "title": "Lead Product Manager, Token",
     "company": "Circle",
@@ -48401,26 +46420,15 @@
     "slug": "product183"
   },
   {
-    "id": "JR100849",
-    "title": "Distinguished Software Engineer",
+    "id": "JR100014-EG",
+    "title": "Staff Software Engineer",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "frontend60"
-  },
-  {
-    "id": "JR100869",
-    "title": "Principal Product Operations and Risk Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product184"
+    "slug": "engineer261"
   },
   {
     "id": "JR100929",
@@ -48434,15 +46442,15 @@
     "slug": "manager90"
   },
   {
-    "id": "JR100014-EG",
-    "title": "Staff Software Engineer",
+    "id": "JR100849",
+    "title": "Distinguished Software Engineer",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "engineer261"
+    "slug": "frontend60"
   },
   {
     "id": "JR100878",
@@ -51556,18 +49564,6 @@
     "slug": "head22"
   },
   {
-    "id": "2500685",
-    "title": "Head of Regulatory Affairs - AI and P2P (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-regulatory-affairs-ai-and-p2p-100-remote-1",
-    "date": "2026-02-22 22:27:46 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head21"
-  },
-  {
     "id": "2500683",
     "title": "Head of Licensing and Regulatory Authorisations",
     "company": "Tether",
@@ -51578,78 +49574,6 @@
     "department": "Regulatory Affairs and Licensing",
     "active": true,
     "slug": "head20"
-  },
-  {
-    "id": "2500682",
-    "title": "Head of Licensing and Regulatory Authorisations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-licensing-and-regulatory-authorisations-7",
-    "date": "2026-02-22 22:22:41 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head19"
-  },
-  {
-    "id": "2500681",
-    "title": "Head of Licensing and Regulatory Authorisations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-licensing-and-regulatory-authorisations-6",
-    "date": "2026-02-22 22:21:45 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head18"
-  },
-  {
-    "id": "2500680",
-    "title": "Head of Licensing and Regulatory Authorisations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-licensing-and-regulatory-authorisations-5",
-    "date": "2026-02-22 22:20:21 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head17"
-  },
-  {
-    "id": "2500678",
-    "title": "Head of Licensing and Regulatory Authorisations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-licensing-and-regulatory-authorisations-4",
-    "date": "2026-02-22 22:19:24 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head16"
-  },
-  {
-    "id": "2500679",
-    "title": "Head of Licensing and Regulatory Authorisations",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-licensing-and-regulatory-authorisations-3",
-    "date": "2026-02-22 22:18:07 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head15"
-  },
-  {
-    "id": "2500676",
-    "title": "Head of Regulatory Affairs - Japan",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-regulatory-affairs-japan",
-    "date": "2026-02-22 22:12:07 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head14"
   },
   {
     "id": "7622830",
@@ -51686,30 +49610,6 @@
     "department": "Regulatory Affairs and Licensing",
     "active": true,
     "slug": "head13"
-  },
-  {
-    "id": "2500369",
-    "title": "Head of Regulatory Affairs and Licensing - Middle East",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-regulatory-affairs-and-licensing-middle-east-3",
-    "date": "2026-02-20 21:33:54 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head12"
-  },
-  {
-    "id": "2500366",
-    "title": "Head of Regulatory Affairs and Licensing - Middle East",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/head-of-regulatory-affairs-and-licensing-middle-east-1",
-    "date": "2026-02-20 21:32:58 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Regulatory Affairs and Licensing",
-    "active": true,
-    "slug": "head11"
   },
   {
     "id": "7622908",
@@ -52290,18 +50190,6 @@
     "slug": "engineer205"
   },
   {
-    "id": "4f02ac1a-e2bb-4881-87c7-5c5799cb8a7d",
-    "title": "Senior Manager, Client Lead",
-    "company": "Blockstream",
-    "link": "https://jobs.ashbyhq.com/blockstream/4f02ac1a-e2bb-4881-87c7-5c5799cb8a7d",
-    "date": "2026-02-10T23:48:48.762+00:00",
-    "source": "Ashby: Blockstream [blockstream]",
-    "location": "Lugano",
-    "department": "Enterprise Products",
-    "active": true,
-    "slug": "manager65"
-  },
-  {
     "id": "7460169",
     "title": "Staff Offensive Security Engineer",
     "company": "Robinhood",
@@ -52396,18 +50284,6 @@
     "department": "Enterprise Products",
     "active": true,
     "slug": "manager63"
-  },
-  {
-    "id": "7083db4f-8a72-4fd9-a002-83bc993cc27f",
-    "title": "Senior Manager, Client Lead",
-    "company": "Blockstream",
-    "link": "https://jobs.ashbyhq.com/blockstream/7083db4f-8a72-4fd9-a002-83bc993cc27f",
-    "date": "2026-02-10T16:28:35.467+00:00",
-    "source": "Ashby: Blockstream [blockstream]",
-    "location": "Lugano",
-    "department": "Enterprise Products",
-    "active": true,
-    "slug": "manager62"
   },
   {
     "id": "cf00a2f7-c610-4b33-8234-c08202457ecb",
@@ -53672,30 +51548,6 @@
     "slug": "engineer186"
   },
   {
-    "id": "8377832002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8377832002?gh_jid=8377832002",
-    "date": "2026-01-19T00:52:26-05:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend36"
-  },
-  {
-    "id": "8377831002",
-    "title": "IT Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8377831002?gh_jid=8377831002",
-    "date": "2026-01-19T00:36:35-05:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer185"
-  },
-  {
     "id": "b22f7d6f-383d-4fc4-8639-bd5e7dfa5bef",
     "title": "PR KOL Specialist - APAC",
     "company": "Binance",
@@ -54128,30 +51980,6 @@
     "slug": "marketing30"
   },
   {
-    "id": "2408614",
-    "title": "Marketing Project Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/marketing-project-manager-100-remote-1",
-    "date": "2026-01-09 14:24:34 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "marketing29"
-  },
-  {
-    "id": "2408609",
-    "title": "Marketing Project Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/marketing-project-manager-100-remote",
-    "date": "2026-01-09 14:23:52 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "marketing28"
-  },
-  {
     "id": "76f72a07-c5d4-404e-af59-15b66a05297c",
     "title": "Senior Associate",
     "company": "Gate.io",
@@ -54338,10 +52166,10 @@
     "title": "Relationship Manager - Wealth Management (Hong Kong)",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/BDD63370C2",
-    "date": "2026-01-08",
+    "date": "2026-01-08T00:00:00.000Z",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": null,
+    "department": [],
     "active": true,
     "slug": "devrel3"
   },
@@ -55209,18 +53037,6 @@
     "slug": "product100"
   },
   {
-    "id": "2367026",
-    "title": "Account Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/account-manager-100-remote-italy",
-    "date": "2025-12-01 12:13:27 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": "Data",
-    "active": true,
-    "slug": "manager33"
-  },
-  {
     "id": "7431246",
     "title": "Senior Research Engineer",
     "company": "Flow Traders",
@@ -55351,18 +53167,6 @@
     "department": "Malbec Labs",
     "active": true,
     "slug": "engineer157"
-  },
-  {
-    "id": "2359068",
-    "title": "Account Manager (100% remote)",
-    "company": "Tether",
-    "link": "https://careers.tether.io/o/account-manager-100-remote",
-    "date": "2025-11-25 17:28:21 UTC",
-    "source": "Recruitee: Tether [tether]",
-    "location": "Remote job",
-    "department": null,
-    "active": true,
-    "slug": "manager32"
   },
   {
     "id": "2359062",
@@ -57166,18 +54970,6 @@
     "slug": "frontend19"
   },
   {
-    "id": "8140274002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8140274002?gh_jid=8140274002",
-    "date": "2025-09-04T21:31:09-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer121"
-  },
-  {
     "id": "7214197",
     "title": "Program Manager, Risk Ops Enablement",
     "company": "Stripe",
@@ -57490,18 +55282,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "engineer116"
-  },
-  {
-    "id": "8075770002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8075770002?gh_jid=8075770002",
-    "date": "2025-08-13T05:14:10-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Singapore",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer115"
   },
   {
     "id": "a834b4df-36db-4ac4-aaa7-48a4a9c8cee4",
@@ -57912,18 +55692,6 @@
     "slug": "sales12"
   },
   {
-    "id": "8075380002",
-    "title": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8075380002?gh_jid=8075380002",
-    "date": "2025-07-18T03:00:33-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Trading Desk Operations",
-    "active": true,
-    "slug": "engineer101"
-  },
-  {
     "id": "8071941002",
     "title": "Quantitative Researcher",
     "company": "Jane Street",
@@ -57934,18 +55702,6 @@
     "department": "Quantitative Research",
     "active": true,
     "slug": "trader29"
-  },
-  {
-    "id": "8071940002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8071940002?gh_jid=8071940002",
-    "date": "2025-07-18T02:56:52-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader28"
   },
   {
     "id": "6a2a94d5-66fb-4099-9e1e-6114938befe1",
@@ -58438,18 +56194,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "backend21"
-  },
-  {
-    "id": "8018160002",
-    "title": "IT Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8018160002?gh_jid=8018160002",
-    "date": "2025-05-30T13:41:48-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer84"
   },
   {
     "id": "D78D708AD0",
@@ -59364,18 +57108,6 @@
     "department": "Financial Resource Management",
     "active": true,
     "slug": "financial1"
-  },
-  {
-    "id": "5867e405-db64-4797-ae2b-34d8902212d2",
-    "title": "Binance Accelerator Program - QA Engineer, Compliance (Java, SQL)",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/5867e405-db64-4797-ae2b-34d8902212d2",
-    "date": "2025-03-19T05:07:45.818Z",
-    "source": "Lever: Binance [binance]",
-    "location": "Asia",
-    "department": "Engineering",
-    "active": true,
-    "slug": "qa212d2"
   },
   {
     "id": "d1aa9019-a6de-4187-a64a-d7c0db657e0f",
@@ -60614,18 +58346,6 @@
     "slug": "chief1"
   },
   {
-    "id": "7514485002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/7514485002?gh_jid=7514485002",
-    "date": "2024-07-01T21:29:52-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader17"
-  },
-  {
     "id": "7515116002",
     "title": "Senior Software Engineer (OCaml Experience)",
     "company": "Jane Street",
@@ -60636,18 +58356,6 @@
     "department": "Software Engineering",
     "active": true,
     "slug": "engineer52"
-  },
-  {
-    "id": "c92271de-8ff8-450c-bf1b-b7741a641bb6",
-    "title": "Binance Accelerator Program - QA",
-    "company": "Binance",
-    "link": "https://jobs.lever.co/binance/c92271de-8ff8-450c-bf1b-b7741a641bb6",
-    "date": "2024-06-27T08:14:49.587Z",
-    "source": "Lever: Binance [binance]",
-    "location": "Asia",
-    "department": "Engineering",
-    "active": true,
-    "slug": "qa4"
   },
   {
     "id": "6073131",
@@ -60792,18 +58500,6 @@
     "department": "Machine Learning",
     "active": true,
     "slug": "engineer50"
-  },
-  {
-    "id": "7449190002",
-    "title": "Machine Learning Performance Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/7449190002?gh_jid=7449190002",
-    "date": "2024-05-20T17:22:15-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "engineer49"
   },
   {
     "id": "7437779002",
@@ -61825,18 +59521,6 @@
     "slug": "frontend9"
   },
   {
-    "id": "6558007002",
-    "title": "Data Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/6558007002?gh_jid=6558007002",
-    "date": "2023-01-09T09:54:03-05:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer28"
-  },
-  {
     "id": "4782837",
     "title": "Graduate Trader",
     "company": "Flow Traders",
@@ -62017,18 +59701,6 @@
     "department": "Payments",
     "active": true,
     "slug": "product9"
-  },
-  {
-    "id": "6313662002",
-    "title": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/6313662002?gh_jid=6313662002",
-    "date": "2022-08-11T23:38:05-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Trading Desk Operations",
-    "active": true,
-    "slug": "engineer21"
   },
   {
     "id": "ff83a594-78bf-4870-8861-41c3de299d7d",
@@ -62571,30 +60243,6 @@
     "slug": "frontend4"
   },
   {
-    "id": "5548184002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/5548184002?gh_jid=5548184002",
-    "date": "2021-09-16T23:59:13-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend3"
-  },
-  {
-    "id": "5372886002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/5372886002?gh_jid=5372886002",
-    "date": "2021-07-08T10:00:04-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend2"
-  },
-  {
     "id": "3234877",
     "title": "Digital Assets Trader - Amsterdam",
     "company": "Flow Traders",
@@ -62835,30 +60483,6 @@
     "slug": "devops1"
   },
   {
-    "id": "4756741002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4756741002?gh_jid=4756741002",
-    "date": "2020-06-08T08:23:25-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer7"
-  },
-  {
-    "id": "4538451002",
-    "title": "Windows Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4538451002?gh_jid=4538451002",
-    "date": "2020-01-17T11:49:17-05:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer6"
-  },
-  {
     "id": "4432196002",
     "title": "Senior Network Engineer",
     "company": "Jane Street",
@@ -62871,42 +60495,6 @@
     "slug": "engineer5"
   },
   {
-    "id": "4276263002",
-    "title": "Windows Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4276263002?gh_jid=4276263002",
-    "date": "2019-05-06T15:27:27-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer4"
-  },
-  {
-    "id": "4274288002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4274288002?gh_jid=4274288002",
-    "date": "2019-05-06T15:18:54-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer3"
-  },
-  {
-    "id": "4274814002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4274814002?gh_jid=4274814002",
-    "date": "2019-05-02T16:57:19-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer2"
-  },
-  {
     "id": "4273643002",
     "title": "Quantitative Trader",
     "company": "Jane Street",
@@ -62917,18 +60505,6 @@
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader1"
-  },
-  {
-    "id": "4276720002",
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4276720002?gh_jid=4276720002",
-    "date": "2019-05-02T16:55:45-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "machine1"
   },
   {
     "id": "4276248002",
