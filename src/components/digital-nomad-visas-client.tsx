@@ -164,7 +164,7 @@ export function DigitalNomadVisasContent() {
       <ToolUsageTracker toolName="Digital Nomad Visas" />
       <section className="text-center mb-8 site-container">
         <PageHeader
-          title="Digital Nomad Visas"
+          title="Visas for Digital Nomads"
           description="Explore countries offering remote work and digital nomad visas for Web3 builders and creators."
         />
       </section>
