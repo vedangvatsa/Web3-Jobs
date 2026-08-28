@@ -1,0 +1,58 @@
+[
+  {
+    "type": "ashby",
+    "board": "primeintellect",
+    "company": "Prime Intellect",
+    "website": "https://www.primeintellect.ai",
+    "count": 25
+  },
+  {
+    "type": "ashby",
+    "board": "fleek",
+    "company": "Fleek",
+    "website": "https://fleek.xyz",
+    "count": 9
+  },
+  {
+    "type": "ashby",
+    "board": "risklabs",
+    "company": "Across Protocol (Risk Labs)",
+    "website": "https://across.to",
+    "count": 1
+  },
+  {
+    "type": "ashby",
+    "board": "socket",
+    "company": "Socket / Bungee",
+    "website": "https://socket.tech",
+    "count": 24
+  },
+  {
+    "type": "ashby",
+    "board": "satoshilabs",
+    "company": "Trezor (SatoshiLabs)",
+    "website": "https://trezor.io",
+    "count": 3
+  },
+  {
+    "type": "ashby",
+    "board": "parallel",
+    "company": "Parallel",
+    "website": "https://parallel.life",
+    "count": 20
+  },
+  {
+    "type": "ashby",
+    "board": "lens",
+    "company": "Lens Protocol",
+    "website": "https://lens.xyz",
+    "count": 7
+  },
+  {
+    "type": "ashby",
+    "board": "delphi",
+    "company": "Delphi Digital",
+    "website": "https://delphidigital.io",
+    "count": 6
+  }
+]

@@ -1,0 +1,72 @@
+[
+  {
+    "company": "DriveWealth",
+    "board": "drivewealth",
+    "type": "gh",
+    "site": "https://drivewealth.com",
+    "count": 18
+  },
+  {
+    "company": "Prime Intellect",
+    "board": "primeintellect",
+    "type": "ashby",
+    "site": "https://www.primeintellect.ai",
+    "count": 25
+  },
+  {
+    "company": "Fleek",
+    "board": "fleek",
+    "type": "ashby",
+    "site": "https://fleek.xyz",
+    "count": 9
+  },
+  {
+    "company": "Across Protocol",
+    "board": "risklabs",
+    "type": "ashby",
+    "site": "https://across.to",
+    "count": 1
+  },
+  {
+    "company": "Socket",
+    "board": "socket",
+    "type": "ashby",
+    "site": "https://socket.tech",
+    "count": 24
+  },
+  {
+    "company": "Trezor",
+    "board": "satoshilabs",
+    "type": "ashby",
+    "site": "https://trezor.io",
+    "count": 3
+  },
+  {
+    "company": "Parallel",
+    "board": "parallel",
+    "type": "ashby",
+    "site": "https://parallel.life",
+    "count": 20
+  },
+  {
+    "company": "Lens Protocol",
+    "board": "lens",
+    "type": "ashby",
+    "site": "https://lens.xyz",
+    "count": 7
+  },
+  {
+    "company": "Delphi Digital",
+    "board": "delphi",
+    "type": "ashby",
+    "site": "https://delphidigital.io",
+    "count": 6
+  },
+  {
+    "company": "Linea",
+    "board": "consensys",
+    "type": "gh",
+    "site": "https://linea.build",
+    "count": 5
+  }
+]
