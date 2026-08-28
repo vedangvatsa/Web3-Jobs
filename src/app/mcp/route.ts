@@ -66,11 +66,11 @@ export async function POST(request: Request) {
           resources: { subscribe: false, listChanged: false },
         },
         serverInfo: {
-          name: 'hashtagweb3-mcp-server',
-          displayName: 'Hashtag Web3',
+          name: 'hashtagweb3-product-mcp',
+          displayName: 'Hashtag Web3 Product Actions',
           version: '1.0.0',
         },
-        instructions: 'Hashtag Web3 MCP server. Use search_jobs for Web3 jobs, search_glossary for definitions, get_news for headlines, get_events for conferences.',
+        instructions: 'Hashtag Web3 Product Actions MCP server. Use search_jobs for Web3 jobs, search_glossary for definitions, get_news for headlines, get_events for conferences.',
       },
     }, {
       headers: {

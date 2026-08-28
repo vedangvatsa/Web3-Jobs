@@ -1,11 +1,13 @@
 {
-  "name": "hashtagweb3-mcp-server",
-  "displayName": "Hashtag Web3",
-  "description": "Model Context Protocol (MCP) server for Hashtag Web3. Exposes live Web3 job search, blockchain glossary definitions, crypto news, and event listings as callable tools for AI assistants and agents.",
+  "name": "hashtagweb3-product-mcp",
+  "displayName": "Hashtag Web3 Product Actions",
+  "description": "Model Context Protocol (MCP) server for Hashtag Web3 product actions. Exposes live Web3 job search, blockchain glossary definitions, crypto news, and event listings as callable tools for AI assistants and agents.",
   "version": "1.0.0",
   "iconUrl": "https://hashtagweb3.com/logo.png",
   "documentationUrl": "https://hashtagweb3.com/developers",
   "serverUrl": "https://hashtagweb3.com/api/mcp",
+  "url": "https://hashtagweb3.com/api/mcp",
+  "endpoint": "https://hashtagweb3.com/api/mcp",
   "transport": "streamable-http",
   "tools": [
     {

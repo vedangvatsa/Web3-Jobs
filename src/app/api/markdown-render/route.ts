@@ -98,13 +98,14 @@ export async function GET(request: NextRequest) {
     for (const p of directPublicFiles) {
       if (fs.existsSync(p) && fs.statSync(p).isFile()) {
         const rawContent = fs.readFileSync(p, 'utf8');
-        const mdWithFm = ensureFrontmatter(rawContent, {
+        const trimmed = rawContent.trim();
+        const outputMd = trimmed.startsWith('# ') ? rawContent : ensureFrontmatter(rawContent, {
           title: `Hashtag Web3 - ${slug}`,
           description: `Hashtag Web3 developer resource and guide for ${slug}.`,
           canonical,
           lastUpdated: todayStr,
         });
-        return new NextResponse(mdWithFm, {
+        return new NextResponse(outputMd, {
           status: 200,
           headers: {
             'Content-Type': 'text/markdown; charset=utf-8',
