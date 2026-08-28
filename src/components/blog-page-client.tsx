@@ -9,6 +9,8 @@ import { Input } from '@/components/ui/input';
 import { Search } from 'lucide-react';
 import { ArticleCard, ArticleCardSkeleton } from '@/components/article-card';
 import { CtaBanner } from '@/components/cta-banner';
+import { PageShell } from '@/components/page-shell';
+import { PageHeader } from '@/components/page-header';
 
 export function BlogPageClient({
   allArticles,
@@ -28,15 +30,17 @@ export function BlogPageClient({
   const [isPending, startTransition] = useTransition();
 
   const handleCategoryClick = (category: string) => {
-    const current = new URLSearchParams(Array.from(searchParams.entries()));
-    if (category === 'All') {
-      current.delete('category');
-    } else {
-      current.set('category', category);
-    }
-    const search = current.toString();
-    const query = search ? `?${search}` : '';
-    router.push(`${pathname}${query}`);
+    startTransition(() => {
+      const current = new URLSearchParams(Array.from(searchParams.entries()));
+      if (category === 'All') {
+        current.delete('category');
+      } else {
+        current.set('category', category);
+      }
+      const search = current.toString();
+      const query = search ? `?${search}` : '';
+      router.push(`${pathname}${query}`);
+    });
   };
 
   const handleSearchChange = (e: React.ChangeEvent<HTMLInputElement>) => {
@@ -51,7 +55,7 @@ export function BlogPageClient({
       }
       const search = current.toString();
       const query = search ? `?${search}` : '';
-      router.push(`${pathname}${query}`, { scroll: false });
+      router.push(`${pathname}${query}`);
     });
   };
 
@@ -76,9 +80,11 @@ export function BlogPageClient({
   }, [allArticles, selectedCategory, searchQuery]);
 
   return (
-    <div className="container mx-auto px-4 py-8">
-      <section className="text-center mb-12 site-container">
-        <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">The Web3 Playbook</h1>
+    <PageShell>
+      <section className="text-center mb-8">
+        <div className="site-container">
+          <PageHeader title="The Web3 Playbook" />
+        </div>
       </section>
 
       <div className="site-container">
@@ -108,7 +114,7 @@ export function BlogPageClient({
           </div>
         </Card>
 
-        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-8 min-h-[600px]">
+        <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-6 min-h-[600px]">
           {isPending
             ? [...Array(12)].map((_, i) => <ArticleCardSkeleton key={i} />)
             : filteredArticles.map((article) => (
@@ -126,9 +132,9 @@ export function BlogPageClient({
         <CtaBanner
           variant="jobs"
           title="Looking for a Web3 Job?"
-          className="col-span-full"
+          className="col-span-full mt-12"
         />
       </div>
-    </div>
+    </PageShell>
   );
 }
