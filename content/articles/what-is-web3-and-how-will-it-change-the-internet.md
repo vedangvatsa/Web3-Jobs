@@ -8,7 +8,7 @@ description: >-
  user.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 You've likely encountered terms like "[Web3](/what-is-web3)," "crypto," and "[blockchain](/what-is-a-blockchain)" when discussing the future of the internet. Web3 signifies more than just cryptocurrencies and [NFTs](/what-are-nfts); it embodies a significant vision for how the internet operates.

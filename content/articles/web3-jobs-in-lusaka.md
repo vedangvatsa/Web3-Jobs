@@ -7,7 +7,7 @@ description: >-
  is building a growing blockchain community with a focus on FinTech.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 Lusaka, the capital of Zambia, is rapidly transforming into a significant player in the [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technology sectors in Southern Africa. The city boasts a youthful, entrepreneurial population with increasing mobile and internet access. The Zambian government actively supports digital innovations, enhancing Lusaka's potential as a hub for blockchain initiatives. Developers, startups, and community builders are using decentralized technology to tackle local issues and create new economic opportunities.

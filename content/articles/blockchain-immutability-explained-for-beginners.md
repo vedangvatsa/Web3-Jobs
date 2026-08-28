@@ -7,7 +7,7 @@ description: >-
  means that once data is recorded on the blockchain, it cannot be changed or.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 Immutability stands as one of the key strengths of [blockchain](/what-is-a-blockchain) technology. This feature ensures that once data enters the blockchain, it remains unchanged and cannot be deleted. This characteristic establishes the blockchain as a tamper-proof and reliable record of events, eliminating the need for a central authority to validate its integrity.

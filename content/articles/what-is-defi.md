@@ -6,7 +6,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: defi explained
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 DeFi is a set of financial applications built on public blockchains that run through smart contracts instead of banks, brokers, or exchanges. A smart contract is a program at a blockchain address that holds funds and executes when its conditions are met, and no one can change it after deployment except through its coded governance. On Ethereum, where most DeFi operates, this means you can lend, borrow, trade, and create dollar-pegged assets without handing custody to an intermediary.

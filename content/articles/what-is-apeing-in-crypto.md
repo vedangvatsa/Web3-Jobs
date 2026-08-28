@@ -7,7 +7,7 @@ description: >-
  high-risk, FOMO-driven investment style common in the Web3 world.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 The language of the crypto world contains active, animal-themed slang, with "apeing in" being one of the most frequently encountered terms.

@@ -7,7 +7,7 @@ description: >-
  promoting a cryptocurrency or NFT project, and how to spot it.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 In the crypto market, the term "shilling" frequently appears. Understanding this concept is essential for making sound decisions and avoiding pitfalls in this speculative environment.

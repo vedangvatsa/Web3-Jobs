@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: connected nodes
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 A neural network functions as a computer program designed to mimic the human brain. This technology is essential for [deep learning](/what-is-deep-learning-technology-explained) and drives many recent advancements in artificial intelligence. The fundamental concept involves creating a system that learns from examples, similar to how humans learn.

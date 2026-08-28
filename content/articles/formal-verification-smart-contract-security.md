@@ -7,7 +7,7 @@ description: >-
  uses, limits, career paths, and comparisons with testing and audits.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 In the high-stakes environment of [smart contract](/what-are-smart-contracts) development, traditional testing methods such as unit tests and fuzzing are important but insufficient. Testing can demonstrate the presence of bugs but cannot guarantee their absence. For protocols securing substantial value, a higher standard of assurance is essential. This is where formal verification plays a critical role.

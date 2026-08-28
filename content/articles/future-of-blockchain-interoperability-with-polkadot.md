@@ -5,7 +5,7 @@ data-ai-hint: polkadot interoperability network
 description: A practical guide to Polkadot's hub and spoke design for interoperability. Covers the Relay Chain, Agile Coretime, shared security, and XCM messaging, with trade-offs and how to get started.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-08-28'
+lastUpdated: "2026-08-28"
 ---
 
 Polkadot is a Layer-0 protocol that connects specialized blockchains called parachains to a central Relay Chain. It gives those chains shared security and a common language for messaging so assets and data can move between them without trusting an external bridge.

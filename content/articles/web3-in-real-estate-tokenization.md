@@ -7,7 +7,7 @@ image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: people discussing chart
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 ## Unlocking Illiquid Markets: How Web3 and Tokenization Will Transform Real Estate

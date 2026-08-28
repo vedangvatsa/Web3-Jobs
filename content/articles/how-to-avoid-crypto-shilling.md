@@ -7,7 +7,7 @@ description: >-
  difference between authentic marketing and 'shilling,' and how to build.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-27"
+lastUpdated: "2026-08-28"
 ---
 
 In the dynamic world of [Web3](/what-is-web3), marketing presents both challenges and opportunities. It is essential to create enthusiasm and establish a community around your project while maintaining ethical standards. Distinguishing between authentic marketing and "shilling," the insincere promotion of a [token](/what-is-a-token) for quick profit, is critical for long-term success.
