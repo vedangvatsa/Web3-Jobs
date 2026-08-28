@@ -192,17 +192,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const slug = getJobSlug(jobMeta);
     const canonicalUrl = `${siteUrl}/${slug}`;
     const title = `${jobMeta.title} at ${jobMeta.company}`;
-    let sourceHost = 'employer site';
-    try { sourceHost = new URL(jobMeta.link).hostname.replace(/^www\./, ''); } catch {}
-    const uniqueMarker = `${jobMeta.company} | ${jobMeta.location || 'Remote'} | ${sourceHost}`;
-    const description = `${buildUniqueJobMetaDescription(jobMeta)} ${uniqueMarker}.`;
+    const description = buildUniqueJobMetaDescription(jobMeta);
     const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(title)}`;
     const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
     return {
       title,
       description,
       alternates: { canonical: canonicalUrl },
-      robots: hasVerifiedContent ? undefined : { index: false, follow: true },
+      robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
       openGraph: { title, description, url: canonicalUrl, type: 'website', siteName: 'Hashtag Web3', images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }] },
       twitter: { card: 'summary_large_image', title, description, images: [ogImageUrl] },
     };

@@ -38,14 +38,6 @@ function plainTextFromHtml(value: string): string {
   return cheerio.load(decodeDoubleEscapedHtml(value)).text().replace(/\s+/g, ' ').trim();
 }
 
-function ensure500Words(html: string, job: Job): string {
-  const count = () => html.replace(/<[^>]+>/g, ' ').trim().split(/\s+/).filter(Boolean).length;
-  if (count() >= 500) return html;
-  const pad = `<h3>Build a standout application</h3><p>For the ${escapeHtml(job.title)} at ${escapeHtml(job.company)}, reviewers look for concise evidence over buzzwords. Mirror the language of the posting sparingly, quantify support or delivery outcomes, and show how you handled ambiguity, time-zone collaboration and user empathy. Keep your resume to impact, keep your cover note to one page, and link to artifacts — tickets resolved, docs shipped, dashboards owned — that prove you can operate in a fast-moving Web3 team. Prepare to discuss a time you turned a confusing user report into a clear fix and how you measure quality in support and operations.</p><p>Web3 hiring values reliability: on-time follow-through, clear writing, and a track record of improving runbooks and tooling. Treat the application as a work sample. For interviews, be ready to walk through how you prioritize across time zones, handle a difficult user, and decide when to escalate versus resolve directly. Show how you document decisions so the next teammate benefits.</p><p>In a distributed Web3 org, trust builds through written clarity. Use the cover note to demonstrate it. Add links to public work, keep formatting scannable, and close with a clear ask. Hiring managers skim — make impact obvious in the first half-page.</p><p>Career growth in Web3 rewards continuous learning. Follow protocol changelogs, practice with testnets, and contribute to open issues. Small, consistent contributions compound into credibility more than one-off credentials.</p>`;
-  html = html.replace('</div>', pad + '</div>');
-  return count() >= 500 ? html : ensure500Words(html, job);
-}
-
 const FABRICATED_CONTENT_MARKERS = [
   'leading organisation in the Web3 and blockchain ecosystem',
   'passion for the Web3 space',
@@ -54,8 +46,10 @@ const FABRICATED_CONTENT_MARKERS = [
 ];
 
 export function hasSubstantialJobContent(job: Job): boolean {
-  const text = plainTextFromHtml(getCachedRawContent(job));
-  if (text.length < 300) return false;
+  const raw = getCachedRawContent(job);
+  if (!raw) return false;
+  const text = plainTextFromHtml(raw);
+  if (text.length < 100) return false;
   return !FABRICATED_CONTENT_MARKERS.some((marker) => text.includes(marker));
 }
 
@@ -198,101 +192,50 @@ export function buildSynthesizedJobContent(job: Job): string {
       continue;
     }
     flushList();
-    const para = editorializeParagraph(block.text, job);
+    const para = block.text.trim();
     let text = escapeHtml(para)
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/\*\*/g, '')
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
-    if (text.trim()) html += `<p>${text}</p>`;
+    if (text.trim()) html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
   }
   flushList();
   html += '</div>';
-  return ensure500Words(html.replace(/#{2,}HEADING###/g, ''), job);
+  return html.replace(/#{2,}HEADING###/g, '');
 }
 
 /**
- * Builds the copy rendered on the canonical job page. Employer HTML remains
- * available to the markdown export/API for verification, but is not rendered
- * verbatim in the public page. This keeps each page an original index entry
- * instead of creating a large set of duplicated ATS pages.
- * Guarantees at least 500 words of original, non-plagiarised editorial content.
+ * Builds clean fallback copy for jobs where full description text is unavailable.
  */
 export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
   const family = inferRoleFamily(job);
   const signals = extractRoleSignals(job, sourceText);
-  const location = job.location?.trim() || 'a location specified by the employer';
+  const location = job.location?.trim() || 'Remote';
   const department = getDepartmentLabel(job);
 
   const focus = signals.length > 1
     ? `${signals.slice(0, -1).join(', ')}, and ${signals.at(-1)}`
     : signals[0];
-  const article = /^[aeiou]/i.test(family) ? 'an' : 'a';
-  const teamLine = department
-    ? `The listing places it in ${department} and describes ${article} ${family} focus.`
-    : `The listing places it in the ${family} area.`;
-
-  const familyDescriptions: Record<string, string> = {
-    engineering: 'Engineering in Web3 means shipping protocol, infrastructure and product code that secures real value on-chain. Code reviews, testing and on-call ownership are standard, and shipping frequently matters more than pedigree.',
-    security: 'Security roles in Web3 protect protocols, users and treasuries. Expect audits, threat modelling, incident response and close work with engineers to ship fixes under time pressure.',
-    data: 'Data and research roles turn on-chain and off-chain signals into decisions — dashboards, models and narratives that guide product, growth and treasury.',
-    product: 'Product roles in Web3 translate user problems into roadmaps, specs and launches across design, engineering and community, with a bias to shipping and measuring.',
-    design: 'Design in Web3 balances user clarity with protocol complexity — from wallet flows to explorer UX — and requires close partnership with engineering and research.',
-    marketing: 'Marketing in Web3 blends education, community and distribution. Clear writing, analytics and consistent shipping beat one-off campaigns.',
-    sales: 'Sales and business development in Web3 is consultative — mapping institutional needs to on-chain solutions and managing long cycles with credible follow-through.',
-    operations: 'Operations in Web3 keeps support, trust & safety and internal workflows reliable across time zones. Clear communication, help-desk discipline and empathy for users new to crypto are core.',
-    'legal and finance': 'Legal and finance in Web3 navigates regulation, treasury and risk while enabling builders to ship within clear guardrails.',
-    community: 'Community and developer relations grow ecosystems by supporting builders, running programs and turning feedback into product improvements.',
-    specialist: 'Specialist roles in Web3 require adaptability — learning new primitives quickly, documenting clearly and collaborating across functions.',
-  };
-  const familyCopy = familyDescriptions[family] || familyDescriptions.specialist;
+  const teamLine = department ? `in ${department}` : `in the ${family} team`;
 
   let html = `<div class="space-y-6">\n`;
-  html += `<h2>Role overview</h2>\n`;
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)} in ${escapeHtml(location)}. ${escapeHtml(teamLine)}</p>\n`;
-  html += `<p>Key focus areas include: ${escapeHtml(focus)}. The role emphasizes collaboration, clear documentation and delivering measurable outcomes as part of a high-performing ${escapeHtml(family)} team.</p>\n`;
-  html += `<p>${escapeHtml(familyCopy)}</p>\n`;
-
-  html += `<h3>What you will do</h3>\n`;
-  html += `<p>In this role you will own outcomes, not just tasks. The team frames success as reliable delivery and clear communication across functions.</p>\n`;
-  html += `<ul class="list-disc pl-5 space-y-2">\n`;
-  html += `<li><strong>Own front-line delivery:</strong> Triage requests, unblock users or stakeholders, and close the loop with concise updates.</li>\n`;
-  html += `<li><strong>Turn ambiguity into process:</strong> Document workflows, update FAQs and internal runbooks, and share feedback that improves the product.</li>\n`;
-  html += `<li><strong>Collaborate across functions:</strong> Work with engineering, product and community to route bugs, feature requests and data needs.</li>\n`;
-  html += `<li><strong>Improve tooling:</strong> Use help-desk, analytics and on-chain explorers to diagnose issues and propose fixes.</li>\n`;
-  html += `<li><strong>Raise the bar on communication:</strong> Write crisp, empathetic updates for users with varied Web3 experience.</li>\n`;
-  html += `</ul>\n`;
-
-  html += `<h3>What will help you succeed</h3>\n`;
-  html += `<p>Beyond the specific stack (${escapeHtml(focus)}), hiring managers weigh how you work under uncertainty and across time zones.</p>\n`;
-  html += `<ul class="list-disc pl-5 space-y-2">\n`;
-  html += `<li>2+ years in a relevant ${escapeHtml(family)} or operations-adjacent role with evidence of shipping or supporting a live product.</li>\n`;
-  html += `<li>Clear written English and comfort explaining technical concepts simply.</li>\n`;
-  html += `<li>Experience with ticketing, remote collaboration and async updates.</li>\n`;
-  html += `<li>Empathy for users new to blockchain, plus judgement about when to escalate.</li>\n`;
-  html += `</ul>\n`;
-
-  html += `<h3>About ${escapeHtml(job.company)}</h3>\n`;
-  html += `<p>${escapeHtml(job.company)} operates in the Web3 ecosystem where reliability and user trust compound over time. Teams that succeed here invest in support quality, transparent communication and iterative improvement. If you value helping users navigate complex systems and turning feedback into better tooling, this environment will suit you.</p>\n`;
-
-  html += `<h3>Location and work setup</h3>\n`;
-  html += `<p>Location is listed as ${escapeHtml(location)}. This role offers flexibility with hybrid and distributed collaboration, with overlap hours to support global coverage.</p>\n`;
-
-  html += `<h3>Compensation and benefits</h3>\n`;
-  html += `<p>Compensation, equity and benefits are competitive and aligned with market benchmarks for Web3 roles at this level.</p>\n`;
-
-  html += `<h3>How to apply</h3>\n`;
-  html += `<p>Prepare a concise resume that shows support metrics, writing samples or documentation you have authored, and examples of cross-functional collaboration. Tailor your cover note to ${escapeHtml(job.company)} and the ${escapeHtml(job.title)} scope. Click Apply to submit your application.</p>\n`;
+  html += `<h2 class="text-xl font-bold tracking-tight text-foreground">Role Overview</h2>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground"><strong>${escapeHtml(job.company)}</strong> is actively hiring for the position of <strong>${escapeHtml(job.title)}</strong> (${escapeHtml(location)}), ${escapeHtml(teamLine)}.</p>\n`;
+  if (focus) {
+    html += `<p class="leading-relaxed text-muted-foreground">Primary focus and domain areas: ${escapeHtml(focus)}.</p>\n`;
+  }
+  html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">Application Details</h3>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground">This opening is verified directly against official applicant tracking feeds. Click the <strong>Apply</strong> button above to review complete qualifications and submit your application directly on the official ${escapeHtml(job.company)} hiring portal.</p>\n`;
   html += `</div>`;
-  return ensure500Words(html, job);
+  return html;
 }
 
 export function buildUniqueJobMetaDescription(job: Job): string {
-  const family = inferRoleFamily(job);
-  const location = job.location?.trim() || 'the employer-specified location';
+  const location = job.location?.trim() || 'Remote';
   const department = getDepartmentLabel(job);
   const team = department ? ` in ${department}` : '';
-  return `${job.company} is hiring a ${job.title}${team}. This independent role brief covers the ${family} opening in ${location} and links to the authoritative employer listing.`;
+  return `Apply for ${job.title}${team} at ${job.company} (${location}). Verified Web3 job opening with direct application links.`;
 }
 
 /**
