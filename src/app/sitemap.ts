@@ -89,6 +89,36 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.7,
  },
  {
+  url: `${siteUrl}/developers`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.9,
+ },
+ {
+  url: `${siteUrl}/api-docs`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/docs`,
+  lastModified: new Date(),
+  changeFrequency: 'weekly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/auth`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.8,
+ },
+ {
+  url: `${siteUrl}/api-policy`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.7,
+ },
+ {
   url: `${siteUrl}/resources`,
   lastModified: new Date('2025-01-01'),
   changeFrequency: 'monthly',
