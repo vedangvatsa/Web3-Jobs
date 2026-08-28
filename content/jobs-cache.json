@@ -6344,15 +6344,15 @@
     "slug": "staff11"
   },
   {
-    "id": "JR101116",
-    "title": "Senior Director, Ecosystem Growth, South Korea",
+    "id": "JR101119",
+    "title": "Senior Analyst, Network Onboarding",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
     "date": "2026-08-20",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "South Korea",
+    "location": "Delhi - remote first in India",
     "active": true,
-    "slug": "marketing198"
+    "slug": "onboarding12"
   },
   {
     "id": "JR101118",
@@ -6377,15 +6377,15 @@
     "slug": "analyst159"
   },
   {
-    "id": "JR101119",
-    "title": "Senior Analyst, Network Onboarding",
+    "id": "JR101116",
+    "title": "Senior Director, Ecosystem Growth, South Korea",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
     "date": "2026-08-20",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "Delhi - remote first in India",
+    "location": "South Korea",
     "active": true,
-    "slug": "onboarding12"
+    "slug": "marketing198"
   },
   {
     "id": "1fd65f6d-95f0-4190-98c0-788f4df7b61e",
@@ -7333,18 +7333,6 @@
     "slug": "manager522"
   },
   {
-    "id": "43",
-    "title": "KYC Analyst (Remote - Europe)",
-    "company": "Bitcoin.com",
-    "link": "https://bitcoin.bamboohr.com/careers/43",
-    "date": "2026-08-19",
-    "source": "BambooHR: Bitcoin.com [bitcoin]",
-    "location": "Poland, Poland, Poland",
-    "department": "HR, Administrative & Legal",
-    "active": true,
-    "slug": "analyst156"
-  },
-  {
     "id": "41",
     "title": "Commercial Content Editor (Remote - APAC)",
     "company": "Bitcoin.com",
@@ -7355,6 +7343,18 @@
     "department": "Marketing",
     "active": true,
     "slug": "commercial5"
+  },
+  {
+    "id": "43",
+    "title": "KYC Analyst (Remote - Europe)",
+    "company": "Bitcoin.com",
+    "link": "https://bitcoin.bamboohr.com/careers/43",
+    "date": "2026-08-19",
+    "source": "BambooHR: Bitcoin.com [bitcoin]",
+    "location": "Poland, Poland, Poland",
+    "department": "HR, Administrative & Legal",
+    "active": true,
+    "slug": "analyst156"
   },
   {
     "id": "dafebaed-af62-44fe-a8fe-8ae120ca08c6",
@@ -17346,17 +17346,6 @@
     "slug": "sales187"
   },
   {
-    "id": "JR101089",
-    "title": "VP of Ecosystem Growth, Brazil",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/VP-of-Ecosystem-Growth--Brazil_JR101089",
-    "date": "2026-08-03",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
-    "active": true,
-    "slug": "marketing170"
-  },
-  {
     "id": "JR101097",
     "title": "Senior Customer Care Advisor",
     "company": "Circle",
@@ -17377,6 +17366,17 @@
     "location": "Singapore - remote first in Singapore",
     "active": true,
     "slug": "marketing169"
+  },
+  {
+    "id": "JR101089",
+    "title": "VP of Ecosystem Growth, Brazil",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/VP-of-Ecosystem-Growth--Brazil_JR101089",
+    "date": "2026-08-03",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "São Paulo - remote first in Brazil",
+    "active": true,
+    "slug": "marketing170"
   },
   {
     "id": "4942108101",
@@ -17879,6 +17879,18 @@
     "department": "6311 Data Protection & Privacy",
     "active": true,
     "slug": "manager400"
+  },
+  {
+    "id": "f5e55d58-f597-4bd4-91ee-df3ea341c2af",
+    "title": "Product Owner",
+    "company": "Plume Network",
+    "link": "https://jobs.lever.co/plume/f5e55d58-f597-4bd4-91ee-df3ea341c2af",
+    "date": "2026-07-31T14:07:09.157Z",
+    "source": "Lever: Plume Network [plume]",
+    "location": "Remote",
+    "department": "Product & Technology",
+    "active": true,
+    "slug": "product1c2af"
   },
   {
     "id": "8092652",
@@ -21375,19 +21387,6 @@
     "slug": "security179"
   },
   {
-    "id": "4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
-    "title": "Institutional Relations Lead",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
-    "date": "2026-07-24",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "New York - NY",
-    "department": "Marketing",
-    "active": true,
-    "slug": "devrel31"
-  },
-  {
     "id": "29a35402-8d93-443c-ae31-891b122591d7",
     "title": "People Business Partner - Engineering",
     "company": "Chainlink Labs",
@@ -21399,6 +21398,19 @@
     "department": "People",
     "active": true,
     "slug": "engineer616"
+  },
+  {
+    "id": "4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
+    "title": "Institutional Relations Lead",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
+    "date": "2026-07-24",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "New York - NY",
+    "department": "Marketing",
+    "active": true,
+    "slug": "devrel31"
   },
   {
     "id": "8060600",
@@ -27078,20 +27090,6 @@
     "slug": "associate41"
   },
   {
-    "id": "C0D3CFE35F",
-    "title": "Intern - Application Management",
-    "company": "Crypto Finance",
-    "link": "https://apply.workable.com/j/C0D3CFE35F",
-    "date": "2026-07-13T00:00:00.000Z",
-    "source": "Workable: Crypto Finance [crypto-finance]",
-    "location": "Zürich, Switzerland",
-    "department": [
-      "Crypto Finance AG"
-    ],
-    "active": true,
-    "slug": "intern2"
-  },
-  {
     "id": "49C70CEE5E",
     "title": "Frontend Developer (Angular)",
     "company": "Crypto Finance",
@@ -27104,6 +27102,20 @@
     ],
     "active": true,
     "slug": "frontend134"
+  },
+  {
+    "id": "C0D3CFE35F",
+    "title": "Intern - Application Management",
+    "company": "Crypto Finance",
+    "link": "https://apply.workable.com/j/C0D3CFE35F",
+    "date": "2026-07-13T00:00:00.000Z",
+    "source": "Workable: Crypto Finance [crypto-finance]",
+    "location": "Zürich, Switzerland",
+    "department": [
+      "Crypto Finance AG"
+    ],
+    "active": true,
+    "slug": "intern2"
   },
   {
     "id": "7800833003",
@@ -31100,20 +31112,6 @@
     "slug": "control1"
   },
   {
-    "id": "2D8F619740",
-    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D8F619740",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Dubai, United Arab Emirates",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product384"
-  },
-  {
     "id": "8EFEF935D6",
     "title": "Regional Merchant Business Development Manager (Cyprus)",
     "company": "GoMining",
@@ -31126,6 +31124,20 @@
     ],
     "active": true,
     "slug": "product385"
+  },
+  {
+    "id": "2D8F619740",
+    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D8F619740",
+    "date": "2026-06-30T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Dubai, United Arab Emirates",
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "slug": "product384"
   },
   {
     "id": "2D1288EA7F",
@@ -31804,17 +31816,6 @@
     "slug": "compliance59"
   },
   {
-    "id": "JR101076",
-    "title": "Senior Analyst, IT Internal Controls & SOX Compliance",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Analyst--IT-Internal-Controls---SOX-Compliance_JR101076",
-    "date": "2026-06-29",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "compliance60"
-  },
-  {
     "id": "JR101077",
     "title": "Senior Finance Systems Analyst",
     "company": "Circle",
@@ -31824,6 +31825,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "analyst83"
+  },
+  {
+    "id": "JR101076",
+    "title": "Senior Analyst, IT Internal Controls & SOX Compliance",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Analyst--IT-Internal-Controls---SOX-Compliance_JR101076",
+    "date": "2026-06-29",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "compliance60"
   },
   {
     "id": "f6e96bdf-5535-4d92-8ee0-593364cf2baf",
@@ -33630,28 +33642,6 @@
     "slug": "frontend104"
   },
   {
-    "id": "JR101064",
-    "title": "Business Development Director, USYC",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Business-Development-Director--USYC_JR101064",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Singapore - remote first in Singapore",
-    "active": true,
-    "slug": "product360"
-  },
-  {
-    "id": "JR101060",
-    "title": "Security Engineer II, Detection and Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security130"
-  },
-  {
     "id": "JR100838",
     "title": "Senior Smart Contract Engineer",
     "company": "Circle",
@@ -33663,6 +33653,17 @@
     "slug": "engineer435"
   },
   {
+    "id": "JR101064",
+    "title": "Business Development Director, USYC",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Singapore---remote-first-in-Singapore/Business-Development-Director--USYC_JR101064",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Singapore - remote first in Singapore",
+    "active": true,
+    "slug": "product360"
+  },
+  {
     "id": "JR101071",
     "title": "Senior Counsel, Transactions, (Enterprise, Payments, and Ecosystem)",
     "company": "Circle",
@@ -33672,6 +33673,17 @@
     "location": "New York City - remote first in US",
     "active": true,
     "slug": "senior34"
+  },
+  {
+    "id": "JR101060",
+    "title": "Security Engineer II, Detection and Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security130"
   },
   {
     "id": "7d52b612-c0f7-4534-b3c5-5f6531176bf9",
@@ -40988,20 +41000,6 @@
     "slug": "vp1"
   },
   {
-    "id": "CE68D43E05",
-    "title": "Senior Site Technician - Bitcoin Mining",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/CE68D43E05",
-    "date": "2026-05-27T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cheyenne, United States",
-    "department": [
-      "Hostings"
-    ],
-    "active": true,
-    "slug": "senior17"
-  },
-  {
     "id": "0C1A634B81",
     "title": "Senior Site Technician - Bitcoin Mining",
     "company": "GoMining",
@@ -41014,6 +41012,20 @@
     ],
     "active": true,
     "slug": "senior16"
+  },
+  {
+    "id": "CE68D43E05",
+    "title": "Senior Site Technician - Bitcoin Mining",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/CE68D43E05",
+    "date": "2026-05-27T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cheyenne, United States",
+    "department": [
+      "Hostings"
+    ],
+    "active": true,
+    "slug": "senior17"
   },
   {
     "id": "7ba8147257b1",
@@ -41951,20 +41963,6 @@
     "slug": "head36"
   },
   {
-    "id": "55CAA34008",
-    "title": "Relationship Manager - Wealth Management (Central Asia)",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/55CAA34008",
-    "date": "2026-05-21T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "Kazakhstan / Azerbaijan / Uzbekistan",
-    "department": [
-      "Clients Team"
-    ],
-    "active": true,
-    "slug": "devrel13"
-  },
-  {
     "id": "99D41DDA7A",
     "title": "Relationship Manager - Wealth Management (East Asia)",
     "company": "Hex Trust",
@@ -41977,6 +41975,20 @@
     ],
     "active": true,
     "slug": "devrel14"
+  },
+  {
+    "id": "55CAA34008",
+    "title": "Relationship Manager - Wealth Management (Central Asia)",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/55CAA34008",
+    "date": "2026-05-21T00:00:00.000Z",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "Kazakhstan / Azerbaijan / Uzbekistan",
+    "department": [
+      "Clients Team"
+    ],
+    "active": true,
+    "slug": "devrel13"
   },
   {
     "id": "FF112DB38F",
@@ -48378,37 +48390,15 @@
     "slug": "compliance31"
   },
   {
-    "id": "JR100869",
-    "title": "Principal Product Operations and Risk Analyst",
+    "id": "JR100477",
+    "title": "Lead Product Manager, Token",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Principal-Product-Manager_JR100477",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "product184"
-  },
-  {
-    "id": "JR100014-EG",
-    "title": "Staff Software Engineer",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer261"
-  },
-  {
-    "id": "JR100929",
-    "title": "Senior Manager, Partner Management, LATAM",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Senior-Manager--Partner-Management--LATAM_JR100929",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
-    "active": true,
-    "slug": "manager90"
+    "slug": "product183"
   },
   {
     "id": "JR100849",
@@ -48422,15 +48412,37 @@
     "slug": "frontend60"
   },
   {
-    "id": "JR100477",
-    "title": "Lead Product Manager, Token",
+    "id": "JR100869",
+    "title": "Principal Product Operations and Risk Analyst",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Principal-Product-Manager_JR100477",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "product183"
+    "slug": "product184"
+  },
+  {
+    "id": "JR100929",
+    "title": "Senior Manager, Partner Management, LATAM",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Senior-Manager--Partner-Management--LATAM_JR100929",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "São Paulo - remote first in Brazil",
+    "active": true,
+    "slug": "manager90"
+  },
+  {
+    "id": "JR100014-EG",
+    "title": "Staff Software Engineer",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "engineer261"
   },
   {
     "id": "JR100878",
@@ -54326,10 +54338,10 @@
     "title": "Relationship Manager - Wealth Management (Hong Kong)",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/BDD63370C2",
-    "date": "2026-01-08T00:00:00.000Z",
+    "date": "2026-01-08",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "devrel3"
   },
@@ -62149,6 +62161,18 @@
     "department": "Marketing",
     "active": true,
     "slug": "coins1"
+  },
+  {
+    "id": "9a7a920b-8c84-4c2e-b0d7-e738d12cd564",
+    "title": "Don't see what you're looking for?",
+    "company": "Plume Network",
+    "link": "https://jobs.lever.co/plume/9a7a920b-8c84-4c2e-b0d7-e738d12cd564",
+    "date": "2022-06-09T18:51:32.047Z",
+    "source": "Lever: Plume Network [plume]",
+    "location": "Remote",
+    "department": "Work with Us",
+    "active": true,
+    "slug": "doncd564"
   },
   {
     "id": "880fb1b4-2515-4534-9970-53c497c82f12",

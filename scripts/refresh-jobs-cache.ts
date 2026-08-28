@@ -512,23 +512,9 @@ async function refreshJobsCache() {
     { board: 'magic', company: 'Magic' },
     { board: 'helium', company: 'Helium' },
     { board: 'janestreet', company: 'Jane Street' },
-    // --- Additional Top Web3 Companies (August 2026 expansion) ---
-    { board: 'bullish', company: 'Bullish' },
-    { board: 'bitstamp', company: 'Bitstamp' },
-    { board: 'yellowcard', company: 'Yellow Card' },
-    { board: 'swyftx', company: 'Swyftx' },
-    { board: 'osl', company: 'OSL' },
-    { board: 'river', company: 'River' },
-    { board: 'unchained', company: 'Unchained' },
-    { board: 'fold', company: 'Fold' },
-    { board: 'bakkt', company: 'Bakkt' },
+    // --- Regional Exchanges & Protocols ---
     { board: 'coinme', company: 'Coinme' },
-    { board: 'trade-republic', company: 'Trade Republic' },
-    { board: 'piplabs', company: 'Story Protocol' },
-    { board: 'megaeth', company: 'MegaETH' },
-    { board: 'ethena', company: 'Ethena' },
-    { board: 'drift', company: 'Drift Protocol' },
-    { board: 'monad', company: 'Monad' },
+    { board: 'strike', company: 'Strike' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -630,11 +616,9 @@ async function refreshJobsCache() {
     // --- Massive May 2026 expansion ---
     { board: 'coins', company: 'Coins.ph' },
     { board: 'aragon', company: 'Aragon' },
-    // --- Regional Exchanges & Protocols (August 2026 expansion) ---
-    { board: 'sygnum', company: 'Sygnum Bank' },
+    // --- Regional Exchanges & Protocols ---
     { board: 'swissborg', company: 'SwissBorg' },
-    { board: 'movementlabs', company: 'Movement Labs' },
-    { board: 'wonderfi', company: 'WonderFi' },
+    { board: 'plume', company: 'Plume Network' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -804,17 +788,8 @@ async function refreshJobsCache() {
     { board: 'bitvavo', company: 'Bitvavo' },
     { board: 'variant-fund', company: 'Variant Fund' },
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
-    { board: 'm2', company: 'M2' },
-    { board: 'tokocrypto', company: 'Tokocrypto' },
-    { board: 'archax', company: 'Archax' },
     { board: 'swan', company: 'Swan Bitcoin' },
-    { board: 'celestia', company: 'Celestia' },
-    { board: 'morph', company: 'Morph' },
-    { board: 'initia', company: 'Initia' },
-    { board: 'hyperlane', company: 'Hyperlane' },
     { board: 'union', company: 'Union' },
-    { board: 'quidax', company: 'Quidax' },
-    { board: 'busha', company: 'Busha' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -958,11 +933,10 @@ async function refreshJobsCache() {
     { board: 'crypto-finance', company: 'Crypto Finance' },
     { board: 'gomining', company: 'GoMining' },
     // --- Regional Exchanges Expansion ---
-    { board: 'bit2me', company: 'Bit2Me' },
-    { board: 'kriptomat', company: 'Kriptomat' },
     { board: 'bitoasis', company: 'BitOasis' },
     { board: 'ndax', company: 'Ndax' },
     { board: 'coinjar', company: 'CoinJar' },
+    { board: 'giottus', company: 'Giottus' },
   ];
 
   for (const wb of WORKABLE_BOARDS) {
