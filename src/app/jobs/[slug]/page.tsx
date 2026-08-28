@@ -38,16 +38,7 @@ export async function generateMetadata({ params }: JobPageProps): Promise<Metada
   const slug = getJobSlug(job);
   const canonicalUrl = `${SITE_URL}/${slug}`;
   const title = `${job.title} at ${job.company}`;
-  let sourceHost = 'employer site';
-  if (job.link) {
-    try {
-      sourceHost = new URL(job.link).hostname.replace(/^www\./, '');
-    } catch {
-      sourceHost = 'employer site';
-    }
-  }
-  const uniqueMarker = `${job.company} | ${job.location || 'Remote'} | ${sourceHost}`;
-  const description = `${buildUniqueJobMetaDescription(job)} ${uniqueMarker}.`;
+  const description = buildUniqueJobMetaDescription(job);
   const ogImageUrl = `${SITE_URL}/api/og?type=default&title=${encodeURIComponent(title)}`;
   const hasVerifiedContent = hasSubstantialJobContent(job);
 
@@ -55,7 +46,7 @@ export async function generateMetadata({ params }: JobPageProps): Promise<Metada
     title,
     description,
     alternates: { canonical: canonicalUrl },
-    robots: hasVerifiedContent ? undefined : { index: false, follow: true },
+    robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
     openGraph: {
       title,
       description,
