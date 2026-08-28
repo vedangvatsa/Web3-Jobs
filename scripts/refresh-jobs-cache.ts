@@ -514,7 +514,6 @@ async function refreshJobsCache() {
     { board: 'janestreet', company: 'Jane Street' },
     // --- Regional Exchanges & Protocols ---
     { board: 'coinme', company: 'Coinme' },
-    { board: 'strike', company: 'Strike' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -1706,6 +1705,27 @@ async function refreshJobsCache() {
 
     return true;
   });
+
+  // Deduplicate identical postings (same company + title + location)
+  const seenJobKeys = new Set<string>();
+  allJobs = allJobs.filter((job) => {
+    const key = `${job.company.toLowerCase().trim()}::${job.title.toLowerCase().trim()}::${(job.location || '').toLowerCase().trim()}`;
+    if (seenJobKeys.has(key)) return false;
+    seenJobKeys.add(key);
+    return true;
+  });
+
+  // Guarantee 100% unique slugs across all jobs
+  const usedSlugs = new Set<string>();
+  for (const job of allJobs) {
+    let slug = job.slug || getJobSlug(job);
+    if (usedSlugs.has(slug)) {
+      const shortHash = getJobContentKey(job).replace('job-', '').slice(0, 4);
+      slug = `${slug}-${shortHash}`;
+    }
+    job.slug = slug;
+    usedSlugs.add(slug);
+  }
 
   // Sort newest first
   allJobs.sort((a, b) => new Date(b.date).getTime() - new Date(a.date).getTime());
