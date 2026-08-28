@@ -81,9 +81,9 @@ const RETIRED_BAD_BOARD_KEYS = new Set([
   'greenhouse:worldcoin', 'greenhouse:berachain', 'greenhouse:gnosis',
   'greenhouse:wormhole', 'greenhouse:moralis', 'greenhouse:dydx',
   'greenhouse:pancakeswap', 'greenhouse:farcaster', 'greenhouse:etherscan',
-  'lever:zeta', 'lever:cleanspark', 'lever:celestia', 'lever:starknet',
-  'lever:kraken', 'lever:bigtime', 'lever:neon', 'lever:ethena',
-  'lever:mantra', 'lever:swissborg',
+  'lever:zeta', 'lever:cleanspark', 'lever:starknet',
+  'lever:kraken', 'lever:bigtime', 'lever:neon',
+  'lever:mantra',
   'ashby:jump', 'ashby:jane', 'ashby:electric', 'ashby:tokenterminal',
   'ashby:foundation', 'ashby:render', 'ashby:lido', 'ashby:zerodev',
   'ashby:puffer', 'ashby:flipsidecrypto', 'ashby:base', 'ashby:compound',
@@ -512,10 +512,23 @@ async function refreshJobsCache() {
     { board: 'magic', company: 'Magic' },
     { board: 'helium', company: 'Helium' },
     { board: 'janestreet', company: 'Jane Street' },
-    { board: 'genesis', company: 'Genesis' },
-    { board: 'startale', company: 'Startale Group' },
-    // --- CoinGecko May 2026 expansion ---
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
+    { board: 'bullish', company: 'Bullish' },
+    { board: 'bitstamp', company: 'Bitstamp' },
+    { board: 'yellowcard', company: 'Yellow Card' },
+    { board: 'swyftx', company: 'Swyftx' },
+    { board: 'osl', company: 'OSL' },
+    { board: 'river', company: 'River' },
+    { board: 'unchained', company: 'Unchained' },
+    { board: 'fold', company: 'Fold' },
+    { board: 'bakkt', company: 'Bakkt' },
+    { board: 'coinme', company: 'Coinme' },
+    { board: 'trade-republic', company: 'Trade Republic' },
+    { board: 'piplabs', company: 'Story Protocol' },
+    { board: 'megaeth', company: 'MegaETH' },
+    { board: 'ethena', company: 'Ethena' },
+    { board: 'drift', company: 'Drift Protocol' },
+    { board: 'monad', company: 'Monad' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -617,7 +630,11 @@ async function refreshJobsCache() {
     // --- Massive May 2026 expansion ---
     { board: 'coins', company: 'Coins.ph' },
     { board: 'aragon', company: 'Aragon' },
-    // --- CoinGecko May 2026 expansion ---
+    // --- Regional Exchanges & Protocols (August 2026 expansion) ---
+    { board: 'sygnum', company: 'Sygnum Bank' },
+    { board: 'swissborg', company: 'SwissBorg' },
+    { board: 'movementlabs', company: 'Movement Labs' },
+    { board: 'wonderfi', company: 'WonderFi' },
   ];
 
   for (const lv of LEVER_BOARDS) {
@@ -786,10 +803,18 @@ async function refreshJobsCache() {
     { board: 'trust-wallet', company: 'Trust Wallet' },
     { board: 'bitvavo', company: 'Bitvavo' },
     { board: 'variant-fund', company: 'Variant Fund' },
-    // --- Massive May 2026 expansion ---
-    { board: 'protocol', company: 'Protocol Labs' },
-    { board: 'cyberconnect', company: 'CyberConnect' },
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
+    { board: 'm2', company: 'M2' },
+    { board: 'tokocrypto', company: 'Tokocrypto' },
+    { board: 'archax', company: 'Archax' },
+    { board: 'swan', company: 'Swan Bitcoin' },
+    { board: 'celestia', company: 'Celestia' },
+    { board: 'morph', company: 'Morph' },
+    { board: 'initia', company: 'Initia' },
+    { board: 'hyperlane', company: 'Hyperlane' },
+    { board: 'union', company: 'Union' },
+    { board: 'quidax', company: 'Quidax' },
+    { board: 'busha', company: 'Busha' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -932,6 +957,12 @@ async function refreshJobsCache() {
     { board: 'hextrust', company: 'Hex Trust' },
     { board: 'crypto-finance', company: 'Crypto Finance' },
     { board: 'gomining', company: 'GoMining' },
+    // --- Regional Exchanges Expansion ---
+    { board: 'bit2me', company: 'Bit2Me' },
+    { board: 'kriptomat', company: 'Kriptomat' },
+    { board: 'bitoasis', company: 'BitOasis' },
+    { board: 'ndax', company: 'Ndax' },
+    { board: 'coinjar', company: 'CoinJar' },
   ];
 
   for (const wb of WORKABLE_BOARDS) {
