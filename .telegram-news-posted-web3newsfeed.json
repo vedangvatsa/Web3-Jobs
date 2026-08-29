@@ -530,6 +530,9 @@
   "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
   "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
   "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1497,6 +1500,12 @@
   "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
   "BIS Official Says Stablecoins Lack Credibility for Large Payments",
   "Stablecoins not credible for payments at scale, BIS chief says",
+  "Stellar tokenized real-world asset market reaches $4 billion",
+  "Stellar tokenized RWA market more than quadruples to nearly $4B",
+  "Bullish provides $100 million stablecoin facility for GPU lending",
+  "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
+  "California Senate passes bill banning public official memecoin issuance",
+  "California Senate passes bill to ban memecoin issuance by public officials",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1559,5 +1568,8 @@
   "fp:asset|clearanc|closer|evernorth|firm|gain|get|hold|list|loss",
   "fp:asset|avalanch|beyond|broaden|brokerag|chainlink|charl|digital|ether|expand",
   "fp:15m|425m|575m|acquir|alongsid|arm|bitgo|business|buy|cash",
-  "fp:among|bis|chief|credibility|credibl|differenc|fsi|global|issuer|lack"
+  "fp:among|bis|chief|credibility|credibl|differenc|fsi|global|issuer|lack",
+  "fp:adoption|asset|blockchain|deploy|expand|institutional|market|mor|nearly|network",
+  "fp:100m|back|bullish|comput|exchang|facility|fund|gpu|hardwar|institutional",
+  "fp:ban|bann|bill|california|digital|elect|ethic|federal|issu|issuanc"
 ]
