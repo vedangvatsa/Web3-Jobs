@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-host-evt-MU7UnC6gwGNlsCP",
-    "name": "PROOF OF GRASS: Kolkata x SuperTeam India",
-    "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
-    "startDate": "2026-08-29T10:30:00.000Z",
-    "endDate": "2026-08-29T14:00:00.000Z",
-    "city": "South Dumdum",
-    "country": "India",
-    "location": "South Dumdum, India",
-    "url": "https://lu.ma/fi73775d",
-    "coverImage": "https://images.lumacdn.com/uploads/pb/3a755b4e-8f8a-4126-ae4b-09b994e73fe5.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-evt-D0cp3MbBeSUYpMB",
     "name": "Codex Community Hackathon - San Francisco",
     "description": "",
@@ -154,6 +140,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316071497",
+    "name": "Over Your Ex in a Weekend DAY 3: Redefine Love and Hope",
+    "description": "",
+    "startDate": "2026-08-30T12:00:00-04:00",
+    "endDate": "2026-08-30T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/activecharlotteans/events/316071497/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-7Iz2lapjAUQcL21",
     "name": "AMA with Atharv",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -224,6 +224,20 @@
     "month": "August 2026"
   },
   {
+    "id": "mu-316073680",
+    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
+    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
+    "startDate": "2026-08-31T12:00:00-04:00",
+    "endDate": "2026-08-31T12:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/316073680/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "August 2026"
+  },
+  {
     "id": "luma-host-evt-HTweMuQdLCGA4eD",
     "name": "AI Agents, Living Labs & the Future of Society: Inside Edge Cities’ Experiments to Prototype New Ways to Live, Build & Flourish (SF)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -252,6 +266,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-f7HLsI7Q0Hs5PGs",
+    "name": "Web3Privacy Now Amsterdam meetup",
+    "description": "",
+    "startDate": "2026-09-01T15:00:00.000Z",
+    "endDate": "2026-09-01T18:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/sixp297m",
+    "coverImage": "https://images.lumacdn.com/event-covers/ot/853d5947-6274-4b02-aa17-98daedcec8c0.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-7IUiLoy80dHt51g",
     "name": "Taco Tech Tuesday: NFT NYC Edition 🎨🗽🦊",
     "description": "",
@@ -277,34 +305,6 @@
     "url": "https://luma.com/sixp297m",
     "coverImage": null,
     "source": "ethereum-org",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-314107814",
-    "name": "Are You Thinking Too Small? That is the Question!",
-    "description": "**\"Are you thinking too small?\"**\n\n* Why successful leaders often become prisoners of their own success.\n* The danger of believing today's business defines tomorrow's potential.\n* Why comfortable assu",
-    "startDate": "2026-09-01T11:30:00-05:00",
-    "endDate": "2026-09-01T11:30:00-05:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/kansas-city-business-strategy-meetup-group/events/314107814/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316092781",
-    "name": "Bienvenidos a charla en Español.",
-    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
-    "startDate": "2026-09-01T18:30:00-05:00",
-    "endDate": "2026-09-01T18:30:00-05:00",
-    "city": "West Des Moines",
-    "country": "us",
-    "location": "West Des Moines, us",
-    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316092781/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -476,6 +476,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-fB5bSClaClB6vIa",
+    "name": "Apéro Tricotant - 3 septembre",
+    "description": "",
+    "startDate": "2026-09-03T15:30:00.000Z",
+    "endDate": "2026-09-03T19:30:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/cy43h7qu",
+    "coverImage": "https://images.lumacdn.com/uploads/co/2d3dc157-4413-4cea-afa8-03647ebdd570.jpg",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-HCgYvJzjtEJRGKt",
     "name": "Collector Park by OpenSea & Pudgy Penguins",
     "description": "",
@@ -486,6 +500,20 @@
     "location": "New York, United States",
     "url": "https://lu.ma/CollectorPark",
     "coverImage": "https://images.lumacdn.com/uploads/f4/6b1cb85c-fa8d-4d88-bdf7-7ccffbc22399.jpg",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-cOrVXkSQSbRfWAo",
+    "name": "FINISSAGE - POLYGON1993",
+    "description": "",
+    "startDate": "2026-09-03T16:00:00.000Z",
+    "endDate": "2026-09-03T20:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/artverse-pegt",
+    "coverImage": "https://images.lumacdn.com/uploads/jg/ce0a8d8e-3685-43ce-96c5-ae1159e5ae4e.gif",
     "source": "luma",
     "month": "September 2026"
   },
@@ -514,6 +542,20 @@
     "location": "El Segundo, United States",
     "url": "https://lu.ma/idsp5pm4",
     "coverImage": "https://images.lumacdn.com/uploads/83/f6ceaedc-50a0-4762-a514-e1b7e8fd0b06.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-KDIq2JTGereB5f1",
+    "name": "Powerwalk Barcelona September 2026 (Tech/AI) — Power Walk",
+    "description": "",
+    "startDate": "2026-09-03T17:00:00.000Z",
+    "endDate": "2026-09-03T18:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/staaake-kwmb",
+    "coverImage": "https://images.lumacdn.com/gallery-images/ll/e2f4f925-c2f4-4258-ab7b-5ffa176284e8",
     "source": "luma",
     "month": "September 2026"
   },
@@ -658,6 +700,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-host-evt-SAPoE6yeIy3WAFe",
+    "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WROCŁAW",
+    "description": "",
+    "startDate": "2026-09-05T07:00:00.000Z",
+    "endDate": "2026-09-06T17:00:00.000Z",
+    "city": "Wrocław",
+    "country": "Poland",
+    "location": "Wrocław, Poland",
+    "url": "https://lu.ma/KursBlockchainWRO",
+    "coverImage": "https://images.lumacdn.com/uploads/1i/fea6c8ed-564b-4b78-8317-1dd034ab466a.png",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-0BccVSEUGaRakpD",
     "name": "ETHGlobal Happy Hour Tokyo with AKINDO",
     "description": "",
@@ -700,20 +756,6 @@
     "month": "September 2026"
   },
   {
-    "id": "ma-unchained-summit-dubai",
-    "name": "Unchained Summit Dubai",
-    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
-    "startDate": "2026-09-07T00:00:00.000Z",
-    "endDate": "2026-09-08T00:00:00.000Z",
-    "city": "Dubai, UAE",
-    "country": "UAE",
-    "location": "Dubai, UAE, UAE",
-    "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
-    "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
     "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
     "description": "",
@@ -742,17 +784,31 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-P8SOblAuUmAsdt6",
-    "name": "Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung",
-    "description": "",
-    "startDate": "2026-09-08T07:15:00.000Z",
-    "endDate": "2026-09-08T15:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/zr10haoa",
-    "coverImage": "https://images.lumacdn.com/event-covers/hm/b6ff86bb-2827-42fd-87b6-a51ac1b14229.png",
-    "source": "luma",
+    "id": "ma-unchained-summit-dubai",
+    "name": "Unchained Summit Dubai",
+    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
+    "startDate": "2026-09-07T00:00:00.000Z",
+    "endDate": "2026-09-08T00:00:00.000Z",
+    "city": "Dubai, UAE",
+    "country": "UAE",
+    "location": "Dubai, UAE, UAE",
+    "url": "https://unchainedsummit.com/dubai/",
+    "coverImage": null,
+    "source": "marketacross",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316163044",
+    "name": "Online Bitcoin Hangout",
+    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
+    "startDate": "2026-09-07T18:30:00-04:00",
+    "endDate": "2026-09-07T18:30:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/bitcoincharlotte/events/316163044/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -823,6 +879,20 @@
     "url": "https://lu.ma/yww621x0",
     "coverImage": "https://images.lumacdn.com/uploads/mv/a9419db3-8797-4c44-9321-f6d1fb899ac2.png",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-315962971",
+    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
+    "description": "Meet at National Harbor during Stablecon Conference on Thursday, September 10th (location will be provided upon registration).\n\nThis monthly meeting is hosted by Maryland Blockchain Association, Block",
+    "startDate": "2026-09-10T16:00:00-04:00",
+    "endDate": "2026-09-10T16:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -963,6 +1033,20 @@
     "url": "https://lu.ma/4p3q8raj",
     "coverImage": "https://images.lumacdn.com/event-covers/ce/7296e49d-aba8-4628-be07-5b0bd5686aba.png",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-314396577",
+    "name": "Capitol City Bitcoin meetup - virtual",
+    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
+    "startDate": "2026-09-15T19:00:00-04:00",
+    "endDate": "2026-09-15T19:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396577/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
