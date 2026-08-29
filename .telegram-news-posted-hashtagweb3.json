@@ -509,6 +509,9 @@
   "https://decrypt.co/376825/solana-sol-disinflation-vote-passes",
   "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
   "https://www.theblock.co/news/deals/2026-08-28-sbi-holdings-invests-270-million-in-ajaib-taking-20-stake-amid-asia-digital-asset-push-413023",
+  "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/markets/2026/08/28/bitcoin-wallets-untouched-for-10-years-moved-usd40-million-most-avoided-exchanges",
+  "https://www.coindesk.com/tech/2026/08/28/ripple-is-preparing-xrp-ledger-for-quantum-computers-before-q-day-arrives",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1435,6 +1438,12 @@
   "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
   "SBI Holdings acquires stake in Ajaib for 270 million dollars",
   "SBI Holdings invests $270 million in Ajaib, taking 20% stake amid Asia digital asset push",
+  "BIS Official Says Stablecoins Unsuited For Large-Scale Payments",
+  "Stablecoins not credible for payments at scale, BIS chief says",
+  "Six 10-Year-Old Bitcoin Wallets Move $40 Million",
+  "Bitcoin wallets untouched for 10 years moved $40 million. Most avoided exchanges",
+  "Ripple, Bitcoin, and Ethereum Plan Quantum Security Upgrades",
+  "Ripple is preparing XRP Ledger for quantum computers before ‘Q-Day’ arrives",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1494,5 +1503,8 @@
   "fp:around|bybit|can|clock|contract|fractional|launches24|nvidia|option|perpetual",
   "fp:approv|creation|disinflation|down|dramatic|fashion|inflation|less|margin|measur",
   "fp:access|additional|beyond|charl|client|cryptocurrency|current|expand|financial|firm",
-  "fp:270m|acquir|ajaib|asia|asset|brokerag|digital|dollar|expand|hold"
+  "fp:270m|acquir|ajaib|asia|asset|brokerag|digital|dollar|expand|hold",
+  "fp:also|bis|chief|credibl|differenc|fsi|global|issuer|larg|not",
+  "fp:40m|avoid|coin|despit|dormant|exchang|for10|long|lowest|most",
+  "fp:arriv|befor|break|computer|day|drastically|effort|encryption|ledger|migration"
 ]
