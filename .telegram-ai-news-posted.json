@@ -539,6 +539,9 @@
   "https://techcrunch.com/2026/08/28/neocloud-lambda-secures-1b-in-debt-to-buy-more-chips/",
   "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
   "https://techcrunch.com/2026/08/28/an-anthropic-researcher-just-gave-us-a-peek-at-self-improving-ai/",
+  "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+  "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
+  "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1400,6 +1403,12 @@
   "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
   "Automated system improves AI alignment across ten benchmark tests",
   "An Anthropic researcher just gave us a peek at self-improving AI",
+  "Anthropic releases hardware standard for physical AI agents",
+  "Anthropic's new hardware standard lets AI agents control the physical world",
+  "Lawsuit accuses xAI of using illegal training data",
+  "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
+  "OpenAI introduces advertisements on free ChatGPT tiers in India",
+  "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1456,5 +1465,8 @@
   "fp:application|brand|challeng|complex|consumer|design|doe|experienc|fac|gemini",
   "fp:acquir|buy|capacity|chip|comput|customer|debt|enterpris|fund|graphic",
   "fp:anthropic|attempt|blacklist|contract|deem|developer|executiv|federal|government|illegal",
-  "fp:alignment|anthropic|automat|behavior|benchmark|correct|degrad|gav|general|improv"
+  "fp:alignment|anthropic|automat|behavior|benchmark|correct|degrad|gav|general|improv",
+  "fp:agent|allow|anthropic|control|devic|different|directly|driver|hardwar|interfac",
+  "fp:abus|accus|child|claim|complaint|data|elon|flagship|illegal|lawsuit",
+  "fp:100m|activ|advertisement|cost|display|fre|india|introduc|lowest|openai"
 ]

@@ -527,6 +527,9 @@
   "https://www.coindesk.com/policy/2026/08/28/kalshi-takes-legal-blow-in-court-ruling-confirming-state-powers-over-prediction-markets",
   "https://decrypt.co/376843/meta-tests-robots-data-center",
   "https://decrypt.co/376840/xrp-treasury-evernorths-clears-sec-nasdaq",
+  "https://decrypt.co/376819/charles-schwab-crypto-trading-bitcoin-ethereum-solana",
+  "https://www.coindesk.com/business/2026/08/28/bitgo-to-buy-nydig-trading-arm-for-usd42-5m-in-cash-and-stock-plus-usd15m-earnout",
+  "https://cointelegraph.com/news/stablecoins-not-credible-payments-scale-bis-chief?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1488,6 +1491,12 @@
   "Meta Tests Robots to Handle Data Center Work",
   "Evernorth Gains SEC Clearance for Nasdaq Listing Shareholder Vote",
   "XRP Treasury Company Gets One Step Closer to Listing on Nasdaq",
+  "Charles Schwab expands crypto trading to Solana, Avalanche, Chainlink",
+  "Charles Schwab Expands Crypto Trading Beyond Bitcoin and Ethereum",
+  "BitGo acquires NYDIG trading business for $57.5 million",
+  "BitGo to buy NYDIG trading arm for $42.5M in cash and stock plus $15M earnout",
+  "BIS Official Says Stablecoins Lack Credibility for Large Payments",
+  "Stablecoins not credible for payments at scale, BIS chief says",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1547,5 +1556,8 @@
   "fp:are|catalyst|determin|factor|follow|futur|gain|influenc|key|market",
   "fp:authority|blow|confirm|conflict|contract|court|event|federal|intervention|kalshi",
   "fp:automation|center|data|eliminat|employe|expand|fear|handl|infrastructur|job",
-  "fp:asset|clearanc|closer|evernorth|firm|gain|get|hold|list|loss"
+  "fp:asset|clearanc|closer|evernorth|firm|gain|get|hold|list|loss",
+  "fp:asset|avalanch|beyond|broaden|brokerag|chainlink|charl|digital|ether|expand",
+  "fp:15m|425m|575m|acquir|alongsid|arm|bitgo|business|buy|cash",
+  "fp:among|bis|chief|credibility|credibl|differenc|fsi|global|issuer|lack"
 ]
