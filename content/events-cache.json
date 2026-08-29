@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-host-evt-wFlI3JkFhwjCoGG",
-    "name": "KURS PROGRAMOWANIA BLOCKCHAIN: KRAKÓW",
-    "description": "",
-    "startDate": "2026-08-29T07:00:00.000Z",
-    "endDate": "2026-08-30T17:00:00.000Z",
-    "city": "Kraków",
-    "country": "Poland",
-    "location": "Kraków, Poland",
-    "url": "https://lu.ma/KursBlockchainKRK2",
-    "coverImage": "https://images.lumacdn.com/uploads/mi/309c2b50-90dd-4eda-958c-7917a58c4f5d.png",
-    "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-MU7UnC6gwGNlsCP",
     "name": "PROOF OF GRASS: Kolkata x SuperTeam India",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -168,20 +154,6 @@
     "month": "August 2026"
   },
   {
-    "id": "luma-evt-4vjCwPWss7djeMK",
-    "name": "CV FREQS - Bank Holiday Modular - Meet & Electronic Music Live Performances (EMOM)",
-    "description": "",
-    "startDate": "2026-08-31T10:00:00.000Z",
-    "endDate": "2026-08-31T17:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/twwpvriy",
-    "coverImage": "https://images.lumacdn.com/uploads/gq/61cc3d14-c5e2-404a-b8db-e24a4e63b8c4.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-7Iz2lapjAUQcL21",
     "name": "AMA with Atharv",
     "description": "Events that help talented folks learn, earn, and build on Solana around the world.",
@@ -193,20 +165,6 @@
     "url": "https://lu.ma/ama-with-atharv-stin",
     "coverImage": "https://images.lumacdn.com/uploads/rj/d77453e6-6f24-41ba-94da-5b522e3e89a5.png",
     "source": "luma-trusted",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-tsAYOS4YXBe7VAD",
-    "name": "STUK Member Evening: Deep Dive into Solana's Technical Roadmap",
-    "description": "",
-    "startDate": "2026-08-31T16:00:00.000Z",
-    "endDate": "2026-08-31T20:00:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/STUK-Member-Evening-Solana-Roadmap",
-    "coverImage": "https://images.lumacdn.com/uploads/kn/3942dc19-667c-441e-8d83-945592edf1b4.png",
-    "source": "luma",
     "month": "August 2026"
   },
   {
@@ -280,6 +238,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-host-evt-z9ELpBLpBtGYDPN",
+    "name": "Superteam Thailand: Solami Workshop + Co Working Session",
+    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
+    "startDate": "2026-09-01T06:30:00.000Z",
+    "endDate": "2026-09-01T12:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://lu.ma/v6zf9nzi",
+    "coverImage": "https://images.lumacdn.com/uploads/a9/0a82cb12-dc59-48fa-909c-def5c6bae6ea.jpg",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-7IUiLoy80dHt51g",
     "name": "Taco Tech Tuesday: NFT NYC Edition 🎨🗽🦊",
     "description": "",
@@ -308,6 +280,34 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-314107814",
+    "name": "Are You Thinking Too Small? That is the Question!",
+    "description": "**\"Are you thinking too small?\"**\n\n* Why successful leaders often become prisoners of their own success.\n* The danger of believing today's business defines tomorrow's potential.\n* Why comfortable assu",
+    "startDate": "2026-09-01T11:30:00-05:00",
+    "endDate": "2026-09-01T11:30:00-05:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/kansas-city-business-strategy-meetup-group/events/314107814/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316092781",
+    "name": "Bienvenidos a charla en Español.",
+    "description": "Bienvenidos! Charlamos en Español. Somos buenas gente.",
+    "startDate": "2026-09-01T18:30:00-05:00",
+    "endDate": "2026-09-01T18:30:00-05:00",
+    "city": "West Des Moines",
+    "country": "us",
+    "location": "West Des Moines, us",
+    "url": "https://www.meetup.com/des-moines-spanish-conversation-group/events/316092781/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-NMEmttQpKgeMtzX",
     "name": "Forward Deployed: Evals - Beyond the Vibe Check",
     "description": "",
@@ -319,6 +319,20 @@
     "url": "https://lu.ma/85oi0k2n",
     "coverImage": "https://images.lumacdn.com/uploads/lj/67f7fd83-23f5-4a68-b5f6-4bed19be3999.png",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-host-evt-mIcE6vOB4q9VeWu",
+    "name": "Wellness Wednesdays",
+    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
+    "startDate": "2026-09-02T11:00:00.000Z",
+    "endDate": "2026-09-02T13:30:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://lu.ma/hgy8fnok",
+    "coverImage": "https://images.lumacdn.com/gallery-images/xy/13fae58d-87bd-455a-8c6d-c1ba52df7767",
+    "source": "luma-trusted",
     "month": "September 2026"
   },
   {
@@ -434,6 +448,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-host-evt-U9vmpwSsOgNoexA",
+    "name": "Superteam TH Monthly Call Sept",
+    "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
+    "startDate": "2026-09-03T07:00:00.000Z",
+    "endDate": "2026-09-03T08:00:00.000Z",
+    "city": "Bangkok",
+    "country": "Thailand",
+    "location": "Bangkok, Thailand",
+    "url": "https://lu.ma/62pren5t",
+    "coverImage": "https://images.lumacdn.com/uploads/mj/1b138b0f-eea4-4a03-9263-78efb4ebaffc.jpg",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-GdKH4uJHYCmvmDL",
     "name": "Morning Coffee with Airwallex x Wayo",
     "description": "",
@@ -448,20 +476,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-fB5bSClaClB6vIa",
-    "name": "Apéro Tricotant - 3 septembre",
-    "description": "",
-    "startDate": "2026-09-03T15:30:00.000Z",
-    "endDate": "2026-09-03T19:30:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/cy43h7qu",
-    "coverImage": "https://images.lumacdn.com/uploads/co/2d3dc157-4413-4cea-afa8-03647ebdd570.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-HCgYvJzjtEJRGKt",
     "name": "Collector Park by OpenSea & Pudgy Penguins",
     "description": "",
@@ -472,20 +486,6 @@
     "location": "New York, United States",
     "url": "https://lu.ma/CollectorPark",
     "coverImage": "https://images.lumacdn.com/uploads/f4/6b1cb85c-fa8d-4d88-bdf7-7ccffbc22399.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-cOrVXkSQSbRfWAo",
-    "name": "FINISSAGE - POLYGON1993",
-    "description": "",
-    "startDate": "2026-09-03T16:00:00.000Z",
-    "endDate": "2026-09-03T20:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/artverse-pegt",
-    "coverImage": "https://images.lumacdn.com/uploads/jg/ce0a8d8e-3685-43ce-96c5-ae1159e5ae4e.gif",
     "source": "luma",
     "month": "September 2026"
   },
@@ -560,17 +560,17 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316281926",
-    "name": "Bitcoin 101",
-    "description": "**AGENDA**\n\n* Bitcoin Price History - Dr. Peter N. Steinmetz will talk about this historic trends in the price of bitcoin and speculate on what the macro long term trends may be.\n* What interesting th",
-    "startDate": "2026-09-02T18:00:00-07:00",
-    "endDate": "2026-09-02T18:00:00-07:00",
-    "city": "Phoenix",
-    "country": "us",
-    "location": "Phoenix, us",
-    "url": "https://www.meetup.com/arizona-bitcoin-meetup/events/316281926/",
-    "coverImage": null,
-    "source": "meetup",
+    "id": "luma-evt-oGcQzBefM8m2B8a",
+    "name": "TFF: The Celestial Seas",
+    "description": "",
+    "startDate": "2026-09-04T01:00:00.000Z",
+    "endDate": "2026-09-04T02:00:00.000Z",
+    "city": "Redwood City",
+    "country": "United States",
+    "location": "Redwood City, United States",
+    "url": "https://lu.ma/mvxgeajc",
+    "coverImage": "https://images.lumacdn.com/uploads/p4/aeee7fc0-508d-4cd1-bcab-fbb143eaf08e.jpg",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -644,20 +644,6 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316124554",
-    "name": "Crypto talk - Money is Freedom; currency is slavery ",
-    "description": "Join me in a fun hour talking about crypto. Know nothing? Great. Are you an expert? Great. I will limit myself to presenting some key ideas for 15 minutes (to give you some context) and then throw it ",
-    "startDate": "2026-09-03T19:00:00-07:00",
-    "endDate": "2026-09-03T19:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cashflow-271/events/316124554/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-PNnLJgncbcmYquI",
     "name": "Startup Village Borneo",
     "description": "We are the official Solana community of Malaysia! Focusing on helping Solana developers and creators earn and grow!",
@@ -668,20 +654,6 @@
     "location": "Kuching, Malaysia",
     "url": "https://lu.ma/bpn4ndl8",
     "coverImage": "https://images.lumacdn.com/uploads/ce/f8e3dd84-e35b-4ff6-9118-960f72bf319c.png",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-host-evt-SAPoE6yeIy3WAFe",
-    "name": "KURS PROGRAMOWANIA BLOCKCHAIN: WROCŁAW",
-    "description": "",
-    "startDate": "2026-09-05T07:00:00.000Z",
-    "endDate": "2026-09-06T17:00:00.000Z",
-    "city": "Wrocław",
-    "country": "Poland",
-    "location": "Wrocław, Poland",
-    "url": "https://lu.ma/KursBlockchainWRO",
-    "coverImage": "https://images.lumacdn.com/uploads/1i/fea6c8ed-564b-4b78-8317-1dd034ab466a.png",
     "source": "luma-trusted",
     "month": "September 2026"
   },
@@ -770,6 +742,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-P8SOblAuUmAsdt6",
+    "name": "Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung",
+    "description": "",
+    "startDate": "2026-09-08T07:15:00.000Z",
+    "endDate": "2026-09-08T15:00:00.000Z",
+    "city": "Zürich",
+    "country": "Switzerland",
+    "location": "Zürich, Switzerland",
+    "url": "https://lu.ma/zr10haoa",
+    "coverImage": "https://images.lumacdn.com/event-covers/hm/b6ff86bb-2827-42fd-87b6-a51ac1b14229.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-PTNz2gFhxFh5lPO",
     "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
     "description": "",
@@ -812,20 +798,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-host-evt-w9rwIlK51rGrizF",
-    "name": "Build with MagicBlock: Real-Time Apps on Solana",
-    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
-    "startDate": "2026-09-09T16:00:00.000Z",
-    "endDate": "2026-09-09T17:00:00.000Z",
-    "city": "Kyiv",
-    "country": "Ukraine",
-    "location": "Kyiv, Ukraine",
-    "url": "https://lu.ma/superteam-sy99",
-    "coverImage": "https://images.lumacdn.com/uploads/1m/76f36b9a-b2b7-4de0-8e7f-b9416273709b.png",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-u8z3itUrY0D0LaN",
     "name": "Light DAO Town Hall",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -836,20 +808,6 @@
     "location": "Virtual / TBA",
     "url": "https://lu.ma/xbwogmkb",
     "coverImage": "https://images.lumacdn.com/event-covers/p9/b7d8de23-97d3-4ccc-8e4d-8e8a11f5bea2",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-host-evt-WPpp054lScSHuVq",
-    "name": "Solana Lunch",
-    "description": "Made for Solana founders, operators and builders.",
-    "startDate": "2026-09-10T08:00:00.000Z",
-    "endDate": "2026-09-10T11:00:00.000Z",
-    "city": "Dubai",
-    "country": "United Arab Emirates",
-    "location": "Dubai, United Arab Emirates",
-    "url": "https://lu.ma/SolanaLunchDXB",
-    "coverImage": "https://images.lumacdn.com/uploads/pm/d31a9ad3-b955-430f-b6b2-2b69a77514c5.jpg",
     "source": "luma-trusted",
     "month": "September 2026"
   },
@@ -865,34 +823,6 @@
     "url": "https://lu.ma/yww621x0",
     "coverImage": "https://images.lumacdn.com/uploads/mv/a9419db3-8797-4c44-9321-f6d1fb899ac2.png",
     "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316216311",
-    "name": "Live AI Crypto Trading Demo + Founder Q&A",
-    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
-    "startDate": "2026-09-10T11:00:00-07:00",
-    "endDate": "2026-09-10T11:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316216311/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316220388",
-    "name": "Artificial Intelligence and Blockchain Discussion",
-    "description": "Join us for an engaging discussion on the latest advancements in Artificial Intelligence and Blockchain technology. Our event will cover topics such as Machine Learning, Ethereum, Smart Contracts, and",
-    "startDate": "2026-09-10T16:00:00-07:00",
-    "endDate": "2026-09-10T16:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/ai-blockchain-more-tech/events/316220388/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {
