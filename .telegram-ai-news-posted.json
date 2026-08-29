@@ -542,6 +542,9 @@
   "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
   "https://arstechnica.com/tech-policy/2026/08/elon-musks-xai-used-child-porn-to-train-grok-models-lawsuit-says/",
   "https://techcrunch.com/2026/08/27/openai-to-start-showing-ads-on-chatgpts-free-and-go-tiers-in-india/",
+  "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
+  "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
+  "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1409,6 +1412,12 @@
   "Elon Musk’s xAI used child porn to train Grok models, lawsuit says",
   "OpenAI introduces advertisements on free ChatGPT tiers in India",
   "OpenAI to start showing ads on ChatGPT’s free and Go tiers in India",
+  "Sony Music and Warner sue Anthropic over music copyright",
+  "Sony Music, Warner sue Anthropic, alleging a “brazen campaign” of intellectual property theft",
+  "Former a16z partner Vijay Pande discusses AI biotech venture strategy",
+  "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
+  "Investors and buyers focus on open-weight AI companies",
+  "Open-weight AI companies are the Valley’s hottest acquisition targets",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1468,5 +1477,8 @@
   "fp:alignment|anthropic|automat|behavior|benchmark|correct|degrad|gav|general|improv",
   "fp:agent|allow|anthropic|control|devic|different|directly|driver|hardwar|interfac",
   "fp:abus|accus|child|claim|complaint|data|elon|flagship|illegal|lawsuit",
-  "fp:100m|activ|advertisement|cost|display|fre|india|introduc|lowest|openai"
+  "fp:100m|activ|advertisement|cost|display|fre|india|introduc|lowest|openai",
+  "fp:accus|alleg|anthropic|brazen|campaign|copyright|illegally|intellectual|label|major",
+  "fp:a16z|bet|bett|biotech|discuss|doing30|fewer|firm|former|his",
+  "fp:accessibl|acquisition|are|buyer|focus|freely|fund|hottest|investor|offer"
 ]
