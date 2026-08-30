@@ -545,6 +545,9 @@
   "https://techcrunch.com/2026/08/29/sony-music-warner-sue-anthropic-alleging-a-brazen-campaign-of-intellectual-property-theft/",
   "https://techcrunch.com/2026/08/29/were-not-doing-30-bets-a-year-vijay-pande-on-betting-small-after-running-4-billion-at-a16z/",
   "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
+  "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
+  "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
+  "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1418,6 +1421,12 @@
   "“We’re not doing 30 bets a year”: Vijay Pande on betting small after running $4 billion at a16z",
   "Investors and buyers focus on open-weight AI companies",
   "Open-weight AI companies are the Valley’s hottest acquisition targets",
+  "Security researchers find AI coding assistants execute unowned software",
+  "Claude, Codex, and Hermes installed unowned code inside corporate networks",
+  "Biotech Startup Claims to Develop Blood Rejuvenation Drug",
+  "The Download: a secretive antiaging drug and joining virtual power plants",
+  "Meta executive Sandhya Devanathan joins OpenAI",
+  "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1480,5 +1489,8 @@
   "fp:100m|activ|advertisement|cost|display|fre|india|introduc|lowest|openai",
   "fp:accus|alleg|anthropic|brazen|campaign|copyright|illegally|intellectual|label|major",
   "fp:a16z|bet|bett|biotech|discuss|doing30|fewer|firm|former|his",
-  "fp:accessibl|acquisition|are|buyer|focus|freely|fund|hottest|investor|offer"
+  "fp:accessibl|acquisition|are|buyer|focus|freely|fund|hottest|investor|offer",
+  "fp:abandon|anthropic|assistant|automat|cod|codex|command|corporat|execut|find",
+  "fp:age|aim|antiag|biological|biotech|blood|claim|creat|develop|download",
+  "fp:asia|australia|devanathan|executiv|fac|giant|grow|india|join|leav"
 ]
