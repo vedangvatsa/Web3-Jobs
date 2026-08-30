@@ -1,5 +1,17 @@
 [
   {
+    "id": "8164166",
+    "title": "Senior Software Engineer, Trading Systems (Full Stack, React)",
+    "company": "Gemini",
+    "link": "https://boards.greenhouse.io/embed/job_app?for=gemini&token=8164166&gh_jid=8164166",
+    "date": "2026-08-30T11:24:33-04:00",
+    "source": "Greenhouse: Gemini [gemini]",
+    "location": "Singapore, Singapore",
+    "department": "Trading Systems",
+    "active": true,
+    "slug": "fullstack64166"
+  },
+  {
     "id": "4687004006",
     "title": "Software Engineer - Stellar #3",
     "company": "Fireblocks",
@@ -7162,17 +7174,6 @@
     "slug": "staff11"
   },
   {
-    "id": "JR101115",
-    "title": "Senior Analyst, Investigation Operations",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Analyst--Investigation-Operations_JR101115",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Bangalore - remote first in India",
-    "active": true,
-    "slug": "analyst159"
-  },
-  {
     "id": "JR101118",
     "title": "Manager, Risk Management - AI Transformation",
     "company": "Circle",
@@ -7193,6 +7194,17 @@
     "location": "Delhi - remote first in India",
     "active": true,
     "slug": "onboarding12"
+  },
+  {
+    "id": "JR101115",
+    "title": "Senior Analyst, Investigation Operations",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Analyst--Investigation-Operations_JR101115",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Bangalore - remote first in India",
+    "active": true,
+    "slug": "analyst159"
   },
   {
     "id": "JR101116",
@@ -10867,6 +10879,18 @@
     "slug": "manager486"
   },
   {
+    "id": "8127942",
+    "title": "Customer Success Manager",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8127942",
+    "date": "2026-08-13T10:06:43-04:00",
+    "source": "Greenhouse: Stripe [stripe]",
+    "location": "London",
+    "department": "1340 Customer Success Management",
+    "active": true,
+    "slug": "manager27942"
+  },
+  {
     "id": "8121419",
     "title": "Account Executive, Funded Startups — Hunter, Italy",
     "company": "Stripe",
@@ -12522,17 +12546,6 @@
     "slug": "senior63"
   },
   {
-    "id": "JR101098",
-    "title": "Software Engineer II",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Taipei-City---remote-first-in-Taiwan/Software-Engineer-II_JR101098",
-    "date": "2026-08-12",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Taipei City - remote first in Taiwan",
-    "active": true,
-    "slug": "engineer753"
-  },
-  {
     "id": "JR101102",
     "title": "Senior Director Product, Onboarding, Compliance & Risk",
     "company": "Circle",
@@ -12542,6 +12555,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "product603"
+  },
+  {
+    "id": "JR101098",
+    "title": "Software Engineer II",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Taipei-City---remote-first-in-Taiwan/Software-Engineer-II_JR101098",
+    "date": "2026-08-12",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Taipei City - remote first in Taiwan",
+    "active": true,
+    "slug": "engineer753"
   },
   {
     "id": "8123027",
@@ -13913,6 +13937,18 @@
     "slug": "solution4"
   },
   {
+    "id": "4698041006",
+    "title": "Sales Director",
+    "company": "Fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698041006",
+    "date": "2026-08-10T08:23:38-04:00",
+    "source": "Greenhouse: Fireblocks [fireblocks]",
+    "location": "Singapore",
+    "department": "Sales",
+    "active": true,
+    "slug": "sales41006"
+  },
+  {
     "id": "98f4e250-c4f6-48e2-b939-8f074632723f",
     "title": "Site Reliability Engineer",
     "company": "P2P.org",
@@ -14103,15 +14139,6 @@
     "department": "Animoca Brands Limited",
     "active": true,
     "slug": "manager445"
-  },
-  {
-    "id": "89349813",
-    "title": "Engineering Manager, Forward Deployed",
-    "company": "Privy",
-    "link": "https://stripe.com/jobs/listing/engineering-manager-forward-deployed-privy/7947546",
-    "date": "2026-08-10T06:17:10.000Z",
-    "source": "https://jobs.archetype.fund/jobs",
-    "slug": "manager444"
   },
   {
     "id": "a07cf3c5-1f3d-4b64-a1c5-733bee3ca85f",
@@ -17354,17 +17381,6 @@
     "slug": "engineer683"
   },
   {
-    "id": "JR101085",
-    "title": "Senior Site Reliability Engineer - Infra Ops",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Site-Reliability-Engineer---Infra-Ops_JR101085",
-    "date": "2026-08-04",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer685"
-  },
-  {
     "id": "JR101101",
     "title": "Staff Site Reliability Engineer",
     "company": "Circle",
@@ -17374,6 +17390,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "engineer686"
+  },
+  {
+    "id": "JR101085",
+    "title": "Senior Site Reliability Engineer - Infra Ops",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Site-Reliability-Engineer---Infra-Ops_JR101085",
+    "date": "2026-08-04",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "engineer685"
   },
   {
     "id": "868",
@@ -18146,17 +18173,6 @@
     "slug": "marketing169"
   },
   {
-    "id": "JR101089",
-    "title": "VP of Ecosystem Growth, Brazil",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/VP-of-Ecosystem-Growth--Brazil_JR101089",
-    "date": "2026-08-03",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
-    "active": true,
-    "slug": "marketing170"
-  },
-  {
     "id": "JR101097",
     "title": "Senior Customer Care Advisor",
     "company": "Circle",
@@ -18166,6 +18182,17 @@
     "location": "Bangalore - remote first in India",
     "active": true,
     "slug": "senior54"
+  },
+  {
+    "id": "JR101089",
+    "title": "VP of Ecosystem Growth, Brazil",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/VP-of-Ecosystem-Growth--Brazil_JR101089",
+    "date": "2026-08-03",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "São Paulo - remote first in Brazil",
+    "active": true,
+    "slug": "marketing170"
   },
   {
     "id": "4942108101",
@@ -22198,19 +22225,6 @@
     "slug": "security179"
   },
   {
-    "id": "29a35402-8d93-443c-ae31-891b122591d7",
-    "title": "People Business Partner - Engineering",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/29a35402-8d93-443c-ae31-891b122591d7",
-    "date": "2026-07-24",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "United States",
-    "department": "People",
-    "active": true,
-    "slug": "engineer616"
-  },
-  {
     "id": "4d419a38-61e0-4dd9-9c0f-061bf87f2d78",
     "title": "Institutional Relations Lead",
     "company": "Chainlink Labs",
@@ -22222,6 +22236,19 @@
     "department": "Marketing",
     "active": true,
     "slug": "devrel31"
+  },
+  {
+    "id": "29a35402-8d93-443c-ae31-891b122591d7",
+    "title": "People Business Partner - Engineering",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/29a35402-8d93-443c-ae31-891b122591d7",
+    "date": "2026-07-24",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "United States",
+    "department": "People",
+    "active": true,
+    "slug": "engineer616"
   },
   {
     "id": "BCEFE0DB92",
@@ -25002,18 +25029,6 @@
     "department": "Data",
     "active": true,
     "slug": "analyst102"
-  },
-  {
-    "id": "4698244006",
-    "title": "Senior Backend Engineer- TRES Finance",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position?gh_jid=4698244006",
-    "date": "2026-07-20T04:22:37-04:00",
-    "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
-    "department": "R&D",
-    "active": true,
-    "slug": "backend90"
   },
   {
     "id": "3b55c339-d6f0-4713-92f5-bf74dcfb39d9",
@@ -30200,17 +30215,6 @@
     "slug": "sales127"
   },
   {
-    "id": "JR100798",
-    "title": "Senior Manager, Financial Intelligence Unit, MEA",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/United-Arab-Emirates---remote-first-in-UAE/Senior-Manager--Financial-Intelligence-Unit--MEA_JR100798",
-    "date": "2026-07-07",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "United Arab Emirates - remote first in UAE",
-    "active": true,
-    "slug": "manager288"
-  },
-  {
     "id": "JR100476",
     "title": "Senior Principal Product Manager",
     "company": "Circle",
@@ -30220,6 +30224,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "product416"
+  },
+  {
+    "id": "JR100798",
+    "title": "Senior Manager, Financial Intelligence Unit, MEA",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/United-Arab-Emirates---remote-first-in-UAE/Senior-Manager--Financial-Intelligence-Unit--MEA_JR100798",
+    "date": "2026-07-07",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "United Arab Emirates - remote first in UAE",
+    "active": true,
+    "slug": "manager288"
   },
   {
     "id": "JR101073",
@@ -32928,17 +32943,6 @@
     "slug": "compliance59"
   },
   {
-    "id": "JR101076",
-    "title": "Senior Analyst, IT Internal Controls & SOX Compliance",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Analyst--IT-Internal-Controls---SOX-Compliance_JR101076",
-    "date": "2026-06-29",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "compliance60"
-  },
-  {
     "id": "JR101077",
     "title": "Senior Finance Systems Analyst",
     "company": "Circle",
@@ -32948,6 +32952,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "analyst83"
+  },
+  {
+    "id": "JR101076",
+    "title": "Senior Analyst, IT Internal Controls & SOX Compliance",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Analyst--IT-Internal-Controls---SOX-Compliance_JR101076",
+    "date": "2026-06-29",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "compliance60"
   },
   {
     "id": "f6e96bdf-5535-4d92-8ee0-593364cf2baf",
@@ -34706,17 +34721,6 @@
     "slug": "frontend104"
   },
   {
-    "id": "JR101060",
-    "title": "Security Engineer II, Detection and Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security130"
-  },
-  {
     "id": "JR100838",
     "title": "Senior Smart Contract Engineer",
     "company": "Circle",
@@ -34726,6 +34730,17 @@
     "location": "Taipei City - remote first in Taiwan",
     "active": true,
     "slug": "engineer435"
+  },
+  {
+    "id": "JR101060",
+    "title": "Security Engineer II, Detection and Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security130"
   },
   {
     "id": "JR101071",
@@ -35482,18 +35497,6 @@
     "department": "Customer Operations",
     "active": true,
     "slug": "manager244"
-  },
-  {
-    "id": "4690363006",
-    "title": "Sales Director",
-    "company": "Fireblocks",
-    "link": "https://www.fireblocks.com/careers/position?gh_jid=4690363006",
-    "date": "2026-06-18T04:43:43-04:00",
-    "source": "Greenhouse: Fireblocks [fireblocks]",
-    "location": "Singapore",
-    "department": "Sales",
-    "active": true,
-    "slug": "sales63006"
   },
   {
     "id": "7777063003",
@@ -40781,6 +40784,18 @@
     "slug": "trader77"
   },
   {
+    "id": "7964956",
+    "title": "Full Stack Engineer, Growth",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=7964956",
+    "date": "2026-05-29T05:02:34-04:00",
+    "source": "Greenhouse: Stripe [stripe]",
+    "location": "Singapore",
+    "department": "8916 Growth - Eng",
+    "active": true,
+    "slug": "fullstack64956"
+  },
+  {
     "id": "7965410",
     "title": "Reliability Engineer",
     "company": "Flow Traders",
@@ -40818,19 +40833,6 @@
     "slug": "devops38"
   },
   {
-    "id": "ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
-    "title": "Senior Site Reliability Engineer, Observability",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
-    "date": "2026-05-29",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "United States",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer338"
-  },
-  {
     "id": "1be78220-f909-4d03-ac4c-cf7f3b62f236",
     "title": "Senior Software Engineer, Data Products",
     "company": "Chainlink Labs",
@@ -40842,6 +40844,19 @@
     "department": "Engineering",
     "active": true,
     "slug": "product302"
+  },
+  {
+    "id": "ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
+    "title": "Senior Site Reliability Engineer, Observability",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
+    "date": "2026-05-29",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "United States",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer338"
   },
   {
     "id": "A56A5FE285",
@@ -41363,20 +41378,6 @@
     "slug": "vp1"
   },
   {
-    "id": "0C1A634B81",
-    "title": "Senior Site Technician - Bitcoin Mining",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/0C1A634B81",
-    "date": "2026-05-27T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Butte, United States",
-    "department": [
-      "Hostings"
-    ],
-    "active": true,
-    "slug": "senior16"
-  },
-  {
     "id": "CE68D43E05",
     "title": "Senior Site Technician - Bitcoin Mining",
     "company": "GoMining",
@@ -41389,6 +41390,20 @@
     ],
     "active": true,
     "slug": "senior17"
+  },
+  {
+    "id": "0C1A634B81",
+    "title": "Senior Site Technician - Bitcoin Mining",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/0C1A634B81",
+    "date": "2026-05-27T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Butte, United States",
+    "department": [
+      "Hostings"
+    ],
+    "active": true,
+    "slug": "senior16"
   },
   {
     "id": "7ba8147257b1",
@@ -43427,40 +43442,16 @@
     "slug": "backend62"
   },
   {
-    "id": "279",
-    "title": "Country Manager – Nigeria",
+    "id": "280",
+    "title": "Country Manager – Kenya",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/279",
+    "link": "https://fasset.bamboohr.com/careers/280",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "Nigeria",
+    "location": "Kenya",
     "department": null,
     "active": true,
-    "slug": "manager279-1hrz"
-  },
-  {
-    "id": "274",
-    "title": "Junior Product Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/274",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "United Arab Emirates",
-    "department": "Product",
-    "active": true,
-    "slug": "product274-1ldu"
-  },
-  {
-    "id": "276",
-    "title": "Lifecycle Marketing Associate",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/276",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Pakistan",
-    "department": "Marketing",
-    "active": true,
-    "slug": "marketing276"
+    "slug": "manager280-0fr8"
   },
   {
     "id": "278",
@@ -43475,16 +43466,28 @@
     "slug": "manager278"
   },
   {
-    "id": "280",
-    "title": "Country Manager – Kenya",
+    "id": "274",
+    "title": "Junior Product Manager",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/280",
+    "link": "https://fasset.bamboohr.com/careers/274",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "Kenya",
+    "location": "United Arab Emirates",
+    "department": "Product",
+    "active": true,
+    "slug": "product274-1ldu"
+  },
+  {
+    "id": "279",
+    "title": "Country Manager – Nigeria",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/279",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Nigeria",
     "department": null,
     "active": true,
-    "slug": "manager280-0fr8"
+    "slug": "manager279-1hrz"
   },
   {
     "id": "281",
@@ -43499,16 +43502,16 @@
     "slug": "manager281-0g17"
   },
   {
-    "id": "291",
-    "title": "Community Ambassador (Worldwide)",
+    "id": "276",
+    "title": "Lifecycle Marketing Associate",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/291",
+    "link": "https://fasset.bamboohr.com/careers/276",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "All Region Mentioned, All region mentioned, United Arab Emirates",
-    "department": "Growth & Marketing",
+    "location": "Pakistan",
+    "department": "Marketing",
     "active": true,
-    "slug": "community291"
+    "slug": "marketing276"
   },
   {
     "id": "283",
@@ -43520,6 +43523,41 @@
     "department": null,
     "active": true,
     "slug": "manager283-0fh8"
+  },
+  {
+    "id": "298",
+    "title": "Partnership Manager",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/298",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "department": "Growth & Marketing",
+    "active": true,
+    "slug": "manager298-0jn5"
+  },
+  {
+    "id": "284",
+    "title": "Country Manager – Uganda",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/284",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Uganda",
+    "department": null,
+    "active": true,
+    "slug": "manager284-0gv6"
+  },
+  {
+    "id": "291",
+    "title": "Community Ambassador (Worldwide)",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/291",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "All Region Mentioned, All region mentioned, United Arab Emirates",
+    "department": "Growth & Marketing",
+    "active": true,
+    "slug": "community291"
   },
   {
     "id": "286",
@@ -43544,29 +43582,6 @@
     "department": null,
     "active": true,
     "slug": "manager282-0f79"
-  },
-  {
-    "id": "284",
-    "title": "Country Manager – Uganda",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/284",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Uganda",
-    "department": null,
-    "active": true,
-    "slug": "manager284-0gv6"
-  },
-  {
-    "id": "298",
-    "title": "Partnership Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/298",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": "Growth & Marketing",
-    "active": true,
-    "slug": "manager298-0jn5"
   },
   {
     "id": "285",
@@ -47953,18 +47968,6 @@
     "slug": "analyst25"
   },
   {
-    "id": "7810205",
-    "title": "Customer Success Manager",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=7810205",
-    "date": "2026-04-14T04:52:27-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "London",
-    "department": "1340 Customer Success Management",
-    "active": true,
-    "slug": "manager10205"
-  },
-  {
     "id": "da139395-7bd1-4ede-a277-742bacecadcd",
     "title": "Binance Accelerator Program - Data Scientist (LLM & Trading)",
     "company": "Binance",
@@ -48866,17 +48869,6 @@
     "slug": "compliance31"
   },
   {
-    "id": "JR100014-EG",
-    "title": "Staff Software Engineer",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer261"
-  },
-  {
     "id": "JR100869",
     "title": "Principal Product Operations and Risk Analyst",
     "company": "Circle",
@@ -48888,15 +48880,15 @@
     "slug": "product184"
   },
   {
-    "id": "JR100849",
-    "title": "Distinguished Software Engineer",
+    "id": "JR100878",
+    "title": "VP, Global Head of Product Security and Risk",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "frontend60"
+    "slug": "security60"
   },
   {
     "id": "JR100929",
@@ -48910,15 +48902,26 @@
     "slug": "manager90"
   },
   {
-    "id": "JR100878",
-    "title": "VP, Global Head of Product Security and Risk",
+    "id": "JR100014-EG",
+    "title": "Staff Software Engineer",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "security60"
+    "slug": "engineer261"
+  },
+  {
+    "id": "JR100849",
+    "title": "Distinguished Software Engineer",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "frontend60"
   },
   {
     "id": "JR100477",
