@@ -548,6 +548,9 @@
   "https://arstechnica.com/security/2026/08/claude-codex-and-hermes-installed-unowned-code-inside-corporate-networks/",
   "https://www.technologyreview.com/2026/08/28/1143113/the-download-antiaging-drug-joining-virtual-power-plants/",
   "https://techcrunch.com/2026/08/28/meta-executive-leaves-for-openai-as-the-social-media-giant-faces-growing-scrutiny-in-india/",
+  "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
+  "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
+  "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1427,6 +1430,12 @@
   "The Download: a secretive antiaging drug and joining virtual power plants",
   "Meta executive Sandhya Devanathan joins OpenAI",
   "Meta executive leaves for OpenAI as the social media giant faces growing scrutiny in India",
+  "Meta tests autonomous robots for data center maintenance",
+  "Inside Meta’s push to put robots to work in data centers",
+  "SpaceX plans faster gas turbine production despite pollution concerns",
+  "Musk’s faster path to more gas turbines comes with pollution problem",
+  "Caterpillar applies mining automation experience to AI deployment",
+  "Caterpillar is bringing to AI deployment what it learned from automating mining",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1492,5 +1501,8 @@
   "fp:accessibl|acquisition|are|buyer|focus|freely|fund|hottest|investor|offer",
   "fp:abandon|anthropic|assistant|automat|cod|codex|command|corporat|execut|find",
   "fp:age|aim|antiag|biological|biotech|blood|claim|creat|develop|download",
-  "fp:asia|australia|devanathan|executiv|fac|giant|grow|india|join|leav"
+  "fp:asia|australia|devanathan|executiv|fac|giant|grow|india|join|leav",
+  "fp:autonomous|center|data|deploy|handl|hardwar|human|insid|maintenanc|meta",
+  "fp:accelerat|aim|but|challeng|com|concern|deployment|despit|fac|faster",
+  "fp:apply|automat|automation|autonomous|bring|caterpillar|current|decad|deployment|experienc"
 ]
