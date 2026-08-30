@@ -533,6 +533,9 @@
   "https://cointelegraph.com/markets/stellar-tokenized-rwa-market-nears-4b-after-fourfold-2026-growth?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/bullish-provides-usdai-100m-stablecoin-facility-gpu-backed-loans?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/california-bill-ban-memecoin-issuance-public-officials?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/markets/2026-08-28-bybit-launches-24-7-options-on-stock-perpetuals-starting-with-spacex-and-nvidia-413032",
+  "https://cointelegraph.com/news/real-trump-coins-denies-gold-token-launch?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/376878/bernie-sanders-ban-flock-ai-surveillance",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1506,6 +1509,12 @@
   "Bullish provides USD.AI $100M stablecoin facility for GPU-backed lending",
   "California Senate passes bill banning public official memecoin issuance",
   "California Senate passes bill to ban memecoin issuance by public officials",
+  "Bybit launches 24/7 options trading for stock perpetuals",
+  "Bybit launches 24/7 options on stock perpetuals, starting with SpaceX and Nvidia",
+  "Real Trump Coins denies authorizing the GOLD digital token.",
+  "Real Trump Coins denies launching GOLD token, blames ‘bad actors’",
+  "Bernie Sanders Proposes Bill to Limit AI Surveillance Cameras",
+  "Bernie Sanders Vows Legislation to 'Stop Flock and AI Mass Surveillance'",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1571,5 +1580,8 @@
   "fp:among|bis|chief|credibility|credibl|differenc|fsi|global|issuer|lack",
   "fp:adoption|asset|blockchain|deploy|expand|institutional|market|mor|nearly|network",
   "fp:100m|back|bullish|comput|exchang|facility|fund|gpu|hardwar|institutional",
-  "fp:ban|bann|bill|california|digital|elect|ethic|federal|issu|issuanc"
+  "fp:ban|bann|bill|california|digital|elect|ethic|federal|issu|issuanc",
+  "fp:access|bybit|can|continuous|contract|launches24|nvidia|option|perpetual|settl",
+  "fp:account|actor|authoriz|bad|blam|coin|deny|digital|distribution|fac",
+  "fp:000|120|against|berni|bill|bipartisan|camera|effort|flock|grow"
 ]
