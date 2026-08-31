@@ -551,6 +551,9 @@
   "https://arstechnica.com/ai/2026/08/inside-metas-push-to-put-robots-to-work-in-data-centers/",
   "https://techcrunch.com/2026/08/30/musks-faster-path-to-more-gas-turbines-comes-with-pollution-problem/",
   "https://techcrunch.com/2026/08/30/caterpillar-is-bringing-to-ai-deployment-what-it-learned-from-automating-mining/",
+  "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
+  "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
+  "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1436,6 +1439,12 @@
   "Musk’s faster path to more gas turbines comes with pollution problem",
   "Caterpillar applies mining automation experience to AI deployment",
   "Caterpillar is bringing to AI deployment what it learned from automating mining",
+  "Google releases Gemini 3.5 Transcribe for speech recognition",
+  "Google announces Gemini 3.5 Transcribe for AI-powered speech-to-text",
+  "Meta Restricts Distribution of AI Content Created on Pocket",
+  "Pocket's AI made my game ideas real. Now Meta controls the results.",
+  "US limits foreign drone and robot imports",
+  "The U.S. is building barriers around drones and robots, but China has scale to get around them",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1504,5 +1513,8 @@
   "fp:asia|australia|devanathan|executiv|fac|giant|grow|india|join|leav",
   "fp:autonomous|center|data|deploy|handl|hardwar|human|insid|maintenanc|meta",
   "fp:accelerat|aim|but|challeng|com|concern|deployment|despit|fac|faster",
-  "fp:apply|automat|automation|autonomous|bring|caterpillar|current|decad|deployment|experienc"
+  "fp:apply|automat|automation|autonomous|bring|caterpillar|current|decad|deployment|experienc",
+  "fp:announc|audio|browser|gemini35|googl|improv|mobil|performanc|power|process",
+  "fp:app|but|content|control|creat|creation|difficult|distribution|easy|ecosystem",
+  "fp:allow|around|barrier|build|but|capacity|china|dron|foreign|get"
 ]
