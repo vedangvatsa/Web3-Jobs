@@ -524,6 +524,9 @@
   "https://decrypt.co/376909/white-house-teleprompter-fined-prediction-market-trading",
   "https://cointelegraph.com/news/more-markets-lending-reserve-drained-93m?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
+  "https://decrypt.co/376916/ireland-bars-crypto-from-state-savings-scheme-targeting-203b-in-deposits",
+  "https://decrypt.co/376963/hyperliquid-crypto-perps-us-kraken-parent",
+  "https://decrypt.co/376960/bitcoin-holds-steady-us-strikes-iran-stocks-oil",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1480,6 +1483,12 @@
   "More Markets lending reserve drained for $9.3M: Blockaid",
   "US Jobs Data and Russia's Digital Ruble Expected This Week",
   "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
+  "Ireland Excludes Crypto From State Savings Investment Scheme",
+  "Ireland Bars Crypto From State Savings Scheme Targeting $203B in Deposits",
+  "Hyperliquid Negotiates With Payward to Offer US Perpetual Futures",
+  "Hyperliquid in Talks With Kraken Parent to Bring Crypto Perps to US Traders",
+  "Bitcoin Holds Above $78,000 Amid Stock Declines",
+  "Bitcoin Holds Steady as US Strikes on Iran Rattle Stocks and Lift Oil",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1554,5 +1563,8 @@
   "fp:000|barrier|battl|but|digital|hawala|history|increas|insid|introduc",
   "fp:000|advanc|aid|bett|commodity|dollar|earn|fin|former|hous",
   "fp:93m|ankr|asset|attacker|blockaid|drain|firm|lend|liquid|market",
-  "fp:ahead|are|august31|cryptocurrency|data|digital|economic|expect|job|key"
+  "fp:ahead|are|august31|cryptocurrency|data|digital|economic|expect|job|key",
+  "fp:203b|advantag|asset|bar|barr|deposit|digital|exclud|explicitly|government",
+  "fp:agreement|american|bitnomial|decentraliz|exchang|futur|hyperliquid|investor|kraken|negotiat",
+  "fp:000|abov|best|cryptocurrency|declin|down|driv|geopolitical|head|higher"
 ]

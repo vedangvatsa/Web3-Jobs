@@ -554,6 +554,9 @@
   "https://arstechnica.com/ai/2026/08/google-announces-gemini-3-5-transcribe-for-ai-powered-speech-to-text/",
   "https://arstechnica.com/gaming/2026/08/pockets-ai-made-my-game-ideas-real-now-meta-controls-the-results/",
   "https://techcrunch.com/2026/08/30/the-u-s-is-building-barriers-around-drones-and-robots-china-still-has-scale/",
+  "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
+  "https://techcrunch.com/2026/08/29/at-techbbq-europes-ai-conversations-kept-coming-back-to-whos-actually-in-control/",
+  "https://venturebeat.com/ai/enterprise-ais-real-risk-isnt-autonomous-agents-its-the-complexity-between-them",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1445,6 +1448,12 @@
   "Pocket's AI made my game ideas real. Now Meta controls the results.",
   "US limits foreign drone and robot imports",
   "The U.S. is building barriers around drones and robots, but China has scale to get around them",
+  "Nvidia invests $3.5 billion in MediaTek for AI chips",
+  "Nvidia’s $3.5B MediaTek bet reveals its plan for tackling Big Tech’s AI chip buildout",
+  "European Tech Leaders Debate Human Control of AI",
+  "At TechBBQ, Europe’s AI conversations kept coming back to: Who’s actually in control?",
+  "Interacting AI agents create complexity risks for enterprises.",
+  "Enterprise AI's real risk isn't autonomous agents. It's the complexity between them.",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1516,5 +1525,8 @@
   "fp:apply|automat|automation|autonomous|bring|caterpillar|current|decad|deployment|experienc",
   "fp:announc|audio|browser|gemini35|googl|improv|mobil|performanc|power|process",
   "fp:app|but|content|control|creat|creation|difficult|distribution|easy|ecosystem",
-  "fp:allow|around|barrier|build|but|capacity|china|dron|foreign|get"
+  "fp:allow|around|barrier|build|but|capacity|china|dron|foreign|get",
+  "fp:35b|aim|bet|big|buildout|chip|custom|defend|develop|firm",
+  "fp:actually|address|agency|back|can|com|conferenc|control|conversation|debat",
+  "fp:agent|apis|autonomous|between|challeng|complexity|coordinat|creat|enterpris|fac"
 ]
