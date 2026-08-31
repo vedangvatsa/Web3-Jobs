@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-evt-GqfUZjQidTtF7kZ",
-    "name": "China Quant Investment Delegation × Silicon Valley — NVIDIA, Stanford & UC Berkeley",
-    "description": "",
-    "startDate": "2026-08-31T20:00:00.000Z",
-    "endDate": "2026-09-03T00:00:00.000Z",
-    "city": "Santa Clara",
-    "country": "United States",
-    "location": "Santa Clara, United States",
-    "url": "https://lu.ma/jwekb9do",
-    "coverImage": "https://images.lumacdn.com/uploads/97/14f92386-8139-4f59-ada4-074423f57c65.png",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-K0OFCwPqlNbfJ8n",
-    "name": "CryptoMondays x Team1: Road to Avalanche Summit",
-    "description": "",
-    "startDate": "2026-08-31T21:30:00.000Z",
-    "endDate": "2026-09-01T00:30:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/lize0i8a",
-    "coverImage": "https://images.lumacdn.com/uploads/m0/0c2e42e0-b75e-4af5-a74a-0b6f75f6ee9b.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
-    "id": "luma-evt-RxmAkgkFrhNpk8K",
-    "name": "CryptoGal & Indigenous Whispers: Crypto, Culture & Community",
-    "description": "",
-    "startDate": "2026-08-31T22:30:00.000Z",
-    "endDate": "2026-09-01T01:00:00.000Z",
-    "city": "Miami",
-    "country": "United States",
-    "location": "Miami, United States",
-    "url": "https://lu.ma/wef1v8is",
-    "coverImage": "https://images.lumacdn.com/uploads/wu/55b521fc-2701-4525-ad30-a5ded3cdeb4f.jpg",
-    "source": "luma",
-    "month": "August 2026"
-  },
-  {
     "id": "luma-host-evt-HTweMuQdLCGA4eD",
     "name": "AI Agents, Living Labs & the Future of Society: Inside Edge Cities’ Experiments to Prototype New Ways to Live, Build & Flourish (SF)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -67,6 +25,34 @@
     "url": "https://lu.ma/v6zf9nzi",
     "coverImage": "https://images.lumacdn.com/uploads/a9/0a82cb12-dc59-48fa-909c-def5c6bae6ea.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-f7HLsI7Q0Hs5PGs",
+    "name": "Web3Privacy Now Amsterdam meetup",
+    "description": "",
+    "startDate": "2026-09-01T15:00:00.000Z",
+    "endDate": "2026-09-01T18:00:00.000Z",
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://lu.ma/sixp297m",
+    "coverImage": "https://images.lumacdn.com/event-covers/ot/853d5947-6274-4b02-aa17-98daedcec8c0.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-jBTURetI6A3UroD",
+    "name": "Aperture Sessions London, sponsored by Superwall",
+    "description": "",
+    "startDate": "2026-09-01T17:30:00.000Z",
+    "endDate": "2026-09-01T21:30:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/fjbucey8",
+    "coverImage": "https://images.lumacdn.com/uploads/2k/b7878105-a748-43c5-93ff-ed95d2df774f.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -154,20 +140,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-hyvDuPJJ6bngOmR",
-    "name": "Berlin Ethereum Meetup",
-    "description": "",
-    "startDate": "2026-09-02T16:30:00.000Z",
-    "endDate": "2026-09-02T19:30:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://lu.ma/18uxpaih",
-    "coverImage": "https://images.lumacdn.com/event-covers/ww/28fffdb8-cb73-429c-b944-a4390be6245d.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-TwUGTj3ZoqCsxLU",
     "name": "Wednesday RIPPLE-Making for Adults",
     "description": "",
@@ -178,20 +150,6 @@
     "location": "Los Altos, United States",
     "url": "https://lu.ma/plztpwl6",
     "coverImage": "https://images.lumacdn.com/uploads/k8/8653cc00-d347-45b2-9f6f-4d4f818a69b4.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-YwoPTAjyTMltniB",
-    "name": "Light Dao Salon: An Evening with Sarba Das, former Head of A24 (Nonfiction) & ABC Dev Exec of Shark Tank (Lisbon)",
-    "description": "",
-    "startDate": "2026-09-02T17:30:00.000Z",
-    "endDate": "2026-09-02T20:30:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Lisboa, Portugal",
-    "url": "https://lu.ma/k2mf2911",
-    "coverImage": "https://images.lumacdn.com/uploads/gi/00787244-7be7-49d9-81ea-1ee86a1eebf0.png",
     "source": "luma",
     "month": "September 2026"
   },
@@ -238,17 +196,17 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316311558",
-    "name": "Taco Rio & Riverwalk Fireworks",
-    "description": "**Title: Chicago Traders Meetup: Taco Rio & Riverwalk Fireworks**\n\n**Date & Time:** Wednesday\\, September 05\\, 2026 \\| 6:30 PM – 9:15 PM CDT\n\n**Location:** Taco Rio (457 E Riverwalk, Chicago, IL 60601",
-    "startDate": "2026-09-02T18:30:00-05:00",
-    "endDate": "2026-09-02T18:30:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-traders/events/316311558/",
-    "coverImage": null,
-    "source": "meetup",
+    "id": "luma-evt-vBeT7MfbYjwIEOo",
+    "name": "East Van Bitcoin Meetup",
+    "description": "",
+    "startDate": "2026-09-03T00:00:00.000Z",
+    "endDate": "2026-09-03T02:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/rvajwtnk",
+    "coverImage": "https://images.lumacdn.com/gallery-images/f4/5570427d-0909-4178-84cc-cb84932d7a23.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -262,6 +220,20 @@
     "location": "Sunnyvale, United States",
     "url": "https://lu.ma/hgy5gau1",
     "coverImage": "https://images.lumacdn.com/uploads/72/4716274c-56c1-4b6a-9b66-e5dd3f864444.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-EYARuu5NHL8gube",
+    "name": "Steel & Silicon: LA Edition",
+    "description": "",
+    "startDate": "2026-09-03T01:00:00.000Z",
+    "endDate": "2026-09-03T05:00:00.000Z",
+    "city": "Los Angeles",
+    "country": "United States",
+    "location": "Los Angeles, United States",
+    "url": "https://lu.ma/sfy1kfp5",
+    "coverImage": "https://images.lumacdn.com/uploads/ft/91949d0b-0ad4-4085-b684-5afae635be1f.png",
     "source": "luma",
     "month": "September 2026"
   },
@@ -294,20 +266,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-fB5bSClaClB6vIa",
-    "name": "Apéro Tricotant - 3 septembre",
-    "description": "",
-    "startDate": "2026-09-03T15:30:00.000Z",
-    "endDate": "2026-09-03T19:30:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/cy43h7qu",
-    "coverImage": "https://images.lumacdn.com/uploads/co/2d3dc157-4413-4cea-afa8-03647ebdd570.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-HCgYvJzjtEJRGKt",
     "name": "Collector Park by OpenSea & Pudgy Penguins",
     "description": "",
@@ -322,17 +280,17 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-cOrVXkSQSbRfWAo",
-    "name": "FINISSAGE - POLYGON1993",
-    "description": "",
+    "id": "luma-host-evt-HCgYvJzjtEJRGKt",
+    "name": "Collector Park by OpenSea & Pudgy Penguins",
+    "description": "Breaking the ice worldwide, Pudgy Penguins events are in a league of their own.\n\nBillions Will Huddle. 🐧",
     "startDate": "2026-09-03T16:00:00.000Z",
-    "endDate": "2026-09-03T20:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/artverse-pegt",
-    "coverImage": "https://images.lumacdn.com/uploads/jg/ce0a8d8e-3685-43ce-96c5-ae1159e5ae4e.gif",
-    "source": "luma",
+    "endDate": "2026-09-04T00:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/CollectorPark",
+    "coverImage": "https://images.lumacdn.com/uploads/f4/6b1cb85c-fa8d-4d88-bdf7-7ccffbc22399.jpg",
+    "source": "luma-trusted",
     "month": "September 2026"
   },
   {
@@ -403,20 +361,6 @@
     "url": "https://lu.ma/i5d4ubmm",
     "coverImage": "https://images.lumacdn.com/uploads/z0/be854a0e-1e6e-4ef8-8dc0-e243f736e529.png",
     "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316047209",
-    "name": "Open Bitcoin Discussion",
-    "description": "Our weekly **open Bitcoin discussion**.\nTo join, RSVP for the event that you can make\n\nThe usual format: live market dashboard to open, \\~20 minutes of curated slides, then open discussion. Bring your",
-    "startDate": "2026-09-02T20:00:00-04:00",
-    "endDate": "2026-09-02T20:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/meetup-group-cttlfnfm/events/316047209/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -546,6 +490,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-host-evt-Dm9K9y21kvGYzIz",
+    "name": "MEET ME AT THE BUZZER | ART × CRYPTO × COMMUNITY",
+    "description": "Events centered around art, culture, and crypto.",
+    "startDate": "2026-09-04T20:00:00.000Z",
+    "endDate": "2026-09-04T23:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/qa90cpzf",
+    "coverImage": "https://images.lumacdn.com/uploads/kw/ed2b2d69-a2ac-4d9a-a9e6-ca53fe0c5a01.png",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-BgXWQt1GV4wogWP",
     "name": "New Friendship Tech x CryptoFridays x StandWithCrypto x Avalanche Team1",
     "description": "",
@@ -672,20 +630,6 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-314599520",
-    "name": "South Side Spanish (Bridgeport)",
-    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
-    "startDate": "2026-09-05T15:00:00-05:00",
-    "endDate": "2026-09-05T15:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chicago-spanish-language/events/314599520/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-yFP8YOGl23O4jrE",
     "name": "Light DAO Beach Day (LA)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -700,17 +644,31 @@
     "month": "September 2026"
   },
   {
-    "id": "ma-unchained-summit-dubai",
-    "name": "Unchained Summit Dubai",
-    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
-    "startDate": "2026-09-07T00:00:00.000Z",
-    "endDate": "2026-09-08T00:00:00.000Z",
-    "city": "Dubai, UAE",
-    "country": "UAE",
-    "location": "Dubai, UAE, UAE",
-    "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
-    "source": "marketacross",
+    "id": "mu-316080515",
+    "name": "Caffe Italiano - Italian Language Meetup",
+    "description": "Ciao Amici!\n\nHello speakers and learners of the Italian language!\n\nIf you or anyone you know is interested in meeting up for caffè and speaking/practicing Italian, we look forward to meeting you! All ",
+    "startDate": "2026-09-06T10:00:00-07:00",
+    "endDate": "2026-09-06T10:00:00-07:00",
+    "city": "Cupertino",
+    "country": "us",
+    "location": "Cupertino, us",
+    "url": "https://www.meetup.com/caffe-italiano-italian-language-meetup/events/316080515/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-3oRfDiUpwe8yoA2",
+    "name": "Zug Ethereum Meetup #0",
+    "description": "",
+    "startDate": "2026-09-07T15:00:00.000Z",
+    "endDate": "2026-09-07T17:00:00.000Z",
+    "city": "Zug",
+    "country": "Switzerland",
+    "location": "Zug, Switzerland",
+    "url": "https://lu.ma/xg4ijnku",
+    "coverImage": "https://images.lumacdn.com/uploads/9u/3fb9573a-56bb-4d2f-8154-7551c608160b.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -739,6 +697,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-september-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "September 2026"
+  },
+  {
+    "id": "ma-unchained-summit-dubai",
+    "name": "Unchained Summit Dubai",
+    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
+    "startDate": "2026-09-07T00:00:00.000Z",
+    "endDate": "2026-09-08T00:00:00.000Z",
+    "city": "Dubai, UAE",
+    "country": "UAE",
+    "location": "Dubai, UAE, UAE",
+    "url": "https://unchainedsummit.com/dubai/",
+    "coverImage": null,
+    "source": "marketacross",
     "month": "September 2026"
   },
   {
@@ -826,20 +798,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-VPKD77eVFsE0ab2",
-    "name": "Paris Bitcoin Meetup - Le N'Importe Quoi",
-    "description": "",
-    "startDate": "2026-09-09T17:00:00.000Z",
-    "endDate": "2026-09-09T22:00:00.000Z",
-    "city": "Paris",
-    "country": "France",
-    "location": "Paris, France",
-    "url": "https://lu.ma/z4oeg3so",
-    "coverImage": "https://images.lumacdn.com/gallery-images/kd/12b33577-492a-4ae2-af6f-f7cd814d862c",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-u8z3itUrY0D0LaN",
     "name": "Light DAO Town Hall",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -851,6 +809,20 @@
     "url": "https://lu.ma/xbwogmkb",
     "coverImage": "https://images.lumacdn.com/event-covers/p9/b7d8de23-97d3-4ccc-8e4d-8e8a11f5bea2",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316308448",
+    "name": "Redefining Success Workshop/Conversation - 30 mins (cameras on)",
+    "description": "What is your definition of success? Join me for a 30-minute interactive session where we'll explore how we can move away from hustle culture and scarcity thinking to embrace an abundance mindset roote",
+    "startDate": "2026-09-09T12:00:00-07:00",
+    "endDate": "2026-09-09T12:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/womens-leadership-alliance/events/316308448/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -882,15 +854,15 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316220365",
-    "name": "Socratic Seminar",
-    "description": "Please note that Chicago BitDevs aims at a technical audience. A general expectation is that people are quite familiar with the design, security, and specification of Bitcoin. Everyone is welcome and ",
-    "startDate": "2026-09-10T18:00:00-05:00",
-    "endDate": "2026-09-10T18:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/chibitdevs/events/316220365/",
+    "id": "mu-316216311",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-09-10T11:00:00-07:00",
+    "endDate": "2026-09-10T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/los-angeles-double-your-crypto-club/events/316216311/",
     "coverImage": null,
     "source": "meetup",
     "month": "September 2026"
@@ -921,6 +893,20 @@
     "url": "https://lu.ma/x8kx4uux",
     "coverImage": "https://images.lumacdn.com/event-covers/lw/75936e65-09de-423b-8541-84fc80d77fbc.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316307929",
+    "name": "Santa Cruz - Bitcoin meetup",
+    "description": "Join us for a casual monthly gathering of local Bitcoin enthusiasts and curious newcomers! Whether you’re a seasoned Bitcoiner or just getting started, you’re welcome to explore Bitcoin, Lightning, NO",
+    "startDate": "2026-09-10T18:00:00-07:00",
+    "endDate": "2026-09-10T18:00:00-07:00",
+    "city": "Santa Cruz",
+    "country": "us",
+    "location": "Santa Cruz, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/316307929/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1355,20 +1341,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-cryptocurrency-artificial-intelligence-and-machine-learning-iccaiml-2026-september-kowloon-hk",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316104238",
-    "name": "A Defense of that which Requires None: Common Sense (Reprise)",
-    "description": "We have explored some of the exotic, almost mystical cosmology of Chinese philosophical Daoism in previous meetings. We can interpolate the vastness of philosophical thought by revisiting what is ofte",
-    "startDate": "2026-09-27T12:00:00-05:00",
-    "endDate": "2026-09-27T12:00:00-05:00",
-    "city": "Chicago",
-    "country": "us",
-    "location": "Chicago, us",
-    "url": "https://www.meetup.com/thesymposium/events/316104238/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {
