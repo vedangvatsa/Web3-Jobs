@@ -539,6 +539,9 @@
   "https://decrypt.co/376884/strategy-bitcoin-2-8-billion-profit-saylor-btc-buy",
   "https://www.theblock.co/news/business/2026-08-30-chainalysis-accuses-ice-of-unfairly-steering-95-million-blockchain-contract-to-trm-labs-413066",
   "https://www.coindesk.com/business/2026/08/30/from-hawala-to-swift-inside-the-1-000-year-battle-to-move-money-safely",
+  "https://www.coindesk.com/tech/2026/08/31/zcash-private-transactions-could-go-from-three-second-waits-to-under-200-milliseconds",
+  "https://www.coindesk.com/markets/2026/08/31/u-s-jobs-report-russia-s-digital-ruble-rollout-crypto-week-ahead",
+  "https://www.coindesk.com/tech/2026/08/31/live-updates-bitcoin-holds-usd78-000-as-yen-breaks-160-and-rate-hike-bets-lift-the-dollar",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1524,6 +1527,12 @@
   "Chainalysis accuses ICE of unfairly steering $95 million blockchain contract to TRM Labs",
   "History of global money transfers and modern security risks",
   "From Hawala to Swift: Inside the 1,000-year battle to move money safely",
+  "Zcash protocol upgrade cuts private transaction speeds below 200 milliseconds",
+  "Zcash private transactions could go from three-second waits to under 200 milliseconds",
+  "Crypto events scheduled for the week of August 31",
+  "U.S. jobs report, Russia’s digital ruble rollout: Crypto Week Ahead",
+  "Bitcoin Remains Near $78,000 Amid Strong U.S. Dollar",
+  "Live updates: Bitcoin holds $78,000 as yen breaks 160 and rate-hike bets lift the dollar",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1595,5 +1604,8 @@
   "fp:000|120|against|berni|bill|bipartisan|camera|effort|flock|grow",
   "fp:000|28b|boost|buy|further|hold|profit|purchas|rally|reach",
   "fp:95m|accus|ask|award|bidd|block|blockchain|chainalysis|contract|court",
-  "fp:000|attack|battl|creat|financial|friction|global|hawala|high|history"
+  "fp:000|attack|battl|creat|financial|friction|global|hawala|high|history",
+  "fp:accelerat|below200|cryptography|cut|delay|fourteen|generation|millisecond|mobil|network",
+  "fp:ahead|august31|development|digital|employment|event|includ|job|rollout|rubl",
+  "fp:000|august|bet|breaks160|capp|clos|dollar|gain|hik|hold"
 ]
