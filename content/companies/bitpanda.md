@@ -2,7 +2,7 @@
 name: Bitpanda
 website: 'https://bitpanda.com'
 category: Cryptocurrency Exchange
-description: >-
+description: "Bitpanda, founded in 2014 in Vienna by Eric Demuth, Paul Klanschek and Christian Trummer as Coinimal, is a leading European investment platform offering stocks, exchange-traded funds, crypto and precious metals to millions of users. Regulated under European frameworks and licensed in Austria, the platform emphasizes retail simplicity through savings plans, card spending and portfolio automation. With hubs in Berlin, London and Barcelona and headquarters in Vienna, Bitpanda balances consumer design with strict compliance, segregated custody and educational resources for newcomers. Its business-to-business white-label via Bitpanda Technology Solutions lets banks and fintechs offer trading under their own brand. Backed by leading investors, the culture values product craft, reliable operations and expanding accessible investing across Europe with transparent fees and dedicated support."
  Bitpanda is a European cryptocurrency exchange offering trading and investment
  services.
 ---

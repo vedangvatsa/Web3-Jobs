@@ -4,7 +4,7 @@ website: 'https://coins.ph'
 founded: 2014
 category: Exchange / Fintech
 headquarters: 'Manila, Philippines'
-description: Leading cryptocurrency exchange and digital wallet in Southeast Asia
+description: "Coins.ph, founded in 2014 in Manila, is the Philippines' leading crypto wallet and payments app with 18M+ registered users. Acquired by Gojek then spun out, it offers PHP trading, bills payment, remittance and GCash interoperability, licensed by the Bangko Sentral ng Pilipinas. It bridges cash and crypto for everyday Filipino use.ph lists 123 roles — one of the largest APAC hiring footprints here — across engineering, operations, compliance and growth in Manila and remote. Candidates should value financial inclusion, mobile-first product and operating under local regulation."
 ---
 
 Leading cryptocurrency exchange and digital wallet in Southeast Asia.

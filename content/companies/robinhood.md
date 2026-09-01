@@ -4,7 +4,7 @@ website: 'https://robinhood.com'
 founded: 2013
 category: Financial Services
 headquarters: 'Menlo Park, California, USA'
-description: 'Commission-free trading platform for stocks, ETFs, and crypto'
+description: "Robinhood, founded in 2013 by Vlad Tenev and Baiju Bhatt in Menlo Park, pioneered commission-free trading for 23M+ funded customers across equities, options, crypto and retirement. Public since 2021 (NASDAQ: HOOD), it expanded into crypto wallets, 24-hour trading and credit products. In Web3, Robinhood offers in-app crypto trading, self-custody wallet and learning rewards. The company values simple, trustworthy product design and responsible access to markets."
 ---
 
 Robinhood Markets is a publicly traded financial services company (NASDAQ: HOOD) that offers commission-free trading of stocks, ETFs, options, and cryptocurrencies. The platform has expanded its crypto offerings and launched Robinhood Wallet for self-custody.

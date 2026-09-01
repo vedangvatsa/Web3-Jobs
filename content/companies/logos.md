@@ -2,7 +2,7 @@
 name: Logos
 category: Privacy Infrastructure
 headquarters: Remote
-description: Logos builds decentralized, privacy-preserving web infrastructure and zero-knowledge protocols.
+description: "Logos is building a sovereign, privacy-preserving web stack and zero-knowledge infrastructure layer designed to protect digital rights, free expression, and financial autonomy. Logos incorporates peer-to-peer messaging (Waku), decentralized storage (Codex), and private smart contract execution (Nomos)."
 ---
 
 Logos is a technology collective building decentralized communications, consensus, and storage infrastructure with cryptographic privacy protections.

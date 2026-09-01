@@ -2,7 +2,7 @@
 name: Rain
 website: 'https://rain.fi'
 category: Crypto Payments
-description: Rain is a cryptocurrency exchange and payment platform.
+description: "Rain, founded in 2017 in Bahrain by Abdullah Almoaiqel and Yehia Badawy, is the first licensed crypto exchange in the Middle East (Central Bank of Bahrain), now also licensed in Abu Dhabi, expanding to Turkey. Focused on GCC retail and institutional trading with deep SAR/AED rails, Rain emphasizes Sharia-compliant education and local custody. Candidates should value regulated market building and regional expansion challenges."
 ---
 
 Rain offers a platform for buying, selling, and trading cryptocurrencies. The company provides services tailored to the Middle East and North Africa (MENA) region, focusing on compliance and security. Rain supports various cryptocurrencies and aims to enable easy access to digital assets for users in its operational markets.

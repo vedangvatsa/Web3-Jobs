@@ -2,7 +2,7 @@
 name: DCG
 website: 'https://dcg.co'
 category: Other
-description: >-
+description: "Digital Currency Group (DCG), founded in 2015 by Barry Silbert in Stamford, Connecticut and New York, is a diversified holding company and investor in digital assets. Its portfolio includes Grayscale, the largest digital asset manager, CoinDesk media, Foundry mining and advisory services, plus investments in hundreds of early-stage crypto companies. Headquartered in Stamford with a major presence in New York, DCG provides capital, governance and operational support for subsidiaries operating as independent brands. The firm pioneered regulated wrappers for crypto exposure and mining infrastructure in North America. Unlike a single-product startup, DCG functions as an ecosystem builder spanning media, mining and asset management. Expect a diversified, operational culture that values long-term company building, risk oversight and supporting founders navigating regulated crypto markets."
  DCG is a venture capital firm focused on the digital currency and blockchain
  technology sector.
 ---

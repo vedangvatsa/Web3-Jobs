@@ -2,7 +2,7 @@
 name: Gate.io
 website: 'https://www.gate.io'
 category: Cryptocurrency Exchange
-description: >-
+description: "Gate.io, founded in 2013 in China as Bter by Dr. Lin Han and rebranded after 2017, operates a global crypto exchange serving millions of users with many trading pairs and early altcoin listings. Beyond spot and derivatives, the exchange offers GateChain, its own layer-1, plus Hipo DeFi, Startup launchpad, proof of reserves and continuous security operations. Incorporated in Georgetown, Cayman Islands with operational hubs in Dubai, Singapore, Malta and Hong Kong, Gate emphasizes listing breadth, deep liquidity and resilient matching during volatile markets. Licensed in multiple jurisdictions, the platform handles high volume around new token launches and provides institutional custody and retail trading in one venue. The environment is fast, globally distributed and focused on breadth of assets with disciplined risk controls."
  Gate.io is a cryptocurrency exchange offering trading services for various
  digital assets.
 ---

@@ -4,7 +4,7 @@ website: 'https://nansen.ai'
 founded: 2019
 category: Data / Analytics
 headquarters: Singapore
-description: Blockchain analytics platform with wallet labeling and on-chain intelligence
+description: "Nansen, founded in 2020 by Alex Svanevik, Lars Bakke Krogvig and Evgeny Medvedev in Singapore, provides on-chain analytics that labels wallets, tracks smart money and decodes DeFi activity across 20+ chains. Its platform combines address clustering, portfolio analytics and alerts that help investors, teams and compliance professionals understand flows behind tokens, NFTs and governance. Headquartered in Singapore with hubs in London and remote globally, Nansen is known for curated dashboards, research reports and wallet profiling that surfaces entity behavior without relying on off-chain disclosure. The company emphasizes labeling accuracy and user-friendly data visualization. Backed by leading investors, it serves a broad base of researchers and institutions. Expect a data and research-driven culture focused on labeling quality, investigative rigor and turning complex on-chain behavior into actionable insight."
 ---
 
 Blockchain analytics platform with wallet labeling and on-chain intelligence.

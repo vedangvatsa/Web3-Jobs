@@ -4,7 +4,7 @@ website: 'https://foundation.app'
 founded: 2020
 category: NFT Marketplace
 headquarters: Remote
-description: Curated NFT marketplace for digital art and creative work
+description: "Foundation is a premier curated NFT marketplace and digital art platform for creators, artists, and collectors. Foundation empowers digital creators to mint, auction, and trade unique digital artworks on Ethereum smart contracts with transparent creator royalties and elegant, minimal design."
 ---
 
 Curated NFT marketplace for digital art and creative work.
