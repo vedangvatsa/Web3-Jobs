@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-evt-jBTURetI6A3UroD",
-    "name": "Aperture Sessions London, sponsored by Superwall",
-    "description": "",
-    "startDate": "2026-09-01T17:30:00.000Z",
-    "endDate": "2026-09-01T21:30:00.000Z",
-    "city": "London",
-    "country": "United Kingdom",
-    "location": "London, United Kingdom",
-    "url": "https://lu.ma/fjbucey8",
-    "coverImage": "https://images.lumacdn.com/uploads/2k/b7878105-a748-43c5-93ff-ed95d2df774f.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-7IUiLoy80dHt51g",
-    "name": "Taco Tech Tuesday: NFT NYC Edition 🎨🗽🦊",
-    "description": "",
-    "startDate": "2026-09-01T21:30:00.000Z",
-    "endDate": "2026-09-02T01:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/ws01yaks",
-    "coverImage": "https://images.lumacdn.com/uploads/4a/3fe96698-1fc3-4ee7-af09-5b77105bc340.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-0BSuQBrD3Kjg4YS",
     "name": "Como tirar a sua ideia do papel?",
     "description": "A Jornada She Is Solana é uma formação gratuita criada para aproximar mais mulheres do ecossistema Web3 e da Solana.",
@@ -196,6 +168,48 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-316375234",
+    "name": "The Global Passion Economy: Web3, AI, Gaming & SuperOne - Live Q&A",
+    "description": "**IMPORTANT: This Meetup begins at 6:45am PT / 7:45am MT / 8:45am CT / 9:45am ET with a brief 15-minute welcome and check-in.**\n\n**The full SuperOne community call with special guest Katie begins at 8",
+    "startDate": "2026-09-02T06:45:00-07:00",
+    "endDate": "2026-09-02T06:45:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/ladies-in-seattle-tech/events/316375234/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-315286686",
+    "name": "Real-Time Intelligence MCP: consulta datos en streaming con lenguaje natural",
+    "description": "Los datos en tiempo real son el próximo nivel.\n\nEn esta sesión conectaremos el servidor MCP de Real-Time Intelligence (RTI) de Fabric a un agente de IA para interactuar con Eventhouse y Azure Data Exp",
+    "startDate": "2026-09-02T13:00:00-07:00",
+    "endDate": "2026-09-02T13:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286686/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-vBeT7MfbYjwIEOo",
+    "name": "East Van Bitcoin Meetup",
+    "description": "",
+    "startDate": "2026-09-03T00:00:00.000Z",
+    "endDate": "2026-09-03T02:00:00.000Z",
+    "city": "Vancouver",
+    "country": "Canada",
+    "location": "Vancouver, Canada",
+    "url": "https://lu.ma/rvajwtnk",
+    "coverImage": "https://images.lumacdn.com/gallery-images/f4/5570427d-0909-4178-84cc-cb84932d7a23.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-NePwmMJmk434CAe",
     "name": "CISO Strategy Salon - Silicon Valley",
     "description": "",
@@ -255,8 +269,8 @@
     "id": "luma-host-evt-EBdHTBo1qSS0jjP",
     "name": "2′PITCH with Members",
     "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
-    "startDate": "2026-09-03T15:00:00.000Z",
-    "endDate": "2026-09-03T16:00:00.000Z",
+    "startDate": "2026-09-03T14:00:00.000Z",
+    "endDate": "2026-09-03T15:00:00.000Z",
     "city": "Kyiv",
     "country": "Ukraine",
     "location": "Kyiv, Ukraine",
@@ -294,6 +308,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-sWC9At5pfHCFZud",
+    "name": "Good Company NFTNYC Close Out",
+    "description": "",
+    "startDate": "2026-09-03T16:00:00.000Z",
+    "endDate": "2026-09-03T18:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://lu.ma/0aa29ix1",
+    "coverImage": "https://images.lumacdn.com/uploads/ww/9e6bb787-302e-4076-b1c6-20ad2632177a.gif",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-cOrVXkSQSbRfWAo",
     "name": "FINISSAGE - POLYGON1993",
     "description": "",
@@ -319,6 +347,20 @@
     "url": "https://lu.ma/CollectorPark",
     "coverImage": "https://images.lumacdn.com/uploads/f4/6b1cb85c-fa8d-4d88-bdf7-7ccffbc22399.jpg",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-A5GTc2sHQmdZAyq",
+    "name": "JetBrains x Solana: Learn about the new Solana plugin",
+    "description": "",
+    "startDate": "2026-09-03T16:30:00.000Z",
+    "endDate": "2026-09-03T20:00:00.000Z",
+    "city": "Berlin",
+    "country": "Germany",
+    "location": "Berlin, Germany",
+    "url": "https://lu.ma/solanaplugin",
+    "coverImage": "https://images.lumacdn.com/uploads/dw/a6944eb3-2492-4c3c-93bb-efe7311fc67d.png",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -532,6 +574,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-315286722",
+    "name": "Fabric IQ y Ontología MCP: la capa semántica que entiende tu negocio",
+    "description": "La sesión final lleva la serie al nivel más avanzado: la semántica empresarial como fundamento de todos los agentes.\n\nFabric IQ (GA desde Build 2026) es la capa de contexto compartido que unifica Data",
+    "startDate": "2026-09-04T08:00:00-07:00",
+    "endDate": "2026-09-04T08:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286722/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-BgXWQt1GV4wogWP",
     "name": "New Friendship Tech x CryptoFridays x StandWithCrypto x Avalanche Team1",
     "description": "",
@@ -672,20 +728,6 @@
     "month": "September 2026"
   },
   {
-    "id": "ma-unchained-summit-dubai",
-    "name": "Unchained Summit Dubai",
-    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
-    "startDate": "2026-09-07T00:00:00.000Z",
-    "endDate": "2026-09-08T00:00:00.000Z",
-    "city": "Dubai, UAE",
-    "country": "UAE",
-    "location": "Dubai, UAE, UAE",
-    "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
-    "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
     "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
     "description": "",
@@ -711,6 +753,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-september-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "September 2026"
+  },
+  {
+    "id": "ma-unchained-summit-dubai",
+    "name": "Unchained Summit Dubai",
+    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
+    "startDate": "2026-09-07T00:00:00.000Z",
+    "endDate": "2026-09-08T00:00:00.000Z",
+    "city": "Dubai, UAE",
+    "country": "UAE",
+    "location": "Dubai, UAE, UAE",
+    "url": "https://unchainedsummit.com/dubai/",
+    "coverImage": null,
+    "source": "marketacross",
     "month": "September 2026"
   },
   {
@@ -765,7 +821,21 @@
     "country": "United States",
     "location": "Santa Clara, United States",
     "url": "https://lu.ma/55xepilc",
-    "coverImage": "https://images.lumacdn.com/uploads/5d/5a5b99bc-3a13-4d05-8cde-c0792b43dea9.png",
+    "coverImage": "https://images.lumacdn.com/uploads/rt/ced50ef6-2be1-48fb-a772-8fa5a3d3c63c.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-ivGyHDY4DdXMyOm",
+    "name": "Rendez-vous de Gastronomie Durable du Plateau",
+    "description": "",
+    "startDate": "2026-09-09T16:00:00.000Z",
+    "endDate": "2026-09-14T01:00:00.000Z",
+    "city": "Montreal",
+    "country": "Canada",
+    "location": "Montreal, Canada",
+    "url": "https://lu.ma/oaqy62lq",
+    "coverImage": "https://images.lumacdn.com/uploads/pd/1e2519f9-0877-458e-88a1-7576e6c8cb3e.png",
     "source": "luma",
     "month": "September 2026"
   },
@@ -781,6 +851,20 @@
     "url": "https://lu.ma/superteam-sy99",
     "coverImage": "https://images.lumacdn.com/uploads/1m/76f36b9a-b2b7-4de0-8e7f-b9416273709b.png",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-VPKD77eVFsE0ab2",
+    "name": "Paris Bitcoin Meetup - Le N'Importe Quoi",
+    "description": "",
+    "startDate": "2026-09-09T17:00:00.000Z",
+    "endDate": "2026-09-09T22:00:00.000Z",
+    "city": "Paris",
+    "country": "France",
+    "location": "Paris, France",
+    "url": "https://lu.ma/z4oeg3so",
+    "coverImage": "https://images.lumacdn.com/gallery-images/kd/12b33577-492a-4ae2-af6f-f7cd814d862c",
+    "source": "luma",
     "month": "September 2026"
   },
   {
@@ -809,6 +893,20 @@
     "url": "https://lu.ma/yww621x0",
     "coverImage": "https://images.lumacdn.com/uploads/mv/a9419db3-8797-4c44-9321-f6d1fb899ac2.png",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316216307",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-09-10T11:00:00-07:00",
+    "endDate": "2026-09-10T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/316216307/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1134,20 +1232,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-uRRcZwmUKsVyVlH",
-    "name": "Solana Summit Canada",
-    "description": "",
-    "startDate": "2026-09-23T13:30:00.000Z",
-    "endDate": "2026-09-24T22:00:00.000Z",
-    "city": "Toronto",
-    "country": "Canada",
-    "location": "Toronto, Canada",
-    "url": "https://lu.ma/Solana-Summit-Canada",
-    "coverImage": "https://images.lumacdn.com/uploads/6b/85543646-01fd-45e5-9c39-841228d6ac64.gif",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-S1a3G141Dsg60pk",
     "name": "The Solana Ecosystem Call | September",
     "description": "",
@@ -1367,7 +1451,7 @@
     "country": "United Kingdom",
     "location": "London, United Kingdom",
     "url": "https://lu.ma/metropolis-lon-oct-2026",
-    "coverImage": "https://images.lumacdn.com/uploads/x6/908bfba8-4a32-4515-bf2f-975a929a4fde.png",
+    "coverImage": "https://images.lumacdn.com/uploads/2o/883f9d6c-2d76-42bd-a2a2-c110101df805.png",
     "source": "luma-trusted",
     "month": "October 2026"
   },
