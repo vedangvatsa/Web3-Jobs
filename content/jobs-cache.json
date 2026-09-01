@@ -6140,7 +6140,8 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "apacclead"
+    "slug": "apacclead",
+    "location": "Remote"
   },
   {
     "id": "3b10fa2d-64c6-4e39-ade1-06c5498819d6",
@@ -6163,7 +6164,8 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "headdofus"
+    "slug": "headdofus",
+    "location": "Remote"
   },
   {
     "id": "2ffdd2ec-152b-4186-90c2-932958545513",
@@ -6198,7 +6200,8 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "engineerineer"
+    "slug": "engineerineer",
+    "location": "Remote"
   },
   {
     "id": "8131339",
@@ -6269,7 +6272,8 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "ususgtm"
+    "slug": "ususgtm",
+    "location": "Remote"
   },
   {
     "id": "8130807",
@@ -8079,7 +8083,8 @@
     "source": "BambooHR: Bitcoin.com [bitcoin]",
     "department": "HR, Administrative & Legal",
     "active": true,
-    "slug": "manager44-084n"
+    "slug": "manager44-084n",
+    "location": "Remote"
   },
   {
     "id": "8162819",
@@ -12237,7 +12242,8 @@
     "link": "https://morpho.org/jobs/ashby-revenue-operations-manager-327f53cb-131f-46b9-b124-596057816af0",
     "date": "2026-08-25T10:50:36.000Z",
     "source": "https://jobs.variant.fund/jobs",
-    "slug": "manager557"
+    "slug": "manager557",
+    "location": "Remote"
   },
   {
     "id": "7883614003",
@@ -13398,7 +13404,8 @@
     "link": "https://www.comeet.com/jobs/blockaid/69.00B/bdr-manager-nyc/67.07C",
     "date": "2026-08-22T13:08:07.000Z",
     "source": "https://jobs.variant.fund/jobs",
-    "slug": "manager547"
+    "slug": "manager547",
+    "location": "Remote"
   },
   {
     "id": "8142118",
@@ -14416,7 +14423,8 @@
     "link": "https://morpho.org/jobs/ashby-technical-lead-infrastructure-956a497c-bd5f-48a8-a021-80366d116c4a",
     "date": "2026-08-20T10:47:27.000Z",
     "source": "https://jobs.variant.fund/jobs",
-    "slug": "devops106"
+    "slug": "devops106",
+    "location": "Remote"
   },
   {
     "id": "7737526",
@@ -15541,7 +15549,8 @@
     "link": "https://www.comeet.com/jobs/blockaid/69.00B/technical-customer-success-manager-singapore/D6.073",
     "date": "2026-08-19T11:43:13.000Z",
     "source": "https://jobs.variant.fund/jobs",
-    "slug": "manager529"
+    "slug": "manager529",
+    "location": "Remote"
   },
   {
     "id": "dd4d734a-cbcb-4407-9a4b-702fcee1bf85",
@@ -15827,7 +15836,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager328-0bz5"
+    "slug": "manager328-0bz5",
+    "location": "Remote"
   },
   {
     "id": "6144564004",
@@ -17592,7 +17602,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "product327-0fl0"
+    "slug": "product327-0fl0",
+    "location": "Remote"
   },
   {
     "id": "4936846101",
@@ -19834,7 +19845,8 @@
     "date": "2026-08-12T19:29:34.000Z",
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
-    "slug": "devops96"
+    "slug": "devops96",
+    "location": "Remote"
   },
   {
     "id": "4951131101",
@@ -20564,7 +20576,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Legal",
     "active": true,
-    "slug": "compliance324"
+    "slug": "compliance324",
+    "location": "Remote"
   },
   {
     "id": "2856b9f2-8c45-48db-b34b-c48d8ab9affe",
@@ -20611,7 +20624,8 @@
     "source": "BambooHR: Bitcoin.com [bitcoin]",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer744"
+    "slug": "engineer744",
+    "location": "Remote"
   },
   {
     "id": "4700431006",
@@ -21513,7 +21527,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Customer Success Team",
     "active": true,
-    "slug": "engineer788"
+    "slug": "engineer788",
+    "location": "Remote"
   },
   {
     "id": "4944906101",
@@ -23658,7 +23673,8 @@
     "date": "2026-08-05T11:32:07.000Z",
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
-    "slug": "sales202"
+    "slug": "sales202",
+    "location": "Remote"
   },
   {
     "id": "4941257101",
@@ -26282,7 +26298,8 @@
     "date": "2026-07-31T15:47:57.000Z",
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
-    "slug": "qa35"
+    "slug": "qa35",
+    "location": "Remote"
   },
   {
     "id": "8073092",
@@ -32124,7 +32141,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "marketing321"
+    "slug": "marketing321",
+    "location": "Remote"
   },
   {
     "id": "e316a0e4-44f4-46b0-9415-e10ab2b4f18e",
@@ -36182,7 +36200,8 @@
     "source": "BambooHR: Uphold [uphold]",
     "department": "Finance & Accounting",
     "active": true,
-    "slug": "manager312"
+    "slug": "manager312",
+    "location": "Remote"
   },
   {
     "id": "9cc6d22c-c96c-4d99-97af-ec0ef82dbadf",
@@ -38543,7 +38562,8 @@
     "source": "BambooHR: Uphold [uphold]",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer494"
+    "slug": "engineer494",
+    "location": "Remote"
   },
   {
     "id": "4918264101",
@@ -39102,7 +39122,8 @@
     "date": "2026-07-02T16:35:39.000Z",
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
-    "slug": "engineer489"
+    "slug": "engineer489",
+    "location": "Remote"
   },
   {
     "id": "267819ec-bdd1-47ab-bbe2-7c04ae527f22",
@@ -39185,7 +39206,8 @@
     "date": "2026-07-02T16:35:05.000Z",
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
-    "slug": "engineer488"
+    "slug": "engineer488",
+    "location": "Remote"
   },
   {
     "id": "44b90282-2747-4a39-9e38-67e99adf986c",
@@ -43624,7 +43646,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager306-0bez"
+    "slug": "manager306-0bez",
+    "location": "Remote"
   },
   {
     "id": "2635817",
@@ -45988,7 +46011,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Finance",
     "active": true,
-    "slug": "manager304-0byz"
+    "slug": "manager304-0byz",
+    "location": "Remote"
   },
   {
     "id": "21a295dd-58df-4bed-aee3-fc8490b3457e",
@@ -46584,7 +46608,8 @@
     "date": "2026-06-12T10:51:54.000Z",
     "source": "Teamtailor: Crossmint [crossmint.na]",
     "active": true,
-    "slug": "security124"
+    "slug": "security124",
+    "location": "Remote"
   },
   {
     "id": "8564603002",
@@ -46656,7 +46681,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Software Engineering Team",
     "active": true,
-    "slug": "product345"
+    "slug": "product345",
+    "location": "Remote"
   },
   {
     "id": "5183427008",
@@ -50365,7 +50391,8 @@
     "date": "2026-05-28T10:36:33.000Z",
     "source": "Teamtailor: Crossmint [crossmint.na]",
     "active": true,
-    "slug": "product300"
+    "slug": "product300",
+    "location": "Remote"
   },
   {
     "id": "5204378008",
@@ -51813,7 +51840,8 @@
     "source": "BambooHR: Uphold [uphold]",
     "department": "Compliance",
     "active": true,
-    "slug": "analyst39"
+    "slug": "analyst39",
+    "location": "Remote"
   },
   {
     "id": "4866313101",
@@ -52280,7 +52308,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": null,
     "active": true,
-    "slug": "manager283-0fh8"
+    "slug": "manager283-0fh8",
+    "location": "Remote"
   },
   {
     "id": "7913698",
@@ -52567,7 +52596,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager298-0jn5"
+    "slug": "manager298-0jn5",
+    "location": "Remote"
   },
   {
     "id": "7896538",
@@ -52986,7 +53016,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Software Engineering Team",
     "active": true,
-    "slug": "engineer351"
+    "slug": "engineer351",
+    "location": "Remote"
   },
   {
     "id": "8509324002",
@@ -55658,7 +55689,8 @@
     "date": "2026-04-23T16:31:09.000Z",
     "source": "Teamtailor: Crossmint [crossmint.na]",
     "active": true,
-    "slug": "product210"
+    "slug": "product210",
+    "location": "Remote"
   },
   {
     "id": "bdecae00-4513-4453-9a52-15dea6fb6fb2",
@@ -57526,7 +57558,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Marketing Team",
     "active": true,
-    "slug": "marketing57"
+    "slug": "marketing57",
+    "location": "Remote"
   },
   {
     "id": "JR100929",
@@ -57572,7 +57605,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Software Engineering Team",
     "active": true,
-    "slug": "product240"
+    "slug": "product240",
+    "location": "Remote"
   },
   {
     "id": "7678350003",
@@ -58673,7 +58707,8 @@
     "date": "2026-03-23T08:58:25.000Z",
     "source": "Teamtailor: Crystal Intelligence [crystalintelligence]",
     "active": true,
-    "slug": "manager82"
+    "slug": "manager82",
+    "location": "Remote"
   },
   {
     "id": "4802785101",
@@ -59830,7 +59865,7 @@
   {
     "id": "1c252001-6fcd-4f69-bc5a-14af18d55d71",
     "title": "Fullstack Engineer",
-    "company": "Very AI",
+    "company": "VeryAI",
     "link": "https://talent.superteam.fun/jobs/fullstack-engineer-at-very-ai-1c252001-6fcd-4f69-bc5a-14af18d55d71",
     "date": "2026-03-04T15:01:38.323263+00:00",
     "source": "Superteam: Very AI [superteam]",
@@ -64038,7 +64073,8 @@
     "source": "BambooHR: Paribu [paribu]",
     "department": "Paribu Art - Marketing Communications",
     "active": true,
-    "slug": "marketing120-05gd"
+    "slug": "marketing120-05gd",
+    "location": "Remote"
   },
   {
     "id": "7377101",
@@ -67325,7 +67361,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Infrastructure Team",
     "active": true,
-    "slug": "devops13"
+    "slug": "devops13",
+    "location": "Remote"
   },
   {
     "id": "aab97703-13e2-42e8-9fb9-9175f3895de9",
@@ -67408,7 +67445,8 @@
     "source": "BambooHR: Chainstack [chainstack]",
     "department": "Accounts Team",
     "active": true,
-    "slug": "manager23"
+    "slug": "manager23",
+    "location": "Remote"
   },
   {
     "id": "b55447c0-4adc-42eb-9ca2-f88fd44e0e5b",
@@ -71174,7 +71212,8 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Finance",
     "active": true,
-    "slug": "analyst100-1k4f"
+    "slug": "analyst100-1k4f",
+    "location": "Remote"
   },
   {
     "id": "089a847f-4985-4c18-80d3-7d46e73acdd4",

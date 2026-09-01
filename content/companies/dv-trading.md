@@ -1,5 +1,5 @@
 ---
-name: DV Trading (DV Chain)
+name: 'DV Trading'
 website: 'https://dvchain.co'
 founded: 2016
 category: Proprietary Trading & Liquidity
