@@ -15,18 +15,34 @@ const FEEDS = [
 
 const parser = new Parser();
 
+function normalizeTitle(t: string): string {
+  return t
+    .toLowerCase()
+    .replace(/[^a-z0-9\s]/g, ' ')
+    .replace(/\s+/g, ' ')
+    .trim();
+}
+
 // Helper to compute token overlap between titles
 function getKeywords(text: string) {
- const stopWords = new Set(['this', 'that', 'with', 'from', 'what', 'where', 'when', 'crypto', 'web3', 'bitcoin', 'ethereum']);
+ const stopWords = new Set([
+  'this', 'that', 'with', 'from', 'what', 'where', 'when', 'crypto', 'web3', 'bitcoin', 'ethereum',
+  'says', 'said', 'will', 'after', 'over', 'into', 'than', 'more', 'new', 'price', 'prediction',
+  'could', 'about', 'some', 'here', 'first', 'back', 'just', 'year', 'market', 'today'
+ ]);
  return new Set(
   text.toLowerCase()
    .replace(/[^a-z0-9]/g, ' ')
    .split(/\s+/)
-   .filter(w => w.length > 3 && !stopWords.has(w))
+   .filter(w => w.length > 2 && !stopWords.has(w))
  );
 }
 
 function isDuplicate(title1: string, title2: string) {
+ const norm1 = normalizeTitle(title1);
+ const norm2 = normalizeTitle(title2);
+ if (norm1 === norm2) return true;
+
  const w1 = getKeywords(title1);
  const w2 = getKeywords(title2);
  if (w1.size === 0 || w2.size === 0) return false;
@@ -35,10 +51,10 @@ function isDuplicate(title1: string, title2: string) {
  for (const w of w1) {
   if (w2.has(w)) intersection++;
  }
- const union = w1.size + w2.size - intersection;
- const similarity = intersection / union;
+ const minSize = Math.min(w1.size, w2.size);
+ const overlap = intersection / minSize;
  
- return similarity > 0.4; // 40% keyword overlap
+ return overlap >= 0.55 || (intersection >= 3 && overlap >= 0.4);
 }
 
 // In-memory cache for news feeds
@@ -63,7 +79,6 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
      feed.items.forEach((item) => {
       if (item.title && item.link && item.pubDate && item.contentSnippet) {
        const snippet = item.contentSnippet.trim();
-       // Avoid double-ellipsis when snippet already ends with one
        const truncated = snippet.length > 150
         ? snippet.substring(0, 150).replace(/\.{1,3}$/, '') + '...'
         : snippet;
@@ -96,7 +111,7 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
   })
  );
 
- // Flatten results (no shared mutable array)
+ // Flatten results
  for (const items of feedResults) {
   allItems.push(...items);
  }
@@ -104,13 +119,11 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
  // Sort all items by publication date, descending
  allItems.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
- // Deduplicate news items (keep the newest one if multiple sources report the same event)
+ // Deduplicate news items against all accumulated unique items
  const uniqueItems: NewsItem[] = [];
  for (const item of allItems) {
   let isDup = false;
-  // Compare against the recently added unique items (last 20 is usually enough)
-  const recentUniques = uniqueItems.slice(-20);
-  for (const unique of recentUniques) {
+  for (const unique of uniqueItems) {
    if (isDuplicate(item.title, unique.title)) {
     isDup = true;
     break;
