@@ -12,6 +12,7 @@ import { Select, SelectContent, SelectItem, SelectTrigger, SelectValue } from '@
 import { Slider } from '@/components/ui/slider';
 import { useState, useEffect } from 'react';
 import { CtaBanner } from '@/components/cta-banner';
+import { PageHeader } from '@/components/page-header';
 
 const salarySchema = z.object({
  role: z.string().min(1, 'Please select a role'),
@@ -121,17 +122,20 @@ export function SalaryCalculatorForm() {
  ];
 
  return (
-    <div className="container mx-auto px-4 py-8 md:py-16">
-     <section className="text-center mb-12 site-container">
-      <h1 className="text-3xl md:text-5xl font-bold tracking-tight mb-4">{headlines[0]}</h1>
-     </section>
+    <div className="site-container py-8">
+      <section className="text-center mb-8">
+        <PageHeader
+          title="Web3 Salary Calculator"
+          description="Estimate salary ranges by role, experience, location, and funding stage across top crypto protocols."
+        />
+      </section>
 
-     <div className="site-container">
-      <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
-        <div className="md:col-span-3">
-        <Card className="bg-background border border-white/10">
-          <CardHeader>
-          <CardTitle>Your Details</CardTitle>
+      <div>
+        <div className="grid grid-cols-1 md:grid-cols-5 gap-8">
+          <div className="md:col-span-3">
+          <Card className="bg-card border-border/70 shadow-none">
+            <CardHeader>
+            <CardTitle className="text-lg">Role Details</CardTitle>
           <CardDescription>
             Adjust the sliders and fields to see a real-time salary estimate.
           </CardDescription>
