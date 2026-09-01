@@ -263,21 +263,23 @@ export function ResumeForm() {
 
  return (
   <>
-   <div className="bg-primary text-primary-foreground py-8 text-center">
-    <h1 className="text-3xl font-bold">Professional Resume Builder</h1>
-    <p className="opacity-80 mt-1">
-     Craft a resume that gets noticed by recruiters.
-    </p>
-    <Button
-     size="lg"
-     className="mt-4 bg-white text-primary hover:bg-white/90"
-     onClick={handleDownload}
-    >
-     <Download className="mr-2 h-4 w-4" /> Download as PDF
-    </Button>
-   </div>
+   <div className="site-container py-6">
+    <div className="flex flex-col sm:flex-row items-center justify-between gap-4 border-b border-border/60 pb-6 mb-8">
+     <div>
+      <h1 className="text-2xl font-bold tracking-tight text-foreground">Resume Builder</h1>
+      <p className="text-sm text-muted-foreground mt-0.5">
+       Craft a crypto-native resume that highlights protocol contributions and gets noticed by Web3 recruiters.
+      </p>
+     </div>
+     <Button
+      size="default"
+      onClick={handleDownload}
+      className="shrink-0"
+     >
+      <Download className="mr-2 h-4 w-4" /> Download PDF
+     </Button>
+    </div>
 
-   <div className="container mx-auto px-4 py-8">
     <div className="grid grid-cols-1 lg:grid-cols-2 gap-8">
      {/* Form Column */}
      <div className="space-y-6">
