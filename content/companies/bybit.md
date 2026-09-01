@@ -2,7 +2,7 @@
 name: Bybit
 website: 'https://bybit.com'
 category: Cryptocurrency Exchange
-description: "Bybit, founded in 2018 by Ben Zhou in Dubai, grew into a top-5 derivatives exchange with 30M+ users, known for deep liquidity in perpetuals, options and copy trading. Headquartered in Dubai with hubs in Hong Kong and Singapore, it sponsors F1 and invests in Web3 via Bybit Web3 wallet and Mantle ecosystem. Bybit emphasizes low-latency matching and risk engine reliability during volatility. Expect focus on trading systems, security and 24/7 operational discipline."
+description: "Bybit, founded in 2018 by Ben Zhou in Dubai, grew into a top-5 derivatives exchange with 30M+ users, known for deep liquidity in perpetuals, options and copy trading. Headquartered in Dubai with hubs in Hong Kong and Singapore, it sponsors F1 and invests in Web3 via Bybit Web3 wallet and Mantle ecosystem. Bybit emphasizes low-latency matching and risk engine reliability during volatility. Expect focus on trading systems, security and 24/7 operational discipline. Bybit delivers institutional-grade derivatives trading, low-latency matching engines, and comprehensive crypto wealth management solutions to millions of traders globally. Bybit prioritizes high availability trading infrastructure, proof-of-reserves transparency, and multi-language client support for digital asset investors."
  Bybit is a cryptocurrency exchange offering trading services for various
  digital assets.
 ---
