@@ -223,12 +223,7 @@ function buildListingDescription(companyName: string, jobs: Job[]): string {
 }
 
 function buildRichDescription(companyName: string, jobs: Job[], rich: string): string {
- const countLabel = jobs.length === 1 ? '1 active role' : `${jobs.length} active roles`;
- const titles = [...new Set(jobs.map((job) => job.title.trim()).filter(Boolean))].slice(0, 3);
- const locations = [...new Set(jobs.map((job) => job.location?.trim()).filter((value): value is string => Boolean(value)))].slice(0, 3);
- const titleSummary = titles.length ? ` — including ${titles.join(', ')}` : '';
- const locationSummary = locations.length ? ` in ${locations.join(', ')}` : '';
- return `${rich} On Hashtag Web3, ${companyName} has ${countLabel} listed${titleSummary}${locationSummary}.`;
+ return rich;
 }
 
 function getSafeProfileWebsite(value: unknown): string | undefined {
@@ -250,17 +245,25 @@ function getSafeProfileWebsite(value: unknown): string | undefined {
  * those files is intentionally not rendered: company-page copy is derived from
  * current, company-specific job facts instead of copied marketing language.
  */
-async function loadCompanyContent(slug: string): Promise<Partial<CompanyContent> | null> {
+async function loadCompanyContent(slug: string): Promise<{ website?: string; description?: string } | null> {
  try {
   const companiesDir = path.join(process.cwd(), 'content', 'companies');
   const filePath = path.join(companiesDir, `${slug}.md`);
   const fileContent = await fs.readFile(filePath, 'utf-8');
-  const { data } = matter(fileContent);
+  const { data, content } = matter(fileContent);
   const website = getSafeProfileWebsite(data.website);
 
-  return website ? { website } : {};
+  let description = typeof data.description === 'string' && data.description.trim() ? data.description.trim() : undefined;
+  if (!description && content.trim()) {
+    const plain = content.replace(/^#+.*$/gm, '').replace(/[\r\n]+/g, ' ').trim();
+    if (plain) description = plain;
+  }
+
+  return {
+    ...(website && { website }),
+    ...(description && { description }),
+  };
  } catch {
-  // No content file exists, return null
   return null;
  }
 }
@@ -352,8 +355,8 @@ export async function getCompanies(): Promise<Company[]> {
     companies.map(async (company) => {
      const content = await loadCompanyContent(company.slug);
      if (content?.website) company.website = content.website;
-     const rich = COMPANY_RICH_ABOUT[company.slug];
-     company.description = rich ? buildRichDescription(company.name, company.jobs, rich) : buildListingDescription(company.name, company.jobs);
+     const desc = content?.description || COMPANY_RICH_ABOUT[company.slug];
+     company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
     })
    );
  
@@ -425,8 +428,8 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   // Try to load enriched content
   const content = await loadCompanyContent(slug);
   if (content?.website) company.website = content.website;
-  const rich = COMPANY_RICH_ABOUT[slug];
-  company.description = rich ? buildRichDescription(company.name, company.jobs, rich) : buildListingDescription(company.name, company.jobs);
+  const desc = content?.description || COMPANY_RICH_ABOUT[slug];
+  company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
  
  return company;
 }
