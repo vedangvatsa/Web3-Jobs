@@ -431,6 +431,8 @@ async function refreshJobsCache() {
 
   // --- Greenhouse API Sources ---
   const GREENHOUSE_BOARDS = [
+    { board: 'cosmoslabs', company: 'Interchain Foundation' },
+
     { board: 'drivewealth', company: 'DriveWealth' },
 
     { board: 'stripe', company: 'Stripe' },
@@ -989,6 +991,10 @@ async function refreshJobsCache() {
 
   // --- Workable API Sources ---
   const WORKABLE_BOARDS = [
+    { board: 'sovrun', company: 'BreederDAO' },
+
+    { board: 'fuseenergy', company: 'Fuse Energy' },
+
     { board: 'mudrex', company: 'Mudrex' },
     { board: 'trailofbits', company: 'Trail of Bits' },
     { board: 'safeglobal', company: 'Safe' },
