@@ -506,6 +506,9 @@
   "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
   "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
   "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/policy/2026/09/01/singapore-proposes-100-reserves-and-a-ban-on-yields-for-stablecoin-issuers",
+  "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
+  "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1426,6 +1429,12 @@
   "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
   "Thailand proposes retail access to foreign crypto derivatives",
   "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
+  "Singapore proposes reserve requirements and yield ban for stablecoins",
+  "Singapore proposes 100% reserves and a ban on yields for stablecoin issuers",
+  "Unsolicited password reset emails sent to X users",
+  "Musk’s X hit by wave of unsolicited password reset emails",
+  "Gal Gadot Defends AI Use in Bitcoin Film",
+  "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1482,5 +1491,8 @@
   "fp:366b|962b|chipmaker|commitment|disclos|doubl|futur|hour|nvidia|quarterly",
   "fp:21b|biggest|dollar|exchang|fund|investment|london|market|onchain|payward",
   "fp:125b|37m|ark|block|buy|dorsey|earn|follow|forecast|full",
-  "fp:access|centrally|clear|derivativ|exchang|feedback|foreign|oversea|propos|qualifi"
+  "fp:access|centrally|clear|derivativ|exchang|feedback|foreign|oversea|propos|qualifi",
+  "fp:back|ban|draft|financial|full|interest|issuer|payment|prohibit|propos",
+  "fp:breach|but|email|evidenc|figur|hit|musk|password|receiv|request",
+  "fp:contract|defend|film|gadot|gal|gam|her|lawyer|month|negotiat"
 ]
