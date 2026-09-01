@@ -176,7 +176,7 @@ function cleanTitle(text: string | undefined): string | undefined {
 }
 
 function isDirectSource(source: string): boolean {
-  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|FirstParty):/i.test(source);
+  return /^(Greenhouse|Lever|Ashby|Workable|Recruitee|Workday|SmartRecruiters|Breezy|BambooHR|Comeet|Teamtailor|Rippling|FirstParty|Superteam):/i.test(source);
 }
 
 function sourceLabel(provider: string, board: string, company: string): string {
@@ -1661,6 +1661,114 @@ async function refreshJobsCache() {
       feedsFailed++;
       console.warn(`  ❌ First-party (${fp.company}): ${error.message}`);
     }
+  }
+
+  // --- Superteam Talent API Source ---
+  function superteamSlugify(text: string): string {
+    return text
+      .normalize('NFKD')
+      .replace(/[\u0300-\u036f]/g, '')
+      .toLowerCase()
+      .replace(/[^a-z0-9]+/g, '-')
+      .replace(/-+/g, '-')
+      .replace(/^-|-$/g, '');
+  }
+
+  try {
+    const stRes = await fetch('https://api.talent.superteam.fun/api/public/jobs', {
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+        'Accept': 'application/json',
+      },
+      signal: AbortSignal.timeout(FEED_TIMEOUT_MS),
+    });
+
+    if (stRes.ok) {
+      const stJobs: any[] = await stRes.json();
+      let added = 0;
+
+      await runInBatches(stJobs, 6, async (job) => {
+        const title = cleanTitle(job.title);
+        const company = normalizeCompany(job.company || 'Superteam');
+        if (!title || !company || !isConcreteOpening(title)) return;
+
+        const slugPart = `${superteamSlugify(title)}-at-${superteamSlugify(company)}-${job.id}`;
+        const jobUrl = `https://talent.superteam.fun/jobs/${slugPart}`;
+
+        let fullContent = job.description ? `<p>${job.description}</p>` : '';
+
+        // Fetch individual page to get structured requirements, responsibilities & skills
+        try {
+          const pageRes = await fetch(jobUrl, { signal: AbortSignal.timeout(8000) });
+          if (pageRes.ok) {
+            const html = await pageRes.text();
+            const respMatch = html.match(/\\"responsibilities\\":\[(.*?)\]/);
+            const reqMatch = html.match(/\\"requirements\\":\[(.*?)\]/);
+            const niceMatch = html.match(/\\"niceToHave\\":\[(.*?)\]/);
+
+            const parts: string[] = [];
+            if (job.description) parts.push(`<p>${job.description}</p>`);
+            
+            if (respMatch && respMatch[1]) {
+              try {
+                const resps: string[] = JSON.parse(`[${respMatch[1].replace(/\\"/g, '"')}]`);
+                if (resps.length) parts.push(`<h3>Responsibilities</h3><ul>${resps.map(r => `<li>${r}</li>`).join('')}</ul>`);
+              } catch {}
+            }
+            if (reqMatch && reqMatch[1]) {
+              try {
+                const reqs: string[] = JSON.parse(`[${reqMatch[1].replace(/\\"/g, '"')}]`);
+                if (reqs.length) parts.push(`<h3>Requirements</h3><ul>${reqs.map(r => `<li>${r}</li>`).join('')}</ul>`);
+              } catch {}
+            }
+            if (niceMatch && niceMatch[1]) {
+              try {
+                const nices: string[] = JSON.parse(`[${niceMatch[1].replace(/\\"/g, '"')}]`);
+                if (nices.length) parts.push(`<h3>Nice to Have</h3><ul>${nices.map(r => `<li>${r}</li>`).join('')}</ul>`);
+              } catch {}
+            }
+
+            if (parts.length > 0) {
+              fullContent = parts.join('\n');
+            }
+          }
+        } catch {
+          // Fall back to basic description if detail fetch fails
+        }
+
+        const source = sourceLabel('Superteam', 'superteam', company);
+        registerDirectSource('Superteam', 'superteam', company);
+
+        const candidate: CachedJob = {
+          id: String(job.id),
+          title,
+          company,
+          link: jobUrl,
+          date: job.postedAt || new Date().toISOString(),
+          source,
+          location: job.location || undefined,
+          department: job.type || undefined,
+          active: job.status !== 'Position closed',
+        };
+
+        const identity = getJobIdentity(candidate);
+        candidate.date = job.postedAt || persistedDates.get(identity) || candidate.date;
+        candidate.dateVerified = Boolean(job.postedAt);
+
+        if (upsertJob(candidate)) added++;
+        if (fullContent) {
+          rememberDescription(candidate, fullContent);
+        }
+      });
+
+      feedsOk++;
+      console.log(`  ✅ Superteam Talent: ${stJobs.length} items, ${added} new`);
+    } else {
+      throw new Error(`HTTP ${stRes.status}`);
+    }
+  } catch (error: any) {
+    feedsFailed++;
+    console.warn(`  ❌ Superteam Talent: ${error.message}`);
   }
 
   const elapsed = Date.now() - fetchStart;
