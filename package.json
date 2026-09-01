@@ -43,15 +43,13 @@
     "check:quality": "npx tsx scripts/audit-site-quality.ts",
     "clean:slop": "node scripts/clean-slop.js --apply"
   },
-  "bin": {
-    "hashtagweb3": "./bin/hashtagweb3.js"
-  },
   "engines": {
     "node": "20"
   },
   "dependencies": {
     "@aws-sdk/client-sesv2": "^3.1025.0",
     "@hookform/resolvers": "^3.6.0",
+    "@playwright/test": "^1.62.1",
     "@radix-ui/react-accordion": "1.2.0",
     "@radix-ui/react-checkbox": "1.1.1",
     "@radix-ui/react-dialog": "1.1.1",
@@ -77,6 +75,7 @@
     "jspdf": "^2.5.1",
     "lucide-react": "^0.395.0",
     "next": "14.2.35",
+    "playwright": "^1.62.1",
     "posthog-js": "^1.360.1",
     "react": "^18",
     "react-day-picker": "^8.10.1",
@@ -94,7 +93,7 @@
   "devDependencies": {
     "@resvg/resvg-js": "^2.6.2",
     "@tailwindcss/typography": "^0.5.10",
-    "@types/node": "^20",
+    "@types/node": "^20.19.43",
     "@types/react": "^18",
     "@types/react-dom": "^18",
     "@types/sanitize-html": "^2.11.0",
@@ -107,8 +106,9 @@
     "schema-dts": "^1.1.5",
     "tailwindcss": "^3.4.1",
     "tailwindcss-animate": "^1.0.7",
+    "ts-node": "^10.9.2",
     "tsx": "4.23.12",
-    "typescript": "^5",
+    "typescript": "^5.9.3",
     "xlsx": "^0.18.5"
   }
 }
