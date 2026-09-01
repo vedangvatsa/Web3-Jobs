@@ -46,7 +46,7 @@ function cleanJobTitle(title: string, company?: string): string {
 
 function sourceQuality(job: Job): number {
  const source = job.source.toLowerCase();
- if (/^(greenhouse|lever|ashby|workable|recruitee|workday|smartrecruiters|breezy|bamboohr|comeet|teamtailor|rippling|firstparty):/.test(source)) return 3;
+ if (/^(greenhouse|lever|ashby|workable|recruitee|workday|smartrecruiters|breezy|bamboohr|comeet|teamtailor|rippling|firstparty|superteam):/.test(source)) return 3;
  if (!source.startsWith('http')) return 2;
  return 1;
 }
