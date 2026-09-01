@@ -5,6 +5,78 @@
  */
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
+  "very-ai": `Very AI is an intelligent Web3 automation platform combining decentralized compute, artificial intelligence agents, and blockchain rails to automate complex on-chain workflows. By bridging large language models with smart contract execution environments, Very AI enables autonomous agents to perform trading, portfolio management, and protocol governance interactions. The company prizes machine learning engineering, crypto-economic incentive design, and user-centric automation.`,
+
+
+  "union": `Union is a hyper-efficient zero-knowledge interoperability Layer 1 protocol engineered for trustless cross-chain message passing and asset transfers across modular ecosystems. Utilizing advanced ZK-SNARKs and CometBFT consensus, Union connects EVM, Cosmos, and Rollup environments without trusting centralized multisigs or external validator sets. The team values cryptographic innovation, Rust systems development, distributed consensus modeling, and decentralized network architecture.`,
+
+
+  "trojan": `Trojan is a leading high-speed automated trading terminal and decentralized bot platform on Solana, processing billions in monthly transaction volume. Offering instant swaps, copy trading, automated DCA, limit orders, anti-MEV protection, and multi-wallet management, Trojan gives retail traders professional execution speeds directly inside chat and web interfaces. The team prioritizes ultra-low latency transaction routing, Solana RPC infrastructure, and scalable distributed backends.`,
+
+
+  "trail-of-bits": `Trail of Bits, founded in 2012 by Dan Guido and Alexander Sotirov, is a world-renowned cybersecurity research and software assurance firm specializing in blockchain security, smart contract audits, formal verification, and systems cryptography. Creator of industry-standard security tools like Slither, Echidna, and Manticore, Trail of Bits audits the most critical infrastructure in Web3, AI, and defense. The team values deep vulnerability research, open-source security tools, and rigorous technical writing.`,
+
+
+  "tenderly": `Tenderly is an all-in-one Web3 development and observability platform used by over 300,000 blockchain developers and top DeFi protocols. Tenderly provides real-time smart contract monitoring, zero-latency node infrastructure, transaction simulation, visual debugger, and automated alerting across 30+ EVM networks. Backed by Accel and Spark Capital, Tenderly eliminates guesswork in smart contract development and incident response. The culture prizes developer experience, distributed backend scalability, and deep EVM tooling.`,
+
+
+  "staking-facilities": `Staking Facilities is an enterprise-grade proof-of-stake validator and non-custodial staking infrastructure provider based in Munich, Germany. Securing billions in digital assets across top networks including Ethereum, Solana, Cosmos, and Polkadot, Staking Facilities operates proprietary enterprise hardware in certified European data centers with 24/7 monitoring. The company values regulatory compliance, maximum uptime, hardware security modules (HSMs), and institutional transparency.`,
+
+
+  "squads": `Squads is the leading smart account and multisig infrastructure on Solana, securing over $10B in assets across major protocols, venture funds, and Web3 enterprises. Through Squads Protocol and Squads Pro, teams manage multisig treasuries, program upgrades, validator staking, and automated permissions with institutional security. Squads is formally verified and trusted as the security standard across the Solana ecosystem. The engineering culture values formal verification, Rust security, and rock-solid UI design.`,
+
+
+  "sphere": `Sphere is an end-to-end crypto payments and billing infrastructure platform built on Solana, enabling businesses worldwide to accept stablecoins (USDC, EURC) with instant settlement and automated invoicing. Often described as the Stripe for Web3, Sphere offers payment links, developer SDKs, recurring subscriptions, on/off ramps, and automated tax accounting. Backed by leading fintech and crypto investors, Sphere combines developer-first documentation, high-speed payment processing, and rigorous compliance engineering.`,
+
+
+  "skyrise": `Skyrise is a Web3 growth, attribution, and on-chain user engagement platform that helps decentralized applications identify, acquire, and retain real active users. Combining blockchain wallet analytics with targeted questing, rewards distribution, and conversion tracking, Skyrise enables protocols to build sustainable community growth without bot spam. The team blends growth marketing psychology, full-stack web engineering, and on-chain data indexing.`,
+
+
+  "skip-protocol": `Skip Protocol is a core infrastructure company building sovereign blockchain developer tooling, MEV capture mechanisms, block building architectures, and cross-chain routing systems across Cosmos, Solana, and EVM ecosystems. Its Skip Go API allows wallets and dApps to find the fastest, cheapest multi-hop swap routes across any chain with one click. Backed by Bain Capital Crypto and leading investors, Skip values distributed systems engineering, market microstructure research, and building open-source public goods.`,
+
+
+  "redstone-oracles": `RedStone Oracles is a next-generation modular oracle network delivering fast, cost-effective data feeds to 50+ EVM and non-EVM chains, Layer 2s, and rollups. By using data packing and on-demand delivery models alongside traditional push oracles, RedStone dramatically reduces gas consumption while supporting thousands of asset price feeds, liquid staking tokens (LSTs), and restaking yields. Trusted by leading DeFi protocols securing billions, RedStone emphasizes cryptographic signature verification, distributed node infrastructure, and developer-first integration.`,
+
+
+  "raydium": `Raydium is an automated market maker (AMM) and foundational liquidity protocol built on the Solana blockchain. Providing standard AMM pools, concentrated liquidity market maker (CLMM) positions, and automated routing, Raydium serves as a primary liquidity hub for Solana DeFi tokens, meme coins, and ecosystem launches. Its high-throughput smart contracts take full advantage of Solana speed and low transaction fees. The team prioritizes AMM mathematical efficiency, Solana program development in Rust, and intuitive trading UI design.`,
+
+
+  "range": `Range is a real-time security, threat prevention, and on-chain risk monitoring platform designed for rollups, blockchains, and decentralized protocols. By analyzing mempool transactions, smart contract state anomalies, and cross-chain bridging flows, Range detects exploits, malicious frontrunning, and governance attacks before funds are drained. Used by ecosystem foundations and DeFi protocols, Range safeguards on-chain assets. The team values cybersecurity research, EVM execution analysis, data pipelines, and incident response speed.`,
+
+
+  "r3": `R3 is a leading enterprise distributed ledger technology and digital solutions firm behind Corda, a permissioned, scalable DLT platform purpose-built for regulated financial institutions. R3 works with central banks, global exchanges, tier-one banks, and asset managers to power central bank digital currencies (CBDCs), tokenized deposits, bond issuance, and cross-border settlement. Headquartered in London with offices in New York, Singapore, and São Paulo, R3 values financial regulatory compliance, enterprise software engineering, and institutional infrastructure.`,
+
+
+  "movement-labs": `Movement Labs is the creator of the Movement Network, an ecosystem of Modular Move-based blockchains designed to bring the safety and performance of the Move programming language to Ethereum and beyond. Its flagship Move L2 combines MoveVM parallel execution, formal verification, and sub-second finality with Ethereum shared security and native EVM compatibility through Fractal. Backed by top venture funds, Movement Labs empowers developers to build secure, high-throughput consumer and DeFi applications.`,
+
+
+  "loopscale": `Loopscale is a modular on-chain credit protocol and decentralized prime brokerage infrastructure engineered for capital-efficient lending. By enabling dynamic collateralization, granular risk isolation, and cross-asset borrowing against varied digital asset types, Loopscale connects institutional liquidity providers with sophisticated borrowers. The platform brings structured credit markets on-chain with transparent risk parameters. Culture stresses quantitative risk management, financial engineering, smart contract security, and institutional relationship building.`,
+
+
+  "jupiter": `Jupiter is the core liquidity routing engine and premier trading hub on the Solana blockchain, processing the vast majority of Solana DEX volume. Founded by Meow, Jupiter offers spot swap aggregation, perpetual futures trading, dollar-cost averaging (DCA), limit orders, bridge routing, and the active JUP DAO community ecosystem. Known for its catdet community ethos and relentless product cadence, Jupiter focuses on delivering the best pricing, zero-slippage routing, and top-tier user experience in decentralized finance.`,
+
+
+  "janus": `Janus builds high-performance execution algorithms, routing architecture, and liquidity tooling designed specifically for the Solana blockchain. Focused on low-latency transaction delivery, MEV protection, and optimal price execution, Janus powers seamless DeFi interactions for protocols and automated traders. The team works at the intersection of Solana validator mechanics, transaction scheduling, and distributed trading systems. Engineering culture is focused on microsecond optimization, Rust protocol development, and on-chain market microstructure.`,
+
+
+  "gacha": `Gacha is an interactive Web3 entertainment and on-chain gaming platform that combines provably fair mechanics, digital collectibles, and gamified mechanics. Built for mainstream consumer adoption, Gacha utilizes verifiable random functions (VRF) and account abstraction to make digital ownership seamless and fun. The platform empowers creators and game studios to distribute unique tokenized assets directly to global player communities. The team values frontend craft, playful product design, smart contract reliability, and rapid experimentation.`,
+
+
+  "cantina": `Cantina, created by the Spearbit team, is a premier Web3 cybersecurity and auditing platform that connects decentralized protocols with the world's top security researchers and independent whitehat auditors. Cantina provides crowdsourced security competitions, private guild audits, formal verification, and continuous monitoring to protect billions in on-chain capital. Built for fast-moving protocols that demand institutional-grade security, the platform streamlines vulnerability disclosure and remediation. The culture is deeply technical, security-centric, and focused on safeguarding open financial systems.`,
+
+
+  "axiom": `Axiom is a zero-knowledge coprocessor for Ethereum that provides smart contracts with trustless access to historical blockchain data and compute. By generating ZK-SNARK proofs of past state, transactions, and receipts, Axiom enables developers to build data-rich dApps, retroactive rewards, on-chain identity systems, and dynamic DeFi without relying on centralized oracles. Backed by top crypto venture firms, Axiom combines cutting-edge cryptography with developer-first tooling. The engineering bar emphasizes applied cryptography, halo2 circuit design, and EVM internals.`,
+
+
+  "arcade": `Arcade is a non-custodial liquidity protocol enabling peer-to-peer and pooled lending against non-fungible tokens, digital collectibles, and tokenized real-world assets. By tokenizing loan terms into smart contracts via Arcade Protocol, users can unlock liquidity from high-value digital collateral without selling their underlying positions. Built with audited smart contract escrow architectures, Arcade bridges structured credit with decentralized ownership. The team values smart contract security, decentralized finance architecture, liquidity modeling, and clean UX.`,
+
+
+  "arbitrum": `Arbitrum, developed by Offchain Labs and governed by the Arbitrum DAO, is the leading Ethereum Layer 2 scaling suite, securing tens of billions in total value locked. Powered by Nitro technology, Arbitrum One and Arbitrum Nova deliver high-throughput, low-cost execution while inheriting Ethereum L1 cryptographic security. With the introduction of Arbitrum Stylus, developers can write smart contracts in Rust, C, and C++ alongside standard Solidity, while Arbitrum Orbit enables custom configurable Layer 3 rollups. The team prizes protocol engineering rigor, cryptography, distributed systems, and open-source ecosystem growth.`,
+
+
+  "allperps": `ALLPerps is a decentralized perpetual futures protocol engineered for high-frequency trading and maximum capital efficiency. Built on scalable blockchain infrastructure, ALLPerps delivers sub-second order execution, ultra-low fees, deep pooled liquidity, and cross-margin collateral management. Designed for both retail and systematic quantitative traders, the platform eliminates counterparty risk through transparent on-chain settlement and dynamic risk-adjusted funding rates. The engineering culture emphasizes low-latency distributed systems, financial mathematics, smart contract security, and intuitive trader-first interface design.`,
+
+
   "stripe": `Stripe, founded in 2010 by Patrick and John Collison in South San Francisco and Dublin, builds financial infrastructure for the internet. Its APIs let millions of businesses accept payments, manage subscriptions, prevent fraud with Radar, and move money with Connect and Treasury. Valued at $65B+ after its 2024 rounds and processing over $1T annually, Stripe is the default for marketplaces, SaaS and AI startups. In Web3, Stripe's crypto on-ramps and USDC payouts bridge traditional checkout with on-chain treasury. Teams emphasize written clarity, rigorous productcraft and owning money movement that must work every time.`,
 
   "okx": `OKX, founded in 2017 and headquartered in Seychelles with major hubs in Dubai, Hong Kong and San Jose, operates one of the world's largest crypto exchanges and the OKX Wallet/Web3 ecosystem. Beyond spot and derivatives trading, it builds OKX Chain (X Layer), MPC self-custody and DeFi aggregation used by 50M+ users. Backed by consistent top-5 volume, OKX invests heavily in proof-of-reserves, compliance in Europe and the Middle East, and brand partnerships in F1 and football. The company values speed, trading-domain understanding and shipping reliable systems under market volatility.`,
