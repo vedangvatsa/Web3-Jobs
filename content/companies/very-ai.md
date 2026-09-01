@@ -1,5 +1,5 @@
 ---
-name: Very AI
+name: 'VeryAI'
 website: 'https://very.ai'
 category: AI & Web3 Agents
 headquarters: 'Remote'
