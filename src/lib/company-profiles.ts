@@ -5,6 +5,18 @@
  */
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
+  "river-financial": `River Financial is an enterprise-grade Bitcoin financial services firm and Lightning Network infrastructure provider offering zero-fee recurring Bitcoin purchases, institutional custody, and Bitcoin mining integration. Its River Lightning API enables banks, fintechs, and crypto platforms to integrate instant, low-cost Lightning Network payments with turn-key node liquidity. Privately funded and US-licensed, River values Bitcoin standard conviction, financial infrastructure reliability, high-touch client support, and security architecture.`,
+
+
+  "gensyn": `Gensyn is a decentralized machine learning compute protocol connecting hardware providers with AI developers to train large-scale neural networks at a fraction of centralized cloud costs. Utilizing cryptographic verification, probabilistic proof-of-learning, and graph-based distributed training, Gensyn solves the verification bottleneck of untrusted compute clusters. Backed by a16z and CoinFund, the team combines deep machine learning systems engineering, applied cryptography, distributed computing, and crypto-economic incentives.`,
+
+
+  "alliance-dao": `Alliance DAO, founded by Imran Khan and Qiao Wang, is the leading global Web3 accelerator, incubator, and founder community, having backed 200+ top decentralized startups. Providing 12-week intensive cohorts, hands-on tokenomics design, regulatory advisory, liquidity coordination, and a global founder network, Alliance is the launchpad for high-growth crypto founders. Culture values deep crypto-native insight, founder empathy, analytical rigor, and building enduring open web protocols.`,
+
+
+  "story-protocol": `Story Protocol, built by PIP Labs and backed by a16z crypto, is the programmable intellectual property Layer 1 blockchain engineered to tokenize, protect, and monetize creative IP in the age of generative AI. By turning creative assets, models, and characters into on-chain IP Legos with embedded licensing, remix rules, and automated revenue splits, Story provides creators with enforceable digital rights. The team values cryptographic IP modeling, high-throughput blockchain architecture, intuitive developer SDKs, and creator economy tools.`,
+
+
   "very-ai": `Very AI is an intelligent Web3 automation platform combining decentralized compute, artificial intelligence agents, and blockchain rails to automate complex on-chain workflows. By bridging large language models with smart contract execution environments, Very AI enables autonomous agents to perform trading, portfolio management, and protocol governance interactions. The company prizes machine learning engineering, crypto-economic incentive design, and user-centric automation.`,
 
 
