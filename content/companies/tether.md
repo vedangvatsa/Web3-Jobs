@@ -4,7 +4,7 @@ website: 'https://tether.to'
 founded: 2014
 category: Stablecoin / Fintech
 headquarters: British Virgin Islands
-description: "Tether, founded in 2014 and operated from the British Virgin Islands, issues USDT — the largest stablecoin with $110B+ in circulation — and related assets EURT, CNHT and XAUT. It underpins most centralized and DeFi settlement and runs substantial US Treasury reserves. The company also backs mining, energy and peer-to-peer projects like Keet. Controversies around transparency have pushed Tether to publish attestations and diversify reserves. Candidates need comfort with high-scale financial infrastructure and operating in a scrutinized, fast-moving stablecoin environment."
+description: "Tether, founded in 2014 and operated from the British Virgin Islands, issues USDT — the largest stablecoin with $110B+ in circulation — and related assets EURT, CNHT and XAUT. It underpins most centralized and DeFi settlement and runs substantial US Treasury reserves. The company also backs mining, energy and peer-to-peer projects like Keet. Controversies around transparency have pushed Tether to publish attestations and diversify reserves. Candidates need comfort with high-scale financial infrastructure and operating in a scrutinized, fast-moving stablecoin environment. Tether issues USDT, the world's most widely used stablecoin, bringing digital liquidity, instant cross-border settlement, and financial inclusion to global markets."
 ---
 
 Issuer of USDT, the world's largest stablecoin by market capitalization.
