@@ -176,18 +176,6 @@
     "slug": "manager68790"
   },
   {
-    "id": "8637960002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8637960002?gh_jid=8637960002",
-    "date": "2026-08-31T23:23:22-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer60002-1yf6"
-  },
-  {
     "id": "1de17f52dca7",
     "title": "Front Office Administrator",
     "company": "Bitdeer",
@@ -1032,12 +1020,10 @@
     "title": "Cross-Product Platform Owner",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/41E510E064",
-    "date": "2026-08-31T00:00:00.000Z",
+    "date": "2026-08-31",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Zürich, Switzerland",
-    "department": [
-      "Crypto Finance AG"
-    ],
+    "department": "Crypto Finance AG",
     "active": true,
     "slug": "product492"
   },
@@ -2491,7 +2477,7 @@
     "location": "London, England, United Kingdom",
     "department": "IT and Systems Engineering",
     "active": true,
-    "slug": "engineer68002"
+    "slug": "engineer68002-07l6"
   },
   {
     "id": "5406495008",
@@ -3070,17 +3056,6 @@
     "slug": "recruiting4"
   },
   {
-    "id": "JR101123",
-    "title": "Hospitality & Operations Specialist (Temporary)",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Hospitality---Operations-Specialist_JR101123",
-    "date": "2026-08-27",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "New York City - remote first in US",
-    "active": true,
-    "slug": "operations01123"
-  },
-  {
     "id": "JR101051",
     "title": "Principal Security Engineer, Detection & Response",
     "company": "Circle",
@@ -3090,6 +3065,17 @@
     "location": "Dublin - remote first in Ireland",
     "active": true,
     "slug": "security121"
+  },
+  {
+    "id": "JR101123",
+    "title": "Hospitality & Operations Specialist (Temporary)",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Hospitality---Operations-Specialist_JR101123",
+    "date": "2026-08-27",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "New York City - remote first in US",
+    "active": true,
+    "slug": "operations01123"
   },
   {
     "id": "871",
@@ -6712,9 +6698,9 @@
     "id": "53e137f5-eb47-4233-945e-d092531cc56a",
     "title": "APAC Community Lead (Contract)",
     "company": "Sui Foundation",
-    "link": "https://jobs.ashbyhq.com/Sui%20Foundation/53e137f5-eb47-4233-945e-d092531cc56a",
+    "link": "https://jobs.ashbyhq.com/sui%20foundation/53e137f5-eb47-4233-945e-d092531cc56a",
     "date": "2026-08-21T20:08:48.161+00:00",
-    "source": "Ashby: Sui Foundation [Sui Foundation]",
+    "source": "Ashby: Sui Foundation [sui foundation]",
     "location": "Remote - APAC",
     "department": "Community",
     "active": true,
@@ -7598,18 +7584,6 @@
     "slug": "procurement5"
   },
   {
-    "id": "8693354002",
-    "title": "Procurement Specialist",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8693354002?gh_jid=8693354002",
-    "date": "2026-08-20T17:09:50-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "procurement54002"
-  },
-  {
     "id": "8144836",
     "title": "Staff Data Engineer, Market Data",
     "company": "Coinbase",
@@ -8363,28 +8337,6 @@
     "slug": "staff11"
   },
   {
-    "id": "JR101118",
-    "title": "Manager, Risk Management - AI Transformation",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "manager534"
-  },
-  {
-    "id": "JR101116",
-    "title": "Senior Director, Ecosystem Growth, South Korea",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "South Korea",
-    "active": true,
-    "slug": "marketing198"
-  },
-  {
     "id": "JR101115",
     "title": "Senior Analyst, Investigation Operations",
     "company": "Circle",
@@ -8396,6 +8348,17 @@
     "slug": "analyst159"
   },
   {
+    "id": "JR101118",
+    "title": "Manager, Risk Management - AI Transformation",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "manager534"
+  },
+  {
     "id": "JR101119",
     "title": "Senior Analyst, Network Onboarding",
     "company": "Circle",
@@ -8405,6 +8368,17 @@
     "location": "Delhi - remote first in India",
     "active": true,
     "slug": "onboarding12"
+  },
+  {
+    "id": "JR101116",
+    "title": "Senior Director, Ecosystem Growth, South Korea",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "South Korea",
+    "active": true,
+    "slug": "marketing198"
   },
   {
     "id": "1fd65f6d-95f0-4190-98c0-788f4df7b61e",
@@ -9336,12 +9310,10 @@
     "title": "Customer Insights Intern",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/52A6F1FC8D",
-    "date": "2026-08-19T00:00:00.000Z",
+    "date": "2026-08-19",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "People"
-    ],
+    "department": "People",
     "active": true,
     "slug": "customer1fc8d"
   },
@@ -11715,12 +11687,10 @@
     "title": "Senior Developer Relations Engineer",
     "company": "Trail of Bits",
     "link": "https://apply.workable.com/j/427E4C8AA4",
-    "date": "2026-08-14T00:00:00.000Z",
+    "date": "2026-08-14",
     "source": "Workable: Trail of Bits [trailofbits]",
     "location": "United States",
-    "department": [
-      "Go-To-Market"
-    ],
+    "department": "Go-To-Market",
     "active": true,
     "slug": "devrelc8aa4"
   },
@@ -12012,18 +11982,6 @@
     "department": "20213 S&M - Sales - Square Outside",
     "active": true,
     "slug": "manager494"
-  },
-  {
-    "id": "8700980002",
-    "title": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8700980002?gh_jid=8700980002",
-    "date": "2026-08-13T13:15:09-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Trading Desk Operations",
-    "active": true,
-    "slug": "engineer80002-17s3"
   },
   {
     "id": "59164dea-9e53-4ad8-96bf-2a63c4f72fd8",
@@ -14700,19 +14658,6 @@
     "slug": "director27"
   },
   {
-    "id": "b028fc10-6a96-4afc-9196-1a012591c6f0",
-    "title": "Senior Product Marketing Manager, Payments & Treasury",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/b028fc10-6a96-4afc-9196-1a012591c6f0",
-    "date": "2026-08-11",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "New York City / Remote",
-    "department": "Marketing",
-    "active": true,
-    "slug": "product597"
-  },
-  {
     "id": "6c8f39d4-20f1-4938-b120-0f5f35ff2a9c",
     "title": "Senior Product Marketing Manager, Institutional Data",
     "company": "Chainlink Labs",
@@ -14724,6 +14669,19 @@
     "department": "Marketing",
     "active": true,
     "slug": "product596"
+  },
+  {
+    "id": "b028fc10-6a96-4afc-9196-1a012591c6f0",
+    "title": "Senior Product Marketing Manager, Payments & Treasury",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/b028fc10-6a96-4afc-9196-1a012591c6f0",
+    "date": "2026-08-11",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "New York City / Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "product597"
   },
   {
     "id": "39",
@@ -15540,15 +15498,6 @@
     "slug": "qa27002"
   },
   {
-    "id": "89349813",
-    "title": "Engineering Manager, Forward Deployed",
-    "company": "Privy",
-    "link": "https://stripe.com/jobs/listing/engineering-manager-forward-deployed-privy/7947546",
-    "date": "2026-08-10T06:17:10.000Z",
-    "source": "https://jobs.archetype.fund/jobs",
-    "slug": "manager49813"
-  },
-  {
     "id": "a07cf3c5-1f3d-4b64-a1c5-733bee3ca85f",
     "title": "Earn Product Operations & User Growth",
     "company": "Binance",
@@ -15967,18 +15916,6 @@
     "department": "1185 Account Executives (EMEA)",
     "active": true,
     "slug": "sales212"
-  },
-  {
-    "id": "8647260002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8647260002?gh_jid=8647260002",
-    "date": "2026-08-07T11:36:42-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer60002"
   },
   {
     "id": "590cce23-6a20-400e-9b82-85e08b2a91c8",
@@ -18060,20 +17997,6 @@
     "slug": "product556"
   },
   {
-    "id": "9CB0EE3B47",
-    "title": "Head of Product Marketing (Financial Products)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/9CB0EE3B47",
-    "date": "2026-08-05T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "Marketing"
-    ],
-    "active": true,
-    "slug": "product557"
-  },
-  {
     "id": "2AB065F537",
     "title": "Head of Product Marketing - GoBTC Pay",
     "company": "GoMining",
@@ -18088,16 +18011,28 @@
     "slug": "product555"
   },
   {
+    "id": "9CB0EE3B47",
+    "title": "Head of Product Marketing (Financial Products)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/9CB0EE3B47",
+    "date": "2026-08-05T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "Marketing"
+    ],
+    "active": true,
+    "slug": "product557"
+  },
+  {
     "id": "42805E4EF9",
     "title": "HR Specialist (US)",
     "company": "GoMining",
     "link": "https://apply.workable.com/j/42805E4EF9",
-    "date": "2026-08-05T00:00:00.000Z",
+    "date": "2026-08-05",
     "source": "Workable: GoMining [gomining]",
     "location": "United States",
-    "department": [
-      "Hostings"
-    ],
+    "department": "Hostings",
     "active": true,
     "slug": "recruiting29"
   },
@@ -18860,17 +18795,6 @@
     "slug": "engineer683"
   },
   {
-    "id": "JR101101",
-    "title": "Staff Site Reliability Engineer",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Site-Reliability-Engineer_JR101101",
-    "date": "2026-08-04",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer686"
-  },
-  {
     "id": "JR101085",
     "title": "Senior Site Reliability Engineer - Infra Ops",
     "company": "Circle",
@@ -18880,6 +18804,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "engineer685"
+  },
+  {
+    "id": "JR101101",
+    "title": "Staff Site Reliability Engineer",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Site-Reliability-Engineer_JR101101",
+    "date": "2026-08-04",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "engineer686"
   },
   {
     "id": "868",
@@ -19302,28 +19237,16 @@
     "slug": "manager408"
   },
   {
-    "id": "8651405002",
-    "title": "Hardware Engineer (FPGA/ASIC)",
+    "id": "8651274002",
+    "title": "IT Operations Engineer",
     "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8651405002?gh_jid=8651405002",
-    "date": "2026-08-03T06:44:12-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "frontend172"
-  },
-  {
-    "id": "8651286002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8651286002?gh_jid=8651286002",
-    "date": "2026-08-03T06:43:57-04:00",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651274002?gh_jid=8651274002",
+    "date": "2026-08-03T06:43:49-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
     "location": "London, England, United Kingdom",
     "department": "IT and Systems Engineering",
     "active": true,
-    "slug": "frontend86002"
+    "slug": "engineer74002"
   },
   {
     "id": "8474416002",
@@ -19374,6 +19297,18 @@
     "slug": "designer31"
   },
   {
+    "id": "8651323002",
+    "title": "Hardware Engineer (FPGA/ASIC)",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8651323002?gh_jid=8651323002",
+    "date": "2026-08-03T04:37:45-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "London, England, United Kingdom",
+    "department": "Software Engineering",
+    "active": true,
+    "slug": "engineer23002"
+  },
+  {
     "id": "8648474002",
     "title": "Machine Learning Engineer",
     "company": "Jane Street",
@@ -19396,6 +19331,18 @@
     "department": "Marketing BUIDL",
     "active": true,
     "slug": "product542"
+  },
+  {
+    "id": "8589868002",
+    "title": "Software Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8589868002?gh_jid=8589868002",
+    "date": "2026-08-03T04:31:46-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "London, England, United Kingdom",
+    "department": "Software Engineering",
+    "active": true,
+    "slug": "engineer68002"
   },
   {
     "id": "8537797002",
@@ -19595,12 +19542,10 @@
     "title": "Client Partner",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/90148307F5",
-    "date": "2026-08-03T00:00:00.000Z",
+    "date": "2026-08-03",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Operations"
-    ],
+    "department": "Operations",
     "active": true,
     "slug": "client307f5"
   },
@@ -19609,10 +19554,10 @@
     "title": "Treasury",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/65B3B0E645",
-    "date": "2026-08-03T00:00:00.000Z",
+    "date": "2026-08-03",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "treasury0e645"
   },
@@ -21202,12 +21147,10 @@
     "title": "Head of Trading",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/6D416814D7",
-    "date": "2026-07-30T00:00:00.000Z",
+    "date": "2026-07-30",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Zürich, Switzerland",
-    "department": [
-      "Crypto Finance AG"
-    ],
+    "department": "Crypto Finance AG",
     "active": true,
     "slug": "head62"
   },
@@ -21655,18 +21598,6 @@
     "department": "Data",
     "active": true,
     "slug": "director23"
-  },
-  {
-    "id": "8648512002",
-    "title": "IT Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8648512002?gh_jid=8648512002",
-    "date": "2026-07-29T10:28:53-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "London, England, United Kingdom",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "engineer12002"
   },
   {
     "id": "8079858",
@@ -23113,12 +23044,10 @@
     "title": "Software Engineer",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/0D5E2947BD",
-    "date": "2026-07-27T00:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Zürich, Switzerland",
-    "department": [
-      "Crypto Finance AG"
-    ],
+    "department": "Crypto Finance AG",
     "active": true,
     "slug": "engineer621"
   },
@@ -23141,12 +23070,10 @@
     "title": "Data Analyst",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/6A5284CFA0",
-    "date": "2026-07-27T00:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Data"
-    ],
+    "department": "Data",
     "active": true,
     "slug": "analyst4cfa0"
   },
@@ -23155,12 +23082,10 @@
     "title": "Senior Analytics Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/CA34CA3226",
-    "date": "2026-07-27T00:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "engineera3226"
   },
@@ -24777,16 +24702,16 @@
     "slug": "compliance95"
   },
   {
-    "id": "8641280002",
-    "title": "IT Operations Engineer",
+    "id": "8635672002",
+    "title": "Linux Engineer",
     "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8641280002?gh_jid=8641280002",
-    "date": "2026-07-22T11:45:13-04:00",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8635672002?gh_jid=8635672002",
+    "date": "2026-07-22T11:45:51-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
     "location": "New York, New York, United States",
     "department": "IT and Systems Engineering",
     "active": true,
-    "slug": "engineer80002"
+    "slug": "frontend72002"
   },
   {
     "id": "8072932",
@@ -25969,40 +25894,16 @@
     "slug": "product471"
   },
   {
-    "id": "8623868002",
-    "title": "Quantitative Researcher",
+    "id": "8632392002",
+    "title": "Software Engineer",
     "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8623868002?gh_jid=8623868002",
-    "date": "2026-07-21T01:59:58-04:00",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8632392002?gh_jid=8632392002",
+    "date": "2026-07-21T02:03:40-04:00",
     "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Quantitative Research",
+    "location": "Singapore",
+    "department": "Software Engineering",
     "active": true,
-    "slug": "trader68002"
-  },
-  {
-    "id": "8620505002",
-    "title": "Trading Desk Operations Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8620505002?gh_jid=8620505002",
-    "date": "2026-07-21T01:59:07-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Trading Desk Operations",
-    "active": true,
-    "slug": "engineer05002"
-  },
-  {
-    "id": "8623733002",
-    "title": "Quantitative Trader",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8623733002?gh_jid=8623733002",
-    "date": "2026-07-21T01:58:59-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Hong Kong, Hong Kong",
-    "department": "Quantitative Trading",
-    "active": true,
-    "slug": "trader33002"
+    "slug": "engineer92002"
   },
   {
     "id": "e92d8b5f-0f0a-4569-884f-4f45c8ad024c",
@@ -26840,12 +26741,10 @@
     "title": "Senior Quality Assurance Engineer",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/375CA9458A",
-    "date": "2026-07-20T00:00:00.000Z",
+    "date": "2026-07-20",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Zürich, Switzerland",
-    "department": [
-      "Crypto Finance AG"
-    ],
+    "department": "Crypto Finance AG",
     "active": true,
     "slug": "qa30"
   },
@@ -26997,9 +26896,9 @@
     "id": "e606131b-a4d4-45ad-b773-aff4da7f6ad1",
     "title": "Social Media Marketing Manager (Contract)",
     "company": "Sui Foundation",
-    "link": "https://jobs.ashbyhq.com/Sui%20Foundation/e606131b-a4d4-45ad-b773-aff4da7f6ad1",
+    "link": "https://jobs.ashbyhq.com/sui%20foundation/e606131b-a4d4-45ad-b773-aff4da7f6ad1",
     "date": "2026-07-17T20:22:34.288+00:00",
-    "source": "Ashby: Sui Foundation [Sui Foundation]",
+    "source": "Ashby: Sui Foundation [sui foundation]",
     "location": "Remote - USA",
     "department": "Marketing",
     "active": true,
@@ -27414,17 +27313,6 @@
     "slug": "product454"
   },
   {
-    "id": "JR100710",
-    "title": "Senior Analyst, AML Transaction Monitoring",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Dublin---remote-first-in-Ireland/Senior-Analyst--AML-Transaction-Monitoring_JR100710",
-    "date": "2026-07-17",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Dublin - remote first in Ireland",
-    "active": true,
-    "slug": "analyst100"
-  },
-  {
     "id": "JR101078",
     "title": "Senior Finance Systems Analyst",
     "company": "Circle",
@@ -27434,6 +27322,17 @@
     "location": "Delhi - remote first in India",
     "active": true,
     "slug": "analyst101"
+  },
+  {
+    "id": "JR100710",
+    "title": "Senior Analyst, AML Transaction Monitoring",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Dublin---remote-first-in-Ireland/Senior-Analyst--AML-Transaction-Monitoring_JR100710",
+    "date": "2026-07-17",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Dublin - remote first in Ireland",
+    "active": true,
+    "slug": "analyst100"
   },
   {
     "id": "8070054",
@@ -27968,12 +27867,10 @@
     "title": "Head of Data Center Operations",
     "company": "GoMining",
     "link": "https://apply.workable.com/j/2D51D73E15",
-    "date": "2026-07-16T00:00:00.000Z",
+    "date": "2026-07-16",
     "source": "Workable: GoMining [gomining]",
     "location": "Texas, United States",
-    "department": [
-      "Hostings"
-    ],
+    "department": "Hostings",
     "active": true,
     "slug": "operations71"
   },
@@ -28397,6 +28294,18 @@
     "active": true,
     "dateVerified": true,
     "slug": "backende22d6"
+  },
+  {
+    "id": "8632723002",
+    "title": "Cybersecurity Engineer - Security Operations Center (SOC)",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8632723002?gh_jid=8632723002",
+    "date": "2026-07-15T07:16:20-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "New York, New York, United States",
+    "department": "Cybersecurity",
+    "active": true,
+    "slug": "security23002"
   },
   {
     "id": "8041655",
@@ -29199,12 +29108,10 @@
     "title": "Operations Associate - Pogun",
     "company": "IO Global",
     "link": "https://apply.workable.com/j/83A3B69AD0",
-    "date": "2026-07-14T00:00:00.000Z",
+    "date": "2026-07-14",
     "source": "Workable: IO Global [io-global]",
     "location": "Barcelona, Spain",
-    "department": [
-      "Bitcoin DeFI"
-    ],
+    "department": "Bitcoin DeFI",
     "active": true,
     "slug": "operations64"
   },
@@ -30611,6 +30518,18 @@
     "department": "Commercial",
     "active": true,
     "slug": "deputy5"
+  },
+  {
+    "id": "8617298002",
+    "title": "Software Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8617298002?gh_jid=8617298002",
+    "date": "2026-07-09T03:28:52-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "Hong Kong, Hong Kong",
+    "department": "Software Engineering",
+    "active": true,
+    "slug": "engineer98002"
   },
   {
     "id": "eb8d067d-75be-4b54-848d-0f1bdb3ce63c",
@@ -32066,17 +31985,6 @@
     "slug": "sales127"
   },
   {
-    "id": "JR100798",
-    "title": "Senior Manager, Financial Intelligence Unit, MEA",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/United-Arab-Emirates---remote-first-in-UAE/Senior-Manager--Financial-Intelligence-Unit--MEA_JR100798",
-    "date": "2026-07-07",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "United Arab Emirates - remote first in UAE",
-    "active": true,
-    "slug": "manager288"
-  },
-  {
     "id": "JR101073",
     "title": "Regional Marketing Director, LATAM",
     "company": "Circle",
@@ -32086,6 +31994,17 @@
     "location": "São Paulo - remote first in Brazil",
     "active": true,
     "slug": "marketing118"
+  },
+  {
+    "id": "JR100798",
+    "title": "Senior Manager, Financial Intelligence Unit, MEA",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/United-Arab-Emirates---remote-first-in-UAE/Senior-Manager--Financial-Intelligence-Unit--MEA_JR100798",
+    "date": "2026-07-07",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "United Arab Emirates - remote first in UAE",
+    "active": true,
+    "slug": "manager288"
   },
   {
     "id": "JR100476",
@@ -32207,18 +32126,6 @@
     "slug": "engineer501"
   },
   {
-    "id": "8384490002",
-    "title": "Machine Learning Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8384490002?gh_jid=8384490002",
-    "date": "2026-07-06T14:59:10-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Machine Learning",
-    "active": true,
-    "slug": "machine90002"
-  },
-  {
     "id": "8621431002",
     "title": "Senior Security Application Engineer",
     "company": "BitGo",
@@ -32325,18 +32232,6 @@
     "department": "Marketing",
     "active": true,
     "slug": "product930c2"
-  },
-  {
-    "id": "8613910002",
-    "title": "Cybersecurity Engineer - Security Operations Center (SOC)",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/8613910002?gh_jid=8613910002",
-    "date": "2026-07-06T09:59:44-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Cybersecurity",
-    "active": true,
-    "slug": "security10002"
   },
   {
     "id": "8046206",
@@ -34032,14 +33927,36 @@
     "title": "Control Functions Specialist",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/18A493B8BF",
-    "date": "2026-06-30T00:00:00.000Z",
+    "date": "2026-06-30",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Frankfurt am Main, Germany",
-    "department": [
-      "Crypto Finance Deutschland GmbH"
-    ],
+    "department": "Crypto Finance Deutschland GmbH",
     "active": true,
     "slug": "control1"
+  },
+  {
+    "id": "2D1288EA7F",
+    "title": "Regional Merchant Business Development Manager (Miami USA)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D1288EA7F",
+    "date": "2026-06-30",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Miami, United States",
+    "department": "BD",
+    "active": true,
+    "slug": "product383"
+  },
+  {
+    "id": "2D8F619740",
+    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D8F619740",
+    "date": "2026-06-30",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Dubai, United Arab Emirates",
+    "department": "BD",
+    "active": true,
+    "slug": "product384"
   },
   {
     "id": "8EFEF935D6",
@@ -34054,34 +33971,6 @@
     ],
     "active": true,
     "slug": "product385"
-  },
-  {
-    "id": "2D8F619740",
-    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D8F619740",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Dubai, United Arab Emirates",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product384"
-  },
-  {
-    "id": "2D1288EA7F",
-    "title": "Regional Merchant Business Development Manager (Miami USA)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D1288EA7F",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Miami, United States",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product383"
   },
   {
     "id": "JR101069",
@@ -34724,25 +34613,12 @@
     "title": "Compliance Officer and MLRO",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/75DC512940",
-    "date": "2026-06-29T00:00:00.000Z",
+    "date": "2026-06-29",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": [
-      "Legal & Compliance"
-    ],
+    "department": "Legal & Compliance",
     "active": true,
     "slug": "compliance59"
-  },
-  {
-    "id": "JR101077",
-    "title": "Senior Finance Systems Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Finance-Systems-Analyst_JR101077-1",
-    "date": "2026-06-29",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "analyst83"
   },
   {
     "id": "JR101076",
@@ -34754,6 +34630,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "compliance60"
+  },
+  {
+    "id": "JR101077",
+    "title": "Senior Finance Systems Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Finance-Systems-Analyst_JR101077-1",
+    "date": "2026-06-29",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "analyst83"
   },
   {
     "id": "f6e96bdf-5535-4d92-8ee0-593364cf2baf",
@@ -36694,17 +36581,6 @@
     "slug": "frontend104"
   },
   {
-    "id": "JR101060",
-    "title": "Security Engineer II, Detection and Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security130"
-  },
-  {
     "id": "JR100838",
     "title": "Senior Smart Contract Engineer",
     "company": "Circle",
@@ -36714,6 +36590,17 @@
     "location": "Taipei City - remote first in Taiwan",
     "active": true,
     "slug": "engineer435"
+  },
+  {
+    "id": "JR101060",
+    "title": "Security Engineer II, Detection and Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security130"
   },
   {
     "id": "JR101071",
@@ -38064,12 +37951,10 @@
     "title": "Strategy & Projects",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/28D57CB5F6",
-    "date": "2026-06-17T00:00:00.000Z",
+    "date": "2026-06-17",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Strategy"
-    ],
+    "department": "Strategy",
     "active": true,
     "slug": "strategycb5f6"
   },
@@ -40225,10 +40110,10 @@
     "title": "Finance Operations Staff",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/8BDD06ED6C",
-    "date": "2026-06-10T00:00:00.000Z",
+    "date": "2026-06-10",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "operations6ed6c"
   },
@@ -41463,12 +41348,10 @@
     "title": "Security Engineer, Application Security",
     "company": "Trail of Bits",
     "link": "https://apply.workable.com/j/7EE5C9A644",
-    "date": "2026-06-05T00:00:00.000Z",
+    "date": "2026-06-05",
     "source": "Workable: Trail of Bits [trailofbits]",
     "location": "United States",
-    "department": [
-      "Assurance"
-    ],
+    "department": "Assurance",
     "active": true,
     "slug": "security9a644"
   },
@@ -41975,6 +41858,18 @@
     "department": "4138 SDC - Tech Ops",
     "active": true,
     "slug": "analyst57"
+  },
+  {
+    "id": "8576928002",
+    "title": "Machine Learning Researcher",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8576928002?gh_jid=8576928002",
+    "date": "2026-06-03T14:55:27-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "New York, New York, United States",
+    "department": "Machine Learning",
+    "active": true,
+    "slug": "machine28002"
   },
   {
     "id": "e577622f-6657-4e53-8941-b3a774b04448",
@@ -42539,6 +42434,18 @@
     "slug": "deputy3"
   },
   {
+    "id": "8573726002",
+    "title": "Quantitative Researcher",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8573726002?gh_jid=8573726002",
+    "date": "2026-06-02T07:19:31-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "New York, New York, United States",
+    "department": "Quantitative Research",
+    "active": true,
+    "slug": "trader26002"
+  },
+  {
     "id": "4880524101",
     "title": "Software Engineer, Rust & Python (Asset Pricing & Hedging)",
     "company": "Bitpanda",
@@ -42639,12 +42546,10 @@
     "title": "IT Support",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/71996B866B",
-    "date": "2026-06-02T00:00:00.000Z",
+    "date": "2026-06-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "itb866b"
   },
@@ -43011,19 +42916,6 @@
     "slug": "devops38"
   },
   {
-    "id": "1be78220-f909-4d03-ac4c-cf7f3b62f236",
-    "title": "Senior Software Engineer, Data Products",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/1be78220-f909-4d03-ac4c-cf7f3b62f236",
-    "date": "2026-05-29",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "New York - NY",
-    "department": "Engineering",
-    "active": true,
-    "slug": "product302"
-  },
-  {
     "id": "ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
     "title": "Senior Site Reliability Engineer, Observability",
     "company": "Chainlink Labs",
@@ -43035,6 +42927,19 @@
     "department": "Engineering",
     "active": true,
     "slug": "engineer338"
+  },
+  {
+    "id": "1be78220-f909-4d03-ac4c-cf7f3b62f236",
+    "title": "Senior Software Engineer, Data Products",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/1be78220-f909-4d03-ac4c-cf7f3b62f236",
+    "date": "2026-05-29",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "New York - NY",
+    "department": "Engineering",
+    "active": true,
+    "slug": "product302"
   },
   {
     "id": "A56A5FE285",
@@ -43055,12 +42960,10 @@
     "title": "Responsible Officer",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/C36808103B",
-    "date": "2026-05-29T00:00:00.000Z",
+    "date": "2026-05-29",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": [
-      "CEO's Office"
-    ],
+    "department": "CEO's Office",
     "active": true,
     "slug": "responsible1"
   },
@@ -43556,6 +43459,18 @@
     "slug": "vp1"
   },
   {
+    "id": "0C1A634B81",
+    "title": "Senior Site Technician - Bitcoin Mining",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/0C1A634B81",
+    "date": "2026-05-27",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Butte, United States",
+    "department": "Hostings",
+    "active": true,
+    "slug": "senior16"
+  },
+  {
     "id": "CE68D43E05",
     "title": "Senior Site Technician - Bitcoin Mining",
     "company": "GoMining",
@@ -43568,20 +43483,6 @@
     ],
     "active": true,
     "slug": "senior17"
-  },
-  {
-    "id": "0C1A634B81",
-    "title": "Senior Site Technician - Bitcoin Mining",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/0C1A634B81",
-    "date": "2026-05-27T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Butte, United States",
-    "department": [
-      "Hostings"
-    ],
-    "active": true,
-    "slug": "senior16"
   },
   {
     "id": "7ba8147257b1",
@@ -44483,6 +44384,18 @@
     "slug": "head36"
   },
   {
+    "id": "55CAA34008",
+    "title": "Relationship Manager - Wealth Management (Central Asia)",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/55CAA34008",
+    "date": "2026-05-21",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "Kazakhstan",
+    "department": "Clients Team",
+    "active": true,
+    "slug": "devrel13"
+  },
+  {
     "id": "99D41DDA7A",
     "title": "Relationship Manager - Wealth Management (East Asia)",
     "company": "Hex Trust",
@@ -44495,20 +44408,6 @@
     ],
     "active": true,
     "slug": "devrel14"
-  },
-  {
-    "id": "55CAA34008",
-    "title": "Relationship Manager - Wealth Management (Central Asia)",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/55CAA34008",
-    "date": "2026-05-21T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "Kazakhstan / Azerbaijan / Uzbekistan",
-    "department": [
-      "Clients Team"
-    ],
-    "active": true,
-    "slug": "devrel13"
   },
   {
     "id": "FF112DB38F",
@@ -45482,20 +45381,6 @@
     "slug": "compliance37"
   },
   {
-    "id": "F388E7681D",
-    "title": "Analyst / Associate - Institutional Sales (Mandarin Speaking)",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/F388E7681D",
-    "date": "2026-05-18T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong / Singapore, Singapore",
-    "department": [
-      "Clients Team"
-    ],
-    "active": true,
-    "slug": "analyst37"
-  },
-  {
     "id": "7FC3D0CE7F",
     "title": "Quantitative Trader",
     "company": "Hex Trust",
@@ -45508,6 +45393,20 @@
     ],
     "active": true,
     "slug": "trader60"
+  },
+  {
+    "id": "F388E7681D",
+    "title": "Analyst / Associate - Institutional Sales (Mandarin Speaking)",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/F388E7681D",
+    "date": "2026-05-18T00:00:00.000Z",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "Hong Kong, Hong Kong / Singapore, Singapore",
+    "department": [
+      "Clients Team"
+    ],
+    "active": true,
+    "slug": "analyst37"
   },
   {
     "id": "8BD673D5B6",
@@ -45666,6 +45565,42 @@
     "slug": "backend62"
   },
   {
+    "id": "279",
+    "title": "Country Manager – Nigeria",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/279",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Nigeria",
+    "department": null,
+    "active": true,
+    "slug": "manager279-1hrz"
+  },
+  {
+    "id": "276",
+    "title": "Lifecycle Marketing Associate",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/276",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Pakistan",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing276"
+  },
+  {
+    "id": "274",
+    "title": "Junior Product Manager",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/274",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "United Arab Emirates",
+    "department": "Product",
+    "active": true,
+    "slug": "product274-1ldu"
+  },
+  {
     "id": "280",
     "title": "Country Manager – Kenya",
     "company": "Fasset",
@@ -45690,30 +45625,6 @@
     "slug": "manager281-0g17"
   },
   {
-    "id": "279",
-    "title": "Country Manager – Nigeria",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/279",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Nigeria",
-    "department": null,
-    "active": true,
-    "slug": "manager279-1hrz"
-  },
-  {
-    "id": "274",
-    "title": "Junior Product Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/274",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "United Arab Emirates",
-    "department": "Product",
-    "active": true,
-    "slug": "product274-1ldu"
-  },
-  {
     "id": "278",
     "title": "Country Manager – Philippines",
     "company": "Fasset",
@@ -45724,29 +45635,6 @@
     "department": "Leadership",
     "active": true,
     "slug": "manager278"
-  },
-  {
-    "id": "276",
-    "title": "Lifecycle Marketing Associate",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/276",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Pakistan",
-    "department": "Marketing",
-    "active": true,
-    "slug": "marketing276"
-  },
-  {
-    "id": "283",
-    "title": "Country Manager – Indonesia",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/283",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": null,
-    "active": true,
-    "slug": "manager283-0fh8"
   },
   {
     "id": "286",
@@ -45761,6 +45649,28 @@
     "slug": "manager286-0gb7"
   },
   {
+    "id": "298",
+    "title": "Partnership Manager",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/298",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "department": "Growth & Marketing",
+    "active": true,
+    "slug": "manager298-0jn5"
+  },
+  {
+    "id": "283",
+    "title": "Country Manager – Indonesia",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/283",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "department": null,
+    "active": true,
+    "slug": "manager283-0fh8"
+  },
+  {
     "id": "291",
     "title": "Community Ambassador (Worldwide)",
     "company": "Fasset",
@@ -45771,6 +45681,18 @@
     "department": "Growth & Marketing",
     "active": true,
     "slug": "community291"
+  },
+  {
+    "id": "285",
+    "title": "Country Manager – Tanzania",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/285",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Tanzania",
+    "department": null,
+    "active": true,
+    "slug": "manager285-0h56"
   },
   {
     "id": "282",
@@ -45785,17 +45707,6 @@
     "slug": "manager282-0f79"
   },
   {
-    "id": "298",
-    "title": "Partnership Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/298",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": "Growth & Marketing",
-    "active": true,
-    "slug": "manager298-0jn5"
-  },
-  {
     "id": "284",
     "title": "Country Manager – Uganda",
     "company": "Fasset",
@@ -45806,18 +45717,6 @@
     "department": null,
     "active": true,
     "slug": "manager284-0gv6"
-  },
-  {
-    "id": "285",
-    "title": "Country Manager – Tanzania",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/285",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Tanzania",
-    "department": null,
-    "active": true,
-    "slug": "manager285-0h56"
   },
   {
     "id": "5221431008",
@@ -47500,12 +47399,10 @@
     "title": "Senior Data Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/E0742DFEC2",
-    "date": "2026-05-06T00:00:00.000Z",
+    "date": "2026-05-06",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Data"
-    ],
+    "department": "Data",
     "active": true,
     "slug": "engineerdfec2"
   },
@@ -48728,12 +48625,10 @@
     "title": "VP / Director Custody/WaaS Institutional Sales",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/D2A3EC5A27",
-    "date": "2026-04-28T00:00:00.000Z",
+    "date": "2026-04-28",
     "source": "Workable: Hex Trust [hextrust]",
-    "location": "Hong Kong, Hong Kong / Singapore, Singapore / Dubai, United Arab Emirates",
-    "department": [
-      "Clients Team"
-    ],
+    "location": "Singapore, Singapore",
+    "department": "Clients Team",
     "active": true,
     "slug": "sales49"
   },
@@ -50060,12 +49955,10 @@
     "title": "Security Platform Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/9F6B07E0C1",
-    "date": "2026-04-16T00:00:00.000Z",
+    "date": "2026-04-16",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "security7e0c1"
   },
@@ -51247,28 +51140,6 @@
     "slug": "compliance31"
   },
   {
-    "id": "JR100878",
-    "title": "VP, Global Head of Product Security and Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security60"
-  },
-  {
-    "id": "JR100014-EG",
-    "title": "Staff Software Engineer",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer261"
-  },
-  {
     "id": "JR100849",
     "title": "Distinguished Software Engineer",
     "company": "Circle",
@@ -51278,17 +51149,6 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "frontend60"
-  },
-  {
-    "id": "JR100869",
-    "title": "Principal Product Operations and Risk Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product184"
   },
   {
     "id": "JR100929",
@@ -51311,6 +51171,39 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "product183"
+  },
+  {
+    "id": "JR100014-EG",
+    "title": "Staff Software Engineer",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Software-Engineer_JR100014-1",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "engineer261"
+  },
+  {
+    "id": "JR100869",
+    "title": "Principal Product Operations and Risk Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product184"
+  },
+  {
+    "id": "JR100878",
+    "title": "VP, Global Head of Product Security and Risk",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security60"
   },
   {
     "id": "7778643",
@@ -51853,18 +51746,6 @@
     "slug": "security56"
   },
   {
-    "id": "7FBFB67147",
-    "title": "Corporate Legal Counsel",
-    "company": "Ndax",
-    "link": "https://apply.workable.com/j/7FBFB67147",
-    "date": "2026-03-31T00:00:00.000Z",
-    "source": "Workable: Ndax [ndax]",
-    "location": "Calgary, Canada",
-    "department": [],
-    "active": true,
-    "slug": "compliance67147"
-  },
-  {
     "id": "FB5DC09498",
     "title": "Product Manager",
     "company": "Ndax",
@@ -51877,6 +51758,18 @@
     ],
     "active": true,
     "slug": "product09498"
+  },
+  {
+    "id": "7FBFB67147",
+    "title": "Corporate Legal Counsel",
+    "company": "Ndax",
+    "link": "https://apply.workable.com/j/7FBFB67147",
+    "date": "2026-03-31T00:00:00.000Z",
+    "source": "Workable: Ndax [ndax]",
+    "location": "Calgary, Canada",
+    "department": [],
+    "active": true,
+    "slug": "compliance67147"
   },
   {
     "id": "67be8a23-e5f3-4701-9e1e-581300ad987b",
@@ -54525,12 +54418,10 @@
     "title": "Junior Payroll",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/D4C57DC81A",
-    "date": "2026-02-24T00:00:00.000Z",
+    "date": "2026-02-24",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "People"
-    ],
+    "department": "People",
     "active": true,
     "slug": "juniordc81a"
   },
@@ -54935,10 +54826,10 @@
     "title": "User Growth/Relationship Manager",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/4D46CA7EB5",
-    "date": "2026-02-18T00:00:00.000Z",
+    "date": "2026-02-18",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "marketinga7eb5"
   },
@@ -55779,12 +55670,10 @@
     "title": "Senior Front End Engineer (Web)",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/160AADE0EF",
-    "date": "2026-02-09T00:00:00.000Z",
+    "date": "2026-02-09",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "engineerde0ef"
   },
@@ -55925,12 +55814,10 @@
     "title": "Engineering Manager - DevOps & SRE",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/5E96A7338F",
-    "date": "2026-02-05T00:00:00.000Z",
+    "date": "2026-02-05",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "devops7338f"
   },
@@ -57491,10 +57378,10 @@
     "title": "Relationship Manager - Wealth Management (Hong Kong)",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/BDD63370C2",
-    "date": "2026-01-08T00:00:00.000Z",
+    "date": "2026-01-08",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "devrel3"
   },
@@ -57563,10 +57450,10 @@
     "title": "Lead Product Manager - Growth/Shared Services (Platform) & Payments",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/9348CB6BFF",
-    "date": "2026-01-07T00:00:00.000Z",
+    "date": "2026-01-07",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "productb6bff"
   },
@@ -58359,6 +58246,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "engineer160"
+  },
+  {
+    "id": "8209005002",
+    "title": "China Sales",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8209005002?gh_jid=8209005002",
+    "date": "2025-12-05T03:21:34-05:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "Hong Kong, Hong Kong",
+    "department": "Sales & Trading",
+    "active": true,
+    "slug": "sales05002"
   },
   {
     "id": "8ab9aa0b-3fc3-4055-b24f-88a4be20a3b3",
@@ -61018,12 +60917,10 @@
     "title": "Head of Product Management",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/C59804D41A",
-    "date": "2025-08-21T00:00:00.000Z",
+    "date": "2025-08-21",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": [
-      "Product Management"
-    ],
+    "department": "Product Management",
     "active": true,
     "slug": "product4d41a"
   },
@@ -61328,6 +61225,18 @@
     "slug": "fullstack7"
   },
   {
+    "id": "8080525002",
+    "title": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8080525002?gh_jid=8080525002",
+    "date": "2025-08-04T04:06:23-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "London, England, United Kingdom",
+    "department": "Trading Desk Operations",
+    "active": true,
+    "slug": "engineer25002"
+  },
+  {
     "id": "f564dcf9-9390-4a3f-896f-8047a5086040",
     "title": "Mobile Engineer, Android",
     "company": "Ramp",
@@ -61578,6 +61487,30 @@
     "department": "Accounting and Tax",
     "active": true,
     "slug": "sales12"
+  },
+  {
+    "id": "8075380002",
+    "title": "Trading Desk Operations Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8075380002?gh_jid=8075380002",
+    "date": "2025-07-18T03:00:33-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "Hong Kong, Hong Kong",
+    "department": "Trading Desk Operations",
+    "active": true,
+    "slug": "engineer80002"
+  },
+  {
+    "id": "8071941002",
+    "title": "Quantitative Researcher",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8071941002?gh_jid=8071941002",
+    "date": "2025-07-18T02:57:01-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "Hong Kong, Hong Kong",
+    "department": "Quantitative Research",
+    "active": true,
+    "slug": "trader41002"
   },
   {
     "id": "6a2a94d5-66fb-4099-9e1e-6114938befe1",
@@ -62006,10 +61939,10 @@
     "title": "Talent Pipeline",
     "company": "Trail of Bits",
     "link": "https://apply.workable.com/j/6F76E8612E",
-    "date": "2025-06-12T00:00:00.000Z",
+    "date": "2025-06-12",
     "source": "Workable: Trail of Bits [trailofbits]",
     "location": "United States",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "recruiting8612e"
   },
@@ -62134,16 +62067,26 @@
     "slug": "backend21"
   },
   {
+    "id": "8018160002",
+    "title": "IT Operations Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/8018160002?gh_jid=8018160002",
+    "date": "2025-05-30T13:41:48-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "New York, New York, United States",
+    "department": "IT and Systems Engineering",
+    "active": true,
+    "slug": "engineer60002"
+  },
+  {
     "id": "D78D708AD0",
     "title": "Trader - Market Making Specialist",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/D78D708AD0",
-    "date": "2025-05-30T00:00:00.000Z",
+    "date": "2025-05-30",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": [
-      "Operations"
-    ],
+    "department": "Operations",
     "active": true,
     "slug": "trader08ad0"
   },
@@ -62980,12 +62923,10 @@
     "title": "Senior Product Manager - Investment & Crypto",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/4D8F340B6A",
-    "date": "2025-04-02T00:00:00.000Z",
+    "date": "2025-04-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Product Manager"
-    ],
+    "department": "Product Manager",
     "active": true,
     "slug": "product40b6a"
   },
@@ -63246,12 +63187,10 @@
     "title": "Senior DevOps Engineer / SRE",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/52FA6532CD",
-    "date": "2025-03-12T00:00:00.000Z",
+    "date": "2025-03-12",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "devops532cd"
   },
@@ -63472,6 +63411,18 @@
     "department": "Operations",
     "active": true,
     "slug": "head3"
+  },
+  {
+    "id": "7880424002",
+    "title": "Procurement Specialist",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/7880424002?gh_jid=7880424002",
+    "date": "2025-02-26T06:51:39-05:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "Hong Kong, Hong Kong",
+    "department": "Procurement",
+    "active": true,
+    "slug": "procurement24002"
   },
   {
     "id": "7871047002",
@@ -63802,12 +63753,10 @@
     "title": "Senior QA Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/C050313C20",
-    "date": "2025-01-17T00:00:00.000Z",
+    "date": "2025-01-17",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "qa13c20"
   },
@@ -64212,10 +64161,10 @@
     "title": "Country Manager - Spain",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/934E351717",
-    "date": "2024-10-18T00:00:00.000Z",
+    "date": "2024-10-18",
     "source": "Workable: Ndax [ndax]",
     "location": "Spain",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "manager51717"
   },
@@ -65701,12 +65650,10 @@
     "title": "Full Stack Blockchain Developer",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/81FA675A60",
-    "date": "2022-12-24T00:00:00.000Z",
+    "date": "2022-12-24",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": [
-      "IT & Development"
-    ],
+    "department": "IT & Development",
     "active": true,
     "slug": "fullstack75a60"
   },
@@ -65924,18 +65871,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "analyst1"
-  },
-  {
-    "id": "6302325002",
-    "title": "Quantitative Researcher",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/6302325002?gh_jid=6302325002",
-    "date": "2022-08-01T16:33:47-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "Quantitative Research",
-    "active": true,
-    "slug": "trader25002"
   },
   {
     "id": "d5c0f988-67ac-4388-bd54-1970c8cc17f5",
@@ -66440,18 +66375,6 @@
     "slug": "engineer12"
   },
   {
-    "id": "5791948002",
-    "title": "Software Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/5791948002?gh_jid=5791948002",
-    "date": "2021-12-29T01:07:46-05:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "Singapore",
-    "department": "Software Engineering",
-    "active": true,
-    "slug": "engineer48002"
-  },
-  {
     "id": "23C1FEC0D9",
     "title": "Senior React Native Developer",
     "company": "Ndax",
@@ -66560,6 +66483,18 @@
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "frontend84002"
+  },
+  {
+    "id": "5372886002",
+    "title": "Linux Engineer",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/5372886002?gh_jid=5372886002",
+    "date": "2021-07-08T10:00:04-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "London, England, United Kingdom",
+    "department": "IT and Systems Engineering",
+    "active": true,
+    "slug": "frontend86002"
   },
   {
     "id": "3234877",
@@ -66742,6 +66677,18 @@
     "slug": "manager1"
   },
   {
+    "id": "4839146002",
+    "title": "Quantitative Trader",
+    "company": "Jane Street",
+    "link": "https://www.janestreet.com/join-jane-street/apply/4839146002?gh_jid=4839146002",
+    "date": "2020-09-03T02:50:55-04:00",
+    "source": "Greenhouse: Jane Street [janestreet]",
+    "location": "Hong Kong, Hong Kong",
+    "department": "Quantitative Trading",
+    "active": true,
+    "slug": "trader46002"
+  },
+  {
     "id": "4794171002",
     "title": "Quantitative Trader",
     "company": "Jane Street",
@@ -66812,18 +66759,6 @@
     "department": "Quantitative Trading",
     "active": true,
     "slug": "trader1"
-  },
-  {
-    "id": "4276248002",
-    "title": "Linux Engineer",
-    "company": "Jane Street",
-    "link": "https://www.janestreet.com/join-jane-street/apply/4276248002?gh_jid=4276248002",
-    "date": "2019-05-02T16:55:42-04:00",
-    "source": "Greenhouse: Jane Street [janestreet]",
-    "location": "New York, New York, United States",
-    "department": "IT and Systems Engineering",
-    "active": true,
-    "slug": "frontend48002"
   },
   {
     "id": "4275921002",
