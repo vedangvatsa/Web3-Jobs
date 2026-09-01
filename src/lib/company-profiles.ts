@@ -5,6 +5,9 @@
  */
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
+  "arch-network": `Arch Network is an execution layer engineered to bring native smart contracts and high-throughput programmability directly to Bitcoin. Utilizing zero-knowledge virtual machine (ZKVM) technology and decentralized validator threshold cryptography, Arch enables developers to build DeFi, lending markets, and complex state machines verified natively by Bitcoin without wrapping tokens or relying on centralized bridges. Backed by top venture funds, Arch Network emphasizes cryptographic engineering, low-latency execution engines, and Bitcoin-native protocol research.`,
+
+
   "river-financial": `River Financial is an enterprise-grade Bitcoin financial services firm and Lightning Network infrastructure provider offering zero-fee recurring Bitcoin purchases, institutional custody, and Bitcoin mining integration. Its River Lightning API enables banks, fintechs, and crypto platforms to integrate instant, low-cost Lightning Network payments with turn-key node liquidity. Privately funded and US-licensed, River values Bitcoin standard conviction, financial infrastructure reliability, high-touch client support, and security architecture.`,
 
 

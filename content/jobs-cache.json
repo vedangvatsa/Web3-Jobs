@@ -1852,10 +1852,12 @@
     "title": "Business Growth Intern",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/19D8AD74B2",
-    "date": "2026-08-28",
+    "date": "2026-08-28T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Strategy",
+    "department": [
+      "Strategy"
+    ],
     "active": true,
     "slug": "marketingd74b2"
   },
@@ -2895,15 +2897,15 @@
     "slug": "securitycc4bc"
   },
   {
-    "id": "JR100975",
-    "title": "Lead HR Business Partner",
+    "id": "JR101123",
+    "title": "Hospitality & Operations Specialist (Temporary)",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-HR-Business-Partner_JR100975-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Hospitality---Operations-Specialist_JR101123",
     "date": "2026-08-27",
     "source": "Workday: Circle [circle/Circle]",
     "location": "New York City - remote first in US",
     "active": true,
-    "slug": "recruiting4"
+    "slug": "operations01123"
   },
   {
     "id": "JR101051",
@@ -2917,15 +2919,15 @@
     "slug": "security121"
   },
   {
-    "id": "JR101123",
-    "title": "Hospitality & Operations Specialist (Temporary)",
+    "id": "JR100975",
+    "title": "Lead HR Business Partner",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Hospitality---Operations-Specialist_JR101123",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-HR-Business-Partner_JR100975-1",
     "date": "2026-08-27",
     "source": "Workday: Circle [circle/Circle]",
     "location": "New York City - remote first in US",
     "active": true,
-    "slug": "operations01123"
+    "slug": "recruiting4"
   },
   {
     "id": "871",
@@ -4128,20 +4130,6 @@
     "slug": "compliance7e38e"
   },
   {
-    "id": "5391770DC3",
-    "title": "General Manager - Custody & Compliance",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/5391770DC3",
-    "date": "2026-08-26T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "IT"
-    ],
-    "active": true,
-    "slug": "compliance156"
-  },
-  {
     "id": "550AE1666F",
     "title": "General Manager - Cards",
     "company": "GoMining",
@@ -4154,6 +4142,20 @@
     ],
     "active": true,
     "slug": "manager573"
+  },
+  {
+    "id": "5391770DC3",
+    "title": "General Manager - Custody & Compliance",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/5391770DC3",
+    "date": "2026-08-26T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "IT"
+    ],
+    "active": true,
+    "slug": "compliance156"
   },
   {
     "id": "6339EDB037",
@@ -4174,10 +4176,12 @@
     "title": "Head of Compliance & AML/CTF (PCF-12 / PCF-52)",
     "company": "CoinJar",
     "link": "https://apply.workable.com/j/86C3946504",
-    "date": "2026-08-26",
+    "date": "2026-08-26T00:00:00.000Z",
     "source": "Workable: CoinJar [coinjar]",
     "location": "Dublin, Ireland",
-    "department": "Compliance & Fincrime",
+    "department": [
+      "Compliance & Fincrime"
+    ],
     "active": true,
     "slug": "compliance46504"
   },
@@ -6238,10 +6242,12 @@
     "title": "Bilingual Customer Support Representative (French and English) - Part-time",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/92F7C5307E",
-    "date": "2026-08-24",
+    "date": "2026-08-24T00:00:00.000Z",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": "Operations",
+    "department": [
+      "Operations"
+    ],
     "active": true,
     "slug": "bilingual5307e"
   },
@@ -8065,26 +8071,15 @@
     "slug": "staff11"
   },
   {
-    "id": "JR101119",
-    "title": "Senior Analyst, Network Onboarding",
+    "id": "JR101116",
+    "title": "Senior Director, Ecosystem Growth, South Korea",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
     "date": "2026-08-20",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "Delhi - remote first in India",
+    "location": "South Korea",
     "active": true,
-    "slug": "onboarding12"
-  },
-  {
-    "id": "JR101115",
-    "title": "Senior Analyst, Investigation Operations",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Analyst--Investigation-Operations_JR101115",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Bangalore - remote first in India",
-    "active": true,
-    "slug": "analyst159"
+    "slug": "marketing198"
   },
   {
     "id": "JR101118",
@@ -8098,15 +8093,26 @@
     "slug": "manager534"
   },
   {
-    "id": "JR101116",
-    "title": "Senior Director, Ecosystem Growth, South Korea",
+    "id": "JR101115",
+    "title": "Senior Analyst, Investigation Operations",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/South-Korea/Senior-Director--Ecosystem-Growth--South-Korea_JR101116-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Analyst--Investigation-Operations_JR101115",
     "date": "2026-08-20",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "South Korea",
+    "location": "Bangalore - remote first in India",
     "active": true,
-    "slug": "marketing198"
+    "slug": "analyst159"
+  },
+  {
+    "id": "JR101119",
+    "title": "Senior Analyst, Network Onboarding",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Delhi - remote first in India",
+    "active": true,
+    "slug": "onboarding12"
   },
   {
     "id": "1fd65f6d-95f0-4190-98c0-788f4df7b61e",
@@ -9052,10 +9058,12 @@
     "title": "SEO Intern",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/535FBE8992",
-    "date": "2026-08-19",
+    "date": "2026-08-19T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": "Marketing",
+    "department": [
+      "Marketing"
+    ],
     "active": true,
     "slug": "seoe8992"
   },
@@ -9071,18 +9079,6 @@
     "slug": "manager522"
   },
   {
-    "id": "43",
-    "title": "KYC Analyst (Remote - Europe)",
-    "company": "Bitcoin.com",
-    "link": "https://bitcoin.bamboohr.com/careers/43",
-    "date": "2026-08-19",
-    "source": "BambooHR: Bitcoin.com [bitcoin]",
-    "location": "Poland, Poland, Poland",
-    "department": "HR, Administrative & Legal",
-    "active": true,
-    "slug": "analyst156"
-  },
-  {
     "id": "41",
     "title": "Commercial Content Editor (Remote - APAC)",
     "company": "Bitcoin.com",
@@ -9093,6 +9089,18 @@
     "department": "Marketing",
     "active": true,
     "slug": "commercial5"
+  },
+  {
+    "id": "43",
+    "title": "KYC Analyst (Remote - Europe)",
+    "company": "Bitcoin.com",
+    "link": "https://bitcoin.bamboohr.com/careers/43",
+    "date": "2026-08-19",
+    "source": "BambooHR: Bitcoin.com [bitcoin]",
+    "location": "Poland, Poland, Poland",
+    "department": "HR, Administrative & Legal",
+    "active": true,
+    "slug": "analyst156"
   },
   {
     "id": "328",
@@ -13479,17 +13487,6 @@
     "slug": "senior63"
   },
   {
-    "id": "JR101102",
-    "title": "Senior Director Product, Onboarding, Compliance & Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director-Product--Onboarding--Compliance---Risk_JR101102",
-    "date": "2026-08-12",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product603"
-  },
-  {
     "id": "JR101098",
     "title": "Software Engineer II",
     "company": "Circle",
@@ -13499,6 +13496,17 @@
     "location": "Taipei City - remote first in Taiwan",
     "active": true,
     "slug": "engineer753"
+  },
+  {
+    "id": "JR101102",
+    "title": "Senior Director Product, Onboarding, Compliance & Risk",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director-Product--Onboarding--Compliance---Risk_JR101102",
+    "date": "2026-08-12",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product603"
   },
   {
     "id": "8123027",
@@ -17513,20 +17521,6 @@
     "slug": "engineer701"
   },
   {
-    "id": "9CB0EE3B47",
-    "title": "Head of Product Marketing (Financial Products)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/9CB0EE3B47",
-    "date": "2026-08-05T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "Marketing"
-    ],
-    "active": true,
-    "slug": "product557"
-  },
-  {
     "id": "91177F2914",
     "title": "Head of Product Marketing (Core)",
     "company": "GoMining",
@@ -17539,6 +17533,20 @@
     ],
     "active": true,
     "slug": "product556"
+  },
+  {
+    "id": "9CB0EE3B47",
+    "title": "Head of Product Marketing (Financial Products)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/9CB0EE3B47",
+    "date": "2026-08-05T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "Marketing"
+    ],
+    "active": true,
+    "slug": "product557"
   },
   {
     "id": "2AB065F537",
@@ -17573,12 +17581,10 @@
     "title": "Recruiter (US)",
     "company": "GoMining",
     "link": "https://apply.workable.com/j/BE0396AB3E",
-    "date": "2026-08-05T00:00:00.000Z",
+    "date": "2026-08-05",
     "source": "Workable: GoMining [gomining]",
     "location": "United States",
-    "department": [
-      "Hostings"
-    ],
+    "department": "Hostings",
     "active": true,
     "slug": "frontend176"
   },
@@ -19051,12 +19057,10 @@
     "title": "Client Partner",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/90148307F5",
-    "date": "2026-08-03T00:00:00.000Z",
+    "date": "2026-08-03",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Operations"
-    ],
+    "department": "Operations",
     "active": true,
     "slug": "client307f5"
   },
@@ -22475,12 +22479,10 @@
     "title": "Software Engineer",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/0D5E2947BD",
-    "date": "2026-07-27T00:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Zürich, Switzerland",
-    "department": [
-      "Crypto Finance AG"
-    ],
+    "department": "Crypto Finance AG",
     "active": true,
     "slug": "engineer621"
   },
@@ -22517,12 +22519,10 @@
     "title": "Senior Analytics Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/CA34CA3226",
-    "date": "2026-07-27T00:00:00.000Z",
+    "date": "2026-07-27",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "engineera3226"
   },
@@ -23266,10 +23266,12 @@
     "title": "Engagement & Employer Brand Intern",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/BCEFE0DB92",
-    "date": "2026-07-24",
+    "date": "2026-07-24T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "People",
+    "department": [
+      "People"
+    ],
     "active": true,
     "slug": "engagement0db92"
   },
@@ -26654,17 +26656,6 @@
     "slug": "product454"
   },
   {
-    "id": "JR101078",
-    "title": "Senior Finance Systems Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Finance-Systems-Analyst_JR101078",
-    "date": "2026-07-17",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Delhi - remote first in India",
-    "active": true,
-    "slug": "analyst101"
-  },
-  {
     "id": "JR100710",
     "title": "Senior Analyst, AML Transaction Monitoring",
     "company": "Circle",
@@ -26674,6 +26665,17 @@
     "location": "Dublin - remote first in Ireland",
     "active": true,
     "slug": "analyst100"
+  },
+  {
+    "id": "JR101078",
+    "title": "Senior Finance Systems Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Finance-Systems-Analyst_JR101078",
+    "date": "2026-07-17",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Delhi - remote first in India",
+    "active": true,
+    "slug": "analyst101"
   },
   {
     "id": "8070054",
@@ -28403,12 +28405,10 @@
     "title": "Operations Associate - Pogun",
     "company": "IO Global",
     "link": "https://apply.workable.com/j/83A3B69AD0",
-    "date": "2026-07-14T00:00:00.000Z",
+    "date": "2026-07-14",
     "source": "Workable: IO Global [io-global]",
     "location": "Barcelona, Spain",
-    "department": [
-      "Bitcoin DeFI"
-    ],
+    "department": "Bitcoin DeFI",
     "active": true,
     "slug": "operations64"
   },
@@ -28866,6 +28866,18 @@
     "department": "Langaku",
     "active": true,
     "slug": "frontenddbadf"
+  },
+  {
+    "id": "2a028deb-0eac-439b-9921-7f0a5cec42c4",
+    "title": "Founding Deployment Strategist",
+    "company": "Arch Network",
+    "link": "https://jobs.ashbyhq.com/arch/2a028deb-0eac-439b-9921-7f0a5cec42c4",
+    "date": "2026-07-13T04:13:42.056+00:00",
+    "source": "Ashby: Arch Network [arch]",
+    "location": "San Francisco",
+    "department": "Business",
+    "active": true,
+    "slug": "foundingc42c4"
   },
   {
     "id": "7802200003",
@@ -31224,17 +31236,6 @@
     "slug": "sales127"
   },
   {
-    "id": "JR100476",
-    "title": "Senior Principal Product Manager",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Principal-Product-Manager_JR100476",
-    "date": "2026-07-07",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product416"
-  },
-  {
     "id": "JR100798",
     "title": "Senior Manager, Financial Intelligence Unit, MEA",
     "company": "Circle",
@@ -31244,6 +31245,17 @@
     "location": "United Arab Emirates - remote first in UAE",
     "active": true,
     "slug": "manager288"
+  },
+  {
+    "id": "JR100476",
+    "title": "Senior Principal Product Manager",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Principal-Product-Manager_JR100476",
+    "date": "2026-07-07",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product416"
   },
   {
     "id": "JR101073",
@@ -33166,14 +33178,26 @@
     "title": "Control Functions Specialist",
     "company": "Crypto Finance",
     "link": "https://apply.workable.com/j/18A493B8BF",
-    "date": "2026-06-30T00:00:00.000Z",
+    "date": "2026-06-30",
     "source": "Workable: Crypto Finance [crypto-finance]",
     "location": "Frankfurt am Main, Germany",
-    "department": [
-      "Crypto Finance Deutschland GmbH"
-    ],
+    "department": "Crypto Finance Deutschland GmbH",
     "active": true,
     "slug": "control1"
+  },
+  {
+    "id": "2D8F619740",
+    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D8F619740",
+    "date": "2026-06-30T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Dubai, United Arab Emirates",
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "slug": "product384"
   },
   {
     "id": "8EFEF935D6",
@@ -33202,20 +33226,6 @@
     ],
     "active": true,
     "slug": "product383"
-  },
-  {
-    "id": "2D8F619740",
-    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D8F619740",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Dubai, United Arab Emirates",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product384"
   },
   {
     "id": "JR101069",
@@ -33858,12 +33868,10 @@
     "title": "Compliance Officer and MLRO",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/75DC512940",
-    "date": "2026-06-29T00:00:00.000Z",
+    "date": "2026-06-29",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": [
-      "Legal & Compliance"
-    ],
+    "department": "Legal & Compliance",
     "active": true,
     "slug": "compliance59"
   },
@@ -36982,12 +36990,10 @@
     "title": "Strategy & Projects",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/28D57CB5F6",
-    "date": "2026-06-17T00:00:00.000Z",
+    "date": "2026-06-17",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Strategy"
-    ],
+    "department": "Strategy",
     "active": true,
     "slug": "strategycb5f6"
   },
@@ -37741,10 +37747,12 @@
     "title": "DevSecOps Engineer/Lead",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/55564DFDFA",
-    "date": "2026-06-15",
+    "date": "2026-06-15T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "engineerdfdfa"
   },
@@ -37753,10 +37761,12 @@
     "title": "Offensive Security Engineer/Lead",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/08ADBD012C",
-    "date": "2026-06-15",
+    "date": "2026-06-15T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "securityd012c"
   },
@@ -38484,10 +38494,10 @@
     "title": "Legal Team Administrator",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/10E882038B",
-    "date": "2026-06-11",
+    "date": "2026-06-11T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": null,
+    "department": [],
     "active": true,
     "slug": "compliance2038b"
   },
@@ -39067,6 +39077,18 @@
     "slug": "brand2"
   },
   {
+    "id": "6ae3bfd9-f392-4775-81ad-0751bbeef1fc",
+    "title": "Founding SDR",
+    "company": "Arch Network",
+    "link": "https://jobs.ashbyhq.com/arch/6ae3bfd9-f392-4775-81ad-0751bbeef1fc",
+    "date": "2026-06-10T01:49:03.105+00:00",
+    "source": "Ashby: Arch Network [arch]",
+    "location": "San Francisco",
+    "department": "Business",
+    "active": true,
+    "slug": "foundingef1fc"
+  },
+  {
     "id": "e98b2c54-2baa-4bc5-8bd8-eb5b1b35b910",
     "title": "Solutions Engineer",
     "company": "Helius",
@@ -39097,10 +39119,10 @@
     "title": "Finance Operations Staff",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/8BDD06ED6C",
-    "date": "2026-06-10T00:00:00.000Z",
+    "date": "2026-06-10",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "South Jakarta, Indonesia",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "operations6ed6c"
   },
@@ -40323,12 +40345,10 @@
     "title": "Security Engineer, Application Security",
     "company": "Trail of Bits",
     "link": "https://apply.workable.com/j/7EE5C9A644",
-    "date": "2026-06-05T00:00:00.000Z",
+    "date": "2026-06-05",
     "source": "Workable: Trail of Bits [trailofbits]",
     "location": "United States",
-    "department": [
-      "Assurance"
-    ],
+    "department": "Assurance",
     "active": true,
     "slug": "security9a644"
   },
@@ -41511,12 +41531,10 @@
     "title": "IT Support",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/71996B866B",
-    "date": "2026-06-02T00:00:00.000Z",
+    "date": "2026-06-02",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "itb866b"
   },
@@ -43355,20 +43373,6 @@
     "slug": "head36"
   },
   {
-    "id": "99D41DDA7A",
-    "title": "Relationship Manager - Wealth Management (East Asia)",
-    "company": "Hex Trust",
-    "link": "https://apply.workable.com/j/99D41DDA7A",
-    "date": "2026-05-21T00:00:00.000Z",
-    "source": "Workable: Hex Trust [hextrust]",
-    "location": "Taiwan / Taiwan / South Korea / Japan",
-    "department": [
-      "Clients Team"
-    ],
-    "active": true,
-    "slug": "devrel14"
-  },
-  {
     "id": "55CAA34008",
     "title": "Relationship Manager - Wealth Management (Central Asia)",
     "company": "Hex Trust",
@@ -43381,6 +43385,20 @@
     ],
     "active": true,
     "slug": "devrel13"
+  },
+  {
+    "id": "99D41DDA7A",
+    "title": "Relationship Manager - Wealth Management (East Asia)",
+    "company": "Hex Trust",
+    "link": "https://apply.workable.com/j/99D41DDA7A",
+    "date": "2026-05-21T00:00:00.000Z",
+    "source": "Workable: Hex Trust [hextrust]",
+    "location": "Taiwan / Taiwan / South Korea / Japan",
+    "department": [
+      "Clients Team"
+    ],
+    "active": true,
+    "slug": "devrel14"
   },
   {
     "id": "FF112DB38F",
@@ -44372,6 +44390,18 @@
     "slug": "sales67"
   },
   {
+    "id": "cf4ec528-6038-4103-896e-54224a99c352",
+    "title": "Founding GTM",
+    "company": "Arch Network",
+    "link": "https://jobs.ashbyhq.com/arch/cf4ec528-6038-4103-896e-54224a99c352",
+    "date": "2026-05-15T18:19:31.625+00:00",
+    "source": "Ashby: Arch Network [arch]",
+    "location": "San Francisco",
+    "department": "Business",
+    "active": true,
+    "slug": "founding9c352"
+  },
+  {
     "id": "8552286002",
     "title": "Commercial Contracts Attorney",
     "company": "Jane Street",
@@ -44480,6 +44510,18 @@
     "slug": "frontend83"
   },
   {
+    "id": "ee589b2d-cff2-4474-ae16-a5dac763c21a",
+    "title": "Founding Account Executive",
+    "company": "Arch Network",
+    "link": "https://jobs.ashbyhq.com/arch/ee589b2d-cff2-4474-ae16-a5dac763c21a",
+    "date": "2026-05-15T03:51:25.941+00:00",
+    "source": "Ashby: Arch Network [arch]",
+    "location": "San Francisco",
+    "department": "Business",
+    "active": true,
+    "slug": "sales3c21a"
+  },
+  {
     "id": "4867354101",
     "title": "Senior Principal Backend Development Engineer(C++)",
     "company": "Bybit",
@@ -44490,54 +44532,6 @@
     "department": "Derivatives Business Unit (DBU)",
     "active": true,
     "slug": "backend62"
-  },
-  {
-    "id": "280",
-    "title": "Country Manager – Kenya",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/280",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Kenya",
-    "department": null,
-    "active": true,
-    "slug": "manager280-0fr8"
-  },
-  {
-    "id": "279",
-    "title": "Country Manager – Nigeria",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/279",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Nigeria",
-    "department": null,
-    "active": true,
-    "slug": "manager279-1hrz"
-  },
-  {
-    "id": "278",
-    "title": "Country Manager – Philippines",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/278",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Philippines",
-    "department": "Leadership",
-    "active": true,
-    "slug": "manager278"
-  },
-  {
-    "id": "276",
-    "title": "Lifecycle Marketing Associate",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/276",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Pakistan",
-    "department": "Marketing",
-    "active": true,
-    "slug": "marketing276"
   },
   {
     "id": "281",
@@ -44564,16 +44558,52 @@
     "slug": "product274-1ldu"
   },
   {
-    "id": "282",
-    "title": "Country Manager – UAE",
+    "id": "279",
+    "title": "Country Manager – Nigeria",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/282",
+    "link": "https://fasset.bamboohr.com/careers/279",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "United Arab Emirates",
+    "location": "Nigeria",
     "department": null,
     "active": true,
-    "slug": "manager282-0f79"
+    "slug": "manager279-1hrz"
+  },
+  {
+    "id": "280",
+    "title": "Country Manager – Kenya",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/280",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Kenya",
+    "department": null,
+    "active": true,
+    "slug": "manager280-0fr8"
+  },
+  {
+    "id": "278",
+    "title": "Country Manager – Philippines",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/278",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Philippines",
+    "department": "Leadership",
+    "active": true,
+    "slug": "manager278"
+  },
+  {
+    "id": "276",
+    "title": "Lifecycle Marketing Associate",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/276",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Pakistan",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing276"
   },
   {
     "id": "283",
@@ -44585,17 +44615,6 @@
     "department": null,
     "active": true,
     "slug": "manager283-0fh8"
-  },
-  {
-    "id": "298",
-    "title": "Partnership Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/298",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": "Growth & Marketing",
-    "active": true,
-    "slug": "manager298-0jn5"
   },
   {
     "id": "286",
@@ -44610,16 +44629,39 @@
     "slug": "manager286-0gb7"
   },
   {
-    "id": "285",
-    "title": "Country Manager – Tanzania",
+    "id": "298",
+    "title": "Partnership Manager",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/285",
+    "link": "https://fasset.bamboohr.com/careers/298",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "Tanzania",
+    "department": "Growth & Marketing",
+    "active": true,
+    "slug": "manager298-0jn5"
+  },
+  {
+    "id": "282",
+    "title": "Country Manager – UAE",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/282",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "United Arab Emirates",
     "department": null,
     "active": true,
-    "slug": "manager285-0h56"
+    "slug": "manager282-0f79"
+  },
+  {
+    "id": "291",
+    "title": "Community Ambassador (Worldwide)",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/291",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "All Region Mentioned, All region mentioned, United Arab Emirates",
+    "department": "Growth & Marketing",
+    "active": true,
+    "slug": "community291"
   },
   {
     "id": "284",
@@ -44634,16 +44676,16 @@
     "slug": "manager284-0gv6"
   },
   {
-    "id": "291",
-    "title": "Community Ambassador (Worldwide)",
+    "id": "285",
+    "title": "Country Manager – Tanzania",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/291",
+    "link": "https://fasset.bamboohr.com/careers/285",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "All Region Mentioned, All region mentioned, United Arab Emirates",
-    "department": "Growth & Marketing",
+    "location": "Tanzania",
+    "department": null,
     "active": true,
-    "slug": "community291"
+    "slug": "manager285-0h56"
   },
   {
     "id": "5221431008",
@@ -46112,23 +46154,14 @@
     "title": "Application Security Engineer/Lead",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/7BFBDAA8F2",
-    "date": "2026-05-07",
+    "date": "2026-05-07T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "securityaa8f2"
-  },
-  {
-    "id": "142",
-    "title": "Web Marketing Specialist",
-    "company": "Chainstack",
-    "link": "https://chainstack.bamboohr.com/careers/142",
-    "date": "2026-05-07",
-    "source": "BambooHR: Chainstack [chainstack]",
-    "department": "Marketing Team",
-    "active": true,
-    "slug": "marketing57"
   },
   {
     "id": "141",
@@ -46140,6 +46173,17 @@
     "department": "Software Engineering Team",
     "active": true,
     "slug": "product240"
+  },
+  {
+    "id": "142",
+    "title": "Web Marketing Specialist",
+    "company": "Chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/142",
+    "date": "2026-05-07",
+    "source": "BambooHR: Chainstack [chainstack]",
+    "department": "Marketing Team",
+    "active": true,
+    "slug": "marketing57"
   },
   {
     "id": "27e619ca-d0d6-4621-9e37-de4b7a08a47b",
@@ -46314,12 +46358,10 @@
     "title": "Senior Data Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/E0742DFEC2",
-    "date": "2026-05-06T00:00:00.000Z",
+    "date": "2026-05-06",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Data"
-    ],
+    "department": "Data",
     "active": true,
     "slug": "engineerdfec2"
   },
@@ -50063,28 +50105,6 @@
     "slug": "compliance31"
   },
   {
-    "id": "JR100869",
-    "title": "Principal Product Operations and Risk Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product184"
-  },
-  {
-    "id": "JR100477",
-    "title": "Lead Product Manager, Token",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Principal-Product-Manager_JR100477",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product183"
-  },
-  {
     "id": "JR100849",
     "title": "Distinguished Software Engineer",
     "company": "Circle",
@@ -50094,6 +50114,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "frontend60"
+  },
+  {
+    "id": "JR100878",
+    "title": "VP, Global Head of Product Security and Risk",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security60"
   },
   {
     "id": "JR100014-EG",
@@ -50107,15 +50138,26 @@
     "slug": "engineer261"
   },
   {
-    "id": "JR100878",
-    "title": "VP, Global Head of Product Security and Risk",
+    "id": "JR100477",
+    "title": "Lead Product Manager, Token",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Principal-Product-Manager_JR100477",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "security60"
+    "slug": "product183"
+  },
+  {
+    "id": "JR100869",
+    "title": "Principal Product Operations and Risk Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product184"
   },
   {
     "id": "JR100929",
@@ -50673,10 +50715,10 @@
     "title": "Corporate Legal Counsel",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/7FBFB67147",
-    "date": "2026-03-31",
+    "date": "2026-03-31T00:00:00.000Z",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": null,
+    "department": [],
     "active": true,
     "slug": "compliance67147"
   },
@@ -50685,10 +50727,12 @@
     "title": "Product Manager",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/FB5DC09498",
-    "date": "2026-03-31",
+    "date": "2026-03-31T00:00:00.000Z",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": "IT & Development",
+    "department": [
+      "IT & Development"
+    ],
     "active": true,
     "slug": "product09498"
   },
@@ -52509,10 +52553,12 @@
     "title": "Head of Engineering/Engineering Manager - BE",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/6102F0E39F",
-    "date": "2026-03-06",
+    "date": "2026-03-06T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "manager0e39f"
   },
@@ -53255,10 +53301,12 @@
     "title": "Director's Office, Product",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/4E02FCAF76",
-    "date": "2026-02-24",
+    "date": "2026-02-24T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Compliance",
+    "department": [
+      "Compliance"
+    ],
     "active": true,
     "slug": "productcaf76"
   },
@@ -55161,10 +55209,12 @@
     "title": "Senior Android Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/378617EBA8",
-    "date": "2026-01-27",
+    "date": "2026-01-27T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "engineer7eba8"
   },
@@ -55173,10 +55223,12 @@
     "title": "Senior iOS Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/34EE67E78E",
-    "date": "2026-01-27",
+    "date": "2026-01-27T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "engineer7e78e"
   },
@@ -56195,10 +56247,10 @@
     "title": "Relationship Manager - Wealth Management (Hong Kong)",
     "company": "Hex Trust",
     "link": "https://apply.workable.com/j/BDD63370C2",
-    "date": "2026-01-08T00:00:00.000Z",
+    "date": "2026-01-08",
     "source": "Workable: Hex Trust [hextrust]",
     "location": "Hong Kong, Hong Kong",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "devrel3"
   },
@@ -57981,10 +58033,12 @@
     "title": "Internal Audit",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/4FACC24CC0",
-    "date": "2025-11-06",
+    "date": "2025-11-06T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Risk and Internal Audit",
+    "department": [
+      "Risk and Internal Audit"
+    ],
     "active": true,
     "slug": "security24cc0"
   },
@@ -58401,10 +58455,12 @@
     "title": "Quality Assurance Engineer",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/BE0FFD69D0",
-    "date": "2025-10-20",
+    "date": "2025-10-20T00:00:00.000Z",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": "IT & Development",
+    "department": [
+      "IT & Development"
+    ],
     "active": true,
     "slug": "qad69d0"
   },
@@ -58940,10 +58996,12 @@
     "title": "Senior Software Development Engineer in Test",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/539E6D9BBF",
-    "date": "2025-09-22",
+    "date": "2025-09-22T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "productd9bbf"
   },
@@ -60094,10 +60152,12 @@
     "title": "Senior Backend Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/3D04C4467F",
-    "date": "2025-07-14",
+    "date": "2025-07-14T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Engineering",
+    "department": [
+      "Engineering"
+    ],
     "active": true,
     "slug": "backend4467f"
   },
@@ -60342,6 +60402,18 @@
     "slug": "qa6"
   },
   {
+    "id": "fffdd51a-6aa2-43d4-8b41-c6da24e1c79e",
+    "title": "Data Scientist",
+    "company": "Arch Network",
+    "link": "https://jobs.ashbyhq.com/arch/fffdd51a-6aa2-43d4-8b41-c6da24e1c79e",
+    "date": "2025-06-17T17:38:21.678+00:00",
+    "source": "Ashby: Arch Network [arch]",
+    "location": "San Francisco",
+    "department": "Data Science",
+    "active": true,
+    "slug": "data1c79e"
+  },
+  {
     "id": "27ff63f6-a750-4028-b3ac-fd11388ba6ab",
     "title": "Revenue Growth Manager (B2B Sales)",
     "company": "Syndica",
@@ -60352,6 +60424,18 @@
     "department": "General",
     "active": true,
     "slug": "marketing14"
+  },
+  {
+    "id": "56e6a7b4-8b8b-4386-a668-75680c5102e7",
+    "title": "Senior Software Engineer",
+    "company": "Arch Network",
+    "link": "https://jobs.ashbyhq.com/arch/56e6a7b4-8b8b-4386-a668-75680c5102e7",
+    "date": "2025-06-13T21:49:34.032+00:00",
+    "source": "Ashby: Arch Network [arch]",
+    "location": "San Francisco",
+    "department": "Software Engineering",
+    "active": true,
+    "slug": "engineer102e7"
   },
   {
     "id": "d0b9bbe2-767e-4c81-9a53-fa513addcfab",
@@ -61732,10 +61816,12 @@
     "title": "Senior Product Manager - Growth/Shared Services (Platform) & Payments",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/1EDC006258",
-    "date": "2025-03-10",
+    "date": "2025-03-10T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": "Product Manager",
+    "location": "Jakarta, Indonesia / Bengaluru, India",
+    "department": [
+      "Product Manager"
+    ],
     "active": true,
     "slug": "product06258"
   },
@@ -62176,12 +62262,10 @@
     "title": "Senior QA Engineer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/C050313C20",
-    "date": "2025-01-17T00:00:00.000Z",
+    "date": "2025-01-17",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
+    "department": "Engineering",
     "active": true,
     "slug": "qa13c20"
   },
@@ -62586,10 +62670,10 @@
     "title": "Country Manager - Spain",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/934E351717",
-    "date": "2024-10-18T00:00:00.000Z",
+    "date": "2024-10-18",
     "source": "Workable: Ndax [ndax]",
     "location": "Spain",
-    "department": [],
+    "department": null,
     "active": true,
     "slug": "manager51717"
   },
@@ -62850,10 +62934,12 @@
     "title": "Product Designer",
     "company": "Ajaib Crypto",
     "link": "https://apply.workable.com/j/F5FE07C09F",
-    "date": "2024-08-10",
+    "date": "2024-08-10T00:00:00.000Z",
     "source": "Workable: Ajaib Crypto [ajaib]",
     "location": "Jakarta, Indonesia",
-    "department": "Design",
+    "department": [
+      "Design"
+    ],
     "active": true,
     "slug": "product7c09f"
   },
@@ -64648,10 +64734,12 @@
     "title": "Senior React Native Developer",
     "company": "Ndax",
     "link": "https://apply.workable.com/j/23C1FEC0D9",
-    "date": "2021-12-24",
+    "date": "2021-12-24T00:00:00.000Z",
     "source": "Workable: Ndax [ndax]",
     "location": "Calgary, Canada",
-    "department": "IT & Development",
+    "department": [
+      "IT & Development"
+    ],
     "active": true,
     "slug": "developerec0d9"
   },

@@ -464,6 +464,7 @@ async function refreshJobsCache() {
     { board: 'bcbgroup', company: 'BCB Group' },
     { board: 'block', company: 'Block' },
     // --- New web3 Greenhouse feeds ---
+    { board: 'b2c2', company: 'B2C2' },
     { board: 'ritual', company: 'Ritual' },
     { board: 'gensyn', company: 'Gensyn' },
     { board: 'copperco', company: 'Copper.co' },
@@ -710,6 +711,7 @@ async function refreshJobsCache() {
     { board: 'skip', company: 'Skip Protocol' },
     { board: 'foundation', company: 'Foundation' },
     { board: 'river', company: 'River Financial' },
+    { board: 'arch', company: 'Arch Network' },
     { board: 'satoshilabs', company: 'Trezor' },
     { board: 'risklabs', company: 'Across Protocol' },
 
