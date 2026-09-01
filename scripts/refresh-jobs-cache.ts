@@ -437,6 +437,8 @@ async function refreshJobsCache() {
     { board: 'messari', company: 'Messari' },
 
     { board: 'coinbase', company: 'Coinbase' },
+    { board: 'paradigm', company: 'Paradigm' },
+    { board: 'openzeppelin', company: 'OpenZeppelin' },
     { board: 'ripple', company: 'Ripple' },
     { board: 'robinhood', company: 'Robinhood' },
     { board: 'bitgo', company: 'BitGo' },
@@ -597,6 +599,7 @@ async function refreshJobsCache() {
     // --- New Web3 companies ---
     { board: 'wintermute-trading', company: 'Wintermute' },
     { board: 'superstate', company: 'Superstate' },
+    { board: 'ethena', company: 'Ethena Labs' },
     { board: 'offchainlabs', company: 'Offchain Labs' },
     { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
     { board: 'animocabrands', company: 'Animoca Brands' },
@@ -688,6 +691,10 @@ async function refreshJobsCache() {
     { board: 'fleek', company: 'Fleek' },
     { board: 'lens', company: 'Lens Protocol' },
     { board: 'delphi', company: 'Delphi Digital' },
+    { board: 'turnkey', company: 'Turnkey' },
+    { board: 'parity', company: 'Parity Technologies' },
+    { board: 'dune', company: 'Dune' },
+    { board: 'nethermind', company: 'Nethermind' },
     { board: 'satoshilabs', company: 'Trezor' },
     { board: 'risklabs', company: 'Across Protocol' },
 
@@ -945,6 +952,8 @@ async function refreshJobsCache() {
   // --- Workable API Sources ---
   const WORKABLE_BOARDS = [
     { board: 'mudrex', company: 'Mudrex' },
+    { board: 'trailofbits', company: 'Trail of Bits' },
+    { board: 'safeglobal', company: 'Safe' },
     { board: 'bitfinex', company: 'Bitfinex' },
     { board: 'zebpay', company: 'ZebPay' },
 
