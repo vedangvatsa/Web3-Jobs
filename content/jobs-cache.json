@@ -528,6 +528,18 @@
     "slug": "engineere3ac7"
   },
   {
+    "id": "5fe49c1e-e380-4650-9966-11dd7ab90dd6",
+    "title": "Account Executive (SF)",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/5fe49c1e-e380-4650-9966-11dd7ab90dd6",
+    "date": "2026-08-31T17:18:06.864+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Sales",
+    "active": true,
+    "slug": "sales90dd6"
+  },
+  {
     "id": "5406251008",
     "title": "Staff Software Engineer, Go-to-Market Systems & AI",
     "company": "Block",
@@ -1596,6 +1608,18 @@
     "slug": "sales0a3ea"
   },
   {
+    "id": "655962db-5fbe-40cc-a072-9522295b3cbc",
+    "title": "Software Engineer, Product",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/655962db-5fbe-40cc-a072-9522295b3cbc",
+    "date": "2026-08-28T14:25:04.676+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Engineering",
+    "active": true,
+    "slug": "productb3cbc"
+  },
+  {
     "id": "b6994b6a-0b46-4311-b0f6-3b71d9b5ded9",
     "title": "Senior International Sales Recruiter, UK/EMEA",
     "company": "TRM Labs",
@@ -2160,6 +2184,18 @@
     "department": "Design",
     "active": true,
     "slug": "sports51692"
+  },
+  {
+    "id": "6b4c450d-ab42-426e-afef-32396b9560a6",
+    "title": "Revenue Operations Specialist",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/6b4c450d-ab42-426e-afef-32396b9560a6",
+    "date": "2026-08-27T19:17:55.860+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Sales",
+    "active": true,
+    "slug": "operations560a6"
   },
   {
     "id": "6056becb-e8be-4b47-ad5c-bc7e2ee743d9",
@@ -4058,20 +4094,6 @@
     "slug": "compliance7e38e"
   },
   {
-    "id": "5391770DC3",
-    "title": "General Manager - Custody & Compliance",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/5391770DC3",
-    "date": "2026-08-26T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "IT"
-    ],
-    "active": true,
-    "slug": "compliance156"
-  },
-  {
     "id": "550AE1666F",
     "title": "General Manager - Cards",
     "company": "GoMining",
@@ -4084,6 +4106,20 @@
     ],
     "active": true,
     "slug": "manager573"
+  },
+  {
+    "id": "5391770DC3",
+    "title": "General Manager - Custody & Compliance",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/5391770DC3",
+    "date": "2026-08-26T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "IT"
+    ],
+    "active": true,
+    "slug": "compliance156"
   },
   {
     "id": "6339EDB037",
@@ -4135,6 +4171,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "engineer857"
+  },
+  {
+    "id": "300d33a7-fc93-4f4a-828e-f3482edd5f89",
+    "title": "Brand Designer",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/300d33a7-fc93-4f4a-828e-f3482edd5f89",
+    "date": "2026-08-25T22:09:43.631+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Design",
+    "active": true,
+    "slug": "designerd5f89"
   },
   {
     "id": "4382521009",
@@ -4615,18 +4663,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "senior69"
-  },
-  {
-    "id": "8156996",
-    "title": "Account Executive, SMB (Grower)",
-    "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8156996",
-    "date": "2026-08-25T12:56:13-04:00",
-    "source": "Greenhouse: Stripe [stripe]",
-    "location": "Chicago",
-    "department": "1651 Velocity - Account Executives (NA)",
-    "active": true,
-    "slug": "sales56996"
   },
   {
     "id": "b98aa9016f2d",
@@ -7174,6 +7210,18 @@
     "slug": "compliance145"
   },
   {
+    "id": "2658cf22-7b84-4f71-9dc1-987d05781fb8",
+    "title": "Product Manager, Growth - Lifecycle",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/2658cf22-7b84-4f71-9dc1-987d05781fb8",
+    "date": "2026-08-20T23:57:47.072+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "San Francisco",
+    "department": "Product",
+    "active": true,
+    "slug": "product81fb8"
+  },
+  {
     "id": "8142118",
     "title": "Senior HRIS Administrator II",
     "company": "Consensys",
@@ -7474,16 +7522,16 @@
     "slug": "product677"
   },
   {
-    "id": "8138000",
+    "id": "8103952",
     "title": "Communities Partner Development Manager, SaaS Platforms",
     "company": "Stripe",
-    "link": "https://stripe.com/jobs/search?gh_jid=8138000",
-    "date": "2026-08-20T12:59:03-04:00",
+    "link": "https://stripe.com/jobs/search?gh_jid=8103952",
+    "date": "2026-08-20T12:54:21-04:00",
     "source": "Greenhouse: Stripe [stripe]",
     "location": "US-Remote",
     "department": "1630 Alliances & Channels",
     "active": true,
-    "slug": "product38000"
+    "slug": "product03952"
   },
   {
     "id": "1285aefc-d2c4-4f7c-8357-6e8f97fb22d4",
@@ -7998,17 +8046,6 @@
     "slug": "analyst159"
   },
   {
-    "id": "JR101119",
-    "title": "Senior Analyst, Network Onboarding",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Delhi - remote first in India",
-    "active": true,
-    "slug": "onboarding12"
-  },
-  {
     "id": "JR101116",
     "title": "Senior Director, Ecosystem Growth, South Korea",
     "company": "Circle",
@@ -8029,6 +8066,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "manager534"
+  },
+  {
+    "id": "JR101119",
+    "title": "Senior Analyst, Network Onboarding",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Delhi---remote-first-in-India/Senior-Analyst--Network-Onboarding_JR101119",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Delhi - remote first in India",
+    "active": true,
+    "slug": "onboarding12"
   },
   {
     "id": "1fd65f6d-95f0-4190-98c0-788f4df7b61e",
@@ -8113,6 +8161,18 @@
     "department": "IT Support",
     "active": true,
     "slug": "it5c5c4"
+  },
+  {
+    "id": "fb9a1183-3932-4a5f-83e7-65eac64da966",
+    "title": "Payments & Risk Operations Manager",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/fb9a1183-3932-4a5f-83e7-65eac64da966",
+    "date": "2026-08-19T22:30:06.101+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Bay Area or Remote",
+    "department": "Strategy & Operations",
+    "active": true,
+    "slug": "managerda966"
   },
   {
     "id": "5395526008",
@@ -9114,6 +9174,18 @@
     "slug": "operations116"
   },
   {
+    "id": "01b8f45c-cb9b-4255-ad2d-c9ac1e5c4b2f",
+    "title": "Media Software Engineer, Speech (Senior-Staff Levels)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/01b8f45c-cb9b-4255-ad2d-c9ac1e5c4b2f",
+    "date": "2026-08-18T19:27:10.808+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Sunnyvale",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineerc4b2f"
+  },
+  {
     "id": "8139998",
     "title": "Product Analytics - Developer Experience, Bridge",
     "company": "Stripe",
@@ -9232,6 +9304,18 @@
     "department": "Engineering Excellence",
     "active": true,
     "slug": "engineer808"
+  },
+  {
+    "id": "e236a9ba-b4a1-4eba-be63-92d724eae247",
+    "title": "Sr. Customer Experience Specialist",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/e236a9ba-b4a1-4eba-be63-92d724eae247",
+    "date": "2026-08-18T16:04:22.263+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "srae247"
   },
   {
     "id": "4703919006",
@@ -9798,6 +9882,18 @@
     "slug": "manager516"
   },
   {
+    "id": "c795775b-536b-4df2-aa93-bc2fd6411c3d",
+    "title": "Videographer and Content Creator",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/c795775b-536b-4df2-aa93-bc2fd6411c3d",
+    "date": "2026-08-17T22:28:20.312+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Growth",
+    "active": true,
+    "slug": "videographer11c3d"
+  },
+  {
     "id": "8137997",
     "title": "Machine Learning Engineer",
     "company": "Stripe",
@@ -9918,6 +10014,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "rust23"
+  },
+  {
+    "id": "8128772",
+    "title": "Account Executive, SMB (Grower)",
+    "company": "Stripe",
+    "link": "https://stripe.com/jobs/search?gh_jid=8128772",
+    "date": "2026-08-17T15:45:44-04:00",
+    "source": "Greenhouse: Stripe [stripe]",
+    "location": "Chicago",
+    "department": "1651 Velocity - Account Executives (NA)",
+    "active": true,
+    "slug": "sales28772"
   },
   {
     "id": "5373712008",
@@ -11048,7 +11156,7 @@
   },
   {
     "id": "8041076",
-    "title": "Account Executive, Crypto/Stablecoins",
+    "title": "Account Executive, Privy",
     "company": "Stripe",
     "link": "https://stripe.com/jobs/search?gh_jid=8041076",
     "date": "2026-08-14T03:45:58-04:00",
@@ -11674,6 +11782,18 @@
     "department": "Expansion",
     "active": true,
     "slug": "manager486"
+  },
+  {
+    "id": "6ed7aaa2-8144-411a-8a4c-646b0c48a75d",
+    "title": "Manager, Account Management",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/6ed7aaa2-8144-411a-8a4c-646b0c48a75d",
+    "date": "2026-08-13T14:12:16.915+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "manager8a75d"
   },
   {
     "id": "8121419",
@@ -17341,20 +17461,6 @@
     "slug": "engineer701"
   },
   {
-    "id": "91177F2914",
-    "title": "Head of Product Marketing (Core)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/91177F2914",
-    "date": "2026-08-05T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "Marketing"
-    ],
-    "active": true,
-    "slug": "product556"
-  },
-  {
     "id": "9CB0EE3B47",
     "title": "Head of Product Marketing (Financial Products)",
     "company": "GoMining",
@@ -17367,6 +17473,20 @@
     ],
     "active": true,
     "slug": "product557"
+  },
+  {
+    "id": "91177F2914",
+    "title": "Head of Product Marketing (Core)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/91177F2914",
+    "date": "2026-08-05T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "Marketing"
+    ],
+    "active": true,
+    "slug": "product556"
   },
   {
     "id": "2AB065F537",
@@ -17420,6 +17540,18 @@
     "location": "Singapore - remote first in Singapore",
     "active": true,
     "slug": "product558"
+  },
+  {
+    "id": "395712e5-eff6-4b04-aaec-00fbd819547c",
+    "title": "Machine Learning Engineer - Voice Conversion",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/395712e5-eff6-4b04-aaec-00fbd819547c",
+    "date": "2026-08-04T23:27:48.136+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Remote (U.S. or Europe)",
+    "department": "Research",
+    "active": true,
+    "slug": "engineer9547c"
   },
   {
     "id": "8107302",
@@ -17624,6 +17756,18 @@
     "department": "Data",
     "active": true,
     "slug": "engineer697"
+  },
+  {
+    "id": "0d768e7f-58de-44f5-9f22-541b2f88fbe9",
+    "title": "Staff Software Engineer, Platform",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/0d768e7f-58de-44f5-9f22-541b2f88fbe9",
+    "date": "2026-08-04T16:07:13.503+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Remote (U.S. or Canada)",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer8fbe9"
   },
   {
     "id": "7974211",
@@ -18120,17 +18264,6 @@
     "slug": "engineer683"
   },
   {
-    "id": "JR101101",
-    "title": "Staff Site Reliability Engineer",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Site-Reliability-Engineer_JR101101",
-    "date": "2026-08-04",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "engineer686"
-  },
-  {
     "id": "JR101085",
     "title": "Senior Site Reliability Engineer - Infra Ops",
     "company": "Circle",
@@ -18140,6 +18273,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "engineer685"
+  },
+  {
+    "id": "JR101101",
+    "title": "Staff Site Reliability Engineer",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Staff-Site-Reliability-Engineer_JR101101",
+    "date": "2026-08-04",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "engineer686"
   },
   {
     "id": "868",
@@ -18888,17 +19032,6 @@
     "slug": "marketing169"
   },
   {
-    "id": "JR101097",
-    "title": "Senior Customer Care Advisor",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Customer-Care-Advisor_JR101097",
-    "date": "2026-08-03",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Bangalore - remote first in India",
-    "active": true,
-    "slug": "senior54"
-  },
-  {
     "id": "JR101089",
     "title": "VP of Ecosystem Growth, Brazil",
     "company": "Circle",
@@ -18908,6 +19041,17 @@
     "location": "São Paulo - remote first in Brazil",
     "active": true,
     "slug": "marketing170"
+  },
+  {
+    "id": "JR101097",
+    "title": "Senior Customer Care Advisor",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Bangalore---remote-first-in-India/Senior-Customer-Care-Advisor_JR101097",
+    "date": "2026-08-03",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Bangalore - remote first in India",
+    "active": true,
+    "slug": "senior54"
   },
   {
     "id": "4942108101",
@@ -19785,6 +19929,18 @@
     "slug": "security192"
   },
   {
+    "id": "0b1ec7c7-ca1f-4d86-9242-f6397f60ba34",
+    "title": "Machine Learning Engineer, Speech - Joint Audio-Video Modeling",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/0b1ec7c7-ca1f-4d86-9242-f6397f60ba34",
+    "date": "2026-07-30T18:31:59.642+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Remote (U.S. or Europe)",
+    "department": "Research",
+    "active": true,
+    "slug": "engineer0ba34"
+  },
+  {
     "id": "393e1975-b910-45cd-b835-926cd35fa540",
     "title": "Senior Data Scientist / Analyst, Markets",
     "company": "Polymarket",
@@ -20510,6 +20666,18 @@
     "slug": "trader99"
   },
   {
+    "id": "c52f4388-9cb9-46ec-8352-751dde9dd371",
+    "title": "Channel Partnerships Lead",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/c52f4388-9cb9-46ec-8352-751dde9dd371",
+    "date": "2026-07-29T19:57:19.126+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Growth",
+    "active": true,
+    "slug": "channeldd371"
+  },
+  {
     "id": "8051630",
     "title": "Senior Manager, Recruiting",
     "company": "Coinbase",
@@ -20580,6 +20748,30 @@
     "department": "Legal",
     "active": true,
     "slug": "payments5"
+  },
+  {
+    "id": "bdcdbaaf-45f0-4912-903b-41f36df989c4",
+    "title": "TRAM Trainer - EMEA",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/bdcdbaaf-45f0-4912-903b-41f36df989c4",
+    "date": "2026-07-29T18:29:28.618+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "Europe",
+    "department": "Tax",
+    "active": true,
+    "slug": "tram989c4"
+  },
+  {
+    "id": "da63116f-e66a-4a7a-8ad4-c8545a7fc0b2",
+    "title": "TRAM Trainer",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/da63116f-e66a-4a7a-8ad4-c8545a7fc0b2",
+    "date": "2026-07-29T18:25:30.013+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "United States",
+    "department": "Tax",
+    "active": true,
+    "slug": "tramfc0b2"
   },
   {
     "id": "b8291945-567a-4ed6-8a06-3deab4e18fd7",
@@ -21684,6 +21876,18 @@
     "department": "10414 Engineering - Fintech Platform",
     "active": true,
     "slug": "engineer631"
+  },
+  {
+    "id": "e39ea193-e746-4062-b604-51ef3cb0b913",
+    "title": "Machine Learning Engineer, Ops",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/e39ea193-e746-4062-b604-51ef3cb0b913",
+    "date": "2026-07-27T22:31:13.927+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Remote (U.S. or Europe)",
+    "department": "Research",
+    "active": true,
+    "slug": "engineer0b913"
   },
   {
     "id": "8088954",
@@ -26398,6 +26602,18 @@
     "slug": "product453"
   },
   {
+    "id": "2da72d03-95cf-4bc6-9e70-f00d685267ec",
+    "title": "Mechatronics / Power Train Lead",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/2da72d03-95cf-4bc6-9e70-f00d685267ec",
+    "date": "2026-07-16T22:30:47.553+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Firmware",
+    "active": true,
+    "slug": "mechatronics267ec"
+  },
+  {
     "id": "5189260007",
     "title": "Physical Therapist Assistant",
     "company": "Oasis Network",
@@ -27072,6 +27288,18 @@
     "slug": "sales149"
   },
   {
+    "id": "09466baf-ae9d-4600-b594-a1ef3f2547e9",
+    "title": "Socials Lead",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/09466baf-ae9d-4600-b594-a1ef3f2547e9",
+    "date": "2026-07-15T17:48:45.624+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Growth",
+    "active": true,
+    "slug": "socials547e9"
+  },
+  {
     "id": "5243440008",
     "title": "Senior Machine Learning Engineer, Applied AI Quality",
     "company": "Block",
@@ -27505,6 +27733,18 @@
     "slug": "security161"
   },
   {
+    "id": "713fc1b2-f2a5-4757-9d65-f8b3a2a96147",
+    "title": "Tax Support Specialist",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/713fc1b2-f2a5-4757-9d65-f8b3a2a96147",
+    "date": "2026-07-15T01:11:18.403+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Tax",
+    "active": true,
+    "slug": "tax96147"
+  },
+  {
     "id": "4ad6cbc1-8919-43c9-9221-6fc616305347",
     "title": "Backend Architect - Pay&Card Tech",
     "company": "Binance",
@@ -27553,6 +27793,18 @@
     "department": "Product & Design",
     "active": true,
     "slug": "designer21"
+  },
+  {
+    "id": "bb940d09-1198-45b2-9fff-797ecad4a6aa",
+    "title": "E-Invoicing Lead",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/bb940d09-1198-45b2-9fff-797ecad4a6aa",
+    "date": "2026-07-14T22:58:36.165+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "United States",
+    "department": "Tax",
+    "active": true,
+    "slug": "e4a6aa"
   },
   {
     "id": "8054481",
@@ -28266,6 +28518,18 @@
     "slug": "rust15"
   },
   {
+    "id": "0d0886c2-cf9e-485e-90bf-2b77282fd45e",
+    "title": "Product Manager - Growth",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/0d0886c2-cf9e-485e-90bf-2b77282fd45e",
+    "date": "2026-07-13T16:20:41.444+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Product",
+    "active": true,
+    "slug": "productfd45e"
+  },
+  {
     "id": "e5eff614-f469-4a08-a0fd-4976200f8c77",
     "title": "Head of Cyber Missions",
     "company": "TRM Labs",
@@ -28748,6 +29012,18 @@
     "slug": "manager304"
   },
   {
+    "id": "8e83f7a5-e7d4-4371-ad5e-a017d77981d9",
+    "title": "Director, Brand Marketing",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/8e83f7a5-e7d4-4371-ad5e-a017d77981d9",
+    "date": "2026-07-10T20:14:26.740+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Los Angeles",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing981d9"
+  },
+  {
     "id": "8055526",
     "title": "Manager of Response, Automation, Intelligence & Detection Engineering",
     "company": "Robinhood",
@@ -29093,6 +29369,30 @@
     "department": "IT",
     "active": true,
     "slug": "engineer528"
+  },
+  {
+    "id": "28ab1283-fa8a-4629-a39b-8df77c8d3060",
+    "title": "Marketing Operations Lead",
+    "company": "Movement Labs",
+    "link": "https://jobs.ashbyhq.com/movement/28ab1283-fa8a-4629-a39b-8df77c8d3060",
+    "date": "2026-07-09T18:18:19.636+00:00",
+    "source": "Ashby: Movement Labs [movement]",
+    "location": "Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketingd3060"
+  },
+  {
+    "id": "62c642a3-91ac-4e4d-bc06-9259103091ac",
+    "title": "Partner Marketing Manager",
+    "company": "Movement Labs",
+    "link": "https://jobs.ashbyhq.com/movement/62c642a3-91ac-4e4d-bc06-9259103091ac",
+    "date": "2026-07-09T18:11:40.254+00:00",
+    "source": "Ashby: Movement Labs [movement]",
+    "location": "Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing091ac"
   },
   {
     "id": "00f8b681-2d71-497b-9cde-96785ed0dcdb",
@@ -30943,6 +31243,18 @@
     "slug": "product411"
   },
   {
+    "id": "36b6d184-cc4c-4ede-97d5-649914d5b04e",
+    "title": "Senior Creative Strategist, Performance Marketing",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/36b6d184-cc4c-4ede-97d5-649914d5b04e",
+    "date": "2026-07-06T19:09:14.880+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing5b04e"
+  },
+  {
     "id": "8611307002",
     "title": "Machine Learning Engineer",
     "company": "Jane Street",
@@ -31290,6 +31602,18 @@
     "slug": "manager286"
   },
   {
+    "id": "9c8bafa0-5e64-41c4-b09a-8236cd8d210d",
+    "title": "Product Design Engineer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/9c8bafa0-5e64-41c4-b09a-8236cd8d210d",
+    "date": "2026-07-03T18:43:36.095+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "active": true,
+    "slug": "productd210d"
+  },
+  {
     "id": "8045360",
     "title": "Business Analyst",
     "company": "Blockchain.com",
@@ -31528,6 +31852,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "engineerd8f61"
+  },
+  {
+    "id": "99e36078-2386-420b-8b82-44d81ee7df16",
+    "title": "Staff Software Engineer, Backend",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/99e36078-2386-420b-8b82-44d81ee7df16",
+    "date": "2026-07-02T22:27:18.056+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Los Angeles or San Francisco",
+    "department": "Engineering",
+    "active": true,
+    "slug": "backend7df16"
   },
   {
     "id": "8042723",
@@ -32754,6 +33090,20 @@
     "slug": "control1"
   },
   {
+    "id": "2D8F619740",
+    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D8F619740",
+    "date": "2026-06-30T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Dubai, United Arab Emirates",
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "slug": "product384"
+  },
+  {
     "id": "2D1288EA7F",
     "title": "Regional Merchant Business Development Manager (Miami USA)",
     "company": "GoMining",
@@ -32780,20 +33130,6 @@
     ],
     "active": true,
     "slug": "product385"
-  },
-  {
-    "id": "2D8F619740",
-    "title": "Regional Merchant Business Development Manager (Dubai UAE)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D8F619740",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Dubai, United Arab Emirates",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product384"
   },
   {
     "id": "JR101069",
@@ -33696,6 +34032,18 @@
     "slug": "backend74"
   },
   {
+    "id": "33506450-8368-4f73-90fa-4646a73da889",
+    "title": "SALT Lead",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/33506450-8368-4f73-90fa-4646a73da889",
+    "date": "2026-06-26T13:19:54.068+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "United States",
+    "department": "Tax",
+    "active": true,
+    "slug": "saltda889"
+  },
+  {
     "id": "7786596003",
     "title": "Senior Agent, Customer Service (Spanish Speaker)",
     "company": "OKX",
@@ -33802,6 +34150,18 @@
     "department": "AI",
     "active": true,
     "slug": "product370"
+  },
+  {
+    "id": "c64eb572-bb43-4cb8-9724-df7abbdf640b",
+    "title": "GTM Engineer",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/c64eb572-bb43-4cb8-9724-df7abbdf640b",
+    "date": "2026-06-26T01:36:39.573+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Growth",
+    "active": true,
+    "slug": "engineerf640b"
   },
   {
     "id": "7738118003",
@@ -34449,6 +34809,18 @@
     "department": "Marketing",
     "active": true,
     "slug": "manager262"
+  },
+  {
+    "id": "fbd94710-ff3e-4747-9bbc-bec864b77f58",
+    "title": "General Engineering Application",
+    "company": "Tenderly",
+    "link": "https://jobs.ashbyhq.com/tenderly/fbd94710-ff3e-4747-9bbc-bec864b77f58",
+    "date": "2026-06-24T07:34:40.578+00:00",
+    "source": "Ashby: Tenderly [tenderly]",
+    "location": "Belgrade/Europe/USA",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer77f58"
   },
   {
     "id": "7782668003",
@@ -35250,15 +35622,15 @@
     "slug": "frontend104"
   },
   {
-    "id": "JR100838",
-    "title": "Senior Smart Contract Engineer",
+    "id": "JR101071",
+    "title": "Senior Counsel, Transactions, (Enterprise, Payments, and Ecosystem)",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Taipei-City---remote-first-in-Taiwan/Senior-Smart-Contract-Engineer_JR100838-1",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-Counsel--Transactions---Enterprise--Payments--and-Ecosystem-_JR101071",
     "date": "2026-06-22",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "Taipei City - remote first in Taiwan",
+    "location": "New York City - remote first in US",
     "active": true,
-    "slug": "engineer435"
+    "slug": "senior34"
   },
   {
     "id": "JR101060",
@@ -35272,15 +35644,15 @@
     "slug": "security130"
   },
   {
-    "id": "JR101071",
-    "title": "Senior Counsel, Transactions, (Enterprise, Payments, and Ecosystem)",
+    "id": "JR100838",
+    "title": "Senior Smart Contract Engineer",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/New-York-City---remote-first-in-US/Senior-Counsel--Transactions---Enterprise--Payments--and-Ecosystem-_JR101071",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Taipei-City---remote-first-in-Taiwan/Senior-Smart-Contract-Engineer_JR100838-1",
     "date": "2026-06-22",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "New York City - remote first in US",
+    "location": "Taipei City - remote first in Taiwan",
     "active": true,
-    "slug": "senior34"
+    "slug": "engineer435"
   },
   {
     "id": "306",
@@ -36111,6 +36483,18 @@
     "department": "Tech Support",
     "active": true,
     "slug": "engineer421"
+  },
+  {
+    "id": "e980bd36-e724-4970-bd5c-27ac5d873aed",
+    "title": "Product Manager, Web",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/e980bd36-e724-4970-bd5c-27ac5d873aed",
+    "date": "2026-06-18T02:42:15.980+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "California",
+    "department": "Product",
+    "active": true,
+    "slug": "product73aed"
   },
   {
     "id": "7777029003",
@@ -38747,6 +39131,54 @@
     "slug": "head38"
   },
   {
+    "id": "583fbd61-f585-4810-af65-e6be74c28311",
+    "title": "Head of Finance",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/583fbd61-f585-4810-af65-e6be74c28311",
+    "date": "2026-06-09T18:05:34.622+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Finance",
+    "active": true,
+    "slug": "head28311"
+  },
+  {
+    "id": "3b35cb12-bccd-493e-9811-ea6090205283",
+    "title": "Controller",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/3b35cb12-bccd-493e-9811-ea6090205283",
+    "date": "2026-06-09T18:04:00.215+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Finance",
+    "active": true,
+    "slug": "controller05283"
+  },
+  {
+    "id": "47706ef6-2b88-4953-af98-65f3663e46fd",
+    "title": "Product Marketing Manager",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/47706ef6-2b88-4953-af98-65f3663e46fd",
+    "date": "2026-06-09T17:52:26.352+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Growth",
+    "active": true,
+    "slug": "producte46fd"
+  },
+  {
+    "id": "8c0312f2-4594-4dd6-94af-2458c94d22e5",
+    "title": "Head of Demand Generation",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/8c0312f2-4594-4dd6-94af-2458c94d22e5",
+    "date": "2026-06-09T17:51:58.455+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Growth",
+    "active": true,
+    "slug": "headd22e5"
+  },
+  {
     "id": "7993151",
     "title": "Account Executive - Enterprise, Grower",
     "company": "Stripe",
@@ -39263,6 +39695,18 @@
     "slug": "backend67"
   },
   {
+    "id": "ed63644c-accf-407b-a8cd-31d0bb9c26da",
+    "title": "Infrastructure Security Engineer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/ed63644c-accf-407b-a8cd-31d0bb9c26da",
+    "date": "2026-06-08T17:36:37.644+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Software",
+    "active": true,
+    "slug": "devopsc26da"
+  },
+  {
     "id": "f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc",
     "title": "Software Engineer, Onboarding",
     "company": "Ramp",
@@ -39623,6 +40067,18 @@
     "department": "Marketing",
     "active": true,
     "slug": "designer17"
+  },
+  {
+    "id": "be607bee-0548-4733-9d47-bce0aeac4429",
+    "title": "Tax Operations Specialist",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/be607bee-0548-4733-9d47-bce0aeac4429",
+    "date": "2026-06-05T17:35:08.005+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "operationsc4429"
   },
   {
     "id": "5183427008",
@@ -40643,6 +41099,18 @@
     "department": "Partnerships",
     "active": true,
     "slug": "strategic2"
+  },
+  {
+    "id": "1670f730-5ed7-4462-b2b8-0d0494758360",
+    "title": "Senior Software Engineer, Product",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/1670f730-5ed7-4462-b2b8-0d0494758360",
+    "date": "2026-06-02T19:02:24.047+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Engineering",
+    "active": true,
+    "slug": "product58360"
   },
   {
     "id": "5231316008",
@@ -42470,6 +42938,18 @@
     "slug": "marketing67"
   },
   {
+    "id": "35e9e1d7-ebf9-4a4d-bda8-ea2328a1a8a1",
+    "title": "Customer Activations Manager",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/35e9e1d7-ebf9-4a4d-bda8-ea2328a1a8a1",
+    "date": "2026-05-22T15:16:17.042+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "manager1a8a1"
+  },
+  {
     "id": "6002028004",
     "title": "Product Manager, Accounts",
     "company": "Alpaca",
@@ -43170,6 +43650,18 @@
     "slug": "sales70"
   },
   {
+    "id": "dc2bfc5f-b716-4712-b8d0-f9c15ddc44d7",
+    "title": "Hardware Reliability Engineer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/dc2bfc5f-b716-4712-b8d0-f9c15ddc44d7",
+    "date": "2026-05-19T23:52:32.274+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "active": true,
+    "slug": "engineerc44d7"
+  },
+  {
     "id": "fe935559-4209-4736-baa8-6d2478d424ba",
     "title": "Cloud Partnerships",
     "company": "Parallel",
@@ -43252,6 +43744,18 @@
     "department": "20249 S&M - Sales - Square Field Sales",
     "active": true,
     "slug": "sales69"
+  },
+  {
+    "id": "fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "title": "Android Engineer (Senior-Staff Levels)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "date": "2026-05-19T16:44:48.031+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Los Angeles or San Francisco",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineere2432"
   },
   {
     "id": "2609046",
@@ -43918,30 +44422,6 @@
     "slug": "backend62"
   },
   {
-    "id": "278",
-    "title": "Country Manager – Philippines",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/278",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Philippines",
-    "department": "Leadership",
-    "active": true,
-    "slug": "manager278"
-  },
-  {
-    "id": "274",
-    "title": "Junior Product Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/274",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "United Arab Emirates",
-    "department": "Product",
-    "active": true,
-    "slug": "product274-1ldu"
-  },
-  {
     "id": "276",
     "title": "Lifecycle Marketing Associate",
     "company": "Fasset",
@@ -43952,30 +44432,6 @@
     "department": "Marketing",
     "active": true,
     "slug": "marketing276"
-  },
-  {
-    "id": "281",
-    "title": "Country Manager – Japan",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/281",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Japan",
-    "department": null,
-    "active": true,
-    "slug": "manager281-0g17"
-  },
-  {
-    "id": "279",
-    "title": "Country Manager – Nigeria",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/279",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Nigeria",
-    "department": null,
-    "active": true,
-    "slug": "manager279-1hrz"
   },
   {
     "id": "280",
@@ -43990,6 +44446,54 @@
     "slug": "manager280-0fr8"
   },
   {
+    "id": "274",
+    "title": "Junior Product Manager",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/274",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "United Arab Emirates",
+    "department": "Product",
+    "active": true,
+    "slug": "product274-1ldu"
+  },
+  {
+    "id": "279",
+    "title": "Country Manager – Nigeria",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/279",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Nigeria",
+    "department": null,
+    "active": true,
+    "slug": "manager279-1hrz"
+  },
+  {
+    "id": "281",
+    "title": "Country Manager – Japan",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/281",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Japan",
+    "department": null,
+    "active": true,
+    "slug": "manager281-0g17"
+  },
+  {
+    "id": "278",
+    "title": "Country Manager – Philippines",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/278",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Philippines",
+    "department": "Leadership",
+    "active": true,
+    "slug": "manager278"
+  },
+  {
     "id": "291",
     "title": "Community Ambassador (Worldwide)",
     "company": "Fasset",
@@ -44002,27 +44506,27 @@
     "slug": "community291"
   },
   {
-    "id": "298",
-    "title": "Partnership Manager",
+    "id": "282",
+    "title": "Country Manager – UAE",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/298",
+    "link": "https://fasset.bamboohr.com/careers/282",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "department": "Growth & Marketing",
-    "active": true,
-    "slug": "manager298-0jn5"
-  },
-  {
-    "id": "286",
-    "title": "Country Manager – Ghana",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/286",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Ghana",
+    "location": "United Arab Emirates",
     "department": null,
     "active": true,
-    "slug": "manager286-0gb7"
+    "slug": "manager282-0f79"
+  },
+  {
+    "id": "283",
+    "title": "Country Manager – Indonesia",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/283",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "department": null,
+    "active": true,
+    "slug": "manager283-0fh8"
   },
   {
     "id": "285",
@@ -44037,17 +44541,6 @@
     "slug": "manager285-0h56"
   },
   {
-    "id": "283",
-    "title": "Country Manager – Indonesia",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/283",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": null,
-    "active": true,
-    "slug": "manager283-0fh8"
-  },
-  {
     "id": "284",
     "title": "Country Manager – Uganda",
     "company": "Fasset",
@@ -44060,16 +44553,27 @@
     "slug": "manager284-0gv6"
   },
   {
-    "id": "282",
-    "title": "Country Manager – UAE",
+    "id": "286",
+    "title": "Country Manager – Ghana",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/282",
+    "link": "https://fasset.bamboohr.com/careers/286",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "United Arab Emirates",
+    "location": "Ghana",
     "department": null,
     "active": true,
-    "slug": "manager282-0f79"
+    "slug": "manager286-0gb7"
+  },
+  {
+    "id": "298",
+    "title": "Partnership Manager",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/298",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "department": "Growth & Marketing",
+    "active": true,
+    "slug": "manager298-0jn5"
   },
   {
     "id": "5221431008",
@@ -44610,6 +45114,30 @@
     "department": "Marketing",
     "active": true,
     "slug": "binance4ac08"
+  },
+  {
+    "id": "f770b6c6-3781-4172-908e-32924531e5b3",
+    "title": "Machine Learning Engineer (Singapore)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/f770b6c6-3781-4172-908e-32924531e5b3",
+    "date": "2026-05-12T23:29:58.543+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Singapore",
+    "department": "Research",
+    "active": true,
+    "slug": "engineer1e5b3"
+  },
+  {
+    "id": "7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
+    "title": "Research Scientist (Singapore)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
+    "date": "2026-05-12T23:28:06.437+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Singapore",
+    "department": "Research",
+    "active": true,
+    "slug": "researchdfb3b"
   },
   {
     "id": "b4cbb19e-8249-4339-8eac-20e3806d7999",
@@ -45536,6 +46064,17 @@
     "slug": "securityaa8f2"
   },
   {
+    "id": "141",
+    "title": "Product Engineer (Data Indexing)",
+    "company": "Chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/141",
+    "date": "2026-05-07",
+    "source": "BambooHR: Chainstack [chainstack]",
+    "department": "Software Engineering Team",
+    "active": true,
+    "slug": "product240"
+  },
+  {
     "id": "142",
     "title": "Web Marketing Specialist",
     "company": "Chainstack",
@@ -45547,15 +46086,16 @@
     "slug": "marketing57"
   },
   {
-    "id": "141",
-    "title": "Product Engineer (Data Indexing)",
-    "company": "Chainstack",
-    "link": "https://chainstack.bamboohr.com/careers/141",
-    "date": "2026-05-07",
-    "source": "BambooHR: Chainstack [chainstack]",
-    "department": "Software Engineering Team",
+    "id": "27e619ca-d0d6-4621-9e37-de4b7a08a47b",
+    "title": "Robotics Generalist",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/27e619ca-d0d6-4621-9e37-de4b7a08a47b",
+    "date": "2026-05-06T22:54:18.937+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Software",
     "active": true,
-    "slug": "product240"
+    "slug": "robotics8a47b"
   },
   {
     "id": "4861011101",
@@ -45788,6 +46328,30 @@
     "slug": "manager129"
   },
   {
+    "id": "765a0eca-f868-4ed2-a1ac-98911e1e2b7b",
+    "title": "Protocol Software Engineer - Storage",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/765a0eca-f868-4ed2-a1ac-98911e1e2b7b",
+    "date": "2026-05-05T15:57:48.160+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineere2b7b"
+  },
+  {
+    "id": "7ff2c817-db4b-43c4-8d96-7cb2f0a57f3a",
+    "title": "Sr. Software Engineer - Trading Infrastructure",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/7ff2c817-db4b-43c4-8d96-7cb2f0a57f3a",
+    "date": "2026-05-05T15:27:40.713+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Engineering",
+    "active": true,
+    "slug": "devops57f3a"
+  },
+  {
     "id": "5988497004",
     "title": "Associate, Venture Investor",
     "company": "Galaxy Digital",
@@ -45798,6 +46362,18 @@
     "department": "Ventures",
     "active": true,
     "slug": "associate13"
+  },
+  {
+    "id": "e2745342-440d-4303-9ecf-4b0f10627afb",
+    "title": "Senior / Staff Engineer - Platform",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/e2745342-440d-4303-9ecf-4b0f10627afb",
+    "date": "2026-05-05T14:50:34.535+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer27afb"
   },
   {
     "id": "a1124a16-3dfe-4547-b0e9-90aa402ebfde",
@@ -46064,6 +46640,30 @@
     "department": "4135 SDC - Marketing",
     "active": true,
     "slug": "art1"
+  },
+  {
+    "id": "ebafd339-34e1-4f46-bc25-92057d4dd50f",
+    "title": "Security Engineer",
+    "company": "Movement Labs",
+    "link": "https://jobs.ashbyhq.com/movement/ebafd339-34e1-4f46-bc25-92057d4dd50f",
+    "date": "2026-05-04T01:35:32.759+00:00",
+    "source": "Ashby: Movement Labs [movement]",
+    "location": "United States",
+    "department": "Engineering",
+    "active": true,
+    "slug": "securitydd50f"
+  },
+  {
+    "id": "636ca210-6e1f-481f-bb90-01c6b9c77185",
+    "title": "Quantum Cryptography Engineer",
+    "company": "Movement Labs",
+    "link": "https://jobs.ashbyhq.com/movement/636ca210-6e1f-481f-bb90-01c6b9c77185",
+    "date": "2026-05-04T01:30:21.500+00:00",
+    "source": "Ashby: Movement Labs [movement]",
+    "location": "United States",
+    "department": "Engineering",
+    "active": true,
+    "slug": "cryptography77185"
   },
   {
     "id": "4856979101",
@@ -46486,6 +47086,18 @@
     "slug": "backend55"
   },
   {
+    "id": "d25a9497-c9e8-4f2e-84fd-087b46a49957",
+    "title": "Machine Learning Engineer, TTS",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/d25a9497-c9e8-4f2e-84fd-087b46a49957",
+    "date": "2026-04-29T23:19:06.954+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Europe",
+    "department": "Research",
+    "active": true,
+    "slug": "engineer49957"
+  },
+  {
     "id": "7838593",
     "title": "International Accounting Lead",
     "company": "Stripe",
@@ -46580,6 +47192,18 @@
     "department": "1141 AMER Delivery",
     "active": true,
     "slug": "engineer290"
+  },
+  {
+    "id": "7be9f110-9fc9-47ff-84e8-d3869ff76f73",
+    "title": "Machine Learning Engineer, Core Evaluations",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/7be9f110-9fc9-47ff-84e8-d3869ff76f73",
+    "date": "2026-04-29T15:47:28.750+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Europe",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer76f73"
   },
   {
     "id": "fb9d588a-e49e-4496-a464-9c6c5cc4ca46",
@@ -46832,6 +47456,18 @@
     "department": "4135 SDC - Marketing",
     "active": true,
     "slug": "marketing55"
+  },
+  {
+    "id": "9e1defbe-b135-4117-90b0-06548fa75fa7",
+    "title": "AI Agent Infrastructure Lead",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/9e1defbe-b135-4117-90b0-06548fa75fa7",
+    "date": "2026-04-28T01:17:10.430+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Engineering",
+    "active": true,
+    "slug": "devops75fa7"
   },
   {
     "id": "D2A3EC5A27",
@@ -48106,6 +48742,18 @@
     "slug": "product200"
   },
   {
+    "id": "6aceb53e-e936-464b-9c72-a1518178e103",
+    "title": "Soft Goods Designer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/6aceb53e-e936-464b-9c72-a1518178e103",
+    "date": "2026-04-16T16:56:47.934+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "active": true,
+    "slug": "designer8e103"
+  },
+  {
     "id": "ad7d62ed-7587-4ec5-b236-d4df64b223bc",
     "title": "Growth Manager - Asia",
     "company": "Ellipsis Labs",
@@ -48238,6 +48886,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "engineer271"
+  },
+  {
+    "id": "7b5f39b0-6f3f-4bc4-9469-74ae9722d85a",
+    "title": "Founding Forward Deployed Engineer",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/7b5f39b0-6f3f-4bc4-9469-74ae9722d85a",
+    "date": "2026-04-15T15:42:31.011+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer2d85a"
   },
   {
     "id": "7784353",
@@ -48722,6 +49382,18 @@
     "slug": "engineer267"
   },
   {
+    "id": "34541a68-50a9-44c2-9651-eb3ca4a39be4",
+    "title": "Design Engineer",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/34541a68-50a9-44c2-9651-eb3ca4a39be4",
+    "date": "2026-04-09T22:19:43.226+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer39be4"
+  },
+  {
     "id": "f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
     "title": "Senior Software Engineer",
     "company": "Ethena Labs",
@@ -49107,6 +49779,18 @@
     "slug": "product191"
   },
   {
+    "id": "1cb2807f-2c67-4ad9-b2d6-8a70b0044c1d",
+    "title": "Firmware Engineering Lead",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/1cb2807f-2c67-4ad9-b2d6-8a70b0044c1d",
+    "date": "2026-04-07T22:45:57.054+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Firmware",
+    "active": true,
+    "slug": "engineer44c1d"
+  },
+  {
     "id": "afb16eab-ec06-4dea-bc40-146063710338",
     "title": "Commissioned Security Officer Level 3",
     "company": "Riot Platforms",
@@ -49311,39 +49995,6 @@
     "slug": "compliance31"
   },
   {
-    "id": "JR100869",
-    "title": "Principal Product Operations and Risk Analyst",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product184"
-  },
-  {
-    "id": "JR100878",
-    "title": "VP, Global Head of Product Security and Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security60"
-  },
-  {
-    "id": "JR100929",
-    "title": "Senior Manager, Partner Management, LATAM",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Senior-Manager--Partner-Management--LATAM_JR100929",
-    "date": "2026-04-06",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
-    "active": true,
-    "slug": "manager90"
-  },
-  {
     "id": "JR100477",
     "title": "Lead Product Manager, Token",
     "company": "Circle",
@@ -49353,6 +50004,17 @@
     "location": "San Francisco - remote first in US",
     "active": true,
     "slug": "product183"
+  },
+  {
+    "id": "JR100849",
+    "title": "Distinguished Software Engineer",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "frontend60"
   },
   {
     "id": "JR100014-EG",
@@ -49366,15 +50028,37 @@
     "slug": "engineer261"
   },
   {
-    "id": "JR100849",
-    "title": "Distinguished Software Engineer",
+    "id": "JR100878",
+    "title": "VP, Global Head of Product Security and Risk",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/VP--Global-Head-of-Product-Security-and-Risk_JR100878",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
     "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "frontend60"
+    "slug": "security60"
+  },
+  {
+    "id": "JR100869",
+    "title": "Principal Product Operations and Risk Analyst",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Principal-Product-Operations-and-Risk-Analyst_JR100869",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product184"
+  },
+  {
+    "id": "JR100929",
+    "title": "Senior Manager, Partner Management, LATAM",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Senior-Manager--Partner-Management--LATAM_JR100929",
+    "date": "2026-04-06",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "São Paulo - remote first in Brazil",
+    "active": true,
+    "slug": "manager90"
   },
   {
     "id": "7778643",
@@ -49459,6 +50143,18 @@
     "department": "Stablecoin Solutions",
     "active": true,
     "slug": "product181"
+  },
+  {
+    "id": "1d9bb30d-3d94-47b1-bff7-a0588741efab",
+    "title": "Member of Technical Staff, Data & ML Infrastructure for Video Models",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab",
+    "date": "2026-04-02T21:04:49.751+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Remote (U.S. or Europe)",
+    "department": "Engineering",
+    "active": true,
+    "slug": "devops1efab"
   },
   {
     "id": "7776179",
@@ -49749,6 +50445,18 @@
     "slug": "security58"
   },
   {
+    "id": "3235ed07-aa22-4309-a949-ca2504e95e8d",
+    "title": "Backend Engineer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/3235ed07-aa22-4309-a949-ca2504e95e8d",
+    "date": "2026-03-31T21:08:02.333+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Software",
+    "active": true,
+    "slug": "backend95e8d"
+  },
+  {
     "id": "7747728",
     "title": "Senior Product Manager, Money Movement",
     "company": "Robinhood",
@@ -49893,18 +50601,6 @@
     "slug": "security56"
   },
   {
-    "id": "7FBFB67147",
-    "title": "Corporate Legal Counsel",
-    "company": "Ndax",
-    "link": "https://apply.workable.com/j/7FBFB67147",
-    "date": "2026-03-31T00:00:00.000Z",
-    "source": "Workable: Ndax [ndax]",
-    "location": "Calgary, Canada",
-    "department": [],
-    "active": true,
-    "slug": "compliance67147"
-  },
-  {
     "id": "FB5DC09498",
     "title": "Product Manager",
     "company": "Ndax",
@@ -49917,6 +50613,18 @@
     ],
     "active": true,
     "slug": "product09498"
+  },
+  {
+    "id": "7FBFB67147",
+    "title": "Corporate Legal Counsel",
+    "company": "Ndax",
+    "link": "https://apply.workable.com/j/7FBFB67147",
+    "date": "2026-03-31T00:00:00.000Z",
+    "source": "Workable: Ndax [ndax]",
+    "location": "Calgary, Canada",
+    "department": [],
+    "active": true,
+    "slug": "compliance67147"
   },
   {
     "id": "67be8a23-e5f3-4701-9e1e-581300ad987b",
@@ -50013,6 +50721,18 @@
     "department": "Engineering, Procurement, and Construction",
     "active": true,
     "slug": "digital1"
+  },
+  {
+    "id": "f76a7307-658f-483b-bd72-2191866ee1cb",
+    "title": "Engineering Program Manager",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/f76a7307-658f-483b-bd72-2191866ee1cb",
+    "date": "2026-03-27T23:37:14.790+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Hardware",
+    "active": true,
+    "slug": "manageree1cb"
   },
   {
     "id": "8fa367de-71ba-409e-befd-175a163acb1b",
@@ -50937,6 +51657,18 @@
     "slug": "engineer234"
   },
   {
+    "id": "f825dad4-c9b5-4b8a-81c7-dc1c81056be6",
+    "title": "Software Engineer, Test",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/f825dad4-c9b5-4b8a-81c7-dc1c81056be6",
+    "date": "2026-03-18T20:35:43.188+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Software",
+    "active": true,
+    "slug": "engineer56be6"
+  },
+  {
     "id": "9a047e27-54dd-44df-9c0c-4ca6bc2d57bf",
     "title": "Senior Smart Contract Engineer",
     "company": "Uniswap",
@@ -51419,6 +52151,30 @@
     "slug": "sales35"
   },
   {
+    "id": "604a6231-7120-4659-8766-e22a21a0304d",
+    "title": "Motor Control Firmware Engineer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/604a6231-7120-4659-8766-e22a21a0304d",
+    "date": "2026-03-10T22:09:41.846+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco",
+    "department": "Firmware",
+    "active": true,
+    "slug": "engineer0304d"
+  },
+  {
+    "id": "2741947b-a93d-4329-82a0-65d95ec315cb",
+    "title": "Firmware Engineer",
+    "company": "Skip Protocol",
+    "link": "https://jobs.ashbyhq.com/skip/2741947b-a93d-4329-82a0-65d95ec315cb",
+    "date": "2026-03-10T22:04:38.725+00:00",
+    "source": "Ashby: Skip Protocol [skip]",
+    "location": "San Francisco or Remote",
+    "department": "Firmware",
+    "active": true,
+    "slug": "engineer315cb"
+  },
+  {
     "id": "4671558005",
     "title": "Global Currency Hedge Trader",
     "company": "DV Trading",
@@ -51779,6 +52535,18 @@
     "department": "Compliance",
     "active": true,
     "slug": "analyst21"
+  },
+  {
+    "id": "5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
+    "title": "Machine Learning Engineer, Images",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
+    "date": "2026-03-05T00:14:46.137+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "Bay Area or Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer91ea4"
   },
   {
     "id": "7594866",
@@ -52371,6 +53139,18 @@
     "slug": "product140"
   },
   {
+    "id": "733d0d82-6798-4407-8f15-28022fb74750",
+    "title": "Customer Experience Specialist",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/733d0d82-6798-4407-8f15-28022fb74750",
+    "date": "2026-02-24T18:31:20.412+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "customer74750"
+  },
+  {
     "id": "8433793002",
     "title": "Exotic Options Trader",
     "company": "Jane Street",
@@ -52661,6 +53441,18 @@
     "department": "30310 Risk - Compliance - Square",
     "active": true,
     "slug": "compliance20"
+  },
+  {
+    "id": "c7b17c18-2dde-4b83-a8a5-ff5effe94dd2",
+    "title": "Senior Backend Engineer (Infrastructure)",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/c7b17c18-2dde-4b83-a8a5-ff5effe94dd2",
+    "date": "2026-02-19T23:35:50.932+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Engineering",
+    "active": true,
+    "slug": "backend94dd2"
   },
   {
     "id": "5126540008",
@@ -53505,6 +54297,30 @@
     "slug": "product124"
   },
   {
+    "id": "2fffc9a2-7e3a-461c-8bb1-675540024014",
+    "title": "Software Engineering",
+    "company": "Foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/2fffc9a2-7e3a-461c-8bb1-675540024014",
+    "date": "2026-02-10T03:18:51.104+00:00",
+    "source": "Ashby: Foundation [foundation]",
+    "location": "San Francisco, Boulder, or Austin",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer24014"
+  },
+  {
+    "id": "e209bb72-3d83-4f74-b8de-6f44773bde6f",
+    "title": "Customer Success Manager/Lead",
+    "company": "Foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/e209bb72-3d83-4f74-b8de-6f44773bde6f",
+    "date": "2026-02-10T00:45:10.328+00:00",
+    "source": "Ashby: Foundation [foundation]",
+    "location": "San Francisco or Boulder",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "managerbde6f"
+  },
+  {
     "id": "AE58A20B2E",
     "title": "VP - OTC Sales",
     "company": "Hex Trust",
@@ -53613,6 +54429,30 @@
     "department": "Engineering",
     "active": true,
     "slug": "qa13"
+  },
+  {
+    "id": "72eaec77-893b-4bfe-a98c-47eae5f4ebb6",
+    "title": "Marketing Lead",
+    "company": "Foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/72eaec77-893b-4bfe-a98c-47eae5f4ebb6",
+    "date": "2026-02-09T01:15:10.586+00:00",
+    "source": "Ashby: Foundation [foundation]",
+    "location": "San Francisco",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing4ebb6"
+  },
+  {
+    "id": "8b4df7e0-6f71-4815-a42c-3301c6936b45",
+    "title": "Lead Designer",
+    "company": "Foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/8b4df7e0-6f71-4815-a42c-3301c6936b45",
+    "date": "2026-02-09T01:12:52.032+00:00",
+    "source": "Ashby: Foundation [foundation]",
+    "location": "San Francisco",
+    "department": "Design",
+    "active": true,
+    "slug": "designer36b45"
   },
   {
     "id": "160AADE0EF",
@@ -54087,6 +54927,18 @@
     "slug": "compliance12"
   },
   {
+    "id": "e0519cea-ad4c-4b0e-b7e7-b236adfcba76",
+    "title": "Senior Software Engineer, Protocol",
+    "company": "Movement Labs",
+    "link": "https://jobs.ashbyhq.com/movement/e0519cea-ad4c-4b0e-b7e7-b236adfcba76",
+    "date": "2026-01-28T21:14:39.732+00:00",
+    "source": "Ashby: Movement Labs [movement]",
+    "location": "United States",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineercba76"
+  },
+  {
     "id": "7608993003",
     "title": "Finance Manager",
     "company": "OKX",
@@ -54157,6 +55009,18 @@
     "department": "7420 Finance Systems",
     "active": true,
     "slug": "engineer198"
+  },
+  {
+    "id": "52104e06-f4b8-43c3-8591-ac9a7ab56ac1",
+    "title": "Founding Growth Lead",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/52104e06-f4b8-43c3-8591-ac9a7ab56ac1",
+    "date": "2026-01-28T02:00:55.474+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Growth",
+    "active": true,
+    "slug": "marketing56ac1"
   },
   {
     "id": "6500be6b-0394-4e2b-8d70-9a18eb4207bf",
@@ -54281,6 +55145,18 @@
     "department": "Workplace Services & Experience",
     "active": true,
     "slug": "manager50"
+  },
+  {
+    "id": "2d2848ff-8610-4691-ac01-4256fe4ab04b",
+    "title": "Account Manager",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/2d2848ff-8610-4691-ac01-4256fe4ab04b",
+    "date": "2026-01-26T18:19:35.600+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Customer Success",
+    "active": true,
+    "slug": "managerab04b"
   },
   {
     "id": "7558051",
@@ -55221,6 +56097,30 @@
     "slug": "manager41"
   },
   {
+    "id": "0111566c-1da6-432b-b813-f5b0a12bdcf0",
+    "title": "Backend Software Engineer - Incubations",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/0111566c-1da6-432b-b813-f5b0a12bdcf0",
+    "date": "2026-01-08T10:26:08.878+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Engineering",
+    "active": true,
+    "slug": "backendbdcf0"
+  },
+  {
+    "id": "4b01c2d8-1c06-4976-b2dc-f9a955e30beb",
+    "title": "Fullstack Software Engineer - Incubations",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/4b01c2d8-1c06-4976-b2dc-f9a955e30beb",
+    "date": "2026-01-08T09:36:48.673+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Engineering",
+    "active": true,
+    "slug": "fullstack30beb"
+  },
+  {
     "id": "432e213a-7f09-4a16-9dc0-7bcdf0ffc362",
     "title": "Business Development Manager",
     "company": "Gate.io",
@@ -56095,6 +56995,18 @@
     "slug": "manager35"
   },
   {
+    "id": "61f2278e-e41d-4627-9b7a-34adbe735a8e",
+    "title": "Product Director, Video Products",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/61f2278e-e41d-4627-9b7a-34adbe735a8e",
+    "date": "2025-12-04T23:52:15.451+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "California",
+    "department": "Product",
+    "active": true,
+    "slug": "product35a8e"
+  },
+  {
     "id": "26f87d20-56a0-48fd-a98c-13f3d6214848",
     "title": "Product Design Lead",
     "company": "Socket",
@@ -56105,6 +57017,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "product14848"
+  },
+  {
+    "id": "6fa4373f-2f5e-4fa3-9ce5-e662275ebba8",
+    "title": "Account Executive",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/6fa4373f-2f5e-4fa3-9ce5-e662275ebba8",
+    "date": "2025-12-04T18:43:07.001+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Sales",
+    "active": true,
+    "slug": "salesebba8"
   },
   {
     "id": "7277406",
@@ -57479,6 +58403,18 @@
     "slug": "product82"
   },
   {
+    "id": "8fa78ab4-b9bf-4856-995a-f0c930aefa2e",
+    "title": "Sales Development Representative",
+    "company": "RedStone Oracles",
+    "link": "https://jobs.ashbyhq.com/warp/8fa78ab4-b9bf-4856-995a-f0c930aefa2e",
+    "date": "2025-10-10T16:31:25.268+00:00",
+    "source": "Ashby: RedStone Oracles [warp]",
+    "location": "New York",
+    "department": "Sales",
+    "active": true,
+    "slug": "productefa2e"
+  },
+  {
     "id": "8c004352-f162-4d89-858f-75a649e77ec4",
     "title": "Account Executive | Commercial",
     "company": "Ramp",
@@ -57549,6 +58485,18 @@
     "department": "3510 CBO Admin",
     "active": true,
     "slug": "product81"
+  },
+  {
+    "id": "4e3c5943-bd07-4ce1-8e13-68b00221d0b7",
+    "title": "Lead AI Engineer",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/4e3c5943-bd07-4ce1-8e13-68b00221d0b7",
+    "date": "2025-10-07T05:47:03.092+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer1d0b7"
   },
   {
     "id": "7252176002",
@@ -57681,6 +58629,18 @@
     "department": "Engineering",
     "active": true,
     "slug": "fullstack8"
+  },
+  {
+    "id": "2e159b02-536e-4ce8-932a-0280af46a95d",
+    "title": "Account Executive (Europe)",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/2e159b02-536e-4ce8-932a-0280af46a95d",
+    "date": "2025-09-29T11:31:03.071+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "Europe",
+    "department": "Sales",
+    "active": true,
+    "slug": "sales6a95d"
   },
   {
     "id": "6eb1e350-71ce-47f7-a363-3fa3c521dacb",
@@ -57946,6 +58906,30 @@
     "department": "OP Labs",
     "active": true,
     "slug": "product77"
+  },
+  {
+    "id": "a19140ed-172e-4d89-a3d8-27cdc0d369fd",
+    "title": "Senior Full Stack Engineer",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/a19140ed-172e-4d89-a3d8-27cdc0d369fd",
+    "date": "2025-09-16T00:01:56.980+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Engineering",
+    "active": true,
+    "slug": "fullstack369fd"
+  },
+  {
+    "id": "bfa759a9-f19a-4030-959e-9e29d81d6879",
+    "title": "Senior Product Engineer",
+    "company": "Sphere",
+    "link": "https://jobs.ashbyhq.com/sphere/bfa759a9-f19a-4030-959e-9e29d81d6879",
+    "date": "2025-09-15T23:59:02.280+00:00",
+    "source": "Ashby: Sphere [sphere]",
+    "location": "San Francisco HQ",
+    "department": "Engineering",
+    "active": true,
+    "slug": "productd6879"
   },
   {
     "id": "da3277da-5700-4b09-88a2-590d0873c07d",
@@ -59562,6 +60546,18 @@
     "slug": "marketing13"
   },
   {
+    "id": "72cd8b10-46a3-4eff-a7ec-209843640ecc",
+    "title": "Protocol Software Engineer - Consensus",
+    "company": "Sei",
+    "link": "https://jobs.ashbyhq.com/sei-labs/72cd8b10-46a3-4eff-a7ec-209843640ecc",
+    "date": "2025-05-27T14:24:44.934+00:00",
+    "source": "Ashby: Sei [sei-labs]",
+    "location": "New York City",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer40ecc"
+  },
+  {
     "id": "acc7b3c7-a201-4c3c-a280-2f976dd7a749",
     "title": "Product Manager (Trading)",
     "company": "Coins.ph",
@@ -60874,6 +61870,18 @@
     "department": "1340 Customer Success Management",
     "active": true,
     "slug": "manager58993"
+  },
+  {
+    "id": "72fc1228-c538-41f6-a7ee-c54537c7bdab",
+    "title": "iOS Engineer (Senior-Staff Levels)",
+    "company": "Cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/72fc1228-c538-41f6-a7ee-c54537c7bdab",
+    "date": "2025-02-10T16:32:31.889+00:00",
+    "source": "Ashby: Cantina [cantina]",
+    "location": "California",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer7bdab"
   },
   {
     "id": "44cd6290-ccfb-4163-8b2d-74b566026262",
