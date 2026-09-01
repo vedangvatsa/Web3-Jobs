@@ -21,7 +21,7 @@ export function CompanyLogo({
   }, [logoSrc, faviconUrl]);
 
   if (!src) {
-    return <Building2 className={`w-full text-primary ${size}`} />;
+    return <Building2 className={`w-full text-muted-foreground ${size}`} />;
   }
 
   return (
