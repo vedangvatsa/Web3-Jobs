@@ -140,14 +140,14 @@ export default function ResourcesPage() {
             {/* For Job Seekers */}
             <section>
               <div className="mb-4">
-                <h2 className="text-lg font-bold tracking-tight text-foreground mb-0.5">
+                <h2 className="text-base font-bold tracking-tight text-foreground">
                   Career Tools for Job Seekers
                 </h2>
-                <p className="text-xs text-muted-foreground">
-                  Benchmark rates, evaluate compensation, build resumes, and prepare for technical interviews.
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  Benchmark compensation, calculate freelance rates, build crypto resumes, and practice interview questions.
                 </p>
               </div>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
                 {EMPLOYEE_RESOURCES.map((tool) => (
                   <ToolCard key={tool.label} {...tool} />
                 ))}
@@ -157,14 +157,14 @@ export default function ResourcesPage() {
             {/* For Hiring Teams */}
             <section>
               <div className="mb-4">
-                <h2 className="text-lg font-bold tracking-tight text-foreground mb-0.5">
+                <h2 className="text-base font-bold tracking-tight text-foreground">
                   Templates for Hiring Teams
                 </h2>
-                <p className="text-xs text-muted-foreground">
-                  Standardize recruitment, structured feedback, milestone tracking, and onboarding.
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  Standardize recruitment, job descriptions, structured feedback, and onboarding.
                 </p>
               </div>
-              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3.5">
+              <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-4 gap-3">
                 {EMPLOYER_RESOURCES.map((tool) => (
                   <ToolCard key={tool.label} {...tool} />
                 ))}
@@ -175,14 +175,14 @@ export default function ResourcesPage() {
             {sortedNiches.length > 0 && (
               <section>
                 <div className="mb-4">
-                  <h2 className="text-lg font-bold tracking-tight text-foreground mb-0.5">
+                  <h2 className="text-base font-bold tracking-tight text-foreground">
                     Guides & Checklists by Role
                   </h2>
-                  <p className="text-xs text-muted-foreground">
-                    In-depth architectural patterns, project ideas, and checklists categorized by specialization.
+                  <p className="text-xs text-muted-foreground mt-0.5">
+                    Architectural patterns, project ideas, and checklists categorized by engineering & product specialization.
                   </p>
                 </div>
-                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-4">
+                <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-3">
                   {sortedNiches.map(([niche, pages]) => (
                     <NicheGroup key={niche} niche={niche} pages={pages} />
                   ))}
@@ -191,18 +191,18 @@ export default function ResourcesPage() {
             )}
 
             {/* Call to Action */}
-            <div className="p-6 sm:p-8 rounded-xl border border-border/70 bg-card/60 flex flex-col sm:flex-row items-center justify-between gap-6 text-center sm:text-left">
+            <div className="p-6 rounded-xl border border-border/70 bg-card flex flex-col sm:flex-row items-center justify-between gap-4 text-center sm:text-left">
               <div>
-                <h3 className="text-base sm:text-lg font-bold text-foreground">
+                <h3 className="text-base font-bold text-foreground">
                   Ready to Join a Web3 Team?
                 </h3>
-                <p className="text-xs sm:text-sm text-muted-foreground mt-1">
-                  Browse verified engineering, product, and growth openings across top protocols.
+                <p className="text-xs text-muted-foreground mt-0.5">
+                  Explore verified engineering, product, and growth openings across top crypto protocols.
                 </p>
               </div>
               <Link href="/" className="shrink-0">
-                <Button size="default">
-                  Explore Jobs <ArrowRight className="ml-1.5 h-4 w-4" />
+                <Button size="sm">
+                  Explore Jobs <ArrowRight className="ml-1.5 h-3.5 w-3.5" />
                 </Button>
               </Link>
             </div>
