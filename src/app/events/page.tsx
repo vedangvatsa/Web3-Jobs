@@ -96,7 +96,14 @@ export default async function EventsPage() {
             </section>
             <article className="site-container">
               <EventPartners />
-              <CommunityFeedBanner label="events & networking feed" />
+              <CommunityFeedBanner
+                href="https://t.me/hashtagweb3"
+                text={
+                  <>
+                    Join our Telegram community with <strong className="text-foreground">18,000+</strong> members
+                  </>
+                }
+              />
               <EventsBoard initialEvents={events} />
             </article>
           </PageShell>

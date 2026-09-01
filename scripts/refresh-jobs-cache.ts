@@ -404,7 +404,8 @@ async function refreshJobsCache() {
             link.includes('crypto.jobs') ||
             link.includes('remote3.co') ||
             link.includes('cryptojobslist.com') ||
-            link.includes('web3jobboard.com')
+            link.includes('web3jobboard.com') ||
+            link.includes('findweb3.com')
           );
 
           if (link && title && company && !title.includes('*') && title.split(' ').length <= 15 && !title.toLowerCase().includes('bounty') && !isUnsafeLink) {
@@ -479,7 +480,6 @@ async function refreshJobsCache() {
     // --- New Web3 companies ---
     { board: 'a16z', company: 'a16z' },
     { board: 'paradigm', company: 'Paradigm' },
-    { board: 'zora', company: 'Zora' },
     { board: 'securitize', company: 'Securitize' },
     { board: 'copperco', company: 'Copper.co' },
     { board: 'figment', company: 'Figment' },
@@ -520,6 +520,12 @@ async function refreshJobsCache() {
     { board: 'plume', company: 'Plume Network' },
     { board: 'eclipse', company: 'Eclipse' },
     { board: 'apex', company: 'Apex Protocol' },
+    { board: 'caladan', company: 'Caladan' },
+    { board: 'groma', company: 'Groma' },
+    { board: 'localcoin', company: 'Localcoin' },
+    { board: 'beam', company: 'Beam' },
+    { board: 'elwoodtechnologies', company: 'Elwood Technologies' },
+    { board: 'logos', company: 'Logos' },
   ];
 
   for (const gh of GREENHOUSE_BOARDS) {
@@ -624,6 +630,9 @@ async function refreshJobsCache() {
     // --- Regional Exchanges & Protocols ---
     { board: 'swissborg', company: 'SwissBorg' },
     { board: 'mantra', company: 'Mantra Chain' },
+    { board: 'airtm', company: 'Airtm' },
+    { board: 'arbitrum-opco', company: 'Arbitrum OpCo' },
+    { board: 'horizon', company: 'Horizon' },
 ];
 
   for (const lv of LEVER_BOARDS) {
@@ -809,6 +818,18 @@ async function refreshJobsCache() {
     { board: 'compound', company: 'Compound' },
     { board: 'espresso', company: 'Espresso Systems' },
     { board: 'chronicle-labs', company: 'Chronicle Labs' },
+    { board: 'movement', company: 'Movement Labs' },
+    { board: 'Anagram', company: 'Anagram' },
+    { board: 'toku', company: 'Toku' },
+    { board: 'stronghold', company: 'Stronghold' },
+    { board: 'sei-labs', company: 'Sei Labs' },
+    { board: 'kalshi', company: 'Kalshi' },
+    { board: 'vesta', company: 'Vesta' },
+    { board: 'partisiablockchain', company: 'Partisia Blockchain' },
+    { board: 'yeet', company: 'YEET' },
+    { board: 'dakota', company: 'Dakota' },
+    { board: 'molecule', company: 'Molecule' },
+    { board: 'brale', company: 'Brale' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
@@ -961,6 +982,7 @@ async function refreshJobsCache() {
     { board: 'coinjar', company: 'CoinJar' },
     { board: 'giottus', company: 'Giottus' },
     { board: 'ajaib', company: 'Ajaib Crypto' },
+    { board: 'thetie', company: 'The Tie' },
   ];
 
   for (const wb of WORKABLE_BOARDS) {
@@ -1583,6 +1605,16 @@ async function refreshJobsCache() {
       titleSelector: 'h1.main-header-title',
       locationSelector: '.sticky-header-details li:first-child',
       contentSelector: '.block-job-description, .block-job-profile',
+    },
+    {
+      board: 'ethereum-institutional-careers',
+      company: 'Ethereum Institutional',
+      indexUrl: 'https://www.ethereuminstitutional.org/careers',
+      linkSelector: 'a[href^="/careers/"]',
+      pathPattern: /^\/careers\/[^/]+$/,
+      titleSelector: 'h1',
+      locationSelector: '.location',
+      contentSelector: 'main, body',
     },
   ];
 

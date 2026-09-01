@@ -112,9 +112,17 @@ npx hashtagweb3 events --type conference
 npx hashtagweb3 glossary --search "Zero Knowledge"
 ```
 
-Official TypeScript / JavaScript SDK:
+Official TypeScript / JavaScript SDK & Multi-Language Packages:
+- **NPM SDK Package**: [`@hashtagweb3/sdk`](https://www.npmjs.com/package/@hashtagweb3/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
+- **NPM CLI Package**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3)
+- **PyPI SDK Package**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/)
+- **RubyGems Package**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3)
+- **Go Module**: [`github.com/hashtagweb3/sdk`](https://github.com/hashtagweb3/sdk)
+- **Smithery MCP Registry**: [`smithery.ai/server/@hashtagweb3/mcp`](https://smithery.ai/server/@hashtagweb3/mcp)
+- **mcp.so Registry**: [`mcp.so/server/hashtagweb3`](https://mcp.so/server/hashtagweb3)
+- **Agent Plugins Manifest**: [`/.well-known/plugin.json`](https://hashtagweb3.com/.well-known/plugin.json)
 ```bash
-npm install hashtagweb3
+npm install @hashtagweb3/sdk
 ```
 
 ## Modular Scoped Context Files

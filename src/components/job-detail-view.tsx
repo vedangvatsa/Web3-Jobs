@@ -59,8 +59,8 @@ export function JobDetailView({
   ).toISOString();
 
   const titleLower = job.title.toLowerCase();
-  const deptLower = (job.department || '').toLowerCase();
-  const locLower = (job.location || '').toLowerCase();
+  const deptLower = (typeof job.department === 'string' ? job.department : (job.department as any)?.name || '').toLowerCase();
+  const locLower = (typeof job.location === 'string' ? job.location : (job.location as any)?.name || '').toLowerCase();
 
   const employmentType = (() => {
     if (titleLower.includes('intern') || deptLower.includes('intern')) return 'INTERN';
@@ -98,7 +98,7 @@ export function JobDetailView({
     directApply: true,
     hiringOrganization,
     industry: 'Web3 / Blockchain / Cryptocurrency',
-    ...(job.department && { occupationalCategory: job.department }),
+    ...(job.department && { occupationalCategory: typeof job.department === 'string' ? job.department : (job.department as any)?.name || String(job.department) }),
     ...(isRemote
       ? {
           jobLocationType: 'TELECOMMUTE',
