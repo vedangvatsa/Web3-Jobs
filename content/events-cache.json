@@ -1,19 +1,5 @@
 [
   {
-    "id": "luma-evt-f7HLsI7Q0Hs5PGs",
-    "name": "Web3Privacy Now Amsterdam meetup",
-    "description": "",
-    "startDate": "2026-09-01T15:00:00.000Z",
-    "endDate": "2026-09-01T18:00:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://lu.ma/sixp297m",
-    "coverImage": "https://images.lumacdn.com/event-covers/ot/853d5947-6274-4b02-aa17-98daedcec8c0.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-jBTURetI6A3UroD",
     "name": "Aperture Sessions London, sponsored by Superwall",
     "description": "",
@@ -266,6 +252,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-host-evt-EBdHTBo1qSS0jjP",
+    "name": "2′PITCH with Members",
+    "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
+    "startDate": "2026-09-03T15:00:00.000Z",
+    "endDate": "2026-09-03T16:00:00.000Z",
+    "city": "Kyiv",
+    "country": "Ukraine",
+    "location": "Kyiv, Ukraine",
+    "url": "https://lu.ma/superteam-xdgj",
+    "coverImage": "https://images.lumacdn.com/uploads/19/b9f35147-d870-445f-8e63-5c4f0f698827.png",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-fB5bSClaClB6vIa",
     "name": "Apéro Tricotant - 3 septembre",
     "description": "",
@@ -346,6 +346,20 @@
     "location": "El Segundo, United States",
     "url": "https://lu.ma/idsp5pm4",
     "coverImage": "https://images.lumacdn.com/uploads/83/f6ceaedc-50a0-4762-a514-e1b7e8fd0b06.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-KDIq2JTGereB5f1",
+    "name": "Powerwalk Barcelona September 2026 (Tech/AI) — Power Walk",
+    "description": "",
+    "startDate": "2026-09-03T17:00:00.000Z",
+    "endDate": "2026-09-03T18:00:00.000Z",
+    "city": "Barcelona",
+    "country": "Spain",
+    "location": "Barcelona, Spain",
+    "url": "https://lu.ma/staaake-kwmb",
+    "coverImage": "https://images.lumacdn.com/gallery-images/ll/e2f4f925-c2f4-4258-ab7b-5ffa176284e8",
     "source": "luma",
     "month": "September 2026"
   },
@@ -700,34 +714,6 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316168994",
-    "name": "Earn Crypto Safely & Consistently with EazyBot - Live Zoom",
-    "description": "Are you tired of getting SCAMMED trying to earn Cryptocurrency?\nIf so, this live, interactive webinar presented by **EazyBot** is just for you.\n\nDuring this session, you will have the opportunity to l",
-    "startDate": "2026-09-07T12:00:00-04:00",
-    "endDate": "2026-09-07T12:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/cryptostronger-worldwide-your-source-for-bitcoin-crypto/events/316168994/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-316163044",
-    "name": "Online Bitcoin Hangout",
-    "description": "**Online Bitcoin Hangout**\nThis virtual meetup is perfect for anyone interested in Bitcoin who can't (or prefers not to) attend our in-person events in Charlotte. This is an informal hangout where we ",
-    "startDate": "2026-09-07T18:30:00-04:00",
-    "endDate": "2026-09-07T18:30:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/bitcoincharlotte/events/316163044/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-PTNz2gFhxFh5lPO",
     "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
     "description": "",
@@ -784,20 +770,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-ivGyHDY4DdXMyOm",
-    "name": "Rendez-vous de Gastronomie Durable du Plateau",
-    "description": "",
-    "startDate": "2026-09-09T16:00:00.000Z",
-    "endDate": "2026-09-14T01:00:00.000Z",
-    "city": "Montreal",
-    "country": "Canada",
-    "location": "Montreal, Canada",
-    "url": "https://lu.ma/oaqy62lq",
-    "coverImage": "https://images.lumacdn.com/uploads/pd/1e2519f9-0877-458e-88a1-7576e6c8cb3e.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-w9rwIlK51rGrizF",
     "name": "Build with MagicBlock: Real-Time Apps on Solana",
     "description": "Solana спільнота, де запускають web3 стартапи, отримують гранти та інвестиції, навчаються й заробляють у криптоекономіці.",
@@ -837,20 +809,6 @@
     "url": "https://lu.ma/yww621x0",
     "coverImage": "https://images.lumacdn.com/uploads/mv/a9419db3-8797-4c44-9321-f6d1fb899ac2.png",
     "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-315962971",
-    "name": "Maryland Blockchain Association & CryptoMondays Virtual Meetup",
-    "description": "Meet at National Harbor during Stablecon Conference on Thursday, September 10th (location will be provided upon registration).\n\nThis monthly meeting is hosted by Maryland Blockchain Association, Block",
-    "startDate": "2026-09-10T16:00:00-04:00",
-    "endDate": "2026-09-10T16:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/www-marylandblockchainassociation-org/events/315962971/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -991,20 +949,6 @@
     "url": "https://lu.ma/4p3q8raj",
     "coverImage": "https://images.lumacdn.com/event-covers/ce/7296e49d-aba8-4628-be07-5b0bd5686aba.png",
     "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "mu-314396577",
-    "name": "Capitol City Bitcoin meetup - virtual",
-    "description": "Let’s talk about bitcoin, crypto and what’s going on in South Carolina ! You must RSVP in advance to obtain the video link.\nThis will be scheduled on the third Tuesday of every month.",
-    "startDate": "2026-09-15T19:00:00-04:00",
-    "endDate": "2026-09-15T19:00:00-04:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/columbia-bitcoin-meetup-group/events/314396577/",
-    "coverImage": null,
-    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -1411,6 +1355,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-october-madagascar-mg",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "October 2026"
+  },
+  {
+    "id": "luma-host-evt-x18sFHsWoSwnaIP",
+    "name": "Monad Metropolis Hacker House: London",
+    "description": "Learn, build and advance your career in Emerging Tech with our community of 500,000 talented professionals worldwide.",
+    "startDate": "2026-10-02T09:00:00.000Z",
+    "endDate": "2026-10-02T17:00:00.000Z",
+    "city": "London",
+    "country": "United Kingdom",
+    "location": "London, United Kingdom",
+    "url": "https://lu.ma/metropolis-lon-oct-2026",
+    "coverImage": "https://images.lumacdn.com/uploads/x6/908bfba8-4a32-4515-bf2f-975a929a4fde.png",
+    "source": "luma-trusted",
     "month": "October 2026"
   },
   {
