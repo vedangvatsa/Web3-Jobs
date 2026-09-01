@@ -1,8 +1,10 @@
 ---
 name: Animoca Brands
 website: 'https://animocabrands.com'
+logo: 'https://www.google.com/s2/favicons?domain=animocabrands.com'
 category: Gaming/Metaverse
 description: "Animoca Brands, founded in 2014 by Yat Siu in Hong Kong, is a leading Web3 gaming, metaverse and digital property company. Through investments in a broad portfolio of companies and products including The Sandbox, Phantom Galaxies and Mocaverse, it champions digital ownership via NFTs and tokens. The firm operates publishing, advisory and investment arms that help studios launch token economies and marketplaces serving a wide player base. Headquartered in Hong Kong with offices in Singapore, London and Sydney, Animoca blends game development, IP partnerships and on-chain infrastructure. Backed by leading investors including Temasek and Sequoia China, it advocates for an open metaverse. Expect a creative, entrepreneurial culture that values gaming craft, community ownership and building the infrastructure for an inclusive, player-owned internet today."
+
  Animoca Brands develops and publishes blockchain-based games and digital
  entertainment.
 ---
