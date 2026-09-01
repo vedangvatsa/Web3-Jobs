@@ -2,7 +2,7 @@
 name: Sei Labs
 website: 'https://sei.io'
 category: Blockchain Infrastructure
-description: "Sei Labs is the core developer of Sei Network, a high-throughput Layer 1 blockchain engineered specifically for digital asset trading, DEXs, and high-frequency Web3 applications. Featuring built-in order matching engines, sub-second finality, and parallelized EVM execution (Sei v2), Sei Labs brings Wall Street-grade trading speed to decentralized finance."
+description: "Sei Labs is the core developer of Sei Network, a high-throughput Layer 1 blockchain engineered specifically for digital asset trading, DEXs, and high-frequency Web3 applications. Featuring built-in order matching engines, sub-second finality, and parallelized EVM execution (Sei v2), Sei Labs brings Wall Street-grade trading speed to decentralized finance. Built with parallelized execution and specialized consensus mechanics, Sei Network delivers sub-second transaction finality and Wall Street-grade orderbook throughput for high-frequency Web3 trading applications. Sei Labs empowers developers to launch high-performance DEXs, perpetual futures markets, and gaming protocols with native EVM compatibility and built-in matching engines. Sei's architecture optimizes orderbook liquidity, sub-second execution, and high-concurrency smart contract throughput, bringing Wall Street-grade trading infrastructure to the Web3 ecosystem."
  Sei Labs develops a blockchain optimized for decentralized finance
  applications.
 ---
