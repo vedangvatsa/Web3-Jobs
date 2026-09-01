@@ -464,6 +464,10 @@ async function refreshJobsCache() {
     { board: 'bcbgroup', company: 'BCB Group' },
     { board: 'block', company: 'Block' },
     // --- New web3 Greenhouse feeds ---
+    { board: 'ritual', company: 'Ritual' },
+    { board: 'gensyn', company: 'Gensyn' },
+    { board: 'copperco', company: 'Copper.co' },
+    { board: 'securitize', company: 'Securitize' },
     { board: 'immunefi', company: 'Immunefi' },
     { board: 'aptoslabs', company: 'Aptos Labs' },
     { board: 'layerzerolabs', company: 'LayerZero' },
@@ -600,6 +604,7 @@ async function refreshJobsCache() {
     // --- New Web3 companies ---
     { board: 'wintermute-trading', company: 'Wintermute' },
     { board: 'superstate', company: 'Superstate' },
+    { board: 'piplabs', company: 'Story Protocol' },
     { board: 'ethena', company: 'Ethena Labs' },
     { board: 'offchainlabs', company: 'Offchain Labs' },
     { board: 'arbitrumfoundation', company: 'Arbitrum Foundation' },
@@ -704,6 +709,7 @@ async function refreshJobsCache() {
     { board: 'cantina', company: 'Cantina' },
     { board: 'skip', company: 'Skip Protocol' },
     { board: 'foundation', company: 'Foundation' },
+    { board: 'river', company: 'River Financial' },
     { board: 'satoshilabs', company: 'Trezor' },
     { board: 'risklabs', company: 'Across Protocol' },
 
@@ -1271,6 +1277,7 @@ async function refreshJobsCache() {
     { board: 'bitdeer', company: 'Bitdeer' },
     { board: 'nexo', company: 'Nexo' },
     { board: 'zero-hash', company: 'Zero Hash' },
+    { board: 'alliance', company: 'Alliance DAO' },
   ];
 
   for (const bz of BREEZY_BOARDS) {
