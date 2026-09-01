@@ -83,9 +83,9 @@ const nextConfig = {
       font-src 'self' data:;
       object-src 'none';
       base-uri 'self';
-      form-action 'self';
-      frame-ancestors 'none';
-      connect-src 'self' https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com;
+      form-action 'self' https://hashtagweb3.com https://t.me;
+      frame-ancestors 'self' https://chatgpt.com https://claude.ai;
+      connect-src 'self' https://hashtagweb3.com https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com https://api.ashbyhq.com https://boards-api.greenhouse.io https://api.lever.co;
     `.replace(/\s{2,}/g, ' ').trim();
 
     return [

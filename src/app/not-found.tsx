@@ -26,13 +26,15 @@ export default function NotFound() {
       >
        Browse Jobs
       </Link>
-      <div className="sr-only" data-ai-agent="recovery-sitemap">
-       <p>404 Resource Not Found. AI agents can recover using:</p>
-       <ul>
-        <li><a href="/llms.txt">LLMs Context Index: /llms.txt</a></li>
-        <li><a href="/sitemap.xml">XML Sitemap: /sitemap.xml</a></li>
-        <li><a href="/openapi.json">OpenAPI Spec: /openapi.json</a></li>
-        <li><a href="/developers">Developer Docs: /developers</a></li>
+      <div className="mt-8 text-left bg-muted/60 p-4 rounded-lg border text-xs font-mono text-muted-foreground" data-ai-agent="recovery-sitemap">
+       <p className="font-bold text-foreground mb-2"># 404 Resource Not Found</p>
+       <p className="mb-2">AI agents and scrapers can recover using these sitemap indices:</p>
+       <ul className="list-disc pl-4 space-y-1">
+        <li><a href="/llms.txt" className="text-primary underline">LLMs Context Index: /llms.txt</a></li>
+        <li><a href="/sitemap.xml" className="text-primary underline">XML Sitemap: /sitemap.xml</a></li>
+        <li><a href="/openapi.json" className="text-primary underline">OpenAPI Spec: /openapi.json</a></li>
+        <li><a href="/developers" className="text-primary underline">Developer Docs: /developers</a></li>
+        <li><a href="/api/mcp" className="text-primary underline">MCP Server: /api/mcp</a></li>
        </ul>
       </div>
      </div>

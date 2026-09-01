@@ -49,6 +49,16 @@ npx hashtagweb3 glossary --search "Zero Knowledge"
 npm install -g hashtagweb3
 ```
 
+## Official Multi-Language SDK Packages & MCP Registry Listings
+- **NPM SDK Package (JavaScript/TypeScript)**: [`@hashtagweb3/sdk`](https://www.npmjs.com/package/@hashtagweb3/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
+- **NPM CLI Package**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3)
+- **PyPI SDK Package (Python)**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/) (Project URL / Home-Page: `https://hashtagweb3.com`)
+- **RubyGems Package (Ruby)**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3) (homepage_uri: `https://hashtagweb3.com`)
+- **Go Module (Go)**: [`github.com/hashtagweb3/sdk`](https://github.com/hashtagweb3/sdk)
+- **Smithery MCP Registry**: [`smithery.ai/server/@hashtagweb3/mcp`](https://smithery.ai/server/@hashtagweb3/mcp)
+- **mcp.so Registry**: [`mcp.so/server/hashtagweb3`](https://mcp.so/server/hashtagweb3)
+- **Agent Plugins Manifest**: [`/.well-known/plugin.json`](https://hashtagweb3.com/.well-known/plugin.json)
+
 ## Rate Limits & Response Headers
 - Default public rate limit: 120 requests/minute per IP.
 - Standard RFC rate limit response headers on all API endpoints:
