@@ -1,5 +1,41 @@
 [
   {
+    "id": "04.07E",
+    "title": "Senior Account Manager, Spanish Desk",
+    "company": "eToro",
+    "link": "https://www.etoro.com/about/careers/",
+    "date": "2026-09-01T07:20:09Z",
+    "source": "Comeet: eToro [41.009]",
+    "location": "Tel Aviv District",
+    "department": "CF Group",
+    "active": true,
+    "slug": "manager0407e"
+  },
+  {
+    "id": "4964902101",
+    "title": "Business Development Assistant",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4964902101",
+    "date": "2026-09-01T02:33:09-04:00",
+    "source": "Greenhouse: Bybit [bybit]",
+    "location": "LATAM - Remote",
+    "department": "Payment Business Unit",
+    "active": true,
+    "slug": "product02101"
+  },
+  {
+    "id": "7869332003",
+    "title": "Legal Counsel - Commercial, Marketing & IP - EMEA (Remote)",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7869332003",
+    "date": "2026-09-01T02:05:55-04:00",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "EMEA",
+    "department": "Central Functions",
+    "active": true,
+    "slug": "marketing32003"
+  },
+  {
     "id": "5404790008",
     "title": "EMEA Job Posting Template",
     "company": "Block",
@@ -2775,15 +2811,18 @@
     "slug": "principal3"
   },
   {
-    "id": "JR101051",
-    "title": "Principal Security Engineer, Detection & Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Dublin---remote-first-in-Ireland/Principal-Security-Engineer--Detection---Response_JR101051",
-    "date": "2026-08-27",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "Dublin - remote first in Ireland",
+    "id": "336A3CC4BC",
+    "title": "Engineering Director, Application Security",
+    "company": "Trail of Bits",
+    "link": "https://apply.workable.com/j/336A3CC4BC",
+    "date": "2026-08-27T00:00:00.000Z",
+    "source": "Workable: Trail of Bits [trailofbits]",
+    "location": "United States",
+    "department": [
+      "Assurance"
+    ],
     "active": true,
-    "slug": "security121"
+    "slug": "securitycc4bc"
   },
   {
     "id": "JR101123",
@@ -2806,6 +2845,17 @@
     "location": "New York City - remote first in US",
     "active": true,
     "slug": "recruiting4"
+  },
+  {
+    "id": "JR101051",
+    "title": "Principal Security Engineer, Detection & Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/Dublin---remote-first-in-Ireland/Principal-Security-Engineer--Detection---Response_JR101051",
+    "date": "2026-08-27",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "Dublin - remote first in Ireland",
+    "active": true,
+    "slug": "security121"
   },
   {
     "id": "871",
@@ -4008,20 +4058,6 @@
     "slug": "compliance7e38e"
   },
   {
-    "id": "550AE1666F",
-    "title": "General Manager - Cards",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/550AE1666F",
-    "date": "2026-08-26T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
-    "department": [
-      "IT"
-    ],
-    "active": true,
-    "slug": "manager573"
-  },
-  {
     "id": "5391770DC3",
     "title": "General Manager - Custody & Compliance",
     "company": "GoMining",
@@ -4034,6 +4070,20 @@
     ],
     "active": true,
     "slug": "compliance156"
+  },
+  {
+    "id": "550AE1666F",
+    "title": "General Manager - Cards",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/550AE1666F",
+    "date": "2026-08-26T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Cyprus / Georgia / Poland / Spain / Serbia / Latvia",
+    "department": [
+      "IT"
+    ],
+    "active": true,
+    "slug": "manager573"
   },
   {
     "id": "6339EDB037",
@@ -7948,17 +7998,6 @@
     "slug": "analyst159"
   },
   {
-    "id": "JR101118",
-    "title": "Manager, Risk Management - AI Transformation",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
-    "date": "2026-08-20",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "manager534"
-  },
-  {
     "id": "JR101119",
     "title": "Senior Analyst, Network Onboarding",
     "company": "Circle",
@@ -7979,6 +8018,17 @@
     "location": "South Korea",
     "active": true,
     "slug": "marketing198"
+  },
+  {
+    "id": "JR101118",
+    "title": "Manager, Risk Management - AI Transformation",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Manager--Risk-Management---AI-Transformation_JR101118",
+    "date": "2026-08-20",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "manager534"
   },
   {
     "id": "1fd65f6d-95f0-4190-98c0-788f4df7b61e",
@@ -8933,18 +8983,6 @@
     "slug": "manager522"
   },
   {
-    "id": "43",
-    "title": "KYC Analyst (Remote - Europe)",
-    "company": "Bitcoin.com",
-    "link": "https://bitcoin.bamboohr.com/careers/43",
-    "date": "2026-08-19",
-    "source": "BambooHR: Bitcoin.com [bitcoin]",
-    "location": "Poland, Poland, Poland",
-    "department": "HR, Administrative & Legal",
-    "active": true,
-    "slug": "analyst156"
-  },
-  {
     "id": "41",
     "title": "Commercial Content Editor (Remote - APAC)",
     "company": "Bitcoin.com",
@@ -8955,6 +8993,18 @@
     "department": "Marketing",
     "active": true,
     "slug": "commercial5"
+  },
+  {
+    "id": "43",
+    "title": "KYC Analyst (Remote - Europe)",
+    "company": "Bitcoin.com",
+    "link": "https://bitcoin.bamboohr.com/careers/43",
+    "date": "2026-08-19",
+    "source": "BambooHR: Bitcoin.com [bitcoin]",
+    "location": "Poland, Poland, Poland",
+    "department": "HR, Administrative & Legal",
+    "active": true,
+    "slug": "analyst156"
   },
   {
     "id": "328",
@@ -11117,6 +11167,20 @@
     "slug": "compliance131"
   },
   {
+    "id": "427E4C8AA4",
+    "title": "Senior Developer Relations Engineer",
+    "company": "Trail of Bits",
+    "link": "https://apply.workable.com/j/427E4C8AA4",
+    "date": "2026-08-14T00:00:00.000Z",
+    "source": "Workable: Trail of Bits [trailofbits]",
+    "location": "United States",
+    "department": [
+      "Go-To-Market"
+    ],
+    "active": true,
+    "slug": "devrelc8aa4"
+  },
+  {
     "id": "CF0B0502F4",
     "title": "Head of Revenue Operations",
     "company": "GoMining",
@@ -13255,17 +13319,6 @@
     "slug": "senior63"
   },
   {
-    "id": "JR101102",
-    "title": "Senior Director Product, Onboarding, Compliance & Risk",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director-Product--Onboarding--Compliance---Risk_JR101102",
-    "date": "2026-08-12",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "product603"
-  },
-  {
     "id": "JR101098",
     "title": "Software Engineer II",
     "company": "Circle",
@@ -13275,6 +13328,17 @@
     "location": "Taipei City - remote first in Taiwan",
     "active": true,
     "slug": "engineer753"
+  },
+  {
+    "id": "JR101102",
+    "title": "Senior Director Product, Onboarding, Compliance & Risk",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Senior-Director-Product--Onboarding--Compliance---Risk_JR101102",
+    "date": "2026-08-12",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "product603"
   },
   {
     "id": "8123027",
@@ -13851,6 +13915,18 @@
     "department": "Product & Design",
     "active": true,
     "slug": "product599"
+  },
+  {
+    "id": "4950522101",
+    "title": "Senior Principal Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4950522101",
+    "date": "2026-08-11T05:55:35-04:00",
+    "source": "Greenhouse: Bybit [bybit]",
+    "location": "Kuala Lumpur, Malaysia",
+    "department": "Architecture",
+    "active": true,
+    "slug": "backend22101"
   },
   {
     "id": "3e9df9f9-6dc8-47cd-ab48-c2b4570908a1",
@@ -14704,18 +14780,6 @@
     "department": "CF Group",
     "active": true,
     "slug": "analyst137"
-  },
-  {
-    "id": "CE.E6E",
-    "title": "Product Builder",
-    "company": "eToro",
-    "link": "https://www.etoro.com/about/careers/position/ce.e6e/",
-    "date": "2026-08-10T09:08:32Z",
-    "source": "Comeet: eToro [41.009]",
-    "location": "Sydney, Australia",
-    "department": "Business Units",
-    "active": true,
-    "slug": "frontend181"
   },
   {
     "id": "4944906101",
@@ -22531,6 +22595,18 @@
     "slug": "product502"
   },
   {
+    "id": "7974afd4-c173-4086-9d2c-78c2349c6f62",
+    "title": "Senior Product Marketing Manager",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62",
+    "date": "2026-07-24T15:33:12.511Z",
+    "source": "Lever: Ethena Labs [ethena]",
+    "location": "Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "productc6f62"
+  },
+  {
     "id": "4330687009",
     "title": "Solutions Architect",
     "company": "M0",
@@ -25314,16 +25390,16 @@
     "slug": "sales155"
   },
   {
-    "id": "4932856101",
+    "id": "4932857101",
     "title": "MLRO & Compliance Officer, UAE (ADGM) - RIE & RCH",
     "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932856101",
-    "date": "2026-07-20T16:24:54-04:00",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4932857101",
+    "date": "2026-07-20T16:24:56-04:00",
     "source": "Greenhouse: Bybit [bybit]",
     "location": "Abu Dhabi, UAE",
     "department": "Legal & Compliance",
     "active": true,
-    "slug": "compliance56101"
+    "slug": "compliance57101"
   },
   {
     "id": "4931436101",
@@ -28839,6 +28915,18 @@
     "slug": "associate40"
   },
   {
+    "id": "961ebde4-46c4-44b6-b502-55fcd56d17b6",
+    "title": "Sales Engineer",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethena/961ebde4-46c4-44b6-b502-55fcd56d17b6",
+    "date": "2026-07-09T22:47:03.998Z",
+    "source": "Lever: Ethena Labs [ethena]",
+    "location": "Remote",
+    "department": "Sales",
+    "active": true,
+    "slug": "engineerd17b6"
+  },
+  {
     "id": "5318418008",
     "title": "Senior Finance Systems Engineer: Oracle Fusion - Remote, Canada",
     "company": "Block",
@@ -29005,6 +29093,18 @@
     "department": "IT",
     "active": true,
     "slug": "engineer528"
+  },
+  {
+    "id": "00f8b681-2d71-497b-9cde-96785ed0dcdb",
+    "title": "Customer Marketing Manager",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethena/00f8b681-2d71-497b-9cde-96785ed0dcdb",
+    "date": "2026-07-09T18:07:41.401Z",
+    "source": "Lever: Ethena Labs [ethena]",
+    "location": "Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "marketing0dcdb"
   },
   {
     "id": "4335d9e4-a7b1-4bc8-bd7b-d22079481585",
@@ -32654,6 +32754,20 @@
     "slug": "control1"
   },
   {
+    "id": "2D1288EA7F",
+    "title": "Regional Merchant Business Development Manager (Miami USA)",
+    "company": "GoMining",
+    "link": "https://apply.workable.com/j/2D1288EA7F",
+    "date": "2026-06-30T00:00:00.000Z",
+    "source": "Workable: GoMining [gomining]",
+    "location": "Miami, United States",
+    "department": [
+      "BD"
+    ],
+    "active": true,
+    "slug": "product383"
+  },
+  {
     "id": "8EFEF935D6",
     "title": "Regional Merchant Business Development Manager (Cyprus)",
     "company": "GoMining",
@@ -32680,20 +32794,6 @@
     ],
     "active": true,
     "slug": "product384"
-  },
-  {
-    "id": "2D1288EA7F",
-    "title": "Regional Merchant Business Development Manager (Miami USA)",
-    "company": "GoMining",
-    "link": "https://apply.workable.com/j/2D1288EA7F",
-    "date": "2026-06-30T00:00:00.000Z",
-    "source": "Workable: GoMining [gomining]",
-    "location": "Miami, United States",
-    "department": [
-      "BD"
-    ],
-    "active": true,
-    "slug": "product383"
   },
   {
     "id": "JR101069",
@@ -33666,6 +33766,18 @@
     "department": "Europe",
     "active": true,
     "slug": "market2"
+  },
+  {
+    "id": "4908935101",
+    "title": "Lead Backend Development Engineer",
+    "company": "Bybit",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4908935101",
+    "date": "2026-06-26T02:36:37-04:00",
+    "source": "Greenhouse: Bybit [bybit]",
+    "location": "Kuala Lumpur, Malaysia",
+    "department": "Infrastructure",
+    "active": true,
+    "slug": "backend35101"
   },
   {
     "id": "ec1a6359-0989-4ea3-96a1-6418cb4b62a8",
@@ -35002,16 +35114,16 @@
     "slug": "manager251"
   },
   {
-    "id": "4904748101",
+    "id": "4882378101",
     "title": "MLRO & Compliance Officer, UAE (ADGM) - Broker Dealer Entity",
     "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4904748101",
-    "date": "2026-06-22T05:49:23-04:00",
+    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4882378101",
+    "date": "2026-06-22T05:46:36-04:00",
     "source": "Greenhouse: Bybit [bybit]",
     "location": "Abu Dhabi, UAE",
     "department": "Legal & Compliance",
     "active": true,
-    "slug": "compliance48101"
+    "slug": "compliance78101"
   },
   {
     "id": "8cd93838-3c12-4386-8dc2-8dfe69873e27",
@@ -35110,6 +35222,20 @@
     "slug": "engineer436"
   },
   {
+    "id": "A2ECB66D9D",
+    "title": "Security Engineer 1, Application Security - Remote US",
+    "company": "Trail of Bits",
+    "link": "https://apply.workable.com/j/A2ECB66D9D",
+    "date": "2026-06-22T00:00:00.000Z",
+    "source": "Workable: Trail of Bits [trailofbits]",
+    "location": "United States",
+    "department": [
+      "Assurance"
+    ],
+    "active": true,
+    "slug": "security66d9d"
+  },
+  {
     "id": "CC933BBD7A",
     "title": "Linux System Engineer",
     "company": "Crypto Finance",
@@ -35124,17 +35250,6 @@
     "slug": "frontend104"
   },
   {
-    "id": "JR101060",
-    "title": "Security Engineer II, Detection and Response",
-    "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
-    "date": "2026-06-22",
-    "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
-    "active": true,
-    "slug": "security130"
-  },
-  {
     "id": "JR100838",
     "title": "Senior Smart Contract Engineer",
     "company": "Circle",
@@ -35144,6 +35259,17 @@
     "location": "Taipei City - remote first in Taiwan",
     "active": true,
     "slug": "engineer435"
+  },
+  {
+    "id": "JR101060",
+    "title": "Security Engineer II, Detection and Response",
+    "company": "Circle",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Security-Engineer-II--Detection-and-Response_JR101060",
+    "date": "2026-06-22",
+    "source": "Workday: Circle [circle/Circle]",
+    "location": "San Francisco - remote first in US",
+    "active": true,
+    "slug": "security130"
   },
   {
     "id": "JR101071",
@@ -39655,6 +39781,20 @@
     "slug": "designer16"
   },
   {
+    "id": "7EE5C9A644",
+    "title": "Security Engineer, Application Security",
+    "company": "Trail of Bits",
+    "link": "https://apply.workable.com/j/7EE5C9A644",
+    "date": "2026-06-05T00:00:00.000Z",
+    "source": "Workable: Trail of Bits [trailofbits]",
+    "location": "United States",
+    "department": [
+      "Assurance"
+    ],
+    "active": true,
+    "slug": "security9a644"
+  },
+  {
     "id": "3b2a005a-a7df-4380-9533-b775cf4fe8b5",
     "title": "Director, Investor Relations",
     "company": "Riot Platforms",
@@ -41205,19 +41345,6 @@
     "slug": "devops38"
   },
   {
-    "id": "ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
-    "title": "Senior Site Reliability Engineer, Observability",
-    "company": "Chainlink Labs",
-    "link": "https://jobs.ashbyhq.com/chainlink-labs/ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
-    "date": "2026-05-29",
-    "dateVerified": true,
-    "source": "Ashby: Chainlink Labs [chainlink-labs]",
-    "location": "United States",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer338"
-  },
-  {
     "id": "1be78220-f909-4d03-ac4c-cf7f3b62f236",
     "title": "Senior Software Engineer, Data Products",
     "company": "Chainlink Labs",
@@ -41229,6 +41356,19 @@
     "department": "Engineering",
     "active": true,
     "slug": "product302"
+  },
+  {
+    "id": "ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
+    "title": "Senior Site Reliability Engineer, Observability",
+    "company": "Chainlink Labs",
+    "link": "https://jobs.ashbyhq.com/chainlink-labs/ac561bef-aa38-43f5-b2eb-b8777f8ef87b",
+    "date": "2026-05-29",
+    "dateVerified": true,
+    "source": "Ashby: Chainlink Labs [chainlink-labs]",
+    "location": "United States",
+    "department": "Engineering",
+    "active": true,
+    "slug": "engineer338"
   },
   {
     "id": "A56A5FE285",
@@ -43778,16 +43918,16 @@
     "slug": "backend62"
   },
   {
-    "id": "276",
-    "title": "Lifecycle Marketing Associate",
+    "id": "278",
+    "title": "Country Manager – Philippines",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/276",
+    "link": "https://fasset.bamboohr.com/careers/278",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "Pakistan",
-    "department": "Marketing",
+    "location": "Philippines",
+    "department": "Leadership",
     "active": true,
-    "slug": "marketing276"
+    "slug": "manager278"
   },
   {
     "id": "274",
@@ -43802,40 +43942,16 @@
     "slug": "product274-1ldu"
   },
   {
-    "id": "278",
-    "title": "Country Manager – Philippines",
+    "id": "276",
+    "title": "Lifecycle Marketing Associate",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/278",
+    "link": "https://fasset.bamboohr.com/careers/276",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "Philippines",
-    "department": "Leadership",
+    "location": "Pakistan",
+    "department": "Marketing",
     "active": true,
-    "slug": "manager278"
-  },
-  {
-    "id": "280",
-    "title": "Country Manager – Kenya",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/280",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Kenya",
-    "department": null,
-    "active": true,
-    "slug": "manager280-0fr8"
-  },
-  {
-    "id": "279",
-    "title": "Country Manager – Nigeria",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/279",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "location": "Nigeria",
-    "department": null,
-    "active": true,
-    "slug": "manager279-1hrz"
+    "slug": "marketing276"
   },
   {
     "id": "281",
@@ -43850,6 +43966,30 @@
     "slug": "manager281-0g17"
   },
   {
+    "id": "279",
+    "title": "Country Manager – Nigeria",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/279",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Nigeria",
+    "department": null,
+    "active": true,
+    "slug": "manager279-1hrz"
+  },
+  {
+    "id": "280",
+    "title": "Country Manager – Kenya",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/280",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Kenya",
+    "department": null,
+    "active": true,
+    "slug": "manager280-0fr8"
+  },
+  {
     "id": "291",
     "title": "Community Ambassador (Worldwide)",
     "company": "Fasset",
@@ -43862,16 +44002,15 @@
     "slug": "community291"
   },
   {
-    "id": "284",
-    "title": "Country Manager – Uganda",
+    "id": "298",
+    "title": "Partnership Manager",
     "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/284",
+    "link": "https://fasset.bamboohr.com/careers/298",
     "date": "2026-05-15",
     "source": "BambooHR: Fasset [fasset]",
-    "location": "Uganda",
-    "department": null,
+    "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager284-0gv6"
+    "slug": "manager298-0jn5"
   },
   {
     "id": "286",
@@ -43898,6 +44037,29 @@
     "slug": "manager285-0h56"
   },
   {
+    "id": "283",
+    "title": "Country Manager – Indonesia",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/283",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "department": null,
+    "active": true,
+    "slug": "manager283-0fh8"
+  },
+  {
+    "id": "284",
+    "title": "Country Manager – Uganda",
+    "company": "Fasset",
+    "link": "https://fasset.bamboohr.com/careers/284",
+    "date": "2026-05-15",
+    "source": "BambooHR: Fasset [fasset]",
+    "location": "Uganda",
+    "department": null,
+    "active": true,
+    "slug": "manager284-0gv6"
+  },
+  {
     "id": "282",
     "title": "Country Manager – UAE",
     "company": "Fasset",
@@ -43908,28 +44070,6 @@
     "department": null,
     "active": true,
     "slug": "manager282-0f79"
-  },
-  {
-    "id": "298",
-    "title": "Partnership Manager",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/298",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": "Growth & Marketing",
-    "active": true,
-    "slug": "manager298-0jn5"
-  },
-  {
-    "id": "283",
-    "title": "Country Manager – Indonesia",
-    "company": "Fasset",
-    "link": "https://fasset.bamboohr.com/careers/283",
-    "date": "2026-05-15",
-    "source": "BambooHR: Fasset [fasset]",
-    "department": null,
-    "active": true,
-    "slug": "manager283-0fh8"
   },
   {
     "id": "5221431008",
@@ -45396,17 +45536,6 @@
     "slug": "securityaa8f2"
   },
   {
-    "id": "141",
-    "title": "Product Engineer (Data Indexing)",
-    "company": "Chainstack",
-    "link": "https://chainstack.bamboohr.com/careers/141",
-    "date": "2026-05-07",
-    "source": "BambooHR: Chainstack [chainstack]",
-    "department": "Software Engineering Team",
-    "active": true,
-    "slug": "product240"
-  },
-  {
     "id": "142",
     "title": "Web Marketing Specialist",
     "company": "Chainstack",
@@ -45416,6 +45545,17 @@
     "department": "Marketing Team",
     "active": true,
     "slug": "marketing57"
+  },
+  {
+    "id": "141",
+    "title": "Product Engineer (Data Indexing)",
+    "company": "Chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/141",
+    "date": "2026-05-07",
+    "source": "BambooHR: Chainstack [chainstack]",
+    "department": "Software Engineering Team",
+    "active": true,
+    "slug": "product240"
   },
   {
     "id": "4861011101",
@@ -45974,6 +46114,18 @@
     "slug": "analyst31"
   },
   {
+    "id": "64085e15-d6a0-4918-bad8-4064c251a50f",
+    "title": "Account Executive",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethena/64085e15-d6a0-4918-bad8-4064c251a50f",
+    "date": "2026-05-01T21:29:31.844Z",
+    "source": "Lever: Ethena Labs [ethena]",
+    "location": "Remote",
+    "department": "Sales",
+    "active": true,
+    "slug": "sales1a50f"
+  },
+  {
     "id": "8527761002",
     "title": "SOC Analyst",
     "company": "BitGo",
@@ -46296,30 +46448,6 @@
     "department": "Engineering - Backend",
     "active": true,
     "slug": "engineer292"
-  },
-  {
-    "id": "4855359101",
-    "title": "Lead Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855359101",
-    "date": "2026-04-29T21:37:32-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Kuala Lumpur, Malaysia",
-    "department": "Infrastructure",
-    "active": true,
-    "slug": "backend58"
-  },
-  {
-    "id": "4855357101",
-    "title": "Senior Principal Backend Development Engineer",
-    "company": "Bybit",
-    "link": "https://job-boards.eu.greenhouse.io/bybit/jobs/4855357101",
-    "date": "2026-04-29T21:32:33-04:00",
-    "source": "Greenhouse: Bybit [bybit]",
-    "location": "Kuala Lumpur, Malaysia",
-    "department": "AI",
-    "active": true,
-    "slug": "backend57"
   },
   {
     "id": "7868256",
@@ -48160,18 +48288,6 @@
     "slug": "security67"
   },
   {
-    "id": "7701559003",
-    "title": "Overseas Operations Manager (P2P)",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7701559003",
-    "date": "2026-04-15T03:09:50-04:00",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "Remote Roles - CIS",
-    "department": "User Risk Management",
-    "active": true,
-    "slug": "manager59003"
-  },
-  {
     "id": "767b467a-cb7f-4e48-98a5-de376a0923b0",
     "title": "Full Stack Engineer (AI)",
     "company": "Binance",
@@ -48558,6 +48674,18 @@
     "slug": "manager70003"
   },
   {
+    "id": "7696264003",
+    "title": "Overseas Operations Manager (P2P)",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7696264003",
+    "date": "2026-04-10T08:55:06-04:00",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "Remote Roles - CIS",
+    "department": "User Risk Management",
+    "active": true,
+    "slug": "manager64003"
+  },
+  {
     "id": "c6a1b226-2645-4021-9eb4-15fd89ae3f39",
     "title": "Regulatory Compliance Officer",
     "company": "Coins.ph",
@@ -48592,6 +48720,18 @@
     "department": "10402 Engineering  - Product Platform Engineering",
     "active": true,
     "slug": "engineer267"
+  },
+  {
+    "id": "f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
+    "title": "Senior Software Engineer",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethena/f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
+    "date": "2026-04-09T19:53:20.232Z",
+    "source": "Lever: Ethena Labs [ethena]",
+    "location": "Remote",
+    "department": "Software Development",
+    "active": true,
+    "slug": "engineer14c65"
   },
   {
     "id": "8483248002",
@@ -49051,18 +49191,6 @@
     "slug": "financial2"
   },
   {
-    "id": "7691998003",
-    "title": "Vice President of Product, AI and Agent",
-    "company": "OKX",
-    "link": "https://job-boards.greenhouse.io/okx/jobs/7691998003",
-    "date": "2026-04-07T06:57:53-04:00",
-    "source": "Greenhouse: OKX [okx]",
-    "location": "Singapore, Singapore",
-    "department": "Product Management",
-    "active": true,
-    "slug": "product188"
-  },
-  {
     "id": "7691999003",
     "title": "Vice President of Product, AI and Agent",
     "company": "OKX",
@@ -49073,6 +49201,18 @@
     "department": "Product Management",
     "active": true,
     "slug": "product189"
+  },
+  {
+    "id": "7691998003",
+    "title": "Vice President of Product, AI and Agent",
+    "company": "OKX",
+    "link": "https://job-boards.greenhouse.io/okx/jobs/7691998003",
+    "date": "2026-04-07T06:57:53-04:00",
+    "source": "Greenhouse: OKX [okx]",
+    "location": "Singapore, Singapore",
+    "department": "Product Management",
+    "active": true,
+    "slug": "product188"
   },
   {
     "id": "2603f3c0-75cb-4d49-b8de-cb4ade0e8b39",
@@ -49193,15 +49333,15 @@
     "slug": "security60"
   },
   {
-    "id": "JR100849",
-    "title": "Distinguished Software Engineer",
+    "id": "JR100929",
+    "title": "Senior Manager, Partner Management, LATAM",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Senior-Manager--Partner-Management--LATAM_JR100929",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "San Francisco - remote first in US",
+    "location": "São Paulo - remote first in Brazil",
     "active": true,
-    "slug": "frontend60"
+    "slug": "manager90"
   },
   {
     "id": "JR100477",
@@ -49226,15 +49366,15 @@
     "slug": "engineer261"
   },
   {
-    "id": "JR100929",
-    "title": "Senior Manager, Partner Management, LATAM",
+    "id": "JR100849",
+    "title": "Distinguished Software Engineer",
     "company": "Circle",
-    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/So-Paulo---remote-first-in-Brazil/Senior-Manager--Partner-Management--LATAM_JR100929",
+    "link": "https://circle.wd1.myworkdayjobs.com/Circle/job/San-Francisco---remote-first-in-US/Distinguished-Software-Engineer_JR100849",
     "date": "2026-04-06",
     "source": "Workday: Circle [circle/Circle]",
-    "location": "São Paulo - remote first in Brazil",
+    "location": "San Francisco - remote first in US",
     "active": true,
-    "slug": "manager90"
+    "slug": "frontend60"
   },
   {
     "id": "7778643",
@@ -54091,20 +54231,6 @@
     "slug": "developer10"
   },
   {
-    "id": "378617EBA8",
-    "title": "Senior Android Engineer",
-    "company": "Ajaib Crypto",
-    "link": "https://apply.workable.com/j/378617EBA8",
-    "date": "2026-01-27T00:00:00.000Z",
-    "source": "Workable: Ajaib Crypto [ajaib]",
-    "location": "Jakarta, Indonesia",
-    "department": [
-      "Engineering"
-    ],
-    "active": true,
-    "slug": "engineer7eba8"
-  },
-  {
     "id": "34EE67E78E",
     "title": "Senior iOS Engineer",
     "company": "Ajaib Crypto",
@@ -54117,6 +54243,20 @@
     ],
     "active": true,
     "slug": "engineer7e78e"
+  },
+  {
+    "id": "378617EBA8",
+    "title": "Senior Android Engineer",
+    "company": "Ajaib Crypto",
+    "link": "https://apply.workable.com/j/378617EBA8",
+    "date": "2026-01-27T00:00:00.000Z",
+    "source": "Workable: Ajaib Crypto [ajaib]",
+    "location": "Jakarta, Indonesia",
+    "department": [
+      "Engineering"
+    ],
+    "active": true,
+    "slug": "engineer7eba8"
   },
   {
     "id": "5779695004",
@@ -59204,6 +59344,18 @@
     "slug": "engineer87"
   },
   {
+    "id": "6F76E8612E",
+    "title": "Talent Pipeline",
+    "company": "Trail of Bits",
+    "link": "https://apply.workable.com/j/6F76E8612E",
+    "date": "2025-06-12T00:00:00.000Z",
+    "source": "Workable: Trail of Bits [trailofbits]",
+    "location": "United States",
+    "department": [],
+    "active": true,
+    "slug": "recruiting8612e"
+  },
+  {
     "id": "4754267008",
     "title": "Data Center Technician",
     "company": "Hut 8",
@@ -63292,6 +63444,18 @@
     "department": "Software Engineering",
     "active": true,
     "slug": "product6"
+  },
+  {
+    "id": "f7d6502a-c493-47c0-895a-f359066aca52",
+    "title": "Keep me in mind!",
+    "company": "Ethena Labs",
+    "link": "https://jobs.lever.co/ethena/f7d6502a-c493-47c0-895a-f359066aca52",
+    "date": "2022-01-19T02:06:59.201Z",
+    "source": "Lever: Ethena Labs [ethena]",
+    "location": "Remote",
+    "department": "General",
+    "active": true,
+    "slug": "keepaca52"
   },
   {
     "id": "305d508f-1b1a-4b64-ac41-903b14329764",
