@@ -503,6 +503,9 @@
   "https://decrypt.co/376599/ethereum-devs-propose-deposit-contract-overhaul-to-quantum-proof-staking",
   "https://decrypt.co/376663/bill-gates-robot-tax-jobs-humans-cant-be-fired",
   "https://decrypt.co/376664/nvidia-shares-surge-record-q2-revenue",
+  "https://www.coindesk.com/markets/2026/09/01/london-stock-exchange-to-work-with-payward-to-bring-biggest-uk-stocks-onchain",
+  "https://www.theblock.co/news/markets/2026-09-01-ark-invest-buys-37-million-block-413195",
+  "https://cointelegraph.com/news/thailand-sec-retail-overseas-crypto-derivatives?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1417,6 +1420,12 @@
   "Bill Gates Wants a Robot Tax and Jobs Humans Can't Be Fired From",
   "Nvidia shares rise after record $96.2 billion revenue",
   "Nvidia Shares Surge in After-Hours Trading After Record $96.2 Billion Revenue",
+  "Polymarket raises 1 billion dollars in funding round",
+  "London Stock Exchange to work with Payward to bring biggest UK stocks onchain",
+  "Ark Invest Buys $37 Million in Block Shares",
+  "Ark Invest buys $37 million worth of shares in Jack Dorsey’s Block Inc",
+  "Thailand proposes retail access to foreign crypto derivatives",
+  "Thailand SEC proposes retail access to regulated overseas crypto derivatives",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1470,5 +1479,8 @@
   "fp:agency|blockchain|cash|creat|development|early2027|fast|financial|institution|japan",
   "fp:192|byt|contract|creat|deposit|dev|developer|expand|key|older",
   "fp:aim|automation|bill|can|discourag|employe|fir|gat|human|job",
-  "fp:366b|962b|chipmaker|commitment|disclos|doubl|futur|hour|nvidia|quarterly"
+  "fp:366b|962b|chipmaker|commitment|disclos|doubl|futur|hour|nvidia|quarterly",
+  "fp:21b|biggest|dollar|exchang|fund|investment|london|market|onchain|payward",
+  "fp:125b|37m|ark|block|buy|dorsey|earn|follow|forecast|full",
+  "fp:access|centrally|clear|derivativ|exchang|feedback|foreign|oversea|propos|qualifi"
 ]
