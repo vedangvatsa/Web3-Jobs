@@ -1,5 +1,53 @@
 [
   {
+    "id": "swan-bitcoin-ae-private-2026",
+    "title": "Account Executive, Swan Private",
+    "company": "Swan Bitcoin",
+    "link": "https://bitcoinerjobs.com/job/2392143-account-executive-swan-private-swan-bitcoin",
+    "date": "2026-08-04T00:00:00.000Z",
+    "source": "BitcoinerJobs: Swan Bitcoin",
+    "location": "United States (Remote)",
+    "department": "Sales & Business Development",
+    "active": true,
+    "slug": "account-executive-swan-private"
+  },
+  {
+    "id": "swan-bitcoin-director-private-2026",
+    "title": "Director, Swan Private",
+    "company": "Swan Bitcoin",
+    "link": "https://bitcoinerjobs.com/job/2392154-director-swan-private-swan-bitcoin",
+    "date": "2026-08-04T00:00:00.000Z",
+    "source": "BitcoinerJobs: Swan Bitcoin",
+    "location": "United States (Remote)",
+    "department": "Private Client Services",
+    "active": true,
+    "slug": "director-swan-private"
+  },
+  {
+    "id": "swan-bitcoin-md-private-2026",
+    "title": "Managing Director, Swan Private",
+    "company": "Swan Bitcoin",
+    "link": "https://bitcoinerjobs.com/job/2392149-managing-director-swan-private-swan-bitcoin",
+    "date": "2026-08-04T00:00:00.000Z",
+    "source": "BitcoinerJobs: Swan Bitcoin",
+    "location": "United States (Remote)",
+    "department": "Executive & Private Client",
+    "active": true,
+    "slug": "managing-director-swan-private"
+  },
+  {
+    "id": "swan-bitcoin-ciso-2026",
+    "title": "Chief Information Security Officer",
+    "company": "Swan Bitcoin",
+    "link": "https://bitcoinerjobs.com/job/2392151-chief-information-security-officer-swan-bitcoin",
+    "date": "2026-08-04T00:00:00.000Z",
+    "source": "BitcoinerJobs: Swan Bitcoin",
+    "location": "United States (Remote)",
+    "department": "Security & Operations",
+    "active": true,
+    "slug": "chief-information-security-officer"
+  },
+  {
     "id": "polychain-55193530",
     "title": "Senior Data Scientist",
     "company": "Crusoe",
@@ -11931,18 +11979,6 @@
     "slug": "marketing209"
   },
   {
-    "id": "33930e7b-ec43-41c2-8118-1c5ec675e47d",
-    "title": "Business Development Lead",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/33930e7b-ec43-41c2-8118-1c5ec675e47d",
-    "date": "2026-08-24T15:23:13.666+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "United States",
-    "department": "Growth",
-    "active": true,
-    "slug": "product5e47d"
-  },
-  {
     "id": "3b91b8f5-e50a-4a41-ac15-3639dc196b6c",
     "title": "Binance Accelerator Program - HR Talent Acquisition",
     "company": "Binance",
@@ -11953,30 +11989,6 @@
     "department": "HR",
     "active": true,
     "slug": "frontend209"
-  },
-  {
-    "id": "c5b44dc6-4deb-4ae0-bef8-769988188c84",
-    "title": "Proposal Writer / Capture Manager",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/c5b44dc6-4deb-4ae0-bef8-769988188c84",
-    "date": "2026-08-24T14:56:53.044+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Growth",
-    "active": true,
-    "slug": "manager88c84"
-  },
-  {
-    "id": "519f64a9-c56b-45ea-ad91-bf124925b1ad",
-    "title": "Forward Deployed Drone Technician",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/519f64a9-c56b-45ea-ad91-bf124925b1ad",
-    "date": "2026-08-24T14:01:41.675+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "San Francisco",
-    "department": "Engineering",
-    "active": true,
-    "slug": "forward5b1ad"
   },
   {
     "id": "8742301002",
@@ -24477,18 +24489,6 @@
     "slug": "analyst124"
   },
   {
-    "id": "4f1433df-38f3-481b-a7f1-b7bca4caf887",
-    "title": "Head of Growth",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/4f1433df-38f3-481b-a7f1-b7bca4caf887",
-    "date": "2026-08-04T02:47:50.396+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "United States",
-    "department": "Growth",
-    "active": true,
-    "slug": "marketingaf887"
-  },
-  {
     "id": "f2dd2e43-8716-4bbc-a627-96b15939abb6",
     "title": "Technical Solutions Engineer",
     "company": "Talos",
@@ -35198,18 +35198,6 @@
     "department": "Product Management",
     "active": true,
     "slug": "product429"
-  },
-  {
-    "id": "49aed4c4-b76b-4c18-860d-00972b3e986f",
-    "title": "Hardware Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/49aed4c4-b76b-4c18-860d-00972b3e986f",
-    "date": "2026-07-13T17:56:45.919+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "San Francisco",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineere986f"
   },
   {
     "id": "7955056",
@@ -59877,18 +59865,6 @@
     "slug": "engineeraf0ba"
   },
   {
-    "id": "0aefd607-c0f3-436c-bbd4-f3b10367af0a",
-    "title": "Forward Deployed Robotics Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/0aefd607-c0f3-436c-bbd4-f3b10367af0a",
-    "date": "2026-03-02T20:08:12.174+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer7af0a"
-  },
-  {
     "id": "7663023",
     "title": "Product Designer, Stablecoin",
     "company": "Stripe",
@@ -68839,30 +68815,6 @@
     "slug": "engineer63"
   },
   {
-    "id": "fe2721ec-20d5-49c9-adba-25f1fc748234",
-    "title": "Robotics Integration Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/fe2721ec-20d5-49c9-adba-25f1fc748234",
-    "date": "2025-03-07T06:01:39.927+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer48234"
-  },
-  {
-    "id": "cac547a6-1936-4bae-86ed-4f23281bdb29",
-    "title": "DSP / SDR Receiver Engineer — Navigation & Communications",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/cac547a6-1936-4bae-86ed-4f23281bdb29",
-    "date": "2025-03-05T07:30:09.110+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineerbdb29"
-  },
-  {
     "id": "7871047002",
     "title": "Enterprise Mobility Platform Engineer",
     "company": "Jane Street",
@@ -68873,18 +68825,6 @@
     "department": "IT and Systems Engineering",
     "active": true,
     "slug": "engineer64"
-  },
-  {
-    "id": "52092952-6cb4-4a5e-9574-de7d0a3f1574",
-    "title": "Machine Learning Software Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/52092952-6cb4-4a5e-9574-de7d0a3f1574",
-    "date": "2025-03-05T07:25:10.626+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineerf1574"
   },
   {
     "id": "f36fb156-5909-48da-ad91-7edbf7baecb2",
@@ -68909,18 +68849,6 @@
     "department": "Legal",
     "active": true,
     "slug": "compliance5"
-  },
-  {
-    "id": "3d8c6ee9-f7d9-4054-a186-99d9d65e4b00",
-    "title": "Infrastructure Software Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/3d8c6ee9-f7d9-4054-a186-99d9d65e4b00",
-    "date": "2025-03-05T07:18:55.384+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "devopse4b00"
   },
   {
     "id": "f76092a9-a0f2-427d-aa97-b894ec1893e6",
@@ -69199,18 +69127,6 @@
     "slug": "product26"
   },
   {
-    "id": "eb60f112-0d57-4669-95bd-11d1658c4bb5",
-    "title": "Computer Vision Algorithms Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/eb60f112-0d57-4669-95bd-11d1658c4bb5",
-    "date": "2025-01-30T07:43:41.478+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineerc4bb5"
-  },
-  {
     "id": "6443528",
     "title": "Deputy BSA & Sanctions Officer",
     "company": "Blockchain.com",
@@ -69221,18 +69137,6 @@
     "department": "Compliance",
     "active": true,
     "slug": "deputy1"
-  },
-  {
-    "id": "1457e3a1-c294-42b0-a12a-618e97d58a4c",
-    "title": "Robotics Software Engineer",
-    "company": "Swan Bitcoin",
-    "link": "https://jobs.ashbyhq.com/swan/1457e3a1-c294-42b0-a12a-618e97d58a4c",
-    "date": "2025-01-30T05:59:37.947+00:00",
-    "source": "Ashby: Swan Bitcoin [swan]",
-    "location": "Remote",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer58a4c"
   },
   {
     "id": "72bc0471-ab17-4123-81fa-c1ee3921af1f",
