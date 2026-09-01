@@ -52,9 +52,8 @@ export function NewsPageClient({ initialNewsItems }: { initialNewsItems: NewsIte
         onClick={() => trackNewsClick(item.title, item.link, item.source)}
         className="block group"
       >
-       <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow-sm border-transparent hover:border-border/60 bg-card transition-all duration-200">
-        <CardHeader className="pb-2 pt-4 px-4">
-         <div className="mb-1">
+       <Card className="flex flex-col h-full rounded-lg shadow-sm hover:shadow border bg-card transition-all duration-200 p-4">
+        <div className="flex items-center justify-between gap-2 mb-2">
           <Badge variant={
            item.source === 'Decrypt' ? 'destructive' :
            item.source === 'Cointelegraph' ? 'secondary' :
@@ -63,14 +62,13 @@ export function NewsPageClient({ initialNewsItems }: { initialNewsItems: NewsIte
           } className="text-[10px] uppercase font-semibold">
            {item.source}
           </Badge>
-         </div>
-         <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors line-clamp-2">
-          {item.title}
-         </CardTitle>
-        </CardHeader>
-        <CardContent className="flex-grow pt-0 pb-3 px-4">
-         <p className="text-sm text-muted-foreground line-clamp-3">{item.contentSnippet}</p>
-        </CardContent>
+          <span className="text-xs text-muted-foreground">
+            {new Date(item.pubDate).toLocaleDateString('en-US', { month: 'short', day: 'numeric' })}
+          </span>
+        </div>
+        <CardTitle className="text-base leading-snug font-semibold group-hover:text-primary transition-colors">
+         {item.title}
+        </CardTitle>
        </Card>
       </a>
      ))
