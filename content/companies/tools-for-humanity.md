@@ -4,7 +4,7 @@ website: 'https://toolsforhumanity.com'
 founded: 2019
 category: Technology / Identity
 headquarters: 'San Francisco, CA & Berlin, Germany'
-description: >-
+description: "Tools for Humanity, founded in 2019 in San Francisco by Sam Altman, Alex Blania and Max Novendstern, builds World, formerly Worldcoin, centered on World ID proof of personhood via the Orb hardware device and the WLD token. The project aims to distinguish humans from AI online while preserving privacy through zero-knowledge proofs and broad global distribution. Adopted by millions of verified humans across many countries, World combines biometric hardware, privacy research and blockchain issuance with a consumer World App for payments and identity. Backed by leading investors including Andreessen Horowitz and Khosla Ventures, the organization operates hardware manufacturing and operator logistics at unusual scale. Headquartered in San Francisco and Berlin with hubs in Munich and Erlangen, the culture blends product, privacy engineering and global operations with careful rollout."
  The technology company that built the initial Worldcoin protocol and the World
  App.
 ---

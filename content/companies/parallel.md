@@ -2,7 +2,7 @@
 name: Parallel
 category: Gaming/Metaverse
 headquarters: Toronto, Canada
-description: Parallel is a sci-fi trading card game built using Web3 digital asset ownership.
+description: "Parallel, founded in 2021 by Kalos and a team of veteran AAA game developers in Toronto, creates next-generation gaming experiences and sci-fi universes powered by Ethereum and Base blockchain infrastructure. Its flagship products include Parallel TCG, an acclaimed competitive digital trading card game with provable card ownership, and Colony, an autonomous AI-driven survival simulation where on-chain AI agents own digital wallets and interact within a shared virtual economy. Backed by Paradigm and leading gaming funds, Parallel blends AAA visual design, deep lore crafting and player-owned game economies."
 ---
 
 Parallel is an organization building technology in the cryptocurrency and Web3 ecosystem.

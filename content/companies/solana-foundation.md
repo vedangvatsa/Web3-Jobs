@@ -2,7 +2,7 @@
 name: Solana Foundation
 website: 'https://solana.foundation'
 category: Other
-description: >-
+description: "Solana Foundation, established in 2020 in Zug to steward the Solana network, a high-throughput L1 known for low fees and sub-second finality, operates as a Swiss non-profit. Founded alongside contributors including Anatoly Yakovenko, the Foundation funds protocol R&D, validator programs, grants and education supporting a broad community of users and developers building DeFi, DePIN and consumer apps. Unlike a company, it is a non-profit that allocates resources via grants and ecosystem initiatives rather than custodying user funds. Backed by network adoption and ecosystem contributions, it coordinates upgrades including Firedancer. Headquartered in Zug with core teams in San Francisco, New York and remote globally, the Foundation guides governance and ecosystem growth. Expect a collaborative, developer-focused culture centered on decentralization, network reliability and expanding accessible, composable blockchain infrastructure for mainstream adoption today."
  Supports the Solana blockchain ecosystem through grants and community
  initiatives.
 ---

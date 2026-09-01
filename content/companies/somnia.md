@@ -2,7 +2,7 @@
 name: Somnia
 category: Layer 1/Layer 2
 headquarters: London, UK
-description: Somnia builds an EVM-compatible L1 blockchain optimized for high-volume virtual applications.
+description: "Somnia, initiated by the Virtual Society Foundation (VSF) in 2024, develops a high-performance, EVM-compatible Layer 1 blockchain capable of processing over 400,000 transactions per second with sub-second finality. Engineered specifically for mass-consumer applications, gaming, social protocols and interconnected metaverses, Somnia introduces proprietary IceDB database architecture and advanced compiler optimizations that eliminate traditional EVM execution bottlenecks while retaining standard Solidity developer tooling. Governed by VSF and distributed globally, Somnia focuses on open-source protocol research, throughput benchmarking and empowering creators to deploy rich, real-time interactive virtual worlds on-chain."
 ---
 
 Somnia is an organization building technology in the cryptocurrency and Web3 ecosystem.

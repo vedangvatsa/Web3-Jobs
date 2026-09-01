@@ -2,7 +2,7 @@
 name: Beam
 category: Web3 Gaming
 headquarters: Remote
-description: Beam is a gaming-focused blockchain network and software ecosystem powered by Merit Circle.
+description: "Beam is an open-source gaming blockchain network and software ecosystem launched by Merit Circle DAO. Built as a flexible Avalanche subnet and EVM network, Beam provides game developers with seamless account abstraction SDKs, NFT marketplaces, and in-game asset management tools for mass consumer titles."
 ---
 
 Beam is a gaming network and developer SDK suite built to power Web3 game economies and player account abstraction.

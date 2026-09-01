@@ -2,7 +2,7 @@
 name: Brale
 category: Stablecoins
 headquarters: Des Moines, USA
-description: Brale is a regulated stablecoin issuance platform enabling institutions to issue custom digital assets.
+description: "Brale is a regulated financial technology platform and licensed stablecoin issuer enabling businesses, fintechs, and financial institutions to create, deploy, and manage custom stablecoins backed by fiat and US Treasuries across multiple blockchain networks."
 ---
 
 Brale is a financial infrastructure institution providing programmable stablecoin issuance and reserve management software.
