@@ -355,7 +355,7 @@ export async function getCompanies(): Promise<Company[]> {
     companies.map(async (company) => {
      const content = await loadCompanyContent(company.slug);
      if (content?.website) company.website = content.website;
-     const desc = content?.description || COMPANY_RICH_ABOUT[company.slug];
+     const desc = COMPANY_RICH_ABOUT[company.slug] || content?.description;
      company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
     })
    );
@@ -428,7 +428,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   // Try to load enriched content
   const content = await loadCompanyContent(slug);
   if (content?.website) company.website = content.website;
-  const desc = content?.description || COMPANY_RICH_ABOUT[slug];
+  const desc = COMPANY_RICH_ABOUT[slug] || content?.description;
   company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
  
  return company;
