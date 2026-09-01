@@ -738,7 +738,7 @@ async function refreshJobsCache() {
     { board: 'Hyperliquid Labs', company: 'Hyperliquid Labs' },
     { board: 'Tools for Humanity', company: 'Tools for Humanity' },
     { board: 'Solana Foundation', company: 'Solana Foundation' },
-    { board: 'Sui Foundation', company: 'Sui Foundation' },
+    { board: 'sui foundation', company: 'Sui Foundation' },
     { board: 'ethereum-foundation', company: 'Ethereum Foundation' },
     { board: 'category-labs', company: 'Category Labs' },
     { board: 'monad.foundation', company: 'Monad Foundation' },
