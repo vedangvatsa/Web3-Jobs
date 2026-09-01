@@ -72,13 +72,13 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
             </nav>
 
             <header className="border-b pb-8">
-              <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
+              <div className="flex items-center gap-5">
                 <div className="flex h-16 w-16 shrink-0 items-center justify-center">
                   <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
                 </div>
                 <div className="min-w-0 flex-1">
                   <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{displayName}</h1>
-                  <div className="mt-3 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
+                  <div className="mt-2 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
                     <span className="flex items-center gap-1.5">
                       <Briefcase className="h-4 w-4" aria-hidden="true" />
                       {company.jobCount} role{company.jobCount !== 1 ? 's' : ''}
@@ -94,13 +94,13 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
                       </OutboundLink>
                     )}
                   </div>
-                  {company.description && (
-                    <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
-                      {company.description}
-                    </p>
-                  )}
                 </div>
               </div>
+              {company.description && (
+                <p className="mt-6 w-full text-sm leading-relaxed text-muted-foreground">
+                  {company.description}
+                </p>
+              )}
             </header>
 
             <section className="mt-10">
