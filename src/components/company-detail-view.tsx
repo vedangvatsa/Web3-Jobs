@@ -73,8 +73,8 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
 
             <header className="border-b pb-8">
               <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-                <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-xl border border-border/80 bg-muted/30 p-2 shadow-sm">
-                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full object-contain" />
+                <div className="flex h-16 w-16 shrink-0 items-center justify-center">
+                  <CompanyLogo logoSrc={logoSrc} faviconUrl={faviconUrl} name={displayName} size="h-full w-full" />
                 </div>
                 <div className="min-w-0 flex-1">
                   <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{displayName}</h1>
@@ -95,7 +95,7 @@ export async function CompanyDetailView({ slug }: { slug: string }) {
                     )}
                   </div>
                   {company.description && (
-                    <p className="mt-4 max-w-3xl text-sm leading-relaxed text-muted-foreground">
+                    <p className="mt-4 text-sm leading-relaxed text-muted-foreground">
                       {company.description}
                     </p>
                   )}
