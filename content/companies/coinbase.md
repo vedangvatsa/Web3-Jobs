@@ -4,7 +4,7 @@ website: 'https://coinbase.com'
 founded: 2012
 category: Cryptocurrency Exchange
 headquarters: 'San Francisco, California, USA'
-description: The largest U.S.-based cryptocurrency exchange and bitcoin custodian
+description: "Coinbase, founded in 2012 by Brian Armstrong and Fred Ehrsam in San Francisco, is the largest US-listed crypto exchange (NASDAQ: COIN) with 110M+ verified users and $300B+ quarterly traded volume. Products span retail, Advanced Trade, Wallet self-custody, Base L2 and institutional prime. Public since 2021, Coinbase drives US policy engagement and proof-of-reserves standards. The bar is high for security thinking, regulatory judgment and shipping consumer-grade crypto products."
 ---
 
 Coinbase is an American cryptocurrency exchange founded in June 2012 by Brian Armstrong and Fred Ehrsam. Armstrong, a former Airbnb engineer, entered Y Combinator in summer 2012. Ehrsam, a former Goldman Sachs trader, noticed Armstrong's posts on Reddit and joined as co-founder. The name comes from coinbase transactions, the special transactions that create new coins in proof of work networks. As of 2024, Coinbase is the largest U.S. based exchange and the largest bitcoin custodian among public companies.

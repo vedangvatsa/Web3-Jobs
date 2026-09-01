@@ -2,7 +2,7 @@
 name: Orca
 website: 'https://orca.so'
 category: DeFi Protocol
-description: >-
+description: "Orca, founded in 2021 by Yutaro Mori and Grace Kwan, former 0x and Stanford contributors, in New York, builds a concentrated liquidity automated market maker on Solana and Eclipse. Its flagship Orca DEX introduces Whirlpools for efficient price ranges, simple swaps, liquidity provision and portfolio tracking with low fees and fast finality. Designed for approachable DeFi, Orca emphasizes clean UX, friendly onboarding and concentrated liquidity tooling that helps LPs manage positions without advanced market expertise. Headquartered in New York with a distributed team, Orca governs development via ORCA token and ecosystem grants for Solana builders. The platform handles significant daily swap volume for Solana users. Expect a design-forward, user-centric culture that values DeFi accessibility, product polish and helping everyday users provide liquidity and swap confidently."
  Orca is a decentralized exchange focused on providing efficient trading
  solutions.
 ---

@@ -4,7 +4,7 @@ website: 'https://kraken.com'
 founded: 2011
 category: Cryptocurrency Exchange
 headquarters: 'San Francisco, California, USA'
-description: One of the oldest and most trusted U.S. cryptocurrency exchanges
+description: "Kraken, founded in 2011 by Jesse Powell in San Francisco, is one of the oldest regulated crypto exchanges, serving 10M+ clients and 200+ countries with spot, margin, futures and staking, plus a UK FCA-registered and US FinCEN-registered footprint. Privately held, it emphasizes security, proof-of-reserves and 24/7 client support. Kraken also built Kraken Wallet and is expanding in Europe and the Middle East. The culture values crypto conviction, customer focus and operational rigor."
 ---
 
 Kraken is one of the longest-running cryptocurrency exchanges, founded in 2011 by Jesse Powell. The platform supports 200+ cryptocurrencies and offers spot, futures, and margin trading.

@@ -2,7 +2,7 @@
 name: Delphi Digital
 website: 'https://www.delphidigital.io'
 category: Other
-description: >-
+description: "Delphi Digital, founded in 2018 by Anil Lulla, Yan Liberman, Kevin Kelly and Tom Shaughnessy in New York, is a leading institutional research, consulting and venture investment firm dedicated exclusively to the crypto and digital asset ecosystem. Through Delphi Research, Delphi Labs and Delphi Ventures, the firm delivers institutional-grade market analysis, economic mechanism design and early-stage capital to pioneering DeFi and Layer 1/2 protocols. Known for rigorous on-chain modeling and deep thesis-driven research, Delphi prizes analytical clarity, intellectual honesty and long-term ecosystem building."
  Delphi Digital provides research and consulting services in the digital asset
  space.
 ---

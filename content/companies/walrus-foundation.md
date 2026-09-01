@@ -2,7 +2,7 @@
 name: Walrus Foundation
 website: 'https://walrus.xyz'
 category: Other
-description: >-
+description: "Walrus Foundation, established in 2024 to steward Walrus, is a decentralized storage and data availability protocol originally incubated by Mysten Labs, core builders of Sui in Zug and Palo Alto. Walrus decouples blob storage from computation, offering high-throughput, low-cost storage for large files, checkpoints and rollup data secured by delegated proof-of-stake. The Foundation, headquartered in Zug with global contributors, administers grants, validator programs and ecosystem growth independent of Mysten while coordinating upgrades and token governance. Emphasizing verifiable replication and erasure coding, Walrus targets AI, gaming and archiving workloads that exceed typical chain storage limits. Governed as open infrastructure, it supports Sui-native integrations and cross-chain tooling. Expect a collaborative, ecosystem-focused culture centered on storage reliability, open development and expanding practical decentralized infrastructure for data-intensive builders."
  Non-profit organization focused on supporting open-source projects in the
  blockchain space.
 ---

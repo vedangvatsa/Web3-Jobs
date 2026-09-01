@@ -2,7 +2,7 @@
 name: Talos
 website: 'https://talos.com'
 category: Other
-description: >-
+description: "Talos, founded in 2018 in New York by Anton Katz and Ethan Feldman, provides institutional trading infrastructure including order management, portfolio management and request-for-quote connectivity to many exchanges and over-the-counter desks. Its platform centralizes execution, compliance and settlement, serving funds, banks and market makers that route significant monthly volume through a single interface. The system handles algorithmic execution, smart order routing and treasury workflows with low-latency engineering and audited controls. Headquartered in New York with hubs in London, Singapore and Cyprus and a globally distributed team, Talos is backed by leading investors including Andreessen Horowitz and PayPal Ventures. The culture emphasizes reliable operations, execution quality and enabling institutions to trade crypto at scale with professional tooling and dedicated support globally."
  Talos provides institutional-grade trading and settlement solutions for
  digital assets.
 ---

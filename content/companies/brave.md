@@ -4,7 +4,7 @@ website: 'https://brave.com'
 founded: 2015
 category: Browser / Web3
 headquarters: 'San Francisco, California'
-description: >-
+description: "Brave, founded in 2015 by Brendan Eich, creator of JavaScript, and Brian Bondy in San Francisco, develops the privacy-focused Brave Browser and the Basic Attention Token (BAT) ecosystem. The browser blocks trackers and ads by default, offering private search, firewall-VPN and Brave Rewards that share ad revenue with users who opt in. Serving millions of active users across desktop and mobile, Brave also integrates Brave Wallet, a self-custody multichain wallet, and Brave Leo AI assistant. Headquartered in San Francisco with hubs in London and remote globally, Brave is independently funded and champions open-source, Chromium-based development. The team advocates for user ownership of data and attention. Expect a mission-driven culture that values privacy engineering, thoughtful product tradeoffs and building an alternative to surveillance-based browsing."
  Privacy-focused web browser with integrated crypto wallet and BAT token
  rewards
 ---

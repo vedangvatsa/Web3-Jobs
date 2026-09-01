@@ -2,7 +2,7 @@
 name: Elliptic
 website: 'https://elliptic.co'
 category: Blockchain Analytics
-description: >-
+description: "Elliptic, founded in 2013 in London by James Smith, Tom Robinson and Adam Joyce, pioneered blockchain analytics for investigations and compliance, serving law enforcement, regulators and exchanges across many chains. Its Holistic screening traces flows through mixers and cross-chain bridges, helping recover funds and meet sanctions obligations with court-admissible evidence. Headquartered in London with hubs in New York and Singapore, Elliptic is trusted for research quality and deep coverage of crypto assets, stablecoins and network entities. Backed by leading investors including Wells Fargo Strategic Capital and SBI, the company emphasizes data accuracy, investigative rigor and helping make crypto safe for mainstream adoption. The team combines data science, law enforcement collaboration and continuous model improvement to surface risky activity early for customers globally."
  Provides blockchain analytics and compliance solutions for cryptocurrency
  businesses.
 ---

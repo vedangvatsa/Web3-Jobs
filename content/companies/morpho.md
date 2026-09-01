@@ -2,7 +2,7 @@
 name: Morpho
 website: 'https://morpho.xyz'
 category: DeFi Protocol
-description: >-
+description: "Morpho is a decentralized lending protocol on Ethereum and Base that optimizes interest rates for borrowers and lenders by matching supply and demand peer-to-peer while falling back on underlying liquidity pools like Compound and Aave. Known for its permissionless Morpho Blue primitives and vault architecture, Morpho prioritizes formal verification, smart contract security, and capital efficiency."
  Morpho is a decentralized finance protocol focused on optimizing lending and
  borrowing.
 ---
