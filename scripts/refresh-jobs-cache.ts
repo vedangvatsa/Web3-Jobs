@@ -1647,7 +1647,7 @@ async function refreshJobsCache() {
       pathPattern: /^\/careers\/[^/]+$/,
       titleSelector: 'h1',
       locationSelector: '.location',
-      contentSelector: 'main, body',
+      contentSelector: 'article.legal-content, article.role-detail, article',
     },
   ];
 
