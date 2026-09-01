@@ -154,7 +154,7 @@ export function buildSynthesizedJobContent(job: Job): string {
   const plainLen = plainTextFromHtml(raw).length;
   if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
 
-  const blocks = cleanAndExtractBlocks(raw);
+  const blocks = cleanAndExtractBlocks(raw, job);
   if (blocks.length === 0) return buildUniqueJobPageContent(job);
 
   const location = job.location?.trim() || 'the employer-specified location';
@@ -276,7 +276,7 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
 /**
  * Clean up HTML tags and extract structured block elements using Cheerio.
  */
-function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; text: string }> {
+function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p' | 'li'; text: string }> {
   let decoded = html
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
@@ -288,17 +288,15 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
 
   const $ = cheerio.load(decoded);
 
-  // Remove non-content tags
-  $('script, style, iframe, noscript, svg, button, form, input').remove();
+  // Remove non-content tags and navigation / apply button boilerplate
+  $('script, style, iframe, noscript, svg, button, form, input, .role-back, .apply-row, .role-meta').remove();
 
-  // Preserve outbound links as tokens so formatJobContent can restore real
-  // anchors after escaping; without this, employer copy renders phrases like
-  // "visit our website at ..." with no hyperlink at all.
+  // Strip links pointing to internal career lists or apply endpoints
   $('a').each((_, el) => {
     const $el = $(el);
     const href = ($el.attr('href') || '').trim();
     const label = $el.text().trim();
-    if (!href || !/^https?:\/\//i.test(href)) {
+    if (!href || !/^https?:\/\//i.test(href) || /fillout\.com|apply/i.test(href) || /←|all open roles/i.test(label)) {
       $el.replaceWith(label);
       return;
     }
@@ -375,6 +373,10 @@ function cleanAndExtractBlocks(html: string): Array<{ type: 'h3' | 'p' | 'li'; t
     // Skip leaked / non-content noise
     if (/^#LI-[A-Z0-9-]+$/i.test(line)) continue;
     if (/^It Pays to Work Here\.?$/i.test(line.trim())) continue;
+    if (/^←\s*All open roles/i.test(line.trim())) continue;
+    if (/^Apply$/i.test(line.trim())) continue;
+    if (/^Location.*Type/i.test(line.trim())) continue;
+    if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
 
     // Bullet item
     const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
