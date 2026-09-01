@@ -200,25 +200,25 @@ export async function POST(request: Request) {
             uri: 'ui://hashtagweb3.com/jobs',
             name: 'Web3 Jobs Directory UI',
             description: 'Interactive UI showing the latest Web3 and blockchain job listings.',
-            mimeType: 'text/html'
+            mimeType: 'text/html;profile=mcp-app'
           },
           {
             uri: 'ui://hashtagweb3.com/glossary',
             name: 'Web3 Glossary UI',
             description: 'Interactive UI directory for Web3 concepts, terms, and definitions.',
-            mimeType: 'text/html'
+            mimeType: 'text/html;profile=mcp-app'
           },
           {
             uri: 'ui://hashtagweb3.com/news',
             name: 'Crypto News UI',
             description: 'Interactive UI feed for the latest crypto news headlines.',
-            mimeType: 'text/html'
+            mimeType: 'text/html;profile=mcp-app'
           },
           {
             uri: 'ui://hashtagweb3.com/events',
             name: 'Web3 Events Calendar UI',
             description: 'Interactive calendar listing upcoming blockchain and crypto conferences.',
-            mimeType: 'text/html'
+            mimeType: 'text/html;profile=mcp-app'
           },
           {
             uri: 'hashtagweb3://jobs/latest',
@@ -251,7 +251,12 @@ export async function POST(request: Request) {
         const jobs = await getJobs();
         const html = `<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><title>Hashtag Web3 - Jobs</title></head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>Hashtag Web3 - Jobs</title>
+</head>
 <body>
 <h1>Hashtag Web3 Jobs Directory</h1>
 <p>Browse verified Web3 opportunities at <a href="https://hashtagweb3.com/jobs">hashtagweb3.com/jobs</a></p>
@@ -263,7 +268,7 @@ ${jobs.slice(0, 10).map(j => `<li><strong>${j.title}</strong> at ${j.company} ($
           jsonrpc: '2.0',
           id,
           result: {
-            contents: [{ uri, mimeType: 'text/html', text: html }],
+            contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
         }, { headers: { 'Access-Control-Allow-Origin': '*' } });
       }
@@ -272,7 +277,12 @@ ${jobs.slice(0, 10).map(j => `<li><strong>${j.title}</strong> at ${j.company} ($
         const terms = await getAllTerms();
         const html = `<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><title>Hashtag Web3 - Glossary</title></head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>Hashtag Web3 - Glossary</title>
+</head>
 <body>
 <h1>Hashtag Web3 Glossary</h1>
 <p>200+ blockchain and DeFi term definitions at <a href="https://hashtagweb3.com/glossary">hashtagweb3.com/glossary</a></p>
@@ -284,7 +294,7 @@ ${terms.slice(0, 10).map(t => `<li><strong>${t.term}</strong>: ${t.description}<
           jsonrpc: '2.0',
           id,
           result: {
-            contents: [{ uri, mimeType: 'text/html', text: html }],
+            contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
         }, { headers: { 'Access-Control-Allow-Origin': '*' } });
       }
@@ -293,7 +303,12 @@ ${terms.slice(0, 10).map(t => `<li><strong>${t.term}</strong>: ${t.description}<
         const news = await getNewsFeed();
         const html = `<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><title>Hashtag Web3 - News</title></head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>Hashtag Web3 - News</title>
+</head>
 <body>
 <h1>Hashtag Web3 Crypto News</h1>
 <p>Live industry headlines at <a href="https://hashtagweb3.com/news">hashtagweb3.com/news</a></p>
@@ -305,7 +320,7 @@ ${news.slice(0, 10).map(n => `<li><a href="${n.link}">${n.title}</a> (${n.pubDat
           jsonrpc: '2.0',
           id,
           result: {
-            contents: [{ uri, mimeType: 'text/html', text: html }],
+            contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
         }, { headers: { 'Access-Control-Allow-Origin': '*' } });
       }
@@ -314,7 +329,12 @@ ${news.slice(0, 10).map(n => `<li><a href="${n.link}">${n.title}</a> (${n.pubDat
         const events = await getEvents();
         const html = `<!DOCTYPE html>
 <html lang="en">
-<head><meta charset="utf-8"><title>Hashtag Web3 - Events</title></head>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="color-scheme" content="light dark">
+  <title>Hashtag Web3 - Events</title>
+</head>
 <body>
 <h1>Hashtag Web3 Events Calendar</h1>
 <p>Upcoming conferences and hackathons at <a href="https://hashtagweb3.com/events">hashtagweb3.com/events</a></p>
@@ -326,7 +346,7 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
           jsonrpc: '2.0',
           id,
           result: {
-            contents: [{ uri, mimeType: 'text/html', text: html }],
+            contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
         }, { headers: { 'Access-Control-Allow-Origin': '*' } });
       }
