@@ -1,0 +1,176 @@
+---
+title: Verifiable AI Inference
+description: >-
+  Using cryptographic proofs to verify that AI outputs are authentic and
+  untampered.
+order: 5
+readTime: 9 min
+difficulty: advanced
+prerequisites:
+  - introduction
+  - compute-networks
+quiz:
+  - question: What is verifiable inference?
+    options:
+      - Running AI models faster using specialized hardware.
+      - >-
+        Cryptographically proving that a specific AI model produced a specific
+        output from a specific input.
+      - Training AI models on verified datasets.
+      - Checking if an AI model has been fine-tuned.
+    correct: 1
+    explanation: >-
+      Verifiable inference uses cryptographic proofs (like ZK proofs or TEE
+      attestations) to prove that a given output was produced by a specific
+      model with specific inputs, without needing to trust the server.
+  - question: Why is verifiable inference important for on-chain AI?
+    options:
+      - It makes smart contracts run faster.
+      - >-
+        Smart contracts cannot run AI models natively, so they need a
+        trustworthy way to consume off-chain AI outputs.
+      - It replaces the need for oracles.
+      - It allows blockchains to train AI models.
+    correct: 1
+    explanation: >-
+      Blockchains are too slow to run AI models directly. Instead, AI runs
+      off-chain, and verifiable inference lets smart contracts trust the result
+      without re-running the computation.
+  - question: What is zkML (Zero-Knowledge Machine Learning)?
+    options:
+      - A machine learning model that runs on a blockchain.
+      - >-
+        A technique that generates a cryptographic proof that a specific AI
+        model produced a specific output, without revealing the model's weights.
+      - A privacy-focused cryptocurrency.
+      - A method to compress AI models.
+    correct: 1
+    explanation: >-
+      zkML uses zero-knowledge proofs to prove that a particular inference
+      result came from a particular model, without exposing the model itself.
+      This lets smart contracts verify AI outputs trustlessly.
+  - question: What is the difference between zkML and opML (Optimistic ML)?
+    options:
+      - They are the same thing.
+      - >-
+        zkML proves correctness upfront with cryptographic proofs; opML assumes
+        correctness and only verifies if someone challenges the result.
+      - opML is faster than zkML in all cases.
+      - zkML only works with image models.
+    correct: 1
+    explanation: >-
+      zkML generates a proof at inference time (slow but guaranteed correct).
+      opML assumes the result is correct and opens a challenge window - if
+      someone disputes the result, a verification process runs. opML is faster
+      for the common case but has a delay for finality.
+  - question: Why can't smart contracts just run AI models directly?
+    options:
+      - Smart contracts don't support Python.
+      - >-
+        Running a neural network inference on-chain would cost millions of
+        dollars in gas fees - blockchains are designed for simple state
+        transitions, not heavy computation.
+      - Smart contracts can only process text.
+      - There aren't enough nodes.
+    correct: 1
+    explanation: >-
+      Even a small neural network requires millions of floating-point
+      operations. At Ethereum's gas prices, running inference on-chain would be
+      prohibitively expensive. This is why the computation happens off-chain and
+      only the verified result is submitted on-chain.
+---
+
+## The Trust Problem
+
+When you use ChatGPT, you trust OpenAI to actually run the model they claim. But what if the provider swapped out GPT-4 for a cheaper, smaller model to save costs? You'd never know.
+
+In traditional web apps, this is mostly a reputation issue. But in crypto, where smart contracts manage billions of dollars, trusting an off-chain AI output without verification is unacceptable.
+
+**Verifiable inference** solves this: it creates a cryptographic proof that a specific model produced a specific output from a specific input.
+
+## Why This Matters for Smart Contracts
+
+Smart contracts are deterministic - given the same inputs, they always produce the same outputs. AI models are not deterministic in the same way. This creates a fundamental tension:
+
+- A DeFi protocol wants to use AI to assess loan risk.
+- An NFT marketplace wants AI to detect fake art.
+- A DAO wants AI to summarize proposals.
+
+In each case, a smart contract needs to consume an AI output. But how does the contract know the AI output is legitimate?
+
+## Approaches to Verification
+
+### Zero-Knowledge Machine Learning (zkML)
+The gold standard. A ZK proof mathematically guarantees that a model produced a given output. The verifier (smart contract) can check the proof cheaply without re-running the model.
+
+**Pros:** Strongest guarantees, fully trustless.
+**Cons:** Extremely computationally expensive. Generating ZK proofs for large neural networks can take hours and cost more than the inference itself.
+
+**Projects:** EZKL, Modulus Labs, Giza.
+
+### Optimistic Machine Learning (opML)
+Similar to optimistic rollups. Assume the AI output is correct, but allow a dispute window where anyone can challenge it by re-running the inference.
+
+**Pros:** Much cheaper than zkML. Only expensive when disputes happen.
+**Cons:** Requires a dispute period (latency). Security depends on having honest challengers.
+
+**Projects:** ORA Protocol.
+
+### Trusted Execution Environments (TEEs)
+Run the AI model inside a hardware enclave (Intel SGX, AMD SEV, ARM TrustZone) that produces an attestation proving the code ran untampered.
+
+**Pros:** Fast, practical, works with any model size.
+**Cons:** Relies on hardware manufacturer trust. Not fully trustless.
+
+**Projects:** Phala Network, Marlin.
+
+## The Spectrum of Trust
+
+| Method | Trust Assumption | Speed | Cost | Best For |
+| --- | --- | --- | --- | --- |
+| zkML | Math only | Slow | Very high | High-value DeFi |
+| opML | Honest challengers | Medium | Low | General use |
+| TEE | Hardware vendor | Fast | Low | Real-time apps |
+
+Most production systems today use TEEs or opML because zkML is still too expensive for large models. But as ZK proof technology improves, the industry is moving toward fully trustless AI inference.
+
+<div class="diagram">
+<svg viewBox="0 0 800 160" fill="none" xmlns="http://www.w3.org/2000/svg" style="width:100%;max-width:700px">
+ <text x="400" y="20" text-anchor="middle" font-size="13" font-weight="bold" fill="#666">Trust Spectrum: less trust needed →</text>
+
+ <rect x="30" y="40" width="200" height="80" rx="10" fill="#fef3c7" stroke="#f59e0b" stroke-width="2"/>
+ <text x="130" y="65" text-anchor="middle" font-size="13" font-weight="600" fill="#92400e">TEE</text>
+ <text x="130" y="82" text-anchor="middle" font-size="10" fill="#b45309">Trust: hardware vendor</text>
+ <text x="130" y="97" text-anchor="middle" font-size="10" fill="#b45309">Speed: fast</text>
+ <text x="130" y="112" text-anchor="middle" font-size="10" fill="#b45309">Cost: low</text>
+
+ <rect x="280" y="40" width="200" height="80" rx="10" fill="#dbeafe" stroke="#3b82f6" stroke-width="2"/>
+ <text x="380" y="65" text-anchor="middle" font-size="13" font-weight="600" fill="#1e40af">opML</text>
+ <text x="380" y="82" text-anchor="middle" font-size="10" fill="#3b82f6">Trust: honest challengers</text>
+ <text x="380" y="97" text-anchor="middle" font-size="10" fill="#3b82f6">Speed: medium</text>
+ <text x="380" y="112" text-anchor="middle" font-size="10" fill="#3b82f6">Cost: low</text>
+
+ <rect x="530" y="40" width="200" height="80" rx="10" fill="#dcfce7" stroke="#22c55e" stroke-width="2"/>
+ <text x="630" y="65" text-anchor="middle" font-size="13" font-weight="600" fill="#166534">zkML</text>
+ <text x="630" y="82" text-anchor="middle" font-size="10" fill="#166534">Trust: math only</text>
+ <text x="630" y="97" text-anchor="middle" font-size="10" fill="#166534">Speed: slow</text>
+ <text x="630" y="112" text-anchor="middle" font-size="10" fill="#166534">Cost: high</text>
+
+ <line x1="230" y1="80" x2="280" y2="80" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#atrust)"/>
+ <line x1="480" y1="80" x2="530" y2="80" stroke="#94a3b8" stroke-width="1.5" marker-end="url(#atrust)"/>
+
+ <text x="400" y="150" text-anchor="middle" font-size="11" fill="#94a3b8">Most production systems use TEE or opML today; zkML is the goal</text>
+
+ <defs>
+ <marker id="atrust" markerWidth="8" markerHeight="6" refX="8" refY="3" orient="auto"><path d="M0,0 L8,3 L0,6" fill="#94a3b8"/></marker>
+ </defs>
+</svg>
+</div>
+
+## Real-World Applications
+
+- **AI Oracles:** Protocols like ORA bring AI model outputs on-chain with verification, enabling smart contracts to use GPT-level intelligence.
+- **Content Authentication:** Proving that a piece of content was generated by a specific model (useful for deepfake detection).
+- **Autonomous Trading:** DeFi protocols that use AI for trading strategies need verifiable execution to prevent operators from front-running.
+
+Verifiable inference is the bridge that connects AI capabilities to the trustless world of blockchain.

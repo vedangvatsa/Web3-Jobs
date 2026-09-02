@@ -1,0 +1,1342 @@
+{
+  "openapi": "3.1.0",
+  "info": {
+    "title": "Hashtag Web3 OpenAPI Specification & REST API",
+    "version": "1.0.0",
+    "description": "Public REST API for Hashtag Web3 (hashtagweb3.com). Search live Web3 jobs, crypto industry news, global blockchain conferences & hackathons, and the 200+ term Web3 glossary. Optimized for LLM agents, automated scripts, and developer integrations.",
+    "x-api-versioning": {
+      "policy": "URI path versioning (/api/v1/)",
+      "deprecation": "We signal deprecation using standard Deprecation and Sunset HTTP headers in API responses, with a minimum 12-month advance notice period.",
+      "policyUrl": "https://hashtagweb3.com/api-policy",
+      "documentationUrl": "https://hashtagweb3.com/developers"
+    },
+    "contact": {
+      "name": "Hashtag Web3 Developer Support",
+      "url": "https://hashtagweb3.com/developers",
+      "email": "contact@hashtagweb3.com"
+    },
+    "license": {
+      "name": "MIT",
+      "url": "https://opensource.org/licenses/MIT"
+    }
+  },
+  "servers": [
+    {
+      "url": "https://hashtagweb3.com/api/v1",
+      "description": "Production Server (Live Data)"
+    },
+    {
+      "url": "https://hashtagweb3.com/api/sandbox",
+      "description": "Sandbox / Test Environment (Mock Data, Zero-Auth, Safe Testing)"
+    },
+    {
+      "url": "https://hashtagweb3.com",
+      "description": "Production Server Root"
+    }
+  ],
+  "paths": {
+    "/api/jobs": {
+      "get": {
+        "operationId": "listJobs",
+        "summary": "List and Search Web3 Jobs",
+        "description": "Returns verified, active Web3, crypto, DeFi, and blockchain job postings. Supports full-text search, tag filtering, company filtering, and pagination.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Keyword search across job title, company name, tags, and description (e.g. 'Solidity', 'Frontend', 'Remote', 'Security').",
+            "schema": {
+              "type": "string",
+              "example": "Solidity"
+            }
+          },
+          {
+            "name": "tag",
+            "in": "query",
+            "required": false,
+            "description": "Filter by specific technology or ecosystem tag (e.g. 'Ethereum', 'Solana', 'DeFi', 'Rust', 'Marketing').",
+            "schema": {
+              "type": "string",
+              "example": "Ethereum"
+            }
+          },
+          {
+            "name": "company",
+            "in": "query",
+            "required": false,
+            "description": "Filter by company name (e.g. 'Coinbase', 'Uniswap Labs', 'Binance').",
+            "schema": {
+              "type": "string",
+              "example": "Coinbase"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of jobs to return (default: 50, max: 200).",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "minimum": 1,
+              "maximum": 200,
+              "example": 20
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "description": "Number of items to skip for pagination (default: 0).",
+            "schema": {
+              "type": "integer",
+              "default": 0,
+              "minimum": 0,
+              "example": 0
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "description": "Cursor pagination token for streamable iteration.",
+            "schema": {
+              "type": "string",
+              "example": "eyJvZmZzZXQiOjUwfQ=="
+            }
+          },
+          {
+            "name": "X-Sandbox",
+            "in": "header",
+            "required": false,
+            "description": "Set to 'true' to execute queries against the sandbox mock environment without touching production data.",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "true",
+                "false"
+              ],
+              "example": "false"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A paginated list of Web3 job postings.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request — Invalid query parameters.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/jobs": {
+      "get": {
+        "operationId": "listJobs",
+        "summary": "List and Search Web3 Jobs",
+        "description": "Returns verified, active Web3, crypto, DeFi, and blockchain job postings. Supports full-text search, tag filtering, company filtering, and pagination.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Keyword search across job title, company name, tags, and description (e.g. 'Solidity', 'Frontend', 'Remote', 'Security').",
+            "schema": {
+              "type": "string",
+              "example": "Solidity"
+            }
+          },
+          {
+            "name": "tag",
+            "in": "query",
+            "required": false,
+            "description": "Filter by specific technology or ecosystem tag (e.g. 'Ethereum', 'Solana', 'DeFi', 'Rust', 'Marketing').",
+            "schema": {
+              "type": "string",
+              "example": "Ethereum"
+            }
+          },
+          {
+            "name": "company",
+            "in": "query",
+            "required": false,
+            "description": "Filter by company name (e.g. 'Coinbase', 'Uniswap Labs', 'Binance').",
+            "schema": {
+              "type": "string",
+              "example": "Coinbase"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of jobs to return (default: 50, max: 200).",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "minimum": 1,
+              "maximum": 200,
+              "example": 20
+            }
+          },
+          {
+            "name": "offset",
+            "in": "query",
+            "required": false,
+            "description": "Number of items to skip for pagination (default: 0).",
+            "schema": {
+              "type": "integer",
+              "default": 0,
+              "minimum": 0,
+              "example": 0
+            }
+          },
+          {
+            "name": "cursor",
+            "in": "query",
+            "required": false,
+            "description": "Cursor pagination token for streamable iteration.",
+            "schema": {
+              "type": "string",
+              "example": "eyJvZmZzZXQiOjUwfQ=="
+            }
+          },
+          {
+            "name": "X-Sandbox",
+            "in": "header",
+            "required": false,
+            "description": "Set to 'true' to execute queries against the sandbox mock environment without touching production data.",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "true",
+                "false"
+              ],
+              "example": "false"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "A paginated list of Web3 job postings.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/JobListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request — Invalid query parameters.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/jobs/export": {
+      "post": {
+        "operationId": "exportJobsAsync",
+        "summary": "Asynchronous Web3 Jobs Export",
+        "description": "Initiates an asynchronous export of Web3 job listings. Returns 202 Accepted with a Location header pointing to the job status resource.",
+        "parameters": [
+          {
+            "name": "Idempotency-Key",
+            "in": "header",
+            "required": false,
+            "description": "Unique client-supplied idempotency key to prevent duplicate job exports on retry.",
+            "schema": {
+              "type": "string",
+              "example": "7b8f-4a2e-9d1c"
+            }
+          }
+        ],
+        "responses": {
+          "202": {
+            "description": "Export job accepted and queued for processing.",
+            "headers": {
+              "Location": {
+                "description": "URL to poll for job status.",
+                "schema": {
+                  "type": "string",
+                  "example": "https://hashtagweb3.com/api/jobs/export/export_1758181"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "job_id": {
+                      "type": "string",
+                      "example": "export_1758181"
+                    },
+                    "status": {
+                      "type": "string",
+                      "example": "queued"
+                    },
+                    "status_url": {
+                      "type": "string",
+                      "example": "https://hashtagweb3.com/api/jobs/export/export_1758181"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/jobs/export": {
+      "post": {
+        "operationId": "exportJobsAsync",
+        "summary": "Asynchronous Web3 Jobs Export",
+        "description": "Initiates an asynchronous export of Web3 job listings. Returns 202 Accepted with a Location header pointing to the job status resource.",
+        "parameters": [
+          {
+            "name": "Idempotency-Key",
+            "in": "header",
+            "required": false,
+            "description": "Unique client-supplied idempotency key to prevent duplicate job exports on retry.",
+            "schema": {
+              "type": "string",
+              "example": "7b8f-4a2e-9d1c"
+            }
+          }
+        ],
+        "responses": {
+          "202": {
+            "description": "Export job accepted and queued for processing.",
+            "headers": {
+              "Location": {
+                "description": "URL to poll for job status.",
+                "schema": {
+                  "type": "string",
+                  "example": "https://hashtagweb3.com/api/jobs/export/export_1758181"
+                }
+              }
+            },
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "job_id": {
+                      "type": "string",
+                      "example": "export_1758181"
+                    },
+                    "status": {
+                      "type": "string",
+                      "example": "queued"
+                    },
+                    "status_url": {
+                      "type": "string",
+                      "example": "https://hashtagweb3.com/api/jobs/export/export_1758181"
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/jobs/batch": {
+      "post": {
+        "operationId": "batchSearchJobs",
+        "summary": "Bulk / Batch Search Web3 Jobs",
+        "description": "Executes multiple job search queries in a single HTTP batch request.",
+        "parameters": [
+          {
+            "name": "Idempotency-Key",
+            "in": "header",
+            "required": false,
+            "description": "Unique client-supplied idempotency key to prevent duplicate operations.",
+            "schema": {
+              "type": "string",
+              "example": "9a1b-3c4d-5e6f"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "queries": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "search": {
+                          "type": "string",
+                          "example": "Solidity"
+                        },
+                        "company": {
+                          "type": "string",
+                          "example": "Coinbase"
+                        },
+                        "limit": {
+                          "type": "integer",
+                          "example": 10
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Batch query results.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "batch_results": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    },
+                    "total_queries": {
+                      "type": "integer",
+                      "example": 2
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/jobs/batch": {
+      "post": {
+        "operationId": "batchSearchJobs",
+        "summary": "Bulk / Batch Search Web3 Jobs",
+        "description": "Executes multiple job search queries in a single HTTP batch request.",
+        "parameters": [
+          {
+            "name": "Idempotency-Key",
+            "in": "header",
+            "required": false,
+            "description": "Unique client-supplied idempotency key to prevent duplicate operations.",
+            "schema": {
+              "type": "string",
+              "example": "9a1b-3c4d-5e6f"
+            }
+          }
+        ],
+        "requestBody": {
+          "required": true,
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "object",
+                "properties": {
+                  "queries": {
+                    "type": "array",
+                    "items": {
+                      "type": "object",
+                      "properties": {
+                        "search": {
+                          "type": "string",
+                          "example": "Solidity"
+                        },
+                        "company": {
+                          "type": "string",
+                          "example": "Coinbase"
+                        },
+                        "limit": {
+                          "type": "integer",
+                          "example": 10
+                        }
+                      }
+                    }
+                  }
+                }
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "Batch query results.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "type": "object",
+                  "properties": {
+                    "batch_results": {
+                      "type": "array",
+                      "items": {
+                        "type": "object"
+                      }
+                    },
+                    "total_queries": {
+                      "type": "integer",
+                      "example": 2
+                    }
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/news": {
+      "get": {
+        "operationId": "listNews",
+        "summary": "List Web3 & Crypto Industry News",
+        "description": "Retrieves real-time aggregated crypto and blockchain news headlines from premier industry publications including CoinDesk, Cointelegraph, and Decrypt.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Filter news headlines by keyword (e.g. 'Bitcoin', 'DeFi', 'ETF', 'Security').",
+            "schema": {
+              "type": "string",
+              "example": "Ethereum"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of news articles to return (default: 30, max: 100).",
+            "schema": {
+              "type": "integer",
+              "default": 30,
+              "minimum": 1,
+              "maximum": 100,
+              "example": 15
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of recent crypto news headlines.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NewsListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/news": {
+      "get": {
+        "operationId": "listNews",
+        "summary": "List Web3 & Crypto Industry News",
+        "description": "Retrieves real-time aggregated crypto and blockchain news headlines from premier industry publications including CoinDesk, Cointelegraph, and Decrypt.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Filter news headlines by keyword (e.g. 'Bitcoin', 'DeFi', 'ETF', 'Security').",
+            "schema": {
+              "type": "string",
+              "example": "Ethereum"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of news articles to return (default: 30, max: 100).",
+            "schema": {
+              "type": "integer",
+              "default": 30,
+              "minimum": 1,
+              "maximum": 100,
+              "example": 15
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of recent crypto news headlines.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/NewsListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/events": {
+      "get": {
+        "operationId": "listEvents",
+        "summary": "List Web3 Conferences & Hackathons",
+        "description": "Returns upcoming global Web3 conferences, crypto summits, developer hackathons, and virtual meetups.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Search by event name, city, country, or description.",
+            "schema": {
+              "type": "string",
+              "example": "Hackathon"
+            }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "required": false,
+            "description": "Filter by event format type.",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "conference",
+                "hackathon",
+                "meetup",
+                "workshop",
+                "online"
+              ],
+              "example": "conference"
+            }
+          },
+          {
+            "name": "country",
+            "in": "query",
+            "required": false,
+            "description": "Filter by country (e.g. 'United States', 'Singapore', 'United Arab Emirates').",
+            "schema": {
+              "type": "string",
+              "example": "United States"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of events to return (default: 50, max: 200).",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "minimum": 1,
+              "maximum": 200,
+              "example": 25
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of upcoming Web3 events.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EventListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/events": {
+      "get": {
+        "operationId": "listEvents",
+        "summary": "List Web3 Conferences & Hackathons",
+        "description": "Returns upcoming global Web3 conferences, crypto summits, developer hackathons, and virtual meetups.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Search by event name, city, country, or description.",
+            "schema": {
+              "type": "string",
+              "example": "Hackathon"
+            }
+          },
+          {
+            "name": "type",
+            "in": "query",
+            "required": false,
+            "description": "Filter by event format type.",
+            "schema": {
+              "type": "string",
+              "enum": [
+                "conference",
+                "hackathon",
+                "meetup",
+                "workshop",
+                "online"
+              ],
+              "example": "conference"
+            }
+          },
+          {
+            "name": "country",
+            "in": "query",
+            "required": false,
+            "description": "Filter by country (e.g. 'United States', 'Singapore', 'United Arab Emirates').",
+            "schema": {
+              "type": "string",
+              "example": "United States"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of events to return (default: 50, max: 200).",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "minimum": 1,
+              "maximum": 200,
+              "example": 25
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of upcoming Web3 events.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/EventListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/glossary": {
+      "get": {
+        "operationId": "listGlossaryTerms",
+        "summary": "Search Web3 & Blockchain Glossary",
+        "description": "Query 200+ technical Web3 glossary terms across consensus, DeFi, cryptography, Layer 2 scaling, and tokenomics.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Search term name, definition, or synonyms (e.g. 'Zero Knowledge', 'AMM', 'Staking').",
+            "schema": {
+              "type": "string",
+              "example": "Zero Knowledge"
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "required": false,
+            "description": "Filter by glossary category.",
+            "schema": {
+              "type": "string",
+              "example": "DeFi"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of terms to return (default: 50, max: 250).",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "example": 20
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of matching glossary terms.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GlossaryListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/v1/glossary": {
+      "get": {
+        "operationId": "listGlossaryTerms",
+        "summary": "Search Web3 & Blockchain Glossary",
+        "description": "Query 200+ technical Web3 glossary terms across consensus, DeFi, cryptography, Layer 2 scaling, and tokenomics.",
+        "parameters": [
+          {
+            "name": "search",
+            "in": "query",
+            "required": false,
+            "description": "Search term name, definition, or synonyms (e.g. 'Zero Knowledge', 'AMM', 'Staking').",
+            "schema": {
+              "type": "string",
+              "example": "Zero Knowledge"
+            }
+          },
+          {
+            "name": "category",
+            "in": "query",
+            "required": false,
+            "description": "Filter by glossary category.",
+            "schema": {
+              "type": "string",
+              "example": "DeFi"
+            }
+          },
+          {
+            "name": "limit",
+            "in": "query",
+            "required": false,
+            "description": "Maximum number of terms to return (default: 50, max: 250).",
+            "schema": {
+              "type": "integer",
+              "default": 50,
+              "example": 20
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "List of matching glossary terms.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/GlossaryListResponse"
+                }
+              }
+            }
+          },
+          "400": {
+            "description": "Bad Request.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          },
+          "500": {
+            "description": "Internal Server Error.",
+            "content": {
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/ApiErrorResponse"
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "components": {
+    "schemas": {
+      "Job": {
+        "type": "object",
+        "required": [
+          "id",
+          "title",
+          "company",
+          "date",
+          "link"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "job-1049"
+          },
+          "title": {
+            "type": "string",
+            "example": "Senior Solidity Engineer"
+          },
+          "company": {
+            "type": "string",
+            "example": "Uniswap Labs"
+          },
+          "date": {
+            "type": "string",
+            "format": "date-time",
+            "example": "2026-08-24T10:00:00Z"
+          },
+          "link": {
+            "type": "string",
+            "format": "uri",
+            "example": "https://hashtagweb3.com/jobs"
+          },
+          "tags": {
+            "type": "array",
+            "items": {
+              "type": "string"
+            },
+            "example": [
+              "Solidity",
+              "Ethereum",
+              "DeFi",
+              "Remote"
+            ]
+          },
+          "location": {
+            "type": "string",
+            "example": "Remote"
+          },
+          "salary": {
+            "type": "string",
+            "example": "$160,000 - $220,000"
+          }
+        }
+      },
+      "JobListResponse": {
+        "type": "object",
+        "required": [
+          "data",
+          "meta"
+        ],
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Job"
+            }
+          },
+          "meta": {
+            "type": "object",
+            "required": [
+              "total",
+              "limit",
+              "offset",
+              "count"
+            ],
+            "properties": {
+              "total": {
+                "type": "integer",
+                "example": 3200
+              },
+              "limit": {
+                "type": "integer",
+                "example": 50
+              },
+              "offset": {
+                "type": "integer",
+                "example": 0
+              },
+              "count": {
+                "type": "integer",
+                "example": 50
+              }
+            }
+          }
+        }
+      },
+      "NewsItem": {
+        "type": "object",
+        "required": [
+          "title",
+          "link",
+          "pubDate",
+          "source"
+        ],
+        "properties": {
+          "title": {
+            "type": "string",
+            "example": "Ethereum Layer 2 Activity Reaches Record High"
+          },
+          "link": {
+            "type": "string",
+            "format": "uri",
+            "example": "https://cointelegraph.com/..."
+          },
+          "pubDate": {
+            "type": "string",
+            "format": "date-time",
+            "example": "2026-08-24T14:30:00Z"
+          },
+          "source": {
+            "type": "string",
+            "example": "Cointelegraph"
+          },
+          "contentSnippet": {
+            "type": "string",
+            "example": "Daily active addresses across major rollups surged..."
+          }
+        }
+      },
+      "NewsListResponse": {
+        "type": "object",
+        "required": [
+          "data",
+          "meta"
+        ],
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/NewsItem"
+            }
+          },
+          "meta": {
+            "type": "object",
+            "required": [
+              "total",
+              "count"
+            ],
+            "properties": {
+              "total": {
+                "type": "integer",
+                "example": 50
+              },
+              "count": {
+                "type": "integer",
+                "example": 30
+              }
+            }
+          }
+        }
+      },
+      "Web3Event": {
+        "type": "object",
+        "required": [
+          "id",
+          "name",
+          "startDate",
+          "location",
+          "url"
+        ],
+        "properties": {
+          "id": {
+            "type": "string",
+            "example": "ethdenver-2026"
+          },
+          "name": {
+            "type": "string",
+            "example": "ETHDenver 2026"
+          },
+          "description": {
+            "type": "string",
+            "example": "The largest Web3 #BUIDLathon and community gathering in the world."
+          },
+          "startDate": {
+            "type": "string",
+            "example": "2026-02-23"
+          },
+          "endDate": {
+            "type": "string",
+            "example": "2026-03-02"
+          },
+          "city": {
+            "type": "string",
+            "example": "Denver"
+          },
+          "country": {
+            "type": "string",
+            "example": "United States"
+          },
+          "location": {
+            "type": "string",
+            "example": "Denver, United States"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "example": "https://hashtagweb3.com/events/ethdenver-2026"
+          }
+        }
+      },
+      "EventListResponse": {
+        "type": "object",
+        "required": [
+          "data",
+          "meta"
+        ],
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/Web3Event"
+            }
+          },
+          "meta": {
+            "type": "object",
+            "required": [
+              "total",
+              "count"
+            ],
+            "properties": {
+              "total": {
+                "type": "integer",
+                "example": 3000
+              },
+              "count": {
+                "type": "integer",
+                "example": 50
+              }
+            }
+          }
+        }
+      },
+      "GlossaryTerm": {
+        "type": "object",
+        "required": [
+          "slug",
+          "term",
+          "category",
+          "definition"
+        ],
+        "properties": {
+          "slug": {
+            "type": "string",
+            "example": "zero-knowledge-proofs"
+          },
+          "term": {
+            "type": "string",
+            "example": "Zero-Knowledge Proofs (ZKP)"
+          },
+          "category": {
+            "type": "string",
+            "example": "Cryptography"
+          },
+          "definition": {
+            "type": "string",
+            "example": "A cryptographic method by which one party can prove to another that a given statement is true without conveying any information apart from the fact that the statement is indeed true."
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "example": "https://hashtagweb3.com/zero-knowledge-proofs"
+          }
+        }
+      },
+      "GlossaryListResponse": {
+        "type": "object",
+        "required": [
+          "data",
+          "meta"
+        ],
+        "properties": {
+          "data": {
+            "type": "array",
+            "items": {
+              "$ref": "#/components/schemas/GlossaryTerm"
+            }
+          },
+          "meta": {
+            "type": "object",
+            "required": [
+              "total",
+              "count"
+            ],
+            "properties": {
+              "total": {
+                "type": "integer",
+                "example": 210
+              },
+              "count": {
+                "type": "integer",
+                "example": 50
+              }
+            }
+          }
+        }
+      },
+      "ApiErrorResponse": {
+        "type": "object",
+        "required": [
+          "error"
+        ],
+        "properties": {
+          "error": {
+            "type": "object",
+            "required": [
+              "code",
+              "message",
+              "hint"
+            ],
+            "properties": {
+              "code": {
+                "type": "string",
+                "enum": [
+                  "BAD_REQUEST",
+                  "NOT_FOUND",
+                  "INTERNAL_SERVER_ERROR",
+                  "RATE_LIMITED"
+                ],
+                "example": "BAD_REQUEST"
+              },
+              "message": {
+                "type": "string",
+                "example": "Invalid parameter: 'limit' must be an integer between 1 and 200."
+              },
+              "hint": {
+                "type": "string",
+                "example": "Adjust the limit parameter and retry. View docs at https://hashtagweb3.com/developers"
+              },
+              "docUrl": {
+                "type": "string",
+                "format": "uri",
+                "example": "https://hashtagweb3.com/developers"
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

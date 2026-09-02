@@ -1,0 +1,157 @@
+# robots.txt — Hashtag Web3
+# https://hashtagweb3.com
+
+User-agent: *
+Allow: /
+Allow: /api/jobs
+Allow: /api/news
+Allow: /api/events
+Allow: /api/glossary
+Allow: /api/openapi.yaml
+Allow: /openapi.json
+Allow: /llms.txt
+Allow: /llms-full.txt
+Allow: /.well-known/
+Allow: /_next/static/
+Disallow: /_next/
+Disallow: /api/auth/
+Disallow: /api/send-job-alerts
+
+# ─── AI SEARCH & AGENT CRAWLERS (Explicitly Allowed) ───
+
+User-agent: ChatGPT-User
+Allow: /
+
+User-agent: GPTBot
+Allow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+
+User-agent: ClaudeBot
+Allow: /
+
+User-agent: anthropic-ai
+Allow: /
+
+User-agent: Claude-Web
+Allow: /
+
+User-agent: PerplexityBot
+Allow: /
+
+User-agent: Google-Extended
+Allow: /
+
+User-agent: GoogleOther
+Allow: /
+
+User-agent: Googlebot
+Allow: /
+
+User-agent: ora-agent
+Allow: /
+
+User-agent: DeepSeekBot
+Allow: /
+
+User-agent: cohere-ai
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Applebot
+Allow: /
+
+User-agent: Amazonbot
+Allow: /
+
+User-agent: Meta-ExternalAgent
+Allow: /
+
+User-agent: Diffbot
+Allow: /
+
+User-agent: Timpibot
+Allow: /
+
+User-agent: Phind
+Allow: /
+
+User-agent: Kagibot
+Allow: /
+
+User-agent: Brave
+Allow: /
+
+User-agent: DuckDuckBot
+Allow: /
+
+User-agent: YandexBot
+Allow: /
+
+User-agent: facebookexternalhit
+Allow: /
+
+User-agent: LinkedInBot
+Allow: /
+
+User-agent: Twitterbot
+Allow: /
+
+User-agent: TelegramBot
+Allow: /
+
+User-agent: WhatsApp
+Allow: /
+
+User-agent: Slackbot
+Allow: /
+
+User-agent: Discordbot
+Allow: /
+
+User-agent: YouBot
+Allow: /
+
+# ─── AGGRESSIVE SCRAPERS (Rate Limiting / Disallow) ───
+
+User-agent: AhrefsBot
+Disallow: /
+
+User-agent: SemrushBot
+Disallow: /
+
+User-agent: DotBot
+Disallow: /
+
+User-agent: MJ12bot
+Disallow: /
+
+User-agent: PetalBot
+Disallow: /
+
+User-agent: MegaIndex.ru
+Disallow: /
+
+User-agent: BLEXBot
+Disallow: /
+
+User-agent: DataForSeoBot
+Disallow: /
+
+# ─── TRAINING-ONLY SCRAPERS (Disallow) ───
+
+User-agent: CCBot
+Disallow: /
+
+# Bytespider is a TikTok/ByteDance training scraper — disallowed
+User-agent: Bytespider
+Disallow: /
+
+# ─── DISCOVERY FILES ───
+
+Sitemap: https://hashtagweb3.com/sitemap.xml
+schemamap: https://hashtagweb3.com/schemamap.xml
+Content-Signal: search=yes, ai-train=no

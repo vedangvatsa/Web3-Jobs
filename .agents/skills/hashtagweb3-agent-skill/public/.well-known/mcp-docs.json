@@ -1,0 +1,65 @@
+{
+  "name": "hashtagweb3-docs-mcp",
+  "displayName": "Hashtag Web3 Documentation Server",
+  "description": "Model Context Protocol (MCP) server dedicated to Hashtag Web3 developer guides, OpenAPI specifications, agent authentication, and Web3 career playbooks.",
+  "version": "1.0.0",
+  "iconUrl": "https://hashtagweb3.com/logo.png",
+  "documentationUrl": "https://hashtagweb3.com/developers",
+  "serverUrl": "https://hashtagweb3.com/api/mcp-docs",
+  "url": "https://hashtagweb3.com/api/mcp-docs",
+  "endpoint": "https://hashtagweb3.com/api/mcp-docs",
+  "transport": "streamable-http",
+  "tools": [
+    {
+      "name": "get_documentation",
+      "description": "Retrieve comprehensive developer API guides, OpenAPI schema details, and agent authentication workflows.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "topic": {
+            "type": "string",
+            "description": "Documentation topic (api, auth, rate_limits, pagination, mcp, sandbox)"
+          }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      }
+    },
+    {
+      "name": "search_playbooks",
+      "description": "Search 700+ Web3 career guides, resume building tips, salary calculations, and interview questions.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "query": {
+            "type": "string",
+            "description": "Search term for career playbooks and guides"
+          }
+        },
+        "required": ["query"]
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      }
+    }
+  ],
+  "resources": [
+    {
+      "uri": "hashtagweb3-docs://api/reference",
+      "name": "Hashtag Web3 API Reference",
+      "description": "Comprehensive API endpoints and parameters reference.",
+      "mimeType": "text/markdown"
+    },
+    {
+      "uri": "hashtagweb3-docs://auth/agent",
+      "name": "Hashtag Web3 Agent Authentication Guide",
+      "description": "WorkOS auth.md compliant agent registration and token workflow.",
+      "mimeType": "text/markdown"
+    }
+  ]
+}

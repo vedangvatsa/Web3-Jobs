@@ -7,7 +7,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/310/1200/630'
 data-ai-hint: career goals
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## Setting Career Goals That Work

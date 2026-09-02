@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Account abstraction lets your Ethereum account be a smart contract instead of a single private key. ERC-4337 is the standard that makes it work today without changing Ethereum consensus.

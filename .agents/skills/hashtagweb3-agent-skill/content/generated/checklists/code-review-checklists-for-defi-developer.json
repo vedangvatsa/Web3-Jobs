@@ -1,0 +1,416 @@
+{
+ "meta": {
+ "contentType": "checklists",
+ "topic": "code-review",
+ "niche": "defi-developer",
+ "generatedAt": "2026-05-17T05:30:09.437Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "DeFi Code Review Checklist",
+ "description": "Peer review checklist for DeFi protocol code changes. Covers financial logic, oracles, MEV protection, and integration safety.",
+ "keywords": [
+ "defi-developer",
+ "checklists",
+ "code-review",
+ "web3",
+ "smart-contract",
+ "blockchain",
+ "financial-logic-review",
+ "oracle-integration",
+ "liquidity-&-solvency"
+ ],
+ "canonicalSlug": "code-review-checklists-for-defi-developer"
+ },
+ "content": {
+ "intro": "A detailed code review checklist specifically for DeFi protocols. Use this when reviewing PRs for lending protocols, DEXs, yield aggregators, and other financial smart contracts.",
+ "sections": [
+ {
+ "heading": "Financial Logic Review",
+ "description": "Verify correctness of financial calculations.",
+ "items": [
+ {
+ "title": "Verify interest rate calculations",
+ "description": "Check compound interest formulas, accrual frequency, and precision handling.",
+ "priority": "critical",
+ "category": "Math"
+ },
+ {
+ "title": "Check exchange rate calculations",
+ "description": "Verify share/asset conversions. Look for rounding direction vulnerabilities.",
+ "priority": "critical",
+ "category": "Math"
+ },
+ {
+ "title": "Review fee calculations and distribution",
+ "description": "Verify fee percentages, recipients, and collection timing.",
+ "priority": "critical",
+ "category": "Economics"
+ },
+ {
+ "title": "Validate collateral ratio math",
+ "description": "Check liquidation thresholds, LTV calculations, and health factor formulas.",
+ "priority": "critical",
+ "category": "Math"
+ },
+ {
+ "title": "Verify reward distribution logic",
+ "description": "Check reward accrual, claiming, and vesting calculations.",
+ "priority": "critical",
+ "category": "Economics"
+ },
+ {
+ "title": "Check for precision loss in divisions",
+ "description": "Review order of operations. Multiply before divide to preserve precision.",
+ "priority": "critical",
+ "category": "Math"
+ },
+ {
+ "title": "Validate slippage calculations",
+ "description": "Verify slippage tolerance is applied correctly in swaps.",
+ "priority": "critical",
+ "category": "Trading"
+ },
+ {
+ "title": "Review decimal handling for different tokens",
+ "description": "Verify handling of 6-decimal (USDC), 8-decimal (WBTC), and 18-decimal tokens.",
+ "priority": "critical",
+ "category": "Math"
+ }
+ ]
+ },
+ {
+ "heading": "Oracle Integration",
+ "description": "Review price feed usage and manipulation resistance.",
+ "items": [
+ {
+ "title": "Verify oracle staleness checks",
+ "description": "Confirm stale price detection with appropriate thresholds per asset.",
+ "priority": "critical",
+ "category": "Oracles"
+ },
+ {
+ "title": "Check for oracle manipulation vectors",
+ "description": "Assess if prices can be manipulated within a single transaction.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Review TWAP implementation if used",
+ "description": "Verify TWAP window is long enough to resist manipulation.",
+ "priority": "critical",
+ "category": "Oracles"
+ },
+ {
+ "title": "Check fallback oracle logic",
+ "description": "Verify behavior when primary oracle fails or returns invalid data.",
+ "priority": "critical",
+ "category": "Oracles"
+ },
+ {
+ "title": "Verify price decimal normalization",
+ "description": "Ensure oracle prices are correctly scaled for calculations.",
+ "priority": "critical",
+ "category": "Math"
+ },
+ {
+ "title": "Check round ID validation (Chainlink)",
+ "description": "Verify answeredInRound >= roundId for fresh data.",
+ "priority": "important",
+ "category": "Oracles"
+ },
+ {
+ "title": "Review price bounds/circuit breakers",
+ "description": "Verify extreme price movements trigger protection mechanisms.",
+ "priority": "important",
+ "category": "Security"
+ },
+ {
+ "title": "Check for oracle front-running risks",
+ "description": "Assess if oracle updates create arbitrage or attack opportunities.",
+ "priority": "important",
+ "category": "Security"
+ }
+ ]
+ },
+ {
+ "heading": "Liquidity & Solvency",
+ "description": "Verify protocol remains solvent under all conditions.",
+ "items": [
+ {
+ "title": "Check for bad debt scenarios",
+ "description": "Verify liquidation incentives ensure positions are closed before underwater.",
+ "priority": "critical",
+ "category": "Solvency"
+ },
+ {
+ "title": "Review withdrawal queue logic",
+ "description": "Check handling of insufficient liquidity for withdrawals.",
+ "priority": "critical",
+ "category": "Liquidity"
+ },
+ {
+ "title": "Verify use rate calculations",
+ "description": "Ensure interest rates respond appropriately to use.",
+ "priority": "important",
+ "category": "Economics"
+ },
+ {
+ "title": "Check first depositor attack resistance",
+ "description": "Verify initial share minting doesn't allow share manipulation.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Review share inflation attacks",
+ "description": "Check for donation attacks that inflate share value.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Verify reserve factor collection",
+ "description": "Check that protocol reserves are correctly accumulated.",
+ "priority": "important",
+ "category": "Economics"
+ },
+ {
+ "title": "Check for dust attack vectors",
+ "description": "Verify small amounts don't cause DoS or accounting issues.",
+ "priority": "important",
+ "category": "Security"
+ },
+ {
+ "title": "Review emergency liquidity mechanisms",
+ "description": "Verify circuit breakers and emergency withdrawal paths.",
+ "priority": "important",
+ "category": "Emergency"
+ }
+ ]
+ },
+ {
+ "heading": "MEV & Ordering",
+ "description": "Review transaction ordering vulnerabilities.",
+ "items": [
+ {
+ "title": "Identify sandwich attack vectors",
+ "description": "Check if user transactions can be profitably sandwiched.",
+ "priority": "critical",
+ "category": "MEV"
+ },
+ {
+ "title": "Review frontrunning opportunities",
+ "description": "Identify transactions that leak profitable information.",
+ "priority": "critical",
+ "category": "MEV"
+ },
+ {
+ "title": "Check deadline parameter usage",
+ "description": "Verify swaps/operations have expiration timestamps.",
+ "priority": "critical",
+ "category": "MEV"
+ },
+ {
+ "title": "Verify slippage protection",
+ "description": "Confirm minimum output amounts are enforced correctly.",
+ "priority": "critical",
+ "category": "Trading"
+ },
+ {
+ "title": "Review liquidation ordering",
+ "description": "Check if liquidation ordering can be gamed for MEV.",
+ "priority": "important",
+ "category": "MEV"
+ },
+ {
+ "title": "Check for JIT liquidity vulnerabilities",
+ "description": "Assess if just-in-time liquidity can exploit users.",
+ "priority": "important",
+ "category": "MEV"
+ },
+ {
+ "title": "Review backrunning opportunities",
+ "description": "Identify if large trades create backrunning value.",
+ "priority": "important",
+ "category": "MEV"
+ },
+ {
+ "title": "Consider private mempool usage",
+ "description": "For sensitive operations, recommend Flashbots or similar.",
+ "priority": "nice-to-have",
+ "category": "MEV"
+ }
+ ]
+ },
+ {
+ "heading": "Access Control & Governance",
+ "description": "Review permission systems and admin functions.",
+ "items": [
+ {
+ "title": "Review all admin-only functions",
+ "description": "Verify admin capabilities are documented and limited appropriately.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Check timelock on parameter changes",
+ "description": "Sensitive parameters should have timelock delays.",
+ "priority": "critical",
+ "category": "Governance"
+ },
+ {
+ "title": "Verify role separation",
+ "description": "Different functions should require different roles.",
+ "priority": "important",
+ "category": "Access Control"
+ },
+ {
+ "title": "Review upgrade mechanisms",
+ "description": "Check proxy patterns, storage layouts, and upgrade auth.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Check emergency pause functionality",
+ "description": "Verify pause scope, who can trigger, and unpause process.",
+ "priority": "critical",
+ "category": "Emergency"
+ },
+ {
+ "title": "Review guardian/multisig requirements",
+ "description": "Critical functions should require multiple signers.",
+ "priority": "important",
+ "category": "Security"
+ },
+ {
+ "title": "Check for centralization risks",
+ "description": "Identify single points of failure or excessive admin power.",
+ "priority": "important",
+ "category": "Decentralization"
+ },
+ {
+ "title": "Verify parameter bounds",
+ "description": "Admin-settable parameters should have sensible limits.",
+ "priority": "important",
+ "category": "Safety"
+ }
+ ]
+ },
+ {
+ "heading": "Integration Safety",
+ "description": "Review external protocol interactions.",
+ "items": [
+ {
+ "title": "Check reentrancy on external calls",
+ "description": "Verify CEI pattern or reentrancy guards on all external calls.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Review token approval handling",
+ "description": "Check for approval race conditions and infinite approvals.",
+ "priority": "important",
+ "category": "Security"
+ },
+ {
+ "title": "Verify callback handler security",
+ "description": "If implementing callbacks (flash loans), verify caller validation.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Check for composability assumptions",
+ "description": "Document assumptions about integrated protocols.",
+ "priority": "important",
+ "category": "Documentation"
+ },
+ {
+ "title": "Review flash loan integration",
+ "description": "If using flash loans, verify proper repayment and callback security.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Check for read-only reentrancy",
+ "description": "Verify view functions can't be manipulated via reentrancy.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Verify cross-protocol assumptions",
+ "description": "Check assumptions about external protocol behavior.",
+ "priority": "important",
+ "category": "Integration"
+ },
+ {
+ "title": "Review token standard edge cases",
+ "description": "Check handling of fee-on-transfer, rebasing, and non-standard tokens.",
+ "priority": "important",
+ "category": "Compatibility"
+ }
+ ]
+ },
+ {
+ "heading": "Testing & Documentation",
+ "description": "Verify code quality and test coverage.",
+ "items": [
+ {
+ "title": "Check test coverage for changes",
+ "description": "New code should have detailed tests including edge cases.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Verify fuzzing for financial functions",
+ "description": "Mathematical operations should be fuzz tested.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Review integration test scenarios",
+ "description": "Complex user flows should have end-to-end tests.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Check invariant tests",
+ "description": "Protocol invariants should be tested with property-based tests.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Verify NatSpec documentation",
+ "description": "All public functions should have complete documentation.",
+ "priority": "important",
+ "category": "Documentation"
+ },
+ {
+ "title": "Review change documentation",
+ "description": "PR should explain what changed and why.",
+ "priority": "important",
+ "category": "Documentation"
+ },
+ {
+ "title": "Check for gas optimizations needed",
+ "description": "High-frequency functions should be gas efficient.",
+ "priority": "nice-to-have",
+ "category": "Optimization"
+ },
+ {
+ "title": "Verify event emissions",
+ "description": "State changes should emit appropriate events.",
+ "priority": "important",
+ "category": "Observability"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ "Always trace the math by hand: For any financial calculation, work through specific examples manually before trusting the code.",
+ "Think like an attacker with a flash loan: Ask: What could I do with unlimited capital in a single transaction? This catches most DeFi bugs.",
+ "Check edge cases: zero, one, max: Every numeric input should be tested with 0, 1, and type(uint256).max.",
+ "Review rounding direction for every division: Rounding should favor the protocol, not users. Inconsistent rounding is exploitable.",
+ "Draw the token flow diagram: For complex operations, diagram where tokens move. Missing flows mean lost or stuck funds."
+ ],
+ "relatedResources": []
+ }
+}

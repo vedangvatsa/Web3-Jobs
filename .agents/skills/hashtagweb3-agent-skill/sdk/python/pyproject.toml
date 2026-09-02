@@ -1,0 +1,25 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "hashtagweb3"
+version = "1.0.0"
+description = "Official Python SDK for Hashtag Web3 jobs, crypto news, events, and technical glossary APIs."
+readme = "README.md"
+authors = [{ name = "Hashtag Web3", email = "support@hashtagweb3.com" }]
+license = { text = "MIT" }
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+requires-python = ">=3.8"
+dependencies = [
+    "requests>=2.25.0",
+]
+
+[project.urls]
+Homepage = "https://hashtagweb3.com"
+Repository = "https://github.com/vedangvatsa/Web3-Jobs"
+Documentation = "https://hashtagweb3.com/developers"

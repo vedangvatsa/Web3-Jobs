@@ -1,0 +1,63 @@
+{
+  "specVersion": "0.91",
+  "host": {
+    "displayName": "Hashtag Web3",
+    "identifier": "did:web:hashtagweb3.com",
+    "documentationUrl": "https://hashtagweb3.com/developers"
+  },
+  "trustManifest": {
+    "identity": "https://hashtagweb3.com/.well-known/security.txt",
+    "domain": "hashtagweb3.com",
+    "issuer": "did:web:hashtagweb3.com"
+  },
+  "entries": [
+    {
+      "identifier": "urn:air:hashtagweb3.com:openapi",
+      "displayName": "Hashtag Web3 REST API",
+      "description": "OpenAPI 3.1.0 specification for searching Web3 jobs, crypto news, events, and glossary definitions.",
+      "mediaType": "application/vnd.oai.openapi+json;version=3.1",
+      "type": "application/vnd.oai.openapi+json;version=3.1",
+      "url": "https://hashtagweb3.com/openapi.json",
+      "trustManifest": {
+        "domain": "hashtagweb3.com",
+        "verified": true
+      }
+    },
+    {
+      "identifier": "urn:air:hashtagweb3.com:mcp",
+      "displayName": "Hashtag Web3 Action MCP Server",
+      "description": "Model Context Protocol streamable-http server for job search, glossary lookups, and event queries.",
+      "mediaType": "application/mcp+json",
+      "type": "application/mcp+json",
+      "url": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+      "trustManifest": {
+        "domain": "hashtagweb3.com",
+        "verified": true
+      }
+    },
+    {
+      "identifier": "urn:air:hashtagweb3.com:mcp-docs",
+      "displayName": "Hashtag Web3 Documentation MCP Server",
+      "description": "Model Context Protocol streamable-http documentation server for developer guides and API docs.",
+      "mediaType": "application/mcp+json",
+      "type": "application/mcp+json",
+      "url": "https://hashtagweb3.com/.well-known/mcp-docs/server-card.json",
+      "trustManifest": {
+        "domain": "hashtagweb3.com",
+        "verified": true
+      }
+    },
+    {
+      "identifier": "urn:air:hashtagweb3.com:agent-skills",
+      "displayName": "Hashtag Web3 Agent Skills Index",
+      "description": "Index of specialized capabilities and skills for autonomous AI agents.",
+      "mediaType": "application/json",
+      "type": "application/json",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/index.json",
+      "trustManifest": {
+        "domain": "hashtagweb3.com",
+        "verified": true
+      }
+    }
+  ]
+}

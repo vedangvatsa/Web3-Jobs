@@ -8,7 +8,7 @@ description: >-
   and use them.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Rollups are Ethereum's main scaling method today. A rollup runs transactions off chain, then posts the data to Ethereum. Ethereum checks the data and holds the canonical state. You get higher throughput and lower fees, with security tied to Ethereum.

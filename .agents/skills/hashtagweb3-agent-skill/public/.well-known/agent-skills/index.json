@@ -1,0 +1,42 @@
+{
+  "$schema": "https://schemas.agentskills.io/discovery/0.2.0/schema.json",
+  "name": "Hashtag Web3 Agent Skills",
+  "description": "Index of specialized capabilities and skills for AI agents querying Hashtag Web3.",
+  "skills": [
+    {
+      "name": "search_jobs",
+      "type": "skill-md",
+      "description": "Search verified Web3, crypto, DeFi, and blockchain jobs with title, company, tag, and salary filters.",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/search_jobs.md",
+      "digest": "sha256:444874db230d46a813418e2f9b885585fd9365110a521918a992cd3004a33ced"
+    },
+    {
+      "name": "lookup_glossary",
+      "type": "skill-md",
+      "description": "Retrieve comprehensive definitions and technical explanations for 200+ blockchain, consensus, and cryptography concepts.",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/lookup_glossary.md",
+      "digest": "sha256:c490a3632706a54e8401e8fde90d0d77b6cbfef59370986ae89d7c5c460e481f"
+    },
+    {
+      "name": "get_events",
+      "type": "skill-md",
+      "description": "Search upcoming global crypto conferences, hackathons, and developer summits by type and country.",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/get_events.md",
+      "digest": "sha256:62653f60b2f340cf9688b3e9e43397f161e80be3deb33c19d610955336abe3fb"
+    },
+    {
+      "name": "get_news",
+      "type": "skill-md",
+      "description": "Retrieve aggregated news headlines from premier blockchain publications.",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/get_news.md",
+      "digest": "sha256:96419e1d7633681518f4be193242ac12538515f814b4b0c2ea851c78ac73589c"
+    },
+    {
+      "name": "nlweb_query",
+      "type": "skill-md",
+      "description": "Query Web3 job market intelligence using natural-language questions via Microsoft NLWeb protocol.",
+      "url": "https://hashtagweb3.com/.well-known/agent-skills/nlweb_query.md",
+      "digest": "sha256:2a2a6d44f5dc5c9973879e1844b49189d5acefbbde3862348f26b1b9d44b9ab0"
+    }
+  ]
+}

@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: one on one meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Most one-on-ones are bad. Not because managers don't care, but because the meeting defaults to "what are you working on?" - and then 30 minutes disappear into a status rundown that could've been a Slack message. Here's how to fix it.

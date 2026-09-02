@@ -1,0 +1,195 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-13",
+  "contentTypes": [
+    {
+      "slug": "ideas",
+      "name": "Ideas",
+      "titleTemplate": "{count} {topic} Ideas for {niche}",
+      "description": "Actionable project and content ideas",
+      "icon": "Lightbulb",
+      "itemsPerSection": 15,
+      "sectionsCount": 4,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "title": "string",
+          "description": "string",
+          "difficulty": ["beginner", "intermediate", "advanced"],
+          "timeToComplete": "string",
+          "potential": ["high", "medium", "standard"]
+        }
+      },
+      "examples": [
+        "100 Portfolio Project Ideas for Solidity Developers",
+        "50 Side Project Ideas for Web3 Frontend Developers",
+        "100 Content Ideas for Web3 Marketers"
+      ]
+    },
+    {
+      "slug": "checklists",
+      "name": "Checklists",
+      "titleTemplate": "{topic} Checklist for {niche}",
+      "description": "Step-by-step actionable checklists",
+      "icon": "CheckSquare",
+      "itemsPerSection": 10,
+      "sectionsCount": 5,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "title": "string",
+          "description": "string",
+          "priority": ["critical", "important", "nice-to-have"],
+          "category": "string"
+        }
+      },
+      "examples": [
+        "Smart Contract Security Checklist for Solidity Developers",
+        "Pre-Launch Checklist for Web3 Founders",
+        "Code Review Checklist for Smart Contract Auditors"
+      ]
+    },
+    {
+      "slug": "templates",
+      "name": "Templates",
+      "titleTemplate": "{topic} Templates for {niche}",
+      "description": "Ready-to-use document and code templates",
+      "icon": "FileText",
+      "itemsPerSection": 8,
+      "sectionsCount": 4,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "title": "string",
+          "description": "string",
+          "useCase": "string",
+          "format": ["document", "spreadsheet", "code", "presentation"]
+        }
+      },
+      "examples": [
+        "Grant Proposal Templates for Web3 Founders",
+        "Security Report Templates for Smart Contract Auditors",
+        "Tokenomics Model Templates for Tokenomics Designers"
+      ]
+    },
+    {
+      "slug": "guides",
+      "name": "Guides",
+      "titleTemplate": "The Complete {topic} Guide for {niche}",
+      "description": "Comprehensive how-to guides",
+      "icon": "BookOpen",
+      "itemsPerSection": 12,
+      "sectionsCount": 5,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "title": "string",
+          "description": "string",
+          "difficulty": ["beginner", "intermediate", "advanced"],
+          "prerequisites": "string[]"
+        }
+      },
+      "examples": [
+        "The Complete Gas Optimization Guide for Solidity Developers",
+        "The Complete Fundraising Guide for Web3 Founders",
+        "The Complete Career Transition Guide for Web3 Product Managers"
+      ]
+    },
+    {
+      "slug": "mistakes",
+      "name": "Common Mistakes",
+      "titleTemplate": "{count} Common {topic} Mistakes {niche} Make (And How to Avoid Them)",
+      "description": "Mistakes to avoid with solutions",
+      "icon": "AlertTriangle",
+      "itemsPerSection": 10,
+      "sectionsCount": 3,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "title": "string",
+          "mistake": "string",
+          "consequence": "string",
+          "solution": "string",
+          "severity": ["critical", "major", "minor"]
+        }
+      },
+      "examples": [
+        "30 Common Security Mistakes Solidity Developers Make",
+        "25 Common Hiring Mistakes Web3 Founders Make",
+        "20 Common Community Management Mistakes"
+      ]
+    },
+    {
+      "slug": "questions",
+      "name": "Interview Questions",
+      "titleTemplate": "{count} {topic} Interview Questions for {niche}",
+      "description": "Role-specific interview preparation",
+      "icon": "HelpCircle",
+      "itemsPerSection": 15,
+      "sectionsCount": 4,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "question": "string",
+          "category": ["technical", "behavioral", "situational", "culture"],
+          "difficulty": ["beginner", "intermediate", "advanced"],
+          "sampleAnswer": "string",
+          "followUp": "string"
+        }
+      },
+      "examples": [
+        "60 Technical Interview Questions for Solidity Developers",
+        "50 Behavioral Interview Questions for Web3 Product Managers",
+        "40 Security Interview Questions for Smart Contract Auditors"
+      ]
+    },
+    {
+      "slug": "tools",
+      "name": "Tools & Resources",
+      "titleTemplate": "{count} Essential {topic} Tools for {niche}",
+      "description": "Curated tool recommendations",
+      "icon": "Wrench",
+      "itemsPerSection": 12,
+      "sectionsCount": 4,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "name": "string",
+          "description": "string",
+          "url": "string",
+          "pricing": ["free", "freemium", "paid"],
+          "category": "string"
+        }
+      },
+      "examples": [
+        "50 Essential Development Tools for Solidity Developers",
+        "40 Analytics Tools for Web3 Data Analysts",
+        "30 Community Management Tools for Web3 Community Managers"
+      ]
+    },
+    {
+      "slug": "skills",
+      "name": "Skills Roadmap",
+      "titleTemplate": "Essential {topic} Skills for {niche} in {year}",
+      "description": "Skills development roadmaps",
+      "icon": "TrendingUp",
+      "itemsPerSection": 10,
+      "sectionsCount": 4,
+      "proTipsCount": 5,
+      "schema": {
+        "item": {
+          "skill": "string",
+          "description": "string",
+          "importance": ["critical", "important", "nice-to-have"],
+          "learningResources": "string[]",
+          "timeToLearn": "string"
+        }
+      },
+      "examples": [
+        "Essential Technical Skills for Solidity Developers in 2026",
+        "Essential Soft Skills for Web3 Product Managers in 2026",
+        "Essential Security Skills for Smart Contract Auditors in 2026"
+      ]
+    }
+  ]
+}

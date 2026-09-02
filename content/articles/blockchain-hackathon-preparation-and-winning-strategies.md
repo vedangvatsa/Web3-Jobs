@@ -7,7 +7,7 @@ description: >-
  a team, brainstorm ideas, and build a winning project that gets you noticed.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 In the [Web3](/what-is-web3) ecosystem, hackathons play a central role in shaping the culture. They consist of intense, weekend-long events where builders collaborate to develop decentralized applications. For aspiring Web3 developers, participating in a hackathon, especially those organized by **[ETHGlobal](https://ethglobal.com/)**, can enhance career prospects.

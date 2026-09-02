@@ -68,6 +68,30 @@ function removePlaceholderKeyTakeaways(content: string): string {
  });
 }
 
+const latestArticlesPath = path.join(process.cwd(), 'content/latest-articles.json');
+
+/** Footer-only: reads precomputed JSON instead of scanning all article files. */
+export async function getFooterArticles(): Promise<ArticleMetadata[]> {
+ if (fs.existsSync(latestArticlesPath)) {
+  try {
+   const data = JSON.parse(fs.readFileSync(latestArticlesPath, 'utf8')) as ArticleMetadata[];
+   if (Array.isArray(data) && data.length > 0) {
+    return data;
+   }
+  } catch (err) {
+   console.error('[getFooterArticles] Could not read latest-articles.json:', err);
+  }
+ }
+
+ const all = await getAllArticles();
+ return [...all]
+  .sort(
+   (a, b) =>
+    new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime()
+  )
+  .slice(0, 5);
+}
+
 export async function getAllArticles(): Promise<ArticleMetadata[]> {
  if (process.env.NODE_ENV !== 'production') {
   return readArticlesFromDirectory(contentArticlesDirectory)

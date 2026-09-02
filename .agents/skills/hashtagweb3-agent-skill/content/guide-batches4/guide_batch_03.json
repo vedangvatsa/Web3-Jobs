@@ -1,0 +1,200 @@
+{
+  "mu-315990029": {
+    "summaryLead": "The ZK Learning Group kicks off a deep dive into ZkSync on August 27, 2026, bringing together developers and cryptography enthusiasts for a hands-on, zero-cost online session exploring zero knowledge proof applications.",
+    "sections": [
+      {
+        "heading": "What Is the ZK Learning Group?",
+        "content": [
+          "The ZK Learning Group is a community-run initiative organized by the LFDT Seattle chapter of the Linux Foundation Decentralized Trust. It operates as a structured, year-long exploration of zero knowledge and SNARK programming in application development. Rather than a one-off talk or workshop, this group is designed as a recurring learning track where participants work through material systematically, covering different facets of ZK cryptography over time.",
+          "The coordination happens through the Linux Foundation Decentralized Trust Discord server, giving participants a dedicated space to ask questions, share resources, and stay connected between sessions. There is also a public GitHub repository at github.com/LF-Decentralized-Trust-labs/zk-learning-group where lab materials and code are maintained, so attendees can follow along with practical exercises at their own pace."
+        ]
+      },
+      {
+        "heading": "This Session: Introduction to ZkSync",
+        "content": [
+          "On August 27, the group focuses on ZkSync, one of the leading Layer 2 scaling solutions built on zero knowledge rollups. ZkSync uses cryptographic proofs to batch transactions off-chain and then verify them on Ethereum, reducing gas fees and increasing throughput without sacrificing security. This introductory session will walk through the core concepts behind ZkSync and how developers can start building on the platform.",
+          "The session is designed for anyone interested in ZK cryptography, from those just getting started with blockchain development to experienced engineers exploring new tooling. The Zoom meeting link is provided to registered attendees, and the organizers have noted that this event is shared across their global community. If you cannot attend live, signing up still gets you a link to the recording afterward, which makes this accessible regardless of your time zone."
+        ]
+      },
+      {
+        "heading": "Who Should Attend and What to Expect",
+        "content": [
+          "This event is well suited for developers working in cryptography, blockchain security, and decentralized systems. If you have been curious about zero knowledge proofs but have not yet found a structured entry point, this learning group provides exactly that. The recurring nature of the sessions means you are not expected to absorb everything in a single sitting. Instead, you can build understanding incrementally alongside a community of peers.",
+          "At the time of writing, 61 attendees from 149 different groups had already marked themselves as going, which speaks to the broad interest in ZK education across the Meetup ecosystem. The session is labeled as a network event, meaning it is promoted beyond just the LFDT Seattle chapter. For anyone building or evaluating ZK-based applications, this is a solid opportunity to learn from practitioners who are actively working with the technology."
+        ]
+      },
+      {
+        "heading": "Practical Details",
+        "content": [
+          "The session runs on August 27, 2026, starting at 9:00 AM Pacific Time. It is held entirely online, so there is no travel required. Registration is free through Meetup, and the Zoom link becomes visible to registered attendees before the event starts.",
+          "Make sure to join the Discord channel in advance if you want to participate in discussions outside of the live session. The GitHub repository is also worth bookmarking, as it contains the lab materials you will reference during the session. Having both set up beforehand will let you focus on the content rather than scrambling to create accounts or clone repos during the event."
+        ]
+      }
+    ]
+  },
+  "mu-316021768": {
+    "summaryLead": "Francene hosts a recurring live demo of an AI-enhanced automated crypto trading platform on August 27, 2026, featuring a Q&A with the platform's founder and programmer for anyone curious about rules-based trading approaches.",
+    "sections": [
+      {
+        "heading": "What the Session Covers",
+        "content": [
+          "This is a live online demonstration of a fully automated trading platform that uses AI and algorithmic strategies to trade across both stock and cryptocurrency markets. According to the host, the platform has been in development and operation for over 25 years, which is a remarkably long track record in the automated trading space. The session is designed to show participants exactly how the system identifies opportunities and manages risk in real time.",
+          "During the demo, you will see the platform operating live, which means watching actual trade decisions unfold rather than looking at slides or historical backtests. The founder and programmer will walk through how the AI components and trading algorithms work together, explain why market volatility can create opportunities for systematic traders, and share current market insights. There is also a dedicated Q&A segment where attendees can ask anything they want."
+        ]
+      },
+      {
+        "heading": "Beginner Friendly and Educational",
+        "content": [
+          "The event is explicitly labeled as beginner friendly, covering blockchain networks, cryptocurrency, and AI. Whether you are brand new to crypto investing or already have a portfolio, the session is structured to meet you where you are. The host, Francene, describes herself as a Super Organizer on Meetup and notes that she has been running these live sessions with the founder for over a year. That repetition means the format is well polished and the presenters are accustomed to addressing a range of experience levels.",
+          "The core message is about removing emotion from trading through disciplined, rules-based automation. For anyone who has ever made a panic sell or a FOMO buy, this framing is appealing. The session does not push any particular investment strategy or product. Instead, it positions itself as educational, giving you the information to decide whether automated trading aligns with your goals."
+        ]
+      },
+      {
+        "heading": "How to Join and What to Know",
+        "content": [
+          "Registration is required and must be completed through impactearnings.com/webinar to receive your live session link. This is not a casual drop-in event. You need to reserve your spot in advance to get the Zoom credentials. The session runs on August 27, 2026, at 11:00 AM Pacific Time and is held entirely online.",
+          "It is worth noting that this is a recurring event, happening every two weeks on Thursday through January 15, 2027. So if this particular date does not work for you, there are plenty of future opportunities to attend. The consistent schedule also suggests a committed community of returning participants, which can make the Q&A portions more productive as people build on previous discussions."
+        ]
+      },
+      {
+        "heading": "Things to Keep in Mind",
+        "content": [
+          "As with any trading-related event, approach with a critical mind. Automated trading platforms carry risks, and past performance does not guarantee future results. The session is educational in nature, and the host frames it as an opportunity to learn and ask questions rather than a sales pitch. Still, do your own research before committing any capital to any trading system or platform.",
+          "The live format is genuinely useful for evaluation. Watching a system operate in real time is very different from reading a brochure or watching a recorded testimonial. You can observe how the platform handles market conditions as they actually happen, which gives you a much better sense of its behavior than any static presentation could provide."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-q8cXQSqKe5hB7VU": {
+    "summaryLead": "KUB Global Bangkok 2026 brings over 500 builders, developers, and institutional leaders together on August 28 for a full-day event at ZillaSpace covering programmable payments, tokenization, RWA, and the future of open financial infrastructure.",
+    "sections": [
+      {
+        "heading": "A Full-Day Ecosystem Extravaganza",
+        "content": [
+          "KUB Global is positioning itself as a comprehensive, full-day event that brings together builders, partners, developers, institutions, payment leaders, investors, and the KUB Chain community under one roof. The event takes place on August 28, 2026, at ZillaSpace, a modern event venue located on the 11th floor of the FYI Center in central Bangkok. With over 509 people already marked as going, this is one of the larger ecosystem events happening in Southeast Asia this summer.",
+          "The agenda is ambitious and packed. Registration and networking kick off at noon local time, followed by a welcome speech and grand opening at 1:00 PM. From there, the event moves through a series of focused sessions covering programmable payments and merchant adoption, the KUB ecosystem and tokenization, RWA and green economy applications, developer tools and ecosystem expansion, partner spotlights, and the KUB Chain vision and product roadmap. The day wraps up with discussions on dApps and Web3 opportunities before closing remarks at 9:30 PM."
+        ]
+      },
+      {
+        "heading": "Key Partners and Their Focus Areas",
+        "content": [
+          "The event is powered by four major partners, each bringing a distinct perspective. Agora joins as a key partner focused on stablecoins and programmable money, contributing to the conversation about the next evolution of digital financial infrastructure. Ondo, a blockchain technology company, is working to accelerate the transition to an open economy by building platforms and infrastructure that bring financial markets onchain. TRON is featured as a trusted Layer 1 network serving developers, institutions, and individuals worldwide.",
+          "Superteam Thailand is also a core partner, helping develop the largest Thai network of builders, founders, and entrepreneurs. In addition, Liberix is participating as a special ecosystem partner, contributing expertise in crypto-backed lending in Thai Baht and exploring practical ways digital assets can unlock real-world liquidity in Thailand. KUB Chain itself, the host organization, is building toward a more accessible, scalable, and practical blockchain ecosystem for real-world use cases."
+        ]
+      },
+      {
+        "heading": "Golden Time and Exclusive Perks",
+        "content": [
+          "One of the more playful elements of the event is the return of Golden Time, an interactive NFT-based reward mechanic. Attendees collect Golden Time NFTs throughout the day, and completing a full set unlocks exclusive rewards. The specific mechanics, eligibility criteria, and reward details are revealed during the event itself, adding an element of surprise and engagement that goes beyond typical conference fare.",
+          "Participants also receive exclusive event merchandise through previously selected KUB community activities and campaigns. Partner sponsors contribute additional merchandise through on-site activities. The combination of NFT rewards, physical swag, and networking opportunities creates multiple layers of incentive for staying engaged throughout the full day rather than just attending a single session."
+        ]
+      },
+      {
+        "heading": "Why This Matters for Bangkok and Beyond",
+        "content": [
+          "Bangkok has quietly become a significant hub for Web3 activity in Southeast Asia, and events like KUB Global reinforce that trajectory. The choice of ZillaSpace as the venue signals a certain level of production value and ambition. The venue is described as setting a new standard for event spaces, with modern design and central location.",
+          "For developers and builders working on payment infrastructure, tokenization, or DeFi in the Thai and broader Southeast Asian market, this event offers direct access to ecosystem partners who are actively investing in the region. The combination of institutional participants, technical sessions, and community networking makes it a well-rounded opportunity to both learn and make connections that could lead to partnerships, grants, or collaborative projects."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-n41e2dttG68htB5": {
+    "summaryLead": "Superteam India hosts a virtual workshop on August 28, 2026, for its gated community of Solana-focused operators, developers, and grantees looking to learn, earn, and build on the network.",
+    "sections": [
+      {
+        "heading": "What Superteam Actually Is",
+        "content": [
+          "Superteam is frequently misunderstood, so it is worth explaining clearly. It is a gated Slack workspace for people who meet specific membership criteria. There is no treasury, no take-rate, no commissions, and no token sale. From its inception, Superteam chose to be a collective of sovereigns rather than a sovereign collective. Any revenue generated goes to the individual members or teams that self-organize and win a bounty, secure a grant, or raise venture funding for their ideas.",
+          "This structure matters because it shapes the incentive dynamics. Members are not contributing to a shared pool controlled by a central entity. They are independent operators who benefit from the network effects of being connected to other high-quality builders in the Solana ecosystem. The community is the product, and members have exclusive access to it."
+        ]
+      },
+      {
+        "heading": "Superteam India Workshop Details",
+        "content": [
+          "The August 28 workshop is organized by Superteam India and hosted by Atharv Velhal. The session is virtual, with the exact platform to be announced. Registration requires approval, meaning you need to be accepted into the event rather than simply signing up. This gated approach is consistent with Superteam's overall philosophy of curating its community carefully.",
+          "The workshop falls under the broader umbrella of events that help talented people learn, earn, and build on Solana around the world. For those unfamiliar, Solana is a high-performance blockchain known for its speed and low transaction costs, which has attracted a large developer community building everything from DeFi protocols to consumer apps. Being part of Superteam India gives you direct access to opportunities within that ecosystem."
+        ]
+      },
+      {
+        "heading": "Office Hours and Community Rhythm",
+        "content": [
+          "One of the regular touchpoints for Superteam India members is the weekly Office Hours, held every Tuesday at 6 PM. These are dedicated spaces for members to discuss ongoing projects, share feedback, and help shape the direction of the community. The consistency of this cadence is important. It means there is always a predictable channel for engagement, rather than relying on sporadic events or announcements.",
+          "For anyone considering joining Superteam India, the Office Hours represent the kind of ongoing value that distinguishes a living community from a one-off event series. The ability to regularly connect with peers working on similar problems in the Solana ecosystem is a genuine advantage, particularly for builders who might otherwise feel isolated working on their projects."
+        ]
+      },
+      {
+        "heading": "Who Should Apply",
+        "content": [
+          "This workshop is most relevant for developers, operators, and founders who are actively building or planning to build on Solana. If you are a developer exploring Solana for the first time, the approval-based registration process means you will need to demonstrate some level of engagement or intent. This is not a barrier for the sake of exclusivity. It is a filtering mechanism that keeps the community focused and high-quality.",
+          "Superteam operates in many countries and regions, so being part of the India chapter connects you to both local and global networks. The combination of local workshops, global events like KUB Global, and the underlying Slack community creates multiple layers of engagement depending on your needs and availability."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-7QmJchNnzKUraiJ": {
+    "summaryLead": "The Skyline Coworking session originally planned for August 28 in New York City has been cancelled due to the venue being inaccessible, though Solana Skyline NYC continues to organize events for the local ecosystem.",
+    "sections": [
+      {
+        "heading": "What Was Planned",
+        "content": [
+          "Skyline Coworking was a regular meetup organized by Solana Skyline NYC, part of a broader series of events for the Solana ecosystem in New York City. The sessions were designed to give local builders, developers, and community members a shared workspace and networking opportunity. The event was scheduled for August 28, 2026, in New York, with registration originally open through Luma.",
+          "These coworking sessions serve a practical purpose that goes beyond typical meetup formats. Rather than sitting through presentations, participants get dedicated time to work on projects alongside peers, ask questions informally, and build relationships that extend beyond the event itself. For the Solana ecosystem in New York, which has a significant concentration of builders, this kind of regular touchpoint is valuable."
+        ]
+      },
+      {
+        "heading": "Why It Was Cancelled",
+        "content": [
+          "The event page states clearly that the building will be inaccessible on August 28, and there will be no coworking that week. Registration is closed, and there is no indication of a rescheduled date at this time. The cancellation appears to be logistical rather than reflective of any broader issue with the Solana Skyline NYC community or its events.",
+          "Cancelled events happen. Venue access issues, scheduling conflicts, and other logistics are realities of organizing community events in a city like New York, where competition for quality space is fierce. The transparent communication on the event page is appreciated, letting potential attendees know early rather than leaving them showing up to a locked door."
+        ]
+      },
+      {
+        "heading": "The Broader Solana Skyline NYC Context",
+        "content": [
+          "Solana Skyline NYC positions itself as the organizer of events for the Solana ecosystem in New York City. The regular coworking sessions are part of a larger pattern of community building that includes workshops, demos, and social gatherings. Even when individual events are cancelled, the existence of an organized community with a consistent host means that future events are likely to be scheduled.",
+          "For those in the New York Solana community who were counting on this coworking session, keep an eye on the Solana Skyline NYC Luma page for future announcements. The pattern of regular events suggests this is not a one-off cancellation but rather a temporary disruption in an ongoing series."
+        ]
+      },
+      {
+        "heading": "What to Do Instead",
+        "content": [
+          "If you had planned to attend this coworking session, consider reaching out through the Luma event page or any associated community channels to ask about alternative meetups happening that week. New York has a dense concentration of Web3 and Solana-specific events, so there are likely other options available even if this particular one is not happening. Check nearby coworking spaces or coffee shops that frequently host crypto meetups, as informal gatherings often spring up to fill the gap when scheduled events fall through.",
+          "You can also use the time productively by working independently on your Solana projects. The value of coworking sessions is partly social and partly about maintaining momentum on your work. Even without the group setting, blocking out that time on your calendar to focus on building is worthwhile. When the next Skyline Coworking session is rescheduled, you will show up with progress to share rather than starting from scratch. The Solana developer community in New York is active enough that another opportunity will come along soon."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-nHN886ANUexVx9b": {
+    "summaryLead": "Chainlink's August Community Pulse session goes live on August 28, 2026, featuring community advocates Amy Hang and Jordan Kull walking through the latest ecosystem updates, product milestones, and institutional developments in a concise 30-minute format.",
+    "sections": [
+      {
+        "heading": "What the Community Pulse Is",
+        "content": [
+          "The Chainlink Community Pulse is a recurring live community session designed to keep participants informed about the latest developments across the Chainlink ecosystem. The August English edition runs for just 30 minutes, from 6:00 to 6:30 PM UTC, making it one of the more digestible community events in the Web3 space. It is streamed on YouTube, which lowers the barrier to entry significantly compared to platform-specific events that require separate accounts or downloads.",
+          "Chainlink positions this as more than a product update. The session aims to explain why specific developments matter for builders, users, institutions, and the wider blockchain industry. That context-setting is valuable because it connects technical changes to practical implications, helping attendees understand not just what happened but why it matters for their work."
+        ]
+      },
+      {
+        "heading": "August Topics and Updates",
+        "content": [
+          "This month's session covers several significant areas. Chainlink's growing adoption is a central theme, along with the LINK:NYC event and CFTC engagement, which signals the project's continued push into institutional and regulatory conversations. Participation in the Technology Leaders Summit is also highlighted, reflecting Chainlink's ambition to be recognized as critical infrastructure rather than just a crypto-native tool.",
+          "On the technical side, the session will address CCIP migration, which refers to the Cross-Chain Interoperability Protocol that enables communication between different blockchains. Product updates and the Chainlink Privacy Bootcamp are also on the agenda. These topics collectively paint a picture of an ecosystem that is expanding both technically and institutionally, with privacy and interoperability as key focus areas."
+        ]
+      },
+      {
+        "heading": "Who Is Speaking",
+        "content": [
+          "The session features Amy Hang and Jordan Kull, both serving as Chainlink Community Advocates. Community advocates play a specific role in the Chainlink ecosystem. They bridge the gap between the core team and the broader community, translating technical developments into accessible language and providing feedback channels for community concerns.",
+          "The event is also associated with Javier Salomón and Bharath Silagani, though the primary speakers for this edition are Amy and Jordan. Having community advocates lead the session rather than engineers or executives keeps the tone approachable and focused on what matters to users and developers rather than internal product roadmaps."
+        ]
+      },
+      {
+        "heading": "Chainlink's Broader Role",
+        "content": [
+          "Chainlink describes itself as the industry-standard oracle platform, and the supporting evidence is substantial. The platform powers the majority of decentralized finance and has enabled tens of trillions in transaction value since its inception. Major financial institutions including Swift, Euroclear, Mastercard, Fidelity International, UBS, and ANZ have adopted Chainlink's standards and infrastructure. On the protocol side, Aave, GMX, Lido, and many others rely on Chainlink for data feeds and interoperability.",
+          "The project operates on a fee model where offchain and onchain revenue from enterprise adoption is converted to LINK tokens and stored in the Strategic Chainlink Reserve. This economic structure ties the token directly to real-world usage, which is a model that many other projects aspire to but few have achieved at this scale. Understanding this context helps explain why Chainlink's community updates carry real weight beyond just the immediate product announcements and ecosystem milestones being discussed."
+        ]
+      }
+    ]
+  }
+}

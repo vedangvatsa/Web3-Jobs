@@ -1,0 +1,186 @@
+{
+  "version": "1.0.0",
+  "lastUpdated": "2026-03-13",
+  "topics": [
+    {
+      "slug": "portfolio-project",
+      "name": "Portfolio Project",
+      "applicableTypes": ["ideas"],
+      "applicableNiches": ["solidity-developer", "web3-frontend-developer", "nft-developer", "solana-developer", "gamefi-developer", "defi-developer"]
+    },
+    {
+      "slug": "side-project",
+      "name": "Side Project",
+      "applicableTypes": ["ideas"],
+      "applicableNiches": ["solidity-developer", "web3-frontend-developer", "nft-developer", "solana-developer", "blockchain-engineer"]
+    },
+    {
+      "slug": "content",
+      "name": "Content",
+      "applicableTypes": ["ideas"],
+      "applicableNiches": ["web3-marketer", "web3-devrel", "web3-community-manager"]
+    },
+    {
+      "slug": "security",
+      "name": "Security",
+      "applicableTypes": ["checklists", "mistakes", "guides"],
+      "applicableNiches": ["solidity-developer", "smart-contract-auditor", "defi-developer", "nft-developer"]
+    },
+    {
+      "slug": "code-review",
+      "name": "Code Review",
+      "applicableTypes": ["checklists"],
+      "applicableNiches": ["smart-contract-auditor", "solidity-developer", "defi-developer"]
+    },
+    {
+      "slug": "pre-launch",
+      "name": "Pre-Launch",
+      "applicableTypes": ["checklists"],
+      "applicableNiches": ["web3-founder", "web3-product-manager", "tokenomics-designer"]
+    },
+    {
+      "slug": "gas-optimization",
+      "name": "Gas Optimization",
+      "applicableTypes": ["guides", "checklists", "mistakes"],
+      "applicableNiches": ["solidity-developer", "defi-developer", "nft-developer"]
+    },
+    {
+      "slug": "career-transition",
+      "name": "Career Transition",
+      "applicableTypes": ["guides"],
+      "applicableNiches": ["solidity-developer", "web3-frontend-developer", "web3-product-manager", "web3-marketer", "web3-data-analyst"]
+    },
+    {
+      "slug": "fundraising",
+      "name": "Fundraising",
+      "applicableTypes": ["guides", "templates", "mistakes"],
+      "applicableNiches": ["web3-founder"]
+    },
+    {
+      "slug": "grant-proposal",
+      "name": "Grant Proposal",
+      "applicableTypes": ["templates", "guides"],
+      "applicableNiches": ["web3-founder", "dao-contributor", "solidity-developer"]
+    },
+    {
+      "slug": "tokenomics-model",
+      "name": "Tokenomics Model",
+      "applicableTypes": ["templates", "guides"],
+      "applicableNiches": ["tokenomics-designer", "web3-founder", "defi-developer"]
+    },
+    {
+      "slug": "security-report",
+      "name": "Security Report",
+      "applicableTypes": ["templates"],
+      "applicableNiches": ["smart-contract-auditor"]
+    },
+    {
+      "slug": "technical",
+      "name": "Technical",
+      "applicableTypes": ["questions"],
+      "applicableNiches": ["solidity-developer", "smart-contract-auditor", "defi-developer", "blockchain-engineer", "web3-frontend-developer", "zk-engineer", "solana-developer", "l2-engineer"]
+    },
+    {
+      "slug": "behavioral",
+      "name": "Behavioral",
+      "applicableTypes": ["questions"],
+      "applicableNiches": ["web3-product-manager", "web3-community-manager", "web3-marketer", "web3-recruiter", "web3-devrel"]
+    },
+    {
+      "slug": "development",
+      "name": "Development",
+      "applicableTypes": ["tools"],
+      "applicableNiches": ["solidity-developer", "web3-frontend-developer", "solana-developer", "nft-developer", "defi-developer"]
+    },
+    {
+      "slug": "analytics",
+      "name": "Analytics",
+      "applicableTypes": ["tools"],
+      "applicableNiches": ["web3-data-analyst", "defi-developer", "tokenomics-designer"]
+    },
+    {
+      "slug": "community-management",
+      "name": "Community Management",
+      "applicableTypes": ["tools", "guides", "mistakes"],
+      "applicableNiches": ["web3-community-manager", "web3-devrel"]
+    },
+    {
+      "slug": "hiring",
+      "name": "Hiring",
+      "applicableTypes": ["guides", "checklists", "mistakes"],
+      "applicableNiches": ["web3-founder", "web3-recruiter"]
+    },
+    {
+      "slug": "governance",
+      "name": "Governance",
+      "applicableTypes": ["guides", "templates"],
+      "applicableNiches": ["dao-contributor", "tokenomics-designer", "web3-founder"]
+    },
+    {
+      "slug": "technical-skills",
+      "name": "Technical Skills",
+      "applicableTypes": ["skills"],
+      "applicableNiches": ["solidity-developer", "smart-contract-auditor", "defi-developer", "blockchain-engineer", "web3-frontend-developer", "zk-engineer", "solana-developer"]
+    },
+    {
+      "slug": "soft-skills",
+      "name": "Soft Skills",
+      "applicableTypes": ["skills"],
+      "applicableNiches": ["web3-product-manager", "web3-community-manager", "web3-marketer", "web3-founder", "web3-devrel"]
+    },
+    {
+      "slug": "defi",
+      "name": "DeFi",
+      "applicableTypes": ["ideas", "guides", "mistakes"],
+      "applicableNiches": ["defi-developer", "solidity-developer", "tokenomics-designer"]
+    },
+    {
+      "slug": "nft",
+      "name": "NFT",
+      "applicableTypes": ["ideas", "guides", "mistakes"],
+      "applicableNiches": ["nft-developer", "gamefi-developer"]
+    },
+    {
+      "slug": "smart-contract",
+      "name": "Smart Contract",
+      "applicableTypes": ["ideas", "guides", "checklists", "mistakes"],
+      "applicableNiches": ["solidity-developer", "smart-contract-auditor", "defi-developer"]
+    },
+    {
+      "slug": "testing",
+      "name": "Testing",
+      "applicableTypes": ["guides", "checklists", "tools"],
+      "applicableNiches": ["solidity-developer", "smart-contract-auditor", "defi-developer"]
+    },
+    {
+      "slug": "documentation",
+      "name": "Documentation",
+      "applicableTypes": ["guides", "templates"],
+      "applicableNiches": ["web3-devrel", "solidity-developer"]
+    },
+    {
+      "slug": "twitter-growth",
+      "name": "Twitter Growth",
+      "applicableTypes": ["guides", "ideas", "mistakes"],
+      "applicableNiches": ["web3-marketer", "web3-founder", "web3-devrel"]
+    },
+    {
+      "slug": "zk-circuits",
+      "name": "ZK Circuits",
+      "applicableTypes": ["guides", "ideas"],
+      "applicableNiches": ["zk-engineer"]
+    },
+    {
+      "slug": "anchor",
+      "name": "Anchor",
+      "applicableTypes": ["guides", "ideas", "mistakes"],
+      "applicableNiches": ["solana-developer"]
+    },
+    {
+      "slug": "l2-scaling",
+      "name": "L2 Scaling",
+      "applicableTypes": ["guides"],
+      "applicableNiches": ["l2-engineer", "blockchain-engineer"]
+    }
+  ]
+}

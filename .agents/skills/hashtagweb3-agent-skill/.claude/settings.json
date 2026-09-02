@@ -1,0 +1,27 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(uv sync:*)",
+      "Bash(brew install:*)",
+      "Bash(TaskOutput bcm9jq542:*)",
+      "Bash(gdal-config --version)",
+      "Read(//opt/homebrew/lib/**)",
+      "Bash(curl -s --max-time 3 http://localhost:8000/)",
+      "Read(//Users/vedang/ns/**)",
+      "Bash(do lsof:*)",
+      "Bash(LOCAL_DB_PASSWORD=jqR4P39yr2NxZmmOCUNztv1L9 doppler run -p api -c dev_local -- docker compose up api -d)",
+      "Bash(curl -s --max-time 5 http://localhost:8000/)",
+      "Bash(kill 12521)",
+      "Bash(kill 12530)",
+      "Bash(curl -s --max-time 10 \"http://localhost:8000/internal/posthog/query/acquisition_top_traffic_sources_30d/?date_from=-3m\")",
+      "Bash(curl -s --max-time 10 \"http://localhost:8000/internal/analytics/posthog/query/acquisition_top_traffic_sources_30d/?date_from=-3m\")",
+      "Bash(grep -r \"posthog.*query\\\\|query.*posthog\" /Users/vedang/ns/apps/api/internal/ --include=*.py -l)",
+      "Bash(curl -s --max-time 5 \"http://localhost:8000/api/v1/internal/\")",
+      "Bash(node -e \"const dayjs = require\\(''/Users/vedang/ns/node_modules/.pnpm/dayjs@1.11.13/node_modules/dayjs/dayjs.min.js''\\); console.log\\(dayjs\\(''17–20 Dec''\\).isValid\\(\\)\\); console.log\\(dayjs\\(''2025-12-17''\\).isValid\\(\\)\\);\")",
+      "Bash(pnpm tsc:*)",
+      "Bash(cat /Users/vedang/ns/apps/web/app/\\\\\\(admin\\\\\\)/admin/_components/charts/utils/posthogVisitorsParsing.ts)",
+      "Bash(cat /Users/vedang/ns/apps/web/app/\\\\\\(admin\\\\\\)/admin/_components/charts/utils/formatters.ts)",
+      "Bash(curl -s http://localhost:8000/)"
+    ]
+  }
+}

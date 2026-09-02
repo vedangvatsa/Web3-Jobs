@@ -8,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: person shouting megaphone
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## Introduction: Understanding Shilling in Crypto

@@ -7,7 +7,7 @@ description: >-
  viability of a career in the crypto industry, weighing the risks against.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 You are excited about [Web3](/what-is-web3). After exploring the technology, you recognize its potential and contemplate a career move. However, a question lingers: "Is a job in crypto a *real* job?"

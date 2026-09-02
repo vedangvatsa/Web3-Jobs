@@ -7,7 +7,7 @@ description: >-
  local development environments like Foundry and Hardhat to indexing.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 The [Web3](/what-is-web3) developer ecosystem has evolved rapidly. Command-line interfaces have become a thing of the past. Developers now have access to a sophisticated array of tools that enhance the efficiency and security of building, testing, and deploying decentralized applications (dApps). For developers aspiring to excel in Web3, mastering this toolkit is essential.
