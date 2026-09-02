@@ -64,6 +64,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'gauntlet': 'https://gauntlet.xyz',
  'zetachain': 'https://zetachain.com',
  'zeta': 'https://zetachain.com',
+ 'weex': 'https://weex.com',
  'ondo': 'https://ondo.finance',
  'ondofinance': 'https://ondo.finance',
  'figure': 'https://figure.com',

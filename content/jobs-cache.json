@@ -1,5 +1,29 @@
 [
   {
+    "id": "weex-backend-engineer-java-10004306059801",
+    "title": "Backend Engineer (Java)",
+    "company": "WEEX",
+    "link": "https://www.weex.com/en/help/articles/10004306059801-WEEX%E5%94%AF%E5%AE%A2-%E9%AB%98%E7%BA%A7Java%E5%B7%A5%E7%A8%8B%E5%B8%88",
+    "date": "2026-08-28",
+    "source": "WEEX Careers [weex.com/job]",
+    "location": "Remote / Singapore",
+    "department": "Engineering & Technology",
+    "active": true,
+    "slug": "role59801"
+  },
+  {
+    "id": "weex-frontend-dev-web-10004027549209",
+    "title": "Front-end Development Engineer (Web)",
+    "company": "WEEX",
+    "link": "https://www.weex.com/en/help/articles/10004027549209-WEEX%E5%94%AF%E5%AE%A2-%E5%89%8D%E7%AB%AF%E5%BC%80%E5%8F%91%E5%B7%A5%E7%A8%8B%E5%B8%88",
+    "date": "2026-08-28",
+    "source": "WEEX Careers [weex.com/job]",
+    "location": "Remote / Singapore",
+    "department": "Engineering & Technology",
+    "active": true,
+    "slug": "role49209"
+  },
+  {
     "id": "9935d16b-0c21-4052-9cf2-8698ba1b0084",
     "title": "RevOps Engineer / Go to Market Systems Analyst",
     "company": "Impossible Cloud",
