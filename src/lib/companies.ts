@@ -42,6 +42,7 @@ function isAtsHostname(hostname: string): boolean {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'circle': 'https://circle.com',
  'nethermind': 'https://nethermind.io',
  'dydx': 'https://dydx.exchange',
  'matter-labs': 'https://matter-labs.io',
