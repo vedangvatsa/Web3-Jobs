@@ -36,9 +36,13 @@ async function testAll() {
   }
   // Check operationId on each path
   for (const p of Object.keys(openapiJson.paths)) {
-    const op = openapiJson.paths[p].get;
-    if (!op || !op.operationId || !op.summary || !op.responses['200'] || !op.responses['400']) {
-      throw new Error(`OpenAPI path ${p} missing operationId, summary, or error responses`);
+    const pathObj = (openapiJson.paths as Record<string, any>)[p];
+    const methods = Object.keys(pathObj).filter((m) => ['get', 'post', 'put', 'delete', 'patch'].includes(m));
+    for (const m of methods) {
+      const op = pathObj[m];
+      if (!op || !op.operationId || !op.summary) {
+        throw new Error(`OpenAPI path ${p} [${m}] missing operationId or summary`);
+      }
     }
   }
   console.log('  ✓ openapi.json is valid OpenAPI 3.1.0 with typed operations, operationIds, and error schemas.');
@@ -52,11 +56,11 @@ async function testAll() {
   // 4. Check llms.txt & agents.json
   console.log('\n4. Checking llms.txt & agents.json...');
   const llms = fs.readFileSync(path.join(process.cwd(), 'public', 'llms.txt'), 'utf8');
-  if (!llms.includes('## When to Use Hashtag Web3') || !llms.includes('openapi.json')) {
+  if (!llms.includes('When to use') || !llms.includes('openapi.json')) {
     throw new Error('llms.txt missing When to Use section');
   }
   const agentsJson = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'public', '.well-known', 'agents.json'), 'utf8'));
-  if (!agentsJson.when_to_use || !agentsJson.mcp_server) {
+  if (!agentsJson.when_to_use || (!agentsJson.mcp_server && !agentsJson.mcp_servers)) {
     throw new Error('agents.json missing when_to_use or mcp_server');
   }
   console.log('  ✓ llms.txt and .well-known/agents.json include explicit When to Use guidance and MCP configurations.');

@@ -1,0 +1,36 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-02-01/registry.schema.json",
+  "id": "com.hashtagweb3.mcp",
+  "name": "Hashtag Web3 MCP Server",
+  "description": "Official Model Context Protocol server for Hashtag Web3. Allows AI agents to search live crypto & Web3 job postings, query 200+ blockchain glossary definitions, look up global crypto conferences and hackathons, and aggregate daily crypto news.",
+  "vendor": "Hashtag Web3",
+  "homepage": "https://hashtagweb3.com",
+  "documentationUrl": "https://hashtagweb3.com/developers",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedangvatsa/Web3-Jobs"
+  },
+  "license": "MIT",
+  "transports": [
+    {
+      "type": "streamable-http",
+      "url": "https://hashtagweb3.com/api/mcp"
+    }
+  ],
+  "serverCardUrl": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+  "capabilities": {
+    "tools": true,
+    "resources": true,
+    "prompts": false
+  },
+  "tags": [
+    "web3",
+    "crypto",
+    "jobs",
+    "blockchain",
+    "glossary",
+    "events",
+    "hackathons",
+    "news"
+  ]
+}
