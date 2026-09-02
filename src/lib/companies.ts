@@ -51,6 +51,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'certik': 'https://certik.com',
  'wintermute': 'https://wintermute.com',
  'wintermute-trading': 'https://wintermute.com',
+ 'sky-mavis': 'https://skymavis.com',
+ 'skymavis': 'https://skymavis.com',
  'nethermind': 'https://nethermind.io',
  'dydx': 'https://dydx.exchange',
  'matter-labs': 'https://matter-labs.io',
