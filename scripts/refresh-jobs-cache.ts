@@ -1771,6 +1771,16 @@ async function refreshJobsCache() {
       locationSelector: '.p-table-job-detail tr:has(th:contains("勤務地")) td',
       contentSelector: '.p-table-job-detail, .p-job-detail__body, main',
     },
+    {
+      board: 'beincrypto-careers',
+      company: 'BeInCrypto',
+      indexUrl: 'https://careers.beincrypto.com',
+      linkSelector: 'a[href^="/v/"]',
+      pathPattern: /^\/v\/[^/]+$/,
+      titleSelector: 'h1',
+      locationSelector: '.tw-text-neutral-dark-100',
+      contentSelector: 'main, article, .tw-p-6',
+    },
   ];
 
   for (const fp of FIRST_PARTY_CAREER_BOARDS) {
