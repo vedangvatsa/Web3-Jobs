@@ -1,5 +1,632 @@
 [
   {
+    "id": "apex-22",
+    "title": "Financial Analyst",
+    "company": "ApeX Protocol",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:apex",
+    "link": "https://apex.bamboohr.com/careers/22",
+    "applyUrl": "https://apex.bamboohr.com/careers/22",
+    "department": "Finance",
+    "skills": [
+      "DEX",
+      "Perpetuals",
+      "DeFi",
+      "Trading"
+    ],
+    "slug": "analyst74215"
+  },
+  {
+    "id": "apex-21",
+    "title": "Marketing Manager",
+    "company": "ApeX Protocol",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:apex",
+    "link": "https://apex.bamboohr.com/careers/21",
+    "applyUrl": "https://apex.bamboohr.com/careers/21",
+    "department": "Marketing",
+    "skills": [
+      "DEX",
+      "Perpetuals",
+      "DeFi",
+      "Trading"
+    ],
+    "slug": "marketing85133"
+  },
+  {
+    "id": "everstake-59",
+    "title": "Senior Business Development Manager US",
+    "company": "Everstake",
+    "location": "New York, United States",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:everstake",
+    "link": "https://everstake.bamboohr.com/careers/59",
+    "applyUrl": "https://everstake.bamboohr.com/careers/59",
+    "department": "Go-to-Market",
+    "skills": [
+      "Staking",
+      "Validator",
+      "DevOps",
+      "Blockchain"
+    ],
+    "slug": "manager96069"
+  },
+  {
+    "id": "sui-120",
+    "title": "Strategic Advisor",
+    "company": "Sui Foundation",
+    "location": "United States",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/120",
+    "applyUrl": "https://sui.bamboohr.com/careers/120",
+    "department": "Administration",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "strategic6"
+  },
+  {
+    "id": "sui-113",
+    "title": "EP Program Director",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/113",
+    "applyUrl": "https://sui.bamboohr.com/careers/113",
+    "department": "Education",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "ep1"
+  },
+  {
+    "id": "sui-109",
+    "title": "Administrative Assistant",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/109",
+    "applyUrl": "https://sui.bamboohr.com/careers/109",
+    "department": "Administration",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "associate83117"
+  },
+  {
+    "id": "sui-103",
+    "title": "RT Clinical Coordinator",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/103",
+    "applyUrl": "https://sui.bamboohr.com/careers/103",
+    "department": "Education",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "rt1"
+  },
+  {
+    "id": "sui-97",
+    "title": "DMS/CS Lab Instructor",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/97",
+    "applyUrl": "https://sui.bamboohr.com/careers/97",
+    "department": "Administration",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "dms1"
+  },
+  {
+    "id": "sui-92",
+    "title": "Cardiac Sonographer - Clinical Coordinator",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/92",
+    "applyUrl": "https://sui.bamboohr.com/careers/92",
+    "department": "Education",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "cardiac2"
+  },
+  {
+    "id": "sui-37",
+    "title": "Diagnostic Medical Sonography Faculty",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/37",
+    "applyUrl": "https://sui.bamboohr.com/careers/37",
+    "department": "Education",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "diagnostic1"
+  },
+  {
+    "id": "sui-26",
+    "title": "Cardiac Sonography Faculty",
+    "company": "Sui Foundation",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:sui",
+    "link": "https://sui.bamboohr.com/careers/26",
+    "applyUrl": "https://sui.bamboohr.com/careers/26",
+    "department": "Education",
+    "skills": [
+      "Sui",
+      "Move",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "cardiac1"
+  },
+  {
+    "id": "ramp-22",
+    "title": "Marketing Manager",
+    "company": "Ramp Network",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:ramp",
+    "link": "https://ramp.bamboohr.com/careers/22",
+    "applyUrl": "https://ramp.bamboohr.com/careers/22",
+    "department": "Marketing",
+    "skills": [
+      "Crypto On-Ramp",
+      "Payments",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "marketing85134"
+  },
+  {
+    "id": "ramp-21",
+    "title": "Sales Development Representative",
+    "company": "Ramp Network",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:ramp",
+    "link": "https://ramp.bamboohr.com/careers/21",
+    "applyUrl": "https://ramp.bamboohr.com/careers/21",
+    "department": "Sales",
+    "skills": [
+      "Crypto On-Ramp",
+      "Payments",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "sales96046"
+  },
+  {
+    "id": "ramp-20",
+    "title": "Software Engineer",
+    "company": "Ramp Network",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:ramp",
+    "link": "https://ramp.bamboohr.com/careers/20",
+    "applyUrl": "https://ramp.bamboohr.com/careers/20",
+    "department": "Product",
+    "skills": [
+      "Crypto On-Ramp",
+      "Payments",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "engineer99472"
+  },
+  {
+    "id": "ramp-15",
+    "title": "IT Security Engineer",
+    "company": "Ramp Network",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:ramp",
+    "link": "https://ramp.bamboohr.com/careers/15",
+    "applyUrl": "https://ramp.bamboohr.com/careers/15",
+    "department": "IT",
+    "skills": [
+      "Crypto On-Ramp",
+      "Payments",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "security95027"
+  },
+  {
+    "id": "kiln-362",
+    "title": "Maintenance Technician",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/362",
+    "applyUrl": "https://kiln.bamboohr.com/careers/362",
+    "department": "Community Team (Preston Hollow)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "maintenance3"
+  },
+  {
+    "id": "kiln-361",
+    "title": "Maintenance Technician",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/361",
+    "applyUrl": "https://kiln.bamboohr.com/careers/361",
+    "department": "Build, Procurement & Facilities",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "maintenance2"
+  },
+  {
+    "id": "kiln-360",
+    "title": "Member Experience Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/360",
+    "applyUrl": "https://kiln.bamboohr.com/careers/360",
+    "department": "Community Team (Biltmore)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "associate83116"
+  },
+  {
+    "id": "kiln-359",
+    "title": "Community Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/359",
+    "applyUrl": "https://kiln.bamboohr.com/careers/359",
+    "department": "Community Team (Leucadia)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "community42483"
+  },
+  {
+    "id": "kiln-358",
+    "title": "Member Experience Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/358",
+    "applyUrl": "https://kiln.bamboohr.com/careers/358",
+    "department": "Community Team (Meridian)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "associate83115"
+  },
+  {
+    "id": "kiln-357",
+    "title": "After-Hours Experience Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/357",
+    "applyUrl": "https://kiln.bamboohr.com/careers/357",
+    "department": "Community Team (Lehi 1)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "associate83114"
+  },
+  {
+    "id": "kiln-356",
+    "title": "Member Experience Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/356",
+    "applyUrl": "https://kiln.bamboohr.com/careers/356",
+    "department": "Community Team (Bozeman)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "associate83113"
+  },
+  {
+    "id": "kiln-355",
+    "title": "Maintenance Technician",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/355",
+    "applyUrl": "https://kiln.bamboohr.com/careers/355",
+    "department": "Build, Procurement & Facilities",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "maintenance1"
+  },
+  {
+    "id": "kiln-354",
+    "title": "Community Manager",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/354",
+    "applyUrl": "https://kiln.bamboohr.com/careers/354",
+    "department": "Community Team (Bellevue)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "community42482"
+  },
+  {
+    "id": "kiln-353",
+    "title": "Lead Install Technician",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/353",
+    "applyUrl": "https://kiln.bamboohr.com/careers/353",
+    "department": "Build, Procurement & Facilities",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "lead6"
+  },
+  {
+    "id": "kiln-351",
+    "title": "Director of Property & Asset Management",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/351",
+    "applyUrl": "https://kiln.bamboohr.com/careers/351",
+    "department": "Growth",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "director96011"
+  },
+  {
+    "id": "kiln-350",
+    "title": "Member Success Manager",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/350",
+    "applyUrl": "https://kiln.bamboohr.com/careers/350",
+    "department": "Community Team (Tucson East)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "manager96070"
+  },
+  {
+    "id": "kiln-348",
+    "title": "Regional Vice President",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/348",
+    "applyUrl": "https://kiln.bamboohr.com/careers/348",
+    "department": "Operations - Support Team",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "regional1"
+  },
+  {
+    "id": "kiln-346",
+    "title": "Member Success Lead",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/346",
+    "applyUrl": "https://kiln.bamboohr.com/careers/346",
+    "department": "Community Team (Preston Hollow)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "member60194"
+  },
+  {
+    "id": "kiln-344",
+    "title": "After-Hours Experience Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/344",
+    "applyUrl": "https://kiln.bamboohr.com/careers/344",
+    "department": "Community Team (Bend)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "associate83112"
+  },
+  {
+    "id": "kiln-341",
+    "title": "Community Manager",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/341",
+    "applyUrl": "https://kiln.bamboohr.com/careers/341",
+    "department": "Community Team (Manhattan Beach)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "community42481"
+  },
+  {
+    "id": "kiln-310",
+    "title": "Community Manager",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/310",
+    "applyUrl": "https://kiln.bamboohr.com/careers/310",
+    "department": "Community Team (Tucson East)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "community42480"
+  },
+  {
+    "id": "kiln-302",
+    "title": "Member Experience Associate",
+    "company": "Kiln",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:kiln",
+    "link": "https://kiln.bamboohr.com/careers/302",
+    "applyUrl": "https://kiln.bamboohr.com/careers/302",
+    "department": "Community Team (Littleton)",
+    "skills": [
+      "Staking",
+      "Ethereum",
+      "Smart Contracts",
+      "Web3"
+    ],
+    "slug": "associate83111"
+  },
+  {
     "id": "yellowcard-421",
     "title": "Customer Success Associate",
     "company": "Yellow Card",
