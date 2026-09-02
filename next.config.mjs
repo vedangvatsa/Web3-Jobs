@@ -77,7 +77,7 @@ const nextConfig = {
   async headers() {
     const cspHeader = `
       default-src 'self';
-      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai https://us.i.posthog.com;
+      script-src 'self' 'unsafe-inline' 'unsafe-eval' https://www.googletagmanager.com https://vercel.ai https://us.i.posthog.com https://www.clarity.ms https://c.clarity.ms;
       style-src 'self' 'unsafe-inline';
       img-src 'self' blob: data: https:;
       font-src 'self' data:;
@@ -85,7 +85,7 @@ const nextConfig = {
       base-uri 'self';
       form-action 'self' https://hashtagweb3.com https://t.me;
       frame-ancestors 'self' https://chatgpt.com https://claude.ai;
-      connect-src 'self' https://hashtagweb3.com https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com https://api.ashbyhq.com https://boards-api.greenhouse.io https://api.lever.co;
+      connect-src 'self' https://hashtagweb3.com https://vitals.vercel-insights.com https://www.googletagmanager.com https://*.google-analytics.com https://*.analytics.google.com https://us.i.posthog.com https://api.ashbyhq.com https://boards-api.greenhouse.io https://api.lever.co https://*.clarity.ms https://c.clarity.ms;
     `.replace(/\s{2,}/g, ' ').trim();
 
     return [
