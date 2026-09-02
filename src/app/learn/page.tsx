@@ -6,7 +6,7 @@ import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import {
-  Globe, Landmark, Code, Briefcase, ArrowRight, Clock, Users,
+  Globe, Landmark, Code, Briefcase, ArrowRight, Clock, Users, Megaphone, Shield, Bot,
 } from 'lucide-react';
 
 export const metadata: Metadata = {
@@ -29,7 +29,7 @@ export const metadata: Metadata = {
 };
 
 const iconMap: Record<string, React.ElementType> = {
-  Globe, Landmark, Code, Briefcase,
+  Globe, Landmark, Code, Briefcase, Megaphone, Shield, Bot,
 };
 
 const audienceIcon: Record<string, React.ElementType> = {
