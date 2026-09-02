@@ -9,6 +9,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'animoca-brands': 'animoca-brands',
   'animocabrands': 'animoca-brands',
   'animoca': 'animoca-brands',
+  'bnb-chain': 'bnb-chain',
+  'bnbchain': 'bnb-chain',
+  'pioneer-services': 'bnb-chain',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
