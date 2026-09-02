@@ -95,8 +95,17 @@ export async function getJobs(): Promise<Job[]> {
     return false;
    }
    
-   return true;
-  });
+    // Enforce 30-day maximum posting age
+    if (job.date) {
+      const jobTime = new Date(job.date).getTime();
+      const thirtyDaysMs = 30 * 24 * 60 * 60 * 1000;
+      if (!isNaN(jobTime) && Date.now() - jobTime > thirtyDaysMs) {
+        return false;
+      }
+    }
+
+    return true;
+   });
 
   // The refresh job already retains only active direct-ATS postings and recent
   // aggregator discoveries. Applying another age cutoff here hid still-open
