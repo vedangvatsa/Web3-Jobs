@@ -1,6 +1,6 @@
 ---
 name: Circle
-website: 'https://circle.com'
+website: 'https://www.circle.com'
 founded: 2013
 category: Digital Asset Infrastructure
 headquarters: 'Boston, Massachusetts, USA'
