@@ -10,16 +10,21 @@ export async function POST(request: NextRequest) {
 
   const agentId = body.agent_id || body.client_id || `agent_${Date.now()}`;
   const registrationToken = Buffer.from(`${agentId}:${Date.now()}`).toString('base64url');
+  const apiKey = `h3_live_free_${Buffer.from(`${agentId}:${Date.now()}`).toString('base64url').slice(0, 32)}`;
 
   return NextResponse.json(
     {
       agent_id: agentId,
+      api_key: apiKey,
+      access_token: apiKey,
+      token_type: 'Bearer',
+      free_tier: true,
       register_uri: 'https://hashtagweb3.com/api/auth/register',
       claim_uri: 'https://hashtagweb3.com/api/auth/claim',
       revocation_uri: 'https://hashtagweb3.com/api/auth/revoke',
       registration_token: registrationToken,
-      expires_in: 3600,
-      message: 'Agent registered. Use the registration_token to claim a bearer credential via POST /api/auth/claim.',
+      expires_in: 86400 * 30,
+      message: 'Agent registered and API key generated. Use Bearer authorization header with this key or access public endpoints without credentials.',
     },
     {
       status: 200,
