@@ -44,7 +44,6 @@ This document lists the submission manifests, endpoints, and exact steps to subm
 ## 2. First-Party Agent Stores & Marketplaces
 
 ### A. OpenAI / ChatGPT Apps & Custom GPT
-- **Official Custom GPT**: [`https://chatgpt.com/g/g-6a979b16a97c8191bb99b9ce3b8b369c-hashtag-web3`](https://chatgpt.com/g/g-6a979b16a97c8191bb99b9ce3b8b369c-hashtag-web3)
 - **AI Plugin Manifest**: `https://hashtagweb3.com/.well-known/ai-plugin.json`
 - **OpenAPI Spec**: `https://hashtagweb3.com/openapi.json`
 - **Action**: Add custom GPT at [`chatgpt.com/gpts`](https://chatgpt.com/gpts) with Action pointing to `https://hashtagweb3.com/openapi.json`.
