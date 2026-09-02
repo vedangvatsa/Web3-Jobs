@@ -1,5 +1,27 @@
 [
   {
+    "id": "delta-plitech-739e151e-e067-40db-b034-45c3cbd7034c",
+    "title": "Senior Cloud Security Engineer",
+    "company": "Delta Exchange",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "firstparty:delta-exchange",
+    "link": "https://careers.delta.exchange/jobs/plitech-739e151e-e067-40db-b034-45c3cbd7034c",
+    "applyUrl": "https://careers.delta.exchange/jobs/plitech-739e151e-e067-40db-b034-45c3cbd7034c",
+    "department": "Security",
+    "skills": [
+      "AWS Security",
+      "Cloud Security",
+      "Terraform",
+      "IAM",
+      "SIEM",
+      "OpenSearch",
+      "DevSecOps"
+    ],
+    "slug": "security95024"
+  },
+  {
     "id": "bd8cd97a-4eed-468e-b87f-4cac59e5c6c2",
     "title": "Boys Club - Content Project Manager",
     "company": "Polygon Labs",
