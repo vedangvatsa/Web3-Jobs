@@ -194,7 +194,8 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const canonicalUrl = `${siteUrl}/${slug}`;
     const title = `${jobMeta.title} at ${jobMeta.company}`;
     const description = buildUniqueJobMetaDescription(jobMeta);
-    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(title)}`;
+    const deptParam = typeof jobMeta.department === 'string' ? jobMeta.department : '';
+    const ogImageUrl = `${siteUrl}/api/og?type=job&title=${encodeURIComponent(jobMeta.title)}&company=${encodeURIComponent(jobMeta.company)}&location=${encodeURIComponent(jobMeta.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}`;
     const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
     return {
       title,
