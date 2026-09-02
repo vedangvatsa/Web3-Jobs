@@ -9,3 +9,8 @@ description: >-
   single transaction.
 ---
 Superform simplifies multi-chain yield discovery by abstracting bridging, swapping, and vault execution into a unified interface.
+
+### About Superform
+Superform is a leading organization in the DeFi space, pioneering decentralized technologies, protocol security, and next-generation blockchain infrastructure. The company builds resilient products designed for global scalability, high performance, and trust-minimized user sovereignty.
+
+Operating across international digital asset markets, Superform collaborates with developers, institutional partners, and ecosystem contributors to advance open-source software, decentralized finance, and distributed consensus. The organization fosters a high-impact engineering and product culture focused on shipping secure, user-centric Web3 applications, continuous technological innovation, and sustainable ecosystem growth.

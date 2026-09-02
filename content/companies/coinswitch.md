@@ -2,11 +2,9 @@
 name: CoinSwitch
 website: 'https://coinswitch.co'
 category: Cryptocurrency Exchange
-description: >-
- CoinSwitch is a cryptocurrency exchange platform for trading various digital
- assets.
+description: "CoinSwitch is India's premier crypto investing platform and multi-exchange aggregator, serving over 20 million registered users. Founded in 2017 by Ashish Singhal, Govind Soni, and Vimal Sagar Tiwari, CoinSwitch provides retail investors, pro traders, and institutions with secure, seamless access to Bitcoin, Ethereum, and over 100+ digital assets with deep multi-market liquidity."
 ---
 
-CoinSwitch offers a platform that allows users to trade a wide range of cryptocurrencies. It aggregates liquidity from multiple exchanges to provide users with the best rates for their trades. The platform supports various cryptocurrencies, making it accessible for both novice and experienced traders.
+CoinSwitch is India's largest cryptocurrency investing platform and digital asset aggregator, trusted by over 20 million users. Founded in 2017 and backed by premier global venture firms including Andreessen Horowitz (a16z), Coinbase Ventures, Tiger Global, and Sequoia Capital India (Peak XV), CoinSwitch empowers retail traders, algorithmic professionals, and institutions to trade digital assets securely.
 
-The company has job listings for various positions, including Associate Company Secretary, Senior Associate, and Enterprise Security Engineer. This indicates a diverse range of operational needs, reflecting the company's growth and commitment to security and compliance. CoinSwitch aims to provide a user-friendly experience while ensuring strong security measures are in place for its users.
+The platform aggregates order books across multiple global exchanges to provide users with optimal pricing, zero-slippage execution, and high-speed liquidity. Beyond spot crypto trading on CoinSwitch and CoinSwitch PRO, the company pioneers compliant financial infrastructure, proof-of-reserves transparency, educational initiatives, and enterprise-grade cybersecurity solutions. CoinSwitch fosters a high-velocity product and engineering environment dedicated to advancing blockchain adoption and financial inclusion across emerging markets.
