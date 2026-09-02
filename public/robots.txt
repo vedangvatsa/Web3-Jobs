@@ -12,9 +12,9 @@ Allow: /openapi.json
 Allow: /llms.txt
 Allow: /llms-full.txt
 Allow: /.well-known/
+Allow: /api/auth/
 Allow: /_next/static/
 Disallow: /_next/
-Disallow: /api/auth/
 Disallow: /api/send-job-alerts
 
 # ─── AI SEARCH & AGENT CRAWLERS (Explicitly Allowed) ───
