@@ -6,6 +6,28 @@ This document describes how AI agents can authenticate with `hashtagweb3.com` to
 
 ---
 
+## Sandbox & Test Environment
+
+Zero-auth sandbox endpoints — no API key required:
+
+```bash
+# Test sandbox jobs endpoint
+curl https://hashtagweb3.com/api/sandbox/jobs
+
+# Get a free sandbox API key instantly
+curl -X POST https://hashtagweb3.com/api/sandbox/auth/register \
+  -H 'Content-Type: application/json' \
+  -d '{"agent_id": "my-test-agent"}'
+
+# Test sandbox glossary
+curl https://hashtagweb3.com/api/sandbox/glossary
+```
+
+Sandbox base URL: `https://hashtagweb3.com/api/sandbox`
+All sandbox endpoints return mock data and do not touch production databases.
+
+---
+
 ## Discover
 
 Hashtagweb3.com supports both unauthenticated (public) and authenticated agent access.

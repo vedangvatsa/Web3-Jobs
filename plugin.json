@@ -1,9 +1,44 @@
 {
   "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
   "name": "hashtagweb3",
+  "displayName": "Hashtag Web3",
   "version": "1.0.0",
-  "description": "Agentic Web3 job board, news feed, events, and glossary definitions plugin.",
+  "description": "Web3 job board, blockchain news, crypto events, and technical glossary. Exposes REST and MCP tool surfaces for AI agents.",
   "author": "Hashtag Web3",
   "homepage": "https://hashtagweb3.com",
-  "repository": "https://github.com/vedangvatsa/Web3-Jobs"
+  "repository": "https://github.com/vedangvatsa/Web3-Jobs",
+  "license": "MIT",
+  "capabilities": {
+    "mcp": {
+      "productServer": "https://hashtagweb3.com/api/mcp",
+      "docsServer": "https://hashtagweb3.com/api/mcp-docs",
+      "serverCard": "https://hashtagweb3.com/.well-known/mcp/server-card.json"
+    },
+    "openapi": "https://hashtagweb3.com/openapi.json",
+    "llms": "https://hashtagweb3.com/llms.txt",
+    "auth": "https://hashtagweb3.com/auth.md",
+    "sandbox": "https://hashtagweb3.com/api/sandbox"
+  },
+  "tools": [
+    {
+      "name": "search_jobs",
+      "description": "Search 3000+ verified Web3, DeFi, DAO, and blockchain jobs",
+      "endpoint": "GET https://hashtagweb3.com/api/jobs"
+    },
+    {
+      "name": "search_glossary",
+      "description": "Look up 200+ blockchain and cryptographic term definitions",
+      "endpoint": "GET https://hashtagweb3.com/api/glossary"
+    },
+    {
+      "name": "get_events",
+      "description": "Discover upcoming Web3 conferences and hackathons",
+      "endpoint": "GET https://hashtagweb3.com/api/events"
+    },
+    {
+      "name": "get_news",
+      "description": "Retrieve latest crypto and blockchain news headlines",
+      "endpoint": "GET https://hashtagweb3.com/api/news"
+    }
+  ]
 }
