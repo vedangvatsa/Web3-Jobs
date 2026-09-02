@@ -10,11 +10,10 @@
   "packages": [
     {
       "registryType": "npm",
-      "identifier": "@hashtagweb3/sdk",
+      "identifier": "hashtagweb3",
       "version": "1.0.0",
       "transport": {
-        "type": "streamable-http",
-        "url": "https://hashtagweb3.com/api/mcp"
+        "type": "stdio"
       }
     }
   ]
