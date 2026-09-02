@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Hashtag Web3",
+  "name_for_model": "hashtag_web3",
+  "description_for_human": "Browse 3,000+ Web3 jobs, 500+ career guides, and 200+ glossary terms at Hashtag Web3.",
+  "description_for_model": "Hashtag Web3 is a Web3 job board and career resource platform. Use it to search blockchain, crypto, DeFi, and DAO job listings. It also contains 500+ career guides covering salary data, interview preparation, resume tips, and a 200+ term Web3 glossary. Content is human-written and updated daily.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://hashtagweb3.com/openapi.json"
+  },
+  "logo_url": "https://hashtagweb3.com/logo/HashtagWeb3.png",
+  "contact_email": "hello@hashtagweb3.com",
+  "legal_info_url": "https://hashtagweb3.com"
+}

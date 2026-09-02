@@ -1,0 +1,54 @@
+# Build and output directories
+node_modules/
+dist/
+build/
+out/
+.next/
+.cache/
+.astro/
+.vercel/
+
+# Environment and system files
+.env
+.env.local
+.env.production
+.env.development
+.DS_Store
+
+# Dependency caches
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+
+content/
+docs/
+public/
+
+# Binary or large assets
+*.png
+*.jpg
+*.jpeg
+*.gif
+*.mp4
+*.mp3
+*.zip
+*.tar
+*.gz
+*.pdf
+*.csv
+
+# Logs and temp files
+logs/
+*.log
+tmp/
+temp/
+
+# Framework specific
+firebase-debug.log
+.firebaserc
+firebase.json
+
+# Data or generated files
+data/
+coverage/
+public/

@@ -1,0 +1,265 @@
+{
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "zk-engineer",
+ "generatedAt": "2026-05-17T05:30:09.446Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "ZK Circuit Security Checklist",
+ "description": "Security checklist for zero-knowledge engineers covering circuit constraints, trusted setup, proof verification, and common ZK vulnerabilities.",
+ "keywords": [
+ "zk-engineer",
+ "security",
+ "checklist",
+ "circuits",
+ "constraints"
+ ],
+ "canonicalSlug": "security-checklists-for-zk-engineer"
+ },
+ "content": {
+ "intro": "ZK circuits have unique security concerns. Missing constraints, faulty math, and verification bugs can allow provers to create valid proofs for false statements. This checklist covers critical security areas.",
+ "sections": [
+ {
+ "heading": "Constraint Completeness",
+ "description": "Ensure all inputs are properly constrained.",
+ "items": [
+ {
+ "task": "All public inputs are constrained",
+ "priority": "critical",
+ "description": "Every public input must be used in constraints. Unconstrained inputs let provers choose arbitrary values."
+ },
+ {
+ "task": "All private inputs contribute to output",
+ "priority": "critical",
+ "description": "Private inputs must affect the proven statement. Otherwise provers can use any private input."
+ },
+ {
+ "task": "No underconstrained intermediate values",
+ "priority": "critical",
+ "description": "All intermediate values should be fully determined by inputs. Check for degrees of freedom."
+ },
+ {
+ "task": "Range constraints on all numeric inputs",
+ "priority": "critical",
+ "description": "Field elements wrap around. Ensure values stay in expected ranges."
+ },
+ {
+ "task": "Boolean values constrained to 0 or 1",
+ "priority": "critical",
+ "description": "x * (x - 1) === 0 enforces boolean. Just saying 'is boolean' is not enough."
+ },
+ {
+ "task": "Array bounds checked",
+ "priority": "critical",
+ "description": "Array indices must be constrained to valid ranges."
+ }
+ ]
+ },
+ {
+ "heading": "Arithmetic Safety",
+ "description": "Handle finite field arithmetic correctly.",
+ "items": [
+ {
+ "task": "Check for field overflow",
+ "priority": "critical",
+ "description": "Arithmetic wraps at field modulus. Large numbers can wrap to small ones."
+ },
+ {
+ "task": "Division by zero handled",
+ "priority": "critical",
+ "description": "Division by zero is undefined. Ensure denominators are non-zero."
+ },
+ {
+ "task": "Square root non-uniqueness",
+ "priority": "critical",
+ "description": "Field elements have two square roots. Constrain which one is expected."
+ },
+ {
+ "task": "Comparison operations correct",
+ "priority": "critical",
+ "description": "Less-than comparisons are expensive and tricky in circuits. Verify implementation."
+ },
+ {
+ "task": "Bit decomposition complete",
+ "priority": "critical",
+ "description": "When decomposing to bits, ensure reconstruction equals original."
+ }
+ ]
+ },
+ {
+ "heading": "Hash and Signature Constraints",
+ "description": "Cryptographic primitive usage.",
+ "items": [
+ {
+ "task": "Hash inputs fully constrained",
+ "priority": "critical",
+ "description": "All inputs to hash functions must be constrained. Unconstrained inputs allow hash manipulation."
+ },
+ {
+ "task": "Signature verification complete",
+ "priority": "critical",
+ "description": "All signature components verified. Partial verification allows forgery."
+ },
+ {
+ "task": "Message included in signature check",
+ "priority": "critical",
+ "description": "The message being signed must be part of the signature verification constraints."
+ },
+ {
+ "task": "Public key validation",
+ "priority": "critical",
+ "description": "Verify public keys are valid curve points. Invalid keys can cause issues."
+ },
+ {
+ "task": "Nullifier derivation deterministic",
+ "priority": "critical",
+ "description": "Nullifiers must be uniquely derived. Multiple nullifiers for same input allow double-spending."
+ }
+ ]
+ },
+ {
+ "heading": "Merkle Tree Operations",
+ "description": "Merkle proof verification.",
+ "items": [
+ {
+ "task": "Path indices properly constrained",
+ "priority": "critical",
+ "description": "Each Merkle path direction must be constrained boolean."
+ },
+ {
+ "task": "Root computed correctly",
+ "priority": "critical",
+ "description": "Final hash must equal claimed root. Check hash ordering at each level."
+ },
+ {
+ "task": "Leaf preimage fully committed",
+ "priority": "critical",
+ "description": "The leaf value must include all relevant data, not just identifiers."
+ },
+ {
+ "task": "Tree depth correct",
+ "priority": "critical",
+ "description": "Circuit tree depth must match actual tree depth."
+ },
+ {
+ "task": "Empty leaves handled",
+ "priority": "important",
+ "description": "Define what empty leaves hash to. Ensure consistency."
+ }
+ ]
+ },
+ {
+ "heading": "Proof System Setup",
+ "description": "Trusted setup and parameters.",
+ "items": [
+ {
+ "task": "Trusted setup from ceremony",
+ "priority": "critical",
+ "description": "Use parameters from a multi-party ceremony. Single-party setups are trusted."
+ },
+ {
+ "task": "Powers of tau sufficient size",
+ "priority": "critical",
+ "description": "Circuit must fit within the powers of tau size used in setup."
+ },
+ {
+ "task": "Circuit hash matches deployment",
+ "priority": "critical",
+ "description": "Verification key must match the deployed circuit exactly."
+ },
+ {
+ "task": "No reuse of proving keys for different circuits",
+ "priority": "critical",
+ "description": "Each circuit needs its own setup. Never reuse keys across circuits."
+ }
+ ]
+ },
+ {
+ "heading": "Verifier Implementation",
+ "description": "On-chain verification safety.",
+ "items": [
+ {
+ "task": "Verifier matches prover circuit",
+ "priority": "critical",
+ "description": "Verifier must be generated from same circuit used by prover."
+ },
+ {
+ "task": "Public inputs correctly ordered",
+ "priority": "critical",
+ "description": "Public input ordering must match between prover and verifier."
+ },
+ {
+ "task": "Proof cannot be replayed",
+ "priority": "critical",
+ "description": "Include nonce or timestamp in public inputs to prevent replay."
+ },
+ {
+ "task": "Verifier handles invalid proofs",
+ "priority": "critical",
+ "description": "Verifier must reject malformed proofs, not revert or panic."
+ },
+ {
+ "task": "Gas limits tested",
+ "priority": "critical",
+ "description": "On-chain verification must fit within block gas limits."
+ }
+ ]
+ },
+ {
+ "heading": "Application Logic",
+ "description": "How ZK proofs integrate with application.",
+ "items": [
+ {
+ "task": "Proof binds to specific action",
+ "priority": "critical",
+ "description": "Proofs should include action-specific data to prevent misuse."
+ },
+ {
+ "task": "Proof expiration implemented",
+ "priority": "critical",
+ "description": "Proofs should have time bounds to prevent indefinite validity."
+ },
+ {
+ "task": "Nullifiers stored and checked",
+ "priority": "critical",
+ "description": "Spent nullifiers must be recorded. Missing check allows double-spend."
+ },
+ {
+ "task": "External data validated",
+ "priority": "critical",
+ "description": "Data from oracles or other sources must be validated before use in proofs."
+ }
+ ]
+ }
+ ],
+ "commonMistakes": [
+ {
+ "mistake": "Forgetting to constrain public inputs",
+ "impact": "Provers can claim any public output regardless of private inputs.",
+ "prevention": "Audit every public input. Ensure each one appears in at least one constraint."
+ },
+ {
+ "mistake": "Field overflow in arithmetic",
+ "impact": "Large numbers wrap around, breaking expected logic.",
+ "prevention": "Add range checks. Be aware of your field size."
+ },
+ {
+ "mistake": "Wrong hash ordering in Merkle proofs",
+ "impact": "Invalid proofs could be accepted for non-existent leaves.",
+ "prevention": "Test with known Merkle roots. Verify left/right ordering."
+ },
+ {
+ "mistake": "Reusing nullifiers across contexts",
+ "impact": "Nullifier in one context might collide with another.",
+ "prevention": "Include domain separator in nullifier derivation."
+ }
+ ],
+ "proTips": [
+ "Verify constraint counts match expected values for every circuit change.",
+ "Test with adversarial inputs, not just happy-path cases.",
+ "Keep the trusted setup ceremony documented and auditable."
+ ]
+ }
+}

@@ -1,0 +1,64 @@
+{
+  "linkset": [
+    {
+      "anchor": "https://hashtagweb3.com/api",
+      "item": [
+        {
+          "href": "https://hashtagweb3.com/openapi.json",
+          "type": "application/vnd.oai.openapi+json;version=3.1",
+          "title": "Hashtag Web3 OpenAPI 3.1 Specification"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/openapi.yaml",
+          "type": "application/vnd.oai.openapi;version=3.1",
+          "title": "Hashtag Web3 OpenAPI 3.1 YAML Specification"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/v1/jobs",
+          "type": "application/json",
+          "title": "Web3 Jobs Search API"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/v1/events",
+          "type": "application/json",
+          "title": "Web3 Events & Conferences API"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/v1/news",
+          "type": "application/json",
+          "title": "Crypto & Web3 News API"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/v1/glossary",
+          "type": "application/json",
+          "title": "Blockchain Glossary API"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/sandbox",
+          "type": "application/json",
+          "title": "Hashtag Web3 Zero-Auth Sandbox & Testing Environment"
+        }
+      ],
+      "service-desc": [
+        {
+          "href": "https://hashtagweb3.com/openapi.json",
+          "type": "application/vnd.oai.openapi+json;version=3.1"
+        },
+        {
+          "href": "https://hashtagweb3.com/api/openapi.yaml",
+          "type": "application/vnd.oai.openapi;version=3.1"
+        }
+      ],
+      "service-doc": [
+        {
+          "href": "https://hashtagweb3.com/developers",
+          "type": "text/html"
+        },
+        {
+          "href": "https://hashtagweb3.com/developers/llms.txt",
+          "type": "text/markdown"
+        }
+      ]
+    }
+  ]
+}

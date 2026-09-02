@@ -1,0 +1,98 @@
+# Hashtag Web3 — Developer Portal, Public API & Agent Context
+
+> Scoped documentation index for developers, LLMs, and autonomous agents integrating with Hashtag Web3 APIs, OpenAPI specifications, Model Context Protocol (MCP) servers, and CLI tools.
+
+## When to use this
+
+Use Hashtag Web3 developer endpoints and tools for:
+- **Web3 Job Search**: Query live blockchain, Solidity, Rust, and crypto jobs via `GET /api/v1/jobs` (or `/api/jobs`).
+- **Crypto & Web3 News**: Real-time aggregated industry headlines via `GET /api/v1/news`.
+- **Global Web3 Events**: Upcoming conferences, hackathons, and builder summits via `GET /api/v1/events`.
+- **Blockchain Technical Glossary**: 200+ definitions covering DeFi, consensus, and cryptography via `GET /api/v1/glossary`.
+- **MCP Tool Calling**: Model Context Protocol streamable-http integration via `POST /.well-known/mcp`.
+
+## When NOT to Use
+
+Do NOT use Hashtag Web3 for:
+- General non-blockchain jobs
+- Live token price tickers or financial execution
+- Wallet transactions, token swaps, or on-chain signing
+
+## REST API Endpoints (v1 & Public)
+
+- `GET https://hashtagweb3.com/api/v1/jobs`: Search and paginate live Web3 jobs (`search`, `tag`, `company`, `limit`, `offset`, `cursor`).
+- `GET https://hashtagweb3.com/api/v1/news`: Real-time aggregated crypto headlines (`search`, `limit`).
+- `GET https://hashtagweb3.com/api/v1/events`: Global Web3 conferences and hackathons (`search`, `type`, `country`, `limit`, `offset`).
+- `GET https://hashtagweb3.com/api/v1/glossary`: 200+ blockchain glossary definitions (`search`, `category`, `limit`).
+- `POST https://hashtagweb3.com/api/mcp`: Model Context Protocol Streamable HTTP endpoint for AI tool calling.
+
+## Sandbox & Test Environment (Zero-Auth & Mock Payloads)
+
+- **Sandbox Root**: `GET https://hashtagweb3.com/api/sandbox`
+- **Instant Sandbox Key Registration**: `POST https://hashtagweb3.com/api/sandbox/auth/register` (body: `{"agent_id": "your-agent"}`)
+- **Sandbox Jobs**: `GET https://hashtagweb3.com/api/sandbox/jobs`
+- **Sandbox Glossary**: `GET https://hashtagweb3.com/api/sandbox/glossary`
+- **Sandbox News**: `GET https://hashtagweb3.com/api/sandbox/news`
+- **Sandbox Events**: `GET https://hashtagweb3.com/api/sandbox/events`
+- **Echo Header/Payload Test**: `POST https://hashtagweb3.com/api/sandbox/echo`
+
+## Official CLI Tool
+
+```bash
+# Run directly via npx
+npx hashtagweb3 jobs --search "Solidity" --limit 5
+npx hashtagweb3 news --limit 5
+npx hashtagweb3 events --type conference
+npx hashtagweb3 glossary --search "Zero Knowledge"
+
+# Install globally
+npm install -g hashtagweb3
+```
+
+## Official Multi-Language SDK Packages & MCP Registry Listings
+- **NPM SDK Package (JavaScript/TypeScript)**: [`@hashtagweb3/sdk`](https://www.npmjs.com/package/@hashtagweb3/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
+- **NPM CLI Package**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3)
+- **PyPI SDK Package (Python)**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/) (Project URL / Home-Page: `https://hashtagweb3.com`)
+- **RubyGems Package (Ruby)**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3) (homepage_uri: `https://hashtagweb3.com`)
+- **Go Module (Go)**: [`github.com/hashtagweb3/sdk`](https://github.com/hashtagweb3/sdk)
+- **Smithery MCP Registry**: [`smithery.ai/server/@hashtagweb3/mcp`](https://smithery.ai/server/@hashtagweb3/mcp)
+- **mcp.so Registry**: [`mcp.so/server/hashtagweb3`](https://mcp.so/server/hashtagweb3)
+- **Agent Plugins Manifest**: [`/.well-known/plugin.json`](https://hashtagweb3.com/.well-known/plugin.json)
+
+## Rate Limits & Response Headers
+- Default public rate limit: 120 requests/minute per IP.
+- Standard RFC rate limit response headers on all API endpoints:
+  - `RateLimit-Limit: 120`
+  - `RateLimit-Remaining: 119`
+  - `RateLimit-Reset: 60`
+  - `RateLimit-Policy: 120;w=60`
+  - `Retry-After: 60` (on 429 status code)
+  - `API-Version: 1.0.0`
+  - `Deprecation: @1767225600`
+  - `Sunset: Wed, 31 Dec 2026 23:59:59 GMT`
+
+## Machine-Readable Specifications
+
+- [OpenAPI 3.1 JSON](https://hashtagweb3.com/openapi.json): Complete machine-readable OpenAPI 3.1 specification.
+- [OpenAPI 3.1 YAML](https://hashtagweb3.com/api/openapi.yaml): OpenAPI 3.1 YAML schema.
+- [MCP Server Manifest](https://hashtagweb3.com/.well-known/mcp/server-card.json): Model Context Protocol server definition.
+- [Agent Manifest](https://hashtagweb3.com/.well-known/agents.json): Standardized agent capabilities and tool definitions.
+- [Agent Auth Guide](https://hashtagweb3.com/auth.md): WorkOS auth.md compliant authentication guide for AI agents.
+- [RFC 9727 API Catalog](https://hashtagweb3.com/.well-known/api-catalog): Standardized linkset API catalog.
+- [RFC 9728 OAuth Protected Resource](https://hashtagweb3.com/.well-known/oauth-protected-resource)
+- [RFC 8414 OAuth Authorization Server](https://hashtagweb3.com/.well-known/oauth-authorization-server)
+- [Developer Portal UI](https://hashtagweb3.com/developers): Interactive web documentation, quickstart guides, and code samples.
+
+## GitHub Codebase & Agent Configuration
+- [Public GitHub Repository](https://github.com/vedangvatsa/Web3-Jobs): Authoritative open-source repository containing the Hashtag Web3 site and integration code.
+- [Agent Plugin Manifest (plugin.json)](https://hashtagweb3.com/plugin.json): Agent-plugins.org compliant plugin configuration manifest.
+- [Agent Skill (SKILL.md)](https://github.com/vedangvatsa/Web3-Jobs/blob/main/SKILL.md): Self-publishing skills.sh capabilities mapping document.
+- [Agent Coding Rules (AGENTS.md)](https://github.com/vedangvatsa/Web3-Jobs/blob/main/AGENTS.md): Coding rules and system prompt directives for autonomous coding agents.
+- [Cursor Rules (.cursorrules)](https://github.com/vedangvatsa/Web3-Jobs/blob/main/.cursorrules): Development instruction rules for Cursor/AI IDE workflows.
+
+## Searchable Discoverability Indices
+- **Hashtag Web3 API Docs**: Found at `https://hashtagweb3.com/developers`
+- **Hashtag Web3 OpenAPI Spec**: Found at `https://hashtagweb3.com/openapi.json`
+- **Hashtag Web3 Auth Docs**: Found at `https://hashtagweb3.com/auth.md`
+- **Hashtag Web3 MCP Server**: Found at `https://hashtagweb3.com/api/mcp`
+- **Hashtag Web3 Webhooks**: Found at `https://hashtagweb3.com/developers` (under API Webhook events block)

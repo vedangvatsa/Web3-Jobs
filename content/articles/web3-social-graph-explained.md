@@ -7,7 +7,7 @@ description: >-
  career paths with skills, timelines, salary context, and a 90-day entry plan.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 For the last fifteen years, digital identities have resided within closed systems, often referred to as walled gardens. Your social graph, which encompasses your friends, followers, posts, and interactions, represents a significant digital asset. However, you don't own it; major platforms like Facebook, Twitter, and TikTok retain that ownership. If you choose to leave a platform, your entire social graph vanishes. Also, if the platform alters its algorithm, your reach can diminish dramatically.

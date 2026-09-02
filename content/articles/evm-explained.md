@@ -6,7 +6,7 @@ description: >-
   The Ethereum Virtual Machine is the sandboxed runtime that executes smart contract bytecode on Ethereum and every EVM-compatible chain. Learn how its stack, memory, storage, gas metering and determinism work, where it helps, where it costs, and how to build with it.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 The Ethereum Virtual Machine is the sandboxed runtime that executes smart contract bytecode on Ethereum. Every node runs the same EVM, feeds it the same transaction and starting state, and must get the same output. That determinism is what lets a decentralized network agree on balances and contract data without a coordinator.

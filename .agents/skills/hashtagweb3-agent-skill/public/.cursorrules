@@ -1,0 +1,25 @@
+# Cursor Rules — Hashtagweb3.com Coding Agent Rules
+
+You are an AI coding agent assisting with the Hashtagweb3.com codebase.
+
+## Codebase Principles
+- Framework: Next.js 14 App Router (TypeScript)
+- Styling: Tailwind CSS & Lucide Icons
+- Database & Storage: Supabase (PostgreSQL), static jobs cache (`content/jobs-cache.json`)
+- Deployment: Vercel
+
+## API Conventions
+- Public REST APIs located under `src/app/api/` (CORS enabled `Access-Control-Allow-Origin: *`).
+- OpenAPI spec: `public/openapi.json`.
+- All JSON errors follow standard envelope: `{ "error": { "code": string, "message": string, "docUrl": string } }`.
+
+## Agent Capabilities & Endpoints
+- LLMs Index: `/llms.txt`
+- MCP Product Server: `/api/mcp` and `/.well-known/mcp/server-card.json`
+- MCP Docs Server: `/api/mcp-docs` and `/.well-known/mcp-docs/server-card.json`
+- Agent Plugin Manifest: `/.well-known/plugin.json`
+- WorkOS Agent Auth: `/auth.md`
+
+## Coding Standards
+- Do NOT introduce breaking API schema changes without updating `openapi.json` and `llms.txt`.
+- Server Components by default; add `'use client'` only for interactive components.

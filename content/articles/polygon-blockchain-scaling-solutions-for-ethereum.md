@@ -6,7 +6,7 @@ description: >-
   A guide to Polygon, the EVM-compatible network anchored to Ethereum. Learn how Polygon Chain works, what changed with the POL token, and how AggLayer and CDK fit in.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## What Polygon is

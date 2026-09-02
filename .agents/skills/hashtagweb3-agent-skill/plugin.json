@@ -1,0 +1,9 @@
+{
+  "$schema": "https://agent-plugins.org/schemas/1.0.0/plugin.schema.json",
+  "name": "hashtagweb3",
+  "version": "1.0.0",
+  "description": "Agentic Web3 job board, news feed, events, and glossary definitions plugin.",
+  "author": "Hashtag Web3",
+  "homepage": "https://hashtagweb3.com",
+  "repository": "https://github.com/vedangvatsa/Web3-Jobs"
+}

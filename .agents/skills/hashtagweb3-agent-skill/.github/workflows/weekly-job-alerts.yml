@@ -1,0 +1,58 @@
+name: Weekly Job Alerts
+
+on:
+  schedule:
+    # Run Monday and Thursday at 9:00 AM UTC
+    # Sends to all ~5000 subscribers in one run via AWS SES (50k/day capacity)
+    - cron: '0 9 * * 1,4'
+  workflow_dispatch:
+
+jobs:
+  send-job-alerts:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Decrypt subscriber email lists
+        env:
+          EMAIL_ENCRYPTION_KEY: ${{ secrets.EMAIL_ENCRYPTION_KEY }}
+        run: |
+          cd scripts
+          for f in manual-emails.json manual-emails-2.json manual-emails-3.json manual-emails-4.json; do
+            if [ -f "$f.enc" ]; then
+              openssl enc -aes-256-cbc -d -salt -pbkdf2 -in "$f.enc" -out "$f" -pass pass:$EMAIL_ENCRYPTION_KEY
+              echo "Decrypted $f"
+            fi
+          done
+
+      - name: Send job alerts via AWS SES
+        run: npm run send-new-jobs -- --days 4 --limit 15
+        env:
+          # AWS SES
+          AWS_SES_ACCESS_KEY_ID: ${{ secrets.AWS_SES_ACCESS_KEY_ID }}
+          AWS_SES_SECRET_ACCESS_KEY: ${{ secrets.AWS_SES_SECRET_ACCESS_KEY }}
+          AWS_SES_REGION: us-west-1
+
+          # Email config
+          EMAIL_FROM: hi@hashtagweb3.com
+          EMAIL_FROM_NAME: Hashtag Web3
+          CRON_SECRET: ${{ secrets.CRON_SECRET }}
+
+          # Firebase Admin SDK (base64-encoded service account JSON)
+          FIREBASE_SERVICE_ACCOUNT_KEY: ${{ secrets.FIREBASE_SERVICE_ACCOUNT_KEY }}
+
+          # Site configuration
+          NEXT_PUBLIC_SITE_URL: https://hashtagweb3.com

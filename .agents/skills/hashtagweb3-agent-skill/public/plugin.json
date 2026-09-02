@@ -1,0 +1,37 @@
+{
+  "$schema": "https://agent-plugins.org/specification/schema.json",
+  "name": "hashtagweb3",
+  "displayName": "Hashtag Web3 Agent Plugin",
+  "description": "Real-time Web3 jobs, employer database, salaries, and events plugin for AI agents.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Hashtag Web3",
+    "url": "https://hashtagweb3.com"
+  },
+  "homepage": "https://hashtagweb3.com",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hashtagweb3/web3-jobs"
+  },
+  "capabilities": {
+    "mcp": {
+      "serverCard": "https://hashtagweb3.com/.well-known/mcp/server-card.json",
+      "productEndpoint": "https://hashtagweb3.com/api/mcp",
+      "docsEndpoint": "https://hashtagweb3.com/api/mcp-docs"
+    },
+    "openapi": "https://hashtagweb3.com/openapi.json",
+    "llms": "https://hashtagweb3.com/llms.txt"
+  },
+  "skills": [
+    {
+      "name": "web3-job-search",
+      "description": "Search verified Web3, crypto, and blockchain jobs",
+      "endpoint": "https://hashtagweb3.com/api/jobs"
+    },
+    {
+      "name": "web3-salary-benchmarks",
+      "description": "Retrieve salary data and compensation benchmarks for Web3 roles",
+      "endpoint": "https://hashtagweb3.com/api/jobs"
+    }
+  ]
+}

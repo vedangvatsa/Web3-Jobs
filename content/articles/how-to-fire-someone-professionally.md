@@ -9,7 +9,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: firing employee meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Firing someone is the worst part of management. No framework makes it comfortable. But there's a big difference between doing it well and doing it badly. Here's how to handle it with clarity and respect.

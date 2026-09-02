@@ -6,7 +6,7 @@ description: >-
   A practical comparison of leading NFT marketplaces in 2026. Covers verified fees, royalty enforcement, supported chains, listing types, and which venue fits creators, collectors, and pro traders. Includes OpenSea at 1%, Blur at 0%, Magic Eden at 2%, Rarible at 1% per side, SuperRare at 15% primary and 10% royalty, Zora at 0.000777 ETH per mint, plus notes on Foundation and X2Y2 shutdowns.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## What is an NFT marketplace

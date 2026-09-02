@@ -7,7 +7,7 @@ image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 category: Career Guides
 data-ai-hint: code on screen
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## Beyond JavaScript: The Coding Languages Powering Web3

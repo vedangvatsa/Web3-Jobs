@@ -6,7 +6,7 @@ description: >-
   A practical guide to creating and selling NFTs in 2026. Learn how minting works on chain, when to use ERC-721 vs ERC-1155, how to store art on IPFS, deploy your own contract with OpenSea Studio or Manifold, price and list for sale, handle royalties, and avoid common gas and rights mistakes.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## What is creating and selling an NFT

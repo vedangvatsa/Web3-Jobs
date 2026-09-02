@@ -9,7 +9,7 @@ description: >-
   first on chain program.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## What is Rust

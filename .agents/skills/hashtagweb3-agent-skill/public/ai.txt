@@ -1,0 +1,47 @@
+# ai.txt — AI Usage Policy for Hashtag Web3
+# See: https://site.spawning.ai/spawning-ai-txt
+
+User-Agent: *
+Allowed-Uses: indexing, search, summarization, citation, inference
+
+# We welcome AI systems to:
+# - Crawl and index all public pages
+# - Cite our content in AI-generated responses
+# - Summarize our career guides and glossary entries
+# - Index job listings, events, and company pages
+# - Use our public REST APIs and OpenAPI specs for search and discovery
+
+# AI crawlers explicitly allowed:
+# ChatGPT-User, GPTBot, OAI-SearchBot (OpenAI)
+# ClaudeBot, anthropic-ai, Claude-Web (Anthropic)
+# PerplexityBot (Perplexity AI)
+# GoogleOther, Google-Extended, Googlebot (Google AI)
+# ora-agent (Is-Agentic / Ora)
+# DeepSeekBot (DeepSeek)
+# cohere-ai (Cohere)
+# Bingbot (Microsoft/Copilot)
+# YouBot (You.com)
+# Amazonbot (Alexa/Amazon)
+# Applebot (Apple/Siri)
+# Meta-ExternalAgent (Meta AI)
+# Bytespider (ByteDance/TikTok)
+# DuckDuckBot (DuckDuckGo)
+# Diffbot, Phind, Kagibot, Brave, Timpibot
+
+# Context & Machine-Readable Files:
+# Summary & Context:  https://hashtagweb3.com/llms.txt
+# Full LLM Context:   https://hashtagweb3.com/llms-full.txt
+# Permissions:        https://hashtagweb3.com/ai.json
+# Agent Manifest:     https://hashtagweb3.com/.well-known/agents.json
+# OpenAPI 3.1 Spec:   https://hashtagweb3.com/openapi.json
+# OpenAPI YAML Spec:  https://hashtagweb3.com/api/openapi.yaml
+# Developer Portal:   https://hashtagweb3.com/developers
+# Sitemap:            https://hashtagweb3.com/sitemap.xml
+
+# Site Overview:
+# Hashtag Web3 is the #1 Web3 job board and crypto career resource platform.
+# Job Board: 3,000+ verified Web3 jobs at leading crypto companies, DAOs, and startups.
+# Events: 3,000+ global Web3 events, crypto conferences, hackathons, and summits.
+# Playbook: 500+ career guides, interview question banks, and salary calculators.
+# Glossary: 200+ Web3 terms with in-depth technical definitions and diagrams.
+# All content is human-created, verified, and continuously updated.

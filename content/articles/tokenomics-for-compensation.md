@@ -8,7 +8,7 @@ description: >-
  incentives.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Token-based compensation has emerged as a practice in [Web3](/what-is-web3), granting team members and contributors direct ownership of the networks they help build. This approach shifts the traditional compensation model away from just salaries and equity in centralized companies, incorporating significant grants of a protocol's native tokens into the compensation packages of Web3 professionals.

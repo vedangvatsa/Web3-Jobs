@@ -6,6 +6,7 @@ import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
+import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 
 const JOBS_PER_PAGE = 50;
 
@@ -44,6 +45,18 @@ export default async function JobsPage() {
       <script
         type="application/ld+json"
         dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(serviceSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
       <div className="flex flex-col min-h-screen">
         <main className="flex-1">

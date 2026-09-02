@@ -1,0 +1,309 @@
+{
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "nft-developer",
+ "generatedAt": "2026-05-17T05:30:09.442Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "NFT Smart Contract Security Checklist",
+ "description": "A detailed security checklist for NFT developers covering minting, metadata, royalties, and marketplace integration. Launch secure NFT collections.",
+ "keywords": [
+ "nft-developer",
+ "security-checklist",
+ "ERC-721",
+ "minting",
+ "metadata",
+ "royalties",
+ "IPFS"
+ ],
+ "canonicalSlug": "security-checklists-for-nft-developer"
+ },
+ "content": {
+ "intro": "NFT contracts face unique security challenges around minting, metadata, and marketplace integration. Use this checklist to secure your collection before launch.",
+ "sections": [
+ {
+ "heading": "Minting Security",
+ "description": "Secure the minting process against common exploits.",
+ "items": [
+ {
+ "title": "Enforce maximum supply limit",
+ "description": "Verify that minting cannot exceed the advertised maximum supply under any circumstances.",
+ "priority": "critical",
+ "category": "Minting"
+ },
+ {
+ "title": "Protect against reentrancy during mint",
+ "description": "Use ReentrancyGuard on mint functions to prevent callback-based minting exploits.",
+ "priority": "critical",
+ "category": "Minting"
+ },
+ {
+ "title": "Validate mint price cannot be bypassed",
+ "description": "Ensure msg.value check cannot be bypassed and excess ETH is handled properly.",
+ "priority": "critical",
+ "category": "Minting"
+ },
+ {
+ "title": "Limit mints per wallet",
+ "description": "Implement per-wallet limits and verify they cannot be bypassed via contract calls.",
+ "priority": "important",
+ "category": "Minting"
+ },
+ {
+ "title": "Verify allowlist Merkle proof implementation",
+ "description": "Check Merkle tree implementation for vulnerabilities. Use OpenZeppelin's MerkleProof.",
+ "priority": "important",
+ "category": "Minting"
+ },
+ {
+ "title": "Prevent signature replay attacks",
+ "description": "If using signatures for allowlists, include nonces and expiration timestamps.",
+ "priority": "important",
+ "category": "Minting"
+ },
+ {
+ "title": "Check for integer overflow in quantity mints",
+ "description": "Batch mint quantity multiplied by price must not overflow.",
+ "priority": "important",
+ "category": "Minting"
+ }
+ ]
+ },
+ {
+ "heading": "Token ID and Randomness",
+ "description": "Secure token ID assignment and reveal mechanics.",
+ "items": [
+ {
+ "title": "Use verifiable randomness for reveals",
+ "description": "Use Chainlink VRF or commit-reveal scheme. Block hash is predictable by miners.",
+ "priority": "critical",
+ "category": "Randomness"
+ },
+ {
+ "title": "Protect against reveal sniping",
+ "description": "Prevent minters from predicting which token ID they will receive before reveal.",
+ "priority": "important",
+ "category": "Randomness"
+ },
+ {
+ "title": "Verify provenance hash implementation",
+ "description": "Provenance hash should be committed before mint starts and verifiable after reveal.",
+ "priority": "important",
+ "category": "Randomness"
+ },
+ {
+ "title": "Check for token ID enumeration issues",
+ "description": "Verify token IDs are assigned correctly without gaps or collisions.",
+ "priority": "important",
+ "category": "Randomness"
+ },
+ {
+ "title": "Secure batch reveal logic",
+ "description": "If revealing in batches, ensure each batch cannot influence future batch outcomes.",
+ "priority": "important",
+ "category": "Randomness"
+ }
+ ]
+ },
+ {
+ "heading": "Metadata Security",
+ "description": "Secure metadata storage and URI handling.",
+ "items": [
+ {
+ "title": "Pin metadata to IPFS or use permanent storage",
+ "description": "Use IPFS pinning service or Arweave to prevent metadata loss. Centralized servers are a rug risk.",
+ "priority": "critical",
+ "category": "Metadata"
+ },
+ {
+ "title": "Freeze metadata after reveal",
+ "description": "Lock baseURI after reveal to prevent post-mint metadata manipulation.",
+ "priority": "important",
+ "category": "Metadata"
+ },
+ {
+ "title": "Validate tokenURI implementation",
+ "description": "Ensure tokenURI returns correct URI for all valid token IDs and reverts for invalid ones.",
+ "priority": "important",
+ "category": "Metadata"
+ },
+ {
+ "title": "Check for URI injection vulnerabilities",
+ "description": "If constructing URIs dynamically, ensure no injection of malicious paths.",
+ "priority": "important",
+ "category": "Metadata"
+ },
+ {
+ "title": "Verify contractURI for marketplace compatibility",
+ "description": "Implement contractURI for collection-level metadata on OpenSea and other marketplaces.",
+ "priority": "important",
+ "category": "Metadata"
+ }
+ ]
+ },
+ {
+ "heading": "Royalties and Fees",
+ "description": "Implement royalties correctly for marketplace compatibility.",
+ "items": [
+ {
+ "title": "Implement EIP-2981 royalty standard",
+ "description": "Use EIP-2981 for on-chain royalty info. Most marketplaces check this standard.",
+ "priority": "important",
+ "category": "Royalties"
+ },
+ {
+ "title": "Validate royalty percentage bounds",
+ "description": "Royalty percentage should be capped at reasonable level (typically 10% max).",
+ "priority": "important",
+ "category": "Royalties"
+ },
+ {
+ "title": "Set royalty receiver correctly",
+ "description": "Royalty receiver should be an address you control. Consider using a splitter contract.",
+ "priority": "important",
+ "category": "Royalties"
+ },
+ {
+ "title": "Consider operator filter for royalty enforcement",
+ "description": "Implement OpenSea's Operator Filter Registry if you want to enforce royalties on supporting marketplaces.",
+ "priority": "important",
+ "category": "Royalties"
+ },
+ {
+ "title": "Test royalty calculation with various sale prices",
+ "description": "Verify royalty math works correctly for both small and large sale amounts.",
+ "priority": "important",
+ "category": "Royalties"
+ }
+ ]
+ },
+ {
+ "heading": "Access Control",
+ "description": "Secure administrative functions.",
+ "items": [
+ {
+ "title": "Protect owner/admin functions",
+ "description": "All administrative functions must have appropriate access control modifiers.",
+ "priority": "critical",
+ "category": "Access Control"
+ },
+ {
+ "title": "Use Ownable2Step for ownership transfers",
+ "description": "Two-step ownership transfer prevents accidental lockout from typos.",
+ "priority": "important",
+ "category": "Access Control"
+ },
+ {
+ "title": "Limit what owner can change post-mint",
+ "description": "Owner should not be able to change critical parameters that could rug holders.",
+ "priority": "important",
+ "category": "Access Control"
+ },
+ {
+ "title": "Consider renouncing ownership after launch",
+ "description": "For fully decentralized collections, consider renouncing ownership after setup.",
+ "priority": "important",
+ "category": "Access Control"
+ },
+ {
+ "title": "Implement withdrawal function for stuck funds",
+ "description": "Have a way to withdraw ETH and accidentally sent tokens from the contract.",
+ "priority": "important",
+ "category": "Access Control"
+ }
+ ]
+ },
+ {
+ "heading": "ERC-721 Compliance",
+ "description": "Ensure full ERC-721 standard compliance.",
+ "items": [
+ {
+ "title": "Implement all required ERC-721 functions",
+ "description": "balanceOf, ownerOf, safeTransferFrom, transferFrom, approve, setApprovalForAll, getApproved, isApprovedForAll must all work correctly.",
+ "priority": "critical",
+ "category": "Compliance"
+ },
+ {
+ "title": "Emit required events",
+ "description": "Transfer, Approval, and ApprovalForAll events must be emitted correctly.",
+ "priority": "critical",
+ "category": "Compliance"
+ },
+ {
+ "title": "Implement ERC-165 supportsInterface",
+ "description": "Return true for ERC721, ERC721Metadata, and ERC165 interface IDs.",
+ "priority": "important",
+ "category": "Compliance"
+ },
+ {
+ "title": "Handle safeTransferFrom correctly",
+ "description": "Must call onERC721Received on recipient contracts and revert if not accepted.",
+ "priority": "critical",
+ "category": "Compliance"
+ },
+ {
+ "title": "Check zero address handling",
+ "description": "Transfers to zero address should revert. Burning should use a burn function.",
+ "priority": "important",
+ "category": "Compliance"
+ }
+ ]
+ },
+ {
+ "heading": "Gas Optimization",
+ "description": "Optimize for affordable minting.",
+ "items": [
+ {
+ "title": "Use efficient ERC-721 implementation",
+ "description": "Consider ERC721A for batch minting efficiency. It significantly reduces gas for multiple mints.",
+ "priority": "important",
+ "category": "Gas"
+ },
+ {
+ "title": "Minimize storage writes",
+ "description": "Pack storage variables efficiently. Use uint96 for token counters if under max.",
+ "priority": "important",
+ "category": "Gas"
+ },
+ {
+ "title": "Optimize string operations",
+ "description": "Pre-compute string concatenations where possible. Avoid dynamic string operations.",
+ "priority": "important",
+ "category": "Gas"
+ },
+ {
+ "title": "Test gas costs at various mint quantities",
+ "description": "Verify gas costs are acceptable for single and batch mints.",
+ "priority": "important",
+ "category": "Gas"
+ },
+ {
+ "title": "Consider lazy minting for large collections",
+ "description": "For very large collections, consider minting on demand rather than batch minting.",
+ "priority": "important",
+ "category": "Gas"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Test on OpenSea Testnets before mainnet. Marketplace compatibility issues are common."
+ },
+ {
+ "tip": "Use ERC721A for collections expecting batch mints. The gas savings are substantial."
+ },
+ {
+ "tip": "Always verify your contract on Etherscan immediately after deployment."
+ },
+ {
+ "tip": "Keep 10-20% of supply for team, marketing, and unexpected issues. Running out causes problems."
+ },
+ {
+ "tip": "Have a communication plan ready for launch issues. Discord and Twitter must be monitored."
+ }
+ ]
+ }
+}

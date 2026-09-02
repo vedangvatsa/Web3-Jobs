@@ -1,0 +1,420 @@
+{
+ "meta": {
+ "contentType": "ideas",
+ "topic": "portfolio",
+ "niche": "web3-community-manager",
+ "generatedAt": "2026-05-17T05:30:09.452Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "35 Portfolio Project Ideas for Web3 Community Managers",
+ "description": "Discover portfolio project ideas for Web3 community managers. From Discord growth to governance facilitation, build a portfolio that showcases your community expertise.",
+ "keywords": [
+ "web3-community-manager",
+ "portfolio",
+ "Discord",
+ "community",
+ "DAO",
+ "engagement"
+ ],
+ "canonicalSlug": "portfolio-project-ideas-for-web3-community-manager"
+ },
+ "content": {
+ "intro": "Web3 community management is about building genuine engagement and helping communities thrive. These projects demonstrate the skills that make great community managers.",
+ "sections": [
+ {
+ "heading": "Discord and Community Building",
+ "description": "Projects showcasing Discord and community platform expertise.",
+ "items": [
+ {
+ "title": "Build a Themed Discord Server",
+ "description": "Create and grow a Discord around a Web3 niche. Document your growth strategies.",
+ "difficulty": "beginner",
+ "skills": [
+ "Discord setup",
+ "community growth",
+ "engagement"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Discord Bot Configuration Portfolio",
+ "description": "Document your expertise with Discord bots: verification, moderation, engagement tools.",
+ "difficulty": "beginner",
+ "skills": [
+ "Bot configuration",
+ "automation",
+ "moderation"
+ ],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Moderation Playbook",
+ "description": "Create a detailed moderation guide with policies, escalation procedures, and templates.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Moderation",
+ "policy creation",
+ "conflict resolution"
+ ],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Engagement Program Design",
+ "description": "Design an engagement program with activities, rewards, and participation tracking.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Program design",
+ "gamification",
+ "engagement"
+ ],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Community Health Dashboard",
+ "description": "Build a dashboard tracking community health metrics: activity, sentiment, growth.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Metrics",
+ "dashboarding",
+ "analysis"
+ ],
+ "estimatedTime": "3 weeks"
+ },
+ {
+ "title": "Onboarding Flow Optimization",
+ "description": "Design and test an optimized onboarding flow for new community members.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Onboarding",
+ "UX",
+ "documentation"
+ ],
+ "estimatedTime": "2 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Content and Communication",
+ "description": "Demonstrate communication skills through content.",
+ "items": [
+ {
+ "title": "Community Newsletter",
+ "description": "Run a community newsletter with updates, highlights, and member spotlights.",
+ "difficulty": "beginner",
+ "skills": [
+ "Writing",
+ "curation",
+ "communication"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Weekly Community Recap",
+ "description": "Create weekly video or written recaps of community activity and achievements.",
+ "difficulty": "beginner",
+ "skills": [
+ "Content creation",
+ "summarization",
+ "engagement"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "FAQ and Knowledge Base",
+ "description": "Build detailed FAQ documentation for a Web3 project.",
+ "difficulty": "beginner",
+ "skills": [
+ "Documentation",
+ "technical writing",
+ "organization"
+ ],
+ "estimatedTime": "3-4 weeks"
+ },
+ {
+ "title": "Crisis Communication Templates",
+ "description": "Create templates for various crisis scenarios: hacks, downtime, controversies.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Crisis communication",
+ "PR",
+ "template creation"
+ ],
+ "estimatedTime": "2 weeks"
+ },
+ {
+ "title": "Community Voice Style Guide",
+ "description": "Develop a style guide for community communications that matches brand voice.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Brand voice",
+ "style guides",
+ "consistency"
+ ],
+ "estimatedTime": "1-2 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Events and Programs",
+ "description": "Show your ability to create and run programs.",
+ "items": [
+ {
+ "title": "AMA Series Organization",
+ "description": "Organize and host an AMA series. Document your process and learnings.",
+ "difficulty": "beginner",
+ "skills": [
+ "Event planning",
+ "hosting",
+ "coordination"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Community Call Series",
+ "description": "Run regular community calls with structure, engagement, and follow-up.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Facilitation",
+ "event hosting",
+ "community engagement"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Hackathon Organization",
+ "description": "Organize a community hackathon from planning to judging to prizes.",
+ "difficulty": "advanced",
+ "skills": [
+ "Event management",
+ "logistics",
+ "developer relations"
+ ],
+ "estimatedTime": "6-8 weeks"
+ },
+ {
+ "title": "Ambassador Program",
+ "description": "Design and launch an ambassador program with tiers, responsibilities, and rewards.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Program design",
+ "incentives",
+ "management"
+ ],
+ "estimatedTime": "4 weeks"
+ },
+ {
+ "title": "Community Contests",
+ "description": "Run creative contests (memes, art, content) with fair judging and rewards.",
+ "difficulty": "beginner",
+ "skills": [
+ "Contest design",
+ "fairness",
+ "engagement"
+ ],
+ "estimatedTime": "2 weeks per contest"
+ },
+ {
+ "title": "Education Workshop Series",
+ "description": "Create and run educational workshops for community members.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Teaching",
+ "content creation",
+ "facilitation"
+ ],
+ "estimatedTime": "Ongoing"
+ }
+ ]
+ },
+ {
+ "heading": "Governance and DAO Support",
+ "description": "Show your governance facilitation skills.",
+ "items": [
+ {
+ "title": "Governance Facilitation Log",
+ "description": "Document your role enabling governance discussions and votes.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Facilitation",
+ "governance",
+ "neutrality"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Proposal Summary Service",
+ "description": "Create plain-language summaries of governance proposals for community understanding.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Technical writing",
+ "simplification",
+ "communication"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Governance Participation Analysis",
+ "description": "Analyze and report on governance participation patterns and trends.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Data analysis",
+ "reporting",
+ "governance"
+ ],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Delegation Campaign",
+ "description": "Run a delegation awareness campaign to increase governance participation.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Campaign design",
+ "education",
+ "engagement"
+ ],
+ "estimatedTime": "3-4 weeks"
+ },
+ {
+ "title": "Governance Documentation",
+ "description": "Create detailed governance documentation for a DAO.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Documentation",
+ "process mapping",
+ "clarity"
+ ],
+ "estimatedTime": "3-4 weeks"
+ }
+ ]
+ },
+ {
+ "heading": "Analytics and Reporting",
+ "description": "Demonstrate data-driven community management.",
+ "items": [
+ {
+ "title": "Monthly Community Report",
+ "description": "Create template and produce monthly community health reports.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Reporting",
+ "metrics",
+ "analysis"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Sentiment Analysis",
+ "description": "Track and report on community sentiment using tools or manual analysis.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Sentiment analysis",
+ "qualitative research",
+ "reporting"
+ ],
+ "estimatedTime": "Ongoing"
+ },
+ {
+ "title": "Growth Funnel Analysis",
+ "description": "Map and optimize the community growth funnel from discovery to active member.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Funnel analysis",
+ "optimization",
+ "growth"
+ ],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Feedback Collection System",
+ "description": "Design and implement a system for collecting and acting on community feedback.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Feedback systems",
+ "analysis",
+ "action planning"
+ ],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Community Health Dashboard",
+ "description": "Build a dashboard tracking key community metrics over time.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Data visualization",
+ "metrics tracking",
+ "reporting"
+ ],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Member Lifecycle Analysis",
+ "description": "Map the process of members from joining to becoming advocates.",
+ "difficulty": "intermediate",
+ "skills": [
+ "path mapping",
+ "retention analysis",
+ "segmentation"
+ ],
+ "estimatedTime": "2-3 weeks"
+ },
+ {
+ "title": "Crisis Communication Playbook",
+ "description": "Create templates and procedures for handling community crises.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Crisis communication",
+ "templates",
+ "escalation"
+ ],
+ "estimatedTime": "1-2 weeks"
+ },
+ {
+ "title": "Community Competitive Analysis",
+ "description": "Analyze and compare community strategies of competing projects.",
+ "difficulty": "intermediate",
+ "skills": [
+ "Research",
+ "competitive analysis",
+ "benchmarking"
+ ],
+ "estimatedTime": "2-3 weeks"
+ }
+ ]
+ }
+ ],
+ "gettingStarted": [
+ {
+ "step": 1,
+ "title": "Join and participate in communities",
+ "description": "Be an active member before trying to manage communities."
+ },
+ {
+ "step": 2,
+ "title": "Volunteer to help",
+ "description": "Offer to help existing community managers. Learn by doing."
+ },
+ {
+ "step": 3,
+ "title": "Build your own community",
+ "description": "Start small. A focused niche community teaches more than a large unfocused one."
+ },
+ {
+ "step": 4,
+ "title": "Document everything",
+ "description": "Keep records of what you do. Your portfolio is built from documentation."
+ },
+ {
+ "step": 5,
+ "title": "Learn the tools",
+ "description": "Master Discord, Telegram, and common community tools."
+ }
+ ],
+ "relatedResources": [
+ {
+ "title": "Portfolio Project Ideas for Web3 Product Managers",
+ "slug": "portfolio-project-ideas-for-web3-product-manager"
+ }
+ ]
+ }
+}

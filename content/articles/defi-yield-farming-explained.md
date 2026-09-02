@@ -4,7 +4,7 @@ image: https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy
 description: DeFi yield farming is putting crypto to work in lending pools, liquidity pools, and vaults to earn fees and interest. Learn where yield comes from, how APY works, real 2026 return ranges, and the risks to check before you deposit.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 DeFi yield farming is the practice of depositing crypto into DeFi protocols to earn a return from trading fees, lending interest, or token incentives. You supply assets to a pool or vault, the protocol puts them to work for traders and borrowers, and you earn a share of the revenue.
