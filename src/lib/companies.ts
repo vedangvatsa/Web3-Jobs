@@ -46,6 +46,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'coinmarketcap': 'https://coinmarketcap.com',
  'kucoin': 'https://www.kucoin.com',
  'revolut': 'https://www.revolut.com',
+ 'bitget': 'https://www.bitget.com',
+ 'mudrex': 'https://mudrex.com',
  'nethermind': 'https://nethermind.io',
  'dydx': 'https://dydx.exchange',
  'matter-labs': 'https://matter-labs.io',
