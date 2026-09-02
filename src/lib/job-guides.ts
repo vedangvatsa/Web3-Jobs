@@ -10,16 +10,21 @@ import { getJobContentKey, getJobSlug } from './job-slugs';
 
 const DESCRIPTIONS_CACHE_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
 
-// In-memory cache of fetched job descriptions
+// In-memory cache of fetched job descriptions — loaded once per process lifetime.
+// The 43MB file is only parsed once; subsequent calls return the cached object.
 let descriptionsCache: Record<string, string> | null = null;
 
 function loadDescriptionsCache(): Record<string, string> {
-  if (descriptionsCache) return descriptionsCache;
+  if (descriptionsCache !== null) return descriptionsCache;
   try {
     if (fs.existsSync(DESCRIPTIONS_CACHE_PATH)) {
+      const start = Date.now();
       const raw = fs.readFileSync(DESCRIPTIONS_CACHE_PATH, 'utf-8');
-      descriptionsCache = JSON.parse(raw);
-      return descriptionsCache || {};
+      descriptionsCache = JSON.parse(raw) as Record<string, string>;
+      const ms = Date.now() - start;
+      const keys = Object.keys(descriptionsCache).length;
+      console.log(`[job-descriptions] Loaded ${keys} entries in ${ms}ms (${Math.round(raw.length / 1024)}KB)`);
+      return descriptionsCache;
     }
   } catch (err) {
     console.error('[job-descriptions] Failed to read cache:', err);
