@@ -169,14 +169,23 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'p' | 'li', isAboutSecti
     if (/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|the role|your role|duties|what the role entails)/i.test(lower)) {
       return 'Key Responsibilities';
     }
-    if (/^(what you bring|what you.?ll need|requirements|qualifications|key requirements|what we.?re looking for|who you are|minimum qualifications|basic qualifications|profile|candidate profile)/i.test(lower)) {
-      return 'Qualifications & Experience';
+    if (/^(what we.?re looking for|requirements|qualifications|key requirements|minimum qualifications|basic qualifications)/i.test(lower)) {
+      return 'Qualifications & Requirements';
+    }
+    if (/^(who you are|who you.?re|about you|candidate profile|profile|what you bring)/i.test(lower)) {
+      return 'Candidate Profile & Mindset';
     }
     if (/^(bonus points|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i.test(lower)) {
       return 'Preferred / Nice-to-Have Qualifications';
     }
     if (/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks)/i.test(lower)) {
       return 'Perks & Compensation';
+    }
+    if (/^(the opportunity|opportunity|the mission|mission|role overview)/i.test(lower)) {
+      return 'The Opportunity & Scope';
+    }
+    if (/^(about the organization|about the foundation)/i.test(lower)) {
+      return 'About the Organization';
     }
     if (/^(about us|about the company|who we are|company overview)/i.test(lower)) {
       return 'About the Company';
@@ -209,7 +218,8 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'p' | 'li', isAboutSecti
       .replace(/^Work with\s+/i, 'Collaborate closely with ')
       .replace(/^Must have\s+/i, 'Demonstrated expertise in ')
       .replace(/^Strong understanding of\s+/i, 'Deep practical understanding of ')
-      .replace(/^Ability to\s+/i, 'Proven track record of ')
+      .replace(/^Ability to\s+/i, 'Demonstrated ability to ')
+      .replace(/^Proven track record of\s+/i, 'Demonstrated track record of ')
       .replace(/^Experience with\s+/i, 'Hands-on experience with ')
       .replace(/^Good knowledge of\s+/i, 'Comprehensive working knowledge of ')
       .replace(/^Excellent communication skills\b/i, 'Exceptional cross-functional written and verbal communication skills');
@@ -228,7 +238,8 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
 
   const location = job.location?.trim() || 'the employer-specified location';
   const department = getDepartmentLabel(job);
-  const teamLine = department ? ` in ${escapeHtml(department)}` : '';
+  const isDeptSameAsCompany = department && department.toLowerCase().trim() === job.company.toLowerCase().trim();
+  const teamLine = department && !isDeptSameAsCompany ? ` in ${escapeHtml(department)}` : '';
 
   let html = '<div class="space-y-6">';
   html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}.</p>`;
@@ -255,7 +266,9 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       let text = escapeHtml(spunText)
         .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
         .replace(/\*\*/g, '')
-        .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
+        .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
+        .replace(/\s+([,.:;!?])/g, '$1')
+        .replace(/\s+/g, ' ');
       const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
       if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
       if (!currentListOpen) { html += '<ul class="list-disc pl-5 space-y-2 my-4">'; currentListOpen = true; }
@@ -267,7 +280,9 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
     let text = escapeHtml(spunPara)
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/\*\*/g, '')
-      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
+      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
+      .replace(/\s+([,.:;!?])/g, '$1')
+      .replace(/\s+/g, ' ');
     if (text.trim()) html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
   }
   flushList();
@@ -362,16 +377,20 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   // Remove non-content tags and navigation / apply button boilerplate
   $('script, style, iframe, noscript, svg, button, form, input, .role-back, .apply-row, .role-meta').remove();
 
-  // Strip links pointing to internal career lists or apply endpoints
+  // Strip links pointing to internal career lists or apply endpoints, handle empty anchors cleanly
   $('a').each((_, el) => {
     const $el = $(el);
     const href = ($el.attr('href') || '').trim();
     const label = $el.text().trim();
-    if (!href || !/^https?:\/\//i.test(href) || /fillout\.com|apply/i.test(href) || /←|all open roles/i.test(label)) {
-      $el.replaceWith(label);
+    if (!label) {
+      $el.replaceWith(' ');
       return;
     }
-    $el.replaceWith(`\u21E7JOBLINK:${href}\u2044${label || href}\u21E9`);
+    if (!href || !/^https?:\/\//i.test(href) || /fillout\.com|apply/i.test(href) || /←|all open roles/i.test(label)) {
+      $el.replaceWith(` ${label} `);
+      return;
+    }
+    $el.replaceWith(` \u21E7JOBLINK:${href}\u2044${label}\u21E9 `);
   });
 
   // Convert <br> tags to newlines
@@ -381,7 +400,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   $('strong, b').each((_, el) => {
     const text = $(el).text().trim();
     if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',')) {
-      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|role|the role|your impact|how to apply)/i.test(text)) {
+      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|role|the role|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|about the organization|about the foundation|about you|what you.?ll do|what you will do|what we.?re looking for)/i.test(text)) {
         $(el).replaceWith(`\n###HEADING###${text}\n`);
       }
     }
@@ -472,7 +491,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     // Standalone heading line detection
     if (
       line.length < 60 &&
-      /^(about us|about the company|about the team|overview|why join us|what you.?ll do|what you will do|responsibilities|key responsibilities|core responsibilities|requirements|key requirements|qualifications|preferred qualifications|minimum qualifications|what we offer|benefits|perks|compensation and benefits|our values|culture|company culture|profile|who you are|the role|role overview|what we look for)[:]?$/i.test(
+      /^(the opportunity|about the organization|about the foundation|about us|about the company|about the team|about you|who you are|who we are|what you.?ll do|what you will do|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|what you bring|what we.?re looking for|what we look for|what we offer|benefits|perks|compensation|our values|culture|company culture)[:]?$/i.test(
         line
       )
     ) {
