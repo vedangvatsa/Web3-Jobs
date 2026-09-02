@@ -14,6 +14,12 @@
 import * as fs from 'fs';
 import * as path from 'path';
 import * as crypto from 'crypto';
+import dotenv from 'dotenv';
+
+// Load .env and .env.local
+const rootDir = path.resolve(__dirname, '../../');
+dotenv.config({ path: path.join(rootDir, '.env') });
+dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
 
 const SCHEDULE_FILE = path.join(__dirname, 'content-schedule.json');
 const STATE_FILE = path.join(__dirname, 'publish-state.json');
@@ -815,6 +821,11 @@ async function main() {
  const candidate = schedule[idx];
  
  if (!postedIds.has(candidate.id)) {
+ // REQUIRE AN IMAGE: Skip any text-only post to enforce that all published posts have images
+ if (!candidate.image && !candidate.imageUrl) {
+ console.log(`⏩ Skipping post ${candidate.id}: No image attached.`);
+ continue;
+ }
  // Use platform-specific text
  let candidateText: string;
  if ((platform === 'twitter' || platform === 'bluesky' || platform === 'threads') && candidate.twitter?.text) {
