@@ -1,6 +1,6 @@
 ---
 name: Trojan Trading
-website: 'https://trojan.trade'
+website: 'https://trojan.app'
 category: Other
 description: Trojan Trading specializes in trading technology and market-making solutions.
 ---
