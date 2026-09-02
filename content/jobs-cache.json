@@ -1,5 +1,41 @@
 [
   {
+    "id": "5833616004",
+    "title": "Marketing Lead",
+    "company": "Immunefi",
+    "link": "https://job-boards.greenhouse.io/immunefi/jobs/5833616004",
+    "date": "2026-08-06",
+    "source": "Greenhouse: Immunefi [immunefi]",
+    "location": "Remote",
+    "department": "Marketing",
+    "active": true,
+    "slug": "role16004"
+  },
+  {
+    "id": "7742510003",
+    "title": "Lead Blockchain Security Developer (Canton)",
+    "company": "OpenZeppelin",
+    "link": "https://openzeppelin.com/careers/opening/?gh_jid=7742510003",
+    "date": "2026-09-01",
+    "source": "Greenhouse: OpenZeppelin [openzeppelin]",
+    "location": "Remote",
+    "department": "Secure Development",
+    "active": true,
+    "slug": "role10003"
+  },
+  {
+    "id": "4254142003",
+    "title": "Blockchain Security Researcher - Future Openings",
+    "company": "OpenZeppelin",
+    "link": "https://openzeppelin.com/careers/opening/?gh_jid=4254142003",
+    "date": "2026-09-01",
+    "source": "Greenhouse: OpenZeppelin [openzeppelin]",
+    "location": "Remote - Worldwide",
+    "department": "Security Research",
+    "active": true,
+    "slug": "role42003"
+  },
+  {
     "id": "bf99b611-ccbd-4b6c-aec1-4770a5c44152",
     "title": "Senior Full-Stack Software Engineer, CMS",
     "company": "Circle",
