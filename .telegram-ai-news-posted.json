@@ -539,6 +539,9 @@
   "https://techcrunch.com/2026/08/31/nvidias-3-5b-mediatek-bet-reveals-its-plan-for-tackling-big-techs-ai-chip-buildout/",
   "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
   "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+  "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
+  "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
+  "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1400,6 +1403,12 @@
   "The Pentagon now has its own version of ChatGPT and Grok",
   "Apple Accuses Ex-Worker of Destroying Data Theft Evidence",
   "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+  "AfterQuery reaches $3.2 billion valuation in new funding round",
+  "AfterQuery reportedly becomes Y Combinator’s fastest-ever unicorn, now valued at $3.2B",
+  "OpenAI previews Astra model and cybersecurity safeguards",
+  "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
+  "Anthropic launches hardware standard for AI agent device control",
+  "Anthropic's new hardware standard lets AI agents control the physical world",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1456,5 +1465,8 @@
   "fp:application|brand|challeng|complex|consumer|design|doe|experienc|fac|gemini",
   "fp:35b|acquir|bet|big|buildout|chip|client|cloud|custom|expand",
   "fp:access|add|central|commercial|defens|department|expand|languag|military|multipl",
-  "fp:accus|against|allegedly|appl|data|delet|destroy|employe|evidenc|fil"
+  "fp:accus|against|allegedly|appl|data|delet|destroy|employe|evidenc|fil",
+  "fp:32b|achiev|afterquery|becom|combinator|ever|fastest|fiv|fund|month",
+  "fp:address|astra|break|computer|cybersecurity|detail|developer|exploitation|focus|good",
+  "fp:agent|anthropic|communicat|control|devic|driver|enabl|hardwar|interfac|let"
 ]

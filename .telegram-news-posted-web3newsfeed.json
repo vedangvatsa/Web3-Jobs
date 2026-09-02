@@ -530,6 +530,9 @@
   "https://cointelegraph.com/news/london-stock-exchange-partners-kraken-for-tokenized-uk-stocks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/tech/2026/09/01/musk-s-x-hit-by-wave-of-unsolicited-password-reset-emails",
   "https://decrypt.co/377032/gal-gadot-defends-ai-use-in-bitcoin-film-work-with-it-or-be-out-of-the-game",
+  "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1497,6 +1500,12 @@
   "Musk’s X hit by wave of unsolicited password reset emails",
   "Gal Gadot Defends AI Use in Bitcoin Film",
   "Gal Gadot Defends AI Use in Bitcoin Film: 'Work With It or Be Out of the Game'",
+  "Major banks partner to launch US dollar stablecoin",
+  "BofA, Citi, Goldman Sachs among 21 institutions planning stablecoin launch",
+  "Hyperliquid Strategies increases equity facility to $2.5 billion",
+  "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
+  "OpenAI Says Astra AI Model Can Autonomously Create Cyberattacks",
+  "OpenAI says its new 'Astra' AI can build attacks without human help",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1559,5 +1568,8 @@
   "fp:125b|37m|annual|ark|block|buy|dorsey|firm|forecast|inc",
   "fp:aim|collaboration|continuous|exchang|institutional|investor|kingdom|kraken|london|parent",
   "fp:breach|email|evidenc|figur|hit|musk|password|platform|receiv|request",
-  "fp:contract|defend|film|gadot|gal|gam|her|kill|lawyer|month"
+  "fp:contract|defend|film|gadot|gal|gam|her|kill|lawyer|month",
+  "fp:america|among|among21|are|asset|bank|bofa|citi|citigroup|digital",
+  "fp:25b|293m|647m|accumulat|boost|equity|facility|firm|hyp|hyperliquid",
+  "fp:astra|attack|autonomously|build|can|creat|critical|cyberattack|cybersecurity|exploit"
 ]
