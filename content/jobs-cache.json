@@ -1,5 +1,125 @@
 [
   {
+    "id": "yellowcard-421",
+    "title": "Customer Success Associate",
+    "company": "Yellow Card",
+    "location": "Remote (Pan-Africa / Global)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/421",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/421",
+    "department": "Payments",
+    "skills": [
+      "Stablecoins",
+      "Fintech",
+      "Payments",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "associate83110"
+  },
+  {
+    "id": "yellowcard-412",
+    "title": "Technical Team Lead (Full-stack)",
+    "company": "Yellow Card",
+    "location": "Remote (Pan-Africa / Global)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/412",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/412",
+    "department": "Engineering",
+    "skills": [
+      "Stablecoins",
+      "Fintech",
+      "Payments",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "technical12"
+  },
+  {
+    "id": "yellowcard-411",
+    "title": "Senior Frontend Engineer",
+    "company": "Yellow Card",
+    "location": "Remote (Pan-Africa / Global)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/411",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/411",
+    "department": "Engineering",
+    "skills": [
+      "Stablecoins",
+      "Fintech",
+      "Payments",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "frontend90205"
+  },
+  {
+    "id": "yellowcard-399",
+    "title": "Security Operations Engineer",
+    "company": "Yellow Card",
+    "location": "Remote (Pan-Africa / Global)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/399",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/399",
+    "department": "InfoSec",
+    "skills": [
+      "Stablecoins",
+      "Fintech",
+      "Payments",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "security95026"
+  },
+  {
+    "id": "yellowcard-393",
+    "title": "Head of Growth Marketing",
+    "company": "Yellow Card",
+    "location": "United States",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/393",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/393",
+    "department": "Marketing",
+    "skills": [
+      "Stablecoins",
+      "Fintech",
+      "Payments",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "marketing85132"
+  },
+  {
+    "id": "yellowcard-357",
+    "title": "Sales Manager",
+    "company": "Yellow Card",
+    "location": "Mexico",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "bamboohr:yellowcard",
+    "link": "https://yellowcard.bamboohr.com/careers/357",
+    "applyUrl": "https://yellowcard.bamboohr.com/careers/357",
+    "department": "Sales",
+    "skills": [
+      "Stablecoins",
+      "Fintech",
+      "Payments",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "manager96068"
+  },
+  {
     "id": "bitbank-0000324",
     "title": "財務担当",
     "company": "bitbank",
