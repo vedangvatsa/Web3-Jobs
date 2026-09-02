@@ -1383,6 +1383,7 @@ async function refreshJobsCache() {
     { board: 'chainstack', company: 'Chainstack' },
     { board: 'fasset', company: 'Fasset' },
     { board: 'paribu', company: 'Paribu' },
+    { board: 'yellowcard', company: 'Yellow Card' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
