@@ -108,10 +108,12 @@ const nextConfig = {
             key: 'Link',
             value: [
               '</llms.txt>; rel="ai-context"; type="text/plain"',
+              '<https://hashtagweb3.com/llms.txt>; rel="ai-context"',
               '</sitemap.xml>; rel="sitemap"; type="application/xml"',
               '</.well-known/agents.json>; rel="agents"; type="application/json"',
               '</.well-known/api-catalog>; rel="api-catalog"',
               '</openapi.json>; rel="service-desc"',
+              '</404.md>; rel="404-recovery"; type="text/markdown"',
             ].join(', '),
           },
           {
