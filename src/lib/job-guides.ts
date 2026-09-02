@@ -193,36 +193,8 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'p' | 'li', isAboutSecti
     return cleaned.replace(/[:]+$/, '');
   }
 
-  // Preserve About the Company / Team section intact as requested
-  if (isAboutSection) {
+  if (type === 'p' || type === 'li') {
     return cleaned;
-  }
-
-  if (type === 'p') {
-    return cleaned
-      .replace(/^You will be responsible for\s+/i, 'In this role, you will take ownership of and lead ')
-      .replace(/^We are looking for an? ([\w\s]+) to\s+/i, 'We are seeking an exceptional $1 to drive ')
-      .replace(/^As a ([\w\s]+), you will\s+/i, 'As a $1 on our team, you will actively ')
-      .replace(/^In this role, you will\s+/i, 'In this position, you will lead and execute on ')
-      .replace(/^The ideal candidate will\s+/i, 'The ideal candidate brings strong initiative to ')
-      .replace(/^You will work closely with\s+/i, 'You will collaborate cross-functionally with ')
-      .replace(/^You should have experience with\s+/i, 'You should bring proven hands-on expertise in ')
-      .replace(/^We offer\s+/i, 'Our comprehensive package includes ');
-  }
-
-  if (type === 'li') {
-    return cleaned
-      .replace(/^Responsible for\s+/i, 'Lead and execute on ')
-      .replace(/^Participate in\s+/i, 'Actively contribute to ')
-      .replace(/^Help to\s+/i, 'Drive initiatives to ')
-      .replace(/^Work with\s+/i, 'Collaborate closely with ')
-      .replace(/^Must have\s+/i, 'Demonstrated expertise in ')
-      .replace(/^Strong understanding of\s+/i, 'Deep practical understanding of ')
-      .replace(/^Ability to\s+/i, 'Demonstrated ability to ')
-      .replace(/^Proven track record of\s+/i, 'Demonstrated track record of ')
-      .replace(/^Experience with\s+/i, 'Hands-on experience with ')
-      .replace(/^Good knowledge of\s+/i, 'Comprehensive working knowledge of ')
-      .replace(/^Excellent communication skills\b/i, 'Exceptional cross-functional written and verbal communication skills');
   }
 
   return cleaned;
@@ -242,7 +214,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   const teamLine = department && !isDeptSameAsCompany ? ` in ${escapeHtml(department)}` : '';
 
   let html = '<div class="space-y-6">';
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}.</p>`;
+  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} (${escapeHtml(location)}).</p>`;
 
   let currentListOpen = false;
   let isAboutSection = false;
