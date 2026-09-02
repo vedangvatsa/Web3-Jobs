@@ -1,5 +1,3945 @@
 [
   {
+    "id": "block-5314837008",
+    "title": "Territory Account Executive, UWS",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5314837008?gh_jid=5314837008",
+    "applyUrl": "http://block.xyz/careers/jobs/5314837008?gh_jid=5314837008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96081"
+  },
+  {
+    "id": "block-5406146008",
+    "title": "Territory Account Executive, Santa Rosa",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406146008?gh_jid=5406146008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406146008?gh_jid=5406146008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96102"
+  },
+  {
+    "id": "block-5406147008",
+    "title": "Territory Account Executive, San Rafael",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406147008?gh_jid=5406147008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406147008?gh_jid=5406147008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96103"
+  },
+  {
+    "id": "block-5405533008",
+    "title": "Territory Account Executive, San Jose",
+    "company": "Block",
+    "location": "San Jose, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5405533008?gh_jid=5405533008",
+    "applyUrl": "http://block.xyz/careers/jobs/5405533008?gh_jid=5405533008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96101"
+  },
+  {
+    "id": "block-5413015008",
+    "title": "Territory Account Executive, North Seattle",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5413015008?gh_jid=5413015008",
+    "applyUrl": "http://block.xyz/careers/jobs/5413015008?gh_jid=5413015008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96109"
+  },
+  {
+    "id": "block-5406495008",
+    "title": "Territory Account Executive, LA",
+    "company": "Block",
+    "location": "Los Angeles, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406495008?gh_jid=5406495008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406495008?gh_jid=5406495008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96106"
+  },
+  {
+    "id": "block-5363212008",
+    "title": "Territory Account Executive, Chicago",
+    "company": "Block",
+    "location": "Chicago, IL, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5363212008?gh_jid=5363212008",
+    "applyUrl": "http://block.xyz/careers/jobs/5363212008?gh_jid=5363212008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96085"
+  },
+  {
+    "id": "block-5183427008",
+    "title": "Territory Account Executive- Canberra",
+    "company": "Block",
+    "location": "Canberra, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183427008?gh_jid=5183427008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183427008?gh_jid=5183427008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96057"
+  },
+  {
+    "id": "block-5183563008",
+    "title": "Territory Account Executive, Bristol/Cardiff",
+    "company": "Block",
+    "location": "Birmingham, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183563008?gh_jid=5183563008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183563008?gh_jid=5183563008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96059"
+  },
+  {
+    "id": "block-5109493008",
+    "title": "Territory Account Executive - Brisbane",
+    "company": "Block",
+    "location": "Brisbane, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5109493008?gh_jid=5109493008",
+    "applyUrl": "http://block.xyz/careers/jobs/5109493008?gh_jid=5109493008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96051"
+  },
+  {
+    "id": "block-5324639008",
+    "title": "Territory Account Executive, Birmingham",
+    "company": "Block",
+    "location": "Birmingham, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5324639008?gh_jid=5324639008",
+    "applyUrl": "http://block.xyz/careers/jobs/5324639008?gh_jid=5324639008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96082"
+  },
+  {
+    "id": "block-5405182008",
+    "title": "Territory Account Executive",
+    "company": "Block",
+    "location": "Boston, MA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5405182008?gh_jid=5405182008",
+    "applyUrl": "http://block.xyz/careers/jobs/5405182008?gh_jid=5405182008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96100"
+  },
+  {
+    "id": "block-5231739008",
+    "title": "Strategic Partnerships Manager, UK",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5231739008?gh_jid=5231739008",
+    "applyUrl": "http://block.xyz/careers/jobs/5231739008?gh_jid=5231739008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96093"
+  },
+  {
+    "id": "block-5239046008",
+    "title": "Strategic Account Manager, Mid Market",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5239046008?gh_jid=5239046008",
+    "applyUrl": "http://block.xyz/careers/jobs/5239046008?gh_jid=5239046008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96098"
+  },
+  {
+    "id": "block-5239048008",
+    "title": "Strategic Account Manager, Mid Market",
+    "company": "Block",
+    "location": "Brisbane, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5239048008?gh_jid=5239048008",
+    "applyUrl": "http://block.xyz/careers/jobs/5239048008?gh_jid=5239048008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96099"
+  },
+  {
+    "id": "block-4983725008",
+    "title": "Strategic Account Manager, Mid Market",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/4983725008?gh_jid=4983725008",
+    "applyUrl": "http://block.xyz/careers/jobs/4983725008?gh_jid=4983725008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96081"
+  },
+  {
+    "id": "block-5233462008",
+    "title": "Strategic Account Manager, Food & Bev.",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5233462008?gh_jid=5233462008",
+    "applyUrl": "http://block.xyz/careers/jobs/5233462008?gh_jid=5233462008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96096"
+  },
+  {
+    "id": "block-5225557008",
+    "title": "Strategic Account Manager",
+    "company": "Block",
+    "location": "Tampa, FL, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5225557008?gh_jid=5225557008",
+    "applyUrl": "http://block.xyz/careers/jobs/5225557008?gh_jid=5225557008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96091"
+  },
+  {
+    "id": "block-5406251008",
+    "title": "Staff Software Engineer, Go-to-Market Systems & AI",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406251008?gh_jid=5406251008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406251008?gh_jid=5406251008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99514"
+  },
+  {
+    "id": "block-5411025008",
+    "title": "Staff Software Engineer, Go-to-Market Systems & AI",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5411025008?gh_jid=5411025008",
+    "applyUrl": "http://block.xyz/careers/jobs/5411025008?gh_jid=5411025008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99515"
+  },
+  {
+    "id": "block-5406249008",
+    "title": "Staff Software Engineer, Go-to-Market Systems & AI",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406249008?gh_jid=5406249008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406249008?gh_jid=5406249008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99513"
+  },
+  {
+    "id": "block-5196194008",
+    "title": "Staff Software Engineer, Cash App Banking",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008",
+    "applyUrl": "http://block.xyz/careers/jobs/5196194008?gh_jid=5196194008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99494"
+  },
+  {
+    "id": "block-5207148008",
+    "title": "Staff Software Engineer, Cash App Banking",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008",
+    "applyUrl": "http://block.xyz/careers/jobs/5207148008?gh_jid=5207148008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99500"
+  },
+  {
+    "id": "block-5196196008",
+    "title": "Staff Software Engineer, Cash App Banking",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008",
+    "applyUrl": "http://block.xyz/careers/jobs/5196196008?gh_jid=5196196008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99495"
+  },
+  {
+    "id": "block-5366281008",
+    "title": "Staff Product Data Scientist, Lending",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
+    "applyUrl": "http://block.xyz/careers/jobs/5366281008?gh_jid=5366281008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81518"
+  },
+  {
+    "id": "block-5366284008",
+    "title": "Staff Product Data Scientist, Lending",
+    "company": "Block",
+    "location": "San Francisco, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
+    "applyUrl": "http://block.xyz/careers/jobs/5366284008?gh_jid=5366284008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81519"
+  },
+  {
+    "id": "block-5192640008",
+    "title": "Staff Product Data Scientist, Lending",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
+    "applyUrl": "http://block.xyz/careers/jobs/5192640008?gh_jid=5192640008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81512"
+  },
+  {
+    "id": "block-5198104008",
+    "title": "Staff Machine Learning Engineer, Underwriting and Credit",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5198104008?gh_jid=5198104008",
+    "applyUrl": "http://block.xyz/careers/jobs/5198104008?gh_jid=5198104008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99497"
+  },
+  {
+    "id": "block-5198105008",
+    "title": "Staff Machine Learning Engineer (Modeling), Support",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5198105008?gh_jid=5198105008",
+    "applyUrl": "http://block.xyz/careers/jobs/5198105008?gh_jid=5198105008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99498"
+  },
+  {
+    "id": "block-5216603008",
+    "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5216603008?gh_jid=5216603008",
+    "applyUrl": "http://block.xyz/careers/jobs/5216603008?gh_jid=5216603008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81513"
+  },
+  {
+    "id": "block-5216800008",
+    "title": "Staff Machine Learning Engineer, Credit Products (Square Financial Services)",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5216800008?gh_jid=5216800008",
+    "applyUrl": "http://block.xyz/careers/jobs/5216800008?gh_jid=5216800008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81514"
+  },
+  {
+    "id": "block-5364922008",
+    "title": "Staff Data Scientist, Pricing",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
+    "applyUrl": "http://block.xyz/careers/jobs/5364922008?gh_jid=5364922008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "staff14"
+  },
+  {
+    "id": "block-5114793008",
+    "title": "Staff Data Analyst, Block Compliance",
+    "company": "Block",
+    "location": "Denver, CO, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008",
+    "applyUrl": "http://block.xyz/careers/jobs/5114793008?gh_jid=5114793008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91022"
+  },
+  {
+    "id": "block-5098519008",
+    "title": "Staff Data Analyst, Block Compliance",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008",
+    "applyUrl": "http://block.xyz/careers/jobs/5098519008?gh_jid=5098519008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91020"
+  },
+  {
+    "id": "block-5114747008",
+    "title": "Staff Data Analyst, Block Compliance",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
+    "applyUrl": "http://block.xyz/careers/jobs/5114747008?gh_jid=5114747008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91021"
+  },
+  {
+    "id": "block-5248631008",
+    "title": "Staff Applied Machine Learning Engineer - Intelligent Data, Signals & Systems",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
+    "applyUrl": "http://block.xyz/careers/jobs/5248631008?gh_jid=5248631008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99503"
+  },
+  {
+    "id": "block-4969342008",
+    "title": "Staff Applied Machine Learning Engineer - Fraud & Abuse",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
+    "applyUrl": "http://block.xyz/careers/jobs/4969342008?gh_jid=4969342008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99490"
+  },
+  {
+    "id": "block-4884159008",
+    "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
+    "applyUrl": "http://block.xyz/careers/jobs/4884159008?gh_jid=4884159008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99487"
+  },
+  {
+    "id": "block-5238423008",
+    "title": "Staff Android Software Engineer, Cash App Consumer Platform",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
+    "applyUrl": "http://block.xyz/careers/jobs/5238423008?gh_jid=5238423008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99502"
+  },
+  {
+    "id": "block-5369941008",
+    "title": "Software Engineer, Reconciliation & Reporting",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008",
+    "applyUrl": "http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99507"
+  },
+  {
+    "id": "block-5369947008",
+    "title": "Software Engineer, Financial Platform - Issuing",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008",
+    "applyUrl": "http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99508"
+  },
+  {
+    "id": "block-4901418008",
+    "title": "Software Engineer, Finance Applications",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
+    "applyUrl": "http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99488"
+  },
+  {
+    "id": "block-5412832008",
+    "title": "Software Engineer, Cash App Taxes",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
+    "applyUrl": "http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99516"
+  },
+  {
+    "id": "block-5375615008",
+    "title": "SMB Sales Manager",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5375615008?gh_jid=5375615008",
+    "applyUrl": "http://block.xyz/careers/jobs/5375615008?gh_jid=5375615008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96126"
+  },
+  {
+    "id": "block-5374762008",
+    "title": "SMB Account Manager - Services",
+    "company": "Block",
+    "location": "San Francisco, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5374762008?gh_jid=5374762008",
+    "applyUrl": "http://block.xyz/careers/jobs/5374762008?gh_jid=5374762008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96123"
+  },
+  {
+    "id": "block-5265295008",
+    "title": "SMB Account Manager",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5265295008?gh_jid=5265295008",
+    "applyUrl": "http://block.xyz/careers/jobs/5265295008?gh_jid=5265295008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96106"
+  },
+  {
+    "id": "block-5258330008",
+    "title": "SMB Account Manager",
+    "company": "Block",
+    "location": "Tokyo, Japan",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5258330008?gh_jid=5258330008",
+    "applyUrl": "http://block.xyz/careers/jobs/5258330008?gh_jid=5258330008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96102"
+  },
+  {
+    "id": "block-5204378008",
+    "title": "SMB Account Executive - Remote",
+    "company": "Block",
+    "location": "Atlanta, GA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5204378008?gh_jid=5204378008",
+    "applyUrl": "http://block.xyz/careers/jobs/5204378008?gh_jid=5204378008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96063"
+  },
+  {
+    "id": "block-5373180008",
+    "title": "SMB Account Executive, London",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5373180008?gh_jid=5373180008",
+    "applyUrl": "http://block.xyz/careers/jobs/5373180008?gh_jid=5373180008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96090"
+  },
+  {
+    "id": "block-5287754008",
+    "title": "SMB Account Executive - Canada",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5287754008?gh_jid=5287754008",
+    "applyUrl": "http://block.xyz/careers/jobs/5287754008?gh_jid=5287754008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96077"
+  },
+  {
+    "id": "block-5385490008",
+    "title": "SMB Account Executive",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5385490008?gh_jid=5385490008",
+    "applyUrl": "http://block.xyz/careers/jobs/5385490008?gh_jid=5385490008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96094"
+  },
+  {
+    "id": "block-5282973008",
+    "title": "SMB Account Executive",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5282973008?gh_jid=5282973008",
+    "applyUrl": "http://block.xyz/careers/jobs/5282973008?gh_jid=5282973008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96075"
+  },
+  {
+    "id": "block-5385294008",
+    "title": "SMB Account Executive",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5385294008?gh_jid=5385294008",
+    "applyUrl": "http://block.xyz/careers/jobs/5385294008?gh_jid=5385294008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96093"
+  },
+  {
+    "id": "block-5409847008",
+    "title": "SMB Account Executive",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5409847008?gh_jid=5409847008",
+    "applyUrl": "http://block.xyz/careers/jobs/5409847008?gh_jid=5409847008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96108"
+  },
+  {
+    "id": "block-5406261008",
+    "title": "SMB Account Executive",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406261008?gh_jid=5406261008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406261008?gh_jid=5406261008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96104"
+  },
+  {
+    "id": "block-5012352008",
+    "title": "Silicon Product & Test Engineer",
+    "company": "Block",
+    "location": "Singapore, Singapore",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5012352008?gh_jid=5012352008",
+    "applyUrl": "http://block.xyz/careers/jobs/5012352008?gh_jid=5012352008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81511"
+  },
+  {
+    "id": "block-5377636008",
+    "title": "Senior Trade & Industry Events Manager",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5377636008?gh_jid=5377636008",
+    "applyUrl": "http://block.xyz/careers/jobs/5377636008?gh_jid=5377636008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96129"
+  },
+  {
+    "id": "block-5228394008",
+    "title": "Senior Technical Account Manager, Cash App Pay & Afterpay",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5228394008?gh_jid=5228394008",
+    "applyUrl": "http://block.xyz/careers/jobs/5228394008?gh_jid=5228394008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96092"
+  },
+  {
+    "id": "block-5175673008",
+    "title": "Senior Technical Account Manager, Cash App Pay & Afterpay",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5175673008?gh_jid=5175673008",
+    "applyUrl": "http://block.xyz/careers/jobs/5175673008?gh_jid=5175673008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96085"
+  },
+  {
+    "id": "block-5371544008",
+    "title": "Senior Strategic Account Manager",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5371544008?gh_jid=5371544008",
+    "applyUrl": "http://block.xyz/careers/jobs/5371544008?gh_jid=5371544008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96118"
+  },
+  {
+    "id": "block-5381381008",
+    "title": "Senior Software Engineer, Data Platform",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008",
+    "applyUrl": "http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99511"
+  },
+  {
+    "id": "block-5196187008",
+    "title": "Senior Software Engineer, Cash App Taxes",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
+    "applyUrl": "http://block.xyz/careers/jobs/5196187008?gh_jid=5196187008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99493"
+  },
+  {
+    "id": "block-5207134008",
+    "title": "Senior Software Engineer, Cash App Taxes",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
+    "applyUrl": "http://block.xyz/careers/jobs/5207134008?gh_jid=5207134008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99499"
+  },
+  {
+    "id": "block-5225436008",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5225436008?gh_jid=5225436008",
+    "applyUrl": "http://block.xyz/careers/jobs/5225436008?gh_jid=5225436008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99501"
+  },
+  {
+    "id": "block-5181749008",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008",
+    "applyUrl": "http://block.xyz/careers/jobs/5181749008?gh_jid=5181749008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99491"
+  },
+  {
+    "id": "block-5182994008",
+    "title": "Senior Site Reliability Engineer",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5182994008?gh_jid=5182994008",
+    "applyUrl": "http://block.xyz/careers/jobs/5182994008?gh_jid=5182994008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99492"
+  },
+  {
+    "id": "block-5231316008",
+    "title": "Senior Security Engineer, Platform Security",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5231316008?gh_jid=5231316008",
+    "applyUrl": "http://block.xyz/careers/jobs/5231316008?gh_jid=5231316008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "security95029"
+  },
+  {
+    "id": "block-5404790008",
+    "title": "Senior Sales Account Executive - SMB/MM",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5404790008?gh_jid=5404790008",
+    "applyUrl": "http://block.xyz/careers/jobs/5404790008?gh_jid=5404790008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96097"
+  },
+  {
+    "id": "block-5373189008",
+    "title": "Senior Sales Account Executive",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5373189008?gh_jid=5373189008",
+    "applyUrl": "http://block.xyz/careers/jobs/5373189008?gh_jid=5373189008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96091"
+  },
+  {
+    "id": "block-5183240008",
+    "title": "Senior Sales Account Executive",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183240008?gh_jid=5183240008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183240008?gh_jid=5183240008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96054"
+  },
+  {
+    "id": "block-5231841008",
+    "title": "Senior Partnerships Manager, Australia",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5231841008?gh_jid=5231841008",
+    "applyUrl": "http://block.xyz/careers/jobs/5231841008?gh_jid=5231841008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96094"
+  },
+  {
+    "id": "block-5394441008",
+    "title": "Senior ML/AI Modeler, Risk Automation Machine Learning",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5394441008?gh_jid=5394441008",
+    "applyUrl": "http://block.xyz/careers/jobs/5394441008?gh_jid=5394441008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "senior85242"
+  },
+  {
+    "id": "block-5380010008",
+    "title": "Senior Marketing Manager",
+    "company": "Block",
+    "location": "Tokyo, Japan",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5380010008?gh_jid=5380010008",
+    "applyUrl": "http://block.xyz/careers/jobs/5380010008?gh_jid=5380010008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "marketing85142"
+  },
+  {
+    "id": "block-5251731008",
+    "title": "Senior Manager, Strategic Finance, Channel Sales",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5251731008?gh_jid=5251731008",
+    "applyUrl": "http://block.xyz/careers/jobs/5251731008?gh_jid=5251731008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96101"
+  },
+  {
+    "id": "block-5247603008",
+    "title": "Senior Manager, Strategic Account Management, Food & Beverage",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5247603008?gh_jid=5247603008",
+    "applyUrl": "http://block.xyz/careers/jobs/5247603008?gh_jid=5247603008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96100"
+  },
+  {
+    "id": "block-5198097008",
+    "title": "Senior Machine Learning Engineer, Model Risk Management",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5198097008?gh_jid=5198097008",
+    "applyUrl": "http://block.xyz/careers/jobs/5198097008?gh_jid=5198097008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99496"
+  },
+  {
+    "id": "block-5243440008",
+    "title": "Senior Machine Learning Engineer, Applied AI Quality",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5243440008?gh_jid=5243440008",
+    "applyUrl": "http://block.xyz/careers/jobs/5243440008?gh_jid=5243440008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "qa89008"
+  },
+  {
+    "id": "block-5370450008",
+    "title": "Senior iOS Engineer, Neighborhoods",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5370450008?gh_jid=5370450008",
+    "applyUrl": "http://block.xyz/careers/jobs/5370450008?gh_jid=5370450008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99509"
+  },
+  {
+    "id": "block-5400004008",
+    "title": "Senior GRC Engineer",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5400004008?gh_jid=5400004008",
+    "applyUrl": "http://block.xyz/careers/jobs/5400004008?gh_jid=5400004008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99512"
+  },
+  {
+    "id": "block-5249776008",
+    "title": "Senior Finance Systems Engineer: Oracle Fusion - Remote, US",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5249776008?gh_jid=5249776008",
+    "applyUrl": "http://block.xyz/careers/jobs/5249776008?gh_jid=5249776008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99504"
+  },
+  {
+    "id": "block-5318418008",
+    "title": "Senior Finance Systems Engineer: Oracle Fusion - Remote, Canada",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5318418008?gh_jid=5318418008",
+    "applyUrl": "http://block.xyz/careers/jobs/5318418008?gh_jid=5318418008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99506"
+  },
+  {
+    "id": "block-5385861008",
+    "title": "Senior Director, Global Tax Planning & Controversy",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5385861008?gh_jid=5385861008",
+    "applyUrl": "http://block.xyz/careers/jobs/5385861008?gh_jid=5385861008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "senior85241"
+  },
+  {
+    "id": "block-5281312008",
+    "title": "Senior Data Engineer, Risk",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+    "applyUrl": "http://block.xyz/careers/jobs/5281312008?gh_jid=5281312008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99505"
+  },
+  {
+    "id": "block-5043053008",
+    "title": "Senior Compliance Manager, Financial Services Compliance, Afterpay ANZ",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5043053008?gh_jid=5043053008",
+    "applyUrl": "http://block.xyz/careers/jobs/5043053008?gh_jid=5043053008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91019"
+  },
+  {
+    "id": "block-4962872008",
+    "title": "Senior Business Systems Engineer",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/4962872008?gh_jid=4962872008",
+    "applyUrl": "http://block.xyz/careers/jobs/4962872008?gh_jid=4962872008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99489"
+  },
+  {
+    "id": "block-5340591008",
+    "title": "Senior Business Development Manager, Platform Partnerships",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5340591008?gh_jid=5340591008",
+    "applyUrl": "http://block.xyz/careers/jobs/5340591008?gh_jid=5340591008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96116"
+  },
+  {
+    "id": "block-5287618008",
+    "title": "Senior Account Executive, Mid-Market - Canada",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5287618008?gh_jid=5287618008",
+    "applyUrl": "http://block.xyz/careers/jobs/5287618008?gh_jid=5287618008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96076"
+  },
+  {
+    "id": "block-5183878008",
+    "title": "Retention Account Manager, SMB",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183878008?gh_jid=5183878008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183878008?gh_jid=5183878008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96089"
+  },
+  {
+    "id": "block-5212159008",
+    "title": "Regulatory Program Manager, Marketing & Communications Supervision",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5212159008?gh_jid=5212159008",
+    "applyUrl": "http://block.xyz/careers/jobs/5212159008?gh_jid=5212159008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "marketing85139"
+  },
+  {
+    "id": "block-5371509008",
+    "title": "Regulatory Program Lead, Canada",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5371509008?gh_jid=5371509008",
+    "applyUrl": "http://block.xyz/careers/jobs/5371509008?gh_jid=5371509008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "regulatory1"
+  },
+  {
+    "id": "block-5287487008",
+    "title": "Regulatory Examination Manager",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5287487008?gh_jid=5287487008",
+    "applyUrl": "http://block.xyz/careers/jobs/5287487008?gh_jid=5287487008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96113"
+  },
+  {
+    "id": "block-5285765008",
+    "title": "Regional Sales Manager",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5285765008?gh_jid=5285765008",
+    "applyUrl": "http://block.xyz/careers/jobs/5285765008?gh_jid=5285765008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96111"
+  },
+  {
+    "id": "block-5235913008",
+    "title": "Product Manager, GTM Automation",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5235913008?gh_jid=5235913008",
+    "applyUrl": "http://block.xyz/careers/jobs/5235913008?gh_jid=5235913008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81515"
+  },
+  {
+    "id": "block-5281304008",
+    "title": "Principal Security Engineer",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5281304008?gh_jid=5281304008",
+    "applyUrl": "http://block.xyz/careers/jobs/5281304008?gh_jid=5281304008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "security95030"
+  },
+  {
+    "id": "block-5279307008",
+    "title": "Principal Product Designer",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5279307008?gh_jid=5279307008",
+    "applyUrl": "http://block.xyz/careers/jobs/5279307008?gh_jid=5279307008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81517"
+  },
+  {
+    "id": "block-5248778008",
+    "title": "Principal Designer, Tidal",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5248778008?gh_jid=5248778008",
+    "applyUrl": "http://block.xyz/careers/jobs/5248778008?gh_jid=5248778008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "designer30921"
+  },
+  {
+    "id": "block-5367907008",
+    "title": "Principal Designer, Banking",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5367907008?gh_jid=5367907008",
+    "applyUrl": "http://block.xyz/careers/jobs/5367907008?gh_jid=5367907008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "designer30922"
+  },
+  {
+    "id": "block-5406274008",
+    "title": "People Intelligence Architect",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406274008?gh_jid=5406274008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406274008?gh_jid=5406274008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "architect2"
+  },
+  {
+    "id": "block-5133193008",
+    "title": "Partner Marketing Manager",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5133193008?gh_jid=5133193008",
+    "applyUrl": "http://block.xyz/careers/jobs/5133193008?gh_jid=5133193008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "marketing85138"
+  },
+  {
+    "id": "block-5146383008",
+    "title": "Partner Manager - Reseller",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5146383008?gh_jid=5146383008",
+    "applyUrl": "http://block.xyz/careers/jobs/5146383008?gh_jid=5146383008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96083"
+  },
+  {
+    "id": "block-5389263008",
+    "title": "Partner Manager - Reseller",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5389263008?gh_jid=5389263008",
+    "applyUrl": "http://block.xyz/careers/jobs/5389263008?gh_jid=5389263008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96135"
+  },
+  {
+    "id": "block-5183737008",
+    "title": "Partner Manager",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183737008?gh_jid=5183737008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183737008?gh_jid=5183737008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96087"
+  },
+  {
+    "id": "block-5356588008",
+    "title": "Oracle Fusion Techno-Functional Developer- Remote, US",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5356588008?gh_jid=5356588008",
+    "applyUrl": "http://block.xyz/careers/jobs/5356588008?gh_jid=5356588008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "developer74013"
+  },
+  {
+    "id": "block-5356620008",
+    "title": "Oracle Fusion Techno-Functional Developer - Remote, Canada",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5356620008?gh_jid=5356620008",
+    "applyUrl": "http://block.xyz/careers/jobs/5356620008?gh_jid=5356620008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "developer74014"
+  },
+  {
+    "id": "block-5183671008",
+    "title": "Onboarding Project Manager",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183671008?gh_jid=5183671008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183671008?gh_jid=5183671008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "onboarding16"
+  },
+  {
+    "id": "block-5375603008",
+    "title": "Mid-Market Sales Manager",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5375603008?gh_jid=5375603008",
+    "applyUrl": "http://block.xyz/careers/jobs/5375603008?gh_jid=5375603008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96125"
+  },
+  {
+    "id": "block-5232920008",
+    "title": "Mid-Market Account Manager, Services",
+    "company": "Block",
+    "location": "San Francisco, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232920008?gh_jid=5232920008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232920008?gh_jid=5232920008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96095"
+  },
+  {
+    "id": "block-5199070008",
+    "title": "Mid-Market Account Manager",
+    "company": "Block",
+    "location": "Chicago, IL, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5199070008?gh_jid=5199070008",
+    "applyUrl": "http://block.xyz/careers/jobs/5199070008?gh_jid=5199070008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96090"
+  },
+  {
+    "id": "block-5385496008",
+    "title": "Mid-Market Account Executive, Australia",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5385496008?gh_jid=5385496008",
+    "applyUrl": "http://block.xyz/careers/jobs/5385496008?gh_jid=5385496008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96095"
+  },
+  {
+    "id": "block-5368066008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Atlanta, GA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5368066008?gh_jid=5368066008",
+    "applyUrl": "http://block.xyz/careers/jobs/5368066008?gh_jid=5368066008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96087"
+  },
+  {
+    "id": "block-5368067008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5368067008?gh_jid=5368067008",
+    "applyUrl": "http://block.xyz/careers/jobs/5368067008?gh_jid=5368067008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96088"
+  },
+  {
+    "id": "block-5282545008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Boston, MA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008",
+    "applyUrl": "http://block.xyz/careers/jobs/5282545008?gh_jid=5282545008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96074"
+  },
+  {
+    "id": "block-5387487008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Los Angeles, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5387487008?gh_jid=5387487008",
+    "applyUrl": "http://block.xyz/careers/jobs/5387487008?gh_jid=5387487008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96096"
+  },
+  {
+    "id": "block-5310596008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008",
+    "applyUrl": "http://block.xyz/careers/jobs/5310596008?gh_jid=5310596008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96080"
+  },
+  {
+    "id": "block-5370001008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "St. Louis, MO, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5370001008?gh_jid=5370001008",
+    "applyUrl": "http://block.xyz/careers/jobs/5370001008?gh_jid=5370001008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96089"
+  },
+  {
+    "id": "block-5373712008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "San Francisco, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5373712008?gh_jid=5373712008",
+    "applyUrl": "http://block.xyz/careers/jobs/5373712008?gh_jid=5373712008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96092"
+  },
+  {
+    "id": "block-5406427008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Denver, CO, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406427008?gh_jid=5406427008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406427008?gh_jid=5406427008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96105"
+  },
+  {
+    "id": "block-5404930008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Pittsburgh, PA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5404930008?gh_jid=5404930008",
+    "applyUrl": "http://block.xyz/careers/jobs/5404930008?gh_jid=5404930008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96098"
+  },
+  {
+    "id": "block-5404936008",
+    "title": "Mid-Market Account Executive",
+    "company": "Block",
+    "location": "Denver, CO, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5404936008?gh_jid=5404936008",
+    "applyUrl": "http://block.xyz/careers/jobs/5404936008?gh_jid=5404936008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96099"
+  },
+  {
+    "id": "block-5267743008",
+    "title": "Manager, SMB Sales",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008",
+    "applyUrl": "http://block.xyz/careers/jobs/5267743008?gh_jid=5267743008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96108"
+  },
+  {
+    "id": "block-5267747008",
+    "title": "Manager, SMB Sales",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5267747008?gh_jid=5267747008",
+    "applyUrl": "http://block.xyz/careers/jobs/5267747008?gh_jid=5267747008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96109"
+  },
+  {
+    "id": "block-5258486008",
+    "title": "Manager, SMB Account Management, Food and Beverage",
+    "company": "Block",
+    "location": "Chicago, IL, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5258486008?gh_jid=5258486008",
+    "applyUrl": "http://block.xyz/careers/jobs/5258486008?gh_jid=5258486008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96105"
+  },
+  {
+    "id": "block-5373378008",
+    "title": "Manager, SMB Account Management",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5373378008?gh_jid=5373378008",
+    "applyUrl": "http://block.xyz/careers/jobs/5373378008?gh_jid=5373378008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96119"
+  },
+  {
+    "id": "block-5258469008",
+    "title": "Manager, SMB Account Management",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5258469008?gh_jid=5258469008",
+    "applyUrl": "http://block.xyz/careers/jobs/5258469008?gh_jid=5258469008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96104"
+  },
+  {
+    "id": "block-5376231008",
+    "title": "Manager, Outside Sales",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5376231008?gh_jid=5376231008",
+    "applyUrl": "http://block.xyz/careers/jobs/5376231008?gh_jid=5376231008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96127"
+  },
+  {
+    "id": "block-5267739008",
+    "title": "Manager, Mid-Market Sales",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5267739008?gh_jid=5267739008",
+    "applyUrl": "http://block.xyz/careers/jobs/5267739008?gh_jid=5267739008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96107"
+  },
+  {
+    "id": "block-5387331008",
+    "title": "Manager, Mid-Market Sales",
+    "company": "Block",
+    "location": "Los Angeles, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5387331008?gh_jid=5387331008",
+    "applyUrl": "http://block.xyz/careers/jobs/5387331008?gh_jid=5387331008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96134"
+  },
+  {
+    "id": "block-5267748008",
+    "title": "Manager, Mid-Market Sales",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5267748008?gh_jid=5267748008",
+    "applyUrl": "http://block.xyz/careers/jobs/5267748008?gh_jid=5267748008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96110"
+  },
+  {
+    "id": "block-5376237008",
+    "title": "Manager, Inside Sales",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5376237008?gh_jid=5376237008",
+    "applyUrl": "http://block.xyz/careers/jobs/5376237008?gh_jid=5376237008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96128"
+  },
+  {
+    "id": "block-5286821008",
+    "title": "Manager, GTM Strategy & Operations - Global Sales",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5286821008?gh_jid=5286821008",
+    "applyUrl": "http://block.xyz/careers/jobs/5286821008?gh_jid=5286821008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96112"
+  },
+  {
+    "id": "block-5392866008",
+    "title": "Manager, Field Sales - UK",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5392866008?gh_jid=5392866008",
+    "applyUrl": "http://block.xyz/careers/jobs/5392866008?gh_jid=5392866008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96136"
+  },
+  {
+    "id": "block-5381442008",
+    "title": "Manager, Field Sales - Orange County",
+    "company": "Block",
+    "location": "Orange County, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5381442008?gh_jid=5381442008",
+    "applyUrl": "http://block.xyz/careers/jobs/5381442008?gh_jid=5381442008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96132"
+  },
+  {
+    "id": "block-5374422008",
+    "title": "Manager, Field Sales - Los Angeles",
+    "company": "Block",
+    "location": "Los Angeles, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5374422008?gh_jid=5374422008",
+    "applyUrl": "http://block.xyz/careers/jobs/5374422008?gh_jid=5374422008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96121"
+  },
+  {
+    "id": "block-5386465008",
+    "title": "Manager, Field Sales - Houston",
+    "company": "Block",
+    "location": "Lake Charles, LA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5386465008?gh_jid=5386465008",
+    "applyUrl": "http://block.xyz/careers/jobs/5386465008?gh_jid=5386465008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96133"
+  },
+  {
+    "id": "block-5374508008",
+    "title": "Manager, Field Sales",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5374508008?gh_jid=5374508008",
+    "applyUrl": "http://block.xyz/careers/jobs/5374508008?gh_jid=5374508008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96122"
+  },
+  {
+    "id": "block-5287479008",
+    "title": "Lending Regulatory Counsel",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5287479008?gh_jid=5287479008",
+    "applyUrl": "http://block.xyz/careers/jobs/5287479008?gh_jid=5287479008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "lending1"
+  },
+  {
+    "id": "block-5195926008",
+    "title": "Legal Systems Engineer",
+    "company": "Block",
+    "location": "San Francisco, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5195926008?gh_jid=5195926008",
+    "applyUrl": "http://block.xyz/careers/jobs/5195926008?gh_jid=5195926008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91024"
+  },
+  {
+    "id": "block-5406139008",
+    "title": "Legal Innovation & Operations Lead",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5406139008?gh_jid=5406139008",
+    "applyUrl": "http://block.xyz/careers/jobs/5406139008?gh_jid=5406139008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91026"
+  },
+  {
+    "id": "block-5183301008",
+    "title": "Inside Sales Account Executive",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183301008?gh_jid=5183301008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183301008?gh_jid=5183301008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96055"
+  },
+  {
+    "id": "block-5183786008",
+    "title": "Indirect Sales Manager, France",
+    "company": "Block",
+    "location": "Paris, France",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183786008?gh_jid=5183786008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183786008?gh_jid=5183786008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96088"
+  },
+  {
+    "id": "block-5218714008",
+    "title": "Head of US Public Policy and Government Relations",
+    "company": "Block",
+    "location": "Washington, DC, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5218714008?gh_jid=5218714008",
+    "applyUrl": "http://block.xyz/careers/jobs/5218714008?gh_jid=5218714008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "head94023"
+  },
+  {
+    "id": "block-5258480008",
+    "title": "Head of Strategic Product Sales",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5258480008?gh_jid=5258480008",
+    "applyUrl": "http://block.xyz/careers/jobs/5258480008?gh_jid=5258480008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "product81516"
+  },
+  {
+    "id": "block-5254421008",
+    "title": "Head of Square Partnerships, EMEA",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5254421008?gh_jid=5254421008",
+    "applyUrl": "http://block.xyz/careers/jobs/5254421008?gh_jid=5254421008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "head94024"
+  },
+  {
+    "id": "block-4809166008",
+    "title": "Head of Square Commercial Operations & Deal Excellence",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/4809166008?gh_jid=4809166008",
+    "applyUrl": "http://block.xyz/careers/jobs/4809166008?gh_jid=4809166008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "operations91023"
+  },
+  {
+    "id": "block-5358198008",
+    "title": "Head of SMB Sales",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5358198008?gh_jid=5358198008",
+    "applyUrl": "http://block.xyz/careers/jobs/5358198008?gh_jid=5358198008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96083"
+  },
+  {
+    "id": "block-5230415008",
+    "title": "Head of Sales - Japan",
+    "company": "Block",
+    "location": "Tokyo, Japan",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5230415008?gh_jid=5230415008",
+    "applyUrl": "http://block.xyz/careers/jobs/5230415008?gh_jid=5230415008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96064"
+  },
+  {
+    "id": "block-5383497008",
+    "title": "Head of Product, Trust (Risk/Identity)",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5383497008?gh_jid=5383497008",
+    "applyUrl": "http://block.xyz/careers/jobs/5383497008?gh_jid=5383497008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "rust94601"
+  },
+  {
+    "id": "block-5358204008",
+    "title": "Head of Mid-Market Sales",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5358204008?gh_jid=5358204008",
+    "applyUrl": "http://block.xyz/careers/jobs/5358204008?gh_jid=5358204008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96084"
+  },
+  {
+    "id": "block-5217611008",
+    "title": "Head of Growth Partnerships, Square",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5217611008?gh_jid=5217611008",
+    "applyUrl": "http://block.xyz/careers/jobs/5217611008?gh_jid=5217611008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "marketing85140"
+  },
+  {
+    "id": "block-5183487008",
+    "title": "Head of Channel Sales",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183487008?gh_jid=5183487008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183487008?gh_jid=5183487008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96058"
+  },
+  {
+    "id": "block-5294486008",
+    "title": "GTM Strategy & Operations - Global Account Management",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5294486008?gh_jid=5294486008",
+    "applyUrl": "http://block.xyz/careers/jobs/5294486008?gh_jid=5294486008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96079"
+  },
+  {
+    "id": "block-5232832008",
+    "title": "Growth Manager, Customer Engagement",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232832008?gh_jid=5232832008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232832008?gh_jid=5232832008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "marketing85141"
+  },
+  {
+    "id": "block-5398149008",
+    "title": "Global Enablement Program Manager",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5398149008?gh_jid=5398149008",
+    "applyUrl": "http://block.xyz/careers/jobs/5398149008?gh_jid=5398149008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96137"
+  },
+  {
+    "id": "block-5373694008",
+    "title": "Field Sales Manager, North Carolina",
+    "company": "Block",
+    "location": "Charlotte, NC, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5373694008?gh_jid=5373694008",
+    "applyUrl": "http://block.xyz/careers/jobs/5373694008?gh_jid=5373694008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96120"
+  },
+  {
+    "id": "block-5364976008",
+    "title": "Entity Reporting & Intelligence Manager",
+    "company": "Block",
+    "location": "Portland, OR, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5364976008?gh_jid=5364976008",
+    "applyUrl": "http://block.xyz/careers/jobs/5364976008?gh_jid=5364976008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96117"
+  },
+  {
+    "id": "block-5381210008",
+    "title": "Enterprise People Platform Engineer",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5381210008?gh_jid=5381210008",
+    "applyUrl": "http://block.xyz/careers/jobs/5381210008?gh_jid=5381210008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "engineer99510"
+  },
+  {
+    "id": "block-5234054008",
+    "title": "Enterprise Account Manager, Retail",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5234054008?gh_jid=5234054008",
+    "applyUrl": "http://block.xyz/careers/jobs/5234054008?gh_jid=5234054008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96097"
+  },
+  {
+    "id": "block-5293278008",
+    "title": "Enterprise Account Executive, Remote US",
+    "company": "Block",
+    "location": "Denver, CO, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5293278008?gh_jid=5293278008",
+    "applyUrl": "http://block.xyz/careers/jobs/5293278008?gh_jid=5293278008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96078"
+  },
+  {
+    "id": "block-5116657008",
+    "title": "Enterprise Account Executive, Remote UK",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5116657008?gh_jid=5116657008",
+    "applyUrl": "http://block.xyz/careers/jobs/5116657008?gh_jid=5116657008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96052"
+  },
+  {
+    "id": "block-5183317008",
+    "title": "Enterprise Account Executive, Australia",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183317008?gh_jid=5183317008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183317008?gh_jid=5183317008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96056"
+  },
+  {
+    "id": "block-5235711008",
+    "title": "Enterprise Account Executive, Australia",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5235711008?gh_jid=5235711008",
+    "applyUrl": "http://block.xyz/careers/jobs/5235711008?gh_jid=5235711008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96073"
+  },
+  {
+    "id": "block-5408896008",
+    "title": "Director, Sales Compensation Operations",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5408896008?gh_jid=5408896008",
+    "applyUrl": "http://block.xyz/careers/jobs/5408896008?gh_jid=5408896008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96107"
+  },
+  {
+    "id": "block-5408632008",
+    "title": "Director, GTM Planning",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5408632008?gh_jid=5408632008",
+    "applyUrl": "http://block.xyz/careers/jobs/5408632008?gh_jid=5408632008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "director96015"
+  },
+  {
+    "id": "block-5318292008",
+    "title": "Director, Federal Affairs",
+    "company": "Block",
+    "location": "Washington, DC, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5318292008?gh_jid=5318292008",
+    "applyUrl": "http://block.xyz/careers/jobs/5318292008?gh_jid=5318292008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "director96014"
+  },
+  {
+    "id": "block-5379220008",
+    "title": "Credit Reporting Disputes Program Lead",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5379220008?gh_jid=5379220008",
+    "applyUrl": "http://block.xyz/careers/jobs/5379220008?gh_jid=5379220008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "credit1"
+  },
+  {
+    "id": "block-5125397008",
+    "title": "Compliance Operations Specialist, JP",
+    "company": "Block",
+    "location": "Tokyo, Japan",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5125397008?gh_jid=5125397008",
+    "applyUrl": "http://block.xyz/careers/jobs/5125397008?gh_jid=5125397008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91023"
+  },
+  {
+    "id": "block-5408853008",
+    "title": "Compensation Strategy & Program Lead",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5408853008?gh_jid=5408853008",
+    "applyUrl": "http://block.xyz/careers/jobs/5408853008?gh_jid=5408853008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compensation1"
+  },
+  {
+    "id": "block-5380495008",
+    "title": "Communications Lead, Lending + Financial Access",
+    "company": "Block",
+    "location": "San Francisco, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5380495008?gh_jid=5380495008",
+    "applyUrl": "http://block.xyz/careers/jobs/5380495008?gh_jid=5380495008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "communications1"
+  },
+  {
+    "id": "block-5121329008",
+    "title": "Commerce Account Executive",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5121329008?gh_jid=5121329008",
+    "applyUrl": "http://block.xyz/careers/jobs/5121329008?gh_jid=5121329008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96053"
+  },
+  {
+    "id": "block-5356499008",
+    "title": "Chargé de Comptes, Marché Intermédiaire",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5356499008?gh_jid=5356499008",
+    "applyUrl": "http://block.xyz/careers/jobs/5356499008?gh_jid=5356499008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "charg1"
+  },
+  {
+    "id": "block-5356573008",
+    "title": "Chargé de Compte PME",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5356573008?gh_jid=5356573008",
+    "applyUrl": "http://block.xyz/careers/jobs/5356573008?gh_jid=5356573008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "charg2"
+  },
+  {
+    "id": "block-5183731008",
+    "title": "Channel Sales Support Agent",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183731008?gh_jid=5183731008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183731008?gh_jid=5183731008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96060"
+  },
+  {
+    "id": "block-5183799008",
+    "title": "Channel Sales Support Agent",
+    "company": "Block",
+    "location": "Paris, France",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183799008?gh_jid=5183799008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183799008?gh_jid=5183799008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96061"
+  },
+  {
+    "id": "block-5023197008",
+    "title": "Channel Sales Regional Manager",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5023197008?gh_jid=5023197008",
+    "applyUrl": "http://block.xyz/careers/jobs/5023197008?gh_jid=5023197008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96082"
+  },
+  {
+    "id": "block-5378053008",
+    "title": "Channel Sales Manager - Reseller",
+    "company": "Block",
+    "location": "Los Angeles, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5378053008?gh_jid=5378053008",
+    "applyUrl": "http://block.xyz/careers/jobs/5378053008?gh_jid=5378053008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96131"
+  },
+  {
+    "id": "block-5378050008",
+    "title": "Channel Sales Manager - Reseller",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5378050008?gh_jid=5378050008",
+    "applyUrl": "http://block.xyz/careers/jobs/5378050008?gh_jid=5378050008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96130"
+  },
+  {
+    "id": "block-5375187008",
+    "title": "Channel Sales Manager - Reseller",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5375187008?gh_jid=5375187008",
+    "applyUrl": "http://block.xyz/careers/jobs/5375187008?gh_jid=5375187008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96124"
+  },
+  {
+    "id": "block-5183579008",
+    "title": "Channel Sales Enablement Manager",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5183579008?gh_jid=5183579008",
+    "applyUrl": "http://block.xyz/careers/jobs/5183579008?gh_jid=5183579008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96086"
+  },
+  {
+    "id": "block-5369959008",
+    "title": "Business Intelligence Analyst",
+    "company": "Block",
+    "location": "Toronto, Ontario, Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008",
+    "applyUrl": "http://block.xyz/careers/jobs/5369959008?gh_jid=5369959008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "analyst74218"
+  },
+  {
+    "id": "block-5232008008",
+    "title": "Business Development Rep Associate, New York City",
+    "company": "Block",
+    "location": "New York, NY, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232008008?gh_jid=5232008008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96072"
+  },
+  {
+    "id": "block-5232005008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "Seattle, WA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232005008?gh_jid=5232005008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96069"
+  },
+  {
+    "id": "block-5232006008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "Saint Louis, MO, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232006008?gh_jid=5232006008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96070"
+  },
+  {
+    "id": "block-5232007008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232007008?gh_jid=5232007008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96071"
+  },
+  {
+    "id": "block-5231999008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "Atlanta, GA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008",
+    "applyUrl": "http://block.xyz/careers/jobs/5231999008?gh_jid=5231999008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96065"
+  },
+  {
+    "id": "block-5232002008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "Scottsdale, AZ, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232002008?gh_jid=5232002008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96068"
+  },
+  {
+    "id": "block-5232000008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "DC Metro, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232000008?gh_jid=5232000008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96066"
+  },
+  {
+    "id": "block-5232001008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "Los Angeles, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008",
+    "applyUrl": "http://block.xyz/careers/jobs/5232001008?gh_jid=5232001008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96067"
+  },
+  {
+    "id": "block-5095724008",
+    "title": "Business Development Rep Associate",
+    "company": "Block",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5095724008?gh_jid=5095724008",
+    "applyUrl": "http://block.xyz/careers/jobs/5095724008?gh_jid=5095724008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96050"
+  },
+  {
+    "id": "block-5193491008",
+    "title": "Business Development Rep",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008",
+    "applyUrl": "http://block.xyz/careers/jobs/5193491008?gh_jid=5193491008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96062"
+  },
+  {
+    "id": "block-5366536008",
+    "title": "Business Development Rep",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008",
+    "applyUrl": "http://block.xyz/careers/jobs/5366536008?gh_jid=5366536008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "sales96086"
+  },
+  {
+    "id": "block-5146407008",
+    "title": "Business Development Manager",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5146407008?gh_jid=5146407008",
+    "applyUrl": "http://block.xyz/careers/jobs/5146407008?gh_jid=5146407008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96084"
+  },
+  {
+    "id": "block-5108009008",
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "company": "Block",
+    "location": "Toronto, Ontario , Canada",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+    "applyUrl": "http://block.xyz/careers/jobs/5108009008?gh_jid=5108009008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "intern5"
+  },
+  {
+    "id": "block-5108007008",
+    "title": "Applied Research Intern, Proactive Intelligence & Customer World Models (PhD / Graduate Co-op)",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+    "applyUrl": "http://block.xyz/careers/jobs/5108007008?gh_jid=5108007008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "intern4"
+  },
+  {
+    "id": "block-5367290008",
+    "title": "AI Legal Program Manager",
+    "company": "Block",
+    "location": "Bay Area, CA, United States of America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5367290008?gh_jid=5367290008",
+    "applyUrl": "http://block.xyz/careers/jobs/5367290008?gh_jid=5367290008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "compliance91025"
+  },
+  {
+    "id": "block-5317297008",
+    "title": "Account Manager, SMB",
+    "company": "Block",
+    "location": "Brisbane, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5317297008?gh_jid=5317297008",
+    "applyUrl": "http://block.xyz/careers/jobs/5317297008?gh_jid=5317297008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96115"
+  },
+  {
+    "id": "block-5258372008",
+    "title": "Account Manager, SMB",
+    "company": "Block",
+    "location": "Melbourne, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5258372008?gh_jid=5258372008",
+    "applyUrl": "http://block.xyz/careers/jobs/5258372008?gh_jid=5258372008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96103"
+  },
+  {
+    "id": "block-5317296008",
+    "title": "Account Manager, SMB",
+    "company": "Block",
+    "location": "Sydney, Australia",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:block",
+    "link": "http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008",
+    "applyUrl": "http://block.xyz/careers/jobs/5317296008?gh_jid=5317296008",
+    "department": "Block / Spiral / TBD",
+    "skills": [
+      "Bitcoin",
+      "Lightning Network",
+      "Fintech",
+      "Payments",
+      "Engineering"
+    ],
+    "slug": "manager96114"
+  },
+  {
     "id": "theblock-9b9b7455-7d02-4535-a8ca-12d7fe9df105",
     "title": "Strategic Partnership Senior Manager",
     "company": "The Block",
