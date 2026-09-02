@@ -247,6 +247,8 @@ export async function POST(request: Request) {
   if (method === 'resources/read') {
     const uri = String(params.uri || '');
     try {
+      const mcpAppCsp = "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';";
+
       if (uri === 'ui://hashtagweb3.com/jobs') {
         const jobs = await getJobs();
         const html = `<!DOCTYPE html>
@@ -255,7 +257,7 @@ export async function POST(request: Request) {
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light dark">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
+  <meta http-equiv="Content-Security-Policy" content="${mcpAppCsp}">
   <title>Hashtag Web3 - Jobs</title>
 </head>
 <body>
@@ -271,7 +273,12 @@ ${jobs.slice(0, 10).map(j => `<li><strong>${j.title}</strong> at ${j.company} ($
           result: {
             contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
-        }, { headers: { 'Access-Control-Allow-Origin': '*' } });
+        }, {
+          headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Content-Security-Policy': mcpAppCsp,
+          },
+        });
       }
 
       if (uri === 'ui://hashtagweb3.com/glossary') {
@@ -282,7 +289,7 @@ ${jobs.slice(0, 10).map(j => `<li><strong>${j.title}</strong> at ${j.company} ($
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light dark">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
+  <meta http-equiv="Content-Security-Policy" content="${mcpAppCsp}">
   <title>Hashtag Web3 - Glossary</title>
 </head>
 <body>
@@ -298,7 +305,12 @@ ${terms.slice(0, 10).map(t => `<li><strong>${t.term}</strong>: ${t.description}<
           result: {
             contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
-        }, { headers: { 'Access-Control-Allow-Origin': '*' } });
+        }, {
+          headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Content-Security-Policy': mcpAppCsp,
+          },
+        });
       }
 
       if (uri === 'ui://hashtagweb3.com/news') {
@@ -309,7 +321,7 @@ ${terms.slice(0, 10).map(t => `<li><strong>${t.term}</strong>: ${t.description}<
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light dark">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
+  <meta http-equiv="Content-Security-Policy" content="${mcpAppCsp}">
   <title>Hashtag Web3 - News</title>
 </head>
 <body>
@@ -325,7 +337,12 @@ ${news.slice(0, 10).map(n => `<li><a href="${n.link}">${n.title}</a> (${n.pubDat
           result: {
             contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
-        }, { headers: { 'Access-Control-Allow-Origin': '*' } });
+        }, {
+          headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Content-Security-Policy': mcpAppCsp,
+          },
+        });
       }
 
       if (uri === 'ui://hashtagweb3.com/events') {
@@ -336,7 +353,7 @@ ${news.slice(0, 10).map(n => `<li><a href="${n.link}">${n.title}</a> (${n.pubDat
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <meta name="color-scheme" content="light dark">
-  <meta http-equiv="Content-Security-Policy" content="default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';">
+  <meta http-equiv="Content-Security-Policy" content="${mcpAppCsp}">
   <title>Hashtag Web3 - Events</title>
 </head>
 <body>
@@ -352,7 +369,12 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
           result: {
             contents: [{ uri, mimeType: 'text/html;profile=mcp-app', text: html }],
           },
-        }, { headers: { 'Access-Control-Allow-Origin': '*' } });
+        }, {
+          headers: {
+            'Access-Control-Allow-Origin': '*',
+            'Content-Security-Policy': mcpAppCsp,
+          },
+        });
       }
 
       if (uri === 'hashtagweb3://jobs/latest') {
