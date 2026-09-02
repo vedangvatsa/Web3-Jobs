@@ -307,7 +307,8 @@ async function run() {
 
  const dueAt = slots[scheduled].toISOString();
  console.log(`  ${post.id} at ${dueAt}`);
- const uniqueText = post.linkedin.text;
+  const uniqueText = post.linkedin.text.replace(/hashtagweb3\.com\/th/g, 'hashtagweb3.com/li')
+                                      .replace(/hashtagweb3\.com(?!\/)/g, 'hashtagweb3.com/li');
  const result = await schedulePost(
  LINKEDIN_ID,
  uniqueText,
