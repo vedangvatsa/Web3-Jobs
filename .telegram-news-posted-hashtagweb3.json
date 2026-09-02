@@ -512,6 +512,9 @@
   "https://www.coindesk.com/markets/2026/09/02/a-china-indicator-that-greases-risk-taking-in-stocks-and-bitcoin-is-flashing-red",
   "https://www.coindesk.com/markets/2026/09/02/solana-ether-xrp-lead-majors-slide-as-iran-strikes-drive-a-broad-risk-selloff",
   "https://www.theblock.co/news/business/2026-09-02-kalshi-polymarkets-volume-falls-august-413309",
+  "https://decrypt.co/377149/sec-proposes-first-transfer-agent-overhaul-in-40-years-citing-tokenization",
+  "https://www.coindesk.com/business/2026/09/02/kraken-parent-payward-pushes-ipo-back-to-mid-2027-at-earliest",
+  "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1444,6 +1447,12 @@
   "Solana, ether, xrp lead majors slide as Iran strikes drive a broad risk selloff",
   "Kalshi and Polymarket volume fell 15% in August.",
   "Kalshi and Polymarket’s combined volume falls 15% in August, first monthly decline in a year",
+  "US Securities and Exchange Commission proposes transfer agent tokenization rules",
+  "SEC Proposes First Transfer Agent Overhaul in 40 Years, Citing Tokenization",
+  "Kraken parent company Payward delays public listing until 2027",
+  "Kraken parent Payward delays IPO to second quarter of 2027 at earliest",
+  "Wyoming integrates Chainlink to verify state stablecoin reserves onchain",
+  "Wyoming adds Chainlink reserve verification to state-issued stable token",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1506,5 +1515,8 @@
   "fp:contract|defend|film|gadot|gal|gam|her|lawyer|month|negotiat",
   "fp:25b|647m|capacity|china|corporat|entity|equity|expand|facility|financ",
   "fp:altcoin|broad|broad24|cap|cryptocurrency|declin|downturn|driv|dur|ether",
-  "fp:3717b|816b|august|combin|declin|dur|falls15|fell15|kalshi|monthly"
+  "fp:3717b|816b|august|combin|declin|dur|falls15|fell15|kalshi|monthly",
+  "fp:agent|cit|commission|distribut|exchang|in40|ledger|maintain|number|overhaul",
+  "fp:challeng|condition|cryptocurrency|delay|due|earliest|exchang|initial|ipo|kraken",
+  "fp:add|asset|back|chainlink|integrat|issu|network|onchain|oracl|provid"
 ]
