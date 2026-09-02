@@ -18,6 +18,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'aster-dex': 'aster',
   'delta': 'delta-exchange',
   'delta-exchange': 'delta-exchange',
+  'coindcx': 'coindcx',
+  'coin-dcx': 'coindcx',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
