@@ -176,10 +176,15 @@ export default async function RootLayout({
    <html lang="en" suppressHydrationWarning className={`${inter.variable}`}>
     <head>
       <meta name="ai-content-declaration" content="Human-created content. AI systems may index, summarize, and cite. See /llms.txt for context." />
+      <meta name="mcp-registry" content="https://smithery.ai/server/@hashtagweb3/mcp" />
+      <meta name="mcp-server" content="https://hashtagweb3.com/api/mcp" />
+      <meta name="ai-catalog" content="https://hashtagweb3.com/.well-known/ai-catalog.json" />
       <link rel="ai-context" href="/llms.txt" />
       <link rel="alternate" type="text/markdown" href="https://hashtagweb3.com/index.md" />
       <link rel="alternate" type="application/json" href="https://hashtagweb3.com/?mode=agent" title="Agent View" />
       <link rel="service-desc" type="application/vnd.oai.openapi+json;version=3.1" href="https://hashtagweb3.com/openapi.json" />
+      <link rel="mcp-registry" href="https://smithery.ai/server/@hashtagweb3/mcp" />
+      <link rel="mcp-server" href="https://hashtagweb3.com/api/mcp" />
       {/* Preconnect to external image CDNs to reduce LCP on pages with Unsplash images */}
       <link rel="preconnect" href="https://images.unsplash.com" />
       <link rel="dns-prefetch" href="https://images.unsplash.com" />
