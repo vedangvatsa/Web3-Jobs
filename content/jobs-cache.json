@@ -1,5 +1,115 @@
 [
   {
+    "id": "262a0e4b-1d46-4812-8afc-550f5fef265b",
+    "title": "Sales Director ",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/262a0e4b-1d46-4812-8afc-550f5fef265b",
+    "date": "2026-08-14",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "China",
+    "department": "Asset Management Team",
+    "active": true
+  },
+  {
+    "id": "2e09e40b-e47d-403f-9d76-fb01b026f1ba",
+    "title": "Growth Operations Manager",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/2e09e40b-e47d-403f-9d76-fb01b026f1ba",
+    "date": "2026-08-14",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Remote / Global",
+    "department": "Futures and copy trading",
+    "active": true
+  },
+  {
+    "id": "8d6a4a74-24cf-46e2-8d1d-05116b314926",
+    "title": "Listing Operation Specialist",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/8d6a4a74-24cf-46e2-8d1d-05116b314926",
+    "date": "2026-08-24",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Remote / Global",
+    "department": "Listing Operation Team",
+    "active": true
+  },
+  {
+    "id": "5c372644-f40a-405e-8f07-d76504bb51f3",
+    "title": "Payment BD ",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/5c372644-f40a-405e-8f07-d76504bb51f3",
+    "date": "2025-11-17",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "China",
+    "department": "Digital Banking Business Department",
+    "active": true
+  },
+  {
+    "id": "2407cf60-b948-4763-ba5f-2939957c13e6",
+    "title": "KOL Business Development(BD)",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/2407cf60-b948-4763-ba5f-2939957c13e6",
+    "date": "2026-06-08",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Remote / Global",
+    "department": "Future BD Center",
+    "active": true
+  },
+  {
+    "id": "7d927477-1b75-4046-9c24-cfa998dec494",
+    "title": "Key Account Institutional Sales Manager (BD)",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/7d927477-1b75-4046-9c24-cfa998dec494",
+    "date": "2026-06-09",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Spain, Poland, Netherlands, Italy, Germany, France, Austria, Argentina",
+    "department": "Key Account Institutional EMEA",
+    "active": true
+  },
+  {
+    "id": "a842be9c-bfc2-47d0-bb3e-16b42d17b594",
+    "title": "Legal Expert",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/a842be9c-bfc2-47d0-bb3e-16b42d17b594",
+    "date": "2026-06-16",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Malaysia, China",
+    "department": "Legal Dept.",
+    "active": true
+  },
+  {
+    "id": "1defffa2-6fbd-4f62-8a0c-476af2b7e578",
+    "title": "Payment BD Associated Expert",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/1defffa2-6fbd-4f62-8a0c-476af2b7e578",
+    "date": "2026-07-14",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Remote / Global",
+    "department": "Payment Partnership Team",
+    "active": true
+  },
+  {
+    "id": "d3a3e6c7-b7bb-4d02-8b4a-707555bfbadf",
+    "title": "Growth Manager/Director- KuCoin EU ",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/d3a3e6c7-b7bb-4d02-8b4a-707555bfbadf",
+    "date": "2026-07-24",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Remote / Global",
+    "department": "EU Institutional Business",
+    "active": true
+  },
+  {
+    "id": "aa120ff9-e8c0-4f10-a9c0-e7195fcdcfa9",
+    "title": "Treasury Officer",
+    "company": "KuCoin",
+    "link": "https://hire-r1.mokahr.com/social-recruitment/kcareers/100000192?locale=en-US#/job/aa120ff9-e8c0-4f10-a9c0-e7195fcdcfa9",
+    "date": "2026-08-14",
+    "source": "MokaHR: KuCoin [kcareers]",
+    "location": "Remote / Global",
+    "department": "Fund Trading Team",
+    "active": true
+  },
+  {
     "id": "2730256",
     "title": "Account Executive, Legal AI | Nordics",
     "company": "Saga",
