@@ -67,30 +67,89 @@ const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }>
   'email': { utm_source: 'email', utm_medium: 'email' },
 };
 
+/**
+ * Known AI/LLM crawler user-agent substrings.
+ * When these bots visit HTML pages, we rewrite them to the .md equivalent
+ * so they receive clean, structured markdown content instead of rendered HTML.
+ */
+const BOT_UAS = [
+  'GPTBot',
+  'ClaudeBot',
+  'ChatGPT-User',
+  'PerplexityBot',
+  'Google-Extended',
+  'Applebot-Extended',
+  'ora-agent',
+  'DeepSeekBot',
+];
+
 export function middleware(request: NextRequest) {
-  const url = request.nextUrl.clone();
-  const rawPathname = url.pathname;
+  const { pathname, searchParams } = request.nextUrl;
 
-  // Normalize path without trailing slashes for segment inspection
-  const pathname = rawPathname.replace(/\/+$/, '');
-  const lastSlashIdx = pathname.lastIndexOf('/');
+  // ── 1. ?mode=agent → /api/agent-view ────────────────────────────────────────
+  // Any URL with ?mode=agent is transparently rewritten to the structured JSON
+  // agent-view endpoint regardless of the original path.
+  if (searchParams.get('mode') === 'agent') {
+    const url = request.nextUrl.clone();
+    url.pathname = '/api/agent-view';
+    url.search = '';
+    return NextResponse.rewrite(url);
+  }
 
-  if (lastSlashIdx !== -1 || pathname) {
-    const segment = pathname.slice(lastSlashIdx + 1).toLowerCase();
+  // ── 2. Bot-UA markdown serving ───────────────────────────────────────────────
+  // AI crawlers that send a known bot UA are redirected to the .md equivalent
+  // of the requested page (e.g. /jobs → /jobs.md) when it exists in /public.
+  // API routes, Next.js internals, and paths that already have a file extension
+  // are excluded so we only touch page-level HTML routes.
+  const ua = request.headers.get('user-agent') || '';
+  const isBot = BOT_UAS.some((b) => ua.includes(b));
 
-    if (segment && SOCIAL_UTM_MAP[segment]) {
-      const config = SOCIAL_UTM_MAP[segment];
-      const basePath = pathname.slice(0, lastSlashIdx) || '/';
+  if (
+    isBot &&
+    !pathname.startsWith('/api') &&
+    !pathname.startsWith('/_next') &&
+    !pathname.includes('.')
+  ) {
+    const accept = request.headers.get('accept') || '';
+    if (
+      accept.includes('text/markdown') ||
+      accept.includes('text/*') ||
+      accept.includes('*/*')
+    ) {
+      const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
+      const url = request.nextUrl.clone();
+      url.pathname = mdPath;
+      url.search = '';
+      return NextResponse.rewrite(url);
+    }
+  }
 
-      url.pathname = basePath;
-      url.searchParams.set('utm_source', config.utm_source);
-      url.searchParams.set('utm_medium', config.utm_medium);
-      if (!url.searchParams.has('utm_campaign')) {
-        url.searchParams.set('utm_campaign', 'share');
+  // ── 3. Social UTM suffix shortcuts ──────────────────────────────────────────
+  // Strip recognised social-suffix path segments and replace with UTM params.
+  // Only runs for non-API, non-static paths.
+  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next')) {
+    const rawPathname = pathname;
+    const normalised = rawPathname.replace(/\/+$/, '');
+    const lastSlashIdx = normalised.lastIndexOf('/');
+
+    if (lastSlashIdx !== -1 || normalised) {
+      const segment = normalised.slice(lastSlashIdx + 1).toLowerCase();
+
+      if (segment && SOCIAL_UTM_MAP[segment]) {
+        const config = SOCIAL_UTM_MAP[segment];
+        const basePath = normalised.slice(0, lastSlashIdx) || '/';
+
+        const url = request.nextUrl.clone();
+        url.pathname = basePath;
+        url.searchParams.set('utm_source', config.utm_source);
+        url.searchParams.set('utm_medium', config.utm_medium);
+        if (!url.searchParams.has('utm_campaign')) {
+          url.searchParams.set('utm_campaign', 'share');
+        }
+
+        // Temporary redirect (307) so browser cache does not lock query strings
+        return NextResponse.redirect(url, 307);
       }
-
-      // Temporary redirect (307) so browser cache does not lock query strings
-      return NextResponse.redirect(url, 307);
     }
   }
 
@@ -101,12 +160,14 @@ export const config = {
   matcher: [
     /*
      * Match all request paths except:
-     * - api (API routes)
      * - _next/static (static files)
      * - _next/image (image optimization files)
-     * - favicon.ico (favicon file)
-     * - Static asset file extensions
+     * - favicon.ico / icon.png
+     * - Binary static assets (images, fonts, etc.)
+     * Note: /api routes ARE included so that ?mode=agent can be intercepted
+     * on any URL and rewritten to /api/agent-view before the API handler runs.
+     * The bot-UA and UTM logic explicitly skip /api/* paths internally.
      */
-    '/((?!api|_next/static|_next/image|favicon.ico|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|xml|txt|json|pdf)$).*)',
+    '/((?!_next/static|_next/image|favicon.ico|icon.png|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|xml|pdf)$).*)',
   ],
 };
