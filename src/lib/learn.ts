@@ -41,10 +41,14 @@ export interface Lesson extends LessonMeta {
  quiz: QuizQuestion[];
 }
 
+let categoriesCache: LearnCategory[] | null = null;
+const lessonsCacheMap = new Map<string, LessonMeta[]>();
+
 /**
  * Returns all categories with lesson counts, sorted by order.
  */
 export function getCategories(): LearnCategory[] {
+ if (categoriesCache !== null) return categoriesCache;
  const raw = JSON.parse(fs.readFileSync(CATEGORIES_FILE, 'utf-8'));
  const categories: LearnCategory[] = raw.categories.map((cat: any) => {
   const catDir = path.join(LEARN_DIR, cat.slug);
@@ -54,13 +58,15 @@ export function getCategories(): LearnCategory[] {
   }
   return { ...cat, lessonCount };
  });
- return categories.sort((a, b) => a.order - b.order);
+ categoriesCache = categories.sort((a, b) => a.order - b.order);
+ return categoriesCache;
 }
 
 /**
  * Returns all lessons in a category, sorted by order.
  */
 export function getLessons(categorySlug: string): LessonMeta[] {
+ if (lessonsCacheMap.has(categorySlug)) return lessonsCacheMap.get(categorySlug)!;
  const catDir = path.join(LEARN_DIR, categorySlug);
  if (!fs.existsSync(catDir)) return [];
 
@@ -80,7 +86,9 @@ export function getLessons(categorySlug: string): LessonMeta[] {
   };
  });
 
- return lessons.sort((a, b) => a.order - b.order);
+ const sorted = lessons.sort((a, b) => a.order - b.order);
+ lessonsCacheMap.set(categorySlug, sorted);
+ return sorted;
 }
 
 /**
