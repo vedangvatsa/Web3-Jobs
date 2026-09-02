@@ -5,64 +5,35 @@ import type { NextRequest } from 'next/server';
  * Social media suffix shortcuts mapping to standardized UTM attribution parameters.
  */
 const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }> = {
-  // LinkedIn
   'li': { utm_source: 'linkedin', utm_medium: 'social' },
   'linkedin': { utm_source: 'linkedin', utm_medium: 'social' },
-
-  // X / Twitter
   'x': { utm_source: 'x', utm_medium: 'social' },
   'tw': { utm_source: 'twitter', utm_medium: 'social' },
   'twitter': { utm_source: 'twitter', utm_medium: 'social' },
-
-  // YouTube
   'yt': { utm_source: 'youtube', utm_medium: 'social' },
   'youtube': { utm_source: 'youtube', utm_medium: 'social' },
-
-  // Threads
   'th': { utm_source: 'threads', utm_medium: 'social' },
   'threads': { utm_source: 'threads', utm_medium: 'social' },
-
-  // Instagram
   'ig': { utm_source: 'instagram', utm_medium: 'social' },
   'insta': { utm_source: 'instagram', utm_medium: 'social' },
   'instagram': { utm_source: 'instagram', utm_medium: 'social' },
-
-  // Telegram
   'tg': { utm_source: 'telegram', utm_medium: 'social' },
   'telegram': { utm_source: 'telegram', utm_medium: 'social' },
-
-  // Reddit
   'rd': { utm_source: 'reddit', utm_medium: 'social' },
   'reddit': { utm_source: 'reddit', utm_medium: 'social' },
-
-  // Discord
   'dc': { utm_source: 'discord', utm_medium: 'social' },
   'discord': { utm_source: 'discord', utm_medium: 'social' },
-
-  // Farcaster / Warpcast
   'fc': { utm_source: 'farcaster', utm_medium: 'social' },
   'warp': { utm_source: 'warpcast', utm_medium: 'social' },
   'farcaster': { utm_source: 'farcaster', utm_medium: 'social' },
-
-  // Bluesky
   'bsky': { utm_source: 'bluesky', utm_medium: 'social' },
   'bluesky': { utm_source: 'bluesky', utm_medium: 'social' },
-
-  // Facebook
   'fb': { utm_source: 'facebook', utm_medium: 'social' },
   'facebook': { utm_source: 'facebook', utm_medium: 'social' },
-
-  // TikTok
   'tt': { utm_source: 'tiktok', utm_medium: 'social' },
   'tiktok': { utm_source: 'tiktok', utm_medium: 'social' },
-
-  // Hacker News
   'hn': { utm_source: 'hackernews', utm_medium: 'social' },
-
-  // WhatsApp
   'wa': { utm_source: 'whatsapp', utm_medium: 'social' },
-
-  // Newsletter / Email
   'nl': { utm_source: 'newsletter', utm_medium: 'email' },
   'email': { utm_source: 'email', utm_medium: 'email' },
 };
@@ -75,19 +46,25 @@ const AI_BOT_UA_PATTERNS = [
 ];
 
 export function middleware(request: NextRequest) {
-  const url = request.nextUrl.clone();
-  const rawPathname = url.pathname;
-  const searchParams = url.searchParams;
+  const pathname = request.nextUrl.pathname;
+  const searchParams = request.nextUrl.searchParams;
 
   // 1. ?mode=agent → rewrite to /api/agent-view for structured JSON response
   if (searchParams.get('mode') === 'agent') {
+    const rewrite = request.nextUrl.clone();
+    rewrite.pathname = '/api/agent-view';
+    rewrite.search = '';
+    return NextResponse.rewrite(rewrite);
+  }
+
+  // 2. Bot UA + Accept: text/markdown → rewrite to .md equivalent
   // API routes, Next.js internals, and paths that already have a file extension
   // are excluded so we only touch page-level HTML routes.
   const ua = request.headers.get('user-agent') || '';
-  const isBot = BOT_UAS.some((b) => ua.includes(b));
+  const isAIBot = AI_BOT_UA_PATTERNS.some((pattern) => ua.includes(pattern));
 
   if (
-    isBot &&
+    isAIBot &&
     !pathname.startsWith('/api') &&
     !pathname.startsWith('/_next') &&
     !pathname.includes('.')
@@ -99,19 +76,20 @@ export function middleware(request: NextRequest) {
       accept.includes('*/*')
     ) {
       const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
-      const url = request.nextUrl.clone();
-      url.pathname = mdPath;
-      url.search = '';
-      return NextResponse.rewrite(url);
+      const rewrite = request.nextUrl.clone();
+      rewrite.pathname = mdPath;
+      rewrite.search = '';
+      const response = NextResponse.rewrite(rewrite);
+      response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
+      return response;
     }
   }
 
-  // ── 3. Social UTM suffix shortcuts ──────────────────────────────────────────
+  // 3. Social UTM suffix shortcuts
   // Strip recognised social-suffix path segments and replace with UTM params.
   // Only runs for non-API, non-static paths.
   if (!pathname.startsWith('/api') && !pathname.startsWith('/_next')) {
-    const rawPathname = pathname;
-    const normalised = rawPathname.replace(/\/+$/, '');
+    const normalised = pathname.replace(/\/+$/, '');
     const lastSlashIdx = normalised.lastIndexOf('/');
 
     if (lastSlashIdx !== -1 || normalised) {
