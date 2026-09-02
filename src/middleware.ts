@@ -67,38 +67,20 @@ const SOCIAL_UTM_MAP: Record<string, { utm_source: string; utm_medium: string }>
   'email': { utm_source: 'email', utm_medium: 'email' },
 };
 
-/**
- * Known AI/LLM crawler user-agent substrings.
- * When these bots visit HTML pages, we rewrite them to the .md equivalent
- * so they receive clean, structured markdown content instead of rendered HTML.
- */
-const BOT_UAS = [
-  'GPTBot',
-  'ClaudeBot',
-  'ChatGPT-User',
-  'PerplexityBot',
-  'Google-Extended',
-  'Applebot-Extended',
-  'ora-agent',
-  'DeepSeekBot',
+/** AI agent and bot user-agents to detect for markdown serving */
+const AI_BOT_UA_PATTERNS = [
+  'GPTBot', 'ClaudeBot', 'ChatGPT-User', 'PerplexityBot',
+  'Google-Extended', 'Applebot-Extended', 'ora-agent', 'DeepSeekBot',
+  'anthropic-ai', 'Claude-Web', 'OAI-SearchBot',
 ];
 
 export function middleware(request: NextRequest) {
-  const { pathname, searchParams } = request.nextUrl;
+  const url = request.nextUrl.clone();
+  const rawPathname = url.pathname;
+  const searchParams = url.searchParams;
 
-  // ── 1. ?mode=agent → /api/agent-view ────────────────────────────────────────
-  // Any URL with ?mode=agent is transparently rewritten to the structured JSON
-  // agent-view endpoint regardless of the original path.
+  // 1. ?mode=agent → rewrite to /api/agent-view for structured JSON response
   if (searchParams.get('mode') === 'agent') {
-    const url = request.nextUrl.clone();
-    url.pathname = '/api/agent-view';
-    url.search = '';
-    return NextResponse.rewrite(url);
-  }
-
-  // ── 2. Bot-UA markdown serving ───────────────────────────────────────────────
-  // AI crawlers that send a known bot UA are redirected to the .md equivalent
-  // of the requested page (e.g. /jobs → /jobs.md) when it exists in /public.
   // API routes, Next.js internals, and paths that already have a file extension
   // are excluded so we only touch page-level HTML routes.
   const ua = request.headers.get('user-agent') || '';

@@ -8,6 +8,8 @@ import { getEvents } from '@/lib/events-server';
 
 export const revalidate = 86400;
 
+const MCP_CSP = "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';";
+
 export async function GET() {
   try {
     const filePath = path.join(process.cwd(), 'public', '.well-known', 'mcp', 'server-card.json');
@@ -22,6 +24,7 @@ export async function GET() {
         'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
         'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, MCP-Protocol-Version',
         'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+        'Content-Security-Policy': MCP_CSP,
       },
     });
   } catch {
@@ -36,6 +39,7 @@ export async function OPTIONS() {
       'Access-Control-Allow-Origin': '*',
       'Access-Control-Allow-Methods': 'GET, POST, OPTIONS',
       'Access-Control-Allow-Headers': 'Content-Type, Authorization, Accept, MCP-Protocol-Version',
+      'Content-Security-Policy': MCP_CSP,
     },
   });
 }
@@ -77,6 +81,7 @@ export async function POST(request: Request) {
         'Content-Type': 'application/json',
         'MCP-Protocol-Version': clientVersion,
         'Access-Control-Allow-Origin': '*',
+        'Content-Security-Policy': MCP_CSP,
       },
     });
   }
