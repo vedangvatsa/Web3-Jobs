@@ -1,8 +1,6 @@
 import { ImageResponse } from 'next/og';
 import { NextRequest, NextResponse } from 'next/server';
 
-export const runtime = 'edge';
-
 export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url);
@@ -38,7 +36,7 @@ export async function GET(request: NextRequest) {
 
     // 1. Dedicated Job Posting Template (Light, Crisp, Modern Editorial)
     if (type === 'job') {
-      const displayTitle = title.length > 55 ? `${title.slice(0, 52)}...` : title;
+      const displayTitle = title.length > 52 ? `${title.slice(0, 49)}...` : title;
       const displayCompany = company || 'Web3 Company';
       const displayLocation = location || 'Remote';
 
@@ -115,7 +113,7 @@ export async function GET(request: NextRequest) {
                     color: '#059669',
                   }}
                 >
-                  ✓ Direct ATS Apply
+                  DIRECT ATS APPLICATION
                 </div>
               </div>
 
@@ -138,22 +136,22 @@ export async function GET(request: NextRequest) {
                     color: '#0284c7',
                   }}
                 >
-                  <span>{displayCompany}</span>
-                  <span style={{ color: '#64748b', fontWeight: '500' }}>is hiring</span>
+                  <div style={{ display: 'flex', color: '#0284c7' }}>{displayCompany}</div>
+                  <div style={{ display: 'flex', color: '#64748b', fontWeight: '500' }}>is hiring</div>
                 </div>
 
-                <h1
+                <div
                   style={{
-                    fontSize: displayTitle.length > 35 ? '48px' : '56px',
+                    display: 'flex',
+                    fontSize: displayTitle.length > 35 ? '46px' : '54px',
                     fontWeight: '800',
                     color: '#0f172a',
-                    margin: 0,
                     lineHeight: '1.15',
                     letterSpacing: '-1px',
                   }}
                 >
                   {displayTitle}
-                </h1>
+                </div>
               </div>
 
               {/* Meta Badges Row */}
@@ -162,7 +160,6 @@ export async function GET(request: NextRequest) {
                   display: 'flex',
                   alignItems: 'center',
                   gap: '14px',
-                  flexWrap: 'wrap',
                 }}
               >
                 <div
@@ -178,7 +175,7 @@ export async function GET(request: NextRequest) {
                     color: '#334155',
                   }}
                 >
-                  📍 {displayLocation}
+                  Location: {displayLocation}
                 </div>
 
                 {department && (
@@ -195,7 +192,7 @@ export async function GET(request: NextRequest) {
                       color: '#334155',
                     }}
                   >
-                    🏷️ {department}
+                    Team: {department}
                   </div>
                 )}
 
@@ -212,7 +209,7 @@ export async function GET(request: NextRequest) {
                     color: '#334155',
                   }}
                 >
-                  ⚡ Web3 / Blockchain
+                  Category: Web3 / Crypto
                 </div>
               </div>
 
@@ -300,9 +297,10 @@ export async function GET(request: NextRequest) {
               >
                 HASHTAG WEB3
               </div>
-              <h1
+              <div
                 style={{
-                  fontSize: title.length > 35 ? '50px' : '62px',
+                  display: 'flex',
+                  fontSize: title.length > 35 ? '48px' : '58px',
                   fontWeight: '800',
                   color: '#0f172a',
                   marginBottom: '20px',
@@ -312,18 +310,18 @@ export async function GET(request: NextRequest) {
                 }}
               >
                 {title}
-              </h1>
-              <p
+              </div>
+              <div
                 style={{
+                  display: 'flex',
                   fontSize: '24px',
                   color: '#64748b',
                   textAlign: 'center',
-                  margin: 0,
                   fontWeight: '500',
                 }}
               >
                 Web3 Careers • Verified Job Board • Salary Data • {date}
-              </p>
+              </div>
             </div>
           </div>
         ),
@@ -372,8 +370,9 @@ export async function GET(request: NextRequest) {
                   {count}+
                 </div>
               )}
-              <h1
+              <div
                 style={{
+                  display: 'flex',
                   fontSize: '54px',
                   fontWeight: '800',
                   color: '#0f172a',
@@ -383,7 +382,7 @@ export async function GET(request: NextRequest) {
                 }}
               >
                 Live Web3 & Crypto Jobs
-              </h1>
+              </div>
               {salary && (
                 <div
                   style={{
@@ -407,17 +406,17 @@ export async function GET(request: NextRequest) {
                   </div>
                 </div>
               )}
-              <p
+              <div
                 style={{
+                  display: 'flex',
                   fontSize: '24px',
                   color: '#64748b',
                   textAlign: 'center',
-                  margin: 0,
                   fontWeight: '500',
                 }}
               >
                 Remote • Blockchain • DeFi • Smart Contracts • {date}
-              </p>
+              </div>
             </div>
           </div>
         ),
@@ -472,19 +471,19 @@ export async function GET(request: NextRequest) {
                     {category}
                   </div>
                 )}
-                <h1
+                <div
                   style={{
-                    fontSize: title.length > 55 ? '46px' : '54px',
+                    display: 'flex',
+                    fontSize: title.length > 55 ? '44px' : '52px',
                     fontWeight: '800',
                     color: '#0f172a',
                     lineHeight: '1.2',
                     maxWidth: '1020px',
                     letterSpacing: '-1px',
-                    margin: 0,
                   }}
                 >
                   {title}
-                </h1>
+                </div>
               </div>
 
               <div
@@ -554,9 +553,10 @@ export async function GET(request: NextRequest) {
                 textAlign: 'center',
               }}
             >
-              <h1
+              <div
                 style={{
-                  fontSize: safeTitle.length > 24 ? '52px' : '62px',
+                  display: 'flex',
+                  fontSize: safeTitle.length > 24 ? '50px' : '60px',
                   fontWeight: '800',
                   color: '#0f172a',
                   marginBottom: '16px',
@@ -566,10 +566,11 @@ export async function GET(request: NextRequest) {
                 }}
               >
                 {safeTitle}
-              </h1>
+              </div>
               {safeCount && (
                 <div
                   style={{
+                    display: 'flex',
                     fontSize: '32px',
                     fontWeight: '700',
                     color: '#0284c7',
@@ -580,17 +581,17 @@ export async function GET(request: NextRequest) {
                   {safeCount} Open Positions
                 </div>
               )}
-              <p
+              <div
                 style={{
+                  display: 'flex',
                   fontSize: '24px',
                   color: '#64748b',
                   textAlign: 'center',
-                  margin: 0,
                   fontWeight: '500',
                 }}
               >
                 Explore Web3 Careers & Ecosystem Roles • {date}
-              </p>
+              </div>
             </div>
           </div>
         ),
