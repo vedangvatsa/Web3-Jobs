@@ -55,7 +55,7 @@
     "location": "Canada",
     "department": "Engineering",
     "active": true,
-    "slug": "frontend852e9"
+    "slug": "frontend90199"
   },
   {
     "id": "be272d1a8474",
@@ -163,7 +163,7 @@
     "location": "Washington Metro Area (WMA)",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "sales50b23"
+    "slug": "sales96030"
   },
   {
     "id": "c32760bb-dc13-4315-a78c-ac553f37fd7d",
@@ -175,7 +175,7 @@
     "location": "New York Office",
     "department": "Growth",
     "active": true,
-    "slug": "esports7fd7d"
+    "slug": "esports1"
   },
   {
     "id": "c0e27616-3370-42c7-9831-ce36efe0feab",
@@ -187,7 +187,7 @@
     "location": "Washington, D.C. - Remote",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "sales0feab"
+    "slug": "sales96029"
   },
   {
     "id": "4729156005",
@@ -235,7 +235,7 @@
     "location": "Corsicana, TX",
     "department": "Operations",
     "active": true,
-    "slug": "supervisor0dc7a"
+    "slug": "supervisor8"
   },
   {
     "id": "4729741005",
@@ -296,7 +296,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "backend7a7a8"
+    "slug": "backend44841"
   },
   {
     "id": "5412779008",
@@ -378,7 +378,7 @@
     "location": "New York, NY (HQ)",
     "department": "Sales",
     "active": true,
-    "slug": "marketing925fd"
+    "slug": "marketing85124"
   },
   {
     "id": "8127182",
@@ -426,7 +426,7 @@
     "location": "United States",
     "department": "G&A",
     "active": true,
-    "slug": "headac5b1"
+    "slug": "head94017"
   },
   {
     "id": "6167363004",
@@ -462,7 +462,7 @@
     "location": "New York",
     "department": "Trading",
     "active": true,
-    "slug": "trader52b44"
+    "slug": "trader89108"
   },
   {
     "id": "8162240",
@@ -606,7 +606,7 @@
     "location": "Singapore, SG",
     "department": "Admin & Asset",
     "active": true,
-    "slug": "front2dca7"
+    "slug": "front1"
   },
   {
     "id": "20860120-81de-487f-9c64-d14cfc6b54d7",
@@ -618,7 +618,7 @@
     "location": "Türkiye, Istanbul",
     "department": "Marketing",
     "active": true,
-    "slug": "communityb54d7"
+    "slug": "community42479"
   },
   {
     "id": "8f4ed1fc-6d54-430a-9af6-79a4fd81c33e",
@@ -630,7 +630,7 @@
     "location": "Shanghai",
     "department": "Payments",
     "active": true,
-    "slug": "product1c33e"
+    "slug": "product81482"
   },
   {
     "id": "4c8c7040d11401",
@@ -750,7 +750,7 @@
     "location": "United Kingdom, London",
     "department": "Legal & Compliance",
     "active": true,
-    "slug": "compliancef5c19"
+    "slug": "compliance91012"
   },
   {
     "id": "4339926009",
@@ -809,7 +809,7 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "apacclead"
+    "slug": "apac5"
   },
   {
     "id": "forward-deployed-engineer",
@@ -820,7 +820,7 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "engineerineer"
+    "slug": "engineer99453"
   },
   {
     "id": "us-gtm",
@@ -831,7 +831,7 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "ususgtm"
+    "slug": "us82009"
   },
   {
     "id": "head-of-us",
@@ -842,7 +842,7 @@
     "dateVerified": false,
     "source": "FirstParty: Ethereum Institutional [ethereum-institutional-careers]",
     "active": true,
-    "slug": "headdofus"
+    "slug": "head94016"
   },
   {
     "id": "04.07E",
@@ -854,7 +854,7 @@
     "location": "Tel Aviv District",
     "department": "CF Group",
     "active": true,
-    "slug": "manager0407e"
+    "slug": "manager96053"
   },
   {
     "id": "4951483101",
@@ -986,7 +986,7 @@
     "location": "Seattle",
     "department": "Engineering",
     "active": true,
-    "slug": "manager88e23"
+    "slug": "manager96052"
   },
   {
     "id": "3b10fa2d-64c6-4e39-ade1-06c5498819d6",
@@ -998,7 +998,7 @@
     "location": "Seattle",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer819d6"
+    "slug": "engineer99452"
   },
   {
     "id": "642da69d-f5a8-4565-ba07-a611434fe075",
@@ -1022,7 +1022,7 @@
     "location": "United States",
     "department": "G&A",
     "active": true,
-    "slug": "associate8c513"
+    "slug": "associate83105"
   },
   {
     "id": "D404ECA98D",
@@ -1034,7 +1034,7 @@
     "location": "Georgia / Serbia / Armenia / Cyprus",
     "department": [],
     "active": true,
-    "slug": "writerca98d"
+    "slug": "writer5"
   },
   {
     "id": "A6F7D2584C",
@@ -1046,7 +1046,7 @@
     "location": "Georgia / Serbia / Cyprus / Armenia",
     "department": [],
     "active": true,
-    "slug": "seo2584c"
+    "slug": "seo2"
   },
   {
     "id": "JR101125",
@@ -1153,7 +1153,7 @@
     "location": "Chile",
     "department": "Product",
     "active": true,
-    "slug": "product1398f"
+    "slug": "product81481"
   },
   {
     "id": "8130930",
@@ -1201,7 +1201,7 @@
     "location": "North America",
     "department": "Sales",
     "active": true,
-    "slug": "salesec11c"
+    "slug": "sales96028"
   },
   {
     "id": "8128745",
@@ -1225,7 +1225,7 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer4c2d5"
+    "slug": "engineer99451"
   },
   {
     "id": "7c027757-24d8-49f4-90c1-ca3696d244a5",
@@ -1237,7 +1237,7 @@
     "location": "New York, NY (HQ)",
     "department": "Data",
     "active": true,
-    "slug": "economist244a5"
+    "slug": "economist1"
   },
   {
     "id": "8133116",
@@ -1261,7 +1261,7 @@
     "location": "San Francisco, CA",
     "department": "R&D",
     "active": true,
-    "slug": "fullstackc72eb"
+    "slug": "fullstack68016"
   },
   {
     "id": "8168151",
@@ -1321,7 +1321,7 @@
     "location": "USA (Remote)",
     "department": "Engineering",
     "active": true,
-    "slug": "securitya911e"
+    "slug": "security95018"
   },
   {
     "id": "8167666",
@@ -1369,7 +1369,7 @@
     "location": "Washington Metro Area (WMA)",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "systems1b22c"
+    "slug": "systems2"
   },
   {
     "id": "b0ce7a35-3cb3-4b0f-9446-ac4ec8da2994",
@@ -1393,7 +1393,7 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "manager30b23"
+    "slug": "manager96051"
   },
   {
     "id": "8167571",
@@ -1417,7 +1417,7 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "engineere3ac7"
+    "slug": "engineer99450"
   },
   {
     "id": "5fe49c1e-e380-4650-9966-11dd7ab90dd6",
@@ -1429,7 +1429,7 @@
     "location": "San Francisco HQ",
     "department": "Sales",
     "active": true,
-    "slug": "sales90dd6"
+    "slug": "sales96027"
   },
   {
     "id": "5406251008",
@@ -1489,7 +1489,7 @@
     "location": "Palo Alto",
     "department": "GTM",
     "active": true,
-    "slug": "gtm754bc"
+    "slug": "gtm6"
   },
   {
     "id": "8130913",
@@ -1549,7 +1549,7 @@
     "location": "New York",
     "department": "Product",
     "active": true,
-    "slug": "product7adae"
+    "slug": "product81480"
   },
   {
     "id": "4964169101",
@@ -1573,7 +1573,7 @@
     "location": "Poland",
     "department": "Engineering",
     "active": true,
-    "slug": "frontend4d3c4"
+    "slug": "frontend90198"
   },
   {
     "id": "24f29060-8af5-400e-ba4c-14d656e42339",
@@ -1681,7 +1681,7 @@
     "location": "London",
     "department": "Trading",
     "active": true,
-    "slug": "managerec1ad"
+    "slug": "manager96050"
   },
   {
     "id": "d37df443-8e99-40ef-97c6-781b635473cf",
@@ -1693,7 +1693,7 @@
     "location": "United States",
     "department": "Go-To-Market",
     "active": true,
-    "slug": "senior473cf"
+    "slug": "senior85240"
   },
   {
     "id": "6ee5ca6d8912",
@@ -1717,7 +1717,7 @@
     "location": "Romania",
     "department": "Engineering",
     "active": true,
-    "slug": "rust5e683"
+    "slug": "rust94600"
   },
   {
     "id": "8166218",
@@ -1753,7 +1753,7 @@
     "location": "Vietnam",
     "department": "Legal",
     "active": true,
-    "slug": "complianceaf79b"
+    "slug": "compliance91011"
   },
   {
     "id": "77d4c5cf-a604-454f-9e35-79d5ce32c318",
@@ -1765,7 +1765,7 @@
     "location": "Hong Kong",
     "department": "Operations, Strategy & Project Management",
     "active": true,
-    "slug": "product2c318"
+    "slug": "product81479"
   },
   {
     "id": "b600e039-372b-4304-b358-146834478ee1",
@@ -1777,7 +1777,7 @@
     "location": "UAE, Dubai",
     "department": "Legal & Compliance",
     "active": true,
-    "slug": "compliance78ee1"
+    "slug": "compliance91010"
   },
   {
     "id": "41E510E064",
@@ -1813,7 +1813,7 @@
     "source": "BambooHR: Bitcoin.com [bitcoin]",
     "department": "HR, Administrative & Legal",
     "active": true,
-    "slug": "manager44-084n"
+    "slug": "manager96049"
   },
   {
     "id": "d0ffdca1-262a-4006-834f-b71ebe1bf152",
@@ -1837,7 +1837,7 @@
     "location": "New York",
     "department": "Finance",
     "active": true,
-    "slug": "manager880e8"
+    "slug": "manager96048"
   },
   {
     "id": "8164166",
@@ -1909,7 +1909,7 @@
     "location": "New York",
     "department": "Design",
     "active": true,
-    "slug": "operations4d9a9"
+    "slug": "operations91017"
   },
   {
     "id": "9cd88b79-821e-4b99-8448-7beb02f45683",
@@ -1969,7 +1969,7 @@
     "location": "New York, NY (HQ)",
     "department": "People & Talent",
     "active": true,
-    "slug": "frontend088e5"
+    "slug": "frontend90197"
   },
   {
     "id": "5e5c344b-d43d-4250-a729-9f04bc008388",
@@ -1993,7 +1993,7 @@
     "location": "Asia",
     "department": "Operations, Strategy & Project Management",
     "active": true,
-    "slug": "marketf3efd"
+    "slug": "market4"
   },
   {
     "id": "4709413006",
@@ -2029,7 +2029,7 @@
     "location": "Brazil",
     "department": "Account Management",
     "active": true,
-    "slug": "manager672c9"
+    "slug": "manager96047"
   },
   {
     "id": "8165389",
@@ -2077,7 +2077,7 @@
     "location": "New York, New York",
     "department": "Operations",
     "active": true,
-    "slug": "manageraa6fe"
+    "slug": "manager96046"
   },
   {
     "id": "29c015b7-0efa-4193-b920-ffb5d9e388fb",
@@ -2113,7 +2113,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerf66b6"
+    "slug": "engineer99449"
   },
   {
     "id": "8165137",
@@ -2245,7 +2245,7 @@
     "location": "Remote",
     "department": "Compound Planning Wealth Management",
     "active": true,
-    "slug": "senior2d627"
+    "slug": "senior85239"
   },
   {
     "id": "4c9cafd3-0ff5-4497-aa85-4fcc4945247a",
@@ -2257,7 +2257,7 @@
     "location": "United States",
     "department": "Risk & Audit",
     "active": true,
-    "slug": "head5247a"
+    "slug": "head94015"
   },
   {
     "id": "8161567",
@@ -2365,7 +2365,7 @@
     "location": "United States",
     "department": "Growth",
     "active": true,
-    "slug": "product985b6"
+    "slug": "product81478"
   },
   {
     "id": "5c998ab3-7e82-4087-b62a-53320e6a87bc",
@@ -2389,7 +2389,7 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "backend4cb96"
+    "slug": "backend44840"
   },
   {
     "id": "4e96d021-ff99-4cc5-8075-57051045a3fb",
@@ -2401,7 +2401,7 @@
     "location": "Remote",
     "department": "Operations",
     "active": true,
-    "slug": "manager5a3fb"
+    "slug": "manager96045"
   },
   {
     "id": "8162394",
@@ -2437,7 +2437,7 @@
     "location": "New York, NY (HQ)",
     "department": "Engineering",
     "active": true,
-    "slug": "product9c986"
+    "slug": "product81477"
   },
   {
     "id": "02f31a39-0fd6-46f5-a6c0-c54c9145dd66",
@@ -2449,7 +2449,7 @@
     "location": "Corsicana, TX",
     "department": "Security",
     "active": true,
-    "slug": "supervisor5dd66"
+    "slug": "supervisor7"
   },
   {
     "id": "4d6607f0-81ae-4ff9-a919-a5d4556b2f8c",
@@ -2461,7 +2461,7 @@
     "location": "México",
     "department": "Operations",
     "active": true,
-    "slug": "managerb2f8c"
+    "slug": "manager96044"
   },
   {
     "id": "205ba70d-dfb0-4c17-8c79-8a24cff4fde0",
@@ -2473,7 +2473,7 @@
     "location": "Chile",
     "department": "Admin",
     "active": true,
-    "slug": "operations4fde0"
+    "slug": "operations91016"
   },
   {
     "id": "a7b55498-adf4-43d4-a1b6-0c97c8794d76",
@@ -2485,7 +2485,7 @@
     "location": "New York",
     "department": "Go-To Market",
     "active": true,
-    "slug": "engineer94d76"
+    "slug": "engineer99448"
   },
   {
     "id": "6162101004",
@@ -2509,7 +2509,7 @@
     "location": "New York",
     "department": "Go-To Market",
     "active": true,
-    "slug": "sales07c4b"
+    "slug": "sales96026"
   },
   {
     "id": "363590d9-552e-455a-9663-124a2990a3ea",
@@ -2521,7 +2521,7 @@
     "location": "London",
     "department": "Go-To Market",
     "active": true,
-    "slug": "sales0a3ea"
+    "slug": "sales96025"
   },
   {
     "id": "655962db-5fbe-40cc-a072-9522295b3cbc",
@@ -2533,7 +2533,7 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "productb3cbc"
+    "slug": "product81476"
   },
   {
     "id": "b6994b6a-0b46-4311-b0f6-3b71d9b5ded9",
@@ -2545,7 +2545,7 @@
     "location": "United Kingdom",
     "department": "G&A",
     "active": true,
-    "slug": "frontend5ded9"
+    "slug": "frontend90196"
   },
   {
     "id": "05e0bd56-3b47-41b8-85fe-b883c1b62d2d",
@@ -2557,7 +2557,7 @@
     "location": "United States",
     "department": "G&A",
     "active": true,
-    "slug": "frontend62d2d"
+    "slug": "frontend90195"
   },
   {
     "id": "db512ca0-9109-490d-b08a-38a6311b74e6",
@@ -2569,7 +2569,7 @@
     "location": "United States",
     "department": "G&A",
     "active": true,
-    "slug": "frontendb74e6"
+    "slug": "frontend90194"
   },
   {
     "id": "70d863e8-99a2-4026-b4ff-5700a1889cb9",
@@ -2787,7 +2787,7 @@
       "Strategy"
     ],
     "active": true,
-    "slug": "marketingd74b2"
+    "slug": "marketing85123"
   },
   {
     "id": "45",
@@ -2799,7 +2799,7 @@
     "location": "Malta, Malta, Malta",
     "department": "Media Sales",
     "active": true,
-    "slug": "analyst45-08en"
+    "slug": "analyst74213"
   },
   {
     "id": "8162911",
@@ -2823,7 +2823,7 @@
     "location": "North America",
     "department": "Talent and People",
     "active": true,
-    "slug": "frontend75e29"
+    "slug": "frontend90193"
   },
   {
     "id": "8163432",
@@ -2883,7 +2883,7 @@
     "location": "San Jose, CA",
     "department": "AI Cloud",
     "active": true,
-    "slug": "engineeraf4fd"
+    "slug": "engineer99447"
   },
   {
     "id": "b5310240ef04",
@@ -2895,7 +2895,7 @@
     "location": "San Jose, CA",
     "department": "AI Cloud",
     "active": true,
-    "slug": "engineer0ef04"
+    "slug": "engineer99446"
   },
   {
     "id": "5408942008",
@@ -2919,7 +2919,7 @@
     "location": "San Jose, CA",
     "department": "AI Cloud",
     "active": true,
-    "slug": "engineer400cd"
+    "slug": "engineer99445"
   },
   {
     "id": "69cb68c93726",
@@ -3039,7 +3039,7 @@
     "location": "New York, NY (HQ)",
     "department": "Product",
     "active": true,
-    "slug": "product5c2e8"
+    "slug": "product81475"
   },
   {
     "id": "c94013d36582",
@@ -3111,7 +3111,7 @@
     "location": "New York",
     "department": "Sales",
     "active": true,
-    "slug": "operations560a6"
+    "slug": "operations91015"
   },
   {
     "id": "8160754",
@@ -3135,7 +3135,7 @@
     "location": "San Francisco, CA",
     "department": "G&A",
     "active": true,
-    "slug": "frontend743d9"
+    "slug": "frontend90192"
   },
   {
     "id": "5406139008",
@@ -3195,7 +3195,7 @@
     "location": "Asia",
     "department": "Finance & Administration",
     "active": true,
-    "slug": "manager6c45a"
+    "slug": "manager96043"
   },
   {
     "id": "ab6d60e9-d14c-417e-89c9-515468f2c74e",
@@ -3207,7 +3207,7 @@
     "location": "Singapore Office",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "recruiting2c74e"
+    "slug": "recruiting54276"
   },
   {
     "id": "67a87540-17c1-4025-ab35-62f55cd92a36",
@@ -3219,7 +3219,7 @@
     "location": "London Office",
     "department": "Sales",
     "active": true,
-    "slug": "marketing92a36"
+    "slug": "marketing85122"
   },
   {
     "id": "5398149008",
@@ -3363,7 +3363,7 @@
     "location": "Remote - Global",
     "department": "Marketing",
     "active": true,
-    "slug": "product80c01"
+    "slug": "product81474"
   },
   {
     "id": "c7c6097e-0ceb-4337-a846-29fd5ede3ed7",
@@ -3375,7 +3375,7 @@
     "location": "Dubai, United Arab Emirates",
     "department": "Account Management",
     "active": true,
-    "slug": "managere3ed7"
+    "slug": "manager96042"
   },
   {
     "id": "8147669",
@@ -3459,7 +3459,7 @@
     "location": "New York, NY",
     "department": "Marketing",
     "active": true,
-    "slug": "video7144f"
+    "slug": "video3"
   },
   {
     "id": "43fe5065-a743-4dad-b263-31b923461e7f",
@@ -3471,7 +3471,7 @@
     "location": "Remote - US",
     "department": "Marketing",
     "active": true,
-    "slug": "video61e7f"
+    "slug": "video2"
   },
   {
     "id": "2ada5f40-2cad-493a-bba3-6d1640387edc",
@@ -3483,7 +3483,7 @@
     "location": "Remote Americas + Europe",
     "department": "Marketing",
     "active": true,
-    "slug": "video87edc"
+    "slug": "video1"
   },
   {
     "id": "65afb10c-1d7b-4d6f-b6a3-377c3efb4d8a",
@@ -3507,7 +3507,7 @@
     "location": "Aarhus Office",
     "department": "R&D",
     "active": true,
-    "slug": "engineer2f1c4"
+    "slug": "engineer99444"
   },
   {
     "id": "4A.56F",
@@ -3543,7 +3543,7 @@
     "location": "Remote - Global",
     "department": "Marketing",
     "active": true,
-    "slug": "devreld61cd"
+    "slug": "devrel69104"
   },
   {
     "id": "8144996",
@@ -3651,7 +3651,7 @@
     "location": "Remote",
     "department": "Solutions Engineering",
     "active": true,
-    "slug": "solutions157ec"
+    "slug": "solutions82493"
   },
   {
     "id": "230fa1b8-ed76-4127-b7a5-0ab7c7621dfe",
@@ -3663,7 +3663,7 @@
     "location": "Remote - US",
     "department": "Operations",
     "active": true,
-    "slug": "compliance21dfe"
+    "slug": "compliance91009"
   },
   {
     "id": "86d6876a-271c-4eb5-846b-e1bff56d7b46",
@@ -3675,7 +3675,7 @@
     "location": "London",
     "department": "Customer Success",
     "active": true,
-    "slug": "managerd7b46"
+    "slug": "manager96041"
   },
   {
     "id": "97e8afe6-3a21-4b1f-9a34-3490b0e59c7f",
@@ -3687,7 +3687,7 @@
     "location": "New York",
     "department": "Customer Success",
     "active": true,
-    "slug": "manager59c7f"
+    "slug": "manager96040"
   },
   {
     "id": "f7eb02d3-c85b-4b7b-924a-ffe500b5169e",
@@ -3699,7 +3699,7 @@
     "location": "Remote - US",
     "department": "Operations",
     "active": true,
-    "slug": "director5169e"
+    "slug": "director96009"
   },
   {
     "id": "8549f0db-fb5b-4db3-bebd-750d50627447",
@@ -3759,7 +3759,7 @@
     "location": "San Francisco",
     "department": "Product",
     "active": true,
-    "slug": "producte19fd"
+    "slug": "product81473"
   },
   {
     "id": "fc162906-baf9-4eba-a684-a9bbff2b5cd8",
@@ -3771,7 +3771,7 @@
     "location": "San Francisco",
     "department": "Product",
     "active": true,
-    "slug": "productb5cd8"
+    "slug": "product81472"
   },
   {
     "id": "bfad4802-8b26-460c-a09b-298f259dd3e1",
@@ -3798,7 +3798,7 @@
       "Assurance"
     ],
     "active": true,
-    "slug": "securitycc4bc"
+    "slug": "security95017"
   },
   {
     "id": "JR101123",
@@ -3855,7 +3855,7 @@
     "location": "San Francisco",
     "department": "Product",
     "active": true,
-    "slug": "productddb2d"
+    "slug": "product81471"
   },
   {
     "id": "c6298ed5-978b-49ea-8cec-ce90f275d540",
@@ -3867,7 +3867,7 @@
     "location": "Canada",
     "department": "Business Expansion",
     "active": true,
-    "slug": "product5d540"
+    "slug": "product81470"
   },
   {
     "id": "472473f8-41f0-4525-b827-b5561bf5ff0a",
@@ -3879,7 +3879,7 @@
     "location": "North America",
     "department": "Account Management",
     "active": true,
-    "slug": "manager5ff0a"
+    "slug": "manager96039"
   },
   {
     "id": "a7a0a825-eb3a-4c0a-8239-6d22c1afcf45",
@@ -3903,7 +3903,7 @@
     "location": "Brazil, Sao Paulo",
     "department": "Customer Support",
     "active": true,
-    "slug": "institutional712bf"
+    "slug": "institutional1"
   },
   {
     "id": "d64609dd-c391-45a2-bfdb-c1bb34e8f93c",
@@ -4119,7 +4119,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "member21ffe"
+    "slug": "member60193"
   },
   {
     "id": "ec9f10bd-3b8c-4824-981e-cd2eedf8c789",
@@ -4131,7 +4131,7 @@
     "location": "Asia",
     "department": "Finance & Administration",
     "active": true,
-    "slug": "head8c789"
+    "slug": "head94014"
   },
   {
     "id": "870d0c76-5755-422a-834b-b8fe22278c75",
@@ -4431,7 +4431,7 @@
     "location": "San Francisco, California",
     "department": "Marketing",
     "active": true,
-    "slug": "marketinga77c9"
+    "slug": "marketing85121"
   },
   {
     "id": "1bb5dfc0-d668-4b86-8f03-f1552e7a692e",
@@ -5055,7 +5055,7 @@
     "location": "United States",
     "department": "Security",
     "active": true,
-    "slug": "compliance7e38e"
+    "slug": "compliance91008"
   },
   {
     "id": "550AE1666F",
@@ -5158,7 +5158,7 @@
     "location": "New York",
     "department": "Design",
     "active": true,
-    "slug": "designerd5f89"
+    "slug": "designer30918"
   },
   {
     "id": "4382521009",
@@ -5470,7 +5470,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "GTM",
     "active": true,
-    "slug": "gtm7c687"
+    "slug": "gtm5"
   },
   {
     "id": "bf5d849a-d0da-41a9-be66-eac9d0a416af",
@@ -5602,7 +5602,7 @@
     "location": "Argentina",
     "department": "Client Services",
     "active": true,
-    "slug": "client0f0be"
+    "slug": "client57005"
   },
   {
     "id": "8107315",
@@ -5638,7 +5638,7 @@
     "location": "New York Office",
     "department": "Kalshi Prime",
     "active": true,
-    "slug": "risk7e21b"
+    "slug": "risk5"
   },
   {
     "id": "b98aa9016f2d",
@@ -6154,7 +6154,7 @@
     "location": "Taiwan, Taipei",
     "department": "Product & Design",
     "active": true,
-    "slug": "product70b21"
+    "slug": "product81469"
   },
   {
     "id": "E1.C61",
@@ -6470,7 +6470,7 @@
     "location": "Brasil",
     "department": "Sales",
     "active": true,
-    "slug": "producta3eb2"
+    "slug": "product81468"
   },
   {
     "id": "8154987",
@@ -6746,7 +6746,7 @@
     "location": "United States",
     "department": "Growth",
     "active": true,
-    "slug": "product5e47d"
+    "slug": "product81467"
   },
   {
     "id": "8144202",
@@ -6794,7 +6794,7 @@
     "location": "Remote",
     "department": "Growth",
     "active": true,
-    "slug": "manager88c84"
+    "slug": "manager96038"
   },
   {
     "id": "519f64a9-c56b-45ea-ad91-bf124925b1ad",
@@ -6806,7 +6806,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "forward5b1ad"
+    "slug": "forward2"
   },
   {
     "id": "3b91b8f5-e50a-4a41-ac15-3639dc196b6c",
@@ -7156,7 +7156,7 @@
       "Operations"
     ],
     "active": true,
-    "slug": "bilingual5307e"
+    "slug": "bilingual1"
   },
   {
     "id": "4958625101",
@@ -7889,7 +7889,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "senior73a6f"
+    "slug": "senior85238"
   },
   {
     "id": "fd3a3499-1410-4db8-9cd7-1ad1d0f6cba7",
@@ -7902,7 +7902,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "developer6cba7"
+    "slug": "developer74007"
   },
   {
     "id": "8130377",
@@ -8165,7 +8165,7 @@
     "location": "San Francisco",
     "department": "Product",
     "active": true,
-    "slug": "product81fb8"
+    "slug": "product81466"
   },
   {
     "id": "8142118",
@@ -8429,7 +8429,7 @@
     "location": "New York Office",
     "department": "Growth",
     "active": true,
-    "slug": "marketing96e15"
+    "slug": "marketing85120"
   },
   {
     "id": "5023197008",
@@ -8465,7 +8465,7 @@
     "location": "Corsicana, TX",
     "department": "IT Support",
     "active": true,
-    "slug": "it2b137"
+    "slug": "it64509"
   },
   {
     "id": "3cffcb87-7680-4293-8811-e9cbb93e16ec",
@@ -9049,7 +9049,7 @@
     "location": "Houston, TX",
     "department": "IT Support",
     "active": true,
-    "slug": "it7b61e"
+    "slug": "it64508"
   },
   {
     "id": "5396424008",
@@ -9073,7 +9073,7 @@
     "location": "Denver, CO",
     "department": "IT Support",
     "active": true,
-    "slug": "it0881f"
+    "slug": "it64507"
   },
   {
     "id": "8142058",
@@ -9121,7 +9121,7 @@
     "location": "Austin, TX",
     "department": "IT Support",
     "active": true,
-    "slug": "it5c5c4"
+    "slug": "it64506"
   },
   {
     "id": "fb9a1183-3932-4a5f-83e7-65eac64da966",
@@ -9710,7 +9710,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "frontendc83ef"
+    "slug": "frontend90191"
   },
   {
     "id": "236d69b9-89c1-4a75-ada8-4896fb75b1a0",
@@ -9723,7 +9723,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "fullstack5b1a0"
+    "slug": "fullstack68015"
   },
   {
     "id": "4da499b4-b722-4689-b9d6-b78082ad0d0c",
@@ -9736,7 +9736,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "devopsd0d0c"
+    "slug": "devops75741"
   },
   {
     "id": "bf012429-3399-482d-80ad-0fb398575510",
@@ -9967,7 +9967,7 @@
       "People"
     ],
     "active": true,
-    "slug": "customer1fc8d"
+    "slug": "customer74752"
   },
   {
     "id": "535FBE8992",
@@ -10025,7 +10025,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager328-0bz5"
+    "slug": "manager96037"
   },
   {
     "id": "dafebaed-af62-44fe-a8fe-8ae120ca08c6",
@@ -10133,7 +10133,7 @@
     "location": "Sunnyvale",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerc4b2f"
+    "slug": "engineer99443"
   },
   {
     "id": "8139998",
@@ -10277,7 +10277,7 @@
     "location": "New York Office",
     "department": "Creative",
     "active": true,
-    "slug": "designer8601e"
+    "slug": "designer30917"
   },
   {
     "id": "4703919006",
@@ -10397,7 +10397,7 @@
     "location": "New York Office",
     "department": "Finance",
     "active": true,
-    "slug": "fpe3cd6"
+    "slug": "fp2"
   },
   {
     "id": "8080454",
@@ -10817,7 +10817,7 @@
     "location": "United Kingdom",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "engineera14ba"
+    "slug": "engineer99442"
   },
   {
     "id": "bf7e55d0-910c-4376-9bb2-cc9c21b87599",
@@ -10865,7 +10865,7 @@
     "location": "San Francisco HQ",
     "department": "Growth",
     "active": true,
-    "slug": "videographer11c3d"
+    "slug": "videographer1"
   },
   {
     "id": "8137997",
@@ -10950,7 +10950,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "engineera20ec"
+    "slug": "engineer99441"
   },
   {
     "id": "d112e63b-fa88-4fb5-ad50-a7be350220ac",
@@ -10963,7 +10963,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "backend220ac"
+    "slug": "backend44839"
   },
   {
     "id": "8125729",
@@ -11465,7 +11465,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "product327-0fl0"
+    "slug": "product81465"
   },
   {
     "id": "ae3d6863-aa22-4f06-8067-6b509e0b3513",
@@ -11574,7 +11574,7 @@
     "location": "Remote",
     "department": "Revenue",
     "active": true,
-    "slug": "productbc2d0"
+    "slug": "product81464"
   },
   {
     "id": "8131316",
@@ -11598,7 +11598,7 @@
     "location": "West Coast - US",
     "department": "Client Services",
     "active": true,
-    "slug": "operations0cf97"
+    "slug": "operations91014"
   },
   {
     "id": "13c60807-2945-42cb-8deb-44463aaa6541",
@@ -11850,7 +11850,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Operations",
     "active": true,
-    "slug": "associatea821f"
+    "slug": "associate83104"
   },
   {
     "id": "1ddd1eb8-9b2d-4f2a-9e70-4f76bb764e7f",
@@ -11922,7 +11922,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Operations",
     "active": true,
-    "slug": "frontend9e13e"
+    "slug": "frontend90190"
   },
   {
     "id": "08b29fa6-eb90-4aac-b28a-8ef6a46edc15",
@@ -12018,7 +12018,7 @@
     "location": "New York Office",
     "department": "Finance",
     "active": true,
-    "slug": "manager3aad6"
+    "slug": "manager96036"
   },
   {
     "id": "8130052",
@@ -12320,7 +12320,7 @@
       "Go-To-Market"
     ],
     "active": true,
-    "slug": "devrelc8aa4"
+    "slug": "devrel69103"
   },
   {
     "id": "CF0B0502F4",
@@ -12587,7 +12587,7 @@
     "location": "Denver",
     "department": "Locution Systems",
     "active": true,
-    "slug": "sales062c0"
+    "slug": "sales96024"
   },
   {
     "id": "8128496",
@@ -12623,7 +12623,7 @@
     "location": "London, England, United Kingdom",
     "department": "Trading Desk Operations",
     "active": true,
-    "slug": "engineer80002-17s3"
+    "slug": "engineer99440"
   },
   {
     "id": "59164dea-9e53-4ad8-96bf-2a63c4f72fd8",
@@ -12839,7 +12839,7 @@
     "location": "New York",
     "department": "Customer Success",
     "active": true,
-    "slug": "manager8a75d"
+    "slug": "manager96035"
   },
   {
     "id": "8127942",
@@ -13737,7 +13737,7 @@
     "location": "Fort Collins, CO",
     "department": "Switchboard",
     "active": true,
-    "slug": "treasury9a836"
+    "slug": "treasury7"
   },
   {
     "id": "5668a8e5-bfe5-412b-ae2a-5ea6d45f5898",
@@ -13833,7 +13833,7 @@
     "location": "San Francisco",
     "department": "GTM",
     "active": true,
-    "slug": "operations5eb1f"
+    "slug": "operations91013"
   },
   {
     "id": "8114730",
@@ -14397,7 +14397,7 @@
     "location": "Prague",
     "department": "Invity",
     "active": true,
-    "slug": "product61ddc"
+    "slug": "product81463"
   },
   {
     "id": "8124224",
@@ -14612,7 +14612,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Operations",
     "active": true,
-    "slug": "productcde1d"
+    "slug": "product81462"
   },
   {
     "id": "5386903008",
@@ -14756,7 +14756,7 @@
     "location": "Linthicum, MD",
     "department": "Open Technology Solutions",
     "active": true,
-    "slug": "managerce99c"
+    "slug": "manager96034"
   },
   {
     "id": "5386465008",
@@ -15164,7 +15164,7 @@
     "location": "New York Office",
     "department": "Compliance",
     "active": true,
-    "slug": "compliance8ebbf"
+    "slug": "compliance91007"
   },
   {
     "id": "ade55053-5f78-4499-ba27-2785633b0297",
@@ -15597,7 +15597,7 @@
     "location": "San Francisco",
     "department": "Finance / Operations",
     "active": true,
-    "slug": "recruitingf5b6d"
+    "slug": "recruiting54275"
   },
   {
     "id": "8120028",
@@ -15825,7 +15825,7 @@
     "location": "Brasil",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer9dfaf"
+    "slug": "engineer99439"
   },
   {
     "id": "814940c7-494b-4a5f-97d0-7b648fe6a811",
@@ -15837,7 +15837,7 @@
     "location": "México",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer6a811"
+    "slug": "engineer99438"
   },
   {
     "id": "397cb2c1-c989-4050-8507-81d2e0fae360",
@@ -17376,7 +17376,7 @@
     "location": "Remote - US",
     "department": "Sales",
     "active": true,
-    "slug": "sales3dc84"
+    "slug": "sales96023"
   },
   {
     "id": "4939209101",
@@ -17484,7 +17484,7 @@
     "location": "Asia",
     "department": "Business Development",
     "active": true,
-    "slug": "marketing4e55c"
+    "slug": "marketing85119"
   },
   {
     "id": "4945283101",
@@ -17688,7 +17688,7 @@
     "location": "Sydney",
     "department": "Platform Engineering",
     "active": true,
-    "slug": "engineer7df08"
+    "slug": "engineer99437"
   },
   {
     "id": "4938122101",
@@ -18538,7 +18538,7 @@
     "location": "Remote (U.S. or Europe)",
     "department": "Research",
     "active": true,
-    "slug": "engineer9547c"
+    "slug": "engineer99436"
   },
   {
     "id": "a9a62aa1-2825-4dd1-abb1-b3fb27bf1326",
@@ -18586,7 +18586,7 @@
     "location": "Denver",
     "department": "Switchboard",
     "active": true,
-    "slug": "commercial5ebcd"
+    "slug": "commercial16533"
   },
   {
     "id": "66205477-147b-4b25-bf4c-3b69af78a817",
@@ -18598,7 +18598,7 @@
     "location": "México",
     "department": "Sales",
     "active": true,
-    "slug": "sales8a817"
+    "slug": "sales96022"
   },
   {
     "id": "6132329004",
@@ -19008,7 +19008,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "onboardingb8e60"
+    "slug": "onboarding15"
   },
   {
     "id": "7c5d03b5-ce74-45b7-b38d-c46adce58047",
@@ -19450,7 +19450,7 @@
     "location": "Highlands Ranch, CO",
     "department": "Purity Skin Studio",
     "active": true,
-    "slug": "med934fe"
+    "slug": "med1"
   },
   {
     "id": "7799066003",
@@ -19654,7 +19654,7 @@
     "location": "London, England, United Kingdom",
     "department": "IT and Systems Engineering",
     "active": true,
-    "slug": "frontend46002-1fhg"
+    "slug": "frontend90189"
   },
   {
     "id": "6129946004",
@@ -19882,7 +19882,7 @@
     "location": "London",
     "department": "Operations",
     "active": true,
-    "slug": "chieff91e8"
+    "slug": "chief59009"
   },
   {
     "id": "8644530002",
@@ -19945,7 +19945,7 @@
       "Operations"
     ],
     "active": true,
-    "slug": "client307f5"
+    "slug": "client57004"
   },
   {
     "id": "65B3B0E645",
@@ -19957,7 +19957,7 @@
     "location": "South Jakarta, Indonesia",
     "department": null,
     "active": true,
-    "slug": "treasury0e645"
+    "slug": "treasury6"
   },
   {
     "id": "JR101097",
@@ -20420,7 +20420,7 @@
     "location": "Remote",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "manager8af5f"
+    "slug": "manager96033"
   },
   {
     "id": "8660008002",
@@ -20613,7 +20613,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "product8fe9b"
+    "slug": "product81461"
   },
   {
     "id": "4942186101",
@@ -20841,7 +20841,7 @@
     "location": "Remote (U.S. or Europe)",
     "department": "Research",
     "active": true,
-    "slug": "engineer0ba34"
+    "slug": "engineer99435"
   },
   {
     "id": "393e1975-b910-45cd-b835-926cd35fa540",
@@ -21130,7 +21130,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "managera22b4"
+    "slug": "manager96032"
   },
   {
     "id": "8095252",
@@ -21442,7 +21442,7 @@
     "location": "Prescott, AZ",
     "department": "Switchboard",
     "active": true,
-    "slug": "mortgage601e9"
+    "slug": "mortgage2"
   },
   {
     "id": "7489707",
@@ -21662,7 +21662,7 @@
     "location": "Europe",
     "department": "Tax",
     "active": true,
-    "slug": "tram989c4"
+    "slug": "tram2"
   },
   {
     "id": "da63116f-e66a-4a7a-8ad4-c8545a7fc0b2",
@@ -21674,7 +21674,7 @@
     "location": "United States",
     "department": "Tax",
     "active": true,
-    "slug": "tramfc0b2"
+    "slug": "tram1"
   },
   {
     "id": "b8291945-567a-4ed6-8a06-3deab4e18fd7",
@@ -21722,7 +21722,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "GTM",
     "active": true,
-    "slug": "gtmd205c"
+    "slug": "gtm4"
   },
   {
     "id": "29cf276882b0",
@@ -21734,7 +21734,7 @@
     "location": "New York City, NY",
     "department": "",
     "active": true,
-    "slug": "general882b0"
+    "slug": "general5"
   },
   {
     "id": "15eeae2a5416",
@@ -21758,7 +21758,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "manager89e78"
+    "slug": "manager96031"
   },
   {
     "id": "8070701",
@@ -21843,7 +21843,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "devrel094c2"
+    "slug": "devrel69102"
   },
   {
     "id": "23a9fd93-9c62-4793-99ca-f7b3efa11f02",
@@ -21855,7 +21855,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer11f02"
+    "slug": "engineer99434"
   },
   {
     "id": "b959adb4-f73f-4602-9352-83c29a1c21d6",
@@ -22382,7 +22382,7 @@
     "location": "México",
     "department": "Sales",
     "active": true,
-    "slug": "sales193fe"
+    "slug": "sales96021"
   },
   {
     "id": "8092411",
@@ -22694,7 +22694,7 @@
     "location": "Asia",
     "department": "Marketing",
     "active": true,
-    "slug": "manager801e1"
+    "slug": "manager96030"
   },
   {
     "id": "4699832006",
@@ -22862,7 +22862,7 @@
     "location": "Remote (U.S. or Europe)",
     "department": "Research",
     "active": true,
-    "slug": "engineer0b913"
+    "slug": "engineer99433"
   },
   {
     "id": "8088954",
@@ -22994,7 +22994,7 @@
     "location": "New York Office",
     "department": "People/Talent",
     "active": true,
-    "slug": "frontend9b331"
+    "slug": "frontend90188"
   },
   {
     "id": "6127941004",
@@ -23198,7 +23198,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "security15e28"
+    "slug": "security95016"
   },
   {
     "id": "8081423",
@@ -23385,7 +23385,7 @@
       "Data"
     ],
     "active": true,
-    "slug": "analyst4cfa0"
+    "slug": "analyst74212"
   },
   {
     "id": "CA34CA3226",
@@ -23769,7 +23769,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "productc6f62"
+    "slug": "product81460"
   },
   {
     "id": "4330687009",
@@ -24022,7 +24022,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "marketing596aa"
+    "slug": "marketing85118"
   },
   {
     "id": "8080182",
@@ -24134,7 +24134,7 @@
       "People"
     ],
     "active": true,
-    "slug": "engagement0db92"
+    "slug": "engagement1"
   },
   {
     "id": "8060600",
@@ -24278,7 +24278,7 @@
     "location": "India",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "manager6fdb2"
+    "slug": "manager96029"
   },
   {
     "id": "8081995",
@@ -24374,7 +24374,7 @@
     "location": "Asia",
     "department": "Finance & Administration",
     "active": true,
-    "slug": "apac64a4f"
+    "slug": "apac4"
   },
   {
     "id": "6123378004",
@@ -24398,7 +24398,7 @@
     "location": "Remote",
     "department": "Growth",
     "active": true,
-    "slug": "gtm34c9e"
+    "slug": "gtm3"
   },
   {
     "id": "8035713",
@@ -24709,7 +24709,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Product",
     "active": true,
-    "slug": "marketing44e9e"
+    "slug": "marketing85117"
   },
   {
     "id": "29d85f2c-cf8b-43e2-a3e4-027f6afffc69",
@@ -24817,7 +24817,7 @@
     "location": "Remote",
     "department": "Policy & Business Development",
     "active": true,
-    "slug": "shortc84b5"
+    "slug": "short1"
   },
   {
     "id": "7967890",
@@ -25237,7 +25237,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "qab24d2"
+    "slug": "qa89008"
   },
   {
     "id": "ac0a2ef0-61f8-4440-ab3d-faf0bbb9b584",
@@ -25443,7 +25443,7 @@
     "location": "Remote",
     "department": "Growth",
     "active": true,
-    "slug": "gtm576f9"
+    "slug": "gtm2"
   },
   {
     "id": "6122029004",
@@ -25587,7 +25587,7 @@
     "location": "New York Office",
     "department": "Finance",
     "active": true,
-    "slug": "strategic6d5d2"
+    "slug": "strategic6"
   },
   {
     "id": "9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
@@ -25960,7 +25960,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "rust2cf8d"
+    "slug": "rust94599"
   },
   {
     "id": "83ad6d9d-fa08-4536-a77f-788fbee3fe6f",
@@ -25973,7 +25973,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "engineer3fe6f"
+    "slug": "engineer99432"
   },
   {
     "id": "4933368101",
@@ -26492,7 +26492,7 @@
     "location": "Chile",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerc3eba"
+    "slug": "engineer99431"
   },
   {
     "id": "5191103007",
@@ -26720,7 +26720,7 @@
     "location": "United States",
     "department": "Product Engineering",
     "active": true,
-    "slug": "engineer44002-0cno"
+    "slug": "engineer99430"
   },
   {
     "id": "5191029007",
@@ -27034,7 +27034,7 @@
     "location": "New York Office",
     "department": "Support",
     "active": true,
-    "slug": "operations7cb4c"
+    "slug": "operations91012"
   },
   {
     "id": "7809112003",
@@ -27130,7 +27130,7 @@
     "location": "Los Angeles",
     "department": "Office of the CEO",
     "active": true,
-    "slug": "operationsc48ff"
+    "slug": "operations91011"
   },
   {
     "id": "f509f586-c45d-4c66-8ad1-a09527ab3b03",
@@ -27322,7 +27322,7 @@
     "location": "Fort Collins, CO",
     "department": "Switchboard",
     "active": true,
-    "slug": "personal5ba4c"
+    "slug": "personal1"
   },
   {
     "id": "7932c8ee-d934-4f23-8647-20c775cd75a3",
@@ -27632,7 +27632,7 @@
     "location": "San Francisco",
     "department": "Firmware",
     "active": true,
-    "slug": "mechatronics267ec"
+    "slug": "mechatronics1"
   },
   {
     "id": "5189260007",
@@ -27716,7 +27716,7 @@
     "location": "Highlands Ranch, CO",
     "department": "Purity Skin Studio",
     "active": true,
-    "slug": "nurse70cba"
+    "slug": "nurse1"
   },
   {
     "id": "7955235",
@@ -27812,7 +27812,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Marketing",
     "active": true,
-    "slug": "producta88d8"
+    "slug": "product81459"
   },
   {
     "id": "8069506",
@@ -28004,7 +28004,7 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "marketing0f0ef"
+    "slug": "marketing85116"
   },
   {
     "id": "4928720101",
@@ -28318,7 +28318,7 @@
     "location": "New York",
     "department": "Growth",
     "active": true,
-    "slug": "socials547e9"
+    "slug": "socials1"
   },
   {
     "id": "5243440008",
@@ -28438,7 +28438,7 @@
     "location": "México",
     "department": "Engineering",
     "active": true,
-    "slug": "productdfcfb"
+    "slug": "product81458"
   },
   {
     "id": "5afd4abd-9737-469f-ac3b-50e98e8beecc",
@@ -28450,7 +28450,7 @@
     "location": "Brasil",
     "department": "Engineering",
     "active": true,
-    "slug": "productbeecc"
+    "slug": "product81457"
   },
   {
     "id": "5a8cdbba-8898-4882-b04b-cfe6f26c407c",
@@ -28547,7 +28547,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "backende22d6"
+    "slug": "backend44838"
   },
   {
     "id": "8041655",
@@ -28679,7 +28679,7 @@
     "location": "Pakistan, Islamabad",
     "department": "Marketing",
     "active": true,
-    "slug": "marketingdc97b"
+    "slug": "marketing85115"
   },
   {
     "id": "2677704",
@@ -28837,7 +28837,7 @@
     "location": "United States",
     "department": "Tax",
     "active": true,
-    "slug": "e4a6aa"
+    "slug": "e1"
   },
   {
     "id": "8054481",
@@ -29029,7 +29029,7 @@
     "location": "México",
     "department": "Sales",
     "active": true,
-    "slug": "bdr098ee"
+    "slug": "bdr2"
   },
   {
     "id": "37abda0c-ef4d-4bbe-9fb4-e6cb64c1acbe",
@@ -29162,7 +29162,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "qaa06cd"
+    "slug": "qa89007"
   },
   {
     "id": "8df969be-7840-4404-8183-b5bd03a38aeb",
@@ -29488,7 +29488,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "engineere986f"
+    "slug": "engineer99429"
   },
   {
     "id": "7801774003",
@@ -29560,7 +29560,7 @@
     "location": "New York City",
     "department": "Product",
     "active": true,
-    "slug": "productfd45e"
+    "slug": "product81456"
   },
   {
     "id": "e5eff614-f469-4a08-a0fd-4976200f8c77",
@@ -29812,7 +29812,7 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "frontenddbadf"
+    "slug": "frontend90187"
   },
   {
     "id": "2a028deb-0eac-439b-9921-7f0a5cec42c4",
@@ -29824,7 +29824,7 @@
     "location": "San Francisco",
     "department": "Business",
     "active": true,
-    "slug": "foundingc42c4"
+    "slug": "founding3"
   },
   {
     "id": "7802200003",
@@ -29982,7 +29982,7 @@
     "location": "London",
     "department": "Finance",
     "active": true,
-    "slug": "vpcbc8f"
+    "slug": "vp7"
   },
   {
     "id": "f81395c4-c0f0-47de-8cf1-c857f4bb5c30",
@@ -29994,7 +29994,7 @@
     "location": "London",
     "department": "Finance",
     "active": true,
-    "slug": "headb5c30"
+    "slug": "head94013"
   },
   {
     "id": "6112692004",
@@ -30090,7 +30090,7 @@
     "location": "Los Angeles",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing981d9"
+    "slug": "marketing85114"
   },
   {
     "id": "8055526",
@@ -30269,7 +30269,7 @@
     "location": "Remote",
     "department": "Sales",
     "active": true,
-    "slug": "engineerd17b6"
+    "slug": "engineer99428"
   },
   {
     "id": "5318418008",
@@ -30449,7 +30449,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing091ac"
+    "slug": "marketing85113"
   },
   {
     "id": "00f8b681-2d71-497b-9cde-96785ed0dcdb",
@@ -30461,7 +30461,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing0dcdb"
+    "slug": "marketing85112"
   },
   {
     "id": "4335d9e4-a7b1-4bc8-bd7b-d22079481585",
@@ -30653,7 +30653,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "engineer8fb9b"
+    "slug": "engineer99427"
   },
   {
     "id": "de959cdb-2441-4ce9-a31a-4cc4e50fb8fe",
@@ -30665,7 +30665,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "engineerfb8fe"
+    "slug": "engineer99426"
   },
   {
     "id": "7799585003",
@@ -31036,7 +31036,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "member8a982"
+    "slug": "member60192"
   },
   {
     "id": "26c41d54-f823-4aac-8fdf-4e78fc760184",
@@ -31060,7 +31060,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "member477d4"
+    "slug": "member60191"
   },
   {
     "id": "297d925e-5a42-40bd-b02f-5c928d226f18",
@@ -31072,7 +31072,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "devops26f18"
+    "slug": "devops75740"
   },
   {
     "id": "c074bdd9-bee2-4ee9-ae03-aa8f7537682c",
@@ -31084,7 +31084,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "fullstack7682c"
+    "slug": "fullstack68014"
   },
   {
     "id": "6d77793a-ee30-41ea-9e28-1f3f3eb9ceb9",
@@ -31096,7 +31096,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "member9ceb9"
+    "slug": "member60190"
   },
   {
     "id": "05e4b76b-2570-4c89-baf2-9833fff7378f",
@@ -31108,7 +31108,7 @@
     "location": "San Francisco",
     "department": "Research",
     "active": true,
-    "slug": "devops7378f"
+    "slug": "devops75739"
   },
   {
     "id": "ee13090e-3fea-40f0-b785-19316f52bf08",
@@ -31120,7 +31120,7 @@
     "location": "San Francisco",
     "department": "Research",
     "active": true,
-    "slug": "engineer2bf08"
+    "slug": "engineer99425"
   },
   {
     "id": "8bd52610-175c-42a7-a7cd-b29c45f9d305",
@@ -31132,7 +31132,7 @@
     "location": "San Francisco",
     "department": "Research",
     "active": true,
-    "slug": "engineer9d305"
+    "slug": "engineer99424"
   },
   {
     "id": "b9343f5d-326d-4b01-b6a7-acf56cffe3ac",
@@ -31144,7 +31144,7 @@
     "location": "San Francisco",
     "department": "Others",
     "active": true,
-    "slug": "recruitingfe3ac"
+    "slug": "recruiting54274"
   },
   {
     "id": "486b3511-7128-46f9-93a5-fc1d748d8852",
@@ -31168,7 +31168,7 @@
     "location": "San Francisco",
     "department": "Growth",
     "active": true,
-    "slug": "marketingd64eb"
+    "slug": "marketing85111"
   },
   {
     "id": "4c6ccfd6-6512-4905-979a-6dcc6d64a935",
@@ -31180,7 +31180,7 @@
     "location": "San Francisco",
     "department": "Growth",
     "active": true,
-    "slug": "marketing4a935"
+    "slug": "marketing85110"
   },
   {
     "id": "d523340c-9914-4b86-828a-147c9ada94d3",
@@ -31192,7 +31192,7 @@
     "location": "San Francisco",
     "department": "Compute / Finance",
     "active": true,
-    "slug": "devopsa94d3"
+    "slug": "devops75738"
   },
   {
     "id": "d70f38c9-ae8e-4252-933a-666cb900e3b4",
@@ -31204,7 +31204,7 @@
     "location": "San Francisco",
     "department": "Compute / Finance",
     "active": true,
-    "slug": "devops0e3b4"
+    "slug": "devops75737"
   },
   {
     "id": "0457e19e-927b-41e9-beb4-d6dd3a676b9e",
@@ -31216,7 +31216,7 @@
     "location": "San Francisco",
     "department": "Compute / Finance",
     "active": true,
-    "slug": "head76b9e"
+    "slug": "head94012"
   },
   {
     "id": "5366fc55-df00-4c2c-b389-8850a9393840",
@@ -31240,7 +31240,7 @@
     "location": "San Francisco",
     "department": "Compute / Finance",
     "active": true,
-    "slug": "compute4a0ab"
+    "slug": "compute1"
   },
   {
     "id": "46d9d060-5f48-4491-848f-bafbeb3a4325",
@@ -31264,7 +31264,7 @@
     "location": "San Francisco",
     "department": "Applied Research",
     "active": true,
-    "slug": "applied5a6b3"
+    "slug": "applied4"
   },
   {
     "id": "bbfe94a6-d1a8-47e9-86af-f117277cdacb",
@@ -31276,7 +31276,7 @@
     "location": "New York City, USA",
     "department": "Applied Research",
     "active": true,
-    "slug": "appliedcdacb"
+    "slug": "applied3"
   },
   {
     "id": "fb497090-0336-45b2-b802-9d34d8758d06",
@@ -31288,7 +31288,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "security58d06"
+    "slug": "security95015"
   },
   {
     "id": "657b85c3-2f1a-4015-9692-5bd0389cfe4b",
@@ -31300,7 +31300,7 @@
     "location": "San Francisco",
     "department": "Growth",
     "active": true,
-    "slug": "productcfe4b"
+    "slug": "product81455"
   },
   {
     "id": "a259487d-9599-42e6-ad42-b97a9772f48b",
@@ -31312,7 +31312,7 @@
     "location": "San Francisco",
     "department": "Growth",
     "active": true,
-    "slug": "forward2f48b"
+    "slug": "forward1"
   },
   {
     "id": "baa41536-1408-412a-8c4c-0055434717e6",
@@ -31336,7 +31336,7 @@
     "location": "Chile",
     "department": "Engineering",
     "active": true,
-    "slug": "security992da"
+    "slug": "security95014"
   },
   {
     "id": "a06838e0-053c-4b11-9934-bfa30c95164d",
@@ -31576,7 +31576,7 @@
     "location": "Remote",
     "department": "Operations",
     "active": true,
-    "slug": "compliance3f599"
+    "slug": "compliance91006"
   },
   {
     "id": "8050340",
@@ -31636,7 +31636,7 @@
     "location": "Los Angeles",
     "department": "People",
     "active": true,
-    "slug": "operationsd4a6c"
+    "slug": "operations91010"
   },
   {
     "id": "d5cba59b-9e8c-4693-baa2-1b6ddc7466e0",
@@ -31648,7 +31648,7 @@
     "location": "Los Angeles",
     "department": "Engineering",
     "active": true,
-    "slug": "security466e0"
+    "slug": "security95013"
   },
   {
     "id": "8049976",
@@ -31696,7 +31696,7 @@
     "location": "New York Office",
     "department": "Support",
     "active": true,
-    "slug": "operations5b885"
+    "slug": "operations91009"
   },
   {
     "id": "6081f4cd-d036-445b-b891-0781754a5968",
@@ -32321,7 +32321,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing5b04e"
+    "slug": "marketing85109"
   },
   {
     "id": "8617344002",
@@ -32477,7 +32477,7 @@
     "location": "Hyderabad, India",
     "department": "NOC L2 (Devops/SRE)",
     "active": true,
-    "slug": "engineer46002-07o4"
+    "slug": "engineer99423"
   },
   {
     "id": "0460fea7-f2e2-47c2-b71d-52914f8930c2",
@@ -32489,7 +32489,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "product930c2"
+    "slug": "product81454"
   },
   {
     "id": "8613910002",
@@ -32728,7 +32728,7 @@
     "location": "San Francisco",
     "department": "Hardware",
     "active": true,
-    "slug": "productd210d"
+    "slug": "product81453"
   },
   {
     "id": "8045360",
@@ -32968,7 +32968,7 @@
     "location": "Los Angeles",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerd8f61"
+    "slug": "engineer99422"
   },
   {
     "id": "99e36078-2386-420b-8b82-44d81ee7df16",
@@ -32980,7 +32980,7 @@
     "location": "Los Angeles or San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "backend7df16"
+    "slug": "backend44837"
   },
   {
     "id": "8042723",
@@ -33770,7 +33770,7 @@
     "location": "Corsicana, TX",
     "department": "Safety",
     "active": true,
-    "slug": "ehs7f7ad"
+    "slug": "ehs3"
   },
   {
     "id": "7dd9596d-502e-4ea2-a6cd-c4bb076aa8e5",
@@ -33782,7 +33782,7 @@
     "location": "Los Angeles",
     "department": "Recruiting",
     "active": true,
-    "slug": "frontendaa8e5"
+    "slug": "frontend90186"
   },
   {
     "id": "4289207009",
@@ -33902,7 +33902,7 @@
     "location": "New York Office",
     "department": "Compliance",
     "active": true,
-    "slug": "analyst0b010"
+    "slug": "analyst74211"
   },
   {
     "id": "8039548",
@@ -33974,7 +33974,7 @@
     "location": "United Kingdom",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "managerd4f0d"
+    "slug": "manager96028"
   },
   {
     "id": "8035723",
@@ -34809,7 +34809,7 @@
     "location": "Prague",
     "department": "Tropic Square",
     "active": true,
-    "slug": "lead862bd"
+    "slug": "lead6"
   },
   {
     "id": "f3afe3da-ce80-4ab1-9876-9b92578d6efe",
@@ -35062,7 +35062,7 @@
     "location": "New York Office",
     "department": "Policy & Business Development",
     "active": true,
-    "slug": "associate8729c"
+    "slug": "associate83103"
   },
   {
     "id": "cfcb2581-87c7-4db1-9679-0364eea1e23c",
@@ -35278,7 +35278,7 @@
     "location": "San Francisco HQ",
     "department": "Growth",
     "active": true,
-    "slug": "engineerf640b"
+    "slug": "engineer99421"
   },
   {
     "id": "7738118003",
@@ -35337,7 +35337,7 @@
     "location": "México",
     "department": "Product",
     "active": true,
-    "slug": "product0df44"
+    "slug": "product81452"
   },
   {
     "id": "8020278",
@@ -35397,7 +35397,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "researchd410f"
+    "slug": "research9103"
   },
   {
     "id": "7785523003",
@@ -35613,7 +35613,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "frontend930c5"
+    "slug": "frontend90185"
   },
   {
     "id": "8027506",
@@ -35661,7 +35661,7 @@
     "location": "New York Office",
     "department": "Product",
     "active": true,
-    "slug": "frontendbd7f5"
+    "slug": "frontend90184"
   },
   {
     "id": "7994063",
@@ -35793,7 +35793,7 @@
     "location": "New York Office",
     "department": "Product",
     "active": true,
-    "slug": "producta7fa9"
+    "slug": "product81451"
   },
   {
     "id": "4702373005",
@@ -35817,7 +35817,7 @@
     "location": "New York Office",
     "department": "Product",
     "active": true,
-    "slug": "product75b22"
+    "slug": "product81450"
   },
   {
     "id": "8011287",
@@ -35985,7 +35985,7 @@
     "location": "Belgrade/Europe/USA",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer77f58"
+    "slug": "engineer99420"
   },
   {
     "id": "7782668003",
@@ -36118,7 +36118,7 @@
     "location": "Chile",
     "department": "Sales",
     "active": true,
-    "slug": "payment34c31"
+    "slug": "payment4"
   },
   {
     "id": "5183487008",
@@ -36142,7 +36142,7 @@
     "location": "Denver",
     "department": "Switchboard",
     "active": true,
-    "slug": "recruiting75ba4"
+    "slug": "recruiting54273"
   },
   {
     "id": "8604828002",
@@ -36262,7 +36262,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "member794d6"
+    "slug": "member60189"
   },
   {
     "id": "bc715d40-ec81-4d8d-8a5a-92db5227679c",
@@ -36274,7 +36274,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "member7679c"
+    "slug": "member60188"
   },
   {
     "id": "fc674743-e5ca-494f-a06e-92bc5977423f",
@@ -36286,7 +36286,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "member7423f"
+    "slug": "member60187"
   },
   {
     "id": "7781633003",
@@ -36806,7 +36806,7 @@
       "Assurance"
     ],
     "active": true,
-    "slug": "security66d9d"
+    "slug": "security95012"
   },
   {
     "id": "CC933BBD7A",
@@ -36864,7 +36864,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager306-0bez"
+    "slug": "manager96027"
   },
   {
     "id": "7d52b612-c0f7-4534-b3c5-5f6531176bf9",
@@ -36924,7 +36924,7 @@
     "location": "New York Office",
     "department": "Research",
     "active": true,
-    "slug": "traderc078f"
+    "slug": "trader89107"
   },
   {
     "id": "8017607",
@@ -37382,7 +37382,7 @@
     "location": "Remote",
     "department": "Growth",
     "active": true,
-    "slug": "frontend63dd0"
+    "slug": "frontend90183"
   },
   {
     "id": "8013948",
@@ -37514,7 +37514,7 @@
     "location": "Remote",
     "department": "Policy & Business Development",
     "active": true,
-    "slug": "state038cf"
+    "slug": "state1"
   },
   {
     "id": "77578727-0710-43dd-a294-ac3cbb6b52a7",
@@ -37539,7 +37539,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "engineerf0a39"
+    "slug": "engineer99419"
   },
   {
     "id": "7993610",
@@ -37731,7 +37731,7 @@
     "location": "California",
     "department": "Product",
     "active": true,
-    "slug": "product73aed"
+    "slug": "product81449"
   },
   {
     "id": "7777029003",
@@ -38042,7 +38042,7 @@
     "location": "Brasil",
     "department": "Sales",
     "active": true,
-    "slug": "sales601f1"
+    "slug": "sales96020"
   },
   {
     "id": "4898899101",
@@ -38162,7 +38162,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Strategy",
     "active": true,
-    "slug": "strategycb5f6"
+    "slug": "strategy1"
   },
   {
     "id": "JR100837",
@@ -38329,7 +38329,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "channel3ac72"
+    "slug": "channel1"
   },
   {
     "id": "07f23db8-28b1-4916-8209-0cb0e1de3fad",
@@ -38365,7 +38365,7 @@
     "location": "Germany",
     "department": "molecule.xyz",
     "active": true,
-    "slug": "pharmacistcf5f9"
+    "slug": "pharmacist1"
   },
   {
     "id": "443acdb5-b96e-40ff-b3da-e49533651e29",
@@ -38893,7 +38893,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "sales0f41f"
+    "slug": "sales96019"
   },
   {
     "id": "d783f86e-4526-4dfd-80ee-7f40411e8d40",
@@ -38933,7 +38933,7 @@
       "Engineering"
     ],
     "active": true,
-    "slug": "engineerdfdfa"
+    "slug": "engineer99418"
   },
   {
     "id": "08ADBD012C",
@@ -38945,7 +38945,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "securityd012c"
+    "slug": "security95011"
   },
   {
     "id": "304",
@@ -38956,7 +38956,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Finance",
     "active": true,
-    "slug": "manager304-0byz"
+    "slug": "manager96026"
   },
   {
     "id": "5260979008",
@@ -39506,7 +39506,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "marketingf766c"
+    "slug": "marketing85108"
   },
   {
     "id": "21f34bf6-3b14-44ee-9ab0-adfef9235e28",
@@ -39518,7 +39518,7 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "product35e28"
+    "slug": "product81448"
   },
   {
     "id": "8000052",
@@ -39700,7 +39700,7 @@
     "location": "South Jakarta, Indonesia",
     "department": null,
     "active": true,
-    "slug": "compliance2038b"
+    "slug": "compliance91005"
   },
   {
     "id": "JR100970",
@@ -40023,7 +40023,7 @@
     "location": "United Kingdom",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "sales45d57"
+    "slug": "sales96018"
   },
   {
     "id": "7739592",
@@ -40287,7 +40287,7 @@
     "location": "San Francisco",
     "department": "Business",
     "active": true,
-    "slug": "foundingef1fc"
+    "slug": "founding2"
   },
   {
     "id": "e98b2c54-2baa-4bc5-8bd8-eb5b1b35b910",
@@ -40325,7 +40325,7 @@
     "location": "South Jakarta, Indonesia",
     "department": [],
     "active": true,
-    "slug": "operations6ed6c"
+    "slug": "operations91008"
   },
   {
     "id": "6017789004",
@@ -40397,7 +40397,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "manager6ce03"
+    "slug": "manager96025"
   },
   {
     "id": "7961318",
@@ -40469,7 +40469,7 @@
     "location": "New York",
     "department": "Growth",
     "active": true,
-    "slug": "producte46fd"
+    "slug": "product81447"
   },
   {
     "id": "8c0312f2-4594-4dd6-94af-2458c94d22e5",
@@ -40481,7 +40481,7 @@
     "location": "New York",
     "department": "Growth",
     "active": true,
-    "slug": "headd22e5"
+    "slug": "head94011"
   },
   {
     "id": "7993151",
@@ -40505,7 +40505,7 @@
     "location": "United States (Remote)",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "tech976af"
+    "slug": "tech4"
   },
   {
     "id": "dd38f633-0a53-40c2-9196-89c82833be72",
@@ -40984,7 +40984,7 @@
     "location": "San Francisco",
     "department": "Software",
     "active": true,
-    "slug": "devopsc26da"
+    "slug": "devops75736"
   },
   {
     "id": "f1b3ca8d-d55f-4159-9a3b-f69ad0d981bc",
@@ -41009,7 +41009,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "engineerf1fc9"
+    "slug": "engineer99417"
   },
   {
     "id": "18b93c68-1bf6-4d72-836f-5854bf6bf9b0",
@@ -41022,7 +41022,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "productbf9b0"
+    "slug": "product81446"
   },
   {
     "id": "3182ac19-31d6-470f-a922-bfa6ce680da8",
@@ -41298,7 +41298,7 @@
     "location": "New York Office",
     "department": "Policy & Business Development",
     "active": true,
-    "slug": "salesbceba"
+    "slug": "sales96017"
   },
   {
     "id": "7975567",
@@ -41418,7 +41418,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "manager937b3"
+    "slug": "manager96024"
   },
   {
     "id": "4876678101",
@@ -41540,7 +41540,7 @@
       "Assurance"
     ],
     "active": true,
-    "slug": "security9a644"
+    "slug": "security95010"
   },
   {
     "id": "3b2a005a-a7df-4380-9533-b775cf4fe8b5",
@@ -41996,7 +41996,7 @@
     "location": "Texas",
     "department": "MARKETING",
     "active": true,
-    "slug": "marketing4db87"
+    "slug": "marketing85107"
   },
   {
     "id": "7978488",
@@ -42690,7 +42690,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "itb866b"
+    "slug": "it64505"
   },
   {
     "id": "5238423008",
@@ -42750,7 +42750,7 @@
     "location": "London",
     "department": "Commercial",
     "active": true,
-    "slug": "salesb4bf6"
+    "slug": "sales96016"
   },
   {
     "id": "7753700003",
@@ -43189,7 +43189,7 @@
     "location": "Denver",
     "department": "Yooz",
     "active": true,
-    "slug": "sales0989d"
+    "slug": "sales96015"
   },
   {
     "id": "fde19ec2-f227-4611-acba-dc5192101b79",
@@ -44176,7 +44176,7 @@
     "location": "New York",
     "department": "Customer Success",
     "active": true,
-    "slug": "manager1a8a1"
+    "slug": "manager96023"
   },
   {
     "id": "6002028004",
@@ -44708,7 +44708,7 @@
     "location": "Anywhere",
     "department": "molecule.xyz",
     "active": true,
-    "slug": "ai91c2c"
+    "slug": "ai8"
   },
   {
     "id": "f599f983-6def-43cc-be31-777d968260ff",
@@ -44876,7 +44876,7 @@
     "location": "San Francisco",
     "department": "Hardware",
     "active": true,
-    "slug": "engineerc44d7"
+    "slug": "engineer99416"
   },
   {
     "id": "fe935559-4209-4736-baa8-6d2478d424ba",
@@ -44888,7 +44888,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "GTM",
     "active": true,
-    "slug": "cloud424ba"
+    "slug": "cloud1"
   },
   {
     "id": "5225694008",
@@ -45354,7 +45354,7 @@
     "location": "Remote",
     "department": "Product",
     "active": true,
-    "slug": "mortgagee55cc"
+    "slug": "mortgage1"
   },
   {
     "id": "80dcf3a6-3429-485a-8f05-81173b1ea52e",
@@ -45414,7 +45414,7 @@
     "location": "Tokyo",
     "department": "Others",
     "active": true,
-    "slug": "associateaecaa"
+    "slug": "associate83102"
   },
   {
     "id": "c7cc7707-7daa-4741-a74f-01868bb69bf9",
@@ -45426,7 +45426,7 @@
     "location": "Tokyo",
     "department": "Others",
     "active": true,
-    "slug": "business69bf9"
+    "slug": "business31005"
   },
   {
     "id": "0557e25a-9141-4259-a289-c080d744d1c7",
@@ -45438,7 +45438,7 @@
     "location": "Tokyo",
     "department": "Others",
     "active": true,
-    "slug": "human4d1c7"
+    "slug": "human1"
   },
   {
     "id": "7736921003",
@@ -45540,7 +45540,7 @@
     "location": "New York, New York",
     "department": "Operations",
     "active": true,
-    "slug": "operations049f6"
+    "slug": "operations91007"
   },
   {
     "id": "cf4ec528-6038-4103-896e-54224a99c352",
@@ -45552,7 +45552,7 @@
     "location": "San Francisco",
     "department": "Business",
     "active": true,
-    "slug": "founding9c352"
+    "slug": "founding1"
   },
   {
     "id": "8552286002",
@@ -45624,7 +45624,7 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "operations4e8a6"
+    "slug": "operations91006"
   },
   {
     "id": "7735190003",
@@ -45648,7 +45648,7 @@
     "location": "San Francisco",
     "department": "Business",
     "active": true,
-    "slug": "sales3c21a"
+    "slug": "sales96014"
   },
   {
     "id": "4867354101",
@@ -45672,7 +45672,7 @@
     "location": "Japan",
     "department": null,
     "active": true,
-    "slug": "manager281-0g17"
+    "slug": "manager96016"
   },
   {
     "id": "279",
@@ -45684,7 +45684,7 @@
     "location": "Nigeria",
     "department": null,
     "active": true,
-    "slug": "manager279-1hrz"
+    "slug": "manager96014"
   },
   {
     "id": "280",
@@ -45696,7 +45696,7 @@
     "location": "Kenya",
     "department": null,
     "active": true,
-    "slug": "manager280-0fr8"
+    "slug": "manager96015"
   },
   {
     "id": "276",
@@ -45732,7 +45732,7 @@
     "location": "United Arab Emirates",
     "department": "Product",
     "active": true,
-    "slug": "product274-1ldu"
+    "slug": "product81445"
   },
   {
     "id": "298",
@@ -45743,7 +45743,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Growth & Marketing",
     "active": true,
-    "slug": "manager298-0jn5"
+    "slug": "manager96022"
   },
   {
     "id": "285",
@@ -45755,7 +45755,7 @@
     "location": "Tanzania",
     "department": null,
     "active": true,
-    "slug": "manager285-0h56"
+    "slug": "manager96020"
   },
   {
     "id": "284",
@@ -45767,7 +45767,7 @@
     "location": "Uganda",
     "department": null,
     "active": true,
-    "slug": "manager284-0gv6"
+    "slug": "manager96019"
   },
   {
     "id": "291",
@@ -45791,7 +45791,7 @@
     "location": "United Arab Emirates",
     "department": null,
     "active": true,
-    "slug": "manager282-0f79"
+    "slug": "manager96017"
   },
   {
     "id": "286",
@@ -45803,7 +45803,7 @@
     "location": "Ghana",
     "department": null,
     "active": true,
-    "slug": "manager286-0gb7"
+    "slug": "manager96021"
   },
   {
     "id": "283",
@@ -45814,7 +45814,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": null,
     "active": true,
-    "slug": "manager283-0fh8"
+    "slug": "manager96018"
   },
   {
     "id": "5221431008",
@@ -46030,7 +46030,7 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "machine75a15"
+    "slug": "machine90003"
   },
   {
     "id": "cf5f8963-d2f2-4a1d-9f82-acbcdbd19a92",
@@ -46042,7 +46042,7 @@
     "location": "New York",
     "department": "Executive Office",
     "active": true,
-    "slug": "security19a92"
+    "slug": "security95009"
   },
   {
     "id": "13365c0b-76dc-4774-b82d-c33d40262063",
@@ -46342,7 +46342,7 @@
     "location": "UAE, Dubai",
     "department": "Marketing",
     "active": true,
-    "slug": "binance4ac08"
+    "slug": "binance18786"
   },
   {
     "id": "f770b6c6-3781-4172-908e-32924531e5b3",
@@ -46354,7 +46354,7 @@
     "location": "Singapore",
     "department": "Research",
     "active": true,
-    "slug": "engineer1e5b3"
+    "slug": "engineer99415"
   },
   {
     "id": "7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
@@ -46366,7 +46366,7 @@
     "location": "Singapore",
     "department": "Research",
     "active": true,
-    "slug": "researchdfb3b"
+    "slug": "research9102"
   },
   {
     "id": "b4cbb19e-8249-4339-8eac-20e3806d7999",
@@ -46774,7 +46774,7 @@
     "location": "London",
     "department": "Commercial",
     "active": true,
-    "slug": "commerciale89e7"
+    "slug": "commercial16532"
   },
   {
     "id": "7912314",
@@ -46858,7 +46858,7 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "bizdevecd7b"
+    "slug": "bizdev1"
   },
   {
     "id": "4863085101",
@@ -47240,7 +47240,7 @@
     "location": "Taipei",
     "department": "Product Management & Product Design",
     "active": true,
-    "slug": "producteb00e"
+    "slug": "product81444"
   },
   {
     "id": "78646c01-bab9-4943-891a-3edb9f77c24d",
@@ -47252,7 +47252,7 @@
     "location": "Sydney",
     "department": "Product Management & Product Design",
     "active": true,
-    "slug": "product7c24d"
+    "slug": "product81443"
   },
   {
     "id": "15f29884-99ab-44dc-836c-a346a20eb488",
@@ -47290,7 +47290,7 @@
       "Engineering"
     ],
     "active": true,
-    "slug": "securityaa8f2"
+    "slug": "security95008"
   },
   {
     "id": "141",
@@ -47324,7 +47324,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "devops7a3e9"
+    "slug": "devops75735"
   },
   {
     "id": "27e619ca-d0d6-4621-9e37-de4b7a08a47b",
@@ -47336,7 +47336,7 @@
     "location": "San Francisco",
     "department": "Software",
     "active": true,
-    "slug": "robotics8a47b"
+    "slug": "robotics1"
   },
   {
     "id": "4861011101",
@@ -47492,7 +47492,7 @@
     "location": "Sofia",
     "department": "Security",
     "active": true,
-    "slug": "securityfe8e2"
+    "slug": "security95007"
   },
   {
     "id": "E0742DFEC2",
@@ -47528,7 +47528,7 @@
     "location": "London",
     "department": "Technology",
     "active": true,
-    "slug": "ex79c9f"
+    "slug": "ex1"
   },
   {
     "id": "d7724d91-fc91-4697-baf3-008de0ee5e37",
@@ -47576,7 +47576,7 @@
     "location": "New York City",
     "department": "Engineering",
     "active": true,
-    "slug": "engineere2b7b"
+    "slug": "engineer99414"
   },
   {
     "id": "7ff2c817-db4b-43c4-8d96-7cb2f0a57f3a",
@@ -47588,7 +47588,7 @@
     "location": "New York City",
     "department": "Engineering",
     "active": true,
-    "slug": "devops57f3a"
+    "slug": "devops75734"
   },
   {
     "id": "5988497004",
@@ -47612,7 +47612,7 @@
     "location": "New York City",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer27afb"
+    "slug": "engineer99413"
   },
   {
     "id": "a1124a16-3dfe-4547-b0e9-90aa402ebfde",
@@ -47878,7 +47878,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "securitydd50f"
+    "slug": "security95006"
   },
   {
     "id": "636ca210-6e1f-481f-bb90-01c6b9c77185",
@@ -47950,7 +47950,7 @@
     "location": "Remote",
     "department": "Sales",
     "active": true,
-    "slug": "sales1a50f"
+    "slug": "sales96013"
   },
   {
     "id": "8527761002",
@@ -48178,7 +48178,7 @@
     "location": "Remote - Europe Timezone",
     "department": "XBorg",
     "active": true,
-    "slug": "manager8c7bb"
+    "slug": "manager96013"
   },
   {
     "id": "f9370c6c-e50a-44a3-a1a0-5659e1ea3714",
@@ -48202,7 +48202,7 @@
     "location": "Remote - Europe Timezone",
     "department": "XBorg",
     "active": true,
-    "slug": "trader81c53"
+    "slug": "trader89106"
   },
   {
     "id": "7344ca8b-fee1-41fb-89b1-7f0dba4053ac",
@@ -48262,7 +48262,7 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "manager38bd7"
+    "slug": "manager96012"
   },
   {
     "id": "7866674",
@@ -48418,7 +48418,7 @@
     "location": "Europe",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer76f73"
+    "slug": "engineer99412"
   },
   {
     "id": "fb9d588a-e49e-4496-a464-9c6c5cc4ca46",
@@ -48562,7 +48562,7 @@
     "location": "San Francisco",
     "department": "GTM",
     "active": true,
-    "slug": "marketing5485b"
+    "slug": "marketing85106"
   },
   {
     "id": "7718886003",
@@ -48682,7 +48682,7 @@
     "location": "San Francisco HQ",
     "department": "Engineering",
     "active": true,
-    "slug": "devops75fa7"
+    "slug": "devops75733"
   },
   {
     "id": "D2A3EC5A27",
@@ -48972,7 +48972,7 @@
     "location": "Remote",
     "department": "SALES",
     "active": true,
-    "slug": "sales62eb0"
+    "slug": "sales96012"
   },
   {
     "id": "91f7231c-f99c-4f0d-b9fa-bafe137b5aad",
@@ -49138,7 +49138,7 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "backend8895f"
+    "slug": "backend44836"
   },
   {
     "id": "b184fc73-75f4-449a-809f-708ed1ff1db8",
@@ -49150,7 +49150,7 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "engineerf1db8"
+    "slug": "engineer99411"
   },
   {
     "id": "7711707003",
@@ -49594,7 +49594,7 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "frontende5a60"
+    "slug": "frontend90182"
   },
   {
     "id": "a21dafd1-efe9-46ce-bd16-42d38b2efc8b",
@@ -49954,7 +49954,7 @@
     "location": "San Francisco",
     "department": "Hardware",
     "active": true,
-    "slug": "designer8e103"
+    "slug": "designer30916"
   },
   {
     "id": "ad7d62ed-7587-4ec5-b236-d4df64b223bc",
@@ -50014,7 +50014,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "security7e0c1"
+    "slug": "security95005"
   },
   {
     "id": "91a660c4-8ae7-4780-b65d-c5513edc824c",
@@ -50098,7 +50098,7 @@
     "location": "San Francisco HQ",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer2d85a"
+    "slug": "engineer99410"
   },
   {
     "id": "7784353",
@@ -50399,7 +50399,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "devops2aebb"
+    "slug": "devops75732"
   },
   {
     "id": "9b280eee-6c25-45f0-9f98-11c01e16f295",
@@ -50412,7 +50412,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "frontend6f295"
+    "slug": "frontend90181"
   },
   {
     "id": "4683799005",
@@ -50544,7 +50544,7 @@
     "location": "Taguig City, Metro Manila, Philippines",
     "department": "Compliance",
     "active": true,
-    "slug": "compliancee3f39"
+    "slug": "compliance91004"
   },
   {
     "id": "5182994008",
@@ -50580,7 +50580,7 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer39be4"
+    "slug": "engineer99409"
   },
   {
     "id": "f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
@@ -50592,7 +50592,7 @@
     "location": "Remote",
     "department": "Software Development",
     "active": true,
-    "slug": "engineer14c65"
+    "slug": "engineer99408"
   },
   {
     "id": "8483248002",
@@ -50868,7 +50868,7 @@
     "location": "Remote",
     "department": "Implementations",
     "active": true,
-    "slug": "manager6e28f"
+    "slug": "manager96011"
   },
   {
     "id": "7792540",
@@ -50989,7 +50989,7 @@
     "location": "San Francisco",
     "department": "Firmware",
     "active": true,
-    "slug": "engineer44c1d"
+    "slug": "engineer99407"
   },
   {
     "id": "afb16eab-ec06-4dea-bc40-146063710338",
@@ -51355,7 +51355,7 @@
     "location": "Remote (U.S. or Europe)",
     "department": "Engineering",
     "active": true,
-    "slug": "devops1efab"
+    "slug": "devops75731"
   },
   {
     "id": "7776179",
@@ -51643,7 +51643,7 @@
     "location": "San Francisco",
     "department": "Software",
     "active": true,
-    "slug": "backend95e8d"
+    "slug": "backend44835"
   },
   {
     "id": "7747728",
@@ -51921,7 +51921,7 @@
     "location": "San Francisco",
     "department": "Hardware",
     "active": true,
-    "slug": "manageree1cb"
+    "slug": "manager96010"
   },
   {
     "id": "8fa367de-71ba-409e-befd-175a163acb1b",
@@ -52041,7 +52041,7 @@
     "location": "Asia",
     "department": "Finance & Administration",
     "active": true,
-    "slug": "manager70e5d"
+    "slug": "manager96009"
   },
   {
     "id": "3a0bac3a-c907-4ba5-b6a4-b795b054bfbf",
@@ -52209,7 +52209,7 @@
     "location": "Anywhere",
     "department": "molecule.xyz",
     "active": true,
-    "slug": "ceoa13b1"
+    "slug": "ceo2"
   },
   {
     "id": "763bd807-c5fc-468c-be52-f165985c9c71",
@@ -52867,7 +52867,7 @@
     "location": "San Francisco",
     "department": "Software",
     "active": true,
-    "slug": "engineer56be6"
+    "slug": "engineer99406"
   },
   {
     "id": "9a047e27-54dd-44df-9c0c-4ca6bc2d57bf",
@@ -53121,7 +53121,7 @@
     "location": "LATAM",
     "department": "Product Team",
     "active": true,
-    "slug": "product9c98e"
+    "slug": "product81442"
   },
   {
     "id": "8b1a6e67-9a28-460f-b2bb-37f2e1069e94",
@@ -53133,7 +53133,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "backend69e94"
+    "slug": "backend44834"
   },
   {
     "id": "3af6c3b5-1bee-4521-afcc-a012b530d214",
@@ -53169,7 +53169,7 @@
     "location": "Remote",
     "department": "Support",
     "active": true,
-    "slug": "support5aa52"
+    "slug": "support1"
   },
   {
     "id": "7663802003",
@@ -53409,7 +53409,7 @@
     "location": "San Francisco",
     "department": "Firmware",
     "active": true,
-    "slug": "engineer0304d"
+    "slug": "engineer99405"
   },
   {
     "id": "2741947b-a93d-4329-82a0-65d95ec315cb",
@@ -53421,7 +53421,7 @@
     "location": "San Francisco or Remote",
     "department": "Firmware",
     "active": true,
-    "slug": "engineer315cb"
+    "slug": "engineer99404"
   },
   {
     "id": "4671558005",
@@ -53553,7 +53553,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineeraf0ba"
+    "slug": "engineer99403"
   },
   {
     "id": "ca4bfe22-b7f4-4150-8f6f-fb01f1fe4477",
@@ -53709,7 +53709,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "manager0e39f"
+    "slug": "manager96008"
   },
   {
     "id": "9e2040f8-ecbf-4192-85b9-02e08a20675f",
@@ -53721,7 +53721,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "product0675f"
+    "slug": "product81441"
   },
   {
     "id": "f0918978-d6da-4cd7-b248-055aaa108426",
@@ -53805,7 +53805,7 @@
     "location": "Bay Area or Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer91ea4"
+    "slug": "engineer99402"
   },
   {
     "id": "7594866",
@@ -53890,7 +53890,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "fullstack55d71"
+    "slug": "fullstack68013"
   },
   {
     "id": "3ec93f41-3231-4170-bb25-aa33a0f406b0",
@@ -53999,7 +53999,7 @@
     "department": "Full-Time",
     "active": true,
     "dateVerified": true,
-    "slug": "frontend55d8b"
+    "slug": "frontend90180"
   },
   {
     "id": "8434049002",
@@ -54071,7 +54071,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer7af0a"
+    "slug": "engineer99401"
   },
   {
     "id": "8443094002",
@@ -54469,7 +54469,7 @@
     "location": "Jakarta, Indonesia",
     "department": "People",
     "active": true,
-    "slug": "juniordc81a"
+    "slug": "junior4"
   },
   {
     "id": "7648003",
@@ -54709,7 +54709,7 @@
     "location": "San Francisco HQ",
     "department": "Engineering",
     "active": true,
-    "slug": "backend94dd2"
+    "slug": "backend44833"
   },
   {
     "id": "5126540008",
@@ -54865,7 +54865,7 @@
     "location": "London",
     "department": "Commercial",
     "active": true,
-    "slug": "manager6e6ea"
+    "slug": "manager96007"
   },
   {
     "id": "7611263",
@@ -54889,7 +54889,7 @@
     "location": "Jakarta, Indonesia",
     "department": null,
     "active": true,
-    "slug": "marketinga7eb5"
+    "slug": "marketing85105"
   },
   {
     "id": "7624480",
@@ -55179,7 +55179,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer425c6"
+    "slug": "engineer99400"
   },
   {
     "id": "7606826",
@@ -55575,7 +55575,7 @@
     "location": "San Francisco or Boulder",
     "department": "Customer Success",
     "active": true,
-    "slug": "managerbde6f"
+    "slug": "manager96006"
   },
   {
     "id": "AE58A20B2E",
@@ -55697,7 +55697,7 @@
     "location": "San Francisco",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing4ebb6"
+    "slug": "marketing85104"
   },
   {
     "id": "8b4df7e0-6f71-4815-a42c-3301c6936b45",
@@ -55709,7 +55709,7 @@
     "location": "San Francisco",
     "department": "Design",
     "active": true,
-    "slug": "designer36b45"
+    "slug": "designer30915"
   },
   {
     "id": "160AADE0EF",
@@ -55721,7 +55721,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerde0ef"
+    "slug": "engineer99399"
   },
   {
     "id": "7619570003",
@@ -55867,7 +55867,7 @@
       "Engineering"
     ],
     "active": true,
-    "slug": "devops7338f"
+    "slug": "devops75730"
   },
   {
     "id": "7393169",
@@ -56275,7 +56275,7 @@
     "location": "San Francisco HQ",
     "department": "Growth",
     "active": true,
-    "slug": "marketing56ac1"
+    "slug": "marketing85103"
   },
   {
     "id": "6500be6b-0394-4e2b-8d70-9a18eb4207bf",
@@ -56311,7 +56311,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer757d7"
+    "slug": "engineer99398"
   },
   {
     "id": "7596531003",
@@ -56359,7 +56359,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer7eba8"
+    "slug": "engineer99397"
   },
   {
     "id": "34EE67E78E",
@@ -56371,7 +56371,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer7e78e"
+    "slug": "engineer99396"
   },
   {
     "id": "5779695004",
@@ -56407,7 +56407,7 @@
     "location": "New York",
     "department": "Customer Success",
     "active": true,
-    "slug": "managerab04b"
+    "slug": "manager96005"
   },
   {
     "id": "7558051",
@@ -56491,7 +56491,7 @@
     "location": "Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer072fd"
+    "slug": "engineer99395"
   },
   {
     "id": "b5dfd585-f708-41c9-b9bf-94adde925067",
@@ -57357,7 +57357,7 @@
     "location": "New York City",
     "department": "Engineering",
     "active": true,
-    "slug": "fullstack30beb"
+    "slug": "fullstack68012"
   },
   {
     "id": "432e213a-7f09-4a16-9dc0-7bcdf0ffc362",
@@ -57381,7 +57381,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerdb9f2"
+    "slug": "engineer99394"
   },
   {
     "id": "25718664-54b7-454b-9a2c-bde0b1deb76c",
@@ -57393,7 +57393,7 @@
     "location": "New York Office",
     "department": "Creative",
     "active": true,
-    "slug": "producteb76c"
+    "slug": "product81440"
   },
   {
     "id": "BDD63370C2",
@@ -57477,7 +57477,7 @@
     "location": "Jakarta, Indonesia",
     "department": null,
     "active": true,
-    "slug": "productb6bff"
+    "slug": "product81439"
   },
   {
     "id": "7466921",
@@ -57525,7 +57525,7 @@
     "location": "Asia",
     "department": "Finance & Administration",
     "active": true,
-    "slug": "marketing2dd54"
+    "slug": "marketing85102"
   },
   {
     "id": "3dd97725-4a12-4963-b47a-cb5c562cfd1d",
@@ -57537,7 +57537,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "productcfd1d"
+    "slug": "product81438"
   },
   {
     "id": "13c4b111-5dab-4560-9843-70c06c1acf6e",
@@ -57549,7 +57549,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "engineeracf6e"
+    "slug": "engineer99393"
   },
   {
     "id": "81a220c3-1338-426f-ba34-5d77753add24",
@@ -57608,7 +57608,7 @@
     "source": "BambooHR: Paribu [paribu]",
     "department": "Paribu Art - Marketing Communications",
     "active": true,
-    "slug": "marketing120-05gd"
+    "slug": "marketing85101"
   },
   {
     "id": "7462961",
@@ -57728,7 +57728,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "recruiting8589d"
+    "slug": "recruiting54272"
   },
   {
     "id": "e0476923-90b6-472f-82f3-0b54bc804e56",
@@ -57776,7 +57776,7 @@
     "location": "Texas",
     "department": "DEVELOPMENT",
     "active": true,
-    "slug": "engineera9f53"
+    "slug": "engineer99392"
   },
   {
     "id": "c62ec525-f11c-431f-a198-8b9f9e4fb673",
@@ -58147,7 +58147,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "engineer2bb47"
+    "slug": "engineer99391"
   },
   {
     "id": "5725655004",
@@ -58291,7 +58291,7 @@
     "location": "California",
     "department": "Product",
     "active": true,
-    "slug": "product35a8e"
+    "slug": "product81437"
   },
   {
     "id": "26f87d20-56a0-48fd-a98c-13f3d6214848",
@@ -58555,7 +58555,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerc67bb"
+    "slug": "engineer99390"
   },
   {
     "id": "0a24dd34-159f-4c30-b662-5abf20f2d8a1",
@@ -58567,7 +58567,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "engineer2d8a1"
+    "slug": "engineer99389"
   },
   {
     "id": "2359062",
@@ -58591,7 +58591,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "devopsf733e"
+    "slug": "devops75729"
   },
   {
     "id": "b1ada97f-73f7-492e-89b7-150ebd49ad55",
@@ -58603,7 +58603,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "product9ad55"
+    "slug": "product81436"
   },
   {
     "id": "4983725008",
@@ -58639,7 +58639,7 @@
     "location": "New York Office",
     "department": "Growth",
     "active": true,
-    "slug": "linearc139f"
+    "slug": "linear1"
   },
   {
     "id": "46720f41-a467-4787-bba4-1838884e8af8",
@@ -59239,7 +59239,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Risk and Internal Audit",
     "active": true,
-    "slug": "security24cc0"
+    "slug": "security95004"
   },
   {
     "id": "deca582c-a1d0-4705-9975-60aed81ba89f",
@@ -59673,7 +59673,7 @@
       "IT & Development"
     ],
     "active": true,
-    "slug": "qad69d0"
+    "slug": "qa89006"
   },
   {
     "id": "7499078003",
@@ -59757,7 +59757,7 @@
     "location": "New York",
     "department": "Sales",
     "active": true,
-    "slug": "productefa2e"
+    "slug": "product81435"
   },
   {
     "id": "8c004352-f162-4d89-858f-75a649e77ec4",
@@ -59853,7 +59853,7 @@
     "location": "San Francisco HQ",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer1d0b7"
+    "slug": "engineer99388"
   },
   {
     "id": "7252176002",
@@ -59973,7 +59973,7 @@
     "location": "United States",
     "department": "Go-to-Market",
     "active": true,
-    "slug": "sales7acf5"
+    "slug": "sales96011"
   },
   {
     "id": "90476d10-8944-4819-9733-8b5d0505858d",
@@ -59997,7 +59997,7 @@
     "location": "Europe",
     "department": "Sales",
     "active": true,
-    "slug": "sales6a95d"
+    "slug": "sales96010"
   },
   {
     "id": "6df45324-ef1e-468f-a848-fa42cf144ec0",
@@ -60009,7 +60009,7 @@
     "location": "Chicago",
     "department": "GTM",
     "active": true,
-    "slug": "engineer44ec0"
+    "slug": "engineer99387"
   },
   {
     "id": "39dbebc0-42da-4fdf-8f17-1ceb10842477",
@@ -60033,7 +60033,7 @@
     "location": "Chicago",
     "department": "GTM",
     "active": true,
-    "slug": "product08bd6"
+    "slug": "product81434"
   },
   {
     "id": "3a836bc7-d46f-42f6-8eeb-ff9b8b9bfee3",
@@ -60069,7 +60069,7 @@
     "location": "Chicago",
     "department": "Engineering",
     "active": true,
-    "slug": "frontendb35a7"
+    "slug": "frontend90179"
   },
   {
     "id": "6eb1e350-71ce-47f7-a363-3fa3c521dacb",
@@ -60093,7 +60093,7 @@
     "location": "Chicago",
     "department": "Engineering",
     "active": true,
-    "slug": "rust9d2e3"
+    "slug": "rust94598"
   },
   {
     "id": "6153b995-d9b2-4460-bfcd-02c4d5b20861",
@@ -60296,7 +60296,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "productd9bbf"
+    "slug": "product81433"
   },
   {
     "id": "6d5c33ed-e473-4e1f-a19e-cde337d66eaa",
@@ -60320,7 +60320,7 @@
     "location": "San Francisco",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerbb53d"
+    "slug": "engineer99386"
   },
   {
     "id": "4609637005",
@@ -60356,7 +60356,7 @@
     "location": "San Francisco HQ",
     "department": "Engineering",
     "active": true,
-    "slug": "fullstack369fd"
+    "slug": "fullstack68011"
   },
   {
     "id": "bfa759a9-f19a-4030-959e-9e29d81d6879",
@@ -60500,7 +60500,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer68c02"
+    "slug": "engineer99385"
   },
   {
     "id": "7146495003",
@@ -60886,7 +60886,7 @@
       "Product Management"
     ],
     "active": true,
-    "slug": "product4d41a"
+    "slug": "product81432"
   },
   {
     "id": "d4124a22-1e24-4bdd-9f47-88dba3683f6d",
@@ -60910,7 +60910,7 @@
     "location": "San Francisco, California",
     "department": "Crypto",
     "active": true,
-    "slug": "head81c5a"
+    "slug": "head94010"
   },
   {
     "id": "8120713002",
@@ -60982,7 +60982,7 @@
     "location": "Chicago",
     "department": "Any",
     "active": true,
-    "slug": "open9b210"
+    "slug": "open91255"
   },
   {
     "id": "428ebd80-ad4d-41db-bfa0-82bb3284db75",
@@ -60994,7 +60994,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "member4db75"
+    "slug": "member60186"
   },
   {
     "id": "144b4be3-f46e-4e3a-af46-8ec6afc3a60f",
@@ -61006,7 +61006,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Engineering",
     "active": true,
-    "slug": "member3a60f"
+    "slug": "member60185"
   },
   {
     "id": "9c327e8b-1cf3-45da-a99a-e60420df8a0c",
@@ -61018,7 +61018,7 @@
     "location": "Chile",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerf8a0c"
+    "slug": "engineer99384"
   },
   {
     "id": "054c4790-eed6-41cc-b188-c2639581c186",
@@ -61030,7 +61030,7 @@
     "location": "Chile",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer1c186"
+    "slug": "engineer99383"
   },
   {
     "id": "303def79-701c-4b29-aceb-e07877a22d1d",
@@ -61510,7 +61510,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "backend4467f"
+    "slug": "backend44832"
   },
   {
     "id": "8056116002",
@@ -61618,7 +61618,7 @@
     "location": "United States",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer92b5b"
+    "slug": "engineer99382"
   },
   {
     "id": "0cb402ad-7715-4127-ad25-14ab4b142983",
@@ -61774,7 +61774,7 @@
     "location": "San Francisco",
     "department": "Data Science",
     "active": true,
-    "slug": "data1c79e"
+    "slug": "data91009"
   },
   {
     "id": "27ff63f6-a750-4028-b3ac-fd11388ba6ab",
@@ -61798,7 +61798,7 @@
     "location": "San Francisco",
     "department": "Software Engineering",
     "active": true,
-    "slug": "engineer102e7"
+    "slug": "engineer99381"
   },
   {
     "id": "d0b9bbe2-767e-4c81-9a53-fa513addcfab",
@@ -61834,7 +61834,7 @@
     "location": "San Francisco or Palo Alto",
     "department": "Design",
     "active": true,
-    "slug": "producteab6d"
+    "slug": "product81431"
   },
   {
     "id": "4762763008",
@@ -61882,7 +61882,7 @@
     "location": "United States",
     "department": [],
     "active": true,
-    "slug": "recruiting8612e"
+    "slug": "recruiting54271"
   },
   {
     "id": "4754267008",
@@ -62016,7 +62016,7 @@
       "Operations"
     ],
     "active": true,
-    "slug": "trader08ad0"
+    "slug": "trader89105"
   },
   {
     "id": "3d655138-e405-4ed7-8266-dc01e1bfdc6d",
@@ -62088,7 +62088,7 @@
     "location": "New York City",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer40ecc"
+    "slug": "engineer99380"
   },
   {
     "id": "acc7b3c7-a201-4c3c-a280-2f976dd7a749",
@@ -62220,7 +62220,7 @@
     "location": "Remote",
     "department": "Wealth Management",
     "active": true,
-    "slug": "svp418fe"
+    "slug": "svp1"
   },
   {
     "id": "4ae74014-d0de-487e-a7df-b932f3483aff",
@@ -62448,7 +62448,7 @@
     "location": "Sydney, Australia",
     "department": "Go to Market",
     "active": true,
-    "slug": "local629fa"
+    "slug": "local1"
   },
   {
     "id": "b43b5dfa-95ff-4a30-9a42-6fb7860ff0ec",
@@ -62760,7 +62760,7 @@
     "location": "Remote",
     "department": "Wealth Management",
     "active": true,
-    "slug": "wealth21fbf"
+    "slug": "wealth1"
   },
   {
     "id": "13e39f02-c039-4496-9b7e-e0a6a91e78d2",
@@ -62856,7 +62856,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Product Manager",
     "active": true,
-    "slug": "product40b6a"
+    "slug": "product81430"
   },
   {
     "id": "25b05625-bcd6-4ac0-b73c-f226b380a0dd",
@@ -62988,7 +62988,7 @@
     "location": "Asia",
     "department": "Engineering",
     "active": true,
-    "slug": "qa57e0f"
+    "slug": "qa89005"
   },
   {
     "id": "4570564008",
@@ -63120,7 +63120,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "devops532cd"
+    "slug": "devops75728"
   },
   {
     "id": "c4ddca58-1476-438a-8eb3-8d3e05eae19a",
@@ -63288,7 +63288,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "devopse4b00"
+    "slug": "devops75727"
   },
   {
     "id": "f36fb156-5909-48da-ad91-7edbf7baecb2",
@@ -63420,7 +63420,7 @@
     "location": "California",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer7bdab"
+    "slug": "engineer99379"
   },
   {
     "id": "8cc5ecc9-4550-424d-af56-c433d50b9415",
@@ -63468,7 +63468,7 @@
     "location": "Anywhere",
     "department": "Portfolio Company Hiring",
     "active": true,
-    "slug": "engineer1af1f"
+    "slug": "engineer99378"
   },
   {
     "id": "6494244",
@@ -63504,7 +63504,7 @@
     "location": "Anywhere",
     "department": "Anagram",
     "active": true,
-    "slug": "trader2e089"
+    "slug": "trader89104"
   },
   {
     "id": "a9fcaa1a-cb05-4900-8032-958478a293da",
@@ -63516,7 +63516,7 @@
     "location": "Anywhere",
     "department": "Anagram",
     "active": true,
-    "slug": "cryptography293da"
+    "slug": "cryptography77186"
   },
   {
     "id": "96fa988f-2801-4fd0-a2f1-dd077733ab18",
@@ -63528,7 +63528,7 @@
     "location": "Anywhere",
     "department": "Anagram",
     "active": true,
-    "slug": "defi3ab18"
+    "slug": "defi3"
   },
   {
     "id": "eb60f112-0d57-4669-95bd-11d1658c4bb5",
@@ -63540,7 +63540,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineerc4bb5"
+    "slug": "engineer99377"
   },
   {
     "id": "1457e3a1-c294-42b0-a12a-618e97d58a4c",
@@ -63552,7 +63552,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer58a4c"
+    "slug": "engineer99376"
   },
   {
     "id": "4f995790-488f-4631-9da7-fe4b06781111",
@@ -63588,7 +63588,7 @@
     "location": "Taiwan, Taipei",
     "department": "Engineering",
     "active": true,
-    "slug": "backend92ed0"
+    "slug": "backend44831"
   },
   {
     "id": "614d983f-57a4-4db3-bb30-48d7a0825221",
@@ -63684,7 +63684,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Engineering",
     "active": true,
-    "slug": "qa13c20"
+    "slug": "qa89004"
   },
   {
     "id": "8180fa60-4020-45e2-931c-dc55243b1c12",
@@ -64008,7 +64008,7 @@
     "location": "Singapore",
     "department": "AM",
     "active": true,
-    "slug": "trader0027e"
+    "slug": "trader89103"
   },
   {
     "id": "1245204b-d029-4961-9819-bb6fc37d9b16",
@@ -64224,7 +64224,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "devops1562f"
+    "slug": "devops75726"
   },
   {
     "id": "db3c6bde-5ff8-4234-9425-1ee8cf93c97e",
@@ -64236,7 +64236,7 @@
     "location": "New York Office",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer3c97e"
+    "slug": "engineer99375"
   },
   {
     "id": "7642886002",
@@ -64368,7 +64368,7 @@
     "location": "Jakarta, Indonesia",
     "department": "Design",
     "active": true,
-    "slug": "product7c09f"
+    "slug": "product81429"
   },
   {
     "id": "4093804008",
@@ -64656,7 +64656,7 @@
     "location": "Asia",
     "department": "Engineering",
     "active": true,
-    "slug": "qa7ce4d"
+    "slug": "qa89003"
   },
   {
     "id": "7419948002",
@@ -64740,7 +64740,7 @@
     "location": "Argentina, Buenos Aires",
     "department": "Customer Support",
     "active": true,
-    "slug": "customer95cfc"
+    "slug": "customer74751"
   },
   {
     "id": "e6d9d9d8-ec2a-4691-9efe-9810ca25a99e",
@@ -64752,7 +64752,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "engineer5a99e"
+    "slug": "engineer99374"
   },
   {
     "id": "c59a54cf-048f-4495-a14a-7a317968412e",
@@ -64764,7 +64764,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "engineer8412e"
+    "slug": "engineer99373"
   },
   {
     "id": "efc9a914-10ea-4d95-8bec-dd034a119c5d",
@@ -64776,7 +64776,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "community19c5d"
+    "slug": "community42478"
   },
   {
     "id": "aa055b1d-5eb2-4662-964a-849524710b6e",
@@ -64788,7 +64788,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "product10b6e"
+    "slug": "product81428"
   },
   {
     "id": "51b9e45b-8ff3-4841-a355-9321090d4370",
@@ -65555,7 +65555,7 @@
     "source": "Lever: Amber Group [ambergroup]",
     "location": "Hong Kong",
     "active": true,
-    "slug": "traderdf0fa"
+    "slug": "trader89102"
   },
   {
     "id": "7ee25381-c2c1-4a63-9cd0-8d17c0cc6374",
@@ -65641,7 +65641,7 @@
       "IT & Development"
     ],
     "active": true,
-    "slug": "fullstack75a60"
+    "slug": "fullstack68010"
   },
   {
     "id": "4738660",
@@ -65689,7 +65689,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "operations3520f"
+    "slug": "operations91005"
   },
   {
     "id": "c6b3b4ee-c526-4ebf-af06-a8f9e9090178",
@@ -65737,7 +65737,7 @@
     "location": "Palo Alto, CA",
     "department": "Harmony",
     "active": true,
-    "slug": "engineer21d6f"
+    "slug": "engineer99372"
   },
   {
     "id": "1adebe61-db3b-4f5d-95d6-734121bb5b72",
@@ -65749,7 +65749,7 @@
     "location": "Anywhere",
     "department": "Anagram",
     "active": true,
-    "slug": "entrepreneurb5b72"
+    "slug": "entrepreneur1"
   },
   {
     "id": "100",
@@ -65760,7 +65760,7 @@
     "source": "BambooHR: Fasset [fasset]",
     "department": "Finance",
     "active": true,
-    "slug": "analyst100-1k4f"
+    "slug": "analyst74210"
   },
   {
     "id": "b86a0e71-057a-4d88-9686-646d7b0f0257",
@@ -65964,7 +65964,7 @@
     "location": "Remote",
     "department": "Product",
     "active": true,
-    "slug": "designer82f12"
+    "slug": "designer30914"
   },
   {
     "id": "e6754d35-be96-459c-960b-780b30634cf7",
@@ -65976,7 +65976,7 @@
     "location": "New York, NY",
     "department": "Miscellaneous",
     "active": true,
-    "slug": "flexible34cf7"
+    "slug": "flexible1"
   },
   {
     "id": "08c9b703-3599-4d7b-bf3c-d99e8c24b3de",
@@ -65988,7 +65988,7 @@
     "location": "Remote",
     "department": "Operations",
     "active": true,
-    "slug": "product4b3de"
+    "slug": "product81427"
   },
   {
     "id": "546c36d8-f568-458e-9e3a-19c5704a6a95",
@@ -66000,7 +66000,7 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "engineera6a95"
+    "slug": "engineer99371"
   },
   {
     "id": "e6a70c82-b41e-4a48-9e9f-f852d880cec2",
@@ -66012,7 +66012,7 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "fullstack0cec2"
+    "slug": "fullstack68009"
   },
   {
     "id": "4018000005",
@@ -66083,7 +66083,7 @@
     "location": "Europe",
     "department": "Engineering",
     "active": true,
-    "slug": "backend04c47"
+    "slug": "backend44830"
   },
   {
     "id": "2956055a-f54b-4832-a8aa-cce6fb8dad09",
@@ -66178,7 +66178,7 @@
     "location": "Remote",
     "department": "3 Operations",
     "active": true,
-    "slug": "marketing529ea"
+    "slug": "marketing85100"
   },
   {
     "id": "83673007-7d32-4032-b665-36fc56941fe8",
@@ -66190,7 +66190,7 @@
     "location": "Remote",
     "department": "3 Operations",
     "active": true,
-    "slug": "sales41fe8"
+    "slug": "sales96009"
   },
   {
     "id": "97aaa58f-e1c3-4c25-9e6b-6f46432adc4b",
@@ -66202,7 +66202,7 @@
     "location": "Remote",
     "department": "3 Operations",
     "active": true,
-    "slug": "productadc4b"
+    "slug": "product81426"
   },
   {
     "id": "d29f5128-86da-4cd1-850a-4a4855d68ea9",
@@ -66214,7 +66214,7 @@
     "location": "Remote",
     "department": "2 Engineering",
     "active": true,
-    "slug": "rust68ea9"
+    "slug": "rust94597"
   },
   {
     "id": "7fc355e5-6020-4386-bd3c-d95d66149b08",
@@ -66226,7 +66226,7 @@
     "location": "Remote",
     "department": "2 Engineering",
     "active": true,
-    "slug": "developer49b08"
+    "slug": "developer74006"
   },
   {
     "id": "e6606071-a12d-44f0-983f-87d59edb2eec",
@@ -66238,7 +66238,7 @@
     "location": "Remote",
     "department": "1 Product Management",
     "active": true,
-    "slug": "productb2eec"
+    "slug": "product81425"
   },
   {
     "id": "cc97f448-e7d6-4694-9e2c-98ae6b89dd84",
@@ -66250,7 +66250,7 @@
     "location": "Remote",
     "department": "2 Engineering",
     "active": true,
-    "slug": "vuejs9dd84"
+    "slug": "vuejs1"
   },
   {
     "id": "a04edbc8-ac1c-486d-b807-35ede1cecba5",
@@ -66274,7 +66274,7 @@
     "location": "Remote",
     "department": "4 Design",
     "active": true,
-    "slug": "product6a8c3"
+    "slug": "product81424"
   },
   {
     "id": "5869205002",
@@ -66396,7 +66396,7 @@
       "IT & Development"
     ],
     "active": true,
-    "slug": "developerec0d9"
+    "slug": "developer74005"
   },
   {
     "id": "1cb32982-e9b5-400b-9b24-18369a53d63a",

@@ -35,6 +35,10 @@ env:
     secret: RESEND_API_KEY
 
 runConfig:
+  # Keep one instance always warm to eliminate cold-start latency (15-30s).
+  minInstances: 1
   # Increase this value if you'd like to automatically spin up
   # more instances in response to increased traffic.
-  maxInstances: 1
+  maxInstances: 2
+  # Number of concurrent requests a single instance can handle.
+  concurrency: 80

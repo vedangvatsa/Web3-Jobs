@@ -9,7 +9,7 @@ import { PageShell } from '@/components/page-shell';
 
 const JOBS_PER_PAGE = 50;
 
-export const revalidate = 300; // Revalidate every 5 minutes (ISR)
+export const revalidate = 3600; // Revalidate every hour (ISR) — cache refreshes every 8h via GitHub Actions
 
 export default async function JobsPage() {
   const allJobs = await getJobs();
