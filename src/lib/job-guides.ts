@@ -154,8 +154,14 @@ function getSectionIntro(heading: string, job: Job): string | null {
  * long prose paragraphs are editorialized rather than copied verbatim. This
  * keeps the page useful and index-worthy without being a mirror of the ATS.
  */
-export function buildSynthesizedJobContent(job: Job): string {
-  const raw = getCachedRawContent(job);
+export async function getOrFetchRawJobContent(job: Job): Promise<string> {
+  const cached = getCachedRawContent(job);
+  if (cached && plainTextFromHtml(cached).length >= 100) return cached;
+  return await fetchJobOriginalContent(job);
+}
+
+export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string): string {
+  const raw = rawContentOverride || getCachedRawContent(job);
   const plainLen = plainTextFromHtml(raw).length;
   if (!raw || plainLen < 100) return buildUniqueJobPageContent(job);
 

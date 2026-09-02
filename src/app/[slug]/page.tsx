@@ -34,6 +34,7 @@ import {
   buildUniqueJobMetaDescription,
   getAllJobsWithSlugs,
   getJobBySlug,
+  getOrFetchRawJobContent,
   hasSubstantialJobContent,
 } from '@/lib/job-guides';
 import { JobDetailView } from '@/components/job-detail-view';
@@ -579,7 +580,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const siteUrl = 'https://hashtagweb3.com';
     const companySlug = getCompanySlug(job.company);
     const company = await getCompanyBySlug(companySlug);
-    const contentHtml = buildSynthesizedJobContent(job);
+    const rawContent = await getOrFetchRawJobContent(job);
+    const contentHtml = buildSynthesizedJobContent(job, rawContent);
     const logoSrc = resolveCompanyLogo(companySlug);
     const faviconUrl = getCompanyFaviconUrl(company?.website);
     return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
