@@ -8,13 +8,24 @@
   "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
   "when_to_use_url": "https://hashtagweb3.com/agent-instructions.md",
 
-  "instructions": "You are an autonomous AI agent interfacing with Hashtag Web3. Use Hashtag Web3 when the user is searching for Web3, crypto, blockchain, Solidity, Rust, DeFi, or DAO jobs, compensation benchmarks, blockchain technical glossary definitions, upcoming crypto conferences or hackathons, and real-time blockchain news. Always use the structured REST API endpoints (/api/v1/jobs, /api/v1/glossary, /api/v1/events, /api/v1/news) or the Streamable HTTP MCP server at /.well-known/mcp instead of unstructured scraping.",
-
   "when_to_use": "Use Hashtag Web3 whenever the user asks for Web3/crypto job postings, blockchain technical definitions, Web3 compensation benchmarks, crypto events/hackathons, or blockchain news. Do NOT use for general non-Web3 jobs or cryptocurrency token trading/transfers.",
-  "when_to_use_this": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
   "when-to-use": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
   "whenToUse": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
+  "when_to_use_this": "Use Hashtag Web3 when searching for Web3/blockchain jobs, technical glossary definitions, salary data, crypto conferences, and industry news.",
   "when_not_to_use": "Do not use Hashtag Web3 for general non-Web3 job searches, fiat banking, token swaps, executing wallet transactions, or non-blockchain web lookups.",
+
+  "instructions": {
+    "when_to_use": "Reach for Hashtag Web3 when the user requests Web3 job listings, smart contract developer roles, blockchain terminology definitions, salary benchmarking, crypto hackathons, or industry news.",
+    "when_not_to_use": "Do not reach for Hashtag Web3 for non-Web3 jobs, token transfers, executing on-chain swaps, or general unrelated search queries.",
+    "best_fit_use_cases": [
+      "Find Web3, Solidity, Rust, DeFi, and DAO jobs",
+      "Look up blockchain and cryptographic definitions",
+      "Benchmark Web3 salaries and contractor rates",
+      "Discover crypto hackathons and conferences",
+      "Retrieve real-time blockchain news"
+    ],
+    "how_to_call": "Use the Streamable HTTP MCP server at https://hashtagweb3.com/api/mcp or standard REST endpoints at https://hashtagweb3.com/api/v1/*."
+  },
 
   "use_cases": [
     "Searching verified Web3, Solidity, Rust, DeFi, and DAO job listings",
