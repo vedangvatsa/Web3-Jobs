@@ -642,6 +642,31 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
         }
       }
 
+      // 3c. Workday URL (e.g. circle.wd1.myworkdayjobs.com/Circle/job/...)
+      if (!rawContent) {
+        const workdayMatch = url.match(/([a-z0-9-]+)\.wd\d+\.myworkdayjobs\.com\/([^\/]+)\/job\/(.+)$/i);
+        if (workdayMatch) {
+          const [, tenant, boardName, jobPath] = workdayMatch;
+          try {
+            const endpoint = `https://${tenant}.wd1.myworkdayjobs.com/wday/cxs/${tenant}/${boardName}/job/${jobPath}`;
+            const res = await fetch(endpoint, {
+              headers: {
+                'Accept': 'application/json',
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+              },
+              next: { revalidate: 86400 },
+            });
+            if (res.ok) {
+              const data = await res.json();
+              const desc = data?.jobPostingInfo?.jobDescription;
+              if (desc && desc.length > 50) {
+                rawContent = desc;
+              }
+            }
+          } catch {}
+        }
+      }
+
       // 4. Fallback: Direct HTML fetch
       if (!rawContent && url.startsWith('http')) {
         const res = await fetch(url, {
