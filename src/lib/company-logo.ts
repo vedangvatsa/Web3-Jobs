@@ -31,6 +31,12 @@ const LOGO_PATHS = (slug: string): string[] => {
   return candidates.flatMap((candidate) => {
     const lower = candidate.toLowerCase();
     return [
+      `/logo/companies/${candidate}.webp`,
+      `/logo/companies/${lower}.webp`,
+      `/logo/job/${candidate}.webp`,
+      `/logo/job/${lower}.webp`,
+      `/logo/partners/${candidate}.webp`,
+      `/logo/partners/${lower}.webp`,
       `/logo/companies/${candidate}.png`,
       `/logo/companies/${candidate}.jpg`,
       `/logo/companies/${candidate}.svg`,
