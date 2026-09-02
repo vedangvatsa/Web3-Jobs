@@ -1,5 +1,53 @@
 [
   {
+    "id": "376f0c70-ffe9-4533-b829-67e8355656a0",
+    "title": "Founding Account Executive",
+    "company": "Bastion",
+    "link": "https://jobs.ashbyhq.com/Bastion/376f0c70-ffe9-4533-b829-67e8355656a0",
+    "date": "2026-08-29",
+    "source": "Ashby: Bastion [Bastion]",
+    "location": "New York City",
+    "department": "GTM",
+    "active": true,
+    "slug": "role656a0"
+  },
+  {
+    "id": "d3eadd01-a3cb-459a-8b4a-faa30b111c5d",
+    "title": "Senior Manager, Customer Service Operations",
+    "company": "Bastion",
+    "link": "https://jobs.ashbyhq.com/Bastion/d3eadd01-a3cb-459a-8b4a-faa30b111c5d",
+    "date": "2026-08-29",
+    "source": "Ashby: Bastion [Bastion]",
+    "location": "New York City",
+    "department": "Product",
+    "active": true,
+    "slug": "role11c5d"
+  },
+  {
+    "id": "f187c64c-7b4a-4d3c-8247-2057459ac479",
+    "title": "Payment Operations Associate",
+    "company": "Bastion",
+    "link": "https://jobs.ashbyhq.com/Bastion/f187c64c-7b4a-4d3c-8247-2057459ac479",
+    "date": "2026-08-24",
+    "source": "Ashby: Bastion [Bastion]",
+    "location": "US Remote",
+    "department": "Operations",
+    "active": true,
+    "slug": "roleac479"
+  },
+  {
+    "id": "04a403af-fcae-4e10-9960-b9970243a4aa",
+    "title": "Product Manager",
+    "company": "Bastion",
+    "link": "https://jobs.ashbyhq.com/Bastion/04a403af-fcae-4e10-9960-b9970243a4aa",
+    "date": "2026-08-24",
+    "source": "Ashby: Bastion [Bastion]",
+    "location": "US Remote",
+    "department": "Product",
+    "active": true,
+    "slug": "role3a4aa"
+  },
+  {
     "id": "3c2cf74d-a6b7-4e07-ac42-84753ead9ce7",
     "title": "Senior Manager - Compliance",
     "company": "Mudrex",
