@@ -1,0 +1,208 @@
+import { ToolUsageTracker } from '@/components/tracking/tool-usage-tracker';
+import { Accordion, AccordionContent, AccordionItem, AccordionTrigger } from '@/components/ui/accordion';
+import { Badge } from '@/components/ui/badge';
+import { interviewData, type Question, type Role } from '@/lib/interview-questions';
+import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
+import { PageHeader } from "@/components/page-header";
+import { PageShell } from "@/components/page-shell";
+import { CtaBanner } from "@/components/cta-banner";
+
+const QuestionItem = ({ question }: { question: Question }) => (
+ <div className="border-b py-4">
+  <div className="flex flex-wrap items-center gap-2 mb-2">
+   <Badge variant="outline" className="font-mono text-xs">{question.id}</Badge>
+   <Badge variant="secondary" className="text-xs font-medium">{question.difficulty}</Badge>
+   <Badge variant="outline" className="text-xs font-normal text-muted-foreground">{question.category}</Badge>
+  </div>
+  <p className="font-semibold text-foreground">{question.question}</p>
+  
+  <div className="mt-3 space-y-3 text-sm text-muted-foreground">
+   <div>
+    <h4 className="font-semibold text-foreground mb-1">Ideal Answer</h4>
+    <p className="italic">{question.idealAnswer.coreIdea}</p>
+    <ul className="list-disc pl-5 mt-1 space-y-1">
+     {question.idealAnswer.keyPoints.map((p: string, i: number) => <li key={i}>{p}</li>)}
+    </ul>
+    {question.idealAnswer.example && (
+     <Card className="my-2 bg-card">
+      <CardContent className="p-3">
+       <pre className="text-xs whitespace-pre-wrap font-code bg-transparent p-0"><code>{question.idealAnswer.example}</code></pre>
+      </CardContent>
+     </Card>
+    )}
+   </div>
+
+   <div>
+    <h4 className="font-semibold text-foreground mb-1">Why this matters:</h4>
+    <ul className="list-disc pl-5 space-y-1">
+      {question.whyThisMatters.map((p: string, i: number) => <li key={i}>{p}</li>)}
+    </ul>
+   </div>
+
+    <div>
+    <h4 className="font-semibold text-foreground mb-1">Follow-ups:</h4>
+    <ul className="list-disc pl-5 space-y-1">
+      {question.followUps.map((p: string, i: number) => <li key={i}>{p}</li>)}
+    </ul>
+   </div>
+
+   <div>
+    <h4 className="font-semibold text-foreground mb-1 text-destructive/80">Red Flags:</h4>
+    <ul className="list-disc pl-5 space-y-1 text-destructive/80">
+      {question.redFlags.map((p: string, i: number) => <li key={i}>{p}</li>)}
+    </ul>
+   </div>
+  </div>
+ </div>
+);
+
+const RoleSection = ({ roleData }: { roleData: Role }) => {
+ return (
+  <div id={roleData.id} className="pt-8">
+   <div className="mb-4">
+    <div>
+     <h2 className="text-2xl font-bold">{roleData.role}</h2>
+     <p className="text-sm text-muted-foreground">{roleData.snapshot}</p>
+    </div>
+   </div>
+   <Accordion type="single" collapsible className="w-full">
+    {Object.entries(roleData.questions).map(([difficulty, questions]) => (
+     <AccordionItem value={difficulty} key={difficulty}>
+      <AccordionTrigger className="text-lg font-medium">{difficulty} Questions</AccordionTrigger>
+      <AccordionContent>
+       {questions.map((q, i) => <QuestionItem key={i} question={q} />)}
+      </AccordionContent>
+     </AccordionItem>
+    ))}
+   </Accordion>
+  </div>
+ );
+};
+
+
+const faqSchema = {
+ '@context': 'https://schema.org',
+ '@type': 'FAQPage',
+ mainEntity: interviewData.roles.flatMap(role =>
+  Object.values(role.questions).flat().slice(0, 2).map((q) => ({
+   '@type': 'Question',
+   name: q.question,
+   acceptedAnswer: {
+    '@type': 'Answer',
+    text: [q.idealAnswer.coreIdea, ...(q.idealAnswer.keyPoints || []).slice(0, 2)].join(' '),
+   },
+  }))
+ ).slice(0, 40),
+};
+
+export default function InterviewQuestionBankPage() {
+  return (
+    <div className="flex flex-col min-h-screen">
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
+      <main className="flex-grow">
+        <ToolUsageTracker toolName="Interview Questions" />
+        <PageShell>
+          <section className="text-center mb-8">
+            <div className="site-container">
+              <PageHeader
+                title="Web3 Interview Question Bank"
+                description="Comprehensive interview questions, ideal answers, red flags, and scoring rubrics across engineering, product, and leadership roles."
+              />
+            </div>
+          </section>
+
+          <div className="site-container">
+            <div className="grid grid-cols-1 md:grid-cols-12 gap-8">
+              <aside className="md:col-span-3 md:sticky top-[72px] self-start">
+                <Card className="border-border/70 bg-card shadow-none">
+                  <CardHeader>
+                    <CardTitle className="text-base">Quick Navigation</CardTitle>
+                  </CardHeader>
+                  <CardContent>
+                    <ul className="space-y-2 text-sm">
+                      {interviewData.roles.map(role => (
+                        <li key={role.id}>
+                          <a href={`#${role.id}`} className="text-muted-foreground hover:text-primary transition-colors text-xs">{role.role}</a>
+                        </li>
+                      ))}
+                      <li>
+                        <a href="#appendix-a" className="text-muted-foreground hover:text-primary transition-colors text-xs">Appendix A: Behavioral</a>
+                      </li>
+                      <li>
+                        <a href="#appendix-b" className="text-muted-foreground hover:text-primary transition-colors text-xs">Appendix B: Scoring Guide</a>
+                      </li>
+                    </ul>
+                  </CardContent>
+                </Card>
+              </aside>
+
+              <div className="md:col-span-9">
+                <Card className="mb-8 border-border/70 bg-card shadow-none">
+                  <CardHeader>
+                    <CardTitle className="text-base">How to use this bank</CardTitle>
+                  </CardHeader>
+                  <CardContent className="space-y-2 text-muted-foreground text-sm">
+                    <p>This question bank is a reference for both hiring managers and candidates.</p>
+                    <ul className="list-disc pl-5 space-y-1">
+                      <li>Use difficulty tags to tailor questions to the role&apos;s seniority.</li>
+                      <li>Use &quot;Follow-ups&quot; to probe for depth and differentiate between good and great candidates.</li>
+                      <li>&quot;Red Flags&quot; and &quot;Common Pitfalls&quot; highlight frequent misconceptions or unsafe patterns.</li>
+                      <li>The scoring rubric provides a framework for consistent evaluation across interviews.</li>
+                    </ul>
+                  </CardContent>
+                </Card>
+
+                {interviewData.roles.map(role => (
+                  <RoleSection key={role.id} roleData={role} />
+                ))}
+
+                <div id="appendix-a" className="pt-8">
+                  <h2 className="text-xl font-bold mb-4">Appendix A: Universal Behavioral Questions</h2>
+                  <Card className="border-border/70 bg-card shadow-none">
+                    <CardContent className="pt-6">
+                      <ul className="list-decimal pl-5 space-y-3 text-muted-foreground text-sm">
+                        {interviewData.appendixA.map((item, i) => (
+                          <li key={i}>
+                            <p className="font-semibold text-foreground">{item.question}</p>
+                            <p className="text-xs italic">{item.pattern}</p>
+                          </li>
+                        ))}
+                      </ul>
+                    </CardContent>
+                  </Card>
+                </div>
+
+                <div id="appendix-b" className="pt-8">
+                  <h2 className="text-xl font-bold mb-4">Appendix B: Scoring Guide</h2>
+                  <Card className="border-border/70 bg-card shadow-none">
+                    <CardContent className="pt-6 space-y-2 text-muted-foreground text-sm">
+                      <p>{interviewData.appendixB.description}</p>
+                      <ul className="list-disc pl-5 space-y-1">
+                        {interviewData.appendixB.guide.map((item, i) => (
+                          <li key={i}><strong className="text-foreground">{item.score}:</strong> {item.meaning}</li>
+                        ))}
+                      </ul>
+                    </CardContent>
+                  </Card>
+                </div>
+                
+                <CtaBanner
+                  variant="jobs"
+                  title="Looking for a Web3 Job?"
+                  className="col-span-full"
+                />
+
+                <div className="pt-8">
+                  <p className="text-xs text-center text-muted-foreground">{interviewData.disclaimer}</p>
+                </div>
+              </div>
+            </div>
+          </div>
+        </PageShell>
+      </main>
+    </div>
+  );
+}

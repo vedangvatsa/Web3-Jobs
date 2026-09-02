@@ -1,0 +1,344 @@
+{
+  "premier-common-s3nse": {
+    "summaryLead": "Common S3nse gathers privacy engineers, security researchers, cryptographers, and cypherpunks at De Hallen Studio in Amsterdam on September 4-5, 2026, for a two-day conference-and-hackathon anchoring the city's Cypherpunk Week.",
+    "sections": [
+      {
+        "heading": "From ETHDam to Common S3nse",
+        "content": [
+          "Amsterdam's CryptoCanal built its reputation on ETHDam, the privacy-focused Ethereum event it ran in 2023, 2024, and 2025. For this year the team retired the old name and launched Common S3nse, keeping the two-day conference-plus-hackathon format and the early September slot while widening the aperture to privacy, security, and digital freedom as a whole. The continuity matters more than the branding: same organizers, same city, and a program that treats privacy engineering as serious technical work rather than a niche.",
+          "The timing is deliberate. Common S3nse sits at the center of Cypherpunk Week in Amsterdam, a stretch of days when adjacent events cluster around the same themes and audience. DashCon, the week's companion conference, runs on September 3, and a combined pass covers both if you want the full run of the week.",
+          "The room skews technical. Organizers describe the expected mix as privacy engineers, security researchers, cryptographers, philosophers, and cypherpunks, which is a fair preview of hallway conversation quality: expect zero-knowledge proofs, censorship resistance, and secure infrastructure to dominate over token price talk."
+        ]
+      },
+      {
+        "heading": "Two Stages and a Pearl on the Line",
+        "content": [
+          "Conference programming runs across a main stage and a second stage on both days, and every paid ticket covers both rooms. Early speaker announcements include Ameen Soleimani of Privacy Pools and 0xbow, Kieran Mesquita of RAILGUN, Danny Sanders from Trezor, and the writer Sal the Agorist. Applications to speak stay open for anyone working on decentralization, zk tooling, secure infrastructure, or responsible AI.",
+          "The hackathon breaks the usual weekend template. Accepted builders spend a week constructing their projects online before anyone lands in Amsterdam, then arrive ready to present what organizers call their pearl live on stage during the conference. Applying to hack is also the only free route in: accepted hackers get full access to both days of talks and networking.",
+          "Running alongside is Best Pearls, a curated showcase for finished products, early prototypes, and raw ideas across privacy, security, decentralization, and freedom tech. Showcase applications are open to anyone shipping something worth attention, which turns one corner of the venue into a working demo floor for scouts, collaborators, and the merely curious."
+        ]
+      },
+      {
+        "heading": "Bounties, Students, and Volunteers",
+        "content": [
+          "Hackathon prize support comes from ENS Domains, SuperteamNL, and Mobula, each listed on the event page with a 2k bounty attached. For students, the pitch from organizers is blunt: if you have a technical background, the hackathon is the best way to learn, connect, and get fully involved rather than watching from the back row.",
+          "Non-technical attendees get a lane too. The volunteer crew handles logistics, guest services, production, MC duties, and hacker support, and volunteers see how a grassroots, politically unapologetic conference actually gets run. Media and community partnership applications remain open as well for organizations that want in without buying a bundle."
+        ]
+      },
+      {
+        "heading": "Ticket Math and Getting There",
+        "content": [
+          "Pricing is simple enough to plan around. The standard guest pass costs 130 euros for both days. Day tickets run 80 euros and cover Friday or Saturday individually. Students pay 15 euros with a university or hogeschool ID shown at the door. The combo ticket pairs Common S3nse with DashCon for 200 euros, and the Buoy bundle hands companies or communities ten passes plus website branding for 5,000 euros.",
+          "Travel costs have softeners attached. Travelswap offers five percent off bookings with the code s3nse, capped at fifty dollars, and Nomadz advertises stablecoin payments and discounted rates across a large inventory of stays. Both are linked directly from the event site, so factor them into budgeting before you book anything retail.",
+          "The venue is De Hallen Studio at Hannie Dankbaarpassage 18, inside Amsterdam's De Hallen complex and a tram ride from the center. Read CryptoCanal's manifesto before you go; the team frames this as an event not afraid to be political, and the programming follows through on that promise."
+        ]
+      }
+    ]
+  },
+  "premier-singhacks": {
+    "summaryLead": "SingHacks 2026, Tenity's second-edition hackathon, brings students and professionals together in Singapore on September 4-5 for a free, onsite 48-hour sprint building agentic AI tools for banking, insurance, and digital assets.",
+    "sections": [
+      {
+        "heading": "A Second Edition With a Sharper Brief",
+        "content": [
+          "SingHacks returns for its second edition on September 4-5, 2026, produced by Tenity, the fintech innovation organization behind the event. The format is a two-day, fully onsite hackathon in Singapore with no overnight stays permitted; the venue closes each evening after the program ends and reopens the next morning.",
+          "This year's theme is agentic AI applied to finance. Participants build autonomous agents that take on real problems in banking, insurance, and digital assets, guided by mentors supplied by partner institutions. Any programming language or framework is fair game, which keeps the entry barrier low for newcomers who bring energy rather than a specific stack.",
+          "Organizers bill SingHacks as Asia's first agentic AI hackathon dedicated to fintech, and they are planning for more than 200 hackers alongside over ten partner organizations. Registration runs through the event's Luma page, and applications are reviewed rather than automatic."
+        ]
+      },
+      {
+        "heading": "Three Tracks, Three Institutional Partners",
+        "content": [
+          "The challenge set comes straight from industry partners. In RegTech Intelligence, backed by banking partner Julius Baer, teams build agents that surface compliance risks, flag suspicious transactions, and streamline customer onboarding for financial institutions drowning in manual review work.",
+          "Empowered Finance, with Hedera as blockchain partner, asks for agentic systems around payments, identity, and impact aimed at trusted, inclusive innovation. Conversational Insurance, set jointly by Ancileo and MSIG, tasks teams with turning travel insurance into a conversational journey instead of a form-filling ordeal.",
+          "Support depth is unusual for a hackathon this accessible. The published mentor and judge roster includes engineers and executives from firms such as Goldman Sachs, Societe Generale, Visa, AWS, Snowflake, and Julius Baer itself. Judges evaluate projects on innovation, technical implementation, potential market impact, and presentation quality."
+        ]
+      },
+      {
+        "heading": "How the 48 Hours Actually Run",
+        "content": [
+          "Day one opens with a ceremony: welcome reception, keynote speeches, and team formation before hacking begins. Solo applicants get matched with teammates during formation, and teams cap at four members. A mid-event checkpoint brings mentors around tables for feedback, technical guidance, and strategic advice on the agent solutions taking shape.",
+          "Day two closes with code freeze, final submissions, and live demos to the judging panel. The closing ceremony announces finalist teams advancing to a next stage, with cash prizes among the rewards organizers have promised alongside hiring and collaboration opportunities with partners.",
+          "Logistics are covered once you are in. Meals, drinks, workspace, and development resources come with participation. Bring your own laptop and chargers, pack personal snacks if you like, and add a jacket since Singapore event venues tend to run cold."
+        ]
+      },
+      {
+        "heading": "Cost, Eligibility, and Fine Print",
+        "content": [
+          "Participation is completely free. There is no travel reimbursement, though, so international applicants budget their own flights and accommodation, and everyone must be physically present because there is no hybrid or remote track. That single constraint shapes who shows up: people who already planned to be in Singapore that week, or who consider the access worth the airfare.",
+          "Eligibility is broad by design. Students, developers, startup founders, and AI enthusiasts of any skill level can apply from any country. If you are accepted and cannot make it, tell organizers early so waitlisted participants can claim the spot rather than leaving desks empty.",
+          "For companies, a few sponsorship slots were still open at publication. For everyone else the calculus is short: two days, zero fees, and direct contact with banks, insurers, and chains actively scouting builders for hiring and collaboration."
+        ]
+      }
+    ]
+  },
+  "premier-cochabamba": {
+    "summaryLead": "Buildathon Cochabamba 2026, organized by Ethereum Bolivia, runs September 11-13 in Cochabamba, convening Latin American developers for three days of hands-on protocol building in Bolivia's Andean valley heartland.",
+    "sections": [
+      {
+        "heading": "Why Cochabamba",
+        "content": [
+          "Ethereum Bolivia calls this the most important blockchain hackathon in the heart of Bolivia, and the setting was chosen with intent. Cochabamba sits in a valley within the cordillera of the Andes, carries a spring-like climate that earned it the nickname City of Eternal Spring, and has grown into the country's recognized technology hub with a serious culinary reputation running alongside.",
+          "The organizing team leans into a solarpunk framing: sustainable futures meeting tradition, modern ambition rooted in place rather than imported wholesale. Landmarks such as the Cristo de la Concordia statue overlooking the city give the week a sense of location you never get from another airport convention center, and the site leans into that identity rather than apologizing for it."
+        ]
+      },
+      {
+        "heading": "Road to Buildathon",
+        "content": [
+          "The buildathon does not start on September 11. A pre-event series called Road to Buildathon runs a schedule of talks and workshops designed to carry participants' ideas as close to production-ready as possible before competitive building begins. It is registration-open now through the Ethereum Bolivia website.",
+          "Expect that program to function partly as curriculum and partly as team formation, which matters in hackathon culture where well-formed teams outperform solo entries almost every time. If you are serious about the main event, treating Road to Buildathon as required homework is the obvious play."
+        ]
+      },
+      {
+        "heading": "Three Days and Twenty-Plus Workshops",
+        "content": [
+          "The headline numbers published on the event page: three days of building, more than 200 hackers expected, and over twenty workshops across the program. Prize amounts had not been announced at publication and were listed as TBA, so plan your attendance around the building rather than the payout until organizers say otherwise.",
+          "The emphasis throughout is hands-on protocol building rather than pitch theater. For Latin American developers it doubles as one of the few chances to spend three uninterrupted days with peers who share timezone, language, and deployment constraints, which is exactly the kind of context that makes post-event collaboration stick.",
+          "A buildathon also rewards different preparation than a conference does. Come with a problem worth solving and a rough team shape in mind, because twenty-plus workshops across three days go fast, and the builders who arrive with direction get disproportionately more out of mentors and peers than the ones improvising from scratch.",
+          "The decentralized-web framing on the event page is worth reading literally too. Ethereum Bolivia positions the buildathon as building the future of the web with solarpunk energy in the Andes, and the program structure, heavy on workshops over keynotes, backs that language up."
+        ]
+      },
+      {
+        "heading": "Before You Register",
+        "content": [
+          "Registration runs through ethereumbolivia.org, and the Road to Buildathon series carries its own signup within it. Since prize amounts remain TBA and the workshop lineup continues to fill in, the practical move is registering early and following Ethereum Bolivia's Telegram channel, where updates land first alongside their Instagram, Facebook, LinkedIn, and X accounts.",
+          "One last calibration: this is a builder's event in a valley city, not a capital-city spectacle. If your September calendar already holds bigger conferences, weigh what those cannot offer: three days where the main activity is writing code next to people deploying on the same protocol stack, facing the same regional constraints, in the same language."
+        ]
+      },
+      {
+        "heading": "Making the Trip",
+        "content": [
+          "Cochabamba markets itself as the strategic meeting point at the geographic center of Bolivia, which simplifies logistics compared with events split between cities. Follow Ethereum Bolivia on Telegram, Instagram, LinkedIn, or X for schedule updates as the program fills in between now and September.",
+          "On the decision itself: this suits builders who want workshop density and long stretches of actual building over speaker-lineup glamour. Register through ethereumbolivia.org, keep an eye on the Road to Buildathon calendar, and book accommodation early, since valley-city hotel stock around a 200-person event has a way of tightening fast."
+        ]
+      }
+    ]
+  },
+  "premier-enugu": {
+    "summaryLead": "Web3Conf Enugu runs September 19-26, 2026, bringing African developers, founders, and communities together in Enugu, Nigeria, for eight days of web3 education and on-chain career building under the NextBridge Africa banner.",
+    "sections": [
+      {
+        "heading": "Eight Days, One City",
+        "content": [
+          "Most crypto conferences compress into a weekend and call it density. Web3Conf Enugu stretches across eight full days, from September 19 to 26, 2026, in Enugu, capital city of Enugu State in southeastern Nigeria. That length signals intent: a sustained program of education and community building rather than a single-day keynote parade followed by a party.",
+          "The stated mission, per the organizers, is uniting African developers, founders, and communities around two connected goals: learning and livelihoods. Education comes first, but the explicit endpoint is on-chain career building, which means attendees should expect programming geared toward converting skills into paid work inside the ecosystem, not just accumulating certificates and stickers.",
+          "The event runs under the NextBridge Africa umbrella, whose web3conf subdomain serves as the official home for registration and program details."
+        ]
+      },
+      {
+        "heading": "Who the Week Serves",
+        "content": [
+          "Developers get the most direct draw: concentrated sessions and community contacts in a region where web3 talent runs deep and keeps growing. Founders get a room full of potential collaborators, early users, and local distribution knowledge in one place, which normally requires months of scattered meetups to assemble.",
+          "For students and career-switchers, career-oriented events like this tend to carry the practical material conferences skip: how to contribute to open source in ways that get noticed, where grants and bounties actually live, and how remote work with international teams functions day to day from Nigeria.",
+          "Community is the third leg. Nigerian web3 growth has been substantially community-led, and an eight-day format gives existing groups room to run their own meetups, workshops, and side gatherings around whatever core program the organizers publish."
+        ]
+      },
+      {
+        "heading": "Planning Around a Week-Long Format",
+        "content": [
+          "Week-long events reward pacing over heroics. Do not attempt to attend everything; pick the sessions matching your goals for the week and leave slack for hallway conversations, because at community-driven conferences that is where most real opportunities surface anyway.",
+          "Verify specifics before booking travel. The official site at web3conf.nextbridge.africa carries current schedule, venue, and registration information, and was unreachable at the time of writing, so confirm details there or through the organizers' channels close to your travel dates. Long-format programs routinely finalize venues and session times late.",
+          "Budget extra days on either end if you can manage it. With visitors arriving from across Nigeria and the wider continent, the informal gatherings before and after the formal program carry half the value of the trip."
+        ]
+      },
+      {
+        "heading": "Why Enugu Matters to the Map",
+        "content": [
+          "Events anchored outside the usual capitals matter for how African web3 actually develops. They shorten the distance between global protocols and local builders, keep talent and spending in secondary cities, and force the industry's attention beyond Lagos whenever attendance numbers prove the demand exists.",
+          "If you are a developer in West Africa, this is among the most accessible large-scale web3 gatherings running in September. If you represent a protocol or company hiring in the region, it is the clearest single point of contact with Enugu's community that the calendar offers all year.",
+          "Set expectations accordingly and this format pays off: eight days is long enough for real skill transfer, not just introductions, which is exactly what an education-and-careers mandate requires. Arrive with one skill to deepen and one contact type to find, and the length starts working for you instead of against you."
+        ]
+      }
+    ]
+  },
+  "premier-ethtokyoweek": {
+    "summaryLead": "ETHTokyo Week spreads nine days of Ethereum talks, workshops, and community side events across Tokyo from September 19-27, 2026, organized by the Ethereum Japan community and closing with an ETHGlobal hackathon weekend.",
+    "sections": [
+      {
+        "heading": "A Week Built Like a Festival",
+        "content": [
+          "Instead of one venue and one badge, ETHTokyo Week distributes Ethereum programming across Tokyo for nine days, September 19 through 27, 2026. Talks and workshops anchor the earlier stretch, side events fill the gaps between them, and the whole structure builds toward an ETHGlobal hackathon weekend at the end.",
+          "The format borrows a lesson other cities learned the hard way: cramming everything into a single conference day forces every good session into competition with every other one, while a week lets communities run their own formats without fighting for oxygen. For visitors it also means one flight buys far more than one agenda, provided you pace yourself accordingly.",
+          "The trade-off is that this kind of week demands more from your calendar discipline than any single-venue event. Decide early which days belong to workshops, which to meetings, and which to the hackathon, because Tokyo will otherwise happily fill all nine days for you."
+        ]
+      },
+      {
+        "heading": "The Community Running It",
+        "content": [
+          "Ethereum Japan, the community organization behind the week, describes Ethereum as technology operated by a community, and it operates accordingly. Its public work includes starter resources for setting up wallets, acquiring ETH, reading the whitepaper, and finding developer documentation, alongside standing initiatives such as a digital assets working group and the ETHTokyo project itself.",
+          "That community-first ownership shapes the character of the week. Expect Japanese developer groups, local startups, and international guests sharing programming, with both English and Japanese in play across Tokyo's Ethereum scene. It is a different texture from corporate-produced mega-conferences, closer to a citywide meetup network operating at festival scale for nine days straight."
+        ]
+      },
+      {
+        "heading": "Navigating Nine Days",
+        "content": [
+          "Plan backwards from the ETHGlobal finale. Hackathon weekends consume energy and sleep, so treat the preceding weekdays as prime time for deeper workshop attendance and relationship building, then guard the final weekend for heads-down building rather than sightseeing.",
+          "Side events carry much of the week's value, and they accumulate late. Watch the Ethereum Japan event listings as September approaches, since community-run sessions and company meetups get added continuously rather than announced all at once. Tokyo's rail network makes a multi-venue week genuinely workable; basing yourself near a loop line keeps venue-hopping sane.",
+          "Dates again for the calendar: September 19-27, 2026, with scheduling announcements flowing through ethereum-japan.org as the program locks in. Bookmark both the event and news pages there; a distributed week like this lives or dies on how early you catch its updates."
+        ]
+      },
+      {
+        "heading": "Who Should Make the Trip",
+        "content": [
+          "Builders get the clearest case: workshops during the week, a hackathon finale, and a dense local developer community that rarely travels to Western conferences in comparable numbers. Protocol and research people get a window into Japanese institutional interest in Ethereum through the working group's public activity.",
+          "Newcomers are served explicitly too. The organization maintains beginner pathways covering wallets, acquiring ETH, whitepaper reading, and developer docs, so arriving with zero background and leaving with shipped hackathon project experience is a realistic arc for the full nine days.",
+          "ETHGlobal's involvement changes the stakes of that finale as well. Their hackathon weekends are where many builders first get noticed by protocol teams, so even first-time participants should treat submission day with some seriousness.",
+          "For everyone else: Tokyo in late September, a citywide program, and a hackathon finish make this the easiest Ethereum-branded reason to book Japan all year."
+        ]
+      }
+    ]
+  },
+  "premier-freedomtech": {
+    "summaryLead": "Freedom Tech DC 2026, the Bitcoin Policy Institute's flagship summit, returns to Washington on September 22-23 with policymakers and technologists debating money, speech, and compute, bracketed by a black-tie gala at the Andrew W. Mellon Auditorium.",
+    "sections": [
+      {
+        "heading": "Money, Speech, and Compute on One Agenda",
+        "content": [
+          "The Bitcoin Policy Institute frames its 2026 summit around a plain thesis: national power now runs on technologies of money, speech, and compute, and Washington is writing the rules governing all three. Session themes take up questions like who gets access to the most capable systems and on whose authority, whether the energy and compute build-out becomes broad competition or a set of chokepoints a few firms can throttle, and whether frontier capability can stay open and lawful at all.",
+          "That framing explains the guest-list style. This is a policy gathering where senators share billing with bitcoin CEOs, not a developer conference with a policy track bolted on for optics.",
+          "It is also the institute's flagship return to the capital. BPI is a non-profit think tank established in 2021, publishing research on strategic reserves, mining and energy, financial privacy, and national security, and that pipeline feeds the summit's programming directly."
+        ]
+      },
+      {
+        "heading": "The Venues Tell You the Intent",
+        "content": [
+          "Day one, September 22, runs all day at the National Press Club under the banner Establishing the Stakes. Day two, September 23, moves to PubKey DC, the bitcoin-themed pub downtown, for Hands-On Policy Work, followed by a closing party there that evening.",
+          "The shift from press club to bitcoin pub is the argument made spatially: formal debate first, practical work second. Between the two, on the evening of September 22, sits the Freedom Tech Gala at the Andrew W. Mellon Auditorium, black tie dress, doors opening at 8:00 pm.",
+          "The program extends past the summit proper. An inaugural DC Beefsteak welcome takes place at PubKey DC on September 21, and a Day on the Hill at the United States Capitol follows on the morning of September 24 for those staying through."
+        ]
+      },
+      {
+        "heading": "Who Has Taken This Stage Before",
+        "content": [
+          "Past editions drew senators Cynthia Lummis, Marsha Blackburn, and Ted Cruz; House Majority Whip Tom Emmer; congressmen Ritchie Torres, Josh Gottheimer, and Ro Khanna; SEC Commissioner Hester Peirce; and Bo Hines, executive director of the White House Council on Digital Assets.",
+          "Industry representation has been just as heavy: Strategy executive chairman Michael Saylor, MARA CEO Fred Thiel, River CEO Alex Leishman, Anchorage Digital co-founder Nathan McCauley, BitGo CEO Mike Belshe, and Strive founder Vivek Ramaswamy among them.",
+          "The 2026 lineup had not been published when this guide went up, with the speaker page promising announcements soon. Given the pattern, expect sitting policymakers alongside bitcoin company leadership, and treat the past-speaker wall as the honest preview of caliber."
+        ]
+      },
+      {
+        "heading": "Access, Tickets, and the Gala",
+        "content": [
+          "Full-access tickets covering the entire September 21-24 program are allocated by request rather than checkout: submit the request form and the team follows up with next steps. Capacity is limited, and the request model is stated plainly on the site, so apply early rather than assuming availability.",
+          "The one openly sold item is the gala. Gala passes are available to anyone through the ticketing link, priced separately from the summit, with no invitation or approval step required. If your goal is the room rather than the panels, that is the shortest path in.",
+          "Press inquiries route through BPI communications, same-day responses promised, with credentials requestable by email. For anyone tracking Bitcoin policy in Washington, these remain the most concentrated two days of access the city offers."
+        ]
+      }
+    ]
+  },
+  "premier-midwestbtc": {
+    "summaryLead": "The Midwest Bitcoin Summit takes over the Greater Columbus Convention Center in Columbus, Ohio on September 23-24, 2026, with programming spanning mining, payments, financial infrastructure, and sovereign adoption.",
+    "sections": [
+      {
+        "heading": "Bitcoin's Regional Moment",
+        "content": [
+          "Bitcoin conferences cluster on the coasts and in Miami. The Midwest Bitcoin Summit exists precisely because that clustering misses a large share of the country, and it returns to Columbus on September 23-24, 2026, as the Midwest's dedicated Bitcoin gathering.",
+          "Regional placement matters here more than it sounds. The Midwest carries much of America's energy, industrial, and agricultural base, which is exactly where bitcoin's physical economy touches ground: mining sites, grid dynamics, and the payment needs of ordinary businesses. Holding the summit in Ohio puts those constituencies in one hall instead of flying them to a resort.",
+          "The venue choice signals scale intent too. The Greater Columbus Convention Center is a major downtown facility, not a hotel ballroom, which tells you what kind of gathering the organizers are building toward."
+        ]
+      },
+      {
+        "heading": "Four Pillars on the Program",
+        "content": [
+          "Organizers scope the content along four lines: mining, payments, financial infrastructure, and sovereign adoption. That range is deliberate, bridging the people running machines and managing power with the people building services and custody on top of the protocol.",
+          "Mining coverage placed in the Midwest tends toward the practical end of the spectrum: energy contracts, site operations, hardware realities, and the state-level regulatory terrain miners navigate outside the coastal policy bubble.",
+          "The payments and infrastructure threads speak to merchants, treasury managers, and developers weighing bitcoin rails against card networks, while sovereign adoption sessions address individuals and institutions taking self-custody and monetary independence seriously rather than treating it as a slogan."
+        ]
+      },
+      {
+        "heading": "Columbus Practicalities",
+        "content": [
+          "Columbus is an easy convention city: a major airport with strong domestic connections, a compact downtown, and hotel stock within walking distance of the convention center. Late September typically brings mild Ohio autumn weather, which makes the walk between venues pleasant rather than punishing.",
+          "Confirm ticketing, speaker, and schedule details at midwestbtc.com before locking travel, since the site loads its content through an app shell and details firm up closer to the date. As always with newer regional events, booking refundable rates until the final agenda publishes is the prudent move.",
+          "Driving distance matters for this audience. Columbus sits within a day's drive of Chicago, Detroit, Indianapolis, Pittsburgh, and Cincinnati, which historically makes midwestern gatherings car-friendly in a way coastal conferences never are."
+        ]
+      },
+      {
+        "heading": "Who Should Be in the Room",
+        "content": [
+          "Miners and energy professionals get the most targeted content, given the four-pillar emphasis. Payments builders and bitcoin-forward business owners get vendor exposure and operational case studies. Self-custody-minded individuals get structured education without big-city friction.",
+          "For anyone building bitcoin products aimed at middle America, this is the room where distribution questions get answered by people who live the answer, and where the difference between coastal assumptions and midwestern reality becomes obvious within a couple of conversations.",
+          "One honest caveat for planners: published detail on this event was thin at the time of writing, with the site gating content behind an app shell. Treat everything above as the organizers' stated scope, verify speakers and agenda directly before committing, and expect a regional summit to trade marquee headliners for higher signal-per-attendee anyway.",
+          "If you are choosing one midwestern bitcoin trip this year, the two-day span also makes it feasible to pair with other late-September events without writing off a full week of work."
+        ]
+      }
+    ]
+  },
+  "premier-ethsofia": {
+    "summaryLead": "ETHSofia 2026 headlines Blockchain Week Bulgaria from September 23-25 at Sofia Tech Park, pairing the region's technical Ethereum conference with an institutional finance forum and a curated slate of side events.",
+    "sections": [
+      {
+        "heading": "One Week, One Campus",
+        "content": [
+          "Blockchain Week Bulgaria runs September 23-25, 2026, at Sofia Tech Park, and ETHSofia anchors it as the flagship technical conference. The week is structured as a shared platform: builders, founders, financial institutions, policymakers, and infrastructure providers get one campus and one coordinated calendar instead of competing events scattered across the city.",
+          "The split is clean. September 24 belongs to ETHSofia itself, gathering engineers, founders, and protocol architects working on scalable, secure, production-ready systems. September 25 shifts registers entirely with F3, the Future Finance Forum, convening financial leaders, regulators, and enterprise innovators around tokenized assets, compliant digital finance, and AI-driven financial systems.",
+          "Around both headline days, independently organized side events plug into the official program after review by the team, which is how community workshops and individual team meetups earn a slot on the week's calendar."
+        ]
+      },
+      {
+        "heading": "Six Tracks From Protocol to Policy",
+        "content": [
+          "Programming organizes into six themes spanning blockchain's practical footprint. Technical Innovation covers scalability, security, automation, and production-grade systems. Finance and Institutions spans tokenization, onchain automation, payments, custody, and enterprise adoption.",
+          "AI and Autonomous Finance addresses agentic AI, intelligent automation, risk systems, and AI-enhanced digital asset infrastructure. Consumer and Culture in Web3 covers real adoption, digital ownership, creator economies, and community-driven ecosystems.",
+          "Infrastructure in Production tracks the path from working prototype to deployed-at-scale, and Regulation and Policy rounds things out with compliance, legal frameworks, and the road to institutional adoption. The spread means a compliance officer and a smart-contract engineer both have concrete reasons to attend, occasionally landing in the same session, which is rarer than it should be."
+        ]
+      },
+      {
+        "heading": "Built for Two Audiences at Once",
+        "content": [
+          "Most technical conferences struggle to hold institutional attention, and most finance forums bore engineers into the hallway. Blockchain Week Bulgaria sequences both deliberately: hard technical content on day one, institutional and regulatory content on day two, with the shared campus doing the matchmaking in between.",
+          "For Balkan-region builders especially, the week concentrates relationships that usually require separate trips to Berlin, London, or Zug. The organizing team runs visible curation across partnerships and speaker selection, signaling a reviewed program rather than pay-to-play staging.",
+          "Recap videos from the 2024 and 2025 editions are linked from the site, useful if you want a visual sense of scale and crowd composition before committing travel budget.",
+          "The week's positioning as a shared platform also cuts both ways in a good way: companies and teams that want to host their own session submit through the site for review rather than negotiating separately, which keeps the calendar coherent even while it grows.",
+          "That review step matters for attendees too. A curated side-event list is the difference between a week with a real agenda and a week of guessing which rooftop party has the people you came to meet."
+        ]
+      },
+      {
+        "heading": "Getting In and Getting Around",
+        "content": [
+          "Tickets flow through the Blockchain Week Bulgaria site, where a countdown clock was running at publication. Sofia remains one of Europe's more affordable capitals for flights and lodging, and late September sits comfortably in shoulder season.",
+          "Sofia Tech Park occupies the innovation-district end of the Bulgarian capital, with the city center a short ride away, so pairing conference days with evening side events across town stays realistic rather than aspirational.",
+          "Choosing between headline days: pick ETHSofia for engineering depth, F3 for tokenization and regulatory direction, or the full week if your role straddles both worlds, as most product and founder roles now do whether job descriptions admit it or not."
+        ]
+      }
+    ]
+  },
+  "premier-btchel": {
+    "summaryLead": "BTCHEL 2026 brings the Nordic Bitcoin community to Kaapelitehdas in Helsinki on September 25-26, pairing developer-facing talks and the European Mining Summit with an explicitly grassroots, bootstrapped conference ethos.",
+    "sections": [
+      {
+        "heading": "The Nordics Convene at the Cable Factory",
+        "content": [
+          "BTCHEL bills itself as the number one Bitcoin conference in the Nordics, and the supporting claim has substance: it is the region's only conference dedicated specifically to Bitcoin, returning September 25-26, 2026, to Kaapelitehdas, Helsinki's former cable factory turned cultural center on the waterfront.",
+          "The organizing ethos is printed plainly on the site: independent, bootstrapped, grassroots, and community driven. No corporate parent underwrites the event, which shapes both the economics of attending and the tone of everything on stage.",
+          "Scope is deliberately Nordic. Local adoption stories and international perspectives share the program, and the conference doubles as the annual moment when Nordic bitcoiners who mostly know each other online finally share a room."
+        ]
+      },
+      {
+        "heading": "Payments, Finance, and Mining in Practice",
+        "content": [
+          "Programming leans applied rather than theoretical. Organizers promise cutting-edge developments across Bitcoin payments, finance, and mining, with an explicit aim of demonstrating real-world use of Bitcoin as money instead of re-litigating store-of-value debates.",
+          "This edition pairs the developer-facing conference with the European Mining Summit, per the event listing, giving mining its own concentrated track within the broader program rather than scattering it across unrelated stages.",
+          "The sponsor roster reflects that applied tilt. Mining pool and operations names like Ocean, Braiins, Vnish, and Terahash appear alongside wallet and infrastructure brands including Blockstream, Bull Bitcoin, Trezor, BitBox, Cake Wallet, CoinMotion, and Miners Loop."
+        ]
+      },
+      {
+        "heading": "The 2025 Report Card",
+        "content": [
+          "Last year's edition drew more than 1,000 attendees, upwards of 70 speakers, and over 20 partners, according to the organizers' own recap figures. Anonymous post-event surveys produced ratings the team quotes openly, including phrases like an unusually good industry event and quality over quantity.",
+          "Previous speaker lists read like a cross-section of Bitcoin culture: security researcher Mikko Hypponen, early Satoshi-era contributor Martti Malmi, author and entrepreneur Jeff Booth, and Blockstream CEO Adam Back have all taken the stage.",
+          "For 2026, speaker confirmations continue rolling out through the dedicated agenda site, so check the lineup page close to your booking date rather than relying on this snapshot.",
+          "The community-driven label shows up in the small things too: a biweekly newsletter called Nordic Node keeps the regional scene connected between editions, a community hub page aggregates local groups, and the organizers publish travel guidance for internationals rather than leaving visitors to improvise.",
+          "Press materials and a merch shop round out the operation, which is more infrastructure than most grassroots conferences bother with. It signals an event run by people who intend to keep running it, year after year, on their own terms."
+        ]
+      },
+      {
+        "heading": "Tickets and Logistics",
+        "content": [
+          "Tickets sell through the event shop on btchel.com, and subscribing to the newsletter reportedly unlocks a five percent discount code, which is the cheapest known route in. Side events run around the main program and carry their own page on the site.",
+          "Kaapelitehdas sits west of Helsinki's center and is reached easily by tram. Late September in Helsinki means coat weather and shortening days, so pack for autumn rather than the memory of summer.",
+          "Volunteer and sponsorship pages remain active for anyone wanting in beyond attendance. And if your September itinerary already includes ETHSofia or Freedom Tech DC earlier that week, note the sequencing: BTCHEL closes the month's European run on September 25-26, making Helsinki a natural final stop."
+        ]
+      }
+    ]
+  }
+}

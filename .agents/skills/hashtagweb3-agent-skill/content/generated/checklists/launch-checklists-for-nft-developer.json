@@ -1,0 +1,416 @@
+{
+ "meta": {
+ "contentType": "checklists",
+ "topic": "launch",
+ "niche": "nft-developer",
+ "generatedAt": "2026-05-17T05:30:09.440Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "NFT Collection Launch Checklist",
+ "description": "Complete NFT collection launch checklist from smart contract to sold-out mint. Covers allowlists, metadata, minting infrastructure.",
+ "keywords": [
+ "nft-developer",
+ "checklists",
+ "launch",
+ "web3",
+ "smart-contract",
+ "blockchain",
+ "smart-contract-preparation",
+ "metadata-&-art",
+ "minting-infrastructure"
+ ],
+ "canonicalSlug": "launch-checklists-for-nft-developer"
+ },
+ "content": {
+ "intro": "The complete NFT launch checklist covering smart contracts, metadata, minting infrastructure, and community coordination. Avoid the mistakes that kill launches.",
+ "sections": [
+ {
+ "heading": "Smart Contract Preparation",
+ "description": "Get your minting contract production-ready.",
+ "items": [
+ {
+ "title": "Choose the right token standard",
+ "description": "ERC-721 for unique items, ERC-721A for gas-optimized batch mints, ERC-1155 for editions.",
+ "priority": "critical",
+ "category": "Architecture"
+ },
+ {
+ "title": "Implement allowlist functionality",
+ "description": "Use Merkle proofs for gas-efficient allowlist verification. Test with full allowlist size.",
+ "priority": "critical",
+ "category": "Features"
+ },
+ {
+ "title": "Set up mint phases correctly",
+ "description": "Configure allowlist phase, public phase, and any holder-exclusive mints.",
+ "priority": "critical",
+ "category": "Features"
+ },
+ {
+ "title": "Configure royalty settings (EIP-2981)",
+ "description": "Set royalty percentage and recipient. Consider operator filter for enforcement.",
+ "priority": "important",
+ "category": "Revenue"
+ },
+ {
+ "title": "Implement reveal mechanism",
+ "description": "Plan metadata reveal: instant, delayed, or Dutch auction style.",
+ "priority": "important",
+ "category": "Features"
+ },
+ {
+ "title": "Add withdraw function with correct access",
+ "description": "Only owner/multisig should withdraw. Test withdrawal to intended address.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Set per-wallet mint limits",
+ "description": "Prevent whales from monopolizing. Different limits per phase.",
+ "priority": "important",
+ "category": "Fairness"
+ },
+ {
+ "title": "Get contract audited",
+ "description": "At minimum, use automated tools. High-value launches need professional audits.",
+ "priority": "critical",
+ "category": "Security"
+ }
+ ]
+ },
+ {
+ "heading": "Metadata & Art",
+ "description": "Prepare artwork and metadata infrastructure.",
+ "items": [
+ {
+ "title": "Generate complete collection art",
+ "description": "All artwork ready, traits verified, rarity distribution checked.",
+ "priority": "critical",
+ "category": "Art"
+ },
+ {
+ "title": "Verify trait rarity distribution",
+ "description": "Confirm rare traits are actually rare. Check for unintended combinations.",
+ "priority": "critical",
+ "category": "Quality"
+ },
+ {
+ "title": "Create metadata JSON files",
+ "description": "Generate all metadata following OpenSea standards. Verify JSON validity.",
+ "priority": "critical",
+ "category": "Metadata"
+ },
+ {
+ "title": "Upload art to decentralized storage",
+ "description": "Use IPFS or Arweave. Pin content properly. Record all CIDs.",
+ "priority": "critical",
+ "category": "Storage"
+ },
+ {
+ "title": "Set up metadata server for reveal",
+ "description": "If delayed reveal, configure server to return placeholder then real metadata.",
+ "priority": "important",
+ "category": "Infrastructure"
+ },
+ {
+ "title": "Test metadata on all major marketplaces",
+ "description": "Verify display on OpenSea, Blur, Rarible before launch.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Prepare collection-level metadata",
+ "description": "Banner, logo, description, links for marketplace collection pages.",
+ "priority": "important",
+ "category": "Branding"
+ },
+ {
+ "title": "Create placeholder/unrevealed art",
+ "description": "Design compelling placeholder for pre-reveal period.",
+ "priority": "important",
+ "category": "Art"
+ }
+ ]
+ },
+ {
+ "heading": "Minting Infrastructure",
+ "description": "Build strong minting website and infrastructure.",
+ "items": [
+ {
+ "title": "Build or configure mint site",
+ "description": "Use battle-tested platforms or build custom. No last-minute site changes.",
+ "priority": "critical",
+ "category": "Website"
+ },
+ {
+ "title": "Test wallet connections thoroughly",
+ "description": "Verify MetaMask, WalletConnect, Coinbase Wallet all work correctly.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Implement proper error handling",
+ "description": "Clear messages for: sold out, not allowlisted, wrong phase, insufficient funds.",
+ "priority": "important",
+ "category": "UX"
+ },
+ {
+ "title": "Set up CDN and load balancing",
+ "description": "Prepare for traffic spikes. DDoS protection essential.",
+ "priority": "critical",
+ "category": "Infrastructure"
+ },
+ {
+ "title": "Configure RPC endpoints with fallbacks",
+ "description": "Use multiple RPC providers. Implement failover for high availability.",
+ "priority": "critical",
+ "category": "Infrastructure"
+ },
+ {
+ "title": "Test under load",
+ "description": "Simulate hundreds of concurrent minters. Identify bottlenecks.",
+ "priority": "important",
+ "category": "Testing"
+ },
+ {
+ "title": "Prepare mobile experience",
+ "description": "Test on mobile wallets and browsers. Many minters use phones.",
+ "priority": "important",
+ "category": "UX"
+ },
+ {
+ "title": "Set up transaction monitoring",
+ "description": "Real-time dashboard showing mints, revenue, gas spent.",
+ "priority": "important",
+ "category": "Monitoring"
+ }
+ ]
+ },
+ {
+ "heading": "Allowlist Management",
+ "description": "Build and verify your allowlist.",
+ "items": [
+ {
+ "title": "Finalize allowlist addresses",
+ "description": "Lock allowlist 24-48 hours before mint. No last-minute additions.",
+ "priority": "critical",
+ "category": "Process"
+ },
+ {
+ "title": "Generate and verify Merkle root",
+ "description": "Create Merkle tree, verify several random addresses can prove inclusion.",
+ "priority": "critical",
+ "category": "Technical"
+ },
+ {
+ "title": "Set Merkle root on contract",
+ "description": "Call setMerkleRoot function. Verify it was set correctly.",
+ "priority": "critical",
+ "category": "Deployment"
+ },
+ {
+ "title": "Build proof generation API",
+ "description": "API endpoint to return Merkle proof for any allowlisted address.",
+ "priority": "critical",
+ "category": "Infrastructure"
+ },
+ {
+ "title": "Test allowlist minting end-to-end",
+ "description": "Full test with real addresses on testnet. Verify non-allowlisted can't mint.",
+ "priority": "critical",
+ "category": "Testing"
+ },
+ {
+ "title": "Communicate allowlist status to community",
+ "description": "Provide way for users to check if they're allowlisted.",
+ "priority": "important",
+ "category": "Communication"
+ },
+ {
+ "title": "Plan for unclaimed allowlist spots",
+ "description": "Decide what happens to unminted allowlist allocation.",
+ "priority": "important",
+ "category": "Planning"
+ },
+ {
+ "title": "Set up bot protection",
+ "description": "Implement CAPTCHA or other measures to prevent bot minting.",
+ "priority": "important",
+ "category": "Security"
+ }
+ ]
+ },
+ {
+ "heading": "Community & Marketing",
+ "description": "Coordinate community for successful launch.",
+ "items": [
+ {
+ "title": "Announce mint date and time clearly",
+ "description": "Multiple timezone formats. Pin in all channels. Count down.",
+ "priority": "critical",
+ "category": "Communication"
+ },
+ {
+ "title": "Publish mint price and supply",
+ "description": "Clear pricing for each phase. Total supply. Any free mints.",
+ "priority": "critical",
+ "category": "Communication"
+ },
+ {
+ "title": "Create mint tutorial",
+ "description": "Step-by-step guide with screenshots. Video walkthrough.",
+ "priority": "important",
+ "category": "Education"
+ },
+ {
+ "title": "Brief moderators on launch day",
+ "description": "Mods should know common issues, scam patterns, and escalation paths.",
+ "priority": "critical",
+ "category": "Operations"
+ },
+ {
+ "title": "Prepare anti-scam warnings",
+ "description": "Post official links prominently. Warn about fake sites and DMs.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Set up launch day support",
+ "description": "Dedicated support channel. Fast response for mint issues.",
+ "priority": "important",
+ "category": "Support"
+ },
+ {
+ "title": "Coordinate with influencers/collabs",
+ "description": "Brief partners on timing. Provide assets and talking points.",
+ "priority": "important",
+ "category": "Marketing"
+ },
+ {
+ "title": "Prepare post-mint communication",
+ "description": "What to post when sold out, if not sold out, or if issues occur.",
+ "priority": "important",
+ "category": "Communication"
+ }
+ ]
+ },
+ {
+ "heading": "Launch Day Execution",
+ "description": "Execute the mint smoothly.",
+ "items": [
+ {
+ "title": "Verify contract state before mint",
+ "description": "Check Merkle root, prices, limits, phase timing one final time.",
+ "priority": "critical",
+ "category": "Verification"
+ },
+ {
+ "title": "Monitor gas prices",
+ "description": "Be ready to advise on gas settings. Pause if network is congested.",
+ "priority": "important",
+ "category": "Monitoring"
+ },
+ {
+ "title": "Watch for minting issues in real-time",
+ "description": "Monitor failed transactions. Identify patterns quickly.",
+ "priority": "critical",
+ "category": "Monitoring"
+ },
+ {
+ "title": "Update community on progress",
+ "description": "Post mint counts at milestones. Build excitement.",
+ "priority": "important",
+ "category": "Communication"
+ },
+ {
+ "title": "Handle support tickets rapidly",
+ "description": "Quick response to stuck transactions, allowlist issues.",
+ "priority": "critical",
+ "category": "Support"
+ },
+ {
+ "title": "Monitor for exploit attempts",
+ "description": "Watch for unusual mint patterns, large purchases, bot activity.",
+ "priority": "critical",
+ "category": "Security"
+ },
+ {
+ "title": "Prepare emergency pause if needed",
+ "description": "Have pause transaction ready. Know the trigger conditions.",
+ "priority": "critical",
+ "category": "Emergency"
+ },
+ {
+ "title": "Document any issues for post-mortem",
+ "description": "Note what went wrong for future improvement.",
+ "priority": "nice-to-have",
+ "category": "Process"
+ }
+ ]
+ },
+ {
+ "heading": "Post-Mint Actions",
+ "description": "What to do after the mint completes.",
+ "items": [
+ {
+ "title": "Announce sellout or end of mint",
+ "description": "Thank community. Share final numbers.",
+ "priority": "critical",
+ "category": "Communication"
+ },
+ {
+ "title": "Execute metadata reveal",
+ "description": "Trigger reveal at announced time. Verify metadata updates on marketplaces.",
+ "priority": "critical",
+ "category": "Metadata"
+ },
+ {
+ "title": "Withdraw funds to treasury",
+ "description": "Move ETH to secure multisig. Don't leave funds in mint contract.",
+ "priority": "critical",
+ "category": "Treasury"
+ },
+ {
+ "title": "Set up collection on marketplaces",
+ "description": "Verify collection, set royalties, add description and links.",
+ "priority": "critical",
+ "category": "Marketplaces"
+ },
+ {
+ "title": "Monitor secondary sales",
+ "description": "Track floor price, volume, holder distribution.",
+ "priority": "important",
+ "category": "Analytics"
+ },
+ {
+ "title": "Provide rarity tools access",
+ "description": "Submit to rarity.tools, integrate rarity in your site.",
+ "priority": "important",
+ "category": "Tools"
+ },
+ {
+ "title": "Announce roadmap next steps",
+ "description": "Keep momentum with clear next milestones.",
+ "priority": "important",
+ "category": "Communication"
+ },
+ {
+ "title": "Conduct launch retrospective",
+ "description": "Document what worked, what didn't, for future launches.",
+ "priority": "nice-to-have",
+ "category": "Process"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ "Test your Merkle tree with the exact production list: Generate proofs for random addresses and verify on-chain. A wrong Merkle root means no one can mint.",
+ "Have emergency contacts ready: RPC provider support, hosting provider, smart contract devs - all on standby during mint.",
+ "Never change the mint site URL close to launch: Scammers monitor DNS changes. Any URL change gives them opportunity to create fakes.",
+ "Price allowlist mints to cover gas mistakes: New minters often set gas wrong. Slightly lower AL price compensates for their learning curve.",
+ "Prepare three versions of your announcement: Sold out, partially sold, not sold - have all three ready so you respond instantly."
+ ],
+ "relatedResources": []
+ }
+}

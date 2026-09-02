@@ -1,0 +1,16 @@
+{
+  "resource": "https://hashtagweb3.com/api",
+  "authorization_servers": [
+    "https://hashtagweb3.com"
+  ],
+  "scopes_supported": [
+    "read:jobs",
+    "read:news",
+    "read:events",
+    "read:glossary"
+  ],
+  "bearer_methods_supported": [
+    "header"
+  ],
+  "resource_documentation": "https://hashtagweb3.com/developers"
+}

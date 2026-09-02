@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/priceimpact/1200/630'
 data-ai-hint: price impact
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## Understanding Price Impact in DEX Trading

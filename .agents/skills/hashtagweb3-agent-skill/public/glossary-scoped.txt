@@ -1,0 +1,19 @@
+# Hashtag Web3 — Blockchain Glossary Scoped Context
+
+> Scoped taxonomy of 200+ technical Web3, crypto, DeFi, cryptography, and consensus terms.
+
+## Key Glossary Categories
+
+- **Cryptography**: Zero-Knowledge Proofs (ZKP), zk-SNARKs, zk-STARKs, Merkle Trees, BLS Signatures, Elliptic Curve Cryptography.
+- **DeFi & Protocols**: Automated Market Makers (AMM), Liquidity Pools, Impermanent Loss, Flash Loans, Yield Farming, Staking.
+- **Consensus & Infrastructure**: Proof of Stake (PoS), Proof of Work (PoW), Byzantine Fault Tolerance (BFT), Validators, Mempool, Finality.
+- **Layer 2 & Scaling**: Optimistic Rollups, ZK-Rollups, State Channels, Sidechains, Fraud Proofs, Validity Proofs, Account Abstraction (ERC-4337).
+- **Governance & DAOs**: Token Voting, Quadratic Voting, Timelock Controllers, Snapshot, Multisig Wallets.
+
+## API Access
+
+- Endpoint: `GET https://hashtagweb3.com/api/glossary`
+- Query parameters:
+  - `search` (term name or concept)
+  - `category` (category filter)
+  - `limit` (default 50, max 250)

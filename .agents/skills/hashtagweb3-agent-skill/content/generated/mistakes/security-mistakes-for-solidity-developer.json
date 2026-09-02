@@ -1,0 +1,270 @@
+{
+ "meta": {
+ "contentType": "mistakes",
+ "topic": "security",
+ "niche": "solidity-developer",
+ "generatedAt": "2026-05-17T05:30:09.456Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "30 Common Security Mistakes Solidity Developers Make (And How to Avoid Them)",
+ "description": "Learn from the most expensive mistakes in smart contract development. This guide covers 30 critical security errors with real-world consequences and fixes.",
+ "keywords": [
+ "solidity-developer",
+ "mistakes",
+ "security",
+ "web3",
+ "smart-contract",
+ "vulnerabilities",
+ "audit",
+ "Solidity",
+ "Foundry"
+ ],
+ "canonicalSlug": "security-mistakes-for-solidity-developer"
+ },
+ "content": {
+ "intro": "Smart contract bugs have cost billions of dollars. This guide covers the 30 most common security mistakes Solidity developers make, with real-world consequences and concrete solutions to prevent them in your code.",
+ "sections": [
+ {
+ "heading": "Critical Vulnerabilities",
+ "description": "These mistakes have led to the largest exploits in DeFi history. Avoiding them is non-negotiable.",
+ "items": [
+ {
+ "title": "Missing Reentrancy Protection",
+ "mistake": "Making external calls before updating state variables, allowing attackers to re-enter and drain funds.",
+ "consequence": "The DAO hack ($60M), Cream Finance ($130M), and countless others exploited this exact pattern.",
+ "solution": "Always use checks-effects-interactions pattern AND ReentrancyGuard. Update all state before external calls.",
+ "severity": "critical"
+ },
+ {
+ "title": "Unchecked External Call Returns",
+ "mistake": "Ignoring return values from low-level calls like.call().delegatecall(), or.send().",
+ "consequence": "Failed transfers silently succeed, leading to accounting errors and fund loss.",
+ "solution": "Always check return values: (bool success, ) = addr.call{value: amount}(\"\"); require(success);",
+ "severity": "critical"
+ },
+ {
+ "title": "Oracle Price Manipulation",
+ "mistake": "Using spot prices from AMMs without TWAP or multiple oracle sources.",
+ "consequence": "Attackers use flashloans to manipulate prices within a single transaction. Hundreds of millions lost.",
+ "solution": "Use Chainlink or other decentralized oracles. For AMM prices, use TWAP with sufficient window.",
+ "severity": "critical"
+ },
+ {
+ "title": "Missing Access Control",
+ "mistake": "Leaving admin functions without proper onlyOwner or role-based modifiers.",
+ "consequence": "Anyone can call privileged functions, drain funds, or take over the contract.",
+ "solution": "Use OpenZeppelin's AccessControl or Ownable2Step. Audit every external/public function.",
+ "severity": "critical"
+ },
+ {
+ "title": "Uninitialized Proxy Implementation",
+ "mistake": "Deploying upgradeable contracts without calling the initializer or protecting it.",
+ "consequence": "Attackers call initialize() and become owner. Wormhole lost $320M to a variant of this.",
+ "solution": "Call _disableInitializers() in the constructor and ensure initialize is called during deployment.",
+ "severity": "critical"
+ },
+ {
+ "title": "Delegatecall to Untrusted Contract",
+ "mistake": "Using delegatecall with a user-controlled address, allowing arbitrary code execution.",
+ "consequence": "Attacker executes malicious code in your contract's context, taking full control.",
+ "solution": "Never delegatecall to addresses that users can influence. Whitelist allowed targets.",
+ "severity": "critical"
+ },
+ {
+ "title": "tx.origin for Authorization",
+ "mistake": "Using tx.origin instead of msg.sender for access control.",
+ "consequence": "Phishing attacks can trick users into calling malicious contracts that relay to yours.",
+ "solution": "Always use msg.sender for authorization. tx.origin should almost never be used.",
+ "severity": "critical"
+ },
+ {
+ "title": "Missing Slippage Protection",
+ "mistake": "Not allowing users to specify minimum output amounts in swaps or deposits.",
+ "consequence": "Sandwich attacks extract value from every transaction. Users lose to MEV bots.",
+ "solution": "Add minAmountOut parameters to all trading functions. Let users set their slippage tolerance.",
+ "severity": "critical"
+ },
+ {
+ "title": "Integer Overflow in Pre-0.8 Solidity",
+ "mistake": "Using Solidity <0.8 without SafeMath library for arithmetic operations.",
+ "consequence": "Overflows wrap around, allowing attackers to create tokens from nothing or bypass checks.",
+ "solution": "Use Solidity 0.8+ or SafeMath for all arithmetic. Be careful with unchecked blocks.",
+ "severity": "critical"
+ },
+ {
+ "title": "Insufficient Validation of Merkle Proofs",
+ "mistake": "Not validating that Merkle leaves are formatted correctly, allowing proof reuse.",
+ "consequence": "Attackers claim multiple times or claim on behalf of others.",
+ "solution": "Hash leaves with abi.encodePacked(msg.sender, amount) and mark claimed addresses.",
+ "severity": "critical"
+ }
+ ]
+ },
+ {
+ "heading": "Major Security Issues",
+ "description": "These mistakes are frequently exploited and can lead to significant fund loss.",
+ "items": [
+ {
+ "title": "Using transfer() or send() for ETH",
+ "mistake": "Using.transfer() or.send() which forward only 2300 gas, failing on some contracts.",
+ "consequence": "Transfers to contracts with receive() functions that need more gas will fail permanently.",
+ "solution": "Use.call{value: amount}(\"\") with reentrancy protection instead.",
+ "severity": "major"
+ },
+ {
+ "title": "Hardcoded Gas Values",
+ "mistake": "Hardcoding gas amounts that may become insufficient after EVM upgrades.",
+ "consequence": "Functions become unusable after gas repricing, potentially locking funds.",
+ "solution": "Avoid hardcoded gas values. Test with different gas prices and EVM versions.",
+ "severity": "major"
+ },
+ {
+ "title": "Unsafe Type Casting",
+ "mistake": "Casting between types without checking for truncation (e.g., uint256 to uint128).",
+ "consequence": "Large values get truncated, leading to incorrect calculations and potential exploits.",
+ "solution": "Use SafeCast library or explicit bounds checking before downcasting.",
+ "severity": "major"
+ },
+ {
+ "title": "Missing Zero Address Check",
+ "mistake": "Not validating that critical addresses (owner, fee recipient) aren't address(0).",
+ "consequence": "Funds sent to zero address are burned. Ownership set to zero address locks the contract.",
+ "solution": "Add require(addr != address(0)) for all address parameters in setters and constructors.",
+ "severity": "major"
+ },
+ {
+ "title": "Signature Replay Attacks",
+ "mistake": "Not including nonces or chainId in signed messages, allowing reuse across chains/transactions.",
+ "consequence": "Valid signatures can be replayed, allowing unauthorized actions.",
+ "solution": "Use EIP-712 with chainId and per-user nonces. Increment nonce after each use.",
+ "severity": "major"
+ },
+ {
+ "title": "Block Timestamp Manipulation",
+ "mistake": "Relying on block.timestamp for precise timing in high-stakes situations.",
+ "consequence": "Miners can manipulate timestamp by several seconds, affecting outcomes.",
+ "solution": "Use block numbers for precision. Allow ~15 second tolerance for timestamp-based logic.",
+ "severity": "major"
+ },
+ {
+ "title": "Front-Running Vulnerable Approvals",
+ "mistake": "Changing ERC20 allowance without first setting to zero.",
+ "consequence": "Attacker front-runs and spends both old and new allowance.",
+ "solution": "Use increaseAllowance/decreaseAllowance or set to 0 first, then new value.",
+ "severity": "major"
+ },
+ {
+ "title": "Denial of Service via Block Gas Limit",
+ "mistake": "Writing loops that iterate over unbounded arrays.",
+ "consequence": "Array grows until processing exceeds block gas limit, permanently bricking the contract.",
+ "solution": "Use pagination, caps, or pull patterns instead of push patterns with loops.",
+ "severity": "major"
+ },
+ {
+ "title": "Incorrect Inheritance Order",
+ "mistake": "Wrong order of inherited contracts leading to unexpected function resolution.",
+ "consequence": "Wrong implementation gets called, potentially bypassing security checks.",
+ "solution": "List base contracts from most base-like to most derived. Test inheritance carefully.",
+ "severity": "major"
+ },
+ {
+ "title": "Storage Collision in Upgrades",
+ "mistake": "Changing storage layout between proxy upgrades, corrupting existing data.",
+ "consequence": "Variables point to wrong storage slots, leading to data corruption and exploits.",
+ "solution": "Only append new variables. Use storage gaps. Run upgrade-safety checks.",
+ "severity": "major"
+ }
+ ]
+ },
+ {
+ "heading": "Common Code Quality Issues",
+ "description": "These mistakes may not directly cause exploits but indicate poor security practices.",
+ "items": [
+ {
+ "title": "Using Floating Pragma",
+ "mistake": "Using pragma solidity ^0.8.0 instead of a fixed version.",
+ "consequence": "Contract may compile with untested compiler version introducing bugs.",
+ "solution": "Lock pragma to specific version you've tested: pragma solidity 0.8.20;",
+ "severity": "minor"
+ },
+ {
+ "title": "Missing Events for State Changes",
+ "mistake": "Not emitting events when critical state variables change.",
+ "consequence": "Makes monitoring and debugging difficult. Hides malicious admin actions.",
+ "solution": "Emit events for all state changes, especially in admin functions.",
+ "severity": "minor"
+ },
+ {
+ "title": "Public Functions That Should Be External",
+ "mistake": "Using public visibility when external would suffice.",
+ "consequence": "Wastes gas and signals lack of attention to detail in security reviews.",
+ "solution": "Use external for functions only called from outside. Reserve public for internal calls.",
+ "severity": "minor"
+ },
+ {
+ "title": "Unused Return Values",
+ "mistake": "Calling functions without using their return values.",
+ "consequence": "May miss important status information or error conditions.",
+ "solution": "Either use the return value or explicitly discard: (, uint b) = func();",
+ "severity": "minor"
+ },
+ {
+ "title": "Missing NatSpec Documentation",
+ "mistake": "Not documenting functions, parameters, and security assumptions.",
+ "consequence": "Makes auditing harder, increases chance of misuse by integrators.",
+ "solution": "Add @notice, @param, @return, and @dev tags to all external functions.",
+ "severity": "minor"
+ },
+ {
+ "title": "Using ecrecover Directly",
+ "mistake": "Using raw ecrecover without handling edge cases and malleability.",
+ "consequence": "Signature malleability can lead to duplicate valid signatures.",
+ "solution": "Use OpenZeppelin's ECDSA library which handles all edge cases.",
+ "severity": "minor"
+ },
+ {
+ "title": "Inconsistent Error Handling",
+ "mistake": "Mixing require, revert, and assert without clear purpose.",
+ "consequence": "assert uses all remaining gas. Confuses intention of error handling.",
+ "solution": "Use require for input validation, assert only for invariants, custom errors for gas efficiency.",
+ "severity": "minor"
+ },
+ {
+ "title": "Magic Numbers in Code",
+ "mistake": "Using raw numbers like 10000 for basis points without constants.",
+ "consequence": "Makes code harder to audit and maintain. Easy to introduce errors.",
+ "solution": "Define constants: uint256 constant BASIS_POINTS = 10000;",
+ "severity": "minor"
+ },
+ {
+ "title": "Not Using SafeERC20",
+ "mistake": "Calling ERC20 transfer/approve directly without handling non-standard tokens.",
+ "consequence": "Some tokens don't return bool, causing transfers to fail silently.",
+ "solution": "Use OpenZeppelin's SafeERC20 for all token interactions.",
+ "severity": "major"
+ },
+ {
+ "title": "Ignoring Compiler Warnings",
+ "mistake": "Deploying contracts with unresolved compiler warnings.",
+ "consequence": "Warnings often indicate real issues that could become vulnerabilities.",
+ "solution": "Treat warnings as errors. Resolve all warnings before deployment.",
+ "severity": "minor"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ "Keep a personal 'bugs I've made' document. Reviewing your past mistakes is the fastest way to stop repeating them.",
+ "Before every deployment, ask yourself: 'How would I attack this contract if I had unlimited capital for one block?'",
+ "Follow audit reports from Trail of Bits, OpenZeppelin, and Spearbit. Each report teaches you new attack patterns.",
+ "Use Foundry's console.log liberally during development, but remove all logs before deployment to save gas.",
+ "When you find a bug, don't just fix it. Add a test that would have caught it. Build your test suite from real bugs."
+ ],
+ "relatedResources": [
+ "Smart Contract Security Checklist for Solidity Developers",
+ "60 Portfolio Project Ideas for Solidity Developers",
+ "Essential Development Tools for Solidity Developers"
+ ]
+ }
+}

@@ -1,0 +1,12 @@
+/* TEAM */
+Name: Hashtag Web3
+Site: https://hashtagweb3.com
+Twitter: @hashtag_web3
+Location: Global / Remote
+
+/* SITE */
+Standards: HTML5, CSS3, ES2024
+Framework: Next.js 14
+Hosting: Vercel
+Language: English
+Doctype: HTML5

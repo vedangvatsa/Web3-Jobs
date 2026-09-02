@@ -1,0 +1,185 @@
+name: Refresh Jobs Cache & Post Social
+
+on:
+  schedule:
+    # 9 AM IST / 11:30 AM SGT = 3:30 AM UTC
+    - cron: '30 3 * * *'
+    # 5 PM IST / 7:30 PM SGT = 11:30 AM UTC
+    - cron: '30 11 * * *'
+    # 1 AM IST / 3:30 AM SGT = 7:30 PM UTC
+    - cron: '30 19 * * *'
+  workflow_dispatch:
+    inputs:
+      force_news:
+        description: 'Bypass news cooldown and post digests now'
+        type: boolean
+        default: false
+      diagnose_telegram:
+        description: 'Only diagnose bot/channel access (no posts)'
+        type: boolean
+        default: false
+
+concurrency:
+  group: social-syndication
+  cancel-in-progress: true
+
+jobs:
+  diagnose:
+    if: ${{ github.event_name == 'workflow_dispatch' && github.event.inputs.diagnose_telegram == 'true' }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Diagnose Telegram access
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NEWS_BOT_TOKEN: ${{ secrets.TELEGRAM_NEWS_BOT_TOKEN }}
+          TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
+          TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
+          TELEGRAM_HW3_GROUP_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+        run: node scripts/telegram-diagnose.mjs
+
+  refresh-and-post:
+    if: ${{ github.event.inputs.diagnose_telegram != 'true' }}
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch RSS feeds and update cache
+        run: npx tsx scripts/refresh-jobs-cache.ts
+        continue-on-error: true
+
+      - name: Pre-bake job slugs into cache
+        run: node scripts/prebake_slugs.js
+
+      - name: Fetch Web3 Events from Luma
+        run: node scripts/fetch-web3-events.mjs
+        continue-on-error: true
+
+      - name: Post to X
+        env:
+          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
+          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: npx tsx scripts/social/publish-social.ts --platform twitter
+        continue-on-error: true
+
+      - name: Post to Bluesky
+        env:
+          BLUESKY_HANDLE: hashtagweb3.bsky.social
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+        run: npx tsx scripts/social/publish-social.ts --platform bluesky
+        continue-on-error: true
+
+      - name: Refill Buffer queue (LinkedIn + Instagram)
+        env:
+          BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
+          BUFFER_ORG_ID: ${{ secrets.BUFFER_ORG_ID }}
+        run: npx tsx scripts/social/buffer-refill.ts
+        continue-on-error: true
+
+      - name: Post to Telegram (Jobs → @web3hiring + @jobsweb3)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
+          TELEGRAM_EXTRA_CHANNEL_IDS: '@jobsweb3'
+        run: node scripts/telegram-post.mjs
+        continue-on-error: true
+
+      - name: Post to Telegram (Jobs → hashtagweb3 group)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+          TELEGRAM_THREAD_ID: '1457'
+        run: node scripts/telegram-post.mjs
+        continue-on-error: true
+
+      - name: Post to Telegram (News)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_NEWS_CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
+        run: node scripts/telegram-news.mjs
+        continue-on-error: true
+
+      - name: Post to Telegram (News → hashtagweb3 group)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_NEWS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+          TELEGRAM_THREAD_ID: '4016'
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
+        run: node scripts/telegram-news.mjs
+        continue-on-error: true
+
+      - name: Post to Telegram (AI News)
+        env:
+          TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
+          TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          FORCE_NEWS: ${{ github.event.inputs.force_news == 'true' && '1' || '' }}
+        run: node scripts/telegram-ai-news.mjs
+        continue-on-error: true
+
+      # - name: Post to Telegram (AI Jobs)
+      #   env:
+      #     TELEGRAM_AI_BOT_TOKEN: ${{ secrets.TELEGRAM_AI_BOT_TOKEN }}
+      #     TELEGRAM_AI_CHANNEL_ID: ${{ secrets.TELEGRAM_AI_CHANNEL_ID }}
+      #   run: node scripts/telegram-ai-jobs.mjs
+      #   continue-on-error: true
+
+
+      - name: Commit and push updated cache and state
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+
+          # Fetch remote to ensure origin/main is fresh for the merge script
+          git fetch origin main
+
+          # Merge local state files with remote to prevent rebase conflicts
+          npx tsx scripts/social/merge-state.ts
+
+          # Stage state/cache first so rebase isn't blocked by unstaged merges
+          git add --ignore-errors content/jobs-cache.json content/events-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json .telegram-posted*.json .telegram-news-posted*.json .telegram-news-last*.json .telegram-ai-news-posted.json .telegram-ai-news-last.json .telegram-ai-jobs-posted.json 2>/dev/null || true
+
+          # Pull latest to avoid push conflicts from concurrent runs
+          git stash push --include-untracked -m "ci-state" --quiet || true
+          git pull --rebase origin main || true
+          git stash pop --quiet || true
+
+          # Re-stage after stash pop
+          git add --ignore-errors content/jobs-cache.json content/events-cache.json scripts/social/publish-state.json scripts/social/buffer-refill-state.json .telegram-posted*.json .telegram-news-posted*.json .telegram-news-last*.json .telegram-ai-news-posted.json .telegram-ai-news-last.json .telegram-ai-jobs-posted.json 2>/dev/null || true
+
+          if git diff --staged --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "chore: refresh jobs cache + social post"
+            for i in 1 2 3; do
+              git push origin main && break
+              echo "Push attempt $i failed, reconciling and retrying..."
+              git pull --rebase -X theirs origin main || git pull --rebase origin main || true
+              sleep 2
+            done
+          fi

@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/passivelp/1200/630'
 data-ai-hint: passive liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## Passive Liquidity Provision in DeFi

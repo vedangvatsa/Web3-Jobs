@@ -1,0 +1,420 @@
+{
+  "mu-316170118": {
+    "summaryLead": "Every Monday at noon Eastern, the CryptoStronger Worldwide community on Meetup runs a live Zoom session built around one question: can ordinary people earn cryptocurrency without falling for scams? The August 24, 2026 edition continues that series, presented by EazyBot and hosted by Winston Thomas. It is entirely online, free to join, and pitched at everyone from complete beginners to traders who have already been burned.",
+    "sections": [
+      {
+        "heading": "What the session covers",
+        "content": [
+          "The core subject is auto-trading software: programmable bots that buy and sell cryptocurrency on your behalf according to rules set by their developers. Organizers promise a live, interactive walkthrough of how these bots operate, how they get configured, and why the EazyBot team argues that keeping trading capital inside your own exchange account, under your control one hundred percent of the time, beats handing funds to a third-party manager.",
+          "There is also a performance pitch woven through the session. The description points to a live account that the presenters say has been running since 2019, executing more than 27,000 trades with a claimed ninety-nine percent profitable closing rate. Those numbers come straight from the organizers, so treat them as marketing claims to scrutinize rather than independently verified results."
+        ]
+      },
+      {
+        "heading": "The weekly rhythm",
+        "content": [
+          "This is not a one-off webinar. The same session repeats every Monday and Wednesday at 12pm EST, running on the calendar until December 28, 2026, which makes August 24 just one stop on a very long road. Because it recurs twice weekly, missing this particular date costs almost nothing: the next edition arrives within days.",
+          "Attendance happens over Zoom, with access distributed through the CryptoStronger Worldwide Meetup group and the organizers' EazyBotZooms.com page. Registration is free, and the hosts actively encourage attendees to invite a friend. Expect some salesmanship alongside the education: a free 45-day trial account and a referral credit scheme both feature prominently in the materials."
+        ]
+      },
+      {
+        "heading": "Who should tune in",
+        "content": [
+          "Beginners get the clearest value. If terms like exchange API keys or automated order routing mean little to you yet, a guided hour with room for live questions is a low-pressure way to pick up the vocabulary and see the mechanics demonstrated in real time.",
+          "Experienced traders may find less novelty, though the interactive format means pointed questions about configuration, risk controls, and exchange integration can get answered directly by the presenter rather than buried in forum threads. Anyone researching the broader trading-bot market could equally use the session as a case study in how these products are marketed to retail audiences."
+        ]
+      },
+      {
+        "heading": "Keep your skepticism handy",
+        "content": [
+          "Crypto earnings webinars occupy a noisy corner of the internet, and enthusiasm from the podium should never substitute for personal diligence. The healthy approach is simple: watch closely, note every claim, and verify independently before any money moves anywhere.",
+          "Practical checks include confirming exactly where funds would sit, understanding what permissions a bot requests on your exchange account, and reading withdrawal terms with care. As a rule, legitimate automation tools never need custody of your private keys.",
+          "None of this amounts to an accusation, merely standard due diligence for anything promising consistent returns in a famously volatile market. Attend curious, leave cautious, and let the free trial period prove the product before real capital is ever committed to it."
+        ]
+      }
+    ]
+  },
+  "luma-evt-IQVFxlaGK3Ze4t6": {
+    "summaryLead": "Soldering irons, vero boards, and three hours of hands-on circuit building arrive at the Royal Docks Centre for Sustainability on Monday, August 24, 2026. Introduction to Electronics and Computing is part of the CDT Maker Club's August Takeover at the University of East London, and it assumes no prior experience with electronics or soldering — just curiosity about how hardware actually works beneath the software layer most of us live on.",
+    "sections": [
+      {
+        "heading": "Inside the three-hour lab",
+        "content": [
+          "The session runs from 18:00 to 21:00 on Monday evening and is structured as a practical workshop rather than a lecture. Mark Adrian Stokes, Senior Lecturer in Cybersecurity and Digital Forensics at the University of East London, leads participants from first principles of electronic circuits through to a finished logic circuit assembled and soldered onto a vero board.",
+          "Safety receives explicit attention throughout. Handling a soldering iron is unfamiliar territory for most attendees, so instructions and safety guidance are delivered continuously during the build instead of being front-loaded into a briefing nobody remembers. With capacity capped at sixteen participants per session, nobody waits long for individual help."
+        ]
+      },
+      {
+        "heading": "What you'll learn",
+        "content": [
+          "Four outcomes anchor the curriculum: the basic principles of electronics and logic circuits, how common electronic components work together, safe operation of a soldering iron, and the assembly of a working circuit onto board by your own hands.",
+          "For anyone whose computing knowledge stops at software, the payoff is perspective. Understanding gates, currents, and physical assembly changes how you think about every machine you touch — useful groundwork whether you are heading toward embedded systems, hardware security, digital forensics, or simply want the confidence to repair things yourself instead of replacing them."
+        ]
+      },
+      {
+        "heading": "Booking and practicalities",
+        "content": [
+          "The workshop is free, suitable for ages sixteen and over, and requires advance registration because spaces are genuinely limited. One detail trips people up: the identical material repeats across the whole month in Monday evening, Wednesday morning, and Thursday afternoon slots, so organizers ask each participant to book exactly one session and leave the rest for others.",
+          "August 24 is the third of four Monday evening dates, following August 10 and 17. Should it fill before you register, August 31 remains open, and the weekday alternatives run throughout the Takeover. The venue sits at University Way, London E16 2RD, inside the Royal Docks Centre for Sustainability in the city's east.",
+          "Getting there is straightforward by London standards: the Docklands Light Railway and the Elizabeth line both serve the Royal Docks area, and the campus sits close enough to the water that arriving early costs you nothing but a pleasant walk. Bring nothing but yourself; materials for the build are provided as part of the session."
+        ]
+      },
+      {
+        "heading": "Why the August Takeover matters",
+        "content": [
+          "The CDT Maker Club describes itself as a friendly, student-and-community-run space where anyone can explore, make, and innovate. Its August Takeover packages that ethos into a free programme of practical workshops, demonstrations, and creative sessions led by members of the UEL and wider Maker Club community.",
+          "For East Londoners it is a rare chance to use university-grade facilities without fees or enrolment. For the university it doubles as outreach — and for attendees, one evening spent soldering a logic gate might quietly start a path toward the cybersecurity and digital forensics courses taught down the corridor."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-ylnMA4wkpeyDvYq": {
+    "summaryLead": "Superteam Ukraine is reopening its startup pipeline. Solana Startup Terminal 2.0 runs from August 24 to November 2, 2026, taking founders and developers from raw idea to a submitted Colosseum hackathon project. The free intensive, delivered in Ukrainian and mostly online, pairs a business track with a developer track and attaches real bounties, grants, and prize money to the finish line.",
+    "sections": [
+      {
+        "heading": "Two tracks, one goal",
+        "content": [
+          "Participants choose a lane based on what their project needs. The business track works through value proposition, idea validation and product-market fit, competitor analysis and whitespace hunting, go-to-market strategy, roadmap building, and finally pitch deck preparation — the unglamorous scaffolding that separates fundable startups from interesting hobbies.",
+          "The developer track goes deep on Solana specifics: chain architecture, PDAs, CPIs, and SPL tokens, writing a first on-chain program in Anchor, deploying and testing a smart contract, integrating with DeFi protocols such as DEXs and the Jupiter SDK, tracking transactions and parsing logs, and applying AI sensibly during development. Both tracks converge on the same destination — teams formed during the program submit a joint startup to the Colosseum hackathon."
+        ]
+      },
+      {
+        "heading": "Money on the table",
+        "content": [
+          "This is where Terminal separates itself from a typical online course. Superteam Earn bounties pay between $100 and $2,000-plus for side tasks completed during training. The top three Startup Terminal teams earn $1,000 apiece for strong Colosseum submissions, with additional prizes of up to $10,000 reserved for the best Ukrainian teams on the global hackathon's track.",
+          "Beyond prizes, the listing advertises Superteam grants of $1,000 to $10,000 for promising Solana projects, Colosseum hackathon winnings ranging from $5,000 to $50,000, and potential seed investment of up to $250,000 for standout startups that emerge from the competition. Stack those layers together and the program plainly rewards shipping over attendance."
+        ]
+      },
+      {
+        "heading": "Who fits the program",
+        "content": [
+          "Organizers welcome founders, creators, business developers, marketers, designers, and students — in short, anyone serious about building a crypto startup. Technical experience is not required for the business track, and mixed-skill teams are the intended outcome rather than an accident.",
+          "Developers aiming at the dev track should arrive with foundations in place: entry-level Rust, an understanding of asynchronous programming, working TypeScript knowledge, and familiarity with REST APIs and WebSockets. If that list reads like your current toolkit rather than your aspirational one, you are precisely the audience being addressed."
+        ]
+      },
+      {
+        "heading": "How the weeks flow",
+        "content": [
+          "The format blends online sessions held over Google Meet with occasional offline meetups in Kyiv, scheduled calls with mentors, AI-assisted learning, and sustained teamwork — the listing describes an eight-week arc even as the calendar stretches from late August into early November. Registration requires host approval, so apply early and consider the application itself a rehearsal for pitching.",
+          "With 111 people already marked as going, the cohort should be large enough for genuine team formation across disciplines. The Ukrainian-language delivery matters too: it removes a language tax for local builders who would otherwise navigate Solana documentation, grant applications, and investor conversations in a second language.",
+          "Timing rewards decisiveness. Joining near the August 24 start means catching mentor introductions and team formation from the beginning; sliding in later means retrofitting yourself onto a team mid-sprint before the Colosseum submission window closes. Either way, expect the workload to concentrate hard in the final fortnight as pitches and dev submissions come due."
+        ]
+      }
+    ]
+  },
+  "luma-evt-tEl4FgUf8FyBhhc": {
+    "summaryLead": "MONKEDAO turns five on August 24, 2026, and the celebration happens the old-fashioned way: people in a room, in person, in Vancouver. Hosted by CJ, the anniversary gathering keeps its cards close — the exact venue stays hidden until your registration is approved — but the occasion itself says plenty. A DAO community reaching a fifth birthday is rarer than it should be in crypto, and that alone justifies raising a glass.",
+    "sections": [
+      {
+        "heading": "A five-year milestone",
+        "content": [
+          "Most crypto communities measure their lifespan in months, with Discord servers going quiet long before their tokens do. MONKEDAO reaching five years places it among the longer-running DAO social experiments, and CJ — the host behind the monkemusic handle — has chosen to mark the moment with a physical gathering rather than a Twitter Space.",
+          "Anniversaries like this function as informal reunions. Expect longtime members comparing notes on how much the ecosystem has shifted since the early days, alongside newer arrivals who found the community recently and want faces to attach to usernames they have only seen in chat.",
+          "There is also something quietly defiant about celebrating a fifth birthday at all. The 2021-era cohort of DAOs that MONKEDAO belongs to has thinned considerably, and every surviving community now carries institutional memory — of bear markets, governance fights, inside jokes — that simply cannot be rebuilt once lost."
+        ]
+      },
+      {
+        "heading": "What the evening looks like",
+        "content": [
+          "The listing stays deliberately sparse on programming, which is typical for small community celebrations held at semi-private venues. What is confirmed: Monday, August 24, 2026, somewhere in Vancouver, Canada, at evening scale — a meetup of members and friends rather than a conference with stages and schedules.",
+          "Given the DAO's music-flavored branding under the monkemusic banner, a playlist with personality seems a safe assumption. But plan around the certainties — conversation, community history, milestone energy — rather than published agendas that simply do not exist for this one.",
+          "Small anniversaries reward preparation of a different kind: knowing a bit of the group's history helps. Scroll the community's channels before you go, note who has been around since year one, and bring questions about how the DAO survived its rough patches."
+        ]
+      },
+      {
+        "heading": "Getting past the approval wall",
+        "content": [
+          "Registration requires host approval, and the street address only appears once you are accepted. Twelve people were already listed as going shortly before the date, which signals an intimate crowd where every attendee is either known to the organizer or vouched for by the community's gravity.",
+          "Practical advice: register early rather than day-of, write something genuine in your RSVP about your connection to MONKEDAO, and watch your inbox for the confirmation carrying location details. Approval-gated events consistently reward sincerity over speed, and organizers notice the difference."
+        ]
+      },
+      {
+        "heading": "Vancouver context",
+        "content": [
+          "Vancouver's crypto scene leans toward tight-knit collectives rather than sprawling corporate meetups, and a five-year DAO birthday fits that temperament exactly. The city's creative-technology corridor — gaming, film effects, and an increasing blockchain presence — supplies plenty of builders who prefer community-run rooms over sponsored ones.",
+          "If you are travelling in for the occasion, the map coordinates attached to the listing place the mystery venue squarely in the downtown core, close to transit and the usual after-hours options. Arrive with stories; DAO birthdays run on them."
+        ]
+      }
+    ]
+  },
+  "luma-evt-nZDXabLoibf3NXL": {
+    "summaryLead": "Autonomous agents that hold wallets and pay for things are no longer a thought experiment, and on August 24, 2026 New York gets a room devoted to them. Agents Rise On Solana brings Virtuals Protocol together with the city's builders for an evening of agent-infrastructure talk and unhurried networking — food and drinks provided, capacity strictly limited, approval required for entry.",
+    "sections": [
+      {
+        "heading": "Why agents belong onchain",
+        "content": [
+          "The event's framing is refreshingly blunt: the agent economy is coming to Solana. The underlying thesis holds that autonomous software needs money rails — wallets it controls, transactions it initiates, coordination at the speed and cost a high-throughput chain makes possible. Once an agent can pay for its own inference, hosting, or data feeds, the entire design space changes shape.",
+          "Virtuals Protocol has become one of the visible names pushing agent infrastructure forward, which explains its co-hosting role alongside Solana-aligned organizers. Expect the evening to stay anchored in shipping realities — latency, fees, key management — rather than drifting into abstract speculation about machine minds."
+        ]
+      },
+      {
+        "heading": "Talks plus open floor",
+        "content": [
+          "The structure is deliberately lean. One short talk from the Virtuals Protocol team covers the infrastructure they are shipping, and everything else is open time — a ratio that favors conversation over presentation, appropriate for a field where most practitioners are still negotiating the questions, let alone the answers.",
+          "Sixty-five people had already RSVP'd ahead of the date. For a single-evening New York event that is a sweet spot: big enough for genuine variety among founders, researchers, and investors, small enough that a newcomer can actually meet people instead of circling a packed room all night.",
+          "The talk itself should be treated as a primer rather than a headline act — useful context for anyone who has not followed the agent infrastructure race closely. The real returns come afterward, in side conversations about which agent use cases have actual users and which remain demos wearing a launch announcement."
+        ]
+      },
+      {
+        "heading": "Who fills the room",
+        "content": [
+          "Three groups dominate the guest list: developers building agent frameworks or onchain automation, founders working where AI meets crypto, and investors tracking where agent spending eventually flows. Plain curiosity qualifies too — the listing explicitly welcomes anyone wondering what agents do once they can transact without asking permission.",
+          "If you happen to be hiring in this niche, take note. Engineers fluent in both machine-learning pipelines and Solana program deployment remain scarce, and they congregate at precisely these tightly themed evenings rather than general blockchain mixers.",
+          "Job-seekers can flip that logic: showing up with a GitHub link and a two-minute explanation of your agent project does more for your search than a month of cold outreach ever will."
+        ]
+      },
+      {
+        "heading": "Access and logistics",
+        "content": [
+          "Approval is required and space is limited, so an early RSVP is worth more than a punctual arrival. The precise address unlocks only after registration; the published map pin sits in lower Manhattan near the Bowery corridor, well served by transit.",
+          "Drinks and food are covered by the hosts, which makes this an easy stop straight after work. Bring concrete questions about agent architecture or business models, and follow the co-hosts' channels afterward — events this specialized tend to spin off recurring series when the first edition draws the right crowd."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-nZDXabLoibf3NXL": {
+    "summaryLead": "One evening, one theme: software agents that own wallets and act onchain. On August 24, 2026, Solana and Virtuals Protocol co-host Agents Rise On Solana in New York City, gathering the developers, founders, and researchers turning autonomous agents from impressive demos into functioning products. Attendance is capped, approval applies, and the drinks are on the house.",
+    "sections": [
+      {
+        "heading": "The agent economy lands in New York",
+        "content": [
+          "New York suffers no shortage of crypto meetups, yet few target the agent vertical specifically. This one does, wagering that the combination of Solana's throughput and maturing agent frameworks has finally reached the point where commercial applications — not laboratory experiments — are the realistic topic of conversation.",
+          "The timing tracks a broader shift. Agent protocols spent recent years proving that wallets-and-transactions concepts work at all; the 2026 conversation has moved on to reliability, revenue, and what coordination actually looks like when machines negotiate with machines at network speed.",
+          "For New Yorkers who have watched finance and crypto circles overlap for years, the agent thesis lands on familiar ground. Trading desks already run automated strategies; agents that hold their own budgets and procure services extend that logic into territory where software becomes a genuine economic participant rather than a tool behind an operator."
+        ]
+      },
+      {
+        "heading": "On the agenda",
+        "content": [
+          "Formal programming is minimal by design. A short talk from the Virtuals Protocol team walks through the infrastructure they ship — the plumbing that allows agents to exist, hold assets, and transact onchain — leaving ample oxygen for everything the audience wants to probe.",
+          "The rest is open floor. That layout invites hallway-depth discussions: which agent use cases generate revenue today, how pricing models work when your customer is software, and where Solana-specific constraints push design decisions in directions slower chains would never suggest.",
+          "Come prepared to ask something specific. Generic questions get generic answers at events like this; asking how fee routing works when an agent pays another agent, or what happens when an autonomous wallet hits its spending cap, tends to unlock the conversations worth having."
+        ]
+      },
+      {
+        "heading": "Networking with substance",
+        "content": [
+          "The attendee mix self-selects by interest rather than job title. Sixty-five RSVPs recorded before the event suggest a fairly even blend of founders, researchers, and investors — enough diversity for serendipity, few enough bodies that meeting half the room is a realistic goal for one evening.",
+          "Bring something to show if you have it. Gatherings like this trade on demonstrations, and a working agent doing even something slightly novel purchases more attention than any rehearsed elevator pitch ever will.",
+          "The hosts themselves are part of the draw: Peiheng Wu, Skyline, Virtuals Protocol, and Ryan McGuire anchor the guest list, and co-hosts of this kind usually arrive with opinions formed by shipping. Position yourself near the demo conversations early — those clusters form fast and rarely reopen once they do."
+        ]
+      },
+      {
+        "heading": "Before you go",
+        "content": [
+          "Register early: approval is required and limited space means late requests risk a polite refusal. The exact address appears only after acceptance, though the listing's coordinates place the venue in lower Manhattan near the Bowery, an easy trip from most subway lines.",
+          "Food and drinks are provided, so your only real investment is the evening itself. Follow the co-hosts on their public channels for recaps and follow-up gatherings; single-topic events of this kind frequently grow into recurring series when the debut lands well."
+        ]
+      }
+    ]
+  },
+  "luma-evt-WtD52XGSYriupfm": {
+    "summaryLead": "CryptoMondays NYC teams up with Team1 on Monday, August 24, 2026 for a Road to Avalanche Summit evening at Time To Be Happy Gallery on the Bowery — live painters, sculpting, sushi, wine, and a panel aimed at connecting New York builders to September's summit. The gallery's two levels give the 135-plus expected guests room to breathe while the artwork does half the talking.",
+    "sections": [
+      {
+        "heading": "Art, sushi, and Avalanche",
+        "content": [
+          "This is not a panel wedged into the back of a bar. The venue, Time To Be Happy Gallery at 219 Bowery, spreads across two floors: the main gallery level hosts the evening while a nonprofit artist-in-residency level operates above it — a program currently accepting applications with no application fee, no participation fee, and no commission taken on art sold from the residency floor.",
+          "Live painters and sculptors work through the night, giving networking a focal point beyond name badges. Sushi and wine service starts early in the agenda, which seasoned meetup attendees will recognize as the difference between guests who linger and guests who hover anxiously by the exit."
+        ]
+      },
+      {
+        "heading": "How the evening runs",
+        "content": [
+          "Check-in and open networking run from 5:30pm to 6:30pm. Food arrives at 6:30, the panel discussion occupies the 7:00 to 7:30 slot, and the room settles back into conversation until the official wrap at 8:30pm.",
+          "Registration is gated by host approval, so request a spot ahead of Monday rather than gambling on walk-in availability. With 135 confirmed attendees and a single check-in desk, the queue at 5:30 sharp will be real; arriving early also buys quieter minutes with the artists before the crowd thickens.",
+          "One housekeeping note from the organizers: attending this free event means consenting to future contact from speakers, sponsors, and the host — worth knowing before your inbox fills up with follow-ups worth reading."
+        ]
+      },
+      {
+        "heading": "Road to the Summit",
+        "content": [
+          "The subtitle is the strategic hook. Avalanche Summit arrives in New York on September 16 and 17, spotlighting the enterprises, financial institutions, and investors converting blockchain infrastructure into commercial outcomes, from embedded finance to institutional adoption.",
+          "Attendees get pointed toward summit tickets along with a special CryptoMondays discount code, MONDAY15, worth fifteen percent off. Even if you remain undecided about attending the summit itself, the panel previews which institutions are putting budget behind the ecosystem — useful intelligence for anyone selling into or building for that world.",
+          "Treat the evening as a scouting round for September. The people exchanging contact details over sushi this Monday will largely reappear at the summit three weeks later, and arriving there already knowing faces converts a crowded two-day conference into a series of planned meetings."
+        ]
+      },
+      {
+        "heading": "The organizations behind it",
+        "content": [
+          "CryptoMondays claims a global footprint of more than 150,000 members across over 60 chapters, running regular meetups that connect builders, investors, and operators throughout the Web3 ecosystem. Its New York chapter anchors this collaboration and keeps the Monday cadence alive.",
+          "Team1 answers with 600-plus members operating across 60 countries — a grassroots network devoted to growing Avalanche through local meetups, targeted workshops, exclusive side events, and community-led content. Named co-hosts include Adriana Perez, David Fung, and Lou Kerner, familiar figures in New York crypto circles, lending the evening both reach and credibility."
+        ]
+      }
+    ]
+  },
+  "luma-evt-2rkOdm0arGqYLvv": {
+    "summaryLead": "Some of the best fundraising advice travels over dinner plates. On Tuesday, August 25, 2026, Verci, Patron, Rho, and Cake convene a private, curated dinner for a select group of founders building in Los Angeles — drinks first at the Verci LA workspace, then a short walk across the street to Bestia, one of the city's most sought-after restaurants. Three spots remained when we checked, and host approval applies.",
+    "sections": [
+      {
+        "heading": "A deliberately small table",
+        "content": [
+          "Curated dinners invert normal event mathematics: fewer seats, higher stakes per conversation. Organizers screen every request, so acceptance depends on fit rather than fast clicking, and the three remaining spots noted before the date suggested the list was about to close entirely.",
+          "The format swaps stage talks for table-length discussion. Founders trade fundraising scars, hiring tactics, and market reads in a setting where phones stay pocketed, second helpings are encouraged, and the follow-up coffee is arranged before dessert arrives."
+        ]
+      },
+      {
+        "heading": "Meet the partners",
+        "content": [
+          "Patron is a seed fund for consumer founders started by former Riot Games executives Jason Yeh and Brian Cho alongside startup founder Amber Atherton. Its focus areas read like a map of LA's strengths: early-stage consumer technology, gaming mechanics, and virtual communities built for the gaming-native generation.",
+          "Rho handles the banking side — accounts set up in minutes, cards with up to two percent cashback, and tooling for managing spend, paying bills, and closing the books. Cake Equity completes the financial stack with cap tables, stock options, 409A valuations, dilution modeling, and equity templates trusted by more than 10,000 companies, free to sign up and built for founders, CFOs, and legal teams alike."
+        ]
+      },
+      {
+        "heading": "Evening logistics",
+        "content": [
+          "The night opens with drinks at Verci LA, the workspace and social space curated for founders, artists, and creatives that anchors the guest list. Dinner follows at Bestia directly across the street — a reservation many Angelenos wait weeks to secure, handed to attendees as part of the evening.",
+          "Exact addresses unlock after host approval, standard practice for intimate dinners of this kind. Plan for a full evening commitment rather than a drop-in hour; dinners styled like this one rarely conclude early, and the valuable conversations tend to happen after the plates are cleared.",
+          "The Arts District setting works in the event's favor too: close enough to downtown for an easy rideshare, atmospheric enough that out-of-town founders get a proper taste of why LA keeps pulling consumer and gaming startups into its orbit."
+        ]
+      },
+      {
+        "heading": "Whether to apply",
+        "content": [
+          "If you are building in Los Angeles and raising soon — or freshly funded and figuring out what comes next — the room concentrates exactly the people who have done it repeatedly. Jason Yeh's path from esports executive to seed investor alone makes table conversation worthwhile for a first-time founder.",
+          "Service providers and non-founders should respect the curation, because the dinner's value rests on keeping the ratio founder-heavy. Everyone else can find easier on-ramps into the same network through Verci's public programming at its LA and NYC locations.",
+          "When applying, specificity helps your case. A sentence about what you are building, where the company stands, and what you would want out of the table gives the curators something to work with; blank RSVPs are the first requests screened out when seats run short."
+        ]
+      }
+    ]
+  },
+  "luma-host-evt-5EMhmOCIpBpgHUf": {
+    "summaryLead": "Superteam Thailand turns a Tuesday into a builder's day out on August 25, 2026: an afternoon of co-working with Melee Markets at Bel Club Padel in Bangkok, product presentations from Melee Markets and Solami, then two hours on the court for anyone game. The event showed as full with a waitlist before the date — a fair measure of how popular hybrid work-plus-sport formats have become.",
+    "sections": [
+      {
+        "heading": "Work first, padel second",
+        "content": [
+          "Co-working events live or die on whether actual work gets done. This one protects the entire 1:00pm-to-3:00pm window for exactly that — laptops open, no formal programming, just Superteam Thailand members, Melee Markets folks, and local builders sharing tables and occasional unsolicited advice.",
+          "The sporting element is not decoration either. Bangkok's web3 crowd has embraced padel the way other hubs adopted five-a-side football, and bolting court time onto product demos turns an ordinary workday into a reason to show up in person rather than lurk from a home office.",
+          "Superteam Thailand frames its events as the best way to plug into the community, learn from each other, and uncover new opportunities — and afternoons like this one are the mechanism. Two unstructured hours beside other builders tends to surface more collaborations than any scheduled pitch slot."
+        ]
+      },
+      {
+        "heading": "The afternoon schedule",
+        "content": [
+          "Doors open at 1:00pm with open co-working running until three. Product presentations fill the 3:00 to 4:00pm hour, the padel court opens at four, and the day closes with drinks and casual networking from 6:00 to 7:00pm.",
+          "That arc — heads-down, then heads-up, then purely social — mirrors how the best unconferences run. You can drop in for any single segment, though the presentations land at the natural midpoint when energy and curiosity peak simultaneously."
+        ]
+      },
+      {
+        "heading": "Product presentations",
+        "content": [
+          "Melee Markets headlines the demo hour, walking through its product, explaining what the team is building, and showing where community members can plug in. For builders tracking where trading and markets tooling is heading, a live walkthrough beats reverse-engineering documentation alone.",
+          "Solami presents as well, giving the community a first-hand look at its product. Two back-to-back demos keep the hour brisk and leave generous slack for follow-up questions during padel or the closing hangout, which is usually where the sharper questions surface anyway."
+        ]
+      },
+      {
+        "heading": "Court logistics and waitlist",
+        "content": [
+          "Padel runs from 4:00 to 6:00pm in a fixed format: six teams of two players, twelve court slots total, first organized, first equipped. Organizers ask players to arrive dressed and ready for the court, since no changing buffer exists between the demo hour and first serve.",
+          "The event registered as full ahead of the day, so latecomers should join the waitlist and watch for released spots — cancellations happen more often than you would think. Non-players lose nothing essential: the venue, co-working, demos, and closing networking stay open to everyone admitted, and 36 attendees had already confirmed their seats.",
+          "For anyone new to the city's scene, the Huai Khwang location on Phetchaburi Road is reachable by MRT and surrounded by enough food options that staying past the official 7:00pm wrap is an easy decision. Bangkok's builder community tends to keep talking long after the scheduled program ends."
+        ]
+      }
+    ]
+  },
+  "luma-evt-NFMRY96mTUrnmrm": {
+    "summaryLead": "Blockchain Tuesday returns to New York on August 25, 2026 carrying a question worth losing sleep over: is technology moving faster than our ability to secure it? Conflux Network hosts an open roundtable at Station 3 on Broadway, pulling AI autonomy, quantum computing, and automated trading into one frank conversation — with food and drinks softening the existential edges.",
+    "sections": [
+      {
+        "heading": "The roundtable premise",
+        "content": [
+          "Conflux frames the evening as a discussion that promises no answers — a deliberate contrast to the standard panel where five speakers rehearse prepared remarks. The organizing question sits exactly where the industry now lives: autonomous AI agents multiplying, quantum computing edging from theory toward application, and trading systems running faster than any human can supervise.",
+          "Recent incidents anchor the talk in reality rather than abstraction. Hardware wallet vulnerabilities, software supply-chain attacks, and rogue AI agent behavior all enter as case studies, and examining what went wrong tends to produce far sharper debate than hypotheticals ever manage.",
+          "The framing also carries an implicit challenge to the room. Security budgets across crypto have grown every year while exploit headlines refuse to shrink, and nobody at a roundtable like this expects consensus on why. Disagreement, in this format, is the product."
+        ]
+      },
+      {
+        "heading": "Topics up for debate",
+        "content": [
+          "Five threads structure the discussion: how AI agents create entirely new categories of security challenge, what quantum computing could eventually mean for blockchain and digital security, how AI and emerging technologies are rewiring trading and financial markets, where today's biggest points of failure cluster, and whether defensive security can realistically keep pace with innovation at all.",
+          "Notice what the agenda omits — no token price speculation, no roadmap theater. The topics aim at practitioners who ship systems and then worry about them, which historically produces the most useful room in any given conference week."
+        ]
+      },
+      {
+        "heading": "Station 3 and the setup",
+        "content": [
+          "Station 3 occupies the third floor at 26 Broadway, a Financial District address steps from Wall Street transit connections. Conflux Network plays host, extending its Blockchain Tuesday series, which rotates through timely themes month by month and keeps a loyal NYC following.",
+          "Food and drinks are provided, and although the listing spills into August 26 in some calendar views, the session itself is a single evening. Registration is open — no approval gate — so capacity planning falls to the venue rather than a waitlist; arriving reasonably on time secures both a seat and the opening framing.",
+          "The Broadway setting suits the subject matter more than it first appears. Discussing institutional-grade security failures a stone's throw from the exchanges and banks that feel them first gives the conversation an edge a coworking loft never could."
+        ]
+      },
+      {
+        "heading": "Who should claim a seat",
+        "content": [
+          "Builders, traders, researchers, and security professionals form the core audience, but the invitation stretches to anyone curious where the technology landscape bends next. Come armed with questions, opinions, and predictions — the roundtable format starves passive listeners by design.",
+          "Security engineers get the clearest draw: lessons from blockchain exploits increasingly transfer to AI infrastructure and back again, and cross-pollination of that kind rarely happens inside one discipline's bubble. For founders, hearing where failures cluster before your own system ships is the cheapest insurance available anywhere."
+        ]
+      }
+    ]
+  },
+  "luma-evt-E5opFSVCvCYRm7P": {
+    "summaryLead": "Austin's crypto crowd swaps slideshows for trivia answer sheets on Tuesday, August 25, 2026. Proof of Brain pairs ATX DAO with Stand with Crypto and Quai Network for a happy hour at Radio East, then hands the microphone to pub trivia from 7pm onward. It is free to attend, approval-gated, and a genuinely low-stakes doorway into Texas blockchain circles.",
+    "sections": [
+      {
+        "heading": "Happy hour, then trivia",
+        "content": [
+          "The evening splits cleanly in two. From 5:00pm to 7:00pm, drinks and open networking fill Radio East — the unstructured stretch where Austin's blockchain community does most of its recruiting, collaborating, and catching up between formal events.",
+          "At seven, the group folds into Radio East's regular trivia night. Teams form on the spot, mixing veterans with first-timers, and questions run from blockchain minutiae to general knowledge nobody revised for. The event's name promises friendly competition, and the format delivers it without ceremony or scorekeeping pressure.",
+          "Trivia, it turns out, is an underrated networking technology. Nothing accelerates familiarity like arguing with a stranger about whether a question is rigged, and half the working relationships in any local scene seem to trace back to exactly this kind of night."
+        ]
+      },
+      {
+        "heading": "The trio behind it",
+        "content": [
+          "ATX DAO anchors proceedings as Austin's homegrown crypto collective, openly campaigning to make the city the crypto capital of the world through education, events, and advocacy. Its happy hours function as the local scene's open door for newcomers.",
+          "Stand with Crypto adds the policy dimension — the U.S.-focused advocacy organization helping people push for clear rules that keep blockchain jobs and innovation growing domestically. Quai Network rounds out the lineup as an open-source, Proof-of-Work blockchain network aimed at scalable, private financial infrastructure. With all three represented at one bar, conversation can swing from legislation to consensus mechanisms without anyone changing venues.",
+          "That blend also shapes who turns up: expect a mix of local builders, policy-curious attendees, and protocol developers rather than one homogeneous crowd. For anyone mapping Austin's blockchain landscape, this single evening covers more of it than most month-long calendars."
+        ]
+      },
+      {
+        "heading": "Radio East and getting there",
+        "content": [
+          "Radio East sits at 3504 Montopolis Drive in southeast Austin, a venue with a habit of hosting the city's quirkier community nights. The listing flags that on-site parking is subject to availability and recommends Uber or Lyft instead — sensible guidance for a Tuesday evening in that part of town.",
+          "Although the calendar stretches the event across two dates, the action is a single evening. Twenty-four attendees had confirmed ahead of time, a size that suits trivia teams perfectly: enough people for lively squads, not so many that the venue feels like a convention."
+        ]
+      },
+      {
+        "heading": "Making the most of it",
+        "content": [
+          "Approval is required for registration, so request a spot rather than assuming walk-up entry will fly. First-timers should aim nearer five o'clock than seven — joining a trivia team mid-competition is markedly harder than joining a conversation before it starts.",
+          "Free entry strips away the usual friction for students, career-changers, and the merely crypto-curious. And between a homegrown DAO, a national advocacy organization, and a Proof-of-Work L1 sharing one table, it is also an unusually efficient sampling of what Texas's blockchain community actually contains."
+        ]
+      }
+    ]
+  },
+  "mu-315951709": {
+    "summaryLead": "SQL Server Integration Services refuses to retire quietly, and the Triangle SQL Server User Group intends to demonstrate why on Tuesday, August 25, 2026. The free online session starts at 6:00pm and is hosted by the group's organizers Tracy B. and Kevin F., who rebuild a genuine data pipeline from IMDb files — living proof that a classic ETL toolset still earns its place beside the newer platforms.",
+    "sections": [
+      {
+        "heading": "Why SSIS still matters",
+        "content": [
+          "ETL platforms arrive with fanfare and fade; SSIS endures. The session's argument, lifted straight from its description: the tool is versatile, squeezes real benefit from parallel processing, and ships a designer intuitive enough that workflows end up both effective and, in the organizer's words, beautiful to behold. Thousands of enterprises running SQL Server estates execute SSIS packages daily regardless of whatever the current fashion cycle favors.",
+          "That persistence makes the skill marketable. Data engineers inheriting legacy environments, consultants planning on-prem migrations, and teams weighing modernization budgets all benefit from knowing what SSIS genuinely does well rather than dismissing it on age alone."
+        ]
+      },
+      {
+        "heading": "What the IMDb demo delivers",
+        "content": [
+          "Instead of toy datasets, the presenters import, analyze, and transform real IMDb data — a scattered collection of files becoming a robust relational database. Along the route, packages demonstrate how tasks join, split, calculate, and sanitize records into something clean enough to query seriously.",
+          "Movie metadata turns out to be excellent teaching material. Messy credits, inconsistent identifiers, and multi-valued fields mirror the pathologies hiding in corporate databases everywhere. Attendees should leave, per the organizers' promise, with both the skills and the strong desire to replace dusty inefficient processes with packages that are streamlined and elegant.",
+          "The demo also models good engineering habits beyond SSIS itself: staging data before transforming it, designing for reruns when a source file arrives malformed, and keeping transformations visible in the designer rather than buried in scripts nobody dares to touch."
+        ]
+      },
+      {
+        "heading": "Joining the online session",
+        "content": [
+          "The meeting starts at 6:00pm Eastern on Tuesday, August 25, 2026, with the video link visible only to accepted attendees — one more reason to join the Triangle SQL Server User Group on Meetup before the day arrives.",
+          "As with most user-group nights, showing up on time preserves the demo's context, and staying through the question period is where the practical war stories surface. The remote format erases travel friction for anyone outside the North Carolina Research Triangle the group normally calls home.",
+          "Prepare a question or two in advance. Sessions like this reward attendees who ask about their own environments — odd source formats, brittle overnight jobs, mysterious failures — because the answers come from organizers who have debugged all of it before."
+        ]
+      },
+      {
+        "heading": "Who gains the most",
+        "content": [
+          "Working data professionals top the list: BI developers maintaining aging package estates, database administrators wearing integration hats, and analysts automating recurring imports by hand. The essentials-first framing assumes comfort with relational basics but demands no prior SSIS depth whatsoever.",
+          "Students and career-switchers walk away with a demonstrable skill rather than a certificate, while skeptics of Microsoft's data stack get a fair test of the tool against its reputation. Either way, an evening spent with practitioners who run this stuff in production beats any amount of documentation."
+        ]
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemamap xmlns="https://nlweb.org/schema/schemamap/0.1">
+  <feed>
+    <url>https://hashtagweb3.com/api/v1/jobs</url>
+    <type>application/json</type>
+    <schemaType>JobPosting</schemaType>
+    <title>Web3 Jobs Feed</title>
+  </feed>
+  <feed>
+    <url>https://hashtagweb3.com/api/v1/events</url>
+    <type>application/json</type>
+    <schemaType>Event</schemaType>
+    <title>Web3 Events Feed</title>
+  </feed>
+  <feed>
+    <url>https://hashtagweb3.com/api/v1/glossary</url>
+    <type>application/json</type>
+    <schemaType>DefinedTerm</schemaType>
+    <title>Web3 Glossary Feed</title>
+  </feed>
+  <feed>
+    <url>https://hashtagweb3.com/api/v1/news</url>
+    <type>application/json</type>
+    <schemaType>NewsArticle</schemaType>
+    <title>Crypto News Feed</title>
+  </feed>
+</schemamap>

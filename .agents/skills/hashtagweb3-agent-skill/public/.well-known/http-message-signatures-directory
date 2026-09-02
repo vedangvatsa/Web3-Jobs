@@ -1,0 +1,14 @@
+{
+  "keys": [
+    {
+      "kty": "OKP",
+      "crv": "Ed25519",
+      "kid": "hashtagweb3-bot-key-1",
+      "x": "11qYAYKxCrfVS_7TyWQHOg7hcvPapiMlrGwu4o27RKE",
+      "use": "sig",
+      "alg": "EdDSA",
+      "nbf": 1704067200,
+      "exp": 1893456000
+    }
+  ]
+}

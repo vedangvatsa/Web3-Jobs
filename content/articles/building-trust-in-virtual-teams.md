@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: virtual team handshake
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Trust in an office builds passively. You see someone show up, overhear them helping a colleague, notice them staying late to fix a production issue. None of that visibility exists remotely. Trust has to be built deliberately.

@@ -7,7 +7,7 @@ description: >-
  apply a simple framework for relevant, community-aware social posts.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 In the dynamic world of [Web3](/what-is-web3), social media is important for brand development, community engagement, and influence. Platforms like Twitter (now X) serve as hubs for these activities. Selecting the appropriate hashtags is essential for a successful **[Web3 marketing strategy](/web3-marketing)**. Effective hashtag use requires participation in ongoing conversations and demonstrating alignment with the community's values.

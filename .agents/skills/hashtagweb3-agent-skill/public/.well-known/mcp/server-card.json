@@ -1,0 +1,148 @@
+{
+  "name": "hashtagweb3-product-mcp",
+  "displayName": "Hashtag Web3 Product Actions",
+  "description": "Model Context Protocol (MCP) server for Hashtag Web3 product actions. Exposes live Web3 job search, blockchain glossary definitions, crypto news, and event listings as callable tools for AI assistants and agents.",
+  "version": "1.0.0",
+  "icon": "https://hashtagweb3.com/icon.png",
+  "logo": "https://hashtagweb3.com/icon.png",
+  "iconUrl": "https://hashtagweb3.com/icon.png",
+  "documentationUrl": "https://hashtagweb3.com/developers",
+  "serverUrl": "https://hashtagweb3.com/api/mcp",
+  "url": "https://hashtagweb3.com/api/mcp",
+  "endpoint": "https://hashtagweb3.com/api/mcp",
+  "transport": "streamable-http",
+  "tools": [
+    {
+      "name": "search_jobs",
+      "description": "Search verified Web3, DeFi, and blockchain jobs by keyword, company, or technology tag.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Keyword query (e.g. Solidity, Auditor, Rust)" },
+          "tag": { "type": "string", "description": "Tag filter (e.g. Ethereum, Solana, DeFi)" },
+          "company": { "type": "string", "description": "Company name" },
+          "limit": { "type": "integer", "default": 20, "maximum": 100 }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/jobs"
+        }
+      }
+    },
+    {
+      "name": "search_glossary",
+      "description": "Query 200+ technical blockchain, DeFi, and Web3 glossary definitions.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Term or concept to lookup (e.g. Zero Knowledge, AMM)" },
+          "category": { "type": "string", "description": "Category filter (e.g. DeFi, Cryptography)" }
+        },
+        "required": ["search"]
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/glossary"
+        }
+      }
+    },
+    {
+      "name": "get_news",
+      "description": "Retrieve the latest Web3 and crypto headlines.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Filter headlines by keyword" },
+          "limit": { "type": "integer", "default": 10, "maximum": 50 }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/news"
+        }
+      }
+    },
+    {
+      "name": "get_events",
+      "description": "List upcoming Web3 conferences, hackathons, and crypto summits.",
+      "inputSchema": {
+        "type": "object",
+        "properties": {
+          "search": { "type": "string", "description": "Search by event name or city" },
+          "type": { "type": "string", "enum": ["conference", "hackathon", "meetup", "online"] },
+          "country": { "type": "string", "description": "Country filter" }
+        }
+      },
+      "annotations": {
+        "readOnlyHint": true,
+        "destructiveHint": false,
+        "idempotentHint": true
+      },
+      "_meta": {
+        "ui": {
+          "resourceUri": "ui://hashtagweb3.com/events"
+        }
+      }
+    }
+  ],
+  "resources": [
+    {
+      "uri": "ui://hashtagweb3.com/jobs",
+      "name": "Web3 Jobs Directory UI",
+      "description": "Interactive UI showing the latest Web3 and blockchain job listings.",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "ui://hashtagweb3.com/glossary",
+      "name": "Web3 Glossary UI",
+      "description": "Interactive UI directory for Web3 concepts, terms, and definitions.",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "ui://hashtagweb3.com/news",
+      "name": "Crypto News UI",
+      "description": "Interactive UI feed for the latest crypto news headlines.",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "ui://hashtagweb3.com/events",
+      "name": "Web3 Events Calendar UI",
+      "description": "Interactive calendar listing upcoming blockchain and crypto conferences.",
+      "mimeType": "text/html"
+    },
+    {
+      "uri": "hashtagweb3://jobs/latest",
+      "name": "Latest Web3 Jobs (JSON)",
+      "description": "Structured JSON payload of the most recent verified Web3 job postings.",
+      "mimeType": "application/json"
+    },
+    {
+      "uri": "hashtagweb3://glossary/terms",
+      "name": "Web3 Technical Glossary (JSON)",
+      "description": "Structured JSON dictionary of 200+ blockchain and cryptographic terms.",
+      "mimeType": "application/json"
+    },
+    {
+      "uri": "hashtagweb3://docs/overview",
+      "name": "Hashtag Web3 Documentation & Guides (Markdown)",
+      "description": "Complete documentation for developers, agent integration, and career guides.",
+      "mimeType": "text/markdown"
+    }
+  ]
+}

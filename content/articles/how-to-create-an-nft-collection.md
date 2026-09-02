@@ -6,7 +6,7 @@ description: >-
   A practical guide to creating an NFT collection in 2026. Learn how collections work on chain, when to use ERC-721 vs ERC-1155, how to prepare art and metadata, choose a chain and contract, store data on IPFS, and launch through OpenSea Studio or Manifold without wasting gas or rights.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## What is an NFT collection

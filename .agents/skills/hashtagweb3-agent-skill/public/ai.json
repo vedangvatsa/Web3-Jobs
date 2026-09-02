@@ -1,0 +1,60 @@
+{
+  "allow": {
+    "indexing": true,
+    "search": true,
+    "inference": true,
+    "citation": true,
+    "summarization": true,
+    "training": false,
+    "crawlers": [
+      "ChatGPT-User",
+      "GPTBot",
+      "OAI-SearchBot",
+      "ClaudeBot",
+      "anthropic-ai",
+      "Claude-Web",
+      "Google-Extended",
+      "GoogleOther",
+      "Googlebot",
+      "ora-agent",
+      "DeepSeekBot",
+      "PerplexityBot",
+      "cohere-ai",
+      "Bingbot",
+      "YouBot",
+      "Amazonbot",
+      "Applebot",
+      "Meta-ExternalAgent",
+      "Bytespider",
+      "DuckDuckBot",
+      "YandexBot",
+      "Diffbot",
+      "Timpibot",
+      "Phind",
+      "Kagibot",
+      "Brave",
+      "facebookexternalhit",
+      "LinkedInBot",
+      "Twitterbot",
+      "TelegramBot",
+      "WhatsApp",
+      "Slackbot",
+      "Discordbot"
+    ]
+  },
+  "disallow": {
+    "training": true,
+    "crawlers": [
+      "CCBot"
+    ]
+  },
+  "context": {
+    "llms_txt": "https://hashtagweb3.com/llms.txt",
+    "llms_full_txt": "https://hashtagweb3.com/llms-full.txt",
+    "agents_json": "https://hashtagweb3.com/.well-known/agents.json",
+    "openapi_json": "https://hashtagweb3.com/openapi.json",
+    "openapi_yaml": "https://hashtagweb3.com/api/openapi.yaml",
+    "developers_portal": "https://hashtagweb3.com/developers",
+    "sitemap": "https://hashtagweb3.com/sitemap.xml"
+  }
+}

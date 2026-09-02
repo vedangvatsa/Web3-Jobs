@@ -7,7 +7,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain security
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## Understanding Reentrancy Attacks in Web3 Smart Contracts

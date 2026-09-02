@@ -6,7 +6,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: optimism blockchain layer2
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Optimism is an Ethereum Layer 2 that executes transactions off Ethereum and posts the data back to Ethereum for security. The main network, OP Mainnet, is an optimistic rollup. It gives you Ethereum addresses and tools, near instant confirmations from a sequencer, and fees that are a fraction of mainnet, while final settlement happens on Ethereum.

@@ -7,7 +7,7 @@ description: >-
  cryptocurrencies, and the vision of a decentralized internet.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 Elon Musk, CEO of Tesla and SpaceX, and owner of X (formerly Twitter), wields significant influence in the technology sector. His public statements often impact markets and shape discussions around technological advancements. Given his active role in technology and commitment to free speech, many in the [Web3](/what-is-web3) community view him as a potential advocate for a decentralized internet.

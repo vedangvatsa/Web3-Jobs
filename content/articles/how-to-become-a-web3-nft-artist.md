@@ -6,7 +6,7 @@ description: >-
   A practical guide for digital artists on how to enter the world of NFTs. Learn how to mint your artwork, choose a marketplace, and build a collector base without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-08-28"
+lastUpdated: "2026-09-02"
 ---
 
 ## What is a Web3 NFT artist

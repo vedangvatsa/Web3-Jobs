@@ -1,0 +1,42 @@
+[
+  {
+    "slug": "best-smart-contract-ide-for-beginners",
+    "title": "Best Smart Contract IDE for Beginners in 2026",
+    "description": "The best IDEs and tools for writing smart contracts as a beginner. Compare Remix, Hardhat, Foundry, and VS Code extensions with setup guides.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-03-15",
+    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1080"
+  },
+  {
+    "slug": "future-of-web3-architecture",
+    "title": "Future of Web3 Architecture: Modular, Real-World Data & AI (2026)",
+    "description": "Web3 architecture is undergoing its most significant transformation yet, moving from monolithic chains to modular, AI-integrated stacks capable of processing thousands of transactions per second. Explore the breakthroughs, real-world deployments, and career opportunities defining 2026.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-03-15",
+    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
+  },
+  {
+    "slug": "r3-corda-vs-cosmos-sdk",
+    "title": "R3 Corda vs Cosmos SDK: Enterprise Blockchain Comparison",
+    "description": "A detailed comparison of R3 Corda and Cosmos SDK for enterprise blockchain development. Covers architecture, use cases, performance, and which to choose.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-03-15",
+    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1080"
+  },
+  {
+    "slug": "10-big-ideas-in-web3-for-2025",
+    "title": "10 Big Ideas in Web3 for 2026: DePIN, AI Agents, Tokenization & More",
+    "description": "The 10 most consequential Web3 trends for 2026: DePIN, AI agents with wallets, real-world asset tokenization, stablecoin payments, and more.",
+    "category": "Industry Insights",
+    "publishedDate": "2026-03-11",
+    "image": "https://images.unsplash.com/photo-1665597704311-d7304eaf70ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWIzfGVufDB8fHx8MTc1ODE4MTYyNXww&ixlib=rb-4.1.0&q=80&w=1080"
+  },
+  {
+    "slug": "10-big-ideas-in-web3-for-2026",
+    "title": "10 Big Ideas Shaping Web3 in 2026",
+    "description": "Explore the top 10 Web3 trends shaping 2026, including AI agents with wallets, DePIN growth, real world asset tokenization, and account abstraction.",
+    "category": "Industry Insights",
+    "publishedDate": "2026-03-11",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=10%20Big%20Ideas%20Shaping%20Web3%20in%202026&category=Industry%20Insights"
+  }
+]

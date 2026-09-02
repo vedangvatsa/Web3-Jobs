@@ -1,0 +1,327 @@
+{
+ "meta": {
+ "contentType": "checklists",
+ "topic": "security",
+ "niche": "defi-developer",
+ "generatedAt": "2026-05-17T05:30:09.441Z",
+ "version": "1.0.0"
+ },
+ "seo": {
+ "title": "DeFi Security Checklist for Developers",
+ "description": "A detailed security checklist for DeFi developers covering AMMs, lending, vaults, and cross-protocol integrations. Ship secure DeFi code.",
+ "keywords": [
+ "defi-developer",
+ "security-checklist",
+ "AMM",
+ "lending",
+ "flash-loans",
+ "oracle",
+ "audit"
+ ],
+ "canonicalSlug": "security-checklists-for-defi-developer"
+ },
+ "content": {
+ "intro": "DeFi protocols handle significant value and face sophisticated attackers. Use this checklist to ensure your protocol is hardened against known attack vectors before deployment.",
+ "sections": [
+ {
+ "heading": "Oracle Security",
+ "description": "Protect against price manipulation and oracle failures.",
+ "items": [
+ {
+ "title": "Use TWAP or manipulation-resistant oracles",
+ "description": "Avoid spot prices from DEXes. Use Chainlink, time-weighted averages, or other manipulation-resistant sources.",
+ "priority": "critical",
+ "category": "Oracles"
+ },
+ {
+ "title": "Implement oracle staleness checks",
+ "description": "Reject prices older than acceptable threshold. Include updatedAt timestamp validation.",
+ "priority": "critical",
+ "category": "Oracles"
+ },
+ {
+ "title": "Add oracle fallback mechanisms",
+ "description": "If primary oracle fails, have a secondary source or safe fallback behavior.",
+ "priority": "important",
+ "category": "Oracles"
+ },
+ {
+ "title": "Validate oracle price bounds",
+ "description": "Reject prices that deviate too far from expected ranges to catch oracle manipulation.",
+ "priority": "important",
+ "category": "Oracles"
+ },
+ {
+ "title": "Check oracle decimals handling",
+ "description": "Chainlink feeds have different decimals. Normalize all price feeds to consistent precision.",
+ "priority": "important",
+ "category": "Oracles"
+ },
+ {
+ "title": "Protect against oracle front-running",
+ "description": "Consider commit-reveal or other mechanisms if oracle updates create arbitrage opportunities.",
+ "priority": "important",
+ "category": "Oracles"
+ }
+ ]
+ },
+ {
+ "heading": "Flash Loan Protection",
+ "description": "Defend against atomic manipulation attacks.",
+ "items": [
+ {
+ "title": "Use TWAP instead of spot prices",
+ "description": "Flash loans cannot manipulate time-weighted averages. Never rely on single-block spot prices.",
+ "priority": "critical",
+ "category": "Flash Loans"
+ },
+ {
+ "title": "Add deposit/withdraw delays where needed",
+ "description": "For governance or rewards, consider requiring deposits to be present for multiple blocks.",
+ "priority": "important",
+ "category": "Flash Loans"
+ },
+ {
+ "title": "Check same-block deposit-and-action restrictions",
+ "description": "Prevent users from depositing and taking action (voting, claiming) in the same block.",
+ "priority": "important",
+ "category": "Flash Loans"
+ },
+ {
+ "title": "Validate share price manipulation resistance",
+ "description": "Vault share prices should not be manipulable by large deposits/withdrawals in single transactions.",
+ "priority": "critical",
+ "category": "Flash Loans"
+ },
+ {
+ "title": "Consider flash loan fees in arbitrage calculations",
+ "description": "Understand that attackers pay fees. Some attacks are unprofitable after fees.",
+ "priority": "important",
+ "category": "Flash Loans"
+ }
+ ]
+ },
+ {
+ "heading": "Liquidity Pool Security",
+ "description": "For AMMs and liquidity protocols.",
+ "items": [
+ {
+ "title": "Verify constant product/sum invariant maintained",
+ "description": "After every operation, the pool invariant must hold. Test edge cases thoroughly.",
+ "priority": "critical",
+ "category": "Liquidity"
+ },
+ {
+ "title": "Protect against sandwich attacks",
+ "description": "Implement slippage protection and consider private transaction submission options.",
+ "priority": "important",
+ "category": "Liquidity"
+ },
+ {
+ "title": "Check minimum liquidity requirements",
+ "description": "First LP should lock minimum liquidity to prevent share price manipulation.",
+ "priority": "critical",
+ "category": "Liquidity"
+ },
+ {
+ "title": "Validate fee calculation accuracy",
+ "description": "Fees must be calculated correctly in all scenarios including edge cases.",
+ "priority": "important",
+ "category": "Liquidity"
+ },
+ {
+ "title": "Test imbalanced pool scenarios",
+ "description": "Verify behavior when pools become highly imbalanced or near-empty.",
+ "priority": "important",
+ "category": "Liquidity"
+ },
+ {
+ "title": "Check LP token mint/burn accounting",
+ "description": "LP tokens must accurately represent share of pool. No inflation or deflation bugs.",
+ "priority": "critical",
+ "category": "Liquidity"
+ }
+ ]
+ },
+ {
+ "heading": "Lending Protocol Security",
+ "description": "For lending and borrowing protocols.",
+ "items": [
+ {
+ "title": "Verify health factor calculations",
+ "description": "Health factor must be calculated correctly including all positions and proper oracle prices.",
+ "priority": "critical",
+ "category": "Lending"
+ },
+ {
+ "title": "Check liquidation thresholds and incentives",
+ "description": "Liquidation must be profitable enough to incentivize liquidators but not excessive.",
+ "priority": "critical",
+ "category": "Lending"
+ },
+ {
+ "title": "Protect against bad debt scenarios",
+ "description": "Have mechanisms to handle underwater positions where debt exceeds collateral.",
+ "priority": "critical",
+ "category": "Lending"
+ },
+ {
+ "title": "Verify interest rate model",
+ "description": "Interest accrual must be calculated correctly. Test with various use levels.",
+ "priority": "important",
+ "category": "Lending"
+ },
+ {
+ "title": "Check borrow cap enforcement",
+ "description": "Borrow limits must be enforced to prevent protocol insolvency.",
+ "priority": "important",
+ "category": "Lending"
+ },
+ {
+ "title": "Test partial liquidation scenarios",
+ "description": "Partial liquidations must leave positions in valid state or fully liquidate.",
+ "priority": "important",
+ "category": "Lending"
+ }
+ ]
+ },
+ {
+ "heading": "Vault and Yield Security",
+ "description": "For vaults, yield aggregators, and staking.",
+ "items": [
+ {
+ "title": "Protect against first depositor attack",
+ "description": "Send small amount to vault on deployment or implement virtual shares to prevent share inflation attack.",
+ "priority": "critical",
+ "category": "Vaults"
+ },
+ {
+ "title": "Validate share price calculations",
+ "description": "Share price must accurately reflect underlying assets. Check for rounding attacks.",
+ "priority": "critical",
+ "category": "Vaults"
+ },
+ {
+ "title": "Check donation attack resistance",
+ "description": "Donating tokens to vault should not unfairly benefit or harm depositors.",
+ "priority": "important",
+ "category": "Vaults"
+ },
+ {
+ "title": "Verify withdrawal queue handling",
+ "description": "If using withdrawal queues, ensure fair processing and no front-running.",
+ "priority": "important",
+ "category": "Vaults"
+ },
+ {
+ "title": "Check yield strategy risks",
+ "description": "Understand and document risks of underlying yield sources. Implement loss limits.",
+ "priority": "important",
+ "category": "Vaults"
+ },
+ {
+ "title": "Implement emergency withdrawal",
+ "description": "Users should be able to withdraw in emergencies even if it means forfeiting some yield.",
+ "priority": "important",
+ "category": "Vaults"
+ }
+ ]
+ },
+ {
+ "heading": "Token Integration Security",
+ "description": "Handle edge cases with various token implementations.",
+ "items": [
+ {
+ "title": "Use SafeERC20 for all token transfers",
+ "description": "Some tokens don't return bool. SafeERC20 handles these edge cases.",
+ "priority": "critical",
+ "category": "Tokens"
+ },
+ {
+ "title": "Handle fee-on-transfer tokens",
+ "description": "Calculate actual received amount after transfer, not the transfer amount.",
+ "priority": "important",
+ "category": "Tokens"
+ },
+ {
+ "title": "Handle rebasing tokens",
+ "description": "Account for balance changes between transactions for tokens like stETH.",
+ "priority": "important",
+ "category": "Tokens"
+ },
+ {
+ "title": "Check token decimal handling",
+ "description": "Normalize calculations for tokens with different decimals (USDC has 6, DAI has 18).",
+ "priority": "critical",
+ "category": "Tokens"
+ },
+ {
+ "title": "Verify approval patterns",
+ "description": "Use increaseAllowance/decreaseAllowance or reset to zero first for tokens with approval race conditions.",
+ "priority": "important",
+ "category": "Tokens"
+ },
+ {
+ "title": "Handle tokens with blocklists",
+ "description": "USDC and USDT can blocklist addresses. Consider implications for your protocol.",
+ "priority": "important",
+ "category": "Tokens"
+ }
+ ]
+ },
+ {
+ "heading": "Economic Security",
+ "description": "Protect against economic exploits and incentive manipulation.",
+ "items": [
+ {
+ "title": "Model economic attacks",
+ "description": "Think through how an attacker with unlimited capital could exploit your protocol.",
+ "priority": "critical",
+ "category": "Economics"
+ },
+ {
+ "title": "Verify fee and reward math",
+ "description": "All fee distributions must sum correctly. No funds should be lost or created.",
+ "priority": "critical",
+ "category": "Economics"
+ },
+ {
+ "title": "Check for MEV extraction opportunities",
+ "description": "Identify where sandwich attacks, front-running, or back-running could harm users.",
+ "priority": "important",
+ "category": "Economics"
+ },
+ {
+ "title": "Validate incentive alignment",
+ "description": "Ensure all protocol participants are incentivized to behave honestly.",
+ "priority": "important",
+ "category": "Economics"
+ },
+ {
+ "title": "Test extreme market conditions",
+ "description": "Simulate behavior during high volatility, black swan events, and market crashes.",
+ "priority": "important",
+ "category": "Economics"
+ }
+ ]
+ }
+ ],
+ "proTips": [
+ {
+ "tip": "Always get an audit before mainnet deployment. DeFi protocols are high-value targets."
+ },
+ {
+ "tip": "Study past exploits deeply. Most new exploits are variations of known attack patterns."
+ },
+ {
+ "tip": "Deploy to mainnet with limited caps first. Increase limits as the protocol proves itself."
+ },
+ {
+ "tip": "Set up monitoring and alerts for unusual activity. Early detection limits damage."
+ },
+ {
+ "tip": "Have an incident response plan ready before you need it. Know who to call and what to do."
+ }
+ ]
+ }
+}
