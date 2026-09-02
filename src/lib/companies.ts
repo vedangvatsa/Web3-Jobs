@@ -64,6 +64,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'gauntlet': 'https://gauntlet.xyz',
  'zetachain': 'https://zetachain.com',
  'zeta': 'https://zetachain.com',
+ 'gemini': 'https://gemini.com',
  'bitkub': 'https://bitkub.com',
  'aligned': 'https://alignedlayer.com',
  'zerion': 'https://zerion.io',
