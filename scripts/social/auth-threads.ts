@@ -11,8 +11,8 @@ const port = 3001;
 const APP_ID = '1522577345822759';
 const APP_SECRET = 'e4be55e142ff55b6a98cf092ecb3edd6';
 
-// This MUST match what you have registered in your Meta App Dashboard under "Threads API -> Settings"
-const REDIRECT_URI = `http://localhost:${port}/auth`;
+// HTTPS Redirect URI compliant with Meta Security Rules
+const REDIRECT_URI = `https://hashtagweb3.com/api/auth/threads/callback`;
 
 app.get('/', (req, res) => {
  const authUrl = `https://threads.net/oauth/authorize?client_id=${APP_ID}&redirect_uri=${encodeURIComponent(REDIRECT_URI)}&scope=threads_basic,threads_content_publish&response_type=code`;
