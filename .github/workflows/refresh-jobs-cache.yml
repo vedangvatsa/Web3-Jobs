@@ -98,6 +98,13 @@ jobs:
         run: npx tsx scripts/social/publish-social.ts --platform threads
         continue-on-error: true
 
+      - name: Post to LinkedIn
+        env:
+          LINKEDIN_ACCESS_TOKEN: ${{ secrets.LINKEDIN_ACCESS_TOKEN }}
+          LINKEDIN_ORG_ID: ${{ secrets.LINKEDIN_ORG_ID }}
+        run: npx tsx scripts/social/publish-social.ts --platform linkedin
+        continue-on-error: true
+
       - name: Refill Buffer queue (LinkedIn + Instagram)
         env:
           BUFFER_ACCESS_TOKEN: ${{ secrets.BUFFER_ACCESS_TOKEN }}
