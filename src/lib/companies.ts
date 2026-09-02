@@ -79,6 +79,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'pancakeswap': 'https://pancakeswap.finance',
  'aster': 'https://www.asterdex.com',
  'asterdex': 'https://www.asterdex.com',
+ 'delta': 'https://www.delta.exchange',
+ 'delta-exchange': 'https://www.delta.exchange',
  'certik': 'https://certik.com',
  'impossiblecloud': 'https://impossiblecloud.com',
  'coinhako': 'https://coinhako.com',
