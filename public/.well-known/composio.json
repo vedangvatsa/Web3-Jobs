@@ -1,0 +1,10 @@
+{
+  "name": "hashtagweb3",
+  "display_name": "Hashtag Web3",
+  "description": "Web3 jobs, crypto career intelligence, technical glossary, events, and news aggregator.",
+  "logo": "https://hashtagweb3.com/icon.png",
+  "documentation": "https://hashtagweb3.com/developers",
+  "openapi_spec": "https://hashtagweb3.com/openapi.json",
+  "mcp_endpoint": "https://hashtagweb3.com/api/mcp",
+  "categories": ["Web3", "Career", "Crypto", "Data Aggregation"]
+}
