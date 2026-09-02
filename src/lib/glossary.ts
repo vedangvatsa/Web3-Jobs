@@ -11,12 +11,17 @@ import { GLOSSARY_CATEGORIES } from '@/types/glossary';
 
 const glossaryDirectory = path.join(process.cwd(), 'content', 'glossary');
 
+// In-process cache: populated once per server lifetime.
+let allTermsCache: GlossaryTerm[] | null = null;
+let termBySlugCache: Map<string, GlossaryTerm> | null = null;
+
 /**
- * Get all glossary terms
+ * Loads all glossary terms once and caches them.
+ * getTerm() uses this to avoid re-reading 157 files per request.
  */
 export async function getAllTerms(): Promise<GlossaryTerm[]> {
+ if (allTermsCache !== null) return allTermsCache;
  try {
-  // Read all files from glossary directory (flat structure)
   const files = await fs.readdir(glossaryDirectory);
   const mdFiles = files.filter(file => file.endsWith('.md'));
 
@@ -43,8 +48,8 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
    })
   );
 
-  // Sort alphabetically by term
-  return terms.sort((a, b) => a.term.localeCompare(b.term));
+  allTermsCache = terms.sort((a, b) => a.term.localeCompare(b.term));
+  return allTermsCache;
  } catch (error) {
   console.error('Error reading glossary terms:', error);
   return [];
@@ -52,46 +57,47 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
 }
 
 /**
- * Get a single term by slug
+ * Get a single term by slug — O(1) after first call via slug→term map.
  */
 export async function getTerm(slug: string): Promise<GlossaryTerm | null> {
  try {
-  const files = await fs.readdir(glossaryDirectory);
-  const mdFiles = files.filter(file => file.endsWith('.md'));
-
-  for (const filename of mdFiles) {
-   const filePath = path.join(glossaryDirectory, filename);
-   const fileContent = await fs.readFile(filePath, 'utf-8');
-   const { data, content } = matter(fileContent);
-
-   // Check if this file's slug matches the requested slug
-   const fileSlug = data.slug || filename.replace('.md', '');
-   if (fileSlug === slug) {
-    // Process markdown to HTML
-    const processedContent = await remark()
-     .use(remarkGfm)
-     .use(html, { sanitize: false })
-     .process(content);
-    const contentHtml = processedContent.toString();
-
-    return {
-     term: data.term || '',
-     slug: data.slug || slug,
-     category: data.category || 'Other',
-     difficulty: data.difficulty || 'Beginner',
-     image: data.image,
-     imageAlt: data.imageAlt,
-     description: data.description || '',
-     content: contentHtml,
-     relatedTerms: data.relatedTerms || [],
-     synonyms: data.synonyms || [],
-     publishedDate: data.publishedDate || '2024-01-15T00:00:00.000Z',
-     updatedDate: data.updatedDate,
-    } as GlossaryTerm;
-   }
+  // Build the slug map on first access
+  if (termBySlugCache === null) {
+   const terms = await getAllTerms();
+   termBySlugCache = new Map(terms.map(t => [t.slug, t]));
   }
 
-  return null;
+  const cached = termBySlugCache.get(slug);
+  if (!cached) return null;
+
+  // If content hasn't been rendered yet, load it now and update the map
+  if (!cached.content) {
+   const filePath = path.join(glossaryDirectory, `${slug}.md`);
+   const fileContent = await fs.readFile(filePath, 'utf-8');
+   const { data, content } = matter(fileContent);
+   const processedContent = await remark()
+    .use(remarkGfm)
+    .use(html, { sanitize: false })
+    .process(content);
+   const fullTerm: GlossaryTerm = {
+    ...cached,
+    content: processedContent.toString(),
+    // Re-read remaining fields in case they were not in the list cache
+    term: data.term || cached.term,
+    slug: data.slug || slug,
+    category: data.category || cached.category,
+    difficulty: data.difficulty || cached.difficulty,
+    image: data.image || cached.image,
+    imageAlt: data.imageAlt || cached.imageAlt,
+    description: data.description || cached.description,
+    relatedTerms: data.relatedTerms || cached.relatedTerms,
+    synonyms: data.synonyms || cached.synonyms,
+   };
+   termBySlugCache.set(slug, fullTerm);
+   return fullTerm;
+  }
+
+  return cached;
  } catch (error) {
   console.error('Error reading term:', error);
   return null;
