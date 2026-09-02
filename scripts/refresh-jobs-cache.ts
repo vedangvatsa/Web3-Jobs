@@ -1384,6 +1384,11 @@ async function refreshJobsCache() {
     { board: 'fasset', company: 'Fasset' },
     { board: 'paribu', company: 'Paribu' },
     { board: 'yellowcard', company: 'Yellow Card' },
+    { board: 'kiln', company: 'Kiln' },
+    { board: 'ramp', company: 'Ramp Network' },
+    { board: 'sui', company: 'Sui Foundation' },
+    { board: 'everstake', company: 'Everstake' },
+    { board: 'apex', company: 'ApeX Protocol' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
