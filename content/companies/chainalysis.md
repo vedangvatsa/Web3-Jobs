@@ -3,8 +3,6 @@ name: Chainalysis
 website: 'https://www.chainalysis.com'
 category: Blockchain Analytics
 description: "Chainalysis, founded in 2014 in New York by Michael Gronager, is the leading blockchain analytics platform used by 1,200+ governments and institutions to investigate crypto crime, comply with sanctions and measure market activity. Covering 15+ chains, its Reactor and KYT products traced flows in major cases. Valued at $8.6B in 2022, Chainalysis is the default for on-chain compliance. The mission centers on building trust in blockchains. Chainalysis provides blockchain data analytics and risk monitoring software trusted by government agencies, financial institutions, and crypto businesses across 70+ countries. Chainalysis empowers public and private sector compliance teams with real-time transaction monitoring, forensic investigations, and regulatory reporting capabilities."
- Chainalysis provides blockchain data and analysis for compliance and
- investigation.
 ---
 
 Chainalysis offers blockchain data and analysis services to government agencies, financial institutions, and cryptocurrency businesses. Their products help clients detect and prevent fraud, comply with regulations, and conduct investigations into illicit activities involving cryptocurrencies. 
