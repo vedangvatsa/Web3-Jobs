@@ -290,7 +290,6 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'xt-com-exchange': 'https://www.xt.com',
  'marketnode': 'https://www.marketnode.com',
  'szns': 'https://szns.io',
- 'decent-land-labs': 'https://decent.land',
  'impossible-finance': 'https://impossible.finance',
  'ritual': 'https://ritual.net',
  'mantra-chain': 'https://www.mantrachain.io',
