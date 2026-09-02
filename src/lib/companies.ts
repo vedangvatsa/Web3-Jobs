@@ -76,6 +76,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'bnb-chain': 'https://www.bnbchain.org',
  'bnbchain': 'https://www.bnbchain.org',
  'pioneer-services': 'https://www.bnbchain.org',
+ 'pancakeswap': 'https://pancakeswap.finance',
  'certik': 'https://certik.com',
  'impossiblecloud': 'https://impossiblecloud.com',
  'coinhako': 'https://coinhako.com',
