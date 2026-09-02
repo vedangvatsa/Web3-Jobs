@@ -1,5 +1,745 @@
 [
   {
+    "id": "bullish-JR2001144",
+    "title": "Lead Software Engineer, Clearing Engineering",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Lead-Software-Engineer--Clearing-Engineering_JR2001144-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Lead-Software-Engineer--Clearing-Engineering_JR2001144-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99481"
+  },
+  {
+    "id": "bullish-JR2001133",
+    "title": "DeFi Operations Specialist",
+    "company": "Bullish",
+    "location": "3 Locations",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Cayman-Islands/Custody-Financial-Operations-Specialist_JR2001133-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Cayman-Islands/Custody-Financial-Operations-Specialist_JR2001133-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "operations91022"
+  },
+  {
+    "id": "bullish-JR2001265",
+    "title": "Senior Accountant",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Accountant_JR2001265-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Accountant_JR2001265-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "sales96048"
+  },
+  {
+    "id": "bullish-JR2001264",
+    "title": "Project Manager (NYC)",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Project-Manager--NYC-_JR2001264-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Project-Manager--NYC-_JR2001264-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "manager96078"
+  },
+  {
+    "id": "bullish-JR2001257",
+    "title": "Senior Engineer, Post-trade Brokerage Engineering",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Post-trade-Brokerage-Engineering_JR2001257",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Post-trade-Brokerage-Engineering_JR2001257",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99485"
+  },
+  {
+    "id": "bullish-JR2001233",
+    "title": "Lead Software Engineer, BTH Engineering",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Software-Engineer--BTH-Engineering_JR2001233-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Software-Engineer--BTH-Engineering_JR2001233-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99483"
+  },
+  {
+    "id": "bullish-JR2001145",
+    "title": "Senior Software Engineer, Clearing Engineering",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Software-Engineer--Clearing-Engineering_JR2001145-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Senior-Software-Engineer--Clearing-Engineering_JR2001145-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99482"
+  },
+  {
+    "id": "bullish-JR2001260",
+    "title": "Senior Engineer, Risk Engineering",
+    "company": "Bullish",
+    "location": "2 Locations",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Risk-Engineering_JR2001260",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Risk-Engineering_JR2001260",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99486"
+  },
+  {
+    "id": "bullish-JR2001269",
+    "title": "Manager / Sr. Manager, SecOps & Cyber Defense",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Manager---Sr-Manager--SecOps---Cyber-Defense_JR2001269",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Manager---Sr-Manager--SecOps---Cyber-Defense_JR2001269",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "manager96079"
+  },
+  {
+    "id": "bullish-JR2001256",
+    "title": "AI Forward Deployed Engineer",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/AI-Engineer_JR2001256",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/AI-Engineer_JR2001256",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99484"
+  },
+  {
+    "id": "bullish-JR2001080",
+    "title": "Lead Engineer, Trading Platform Engineering",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Engineer--Engineering_JR2001080",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Engineer--Engineering_JR2001080",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99479"
+  },
+  {
+    "id": "bullish-JR2001089",
+    "title": "Lead Engineer, Risk Technology",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Engineer--Risk-Technology_JR2001089-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Engineer--Risk-Technology_JR2001089-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "engineer99480"
+  },
+  {
+    "id": "bullish-JR2001235",
+    "title": "Lead Engineer, Trading Product Engineering",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Lead-Engineer--Trading-Product-Engineering_JR2001235-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Lead-Engineer--Trading-Product-Engineering_JR2001235-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "product81509"
+  },
+  {
+    "id": "bullish-JR2001236",
+    "title": "Senior Engineer, Trading Product Engineering",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Trading-Product-Engineering_JR2001236-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Trading-Product-Engineering_JR2001236-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "product81510"
+  },
+  {
+    "id": "bullish-JR2001207",
+    "title": "BSA/AML Officer",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Compliance-Analyst_JR2001207-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Compliance-Analyst_JR2001207-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "bsa2"
+  },
+  {
+    "id": "bullish-JR2001228",
+    "title": "Senior Engineer, Trading Product Engineering",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Trading-Product-Engineering_JR2001228",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Engineer--Trading-Product-Engineering_JR2001228",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "product81508"
+  },
+  {
+    "id": "bullish-JR2001272",
+    "title": "Head of Events, Consensus",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Head-of-Events--Consensus_JR2001272",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Head-of-Events--Consensus_JR2001272",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "head94022"
+  },
+  {
+    "id": "bullish-JR2001273",
+    "title": "Senior Exchange Operations Analyst",
+    "company": "Bullish",
+    "location": "Hong Kong",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Exchange-Operations-Analyst_JR2001273",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/Hong-Kong/Senior-Exchange-Operations-Analyst_JR2001273",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "analyst74217"
+  },
+  {
+    "id": "bullish-JR2001198",
+    "title": "Director, AI Enablement",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Director--AI-Enablement_JR2001198-2",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Director--AI-Enablement_JR2001198-2",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "director96013"
+  },
+  {
+    "id": "bullish-JR2001263",
+    "title": "Senior Program Manager, Business Integration",
+    "company": "Bullish",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:bullish",
+    "link": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Program-Manager_JR2001263-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/Bullish/job/New-York/Program-Manager_JR2001263-1",
+    "department": "Bullish",
+    "skills": [
+      "Exchange",
+      "Clearing",
+      "Derivatives",
+      "Institutional",
+      "Web3"
+    ],
+    "slug": "manager96077"
+  },
+  {
+    "id": "coindesk-JR2001225",
+    "title": "Senior Software Engineer, CoinDesk Media",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Software-Engineer--CoinDesk-Media_JR2001225",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Software-Engineer--CoinDesk-Media_JR2001225",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "engineer99477"
+  },
+  {
+    "id": "coindesk-JR2001240",
+    "title": "Lead Product Manager, Tokenization",
+    "company": "CoinDesk",
+    "location": "2 Locations",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Product-Manager--Tokenization_JR2001240",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Product-Manager--Tokenization_JR2001240",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "product81507"
+  },
+  {
+    "id": "coindesk-JR2001211",
+    "title": "Exchange Operations Specialist",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Exchange-Operations-Specialist_JR2001211",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Exchange-Operations-Specialist_JR2001211",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "operations91021"
+  },
+  {
+    "id": "coindesk-JR2001253",
+    "title": "Sales Manager, CoinDesk Data",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Sales-Manager--CoinDesk-Data_JR2001253",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Sales-Manager--CoinDesk-Data_JR2001253",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "manager96073"
+  },
+  {
+    "id": "coindesk-JR2001144",
+    "title": "Lead Software Engineer, Clearing Engineering",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Lead-Software-Engineer--Clearing-Engineering_JR2001144",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Lead-Software-Engineer--Clearing-Engineering_JR2001144",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "engineer99475"
+  },
+  {
+    "id": "coindesk-JR2001133",
+    "title": "DeFi Operations Specialist",
+    "company": "CoinDesk",
+    "location": "3 Locations",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/Cayman-Islands/Custody-Financial-Operations-Specialist_JR2001133",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/Cayman-Islands/Custody-Financial-Operations-Specialist_JR2001133",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "operations91020"
+  },
+  {
+    "id": "coindesk-JR2001265",
+    "title": "Senior Accountant",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Accountant_JR2001265",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Accountant_JR2001265",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "sales96047"
+  },
+  {
+    "id": "coindesk-JR2001264",
+    "title": "Project Manager (NYC)",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Project-Manager--NYC-_JR2001264",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Project-Manager--NYC-_JR2001264",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "manager96075"
+  },
+  {
+    "id": "coindesk-JR2001233",
+    "title": "Lead Software Engineer, BTH Engineering",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Software-Engineer--BTH-Engineering_JR2001233",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Software-Engineer--BTH-Engineering_JR2001233",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "engineer99478"
+  },
+  {
+    "id": "coindesk-JR2001250",
+    "title": "Associate, Partnerships CoinDesk Media & Events",
+    "company": "CoinDesk",
+    "location": "London",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/London/Associate--Partnerships-CoinDesk-Media---Events_JR2001250",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/London/Associate--Partnerships-CoinDesk-Media---Events_JR2001250",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "associate83118"
+  },
+  {
+    "id": "coindesk-JR2001145",
+    "title": "Senior Software Engineer, Clearing Engineering",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Software-Engineer--Clearing-Engineering_JR2001145",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Senior-Software-Engineer--Clearing-Engineering_JR2001145",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "engineer99476"
+  },
+  {
+    "id": "coindesk-JR2001268",
+    "title": "Specialist, Media & Events Partnerships",
+    "company": "CoinDesk",
+    "location": "London",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/London/Specialist--Media---Events-Partnerships_JR2001268",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/London/Specialist--Media---Events-Partnerships_JR2001268",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "specialist10"
+  },
+  {
+    "id": "coindesk-JR2001269",
+    "title": "Manager / Sr. Manager, SecOps & Cyber Defense",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Manager---Sr-Manager--SecOps---Cyber-Defense_JR2001269-2",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Manager---Sr-Manager--SecOps---Cyber-Defense_JR2001269-2",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "manager96076"
+  },
+  {
+    "id": "coindesk-JR2001207",
+    "title": "BSA/AML Officer",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Compliance-Analyst_JR2001207",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Compliance-Analyst_JR2001207",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "bsa1"
+  },
+  {
+    "id": "coindesk-JR2001272",
+    "title": "Head of Events, Consensus",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Head-of-Events--Consensus_JR2001272-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Head-of-Events--Consensus_JR2001272-1",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "head94021"
+  },
+  {
+    "id": "coindesk-JR2001198",
+    "title": "Director, AI Enablement",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Director--AI-Enablement_JR2001198-1",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Director--AI-Enablement_JR2001198-1",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "director96012"
+  },
+  {
+    "id": "coindesk-JR2001263",
+    "title": "Senior Program Manager, Business Integration",
+    "company": "CoinDesk",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "workday:coindesk",
+    "link": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Program-Manager_JR2001263",
+    "applyUrl": "https://bullish.wd3.myworkdayjobs.com/CoinDesk/job/New-York/Program-Manager_JR2001263",
+    "department": "CoinDesk",
+    "skills": [
+      "Media",
+      "Crypto News",
+      "Consensus",
+      "Analytics",
+      "Web3"
+    ],
+    "slug": "manager96074"
+  },
+  {
     "id": "herp-ginco-1EQl7opftdPW",
     "title": "開発部_バックエンドエンジニア",
     "company": "Ginco",

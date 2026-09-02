@@ -1627,6 +1627,95 @@ async function refreshJobsCache() {
     }
   }
 
+  // --- Workday CXS Sources ---
+  const WORKDAY_BOARDS = [
+    {
+      company: 'CoinDesk',
+      domain: 'bullish.wd3.myworkdayjobs.com',
+      tenant: 'bullish',
+      site: 'CoinDesk',
+      baseUrl: 'https://bullish.wd3.myworkdayjobs.com/CoinDesk',
+    },
+    {
+      company: 'Bullish',
+      domain: 'bullish.wd3.myworkdayjobs.com',
+      tenant: 'bullish',
+      site: 'Bullish',
+      baseUrl: 'https://bullish.wd3.myworkdayjobs.com/Bullish',
+    }
+  ];
+
+  for (const wd of WORKDAY_BOARDS) {
+    registerDirectSource('Workday', wd.site, wd.company);
+    try {
+      const listUrl = `https://${wd.domain}/wday/cxs/${wd.tenant}/${wd.site}/jobs`;
+      const res = await fetch(listUrl, {
+        method: 'POST',
+        headers: { 'Content-Type': 'application/json' },
+        body: JSON.stringify({ appliedFacets: {}, limit: 20, offset: 0, searchText: '' }),
+      });
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json() as {
+        jobPostings: Array<{
+          title: string;
+          externalPath: string;
+          locationsText?: string;
+          postedOn?: string;
+          bulletFields?: string[];
+        }>;
+      };
+
+      removeJobs((job) => matchesRefreshedSource(job, 'Workday', wd.site, wd.company));
+      removeAggregatorCopiesForCompany(wd.company);
+
+      let added = 0;
+      await runInBatches(data.jobPostings || [], 6, async (posting) => {
+        const title = cleanTitle(posting.title);
+        if (!title || !isConcreteOpening(title)) return;
+
+        const detailUrl = `https://${wd.domain}/wday/cxs/${wd.tenant}/${wd.site}${posting.externalPath}`;
+        const link = `${wd.baseUrl}${posting.externalPath}`;
+        let description = '';
+        let datePosted = new Date().toISOString();
+
+        try {
+          const detailRes = await fetch(detailUrl);
+          if (detailRes.ok) {
+            const detailData = await detailRes.json() as {
+              jobPostingInfo?: {
+                jobDescription?: string;
+                startDate?: string;
+              };
+            };
+            description = detailData.jobPostingInfo?.jobDescription || '';
+            if (detailData.jobPostingInfo?.startDate) {
+              datePosted = detailData.jobPostingInfo.startDate;
+            }
+          }
+        } catch {}
+
+        const candidate: CachedJob = {
+          id: posting.bulletFields?.[0] || posting.externalPath.split('/').pop() || link,
+          title,
+          company: wd.company,
+          link,
+          date: datePosted,
+          source: sourceLabel('Workday', wd.site, wd.company),
+          location: posting.locationsText,
+          active: true,
+        };
+        if (upsertJob(candidate)) added++;
+        rememberDescription(candidate, description);
+      });
+
+      feedsOk++;
+      console.log(`  ✅ Workday (${wd.company}): ${data.jobPostings?.length || 0} unique jobs, ${added} new`);
+    } catch (error: any) {
+      feedsFailed++;
+      console.warn(`  ❌ Workday (${wd.company}): ${error.message}`);
+    }
+  }
+
   // Verified employer-owned career pages that do not expose a conventional
   // ATS feed. Each adapter discovers only links on the employer's live index
   // and stores the employer-written detail page content.
