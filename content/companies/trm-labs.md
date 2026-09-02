@@ -5,8 +5,6 @@ founded: 2020
 category: Blockchain Intelligence & Compliance
 headquarters: 'San Francisco, California, USA'
 description: "TRM Labs, founded in 2018 in San Francisco by Esteban Castaño, provides blockchain intelligence for 45+ regulators and 1,000+ institutions to detect fraud, sanctions and money laundering across 30+ chains. Backed by Tiger Global and Thoma Bravo, TRM traces on-chain activity and builds risk scoring for exchanges, banks and law enforcement. Expect mission-driven work at the intersection of crypto and public safety. TRM Labs equips law enforcement agencies, government bodies, and financial institutions with real-time blockchain intelligence, transaction monitoring, and risk detection software. TRM Labs combines multi-chain data graph analytics with machine learning models to trace stolen funds, identify sanctioned addresses, and prevent financial crimes."
- Leading blockchain intelligence platform for detecting crypto-enabled crime
- and ensuring compliance
 ---
 
 TRM Labs is a blockchain intelligence company that delivers technology and analysis to detect crypto-enabled crime, ensuring compliance and safety worldwide. The company helps financial institutions, governments, and crypto businesses fight fraud, money laundering, and financial crime using blockchain data and advanced analytics.

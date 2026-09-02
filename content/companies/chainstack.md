@@ -5,8 +5,6 @@ founded: 2018
 category: Infrastructure / RPC
 headquarters: Singapore
 description: "Chainstack, founded in 2018 by Laurent Dedenis and Eugene Aseev in Singapore, provides managed blockchain nodes and development infrastructure for enterprises. Its platform offers dedicated and elastic nodes, data APIs and staking integrations across Ethereum, BNB Chain, Polygon, Solana and many networks without self-hosting hardware. Serving exchanges, analytics and gaming teams that need archival access at scale, Chainstack handles upgrades, peering, backups and strong uptime commitments. Headquartered in Singapore with hubs in London, Hong Kong and distributed globally, Chainstack emphasizes developer self-service, clear documentation and usage-based scaling. The company blends cloud operations with protocol research for emerging chains. Its elastic node features, archive APIs and staking integrations reduce DevOps overhead for teams handling significant transaction volume across emerging and established chains. Expect a reliability-driven culture focused on node uptime, observability and helping developers deploy chain infrastructure without operational overhead."
- Managed blockchain infrastructure providing RPC node services across multiple
- protocols
 ---
 
 Managed blockchain infrastructure providing RPC node services across multiple protocols.

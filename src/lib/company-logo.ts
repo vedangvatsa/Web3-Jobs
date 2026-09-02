@@ -6,6 +6,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'ethena-labs': 'ethena',
   'hedera-hashgraph': 'hedera',
   'ava-labs': 'ava',
+  'animoca-brands': 'animoca-brands',
+  'animocabrands': 'animoca-brands',
+  'animoca': 'animoca-brands',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
