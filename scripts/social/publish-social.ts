@@ -528,33 +528,38 @@ async function postToBluesky(text: string, imagePath: string) {
 
 // --- Threads API ---
 
-async function postToThreads(text: string, imagePath: string) {
- const accessToken = process.env.THREADS_ACCESS_TOKEN;
- const threadsUserId = process.env.THREADS_USER_ID;
+async function postToThreads(text: string, imagePath: string, remoteImageUrl?: string) {
+  const accessToken = process.env.THREADS_ACCESS_TOKEN;
+  const threadsUserId = process.env.THREADS_USER_ID;
 
- if (!accessToken || !threadsUserId) {
- throw new Error('THREADS_ACCESS_TOKEN or THREADS_USER_ID not set');
- }
+  if (!accessToken || !threadsUserId) {
+    throw new Error('THREADS_ACCESS_TOKEN or THREADS_USER_ID not set');
+  }
 
- // Threads requires a publicly accessible image URL
- const imageUrl = process.env.SOCIAL_IMAGE_BASE_URL && imagePath
- ? `${process.env.SOCIAL_IMAGE_BASE_URL}/${path.basename(imagePath)}`
- : null;
+  // Threads API requires a publicly accessible HTTPS image URL.
+  // Prefer the direct remote imageUrl (e.g. catbox.moe / iili.io / reddit) if available,
+  // or construct using SOCIAL_IMAGE_BASE_URL if imagePath exists locally.
+  let imageUrl = remoteImageUrl || null;
+  if (!imageUrl && imagePath && process.env.SOCIAL_IMAGE_BASE_URL) {
+    imageUrl = `${process.env.SOCIAL_IMAGE_BASE_URL}/${path.basename(imagePath)}`;
+  }
 
- // Customize text specifically for Threads: use hashtagweb3.com/th for attribution
- const threadsText = text.replace(/https?:\/\/hashtagweb3\.com(?!\/th\b)/gi, 'https://hashtagweb3.com/th')
-                         .replace(/hashtagweb3\.com(?!\/th\b)/gi, 'hashtagweb3.com/th');
+  // Customize text specifically for Threads: use hashtagweb3.com/th for attribution
+  const threadsText = text.replace(/https?:\/\/hashtagweb3\.com(?!\/th\b)/gi, 'https://hashtagweb3.com/th')
+                          .replace(/hashtagweb3\.com(?!\/th\b)/gi, 'hashtagweb3.com/th');
 
- const urlParams = new URLSearchParams();
- urlParams.append('access_token', accessToken);
- if (imageUrl && fs.existsSync(imagePath)) {
- urlParams.append('media_type', 'IMAGE');
- urlParams.append('image_url', imageUrl);
- urlParams.append('text', threadsText);
- } else {
- urlParams.append('media_type', 'TEXT');
- urlParams.append('text', threadsText);
- }
+  const urlParams = new URLSearchParams();
+  urlParams.append('access_token', accessToken);
+  if (imageUrl) {
+    console.log(`Attaching public image to Threads container: ${imageUrl}`);
+    urlParams.append('media_type', 'IMAGE');
+    urlParams.append('image_url', imageUrl);
+    urlParams.append('text', threadsText);
+  } else {
+    console.log('No public image URL available; posting as text.');
+    urlParams.append('media_type', 'TEXT');
+    urlParams.append('text', threadsText);
+  }
 
  // Step 1 - Create media container
  const createRes = await fetch(
@@ -888,7 +893,7 @@ async function main() {
  } else if (platform === 'bluesky') {
  await postToBluesky(text, imagePath);
  } else if (platform === 'threads') {
- await postToThreads(text, imagePath);
+ await postToThreads(text, imagePath, post.imageUrl);
  }
 
  // Update state - track the chosen index for round-robin
