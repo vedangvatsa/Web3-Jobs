@@ -1389,6 +1389,11 @@ async function refreshJobsCache() {
     { board: 'sui', company: 'Sui Foundation' },
     { board: 'everstake', company: 'Everstake' },
     { board: 'apex', company: 'ApeX Protocol' },
+    { board: 'coinmarketcap', company: 'CoinMarketCap' },
+    { board: 'cointelegraph', company: 'Cointelegraph' },
+    { board: 'trmlabs', company: 'TRM Labs' },
+    { board: 'particle', company: 'Particle Network' },
+    { board: 'lido', company: 'Lido' },
   ];
 
   for (const bh of BAMBOO_BOARDS) {
