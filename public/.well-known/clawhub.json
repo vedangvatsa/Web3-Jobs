@@ -1,0 +1,15 @@
+{
+  "name": "hashtagweb3",
+  "version": "1.0.0",
+  "description": "Hashtag Web3 skill package for ClawHub and OpenClaw agents.",
+  "author": "Hashtag Web3 <contact@hashtagweb3.com>",
+  "license": "Apache-2.0",
+  "repository": "https://github.com/vedangvatsa/Web3-Jobs",
+  "homepage": "https://hashtagweb3.com",
+  "skill_file": "SKILL.md",
+  "mcp": {
+    "url": "https://hashtagweb3.com/api/mcp",
+    "transport": "streamable-http"
+  },
+  "tags": ["web3", "crypto", "jobs", "glossary", "events"]
+}

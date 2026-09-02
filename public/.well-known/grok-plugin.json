@@ -1,0 +1,22 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Hashtag Web3",
+  "name_for_model": "hashtagweb3",
+  "description_for_human": "Search live Web3 jobs, crypto glossary definitions, hackathons, conferences, and crypto news.",
+  "description_for_model": "Plugin for querying Hashtag Web3 (hashtagweb3.com). Search live Web3 jobs, lookup blockchain glossary definitions, find global crypto hackathons/conferences, and aggregate crypto news.",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "https://hashtagweb3.com/openapi.json",
+    "is_user_authenticated": false
+  },
+  "mcp_server": {
+    "url": "https://hashtagweb3.com/api/mcp",
+    "transport": "streamable-http"
+  },
+  "logo_url": "https://hashtagweb3.com/icon.png",
+  "contact_email": "contact@hashtagweb3.com",
+  "legal_info_url": "https://hashtagweb3.com/privacy"
+}
