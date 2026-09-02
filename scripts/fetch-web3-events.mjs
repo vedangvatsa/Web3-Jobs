@@ -1298,6 +1298,23 @@ async function fetchWeb3Events() {
   const cachePath = path.join(__dirname, '../content/events-cache.json');
   fs.writeFileSync(cachePath, JSON.stringify(validEvents, null, 2));
   console.log(`Saved to ${cachePath}`);
+
+  // Also purge past events from curated-events.json
+  const curatedPath = path.join(__dirname, '../content/curated-events.json');
+  if (fs.existsSync(curatedPath)) {
+    try {
+      const curated = JSON.parse(fs.readFileSync(curatedPath, 'utf-8'));
+      const futureCurated = curated.filter(e => {
+        if (!e.startDate) return false;
+        const endDate = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
+        return isNaN(endDate.getTime()) || endDate >= new Date();
+      });
+      fs.writeFileSync(curatedPath, JSON.stringify(futureCurated, null, 2));
+      console.log(`Purged past events from curated-events.json (${curated.length} -> ${futureCurated.length})`);
+    } catch (e) {
+      console.warn('Could not clean curated-events.json:', e.message);
+    }
+  }
 }
 
 fetchWeb3Events();
