@@ -835,14 +835,24 @@ async function main() {
  console.log(`⏩ Skipping post ${candidate.id}: No image attached.`);
  continue;
  }
+
  // Use platform-specific text
  let candidateText: string;
- if ((platform === 'twitter' || platform === 'bluesky' || platform === 'threads') && candidate.twitter?.text) {
- candidateText = candidate.twitter.text;
- } else if (platform === 'instagram' || platform === 'threads') {
- candidateText = candidate.instagram.text;
+ if (platform === 'threads' && candidate.threads?.text) {
+   candidateText = candidate.threads.text;
+ } else if (platform === 'linkedin' && candidate.linkedin?.text) {
+   candidateText = candidate.linkedin.text;
+ } else if ((platform === 'twitter' || platform === 'bluesky') && candidate.twitter?.text) {
+   candidateText = candidate.twitter.text;
+ } else if (platform === 'instagram' && candidate.instagram?.text) {
+   candidateText = candidate.instagram.text;
  } else {
- candidateText = candidate.linkedin.text;
+   candidateText = candidate.linkedin?.text || candidate.title;
+ }
+
+ if (platform === 'linkedin') {
+   candidateText = candidateText.replace(/hashtagweb3\.com\/th/g, 'hashtagweb3.com/li')
+                                .replace(/hashtagweb3\.com(?!\/)/g, 'hashtagweb3.com/li');
  }
  
  console.log(`🔍 Pre-flight check for ${candidate.id} on ${platform}...`);
