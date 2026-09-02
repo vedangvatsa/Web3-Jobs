@@ -1,6 +1,6 @@
 ---
 name: 'Moola'
-website: 'https://moola.market'
+website: 'https://moola.finance'
 category: 'DeFi'
 logo: 'https://www.google.com/s2/favicons?domain=moola.market&sz=64'
 description: ''

@@ -2,7 +2,7 @@
 name: "Fuse Energy"
 title: "Fuse Energy Jobs: Software Engineer, Product Manager & More"
 description: "Fuse Energy is building decentralized renewable energy generation networks and smart power grid infrastructure."
-website: "https://fuse-energy.com"
+website: 'https://www.fuse.green'
 twitter: ""
 linkedin: ""
 careers: ""
