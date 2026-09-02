@@ -1,0 +1,21 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "io.github.vedangvatsa/web3-jobs",
+  "description": "Agentic Web3 job board, news feed, events, and glossary definitions MCP server.",
+  "repository": {
+    "url": "https://github.com/vedangvatsa/Web3-Jobs",
+    "source": "github"
+  },
+  "version": "1.0.0",
+  "packages": [
+    {
+      "registryType": "npm",
+      "identifier": "@hashtagweb3/sdk",
+      "version": "1.0.0",
+      "transport": {
+        "type": "streamable-http",
+        "url": "https://hashtagweb3.com/api/mcp"
+      }
+    }
+  ]
+}
