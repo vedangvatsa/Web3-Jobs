@@ -125,6 +125,7 @@ export async function GET() {
       headers: {
         'Content-Type': 'application/json; charset=utf-8',
         'Access-Control-Allow-Origin': '*',
+        'Vary': 'Accept, Accept-Encoding',
         'Cache-Control': 'public, max-age=300, s-maxage=3600, stale-while-revalidate=300',
         'X-AI-Usage': 'indexing=yes, search=yes, inference=yes, citation=yes',
       },

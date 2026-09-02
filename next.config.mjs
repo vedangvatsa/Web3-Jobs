@@ -144,6 +144,37 @@ const nextConfig = {
           { key: 'Link', value: '<https://hashtagweb3.com/developers>; rel="deprecation"; type="text/html", <https://hashtagweb3.com/developers>; rel="sunset"; type="text/html", </openapi.json>; rel="service-desc"' },
         ],
       },
+      {
+        source: '/mcp',
+        headers: [
+          { key: 'Content-Security-Policy', value: "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';" },
+          { key: 'Link', value: '<https://hashtagweb3.com/api/mcp-docs>; rel="mcp-docs-server"' },
+        ],
+      },
+      {
+        source: '/api/mcp',
+        headers: [
+          { key: 'Content-Security-Policy', value: "default-src 'self'; connect-src 'self' https://hashtagweb3.com; frame-ancestors 'self' https://chatgpt.com https://claude.ai; form-action 'self' https://hashtagweb3.com; img-src 'self' https://hashtagweb3.com; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline';" },
+          { key: 'Link', value: '<https://hashtagweb3.com/api/mcp-docs>; rel="mcp-docs-server"' },
+        ],
+      },
+      // Serve .md files with correct Content-Type for content negotiation (agents/bots)
+      {
+        source: '/:path*.md',
+        headers: [
+          { key: 'Content-Type', value: 'text/markdown; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+        ],
+      },
+      // Ensure agent-view endpoint always advertises content negotiation support
+      {
+        source: '/api/agent-view',
+        headers: [
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+        ],
+      },
     ];
   },
   images: {
