@@ -1,33 +1,5 @@
 [
   {
-    "id": "luma-host-evt-0BSuQBrD3Kjg4YS",
-    "name": "Como tirar a sua ideia do papel?",
-    "description": "A Jornada She Is Solana é uma formação gratuita criada para aproximar mais mulheres do ecossistema Web3 e da Solana.",
-    "startDate": "2026-09-01T22:00:00.000Z",
-    "endDate": "2026-09-01T23:30:00.000Z",
-    "city": "",
-    "country": "",
-    "location": "Virtual / TBA",
-    "url": "https://lu.ma/omd4aljo",
-    "coverImage": "https://images.lumacdn.com/uploads/1j/39de55b3-ae8f-4de5-a716-9e680852bf22.png",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-NMEmttQpKgeMtzX",
-    "name": "Forward Deployed: Evals - Beyond the Vibe Check",
-    "description": "",
-    "startDate": "2026-09-02T01:00:00.000Z",
-    "endDate": "2026-09-02T03:30:00.000Z",
-    "city": "San Francisco",
-    "country": "United States",
-    "location": "San Francisco, United States",
-    "url": "https://lu.ma/85oi0k2n",
-    "coverImage": "https://images.lumacdn.com/uploads/lj/67f7fd83-23f5-4a68-b5f6-4bed19be3999.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-mIcE6vOB4q9VeWu",
     "name": "Wellness Wednesdays",
     "description": "Superteam Thailand is here to help you navigate it. Come hang out at our events, it’s the best way to plug into the community, learn from each other, and uncover new opportunities.",
@@ -112,20 +84,6 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-YwoPTAjyTMltniB",
-    "name": "Light Dao Salon: An Evening with Sarba Das, former Head of A24 (Nonfiction) & ABC Dev Exec of Shark Tank (Lisbon)",
-    "description": "",
-    "startDate": "2026-09-02T17:30:00.000Z",
-    "endDate": "2026-09-02T20:30:00.000Z",
-    "city": "Lisboa",
-    "country": "Portugal",
-    "location": "Lisboa, Portugal",
-    "url": "https://lu.ma/k2mf2911",
-    "coverImage": "https://images.lumacdn.com/uploads/gi/00787244-7be7-49d9-81ea-1ee86a1eebf0.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-YwoPTAjyTMltniB",
     "name": "Light Dao Salon: An Evening with Sarba Das, former Head of A24 (Nonfiction) & ABC Dev Exec of Shark Tank (Lisbon)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -154,6 +112,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-GqfUZjQidTtF7kZ",
+    "name": "China Quant Investment Delegation × Silicon Valley — NVIDIA, Stanford & UC Berkeley",
+    "description": "",
+    "startDate": "2026-09-02T20:30:00.000Z",
+    "endDate": "2026-09-03T00:30:00.000Z",
+    "city": "Stanford",
+    "country": "United States",
+    "location": "Stanford, United States",
+    "url": "https://lu.ma/jwekb9do",
+    "coverImage": "https://images.lumacdn.com/uploads/97/14f92386-8139-4f59-ada4-074423f57c65.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-AZCrln598qDGN8y",
     "name": "NFT NYC: The Honey Bee Lounge",
     "description": "",
@@ -168,29 +140,29 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316375234",
+    "id": "mu-316373932",
     "name": "The Global Passion Economy: Web3, AI, Gaming & SuperOne - Live Q&A",
-    "description": "**IMPORTANT: This Meetup begins at 6:45am PT / 7:45am MT / 8:45am CT / 9:45am ET with a brief 15-minute welcome and check-in.**\n\n**The full SuperOne community call with special guest Katie begins at 8",
-    "startDate": "2026-09-02T06:45:00-07:00",
-    "endDate": "2026-09-02T06:45:00-07:00",
+    "description": "**IMPORTANT: This Meetup begins at 6:45am PT / 7:45am MT / 8:45am CT / 9:45am ET because there's a brief 15-minute welcome and check-in.**\n\nThe full SuperOne community call with special guest begins a",
+    "startDate": "2026-09-02T08:45:00-05:00",
+    "endDate": "2026-09-02T08:45:00-05:00",
     "city": "",
     "country": "",
     "location": "Online",
-    "url": "https://www.meetup.com/ladies-in-seattle-tech/events/316375234/",
+    "url": "https://www.meetup.com/data-driven-traders-network/events/316373932/",
     "coverImage": null,
     "source": "meetup",
     "month": "September 2026"
   },
   {
-    "id": "mu-315286686",
-    "name": "Real-Time Intelligence MCP: consulta datos en streaming con lenguaje natural",
-    "description": "Los datos en tiempo real son el próximo nivel.\n\nEn esta sesión conectaremos el servidor MCP de Real-Time Intelligence (RTI) de Fabric a un agente de IA para interactuar con Eventhouse y Azure Data Exp",
-    "startDate": "2026-09-02T13:00:00-07:00",
-    "endDate": "2026-09-02T13:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286686/",
+    "id": "mu-316311558",
+    "name": "Taco Rio & Riverwalk Fireworks",
+    "description": "**Title: Chicago Traders Meetup: Taco Rio & Riverwalk Fireworks**\n\n**Date & Time:** Wednesday\\, September 05\\, 2026 \\| 6:30 PM – 9:15 PM CDT\n\n**Location:** Taco Rio (457 E Riverwalk, Chicago, IL 60601",
+    "startDate": "2026-09-02T18:30:00-05:00",
+    "endDate": "2026-09-02T18:30:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chicago-traders/events/316311558/",
     "coverImage": null,
     "source": "meetup",
     "month": "September 2026"
@@ -434,6 +406,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-316047209",
+    "name": "Open Bitcoin Discussion",
+    "description": "Our weekly **open Bitcoin discussion**.\nTo join, RSVP for the event that you can make\n\nThe usual format: live market dashboard to open, \\~20 minutes of curated slides, then open discussion. Bring your",
+    "startDate": "2026-09-02T20:00:00-04:00",
+    "endDate": "2026-09-02T20:00:00-04:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/meetup-group-cttlfnfm/events/316047209/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
     "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
     "description": "",
@@ -574,20 +560,6 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-315286722",
-    "name": "Fabric IQ y Ontología MCP: la capa semántica que entiende tu negocio",
-    "description": "La sesión final lleva la serie al nivel más avanzado: la semántica empresarial como fundamento de todos los agentes.\n\nFabric IQ (GA desde Build 2026) es la capa de contexto compartido que unifica Data",
-    "startDate": "2026-09-04T08:00:00-07:00",
-    "endDate": "2026-09-04T08:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/microsoft-reactor-redmond/events/315286722/",
-    "coverImage": null,
-    "source": "meetup",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-BgXWQt1GV4wogWP",
     "name": "New Friendship Tech x CryptoFridays x StandWithCrypto x Avalanche Team1",
     "description": "",
@@ -714,6 +686,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-314599520",
+    "name": "South Side Spanish (Bridgeport)",
+    "description": "Estás invitado a un grupo de habla español. Aquí no se juzga, es bienvenido/a el que sea nativo/a o al que este recién empezando. Lo único que te pedimos es que hagas un esfuerzo ya que es primordial ",
+    "startDate": "2026-09-05T15:00:00-05:00",
+    "endDate": "2026-09-05T15:00:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chicago-spanish-language/events/314599520/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-yFP8YOGl23O4jrE",
     "name": "Light DAO Beach Day (LA)",
     "description": "Light Dao is a global community of conscious entrepreneurs and investors. Our mission is to expand the collective consciousness and co-create a thriving regenerative future for humanity.",
@@ -725,6 +711,20 @@
     "url": "https://lu.ma/b8zbipzd",
     "coverImage": "https://images.lumacdn.com/uploads/nj/6e2e197e-c6e6-4237-a667-879ee9ac40f3.png",
     "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
+    "id": "ma-unchained-summit-dubai",
+    "name": "Unchained Summit Dubai",
+    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
+    "startDate": "2026-09-07T00:00:00.000Z",
+    "endDate": "2026-09-08T00:00:00.000Z",
+    "city": "Dubai, UAE",
+    "country": "UAE",
+    "location": "Dubai, UAE, UAE",
+    "url": "https://unchainedsummit.com/dubai/",
+    "coverImage": "https://unchainedsummit.com/dubai/wp-content/uploads/sites/8/2026/08/unchianed-summit-dubai-2027-16x9-1.jpg",
+    "source": "marketacross",
     "month": "September 2026"
   },
   {
@@ -753,20 +753,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-september-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "September 2026"
-  },
-  {
-    "id": "ma-unchained-summit-dubai",
-    "name": "Unchained Summit Dubai",
-    "description": "Dubai has a growing reputation as a crypto and blockchain hub, and Unchained Summit Dubai in September 2026 is a prime example of an event that contributes to it. This crypto conference is held under ",
-    "startDate": "2026-09-07T00:00:00.000Z",
-    "endDate": "2026-09-08T00:00:00.000Z",
-    "city": "Dubai, UAE",
-    "country": "UAE",
-    "location": "Dubai, UAE, UAE",
-    "url": "https://unchainedsummit.com/dubai/",
-    "coverImage": null,
-    "source": "marketacross",
     "month": "September 2026"
   },
   {
@@ -826,16 +812,16 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-ivGyHDY4DdXMyOm",
-    "name": "Rendez-vous de Gastronomie Durable du Plateau",
+    "id": "luma-evt-2PLueLEQdFKqvb4",
+    "name": "Beer & Bitcoin Tuesdays (Los Angeles Aleworks)",
     "description": "",
-    "startDate": "2026-09-09T16:00:00.000Z",
-    "endDate": "2026-09-14T01:00:00.000Z",
-    "city": "Montreal",
-    "country": "Canada",
-    "location": "Montreal, Canada",
-    "url": "https://lu.ma/oaqy62lq",
-    "coverImage": "https://images.lumacdn.com/uploads/pd/1e2519f9-0877-458e-88a1-7576e6c8cb3e.png",
+    "startDate": "2026-09-09T01:30:00.000Z",
+    "endDate": "2026-09-09T05:30:00.000Z",
+    "city": "Hawthorne",
+    "country": "United States",
+    "location": "Hawthorne, United States",
+    "url": "https://lu.ma/8vqlli1c",
+    "coverImage": "https://images.lumacdn.com/event-covers/uf/3df0825f-32f7-492e-8fdb-40bbff1134fb",
     "source": "luma",
     "month": "September 2026"
   },
@@ -882,6 +868,34 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-ArQxOH2I45dDQf8",
+    "name": "Fisherman's Wharf Forward Community Meeting 2: Concept Design Open House",
+    "description": "",
+    "startDate": "2026-09-10T00:30:00.000Z",
+    "endDate": "2026-09-10T02:30:00.000Z",
+    "city": "San Francisco",
+    "country": "United States",
+    "location": "San Francisco, United States",
+    "url": "https://lu.ma/6sbnmcfb",
+    "coverImage": "https://images.lumacdn.com/uploads/al/44da4618-cda8-4af4-b052-9853dac6c7e1.jpg",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "luma-host-evt-WPpp054lScSHuVq",
+    "name": "Solana Lunch",
+    "description": "Made for Solana founders, operators and builders.",
+    "startDate": "2026-09-10T08:00:00.000Z",
+    "endDate": "2026-09-10T11:00:00.000Z",
+    "city": "Dubai",
+    "country": "United Arab Emirates",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://lu.ma/SolanaLunchDXB",
+    "coverImage": "https://images.lumacdn.com/uploads/pm/d31a9ad3-b955-430f-b6b2-2b69a77514c5.jpg",
+    "source": "luma-trusted",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-Z9sRan3ANCzu5MA",
     "name": "A New Creative Paradigm: Consistent, Cinematic AI Video Powered by Kling AI",
     "description": "",
@@ -896,15 +910,15 @@
     "month": "September 2026"
   },
   {
-    "id": "mu-316216307",
-    "name": "Live AI Crypto Trading Demo + Founder Q&A",
-    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
-    "startDate": "2026-09-10T11:00:00-07:00",
-    "endDate": "2026-09-10T11:00:00-07:00",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.meetup.com/carpoolcrypto/events/316216307/",
+    "id": "mu-316220365",
+    "name": "Socratic Seminar",
+    "description": "Please note that Chicago BitDevs aims at a technical audience. A general expectation is that people are quite familiar with the design, security, and specification of Bitcoin. Everyone is welcome and ",
+    "startDate": "2026-09-10T18:00:00-05:00",
+    "endDate": "2026-09-10T18:00:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/chibitdevs/events/316220365/",
     "coverImage": null,
     "source": "meetup",
     "month": "September 2026"
@@ -952,6 +966,20 @@
     "month": "September 2026"
   },
   {
+    "id": "luma-evt-B1NX8H2rzXJPIBp",
+    "name": "Vermú: Prácticas de abuela frente al fin del mundo: reciclaje, bricolaje, aprovechamiento y obsolescencia programada",
+    "description": "",
+    "startDate": "2026-09-12T17:00:00.000Z",
+    "endDate": "2026-09-12T19:00:00.000Z",
+    "city": "Madrid",
+    "country": "Spain",
+    "location": "Madrid, Spain",
+    "url": "https://lu.ma/h9zacafe",
+    "coverImage": "https://images.lumacdn.com/uploads/4j/c3820927-17f3-4100-af80-0b5e2377c539.png",
+    "source": "luma",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-XVgMezNYKSfYZHA",
     "name": "MyWeb3 - Launch Party",
     "description": "",
@@ -989,7 +1017,7 @@
     "country": "Taiwan",
     "location": "Nangang District, Taiwan",
     "url": "https://lu.ma/esvhpmmf",
-    "coverImage": "https://images.lumacdn.com/uploads/iq/a494f3cc-6f8d-4733-803b-81347b5a736d.png",
+    "coverImage": "https://images.lumacdn.com/uploads/js/3249ef81-92da-48b9-a2c5-adbf7fced0fc.png",
     "source": "luma-trusted",
     "month": "September 2026"
   },
@@ -1358,6 +1386,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-316104238",
+    "name": "A Defense of that which Requires None: Common Sense (Reprise)",
+    "description": "We have explored some of the exotic, almost mystical cosmology of Chinese philosophical Daoism in previous meetings. We can interpolate the vastness of philosophical thought by revisiting what is ofte",
+    "startDate": "2026-09-27T12:00:00-05:00",
+    "endDate": "2026-09-27T12:00:00-05:00",
+    "city": "Chicago",
+    "country": "us",
+    "location": "Chicago, us",
+    "url": "https://www.meetup.com/thesymposium/events/316104238/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-disccal-DfkiOgEf5WG4y6v",
     "name": "Korea Blockchain Week",
     "description": "Korea Blockchain Week kicks off in Seoul from Sep 29 – Oct 1, gathering the global Web3 community for a week of insights, tech, and collaboration.",
@@ -1426,6 +1468,20 @@
     "coverImage": "https://images.lumacdn.com/uploads/9h/8d1c8441-f52e-431b-91a7-36f011a37693.png",
     "source": "luma",
     "month": "September 2026"
+  },
+  {
+    "id": "luma-evt-Fu54jD1N4eMuW2G",
+    "name": "Boston Women in Bioinformatics: Fall Fundraiser 2026",
+    "description": "",
+    "startDate": "2026-10-01T21:00:00.000Z",
+    "endDate": "2026-10-02T01:00:00.000Z",
+    "city": "Boston",
+    "country": "United States",
+    "location": "Boston, United States",
+    "url": "https://lu.ma/oxyytgvs",
+    "coverImage": "https://images.lumacdn.com/uploads/h4/ff9063ba-82dd-44a4-9c0b-c7fe4a8e2998.png",
+    "source": "luma",
+    "month": "October 2026"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-octobe",
