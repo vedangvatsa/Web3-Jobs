@@ -30,7 +30,7 @@ export async function POST(request: NextRequest) {
     }
 
     const resend = new Resend(apiKey);
-    const fromAddress = process.env.EMAIL_FROM || 'alerts@hashtagweb3.com';
+    const fromAddress = process.env.EMAIL_FROM || 'hi@hashtagweb3.com';
 
     const result = await resend.emails.send({
       from: fromAddress,
@@ -38,6 +38,7 @@ export async function POST(request: NextRequest) {
       subject,
       text,
       html,
+      replyTo: 'hi@hashtagweb3.com',
     });
 
     if (result.error) {
