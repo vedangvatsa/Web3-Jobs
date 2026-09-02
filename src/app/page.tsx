@@ -63,7 +63,7 @@ export default async function JobsPage() {
           <PageShell>
             <section className="text-center mb-8">
               <div className="site-container">
-                <PageHeader title="Find Your Next Web3 Job" />
+                <PageHeader title="Web3 Jobs" />
               </div>
             </section>
 
