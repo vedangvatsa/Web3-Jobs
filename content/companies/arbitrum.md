@@ -1,6 +1,6 @@
 ---
 name: Arbitrum
-website: 'https://arbitrum.org'
+website: 'https://arbitrum.io'
 founded: 2018
 category: Layer 2 Scaling
 headquarters: 'New York, New York, USA'

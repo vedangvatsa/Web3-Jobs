@@ -2,7 +2,7 @@
 name: "BreederDAO"
 title: "BreederDAO Jobs: Software Engineer, Product Manager & More"
 description: "BreederDAO is a asset generation factory for metaverse and play-to-earn gaming ecosystems."
-website: "https://breederdao.com"
+website: 'https://www.breederdao.io'
 twitter: ""
 linkedin: ""
 careers: ""
