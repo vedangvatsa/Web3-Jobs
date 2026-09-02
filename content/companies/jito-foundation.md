@@ -1,6 +1,6 @@
 ---
 name: Jito Foundation
-website: 'https://jito.foundation'
+website: 'https://jito.network'
 category: Other
 description: Jito Foundation focuses on improving Ethereum transaction efficiency.
 ---
