@@ -6,7 +6,6 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
-import { getOneWordRole } from './job-slugs';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -107,42 +106,9 @@ export async function getJobs(): Promise<Job[]> {
   // Distribute so no single company dominates
   const distributed = distributeJobsByCompany(uniqueJobs);
 
-   // Stable slugs that never change for existing jobs: reuse persisted
-   // sequential slugs from the file, and only assign new numbers as max+1.
-   const slugById = new Map<string, string>();
-   const maxPerRole = new Map<string, number>();
-   const claimed = new Set<string>();
-   for (const job of distributed) {
-    const rawSlug = (job as unknown as { slug?: string }).slug?.toLowerCase().trim();
-    if (rawSlug && /^[a-z]+\d+$/.test(rawSlug) && !claimed.has(rawSlug)) {
-     slugById.set(job.id, rawSlug);
-     claimed.add(rawSlug);
-     const role = rawSlug.replace(/\d+$/, '');
-     const num = parseInt(rawSlug.slice(role.length), 10);
-     if (!isNaN(num)) maxPerRole.set(role, Math.max(maxPerRole.get(role) || 0, num));
-    }
-   }
-   // Assign incrementally only to jobs lacking a stable sequential slug
-   // Deterministic order for new assignments: oldest first.
-   const needsSlug = distributed.filter(j => !slugById.has(j.id))
-     .sort((a, b) => {
-      const diff = new Date(a.date).getTime() - new Date(b.date).getTime();
-      if (diff !== 0) return diff;
-      return a.id.localeCompare(b.id);
-     });
-   for (const job of needsSlug) {
-    const role = getOneWordRole(job.title);
-    let next = (maxPerRole.get(role) || 0) + 1;
-    let candidate = `${role}${next}`;
-    while (claimed.has(candidate)) { next += 1; candidate = `${role}${next}`; }
-    slugById.set(job.id, candidate);
-    claimed.add(candidate);
-    maxPerRole.set(role, next);
-   }
-   jobsCache = distributed.map(job => ({
-    ...job,
-    slug: slugById.get(job.id)!,
-   }));
+   // Slugs are pre-baked into jobs-cache.json at scrape time by scripts/prebake_slugs.js.
+   // No runtime slug computation needed — just use what's in the file.
+   jobsCache = distributed as Job[];
    return jobsCache;
  } catch (error) {
   console.error('[getJobs] Could not read jobs cache:', error);
