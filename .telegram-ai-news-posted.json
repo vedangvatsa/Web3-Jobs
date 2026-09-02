@@ -542,6 +542,9 @@
   "https://techcrunch.com/2026/09/01/afterquery-reportedly-becomes-y-combinators-fastest-ever-unicorn-now-valued-at-3-2b/",
   "https://techcrunch.com/2026/09/01/open-ais-astra-model-is-on-the-way-and-very-good-at-breaking-into-computer-systems/",
   "https://arstechnica.com/ai/2026/08/anthropics-new-hardware-standard-lets-ai-agents-control-the-physical-world/",
+  "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
+  "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
+  "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1409,6 +1412,12 @@
   "OpenAI’s Astra model is on the way — and very good at breaking into computer systems",
   "Anthropic launches hardware standard for AI agent device control",
   "Anthropic's new hardware standard lets AI agents control the physical world",
+  "Wonderful raises $550 million at $5 billion valuation",
+  "Wonderful more than doubles its valuation to $5B in under 6 months",
+  "European Union subjects ChatGPT to strictest online safety regulations",
+  "ChatGPT and Reddit now face EU's toughest online safety rules",
+  "Federal judge rules US government blacklisting of Anthropic illegal",
+  "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1468,5 +1477,8 @@
   "fp:accus|against|allegedly|appl|data|delet|destroy|employe|evidenc|fil",
   "fp:32b|achiev|afterquery|becom|combinator|ever|fastest|fiv|fund|month",
   "fp:address|astra|break|computer|cybersecurity|detail|developer|exploitation|focus|good",
-  "fp:agent|anthropic|communicat|control|devic|driver|enabl|hardwar|interfac|let"
+  "fp:agent|anthropic|communicat|control|devic|driver|enabl|hardwar|interfac|let",
+  "fp:550m|customer|demand|development|doubl|expansion|faster|fund|grow|meet",
+  "fp:content|designation|europ|european|fac|follow|growth|management|mandat|moderation",
+  "fp:action|anthropic|blacklist|court|deem|defens|deployment|federal|firm|found"
 ]
