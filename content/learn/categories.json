@@ -64,7 +64,7 @@
  "slug": "ai-crypto",
  "title": "AI x Crypto Intersection",
  "description": "Explore the convergence of Artificial Intelligence and decentralized networks. Autonomous agents, data markets, and compute networks.",
- "icon": "Globe",
+ "icon": "Bot",
  "order": 7,
  "type": "elective",
  "duration": "~3 hours",
