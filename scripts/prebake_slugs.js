@@ -39,6 +39,8 @@ function getOneWordRole(title) {
   if (t.includes('writer')) return 'writer';
   if (t.includes('sales') || t.includes('account')) return 'sales';
   if (t.includes('operations') || t.includes('ops')) return 'operations';
+  if (t.includes('architect')) return 'architect';
+  if (t.includes('intern')) return 'intern';
   if (t.includes('associate') || t.includes('assistant')) return 'associate';
   const words = t.replace(/[^a-z0-9\s]+/g, ' ').trim().split(/\s+/);
   return words[0] || 'job';

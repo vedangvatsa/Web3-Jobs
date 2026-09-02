@@ -111,6 +111,8 @@ export function getOneWordRole(title: string): string {
   if (t.includes('writer')) return 'writer';
   if (t.includes('sales') || t.includes('account')) return 'sales';
   if (t.includes('operations') || t.includes('ops')) return 'operations';
+  if (t.includes('architect')) return 'architect';
+  if (t.includes('intern')) return 'intern';
   if (t.includes('associate') || t.includes('assistant')) return 'associate';
 
   // Fallback to the first alphabetic word
