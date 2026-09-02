@@ -1,6 +1,6 @@
 ---
 name: Jane
-website: 'https://jane.street'
+website: 'https://janestreet.com'
 founded: 2023
 category: DeFi
 headquarters: Remote
