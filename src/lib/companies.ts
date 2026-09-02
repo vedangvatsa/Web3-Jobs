@@ -64,6 +64,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'gauntlet': 'https://gauntlet.xyz',
  'zetachain': 'https://zetachain.com',
  'zeta': 'https://zetachain.com',
+ 'straitsx': 'https://straitsx.com',
+ 'shakepay': 'https://shakepay.com',
  'bitpanda': 'https://bitpanda.com',
  'bitvavo': 'https://bitvavo.com',
  'bitso': 'https://bitso.com',
