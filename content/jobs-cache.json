@@ -1,5 +1,77 @@
 [
   {
+    "id": "c3c57c4d-033e-4c3c-812f-2713baa5bce6",
+    "title": "Senior Security Engineer",
+    "company": "Jito Labs",
+    "link": "https://jobs.ashbyhq.com/jito-labs/c3c57c4d-033e-4c3c-812f-2713baa5bce6",
+    "date": "2026-09-01",
+    "source": "Ashby: Jito Labs [jito-labs]",
+    "location": "USA",
+    "department": "Engineering",
+    "active": true,
+    "slug": "role5bce6"
+  },
+  {
+    "id": "e24c65de-2d96-411d-b102-056998c0d121",
+    "title": "Senior Frontend Engineer - JTX",
+    "company": "Jito Labs",
+    "link": "https://jobs.ashbyhq.com/jito-labs/e24c65de-2d96-411d-b102-056998c0d121",
+    "date": "2026-08-19",
+    "source": "Ashby: Jito Labs [jito-labs]",
+    "location": "USA",
+    "department": "Engineering",
+    "active": true,
+    "slug": "role0d121"
+  },
+  {
+    "id": "6104842004",
+    "title": "FP&A Manager/Senior Manager",
+    "company": "LayerZero",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/6104842004",
+    "date": "2026-08-18",
+    "source": "Greenhouse: LayerZero [layerzerolabs]",
+    "location": "Vancouver, BC",
+    "department": "Finance",
+    "active": true,
+    "slug": "role42004"
+  },
+  {
+    "id": "6092023004",
+    "title": "Engineering Operations Lead",
+    "company": "LayerZero",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/6092023004",
+    "date": "2026-08-19",
+    "source": "Greenhouse: LayerZero [layerzerolabs]",
+    "location": "Vancouver, BC",
+    "department": "Engineering",
+    "active": true,
+    "slug": "role23004"
+  },
+  {
+    "id": "5554606004",
+    "title": "Backend Engineer",
+    "company": "LayerZero",
+    "link": "https://job-boards.greenhouse.io/layerzerolabs/jobs/5554606004",
+    "date": "2026-08-19",
+    "source": "Greenhouse: LayerZero [layerzerolabs]",
+    "location": "Vancouver, BC",
+    "department": "Engineering",
+    "active": true,
+    "slug": "role06004"
+  },
+  {
+    "id": "bb981823-b923-4f53-95ba-19d732c1caf3",
+    "title": "Software Engineer- General Interest",
+    "company": "Uniswap Labs",
+    "link": "https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3",
+    "date": "2026-08-12",
+    "source": "Ashby: Uniswap Labs [uniswap]",
+    "location": "New York",
+    "department": "Engineering",
+    "active": true,
+    "slug": "role1caf3"
+  },
+  {
     "id": "4297209009",
     "title": "Senior Product Manager",
     "company": "Ondo Finance",
