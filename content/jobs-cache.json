@@ -1,5 +1,85 @@
 [
   {
+    "id": "theblock-9b9b7455-7d02-4535-a8ca-12d7fe9df105",
+    "title": "Strategic Partnership Senior Manager",
+    "company": "The Block",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "date": "2026-07-13T11:51:15.885000-07:00",
+    "source": "rippling:the-block",
+    "link": "https://ats.rippling.com/the-block/jobs/9b9b7455-7d02-4535-a8ca-12d7fe9df105",
+    "applyUrl": "https://ats.rippling.com/the-block/jobs/9b9b7455-7d02-4535-a8ca-12d7fe9df105",
+    "department": "New Business",
+    "skills": [
+      "Crypto News",
+      "Research",
+      "Market Intelligence",
+      "Media",
+      "Web3"
+    ],
+    "slug": "manager96080"
+  },
+  {
+    "id": "theblock-66a92421-b933-452d-80e4-32f015c343f9",
+    "title": "Senior Enterprise Sales Executive",
+    "company": "The Block",
+    "location": "Remote (New York, NY, US)",
+    "type": "Full-time",
+    "date": "2026-06-12T14:35:15.921000-07:00",
+    "source": "rippling:the-block",
+    "link": "https://ats.rippling.com/the-block/jobs/66a92421-b933-452d-80e4-32f015c343f9",
+    "applyUrl": "https://ats.rippling.com/the-block/jobs/66a92421-b933-452d-80e4-32f015c343f9",
+    "department": "Sales",
+    "skills": [
+      "Crypto News",
+      "Research",
+      "Market Intelligence",
+      "Media",
+      "Web3"
+    ],
+    "slug": "sales96049"
+  },
+  {
+    "id": "theblock-21a4918b-5ef9-437e-8bf5-5b07a90167f5",
+    "title": "Wall Street Reporter",
+    "company": "The Block",
+    "location": "New York, NY",
+    "type": "Full-time",
+    "date": "2026-07-13T12:06:27.894000-07:00",
+    "source": "rippling:the-block",
+    "link": "https://ats.rippling.com/the-block/jobs/21a4918b-5ef9-437e-8bf5-5b07a90167f5",
+    "applyUrl": "https://ats.rippling.com/the-block/jobs/21a4918b-5ef9-437e-8bf5-5b07a90167f5",
+    "department": "News, Reporting",
+    "skills": [
+      "Crypto News",
+      "Research",
+      "Market Intelligence",
+      "Media",
+      "Web3"
+    ],
+    "slug": "wall1"
+  },
+  {
+    "id": "theblock-0f7e9336-1f5f-4792-b582-febb50738feb",
+    "title": "Marketing & Social Media Senior Manager",
+    "company": "The Block",
+    "location": "Remote (United States)",
+    "type": "Full-time",
+    "date": "2026-05-15T09:20:11.820000-07:00",
+    "source": "rippling:the-block",
+    "link": "https://ats.rippling.com/the-block/jobs/0f7e9336-1f5f-4792-b582-febb50738feb",
+    "applyUrl": "https://ats.rippling.com/the-block/jobs/0f7e9336-1f5f-4792-b582-febb50738feb",
+    "department": "Editorial",
+    "skills": [
+      "Crypto News",
+      "Research",
+      "Market Intelligence",
+      "Media",
+      "Web3"
+    ],
+    "slug": "marketing85137"
+  },
+  {
     "id": "bullish-JR2001144",
     "title": "Lead Software Engineer, Clearing Engineering",
     "company": "Bullish",

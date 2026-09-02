@@ -116,6 +116,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'apex-protocol': 'https://apex.exchange',
  'coinmarketcap': 'https://coinmarketcap.com',
  'cointelegraph': 'https://cointelegraph.com',
+ 'the-block': 'https://www.theblock.co',
+ 'theblock': 'https://www.theblock.co',
  'trm-labs': 'https://www.trmlabs.com',
  'trmlabs': 'https://www.trmlabs.com',
  'particle-network': 'https://particle.network',
