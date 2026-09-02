@@ -10,6 +10,7 @@ import type { WebSite, Organization } from 'schema-dts';
 
 import dynamic from 'next/dynamic';
 import { PostHogInit } from '@/components/posthog-init';
+import { ClarityInit } from '@/components/clarity-init';
 
 // Lazy-load promo popup - renders null server-side, loads JS on client
 const PromoPopup = dynamic(
@@ -254,6 +255,7 @@ export default async function RootLayout({
      }}
     />
      <PostHogInit />
+     <ClarityInit />
     <Header />
     <div className="flex-grow">
      {children}
