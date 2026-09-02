@@ -1,5 +1,525 @@
 [
   {
+    "id": "bitbank-0000324",
+    "title": "財務担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000324",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000324",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job25"
+  },
+  {
+    "id": "bitbank-0000321",
+    "title": "財務経理担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000321",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000321",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job24"
+  },
+  {
+    "id": "bitbank-0000320",
+    "title": "財務経理担当 （リーダー候補）",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000320",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000320",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job23"
+  },
+  {
+    "id": "bitbank-0000317",
+    "title": "プラットフォームエンジニア マネージャー候補（Platform Engineer）",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000317",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000317",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "engineer99471"
+  },
+  {
+    "id": "bitbank-0000316",
+    "title": "売買審査マネージャー候補",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000316",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000316",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job22"
+  },
+  {
+    "id": "bitbank-0000314",
+    "title": "内部監査 業務監査担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000314",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000314",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job21"
+  },
+  {
+    "id": "bitbank-0000311",
+    "title": "プラットフォームエンジニア（Platform Engineer）",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000311",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000311",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "engineer99470"
+  },
+  {
+    "id": "bitbank-0000308",
+    "title": "デザイナー",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000308",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000308",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job20"
+  },
+  {
+    "id": "bitbank-0000306",
+    "title": "【システムリスク管理部】サイバーセキュリティ担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000306",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000306",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job19"
+  },
+  {
+    "id": "bitbank-0000305",
+    "title": "【システムリスク管理部】ITガバナンス担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000305",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000305",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "it64511"
+  },
+  {
+    "id": "bitbank-0000302",
+    "title": "コーポレートエンジニア",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000302",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000302",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job18"
+  },
+  {
+    "id": "bitbank-0000299",
+    "title": "オープンポジション",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000299",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000299",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job17"
+  },
+  {
+    "id": "bitbank-0000298",
+    "title": "【リテールシステム部】ソフトウェアエンジニア",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000298",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000298",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job16"
+  },
+  {
+    "id": "bitbank-0000297",
+    "title": "グロースマーケティング担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000297",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000297",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job15"
+  },
+  {
+    "id": "bitbank-0000296",
+    "title": "【コアシステム部】バックエンドエンジニア",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000296",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000296",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job14"
+  },
+  {
+    "id": "bitbank-0000294",
+    "title": "QA Tester",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000294",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000294",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "qa89007"
+  },
+  {
+    "id": "bitbank-0000293",
+    "title": "QA Leader",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000293",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000293",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "qa89006"
+  },
+  {
+    "id": "bitbank-0000289",
+    "title": "【リテールシステム部】Androidエンジニア",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000289",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000289",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "android1"
+  },
+  {
+    "id": "bitbank-0000286",
+    "title": "【リテールシステム部】iOSエンジニア",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000286",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000286",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "ios1"
+  },
+  {
+    "id": "bitbank-0000284",
+    "title": "プロダクトマネージャー",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000284",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000284",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job13"
+  },
+  {
+    "id": "bitbank-0000283",
+    "title": "フロントオフィス 海外法人営業担当者",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000283",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000283",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job12"
+  },
+  {
+    "id": "bitbank-0000281",
+    "title": "【障がい者雇用】オープンポジション",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000281",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000281",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job11"
+  },
+  {
+    "id": "bitbank-0000280",
+    "title": "【BizOpsシステム部】ソフトウェアエンジニア",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000280",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000280",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "bizops1"
+  },
+  {
+    "id": "bitbank-0000278",
+    "title": "コンプライアンス担当者",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000278",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000278",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job10"
+  },
+  {
+    "id": "bitbank-0000277",
+    "title": "セキュリティ担当",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000277",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000277",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "job9"
+  },
+  {
+    "id": "bitbank-0000275",
+    "title": "PM",
+    "company": "bitbank",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "hrmos:bitbank",
+    "link": "https://hrmos.co/pages/bitbank/jobs/0000275",
+    "applyUrl": "https://hrmos.co/pages/bitbank/jobs/0000275",
+    "department": "Engineering & Operations",
+    "skills": [
+      "Bitcoin",
+      "Exchange",
+      "Crypto",
+      "TypeScript",
+      "AWS"
+    ],
+    "slug": "product81506"
+  },
+  {
     "id": "4966607101",
     "title": "Senior SOC Analyst, Security Operations",
     "company": "Bitpanda",
