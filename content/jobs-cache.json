@@ -1,5 +1,77 @@
 [
   {
+    "id": "coinswitch-backend-lead-03",
+    "title": "Lead Backend Engineer (Go / Distributed Systems)",
+    "company": "CoinSwitch",
+    "link": "https://coinswitch.co/careers/lead-backend-engineer",
+    "date": "2026-09-01",
+    "source": "CoinSwitch Careers [coinswitch]",
+    "location": "Bengaluru, India (Hybrid)",
+    "department": "Core Engineering",
+    "active": true,
+    "slug": "backend44842"
+  },
+  {
+    "id": "coinswitch-sr-assoc-legal-02",
+    "title": "Senior Associate - Regulatory Compliance & Policy",
+    "company": "CoinSwitch",
+    "link": "https://coinswitch.co/careers/senior-associate-legal",
+    "date": "2026-09-02",
+    "source": "CoinSwitch Careers [coinswitch]",
+    "location": "Bengaluru, India",
+    "department": "Legal & Policy",
+    "active": true,
+    "slug": "compliance91013"
+  },
+  {
+    "id": "coinswitch-ent-sec-eng-01",
+    "title": "Enterprise Security Engineer",
+    "company": "CoinSwitch",
+    "link": "https://coinswitch.co/careers/enterprise-security-engineer",
+    "date": "2026-09-02",
+    "source": "CoinSwitch Careers [coinswitch]",
+    "location": "Bengaluru, India",
+    "department": "InfoSec & Compliance",
+    "active": true,
+    "slug": "security95019"
+  },
+  {
+    "id": "coindcx-quant-researcher-03",
+    "title": "Quantitative Research Analyst - Market Making",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/job/quant-researcher",
+    "date": "2026-09-01",
+    "source": "CoinDCX Careers [coindcx]",
+    "location": "Mumbai, India",
+    "department": "Trading & Quant",
+    "active": true,
+    "slug": "trader89109"
+  },
+  {
+    "id": "coindcx-prod-mgr-okto-02",
+    "title": "Product Manager - Okto Wallet & Web3 SDK",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/job/product-manager-okto",
+    "date": "2026-09-02",
+    "source": "CoinDCX Careers [coindcx]",
+    "location": "Bengaluru, India (Remote-First)",
+    "department": "Product Management",
+    "active": true,
+    "slug": "product81483"
+  },
+  {
+    "id": "coindcx-sr-sec-eng-01",
+    "title": "Senior Security Engineer (Web3 & Infrastructure)",
+    "company": "CoinDCX",
+    "link": "https://careers.coindcx.com/job/senior-security-engineer",
+    "date": "2026-09-02",
+    "source": "CoinDCX Careers [coindcx]",
+    "location": "Bengaluru, India (Hybrid)",
+    "department": "Engineering & Security",
+    "active": true,
+    "slug": "devops75742"
+  },
+  {
     "id": "JR100931",
     "title": "Senior Product Manager",
     "company": "Circle",
