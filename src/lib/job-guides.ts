@@ -160,6 +160,64 @@ export async function getOrFetchRawJobContent(job: Job): Promise<string> {
   return await fetchJobOriginalContent(job);
 }
 
+function spinJobPostingBlock(text: string, type: 'h3' | 'p' | 'li', isAboutSection: boolean): string {
+  let cleaned = text.trim();
+  if (!cleaned) return '';
+
+  if (type === 'h3') {
+    const lower = cleaned.toLowerCase();
+    if (/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|the role|your role|duties|what the role entails)/i.test(lower)) {
+      return 'Key Responsibilities';
+    }
+    if (/^(what you bring|what you.?ll need|requirements|qualifications|key requirements|what we.?re looking for|who you are|minimum qualifications|basic qualifications|profile|candidate profile)/i.test(lower)) {
+      return 'Qualifications & Experience';
+    }
+    if (/^(bonus points|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i.test(lower)) {
+      return 'Preferred / Nice-to-Have Qualifications';
+    }
+    if (/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks)/i.test(lower)) {
+      return 'Perks & Compensation';
+    }
+    if (/^(about us|about the company|who we are|company overview)/i.test(lower)) {
+      return 'About the Company';
+    }
+    return cleaned.replace(/[:]+$/, '');
+  }
+
+  // Preserve About the Company / Team section intact as requested
+  if (isAboutSection) {
+    return cleaned;
+  }
+
+  if (type === 'p') {
+    return cleaned
+      .replace(/^You will be responsible for\s+/i, 'In this role, you will take ownership of and lead ')
+      .replace(/^We are looking for an? ([\w\s]+) to\s+/i, 'We are seeking an exceptional $1 to drive ')
+      .replace(/^As a ([\w\s]+), you will\s+/i, 'As a $1 on our team, you will actively ')
+      .replace(/^In this role, you will\s+/i, 'In this position, you will lead and execute on ')
+      .replace(/^The ideal candidate will\s+/i, 'The ideal candidate brings strong initiative to ')
+      .replace(/^You will work closely with\s+/i, 'You will collaborate cross-functionally with ')
+      .replace(/^You should have experience with\s+/i, 'You should bring proven hands-on expertise in ')
+      .replace(/^We offer\s+/i, 'Our comprehensive package includes ');
+  }
+
+  if (type === 'li') {
+    return cleaned
+      .replace(/^Responsible for\s+/i, 'Lead and execute on ')
+      .replace(/^Participate in\s+/i, 'Actively contribute to ')
+      .replace(/^Help to\s+/i, 'Drive initiatives to ')
+      .replace(/^Work with\s+/i, 'Collaborate closely with ')
+      .replace(/^Must have\s+/i, 'Demonstrated expertise in ')
+      .replace(/^Strong understanding of\s+/i, 'Deep practical understanding of ')
+      .replace(/^Ability to\s+/i, 'Proven track record of ')
+      .replace(/^Experience with\s+/i, 'Hands-on experience with ')
+      .replace(/^Good knowledge of\s+/i, 'Comprehensive working knowledge of ')
+      .replace(/^Excellent communication skills\b/i, 'Exceptional cross-functional written and verbal communication skills');
+  }
+
+  return cleaned;
+}
+
 export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string): string {
   const raw = rawContentOverride || getCachedRawContent(job);
   const plainLen = plainTextFromHtml(raw).length;
@@ -176,7 +234,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} — ${escapeHtml(location)}.</p>`;
 
   let currentListOpen = false;
-  let pendingHeading: string | null = null;
+  let isAboutSection = false;
 
   const flushList = () => {
     if (currentListOpen) { html += '</ul>'; currentListOpen = false; }
@@ -185,14 +243,16 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   for (const block of blocks) {
     if (block.type === 'h3') {
       flushList();
-      const intro = getSectionIntro(block.text, job);
-      html += `<h3>${escapeHtml(block.text)}</h3>`;
+      isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
+      const spunHeading = spinJobPostingBlock(block.text, 'h3', isAboutSection);
+      const intro = getSectionIntro(spunHeading, job);
+      html += `<h3>${escapeHtml(spunHeading)}</h3>`;
       if (intro) html += `<p class="text-sm text-muted-foreground">${intro}</p>`;
-      pendingHeading = block.text;
       continue;
     }
     if (block.type === 'li') {
-      let text = escapeHtml(block.text)
+      const spunText = spinJobPostingBlock(block.text, 'li', isAboutSection);
+      let text = escapeHtml(spunText)
         .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
         .replace(/\*\*/g, '')
         .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
@@ -203,8 +263,8 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       continue;
     }
     flushList();
-    const para = block.text.trim();
-    let text = escapeHtml(para)
+    const spunPara = spinJobPostingBlock(block.text, 'p', isAboutSection);
+    let text = escapeHtml(spunPara)
       .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
       .replace(/\*\*/g, '')
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`);
