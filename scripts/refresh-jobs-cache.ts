@@ -482,6 +482,7 @@ async function refreshJobsCache() {
     { board: 'digitalcurrencygroup', company: 'DCG' },
     { board: 'hashgraph', company: 'Hedera' },
     { board: 'jumpcrypto', company: 'Jump Crypto' },
+    { board: 'zetachain', company: 'ZetaChain' },
     // --- Crypto exchanges ---
     { board: 'okx', company: 'OKX' },
     { board: 'bybit', company: 'Bybit' },
@@ -857,6 +858,9 @@ async function refreshJobsCache() {
     { board: 'dakota', company: 'Dakota' },
     { board: 'molecule', company: 'Molecule' },
     { board: 'brale', company: 'Brale' },
+    { board: 'safe', company: 'Safe' },
+    { board: 'gelato', company: 'Gelato Network' },
+    { board: 'matter-labs', company: 'Matter Labs' },
   ];
 
   for (const ab of ASHBY_BOARDS) {
