@@ -13,6 +13,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'bnbchain': 'bnb-chain',
   'pioneer-services': 'bnb-chain',
   'pancakeswap': 'pancakeswap',
+  'aster': 'aster',
+  'asterdex': 'aster',
+  'aster-dex': 'aster',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
