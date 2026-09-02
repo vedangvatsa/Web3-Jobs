@@ -1,5 +1,41 @@
 [
   {
+    "id": "30874b89-70b0-4063-81e2-dfdac091d5ea",
+    "title": "Senior Product Designer",
+    "company": "Aligned Layer",
+    "link": "https://jobs.ashbyhq.com/aligned/30874b89-70b0-4063-81e2-dfdac091d5ea",
+    "date": "2026-08-10",
+    "source": "Ashby: Aligned Layer [aligned]",
+    "location": "Remote",
+    "department": "Design",
+    "active": true,
+    "slug": "role1d5ea"
+  },
+  {
+    "id": "53c61311-10c6-43ee-aa3c-75c1d65e6c7e",
+    "title": "Senior Product Manager",
+    "company": "Aligned Layer",
+    "link": "https://jobs.ashbyhq.com/aligned/53c61311-10c6-43ee-aa3c-75c1d65e6c7e",
+    "date": "2026-08-07",
+    "source": "Ashby: Aligned Layer [aligned]",
+    "location": "Remote",
+    "department": "Product",
+    "active": true,
+    "slug": "rolee6c7e"
+  },
+  {
+    "id": "7d3bf5e8-477f-466f-9ac2-8500cde7e404",
+    "title": " Senior Full Stack Software Engineer",
+    "company": "Aligned Layer",
+    "link": "https://jobs.ashbyhq.com/aligned/7d3bf5e8-477f-466f-9ac2-8500cde7e404",
+    "date": "2026-08-07",
+    "source": "Ashby: Aligned Layer [aligned]",
+    "location": "Remote",
+    "department": "Engineering",
+    "active": true,
+    "slug": "role7e404"
+  },
+  {
     "id": "4640520005",
     "title": "Staff Software Engineer",
     "company": "Shakepay",
