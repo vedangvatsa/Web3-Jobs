@@ -215,11 +215,12 @@
       "post_bulk_604_2026-07-16T20:01:49.877Z",
       "post_bulk_645_2026-07-17T04:43:10.397Z",
       "post_bulk_686_2026-07-17T20:02:28.432Z",
-      "post_bulk_727_2026-07-18T04:39:23.458Z"
+      "post_bulk_727_2026-07-18T04:39:23.458Z",
+      "web3_job_viral_sk0ki8_2026-09-02T21:58:13.857Z"
     ]
   },
   "bluesky": {
-    "lastIndex": 24,
+    "lastIndex": 27,
     "posted": [
       "post_12_zk_proofs_2026-03-27T07:18:53.968Z",
       "post_13_restaking_2026-03-27T12:02:00.566Z",
@@ -298,11 +299,15 @@
       "viral_6_old_error_2026-05-24T05:04:23.466Z",
       "viral_20_rotten_2026-05-24T05:04:23.803Z",
       "viral_14_french_2026-05-25T20:27:52.621Z",
-      "viral_17_could_not_agree_more_2026-05-26T05:14:18.298Z"
+      "viral_17_could_not_agree_more_2026-05-26T05:14:18.298Z",
+      "web3_job_viral_xiu4zv_2026-09-02T21:58:15.110Z",
+      "web3_job_viral_tytlgu_2026-09-02T21:58:18.214Z"
     ]
   },
   "threads": {
-    "lastIndex": -1,
-    "posted": []
+    "lastIndex": 0,
+    "posted": [
+      "web3_job_viral_q82vqk_2026-09-02T21:58:33.877Z"
+    ]
   }
 }
