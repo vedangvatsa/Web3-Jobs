@@ -1,0 +1,24 @@
+# Smithery configuration file for Hashtag Web3 MCP Server
+# https://smithery.ai/docs/config
+
+mcp:
+  name: hashtagweb3-mcp
+  displayName: Hashtag Web3
+  description: "Search live Web3 jobs, crypto glossary definitions, hackathons, conferences, and daily crypto news."
+  iconUrl: "https://hashtagweb3.com/icon.png"
+  repositoryUrl: "https://github.com/vedangvatsa/Web3-Jobs"
+
+server:
+  transport: http
+  url: "https://hashtagweb3.com/api/mcp"
+  openApiUrl: "https://hashtagweb3.com/openapi.json"
+
+tools:
+  - name: search_jobs
+    description: "Search live Web3, crypto, DeFi, and DAO jobs."
+  - name: search_glossary
+    description: "Look up 200+ technical blockchain and crypto glossary terms."
+  - name: get_events
+    description: "Find upcoming global Web3 hackathons, conferences, and summits."
+  - name: get_news
+    description: "Fetch daily aggregated crypto news headlines."

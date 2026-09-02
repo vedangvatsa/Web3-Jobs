@@ -1,0 +1,21 @@
+{
+  "$schema": "https://glama.ai/schemas/mcp-server.json",
+  "name": "hashtagweb3",
+  "title": "Hashtag Web3 MCP Server",
+  "description": "Hosted Model Context Protocol server for Hashtag Web3. Allows AI agents to query live Web3 jobs, crypto glossary definitions, blockchain conferences/hackathons, and daily news.",
+  "website": "https://hashtagweb3.com",
+  "repository": "https://github.com/vedangvatsa/Web3-Jobs",
+  "server": {
+    "url": "https://hashtagweb3.com/api/mcp",
+    "transport": "streamable-http"
+  },
+  "openapi": "https://hashtagweb3.com/openapi.json",
+  "tags": [
+    "web3",
+    "jobs",
+    "crypto",
+    "blockchain",
+    "glossary",
+    "events"
+  ]
+}
