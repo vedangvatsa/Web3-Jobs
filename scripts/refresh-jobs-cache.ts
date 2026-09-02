@@ -1555,6 +1555,7 @@ async function refreshJobsCache() {
   // Detail responses contain the employer-authored description and post date.
   const RIPPLING_BOARDS = [
     { board: 'riot-platforms-careers', company: 'Riot Platforms' },
+    { board: 'the-block', company: 'The Block' },
   ];
 
   for (const rp of RIPPLING_BOARDS) {
