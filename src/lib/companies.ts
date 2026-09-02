@@ -120,6 +120,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'trmlabs': 'https://www.trmlabs.com',
  'particle-network': 'https://particle.network',
  'particle': 'https://particle.network',
+ 'hashport': 'https://hashport.io',
+ 'ginco': 'https://www.ginco.co.jp',
  'valr': 'https://www.valr.com',
  'yellow-card': 'https://yellowcard.io',
  'yellowcard': 'https://yellowcard.io',
