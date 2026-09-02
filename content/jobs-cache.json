@@ -1,5 +1,211 @@
 [
   {
+    "id": "herp-ginco-1EQl7opftdPW",
+    "title": "開発部_バックエンドエンジニア",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/1EQl7opftdPW",
+    "applyUrl": "https://herp.careers/v1/ginco/1EQl7opftdPW",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "job26"
+  },
+  {
+    "id": "herp-ginco-4II6cn0N_fAX",
+    "title": "経理責任者",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/4II6cn0N_fAX",
+    "applyUrl": "https://herp.careers/v1/ginco/4II6cn0N_fAX",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "job28"
+  },
+  {
+    "id": "herp-ginco-2fM_AdItzP9y",
+    "title": "リスク管理担当",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/2fM_AdItzP9y",
+    "applyUrl": "https://herp.careers/v1/ginco/2fM_AdItzP9y",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "job27"
+  },
+  {
+    "id": "herp-ginco-noylt3quVNim",
+    "title": "オープンポジション（事業推進部門）",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/noylt3quVNim",
+    "applyUrl": "https://herp.careers/v1/ginco/noylt3quVNim",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "job29"
+  },
+  {
+    "id": "herp-ginco-RIoQZFwpYbZ1",
+    "title": "【事業推進部門】アカウントマネージャー",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/RIoQZFwpYbZ1",
+    "applyUrl": "https://herp.careers/v1/ginco/RIoQZFwpYbZ1",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "job31"
+  },
+  {
+    "id": "herp-ginco-2RjOUlcWFSxv",
+    "title": "【事業推進部門】Blockchain & Digital Assets事業開発マネージャー",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/2RjOUlcWFSxv",
+    "applyUrl": "https://herp.careers/v1/ginco/2RjOUlcWFSxv",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "blockchain5"
+  },
+  {
+    "id": "herp-ginco-POGsOr1gUJhw",
+    "title": "【事業推進部門_プロダクトマネージャー（プロダクト部）】",
+    "company": "Ginco",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:ginco",
+    "link": "https://herp.careers/v1/ginco/POGsOr1gUJhw",
+    "applyUrl": "https://herp.careers/v1/ginco/POGsOr1gUJhw",
+    "department": "Ginco",
+    "skills": [
+      "Web3 Custody",
+      "Infrastructure",
+      "Enterprise Blockchain"
+    ],
+    "slug": "job30"
+  },
+  {
+    "id": "herp-hashport-nBQ-4Wy5D4Xo",
+    "title": "事業開発（BizDev/マネージャー・リーダー）",
+    "company": "HashPort",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:hashport",
+    "link": "https://herp.careers/v1/hashport/nBQ-4Wy5D4Xo",
+    "applyUrl": "https://herp.careers/v1/hashport/nBQ-4Wy5D4Xo",
+    "department": "HashPort",
+    "skills": [
+      "HashPalette",
+      "Web3",
+      "Blockchain",
+      "Japan",
+      "NFT"
+    ],
+    "slug": "bizdev1"
+  },
+  {
+    "id": "herp-hashport-_m9GDfxw-ni9",
+    "title": "コンサルタント（ウォレット/ステーブルコイン決済領域）",
+    "company": "HashPort",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:hashport",
+    "link": "https://herp.careers/v1/hashport/_m9GDfxw-ni9",
+    "applyUrl": "https://herp.careers/v1/hashport/_m9GDfxw-ni9",
+    "department": "HashPort",
+    "skills": [
+      "HashPalette",
+      "Web3",
+      "Blockchain",
+      "Japan",
+      "NFT"
+    ],
+    "slug": "job32"
+  },
+  {
+    "id": "herp-hashport-a3Fd8tpFKojK",
+    "title": "オープンポジション",
+    "company": "HashPort",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:hashport",
+    "link": "https://herp.careers/v1/hashport/a3Fd8tpFKojK",
+    "applyUrl": "https://herp.careers/v1/hashport/a3Fd8tpFKojK",
+    "department": "HashPort",
+    "skills": [
+      "HashPalette",
+      "Web3",
+      "Blockchain",
+      "Japan",
+      "NFT"
+    ],
+    "slug": "job33"
+  },
+  {
+    "id": "herp-hashport-VbWiQWFfMQ_s",
+    "title": "エンジニアアルバイト（バックエンド / フロントエンド / R&D）",
+    "company": "HashPort",
+    "location": "Tokyo, Japan (Remote Available)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "herp:hashport",
+    "link": "https://herp.careers/v1/hashport/VbWiQWFfMQ_s",
+    "applyUrl": "https://herp.careers/v1/hashport/VbWiQWFfMQ_s",
+    "department": "HashPort",
+    "skills": [
+      "HashPalette",
+      "Web3",
+      "Blockchain",
+      "Japan",
+      "NFT"
+    ],
+    "slug": "r1"
+  },
+  {
     "id": "lido-29",
     "title": "test",
     "company": "Lido",
