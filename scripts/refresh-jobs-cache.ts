@@ -1660,6 +1660,16 @@ async function refreshJobsCache() {
       locationSelector: '.location',
       contentSelector: 'article.legal-content, article.role-detail, article',
     },
+    {
+      board: 'bitbank-hrmos',
+      company: 'bitbank',
+      indexUrl: 'https://hrmos.co/pages/bitbank/jobs',
+      linkSelector: 'a[href*="/pages/bitbank/jobs/"]',
+      pathPattern: /^\/pages\/bitbank\/jobs\/[0-9]+$/,
+      titleSelector: '.p-heading-job-detail__title, h1',
+      locationSelector: '.p-table-job-detail tr:has(th:contains("勤務地")) td',
+      contentSelector: '.p-table-job-detail, .p-job-detail__body, main',
+    },
   ];
 
   for (const fp of FIRST_PARTY_CAREER_BOARDS) {
