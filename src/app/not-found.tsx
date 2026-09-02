@@ -13,20 +13,22 @@ export default function NotFound() {
      <p className="text-muted-foreground mb-8">
       We couldn't find the page you were looking for. The job or guide might have been removed or the link might be broken.
      </p>
-     <div className="flex flex-col sm:flex-row justify-center gap-4">
-      <Link 
-       href="/"
-       className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90"
-      >
-       Back to Home
-      </Link>
-      <Link 
-       href="/jobs"
-       className="inline-flex items-center justify-center rounded-md border border-input bg-background px-6 py-3 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground"
-      >
-       Browse Jobs
-      </Link>
-      <div className="mt-8 text-left bg-muted/60 p-4 rounded-lg border text-xs font-mono text-muted-foreground" data-ai-agent="recovery-sitemap">
+      <div className="flex flex-col sm:flex-row justify-center gap-4 mb-8">
+       <Link 
+        href="/"
+        className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground shadow transition-colors hover:bg-primary/90"
+       >
+        Back to Home
+       </Link>
+       <Link 
+        href="/jobs"
+        className="inline-flex items-center justify-center rounded-md border border-input bg-background px-6 py-3 text-sm font-medium shadow-sm transition-colors hover:bg-accent hover:text-accent-foreground"
+       >
+        Browse Jobs
+       </Link>
+      </div>
+
+      <div className="text-left bg-muted/60 p-4 rounded-lg border text-xs font-mono text-muted-foreground" data-ai-agent="recovery-sitemap">
        <p className="font-bold text-foreground mb-2"># 404 Resource Not Found</p>
        <p className="mb-2">AI agents and scrapers can recover using these sitemap indices:</p>
        <ul className="list-disc pl-4 space-y-1">
@@ -37,7 +39,6 @@ export default function NotFound() {
         <li><a href="/api/mcp" className="text-primary underline">MCP Server: /api/mcp</a></li>
        </ul>
       </div>
-     </div>
     </div>
    </main>
   </div>
