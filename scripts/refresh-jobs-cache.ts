@@ -476,6 +476,8 @@ async function refreshJobsCache() {
     { board: 'aptoslabs', company: 'Aptos Labs' },
     { board: 'layerzerolabs', company: 'LayerZero' },
     { board: 'galaxydigitalservices', company: 'Galaxy Digital' },
+    { board: 'foundry', company: 'Foundry' },
+    { board: 'mercari', company: 'Mercari' },
     { board: 'blockchain', company: 'Blockchain.com' },
     { board: 'nansen', company: 'Nansen' },
     { board: 'nearfoundation', company: 'NEAR' },

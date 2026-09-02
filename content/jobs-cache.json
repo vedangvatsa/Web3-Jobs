@@ -1,5 +1,185 @@
 [
   {
+    "id": "8519643002",
+    "title": "Sr. Software Engineer, Backend",
+    "company": "Mercari",
+    "location": "Hybrid-Palo Alto, CA",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:mercari",
+    "link": "https://job-boards.greenhouse.io/mercari/jobs/8519643002",
+    "applyUrl": "https://job-boards.greenhouse.io/mercari/jobs/8519643002",
+    "department": "Mercari",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "backend44846"
+  },
+  {
+    "id": "8632147002",
+    "title": "Sr. Growth Data Analyst",
+    "company": "Mercari",
+    "location": "Hybrid-Palo Alto, CA",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:mercari",
+    "link": "https://job-boards.greenhouse.io/mercari/jobs/8632147002",
+    "applyUrl": "https://job-boards.greenhouse.io/mercari/jobs/8632147002",
+    "department": "Mercari",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "marketing85131"
+  },
+  {
+    "id": "8721516002",
+    "title": "Software Engineer, Data",
+    "company": "Mercari",
+    "location": "Hybrid-Palo Alto, CA",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:mercari",
+    "link": "https://job-boards.greenhouse.io/mercari/jobs/8721516002",
+    "applyUrl": "https://job-boards.greenhouse.io/mercari/jobs/8721516002",
+    "department": "Mercari",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "engineer99467"
+  },
+  {
+    "id": "7777661",
+    "title": "Senior Vice President & General Manager, Audience & Growth",
+    "company": "Foundry",
+    "location": "New York, San Francisco, Boston",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/7777661",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/7777661",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "marketing85130"
+  },
+  {
+    "id": "8097005",
+    "title": "Product Marketing Manager",
+    "company": "Foundry",
+    "location": "New York, NY · Austin, TX · San Francisco, CA · Boston, MA",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/8097005",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/8097005",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "product81505"
+  },
+  {
+    "id": "7698224",
+    "title": "GL Accountant, EMEA",
+    "company": "Foundry",
+    "location": "Warsaw, Poland",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/7698224",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/7698224",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "sales96042"
+  },
+  {
+    "id": "7776303",
+    "title": "Dynamics 365 Finance & Operations (D365 F&O) Developer",
+    "company": "Foundry",
+    "location": "Warsaw, Poland",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/7776303",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/7776303",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "developer74012"
+  },
+  {
+    "id": "7998310",
+    "title": "Account Executive - Japanese & English Speaker",
+    "company": "Foundry",
+    "location": "Japan",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/7998310",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/7998310",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "sales96043"
+  },
+  {
+    "id": "8138956",
+    "title": "Account Executive",
+    "company": "Foundry",
+    "location": "London, United Kingdom",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/8138956",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/8138956",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "sales96045"
+  },
+  {
+    "id": "8132485",
+    "title": "Account Executive",
+    "company": "Foundry",
+    "location": "New York, NY · Austin, TX · San Francisco, CA · Boston, MA",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:foundry",
+    "link": "https://job-boards.greenhouse.io/foundry/jobs/8132485",
+    "applyUrl": "https://job-boards.greenhouse.io/foundry/jobs/8132485",
+    "department": "Foundry",
+    "skills": [
+      "Bitcoin",
+      "Web3",
+      "Blockchain"
+    ],
+    "slug": "sales96044"
+  },
+  {
     "id": "5080695008",
     "title": "Senior Platform Engineer",
     "company": "ZetaChain",
