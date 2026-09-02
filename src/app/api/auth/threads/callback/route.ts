@@ -1,7 +1,7 @@
 import { NextRequest, NextResponse } from 'next/server';
 
-const APP_ID = '1522577345822759';
-const APP_SECRET = process.env.THREADS_APP_SECRET || 'e4be55e142ff55b6a98cf092ecb3edd6';
+const APP_ID = '1504312414704579';
+const APP_SECRET = process.env.THREADS_APP_SECRET || '***REMOVED-THREADS-SECRET***';
 const REDIRECT_URI = 'https://hashtagweb3.com/api/auth/threads/callback';
 
 export async function GET(request: NextRequest) {
