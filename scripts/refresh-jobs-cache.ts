@@ -647,6 +647,7 @@ async function refreshJobsCache() {
     { board: 'arbitrum-opco', company: 'Arbitrum OpCo' },
     { board: 'horizon', company: 'Horizon' },
     { board: 'pioneer-services', company: 'BNB Chain' },
+    { board: 'vana', company: 'Vana' },
   ];
 
   for (const lv of LEVER_BOARDS) {
