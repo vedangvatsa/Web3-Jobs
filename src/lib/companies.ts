@@ -417,26 +417,30 @@ function getSafeProfileWebsite(value: unknown): string | undefined {
  * current, company-specific job facts instead of copied marketing language.
  */
 async function loadCompanyContent(slug: string): Promise<{ website?: string; description?: string } | null> {
- try {
-  const companiesDir = path.join(process.cwd(), 'content', 'companies');
-  const filePath = path.join(companiesDir, `${slug}.md`);
-  const fileContent = await fs.readFile(filePath, 'utf-8');
-  const { data, content } = matter(fileContent);
-  const website = getSafeProfileWebsite(data.website);
+  try {
+    const companiesDir = path.join(process.cwd(), 'content', 'companies');
+    const filePath = path.join(companiesDir, `${slug}.md`);
+    const fileContent = await fs.readFile(filePath, 'utf-8');
+    const { data, content } = matter(fileContent);
+    const website = getSafeProfileWebsite(data.website);
 
-  let description = typeof data.description === 'string' && data.description.trim() ? data.description.trim() : undefined;
-  if (!description && content.trim()) {
-    const plain = content.replace(/^#+.*$/gm, '').replace(/[\r\n]+/g, ' ').trim();
-    if (plain) description = plain;
+    const bodyPlain = content.replace(/^#+.*$/gm, '').replace(/[\r\n]+/g, ' ').trim();
+    const frontDesc = typeof data.description === 'string' && data.description.trim() ? data.description.trim() : '';
+
+    let description = '';
+    if (frontDesc && bodyPlain && frontDesc !== bodyPlain) {
+      description = `${frontDesc}\n\n${bodyPlain}`.trim();
+    } else {
+      description = frontDesc || bodyPlain;
+    }
+
+    return {
+      ...(website && { website }),
+      ...(description && { description }),
+    };
+  } catch {
+    return null;
   }
-
-  return {
-    ...(website && { website }),
-    ...(description && { description }),
-  };
- } catch {
-  return null;
- }
 }
 
 /**
