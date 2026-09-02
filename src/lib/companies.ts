@@ -58,6 +58,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'monad-labs': 'https://monad.xyz',
  'digital-asset': 'https://digitalasset.com',
  'digitalassetcorp': 'https://digitalasset.com',
+ 'ondo-finance': 'https://ondo.finance',
+ 'ondofinance': 'https://ondo.finance',
  'bastion': 'https://bastion.com',
  'worldcoin': 'https://worldcoin.org',
  'morpho': 'https://morpho.org',
