@@ -1,5 +1,100 @@
 [
   {
+    "id": "4966607101",
+    "title": "Senior SOC Analyst, Security Operations",
+    "company": "Bitpanda",
+    "location": "Vienna, Vienna, Austria",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
+    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4966607101",
+    "department": "Bitpanda",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "security95025"
+  },
+  {
+    "id": "7777583003",
+    "title": "Software Engineer - Latam or Europe",
+    "company": "Bitso",
+    "location": "Latin America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitso",
+    "link": "https://bitso.com/jobs/7777583003?gh_jid=7777583003",
+    "applyUrl": "https://bitso.com/jobs/7777583003?gh_jid=7777583003",
+    "department": "Bitso",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "engineer99468"
+  },
+  {
+    "id": "7582505003",
+    "title": "Senior Engineering Manager",
+    "company": "Bitso",
+    "location": "Latin America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitso",
+    "link": "https://bitso.com/jobs/7582505003?gh_jid=7582505003",
+    "applyUrl": "https://bitso.com/jobs/7582505003?gh_jid=7582505003",
+    "department": "Bitso",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "manager96067"
+  },
+  {
+    "id": "7781633003",
+    "title": "Platform Engineer - (Site Reliability Engineering)",
+    "company": "Bitso",
+    "location": "Latin America",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitso",
+    "link": "https://bitso.com/jobs/7781633003?gh_jid=7781633003",
+    "applyUrl": "https://bitso.com/jobs/7781633003?gh_jid=7781633003",
+    "department": "Bitso",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "engineer99469"
+  },
+  {
+    "id": "4511148003",
+    "title": "Join our talent network!",
+    "company": "Bitso",
+    "location": "European Economic Area; Latin America; United States",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitso",
+    "link": "https://bitso.com/jobs/4511148003?gh_jid=4511148003",
+    "applyUrl": "https://bitso.com/jobs/4511148003?gh_jid=4511148003",
+    "department": "Bitso",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ],
+    "slug": "recruiting54280"
+  },
+  {
     "id": "8519643002",
     "title": "Sr. Software Engineer, Backend",
     "company": "Mercari",
@@ -1828,203 +1923,339 @@
     "company": "Luno",
     "link": "https://job-boards.greenhouse.io/luno/jobs/8020667",
     "date": "2026-09-02",
-    "source": "Greenhouse: Luno [luno]",
+    "source": "greenhouse:luno",
     "location": "Cape Town",
-    "department": "People",
+    "department": "Luno",
     "active": true,
-    "slug": "role20667"
+    "slug": "role20667",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.greenhouse.io/luno/jobs/8020667",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "7699282003",
     "title": "Event/Growth Marketing Specialist (B2B)",
     "company": "Bitso",
     "link": "https://bitso.com/jobs/7699282003?gh_jid=7699282003",
-    "date": "2026-08-05",
-    "source": "Greenhouse: Bitso [bitso]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitso",
     "location": "México",
-    "department": "Bitso Business",
+    "department": "Bitso",
     "active": true,
-    "slug": "role82003"
+    "slug": "role82003",
+    "type": "Full-time",
+    "applyUrl": "https://bitso.com/jobs/7699282003?gh_jid=7699282003",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4691242101",
-    "title": "Specialist, Trading Operations - Night Shift ",
+    "title": "Specialist, Trading Operations - Night Shift",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4691242101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Barcelona, Spain; Vienna, Vienna, Austria",
-    "department": "Operations & Customer Service",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role42101"
+    "slug": "role42101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4691242101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4880524101",
     "title": "Software Engineer, Rust & Python (Asset Pricing & Hedging)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4880524101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role24101"
+    "slug": "role24101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4880524101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4591201101",
     "title": "Software Engineer, Python (Asset Pricing & Hedging)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4591201101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role01101"
+    "slug": "role01101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4591201101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4911699101",
     "title": "Senior Specialist, Internal Audit",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4911699101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Berlin, Berlin, Germany; Vienna, Vienna, Austria",
-    "department": "Legal & Compliance & Risk",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role99101"
+    "slug": "role99101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4911699101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4933367101",
-    "title": "Senior Product Marketing Specialist - Crypto & Advanced Trading ",
+    "title": "Senior Product Marketing Specialist - Crypto & Advanced Trading",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933367101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Commercial, Marketing & Comms",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role67101"
+    "slug": "role67101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933367101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4933368101",
-    "title": "Senior Product Marketing Specialist - Crypto & Advanced Trading ",
+    "title": "Senior Product Marketing Specialist - Crypto & Advanced Trading",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933368101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Barcelona, Spain",
-    "department": "Commercial, Marketing & Comms",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role68101"
+    "slug": "role68101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4933368101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4928780101",
     "title": "Senior Product Designer, Securities",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4928780101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Barcelona, Spain",
-    "department": "Product & Design",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role80101"
+    "slug": "role80101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4928780101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4930651101",
     "title": "Senior Product Designer, Securities",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4930651101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Product & Design",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role51101"
+    "slug": "role51101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4930651101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4699355101",
     "title": "Senior Cyber Security Engineer, Elastic (Security Operations)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "security95021"
+    "slug": "security95021",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4699355101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4871663101",
     "title": "Senior Account Manager, Partner Success",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4871663101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Berlin, Berlin, Germany; Vienna, Vienna, Austria",
-    "department": "Commercial, Marketing & Comms",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role63101"
+    "slug": "role63101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4871663101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4872578101",
     "title": "Open Application",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4872578101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
-    "department": " Open Application",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role78101"
+    "slug": "role78101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4872578101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4918366101",
     "title": "General Manager Advanced Trading (Fusion)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4918366101",
-    "date": "2026-08-31",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Product & Design",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role66101"
+    "slug": "role66101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4918366101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4914511101",
     "title": "Expert, Treasury ALM",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4914511101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Finance",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role11101"
+    "slug": "role11101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4914511101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4721614101",
-    "title": "Associate, Phone Support - DACH ",
+    "title": "Associate, Phone Support - DACH",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4721614101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Operations & Customer Service",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "role14101"
+    "slug": "role14101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4721614101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4942555101",
     "title": "Associate, AFC Compliance",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4942555101",
-    "date": "2026-08-26",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Barcelona, Spain",
-    "department": "Legal & Compliance & Risk",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "compliance91017"
+    "slug": "compliance91017",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4942555101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "bbe3759c-cc8b-4a85-907c-a9d4315a7a69",
@@ -5533,12 +5764,20 @@
     "title": "Executive Assistant",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4951483101",
-    "date": "2026-09-01T03:54:07-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Product & Engineering",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "associate83101"
+    "slug": "associate83101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4951483101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4964902101",
@@ -7221,12 +7460,20 @@
     "title": "Software Engineer, Java (Margin Trading)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963200101",
-    "date": "2026-08-28T06:05:55-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "engineer00101"
+    "slug": "engineer00101",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4963200101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "6166903004",
@@ -11103,12 +11350,20 @@
     "title": "Senior Product Manager - Growth, Engagement & Retention",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4959025101",
-    "date": "2026-08-24T07:54:21-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Product & Design",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "product699"
+    "slug": "product699",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4959025101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "418e72d1-fdf4-469f-ac11-54251d96ce3d",
@@ -13394,12 +13649,20 @@
     "title": "Software Engineer, Java (Asset Systems)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4956324101",
-    "date": "2026-08-19T13:51:02-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "engineer815"
+    "slug": "engineer815",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4956324101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "aa964a52-1a01-456b-bf82-d1c225385bda",
@@ -14406,12 +14669,20 @@
     "title": "Product Manager – Securities & Commodities",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954936101",
-    "date": "2026-08-18T05:53:13-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Product & Design",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "product649"
+    "slug": "product649",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954936101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4954158101",
@@ -14442,12 +14713,20 @@
     "title": "Senior Product Manager – Securities & Commodities",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954725101",
-    "date": "2026-08-18T05:50:41-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Product & Design",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "product648"
+    "slug": "product648",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4954725101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4954162101",
@@ -15736,15 +16015,23 @@
   },
   {
     "id": "4936846101",
-    "title": "Graduate Frontend Engineer - React/TypeScript",
+    "title": "Graduate Frontend Engineer -  React/TypeScript",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4936846101",
-    "date": "2026-08-14T09:19:27-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "București, Bucharest, Romania",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "frontend191"
+    "slug": "frontend191",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4936846101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "d9e4fd9d-5b4e-4ba1-b637-a21f9eec54b4",
@@ -19246,12 +19533,20 @@
     "title": "Junior Videographer & Editor",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4939865101",
-    "date": "2026-08-10T03:32:28-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Commercial, Marketing & Comms",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "associate59"
+    "slug": "associate59",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4939865101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "cbb4d80d-9ad3-4b86-876d-ab3259d99679",
@@ -19654,12 +19949,20 @@
     "title": "Intern, Business IT",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4944654101",
-    "date": "2026-08-07T10:20:47-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "intern3"
+    "slug": "intern3",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4944654101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4948730101",
@@ -20557,12 +20860,20 @@
     "title": "Senior Business IT Engineer, Atlassian Cloud",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4945283101",
-    "date": "2026-08-06T08:54:27-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "engineer716"
+    "slug": "engineer716",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4945283101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "7648452",
@@ -21241,12 +21552,20 @@
     "title": "OTC Trader",
     "company": "Luno",
     "link": "https://job-boards.greenhouse.io/luno/jobs/8108140",
-    "date": "2026-08-05T04:44:33-04:00",
-    "source": "Greenhouse: Luno [luno]",
+    "date": "2026-09-02",
+    "source": "greenhouse:luno",
     "location": "Cape Town or Johannesburg",
-    "department": "Finance",
+    "department": "Luno",
     "active": true,
-    "slug": "trader110"
+    "slug": "trader110",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.greenhouse.io/luno/jobs/8108140",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "6131171004",
@@ -22355,12 +22674,20 @@
     "title": "Senior Mobile Software Engineer (React Native)",
     "company": "Bitso",
     "link": "https://bitso.com/jobs/7799066003?gh_jid=7799066003",
-    "date": "2026-08-03T13:54:29-04:00",
-    "source": "Greenhouse: Bitso [bitso]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitso",
     "location": "Latin America",
-    "department": "Engineering",
+    "department": "Bitso",
     "active": true,
-    "slug": "engineer679"
+    "slug": "engineer679",
+    "type": "Full-time",
+    "applyUrl": "https://bitso.com/jobs/7799066003?gh_jid=7799066003",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "8080939",
@@ -22475,12 +22802,20 @@
     "title": "Intern, QA Engineering",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4940716101",
-    "date": "2026-08-03T11:16:31-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Barcelona, Spain",
-    "department": "Operations & Customer Service",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "qa36"
+    "slug": "qa36",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4940716101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4701957006",
@@ -22499,12 +22834,20 @@
     "title": "Senior Software Engineer, Java (EVERGREEN)",
     "company": "Bitpanda",
     "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4943609101",
-    "date": "2026-08-03T10:58:29-04:00",
-    "source": "Greenhouse: Bitpanda [bitpanda]",
+    "date": "2026-09-02",
+    "source": "greenhouse:bitpanda",
     "location": "Vienna, Vienna, Austria",
-    "department": "Engineering & Technology",
+    "department": "Bitpanda",
     "active": true,
-    "slug": "engineer678"
+    "slug": "engineer678",
+    "type": "Full-time",
+    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4943609101",
+    "skills": [
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Web3"
+    ]
   },
   {
     "id": "4701943006",
