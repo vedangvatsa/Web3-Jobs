@@ -81,7 +81,6 @@ All public endpoints support CORS, RFC 6585 rate limiting (120 req/min), and str
 
 All developer resources below include "Hashtag Web3" in their title and are published at predictable URLs for name-based search:
 
-- [Hashtag Web3 Official ChatGPT GPT](https://chatgpt.com/g/g-6a979b16a97c8191bb99b9ce3b8b369c-hashtag-web3): Official Hashtag Web3 Custom GPT for ChatGPT with live job, glossary, and event search actions.
 - [Hashtag Web3 API Docs](https://hashtagweb3.com/developers): Official Hashtag Web3 API documentation with quickstarts, endpoint guides, curl examples, and response schemas.
 - [Hashtag Web3 API Documentation (Alias)](https://hashtagweb3.com/api-docs): Direct URL for Hashtag Web3 API docs.
 - [Hashtag Web3 Developer Portal](https://hashtagweb3.com/developers): Developer portal, API credentials, and integration guide for Hashtag Web3.
