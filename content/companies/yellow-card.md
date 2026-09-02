@@ -1,10 +1,8 @@
 ---
 name: Yellow Card
 website: 'https://yellowcard.io'
-category: Crypto Payments
-description: Yellow Card enables users to buy and sell cryptocurrencies in Africa.
+category: Payments / Stablecoins (Pan-Africa)
+description: Yellow Card is the largest Pan-African stablecoin and crypto on/off-ramp infrastructure company, operating in over 20 African nations to facilitate cross-border trade, remittances, and treasury management.
 ---
 
-Yellow Card is a cryptocurrency exchange focused on the African market. The platform allows users to buy and sell various cryptocurrencies using local currencies. Yellow Card aims to increase cryptocurrency accessibility across Africa, providing services in multiple countries on the continent.
-
-The company offers a range of job opportunities, including roles in product management, transaction risk analysis, and platform technology. Yellow Card's commitment to expanding its services and improving user experience makes it an attractive workplace for professionals in the crypto payments sector.
+Yellow Card is the largest Pan-African stablecoin and crypto on/off-ramp infrastructure company, operating in over 20 African nations to facilitate cross-border trade, remittances, and treasury management.
