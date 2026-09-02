@@ -533,6 +533,9 @@
   "https://cointelegraph.com/news/21-financial-institutions-g7-stablecoin-venture?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/hyperliquid-strategies-equity-facility-2-5-billion?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/tech/2026/09/02/openai-says-its-new-astra-ai-can-build-attacks-without-human-help",
+  "https://cointelegraph.com/news/thailand-crypto-travel-rule-self-custodial-wallet-checks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/377162/ai-billionaires-fund-ad-blitz-as-data-center-opposition-hits-61",
+  "https://cointelegraph.com/magazine/btc-will-hit-1m-by-2030-but-arthur-hayes-is-buying-eth-instead?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1506,6 +1509,12 @@
   "HYPE treasury firm Hyperliquid Strategies boosts equity facility to $2.5B",
   "OpenAI Says Astra AI Model Can Autonomously Create Cyberattacks",
   "OpenAI says its new 'Astra' AI can build attacks without human help",
+  "Thailand requires ownership verification for self-custodial crypto wallets",
+  "Thailand adopts crypto Travel Rule with self-custodial wallet checks",
+  "Tech Leaders Fund Ads Supporting Data Centers Amid Opposition",
+  "AI Billionaires Fund Ad Blitz as Data Center Opposition Hits 61%",
+  "Arthur Hayes Favors Ethereum Over Bitcoin for Quicker Gains",
+  "BTC will hit $1M by 2030... but Arthur Hayes is buying ETH instead",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1571,5 +1580,8 @@
   "fp:contract|defend|film|gadot|gal|gam|her|kill|lawyer|month",
   "fp:america|among|among21|are|asset|bank|bofa|citi|citigroup|digital",
   "fp:25b|293m|647m|accumulat|boost|equity|facility|firm|hyp|hyperliquid",
-  "fp:astra|attack|autonomously|build|can|creat|critical|cyberattack|cybersecurity|exploit"
+  "fp:astra|attack|autonomously|build|can|creat|critical|cyberattack|cybersecurity|exploit",
+  "fp:adopt|asset|check|control|custodial|data|digital|external|fiv|must",
+  "fp:andreessen|back|ben|billionair|blitz|brockman|center|data|fund|greg",
+  "fp:arthur|bitmex|btc|but|buy|by2030|despit|eth|expect|favor"
 ]
