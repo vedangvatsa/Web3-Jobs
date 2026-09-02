@@ -9,6 +9,9 @@ export async function GET(request: NextRequest) {
 
     const type = searchParams.get('type') || 'default';
     const title = searchParams.get('title') || 'Hashtag Web3';
+    const company = searchParams.get('company') || '';
+    const location = searchParams.get('location') || 'Remote';
+    const department = searchParams.get('department') || '';
     const count = searchParams.get('count');
     const salary = searchParams.get('salary');
     const category = searchParams.get('category');
@@ -19,27 +22,245 @@ export async function GET(request: NextRequest) {
       width: '100%',
       display: 'flex',
       fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+      backgroundColor: '#f8fafc',
+      backgroundImage:
+        'radial-gradient(circle at 10% 15%, rgba(2, 132, 199, 0.08), transparent 35%), radial-gradient(circle at 90% 85%, rgba(14, 165, 233, 0.06), transparent 35%), linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%)',
     } as const;
 
     const baseCardStyle = {
       display: 'flex',
       flexDirection: 'column',
-      alignItems: 'center',
-      justifyContent: 'center',
-      padding: '60px',
-      backgroundColor: 'rgba(24, 24, 27, 0.85)',
-      borderRadius: '28px',
-      border: '1px solid rgba(161, 161, 170, 0.25)',
-      boxShadow: '0 30px 80px rgba(0, 0, 0, 0.7)',
+      backgroundColor: '#ffffff',
+      borderRadius: '24px',
+      border: '1px solid #e2e8f0',
+      boxShadow: '0 25px 50px -12px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.8)',
     } as const;
 
-    const backgroundStyle = {
-      backgroundColor: '#09090b',
-      backgroundImage:
-        'radial-gradient(circle at 10% 20%, rgba(14, 165, 233, 0.22), transparent 40%), radial-gradient(circle at 85% 75%, rgba(56, 189, 248, 0.22), transparent 40%), linear-gradient(135deg, #09090b 0%, #18181b 50%, #27272a 100%)',
-    } as const;
+    // 1. Dedicated Job Posting Template (Light, Crisp, Modern Editorial)
+    if (type === 'job') {
+      const displayTitle = title.length > 55 ? `${title.slice(0, 52)}...` : title;
+      const displayCompany = company || 'Web3 Company';
+      const displayLocation = location || 'Remote';
 
-    // Default & Tool template
+      return new ImageResponse(
+        (
+          <div
+            style={{
+              ...baseContainerStyle,
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '40px',
+            }}
+          >
+            <div
+              style={{
+                ...baseCardStyle,
+                width: '1120px',
+                height: '550px',
+                padding: '48px 56px',
+                justifyContent: 'space-between',
+              }}
+            >
+              {/* Top Row: Brand & Status Pill */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  width: '100%',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '12px',
+                    padding: '8px 18px',
+                    backgroundColor: '#f0f9ff',
+                    border: '1px solid #bae6fd',
+                    borderRadius: '999px',
+                  }}
+                >
+                  <div
+                    style={{
+                      width: '10px',
+                      height: '10px',
+                      borderRadius: '50%',
+                      backgroundColor: '#0284c7',
+                    }}
+                  />
+                  <div
+                    style={{
+                      fontSize: '18px',
+                      fontWeight: '700',
+                      color: '#0284c7',
+                      letterSpacing: '0.5px',
+                    }}
+                  >
+                    HASHTAG WEB3 • VERIFIED OPENING
+                  </div>
+                </div>
+
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    padding: '6px 16px',
+                    backgroundColor: '#ecfdf5',
+                    border: '1px solid #a7f3d0',
+                    borderRadius: '999px',
+                    fontSize: '16px',
+                    fontWeight: '600',
+                    color: '#059669',
+                  }}
+                >
+                  ✓ Direct ATS Apply
+                </div>
+              </div>
+
+              {/* Middle Section: Company & Role Title */}
+              <div
+                style={{
+                  display: 'flex',
+                  flexDirection: 'column',
+                  gap: '12px',
+                  width: '100%',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '8px',
+                    fontSize: '26px',
+                    fontWeight: '700',
+                    color: '#0284c7',
+                  }}
+                >
+                  <span>{displayCompany}</span>
+                  <span style={{ color: '#64748b', fontWeight: '500' }}>is hiring</span>
+                </div>
+
+                <h1
+                  style={{
+                    fontSize: displayTitle.length > 35 ? '48px' : '56px',
+                    fontWeight: '800',
+                    color: '#0f172a',
+                    margin: 0,
+                    lineHeight: '1.15',
+                    letterSpacing: '-1px',
+                  }}
+                >
+                  {displayTitle}
+                </h1>
+              </div>
+
+              {/* Meta Badges Row */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '14px',
+                  flexWrap: 'wrap',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    padding: '10px 20px',
+                    backgroundColor: '#f8fafc',
+                    border: '1px solid #e2e8f0',
+                    borderRadius: '12px',
+                    fontSize: '18px',
+                    fontWeight: '600',
+                    color: '#334155',
+                  }}
+                >
+                  📍 {displayLocation}
+                </div>
+
+                {department && (
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      padding: '10px 20px',
+                      backgroundColor: '#f8fafc',
+                      border: '1px solid #e2e8f0',
+                      borderRadius: '12px',
+                      fontSize: '18px',
+                      fontWeight: '600',
+                      color: '#334155',
+                    }}
+                  >
+                    🏷️ {department}
+                  </div>
+                )}
+
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    padding: '10px 20px',
+                    backgroundColor: '#f8fafc',
+                    border: '1px solid #e2e8f0',
+                    borderRadius: '12px',
+                    fontSize: '18px',
+                    fontWeight: '600',
+                    color: '#334155',
+                  }}
+                >
+                  ⚡ Web3 / Blockchain
+                </div>
+              </div>
+
+              {/* Bottom Row: Footer Branding */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  width: '100%',
+                  borderTop: '1px solid #f1f5f9',
+                  paddingTop: '20px',
+                }}
+              >
+                <div
+                  style={{
+                    fontSize: '22px',
+                    fontWeight: '800',
+                    color: '#0284c7',
+                  }}
+                >
+                  HashtagWeb3.com
+                </div>
+
+                <div
+                  style={{
+                    fontSize: '18px',
+                    fontWeight: '500',
+                    color: '#94a3b8',
+                  }}
+                >
+                  Explore Top Crypto & Web3 Careers • {date}
+                </div>
+              </div>
+            </div>
+          </div>
+        ),
+        {
+          width: 1200,
+          height: 630,
+          headers: {
+            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+          },
+        }
+      );
+    }
+
+    // 2. Default & Tool template (Light Mode)
     if (type === 'default') {
       return new ImageResponse(
         (
@@ -49,14 +270,16 @@ export async function GET(request: NextRequest) {
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              ...backgroundStyle,
+              padding: '40px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                maxWidth: '1060px',
-                width: '90%',
+                width: '1080px',
+                padding: '60px',
+                alignItems: 'center',
+                textAlign: 'center',
               }}
             >
               <div
@@ -64,40 +287,42 @@ export async function GET(request: NextRequest) {
                   display: 'flex',
                   alignItems: 'center',
                   gap: '12px',
-                  marginBottom: '20px',
-                  padding: '8px 20px',
-                  backgroundColor: 'rgba(14, 165, 233, 0.15)',
-                  border: '1px solid rgba(14, 165, 233, 0.35)',
+                  marginBottom: '24px',
+                  padding: '8px 24px',
+                  backgroundColor: '#f0f9ff',
+                  border: '1px solid #bae6fd',
                   borderRadius: '999px',
-                  fontSize: '22px',
-                  color: '#38bdf8',
-                  fontWeight: 'bold',
+                  fontSize: '20px',
+                  color: '#0284c7',
+                  fontWeight: '700',
+                  letterSpacing: '0.5px',
                 }}
               >
                 HASHTAG WEB3
               </div>
               <h1
                 style={{
-                  fontSize: title.length > 35 ? '54px' : '68px',
-                  fontWeight: 'bold',
-                  color: '#ffffff',
-                  marginBottom: '24px',
+                  fontSize: title.length > 35 ? '50px' : '62px',
+                  fontWeight: '800',
+                  color: '#0f172a',
+                  marginBottom: '20px',
                   textAlign: 'center',
                   letterSpacing: '-1px',
-                  lineHeight: '1.15',
+                  lineHeight: '1.2',
                 }}
               >
                 {title}
               </h1>
               <p
                 style={{
-                  fontSize: '28px',
-                  color: '#a1a1aa',
+                  fontSize: '24px',
+                  color: '#64748b',
                   textAlign: 'center',
                   margin: 0,
+                  fontWeight: '500',
                 }}
               >
-                Web3 Careers • Job Board • Salary Data • {date}
+                Web3 Careers • Verified Job Board • Salary Data • {date}
               </p>
             </div>
           </div>
@@ -112,7 +337,7 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Jobs page template
+    // 3. Jobs page aggregate template (Light Mode)
     if (type === 'jobs') {
       return new ImageResponse(
         (
@@ -122,24 +347,26 @@ export async function GET(request: NextRequest) {
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              ...backgroundStyle,
+              padding: '40px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                maxWidth: '1020px',
-                width: '88%',
+                width: '1040px',
+                padding: '60px',
+                alignItems: 'center',
+                textAlign: 'center',
               }}
             >
               {count && (
                 <div
                   style={{
                     fontSize: '84px',
-                    fontWeight: 'bold',
-                    color: '#38bdf8',
-                    marginBottom: '12px',
-                    letterSpacing: '-1px',
+                    fontWeight: '800',
+                    color: '#0284c7',
+                    marginBottom: '8px',
+                    letterSpacing: '-2px',
                   }}
                 >
                   {count}+
@@ -147,34 +374,33 @@ export async function GET(request: NextRequest) {
               )}
               <h1
                 style={{
-                  fontSize: '56px',
-                  fontWeight: 'bold',
-                  color: '#ffffff',
+                  fontSize: '54px',
+                  fontWeight: '800',
+                  color: '#0f172a',
                   marginBottom: '16px',
                   textAlign: 'center',
-                  letterSpacing: '-0.5px',
+                  letterSpacing: '-1px',
                 }}
               >
-                Live Web3 Jobs
+                Live Web3 & Crypto Jobs
               </h1>
               {salary && (
                 <div
                   style={{
                     display: 'flex',
                     alignItems: 'center',
-                    gap: '12px',
                     marginBottom: '20px',
-                    padding: '12px 24px',
-                    backgroundColor: 'rgba(14, 165, 233, 0.16)',
-                    border: '1px solid rgba(14, 165, 233, 0.35)',
+                    padding: '10px 24px',
+                    backgroundColor: '#f0f9ff',
+                    border: '1px solid #bae6fd',
                     borderRadius: '999px',
                   }}
                 >
                   <div
                     style={{
-                      fontSize: '32px',
-                      color: '#38bdf8',
-                      fontWeight: 'bold',
+                      fontSize: '28px',
+                      color: '#0284c7',
+                      fontWeight: '700',
                     }}
                   >
                     {salary}
@@ -183,13 +409,14 @@ export async function GET(request: NextRequest) {
               )}
               <p
                 style={{
-                  fontSize: '26px',
-                  color: '#a1a1aa',
+                  fontSize: '24px',
+                  color: '#64748b',
                   textAlign: 'center',
                   margin: 0,
+                  fontWeight: '500',
                 }}
               >
-                Remote • Crypto • Blockchain • DeFi • {date}
+                Remote • Blockchain • DeFi • Smart Contracts • {date}
               </p>
             </div>
           </div>
@@ -204,7 +431,7 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Article template
+    // 4. Article template (Light Mode)
     if (type === 'article') {
       return new ImageResponse(
         (
@@ -212,71 +439,82 @@ export async function GET(request: NextRequest) {
             style={{
               ...baseContainerStyle,
               flexDirection: 'column',
-              alignItems: 'flex-start',
-              justifyContent: 'space-between',
-              ...backgroundStyle,
-              padding: '60px 80px',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '40px',
             }}
           >
-            <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', width: '100%' }}>
-              {category && (
-                <div
-                  style={{
-                    display: 'flex',
-                    alignSelf: 'flex-start',
-                    padding: '10px 22px',
-                    backgroundColor: 'rgba(14, 165, 233, 0.16)',
-                    border: '1px solid rgba(14, 165, 233, 0.35)',
-                    borderRadius: '999px',
-                    fontSize: '22px',
-                    color: '#38bdf8',
-                    fontWeight: 'bold',
-                    letterSpacing: '0.5px',
-                  }}
-                >
-                  {category}
-                </div>
-              )}
-              <h1
-                style={{
-                  fontSize: title.length > 55 ? '48px' : '60px',
-                  fontWeight: 'bold',
-                  color: '#ffffff',
-                  lineHeight: '1.2',
-                  maxWidth: '1040px',
-                  letterSpacing: '-0.5px',
-                  margin: 0,
-                }}
-              >
-                {title}
-              </h1>
-            </div>
             <div
               style={{
-                display: 'flex',
-                alignItems: 'center',
+                ...baseCardStyle,
+                width: '1120px',
+                height: '550px',
+                padding: '48px 56px',
                 justifyContent: 'space-between',
-                width: '100%',
-                borderTop: '1px solid rgba(161, 161, 170, 0.2)',
-                paddingTop: '24px',
               }}
             >
-              <div
-                style={{
-                  fontSize: '26px',
-                  fontWeight: 'bold',
-                  color: '#38bdf8',
-                }}
-              >
-                HashtagWeb3.com
+              <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', width: '100%' }}>
+                {category && (
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignSelf: 'flex-start',
+                      padding: '8px 20px',
+                      backgroundColor: '#f0f9ff',
+                      border: '1px solid #bae6fd',
+                      borderRadius: '999px',
+                      fontSize: '18px',
+                      color: '#0284c7',
+                      fontWeight: '700',
+                      letterSpacing: '0.5px',
+                    }}
+                  >
+                    {category}
+                  </div>
+                )}
+                <h1
+                  style={{
+                    fontSize: title.length > 55 ? '46px' : '54px',
+                    fontWeight: '800',
+                    color: '#0f172a',
+                    lineHeight: '1.2',
+                    maxWidth: '1020px',
+                    letterSpacing: '-1px',
+                    margin: 0,
+                  }}
+                >
+                  {title}
+                </h1>
               </div>
+
               <div
                 style={{
-                  fontSize: '24px',
-                  color: '#a1a1aa',
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  width: '100%',
+                  borderTop: '1px solid #f1f5f9',
+                  paddingTop: '20px',
                 }}
               >
-                {date}
+                <div
+                  style={{
+                    fontSize: '22px',
+                    fontWeight: '800',
+                    color: '#0284c7',
+                  }}
+                >
+                  HashtagWeb3.com
+                </div>
+                <div
+                  style={{
+                    fontSize: '18px',
+                    fontWeight: '500',
+                    color: '#94a3b8',
+                  }}
+                >
+                  {date}
+                </div>
               </div>
             </div>
           </div>
@@ -291,79 +529,79 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Company template
+    // 5. Company template (Light Mode)
     if (type === 'company') {
-      try {
-        const safeTitle = (title || 'Hashtag Web3').slice(0, 80);
-        const safeCount = count ? String(count).slice(0, 10) : null;
-        return new ImageResponse(
-          (
+      const safeTitle = (title || 'Hashtag Web3').slice(0, 80);
+      const safeCount = count ? String(count).slice(0, 10) : null;
+
+      return new ImageResponse(
+        (
+          <div
+            style={{
+              ...baseContainerStyle,
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '40px',
+            }}
+          >
             <div
               style={{
-                ...baseContainerStyle,
-                flexDirection: 'column',
+                ...baseCardStyle,
+                width: '1040px',
+                padding: '60px',
                 alignItems: 'center',
-                justifyContent: 'center',
-                ...backgroundStyle,
+                textAlign: 'center',
               }}
             >
-              <div
+              <h1
                 style={{
-                  ...baseCardStyle,
-                  maxWidth: '980px',
-                  width: '88%',
+                  fontSize: safeTitle.length > 24 ? '52px' : '62px',
+                  fontWeight: '800',
+                  color: '#0f172a',
+                  marginBottom: '16px',
+                  textAlign: 'center',
+                  letterSpacing: '-1px',
+                  lineHeight: '1.15',
                 }}
               >
-                <h1
+                {safeTitle}
+              </h1>
+              {safeCount && (
+                <div
                   style={{
-                    fontSize: safeTitle.length > 24 ? '54px' : '64px',
-                    fontWeight: 'bold',
-                    color: '#38bdf8',
-                    marginBottom: '20px',
+                    fontSize: '32px',
+                    fontWeight: '700',
+                    color: '#0284c7',
+                    marginBottom: '16px',
                     textAlign: 'center',
-                    letterSpacing: '-0.5px',
-                    lineHeight: 1.1,
                   }}
                 >
-                  {safeTitle}
-                </h1>
-                {safeCount && (
-                  <div
-                    style={{
-                      fontSize: '36px',
-                      color: '#ffffff',
-                      marginBottom: '16px',
-                      textAlign: 'center',
-                    }}
-                  >
-                    {safeCount} Open Positions
-                  </div>
-                )}
-                <p
-                  style={{
-                    fontSize: '26px',
-                    color: '#a1a1aa',
-                    textAlign: 'center',
-                    margin: 0,
-                  }}
-                >
-                  Explore Web3 Careers • {date}
-                </p>
-              </div>
+                  {safeCount} Open Positions
+                </div>
+              )}
+              <p
+                style={{
+                  fontSize: '24px',
+                  color: '#64748b',
+                  textAlign: 'center',
+                  margin: 0,
+                  fontWeight: '500',
+                }}
+              >
+                Explore Web3 Careers & Ecosystem Roles • {date}
+              </p>
             </div>
-          ),
-          {
-            width: 1200,
-            height: 630,
-            headers: {
-              'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
-            },
-          }
-        );
-      } catch (err: any) {
-        console.error('Company OG failed, falling back to default:', err?.message);
-        // Fall through to default fallback below
-      }
+          </div>
+        ),
+        {
+          width: 1200,
+          height: 630,
+          headers: {
+            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+          },
+        }
+      );
     }
 
     // Default fallback
