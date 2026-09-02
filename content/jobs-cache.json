@@ -1,5 +1,26 @@
 [
   {
+    "id": "bd8cd97a-4eed-468e-b87f-4cac59e5c6c2",
+    "title": "Boys Club - Content Project Manager",
+    "company": "Polygon Labs",
+    "location": "USA - Remote",
+    "type": "Contract",
+    "date": "2026-09-02",
+    "source": "ashby:polygon-labs",
+    "link": "https://jobs.ashbyhq.com/polygon-labs/bd8cd97a-4eed-468e-b87f-4cac59e5c6c2",
+    "applyUrl": "https://jobs.ashbyhq.com/polygon-labs/bd8cd97a-4eed-468e-b87f-4cac59e5c6c2/application",
+    "department": "Business",
+    "team": "Boys Club",
+    "skills": [
+      "Polygon",
+      "Ethereum",
+      "Web3",
+      "Blockchain",
+      "Solidity"
+    ],
+    "slug": "manager96063"
+  },
+  {
     "id": "pancakeswap-bd-lead",
     "title": "Business Development Lead",
     "company": "PancakeSwap",
@@ -3497,12 +3518,22 @@
     "title": "Head of Partnerships & Liquidity",
     "company": "Polygon Labs",
     "link": "https://jobs.ashbyhq.com/polygon-labs/10a0eee7-50fc-40f8-9523-0b26aa385717",
-    "date": "2026-09-02T01:16:33.129+00:00",
-    "source": "Ashby: Polygon Labs [polygon-labs]",
+    "date": "2026-09-02",
+    "source": "ashby:polygon-labs",
     "location": "Dubai - Remote",
     "department": "Business",
     "active": true,
-    "slug": "frontend85717"
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/polygon-labs/10a0eee7-50fc-40f8-9523-0b26aa385717/application",
+    "team": "Growth",
+    "skills": [
+      "Polygon",
+      "Ethereum",
+      "Web3",
+      "Blockchain",
+      "Solidity"
+    ],
+    "slug": "head94019"
   },
   {
     "id": "coinswitch-sr-assoc-legal-02",
@@ -6622,12 +6653,22 @@
     "title": "Director of Product, Wallets & Treasury",
     "company": "Polygon Labs",
     "link": "https://jobs.ashbyhq.com/polygon-labs/660f2496-a0de-4600-be88-4fcd130dd958",
-    "date": "2026-08-27T17:04:49.799+00:00",
-    "source": "Ashby: Polygon Labs [polygon-labs]",
+    "date": "2026-09-02",
+    "source": "ashby:polygon-labs",
     "location": "USA - Remote",
     "department": "Technology",
     "active": true,
-    "slug": "productdd958"
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/polygon-labs/660f2496-a0de-4600-be88-4fcd130dd958/application",
+    "team": "Product",
+    "skills": [
+      "Polygon",
+      "Ethereum",
+      "Web3",
+      "Blockchain",
+      "Solidity"
+    ],
+    "slug": "product81502"
   },
   {
     "id": "5406495008",
