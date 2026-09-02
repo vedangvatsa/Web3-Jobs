@@ -541,15 +541,19 @@ async function postToThreads(text: string, imagePath: string) {
  ? `${process.env.SOCIAL_IMAGE_BASE_URL}/${path.basename(imagePath)}`
  : null;
 
+ // Customize text specifically for Threads: use hashtagweb3.com/th for attribution
+ const threadsText = text.replace(/https?:\/\/hashtagweb3\.com(?!\/th\b)/gi, 'https://hashtagweb3.com/th')
+                         .replace(/hashtagweb3\.com(?!\/th\b)/gi, 'hashtagweb3.com/th');
+
  const urlParams = new URLSearchParams();
  urlParams.append('access_token', accessToken);
  if (imageUrl && fs.existsSync(imagePath)) {
  urlParams.append('media_type', 'IMAGE');
  urlParams.append('image_url', imageUrl);
- urlParams.append('text', text);
+ urlParams.append('text', threadsText);
  } else {
  urlParams.append('media_type', 'TEXT');
- urlParams.append('text', text);
+ urlParams.append('text', threadsText);
  }
 
  // Step 1 - Create media container
