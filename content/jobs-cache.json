@@ -1,5 +1,869 @@
 [
   {
+    "id": "5080695008",
+    "title": "Senior Platform Engineer",
+    "company": "ZetaChain",
+    "location": "San Francisco (Hybrid)",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "greenhouse:zetachain",
+    "link": "https://job-boards.greenhouse.io/zetachain/jobs/5080695008",
+    "applyUrl": "https://job-boards.greenhouse.io/zetachain/jobs/5080695008",
+    "department": "ZetaChain",
+    "skills": [
+      "Web3",
+      "Layer 1",
+      "Blockchain"
+    ],
+    "slug": "engineer99465"
+  },
+  {
+    "id": "e40b3dee-fcbf-4e42-9e9a-18c2a6b51978",
+    "title": "Verificador domiciliar Quetzaltenango",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/e40b3dee-fcbf-4e42-9e9a-18c2a6b51978",
+    "applyUrl": "https://jobs.lever.co/vana/e40b3dee-fcbf-4e42-9e9a-18c2a6b51978/apply",
+    "department": "Vana Más",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "verificador2"
+  },
+  {
+    "id": "6743c84f-0674-4ed6-925e-1987d8791ed1",
+    "title": "Verificador Domiciliar - Vana más",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/6743c84f-0674-4ed6-925e-1987d8791ed1",
+    "applyUrl": "https://jobs.lever.co/vana/6743c84f-0674-4ed6-925e-1987d8791ed1/apply",
+    "department": "Vana Más",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "verificador1"
+  },
+  {
+    "id": "b961638b-cba7-411d-ac21-3a3bbaafefe1",
+    "title": "Supervisor Televentas",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/b961638b-cba7-411d-ac21-3a3bbaafefe1",
+    "applyUrl": "https://jobs.lever.co/vana/b961638b-cba7-411d-ac21-3a3bbaafefe1/apply",
+    "department": "Vana Presta",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "supervisor10"
+  },
+  {
+    "id": "9a2175bb-83b5-4dd2-b284-ea961dd30d35",
+    "title": "Software Engineer - Backend L2",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Por servicios profesionales",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/9a2175bb-83b5-4dd2-b284-ea961dd30d35",
+    "applyUrl": "https://jobs.lever.co/vana/9a2175bb-83b5-4dd2-b284-ea961dd30d35/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "backend44844"
+  },
+  {
+    "id": "efbbb72c-ee16-4d25-a565-6eba80f9b6f0",
+    "title": "Reporting & People Analytics Specialist HR",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/efbbb72c-ee16-4d25-a565-6eba80f9b6f0",
+    "applyUrl": "https://jobs.lever.co/vana/efbbb72c-ee16-4d25-a565-6eba80f9b6f0/apply",
+    "department": "HR",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "recruiting54279"
+  },
+  {
+    "id": "cd99f09a-ad7a-4cf6-a7af-8668ea79dabc",
+    "title": "Reclutador Operativo",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/cd99f09a-ad7a-4cf6-a7af-8668ea79dabc",
+    "applyUrl": "https://jobs.lever.co/vana/cd99f09a-ad7a-4cf6-a7af-8668ea79dabc/apply",
+    "department": "HR",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "reclutador1"
+  },
+  {
+    "id": "04621428-eb97-47ee-a670-ce274bb558e3",
+    "title": "QA - Lending Operations & Customer Service",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/04621428-eb97-47ee-a670-ce274bb558e3",
+    "applyUrl": "https://jobs.lever.co/vana/04621428-eb97-47ee-a670-ce274bb558e3/apply",
+    "department": "Customer Service Operations",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "qa89005"
+  },
+  {
+    "id": "837f9102-cb88-4d23-9cb1-378ad585f36d",
+    "title": "Promotor de Ventas Retail",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/837f9102-cb88-4d23-9cb1-378ad585f36d",
+    "applyUrl": "https://jobs.lever.co/vana/837f9102-cb88-4d23-9cb1-378ad585f36d/apply",
+    "department": "Vana Pay",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "promotor1"
+  },
+  {
+    "id": "ad92a8a4-fc78-45e4-809e-5fa43033c91c",
+    "title": "Own Media & Collections Automation Specialist",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Por servicios profesionales",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/ad92a8a4-fc78-45e4-809e-5fa43033c91c",
+    "applyUrl": "https://jobs.lever.co/vana/ad92a8a4-fc78-45e4-809e-5fa43033c91c/apply",
+    "department": "UX",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "own1"
+  },
+  {
+    "id": "7509a741-49a8-444c-9159-a95bee869945",
+    "title": "MLOps Enginneer L2",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/7509a741-49a8-444c-9159-a95bee869945",
+    "applyUrl": "https://jobs.lever.co/vana/7509a741-49a8-444c-9159-a95bee869945/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "mlops1"
+  },
+  {
+    "id": "4da9fc1d-5ae7-44a8-b2cc-8362a304c4df",
+    "title": "Jefe de Análisis de Crédito MiPyme",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/4da9fc1d-5ae7-44a8-b2cc-8362a304c4df",
+    "applyUrl": "https://jobs.lever.co/vana/4da9fc1d-5ae7-44a8-b2cc-8362a304c4df/apply",
+    "department": "Vana Más",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "jefe1"
+  },
+  {
+    "id": "9e4ff199-b644-4874-8085-eba6da486803",
+    "title": "IT Support L1 (HelpDesk) - Due",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full-time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/9e4ff199-b644-4874-8085-eba6da486803",
+    "applyUrl": "https://jobs.lever.co/vana/9e4ff199-b644-4874-8085-eba6da486803/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "it64510"
+  },
+  {
+    "id": "c6bb4c7f-e311-452e-82a5-35cced71ac2e",
+    "title": "HR Business Partner - Mid Lever",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/c6bb4c7f-e311-452e-82a5-35cced71ac2e",
+    "applyUrl": "https://jobs.lever.co/vana/c6bb4c7f-e311-452e-82a5-35cced71ac2e/apply",
+    "department": "HR",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "recruiting54278"
+  },
+  {
+    "id": "8760c652-38a3-4150-946d-01e9da771064",
+    "title": "Head of Tax",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/8760c652-38a3-4150-946d-01e9da771064",
+    "applyUrl": "https://jobs.lever.co/vana/8760c652-38a3-4150-946d-01e9da771064/apply",
+    "department": "Finance",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "head94020"
+  },
+  {
+    "id": "2d08ca79-4c42-4065-a688-e278500bf68d",
+    "title": "Gestor de Cobranza Senior (Telefónico y Campo)",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/2d08ca79-4c42-4065-a688-e278500bf68d",
+    "applyUrl": "https://jobs.lever.co/vana/2d08ca79-4c42-4065-a688-e278500bf68d/apply",
+    "department": "Collections",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "gestor1"
+  },
+  {
+    "id": "c6afd133-4c39-45de-aa79-42bea9cf0208",
+    "title": "Gestor de Cobranza",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/c6afd133-4c39-45de-aa79-42bea9cf0208",
+    "applyUrl": "https://jobs.lever.co/vana/c6afd133-4c39-45de-aa79-42bea9cf0208/apply",
+    "department": "Collections",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "gestor3"
+  },
+  {
+    "id": "53764ea3-959c-4f45-bb2a-3f61614fd668",
+    "title": "Gestor de Cobranza",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/53764ea3-959c-4f45-bb2a-3f61614fd668",
+    "applyUrl": "https://jobs.lever.co/vana/53764ea3-959c-4f45-bb2a-3f61614fd668/apply",
+    "department": "Vana Más",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "gestor2"
+  },
+  {
+    "id": "30eb10f0-5391-43e9-8f96-1baee4e202e3",
+    "title": "Gerente Regional de Cumplimiento",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/30eb10f0-5391-43e9-8f96-1baee4e202e3",
+    "applyUrl": "https://jobs.lever.co/vana/30eb10f0-5391-43e9-8f96-1baee4e202e3/apply",
+    "department": "Legal and Compliance",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "gerente1"
+  },
+  {
+    "id": "678f553e-1409-458a-afcf-797922571b1d",
+    "title": "Frontend Web Software Engineer L1",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Por servicios profesionales",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/678f553e-1409-458a-afcf-797922571b1d",
+    "applyUrl": "https://jobs.lever.co/vana/678f553e-1409-458a-afcf-797922571b1d/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "frontend90204"
+  },
+  {
+    "id": "854f262c-5b9f-4b70-970f-69324db7503d",
+    "title": "Fraud Data Science",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/854f262c-5b9f-4b70-970f-69324db7503d",
+    "applyUrl": "https://jobs.lever.co/vana/854f262c-5b9f-4b70-970f-69324db7503d/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "fraud1"
+  },
+  {
+    "id": "ce8ff38a-a94c-4a97-8ad7-0fe9ddc0c42f",
+    "title": "Data Scientist L2",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/ce8ff38a-a94c-4a97-8ad7-0fe9ddc0c42f",
+    "applyUrl": "https://jobs.lever.co/vana/ce8ff38a-a94c-4a97-8ad7-0fe9ddc0c42f/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "data55009"
+  },
+  {
+    "id": "3063e0df-377d-4817-8663-d3b5cc15c142",
+    "title": "Backend L2 - Core Platform",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/3063e0df-377d-4817-8663-d3b5cc15c142",
+    "applyUrl": "https://jobs.lever.co/vana/3063e0df-377d-4817-8663-d3b5cc15c142/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "backend44843"
+  },
+  {
+    "id": "b8fd42e6-dc75-4766-90dc-7c761dd07619",
+    "title": "Backend Engineer L1",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/b8fd42e6-dc75-4766-90dc-7c761dd07619",
+    "applyUrl": "https://jobs.lever.co/vana/b8fd42e6-dc75-4766-90dc-7c761dd07619/apply",
+    "department": "Engineering & Data Science",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "backend44845"
+  },
+  {
+    "id": "2ba78487-854f-49dc-a202-20dff09d1331",
+    "title": "Analista de Riesgo de Crédito",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/2ba78487-854f-49dc-a202-20dff09d1331",
+    "applyUrl": "https://jobs.lever.co/vana/2ba78487-854f-49dc-a202-20dff09d1331/apply",
+    "department": "Finance",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "analista1"
+  },
+  {
+    "id": "29afeea2-298c-449d-8dd7-9a3c4038b110",
+    "title": "Agente de Televentas",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "En planilla",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/29afeea2-298c-449d-8dd7-9a3c4038b110",
+    "applyUrl": "https://jobs.lever.co/vana/29afeea2-298c-449d-8dd7-9a3c4038b110/apply",
+    "department": "Vana Presta",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "agente1"
+  },
+  {
+    "id": "7d312cb1-cdb1-4db3-aee9-0ff182532e76",
+    "title": "Agente de Servicio al Cliente y Soporte",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/7d312cb1-cdb1-4db3-aee9-0ff182532e76",
+    "applyUrl": "https://jobs.lever.co/vana/7d312cb1-cdb1-4db3-aee9-0ff182532e76/apply",
+    "department": "Customer Service Operations",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "agente2"
+  },
+  {
+    "id": "dad757f2-b7d4-4cfa-b4bb-841c81386eb5",
+    "title": "Agente de Servicio al Cliente | Back Office",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/dad757f2-b7d4-4cfa-b4bb-841c81386eb5",
+    "applyUrl": "https://jobs.lever.co/vana/dad757f2-b7d4-4cfa-b4bb-841c81386eb5/apply",
+    "department": "Customer Service Operations",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "agente3"
+  },
+  {
+    "id": "12e2939f-8f91-4ac0-bed5-d24d344cde21",
+    "title": "Agente de Operaciones Crediticias - Lending Ops",
+    "company": "Vana",
+    "location": "Guatemala",
+    "type": "Full time",
+    "date": "2026-09-02",
+    "source": "lever:vana",
+    "link": "https://jobs.lever.co/vana/12e2939f-8f91-4ac0-bed5-d24d344cde21",
+    "applyUrl": "https://jobs.lever.co/vana/12e2939f-8f91-4ac0-bed5-d24d344cde21/apply",
+    "department": "Customer Service Operations",
+    "skills": [
+      "Web3",
+      "AI",
+      "Blockchain"
+    ],
+    "slug": "operations91018"
+  },
+  {
+    "id": "c193ea99-6a1d-4b4a-845d-5ae69816076d",
+    "title": "Senior Infrastructure Security Engineer",
+    "company": "Matter Labs",
+    "location": "United States",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:matter-labs",
+    "link": "https://jobs.ashbyhq.com/matter-labs/c193ea99-6a1d-4b4a-845d-5ae69816076d",
+    "applyUrl": "https://jobs.ashbyhq.com/matter-labs/c193ea99-6a1d-4b4a-845d-5ae69816076d/application",
+    "department": "Security",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "devops75745"
+  },
+  {
+    "id": "e5cad422-c5c2-4504-a687-6f25294f3e84",
+    "title": "Senior Software Engineer (GoLang/PHP)",
+    "company": "Gelato Network",
+    "location": "Tallin",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/e5cad422-c5c2-4504-a687-6f25294f3e84",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/e5cad422-c5c2-4504-a687-6f25294f3e84/application",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "engineer99466"
+  },
+  {
+    "id": "9b3e3981-2cc1-4397-91df-86ef187cce9c",
+    "title": "Senior Operations Manager, Partner Network & Automation",
+    "company": "Gelato Network",
+    "location": "Madrid",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/9b3e3981-2cc1-4397-91df-86ef187cce9c",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/9b3e3981-2cc1-4397-91df-86ef187cce9c/application",
+    "department": "Operations ",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "manager96066"
+  },
+  {
+    "id": "8dd090cd-4106-4b17-b4e1-bcfd7235bf79",
+    "title": "Account Executive",
+    "company": "Gelato Network",
+    "location": "Denver",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/8dd090cd-4106-4b17-b4e1-bcfd7235bf79",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/8dd090cd-4106-4b17-b4e1-bcfd7235bf79/application",
+    "department": "Commercial",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "sales96039"
+  },
+  {
+    "id": "3b335c2e-a035-4b17-a61d-2e5e4275d261",
+    "title": "Senior Operations Manager, Partner Network & Automation",
+    "company": "Gelato Network",
+    "location": "Atlanta ",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/3b335c2e-a035-4b17-a61d-2e5e4275d261",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/3b335c2e-a035-4b17-a61d-2e5e4275d261/application",
+    "department": "Operations ",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "manager96065"
+  },
+  {
+    "id": "568c043d-e509-4be0-8523-f149c90fd2a7",
+    "title": "Senior Accountant",
+    "company": "Gelato Network",
+    "location": "Stockholm",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/568c043d-e509-4be0-8523-f149c90fd2a7",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/568c043d-e509-4be0-8523-f149c90fd2a7/application",
+    "department": "Corporate Functions ",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "sales96037"
+  },
+  {
+    "id": "5c2e7eab-b288-4daa-b94e-55057acff6c1",
+    "title": "Account Executive, German Speaking",
+    "company": "Gelato Network",
+    "location": "London",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/5c2e7eab-b288-4daa-b94e-55057acff6c1",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/5c2e7eab-b288-4daa-b94e-55057acff6c1/application",
+    "department": "Commercial",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "sales96038"
+  },
+  {
+    "id": "f8a2f3b8-064b-4ad8-b288-8d606de5606a",
+    "title": "Account Executive, French Speaking",
+    "company": "Gelato Network",
+    "location": "London",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/f8a2f3b8-064b-4ad8-b288-8d606de5606a",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/f8a2f3b8-064b-4ad8-b288-8d606de5606a/application",
+    "department": "Commercial",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "sales96041"
+  },
+  {
+    "id": "b74c76c5-cb37-40bd-abd5-e5280e675078",
+    "title": "Account Executive",
+    "company": "Gelato Network",
+    "location": "London",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:gelato",
+    "link": "https://jobs.ashbyhq.com/gelato/b74c76c5-cb37-40bd-abd5-e5280e675078",
+    "applyUrl": "https://jobs.ashbyhq.com/gelato/b74c76c5-cb37-40bd-abd5-e5280e675078/application",
+    "department": "Commercial",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "sales96040"
+  },
+  {
+    "id": "1e732cb7-ec6b-4da8-bfd3-fc154af9faac",
+    "title": "Senior Software Developer, FME Form",
+    "company": "Safe",
+    "location": "Canada Wide - Excluding Quebec",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/1e732cb7-ec6b-4da8-bfd3-fc154af9faac",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/1e732cb7-ec6b-4da8-bfd3-fc154af9faac/application",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "developer74010"
+  },
+  {
+    "id": "4ed16852-977a-4aea-9c31-7d564bde3fd2",
+    "title": "VP, Revenue Operations",
+    "company": "Safe",
+    "location": "Canada Wide - Excluding Quebec",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/4ed16852-977a-4aea-9c31-7d564bde3fd2",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/4ed16852-977a-4aea-9c31-7d564bde3fd2/application",
+    "department": "Customer Success ",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "operations91019"
+  },
+  {
+    "id": "2f709f91-5d2f-432f-9f09-3ec1861e78cf",
+    "title": "Senior Manager, People Operations & Total Rewards",
+    "company": "Safe",
+    "location": "British Columbia",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/2f709f91-5d2f-432f-9f09-3ec1861e78cf",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/2f709f91-5d2f-432f-9f09-3ec1861e78cf/application",
+    "department": "Human Resources",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "manager96064"
+  },
+  {
+    "id": "5ee4eb0b-a0f3-4361-821b-718dcbdfc17f",
+    "title": "Software Developer II, AI Enablement - FME Flow",
+    "company": "Safe",
+    "location": "British Columbia",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/5ee4eb0b-a0f3-4361-821b-718dcbdfc17f",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/5ee4eb0b-a0f3-4361-821b-718dcbdfc17f/application",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "developer74011"
+  },
+  {
+    "id": "ba7b4fec-7996-4645-805d-36578db74805",
+    "title": "Senior HR Business Partner, GTM",
+    "company": "Safe",
+    "location": "British Columbia",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/ba7b4fec-7996-4645-805d-36578db74805",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/ba7b4fec-7996-4645-805d-36578db74805/application",
+    "department": "Human Resources",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "recruiting54277"
+  },
+  {
+    "id": "5771ad24-03c4-434c-bc6d-ea3aebd57c04",
+    "title": "Senior HR Business Partner, Product & Development",
+    "company": "Safe",
+    "location": "British Columbia",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/5771ad24-03c4-434c-bc6d-ea3aebd57c04",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/5771ad24-03c4-434c-bc6d-ea3aebd57c04/application",
+    "department": "Human Resources",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "product81503"
+  },
+  {
+    "id": "8331c74f-57b7-4512-8e98-8a7a22a81093",
+    "title": "Staff SDET",
+    "company": "Safe",
+    "location": "British Columbia",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/8331c74f-57b7-4512-8e98-8a7a22a81093",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/8331c74f-57b7-4512-8e98-8a7a22a81093/application",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "staff13"
+  },
+  {
+    "id": "c03c439c-7dff-4f8b-be95-ca737447bf7e",
+    "title": "Technical Support Team Lead, FME Flow",
+    "company": "Safe",
+    "location": "Canada Wide - Excluding Quebec",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/c03c439c-7dff-4f8b-be95-ca737447bf7e",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/c03c439c-7dff-4f8b-be95-ca737447bf7e/application",
+    "department": "Customer Experience",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "technical11"
+  },
+  {
+    "id": "c964ba52-ed9a-474e-afc7-aa9fb8ad0a6e",
+    "title": "Senior Product Designer, FME Flow",
+    "company": "Safe",
+    "location": "Canada Wide - Excluding Quebec",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/c964ba52-ed9a-474e-afc7-aa9fb8ad0a6e",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/c964ba52-ed9a-474e-afc7-aa9fb8ad0a6e/application",
+    "department": "Product Development",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "product81504"
+  },
+  {
+    "id": "57dea000-8e67-45fc-8559-35bf20038c2f",
+    "title": "Customer Solutions Specialist II",
+    "company": "Safe",
+    "location": "Canada Wide - Excluding Quebec",
+    "type": "FullTime",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
+    "link": "https://jobs.ashbyhq.com/safe/57dea000-8e67-45fc-8559-35bf20038c2f",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/57dea000-8e67-45fc-8559-35bf20038c2f/application",
+    "department": "Customer Experience",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ],
+    "slug": "customer74754"
+  },
+  {
     "id": "delta-plitech-739e151e-e067-40db-b034-45c3cbd7034c",
     "title": "Senior Cloud Security Engineer",
     "company": "Delta Exchange",
@@ -1033,62 +1897,97 @@
   {
     "id": "95b6a372-1594-4093-8b50-e8ee38e14958",
     "title": "Director, Employee & Workplace Experience",
-    "company": "Safe (Gnosis Safe)",
+    "company": "Safe",
     "link": "https://jobs.ashbyhq.com/safe/95b6a372-1594-4093-8b50-e8ee38e14958",
-    "date": "2026-08-19",
-    "source": "Ashby: Safe (Gnosis Safe) [safe]",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
     "location": "British Columbia",
     "department": "Human Resources",
     "active": true,
-    "slug": "role14958"
+    "slug": "role14958",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/95b6a372-1594-4093-8b50-e8ee38e14958/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "4c24f559-4c12-446d-9ae2-4edd17f465ab",
     "title": "Social Media & Brand Experience Manager",
-    "company": "Safe (Gnosis Safe)",
+    "company": "Safe",
     "link": "https://jobs.ashbyhq.com/safe/4c24f559-4c12-446d-9ae2-4edd17f465ab",
-    "date": "2026-08-13",
-    "source": "Ashby: Safe (Gnosis Safe) [safe]",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
     "location": "British Columbia",
     "department": "Marketing",
     "active": true,
-    "slug": "manager96056"
+    "slug": "manager96056",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/4c24f559-4c12-446d-9ae2-4edd17f465ab/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "b2d8ae01-b6f9-4266-9363-8141304b199a",
     "title": "Marketing Specialist, Webinars (14-Month Contract)",
-    "company": "Safe (Gnosis Safe)",
+    "company": "Safe",
     "link": "https://jobs.ashbyhq.com/safe/b2d8ae01-b6f9-4266-9363-8141304b199a",
-    "date": "2026-08-13",
-    "source": "Ashby: Safe (Gnosis Safe) [safe]",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
     "location": "British Columbia",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing85127"
+    "slug": "marketing85127",
+    "type": "Contract",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/b2d8ae01-b6f9-4266-9363-8141304b199a/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "ed2442dd-9c74-4012-a361-cc8b4aad6c4b",
     "title": "B2B Social Marketing Specialist",
-    "company": "Safe (Gnosis Safe)",
+    "company": "Safe",
     "link": "https://jobs.ashbyhq.com/safe/ed2442dd-9c74-4012-a361-cc8b4aad6c4b",
-    "date": "2026-08-17",
-    "source": "Ashby: Safe (Gnosis Safe) [safe]",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
     "location": "British Columbia",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing85128"
+    "slug": "marketing85128",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/ed2442dd-9c74-4012-a361-cc8b4aad6c4b/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "a9ad784b-af99-42e3-a98f-828a72e68239",
-    "title": "Technical Product Manager  ",
-    "company": "Safe (Gnosis Safe)",
+    "title": "Technical Product Manager",
+    "company": "Safe",
     "link": "https://jobs.ashbyhq.com/safe/a9ad784b-af99-42e3-a98f-828a72e68239",
-    "date": "2026-08-07",
-    "source": "Ashby: Safe (Gnosis Safe) [safe]",
+    "date": "2026-09-02",
+    "source": "ashby:safe",
     "location": "British Columbia",
     "department": "Product Development",
     "active": true,
-    "slug": "role68239"
+    "slug": "role68239",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/safe/a9ad784b-af99-42e3-a98f-828a72e68239/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "60059319-c501-42e4-bfc2-aed7173b2bd6",
@@ -5953,12 +6852,19 @@
     "title": "Solutions Engineer, Institutional",
     "company": "Matter Labs",
     "link": "https://jobs.ashbyhq.com/matter-labs/a7b55498-adf4-43d4-a1b6-0c97c8794d76",
-    "date": "2026-08-28T14:51:32.673+00:00",
-    "source": "Ashby: Matter Labs [matter-labs]",
+    "date": "2026-09-02",
+    "source": "ashby:matter-labs",
     "location": "New York",
     "department": "Go-To Market",
     "active": true,
-    "slug": "engineer99448"
+    "slug": "engineer99448",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/matter-labs/a7b55498-adf4-43d4-a1b6-0c97c8794d76/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "6162101004",
@@ -5977,24 +6883,38 @@
     "title": "Account Executive, Institutional Sales",
     "company": "Matter Labs",
     "link": "https://jobs.ashbyhq.com/matter-labs/161344b7-b086-483b-af0e-3c57f0b07c4b",
-    "date": "2026-08-28T14:38:09.577+00:00",
-    "source": "Ashby: Matter Labs [matter-labs]",
+    "date": "2026-09-02",
+    "source": "ashby:matter-labs",
     "location": "New York",
     "department": "Go-To Market",
     "active": true,
-    "slug": "sales96026"
+    "slug": "sales96026",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/matter-labs/161344b7-b086-483b-af0e-3c57f0b07c4b/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "363590d9-552e-455a-9663-124a2990a3ea",
     "title": "Account Executive, Financial Markets",
     "company": "Matter Labs",
     "link": "https://jobs.ashbyhq.com/matter-labs/363590d9-552e-455a-9663-124a2990a3ea",
-    "date": "2026-08-28T14:30:40.366+00:00",
-    "source": "Ashby: Matter Labs [matter-labs]",
+    "date": "2026-09-02",
+    "source": "ashby:matter-labs",
     "location": "London",
     "department": "Go-To Market",
     "active": true,
-    "slug": "sales96025"
+    "slug": "sales96025",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/matter-labs/363590d9-552e-455a-9663-124a2990a3ea/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "655962db-5fbe-40cc-a072-9522295b3cbc",
@@ -7945,12 +8865,19 @@
     "title": "Protocol Security Engineer",
     "company": "Matter Labs",
     "link": "https://jobs.ashbyhq.com/matter-labs/88bb1928-7417-4119-8933-a9caafd9b636",
-    "date": "2026-08-26T09:00:57.286+00:00",
-    "source": "Ashby: Matter Labs [matter-labs]",
+    "date": "2026-09-02",
+    "source": "ashby:matter-labs",
     "location": "Global Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "security250"
+    "slug": "security250",
+    "type": "FullTime",
+    "applyUrl": "https://jobs.ashbyhq.com/matter-labs/88bb1928-7417-4119-8933-a9caafd9b636/application",
+    "skills": [
+      "Web3",
+      "Ethereum",
+      "Blockchain"
+    ]
   },
   {
     "id": "7977917003",
