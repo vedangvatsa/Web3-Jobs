@@ -1,5 +1,77 @@
 [
   {
+    "id": "019fcff9-ea27-74c1-bca2-91224bc205d8",
+    "title": "Senior Site Reliability Engineer (SRE)",
+    "company": "Bitkub",
+    "link": "https://careers.bitkub.com/jobs-detail/019fcff9-ea27-74c1-bca2-91224bc205d8",
+    "date": "2026-08-27",
+    "source": "Bitkub Careers [careers.bitkub.com]",
+    "location": "Bangkok, Thailand (Hybrid/Remote)",
+    "department": "Technology & SRE",
+    "active": true,
+    "slug": "role205d8"
+  },
+  {
+    "id": "019fcff9-0d20-76d1-8f9f-e25a0929114c",
+    "title": "Customer Support Supervisor",
+    "company": "Bitkub",
+    "link": "https://careers.bitkub.com/jobs-detail/019fcff9-0d20-76d1-8f9f-e25a0929114c",
+    "date": "2026-08-27",
+    "source": "Bitkub Careers [careers.bitkub.com]",
+    "location": "Bangkok, Thailand (Hybrid/Remote)",
+    "department": "Operations",
+    "active": true,
+    "slug": "role29114c"
+  },
+  {
+    "id": "019fce31-6a02-72ad-acaf-5fa5a4780519",
+    "title": "Customer Support Associate (6-month contract)",
+    "company": "Bitkub",
+    "link": "https://careers.bitkub.com/jobs-detail/019fce31-6a02-72ad-acaf-5fa5a4780519",
+    "date": "2026-08-26",
+    "source": "Bitkub Careers [careers.bitkub.com]",
+    "location": "Bangkok, Thailand (Hybrid/Remote)",
+    "department": "Operations",
+    "active": true,
+    "slug": "role780519"
+  },
+  {
+    "id": "019fce2c-7e60-71e8-ad71-035e166c3125",
+    "title": "Security Operations Engineer Manager",
+    "company": "Bitkub",
+    "link": "https://careers.bitkub.com/jobs-detail/019fce2c-7e60-71e8-ad71-035e166c3125",
+    "date": "2026-08-26",
+    "source": "Bitkub Careers [careers.bitkub.com]",
+    "location": "Bangkok, Thailand (Hybrid/Remote)",
+    "department": "IT Security & Infrastructure",
+    "active": true,
+    "slug": "role6c3125"
+  },
+  {
+    "id": "019fce2f-3cc1-7964-8bbd-03b39172ec40",
+    "title": "Senior QA Automation Engineer (Wallet)",
+    "company": "Bitkub",
+    "link": "https://careers.bitkub.com/jobs-detail/019fce2f-3cc1-7964-8bbd-03b39172ec40",
+    "date": "2026-08-25",
+    "source": "Bitkub Careers [careers.bitkub.com]",
+    "location": "Bangkok, Thailand (Hybrid/Remote)",
+    "department": "Development & Technology",
+    "active": true,
+    "slug": "role72ec40"
+  },
+  {
+    "id": "01a046be-584f-7caa-a54b-d1b927b7cb0e",
+    "title": "Senior QA Automation Engineer (Onboarding)",
+    "company": "Bitkub",
+    "link": "https://careers.bitkub.com/jobs-detail/01a046be-584f-7caa-a54b-d1b927b7cb0e",
+    "date": "2026-08-25",
+    "source": "Bitkub Careers [careers.bitkub.com]",
+    "location": "Bangkok, Thailand (Hybrid/Remote)",
+    "department": "Technology",
+    "active": true,
+    "slug": "roleb7cb0e"
+  },
+  {
     "id": "30874b89-70b0-4063-81e2-dfdac091d5ea",
     "title": "Senior Product Designer",
     "company": "Aligned Layer",
