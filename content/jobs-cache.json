@@ -45,7 +45,7 @@
     "location": "Hamburg",
     "department": "General",
     "active": true,
-    "slug": "role8818f"
+    "slug": "compliance91015"
   },
   {
     "id": "dc6409fc-944d-4331-8019-dbd643ae1d90",
@@ -57,7 +57,7 @@
     "location": "Hong Kong",
     "department": "Animoca Brands Limited",
     "active": true,
-    "slug": "rolee1d90"
+    "slug": "director96010"
   },
   {
     "id": "df34e394-c046-4285-b02c-66f62242f2e1",
@@ -69,7 +69,7 @@
     "location": "Hong Kong",
     "department": "Animoca Brands Limited",
     "active": true,
-    "slug": "role2f2e1"
+    "slug": "associate83109"
   },
   {
     "id": "8627034002",
@@ -105,7 +105,7 @@
     "location": "Remote",
     "department": "Finance",
     "active": true,
-    "slug": "role34002"
+    "slug": "sales96033"
   },
   {
     "id": "7905050",
@@ -213,7 +213,7 @@
     "location": "Bangkok, Thailand (Hybrid/Remote)",
     "department": "Technology & SRE",
     "active": true,
-    "slug": "role205d8"
+    "slug": "engineer99463"
   },
   {
     "id": "019fcff9-0d20-76d1-8f9f-e25a0929114c",
@@ -225,7 +225,7 @@
     "location": "Bangkok, Thailand (Hybrid/Remote)",
     "department": "Operations",
     "active": true,
-    "slug": "role29114c"
+    "slug": "supervisor9"
   },
   {
     "id": "019fce31-6a02-72ad-acaf-5fa5a4780519",
@@ -249,7 +249,7 @@
     "location": "Bangkok, Thailand (Hybrid/Remote)",
     "department": "IT Security & Infrastructure",
     "active": true,
-    "slug": "role6c3125"
+    "slug": "security95020"
   },
   {
     "id": "019fce2f-3cc1-7964-8bbd-03b39172ec40",
@@ -261,7 +261,7 @@
     "location": "Bangkok, Thailand (Hybrid/Remote)",
     "department": "Development & Technology",
     "active": true,
-    "slug": "role72ec40"
+    "slug": "qa89003"
   },
   {
     "id": "01a046be-584f-7caa-a54b-d1b927b7cb0e",
@@ -273,7 +273,7 @@
     "location": "Bangkok, Thailand (Hybrid/Remote)",
     "department": "Technology",
     "active": true,
-    "slug": "roleb7cb0e"
+    "slug": "qa89004"
   },
   {
     "id": "30874b89-70b0-4063-81e2-dfdac091d5ea",
@@ -285,7 +285,7 @@
     "location": "Remote",
     "department": "Design",
     "active": true,
-    "slug": "role1d5ea"
+    "slug": "product81488"
   },
   {
     "id": "53c61311-10c6-43ee-aa3c-75c1d65e6c7e",
@@ -297,7 +297,7 @@
     "location": "Remote",
     "department": "Product",
     "active": true,
-    "slug": "rolee6c7e"
+    "slug": "product81487"
   },
   {
     "id": "7d3bf5e8-477f-466f-9ac2-8500cde7e404",
@@ -309,7 +309,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "role7e404"
+    "slug": "fullstack68017"
   },
   {
     "id": "4640520005",
@@ -393,7 +393,7 @@
     "location": "Singapore",
     "department": "STX - Finance",
     "active": true,
-    "slug": "role24101"
+    "slug": "treasury8"
   },
   {
     "id": "4957677101",
@@ -417,7 +417,7 @@
     "location": "Kuala Lumpur, Kuala Lumpur, Malaysia",
     "department": "STX - People & GA",
     "active": true,
-    "slug": "role99101"
+    "slug": "frontend90201"
   },
   {
     "id": "4863091101",
@@ -453,7 +453,7 @@
     "location": "Jakarta, Jakarta, Indonesia",
     "department": "STX - Compliance",
     "active": true,
-    "slug": "role99101"
+    "slug": "financial1"
   },
   {
     "id": "4934555101",
@@ -489,7 +489,7 @@
     "location": "Paris, France",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "role18cf2"
+    "slug": "internship1"
   },
   {
     "id": "94828769-a1d5-49c2-b539-a3629d25f79f",
@@ -501,7 +501,7 @@
     "location": "Paris, France",
     "department": "Corporate Functions",
     "active": true,
-    "slug": "role5f79f"
+    "slug": "total1"
   },
   {
     "id": "2cce0bb1-272d-4669-b9aa-c788995c3083",
@@ -645,7 +645,7 @@
     "location": "Vienna, Vienna, Austria",
     "department": "Engineering & Technology",
     "active": true,
-    "slug": "role55101"
+    "slug": "security95021"
   },
   {
     "id": "4871663101",
@@ -717,7 +717,7 @@
     "location": "Barcelona, Spain",
     "department": "Legal & Compliance & Risk",
     "active": true,
-    "slug": "role55101"
+    "slug": "compliance91017"
   },
   {
     "id": "bbe3759c-cc8b-4a85-907c-a9d4315a7a69",
@@ -729,7 +729,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "rolea7a69"
+    "slug": "fullstack68018"
   },
   {
     "id": "acd18ab6-bc19-4222-aa44-c653fff36756",
@@ -789,7 +789,7 @@
     "location": "British Columbia",
     "department": "Marketing",
     "active": true,
-    "slug": "role465ab"
+    "slug": "manager96056"
   },
   {
     "id": "b2d8ae01-b6f9-4266-9363-8141304b199a",
@@ -801,7 +801,7 @@
     "location": "British Columbia",
     "department": "Marketing",
     "active": true,
-    "slug": "roleb199a"
+    "slug": "marketing85127"
   },
   {
     "id": "ed2442dd-9c74-4012-a361-cc8b4aad6c4b",
@@ -813,7 +813,7 @@
     "location": "British Columbia",
     "department": "Marketing",
     "active": true,
-    "slug": "roled6c4b"
+    "slug": "marketing85128"
   },
   {
     "id": "a9ad784b-af99-42e3-a98f-828a72e68239",
@@ -837,7 +837,7 @@
     "location": "New York City",
     "department": "G&A ",
     "active": true,
-    "slug": "roleb2bd6"
+    "slug": "frontend90202"
   },
   {
     "id": "bda6ac4c-0102-49b9-9644-5b0c15c8e0ea",
@@ -849,7 +849,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "role8e0ea"
+    "slug": "engineer99464"
   },
   {
     "id": "d6f6a87c-d596-4437-8b60-15d16628436c",
@@ -861,7 +861,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "role8436c"
+    "slug": "engineer99456"
   },
   {
     "id": "ca82ab76-549e-4002-8b3a-d7dc87437651",
@@ -933,7 +933,7 @@
     "location": "Remote",
     "department": "GTM",
     "active": true,
-    "slug": "role1f1eb"
+    "slug": "creative4"
   },
   {
     "id": "37d7acf2-3ce3-48cb-aa89-1120c72680f3",
@@ -945,7 +945,7 @@
     "location": "Remote",
     "department": "GTM",
     "active": true,
-    "slug": "role680f3"
+    "slug": "marketing85129"
   },
   {
     "id": "92085ccf-568e-42ed-b707-3f08cce890a7",
@@ -957,7 +957,7 @@
     "location": "Remote",
     "department": "R&D",
     "active": true,
-    "slug": "role890a7"
+    "slug": "engineer99458"
   },
   {
     "id": "c6fd95f5-d7f8-4297-be2d-e91d19052469",
@@ -981,7 +981,7 @@
     "location": "Remote",
     "department": "R&D",
     "active": true,
-    "slug": "role45ac9"
+    "slug": "product81497"
   },
   {
     "id": "77d16455-292a-4926-a182-58a9e2950c9c",
@@ -993,7 +993,7 @@
     "location": "Remote",
     "department": "R&D",
     "active": true,
-    "slug": "role50c9c"
+    "slug": "engineer99457"
   },
   {
     "id": "923d908d-0afe-44ad-b835-9c009bfa1e1d",
@@ -1005,7 +1005,7 @@
     "location": "Remote",
     "department": "GTM",
     "active": true,
-    "slug": "rolea1e1d"
+    "slug": "social6"
   },
   {
     "id": "5128812a-ca47-4b8e-a59e-57470a298c4b",
@@ -1017,7 +1017,7 @@
     "location": "Australia",
     "department": "Want to work with us?",
     "active": true,
-    "slug": "role98c4b"
+    "slug": "expression1"
   },
   {
     "id": "8029378",
@@ -1257,7 +1257,7 @@
     "location": "Berlin, Berlin, Germany; Netherlands, Netherlands; Zürich, Switzerland",
     "department": "Sales",
     "active": true,
-    "slug": "role89006"
+    "slug": "engineer99455"
   },
   {
     "id": "4606870006",
@@ -1377,7 +1377,7 @@
     "location": "Hong Kong",
     "department": "Sales",
     "active": true,
-    "slug": "role94006"
+    "slug": "sales96032"
   },
   {
     "id": "4698013006",
@@ -1413,7 +1413,7 @@
     "location": "Singapore",
     "department": "Sales",
     "active": true,
-    "slug": "role63006"
+    "slug": "sales96031"
   },
   {
     "id": "4698021006",
@@ -1449,7 +1449,7 @@
     "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
     "department": "Technology & Product",
     "active": true,
-    "slug": "role03006"
+    "slug": "product81486"
   },
   {
     "id": "4652122006",
@@ -1473,7 +1473,7 @@
     "location": "United States",
     "department": "R&D",
     "active": true,
-    "slug": "role33006"
+    "slug": "engineer99454"
   },
   {
     "id": "4692079006",
@@ -1485,7 +1485,7 @@
     "location": "Berlin, Berlin, Germany",
     "department": "Security & IT",
     "active": true,
-    "slug": "role79006"
+    "slug": "grc87007"
   },
   {
     "id": "4695814006",
@@ -1569,7 +1569,7 @@
     "location": "New York",
     "department": "Legal & Compliance",
     "active": true,
-    "slug": "role60006"
+    "slug": "associate83106"
   },
   {
     "id": "4658959006",
@@ -1641,7 +1641,7 @@
     "location": "São Paulo, Brazil",
     "department": "Sales Solutions",
     "active": true,
-    "slug": "role00002"
+    "slug": "engineer99461"
   },
   {
     "id": "8575180002",
@@ -1857,7 +1857,7 @@
     "location": "India",
     "department": "Engineering",
     "active": true,
-    "slug": "role07002"
+    "slug": "manager96058"
   },
   {
     "id": "8350266002",
@@ -1881,7 +1881,7 @@
     "location": "New York, United States; San Francisco, California, United States",
     "department": "Sales",
     "active": true,
-    "slug": "role66002"
+    "slug": "product81496"
   },
   {
     "id": "8584877002",
@@ -1941,7 +1941,7 @@
     "location": "New York, United States",
     "department": "Sales",
     "active": true,
-    "slug": "role50002"
+    "slug": "product81495"
   },
   {
     "id": "8627534002",
@@ -1953,7 +1953,7 @@
     "location": "Singapore",
     "department": "Legal",
     "active": true,
-    "slug": "role34002"
+    "slug": "associate83108"
   },
   {
     "id": "7821447002",
@@ -1977,7 +1977,7 @@
     "location": "Bangalore - DD",
     "department": "People Corp",
     "active": true,
-    "slug": "role0958b"
+    "slug": "specialist8"
   },
   {
     "id": "ecd7a54f-218c-47a0-8379-aeb272c35bcb",
@@ -1989,7 +1989,7 @@
     "location": "Bangalore - DD",
     "department": "People Corp",
     "active": true,
-    "slug": "role35bcb"
+    "slug": "specialist9"
   },
   {
     "id": "fed5c9f3-42ae-4bf8-89b7-2b7edb333af4",
@@ -2001,7 +2001,7 @@
     "location": "Hyderabad",
     "department": "Axon PC",
     "active": true,
-    "slug": "role33af4"
+    "slug": "manager96057"
   },
   {
     "id": "aa98c726-9336-4d99-be08-20050eaf309c",
@@ -2013,7 +2013,7 @@
     "location": "Mumbai",
     "department": "Corp IT",
     "active": true,
-    "slug": "rolef309c"
+    "slug": "executive2"
   },
   {
     "id": "367dd077-3ce8-4b7b-bc9f-1726f49ffbce",
@@ -2025,7 +2025,7 @@
     "location": "Bangalore - WF",
     "department": "Corp IT",
     "active": true,
-    "slug": "roleffbce"
+    "slug": "executive1"
   },
   {
     "id": "dad16204-8051-4517-9e50-966f329045b5",
@@ -2037,7 +2037,7 @@
     "location": "Hyderabad",
     "department": "Global SRE",
     "active": true,
-    "slug": "role045b5"
+    "slug": "engineer99462"
   },
   {
     "id": "8068918",
@@ -2097,7 +2097,7 @@
     "location": "USA",
     "department": "Engineering",
     "active": true,
-    "slug": "role5bce6"
+    "slug": "security95022"
   },
   {
     "id": "e24c65de-2d96-411d-b102-056998c0d121",
@@ -2109,7 +2109,7 @@
     "location": "USA",
     "department": "Engineering",
     "active": true,
-    "slug": "role0d121"
+    "slug": "frontend90200"
   },
   {
     "id": "6104842004",
@@ -2157,7 +2157,7 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "role1caf3"
+    "slug": "engineer99459"
   },
   {
     "id": "4297209009",
@@ -2289,7 +2289,7 @@
     "location": "Bengaluru, India",
     "department": "Quality Engineering",
     "active": true,
-    "slug": "roleineer"
+    "slug": "engineer99460"
   },
   {
     "id": "mn-test-engineer---automation",
@@ -2373,7 +2373,7 @@
     "location": "Remote",
     "department": "Engineering",
     "active": true,
-    "slug": "role54a16"
+    "slug": "supply1"
   },
   {
     "id": "89690714",
@@ -2469,7 +2469,7 @@
     "location": "San Francisco, CA, USA, San Francisco County, CA, USA, California, USA, United States, North America",
     "department": "Engineering",
     "active": true,
-    "slug": "rolef011f"
+    "slug": "capital1"
   },
   {
     "id": "cc5c9238-ff86-4e67-9bed-f15a3e423600",
@@ -2613,7 +2613,7 @@
     "location": "Zurich",
     "department": "Product - Apps",
     "active": true,
-    "slug": "role98009"
+    "slug": "product81491"
   },
   {
     "id": "4312897009",
@@ -2649,7 +2649,7 @@
     "location": "New York City, US; Zurich, CH",
     "department": "Product Management",
     "active": true,
-    "slug": "role93009"
+    "slug": "product81489"
   },
   {
     "id": "4303224009",
@@ -2757,7 +2757,7 @@
     "location": "New York City",
     "department": "GTM",
     "active": true,
-    "slug": "role656a0"
+    "slug": "sales96035"
   },
   {
     "id": "d3eadd01-a3cb-459a-8b4a-faa30b111c5d",
@@ -2769,7 +2769,7 @@
     "location": "New York City",
     "department": "Product",
     "active": true,
-    "slug": "role11c5d"
+    "slug": "manager96059"
   },
   {
     "id": "f187c64c-7b4a-4d3c-8247-2057459ac479",
@@ -2793,7 +2793,7 @@
     "location": "US Remote",
     "department": "Product",
     "active": true,
-    "slug": "role3a4aa"
+    "slug": "product81493"
   },
   {
     "id": "3c2cf74d-a6b7-4e07-ac42-84753ead9ce7",
@@ -2805,7 +2805,7 @@
     "location": "Bengaluru, India (On-site)",
     "department": "Compliance",
     "active": true,
-    "slug": "compliancer3c2cf"
+    "slug": "compliance91016"
   },
   {
     "id": "348c3291-ed0a-4179-b046-4d844f983172",
@@ -2817,7 +2817,7 @@
     "location": "Bengaluru, India (On-site)",
     "department": "Product",
     "active": true,
-    "slug": "product348c3"
+    "slug": "product81490"
   },
   {
     "id": "a8daab4f-a1d5-4139-9ba5-2390b48ee5f6",
@@ -2829,7 +2829,7 @@
     "location": "Bengaluru, India / Remote",
     "department": "Business Development",
     "active": true,
-    "slug": "managera8daa"
+    "slug": "product81492"
   },
   {
     "id": "7ef5251c-7aba-42c4-bbee-f910e85f97f1",
@@ -2841,7 +2841,7 @@
     "location": "Bengaluru, India (On-site)",
     "department": "Product & Compliance",
     "active": true,
-    "slug": "product7ef52"
+    "slug": "product81494"
   },
   {
     "id": "2e083960-894c-4bdd-aee6-1c586c055d08",
@@ -2853,7 +2853,7 @@
     "location": "Bengaluru, India (Hybrid)",
     "department": "Communications",
     "active": true,
-    "slug": "associate2e083"
+    "slug": "associate83107"
   },
   {
     "id": "10ddbf5a-4d2e-48b3-bb38-d928e484766d",
@@ -2865,7 +2865,7 @@
     "location": "Bengaluru, India (On-site)",
     "department": "Operations & Support",
     "active": true,
-    "slug": "associate10ddb"
+    "slug": "customer74753"
   },
   {
     "id": "e3cc90e9-7052-4c0d-90e9-fb5dd6e2e826",
@@ -2877,7 +2877,7 @@
     "location": "Bengaluru, India (Hybrid)",
     "department": "Marketing",
     "active": true,
-    "slug": "marketinge3cc9"
+    "slug": "product81498"
   },
   {
     "id": "c3d57b4e-d0e2-47b0-b902-3b6e094ce650",
@@ -3009,7 +3009,7 @@
     "location": "Remote: Poland, Portugal, Spain, UAE",
     "department": "Crypto Compliance",
     "active": true,
-    "slug": "compliancee9df3"
+    "slug": "compliance91018"
   },
   {
     "id": "ef7bd853-526b-47ec-b506-d25ca9298dcc",
@@ -3021,7 +3021,7 @@
     "location": "Barcelona, Dubai, London, Madrid (Remote: Portugal, Spain, UAE, UK)",
     "department": "Crypto Marketing",
     "active": true,
-    "slug": "marketingef7bd"
+    "slug": "product81499"
   },
   {
     "id": "7c9aa5ba-25c6-48bf-a06e-be2957f4818f",
@@ -3033,7 +3033,7 @@
     "location": "Remote: Luxembourg",
     "department": "Crypto Finance",
     "active": true,
-    "slug": "manager7c9aa"
+    "slug": "head94018"
   },
   {
     "id": "c7078b70-e10b-4f47-b983-bbe6d08d098a",
@@ -3057,7 +3057,7 @@
     "location": "Remote: Cyprus",
     "department": "Crypto Security & Engineering",
     "active": true,
-    "slug": "securityb195b"
+    "slug": "security95023"
   },
   {
     "id": "1f673184-3fe0-4a7b-9593-d7ecbe0fcc09",
@@ -3069,7 +3069,7 @@
     "location": "Bangalore, Barcelona, Dubai, Krakow, Lisbon, London, Madrid, Mumbai, Vilnius (Remote / Hybrid)",
     "department": "Crypto & Digital Assets",
     "active": true,
-    "slug": "operations1f673"
+    "slug": "manager96060"
   },
   {
     "id": "262a0e4b-1d46-4812-8afc-550f5fef265b",
@@ -3080,7 +3080,8 @@
     "source": "MokaHR: KuCoin [kcareers]",
     "location": "China",
     "department": "Asset Management Team",
-    "active": true
+    "active": true,
+    "slug": "sales96034"
   },
   {
     "id": "2e09e40b-e47d-403f-9d76-fb01b026f1ba",
