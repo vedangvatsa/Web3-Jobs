@@ -44,6 +44,7 @@ function isAtsHostname(hostname: string): boolean {
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'circle': 'https://circle.com',
  'coinmarketcap': 'https://coinmarketcap.com',
+ 'kucoin': 'https://www.kucoin.com',
  'nethermind': 'https://nethermind.io',
  'dydx': 'https://dydx.exchange',
  'matter-labs': 'https://matter-labs.io',
