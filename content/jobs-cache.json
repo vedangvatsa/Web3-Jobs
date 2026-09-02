@@ -1,5 +1,105 @@
 [
   {
+    "id": "pancakeswap-bd-lead",
+    "title": "Business Development Lead",
+    "company": "PancakeSwap",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-08-25",
+    "source": "firstparty:pancakeswap",
+    "link": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead",
+    "applyUrl": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead",
+    "department": "Business Development",
+    "skills": [
+      "Business Development",
+      "DeFi Strategy",
+      "Ecosystem Growth",
+      "Leadership"
+    ],
+    "slug": "sales96036"
+  },
+  {
+    "id": "pancakeswap-bd-manager-amm",
+    "title": "Business Development Manager (AMM)",
+    "company": "PancakeSwap",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-08-22",
+    "source": "firstparty:pancakeswap",
+    "link": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1",
+    "applyUrl": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1",
+    "department": "Business Development",
+    "skills": [
+      "Automated Market Makers",
+      "DEX",
+      "DeFi Ecosystem",
+      "Partnerships"
+    ],
+    "slug": "manager96062"
+  },
+  {
+    "id": "pancakeswap-product-marketing-manager",
+    "title": "Product Marketing Manager",
+    "company": "PancakeSwap",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-08-20",
+    "source": "firstparty:pancakeswap",
+    "link": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-2",
+    "applyUrl": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-2",
+    "department": "Marketing",
+    "skills": [
+      "Product Marketing",
+      "Growth",
+      "DeFi",
+      "Content Strategy",
+      "Community"
+    ],
+    "slug": "product81501"
+  },
+  {
+    "id": "pancakeswap-bd-manager-liquidity-hub",
+    "title": "Business Development Manager (Liquidity Hub)",
+    "company": "PancakeSwap",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-08-18",
+    "source": "firstparty:pancakeswap",
+    "link": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1",
+    "applyUrl": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/business-development-lead-1-1",
+    "department": "Business Development",
+    "skills": [
+      "DeFi",
+      "Liquidity Management",
+      "Market Making",
+      "Partnerships",
+      "AMM"
+    ],
+    "slug": "manager96061"
+  },
+  {
+    "id": "pancakeswap-sr-backend-dev",
+    "title": "Senior Back End Developer (DeFi)",
+    "company": "PancakeSwap",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-08-15",
+    "source": "firstparty:pancakeswap",
+    "link": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1-1",
+    "applyUrl": "https://docs.pancakeswap.finance/welcome-to-pancakeswap/about-us/team/become-a-chef/product-manager-1-1",
+    "department": "Engineering",
+    "skills": [
+      "Golang",
+      "Node.js",
+      "Solidity",
+      "DeFi",
+      "DEX",
+      "AMM",
+      "Smart Contracts"
+    ],
+    "slug": "developer74009"
+  },
+  {
     "id": "83f3d425-c5d4-4ef3-882c-7a19b3e2e77b",
     "title": "Web3 Infrastructure Engineer (BNB Chain Middleware)",
     "company": "BNB Chain",
