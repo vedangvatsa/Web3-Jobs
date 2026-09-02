@@ -8,8 +8,8 @@ const app = express();
 const port = 3001;
 
 // Update these with your provided App ID and Secret
-const APP_ID = '1522577345822759';
-const APP_SECRET = 'e4be55e142ff55b6a98cf092ecb3edd6';
+const APP_ID = '1504312414704579';
+const APP_SECRET = '***REMOVED-THREADS-SECRET***';
 
 // HTTPS Redirect URI compliant with Meta Security Rules
 const REDIRECT_URI = `https://hashtagweb3.com/api/auth/threads/callback`;
