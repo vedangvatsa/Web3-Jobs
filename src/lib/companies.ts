@@ -70,6 +70,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'figure': 'https://figure.com',
  'toku': 'https://toku.com',
  'animoca': 'https://animocabrands.com',
+ 'animoca-brands': 'https://animocabrands.com',
  'animocabrands': 'https://animocabrands.com',
  'swan': 'https://swanbitcoin.com',
  'certik': 'https://certik.com',
