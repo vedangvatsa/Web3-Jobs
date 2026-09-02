@@ -3,7 +3,7 @@ import { getJobs } from './jobs';
 import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import * as path from 'path';
-import { cleanPublishText } from './noslop';
+import { cleanPublishText, cleanPublishHtml } from './noslop';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug } from './job-slugs';
@@ -287,7 +287,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   }
   flushList();
   html += '</div>';
-  return html.replace(/#{2,}HEADING###/g, '');
+  return cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
 }
 
 /**
@@ -314,7 +314,7 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">Application Details</h3>\n`;
   html += `<p class="leading-relaxed text-muted-foreground">This opening is verified directly against official applicant tracking feeds. Click the <strong>Apply</strong> button above to review complete qualifications and submit your application directly on the official ${escapeHtml(job.company)} hiring portal.</p>\n`;
   html += `</div>`;
-  return html;
+  return cleanPublishHtml(html);
 }
 
 export function buildUniqueJobMetaDescription(job: Job): string {
