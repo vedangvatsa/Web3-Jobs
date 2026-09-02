@@ -4,8 +4,13 @@ website: 'https://mycrypto.com'
 category: Wallet
 logo: 'https://www.google.com/s2/favicons?domain=mycrypto.com&sz=64'
 description: >-
-  MyCrypto is an open-source, client-side Ethereum interface and wallet manager,
-  allowing users to securely generate wallets, interact with smart contracts,
-  and manage digital assets.
+  MyCrypto is a premier Wallet company building mission-critical blockchain
+  infrastructure, decentralized applications, and high-performance Web3
+  solutions for users and institutions globally.
 ---
 MyCrypto provides secure tools for direct Ethereum blockchain interaction, hardware wallet integration, and transaction management.
+
+### About MyCrypto
+MyCrypto is a leading organization in the Wallet space, pioneering decentralized technologies, protocol security, and next-generation blockchain infrastructure. The company builds resilient products designed for global scalability, high performance, and trust-minimized user sovereignty.
+
+Operating across international digital asset markets, MyCrypto collaborates with developers, institutional partners, and ecosystem contributors to advance open-source software, decentralized finance, and distributed consensus. The organization fosters a high-impact engineering and product culture focused on shipping secure, user-centric Web3 applications, continuous technological innovation, and sustainable ecosystem growth.

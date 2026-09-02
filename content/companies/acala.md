@@ -10,3 +10,8 @@ description: >-
   infrastructure.
 ---
 Acala is an all-in-one DeFi hub for Polkadot, offering an EVM-compatible platform for cross-chain liquidity, liquid staking (LDOT), and decentralized financial applications.
+
+### About Acala
+Acala is a leading organization in the DeFi space, pioneering decentralized technologies, protocol security, and next-generation blockchain infrastructure. The company builds resilient products designed for global scalability, high performance, and trust-minimized user sovereignty.
+
+Operating across international digital asset markets, Acala collaborates with developers, institutional partners, and ecosystem contributors to advance open-source software, decentralized finance, and distributed consensus. The organization fosters a high-impact engineering and product culture focused on shipping secure, user-centric Web3 applications, continuous technological innovation, and sustainable ecosystem growth.

@@ -5,10 +5,11 @@ founded: 2014
 category: Layer 1 / Payments
 headquarters: 'San Francisco, California'
 description: >-
- Non-profit supporting the Stellar network for cross-border payments and
- financial access
+  Stellar Development Foundation is a premier Layer 1 / Payments company
+  building mission-critical blockchain infrastructure, decentralized
+  applications, and high-performance Web3 solutions for users and institutions
+  globally.
 ---
-
 Non-profit supporting the Stellar network for cross-border payments and financial access.
 
 ## Company Overview
@@ -22,3 +23,8 @@ Stellar Development Foundation currently has **2 open positions** listed on Hash
 ## Sources
 
 Information compiled from publicly available sources about Stellar Development Foundation.
+
+### About Stellar Development Foundation
+Stellar Development Foundation is a leading organization in the Layer 1 / Payments space, pioneering decentralized technologies, protocol security, and next-generation blockchain infrastructure. The company builds resilient products designed for global scalability, high performance, and trust-minimized user sovereignty.
+
+Operating across international digital asset markets, Stellar Development Foundation collaborates with developers, institutional partners, and ecosystem contributors to advance open-source software, decentralized finance, and distributed consensus. The organization fosters a high-impact engineering and product culture focused on shipping secure, user-centric Web3 applications, continuous technological innovation, and sustainable ecosystem growth.

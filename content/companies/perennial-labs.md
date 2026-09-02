@@ -4,8 +4,13 @@ website: 'https://equilibria.xyz'
 category: DeFi
 logo: 'https://www.google.com/s2/favicons?domain=equilibria.xyz&sz=64'
 description: >-
-  Perennial Labs is the developer of Perennial, a decentralized derivatives
-  protocol providing low-cost, capital-efficient perpetuals with customizable
-  automated market makers.
+  Perennial Labs is a premier DeFi company building mission-critical blockchain
+  infrastructure, decentralized applications, and high-performance Web3
+  solutions for users and institutions globally.
 ---
 Perennial serves as an open infrastructure layer for synthetic derivatives and programmatic market making on Ethereum Layer 2s.
+
+### About Perennial Labs
+Perennial Labs is a leading organization in the DeFi space, pioneering decentralized technologies, protocol security, and next-generation blockchain infrastructure. The company builds resilient products designed for global scalability, high performance, and trust-minimized user sovereignty.
+
+Operating across international digital asset markets, Perennial Labs collaborates with developers, institutional partners, and ecosystem contributors to advance open-source software, decentralized finance, and distributed consensus. The organization fosters a high-impact engineering and product culture focused on shipping secure, user-centric Web3 applications, continuous technological innovation, and sustainable ecosystem growth.
