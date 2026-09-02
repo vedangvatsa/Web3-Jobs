@@ -1,6 +1,6 @@
 ---
 name: Lightcone
-website: 'https://lightcone.io'
+website: 'https://lightcone.org'
 founded: 2023
 category: Infrastructure
 headquarters: Remote
