@@ -106,25 +106,25 @@
       "uri": "ui://hashtagweb3.com/jobs",
       "name": "Web3 Jobs Directory UI",
       "description": "Interactive UI showing the latest Web3 and blockchain job listings.",
-      "mimeType": "text/html"
+      "mimeType": "text/html;profile=mcp-app"
     },
     {
       "uri": "ui://hashtagweb3.com/glossary",
       "name": "Web3 Glossary UI",
       "description": "Interactive UI directory for Web3 concepts, terms, and definitions.",
-      "mimeType": "text/html"
+      "mimeType": "text/html;profile=mcp-app"
     },
     {
       "uri": "ui://hashtagweb3.com/news",
       "name": "Crypto News UI",
       "description": "Interactive UI feed for the latest crypto news headlines.",
-      "mimeType": "text/html"
+      "mimeType": "text/html;profile=mcp-app"
     },
     {
       "uri": "ui://hashtagweb3.com/events",
       "name": "Web3 Events Calendar UI",
       "description": "Interactive calendar listing upcoming blockchain and crypto conferences.",
-      "mimeType": "text/html"
+      "mimeType": "text/html;profile=mcp-app"
     },
     {
       "uri": "hashtagweb3://jobs/latest",
