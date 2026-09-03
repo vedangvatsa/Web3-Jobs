@@ -203,26 +203,67 @@ export default async function RootLayout({
      />
     <Script
       id="webmcp-registration"
-      strategy="lazyOnload"
+      strategy="beforeInteractive"
       dangerouslySetInnerHTML={{
         __html: `
-          if (typeof window !== 'undefined') {
-            try {
-              const mc = window.modelContext || document.modelContext || navigator.modelContext;
-              if (mc && typeof mc.registerTool === 'function') {
-                mc.registerTool({
-                  name: 'search_jobs',
-                  description: 'Search verified Web3, crypto, DeFi, and blockchain jobs',
-                  parameters: { type: 'object', properties: { search: { type: 'string' }, limit: { type: 'number' } } }
-                });
-                mc.registerTool({
-                  name: 'search_glossary',
-                  description: 'Search 200+ blockchain glossary definitions',
-                  parameters: { type: 'object', properties: { search: { type: 'string' } } }
-                });
-              }
-            } catch(e){}
-          }
+          (function() {
+            if (typeof window === 'undefined') return;
+            function registerWebMCPTools(mc) {
+              if (!mc) return;
+              try {
+                if (typeof mc.registerTool === 'function') {
+                  mc.registerTool({
+                    name: 'search_jobs',
+                    description: 'Search verified Web3, crypto, DeFi, and blockchain jobs',
+                    parameters: { type: 'object', properties: { search: { type: 'string' }, tag: { type: 'string' }, limit: { type: 'number' } } },
+                    execute: async function(args) {
+                      const res = await fetch('/api/v1/jobs?search=' + encodeURIComponent(args.search || ''));
+                      return await res.json();
+                    }
+                  });
+                  mc.registerTool({
+                    name: 'search_glossary',
+                    description: 'Search 200+ blockchain glossary definitions',
+                    parameters: { type: 'object', properties: { search: { type: 'string' } } },
+                    execute: async function(args) {
+                      const res = await fetch('/api/v1/glossary?search=' + encodeURIComponent(args.search || ''));
+                      return await res.json();
+                    }
+                  });
+                  mc.registerTool({
+                    name: 'get_events',
+                    description: 'List upcoming Web3 conferences, hackathons, and crypto summits',
+                    parameters: { type: 'object', properties: { search: { type: 'string' } } },
+                    execute: async function(args) {
+                      const res = await fetch('/api/v1/events?search=' + encodeURIComponent(args.search || ''));
+                      return await res.json();
+                    }
+                  });
+                  mc.registerTool({
+                    name: 'get_news',
+                    description: 'Retrieve the latest Web3 and crypto news headlines',
+                    parameters: { type: 'object', properties: { search: { type: 'string' } } },
+                    execute: async function(args) {
+                      const res = await fetch('/api/v1/news?search=' + encodeURIComponent(args.search || ''));
+                      return await res.json();
+                    }
+                  });
+                }
+              } catch(e){}
+            }
+
+            const check = () => {
+              const mc = window.modelContext || document.modelContext || (navigator && navigator.modelContext) || window.webMCP;
+              registerWebMCPTools(mc);
+            };
+
+            if (document.readyState === 'loading') {
+              document.addEventListener('DOMContentLoaded', check);
+            } else {
+              check();
+            }
+            window.addEventListener('modelcontextready', check);
+          })();
         `,
       }}
     />
