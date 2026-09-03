@@ -1,5 +1,1885 @@
 [
   {
+    "id": "greenhouse-grayscale-6659640002",
+    "title": "Not a real job",
+    "company": "Grayscale Investments",
+    "location": "Atlanta - Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:grayscale",
+    "link": "https://job-boards.greenhouse.io/grayscale/jobs/6659640002",
+    "applyUrl": "https://job-boards.greenhouse.io/grayscale/jobs/6659640002",
+    "department": "Grayscale Investments",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job40002"
+  },
+  {
+    "id": "greenhouse-grayscale-8750681002",
+    "title": "Nico test prosp pool",
+    "company": "Grayscale Investments",
+    "location": "Atlanta",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:grayscale",
+    "link": "https://job-boards.greenhouse.io/grayscale/jobs/8750681002",
+    "applyUrl": "https://job-boards.greenhouse.io/grayscale/jobs/8750681002",
+    "department": "Grayscale Investments",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job81002"
+  },
+  {
+    "id": "greenhouse-grayscale-4437277002",
+    "title": "Head Chef",
+    "company": "Grayscale Investments",
+    "location": "ATlanta",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:grayscale",
+    "link": "https://job-boards.greenhouse.io/grayscale/jobs/4437277002",
+    "applyUrl": "https://job-boards.greenhouse.io/grayscale/jobs/4437277002",
+    "department": "Grayscale Investments",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job77002"
+  },
+  {
+    "id": "ashby-oplabs-46fea241-959b-470c-9676-5573c059fc56",
+    "title": "Senior Software Engineer, Protocol (Rust)",
+    "company": "Optimism (OP Labs)",
+    "location": "Remote (Global)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:oplabs",
+    "link": "https://jobs.ashbyhq.com/oplabs/46fea241-959b-470c-9676-5573c059fc56",
+    "applyUrl": "https://jobs.ashbyhq.com/oplabs/46fea241-959b-470c-9676-5573c059fc56",
+    "department": "OP Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "rust9fc56"
+  },
+  {
+    "id": "ashby-oplabs-885091c2-2f56-4d46-aa01-efe49a065dee",
+    "title": "Blockchain Solutions Architect",
+    "company": "Optimism (OP Labs)",
+    "location": "New York",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:oplabs",
+    "link": "https://jobs.ashbyhq.com/oplabs/885091c2-2f56-4d46-aa01-efe49a065dee",
+    "applyUrl": "https://jobs.ashbyhq.com/oplabs/885091c2-2f56-4d46-aa01-efe49a065dee",
+    "department": "OP Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job65dee"
+  },
+  {
+    "id": "ashby-oplabs-e4e358f3-e712-4d41-a90e-2b1e8e6b89bf",
+    "title": "Institutional Sales Lead",
+    "company": "Optimism (OP Labs)",
+    "location": "New York",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:oplabs",
+    "link": "https://jobs.ashbyhq.com/oplabs/e4e358f3-e712-4d41-a90e-2b1e8e6b89bf",
+    "applyUrl": "https://jobs.ashbyhq.com/oplabs/e4e358f3-e712-4d41-a90e-2b1e8e6b89bf",
+    "department": "OP Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "managerb89bf"
+  },
+  {
+    "id": "ashby-oplabs-86f3dd6e-f750-43a2-b2c2-a02950e4be91",
+    "title": "Solutions Engineer, Japan",
+    "company": "Optimism (OP Labs)",
+    "location": "Japan",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:oplabs",
+    "link": "https://jobs.ashbyhq.com/oplabs/86f3dd6e-f750-43a2-b2c2-a02950e4be91",
+    "applyUrl": "https://jobs.ashbyhq.com/oplabs/86f3dd6e-f750-43a2-b2c2-a02950e4be91",
+    "department": "OP Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job4be91"
+  },
+  {
+    "id": "ashby-oplabs-2efc00b0-0b5c-4d94-b842-c15acb62fbf2",
+    "title": "Sr. Product Manager, Fintechs & Exchanges",
+    "company": "Optimism (OP Labs)",
+    "location": "SF or NY",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:oplabs",
+    "link": "https://jobs.ashbyhq.com/oplabs/2efc00b0-0b5c-4d94-b842-c15acb62fbf2",
+    "applyUrl": "https://jobs.ashbyhq.com/oplabs/2efc00b0-0b5c-4d94-b842-c15acb62fbf2",
+    "department": "OP Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "product2fbf2"
+  },
+  {
+    "id": "lever-ethena-f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
+    "title": "Senior Software Engineer",
+    "company": "Ethena Labs",
+    "location": "Remote",
+    "type": "Full Time",
+    "date": "2026-09-03",
+    "source": "lever:ethena",
+    "link": "https://jobs.lever.co/ethena/f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
+    "applyUrl": "https://jobs.lever.co/ethena/f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
+    "department": "Ethena Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job14c65"
+  },
+  {
+    "id": "lever-ethena-7974afd4-c173-4086-9d2c-78c2349c6f62",
+    "title": "Senior Product Marketing Manager",
+    "company": "Ethena Labs",
+    "location": "Remote",
+    "type": "Full Time",
+    "date": "2026-09-03",
+    "source": "lever:ethena",
+    "link": "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62",
+    "applyUrl": "https://jobs.lever.co/ethena/7974afd4-c173-4086-9d2c-78c2349c6f62",
+    "department": "Ethena Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "productc6f62"
+  },
+  {
+    "id": "lever-ethena-961ebde4-46c4-44b6-b502-55fcd56d17b6",
+    "title": "Sales Engineer",
+    "company": "Ethena Labs",
+    "location": "Remote",
+    "type": "Full Time",
+    "date": "2026-09-03",
+    "source": "lever:ethena",
+    "link": "https://jobs.lever.co/ethena/961ebde4-46c4-44b6-b502-55fcd56d17b6",
+    "applyUrl": "https://jobs.lever.co/ethena/961ebde4-46c4-44b6-b502-55fcd56d17b6",
+    "department": "Ethena Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobd17b6"
+  },
+  {
+    "id": "lever-ethena-f7d6502a-c493-47c0-895a-f359066aca52",
+    "title": "Keep me in mind!",
+    "company": "Ethena Labs",
+    "location": "Remote",
+    "type": "Full Time",
+    "date": "2026-09-03",
+    "source": "lever:ethena",
+    "link": "https://jobs.lever.co/ethena/f7d6502a-c493-47c0-895a-f359066aca52",
+    "applyUrl": "https://jobs.lever.co/ethena/f7d6502a-c493-47c0-895a-f359066aca52",
+    "department": "Ethena Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobaca52"
+  },
+  {
+    "id": "lever-ethena-00f8b681-2d71-497b-9cde-96785ed0dcdb",
+    "title": "Customer Marketing Manager",
+    "company": "Ethena Labs",
+    "location": "Remote",
+    "type": "Full Time",
+    "date": "2026-09-03",
+    "source": "lever:ethena",
+    "link": "https://jobs.lever.co/ethena/00f8b681-2d71-497b-9cde-96785ed0dcdb",
+    "applyUrl": "https://jobs.lever.co/ethena/00f8b681-2d71-497b-9cde-96785ed0dcdb",
+    "department": "Ethena Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager0dcdb"
+  },
+  {
+    "id": "lever-ethena-64085e15-d6a0-4918-bad8-4064c251a50f",
+    "title": "Account Executive",
+    "company": "Ethena Labs",
+    "location": "Remote",
+    "type": "Full Time",
+    "date": "2026-09-03",
+    "source": "lever:ethena",
+    "link": "https://jobs.lever.co/ethena/64085e15-d6a0-4918-bad8-4064c251a50f",
+    "applyUrl": "https://jobs.lever.co/ethena/64085e15-d6a0-4918-bad8-4064c251a50f",
+    "department": "Ethena Labs",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job1a50f"
+  },
+  {
+    "id": "lever-offchainlabs-52c01c91-582c-42fc-8722-82c3eeb9ed24",
+    "title": "Vice President of Marketing",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/52c01c91-582c-42fc-8722-82c3eeb9ed24",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/52c01c91-582c-42fc-8722-82c3eeb9ed24",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job9ed24"
+  },
+  {
+    "id": "lever-offchainlabs-ba06452d-31d5-4ed0-8330-415a0904f4eb",
+    "title": "Senior PR & Communications Manager",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/ba06452d-31d5-4ed0-8330-415a0904f4eb",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/ba06452d-31d5-4ed0-8330-415a0904f4eb",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager4f4eb"
+  },
+  {
+    "id": "lever-offchainlabs-5dc0b755-8c1f-43c8-b268-df4b372a31d1",
+    "title": "Senior Penetration Tester (AWS)",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/5dc0b755-8c1f-43c8-b268-df4b372a31d1",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/5dc0b755-8c1f-43c8-b268-df4b372a31d1",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "joba31d1"
+  },
+  {
+    "id": "lever-offchainlabs-163e72c9-cf90-406a-9311-6ee1d743ae84",
+    "title": "Senior Backend Engineer, Rust",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/163e72c9-cf90-406a-9311-6ee1d743ae84",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/163e72c9-cf90-406a-9311-6ee1d743ae84",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "rust3ae84"
+  },
+  {
+    "id": "lever-offchainlabs-ea44f500-981b-4d7e-9203-3ada1dc12365",
+    "title": "Senior Backend Engineer, Developer Platform",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/ea44f500-981b-4d7e-9203-3ada1dc12365",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/ea44f500-981b-4d7e-9203-3ada1dc12365",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "backend12365"
+  },
+  {
+    "id": "lever-offchainlabs-82c41afd-b4be-40d2-8bc2-3f299ced3c4a",
+    "title": "Senior Backend Engineer",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/82c41afd-b4be-40d2-8bc2-3f299ced3c4a",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/82c41afd-b4be-40d2-8bc2-3f299ced3c4a",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "backendd3c4a"
+  },
+  {
+    "id": "lever-offchainlabs-d7724d91-fc91-4697-baf3-008de0ee5e37",
+    "title": "Security Engineer",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/d7724d91-fc91-4697-baf3-008de0ee5e37",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/d7724d91-fc91-4697-baf3-008de0ee5e37",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "securitye5e37"
+  },
+  {
+    "id": "lever-offchainlabs-9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
+    "title": "Head of Solutions Engineering",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/9a31d73b-3ee1-44cd-a415-f9fa11fdff4f",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobdff4f"
+  },
+  {
+    "id": "lever-offchainlabs-4a9df0ee-1296-4366-b2b9-6a1d1f3da7fd",
+    "title": "Head of Enterprise",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/4a9df0ee-1296-4366-b2b9-6a1d1f3da7fd",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/4a9df0ee-1296-4366-b2b9-6a1d1f3da7fd",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobda7fd"
+  },
+  {
+    "id": "lever-offchainlabs-ccd3b5d3-1797-4a06-98ae-22a6937ab8c8",
+    "title": "Director of Accounting",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "New York City, NY",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/ccd3b5d3-1797-4a06-98ae-22a6937ab8c8",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/ccd3b5d3-1797-4a06-98ae-22a6937ab8c8",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobab8c8"
+  },
+  {
+    "id": "greenhouse-ritual-4815356007",
+    "title": "Validator Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4815356007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4815356007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job56007"
+  },
+  {
+    "id": "greenhouse-ritual-4614256007",
+    "title": "TEE Specialist",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4614256007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4614256007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job56007"
+  },
+  {
+    "id": "greenhouse-ritual-4068271007",
+    "title": "Software Engineer Intern",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4068271007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4068271007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job71007"
+  },
+  {
+    "id": "greenhouse-ritual-4135728007",
+    "title": "Smart Contract Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4135728007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4135728007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job28007"
+  },
+  {
+    "id": "greenhouse-ritual-4358496007",
+    "title": "Research Intern",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4358496007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4358496007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job96007"
+  },
+  {
+    "id": "greenhouse-ritual-4029531007",
+    "title": "Machine Learning Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4029531007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4029531007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job31007"
+  },
+  {
+    "id": "greenhouse-ritual-4635587007",
+    "title": "Legal Counsel",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4635587007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4635587007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "compliance87007"
+  },
+  {
+    "id": "greenhouse-ritual-4324604007",
+    "title": "Growth Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4324604007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4324604007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job04007"
+  },
+  {
+    "id": "greenhouse-ritual-4083940007",
+    "title": "Frontend Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4083940007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4083940007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "frontend40007"
+  },
+  {
+    "id": "greenhouse-ritual-4614234007",
+    "title": "Ecosystem Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4614234007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4614234007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job34007"
+  },
+  {
+    "id": "greenhouse-ritual-4135918007",
+    "title": "Don't see a role that fits?",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4135918007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4135918007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job18007"
+  },
+  {
+    "id": "greenhouse-ritual-4609616007",
+    "title": "Distributed Systems Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4609616007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4609616007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job16007"
+  },
+  {
+    "id": "greenhouse-ritual-4614247007",
+    "title": "Developer Experience Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4614247007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4614247007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job47007"
+  },
+  {
+    "id": "greenhouse-ritual-4614221007",
+    "title": "Core Protocol Engineer",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4614221007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4614221007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job21007"
+  },
+  {
+    "id": "greenhouse-ritual-4981486007",
+    "title": "Controller",
+    "company": "Ritual (AI + Web3)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:ritual",
+    "link": "https://job-boards.greenhouse.io/ritual/jobs/4981486007",
+    "applyUrl": "https://job-boards.greenhouse.io/ritual/jobs/4981486007",
+    "department": "Ritual (AI + Web3)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job86007"
+  },
+  {
+    "id": "ashby-injective-fead0b21-3b6f-405e-9e19-569e62ff28cf",
+    "title": "Social Media Intern",
+    "company": "Injective",
+    "location": "New York",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/fead0b21-3b6f-405e-9e19-569e62ff28cf",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/fead0b21-3b6f-405e-9e19-569e62ff28cf",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobf28cf"
+  },
+  {
+    "id": "ashby-injective-01f72c59-0387-48db-b456-952f30bd0aa1",
+    "title": "Digital Designer",
+    "company": "Injective",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/01f72c59-0387-48db-b456-952f30bd0aa1",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/01f72c59-0387-48db-b456-952f30bd0aa1",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobd0aa1"
+  },
+  {
+    "id": "ashby-injective-7add78e0-c81c-4b16-bc9c-ee105c055e13",
+    "title": "Institutional Business Development Manager",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/7add78e0-c81c-4b16-bc9c-ee105c055e13",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/7add78e0-c81c-4b16-bc9c-ee105c055e13",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager55e13"
+  },
+  {
+    "id": "ashby-injective-6da433cc-9075-4faa-9ef0-0e94652a20ba",
+    "title": "Mobile App Developer (Injective Labs)",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/6da433cc-9075-4faa-9ef0-0e94652a20ba",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/6da433cc-9075-4faa-9ef0-0e94652a20ba",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "joba20ba"
+  },
+  {
+    "id": "ashby-injective-412a0e3c-f0f8-4f55-a0ec-ed092272ec1c",
+    "title": "QA Engineer (Injective Labs)",
+    "company": "Injective",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/412a0e3c-f0f8-4f55-a0ec-ed092272ec1c",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/412a0e3c-f0f8-4f55-a0ec-ed092272ec1c",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job2ec1c"
+  },
+  {
+    "id": "ashby-injective-00aacb23-0dfc-41ae-a40d-5eb1badc3863",
+    "title": "Product Designer (Injective Labs)",
+    "company": "Injective",
+    "location": "US Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/00aacb23-0dfc-41ae-a40d-5eb1badc3863",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/00aacb23-0dfc-41ae-a40d-5eb1badc3863",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "productc3863"
+  },
+  {
+    "id": "ashby-injective-85beb789-83e8-4167-83f5-6bdd542b0476",
+    "title": "Paralegal (Injective Labs)",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/85beb789-83e8-4167-83f5-6bdd542b0476",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/85beb789-83e8-4167-83f5-6bdd542b0476",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "complianceb0476"
+  },
+  {
+    "id": "ashby-injective-8fd87fb8-0b72-428d-b346-1abe067c4e28",
+    "title": "Protocol Engineer (Injective Labs)",
+    "company": "Injective",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/8fd87fb8-0b72-428d-b346-1abe067c4e28",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/8fd87fb8-0b72-428d-b346-1abe067c4e28",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobc4e28"
+  },
+  {
+    "id": "ashby-injective-e8db1d02-2643-4dc4-835a-b07577f14de0",
+    "title": "General Opening — Create Your Own Role!",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/e8db1d02-2643-4dc4-835a-b07577f14de0",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/e8db1d02-2643-4dc4-835a-b07577f14de0",
+    "department": "Other Opportunities",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job14de0"
+  },
+  {
+    "id": "ashby-injective-6d9f0316-873a-41a5-9971-b981b1b85430",
+    "title": "Senior Technical Product Manager (Injective Labs)",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/6d9f0316-873a-41a5-9971-b981b1b85430",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/6d9f0316-873a-41a5-9971-b981b1b85430",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "product85430"
+  },
+  {
+    "id": "ashby-injective-1774439c-c692-4de9-a4f4-87b713e9d5d4",
+    "title": "Front-End Developer (Injective Labs)",
+    "company": "Injective",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/1774439c-c692-4de9-a4f4-87b713e9d5d4",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/1774439c-c692-4de9-a4f4-87b713e9d5d4",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job9d5d4"
+  },
+  {
+    "id": "ashby-injective-dc7ac5c8-b342-48a8-b6ef-3d1c37b48605",
+    "title": "Quant Researcher (Injective Labs)",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/dc7ac5c8-b342-48a8-b6ef-3d1c37b48605",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/dc7ac5c8-b342-48a8-b6ef-3d1c37b48605",
+    "department": "Other Teams",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "quant48605"
+  },
+  {
+    "id": "ashby-injective-400dd15a-6abc-4a27-aaa7-c7f545fbad4d",
+    "title": "Accounting Manager",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/400dd15a-6abc-4a27-aaa7-c7f545fbad4d",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/400dd15a-6abc-4a27-aaa7-c7f545fbad4d",
+    "department": "Accounting & Finance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "managerbad4d"
+  },
+  {
+    "id": "ashby-injective-e69f178e-b6fd-481c-9c81-2926fcfb0512",
+    "title": "Growth Marketing Manager",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/e69f178e-b6fd-481c-9c81-2926fcfb0512",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/e69f178e-b6fd-481c-9c81-2926fcfb0512",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "managerb0512"
+  },
+  {
+    "id": "ashby-injective-681fbee9-ce5d-436b-ae15-df1b3102918b",
+    "title": "Social Media and Influencer Marketing Manager",
+    "company": "Injective",
+    "location": "New York or Remote (US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/681fbee9-ce5d-436b-ae15-df1b3102918b",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/681fbee9-ce5d-436b-ae15-df1b3102918b",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager2918b"
+  },
+  {
+    "id": "ashby-injective-5ee51522-d62e-42fc-b408-2b029cc6d0f4",
+    "title": "PR and Communications Manager",
+    "company": "Injective",
+    "location": "New York",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:injective",
+    "link": "https://jobs.ashbyhq.com/injective/5ee51522-d62e-42fc-b408-2b029cc6d0f4",
+    "applyUrl": "https://jobs.ashbyhq.com/injective/5ee51522-d62e-42fc-b408-2b029cc6d0f4",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager6d0f4"
+  },
+  {
+    "id": "greenhouse-a16z-7619570003",
+    "title": "Software Engineer (Partner 16, Partner 18), Backend, ASG",
+    "company": "a16z crypto",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7619570003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7619570003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "backend70003"
+  },
+  {
+    "id": "greenhouse-a16z-7982026003",
+    "title": "Partner 6, Executive Assistant, Crypto ",
+    "company": "a16z crypto",
+    "location": "New York, New York, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7982026003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7982026003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job26003"
+  },
+  {
+    "id": "greenhouse-a16z-6611878003",
+    "title": "Partner 34, Communications Partner, Bio",
+    "company": "a16z crypto",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=6611878003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=6611878003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job78003"
+  },
+  {
+    "id": "greenhouse-a16z-7738097003",
+    "title": "Partner 32, Assistant Controller, Crypto",
+    "company": "a16z crypto",
+    "location": "Menlo Park, California, United States; San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738097003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7738097003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job97003"
+  },
+  {
+    "id": "greenhouse-a16z-7787448003",
+    "title": "Partner 22, Speedrun Growth",
+    "company": "a16z crypto",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7787448003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7787448003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job48003"
+  },
+  {
+    "id": "greenhouse-a16z-7738118003",
+    "title": "Partner 22, GTM Executive Talent ",
+    "company": "a16z crypto",
+    "location": "Menlo Park, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738118003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7738118003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "recruiter18003"
+  },
+  {
+    "id": "greenhouse-a16z-7698497003",
+    "title": "Partner 22, Events, New Media",
+    "company": "a16z crypto",
+    "location": "Menlo Park, California, United States; New York, New York, United States; San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7698497003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7698497003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job97003"
+  },
+  {
+    "id": "greenhouse-a16z-7758803003",
+    "title": "Partner 20, Staff Engineer, Security Automation",
+    "company": "a16z crypto",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7758803003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7758803003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security03003"
+  },
+  {
+    "id": "greenhouse-a16z-7738658003",
+    "title": "Partner 20, Staff Engineer, Incident Response",
+    "company": "a16z crypto",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738658003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7738658003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job58003"
+  },
+  {
+    "id": "greenhouse-a16z-7738096003",
+    "title": "Partner 20, Design Systems Lead",
+    "company": "a16z crypto",
+    "location": "New York, New York, United States; San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7738096003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7738096003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager96003"
+  },
+  {
+    "id": "greenhouse-a16z-7763203003",
+    "title": "Partner 18, IT Engineer, San Francisco/Menlo Park",
+    "company": "a16z crypto",
+    "location": "Menlo Park, California, United States; San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7763203003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7763203003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job03003"
+  },
+  {
+    "id": "greenhouse-a16z-7597930003",
+    "title": "Partner 18, Associate, Business Development, Healthcare",
+    "company": "a16z crypto",
+    "location": "New York, New York, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7597930003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7597930003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "associate30003"
+  },
+  {
+    "id": "greenhouse-a16z-7724142003",
+    "title": "DevX Software Engineer (Partner 16, Partner 18), ASG",
+    "company": "a16z crypto",
+    "location": "San Francisco, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7724142003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7724142003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job42003"
+  },
+  {
+    "id": "greenhouse-a16z-7718684003",
+    "title": "Contractor, GTM Coordinator",
+    "company": "a16z crypto",
+    "location": "Menlo Park, California, United States",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "greenhouse:a16z",
+    "link": "https://a16z.com/about/jobs/?gh_jid=7718684003",
+    "applyUrl": "https://a16z.com/about/jobs/?gh_jid=7718684003",
+    "department": "a16z crypto",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job84003"
+  },
+  {
+    "id": "lever-certik-3ad4ba74-fec1-4dbd-9b70-363f6e7d0827",
+    "title": "Web3 BD",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/3ad4ba74-fec1-4dbd-9b70-363f6e7d0827",
+    "applyUrl": "https://jobs.lever.co/certik/3ad4ba74-fec1-4dbd-9b70-363f6e7d0827",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobd0827"
+  },
+  {
+    "id": "lever-certik-305d508f-1b1a-4b64-ac41-903b14329764",
+    "title": "Sr. Security Engineer (Penetration Testing)",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/305d508f-1b1a-4b64-ac41-903b14329764",
+    "applyUrl": "https://jobs.lever.co/certik/305d508f-1b1a-4b64-ac41-903b14329764",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security29764"
+  },
+  {
+    "id": "lever-certik-93ff3247-b56b-40a1-a4a1-daa0456663bf",
+    "title": "Solidity Compiler Frontend Engineer",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/93ff3247-b56b-40a1-a4a1-daa0456663bf",
+    "applyUrl": "https://jobs.lever.co/certik/93ff3247-b56b-40a1-a4a1-daa0456663bf",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "solidity663bf"
+  },
+  {
+    "id": "lever-certik-f8fbe497-34d2-49fa-9308-879f0ffd8fa8",
+    "title": "Software Engineer (Engineer III to Principal) -  Formal Methods",
+    "company": "CertiK",
+    "location": "New York, NY  / Seattle, WA / San Francisco Bay Area, CA / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/f8fbe497-34d2-49fa-9308-879f0ffd8fa8",
+    "applyUrl": "https://jobs.lever.co/certik/f8fbe497-34d2-49fa-9308-879f0ffd8fa8",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobd8fa8"
+  },
+  {
+    "id": "lever-certik-148afcf8-106b-42fa-a516-6bb8f1184e33",
+    "title": "Security Research Internship",
+    "company": "CertiK",
+    "location": "New York, NY  / Seattle, WA / San Francisco Bay Area, CA / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33",
+    "applyUrl": "https://jobs.lever.co/certik/148afcf8-106b-42fa-a516-6bb8f1184e33",
+    "department": "CertiK",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security84e33"
+  },
+  {
+    "id": "lever-certik-173cd956-bef3-43b7-80a5-21a69ac40f7c",
+    "title": "Public Facing Security Researcher",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/173cd956-bef3-43b7-80a5-21a69ac40f7c",
+    "applyUrl": "https://jobs.lever.co/certik/173cd956-bef3-43b7-80a5-21a69ac40f7c",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security40f7c"
+  },
+  {
+    "id": "lever-certik-069f1c84-1751-4a47-8481-7f095695c9c7",
+    "title": "Operation Assistant",
+    "company": "CertiK",
+    "location": "New York, New York",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/069f1c84-1751-4a47-8481-7f095695c9c7",
+    "applyUrl": "https://jobs.lever.co/certik/069f1c84-1751-4a47-8481-7f095695c9c7",
+    "department": "CertiK",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job5c9c7"
+  },
+  {
+    "id": "lever-certik-58e7c686-6074-4f97-a674-f598a31fab92",
+    "title": "LinkedIn Operations",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/58e7c686-6074-4f97-a674-f598a31fab92",
+    "applyUrl": "https://jobs.lever.co/certik/58e7c686-6074-4f97-a674-f598a31fab92",
+    "department": "CertiK",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "operationsfab92"
+  },
+  {
+    "id": "lever-certik-5191720e-c026-4f53-b58a-094e0ec049f6",
+    "title": "IT Operations Specialist",
+    "company": "CertiK",
+    "location": "New York, New York",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6",
+    "applyUrl": "https://jobs.lever.co/certik/5191720e-c026-4f53-b58a-094e0ec049f6",
+    "department": "CertiK",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "operations049f6"
+  },
+  {
+    "id": "lever-certik-0b497f25-210b-408e-b2c3-e005c841d867",
+    "title": "Compliance Engineer Intern",
+    "company": "CertiK",
+    "location": "Europe / Asia",
+    "type": "Internship",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867",
+    "applyUrl": "https://jobs.lever.co/certik/0b497f25-210b-408e-b2c3-e005c841d867",
+    "department": "Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "compliance1d867"
+  },
+  {
+    "id": "lever-certik-f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
+    "title": "Compliance Engineer",
+    "company": "CertiK",
+    "location": "Europe / Asia",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
+    "applyUrl": "https://jobs.lever.co/certik/f507fc48-77e7-4b1b-9a88-11e2b20fe21d",
+    "department": "Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "compliancefe21d"
+  },
+  {
+    "id": "lever-certik-973e9694-fe77-40bb-9e9a-957a464d1d03",
+    "title": "Business Development Manager - Singapore",
+    "company": "CertiK",
+    "location": "Singapore",
+    "type": "Contract",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/973e9694-fe77-40bb-9e9a-957a464d1d03",
+    "applyUrl": "https://jobs.lever.co/certik/973e9694-fe77-40bb-9e9a-957a464d1d03",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "managerd1d03"
+  },
+  {
+    "id": "lever-certik-f78c7502-51a9-4c9e-b367-9871411b15df",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "Hong Kong/ Shenzhen",
+    "type": "Internship",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/f78c7502-51a9-4c9e-b367-9871411b15df",
+    "applyUrl": "https://jobs.lever.co/certik/f78c7502-51a9-4c9e-b367-9871411b15df",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobb15df"
+  },
+  {
+    "id": "lever-certik-d3dd5ab4-927d-434a-a12b-755d29da6240",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "Dubai",
+    "type": "Internship",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/d3dd5ab4-927d-434a-a12b-755d29da6240",
+    "applyUrl": "https://jobs.lever.co/certik/d3dd5ab4-927d-434a-a12b-755d29da6240",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "joba6240"
+  },
+  {
+    "id": "lever-certik-8dcfb59e-f70f-4543-acec-97850a522a61",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "San Francisco Bay Area, CA / Remote",
+    "type": "Internship",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/8dcfb59e-f70f-4543-acec-97850a522a61",
+    "applyUrl": "https://jobs.lever.co/certik/8dcfb59e-f70f-4543-acec-97850a522a61",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "job22a61"
+  },
+  {
+    "id": "lever-certik-241dde9b-95d6-4eda-a207-a149934b16e1",
+    "title": "Business Development Intern / CertiK Ambassador",
+    "company": "CertiK",
+    "location": "New York, New York",
+    "type": "Internship",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1",
+    "applyUrl": "https://jobs.lever.co/certik/241dde9b-95d6-4eda-a207-a149934b16e1",
+    "department": "Business Development",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobb16e1"
+  },
+  {
+    "id": "lever-certik-1f446b66-1fae-4c31-9352-cde86e254754",
+    "title": "Blockchain Security Expert Intern - AI Track",
+    "company": "CertiK",
+    "location": "New York, New York / Remote",
+    "type": "Internship",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754",
+    "applyUrl": "https://jobs.lever.co/certik/1f446b66-1fae-4c31-9352-cde86e254754",
+    "department": "CertiK",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security54754"
+  },
+  {
+    "id": "lever-certik-d3b215da-1367-4a98-9fcf-4a63249125da",
+    "title": "Blockchain Security Expert - Security Audit Track",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/d3b215da-1367-4a98-9fcf-4a63249125da",
+    "applyUrl": "https://jobs.lever.co/certik/d3b215da-1367-4a98-9fcf-4a63249125da",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security125da"
+  },
+  {
+    "id": "lever-certik-13f095de-5cff-4ed7-a0b2-7ea0f81e485d",
+    "title": "Blockchain Security Expert - Chain Security Evaluation Track",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/13f095de-5cff-4ed7-a0b2-7ea0f81e485d",
+    "applyUrl": "https://jobs.lever.co/certik/13f095de-5cff-4ed7-a0b2-7ea0f81e485d",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "securitye485d"
+  },
+  {
+    "id": "lever-certik-c4ddca58-1476-438a-8eb3-8d3e05eae19a",
+    "title": "Blockchain Security Expert - Anti Defect Track",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/c4ddca58-1476-438a-8eb3-8d3e05eae19a",
+    "applyUrl": "https://jobs.lever.co/certik/c4ddca58-1476-438a-8eb3-8d3e05eae19a",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "securityae19a"
+  },
+  {
+    "id": "lever-certik-2c4b70d2-43da-44fc-8018-060f1640041e",
+    "title": "Blockchain Security Expert - AI Track",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/2c4b70d2-43da-44fc-8018-060f1640041e",
+    "applyUrl": "https://jobs.lever.co/certik/2c4b70d2-43da-44fc-8018-060f1640041e",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "security0041e"
+  },
+  {
+    "id": "lever-certik-e15a5a75-137f-4e37-a402-85079dd12b94",
+    "title": "Blockchain Security Engineer - Senior Level (Solidity / Rust / Golang )",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/e15a5a75-137f-4e37-a402-85079dd12b94",
+    "applyUrl": "https://jobs.lever.co/certik/e15a5a75-137f-4e37-a402-85079dd12b94",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "solidity12b94"
+  },
+  {
+    "id": "lever-certik-478ab0cd-9f5e-4b88-88b5-01d3beac4d81",
+    "title": "Blockchain Security Engineer - (Solidity / Rust / Golang)",
+    "company": "CertiK",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/478ab0cd-9f5e-4b88-88b5-01d3beac4d81",
+    "applyUrl": "https://jobs.lever.co/certik/478ab0cd-9f5e-4b88-88b5-01d3beac4d81",
+    "department": "Blockchain Security Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "solidityc4d81"
+  },
+  {
+    "id": "lever-certik-cea4ec5a-c373-4517-a211-5f1dfbaf9489",
+    "title": "Background Investigator",
+    "company": "CertiK",
+    "location": "Europe / Remote",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/cea4ec5a-c373-4517-a211-5f1dfbaf9489",
+    "applyUrl": "https://jobs.lever.co/certik/cea4ec5a-c373-4517-a211-5f1dfbaf9489",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobf9489"
+  },
+  {
+    "id": "lever-certik-40ac3b7f-13e7-467f-b760-793c317ba429",
+    "title": "APAC Policy and Regulatory Strategist",
+    "company": "CertiK",
+    "location": "Singapore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "lever:certik",
+    "link": "https://jobs.lever.co/certik/40ac3b7f-13e7-467f-b760-793c317ba429",
+    "applyUrl": "https://jobs.lever.co/certik/40ac3b7f-13e7-467f-b760-793c317ba429",
+    "department": "Compliance",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "jobba429"
+  },
+  {
     "id": "ashby-mystenlabs-6f742700-d81d-453f-9898-9b7d8efc906e",
     "title": "Strategic Partnerships Dealmaker, Walrus",
     "company": "Mysten Labs (Sui)",
