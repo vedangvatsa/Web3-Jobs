@@ -347,7 +347,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   const $ = cheerio.load(decoded);
 
   // Remove non-content tags and navigation / apply button boilerplate
-  $('script, style, iframe, noscript, svg, button, form, input, .role-back, .apply-row, .role-meta').remove();
+  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, [data-component="pf-popover"], [data-controller*="clipboard"], .credit').remove();
 
   // Strip links pointing to internal career lists or apply endpoints, handle empty anchors cleanly
   $('a').each((_, el) => {
@@ -436,9 +436,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     if (/^#LI-[A-Z0-9-]+$/i.test(line)) continue;
     if (/^It Pays to Work Here\.?$/i.test(line.trim())) continue;
     if (/^←\s*All open roles/i.test(line.trim())) continue;
-    if (/^Apply$/i.test(line.trim())) continue;
+    if (/^(Apply|Apply now|Share|Copy|Link|Share to|Job openings|Full-time|Part-time|Contract|Remote)$/i.test(line.trim())) continue;
+    if (/^(Powered by|English|Українська|Polski|Español|Português|Deutsch|Slovenčina|Magyar)$/i.test(line.trim())) continue;
     if (/^Location.*Type/i.test(line.trim())) continue;
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
+    if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
     // Bullet item
     const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
