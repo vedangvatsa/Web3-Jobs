@@ -745,27 +745,42 @@ async function fetchRecentBlueskyPosts(): Promise<string[]> {
  }
 }
 
+async function fetchRecentThreadsPosts(accessToken: string, threadsUserId: string): Promise<string[]> {
+  try {
+    const res = await fetch(`https://graph.threads.net/v1.0/${threadsUserId}/threads?fields=id,text&limit=25&access_token=${accessToken}`);
+    if (!res.ok) {
+      console.warn(`[Pre-flight] Threads recent posts API warning: ${res.status} ${await res.text()}`);
+      return [];
+    }
+    const data = await res.json() as any;
+    return (data.data || []).map((el: any) => el.text || '');
+  } catch (err) {
+    console.warn('[Pre-flight] Threads fetch failed:', err);
+    return [];
+  }
+}
+
 async function checkIfAlreadyPostedOnPlatform(platform: string, text: string): Promise<boolean> {
- const accessTokenLI = process.env.LINKEDIN_ACCESS_TOKEN;
- const orgIdLI = process.env.LINKEDIN_ORG_ID || '89714573';
- const accessTokenIG = process.env.INSTAGRAM_ACCESS_TOKEN;
- const igUserId = process.env.INSTAGRAM_USER_ID;
+  const accessTokenLI = process.env.LINKEDIN_ACCESS_TOKEN;
+  const orgIdLI = process.env.LINKEDIN_ORG_ID || '89714573';
+  const accessTokenIG = process.env.INSTAGRAM_ACCESS_TOKEN;
+  const igUserId = process.env.INSTAGRAM_USER_ID;
+  const accessTokenThreads = process.env.THREADS_ACCESS_TOKEN;
+  const threadsUserId = process.env.THREADS_USER_ID;
 
- let recentTexts: string[] = [];
+  let recentTexts: string[] = [];
 
- if (platform === 'linkedin' && accessTokenLI) {
- recentTexts = await fetchRecentLinkedInPosts(accessTokenLI, orgIdLI);
- } else if (platform === 'instagram' && accessTokenIG && igUserId) {
- recentTexts = await fetchRecentInstagramPosts(accessTokenIG, igUserId);
- } else if (platform === 'twitter') {
- recentTexts = await fetchRecentTweetsX();
- } else if (platform === 'bluesky') {
- recentTexts = await fetchRecentBlueskyPosts();
- } else if (platform === 'threads') {
- // We don't have a fetchRecentThreadsPosts yet, so we assume no duplicate based on API
- // (A future improvement would implement fetchRecentThreadsPosts)
- recentTexts = [];
- }
+  if (platform === 'linkedin' && accessTokenLI) {
+    recentTexts = await fetchRecentLinkedInPosts(accessTokenLI, orgIdLI);
+  } else if (platform === 'instagram' && accessTokenIG && igUserId) {
+    recentTexts = await fetchRecentInstagramPosts(accessTokenIG, igUserId);
+  } else if (platform === 'twitter') {
+    recentTexts = await fetchRecentTweetsX();
+  } else if (platform === 'bluesky') {
+    recentTexts = await fetchRecentBlueskyPosts();
+  } else if (platform === 'threads' && accessTokenThreads && threadsUserId) {
+    recentTexts = await fetchRecentThreadsPosts(accessTokenThreads, threadsUserId);
+  }
 
  if (recentTexts.length === 0) {
  return false;
