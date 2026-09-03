@@ -230,60 +230,27 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
 
   return (
     <div>
-      {/* Search + Filters + View Toggle */}
-      <div className="mb-6 space-y-3">
-        <div className="flex flex-col sm:flex-row gap-3 items-center">
-          <div className="relative flex-1 w-full" role="search">
+      {/* Search + Filters + Icon View Toggle in a single inline toolbar */}
+      <div className="mb-6 space-y-2">
+        <div className="flex flex-col md:flex-row gap-2.5 items-stretch md:items-center">
+          {/* Search Input */}
+          <div className="relative flex-1 min-w-0" role="search">
             <Input
               placeholder="Search events, locations..."
               value={searchQuery}
               onChange={(e) => { setSearchQuery(e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-11 w-full rounded-md pl-10 text-base"
+              className="h-10 w-full rounded-md pl-9 pr-3 text-sm"
               aria-label="Search events"
             />
             <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
           </div>
 
-          {/* View Toggle */}
-          <div className="flex items-center gap-1 p-1 bg-muted/60 border border-border/60 rounded-md shrink-0 self-stretch sm:self-auto justify-center">
-            <button
-              onClick={() => setViewMode('grid')}
-              className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded transition-colors ${
-                viewMode === 'grid'
-                  ? 'bg-background text-foreground shadow-xs'
-                  : 'text-muted-foreground hover:text-foreground'
-              }`}
-              aria-label="Grid View"
-            >
-              <span className="w-3.5 h-3.5 grid grid-cols-2 gap-0.5">
-                <span className="bg-current rounded-xs"></span>
-                <span className="bg-current rounded-xs"></span>
-                <span className="bg-current rounded-xs"></span>
-                <span className="bg-current rounded-xs"></span>
-              </span>
-              Grid View
-            </button>
-            <button
-              onClick={() => setViewMode('calendar')}
-              className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded transition-colors ${
-                viewMode === 'calendar'
-                  ? 'bg-background text-foreground shadow-xs'
-                  : 'text-muted-foreground hover:text-foreground'
-              }`}
-              aria-label="Calendar View"
-            >
-              <Calendar className="w-3.5 h-3.5" />
-              Calendar View
-            </button>
-          </div>
-        </div>
-
-        <div className="flex flex-wrap items-center justify-between gap-3">
-          <div className="grid grid-cols-2 gap-3 sm:flex sm:gap-3 w-full sm:w-auto">
+          {/* Location & Date Filters + Icon-Only View Toggle */}
+          <div className="flex items-center gap-2 shrink-0 flex-wrap">
             <select
               value={countryFilter || ''}
               onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
+              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate max-w-[150px] sm:max-w-[180px]"
               aria-label="Filter by location"
             >
               <option value="">All Locations</option>
@@ -294,7 +261,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             <select
               value={dateFilter || ''}
               onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
+              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate max-w-[130px] sm:max-w-[150px]"
               aria-label="Filter by date"
             >
               <option value="">All Dates</option>
@@ -302,14 +269,42 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
                 <option key={r.value} value={r.value}>{r.label}</option>
               ))}
             </select>
-          </div>
 
-          {isSearching && (
-            <p className="text-xs text-muted-foreground" aria-live="polite">
-              Showing {filteredEvents.length} result{filteredEvents.length === 1 ? '' : 's'}
-            </p>
-          )}
+            {/* Icon-Only View Toggle */}
+            <div className="flex items-center gap-0.5 p-1 bg-muted/60 border border-border/60 rounded-md shrink-0 h-10">
+              <button
+                onClick={() => setViewMode('grid')}
+                className={`p-1.5 rounded transition-colors ${
+                  viewMode === 'grid'
+                    ? 'bg-background text-foreground shadow-xs'
+                    : 'text-muted-foreground hover:text-foreground'
+                }`}
+                title="Grid View"
+                aria-label="Grid View"
+              >
+                <LayoutGrid className="w-4 h-4" />
+              </button>
+              <button
+                onClick={() => setViewMode('calendar')}
+                className={`p-1.5 rounded transition-colors ${
+                  viewMode === 'calendar'
+                    ? 'bg-background text-foreground shadow-xs'
+                    : 'text-muted-foreground hover:text-foreground'
+                }`}
+                title="Calendar View"
+                aria-label="Calendar View"
+              >
+                <Calendar className="w-4 h-4" />
+              </button>
+            </div>
+          </div>
         </div>
+
+        {isSearching && (
+          <p className="text-xs text-muted-foreground pt-1" aria-live="polite">
+            Showing {filteredEvents.length} result{filteredEvents.length === 1 ? '' : 's'}
+          </p>
+        )}
       </div>
 
       {/* Grid View */}
