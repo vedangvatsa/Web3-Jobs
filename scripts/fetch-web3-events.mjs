@@ -944,9 +944,12 @@ async function fetchWeb3Voyager() {
       const city = d.city || 'Global';
       const country = d.country || '';
       const slug = d.slug;
-      const url = d.externalUrl || d.eventUrl || (slug ? `https://web3voyager.com/events/${slug}` : '');
+      
+      // Extract original event destination URL (Luma, Eventbrite, official website)
+      const url = d.website || d.ticketUrl || d.externalUrl || d.eventUrl || d.orgWebsite;
 
       if (!title || !startDate || startDate < now.slice(0, 10)) continue;
+      if (!url || url.includes('web3voyager.com')) continue; // Skip if no original URL found
 
       let coverImage = null;
       if (d.meta?.image?.url) {
@@ -956,13 +959,13 @@ async function fetchWeb3Voyager() {
       events.push({
         id: `w3v-${slug || title.toLowerCase().replace(/[^a-z0-9]/g, '-')}`,
         name: title,
-        description: d.meta?.description || `Web3 event in ${city} via Web3Voyager`,
+        description: d.meta?.description || `Web3 event in ${city}`,
         startDate,
         endDate,
         city,
         country,
         location: country ? `${city}, ${country}` : city,
-        url: url || 'https://web3voyager.com',
+        url: url,
         coverImage,
         source: 'web3voyager',
       });
