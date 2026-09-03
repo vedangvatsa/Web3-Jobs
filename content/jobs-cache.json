@@ -5349,158 +5349,6 @@
     "slug": "manager96069"
   },
   {
-    "id": "sui-120",
-    "title": "Strategic Advisor",
-    "company": "Sui Foundation",
-    "location": "United States",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/120",
-    "applyUrl": "https://sui.bamboohr.com/careers/120",
-    "department": "Administration",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "strategic6"
-  },
-  {
-    "id": "sui-113",
-    "title": "EP Program Director",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/113",
-    "applyUrl": "https://sui.bamboohr.com/careers/113",
-    "department": "Education",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "ep1"
-  },
-  {
-    "id": "sui-109",
-    "title": "Administrative Assistant",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/109",
-    "applyUrl": "https://sui.bamboohr.com/careers/109",
-    "department": "Administration",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "associate83117"
-  },
-  {
-    "id": "sui-103",
-    "title": "RT Clinical Coordinator",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/103",
-    "applyUrl": "https://sui.bamboohr.com/careers/103",
-    "department": "Education",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "rt1"
-  },
-  {
-    "id": "sui-97",
-    "title": "DMS/CS Lab Instructor",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/97",
-    "applyUrl": "https://sui.bamboohr.com/careers/97",
-    "department": "Administration",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "dms1"
-  },
-  {
-    "id": "sui-92",
-    "title": "Cardiac Sonographer - Clinical Coordinator",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/92",
-    "applyUrl": "https://sui.bamboohr.com/careers/92",
-    "department": "Education",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "cardiac2"
-  },
-  {
-    "id": "sui-37",
-    "title": "Diagnostic Medical Sonography Faculty",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/37",
-    "applyUrl": "https://sui.bamboohr.com/careers/37",
-    "department": "Education",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "diagnostic1"
-  },
-  {
-    "id": "sui-26",
-    "title": "Cardiac Sonography Faculty",
-    "company": "Sui Foundation",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:sui",
-    "link": "https://sui.bamboohr.com/careers/26",
-    "applyUrl": "https://sui.bamboohr.com/careers/26",
-    "department": "Education",
-    "skills": [
-      "Sui",
-      "Move",
-      "Layer 1",
-      "Blockchain"
-    ],
-    "slug": "cardiac1"
-  },
-  {
     "id": "ramp-22",
     "title": "Marketing Manager",
     "company": "Ramp Network",
@@ -29054,5 +28902,45 @@
     "department": "20210 S&M - Marketing - Square Integrated Marketing",
     "active": true,
     "slug": "manager408"
+  },
+  {
+    "id": "suifoundation-e606131b",
+    "title": "Social Media Marketing Manager (Contract)",
+    "company": "Sui Foundation",
+    "location": "Remote - USA",
+    "type": "Contract",
+    "date": "2026-09-03",
+    "source": "ashby:sui-foundation",
+    "link": "https://jobs.ashbyhq.com/sui%20foundation/e606131b-a4d4-45ad-b773-aff4da7f6ad1",
+    "applyUrl": "https://jobs.ashbyhq.com/sui%20foundation/e606131b-a4d4-45ad-b773-aff4da7f6ad1",
+    "department": "Marketing & Ecosystem",
+    "skills": [
+      "Sui",
+      "Layer 1",
+      "Move",
+      "Web3",
+      "Community"
+    ],
+    "slug": "managere6061"
+  },
+  {
+    "id": "suifoundation-53e137f5",
+    "title": "APAC Community Lead (Contract)",
+    "company": "Sui Foundation",
+    "location": "Remote - APAC",
+    "type": "Contract",
+    "date": "2026-09-03",
+    "source": "ashby:sui-foundation",
+    "link": "https://jobs.ashbyhq.com/sui%20foundation/53e137f5-eb47-4233-945e-d092531cc56a",
+    "applyUrl": "https://jobs.ashbyhq.com/sui%20foundation/53e137f5-eb47-4233-945e-d092531cc56a",
+    "department": "Marketing & Ecosystem",
+    "skills": [
+      "Sui",
+      "Layer 1",
+      "Move",
+      "Web3",
+      "Community"
+    ],
+    "slug": "community53e13"
   }
 ]
