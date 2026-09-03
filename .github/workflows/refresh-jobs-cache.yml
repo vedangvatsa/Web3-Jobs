@@ -68,6 +68,14 @@ jobs:
         run: npx tsx scripts/refresh-jobs-cache.ts
         continue-on-error: true
 
+      - name: Ingest Mercuryo BambooHR jobs
+        run: npx tsx scripts/ingest-mercuryo-bamboo.ts
+        continue-on-error: true
+
+      - name: Ingest Regional ATS Web3 feeds (Africa, Japan, Singapore, HK)
+        run: npx tsx scripts/ingest-regional-feeds.ts
+        continue-on-error: true
+
       - name: Pre-bake job slugs into cache
         run: node scripts/prebake_slugs.js
 
