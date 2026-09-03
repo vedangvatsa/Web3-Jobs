@@ -194,16 +194,39 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const canonicalUrl = `${siteUrl}/${slug}`;
     const title = `${jobMeta.title} at ${jobMeta.company}`;
     const description = buildUniqueJobMetaDescription(jobMeta);
-    const deptParam = typeof jobMeta.department === 'string' ? jobMeta.department : '';
+    const deptParam = typeof jobMeta.department === 'string' 
+      ? jobMeta.department 
+      : (jobMeta.department as any)?.name || '';
     const ogImageUrl = `${siteUrl}/api/og?type=job&title=${encodeURIComponent(jobMeta.title)}&company=${encodeURIComponent(jobMeta.company)}&location=${encodeURIComponent(jobMeta.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}`;
     const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
     return {
       title,
       description,
+      metadataBase: new URL(siteUrl),
       alternates: { canonical: canonicalUrl },
       robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
-      openGraph: { title, description, url: canonicalUrl, type: 'website', siteName: 'Hashtag Web3', images: [{ url: ogImageUrl, width: 1200, height: 630, alt: title }] },
-      twitter: { card: 'summary_large_image', title, description, images: [ogImageUrl] },
+      openGraph: {
+        title,
+        description,
+        url: canonicalUrl,
+        type: 'website',
+        siteName: 'Hashtag Web3',
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: title,
+            type: 'image/png',
+          },
+        ],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [ogImageUrl],
+      },
     };
   }
 
