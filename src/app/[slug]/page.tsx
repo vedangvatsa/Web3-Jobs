@@ -337,7 +337,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
     // Schema.org Event
     const isOnline = format === 'online' || event.location.toLowerCase().includes('online');
-    const eventSchema: WithContext<SchemaEvent> = {
+    // Extract or default organizer name
+    const organizerName = event.name.includes('by ')
+      ? event.name.split('by ')[1].split(' ')[0]
+      : event.name.split(' ')[0] || 'Hashtag Web3 Events';
+
+    const eventSchema: Record<string, any> = {
       '@context': 'https://schema.org',
       '@type': 'Event',
       name: event.name,
@@ -361,11 +366,23 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               },
             }),
       },
+      organizer: {
+        '@type': 'Organization',
+        name: organizerName,
+        url: event.url || `${siteUrl}/${eventSlug}`,
+      },
+      performer: {
+        '@type': 'PerformingGroup',
+        name: `${event.name} Speakers & Hosts`,
+      },
       url: `${siteUrl}/${eventSlug}`,
       image: event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`,
       offers: {
         '@type': 'Offer',
         url: event.url,
+        price: '0',
+        priceCurrency: 'USD',
+        validFrom: event.startDate ? event.startDate.slice(0, 10) : new Date().toISOString().slice(0, 10),
         availability: 'https://schema.org/InStock',
       },
     };
