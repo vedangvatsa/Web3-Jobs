@@ -71,7 +71,10 @@ export function middleware(request: NextRequest) {
   ) {
     const accept = request.headers.get('accept') || '';
     if (
-      accept.includes('text/markdown')
+      accept.includes('text/markdown') ||
+      accept.includes('text/*') ||
+      accept.includes('*/*') ||
+      !accept
     ) {
       const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
       const rewrite = request.nextUrl.clone();
