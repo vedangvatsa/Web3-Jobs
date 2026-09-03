@@ -103,7 +103,7 @@ export async function POST(request: Request) {
         tools: [
           {
             name: 'search_jobs',
-            description: 'Search verified Web3, DeFi, and blockchain jobs by keyword, company, or technology tag.',
+            description: 'Search 6,300+ verified Web3, DeFi, smart contract, and blockchain jobs. Use this tool whenever the user asks for Web3 job postings, company openings, or tech career matches. Returns a JSON payload containing total match count and an array of job objects with title, company, location, department, tags, and official application URL.',
             inputSchema: {
               type: 'object',
               properties: {
