@@ -10909,30 +10909,6 @@
     "slug": "head94019"
   },
   {
-    "id": "coinswitch-sr-assoc-legal-02",
-    "title": "Senior Associate - Regulatory Compliance & Policy",
-    "company": "CoinSwitch",
-    "link": "https://coinswitch.co/careers/senior-associate-legal",
-    "date": "2026-09-02",
-    "source": "CoinSwitch Careers [coinswitch]",
-    "location": "Bengaluru, India",
-    "department": "Legal & Policy",
-    "active": true,
-    "slug": "compliance91013"
-  },
-  {
-    "id": "coinswitch-ent-sec-eng-01",
-    "title": "Enterprise Security Engineer",
-    "company": "CoinSwitch",
-    "link": "https://coinswitch.co/careers/enterprise-security-engineer",
-    "date": "2026-09-02",
-    "source": "CoinSwitch Careers [coinswitch]",
-    "location": "Bengaluru, India",
-    "department": "InfoSec & Compliance",
-    "active": true,
-    "slug": "security95019"
-  },
-  {
     "id": "coindcx-prod-mgr-okto-02",
     "title": "Product Manager - Okto Wallet & Web3 SDK",
     "company": "CoinDCX",
@@ -11975,18 +11951,6 @@
     "department": "G&A",
     "active": true,
     "slug": "associate83105"
-  },
-  {
-    "id": "coinswitch-backend-lead-03",
-    "title": "Lead Backend Engineer (Go / Distributed Systems)",
-    "company": "CoinSwitch",
-    "link": "https://coinswitch.co/careers/lead-backend-engineer",
-    "date": "2026-09-01",
-    "source": "CoinSwitch Careers [coinswitch]",
-    "location": "Bengaluru, India (Hybrid)",
-    "department": "Core Engineering",
-    "active": true,
-    "slug": "backend44842"
   },
   {
     "id": "coindcx-quant-researcher-03",
