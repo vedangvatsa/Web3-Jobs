@@ -925,6 +925,53 @@ async function fetchWeb3Meetups() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
+// SOURCE 8b: Web3Voyager Payload API
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchWeb3Voyager() {
+  try {
+    const res = await fetch('https://web3voyager.com/api/events?limit=250', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(8000) });
+    if (!res.ok) return [];
+    const data = await res.json();
+    const docs = data.docs || [];
+
+    const now = new Date().toISOString();
+    const events = [];
+
+    for (const d of docs) {
+      const title = d.title;
+      const startDate = d.eventStartDate || d.startDate;
+      const endDate = d.eventEndDate || d.endDate || startDate;
+      const city = d.city || 'Global';
+      const country = d.country || '';
+      const slug = d.slug;
+      const url = d.externalUrl || d.eventUrl || (slug ? `https://web3voyager.com/events/${slug}` : '');
+
+      if (!title || !startDate || startDate < now.slice(0, 10)) continue;
+
+      let coverImage = null;
+      if (d.meta?.image?.url) {
+        coverImage = d.meta.image.url;
+      }
+
+      events.push({
+        id: `w3v-${slug || title.toLowerCase().replace(/[^a-z0-9]/g, '-')}`,
+        name: title,
+        description: d.meta?.description || `Web3 event in ${city} via Web3Voyager`,
+        startDate,
+        endDate,
+        city,
+        country,
+        location: country ? `${city}, ${country}` : city,
+        url: url || 'https://web3voyager.com',
+        coverImage,
+        source: 'web3voyager',
+      });
+    }
+    return events;
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
 // SOURCE 9: ethereum.org Community Events (conferences + meetups)
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchEthereumOrgEvents() {
@@ -1148,6 +1195,16 @@ async function fetchWeb3Events() {
     if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e);
   });
   console.log(`[web3meetups.xyz] +${allEventsMap.size - w3mBefore} events`);
+
+  // ── 10b. Web3Voyager ──
+  console.log(`\n[Web3Voyager] Fetching Web3Voyager events...`);
+  let w3vBefore = allEventsMap.size;
+  const w3vEvents = await fetchWeb3Voyager();
+  w3vEvents.forEach(e => {
+    e.bypassedFilter = true;
+    if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e);
+  });
+  console.log(`[Web3Voyager] +${allEventsMap.size - w3vBefore} events`);
 
   // ── 11. ethereum.org ──
   console.log(`\n[ethereum.org] Fetching community events...`);
