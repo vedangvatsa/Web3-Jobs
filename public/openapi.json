@@ -18,6 +18,12 @@
     "license": {
       "name": "MIT",
       "url": "https://opensource.org/licenses/MIT"
+    },
+    "x-payment-info": {
+      "pricing": "free",
+      "currency": "USD",
+      "model": "open_access",
+      "description": "Public REST API endpoints and MCP servers are 100% free and open-access. No payment required."
     }
   },
   "servers": [
