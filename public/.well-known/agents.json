@@ -128,6 +128,18 @@
       "transport": "streamable-http"
     }
   ],
+  "mcpServers": [
+    {
+      "type": "product",
+      "url": "https://hashtagweb3.com/api/mcp",
+      "card": "https://hashtagweb3.com/.well-known/mcp/server-card.json"
+    },
+    {
+      "type": "docs",
+      "url": "https://hashtagweb3.com/api/mcp-docs",
+      "card": "https://hashtagweb3.com/.well-known/mcp-docs/server-card.json"
+    }
+  ],
 
   "sandbox": {
     "url": "https://hashtagweb3.com/api/sandbox",
