@@ -94,6 +94,7 @@ const RETIRED_BAD_BOARD_KEYS = new Set([
   'ashby:cosmos', 'ashby:backpack', 'ashby:biconomy', 'ashby:cubist',
   'workable:blast',
   'bamboohr:ramp',
+  'manatal:mudrex',
   'recruitee:circle', 'recruitee:harmony', 'recruitee:bitfinex',
   'recruitee:jump', 'recruitee:celestia', 'recruitee:holepunch',
 ]);
