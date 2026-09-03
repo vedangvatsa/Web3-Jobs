@@ -28,7 +28,7 @@ const ASHBY_ORGS = [
   '0x','Base','Bastion','Blockdaemon','Conduit','Elliptic','Gelato','Helius','Injective',
   'LI.FI','Lido.fi','MagicEden','Maple','Morpho','Nascent','Notabene','Parity','Paxos',
   'Phantom','Polymarket','QuickNode','Render','Safe','Sardine','SkyMavis','Socket',
-  'Solana%20Foundation','Sorare','SpruceID','Stacks','Stellar','Talos-Trading',
+  'Solana%20Foundation','Sorare','SpruceID','Stacks','Stellar','Sui%20Foundation','Talos-Trading',
   'Tools%20for%20Humanity','alchemy','artemis','ashby','blackbird-labs-inc','cantina',
   'chainalysis-careers','delphi','eigen-labs','flipsidecrypto','kalshi','lightspark',
   'monad.foundation','mystenlabs','noise-labs','phantom','polygon-labs','seifoundation',
