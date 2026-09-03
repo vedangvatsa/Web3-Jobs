@@ -151,37 +151,15 @@ const web3Jobs = jobs.filter(job => {
 const distributed = distributeJobsByCompany(deduplicateJobs(web3Jobs));
 console.log(`  After dedup/distribute: ${distributed.length} jobs`);
 
-// Assign slugs
 const slugById = new Map();
-const maxPerRole = new Map();
-const claimed = new Set();
 
 for (const job of distributed) {
-  const rawSlug = (job.slug || '').toLowerCase().trim();
-  if (rawSlug && /^[a-z]+\d+$/.test(rawSlug) && !claimed.has(rawSlug)) {
-    slugById.set(job.id, rawSlug);
-    claimed.add(rawSlug);
-    const role = rawSlug.replace(/\d+$/, '');
-    const num = parseInt(rawSlug.slice(role.length), 10);
-    if (!isNaN(num)) maxPerRole.set(role, Math.max(maxPerRole.get(role)||0, num));
-  }
+  const role = getOneWordRole(job.title || 'job');
+  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
+  const slug = shortId ? `${role}${shortId}` : role;
+  slugById.set(job.id, slug);
 }
-
-const needsSlug = distributed.filter(j => !slugById.has(j.id))
-  .sort((a, b) => { const d = new Date(a.date)-new Date(b.date); return d !== 0 ? d : a.id.localeCompare(b.id); });
-
-let newSlugs = 0;
-for (const job of needsSlug) {
-  const role = getOneWordRole(job.title);
-  let next = (maxPerRole.get(role)||0) + 1;
-  let candidate = `${role}${next}`;
-  while (claimed.has(candidate)) { next++; candidate = `${role}${next}`; }
-  slugById.set(job.id, candidate);
-  claimed.add(candidate);
-  maxPerRole.set(role, next);
-  newSlugs++;
-}
-console.log(`  ${slugById.size - newSlugs} existing slugs preserved, ${newSlugs} new slugs assigned`);
+console.log(`  Assigned ${slugById.size} short ID slugs`);
 
 // Write slugs back into the original array
 let updated = 0;
