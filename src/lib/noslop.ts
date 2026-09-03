@@ -62,6 +62,9 @@ export function cleanPublishText(
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
     s = s.replace(re, rep);
   }
+  // Strip LinkedIn internal tracking tags (e.g. #LI-MM1, #LI-Remote)
+  s = s.replace(/#LI-[A-Za-z0-9_-]+/gi, '');
+
   // Strip emojis for noslop job pages
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
@@ -122,6 +125,7 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
     s = s.replace(re, rep);
   }
+  s = s.replace(/#LI-[A-Za-z0-9_-]+/gi, '');
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
   // Tighten double spaces
