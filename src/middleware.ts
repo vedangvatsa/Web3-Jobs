@@ -71,9 +71,7 @@ export function middleware(request: NextRequest) {
   ) {
     const accept = request.headers.get('accept') || '';
     if (
-      accept.includes('text/markdown') ||
-      accept.includes('text/*') ||
-      accept.includes('*/*')
+      accept.includes('text/markdown')
     ) {
       const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
       const rewrite = request.nextUrl.clone();
@@ -83,6 +81,17 @@ export function middleware(request: NextRequest) {
       response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
       return response;
     }
+  }
+
+  // Handle Accept: text/markdown on any route
+  const acceptHeader = request.headers.get('accept') || '';
+  if (acceptHeader.includes('text/markdown') && !pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
+    const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
+    const rewrite = request.nextUrl.clone();
+    rewrite.pathname = mdPath;
+    const response = NextResponse.rewrite(rewrite);
+    response.headers.set('Vary', 'Accept, Accept-Encoding');
+    return response;
   }
 
   // 3. Social UTM suffix shortcuts
