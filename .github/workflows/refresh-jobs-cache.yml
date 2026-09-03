@@ -72,6 +72,10 @@ jobs:
         run: npx tsx scripts/ingest-mercuryo-bamboo.ts
         continue-on-error: true
 
+      - name: Ingest Official CoinDCX job openings
+        run: npx tsx scripts/ingest-coindcx-official.ts
+        continue-on-error: true
+
       - name: Ingest Regional ATS Web3 feeds (Africa, Japan, Singapore, HK)
         run: npx tsx scripts/ingest-regional-feeds.ts
         continue-on-error: true
