@@ -37,6 +37,7 @@ const GLOBAL_WEB3_FEEDS: FeedConfig[] = [
   { company: 'Grayscale Investments', type: 'greenhouse', slug: 'grayscale', url: 'https://boards-api.greenhouse.io/v1/boards/grayscale/jobs?content=true' },
   { company: 'Mysten Labs (Sui)', type: 'ashby', slug: 'mystenlabs', url: 'https://api.ashbyhq.com/posting-api/job-board/mystenlabs' },
   { company: 'Immunefi', type: 'greenhouse', slug: 'immunefi', url: 'https://boards-api.greenhouse.io/v1/boards/immunefi/jobs?content=true' },
+  { company: 'Ramp Network', type: 'greenhouse', slug: 'rampnetwork', url: 'https://job-boards.eu.greenhouse.io/v1/boards/rampnetwork/jobs?content=true' },
 ];
 
 function fetchUrl(url: string): Promise<any> {
