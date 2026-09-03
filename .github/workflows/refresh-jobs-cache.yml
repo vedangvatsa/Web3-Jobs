@@ -80,6 +80,10 @@ jobs:
         run: npx tsx scripts/ingest-global-ecosystem-feeds.ts
         continue-on-error: true
 
+      - name: Ingest Untracked Web3, AI & Security ATS feeds (Cantina, Switchboard, Turnkey, Hyperbolic, Grass, Chainstack, Magic Eden)
+        run: npx tsx scripts/ingest-untracked-web3-companies.ts
+        continue-on-error: true
+
       - name: Pre-bake job slugs into cache
         run: node scripts/prebake_slugs.js
 
