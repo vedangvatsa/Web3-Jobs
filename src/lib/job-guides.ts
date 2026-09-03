@@ -262,9 +262,6 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   return cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
 }
 
-/**
- * Builds clean fallback copy for jobs where full description text is unavailable.
- */
 export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const sourceText = plainTextFromHtml(employerHtml || getCachedRawContent(job));
   const family = inferRoleFamily(job);
@@ -275,16 +272,25 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   const focus = signals.length > 1
     ? `${signals.slice(0, -1).join(', ')}, and ${signals.at(-1)}`
     : signals[0];
-  const teamLine = department ? `in ${department}` : `in the ${family} team`;
+  const teamLine = department ? `in ${department}` : `in the ${family} department`;
 
   let html = `<div class="space-y-6">\n`;
-  html += `<h2 class="text-xl font-bold tracking-tight text-foreground">Role Overview</h2>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground"><strong>${escapeHtml(job.company)}</strong> is hiring a <strong>${escapeHtml(job.title)}</strong> (${escapeHtml(location)}) ${escapeHtml(teamLine)}.</p>\n`;
+  html += `<h2 class="text-xl font-bold tracking-tight text-foreground">Role Overview &amp; Responsibilities</h2>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground"><strong>${escapeHtml(job.company)}</strong> is actively recruiting for a <strong>${escapeHtml(job.title)}</strong> position (${escapeHtml(location)}) ${escapeHtml(teamLine)}.</p>\n`;
+  
   if (focus) {
-    html += `<p class="leading-relaxed text-muted-foreground">Core focus areas for this position include: ${escapeHtml(focus)}.</p>\n`;
+    html += `<p class="leading-relaxed text-muted-foreground">Key technical competencies and focus areas for this role include: <strong>${escapeHtml(focus)}</strong>.</p>\n`;
   }
-  html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">Application Details</h3>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground">This job posting is sourced directly from official employer hiring feeds. Click <strong>Apply Now</strong> above to read full requirements and submit your application on ${escapeHtml(job.company)}'s careers portal.</p>\n`;
+
+  html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">What to Expect</h3>\n`;
+  html += `<ul class="list-disc pl-5 space-y-2 my-4 text-muted-foreground">\n`;
+  html += `<li>Drive key projects and deliverables within ${escapeHtml(job.company)}'s ${escapeHtml(family)} function.</li>\n`;
+  html += `<li>Collaborate across cross-functional engineering, product, and operations teams.</li>\n`;
+  html += `<li>Contribute to production-grade Web3, blockchain, and decentralized infrastructure solutions.</li>\n`;
+  html += `</ul>\n`;
+
+  html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">How to Apply</h3>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground">This opportunity is verified from official company ATS hiring feeds. Click <strong>Apply Now</strong> above to complete your application and review the full job specifications directly on <strong>${escapeHtml(job.company)}</strong>'s portal.</p>\n`;
   html += `</div>`;
   return cleanPublishHtml(html);
 }
