@@ -96,31 +96,39 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
 
   const filteredEvents = useMemo(() => {
     const now = new Date();
+    if (!Array.isArray(initialEvents)) return [];
     return initialEvents.filter(event => {
-      // Exclude past events
-      const eventEnd = event.endDate ? new Date(event.endDate) : new Date(event.startDate);
+      if (!event || typeof event !== 'object') return false;
+
+      // Exclude past events safely
+      const rawEnd = event.endDate || event.startDate;
+      if (!rawEnd) return false;
+      const eventEnd = new Date(rawEnd);
       if (!isNaN(eventEnd.getTime()) && eventEnd < now) return false;
 
       // Search
       const q = searchQuery.toLowerCase();
-      const matchesSearch = !q || event.name.toLowerCase().includes(q) ||
-                            (event.description || '').toLowerCase().includes(q) ||
-                            (event.location || '').toLowerCase().includes(q);
+      const nameStr = (event.name || '').toLowerCase();
+      const descStr = (event.description || '').toLowerCase();
+      const locStr = (event.location || '').toLowerCase();
+
+      const matchesSearch = !q || nameStr.includes(q) || descStr.includes(q) || locStr.includes(q);
 
       // Country
       let matchesCountry = true;
       if (countryFilter) {
         if (countryFilter === 'Online') {
-          matchesCountry = event.location === 'Online' || event.location?.toLowerCase().includes('online');
+          matchesCountry = locStr.includes('online');
         } else {
-          matchesCountry = normalizeCountry(event.country || '') === countryFilter || Boolean(event.location?.includes(countryFilter));
+          matchesCountry = normalizeCountry(event.country || '') === countryFilter || locStr.includes(countryFilter.toLowerCase());
         }
       }
 
       // Date range
       let matchesDate = true;
-      if (dateFilter) {
+      if (dateFilter && event.startDate) {
         const eventDate = new Date(event.startDate);
+        if (isNaN(eventDate.getTime())) return false;
         const today = new Date(now.getFullYear(), now.getMonth(), now.getDate());
         switch (dateFilter) {
           case 'today':
@@ -148,7 +156,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
     });
   }, [initialEvents, searchQuery, countryFilter, dateFilter]);
 
-  const isSearching = searchQuery.length > 0 || countryFilter || dateFilter;
+  const isSearching = searchQuery.length > 0 || Boolean(countryFilter) || Boolean(dateFilter);
   const visibleEvents = isSearching ? filteredEvents : filteredEvents.slice(0, visibleCount);
   const hasMore = !isSearching && visibleCount < filteredEvents.length;
 
@@ -157,42 +165,44 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
 
   // Calendar matrix computation
   const calendarDays = useMemo(() => {
-    const year = currentMonth.getFullYear();
-    const month = currentMonth.getMonth();
-    const firstDayIndex = new Date(year, month, 1).getDay();
-    const daysInMonth = new Date(year, month + 1, 0).getDate();
-    const daysInPrevMonth = new Date(year, month, 0).getDate();
+    try {
+      const year = currentMonth.getFullYear();
+      const month = currentMonth.getMonth();
+      const firstDayIndex = new Date(year, month, 1).getDay();
+      const daysInMonth = new Date(year, month + 1, 0).getDate();
+      const daysInPrevMonth = new Date(year, month, 0).getDate();
 
-    const days = [];
-    // Previous month padding
-    for (let i = firstDayIndex - 1; i >= 0; i--) {
-      days.push({
-        date: new Date(year, month - 1, daysInPrevMonth - i),
-        isCurrentMonth: false,
-      });
+      const days = [];
+      for (let i = firstDayIndex - 1; i >= 0; i--) {
+        days.push({
+          date: new Date(year, month - 1, daysInPrevMonth - i),
+          isCurrentMonth: false,
+        });
+      }
+      for (let i = 1; i <= daysInMonth; i++) {
+        days.push({
+          date: new Date(year, month, i),
+          isCurrentMonth: true,
+        });
+      }
+      const remaining = 42 - days.length;
+      for (let i = 1; i <= remaining; i++) {
+        days.push({
+          date: new Date(year, month + 1, i),
+          isCurrentMonth: false,
+        });
+      }
+      return days;
+    } catch {
+      return [];
     }
-    // Current month days
-    for (let i = 1; i <= daysInMonth; i++) {
-      days.push({
-        date: new Date(year, month, i),
-        isCurrentMonth: true,
-      });
-    }
-    // Next month padding to complete 42 cells (6 rows × 7 days)
-    const remaining = 42 - days.length;
-    for (let i = 1; i <= remaining; i++) {
-      days.push({
-        date: new Date(year, month + 1, i),
-        isCurrentMonth: false,
-      });
-    }
-    return days;
   }, [currentMonth]);
 
-  // Map events to calendar days
+  // Map events to calendar days safely
   const eventsByDay = useMemo(() => {
     const map = new Map<string, Web3Event[]>();
     filteredEvents.forEach(event => {
+      if (!event?.startDate) return;
       const d = new Date(event.startDate);
       if (isNaN(d.getTime())) return;
       const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
