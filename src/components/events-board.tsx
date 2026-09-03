@@ -152,10 +152,60 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
   const visibleEvents = isSearching ? filteredEvents : filteredEvents.slice(0, visibleCount);
   const hasMore = !isSearching && visibleCount < filteredEvents.length;
 
+  const [viewMode, setViewMode] = useState<'grid' | 'calendar'>('grid');
+  const [currentMonth, setCurrentMonth] = useState(() => new Date());
+
+  // Calendar matrix computation
+  const calendarDays = useMemo(() => {
+    const year = currentMonth.getFullYear();
+    const month = currentMonth.getMonth();
+    const firstDayIndex = new Date(year, month, 1).getDay();
+    const daysInMonth = new Date(year, month + 1, 0).getDate();
+    const daysInPrevMonth = new Date(year, month, 0).getDate();
+
+    const days = [];
+    // Previous month padding
+    for (let i = firstDayIndex - 1; i >= 0; i--) {
+      days.push({
+        date: new Date(year, month - 1, daysInPrevMonth - i),
+        isCurrentMonth: false,
+      });
+    }
+    // Current month days
+    for (let i = 1; i <= daysInMonth; i++) {
+      days.push({
+        date: new Date(year, month, i),
+        isCurrentMonth: true,
+      });
+    }
+    // Next month padding to complete 42 cells (6 rows × 7 days)
+    const remaining = 42 - days.length;
+    for (let i = 1; i <= remaining; i++) {
+      days.push({
+        date: new Date(year, month + 1, i),
+        isCurrentMonth: false,
+      });
+    }
+    return days;
+  }, [currentMonth]);
+
+  // Map events to calendar days
+  const eventsByDay = useMemo(() => {
+    const map = new Map<string, Web3Event[]>();
+    filteredEvents.forEach(event => {
+      const d = new Date(event.startDate);
+      if (isNaN(d.getTime())) return;
+      const key = `${d.getFullYear()}-${String(d.getMonth() + 1).padStart(2, '0')}-${String(d.getDate()).padStart(2, '0')}`;
+      if (!map.has(key)) map.set(key, []);
+      map.get(key)!.push(event);
+    });
+    return map;
+  }, [filteredEvents]);
+
   // Infinite scroll
   useEffect(() => {
     const sentinel = sentinelRef.current;
-    if (!sentinel || !hasMore) return;
+    if (!sentinel || !hasMore || viewMode === 'calendar') return;
     const observer = new IntersectionObserver(
       (entries) => {
         if (entries[0]?.isIntersecting) {
@@ -166,14 +216,14 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
     );
     observer.observe(sentinel);
     return () => observer.disconnect();
-  }, [hasMore, filteredEvents.length]);
+  }, [hasMore, filteredEvents.length, viewMode]);
 
   return (
     <div>
-      {/* Search + Filters */}
-      <div className="mb-6">
-        <div className="flex flex-col sm:flex-row gap-3">
-          <div className="relative flex-1" role="search">
+      {/* Search + Filters + View Toggle */}
+      <div className="mb-6 space-y-3">
+        <div className="flex flex-col sm:flex-row gap-3 items-center">
+          <div className="relative flex-1 w-full" role="search">
             <Input
               placeholder="Search events, locations..."
               value={searchQuery}
@@ -183,11 +233,47 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             />
             <Search className="absolute left-3 top-1/2 h-4 w-4 -translate-y-1/2 text-muted-foreground" aria-hidden="true" />
           </div>
-          <div className="grid grid-cols-2 gap-3 sm:flex sm:gap-3">
+
+          {/* View Toggle */}
+          <div className="flex items-center gap-1 p-1 bg-muted/60 border border-border/60 rounded-md shrink-0 self-stretch sm:self-auto justify-center">
+            <button
+              onClick={() => setViewMode('grid')}
+              className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded transition-colors ${
+                viewMode === 'grid'
+                  ? 'bg-background text-foreground shadow-xs'
+                  : 'text-muted-foreground hover:text-foreground'
+              }`}
+              aria-label="Grid View"
+            >
+              <span className="w-3.5 h-3.5 grid grid-cols-2 gap-0.5">
+                <span className="bg-current rounded-xs"></span>
+                <span className="bg-current rounded-xs"></span>
+                <span className="bg-current rounded-xs"></span>
+                <span className="bg-current rounded-xs"></span>
+              </span>
+              Grid View
+            </button>
+            <button
+              onClick={() => setViewMode('calendar')}
+              className={`flex items-center gap-1.5 px-3 py-1.5 text-xs font-semibold rounded transition-colors ${
+                viewMode === 'calendar'
+                  ? 'bg-background text-foreground shadow-xs'
+                  : 'text-muted-foreground hover:text-foreground'
+              }`}
+              aria-label="Calendar View"
+            >
+              <Calendar className="w-3.5 h-3.5" />
+              Calendar View
+            </button>
+          </div>
+        </div>
+
+        <div className="flex flex-wrap items-center justify-between gap-3">
+          <div className="grid grid-cols-2 gap-3 sm:flex sm:gap-3 w-full sm:w-auto">
             <select
               value={countryFilter || ''}
               onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-11 w-full sm:w-auto px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
+              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
               aria-label="Filter by location"
             >
               <option value="">All Locations</option>
@@ -198,7 +284,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
             <select
               value={dateFilter || ''}
               onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-11 w-full sm:w-auto px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
+              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate"
               aria-label="Filter by date"
             >
               <option value="">All Dates</option>
@@ -207,27 +293,134 @@ export function EventsBoard({ initialEvents }: { initialEvents: Web3Event[] }) {
               ))}
             </select>
           </div>
+
+          {isSearching && (
+            <p className="text-xs text-muted-foreground" aria-live="polite">
+              Showing {filteredEvents.length} result{filteredEvents.length === 1 ? '' : 's'}
+            </p>
+          )}
         </div>
-        {isSearching && (
-          <p className="mt-2 text-sm text-muted-foreground" aria-live="polite">
-            {filteredEvents.length} result{filteredEvents.length === 1 ? '' : 's'}
-          </p>
-        )}
       </div>
 
-      {/* Events Grid */}
-      <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
-        {visibleEvents.map((event) => (
-          <EventCard key={event.id} event={event} />
-        ))}
-      </div>
+      {/* Grid View */}
+      {viewMode === 'grid' && (
+        <>
+          <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+            {visibleEvents.map((event) => (
+              <EventCard key={event.id} event={event} />
+            ))}
+          </div>
 
-      {/* Infinite scroll sentinel */}
-      {hasMore && (
-        <div ref={sentinelRef} className="flex justify-center py-8" aria-hidden="true">
-          <div className="flex items-center gap-2 text-sm text-muted-foreground">
-            <div className="h-4 w-4 border-2 border-muted-foreground/30 border-t-primary rounded-full animate-spin" />
-            Loading more events...
+          {hasMore && (
+            <div ref={sentinelRef} className="flex justify-center py-8" aria-hidden="true">
+              <div className="flex items-center gap-2 text-sm text-muted-foreground">
+                <div className="h-4 w-4 border-2 border-muted-foreground/30 border-t-primary rounded-full animate-spin" />
+                Loading more events...
+              </div>
+            </div>
+          )}
+        </>
+      )}
+
+      {/* Calendar View */}
+      {viewMode === 'calendar' && (
+        <div className="border border-border/80 rounded-xl bg-card overflow-hidden shadow-xs">
+          {/* Calendar Header Navigation */}
+          <div className="flex items-center justify-between px-4 py-3 border-b border-border/70 bg-muted/30">
+            <h2 className="text-base font-bold text-foreground">
+              {currentMonth.toLocaleDateString('en-US', { month: 'long', year: 'numeric' })}
+            </h2>
+            <div className="flex items-center gap-2">
+              <button
+                onClick={() => setCurrentMonth(new Date())}
+                className="px-2.5 py-1 text-xs font-medium border border-border/80 rounded-md bg-background hover:bg-muted text-foreground transition-colors"
+              >
+                Today
+              </button>
+              <div className="flex items-center gap-1">
+                <button
+                  onClick={() => setCurrentMonth(new Date(currentMonth.getFullYear(), currentMonth.getMonth() - 1, 1))}
+                  className="p-1.5 border border-border/80 rounded-md bg-background hover:bg-muted text-foreground transition-colors"
+                  aria-label="Previous Month"
+                >
+                  ‹
+                </button>
+                <button
+                  onClick={() => setCurrentMonth(new Date(currentMonth.getFullYear(), currentMonth.getMonth() + 1, 1))}
+                  className="p-1.5 border border-border/80 rounded-md bg-background hover:bg-muted text-foreground transition-colors"
+                  aria-label="Next Month"
+                >
+                  ›
+                </button>
+              </div>
+            </div>
+          </div>
+
+          {/* Days of Week Header */}
+          <div className="grid grid-cols-7 border-b border-border/70 bg-muted/20 text-center text-xs font-semibold text-muted-foreground py-2">
+            <div>Sun</div>
+            <div>Mon</div>
+            <div>Tue</div>
+            <div>Wed</div>
+            <div>Thu</div>
+            <div>Fri</div>
+            <div>Sat</div>
+          </div>
+
+          {/* Days Grid */}
+          <div className="grid grid-cols-7 auto-rows-fr divide-x divide-y divide-border/60">
+            {calendarDays.map(({ date, isCurrentMonth }, idx) => {
+              const key = `${date.getFullYear()}-${String(date.getMonth() + 1).padStart(2, '0')}-${String(date.getDate()).padStart(2, '0')}`;
+              const dayEvents = eventsByDay.get(key) || [];
+              const isToday = new Date().toDateString() === date.toDateString();
+
+              return (
+                <div
+                  key={idx}
+                  className={`min-h-[100px] p-1.5 flex flex-col transition-colors ${
+                    isCurrentMonth ? 'bg-card' : 'bg-muted/20 text-muted-foreground/50'
+                  }`}
+                >
+                  <div className="flex items-center justify-between mb-1">
+                    <span
+                      className={`text-xs font-semibold inline-flex items-center justify-center h-5 w-5 rounded-full ${
+                        isToday
+                          ? 'bg-primary text-primary-foreground font-bold'
+                          : isCurrentMonth
+                          ? 'text-foreground'
+                          : 'text-muted-foreground/50'
+                      }`}
+                    >
+                      {date.getDate()}
+                    </span>
+                    {dayEvents.length > 0 && (
+                      <span className="text-[10px] font-bold text-muted-foreground bg-muted px-1.5 py-0.5 rounded-full">
+                        {dayEvents.length}
+                      </span>
+                    )}
+                  </div>
+
+                  {/* Event Badges */}
+                  <div className="flex-1 space-y-1 overflow-y-auto max-h-[90px] pr-0.5">
+                    {dayEvents.slice(0, 3).map((ev) => (
+                      <Link
+                        key={ev.id}
+                        href={`/${getEventSlug(ev)}`}
+                        className="block text-[11px] font-medium leading-tight p-1 rounded bg-primary/10 hover:bg-primary/20 text-primary border border-primary/20 truncate transition-colors"
+                        title={`${ev.name} (${getEventCity(ev) || 'Online'})`}
+                      >
+                        {ev.name}
+                      </Link>
+                    ))}
+                    {dayEvents.length > 3 && (
+                      <span className="block text-[10px] font-medium text-muted-foreground text-center pt-0.5">
+                        +{dayEvents.length - 3} more
+                      </span>
+                    )}
+                  </div>
+                </div>
+              );
+            })}
           </div>
         </div>
       )}
