@@ -987,6 +987,55 @@ async function fetchWeb3Voyager() {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
+// SOURCE 8c: Dev.events Web3 Category API / LD+JSON
+// ═══════════════════════════════════════════════════════════════════════
+async function fetchDevEvents() {
+  try {
+    const res = await fetch('https://dev.events/web3', { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(6000) });
+    if (!res.ok) return [];
+    const html = await res.text();
+    const { load } = await import('cheerio');
+    const $ = load(html);
+
+    const now = new Date().toISOString();
+    const events = [];
+
+    $('script[type="application/ld+json"]').each((_, el) => {
+      try {
+        const data = JSON.parse($(el).html() || '{}');
+        if (data['@type'] === 'EducationEvent' || data['@type'] === 'Event') {
+          const name = data.name;
+          const startDate = data.startDate;
+          const endDate = data.endDate || startDate;
+          const loc = data.location || {};
+          const city = loc.address?.addressLocality || 'Global';
+          const country = loc.address?.addressCountry || '';
+          const url = data.url || data.offers?.url;
+
+          if (!name || !startDate || startDate < now.slice(0, 10)) return;
+
+          events.push({
+            id: `dev-events-${name.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
+            name,
+            description: data.description || `Web3 conference in ${city}`,
+            startDate,
+            endDate,
+            city,
+            country,
+            location: country ? `${city}, ${country}` : city,
+            url: url || 'https://dev.events/web3',
+            coverImage: data.image || null,
+            source: 'dev-events',
+          });
+        }
+      } catch {}
+    });
+
+    return events;
+  } catch { return []; }
+}
+
+// ═══════════════════════════════════════════════════════════════════════
 // SOURCE 9: ethereum.org Community Events (conferences + meetups)
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchEthereumOrgEvents() {
@@ -1221,6 +1270,16 @@ async function fetchWeb3Events() {
   });
   console.log(`[Web3Voyager] +${allEventsMap.size - w3vBefore} events`);
 
+  // ── 10c. Dev.events ──
+  console.log(`\n[Dev.events] Fetching Dev.events Web3 conferences...`);
+  let devEvBefore = allEventsMap.size;
+  const devEventsList = await fetchDevEvents();
+  devEventsList.forEach(e => {
+    e.bypassedFilter = true;
+    if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e);
+  });
+  console.log(`[Dev.events] +${allEventsMap.size - devEvBefore} events`);
+
   // ── 11. ethereum.org ──
   console.log(`\n[ethereum.org] Fetching community events...`);
   let ethOrgBefore = allEventsMap.size;
@@ -1283,7 +1342,7 @@ async function fetchWeb3Events() {
   // Trusted sources that are inherently Web3 (bypass strict name-level check)
   const TRUSTED_SOURCES = new Set([
     'ethglobal', 'deeptechtimes', 'marketacross', 'coinmarketcap',
-    'ethereum.org', 'web3meetups', 'google-cloud-web3',
+    'ethereum.org', 'web3meetups', 'web3voyager', 'dev-events', 'google-cloud-web3',
   ]);
 
   // ALL events must pass Web3 relevance — no exceptions
