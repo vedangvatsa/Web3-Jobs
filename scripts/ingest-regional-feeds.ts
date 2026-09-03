@@ -14,10 +14,10 @@ interface RegionalFeed {
 const REGIONAL_FEEDS: RegionalFeed[] = [
   // Africa
   { company: 'Yellow Card', type: 'bamboo', slug: 'yellowcard', url: 'https://yellowcard.bamboohr.com/careers/list' },
-  { company: 'Luno', type: 'greenhouse', slug: 'luno', url: 'https://boards-api.greenhouse.io/v1/boards/luno/jobs' },
+  { company: 'Luno', type: 'greenhouse', slug: 'luno', url: 'https://boards-api.greenhouse.io/v1/boards/luno/jobs?content=true' },
   
   // Singapore & Asia Hubs
-  { company: 'Bybit', type: 'greenhouse', slug: 'bybit', url: 'https://boards-api.greenhouse.io/v1/boards/bybit/jobs' },
+  { company: 'Bybit', type: 'greenhouse', slug: 'bybit', url: 'https://boards-api.greenhouse.io/v1/boards/bybit/jobs?content=true' },
   { company: 'Coinhako', type: 'ashby', slug: 'coinhako', url: 'https://api.ashbyhq.com/posting-api/job-board/coinhako' },
   { company: 'CoinGecko', type: 'lever', slug: 'coingecko', url: 'https://api.lever.co/v0/postings/coingecko?mode=json' },
   { company: 'Amber Group', type: 'bamboo', slug: 'ambergroup', url: 'https://ambergroup.bamboohr.com/careers/list' },
@@ -94,6 +94,7 @@ async function ingestRegionalFeeds() {
           department: j.departmentLabel || feed.company,
           source: `bamboohr:${feed.slug}`,
           rawId: j.id,
+          content: j.description || j.jobDescription || '',
         }));
       } else if (feed.type === 'ashby') {
         const rawList = data.jobs || [];
@@ -107,6 +108,7 @@ async function ingestRegionalFeeds() {
           department: j.department || feed.company,
           source: `ashby:${feed.slug}`,
           rawId: j.id,
+          content: j.descriptionHtml || j.descriptionPlain || '',
         }));
       } else if (feed.type === 'lever') {
         const rawList = Array.isArray(data) ? data : [];
@@ -120,6 +122,7 @@ async function ingestRegionalFeeds() {
           department: j.categories?.department || feed.company,
           source: `lever:${feed.slug}`,
           rawId: j.id,
+          content: j.description || j.descriptionHtml || '',
         }));
       } else if (feed.type === 'greenhouse') {
         const rawList = data.jobs || [];
@@ -133,6 +136,7 @@ async function ingestRegionalFeeds() {
           department: j.departments?.[0]?.name || feed.company,
           source: `greenhouse:${feed.slug}`,
           rawId: j.id,
+          content: j.content || '',
         }));
       }
 
@@ -162,6 +166,17 @@ async function ingestRegionalFeeds() {
           cacheData.unshift(jobObj);
           countForFeed++;
           totalNew++;
+        }
+
+        if (item.content && item.content.length > 50) {
+          const descPath = path.join(process.cwd(), 'content/job-descriptions.json');
+          if (fs.existsSync(descPath)) {
+            const descMap = JSON.parse(fs.readFileSync(descPath, 'utf8'));
+            if (!descMap[jobObj.id]) {
+              descMap[jobObj.id] = item.content;
+              fs.writeFileSync(descPath, JSON.stringify(descMap, null, 2));
+            }
+          }
         }
       }
 
