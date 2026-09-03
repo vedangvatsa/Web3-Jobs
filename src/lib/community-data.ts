@@ -78,7 +78,6 @@ export const mediaLogos = [
 export const hiredCompanies = [
   { name: 'Alemx', src: '/logo/job/alemx.webp', alt: 'Alemx logo' },
   { name: 'Ante', src: '/logo/job/ante.webp', alt: 'Ante logo' },
-  { name: 'Antier', src: '/logo/job/antier.png', alt: 'Antier logo' },
   { name: 'Bitget', src: '/logo/job/bitget.webp', alt: 'Bitget logo' },
   { name: 'Circle', src: '/logo/job/circle.webp', alt: 'Circle logo' },
   { name: 'Coinbase', src: '/logo/job/coinbase.webp', alt: 'Coinbase logo' },
