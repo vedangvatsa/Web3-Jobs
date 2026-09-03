@@ -13,14 +13,14 @@ interface FeedConfig {
 
 const GLOBAL_WEB3_FEEDS: FeedConfig[] = [
   // Infrastructure, Layer 1/2 & Ecosystem Leaders
-  { company: 'Fireblocks', type: 'greenhouse', slug: 'fireblocks', url: 'https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs' },
-  { company: 'BitGo', type: 'greenhouse', slug: 'bitgo', url: 'https://boards-api.greenhouse.io/v1/boards/bitgo/jobs' },
-  { company: 'Gemini', type: 'greenhouse', slug: 'gemini', url: 'https://boards-api.greenhouse.io/v1/boards/gemini/jobs' },
-  { company: 'Flow Traders', type: 'greenhouse', slug: 'flowtraders', url: 'https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs' },
+  { company: 'Fireblocks', type: 'greenhouse', slug: 'fireblocks', url: 'https://boards-api.greenhouse.io/v1/boards/fireblocks/jobs?content=true' },
+  { company: 'BitGo', type: 'greenhouse', slug: 'bitgo', url: 'https://boards-api.greenhouse.io/v1/boards/bitgo/jobs?content=true' },
+  { company: 'Gemini', type: 'greenhouse', slug: 'gemini', url: 'https://boards-api.greenhouse.io/v1/boards/gemini/jobs?content=true' },
+  { company: 'Flow Traders', type: 'greenhouse', slug: 'flowtraders', url: 'https://boards-api.greenhouse.io/v1/boards/flowtraders/jobs?content=true' },
   { company: 'CertiK', type: 'lever', slug: 'certik', url: 'https://api.lever.co/v0/postings/certik?mode=json' },
-  { company: 'a16z crypto', type: 'greenhouse', slug: 'a16z', url: 'https://boards-api.greenhouse.io/v1/boards/a16z/jobs' },
+  { company: 'a16z crypto', type: 'greenhouse', slug: 'a16z', url: 'https://boards-api.greenhouse.io/v1/boards/a16z/jobs?content=true' },
   { company: 'Injective', type: 'ashby', slug: 'injective', url: 'https://api.ashbyhq.com/posting-api/job-board/injective' },
-  { company: 'Ritual (AI + Web3)', type: 'greenhouse', slug: 'ritual', url: 'https://boards-api.greenhouse.io/v1/boards/ritual/jobs' },
+  { company: 'Ritual (AI + Web3)', type: 'greenhouse', slug: 'ritual', url: 'https://boards-api.greenhouse.io/v1/boards/ritual/jobs?content=true' },
   { company: 'Arbitrum (Offchain Labs)', type: 'lever', slug: 'offchainlabs', url: 'https://api.lever.co/v0/postings/offchainlabs?mode=json' },
   { company: 'Render Network', type: 'ashby', slug: 'render', url: 'https://api.ashbyhq.com/posting-api/job-board/render' },
   { company: 'Phantom', type: 'ashby', slug: 'phantom', url: 'https://api.ashbyhq.com/posting-api/job-board/phantom' },
@@ -29,14 +29,14 @@ const GLOBAL_WEB3_FEEDS: FeedConfig[] = [
   { company: 'Uniswap Labs', type: 'ashby', slug: 'uniswap', url: 'https://api.ashbyhq.com/posting-api/job-board/uniswap' },
   { company: 'Ethena Labs', type: 'lever', slug: 'ethena', url: 'https://api.lever.co/v0/postings/ethena?mode=json' },
   { company: 'Optimism (OP Labs)', type: 'ashby', slug: 'oplabs', url: 'https://api.ashbyhq.com/posting-api/job-board/oplabs' },
-  { company: 'Consensys (MetaMask)', type: 'greenhouse', slug: 'consensys', url: 'https://boards-api.greenhouse.io/v1/boards/consensys/jobs' },
+  { company: 'Consensys (MetaMask)', type: 'greenhouse', slug: 'consensys', url: 'https://boards-api.greenhouse.io/v1/boards/consensys/jobs?content=true' },
   { company: 'Compound', type: 'ashby', slug: 'compound', url: 'https://api.ashbyhq.com/posting-api/job-board/compound' },
-  { company: 'Jump Crypto', type: 'greenhouse', slug: 'jumpcrypto', url: 'https://boards-api.greenhouse.io/v1/boards/jumpcrypto/jobs' },
+  { company: 'Jump Crypto', type: 'greenhouse', slug: 'jumpcrypto', url: 'https://boards-api.greenhouse.io/v1/boards/jumpcrypto/jobs?content=true' },
   { company: 'TRM Labs', type: 'bamboo', slug: 'trmlabs', url: 'https://trmlabs.bamboohr.com/careers/list' },
-  { company: 'OpenZeppelin', type: 'greenhouse', slug: 'openzeppelin', url: 'https://boards-api.greenhouse.io/v1/boards/openzeppelin/jobs' },
-  { company: 'Grayscale Investments', type: 'greenhouse', slug: 'grayscale', url: 'https://boards-api.greenhouse.io/v1/boards/grayscale/jobs' },
+  { company: 'OpenZeppelin', type: 'greenhouse', slug: 'openzeppelin', url: 'https://boards-api.greenhouse.io/v1/boards/openzeppelin/jobs?content=true' },
+  { company: 'Grayscale Investments', type: 'greenhouse', slug: 'grayscale', url: 'https://boards-api.greenhouse.io/v1/boards/grayscale/jobs?content=true' },
   { company: 'Mysten Labs (Sui)', type: 'ashby', slug: 'mystenlabs', url: 'https://api.ashbyhq.com/posting-api/job-board/mystenlabs' },
-  { company: 'Immunefi', type: 'greenhouse', slug: 'immunefi', url: 'https://boards-api.greenhouse.io/v1/boards/immunefi/jobs' },
+  { company: 'Immunefi', type: 'greenhouse', slug: 'immunefi', url: 'https://boards-api.greenhouse.io/v1/boards/immunefi/jobs?content=true' },
 ];
 
 function fetchUrl(url: string): Promise<any> {
