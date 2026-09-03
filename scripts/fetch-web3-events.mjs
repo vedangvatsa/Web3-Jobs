@@ -399,34 +399,46 @@ const LUMA_COMMUNITIES = [
 
 async function fetchLumaCommunity(slug) {
   try {
-    const res = await fetch(`https://lu.ma/${slug}`, { headers: { 'User-Agent': UA, 'Accept': 'text/html' }, signal: AbortSignal.timeout(3000) });
+    const res = await fetch(`https://lu.ma/${slug}`, { headers: { 'User-Agent': UA, 'Accept': 'text/html' }, signal: AbortSignal.timeout(4000) });
     if (!res.ok) return [];
     const html = await res.text();
     const match = html.match(/id="__NEXT_DATA__"[^>]*>(.*?)<\/script>/s);
     if (!match) return [];
     const data = JSON.parse(match[1]);
-    const initialData = data.props?.pageProps?.initialData?.data;
-    const items = initialData?.featured_items || initialData?.timeline_calendars || [];
 
-    return items.map(item => {
-      const cal = item.calendar || item;
-      const event = item.event || item;
-      if (!cal && !event) return null;
-      const geo = event?.geo_address_info || {};
-      return {
-        id: `luma-host-${event?.api_id || cal?.api_id}`,
-        name: event?.name || cal?.name || '',
-        description: (event?.description_short || cal?.description_short || '').slice(0, 200),
-        startDate: event?.start_at || item.start_at || '',
-        endDate: event?.end_at || item.end_at || '',
-        city: geo.city || cal?.geo_city || '',
-        country: geo.country || cal?.geo_country || '',
-        location: [geo.city || cal?.geo_city, geo.country || cal?.geo_country].filter(Boolean).join(', ') || 'Virtual / TBA',
-        url: `https://lu.ma/${event?.url || cal?.slug || event?.api_id}`,
-        coverImage: event?.cover_url || cal?.cover_image_url || null,
-        source: 'luma-trusted',
-      };
-    }).filter(e => e && e.name && e.startDate);
+    const events = [];
+    function extractEvents(obj) {
+      if (!obj) return;
+      if (typeof obj === 'object') {
+        if (obj.name && obj.start_at && (obj.api_id || obj.url)) {
+          const geo = obj.geo_address_info || {};
+          const id = `luma-host-evt-${obj.api_id || obj.url}`;
+          if (!events.some(e => e.id === id)) {
+            events.push({
+              id,
+              name: obj.name,
+              description: (obj.description_short || '').slice(0, 200),
+              startDate: obj.start_at,
+              endDate: obj.end_at || '',
+              city: geo.city || '',
+              country: geo.country || '',
+              location: [geo.city, geo.country].filter(Boolean).join(', ') || (obj.location_type === 'online' ? 'Online' : 'TBA'),
+              url: `https://lu.ma/${obj.url || obj.api_id}`,
+              coverImage: obj.cover_url || obj.social_image_url || null,
+              source: 'luma-trusted',
+            });
+          }
+        }
+        for (const k of Object.keys(obj)) {
+          extractEvents(obj[k]);
+        }
+      } else if (Array.isArray(obj)) {
+        obj.forEach(extractEvents);
+      }
+    }
+
+    extractEvents(data.props?.pageProps?.initialData);
+    return events;
   } catch { return []; }
 }
 
