@@ -1323,21 +1323,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "side-kbw-defi-night-seoul-2026",
-    "slug": "kbw",
-    "name": "KBW Seoul DeFi & Institutional Trading Night",
-    "description": "Evening gathering of market makers, DEX teams, and institutional prime brokerages celebrating Korea Blockchain Week.",
-    "startDate": "2026-09-02T18:00:00.000Z",
-    "endDate": "2026-09-02T23:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Gangnam Lounge, Seoul, South Korea",
-    "url": "https://koreablockchainweek.com",
-    "website": "https://koreablockchainweek.com",
-    "coverImage": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "side-kbw-web3-gaming-gala-2026",
     "slug": "kbw1",
     "name": "KBW Web3 Gaming & Esports Gala",
