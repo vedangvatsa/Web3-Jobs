@@ -36,11 +36,10 @@ export async function GET(request: NextRequest) {
       boxShadow: '0 25px 50px -12px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.8)',
     } as const;
 
-    // 1. Dedicated Job Posting Template (Light, Crisp, Modern Editorial)
+    // 1. Dedicated Job Posting Template (Clean, Minimalist, High Contrast)
     if (type === 'job') {
-      const displayTitle = title.length > 52 ? `${title.slice(0, 49)}...` : title;
+      const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
       const displayCompany = company || 'Web3 Company';
-      const displayLocation = location || 'Remote';
 
       return new ImageResponse(
         (
@@ -50,201 +49,47 @@ export async function GET(request: NextRequest) {
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '40px',
+              padding: '48px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                width: '1120px',
-                height: '550px',
-                padding: '48px 56px',
-                justifyContent: 'space-between',
+                width: '1104px',
+                height: '534px',
+                padding: '64px 72px',
+                justifyContent: 'center',
+                gap: '24px',
               }}
             >
-              {/* Top Row: Brand & Status Pill */}
+              {/* Header: {Company} is hiring */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  justifyContent: 'space-between',
-                  width: '100%',
-                }}
-              >
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '12px',
-                    padding: '8px 18px',
-                    backgroundColor: '#f0f9ff',
-                    border: '1px solid #bae6fd',
-                    borderRadius: '999px',
-                  }}
-                >
-                  <div
-                    style={{
-                      width: '10px',
-                      height: '10px',
-                      borderRadius: '50%',
-                      backgroundColor: '#0284c7',
-                    }}
-                  />
-                  <div
-                    style={{
-                      fontSize: '18px',
-                      fontWeight: '700',
-                      color: '#0284c7',
-                      letterSpacing: '0.5px',
-                    }}
-                  >
-                    HASHTAG WEB3 • VERIFIED OPENING
-                  </div>
-                </div>
-
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    padding: '6px 16px',
-                    backgroundColor: '#ecfdf5',
-                    border: '1px solid #a7f3d0',
-                    borderRadius: '999px',
-                    fontSize: '16px',
-                    fontWeight: '600',
-                    color: '#059669',
-                  }}
-                >
-                  DIRECT ATS APPLICATION
-                </div>
-              </div>
-
-              {/* Middle Section: Company & Role Title */}
-              <div
-                style={{
-                  display: 'flex',
-                  flexDirection: 'column',
                   gap: '12px',
-                  width: '100%',
+                  fontSize: '34px',
+                  fontWeight: '700',
+                  color: '#0284c7',
+                  letterSpacing: '-0.5px',
                 }}
               >
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    gap: '8px',
-                    fontSize: '26px',
-                    fontWeight: '700',
-                    color: '#0284c7',
-                  }}
-                >
-                  <div style={{ display: 'flex', color: '#0284c7' }}>{displayCompany}</div>
-                  <div style={{ display: 'flex', color: '#64748b', fontWeight: '500' }}>is hiring</div>
-                </div>
-
-                <div
-                  style={{
-                    display: 'flex',
-                    fontSize: displayTitle.length > 35 ? '46px' : '54px',
-                    fontWeight: '800',
-                    color: '#0f172a',
-                    lineHeight: '1.15',
-                    letterSpacing: '-1px',
-                  }}
-                >
-                  {displayTitle}
-                </div>
+                <div style={{ display: 'flex', color: '#0284c7' }}>{displayCompany}</div>
+                <div style={{ display: 'flex', color: '#64748b', fontWeight: '500' }}>is hiring</div>
               </div>
 
-              {/* Meta Badges Row */}
+              {/* Role Title: {Job Title} */}
               <div
                 style={{
                   display: 'flex',
-                  alignItems: 'center',
-                  gap: '14px',
+                  fontSize: displayTitle.length > 35 ? '56px' : '68px',
+                  fontWeight: '800',
+                  color: '#0f172a',
+                  lineHeight: '1.15',
+                  letterSpacing: '-1.5px',
                 }}
               >
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    padding: '10px 20px',
-                    backgroundColor: '#f8fafc',
-                    border: '1px solid #e2e8f0',
-                    borderRadius: '12px',
-                    fontSize: '18px',
-                    fontWeight: '600',
-                    color: '#334155',
-                  }}
-                >
-                  Location: {displayLocation}
-                </div>
-
-                {department && (
-                  <div
-                    style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      padding: '10px 20px',
-                      backgroundColor: '#f8fafc',
-                      border: '1px solid #e2e8f0',
-                      borderRadius: '12px',
-                      fontSize: '18px',
-                      fontWeight: '600',
-                      color: '#334155',
-                    }}
-                  >
-                    Team: {department}
-                  </div>
-                )}
-
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    padding: '10px 20px',
-                    backgroundColor: '#f8fafc',
-                    border: '1px solid #e2e8f0',
-                    borderRadius: '12px',
-                    fontSize: '18px',
-                    fontWeight: '600',
-                    color: '#334155',
-                  }}
-                >
-                  Category: Web3 / Crypto
-                </div>
-              </div>
-
-              {/* Bottom Row: Footer Branding */}
-              <div
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'space-between',
-                  width: '100%',
-                  borderTop: '1px solid #f1f5f9',
-                  paddingTop: '20px',
-                }}
-              >
-                <div
-                  style={{
-                    fontSize: '22px',
-                    fontWeight: '800',
-                    color: '#0284c7',
-                  }}
-                >
-                  HashtagWeb3.com
-                </div>
-
-                <div
-                  style={{
-                    fontSize: '18px',
-                    fontWeight: '500',
-                    color: '#94a3b8',
-                  }}
-                >
-                  Explore Top Crypto & Web3 Careers • {date}
-                </div>
+                {displayTitle}
               </div>
             </div>
           </div>
