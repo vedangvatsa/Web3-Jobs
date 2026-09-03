@@ -1,5 +1,1825 @@
 [
   {
+    "id": "ashby-foundation-2fffc9a2-7e3a-461c-8bb1-675540024014",
+    "title": "Software Engineering",
+    "company": "Foundation",
+    "location": "San Francisco, Boulder, or Austin",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/2fffc9a2-7e3a-461c-8bb1-675540024014",
+    "applyUrl": "https://jobs.ashbyhq.com/foundation/2fffc9a2-7e3a-461c-8bb1-675540024014",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job24014"
+  },
+  {
+    "id": "ashby-foundation-e209bb72-3d83-4f74-b8de-6f44773bde6f",
+    "title": "Customer Success Manager/Lead",
+    "company": "Foundation",
+    "location": "San Francisco or Boulder",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/e209bb72-3d83-4f74-b8de-6f44773bde6f",
+    "applyUrl": "https://jobs.ashbyhq.com/foundation/e209bb72-3d83-4f74-b8de-6f44773bde6f",
+    "department": "Customer Success",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "managerbde6f"
+  },
+  {
+    "id": "ashby-foundation-72eaec77-893b-4bfe-a98c-47eae5f4ebb6",
+    "title": "Marketing Lead",
+    "company": "Foundation",
+    "location": "San Francisco",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/72eaec77-893b-4bfe-a98c-47eae5f4ebb6",
+    "applyUrl": "https://jobs.ashbyhq.com/foundation/72eaec77-893b-4bfe-a98c-47eae5f4ebb6",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager4ebb6"
+  },
+  {
+    "id": "ashby-foundation-8b4df7e0-6f71-4815-a42c-3301c6936b45",
+    "title": "Lead Designer",
+    "company": "Foundation",
+    "location": "San Francisco",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:foundation",
+    "link": "https://jobs.ashbyhq.com/foundation/8b4df7e0-6f71-4815-a42c-3301c6936b45",
+    "applyUrl": "https://jobs.ashbyhq.com/foundation/8b4df7e0-6f71-4815-a42c-3301c6936b45",
+    "department": "Design",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager36b45"
+  },
+  {
+    "id": "ashby-magiceden-27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
+    "title": "International Tax & Compliance Lead",
+    "company": "Magic Eden",
+    "location": "United States",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:magiceden",
+    "link": "https://jobs.ashbyhq.com/magiceden/27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
+    "applyUrl": "https://jobs.ashbyhq.com/magiceden/27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
+    "department": "Central Functions",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "compliance7c9ce"
+  },
+  {
+    "id": "ashby-magiceden-ae3d6863-aa22-4f06-8067-6b509e0b3513",
+    "title": "Lead Product Designer, Growth",
+    "company": "Magic Eden",
+    "location": "Remote, Australia",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:magiceden",
+    "link": "https://jobs.ashbyhq.com/magiceden/ae3d6863-aa22-4f06-8067-6b509e0b3513",
+    "applyUrl": "https://jobs.ashbyhq.com/magiceden/ae3d6863-aa22-4f06-8067-6b509e0b3513",
+    "department": "Product ",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "productb3513"
+  },
+  {
+    "id": "ashby-magiceden-d0ffdca1-262a-4006-834f-b71ebe1bf152",
+    "title": "Senior Risk & Trading Analyst, Sportsbook",
+    "company": "Magic Eden",
+    "location": "Melbourne, Australia",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:magiceden",
+    "link": "https://jobs.ashbyhq.com/magiceden/d0ffdca1-262a-4006-834f-b71ebe1bf152",
+    "applyUrl": "https://jobs.ashbyhq.com/magiceden/d0ffdca1-262a-4006-834f-b71ebe1bf152",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "quantbf152"
+  },
+  {
+    "id": "ashby-magiceden-94dc960c-fb7b-40dc-a573-941cb61f80aa",
+    "title": "Senior Counsel, iGaming & Sportsbook",
+    "company": "Magic Eden",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:magiceden",
+    "link": "https://jobs.ashbyhq.com/magiceden/94dc960c-fb7b-40dc-a573-941cb61f80aa",
+    "applyUrl": "https://jobs.ashbyhq.com/magiceden/94dc960c-fb7b-40dc-a573-941cb61f80aa",
+    "department": "Central Functions",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobf80aa"
+  },
+  {
+    "id": "ashby-succinct-6f3cc325-7d8f-4103-942f-3725c69981b5",
+    "title": "General Application",
+    "company": "Succinct Labs (ZK)",
+    "location": "San Francisco (Preferred)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:succinct",
+    "link": "https://jobs.ashbyhq.com/succinct/6f3cc325-7d8f-4103-942f-3725c69981b5",
+    "applyUrl": "https://jobs.ashbyhq.com/succinct/6f3cc325-7d8f-4103-942f-3725c69981b5",
+    "department": "General",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job981b5"
+  },
+  {
+    "id": "ashby-aztec-labs-4f3ba5d5-fb77-46b2-b2fa-a7857cf5554d",
+    "title": "Finance Lead",
+    "company": "Aztec Labs (Privacy L2)",
+    "location": "Global Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:aztec-labs",
+    "link": "https://jobs.ashbyhq.com/aztec-labs/4f3ba5d5-fb77-46b2-b2fa-a7857cf5554d",
+    "applyUrl": "https://jobs.ashbyhq.com/aztec-labs/4f3ba5d5-fb77-46b2-b2fa-a7857cf5554d",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager5554d"
+  },
+  {
+    "id": "ashby-aztec-labs-6276693d-5a2b-4a71-846a-2a00eb1ff4fa",
+    "title": "Go-to-Market Lead",
+    "company": "Aztec Labs (Privacy L2)",
+    "location": "Global Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:aztec-labs",
+    "link": "https://jobs.ashbyhq.com/aztec-labs/6276693d-5a2b-4a71-846a-2a00eb1ff4fa",
+    "applyUrl": "https://jobs.ashbyhq.com/aztec-labs/6276693d-5a2b-4a71-846a-2a00eb1ff4fa",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "managerff4fa"
+  },
+  {
+    "id": "ashby-aztec-labs-763bd807-c5fc-468c-be52-f165985c9c71",
+    "title": "Senior Legal Counsel",
+    "company": "Aztec Labs (Privacy L2)",
+    "location": "London HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:aztec-labs",
+    "link": "https://jobs.ashbyhq.com/aztec-labs/763bd807-c5fc-468c-be52-f165985c9c71",
+    "applyUrl": "https://jobs.ashbyhq.com/aztec-labs/763bd807-c5fc-468c-be52-f165985c9c71",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "compliancec9c71"
+  },
+  {
+    "id": "ashby-symbiotic-ffc40ecb-169d-4027-bd5b-326e5710b897",
+    "title": "Senior Product Designer",
+    "company": "Symbiotic Restaking",
+    "location": "New York",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:symbiotic",
+    "link": "https://jobs.ashbyhq.com/symbiotic/ffc40ecb-169d-4027-bd5b-326e5710b897",
+    "applyUrl": "https://jobs.ashbyhq.com/symbiotic/ffc40ecb-169d-4027-bd5b-326e5710b897",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "product0b897"
+  },
+  {
+    "id": "ashby-symbiotic-4a88e7cb-8119-4ab5-aba0-ab0bdd2e56ad",
+    "title": "Join our Talent Pool",
+    "company": "Symbiotic Restaking",
+    "location": "London",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:symbiotic",
+    "link": "https://jobs.ashbyhq.com/symbiotic/4a88e7cb-8119-4ab5-aba0-ab0bdd2e56ad",
+    "applyUrl": "https://jobs.ashbyhq.com/symbiotic/4a88e7cb-8119-4ab5-aba0-ab0bdd2e56ad",
+    "department": "Other",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "recruitere56ad"
+  },
+  {
+    "id": "ashby-movement-28ab1283-fa8a-4629-a39b-8df77c8d3060",
+    "title": "Marketing Operations Lead",
+    "company": "Movement Labs",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:movement",
+    "link": "https://jobs.ashbyhq.com/movement/28ab1283-fa8a-4629-a39b-8df77c8d3060",
+    "applyUrl": "https://jobs.ashbyhq.com/movement/28ab1283-fa8a-4629-a39b-8df77c8d3060",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "managerd3060"
+  },
+  {
+    "id": "ashby-movement-62c642a3-91ac-4e4d-bc06-9259103091ac",
+    "title": "Partner Marketing Manager",
+    "company": "Movement Labs",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:movement",
+    "link": "https://jobs.ashbyhq.com/movement/62c642a3-91ac-4e4d-bc06-9259103091ac",
+    "applyUrl": "https://jobs.ashbyhq.com/movement/62c642a3-91ac-4e4d-bc06-9259103091ac",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager091ac"
+  },
+  {
+    "id": "ashby-movement-e0519cea-ad4c-4b0e-b7e7-b236adfcba76",
+    "title": "Senior Software Engineer, Protocol",
+    "company": "Movement Labs",
+    "location": "United States",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:movement",
+    "link": "https://jobs.ashbyhq.com/movement/e0519cea-ad4c-4b0e-b7e7-b236adfcba76",
+    "applyUrl": "https://jobs.ashbyhq.com/movement/e0519cea-ad4c-4b0e-b7e7-b236adfcba76",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobcba76"
+  },
+  {
+    "id": "ashby-movement-ebafd339-34e1-4f46-bc25-92057d4dd50f",
+    "title": "Security Engineer",
+    "company": "Movement Labs",
+    "location": "United States",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:movement",
+    "link": "https://jobs.ashbyhq.com/movement/ebafd339-34e1-4f46-bc25-92057d4dd50f",
+    "applyUrl": "https://jobs.ashbyhq.com/movement/ebafd339-34e1-4f46-bc25-92057d4dd50f",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "securitydd50f"
+  },
+  {
+    "id": "ashby-movement-636ca210-6e1f-481f-bb90-01c6b9c77185",
+    "title": "Quantum Cryptography Engineer",
+    "company": "Movement Labs",
+    "location": "United States",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:movement",
+    "link": "https://jobs.ashbyhq.com/movement/636ca210-6e1f-481f-bb90-01c6b9c77185",
+    "applyUrl": "https://jobs.ashbyhq.com/movement/636ca210-6e1f-481f-bb90-01c6b9c77185",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "quant77185"
+  },
+  {
+    "id": "ashby-nomic-5dd4fd7a-4bf7-4a53-843c-3f8de123340d",
+    "title": "Profiling Lab Operations Associate",
+    "company": "Nomic Foundation",
+    "location": "Montreal",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:nomic",
+    "link": "https://jobs.ashbyhq.com/nomic/5dd4fd7a-4bf7-4a53-843c-3f8de123340d",
+    "applyUrl": "https://jobs.ashbyhq.com/nomic/5dd4fd7a-4bf7-4a53-843c-3f8de123340d",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "operations3340d"
+  },
+  {
+    "id": "ashby-nomic-07dd9ba3-67a5-4dac-8ed7-c62223bd5131",
+    "title": "Senior Scientist - Manufacturing Development",
+    "company": "Nomic Foundation",
+    "location": "Montreal",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:nomic",
+    "link": "https://jobs.ashbyhq.com/nomic/07dd9ba3-67a5-4dac-8ed7-c62223bd5131",
+    "applyUrl": "https://jobs.ashbyhq.com/nomic/07dd9ba3-67a5-4dac-8ed7-c62223bd5131",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobd5131"
+  },
+  {
+    "id": "ashby-nomic-2fb77a2d-a3b6-4eb9-8141-5714975ba8ed",
+    "title": "Flow Cytometry Systems Engineer",
+    "company": "Nomic Foundation",
+    "location": "Greater Boston",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:nomic",
+    "link": "https://jobs.ashbyhq.com/nomic/2fb77a2d-a3b6-4eb9-8141-5714975ba8ed",
+    "applyUrl": "https://jobs.ashbyhq.com/nomic/2fb77a2d-a3b6-4eb9-8141-5714975ba8ed",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobba8ed"
+  },
+  {
+    "id": "ashby-nomic-2de875f4-2d28-4284-94a3-db071b8431be",
+    "title": "Data Scientist/Data Engineer (Mid to Sr Levels)",
+    "company": "Nomic Foundation",
+    "location": "Remote (Canada or US)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:nomic",
+    "link": "https://jobs.ashbyhq.com/nomic/2de875f4-2d28-4284-94a3-db071b8431be",
+    "applyUrl": "https://jobs.ashbyhq.com/nomic/2de875f4-2d28-4284-94a3-db071b8431be",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job431be"
+  },
+  {
+    "id": "ashby-helius-2548cac4-348b-4103-8f8c-79c510fbd009",
+    "title": "Staff Software Engineer, Backend",
+    "company": "Helius (Solana Infra)",
+    "location": "North America",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:helius",
+    "link": "https://jobs.ashbyhq.com/helius/2548cac4-348b-4103-8f8c-79c510fbd009",
+    "applyUrl": "https://jobs.ashbyhq.com/helius/2548cac4-348b-4103-8f8c-79c510fbd009",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "backendbd009"
+  },
+  {
+    "id": "ashby-helius-fff1e597-ca3c-48aa-a171-d68c624419da",
+    "title": "Senior Software Engineer, Backend",
+    "company": "Helius (Solana Infra)",
+    "location": "North America",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:helius",
+    "link": "https://jobs.ashbyhq.com/helius/fff1e597-ca3c-48aa-a171-d68c624419da",
+    "applyUrl": "https://jobs.ashbyhq.com/helius/fff1e597-ca3c-48aa-a171-d68c624419da",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "backend419da"
+  },
+  {
+    "id": "ashby-helius-dcdd70fd-9297-4675-9f18-d8b7a2063172",
+    "title": "Staff Platform Engineer, Observability",
+    "company": "Helius (Solana Infra)",
+    "location": "North America",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:helius",
+    "link": "https://jobs.ashbyhq.com/helius/dcdd70fd-9297-4675-9f18-d8b7a2063172",
+    "applyUrl": "https://jobs.ashbyhq.com/helius/dcdd70fd-9297-4675-9f18-d8b7a2063172",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job63172"
+  },
+  {
+    "id": "ashby-helius-e98b2c54-2baa-4bc5-8bd8-eb5b1b35b910",
+    "title": "Solutions Engineer",
+    "company": "Helius (Solana Infra)",
+    "location": "North America",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:helius",
+    "link": "https://jobs.ashbyhq.com/helius/e98b2c54-2baa-4bc5-8bd8-eb5b1b35b910",
+    "applyUrl": "https://jobs.ashbyhq.com/helius/e98b2c54-2baa-4bc5-8bd8-eb5b1b35b910",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job5b910"
+  },
+  {
+    "id": "bamboo-chainstack-144",
+    "title": "Product Engineer (Platform)",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/144",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/144",
+    "department": "Software Engineering Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "product144"
+  },
+  {
+    "id": "bamboo-chainstack-143",
+    "title": "Senior Software Engineer (Golang)",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/143",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/143",
+    "department": "Software Engineering Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job143"
+  },
+  {
+    "id": "bamboo-chainstack-142",
+    "title": "Web Marketing Specialist",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/142",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/142",
+    "department": "Marketing Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job142"
+  },
+  {
+    "id": "bamboo-chainstack-141",
+    "title": "Product Engineer (Data Indexing)",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/141",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/141",
+    "department": "Software Engineering Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "product141"
+  },
+  {
+    "id": "bamboo-chainstack-138",
+    "title": "Infrastructure Engineer (LATAM time zone)",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/138",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/138",
+    "department": "Infrastructure Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job138"
+  },
+  {
+    "id": "bamboo-chainstack-133",
+    "title": "Account Manager",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/133",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/133",
+    "department": "Accounts Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager133"
+  },
+  {
+    "id": "bamboo-chainstack-128",
+    "title": "Expression of Interest - Account Executive",
+    "company": "Chainstack",
+    "location": "Remote",
+    "type": "Full-Time Remote",
+    "date": "2026-09-03",
+    "source": "bamboohr:chainstack",
+    "link": "https://chainstack.bamboohr.com/careers/128",
+    "applyUrl": "https://chainstack.bamboohr.com/careers/128",
+    "department": "Sales Team",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job128"
+  },
+  {
+    "id": "ashby-sahara-ba33f05b-0858-4b5e-92cf-630852b624f1",
+    "title": "Community Manager",
+    "company": "Sahara AI",
+    "location": "Seoul",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:sahara",
+    "link": "https://jobs.ashbyhq.com/sahara/ba33f05b-0858-4b5e-92cf-630852b624f1",
+    "applyUrl": "https://jobs.ashbyhq.com/sahara/ba33f05b-0858-4b5e-92cf-630852b624f1",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager624f1"
+  },
+  {
+    "id": "ashby-sahara-628cd3a4-dc75-4f67-b238-9463a533c3f0",
+    "title": "Account Manager",
+    "company": "Sahara AI",
+    "location": "Seoul",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:sahara",
+    "link": "https://jobs.ashbyhq.com/sahara/628cd3a4-dc75-4f67-b238-9463a533c3f0",
+    "applyUrl": "https://jobs.ashbyhq.com/sahara/628cd3a4-dc75-4f67-b238-9463a533c3f0",
+    "department": "BD & Partnerships",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager3c3f0"
+  },
+  {
+    "id": "ashby-sahara-042b2056-ffeb-400e-9303-042f800c83b0",
+    "title": "Social Media Manager & Content Specialist",
+    "company": "Sahara AI",
+    "location": "US - Remote",
+    "type": "Contract",
+    "date": "2026-09-03",
+    "source": "ashby:sahara",
+    "link": "https://jobs.ashbyhq.com/sahara/042b2056-ffeb-400e-9303-042f800c83b0",
+    "applyUrl": "https://jobs.ashbyhq.com/sahara/042b2056-ffeb-400e-9303-042f800c83b0",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "managerc83b0"
+  },
+  {
+    "id": "ashby-wynd-labs-216d74ef-d925-4bf1-ae4f-9eedc3e145f8",
+    "title": "Data Engineer",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/216d74ef-d925-4bf1-ae4f-9eedc3e145f8",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/216d74ef-d925-4bf1-ae4f-9eedc3e145f8",
+    "department": "Analytics",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job145f8"
+  },
+  {
+    "id": "ashby-wynd-labs-900e79ba-5668-4a43-9065-3f4bf7db6aa4",
+    "title": "Backend Engineer (TypeScript)",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/900e79ba-5668-4a43-9065-3f4bf7db6aa4",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/900e79ba-5668-4a43-9065-3f4bf7db6aa4",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "backendb6aa4"
+  },
+  {
+    "id": "ashby-wynd-labs-e7ffd2fb-23cb-4d21-ac89-06b846a2f728",
+    "title": "QA/Compliance Specialist",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/e7ffd2fb-23cb-4d21-ac89-06b846a2f728",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/e7ffd2fb-23cb-4d21-ac89-06b846a2f728",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "compliance2f728"
+  },
+  {
+    "id": "ashby-wynd-labs-1e0ceb41-435e-48f7-b70d-4e6b8ed2df0a",
+    "title": "Senior Software Engineer (Backend)",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/1e0ceb41-435e-48f7-b70d-4e6b8ed2df0a",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/1e0ceb41-435e-48f7-b70d-4e6b8ed2df0a",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "backend2df0a"
+  },
+  {
+    "id": "ashby-wynd-labs-8aa370f3-8e80-44d4-aa9f-c28296d43efd",
+    "title": "Research Crawling Engineer",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/8aa370f3-8e80-44d4-aa9f-c28296d43efd",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/8aa370f3-8e80-44d4-aa9f-c28296d43efd",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job43efd"
+  },
+  {
+    "id": "ashby-wynd-labs-dad06add-f092-4204-8eca-453097b59118",
+    "title": "Growth & Communications Lead",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/dad06add-f092-4204-8eca-453097b59118",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/dad06add-f092-4204-8eca-453097b59118",
+    "department": "Growth/ Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager59118"
+  },
+  {
+    "id": "ashby-wynd-labs-a148c710-7685-4184-9be8-c4d46a0a8f04",
+    "title": "Machine Learning Engineer",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/a148c710-7685-4184-9be8-c4d46a0a8f04",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/a148c710-7685-4184-9be8-c4d46a0a8f04",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "joba8f04"
+  },
+  {
+    "id": "ashby-wynd-labs-6a11b221-5dc2-4bd7-9ec5-70e5c11c1e33",
+    "title": "Network Infrastructure Engineer (DevOps)",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Ashburn ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/6a11b221-5dc2-4bd7-9ec5-70e5c11c1e33",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/6a11b221-5dc2-4bd7-9ec5-70e5c11c1e33",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobc1e33"
+  },
+  {
+    "id": "ashby-wynd-labs-e1415ae0-801b-45ec-bab6-624d71f07b44",
+    "title": "Web Scraping Specialist",
+    "company": "Grass (Wynd Labs DePIN)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:wynd-labs",
+    "link": "https://jobs.ashbyhq.com/wynd-labs/e1415ae0-801b-45ec-bab6-624d71f07b44",
+    "applyUrl": "https://jobs.ashbyhq.com/wynd-labs/e1415ae0-801b-45ec-bab6-624d71f07b44",
+    "department": "Analytics",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job07b44"
+  },
+  {
+    "id": "ashby-hyperbolic-35196665-93ca-4fb4-b160-21195f6b2157",
+    "title": "Supply Operations Manager ",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/35196665-93ca-4fb4-b160-21195f6b2157",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/35196665-93ca-4fb4-b160-21195f6b2157",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "managerb2157"
+  },
+  {
+    "id": "ashby-hyperbolic-d3d5cab8-7460-431a-9327-1c6633ec35a9",
+    "title": "Head of Operations",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/d3d5cab8-7460-431a-9327-1c6633ec35a9",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/d3d5cab8-7460-431a-9327-1c6633ec35a9",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "operationsc35a9"
+  },
+  {
+    "id": "ashby-hyperbolic-388e76f5-1eeb-40df-9b0a-c381715c0f57",
+    "title": "Technical Writer",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/388e76f5-1eeb-40df-9b0a-c381715c0f57",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/388e76f5-1eeb-40df-9b0a-c381715c0f57",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobc0f57"
+  },
+  {
+    "id": "ashby-hyperbolic-9d1d8e21-a7eb-46a3-bc70-d01536ff79e9",
+    "title": "Head of Supply",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/9d1d8e21-a7eb-46a3-bc70-d01536ff79e9",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/9d1d8e21-a7eb-46a3-bc70-d01536ff79e9",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobf79e9"
+  },
+  {
+    "id": "ashby-hyperbolic-7032b5b6-3ecf-447f-a40c-e522807d807b",
+    "title": "Forward Deployed Infrastructure Engineer - Eastern US",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/7032b5b6-3ecf-447f-a40c-e522807d807b",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/7032b5b6-3ecf-447f-a40c-e522807d807b",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobd807b"
+  },
+  {
+    "id": "ashby-hyperbolic-78ff7797-58d4-435a-a229-58425036d716",
+    "title": "Member of Technical Staff - Platform",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/78ff7797-58d4-435a-a229-58425036d716",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/78ff7797-58d4-435a-a229-58425036d716",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job6d716"
+  },
+  {
+    "id": "ashby-hyperbolic-0cd2cbf3-bc38-4e02-84c1-ac7a7c285105",
+    "title": "Member of Technical Staff - GPU Infrastructure",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/0cd2cbf3-bc38-4e02-84c1-ac7a7c285105",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/0cd2cbf3-bc38-4e02-84c1-ac7a7c285105",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job85105"
+  },
+  {
+    "id": "ashby-hyperbolic-87282817-fd20-415c-bd9f-7e06d1f9f114",
+    "title": "Senior Data Analytics Engineer",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/87282817-fd20-415c-bd9f-7e06d1f9f114",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/87282817-fd20-415c-bd9f-7e06d1f9f114",
+    "department": "Strategy",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job9f114"
+  },
+  {
+    "id": "ashby-hyperbolic-c6039f86-4915-4d1d-9e10-ac7c2a484d5c",
+    "title": "VP of Engineering",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/c6039f86-4915-4d1d-9e10-ac7c2a484d5c",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job84d5c"
+  },
+  {
+    "id": "ashby-hyperbolic-668d9b32-b1f5-41a6-9e8e-5e3978ec555c",
+    "title": "Member of Technical Staff - Full Stack",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "San Francisco, CA",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/668d9b32-b1f5-41a6-9e8e-5e3978ec555c",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/668d9b32-b1f5-41a6-9e8e-5e3978ec555c",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobc555c"
+  },
+  {
+    "id": "ashby-turnkey-6500be6b-0394-4e2b-8d70-9a18eb4207bf",
+    "title": "Senior Security Engineer, Application Security",
+    "company": "Turnkey",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/6500be6b-0394-4e2b-8d70-9a18eb4207bf",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/6500be6b-0394-4e2b-8d70-9a18eb4207bf",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "security207bf"
+  },
+  {
+    "id": "ashby-turnkey-51c279e2-2659-4669-abed-981e936b19f1",
+    "title": "Senior Security Engineer, Corporate Security",
+    "company": "Turnkey",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/51c279e2-2659-4669-abed-981e936b19f1",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/51c279e2-2659-4669-abed-981e936b19f1",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "securityb19f1"
+  },
+  {
+    "id": "ashby-turnkey-80e6c515-48a6-44b9-88fa-f83f1446d340",
+    "title": "Head of Revenue Operations",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/80e6c515-48a6-44b9-88fa-f83f1446d340",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/80e6c515-48a6-44b9-88fa-f83f1446d340",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "operations6d340"
+  },
+  {
+    "id": "ashby-turnkey-6b5bfa37-5c23-432f-bd09-f1097f79424e",
+    "title": "Senior Sales Manager",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/6b5bfa37-5c23-432f-bd09-f1097f79424e",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/6b5bfa37-5c23-432f-bd09-f1097f79424e",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager9424e"
+  },
+  {
+    "id": "ashby-turnkey-ec3a0904-51b7-41d1-a6ea-ad14c26f300c",
+    "title": "Head of People",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/ec3a0904-51b7-41d1-a6ea-ad14c26f300c",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/ec3a0904-51b7-41d1-a6ea-ad14c26f300c",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobf300c"
+  },
+  {
+    "id": "ashby-turnkey-07bd2bc6-c828-4ce5-9606-13e841898d25",
+    "title": "Technical Support Engineer (PT time zone) ",
+    "company": "Turnkey",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/07bd2bc6-c828-4ce5-9606-13e841898d25",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/07bd2bc6-c828-4ce5-9606-13e841898d25",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "associate98d25"
+  },
+  {
+    "id": "ashby-turnkey-e25672d6-ab3e-437f-ba4d-8fe8931a8789",
+    "title": "Recruiter",
+    "company": "Turnkey",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/e25672d6-ab3e-437f-ba4d-8fe8931a8789",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/e25672d6-ab3e-437f-ba4d-8fe8931a8789",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "joba8789"
+  },
+  {
+    "id": "ashby-turnkey-da3277da-5700-4b09-88a2-590d0873c07d",
+    "title": "Enterprise Account Executive",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/da3277da-5700-4b09-88a2-590d0873c07d",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/da3277da-5700-4b09-88a2-590d0873c07d",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job3c07d"
+  },
+  {
+    "id": "ashby-turnkey-8cb7c22f-429a-4b74-91f3-e15e76086d50",
+    "title": "Founding Business Development Representative",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/8cb7c22f-429a-4b74-91f3-e15e76086d50",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/8cb7c22f-429a-4b74-91f3-e15e76086d50",
+    "department": "Sales",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job86d50"
+  },
+  {
+    "id": "ashby-turnkey-dfddf08c-b449-4af5-9cc9-8f6c5a460e4c",
+    "title": "Head of Finance",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/dfddf08c-b449-4af5-9cc9-8f6c5a460e4c",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/dfddf08c-b449-4af5-9cc9-8f6c5a460e4c",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job60e4c"
+  },
+  {
+    "id": "ashby-turnkey-4b905aae-e85c-4252-af6e-c97a752de75c",
+    "title": "Engineering Manager",
+    "company": "Turnkey",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/4b905aae-e85c-4252-af6e-c97a752de75c",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/4b905aae-e85c-4252-af6e-c97a752de75c",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "managerde75c"
+  },
+  {
+    "id": "ashby-turnkey-346afd67-a6b9-4fb4-b3fb-19e54baf71e0",
+    "title": "Engineering - Backend",
+    "company": "Turnkey",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/346afd67-a6b9-4fb4-b3fb-19e54baf71e0",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/346afd67-a6b9-4fb4-b3fb-19e54baf71e0",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "backendf71e0"
+  },
+  {
+    "id": "ashby-turnkey-f76092a9-a0f2-427d-aa97-b894ec1893e6",
+    "title": "Product Manager",
+    "company": "Turnkey",
+    "location": "NYC HQ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:turnkey",
+    "link": "https://jobs.ashbyhq.com/turnkey/f76092a9-a0f2-427d-aa97-b894ec1893e6",
+    "applyUrl": "https://jobs.ashbyhq.com/turnkey/f76092a9-a0f2-427d-aa97-b894ec1893e6",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "product893e6"
+  },
+  {
+    "id": "ashby-switchboard-afa57d26-3f70-447f-99d2-b7141cf84786",
+    "title": "Account Executive",
+    "company": "Switchboard",
+    "location": "Denver",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/afa57d26-3f70-447f-99d2-b7141cf84786",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/afa57d26-3f70-447f-99d2-b7141cf84786",
+    "department": "Yooz",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job84786"
+  },
+  {
+    "id": "ashby-switchboard-fbe8b8b7-a341-42f3-ba66-dcee936056c9",
+    "title": "Branch Manager",
+    "company": "Switchboard",
+    "location": "Colorado Springs, CO",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/fbe8b8b7-a341-42f3-ba66-dcee936056c9",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/fbe8b8b7-a341-42f3-ba66-dcee936056c9",
+    "department": "Switchboard",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "manager056c9"
+  },
+  {
+    "id": "ashby-switchboard-bd30caca-3390-4dcf-81a6-76a10e05ba4c",
+    "title": "Personal Banker",
+    "company": "Switchboard",
+    "location": "Fort Collins, CO",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/bd30caca-3390-4dcf-81a6-76a10e05ba4c",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/bd30caca-3390-4dcf-81a6-76a10e05ba4c",
+    "department": "Switchboard",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job5ba4c"
+  },
+  {
+    "id": "ashby-switchboard-e73d12d0-6f4a-492e-ab65-0f240cb601e9",
+    "title": "Mortgage Lender",
+    "company": "Switchboard",
+    "location": "Prescott, AZ",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/e73d12d0-6f4a-492e-ab65-0f240cb601e9",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/e73d12d0-6f4a-492e-ab65-0f240cb601e9",
+    "department": "Switchboard",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job601e9"
+  },
+  {
+    "id": "ashby-switchboard-ad3eb9c5-52d3-412a-a5bd-49d949d70cba",
+    "title": "Nurse Injector - 3 Day Work Week",
+    "company": "Switchboard",
+    "location": "Highlands Ranch, CO",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/ad3eb9c5-52d3-412a-a5bd-49d949d70cba",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/ad3eb9c5-52d3-412a-a5bd-49d949d70cba",
+    "department": "Purity Skin Studio",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job70cba"
+  },
+  {
+    "id": "ashby-switchboard-6f911431-10c2-409f-8aa0-010ce4b75ba4",
+    "title": "Aesthetics & Med Spa Talent Network",
+    "company": "Switchboard",
+    "location": "Denver",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/6f911431-10c2-409f-8aa0-010ce4b75ba4",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/6f911431-10c2-409f-8aa0-010ce4b75ba4",
+    "department": "Switchboard",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "recruiter75ba4"
+  },
+  {
+    "id": "ashby-switchboard-ceed455a-7d15-4891-acee-bec93fa0989d",
+    "title": "Enterprise Account Executive",
+    "company": "Switchboard",
+    "location": "Denver",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:switchboard",
+    "link": "https://jobs.ashbyhq.com/switchboard/ceed455a-7d15-4891-acee-bec93fa0989d",
+    "applyUrl": "https://jobs.ashbyhq.com/switchboard/ceed455a-7d15-4891-acee-bec93fa0989d",
+    "department": "Yooz",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job0989d"
+  },
+  {
+    "id": "ashby-cantina-0b1ec7c7-ca1f-4d86-9242-f6397f60ba34",
+    "title": "Machine Learning Engineer, Speech - Joint Audio-Video Modeling",
+    "company": "Cantina",
+    "location": "Remote (U.S. or Europe)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/0b1ec7c7-ca1f-4d86-9242-f6397f60ba34",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/0b1ec7c7-ca1f-4d86-9242-f6397f60ba34",
+    "department": "Research",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job0ba34"
+  },
+  {
+    "id": "ashby-cantina-e39ea193-e746-4062-b604-51ef3cb0b913",
+    "title": "Machine Learning Engineer, Ops",
+    "company": "Cantina",
+    "location": "Remote (U.S. or Europe)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/e39ea193-e746-4062-b604-51ef3cb0b913",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/e39ea193-e746-4062-b604-51ef3cb0b913",
+    "department": "Research",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "operations0b913"
+  },
+  {
+    "id": "ashby-cantina-8e83f7a5-e7d4-4371-ad5e-a017d77981d9",
+    "title": "Director, Brand Marketing",
+    "company": "Cantina",
+    "location": "Los Angeles",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/8e83f7a5-e7d4-4371-ad5e-a017d77981d9",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/8e83f7a5-e7d4-4371-ad5e-a017d77981d9",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job981d9"
+  },
+  {
+    "id": "ashby-cantina-36b6d184-cc4c-4ede-97d5-649914d5b04e",
+    "title": "Senior Creative Strategist, Performance Marketing",
+    "company": "Cantina",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/36b6d184-cc4c-4ede-97d5-649914d5b04e",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/36b6d184-cc4c-4ede-97d5-649914d5b04e",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job5b04e"
+  },
+  {
+    "id": "ashby-cantina-99e36078-2386-420b-8b82-44d81ee7df16",
+    "title": "Staff Software Engineer, Backend",
+    "company": "Cantina",
+    "location": "Los Angeles or San Francisco",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/99e36078-2386-420b-8b82-44d81ee7df16",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/99e36078-2386-420b-8b82-44d81ee7df16",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "backend7df16"
+  },
+  {
+    "id": "ashby-cantina-fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "title": "Android Engineer (Senior-Staff Levels)",
+    "company": "Cantina",
+    "location": "Los Angeles or San Francisco",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/fe6f588d-70c4-4699-8c95-e20b472e2432",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobe2432"
+  },
+  {
+    "id": "ashby-cantina-d25a9497-c9e8-4f2e-84fd-087b46a49957",
+    "title": "Machine Learning Engineer, TTS",
+    "company": "Cantina",
+    "location": "Europe",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/d25a9497-c9e8-4f2e-84fd-087b46a49957",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/d25a9497-c9e8-4f2e-84fd-087b46a49957",
+    "department": "Research",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job49957"
+  },
+  {
+    "id": "ashby-cantina-f770b6c6-3781-4172-908e-32924531e5b3",
+    "title": "Machine Learning Engineer (Singapore)",
+    "company": "Cantina",
+    "location": "Singapore",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/f770b6c6-3781-4172-908e-32924531e5b3",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/f770b6c6-3781-4172-908e-32924531e5b3",
+    "department": "Research",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job1e5b3"
+  },
+  {
+    "id": "ashby-cantina-7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
+    "title": "Research Scientist (Singapore)",
+    "company": "Cantina",
+    "location": "Singapore",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/7053d1d4-a19b-44c6-9327-cc95cbedfb3b",
+    "department": "Research",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "jobdfb3b"
+  },
+  {
+    "id": "ashby-cantina-7be9f110-9fc9-47ff-84e8-d3869ff76f73",
+    "title": "Machine Learning Engineer, Core Evaluations",
+    "company": "Cantina",
+    "location": "Europe",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/7be9f110-9fc9-47ff-84e8-d3869ff76f73",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/7be9f110-9fc9-47ff-84e8-d3869ff76f73",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job76f73"
+  },
+  {
+    "id": "ashby-cantina-e980bd36-e724-4970-bd5c-27ac5d873aed",
+    "title": "Product Manager, Web",
+    "company": "Cantina",
+    "location": "California",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/e980bd36-e724-4970-bd5c-27ac5d873aed",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/e980bd36-e724-4970-bd5c-27ac5d873aed",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "product73aed"
+  },
+  {
+    "id": "ashby-cantina-5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
+    "title": "Machine Learning Engineer, Images",
+    "company": "Cantina",
+    "location": "Bay Area or Remote",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/5c01c77f-f15e-40cb-9d42-15c9c0491ea4",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job91ea4"
+  },
+  {
+    "id": "ashby-cantina-1d9bb30d-3d94-47b1-bff7-a0588741efab",
+    "title": "Member of Technical Staff, Data & ML Infrastructure for Video Models",
+    "company": "Cantina",
+    "location": "Remote (U.S. or Europe)",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/1d9bb30d-3d94-47b1-bff7-a0588741efab",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job1efab"
+  },
+  {
+    "id": "ashby-cantina-61f2278e-e41d-4627-9b7a-34adbe735a8e",
+    "title": "Product Director, Video Products",
+    "company": "Cantina",
+    "location": "California",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/61f2278e-e41d-4627-9b7a-34adbe735a8e",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/61f2278e-e41d-4627-9b7a-34adbe735a8e",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "product35a8e"
+  },
+  {
+    "id": "ashby-cantina-72fc1228-c538-41f6-a7ee-c54537c7bdab",
+    "title": "iOS Engineer (Senior-Staff Levels)",
+    "company": "Cantina",
+    "location": "California",
+    "type": "FullTime",
+    "date": "2026-09-03",
+    "source": "ashby:cantina",
+    "link": "https://jobs.ashbyhq.com/cantina/72fc1228-c538-41f6-a7ee-c54537c7bdab",
+    "applyUrl": "https://jobs.ashbyhq.com/cantina/72fc1228-c538-41f6-a7ee-c54537c7bdab",
+    "department": "Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "job7bdab"
+  },
+  {
     "id": "greenhouse-grayscale-6659640002",
     "title": "Not a real job",
     "company": "Grayscale Investments",
