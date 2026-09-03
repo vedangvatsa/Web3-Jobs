@@ -4,6 +4,7 @@ import type { Article } from '@/types';
 
 export function FooterContent({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
  const resourceLinks = [
+  { href:"/developers", label:"Developer Portal & API" },
   { href:"/interview-questions", label:"Interview Questions" },
   { href:"/web3-career-quiz", label:"Archetype Assessment" },
   { href:"/salary-calculator", label:"Salary Calculator" },
