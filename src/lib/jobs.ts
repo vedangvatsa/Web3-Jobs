@@ -95,15 +95,6 @@ export async function getJobs(): Promise<Job[]> {
     return false;
    }
    
-    // Enforce 30-day maximum posting age
-    if (job.date) {
-      const jobTime = new Date(job.date).getTime();
-      const thirtyDaysMs = 30 * 24 * 60 * 60 * 1000;
-      if (!isNaN(jobTime) && Date.now() - jobTime > thirtyDaysMs) {
-        return false;
-      }
-    }
-
     return true;
    });
 
