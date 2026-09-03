@@ -135,11 +135,11 @@ export async function getEvents(): Promise<Web3Event[]> {
       return prioA - prioB;
     });
 
-    // Only return future/ongoing events
+    // Only return future/ongoing events (purging any event that has already concluded)
     const now = new Date();
     const upcoming = cleaned.filter(e => {
       const endDate = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
-      return isNaN(endDate.getTime()) || endDate >= now;
+      return !isNaN(endDate.getTime()) && endDate >= now;
     });
 
     return upcoming;
