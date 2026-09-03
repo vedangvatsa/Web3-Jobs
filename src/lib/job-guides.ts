@@ -279,12 +279,12 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
 
   let html = `<div class="space-y-6">\n`;
   html += `<h2 class="text-xl font-bold tracking-tight text-foreground">Role Overview</h2>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground"><strong>${escapeHtml(job.company)}</strong> is actively hiring for the position of <strong>${escapeHtml(job.title)}</strong> (${escapeHtml(location)}), ${escapeHtml(teamLine)}.</p>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground"><strong>${escapeHtml(job.company)}</strong> is hiring a <strong>${escapeHtml(job.title)}</strong> (${escapeHtml(location)}) ${escapeHtml(teamLine)}.</p>\n`;
   if (focus) {
-    html += `<p class="leading-relaxed text-muted-foreground">Primary focus and domain areas: ${escapeHtml(focus)}.</p>\n`;
+    html += `<p class="leading-relaxed text-muted-foreground">Core focus areas for this position include: ${escapeHtml(focus)}.</p>\n`;
   }
   html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">Application Details</h3>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground">This opening is verified directly against official applicant tracking feeds. Click the <strong>Apply</strong> button above to review complete qualifications and submit your application directly on the official ${escapeHtml(job.company)} hiring portal.</p>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground">This job posting is sourced directly from official employer hiring feeds. Click <strong>Apply Now</strong> above to read full requirements and submit your application on ${escapeHtml(job.company)}'s careers portal.</p>\n`;
   html += `</div>`;
   return cleanPublishHtml(html);
 }
