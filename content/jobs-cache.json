@@ -5066,24 +5066,6 @@
     "slug": "r1"
   },
   {
-    "id": "lido-29",
-    "title": "test",
-    "company": "Lido",
-    "location": "Remote",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:lido",
-    "link": "https://lido.bamboohr.com/careers/29",
-    "applyUrl": "https://lido.bamboohr.com/careers/29",
-    "department": "P&C",
-    "skills": [
-      "Liquid Staking",
-      "Ethereum",
-      "DeFi",
-      "Web3"
-    ]
-  },
-  {
     "id": "particle-26",
     "title": "AI Video Creator",
     "company": "Particle Network",
@@ -15722,18 +15704,6 @@
     "slug": "engineer864"
   },
   {
-    "id": "fc4b684ff453",
-    "title": "Mechanical Engineer - HVAC & Plumbing",
-    "company": "Bitdeer",
-    "link": "https://bitdeer.breezy.hr/p/fc4b684ff453-mechanical-engineer-hvac-plumbing",
-    "date": "2026-08-26T02:12:26.316Z",
-    "source": "Breezy: Bitdeer [bitdeer]",
-    "location": "Singapore, SG",
-    "department": "Global Powered Lands Infrastructure",
-    "active": true,
-    "slug": "engineer863"
-  },
-  {
     "id": "31005948e668",
     "title": "Enterprise Systems Consultant",
     "company": "Bitdeer",
@@ -17087,18 +17057,6 @@
     "department": "Finance Department",
     "active": true,
     "slug": "analyst168"
-  },
-  {
-    "id": "101c3321-c1e5-4077-baea-c7ccb30ca641",
-    "title": "HVAC Technician",
-    "company": "Riot Platforms",
-    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/101c3321-c1e5-4077-baea-c7ccb30ca641",
-    "date": "2026-08-24T15:55:17.610000-07:00",
-    "source": "Rippling: Riot Platforms [riot-platforms-careers]",
-    "location": "Rockdale, TX",
-    "department": "Pump and Evap",
-    "active": true,
-    "slug": "hvac2"
   },
   {
     "id": "a91527c9-d2e7-489d-9506-ad72091b5125",
@@ -22934,18 +22892,6 @@
     "slug": "marketing189"
   },
   {
-    "id": "4723804005",
-    "title": "Data Scientist en chef, Croissance",
-    "company": "Shakepay",
-    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4723804005",
-    "date": "2026-08-13T09:15:11-04:00",
-    "source": "Greenhouse: Shakepay [shakepay]",
-    "location": "Remote, Canada",
-    "department": "Engineering",
-    "active": true,
-    "slug": "data21"
-  },
-  {
     "id": "4368461009",
     "title": "Full-Stack Software Engineer - Growth",
     "company": "Ondo Finance",
@@ -23352,18 +23298,6 @@
     "department": "R&D",
     "active": true,
     "slug": "devops97"
-  },
-  {
-    "id": "6142607004",
-    "title": "Senior Warehouse Specialist",
-    "company": "Localcoin",
-    "link": "https://job-boards.greenhouse.io/localcoin/jobs/6142607004",
-    "date": "2026-08-12T17:58:33-04:00",
-    "source": "Greenhouse: Localcoin [localcoin]",
-    "location": "Canada",
-    "department": "Operations",
-    "active": true,
-    "slug": "senior07004"
   },
   {
     "id": "3cdb607b-275f-479e-987b-1aac7b370298",
@@ -26414,18 +26348,6 @@
     "department": "After Sales",
     "active": true,
     "slug": "qa39"
-  },
-  {
-    "id": "b36fbd16-2dd7-4b14-b46e-00139ff5e42a",
-    "title": "HVAC Technician",
-    "company": "Riot Platforms",
-    "link": "https://ats.rippling.com/riot-platforms-careers/jobs/b36fbd16-2dd7-4b14-b46e-00139ff5e42a",
-    "date": "2026-08-06T22:28:50.322000-07:00",
-    "source": "Rippling: Riot Platforms [riot-platforms-careers]",
-    "location": "Corsicana, TX",
-    "department": "Maintenance",
-    "active": true,
-    "slug": "hvac1"
   },
   {
     "id": "6a59eb7e-3c5b-4801-a06a-c7166e822076",
