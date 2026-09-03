@@ -1,5 +1,1005 @@
 [
   {
+    "id": "coindcx-1789",
+    "title": "Security Architect",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1789",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1789",
+    "department": "Information Security",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1789"
+  },
+  {
+    "id": "coindcx-1788",
+    "title": "Associate Director - Finance",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1788",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1788",
+    "department": "Finance & Accounts",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1788"
+  },
+  {
+    "id": "coindcx-1786",
+    "title": "VP - Compliance",
+    "company": "CoinDCX",
+    "location": "Bangalore/Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1786",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1786",
+    "department": "Risk and Compliance",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1786"
+  },
+  {
+    "id": "coindcx-1784",
+    "title": "Senior Manager-SEO/ASO",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1784",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1784",
+    "department": "Growth & Marketing",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1784"
+  },
+  {
+    "id": "coindcx-1783",
+    "title": "Software Engineer - DevOps",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1783",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1783",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1783"
+  },
+  {
+    "id": "coindcx-1782",
+    "title": "Senior Customer Success Expert",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1782",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1782",
+    "department": "Customer Experience\t",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1782"
+  },
+  {
+    "id": "coindcx-1780",
+    "title": "Senior Software Engineer - 1",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1780",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1780",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1780"
+  },
+  {
+    "id": "coindcx-1779",
+    "title": "Manager - Legal (LEA)",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1779",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1779",
+    "department": "Legal",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1779"
+  },
+  {
+    "id": "coindcx-1777",
+    "title": "Senior SDET- 2",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1777",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1777",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1777"
+  },
+  {
+    "id": "coindcx-1774",
+    "title": "Senior Software Engineer 1 - DevOps",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1774",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1774",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1774"
+  },
+  {
+    "id": "coindcx-1773",
+    "title": "Manager - Business Finance",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1773",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1773",
+    "department": "Finance & Accounts",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1773"
+  },
+  {
+    "id": "coindcx-1771",
+    "title": "Senior SDET - 1",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1771",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1771",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1771"
+  },
+  {
+    "id": "coindcx-1769",
+    "title": "Associate Market Risk",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1769",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1769",
+    "department": "Markets",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1769"
+  },
+  {
+    "id": "coindcx-1767",
+    "title": "Intern - Key Account Manager",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1767",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1767",
+    "department": "Business",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1767"
+  },
+  {
+    "id": "coindcx-1766",
+    "title": "Principal Officer",
+    "company": "CoinDCX",
+    "location": "Gandhinagar",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1766",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1766",
+    "department": "Risk and Compliance",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1766"
+  },
+  {
+    "id": "coindcx-1765",
+    "title": "Compliance Officer",
+    "company": "CoinDCX",
+    "location": "Gandhinagar",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1765",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1765",
+    "department": "Risk and Compliance",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1765"
+  },
+  {
+    "id": "coindcx-1759",
+    "title": "Analyst - Corporate Development",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1759",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1759",
+    "department": "Corporate Development",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1759"
+  },
+  {
+    "id": "coindcx-1756",
+    "title": "Talent Operations Executive",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1756",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1756",
+    "department": "Human Resources",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1756"
+  },
+  {
+    "id": "coindcx-1753",
+    "title": "Engineering Manager - Data",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1753",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1753",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1753"
+  },
+  {
+    "id": "coindcx-1751",
+    "title": "Intern - B2B Growth",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1751",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1751",
+    "department": "Business",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1751"
+  },
+  {
+    "id": "coindcx-1747",
+    "title": "Manager - Legal (LEA)",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1747",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1747",
+    "department": "Legal",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1747"
+  },
+  {
+    "id": "coindcx-1746",
+    "title": "Manager - Litigation",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1746",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1746",
+    "department": "Legal",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1746"
+  },
+  {
+    "id": "coindcx-1745",
+    "title": "Engineering Manager -  DevOps",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1745",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1745",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1745"
+  },
+  {
+    "id": "coindcx-1731",
+    "title": "SM/M - Quant Researcher",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1731",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1731",
+    "department": "Markets",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1731"
+  },
+  {
+    "id": "coindcx-1730",
+    "title": "Manager/Senior Manager - Quantitative Research",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1730",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1730",
+    "department": "Growth & Marketing",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1730"
+  },
+  {
+    "id": "coindcx-1729",
+    "title": "Senior Manager - Quant Developer",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1729",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1729",
+    "department": "Markets",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1729"
+  },
+  {
+    "id": "coindcx-1727",
+    "title": "Assistant Manager/Manager - Qualitative Research",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1727",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1727",
+    "department": "Growth & Marketing",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1727"
+  },
+  {
+    "id": "coindcx-1726",
+    "title": "Senior IT Administrator",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1726",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1726",
+    "department": "Enterprise IT",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1726"
+  },
+  {
+    "id": "coindcx-1722",
+    "title": "Executive Assistant (to Senior Leadership)",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1722",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1722",
+    "department": "Corporate",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1722"
+  },
+  {
+    "id": "coindcx-1714",
+    "title": "Analyst - API Business",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1714",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1714",
+    "department": "Derivatives Business",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1714"
+  },
+  {
+    "id": "coindcx-1712",
+    "title": "Lead InfoSec Engineer - GRC",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1712",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1712",
+    "department": "Information Security",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1712"
+  },
+  {
+    "id": "coindcx-1696",
+    "title": "Sr. Mrg/Assoc Dir - Category (F&O - Acquisition)",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1696",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1696",
+    "department": "Derivatives Business",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1696"
+  },
+  {
+    "id": "coindcx-1695",
+    "title": "SM/AD \u2013 Talent Acquisition (Leadership Hiring)",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1695",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1695",
+    "department": "Talent Acquisition",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1695"
+  },
+  {
+    "id": "coindcx-1676",
+    "title": "Director - Digital Suraksha Network",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1676",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1676",
+    "department": "Public Policy",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1676"
+  },
+  {
+    "id": "coindcx-1662",
+    "title": "Manager - Customer Support Vendor Ops",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1662",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1662",
+    "department": "Customer Experience\t",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1662"
+  },
+  {
+    "id": "coindcx-1661",
+    "title": "Senior Associate \u2013 Market Risk",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1661",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1661",
+    "department": "Markets",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1661"
+  },
+  {
+    "id": "coindcx-1660",
+    "title": "Senior Manager - Data Privacy & Protection",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1660",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1660",
+    "department": "Information Security",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1660"
+  },
+  {
+    "id": "coindcx-1657",
+    "title": "Analyst - Business Operations",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1657",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1657",
+    "department": "Payments and Banking",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1657"
+  },
+  {
+    "id": "coindcx-1648",
+    "title": "Head of Product",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1648",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1648",
+    "department": "Product",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1648"
+  },
+  {
+    "id": "coindcx-1643",
+    "title": "Senior Staff Engineer",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1643",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1643",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1643"
+  },
+  {
+    "id": "coindcx-1636",
+    "title": "Assistant Manager - Finance",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1636",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1636",
+    "department": "Finance & Accounts",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1636"
+  },
+  {
+    "id": "coindcx-1634",
+    "title": "Senior Analyst - OTC",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1634",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1634",
+    "department": "Markets",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1634"
+  },
+  {
+    "id": "coindcx-1609",
+    "title": "Staff Database Engineer - 2",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1609",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1609",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1609"
+  },
+  {
+    "id": "coindcx-1604",
+    "title": "Associate - Custody Operations",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1604",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1604",
+    "department": "Markets",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1604"
+  },
+  {
+    "id": "coindcx-1595",
+    "title": "Associate Director/Director - Finance",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1595",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1595",
+    "department": "Finance & Accounts",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1595"
+  },
+  {
+    "id": "coindcx-1569",
+    "title": "Manager - Performance Marketing",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1569",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1569",
+    "department": "Growth & Marketing",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1569"
+  },
+  {
+    "id": "coindcx-1565",
+    "title": "Director - Group Company Secretary",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1565",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1565",
+    "department": "Finance & Accounts",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1565"
+  },
+  {
+    "id": "coindcx-1511",
+    "title": "SVP - Marketing",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1511",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1511",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1511"
+  },
+  {
+    "id": "coindcx-1426",
+    "title": "Senior Staff Engineer",
+    "company": "CoinDCX",
+    "location": "Bangalore",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1426",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1426",
+    "department": "Technology",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1426"
+  },
+  {
+    "id": "coindcx-1259",
+    "title": "Key Account Manager (Third-Party)",
+    "company": "CoinDCX",
+    "location": "Mumbai",
+    "type": "Full-time",
+    "date": "2026-09-03",
+    "source": "CoinDCX Official Portal [coindcx]",
+    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1259",
+    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1259",
+    "department": "Business and Strategic Alliances",
+    "skills": [
+      "Web3",
+      "Crypto",
+      "Exchange",
+      "Fintech",
+      "Trading"
+    ],
+    "slug": "coindcx1259"
+  },
+  {
     "id": "ashby-foundation-2fffc9a2-7e3a-461c-8bb1-675540024014",
     "title": "Software Engineering",
     "company": "Foundation",
@@ -19817,30 +20817,6 @@
     "slug": "head85717"
   },
   {
-    "id": "coindcx-prod-mgr-okto-02",
-    "title": "Product Manager - Okto Wallet & Web3 SDK",
-    "company": "CoinDCX",
-    "link": "https://careers.coindcx.com/job/product-manager-okto",
-    "date": "2026-09-02",
-    "source": "CoinDCX Careers [coindcx]",
-    "location": "Remote (Bengaluru, India)",
-    "department": "Product Management",
-    "active": true,
-    "slug": "productkto02"
-  },
-  {
-    "id": "coindcx-sr-sec-eng-01",
-    "title": "Senior Security Engineer (Web3 & Infrastructure)",
-    "company": "CoinDCX",
-    "link": "https://careers.coindcx.com/job/senior-security-engineer",
-    "date": "2026-09-02",
-    "source": "CoinDCX Careers [coindcx]",
-    "location": "Bengaluru, India (Hybrid)",
-    "department": "Engineering & Security",
-    "active": true,
-    "slug": "devopseng01"
-  },
-  {
     "id": "JR101126",
     "title": "Manager, Engineering - Payments",
     "company": "Circle",
@@ -20865,18 +21841,6 @@
     "department": "G&A",
     "active": true,
     "slug": "associate8c513"
-  },
-  {
-    "id": "coindcx-quant-researcher-03",
-    "title": "Quantitative Research Analyst - Market Making",
-    "company": "CoinDCX",
-    "link": "https://careers.coindcx.com/job/quant-researcher",
-    "date": "2026-09-01",
-    "source": "CoinDCX Careers [coindcx]",
-    "location": "Mumbai, India",
-    "department": "Trading & Quant",
-    "active": true,
-    "slug": "traderher03"
   },
   {
     "id": "D404ECA98D",
