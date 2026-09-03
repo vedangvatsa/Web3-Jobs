@@ -4,6 +4,7 @@ import {
   Calendar,
   Newspaper,
   Users,
+  Code2,
   ListChecks,
   Building2,
   GraduationCap,
@@ -46,6 +47,7 @@ export const MAIN_NAV_LINKS: NavLinkItem[] = [
 ];
 
 export const RESOURCE_LINKS: NavLinkItem[] = [
+  { href: '/developers', label: 'Developer Portal & API', icon: Code2 },
   { href: '/resources', label: 'All Resources', icon: ListChecks },
   { href: '/companies', label: 'Companies', icon: Building2 },
   { href: '/learn', label: 'Learn Web3', icon: GraduationCap },

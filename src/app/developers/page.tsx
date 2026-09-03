@@ -169,57 +169,57 @@ export default function DevelopersPage() {
               </div>
             </section>
 
-            {/* Official Multi-Language SDKs & Registries */}
+            {/* API Integration Tools & Code Snippets */}
             <section className="bg-primary/5 border border-primary/20 rounded-2xl p-6 sm:p-8 space-y-4">
               <div className="flex items-center gap-3">
                 <Code2 className="h-6 w-6 text-primary" />
-                <h2 className="text-xl sm:text-2xl font-bold text-foreground">Hashtag Web3 Multi-Language SDKs &amp; MCP Registries</h2>
+                <h2 className="text-xl sm:text-2xl font-bold text-foreground">API Client Snippets &amp; Agent Integration</h2>
               </div>
               <p className="text-sm text-muted-foreground leading-relaxed max-w-3xl">
-                Official SDK packages and verified Model Context Protocol (MCP) server listings across language ecosystems and agent registries.
+                Hashtag Web3 provides standard REST JSON APIs, OpenAPI 3.1 specs, and MCP servers compatible with any language. Official native SDK packages (npm, PyPI) are currently in pre-release candidate phase — use standard HTTP clients or OpenAPI generators below.
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 pt-2">
                 <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-blue-600 hover:bg-blue-700">npm (JavaScript / TS)</Badge>
-                  <h3 className="font-semibold text-sm">@hashtagweb3/sdk</h3>
-                  <a href="https://www.npmjs.com/package/@hashtagweb3/sdk" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
-                    npmjs.com/package/@hashtagweb3/sdk
+                  <Badge className="mb-2 bg-blue-600 hover:bg-blue-700">TypeScript / JS (Fetch)</Badge>
+                  <h3 className="font-semibold text-sm">REST API Client</h3>
+                  <code className="text-xs text-muted-foreground block font-mono mt-1 bg-muted p-2 rounded">
+                    fetch(&apos;https://hashtagweb3.com/api/jobs&apos;)
+                  </code>
+                </div>
+                <div className="p-4 border rounded-xl bg-background">
+                  <Badge className="mb-2 bg-yellow-600 hover:bg-yellow-700">Python (httpx / requests)</Badge>
+                  <h3 className="font-semibold text-sm">Python Client</h3>
+                  <code className="text-xs text-muted-foreground block font-mono mt-1 bg-muted p-2 rounded">
+                    requests.get(&apos;https://hashtagweb3.com/api/jobs&apos;)
+                  </code>
+                </div>
+                <div className="p-4 border rounded-xl bg-background">
+                  <Badge className="mb-2 bg-purple-600 hover:bg-purple-700">Model Context Protocol</Badge>
+                  <h3 className="font-semibold text-sm">MCP Server Endpoint</h3>
+                  <code className="text-xs text-muted-foreground block font-mono mt-1 bg-muted p-2 rounded">
+                    https://hashtagweb3.com/api/mcp
+                  </code>
+                </div>
+                <div className="p-4 border rounded-xl bg-background">
+                  <Badge className="mb-2 bg-cyan-600 hover:bg-cyan-700">OpenAPI 3.1 Spec</Badge>
+                  <h3 className="font-semibold text-sm">Auto Generator</h3>
+                  <a href="https://hashtagweb3.com/openapi.json" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
+                    /openapi.json
                   </a>
                 </div>
                 <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-yellow-600 hover:bg-yellow-700">PyPI (Python)</Badge>
-                  <h3 className="font-semibold text-sm">hashtagweb3</h3>
-                  <a href="https://pypi.org/project/hashtagweb3/" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
-                    pypi.org/project/hashtagweb3
+                  <Badge className="mb-2 bg-emerald-600 hover:bg-emerald-700">AI Context</Badge>
+                  <h3 className="font-semibold text-sm">LLM Training File</h3>
+                  <a href="https://hashtagweb3.com/llms.txt" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
+                    /llms.txt
                   </a>
                 </div>
                 <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-red-600 hover:bg-red-700">RubyGems (Ruby)</Badge>
-                  <h3 className="font-semibold text-sm">hashtagweb3</h3>
-                  <a href="https://rubygems.org/gems/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
-                    rubygems.org/gems/hashtagweb3
-                  </a>
-                </div>
-                <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-cyan-600 hover:bg-cyan-700">Go Module</Badge>
-                  <h3 className="font-semibold text-sm">github.com/hashtagweb3/sdk</h3>
-                  <a href="https://github.com/hashtagweb3/sdk" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
-                    github.com/hashtagweb3/sdk
-                  </a>
-                </div>
-                <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-purple-600 hover:bg-purple-700">Smithery MCP Registry</Badge>
-                  <h3 className="font-semibold text-sm">Smithery Listing</h3>
-                  <a href="https://smithery.ai/server/@hashtagweb3/mcp" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
-                    smithery.ai/server/@hashtagweb3/mcp
-                  </a>
-                </div>
-                <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-emerald-600 hover:bg-emerald-700">mcp.so Registry</Badge>
-                  <h3 className="font-semibold text-sm">mcp.so Listing</h3>
-                  <a href="https://mcp.so/server/hashtagweb3" target="_blank" rel="noopener noreferrer" className="text-xs text-primary hover:underline font-mono block mt-1">
-                    mcp.so/server/hashtagweb3
-                  </a>
+                  <Badge className="mb-2 bg-slate-600 hover:bg-slate-700">Native SDKs</Badge>
+                  <h3 className="font-semibold text-sm">Language Packages</h3>
+                  <span className="text-xs text-muted-foreground block font-mono mt-1">
+                    In Pre-Release / RC Phase
+                  </span>
                 </div>
               </div>
             </section>
