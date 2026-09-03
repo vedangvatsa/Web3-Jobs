@@ -67,11 +67,11 @@ export async function GET(request: NextRequest) {
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '12px',
-                  fontSize: '34px',
+                  gap: '14px',
+                  fontSize: '44px',
                   fontWeight: '700',
                   color: '#0284c7',
-                  letterSpacing: '-0.5px',
+                  letterSpacing: '-1px',
                 }}
               >
                 <div style={{ display: 'flex', color: '#0284c7' }}>{displayCompany}</div>
@@ -82,11 +82,11 @@ export async function GET(request: NextRequest) {
               <div
                 style={{
                   display: 'flex',
-                  fontSize: displayTitle.length > 35 ? '56px' : '68px',
-                  fontWeight: '800',
+                  fontSize: displayTitle.length > 50 ? '64px' : displayTitle.length > 30 ? '76px' : '92px',
+                  fontWeight: '900',
                   color: '#0f172a',
-                  lineHeight: '1.15',
-                  letterSpacing: '-1.5px',
+                  lineHeight: '1.12',
+                  letterSpacing: '-2px',
                 }}
               >
                 {displayTitle}
