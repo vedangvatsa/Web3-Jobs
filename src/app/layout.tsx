@@ -183,6 +183,7 @@ export default async function RootLayout({
       <link rel="ai-context" href="/llms.txt" />
       <link rel="alternate" type="text/markdown" href="https://hashtagweb3.com/index.md" />
       <link rel="alternate" type="application/json" href="https://hashtagweb3.com/?mode=agent" title="Agent View" />
+      <link rel="developer-docs" href="/developers" />
       <link rel="service-desc" type="application/vnd.oai.openapi+json;version=3.1" href="https://hashtagweb3.com/openapi.json" />
       <link rel="mcp-registry" href="https://smithery.ai/server/@hashtagweb3/mcp" />
       <link rel="mcp-server" href="https://hashtagweb3.com/api/mcp" />
