@@ -668,7 +668,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     <JsonLd data={breadcrumbSchema} />
         <main className="flex-1">
      <div className="bg-background">
-      <article className="site-container px-4 page-section">
+      <article className="max-w-4xl mx-auto w-full px-4 page-section">
          <header className="mb-8">
           <div className="flex items-center gap-2 mb-4">
            <Link href="/glossary" className="inline-flex items-center gap-1.5 text-sm text-muted-foreground hover:text-primary">
@@ -786,7 +786,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       {howToSchema && <JsonLd data={howToSchema} />}
       <main className="flex-1">
         <PageShell>
-          <article className="max-w-3xl mx-auto w-full">
+          <article className="max-w-4xl mx-auto w-full">
             <Suspense fallback={<div className="py-12 text-center text-muted-foreground">Loading article...</div>}>
               {/* Header: title and subtitle */}
               <header className="mb-10 text-left">
