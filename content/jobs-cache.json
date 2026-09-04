@@ -3491,25 +3491,6 @@
     "slug": "accountant3"
   },
   {
-    "id": "hashed-cosmos-network-4620403007",
-    "title": "General application",
-    "company": "Cosmos Network",
-    "location": "New York, New York, United States, Remote, Remote",
-    "type": "Full-time",
-    "date": "2026-09-04",
-    "source": "hashed:cosmosnetwork",
-    "link": "https://job-boards.greenhouse.io/cosmoslabs/jobs/4620403007",
-    "applyUrl": "https://job-boards.greenhouse.io/cosmoslabs/jobs/4620403007",
-    "department": "Engineering & Operations",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "VC Portfolio"
-    ],
-    "slug": "cosmosnetworkge20403007"
-  },
-  {
     "id": "hashed-jejememe-2d22e8de-d81d-473f-9eee-ab2df302f7f9",
     "title": "Growth Marketer",
     "company": "Jejememe",
@@ -4154,25 +4135,6 @@
       "VC Portfolio"
     ],
     "slug": "aptoslabssenior06563005"
-  },
-  {
-    "id": "hashed-covalent-Ryk1E03-txRV",
-    "title": "General Application",
-    "company": "Covalent",
-    "location": "Burnaby, Canada",
-    "type": "Full-time",
-    "date": "2026-09-04",
-    "source": "hashed:covalent",
-    "link": "https://covalenthq.freshteam.com/jobs/Ryk1E03-txRV",
-    "applyUrl": "https://covalenthq.freshteam.com/jobs/Ryk1E03-txRV",
-    "department": "Engineering & Operations",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "VC Portfolio"
-    ],
-    "slug": "covalentgeneral1e03txrv"
   },
   {
     "id": "hashed-covalent-RzsVHYzyvGV0",
@@ -6934,26 +6896,6 @@
     "slug": "seniorf80aa"
   },
   {
-    "id": "ashby-succinct-6f3cc325-7d8f-4103-942f-3725c69981b5",
-    "title": "General Application",
-    "company": "Succinct Labs (ZK)",
-    "location": "San Francisco (Preferred)",
-    "type": "FullTime",
-    "date": "2026-09-03",
-    "source": "ashby:succinct",
-    "link": "https://jobs.ashbyhq.com/succinct/6f3cc325-7d8f-4103-942f-3725c69981b5",
-    "applyUrl": "https://jobs.ashbyhq.com/succinct/6f3cc325-7d8f-4103-942f-3725c69981b5",
-    "department": "General",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "AI",
-      "Security"
-    ],
-    "slug": "general981b5"
-  },
-  {
     "id": "ashby-aztec-labs-4f3ba5d5-fb77-46b2-b2fa-a7857cf5554d",
     "title": "Finance Lead",
     "company": "Aztec Labs (Privacy L2)",
@@ -7032,26 +6974,6 @@
       "Security"
     ],
     "slug": "product0b897"
-  },
-  {
-    "id": "ashby-symbiotic-4a88e7cb-8119-4ab5-aba0-ab0bdd2e56ad",
-    "title": "Join our Talent Pool",
-    "company": "Symbiotic Restaking",
-    "location": "London",
-    "type": "FullTime",
-    "date": "2026-09-03",
-    "source": "ashby:symbiotic",
-    "link": "https://jobs.ashbyhq.com/symbiotic/4a88e7cb-8119-4ab5-aba0-ab0bdd2e56ad",
-    "applyUrl": "https://jobs.ashbyhq.com/symbiotic/4a88e7cb-8119-4ab5-aba0-ab0bdd2e56ad",
-    "department": "Other",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "AI",
-      "Security"
-    ],
-    "slug": "recruitinge56ad"
   },
   {
     "id": "ashby-movement-28ab1283-fa8a-4629-a39b-8df77c8d3060",
@@ -12114,46 +12036,6 @@
     "slug": "productfe453"
   },
   {
-    "id": "ashby-render-558f18ed-c98c-4928-aa2b-2f9e297eea42",
-    "title": "Open Application",
-    "company": "Render Network",
-    "location": "Remote: United States",
-    "type": "FullTime",
-    "date": "2026-09-03",
-    "source": "ashby:render",
-    "link": "https://jobs.ashbyhq.com/render/558f18ed-c98c-4928-aa2b-2f9e297eea42",
-    "applyUrl": "https://jobs.ashbyhq.com/render/558f18ed-c98c-4928-aa2b-2f9e297eea42",
-    "department": "All Teams",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "DeFi",
-      "Infrastructure"
-    ],
-    "slug": "openeea42"
-  },
-  {
-    "id": "greenhouse-flowtraders-6122583",
-    "title": "W3BWAVE: Digital Assets Talent Pool - Powered by Flow Traders, Deribit and Bitvavo",
-    "company": "Flow Traders",
-    "location": "Amsterdam",
-    "type": "Full-time",
-    "date": "2026-09-03",
-    "source": "greenhouse:flowtraders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/6122583",
-    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/6122583",
-    "department": "Flow Traders",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "DeFi",
-      "Infrastructure"
-    ],
-    "slug": "trader22583"
-  },
-  {
     "id": "greenhouse-flowtraders-8088069",
     "title": "Technical Support Engineer ",
     "company": "Flow Traders",
@@ -12172,26 +12054,6 @@
       "Infrastructure"
     ],
     "slug": "engineer88069"
-  },
-  {
-    "id": "greenhouse-flowtraders-8026227",
-    "title": "Talent Pool: Trading Systems Engineer",
-    "company": "Flow Traders",
-    "location": "New York",
-    "type": "Full-time",
-    "date": "2026-09-03",
-    "source": "greenhouse:flowtraders",
-    "link": "https://job-boards.greenhouse.io/flowtraders/jobs/8026227",
-    "applyUrl": "https://job-boards.greenhouse.io/flowtraders/jobs/8026227",
-    "department": "Flow Traders",
-    "skills": [
-      "Web3",
-      "Blockchain",
-      "Crypto",
-      "DeFi",
-      "Infrastructure"
-    ],
-    "slug": "recruiting26227"
   },
   {
     "id": "greenhouse-flowtraders-8035201",
@@ -21038,25 +20900,6 @@
     "slug": "engineerabs20"
   },
   {
-    "id": "trmlabs-19",
-    "title": "General Application",
-    "company": "TRM Labs",
-    "location": "Lindon, Utah",
-    "type": "Full-time",
-    "date": "2026-09-02",
-    "source": "bamboohr:trmlabs",
-    "link": "https://trmlabs.bamboohr.com/careers/19",
-    "applyUrl": "https://trmlabs.bamboohr.com/careers/19",
-    "department": "Human Resources",
-    "skills": [
-      "Blockchain Analytics",
-      "Security",
-      "Compliance",
-      "Crypto"
-    ],
-    "slug": "generalabs19"
-  },
-  {
     "id": "trmlabs-15",
     "title": "IT Security Engineer",
     "company": "TRM Labs",
@@ -23554,18 +23397,6 @@
     "slug": "engineer20005"
   },
   {
-    "id": "4713583005",
-    "title": "Staff Product Designer - future opportunities",
-    "company": "Shakepay",
-    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4713583005",
-    "date": "2026-08-19",
-    "source": "Greenhouse: Shakepay [shakepay]",
-    "location": "Remote, Canada",
-    "department": "Engineering",
-    "active": true,
-    "slug": "product83005"
-  },
-  {
     "id": "4609637005",
     "title": "Senior Software Engineer",
     "company": "Shakepay",
@@ -23588,18 +23419,6 @@
     "department": "Legal",
     "active": true,
     "slug": "compliance24005"
-  },
-  {
-    "id": "4716273005",
-    "title": "Open Application for Bitcoiners - future opportunities",
-    "company": "Shakepay",
-    "link": "https://job-boards.greenhouse.io/shakepay/jobs/4716273005",
-    "date": "2026-08-19",
-    "source": "Greenhouse: Shakepay [shakepay]",
-    "location": "Remote, Canada",
-    "department": "Engineering",
-    "active": true,
-    "slug": "open73005"
   },
   {
     "id": "4650682005",
@@ -23978,26 +23797,6 @@
     "slug": "manager63101",
     "type": "Full-time",
     "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4871663101",
-    "skills": [
-      "Crypto",
-      "Exchange",
-      "Fintech",
-      "Web3"
-    ]
-  },
-  {
-    "id": "4872578101",
-    "title": "Open Application",
-    "company": "Bitpanda",
-    "link": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4872578101",
-    "date": "2026-09-02",
-    "source": "greenhouse:bitpanda",
-    "location": "Barcelona, Spain; Berlin, Berlin, Germany; București, Bucharest, Romania; Vienna, Vienna, Austria",
-    "department": "Bitpanda",
-    "active": true,
-    "slug": "open78101",
-    "type": "Full-time",
-    "applyUrl": "https://job-boards.eu.greenhouse.io/bitpanda/jobs/4872578101",
     "skills": [
       "Crypto",
       "Exchange",
@@ -25547,18 +25346,6 @@
     "department": "Engineering",
     "active": true,
     "slug": "backend06004"
-  },
-  {
-    "id": "bb981823-b923-4f53-95ba-19d732c1caf3",
-    "title": "Software Engineer- General Interest",
-    "company": "Uniswap Labs",
-    "link": "https://jobs.ashbyhq.com/uniswap/bb981823-b923-4f53-95ba-19d732c1caf3",
-    "date": "2026-08-12",
-    "source": "Ashby: Uniswap Labs [uniswap]",
-    "location": "New York",
-    "department": "Engineering",
-    "active": true,
-    "slug": "engineer1caf3"
   },
   {
     "id": "4297209009",
@@ -43115,18 +42902,6 @@
     "department": "Sales",
     "active": true,
     "slug": "sales02c28"
-  },
-  {
-    "id": "b28f4d86-74c0-478a-9888-2c6e2f97ac73",
-    "title": "Open Application",
-    "company": "Talos",
-    "link": "https://jobs.ashbyhq.com/Talos-Trading/b28f4d86-74c0-478a-9888-2c6e2f97ac73",
-    "date": "2026-08-05T09:49:08.632+00:00",
-    "source": "Ashby: Talos [Talos-Trading]",
-    "location": "Open",
-    "department": "General",
-    "active": true,
-    "slug": "open7ac73"
   },
   {
     "id": "4941257101",
