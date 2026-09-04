@@ -85,6 +85,42 @@ const pwcWeb3Jobs = [
     department: 'Asset & Wealth Management Assurance',
     active: true,
     slug: 'managerpwc07'
+  },
+  {
+    id: 'pwc-digital-assets-crypto-director',
+    title: 'Digital Assets & Crypto Director (Consulting & Strategy)',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / Hybrid',
+    department: 'Web3 & Digital Assets Advisory',
+    active: true,
+    slug: 'directorpwc08'
+  },
+  {
+    id: 'pwc-bcm-tax-manager-fintech-crypto',
+    title: 'Banking & Capital Markets Tax Manager (FinTech & Crypto)',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / Chicago, IL / Hybrid',
+    department: 'FinTech & Crypto Tax Advisory',
+    active: true,
+    slug: 'managerpwc09'
+  },
+  {
+    id: 'pwc-technology-consulting-associate-digital-assets',
+    title: 'Technology Consulting Associate (Digital Assets & Payments)',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / San Francisco, CA / Hybrid',
+    department: 'Digital Assets Consulting',
+    active: true,
+    slug: 'associatepwc10'
   }
 ];
 
