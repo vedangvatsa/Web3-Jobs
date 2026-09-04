@@ -6,7 +6,7 @@ description: >-
   What Web3 gaming guilds are, how the scholarship model worked, why it broke in 2022, and how leading guilds now use questing, subDAOs, and onchain reputation. Includes mechanics, costs, revenue splits, and practical steps to join.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 A Web3 gaming guild is a coordinated group that pools capital to acquire game assets and distributes access to players who play, complete tasks, or provide data in exchange for a share of rewards. The model started as NFT lending for play-to-earn games and now includes questing, reputation tracking, and game publishing.

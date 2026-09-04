@@ -8,7 +8,7 @@ description: >-
  Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Automated Market Makers (AMMs) serve as foundational elements in Decentralized Finance ([DeFi](/what-is-defi)). They enable users to trade assets without intermediaries, using pools of [tokens](/what-is-a-token) instead of traditional order books. This design allows for easy, permissionless trading.

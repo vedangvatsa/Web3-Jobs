@@ -7,7 +7,7 @@ description: >-
   abilities, how Aptos Move and Sui Move differ, pros and cons, and how to start building today.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 ## What is Move

@@ -6,7 +6,7 @@ description: >-
   A practical guide to writing a Web3 resume that gets you hired. Learn how to structure proof of work, on-chain credentials, and GitHub links so hiring managers can verify you in minutes.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 A Web3 resume is a one to two page document that links your skills to verifiable proof you can click through: GitHub repos, deployed contracts on Etherscan, governance votes, dashboards, and audit results. Hiring managers use it to understand your trajectory and to find your proof of work fast.

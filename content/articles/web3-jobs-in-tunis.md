@@ -8,7 +8,7 @@ description: >-
  becoming.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Tunis, the capital of Tunisia, is rapidly establishing itself as a significant center for Web3 talent and innovation in North Africa. The city boasts a high concentration of engineering graduates, supported by a reliable education system and a youthful demographic that actively engages with technology. This environment builds a rich pool of technical talent that global Web3 companies are increasingly seeking.

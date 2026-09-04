@@ -8,7 +8,7 @@ category: Career Guides
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: finance analyst data
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 A DeFi analyst evaluates decentralized finance protocols and turns on-chain data into clear recommendations. The role blends protocol due diligence, tokenomics, risk assessment, and SQL-based data analysis to help funds, DAOs, and product teams decide where to allocate capital and what to build.

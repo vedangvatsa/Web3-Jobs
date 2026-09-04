@@ -8,7 +8,7 @@ description: >-
   practical 90-day plan with salary ranges and scam checks.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Getting a crypto job in 2026 is not about adding "passionate about Web3" to your resume. Hiring teams screen for public proof that you can do the work, on chain and in public.

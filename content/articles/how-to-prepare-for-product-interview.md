@@ -8,7 +8,7 @@ description: >-
   fluency, and Web3 checks on tokenomics, governance, and security.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 ## What a product interview actually tests
