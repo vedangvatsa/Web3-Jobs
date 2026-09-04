@@ -1,7 +1,7 @@
 import { NextResponse } from 'next/server';
 
 export async function GET() {
-  const markdown = `# 404 Not Found — Hashtag Web3
+  const markdown = `# 404 Not Found: Hashtag Web3
 
 > This resource does not exist on hashtagweb3.com.
 

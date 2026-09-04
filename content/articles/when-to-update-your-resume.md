@@ -10,7 +10,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
 
-Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a vital document throughout your career, not just during job searches. Treat it as a continually evolving summary of your professional achievements. Regular updates ensure you remain ready for unexpected job opportunities and help you keep track of your accomplishments. The question remains: how often should you refresh it?
+Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a vital document throughout your career, not just during job searches. Treat it as a continually evolving summary of your professional achievements. Regular updates ensure you remain ready for unexpected job opportunities and help you keep track of your accomplishments. The optimal update frequency depends on your career stage and project cycle:
 
 You should update your resume every three to six months. This routine does not necessitate a complete rewrite; instead, it involves adding recent achievements, refining your skills, and polishing your language. certain career events should prompt an immediate resume update. Below are key moments to consider for these updates.
 

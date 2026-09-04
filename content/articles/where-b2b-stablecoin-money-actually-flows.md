@@ -6,7 +6,7 @@ description: >-
  Beyond cryptocurrency trading, stablecoins have quietly replaced correspondent banking across wholesale supply chains. A 3,500-word examination of working capital mechanics, offshore dollar systems, ERP integration, and emerging trade corridors.
 category: Industry Insights
 publishedDate: '2026-09-04'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 
 In 1957, the Soviet Union faced a practical dilemma. It held substantial US dollar balances from export earnings but feared keeping them inside American financial institutions where Washington could freeze them. The solution was simple: deposit the dollars in the Banque Commerciale pour l'Europe du Nord in Paris and Moscow Narodny Bank in London. 

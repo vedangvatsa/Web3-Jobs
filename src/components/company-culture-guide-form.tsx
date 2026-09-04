@@ -63,7 +63,7 @@ export function CompanyCultureGuideForm() {
       hiringPhilosophy:
         'We hire for passion, initiative, and a "proof of work" portfolio over traditional credentials. We value T-shaped individuals with deep expertise and broad curiosity.',
       meetingPhilosophy:
-        'Meetings are rare, have a clear agenda, a designated facilitator, and always end with clear action items. Cameras are on to foster connection.',
+        'Meetings are rare, have a clear agenda, a designated facilitator, and always end with clear action items. Cameras are on to keep team discussions direct and engaged.',
       tools:
         'Our core stack: Discord for communication, Notion for documentation, Figma for design, GitHub for code, and Asana for project management.',
       rituals:

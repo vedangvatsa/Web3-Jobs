@@ -12,10 +12,10 @@ Key facts:
 - Comprehensive Web3 glossary with 500+ terms
 
 Available API endpoints (all public, no auth required):
-- GET /api/v1/jobs — Web3 job listings (params: search, location, type, limit, offset, cursor)
-- GET /api/v1/news — Web3 news (params: search, category, limit, offset)
-- GET /api/v1/events — Web3 events (params: search, type, limit, offset)
-- GET /api/v1/glossary — Glossary terms (params: search, letter, limit, offset)
+- GET /api/v1/jobs: Web3 job listings (params: search, location, type, limit, offset, cursor)
+- GET /api/v1/news: Web3 news (params: search, category, limit, offset)
+- GET /api/v1/events: Web3 events (params: search, type, limit, offset)
+- GET /api/v1/glossary: Glossary terms (params: search, letter, limit, offset)
 
 Full documentation: https://hashtagweb3.com/developers
 OpenAPI spec: https://hashtagweb3.com/openapi.json

@@ -28,7 +28,7 @@ function loadLegacyArchive(): Record<string, { id?: string; link?: string; compa
   return legacyArchiveCache;
 }
 
-// In-memory cache of fetched job descriptions — loaded once per process lifetime.
+// In-memory cache of fetched job descriptions: loaded once per process lifetime.
 // The 43MB file is only parsed once; subsequent calls return the cached object.
 let descriptionsCache: Record<string, string> | null = null;
 

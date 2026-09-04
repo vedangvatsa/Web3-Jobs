@@ -18,9 +18,9 @@ The concept of blockchain emerged in 2008 through Satoshi Nakamoto's seminal whi
 
 International Blockchain Day prompts reflection on the evolution of this technology, from the mining of the first Bitcoin block to the active ecosystems of [smart contracts](/what-are-smart-contracts), decentralized finance ([DeFi](/what-is-defi)), non-fungible tokens ([NFTs](/what-are-nfts)), and decentralized autonomous organizations ([DAOs](/what-is-a-dao)). This day also calls for a forward-looking approach, as we consider existing challenges such as scalability, user experience, and regulatory issues, alongside future applications that remain to be realized. The collaborative spirit of developers, researchers, entrepreneurs, and users around the world deserves celebration.
 
-## The Core Principles: What Makes Blockchain Revolutionary?
+## Core Architecture: How Distributed Ledgers Differ from Centralized Databases
 
-Understanding the key principles that underpin blockchain technology reveals its revolutionary nature. Blockchain is not merely a sophisticated database; it redefines how we organize information and coordinate human activities. The significant elements include:
+Blockchains depart from traditional relational databases through three foundational guarantees: cryptographic tamper-resistance, decentralized consensus verification, and permissionless auditability:
 
 ### 1. Decentralization
 

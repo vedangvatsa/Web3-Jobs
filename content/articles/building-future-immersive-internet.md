@@ -95,7 +95,7 @@ Author in USD, deliver in glTF is the working norm the Forum documents.
 
 Khronos notes in October 2024 posts that workflows around external references and interoperability are meant to let teams compose multiple glTF assets without baking them into one file, similar to USD composition arcs.
 
-## The device landscape in 2026
+## Device Capabilities and Headsets in 2026
 
 No single headset shows the full standard. Design for progressive enhancement where Quest gets the richest AR, Vision Pro gets the sharpest spatial UI, and desktop gets raw performance.
 
