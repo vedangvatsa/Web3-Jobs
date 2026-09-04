@@ -9,7 +9,7 @@ const jobs = [
     companyUrl: 'https://kappalab.io',
     location: 'London, United Kingdom (Hybrid)',
     type: 'Full-time',
-    date: '2026-08-12',
+    date: '2026-09-04',
     source: 'GoHire [gohire]',
     link: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/quant-trader-297472/?ref=aHR0cHM6Ly9hcHAuZ29oaXJlLmlvLw==',
     applyUrl: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/quant-trader-297472/?ref=aHR0cHM6Ly9hcHAuZ29oaXJlLmlvLw==',
