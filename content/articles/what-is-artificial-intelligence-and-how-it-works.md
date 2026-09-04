@@ -1,6 +1,5 @@
 ---
 title: What is Artificial Intelligence and How It Works
-image: 'https://picsum.photos/seed/ai-works/1200/630'
 description: >-
  A straightforward look at what artificial intelligence really is, how it
  functions, and why it's becoming a major part of our world.

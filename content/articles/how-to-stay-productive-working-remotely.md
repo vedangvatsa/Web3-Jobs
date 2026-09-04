@@ -1,6 +1,5 @@
 ---
 title: How to Stay Productive Working Remotely
-image: 'https://picsum.photos/seed/remote-productive/1200/630'
 data-ai-hint: person focused working
 description: >-
  Learn effective strategies to stay productive and focused while working

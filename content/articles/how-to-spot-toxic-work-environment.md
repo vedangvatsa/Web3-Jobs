@@ -4,7 +4,6 @@ description: >-
  A toxic work environment can harm your career and your well-being. Learn to
  recognize the warning signs before you accept a job offer or when you're in a
  role.
-image: 'https://picsum.photos/seed/310/1200/630'
 data-ai-hint: office stress
 category: Career Guides
 publishedDate: '2026-03-11'

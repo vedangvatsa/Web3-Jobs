@@ -1,6 +1,5 @@
 ---
 title: Understanding Smart Home Devices and IoT
-image: 'https://picsum.photos/seed/smart-home/1200/630'
 description: >-
  A beginner's guide to smart home devices, how they work using the Internet of
  Things (IoT), and the most popular types of devices available.

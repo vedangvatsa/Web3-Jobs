@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Nairobi: Africa''s Silicon Savannah'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: nairobi kenya city
 description: Discover Web3 and fintech job opportunities in Nairobi's tech ecosystem.
 category: Career Guides

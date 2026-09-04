@@ -4,7 +4,6 @@ description: >-
  An employment gap on your resume doesn't have to be a red flag. Learn how to
  frame your career break positively and address it confidently in your job
  search.
-image: 'https://picsum.photos/seed/315/1200/630'
 data-ai-hint: resume gap
 category: Career Guides
 publishedDate: '2026-03-11'

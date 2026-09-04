@@ -1,6 +1,5 @@
 ---
 title: Machine Learning Engineer Salary Guide
-image: 'https://picsum.photos/seed/ml-salary/1200/630'
 data-ai-hint: person money chart
 description: >-
  A full guide to Machine Learning Engineer salaries. Discover the key factors

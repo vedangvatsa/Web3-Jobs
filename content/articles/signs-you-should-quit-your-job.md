@@ -4,7 +4,6 @@ description: >-
  It can be hard to know when it's time to move on. This guide covers the key
  signs that indicate it might be time to quit your job and find a new
  opportunity.
-image: 'https://picsum.photos/seed/311/1200/630'
 data-ai-hint: person leaving office
 category: Career Guides
 publishedDate: '2026-03-11'

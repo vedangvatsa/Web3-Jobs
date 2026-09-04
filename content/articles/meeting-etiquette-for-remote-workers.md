@@ -4,7 +4,6 @@ description: >-
  Master the art of remote meetings. This guide covers the essential etiquette
  for virtual meetings to ensure they are productive, inclusive, and
  professional.
-image: 'https://picsum.photos/seed/meeting/1200/630'
 category: Career Guides
 data-ai-hint: remote meeting
 publishedDate: '2026-03-11'

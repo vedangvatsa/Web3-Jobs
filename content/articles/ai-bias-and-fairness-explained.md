@@ -1,6 +1,5 @@
 ---
 title: AI Bias and Fairness Explained
-image: 'https://picsum.photos/seed/ai-bias/1200/630'
 data-ai-hint: unbalanced scale
 description: >-
   A clear explanation of how bias gets into AI systems and why it matters. Learn

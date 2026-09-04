@@ -5,7 +5,6 @@ description: >-
  aims to build processors that mimic the structure and function of the human
  brain.
 category: Educational
-image: 'https://picsum.photos/seed/neuromorphic/1200/630'
 data-ai-hint: brain chip
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

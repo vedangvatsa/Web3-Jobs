@@ -3,7 +3,6 @@ title: Sabbatical Leave A Complete Planning Guide
 description: >-
  A sabbatical can be a life-changing experience. This full guide will walk you
  through the steps of planning a successful and fulfilling career break.
-image: 'https://picsum.photos/seed/318/1200/630'
 data-ai-hint: travel planning
 category: Career Guides
 publishedDate: '2026-03-11'

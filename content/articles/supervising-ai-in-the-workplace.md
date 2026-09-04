@@ -1,6 +1,5 @@
 ---
 title: 'Supervising AI in the Workplace: Human Oversight, Rules, and Practical Setup'
-image: 'https://picsum.photos/seed/supervising-ai-workplace/1200/630'
 data-ai-hint: manager reviewing AI system output
 description: >-
   Supervising AI in the workplace means keeping a trained person able to

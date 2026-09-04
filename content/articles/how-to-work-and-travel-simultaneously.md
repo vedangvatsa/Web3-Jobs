@@ -1,6 +1,5 @@
 ---
 title: How to Work and Travel Simultaneously
-image: 'https://picsum.photos/seed/work-travel/1200/630'
 data-ai-hint: laptop beach view
 description: >-
  A guide to becoming a digital nomad. Learn how to balance work and travel,

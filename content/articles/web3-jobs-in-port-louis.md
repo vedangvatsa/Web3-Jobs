@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Port Louis: A Guide to Mauritius'' FinTech and Blockchain Hub'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: port louis mauritius
 description: >-
  A career guide to the Web3 job market in Port Louis. Explore how Mauritius is

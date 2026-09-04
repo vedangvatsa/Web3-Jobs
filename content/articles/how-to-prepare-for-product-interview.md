@@ -1,6 +1,5 @@
 ---
 title: How to Prepare for a Product Interview
-image: 'https://picsum.photos/seed/product-interview/1200/630'
 data-ai-hint: product manager interview whiteboard
 description: >-
   A practical guide to preparing for product manager interviews in 2026, with specific

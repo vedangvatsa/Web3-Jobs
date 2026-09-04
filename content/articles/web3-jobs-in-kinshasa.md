@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Kinshasa: A Guide to the DRC''s Emerging Tech Scene'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: kinshasa drc city
 description: >-
  A career guide to the emerging Web3 job market in Kinshasa. Explore how the

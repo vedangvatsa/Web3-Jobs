@@ -1,6 +1,5 @@
 ---
 title: What is Quantum Computing for Beginners
-image: 'https://picsum.photos/seed/quantum-computing/1200/630'
 description: >-
  A simple introduction to the mind-bending world of quantum computing,
  explaining qubits, superposition, and entanglement in easy-to-understand

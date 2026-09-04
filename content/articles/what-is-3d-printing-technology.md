@@ -4,7 +4,6 @@ description: >-
  An overview of 3D printing, or additive manufacturing, explaining the
  different methods, materials, and how it's improving how industries from.
 category: Educational
-image: 'https://picsum.photos/seed/3dprinting/1200/630'
 data-ai-hint: 3d printer
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

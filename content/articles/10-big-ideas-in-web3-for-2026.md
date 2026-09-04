@@ -5,7 +5,6 @@ description: >-
  DePIN growth, real world asset tokenization, and account abstraction.
 category: Industry Insights
 data-ai-hint: web3 2026 trends innovations
-image: 'https://picsum.photos/seed/web3-trends-2026/1200/630'
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---

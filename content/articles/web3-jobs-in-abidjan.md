@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Abidjan: A Guide to Ivory Coast''s Digital Finance Hub'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: abidjan ivory coast
 description: >-
  A career guide to the Web3 job market in Abidjan. Explore how Ivory Coast's

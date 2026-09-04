@@ -3,7 +3,6 @@ title: How to Resign Professionally and Gracefully
 description: >-
  Quitting your job is a delicate process. Learn how to resign in a way that
  preserves your professional relationships and protects your reputation.
-image: 'https://picsum.photos/seed/312/1200/630'
 data-ai-hint: person leaving
 category: Career Guides
 publishedDate: '2026-03-11'

@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Algiers: A Guide to Algeria''s Tech Awakening'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: algiers algeria city
 description: >-
  A career guide to the emerging Web3 job market in Algiers. Explore how

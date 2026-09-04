@@ -4,7 +4,6 @@ description: >-
  A guide for introverts on how to network effectively without feeling drained.
  Learn strategies that play to your strengths, such as one-on-one conversations
  and thoughtful follow-ups.
-image: 'https://picsum.photos/seed/networking/1200/630'
 category: Career Guides
 data-ai-hint: people talking
 publishedDate: '2026-03-11'

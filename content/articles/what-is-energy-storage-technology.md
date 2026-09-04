@@ -5,7 +5,6 @@ description: >-
  pumped-hydro and thermal storage, and their critical role in a renewable
  energy.
 category: Educational
-image: 'https://picsum.photos/seed/energystorage/1200/630'
 data-ai-hint: battery storage
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

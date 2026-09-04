@@ -1,6 +1,5 @@
 ---
 title: How to Prepare for a Behavioral Interview
-image: 'https://picsum.photos/seed/behavioral-interview/1200/630'
 data-ai-hint: behavioral interview person speaking
 description: >-
   Prepare for behavioral interviews with the STAR method. Learn what hiring managers check, how to build 8 to 10 short stories with numbers, and how Web3 teams assess async work and ownership.

@@ -1,6 +1,5 @@
 ---
 title: How to Ask for Raise at Work
-image: 'https://picsum.photos/seed/ask-for-raise/1200/630'
 data-ai-hint: upward graph arrow
 description: >-
  A practical guide on how to successfully ask for a raise. Learn when to ask,

@@ -3,7 +3,6 @@ title: How to Explain Employment Gaps Successfully
 description: >-
  Worried about an employment gap? Learn how to confidently and strategically
  explain career breaks in your resume, cover letter, and interviews.
-image: 'https://picsum.photos/seed/316/1200/630'
 data-ai-hint: resume gap interview
 category: Career Guides
 publishedDate: '2026-03-11'

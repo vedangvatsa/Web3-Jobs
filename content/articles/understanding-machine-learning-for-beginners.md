@@ -1,6 +1,5 @@
 ---
 title: Understanding Machine Learning for Beginners
-image: 'https://picsum.photos/seed/ml-beginners/1200/630'
 description: >-
  A simple introduction to machine learning, explaining what it is, how it
  differs from traditional programming, and where it's used.

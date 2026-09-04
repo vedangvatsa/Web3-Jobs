@@ -2,7 +2,6 @@
 title: 'Agency vs. In-House: Decoding the Key Differences for Your Career'
 description: >-
   Agency or in-house changes how you work each day, what skills you build, and how you are paid. This guide compares scope, pace, pay, growth paths, and Web3 specifics to help you choose.
-image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: two doors
 category: Career Guides
 publishedDate: '2026-03-11'

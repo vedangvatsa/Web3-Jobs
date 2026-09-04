@@ -4,7 +4,6 @@ description: >-
  A practical guide on structuring your presentation, anticipating questions,
  and communicating with confidence to get buy-in from senior executives for
  your best ideas.
-image: 'https://picsum.photos/seed/leadership/1200/630'
 category: Career Guides
 data-ai-hint: business presentation
 publishedDate: '2026-03-11'

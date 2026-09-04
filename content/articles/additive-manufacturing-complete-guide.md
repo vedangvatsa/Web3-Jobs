@@ -5,7 +5,6 @@ description: >-
   its processes, materials, benefits, trade-offs, and how to choose the right
   method for prototyping and low-volume production.
 category: Educational
-image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: industrial 3d
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

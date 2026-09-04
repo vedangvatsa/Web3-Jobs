@@ -1,6 +1,5 @@
 ---
 title: How AI is Changing Job Market
-image: 'https://picsum.photos/seed/ai-job-market/1200/630'
 data-ai-hint: robot human handshake
 description: >-
  Discover the real impact of artificial intelligence on jobs, which roles are

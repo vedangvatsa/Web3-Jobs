@@ -1,6 +1,5 @@
 ---
 title: Coworking Spaces vs Home Office
-image: 'https://picsum.photos/seed/coworking-home/1200/630'
 data-ai-hint: office desk laptop
 description: >-
  A comparison of working from a coworking space versus a home office.

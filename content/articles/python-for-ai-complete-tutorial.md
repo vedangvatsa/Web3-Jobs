@@ -1,6 +1,5 @@
 ---
 title: Python for AI Complete Tutorial
-image: 'https://picsum.photos/seed/python-ai/1200/630'
 data-ai-hint: snake code matrix
 description: >-
  A beginner's guide to using Python for AI and Machine Learning. Learn about

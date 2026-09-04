@@ -4,7 +4,6 @@ description: >-
  An introduction to Brain-Computer Interfaces (BCIs), exploring how they work,
  their life-changing applications in medicine, and their potential future uses.
 category: Educational
-image: 'https://picsum.photos/seed/bci/1200/630'
 data-ai-hint: brain interface
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

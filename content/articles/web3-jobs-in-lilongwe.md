@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Lilongwe: A Guide to Malawi''s Tech Frontier'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: lilongwe malawi city
 description: Discover Web3 and tech career opportunities in Lilongwe and Malawi.
 category: Career Guides

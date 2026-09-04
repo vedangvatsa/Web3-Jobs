@@ -4,7 +4,6 @@ description: >-
  A clear and simple guide to the constant product formula (x * y = k), the core
  mathematical engine that powers decentralized exchanges like Uniswap.
 category: Educational
-image: 'https://picsum.photos/seed/xyk/1200/630'
 data-ai-hint: constant product formula
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

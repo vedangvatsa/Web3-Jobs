@@ -1,6 +1,5 @@
 ---
 title: Generative Art and NFTs - How Code Becomes Collectible Art
-image: 'https://picsum.photos/seed/generative-art-nfts/1200/630'
 description: >-
   Learn what generative art is, how it works with NFTs, and why platforms like Art Blocks and fxhash changed collecting. Covers history, on-chain mechanics, key projects, trade-offs, and how to start.
 category: Educational

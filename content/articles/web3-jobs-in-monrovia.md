@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Monrovia: A Guide to Liberia''s Digital Frontier'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: monrovia liberia city
 description: >-
  A career guide to the emerging Web3 job market in Monrovia. Explore how

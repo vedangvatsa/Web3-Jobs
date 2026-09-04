@@ -4,7 +4,6 @@ description: >-
  Explore the Bitcoin Genesis Block - its technical significance, historical
  impact, and what it means for blockchain careers. A full guide for Web3
  professionals.
-image: 'https://picsum.photos/seed/bitcoin-genesis/1200/630'
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

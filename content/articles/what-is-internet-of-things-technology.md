@@ -1,6 +1,5 @@
 ---
 title: What is Internet of Things Technology
-image: 'https://picsum.photos/seed/iot/1200/630'
 description: >-
  An easy-to-understand guide to the Internet of Things (IoT), the network of
  connected devices that are changing our homes, cities, and industries.

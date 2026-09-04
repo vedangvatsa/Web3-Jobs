@@ -4,7 +4,6 @@ description: >-
  An exploration of haptic feedback technology, explaining how it uses the sense
  of touch to create more immersive and intuitive digital experiences.
 category: Educational
-image: 'https://picsum.photos/seed/haptic/1200/630'
 data-ai-hint: haptic touch
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

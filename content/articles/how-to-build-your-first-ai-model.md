@@ -1,6 +1,5 @@
 ---
 title: How to Build Your First AI Model
-image: 'https://picsum.photos/seed/ai-model/1200/630'
 data-ai-hint: robot building blocks
 description: >-
  A beginner's, step-by-step guide to building a simple but complete machine

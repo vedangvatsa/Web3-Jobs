@@ -277,89 +277,191 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // 4. Article template (Light Mode)
+    // 4. Article template (Split card style inspired by cvin.bio/blog)
     if (type === 'article') {
+      const displayTitle = title.length > 80 ? `${title.slice(0, 77)}...` : title;
+      const displayCategory = (category || 'Web3 & AI Insights').toUpperCase();
+
       return new ImageResponse(
         (
           <div
             style={{
-              ...baseContainerStyle,
-              flexDirection: 'column',
+              height: '100%',
+              width: '100%',
+              display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '40px',
+              backgroundColor: '#f4f4f5',
+              padding: '36px',
+              fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
           >
             <div
               style={{
-                ...baseCardStyle,
-                width: '1120px',
-                height: '550px',
-                padding: '48px 56px',
-                justifyContent: 'space-between',
+                display: 'flex',
+                width: '1128px',
+                height: '558px',
+                backgroundColor: '#ffffff',
+                borderRadius: '24px',
+                border: '1px solid #e4e4e7',
+                boxShadow: '0 20px 40px -15px rgba(0, 0, 0, 0.07)',
+                overflow: 'hidden',
               }}
             >
-              <div style={{ display: 'flex', flexDirection: 'column', gap: '20px', width: '100%' }}>
-                {category && (
-                  <div
-                    style={{
-                      display: 'flex',
-                      alignSelf: 'flex-start',
-                      padding: '8px 20px',
-                      backgroundColor: '#f0f9ff',
-                      border: '1px solid #bae6fd',
-                      borderRadius: '999px',
-                      fontSize: '18px',
-                      color: '#0284c7',
-                      fontWeight: '700',
-                      letterSpacing: '0.5px',
-                    }}
-                  >
-                    {category}
-                  </div>
-                )}
-                <div
-                  style={{
-                    display: 'flex',
-                    fontSize: title.length > 55 ? '44px' : '52px',
-                    fontWeight: '800',
-                    color: '#0f172a',
-                    lineHeight: '1.2',
-                    maxWidth: '1020px',
-                    letterSpacing: '-1px',
-                  }}
-                >
-                  {title}
-                </div>
-              </div>
-
+              {/* Left Column - 58% Width: Category, Title, Footer */}
               <div
                 style={{
                   display: 'flex',
-                  alignItems: 'center',
+                  flexDirection: 'column',
                   justifyContent: 'space-between',
-                  width: '100%',
-                  borderTop: '1px solid #f1f5f9',
-                  paddingTop: '20px',
+                  width: '58%',
+                  padding: '52px 48px',
                 }}
               >
-                <div
-                  style={{
-                    fontSize: '22px',
-                    fontWeight: '800',
-                    color: '#0284c7',
-                  }}
-                >
-                  HashtagWeb3.com
+                <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
+                  {/* Tag Header */}
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '10px',
+                    }}
+                  >
+                    <div
+                      style={{
+                        display: 'flex',
+                        padding: '6px 14px',
+                        backgroundColor: '#f1f5f9',
+                        borderRadius: '6px',
+                        fontSize: '13px',
+                        fontWeight: '700',
+                        color: '#475569',
+                        letterSpacing: '0.8px',
+                      }}
+                    >
+                      {displayCategory}
+                    </div>
+                  </div>
+
+                  {/* Main Article Title */}
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: displayTitle.length > 60 ? '38px' : displayTitle.length > 40 ? '44px' : '50px',
+                      fontWeight: '800',
+                      color: '#0f172a',
+                      lineHeight: '1.18',
+                      letterSpacing: '-1.5px',
+                    }}
+                  >
+                    {displayTitle}
+                  </div>
                 </div>
+
+                {/* Footer Brand Watermark */}
                 <div
                   style={{
-                    fontSize: '18px',
-                    fontWeight: '500',
-                    color: '#94a3b8',
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    borderTop: '1px solid #f1f5f9',
+                    paddingTop: '20px',
                   }}
                 >
-                  {date}
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px',
+                    }}
+                  >
+                    <div
+                      style={{
+                        width: '10px',
+                        height: '10px',
+                        borderRadius: '50%',
+                        backgroundColor: '#0284c7',
+                      }}
+                    />
+                    <div
+                      style={{
+                        fontSize: '18px',
+                        fontWeight: '700',
+                        color: '#0f172a',
+                        letterSpacing: '-0.3px',
+                      }}
+                    >
+                      hashtagweb3.com
+                    </div>
+                  </div>
+                  <div
+                    style={{
+                      fontSize: '15px',
+                      fontWeight: '500',
+                      color: '#94a3b8',
+                    }}
+                  >
+                    {date}
+                  </div>
+                </div>
+              </div>
+
+              {/* Right Column - 42% Width: Modern Sleek Abstract Tech Card */}
+              <div
+                style={{
+                  display: 'flex',
+                  flexDirection: 'column',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  width: '42%',
+                  height: '100%',
+                  backgroundColor: '#0f172a',
+                  backgroundImage:
+                    'radial-gradient(circle at 80% 20%, #0284c7 0%, transparent 45%), radial-gradient(circle at 20% 80%, #38bdf8 0%, transparent 40%), linear-gradient(135deg, #0f172a 0%, #1e293b 100%)',
+                  padding: '40px',
+                  position: 'relative',
+                }}
+              >
+                {/* Abstract Visual Geometry Overlay */}
+                <div
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    width: '260px',
+                    height: '260px',
+                    borderRadius: '28px',
+                    border: '1px solid rgba(255, 255, 255, 0.15)',
+                    backgroundColor: 'rgba(255, 255, 255, 0.05)',
+                    boxShadow: '0 20px 50px rgba(0, 0, 0, 0.3)',
+                    backdropFilter: 'blur(10px)',
+                    padding: '24px',
+                    textAlign: 'center',
+                  }}
+                >
+                  <div
+                    style={{
+                      fontSize: '42px',
+                      fontWeight: '900',
+                      color: '#ffffff',
+                      letterSpacing: '-1px',
+                      marginBottom: '8px',
+                    }}
+                  >
+                    #WEB3
+                  </div>
+                  <div
+                    style={{
+                      fontSize: '14px',
+                      fontWeight: '600',
+                      color: '#38bdf8',
+                      letterSpacing: '2px',
+                      textTransform: 'uppercase',
+                    }}
+                  >
+                    PLAYBOOK
+                  </div>
                 </div>
               </div>
             </div>
