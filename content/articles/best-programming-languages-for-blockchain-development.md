@@ -8,7 +8,7 @@ description: >-
   trade-offs, and how to start.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Blockchain work is not one job. Writing a DeFi pool, launching an NFT, running a validator client, and building a wallet frontend use different languages and different runtimes. Your choice depends on where your code will run: on the Ethereum Virtual Machine (EVM), on a Rust-based VM like Solana's, on Move VMs like Aptos and Sui, or off chain in a browser or data pipeline.
 

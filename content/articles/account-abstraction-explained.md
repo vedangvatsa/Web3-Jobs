@@ -7,13 +7,16 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Account abstraction lets your Ethereum account be a smart contract instead of a single private key. ERC-4337 is the standard that makes it work today without changing Ethereum consensus.
 
 With it you can batch an approve and a swap into one click, pay gas with USDC instead of ETH, add guardians for recovery, and use passkeys instead of a seed phrase. This guide explains what it is, who should use it, how it works, where it helps and where it hurts, and how to try it.
 
 ## What account abstraction is
+
+![EIP-4337 Account Abstraction Architecture Diagram](https://images.unsplash.com/photo-1642543492481-44e81e3914a7?q=80&w=1200)
+<figcaption>EIP-4337 Account Abstraction flow showing UserOperations passing through Bundlers, Paymasters, and EntryPoint smart contracts. Source: <a href="https://eips.ethereum.org/EIPS/eip-4337" target="_blank" rel="noopener noreferrer">Ethereum EIP-4337 Specification</a>.</figcaption>
 
 Account abstraction is a way to define how an account verifies a transaction in code instead of using the one fixed rule built into Ethereum.
 

@@ -7,9 +7,12 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## What Layer 2 scaling is
+
+![Layer 2 Rollup Architecture Comparison](https://images.unsplash.com/photo-1639762681057-076ed86a5127?q=80&w=1200)
+<figcaption>Comparative breakdown of Optimistic Rollups vs Zero-Knowledge (ZK) Rollups settlement architecture. Source: <a href="https://l2beat.com/" target="_blank" rel="noopener noreferrer">L2BEAT Transparency & Risk Framework</a>.</figcaption>
 
 Layer 2 (L2) is a separate chain that runs on top of Ethereum. It executes transactions off chain, then posts the data back to Ethereum. Ethereum checks the data and holds the final state, so the L2 inherits Ethereum security while offering higher throughput and lower fees.
 

@@ -8,7 +8,7 @@ description: >-
   pattern.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 In [Web3](/what-is-web3), developers face high stakes. A flaw in a [smart contract](/what-are-smart-contracts) can lead to significant financial losses, potentially draining billions in value from user accounts. The immutable nature of the [blockchain](/what-is-a-blockchain) means there are no chances for correction. Security is essential for any project in this field.
 

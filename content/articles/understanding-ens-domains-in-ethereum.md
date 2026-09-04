@@ -8,7 +8,7 @@ description: >-
   it's.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 In the Ethereum ecosystem, your identity is represented by your public wallet address. This address consists of a long string of hexadecimal characters, such as `0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`. While this format enhances security, it presents significant user experience challenges. These long strings are hard to remember, difficult to type, and prone to errors when executing transactions.
 

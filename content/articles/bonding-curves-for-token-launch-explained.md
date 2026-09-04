@@ -8,7 +8,7 @@ description: >-
   projects.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Launching a new cryptocurrency token involves a significant challenge: establishing a liquid and fair market from the outset. A bonding curve provides a solution by using a smart contract as an automated market maker.
 

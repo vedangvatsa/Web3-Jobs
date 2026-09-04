@@ -7,7 +7,7 @@ description: >-
   what it is, how it works, and the critical importance of keeping it secure.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 If you have ever set up a **[non-custodial crypto wallet](/what-is-a-custodial-vs-non-custodial-wallet)** such as MetaMask, you received a **seed phrase**. This phrase consists of 12 to 24 simple words that you must write down and protect. It is the most important piece of information you possess in the [Web3](/what-is-web3) ecosystem.
 

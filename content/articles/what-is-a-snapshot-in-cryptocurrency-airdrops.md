@@ -8,7 +8,7 @@ description: >-
   eligibility.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 In the [Web3](/what-is-web3) sector, the term **"snapshot"** holds significant importance. It denotes the process of capturing the complete state of a [blockchain](/what-is-a-blockchain) at a specific moment, marked by a particular block height. This recorded state serves as the authoritative reference for important events such as an **[airdrop](/understanding-airdrop-campaigns-in-web3)** or a governance vote.
 

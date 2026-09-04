@@ -8,7 +8,7 @@ category: Technology Deep Dives
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: decentralized storage network
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 
 Filecoin is a peer-to-peer network that pays independent storage providers to store your data and proves on chain that the data is still there. It adds an incentive and verification layer on top of IPFS content addressing, so you can keep data for months or years without trusting a single cloud company.

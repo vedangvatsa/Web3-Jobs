@@ -7,7 +7,7 @@ description: >-
   concepts of persistent virtual worlds, digital identity, and the player-owned.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The word metaverse gets used to mean many different things. In practice it points to the same idea: a set of shared, three dimensional virtual spaces where you show up as an avatar, keep your identity and items as you move, and transact in a working economy.
 

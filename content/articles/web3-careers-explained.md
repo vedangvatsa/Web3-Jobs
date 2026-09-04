@@ -7,7 +7,7 @@ description: >-
   the major job categories, from development and design to marketing.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The [Web3](/what-is-web3) industry extends beyond coding. As the decentralized internet evolves, it builds a active job market that requires various skills. While [blockchain](/what-is-a-blockchain) developers are highly sought after, opportunities also abound for marketers who cultivate communities, product managers who design user-friendly decentralized applications (dApps), and operations specialists who manage decentralized organizations.
 

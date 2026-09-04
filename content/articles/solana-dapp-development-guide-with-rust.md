@@ -6,7 +6,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain code
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## Solana dApp Development Guide with Rust and Anchor
 

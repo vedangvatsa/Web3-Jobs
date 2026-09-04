@@ -8,7 +8,7 @@ description: >-
   This guide explains the Transparent Proxy Pattern, the industry standard for.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 One of the defining characteristics of a [smart contract](/what-are-smart-contracts) is its immutability. Once it is deployed on the [blockchain](/what-is-a-blockchain), its code remains unchanged. This feature enhances security and builds trust, but it also poses significant challenges. What happens when you identify a bug or wish to introduce new features?
 

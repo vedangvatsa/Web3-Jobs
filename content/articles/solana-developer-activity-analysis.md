@@ -6,9 +6,12 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain analytics
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## Solana Developer Activity: An On-Chain Analysis
+
+![Solana Sealevel Parallel Execution Engine Architecture](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200)
+<figcaption>Solana Sealevel parallel transaction execution runtime diagram. Source: <a href="https://docs.solana.com/" target="_blank" rel="noopener noreferrer">Solana Core Developer Documentation</a>.</figcaption>
 
 Developer activity serves as an important metric for evaluating the long-term viability and growth potential of Layer 1 blockchain ecosystems. A strong developer community signals future innovation, expanded application development, and increased user adoption. Solana, recognized for its high throughput and low transaction costs, has garnered considerable interest from developers. This analysis examines on-chain data and developer metrics to provide insight into Solana's developer ecosystem and the trends that shape its trajectory.
 

@@ -8,7 +8,7 @@ description: >-
   ICOs.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 An **Initial Coin Offering (ICO)** serves as a fundraising mechanism for emerging cryptocurrency projects. It parallels an Initial Public Offering (IPO) in the stock market. During an ICO, a project creates a new cryptocurrency [token](/what-is-a-token) and sells it to early investors. This process generates the necessary capital for development, marketing, and operational expenses.
 

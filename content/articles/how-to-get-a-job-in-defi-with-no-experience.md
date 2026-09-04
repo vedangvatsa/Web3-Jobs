@@ -7,7 +7,7 @@ description: >-
   how to build the necessary skills and a 'proof of work' portfolio to land a.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Decentralized Finance ([DeFi](/what-is-defi)) serves as a fundamental component of [Web3](/what-is-web3). This sector seeks to reconstruct the financial system on open blockchains. However, newcomers often find the entry barriers daunting. Job descriptions frequently contain specialized terms such as "impermanent loss," "MEV," and "[yield farming](/what-is-yield-farming)." For those without prior "crypto" experience, breaking into this field may seem impossible.
 

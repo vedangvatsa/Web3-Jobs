@@ -7,7 +7,7 @@ description: >-
   agents interact, collaborate, and compete to solve complex problems.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Multi-Agent Systems (MAS) represent an important advancement in artificial intelligence. Rather than relying solely on single, monolithic AI models, MAS comprises a group of autonomous, intelligent agents that work collaboratively within a shared environment. These agents can negotiate, cooperate, and compete to address complex problems that are often beyond the capabilities of individual AI systems.
 
