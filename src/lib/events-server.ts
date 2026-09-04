@@ -153,16 +153,12 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   const events = await getEvents();
   const normalized = slug.toLowerCase().trim();
 
-  // Try exact slug match
+  // 1. Try exact slug match
   let found = events.find(e => getEventSlug(e) === normalized);
   if (found) return found;
 
-  // Try ID match
-  found = events.find(e => e.id.toLowerCase() === normalized || e.id.replace(/^premier-/, '').toLowerCase() === normalized);
-  if (found) return found;
-
-  // Fallback: prefix match
-  found = events.find(e => getEventSlug(e).startsWith(normalized) || normalized.startsWith(getEventSlug(e)));
+  // 2. Try exact ID match
+  found = events.find(e => e.id.toLowerCase() === normalized || e.id.replace(/^(premier|side)-/, '').toLowerCase() === normalized);
   return found || null;
 }
 
