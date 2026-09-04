@@ -46,7 +46,7 @@ Strongly valued:
 Location and Working Style:
 We have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.`,
     skills: ['Quant Trading', 'Python', 'Rust', 'DeFi', 'Market Making', 'Crypto', 'High-Frequency Trading'],
-    slug: 'trader'
+    slug: 'trader297472'
   },
   {
     id: 'kappa-lab-bd-manager-292292',
@@ -87,7 +87,7 @@ Qualifications:
 Location & Working Style:
 We have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.`,
     skills: ['Business Development', 'DeFi', 'Market Making', 'Partnerships', 'Crypto', 'Web3'],
-    slug: 'bd'
+    slug: 'bd292292'
   }
 ];
 
