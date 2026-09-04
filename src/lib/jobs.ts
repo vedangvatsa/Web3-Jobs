@@ -81,19 +81,19 @@ export async function getJobs(): Promise<Job[]> {
   const web3Jobs = jobs.filter(job => {
    if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
    const titleLower = job.title.toLowerCase();
-   
-   // Filter out common ATS placeholder/test job titles
-   if (
-    titleLower.includes('default template') || 
-    titleLower.includes('new job template') ||
-    titleLower.includes('test job') ||
-    titleLower.includes('(sample)') ||
-    titleLower === 'test' ||
-    titleLower === 'testextrenal' ||
-    titleLower === '[template] default template'
-   ) {
-    return false;
-   }
+      // Filter out common ATS placeholder/test job titles and general applications
+    if (
+     titleLower.includes('default template') || 
+     titleLower.includes('new job template') ||
+     titleLower.includes('test job') ||
+     titleLower.includes('(sample)') ||
+     titleLower === 'test' ||
+     titleLower === 'testextrenal' ||
+     titleLower === '[template] default template' ||
+     /general application|spontaneous application|open application|future opportunities|talent pool|general interest/i.test(titleLower)
+    ) {
+     return false;
+    }
    
     return true;
    });
