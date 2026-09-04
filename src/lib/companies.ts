@@ -115,6 +115,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'bitgo': 'https://bitgo.com',
  'fireblocks': 'https://fireblocks.com',
  'coindcx': 'https://coindcx.com',
+ 'kalshi': 'https://kalshi.com',
  'cyber': 'https://cyber.co',
  'aztec-labs-privacy-l2': 'https://aztec.network',
  'aztec-labs': 'https://aztec.network',
