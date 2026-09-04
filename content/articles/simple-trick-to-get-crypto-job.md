@@ -9,7 +9,7 @@ description: >-
   value before you ask for it. This guide explains the single most effective.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The [Web3](/what-is-web3) job market is highly competitive, with thousands of skilled professionals competing for a limited number of positions at leading protocols and companies. You may have refined your [resume](/how-to-build-a-web3-resume-that-stands-out), created an impressive [portfolio](/building-web3-portfolio), and submitted countless applications, yet you find yourself overlooked. What can you do to distinguish yourself?
 

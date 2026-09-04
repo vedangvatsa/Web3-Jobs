@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: digital eye
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Computer vision is a critical area of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) that enables computers to interpret and understand the visual world. By using digital images from cameras and videos, deep learning models can identify and classify objects with impressive accuracy. This technology equips machines with a form of sight, allowing them to analyze visual data similarly to how humans do.
 

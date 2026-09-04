@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: autonomous car
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Self-driving cars, also known as autonomous vehicles, have transitioned from a futuristic concept to tangible innovations that are reshaping transportation. These vehicles operate without human intervention, relying on complex technology to manage and interact with their environment.
 

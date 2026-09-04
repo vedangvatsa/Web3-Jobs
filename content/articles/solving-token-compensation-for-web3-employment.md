@@ -7,7 +7,7 @@ description: >-
   vesting schedules, cliffs, and how to use tokens to align incentives for your.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 One of the most important innovations of [Web3](/what-is-web3) is the ability to provide team members and contributors with direct ownership in the networks they help build. This ownership comes through **[token](/what-is-a-token)-based compensation**, which often represents a substantial portion of a Web3 professional's earnings. Instead of merely receiving a salary and possibly some equity in a centralized company, team members can receive native tokens as part of their compensation package.
 

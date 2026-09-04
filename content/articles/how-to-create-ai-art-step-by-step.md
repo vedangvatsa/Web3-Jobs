@@ -6,7 +6,7 @@ description: >-
   text-to-image models work and the simple steps to create stunning images with.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Creating art with artificial intelligence has evolved into a mainstream activity, accessible to anyone interested in experimenting with visual creativity. With tools like Midjourney, you can transform a simple text description into a unique image without needing advanced artistic skills or programming knowledge. All you need is an idea and a desire to explore.
 

@@ -8,11 +8,14 @@ description: >-
   surveys, and apply a step-by-step check for location, level, and vesting.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Web3 pay is not a single number. A senior Solidity offer can be $150,000 base plus $120,000 in tokens that vest over four years, while another at the same level is $220,000 base with no tokens. If you compare only base salary, you will misread both offers. This guide shows how to benchmark correctly, what verified data says in 2026, and how to apply it.
 
 ### What this guide is
+
+![Web3 Compensation Structure Breakdown](https://images.unsplash.com/photo-1559526324-4b87b5e36e44?q=80&w=1200)
+<figcaption>Web3 compensation distribution across Base Salary, Token Options (FDV), and Staking Bonuses. Source: <a href="https://hashtagweb3.com/salary-calculator" target="_blank" rel="noopener noreferrer">Hashtag Web3 Salary Intelligence Engine</a>.</figcaption>
 
 Compensation benchmarking is the process of pricing a role against market data for the same work, level, and location. In Web3 you price five parts: base salary, annual bonus, token grant, equity if the company has a corporate entity, and benefits or stipends. The goal is to know the market range, then see where your offer sits within it. The U.S. Bureau of Labor Statistics (BLS) puts the national median for software developers at $133,080 in May 2024, with a 15 percent growth projection to 2034. That is base wage across all employers. Levels.fyi reports median total compensation of $192,000 for software engineers at large tech firms, because it counts base plus bonus plus annualized stock. Both are correct. They measure different things. Benchmarking means picking the right source for the question you are asking and comparing like to like.
 

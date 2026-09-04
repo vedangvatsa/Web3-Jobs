@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: uncle blocks
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## Understanding Uncle Blocks in Ethereum
 

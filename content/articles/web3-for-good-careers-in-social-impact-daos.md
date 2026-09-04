@@ -8,7 +8,7 @@ description: >-
   and impact-focused protocols.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 While discussions about [Web3](/what-is-web3) often emphasize finance and [NFTs](/what-are-nfts), a significant movement is emerging that focuses on using [blockchain](/what-is-a-blockchain) technology for social good. This movement involves funding public goods and supporting positive social impact through initiatives known as **Public Goods DAOs**.
 

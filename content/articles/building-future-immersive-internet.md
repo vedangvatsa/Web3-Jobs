@@ -10,7 +10,7 @@ image: 'https://images.unsplash.com/photo-1626379616459-b2ce1d9decbc?q=80&w=1080
 imageAlt: Person using a mixed reality headset with spatial browser windows
 data-ai-hint: immersive internet spatial computing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The immersive internet is the web rendered in space. Instead of flat pages, you get 3D scenes you can look around, walk through, and interact with using hands, controllers, or gaze and pinch.
 

@@ -7,13 +7,16 @@ description: >-
 category: Industry Insights
 data-ai-hint: internet technology
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Web3 represents a fundamental shift in how the internet works and who controls it. If you've heard the term but weren't sure what it actually means, you're not alone. The concept gets thrown around in conversations about cryptocurrency and [blockchain](/what-is-a-blockchain), often wrapped in hype that obscures the actual technology underneath.
 
 Here's the core idea: today's internet (Web2) is built around centralized companies that own and control platforms. Google owns your search history. Facebook owns your social network. Amazon owns your shopping data. These companies extract value from your activity while controlling what you can and can't do on their platforms. Web3 proposes a different model where users have more direct ownership and control.
 
 ## The Evolution of the Internet: Web1, Web2, Web3
+
+![Web1 vs Web2 vs Web3 Architectural model Shift](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?q=80&w=1200)
+<figcaption>Evolution of the web: Web1 (Read) to Web2 (Read-Write) to Web3 (Read-Write-Own). Source: <a href="https://ethereum.org/en/web3/" target="_blank" rel="noopener noreferrer">Ethereum Foundation Web3 Overview</a>.</figcaption>
 
 To understand Web3, it helps to think about how the internet has evolved through distinct phases. Each phase represents fundamental shifts in how information flows and who controls it.
 
