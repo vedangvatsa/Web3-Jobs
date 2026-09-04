@@ -38,6 +38,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'liminal-custody': 'liminal-custody',
   'microstrategy': 'strategy',
   'strategy': 'strategy',
+  'pricewaterhousecoopers': 'pwc',
+  'pwc': 'pwc',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {

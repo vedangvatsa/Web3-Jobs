@@ -24,7 +24,7 @@ const ATS_HOSTNAMES = new Set([
  'www.comeet.com', 'wellfound.com',
  'in.linkedin.com', 'sg.linkedin.com', 'il.linkedin.com',
  'de.linkedin.com', 'my.linkedin.com', 'eg.linkedin.com',
- 'careers.tangem.com',
+ 'careers.tangem.com', 'jobs-us.pwc.com',
 ]);
 
 const ATS_HOSTNAME_SUFFIXES = [
@@ -267,6 +267,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'liminal-custody-tech': 'https://www.liminalcustody.com',
  'strategy': 'https://www.strategy.com',
  'microstrategy': 'https://www.strategy.com',
+ 'pwc': 'https://www.pwc.com',
+ 'pricewaterhousecoopers': 'https://www.pwc.com',
  'artemis': 'https://artemis.xyz',
  'safe': 'https://safe.global',
  'apex': 'https://apex.exchange',
@@ -584,6 +586,9 @@ function normalizeCompanyName(name: string): string {
   if (lower === 'strategy' || lower === 'microstrategy' || lower.includes('microstrategy')) {
     return 'strategy';
   }
+  if (lower === 'pwc' || lower.includes('pricewaterhousecoopers') || lower.startsWith('pwc ')) {
+    return 'pwc';
+  }
   return name
    .toLowerCase()
    .replace(/\s+inc\.?$/i, '')
@@ -611,7 +616,7 @@ export async function getCompanies(): Promise<Company[]> {
   
   // Use the first occurrence as the canonical name
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : (normalized === 'wynd-labs' ? 'Wynd Labs' : (normalized === 'helius' ? 'Helius' : (normalized === 'liminal' ? 'Liminal Custody' : (normalized === 'strategy' ? 'Strategy' : companyName))))));
+   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : (normalized === 'wynd-labs' ? 'Wynd Labs' : (normalized === 'helius' ? 'Helius' : (normalized === 'liminal' ? 'Liminal Custody' : (normalized === 'strategy' ? 'Strategy' : (normalized === 'pwc' ? 'PwC' : companyName)))))));
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
@@ -690,14 +695,14 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const normalized = normalizeCompanyName(companyName);
   
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : (normalized === 'wynd-labs' ? 'Wynd Labs' : (normalized === 'helius' ? 'Helius' : (normalized === 'liminal' ? 'Liminal Custody' : (normalized === 'strategy' ? 'Strategy' : companyName))))));
+   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : (normalized === 'wynd-labs' ? 'Wynd Labs' : (normalized === 'helius' ? 'Helius' : (normalized === 'liminal' ? 'Liminal Custody' : (normalized === 'strategy' ? 'Strategy' : (normalized === 'pwc' ? 'PwC' : companyName)))))));
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
   
   const canonicalName = nameMap.get(normalized)!;
   companyMap.get(canonicalName)!.push(job);
-    if (createSlug(canonicalName) === slug || (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') || (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') || (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic') || (['wynd-labs', 'wynd-network', 'grass-wynd-labs-depin'].includes(slug) && canonicalName === 'Wynd Labs') || (['helius', 'helius-solana-infra'].includes(slug) && canonicalName === 'Helius') || (['liminal', 'liminal-custody', 'liminal-custody-tech'].includes(slug) && canonicalName === 'Liminal Custody') || (['strategy', 'microstrategy'].includes(slug) && canonicalName === 'Strategy')) {
+    if (createSlug(canonicalName) === slug || (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') || (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') || (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic') || (['wynd-labs', 'wynd-network', 'grass-wynd-labs-depin'].includes(slug) && canonicalName === 'Wynd Labs') || (['helius', 'helius-solana-infra'].includes(slug) && canonicalName === 'Helius') || (['liminal', 'liminal-custody', 'liminal-custody-tech'].includes(slug) && canonicalName === 'Liminal Custody') || (['strategy', 'microstrategy'].includes(slug) && canonicalName === 'Strategy') || (['pwc', 'pricewaterhousecoopers'].includes(slug) && canonicalName === 'PwC')) {
     targetCanonicalName = canonicalName;
    }
  });
