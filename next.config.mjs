@@ -198,8 +198,12 @@ const nextConfig = {
         hostname: 'i.picsum.photos',
       },
       {
-          protocol: 'https',
-          hostname: 's.w.org',
+        protocol: 'https',
+        hostname: 's.w.org',
+      },
+      {
+        protocol: 'https',
+        hostname: 'hashtagweb3.com',
       }
     ],
     deviceSizes: [640, 750, 828, 1080, 1200, 1920],
