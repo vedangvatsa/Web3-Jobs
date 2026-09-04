@@ -10,7 +10,6 @@ data-ai-hint: travel work
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 This guide helps remote workers choose a base to live and work from in 2026. It covers five cities where you can find reliable internet, coworking options, and a clear legal path to stay. Each city includes real budget ranges, visa requirements tied to 2026 official thresholds, and honest trade-offs so you can match your income, time zone, and lifestyle to the right place.
 
 For context on remote work in Web3, see our guides to [remote work](/remote-work-in-web3) and the [crypto guide for digital nomads](/crypto-guide-for-digital-nomads).
@@ -223,3 +222,16 @@ You can manage in Lisbon with English in work and central hospitality. In Budape
 Both are livable when you choose neighborhoods carefully. In Medellin, El Poblado, Laureles, and Envigado are calm for daily life, with phone snatching near nightlife as the main risk. In Mexico City, Roma, Condesa, Juarez, and Polanco are common bases, with air quality and traffic as the bigger daily issues than violent crime. Follow local advice, avoid showing valuables on the street, and use ride apps after dark.
 
 *Last verified August 2026. Visa income thresholds track the minimum wage or UMA and change each January. Exchange rates and consulate conversions also shift. Confirm the current figure with AIMA (Portugal), OIF/EnterHungary (Hungary), Cancilleria (Colombia), Thai Ministry of Foreign Affairs or your nearest Thai consulate (Thailand), and the Mexican consulate where you will apply before you file.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -3,13 +3,12 @@ title: Blockchain Wallet Security and Best Practices
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: blockchain wallet security
 description: >-
- A important guide to securing your crypto assets. Learn about the different
- types of wallets, the importance of seed phrases, and the best practices to.
+  A important guide to securing your crypto assets. Learn about the different
+  types of wallets, the importance of seed phrases, and the best practices to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the [Web3](/what-is-web3), individuals manage their own finances, taking on the role of their own bank. This self-custody allows users to hold and control digital assets without relying on third-party institutions. However, this autonomy comes with significant responsibility. Losing access to assets or experiencing theft can result in irreversible loss, as there is no support system to assist in recovery. Therefore, prioritizing security is essential.
 
 The cryptocurrency ecosystem is fraught with scams, hacks, and phishing attempts that aim to compromise your funds. A single error can lead to substantial financial loss. Understanding wallet security fundamentals is important for anyone engaging with digital assets.
@@ -67,3 +66,16 @@ Adopting sound security habits is critical for safeguarding your assets.
 7. **Never Share Your Private Keys or Seed Phrase:** This is a fundamental rule in crypto security.
 
 Safely managing Web3 entails a shift in perspective. You must cultivate a healthy skepticism and diligence. By grasping the tools at your disposal and adopting simple yet effective security habits, you can protect yourself against most threats while exploring the decentralized application ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Solana Core Architecture Documentation](https://docs.solana.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -10,7 +10,6 @@ data-ai-hint: interview prep
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 interviews test two things at once: do you understand decentralized systems, and can you apply that understanding to a real role. A hiring manager will check if you can explain the tech in plain language and also do the job you were hired for, whether that is writing Solidity, growing a community, or closing a partnership.
 
 This guide gives you the questions that actually get asked, what a strong answer includes, and where people lose points. Use it to build specific stories and examples before you walk into the room.
@@ -275,3 +274,16 @@ Yes. Focus on one or two questions per day and apply them to your current work. 
 
 **What resources help me go deeper?**
 For concepts, start with ethereum.org for consensus and MEV, and the Learn track for [how blockchains work](/learn/fundamentals/blockchains) and [smart contracts](/learn/fundamentals/smart-contracts). For developer depth, use the Solidity docs, OpenZeppelin contracts, Foundry book, Slither docs by Trail of Bits, and the OWASP Smart Contract Top 10. For system design, study how rollups, bridges, and oracles connect, and try to diagram a full flow from wallet to Layer 2 to settlement.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

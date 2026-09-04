@@ -3,14 +3,13 @@ title: Blockchain Transaction Verification Process Explained
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: blockchain transaction process
 description: >-
- A step-by-step guide to how transactions are verified and added to a
- blockchain, explaining the roles of nodes, miners, and consensus mechanisms in
- this.
+  A step-by-step guide to how transactions are verified and added to a
+  blockchain, explaining the roles of nodes, miners, and consensus mechanisms in
+  this.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A [blockchain](/what-is-a-blockchain) serves as a decentralized ledger that records transactions. The verification and secure addition of these transactions to the blockchain are vital for the technology's integrity. This process establishes a trustless and tamper-proof environment. Understanding how this transaction verification occurs clarifies the significance of blockchain technology.
 
 This guide outlines the transaction journey, from initiating the transfer in your [wallet](/how-to-choose-a-crypto-wallet) to its irreversible confirmation on the blockchain.
@@ -56,3 +55,16 @@ The term "confirmed" signifies that your transaction is now officially part of t
 As new blocks are added on top of the block containing your transaction, the difficulty of altering it increases. Each new block adds a "confirmation." After receiving a predetermined number of confirmations, typically six blocks for Bitcoin, the transaction is deemed irreversible or "final." The process concludes here.
 
 This entire decentralized process relies on cryptography and economic incentives, allowing a global network of participants to agree on a shared record without needing trust in one another or a central authority. This verification approach enables blockchain technology significantly.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

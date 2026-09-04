@@ -3,13 +3,13 @@ title: Top 10 Skills for Web3 Developer Roles
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: essential skills list
 description: >-
- A ten-part Web3 engineering checklist covering Solidity, security, testing,
- gas, frontend integration, L2s, DevOps, indexing, systems code, and communication.
+  A ten-part Web3 engineering checklist covering Solidity, security, testing,
+  gas, frontend integration, L2s, DevOps, indexing, systems code, and
+  communication.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Web3](/what-is-web3) developer job market is highly competitive, with a growing demand for skilled engineers. To secure a top salary and stand out, you need a specialized skill set that exceeds basic programming knowledge. Companies search for engineers proficient in core technologies, with a strong focus on security and an understanding of the decentralized ecosystem.
 
 This article outlines the ten most in-demand skills that hiring managers and technical recruiters prioritize when seeking Web3 developers. Mastering these skills will position you as a desirable candidate.
@@ -85,3 +85,16 @@ Effective written communication is an important soft skill in Web3. Many teams o
 - **How to learn:** Contribute to an open-source project. This experience will enhance your remote collaboration and communication skills.
 
 By systematically developing expertise in these ten areas, you can transition from being a "coder" to a proficient Web3 engineer, capable of creating secure, efficient, and scalable applications that will drive the future of the internet.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Slither Static Analyzer Repository by Trail of Bits](https://github.com/crytic/slither)

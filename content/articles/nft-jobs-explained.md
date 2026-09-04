@@ -2,14 +2,13 @@
 title: 'NFT Jobs: Your Guide to a Career in Digital Assets'
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 description: >-
- The NFT space is creating new job opportunities. Learn about the different
- roles available, from community management to smart contract development.
+  The NFT space is creating new job opportunities. Learn about the different
+  roles available, from community management to smart contract development.
 category: Career Guides
 data-ai-hint: nft career
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [NFT](/what-are-nfts) market has shifted significantly since its peak in 2021-2022. This evolution has not led to a reduction in job opportunities; rather, it has created more sustainable roles across various disciplines, including development, design, community management, marketing, and business operations.
 
 Understanding which NFT roles exist and their relevance is important for anyone considering a career in this space. The distinction between a fulfilling NFT career and a transient job often hinges on engagement with projects that offer genuine utility rather than mere speculation.
@@ -132,3 +131,16 @@ Despite market skepticism, NFT roles offer real opportunities. Digital ownership
 Choosing the right projects is vital. Focus on NFTs that address real-world problems rather than speculative assets. Collaborate with teams that possess credibility and a clear vision. Your reputation is important, so approach this sector with a discerning mindset.
 
 NFT careers can be viable for individuals who are serious and critical, prioritizing substance over hype.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+3. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

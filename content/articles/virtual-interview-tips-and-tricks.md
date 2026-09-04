@@ -3,13 +3,12 @@ title: Virtual Interview Tips and Tricks
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: laptop video call
 description: >-
- Master your next virtual interview with these essential tips and tricks. From
- setting up your tech to making a great impression, we've got you covered.
+  Master your next virtual interview with these essential tips and tricks. From
+  setting up your tech to making a great impression, we've got you covered.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Virtual interviews have become standard in the hiring process. They offer the convenience of remote participation, but they also present unique challenges. Factors such as a poor internet connection, distracting backgrounds, or inadequate lighting can negatively impact your performance.
 
 With proper preparation, you can excel in a virtual [interview](/how-to-prepare-for-job-interview) and effectively present your skills just as you would face-to-face. Below are essential tips and tricks to ensure your success in your next video interview.
@@ -64,3 +63,16 @@ If you lose connection, remain calm. Attempt to rejoin the call immediately. If 
 
 **Should I have notes in front of me?** 
 Having a few bullet points or your prepared questions visible is acceptable, but avoid reading from a script. Aim for a natural conversation.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

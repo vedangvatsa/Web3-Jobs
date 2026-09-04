@@ -6,7 +6,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Lilongwe, the capital of Malawi, is on the cusp of a significant journey within the Web3 sector. In a country where agriculture underpins the economy and financial inclusion poses significant challenges, decentralized technologies offer a promising avenue for meaningful change. Though the local Web3 ecosystem remains small and developing, a dedicated community of young innovators, developers, and entrepreneurs is emerging. They see [blockchain](/what-is-a-blockchain) as an important tool for driving social and economic progress.
 
 The growing Web3 market in Lilongwe emphasizes real-world applications, particularly in AgriTech (agricultural technology) and mobile-first FinTech solutions. For professionals in Malawi, Web3 presents an opportunity to pioneer initiatives that directly address pressing national issues. This guide offers a detailed overview of the [Web3 career](/web3-jobs-for-beginners) market in Lilongwe, highlighting potential growth sectors and the necessary skills to engage in this evolving industry.
@@ -179,3 +178,16 @@ JavaScript and Solidity are both essential. JavaScript opens doors to more job o
 
 **Should I co-found a startup or seek employment first?**
 It is advisable to gain employment or freelance experience initially. This provides income, skills, and networking opportunities before launching your own venture.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

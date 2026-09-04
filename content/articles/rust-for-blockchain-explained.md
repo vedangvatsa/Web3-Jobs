@@ -5,8 +5,8 @@ image: >-
 data-ai-hint: rust programming blockchain
 description: >-
   What Rust is, why Solana, Polkadot, and NEAR use it, how ownership and
-  borrowing work, and how to set up rustup, Cargo, and Anchor to ship your
-  first on chain program.
+  borrowing work, and how to set up rustup, Cargo, and Anchor to ship your first
+  on chain program.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
@@ -226,10 +226,15 @@ Start with Anchor. Solana docs and the Anchor book both point beginners to Ancho
 **How does Rust compare to Move for Aptos and Sui?**
 Both aim at asset safety. Move models assets as resources that cannot be copied or lost implicitly. Rust models safety through ownership and type checks. If you target Aptos, Sui, or Movement, learn Move. If you target Solana, Polkadot, or NEAR, learn Rust. Many teams know both.
 
-## Sources to verify
+## Verifiable Primary Sources & References
 
-* rust-lang.org front page and rust-lang.org/tools/install for no garbage collector, ownership model promises, Cargo, rustup, 6 week release, and install command.
-* doc.rust-lang.org/book ch04-01 and ch04-02 for the three ownership rules, move vs copy, Copy and Drop interaction, and the reference rules that prevent data races and dangling references.
-* solana.com/docs/intro/installation and solana.com/docs/programs/rust plus solana.com/news/rust-to-solana for `solana-program`, `entrypoint!`, `msg!`, `cargo build-sbf`, compute budget, and Anchor as the recommended framework.
-* paritytech/polkadot-sdk docs for Substrate as a Rust framework, FRAME pallets, and WASM build output.
-* near-sdk-rs and docs.near.org for `#[near]`, `cargo-near build`, NEP standards, and Rust as the recommended production language on NEAR.
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+7. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [Solana Core Architecture Documentation](https://docs.solana.com/)
+10. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)

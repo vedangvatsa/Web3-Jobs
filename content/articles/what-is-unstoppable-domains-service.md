@@ -3,13 +3,12 @@ title: What is Unstoppable Domains Service
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: domain name
 description: >-
- Unstoppable Domains is a service that provides NFT-based domain names for the
- decentralized web. This guide explains how it works, its features, and how.
+  Unstoppable Domains is a service that provides NFT-based domain names for the
+  decentralized web. This guide explains how it works, its features, and how.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 **Unstoppable Domains** provides blockchain-based domain names designed for the decentralized web. This service aims to replace long, complex cryptocurrency wallet addresses with human-readable alternatives. Unlike the Ethereum Name Service (ENS), which primarily offers `.eth` domains, Unstoppable Domains supports a broader selection of domain endings, including `.crypto`, `.x`, `.wallet`, `.nft`, and `.blockchain`. These domains operate outside the traditional Domain Name System (DNS) and are registered as **[NFTs](/what-are-nfts)** on a public blockchain, typically Polygon.
 
 ### Key Features of Unstoppable Domains
@@ -44,3 +43,16 @@ Services like Unstoppable Domains and ENS are important for enhancing the Web3 u
 ## Importance of Understanding Unstoppable Domains
 
 Grasping the functionality and impact of Unstoppable Domains is essential for professional development in the Web3 sector. As organizations increasingly rely on decentralized solutions, professionals who can effectively use these services will stand out. Mastering this skill can lead to enhanced career opportunities within Web3 companies, where efficient communication and collaboration are critical.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

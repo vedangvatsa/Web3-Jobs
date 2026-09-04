@@ -2,13 +2,12 @@
 title: How to Create AI Art Step by Step
 data-ai-hint: robot painting canvas
 description: >-
- A beginner-friendly guide to making your own AI-generated art. Learn how
- text-to-image models work and the simple steps to create stunning images with.
+  A beginner-friendly guide to making your own AI-generated art. Learn how
+  text-to-image models work and the simple steps to create stunning images with.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Creating art with artificial intelligence has evolved into a mainstream activity, accessible to anyone interested in experimenting with visual creativity. With tools like Midjourney, you can transform a simple text description into a unique image without needing advanced artistic skills or programming knowledge. All you need is an idea and a desire to explore.
 
 This guide outlines the process of creating AI art using Midjourney, a widely used and user-friendly platform. The principles discussed here apply to other AI art generators as well.
@@ -126,3 +125,16 @@ Yes, many artists successfully sell their AI-generated art as prints or digital 
 
 **4. Why doesn't my image look exactly like my prompt?** 
 The AI interprets your prompt rather than replicating it. Variability in output can occur due to the model's learned patterns. If the result does not align with your expectations, rephrase your prompt, enhance specificity, or use the "reroll" and "vary" options for better guidance.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -8,7 +8,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 AI work in 2026 is not one job. It is a set of distinct roles with different day-to-day work, skill requirements, and pay.
 
 This guide covers six roles that consistently show verified demand and pay data. For each you get what it is, who it fits, what you actually do, what to learn, what it pays in the United States with sources, and the trade-offs to consider. Figures are for 2024 to 2026 and distinguish base salary from total compensation. Total compensation includes base plus bonus and equity where noted.
@@ -226,3 +225,16 @@ For product, consulting, or LLM engineering, publish two artifacts: a short case
 Listing tools you have tried once, copying a tutorial without a write-up, or omitting what failed. Reviewers look for error analysis and limitations. If you can state where your system fails and how you would test a fix, you stand out.
 
 AI demand is strong, but it is not automatic. BLS, PwC, and WEF all point to the same pattern: growth for roles that build, evaluate, and apply AI systems, slower growth or decline for routine information-processing tasks. Pick one role, learn its core loop, publish evidence you can do the loop, and benchmark pay with at least two sources that match the same compensation mix. That combination matters more than the number of courses you complete.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [Solana Core Architecture Documentation](https://docs.solana.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

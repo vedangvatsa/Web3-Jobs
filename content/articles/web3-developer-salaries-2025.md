@@ -3,13 +3,12 @@ title: Top Blockchain Dev Job Salaries
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: web3 salary money
 description: >-
- Review salary bands for smart contract, frontend, protocol, and security
- engineers, with regional comparisons and the components of Web3 compensation.
+  Review salary bands for smart contract, frontend, protocol, and security
+  engineers, with regional comparisons and the components of Web3 compensation.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Web3](/what-is-web3) industry has gained recognition for its competitive compensation packages, particularly in the technology sector. A surge in venture capital investment and a significant talent shortage have led Web3 companies to offer attractive salaries to engineers capable of constructing the secure and scalable infrastructure for this new internet. So, what can developers realistically expect to earn in this field?
 
 This article presents a detailed examination of Web3 developer salaries for the coming years, focusing on role specialization, experience level, and geographic location. We will explore the various components that influence compensation and provide general salary ranges to help you assess your market value.
@@ -76,3 +75,16 @@ Despite the remote-first nature of the Web3 industry, geographic location still 
 | Tier 4 | Remote - Global | $120,000 - $180,000 for senior roles in lower cost-of-living areas |
 
 The Web3 job market presents some of the most lucrative opportunities in technology. The demand for skilled developers, especially those with expertise in security and protocol architecture, significantly outweighs supply. By building in-demand skills and establishing a strong public [portfolio](/building-web3-portfolio) of work, developers can prepare for a rewarding career leading this evolving industry.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

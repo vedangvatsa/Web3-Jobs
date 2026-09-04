@@ -3,14 +3,13 @@ title: The Rise of Web3 Governance and Voting System Engineers
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 data-ai-hint: governance meeting people
 description: >-
- A look at the specialized engineering roles focused on building and
- maintaining the governance and voting systems for DAOs and decentralized
- protocols.
+  A look at the specialized engineering roles focused on building and
+  maintaining the governance and voting systems for DAOs and decentralized
+  protocols.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 As Decentralized Autonomous Organizations (DAOs) grow in influence, managing treasuries worth billions, the systems governing them have become essential infrastructure. This shift has created a strong demand for a specialized type of developer known as the **Web3 Governance Engineer**.
 
 Governance Engineers design, maintain, and enhance the smart contracts and off-chain tools that enable decentralized decision-making. This role demands not only expertise in [smart contract](/what-are-smart-contracts) development but also proficiency in game theory, voting mechanisms, and the political dynamics of DAOs.
@@ -43,3 +42,16 @@ A Governance Engineer contributes significantly to the functioning of a DAO's "o
 4. **Contribute to Governance Tooling:** Engage with open-source projects like Snapshot or Tally to showcase your skills and contribute to the tools used by DAOs.
 
 The Governance Engineer role is for those intrigued by the intersection of technology, economics, and political science. This position offers an opportunity to help build the democratic infrastructure for the new internet, establishing systems that enable decentralized communities.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

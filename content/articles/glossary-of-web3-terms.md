@@ -1,14 +1,15 @@
 ---
 title: Glossary of Web3 Terms - 65 Definitions for Jobs and Interviews
-image: https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1080
+image: 'https://images.unsplash.com/photo-1639762681057-408e52192e55?q=80&w=1080'
 description: >-
-  Plain definitions for 65 Web3 terms you will see in job listings, whitepapers, and interviews - from blockchain and smart contracts to rollups, wallets, and token standards - with examples and what hiring managers actually test.
+  Plain definitions for 65 Web3 terms you will see in job listings, whitepapers,
+  and interviews - from blockchain and smart contracts to rollups, wallets, and
+  token standards - with examples and what hiring managers actually test.
 category: Industry Insights
 data-ai-hint: blockchain glossary
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 job listings pack a lot of jargon into a few lines. This glossary gives you clear definitions for 65 terms you will see on Hashtag Web3 and in interviews, with one concrete example for each and a note on why it matters at work.
 
 Use it as a quick reference before you apply, before an interview, or when you read a whitepaper or docs.
@@ -339,3 +340,15 @@ Core definitions were checked against primary sources in August 2026:
 
 If a listing uses a term differently than above, follow the listing's repo or docs. Terminology varies by team, and on-chain behavior is the final check.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+8. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+9. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+10. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)

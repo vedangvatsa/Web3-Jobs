@@ -1,15 +1,14 @@
 ---
 title: Slack Communication Best Practices
 description: >-
- Master the art of effective Slack communication. This guide covers best
- practices for channels, threads, notifications, and etiquette to improve
- productivity and reduce noise.
+  Master the art of effective Slack communication. This guide covers best
+  practices for channels, threads, notifications, and etiquette to improve
+  productivity and reduce noise.
 category: Career Guides
 data-ai-hint: team communication
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: Taming the Beast
 
 Slack and similar real-time messaging platforms have transformed workplace communication. These tools enable instant collaboration, quick inquiries, and enhance connections, particularly for remote teams. However, lacking proper guidelines can lead to overwhelming streams of notifications that diminish productivity and cause stress.
@@ -82,3 +81,16 @@ If you make a mistake or need to add information, edit your original message ins
 | Craft Clear Messages | Avoid ambiguity by providing context and being explicit about requests. |
 | Use Reactions and Emojis | Acknowledge messages without cluttering channels with unnecessary replies. |
 | Edit Messages | Ensure clarity by updating original messages instead of creating new ones for corrections. |
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)

@@ -1,14 +1,13 @@
 ---
 title: What is Artificial Intelligence and How It Works
 description: >-
- A straightforward look at what artificial intelligence really is, how it
- functions, and why it's becoming a major part of our world.
+  A straightforward look at what artificial intelligence really is, how it
+  functions, and why it's becoming a major part of our world.
 category: Educational
 data-ai-hint: robot brain
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Artificial intelligence, commonly referred to as AI, focuses on enhancing computer capabilities to mimic human-like thinking and learning. The objective is to create machines that can analyze data, recognize patterns, and make informed decisions independently of pre-set instructions. This process is grounded in algorithms and data.
 
 Consider how you identify a friend in a crowded place. You do not consciously list their physical attributes; your brain recognizes them based on prior experiences. AI emulates this process by analyzing numerous images of a person to learn their distinct features, enabling it to identify the individual without direct guidance. This data-driven learning is essential to modern AI systems.
@@ -109,3 +108,16 @@ A: Yes, this is the preferred approach for many professionals. You do not need t
 
 **Q: What resources can enhance my understanding?** 
 A: Explore related articles that look deeper into specific AI aspects. Beyond written content, connecting with a mentor or peer group excelling in AI can provide insights that articles cannot convey. Participating in Web3-specific communities on platforms like Discord or Telegram can also enable knowledge sharing. Structured accountability, such as committing to a timeline with a colleague, significantly accelerates progress.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

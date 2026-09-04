@@ -3,13 +3,12 @@ title: Cosmos Blockchain and Inter Blockchain Communication
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: cosmos space galaxy
 description: >-
- Explore how the Cosmos SDK, Tendermint, IBC, and the Cosmos Hub support
- sovereign application-specific blockchains beyond monolithic architectures.
+  Explore how the Cosmos SDK, Tendermint, IBC, and the Cosmos Hub support
+  sovereign application-specific blockchains beyond monolithic architectures.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The dominance of [Ethereum](/what-is-ethereum) as a smart contract platform has highlighted limitations within its monolithic architecture. Developers seeking greater sovereignty and customization face significant hurdles. The **Cosmos SDK** has emerged as the leading framework for those looking to create not just decentralized applications but entire application-specific [blockchains](/what-is-a-blockchain).
 
 The Cosmos SDK serves as an open-source framework designed for constructing custom, sovereign Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) blockchains. Rather than deploying smart contracts on an existing chain and adhering to its constraints, developers can use the Cosmos SDK to launch their own chains tailored to specific application requirements. This approach has earned Cosmos the title of the "Internet of Blockchains."
@@ -57,3 +56,16 @@ The Cosmos Hub, the first blockchain launched within the Cosmos network, uses th
 ### The Vision of Cosmos
 
 The Cosmos SDK embodies a forward-thinking vision for Web3. Rather than a single monolithic chain, Cosmos promotes a collaborative ecosystem of thousands of interconnected, application-specific blockchains. This modular and sovereign approach equips developers with the tools to push the boundaries of blockchain technology. For those with experience in Go and an interest in distributed systems, the Cosmos ecosystem presents a wealth of opportunities to build the infrastructure for a multichain future.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

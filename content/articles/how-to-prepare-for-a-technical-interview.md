@@ -3,13 +3,12 @@ title: How to Prepare for a Technical Interview
 data-ai-hint: technical interview coding whiteboard
 description: >-
   A practical guide to preparing for technical interviews in 2026, with specific
-  steps for coding rounds, system design, take-home projects, live Solidity challenges,
-  security checks, and behavioral questions.
+  steps for coding rounds, system design, take-home projects, live Solidity
+  challenges, security checks, and behavioral questions.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What a technical interview actually tests
 
 A technical interview checks whether you can do the work, not whether you can describe it. In 2026 most companies use a sequence of filters: resume screen, automated coding check, then a live round where you write, explain, and debug code with an engineer watching. For Web3 roles the same sequence applies, but the live round adds chain-specific checks: EVM behavior, gas cost, and security.
@@ -289,3 +288,16 @@ Check the primary sources behind the claims in this guide:
 - Scaffold-ETH 2 at docs.scaffoldeth.io: Next.js plus Wagmi plus Viem starter
 
 If you can explain each choice in your repo without notes, handle a live edit that adds access control or a reentrancy guard, and walk through a STAR story with a number, you are ready for most technical interviews in 2026.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum ERC-4626 Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626)
+7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+10. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)

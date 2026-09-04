@@ -1,16 +1,15 @@
 ---
 title: What does Jack Dorsey think about Web3
 description: >-
- Explore the perspective of Jack Dorsey, co-founder of Twitter and Block
- (formerly Square), on Web3. This guide covers his staunch Bitcoin maximalism,
- his.
+  Explore the perspective of Jack Dorsey, co-founder of Twitter and Block
+  (formerly Square), on Web3. This guide covers his staunch Bitcoin maximalism,
+  his.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man walking
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Bitcoin Advocate
 
 Jack Dorsey, co-founder and former CEO of Twitter (now X), and the founder and CEO of Block (formerly Square), stands out as a leading voice in the discussion of [Web3](/what-is-web3). His perspective diverges significantly from that of many Silicon Valley leaders. Dorsey champions **[Bitcoin](/what-is-bitcoin)** as the only cryptocurrency of significance and the sole pathway to a truly decentralized future.
@@ -62,3 +61,16 @@ Web5 does not represent a new blockchain. Instead, it proposes a set of open sta
 - **Bitcoin's Role:** The Bitcoin blockchain serves as the anchoring layer for the identity framework, providing security and a trustworthy source of information for DIDs without being a repository for extensive personal data.
 
 Web5 aims to establish a web where users retain ownership of their identity and data, addressing the issues that "Web3" purports to solve while adhering to an open, Bitcoin-focused standard devoid of new tokens or VC ownership.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

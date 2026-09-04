@@ -3,14 +3,13 @@ title: What is a Snapshot in Cryptocurrency Airdrops
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: camera snapshot
 description: >-
- A snapshot is a record of the state of a blockchain at a specific block
- height. It's an important mechanism used by Web3 projects to determine
- eligibility.
+  A snapshot is a record of the state of a blockchain at a specific block
+  height. It's an important mechanism used by Web3 projects to determine
+  eligibility.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the [Web3](/what-is-web3) sector, the term **"snapshot"** holds significant importance. It denotes the process of capturing the complete state of a [blockchain](/what-is-a-blockchain) at a specific moment, marked by a particular block height. This recorded state serves as the authoritative reference for important events such as an **[airdrop](/understanding-airdrop-campaigns-in-web3)** or a governance vote.
 
 ### How Snapshots Function
@@ -44,3 +43,16 @@ By using a snapshot, the project ensures that the distribution relies on a fixed
 Snapshots play a central role in governance, leading to the development of Snapshot.org, a widely used off-chain voting tool for DAOs. This platform enables projects to create proposals and allows token holders to vote via their wallets without incurring on-chain transaction fees. It operates by taking a "snapshot" of token holder balances at a specific block number, using this data to weight votes. Although these votes are not binding on-chain, they serve as an essential gauge of community sentiment prior to formal on-chain voting.
 
 A snapshot is an effective tool for establishing fair and verifiable criteria within a decentralized context. It allows projects to refer back to a specific moment in on-chain history, serving as the "source of truth" for distributing rewards and governance rights.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

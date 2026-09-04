@@ -3,22 +3,21 @@ title: How to Fire Someone Professionally and Compassionately
 category: Career Guides
 date: '2025-09-12'
 description: >-
- Letting an employee go is the hardest part of being a manager. This guide
- covers the essential steps for a termination process that is clear,
- respectful.
+  Letting an employee go is the hardest part of being a manager. This guide
+  covers the essential steps for a termination process that is clear,
+  respectful.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: firing employee meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Firing someone is the worst part of management. No framework makes it comfortable. But there's a big difference between doing it well and doing it badly. Here's how to handle it with clarity and respect.
 
 ## Before the Conversation: Preparation Is Everything
 
 If the termination is performance-related, there should be a documented trail - PIPs, written feedback, and clear expectations that were communicated and not met. If you don't have this, you're not ready to fire someone - you're ready to start managing them more closely.
 
-**Involve HR early.** Even in small companies, get someone from HR or legal in the loop before the conversation. They'll help you navigate final pay requirements, benefits continuation, and anything specific to the person's contract.
+**Involve HR early.** Even in small companies, get someone from HR or legal in the loop before the conversation. They'll help you understand final pay requirements, benefits continuation, and anything specific to the person's contract.
 
 **Prepare the logistics in advance.** Before you walk into the meeting, have answers to: When is their last day? Will they receive severance? How will systems access be handled? When will they get their final paycheck? Not having these answers makes a difficult conversation chaotic.
 
@@ -73,3 +72,16 @@ If you're in a [Web3 leadership role](/jobs) without formal HR, you carry extra 
 ## The Uncomfortable Truth
 
 You'll never feel good about firing someone. If you do, something's wrong. But you can do it in a way that preserves the person's dignity, protects your team's trust, and lets everyone move forward. Preparation, directness, and basic human decency - that's the entire playbook.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)

@@ -3,13 +3,12 @@ title: 'Web3 Forensics and Blockchain Investigators: Career Insights'
 image: /images/maximalfocus-0n4jhVGS4zs-unsplash.jpg
 data-ai-hint: blockchain forensics investigation
 description: >-
- A career guide to the world of on-chain investigation. Learn how blockchain
- forensics experts trace illicit funds, unmask hackers, and bring transparency.
+  A career guide to the world of on-chain investigation. Learn how blockchain
+  forensics experts trace illicit funds, unmask hackers, and bring transparency.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an **On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.
 
 As the value of assets on public blockchains has surged, so have the number of exploits and hacks. On-chain forensics addresses this challenge by aiding victims in recovering funds, supplying data to law enforcement, and securing the ecosystem through analysis of attack methods. This career blends the skills of data scientists, cybersecurity analysts, and financial detectives.
@@ -164,3 +163,16 @@ Question assumptions. Apparent patterns may have innocent explanations, while se
 Blockchain forensics significantly contributes to the legitimacy and security of Web3. By tracing hacks and making them costly for criminals, forensic specialists deter illicit activity. They assist in recovering stolen funds, providing justice to victims, and supplying data to law enforcement for prosecuting criminals.
 
 Concerns persist that extensive forensics and traceability may undermine the privacy and freedom that early Web3 advocates championed. This debate remains contentious. However, as Web3 achieves mainstream adoption, forensics and compliance have become integral components of the ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

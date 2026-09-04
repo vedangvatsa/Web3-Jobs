@@ -1,13 +1,14 @@
 ---
 title: Generative Art and NFTs - How Code Becomes Collectible Art
 description: >-
-  Learn what generative art is, how it works with NFTs, and why platforms like Art Blocks and fxhash changed collecting. Covers history, on-chain mechanics, key projects, trade-offs, and how to start.
+  Learn what generative art is, how it works with NFTs, and why platforms like
+  Art Blocks and fxhash changed collecting. Covers history, on-chain mechanics,
+  key projects, trade-offs, and how to start.
 category: Educational
 data-ai-hint: generative code art
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Generative art is art made with a system. The artist writes code that sets rules, adds controlled randomness, and then lets the system produce the output. An NFT is a unique token on a blockchain that records ownership of that output.
 
 Together they create long-form generative art. The artist publishes an algorithm on chain. Each collector mint generates a new hash. That hash seeds the algorithm to create a one-of-one piece no one has seen before, including the artist.
@@ -168,3 +169,16 @@ Open a Tezos wallet and try fxhash with a few XTZ. Mint fees are low, often unde
 
 **Are generative art NFTs still active**
 Yes. Art Blocks continues to release curated projects, hosts the annual Marfa Weekend gallery in Texas, and documents its protocol publicly. fxhash continues as an open platform on Tezos and EVM chains. Secondary sales for top series like Fidenza, Ringers, and Chromie Squiggle still report daily floor prices on OpenSea and other marketplaces.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+8. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+9. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+10. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

@@ -1,14 +1,13 @@
 ---
 title: What is Just-In-Time (JIT) Liquidity?
 description: >-
- A deep dive into Just-In-Time (JIT) liquidity, an advanced MEV strategy on
- Uniswap v3 where liquidity is added and removed in the same block to capture.
+  A deep dive into Just-In-Time (JIT) liquidity, an advanced MEV strategy on
+  Uniswap v3 where liquidity is added and removed in the same block to capture.
 category: Educational
 data-ai-hint: just in time
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is Just-In-Time (JIT) Liquidity?
 
 Just-In-Time (JIT) liquidity represents a strategy In DeFi and Maximal Extractable Value (MEV). This approach is particularly effective on concentrated liquidity decentralized exchanges (DEXs) such as Uniswap v3. It involves using an MEV bot to add liquidity to a pool for a specified trade, then removing it immediately within the same block.
@@ -81,3 +80,16 @@ A: Research is ongoing in this area. Potential solutions include:
 - **Private Mempools**: Services like Flashbots can obscure initial trades from JIT bots.
 - **Protocol-Level Changes**: DEXs might implement mechanisms that delay fee collection or allocate a greater share of fees to long-term LPs, reducing the profitability of JIT strategies.
 - **Batch Auctions**: Protocols like CowSwap batch trades and execute them at a uniform clearing price, preventing JIT attacks by eliminating specific trades to target.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

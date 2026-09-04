@@ -10,7 +10,6 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Supervising AI in the workplace means a trained person can understand what the system does, check its output before it affects people, and stop or correct it when needed. The person is accountable for the outcome, not the model.
 
 This guide explains what supervision covers, who must do it, how it works in practice, what the law requires in the EU and the US, and how to build a setup you can defend to workers, auditors, and regulators.
@@ -270,3 +269,16 @@ Not by default. Those platforms provide the ATS and optional AI features, but co
 Data period and reqs covered, total applicants and counts by group including unknown, selection rates and impact ratios by race or ethnicity and sex, auditor name and independence, model version, criteria used, notices sent with dates, human overrules with reasons, and next audit date. Keep version history to show what changed and when.
 
 *Sources and further reading: Regulation (EU) 2024/1689 Articles 5, 12 to 15, 26, 50, 99 and Annex III point 4 at https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689 and https://artificialintelligenceact.eu/article/14/ ; Digital Omnibus Regulation (EU) 2026/1744; NYC DCWP Automated Employment Decision Tools page, Rule, and FAQ at https://www.nyc.gov/site/dca/about/automated-employment-decision-tools.page ; 820 ILCS 42 and 775 ILCS 5/2-102 as amended by HB 3773; Md. Lab. & Empl. Sec. 3-717; Colorado SB 24-205; EEOC Technical Assistance on Assessing Adverse Impact under Title VII, May 18, 2023 and ADA guidance May 2022; DOL AI Principles May 16, 2024 and AI Best Practices October 16, 2024 at https://www.dol.gov/newsroom/releases/osec/osec20241016 ; NIST AI RMF 1.0 January 26, 2023 at https://nvlpubs.nist.gov/nistpubs/ai/NIST.AI.100-1.pdf and Generative AI Profile NIST AI 600-1 July 26, 2024 at https://doi.org/10.6028/NIST.AI.600-1 ; SHRM Talent Trends February 2025; Pew Research Center April 20, 2023 at https://www.pewresearch.org/internet/2023/04/20/ai-in-hiring-and-evaluating-workers-what-americans-think/ ; EEOC v. iTutorGroup consent judgment August 2023; Mobley v. Workday, No. 3:23-cv-00770 (N.D. Cal.).*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)

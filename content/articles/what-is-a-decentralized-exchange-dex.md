@@ -1,16 +1,15 @@
 ---
 title: What is a Decentralized Exchange (DEX)
 description: >-
- Explore how decentralized exchanges (DEXs) are changing crypto trading by
- enabling peer-to-peer transactions without intermediaries, and learn how they
- differ from centralized exchanges.
+  Explore how decentralized exchanges (DEXs) are changing crypto trading by
+  enabling peer-to-peer transactions without intermediaries, and learn how they
+  differ from centralized exchanges.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: Educational
 data-ai-hint: cryptocurrency exchange
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Decentralized exchanges, or DEXs, transform the trading of digital assets. Unlike centralized exchanges (CEXs) such as Coinbase or Binance, which operate under a single company's control, DEXs use [smart contracts](/what-are-smart-contracts) to enable direct trades between users. This peer-to-peer structure allows traders to maintain custody of their funds, creating a more secure and transparent trading environment.
 
 The primary innovation in many contemporary DEXs is the Automated Market Maker (AMM). Traditional exchanges rely on order books where buyers and sellers are matched. In contrast, AMMs operate using liquidity pools, which consist of pairs of [tokens](/what-is-a-token) locked in a smart contract. The pricing of these assets derives from a mathematical formula based on the ratio of tokens within the pool. When engaging in a trade on a DEX, users are not trading with an individual directly but rather against a liquidity pool.
@@ -89,3 +88,16 @@ Understanding how DEXs function can enhance your professional expertise in the W
 4. **Underestimating the Importance of Research**: Thoroughly research projects before investing. Consider factors like team credibility, market demand, and technological viability.
 
 5. **Failing to Engage with the Community**: Participate in discussions within the DEX community. Engaging with other traders can provide valuable insights and enhance your trading strategies.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

@@ -3,13 +3,12 @@ title: What is Ethereum? The World Computer
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum network
 description: >-
- A full guide to Ethereum, the decentralized, open-source blockchain that
- pioneered smart contracts and powers the vast majority of the Web3 ecosystem.
+  A full guide to Ethereum, the decentralized, open-source blockchain that
+  pioneered smart contracts and powers the vast majority of the Web3 ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Ethereum has changed how the world perceives blockchain technology and decentralized applications. Launched in 2015 by Vitalik Buterin and a team of developers, Ethereum is a decentralized, open-source blockchain that extends beyond Bitcoin by enabling the creation of smart contracts. This innovation shifted the blockchain's role from merely a ledger for transactions to a platform for developing decentralized applications (dApps).
 
 As the backbone of the [Web3](/what-is-web3) ecosystem, Ethereum supports most decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized autonomous organizations (DAOs). Familiarity with Ethereum is essential for understanding Web3. For those aiming to pursue careers in blockchain development, knowledge of Ethereum is essential.
@@ -87,3 +86,16 @@ Ethereum faces criticisms that professionals should consider when contemplating 
 Ethereum serves as the foundational platform for Web3. It supports the majority of Web3 applications, making it a valuable skill for developers in the blockchain field. 
 
 Investing time in Ethereum knowledge yields significant dividends. The technical challenges are real and engaging, compensation is competitive, and professionals work on significant projects with the potential to reshape the global financial sector.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+4. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

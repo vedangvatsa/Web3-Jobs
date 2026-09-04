@@ -3,13 +3,12 @@ title: What is Burning Tokens in Cryptocurrency
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: fire money burn
 description: >-
- Token burning is the process of permanently removing a certain number of
- cryptocurrency tokens from circulation. This is done to create a deflationary.
+  Token burning is the process of permanently removing a certain number of
+  cryptocurrency tokens from circulation. This is done to create a deflationary.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In cryptocurrency, "burning" tokens is a strategic method for managing a token's supply and influencing its economic value. Token burning involves the intentional and permanent removal of a specified number of tokens from circulation. This action is irreversible; once a token is burned, it cannot be recovered.
 
 ### How Token Burning Works
@@ -34,3 +33,16 @@ By decreasing the total supply of a token, a project can achieve several outcome
 One notable example of token burning is found in [Ethereum](/what-is-ethereum)'s **EIP-1559** update. This update mandates that a portion of the transaction fee (the "base fee") for every transaction on Ethereum is burned. During periods of high network activity, the volume of ETH burned can exceed the amount newly issued to validators, temporarily creating a deflationary environment for ETH.
 
 Token burning serves as a powerful instrument in the **[tokenomics](/understanding-tokenomics)** toolkit. It allows projects to actively manage their economic policy, create scarcity, and reward long-term holders.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

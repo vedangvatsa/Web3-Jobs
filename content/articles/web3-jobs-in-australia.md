@@ -1,16 +1,15 @@
 ---
 title: 'Web3 Jobs in Australia: A Guide to the Booming Crypto Market'
 image: >-
- https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdXN0cmFsaWF8ZW58MHx8fHwxNzE2NDAxODg5fDA&lib=rb-4.0.3&q=80&w=1080
+  https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxhdXN0cmFsaWF8ZW58MHx8fHwxNzE2NDAxODg5fDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: australia city skyline
 description: >-
- Your guide to landing a Web3 job in Australia. Explore the crypto space,
- discover top companies, and get insights into salary expectations down under.
+  Your guide to landing a Web3 job in Australia. Explore the crypto space,
+  discover top companies, and get insights into salary expectations down under.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Australia has established itself as a significant player in the global [Web3](/what-is-web3) sector, becoming a active hub for [blockchain](/what-is-a-blockchain) innovation. The country benefits from a tech-savvy population, a well-developed financial sector, and an evolving regulatory environment. Major cities such as Sydney and Melbourne are becoming centers for startups, development teams, and venture capital focused on decentralized web technologies.
 
 The Australian market emphasizes Decentralized Finance ([DeFi](/what-is-defi)), tokenization of real-world assets (RWAs), and an expanding Web3 gaming industry. This combination of financial expertise and creative technology offers a wide range of career opportunities. Professionals in roles like [Solidity](/best-programming-languages-for-blockchain-development) developers, community managers, and product strategists can find rewarding careers in this supportive ecosystem. This guide outlines the Australian [Web3 job](/web3-jobs-for-beginners) market, highlighting key industry trends, in-demand roles, salary expectations, and strategies for securing a position.
@@ -64,3 +63,16 @@ The demand for Web3 talent in Australia remains strong, particularly for experie
 3. **Network at Major Events**: Australia hosts several blockchain conferences yearly, such as the Australian Crypto Convention and Blockchain Week. Attending these events allows you to immerse yourself in the ecosystem and establish key connections.
 
 4. **Target Both Local and Remote Roles**: While the Australian job market is strong, many top opportunities exist with global, remote-first companies. Expand your search beyond local roles to maximize your options.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

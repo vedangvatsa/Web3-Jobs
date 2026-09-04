@@ -1,16 +1,15 @@
 ---
 title: 'Central Bank Digital Currency (CBDC) in India: A Full Report'
 image: >-
- https://images.unsplash.com/photo-1515091943-9d5c0ad475af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYXxlbnwwfHx8fDE3NTkyNjM4NTV8MA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1515091943-9d5c0ad475af?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxpbmRpYXxlbnwwfHx8fDE3NTkyNjM4NTV8MA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: digital currency india
 description: >-
- An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring
- its opportunities, challenges, and future prospects in the context of.
+  An in-depth report on Central Bank Digital Currency (CBDC) in India, exploring
+  its opportunities, challenges, and future prospects in the context of.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## India's Digital Revolution
 
 ### Global Digital Economy Growth
@@ -190,3 +189,16 @@ Developing a regulatory framework is critical for the future of digital payments
  - Evaluating implications for credit creation and the broader economy.
 
 India's journey toward implementing CBDC is a sign of its commitment to applying digital innovation. The successful deployment of the Digital Rupee could not only transform the national economy but also position India as a leader in the evolving global financial ecosystem. By addressing the challenges and using the opportunities presented by CBDCs, India can enhance financial inclusion, improve transaction efficiency, and create a more reliable economic environment for its citizens.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

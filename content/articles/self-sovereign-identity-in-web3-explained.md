@@ -3,13 +3,12 @@ title: Self-Sovereign Identity in Web3 Explained
 image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
 data-ai-hint: digital identity key
 description: >-
- Understand how DIDs and self-sovereign identity give users control over their
- digital credentials.
+  Understand how DIDs and self-sovereign identity give users control over their
+  digital credentials.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the current digital environment, individuals do not truly own their identities. Instead, identities consist of a series of accounts, such as Google, Facebook, and banking logins, that are owned and managed by centralized corporations. This structure leads to significant privacy concerns, frequent data breaches, and a disjointed user experience.
 
 **Self-Sovereign Identity (SSI)** represents a new approach to digital identity. It envisions a framework where individuals maintain complete control over their identities and personal data. SSI forms a foundational element of the **[Web3](/what-is-web3)** ecosystem, made possible by [blockchain](/what-is-a-blockchain) technology and advanced cryptographic standards.
@@ -67,3 +66,16 @@ Consider the process of obtaining a loan from a **[DeFi](/what-is-defi)** protoc
  5. The user gains access to the loan without disclosing their name, net worth, or any other private financial information.
 
 This illustrates the potential of Self-Sovereign Identity, which enables trust and verification in a digital context while maintaining privacy and control.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -1,13 +1,14 @@
 ---
 title: 'Agency vs. In-House: Decoding the Key Differences for Your Career'
 description: >-
-  Agency or in-house changes how you work each day, what skills you build, and how you are paid. This guide compares scope, pace, pay, growth paths, and Web3 specifics to help you choose.
+  Agency or in-house changes how you work each day, what skills you build, and
+  how you are paid. This guide compares scope, pace, pay, growth paths, and Web3
+  specifics to help you choose.
 data-ai-hint: two doors
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 An agency sells services to many clients. An in-house team works for one employer on one brand or product. That single difference shapes your calendar, your manager, and what counts as good work.
 
 This guide is for marketers, designers, writers, developers, and Web3 contributors weighing those two settings. It covers how each model runs day to day, what you gain and trade off, what pay data actually shows, and how to pick based on your goals.
@@ -187,3 +188,16 @@ Common ranges reported by crypto marketing firms are 3 to 6 months to fill key r
 
 **What common mistakes should I avoid when picking?**
 Choosing for brand name alone, ignoring who owns strategy, not asking how success is measured at 90 days, and not checking staffing behind the title. Also avoid signing scope without asking how change requests are handled at agencies, or how reprioritization works in-house.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

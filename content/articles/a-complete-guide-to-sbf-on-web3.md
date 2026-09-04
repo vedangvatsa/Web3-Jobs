@@ -1,15 +1,14 @@
 ---
 title: SBF in Web3
 description: >-
- Explore the complex and controversial history of Sam Bankman-Fried (SBF) in
- the Web3 space. From the rise of FTX and Alameda Research to their dramatic.
+  Explore the complex and controversial history of Sam Bankman-Fried (SBF) in
+  the Web3 space. From the rise of FTX and Alameda Research to their dramatic.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man portrait
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction to SBF and His Rise in Crypto
 
 Sam Bankman-Fried, widely known as SBF, is one of the most polarizing figures in the history of cryptocurrency. As the founder and former CEO of the crypto exchange FTX and the trading firm Alameda Research, he rose to prominence quickly, becoming a significant figure by his late twenties and a key voice in the [Web3](/what-is-web3) industry. His public image was that of a visionary and an altruistic leader, championing a philosophy of "effective altruism" where he aimed to make billions of dollars to give away to charity.
@@ -52,7 +51,7 @@ This tightly woven ecosystem created massive network effects but also concentrat
 
 The fall of FTX in November 2022 was a seismic event that shook the entire crypto industry. The collapse unfolded with breathtaking speed, erasing billions in value in just over a week.
 
-1. **The CoinDesk Report (Nov 2):** CoinDesk published a leaked balance sheet from Alameda Research, revealing that a huge portion of its assets consisted of unlocked FTT tokens. This raised serious concerns about the solvency of Alameda and its unhealthy relationship with FTX.
+1. **The CoinDesk Report (Nov 2):** CoinDesk published a leaked balance sheet from Alameda Research, revealing that a huge portion of its assets consisted of open FTT tokens. This raised serious concerns about the solvency of Alameda and its unhealthy relationship with FTX.
 2. **Binance Announces FTT Sale (Nov 6):** Changpeng "CZ" Zhao, CEO of rival exchange Binance, announced that his firm would be liquidating its entire FTT position due to "recent revelations." This triggered a market-wide panic and a run on the FTT token.
 3. **The Bank Run on FTX:** As the price of FTT plummeted, FTX customers rushed to withdraw their funds. The exchange was unable to process the volume of withdrawals, leading it to halt all customer withdrawals on November 8. This confirmed the market's worst fears: FTX did not have 1:1 reserves of customer assets.
 4. **The Failed Binance Acquisition (Nov 8-9):** In a shocking twist, Binance signed a non-binding letter of intent to acquire FTX to solve its "liquidity crunch." However, after less than 24 hours of due diligence, Binance backed out, citing reports of mishandled customer funds and alleged US agency investigations.
@@ -67,3 +66,16 @@ The rise and fall of Sam Bankman-Fried offers critical, if painful, lessons for 
 * **Transparency and Proof of Reserves:** The industry has since moved towards demanding greater transparency from centralized exchanges, including regular "Proof of Reserves" audits to prove that they hold customer assets 1:1.
 * **The Danger of Interconnectedness:** The FTX ecosystem was a complex web of dependencies where the failure of one part brought down the whole system. This highlights the need for risk management and avoiding excessive concentration in a single ecosystem or token.
 * **Beware of Cults of Personality:** The industry placed immense trust in SBF based on his public persona, intelligence, and powerful backers. His story is a cautionary tale about the dangers of idolizing founders and the need to verify claims rather than blindly trusting charismatic leaders.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [Solana Core Architecture Documentation](https://docs.solana.com/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)

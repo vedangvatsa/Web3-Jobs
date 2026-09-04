@@ -2,14 +2,13 @@
 title: 'Web3 Jobs in Tunis: A Guide to Tunisia''s Tech-Savvy Talent Hub'
 data-ai-hint: tunis tunisia city
 description: >-
- A career guide to the Web3 job market in Tunis. Discover how Tunisia's
- capital, with its deep pool of engineering talent and focus on FinTech, is
- becoming.
+  A career guide to the Web3 job market in Tunis. Discover how Tunisia's
+  capital, with its deep pool of engineering talent and focus on FinTech, is
+  becoming.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Tunis, the capital of Tunisia, is rapidly establishing itself as a significant center for Web3 talent and innovation in North Africa. The city boasts a high concentration of engineering graduates, supported by a reliable education system and a youthful demographic that actively engages with technology. This environment builds a rich pool of technical talent that global Web3 companies are increasingly seeking.
 
 The Web3 ecosystem in Tunis is marked by strong technical skills, an emphasis on engineering and FinTech solutions, and a growing community of developers. While the local market is still maturing, Tunisian professionals are gaining recognition in the global arena, often working remotely for esteemed international protocols and startups. This guide offers a detailed overview of the Web3 career opportunities in Tunis, highlighting its distinctive strengths, the in-demand skills, and the available opportunities in this tech-forward nation.
@@ -285,3 +284,16 @@ Engage with the community on Twitter, contribute to open-source projects, and pa
 - The Bankless newsletter for weekly insights on DeFi.
 
 With a clear understanding of the Web3 job market in Tunis, professionals can chart a successful career path in this fast-moving field. By using local strengths, pursuing global opportunities, and continuously improving skills, Tunisian developers can thrive in the expanding Web3 ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+8. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

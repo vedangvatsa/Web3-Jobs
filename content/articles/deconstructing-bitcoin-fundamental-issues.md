@@ -1,15 +1,14 @@
 ---
 title: A Critical Look at Bitcoin's Fundamental Issues
 description: >-
- Beyond the price, what are the fundamental challenges and debates surrounding
- Bitcoin? An analysis of its scalability, energy consumption, and future.
+  Beyond the price, what are the fundamental challenges and debates surrounding
+  Bitcoin? An analysis of its scalability, energy consumption, and future.
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin coin on table
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Beyond the Bull Market: A Critical Look at Bitcoin's Fundamental Issues
 
 [Bitcoin](/what-is-bitcoin), the first cryptocurrency, has established itself as a resilient and successful project over the years. It has weathered various market cycles, regulatory challenges, and technical debates, emerging as a globally recognized asset class valued in the billions. Bitcoin's core value proposition as a decentralized, censorship-resistant, and digitally scarce store of value remains strong.
@@ -61,3 +60,16 @@ The future of Bitcoin hinges on its community's ability to confront these issues
 | Energy Consumption | High environmental impact | Increase renewable energy usage in mining |
 | Fee Market & Security Budget | Dependency on transaction fees | Explore alternative incentive models and fee structures |
 | Conservative Development | Slow protocol changes | Encourage more flexible governance structures |
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

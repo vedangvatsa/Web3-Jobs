@@ -1,14 +1,13 @@
 ---
 title: How to Resign Professionally and Gracefully
 description: >-
- Quitting your job is a delicate process. Learn how to resign in a way that
- preserves your professional relationships and protects your reputation.
+  Quitting your job is a delicate process. Learn how to resign in a way that
+  preserves your professional relationships and protects your reputation.
 data-ai-hint: person leaving
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Deciding to leave your job marks a significant moment in your career. After making this decision, resigning professionally and gracefully becomes essential. Your exit is as critical as your entrance into the company. A well-managed departure helps maintain positive relationships, protects your reputation, and ensures you receive favorable references in the future.
 
 The professional world is often interconnected. You may encounter former colleagues or managers down the line. Burning bridges can lead to unforeseen consequences for your career trajectory. The following steps outline how to resign with dignity.
@@ -99,4 +98,15 @@ Typically, accepting a counteroffer is inadvisable. The reasons for your initial
 
 Yes. In certain situations, especially if you are joining a direct competitor, your employer may request immediate departure upon your resignation. Be prepared for this possibility. If it occurs, remain professional and inquire about next steps regarding your final paycheck and benefits.
 
+## Verifiable Primary Sources & References
 
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)

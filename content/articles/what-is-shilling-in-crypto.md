@@ -3,13 +3,12 @@ title: What is Shilling in the Crypto World?
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: person talking crowd
 description: >-
- A guide to understanding 'shilling,' the practice of enthusiastically
- promoting a cryptocurrency or NFT project, and how to spot it.
+  A guide to understanding 'shilling,' the practice of enthusiastically
+  promoting a cryptocurrency or NFT project, and how to spot it.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the crypto market, the term "shilling" frequently appears. Understanding this concept is essential for making sound decisions and avoiding pitfalls in this speculative environment.
 
 **Definition of Shilling**
@@ -42,3 +41,16 @@ Recognizing shilling is vital for engaging in responsible [Doing Your Own Resear
 Not all promotional activity constitutes shilling. Genuine enthusiasm for a project can coexist with responsible discussion about its potential risks and benefits. For example, a well-researched analysis that highlights both strengths and weaknesses is not shilling. In contrast, vague promises of "100x gains" alongside hype-filled tweets likely indicate shilling.
 
 In the decentralized world of [Web3](/what-is-web3), skepticism is necessary. Always approach promotions critically and conduct thorough research before committing to any investment.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

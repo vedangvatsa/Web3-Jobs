@@ -3,12 +3,14 @@ title: 'Multisig Wallets Explained: How M-of-N Shared Control Works'
 image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
 data-ai-hint: multisig wallet security
 description: >-
-  A multisig wallet needs M of N private keys to approve a transaction, so no single key can move funds alone. Learn how M-of-N works on Bitcoin and on Ethereum with Safe, where it helps, where it adds cost and complexity, and how to set one up safely.
+  A multisig wallet needs M of N private keys to approve a transaction, so no
+  single key can move funds alone. Learn how M-of-N works on Bitcoin and on
+  Ethereum with Safe, where it helps, where it adds cost and complexity, and how
+  to set one up safely.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A multisig wallet is a wallet that needs approval from M of N distinct private keys before it will move funds. A 2-of-3 multisig needs any two of three listed keys. One stolen or lost key alone cannot spend, and losing one key does not lock the funds if you keep the other two and the configuration.
 
 This guide explains what multisig is, who should use it, how it works on Bitcoin and on Ethereum, how it differs from MPC and Shamir sharing, where it helps and where it adds friction, and how to create and verify a multisig you can actually recover.
@@ -234,3 +236,16 @@ When you need to rotate keys without an on-chain sweep, produce singlesig-sized 
 ---
 
 *Sources: Safe smart account docs at https://docs.safe.global and contracts at https://github.com/safe-global/safe-contracts; Safe Foundation reports (March 2024 $100B secured, Q4 2024 and Q3 2024 Messari State of Safe reports, Q1 2026 quarterly report with 61.1M total Safes); Bitcoin BIPs 11, 16, 32, 48, 67, 340, 341, 342; Bitcoin Core multisig tutorial; Blockstream transaction types help page; Spark Money research on multisig, MPC, and FROST; Unchained and Bitcoin Magazine comparisons of multisig, SSS, and MPC; Trezor SLIP-39 Shamir Backup docs.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

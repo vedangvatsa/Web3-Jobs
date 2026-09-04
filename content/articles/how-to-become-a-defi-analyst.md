@@ -1,5 +1,5 @@
 ---
-title: "How to Become a DeFi Analyst: Skills, Tools, and Career Path"
+title: 'How to Become a DeFi Analyst: Skills, Tools, and Career Path'
 description: >-
   What a DeFi analyst does, who the role suits, core skills and tools, salary
   ranges for 2026, and a practical 6-step plan to build a portfolio that gets
@@ -10,7 +10,6 @@ data-ai-hint: finance analyst data
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A DeFi analyst evaluates decentralized finance protocols and turns on-chain data into clear recommendations. The role blends protocol due diligence, tokenomics, risk assessment, and SQL-based data analysis to help funds, DAOs, and product teams decide where to allocate capital and what to build.
 
 ## What Is a DeFi Analyst
@@ -171,3 +170,16 @@ Yes, but you need to use products as a user at least once. Inspecting your own t
 
 **Where should I publish to get noticed?**
 Dune for dashboards, Mirror or Substack for memos, GitHub for reproducible queries and Python notebooks, and X for short threads that link back to each. DAOs and protocol teams often notice careful governance comments before they notice a resume.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)

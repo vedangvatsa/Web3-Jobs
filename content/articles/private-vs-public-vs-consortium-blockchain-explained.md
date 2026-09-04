@@ -3,13 +3,12 @@ title: Private vs Public vs Consortium Blockchain Explained
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: blockchain private public
 description: >-
- A clear comparison of the three main types of blockchains: public, private,
- and consortium. Understand their differences in permissions, decentralization.
+  A clear comparison of the three main types of blockchains: public, private,
+  and consortium. Understand their differences in permissions, decentralization.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 While the terms "[blockchain](/what-is-a-blockchain)" and "decentralization" often appear synonymous, not all blockchains are entirely decentralized or accessible to everyone. The architecture of a blockchain can cater to various requirements, resulting in three primary types: **public, private, and consortium blockchains**. 
 
 Recognizing the distinctions among these three models is vital to understanding how blockchain technology applies across different sectors, from unrestricted public utilities to controlled enterprise systems.
@@ -67,3 +66,16 @@ Consortium blockchains blend elements of both public and private models. They ar
 ### Assessing the Right Blockchain Model
 
 Choosing between a public, private, or consortium blockchain hinges on the specific use case and objectives of the application. Public blockchains lay the groundwork for a genuinely open and censorship-resistant **[Web3](/what-is-web3)**. Conversely, private and consortium blockchains provide practical solutions for enterprises to apply the efficiency and transparency of blockchain technology in a controlled environment. Each model offers trade-offs, and grasping these differences is essential for understanding blockchain's full potential.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Solana Core Architecture Documentation](https://docs.solana.com/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

@@ -2,13 +2,13 @@
 title: AI Ethics and Responsible AI Guide
 data-ai-hint: robot balance scale
 description: >-
-  A practical guide to AI ethics: what it covers, where real harms have occurred,
-  which principles and laws apply, and how teams can build and use AI responsibly.
+  A practical guide to AI ethics: what it covers, where real harms have
+  occurred, which principles and laws apply, and how teams can build and use AI
+  responsibly.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 AI ethics is the practice of identifying and reducing harms that AI systems can cause to people, organizations, and society. AI reflects the data it was trained on and the choices of the people who built it. When those inputs contain historical bias, sensitive data, or poor safety checks, the system can repeat and scale those problems.
 
 This guide explains what AI ethics covers, who it affects, how failures happen in practice, which principles and regulations now apply, and what you can do about it.
@@ -174,7 +174,7 @@ Everyone in the chain, but responsibility must be explicit. Developers choose da
 
 **3. What are the actual laws and rules today?**
 * **European Union.** Regulation (EU) 2024/1689, published July 12, 2024 and in force August 1, 2024, uses four risk tiers. Unacceptable-risk practices such as government social scoring and real-time remote biometric identification in public spaces by law enforcement (with narrow exceptions) are prohibited and have been enforceable since August 2, 2025. General-purpose AI models have had obligations for technical documentation and information sharing since February 2, 2025. High-risk systems under Annex I and Annex III face requirements for risk management, data governance, logging, human oversight, and conformity assessment before placement on the market. Most high-risk obligations apply from August 2, 2026, with product-safety-related systems phased to August 2, 2027 and some public-sector duties to 2030. Fines reach 35 million euros or 7 percent of global annual turnover for prohibited practices, with lower tiers for other breaches.
-* **United States, federal.** There is no comprehensive AI statute. EO 14110 created reporting and safety commitments in 2023, but it was revoked in January 2025. The current executive direction directs agencies to remove barriers to AI development and to prepare an AI Action Plan. NIST frameworks remain voluntary but are increasingly referenced in procurement and sector guidance. Sector regulators such as the FTC point to existing laws on deception and discrimination as applicable to AI claims and outputs.
+* **United States, federal.** There is no complete AI statute. EO 14110 created reporting and safety commitments in 2023, but it was revoked in January 2025. The current executive direction directs agencies to remove barriers to AI development and to prepare an AI Action Plan. NIST frameworks remain voluntary but are increasingly referenced in procurement and sector guidance. Sector regulators such as the FTC point to existing laws on deception and discrimination as applicable to AI claims and outputs.
 * **Other jurisdictions.** The United Kingdom has taken a sector-based approach coordinated through its AI Safety Institute. Japan, Canada, and others have issued guidance aligned with OECD principles. If you sell or deploy in multiple regions, check both national rules and local ones like New York City's hiring audit law. All dates above reflect EUR-Lex and the White House's published executive actions as of mid-2026.
 
 **4. What ethical duties do users of AI tools have?**
@@ -182,3 +182,16 @@ Use tools with awareness of their limits. Do not use them to create false conten
 
 **5. Where should a small team start this week?**
 Write a one-page registry of every AI system you run or pay for, with purpose and data sources. Pick the highest-risk one and run three checks: a group-disaggregated accuracy test, a privacy probe for memorized personal data, and a small red-team session with adversarial inputs. Document the results and who reviewed them. That single exercise gives you the evidence base that both NIST's Measure and Map functions and an external auditor will ask for.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

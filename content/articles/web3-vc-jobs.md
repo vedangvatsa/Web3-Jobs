@@ -1,15 +1,14 @@
 ---
 title: How to Get a Job in Web3 Venture Capital
 image: >-
- https://images.unsplash.com/photo-1462206092226-f46025ffe607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbHxlbnwwfHx8fDE3NTUxNjIxNTB8MA&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1462206092226-f46025ffe607?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx2ZW50dXJlJTIwY2FwaXRhbHxlbnwwfHx8fDE3NTUxNjIxNTB8MA&lib=rb-4.1.0&q=80&w=1080
 description: >-
- A guide to breaking into the competitive world of Web3 venture capital. Learn
- about the different roles, from analyst to partner, and the skills you need.
+  A guide to breaking into the competitive world of Web3 venture capital. Learn
+  about the different roles, from analyst to partner, and the skills you need.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Venture Capital (VC) fuels innovation by providing essential early-stage funding, enabling startups to scale and shape the future. In the fast-moving field of [Web3](/what-is-web3), a new class of investors, known as **crypto VCs**, has emerged. These professionals focus on identifying and financing high-potential projects within the [blockchain](/what-is-a-blockchain) and decentralized technology sectors.
 
 A career in Web3 VC represents a significant opportunity. It allows individuals to engage with leading innovators, influence the future of the internet, and play a role in significant projects. However, this sector is highly competitive. This guide outlines the key roles, necessary skills, and alternative pathways to becoming a Web3 investor.
@@ -53,3 +52,16 @@ The pathway to a Web3 VC position is rarely straightforward. Few individuals sec
 5. **Gain Founding or Operational Experience:** Having been on the other side of the investment table enhances an individual's perspective as an investor. Experience in a successful Web3 startup provides invaluable operational insights.
 
 A career in Web3 VC requires a sustained commitment to learning, relationship building, and ecosystem engagement. For passionate individuals, it offers a unique opportunity to influence the future of decentralized technology.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

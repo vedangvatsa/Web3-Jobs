@@ -244,22 +244,15 @@ Check the SDK you target. web3swift and EvmKit list iOS 13 and Swift 5.5 plus Xc
 **How does Swift compare to Kotlin for mobile Web3?**
 Both build native wallets. Swift covers iOS and macOS with Secure Enclave and DeviceCheck, Kotlin covers Android with StrongBox and Key Attestation. Cross platform Web3 SDKs like Coinbase CDP, Dynamic, and wallet infra like EvmKit often ship both Swift and Kotlin packages with parallel APIs. If you target both stores, expect to maintain Swift and Kotlin clients that share the same RPC and backend.
 
-## Sources to verify
+## Verifiable Primary Sources & References
 
-* swift.org front page and swift.org/install for language positioning, open source at github.com/swiftlang/swift, and install toolchains.
-* docs.swift.org/swift-book/documentation/the-swift-programming-language/ for language guide and standard library entry point.
-* swift.org/blog/announcing-swift-6/ for Swift 6 general availability on September 17, 2024, and swift.org/blog/swift-6.1-released/ for Swift 6.1 on March 31, 2025, plus github.com/swiftlang/swift-evolution CHANGELOG for Swift 6.2 on September 15, 2025 and Swift 6.3 on March 24, 2026.
-* developer.apple.com/documentation/cryptokit/ for CryptoKit and github.com/apple/swift-crypto for Swift Crypto on Linux and Windows via BoringSSL.
-* docs.21.dev/documentation/p256k/ for why CryptoKit P256 cannot sign Bitcoin or Nostr and need for P256K on secp256k1, plus ECDSA, Schnorr BIP-340, and MuSig2.
-* github.com/web3swift-team/web3swift README for features, SPM install from 3.0.0, requirements iOS 13.0 plus macOS 10.15 plus Xcode 12.5 plus Swift 5.5, BIP and EIP list, ABI, ENS, Infura, and Ganache at 8546.
-* github.com/argentlabs/web3.swift for Ethereum Swift API, SPM from 1.1.0, and alternative to web3swift.
-* github.com/horizontalsystems/EvmKit.Swift for native Swift EVM toolkit, chain support, and RxSwift integration.
-* github.com/zksync-sdk/zksync2-swift for ZKsync Era Swift SDK built on web3swift with ZkSyncClient and Wallet.
-* github.com/aptos-labs/aptos-swift-sdk for P0 plus P1 specs, minimums iOS 17 plus macOS 14 plus Swift 6 plus Xcode 16, Mnemonic and HD paths, and actor clients.
-* github.com/CorvidLabs/swift-algorand for Swift 6 Algorand SDK and platform support.
-* github.com/Concordium/concordium-swift-sdk for Concordium iOS 16 plus macOS 10.15 scope and wallet crypto via Rust bindings.
-* github.com/onflow/Flow-Wallet-Kit plus SecureEnclaveKey.swift for Secure Enclave P256 key type, non exportable privateKey nil, and KeychainStorage.
-* github.com/pichukov/swifty-kaspa for Secure Enclave P-256 envelope with ECIES, HKDF-SHA256, AES-GCM, device bound storage, and simulator fallback warning.
-* forums.swift.org/t/spacekit-the-first-ever-swift-smart-contract-framework/78159 for SpaceKit compiling Swift to WASM for SpaceVM and MultiversX.
-* medium.com/@sfxws2006/swift-evm-building-an-ethereum-virtual-machine-in-pure-swift for Swift EVM pure Swift implementation, gas and EIP-2929 handling.
-* github.com/coinbase/cdp-swift, dynamic.xyz/docs/swift, docs.crossmint.com/sdk-reference/wallets/swift, fabricbloc.com/docs/sdks/swift, and getpara.mintlify.app/v2/concepts/key-management for CDP Swift actor WalletsClient, Dynamic SDK singleton and Combine, Crossmint shared instance, FabricKit Secure Enclave MPC, and Para 2-of-2 DKLS19 MPC with P-256 passkey bridging to secp256k1.
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+4. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+10. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)

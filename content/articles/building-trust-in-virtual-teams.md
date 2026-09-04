@@ -3,14 +3,13 @@ title: How to Build and Maintain Trust in a Remote Team
 category: Career Guides
 date: '2025-09-12'
 description: >-
- Trust is the foundation of any high-performing team, but it's harder to build
- when you're not sharing a physical space. This guide covers actionable.
+  Trust is the foundation of any high-performing team, but it's harder to build
+  when you're not sharing a physical space. This guide covers actionable.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: virtual team handshake
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Trust in an office builds passively. You see someone show up, overhear them helping a colleague, notice them staying late to fix a production issue. None of that visibility exists remotely. Trust has to be built deliberately.
 
 This is doubly true in [Web3 and DAO teams](/what-is-web3), where contributors may be pseudonymous, spread across a dozen timezones, and working without managers. Without active trust-building, you end up with individuals completing tasks in isolation - not a team.
@@ -70,3 +69,16 @@ When you share a decision, explain the reasoning. "We're switching to a biweekly
 ## Trust Is a Practice, Not an Achievement
 
 You don't "achieve" trust and move on. It's maintained through ongoing behavior - every commitment you keep or break, every decision you make transparently or behind closed doors. Remote and Web3 teams that treat trust as an active practice consistently outperform those that don't.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

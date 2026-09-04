@@ -3,13 +3,12 @@ title: What is Rug Pull in Cryptocurrency Scams
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: crypto scam warning
 description: >-
- A 'rug pull' is a malicious scam where crypto developers abandon a project and
- run away with investors' funds. Learn how they work and the red flags to.
+  A 'rug pull' is a malicious scam where crypto developers abandon a project and
+  run away with investors' funds. Learn how they work and the red flags to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the fast-moving field of cryptocurrency, a "rug pull" stands out as one of the most prevalent and damaging scams. This term describes a scenario where developers of a seemingly legitimate project abruptly abandon it and abscond with investors' funds, leaving the project's [token](/what-is-a-token) completely worthless.
 
 Understanding the mechanics of rug pulls and recognizing warning signs is essential for anyone investing in the [Web3](/what-is-web3) space.
@@ -33,10 +32,23 @@ Despite the sophistication of some rug pulls, many exhibit common warning signs.
 |-----------------------------|--------------------------------------------------------------------------------------------------------------------------------------|
 | **Anonymous Team** | Developers operate under pseudonyms or remain anonymous without a proven track record. Public, reputable teams enhance accountability. |
 | **Lack of Audit** | The project's [smart contracts](/what-are-smart-contracts) lack audits from reputable **[security firms](/how-to-choose-a-smart-contract-auditor)**, increasing risk. |
-| **Unlocked Liquidity** | If liquidity is not "locked" in a smart contract, it raises significant concerns about the project's legitimacy. |
+| **open Liquidity** | If liquidity is not "locked" in a smart contract, it raises significant concerns about the project's legitimacy. |
 | **Vague Whitepaper** | A whitepaper filled with buzzwords and lacking technical detail or one that is plagiarized from other projects should raise alarms. |
 | **Unrealistic Returns** | Promises of "guaranteed" returns or excessively high returns typically indicate a scam. |
 | **Selling Restrictions** | In advanced scams, such as **[honeypots](/what-is-a-honeypot-scam-in-crypto)**, tokens are designed so only the developer can sell. Conduct a small test transaction before committing larger amounts. |
 | **Intense Hype** | Projects that emerge suddenly and are heavily promoted by anonymous accounts may be part of a coordinated pump-and-dump scheme. |
 
 Rug pulls exploit greed and the fear of missing out. By staying vigilant, checking for these fundamental red flags, and investing only what you can afford to lose, you can better protect yourself against these scams.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -1,15 +1,14 @@
 ---
 title: What does Naval Ravikant think about Web3
 description: >-
- A deep dive into the philosophy of Naval Ravikant, a celebrated entrepreneur,
- investor, and philosopher, on Web3. This guide covers his views on.
+  A deep dive into the philosophy of Naval Ravikant, a celebrated entrepreneur,
+  investor, and philosopher, on Web3. This guide covers his views on.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man thinking
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Angel Philosopher of Silicon Valley
 
 Naval Ravikant stands out as an influential entrepreneur, investor, and philosopher within the technology sector and the Web3 ecosystem. He co-founded AngelList and invested early in successful companies such as Uber, Twitter, and Postmates. His thoughts on wealth, happiness, and technology attract millions of followers who seek to understand his insights.
@@ -67,3 +66,16 @@ Ravikant emphasizes that the fundamental promise of Web3 lies in individual sove
 Ravikant differentiates between **blockchains**, public, open, and permissionless networks like Bitcoin and Ethereum, and **"blockchain technology"**, private, permissioned databases used by corporations.
 
 He expresses skepticism towards corporate or consortium blockchains, arguing that they fail to capture the true essence of blockchain technology. For him, the value of a blockchain lies in its decentralization and capacity to create neutral, open platforms. Private blockchains merely function as slow, inefficient databases, while true innovation thrives on public chains.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

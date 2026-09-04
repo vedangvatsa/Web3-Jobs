@@ -2,14 +2,13 @@
 title: 'Web3 Jobs in Bissau: A Guide to Guinea-Bissau''s Digital Frontier'
 data-ai-hint: bissau guinea bissau city
 description: >-
- A career guide to the emerging Web3 job market in Bissau. Explore the
- potential for blockchain technology in Guinea-Bissau, with a focus on
- financial.
+  A career guide to the emerging Web3 job market in Bissau. Explore the
+  potential for blockchain technology in Guinea-Bissau, with a focus on
+  financial.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Bissau, the capital of Guinea-Bissau, is leading digital opportunities. Despite being one of West Africa's least developed countries, it has specific challenges and advantages for the emergence of [Web3](/what-is-web3). The core principles of decentralization, financial inclusion, and open access can significantly transform the socio-economic fabric of the region. Although the Web3 ecosystem in Bissau is still in its infancy, a growing number of individuals and organizations are beginning to explore its potential.
 
 This guide outlines a practical pathway for establishing a [Web3 career](/web3-jobs-for-beginners) in Bissau and Guinea-Bissau. It highlights opportunities for social impact, the necessary skills to thrive in a developing environment, and the primary route of engaging in [remote work](/remote-work-in-web3) to participate in the global decentralized economy.
@@ -189,3 +188,16 @@ A: The greatest risk lies in not starting or quitting prematurely. Persistence i
 
 **Q: Can I start a Web3 company in Bissau?** 
 A: Yes. Consider applying for global grants and focusing on international users while operating from Bissau to maximize your runway.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

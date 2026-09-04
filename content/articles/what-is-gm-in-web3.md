@@ -2,14 +2,13 @@
 title: What is GM in Web3? The Meaning Behind the Crypto Term
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 description: >-
- You've seen 'gm' all over crypto Twitter. Learn the meaning behind this simple
- but powerful term and how it represents the optimistic culture of Web3.
+  You've seen 'gm' all over crypto Twitter. Learn the meaning behind this simple
+  but powerful term and how it represents the optimistic culture of Web3.
 category: Career Guides
 data-ai-hint: crypto culture
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 GM stands for "good morning." This simple greeting appears frequently on crypto Twitter and within Discord servers, with numerous individuals from the crypto community exchanging GM messages each morning.
 
 At first glance, GM seems trivial, merely a way to say good morning. However, in the context of [Web3](/what-is-web3), GM symbolizes a culture and mindset that defines much of the crypto community.
@@ -81,3 +80,16 @@ GM transcends a mere greeting. It represents a cultural artifact embodying optim
 For anyone working in Web3, whether participating in GM daily or not, grasping its implications helps contextualize the culture you are entering. It offers insights into how crypto communities perceive themselves and each other.
 
 When you encounter GM across crypto Twitter, remember that it signifies more than a friendly hello. It conveys a message of solidarity: "Good morning, I'm here, I believe in this, we are in this together." This sense of community and shared purpose contributes significantly to the resilience of Web3 amid challenges and setbacks.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

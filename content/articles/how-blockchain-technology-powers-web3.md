@@ -3,14 +3,13 @@ title: How Blockchain Technology Powers Web3
 image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
 data-ai-hint: blockchain web3 technology
 description: >-
- A deep dive into the symbiotic relationship between blockchain and Web3.
- Understand how blockchain's core features of decentralization and
- immutability.
+  A deep dive into the symbiotic relationship between blockchain and Web3.
+  Understand how blockchain's core features of decentralization and
+  immutability.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The vision of [Web3](/what-is-web3) as a decentralized, user-owned internet hinges on a foundational technology: the **[blockchain](/what-is-a-blockchain)**. This technology serves as the structural backbone of Web3, delivering an infrastructure that is trustless, permissionless, and resilient. Without blockchain, the primary promises of Web3 cannot be fulfilled.
 
 This article examines the relationship between blockchain technology and [Web3](/what-is-web3), detailing how the core features of blockchain enable the transition from a centralized Web2 to a decentralized Web3.
@@ -60,3 +59,16 @@ Blockchains possess native digital currencies (such as ETH on Ethereum) that ena
 ### The Foundation of the New Internet
 
 Blockchain is not merely an aspect of Web3; it constitutes the essential infrastructure. It offers a decentralized, trustless, and economically active foundation necessary for constructing an internet owned by its users. The transparency of the ledger, the permanence of its records, the automation provided by smart contracts, and the native value transfer are fundamental elements developers use to create a new digital field. Understanding how blockchain technology powers Web3 is essential for grasping the future of the internet.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

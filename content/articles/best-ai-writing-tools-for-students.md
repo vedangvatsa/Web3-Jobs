@@ -9,7 +9,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 AI writing tools can help students at specific stages of an assignment: turning a vague topic into a clear thesis, organizing an outline, tightening sentences, and formatting citations. They work best when you remain the author and use the tool to support your thinking. This guide covers four tools that are widely used in 2026, what each one actually does, what it costs, where it helps, where it falls short, and how to use it without violating course rules.
 
 ## How we chose these tools
@@ -241,3 +240,16 @@ Follow the ban for that course, even if other courses allow limited use. Do not 
 
 **Are AI-generated citations trustworthy?**
 No. AI tools frequently produce citations with wrong years, journal names, or page numbers, or citations to papers that do not exist. Use AI to format a citation only after you have confirmed the source exists and you have read it. Always check a citation against the publisher site or library database before you include it.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

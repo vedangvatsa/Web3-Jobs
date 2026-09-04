@@ -3,13 +3,12 @@ title: What is Proof of Humanity Protocol
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: person human identity
 description: >-
- Proof of Humanity is a system that combines a social verification web of trust
- with a video submission process to create a blockchain-based registry of.
+  Proof of Humanity is a system that combines a social verification web of trust
+  with a video submission process to create a blockchain-based registry of.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In a digital environment where individuals can easily create numerous fake accounts, establishing systems that ensure "one person, one vote" and equitable resource distribution presents significant challenges. This issue is commonly referred to as the **"sybil attack" problem**. **Proof of Humanity (PoH)** is a new social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that seeks to address this challenge.
 
 PoH combines a web of trust, video verification, and [token](/what-is-a-token)-curated registries to create a definitive list of unique, verified individuals. The primary aim is to establish a sybil-resistant identity that applications, such as [DAOs](/what-is-a-dao), can use for fair governance and the distribution of Universal Basic Income (UBI).
@@ -70,3 +69,16 @@ A: Yes, this is the recommended approach. You do not need additional hours; inst
 
 **Q: What resources can help me deepen my understanding?** 
 A: Engage with related articles for targeted insights, and consider finding mentors or peer groups who excel in this area. Observing their practices can provide insights beyond written resources. Participating in Web3 communities on platforms like Discord and Telegram can also connect you with practitioners willing to share their experiences.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

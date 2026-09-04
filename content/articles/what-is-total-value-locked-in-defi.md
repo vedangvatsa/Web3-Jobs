@@ -3,13 +3,12 @@ title: What is Total Value Locked in DeFi
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: defi crypto vault
 description: >-
- Total Value Locked (TVL) is a key metric used to measure the size and health
- of a DeFi protocol. It represents the total value of all assets deposited by.
+  Total Value Locked (TVL) is a key metric used to measure the size and health
+  of a DeFi protocol. It represents the total value of all assets deposited by.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Total Value Locked (TVL) serves as a vital metric for assessing the growth, adoption, and overall health of Decentralized Finance (DeFi) protocols. TVL quantifies the total value of cryptocurrency assets that users have deposited, or "locked," into a protocol's smart contracts. This figure reflects the capital currently under the protocol's management.
 
 For instance, in a lending protocol like Aave, the TVL represents the cumulative value of all assets deposited by lenders. In the case of a decentralized exchange (DEX) such as Uniswap, it signifies the total value of assets within its liquidity pools.
@@ -49,3 +48,16 @@ While TVL is a valuable metric, it has several limitations that warrant caution:
 - **Double Counting Issue**: Capital can be counted multiple times within the overall DeFi TVL as it circulates through various protocols. For example, depositing ETH into Lido for stETH and then using that stETH in Aave causes the same ETH to be counted in both protocols' TVLs.
 
 TVL serves as a foundational metric for assessing DeFi protocols. However, analysts should combine it with other indicators such as protocol revenue, daily active users, and the TVL-to-market capitalization ratio to gain a thorough understanding of a project's viability and long-term prospects.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [DeFiLlama Open Source Financial Metrics API](https://defillama.com/docs/api)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

@@ -1,14 +1,13 @@
 ---
 title: What is Price Impact in DEX Trading?
 description: >-
- A clear guide to understanding price impact on decentralized exchanges (DEXs),
- why it occurs, how it differs from slippage, and how to manage it for.
+  A clear guide to understanding price impact on decentralized exchanges (DEXs),
+  why it occurs, how it differs from slippage, and how to manage it for.
 category: Educational
 data-ai-hint: price impact
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding Price Impact in DEX Trading
 
 Price impact represents the difference between the current market price of an asset and the effective price you pay when executing a trade on a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX) employing an Automated Market Maker (AMM). This discrepancy arises because the size of your trade influences the asset's price, particularly in low liquidity environments.
@@ -111,3 +110,16 @@ No, price impact is inherently negative. A significant buy order increases the p
 4. **Implement Changes Gradually**: Avoid overwhelming yourself with simultaneous changes. Focus on small, incremental improvements, tracking outcomes to refine your strategy.
 
 5. **Continuously Monitor and Adapt**: Regularly evaluate your trading performance. Use feedback to make necessary adjustments, building a mindset geared toward continuous improvement.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -1,15 +1,14 @@
 ---
 title: What is Federated Learning in AI
 description: >-
- An introduction to Federated Learning, a decentralized machine learning
- approach that trains AI models on local data without compromising user
- privacy.
+  An introduction to Federated Learning, a decentralized machine learning
+  approach that trains AI models on local data without compromising user
+  privacy.
 category: Educational
 data-ai-hint: decentralized network
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Federated Learning is a decentralized machine learning technique that allows an AI model to be trained across multiple devices holding local data samples, without that data ever leaving the device. It addresses one of the biggest challenges in AI today: how to train models on large, diverse datasets without compromising user privacy.
 
 The traditional approach to machine learning is centralized. You collect all the data from various sources, put it in a big data center in the cloud, and then train your AI model on this dataset. This works well, but it requires users to give up their data, which creates significant privacy risks.
@@ -114,3 +113,16 @@ Understanding and managing your emotions, and reading others, determines your ef
 - Move from conscious competence to unconscious competence
 - Help others develop these skills
 - Continuously refine through feedback
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

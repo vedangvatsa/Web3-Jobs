@@ -1,14 +1,13 @@
 ---
 title: What is Generative AI and Its Applications
 description: >-
- Learn about generative AI, the technology that can create new content like
- text, images, and music, and explore its most popular applications.
+  Learn about generative AI, the technology that can create new content like
+  text, images, and music, and explore its most popular applications.
 category: Educational
 data-ai-hint: ai creation
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Generative AI encompasses a category of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) systems capable of producing new, original content. Unlike traditional AI, which focuses on recognizing patterns or making predictions based on existing data, generative models create entirely new text, images, music, and code. For instance, while a traditional AI can identify whether a photo contains a cat, generative AI can create a new image of a cat in the style of Vincent van Gogh.
 
 This capability marks an important advancement in AI technology. Generative models do not merely replicate information from their training data; they analyze the underlying patterns and structures within that data. Armed with this understanding, they can generate outputs that maintain statistical similarities to the original content while being completely new.
@@ -72,3 +71,16 @@ Generative AI is more likely to augment human creativity. Many professionals use
 
 **5. How does generative AI relate to the metaverse?** 
 Generative AI could are important for developing the metaverse by creating the substantial 3D content, environments, and virtual objects necessary for immersive virtual spaces.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

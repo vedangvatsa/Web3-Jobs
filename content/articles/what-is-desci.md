@@ -3,13 +3,12 @@ title: What is DeSci? A Guide to Decentralized Science
 image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
 data-ai-hint: decentralized science
 description: >-
- Discover how blockchain is decentralizing scientific research and creating new
- funding models.
+  Discover how blockchain is decentralizing scientific research and creating new
+  funding models.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The scientific research field faces challenges that hinder its effectiveness. Centralized funding structures limit opportunities for new researchers outside elite institutions. Many research papers remain inaccessible due to high paywalls, stifling the dissemination of knowledge. Collaboration is often restricted by institutional barriers, leading to duplicated efforts and missed opportunities for joint discoveries. the peer review process is slow, with critical findings stalled in lengthy review cycles. The emphasis on publication counts for career advancement frequently prioritizes quantity over impactful research. These systemic issues create an environment where scientific progress is often hampered.
 
 **Decentralized Science (DeSci)** seeks to address these challenges by promoting a more open, equitable, and transparent scientific ecosystem. By using Web3 technologies, including decentralized autonomous organizations (DAOs), non-fungible tokens (NFTs), and decentralized storage, DeSci aims to create a public infrastructure that enhances scientific funding, peer review, and knowledge sharing.
@@ -91,3 +90,16 @@ NFTs and smart contracts offer new ways to manage intellectual property in resea
 - Shared commercialization rights among multiple stakeholders.
 - New funding mechanisms based on research outcomes.
 - Tracking and rewarding contributions throughout the research lifecycle.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

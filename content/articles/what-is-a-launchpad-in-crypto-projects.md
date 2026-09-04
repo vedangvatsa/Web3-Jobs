@@ -3,14 +3,13 @@ title: What is a Launchpad in Crypto Projects
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: rocket launch crypto
 description: >-
- A crypto launchpad is a platform that helps new blockchain projects raise
- capital by selling their initial tokens to the public. This guide explains
- how.
+  A crypto launchpad is a platform that helps new blockchain projects raise
+  capital by selling their initial tokens to the public. This guide explains
+  how.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the fast-moving field of [Web3](/what-is-web3), new blockchain projects require effective strategies to raise capital and distribute their initial [tokens](/what-is-a-token) to potential investors. A **crypto launchpad**, often referred to as an IDO (Initial [DEX](/what-is-a-decentralized-exchange-dex) Offering) platform, serves as a critical platform for this process. It connects new projects with a community of early-stage investors seeking to participate from the outset.
 
 ### Purpose of a Launchpad
@@ -46,3 +45,16 @@ Despite their advantages, launchpads present notable risks:
 - **Launchpad Token Requirement:** The necessity to hold the launchpad's token introduces additional risk, as its value can fluctuate significantly.
 
 Launchpads significantly influence capital formation in the Web3 space. They provide broader access to early-stage investments but also contribute to a speculative environment. Investors should conduct thorough research on projects and not rely solely on a launchpad's reputation.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)

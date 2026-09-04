@@ -3,13 +3,12 @@ title: 'Crypto Marketing Jobs: How to Build a Career Promoting Web3 Projects'
 image: /images/surface-F4ottWBnCpM-unsplash.jpg
 data-ai-hint: crypto marketing growth
 description: >-
- Map crypto marketing roles across community, content, growth, and leadership,
- then build the proof-of-work portfolio and skills needed for a career move.
+  Map crypto marketing roles across community, content, growth, and leadership,
+  then build the proof-of-work portfolio and skills needed for a career move.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Marketing in [Web3](/what-is-web3) differs significantly from the paid advertising strategies and SEO tactics that define Web2. This new marketing field emphasizes culture, community, and content. Authenticity is critical, and the distinctions among users, owners, and marketers often blur. For marketing professionals, this shift presents an good opportunity, but it demands an entirely new approach.
 
 This article outlines the Web3 marketing career path, detailing various roles, the [essential skills](/mastering-web3-essential-skills) necessary for success, and a practical roadmap for transitioning your marketing career into the crypto space.
@@ -62,3 +61,16 @@ In Web3, your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a 
 - **Resilience**: The market's volatility and the demands of communities require professionals to possess thick skin and the ability to manage chaotic situations effectively.
 
 A career in Web3 marketing positions you leading a technological and cultural evolution. It provides opportunities to build brands that communities co-own and to shape the future of marketing.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

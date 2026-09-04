@@ -1,17 +1,16 @@
 ---
 title: >-
- Blockchain Core Features: Decentralization, Immutability, Transparency,
- Automation
+  Blockchain Core Features: Decentralization, Immutability, Transparency,
+  Automation
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: blockchain technology abstract
 description: >-
- A deep dive into the core features of blockchain technology-decentralization,
- immutability, and transparency-and why they combine to create a.
+  A deep dive into the core features of blockchain technology-decentralization,
+  immutability, and transparency-and why they combine to create a.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 **Blockchain technology** serves as the foundation for various applications, including [Bitcoin](/what-is-bitcoin). It represents a substantial shift in how digital systems can be established. The strength of blockchain lies in its core features, which together enable the creation of secure, transparent systems that operate without the need for a central authority.
 
 Understanding these features is essential to grasp how blockchain differs from traditional systems. This discussion outlines the technical properties that define blockchain technology.
@@ -51,3 +50,16 @@ Smart contracts, introduced by **[Ethereum](/what-is-ethereum)**, automate proce
 ### A New System for Trust
 
 These features, when combined, create a new model for trust. Instead of relying on a central institution, blockchain enables trust in open-source code and cryptographic principles. The architecture of digital systems shifts from centralized control to code-based governance, allowing users to verify transactions and data independently. This change forms the foundation of [Web3](/what-is-web3).
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

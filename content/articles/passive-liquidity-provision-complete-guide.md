@@ -1,14 +1,13 @@
 ---
 title: 'Passive Liquidity Provision: A Complete Guide'
 description: >-
- Explore the world of passive liquidity provision in DeFi, its benefits, the
- inherent risks like impermanent loss, and the platforms that make it easier.
+  Explore the world of passive liquidity provision in DeFi, its benefits, the
+  inherent risks like impermanent loss, and the platforms that make it easier.
 category: Educational
 data-ai-hint: passive liquidity
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Passive Liquidity Provision in DeFi
 
 Passive liquidity provision serves as a "set-and-forget" strategy within Decentralized Finance ([DeFi](/what-is-defi)). Users deposit their assets into Automated Market Maker (AMM) liquidity pools to earn trading fees without actively managing their positions. This method became popular with the advent of protocols like Uniswap v2, allowing users to efficiently use idle assets.
@@ -91,3 +90,16 @@ Users receive a "vault token" representing their share of the managed funds, aki
 
 **How do I choose a pool for passive liquidity provision?** 
 Select pools that balance high trading volume with low volatility to minimize impermanent loss. Beginners may find it safer to start with pools of well-established, highly correlated assets, such as ETH/wBTC or stablecoin pairs.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

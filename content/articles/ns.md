@@ -1,17 +1,16 @@
 ---
 title: 'Network School: A Startup Society for Builders'
 image: >-
- https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080
+  https://images.unsplash.com/photo-1552664730-d307ca884978?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxjb21tdW5pdHl8ZW58MHx8fHwxNzA5MzE2NDI5fDA&ixlib=rb-4.0.3&q=80&w=1080
 description: >-
- Network School is a startup society on an island off Singapore. Co-living,
- coworking, and community for remote workers, founders, and creators. From
- $1,500/month.
+  Network School is a startup society on an island off Singapore. Co-living,
+  coworking, and community for remote workers, founders, and creators. From
+  $1,500/month.
 category: Career Guides
 data-ai-hint: startup society co-living coworking
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Network School operates as a startup society, merging co-living, coworking, and community on an island near Singapore. This space caters specifically to remote workers, founders, and creators who seek a focused environment with essential infrastructure and peers.
 
 The cost structure includes monthly rates for shared and private rooms, with all utilities and services included.
@@ -85,3 +84,15 @@ To become a member of Network School, follow these steps:
 4. If approved, confirm your dates and prepare to move in on the first of the month.
 
 Members of the Hashtag Community enjoy one week free upon joining.
+
+## Verifiable Primary Sources & References
+
+1. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

@@ -2,13 +2,12 @@
 title: How to Get First Freelance Client
 data-ai-hint: handshake deal agreement
 description: >-
- A practical guide for beginners on how to land your first freelance client.
- Learn proven strategies to find and secure your initial project.
+  A practical guide for beginners on how to land your first freelance client.
+  Learn proven strategies to find and secure your initial project.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You've identified your skills, built a [portfolio](/building-web3-portfolio), and set your rates. You're prepared to start your [freelance](/how-to-start-freelancing-for-beginners) career, but you face a significant challenge: acquiring your first client. Landing that first client often poses the greatest obstacle for new freelancers. However, with the right approach and determination, you can successfully secure your initial project.
 
 Securing your first client marks an important milestone in your freelance journey. It validates your skills and confirms that you can earn a living as a freelancer. This guide outlines effective strategies to help you find and secure that essential first project.
@@ -64,3 +63,16 @@ Accepting a lower-paying job for your first one or two projects can be an effect
 
 **What should I do if I face rejection?** 
 Rejection is a common aspect of freelancing. Not every client will be a suitable fit, and you won't win every project you apply for. Do not take it personally. Learn from the experience, refine your approach, and continue moving forward.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

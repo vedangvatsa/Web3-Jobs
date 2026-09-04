@@ -1,15 +1,14 @@
 ---
 title: What is a Layer 3 in Blockchain?
 description: >-
- A look at Layer 3 solutions, which build on top of Layer 2s to offer even
- greater scalability and customization for specific applications.
+  A look at Layer 3 solutions, which build on top of Layer 2s to offer even
+  greater scalability and customization for specific applications.
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 category: Educational
 data-ai-hint: layer network
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The blockchain ecosystem is akin to a growing city, with various layers representing different components of infrastructure. At the foundation, Layer 1 (L1) serves as the core network, exemplified by Ethereum. This layer ensures security and decentralization but often faces congestion and high transaction costs, similar to main city roads during peak hours.
 
 To alleviate these issues, developers introduced Layer 2 (L2) solutions, functioning like expressways within the city. Examples of L2s include Arbitrum, Optimism, and zkSync. These layers manage a significant volume of transactions efficiently and at lower costs, bundling activities and settling them on the primary L1 chain to benefit from its security. This innovation marks a substantial advancement in scalability.
@@ -86,3 +85,16 @@ The Layer 3 ecosystem is still developing, with projects like the Arbitrum Orbit
 
 **5. Can a Layer 3 have its own token?** 
 Yes, it can use ETH or the parent L2's native token for transaction fees. However, many appchains will likely issue their own tokens for governance, staking, or fees within their network, enabling the creation of micro-economies.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+5. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+6. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

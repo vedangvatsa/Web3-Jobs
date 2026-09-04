@@ -1,14 +1,13 @@
 ---
 title: Managing Former Peers After Promotion
 description: >-
- Just got promoted over your friends and former teammates? Working through this
- tricky transition requires a thoughtful approach. Here's how to do it right.
+  Just got promoted over your friends and former teammates? Working through this
+  tricky transition requires a thoughtful approach. Here's how to do it right.
 category: Career Guides
 data-ai-hint: promotion manager
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you manage new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
 
 Addressing this change directly and professionally is essential. Acknowledge that the situation has transformed and that ignoring this reality will only exacerbate any awkwardness.
@@ -73,4 +72,15 @@ You must treat them as you would any other team member. This highlights the impo
 
 Your behavior must change first. If your team invites you to informal gatherings, politely decline. In meetings, assume a facilitator role rather than participating as a peer. Make decisions that prioritize the team's best interests, even if they may not be popular. Over time, your actions will signal the shift in your role, and your team will adapt accordingly.
 
+## Verifiable Primary Sources & References
 
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

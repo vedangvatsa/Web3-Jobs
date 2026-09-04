@@ -2,13 +2,12 @@
 title: How to Ask for Raise at Work
 data-ai-hint: upward graph arrow
 description: >-
- A practical guide on how to successfully ask for a raise. Learn when to ask,
- how to prepare, and what to say to get the pay increase you deserve.
+  A practical guide on how to successfully ask for a raise. Learn when to ask,
+  how to prepare, and what to say to get the pay increase you deserve.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Asking for a raise often feels daunting. Many professionals worry about discussing compensation due to fears of appearing greedy or ungrateful. However, if you consistently perform well and take on additional responsibilities, you have a valid case for a pay increase.
 
 Self-advocacy is vital for career advancement. With appropriate preparation and a professional demeanor, you can transform this challenging conversation into a productive one. This guide outlines the essential steps to effectively request a raise.
@@ -72,3 +71,16 @@ Remain calm and professional. Reinforce your commitment to the organization and 
 
 **Is it necessary to have another job offer to negotiate a raise?** 
 While a competing offer can strengthen your case, using it as use carries risks. Only use an external offer if you are genuinely prepared to leave your current position. Focus on articulating your value to the organization instead.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

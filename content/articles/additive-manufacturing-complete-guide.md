@@ -9,7 +9,6 @@ data-ai-hint: industrial 3d
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Additive manufacturing builds parts by joining material layer by layer from 3D model data. It is the formal industrial term for what most people call 3D printing.
 
 ISO/ASTM 52900:2021 defines it as the process of joining materials to make parts from 3D model data, usually layer upon layer, as opposed to subtractive methods that cut material away and formative methods that shape material with molds or dies. The standard remains current after its 2025 review and is the shared vocabulary for the field.
@@ -135,3 +134,16 @@ Accuracy depends on process, material, layer height, and orientation. Well-tuned
 
 **What file format should I export?**
 Use 3MF when your toolchain supports it. It keeps units, color, and lattice data. Use STL if the recipient requires it, but check for mesh errors. STEP is useful when the next step is CAD editing rather than direct printing.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

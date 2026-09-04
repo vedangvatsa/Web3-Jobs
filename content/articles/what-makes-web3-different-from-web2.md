@@ -3,13 +3,12 @@ title: What Makes Web3 Different from Web2?
 image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 data-ai-hint: web2 web3 difference
 description: >-
- A deep dive into the fundamental differences between Web2 and Web3. Explore
- the shift from centralized platforms to decentralized protocols, and what it.
+  A deep dive into the fundamental differences between Web2 and Web3. Explore
+  the shift from centralized platforms to decentralized protocols, and what it.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The internet has progressed through distinct phases, each marked by unique architectural and philosophical foundations. The movement from Web1, characterized by static, read-only content, to Web2, which introduced interactivity and social engagement, was significant. However, the transition to [Web3](/what-is-web3) signifies a more profound transformation. This shift is not merely an update; it represents a fundamental reconfiguration of the internet's power dynamics.
 
 Understanding the differences between Web2 and Web3 is vital for grasping the potential of a decentralized internet. The following sections will outline the key distinctions in architecture, data ownership, economic models, and identity that define this new era.
@@ -61,3 +60,16 @@ Online identity represents another significant battleground between Web2 and Web
 ### A More Equitable Internet
 
 Web3 encompasses more than just technological advancements; it represents a philosophical and political movement. It responds to the challenges of a centralized internet, such as data monopolies, censorship, and misaligned incentives within the attention economy. By using blockchain technology to establish a decentralized foundation, Web3 seeks to create a more open, equitable, and user-owned internet. This transition is complex, yet the fundamental differences in architecture and values signal one of the most significant shifts in internet history.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

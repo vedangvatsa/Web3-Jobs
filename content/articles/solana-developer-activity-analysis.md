@@ -1,14 +1,13 @@
 ---
 title: An Analysis of Solana Developer Activity
 description: >-
- Solana has emerged as a major contender in the blockchain space. This analysis
- dives into the on-chain data to explore the trends in developer activity.
+  Solana has emerged as a major contender in the blockchain space. This analysis
+  dives into the on-chain data to explore the trends in developer activity.
 category: Technology Deep Dives
 data-ai-hint: blockchain analytics
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Solana Developer Activity: An On-Chain Analysis
 
 Developer activity serves as an important metric for evaluating the long-term viability and growth potential of Layer 1 blockchain ecosystems. A strong developer community signals future innovation, expanded application development, and increased user adoption. Solana, recognized for its high throughput and low transaction costs, has garnered considerable interest from developers. This analysis examines on-chain data and developer metrics to provide insight into Solana's developer ecosystem and the trends that shape its trajectory.
@@ -74,3 +73,16 @@ This development holds considerable implications:
 - **Decentralization Progress**: The establishment of multiple independent teams developing and maintaining validator clients represents a substantial advancement for the decentralization of the core protocol.
 
 The successful launch of Firedancer could act as a catalyst for the Solana developer ecosystem, providing a more reliable platform for development.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+7. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+8. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+10. [Solana Core Architecture Documentation](https://docs.solana.com/)

@@ -3,13 +3,12 @@ title: 'Beyond Ownership: Tokenizing Rights and Privileges'
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: digital rights key
 description: >-
- NFTs can represent more than just ownership. This article explores how Web3 is
- using tokens to represent access rights, governance privileges, and other.
+  NFTs can represent more than just ownership. This article explores how Web3 is
+  using tokens to represent access rights, governance privileges, and other.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The initial phase of the [NFT](/what-are-nfts) boom focused on a straightforward yet impactful concept: tokenizing ownership of digital assets. An NFT served as a deed or title for digital art or collectibles. However, this perspective only scratches the surface of what blockchain technology can offer. The true potential of [blockchain](/what-is-a-blockchain) [tokens](/what-is-a-token) extends beyond ownership to encompass a spectrum of rights and privileges.
 
 This shift represents a fundamental change. We are transitioning from static deeds to dynamic, programmable credentials that grant permissions, verify entitlements, and define relationships. The concept of "tokenizing rights" serves as a foundational element for a more functional [Web3](/what-is-web3), establishing clear mechanisms for membership, governance, and access control. This article examines the field of tokenized rights and its practical implications for developers and users.
@@ -70,3 +69,16 @@ This evolution opens up vast possibilities for product managers and developers.
 ### The Future of Tokenized Rights
 
 Tokenizing rights and privileges represents a significant evolution in the NFT concept. This shift moves us from static collectibles to a field of dynamic, programmable, and user-owned access control. By transforming intangible rights into tradable and composable on-chain assets, Web3 lays the groundwork for more advanced economies, engaging communities, and a user-centric internet. For developers, the critical question transitions from "What can users own?" to "What can users *do*?" The answers will shape the next generation of decentralized applications.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

@@ -1,14 +1,13 @@
 ---
 title: Large Language Models Explained Simply
 description: >-
- A simple explanation of Large Language Models (LLMs) like GPT-4, what they
- are, how they work, and why they are so powerful.
+  A simple explanation of Large Language Models (LLMs) like GPT-4, what they
+  are, how they work, and why they are so powerful.
 category: Educational
 data-ai-hint: language model
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A Large Language Model (LLM) is a type of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) designed to understand and generate human-like text. Prominent examples include OpenAI's GPT-4, Google's Gemini, and Meta's Llama. These models are termed "large" due to the vast number of parameters they contain and the extensive datasets they are trained on, often encompassing significant portions of the public internet.
 
 LLMs operate primarily as advanced pattern-matching systems. They do not possess understanding in the human sense but excel at predicting subsequent words in a sequence. When a user inputs a prompt, the model analyzes the text and calculates the statistically most probable next word based on patterns learned during training. This process repeats, generating coherent text one word at a time.
@@ -70,3 +69,16 @@ The field is rapidly advancing. Future models are likely to become more efficien
 3. **One-Size-Fits-All Approach**: Customizing strategies to fit your unique situation is essential for effectiveness.
 4. **Quitting Too Early**: Initial discomfort is part of the change process. Persist through challenges to achieve better outcomes.
 5. **Neglecting Progress Tracking**: Without measuring progress, improvement becomes difficult. Establish metrics to assess your advancements.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

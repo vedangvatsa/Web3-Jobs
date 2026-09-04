@@ -1,17 +1,16 @@
 ---
 title: 'Web3 Jobs in the UK: A Guide to the British Crypto Scene'
 image: >-
- https://images.unsplash.com/photo-1533929736458-ca588d08c8be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx1a3xlbnwwfHx8fDE3MTY0MjAwNDd8MA&lib=rb-4.0.3&q=80&w=1080
+  https://images.unsplash.com/photo-1533929736458-ca588d08c8be?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHx1a3xlbnwwfHx8fDE3MTY0MjAwNDd8MA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: uk city skyline
 description: >-
- Your career guide to the UK's Web3 job market. Explore London's role as a
- global fintech hub, learn about in-demand skills, and get insights into
- typical.
+  Your career guide to the UK's Web3 job market. Explore London's role as a
+  global fintech hub, learn about in-demand skills, and get insights into
+  typical.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The United Kingdom, particularly London, stands as a leading global center for finance and technology. This positioning has established the UK as an important hub for the [Web3](/what-is-web3) industry. The country benefits from a rich pool of financial and technical talent, a active venture capital environment, and a regulatory framework that is changing. Professionals aspiring to build a career in Web3 will find numerous opportunities, especially in areas like Decentralized Finance ([DeFi](/what-is-defi)) and institutional-grade crypto infrastructure.
 
 This guide offers a complete overview of the [Web3 job](/web3-jobs-for-beginners) market in the UK, addressing key sectors, in-demand roles, salary expectations, and strategies to prepare for success in this fast-moving field.
@@ -54,3 +53,16 @@ The UK boasts some of the highest Web3 salaries globally, second only to the Uni
 ### Finding a UK Web3 Job
 
 For the latest roles in one of the world's leading financial and crypto hubs, explore our [Web3 job board](/jobs). The UK provides a unique environment for professionals eager to work leading finance and decentralized technology.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

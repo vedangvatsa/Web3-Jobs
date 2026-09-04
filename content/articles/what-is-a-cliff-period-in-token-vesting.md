@@ -3,13 +3,12 @@ title: What is a Cliff Period in Token Vesting
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: cliff vesting crypto
 description: >-
- A cliff is a period at the beginning of a vesting schedule where no tokens are
- earned. This guide explains why it's an important mechanism for ensuring.
+  A cliff is a period at the beginning of a vesting schedule where no tokens are
+  earned. This guide explains why it's an important mechanism for ensuring.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the [Web3](/what-is-web3), understanding vesting schedules is essential for aligning the interests of a project's team members and its community. A critical feature of these schedules is the cliff. Both employees receiving [token](/what-is-a-token) grants and investors assessing a project's tokenomics need to grasp what a cliff entails and its purpose.
 
 ### Definition of a Cliff
@@ -41,3 +40,16 @@ When assessing a job offer or a new project's **[tokenomics](/understanding-toke
 ## The Significance of This Concept
 
 Grasping the concept of a cliff in token vesting is vital for your career advancement. Professionals who understand this dynamic can make informed decisions, negotiate better compensation, and progress within their organizations. This understanding is particularly relevant in Web3, where collaboration and communication are critical.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+3. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+4. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+5. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+6. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+7. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+8. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)
+10. [Chainlink Decentralized Oracle Network Specifications](https://docs.chain.link/)

@@ -1,16 +1,15 @@
 ---
 title: 'Solidity for Beginners: Your First Smart Contract'
 image: >-
- https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1595675024853-0f3ec9098ac7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- A step-by-step tutorial for beginners on how to write, compile, and deploy
- your very first Solidity smart contract. Learn the fundamental concepts of the
- most popular blockchain programming language.
+  A step-by-step tutorial for beginners on how to write, compile, and deploy
+  your very first Solidity smart contract. Learn the fundamental concepts of the
+  most popular blockchain programming language.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 So, you want to become a [Web3](/what-is-web3) developer. You've heard about the space of decentralized applications (dApps), [DeFi](/what-is-defi), and [NFTs](/what-are-nfts), and you're ready to start building. The journey for most aspiring [blockchain](/what-is-a-blockchain) developers begins with one language: [Solidity](/best-programming-languages-for-blockchain-development). As the primary language for programming [smart contracts](/what-are-smart-contracts) on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains, Solidity is the key that opens the door to Web3 development.
 
 But where do you start? The world of smart contracts can seem intimidating, with its talk of gas fees, immutability, and the Ethereum Virtual Machine (EVM). This guide is designed to cut through the complexity and provide a step-by-step introduction to Solidity. We'll walk you through the process of setting up your development environment, explain the core concepts of the language, and guide you in writing, compiling, and deploying your very first, simple smart contract. By the end of this tutorial, you'll have a foundational understanding of Solidity and a tangible project to show for it.
@@ -190,3 +189,15 @@ contract SimpleStorage {
 *Note: I've added a `retrieve` function and some comments (`@notice`, `@dev`) which are part of a documentation standard called NatSpec. This is a good habit to get into early! The `view` keyword in the `retrieve` function means it only reads from the blockchain state and doesn't modify it, so it doesn't cost any gas to call.*
 
 This simple contract is the "Hello, World!" of Web3. From here, you can explore more complex data types, function modifiers, and contract interactions. But every complex DeFi protocol or NFT marketplace is built upon these same core principles: storing state and defining functions to change that state according to a set of rules. Your journey as a Web3 developer has officially begun.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

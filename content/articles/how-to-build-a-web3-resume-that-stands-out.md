@@ -3,12 +3,13 @@ title: How to Build a Web3 Resume That Stands Out
 image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
 data-ai-hint: resume cv job
 description: >-
-  A practical guide to writing a Web3 resume that gets you hired. Learn how to structure proof of work, on-chain credentials, and GitHub links so hiring managers can verify you in minutes.
+  A practical guide to writing a Web3 resume that gets you hired. Learn how to
+  structure proof of work, on-chain credentials, and GitHub links so hiring
+  managers can verify you in minutes.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A Web3 resume is a one to two page document that links your skills to verifiable proof you can click through: GitHub repos, deployed contracts on Etherscan, governance votes, dashboards, and audit results. Hiring managers use it to understand your trajectory and to find your proof of work fast.
 
 This guide explains how that evaluation works, what to include for technical and non-technical roles, how to format for both humans and ATS, and what mistakes cause instant rejection.
@@ -127,7 +128,7 @@ This deserves its own block for security roles and is valuable for any Solidity 
 - Platform: Code4rena, Sherlock, Cantina, Immunefi, Secureum
 - Results: count by severity, for example "2 High, 3 Medium across 5 contests"
 - Notable findings: one line per important bug, with link when public
-- Ranking and formal verification tools: Certora, Halmos, or fuzzing harnesses when you use them
+- Ranking and formal verification tools: Certora, Halmos, or fuzzing apply when you use them
 
 If you do not have contest experience, show security hygiene instead: test coverage percentage, invariant tests in Foundry, access control patterns, CEI pattern, and NatSpec comments.
 
@@ -253,3 +254,16 @@ You do not need to leak private code. Create a small public version that shows t
 
 **What if I have no professional Web3 experience yet?**
 Build two focused projects that a reviewer can verify: a tested Solidity project deployed to testnet with verified source, and a frontend that reads from it using viem or wagmi. Add one dashboard or analysis you publish. That gives you four to six live links, which is enough to start.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

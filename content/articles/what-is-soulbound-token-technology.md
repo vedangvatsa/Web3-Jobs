@@ -3,14 +3,13 @@ title: What is Soulbound Token Technology
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: person soul connection
 description: >-
- Soulbound Tokens (SBTs) are non-transferable NFTs that can represent a
- person's identity, reputation, and affiliations. Learn how this concept,
- proposed.
+  Soulbound Tokens (SBTs) are non-transferable NFTs that can represent a
+  person's identity, reputation, and affiliations. Learn how this concept,
+  proposed.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The field of **[NFTs](/what-are-nfts)** has primarily focused on transferability. The value of an NFT stems from its ability to be bought and sold in an open market. However, a paper co-authored by [Ethereum](/what-is-ethereum) founder Vitalik Buterin introduced a novel concept: **Soulbound [Tokens](/what-is-a-token) (SBTs)**.
 
 An SBT represents a unique type of [NFT](/what-are-nfts) that is **non-transferable**. Once assigned to a specific [wallet](/how-to-choose-a-crypto-wallet), referred to as a "Soul", it remains permanently bound to that wallet. This key distinction opens new avenues for representing an individual's identity, reputation, and affiliations on the [blockchain](/what-is-a-blockchain).
@@ -51,3 +50,16 @@ The concept of Soulbound Tokens is still in the early theoretical phase and rais
 - **Negative SBTs:** If an unwanted "bad" SBT representing a negative affiliation is sent, how can Souls conceal or reject these tokens?
 
 Soulbound Tokens present an intriguing concept that could reshape our understanding of digital identity. By moving beyond purely financial and transferable assets, SBTs enable a more specific and human-centric [Web3](/what-is-web3), enabling the emergence of a truly "Decentralized Society."
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

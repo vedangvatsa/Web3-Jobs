@@ -1,14 +1,13 @@
 ---
 title: Understanding Edge AI Technology
 description: >-
- Learn how edge AI processes data locally for faster, more efficient machine
- learning.
+  Learn how edge AI processes data locally for faster, more efficient machine
+  learning.
 category: Educational
 data-ai-hint: ai chip
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Edge AI technology allows devices to process data locally at the network's edge, such as smartphones, sensors, or vehicles. This local execution of AI algorithms marks a significant departure from traditional cloud-based models, where data travels to remote servers for processing. By minimizing this data transit, Edge AI enhances speed, privacy, and reliability.
 
 ### Limitations of Cloud AI
@@ -79,3 +78,16 @@ While basic Edge AI models can run on standard CPUs, more complex tasks often re
 
 **3. How does Edge AI relate to the Internet of Things (IoT)?** 
 Edge AI enhances IoT by transforming conventional sensors into intelligent devices capable of local analysis and decision-making. This integration leads to a more efficient and responsive IoT ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

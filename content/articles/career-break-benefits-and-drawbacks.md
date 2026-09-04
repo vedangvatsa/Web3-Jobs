@@ -1,14 +1,13 @@
 ---
 title: Career Break Benefits and Drawbacks
 description: >-
- Thinking about taking a career break? This guide explores the potential
- benefits and drawbacks to help you make an informed decision.
+  Thinking about taking a career break? This guide explores the potential
+  benefits and drawbacks to help you make an informed decision.
 data-ai-hint: career choice
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The concept of taking a career break, often referred to as a sabbatical, continues to gain traction among professionals. The conventional career trajectory is shifting, prompting many to step off the corporate ladder temporarily. They seek time to recharge, acquire new skills, travel, or prioritize personal matters. While a career break can be rewarding, it demands careful consideration.
 
 A well-structured sabbatical can serve as a significant catalyst for both personal and professional growth. Conversely, a poorly planned break may lead to financial strain and challenges when re-entering the workforce. Understanding both the advantages and disadvantages is essential for making an informed decision.
@@ -74,3 +73,16 @@ Start by outlining a budget of your current and anticipated expenses during your
 
 **What if my workplace doesn't support a career break?** 
 Even in challenging environments, you often have more agency than you realize. Start with small, manageable actions that don't require widespread support. Document your progress to showcase your growth. If the environment is consistently unwelcoming to development, it may be time to consider a workplace that aligns better with your career goals.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

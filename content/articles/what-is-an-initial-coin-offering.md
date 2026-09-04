@@ -3,14 +3,13 @@ title: What is an Initial Coin Offering
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: coins stacked crypto
 description: >-
- An Initial Coin Offering (ICO) is a fundraising method where a new crypto
- project sells its native tokens to early investors. This guide explains how
- ICOs.
+  An Initial Coin Offering (ICO) is a fundraising method where a new crypto
+  project sells its native tokens to early investors. This guide explains how
+  ICOs.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 An **Initial Coin Offering (ICO)** serves as a fundraising mechanism for emerging cryptocurrency projects. It parallels an Initial Public Offering (IPO) in the stock market. During an ICO, a project creates a new cryptocurrency [token](/what-is-a-token) and sells it to early investors. This process generates the necessary capital for development, marketing, and operational expenses.
 
 The ICO boom of 2017 marked a significant period for the cryptocurrency sector. Thousands of projects raised billions in value, igniting speculation and innovation but also attracting fraudulent activities and regulatory attention. Although the term "ICO" has become less prevalent, it laid the groundwork for more refined token launch strategies that have developed since.
@@ -65,3 +64,16 @@ A: Yes, and this is the preferred approach for most professionals. You do not ne
 
 **Q: What resources can help me go deeper?** 
 A: Explore related articles that address specific aspects of these strategies. Beyond written materials, finding a mentor or peer group can be invaluable. Observing their practices can teach you more than any article. Engaging with Web3 communities on platforms like Discord and Telegram can also connect you with experienced practitioners willing to share their insights.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

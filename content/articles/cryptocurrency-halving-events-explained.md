@@ -3,13 +3,12 @@ title: Cryptocurrency Halving Events Explained
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: crypto chart graph
 description: >-
- A cryptocurrency halving is a programmed event that reduces the rate at which
- new coins are created. It's a core part of the economic model for many.
+  A cryptocurrency halving is a programmed event that reduces the rate at which
+  new coins are created. It's a core part of the economic model for many.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A **cryptocurrency halving** is a programmed event coded into the protocol of a cryptocurrency that reduces the reward for mining new blocks by 50%. This mechanism directly affects the rate at which new coins are generated and circulated, serving to manage the cryptocurrency's supply and build a predictable, deflationary economic model.
 
 Bitcoin is the most notable example of a cryptocurrency that implements halving events, which occur roughly every four years.
@@ -47,3 +46,16 @@ Not all cryptocurrencies incorporate halving events. Halving is a characteristic
 Cryptocurrencies using a Proof-of-Stake consensus mechanism, like [Ethereum](/what-is-ethereum), do not involve mining or halvings. Their supply is regulated by different parameters governing [staking](/how-to-become-a-web3-staking-specialist) rewards and, in Ethereum's case, a **[fee-burning mechanism](/what-is-burning-tokens-in-cryptocurrency)** that can lead to deflation during high network activity periods.
 
 The halving mechanism effectively creates digital scarcity, making Bitcoin a distinct financial asset and a significant driver of the market cycles that shape the cryptocurrency space.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

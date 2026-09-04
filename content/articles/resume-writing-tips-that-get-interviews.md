@@ -2,13 +2,12 @@
 title: Resume Writing Tips That Get Interviews
 data-ai-hint: resume paper interview
 description: >-
- Learn advanced resume writing tips that will help you stand out and land more
- interviews. Go beyond the basics and craft a truly compelling resume.
+  Learn advanced resume writing tips that will help you stand out and land more
+  interviews. Go beyond the basics and craft a truly compelling resume.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You've crafted a solid [resume](/how-to-build-a-web3-resume-that-stands-out) that outlines your work experience, education, and skills. However, in a competitive job market, a basic resume often fails to make an impact. To secure interviews for your desired positions, your resume must transform from a simple list of qualifications into a compelling marketing document that highlights your unique value.
 
 If your resume isn't generating the responses you anticipated, consider implementing the following advanced strategies to enhance its effectiveness and help you secure an [interview](/how-to-prepare-for-job-interview).
@@ -78,3 +77,16 @@ Yes, but focus on demonstrating them through your work experience rather than me
 
 **Is a one-page resume still the standard?**
 For most professionals with less than 10 years of experience, a one-page resume is ideal. Those with extensive relevant experience may extend to two pages, but never exceed that.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

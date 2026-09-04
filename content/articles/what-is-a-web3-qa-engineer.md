@@ -1,16 +1,15 @@
 ---
 title: What is a Web3 QA Engineer? A Career Guide
 image: >-
- https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlfGVufDB8fHx8MTc1NTAzNjYxNnww&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1518281420975-50db6e5d0a97?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxsaWZlfGVufDB8fHx8MTc1NTAzNjYxNnww&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: quality assurance test
 description: >-
- Learn how Web3 QA differs from auditing, from transaction and wallet-flow
- checks to automated, end-to-end, fork, load, and regression testing.
+  Learn how Web3 QA differs from auditing, from transaction and wallet-flow
+  checks to automated, end-to-end, fork, load, and regression testing.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the fast-moving field of [Web3](/what-is-web3), where immutable [smart contracts](/what-are-smart-contracts) manage substantial assets, the need for quality and reliability is critical. While [Smart Contract Auditors](/smart-contract-auditor-career) focus on identifying security vulnerabilities, **Web3 Quality Assurance (QA) Engineers** are important for ensuring that decentralized applications (dApps) function as intended.
 
 A Web3 QA Engineer specializes in the rigorous testing of dApps. They excel in testing methodologies, automation, and addressing the unique challenges of verifying behavior on a [blockchain](/what-is-a-blockchain). Their responsibilities include identifying bugs, pinpointing edge cases, and ensuring the reliability of dApps prior to deployment.
@@ -62,3 +61,16 @@ Testing a dApp entails complexities that differ significantly from traditional w
  - Craft a detailed "test plan" for a popular dApp and share it through a blog post.
 
 The role of a Web3 QA Engineer is critical in the development process. As protocols grow increasingly complex and the stakes rise, the demand for detail-oriented professionals will escalate. This career path offers rewards for those who are passionate about quality and committed to enhancing the decentralization of the web.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

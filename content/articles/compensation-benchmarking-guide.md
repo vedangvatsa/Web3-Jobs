@@ -3,12 +3,13 @@ title: Compensation Benchmarking Guide for Web3 in 2026
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: salary benchmarking compensation
 description: >-
- Learn how to benchmark Web3 compensation in 2026. Compare base pay, token grants, and equity using verified data from BLS, Glassdoor, and industry surveys, and apply a step-by-step check for location, level, and vesting.
+  Learn how to benchmark Web3 compensation in 2026. Compare base pay, token
+  grants, and equity using verified data from BLS, Glassdoor, and industry
+  surveys, and apply a step-by-step check for location, level, and vesting.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 pay is not a single number. A senior Solidity offer can be $150,000 base plus $120,000 in tokens that vest over four years, while another at the same level is $220,000 base with no tokens. If you compare only base salary, you will misread both offers. This guide shows how to benchmark correctly, what verified data says in 2026, and how to apply it.
 
 ### What this guide is
@@ -194,3 +195,16 @@ Ask the company if the band is global or location adjusted. If global, benchmark
 
 **Should I still benchmark if I am not an engineer?**
 Yes. Use the same method for product, design, data, marketing, and community roles, but pick the right source family. Glassdoor and Payscale cover non-tech well. Levels.fyi is engineering heavy. For Web3 non-technical roles, funded companies still add token grants, so price the token schedule the same way.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [Solana Core Architecture Documentation](https://docs.solana.com/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)

@@ -10,7 +10,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Almost every Web3 interview includes some version of "Why Web3?" or "What was your rabbit hole moment?" It is not small talk. Teams are small, remote, and build with public money and open code. They use this question to filter for genuine interest, learning habit, and fit for autonomous work.
 
 This guide shows how to build a short, specific answer that holds up under follow-ups. You will see what interviewers listen for, a three-part structure you can adapt, examples by role that use real products and standards correctly, and a practice plan.
@@ -246,3 +245,16 @@ Keep the Spark and Journey fixed. Rewrite only the Vision paragraph per team. Ch
 
 **What if I have no shipped links yet?**
 Ship one this week. Deploy a minimal contract to Sepolia with Foundry, publish one teardown post with a tx hash, or summarize one governance forum thread and post the summary back to the forum. A single verifiable output beats a long list of planned work.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+10. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)

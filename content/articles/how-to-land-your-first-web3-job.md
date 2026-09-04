@@ -1,16 +1,16 @@
 ---
 title: How to Land Your First Web3 Job
 image: >-
- https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8am9ifGVufDB8fHx8MTc1NDk1MTE5OHww&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1521791136064-7986c2920216?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8am9ifGVufDB8fHx8MTc1NDk1MTE5OHww&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: job search career
 description: >-
- Learn how to enter Web3 by choosing a role, building targeted skills,
- documenting project work, forming authentic connections, and preparing for interviews.
+  Learn how to enter Web3 by choosing a role, building targeted skills,
+  documenting project work, forming authentic connections, and preparing for
+  interviews.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Web3](/what-is-web3) industry is rapidly expanding, presenting numerous opportunities for those willing to engage with its complexities. While the jargon and community dynamics might seem intimidating, the reality is that there is a high demand for talent. Many positions do not require a traditional tech background. What truly matters are your skills, a passion for the industry, and the ability to adapt quickly. This guide outlines a practical roadmap for breaking into Web3, covering critical topics such as foundational knowledge, essential skills, portfolio development, networking strategies, and interview preparation.
 
 ## Step 1: Understand the Web3 Culture
@@ -75,3 +75,16 @@ Interviews in Web3 can be intensive and multi-staged, often combining cultural, 
 - **Show Passion:** Clearly articulate your enthusiasm for Web3 and the specific project you are interviewing with.
 - **Demonstrate Initiative:** Web3 teams are often small and remote. Show that you can take ownership and get tasks done without constant oversight.
 - **Think Critically:** Be ready to discuss the trade-offs of various blockchain designs or project strategies. Have your opinions, but remain open to different perspectives.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+8. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)

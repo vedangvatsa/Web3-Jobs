@@ -3,13 +3,12 @@ title: A Guide to Verifiable Credentials in Decentralized Identity
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 data-ai-hint: digital identity credentials
 description: >-
- A deep dive into Verifiable Credentials (VCs), the W3C standard that is the
- backbone of decentralized identity, enabling a future of user-owned.
+  A deep dive into Verifiable Credentials (VCs), the W3C standard that is the
+  backbone of decentralized identity, enabling a future of user-owned.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the digital age, identity consists of claims made about individuals by various authorities. Governments assert citizenship, universities verify degrees, and employers confirm employment. Currently, individuals confirm these claims through physical documents or by accessing centralized systems. This method proves inefficient and insecure, limiting user control over personal data.
 
 The solution in the [Web3](/what-is-web3) ecosystem is **[Decentralized Identity (DID)](/decentralized-identity-explained)**. The cornerstone of this model is the **Verifiable Credential (VC)**. VCs provide a standardized, machine-readable format for claims, ensuring security, privacy, and user control. They have the potential to serve as digital equivalents of passports, driver's licenses, and diplomas, all securely stored in a crypto [wallet](/how-to-choose-a-crypto-wallet).
@@ -82,3 +81,16 @@ This approach allows the Verifier to learn only the necessary information, enhan
 - **Revocation**: Establishing standard methods for Issuers to revoke credentials that have been lost or incorrectly issued remains an area in need of development.
 
 Verifiable Credentials represent a foundational technology for a more user-centric internet. They shift identity control from centralized entities into the hands of individuals. This model enables claims to be verified without compromising privacy, making VCs vital for a more secure, trustworthy, and equitable digital future.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

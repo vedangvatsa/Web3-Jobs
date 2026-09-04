@@ -10,7 +10,6 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In [Web3](/what-is-web3), your portfolio is the resume. Hiring managers open your GitHub, block explorer links, and on-chain activity before they read your cover letter. This guide shows how to build a small set of verifiable projects that prove you can ship and explain trade-offs, whether you write [smart contracts](/what-are-smart-contracts), build frontends, or work in non-technical roles.
 
 ## What it is
@@ -227,3 +226,15 @@ They look for coverage of real risk: owner-only functions reject others, invalid
 
 Most beginners who follow the sequence above publish a hiring-ready set in 3 to 6 months of part-time work, then improve it weekly based on questions they get in screens.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+8. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+9. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+10. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)

@@ -1,16 +1,15 @@
 ---
 title: The Top 10 Most In-Demand Jobs in Web3
 image: >-
- https://images.unsplash.com/photo-1543269664-56d93c1b41a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8am9ic3xlbnwwfHx8fDE3NTQ5NTE2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1543269664-56d93c1b41a6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxM3x8am9ic3xlbnwwfHx8fDE3NTQ5NTE2NjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- Explore the most sought-after jobs in the Web3 ecosystem, from Solidity
- development to community management, and discover the skills you need to
- succeed.
+  Explore the most sought-after jobs in the Web3 ecosystem, from Solidity
+  development to community management, and discover the skills you need to
+  succeed.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Web3](/what-is-web3) revolution continues to reshape career opportunities, transitioning from niche interests to a global phenomenon. As organizations adapt to this decentralized model, they require a diverse array of talent. While developers are vital, the Web3 ecosystem also demands skills in community building, marketing, and product strategy. This article examines the ten most sought-after jobs in Web3, detailing their responsibilities, required skills, and unique aspects. This roadmap serves both seasoned professionals considering a transition and newcomers eager to engage with the future of the internet.
 
 ## 1. Solidity / Smart Contract Developer
@@ -152,3 +151,16 @@ Clear documentation is vital in Web3. Technical writers create tutorials, guides
 
 ### Essential Skills
 Excellent writing and communication abilities, an aptitude for grasping complex technical concepts, and the ability to convey them simply are important. A technical background often enhances effectiveness. Learn more about [becoming a Web3 technical writer](/becoming-a-web3-technical-writer).
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

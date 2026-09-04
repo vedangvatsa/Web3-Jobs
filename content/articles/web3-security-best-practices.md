@@ -1,16 +1,15 @@
 ---
 title: Web3 Security Best Practices for Developers
 image: >-
- https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNoJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzU1MDA3MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1595666944516-bbb485958fb5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHx0ZWNoJTIwc2VjdXJpdHl8ZW58MHx8fHwxNzU1MDA3MDMzfDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- A important guide for Web3 developers. Learn the essential security best
- practices for writing smart contracts, from the Checks-Effects-Interactions
- pattern.
+  A important guide for Web3 developers. Learn the essential security best
+  practices for writing smart contracts, from the Checks-Effects-Interactions
+  pattern.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In [Web3](/what-is-web3), developers face high stakes. A flaw in a [smart contract](/what-are-smart-contracts) can lead to significant financial losses, potentially draining billions in value from user accounts. The immutable nature of the [blockchain](/what-is-a-blockchain) means there are no chances for correction. Security is essential for any project in this field.
 
 This guide details critical security best practices that every [smart contract developer](/how-to-become-a-blockchain-developer) should understand. It highlights common attack methods and outlines programming strategies to defend against them.
@@ -63,3 +62,16 @@ Avoid creating your own versions of widely used standards like [tokens](/what-is
 - **Audit Necessity:** For contracts managing substantial value, securing a professional audit from a reputable firm is essential. An audit helps identify vulnerabilities that you might overlook.
 
 Building applications in Web3 demands a cautious mindset. Assume that all external contracts could be hostile and that skilled attackers will seek to exploit any vulnerabilities. By implementing these security best practices, you can enhance the safety of your applications.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

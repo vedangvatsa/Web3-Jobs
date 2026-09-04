@@ -1,15 +1,14 @@
 ---
 title: a full guide to Landing a Web3 Job in 2026
 description: >-
- Your full guide to working through the Web3 job market. Discover the most
- in-demand roles, the skills you need, and the platforms to find your dream.
+  Your full guide to working through the Web3 job market. Discover the most
+  in-demand roles, the skills you need, and the platforms to find your dream.
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 category: Career Guides
 data-ai-hint: man working laptop
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## The Web3 Job Market: A New Frontier of Opportunity
 
 The [Web3](/what-is-web3) revolution reshapes the internet and transforms the job market. As decentralized technologies mature, the demand for skilled professionals has surged, creating numerous opportunities for individuals pursuing a career in this new field. Web3 presents distinct roles, career paths, and a culture that emphasizes ownership, transparency, and community engagement.
@@ -56,3 +55,16 @@ Your resume should reflect the distinct values of the Web3 space.
 - **Tailor Your Language:** Use Web3-specific terminology to demonstrate your understanding of the space.
 
 The Web3 job market represents more than just a new sector; it offers a chance to be an owner rather than just an employee. By developing the right skills, engaging with the community, and showcasing your "proof of work," you can set yourself up for a rewarding career in this fast-moving field. The future is being built now, and today presents an excellent opportunity to become a builder in this new era.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+6. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

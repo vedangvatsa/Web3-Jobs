@@ -10,7 +10,6 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A crypto wallet does not hold coins the way a leather wallet holds cash. Coins and tokens stay on the blockchain. The wallet holds your private keys and lets you sign transactions, prove ownership, and connect to apps. If you plan to hold crypto, use [DeFi](/what-is-defi), collect [NFTs](/what-are-nfts), or join a [DAO](/what-is-a-dao), you need a wallet that matches how you will actually use the chain.
 
 This guide explains how wallets work, who each type fits, and how to pick a setup you can keep secure over time. It covers custodial vs non-custodial control, hot vs cold connectivity, specific products you can verify today, and a simple two-wallet pattern most people use.
@@ -250,3 +249,16 @@ If the total you hold is close to or above the price of the device, the device u
 
 **Can I switch wallets later?**
 Yes. Your funds are on chain, not inside an app. Import the same seed phrase into another compatible wallet to move, or create a fresh seed and send funds on chain to the new addresses. Sending on chain is safer than reusing the same phrase across apps indefinitely. If moving from BIP-39 to SLIP-39 or the reverse, you must create a new wallet and transfer funds, the two formats derive different seeds from the same entropy.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+9. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+10. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)

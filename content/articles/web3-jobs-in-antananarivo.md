@@ -2,14 +2,13 @@
 title: 'Web3 Jobs in Antananarivo: A Guide to Madagascar''s Tech Scene'
 data-ai-hint: antananarivo madagascar city
 description: >-
- A career guide to the emerging Web3 job market in Antananarivo. Explore how
- Madagascar's capital, with its unique biodiversity and growing tech talent,
- is.
+  A career guide to the emerging Web3 job market in Antananarivo. Explore how
+  Madagascar's capital, with its unique biodiversity and growing tech talent,
+  is.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Antananarivo, the active capital of Madagascar, is leading the emerging Web3 sector. Renowned for its unique biodiversity, Madagascar is now Building a tech scene that explores blockchain's potential. The local ecosystem is still developing, yet a motivated community of young professionals views Web3 as a means for economic growth and solutions to local challenges, particularly in conservation and sustainable development.
 
 The Web3 community in "Tana" embodies a grassroots spirit, emphasizing social impact and a desire to connect with global tech networks. For ambitious professionals, this environment offers a unique chance to pioneer in a growing market, influencing the trajectory of a new industry. This guide outlines the [Web3 career](/web3-jobs-for-beginners) opportunities in Antananarivo, highlighting growth areas, in-demand skills, and strategies for involvement.
@@ -162,3 +161,16 @@ Yes, professional English proficiency is essential. Commit daily to improving yo
 
 **What Web3 jobs are best for non-technical individuals?**
 Roles such as Community Manager, Project Manager, Operations, Content Writer, Designer, and Researcher are suitable for non-technical professionals. These positions offer competitive salaries depending on experience and role.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

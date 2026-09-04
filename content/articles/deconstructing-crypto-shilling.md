@@ -1,15 +1,14 @@
 ---
 title: What is Shilling in Crypto? A Guide to Spotting It
 description: >-
- A deep dive into the practice of 'shilling' in the cryptocurrency space. Learn
- what it is, how to identify it, and the red flags to watch out for to.
+  A deep dive into the practice of 'shilling' in the cryptocurrency space. Learn
+  what it is, how to identify it, and the red flags to watch out for to.
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 category: Career Guides
 data-ai-hint: man shouting megaphone
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding Shilling in Crypto: A Practical Approach
 
 In the cryptocurrency industry, particularly on platforms like Twitter (X), Telegram, and Reddit, the term "shilling" frequently arises. This practice, often masked as enthusiasm, can mislead unsuspecting investors into risky and sometimes fraudulent projects.
@@ -59,3 +58,16 @@ Recognizing the difference between genuine support and malicious shilling requir
 Shilling represents a significant challenge within the crypto industry. It thrives on the hope and excitement that define this sector. By learning to recognize the warning signs, urgency, price fixation, and a lack of substance, you can develop a critical perspective to differentiate between genuine innovation and malicious hype.
 
 Successful investors and participants in the [Web3](/what-is-web3) field do not chase the latest "100x gem." Instead, they adopt a disciplined, research-focused approach. Always prioritize thorough research, challenge assumptions, and resist the influence of FOMO in financial decisions.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

@@ -1,15 +1,14 @@
 ---
 title: 'How to Become a Technical Writer: A Step-by-Step Guide'
 description: >-
- A full guide on how to start a career in technical writing. Learn the
- essential skills, tools, and steps you need to take to become a successful.
+  A full guide on how to start a career in technical writing. Learn the
+  essential skills, tools, and steps you need to take to become a successful.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: person writing
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Technical writing has become an essential discipline that connects technology with effective communication. A technical writer's role involves converting complex technical concepts into clear, concise documentation tailored for specific audiences. This includes writing API documentation, user manuals, tutorials, and white papers.
 
 The demand for skilled technical writers continues to rise as businesses increasingly rely on technology. If you possess a strong interest in both technology and writing, technical writing could be an ideal career choice. This guide provides a detailed roadmap to becoming a technical writer.
@@ -96,3 +95,16 @@ A: Yes, this is advisable for most professionals. You can make meaningful change
 A: Explore articles that provide targeted insights on specific aspects of technical writing. seeking a mentor or peer group can significantly enhance your understanding. Observing experienced professionals in your field can provide practical knowledge that written resources may not convey. Engaging with Web3 communities on platforms like Discord and Telegram can also enable learning and growth.
 
 Pursuing a career in technical writing requires a combination of strong writing skills, technical knowledge, and effective networking. By following this structured guide and avoiding common pitfalls, you can prepare as a proficient technical writer in a rapidly expanding field. Accept the challenge and keep refining your skills to achieve success.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

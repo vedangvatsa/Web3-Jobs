@@ -3,13 +3,12 @@ title: How to Break Into Web3 Smart Contract Auditing
 image: /images/jakob-owens-WUmb_eBrpjs-unsplash.jpg
 data-ai-hint: smart contract audit
 description: >-
- A guide for aspiring security researchers on how to start a career in smart
- contract auditing, one of Web3's most critical and challenging fields.
+  A guide for aspiring security researchers on how to start a career in smart
+  contract auditing, one of Web3's most critical and challenging fields.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A career as a [smart contract auditor](/smart-contract-auditor-career) stands out as one of the most respected and challenging paths in [Web3](/what-is-web3). Auditors serve as the guardians of the ecosystem, tasked with identifying critical vulnerabilities before malicious actors can exploit them. This guide outlines a clear roadmap for entering this elite field.
 
 ### Step 1: Build a Foundation in Development
@@ -42,3 +41,16 @@ Your reputation as an auditor hinges on public, verifiable work.
 - **Write in Public:** Start a blog or Twitter account where you analyze vulnerabilities you've discovered or share insights on emerging security patterns.
 
 Breaking into smart contract auditing is challenging and demands significant dedication. For those with a passion for security and a thorough eye, the rewards can be substantial.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Slither Static Analyzer Repository by Trail of Bits](https://github.com/crytic/slither)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+9. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

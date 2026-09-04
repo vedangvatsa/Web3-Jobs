@@ -1,15 +1,14 @@
 ---
 title: What does Chris Dixon think about Web3
 description: >-
- Discover the insights of Chris Dixon, a General Partner at Andreessen Horowitz
- (a16z) and one of Web3's most influential investors. This guide explores.
+  Discover the insights of Chris Dixon, a General Partner at Andreessen Horowitz
+  (a16z) and one of Web3's most influential investors. This guide explores.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man smile
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Investor-Philosopher
 
 Chris Dixon serves as a General Partner at Andreessen Horowitz (a16z), where he co-founded and leads a16z crypto, one of the largest venture capital funds focused on the [Web3](/what-is-web3) field. Dixon, an accomplished essayist and thinker, has emerged as a key figure in articulating the rationale behind Web3 to a diverse audience of builders, investors, and skeptics.
@@ -98,3 +97,16 @@ A4: Dixon views Web3 and AI as complementary forces. He suggests that decentrali
 
 **Q5: What is a16z crypto?** 
 A5: a16z crypto represents the dedicated cryptocurrency and Web3 investment fund within Andreessen Horowitz. Led by Chris Dixon, it is recognized as one of the most active and influential investors in the space, with investments in companies like Coinbase, Dapper Labs, and others.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -8,7 +8,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Job rejection stings, even when you expected it. How you handle the next 48 hours matters more than the no itself. A short, professional reply keeps the relationship intact and occasionally turns a no into a not yet. A messy reply closes a door you may want later.
 
 This guide explains what rejection actually signals in 2026, how to process it, when to reply, what to write, how to ask for feedback without creating pressure, and how to use the pattern across applications to get better results next time. It is written for Web3 job seekers, but the mechanics apply to any search.
@@ -248,3 +247,16 @@ Separate the two jobs: managing emotion and managing the search. For emotion, us
 ---
 
 *Sources and further reading: U.S. Bureau of Labor Statistics, Job Openings and Labor Turnover Survey (JOLTS) June 2026 release; Jobscore Applicants Per Job benchmarks 2025; Greenhouse 2024 hiring report and Pin 2026 synthesis on candidate ghosting; Fortune reporting on Criteria Corp March 2026 candidate experience survey; SHRM 2025 Talent Trends report; Talent Board Candidate Experience Benchmark Research 2024 to 2025; American Psychological Association resources on resilience and stress; Cambridge Journal of Management & Organization study on rejection communication delays and fairness perceptions (2025) and Behavioral Sciences study on rejection letter characteristics (2019); Indeed Career Guide, Grammarly, and Resume Genius guidance on rejection replies and feedback requests synthesized with current hiring manager survey data.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

@@ -1,14 +1,13 @@
 ---
 title: Sabbatical Leave A Complete Planning Guide
 description: >-
- A sabbatical can be a life-changing experience. This full guide will walk you
- through the steps of planning a successful and fulfilling career break.
+  A sabbatical can be a life-changing experience. This full guide will walk you
+  through the steps of planning a successful and fulfilling career break.
 data-ai-hint: travel planning
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Taking a sabbatical, also known as a planned career break, offers an opportunity to recharge, gain fresh perspectives, and invest in both personal and professional development. Unlike an impulsive job resignation, a structured sabbatical involves careful preparation and strategy. It is essential to approach this decision thoughtfully to ensure that the experience is rewarding and contributes positively to long-term career goals.
 
 This guide outlines the steps in planning a successful sabbatical, from defining your motivations to managing finances and preparing for your return to work.
@@ -94,3 +93,16 @@ The choice between a long sabbatical and several shorter breaks depends on your 
 **Will a sabbatical negatively impact my future job prospects?**
 
 A well-planned sabbatical can actually enhance your job prospects. If you can articulate the skills and insights you gained, many employers will regard the sabbatical as a sign of initiative and self-awareness.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -1,14 +1,17 @@
 ---
-title: "Supply Chain Blockchain Explained: How Shared Ledgers Track Goods From Source to Store"
+title: >-
+  Supply Chain Blockchain Explained: How Shared Ledgers Track Goods From Source
+  to Store
 image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
 data-ai-hint: supply chain logistics
 description: >-
-  How blockchain tracks goods across supply chains, from tokenized products and GS1 EPCIS events to smart contract payments and oracle-fed IoT data. Real deployments, tradeoffs, and how to get started.
+  How blockchain tracks goods across supply chains, from tokenized products and
+  GS1 EPCIS events to smart contract payments and oracle-fed IoT data. Real
+  deployments, tradeoffs, and how to get started.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A supply chain blockchain is a shared, append-only ledger that records where a product has been, who handled it, and what happened to it at each step. Instead of each company keeping a separate database, participants write standardized events to one ledger that no single party can rewrite. That record is then used to prove provenance, speed recalls, and automate payments when conditions are met.
 
 It does not replace scanners, ERPs, or trucks. It gives those systems a common place to agree on history.
@@ -224,3 +227,15 @@ Start narrow. Choose one SKU that is costly to recall, map its GTIN, SSCC, and p
 
 For reading, use the official sources cited above: Hyperledger Fabric docs for permissioning and chaincode, GS1 EPCIS and the GS1 US blockchain guidance for event structure, the Walmart September 24, 2018 press release and IBM Food Trust October 8, 2018 release for the food pilot, the Walmart China June 25, 2019 VeChain release and VeChain's January 2024 update for the China scale case, De Beers group news for Tracr at debeersgroup.com, the FDA hosted MediLedger pilot report, Maersk's November 29, 2022 TradeLens discontinuation notice, the OriginTrail 2.0 white paper and docs.origintrail.io for DKG and TRAC, the Chainlink oracle problem page, and OECD Mapping Global Trade in Fakes 2025 for the counterfeit baseline.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [Solana Core Architecture Documentation](https://docs.solana.com/)
+10. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)

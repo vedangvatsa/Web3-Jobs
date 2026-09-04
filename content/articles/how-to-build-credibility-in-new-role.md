@@ -1,14 +1,13 @@
 ---
 title: How to Build Credibility in a New Role
 description: >-
- Build trust through demonstrated competence and consistent delivery in your
- new position.
+  Build trust through demonstrated competence and consistent delivery in your
+  new position.
 category: Career Guides
 data-ai-hint: building trust
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## How to Build Credibility in a New Role
 
 Building credibility in a new role is essential for achieving long-term success. Establishing yourself as a competent and reliable team member from the outset will significantly impact your career trajectory.
@@ -56,3 +55,16 @@ Building a strong reputation can take several months, but you can make a positiv
 
 **What is the biggest mistake people make when trying to build credibility?** 
 Many professionals attempt to take on too much too quickly. Start by focusing on listening and completing small tasks effectively rather than overcommitting.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

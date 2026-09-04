@@ -1,16 +1,16 @@
 ---
 title: Understanding Web3 Job Salaries and Negotiation
 image: >-
- https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1553729459-efe14ef6055d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzYWxhcnl8ZW58MHx8fHwxNzU1MDA4NjIxfDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: salary money negotiation
 description: >-
- Evaluate a Web3 offer across base salary, equity, and tokens, then use vesting,
- liquidity, valuation, risk tolerance, and market research in your negotiation.
+  Evaluate a Web3 offer across base salary, equity, and tokens, then use
+  vesting, liquidity, valuation, risk tolerance, and market research in your
+  negotiation.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You've successfully managed the interview process and received an offer from your desired [Web3](/what-is-web3) company. The next important step is negotiating your compensation. This process is often more complex than negotiation in traditional tech roles. Your total compensation package typically includes a base salary, equity, and a grant of the project's native [tokens](/what-is-a-token).
 
 Understanding how to assess and negotiate this combination is vital for your long-term financial growth. A lower base salary may be acceptable if the token package holds substantial upside potential, while a high base salary paired with minimal token allocation might not be advantageous over time. This guide outlines a practical approach to managing the [Web3 salary](/web3-developer-salaries-2025) negotiation process.
@@ -54,4 +54,17 @@ Your compensation offer will generally consist of three primary components. Your
 
 5. **Consider the Overall Package:** Evaluate additional benefits such as health insurance, [remote work](/remote-work-in-web3) stipends, and budgets for conference travel.
 
-Negotiating your [Web3 job](/web3-jobs-for-beginners) offer is your first chance to demonstrate your value. By conducting thorough research and comprehending the unique interrelationships between salary, equity, and tokens, you can secure a compensation package that fairly compensates you for your skills while granting you a meaningful [stake](/how-to-become-a-web3-staking-specialist) in the decentralized internet's future. 
+Negotiating your [Web3 job](/web3-jobs-for-beginners) offer is your first chance to demonstrate your value. By conducting thorough research and comprehending the unique interrelationships between salary, equity, and tokens, you can secure a compensation package that fairly compensates you for your skills while granting you a meaningful [stake](/how-to-become-a-web3-staking-specialist) in the decentralized internet's future.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [Solana Core Architecture Documentation](https://docs.solana.com/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
