@@ -42,6 +42,10 @@ function isAtsHostname(hostname: string): boolean {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'kappa-lab': 'https://kappalab.io',
+ 'kappa-lab-ltd': 'https://kappalab.io',
+ 'kappalab': 'https://kappalab.io',
+ 'kappalab-ltd': 'https://kappalab.io',
  'circle': 'https://circle.com',
  'coinmarketcap': 'https://coinmarketcap.com',
  'kucoin': 'https://www.kucoin.com',
