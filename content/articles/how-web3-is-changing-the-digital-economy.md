@@ -7,7 +7,7 @@ description: >-
   ownership, decentralizing control, and creating new, more equitable business.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The digital economy that emerged during the Web2 era has largely operated under a centralized model. Major technology companies act as gatekeepers, controlling platforms, managing user data, and capturing substantial profits from user interactions. In contrast, **[Web3](/what-is-web3)** signifies a shift, transitioning from a centralized platform-centric model to one that prioritizes users and their ownership of data and assets. By using **[blockchain technology](/what-is-a-blockchain)**, Web3 builds a new digital economy grounded in decentralization, open protocols, and user ownership.
 

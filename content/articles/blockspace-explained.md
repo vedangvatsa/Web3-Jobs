@@ -8,7 +8,7 @@ description: >-
   price it, and what that means for fees and scaling.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Blockspace is the capacity inside each block that can hold transactions and data. Every block has a fixed cap, and new blocks arrive at a roughly fixed rate. That makes blockspace scarce by design. When demand exceeds that cap, users bid for inclusion and fees rise.
 

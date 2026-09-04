@@ -7,7 +7,7 @@ description: >-
   created, and why it's a cornerstone of blockchain security and data integrity.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Every transaction on a [blockchain](/what-is-a-blockchain) has a unique identifier known as a transaction hash, or TxID. This hash serves as a digital fingerprint, providing proof of authenticity and securing the transaction's place in the blockchain ledger. Understanding transaction hashing is essential for grasping the security and integrity of blockchain technology. It ensures that the ledger remains tamper-proof.
 

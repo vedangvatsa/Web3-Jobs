@@ -7,7 +7,7 @@ description: >-
   teams assess async work and ownership.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 A behavioral interview asks you to describe what you did in a real past situation to predict how you will act in the next role. The prompt usually starts with "Tell me about a time you..." and the interviewer scores how you thought, acted, and what changed as a result.
 

@@ -6,9 +6,12 @@ description: >-
 category: Educational
 data-ai-hint: concentrated liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## Understanding Concentrated Liquidity in Uniswap v3
+
+![Uniswap v3 Concentrated Liquidity Curve vs Constant Product XY=K](https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?q=80&w=1200)
+<figcaption>Concentrated Liquidity position ranges compared against constant product AMM curves. Source: <a href="https://uniswap.org/whitepaper-v3.pdf" target="_blank" rel="noopener noreferrer">Uniswap v3 Core Architecture Whitepaper</a>.</figcaption>
 
 Uniswap v3 introduced a feature called **Concentrated Liquidity**. This innovation enables liquidity providers (LPs) to allocate their capital within specific price ranges, rather than spreading it across all potential prices from zero to infinity. 
 

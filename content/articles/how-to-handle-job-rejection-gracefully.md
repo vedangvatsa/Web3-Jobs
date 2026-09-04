@@ -6,7 +6,7 @@ description: >-
 data-ai-hint: job rejection
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Job rejection stings, even when you expected it. How you handle the next 48 hours matters more than the no itself. A short, professional reply keeps the relationship intact and occasionally turns a no into a not yet. A messy reply closes a door you may want later.
 

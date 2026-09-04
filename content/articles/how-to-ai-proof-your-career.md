@@ -6,7 +6,7 @@ description: >-
   automation and ensure your long-term relevance in the job market.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The discussion surrounding artificial intelligence (AI) and its impact on careers often stirs anxiety among professionals. Many fear that rapid technological advancements will render their skills obsolete. However, "AI-proofing" your career involves building a mindset focused on continuous learning and Building skills that remain distinctly human.
 

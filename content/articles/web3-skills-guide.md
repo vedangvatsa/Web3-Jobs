@@ -5,7 +5,7 @@ description: >-
   professional needs to build a successful career in blockchain, DeFi, NFTs.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## Master These Core Areas
 

@@ -7,7 +7,7 @@ description: >-
   thrill-seeking traders and DeFi power users.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The [Web3](/what-is-web3) ecosystem features a unique lexicon, and one of the most significant terms you will encounter is "degen." This term is particularly relevant in the fields of [DeFi](/what-is-defi) and [NFT](/what-are-nfts) trading.
 
@@ -26,6 +26,9 @@ When someone refers to themselves as a "degen," they demonstrate an awareness of
 This self-aware approach is important. A true degen does not act recklessly due to ignorance; instead, they willingly accept calculated risks.
 
 ## The Degen Mindset
+
+![Web3 Degen Culture & Yield Farming Meme Diagram](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1200)
+<figcaption>Visual breakdown of Web3 Degen culture, liquidity pool experimentation, and high-frequency on-chain trading. Source: <a href="https://ethereum.org/en/defi/" target="_blank" rel="noopener noreferrer">Ethereum Community & DeFi Archives</a>.</figcaption>
 
 Several characteristics define the degen mindset:
 

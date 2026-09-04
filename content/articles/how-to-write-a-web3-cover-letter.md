@@ -8,7 +8,7 @@ description: >-
   mistakes to avoid.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 Your resume gets you past a filter. Your cover letter tells a hiring manager why you care about their project and what you can do for them in the first three months. In Web3, that means showing you are already a user, a builder, or a community member, not just an applicant who swapped in a company name.
 

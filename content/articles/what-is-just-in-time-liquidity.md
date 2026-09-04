@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: just in time
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## What is Just-In-Time (JIT) Liquidity?
 

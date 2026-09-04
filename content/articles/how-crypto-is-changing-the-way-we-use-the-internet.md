@@ -7,7 +7,7 @@ description: >-
   cryptocurrency and blockchain are fundamentally changing our relationship.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 The internet has long functioned as a platform for consuming information and interacting on services owned by corporations. However, the advent of cryptocurrency and its foundational technology, **[[blockchain](/what-is-a-blockchain)**, is driving a significant shift. We are transitioning from a "read-write" internet (Web2) to a "read-write-own" internet, often referred to as **[Web3](/what-is-web3)**.
 

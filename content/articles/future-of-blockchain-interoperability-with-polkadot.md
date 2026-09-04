@@ -8,7 +8,7 @@ description: >-
   with trade-offs and how to get started.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 
 Polkadot is a Layer-0 protocol that connects specialized blockchains called parachains to a central Relay Chain. It gives those chains shared security and a common language for messaging so assets and data can move between them without trusting an external bridge.

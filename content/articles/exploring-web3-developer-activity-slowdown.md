@@ -8,7 +8,7 @@ image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man coding laptop
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: '2026-09-04'
 ---
 ## Beyond the Headlines: Has Web3 Developer Activity Really Slowed Down?
 
