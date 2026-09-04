@@ -11,8 +11,8 @@ const jobs = [
     type: 'Full-time',
     date: '2026-08-12',
     source: 'GoHire [gohire]',
-    link: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/quant-trader-297472/',
-    applyUrl: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/quant-trader-297472/',
+    link: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/quant-trader-297472/?ref=aHR0cHM6Ly9hcHAuZ29oaXJlLmlvLw==',
+    applyUrl: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/quant-trader-297472/?ref=aHR0cHM6Ly9hcHAuZ29oaXJlLmlvLw==',
     department: 'Quantitative Trading',
     salary: 'Competitive Salary',
     active: true,
@@ -57,8 +57,8 @@ We have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.`,
     type: 'Full-time',
     date: '2026-06-18',
     source: 'GoHire [gohire]',
-    link: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/',
-    applyUrl: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/',
+    link: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/?ref=aHR0cHM6Ly9hcHAuZ29oaXJlLmlvLw==',
+    applyUrl: 'https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/?ref=aHR0cHM6Ly9hcHAuZ29oaXJlLmlvLw==',
     department: 'Business Development',
     salary: 'Competitive',
     active: true,
@@ -96,7 +96,7 @@ function ingest() {
   const cacheData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
 
   for (const j of jobs) {
-    const idx = cacheData.findIndex((item: any) => item.id === j.id || item.link === j.link || item.slug === j.slug);
+    const idx = cacheData.findIndex((item: any) => item.id === j.id || item.slug === j.slug);
     if (idx >= 0) {
       cacheData[idx] = { ...cacheData[idx], ...j };
       console.log(`Updated job: ${j.title} at ${j.company}`);
