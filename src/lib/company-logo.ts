@@ -40,6 +40,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'strategy': 'strategy',
   'pricewaterhousecoopers': 'pwc',
   'pwc': 'pwc',
+  'franklintempleton': 'franklin-templeton',
+  'franklin-templeton': 'franklin-templeton',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
