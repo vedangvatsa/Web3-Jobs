@@ -83,6 +83,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'openzeppelin': 'https://openzeppelin.com',
  'ripple': 'https://ripple.com',
  'complyadvantage': 'https://complyadvantage.com',
+ 'starknet-foundation': 'https://www.starknet.org',
+ 'starknet': 'https://www.starknet.org',
  'foundation': 'https://buildwithfoundation.com',
  'jejememe': 'https://jejememe.com',
  'hyperithm': 'https://hyperithm.jp',
