@@ -6,7 +6,7 @@ description: >-
   A practical guide to writing a Web3 job description that attracts qualified candidates and passes legal checks. Learn what to include, how long it should be, how to set pay ranges and requirements, and how to tailor it for Solidity, Rust, and other Web3 roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 An effective job description tells a qualified candidate what the work is, what success looks like, and whether they should apply. It is short enough to read on a phone and complete enough to use for screening, leveling, and pay decisions.

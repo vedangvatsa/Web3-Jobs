@@ -9,7 +9,7 @@ image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080
 imageAlt: Coinbase app on a phone with trading charts on a laptop
 data-ai-hint: coinbase exchange trading app
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 slug: coinbase-complete-guide
 ---
 

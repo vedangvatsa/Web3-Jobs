@@ -6,7 +6,7 @@ description: >-
   What Sui is, how its object-centric model and Sui Move enable parallel execution, how Mysticeti consensus works, trade-offs versus EVM chains, and how developers build and find work in the ecosystem.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Sui is a Layer 1 blockchain built for high throughput, low latency, and direct ownership of on-chain assets. It was developed by Mysten Labs, a team of former Meta engineers from the Novi and Diem projects, and launched on mainnet on May 3, 2023. Sui replaces the account-based state model used by Ethereum with an object-centric model, runs smart contracts in Sui Move, and processes many transactions in parallel instead of one after another.

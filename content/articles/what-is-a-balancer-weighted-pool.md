@@ -7,7 +7,7 @@ category: Educational
 image: 'https://picsum.photos/seed/balancer/1200/630'
 data-ai-hint: balancer weighted pool
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 ## Understanding Balancer Weighted Pools

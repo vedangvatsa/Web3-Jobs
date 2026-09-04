@@ -6,7 +6,7 @@ description: >-
   A multisig wallet needs M of N private keys to approve a transaction, so no single key can move funds alone. Learn how M-of-N works on Bitcoin and on Ethereum with Safe, where it helps, where it adds cost and complexity, and how to set one up safely.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 A multisig wallet is a wallet that needs approval from M of N distinct private keys before it will move funds. A 2-of-3 multisig needs any two of three listed keys. One stolen or lost key alone cannot spend, and losing one key does not lock the funds if you keep the other two and the configuration.

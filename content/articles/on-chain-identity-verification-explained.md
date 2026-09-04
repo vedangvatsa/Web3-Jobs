@@ -8,7 +8,7 @@ description: >-
  user-controlled.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 In the digital market, verifying identity presents ongoing challenges. Many people rely on usernames and passwords or depend on major platforms like Google and Facebook to authenticate their identity for other services. This centralized approach poses significant privacy and security risks. On-chain identity verification, enabled by [Web3](/what-is-web3), offers a more secure, private, and user-controlled method for managing digital identities.

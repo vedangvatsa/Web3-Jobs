@@ -6,7 +6,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: blockchain glossary
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Web3 job listings pack a lot of jargon into a few lines. This glossary gives you clear definitions for 65 terms you will see on Hashtag Web3 and in interviews, with one concrete example for each and a note on why it matters at work.

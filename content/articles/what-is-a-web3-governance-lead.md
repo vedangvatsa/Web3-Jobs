@@ -7,7 +7,7 @@ description: >-
  what a Governance Lead does, the skills they need, and how they enable.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 As Decentralized Autonomous Organizations (DAOs) evolve from informal groups into complex entities managing significant value, the role of the **Web3 Governance Lead** has become increasingly essential. Unlike traditional executive roles, the Governance Lead does not dictate decisions from the top. Instead, they act as facilitators, designers of processes, and diplomats within the community.

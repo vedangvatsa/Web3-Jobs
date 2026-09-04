@@ -7,7 +7,7 @@ description: >-
   async communication, and Web3-specific signals hiring managers score.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Remote interviews are now the default first step for distributed teams. An Indeed poll of 1,100 U.S. employers cited by [SHRM](https://www.shrm.org/topics-tools/news/talent-acquisition/virtual-interviews-to-stay-best-practices-needed) found 82 percent adopted virtual interviews because of the pandemic and 93 percent expect to keep using them. That shift changed what interviewers score. They still assess role skills, but they also score how you communicate in writing, manage your own time, and handle a distributed workflow without hand-holding.

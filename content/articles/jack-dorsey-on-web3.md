@@ -7,7 +7,7 @@ image: 'https://picsum.photos/seed/dorseyweb3/1200/630'
 category: Industry Insights
 data-ai-hint: man technology
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic

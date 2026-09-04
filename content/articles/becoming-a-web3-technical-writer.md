@@ -9,7 +9,7 @@ description: >-
   plan to build a portfolio and land a remote role without a coding background.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 A Web3 technical writer turns protocol code and product logic into documentation that developers can build with and users can follow without losing funds. The work directly affects developer adoption, support volume, and trust.

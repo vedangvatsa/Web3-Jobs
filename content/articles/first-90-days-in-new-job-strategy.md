@@ -8,7 +8,7 @@ category: Career Guides
 image: 'https://picsum.photos/seed/302/1200/630'
 data-ai-hint: new job
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 ## The First 90 Days: A Strategic Plan
