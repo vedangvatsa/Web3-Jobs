@@ -28,6 +28,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'aztec-labs': 'aztec',
   'symbiotic-restaking': 'symbiotic',
   'symbiotic': 'symbiotic',
+  'wynd-network': 'wynd-labs',
+  'grass-wynd-labs-depin': 'wynd-labs',
+  'wynd-labs': 'wynd-labs',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
