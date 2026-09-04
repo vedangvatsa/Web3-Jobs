@@ -1,6 +1,5 @@
 ---
 title: How to Write Professional Resume
-image: 'https://picsum.photos/seed/professional-resume/1200/630'
 data-ai-hint: resume paper document
 description: >-
  Turn work history into a concise, tailored resume with measurable results,

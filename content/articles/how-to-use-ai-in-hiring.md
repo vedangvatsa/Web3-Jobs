@@ -1,6 +1,5 @@
 ---
 title: 'How to Use AI in Hiring: A Practical Guide for Hiring Managers and Founders'
-image: 'https://picsum.photos/seed/ai-hiring/1200/630'
 data-ai-hint: hiring manager reviewing candidates
 description: >-
   A practical guide to using AI in hiring without creating legal or trust problems. Learn where AI helps, where it adds risk, what NYC, Illinois, and EU rules require, and a seven-step setup with bias checks and human oversight.

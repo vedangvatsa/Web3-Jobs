@@ -1,6 +1,5 @@
 ---
 title: Optimism Explained - OP Mainnet, the OP Stack, and the Superchain
-image: 'https://picsum.photos/seed/optimism/1200/630'
 description: >-
   Optimism is an Ethereum Layer 2 optimistic rollup that runs transactions off chain and settles to Ethereum. Learn how OP Mainnet works, what the OP Stack and Superchain are, how fees and fault proofs operate, and how governance and the OP token fund public goods.
 category: Technology Deep Dives

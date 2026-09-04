@@ -5,7 +5,6 @@ description: >-
  guide provides a simple template and explains how to create a plan that
  aligns.
 category: Career Guides
-image: 'https://picsum.photos/seed/309/1200/630'
 data-ai-hint: career plan
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

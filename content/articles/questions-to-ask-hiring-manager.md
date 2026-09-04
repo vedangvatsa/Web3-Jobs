@@ -1,7 +1,6 @@
 ---
 title: 'the best Checklist: 25+ Insightful Questions to Ask a Hiring Manager'
 date: '2025-08-20'
-image: 'https://picsum.photos/seed/hiringq/1200/630'
 data-ai-hint: interview questions
 description: >-
  Turn the tables in your next interview. Discover over 25 strategic questions

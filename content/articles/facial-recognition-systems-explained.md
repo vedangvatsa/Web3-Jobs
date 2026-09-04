@@ -5,7 +5,6 @@ description: >-
  from unlocking your phone to surveillance, and the privacy concerns they
  raise.
 category: Educational
-image: 'https://picsum.photos/seed/facialrec/1200/630'
 data-ai-hint: facial recognition
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

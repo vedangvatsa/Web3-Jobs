@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Dakar: A Guide to Francophone Africa''s Tech Hub'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: dakar senegal city
 description: >-
  A career guide to the Web3 job market in Dakar. Explore how Senegal's capital

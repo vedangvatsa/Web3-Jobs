@@ -1,6 +1,5 @@
 ---
 title: When and How Often Should You Update Your Resume
-image: 'https://picsum.photos/seed/career2/1200/630'
 data-ai-hint: resume document update
 description: >-
  Keeping your resume updated is important for career readiness. Learn the key

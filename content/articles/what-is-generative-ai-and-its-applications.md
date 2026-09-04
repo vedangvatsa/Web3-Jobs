@@ -1,6 +1,5 @@
 ---
 title: What is Generative AI and Its Applications
-image: 'https://picsum.photos/seed/generative-ai/1200/630'
 description: >-
  Learn about generative AI, the technology that can create new content like
  text, images, and music, and explore its most popular applications.

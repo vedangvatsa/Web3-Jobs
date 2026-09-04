@@ -1,6 +1,5 @@
 ---
 title: AI for Freelancers Complete Guide
-image: 'https://picsum.photos/seed/ai-freelance-tools/1200/630'
 data-ai-hint: freelancer laptop work
 description: >-
   A full guide on how freelancers can use AI to automate tasks, find clients,

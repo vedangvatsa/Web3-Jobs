@@ -1,6 +1,5 @@
 ---
 title: Quantum Supremacy Explained in Simple Terms
-image: 'https://picsum.photos/seed/quantum-supremacy/1200/630'
 description: >-
  A simple explanation of what quantum supremacy (or quantum advantage) means,
  why it's a big deal, and what it doesn't mean for the future of computing.

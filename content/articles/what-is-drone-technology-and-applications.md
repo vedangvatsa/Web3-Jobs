@@ -4,7 +4,6 @@ description: >-
  Exploring the technology behind drones, or unmanned aerial vehicles (UAVs),
  and the wide range of applications they are used for today, from photography.
 category: Educational
-image: 'https://picsum.photos/seed/dronetech/1200/630'
 data-ai-hint: drone flying
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

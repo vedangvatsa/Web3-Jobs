@@ -4,7 +4,6 @@ description: >-
  Choosing between multiple job offers is a great problem to have, but it can
  also be stressful. This guide will help you make the best decision for your
  career.
-image: 'https://picsum.photos/seed/308/1200/630'
 data-ai-hint: decision making
 category: Career Guides
 publishedDate: '2026-03-11'

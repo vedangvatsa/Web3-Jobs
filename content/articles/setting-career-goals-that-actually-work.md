@@ -4,7 +4,6 @@ description: >-
  Many career goals are forgotten after a few weeks. This guide explains how to
  set meaningful, actionable goals that will drive your career forward.
 category: Career Guides
-image: 'https://picsum.photos/seed/310/1200/630'
 data-ai-hint: career goals
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

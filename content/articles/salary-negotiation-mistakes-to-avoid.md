@@ -1,6 +1,5 @@
 ---
 title: Salary Negotiation Mistakes to Avoid
-image: 'https://picsum.photos/seed/salary-mistakes/1200/630'
 data-ai-hint: falling money graph
 description: >-
  Learn about the common mistakes people make during salary negotiations and how

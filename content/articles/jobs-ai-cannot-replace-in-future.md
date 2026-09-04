@@ -1,6 +1,5 @@
 ---
 title: Jobs AI Cannot Replace in Future
-image: 'https://picsum.photos/seed/ai-proof-jobs/1200/630'
 data-ai-hint: human creativity art
 description: >-
  Explore the careers and roles that are most resilient to automation and

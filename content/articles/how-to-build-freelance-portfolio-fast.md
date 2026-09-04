@@ -1,6 +1,5 @@
 ---
 title: How to Build Freelance Portfolio Fast
-image: 'https://picsum.photos/seed/freelance-portfolio/1200/630'
 data-ai-hint: portfolio work showcase
 description: >-
  Learn effective strategies to build a compelling freelance portfolio quickly,

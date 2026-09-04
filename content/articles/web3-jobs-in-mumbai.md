@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Mumbai: A Guide to India''s Financial Crypto Hub'
-image: /images/india-web3-jobs.jpg
 data-ai-hint: mumbai city india
 description: 'Find Web3 and blockchain careers in Mumbai, India''s crypto hub.'
 category: Career Guides

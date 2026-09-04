@@ -1,6 +1,5 @@
 ---
 title: What is Natural Language Processing Technology
-image: 'https://picsum.photos/seed/nlp/1200/630'
 description: >-
  An introduction to Natural Language Processing (NLP), the AI technology that
  allows computers to understand, interpret, and generate human language.

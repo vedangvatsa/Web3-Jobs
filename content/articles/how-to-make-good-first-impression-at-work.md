@@ -5,7 +5,6 @@ description: >-
  company. This guide provides actionable tips for making a positive and
  lasting.
 category: Career Guides
-image: 'https://picsum.photos/seed/304/1200/630'
 data-ai-hint: first impression
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

@@ -1,6 +1,5 @@
 ---
 title: AI Career Opportunities and Salaries
-image: 'https://picsum.photos/seed/ai-career/1200/630'
 data-ai-hint: person climbing stairs
 description: >-
   A look at the most in-demand AI careers, the skills you need to get them, and

@@ -1,6 +1,5 @@
 ---
 title: What is Edge Computing Technology
-image: 'https://picsum.photos/seed/edge-computing/1200/630'
 description: >-
  An explanation of edge computing, how it works by processing data closer to
  where it's created, and why it's important for IoT and real-time applications.

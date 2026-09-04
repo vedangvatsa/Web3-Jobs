@@ -1,6 +1,5 @@
 ---
 title: Understanding Computer Vision in AI Systems
-image: 'https://picsum.photos/seed/computer-vision/1200/630'
 description: >-
  A simple guide to computer vision, the field of AI that teaches computers how
  to see, interpret, and understand the visual world.

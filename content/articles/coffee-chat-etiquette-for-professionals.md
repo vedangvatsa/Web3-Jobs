@@ -4,7 +4,6 @@ description: >-
  A guide to the unwritten rules of the professional coffee chat. Learn how to
  request, prepare for, and conduct a virtual or in-person coffee chat to build
  your network.
-image: 'https://picsum.photos/seed/coffee-chat/1200/630'
 category: Career Guides
 data-ai-hint: people talking
 publishedDate: '2026-03-11'

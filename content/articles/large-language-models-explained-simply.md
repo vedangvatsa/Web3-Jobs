@@ -1,6 +1,5 @@
 ---
 title: Large Language Models Explained Simply
-image: 'https://picsum.photos/seed/llms/1200/630'
 description: >-
  A simple explanation of Large Language Models (LLMs) like GPT-4, what they
  are, how they work, and why they are so powerful.

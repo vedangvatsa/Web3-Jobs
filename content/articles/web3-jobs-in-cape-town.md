@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Cape Town: A Guide to South Africa''s Creative Tech Hub'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: cape town south africa
 description: >-
  A career guide to the Web3 job market in Cape Town. Discover how the city's

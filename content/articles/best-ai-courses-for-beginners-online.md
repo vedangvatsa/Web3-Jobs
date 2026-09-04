@@ -1,6 +1,5 @@
 ---
 title: Best AI Courses for Beginners Online
-image: 'https://picsum.photos/seed/ai-courses/1200/630'
 data-ai-hint: person online learning
 description: >-
   A verified guide to the best beginner AI courses online in 2026. Six courses

@@ -1,6 +1,5 @@
 ---
 title: Cover Letter Writing Best Practices
-image: 'https://picsum.photos/seed/cover-letter/1200/630'
 data-ai-hint: letter writing document
 description: >-
  Learn how to write a compelling cover letter that complements your resume and

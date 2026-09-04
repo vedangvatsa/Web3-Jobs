@@ -1,6 +1,5 @@
 ---
 title: Starknet Explained - The Cairo ZK Rollup Scaling Ethereum
-image: 'https://picsum.photos/seed/starknet/1200/630'
 description: >-
   Starknet is an Ethereum Layer 2 validity rollup that uses STARK proofs and the Cairo language to bundle thousands of transactions off chain and settle them on Ethereum. Learn how it works, what it costs, and how to build on it.
 category: Technology Deep Dives

@@ -5,7 +5,6 @@ description: >-
  meaningful professional relationships, and accelerating your career growth in
  the.
 category: Career Guides
-image: 'https://picsum.photos/seed/mentorship/1200/630'
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---

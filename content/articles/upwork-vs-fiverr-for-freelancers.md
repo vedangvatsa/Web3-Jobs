@@ -1,6 +1,5 @@
 ---
 title: Upwork vs Fiverr for Freelancers
-image: 'https://picsum.photos/seed/upwork-fiverr/1200/630'
 data-ai-hint: versus fight comparison
 description: >-
  A detailed comparison of Upwork and Fiverr, two of the largest freelance

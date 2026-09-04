@@ -1,6 +1,5 @@
 ---
 title: Best AI Writing Tools for Students
-image: 'https://picsum.photos/seed/ai-writing/1200/630'
 data-ai-hint: robot student writing
 description: >-
   Discover the best AI writing tools that can help students with brainstorming,

@@ -1,6 +1,5 @@
 ---
 title: 'NEAR Protocol Explained: Nightshade Sharding, Chain Abstraction and How to Build'
-image: 'https://picsum.photos/seed/near-protocol/1200/630'
 description: >-
   NEAR is a sharded, proof-of-stake layer-1 with human-readable accounts and low fees. Learn how Nightshade, Chain Signatures and Intents work, where NEAR fits, trade-offs, and practical steps to build.
 category: Technology Deep Dives

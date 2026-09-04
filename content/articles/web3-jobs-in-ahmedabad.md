@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Ahmedabad: A Guide to Gujarat''s Tech Scene'
-image: /images/india-web3-jobs.jpg
 data-ai-hint: ahmedabad city india
 description: >-
  Explore the Web3 job market in Ahmedabad. This guide covers the city's

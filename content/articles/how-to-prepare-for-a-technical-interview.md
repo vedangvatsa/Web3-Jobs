@@ -1,6 +1,5 @@
 ---
 title: How to Prepare for a Technical Interview
-image: 'https://picsum.photos/seed/technical-interview/1200/630'
 data-ai-hint: technical interview coding whiteboard
 description: >-
   A practical guide to preparing for technical interviews in 2026, with specific

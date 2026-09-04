@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Johannesburg: South Africa''s Finance Hub'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: johannesburg south africa
 description: >-
  A career guide to the Web3 job market in Johannesburg. Discover how South

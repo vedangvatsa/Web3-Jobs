@@ -1,6 +1,5 @@
 ---
 title: How to Start Freelancing for Beginners
-image: 'https://picsum.photos/seed/freelance-start/1200/630'
 data-ai-hint: person typing laptop
 description: >-
  A step-by-step guide on how to start your freelancing journey. Learn how to

@@ -4,7 +4,6 @@ description: >-
  Build trust through demonstrated competence and consistent delivery in your
  new position.
 category: Career Guides
-image: 'https://picsum.photos/seed/301/1200/630'
 data-ai-hint: building trust
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

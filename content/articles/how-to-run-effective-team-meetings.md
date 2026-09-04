@@ -4,7 +4,6 @@ description: >-
  Stop wasting time in unproductive meetings. This guide provides a step-by-step
  framework for running effective team meetings that are focused, engaging, and
  result in clear actions.
-image: 'https://picsum.photos/seed/effective-meeting/1200/630'
 category: Career Guides
 data-ai-hint: team meeting
 publishedDate: '2026-03-11'

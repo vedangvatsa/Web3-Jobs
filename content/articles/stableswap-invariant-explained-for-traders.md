@@ -5,7 +5,6 @@ description: >-
  Finance that enables highly efficient trading of pegged assets like
  stablecoins.
 category: Educational
-image: 'https://picsum.photos/seed/stableswap/1200/630'
 data-ai-hint: stableswap invariant
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

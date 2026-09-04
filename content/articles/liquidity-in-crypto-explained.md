@@ -3,7 +3,6 @@ title: Liquidity in Crypto Explained - What It Is, How It Works, and Why It Matt
 description: >-
   Liquidity in crypto is how easily you can buy or sell near the quoted price without moving the market. Learn how spread, depth, and pool reserves measure it, how order books and AMMs create it, and how to check it before you trade or provide liquidity.
 category: Educational
-image: 'https://picsum.photos/seed/liquidity-crypto/1200/630'
 data-ai-hint: crypto liquidity trading
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

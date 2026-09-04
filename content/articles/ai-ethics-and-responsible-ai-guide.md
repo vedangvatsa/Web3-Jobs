@@ -1,6 +1,5 @@
 ---
 title: AI Ethics and Responsible AI Guide
-image: 'https://picsum.photos/seed/ai-ethics/1200/630'
 data-ai-hint: robot balance scale
 description: >-
   A practical guide to AI ethics: what it covers, where real harms have occurred,

@@ -4,7 +4,6 @@ description: >-
  A deep dive into the latest advances in battery technology, from solid-state
  batteries and lithium-sulfur to the future of grid-scale energy storage.
 category: Educational
-image: 'https://picsum.photos/seed/batterytech/1200/630'
 data-ai-hint: battery technology
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Kigali: A Guide to Africa''s Rising Tech Star'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: kigali rwanda city
 description: >-
  A guide to the Web3 job market in Kigali. Explore how Rwanda's capital, with

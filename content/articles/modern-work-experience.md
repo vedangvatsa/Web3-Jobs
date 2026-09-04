@@ -1,6 +1,5 @@
 ---
 title: 'Modern Work Experience: What Work Looks Like in 2026'
-image: 'https://picsum.photos/seed/modern-work-2026/1200/630'
 data-ai-hint: modern office hybrid work
 description: >-
   Modern work in 2026 is hybrid by default, async by design, and shaped by AI. Learn who it fits, how teams run it, what the data says on engagement and productivity, and how to build a setup that lasts.

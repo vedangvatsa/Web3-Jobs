@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Jaipur: A Guide to the Pink City''s Tech Scene'
-image: /images/india-web3-jobs.jpg
 data-ai-hint: jaipur city india
 description: Find Web3 and tech jobs in Jaipur's emerging startup scene.
 category: Career Guides
