@@ -4,7 +4,6 @@ description: >-
  Explore nanoscale engineering and its applications across medicine, materials
  science, and manufacturing.
 category: Educational
-image: 'https://picsum.photos/seed/nanotech/1200/630'
 data-ai-hint: nanotechnology atoms
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

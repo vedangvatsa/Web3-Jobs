@@ -1,6 +1,5 @@
 ---
 title: How to Successfully Pivot Your Career Direction
-image: 'https://picsum.photos/seed/htpycd/1200/630'
 description: >-
  Feeling stuck and ready for a change? A career pivot can be significant, but
  it requires a smart strategy. Here's a step-by-step guide to successfully.

@@ -1,6 +1,5 @@
 ---
 title: How to Recover From a Major Career Mistake
-image: 'https://picsum.photos/seed/htrfcm/1200/630'
 description: >-
  Everyone makes mistakes at work. But how you handle them is what defines your
  character and your career trajectory. Here's a step-by-step guide to.

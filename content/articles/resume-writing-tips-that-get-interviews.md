@@ -1,6 +1,5 @@
 ---
 title: Resume Writing Tips That Get Interviews
-image: 'https://picsum.photos/seed/resume-tips/1200/630'
 data-ai-hint: resume paper interview
 description: >-
  Learn advanced resume writing tips that will help you stand out and land more

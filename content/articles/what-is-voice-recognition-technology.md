@@ -4,7 +4,6 @@ description: >-
  An explanation of voice recognition technology, how it differs from speech
  recognition, and its applications in security and user interfaces.
 category: Educational
-image: 'https://picsum.photos/seed/voicerec/1200/630'
 data-ai-hint: voice wave
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

@@ -5,7 +5,6 @@ description: >-
  approach that trains AI models on local data without compromising user
  privacy.
 category: Educational
-image: 'https://picsum.photos/seed/federated/1200/630'
 data-ai-hint: decentralized network
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

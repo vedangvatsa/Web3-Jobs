@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Bamako: A Guide to Mali''s Digital Future'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: bamako mali city
 description: >-
  A career guide to the emerging Web3 job market in Bamako. Explore how Mali's

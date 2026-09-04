@@ -1,6 +1,5 @@
 ---
 title: What is Augmented Reality Technology
-image: 'https://picsum.photos/seed/ar-tech/1200/630'
 description: >-
  An introduction to augmented reality (AR), the technology that overlays
  digital information onto the real world, and how it differs from virtual

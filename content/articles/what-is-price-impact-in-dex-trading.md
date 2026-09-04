@@ -4,7 +4,6 @@ description: >-
  A clear guide to understanding price impact on decentralized exchanges (DEXs),
  why it occurs, how it differs from slippage, and how to manage it for.
 category: Educational
-image: 'https://picsum.photos/seed/priceimpact/1200/630'
 data-ai-hint: price impact
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

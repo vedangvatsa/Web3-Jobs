@@ -1,6 +1,5 @@
 ---
 title: How to Use ChatGPT for Beginners Guide
-image: 'https://picsum.photos/seed/chatgpt-guide/1200/630'
 data-ai-hint: robot human interaction
 description: >-
  A simple, practical guide to getting started with ChatGPT. Learn how to ask

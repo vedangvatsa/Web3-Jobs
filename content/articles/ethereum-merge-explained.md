@@ -6,7 +6,6 @@ description: >-
   cutting energy use by about 99.95 percent and changing how blocks are
   produced and how ETH is issued.
 category: Technology Deep Dives
-image: 'https://picsum.photos/seed/ethereum-merge/1200/630'
 data-ai-hint: ethereum merge beacon chain
 publishedDate: '2022-09-15'
 lastUpdated: "2026-09-04"

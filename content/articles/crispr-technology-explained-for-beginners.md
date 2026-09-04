@@ -4,7 +4,6 @@ description: >-
  A simple and clear explanation of CRISPR, the new gene-editing tool, covering
  how it works, its applications, and the ethical questions it raises.
 category: Educational
-image: 'https://picsum.photos/seed/crispr/1200/630'
 data-ai-hint: dna editing
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

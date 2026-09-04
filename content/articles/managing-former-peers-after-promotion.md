@@ -1,6 +1,5 @@
 ---
 title: Managing Former Peers After Promotion
-image: 'https://picsum.photos/seed/mfp1/1200/630'
 description: >-
  Just got promoted over your friends and former teammates? Working through this
  tricky transition requires a thoughtful approach. Here's how to do it right.

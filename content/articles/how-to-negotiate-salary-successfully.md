@@ -1,6 +1,5 @@
 ---
 title: How to Negotiate Salary Successfully
-image: 'https://picsum.photos/seed/salary-negotiation/1200/630'
 data-ai-hint: money deal handshake
 description: >-
  A practical guide to salary negotiation. Learn how to research your worth,

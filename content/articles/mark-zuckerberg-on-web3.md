@@ -5,7 +5,6 @@ title: >-
 description: >-
  Review Meta's metaverse strategy and Zuckerberg's perspective on
  decentralization and Web3.
-image: 'https://picsum.photos/seed/zuckweb3/1200/630'
 category: Industry Insights
 data-ai-hint: man technology
 publishedDate: '2026-03-11'

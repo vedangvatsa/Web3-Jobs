@@ -6,7 +6,6 @@ description: >-
   shows, why Web3 can make doubt louder, and gives specific steps you can use
   this week to work with more steadiness.
 category: Career Guides
-image: 'https://picsum.photos/seed/imposter-web3/1200/630'
 data-ai-hint: person working at desk with notes
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

@@ -1,6 +1,5 @@
 ---
 title: 'Building with Ethereum Account Abstraction: ERC-4337 and EIP-7702 in Practice'
-image: 'https://picsum.photos/seed/aa-build/1200/630'
 description: >-
   A practical guide to building with Ethereum account abstraction. Learn how ERC-4337 smart accounts and EIP-7702 delegated EOAs work, when to use each, and how to ship batching, gas sponsorship, and passkey login with working code.
 category: Technology Deep Dives

@@ -1,6 +1,5 @@
 ---
 title: How to AI Proof Your Career
-image: 'https://picsum.photos/seed/ai-career-shield/1200/630'
 data-ai-hint: person future career
 description: >-
  Learn practical strategies and skills to future-proof your career in an age of

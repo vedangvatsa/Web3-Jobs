@@ -4,7 +4,6 @@ description: >-
  A guide to help nervous speakers build confidence and deliver impactful
  presentations. Learn techniques for preparation, managing anxiety, and
  engaging your audience.
-image: 'https://picsum.photos/seed/presentation/1200/630'
 category: Career Guides
 data-ai-hint: public speaking
 publishedDate: '2026-03-11'

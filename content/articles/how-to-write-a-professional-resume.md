@@ -1,6 +1,5 @@
 ---
 title: How to Write a Professional Resume
-image: 'https://picsum.photos/seed/professional-resume/1200/630'
 data-ai-hint: resume paper document
 description: >-
  Choose the right resume format, write a focused summary, quantify achievements,

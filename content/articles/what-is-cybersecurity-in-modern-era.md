@@ -5,7 +5,6 @@ description: >-
  threats, key defense principles, and the importance of a security-conscious
  culture.
 category: Educational
-image: 'https://picsum.photos/seed/cybersecurity/1200/630'
 data-ai-hint: cyber security
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

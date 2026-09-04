@@ -1,6 +1,5 @@
 ---
 title: Freelance vs Full Time Job Comparison
-image: 'https://picsum.photos/seed/freelance-vs-full/1200/630'
 data-ai-hint: two paths choice
 description: >-
  Explore the pros and cons of freelancing versus a traditional full-time job.

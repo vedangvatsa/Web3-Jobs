@@ -1,6 +1,5 @@
 ---
 title: 'Account Abstraction (EIP-4337): A Guide'
-image: 'https://picsum.photos/seed/28/1200/630'
 description: >-
   ERC-4337 lets you replace seed-phrase EOAs with programmable smart wallets.
   This guide explains how UserOperations, EntryPoint, bundlers and paymasters

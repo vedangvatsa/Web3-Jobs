@@ -4,7 +4,6 @@ description: >-
  A detailed explanation of gene editing, focusing on how technologies like
  CRISPR work and their potential to change medicine and agriculture.
 category: Educational
-image: 'https://picsum.photos/seed/geneediting/1200/630'
 data-ai-hint: dna strand
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

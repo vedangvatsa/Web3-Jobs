@@ -4,7 +4,6 @@ description: >-
  A deep dive into Virtual AMMs (vAMMs), the new mechanism used by perpetual
  futures exchanges like Perpetual Protocol to enable used trading.
 category: Educational
-image: 'https://picsum.photos/seed/vamm/1200/630'
 data-ai-hint: virtual automated market maker
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

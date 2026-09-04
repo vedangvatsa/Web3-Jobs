@@ -4,7 +4,6 @@ description: >-
  An introduction to synthetic biology, the field of designing and constructing
  new biological parts, devices, and systems, and its diverse applications.
 category: Educational
-image: 'https://picsum.photos/seed/synbio/1200/630'
 data-ai-hint: biology lab
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

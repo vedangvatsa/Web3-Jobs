@@ -4,7 +4,6 @@ description: >-
  Learn how edge AI processes data locally for faster, more efficient machine
  learning.
 category: Educational
-image: 'https://picsum.photos/seed/edgeai/1200/630'
 data-ai-hint: ai chip
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

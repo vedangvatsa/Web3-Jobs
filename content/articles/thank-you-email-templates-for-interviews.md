@@ -3,7 +3,6 @@ title: Thank You Email Templates for Job Interviews
 description: >-
  A well-crafted thank-you email can make a big difference after an interview.
  Here are several templates you can adapt for different situations.
-image: 'https://picsum.photos/seed/306/1200/630'
 data-ai-hint: email template
 category: Career Guides
 publishedDate: '2026-03-11'

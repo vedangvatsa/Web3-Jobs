@@ -4,7 +4,6 @@ description: >-
  Leaving a job is a significant career move. Learn the essential steps to
  ensure you depart on positive terms, preserving your reputation and
  professional.
-image: 'https://picsum.photos/seed/314/1200/630'
 data-ai-hint: handshake deal
 category: Career Guides
 publishedDate: '2026-03-11'

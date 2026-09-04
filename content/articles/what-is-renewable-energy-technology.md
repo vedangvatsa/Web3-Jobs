@@ -4,7 +4,6 @@ description: >-
  An exploration of renewable energy technologies, including solar, wind, hydro,
  and geothermal power, and their role in creating a sustainable energy future.
 category: Educational
-image: 'https://picsum.photos/seed/renewable/1200/630'
 data-ai-hint: wind turbine
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"

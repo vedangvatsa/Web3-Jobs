@@ -1,6 +1,5 @@
 ---
 title: How Long to Stay at First Job
-image: 'https://picsum.photos/seed/stay1/1200/630'
 description: >-
  Working through the tricky question of how long you should stay at your first
  job to maximize career growth without looking like a job hopper.

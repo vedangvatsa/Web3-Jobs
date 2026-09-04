@@ -1,6 +1,5 @@
 ---
 title: 'Web3 Jobs in Lusaka: A Guide to Zambia''s Emerging Crypto Scene'
-image: /images/africa-web3-jobs.jpg
 data-ai-hint: lusaka zambia city
 description: >-
  A career guide to the Web3 job market in Lusaka. Explore how Zambia's capital

@@ -1,6 +1,5 @@
 ---
 title: Freelance Rates Guide by Industry
-image: 'https://picsum.photos/seed/freelance-rates/1200/630'
 data-ai-hint: money calculator coins
 description: >-
  A full guide to freelance rates across different industries. Learn what to

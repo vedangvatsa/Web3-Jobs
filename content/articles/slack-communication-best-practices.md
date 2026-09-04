@@ -4,7 +4,6 @@ description: >-
  Master the art of effective Slack communication. This guide covers best
  practices for channels, threads, notifications, and etiquette to improve
  productivity and reduce noise.
-image: 'https://picsum.photos/seed/slack/1200/630'
 category: Career Guides
 data-ai-hint: team communication
 publishedDate: '2026-03-11'
