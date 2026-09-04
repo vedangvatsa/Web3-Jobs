@@ -9,7 +9,7 @@ description: >-
   really works, and follow a 30-day plan to land your first role.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Web3 hiring is specialized in 2026. The old "blockchain developer" posting is fading. Teams now hire for smart contract security, protocol engineering, on-chain data, community operations, and compliance, each with its own tools, pay band, and proof-of-work bar. This hub explains how that market works, what each path actually involves, what each pays right now, and how to pick a guide that fits your background.
 
@@ -25,27 +25,11 @@ As of August 2026, web3.career listed 40,840 open blockchain jobs at 7,304 proje
 
 ## Who it is for
 
-**If you write code.** You will see four developer tracks here. Frontend and full-stack dApp work rewards React and TypeScript fluency plus wallet integration. Smart contract and protocol work rewards Solidity or Rust plus security habits. If you like shipping product, start with dApp. If you like systems depth, start with protocol or security.
-
-**If you do not write production code.** You will see six non-technical tracks that hire consistently: community, marketing and growth, product, design and research, data and on-chain analysis, and business development and partnerships. Compliance and operations are covered as well.
-
-**If you are early career.** This hub gives you the cheapest path to proof of work for each track, usually a shipped artifact you can link to, not a long course.
-
-**If you are switching from Web2 or TradFi.** You will learn how your current skills map. Backend engineers map to smart contract or protocol. Product marketers map to Web3 marketing and growth. Risk and audit backgrounds map to tokenomics, compliance, and security analysis.
+**If you write code.**You will see four developer tracks here. Frontend and full-stack dApp work rewards React and TypeScript fluency plus wallet integration. Smart contract and protocol work rewards Solidity or Rust plus security habits. If you like shipping product, start with dApp. If you like systems depth, start with protocol or security.**If you do not write production code.**You will see six non-technical tracks that hire consistently: community, marketing and growth, product, design and research, data and on-chain analysis, and business development and partnerships. Compliance and operations are covered as well.**If you are early career.**This hub gives you the cheapest path to proof of work for each track, usually a shipped artifact you can link to, not a long course.**If you are switching from Web2 or TradFi.**You will learn how your current skills map. Backend engineers map to smart contract or protocol. Product marketers map to Web3 marketing and growth. Risk and audit backgrounds map to tokenomics, compliance, and security analysis.
 
 You will not find role counts by track or language targets in the excerpt. The salary and pay ranges reported here cover about forty tracks with regional breakdowns and seniority bands, not granular role-count leaders. We note that limit explicitly so you can plan without inventing supply data or language-share numbers we cannot source.
 
-## How Web3 hiring actually works
-
-**Proof of work beats pedigree.** Hiring managers ask for links, not claims. A deployed contract on a testnet, a Dune dashboard, a governance forum summary, or a support playbook counts more than a polished cover letter. Teams keep portfolios public on GitHub, Mirror or Substack, and Dune, and they review threads on X as a writing sample.
-
-**Process is short and practical.** Most loops run 2 to 4 weeks. Expect a recruiter screen, a hiring manager call, and a take-home that mirrors real work: debug a contract, write a launch plan with KPIs, triage a Discord abuse case, or query on-chain data with SQL. CoinTerminal's July 2026 guide and CryptoJobsList both describe the same pattern, and Hassan and Ney's interviews with Web3 founders report the same 2 to 3 week cadence.
-
-**Bounties are the side door.** Protocols post paid tasks on Gitcoin, Dework, Layer3, and their own Discord or GitHub with fixed rewards. Completed bounties create verifiable history without a full-time offer. Gitcoin and Dework still list active bounties in 2026 and Hashtag Web3's learn path suggests completing one in week 3 of a 30-day plan.
-
-**Compensation is base plus tokens.** FindFi's salary guide for 2025 to 2026, dated 9 February 2026, states that every listing on its platform includes a range and that token grants typically vest over 4 years with a 1-year cliff and can add 20 to 100 percent on top of base depending on stage and liquidity. Most funded companies pay base in fiat or stablecoins such as USDC and add tokens as upside. Remote-global roles often pay 10 to 20 percent below Bay Area numbers, and 10 to 40 percent lower by region according to CoinTerminal's survey of 2026 listings. Treat tokens as upside and confirm fully diluted valuation and liquidity before you sign.
-
-**Remote is the default, with hubs for specific functions.** Web3.career and CoinTerminal both describe a remote-first market. Institutional roles in compliance and trading still cluster in New York, London, Berlin, Singapore and Dubai and pay more on site. If you need timezone overlap, trading desks and support rotations state it in the posting.
+## How Web3 hiring actually works**Proof of work beats pedigree.**Hiring managers ask for links, not claims. A deployed contract on a testnet, a Dune dashboard, a governance forum summary, or a support playbook counts more than a polished cover letter. Teams keep portfolios public on GitHub, Mirror or Substack, and Dune, and they review threads on X as a writing sample.**Process is short and practical.**Most loops run 2 to 4 weeks. Expect a recruiter screen, a hiring manager call, and a take-home that mirrors real work: debug a contract, write a launch plan with KPIs, triage a Discord abuse case, or query on-chain data with SQL. CoinTerminal's July 2026 guide and CryptoJobsList both describe the same pattern, and Hassan and Ney's interviews with Web3 founders report the same 2 to 3 week cadence.**Bounties are the side door.**Protocols post paid tasks on Gitcoin, Dework, Layer3, and their own Discord or GitHub with fixed rewards. Completed bounties create verifiable history without a full-time offer. Gitcoin and Dework still list active bounties in 2026 and Hashtag Web3's learn path suggests completing one in week 3 of a 30-day plan.**Compensation is base plus tokens.**FindFi's salary guide for 2025 to 2026, dated 9 February 2026, states that every listing on its platform includes a range and that token grants typically vest over 4 years with a 1-year cliff and can add 20 to 100 percent on top of base depending on stage and liquidity. Most funded companies pay base in fiat or stablecoins such as USDC and add tokens as upside. Remote-global roles often pay 10 to 20 percent below Bay Area numbers, and 10 to 40 percent lower by region according to CoinTerminal's survey of 2026 listings. Treat tokens as upside and confirm fully diluted valuation and liquidity before you sign.**Remote is the default, with hubs for specific functions.**Web3.career and CoinTerminal both describe a remote-first market. Institutional roles in compliance and trading still cluster in New York, London, Berlin, Singapore and Dubai and pay more on site. If you need timezone overlap, trading desks and support rotations state it in the posting.
 
 ## Roles at a glance
 
@@ -66,242 +50,54 @@ The table below uses FindFi's 2025 to 2026 bands for US base pay where FindFi re
 
 Sources: FindFi Blog, Web3 Salary Guide 2025 to 2026, 9 Feb 2026. web3.career /web3-salaries pages, fetched 27 Aug 2026. Both are primary job-board aggregates, not government surveys. Treat them as mid-2026 snapshots that shift with market cycles.
 
-### 1. Smart Contract Developer
-
-**What it is:** You write, test, and deploy code that moves value and cannot be hot-patched easily. The job centers on security and gas.
-
-**Who it is for:** Engineers who like state machines, invariants, and adversarial thinking. You should be comfortable reading EVM traces and writing tests that fail clearly.
-
-**How it works day to day:** Design a contract, write Foundry tests including fuzz and invariant tests, run Slither, review with a peer, deploy to a testnet, verify on Etherscan or a block explorer, and document assumptions. On upgradeable systems you work with proxy patterns and initializers and you guard against broken upgrades.
-
-**Tools you will touch:** Solidity, Foundry or Hardhat, OpenZeppelin Contracts, Ethers.js or Viem, Tenderly for simulation.
-
-**What pay looks like:** FindFi: $90k-$130k junior to $160k-$250k senior, $200k-$300k staff. web3.career: $125k average with a $60k to $250k observed spread.
-
-**How teams measure you:** Merged PRs, test coverage including edge cases, gas saved per function with before and after, and whether your contracts pass a second review without high-severity findings.
-
-**How to break in:** Ship two contracts with full tests on a public repo: an ERC-20 and a vault with access control and reentrancy guards. Include Foundry fuzz tests and a short audit note you wrote for your own code. That pair is the portfolio piece teams open first.
-
-**Trade-offs:** High pay and clear demand. Also high responsibility. Bugs lose money and audits are slow, detailed work. You will spend more time testing than writing.
+### 1. Smart Contract Developer**What it is:**You write, test, and deploy code that moves value and cannot be hot-patched easily. The job centers on security and gas.**Who it is for:**Engineers who like state machines, invariants, and adversarial thinking. You should be comfortable reading EVM traces and writing tests that fail clearly.**How it works day to day:**Design a contract, write Foundry tests including fuzz and invariant tests, run Slither, review with a peer, deploy to a testnet, verify on Etherscan or a block explorer, and document assumptions. On upgradeable systems you work with proxy patterns and initializers and you guard against broken upgrades.**Tools you will touch:**Solidity, Foundry or Hardhat, OpenZeppelin Contracts, Ethers.js or Viem, Tenderly for simulation.**What pay looks like:**FindFi: $90k-$130k junior to $160k-$250k senior, $200k-$300k staff. web3.career: $125k average with a $60k to $250k observed spread.**How teams measure you:**Merged PRs, test coverage including edge cases, gas saved per function with before and after, and whether your contracts pass a second review without high-severity findings.**How to break in:**Ship two contracts with full tests on a public repo: an ERC-20 and a vault with access control and reentrancy guards. Include Foundry fuzz tests and a short audit note you wrote for your own code. That pair is the portfolio piece teams open first.**Trade-offs:**High pay and clear demand. Also high responsibility. Bugs lose money and audits are slow, detailed work. You will spend more time testing than writing.
 
 Deep dive: [From Web2 to Web3 Developer Career Guide](/from-web2-to-web3-developer-career-guide), [Smart Contract Career Guide](/smart-contract-career-guide-roles-salaries-learning-paths), [Ethereum.org docs](https://ethereum.org/en/developers/docs/smart-contracts/).
 
-### 2. Frontend and Full-Stack dApp Developer
+### 2. Frontend and Full-Stack dApp Developer**What it is:**You build the page that makes wallets, signing, and chain data understandable. You hide complexity without hiding risk.**Who it is for:**React and TypeScript builders who can explain transaction states in plain language.**How it works day to day:**Wire a Connect Wallet flow, handle signing, show gas and slippage, poll for confirmations, index events via The Graph or an RPC cache, and handle errors such as rejected signatures or replaced transactions.**Tools you will touch:**React, Next.js, Wagmi, RainbowKit or ConnectKit, Viem, The Graph.**What pay looks like:**FindFi full-stack: $80k-$120k junior to $150k-$220k senior. web3.career frontend average $149k, full-stack $140k.**How teams measure you:**Time to first wallet connection, error rate on signatures, support tickets avoided by clearer copy, and page load with RPC fallbacks.**How to break in:**Fork a starter dApp, add wallet connect and a read from a testnet contract, and write a short post that explains your state handling. Keep it live with a README and a deployed link.**Trade-offs:**Faster shipping and visible impact. You still need enough chain literacy to avoid misleading users about finality or fees.
 
-**What it is:** You build the page that makes wallets, signing, and chain data understandable. You hide complexity without hiding risk.
+### 3. Protocol Engineer**What it is:**You work on the chain itself or a layer 2: execution, storage, networking, and scaling.**Who it is for:**Systems engineers who prefer Rust or Go and who can read specs and write matching implementations.**How it works day to day:**Profile gas costs, optimize storage layout, implement a small EIP change behind a feature flag, and run benchmarks against prior releases. You collaborate with researchers on spec language and with client teams on compatibility.**Tools you will touch:**Rust, Go, consensus and execution specs, benchmarking apply, CI for multiple clients.**What pay looks like:**FindFi protocol: $100k-$150k junior to $180k-$280k senior, $220k-$350k staff. web3.career blockchain developer average $150k.**How teams measure you:**Throughput gained, gas cost reduced, bugs caught across client combinations, and spec issues clarified with precise language.**How to break in:**Contribute a small, well-tested fix to a client or rollup SDK, with benchmarks and a concise rationale that matches the spec text.**Trade-offs:**Highest senior ceiling reported. Fewer entry roles and steeper prerequisites in distributed systems and cryptography.
 
-**Who it is for:** React and TypeScript builders who can explain transaction states in plain language.
+### 4. Security Auditor**What it is:**You model how the protocol could be exploited and you document fixes before deployment.**Who it is for:**Readers who prefer finding edge cases to shipping features. You need patience for line-by-line review and for writing exploits that prove a path.**How it works day to day:**Read the spec, map trusts and privileges, run static tools, write invariants, fuzz with Foundry, and produce a report that ranks findings by severity with reproducible steps.**Tools you will touch:**Slither, Mythril, Foundry invariant testing, Cantina or Code4rena patterns for contest work, manual EVM review.**What pay looks like:**FindFi security: $90k-$130k junior to $180k-$300k senior, $250k-$400k staff. Contest auditors earn unevenly through platforms such as Sherlock and Cantina. After large losses in 2024 and 2025, teams state security is among the hardest hires.**How teams measure you:**High-severity findings caught pre-launch, false positives avoided, and clarity of remediation steps.**How to break in:**Complete Ethernaut, Damn Vulnerable DeFi, or Secureum challenges and publish two write-ups that show exploit and fix with tests.**Trade-offs:**Top premiums and remote options. Income can be lumpy if you rely on contests, and report writing is a large share of the work.
 
-**How it works day to day:** Wire a Connect Wallet flow, handle signing, show gas and slippage, poll for confirmations, index events via The Graph or an RPC cache, and handle errors such as rejected signatures or replaced transactions.
-
-**Tools you will touch:** React, Next.js, Wagmi, RainbowKit or ConnectKit, Viem, The Graph.
-
-**What pay looks like:** FindFi full-stack: $80k-$120k junior to $150k-$220k senior. web3.career frontend average $149k, full-stack $140k.
-
-**How teams measure you:** Time to first wallet connection, error rate on signatures, support tickets avoided by clearer copy, and page load with RPC fallbacks.
-
-**How to break in:** Fork a starter dApp, add wallet connect and a read from a testnet contract, and write a short post that explains your state handling. Keep it live with a README and a deployed link.
-
-**Trade-offs:** Faster shipping and visible impact. You still need enough chain literacy to avoid misleading users about finality or fees.
-
-### 3. Protocol Engineer
-
-**What it is:** You work on the chain itself or a layer 2: execution, storage, networking, and scaling.
-
-**Who it is for:** Systems engineers who prefer Rust or Go and who can read specs and write matching implementations.
-
-**How it works day to day:** Profile gas costs, optimize storage layout, implement a small EIP change behind a feature flag, and run benchmarks against prior releases. You collaborate with researchers on spec language and with client teams on compatibility.
-
-**Tools you will touch:** Rust, Go, consensus and execution specs, benchmarking apply, CI for multiple clients.
-
-**What pay looks like:** FindFi protocol: $100k-$150k junior to $180k-$280k senior, $220k-$350k staff. web3.career blockchain developer average $150k.
-
-**How teams measure you:** Throughput gained, gas cost reduced, bugs caught across client combinations, and spec issues clarified with precise language.
-
-**How to break in:** Contribute a small, well-tested fix to a client or rollup SDK, with benchmarks and a concise rationale that matches the spec text.
-
-**Trade-offs:** Highest senior ceiling reported. Fewer entry roles and steeper prerequisites in distributed systems and cryptography.
-
-### 4. Security Auditor
-
-**What it is:** You model how the protocol could be exploited and you document fixes before deployment.
-
-**Who it is for:** Readers who prefer finding edge cases to shipping features. You need patience for line-by-line review and for writing exploits that prove a path.
-
-**How it works day to day:** Read the spec, map trusts and privileges, run static tools, write invariants, fuzz with Foundry, and produce a report that ranks findings by severity with reproducible steps.
-
-**Tools you will touch:** Slither, Mythril, Foundry invariant testing, Cantina or Code4rena patterns for contest work, manual EVM review.
-
-**What pay looks like:** FindFi security: $90k-$130k junior to $180k-$300k senior, $250k-$400k staff. Contest auditors earn unevenly through platforms such as Sherlock and Cantina. After large losses in 2024 and 2025, teams state security is among the hardest hires.
-
-**How teams measure you:** High-severity findings caught pre-launch, false positives avoided, and clarity of remediation steps.
-
-**How to break in:** Complete Ethernaut, Damn Vulnerable DeFi, or Secureum challenges and publish two write-ups that show exploit and fix with tests.
-
-**Trade-offs:** Top premiums and remote options. Income can be lumpy if you rely on contests, and report writing is a large share of the work.
-
-### 5. Community Manager
-
-**What it is:** You keep Discord, Telegram, and X useful when markets are volatile and scams are constant. This is operations and education, not just moderation.
-
-**Who it is for:** Strong writers with steady judgment who can work across time zones and stay calm during incidents.
-
-**How it works day to day:** Maintain a pinned start-here, an introductions channel, and a support flow with ticket bots. Answer questions, enforce rules with clear steps, run weekly AMAs and governance calls, route feedback to product, and run token gating with Collab.Land or Guild.
-
-**Tools you will touch:** Discord and Telegram, Galxe or Zealy for quests, Snapshot for governance polls, Combot or Server Insights for DAU/MAU and retention.
-
-**What pay looks like:** FindFi: $40k-$60k junior to $80k-$140k senior. web3.career: $85k average, $50k-$180k observed.
-
-**How teams measure you:** Daily active members and retention at 30 days, response time under 10 minutes compared with over 60 minutes and the associated sentiment delta, AMA attendance, and conversion to on-chain actions such as testing a feature or voting.
-
-**How to break in:** Pick one project you use. Answer questions for two weeks, post a recap of a community call on its forum with clear decisions and next steps, and volunteer for one bounty such as an onboarding guide. That thread becomes the interview sample.
-
-**Trade-offs:** Fast access to core teams. Also on-call hours and repeated scam pressure. Shifts and playbooks reduce burnout.
+### 5. Community Manager**What it is:**You keep Discord, Telegram, and X useful when markets are volatile and scams are constant. This is operations and education, not just moderation.**Who it is for:**Strong writers with steady judgment who can work across time zones and stay calm during incidents.**How it works day to day:**Maintain a pinned start-here, an introductions channel, and a support flow with ticket bots. Answer questions, enforce rules with clear steps, run weekly AMAs and governance calls, route feedback to product, and run token gating with Collab.Land or Guild.**Tools you will touch:**Discord and Telegram, Galxe or Zealy for quests, Snapshot for governance polls, Combot or Server Insights for DAU/MAU and retention.**What pay looks like:**FindFi: $40k-$60k junior to $80k-$140k senior. web3.career: $85k average, $50k-$180k observed.**How teams measure you:**Daily active members and retention at 30 days, response time under 10 minutes compared with over 60 minutes and the associated sentiment delta, AMA attendance, and conversion to on-chain actions such as testing a feature or voting.**How to break in:**Pick one project you use. Answer questions for two weeks, post a recap of a community call on its forum with clear decisions and next steps, and volunteer for one bounty such as an onboarding guide. That thread becomes the interview sample.**Trade-offs:**Fast access to core teams. Also on-call hours and repeated scam pressure. Shifts and playbooks reduce burnout.
 
 Deep dive: [Web3 Community Manager Career](/web3-community-manager-career).
 
-### 6. Marketing and Growth
+### 6. Marketing and Growth**What it is:**You turn a protocol into a story people can follow and act on, with education first and ads second because ad platforms often restrict crypto.**Who it is for:**Writers and analysts who can run experiments and read both off-chain and on-chain signals.**How it works day to day:**Write explainers and tutorials that name gas and bridging steps, ship launch plans with partner co-marketing, structure quests and referral tests, and report funnel metrics from social to on-chain activation using Dune or Nansen.**Tools you will touch:**Mirror or Substack, X, Galxe or Layer3, Dune, Nansen.**What pay looks like:**FindFi marketing lead: $60k-$90k junior to $120k-$180k senior, $150k-$250k lead. web3.career marketing average $130k, $79k-$227k.**How teams measure you:**Activation and retention by cohort, not impressions. Teams want funnel lift from content to on-chain action.**How to break in:**Publish two analytical threads per month on one protocol with a chart from real data. Include a launch recap that states what worked, what did not, and what you would test next.**Trade-offs:**You can ship quickly and see direct effect. Messaging must pass compliance review whenever tokens are mentioned, and priorities shift with market cycles.
 
-**What it is:** You turn a protocol into a story people can follow and act on, with education first and ads second because ad platforms often restrict crypto.
+### 7. Product Manager**What it is:**You define what to build when users are pseudonymous, governance is public, and token incentives shape behavior.**Who it is for:**People who can hold technical, economic, and community context at once and who can build consensus without authority.**How it works day to day:**Translate forum feedback and data into a roadmap, write specs that name incentive effects, run Snapshot temperature checks and Discourse reviews, and manage trade-offs among token holders and core contributors.**Tools you will touch:**Docs, Figma, Snapshot, Discourse or Commonwealth, SQL.**What pay looks like:**FindFi product manager: $80k-$110k junior to $140k-$220k senior, $180k-$280k lead. web3.career product manager average $180k, $115k-$264k.**How teams measure you:**Decision quality under transparent scrutiny, delivery against roadmap, and whether governance participation rises after a change.**How to break in:**Write a product teardown of a live dApp with specific fixes, risks, and a 6-week plan you could staff. Link to the app and your queries.**Trade-offs:**High ownership. Public accountability is higher than in Web2 because proposals and votes are visible.
 
-**Who it is for:** Writers and analysts who can run experiments and read both off-chain and on-chain signals.
+### 8. Data and On-Chain Analysis**What it is:**You turn transparent chain data into decisions about risk, growth, and protocol health.**Who it is for:**People who like SQL and clear charts more than slogans. Python helps but SQL is the gate.**How it works day to day:**Query decoded chain data on Dune or Flipside, track token flows, flag anomalies, and publish dashboards that product, treasury, and BD use.**Tools you will touch:**SQL, Dune, Flipside, Python.**What pay looks like:**FindFi maps this to Research Analyst: $60k-$90k junior to $120k-$180k senior, $150k-$240k lead.**How teams measure you:**Correctness of queries, time to answer ad hoc questions, and whether your dashboards change a decision.**How to break in:**Publish one Dune dashboard with a clear question, method, chart, and limits. Explain what the data does not show.**Trade-offs:**Clear entry through public data. You must be explicit about data limits and survivorship effects.
 
-**How it works day to day:** Write explainers and tutorials that name gas and bridging steps, ship launch plans with partner co-marketing, structure quests and referral tests, and report funnel metrics from social to on-chain activation using Dune or Nansen.
+### 9. Business Development and Partnerships**What it is:**You match institutional needs to on-chain primitives and you keep integrations live after signing.**Who it is for:**People who can translate between trading, treasury, and engineering and who can write a proposal that both a CFO and a smart contract engineer can follow.**How it works day to day:**Source integrations, co-author design docs, coordinate with legal on structure, and manage launch with engineering and marketing.**Tools you will touch:**CRM, proposal docs, governance forums, basic chain analytics.**What pay looks like:**FindFi business dev: $60k-$90k junior to $120k-$200k senior, $160k-$280k lead plus variable. web3.career sales average $145k, $80k-$272k is a close proxy.**How teams measure you:**Qualified pipeline, time from design to live integration, and revenue or TVL tied to the partnership.**How to break in:**Write a two-page integration memo for a real protocol pair that names users, flows, fees, and risks, and post it publicly for feedback.**Trade-offs:**Relationship work with long cycles. Commission can lift pay but also adds variance.
 
-**Tools you will touch:** Mirror or Substack, X, Galxe or Layer3, Dune, Nansen.
+### 10. Legal, Compliance, and Operations**What it is:**You handle securities analysis, listings, vendor diligence, and DAO operations so builders can ship within policy.**Who it is for:**Lawyers, risk analysts, and operators who can read rules and code at the same time.**How it works day to day:**Review token and listing memos, assess MiCA, BSA and exchange policies, manage treasury ops, and document governance.**Tools you will touch:**Policy memos, chain analytics, cap table and vesting trackers, governance forums.**What pay looks like:**FindFi compliance: $70k-$100k junior to $130k-$200k senior, $160k-$280k lead. web3.career legal average $172k, $100k-$283k.**How teams measure you:**Time to compliant launch, issues caught before audit, and clarity of guidance that product and BD can apply.**How to break in:**Publish a short brief that compares how two jurisdictions treat the same activity, such as staking or stablecoin issuance, with primary sources linked.**Trade-offs:**Steady demand as rules tighten. Edge moves slowly and requires precise reading of primary texts, not summaries.
 
-**What pay looks like:** FindFi marketing lead: $60k-$90k junior to $120k-$180k senior, $150k-$250k lead. web3.career marketing average $130k, $79k-$227k.
-
-**How teams measure you:** Activation and retention by cohort, not impressions. Teams want funnel lift from content to on-chain action.
-
-**How to break in:** Publish two analytical threads per month on one protocol with a chart from real data. Include a launch recap that states what worked, what did not, and what you would test next.
-
-**Trade-offs:** You can ship quickly and see direct effect. Messaging must pass compliance review whenever tokens are mentioned, and priorities shift with market cycles.
-
-### 7. Product Manager
-
-**What it is:** You define what to build when users are pseudonymous, governance is public, and token incentives shape behavior.
-
-**Who it is for:** People who can hold technical, economic, and community context at once and who can build consensus without authority.
-
-**How it works day to day:** Translate forum feedback and data into a roadmap, write specs that name incentive effects, run Snapshot temperature checks and Discourse reviews, and manage trade-offs among token holders and core contributors.
-
-**Tools you will touch:** Docs, Figma, Snapshot, Discourse or Commonwealth, SQL.
-
-**What pay looks like:** FindFi product manager: $80k-$110k junior to $140k-$220k senior, $180k-$280k lead. web3.career product manager average $180k, $115k-$264k.
-
-**How teams measure you:** Decision quality under transparent scrutiny, delivery against roadmap, and whether governance participation rises after a change.
-
-**How to break in:** Write a product teardown of a live dApp with specific fixes, risks, and a 6-week plan you could staff. Link to the app and your queries.
-
-**Trade-offs:** High ownership. Public accountability is higher than in Web2 because proposals and votes are visible.
-
-### 8. Data and On-Chain Analysis
-
-**What it is:** You turn transparent chain data into decisions about risk, growth, and protocol health.
-
-**Who it is for:** People who like SQL and clear charts more than slogans. Python helps but SQL is the gate.
-
-**How it works day to day:** Query decoded chain data on Dune or Flipside, track token flows, flag anomalies, and publish dashboards that product, treasury, and BD use.
-
-**Tools you will touch:** SQL, Dune, Flipside, Python.
-
-**What pay looks like:** FindFi maps this to Research Analyst: $60k-$90k junior to $120k-$180k senior, $150k-$240k lead.
-
-**How teams measure you:** Correctness of queries, time to answer ad hoc questions, and whether your dashboards change a decision.
-
-**How to break in:** Publish one Dune dashboard with a clear question, method, chart, and limits. Explain what the data does not show.
-
-**Trade-offs:** Clear entry through public data. You must be explicit about data limits and survivorship effects.
-
-### 9. Business Development and Partnerships
-
-**What it is:** You match institutional needs to on-chain primitives and you keep integrations live after signing.
-
-**Who it is for:** People who can translate between trading, treasury, and engineering and who can write a proposal that both a CFO and a smart contract engineer can follow.
-
-**How it works day to day:** Source integrations, co-author design docs, coordinate with legal on structure, and manage launch with engineering and marketing.
-
-**Tools you will touch:** CRM, proposal docs, governance forums, basic chain analytics.
-
-**What pay looks like:** FindFi business dev: $60k-$90k junior to $120k-$200k senior, $160k-$280k lead plus variable. web3.career sales average $145k, $80k-$272k is a close proxy.
-
-**How teams measure you:** Qualified pipeline, time from design to live integration, and revenue or TVL tied to the partnership.
-
-**How to break in:** Write a two-page integration memo for a real protocol pair that names users, flows, fees, and risks, and post it publicly for feedback.
-
-**Trade-offs:** Relationship work with long cycles. Commission can lift pay but also adds variance.
-
-### 10. Legal, Compliance, and Operations
-
-**What it is:** You handle securities analysis, listings, vendor diligence, and DAO operations so builders can ship within policy.
-
-**Who it is for:** Lawyers, risk analysts, and operators who can read rules and code at the same time.
-
-**How it works day to day:** Review token and listing memos, assess MiCA, BSA and exchange policies, manage treasury ops, and document governance.
-
-**Tools you will touch:** Policy memos, chain analytics, cap table and vesting trackers, governance forums.
-
-**What pay looks like:** FindFi compliance: $70k-$100k junior to $130k-$200k senior, $160k-$280k lead. web3.career legal average $172k, $100k-$283k.
-
-**How teams measure you:** Time to compliant launch, issues caught before audit, and clarity of guidance that product and BD can apply.
-
-**How to break in:** Publish a short brief that compares how two jurisdictions treat the same activity, such as staking or stablecoin issuance, with primary sources linked.
-
-**Trade-offs:** Steady demand as rules tighten. Edge moves slowly and requires precise reading of primary texts, not summaries.
-
-## How to use this set of guides
-
-**Pick a track in one hour.**
-
-Answer three questions in order:
+## How to use this set of guides**Pick a track in one hour.**Answer three questions in order:
 
 1. Do you prefer building or coordinating? Building points to developer, data, and design. Coordinating points to community, BD, product, and operations.
 2. Do you prefer deep technical depth or broader scope? Depth points to protocol and security. Scope points to dApp, product, and marketing.
 3. What proof can you ship in two weeks? Choose the track where you can publish one linkable artifact fastest.
 
-If two tracks tie, choose the one where you can answer hiring managers with the same artifact you used to learn.
-
-**Follow the guide for that track.**
-
-Each guide follows the same structure so you can move quickly:
+If two tracks tie, choose the one where you can answer hiring managers with the same artifact you used to learn.**Follow the guide for that track.**Each guide follows the same structure so you can move quickly:
 
 - What it is, who it is for, and where hiring concentrates
 - Core tasks with tools you will actually open
 - How teams test you in take-homes and live reviews
 - A break-in plan that starts with one track per month, not many at once, with a checklist of shipped links to maintain momentum
-- Red flags that signal churn or funding risk, such as token-only pay from unfunded teams or multi-week unpaid trials
-
-**Keep a single portfolio page.**
-
-Collect links in one place: GitHub, Mirror or Substack, Dune, governance forum posts, and any bounty receipts. Teams check this page before they check a resume.
+- Red flags that signal churn or funding risk, such as token-only pay from unfunded teams or multi-week unpaid trials**Keep a single portfolio page.**Collect links in one place: GitHub, Mirror or Substack, Dune, governance forum posts, and any bounty receipts. Teams check this page before they check a resume.
 
 ## A 30-day plan that works with these guides
 
-This plan mirrors the learn path in Hashtag Web3's careers course and the hiring pattern described by CryptoJobsList, CoinTerminal, and Blockchain Council.
-
-**Week 1: Foundation and wallets.** Set up a self-custody wallet, try a testnet transaction, and read the docs for two protocols you like. Follow 20 hiring managers and builders on X who post real job tasks.
-
-**Week 2: Build one artifact.** Choose your track and ship one piece: a tested contract, a dApp page with wallet connect, a Dune dashboard, a community forum recap, or a teardown doc. Push to GitHub or publish with a clear title and method section. Ask one person for specific edits.
-
-**Week 3: Do one paid or reviewed contribution.** Complete a bounty on Gitcoin or Dework, or submit a docs PR to a protocol. Add the receipt or PR link to your portfolio and write a 150-word note on what you would improve next time.
-
-**Week 4: Apply with relevance.** Apply to 10 to 15 roles where you can cite product use and one idea for improvement. Tailor each note to the product. Prepare for interviews by using the product again and reading its governance forum for recent decisions. After an offer, confirm base in fiat or stablecoin, token amount, vesting schedule, cliff, fully diluted valuation, and liquidity terms in writing.
+This plan mirrors the learn path in Hashtag Web3's careers course and the hiring pattern described by CryptoJobsList, CoinTerminal, and Blockchain Council.**Week 1: Foundation and wallets.**Set up a self-custody wallet, try a testnet transaction, and read the docs for two protocols you like. Follow 20 hiring managers and builders on X who post real job tasks.**Week 2: Build one artifact.**Choose your track and ship one piece: a tested contract, a dApp page with wallet connect, a Dune dashboard, a community forum recap, or a teardown doc. Push to GitHub or publish with a clear title and method section. Ask one person for specific edits.**Week 3: Do one paid or reviewed contribution.**Complete a bounty on Gitcoin or Dework, or submit a docs PR to a protocol. Add the receipt or PR link to your portfolio and write a 150-word note on what you would improve next time.**Week 4: Apply with relevance.**Apply to 10 to 15 roles where you can cite product use and one idea for improvement. Tailor each note to the product. Prepare for interviews by using the product again and reading its governance forum for recent decisions. After an offer, confirm base in fiat or stablecoin, token amount, vesting schedule, cliff, fully diluted valuation, and liquidity terms in writing.
 
 Across these steps, block about 30 percent for learning, 20 percent for creating, 40 percent for core work, and 10 percent for deliberate networking if you are already in a full-time role. Those ratios appear in the learn path and help you avoid spending all time on courses with nothing shipped.
 
-## Pros and cons of a Web3 career
-
-**Pros.**
-
-- Pay keeps pace with Web2 at senior levels, and token upside can lift total compensation when protocols retain value. FindFi bands above document senior staff above $220k in engineering and lead bands near $280k in product and marketing when funded.
+## Pros and cons of a Web3 career**Pros.**- Pay keeps pace with Web2 at senior levels, and token upside can lift total compensation when protocols retain value. FindFi bands above document senior staff above $220k in engineering and lead bands near $280k in product and marketing when funded.
 - Most roles are remote-first and hire globally, which helps if you are in a smaller market and can show public proof.
 - Work is transparent. Code, proposals, and votes are public, so good contributions travel without internal politics.
-- Small teams mean fast feedback from idea to shipped change.
-
-**Cons.**
-
-- Volatility is real. Hiring freezes track price cycles, and some firms adjust headcount quickly. CoinTerminal and web3.career trend data show pronounced dips after 2022 and a selective hiring stance in 2025.
+- Small teams mean fast feedback from idea to shipped change.**Cons.**- Volatility is real. Hiring freezes track price cycles, and some firms adjust headcount quickly. CoinTerminal and web3.career trend data show pronounced dips after 2022 and a selective hiring stance in 2025.
 - Token pay can fall 80 to 90 percent in a bear market, which makes a low base hard to sustain.
 - Security pressure is constant. A missed check in a contract can affect users and funds the day it ships.
 - Community roles face on-call incidents, scams, and moderation load that can lead to burnout without shifts and runbooks.
@@ -309,31 +105,9 @@ Across these steps, block about 30 percent for learning, 20 percent for creating
 
 Weigh these with plain numbers. If you need stability, negotiate a base you can live on without tokens and keep skills portable to Web2. If you need fast learning and visible impact, Web3 still offers both, with higher variance.
 
-## How to choose between close alternatives
+## How to choose between close alternatives**Smart contract developer vs protocol engineer.**Choose smart contracts if you like shipping product logic on an existing chain. Choose protocol if you like low-level performance and spec work. Both pay well at senior levels. Protocol has fewer entry roles.**Community vs marketing.**Choose community if you like live operations and stakeholder care. Choose marketing if you like long-form education and campaign design. Both require writing, but community is higher on incident response and time zone coverage.**Product manager vs BD.**Choose product if you like defining what to build. Choose BD if you like making integrations close and keeping partners live. Both need tokenomics literacy, but product centers on roadmap trade-offs and BD centers on deal structure.**Data analyst vs security.**Choose data if you like SQL and dashboards that guide decisions. Choose security if you like adversarial review. Data offers the clearest entry via public dashboards. Security offers the steepest premium.
 
-**Smart contract developer vs protocol engineer.** Choose smart contracts if you like shipping product logic on an existing chain. Choose protocol if you like low-level performance and spec work. Both pay well at senior levels. Protocol has fewer entry roles.
-
-**Community vs marketing.** Choose community if you like live operations and stakeholder care. Choose marketing if you like long-form education and campaign design. Both require writing, but community is higher on incident response and time zone coverage.
-
-**Product manager vs BD.** Choose product if you like defining what to build. Choose BD if you like making integrations close and keeping partners live. Both need tokenomics literacy, but product centers on roadmap trade-offs and BD centers on deal structure.
-
-**Data analyst vs security.** Choose data if you like SQL and dashboards that guide decisions. Choose security if you like adversarial review. Data offers the clearest entry via public dashboards. Security offers the steepest premium.
-
-## FAQ
-
-**Do I need a crypto-native degree or deep chain experience to start?** No. Teams hire for adjacent skills and train the chain parts. React, TypeScript, Python, SQL, product thinking, and clear writing all transfer. Show one link where you used a chain, even on a testnet. CryptoJobsList, web3.career, and the Blockchain Council roadmap all state that most listings are direct transfers of existing software, product, and go-to-market roles.
-
-**What is the fastest way to stand out without experience?** Use the product and document it. The learn path on Hashtag Web3 and the guides here repeat the same advice because hiring managers still report that most applicants have not tried the product. One specific note about a flow you tested puts you in the top slice. One forum post summarizing a call with decisions puts you higher.
-
-**Which guides matter most if time is short?** Read the guide for your chosen track first, then the resume and portfolio guides to package it. CryptoJobsList recommends the same order: build a small project, add it to a concise resume with links, and apply where your proof matches the posting.
-
-**How should I think about tokens in an offer?** Ask for base, token amount, vesting schedule, cliff date, fully diluted valuation, and current liquidity in writing. FindFi notes 4 years with a 1-year cliff as typical and 20 to 100 percent token add-on as common. If you cannot get clear answers on liquidity or allocation, treat the token as zero for budgeting.
-
-**Are these roles remote?** Mostly yes, with exceptions noted in postings for compliance, trading, and customer operations where hubs still matter. If a posting restricts countries for legal reasons, it states so. Otherwise assume remote with location-adjusted pay as noted above.
-
-**How do I avoid scams?** Check the posting on the company's official domain, confirm the poster on LinkedIn with verifiable history, look for an active GitHub and real users, and search the posting text plus scam. Never share a seed phrase or pay to apply. Those checks match Blockchain Council and EarnifyHub warnings for 2026 applicants.
-
-**What should I build first if I am unsure of track?** Build two small artifacts that share tools. A wallet-connected page and a Dune dashboard cover dApp, product sense, and data at once. Both are demoable in an interview and both reuse React or SQL you already have. Pick your deeper track after you see which work you want to repeat.
+## FAQ**Do I need a crypto-native degree or deep chain experience to start?**No. Teams hire for adjacent skills and train the chain parts. React, TypeScript, Python, SQL, product thinking, and clear writing all transfer. Show one link where you used a chain, even on a testnet. CryptoJobsList, web3.career, and the Blockchain Council roadmap all state that most listings are direct transfers of existing software, product, and go-to-market roles.**What is the fastest way to stand out without experience?**Use the product and document it. The learn path on Hashtag Web3 and the guides here repeat the same advice because hiring managers still report that most applicants have not tried the product. One specific note about a flow you tested puts you in the top slice. One forum post summarizing a call with decisions puts you higher.**Which guides matter most if time is short?**Read the guide for your chosen track first, then the resume and portfolio guides to package it. CryptoJobsList recommends the same order: build a small project, add it to a concise resume with links, and apply where your proof matches the posting.**How should I think about tokens in an offer?**Ask for base, token amount, vesting schedule, cliff date, fully diluted valuation, and current liquidity in writing. FindFi notes 4 years with a 1-year cliff as typical and 20 to 100 percent token add-on as common. If you cannot get clear answers on liquidity or allocation, treat the token as zero for budgeting.**Are these roles remote?**Mostly yes, with exceptions noted in postings for compliance, trading, and customer operations where hubs still matter. If a posting restricts countries for legal reasons, it states so. Otherwise assume remote with location-adjusted pay as noted above.**How do I avoid scams?**Check the posting on the company's official domain, confirm the poster on LinkedIn with verifiable history, look for an active GitHub and real users, and search the posting text plus scam. Never share a seed phrase or pay to apply. Those checks match Blockchain Council and EarnifyHub warnings for 2026 applicants.**What should I build first if I am unsure of track?** Build two small artifacts that share tools. A wallet-connected page and a Dune dashboard cover dApp, product sense, and data at once. Both are demoable in an interview and both reuse React or SQL you already have. Pick your deeper track after you see which work you want to repeat.
 
 ## Where to go next
 

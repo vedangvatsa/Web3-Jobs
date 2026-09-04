@@ -6,7 +6,7 @@ description: >-
   the salary ranges you can expect. From engineering to product management.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 AI work in 2026 is not one job. It is a set of distinct roles with different day-to-day work, skill requirements, and pay.
 
@@ -27,57 +27,25 @@ Entry-level hiring is tighter. The Stanford Digital Economy Lab found early-care
 
 ### 1. Machine Learning Engineer
 
-**What it is:** An engineer who takes a trained model and makes it run reliably in production. That includes writing production code, building data pipelines, setting up training and evaluation, and monitoring performance after deployment.
-
-**Who it is for:** Software engineers who like building systems, and data-oriented engineers who prefer shipping code over exploratory analysis. If you like debugging latency, data quality, and deployment more than pure research, this fits.
-
-**How it works:** A typical loop is: pull and validate data, train or fine-tune a model with TensorFlow or PyTorch, test on held-out data and with evaluation sets, package the model as a service, deploy on cloud infrastructure (AWS, Google Cloud, or Azure), and monitor for drift and failures. You work with data scientists, product managers, and platform teams. Many teams now use MLOps tools for versioning, experiment tracking, and automatic retraining.
-
-**Skills that matter:** Strong Python, software engineering fundamentals (testing, version control, APIs), one major ML framework (TensorFlow or PyTorch), data manipulation (Pandas, SQL), and cloud basics. For LLM-related work, add evaluation methods for generative models, retrieval-augmented generation (RAG), and vector databases.
-
-**Salary, United States:**
+**What it is:**An engineer who takes a trained model and makes it run reliably in production. That includes writing production code, building data pipelines, setting up training and evaluation, and monitoring performance after deployment.**Who it is for:**Software engineers who like building systems, and data-oriented engineers who prefer shipping code over exploratory analysis. If you like debugging latency, data quality, and deployment more than pure research, this fits.**How it works:**A typical loop is: pull and validate data, train or fine-tune a model with TensorFlow or PyTorch, test on held-out data and with evaluation sets, package the model as a service, deploy on cloud infrastructure (AWS, Google Cloud, or Azure), and monitor for drift and failures. You work with data scientists, product managers, and platform teams. Many teams now use MLOps tools for versioning, experiment tracking, and automatic retraining.**Skills that matter:**Strong Python, software engineering fundamentals (testing, version control, APIs), one major ML framework (TensorFlow or PyTorch), data manipulation (Pandas, SQL), and cloud basics. For LLM-related work, add evaluation methods for generative models, retrieval-augmented generation (RAG), and vector databases.**Salary, United States:**
 
 * BLS maps Machine Learning Engineer to SOC 15-2051 Data Scientists. BLS Occupational Employment and Wage Statistics, May 2025: median $120,224 per year ($57.80 per hour), 25th percentile $85,654, 75th percentile $158,891, 90th percentile $199,139, 10th percentile $67,246. This is base salary only and excludes equity and bonuses. BLS Occupational Outlook Handbook, May 2024 median for the same occupation: $112,590, with the bottom 10 percent below $63,650 and top 10 percent above $194,410.
 * Levels.fyi, verified offers, August 2026: median total compensation $278,800, 25th percentile $196,000, 75th percentile about $377,500 to $380,000, 90th percentile $495,000. Total compensation includes base plus bonus plus annualized equity. For context: Google median about $290,000 to $302,000 by level, Amazon median $265,000, Microsoft median about $223,000 to $240,000, Apple median about $366,000 to $386,000, Netflix median $550,000. These are company-weighted and higher than the national payroll average.
 
 Geography changes the number. California, Washington, and New York pay 20 to 40 percent above the national average for this role. San Francisco, Seattle, and San Jose show the highest medians in BLS and Levels.fyi city filters.
 
-**Pros:** Clear build-and-ship loop, strong demand across industries, portable skills to other software roles.
+**Pros:**Clear build-and-ship loop, strong demand across industries, portable skills to other software roles.**Cons and limits:**On-call for model failures, constant pressure to keep up with new model families, and messy data that consumes most of the week. If you dislike production debugging, this is a poor fit. Equity makes Levels.fyi totals look high; cash-only roles elsewhere pay closer to BLS medians.
 
-**Cons and limits:** On-call for model failures, constant pressure to keep up with new model families, and messy data that consumes most of the week. If you dislike production debugging, this is a poor fit. Equity makes Levels.fyi totals look high; cash-only roles elsewhere pay closer to BLS medians.
-
-### 2. Data Scientist
-
-**What it is:** A researcher and analyst who frames business questions, explores data, tests hypotheses, and builds initial models. The output is often a decision or a prototype, not a production service.
-
-**Who it is for:** People strong in statistics and math who like messy, open-ended problems. Useful backgrounds include statistics, economics, or any field with heavy data analysis.
-
-**How it works:** You define the question, gather and clean data with SQL and Python or R, explore distributions, run statistical tests, train baseline models, explain results to non-technical stakeholders, and recommend next steps. Many teams split duties: data scientists explore and prototype, ML engineers productize.
-
-**Skills that matter:** Statistics and probability, hypothesis testing, Python or R, Pandas, SQL, data visualization, and applied machine learning. Communication matters more here than in many engineering tracks because your job is to turn analysis into an action.
-
-**Salary, United States:**
+### 2. Data Scientist**What it is:**A researcher and analyst who frames business questions, explores data, tests hypotheses, and builds initial models. The output is often a decision or a prototype, not a production service.**Who it is for:**People strong in statistics and math who like messy, open-ended problems. Useful backgrounds include statistics, economics, or any field with heavy data analysis.**How it works:**You define the question, gather and clean data with SQL and Python or R, explore distributions, run statistical tests, train baseline models, explain results to non-technical stakeholders, and recommend next steps. Many teams split duties: data scientists explore and prototype, ML engineers productize.**Skills that matter:**Statistics and probability, hypothesis testing, Python or R, Pandas, SQL, data visualization, and applied machine learning. Communication matters more here than in many engineering tracks because your job is to turn analysis into an action.**Salary, United States:**
 
 * BLS, same SOC 15-2051: median $120,224 base, middle 50 percent $85,654 to $158,891, top 10 percent $199,139 (May 2025 OEWS). May 2024 median in the Handbook: $112,590.
 * Levels.fyi, Data Scientist, 2026: samples vary by focus, but national medians for data scientist titles cluster near $170,000 to $200,000 total compensation at large tech firms, with senior bands well above that. Expect wide spread by specialization. Analytics-focused roles pay less than ML-focused ones.
 
 Projected growth is 34 percent to 2034, with about 23,400 openings per year on average from growth plus replacement, per BLS.
 
-**Pros:** Broad applicability across health, finance, retail, and tech. More flexibility on industry choice than niche research roles.
+**Pros:**Broad applicability across health, finance, retail, and tech. More flexibility on industry choice than niche research roles.**Cons and limits:**Data cleaning is a large share of work. Stakeholder questions can pull you away from modeling. Self-reported total-pay sites can mislead if you compare an analytics role to an ML engineering sample.
 
-**Cons and limits:** Data cleaning is a large share of work. Stakeholder questions can pull you away from modeling. Self-reported total-pay sites can mislead if you compare an analytics role to an ML engineering sample.
-
-### 3. AI Product Manager
-
-**What it is:** A product manager who owns the problem, the roadmap, and the trade-offs for AI features. You do not train models. You define what to build, why it matters, and how to measure it.
-
-**Who it is for:** Product managers, designers, or analysts who can translate customer needs into technical requirements and make scope decisions when model behavior is uncertain.
-
-**How it works:** You run user research, define success metrics (precision and recall, abandonment rate, task completion time, support ticket reduction), prioritize data labeling versus model improvement, coordinate with engineering, design, and legal, and plan rollout and safety checks. You need enough technical literacy to discuss evaluation data, failure modes, and latency versus quality trade-offs. You do not need to write production ML code.
-
-**Skills that matter:** AI product lifecycle, user research, roadmapping, metrics and evaluation design, clear writing and stakeholder management, and basic understanding of how models are trained and tested. Familiarity with responsible AI checklists and review processes helps at larger companies.
-
-**Salary, United States:**
+### 3. AI Product Manager**What it is:**A product manager who owns the problem, the roadmap, and the trade-offs for AI features. You do not train models. You define what to build, why it matters, and how to measure it.**Who it is for:**Product managers, designers, or analysts who can translate customer needs into technical requirements and make scope decisions when model behavior is uncertain.**How it works:**You run user research, define success metrics (precision and recall, abandonment rate, task completion time, support ticket reduction), prioritize data labeling versus model improvement, coordinate with engineering, design, and legal, and plan rollout and safety checks. You need enough technical literacy to discuss evaluation data, failure modes, and latency versus quality trade-offs. You do not need to write production ML code.**Skills that matter:**AI product lifecycle, user research, roadmapping, metrics and evaluation design, clear writing and stakeholder management, and basic understanding of how models are trained and tested. Familiarity with responsible AI checklists and review processes helps at larger companies.**Salary, United States:**
 
 * Glassdoor, AI Product Manager, May and June 2026, about 29 salaries: median total pay about $196,000, with 25th percentile about $162,000 to $163,000 and 75th percentile about $241,500, top 10 percent near $289,000. Estimated base $116,000 to $155,000 and additional pay $46,000 to $87,000 at the median.
 * Paraform aggregation of startup data, June 2026, notes startup expected base about $163,000 (range $97,000 to $253,000) before equity, with broader market median about $194,600 and 90th percentile near $288,000. Wellfound startup data cited there aligns with the lower end for early-stage base, which is offset by equity that varies widely.
@@ -85,21 +53,9 @@ Projected growth is 34 percent to 2034, with about 23,400 openings per year on a
 
 The same role can show a $100,000+ gap between a Series B startup base and a public company total-comp package. Always ask if a figure includes equity and what vesting schedule applies.
 
-**Pros:** High ownership, direct influence on what ships, faster entry than research tracks for people with product or domain experience.
+**Pros:**High ownership, direct influence on what ships, faster entry than research tracks for people with product or domain experience.**Cons and limits:**Responsibility without direct control of model quality. You negotiate between user needs, data availability, and engineering cost. Non-technical candidates who cannot discuss evaluation and limitations struggle in interviews.
 
-**Cons and limits:** Responsibility without direct control of model quality. You negotiate between user needs, data availability, and engineering cost. Non-technical candidates who cannot discuss evaluation and limitations struggle in interviews.
-
-### 4. AI Ethicist and AI Safety Researcher
-
-**What it is:** Two related but different tracks. AI ethicists assess fairness, bias, privacy, and governance. AI safety researchers work on technical alignment, model reliability, and evaluation of frontier systems so models behave as intended.
-
-**Who it is for:** Ethicist and policy track: law, philosophy, public policy, social science, or compliance backgrounds with strong critical reasoning and writing. Safety research track: computer science, statistics, or related technical training with a focus on machine learning.
-
-**How it works:** Ethicist work includes auditing data sets and models for bias, reviewing product plans for societal impact, writing governance and review frameworks, and advising deployment decisions. Safety research work includes designing evaluation tasks, testing for failure modes, building safer training and monitoring methods, and publishing findings. Both tracks partner with legal, product, and engineering. One produces policy and process, the other produces experiments and systems.
-
-**Skills that matter:** For ethicist roles: governance frameworks, bias measurement, privacy basics, and the ability to write clear policy. For safety research: Python, ML fundamentals, evaluation design, and research communication. Credentials like the AIGP (AI Governance Professional) can add a 15 to 20 percent premium in compliance-heavy sectors, per industry salary guides.
-
-**Salary, United States:** This field has the widest spread by employer type.
+### 4. AI Ethicist and AI Safety Researcher**What it is:**Two related but different tracks. AI ethicists assess fairness, bias, privacy, and governance. AI safety researchers work on technical alignment, model reliability, and evaluation of frontier systems so models behave as intended.**Who it is for:**Ethicist and policy track: law, philosophy, public policy, social science, or compliance backgrounds with strong critical reasoning and writing. Safety research track: computer science, statistics, or related technical training with a focus on machine learning.**How it works:**Ethicist work includes auditing data sets and models for bias, reviewing product plans for societal impact, writing governance and review frameworks, and advising deployment decisions. Safety research work includes designing evaluation tasks, testing for failure modes, building safer training and monitoring methods, and publishing findings. Both tracks partner with legal, product, and engineering. One produces policy and process, the other produces experiments and systems.**Skills that matter:**For ethicist roles: governance frameworks, bias measurement, privacy basics, and the ability to write clear policy. For safety research: Python, ML fundamentals, evaluation design, and research communication. Credentials like the AIGP (AI Governance Professional) can add a 15 to 20 percent premium in compliance-heavy sectors, per industry salary guides.**Salary, United States:** This field has the widest spread by employer type.
 
 * BLS Computer and Information Research Scientists, the closest federal category for research-focused work: median $140,910 in May 2024 (mean $152,310), with 10th percentile $80,670 and 90th percentile $232,120. May 2025 OEWS: median $140,296, 25th percentile $103,563, 75th percentile $188,698, 90th percentile $230,630.
 * Orbyt, AI Safety Researcher, June 2026: median base $195,000, total compensation $322,000, 25th to 75th percentile base $145,000 to $255,000. Junior researchers $130,000 to $160,000 base, mid-level $175,000 to $220,000, senior $220,000 to $290,000, principal leads at frontier labs above $400,000 total.
@@ -108,21 +64,9 @@ The same role can show a $100,000+ gap between a Series B startup base and a pub
 
 Do not anchor on a single headline figure. Lab roles, policy roles, and trust-and-safety roles are measured differently and often reported under different titles.
 
-**Pros:** Direct influence on how systems are built and released, growing need in regulated industries and labs.
+**Pros:**Direct influence on how systems are built and released, growing need in regulated industries and labs.**Cons and limits:**Niche hiring, fewer junior openings, and heavier requirement for advanced degrees or published work in research tracks. Policy roles can be overhead roles in downturns. Advancement often requires both technical credibility and the ability to write for executive and legal audiences.
 
-**Cons and limits:** Niche hiring, fewer junior openings, and heavier requirement for advanced degrees or published work in research tracks. Policy roles can be overhead roles in downturns. Advancement often requires both technical credibility and the ability to write for executive and legal audiences.
-
-### 5. Prompt Engineer
-
-**What it is:** A practitioner who designs, tests, and refines inputs and workflows that control large language models. The standalone title is now often listed as LLM Engineer or Applied AI Engineer for the same work.
-
-**Who it is for:** Strong writers and testers who also understand how LLMs behave. Good fit for people from linguistics, technical writing, QA, or software engineering who want a faster entry into AI work.
-
-**How it works:** You turn a business task into a repeatable prompt and evaluation. That includes writing instructions, setting up test cases and scoring, running ablations on phrasing and format, building retrieval and tool-use steps, and maintaining a library of vetted prompts and evals. The higher-paid parts of the role are evals, retrieval-augmented generation, and agentic workflow design, not just one-off prompt writing.
-
-**Skills that matter:** Clear writing, logical structure, systematic testing, basic Python, familiarity with LLM APIs and evaluation tools, and the ability to measure quality with task-specific metrics. Knowing when to stop tuning prompts and instead fix data or retrieval is a key judgment.
-
-**Salary, United States:** Figures vary sharply because the title is used for different jobs.
+### 5. Prompt Engineer**What it is:**A practitioner who designs, tests, and refines inputs and workflows that control large language models. The standalone title is now often listed as LLM Engineer or Applied AI Engineer for the same work.**Who it is for:**Strong writers and testers who also understand how LLMs behave. Good fit for people from linguistics, technical writing, QA, or software engineering who want a faster entry into AI work.**How it works:**You turn a business task into a repeatable prompt and evaluation. That includes writing instructions, setting up test cases and scoring, running ablations on phrasing and format, building retrieval and tool-use steps, and maintaining a library of vetted prompts and evals. The higher-paid parts of the role are evals, retrieval-augmented generation, and agentic workflow design, not just one-off prompt writing.**Skills that matter:**Clear writing, logical structure, systematic testing, basic Python, familiarity with LLM APIs and evaluation tools, and the ability to measure quality with task-specific metrics. Knowing when to stop tuning prompts and instead fix data or retrieval is a key judgment.**Salary, United States:** Figures vary sharply because the title is used for different jobs.
 
 * Glassdoor, Prompt Engineer, May 2026, 31 salaries: median total pay about $130,000, with 25th percentile $102,664 and 75th percentile $167,048, top 10 percent $207,642. Estimated base $82,000 to $129,000, additional pay $20,000 to $38,000 at the median.
 * Levels.fyi, Prompt Engineer, August 2026: median total compensation $175,000, 25th percentile $104,000, 75th percentile $268,435, 90th percentile $417,108.
@@ -131,21 +75,9 @@ Do not anchor on a single headline figure. Lab roles, policy roles, and trust-an
 
 Three factors explain the spread: whether a figure includes equity, whether the sample includes many contract or annotation roles, and whether the job is really a prompt-only role or an applied AI engineering role under a different name. Compare like with like.
 
-**Pros:** Faster on-ramp than ML research, visible output, and overlap with product and QA skills many people already have.
+**Pros:**Faster on-ramp than ML research, visible output, and overlap with product and QA skills many people already have.**Cons and limits:**Title is less stable than ML Engineer. Hiring favors candidates who can also build and measure systems, not only write prompts. Junior postings often overlap with annotation quality work that pays near the low end of the range. Contract roles are common and may not include equity.
 
-**Cons and limits:** Title is less stable than ML Engineer. Hiring favors candidates who can also build and measure systems, not only write prompts. Junior postings often overlap with annotation quality work that pays near the low end of the range. Contract roles are common and may not include equity.
-
-### 6. AI Consultant
-
-**What it is:** A consultant who helps a client choose where AI can help, what data and systems are needed, and how to deploy and measure it.
-
-**Who it is for:** Consultants, analysts, or domain experts who can translate between business problems and technical options and communicate with executives and delivery teams.
-
-**How it works:** You assess use cases, estimate return on investment, design a delivery plan, coordinate with engineering and data teams, and track adoption and impact. Some firms keep strategy and implementation together. Others split them, with AI strategy work separate from build work.
-
-**Skills that matter:** Business analysis, stakeholder management, presentation, and a broad view of current AI tools and their limits. Technical depth helps but is not the same bar as ML engineering. You must explain trade-offs in plain terms and set realistic expectations.
-
-**Salary, United States:** Consultant pay depends heavily on firm tier and billing model.
+### 6. AI Consultant**What it is:**A consultant who helps a client choose where AI can help, what data and systems are needed, and how to deploy and measure it.**Who it is for:**Consultants, analysts, or domain experts who can translate between business problems and technical options and communicate with executives and delivery teams.**How it works:**You assess use cases, estimate return on investment, design a delivery plan, coordinate with engineering and data teams, and track adoption and impact. Some firms keep strategy and implementation together. Others split them, with AI strategy work separate from build work.**Skills that matter:**Business analysis, stakeholder management, presentation, and a broad view of current AI tools and their limits. Technical depth helps but is not the same bar as ML engineering. You must explain trade-offs in plain terms and set realistic expectations.**Salary, United States:** Consultant pay depends heavily on firm tier and billing model.
 
 * BLS Management Analysts, the federal occupation that includes management consultants: median $101,190 in May 2024, bottom 10 percent $59,720, top 10 percent $174,140. Projected growth 9 percent, adding about 94,500 jobs by 2034. May 2023 mean for the consulting industry: about $100,050.
 * Glassdoor, AI Consultant, April 2025, 45 salaries: median total pay about $198,428, range about $149,000 to $270,000. Glassdoor AI Consultant industry medians cited: financial services about $169,541, management and consulting about $168,325, information technology about $112,894.
@@ -155,26 +87,18 @@ Three factors explain the spread: whether a figure includes equity, whether the 
 
 A $100,000+ difference between sources often comes from mixing salaried employees, contractors, and partners, and from mixing startup, boutique, and large-firm samples.
 
-**Pros:** Variety of problems, fast learning across industries, and option to move to an industry role later.
-
-**Cons and limits:** Travel and long hours at many firms, pressure to sell work as you advance, and wide pay dispersion that makes headline averages misleading. Solo and fractional income shows up as fees on a 1099, not as salary, so it does not appear cleanly in salary aggregators.
+**Pros:**Variety of problems, fast learning across industries, and option to move to an industry role later.**Cons and limits:**Travel and long hours at many firms, pressure to sell work as you advance, and wide pay dispersion that makes headline averages misleading. Solo and fractional income shows up as fees on a 1099, not as salary, so it does not appear cleanly in salary aggregators.
 
 ### How to start without a PhD
 
-You do not need a doctorate for most of these paths. The common entry pattern is: learn core concepts, pick one lane, build and publish work, and apply with evidence.
-
-**1. Get a foundation in 10 to 20 hours.**
+You do not need a doctorate for most of these paths. The common entry pattern is: learn core concepts, pick one lane, build and publish work, and apply with evidence.**1. Get a foundation in 10 to 20 hours.**
 
 * Elements of AI, by the University of Helsinki and MinnaLearn: free online course, self-paced, theory with practical exercises, aimed at explaining what AI can and cannot do. Certificate available for a small fee. Good for managers, designers, writers, and others who need AI literacy before picking a track.
 * AI For Everyone, by DeepLearning.AI and Andrew Ng: available on Coursera, 6 to 7 hours of video (35 lessons, 4 graded assignments), beginner level, covers terminology including machine learning, neural networks, and data science, how AI projects run, and how to spot opportunities. Certificate requires payment, about $49 for 180 days of certificate eligibility, with a free audit option for content. Instructor is Andrew Ng, former lead of Google Brain and co-founder of Coursera.
 
 These two are starting points, not job credentials. Use them to decide if you want a technical or applied track.
 
-**2. Pick a lane.**
-
-Technical lane includes Machine Learning Engineer, Data Scientist, and Safety Researcher. Applied lane includes AI Product Manager, Prompt or LLM Engineer, and AI Consultant. Your lane determines what to study next.
-
-**3. Build the core skills for that lane.**
+**2. Pick a lane.**Technical lane includes Machine Learning Engineer, Data Scientist, and Safety Researcher. Applied lane includes AI Product Manager, Prompt or LLM Engineer, and AI Consultant. Your lane determines what to study next.**3. Build the core skills for that lane.**
 
 * For technical roles: Python first, then SQL and statistics, then a machine learning curriculum. The Machine Learning Specialization by DeepLearning.AI and Stanford Online, taught by Andrew Ng on Coursera, is a common choice. It is a three-course, beginner-friendly program that covers supervised learning (linear and logistic regression), neural networks with TensorFlow, decision trees and ensembles, clustering and anomaly detection, and recommender systems, plus best practices for evaluating and tuning models. Official estimate is about 2 to 3 months at 9 to 10 hours per week. Cost is a Coursera subscription at about $49 per month or $399 per year for Coursera Plus, which includes this and other courses. It requires basic Python and high-school math. You write code with NumPy, scikit-learn, and TensorFlow. It is a strong entry signal but not a substitute for portfolio projects if you are switching careers.
 * For applied roles: AI literacy plus hands-on use of current tools. That means practicing with at least one LLM, one image or media tool, and one automation tool (such as chat models, RAG setups, or workflow tools like Zapier or internal automation), and learning to measure results. For product and consulting, add evaluation thinking: write success criteria, build a small test set, and track where the system fails.
@@ -203,25 +127,7 @@ Figures are for the United States and are rounded. BLS figures are base wages fr
 
 ### FAQ
 
-**Do I need a computer science degree?**
-No. Many hires come from adjacent fields and show proof through projects. For technical tracks you still need Python, SQL, statistics, and the ability to build and evaluate a model. For applied tracks you need clear writing, testing discipline, and the ability to measure quality.
-
-**How long does it take to become job-ready?**
-For a full-time learner with basic Python, a common path is 2 to 3 months for a structured specialization, plus 2 to 4 months of portfolio work and applications. Part-time learners often need 6 to 12 months. These are estimates. Actual time depends on prior math, weekly hours, and how much feedback you get on projects.
-
-**Which role has the highest pay ceiling?**
-In verified offer data, Machine Learning Engineer and AI Safety roles at frontier labs and top tech firms show the highest total compensation ceilings, with 90th percentile totals above $400,000 and principal-level bands higher. Medians are lower than ceiling figures. BLS payroll medians for these occupations stay near $120,000 to $140,000 in base pay, which excludes equity.
-
-**Is Prompt Engineer a real long-term job?**
-The tasks are real, but the title is shifting. Many employers now post the same work as LLM Engineer or Applied AI Engineer. Pay depends on whether you also build systems and run evals. Pure prompt writing without testing and measurement tends to fall into lower-paid annotation or QA bands.
-
-**Where should I look for reliable pay data?**
-Start with BLS for employer-reported base wages, then cross-check with Levels.fyi for verified total compensation at large tech firms, and Glassdoor for broader industry coverage. For government filings, the Department of Labor Foreign Labor Certification Data Center shows exact base wages filed for H-1B roles by employer and title.
-
-**What is the fastest way to show credibility if I am switching from a non-technical field?**
-For product, consulting, or LLM engineering, publish two artifacts: a short case study with metrics and failure cases, and a live demo or GitHub repo a reviewer can run. For data and ML, publish one end-to-end model with data, evaluation, and a clear README. Add certifications only after you have shipped work; hiring managers weigh shipped work more.
-
-**What does not work?**
+**Do I need a computer science degree?**No. Many hires come from adjacent fields and show proof through projects. For technical tracks you still need Python, SQL, statistics, and the ability to build and evaluate a model. For applied tracks you need clear writing, testing discipline, and the ability to measure quality.**How long does it take to become job-ready?**For a full-time learner with basic Python, a common path is 2 to 3 months for a structured specialization, plus 2 to 4 months of portfolio work and applications. Part-time learners often need 6 to 12 months. These are estimates. Actual time depends on prior math, weekly hours, and how much feedback you get on projects.**Which role has the highest pay ceiling?**In verified offer data, Machine Learning Engineer and AI Safety roles at frontier labs and top tech firms show the highest total compensation ceilings, with 90th percentile totals above $400,000 and principal-level bands higher. Medians are lower than ceiling figures. BLS payroll medians for these occupations stay near $120,000 to $140,000 in base pay, which excludes equity.**Is Prompt Engineer a real long-term job?**The tasks are real, but the title is shifting. Many employers now post the same work as LLM Engineer or Applied AI Engineer. Pay depends on whether you also build systems and run evals. Pure prompt writing without testing and measurement tends to fall into lower-paid annotation or QA bands.**Where should I look for reliable pay data?**Start with BLS for employer-reported base wages, then cross-check with Levels.fyi for verified total compensation at large tech firms, and Glassdoor for broader industry coverage. For government filings, the Department of Labor Foreign Labor Certification Data Center shows exact base wages filed for H-1B roles by employer and title.**What is the fastest way to show credibility if I am switching from a non-technical field?**For product, consulting, or LLM engineering, publish two artifacts: a short case study with metrics and failure cases, and a live demo or GitHub repo a reviewer can run. For data and ML, publish one end-to-end model with data, evaluation, and a clear README. Add certifications only after you have shipped work; hiring managers weigh shipped work more.**What does not work?**
 Listing tools you have tried once, copying a tutorial without a write-up, or omitting what failed. Reviewers look for error analysis and limitations. If you can state where your system fails and how you would test a fix, you stand out.
 
 AI demand is strong, but it is not automatic. BLS, PwC, and WEF all point to the same pattern: growth for roles that build, evaluate, and apply AI systems, slower growth or decline for routine information-processing tasks. Pick one role, learn its core loop, publish evidence you can do the loop, and benchmark pay with at least two sources that match the same compensation mix. That combination matters more than the number of courses you complete.

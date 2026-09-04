@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: constant product formula
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
 
@@ -18,7 +18,7 @@ This article breaks down the constant product formula, its practical application
 
 ### Key Insights
 
-| **Term** | **Definition** |
+| **Term**|**Definition** |
 |-----------|-----------------------------------------------------|
 | Formula | `x * y = k`, where `x` represents the amount of [Token](/what-is-a-token) A, `y` represents the amount of Token B, and `k` is a constant. |
 | Rule | The value of `k` must remain unchanged during a trade. An increase in one token's quantity requires an equivalent decrease in the other. |
@@ -48,9 +48,7 @@ We first calculate the constant, `k`:
 After any trade, the protocol ensures that the product of the new reserves equals 350,000.
 
 The current price of ETH is derived from the reserve ratio:
-- Price of ETH = `y / x` = 35,000 / 10 = **3,500 USDC per ETH**.
-
-**Now, a trader aims to buy 1 ETH.**
+- Price of ETH = `y / x` = 35,000 / 10 = **3,500 USDC per ETH**.**Now, a trader aims to buy 1 ETH.**
 
 1. The trader withdraws 1 ETH from the pool. The new ETH reserve (`x'`) becomes `10 - 1 = 9 ETH`.
 2. The protocol must determine the new USDC reserve (`y'`) to maintain `k`:
@@ -62,7 +60,7 @@ The current price of ETH is derived from the reserve ratio:
 
 In this transaction:
 - The trader pays 3,888.89 USDC for 1 ETH, resulting in an effective price of 3,888.89 USDC.
-- The initial price was 3,500 USDC. The trader's trade caused the price to rise, demonstrating **[price impact](/what-is-price-impact-in-dex-trading)**.
+- The initial price was 3,500 USDC. The trader's trade caused the price to rise, demonstrating**[price impact](/what-is-price-impact-in-dex-trading)**.
 - The new price of ETH in the pool is now `38,888.89 / 9 = 4,320.98 USDC`.
 
 The formula automatically adjusts the price according to the reserve ratio changes.
@@ -73,9 +71,9 @@ The formula `x * y = k` generates a hyperbolic graph. This shape has critical im
 
 - **Asymptotic Nature (Infinite Liquidity)**: The curve never intersects the x or y-axis. Thus, no matter how much of one token is traded, the pool theoretically maintains liquidity for the other token, though at increasingly high prices.
 
-- **Slippage**: The curve's convexity means larger trades endure more significant price impacts. As traders move along the curve, the price adjusts steeply, resulting in slippage.
+-**Slippage**: The curve's convexity means larger trades endure more significant price impacts. As traders move along the curve, the price adjusts steeply, resulting in slippage.
 
-- **Impermanent Loss**: When asset prices shift, the value of the assets held by a liquidity provider may decrease compared to simply holding the assets in their [wallet](/how-to-choose-a-crypto-wallet). This loss reflects the constant rebalancing of the LP's [portfolio](/building-web3-portfolio) due to price changes inherent in the `x * y = k` formula.
+-**Impermanent Loss**: When asset prices shift, the value of the assets held by a liquidity provider may decrease compared to simply holding the assets in their [wallet](/how-to-choose-a-crypto-wallet). This loss reflects the constant rebalancing of the LP's [portfolio](/building-web3-portfolio) due to price changes inherent in the `x * y = k` formula.
 
 ### Beyond the Basic Formula: Fees
 
@@ -91,21 +89,10 @@ The trading fee slightly increases the `k` value with each trade. This increment
 While the constant product formula was leading, it exhibits limitations in capital efficiency. Consequently, more advanced invariants have emerged:
 
 - **[StableSwap Invariant](/stableswap-invariant-explained-for-traders)**: Used by Curve, this hybrid formula optimizes trading for stablecoins, minimizing slippage for pegged assets.
-- **Concentrated Liquidity**: Implemented by Uniswap v3, this feature lets LPs provide liquidity within specific price ranges, significantly enhancing capital efficiency.
-- **Weighted Pools**: Used by Balancer, this variant allows for multiple assets with custom weightings (e.g., 80/20 instead of 50/50).
+-**Concentrated Liquidity**: Implemented by Uniswap v3, this feature lets LPs provide liquidity within specific price ranges, significantly enhancing capital efficiency.
+-**Weighted Pools**: Used by Balancer, this variant allows for multiple assets with custom weightings (e.g., 80/20 instead of 50/50).
 
-### Frequently Asked Questions (FAQ)
-
-**Who invented the constant product formula for AMMs?** 
-The formula is based on fundamental mathematics. Its application to AMMs was first articulated by Vitalik Buterin and popularized by Hayden Adams, the founder of Uniswap.
-
-**Why is `k` constant?** 
-`k` is the invariant the AMM is designed to maintain. It changes only when liquidity providers add or remove assets from the pool, which establishes a new `k`.
-
-**Does the formula account for gas fees?** 
-No, the formula does not include the network gas fees required to execute a transaction. Traders pay the amount specified by the AMM formula in addition to the gas fee.
-
-**Is the price displayed on a DEX the price I will receive?** 
+### Frequently Asked Questions (FAQ)**Who invented the constant product formula for AMMs?**The formula is based on fundamental mathematics. Its application to AMMs was first articulated by Vitalik Buterin and popularized by Hayden Adams, the founder of Uniswap.**Why is `k` constant?**`k` is the invariant the AMM is designed to maintain. It changes only when liquidity providers add or remove assets from the pool, which establishes a new `k`.**Does the formula account for gas fees?**No, the formula does not include the network gas fees required to execute a transaction. Traders pay the amount specified by the AMM formula in addition to the gas fee.**Is the price displayed on a DEX the price I will receive?** 
 No, the displayed price reflects the current spot price before your trade. Your transaction will incur price impact, leading to a slightly worse execution price. Larger trades will experience a more pronounced difference.
 
 ## Verifiable Primary Sources & References

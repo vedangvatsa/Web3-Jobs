@@ -8,7 +8,7 @@ description: >-
   to in-depth protocol design.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 You've built your [portfolio](/building-web3-portfolio), honed your skills, and secured an [interview](/how-to-prepare-for-job-interview) for your ideal [Web3](/what-is-web3) position. Now, you face the critical challenge: the interview process. Interviews in the Web3 space are demanding, assessing not only your technical abilities but also your grasp of decentralization principles, your alignment with the industry's culture, and your capacity to critically analyze complex systems. Whether you are a developer encountering a rigorous technical assessment or a marketing candidate discussing Maximum Extractable Value (MEV), thorough preparation is essential. This guide outlines common interview questions across both technical and non-technical roles in Web3. Use this as a checklist to evaluate your knowledge, refine your responses, and approach your next interview with confidence. For a full list of questions, refer to our [Web3 Interview Question Bank](/interview-questions).
 
@@ -16,11 +16,11 @@ You've built your [portfolio](/building-web3-portfolio), honed your skills, and 
 
 Every Web3 interview begins with questions aimed at assessing your enthusiasm and basic understanding of the field. Your responses here will set the tone for the entire discussion.
 
-1. **What's your "rabbit hole" story? Why are you passionate about Web3?** Share a personal experience that illustrates your genuine curiosity about the space beyond financial motivations.
-2. **Explain the [blockchain](/what-is-a-blockchain) trilemma. Which aspect do you think is most important to sacrifice for mainstream adoption?** This question evaluates your understanding of blockchain fundamentals. While there is no single correct answer, your ability to defend your viewpoint is important.
-3. **What's a Web3 project you admire and why? What's one you dislike and why?** Provide specific insights, discussing aspects such as tokenomics, governance models, or technical architecture.
-4. **What are the biggest challenges facing Web3 adoption today?** Demonstrate critical thinking. Common challenges include user experience (UX), scalability, and regulatory uncertainties. Choose one and elaborate.
-5. **How do you stay informed about developments in the fast-moving Web3 space?** Mention specific Twitter accounts, podcasts, newsletters, or blogs that you follow to showcase your commitment to ongoing learning.
+1. **What's your "rabbit hole" story? Why are you passionate about Web3?**Share a personal experience that illustrates your genuine curiosity about the space beyond financial motivations.
+2.**Explain the [blockchain](/what-is-a-blockchain) trilemma. Which aspect do you think is most important to sacrifice for mainstream adoption?**This question evaluates your understanding of blockchain fundamentals. While there is no single correct answer, your ability to defend your viewpoint is important.
+3.**What's a Web3 project you admire and why? What's one you dislike and why?**Provide specific insights, discussing aspects such as tokenomics, governance models, or technical architecture.
+4.**What are the biggest challenges facing Web3 adoption today?**Demonstrate critical thinking. Common challenges include user experience (UX), scalability, and regulatory uncertainties. Choose one and elaborate.
+5.**How do you stay informed about developments in the fast-moving Web3 space?** Mention specific Twitter accounts, podcasts, newsletters, or blogs that you follow to showcase your commitment to ongoing learning.
 
 ## Part 2: Questions for Smart Contract Developers
 

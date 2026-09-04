@@ -7,7 +7,7 @@ description: >-
   concepts of persistent virtual worlds, digital identity, and the player-owned.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The word metaverse gets used to mean many different things. In practice it points to the same idea: a set of shared, three dimensional virtual spaces where you show up as an avatar, keep your identity and items as you move, and transact in a working economy.
 
@@ -98,9 +98,9 @@ These are live Web3 worlds, not concepts. Use them to see what works and what do
 
 | Platform | What it is | Key details you can verify |
 | --- | --- | --- |
-| **Decentraland** | Browser-based virtual world on Ethereum, governed by a DAO | Built by Ari Meilich and Esteban Ordano starting in 2015. Genesis City contains 90,601 LAND parcels as ERC-721 tokens on Ethereum. MANA is the ERC-20 utility token used for LAND, wearables, and DAO votes. Control of core contracts was transferred to the Decentraland DAO in 2021. Scenes are built with a builder tool or SDK. Clients run in a browser via WebGL, with desktop clients also available. |
-| **The Sandbox** | Voxel-based world on Ethereum and Polygon, built by Pixowl and now run by Animoca Brands | Map contains 166,464 LAND parcels as ERC-721 tokens. SAND is the ERC-20 token with a 3 billion max supply, used for purchases, staking, and governance. Creators use VoxEdit to model voxel assets and Game Maker, a no-code visual scripting tool, to build experiences. Polygon support was added to lower transaction fees. |
-| **Otherside by Yuga Labs** | Browser-based world tied to Bored Ape Yacht Club, with land called Otherdeed | Launched with 55,000 Otherdeed NFTs in April 2022, generating about $320 million in primary sales. The central hub Koda Nexus went live in November 2025 and is accessible via browser without owning land. Otherdeeds include resources and artifacts that connect to evolving gameplay. ApeCoin and ApeChain are used for economy and transactions. |
+| **Decentraland**| Browser-based virtual world on Ethereum, governed by a DAO | Built by Ari Meilich and Esteban Ordano starting in 2015. Genesis City contains 90,601 LAND parcels as ERC-721 tokens on Ethereum. MANA is the ERC-20 utility token used for LAND, wearables, and DAO votes. Control of core contracts was transferred to the Decentraland DAO in 2021. Scenes are built with a builder tool or SDK. Clients run in a browser via WebGL, with desktop clients also available. |
+|**The Sandbox**| Voxel-based world on Ethereum and Polygon, built by Pixowl and now run by Animoca Brands | Map contains 166,464 LAND parcels as ERC-721 tokens. SAND is the ERC-20 token with a 3 billion max supply, used for purchases, staking, and governance. Creators use VoxEdit to model voxel assets and Game Maker, a no-code visual scripting tool, to build experiences. Polygon support was added to lower transaction fees. |
+|**Otherside by Yuga Labs**| Browser-based world tied to Bored Ape Yacht Club, with land called Otherdeed | Launched with 55,000 Otherdeed NFTs in April 2022, generating about $320 million in primary sales. The central hub Koda Nexus went live in November 2025 and is accessible via browser without owning land. Otherdeeds include resources and artifacts that connect to evolving gameplay. ApeCoin and ApeChain are used for economy and transactions. |
 
 For comparison, closed platforms you may already know are much larger. Roblox reported about 52 million daily active users in Q2 2022, Second Life averaged about 200,000 daily users in that period with 70 million registered accounts, and Fortnite regularly posts tens of millions of monthly participants. Those worlds do not give you onchain ownership, but they offer lower friction and far more populated spaces.
 
@@ -129,33 +129,7 @@ You do not need to buy land or tokens to look around. Start as a visitor, then a
 
 Keep expectations modest. Most experiences are experimental. If you go to meet people and test creation tools, you will learn more than if you go expecting a replacement for the web.
 
-## FAQ
-
-**Is the metaverse just VR?**
-
-No. VR is one display option. Most Web3 worlds today are entered through a browser or desktop app. Apple Vision Pro and Meta Quest add mixed reality options, but the core idea is a connected set of virtual spaces, not a specific headset.
-
-**Do I need [blockchain](/what-is-a-blockchain) or NFTs to use the metaverse?**
-
-No. Closed worlds like Roblox, Fortnite, and Horizon work without a wallet. You need blockchain only for the open version where you hold items as NFTs in your own wallet and move them between supporting worlds. Review [what are NFTs](/what-are-nfts) and [what is Web3](/what-is-web3) before you decide.
-
-**What does owning land actually give me?**
-
-In Decentraland and The Sandbox, owning a LAND NFT lets you deploy a scene or game to a specific coordinate, host visitors, and set permissions or rental terms. It does not give you physical land rights, guarantee traffic, or promise returns. Location matters only insofar as other users choose to visit nearby.
-
-**Why cannot I use my avatar or jacket everywhere?**
-
-Because there is no shared standard for avatar rigs and item metadata. Each engine expects different model formats, scales, and rigging. Interoperability efforts like OpenUSD, glTF, and ENS-linked avatars aim to fix this, but adoption is early. Even when a token is portable, rendering is not automatic.
-
-**How should I read active user numbers?**
-
-Distinguish wallet interactions from visitors. Onchain counts track transactions, which miss people who just walk around. Platform counts track logins, which can count brief visits. Look for the definition the source uses. Cross-check DappRadar onchain numbers with the project's own analytics and with offchain sites that track concurrent visitors.
-
-**What are the biggest risks?**
-
-Technical risk is low concurrency and weak interoperability. Market risk is high volatility for MANA, SAND, and LAND, and low liquidity for parcels. Usability risk is wallet loss, phishing, and gas fee surprises. Check contract approvals, use a hardware wallet for larger holdings, and start with amounts you can lose.
-
-**Where do industrial uses fit?**
+## FAQ**Is the metaverse just VR?**No. VR is one display option. Most Web3 worlds today are entered through a browser or desktop app. Apple Vision Pro and Meta Quest add mixed reality options, but the core idea is a connected set of virtual spaces, not a specific headset.**Do I need [blockchain](/what-is-a-blockchain) or NFTs to use the metaverse?**No. Closed worlds like Roblox, Fortnite, and Horizon work without a wallet. You need blockchain only for the open version where you hold items as NFTs in your own wallet and move them between supporting worlds. Review [what are NFTs](/what-are-nfts) and [what is Web3](/what-is-web3) before you decide.**What does owning land actually give me?**In Decentraland and The Sandbox, owning a LAND NFT lets you deploy a scene or game to a specific coordinate, host visitors, and set permissions or rental terms. It does not give you physical land rights, guarantee traffic, or promise returns. Location matters only insofar as other users choose to visit nearby.**Why cannot I use my avatar or jacket everywhere?**Because there is no shared standard for avatar rigs and item metadata. Each engine expects different model formats, scales, and rigging. Interoperability efforts like OpenUSD, glTF, and ENS-linked avatars aim to fix this, but adoption is early. Even when a token is portable, rendering is not automatic.**How should I read active user numbers?**Distinguish wallet interactions from visitors. Onchain counts track transactions, which miss people who just walk around. Platform counts track logins, which can count brief visits. Look for the definition the source uses. Cross-check DappRadar onchain numbers with the project's own analytics and with offchain sites that track concurrent visitors.**What are the biggest risks?**Technical risk is low concurrency and weak interoperability. Market risk is high volatility for MANA, SAND, and LAND, and low liquidity for parcels. Usability risk is wallet loss, phishing, and gas fee surprises. Check contract approvals, use a hardware wallet for larger holdings, and start with amounts you can lose.**Where do industrial uses fit?**
 
 Nvidia Omniverse and similar digital twin platforms let teams design and simulate products and factories in 3D. Those workloads often run on private clouds without tokens or wallets. They show that large-scale 3D collaboration has value even if consumer Web3 worlds remain small.
 

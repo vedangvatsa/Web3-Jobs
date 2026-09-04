@@ -6,7 +6,7 @@ description: >-
 data-ai-hint: email template
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Sending a thank-you email after a job [interview](/how-to-prepare-for-job-interview) serves as a strategic opportunity that candidates should not overlook. This email allows you to express gratitude, reaffirm your interest in the position, and highlight your qualifications. A personalized thank-you note can strengthen your impression, making it memorable for the interviewer. Using templates can simplify the writing process but remember to customize them based on your conversation.
 
@@ -18,9 +18,7 @@ Aim to send your thank-you email within 24 hours following the interview. This d
 
 This template is suitable for one-on-one interviews. It maintains professionalism while succinctly covering essential points.
 
-**Subject**: Thank you - [Job Title] Interview
-
-**Body**:
+**Subject**: Thank you - [Job Title] Interview**Body**:
 
 Hi [Interviewer's Name],
 
@@ -38,11 +36,7 @@ Best regards,
 
 ### Template 2: After a Panel Interview
 
-For panel interviews, send individualized emails to each participant. While the core message can be similar, ensure you reference specific points from your discussions with each person.
-
-**Subject**: Great speaking with you today
-
-**Body**:
+For panel interviews, send individualized emails to each participant. While the core message can be similar, ensure you reference specific points from your discussions with each person.**Subject**: Great speaking with you today**Body**:
 
 Hi [Interviewer's Name],
 
@@ -60,11 +54,7 @@ Sincerely,
 
 ### Template 3: The "Extra Value" Follow-Up
 
-Use this template when you want to provide additional value after the interview, especially if you discussed a specific challenge or idea.
-
-**Subject**: Following up on our conversation about [Specific Topic]
-
-**Body**:
+Use this template when you want to provide additional value after the interview, especially if you discussed a specific challenge or idea.**Subject**: Following up on our conversation about [Specific Topic]**Body**:
 
 Hi [Interviewer's Name],
 
@@ -82,11 +72,7 @@ Best,
 
 ### Template 4: After a More Casual Interview
 
-If the interview feels more like a friendly chat, your thank-you note can adopt a slightly more casual tone while remaining professional.
-
-**Subject**: Great to chat today
-
-**Body**:
+If the interview feels more like a friendly chat, your thank-you note can adopt a slightly more casual tone while remaining professional.**Subject**: Great to chat today**Body**:
 
 Hi [Interviewer's Name],
 
@@ -116,27 +102,17 @@ Regardless of which template you choose, personalization is vital. Generic, copy
 
 ### Common Mistakes to Avoid
 
-1. **Being Too Vague**: Avoid generic statements. Instead, focus on specific points from the interview to show genuine interest.
+1.**Being Too Vague**: Avoid generic statements. Instead, focus on specific points from the interview to show genuine interest.
 
-2. **Delaying the Email**: Sending the thank-you note late can diminish its impact. Aim for promptness.
+2.**Delaying the Email**: Sending the thank-you note late can diminish its impact. Aim for promptness.
 
-3. **Copying and Pasting**: Personalization is key. A template should serve as a guide, not a script.
+3.**Copying and Pasting**: Personalization is key. A template should serve as a guide, not a script.
 
-4. **Neglecting Follow-Up**: If you haven't heard back after the expected timeline, send a separate follow-up email rather than referencing your thank-you note.
+4.**Neglecting Follow-Up**: If you haven't heard back after the expected timeline, send a separate follow-up email rather than referencing your thank-you note.
 
-5. **Ignoring the Subject Line**: A clear subject line can make your email stand out. Use something straightforward that reflects the content.
+5.**Ignoring the Subject Line**: A clear subject line can make your email stand out. Use something straightforward that reflects the content.
 
-### Frequently Asked Questions (FAQs)
-
-**What if I forgot to send a thank-you email within 24 hours?**
-
-Sending a thank-you email late is better than not sending one at all. If you remember after the 24-hour mark, send it promptly without apologizing for the delay. Focus on expressing your gratitude and reiterating your interest.
-
-**Should I follow up on my thank-you email?**
-
-The thank-you email acts as a standalone message. If you do not receive a response within the timeline provided during the interview, send a separate follow-up email to inquire about the status of your application.
-
-**Is it acceptable to send a handwritten thank-you note?**
+### Frequently Asked Questions (FAQs)**What if I forgot to send a thank-you email within 24 hours?**Sending a thank-you email late is better than not sending one at all. If you remember after the 24-hour mark, send it promptly without apologizing for the delay. Focus on expressing your gratitude and reiterating your interest.**Should I follow up on my thank-you email?**The thank-you email acts as a standalone message. If you do not receive a response within the timeline provided during the interview, send a separate follow-up email to inquire about the status of your application.**Is it acceptable to send a handwritten thank-you note?**
 
 While handwritten notes can add a personal touch, in most modern industries, especially tech, an email is the expected format. Handwritten notes may arrive too late to influence the hiring decision. Prioritize a timely email.
 

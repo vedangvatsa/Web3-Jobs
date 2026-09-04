@@ -8,7 +8,7 @@ description: >-
   used in real pilots, what the tradeoffs are, and which roles to target.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 A Web3 supply chain expert combines logistics knowledge with blockchain and data standards to track goods from source to store on a shared ledger. The work is not about replacing trucks or scanners. It is about giving farmers, carriers, warehouses, and retailers one place to agree on what happened, when, and where.
 
@@ -24,11 +24,7 @@ Smart contracts, called chaincode on Fabric, automate rules such as holding paym
 
 ## Who it is for
 
-**You have a logistics or operations background and want to add Web3.** You already know GTINs, SSCCs, bills of lading, and warehouse processes. Adding EPCIS modeling, basic chaincode or Solidity, and oracle patterns lets you design pilots that match how the floor actually works.
-
-**You are an enterprise integrator.** You run SAP, Oracle, or Manhattan and need to publish shipment and receipt events without rebuilding the system. Your value is mapping existing fields to EPCIS and keeping the integration stable when the ledger changes.
-
-**You are a product or engineering hire.** Teams building supply chain dApps need people who can write ledger logic, wire IoT feeds, and build dashboards that read ledger events and show lot genealogy or exception alerts.
+**You have a logistics or operations background and want to add Web3.**You already know GTINs, SSCCs, bills of lading, and warehouse processes. Adding EPCIS modeling, basic chaincode or Solidity, and oracle patterns lets you design pilots that match how the floor actually works.**You are an enterprise integrator.**You run SAP, Oracle, or Manhattan and need to publish shipment and receipt events without rebuilding the system. Your value is mapping existing fields to EPCIS and keeping the integration stable when the ledger changes.**You are a product or engineering hire.**Teams building supply chain dApps need people who can write ledger logic, wire IoT feeds, and build dashboards that read ledger events and show lot genealogy or exception alerts.
 
 If you only trade tokens and never handle a handover, this path is less direct. If you want to work on provenance, recall speed, or auditability, the mechanics below define the roles that hire.
 
@@ -113,9 +109,7 @@ The Supplier Compliance Audit Network, SCAN, with members including Costco, Walm
 
 Takeaway: shared audit data can be a more practical first network than per-item tracking, because audits are fewer, higher value, and already shared among retailers.
 
-## Pros and cons, honestly
-
-**Where this work adds value:**
+## Pros and cons, honestly**Where this work adds value:**
 
 * Faster, narrower recalls. The mango pilot cut trace time from about seven days to 2.2 seconds, which lets teams pull a single lot instead of a whole product.
 * Provable provenance for customers and regulators. De Beers shows country of origin for registered diamonds over 1 carat. Walmart China shows farm, inspection, and location history via QR codes.
@@ -147,43 +141,13 @@ Takeaway: shared audit data can be a more practical first network than per-item 
 * **Supply chain protocol developer.** You need Fabric chaincode in Go or Node.js or EVM contracts in Solidity, plus EPCIS JSON-LD and oracle integration. Show a repo with an EPCIS to ledger mapper and a verified arrival escrow test.
 * **Web3 logistics consultant.** You need to map as-is flows, design the EPCIS to ledger mapping, and run the pilot with two suppliers. Show a one-page event model and a recall drill result.
 * **Product manager for supply chain.** You own the dashboard that reads on-chain events and displays lot genealogy and alerts. Show how endorsement and privacy rules become clear UX and exception flows.
-* **Analyst for compliance and provenance.** You query EPCIS and ledger proofs, cross-check certificates and origin claims, and flag mismatches. Show you can trace from QR scan to GTIN to EPCIS history without assuming the source scan was correct.
+* **Analyst for compliance and provenance.**You query EPCIS and ledger proofs, cross-check certificates and origin claims, and flag mismatches. Show you can trace from QR scan to GTIN to EPCIS history without assuming the source scan was correct.
 
 ### What to collect for interviews
 
 Record the lane, the identifiers, the three EPCIS events, the endorsement policy, the oracle setup, and the measured trace time. Keep a short video of scanning to event to ledger query. Teams hire for that loop more than for token diagrams.
 
-## FAQ
-
-**Does blockchain prove a product is genuine?**
-
-No by itself. It proves the history for an identifier has not been rewritten and that transfers followed the contract rules. Whether the item is genuine depends on binding the item to the identifier with a hard-to-copy check such as a diamond scan, a serialized seal, or a lab result, plus sampling.
-
-**Is Fabric the same as Ethereum?**
-
-No. Fabric is permissioned with known members and channels, and has no required cryptocurrency. Ethereum is permissionless and uses ETH for gas. Both support smart contracts, but trust and cost differ.
-
-**Why not put every field on chain?**
-
-Cost and privacy. Full documents would be expensive and would expose pricing and volumes. Common practice is to keep the full EPCIS event in a repository, put the hash and key fields on chain, and link the two.
-
-**What is the oracle problem in simple terms?**
-
-The ledger cannot see outside itself. A separate oracle service brings in GPS or temperature. If that service is centralized or the device is spoofed, the contract will run correctly on wrong inputs. Pilots use multiple devices, signed data, and off-chain aggregation.
-
-**What ended TradeLens if it worked technically?**
-
-Adoption. Maersk and IBM said on November 29, 2022 that full industry collaboration was not achieved and commercial viability was not reached, so they withdrew the platform by end of Q1 2023. Competitors did not want to share data on a carrier-led network.
-
-**How does a QR code fit?**
-
-The QR encodes a GS1 Digital Link with GTIN plus serial or lot. Scanning resolves to an EPCIS or ledger query that returns the event history. The code is only a pointer. The signed event history is the proof.
-
-**Do I need a token to run this?**
-
-On Fabric no. On OriginTrail the DKG uses TRAC with a 500 million fixed supply to pay and collateralize nodes. On public chains you need the chain's gas token for writes even if your product token is separate.
-
-**What scale of counterfeiting does this compete with?**
+## FAQ**Does blockchain prove a product is genuine?**No by itself. It proves the history for an identifier has not been rewritten and that transfers followed the contract rules. Whether the item is genuine depends on binding the item to the identifier with a hard-to-copy check such as a diamond scan, a serialized seal, or a lab result, plus sampling.**Is Fabric the same as Ethereum?**No. Fabric is permissioned with known members and channels, and has no required cryptocurrency. Ethereum is permissionless and uses ETH for gas. Both support smart contracts, but trust and cost differ.**Why not put every field on chain?**Cost and privacy. Full documents would be expensive and would expose pricing and volumes. Common practice is to keep the full EPCIS event in a repository, put the hash and key fields on chain, and link the two.**What is the oracle problem in simple terms?**The ledger cannot see outside itself. A separate oracle service brings in GPS or temperature. If that service is centralized or the device is spoofed, the contract will run correctly on wrong inputs. Pilots use multiple devices, signed data, and off-chain aggregation.**What ended TradeLens if it worked technically?**Adoption. Maersk and IBM said on November 29, 2022 that full industry collaboration was not achieved and commercial viability was not reached, so they withdrew the platform by end of Q1 2023. Competitors did not want to share data on a carrier-led network.**How does a QR code fit?**The QR encodes a GS1 Digital Link with GTIN plus serial or lot. Scanning resolves to an EPCIS or ledger query that returns the event history. The code is only a pointer. The signed event history is the proof.**Do I need a token to run this?**On Fabric no. On OriginTrail the DKG uses TRAC with a 500 million fixed supply to pay and collateralize nodes. On public chains you need the chain's gas token for writes even if your product token is separate.**What scale of counterfeiting does this compete with?**
 
 The OECD mapping for 2021 put counterfeit and pirated goods at about 467 billion US dollars, 2.3 percent of global imports, with small parcels and mail as the dominant channel. Any solution that only tracks bulk freight misses a large share.
 

@@ -7,7 +7,7 @@ description: >-
   impression.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 A cover letter remains a vital component of the job application process. While your [resume](/how-to-build-a-web3-resume-that-stands-out) summarizes your qualifications, the cover letter allows you to convey your story, personality, and connection to the hiring manager. It serves as a platform to articulate why you are the ideal candidate for the position. Implement these best practices to craft a compelling cover letter that stands out.
 
@@ -65,13 +65,7 @@ A well-crafted cover letter typically consists of 3-4 paragraphs, fitting within
 
 ### FAQs
 
-**What is the ideal length for a cover letter?** 
-A cover letter should be concise, ideally 3-4 paragraphs long, and never exceed one page.
-
-**Should I write a cover letter if it is optional?** 
-Yes. A well-crafted cover letter provides a chance to differentiate yourself from other candidates. Many applicants skip it, so taking the time to write one shows commitment.
-
-**What tone should my cover letter have?** 
+**What is the ideal length for a cover letter?**A cover letter should be concise, ideally 3-4 paragraphs long, and never exceed one page.**Should I write a cover letter if it is optional?**Yes. A well-crafted cover letter provides a chance to differentiate yourself from other candidates. Many applicants skip it, so taking the time to write one shows commitment.**What tone should my cover letter have?** 
 Maintain a professional tone while allowing your personality to shine through. Convey your enthusiasm for the role and the company clearly.
 
 ## Verifiable Primary Sources & References

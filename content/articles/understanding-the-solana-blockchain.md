@@ -7,7 +7,7 @@ description: >-
   applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Solana is a Layer 1, open source blockchain built for high throughput and low cost. It launched as a mainnet beta on March 16, 2020. Solana Labs, founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald, built the original protocol from Yakovenko's 2017 Proof-of-History whitepaper, and the Solana Foundation helps support ecosystem development.
 
@@ -15,11 +15,7 @@ It is a single, integrated network. It does not run three separate chains and it
 
 ## Who this guide is for
 
-**Builders weighing a base layer.** If you are comparing where to deploy and you need fast confirmation, low fees, and parallel execution, this explains the core pieces so you can decide with clear trade-offs.
-
-**Operators and researchers.** If you run validators, build explorers, or study throughput and fee design, you need the mechanics behind slots, fees, and client requirements.
-
-**Users who rely on Solana apps.** If you trade, send payments, or play games on Solana, you benefit from knowing why transactions confirm quickly and what can still go wrong.
+**Builders weighing a base layer.**If you are comparing where to deploy and you need fast confirmation, low fees, and parallel execution, this explains the core pieces so you can decide with clear trade-offs.**Operators and researchers.**If you run validators, build explorers, or study throughput and fee design, you need the mechanics behind slots, fees, and client requirements.**Users who rely on Solana apps.**If you trade, send payments, or play games on Solana, you benefit from knowing why transactions confirm quickly and what can still go wrong.
 
 ## How Solana is built
 
@@ -35,15 +31,7 @@ Tower BFT is the stake-weighted voting process that finalizes blocks. Validators
 
 The ideal slot time was 400 ms at launch. In August 2026 it was reduced to 350 ms as the first step toward 200 ms, reported by The Block and Decrypt. Allowed drift means real slots land between about 300 ms and 1 second. Users see confirmation in under a second, with full finality around 12 to 13 seconds.
 
-### Execution and propagation
-
-**Sealevel** is the parallel runtime. It runs transactions at the same time when they touch different accounts. Transactions that write to the same account run sequentially. This is why careful account design helps throughput.
-
-**Turbine** breaks blocks into small shreds and spreads them like BitTorrent. Leaders do not send full blocks to every validator directly.
-
-**Gulf Stream** forwards transactions to upcoming leaders ahead of time, so there is no large global mempool waiting for inclusion.
-
-**Pipelining and Cloudbreak** handle stage overlap for reading, executing, and writing. Cloudbreak is the horizontally scaled accounts database that lets the runtime fetch and update state quickly.
+### Execution and propagation**Sealevel**is the parallel runtime. It runs transactions at the same time when they touch different accounts. Transactions that write to the same account run sequentially. This is why careful account design helps throughput.**Turbine**breaks blocks into small shreds and spreads them like BitTorrent. Leaders do not send full blocks to every validator directly.**Gulf Stream**forwards transactions to upcoming leaders ahead of time, so there is no large global mempool waiting for inclusion.**Pipelining and Cloudbreak** handle stage overlap for reading, executing, and writing. Cloudbreak is the horizontally scaled accounts database that lets the runtime fetch and update state quickly.
 
 ### Accounts, programs, and fees
 
@@ -93,31 +81,17 @@ The design target is up to 65,000 transactions per second. Observed non-vote thr
 
 ## How to get started
 
-1. **Create a wallet.** Phantom or Solflare are common. Back up the seed phrase offline. Start with a small amount to learn the flow.
+1. **Create a wallet.**Phantom or Solflare are common. Back up the seed phrase offline. Start with a small amount to learn the flow.
 
-2. **Add a little SOL.** Fees are always in SOL, even for SPL token moves. Keep a dollar or two to cover many transactions. Verify the full address before sending.
+2.**Add a little SOL.**Fees are always in SOL, even for SPL token moves. Keep a dollar or two to cover many transactions. Verify the full address before sending.
 
-3. **Make a first transfer and inspect it.** Send between your own addresses and view the fee split on Solana Explorer or Solscan.
+3.**Make a first transfer and inspect it.**Send between your own addresses and view the fee split on Solana Explorer or Solscan.
 
-4. **Stake if you want.** Most wallets let you stake to validators. Compare commission, skip rate, and concentration. Unstaking follows epoch boundaries, about two days per epoch.
+4.**Stake if you want.**Most wallets let you stake to validators. Compare commission, skip rate, and concentration. Unstaking follows epoch boundaries, about two days per epoch.
 
-5. **Build on devnet first.** Install Rust, the Solana CLI, and Anchor. Use the quickstart at solana.com/docs/intro. Test on devnet with airdropped SOL before using mainnet.
+5.**Build on devnet first.**Install Rust, the Solana CLI, and Anchor. Use the quickstart at solana.com/docs/intro. Test on devnet with airdropped SOL before using mainnet.
 
-## FAQ
-
-**Is Solana an EVM chain?**
-No. Solana does not run the Ethereum Virtual Machine natively, and it does not host Solidity programs directly. Some bridges and translation layers exist, but core programs are written in Rust or C and use the Solana Virtual Machine.
-
-**Does Solana have subnets?**
-No. Solana does not have Avalanche-style subnets with separate validator sets. Extensions use programs and accounts on the same shared ledger, or they build separate networks that interact with Solana through bridges.
-
-**How does consensus work then?**
-A small random validator sample with repeated voting is how Avalanche reaches consensus. Solana uses Tower BFT voting tied to the Proof-of-History clock, with stake-weighted votes and doubling lockouts.
-
-**What caused past outages?**
-Past halts were tied to overload and software bugs, with the February 2024 case tied to the LoadedPrograms cache. Recent work includes local fee markets for hot accounts and a second validator client, Firedancer, which reached mainnet in late 2025. Recurrence is still possible.
-
-**What do I need to write a Solana program?**
+## FAQ**Is Solana an EVM chain?**No. Solana does not run the Ethereum Virtual Machine natively, and it does not host Solidity programs directly. Some bridges and translation layers exist, but core programs are written in Rust or C and use the Solana Virtual Machine.**Does Solana have subnets?**No. Solana does not have Avalanche-style subnets with separate validator sets. Extensions use programs and accounts on the same shared ledger, or they build separate networks that interact with Solana through bridges.**How does consensus work then?**A small random validator sample with repeated voting is how Avalanche reaches consensus. Solana uses Tower BFT voting tied to the Proof-of-History clock, with stake-weighted votes and doubling lockouts.**What caused past outages?**Past halts were tied to overload and software bugs, with the February 2024 case tied to the LoadedPrograms cache. Recent work includes local fee markets for hot accounts and a second validator client, Firedancer, which reached mainnet in late 2025. Recurrence is still possible.**What do I need to write a Solana program?**
 Rust is the main language, plus C where needed. Anchor covers account handling, instruction routing, and client IDL generation. Experience with ownership, lifetimes, and the Solana account model helps.
 
 ## Verifiable Primary Sources & References

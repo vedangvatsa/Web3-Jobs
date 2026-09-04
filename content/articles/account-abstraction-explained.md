@@ -7,7 +7,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Account abstraction lets your Ethereum account be a smart contract instead of a single private key. ERC-4337 is the standard that makes it work today without changing Ethereum consensus.
 
@@ -34,13 +34,7 @@ EIP-7702 is the companion change that did require a hard fork. It shipped with t
 
 ## Who it is for
 
-**Users who want simpler self-custody.** If seed phrases, keeping ETH for gas, and separate approve steps feel risky or confusing, a smart wallet hides those steps. You get one address with programmable rules.
-
-**Teams that onboard newcomers.** If your app loses users at the wallet step, paymasters let you sponsor gas or let users pay in the token they already hold. Batching lets you turn three signatures into one.
-
-**Builders of wallets, games, and treasury tools.** If you need session keys for a game, spending limits for a team vault, or a passkey login, you implement that logic in the account contract. You do not need to wrap every action in an EOA transaction.
-
-**Security and enterprise teams.** If you need 2-of-3 approvals over a threshold, daily limits, or a time-locked recovery path, you encode the policy in the account. Guardians can be other wallets, hardware devices, or a separate Safe.
+**Users who want simpler self-custody.**If seed phrases, keeping ETH for gas, and separate approve steps feel risky or confusing, a smart wallet hides those steps. You get one address with programmable rules.**Teams that onboard newcomers.**If your app loses users at the wallet step, paymasters let you sponsor gas or let users pay in the token they already hold. Batching lets you turn three signatures into one.**Builders of wallets, games, and treasury tools.**If you need session keys for a game, spending limits for a team vault, or a passkey login, you implement that logic in the account contract. You do not need to wrap every action in an EOA transaction.**Security and enterprise teams.**If you need 2-of-3 approvals over a threshold, daily limits, or a time-locked recovery path, you encode the policy in the account. Guardians can be other wallets, hardware devices, or a separate Safe.
 
 It is less useful if you only send occasional ETH from a single EOA, or if you need the lowest possible gas on mainnet and you cannot offset the extra validation cost.
 
@@ -50,9 +44,9 @@ It is less useful if you only send occasional ETH from a single EOA, or if you n
 
 ERC-4337 adds four roles around a singleton EntryPoint contract.
 
-- **Smart account.** The contract that holds your funds and implements `validateUserOp`. It checks the signature however you define it and it must ensure it can pay the EntryPoint. A minimal check is `msg.sender == ENTRYPOINT`. Many accounts also implement `executeUserOp` or a batch execute function. ERC-7579 and ERC-6900 describe modular ways to add and remove such functions.
+-**Smart account.**The contract that holds your funds and implements `validateUserOp`. It checks the signature however you define it and it must ensure it can pay the EntryPoint. A minimal check is `msg.sender == ENTRYPOINT`. Many accounts also implement `executeUserOp` or a batch execute function. ERC-7579 and ERC-6900 describe modular ways to add and remove such functions.
 
-- **UserOperation.** A pseudo-transaction that describes what the account wants to do. It is not a normal Ethereum transaction and it does not go into the normal mempool. The top-level fields include sender, nonce, factory and factoryData for deployment, callData for execution, gas fields that mirror EIP-1559, paymaster fields if someone else pays, and signature. On chain it is passed as PackedUserOperation where several gas fields are packed into bytes32 values to save calldata.
+-**UserOperation.**A pseudo-transaction that describes what the account wants to do. It is not a normal Ethereum transaction and it does not go into the normal mempool. The top-level fields include sender, nonce, factory and factoryData for deployment, callData for execution, gas fields that mirror EIP-1559, paymaster fields if someone else pays, and signature. On chain it is passed as PackedUserOperation where several gas fields are packed into bytes32 values to save calldata.
 
 ```solidity
 struct PackedUserOperation {
@@ -68,13 +62,13 @@ struct PackedUserOperation {
 }
 ```
 
-- **Bundler.** An off-chain actor that runs a separate UserOperation mempool, simulates each operation, bundles valid ones, and calls `EntryPoint.handleOps(ops, beneficiary)` in a normal Ethereum transaction. The bundler pays the gas upfront and is repaid from the account or paymaster deposit held in EntryPoint. Anyone can run a bundler. In practice most apps use hosted bundlers from Pimlico, Alchemy, Biconomy, Stackup, or Candide.
+-**Bundler.**An off-chain actor that runs a separate UserOperation mempool, simulates each operation, bundles valid ones, and calls `EntryPoint.handleOps(ops, beneficiary)` in a normal Ethereum transaction. The bundler pays the gas upfront and is repaid from the account or paymaster deposit held in EntryPoint. Anyone can run a bundler. In practice most apps use hosted bundlers from Pimlico, Alchemy, Biconomy, Stackup, or Candide.
 
-- **Factory.** A helper that creates the account at a deterministic address with CREATE2 when initCode is present. This gives you a counterfactual address. You can receive funds before the account is deployed. The address can be derived from the factory address and init code.
+-**Factory.**A helper that creates the account at a deterministic address with CREATE2 when initCode is present. This gives you a counterfactual address. You can receive funds before the account is deployed. The address can be derived from the factory address and init code.
 
-- **Paymaster.** An optional contract that agrees to pay for the UserOperation. The paymaster holds a deposit in EntryPoint and implements `validatePaymasterUserOp` and `postOp`. Use it to sponsor gas entirely or to let users pay in an ERC-20.
+-**Paymaster.**An optional contract that agrees to pay for the UserOperation. The paymaster holds a deposit in EntryPoint and implements `validatePaymasterUserOp` and `postOp`. Use it to sponsor gas entirely or to let users pay in an ERC-20.
 
-- **Aggregator.** An optional contract that validates an aggregated signature for a batch of UserOperations, for example BLS, to save verification cost.
+-**Aggregator.**An optional contract that validates an aggregated signature for a batch of UserOperations, for example BLS, to save verification cost.
 
 ### The flow
 
@@ -94,9 +88,7 @@ If verification fails for one operation the EntryPoint skips it and continues wi
 
 With EIP-7702 your EOA signs an authorization that sets its code to a delegate for that round. The bundler includes that authorization in the `authorizationList` of a type 0x04 transaction. The EntryPoint then treats the EOA as a smart account for that UserOperation. You keep the same address on every chain, which avoids CREATE2 address management. You can also use ERC-4337 UserOperations to relay 7702 delegations through the alt mempool for better inclusion. Many wallets in 2026 use both: 7702 for address continuity and EntryPoint v0.7 or v0.8 for sponsorship and batching.
 
-## What it enables, with concrete examples
-
-**Batching.** A DeFi action that today needs approve then swap then stake can be one UserOperation with three calls. On a Safe or ZeroDev Kernel account the calls array is executed atomically. If any call reverts the whole UserOperation reverts, which simplifies error handling.
+## What it enables, with concrete examples**Batching.**A DeFi action that today needs approve then swap then stake can be one UserOperation with three calls. On a Safe or ZeroDev Kernel account the calls array is executed atomically. If any call reverts the whole UserOperation reverts, which simplifies error handling.
 
 Example calls array for batching with viem:
 
@@ -110,13 +102,9 @@ const hash = await bundlerClient.sendUserOperation({
   ],
   paymaster: paymasterClient // optional
 })
-```
+```**Gas paid by someone else or in another token.**A dapp can run a verifying paymaster that checks an API signature and sponsors onboarding transactions up to a budget. Or it can run an ERC-20 paymaster that pulls USDC from the user. With Pimlico the client sets `paymasterContext: { token: USDC }` and adds an `approve` for the paymaster in the same batch. The paymaster pre-charges the maximum cost based on oracle prices then refunds the excess in `postOp`. OpenZeppelin documents the pattern with a Chainlink ETH/USD and token/USD feed.
 
-**Gas paid by someone else or in another token.** A dapp can run a verifying paymaster that checks an API signature and sponsors onboarding transactions up to a budget. Or it can run an ERC-20 paymaster that pulls USDC from the user. With Pimlico the client sets `paymasterContext: { token: USDC }` and adds an `approve` for the paymaster in the same batch. The paymaster pre-charges the maximum cost based on oracle prices then refunds the excess in `postOp`. OpenZeppelin documents the pattern with a Chainlink ETH/USD and token/USD feed.
-
-Real paymaster addresses you will see in examples: Pimlico ERC-20 paymaster on Sepolia is often shown as 0x0000000000000039cd5e8aE05257CE51C473ddd1, while mainnet deployments vary by chain. Always read the address from your paymaster provider, do not hardcode a demo value for production.
-
-**Recovery and key rotation.** Instead of a single seed phrase you register guardians. Safe with the Candide Social Recovery Module is a common setup. You enable the module and add guardians in one UserOperation, then a threshold of guardians can rotate the owner after a timelock.
+Real paymaster addresses you will see in examples: Pimlico ERC-20 paymaster on Sepolia is often shown as 0x0000000000000039cd5e8aE05257CE51C473ddd1, while mainnet deployments vary by chain. Always read the address from your paymaster provider, do not hardcode a demo value for production.**Recovery and key rotation.**Instead of a single seed phrase you register guardians. Safe with the Candide Social Recovery Module is a common setup. You enable the module and add guardians in one UserOperation, then a threshold of guardians can rotate the owner after a timelock.
 
 Typical 2-of-3 setup: you list two family wallets and one hardware wallet, set threshold 2, and choose a delay such as 48 hours for Argent or 3 days for the Candide module. If you lose your phone, guardians sign a recovery proposal with EIP-712, the contract starts the timelock, the current owner can cancel if they still have access, and after the window anyone can finalize the rotation.
 
@@ -130,19 +118,9 @@ const userOp = await smartAccount.createUserOperation(
   nodeUrl,
   bundlerUrl
 )
-```
+```**Alternative signatures.**The account can verify a WebAuthn passkey, a secp256r1 key from a phone enclave, or a BLS aggregated signature instead of secp256k1. Coinbase Smart Wallet and other passkey wallets do this. The validation logic is yours, the EntryPoint only checks that you returned the correct validationData.**Session keys.**A game can issue a key that is only allowed to call `move` on one contract up to a spend limit for 24 hours. The session key is stored as a modular validator. The user signs once to grant it, then the game client signs small UserOperations with that key without prompting the main key.**Spending limits and policies.**A treasury Safe can enforce that one signature is enough below 1,000 USDC per day but 2-of-3 is required above that. You implement the check in `validateUserOp` before paying the fee.
 
-**Alternative signatures.** The account can verify a WebAuthn passkey, a secp256r1 key from a phone enclave, or a BLS aggregated signature instead of secp256k1. Coinbase Smart Wallet and other passkey wallets do this. The validation logic is yours, the EntryPoint only checks that you returned the correct validationData.
-
-**Session keys.** A game can issue a key that is only allowed to call `move` on one contract up to a spend limit for 24 hours. The session key is stored as a modular validator. The user signs once to grant it, then the game client signs small UserOperations with that key without prompting the main key.
-
-**Spending limits and policies.** A treasury Safe can enforce that one signature is enough below 1,000 USDC per day but 2-of-3 is required above that. You implement the check in `validateUserOp` before paying the fee.
-
-## Pros and cons
-
-**Where it helps**
-
-- No single point of failure from one private key. You can replace keys, add a second device, and set guardians. This matches how people actually manage risk.
+## Pros and cons**Where it helps**- No single point of failure from one private key. You can replace keys, add a second device, and set guardians. This matches how people actually manage risk.
 
 - Fewer prompts and fewer stuck transactions. Batching removes the approve then swap pattern and it guarantees atomicity.
 
@@ -150,11 +128,7 @@ const userOp = await smartAccount.createUserOperation(
 
 - Better auth options. Passkeys and multisig become account features, not external services.
 
-- Separation of validation and execution makes fee payment reliable. EntryPoint guarantees the fee is paid if validation succeeds.
-
-**Where it costs or adds risk**
-
-- Higher gas per UserOperation. You pay for `validateUserOp`, any paymaster validation, EntryPoint bookkeeping, and `preVerificationGas` that covers bundler overhead such as calldata gas from EIP-2028, memory expansion, and EIP-7702 authorization cost of 25,000 gas when used. For simple transfers this is more expensive than a direct EOA transaction. Batching and L2 fees often offset it, but on mainnet a single simple UserOperation can cost 30 to 60 percent more than the same call from an EOA.
+- Separation of validation and execution makes fee payment reliable. EntryPoint guarantees the fee is paid if validation succeeds.**Where it costs or adds risk**- Higher gas per UserOperation. You pay for `validateUserOp`, any paymaster validation, EntryPoint bookkeeping, and `preVerificationGas` that covers bundler overhead such as calldata gas from EIP-2028, memory expansion, and EIP-7702 authorization cost of 25,000 gas when used. For simple transfers this is more expensive than a direct EOA transaction. Batching and L2 fees often offset it, but on mainnet a single simple UserOperation can cost 30 to 60 percent more than the same call from an EOA.
 
 - Bundler dependency. Anyone can run a bundler but most apps rely on a few hosted providers today. If your bundler censors or stalls, your UserOperation waits until another bundler picks it up. The alt mempool mitigates this but it is still newer infrastructure than the normal mempool. Monitor inclusion and run a fallback bundler URL.
 
@@ -164,11 +138,7 @@ const userOp = await smartAccount.createUserOperation(
 
 - Compatibility gaps. Not every chain runs the same EntryPoint version. Many L2s upgraded from v0.6 to v0.7 in 2024 and 2025 at different times, and v0.8 at 0x4337084d9e255ff0702461cf8895ce9e3b5ff108 is rolling out now. EIP-7702 is live on Ethereum and major L2s since May 2025 but some sidechains trail. Your factory and paymaster must target the correct EntryPoint per chain.
 
-- Stake and reputation rules. If your factory or paymaster touches global storage without stake, bundlers will reject it. You need to stake through EntryPoint with `addStake` and respect unstake delays, or avoid global storage in validation.
-
-**Trade-off summary**
-
-| Use | Gain | Cost |
+- Stake and reputation rules. If your factory or paymaster touches global storage without stake, bundlers will reject it. You need to stake through EntryPoint with `addStake` and respect unstake delays, or avoid global storage in validation.**Trade-off summary**| Use | Gain | Cost |
 | --- | --- | --- |
 | One-click DeFi flows | Fewer signatures, atomic batch | Extra validation gas |
 | Onboarding without ETH | Higher conversion, pay in USDC | Paymaster liveness and oracle risk |
@@ -188,11 +158,11 @@ const userOp = await smartAccount.createUserOperation(
 
 ### If you are a builder
 
-1. **Pick a stack.** viem with `viem/account-abstraction` plus permissionless.js is the most common. Alternatives are Alchemy AA SDK, Biconomy, ZeroDev Kernel, and Candide abstractionkit. Use the same EntryPoint version across account, bundler, and paymaster.
+1.**Pick a stack.**viem with `viem/account-abstraction` plus permissionless.js is the most common. Alternatives are Alchemy AA SDK, Biconomy, ZeroDev Kernel, and Candide abstractionkit. Use the same EntryPoint version across account, bundler, and paymaster.
 
-2. **Run on Sepolia first.** Use EntryPoint v0.7 at 0x0000000071727De22E5E9d8BAf0edAc6f37da032. Get testnet ETH from a faucet and point your clients at a public RPC.
+2.**Run on Sepolia first.**Use EntryPoint v0.7 at 0x0000000071727De22E5E9d8BAf0edAc6f37da032. Get testnet ETH from a faucet and point your clients at a public RPC.
 
-3. **Wire the clients.** Minimal viem plus Pimlico example for a Safe account:
+3.**Wire the clients.**Minimal viem plus Pimlico example for a Safe account:
 
 ```ts
 import { createPublicClient, http } from "viem"
@@ -239,45 +209,13 @@ const hash = await smartAccountClient.sendUserOperation({
 const receipt = await bundlerClient.waitForUserOperationReceipt({ hash })
 ```
 
-4. **Handle gas correctly.** Call `bundlerClient.estimateUserOperationGas` first, then set `maxFeePerGas` and `maxPriorityFeePerGas` from the bundler gas price feed. Ensure the account or paymaster has a deposit in EntryPoint via `depositTo` or that the paymaster sponsors it. Include `preVerificationGas` with enough slack for your paymaster context size. For 7702 delegations add 25,000 gas per authorization.
+4.**Handle gas correctly.**Call `bundlerClient.estimateUserOperationGas` first, then set `maxFeePerGas` and `maxPriorityFeePerGas` from the bundler gas price feed. Ensure the account or paymaster has a deposit in EntryPoint via `depositTo` or that the paymaster sponsors it. Include `preVerificationGas` with enough slack for your paymaster context size. For 7702 delegations add 25,000 gas per authorization.
 
-5. **Add policies as modules.** For session keys or spending limits, install an ERC-7579 validator module rather than forking the account. Test the validator on a local anvil fork with `simulateValidation` before mainnet.
+5.**Add policies as modules.**For session keys or spending limits, install an ERC-7579 validator module rather than forking the account. Test the validator on a local anvil fork with `simulateValidation` before mainnet.
 
-6. **Go cross-chain deliberately.** Keep a config map of EntryPoint addresses per chain. v0.6, v0.7, and v0.8 coexist. Wallet factories from eth-infinitism publish deterministic addresses for each version, but some rollups use chain-specific pricing. Test bundler routing per chain.
+6.**Go cross-chain deliberately.**Keep a config map of EntryPoint addresses per chain. v0.6, v0.7, and v0.8 coexist. Wallet factories from eth-infinitism publish deterministic addresses for each version, but some rollups use chain-specific pricing. Test bundler routing per chain.**Costs to budget.**Expect one bundler transaction to wrap many UserOperations, so you share the 21,000 base cost. Per UserOperation you pay calldata for the PackedUserOperation, EntryPoint execution, your account validation, and paymaster overhead if present. For budgeting, many teams add 15 to 30 percent on top of the simulated gas for mainnet variance.
 
-**Costs to budget.** Expect one bundler transaction to wrap many UserOperations, so you share the 21,000 base cost. Per UserOperation you pay calldata for the PackedUserOperation, EntryPoint execution, your account validation, and paymaster overhead if present. For budgeting, many teams add 15 to 30 percent on top of the simulated gas for mainnet variance.
-
-## FAQ
-
-**Is ERC-4337 the same as EIP-7702?**
-
-No. ERC-4337 is an application-layer standard. No consensus change. It uses the alt mempool and EntryPoint. EIP-7702 is a protocol change in Pectra that lets an EOA delegate to a contract with a type 0x04 transaction. They work together. You can delegate your EOA with 7702 and still send UserOperations through ERC-4337 for batching and sponsorship.
-
-**Do I still need ETH for gas?**
-
-Not necessarily. With a sponsoring paymaster the dapp can pay entirely. With an ERC-20 paymaster you pay in USDC or another token. The paymaster still pays ETH to the bundler and EntryPoint under the hood. If no paymaster is used, your smart account needs a deposit in EntryPoint or ETH to cover the fee.
-
-**Can I keep my current EOA address?**
-
-With ERC-4337 alone you get a new contract address derived via CREATE2. With EIP-7702 you can keep the same EOA address and delegate it to smart account code. Most wallets that want address continuity now support both.
-
-**Is a smart account less secure than an EOA?**
-
-It moves risk, it does not remove it. You remove the single-key failure but you add code risk in your validation logic and shared trust in EntryPoint and any paymaster or factory you use. Use audited account implementations from eth-infinitism, Safe, or OpenZeppelin, gate sensitive functions with `msg.sender == ENTRYPOINT`, and avoid custom crypto in validation.
-
-**What happens if my bundler goes down?**
-
-UserOperations live in the alt mempool. If one bundler is down, another can include your operation as long as it follows the shared ERC-7562 rules and supports your EntryPoint version. Run two bundler URLs in production, for example Pimlico and Alchemy or Biconomy, and retry on `FailedOp` with a higher fee.
-
-**How is the nonce different?**
-
-ERC-4337 uses a 2D nonce, 192-bit key and 64-bit sequence. You read it with `EntryPoint.getNonce(sender, key)`. This lets you have parallel channels so one stuck UserOperation on key 0 does not block a recovery operation on key 1.
-
-**Do I need to deploy EntryPoint myself?**
-
-No. Use the canonical addresses. For local development you deploy a copy, but for testnet and mainnet use 0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789 for v0.6, 0x0000000071727De22E5E9d8BAf0edAc6f37da032 for v0.7, and 0x4337084d9e255ff0702461cf8895ce9e3b5ff108 for v0.8 where available. Bundlers whitelist these.
-
-**What should I read next?**
+## FAQ**Is ERC-4337 the same as EIP-7702?**No. ERC-4337 is an application-layer standard. No consensus change. It uses the alt mempool and EntryPoint. EIP-7702 is a protocol change in Pectra that lets an EOA delegate to a contract with a type 0x04 transaction. They work together. You can delegate your EOA with 7702 and still send UserOperations through ERC-4337 for batching and sponsorship.**Do I still need ETH for gas?**Not necessarily. With a sponsoring paymaster the dapp can pay entirely. With an ERC-20 paymaster you pay in USDC or another token. The paymaster still pays ETH to the bundler and EntryPoint under the hood. If no paymaster is used, your smart account needs a deposit in EntryPoint or ETH to cover the fee.**Can I keep my current EOA address?**With ERC-4337 alone you get a new contract address derived via CREATE2. With EIP-7702 you can keep the same EOA address and delegate it to smart account code. Most wallets that want address continuity now support both.**Is a smart account less secure than an EOA?**It moves risk, it does not remove it. You remove the single-key failure but you add code risk in your validation logic and shared trust in EntryPoint and any paymaster or factory you use. Use audited account implementations from eth-infinitism, Safe, or OpenZeppelin, gate sensitive functions with `msg.sender == ENTRYPOINT`, and avoid custom crypto in validation.**What happens if my bundler goes down?**UserOperations live in the alt mempool. If one bundler is down, another can include your operation as long as it follows the shared ERC-7562 rules and supports your EntryPoint version. Run two bundler URLs in production, for example Pimlico and Alchemy or Biconomy, and retry on `FailedOp` with a higher fee.**How is the nonce different?**ERC-4337 uses a 2D nonce, 192-bit key and 64-bit sequence. You read it with `EntryPoint.getNonce(sender, key)`. This lets you have parallel channels so one stuck UserOperation on key 0 does not block a recovery operation on key 1.**Do I need to deploy EntryPoint myself?**No. Use the canonical addresses. For local development you deploy a copy, but for testnet and mainnet use 0x5FF137D4b0FDCD49DcA30c7CF57E578a026d2789 for v0.6, 0x0000000071727De22E5E9d8BAf0edAc6f37da032 for v0.7, and 0x4337084d9e255ff0702461cf8895ce9e3b5ff108 for v0.8 where available. Bundlers whitelist these.**What should I read next?**
 
 Start with the spec at eips.ethereum.org/EIPS/eip-4337, the ethereum.org roadmap page on account abstraction, and the docs at docs.erc4337.io. For implementation look at eth-infinitism/account-abstraction on GitHub, the permissionless.js docs, Safe Core, and OpenZeppelin account-abstraction contracts. The awesome-account-abstraction list curates current bundlers and paymasters.
 

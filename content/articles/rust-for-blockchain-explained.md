@@ -9,7 +9,7 @@ description: >-
   on chain program.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 
 ## What is Rust
@@ -67,9 +67,7 @@ The type system and borrow checker run before the program runs. If the rules are
 
 ### Cargo, rustup, and the release train
 
-**Cargo** is the integrated package manager and build tool. You create a project with `cargo new`, add a dependency with `cargo add`, build with `cargo build`, and test with `cargo test`. Dependencies come from crates.io. Each project has a `Cargo.toml` that lists name, version, edition, and crates.
-
-**rustup** manages Rust installations. The official install for Unix and macOS is:
+**Cargo**is the integrated package manager and build tool. You create a project with `cargo new`, add a dependency with `cargo add`, build with `cargo build`, and test with `cargo test`. Dependencies come from crates.io. Each project has a `Cargo.toml` that lists name, version, edition, and crates.**rustup**manages Rust installations. The official install for Unix and macOS is:
 
 ```bash
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
@@ -89,26 +87,20 @@ Chains execute the same program on many machines and charge per compute unit. Th
 
 Solana programs, Polkadot runtimes, and NEAR contracts hold funds directly. A use after free or a data race can become a loss of funds. Ownership and borrowing catch those at compile time. For Solana, the solana-program crate replaces some standard behavior intentionally: `println!` is replaced by `msg!` for on chain logs, and `rand` is not available in the deterministic runtime. If you depend on a crate that pulls in `rand`, the build fails. That strictness reduces nondeterminism.
 
-### Where Rust runs on chain
+### Where Rust runs on chain**Solana.**Programs are primarily written in Rust. Native programs depend on `solana-program`, expose an entrypoint with the `entrypoint!` macro instead of `main`, and compile to BPF/SBF bytecode with `cargo build-sbf` or `cargo build-bpf` for deployment as a `.so`. Anchor wraps this with a Rust eDSL, an Interface Definition Language for clients, and a CLI. Anchor handles account validation and serialization, and is recommended for beginners.
 
-**Solana.** Programs are primarily written in Rust. Native programs depend on `solana-program`, expose an entrypoint with the `entrypoint!` macro instead of `main`, and compile to BPF/SBF bytecode with `cargo build-sbf` or `cargo build-bpf` for deployment as a `.so`. Anchor wraps this with a Rust eDSL, an Interface Definition Language for clients, and a CLI. Anchor handles account validation and serialization, and is recommended for beginners.
-
-Solana's account model matters for Rust. Everything is an account, including programs marked executable and data accounts. Programs are stateless. All state lives in separate accounts passed into the instruction and validated with `#[derive(Accounts)]`. Ownership of a data account belongs to a program, and only that program can mutate it. Accounts also have rent, so you typically make them rent exempt with a minimum balance.
-
-**Polkadot SDK / Substrate.** Substrate is a modular Rust framework for chains. FRAME lets you compose pallets, each marked with `#[frame_support::pallet]`, to build runtime logic for balances, staking, governance, and more. Runtimes build to both native and WASM, with `substrate-wasm-builder` producing `target/.../wbuild/.../*.wasm`. Polkadot itself and its system parachains are Substrate chains. Cumulus makes a Substrate chain Polkadot aware. If you want a custom chain rather than a single contract, this is the Rust path.
+Solana's account model matters for Rust. Everything is an account, including programs marked executable and data accounts. Programs are stateless. All state lives in separate accounts passed into the instruction and validated with `#[derive(Accounts)]`. Ownership of a data account belongs to a program, and only that program can mutate it. Accounts also have rent, so you typically make them rent exempt with a minimum balance.**Polkadot SDK / Substrate.** Substrate is a modular Rust framework for chains. FRAME lets you compose pallets, each marked with `#[frame_support::pallet]`, to build runtime logic for balances, staking, governance, and more. Runtimes build to both native and WASM, with `substrate-wasm-builder` producing `target/.../wbuild/.../*.wasm`. Polkadot itself and its system parachains are Substrate chains. Cumulus makes a Substrate chain Polkadot aware. If you want a custom chain rather than a single contract, this is the Rust path.
 
 **NEAR.** NEAR supports Rust, JavaScript, TypeScript, and Python for contracts, but docs recommend the Rust SDK for production for its maturity and safety. You annotate a struct with `#[near(contract_state)]` and its impl with `#[near]`, then build with `cargo near build` from `cargo-near`. The SDK provides `env::*` for blockchain interaction and standards crates for fungible tokens (NEP-141) and non fungible tokens (NEP-171). Minimum supported Rust version is currently 1.93 for near-sdk.
 
 ## Pros and cons for blockchain work
 
-**Pros**
+### Pros
 
 * **Compile time safety for assets.** Ownership and the borrow checker catch double free, use after free, and data races before deploy. When contracts deal with tokens, that matters more than shaving minutes off compile time.
 * **No collector and predictable cost.** You control allocations and can reason about the compute budget per transaction. Solana, Substrate, and NEAR all justify Rust on this basis.
 * **Strong WASM story.** Substrate and NEAR compile Rust to WASM. Solana compiles Rust to its own bytecode. One language covers many VMs without switching ecosystems.
-* **Tooling that teams share.** Cargo, crates.io, `rustup`, and `rustfmt` give a common workflow across chains. Docs and compiler errors are specific, which helps new contributors in open source chain repos.
-
-**Cons**
+* **Tooling that teams share.**Cargo, crates.io, `rustup`, and `rustfmt` give a common workflow across chains. Docs and compiler errors are specific, which helps new contributors in open source chain repos.**Cons**
 
 * **Steep learning curve.** Ownership and borrowing take weeks to internalize if you come from JavaScript, Python, or Solidity. Lifetime errors are common at first.
 * **Slower compile feedback.** Rust compile times are longer than Solidity or TypeScript for large crates like Substrate. You trade faster checks for slower builds.
@@ -142,9 +134,7 @@ These exercises mirror real contract bugs, like passing the wrong account as mut
 
 ### 3. Pick one chain stack and build a small program
 
-**Option A: Solana with Anchor (recommended for dApp builders)**
-
-```bash
+**Option A: Solana with Anchor (recommended for dApp builders)**```bash
 cargo install --git https://github.com/solana-foundation/anchor avm --force
 avm install latest
 avm use latest
@@ -154,11 +144,7 @@ anchor init my-counter-dapp
 
 Open `programs/my-counter-dapp/src/lib.rs`. A minimal Anchor program has `declare_id!`, `#[program]`, and `#[derive(Accounts)]` structs for each instruction. Anchor creates an account with `init`, `payer = user`, and `space = 8 + 8` where 8 is the Anchor discriminator and 8 stores a `u64`. Use `msg!` for logs. Test with `anchor test`, which starts a local validator, deploys, and runs TypeScript tests that call `program.methods.initialize()` and fetch `program.account.counter`.
 
-When you move to native Rust without Anchor, add `solana-program = "2"` to Cargo, use `entrypoint!`, and build with `cargo build-sbf`.
-
-**Option B: NEAR with near-sdk**
-
-```bash
+When you move to native Rust without Anchor, add `solana-program = "2"` to Cargo, use `entrypoint!`, and build with `cargo build-sbf`.**Option B: NEAR with near-sdk**```bash
 cargo install cargo-near --locked
 cargo near new my-near-counter
 cargo near build
@@ -186,9 +172,7 @@ impl Contract {
 }
 ```
 
-Deploy with `cargo near deploy` to testnet after `cargo near create-dev-account`.
-
-**Option C: Polkadot SDK chain with FRAME**
+Deploy with `cargo near deploy` to testnet after `cargo near create-dev-account`.**Option C: Polkadot SDK chain with FRAME**
 
 Start from a template rather than from scratch. Clone the Polkadot SDK parachain template listed at paritytech/polkadot-sdk, then modify a pallet. A pallet uses `#[frame_support::pallet]` and macros for `#[pallet::storage]`, `#[pallet::call]`, and `#[pallet::event]`. Build with `cargo build --release`; the WASM runtime appears under `target/.../wbuild/...`. Read the FRAME docs for benchmarking and weights before you expose an extrinsic that users will pay for.
 
@@ -205,25 +189,7 @@ Most Rust programs on Solana and NEAR are called from a TypeScript client using 
 
 ## FAQ
 
-**Do I need to know C++ to learn Rust?**
-No. Rust borrows syntax from many languages but does not require C++ experience. The book introduces variables, types, functions, and control flow in chapter 3 without assuming systems background. Ownership in chapter 4 is new for most developers regardless of prior language.
-
-**Can I write EVM contracts in Rust?**
-Not directly for deployment to Ethereum mainnet, which runs EVM bytecode from Solidity, Vyper, or compiled Yul. You can use Rust for off chain tools, indexers, MEV bots, or for chains that add Rust based VMs. For Ethereum smart contracts, learn Solidity first and add Rust if you move to Solana, NEAR, or Substrate.
-
-**Why do Solana docs replace `println!` with `msg!` and remove `rand`?**
-On chain programs must be deterministic and fit a compute budget. `println!` targets stdout, which does not exist on chain, so `msg!` writes to program logs with lower cost. `rand` would produce different outputs on different validators, so it is not allowed in the runtime. A crate that depends on `rand` will fail to build for the SBF target.
-
-**Is Rust hard to learn for Web3?**
-The borrow checker is strict. Many developers report a few weeks until basics feel comfortable and several months until they can design pallets or Solana programs without frequent rewrites. The payoff is that the compiler catches many asset safety bugs before audit. Pair Rust study with one chain framework so you apply borrowing to accounts and storage right away.
-
-**What minimum Rust version do I need?**
-Check the stack you target. The book requires 1.90.0 with edition 2024. NEAR near-sdk lists MSRV 1.93.0 as of the latest README. Solana toolchains ship with their own pinned `rustc`. Run `rustc --version` after `rustup update` and match the MSRV in the stack docs you follow.
-
-**Should I start with native Solana Rust or Anchor?**
-Start with Anchor. Solana docs and the Anchor book both point beginners to Anchor because it generates the IDL, checks accounts, and removes much unsafe boilerplate. Learn native `solana-program` and `entrypoint!` later when you need fine control or want to reduce dependencies.
-
-**How does Rust compare to Move for Aptos and Sui?**
+**Do I need to know C++ to learn Rust?**No. Rust borrows syntax from many languages but does not require C++ experience. The book introduces variables, types, functions, and control flow in chapter 3 without assuming systems background. Ownership in chapter 4 is new for most developers regardless of prior language.**Can I write EVM contracts in Rust?**Not directly for deployment to Ethereum mainnet, which runs EVM bytecode from Solidity, Vyper, or compiled Yul. You can use Rust for off chain tools, indexers, MEV bots, or for chains that add Rust based VMs. For Ethereum smart contracts, learn Solidity first and add Rust if you move to Solana, NEAR, or Substrate.**Why do Solana docs replace `println!` with `msg!` and remove `rand`?**On chain programs must be deterministic and fit a compute budget. `println!` targets stdout, which does not exist on chain, so `msg!` writes to program logs with lower cost. `rand` would produce different outputs on different validators, so it is not allowed in the runtime. A crate that depends on `rand` will fail to build for the SBF target.**Is Rust hard to learn for Web3?**The borrow checker is strict. Many developers report a few weeks until basics feel comfortable and several months until they can design pallets or Solana programs without frequent rewrites. The payoff is that the compiler catches many asset safety bugs before audit. Pair Rust study with one chain framework so you apply borrowing to accounts and storage right away.**What minimum Rust version do I need?**Check the stack you target. The book requires 1.90.0 with edition 2024. NEAR near-sdk lists MSRV 1.93.0 as of the latest README. Solana toolchains ship with their own pinned `rustc`. Run `rustc --version` after `rustup update` and match the MSRV in the stack docs you follow.**Should I start with native Solana Rust or Anchor?**Start with Anchor. Solana docs and the Anchor book both point beginners to Anchor because it generates the IDL, checks accounts, and removes much unsafe boilerplate. Learn native `solana-program` and `entrypoint!` later when you need fine control or want to reduce dependencies.**How does Rust compare to Move for Aptos and Sui?**
 Both aim at asset safety. Move models assets as resources that cannot be copied or lost implicitly. Rust models safety through ownership and type checks. If you target Aptos, Sui, or Movement, learn Move. If you target Solana, Polkadot, or NEAR, learn Rust. Many teams know both.
 
 ## Verifiable Primary Sources & References

@@ -7,13 +7,13 @@ description: >-
   and a 12-month path from Ethereum tooling foundations to advanced practice.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 For years, the standard toolkit for [Ethereum](/what-is-ethereum) development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your [smart contracts](/what-are-smart-contracts) in [Solidity](/best-programming-languages-for-blockchain-development), but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
 
-Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a fast, portable, and modular toolkit for Ethereum application development, and its key feature is that it allows you to do everything, including writing your tests, **directly in Solidity**.
+Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a fast, portable, and modular toolkit for Ethereum application development, and its key feature is that it allows you to do everything, including writing your tests,**directly in Solidity**.
 
-This guide will provide an introduction to Foundry and walk through why so many developers are making the switch. For more details, see our full **[introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)**.
+This guide will provide an introduction to Foundry and walk through why so many developers are making the switch. For more details, see our full**[introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)**.
 
 ### What is Foundry?
 
@@ -22,18 +22,18 @@ Foundry is not a single tool, but a collection of command-line tools that work t
 * **Forge:** The core of Foundry. It's a testing framework that allows you to write your tests in Solidity. It also includes tools for compiling, deploying, and verifying contracts.
 * **Cast:** A command-line utility for interacting with smart contracts. You can use it to send transactions, call functions, and read data from the [blockchain](/what-is-a-blockchain), all from your terminal.
 * **Anvil:** A local testnet node, similar to Hardhat Network. It's a fast local blockchain that you can use for testing and development.
-* **Chisel:** An interactive Solidity shell (REPL) that allows you to quickly test out snippets of Solidity code without writing a full contract.
+* **Chisel:**An interactive Solidity shell (REPL) that allows you to quickly test out snippets of Solidity code without writing a full contract.
 
 ### Why Use Foundry? The Key Advantages
 
-1. **Solidity-Native Testing:** Writing tests in Solidity instead of JavaScript has several benefits:
+1.**Solidity-Native Testing:** Writing tests in Solidity instead of JavaScript has several benefits:
  * **No Context Switching:** You stay in the same language and mental model, which can make development faster and more intuitive.
  * **Performance:** Forge tests are often faster than JavaScript-based tests because they run directly in the EVM without the overhead of a JavaScript runtime.
- * **Fuzzing:** Forge has built-in support for "fuzz testing." This is a type of automated testing where the framework generates a huge number of random inputs to try and find edge cases that break your code. This is an improvement for security.
+ * **Fuzzing:**Forge has built-in support for "fuzz testing." This is a type of automated testing where the framework generates a huge number of random inputs to try and find edge cases that break your code. This is an improvement for security.
 
-2. **Speed:** Foundry is written in Rust and is engineered for performance. Compiling contracts and running tests is often much faster than with Hardhat.
+2.**Speed:**Foundry is written in Rust and is engineered for performance. Compiling contracts and running tests is often much faster than with Hardhat.
 
-3. **Portability:** Foundry is a simple command-line tool. It doesn't have a complex project structure with numerous dependencies. This makes it easy to install and use across different environments.
+3.**Portability:**Foundry is a simple command-line tool. It doesn't have a complex project structure with numerous dependencies. This makes it easy to install and use across different environments.
 
 ### A Simple Foundry Test: A Practical Example
 
@@ -88,9 +88,9 @@ To run these tests, you would simply run `forge test` in your terminal.
 
 ### Getting Started with Foundry
 
-1. **Installation:** The first step is to install Foundry. You can do this by running a single command found in the official Foundry Book documentation.
-2. **Start a Project:** Use `forge init my-project` to create a new Foundry project.
-3. **The Foundry Book:** The official documentation, known as the "Foundry Book," is an excellent resource for learning everything about the toolkit.
+1.**Installation:**The first step is to install Foundry. You can do this by running a single command found in the official Foundry Book documentation.
+2.**Start a Project:**Use `forge init my-project` to create a new Foundry project.
+3.**The Foundry Book:**The official documentation, known as the "Foundry Book," is an excellent resource for learning everything about the toolkit.
 
 While Hardhat remains a powerful and popular choice, Foundry represents an evolution in the Ethereum developer experience. Its focus on speed, simplicity, and Solidity-native testing is winning over developers who want a more efficient and powerful workflow. For any serious Ethereum developer, learning Foundry is increasingly seen as a necessary skill for building reliable and secure smart contracts.
 
@@ -100,21 +100,7 @@ These competencies are foundational for success in modern careers. Whether you'r
 
 ## Skill Breakdown
 
-### Core Competencies
-
-**Technical Foundation** 
-Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.
-
-**Communication Excellence** 
-The ability to clearly explain complex ideas is rare and valuable. Practice writing emails, documentation, and presentations. Clarity compounds over time.
-
-**Problem-Solving Methodology** 
-Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.
-
-**Learning Agility** 
-In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.
-
-**Emotional Intelligence** 
+### Core Competencies**Technical Foundation**Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.**Communication Excellence**The ability to clearly explain complex ideas is rare and valuable. Practice writing emails, documentation, and presentations. Clarity compounds over time.**Problem-Solving Methodology**Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.**Learning Agility**In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.**Emotional Intelligence** 
 Understanding and managing your emotions, and reading others, determines your effectiveness in teams and negotiations.
 
 ## Development Roadmap

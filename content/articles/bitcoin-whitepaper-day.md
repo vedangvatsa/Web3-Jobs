@@ -7,11 +7,11 @@ image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin cryptocurrency
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## The Shot Heard 'Round the Digital World
 
-Each year on October 31st, the global tech community marks an important occasion: the publication of the [Bitcoin](/what-is-bitcoin) whitepaper. In 2008, Satoshi Nakamoto, a pseudonymous figure, sent an email to a cryptography mailing list containing a link to a nine-page document titled **"Bitcoin: A Peer-to-Peer Electronic Cash System."** This document laid the groundwork for a transformation in finance.
+Each year on October 31st, the global tech community marks an important occasion: the publication of the [Bitcoin](/what-is-bitcoin) whitepaper. In 2008, Satoshi Nakamoto, a pseudonymous figure, sent an email to a cryptography mailing list containing a link to a nine-page document titled **"Bitcoin: A Peer-to-Peer Electronic Cash System."**This document laid the groundwork for a transformation in finance.
 
 Satoshi proposed a new type of currency that operates independently of governments, banks, or any central authority. This marked the inception of cryptocurrency and the beginning of the [Web3](/what-is-web3) movement. On Bitcoin Whitepaper Day, we reflect on the fundamental concepts that initiated this transformation.
 
@@ -27,10 +27,10 @@ These weaknesses included:
 
 | Weakness | Description |
 |------------------------|-------------------------------------------------------|
-| **High Transaction Costs** | Financial intermediaries charge fees for each transaction. |
-| **Lack of Finality** | Transactions can be reversed, leading to uncertainty. |
-| **Exclusion** | Many individuals lack access to traditional banking services. |
-| **Censorship** | Central authorities can block or freeze transactions. |
+|**High Transaction Costs**| Financial intermediaries charge fees for each transaction. |
+|**Lack of Finality**| Transactions can be reversed, leading to uncertainty. |
+|**Exclusion**| Many individuals lack access to traditional banking services. |
+|**Censorship**| Central authorities can block or freeze transactions. |
 
 Satoshi aimed to create a system that enabled direct transactions between parties without the need for a trusted intermediary.
 
@@ -50,7 +50,7 @@ Once a transaction is recorded on the blockchain, altering it becomes nearly imp
 
 ### 3. Proof-of-Work: The Consensus Mechanism
 
-The network must agree on the validity of transactions and determine the next block to be added to the chain. This agreement is achieved through a mechanism called **Proof-of-Work**.
+The network must agree on the validity of transactions and determine the next block to be added to the chain. This agreement is achieved through a mechanism called**Proof-of-Work**.
 
 * **Mining:** Participants, known as miners, compete to solve complex mathematical problems.
 * **Winning the Block:** The first miner to solve the problem creates the next block of transactions and receives a reward in newly minted bitcoin.

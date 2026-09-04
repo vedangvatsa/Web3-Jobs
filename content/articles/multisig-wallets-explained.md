@@ -9,7 +9,7 @@ description: >-
   to set one up safely.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 A multisig wallet is a wallet that needs approval from M of N distinct private keys before it will move funds. A 2-of-3 multisig needs any two of three listed keys. One stolen or lost key alone cannot spend, and losing one key does not lock the funds if you keep the other two and the configuration.
 
@@ -28,10 +28,10 @@ Sources you can check: BIP-11 and BIP-16 on https://github.com/bitcoin/bips, BIP
 
 ## Who this guide is for
 
-- **Teams and treasuries.** DAOs, startups, funds, and any group where no single person should move money alone. A 3-of-5 or 4-of-7 lets you require approvals from different people or functions.
-- **People securing meaningful personal savings.** If losing one device or one seed phrase would be catastrophic, a 2-of-3 distributed across two hardware wallets and one offline backup or collaborative custodian removes that single point of failure.
-- **Operators who need inheritance or business continuity.** With N greater than M, one unavailable signer does not freeze the treasury. Remaining signers can still operate and then rotate keys.
-- **Builders choosing a custody model.** If you must decide between on-chain multisig, threshold signatures (MPC/FROST), or Shamir sharing for backup, this guide lays out the trade-off you actually pay for.
+- **Teams and treasuries.**DAOs, startups, funds, and any group where no single person should move money alone. A 3-of-5 or 4-of-7 lets you require approvals from different people or functions.
+-**People securing meaningful personal savings.**If losing one device or one seed phrase would be catastrophic, a 2-of-3 distributed across two hardware wallets and one offline backup or collaborative custodian removes that single point of failure.
+-**Operators who need inheritance or business continuity.**With N greater than M, one unavailable signer does not freeze the treasury. Remaining signers can still operate and then rotate keys.
+-**Builders choosing a custody model.**If you must decide between on-chain multisig, threshold signatures (MPC/FROST), or Shamir sharing for backup, this guide lays out the trade-off you actually pay for.
 
 It is less useful if you sign many small daily payments, you hold a small test balance, or you cannot operate and test a recovery procedure. A poorly run multisig can be less safe than a well-run single hardware wallet. The benefit comes from independent keys, separate locations, and a tested descriptor backup.
 
@@ -58,20 +58,12 @@ For most personal setups, 2-of-3 is the default because it keeps funds movable i
 
 ### How it works on Bitcoin (native, on-chain)
 
-Bitcoin enforces multisig in script, verified by every node. You do not trust a single contract deployer to enforce the rule.
+Bitcoin enforces multisig in script, verified by every node. You do not trust a single contract deployer to enforce the rule.**Address types you will see:**-**P2SH (pay-to-script-hash, addresses starting with 3).**The full script with N pubkeys and M is hashed into the address. At spend time, the redeem script and M signatures are revealed. Defined by BIP-16. All script data sits in the non-discounted part of the transaction, so fees are highest.
+-**P2WSH (pay-to-witness-script-hash, addresses starting with bc1q).**The SegWit version of P2SH. The script and signatures move to the witness, which receives the SegWit discount. A 2-of-3 P2WSH input is roughly 60 percent cheaper than the same 2-of-3 in P2SH because signatures stay in the discounted witness. Current standard for compatible multisig tooling.
+-**P2WSH-wrapped-in-P2SH (bc1q inside a 3 address).**Compatibility wrapper for older wallets. Less common now.
+-**Taproot P2TR (addresses starting with bc1p, activated November 2021 via BIP-341, BIP-340, BIP-342).**Two paths exist. Key path uses aggregated Schnorr keys with MuSig2 for n-of-n or FROST for m-of-n, producing one key and one signature on chain that looks like a singlesig spend. Script path uses Tapscripts with OP_CHECKSIGADD, which replaces OP_CHECKMULTISIG for batch-verifiable multisig. Key path is private and cheapest, but needs an interactive signing protocol. Script path is simpler but reveals the policy at spend when that leaf is used.
 
-**Address types you will see:**
-
-- **P2SH (pay-to-script-hash, addresses starting with 3).** The full script with N pubkeys and M is hashed into the address. At spend time, the redeem script and M signatures are revealed. Defined by BIP-16. All script data sits in the non-discounted part of the transaction, so fees are highest.
-- **P2WSH (pay-to-witness-script-hash, addresses starting with bc1q).** The SegWit version of P2SH. The script and signatures move to the witness, which receives the SegWit discount. A 2-of-3 P2WSH input is roughly 60 percent cheaper than the same 2-of-3 in P2SH because signatures stay in the discounted witness. Current standard for compatible multisig tooling.
-- **P2WSH-wrapped-in-P2SH (bc1q inside a 3 address).** Compatibility wrapper for older wallets. Less common now.
-- **Taproot P2TR (addresses starting with bc1p, activated November 2021 via BIP-341, BIP-340, BIP-342).** Two paths exist. Key path uses aggregated Schnorr keys with MuSig2 for n-of-n or FROST for m-of-n, producing one key and one signature on chain that looks like a singlesig spend. Script path uses Tapscripts with OP_CHECKSIGADD, which replaces OP_CHECKMULTISIG for batch-verifiable multisig. Key path is private and cheapest, but needs an interactive signing protocol. Script path is simpler but reveals the policy at spend when that leaf is used.
-
-Active descriptors define the wallet. A modern descriptor looks like `wsh(sortedmulti(2, xpub1/48'/0'/0'/2', xpub2/48'/0'/0'/2', xpub3/48'/0'/0'/2'))`. BIP-48 defines the HD path m/48'/coin'/account'/script' for multisig accounts. m/48'/0'/0'/2' is native SegWit P2WSH, m/48'/0'/0'/1' is P2SH-wrapped. BIP-67 defines sortedmulti so the address is deterministic regardless of xpub order. The descriptor plus checksums is the single file you need to rebuild the wallet. Without it, knowing M seed phrases is not enough to find the funds.
-
-**Transaction lifecycle on Bitcoin:**
-
-1. A watch-only coordinator holds the xpubs and descriptor but no private keys. Software like Sparrow, Electrum, Nunchuk, or Specter builds a PSBT (Partially Signed Bitcoin Transaction) with `walletcreatefundedpsbt` in Bitcoin Core.
+Active descriptors define the wallet. A modern descriptor looks like `wsh(sortedmulti(2, xpub1/48'/0'/0'/2', xpub2/48'/0'/0'/2', xpub3/48'/0'/0'/2'))`. BIP-48 defines the HD path m/48'/coin'/account'/script' for multisig accounts. m/48'/0'/0'/2' is native SegWit P2WSH, m/48'/0'/0'/1' is P2SH-wrapped. BIP-67 defines sortedmulti so the address is deterministic regardless of xpub order. The descriptor plus checksums is the single file you need to rebuild the wallet. Without it, knowing M seed phrases is not enough to find the funds.**Transaction lifecycle on Bitcoin:**1. A watch-only coordinator holds the xpubs and descriptor but no private keys. Software like Sparrow, Electrum, Nunchuk, or Specter builds a PSBT (Partially Signed Bitcoin Transaction) with `walletcreatefundedpsbt` in Bitcoin Core.
 2. The PSBT travels to signer 1. The hardware device shows destination, amount, change, and fee on its own screen and signs if approved. Each device checks the descriptor it was given at setup, not what the coordinator claims.
 3. The PSBT travels to signer 2 (or more until M is reached). That device verifies independently and adds its signature. Keys never meet on one device.
 4. The coordinator finalizes and broadcasts. Nodes verify the script and signatures. Fees are paid per vbyte. A 2-of-3 P2WSH input is about 250 vbytes versus about 110 vbytes for a singlesig P2WPKH input. A 3-of-5 can exceed 350 vbytes. A Taproot key path FROST spend stays at about 57.5 vbytes regardless of N, because only one Schnorr signature appears on chain.
@@ -82,26 +74,16 @@ Sources: Bitcoin Core multisig tutorial at https://github.com/bitcoin/bitcoin/bl
 
 Ethereum has no native multisig opcode. The logic is a contract.
 
-Safe is the most used implementation. As of Q4 2024 Messari measured over 30 million deployed Safe smart accounts securing over $97 billion, with about 87 percent on Ethereum mainnet. Safe reported crossing $100 billion secured in March 2024 and over 60 million accounts by Q1 2026. Market value of that secured figure moves with token prices, so track current TVS on the Safe reports rather than treating a past dollar figure as fixed.
-
-**Core storage:**
-
-- A linked list of owner addresses. Owners can be EOAs, other contracts, or passkey signers via modules.
-- A threshold value between 1 and N. Either can be changed, but only by a transaction that itself meets the threshold.
-
-**Transaction hash and execution:**
-
-Safe builds an EIP-712 hash over to, value, data, operation (Call or DelegateCall), safeTxGas, baseGas, gasPrice, gasToken, refundReceiver, and nonce plus chainId and the Safe address. Signers sign that hash off chain, or approve the hash on chain with `SignMessageLib` which then verifies via EIP-1271.
+Safe is the most used implementation. As of Q4 2024 Messari measured over 30 million deployed Safe smart accounts securing over $97 billion, with about 87 percent on Ethereum mainnet. Safe reported crossing $100 billion secured in March 2024 and over 60 million accounts by Q1 2026. Market value of that secured figure moves with token prices, so track current TVS on the Safe reports rather than treating a past dollar figure as fixed.**Core storage:**- A linked list of owner addresses. Owners can be EOAs, other contracts, or passkey signers via modules.
+- A threshold value between 1 and N. Either can be changed, but only by a transaction that itself meets the threshold.**Transaction hash and execution:**Safe builds an EIP-712 hash over to, value, data, operation (Call or DelegateCall), safeTxGas, baseGas, gasPrice, gasToken, refundReceiver, and nonce plus chainId and the Safe address. Signers sign that hash off chain, or approve the hash on chain with `SignMessageLib` which then verifies via EIP-1271.
 
 `execTransaction` is the entry point: `execTransaction(to, value, data, operation, safeTxGas, baseGas, gasPrice, gasToken, refundReceiver, signatures)`. It checks that enough gas was supplied to satisfy safeTxGas, calls any guard for pre-checks, verifies that at least M distinct owner signatures are valid and sorted by address, executes the call, calls the guard again with success, then optionally refunds the executor in `gasToken` at `gasPrice`. If safeTxGas is set to zero and the inner call fails, the whole transaction reverts and the nonce is not consumed, so you can retry. If safeTxGas is non-zero and the inner call fails, the Safe catches the error, increments the nonce anyway, and the transaction cannot be replayed. That prevents a relayer from holding a signed but unexecuted transaction.
 
 Optional extensions sit outside the core:
 
-- **Modules** (via `execTransactionFromModule`) bypass signature checks and execute through the Safe. Adding or removing a module itself needs M signatures. Modules handle cases like daily spending limits or recovery.
-- **Guards** run checks before and after each transaction and can block it.
-- **Fallback handler** receives unknown selectors via CALL, not DELEGATECALL, so it cannot write Safe storage directly. This is a deliberate isolation boundary.
-
-**Gas you should budget:**
+-**Modules**(via `execTransactionFromModule`) bypass signature checks and execute through the Safe. Adding or removing a module itself needs M signatures. Modules handle cases like daily spending limits or recovery.
+-**Guards**run checks before and after each transaction and can block it.
+-**Fallback handler**receives unknown selectors via CALL, not DELEGATECALL, so it cannot write Safe storage directly. This is a deliberate isolation boundary.**Gas you should budget:**
 
 Four parts make up a Safe transaction: base 21,000 gas, calldata cost (16 gas per non-zero byte, 4 per zero byte), signature checks (about 7,000 gas per ECDSA signature, cheaper for on-chain approvals, variable for contract signatures), and the execution of the target call plus guard and fallback overhead. Most wallets estimate safeTxGas and then double with a buffer because the 63/64ths rule in EIP-150 means not all supplied gas forwards to the inner call. If you use a gas token refund, the formula is `(baseGas + safeTxGas) * gasPrice` paid to the refundReceiver in `gasToken` or ETH if the token is zero address. For batched transactions through `MultiSend`, gas is the sum of sub-calls.
 
@@ -129,17 +111,11 @@ Sources: Unchained comparison at https://www.unchained.com/blog/mpc-vs-multisig-
 
 ## Pros and cons
 
-**Where multisig helps**
-
-- No single key can spend alone. An attacker who steals one hardware wallet, one phone, or one seed phrase in a 2-of-3 cannot move funds. They must compromise two independent locations at the same time.
+**Where multisig helps**- No single key can spend alone. An attacker who steals one hardware wallet, one phone, or one seed phrase in a 2-of-3 cannot move funds. They must compromise two independent locations at the same time.
 - No single person can act alone. Co-founders, treasury councils, or family members must collude to reach M. This prevents unilateral spending and insider theft.
 - One lost key does not mean lost funds when N is greater than M. In a 2-of-3, lose one key and move the funds with the other two to a fresh descriptor. This is a recovery gain over singlesig.
 - On-chain verifiability. For Bitcoin P2SH/P2WSH and Safe, anyone can check the quorum and which policies are active. This maps to fiduciary duties, SOC 2 access control, and audit trails.
-- Policy can be granular. Safe modules let you define spending limits that one key can spend alone up to a daily cap but need full quorum above it. Bitcoin can layer timelocks like CheckSequenceVerify for similar delayed paths.
-
-**Where it adds cost or risk**
-
-- Higher fees per spend. Bitcoin multisig inputs carry more witness data. Ethereum Safe checks each signature and pays for inner execution. A non-batched Safe transaction costs more than a direct EOA call, often 30 to 60 percent more for a simple transfer. Batching through MultiSend and using L2s offsets this.
+- Policy can be granular. Safe modules let you define spending limits that one key can spend alone up to a daily cap but need full quorum above it. Bitcoin can layer timelocks like CheckSequenceVerify for similar delayed paths.**Where it adds cost or risk**- Higher fees per spend. Bitcoin multisig inputs carry more witness data. Ethereum Safe checks each signature and pays for inner execution. A non-batched Safe transaction costs more than a direct EOA call, often 30 to 60 percent more for a simple transfer. Batching through MultiSend and using L2s offsets this.
 - Slower operations. Every transaction needs M people available, on the right device, verifying the same payload. Coordination time grows with M. Time-sensitive moves need a policy or a module that allows fast paths for small amounts.
 - Interface spoofing bypasses key diversity. If the UI shown to each signer is compromised (DNS hijack, malicious browser extension, poisoned coordinator build), every signer can be shown "pay 1 ETH to team.eth" while the hash they sign says "pay 100 ETH to attacker". Hardware screens mitigate this because each device shows its own view of the destination and amount, but signers must actually read that screen.
 - Targeted phishing across signers. A quorum of known signers (published Safe owners, public DAO council) can be phished in parallel. Out-of-band confirmation per transaction on a separate channel helps, but it depends on discipline, not just technology.
@@ -165,9 +141,7 @@ Sources: Unchained comparison at https://www.unchained.com/blog/mpc-vs-multisig-
 5. Back up the descriptor in at least two places separate from any single seed. The descriptor contains only public keys and policy, but losing it makes recovery hard. Print it, save the .json file to two offline media, and store each copy with a different seed backup. Do not co-locate a descriptor copy with every seed, but keep at least one copy reachable without assembling all seeds.
 6. Test with a small amount. Send a small coin to the first address, create a small spend PSBT on the coordinator, sign on two devices by verifying the destination and fee on each device screen, finalize on the coordinator, and broadcast. Confirm the transaction on a block explorer shows a P2WSH input and that your coordinator lists the UTXO.
 7. Test recovery. On a separate offline machine, import the descriptor and use two of the three seeds to rebuild the wallet and check that it derives the same addresses and can sign. If you use Electrum, Specter, or Sparrow, import the same descriptor rather than typing seeds into a hot machine. Wipe the test machine after.
-8. Document rotation. Write down how you will move to a new descriptor if a device is lost or a signer leaves: create new xpub set, deploy new descriptor, sweep funds, verify on each remaining device, and destroy old descriptor copies that included the retired signer.
-
-**Where to only use Taproot key path:** if all signers can run interactive signing software (FROST coordinator like Frostsnap) and you value privacy and the lowest fees, a MuSig2 n-of-n or FROST m-of-n P2TR descriptor produces a bc1p address with one aggregate key. This hides the quorum on chain and keeps fees near singlesig levels. Confirm that every signer in your set supports the same MuSig2/FROST version before committing funds, because mixing implementations can lock funds.
+8. Document rotation. Write down how you will move to a new descriptor if a device is lost or a signer leaves: create new xpub set, deploy new descriptor, sweep funds, verify on each remaining device, and destroy old descriptor copies that included the retired signer.**Where to only use Taproot key path:**if all signers can run interactive signing software (FROST coordinator like Frostsnap) and you value privacy and the lowest fees, a MuSig2 n-of-n or FROST m-of-n P2TR descriptor produces a bc1p address with one aggregate key. This hides the quorum on chain and keeps fees near singlesig levels. Confirm that every signer in your set supports the same MuSig2/FROST version before committing funds, because mixing implementations can lock funds.
 
 ### For Ethereum and EVM chains: a Safe 2-of-3 or 3-of-5
 
@@ -191,45 +165,7 @@ Sources: Unchained comparison at https://www.unchained.com/blog/mpc-vs-multisig-
 - Review fee and L1 finality per chain. On Bitcoin, fees spike with demand and vbyte usage matters for multisig. On EVM, Safe transactions pay per signature and per inner call, and L2 finality depends on blob posting and batch cadence. Check a fee tracker for the chain you use before broadcasting.
 - Update only from official sources. Get Safe at https://app.safe.global and docs at https://docs.safe.global. Get Bitcoin coordinators at https://sparrowwallet.com, https://electrum.org, or https://specter.solutions, and hardware firmware only from the vendor site. Verify releases by signature where offered.
 
-## FAQ
-
-**Is a 2-of-3 multisig less safe than a 3-of-5?**
-
-It depends on which risk you fear more. A 3-of-5 tolerates two lost keys instead of one and needs three compromises to steal instead of two, but it is harder to coordinate and more likely that signers are unavailable. Pick based on how many independent, reachable signers you can actually maintain and how often you must sign. There is no single best threshold for every group.
-
-**Does multisig hide how many signers I have?**
-
-On Bitcoin P2SH and P2WSH, no. The redeem script and which keys signed are revealed at spend, so observers see N, M, and the pubkeys. On Ethereum Safe, the transaction shows the Safe address and the verification checks each signature, and the collected signatures are submitted as calldata, so observers also see how many signatures were used. Taproot key path with MuSig2 or FROST is the exception: the on-chain key and signature look like singlesig.
-
-**Can I change the threshold later?**
-
-On Bitcoin, no without moving funds. The threshold is baked into the scriptPubKey. You must create a new descriptor with the new M-of-N and sweep funds to new addresses. On Safe, yes with an on-chain transaction. Owners submit a Safe transaction that calls the Safe itself to change the threshold or owner list, which must itself meet the current threshold.
-
-**What happens if we lose enough keys to fall below M?**
-
-Funds become inaccessible at the protocol layer, not just in the UI. On Bitcoin you would need to recover the missing seeds or find another copy. On Safe you would need the missing owners to sign. That is why you test recovery and store the descriptor or Safe export in places that do not depend on a single signer.
-
-**How is multisig different from splitting one seed phrase into shares?**
-
-Splitting one seed with Shamir sharing gives you multiple pieces of one key. At signing time those pieces reassemble the full private key on one device, so that moment is a single point of failure. Multisig keeps distinct keys that never meet on one device. Shares protect one key. Multisig protects the quorum. Trezor's Shamir Backup (SLIP-39) uses 20-word shares for backup, but it is still a backup for singlesig, not shared on-chain control between distrusting parties.
-
-**Do we pay more to use multisig?**
-
-Yes per transaction, though the amount varies. Bitcoin P2WSH 2-of-3 inputs use more vbytes than singlesig. Safe pays about 7,000 gas per ECDSA signature plus base and calldata plus inner call gas. Batched transactions via MultiSend on Safe, and Taproot key path FROST on Bitcoin, reduce the marginal cost when you have many operations.
-
-**Can one Safe control assets on many chains at the same address?**
-
-The Proxy Factory plus Singleton Factory allows deterministic deployment to the same address on many EVM chains, but each chain holds its own Safe instance with its own balances and nonce. Changing owners on Ethereum does not change owners on Base automatically. Keep a per-chain deployment record.
-
-**What should we set up for inheritance?**
-
-Define two separate packages: the technical package (where each seed and descriptor copy lives, how to reach each signer, and which Safe or descriptor version was used) and the legal package (who is authorized to act). Use separate locations, sealed instructions for an executor, and a rehearsal with the people who would actually execute. Do not store all instructions with a single holder of a signing key.
-
-**Which wallet software should we start with?**
-
-For Bitcoin, Sparrow or Specter as coordinator plus Coldcard, Trezor Safe, Ledger, or BitBox02 as signers is a common verified path with broad PSBT and descriptor support. For EVM, Safe at https://app.safe.global with hardware wallets as owners is the most widely audited default in 2026. Both paths have step-by-step official docs you can follow without building custom tooling.
-
-**When is MPC or FROST a better choice than plain multisig?**
+## FAQ**Is a 2-of-3 multisig less safe than a 3-of-5?**It depends on which risk you fear more. A 3-of-5 tolerates two lost keys instead of one and needs three compromises to steal instead of two, but it is harder to coordinate and more likely that signers are unavailable. Pick based on how many independent, reachable signers you can actually maintain and how often you must sign. There is no single best threshold for every group.**Does multisig hide how many signers I have?**On Bitcoin P2SH and P2WSH, no. The redeem script and which keys signed are revealed at spend, so observers see N, M, and the pubkeys. On Ethereum Safe, the transaction shows the Safe address and the verification checks each signature, and the collected signatures are submitted as calldata, so observers also see how many signatures were used. Taproot key path with MuSig2 or FROST is the exception: the on-chain key and signature look like singlesig.**Can I change the threshold later?**On Bitcoin, no without moving funds. The threshold is baked into the scriptPubKey. You must create a new descriptor with the new M-of-N and sweep funds to new addresses. On Safe, yes with an on-chain transaction. Owners submit a Safe transaction that calls the Safe itself to change the threshold or owner list, which must itself meet the current threshold.**What happens if we lose enough keys to fall below M?**Funds become inaccessible at the protocol layer, not just in the UI. On Bitcoin you would need to recover the missing seeds or find another copy. On Safe you would need the missing owners to sign. That is why you test recovery and store the descriptor or Safe export in places that do not depend on a single signer.**How is multisig different from splitting one seed phrase into shares?**Splitting one seed with Shamir sharing gives you multiple pieces of one key. At signing time those pieces reassemble the full private key on one device, so that moment is a single point of failure. Multisig keeps distinct keys that never meet on one device. Shares protect one key. Multisig protects the quorum. Trezor's Shamir Backup (SLIP-39) uses 20-word shares for backup, but it is still a backup for singlesig, not shared on-chain control between distrusting parties.**Do we pay more to use multisig?**Yes per transaction, though the amount varies. Bitcoin P2WSH 2-of-3 inputs use more vbytes than singlesig. Safe pays about 7,000 gas per ECDSA signature plus base and calldata plus inner call gas. Batched transactions via MultiSend on Safe, and Taproot key path FROST on Bitcoin, reduce the marginal cost when you have many operations.**Can one Safe control assets on many chains at the same address?**The Proxy Factory plus Singleton Factory allows deterministic deployment to the same address on many EVM chains, but each chain holds its own Safe instance with its own balances and nonce. Changing owners on Ethereum does not change owners on Base automatically. Keep a per-chain deployment record.**What should we set up for inheritance?**Define two separate packages: the technical package (where each seed and descriptor copy lives, how to reach each signer, and which Safe or descriptor version was used) and the legal package (who is authorized to act). Use separate locations, sealed instructions for an executor, and a rehearsal with the people who would actually execute. Do not store all instructions with a single holder of a signing key.**Which wallet software should we start with?**For Bitcoin, Sparrow or Specter as coordinator plus Coldcard, Trezor Safe, Ledger, or BitBox02 as signers is a common verified path with broad PSBT and descriptor support. For EVM, Safe at https://app.safe.global with hardware wallets as owners is the most widely audited default in 2026. Both paths have step-by-step official docs you can follow without building custom tooling.**When is MPC or FROST a better choice than plain multisig?**
 
 When you need to rotate keys without an on-chain sweep, produce singlesig-sized private transactions at high frequency, or manage the same threshold policy across many chains without redeploying multisig contracts on each chain. If public verifiability of the quorum matters more than privacy, or if you want the simplest, most reviewed setup with open recovery tools, plain multisig remains the conservative choice.
 

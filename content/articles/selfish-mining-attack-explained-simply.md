@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: selfish mining
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Selfish Mining Attack Explained Simply
 
@@ -20,10 +20,10 @@ This article clarifies the mechanics of selfish mining, its implications for blo
 
 | Insight | Details |
 |------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-| **Core Idea** | A selfish miner keeps their discovered blocks private to gain a head start on constructing a longer secret chain. |
-| **The Goal** | To force honest miners to waste their efforts on a public chain that will later be orphaned, thus increasing the selfish miner's relative share of rewards. |
-| **Key Exploit** | This attack exploits the **[fork choice rule](/what-is-a-blockchain-fork-choice-rule)** and the inherent delays in block propagation in distributed networks. |
-| **Threat Level** | Although theoretically possible, executing a successful selfish mining attack is challenging and typically requires a significant portion of the network's hash rate. It poses a threat to the fairness and security of blockchains. |
+|**Core Idea**| A selfish miner keeps their discovered blocks private to gain a head start on constructing a longer secret chain. |
+|**The Goal**| To force honest miners to waste their efforts on a public chain that will later be orphaned, thus increasing the selfish miner's relative share of rewards. |
+|**Key Exploit**| This attack exploits the**[fork choice rule](/what-is-a-blockchain-fork-choice-rule)**and the inherent delays in block propagation in distributed networks. |
+|**Threat Level**| Although theoretically possible, executing a successful selfish mining attack is challenging and typically requires a significant portion of the network's hash rate. It poses a threat to the fairness and security of blockchains. |
 
 ### The Honest Mining Process
 
@@ -37,9 +37,7 @@ This collaborative effort ensures that the network extends a single, canonical c
 
 ### The Selfish Mining Attack: Step-by-Step
 
-A selfish miner diverges from the standard honest mining strategy. Consider a scenario where a selfish mining pool, "S," competes against a group of honest miners, "H."
-
-**Step 1: Find a Block and Keep it Secret** 
+A selfish miner diverges from the standard honest mining strategy. Consider a scenario where a selfish mining pool, "S," competes against a group of honest miners, "H."**Step 1: Find a Block and Keep it Secret** 
 * The selfish pool "S" discovers a new block (S1).
 * Instead of broadcasting it, "S" keeps S1 private and immediately begins mining the next block (S2) on top of S1.
 
@@ -66,30 +64,19 @@ This creates a "delta" of one block between the secret and public chains. The ou
 ### Why is Selfish Mining a Threat?
 
 1. **Unfair Rewards**: Selfish mining disrupts the fundamental principle that a miner's reward should correlate with their contributed hash power. A selfish miner can earn more than their fair share.
-2. **Centralization Pressure**: If selfish mining proves profitable, it incentivizes other miners to join the selfish pool for a share of the enhanced profits. This can lead to the pool growing larger, potentially reaching the **[51% threshold](/what-is-a-51-percent-attack-in-blockchain)**, enabling full control over the network.
-3. **Wasted Energy**: The attack forces honest miners to expend significant computational power and energy on blocks that will ultimately be discarded, reducing the network's overall efficiency.
+2.**Centralization Pressure**: If selfish mining proves profitable, it incentivizes other miners to join the selfish pool for a share of the enhanced profits. This can lead to the pool growing larger, potentially reaching the**[51% threshold](/what-is-a-51-percent-attack-in-blockchain)**, enabling full control over the network.
+3.**Wasted Energy**: The attack forces honest miners to expend significant computational power and energy on blocks that will ultimately be discarded, reducing the network's overall efficiency.
 
 ### Mitigation and Defenses
 
 Blockchains can implement several strategies to defend against selfish mining:
 
 * **Increased Network Connectivity**: The attack depends on the selfish miner's ability to propagate their hidden chain faster than honest miners can propagate theirs. Enhancing network connectivity can diminish the time advantage of the selfish miner.
-* **Protocol-Level Changes**: Some protocols propose alterations to the fork choice rule to deter selfish mining. For instance, a rule could prioritize chains published earlier when two competing chains have the same length. [Ethereum](/what-is-ethereum)'s original GHOST protocol, which rewarded **[Uncle blocks](/understanding-uncle-blocks-in-ethereum)**, partially mitigated selfish mining by reducing the penalty for having a block orphaned, thus lowering the relative profitability of the selfish strategy.
+* **Protocol-Level Changes**: Some protocols propose alterations to the fork choice rule to deter selfish mining. For instance, a rule could prioritize chains published earlier when two competing chains have the same length. [Ethereum](/what-is-ethereum)'s original GHOST protocol, which rewarded**[Uncle blocks](/understanding-uncle-blocks-in-ethereum)**, partially mitigated selfish mining by reducing the penalty for having a block orphaned, thus lowering the relative profitability of the selfish strategy.
 
 In highly decentralized networks like Bitcoin, executing a successful selfish mining attack is exceedingly difficult. It requires a substantial portion of the network's hash rate while carrying the risk of orphaning the selfish miner's own blocks if their network connection is suboptimal.
 
-### Frequently Asked Questions (FAQ)
-
-**Q: How much hash power is needed for a selfish mining attack to be profitable?** 
-A: Research indicates that selfish mining could theoretically become profitable with a minority of the network's hash rate, contingent on network conditions. However, this estimate is theoretical; actual required hash power is likely higher in practice.
-
-**Q: Is selfish mining the same as a 51% attack?** 
-A: No. A 51% attack requires a majority of hash power, granting the attacker full control to double-spend and censor transactions. Selfish mining focuses on maximizing revenue and can (theoretically) be executed by a minority miner. Nevertheless, a successful selfish mining strategy can open the door to a 51% attack if it attracts additional miners to the selfish pool.
-
-**Q: Has selfish mining ever occurred on a major blockchain?** 
-A: There is no definitive, publicly verified case of a large-scale selfish mining attack on a major blockchain like Bitcoin. However, small-scale or subtle attempts may have occurred. The strategy's profitability is heavily reliant on ideal network conditions, which may not be present in real-world scenarios.
-
-**Q: Does Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) suffer from selfish mining?** 
+### Frequently Asked Questions (FAQ)**Q: How much hash power is needed for a selfish mining attack to be profitable?**A: Research indicates that selfish mining could theoretically become profitable with a minority of the network's hash rate, contingent on network conditions. However, this estimate is theoretical; actual required hash power is likely higher in practice.**Q: Is selfish mining the same as a 51% attack?**A: No. A 51% attack requires a majority of hash power, granting the attacker full control to double-spend and censor transactions. Selfish mining focuses on maximizing revenue and can (theoretically) be executed by a minority miner. Nevertheless, a successful selfish mining strategy can open the door to a 51% attack if it attracts additional miners to the selfish pool.**Q: Has selfish mining ever occurred on a major blockchain?**A: There is no definitive, publicly verified case of a large-scale selfish mining attack on a major blockchain like Bitcoin. However, small-scale or subtle attempts may have occurred. The strategy's profitability is heavily reliant on ideal network conditions, which may not be present in real-world scenarios.**Q: Does Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) (PoS) suffer from selfish mining?** 
 A: PoS systems do not face the same risks as PoW in terms of selfish mining since block creation does not depend on computational power races. However, they can experience different strategic attacks where a validator withholds attestations or blocks to gain an advantage. PoS protocols implement various mechanisms, such as slashing penalties, to deter such behaviors.
 
 ## Verifiable Primary Sources & References

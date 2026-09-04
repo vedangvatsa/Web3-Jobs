@@ -7,7 +7,7 @@ description: >-
   Master the art of the phone interview with this full guide. Learn how to
   prepare, what to say, and how to follow up to make a lasting impression.
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The phone [interview](/how-to-prepare-for-job-interview), or phone screen, is often the first real conversation you will have with a potential employer. While it might seem less formal than a face-to-face meeting, it is a critical step in the hiring process. It is your first opportunity to make a personal connection, showcase your qualifications, and prove that you are a serious contender for the role. Underestimating its importance is a common mistake that can prematurely end your candidacy.
 
@@ -39,7 +39,7 @@ Simply reading the job description is not enough. Dive deeper to understand the 
 Do not go into the call planning to "wing it." Structure your thoughts around a few key themes.
 
 * **Your "Elevator Pitch":** Prepare a concise, 60-90 second summary of who you are, what you have done, and why you are interested in this specific role and company. This is often the answer to the classic opening question, "Tell me about yourself."
-* **Connect Your Experience to the Job:** For each major requirement in the job description, prepare a specific example using the **STAR method (Situation, Task, Action, Result)**. This structured approach makes your answers compelling and easy to follow.
+* **Connect Your Experience to the Job:**For each major requirement in the job description, prepare a specific example using the**STAR method (Situation, Task, Action, Result)**. This structured approach makes your answers compelling and easy to follow.
 * **Quantify Your Achievements:** Instead of saying "I improved efficiency," say "I implemented a new workflow that reduced project completion time significantly." Numbers make your accomplishments tangible and impressive.
 
 #### Prepare Your Questions

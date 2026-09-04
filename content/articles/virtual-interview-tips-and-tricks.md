@@ -7,7 +7,7 @@ description: >-
   setting up your tech to making a great impression, we've got you covered.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Virtual interviews have become standard in the hiring process. They offer the convenience of remote participation, but they also present unique challenges. Factors such as a poor internet connection, distracting backgrounds, or inadequate lighting can negatively impact your performance.
 
@@ -51,17 +51,9 @@ Effective communication on camera requires practice and awareness.
 
 * **Have Your Materials Ready:** Keep a copy of your [resume](/how-to-build-a-web3-resume-that-stands-out), the job description, and your prepared questions within easy reach.
 * **Be an Active Listener:** Engaging in a virtual interview can be challenging due to the lack of physical cues. Show you're involved by nodding and using verbal affirmations such as "I see" or "That makes sense."
-* **Handle Interruptions Gracefully:** If an interruption occurs, like a barking dog or a family member walking in, remain calm. Briefly apologize and quickly refocus on the interview. Interviewers generally understand that such occurrences are common when working from home.
+* **Handle Interruptions Gracefully:**If an interruption occurs, like a barking dog or a family member walking in, remain calm. Briefly apologize and quickly refocus on the interview. Interviewers generally understand that such occurrences are common when working from home.
 
-### FAQs
-
-**Is it okay to use my phone for a virtual interview?** 
-Using a laptop or desktop is preferable for a more stable and professional setup. If you must use your phone, ensure it is propped up at eye level on a stable surface.
-
-**What if my internet connection fails during the interview?** 
-If you lose connection, remain calm. Attempt to rejoin the call immediately. If you cannot reconnect, send an email to the interviewer explaining the situation and request to reschedule. Have their contact information accessible prior to the interview.
-
-**Should I have notes in front of me?** 
+### FAQs**Is it okay to use my phone for a virtual interview?**Using a laptop or desktop is preferable for a more stable and professional setup. If you must use your phone, ensure it is propped up at eye level on a stable surface.**What if my internet connection fails during the interview?**If you lose connection, remain calm. Attempt to rejoin the call immediately. If you cannot reconnect, send an email to the interviewer explaining the situation and request to reschedule. Have their contact information accessible prior to the interview.**Should I have notes in front of me?** 
 Having a few bullet points or your prepared questions visible is acceptable, but avoid reading from a script. Aim for a natural conversation.
 
 ## Verifiable Primary Sources & References

@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: futuristic city
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: The Next Evolution of the Internet
 
@@ -24,9 +24,9 @@ The first trend to consider is the shift from monolithic to modular blockchain a
 
 ### What is it?
 Monolithic blockchains, such as the current versions of [Ethereum](/what-is-ethereum) and Solana, handle three core functions on a single layer:
-1. **Execution:** Processing transactions and running [smart contracts](/what-are-smart-contracts).
-2. **Settlement:** Finalizing transactions and resolving disputes.
-3. **Data Availability (DA):** Ensuring that all data for a block is published and verifiable.
+1. **Execution:**Processing transactions and running [smart contracts](/what-are-smart-contracts).
+2.**Settlement:**Finalizing transactions and resolving disputes.
+3.**Data Availability (DA):**Ensuring that all data for a block is published and verifiable.
 
 The modular blockchain thesis posits that combining these functions in a single layer creates bottlenecks that limit scalability. In contrast, modular blockchains separate these functions into specialized layers. For instance, rollups can handle execution, Ethereum can manage settlement, and a dedicated data availability layer, such as Celestia, can serve DA.
 
@@ -45,10 +45,10 @@ Account Abstraction transforms user accounts (wallets) into smart contracts. Thi
 
 ### Why does it matter?
 Account Abstraction introduces several user experience enhancements common in Web2 but largely absent in Web3:
-- **Social Recovery:** Instead of depending on a seed phrase, users can designate trusted individuals as "guardians" who can assist in account recovery if they lose access to their primary device.
-- **Gasless Transactions:** dApps can sponsor users' transactions via "Paymaster" contracts, eliminating the requirement for new users to acquire ETH before interacting with applications.
-- **Batched Transactions:** Users can approve multiple actions in a single transaction, such as approving a [token](/what-is-a-token) and swapping it simultaneously, which saves time and gas.
-- **Multi-device Security:** Users can establish rules requiring multiple device signatures for high-value transactions, enhancing security.
+-**Social Recovery:**Instead of depending on a seed phrase, users can designate trusted individuals as "guardians" who can assist in account recovery if they lose access to their primary device.
+-**Gasless Transactions:**dApps can sponsor users' transactions via "Paymaster" contracts, eliminating the requirement for new users to acquire ETH before interacting with applications.
+-**Batched Transactions:**Users can approve multiple actions in a single transaction, such as approving a [token](/what-is-a-token) and swapping it simultaneously, which saves time and gas.
+-**Multi-device Security:**Users can establish rules requiring multiple device signatures for high-value transactions, enhancing security.
 
 ### Impact in 2026:
 By 2025, account abstraction will likely become standard for new users entering Web3. Wallets will evolve to resemble modern bank accounts, featuring social login, biometric security, and flexible recovery options. This transformation will serve as the primary catalyst for onboarding the next billion users, alleviating the steep learning curve and security concerns associated with traditional crypto wallets.
@@ -59,9 +59,9 @@ The simultaneous growth of Generative AI and Web3 is positioning these two secto
 
 ### What is it?
 This trend involves using Web3 infrastructure to develop transparent, decentralized, and user-owned AI models and applications. AI can enhance the user experience and capabilities of dApps:
-- **Decentralized AI:** Projects are emerging that enable the creation of AI models owned and governed by a [DAO](/what-is-a-dao). Users can contribute data and computational power to train these models and receive ownership stakes and revenue in return.
-- **AI Agents on-chain:** Smart contracts are being designed to directly interface with AI models, allowing dApps to make autonomous, intelligent decisions based on real-world data.
-- **AI-Enhanced UX:** dApp frontends will incorporate AI to provide natural language interfaces. Instead of working through through buttons, users could simply type commands like "Swap 1 ETH for USDC and then [stake](/how-to-become-a-web3-staking-specialist) it in the lending pool."
+-**Decentralized AI:**Projects are emerging that enable the creation of AI models owned and governed by a [DAO](/what-is-a-dao). Users can contribute data and computational power to train these models and receive ownership stakes and revenue in return.
+-**AI Agents on-chain:**Smart contracts are being designed to directly interface with AI models, allowing dApps to make autonomous, intelligent decisions based on real-world data.
+-**AI-Enhanced UX:**dApp frontends will incorporate AI to provide natural language interfaces. Instead of working through through buttons, users could simply type commands like "Swap 1 ETH for USDC and then [stake](/how-to-become-a-web3-staking-specialist) it in the lending pool."
 
 ### Why does it matter?
 Web3 addresses critical issues related to AI, such as centralization and transparency. Hosting AI models on-chain enables auditable, community-owned models that are not dominated by single corporations. Conversely, AI can enhance Web3's user experience by providing intuitive interfaces that make dApps more accessible to mainstream users.
@@ -78,10 +78,10 @@ RWA tokenization involves creating digital representations of physical or tradit
 
 ### Why does it matter?
 Bringing real-world assets on-chain offers substantial benefits:
-- **Liquidity:** Tokenization can convert illiquid assets, such as real estate or private company stakes, into liquid tokens that can be traded continuously in a global market.
-- **Fractionalization:** Tokenization allows for fractional ownership of high-value assets. For instance, an individual could own a share of a commercial property in New York.
-- **Transparency:** Ownership and transaction history are recorded on a public ledger, enhancing transparency and reducing opportunities for fraud.
-- **Efficiency:** The use of smart contracts automates and simplify complex processes, such as settlement and dividend payments, reducing reliance on intermediaries.
+-**Liquidity:**Tokenization can convert illiquid assets, such as real estate or private company stakes, into liquid tokens that can be traded continuously in a global market.
+-**Fractionalization:**Tokenization allows for fractional ownership of high-value assets. For instance, an individual could own a share of a commercial property in New York.
+-**Transparency:**Ownership and transaction history are recorded on a public ledger, enhancing transparency and reducing opportunities for fraud.
+-**Efficiency:**The use of smart contracts automates and simplify complex processes, such as settlement and dividend payments, reducing reliance on intermediaries.
 
 ### Impact in 2026:
 By 2025, tokenized US Treasury Bills are expected to become a foundational component of DeFi, providing a stable and low-risk yield on the blockchain. Major tokenizations of assets, including real estate and private credit, will create new investment opportunities for crypto enthusiasts while drawing significant capital into the DeFi ecosystem.
@@ -95,9 +95,9 @@ DePIN projects enable a two-sided market where individuals and businesses are in
 
 ### Why does it matter?
 DePIN has the potential to disrupt several highly centralized industries:
-- **Cloud Storage:** Projects like Filecoin and Arweave incentivize users to rent out spare hard drive space, creating decentralized alternatives to services like Amazon S3.
-- **Wireless Networks:** Initiatives such as Helium reward individuals for deploying hotspots in their homes and offices, effectively creating decentralized wireless networks.
-- **Compute Power:** Platforms like Akash allow users to rent spare GPU capacity for tasks like AI training, positioning themselves as decentralized competitors to AWS and Google Cloud. Token incentives enable these networks to accelerate supply-side growth more rapidly than traditional companies.
+-**Cloud Storage:**Projects like Filecoin and Arweave incentivize users to rent out spare hard drive space, creating decentralized alternatives to services like Amazon S3.
+-**Wireless Networks:**Initiatives such as Helium reward individuals for deploying hotspots in their homes and offices, effectively creating decentralized wireless networks.
+-**Compute Power:** Platforms like Akash allow users to rent spare GPU capacity for tasks like AI training, positioning themselves as decentralized competitors to AWS and Google Cloud. Token incentives enable these networks to accelerate supply-side growth more rapidly than traditional companies.
 
 ### Impact in 2026:
 By 2025, DePIN is likely to transition from a niche category to a significant driver of real-world Web3 adoption. Expect to see dApps that rely on decentralized storage and AI companies increasingly using decentralized compute networks for their training requirements. DePIN will demonstrate Web3's capacity to create not only digital economies but also tangible, real-world infrastructure.

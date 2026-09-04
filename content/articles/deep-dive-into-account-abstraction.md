@@ -8,7 +8,7 @@ image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 category: Technology Deep Dives
 data-ai-hint: abstract shapes
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: The UX Problem in Crypto
 
@@ -27,9 +27,9 @@ This article examines Account Abstraction, focusing on the EIP-4337 standard. Ke
 
 To grasp Account Abstraction, it is vital to understand the two existing account types on Ethereum:
 
-1. **Externally Owned Accounts (EOAs):** Commonly referred to as "wallets," examples include MetaMask and Ledger. EOAs are controlled by a private key. Only EOAs can initiate transactions and pay gas fees. Losing a private key means losing access to the account permanently.
+1. **Externally Owned Accounts (EOAs):**Commonly referred to as "wallets," examples include MetaMask and Ledger. EOAs are controlled by a private key. Only EOAs can initiate transactions and pay gas fees. Losing a private key means losing access to the account permanently.
 
-2. **Smart Contract Accounts:** These accounts are governed by code deployed on the blockchain and lack a private key. They can execute arbitrary logic but cannot initiate transactions independently; they react to transactions initiated by an EOA.
+2.**Smart Contract Accounts:**These accounts are governed by code deployed on the blockchain and lack a private key. They can execute arbitrary logic but cannot initiate transactions independently; they react to transactions initiated by an EOA.
 
 This strict separation contributes to Web3's UX challenges. Users must manage all complex logic with their EOA's private key. Account Abstraction seeks to merge these concepts, allowing a user's primary account to function as a smart contract.
 
@@ -45,15 +45,15 @@ This design allows for swift implementation of the Account Abstraction system th
 
 The EIP-4337 ecosystem comprises several critical components:
 
-1. **Smart Account (or Smart Contract Wallet):** This is the user's new account, which operates as a smart contract. It includes customizable transaction validation logic. For instance, instead of requiring a simple cryptographic signature, a Smart Account could necessitate two of three multi-signature approvals or a signature from a device like a passkey.
+1.**Smart Account (or Smart Contract Wallet):**This is the user's new account, which operates as a smart contract. It includes customizable transaction validation logic. For instance, instead of requiring a simple cryptographic signature, a Smart Account could necessitate two of three multi-signature approvals or a signature from a device like a passkey.
 
-2. **UserOperation:** This pseudo-transaction object is created by the user and contains details such as the target address, calldata, and gas limits. It does not represent a real Ethereum transaction; it simply conveys the user's intent.
+2.**UserOperation:**This pseudo-transaction object is created by the user and contains details such as the target address, calldata, and gas limits. It does not represent a real Ethereum transaction; it simply conveys the user's intent.
 
-3. **Bundler:** A node that observes the UserOperation mempool. Its role is to bundle multiple UserOperations into a single transaction and submit it to the EntryPoint contract. The Bundler covers the gas fee upfront and receives reimbursement from the Smart Accounts or a Paymaster.
+3.**Bundler:**A node that observes the UserOperation mempool. Its role is to bundle multiple UserOperations into a single transaction and submit it to the EntryPoint contract. The Bundler covers the gas fee upfront and receives reimbursement from the Smart Accounts or a Paymaster.
 
-4. **EntryPoint Contract:** A global, singleton smart contract serving as the entry point for all bundled transactions. It orchestrates the execution of UserOperations, verifies signatures, and manages gas payments.
+4.**EntryPoint Contract:**A global, singleton smart contract serving as the entry point for all bundled transactions. It orchestrates the execution of UserOperations, verifies signatures, and manages gas payments.
 
-5. **Paymaster:** An optional smart contract that can sponsor gas fees for users. A dApp can implement a Paymaster to cover all user transactions, creating a gasless experience. The Paymaster determines its policies for transaction sponsorship.
+5.**Paymaster:**An optional smart contract that can sponsor gas fees for users. A dApp can implement a Paymaster to cover all user transactions, creating a gasless experience. The Paymaster determines its policies for transaction sponsorship.
 
 ## Features Enabled by Account Abstraction
 
@@ -77,10 +77,10 @@ A Smart Account can be programmed to execute multiple operations within a single
 
 | Feature | Description |
 |-----------------------------|--------------------------------------------------------------------------------------------------|
-| **Social Recovery** | Allows users to designate guardians for account recovery. |
-| **Gasless Transactions** | Enables dApps to cover gas fees, allowing user interactions without ETH. |
-| **Session Keys** | Provides temporary keys for specific actions to reduce the number of required user signatures. |
-| **Batch Transactions** | Permits execution of multiple operations in a single transaction to simplify user interactions. |
+|**Social Recovery**| Allows users to designate guardians for account recovery. |
+|**Gasless Transactions**| Enables dApps to cover gas fees, allowing user interactions without ETH. |
+|**Session Keys**| Provides temporary keys for specific actions to reduce the number of required user signatures. |
+|**Batch Transactions** | Permits execution of multiple operations in a single transaction to simplify user interactions. |
 
 ## The Path to a Billion Users
 

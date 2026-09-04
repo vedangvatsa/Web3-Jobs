@@ -7,7 +7,7 @@ description: >-
   project.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The concept of building an AI model often seems daunting. However, modern tools now enable anyone with basic programming skills to create a functional machine learning model within a few hours.
 
@@ -17,16 +17,16 @@ This guide provides a step-by-step approach to building a predictive model using
 
 We will create a model to predict the price of a house based solely on its size in square feet. This straightforward project is a classic introduction to machine learning. It simplifies the process while employing the same methodology used in more complex applications.
 
-This task falls under the category of **regression** problems, where the goal is to forecast a continuous value, such as price.
+This task falls under the category of **regression**problems, where the goal is to forecast a continuous value, such as price.
 
 ### The Tools: Python and Scikit-learn
 
 To build our model, we will use the following tools:
 
-- **Python**: The primary programming language for AI and machine learning projects.
-- **Scikit-learn**: A reliable and user-friendly library designed for machine learning applications.
-- **NumPy**: A library essential for numerical operations in Python.
-- **Matplotlib**: A library that enables data visualization and plotting.
+-**Python**: The primary programming language for AI and machine learning projects.
+-**Scikit-learn**: A reliable and user-friendly library designed for machine learning applications.
+-**NumPy**: A library essential for numerical operations in Python.
+-**Matplotlib**: A library that enables data visualization and plotting.
 
 To install these libraries, run the following command:
 
@@ -38,11 +38,11 @@ pip install scikit-learn numpy matplotlib
 
 A typical supervised machine learning project consists of five key steps:
 
-1. **Get the Data**: Collect and load your dataset.
-2. **Prepare the Data**: Explore the dataset and divide it into training and testing sets.
-3. **Choose a Model**: Select the appropriate algorithm for your specific problem.
-4. **Train the Model**: Provide the training data to your model for learning.
-5. **Evaluate and Predict**: Assess the model's performance and use it for new predictions.
+1.**Get the Data**: Collect and load your dataset.
+2.**Prepare the Data**: Explore the dataset and divide it into training and testing sets.
+3.**Choose a Model**: Select the appropriate algorithm for your specific problem.
+4.**Train the Model**: Provide the training data to your model for learning.
+5.**Evaluate and Predict**: Assess the model's performance and use it for new predictions.
 
 Now, let's break down each step in detail.
 

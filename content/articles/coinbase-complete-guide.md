@@ -9,7 +9,7 @@ image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080
 imageAlt: Coinbase app on a phone with trading charts on a laptop
 data-ai-hint: coinbase exchange trading app
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 slug: coinbase-complete-guide
 ---
 Coinbase is the largest U.S.-based cryptocurrency exchange. You can use it to buy and sell crypto with dollars, trade on an order book, hold assets with a regulated custodian, and build on its Ethereum layer 2, Base. It went public on April 14, 2021 on Nasdaq under ticker COIN and entered the S&P 500 on May 19, 2025.
@@ -24,10 +24,10 @@ The company was founded in June 2012 by Brian Armstrong and Fred Ehrsam. It ente
 
 ## Who It Is For
 
-- **Beginners who want a regulated on-ramp in the United States:** If you want to turn dollars into bitcoin or USDC with identity verification, tax reports, and customer support, Coinbase is built for that. You pay more for simple buys, but you get a familiar app, ACH rails, and FDIC pass-through on USD cash balances held at partner banks where eligible.
-- **Active traders who want an order book without leaving Coinbase:** If you already hold dollars on Coinbase and want limit orders, charts powered by TradingView, and lower fees, Advanced Trade keeps funds in one place. It replaces Coinbase Pro and has the same low volume-based fees with no subscription.
-- **Institutions that need custody plus trading:** If you run a fund, ETF issuer, or corporate treasury, Prime gives you custody, trading, reporting, and financing in one contract. The Q4 2024 shareholder letter reported $220 billion in assets under custody at year-end 2024. That is the figure Coinbase discloses for cold storage. Total Assets on Platform is a larger number that includes trading and wallet holdings.
-- **Developers and businesses that need onchain rails:** If you want to let users pay in crypto, hold USDC, or launch an app on a low-cost layer 2, Coinbase offers Commerce, Wallet as a Service, and Base. Base is suited to teams that want Ethereum security with lower fees and who are comfortable with a chain that is still progressing toward fuller decentralization.
+- **Beginners who want a regulated on-ramp in the United States:**If you want to turn dollars into bitcoin or USDC with identity verification, tax reports, and customer support, Coinbase is built for that. You pay more for simple buys, but you get a familiar app, ACH rails, and FDIC pass-through on USD cash balances held at partner banks where eligible.
+-**Active traders who want an order book without leaving Coinbase:**If you already hold dollars on Coinbase and want limit orders, charts powered by TradingView, and lower fees, Advanced Trade keeps funds in one place. It replaces Coinbase Pro and has the same low volume-based fees with no subscription.
+-**Institutions that need custody plus trading:**If you run a fund, ETF issuer, or corporate treasury, Prime gives you custody, trading, reporting, and financing in one contract. The Q4 2024 shareholder letter reported $220 billion in assets under custody at year-end 2024. That is the figure Coinbase discloses for cold storage. Total Assets on Platform is a larger number that includes trading and wallet holdings.
+-**Developers and businesses that need onchain rails:**If you want to let users pay in crypto, hold USDC, or launch an app on a low-cost layer 2, Coinbase offers Commerce, Wallet as a Service, and Base. Base is suited to teams that want Ethereum security with lower fees and who are comfortable with a chain that is still progressing toward fuller decentralization.
 
 If you want the cheapest spot fees, the widest altcoin listing on day one, or full control of keys for every dollar, Coinbase is not the best fit. Lower fee exchanges exist, listing speed can be slower due to compliance review, and self-custody puts backup responsibility on you.
 
@@ -41,8 +41,8 @@ You create an account with email and password, add a phone, submit government ID
 
 Coinbase maintains two trading paths in the same account:
 
-- **Simple Trade** is the default in the retail app. You pick an asset, enter a dollar amount, and preview the quote. The quote includes a spread of about 0.50 percent built into the price, plus a separate Coinbase fee that varies by payment method, order size, market conditions, and region. You see the total before you confirm. There is no order book to manage.
-- **Advanced Trade** is an order book. You choose a pair like BTC-USD, set a limit or market order, and your order either adds liquidity as a maker or removes it as a taker. There is no spread because you trade directly against the book. Fees are maker-taker and volume-based. Under $10,000 in 30-day volume, fees are 0.40 percent maker and 0.60 percent taker. They step down with volume to 0.00 percent maker and 0.04 percent taker above $400 million, and Coinbase notes that users with large asset balances may qualify for a lower tier even at lower volume. Your tier is calculated at order time and can take up to 10 minutes to update. Advanced is free to enable and uses the same balances as Simple.
+-**Simple Trade**is the default in the retail app. You pick an asset, enter a dollar amount, and preview the quote. The quote includes a spread of about 0.50 percent built into the price, plus a separate Coinbase fee that varies by payment method, order size, market conditions, and region. You see the total before you confirm. There is no order book to manage.
+-**Advanced Trade**is an order book. You choose a pair like BTC-USD, set a limit or market order, and your order either adds liquidity as a maker or removes it as a taker. There is no spread because you trade directly against the book. Fees are maker-taker and volume-based. Under $10,000 in 30-day volume, fees are 0.40 percent maker and 0.60 percent taker. They step down with volume to 0.00 percent maker and 0.04 percent taker above $400 million, and Coinbase notes that users with large asset balances may qualify for a lower tier even at lower volume. Your tier is calculated at order time and can take up to 10 minutes to update. Advanced is free to enable and uses the same balances as Simple.
 
 A concrete example helps: A $1,000 bitcoin buy on Simple with a bank payment may cost about $15 to $25 once spread and fee combine. The same $1,000 as a limit maker order on Advanced at the lowest tier costs $4.00. That is why the help center and fee pages tell users to check Advanced if cost is a priority.
 
@@ -68,34 +68,34 @@ Coinbase holds most customer crypto offline, uses encryption, and offers bug bou
 
 ## Products in One List
 
-- **Coinbase app:** Simple Trade, recurring buys, staking where available, borrow where available, tax documents.
-- **Advanced Trade:** order book, advanced orders, TradingView, APIs, no subscription, no spread on book trades.
-- **Coinbase Exchange:** professional matching engine and market data.
-- **Custody:** cold storage, segregated wallets, audit and reporting for institutions.
-- **Prime:** custody plus trading, financing, and staking for institutions.
-- **Commerce and Business:** merchant payments and treasury tools with USDC settlement.
-- **Developer Platform and Wallet as a Service:** nodes, APIs, and embedded wallets for apps.
-- **Coinbase One:** subscription that can lower trading fees and boost USDC rewards, with more than 600,000 subscribers reported in December 2024. Paid tiers include Coinbase One Premium at $299.99 per month where offered.
-- **USDC infrastructure:** distribution and on- and off-ramps across products.
-- **Base:** layer 2 chain plus Base Account and Base Pay inside Base App.
+-**Coinbase app:**Simple Trade, recurring buys, staking where available, borrow where available, tax documents.
+-**Advanced Trade:**order book, advanced orders, TradingView, APIs, no subscription, no spread on book trades.
+-**Coinbase Exchange:**professional matching engine and market data.
+-**Custody:**cold storage, segregated wallets, audit and reporting for institutions.
+-**Prime:**custody plus trading, financing, and staking for institutions.
+-**Commerce and Business:**merchant payments and treasury tools with USDC settlement.
+-**Developer Platform and Wallet as a Service:**nodes, APIs, and embedded wallets for apps.
+-**Coinbase One:**subscription that can lower trading fees and boost USDC rewards, with more than 600,000 subscribers reported in December 2024. Paid tiers include Coinbase One Premium at $299.99 per month where offered.
+-**USDC infrastructure:**distribution and on- and off-ramps across products.
+-**Base:**layer 2 chain plus Base Account and Base Pay inside Base App.
 
 ## Pros and Cons
 
 ### Pros
 
-- **Regulated U.S. venue with public filings:** You can read 10-Ks, see $6.564 billion in 2024 total revenue, $2.579 billion net income, and $220 billion in custody, which is more transparency than many offshore exchanges provide.
-- **Strong on-ramp and off-ramp in the United States:** ACH is free, wires are available, and USD held as cash at partner banks can be eligible for FDIC pass-through up to applicable limits.
-- **Two fee paths in one account:** Beginners can start simple, traders can switch to Advanced without moving funds.
-- **Institutional grade custody:** Also used by ETF issuers, which helps if you want to keep size in one place with reporting and compliance.
-- **Developer rails that match the exchange:** Base gives you a low-cost place to launch apps with direct access to Coinbase users and USDC.
+-**Regulated U.S. venue with public filings:**You can read 10-Ks, see $6.564 billion in 2024 total revenue, $2.579 billion net income, and $220 billion in custody, which is more transparency than many offshore exchanges provide.
+-**Strong on-ramp and off-ramp in the United States:**ACH is free, wires are available, and USD held as cash at partner banks can be eligible for FDIC pass-through up to applicable limits.
+-**Two fee paths in one account:**Beginners can start simple, traders can switch to Advanced without moving funds.
+-**Institutional grade custody:**Also used by ETF issuers, which helps if you want to keep size in one place with reporting and compliance.
+-**Developer rails that match the exchange:**Base gives you a low-cost place to launch apps with direct access to Coinbase users and USDC.
 
 ### Cons
 
-- **Simple Trade is expensive:** Spread plus fee can be 1.5 to 4 percent all-in depending on payment method, versus 0.40 percent maker and 0.60 percent taker on Advanced at the lowest tier, and 0.16 to 0.26 percent on rivals like Kraken at entry tiers as of May 2026 checks.
-- **Listing speed is slower than offshore venues:** Each asset faces compliance review, so new tokens can appear later.
-- **Geographic limits:** Staking, rewards, and some trading products are not available everywhere.
-- **Custody trade-off:** Keeping assets on exchange is convenient but you rely on the company for security and availability. Self-custody in Base App gives you control but you own key management and phishing risk.
-- **Base decentralization is still in progress:** Early rollups depend on a sequencer and upgrade keys. Review current fault-proof status and upgrade governance before using it for large settlement.
+-**Simple Trade is expensive:**Spread plus fee can be 1.5 to 4 percent all-in depending on payment method, versus 0.40 percent maker and 0.60 percent taker on Advanced at the lowest tier, and 0.16 to 0.26 percent on rivals like Kraken at entry tiers as of May 2026 checks.
+-**Listing speed is slower than offshore venues:**Each asset faces compliance review, so new tokens can appear later.
+-**Geographic limits:**Staking, rewards, and some trading products are not available everywhere.
+-**Custody trade-off:**Keeping assets on exchange is convenient but you rely on the company for security and availability. Self-custody in Base App gives you control but you own key management and phishing risk.
+-**Base decentralization is still in progress:**Early rollups depend on a sequencer and upgrade keys. Review current fault-proof status and upgrade governance before using it for large settlement.
 
 ## How to Get Started
 
@@ -128,11 +128,11 @@ Coinbase holds most customer crypto offline, uses encryption, and offers bug bou
 
 ## Fees, Plainly Stated
 
-- **Simple Trade:** about 0.50 percent spread built into price plus a Coinbase fee that depends on payment method and size. Bank-linked buys are cheaper than card buys. Card buys can add 3.99 percent on top of spread.
-- **Advanced Trade book fees:** $0 to $10,000 (0.40% maker / 0.60% taker), $10,001 to $50,000 (0.25% / 0.40%), $50,001 to $100,000 (0.15% / 0.25%), $100,001 to $1M (0.10% / 0.20%), $1M to $10M (0.08% / 0.18%), $10M to $50M (0.05% / 0.15%), $50M to $100M (0.02% / 0.10%), $100M to $500M (0.00% / 0.05%), above $500M (0.00% / 0.04%).
-- **Deposit and withdrawal:** ACH free, wire deposit $10, wire withdrawal $25, crypto withdrawal network fee at cost, Lightning 0.20 percent, USDC to USD conversions free up to $2 million rolling 30 days then 0.03 to 0.05 percent.
-- **Staking commission:** 25 to 35 percent of protocol rewards depending on asset, shown in asset pages.
-- **Coinbase One subscription:** $29.99 per month for standard, higher for Premium where offered, waives trading fees but spread still applies on Simple.
+-**Simple Trade:**about 0.50 percent spread built into price plus a Coinbase fee that depends on payment method and size. Bank-linked buys are cheaper than card buys. Card buys can add 3.99 percent on top of spread.
+-**Advanced Trade book fees:**$0 to $10,000 (0.40% maker / 0.60% taker), $10,001 to $50,000 (0.25% / 0.40%), $50,001 to $100,000 (0.15% / 0.25%), $100,001 to $1M (0.10% / 0.20%), $1M to $10M (0.08% / 0.18%), $10M to $50M (0.05% / 0.15%), $50M to $100M (0.02% / 0.10%), $100M to $500M (0.00% / 0.05%), above $500M (0.00% / 0.04%).
+-**Deposit and withdrawal:**ACH free, wire deposit $10, wire withdrawal $25, crypto withdrawal network fee at cost, Lightning 0.20 percent, USDC to USD conversions free up to $2 million rolling 30 days then 0.03 to 0.05 percent.
+-**Staking commission:**25 to 35 percent of protocol rewards depending on asset, shown in asset pages.
+-**Coinbase One subscription:** $29.99 per month for standard, higher for Premium where offered, waives trading fees but spread still applies on Simple.
 
 Always confirm on the order preview. Coinbase states it may test fees in different regions and assets, so the preview is the final word.
 

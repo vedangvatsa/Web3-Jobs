@@ -6,7 +6,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: man technology
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic
 
@@ -24,9 +24,9 @@ The main components of Web5 are:
 
 | Component | Description |
 |-----------------------------------|-------------------------------------------------------------------------------------------------|
-| **Decentralized Identifiers (DIDs)** | Self-owned digital identities independent from corporations or third parties. |
-| **Decentralized Web Nodes (DWNs)** | Personal data stores that manage both public and encrypted data, granting users access control. |
-| **Bitcoin as the Trust Anchor** | The Bitcoin [blockchain](/what-is-a-blockchain) serves as a secure public key infrastructure. |
+| **Decentralized Identifiers (DIDs)**| Self-owned digital identities independent from corporations or third parties. |
+|**Decentralized Web Nodes (DWNs)**| Personal data stores that manage both public and encrypted data, granting users access control. |
+|**Bitcoin as the Trust Anchor** | The Bitcoin [blockchain](/what-is-a-blockchain) serves as a secure public key infrastructure. |
 
 Dorsey aims to address the identity issues he believes Web3 fails to resolve. He argues that Web3 applications typically require users to connect wallets that do not correlate with their real-world identity, while their data often resides on centralized servers or inefficient systems like IPFS.
 
@@ -39,7 +39,7 @@ Block has embraced this vision through various initiatives:
 * **Balance Sheet:** Block was among the first publicly traded companies to incorporate Bitcoin into its corporate treasury, reflecting a long-term commitment to the asset.
 * **Cash App:** This platform enables easy buying, selling, and holding of Bitcoin for millions of users.
 * **Hardware [Wallet](/how-to-choose-a-crypto-wallet):** Block is developing a user-friendly hardware wallet aimed at enhancing Bitcoin self-custody.
-* **Bitcoin Mining:** The company has initiated programs to create a more open and decentralized Bitcoin mining ecosystem.
+* **Bitcoin Mining:**The company has initiated programs to create a more open and decentralized Bitcoin mining ecosystem.
 
 ### Bluesky and Decentralized Social Media
 
@@ -57,25 +57,7 @@ However, his dismissal of the broader ecosystem surrounding Ethereum and other [
 
 Dorsey is not opposed to a decentralized web; he advocates for a specific iteration of it. He emphasizes that the means of achieving decentralization matters as much as the end goal. For him, the only acceptable approach involves open, decentralized protocols like Bitcoin, rather than ventures backed by VC funding with centralized governance. His initiatives at Block and support for Bluesky reflect his commitment to building a more authentic, enabling digital infrastructure.
 
-### Frequently Asked Questions (FAQ)
-
-**Q1: Why does Jack Dorsey dislike Ethereum?**
-
-Dorsey critiques Ethereum for its perceived centralization, highlighting its origins from known founders and the existence of a pre-mine. He believes these factors create a "single point of failure," making Ethereum unsuitable for a decentralized internet.
-
-**Q2: What is the relationship between Jack Dorsey and Elon Musk?**
-
-Dorsey and Musk share a mutual respect and a focus on promoting free speech and open protocols. Dorsey supported Musk's acquisition of Twitter (now X), believing privatization would enable a shift toward a more open, protocol-based framework. Both individuals are also strong advocates for Bitcoin.
-
-**Q3: Is "Web5" a real project?**
-
-Yes, Web5 is an active, open-source project developed by TBD, a subsidiary of Block. It comprises standards and protocols for developers to build decentralized applications. The objective is to offer decentralized identity and data storage solutions using the Bitcoin blockchain.
-
-**Q4: Does Web5 have a token to invest in?**
-
-No. A fundamental principle of Web5 is its reliance on Bitcoin without introducing a new token. Dorsey aims to avoid the VC-driven tokenomics prevalent in the Web3 sector.
-
-**Q5: What is Bluesky and how is it related to Twitter (X)?**
+### Frequently Asked Questions (FAQ)**Q1: Why does Jack Dorsey dislike Ethereum?**Dorsey critiques Ethereum for its perceived centralization, highlighting its origins from known founders and the existence of a pre-mine. He believes these factors create a "single point of failure," making Ethereum unsuitable for a decentralized internet.**Q2: What is the relationship between Jack Dorsey and Elon Musk?**Dorsey and Musk share a mutual respect and a focus on promoting free speech and open protocols. Dorsey supported Musk's acquisition of Twitter (now X), believing privatization would enable a shift toward a more open, protocol-based framework. Both individuals are also strong advocates for Bitcoin.**Q3: Is "Web5" a real project?**Yes, Web5 is an active, open-source project developed by TBD, a subsidiary of Block. It comprises standards and protocols for developers to build decentralized applications. The objective is to offer decentralized identity and data storage solutions using the Bitcoin blockchain.**Q4: Does Web5 have a token to invest in?**No. A fundamental principle of Web5 is its reliance on Bitcoin without introducing a new token. Dorsey aims to avoid the VC-driven tokenomics prevalent in the Web3 sector.**Q5: What is Bluesky and how is it related to Twitter (X)?**
 
 Bluesky is an independent project initially incubated at Twitter under Dorsey's leadership. It aims to develop a decentralized social networking protocol (the AT Protocol), independent of X (formerly Twitter). The goal is to enable multiple social media applications, including a potential future iteration of X, to operate on a shared, open protocol, allowing for user choice and account portability.
 
