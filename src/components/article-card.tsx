@@ -38,12 +38,12 @@ export function ArticleCard({
     >
       <Link href={`/${article.slug}`} className="flex flex-col h-full">
         {article.image && (
-          <div className={cn('relative w-full overflow-hidden bg-muted/40 shrink-0', imageHeightClass)}>
+          <div className={cn('relative w-full aspect-[16/9] overflow-hidden bg-muted/40 shrink-0 border-b border-border/50')}>
             <Image
               src={article.image}
               alt={`${article.title} - Hashtag Web3`}
               fill
-              className="object-cover transition-transform duration-300 group-hover:scale-105"
+              className="object-contain p-1 transition-transform duration-300 group-hover:scale-105"
               sizes="(max-width: 640px) 100vw, (max-width: 1024px) 50vw, 33vw"
               data-ai-hint={article['data-ai-hint'] || ''}
             />
