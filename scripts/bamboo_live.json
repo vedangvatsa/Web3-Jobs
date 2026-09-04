@@ -1,0 +1,1304 @@
+{
+  "trmlabs": [
+    {
+      "id": "15",
+      "jobOpeningName": "IT Security Engineer",
+      "departmentId": "18251",
+      "departmentLabel": "IT",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Mayfair",
+        "state": "London, City of"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "19",
+      "jobOpeningName": "General Application",
+      "departmentId": "18234",
+      "departmentLabel": "Human Resources",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Lindon",
+        "state": "Utah"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "20",
+      "jobOpeningName": "Software Engineer",
+      "departmentId": "18264",
+      "departmentLabel": "Product",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Sydney",
+        "state": "New South Wales"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "21",
+      "jobOpeningName": "Marketing Manager",
+      "departmentId": "18256",
+      "departmentLabel": "Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Vancouver",
+        "state": "British Columbia"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "22",
+      "jobOpeningName": "Financial Analyst",
+      "departmentId": "18259",
+      "departmentLabel": "Finance",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Salt Lake City",
+        "state": "Utah"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    }
+  ],
+  "particle": [
+    {
+      "id": "23",
+      "jobOpeningName": "Growth Manager",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Tel Aviv-Yafo",
+        "state": "Central District"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "24",
+      "jobOpeningName": "Procurement Specialist ",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Tel Aviv-Yafo",
+        "state": "Central District"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "25",
+      "jobOpeningName": "Creative Designer",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Tel Aviv-Yafo",
+        "state": "Central District"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "26",
+      "jobOpeningName": "AI Video Creator",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Tel Aviv-Yafo",
+        "state": "Central District"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    }
+  ],
+  "cointelegraph": [
+    {
+      "id": "191",
+      "jobOpeningName": "Senior BD & Partnerships Manager (Europe) ",
+      "departmentId": "19162",
+      "departmentLabel": "Business Development and Partnerships",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Spain",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "192",
+      "jobOpeningName": "Senior BD & Partnerships Manager (APAC) ",
+      "departmentId": "19162",
+      "departmentLabel": "Business Development and Partnerships",
+      "employmentStatusLabel": "Contractor",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Hong Kong",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ],
+  "coinmarketcap": [
+    {
+      "id": "97",
+      "jobOpeningName": "AI/RAG engineer",
+      "departmentId": "18895",
+      "departmentLabel": "CMC - Engineering",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ],
+  "apex": [
+    {
+      "id": "21",
+      "jobOpeningName": "Marketing Manager",
+      "departmentId": "18256",
+      "departmentLabel": "Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Nassau, N.P.",
+        "state": "Nassau, N.P."
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "22",
+      "jobOpeningName": "Financial Analyst",
+      "departmentId": "18259",
+      "departmentLabel": "Finance",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Ottawa",
+        "state": "Ontario"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    }
+  ],
+  "everstake": [
+    {
+      "id": "59",
+      "jobOpeningName": "Senior Business Development Manager US",
+      "departmentId": "19212",
+      "departmentLabel": "Go-to-Market",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "United States",
+        "state": null,
+        "province": null,
+        "city": "New York"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ],
+  "yellowcard": [
+    {
+      "id": "357",
+      "jobOpeningName": "Sales Manager",
+      "departmentId": "19321",
+      "departmentLabel": "Sales",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Mexico",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "393",
+      "jobOpeningName": "Head of Growth Marketing",
+      "departmentId": "18544",
+      "departmentLabel": "Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "United States",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "399",
+      "jobOpeningName": "Security Operations Engineer",
+      "departmentId": "19320",
+      "departmentLabel": "InfoSec",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "411",
+      "jobOpeningName": "Senior Frontend Engineer",
+      "departmentId": "18538",
+      "departmentLabel": "Engineering",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "412",
+      "jobOpeningName": "Technical Team Lead (Full-stack)",
+      "departmentId": "18538",
+      "departmentLabel": "Engineering",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "421",
+      "jobOpeningName": "Customer Success Associate",
+      "departmentId": "19484",
+      "departmentLabel": "Payments",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ],
+  "fasset": [
+    {
+      "id": "100",
+      "jobOpeningName": "Finance Analyst",
+      "departmentId": "18572",
+      "departmentLabel": "Finance",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Jakarta",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "274",
+      "jobOpeningName": "Junior Product Manager ",
+      "departmentId": "18575",
+      "departmentLabel": "Product",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "United Arab Emirates",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "275",
+      "jobOpeningName": "Graphic Designer",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Pakistan",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "276",
+      "jobOpeningName": "Lifecycle Marketing Associate",
+      "departmentId": "18615",
+      "departmentLabel": "Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Pakistan",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "278",
+      "jobOpeningName": "Country Manager \u2013 Philippines",
+      "departmentId": "18639",
+      "departmentLabel": "Leadership",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Philippines",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "279",
+      "jobOpeningName": "Country Manager \u2013 Nigeria",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Nigeria",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "280",
+      "jobOpeningName": "Country Manager \u2013 Kenya",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Kenya",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "281",
+      "jobOpeningName": "Country Manager \u2013 Japan",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Japan",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "282",
+      "jobOpeningName": "Country Manager \u2013 UAE",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "United Arab Emirates",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "283",
+      "jobOpeningName": "Country Manager \u2013 Indonesia",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Jakarta",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "284",
+      "jobOpeningName": "Country Manager \u2013 Uganda",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Uganda",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "285",
+      "jobOpeningName": "Country Manager \u2013 Tanzania",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Tanzania",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "286",
+      "jobOpeningName": "Country Manager \u2013 Ghana",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Ghana",
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "291",
+      "jobOpeningName": "Community Ambassador (Worldwide)",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "United Arab Emirates",
+        "state": null,
+        "province": "All region mentioned",
+        "city": "All Region Mentioned"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "298",
+      "jobOpeningName": "Partnership Manager",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Dubai",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "304",
+      "jobOpeningName": "Finance Manager",
+      "departmentId": "18572",
+      "departmentLabel": "Finance",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Kuala Lumpur",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "306",
+      "jobOpeningName": "Social Media Manager",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Dubai",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "307",
+      "jobOpeningName": "General Application at Fasset",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "321",
+      "jobOpeningName": "Senior Growth Associate",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Dubai",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "324",
+      "jobOpeningName": "Legal Counsel",
+      "departmentId": "18599",
+      "departmentLabel": "Legal",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Islamabad",
+        "state": "Punjab"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "2"
+    },
+    {
+      "id": "327",
+      "jobOpeningName": "Growth Product Manager",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Dubai",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "328",
+      "jobOpeningName": "Programme Manager",
+      "departmentId": "18642",
+      "departmentLabel": "Growth & Marketing",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Dubai",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    }
+  ],
+  "bitcoin": [
+    {
+      "id": "14",
+      "jobOpeningName": "\ud83d\ude80 Join the Bitcoin.com Talent Community",
+      "departmentId": null,
+      "departmentLabel": null,
+      "employmentStatusLabel": "Independent Contractor (FT)",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "38",
+      "jobOpeningName": "Germany News & Localization Manager (Remote - Germany)",
+      "departmentId": "18866",
+      "departmentLabel": "News",
+      "employmentStatusLabel": "Independent Contractor (FT)",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Germany",
+        "state": null,
+        "province": "Germany",
+        "city": "Germany"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "39",
+      "jobOpeningName": "Senior Software Engineer (Hybrid - Poland)",
+      "departmentId": "18458",
+      "departmentLabel": "Engineering",
+      "employmentStatusLabel": "Employee",
+      "employmentType": null,
+      "location": {
+        "city": "Warsaw",
+        "state": "Masovia"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "2"
+    },
+    {
+      "id": "41",
+      "jobOpeningName": "Commercial Content Editor (Remote - APAC)",
+      "departmentId": "18444",
+      "departmentLabel": "Marketing",
+      "employmentStatusLabel": "Independent Contractor (FT)",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Philippines",
+        "state": null,
+        "province": "Philippines",
+        "city": "Philippines"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "42",
+      "jobOpeningName": "Compliance Associate (Remote - Europe)",
+      "departmentId": "18815",
+      "departmentLabel": "HR, Administrative & Legal",
+      "employmentStatusLabel": "Independent Contractor (FT)",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Poland",
+        "state": null,
+        "province": "Poland",
+        "city": "Poland"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "43",
+      "jobOpeningName": "KYC Analyst (Remote - Europe) ",
+      "departmentId": "18815",
+      "departmentLabel": "HR, Administrative & Legal",
+      "employmentStatusLabel": "Independent Contractor (FT)",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Poland",
+        "state": null,
+        "province": "Poland",
+        "city": "Poland"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "44",
+      "jobOpeningName": "Office Manager & Executive Assistant",
+      "departmentId": "18815",
+      "departmentLabel": "HR, Administrative & Legal",
+      "employmentStatusLabel": "FZCO employee (FT)",
+      "employmentType": null,
+      "location": {
+        "city": "Dubai",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "0"
+    },
+    {
+      "id": "45",
+      "jobOpeningName": "Affiliate Performance Analyst (iGaming) - (Remote - Europe)",
+      "departmentId": "18789",
+      "departmentLabel": "Media Sales",
+      "employmentStatusLabel": "Independent Contractor (FT)",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Malta",
+        "state": null,
+        "province": "Malta",
+        "city": "Malta"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ],
+  "uphold": [
+    {
+      "id": "853",
+      "jobOpeningName": "Senior Financial Crimes Analyst - EEA",
+      "departmentId": "18447",
+      "departmentLabel": "Compliance",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Braga and Porto",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "2"
+    },
+    {
+      "id": "863",
+      "jobOpeningName": "Senior Agentic Engineer",
+      "departmentId": "18752",
+      "departmentLabel": "Engineering",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "Braga and Porto",
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "2"
+    },
+    {
+      "id": "864",
+      "jobOpeningName": "Senior Accounting Manager, Digital Assets",
+      "departmentId": "19442",
+      "departmentLabel": "Finance & Accounting",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": "New York",
+        "state": "New York"
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "2"
+    },
+    {
+      "id": "868",
+      "jobOpeningName": "Senior Agentic Engineer, East Coast  ",
+      "departmentId": "18752",
+      "departmentLabel": "Engineering",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "United States",
+        "state": "Pennsylvania",
+        "province": null,
+        "city": "Pennsylvania"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "871",
+      "jobOpeningName": "Senior Software Engineer, Strategy Development",
+      "departmentId": "18752",
+      "departmentLabel": "Engineering",
+      "employmentStatusLabel": "Full-Time",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": "Hungary",
+        "state": null,
+        "province": null,
+        "city": "Budapest"
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ],
+  "chainstack": [
+    {
+      "id": "128",
+      "jobOpeningName": "Expression of Interest - Account Executive",
+      "departmentId": "18602",
+      "departmentLabel": "Sales Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "133",
+      "jobOpeningName": "Account Manager",
+      "departmentId": "18727",
+      "departmentLabel": "Accounts Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "138",
+      "jobOpeningName": "Infrastructure Engineer (LATAM time zone)",
+      "departmentId": "18756",
+      "departmentLabel": "Infrastructure Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "141",
+      "jobOpeningName": "Product Engineer (Data Indexing)",
+      "departmentId": "18603",
+      "departmentLabel": "Software Engineering Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "142",
+      "jobOpeningName": "Web Marketing Specialist",
+      "departmentId": "18652",
+      "departmentLabel": "Marketing Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "143",
+      "jobOpeningName": "Senior Software Engineer (Golang)",
+      "departmentId": "18603",
+      "departmentLabel": "Software Engineering Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "144",
+      "jobOpeningName": "Product Engineer (Platform)",
+      "departmentId": "18603",
+      "departmentLabel": "Software Engineering Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    },
+    {
+      "id": "147",
+      "jobOpeningName": "Web3 Technical Support Engineer (EU)",
+      "departmentId": "18775",
+      "departmentLabel": "Customer Success Team",
+      "employmentStatusLabel": "Full-Time Remote",
+      "employmentType": null,
+      "location": {
+        "city": null,
+        "state": null
+      },
+      "atsLocation": {
+        "country": null,
+        "state": null,
+        "province": null,
+        "city": null
+      },
+      "isRemote": null,
+      "locationType": "1"
+    }
+  ]
+}

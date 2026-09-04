@@ -31,7 +31,7 @@ Unlike many who entered the space with a focus on finance or technology, Gary's 
 
 For Gary, the "art" of an NFT is often the least important part. He consistently argues that the long-term value of an NFT project will be determined by the **utility** it provides to its holders.
 
-* **NFTs as "Keys":** He views NFTs as digital keys that unlock access to a community, events, information, or experiences. The NFT is the proof of membership.
+* **NFTs as "Keys":** He views NFTs as digital keys that grant access to a community, events, information, or experiences. The NFT is the proof of membership.
 * **A New Kind of Membership Card:** Holding a specific NFT might grant you access to a private Discord server, a seat at an exclusive conference, a one-on-one meeting with the founder, or a free product. The more valuable the access, the more valuable the NFT "key."
 
 ### 2. Building Intellectual Property for the Next 50 Years

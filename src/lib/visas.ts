@@ -33,7 +33,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'South America',
     minIncome: 0,
     visaLength: '180 days, renewable',
-    description: 'Argentina\'s visa allows nomads to stay for 180 days, renewable for another 180. It offers access to vibrant culture, especially in Buenos Aires.',
+    description: 'Argentina\'s visa allows nomads to stay for 180 days, renewable for another 180. It offers access to Buenos Aires\' extensive cultural and culinary life.',
     requirements: [
       'Work remotely for a foreign company.',
       'Demonstrate sufficient funds (no fixed minimum is published).',
@@ -424,7 +424,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Africa',
     minIncome: 0,
     visaLength: '1-2 years, renewable',
-    description: 'Kenya\'s Class N "Digital Nomads" permit (not to be confused with Class K for retirees) allows remote workers employed by foreign companies to live in Kenya. No specific income threshold is published on the official portal—only proof of foreign income via bank statements.',
+    description: 'Kenya\'s Class N "Digital Nomads" permit (not to be confused with Class K for retirees) allows remote workers employed by foreign companies to live in Kenya. No specific income threshold is published on the official portal: only proof of foreign income via bank statements.',
     requirements: [
       'Work for an employer or clients outside Kenya (local employment prohibited).',
       'Bank statements or payslips for the last 3 months proving foreign income.',
@@ -514,7 +514,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 3022,
     visaLength: 'Up to 2 years (full re-application required on renewal)',
-    description: 'Moldova\'s Digital Nomad program is technically a temporary residence permit, not a visa. Launched September 2025, the income requirement is formula-based—18× the current year\'s forecasted average monthly salary—rather than a fixed dollar amount.',
+    description: 'Moldova\'s Digital Nomad program is technically a temporary residence permit, not a visa. Launched September 2025, the income requirement is formula-based (18× the current year\'s forecasted average monthly salary) rather than a fixed dollar amount.',
     requirements: [
       'Remote work exclusively for a foreign-registered legal entity (employment, service, or shareholder contract).',
       'Show income of 18× the current-year forecasted average monthly salary over the preceding 6 months (~$3,022/month for 2026).',
@@ -564,10 +564,10 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Oceania',
     minIncome: 0,
     visaLength: 'Up to 9 months per visitor visa',
-    description: 'New Zealand introduced a remote work allowance for visitor visa and NZeTA holders in January 2025. This is not a dedicated digital nomad visa—remote work is simply permitted under existing visitor visa conditions. Work must be for overseas employers only.',
+    description: 'New Zealand introduced a remote work allowance for visitor visa and NZeTA holders in January 2025. This is not a dedicated digital nomad visa; remote work is simply permitted under existing visitor visa conditions. Work must be for overseas employers only.',
     requirements: [
       'Hold a valid visitor visa or NZeTA (applied for on or after 27 January 2025).',
-      'Work must be for an overseas employer or client—no work for NZ employers.',
+      'Work must be for an overseas employer or client: no work for NZ employers.',
       'Sufficient funds for the duration of stay (standard visitor visa requirement).',
       '92-day tax threshold: NZ tax may apply if staying 92+ days in a 12-month period.'
     ]
@@ -661,7 +661,7 @@ export const visaData: DigitalNomadVisa[] = [
     continent: 'Europe',
     minIncome: 4000,
     visaLength: '4-month visa, then 2-year permits up to 5 years',
-    description: 'Portugal\'s D8 visa is highly popular. It offers a path to residency and access to the Schengen Area. The country boasts a great quality of life and vibrant tech scenes.',
+    description: 'Portugal\'s D8 visa is highly popular. It offers a path to residency and access to the Schengen Area. The country boasts a great quality of life and active startup and engineering hubs in Lisbon and Porto.',
     requirements: [
       'Proof of income from remote work.',
       'Monthly income of at least 4 times the Portuguese minimum wage (€3,480/month in 2025, ~$4,000 USD; revised annually).',
@@ -853,7 +853,7 @@ export const visaData: DigitalNomadVisa[] = [
     requirements: [
       'Tourist e-Visa available to citizens of most countries.',
       'No official income requirement.',
-      'Low cost of living and vibrant nomad community.'
+      'Low cost of living and large remote worker community.'
     ]
   },
   {

@@ -19,7 +19,7 @@ Token-gated commerce represents one of the most compelling applications of Web3 
 - **Mechanism:** A customer connects their **[crypto wallet](/how-to-choose-a-crypto-wallet)** to a brand's online store. The system checks for specific NFTs, such as a "VIP Membership NFT." If the customer possesses this NFT, they gain access to exclusive merchandise or discounted prices.
 - **Implementation Examples:**
  - **Shopify** has integrated token-gated storefronts for merchants, enabling easy setup for exclusive access.
- - **Starbucks** launched its "Odyssey" program, where customers earn "Journey Stamps" (NFTs) that unlock unique benefits and experiences.
+ - **Starbucks** launched its "Odyssey" program, where customers earn "Journey Stamps" (NFTs) that provide access to exclusive benefits and private events.
 - **Impact on Engagement:** This model shifts traditional loyalty programs from basic points systems to communities of owners. Customers hold "membership cards" in the form of NFTs, which they can own and resell, significantly enhancing brand engagement.
 
 ### NFTs as Proof of Authenticity

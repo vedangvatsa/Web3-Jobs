@@ -57,7 +57,7 @@ export async function POST(request: Request) {
   const params = (body.params as Record<string, unknown>) || {};
   const id = body.id ?? null;
 
-  // initialize — MCP spec 2024-11-05 / 2025-03-26 handshake
+  // initialize: MCP spec 2024-11-05 / 2025-03-26 handshake
   if (method === 'initialize') {
     const clientVersion = (params as any)?.protocolVersion || '2024-11-05';
     return NextResponse.json({
@@ -94,7 +94,7 @@ export async function POST(request: Request) {
     return NextResponse.json({ jsonrpc: '2.0', id, result: {} }, { headers: { 'Access-Control-Allow-Origin': '*' } });
   }
 
-  // tools/list — return available tools with behavioral annotations and resource links
+  // tools/list: return available tools with behavioral annotations and resource links
   if (method === 'tools/list') {
     return NextResponse.json({
       jsonrpc: '2.0',
@@ -194,7 +194,7 @@ export async function POST(request: Request) {
     }, { headers: { 'Access-Control-Allow-Origin': '*' } });
   }
 
-  // resources/list — return resources including ui:// resources for MCP Apps
+  // resources/list: return resources including ui:// resources for MCP Apps
   if (method === 'resources/list') {
     return NextResponse.json({
       jsonrpc: '2.0',
@@ -248,7 +248,7 @@ export async function POST(request: Request) {
     }, { headers: { 'Access-Control-Allow-Origin': '*' } });
   }
 
-  // resources/read — return actual resource content
+  // resources/read: return actual resource content
   if (method === 'resources/read') {
     const uri = String(params.uri || '');
     try {
@@ -430,7 +430,7 @@ ${events.slice(0, 10).map(e => `<li><strong>${e.name}</strong> - ${e.city || e.l
     }
   }
 
-  // tools/call — in-process execution for 100% reliability
+  // tools/call: in-process execution for 100% reliability
   if (method === 'tools/call') {
     const toolName = params.name as string;
     const toolArgs = (params.arguments as Record<string, string | number>) || {};

@@ -221,7 +221,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       {
         heading: "Regulation is the main event",
         content: [
-          "Holding this outside Washington is deliberate. With federal stablecoin legislation now shaping which banks and fintechs can issue dollars on-chain, sessions concentrate on reserve requirements, issuance licenses, state versus federal regimes, and what the post-GENIUS Act landscape means for payment companies weighing their own stablecoin strategies.",
+          "Holding this outside Washington is deliberate. With federal stablecoin legislation now shaping which banks and fintechs can issue dollars on-chain, sessions concentrate on reserve requirements, issuance licenses, state versus federal regimes, and what the post-GENIUS Act regulatory framework means for payment companies weighing their own stablecoin strategies.",
           "Panels pair regulators and bank executives with the operators actually moving volume, which keeps the discussion concrete: settlement timelines, compliance costs, float economics, and how corporate treasury teams are evaluating issuance versus adoption of existing coins.",
         ],
       },
@@ -229,7 +229,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Who should go",
         content: [
           "Founders building payment products, compliance leads at fintechs, treasury teams at corporates, and anyone selling stablecoin infrastructure into institutions will find the highest density of qualified counterparts of any US event this fall. Consumer crypto people will feel out of place; nobody here is aping.",
-          "The Gaylord National sits on the Potomac waterfront at National Harbor, Maryland, about fifteen minutes from Reagan National Airport without downtown traffic. The resort contains its own restaurants and meeting spaces, which concentrates networking on site, though a car or rideshare unlocks Old Town Alexandria for dinners.",
+          "The Gaylord National sits on the Potomac waterfront at National Harbor, Maryland, about fifteen minutes from Reagan National Airport without downtown traffic. The resort contains its own restaurants and meeting spaces, which concentrates networking on site, though a car or rideshare connects you to Old Town Alexandria for dinners.",
         ],
       },
       {
@@ -322,7 +322,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Audience and atmosphere",
         content: [
           "Attendees skew toward established businesses exploring adoption, regional funds, policy professionals, and developers from Germany's substantial technical workforce, with fewer degens per square meter than most crypto events. English and German share the stage comfortably.",
-          "Kokerei Hansa is worth experiencing regardless of agenda: rusted steel infrastructure repurposed as conference halls, a UNESCO-adjacent industrial landscape, and Dortmund's straightforward transit connections from Cologne, Dusseldorf, and Frankfurt make travel easy. Accommodation near the venue is modest-priced by German standards, even during event week.",
+          "Kokerei Hansa is worth experiencing regardless of agenda: rusted steel infrastructure repurposed as conference halls, a UNESCO-adjacent industrial site, and Dortmund's straightforward transit connections from Cologne, Dusseldorf, and Frankfurt make travel easy. Accommodation near the venue is modest-priced by German standards, even during event week.",
         ],
       },
       {
@@ -331,7 +331,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
           "German corporates send innovation and treasury teams evaluating tokenization pilots; regional family offices scout allocation opportunities with characteristic thoroughness; and the DACH developer community, substantial and understated, fills the technical tracks. Austrian and Swiss participants cross borders easily, giving the event genuine DACH coverage rather than German-only reach.",
           "Dortmund's U-Bahn connects the venue to the central station efficiently, and the Phoenix-See lake district offers pleasant post-conference walks. English programming shares stages with German-language tracks, so check session languages when scheduling. The industrial heritage setting also makes this the easiest conference location to describe memorably to colleagues afterward.",
                   "CONF3RENCE's industrial partnership focus distinguishes it from consumer-oriented crypto events. German manufacturing's Industry 4.0 investments created natural blockchain intersections: supply-chain provenance for automotive components, machine-identity standards for factory equipment, energy certificate trading for industrial consumers, and trade-finance digitization for export-heavy Mittelstand companies. Sessions present these implementations with operational data rather than concept-stage projections, reflecting German corporate culture's insistence on working references before public commitment. The Dortmund venue choice reinforces accessibility for Ruhr-valley industry while symbolizing economic transformation, and English-language session availability has expanded each edition as international sponsor participation deepens.",
-                  "Sessions run bilingually with German and English tracks clearly marked, and the festival partnership means your badge unlocks adjacent FATT programming covering technology broadly. Dortmund's direct ICE rail connections from Frankfurt and Amsterdam make ground travel genuinely competitive with flying.",
+                  "Sessions run bilingually with German and English tracks clearly marked, and the festival partnership means your badge includes access to adjacent FATT programming covering technology broadly. Dortmund's direct ICE rail connections from Frankfurt and Amsterdam make ground travel genuinely competitive with flying.",
                   "The industrial monument setting photographs spectacularly, but Dortmund's practical appeal runs deeper: affordable hotels, direct rail links, and venues sized for genuine conversation rather than crowd theater.",
         ],
       },
@@ -670,7 +670,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Adoption at population scale",
         content: [
           "India consistently tops global grassroots adoption indices, powered by UPI-era payment expectations, a young mobile-first population, and offshore earning patterns that made stablecoins practically useful years before institutions noticed. Sessions examine what compliant retail products look like under Indian tax and reporting rules, how homegrown exchanges position domestically while serving global books, and where the RBI's digital rupee pilot intersects, or competes, with public chains.",
-          "Policy presence distinguishes IBW from imported conference brands: government think-tank figures, state-level officials, and regulators participate in formats that allow actual dialogue, which matters in a market where regulatory clarity is the primary unlock.",
+          "Policy presence distinguishes IBW from imported conference brands: government think-tank figures, state-level officials, and regulators participate in formats that allow actual dialogue, which matters in a market where regulatory clarity is the primary catalyst.",
         ],
       },
       {
@@ -776,7 +776,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         ],
       },
       {
-        heading: "Regional regulatory landscape",
+        heading: "Regional regulatory environment",
         content: [
           "Latin American crypto regulation diverges sharply by country: Brazil's centralized framework under its central bank contrasts with Argentina's liberal-but-unstable environment, Mexico's conservative banking posture, and El Salvador's Bitcoin-law experiment. LABITCONF panels feature regulators and advisors from multiple jurisdictions explaining trajectories, making it efficient regulatory intelligence for any team operating regionally.",
           "Spanish-language content dominates with interpretation available on principal stages, and the founder-heavy crowd keeps exhibition halls functional rather than decorative. Mexico City's CDMX airport connects the Americas comprehensively, Polanco hotels place attendees near evening venues, and street-food standards between meetings are legitimately world-class.",
@@ -795,7 +795,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       {
         heading: "Where India builds",
         content: [
-          "Indian hackathon turnouts routinely set records, and the talent pipeline feeding them runs through colleges, Devfolio-hosted fellowships, and a maturing grants landscape. Sponsor tracks tune to Indian use cases: payments that assume UPI competition, identity at population scale, and consumer products priced for rupee realities, with judges drawn from core protocol teams and Indian-founded protocols alike.",
+          "Indian hackathon turnouts routinely set records, and the talent pipeline feeding them runs through colleges, Devfolio-hosted fellowships, and a maturing grants ecosystem. Sponsor tracks tune to Indian use cases: payments that assume UPI competition, identity at population scale, and consumer products priced for rupee realities, with judges drawn from core protocol teams and Indian-founded protocols alike.",
           "International teams benefit too. Recruiting engineers, sourcing outsourcing partners, and testing market-entry hypotheses all happen faster in a hackathon hall than through job boards and consulting engagements; the density of demonstrably skilled builders per square meter is the attraction.",
         ],
       },
@@ -931,7 +931,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
         heading: "Miami in December",
         content: [
           "Miami in December is dry, warm, and at the peak of its conference desirability, so book accommodation early despite the city's abundant inventory. Mainnet's venue programming concentrates daytime interaction effectively, while South Beach and Wynwood host the dinner circuit.",
-          "Passes tier through messari.events official channels, with analyst-tier access unlocking the smaller research sessions where much of Mainnet's reputation is actually earned. For teams with proprietary data worth publishing, schedule analyst meetings in advance; walk-up pitches to Messari researchers rarely land the same way.",
+          "Passes tier through messari.events official channels, with analyst-tier access admitting you to the smaller research sessions where much of Mainnet's reputation is actually earned. For teams with proprietary data worth publishing, schedule analyst meetings in advance; walk-up pitches to Messari researchers rarely land the same way.",
         ],
       },
       {

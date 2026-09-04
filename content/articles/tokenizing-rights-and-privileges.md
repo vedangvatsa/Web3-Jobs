@@ -12,7 +12,7 @@ lastUpdated: "2026-09-04"
 
 The initial phase of the [NFT](/what-are-nfts) boom focused on a straightforward yet impactful concept: tokenizing ownership of digital assets. An NFT served as a deed or title for digital art or collectibles. However, this perspective only scratches the surface of what blockchain technology can offer. The true potential of [blockchain](/what-is-a-blockchain) [tokens](/what-is-a-token) extends beyond ownership to encompass a spectrum of rights and privileges.
 
-This shift represents a fundamental change. We are transitioning from static deeds to dynamic, programmable keys that unlock experiences, grant permissions, and define relationships. The concept of "tokenizing rights" serves as a foundational element for a more advanced and functional [Web3](/what-is-web3), paving the way for new models of membership, governance, and access control. This article examines the emerging field of tokenized rights and its practical implications for developers and users.
+This shift represents a fundamental change. We are transitioning from static deeds to dynamic, programmable credentials that grant permissions, verify entitlements, and define relationships. The concept of "tokenizing rights" serves as a foundational element for a more functional [Web3](/what-is-web3), establishing clear mechanisms for membership, governance, and access control. This article examines the field of tokenized rights and its practical implications for developers and users.
 
 ### Limitations of Traditional Access Control
 

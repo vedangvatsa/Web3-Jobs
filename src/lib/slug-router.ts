@@ -84,7 +84,7 @@ export async function resolveSlugType(slug: string): Promise<SlugContentType> {
 }
 
 /**
- * Invalidates the slug index — call after a content update so the index
+ * Invalidates the slug index: call after a content update so the index
  * is rebuilt on the next request. Not needed in normal ISR operation.
  */
 export function invalidateSlugIndex(): void {

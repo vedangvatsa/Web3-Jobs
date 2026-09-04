@@ -57,7 +57,7 @@ export async function getAllTerms(): Promise<GlossaryTerm[]> {
 }
 
 /**
- * Get a single term by slug — O(1) after first call via slug→term map.
+ * Get a single term by slug: O(1) after first call via slug→term map.
  */
 export async function getTerm(slug: string): Promise<GlossaryTerm | null> {
  try {

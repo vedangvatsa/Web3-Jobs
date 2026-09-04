@@ -176,7 +176,7 @@ export default function DevelopersPage() {
                 <h2 className="text-xl sm:text-2xl font-bold text-foreground">API Client Snippets &amp; Agent Integration</h2>
               </div>
               <p className="text-sm text-muted-foreground leading-relaxed max-w-3xl">
-                Hashtag Web3 provides standard REST JSON APIs, OpenAPI 3.1 specs, and MCP servers compatible with any language. Official native SDK packages (npm, PyPI) are currently in pre-release candidate phase — use standard HTTP clients or OpenAPI generators below.
+                Hashtag Web3 provides standard REST JSON APIs, OpenAPI 3.1 specs, and MCP servers compatible with any language. Official native SDK packages (npm, PyPI) are currently in pre-release candidate phase; use standard HTTP clients or OpenAPI generators below.
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 pt-2">
                 <div className="p-4 border rounded-xl bg-background">
@@ -483,9 +483,9 @@ npm install -g hashtagweb3`}</code></pre>
                   <strong className="text-foreground">Deprecation Signaling:</strong> Whenever an API version or field is scheduled for retirement, Hashtag Web3 signals this via standard HTTP headers:
                 </p>
                 <ul className="list-disc pl-5 space-y-1 font-mono text-xs text-foreground/90">
-                  <li><code>API-Version: 1.0.0</code> — Indicates active schema version.</li>
-                  <li><code>Deprecation: @1767225600</code> — Unix timestamp of deprecation declaration.</li>
-                  <li><code>Sunset: Wed, 31 Dec 2026 23:59:59 GMT</code> — Official sunset timeline (minimum 12 months advance notice).</li>
+                  <li><code>API-Version: 1.0.0</code>: Indicates active schema version.</li>
+                  <li><code>Deprecation: @1767225600</code>: Unix timestamp of deprecation declaration.</li>
+                  <li><code>Sunset: Wed, 31 Dec 2026 23:59:59 GMT</code>: Official sunset timeline (minimum 12 months advance notice).</li>
                 </ul>
                 <p>
                   Developers and AI agents can monitor these response headers to ensure automated, self-healing integration lifecycle management.

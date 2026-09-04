@@ -312,11 +312,11 @@ function markdownToHtml(md: string): string {
       } else {
         const current = listStack[listStack.length - 1];
         if (indent > current.indent) {
-          // Go deeper — open nested list
+          // Go deeper: open nested list
           html += `<${type}>\n`;
           listStack.push({ type, indent });
         } else if (indent < current.indent) {
-          // Go shallower — close until matching level
+          // Go shallower: close until matching level
           closeListsDownTo(indent);
           // If no matching level, ensure we're at the right one
           if (listStack.length === 0 || listStack[listStack.length - 1].indent !== indent) {
@@ -351,7 +351,7 @@ function markdownToHtml(md: string): string {
       inTable = false;
     }
 
-    // Empty line — close lists only if followed by a non-list line
+    // Empty line: close lists only if followed by a non-list line
     if (line.trim() === '') {
       // Peek ahead: if next non-empty line is NOT a list item, close lists
       let nextNonEmpty = '';

@@ -41,7 +41,7 @@ Designing effective NUIs involves a distinct approach compared to traditional GU
 
 **Direct Manipulation:** Users should feel as if they are directly interacting with content rather than through an intermediary interface. For example, swiping through photos on a smartphone gives the impression of physically moving the images.
 
-**Progressive Learning:** A well-designed NUI should be easy to learn while gradually revealing additional functionalities. A basic swipe might initiate a simple action, while a long press may unlock more advanced options. This design allows new users to engage quickly while still helping experienced users.
+**Progressive Learning:** A well-designed NUI should be easy to learn while gradually revealing additional functionalities. A basic swipe might initiate a simple action, while a long press reveals advanced controls. This design allows new users to engage quickly while still helping experienced users.
 
 **Immediate Feedback:** The interface must provide clear and prompt feedback following user actions. Tapping an icon should produce an immediate response, such as highlighting or animating the icon, to acknowledge the user's input.
 
