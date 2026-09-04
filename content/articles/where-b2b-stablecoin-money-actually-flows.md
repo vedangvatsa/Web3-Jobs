@@ -1,6 +1,6 @@
 ---
 title: "The Silent $226B Liquidity Shift: An Investigative Thesis on Global B2B Stablecoin Corridors"
-image: /images/articles/b2b-stablecoins/chart1.jpg
+image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: b2b stablecoins cross border payments macroeconomics
 description: >-
  A rigorous investigative analysis of global B2B stablecoin settlement: dissecting real economic throughput,

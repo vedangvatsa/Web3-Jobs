@@ -28,7 +28,9 @@ export function ArticleContent({ content, className }: { content: string; classN
         // Tables
         "[&_table]:w-full [&_table]:border-collapse [&_th]:text-left [&_th]:p-3 [&_th]:border-b [&_th]:border-border [&_th]:font-semibold [&_th]:text-foreground [&_td]:p-3 [&_td]:border-b [&_td]:border-border/60 [&_td]:text-muted-foreground",
         // Images & Media
-        "prose-img:rounded-xl prose-img:border prose-img:border-border/70 prose-img:my-8",
+        "prose-img:rounded-xl prose-img:border prose-img:border-border/70 prose-img:my-6 prose-img:w-full prose-img:max-w-3xl prose-img:mx-auto prose-img:h-auto prose-img:object-contain prose-img:shadow-sm",
+        "prose-figure:my-8 prose-figure:text-center",
+        "prose-figcaption:text-xs prose-figcaption:sm:text-sm prose-figcaption:text-muted-foreground prose-figcaption:mt-2 prose-figcaption:italic",
         // HR
         "prose-hr:border-border/70 prose-hr:my-10",
         className
