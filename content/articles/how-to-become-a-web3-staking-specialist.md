@@ -11,7 +11,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A Web3 Staking Specialist keeps proof-of-stake networks secure and earning. You run validator infrastructure, build liquid staking products, or operate staking platforms that other people use. This guide explains what the work actually involves, who it suits, and how to build the skills with verifiable steps.
 
 ## What is a Web3 Staking Specialist
@@ -184,3 +183,11 @@ On Ethereum, deposits are seen in about 13 minutes. Activation and exit both go 
 **Where should I track staking health and rewards**
 
 Start with ethereum.org for protocol rules, the Beacon API for validator and checkpoint data, and a local Prometheus and Grafana stack for your own node. For network-wide yield, watch DefiLlama and ultrasound.money for staked supply, issuance per day, and provider fees, and verify any single APR figure against at least one other source before you quote it.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

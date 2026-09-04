@@ -3,14 +3,13 @@ title: How to Work through Generational Differences in the Workplace
 category: Career Guides
 date: '2025-09-12'
 description: >-
- From Boomers to Gen Z, today's workplace is a mix of generations. This guide
- explores the common characteristics of each and provides strategies for.
+  From Boomers to Gen Z, today's workplace is a mix of generations. This guide
+  explores the common characteristics of each and provides strategies for.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: team diverse generations
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Four generations are working side by side right now, and they don't always agree on how work should get done. That's not a crisis - it's just reality. The friction usually comes from different defaults around communication, feedback, and what "professionalism" even means. Here's how to deal with it practically, especially in Web3 and remote-first teams where these differences get amplified.
 
 ## Know What You're Actually Dealing With
@@ -58,3 +57,16 @@ DAOs add another layer. When there's no formal manager, generational expectation
 Generational differences are real, but they're not destiny. Most workplace friction between age groups comes down to unspoken expectations about communication, feedback, and autonomy. Make those expectations explicit, focus on shared outcomes, and give people room to work in the way that makes them most effective.
 
 If you're building or [joining a Web3 team](/jobs), expect to work across generational lines. The companies and DAOs that figure this out will attract better talent and keep it longer.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

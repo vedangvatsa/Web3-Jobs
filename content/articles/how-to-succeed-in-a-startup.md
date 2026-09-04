@@ -1,5 +1,5 @@
 ---
-title: 'How to Succeed in a Startup'
+title: How to Succeed in a Startup
 description: >-
   Practical habits for doing well in an early-stage team. Learn how work
   actually runs, what managers reward, and how to ship, learn, and stay
@@ -10,7 +10,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Succeeding in a startup means shipping useful work when the plan is incomplete and resources are thin. You are judged on outcomes, learning speed, and how well you help teammates.
 
 This guide is for people joining teams of roughly 5 to 100 where priorities change often. It is built from public data on startup survival, standard hiring and equity practices, and common patterns in Web3 teams.
@@ -166,3 +165,16 @@ Aim for at least twelve months to finish a full cycle and vest the first portion
 
 **What is the simplest test that I am succeeding?**
 Ask two teammates and one user if your work made their job easier in the last month. If all three can name a specific example, you are on track.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

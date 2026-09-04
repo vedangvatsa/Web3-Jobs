@@ -1,15 +1,14 @@
 ---
 title: What is Yield Farming? A Guide to Earning Passive Income in DeFi
 image: >-
- https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080
 description: >-
- A deep dive into yield farming, the art of maximizing returns in Decentralized
- Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi.
+  A deep dive into yield farming, the art of maximizing returns in Decentralized
+  Finance (DeFi). Learn the strategies, the risks, and how it powers the DeFi.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Yield farming represents a strategy in Decentralized Finance (DeFi) that allows investors to use their cryptocurrency assets for enhanced returns. Yield farmers actively seek the best yields by shifting their assets among various lending protocols, liquidity pools, and staking opportunities. This practice offers the potential for significant profits but also entails complexities and risks. Yield farming is important for driving liquidity and supporting growth within the DeFi ecosystem. This article addresses the fundamental aspects of yield farming, common strategies employed, and associated risks.
 
 ### Understanding Yield Farming: The Role of Liquidity
@@ -56,3 +55,16 @@ Yield farming is not a passive investment; it requires active management and com
 - **Liquidation Risk**: Advanced yield farming strategies may involve borrowing assets to amplify positions. If market conditions shift unfavorably, the collateral provided can be liquidated, resulting in total loss.
 
 Yield farming serves as a strong mechanism within the DeFi ecosystem, offering high-risk, high-reward opportunities. It enables liquidity for new protocols while allowing sophisticated users to generate returns that significantly surpass those available in traditional finance.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

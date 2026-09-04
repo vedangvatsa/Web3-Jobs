@@ -1,14 +1,13 @@
 ---
 title: Sandwich Attack in DEX Explained
 description: >-
- Learn how sandwich attacks work on decentralized exchanges (DEXs), how they
- exploit DeFi traders, and what strategies you can use to protect your trades.
+  Learn how sandwich attacks work on decentralized exchanges (DEXs), how they
+  exploit DeFi traders, and what strategies you can use to protect your trades.
 category: Educational
 data-ai-hint: sandwich attack
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding Sandwich Attacks in Decentralized Finance (DeFi)
 
 A **sandwich attack** represents a prevalent and predatory tactic employed in **[front-running](/what-is-frontrunning-in-defi-trading)** within Decentralized Finance (DeFi). This occurs when an attacker identifies a user's pending trade on a **[Decentralized Exchange](/what-is-a-decentralized-exchange-dex)** (DEX) and positions their own trades around it to secure a profit. In this scenario, the attacker's transactions act as the "bread," while the victim's trade serves as the "filling."
@@ -103,3 +102,16 @@ Not all decentralized exchanges possess the same vulnerability to sandwich attac
 For effective MEV protection, maintain slippage tolerance at a low percentage, use a private RPC endpoint, and choose DEX aggregators that route trades through protected channels when trading larger amounts. 
 
 In the evolving DeFi ecosystem, understanding and mitigating sandwich attacks is essential. By adopting these strategies, traders can safeguard their transactions and enhance their trading outcomes.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

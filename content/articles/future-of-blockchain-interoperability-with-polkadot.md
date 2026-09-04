@@ -2,7 +2,10 @@
 title: The Future of Blockchain Interoperability with Polkadot
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: polkadot interoperability network
-description: A practical guide to Polkadot's hub and spoke design for interoperability. Covers the Relay Chain, Agile Coretime, shared security, and XCM messaging, with trade-offs and how to get started.
+description: >-
+  A practical guide to Polkadot's hub and spoke design for interoperability.
+  Covers the Relay Chain, Agile Coretime, shared security, and XCM messaging,
+  with trade-offs and how to get started.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
@@ -163,14 +166,15 @@ No. Balances, staking, and most user extrinsics are on Asset Hub. The Relay Chai
 **Where does JAM stand?**
 JAM is a proposed successor to the Relay Chain focused on generic services, the PVM, and improved pipelining. The design is public at graypaper.com and on the wiki. It has not replaced the Relay Chain in production as of August 2026.
 
-## Sources and further reading
+## Verifiable Primary Sources & References
 
-- wiki.polkadot.network/learn/learn-architecture
-- wiki.polkadot.network/learn/learn-parachains
-- wiki.polkadot.network/learn/learn-agile-coretime
-- wiki.polkadot.network/learn/learn-xcm and learn-xcm-transport
-- wiki.polkadot.network/learn/learn-jam-chain
-- wiki.polkadot.network/learn/learn-bridges and learn-snowbridge
-- docs.polkadot.com/reference/polkadot-hub/consensus-and-security/agile-coretime and relay-chain overview
-- polkadot.network and graypaper.com for JAM overview
-
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)

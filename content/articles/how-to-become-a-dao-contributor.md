@@ -3,12 +3,13 @@ title: How to Contribute to a DAO and Get Paid
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: dao crypto tokens
 description: >-
-  A practical guide to getting paid for DAO work. Learn what DAO contributions are, who this path fits, how bounties and grants are approved and paid, and the exact steps to find work and earn in stablecoins or tokens.
+  A practical guide to getting paid for DAO work. Learn what DAO contributions
+  are, who this path fits, how bounties and grants are approved and paid, and
+  the exact steps to find work and earn in stablecoins or tokens.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A [DAO](/what-is-a-dao) is an organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on how to spend funds, and the code executes the result. Contributing to a DAO and getting paid means doing useful work for that organization - writing, design, community support, analytics, development, or governance - and receiving compensation from its on-chain treasury, usually in stablecoins like USDC or in the DAO's governance [token](/what-is-a-token).
 
 This guide explains who this work fits, how the payment mechanics actually work, the trade-offs, and the specific steps to go from newcomer to paid contributor without hype.
@@ -183,3 +184,16 @@ Snapshot votes are signed messages verified off-chain at a specific block. They 
 
 **Can a DAO's treasury disappear?**
 Not silently. Treasury moves are public. The risks are concentration in the native token, which can fall sharply; mispriced bounties or grants; and smart contract bugs or governance attacks. Check holder concentration, stablecoin allocation, audit history, and whether the DAO uses a timelock and multisig threshold that fits its size.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+9. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+10. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)

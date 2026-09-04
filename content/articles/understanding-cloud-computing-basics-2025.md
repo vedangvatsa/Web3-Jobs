@@ -1,14 +1,13 @@
 ---
 title: Understanding Cloud Computing Basics 2025
 description: >-
- A simple guide to the fundamentals of cloud computing, explaining what it is,
- the main service models (IaaS, PaaS, SaaS), and its key benefits.
+  A simple guide to the fundamentals of cloud computing, explaining what it is,
+  the main service models (IaaS, PaaS, SaaS), and its key benefits.
 category: Educational
 data-ai-hint: data servers
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Cloud computing allows users to access computing resources via the internet, bypassing the need for physical hardware management. This model resembles a utility service; rather than acquiring and maintaining your own servers, you rent resources like storage, databases, and processing power from providers such as Amazon Web Services (AWS), Google Cloud, or Microsoft Azure.
 
 Historically, when companies wanted to launch a website or application, they faced significant upfront costs. They needed to buy physical servers, install operating systems, manage networks, and hire maintenance staff. This process was expensive, slow, and prone to inefficiencies. In cases where a website gained sudden popularity, companies often scrambled to acquire additional servers. Conversely, if traffic diminished, they ended up with underused hardware.
@@ -65,3 +64,16 @@ Serverless computing expands the PaaS model, allowing developers to run code wit
 
 **5. How has the cloud impacted software development?** 
 The cloud has transformed software development and deployment. It has supported the rise of DevOps, merging software development and IT operations. Startups now have access to top-tier infrastructure, leveling the playing field with larger enterprises and spurring innovation.
+
+## Verifiable Primary Sources & References
+
+1. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

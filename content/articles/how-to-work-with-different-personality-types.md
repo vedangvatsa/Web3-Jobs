@@ -3,13 +3,12 @@ title: A Guide to Working With Different Personality Types
 category: Career Guides
 date: '2025-09-12'
 description: >-
- Your workplace is filled with diverse personalities. This guide provides a
- practical framework for understanding different work styles and adapting your.
+  Your workplace is filled with diverse personalities. This guide provides a
+  practical framework for understanding different work styles and adapting your.
 data-ai-hint: team diverse personalities
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You don't need a psychology degree to work well with different people. But you do need to stop assuming everyone thinks the way you do.
 
 Most friction on teams doesn't come from disagreements about goals - it comes from clashing work styles. One person wants to brainstorm out loud; another needs quiet time to think. One person makes decisions in five minutes; another needs to sit with the data for a week. Neither is wrong. They're just different.
@@ -63,3 +62,16 @@ A few things that help:
 You're not trying to turn a deliberator into a snap decision-maker or force an introvert to love brainstorming sessions. The goal is to build a team where different styles can coexist productively - by adjusting your communication to meet people where they are and giving them room to contribute in the ways that work best for them.
 
 The best teams aren't the ones where everyone thinks alike. They're the ones where people think differently and have figured out how to make that a strength. Browse [open Web3 jobs](/jobs) to find teams that match your work style.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

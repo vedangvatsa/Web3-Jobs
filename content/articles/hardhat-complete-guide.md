@@ -1,16 +1,18 @@
 ---
-title: "Hardhat Complete Guide: Build, Test, and Deploy Ethereum Smart Contracts"
+title: 'Hardhat Complete Guide: Build, Test, and Deploy Ethereum Smart Contracts'
 image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1080'
 data-ai-hint: ethereum smart contract development hardhat
 description: >-
-  Hardhat is the Ethereum development environment by Nomic Foundation for compiling, testing, debugging, and deploying smart contracts. Learn how its Runner, EDR network, Ignition, and toolbox fit together, when to choose Hardhat, and how to ship a tested contract to Sepolia in under an hour.
+  Hardhat is the Ethereum development environment by Nomic Foundation for
+  compiling, testing, debugging, and deploying smart contracts. Learn how its
+  Runner, EDR network, Ignition, and toolbox fit together, when to choose
+  Hardhat, and how to ship a tested contract to Sepolia in under an hour.
 category: Technology Deep Dives
 slug: hardhat-complete-guide
 imageAlt: Developer writing Hardhat smart contract code on laptop
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Hardhat is a development environment for Ethereum software that compiles contracts, runs a local network, executes tests, and deploys code from one CLI. It is built by Nomic Foundation, open source at https://github.com/NomicFoundation/hardhat and documented at https://hardhat.org/docs.
 
 This guide explains what Hardhat does, who should use it, how its parts fit together in Hardhat 3, where it helps and where it does not, and how to create a tested project and deploy to Sepolia today.
@@ -542,3 +544,16 @@ Run the official tutorial at https://hardhat.org/docs/tutorial, then read gas st
 ## Next steps
 
 Create one Hardhat 3 project this week with `npx hardhat --init --template node-test-runner-viem`, copy the Counter example, and make both test suites pass with `--coverage`. Then deploy once to Sepolia with Ignition, verify on Etherscan and Sourcify, and read the gas report. That single loop teaches compilation, simulations, fixtures, cheatcodes, and journalling, and gives you a repo pattern you can reuse for any EVM project.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)

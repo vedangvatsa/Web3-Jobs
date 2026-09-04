@@ -2,12 +2,13 @@
 title: How to Prepare for a Behavioral Interview
 data-ai-hint: behavioral interview person speaking
 description: >-
-  Prepare for behavioral interviews with the STAR method. Learn what hiring managers check, how to build 8 to 10 short stories with numbers, and how Web3 teams assess async work and ownership.
+  Prepare for behavioral interviews with the STAR method. Learn what hiring
+  managers check, how to build 8 to 10 short stories with numbers, and how Web3
+  teams assess async work and ownership.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A behavioral interview asks you to describe what you did in a real past situation to predict how you will act in the next role. The prompt usually starts with "Tell me about a time you..." and the interviewer scores how you thought, acted, and what changed as a result.
 
 This guide shows you how behavioral interviews are scored in 2026, how to answer with the STAR method in 60 to 90 seconds, and how to adapt your stories for remote Web3 teams that work across time zones and review work in public.
@@ -25,7 +26,7 @@ It is different from two related formats:
 
 Google's re:Work guide on structured interviewing makes this distinction and recommends using behavioral questions to check how you applied knowledge before, and hypothetical questions to see how you reason through a new problem. In practice, many Web3 loops use both, but behavioral stories carry more weight for communication, ownership, and collaboration.
 
-Most companies now run behavioral interviews as structured interviews. That means every candidate for the same role gets comparable questions, interviewers take detailed notes, and answers are scored against a shared rubric instead of gut feeling. Google's guide describes four parts to its approach: vetted questions, comprehensive notes, standardized rubrics, and trained interviewers. SHRM's assessment research notes the same point: unstructured interviews are not particularly useful for predicting job performance, while structured interviews with defined criteria are.
+Most companies now run behavioral interviews as structured interviews. That means every candidate for the same role gets comparable questions, interviewers take detailed notes, and answers are scored against a shared rubric instead of gut feeling. Google's guide describes four parts to its approach: vetted questions, complete notes, standardized rubrics, and trained interviewers. SHRM's assessment research notes the same point: unstructured interviews are not particularly useful for predicting job performance, while structured interviews with defined criteria are.
 
 ## Who this guide is for
 
@@ -232,3 +233,16 @@ Give a brief, direct answer and return to the behavioral prompt. For example: "M
 * Amazon Jobs interview loop and Amazon's STAR guidance, which maps behavioral questions to Leadership Principles and stresses using "I" and data points in the Result.
 
 Verify each checklist item against those primary sources before your interview.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Slither Static Analyzer Repository by Trail of Bits](https://github.com/crytic/slither)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

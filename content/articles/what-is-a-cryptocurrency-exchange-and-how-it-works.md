@@ -3,13 +3,12 @@ title: What is a Cryptocurrency Exchange and How It Works
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: crypto exchange
 description: >-
- A cryptocurrency exchange is an online marketplace where you can buy, sell,
- and trade cryptocurrencies. It's the most common gateway for newcomers to.
+  A cryptocurrency exchange is an online marketplace where you can buy, sell,
+  and trade cryptocurrencies. It's the most common gateway for newcomers to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A cryptocurrency exchange serves as a digital marketplace where users can buy, sell, and trade various cryptocurrencies. For many, it marks the initial entry point from traditional finance, such as fiat currencies like USD or EUR, into the evolving world of [Web3](/what-is-web3). Similar to a stock exchange, these platforms enable transactions for assets including [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and thousands of other [tokens](/what-is-a-token).
 
 Exchanges are important for the cryptocurrency ecosystem by providing the necessary liquidity and accessibility for market operations. This article outlines the functionalities of exchanges, their operational mechanisms, and the significant distinctions between the primary exchange types.
@@ -60,3 +59,16 @@ Decentralized exchanges function as protocols built on [smart contracts](/what-a
 - **KYC/AML Compliance:** To comply with regulations, reputable centralized exchanges require users to complete a "Know Your Customer" (KYC) process, verifying identity through government-issued identification.
 
 Cryptocurrency exchanges form a fundamental component of the Web3 infrastructure. They provide liquidity and accessibility necessary for ecosystem growth. By understanding the distinctions between centralized and decentralized exchanges, users can make informed decisions regarding how to buy, trade, and secure digital assets.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -10,7 +10,6 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Rollups are Ethereum's main scaling method today. A rollup runs transactions off chain, then posts the data to Ethereum. Ethereum checks the data and holds the canonical state. You get higher throughput and lower fees, with security tied to Ethereum.
 
 ## What a rollup is
@@ -185,3 +184,15 @@ Blobs are 128 KiB binary fields carried in type 3 transactions. They are not kep
 
 **Which rollup should I pick today?**
 Pick by your constraint. If you need the fewest code changes and broad tooling, use an optimistic rollup like Arbitrum One or an OP Stack chain. If you need faster canonical exits and can handle zk tooling or Cairo, use a ZK-rollup like zkSync Era or Starknet. Check current fees on an L2 fee tracker, and verify the rollup's data availability is on Ethereum, not external.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)

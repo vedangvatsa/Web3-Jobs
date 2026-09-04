@@ -1,16 +1,15 @@
 ---
 title: How to Create and Deploy Your First Smart Contract
 image: >-
- https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1639762681057-408e52192e50?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxzbWFydCUyMGNvbnRyYWN0fGVufDB8fHx8MTc2Mjg1NjQxM3ww&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- A beginner-friendly guide to writing, compiling, and deploying a basic smart
- contract on the Ethereum blockchain using Remix.
+  A beginner-friendly guide to writing, compiling, and deploying a basic smart
+  contract on the Ethereum blockchain using Remix.
 category: Getting Started
 data-ai-hint: smart contract deployment
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Deploying your first [smart contract](/what-are-smart-contracts) represents a significant milestone for anyone aspiring to become a [Web3](/what-is-web3) developer. While the process may initially appear intimidating, modern tools make it straightforward. This guide provides a detailed walkthrough of creating and deploying a basic smart contract using Remix, a popular web-based Integrated Development Environment (IDE).
 
 ### Requirements
@@ -81,3 +80,16 @@ Once the transaction is confirmed, your contract will appear under "Deployed Con
 4. **Read the New Message**: After the transaction confirms, click the `message` button again. You will see the updated value, now reflecting "My first dApp!".
 
 Congratulations on successfully writing, compiling, and deploying your first smart contract to a public [blockchain](/what-is-a-blockchain). This achievement opens the door to exploring more complex contract types and developing frontends that interact with them, advancing your journey as a Web3 developer.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

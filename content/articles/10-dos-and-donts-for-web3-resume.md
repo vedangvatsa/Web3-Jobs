@@ -3,13 +3,12 @@ title: '10 Do''s and Don''ts for Web3 Resume Writing: Land Your Crypto Job'
 image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
 data-ai-hint: resume writing tips
 description: >-
- Practical resume advice from Web3 hiring managers: what to include, what to
- cut, and how to prepare for blockchain roles.
+  Practical resume advice from Web3 hiring managers: what to include, what to
+  cut, and how to prepare for blockchain roles.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 hiring differs significantly from traditional tech hiring. Recruiters in the crypto space sift through hundreds of resumes each week, and many applicants make easily avoidable mistakes. After analyzing thousands of applications on our job board, we present the ten essential rules that can help candidates secure callbacks rather than rejections.
 
 ## The Do's
@@ -104,3 +103,16 @@ For a Web3 role, organize your resume as follows:
 4. **Professional Experience** (reverse chronological, metrics-driven)
 5. **Web3 Community** (hackathons, governance, open-source)
 6. **Education** (brief, at the bottom)
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum ERC-4626 Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+9. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+10. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)

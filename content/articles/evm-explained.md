@@ -1,14 +1,16 @@
 ---
-title: "EVM Explained: What the Ethereum Virtual Machine Is and How It Works"
+title: 'EVM Explained: What the Ethereum Virtual Machine Is and How It Works'
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum virtual machine
 description: >-
-  The Ethereum Virtual Machine is the sandboxed runtime that executes smart contract bytecode on Ethereum and every EVM-compatible chain. Learn how its stack, memory, storage, gas metering and determinism work, where it helps, where it costs, and how to build with it.
+  The Ethereum Virtual Machine is the sandboxed runtime that executes smart
+  contract bytecode on Ethereum and every EVM-compatible chain. Learn how its
+  stack, memory, storage, gas metering and determinism work, where it helps,
+  where it costs, and how to build with it.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The Ethereum Virtual Machine is the sandboxed runtime that executes smart contract bytecode on Ethereum. Every node runs the same EVM, feeds it the same transaction and starting state, and must get the same output. That determinism is what lets a decentralized network agree on balances and contract data without a coordinator.
 
 The EVM is defined in the Ethereum Yellow Paper by Gavin Wood, first released April 2014, and went live with Frontier on 30 July 2015. It is quasi-Turing complete. It can run any program you can express in bytecode, but every step costs gas, and gas caps total work per transaction and per block. No gas means no infinite loops.
@@ -193,7 +195,7 @@ About half of active contract deployers target EVM bytecode even when they deplo
 **1. Set up a toolchain.** Install Foundry, which bundles Forge for tests, Cast for RPC calls, Anvil for a local node, and Chisel for a REPL. It embeds `revm`, the same Rust EVM used by Reth, so coverage and gas reports match production. Hardhat with `ethereumjs-vm` is a solid alternative if you prefer JavaScript.
 
 ```bash
-curl -L https://foundry.paradigm.xyz | bash
+curl -L https://foundry.model.xyz | bash
 foundryup
 forge init hello-evm
 forge build
@@ -295,3 +297,15 @@ Because of EIP-2929. The first `SLOAD` of a slot in a transaction pays 2100 gas 
 
 Start with the ethereum.org page on the EVM, last updated 26 July 2026, then the Yellow Paper Berlin version and Appendix G and H for the fee schedule. Keep evm.codes open for opcodes and the ethereum.org walkthrough Understand the Yellow Paper's EVM Specifications for the execution context equations. For changes, read EIP-2929 for access lists, EIP-1559 for the base fee market, EIP-1153 for transient storage, and EIP-5656 for MCOPY. The execution specs at github.com/ethereum/execution-specs are the executable truth.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+5. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+6. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+10. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)

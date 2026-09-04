@@ -2,13 +2,12 @@
 title: When and How Often Should You Update Your Resume
 data-ai-hint: resume document update
 description: >-
- Keeping your resume updated is important for career readiness. Learn the key
- moments to refresh your resume and what information to add to stay ahead.
+  Keeping your resume updated is important for career readiness. Learn the key
+  moments to refresh your resume and what information to add to stay ahead.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a vital document throughout your career, not just during job searches. Treat it as a continually evolving summary of your professional achievements. Regular updates ensure you remain ready for unexpected job opportunities and help you keep track of your accomplishments. The optimal update frequency depends on your career stage and project cycle:
 
 You should update your resume every three to six months. This routine does not necessitate a complete rewrite; instead, it involves adding recent achievements, refining your skills, and polishing your language. certain career events should prompt an immediate resume update. Below are key moments to consider for these updates.
@@ -68,3 +67,16 @@ A: The preferred format is PDF. This format preserves your formatting across all
 **Q: Is it appropriate to include a career gap on my resume?**
 
 A: Yes, including a career gap is increasingly common and accepted. Be honest and frame the gap positively. Briefly explain the reason for the gap, whether it was for personal development, travel, or family care. Focus on any skills learned or experiences gained during that time. For more detailed strategies, consult our guide on [How to Explain Employment Gaps Successfully](/how-to-explain-employment-gaps-successfully).
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

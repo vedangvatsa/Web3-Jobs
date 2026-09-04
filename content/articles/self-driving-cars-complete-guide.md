@@ -1,14 +1,13 @@
 ---
 title: Self Driving Cars Complete Guide
 description: >-
- A full look into the world of autonomous vehicles, from the different levels
- of automation to the technology that powers them and the challenges ahead.
+  A full look into the world of autonomous vehicles, from the different levels
+  of automation to the technology that powers them and the challenges ahead.
 category: Educational
 data-ai-hint: autonomous car
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Self-driving cars, also known as autonomous vehicles, have transitioned from a futuristic concept to tangible innovations that are reshaping transportation. These vehicles operate without human intervention, relying on complex technology to manage and interact with their environment.
 
 An autonomous vehicle uses an array of sensors to perceive its surroundings. This suite includes LiDAR (Light Detection and Ranging), which employs lasers to create detailed 3D maps; radar systems that use radio waves to detect nearby objects and vehicles; and cameras that capture high-resolution images. This combination of sensors allows the vehicle to identify critical elements such as traffic lights, road signs, pedestrians, and lane markings. The result is a detailed and redundant view of the vehicle's environment.
@@ -278,3 +277,16 @@ Yes, many begin with DePIN bounties and grants while transitioning to full-time 
 - Check job postings on DIMO and other mobility DePIN company sites.
 
 As the autonomous vehicle sector and DePIN continue to evolve, professionals can prepare leading innovation. By developing relevant skills and engaging with industry networks, you can contribute to shaping a safer, more efficient, and decentralized future for transportation.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

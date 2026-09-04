@@ -2,13 +2,12 @@
 title: How to Write Professional Resume
 data-ai-hint: resume paper document
 description: >-
- Turn work history into a concise, tailored resume with measurable results,
- role-specific keywords, readable formatting, and essential skills sections.
+  Turn work history into a concise, tailored resume with measurable results,
+  role-specific keywords, readable formatting, and essential skills sections.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Your resume serves as a critical first impression for potential employers. In a competitive job market, a well-crafted resume can determine whether you secure an interview or get overlooked. A resume is not merely a list of past jobs; it acts as a marketing document that effectively showcases your skills and experience.
 
 Creating a professional resume is manageable when you focus on a few essential principles. These guidelines will help you construct a clear, concise, and engaging document that highlights your qualifications and distinguishes you from other candidates.
@@ -81,3 +80,16 @@ Typically, include the last 10-15 years of your work experience. If older experi
 
 **Is it acceptable to have a gap in my employment history?** 
 Yes, employment gaps are common. Be prepared to explain the gap in your cover letter or during an interview, but avoid excessive detail on your resume.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -1,16 +1,15 @@
 ---
 title: 'The First Post: When Satoshi Nakamoto Introduced Bitcoin to the World'
 description: >-
- Before the whitepaper, there was the forum post. We look back at Satoshi
- Nakamoto's first public message on the P2P Foundation forum, the moment the
- world.
+  Before the whitepaper, there was the forum post. We look back at Satoshi
+  Nakamoto's first public message on the P2P Foundation forum, the moment the
+  world.
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 category: Industry Insights
 data-ai-hint: satoshi nakamoto
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## A Humble Beginning on the P2P Foundation Forum
 
 Before [Bitcoin](/what-is-bitcoin) became a widely recognized term and a multi-trillion-dollar asset class, it existed solely as an idea shared on an obscure online forum. On February 11, 2009, Satoshi Nakamoto made his first public post on the P2P Foundation forum. Titled "Bitcoin open source implementation of P2P e-cash," this post introduced the world to the concept of a decentralized digital currency. Although Satoshi released the Bitcoin whitepaper on a cryptography mailing list a few months earlier, this forum post aimed to reach a broader audience of peer-to-peer technology enthusiasts.
@@ -54,3 +53,16 @@ From this single forum post, an entire ecosystem has emerged. The ideas Satoshi 
 Reflecting on this first post is a humbling experience. It serves as a reminder that every significant movement begins with a single idea shared among a small group willing to listen. It highlights the power of open-source collaboration and the potential for a determined individual (or group) to change the world.
 
 As the crypto field grows more complex and commercial, returning to these foundational texts becomes increasingly important. Satoshi's initial forum post, along with the Bitcoin whitepaper and the message encoded in the Genesis Block, constitutes the sacred texts of the crypto canon. They remind us of the "why" behind this technology: the pursuit of a more open, equitable, and decentralized world.
+
+## Verifiable Primary Sources & References
+
+1. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

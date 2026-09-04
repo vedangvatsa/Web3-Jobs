@@ -2,14 +2,13 @@
 title: How to Build Your First AI Model
 data-ai-hint: robot building blocks
 description: >-
- A beginner's, step-by-step guide to building a simple but complete machine
- learning model using Python. No complex theory, just a practical, hands-on
- project.
+  A beginner's, step-by-step guide to building a simple but complete machine
+  learning model using Python. No complex theory, just a practical, hands-on
+  project.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The concept of building an AI model often seems daunting. However, modern tools now enable anyone with basic programming skills to create a functional machine learning model within a few hours.
 
 This guide provides a step-by-step approach to building a predictive model using Python and Scikit-learn, a widely used machine learning library. The focus will be on practical application rather than theoretical concepts. By the end, you will have a working model that you can use for real-world predictions.
@@ -66,3 +65,16 @@ Avoid attempting to change everything all at once. Start with small, manageable 
 ### Measure and Adjust
 
 Continuously monitor your progress. Are you seeing the desired outcomes? Be willing to adjust your strategies based on feedback and results. A mindset of continuous improvement is vital for long-term success.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

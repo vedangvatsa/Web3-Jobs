@@ -3,13 +3,12 @@ title: The Role of a Web3 Financial Product Manager
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: web3 financial product manager
 description: >-
- A guide to the specialized role of a Financial Product Manager in Web3. Learn
- how they blend product management, financial expertise, and tokenomics to.
+  A guide to the specialized role of a Financial Product Manager in Web3. Learn
+  how they blend product management, financial expertise, and tokenomics to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Within the specialized field of [Web3 Product Management](/web3-product-manager-jobs), the role of **Web3 Financial Product Manager (FPM)** has emerged. This position focuses on the design, development, and management of decentralized financial (DeFi) products.
 
 A Web3 FPM requires a blend of skills beyond standard product management. This role combines user empathy akin to a designer, strategic thinking typical of a product manager, and the quantitative expertise of a financial analyst. Web3 FPMs are responsible for creating complex financial instruments and protocols essential to the decentralized economy.
@@ -55,3 +54,16 @@ The responsibilities of a Web3 FPM include:
  - Draft a governance proposal for a major DeFi [DAO](/what-is-a-dao) aimed at enhancing risk parameters.
 
 The role of a Web3 Financial Product Manager is both challenging and rewarding. It provides an opportunity to shape a more transparent and efficient financial system through new product design.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

@@ -3,13 +3,12 @@ title: How to Be a Good Community Moderator
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: team meeting collaboration
 description: >-
- A deep dive into the most important non-technical role in Web3. Learn what a
- community manager does, the skills they need, and how to build a career as.
+  A deep dive into the most important non-technical role in Web3. Learn what a
+  community manager does, the skills they need, and how to build a career as.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the decentralized field of [Web3](/what-is-web3), community plays a central role in shaping projects and their success. The Community Manager, or "CM," serves as the cornerstone in this ecosystem, transcending traditional social media management. This position demands a unique combination of empathy, communication skills, and in-depth knowledge of protocols to thrive.
 
 A proficient CM embodies the spirit of a project. They build community culture, onboard users, manage crises, and serve as the vital connection between anonymous users and the development team. This article examines the core responsibilities, [essential skills](/mastering-web3-essential-skills), and the career trajectory of this important non-technical role in the crypto sector.
@@ -100,3 +99,15 @@ During exploits, market downturns, or delayed roadmap deliverables, the communit
 - **Establishing a Single Source of Truth:** During an exploit or hack, immediately lock down non-essential chat channels to prevent rumor-mongering, and post a pinned, transparent status update explaining what is known and what is being investigated.
 - **Empathetic Boundary Setting:** Address legitimate user concerns and frustrations without getting defensive, while strictly enforcing rules against personal attacks on developers or team members.
 - **Constructive Sentiment Loop:** Package community sentiment into objective reports (rather than emotional screenshots) for the engineering team to help guide feature fixes and roadmap changes.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

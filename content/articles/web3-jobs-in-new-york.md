@@ -2,13 +2,12 @@
 title: 'Web3 Jobs in New York: DeFi and FinTech Capital'
 data-ai-hint: new york city
 description: >-
- A career guide to the Web3 job market in New York City. Discover how the
- world's financial capital is becoming the epicenter of DeFi, institutional.
+  A career guide to the Web3 job market in New York City. Discover how the
+  world's financial capital is becoming the epicenter of DeFi, institutional.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 New York City stands as the pinnacle of global finance, establishing itself as a key player in the Web3 industry. The city serves as the convergence point for Traditional Finance (TradFi) and Decentralized Finance (DeFi). This intersection creates a unique ecosystem that benefits projects and professionals dedicated to constructing the financial infrastructure of the decentralized internet. For those targeting a career at this dynamic crossroad of finance and technology, New York offers strong opportunities.
 
 The NYC Web3 environment thrives on its abundance of financial talent, proximity to regulatory bodies, and a fast-paced atmosphere. It hosts the headquarters of influential companies such as ConsenSys, which develops essential infrastructure tools, and OpenSea, a leader in the NFT market. the city boasts a high concentration of crypto-focused hedge funds and venture capital firms. This article explores the current state of the Web3 job market in New York, highlighting the essential roles, skills required, and salary expectations.
@@ -72,3 +71,16 @@ To thrive in the New York Web3 job market, consider the following strategies:
 ### Finding Your Web3 Job in New York
 
 For individuals eager to build a career in this new sector, explore current opportunities on our [Web3 job board](/jobs). New York provides a unique environment for professionals who excel at the intersection of finance and technology.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

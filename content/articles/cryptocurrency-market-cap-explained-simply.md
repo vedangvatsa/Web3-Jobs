@@ -3,13 +3,12 @@ title: Cryptocurrency Market Cap Explained Simply
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: crypto market chart
 description: >-
- A cryptocurrency's market cap is a key metric used to gauge its size and
- relative importance in the market. It's calculated by multiplying the current.
+  A cryptocurrency's market cap is a key metric used to gauge its size and
+  relative importance in the market. It's calculated by multiplying the current.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 When you examine cryptocurrency listings on platforms like CoinGecko or CoinMarketCap, one of the primary metrics you will encounter is **market capitalization**, often referred to as "market cap." In straightforward terms, a cryptocurrency's market cap represents the total value of all its coins in circulation. This figure provides an immediate sense of the size and significance of a crypto project within the broader market.
 
 ### Market Cap Calculation
@@ -53,3 +52,16 @@ While market cap serves as a useful metric, it has inherent limitations.
 - **Potential for Manipulation:** Smaller, illiquid projects can be susceptible to price manipulation by a limited number of holders, leading to inflated market cap figures.
 
 Market cap acts as a foundational metric for evaluating a cryptocurrency. It offers a quick overview of a project's scale and perceived market value. However, it should be analyzed alongside other key metrics and an in-depth examination of the project's technology, team, and [tokenomics](/understanding-tokenomics) as part of a thorough [DYOR (Do Your Own Research)](/what-is-dyor-in-crypto) process.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

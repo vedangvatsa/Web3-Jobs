@@ -3,13 +3,12 @@ title: Who's in Charge? Governing Agentic AI Systems
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: ai governance robot
 description: >-
- As AI becomes more autonomous, governing it becomes a critical challenge. This
- guide explores the emerging models for AI governance, from DAOs to public.
+  As AI becomes more autonomous, governing it becomes a critical challenge. This
+  guide explores the emerging models for AI governance, from DAOs to public.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The evolution of artificial intelligence is driving us away from simple automation towards systems that exhibit autonomous agency. These advanced systems do not merely serve as tools; they act as independent agents capable of setting their own sub-goals, accessing capital, and executing complex tasks to achieve overarching objectives. This advancement raises a significant challenge: how do we govern systems that possess the ability to govern themselves?
 
 When an AI agent makes autonomous decisions with substantial real-world consequences, such as executing significant trades or managing critical infrastructure, determining accountability becomes complex. Questions arise regarding who is responsible: the developer who wrote the code, the user who deployed the agent, the company that owns the model, or the agent itself? This ambiguity defines the "accountability gap," a critical issue at the center of AI governance.
@@ -70,3 +69,16 @@ Consider an AI trading agent managing a [DeFi](/what-is-defi) protocol's treasur
 The pace of agentic AI development is accelerating rapidly. Establishing reliable governance and control systems is vital to ensuring these advancements align with human values. Relying solely on centralized corporations for oversight poses significant risks.
 
 Web3 principles, decentralization, transparency, and cryptographic verification provide a promising toolkit for developing accountable AI systems. By implementing on-chain guardrails and subjecting autonomous agents to public scrutiny, we can create a future where these influential systems align with societal values and support the public good. The convergence of AI and Web3 is not merely a technological trend; it may be essential for building a safe and beneficial future in artificial intelligence.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

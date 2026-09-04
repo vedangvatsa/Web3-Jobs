@@ -3,14 +3,13 @@ title: What is a Layer 1 Blockchain? The Foundation of Web3
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: blockchain network foundation
 description: >-
- A simple guide to understanding Layer 1 (L1) blockchains, the foundational
- networks like Bitcoin and Ethereum that form the base layer of the Web3
- ecosystem.
+  A simple guide to understanding Layer 1 (L1) blockchains, the foundational
+  networks like Bitcoin and Ethereum that form the base layer of the Web3
+  ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the [Web3](/what-is-web3) ecosystem, the terms "Layer 1" and "Layer 2" frequently arise. Understanding the distinction between these layers is important for grasping how blockchains scale and evolve. A Layer 1 (L1) [blockchain](/what-is-a-blockchain) serves as the main infrastructure in a decentralized ecosystem, forming the foundational layer upon which all other applications and networks are built.
 
 Visualize the Web3 field as a city; the Layer 1 blockchain represents the ground, the primary roads, and essential utility grids, such as power and water. It establishes the fundamental rules, security protocols, and economic policies of the entire ecosystem.
@@ -102,3 +101,16 @@ Grasping Layer 1 design principles enables developers to make informed decisions
 Layer 1 blockchains form the backbone of Web3. They provide the security and decentralization that underpin the entire system's value. A sound understanding of how they operate and the reasons behind their differing designs is important for anyone engaged in building within the Web3 space.
 
 The choice of Layer 1 influences every aspect of your application, including cost, speed, security guarantees, and user experience. Making an informed choice requires a clear understanding of what each Layer 1 optimizes and what it sacrifices.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

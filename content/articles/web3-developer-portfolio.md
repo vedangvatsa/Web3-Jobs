@@ -1,15 +1,14 @@
 ---
 title: Building a Killer Web3 Developer Portfolio
 image: >-
- https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1531403009284-440f080d1e12?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwb3J0Zm9saW98ZW58MHx8fHwxNzU1MTYxODk4fDA&lib=rb-4.1.0&q=80&w=1080
 description: >-
- In Web3, your GitHub is your resume. This guide covers the essential projects
- you need in your portfolio to land a job as a blockchain developer, from.
+  In Web3, your GitHub is your resume. This guide covers the essential projects
+  you need in your portfolio to land a job as a blockchain developer, from.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the [Web3](/what-is-web3) job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary, while your LinkedIn profile holds little significance. The most critical asset in your job search as a developer is your [portfolio](/building-web3-portfolio), particularly your GitHub profile. Hiring managers and technical recruiters seek concrete evidence of your skills, including your ability to write clean, secure [Solidity](/best-programming-languages-for-blockchain-development) code and create intuitive frontends that interact effectively with the [blockchain](/what-is-a-blockchain). They also want to see a genuine enthusiasm for the technology that extends beyond professional obligations.
 
 A thoughtfully constructed portfolio of personal projects serves as the primary indicator of your capabilities. This guide presents a clear, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that captures attention and secures interviews. We will address the essential projects every aspiring blockchain developer should undertake, ranging from basic [smart contracts](/what-are-smart-contracts) to a fully functioning dApp.
@@ -74,3 +73,16 @@ Follow this structured progression to enhance your skills while building your po
  - Begin with smaller contributions, such as fixing typos in documentation or adding missing test cases.
 
 Your portfolio acts as a dynamic document reflecting your journey as a Web3 developer. By completing these projects, you not only enhance your coding skills but also create compelling evidence that can enable your entry into this growing industry. Start building today.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+10. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)

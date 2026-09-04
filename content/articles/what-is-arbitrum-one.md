@@ -3,13 +3,12 @@ title: What is Arbitrum One? A Guide to the Leading L2
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: arbitrum blockchain
 description: >-
- A deep dive into Arbitrum One, a leading Layer 2 scaling solution for Ethereum
- that uses Optimistic Rollup technology to provide fast and cheap transactions.
+  A deep dive into Arbitrum One, a leading Layer 2 scaling solution for Ethereum
+  that uses Optimistic Rollup technology to provide fast and cheap transactions.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 As [Ethereum](/what-is-ethereum) expanded, the demand for effective scaling solutions surged. **Arbitrum One** has emerged as a leading **[Layer 2 (L2) scaling solution](/guide-to-layer-2s)**, enabling users to interact with the Ethereum ecosystem at significantly lower costs and with enhanced transaction speeds.
 
 Created by Offchain Labs, Arbitrum employs an **Optimistic Rollup** architecture, ensuring full compatibility with the Ethereum Virtual Machine (EVM). Developers can easily deploy existing Ethereum [smart contracts](/what-are-smart-contracts) and decentralized applications (dApps) on Arbitrum with minimal adjustments, allowing them to immediately benefit from Arbitrum's scalability features.
@@ -39,3 +38,16 @@ Arbitrum One has solidified its position as a frontrunner in Ethereum scaling ef
 ### Understanding the Implications
 
 Grasping the mechanics and advantages of Arbitrum is essential for professionals in the Web3 space. Mastering these concepts can enhance career prospects, leading to higher salaries and faster advancement. In Web3 organizations, effective communication and collaboration are vital for success.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+6. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

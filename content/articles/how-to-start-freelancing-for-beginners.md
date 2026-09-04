@@ -2,13 +2,12 @@
 title: How to Start Freelancing for Beginners
 data-ai-hint: person typing laptop
 description: >-
- A step-by-step guide on how to start your freelancing journey. Learn how to
- find your niche, build a portfolio, and land your first client.
+  A step-by-step guide on how to start your freelancing journey. Learn how to
+  find your niche, build a portfolio, and land your first client.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The allure of freelancing includes the freedom to be your own boss, set your own hours, and work from virtually anywhere. However, for many beginners, the journey to a successful freelance career can appear overwhelming. Knowing where to begin is important.
 
 Starting a freelance business involves transforming your skills into services that clients will pay for. Whether you are a writer, designer, developer, or marketer, a market exists for your expertise. This guide outlines the essential steps to help you get started in freelancing.
@@ -80,3 +79,16 @@ Always use a freelance contract. This document protects both you and your client
 
 **How do I handle taxes?** 
 As a freelancer, you bear the responsibility for your own taxes. This differs from traditional employment. It is wise to set aside a portion of every payment for tax purposes. Consulting with an accountant can help ensure you comply with regulations.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

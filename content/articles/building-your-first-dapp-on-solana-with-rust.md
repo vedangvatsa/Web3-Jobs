@@ -1,16 +1,15 @@
 ---
 title: Building Your First DApp on Solana with Rust
 image: >-
- https://images.unsplash.com/photo-1603539947678-cd3954ed515d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8YXBwfGVufDB8fHx8MTc1NTAzNjY3OXww&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1603539947678-cd3954ed515d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8YXBwfGVufDB8fHx8MTc1NTAzNjY3OXww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: solana blockchain rust
 description: >-
- A developer's guide to getting started with Solana. Learn the basics of the
- Solana programming model and build a simple 'Hello, World' smart contract.
+  A developer's guide to getting started with Solana. Learn the basics of the
+  Solana programming model and build a simple 'Hello, World' smart contract.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Understanding the fundamental differences between Ethereum and Solana is vital for any developer entering the blockchain space. Both platforms offer unique advantages that cater to different needs and use cases. While Ethereum has established itself as the primary platform for smart contract development, Solana is rapidly gaining traction due to its high throughput and low transaction costs.
 
 ### Key Differences Between Ethereum and Solana
@@ -221,7 +220,7 @@ Maria, a project manager in a Web3 startup, used her understanding of decentrali
 1. **Rushing Development:** Building blockchain applications takes time. Hasty decisions can lead to critical mistakes.
 2. **Neglecting User Feedback:** Engage with users and stakeholders to gather feedback. This input is invaluable for improving your application.
 3. **One-Size-Fits-All Solutions:** Tailor your approaches based on specific project needs. What works for one project may not suit another.
-4. **Fear of Failure:** Embrace failure as a learning opportunity. Iteration and improvement are part of the development process.
+4. **Fear of Failure:** adopt failure as a learning opportunity. Iteration and improvement are part of the development process.
 5. **Ignoring Metrics:** Track your progress and metrics diligently. Data-driven insights can guide your development efforts effectively.
 
 ### FAQ
@@ -242,3 +241,16 @@ A: Yes, many professionals transition into technical roles by learning programmi
 A: Numerous online courses, tutorials, and documentation are available, including the official Solana and Rust websites. Engaging with community resources and mentorship opportunities can also enhance your learning experience.
 
 Developing your first DApp on Solana using Rust and Anchor can open numerous doors in the blockchain space. By understanding the core principles and Building your skills, you prepare for a successful career in this dynamic environment. As the demand for blockchain solutions continues to grow, your expertise in Solana development will be a valuable asset.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

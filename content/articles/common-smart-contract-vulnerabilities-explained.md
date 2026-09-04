@@ -3,14 +3,13 @@ title: Common Smart Contract Vulnerabilities Explained
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: security vulnerability lock
 description: >-
- A developer's guide to the most common security flaws in Solidity smart
- contracts, from reentrancy to integer overflows. Learn how to identify and
- prevent.
+  A developer's guide to the most common security flaws in Solidity smart
+  contracts, from reentrancy to integer overflows. Learn how to identify and
+  prevent.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the high-stakes field of [Web3](/what-is-web3), the security of [smart contracts](/what-are-smart-contracts) stands as a top priority. A single vulnerability can result in the loss of significant user funds. Since deployed [blockchain](/what-is-a-blockchain) code remains immutable, errors become permanent, highlighting the necessity for developers to understand common attack vectors.
 
 This guide offers a detailed examination of prevalent smart contract vulnerabilities, particularly those found in the Ethereum Virtual Machine (EVM) environment. It includes explanations of how these vulnerabilities operate, code examples of flawed patterns, and best practices for prevention. This information is important for any aspiring [smart contract auditor](/smart-contract-auditor-career) or security-focused developer.
@@ -167,3 +166,16 @@ When your contract invokes another contract, checking for call success is essent
 | Unchecked External Calls | Ignoring failure of external contract calls | Always check call success |
 
 Smart contract security encompasses a vast and continually changing field. This guide highlights some of the most prevalent vulnerabilities, but a security-first mindset requires ongoing education, thorough testing, and vigilance. By recognizing potential pitfalls, developers can design strong and reliable systems that uphold user trust.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

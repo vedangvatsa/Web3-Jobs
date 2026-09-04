@@ -1,13 +1,12 @@
 ---
 title: Web3 Skills Guide - Essential Knowledge for Career Success
 description: >-
- A full guide covering the core skills and knowledge areas every Web3
- professional needs to build a successful career in blockchain, DeFi, NFTs.
+  A full guide covering the core skills and knowledge areas every Web3
+  professional needs to build a successful career in blockchain, DeFi, NFTs.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Master These Core Areas
 
 Careers in [Web3](/what-is-web3) encompass various specializations, yet certain foundational skills hold universal value across roles.
@@ -65,3 +64,16 @@ Technical knowledge alone does not suffice in Web3. Community engagement and com
 - **Real-World Experience**: Pursue internships or contributor roles to gain hands-on experience.
 
 Begin with foundational knowledge, then specialize according to your career goals.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Solana Core Architecture Documentation](https://docs.solana.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

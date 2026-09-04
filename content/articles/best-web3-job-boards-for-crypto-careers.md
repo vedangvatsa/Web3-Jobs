@@ -1,8 +1,12 @@
 ---
-title: 7 Best Web3 Job Boards for Crypto Careers in 2026 | Where Hiring Actually Happens
+title: >-
+  7 Best Web3 Job Boards for Crypto Careers in 2026 | Where Hiring Actually
+  Happens
 description: >-
   A recruiter-tested guide to the 7 channels that fill most Web3 roles in 2026.
-  Includes curated boards with 3,000+ verified postings, the large aggregator with 40,943 listings as of Aug 2026, plus exact X search strings and DAO bounty tactics you can use today.
+  Includes curated boards with 3,000+ verified postings, the large aggregator
+  with 40,943 listings as of Aug 2026, plus exact X search strings and DAO
+  bounty tactics you can use today.
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 category: Career Guides
 data-ai-hint: job search

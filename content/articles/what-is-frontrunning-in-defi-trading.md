@@ -1,14 +1,13 @@
 ---
 title: What is Front-Running in DeFi Trading?
 description: >-
- Learn how frontrunning works in DEX trading and strategies to protect against
- it.
+  Learn how frontrunning works in DEX trading and strategies to protect against
+  it.
 category: Educational
 data-ai-hint: front running
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is Front-Running in DeFi Trading?
 
 Front-running occurs in both traditional finance and Decentralized Finance ([DeFi](/what-is-defi)). In these contexts, it involves executing a trade based on knowledge of an impending transaction that is likely to influence market prices. In DeFi, this practice manifests in a specific way due to the transparent nature of the mempool, which allows anyone to see pending transactions. Automated trading bots exploit this visibility to profit from forthcoming trades, leading to financial losses for many users.
@@ -79,3 +78,16 @@ Success is not guaranteed for front-running bots. The mempool is a competitive a
 
 **Does Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) affect front-running?** 
 Proof-of-Stake does not eliminate the possibility of front-running. Validators in a PoS framework take on the miners' role in determining transaction order, perpetuating the core dynamics that allow for front-running based on fee prioritization.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

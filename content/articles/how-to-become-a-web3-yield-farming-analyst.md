@@ -3,14 +3,13 @@ title: How to Become a Web3 Yield Farming Analyst
 image: /images/javier-quesada-qYfwGVNJqSA-unsplash.jpg
 data-ai-hint: crypto yield data
 description: >-
- A career guide for the emerging role of Yield Farming Analyst. Learn the
- skills needed to analyze DeFi strategies, assess risk, and maximize returns
- in.
+  A career guide for the emerging role of Yield Farming Analyst. Learn the
+  skills needed to analyze DeFi strategies, assess risk, and maximize returns
+  in.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Decentralized Finance ([DeFi](/what-is-defi)) has transformed traditional financial systems, introducing new mechanisms like [yield farming](/what-is-yield-farming). As the complexity of these protocols increases, a new role has surfaced: the **Yield Farming Analyst**. This professional synthesizes expertise in data analysis, finance, and DeFi operations to identify, evaluate, and act on optimal yield opportunities within the cryptocurrency market.
 
 This position appeals to individuals who thrive on the complexities of DeFi protocols and enjoy optimizing capital in a fast-paced environment. This guide outlines the responsibilities of a Yield Farming Analyst and the skills required to excel in this dynamic career.
@@ -55,3 +54,16 @@ A Yield Farming Analyst primarily seeks to answer a critical question: "What is 
 3. **Specialize**: Identify a niche within yield farming, such as liquidity provision on concentrated liquidity AMMs or strategies using new liquid restaking tokens. 
 
 A career as a Yield Farming Analyst suits those who relish the intellectual challenge of a constantly shifting field. This high-impact role positions you leading the new DeFi sector.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

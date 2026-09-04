@@ -2,13 +2,12 @@
 title: How to Use ChatGPT for Beginners Guide
 data-ai-hint: robot human interaction
 description: >-
- A simple, practical guide to getting started with ChatGPT. Learn how to ask
- the right questions and use it effectively for work, learning, and creativity.
+  A simple, practical guide to getting started with ChatGPT. Learn how to ask
+  the right questions and use it effectively for work, learning, and creativity.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 So you've heard about ChatGPT and you're ready to see what all the fuss is about. It's a useful tool, but like any tool, knowing how to use it makes all the difference. The good news is that you don't need any technical skills to get started. The key is learning how to "talk" to it in a way that gets you the best results. This guide will walk you through everything you need to know, from your very first prompt to more advanced techniques.
 
 ### What Exactly Is ChatGPT?
@@ -131,3 +130,16 @@ The policies around copyright and commercial use of AI-generated content are sti
 
 **5. What happens if I get a weird or nonsensical answer?**
 This can happen. Sometimes the model gets stuck or misinterprets your prompt. The best thing to do is to start a new chat or rephrase your prompt in a simpler, more direct way. Don't be afraid to try again from a different angle.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

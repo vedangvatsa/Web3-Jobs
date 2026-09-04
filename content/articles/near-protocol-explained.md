@@ -1,13 +1,16 @@
 ---
-title: 'NEAR Protocol Explained: Nightshade Sharding, Chain Abstraction and How to Build'
+title: >-
+  NEAR Protocol Explained: Nightshade Sharding, Chain Abstraction and How to
+  Build
 description: >-
-  NEAR is a sharded, proof-of-stake layer-1 with human-readable accounts and low fees. Learn how Nightshade, Chain Signatures and Intents work, where NEAR fits, trade-offs, and practical steps to build.
+  NEAR is a sharded, proof-of-stake layer-1 with human-readable accounts and low
+  fees. Learn how Nightshade, Chain Signatures and Intents work, where NEAR
+  fits, trade-offs, and practical steps to build.
 category: Technology Deep Dives
 data-ai-hint: blockchain near protocol
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 NEAR Protocol is a layer-one, sharded, proof-of-stake blockchain built to be fast, low-cost, and easy to use. Docs at docs.near.org describe it as a user-friendly and carbon-neutral chain where accounts look like `alice.near`, finality is about 1.3 seconds, and average fees are about $0.002.
 
 What started in 2018 as a scalability research project by Illia Polosukhin and Alexander Skidanov has grown into a stack that handles base-layer consensus, cross-chain signing, and intent-based execution for apps and AI agents. This guide explains what NEAR is, who should use it, how the pieces work, where it helps and where it hurts, and how to try it.
@@ -29,7 +32,7 @@ The NEAR token (NEAR) has three roles defined in docs.near.org/protocol/network/
 
 Current chain stats from docs.near.org as of August 2026: five years of 100 percent uptime on mainnet, more than 4 billion transactions processed (tracked on Pikes Peak), and daily peaks above 13 million transactions. Apps like Sweat, Kai Ching and Hot Wallet each report millions of users on DappRadar rankings linked from the docs.
 
-Tokenomics snapshot: initial supply 1 billion NEAR in 2020. Annual issuance targets 5 percent at launch, now 2.5 percent after the halving upgrade described in the Feb 24 2026 post "Evolving NEAR Tokenomics." Of new issuance about 90 percent goes to validators and delegators and about 10 percent to the protocol treasury. All transaction fees except the contract rebate are burned. That burn can offset issuance when activity is high, which pushes net issuance down. The supply is fully unlocked and governed through House of Stake, the on-chain governance body introduced in 2025-2026. NEAR Intents adds protocol revenue that House of Stake directs toward buybacks. The February 2026 update noted more than $13 billion in Intents settlement volume and an initial 1 million NEAR buyback funded by Intents fees.
+Tokenomics snapshot: initial supply 1 billion NEAR in 2020. Annual issuance targets 5 percent at launch, now 2.5 percent after the halving upgrade described in the Feb 24 2026 post "Evolving NEAR Tokenomics." Of new issuance about 90 percent goes to validators and delegators and about 10 percent to the protocol treasury. All transaction fees except the contract rebate are burned. That burn can offset issuance when activity is high, which pushes net issuance down. The supply is fully open and governed through House of Stake, the on-chain governance body introduced in 2025-2026. NEAR Intents adds protocol revenue that House of Stake directs toward buybacks. The February 2026 update noted more than $13 billion in Intents settlement volume and an initial 1 million NEAR buyback funded by Intents fees.
 
 ## Who it is for
 
@@ -337,3 +340,13 @@ Start with the NEAR docs quickstart at docs.near.org/smart-contracts/quickstart 
 **What should I read next?**
 
 Docs hub at docs.near.org, NEAR papers at near.org/papers, Aurora docs at doc.aurora.dev, the Intents widget and API at docs.near-intents.org, and the economics pieces at near.org/blog/near-protocol-economics and near.org/blog/evolving-near-tokenomics. For code, see near-examples on GitHub and the v1.signer contract at nearblocks.io/address/v1.signer.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)

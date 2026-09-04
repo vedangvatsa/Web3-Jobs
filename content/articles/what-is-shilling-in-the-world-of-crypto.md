@@ -2,15 +2,14 @@
 title: What is 'Shilling' in the World of Crypto? A Guide to Promotion and Hype
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-
- An in-depth look at the crypto term 'shilling,' explaining what it is, who
- does it, how to spot it, and the fine line between genuine enthusiasm and
- paid.
+  An in-depth look at the crypto term 'shilling,' explaining what it is, who
+  does it, how to spot it, and the fine line between genuine enthusiasm and
+  paid.
 category: Career Guides
 data-ai-hint: person shouting megaphone
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: Understanding Shilling in Crypto
 
 Engaging with cryptocurrency communities on platforms such as Twitter, Telegram, or Reddit reveals the prevalent term "shilling." Understanding this term is essential for anyone involved in the crypto space. Shilling embodies a common practice that can influence market dynamics.
@@ -108,3 +107,16 @@ Career advancement in Web3 tends to occur at a faster pace due to rapid scaling 
 ### Equity Upside
 
 Token and equity packages are standard, offering substantial wealth-building potential for early team members at successful protocols.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

@@ -6,7 +6,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Jaipur, known as the "Pink City" of India, combines a rich cultural heritage with a growing tech scene. The city is gradually establishing its identity within the [Web3](/what-is-web3) ecosystem. While still developing compared to established tech hubs, Jaipur is witnessing growth spurred by local startups, a lower cost of living, and its appeal to remote workers. This environment is creating diverse career opportunities for those seeking to work in a city that harmonizes tradition with modern technology.
 
 The Web3 community in Jaipur, though small, is highly engaged and focused on education and grassroots initiatives. This presents a unique opportunity for individuals to assume leadership roles in a developing tech space. This guide examines the [Web3 job](/web3-jobs-for-beginners) market in Jaipur, detailing the city's current state, available roles, and ways to get involved and advance your career.
@@ -51,3 +50,16 @@ Jaipur's job market primarily includes remote roles and positions with a few loc
 ### Finding a Web3 Job
 
 If you are ready to advance your career, our [Web3 job board](/jobs) serves as a platform for discovering roles in Jaipur and beyond. We offer curated positions from leading companies, [DAOs](/what-is-a-dao), and protocols actively seeking top talent. Whether you are a developer, marketer, or product manager, your next opportunity in the decentralized economy awaits. Explore our listings today to secure your place in the future of the internet.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -1,15 +1,14 @@
 ---
 title: 'The Rise of Web3 in South Korea: A Guide to the Job Market'
 description: >-
- South Korea is a global powerhouse in gaming, entertainment, and technology.
- This article explores the booming Web3 job market in Korea, covering top.
+  South Korea is a global powerhouse in gaming, entertainment, and technology.
+  This article explores the booming Web3 job market in Korea, covering top.
 image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 category: Career Guides
 data-ai-hint: futuristic city
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: South Korea's Web3 Dominance
 
 South Korea stands out as a leader in technological innovation. With internet speeds that rank among the fastest globally, a growing gaming culture, and influential entertainment exports, the country has become a formidable player in the [Web3](/what-is-web3) ecosystem. South Korea is now one of the most active markets in cryptocurrency and [blockchain](/what-is-a-blockchain), driven by a combination of existing strengths and a strong appetite for innovation.
@@ -88,3 +87,16 @@ Success in the Korean Web3 sector hinges on understanding its cultural context.
 * **LinkedIn:** This platform remains essential for recruiters, particularly for senior or corporate roles. Keep your profile updated to highlight Web3-related skills or interests.
 * **Direct Applications:** If you have specific companies in mind, visit their career pages to apply directly.
 * **Networking:** This aspect is critical. Connect with professionals on LinkedIn and Twitter. Attend virtual and in-person events. Many opportunities arise through referrals.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

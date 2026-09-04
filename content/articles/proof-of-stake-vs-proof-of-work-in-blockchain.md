@@ -10,7 +10,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A consensus mechanism is the set of rules that lets a distributed network of computers agree on a single version of transactions without a central authority. The two most used mechanisms are Proof-of-Work (PoW) and Proof-of-Stake (PoS). They solve the same problem, but they use different resources to decide who gets to add the next block and how attacks are prevented.
 
 This guide explains how each one works in practice, what trade-offs you actually face, and which one is relevant to you if you are building, investing, or looking for work in Web3.
@@ -149,3 +148,16 @@ If you want to operate infrastructure, learn client operations, monitoring, and 
 ### Bottom line
 
 PoW proves work with energy. PoS proves commitment with capital that can be destroyed. PoW's strength is simplicity and a long track record, Bitcoin being the clearest example. PoS's strength is low energy, explicit finality, and penalties that make attacks self-destructive. Ethereum's transition shows the trade is real: energy down about 99.95 percent, security maintained through slashing and two-thirds finality, and complexity higher. Knowing both lets you read any chain's design choices honestly, rather than assuming one is always better.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [Solana Core Architecture Documentation](https://docs.solana.com/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

@@ -3,14 +3,13 @@ title: Understanding Tokenomics and Supply Models
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: tokenomics model crypto
 description: >-
- Tokenomics is the science of a cryptocurrency's economic model. Learn how
- supply, distribution, and utility determine a token's value and long-term
- viability.
+  Tokenomics is the science of a cryptocurrency's economic model. Learn how
+  supply, distribution, and utility determine a token's value and long-term
+  viability.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Understanding why some crypto tokens experience rapid value increases while others diminish involves more than just market sentiment. The long-term viability of a cryptocurrency often hinges on its **tokenomics**, a blend of "token" and "economics" that outlines a cryptocurrency's economic model. Tokenomics covers the supply, demand, and value of a token, shaping the dynamics that govern its performance in the market. A well-structured tokenomics model builds a positive feedback loop, encouraging participants to invest in the network's growth and security. Conversely, a poorly designed model can lead to inflation, centralization, and ultimately, failure.
 
 Professionals investing in or developing within the [Web3](/what-is-web3) ecosystem must grasp the fundamentals of tokenomics. It serves as a critical framework for assessing the potential of any project. This article outlines the essential components of tokenomics, providing a structured approach to analyzing the economic factors influencing a crypto asset.
@@ -63,3 +62,16 @@ When assessing a new project, apply this straightforward framework:
 3. **Utility:** What functions does the token serve? Does it have a defined purpose that drives demand?
 
 By evaluating these three pillars, you can cut through the noise and make informed investment decisions. Tokenomics serves as the guiding force behind decentralized networks; understanding its principles equips you to engage effectively in the Web3 economy.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

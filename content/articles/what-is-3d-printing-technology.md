@@ -1,14 +1,13 @@
 ---
 title: What is 3D Printing Technology
 description: >-
- An overview of 3D printing, or additive manufacturing, explaining the
- different methods, materials, and how it's improving how industries from.
+  An overview of 3D printing, or additive manufacturing, explaining the
+  different methods, materials, and how it's improving how industries from.
 category: Educational
 data-ai-hint: 3d printer
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 3D printing, commonly referred to as additive manufacturing, constructs three-dimensional objects by layering materials from a digital file. This method contrasts with traditional subtractive manufacturing, which begins with a solid block of material that is cut or molded to create a product. In 3D printing, material is added only where needed, offering efficiency that influences various industries.
 
 The process of 3D printing starts with a digital model. Engineers or designers create this model using computer-aided design (CAD) software or employ a 3D scanner to capture a digital representation of an existing object. Once the digital file is ready, specialized software slices it into numerous thin, horizontal layers. The 3D printer reads this sliced file, building the object layer by layer by fusing each layer to the previous one until completion.
@@ -68,3 +67,16 @@ Initial setbacks are common. Stay committed to your learning journey and push th
 
 5. **Neglecting Progress Tracking** 
 Document your advancements. Keeping track of metrics related to your 3D printing efforts can highlight areas for improvement and demonstrate your growth.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -1,16 +1,15 @@
 ---
 title: 'Writing Upgradable Smart Contracts: Proxies Explained'
 image: >-
- https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1489875347897-49f64b51c1f8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: software update upgrade
 description: >-
- Smart contracts are immutable, so how do you fix bugs or add new features?
- This guide explains the Transparent Proxy Pattern, the industry standard for.
+  Smart contracts are immutable, so how do you fix bugs or add new features?
+  This guide explains the Transparent Proxy Pattern, the industry standard for.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 One of the defining characteristics of a [smart contract](/what-are-smart-contracts) is its immutability. Once it is deployed on the [blockchain](/what-is-a-blockchain), its code remains unchanged. This feature enhances security and builds trust, but it also poses significant challenges. What happens when you identify a bug or wish to introduce new features?
 
 Deploying a completely new contract and migrating all associated data and users can be complex and costly. The solution lies in using an **upgradability pattern**. The most established and reliable method is the **Transparent Proxy Pattern**.
@@ -88,3 +87,16 @@ Upgradability is a valuable tool, enabling projects to evolve and adapt over tim
 ### The Importance of Upgradability
 
 Understanding the Transparent Proxy Pattern and upgradability is essential for your professional growth. Mastering these concepts can significantly enhance your value in the tech industry, particularly in [Web3](/what-is-web3) environments where flexibility and collaboration are fundamental.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

@@ -2,14 +2,13 @@
 title: 'A Deep Dive into Rollups: Ethereum''s Scaling Solution'
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 description: >-
- A full explanation of Layer 2 rollups, including the difference between
- Optimistic and ZK-Rollups, and their important role in the future of.
+  A full explanation of Layer 2 rollups, including the difference between
+  Optimistic and ZK-Rollups, and their important role in the future of.
 category: Technology Deep Dives
 data-ai-hint: abstract shapes background
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Blockchain Scalability Challenge
 
 Ethereum, the leading smart contract platform, faces significant scalability issues. Currently, the Ethereum mainnet can process a limited number of transactions per second (TPS). This limited throughput results in high gas fees during network congestion, making many applications economically unfeasible. To serve as a global settlement layer for the decentralized internet, Ethereum must scale to handle a much larger volume of transactions.
@@ -85,3 +84,16 @@ As rollup technology progresses and the costs associated with using Layer 2 solu
 | **Complexity** | Less complex, EVM-compatible | Highly complex, advanced cryptography |
 | **Cost Efficiency** | Significantly cheaper than Layer 1 | Comparable, depends on proof generation |
 | **Use Cases** | General dApps, DeFi | High-speed applications, gaming |
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+7. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+8. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [Starknet Cairo Language & Protocol Documentation](https://docs.starknet.io/)

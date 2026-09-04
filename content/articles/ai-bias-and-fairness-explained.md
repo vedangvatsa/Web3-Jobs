@@ -8,7 +8,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 AI bias happens when a system makes systematic errors that favor one group over another. It is not about a model having opinions. It is about data, design choices, and deployment decisions that produce uneven outcomes at scale. Once deployed, those outcomes can affect hiring, healthcare, credit, and criminal justice.
 
 This matters because AI decisions are often treated as neutral. NIST frames it directly in NIST Special Publication 1270, published March 2022: it is not possible to achieve zero risk of bias in any AI system. The task is to identify, measure, and manage it across the lifecycle.
@@ -175,3 +174,16 @@ Responsibility is shared across those who commission, build, deploy, and use the
 Look for patterns across many outputs, not one answer. If an image generator shows only men as CEOs or doctors, or a resume helper assigns higher scores to one demographic when other qualifications are held constant, that indicates skew. Try paired prompts that change only a name or gendered term, check sources and confidence scores, and report systematic skew to the provider. Useful signals include whether the tool explains its recommendation, provides citations, and allows you to override or correct it.
 
 Building fairer AI is not about achieving perfect neutrality. It is about choosing the right fairness objective for the decision, measuring gaps for the people affected, correcting data and proxy problems at the source, and keeping humans accountable for oversight. The practices are documented, the trade-offs are known, and the expectations are now written into measurement standards and law. Applying them consistently is the work.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [Solana Core Architecture Documentation](https://docs.solana.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

@@ -3,7 +3,9 @@ title: >-
   10 Essential Web3 Skills for Blockchain Careers: Developer, PM, Marketing &
   More
 description: >-
-  A hiring manager breaks down the 10 skills Web3 teams actually test for, from Solidity and viem to tokenomics, DAOs, and on-chain SQL, with tools, interview signals, and trade-offs for each role.
+  A hiring manager breaks down the 10 skills Web3 teams actually test for, from
+  Solidity and viem to tokenomics, DAOs, and on-chain SQL, with tools, interview
+  signals, and trade-offs for each role.
 image: >-
   https://images.unsplash.com/photo-1629721671030-a83edbb11211?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxza2lsbHxlbnwwfHx8fDE3NjE4ODg3ODB8MA&ixlib=rb-4.1.0&q=80&w=1080
 category: Career Guides
@@ -11,7 +13,6 @@ data-ai-hint: blockchain developer
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 teams hire for proof you can work with on-chain systems. General crypto interest does not pass an interview. What counts is specific skill matched to a role, and evidence you have used it.
 
 This guide covers ten skills that hiring managers screen for most often. For each skill you get what it is, who needs it, how it works in practice, a concrete example you can replicate, and the limitation to watch for.
@@ -62,7 +63,7 @@ Line order matters. The share is cached, set to zero, then the external call hap
 
 **Who it is for:** Frontend engineer, full-stack dApp engineer, and anyone building a user-facing interface for contracts.
 
-**How it works:** Ethers.js is the older, comprehensive library from 2016. It exposes Provider and Signer abstractions that hide RPC details. Viem is a newer TypeScript Interface for Ethereum built by the wagmi team. Viem docs describe it as modular, composable, and tree-shakable, with strong type inference from ABIs. You import only what you use.
+**How it works:** Ethers.js is the older, complete library from 2016. It exposes Provider and Signer abstractions that hide RPC details. Viem is a newer TypeScript Interface for Ethereum built by the wagmi team. Viem docs describe it as modular, composable, and tree-shakable, with strong type inference from ABIs. You import only what you use.
 
 Both libraries support the same core flow: create a client or provider, read with a public client, write with a wallet client after user approval. Wallet connection itself is usually handled by RainbowKit or Web3Modal, which wrap the underlying library.
 
@@ -137,7 +138,7 @@ The trilemma is a useful frame: public chains try to balance decentralization, s
 
 Good design aligns individual actions with network health. This is game theory in practice. If rewards encourage short-term extraction, holders leave.
 
-**Example:** Evaluate an unlock. List who gets tokens, when, and how much. Compare the unlock size to daily trading volume. A large cliff with low liquidity signals sell pressure risk, even if the product is unused.
+**Example:** Evaluate an open. List who gets tokens, when, and how much. Compare the open size to daily trading volume. A large cliff with low liquidity signals sell pressure risk, even if the product is unused.
 
 **Trade-off and limitation:** Token incentives can bootstrap growth but cannot fix weak retention. Inflation can dilute holders if demand does not keep pace. Burns can signal scarcity but do not create utility by themselves. Governance changes to tokenomics after launch require consensus and can hurt trust if seen as self-serving.
 
@@ -259,3 +260,15 @@ Product teams practice this by running narrow trials. For example, test a librar
 
 **Trade-off and limitation:** Chasing every new tool burns time and fragments focus. Not all new standards survive. The balance is to track broadly and adopt narrowly, based on evidence from your own tests. Document both the successes and the dead ends so the team does not repeat them.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+8. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+9. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+10. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)

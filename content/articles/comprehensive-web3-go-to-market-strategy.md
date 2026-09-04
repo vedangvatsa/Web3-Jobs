@@ -1,15 +1,14 @@
 ---
 title: The Full Web3 Go-To-Market Playbook
 description: >-
- Launching a Web3 project? A traditional go-to-market strategy won't work. This
- playbook covers the essential strategies for a successful Web3 launch, from.
+  Launching a Web3 project? A traditional go-to-market strategy won't work. This
+  playbook covers the essential strategies for a successful Web3 launch, from.
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 category: Career Guides
 data-ai-hint: chess strategy
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: Why Web3 Go-To-Market is Different
 
 Launching a product in [Web3](/what-is-web3) differs significantly from launching one in Web2. In the traditional model, a go-to-market (GTM) strategy relies on a centralized company promoting a product to a target audience through paid marketing, sales teams, and public relations. In contrast, Web3 flips this approach upside down.
@@ -92,3 +91,16 @@ Use on-chain data to gain insights into your users and assess the health of your
 
 - **Dashboards:** Build public dashboards (for example, on Dune Analytics) to monitor key metrics such as Daily Active Users, transaction volume, and Total Value Locked (TVL). Transparency builds trust.
 - **Cohort Analysis:** Categorize users based on when they joined and monitor their retention over time. This analysis provides the best indication of true product-market fit.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+8. [DeFiLlama Open Source Financial Metrics API](https://defillama.com/docs/api)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

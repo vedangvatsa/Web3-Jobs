@@ -1,14 +1,13 @@
 ---
 title: What is a 51 Percent Attack in Blockchain?
 description: >-
- A detailed explanation of the 51% attack, one of the most discussed security
- threats to Proof-of-Work blockchains like Bitcoin, and how it can enable.
+  A detailed explanation of the 51% attack, one of the most discussed security
+  threats to Proof-of-Work blockchains like Bitcoin, and how it can enable.
 category: Educational
 data-ai-hint: 51 percent attack
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is a 51% Attack in Blockchain?
 
 A fundamental security principle of a Proof-of-Work (PoW) [blockchain](/what-is-a-blockchain) like [Bitcoin](/what-is-bitcoin) is that no single entity should control more than half of the network's mining power. A **51% attack**, also known as a majority attack, occurs when a single miner or a coordinated group of miners gains control of over 50% of the network's total hashing power.
@@ -86,3 +85,16 @@ No, the Bitcoin network has never been successfully attacked in this manner. The
 
 **What is the greatest risk associated with a 51% attack?** 
 While double-spending is frequently mentioned, the most significant danger is the loss of trust. A successful 51% attack on a major blockchain would severely undermine its perceived immutability and security, leading to a substantial drop in its value and utility.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

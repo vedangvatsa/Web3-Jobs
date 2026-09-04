@@ -3,12 +3,13 @@ title: Sui Blockchain Technology and Developer Ecosystem
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: sui blockchain
 description: >-
-  What Sui is, how its object-centric model and Sui Move enable parallel execution, how Mysticeti consensus works, trade-offs versus EVM chains, and how developers build and find work in the ecosystem.
+  What Sui is, how its object-centric model and Sui Move enable parallel
+  execution, how Mysticeti consensus works, trade-offs versus EVM chains, and
+  how developers build and find work in the ecosystem.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Sui is a Layer 1 blockchain built for high throughput, low latency, and direct ownership of on-chain assets. It was developed by Mysten Labs, a team of former Meta engineers from the Novi and Diem projects, and launched on mainnet on May 3, 2023. Sui replaces the account-based state model used by Ethereum with an object-centric model, runs smart contracts in Sui Move, and processes many transactions in parallel instead of one after another.
 
 ## What is Sui
@@ -286,3 +287,16 @@ Fees are paid in SUI. You pay computation plus storage for new objects, and you 
 Start with objects and ownership plus one PTB. Recreate a simple ERC-20 you understand as a Sui coin with `store` but not `copy` or `drop`, with a `TreasuryCap` singleton created in `init` that gates `mint`. Then build a PTB that mints, transfers, and lists the coin in a Kiosk. That path makes resources replace mappings in your mental model.
 
 Sui is not a drop-in for an EVM chain. Treat it as a language for scarcity and access control with an object store and a DAG consensus that checks your work twice: the compiler checks abilities, and the network schedules your object inputs in parallel.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

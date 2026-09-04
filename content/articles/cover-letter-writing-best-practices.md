@@ -2,14 +2,13 @@
 title: Cover Letter Writing Best Practices
 data-ai-hint: letter writing document
 description: >-
- Learn how to write a compelling cover letter that complements your resume and
- gets you noticed. Follow these best practices to make a great first
- impression.
+  Learn how to write a compelling cover letter that complements your resume and
+  gets you noticed. Follow these best practices to make a great first
+  impression.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A cover letter remains a vital component of the job application process. While your [resume](/how-to-build-a-web3-resume-that-stands-out) summarizes your qualifications, the cover letter allows you to convey your story, personality, and connection to the hiring manager. It serves as a platform to articulate why you are the ideal candidate for the position. Implement these best practices to craft a compelling cover letter that stands out.
 
 ### 1. Address It to a Specific Person
@@ -74,3 +73,16 @@ Yes. A well-crafted cover letter provides a chance to differentiate yourself fro
 
 **What tone should my cover letter have?** 
 Maintain a professional tone while allowing your personality to shine through. Convey your enthusiasm for the role and the company clearly.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

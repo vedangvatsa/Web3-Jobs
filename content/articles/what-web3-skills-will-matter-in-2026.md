@@ -3,13 +3,12 @@ title: What Web3 Skills Will Matter in 2026
 image: /images/alex-kotliarskyi-QBpZGqEMsKg-unsplash.jpg
 data-ai-hint: future skills technology
 description: >-
- A 2026 skills map for emerging Web3 roles covering formal verification, ZK
- systems, AI-assisted DAO work, product UX, and verifiable credentials.
+  A 2026 skills map for emerging Web3 roles covering formal verification, ZK
+  systems, AI-assisted DAO work, product UX, and verifiable credentials.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Web3](/what-is-web3) job market stands out as one of the most dynamic sectors in technology, characterized by rapid growth and innovation. As blockchain, decentralization, and artificial intelligence (AI) technologies advance, the career opportunities within this space will transform significantly. Current roles will evolve, and new job categories will emerge as these technologies converge.
 
 Forecasting the future demands careful analysis of existing trends and the core challenges that Web3 aims to address. By understanding these factors, we can identify the skills and roles likely to dominate the industry in the coming years. This analysis highlights the jobs that will be essential as the decentralized internet becomes a fundamental aspect of digital life.
@@ -60,3 +59,16 @@ In a future where your [wallet](/how-to-choose-a-crypto-wallet) serves as your i
 
 - **Future Focus:** This role will involve assisting projects and individuals in building and maintaining positive on-chain reputations.
 - **Skills Needed:** A combination of public relations, data analysis, and knowledge of [decentralized identity standards like Verifiable Credentials](/a-guide-to-verifiable-credentials-in-decentralized-identity) is important.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

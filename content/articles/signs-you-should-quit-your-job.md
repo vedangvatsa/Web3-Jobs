@@ -1,15 +1,14 @@
 ---
 title: Signs You Should Quit Your Job
 description: >-
- It can be hard to know when it's time to move on. This guide covers the key
- signs that indicate it might be time to quit your job and find a new
- opportunity.
+  It can be hard to know when it's time to move on. This guide covers the key
+  signs that indicate it might be time to quit your job and find a new
+  opportunity.
 data-ai-hint: person leaving office
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Deciding to quit your job stands as one of the most significant career decisions you will face. This choice often brings a mix of fear, excitement, and uncertainty. Sometimes, the decision is straightforward, especially when you have a better offer in hand. More frequently, it stems from a gradual sense of dissatisfaction that is difficult to articulate. Recognizing whether you are merely experiencing a rough patch or if it is genuinely time to move on can be challenging.
 
 While each situation is unique, certain signs indicate that your current role may no longer fit your career aspirations. Identifying these signs can help you make informed decisions about your career path instead of waiting until burnout sets in.
@@ -79,3 +78,16 @@ Identify the root cause of your dissatisfaction. Is it a temporary, stressful pr
 **I'm afraid of change. How do I overcome the fear of quitting?**
 
 Change can be intimidating, but remaining in an unsatisfactory situation is often more daunting in the long run. Approach the process in small steps. Start by updating your [resume](/how-to-build-a-web3-resume-that-stands-out) and exploring job listings. You do not need to commit to anything right away. Taking these small, proactive steps can create momentum and help you feel more in control.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

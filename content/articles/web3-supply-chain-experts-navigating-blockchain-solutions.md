@@ -3,12 +3,13 @@ title: 'Web3 Supply Chain Experts: Working through Blockchain Solutions'
 image: /images/thisisengineering-zBLtU0zbJcU-unsplash.jpg
 data-ai-hint: supply chain logistics
 description: >-
-  A career guide for supply chain and logistics professionals moving into Web3. How shared ledgers, GS1 EPCIS events, smart contracts, and oracle-fed IoT are used in real pilots, what the tradeoffs are, and which roles to target.
+  A career guide for supply chain and logistics professionals moving into Web3.
+  How shared ledgers, GS1 EPCIS events, smart contracts, and oracle-fed IoT are
+  used in real pilots, what the tradeoffs are, and which roles to target.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A Web3 supply chain expert combines logistics knowledge with blockchain and data standards to track goods from source to store on a shared ledger. The work is not about replacing trucks or scanners. It is about giving farmers, carriers, warehouses, and retailers one place to agree on what happened, when, and where.
 
 This guide explains what the ledger does, who hires for it, how the pieces fit together, where pilots have succeeded or failed, and how to get started in the field.
@@ -192,3 +193,15 @@ Pick one SKU that is costly to recall, write its GTIN, SSCC, and three planned E
 
 For source reading, use Hyperledger Fabric docs, GS1 EPCIS 2.0 and the GS1 US blockchain guidance, the Walmart September 24, 2018 mandate and IBM Food Trust October 8, 2018 release, the Walmart China June 25, 2019 VeChain release and VeChain January 2024 update, De Beers Tracr pages at debeersgroup.com, the FDA hosted MediLedger DSCSA pilot report, Maersk's November 29, 2022 TradeLens discontinuation notice, OriginTrail docs and 2.0 white paper, the Chainlink oracle problem explainer, and OECD Mapping Global Trade in Fakes 2025.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [Solana Core Architecture Documentation](https://docs.solana.com/)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

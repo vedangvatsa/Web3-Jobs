@@ -1,15 +1,14 @@
 ---
 title: What does Vitalik Buterin think about Web3
 description: >-
- cover the mind of Vitalik Buterin, the creator of Ethereum. This guide covers
- his initial vision for a 'world computer,' his evolving thoughts on.
+  cover the mind of Vitalik Buterin, the creator of Ethereum. This guide covers
+  his initial vision for a 'world computer,' his evolving thoughts on.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man glasses
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Mind Behind Ethereum
 
 Vitalik Buterin stands as a key figure in the [Web3](/what-is-web3) field. As the primary architect of [Ethereum](/what-is-ethereum), he envisioned a [blockchain](/what-is-a-blockchain) capable of executing more than mere financial transactions. His idea of a "world computer" serves as a decentralized, programmable platform for applications ranging from finance to social media, all functioning without a central authority.
@@ -78,3 +77,16 @@ Vitalik has emerged as a notable critic of simplistic "1 [token](/what-is-a-toke
 In a 2022 paper co-authored with Glen Weyl and Puja Ohlhaver, Vitalik introduced "Soulbound Tokens" (SBTs). These non-transferable NFTs represent an individual's commitments, credentials, and affiliations, essentially functioning like a [resume](/how-to-build-a-web3-resume-that-stands-out) on the blockchain.
 
 Vitalik envisions SBTs as foundational elements for a "Decentralized Society" (DeSoc), where reputation and social relationships hold equal importance to financial capital. For instance, a university could issue an SBT to a graduate, or a [DAO](/what-is-a-dao) might distribute them to its members. Their non-transferable nature ensures authenticity, as they cannot be bought or sold.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

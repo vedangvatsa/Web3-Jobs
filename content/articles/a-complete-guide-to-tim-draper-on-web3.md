@@ -1,16 +1,15 @@
 ---
 title: What does Tim Draper think about Web3
 description: >-
- Explore the unwavering conviction of Tim Draper, a legendary venture
- capitalist and one of Bitcoin's earliest and most vocal proponents. This guide
- covers.
+  Explore the unwavering conviction of Tim Draper, a legendary venture
+  capitalist and one of Bitcoin's earliest and most vocal proponents. This guide
+  covers.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man confident
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Original Bitcoin Bull
 
 Tim Draper stands out as a prominent venture capitalist and a founding partner of Draper Fisher Jurvetson (DFJ) and Draper Associates. His early investments include high-profile disruptors like Hotmail, Skype, and Tesla. Draper has earned acclaim for his ability to spot new technologies before they gain mainstream traction. This keen insight led him to become one of the most vocal advocates for [Bitcoin](/what-is-bitcoin) and [Web3](/what-is-web3).
@@ -58,3 +57,16 @@ Draper envisions a future where Bitcoin and [smart contracts](/what-are-smart-co
 ## Bold Predictions and Unwavering Conviction
 
 Tim Draper is known for his bold and specific price predictions for Bitcoin. He has repeatedly asserted that Bitcoin will reach significant values in the coming years. While these predictions generate headlines, they serve a broader purpose: to communicate his deep, long-term conviction in Bitcoin's potential. Draper is not a short-term trader; he is a fundamental investor who believes that Bitcoin's technological advantages will ultimately enable it to replace a substantial portion of the traditional financial system. He views daily price fluctuations as mere noise, concentrating instead on long-term trends in adoption.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

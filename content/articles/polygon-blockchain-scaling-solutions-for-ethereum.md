@@ -3,12 +3,13 @@ title: Polygon Blockchain Scaling Solutions for Ethereum
 image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: polygon blockchain network
 description: >-
-  A guide to Polygon, the EVM-compatible network anchored to Ethereum. Learn how Polygon Chain works, what changed with the POL token, and how AggLayer and CDK fit in.
+  A guide to Polygon, the EVM-compatible network anchored to Ethereum. Learn how
+  Polygon Chain works, what changed with the POL token, and how AggLayer and CDK
+  fit in.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What Polygon is
 
 Polygon is an EVM-compatible blockchain anchored to Ethereum that executes transactions off Ethereum mainnet and periodically posts state to Ethereum for security. It started as Matic Network in 2017 and rebranded to Polygon in 2021. Today Polygon Chain (often still called Polygon PoS) is the live production network, while Polygon Labs builds related infrastructure around it.
@@ -133,3 +134,16 @@ Yes for gas and for staking. If you are bridging from Ethereum, you will need PO
 
 ---
 *Sources: polygon.technology and about page (stats, timeline, product scope, and zkEVM sunset notice), docs.polygon.technology POS overview, architecture overview, Bor, Heimdall v2, POL token and MATIC to POL migration pages, CDK overview, Agglayer overview, PIP-17 to PIP-26 and PIP-43 to PIP-62, Polygon Portal migration interface, forum announcement on sunsetting zkEVM Mainnet Beta (June 11 2025), and PolygonScan charts. Stats quoted as reported on those pages as of August 2026.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+2. [Ethereum EIP-7702 Set EOA Account Code Specification](https://eips.ethereum.org/EIPS/eip-7702)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)

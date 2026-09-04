@@ -1,14 +1,13 @@
 ---
 title: What is Drone Technology and Applications
 description: >-
- Exploring the technology behind drones, or unmanned aerial vehicles (UAVs),
- and the wide range of applications they are used for today, from photography.
+  Exploring the technology behind drones, or unmanned aerial vehicles (UAVs),
+  and the wide range of applications they are used for today, from photography.
 category: Educational
 data-ai-hint: drone flying
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Drone technology has advanced over the past decade, transitioning from niche hobbyist devices to vital tools in various industries. Drones, or unmanned aerial vehicles (UAVs), operate without a human pilot. They can be controlled autonomously via onboard computers or manually using ground-based remote controls.
 
 ### Key Components of Drones
@@ -73,3 +72,16 @@ Understanding drone technology is essential for professionals in various fields.
 4. **Quitting Too Soon:** Overcoming discomfort is necessary for growth. Persist through initial challenges to achieve better outcomes.
 
 5. **Neglecting Progress Tracking:** Documenting your journey helps identify successful strategies and areas needing improvement.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

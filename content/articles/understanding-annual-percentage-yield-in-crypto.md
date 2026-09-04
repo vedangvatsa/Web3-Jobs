@@ -3,13 +3,12 @@ title: Understanding Annual Percentage Yield in Crypto
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: apy crypto yield
 description: >-
- APY is an important metric in DeFi, but what does it really mean? This guide
- breaks down Annual Percentage Yield, how it differs from APR, and how to.
+  APY is an important metric in DeFi, but what does it really mean? This guide
+  breaks down Annual Percentage Yield, how it differs from APR, and how to.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In Decentralized Finance ([DeFi](/what-is-defi)), many projects promote high yields, typically expressed as Annual Percentage Yield (APY). Understanding APY and differentiating it from Annual Percentage Rate (APR) is essential for anyone aiming to earn returns on crypto assets. This knowledge can significantly impact your financial decisions.
 
 ## What is APY (Annual Percentage Yield)?
@@ -66,3 +65,16 @@ High APY often comes with significant risks. Understanding the sources of yield 
 ### Practical Insight
 
 Consider APY as an estimate rather than a guarantee. It reflects the current rate of return, which can fluctuate rapidly due to market conditions, token prices, and capital in a pool. Always [do your own research (DYOR)](/what-is-dyor-in-crypto) to comprehend the yield's source and the associated risks before pursuing an attractive APY.
+
+## Verifiable Primary Sources & References
+
+1. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+2. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+3. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

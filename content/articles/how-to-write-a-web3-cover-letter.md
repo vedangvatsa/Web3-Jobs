@@ -3,12 +3,13 @@ title: How to Write a Web3 Cover Letter That Gets You Hired
 image: /images/thisisengineering-83udtzyaTS4-unsplash.jpg
 data-ai-hint: writing cover letter
 description: >-
-  A practical guide to writing a Web3 cover letter that hiring managers read. Includes structure, Web3-specific examples, proof-of-work tips, and common mistakes to avoid.
+  A practical guide to writing a Web3 cover letter that hiring managers read.
+  Includes structure, Web3-specific examples, proof-of-work tips, and common
+  mistakes to avoid.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Your resume gets you past a filter. Your cover letter tells a hiring manager why you care about their project and what you can do for them in the first three months. In Web3, that means showing you are already a user, a builder, or a community member, not just an applicant who swapped in a company name.
 
 This guide explains what a Web3 cover letter is, who needs one, how managers actually read it, and how to write one that is short, specific, and backed by proof.
@@ -191,3 +192,16 @@ Yes. List your ENS, portfolio site, and key addresses with brief context, for ex
 - Would a stranger understand what you can deliver in the first 90 days?
 
 If you can answer yes, send it and keep contributing in public while you wait. In a market that rewards visible work, the cover letter opens the door, but the proof you link to gets you the interview.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+2. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)

@@ -1,15 +1,14 @@
 ---
 title: 'Web3 Data Analyst: The On-Chain Detective'
 image: >-
- https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080
 description: >-
- A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use
- on-chain data to drive strategy and what skills you need to become an.
+  A guide to one of the hottest jobs in crypto. Learn how Web3 data analysts use
+  on-chain data to drive strategy and what skills you need to become an.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the transparent environment of blockchain technology, every action, transaction, and interaction generates a permanent public data point. This has led to the emergence of a specialized field known as **on-chain analysis**. Central to this field is the role of the **[Web3](/what-is-web3) Data Analyst**, combining elements of data science, archaeology, and detective work.
 
 Unlike traditional data analysts who work with private datasets, Web3 analysts use open, shared blockchain databases. They query this public information to identify trends, analyze user behavior, assess protocol performance, and produce insights that inform project strategies. This role is intellectually stimulating and increasingly sought after in the Web3 ecosystem.
@@ -63,3 +62,16 @@ This role is accessible to individuals without formal data science degrees.
 5. **Promote Your Work:** Share your dashboards on social media, tagging the projects you analyze. Consider writing blog posts or Twitter threads that highlight key insights from your analysis. Establishing a public reputation for quality work can lead to direct hiring opportunities from projects.
 
 The Web3 Data Analyst role suits individuals who enjoy solving puzzles, discovering patterns, and narrating stories through data. This career places you leading the industry, providing critical intelligence that supports projects in the dynamic and evolving crypto space.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

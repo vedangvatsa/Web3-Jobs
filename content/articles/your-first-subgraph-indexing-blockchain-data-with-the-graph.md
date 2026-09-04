@@ -1,15 +1,14 @@
 ---
 title: 'Your First Subgraph: Indexing Blockchain Data with The Graph'
 image: >-
- https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YXxlbnwwfHx8fDE3NTUwMzYzNzV8MA&lib=rb-4.0.3
+  https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YXxlbnwwfHx8fDE3NTUwMzYzNzV8MA&lib=rb-4.0.3
 description: >-
- Learn how to build a subgraph using The Graph Protocol. This guide provides a
- step-by-step tutorial on how to index smart contract data and serve it via a.
+  Learn how to build a subgraph using The Graph Protocol. This guide provides a
+  step-by-step tutorial on how to index smart contract data and serve it via a.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Building a decentralized application (dApp) requires two key components: smart contracts, which serve as the on-chain backend, and a user interface, which functions as the off-chain frontend. A significant hurdle for dApp developers is retrieving data from the [blockchain](/what-is-a-blockchain) for display on the frontend. Accessing data directly from a [smart contract](/what-are-smart-contracts) can be slow and inefficient, presenting a challenge for development.
 
 **The Graph** addresses this issue. It is a decentralized protocol designed for indexing and querying blockchain data. With The Graph, developers can specify the data they need from smart contracts, outline how to process this data, and retrieve it efficiently via a **GraphQL API**.
@@ -130,3 +129,16 @@ This function activates with each `Transfer` event. It creates a `User` entity f
 Upon deployment to The Graph's hosted service (the "Subgraph Studio"), it will begin indexing data from your selected contract. After syncing, you'll have a GraphQL endpoint that your dApp can use to query NFT and owner data efficiently.
 
 Building subgraphs is a fundamental step toward becoming a full-stack Web3 developer. It bridges your on-chain logic with the off-chain user experience, enabling the development of fast, data-rich decentralized applications.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

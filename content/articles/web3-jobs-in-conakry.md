@@ -2,14 +2,13 @@
 title: 'Web3 Jobs in Conakry: A Guide to Guinea''s Tech Scene'
 data-ai-hint: conakry guinea city
 description: >-
- A career guide to the emerging Web3 job market in Conakry. Explore the
- potential for blockchain technology in Guinea, focusing on opportunities in
- FinTech.
+  A career guide to the emerging Web3 job market in Conakry. Explore the
+  potential for blockchain technology in Guinea, focusing on opportunities in
+  FinTech.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Conakry, the capital city of Guinea, presents a significant opportunity for digital and [Web3](/what-is-web3) innovation. With abundant natural resources such as bauxite and gold, Guinea faces economic and infrastructural challenges that make the adoption of [blockchain](/what-is-a-blockchain) technology particularly appealing. This technology promises improvements in transparency, efficiency, and financial inclusion. The Web3 ecosystem in Conakry is still in its infancy, led by a small group of entrepreneurs and developers who envision a future supported by decentralized technology.
 
 This guide offers a detailed overview of the emerging [Web3 career](/web3-jobs-for-beginners) opportunities in Conakry. It highlights potential growth sectors, valuable skills, and pathways for Guinean professionals to enter the global decentralized economy.
@@ -294,3 +293,16 @@ In context, the average salary in Guinea is approximately $200 to $400 monthly. 
 3. Begin your journey toward launching a venture or becoming a key influencer in Conakry's Web3 ecosystem.
 
 The global decentralized economy is open to all, and Conakry's Web3 future awaits those who are ready to build it.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

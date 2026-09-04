@@ -3,13 +3,12 @@ title: What is a Bonding Curve in Token Economics
 image: /images/maximalfocus-naSAHDWRNbQ-unsplash.jpg
 data-ai-hint: bonding curve token
 description: >-
- A bonding curve is a mathematical curve that defines the relationship between
- a token's price and its supply, creating an automated and predictable market.
+  A bonding curve is a mathematical curve that defines the relationship between
+  a token's price and its supply, creating an automated and predictable market.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A bonding curve defines the relationship between a token's price and its supply through a mathematical model. This concept has gained traction In **[tokenomics](/understanding-tokenomics)**. A bonding curve functions as a smart contract that operates as an autonomous market maker. It automatically adjusts the price of a token based on its circulating supply. When individuals purchase tokens, the contract mints new ones; conversely, when they sell tokens, it burns them, all while adjusting the price according to a predetermined curve.
 
 This mechanism establishes a liquid and predictable market from the token's inception, eliminating reliance on traditional order book exchanges.
@@ -63,3 +62,16 @@ Bonding curves find numerous applications in various domains:
 - **Susceptibility to Speculation**: Bonding curves can experience speculative bubbles, where hype inflates prices rapidly, often resulting in sharp declines as early investors cash out.
 
 Bonding curves present a compelling toolkit in the [Web3](/what-is-web3) economic framework. They introduce new methods for price discovery and liquidity, establishing markets that operate transparently and autonomously through code.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

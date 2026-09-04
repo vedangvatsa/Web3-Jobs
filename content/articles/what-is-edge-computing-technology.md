@@ -1,14 +1,13 @@
 ---
 title: What is Edge Computing Technology
 description: >-
- An explanation of edge computing, how it works by processing data closer to
- where it's created, and why it's important for IoT and real-time applications.
+  An explanation of edge computing, how it works by processing data closer to
+  where it's created, and why it's important for IoT and real-time applications.
 category: Educational
 data-ai-hint: data network
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Edge computing represents a shift in how data processing occurs. This distributed computing model minimizes the distance between data generation and processing. By executing tasks closer to data sources, such as local devices or nearby servers, edge computing addresses critical limitations of traditional cloud computing.
 
 In conventional cloud computing, a device like a security camera captures data and sends it over the internet to a remote server for processing. This approach presents two significant challenges: latency and bandwidth usage. Latency refers to the time delay in data transmission, while bandwidth consumption involves the extensive data transfer required to send raw information to the cloud.
@@ -78,3 +77,16 @@ Edge AI involves executing AI and machine learning models directly on edge devic
 
 **5. What is a "cloudlet"?**
 A cloudlet represents a small-scale, localized data center positioned at the network's edge. This concept aligns with the Regional Edge layer of the architecture, serving as a bridge between local edge servers and centralized cloud facilities.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

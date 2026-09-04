@@ -3,14 +3,13 @@ title: Is Web3 Dead or Just Getting Started?
 image: /images/markus-spiske-iar-afB0QQw-unsplash.jpg
 data-ai-hint: web3 future tech
 description: >-
- A realistic look at the state of Web3. We analyze the challenges, the
- progress, and the long-term potential of the decentralized internet,
- separating the.
+  A realistic look at the state of Web3. We analyze the challenges, the
+  progress, and the long-term potential of the decentralized internet,
+  separating the.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Every crypto bear market prompts a familiar wave of headlines questioning the viability of Web3. Phrases like "Is [Web3](/what-is-web3) Dead?" and "The [Blockchain](/what-is-a-blockchain) Dream is Over" dominate discussions. Many view the high volatility of [token](/what-is-a-token) prices and the failure of some projects as signs of a dying industry. However, those actively building within this ecosystem recognize that these narratives overlook essential progress.
 
 Equating the price of cryptocurrencies with the future of Web3 is misguided. The early internet's potential was not determined by the stock price of Pets.com. Instead, it is critical to assess whether the technology is changing and whether builders remain committed to the vision of a decentralized internet.
@@ -58,3 +57,16 @@ Challenges in the centralized internet, such as data monopolies and censorship, 
 Web3 is not dead; it is currently undergoing rigorous testing. The speculative hype and quick-profit mentality that characterized the previous cycle are fading. In their place stands a core group of dedicated builders focused on addressing the substantial challenges of scalability, user experience, and security.
 
 Transitioning to a decentralized internet will take time. Currently, we are likely still in the early stages, akin to the "dial-up" era of the internet. The technology may be cumbersome, but the foundational infrastructure is being established. The core technological advancements are accelerating, and the vision of a user-owned internet remains compelling.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+5. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

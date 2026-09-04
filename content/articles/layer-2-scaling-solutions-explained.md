@@ -1,14 +1,14 @@
 ---
 title: A Guide to Ethereum Layer 2 Scaling Solutions
 description: >-
-  Ethereum Layer 2 rollups run transactions off chain and post data to Ethereum for security.
-  Learn how optimistic and ZK rollups work, what they cost, their trade-offs, and how to choose and use them.
+  Ethereum Layer 2 rollups run transactions off chain and post data to Ethereum
+  for security. Learn how optimistic and ZK rollups work, what they cost, their
+  trade-offs, and how to choose and use them.
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What Layer 2 scaling is
 
 Layer 2 (L2) is a separate chain that runs on top of Ethereum. It executes transactions off chain, then posts the data back to Ethereum. Ethereum checks the data and holds the final state, so the L2 inherits Ethereum security while offering higher throughput and lower fees.
@@ -192,3 +192,16 @@ Pick by your constraint. If you need the fewest code changes and broad tooling, 
 ---
 
 *Sources: ethereum.org - Scaling, Optimistic Rollups, Zero-Knowledge Rollups, Layer 2, Roadmap Scaling, Roadmap Danksharding, Layer 2 Networks (pages last updated June-August 2026). Specific figures for calldata costs, proof verification, blob lifetimes, Dencun date, and fee multiples are taken from those pages.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+9. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+10. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)

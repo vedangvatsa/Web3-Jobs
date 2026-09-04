@@ -3,13 +3,12 @@ title: How to Get Started as a Web3 Cryptocurrency Venture Capital Analyst
 image: /images/possessed-photography-jIBMSMs4_kA-unsplash.jpg
 data-ai-hint: venture capital crypto
 description: >-
- A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the
- skills needed to succeed, and how to break into a role at a crypto venture.
+  A guide for aspiring crypto investors. Learn what a Web3 VC analyst does, the
+  skills needed to succeed, and how to break into a role at a crypto venture.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund ranks among the most intellectually rewarding positions in the cryptocurrency sector. Analysts focus on identifying promising founders and protocols that will influence the future of the decentralized internet.
 
 In contrast to traditional finance, where analysis relies on private company data and financial statements, Web3 analysts operate in an environment defined by open-source code and transparent on-chain metrics. This guide outlines the responsibilities of a Web3 Investment Analyst and the essential skills needed to excel in this competitive space. For a broader overview of VC jobs, see our guide on [how to get a job in Web3 venture capital](/web3-vc-jobs).
@@ -50,3 +49,16 @@ Entering the crypto VC space often involves demonstrating passion and analytical
 4. **Network Strategically**: Cultivate relationships with analysts and associates at funds you admire. Instead of merely asking for a job, request feedback on your analyses.
 
 A career as a Web3 Investment Analyst is challenging but rewarding. It offers the opportunity to be leading innovation, supporting founders who are building the foundational infrastructure for the next web.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Token Terminal On-chain Financial Metrics Platform](https://tokenterminal.com/docs)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

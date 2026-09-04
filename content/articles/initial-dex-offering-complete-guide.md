@@ -3,14 +3,13 @@ title: Initial DEX Offering Complete Guide
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: rocket launch crypto
 description: >-
- An Initial DEX Offering (IDO) is a fundraising method where a new crypto
- project launches its token on a decentralized exchange. This guide explains
- how.
+  An Initial DEX Offering (IDO) is a fundraising method where a new crypto
+  project launches its token on a decentralized exchange. This guide explains
+  how.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 An **Initial DEX Offering (IDO)** serves as a fundraising method within the [Web3](/what-is-web3) ecosystem. This approach allows new projects to launch their native [token](/what-is-a-token) through an initial public sale conducted on a **[Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX)**. IDOs represent a crypto-centric evolution of traditional fundraising methods, such as Initial Public Offerings (IPOs) in the stock market and Initial Coin Offerings (ICOs) that gained popularity during the 2017 crypto boom.
 
 Increasingly, IDOs have established themselves as a primary method for launching new tokens. They provide a more transparent, inclusive, and liquid approach for projects to raise capital and enable investors to engage at an early stage.
@@ -44,3 +43,16 @@ While projects can conduct IDOs independently, many use a **[crypto launchpad](/
 - **Scams**: The permissionless nature of DEXs allows scammers to create fraudulent tokens and execute rug pulls. Investors must conduct thorough research.
 
 The IDO model has emerged as a leading method for token launches in Web3. It offers a transparent and accessible fundraising mechanism that resonates with the decentralized ethos of the sector. However, it carries substantial risks, necessitating a cautious approach and diligent research from investors.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

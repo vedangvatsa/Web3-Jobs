@@ -3,13 +3,12 @@ title: How to Get Started as a Web3 NFT Marketplace Developer
 image: /images/maximalfocus-0n4jhVGS4zs-unsplash.jpg
 data-ai-hint: nft marketplace developer
 description: >-
- A guide for developers on building a career in the NFT space. Learn the key
- skills needed to build NFT marketplaces, from smart contract standards to.
+  A guide for developers on building a career in the NFT space. Learn the key
+  skills needed to build NFT marketplaces, from smart contract standards to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The rise of [Non-Fungible Tokens (NFTs)](/what-are-nfts) has significantly increased the demand for developers capable of creating the platforms and marketplaces for these unique digital assets. A career as an **NFT Marketplace Developer** merges [smart contract](/what-are-smart-contracts) engineering, full-stack web development, and insights into the creator economy.
 
 This article outlines the [essential skills](/mastering-web3-essential-skills) and project roadmap for developers aiming to specialize in the [NFT](/what-are-nfts) sector.
@@ -44,3 +43,16 @@ To build an NFT marketplace, developers require a skill set that encompasses bot
  - Implement functionality for users to purchase NFTs, which includes user approval for the marketplace contract to spend their ERC-20 tokens before calling the `buy` function.
 
 A career as an NFT Marketplace Developer places you at the intersection of technology, art, and culture. Mastering key on-chain and off-chain technologies enables you to create platforms that will shape the future of the creator economy.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

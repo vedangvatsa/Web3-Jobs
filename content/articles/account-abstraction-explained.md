@@ -9,7 +9,6 @@ data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Account abstraction lets your Ethereum account be a smart contract instead of a single private key. ERC-4337 is the standard that makes it work today without changing Ethereum consensus.
 
 With it you can batch an approve and a swap into one click, pay gas with USDC instead of ETH, add guardians for recovery, and use passkeys instead of a seed phrase. This guide explains what it is, who should use it, how it works, where it helps and where it hurts, and how to try it.
@@ -279,3 +278,15 @@ No. Use the canonical addresses. For local development you deploy a copy, but fo
 
 Start with the spec at eips.ethereum.org/EIPS/eip-4337, the ethereum.org roadmap page on account abstraction, and the docs at docs.erc4337.io. For implementation look at eth-infinitism/account-abstraction on GitHub, the permissionless.js docs, Safe Core, and OpenZeppelin account-abstraction contracts. The awesome-account-abstraction list curates current bundlers and paymasters.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum EIP-7702 Set EOA Account Code Specification](https://eips.ethereum.org/EIPS/eip-7702)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

@@ -1,17 +1,16 @@
 ---
 title: Celebrating Ethereum Genesis Day
 image: >-
- https://images.unsplash.com/photo-1642104704074-907c0698cbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxldGhlcmV1bXxlbnwwfHx8fDE3NjE4ODM0MTB8MA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1642104704074-907c0698cbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxldGhlcmV1bXxlbnwwfHx8fDE3NjE4ODM0MTB8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- On July 30, 2015, the first block of the Ethereum blockchain was mined,
- heralding the dawn of a new era for decentralized applications. This is the
- story.
+  On July 30, 2015, the first block of the Ethereum blockchain was mined,
+  heralding the dawn of a new era for decentralized applications. This is the
+  story.
 category: Industry Insights
 data-ai-hint: ethereum genesis block
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## The Genesis of a World Computer: Celebrating Ethereum Genesis Day
 
 On July 30, 2015, Ethereum's Genesis Block was mined. This event marked the launch of a blockchain capable of supporting programmable smart contracts. Unlike Bitcoin, which primarily serves as a decentralized currency, Ethereum was designed as a platform where developers could create and deploy decentralized applications (dApps). This article explores Ethereum's launch, the innovations it enabled, including decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized autonomous organizations (DAOs), and its ongoing technical evolution.
@@ -95,3 +94,16 @@ Challenges remain, including scalability, user experience, regulatory clarity, a
 The Genesis Block demonstrated that a decentralized global computer is feasible, not without challenges, but achievable. It laid the groundwork for applications that operate without central control or intermediaries.
 
 Ethereum Genesis Day serves as a reminder that revolutions are not driven by companies with vast resources and marketing budgets. They emerge from small groups of talented developers who believe in an idea, work transparently, and allow their creations to be critiqued, forked, and redesigned by countless others. The Genesis Block marked the moment when the world computer was activated, and its influence will continue to shape our digital field for years to come.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+4. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

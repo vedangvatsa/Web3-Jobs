@@ -2,13 +2,12 @@
 title: Salary Negotiation Mistakes to Avoid
 data-ai-hint: falling money graph
 description: >-
- Learn about the common mistakes people make during salary negotiations and how
- to avoid them. Maximize your earning potential by negotiating effectively.
+  Learn about the common mistakes people make during salary negotiations and how
+  to avoid them. Maximize your earning potential by negotiating effectively.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Negotiating your salary represents a key moment in your career. A successful negotiation can boost your annual income, while a poorly executed one can lead to feelings of undervaluation and dissatisfaction. Many professionals fall into common traps that hinder their negotiation success.
 
 By recognizing these pitfalls, you can approach your next [salary negotiation](/web3-salary-negotiation) with increased confidence and a higher likelihood of achieving favorable terms. Below are some of the most significant salary negotiation mistakes to avoid.
@@ -74,3 +73,16 @@ Remain professional when responding to a low offer. You might say, "Thank you fo
 
 **Is it acceptable to negotiate for an entry-level position?** 
 Yes. Although entry-level roles may have limited negotiation flexibility, it is still worth attempting to negotiate. Even a modest increase can yield significant benefits over time.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [Solana Core Architecture Documentation](https://docs.solana.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

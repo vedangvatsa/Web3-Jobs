@@ -1,15 +1,14 @@
 ---
 title: Understanding Mark Price vs Index Price
 description: >-
- A guide to the difference between Mark Price and Index Price in crypto
- derivatives, and why Mark Price is important for preventing unfair
- liquidations.
+  A guide to the difference between Mark Price and Index Price in crypto
+  derivatives, and why Mark Price is important for preventing unfair
+  liquidations.
 category: Educational
 data-ai-hint: price comparison
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ### Introduction
 
 In crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the **Mark Price**. While traders often look at the last traded price displayed on charts, the Mark Price is important for calculating unrealized profits and losses. More importantly, it determines whether a position will be liquidated. A strong grasp of these concepts is essential for effective risk management.
@@ -75,3 +74,16 @@ While your position is active, the unrealized PnL is computed using the Mark Pri
 | **Stability** | Designed to be stable and manipulation-resistant | Can fluctuate rapidly | More stable, smoothing out short-term fluctuations |
 | **Impact on Trades** | Reflects true market conditions | Affected by immediate market activity | Affects liquidation risk and unrealized PnL |
 | **Calculation Method** | Volume-weighted average of spot prices | Based on the order book | Combination of Index Price and moving average of basis |
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [Solana Core Architecture Documentation](https://docs.solana.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

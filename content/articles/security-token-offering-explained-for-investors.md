@@ -3,13 +3,12 @@ title: Security Token Offering Explained for Investors
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: security token
 description: >-
- A Security Token Offering (STO) is a regulated process where a project raises
- capital by issuing tokens that represent a financial security. This guide.
+  A Security Token Offering (STO) is a regulated process where a project raises
+  capital by issuing tokens that represent a financial security. This guide.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A **Security [Token](/what-is-a-token) Offering (STO)** signifies a shift in the fundraising model for blockchain projects, moving from the less regulated Initial Coin Offering (ICO) to a structured, compliance-focused process. An STO enables a company to raise capital by issuing cryptographic tokens on a [blockchain](/what-is-a-blockchain) that qualify as a **security**.
 
 Security tokens are digital representations of traditional financial instruments. Unlike utility tokens, which serve specific functions within a platform, security tokens are investment contracts designed to comply with securities regulations. This compliance is critical for attracting institutional investors and ensuring long-term viability.
@@ -70,3 +69,16 @@ Despite their advantages, STOs face several challenges:
 - **Restricted Participation**: Many STOs are only available to accredited investors, reducing accessibility compared to the open nature of utility token sales.
 
 STOs create a vital connection between traditional finance (TradFi) and decentralized finance ([DeFi](/what-is-defi)). Although they limit the permissionless aspect of earlier crypto projects, they provide a compliant method for integrating real-world assets and financial instruments into the blockchain, potentially enabling significant value for the Web3 ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

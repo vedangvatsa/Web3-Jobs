@@ -1,14 +1,13 @@
 ---
 title: What is a Curve Pool in DeFi?
 description: >-
- An in-depth explanation of Curve Finance's specialized liquidity pools, how
- their unique StableSwap invariant allows for ultra-efficient stablecoin.
+  An in-depth explanation of Curve Finance's specialized liquidity pools, how
+  their unique StableSwap invariant allows for ultra-efficient stablecoin.
 category: Educational
 data-ai-hint: curve pool
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is a Curve Pool in DeFi? An In-Depth Look
 
 Curve Finance operates as a decentralized exchange (DEX) specifically optimized for trading assets that are pegged to the same value. This primarily includes stablecoins such as USDC, DAI, and USDT, as well as various wrapped versions of assets like wBTC and renBTC. The liquidity pools that enable trades on this platform are referred to as **Curve pools**.
@@ -80,3 +79,16 @@ While impermanent loss is relatively low in stablecoin pools, the primary risks 
 
 **What are Curve V2 pools?** 
 Curve V2 introduced a new algorithm tailored for volatile, uncorrelated assets, such as ETH/USDC. This version employs a dynamic peg and a form of concentrated liquidity that adjusts automatically, aiming to deliver a more efficient trading experience than Uniswap v3 for volatile pairs, while providing a more passive experience for LPs.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

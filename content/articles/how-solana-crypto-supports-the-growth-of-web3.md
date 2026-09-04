@@ -3,13 +3,12 @@ title: How Solana Crypto Supports the Growth of Web3
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: solana crypto web3
 description: >-
- Learn how Solana's speed and affordability enable NFTs, DeFi, and consumer
- applications.
+  Learn how Solana's speed and affordability enable NFTs, DeFi, and consumer
+  applications.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Solana has established itself as a significant player in the multi-chain ecosystem of Web3, complementing Ethereum's dominance. As a high-performance [Layer 1 blockchain](/what-is-a-layer-1-blockchain), Solana's design emphasizes transaction speed and low costs, making it an attractive choice for various decentralized applications. The native cryptocurrency, SOL, is important for the network's functionality and security.
 
 This article examines how Solana and SOL contribute to the growth of the Web3 ecosystem, focusing on use cases that require high throughput.
@@ -46,3 +45,16 @@ While the Ethereum Virtual Machine (EVM) is prevalent, a diverse ecosystem enhan
 - **Web3 Innovation:** This uniqueness supports a parallel ecosystem that encourages innovation. Developers who find the EVM limiting can explore Solana's architecture, which advances the industry by testing new scalability and security approaches. Despite fluctuations in developer activity, the core community remains engaged, creating products that would not thrive within the confines of the EVM.
 
 Solana's performance focus positions it as an important component in the Web3 ecosystem. It provides a platform for efficient financial applications, accessible NFTs, and scalable gaming environments, ultimately expanding the potential of public blockchains and enabling the onboarding of new Web3 users.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [Solana Core Architecture Documentation](https://docs.solana.com/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

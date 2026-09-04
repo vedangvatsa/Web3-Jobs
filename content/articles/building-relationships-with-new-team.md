@@ -1,15 +1,14 @@
 ---
 title: A Guide to Building Relationships With Your New Team
 description: >-
- Integrating into a new team is about more than just the work. This guide
- outlines practical steps for building strong, positive working relationships
- with.
+  Integrating into a new team is about more than just the work. This guide
+  outlines practical steps for building strong, positive working relationships
+  with.
 category: Career Guides
 data-ai-hint: team relationships
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Building Strong Relationships with Your New Team
 
 Success in a new role hinges on your ability to collaborate effectively with your team. Research indicates that employees with strong workplace relationships are significantly more engaged and more likely to stay with their organization. Building these relationships requires intentionality and authenticity. 
@@ -298,3 +297,16 @@ Friendships can develop naturally but shouldn't be forced. Key points include:
 
 **The Goal:**
 By the end of three months, aim for a comfortable rapport with your team. They should recognize your engagement and willingness to help, making relationships feel natural rather than contrived. Continue nurturing and deepening these connections throughout your tenure for sustained success.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

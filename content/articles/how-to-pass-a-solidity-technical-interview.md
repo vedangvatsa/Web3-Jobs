@@ -3,13 +3,12 @@ title: How to Pass a Solidity Technical Interview
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: solidity job interview
 description: >-
- A full guide to acing your Solidity technical interview, covering common
- questions, live coding challenges, security concepts, and how to.
+  A full guide to acing your Solidity technical interview, covering common
+  questions, live coding challenges, security concepts, and how to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Solidity](/best-programming-languages-for-blockchain-development) technical [interview](/how-to-prepare-for-job-interview) is a demanding process aimed at assessing your proficiency in the language, understanding of the Ethereum Virtual Machine (EVM), focus on security, and problem-solving abilities in a decentralized setting. Unlike standard software engineering interviews, Solidity interviews emphasize security, gas optimization, and essential [blockchain](/what-is-a-blockchain) principles.
 
 Success in this interview hinges on more than just syntax familiarity; it requires you to adopt the mindset of a [blockchain developer](/how-to-become-a-blockchain-developer). This guide outlines how to prepare effectively for your Solidity technical interview, detailing the types of questions to expect, the skills to showcase, and the pitfalls to avoid.
@@ -86,3 +85,16 @@ The live coding challenge often induces considerable stress. You will need to so
 - **Lack of Passion:** If you can't articulate "Why Web3?" with enthusiasm, it becomes challenging to convince an interviewer of your commitment.
 
 Passing a Solidity technical interview sets a high standard; however, you can achieve success through thorough preparation. Focus on mastering fundamentals, adopting a security-first mindset, and practicing problem-solving through coding. By demonstrating technical knowledge alongside a disciplined development approach, you can establish your credentials as a top-tier Web3 builder.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [Slither Static Analyzer Repository by Trail of Bits](https://github.com/crytic/slither)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

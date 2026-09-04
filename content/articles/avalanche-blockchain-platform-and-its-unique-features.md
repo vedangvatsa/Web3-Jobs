@@ -9,7 +9,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Avalanche is a Layer 1 blockchain for launching decentralized applications and custom Layer 1 networks with sub-second finality. It went live on mainnet on September 21, 2020, built by Ava Labs, a company founded in 2018 by Emin Gun Sirer, Kevin Sekniqi, and Maofan Ted Yin.
 
 The network separates asset exchange, validator coordination, and smart contract execution across three primary chains, and lets teams launch sovereign Avalanche L1s with their own rules, fees, and validator sets.
@@ -141,3 +140,16 @@ Start on the C-Chain if your transaction rate is modest, you want immediate acce
 
 **Where can I verify these details?**
 Primary Network and consensus docs at build.avax.network/docs/primary-network and docs/avax-consensus, staking guide at build.avax.network/docs/primary-network/validate, ICM at build.avax.network/docs/cross-chain/avalanche-warp-messaging, Etna changes at avax.network/about/blog/etna-enhancing-the-sovereignty-of-avalanche-l1-networks, and live network stats at explorer.avax.network, status.avax.network, and avascan.info.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)

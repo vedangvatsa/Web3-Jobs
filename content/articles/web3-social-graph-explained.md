@@ -3,13 +3,13 @@ title: 'The Web3 Social Graph: Owning Your Online Identity'
 image: /images/sergey-zolkin-_UeY8aTI6d0-unsplash.jpg
 data-ai-hint: social network graph
 description: >-
- Learn how portable social graphs work, then explore protocol, app, and community
- career paths with skills, timelines, salary context, and a 90-day entry plan.
+  Learn how portable social graphs work, then explore protocol, app, and
+  community career paths with skills, timelines, salary context, and a 90-day
+  entry plan.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 For the last fifteen years, digital identities have resided within closed systems, often referred to as walled gardens. Your social graph, which encompasses your friends, followers, posts, and interactions, represents a significant digital asset. However, you don't own it; major platforms like Facebook, Twitter, and TikTok retain that ownership. If you choose to leave a platform, your entire social graph vanishes. Also, if the platform alters its algorithm, your reach can diminish dramatically.
 
 The **[Web3](/what-is-web3) Social Graph** movement aims to change this model. It seeks to establish a decentralized foundation for social media, allowing users to own and control their data rather than being at the mercy of platforms. By using open and permissionless protocols, Web3 is creating a more reliable and user-centric social media environment.
@@ -198,3 +198,16 @@ The Web3 social graph signifies a fundamental shift in ownership and control:
 The social graph represents a new frontier within Web3. Opportunities abound for those interested in building protocols, applications, or communities. Engage with our [job board](/jobs) to explore available roles.
 
 The journey towards a fully decentralized social media ecosystem is still underway. Building an open social graph is a significant step towards creating a more equitable, user-owned internet.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+8. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+9. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+10. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

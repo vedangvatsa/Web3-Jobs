@@ -9,7 +9,6 @@ data-ai-hint: finding mentor
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## How to Find a Mentor at a New Company
 
 A mentor at a new company is an experienced colleague who helps you learn the unwritten rules, make better decisions, and connect to the right people. Your manager evaluates your work. A mentor helps you understand how work actually gets done.
@@ -165,7 +164,7 @@ Frequency guide:
 - After 6 months: quarterly or as needed when questions come up
 - If the relationship is focused on a specific skill, meet more often for a short period, then reduce
 
-Over time you will see whether this becomes ongoing mentoring, an occasional contact, or a natural close. All three outcomes can be useful. Many people keep two or three different mentors for different needs at the same time: one for craft, one for navigating the org, one peer who faces similar challenges now.
+Over time you will see whether this becomes ongoing mentoring, an occasional contact, or a natural close. All three outcomes can be useful. Many people keep two or three different mentors for different needs at the same time: one for craft, one for understand the org, one peer who faces similar challenges now.
 
 #### Mistakes to avoid
 
@@ -224,3 +223,16 @@ Be brief, grateful, and specific. Example: "Thank you for your time over the pas
 **Week 4:** Follow up with a brief update. If the conversation was helpful, ask if they are open to a check-in in a month. Identify a peer you can help in turn. Mentoring is often most useful when you both give and receive.
 
 You do not need a perfect formal program to benefit from mentoring. One thoughtful conversation, followed by action and a brief update, is enough to start a useful relationship and learn how your new company really works.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

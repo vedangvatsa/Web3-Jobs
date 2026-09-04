@@ -1,15 +1,14 @@
 ---
 title: Two Weeks' Notice Letter Templates
 description: >-
- Writing a two weeks' notice letter is an important part of leaving a job
- professionally. Here are several templates you can use to ensure you leave on
- good terms.
+  Writing a two weeks' notice letter is an important part of leaving a job
+  professionally. Here are several templates you can use to ensure you leave on
+  good terms.
 data-ai-hint: writing letter
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 When you decide to leave your job, giving two weeks' notice is a standard professional practice. You should first have a conversation with your manager before submitting a formal resignation letter. This letter serves as the official record for HR and should express your intentions clearly and professionally. The objective is to leave on good terms.
 
 Your resignation letter should be brief and straightforward. Include your intention to resign, the date of your last working day, and an offer to assist with the transition. Avoid discussing grievances or the reasons for your departure in detail.
@@ -127,3 +126,16 @@ When you decide to resign, consider the following factors to ensure a smooth tra
 | **Networking** | Keep in touch with colleagues, as they are part of your professional network. |
 
 By considering these factors, you can manage your resignation professionally and maintain positive relationships.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

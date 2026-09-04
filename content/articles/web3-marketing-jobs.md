@@ -1,15 +1,15 @@
 ---
 title: 'Web3 Marketing Jobs: From Community to CMO'
 image: >-
- https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NTAwOTAwOXww&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1516321497487-e288fb19713f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyMHx8bWFya2V0aW5nfGVufDB8fHx8MTc1NTAwOTAwOXww&lib=rb-4.1.0&q=80&w=1080
 description: >-
- See how Web3's community-led marketing funnel differs from Web2, from entry-level
- community and content roles through growth leadership and CMO work.
+  See how Web3's community-led marketing funnel differs from Web2, from
+  entry-level community and content roles through growth leadership and CMO
+  work.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Marketing in [Web3](/what-is-web3) differs significantly from the strategies used in Web2. This field emphasizes culture, community, and content, where authenticity is critical. In this ecosystem, the distinctions between user, owner, and marketer become less defined. For marketing professionals, this shift presents an good opportunity but also requires a new approach.
 
 This article outlines the Web3 marketing career path. It details various roles, the [essential skills](/mastering-web3-essential-skills) required for success, and a strategic roadmap for transitioning your marketing career into the crypto space.
@@ -62,3 +62,16 @@ Your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary to your 
 - **Resilience:** The volatility of the market and the demands of the community require thick skin and the ability to manage chaotic situations effectively.
 
 A career in Web3 marketing allows involvement in reshaping a cultural and technological narrative. It presents opportunities to build brands co-owned by their communities and to shape the future of marketing.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

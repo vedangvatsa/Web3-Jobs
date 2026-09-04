@@ -1,14 +1,13 @@
 ---
 title: Understanding Concentrated Liquidity in Uniswap v3
 description: >-
- An in-depth guide to Concentrated Liquidity, the new feature of Uniswap v3
- that allows for greater capital efficiency, and its implications for.
+  An in-depth guide to Concentrated Liquidity, the new feature of Uniswap v3
+  that allows for greater capital efficiency, and its implications for.
 category: Educational
 data-ai-hint: concentrated liquidity
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding Concentrated Liquidity in Uniswap v3
 
 Uniswap v3 introduced a feature called **Concentrated Liquidity**. This innovation enables liquidity providers (LPs) to allocate their capital within specific price ranges, rather than spreading it across all potential prices from zero to infinity. 
@@ -94,3 +93,16 @@ A: Uniswap v3 allows for pools with varying fee tiers (e.g., 0.05% for stablecoi
 
 **Q: If the price goes out of my range, do I lose all my money?** 
 A: No, while you do not lose your principal, your position will consist entirely of the asset that has depreciated in relative value. You will hold an inefficient [portfolio](/building-web3-portfolio) and experience impermanent loss until the price returns to your range or you reposition your liquidity.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

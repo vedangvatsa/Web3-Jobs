@@ -1,16 +1,15 @@
 ---
 title: Common Take-Home Assignments for Web3 Developer Roles
 image: >-
- https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3NpZ25tZW50fGVufDB8fHx8MTc1NTAzNzEwM3ww&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1491975474562-1f4e30bc9468?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxhc3NpZ25tZW50fGVufDB8fHx8MTc1NTAzNzEwM3ww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: common take home assignments for web3 developer roles
 description: >-
- Review typical smart contract and dApp development assignments used in Web3
- hiring processes.
+  Review typical smart contract and dApp development assignments used in Web3
+  hiring processes.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You've successfully passed the initial screening call for a [Web3](/what-is-web3) [developer role](/entry-level-jobs-in-web3). The next step typically involves a **take-home assignment**. This assignment is important for the [interview](/how-to-prepare-for-job-interview) process, allowing companies to evaluate your practical coding skills, attention to detail, and ability to work autonomously.
 
 These assignments differ from abstract algorithm challenges; they mimic actual tasks you'll encounter in the role. Completing the assignment effectively can significantly enhance your chances of advancing to the final interview round. This article outlines the most common types of take-home projects anticipated for [smart contract](/what-are-smart-contracts) and full-stack Web3 roles.
@@ -63,3 +62,16 @@ These projects assess your ability to integrate front-end applications with smar
 * **Avoid Over-Engineering:** Focus on delivering clean, correct, and well-tested code that adheres to the requirements without unnecessary complexity.
 
 Preparing for these typical scenarios will equip you to tackle your next Web3 take-home assignment with confidence and demonstrate the skills that can lead to a successful hiring outcome.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)

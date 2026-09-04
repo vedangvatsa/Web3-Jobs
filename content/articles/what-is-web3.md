@@ -2,14 +2,13 @@
 title: What is Web3? The Next Evolution of the Internet Explained
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-
- A full but simple explanation of Web3, the decentralized internet. Learn about
- its core concepts, key technologies, and why it matters.
+  A full but simple explanation of Web3, the decentralized internet. Learn about
+  its core concepts, key technologies, and why it matters.
 category: Industry Insights
 data-ai-hint: internet technology
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 represents a fundamental shift in how the internet works and who controls it. If you've heard the term but weren't sure what it actually means, you're not alone. The concept gets thrown around in conversations about cryptocurrency and [blockchain](/what-is-a-blockchain), often wrapped in hype that obscures the actual technology underneath.
 
 Here's the core idea: today's internet (Web2) is built around centralized companies that own and control platforms. Google owns your search history. Facebook owns your social network. Amazon owns your shopping data. These companies extract value from your activity while controlling what you can and can't do on their platforms. Web3 proposes a different model where users have more direct ownership and control.
@@ -65,3 +64,16 @@ This changes because it separates the agreement from the execution. Traditionall
 ## How Web3 Actually Works: Real Examples
 
 Let's walk through concrete examples of how Web3 applications work today.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

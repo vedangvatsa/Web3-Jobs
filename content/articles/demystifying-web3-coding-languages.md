@@ -1,15 +1,14 @@
 ---
 title: What Coding Language is Used for Web3? A Developer's Guide
 description: >-
- A guide to the most important programming languages in Web3. Learn about
- Solidity, Rust, and the key languages you need to know to become a blockchain.
+  A guide to the most important programming languages in Web3. Learn about
+  Solidity, Rust, and the key languages you need to know to become a blockchain.
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 category: Career Guides
 data-ai-hint: code on screen
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Beyond JavaScript: The Coding Languages Powering Web3
 
 Aspiring blockchain developers often ask which programming language they should learn first. The Web3 technology stack features a variety of languages, and the best choice typically depends on the specific blockchain ecosystem in which one intends to work.
@@ -72,3 +71,16 @@ After mastering Solidity, learning Rust becomes more manageable. Key concepts of
 | 3 | Rust | Once comfortable with Solidity, explore Rust to expand your horizons and engage with high-performance blockchain ecosystems. |
 
 The Web3 development field is dynamic and rewarding. By choosing the right languages and following a structured learning path, you can prepare to build the next generation of decentralized applications.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)

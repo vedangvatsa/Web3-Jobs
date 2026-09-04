@@ -1,16 +1,15 @@
 ---
 title: What Is a Browser Extension Wallet?
 image: >-
- https://images.unsplash.com/photo-1641427218942-533475c747d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxNZXRhTWFzayUyMHdhbGxldHxlbnwwfHx8fDE3NjI4NTY1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1641427218942-533475c747d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxNZXRhTWFzayUyMHdhbGxldHxlbnwwfHx8fDE3NjI4NTY1MDd8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- A full overview of browser extension wallets like MetaMask, explaining how
- they work, their role in Web3, and best practices for security.
+  A full overview of browser extension wallets like MetaMask, explaining how
+  they work, their role in Web3, and best practices for security.
 category: Educational
 data-ai-hint: MetaMask wallet
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 For professionals exploring [Web3](/what-is-web3), decentralized applications (dApps), and [NFTs](/what-are-nfts), a browser extension [wallet](/how-to-choose-a-crypto-wallet) is a vital component. This tool functions as your digital passport, enabling secure interactions with the decentralized web. MetaMask stands out as the most popular example, but others like Brave Wallet and Coinbase Wallet also fulfill similar roles.
 
 If you have engaged with a Web3 application, you likely encountered a request to use a browser extension wallet. Understanding their functionality, significance, and safe usage is essential for effectively managing Web3.
@@ -178,3 +177,15 @@ Grasping how these wallets operate, such as local key storage, transaction signi
 The benefits of self-custody come with obligations. Protect your seed phrase, understand what you are signing, and adhere to security best practices. When used responsibly, browser extension wallets allow you complete control over your digital assets. Neglecting these practices can expose you to risks from scammers eager to steal your assets. 
 
 Master these security measures and use your wallet wisely, and you will fully engage with the Web3 ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

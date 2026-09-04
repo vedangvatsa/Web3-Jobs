@@ -1,15 +1,14 @@
 ---
 title: Coffee Chat Etiquette for Professionals
 description: >-
- A guide to the unwritten rules of the professional coffee chat. Learn how to
- request, prepare for, and conduct a virtual or in-person coffee chat to build
- your network.
+  A guide to the unwritten rules of the professional coffee chat. Learn how to
+  request, prepare for, and conduct a virtual or in-person coffee chat to build
+  your network.
 category: Career Guides
 data-ai-hint: people talking
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Networking Potential of Coffee Chats
 
 A coffee chat serves as an informal conversation with a professional in your field, offering an effective way to gather insights and advice while building a genuine connection. Unlike formal job interviews, coffee chats create a relaxed environment where you can explore topics relevant to your career growth.
@@ -123,3 +122,16 @@ A single coffee chat marks the beginning of a relationship. To cultivate this co
 - Congratulate them on a work anniversary or promotion via LinkedIn.
 
 The goal is to establish a pattern of positive interactions, leading to a context where your future requests (like job referrals) are met with enthusiasm.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

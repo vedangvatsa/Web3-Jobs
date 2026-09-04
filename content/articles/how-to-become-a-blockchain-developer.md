@@ -11,7 +11,6 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What a blockchain developer actually does
 
 A blockchain developer writes software that runs on a blockchain. On Ethereum and other EVM-compatible chains, that means two things: smart contracts that live on chain and execute inside the Ethereum Virtual Machine (EVM), and off-chain software that reads chain data, sends transactions, and presents it to users.
@@ -121,7 +120,7 @@ You will use one of these to connect a wallet, read contract state, and send tra
 - **Foundry** is the Rust toolchain for Ethereum development. It gives you `forge` for compile and test, `cast` for chain interaction, `anvil` for a local node, and `chisel` for a Solidity REPL. Tests are written in Solidity, which keeps contracts and tests in one language. Fuzz and invariant tests are built in with `testFuzz_` naming. Install with:
 
 ```
-curl -L https://foundry.paradigm.xyz | bash
+curl -L https://foundry.model.xyz | bash
 foundryup
 forge init my-project
 forge test
@@ -245,3 +244,16 @@ For primary sources behind this guide:
 - Ethers.js: https://docs.ethers.org and Viem: https://viem.sh - frontend libraries for contract interaction
 
 If you finish the five projects and can walk through each design choice without notes, you are closer to hireable than most applicants who stop after an online course.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+5. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+6. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+7. [Ethereum ERC-4626 Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626)
+8. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+9. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+10. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)

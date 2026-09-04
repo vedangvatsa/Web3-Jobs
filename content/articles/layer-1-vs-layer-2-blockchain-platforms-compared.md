@@ -3,13 +3,12 @@ title: Layer 1 vs Layer 2 Blockchain Platforms Compared
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: blockchain layers comparison
 description: >-
- A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms.
- Understand their different roles, security models, and how they work.
+  A full comparison of Layer 1 (L1) and Layer 2 (L2) blockchain platforms.
+  Understand their different roles, security models, and how they work.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The conversation around blockchain scalability focuses on two main categories: **Layer 1 (L1)** and **Layer 2 (L2)**. Understanding the differences between these platforms is essential for developers, users, and investors in the [Web3](/what-is-web3) ecosystem. L1 and L2 represent distinct approaches to addressing the **[blockchain trilemma](/is-web3-dead)**, working together to enhance the scalability and usability of a decentralized internet.
 
 ### Layer 1 (L1) Blockchain Explained
@@ -67,3 +66,16 @@ The emergence of L2 solutions has led to the concept of a "modular blockchain." 
 ### The Symbiotic Relationship Between L1 and L2
 
 Layer 1 and Layer 2 platforms complement each other. L1s deliver foundational security and decentralization, while L2s enhance scalability, making mainstream adoption feasible. By shifting the majority of computations to L2s, the blockchain ecosystem can accommodate billions of users without sacrificing the decentralization that characterizes Web3.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+4. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+5. [Solana Core Architecture Documentation](https://docs.solana.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Starknet Cairo Language & Protocol Documentation](https://docs.starknet.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

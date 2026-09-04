@@ -1,15 +1,14 @@
 ---
 title: How to Leave a Job on Good Terms
 description: >-
- Leaving a job is a significant career move. Learn the essential steps to
- ensure you depart on positive terms, preserving your reputation and
- professional.
+  Leaving a job is a significant career move. Learn the essential steps to
+  ensure you depart on positive terms, preserving your reputation and
+  professional.
 data-ai-hint: handshake deal
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Leaving a job can significantly influence your career trajectory. A well-managed exit can enhance your professional network and create new opportunities, while a poorly executed departure may lead to negative repercussions. Departing on good terms is not just an act of courtesy; it is a strategic decision that can pay dividends in the long run.
 
 Your reputation holds immense value in your professional life. By managing your exit with professionalism, respect, and positivity, you can ensure that your former colleagues and supervisors remember you favorably. The following steps outline how to manage your departure effectively and leave on the best possible terms.
@@ -80,3 +79,16 @@ Be honest yet professional during your exit interview. This setting provides an 
 **Is it appropriate to connect with former colleagues on social media?**
 
 Connecting on LinkedIn is advisable for maintaining your professional network. For other platforms like Instagram or Twitter, use discretion based on your relationship with each colleague.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

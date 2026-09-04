@@ -3,14 +3,13 @@ title: What is a Distributed Ledger Technology
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: distributed ledger
 description: >-
- A distributed ledger technology (DLT) is a digital system for recording
- transactions where the ledger is replicated and spread across multiple
- computers.
+  A distributed ledger technology (DLT) is a digital system for recording
+  transactions where the ledger is replicated and spread across multiple
+  computers.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A distributed ledger technology (DLT) is a digital system for recording transactions where the ledger is replicated and spread across multiple computers in different locations. Unlike a traditional centralized database, where a single entity holds and manages the data, a DLT has no central administrator or data storage. This decentralized nature is the cornerstone of its security and transparency.
 
 Blockchains are the most well-known type of DLT, but not all DLTs are blockchains. The key idea is that every participant (or "node") in the network holds a copy of the ledger. When a new transaction occurs, it is broadcast to the network, and all participants update their copy of the ledger independently. To ensure everyone's copy remains consistent and that no fraudulent transactions are added, the network uses a "consensus mechanism."
@@ -113,3 +112,16 @@ Understanding DLTs deeply is foundational for Web3 careers:
 - **Compliance/Forensics:** Understanding DLT transparency and traceability is essential.
 
 Professionals who can explain DLTs clearly to non-technical audiences (regulators, executives, investors) are especially valuable.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

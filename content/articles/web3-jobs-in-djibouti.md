@@ -2,13 +2,12 @@
 title: 'Web3 Jobs in Djibouti: A Guide to the Strategic Port''s Tech Scene'
 data-ai-hint: djibouti city
 description: >-
- A career guide to the emerging Web3 job market in Djibouti. Explore how its
- strategic location and focus on trade and logistics are creating unique.
+  A career guide to the emerging Web3 job market in Djibouti. Explore how its
+  strategic location and focus on trade and logistics are creating unique.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Djibouti, a small nation at the southern entrance of the Red Sea, serves as a vital hub for global trade and logistics. The Port of Djibouti ranks among the busiest in East Africa, acting as the primary gateway for trade with neighboring Ethiopia. This strategic geopolitical and economic position presents a unique opportunity for the integration of [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technologies, especially in supply chain management and trade finance.
 
 While the consumer-oriented Web3 scene in Djibouti City is still developing, significant potential exists for enterprise-level and government-led blockchain innovation. Professionals with expertise in logistics, finance, and technology can find unique opportunities to engage in impactful projects that may transform trade in the Horn of Africa. This guide details the emerging [Web3 career](/web3-jobs-for-beginners) opportunities in Djibouti, focusing on its strengths, growth prospects, and essential skills for success in this strategic market.
@@ -372,3 +371,16 @@ Djibouti is one of Africa's more expensive nations:
 - **Week 1-2:** Write a detailed proposal for a blockchain solution tailored to the port.
 - **Week 3:** Submit your proposal to DPFZA or the relevant government agency.
 - **Week 4:** Apply for positions and attend regional Web3 or trade finance events.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

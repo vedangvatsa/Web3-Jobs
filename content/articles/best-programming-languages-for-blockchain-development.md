@@ -4,12 +4,12 @@ image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: programming skill learn
 description: >-
   Compare Solidity, Vyper, Rust, Move, JavaScript, Python, and Go for blockchain
-  work. Learn what each language does, who it fits, how it runs on chain, trade-offs, and how to start.
+  work. Learn what each language does, who it fits, how it runs on chain,
+  trade-offs, and how to start.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Blockchain work is not one job. Writing a DeFi pool, launching an NFT, running a validator client, and building a wallet frontend use different languages and different runtimes. Your choice depends on where your code will run: on the Ethereum Virtual Machine (EVM), on a Rust-based VM like Solana's, on Move VMs like Aptos and Sui, or off chain in a browser or data pipeline.
 
 This guide covers seven languages that actually get hired for: Solidity, Vyper, Rust, Move, JavaScript/TypeScript, Python, and Go. For each you get what it is, who it fits, how it works under the hood, honest pros and cons, and concrete steps to start.
@@ -90,7 +90,7 @@ contract Counter {
 ### How to start
 
 1. Try code without setup at remix.ethereum.org. Create a `Counter.sol` file, compile with 0.8.30, deploy to the Remix VM, and call `increment`.
-2. Install locally when you need tests: `npm init -y && npm install --save-dev hardhat` or `curl -L https://foundry.paradigm.xyz | bash && foundryup`. Create a project with `npx hardhat init` or `forge init`.
+2. Install locally when you need tests: `npm init -y && npm install --save-dev hardhat` or `curl -L https://foundry.model.xyz | bash && foundryup`. Create a project with `npx hardhat init` or `forge init`.
 3. Read two pages in the official docs before you handle funds: "Introduction to Smart Contracts" and "Security Considerations." Implement pull payments (withdraw pattern) instead of pushing Ether, and use a reentrancy guard for any vault.
 4. Deploy to a testnet like Sepolia, verify the contract on the explorer, and write at least one invariant test that checks balances and sums.
 
@@ -356,7 +356,7 @@ Python connects to a node over HTTP or WebSocket and calls JSON-RPC.
 
 * **web3.py** wraps `eth_call`, `eth_sendTransaction`, `eth_getLogs`, and contract ABI handling. You instantiate `Web3(Web3.HTTPProvider(url))`, load an ABI, create `contract = w3.eth.contract(address, abi=abi)`, then `contract.functions.balanceOf(addr).call()` or `contract.functions.transfer(to, amt).build_transaction()`.
 * **Analysis.** You pull logs for `Transfer` events across 100,000 blocks, load them into a dataframe with `pandas`, group by address, and plot flows. Chains expose this history because every transaction is public.
-* **Testing.** For Vyper, Titanoboa gives you an in-process EVM where `boa.load('Contract.vy')` returns a Python object you can call directly. For Solidity, Brownie and Ape give similar test harnesses, though many Solidity teams now use Foundry.
+* **Testing.** For Vyper, Titanoboa gives you an in-process EVM where `boa.load('Contract.vy')` returns a Python object you can call directly. For Solidity, Brownie and Ape give similar test apply, though many Solidity teams now use Foundry.
 
 Python is interpreted and fast to iterate. You trade raw execution speed for faster research cycles and a larger scientific library set than JavaScript.
 
@@ -497,3 +497,15 @@ Compensation varies by region and team stage, but Rust and Go roles tied to core
 **What common mistakes should beginners avoid?**
 Treating `private` as secret, using `tx.origin` for auth, pushing Ether instead of letting users withdraw, writing unbounded loops over storage, ignoring compiler warnings, and deploying to mainnet without tests on a testnet and a fork. Each of these is listed as a pitfall in the Solidity security docs for good reason.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+9. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+10. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)

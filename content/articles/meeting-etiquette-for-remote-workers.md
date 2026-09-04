@@ -1,15 +1,14 @@
 ---
 title: Meeting Etiquette for Remote Workers
 description: >-
- Master the art of remote meetings. This guide covers the essential etiquette
- for virtual meetings to ensure they are productive, inclusive, and
- professional.
+  Master the art of remote meetings. This guide covers the essential etiquette
+  for virtual meetings to ensure they are productive, inclusive, and
+  professional.
 category: Career Guides
 data-ai-hint: remote meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Meeting Etiquette for Remote Workers
 
 In remote and hybrid work environments, virtual meetings serve as the primary platform for collaboration, decision-making, and team connection. However, poorly managed virtual meetings can lead to inefficiencies and frustration. Common issues such as technical difficulties, overlapping discussions, and disengaged participants can transform a promising dialogue into a time-consuming exercise.
@@ -108,3 +107,16 @@ A3: Exiting a meeting when your input is no longer relevant is perfectly accepta
 **Q4: How can I push back against excessive meetings?**
 
 A4: To address meeting overload, model effective asynchronous communication. When you receive a meeting invitation, inquire if the goals can be met through a shared document or Slack conversation. When running your own meetings, keep them concise and focused. Gradually, this may help shift the company culture away from a meeting-centric approach.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

@@ -9,7 +9,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Solana is a Layer 1, open source blockchain built for high throughput and low cost. It launched as a mainnet beta on March 16, 2020. Solana Labs, founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald, built the original protocol from Yakovenko's 2017 Proof-of-History whitepaper, and the Solana Foundation helps support ecosystem development.
 
 It is a single, integrated network. It does not run three separate chains and it does not use subnets. Those designs belong to other networks such as Avalanche.
@@ -120,3 +119,16 @@ Past halts were tied to overload and software bugs, with the February 2024 case 
 
 **What do I need to write a Solana program?**
 Rust is the main language, plus C where needed. Anchor covers account handling, instruction routing, and client IDL generation. Experience with ownership, lifetimes, and the Solana account model helps.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+10. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

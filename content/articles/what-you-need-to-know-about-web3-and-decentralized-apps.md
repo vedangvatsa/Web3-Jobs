@@ -3,13 +3,12 @@ title: What You Need to Know About Web3 and Decentralized Apps
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: decentralized apps web3
 description: >-
- A beginner's guide to dApps (decentralized applications). Learn what they are,
- how they differ from traditional apps, and why they are a core component of.
+  A beginner's guide to dApps (decentralized applications). Learn what they are,
+  how they differ from traditional apps, and why they are a core component of.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The internet we use daily relies on centralized applications. For instance, when you interact with Facebook, you engage with an app that operates on servers controlled by Meta. In contrast, a decentralized application, or dApp, functions on a peer-to-peer network of computers, predominantly using a public blockchain like [Ethereum](/what-is-ethereum). 
 
 Understanding this architectural difference is essential for grasping [Web3](/what-is-web3). dApps serve as the backbone of the decentralized internet, offering services that prioritize openness, resilience, and user control compared to traditional Web2 applications. This article will clarify what dApps are, how they operate, and what you need to know to begin using them effectively.
@@ -55,3 +54,16 @@ Using a dApp can feel different from traditional applications, primarily due to 
 User experience (UX) remains the most significant challenge for dApps today. Managing wallets, signing transactions, and paying gas fees can deter mainstream users. Future dApp development aims to simplify these processes, making dApps as intuitive as top Web2 applications. Innovations like **[Account Abstraction](/account-abstraction-explained)** are central to this effort.
 
 Decentralized applications form the foundation of the Web3 movement. They signify a shift toward a more open and user-controlled internet, creating opportunities for developers and allowing users genuine ownership of their digital experiences.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+8. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

@@ -3,12 +3,13 @@ title: How to Become an NFT Creator - From Artwork to On-Chain Sale
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft art crypto
 description: >-
-  A practical guide to becoming an NFT creator in 2026. Learn what the role covers, how minting and royalties work, where to deploy, what it costs, and how to sell your first piece without wasting gas or rights.
+  A practical guide to becoming an NFT creator in 2026. Learn what the role
+  covers, how minting and royalties work, where to deploy, what it costs, and
+  how to sell your first piece without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is an NFT creator
 
 An NFT creator is someone who prepares artwork or media, publishes it through a smart contract as a non-fungible token, and offers that token for sale with verifiable ownership on a blockchain. The token itself is the on-chain record, a contract address plus a tokenId, that points to metadata and to a media file stored elsewhere, not the image file inside the blockchain.
@@ -211,3 +212,15 @@ There are durable roles tied to NFT tech, but fewer speculative ones than in 202
 
 Start with /what-are-nfts for the underlying standards, /what-is-a-blockchain for ledger basics, /what-are-smart-contracts for how contracts execute, and /how-to-choose-a-crypto-wallet for custody. For pricing and rights, see /nft-artist-royalties.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+5. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+6. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+10. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)

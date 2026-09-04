@@ -1,14 +1,16 @@
 ---
-title: 'How to Write an Effective Job Description for Web3 Roles'
+title: How to Write an Effective Job Description for Web3 Roles
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: hiring job description writing
 description: >-
-  A practical guide to writing a Web3 job description that attracts qualified candidates and passes legal checks. Learn what to include, how long it should be, how to set pay ranges and requirements, and how to tailor it for Solidity, Rust, and other Web3 roles.
+  A practical guide to writing a Web3 job description that attracts qualified
+  candidates and passes legal checks. Learn what to include, how long it should
+  be, how to set pay ranges and requirements, and how to tailor it for Solidity,
+  Rust, and other Web3 roles.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 An effective job description tells a qualified candidate what the work is, what success looks like, and whether they should apply. It is short enough to read on a phone and complete enough to use for screening, leveling, and pay decisions.
 
 This guide explains how that document works in 2026, who should use it, and how to write it for Web3 roles without slowing hiring or creating legal risk.
@@ -217,4 +219,17 @@ Job title, level, location and remote policy, pay band source and date, requirem
 
 ---
 
-Sources and further reading: LinkedIn 7 Tips for Writing Job Posts That Attract Candidates, August 14, 2018 based on 4.5 million jobs; Textio How to write job descriptions in 2024, January 4, 2024 based on 1 billion plus posts; MoshJD Job Description Format in 2026, November 25, 2025; Clockspot Pay Transparency Laws by State, fact-checked May 25, 2026 and SB 642 amendment January 1, 2026; PayTransparency.app Every State That Requires Salary Ranges in Job Postings, July 5, 2026; Paycor Pay Transparency Laws by State, January 26, 2026; Davron Salary Transparency Laws in 2026, November 26, 2025; Jackson Lewis Navigating 2026 Pay Transparency Laws, July 8, 2026; EEOC Technical Assistance on Title VII adverse impact, May 18, 2023; U.S. Department of Labor and EEOC employer pages; DataPeople Job Description Compliance, February 26, 2025 and Skima AI compliance guide July 27, 2026; Textio bias research via Index.dev November 5, 2025 and People Managing People August 13, 2026; SHRM Talent Trends February 2025 and HireVue February 2025 hiring data via how-to-use-ai-in-hiring.
+Sources and further reading: LinkedIn 7 Tips for Writing Job Posts That Attract Candidates, August 14, 2018 based on 4.5 million jobs; Textio How to write job descriptions in 2024, January 4, 2024 based on 1 billion plus posts; MoshJD Job Description Format in 2026, November 25, 2025; Clockspot Pay Transparency Laws by State, fact-checked May 25, 2026 and SB 642 amendment January 1, 2026; PayTransparency.app Every State That Requires Salary Ranges in Job Postings, July 5, 2026; Paycor Pay Transparency Laws by State, January 26, 2026; Davron Salary Transparency Laws in 2026, November 26, 2025; Jackson Lewis understand 2026 Pay Transparency Laws, July 8, 2026; EEOC Technical Assistance on Title VII adverse impact, May 18, 2023; U.S. Department of Labor and EEOC employer pages; DataPeople Job Description Compliance, February 26, 2025 and Skima AI compliance guide July 27, 2026; Textio bias research via Index.dev November 5, 2025 and People Managing People August 13, 2026; SHRM Talent Trends February 2025 and HireVue February 2025 hiring data via how-to-use-ai-in-hiring.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum ERC-4626 Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+10. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)

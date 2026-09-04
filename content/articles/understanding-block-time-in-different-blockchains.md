@@ -3,14 +3,13 @@ title: Understanding Block Time in Different Blockchains
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain time
 description: >-
- Block time is the average time it takes for a new block to be created on a
- blockchain. It's a key parameter that affects a network's speed and
- transaction.
+  Block time is the average time it takes for a new block to be created on a
+  blockchain. It's a key parameter that affects a network's speed and
+  transaction.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In a [blockchain](/what-is-a-blockchain), transactions group into "blocks," which the network adds to the chain in a specific order. The **block time** represents the average time required for the network to create a new block. This metric is important to a blockchain's architecture, affecting its speed, transaction capacity, and overall user experience.
 
 Blockchains adopt various block times, reflecting a balance between speed and decentralization.
@@ -45,3 +44,16 @@ Understanding the distinction between block inclusion and transaction finality i
 - **In PoS chains**: Finality is often more explicit. For Ethereum, when two epochs pass (roughly 12.8 minutes), an epoch of 32 slots is considered finalized, offering deterministic finality.
 
 Shorter block times can lead to quicker transaction confirmation and improved user experience, as users see their transactions appear on-chain rapidly. However, they also raise the risk of short-term chain forks if the consensus protocol does not manage them effectively. Selecting the appropriate block time is a fundamental design decision that reflects a blockchain's priorities regarding speed, security, and decentralization.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solana Core Architecture Documentation](https://docs.solana.com/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

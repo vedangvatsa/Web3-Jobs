@@ -3,13 +3,12 @@ title: How to Read Smart Contracts (Before You Ape In)
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: code security audit
 description: >-
- A practical guide for non-developers on how to perform a basic security check
- of a Solidity smart contract. Learn to spot common red flags and protect.
+  A practical guide for non-developers on how to perform a basic security check
+  of a Solidity smart contract. Learn to spot common red flags and protect.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the dynamic environment of [Web3](/what-is-web3), excitement often overshadows caution. New [NFT](/what-are-nfts) projects and [DeFi](/what-is-defi) protocols frequently promise high returns, igniting a sense of urgency to invest quickly. This rush can lead to significant financial losses if proper research is not conducted.
 
 One of Web3's defining characteristics is its transparency. The code for most [smart contracts](/what-are-smart-contracts) is publicly accessible and can be examined on block explorers like Etherscan. While detailed [security audits](/smart-contract-auditor-career) require specialized knowledge, anyone can learn to perform a basic evaluation or "smell test" to identify glaring issues. Understanding how to read a smart contract is essential for safeguarding your investments in this space.
@@ -87,3 +86,15 @@ Contract analysis is only one component of your due diligence.
 ### Trust, but Verify
 
 You do not need to be a security expert to mitigate the risk of common scams. By mastering these fundamental checks, contract verification, keyword searches for potential threats, and community assessment, you can enhance your ability to identify risky projects. In the decentralized area of Web3, the principle is clear: do not trust blindly; verify thoroughly. Learning to read smart contracts represents your first important step toward informed decision-making in this evolving field.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+8. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

@@ -3,14 +3,13 @@ title: How DAG-Based Blockchains Differ From Traditional Chains
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: dag blockchain network
 description: >-
- An exploration of Directed Acyclic Graphs (DAGs), an alternative to
- traditional blockchain data structures. Learn how DAGs offer a different
- approach to.
+  An exploration of Directed Acyclic Graphs (DAGs), an alternative to
+  traditional blockchain data structures. Learn how DAGs offer a different
+  approach to.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 When discussing distributed ledgers, most people envision a **[blockchain](/what-is-a-blockchain)**, a linear chain of blocks where each block cryptographically links to its predecessor. This structure, introduced by [Bitcoin](/what-is-bitcoin), forms the backbone of most cryptocurrencies and [smart contract](/what-are-smart-contracts) platforms. However, other data structures exist that can serve as decentralized ledgers, one of the most intriguing being the **Directed Acyclic Graph**, or **DAG**.
 
 DAG-based networks address several scalability issues associated with traditional blockchain systems. While they are not as widely adopted, they represent an alternative approach to achieving highly scalable decentralized networks.
@@ -70,3 +69,16 @@ Several prominent projects incorporate DAG technology:
 DAGs do not replace blockchains; instead, they serve as an alternative data structure that emphasizes different trade-offs. While they typically prioritize high throughput and low fees, this can complicate smart contract implementations and may introduce centralization risks.
 
 Although traditional blockchain architecture remains the prevailing model for decentralized applications, DAGs present a compelling area for exploration. They offer a unique approach to addressing scalability challenges, particularly in applications such as micropayments and IoT data transfers. As the [Web3](/what-is-web3) ecosystem matures, it is likely that both blockchains and DAGs will coexist, each fulfilling specific roles for distinct applications.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

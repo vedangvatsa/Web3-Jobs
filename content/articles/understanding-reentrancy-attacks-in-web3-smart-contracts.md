@@ -1,14 +1,13 @@
 ---
 title: 'Reentrancy Attacks in Smart Contracts: A Deep Dive'
 description: >-
- Reentrancy is one of the most notorious and destructive vulnerabilities in
- smart contract security. This article breaks down how it works, its.
+  Reentrancy is one of the most notorious and destructive vulnerabilities in
+  smart contract security. This article breaks down how it works, its.
 category: Technology Deep Dives
 data-ai-hint: blockchain security
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding Reentrancy Attacks in Web3 Smart Contracts
 
 Security stands as a critical pillar in [Web3](/what-is-web3) and [smart contract](/what-are-smart-contracts) development. A single vulnerability can result in substantial financial losses. Among the most notorious vulnerabilities is the **reentrancy attack**, which played a key role in the 2016 [DAO](/what-is-a-dao) hack. This incident led to a hard fork of [Ethereum](/what-is-ethereum), resulting in the formation of Ethereum Classic. Any developer operating on the [blockchain](/what-is-a-blockchain) must understand reentrancy, as it is essential for safeguarding user funds. This article explores reentrancy attacks, their mechanics, and effective prevention strategies.
@@ -137,3 +136,16 @@ A: Yes, it is advisable to adopt these strategies within your existing workload.
 
 **Q: What additional resources can deepen my understanding?** 
 A: Explore specific articles and resources that look into smart contract security. A highly effective approach is to find a mentor or peer group excelling in this field. Observing their practices can provide insights that written material cannot convey. Engage with Web3 communities on platforms like Discord and Telegram, where experienced practitioners often share their knowledge. Structured accountability, such as committing to a timeline with a peer to review your progress, can accelerate your growth.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

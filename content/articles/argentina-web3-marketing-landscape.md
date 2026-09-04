@@ -9,7 +9,6 @@ data-ai-hint: argentina flag crypto
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Argentina's Web3 market is shaped by necessity. People use stablecoins to save and transact when the peso loses value, not to chase hype. For marketers, that means the pitch is different. You win by explaining practical utility, showing how funds stay safe, and earning trust in Spanish with local proof.
 
 This guide defines how this market operates, who it fits, how it works in practice, and what to watch for. It draws on official and primary sources such as Chainalysis Geography of Crypto reports, INDEC CPI data, the Argentine securities regulator CNV, DataReportal, and Lemon's State of Crypto Industry reports. Figures are cited as reported. Where public data is thin, that is noted.
@@ -175,3 +174,16 @@ Attend one local session, ask one focused question, publish notes within 24 hour
 
 ---
 *Sources consulted for figures in this piece: CNV Resolution 1058 text and CNV announcement March 2025, Beccar Varela and Bruchou & Funes de Rioja summaries, InfoLEG text, PTYcoin and Bitcoin.com reporting on Decree 475/2026, Chainalysis 2024 Geography of Crypto preview and 2025 LATAM adoption report, FocusEconomics and INDEC CPI via Statista and CountryEconomy, BBVA Research January 2026, DataReportal Digital 2025 Argentina and Statista Q3 2024 device data, Lemon State of Crypto Industry reports 2024 and 2025 and associated blog summaries, Forbes Argentina October 2025 on Lemon Series B, Ethereum Foundation Devconnect 2025 announcements, Crecimiento and Ethereum Argentina program pages, and Telegram directory and press coverage of Argenpool and Cripto La Plata.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
