@@ -324,13 +324,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
   }
 
-  // Check if it's a company page
+  // Check if it's a company page first
   const companyPage = await getCompanyBySlug(params.slug);
   if (companyPage) {
     return <CompanyDetailView slug={params.slug} />;
   }
 
-  // Check if it's an event page first
+  // Check if it's an event page
   const event = await getEventBySlug(params.slug);
   if (event) {
     const siteUrl = 'https://hashtagweb3.com';
