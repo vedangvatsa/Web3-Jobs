@@ -2,6 +2,10 @@ import fs from 'fs';
 import path from 'path';
 
 const COMPANY_LOGO_ALIASES: Record<string, string> = {
+  'kappa-lab-ltd': 'kappa-lab-ltd',
+  'kappa-lab': 'kappa-lab-ltd',
+  'kappalab': 'kappa-lab-ltd',
+  'kappalab-ltd': 'kappa-lab-ltd',
   'chainlink': 'chainlink-labs',
   'ethena-labs': 'ethena',
   'hedera-hashgraph': 'hedera',
