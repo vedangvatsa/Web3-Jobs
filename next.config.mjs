@@ -58,6 +58,7 @@ const nextConfig = {
       { source: '/what-is-nft', destination: '/nft', permanent: true },
       { source: '/what-is-web3', destination: '/web3', permanent: true },
       { source: '/what-is-blockchain', destination: '/blockchain', permanent: true },
+      { source: '/where-b2b-stablecoin-money-actually-flows', destination: '/b2b-stablecoin-flows', permanent: true },
       { source: '/what-is-dao', destination: '/dao', permanent: true },
       { source: '/what-is-staking', destination: '/staking', permanent: true },
       { source: '/what-is-depin', destination: '/glossary/defi', permanent: true },
