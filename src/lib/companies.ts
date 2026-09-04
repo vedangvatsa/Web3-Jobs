@@ -24,6 +24,7 @@ const ATS_HOSTNAMES = new Set([
  'www.comeet.com', 'wellfound.com',
  'in.linkedin.com', 'sg.linkedin.com', 'il.linkedin.com',
  'de.linkedin.com', 'my.linkedin.com', 'eg.linkedin.com',
+ 'careers.tangem.com',
 ]);
 
 const ATS_HOSTNAME_SUFFIXES = [
@@ -43,6 +44,7 @@ function isAtsHostname(hostname: string): boolean {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'tangem': 'https://tangem.com',
  'kappa-lab': 'https://kappalab.io',
  'kappa-lab-ltd': 'https://kappalab.io',
  'kappalab': 'https://kappalab.io',
