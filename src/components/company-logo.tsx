@@ -14,18 +14,20 @@ export function CompanyLogo({
   name: string;
   size?: string;
 }) {
-  const cleanNameDomain = name.toLowerCase().replace(/[^a-z0-9]+/g, '') + '.com';
-  const autoFavicon = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${cleanNameDomain}&size=128`;
-
-  const primarySrc = logoSrc ?? faviconUrl ?? autoFavicon;
+  const primarySrc = logoSrc ?? faviconUrl ?? null;
   const [src, setSrc] = useState<string | null>(primarySrc);
 
   useEffect(() => {
-    setSrc(logoSrc ?? faviconUrl ?? autoFavicon);
-  }, [logoSrc, faviconUrl, autoFavicon]);
+    setSrc(logoSrc ?? faviconUrl ?? null);
+  }, [logoSrc, faviconUrl]);
 
   if (!src) {
-    return <Building2 className={`w-full text-muted-foreground ${size}`} />;
+    const initial = (name || 'C').trim().charAt(0).toUpperCase();
+    return (
+      <div className={`flex items-center justify-center rounded-lg bg-muted font-bold text-foreground/70 border border-border/50 select-none ${size}`}>
+        <span>{initial}</span>
+      </div>
+    );
   }
 
   return (
@@ -40,11 +42,6 @@ export function CompanyLogo({
           setSrc(faviconUrl);
           return;
         }
-        if (src !== autoFavicon) {
-          setSrc(autoFavicon);
-          return;
-        }
-
         setSrc(null);
       }}
     />
