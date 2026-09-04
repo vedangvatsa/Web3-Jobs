@@ -4,7 +4,7 @@ description: >-
   Coinbase is the largest U.S. crypto exchange. Learn what it offers, how fees
   work, what Base and USDC do, costs versus rivals, and how to start safely with
   verified facts from SEC filings and Coinbase docs.
-category: Exchange Guides
+category: Getting Started
 image: 'https://images.unsplash.com/photo-1621761191319-c6fb62004040?q=80&w=1080'
 imageAlt: Coinbase app on a phone with trading charts on a laptop
 data-ai-hint: coinbase exchange trading app
