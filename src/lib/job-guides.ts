@@ -245,10 +245,10 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
     if (block.type === 'h3') {
       flushList();
       isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
-      const spunHeading = spinJobPostingBlock(block.text, 'h3', isAboutSection);
+      const spunHeading = spinJobPostingBlock(block.text, 'h3', isAboutSection).replace(/[:]+$/, '').trim();
       const intro = getSectionIntro(spunHeading, job);
-      html += `<h3>${escapeHtml(spunHeading)}</h3>`;
-      if (intro) html += `<p class="text-sm text-muted-foreground">${intro}</p>`;
+      html += `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${escapeHtml(spunHeading)}</h3>`;
+      if (intro) html += `<p class="text-sm text-muted-foreground mb-3">${intro}</p>`;
       continue;
     }
     if (block.type === 'li') {
