@@ -8,7 +8,7 @@ description: >-
 category: Educational
 data-ai-hint: digital overlay
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Augmented Reality, or AR, enhances the real world by overlaying computer-generated information and digital content. Unlike virtual reality (VR), which immerses users in a completely artificial environment, AR supplements the user's actual surroundings without replacing them.

@@ -7,7 +7,7 @@ description: >-
  take before, during, and after the interview to maximize your chances.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Landing a job interview represents a significant milestone. It indicates that your [resume](/how-to-build-a-web3-resume-that-stands-out) and cover letter have resonated with the hiring team. Now, the focus shifts to demonstrating your skills, personality, and passion for the role. Preparation enables you to enter the interview with confidence, leaving a strong impression.

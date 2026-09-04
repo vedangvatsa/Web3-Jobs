@@ -7,7 +7,7 @@ description: >-
  identity ownership, open composability, protocol architecture, and tradeoffs.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 For the past fifteen years, digital identities have remained confined within centralized platforms. Your social graph, which includes your friends, followers, posts, and interactions, is one of your most valuable digital assets. Unfortunately, you do not own it. Platforms such as Facebook, Twitter, and TikTok control this data. If you leave a platform, your social graph disappears. Changes to algorithms can drastically affect your reach. Essentially, users operate as digital serfs, creating value on land they do not own.

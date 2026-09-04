@@ -8,7 +8,7 @@ description: >-
   a basic Forge test, and how its workflow compares with Hardhat.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 Foundry is a Rust-based toolkit for Ethereum development that lets you compile, test, fuzz, debug and deploy Solidity contracts from the command line. The official book at getfoundry.sh describes it as a blazing fast, portable and modular toolkit. You write tests and deployment scripts in Solidity and run them directly on a fast local EVM.

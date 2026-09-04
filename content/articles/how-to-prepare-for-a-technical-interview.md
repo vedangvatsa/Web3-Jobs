@@ -8,7 +8,7 @@ description: >-
   security checks, and behavioral questions.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 ## What a technical interview actually tests

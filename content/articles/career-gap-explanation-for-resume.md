@@ -8,7 +8,7 @@ image: 'https://picsum.photos/seed/315/1200/630'
 data-ai-hint: resume gap
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 An employment gap on your [resume](/how-to-build-a-web3-resume-that-stands-out) often raises concerns for job seekers. Many worry that hiring managers will view these gaps as indicators of instability or lack of commitment. However, career breaks are increasingly common and generally do not have the negative impact they once did. The key is to address the gap with clarity, honesty, and confidence.

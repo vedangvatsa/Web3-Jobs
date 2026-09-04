@@ -6,7 +6,7 @@ image: 'https://picsum.photos/seed/additivemfg/1200/630'
 data-ai-hint: two doors
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-02"
+lastUpdated: "2026-09-04"
 ---
 
 An agency sells services to many clients. An in-house team works for one employer on one brand or product. That single difference shapes your calendar, your manager, and what counts as good work.
