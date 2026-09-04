@@ -10,7 +10,6 @@ data-ai-hint: ai autonomy
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Automation follows rules you write. AI agency pursues goals you set. An AI agent perceives its environment, makes a plan, calls tools or smart contracts, and adjusts based on results, all within limits you define.
 
 This matters for anyone building or operating on [Web3](/what-is-web3), because blockchains make agent actions auditable and enforceable in code, but they do not fix model errors or key management failures. This guide maps the spectrum from automation to autonomy, shows where Web3 agents actually work today, and where human oversight still belongs.
@@ -229,3 +228,16 @@ When its confidence is low, when data sources disagree, when gas is unusually hi
 
 **What is the most common mistake teams make?**
 Granting broad key permissions before they have defined how to measure task success and before they have tested failure paths. Start narrow, measure accuracy and cost per task, introduce adversarial tests, and only then widen the permission set.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+9. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+10. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)

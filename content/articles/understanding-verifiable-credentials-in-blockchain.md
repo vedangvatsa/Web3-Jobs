@@ -3,14 +3,13 @@ title: Understanding Verifiable Credentials in Blockchain
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: certificate verification blockchain
 description: >-
- Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital
- credentials that can be verified on a blockchain. This guide explains how
- they.
+  Verifiable Credentials (VCs) are a W3C standard for tamper-proof digital
+  credentials that can be verified on a blockchain. This guide explains how
+  they.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the digital era, identity consists of claims made by various authorities. Governments assert citizenship, universities confirm degrees, and employers validate employment. Currently, we rely on physical documents or centralized systems to verify these claims. This approach is inefficient, insecure, and limits user control over personal data.
 
 The [Web3](/what-is-web3) approach addresses these issues through **[Decentralized Identity (DID)](/decentralized-identity-explained)**, with **Verifiable Credentials (VCs)** as a fundamental component. VCs provide a standardized, machine-readable format for claims, ensuring security, privacy, and user control. They represent a digital equivalent of passports, driver's licenses, and diplomas, securely stored in crypto [wallets](/how-to-choose-a-crypto-wallet).
@@ -86,3 +85,16 @@ The verifier learns only the essential information (that you are over 18) withou
 - **Revocation:** Establishing a reliable and standardized mechanism for credential revocation is essential for cases where credentials are lost or issued in error.
 
 Verifiable Credentials serve as a foundational technology for a more user-centric internet. They shift identity control from centralized providers to individuals, allowing claims to be verified while preserving privacy. VCs are critical for creating a secure, trustworthy, and equitable digital future.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

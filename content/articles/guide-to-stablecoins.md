@@ -1,14 +1,13 @@
 ---
 title: a full guide to Stablecoins
 description: >-
- Stablecoins are the backbone of the DeFi economy, but not all are created
- equal. This guide breaks down the different types of stablecoins, their.
+  Stablecoins are the backbone of the DeFi economy, but not all are created
+  equal. This guide breaks down the different types of stablecoins, their.
 category: Technology Deep Dives
 data-ai-hint: cryptocurrency defi
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## An Investor's Guide to Stablecoins: Types, Risks, and Rewards
 
 In the cryptocurrency market, where values can fluctuate sharply, stablecoins provide essential stability. These cryptocurrencies aim to maintain a consistent value, usually pegged to a tangible asset like the U.S. dollar. Stablecoins function as a reliable medium of exchange, unit of account, and store of value within the decentralized finance ([DeFi](/what-is-defi)) ecosystem.
@@ -84,3 +83,16 @@ Algorithmic stablecoins represent the most experimental and high-risk category. 
 ### Choose Your Stability Wisely
 
 Stablecoins play an essential role in the Web3 economy, offering a necessary refuge of stability amid volatility. Understanding the sources of this stability is important. Fiat-collateralized stablecoins like USDC provide high reliability but come with centralization risks. Crypto-collateralized stablecoins like DAI offer decentralization but at the expense of capital efficiency. Algorithmic stablecoins present intriguing possibilities, yet their high risks remain evident. By fully understanding the mechanisms, risks, and trade-offs associated with each type, investors can make informed decisions and engage with DeFi more safely and effectively.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

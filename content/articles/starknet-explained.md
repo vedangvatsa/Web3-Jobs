@@ -1,13 +1,14 @@
 ---
 title: Starknet Explained - The Cairo ZK Rollup Scaling Ethereum
 description: >-
-  Starknet is an Ethereum Layer 2 validity rollup that uses STARK proofs and the Cairo language to bundle thousands of transactions off chain and settle them on Ethereum. Learn how it works, what it costs, and how to build on it.
+  Starknet is an Ethereum Layer 2 validity rollup that uses STARK proofs and the
+  Cairo language to bundle thousands of transactions off chain and settle them
+  on Ethereum. Learn how it works, what it costs, and how to build on it.
 category: Technology Deep Dives
 data-ai-hint: starknet blockchain layer2
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Starknet is a validity rollup (also called a ZK rollup) that runs on top of Ethereum. It executes transactions off chain, bundles thousands of them into a single STARK proof, and posts that proof plus compressed state diffs to Ethereum for verification.
 
 StarkWare built it. StarkWare launched the StarkEx proving service in 2020 and Starknet itself went live on mainnet in late 2021. By 2026 it settles on Ethereum with STARK proofs that need no trusted setup, and it uses its own language, Cairo, instead of the EVM.
@@ -233,3 +234,16 @@ Core docs at docs.starknet.io/learn/protocol, Starknet site at starknet.io/devel
 ---
 
 *Sources: starknet.io/what-is-starknet and starknet.io/faqs (validity rollup definition, sequencer and prover roles, Cairo and STARK details); docs.starknet.io/learn/protocol/intro, /SNOS, /SHARP, /blocks, /data-availability, /fees, /accounts, /messaging, /staking, /strk, /cryptography (architecture, state diff formats v0.11.0 to v0.13.4, fee formula with L1 gas / L2 gas / L1 data gas and blob versus calldata, account structure with __validate__ and __execute__, L1-L2 messaging with 5-day cancel, staking phases with 20K STRK minimum / 1132-block epochs / 50-block window / alpha 0.25 BTC weight / 7-day lockup); starkware.co/starknet (Cairo verifier on Ethereum since 2020, StarkEx volume); starknet.io/blog Technical Roadmap March 2026 and Starknet in 2025 Year in Review Dec 2025 (Grinta v0.14.0 with 30s to 4s blocks / 0.5s pre-confirms / mempool with tips / v3 only STRK fees, v0.14.3 with dynamic L2 gas and 30 percent target cut, capacity over 1000 TPS / 127 TPS sustained record, 1.1B STRK staked, SN Stack flavors Madara and Dojo); governance.starknet.io and starknet.io/staking (BTC staking Q3 2025). Figures for blob size (128 KiB usable per blob), protocol limits, and Cairo builtin gas costs are from the docs pages cited. Accessed August 2026.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+4. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

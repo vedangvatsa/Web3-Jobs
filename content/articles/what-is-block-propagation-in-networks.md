@@ -1,15 +1,14 @@
 ---
 title: What is Block Propagation in Blockchain Networks?
 description: >-
- Explore the critical process of block propagation, how new blocks travel
- through a decentralized network, and why its speed is important for
- blockchain.
+  Explore the critical process of block propagation, how new blocks travel
+  through a decentralized network, and why its speed is important for
+  blockchain.
 category: Educational
 data-ai-hint: block propagation
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is Block Propagation in Blockchain Networks?
 
 A [blockchain](/what-is-a-blockchain) functions as a globally distributed ledger maintained by numerous independent nodes. Each node must agree on the same historical data for the system to operate effectively. Block propagation refers to the process of transmitting and validating newly created blocks across the entire peer-to-peer (P2P) network.
@@ -102,3 +101,16 @@ This number is configurable, but a standard Bitcoin or Ethereum node typically m
 
 **Can block propagation be attacked?** 
 Yes. An attacker might attempt an "eclipse attack," surrounding a specific node with malicious peers to feed it false information and isolate it from the true network state. Nodes have built-in defenses that complicate such attacks, including randomizing peer connections.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

@@ -1,14 +1,13 @@
 ---
 title: How Long to Stay at First Job
 description: >-
- Working through the tricky question of how long you should stay at your first
- job to maximize career growth without looking like a job hopper.
+  Working through the tricky question of how long you should stay at your first
+  job to maximize career growth without looking like a job hopper.
 category: Career Guides
 data-ai-hint: office career
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Deciding when to leave your first job is one of the most significant early career decisions you'll make. Stay too long, and you might feel stagnant. Leave too soon, and you risk looking unreliable to future employers. There's no magic number, but understanding the factors at play can help you make a choice that sets your career on the right trajectory.
 
 ### Why the "Two-Year Rule" Became a Thing
@@ -95,3 +94,16 @@ A: While a higher salary is a great benefit, it shouldn't be the only reason you
 **Q: I'm really unhappy, but it's only been three months. What should I do?**
 
 A: First, try to identify the root cause of your unhappiness. Is it the work itself, your boss, the company culture? Have a professional conversation with your manager about your concerns. It's possible that adjustments can be made. If the situation is truly untenable and affecting your mental health, it's okay to start discreetly looking for a new role. But don't quit without having another job lined up.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

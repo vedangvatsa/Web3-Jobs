@@ -3,14 +3,13 @@ title: Blockchain Explorer Guide for Bitcoin and Ethereum
 image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
 data-ai-hint: blockchain explorer map
 description: >-
- A beginner's guide to using blockchain explorers like Etherscan and
- Blockchain.com. Learn how to look up transactions, explore blocks, and read
- smart.
+  A beginner's guide to using blockchain explorers like Etherscan and
+  Blockchain.com. Learn how to look up transactions, explore blocks, and read
+  smart.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A public [blockchain](/what-is-a-blockchain) serves as a transparent and accessible ledger. Every transaction is recorded and available for anyone to view. To access this information, users rely on a **blockchain explorer**. A blockchain explorer is a web application that enables users to examine blockchain data in a user-friendly format. Think of it as a search engine tailored for blockchain information.
 
 For any serious [Web3](/what-is-web3) user, investor, or developer, mastering the use of a blockchain explorer is essential. This tool verifies transactions, audits [smart contracts](/what-are-smart-contracts), and tracks real-time network activity. This guide outlines how to effectively use the most popular explorers for [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum).
@@ -78,3 +77,13 @@ Most block explorers feature a real-time dashboard on their homepage that displa
 ### Trust, but Verify
 
 A blockchain explorer embodies the core ethos of Web3: "Don't trust, verify." It transforms blockchain from an abstract idea into an auditable database. Mastering this tool is essential for developers debugging transactions, investors researching projects, and users confirming payments. Proficiency with a block explorer is foundational for anyone pursuing a **[career in Web3](/how-to-start-a-web3-career)**.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

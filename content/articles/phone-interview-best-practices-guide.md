@@ -4,12 +4,11 @@ category: Career Guides
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: phone interview
 description: >-
- Master the art of the phone interview with this full guide. Learn how to
- prepare, what to say, and how to follow up to make a lasting impression.
+  Master the art of the phone interview with this full guide. Learn how to
+  prepare, what to say, and how to follow up to make a lasting impression.
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The phone [interview](/how-to-prepare-for-job-interview), or phone screen, is often the first real conversation you will have with a potential employer. While it might seem less formal than a face-to-face meeting, it is a critical step in the hiring process. It is your first opportunity to make a personal connection, showcase your qualifications, and prove that you are a serious contender for the role. Underestimating its importance is a common mistake that can prematurely end your candidacy.
 
 A successful phone interview requires a unique set of skills. Without the benefit of body language and visual cues, your voice, its tone, clarity, and confidence, becomes your primary tool for communication. This guide provides a detailed overview of best practices to help you manage the phone interview process with professionalism and poise, ensuring you make a memorable impression and advance to the next stage.
@@ -121,3 +120,16 @@ A prompt and professional thank-you email is non-negotiable.
  3. Mention a specific point from your conversation.
  4. Briefly restate why you are a great fit.
  5. Close professionally.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

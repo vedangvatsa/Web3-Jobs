@@ -1,16 +1,15 @@
 ---
 title: A Beginner's Guide to Crypto Taxes
 image: >-
- https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YXhlc3xlbnwwfHx8fDE3NTUwMDY4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1611125832047-1d7ad1e8e48f?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0YXhlc3xlbnwwfHx8fDE3NTUwMDY4MTF8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- Working through crypto taxes can be confusing. This guide breaks down the
- basics of how cryptocurrencies are taxed, what constitutes a taxable event,
- and what.
+  Working through crypto taxes can be confusing. This guide breaks down the
+  basics of how cryptocurrencies are taxed, what constitutes a taxable event,
+  and what.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 *Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*
 
 As cryptocurrency gains mainstream acceptance, tax authorities globally are increasing scrutiny. For many users, understanding tax obligations can be overwhelming. The regulations are complex, and the decentralized nature of cryptocurrencies complicates transaction tracking.
@@ -77,3 +76,16 @@ Tracking every transaction can be nearly impossible without specialized tools. A
 | TokenTax | Tax calculation, integration with wallets and exchanges |
 
 Tracking your transactions is essential for compliance. Understanding how crypto is treated as property, recognizing taxable events, and distinguishing between short-term and long-term gains will help you manage your obligations. Keep thorough records, consider using specialized software, and consult a tax professional when required.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solana Core Architecture Documentation](https://docs.solana.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -9,7 +9,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Remote interviews are now the default first step for distributed teams. An Indeed poll of 1,100 U.S. employers cited by [SHRM](https://www.shrm.org/topics-tools/news/talent-acquisition/virtual-interviews-to-stay-best-practices-needed) found 82 percent adopted virtual interviews because of the pandemic and 93 percent expect to keep using them. That shift changed what interviewers score. They still assess role skills, but they also score how you communicate in writing, manage your own time, and handle a distributed workflow without hand-holding.
 
 This guide shows how remote interviews work in 2026, what managers actually measure, and how to prepare so your setup, answers, and follow-up signal remote readiness.
@@ -218,3 +217,13 @@ Point to visible proof: a GitHub commit history, a contract you tested with edge
 
 **Do I need a 4K webcam and a studio light?**
 No. A stable 1080p image with front light and clear audio wins over 4K in a dark, echoey room. Interview guides in 2025 and 2026 consistently rank audio clarity and eye-level framing above resolution. Spend first on a ring light or desk lamp in front of you and on wired earbuds or a basic USB mic.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

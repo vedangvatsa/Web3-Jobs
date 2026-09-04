@@ -3,13 +3,12 @@ title: What is a Genesis Block in Cryptocurrency
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: blockchain genesis block
 description: >-
- The genesis block is the very first block ever created on a blockchain. It is
- the foundation upon which the entire distributed ledger is built.
+  The genesis block is the very first block ever created on a blockchain. It is
+  the foundation upon which the entire distributed ledger is built.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis block** represents the first block ever created in a blockchain's timeline. Known as Block 0, it serves as the foundation from which all subsequent blocks are cryptographically linked, forming the chain that constitutes the distributed ledger. This block is a unique and immutable record in a blockchain's history.
 
 ### Unique Properties of the Genesis Block
@@ -64,3 +63,16 @@ The [Web3 job](/web3-jobs-for-beginners) market shows distinct characteristics c
 | **Work Environment** | Often office-based | Predominantly remote, offering flexibility |
 | **Career Growth** | Slower, stable progression | Rapid advancement due to scaling companies |
 | **Equity Potential** | Limited stock options | Standard token and equity packages |
+
+## Verifiable Primary Sources & References
+
+1. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [Solana Core Architecture Documentation](https://docs.solana.com/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

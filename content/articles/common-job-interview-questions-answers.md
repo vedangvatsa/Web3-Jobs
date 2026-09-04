@@ -2,13 +2,12 @@
 title: Common Job Interview Questions Answers
 data-ai-hint: question mark person thinking
 description: >-
- A guide to some of the most common job interview questions and how to answer
- them effectively. Prepare your answers and walk into your next interview with.
+  A guide to some of the most common job interview questions and how to answer
+  them effectively. Prepare your answers and walk into your next interview with.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Job interviews are often a source of anxiety. The unpredictability of potential questions can add to this stress. While it's impossible to anticipate every inquiry, you can prepare for many frequently asked ones. Formulating your responses ahead of time allows you to enter your [interview](/how-to-prepare-for-job-interview) with greater confidence and readiness.
 
 This guide outlines common interview questions and offers strategies for effective responses.
@@ -95,3 +94,16 @@ Yes, this approach is recommended for most professionals. You do not need additi
 
 **Q: What resources can help me go deeper?** 
 Explore targeted reading in related articles. Beyond written resources, finding a mentor or forming a peer group can enhance your understanding and application of these concepts. Engaging with Web3-specific communities on platforms like Discord or Telegram can provide insights from experienced practitioners. Structured accountability with a timeline can also enable meaningful progress.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

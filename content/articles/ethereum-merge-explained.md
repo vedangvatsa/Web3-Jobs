@@ -3,14 +3,13 @@ title: Ethereum Merge Explained
 description: >-
   What the Merge was, when it happened, and what it changed. Ethereum switched
   from proof-of-work to proof-of-stake on September 15, 2022 without downtime,
-  cutting energy use by about 99.95 percent and changing how blocks are
-  produced and how ETH is issued.
+  cutting energy use by about 99.95 percent and changing how blocks are produced
+  and how ETH is issued.
 category: Technology Deep Dives
 data-ai-hint: ethereum merge beacon chain
 publishedDate: '2022-09-15'
 lastUpdated: "2026-09-04"
 ---
-
 The Merge was Ethereum's switch from proof-of-work to proof-of-stake. On September 15, 2022 at 06:42:42 UTC, Ethereum Mainnet merged with the Beacon Chain and stopped using mining to produce blocks. Validators who stake ETH took over that role.
 
 No history was lost. No balances changed. No user action was required. ETH stayed ETH.
@@ -159,3 +158,16 @@ In normal operation a transaction is included in a block within a slot, then jus
 
 **Where can I verify this?**
 Start with the pages that shipped the Merge: ethereum.org/roadmap/merge, ethereum.org/roadmap/beacon-chain, ethereum.org/energy-consumption, ethereum.org/roadmap/merge/issuance, and the protocol announcement on blog.ethereum.org dated August 24, 2022. The consensus and execution specs for Bellatrix and Paris are linked from those pages.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

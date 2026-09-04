@@ -2,13 +2,14 @@
 title: What is DeFi? A Beginner's Guide to Decentralized Finance
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-
-  DeFi (Decentralized Finance) rebuilds financial services on blockchain networks using smart contracts. Learn how lending, trading, and stablecoins work, who it is for, and the risks to weigh before you use it.
+  DeFi (Decentralized Finance) rebuilds financial services on blockchain
+  networks using smart contracts. Learn how lending, trading, and stablecoins
+  work, who it is for, and the risks to weigh before you use it.
 category: Industry Insights
 data-ai-hint: defi explained
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 DeFi is a set of financial applications built on public blockchains that run through smart contracts instead of banks, brokers, or exchanges. A smart contract is a program at a blockchain address that holds funds and executes when its conditions are met, and no one can change it after deployment except through its coded governance. On Ethereum, where most DeFi operates, this means you can lend, borrow, trade, and create dollar-pegged assets without handing custody to an intermediary.
 
 Ethereum describes the model directly: in DeFi a smart contract replaces the financial institution in the transaction, and contracts are public for anyone to inspect and audit.
@@ -184,3 +185,16 @@ It is the shortfall you get when the value of your share in a two-asset pool end
 
 **Is DeFi regulated?**
 Partially and unevenly. Smart contracts themselves are permissionless, but stablecoin issuers, front ends, and fiat on-ramps often face securities, lending, or anti-money laundering rules. Frameworks like MiCA in the EU and proposed stablecoin bills in the US are shaping what issuers and custodians must do, which affects which assets and interfaces are available in your region.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)

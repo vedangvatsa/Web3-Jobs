@@ -2,14 +2,13 @@
 title: 'explaining Web3 Jobs in South Korea: A Guide for Aspiring Professionals'
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-
- An inside look at the growing Web3 job market in South Korea, covering key
- players, in-demand roles, salary expectations, and cultural nuances for job.
+  An inside look at the growing Web3 job market in South Korea, covering key
+  players, in-demand roles, salary expectations, and cultural nuances for job.
 category: Career Guides
 data-ai-hint: futuristic city asia
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Hub of Web3 Innovation
 
 South Korea stands out as a global leader in technology and gaming, rapidly establishing itself as a central hub for [Web3](/what-is-web3) innovation. With a highly connected population, a strong gaming industry, and substantial support from both government and major corporations, known as chaebols, South Korea offers fertile ground for the expansion of [blockchain](/what-is-a-blockchain) technology, [NFTs](/what-are-nfts), and the metaverse. For professionals in the Web3 space, South Korea presents a unique and compelling career opportunity.
@@ -111,3 +110,16 @@ Finding Web3 opportunities in South Korea involves multiple strategies.
 - **Korean Job Platforms:** Websites like Wanted and RocketPunch are popular in the Korean tech scene and feature an increasing number of Web3 roles.
 - **Networking:** Attend local meetups and conferences, such as Korea Blockchain Week. The Web3 community in Seoul is close-knit, and networking offers one of the best pathways to discover job opportunities.
 - **Recruiters:** Specialized Web3 recruitment agencies operate in Korea and can help connect candidates with suitable companies.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

@@ -2,14 +2,13 @@
 title: What is DYOR in Crypto? Do Your Own Research Guide
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 description: >-
- Learn what DYOR (Do Your Own Research) means in the crypto world and how to
- effectively research Web3 projects to make informed decisions and avoid scams.
+  Learn what DYOR (Do Your Own Research) means in the crypto world and how to
+  effectively research Web3 projects to make informed decisions and avoid scams.
 category: Career Guides
 data-ai-hint: research analysis
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 DYOR, or "Do Your Own Research," is a prevalent term in the crypto community. You will find it in Discord channels, Twitter threads, and various online forums. It serves as a disclaimer, advice, and sometimes criticism directed at those making investment decisions without a deep understanding of their choices.
 
 While the principle of conducting research before investing seems straightforward, in the crypto context, it is more specific. DYOR emphasizes that no one else bears the responsibility for your financial decisions. No celebrity endorsements, influencer promotions, or financial advisors can substitute for your own understanding and evaluation of where you place your money.
@@ -89,3 +88,16 @@ The same research skills that help you sidestep poor investments also prevent yo
 DYOR serves as a philosophical reminder that in crypto, reliance on institutions is unwise. You must take responsibility for your decisions, which requires thorough research, critical thinking, and skepticism.
 
 For anyone engaged in Web3, whether as an investor, employee, or builder, applying DYOR principles to your choices will prove advantageous. Always verify claims and form your own understanding, rather than succumbing to external opinions.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)

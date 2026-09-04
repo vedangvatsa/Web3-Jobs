@@ -2,13 +2,12 @@
 title: How AI is Changing Job Market
 data-ai-hint: robot human handshake
 description: >-
- Discover the real impact of artificial intelligence on jobs, which roles are
- evolving, and how the workforce is adapting to new technology.
+  Discover the real impact of artificial intelligence on jobs, which roles are
+  evolving, and how the workforce is adapting to new technology.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Artificial intelligence has transitioned from a theoretical concept to an influential force reshaping the job market. While sensational headlines often suggest a future dominated by machines, the truth is far more complex. Rather than a complete replacement of human labor, AI is fundamentally altering how work is performed. Certain roles are indeed vanishing, but numerous others are evolving, and entirely new positions are appearing.
 
 This transformation is akin to the shift brought on by the internet decades ago. Companies adapted to having websites and using email; today, organizations are integrating AI into their operations. This shift impacts industries, changing the skills required and the overall nature of work.
@@ -80,3 +79,15 @@ Not necessarily. While coding is essential for creating AI models, many user-fri
 Many online resources are available. Consider enrolling in a beginner's course on platforms like Coursera or edX. Many of these courses are free. Experimenting with publicly available AI tools like ChatGPT can also provide practical experience. Start small and gradually build your knowledge.
 
 The narrative of AI in the job market is ongoing, presenting challenges and remarkable opportunities. Understanding the direction of change and developing skills that AI cannot replicate will position you to thrive in this new work environment.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

@@ -10,7 +10,6 @@ data-ai-hint: nft explainer
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is an NFT
 
 An NFT is a unique token recorded on a [blockchain](/what-is-a-blockchain) that proves ownership of a specific item. Unlike one bitcoin that equals any other bitcoin, each NFT is distinct and cannot be swapped one-for-one.
@@ -179,3 +178,10 @@ Yes. Anyone can right-click and save the image. The NFT proves you own the verif
 **Are NFTs still a viable career area?**
 There are durable roles, but fewer speculative ones than in 2021. Developers who know Solidity, ERC-721 and ERC-1155, gas optimization, and secure contract patterns work on minting platforms and games. Backend and frontend developers build indexers, metadata services, and wallet-connected interfaces. Community, marketing, design, and operations roles exist, yet hiring follows market cycles and is tighter in bear markets. Pick teams with real users, audited contracts, and clear licensing, and avoid projects that cannot explain utility beyond resale.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)

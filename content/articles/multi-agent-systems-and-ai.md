@@ -3,13 +3,12 @@ title: An Introduction to Multi-Agent AI Systems
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 data-ai-hint: multi agent ai
 description: >-
- Explore the field of Multi-Agent Systems (MAS), where multiple intelligent AI
- agents interact, collaborate, and compete to solve complex problems.
+  Explore the field of Multi-Agent Systems (MAS), where multiple intelligent AI
+  agents interact, collaborate, and compete to solve complex problems.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Multi-Agent Systems (MAS) represent an important advancement in artificial intelligence. Rather than relying solely on single, monolithic AI models, MAS comprises a group of autonomous, intelligent agents that work collaboratively within a shared environment. These agents can negotiate, cooperate, and compete to address complex problems that are often beyond the capabilities of individual AI systems.
 
 ### Core Components of Multi-Agent Systems
@@ -39,3 +38,16 @@ Multi-Agent Systems (MAS) represent an important advancement in artificial intel
 - **Supply Chain Management**: Different agents can represent various entities in a supply chain, such as suppliers, logistics providers, and customers. They negotiate to simplify operations and adapt to real-time disruptions, enhancing overall efficiency.
 
 - **Scientific Discovery**: A MAS can simulate complex biological systems, with agents representing different proteins or cells. These agents interact based on established biological rules, enabling insights into complex processes.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

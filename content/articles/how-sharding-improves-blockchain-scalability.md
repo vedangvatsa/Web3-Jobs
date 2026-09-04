@@ -3,13 +3,12 @@ title: How Sharding Improves Blockchain Scalability
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: blockchain network scalability
 description: >-
- A deep dive into sharding, a powerful technique for improving blockchain
- throughput and scalability by splitting the network into smaller, manageable.
+  A deep dive into sharding, a powerful technique for improving blockchain
+  throughput and scalability by splitting the network into smaller, manageable.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is the **scalability trilemma**. This issue asserts that achieving decentralization, security, and scalability in a blockchain simultaneously poses significant challenges. Developers are exploring various scaling solutions, with **sharding** emerging as a prominent Layer 1 technique to tackle these issues.
 
 ## The Scalability Crisis
@@ -138,3 +137,16 @@ Understanding sharding can be beneficial for various professionals:
 - **Systems Engineers:** Implementing sharding requires extensive knowledge of distributed systems.
 
 Professionals adept at working through the technical complexities of sharding are in high demand in the [Web3](/what-is-web3) ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

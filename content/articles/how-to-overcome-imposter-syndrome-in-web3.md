@@ -1,5 +1,5 @@
 ---
-title: 'How to Overcome Imposter Syndrome in Web3'
+title: How to Overcome Imposter Syndrome in Web3
 description: >-
   Impostor feelings are common in Web3, where the stack changes fast and your
   work is public on GitHub and on chain. This guide explains what research
@@ -10,7 +10,6 @@ data-ai-hint: person working at desk with notes
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Impostor feelings are the persistent belief that you are not as competent as others think you are, and that you have fooled people and will be found out. In Web3 that belief often shows up when the tools change every few months and your code, transactions, and portfolio are visible to anyone.
 
 This guide explains what the research actually says, who is most affected in Web3, why the ecosystem can make doubt louder, and what to do about it with steps you can test in the next 30 days.
@@ -213,3 +212,15 @@ Spend 30 minutes using the protocol you would join, note what confused you, and 
 
 *For team leads.* If you manage people, the literature points the same way: make success criteria explicit, give timely specific feedback tied to observable work, rotate visible opportunities, and invite brief post-mortems where both wins and misses are discussed as normal work. Those moves do not require a formal program, but they lower the cost of asking for help.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+10. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)

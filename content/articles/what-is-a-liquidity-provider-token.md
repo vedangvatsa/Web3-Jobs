@@ -1,15 +1,14 @@
 ---
 title: What is a Liquidity Provider (LP) Token?
 description: >-
- A complete guide to understanding Liquidity Provider (LP) tokens, how they
- represent your share in a liquidity pool, and their central role in DeFi
- yield.
+  A complete guide to understanding Liquidity Provider (LP) tokens, how they
+  represent your share in a liquidity pool, and their central role in DeFi
+  yield.
 category: Educational
 data-ai-hint: liquidity provider
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is a Liquidity Provider (LP) Token?
 
 In Decentralized Finance ([DeFi](/what-is-defi)), Liquidity Provider (LP) [tokens](/what-is-a-token) serve as essential components for Automated Market Makers (AMMs) such as Uniswap and Curve. When you add liquidity to a [DEX](/what-is-a-decentralized-exchange-dex) liquidity pool, you receive LP tokens as a representation of your share in that pool.
@@ -94,3 +93,16 @@ A: The value of an LP token is directly linked to the underlying assets in the l
 
 **Q: Is providing liquidity the same as staking?** 
 A: No, providing liquidity entails depositing a pair of assets into a DEX pool for trading purposes, receiving LP tokens in return. Staking typically refers to locking up a single asset to secure a Proof-of-Stake network or staking LP tokens in a yield farm for rewards.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

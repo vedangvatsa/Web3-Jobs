@@ -3,13 +3,12 @@ title: 'The On-Chain Resume: Your Web3 Proof of Work'
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: on-chain resume
 description: >-
- In Web3, your wallet is your resume. This guide explains how your on-chain
- activity-from governance votes to NFT collections-is becoming the new.
+  In Web3, your wallet is your resume. This guide explains how your on-chain
+  activity-from governance votes to NFT collections-is becoming the new.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the traditional job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a curated document summarizing your achievements and experiences. However, in the transparent environment of [Web3](/what-is-web3), this model evolves into a more dynamic and verifiable credential known as your **on-chain resume**.
 
 An on-chain resume is not merely a document; it represents a public record of your blockchain activities. This record is permanently stored on the [blockchain](/what-is-a-blockchain) and encompasses your transactions, governance votes, contributions to [DAOs](/what-is-a-dao), and the assets held in your crypto [wallet](/how-to-choose-a-crypto-wallet). In a trustless environment, this "proof of work" becomes essential for establishing a reputation and demonstrating your skills and expertise. For professionals in Web3, a well-curated on-chain resume is a key strategy for career advancement.
@@ -65,3 +64,16 @@ It's beneficial to have distinct wallets for different purposes:
 As the Web3 sector grows, your on-chain resume may gain even more significance. New protocols are emerging that enable users to attach attestations and verifiable credentials to their wallets. This could allow for a rich and user-owned professional identity, encompassing your university degree, work history, and professional certifications.
 
 The rise of the on-chain resume marks a significant shift away from unverifiable claims. Instead, your reputation will reflect your public actions. For Web3 professionals, the message is clear: the most impactful story is the one documented on the blockchain.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

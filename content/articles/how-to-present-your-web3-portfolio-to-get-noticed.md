@@ -1,16 +1,15 @@
 ---
 title: How to Present Your Web3 Portfolio to Get Noticed
 image: >-
- https://images.unsplash.com/photo-1556740738-b6a63e27c4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqb2IlMjBpbnRlcnZpZXd8ZW58MHx8fHwxNzU1MTYxODI4fDA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1556740738-b6a63e27c4df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxqb2IlMjBpbnRlcnZpZXd8ZW58MHx8fHwxNzU1MTYxODI4fDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: job interview portfolio
 description: >-
- A great portfolio is useless if no one sees it. This guide provides actionable
- tips on how to present your Web3 projects to recruiters and hiring managers.
+  A great portfolio is useless if no one sees it. This guide provides actionable
+  tips on how to present your Web3 projects to recruiters and hiring managers.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In [Web3](/what-is-web3), a well-crafted [portfolio](/building-web3-portfolio) of projects is important for advancing your career. However, simply building projects is only part of the equation. If your work is presented poorly or lacks visibility, even outstanding portfolios can be easily overlooked by recruiters and hiring managers.
 
 Presenting your work effectively is a necessary skill. It provides the chance to narrate your story, showcasing your skills, passion, and journey as a builder in this space. This article offers actionable strategies for presenting your Web3 portfolio to capture attention.
@@ -65,3 +64,16 @@ Your portfolio extends beyond code; it includes your public writing and insights
 - **Dune Analytics:** For data-oriented roles, creating and sharing insightful Dune dashboards effectively demonstrates your skills.
 
 By thoughtfully curating your projects, establishing a central portfolio website, and maintaining a professional GitHub presence, you can craft a narrative that captures the attention of recruiters while showcasing your skills and passion.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

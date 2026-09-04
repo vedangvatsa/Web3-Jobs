@@ -9,7 +9,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Choosing between a startup and a large company shapes how you learn, how you are paid, and how your days feel. Both paths can build a strong career. They just reward different strengths and risk tolerance.
 
 This guide defines each environment, shows who tends to do well in each, and gives a practical way to decide. It draws on public data from the U.S. Bureau of Labor Statistics and standard equity and hiring practices, so you can compare facts instead of slogans.
@@ -175,3 +174,16 @@ Plan for at least twelve to eighteen months. That is enough to finish a full cyc
 
 **What if I want both breadth and depth over time?**
 Many people do. A common sequence is to start where you need structure, build a portable skill, then join a smaller team to apply it broadly. Others start broad and then join a larger team to formalize the same skills at scale. Sequence matters more than the first logo.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

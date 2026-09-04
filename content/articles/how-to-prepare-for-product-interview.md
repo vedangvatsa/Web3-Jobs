@@ -2,14 +2,14 @@
 title: How to Prepare for a Product Interview
 data-ai-hint: product manager interview whiteboard
 description: >-
-  A practical guide to preparing for product manager interviews in 2026, with specific
-  steps for product sense, analytical and execution rounds, behavioral stories, technical
-  fluency, and Web3 checks on tokenomics, governance, and security.
+  A practical guide to preparing for product manager interviews in 2026, with
+  specific steps for product sense, analytical and execution rounds, behavioral
+  stories, technical fluency, and Web3 checks on tokenomics, governance, and
+  security.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What a product interview actually tests
 
 A product interview checks whether you can define the right problem, choose what to build, and know if it worked. In 2026 most companies run a sequence of filters: resume screen, recruiter screen, a product sense phone screen, then an onsite loop where you work through cases with a PM watching how you think. For Web3 roles the same sequence applies, but the loop adds questions on token design, governance, and security trade-offs.
@@ -274,3 +274,16 @@ Check the primary sources behind the claims in this guide:
 - Dune Analytics at dune.com and DefiLlama at defillama.com: on-chain data for dashboards and metric practice
 
 If you can explain each choice in your portfolio without notes, handle a live edit that adds a guardrail metric or a timelock, and walk through a STAR story with a number and a lesson, you are ready for most product interviews in 2026.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+9. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+10. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)

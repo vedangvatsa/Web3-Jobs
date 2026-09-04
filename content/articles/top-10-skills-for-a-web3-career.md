@@ -1,15 +1,14 @@
 ---
 title: The Top 10 Essential Skills for a growing Career in Web3
 description: >-
- Want to break into Web3? The rules are different. This guide breaks down the
- top 10 most in-demand skills, both technical and non-technical, that you need.
+  Want to break into Web3? The rules are different. This guide breaks down the
+  top 10 most in-demand skills, both technical and non-technical, that you need.
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Career Guides
 data-ai-hint: glowing orb
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: The Web3 Talent Gap
 
 The Web3 revolution has arrived, bringing a surge of opportunities across various sectors. As this industry expands from a niche interest into a significant technological movement, the need for skilled professionals is increasing rapidly. The skills required for success in Web3 differ from those valued in the Web2 environment. It is essential not only to possess knowledge but also to adopt a mindset that encourages learning and collaboration within a decentralized ecosystem.
@@ -100,7 +99,7 @@ In Web3, your non-technical skills often hold equal importance to your technical
 
 **Importance:** The pace of change in Web3 is rapid. Technologies that dominate today may become obsolete tomorrow. Continuous learning is essential for survival.
 
-- **Mindset:** Embrace being uncomfortable and remain open to new languages, frameworks, and concepts. Learning how to learn is a vital meta-skill.
+- **Mindset:** adopt being uncomfortable and remain open to new languages, frameworks, and concepts. Learning how to learn is a vital meta-skill.
 - **Practice:** Allocate time each week to read whitepapers, experiment with new dApps, and listen to industry podcasts. Stay curious.
 
 ### 10. "Proof of Work" & Building in Public
@@ -113,3 +112,16 @@ In Web3, your non-technical skills often hold equal importance to your technical
  - **For Writers:** Start a blog or Substack focused on insightful analysis.
  - **For Community Builders:** Serve as a valued moderator or contributor in a DAO.
 - **Building in Public:** Share your learning journey on Twitter. Transparency about your successes and failures builds trust and attracts opportunities.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)

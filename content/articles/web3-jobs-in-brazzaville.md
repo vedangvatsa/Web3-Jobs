@@ -2,13 +2,12 @@
 title: 'Web3 Jobs in Brazzaville: A Guide to the Republic of the Congo''s Tech Scene'
 data-ai-hint: brazzaville congo city
 description: >-
- A career guide to the emerging Web3 job market in Brazzaville. Explore how the
- capital of the Republic of the Congo is beginning to engage with blockchain.
+  A career guide to the emerging Web3 job market in Brazzaville. Explore how the
+  capital of the Republic of the Congo is beginning to engage with blockchain.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Brazzaville, the capital of the Republic of the Congo, is building its technological aspirations. The city benefits from a wealth of natural resources and a youthful, urban population. As Brazzaville explores [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technologies, it aims to modernize and diversify its economy. Although the local tech ecosystem is in its infancy, a community of tech enthusiasts and entrepreneurs is emerging, focusing on decentralized technologies to address issues in finance, logistics, and governance.
 
 The Web3 scene in Brazzaville emphasizes enterprise applications, particularly in natural resource management, while striving to create more inclusive financial systems. Positioned as a key hub in Central Africa and a member of the Francophone community, Brazzaville holds promise as a center for regional Web3 innovation. This guide offers insights into the [Web3 career](/web3-jobs-for-beginners) opportunities in Brazzaville, highlighting growth areas and essential skills for professionals aiming to lead in this evolving market.
@@ -213,3 +212,16 @@ Yes, but it typically requires grant funding. Apply to organizations like the Wo
 
 **Should I stay in Brazzaville or relocate for better opportunities?**
 Remote work is a viable option from Brazzaville. If your goal is to gain experience in enterprise sales or community building, being on-site may be advantageous. Consider starting with remote work before deciding.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+6. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

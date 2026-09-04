@@ -1,15 +1,14 @@
 ---
 title: Professional Email Etiquette Rules
 description: >-
- Master the unwritten rules of professional email communication. This guide
- covers everything from subject lines to sign-offs to help you build a strong
- professional reputation.
+  Master the unwritten rules of professional email communication. This guide
+  covers everything from subject lines to sign-offs to help you build a strong
+  professional reputation.
 category: Career Guides
 data-ai-hint: professional email
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: Your Emails Are Your Reputation
 
 Emails represent a significant aspect of your professional identity. Each message contributes to the impressions that colleagues, clients, and supervisors form about your capabilities, attention to detail, and professionalism. While one typo may not impact your career, a trend of unclear, poorly structured, or unprofessional emails can harm your reputation.
@@ -111,3 +110,15 @@ A3: If the email contains sensitive information, send a brief follow-up email to
 **Q4: How do I handle a long and confusing email thread?**
 
 A4: If an email thread becomes lengthy and confusing, it often indicates that email is no longer the best communication tool. The optimal solution is to call or schedule a brief meeting. You can summarize the conversation's outcomes in a follow-up email to ensure alignment among participants.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

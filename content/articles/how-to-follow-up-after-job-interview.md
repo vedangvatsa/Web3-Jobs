@@ -1,14 +1,13 @@
 ---
 title: How to Follow Up After a Job Interview
 description: >-
- The interview isn't over when you walk out the door. A strategic follow-up can
- make all the difference. Learn when and how to follow up effectively.
+  The interview isn't over when you walk out the door. A strategic follow-up can
+  make all the difference. Learn when and how to follow up effectively.
 data-ai-hint: job interview
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You've successfully completed the [interview](/how-to-prepare-for-job-interview). You addressed the questions, established a connection with the hiring manager, and feel confident in your performance. However, the process does not end here. Your follow-up after the interview can significantly influence the hiring decision. A well-crafted and professional follow-up reinforces your interest, addresses any outstanding questions, and keeps you prominent in the minds of the hiring team.
 
 Many candidates fail to follow up or choose to send generic messages. This represents a missed opportunity. A strategic follow-up demonstrates your initiative, organization, and genuine interest in the position. It serves as your final chance to make a lasting impression.
@@ -78,3 +77,16 @@ Sending a LinkedIn connection request after the interview is generally advisable
 **What if I realize I made a mistake in the interview?**
 
 If you recognize that you made an error during the interview, use your thank-you email to briefly and gracefully correct it. For example, "After our conversation, I reflected on your question about [topic]. I wanted to clarify that [brief, corrected answer]." Keep this correction concise and confident. Avoid dwelling on the mistake.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

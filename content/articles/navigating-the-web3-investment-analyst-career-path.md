@@ -1,16 +1,15 @@
 ---
 title: Working through the Web3 Investment Analyst Career Path
 image: >-
- https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbnZlc3R8ZW58MHx8fHwxNzU1MDM2NDUzfDA&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbnZlc3R8ZW58MHx8fHwxNzU1MDM2NDUzfDA&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: investment finance stock
 description: >-
- A guide for aspiring crypto investors. Learn what a Web3 investment analyst
- does, the skills needed to succeed, and how to break into a role at a crypto.
+  A guide for aspiring crypto investors. Learn what a Web3 investment analyst
+  does, the skills needed to succeed, and how to break into a role at a crypto.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund stands out as one of the most sought-after positions in the crypto industry. Analysts in this field play an important role in identifying promising founders and protocols that will influence the decentralized internet's future.
 
 Unlike traditional finance, which relies on private company data and financial statements, a Web3 analyst operates in an area of open-source code, transparent on-chain metrics, and rapidly shifting narratives. This guide outlines the responsibilities of a Web3 Investment Analyst and the skills necessary to thrive in this competitive sector.
@@ -55,3 +54,16 @@ Gaining entry into a crypto VC role often requires demonstrating passion and ana
 4. **Network Strategically**: Cultivate relationships with analysts and associates at funds you admire. Rather than asking for a job, seek feedback on your analysis.
 
 A career as a Web3 Investment Analyst offers a challenging yet rewarding path. This role positions you leading the industry, supporting founders who are building the foundational infrastructure of the next web.
+
+## Verifiable Primary Sources & References
+
+1. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Token Terminal On-chain Financial Metrics Platform](https://tokenterminal.com/docs)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

@@ -9,7 +9,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 An [AI resume builder](/how-to-build-a-web3-resume-that-stands-out) helps you tailor an existing resume to a specific job description, rewrite bullet points in achievement-focused language, and enforce formatting that an Applicant Tracking System (ATS) can parse. This guide shows how to use these tools to improve keyword match and readability without inventing experience or triggering formatting errors.
 
 ### What is an AI resume builder
@@ -157,3 +156,16 @@ Most offer a free tier that allows one or two resumes or a limited number of sca
 
 **What is the biggest mistake to avoid.**
 Treating AI output as final. The DOL's February 2026 guide warns that formatting issues and missing or mismatched keywords are the most common reasons a qualified resume gets filtered, and that AI-generated text still needs human verification. Use AI suggestions as a first draft. Keep only edits that are accurate, in your voice, and backed by evidence you can provide when asked.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

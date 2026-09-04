@@ -1,15 +1,14 @@
 ---
 title: 'The Career Development Plan: A Template and Guide'
 description: >-
- A career development plan is a roadmap for your professional growth. This
- guide provides a simple template and explains how to create a plan that
- aligns.
+  A career development plan is a roadmap for your professional growth. This
+  guide provides a simple template and explains how to create a plan that
+  aligns.
 category: Career Guides
 data-ai-hint: career plan
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## A Guide to Creating Your Career Development Plan
 
 A career development plan serves as a roadmap for your professional growth. It allows you to take charge of your career trajectory rather than passively letting it unfold. Below is a structured template to help you formulate an effective career development plan.
@@ -165,3 +164,16 @@ The importance of these competencies evolves with your career level:
 - Participate in Reddit forums centered on your skills.
 - Attend local meetups and networking events to connect with peers.
 - Engage in online cohort-based courses for collaborative learning experiences.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

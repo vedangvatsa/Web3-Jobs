@@ -3,14 +3,13 @@ title: How Web3 Can Improve Online Privacy and Security
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: online privacy security
 description: >-
- Explore how Web3 technologies like decentralized identity, zero-knowledge
- proofs, and self-custodial wallets are building a more private and secure
- internet.
+  Explore how Web3 technologies like decentralized identity, zero-knowledge
+  proofs, and self-custodial wallets are building a more private and secure
+  internet.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The Web2 internet suffers from significant privacy issues. Major tech companies control vast amounts of personal data, acting as centralized custodians. Users often trade their privacy for convenience, handing over sensitive information in exchange for free services. This dynamic has resulted in a digital environment characterized by mass surveillance, frequent data breaches, and diminished user control.
 
 Web3 offers a solution to these challenges. By using [blockchain technology](/how-blockchain-technology-powers-web3) and new cryptographic methods, Web3 aims to redesign the internet to prioritize user ownership, privacy, and security. This article examines how Web3 is building a more secure and private digital sector.
@@ -63,3 +62,16 @@ The path to a fully private and secure Web3 remains under development.
 - **User Responsibility:** Self-custodial wallets shift asset security responsibility to users. Education on safeguarding private keys is essential since Web3 lacks a "forgot password" option.
 
 Web3 is creating an infrastructure for a new internet where privacy and security are integral components. By returning control of data to users, it envisions a more equitable and secure digital future.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

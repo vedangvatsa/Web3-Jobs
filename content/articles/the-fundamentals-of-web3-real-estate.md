@@ -1,15 +1,14 @@
 ---
 title: The Fundamentals of Web3 Real Estate Investing
 description: >-
- A foundational guide to the intersection of Web3 and real estate. Learn how
- tokenization is making real estate more accessible, liquid, and transparent.
+  A foundational guide to the intersection of Web3 and real estate. Learn how
+  tokenization is making real estate more accessible, liquid, and transparent.
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 category: Industry Insights
 data-ai-hint: modern building architecture
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## A New Foundation: Understanding the Fundamentals of Web3 Real Estate
 
 Real estate has long served as a primary avenue for wealth creation. Unfortunately, this asset class has historically presented high barriers to entry, low liquidity, and an unwieldy paper-based transaction process. As a result, many retail investors find it challenging to enter the market or manage property investments effectively.
@@ -71,3 +70,16 @@ While still maturing, the Web3 real estate industry holds immense potential. Fut
 2. **Automated Rental Income**: Smart contracts can enable the collection and distribution of rental income to token holders' wallets monthly, simplifying income management.
 
 3. **[DAO](/what-is-a-dao)-Governed Properties**: Token holders may collectively manage properties as a Decentralized Autonomous Organization (DAO), participating in decisions related to maintenance and rental policies.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

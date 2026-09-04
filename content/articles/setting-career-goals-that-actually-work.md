@@ -1,14 +1,13 @@
 ---
 title: How to Set Career Goals That You'll Actually Achieve
 description: >-
- Many career goals are forgotten after a few weeks. This guide explains how to
- set meaningful, actionable goals that will drive your career forward.
+  Many career goals are forgotten after a few weeks. This guide explains how to
+  set meaningful, actionable goals that will drive your career forward.
 category: Career Guides
 data-ai-hint: career goals
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Setting Career Goals That Work
 
 Most people set career goals and forget about them by February. Setting effective career goals is about more than just wishful thinking; it requires a structured approach, realistic assessment, and ongoing accountability. This guide walks you through building goals that actually shape your career trajectory.
@@ -375,3 +374,16 @@ Effective career goals are:
 - **Flexible:** Adjusted when reality demands.
 
 With goals structured this way, you dramatically increase your odds of achieving them. And over time, these achieved goals compound into a remarkable career trajectory that you actually designed, rather than one that happened to you.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)

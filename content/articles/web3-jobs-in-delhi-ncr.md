@@ -2,14 +2,13 @@
 title: 'Web3 Jobs in Delhi NCR: A Guide to the Capital''s Crypto Ecosystem'
 data-ai-hint: delhi city india
 description: >-
- Explore the Web3 job market in Delhi NCR. This guide covers the region's
- unique strengths in policy, media, and marketing, and the career
- opportunities.
+  Explore the Web3 job market in Delhi NCR. This guide covers the region's
+  unique strengths in policy, media, and marketing, and the career
+  opportunities.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The Delhi National Capital Region (NCR), which includes Delhi, Gurgaon, and Noida, has established itself as a prominent hub within India's [Web3](/what-is-web3) sector. Unlike Bangalore, which is widely recognized as the engineering capital, Delhi NCR specializes in media, marketing, policy, and business development. Its position as the national capital, along with a vast consumer base and a active corporate and startup environment in Gurgaon, positions it as a strategic center for companies aiming to support adoption and address regulatory challenges.
 
 This region hosts the headquarters of significant crypto exchanges, leading Web3 media outlets, and the marketing and growth teams for various global protocols. Professionals in Delhi NCR possess diverse skills in marketing, public relations, policy, and business strategy. This guide provides a detailed examination of the [Web3 career](/web3-jobs-for-beginners) opportunities in Delhi NCR, detailing its market dynamics, high-demand roles, and strategies for building a successful career in this influential area.
@@ -50,3 +49,16 @@ The Delhi NCR job market shows strong demand for non-technical and business-cent
 ### Taking the Next Step: Finding a Web3 Job
 
 If you are ready to advance your career, explore our [Web3 job board](/jobs), which showcases a variety of opportunities in Delhi NCR and beyond. We feature curated roles from leading companies, [DAOs](/what-is-a-dao), and protocols seeking top talent. Whether your expertise lies in development, marketing, or product management, your next role in the decentralized economy awaits.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

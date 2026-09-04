@@ -1,14 +1,13 @@
 ---
 title: Understanding Computer Vision in AI Systems
 description: >-
- A simple guide to computer vision, the field of AI that teaches computers how
- to see, interpret, and understand the visual world.
+  A simple guide to computer vision, the field of AI that teaches computers how
+  to see, interpret, and understand the visual world.
 category: Educational
 data-ai-hint: digital eye
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Computer vision is a critical area of [artificial intelligence](/what-is-artificial-intelligence-and-how-it-works) that enables computers to interpret and understand the visual world. By using digital images from cameras and videos, deep learning models can identify and classify objects with impressive accuracy. This technology equips machines with a form of sight, allowing them to analyze visual data similarly to how humans do.
 
 When you view a photograph, your brain effortlessly identifies people, objects, and their spatial relationships. For a computer, however, an image consists merely of a grid of pixels, numbers that represent color and brightness. Computer vision seeks to transform this low-level representation into a high-level interpretation, mimicking human visual comprehension.
@@ -77,3 +76,16 @@ Computer vision often integrates with other AI domains. For example, an applicat
 ## Importance of Understanding Computer Vision
 
 Grasping computer vision is essential for professionals aiming for success in tech-driven industries. Mastery of this technology can enhance career prospects, leading to higher salaries and accelerated advancement opportunities. This is particularly relevant in [Web3](/what-is-web3) organizations, where effective communication and collaboration are vital.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

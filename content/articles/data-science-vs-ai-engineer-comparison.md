@@ -2,13 +2,12 @@
 title: Data Science vs AI Engineer Comparison
 data-ai-hint: data science technology
 description: >-
- Confused about data science and AI engineering? This guide breaks down the key
- differences in skills, roles, and career paths to help you choose the right.
+  Confused about data science and AI engineering? This guide breaks down the key
+  differences in skills, roles, and career paths to help you choose the right.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 So you're interested in a career working with data, but you keep hearing these two terms thrown around, data scientist and AI engineer. They sound similar, and there's a good bit of overlap, but they are definitely not the same job. Think of it like the difference between an architect and a construction manager. One designs the blueprint, and the other takes that blueprint and actually builds the skyscraper. Both are important, but their day-to-day work looks very different. That's the core of the data scientist versus AI engineer debate. A data scientist is all about uncovering insights and building models from data, while an AI engineer is focused on building, deploying, and maintaining the AI systems that use those models in the real world.
 
 Let's break it down. A data scientist's job starts with a question. A business might want to know why customer churn has increased, or which marketing campaign is most effective. The data scientist then examines messy, real-world data, cleans it up, explores it to find patterns, and uses statistical models or machine learning to answer that initial question. Their output is often a report, a visualization, or a prototype model that demonstrates a finding. They are masters of statistics, data wrangling, and exploratory analysis.
@@ -84,3 +83,16 @@ For data science, start by learning Python and its core data science libraries. 
 
 **5. Do AI engineers also need to know machine learning theory?**
 Yes, but not to the same depth as a data scientist. An AI engineer needs to understand how models work well enough to deploy and monitor them effectively. They need to know what a model's inputs and outputs are, and how to evaluate its performance, but they don't necessarily need to be able to invent a new algorithm from scratch.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

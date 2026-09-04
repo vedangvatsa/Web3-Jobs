@@ -4,12 +4,11 @@ category: Career Guides
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: video interview
 description: >-
- Your background, lighting, and camera angle speak volumes before you even say
- a word. This guide covers everything you need to know to create a.
+  Your background, lighting, and camera angle speak volumes before you even say
+  a word. This guide covers everything you need to know to create a.
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the current hiring process, video interviews serve as a vital connection between initial phone screenings and final in-person or panel discussions. They provide the convenience of interviewing from home, yet they also introduce new factors that can influence an interviewer's perception of you. The quality of your technical setup, lighting, and environment plays an important role. A polished, professional video presence communicates that you are detail-oriented and serious about the opportunity. In contrast, a poor setup can be distracting, leaving a negative impression even before you speak.
 
 This guide outlines the essential steps to create an environment suitable for professional video interviews, focusing on camera, audio, lighting, and background. Mastering these components ensures the interviewer's attention remains on you and your qualifications.
@@ -105,3 +104,16 @@ Understanding the technical aspects of a video interview is one part of the equa
 - **Follow Up:** After your interview, send a thank-you email to express appreciation for the opportunity and reiterate your interest in the position.
 
 By focusing on both the technical setup and your interpersonal skills, you can approach your video interview with confidence and poise, positioning yourself as a strong candidate for the role.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+3. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

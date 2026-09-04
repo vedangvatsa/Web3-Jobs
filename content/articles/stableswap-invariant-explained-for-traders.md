@@ -1,15 +1,14 @@
 ---
 title: StableSwap Invariant Explained for Traders
 description: >-
- A deep dive into the StableSwap invariant, the unique algorithm powering Curve
- Finance that enables highly efficient trading of pegged assets like
- stablecoins.
+  A deep dive into the StableSwap invariant, the unique algorithm powering Curve
+  Finance that enables highly efficient trading of pegged assets like
+  stablecoins.
 category: Educational
 data-ai-hint: stableswap invariant
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## The StableSwap Invariant Explained for Traders and LPs
 
 In Decentralized Finance ([DeFi](/what-is-defi)), automated market makers (AMMs) use mathematical formulas called invariants to price assets. The most well-known invariant is the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`), which Uniswap v2 employs. However, this formula lacks efficiency for trading pegged assets such as stablecoins.
@@ -90,3 +89,13 @@ No, but it considerably reduces impermanent loss for pegged assets. Since the as
 
 **Is the StableSwap formula used by other protocols?** 
 Yes, while Curve pioneered the StableSwap concept, other decentralized exchanges focusing on stable assets have adopted similar hybrid bonding curves.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

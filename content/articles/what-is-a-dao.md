@@ -3,13 +3,13 @@ title: What is a DAO? A Beginner's Guide to Decentralized Orgs
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 description: >-
   What is a Decentralized Autonomous Organization (DAO)? Learn how DAOs work,
-  how voting and treasuries function, real examples, trade-offs, and how to join or start one.
+  how voting and treasuries function, real examples, trade-offs, and how to join
+  or start one.
 category: Industry Insights
 data-ai-hint: dao explained
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A DAO is a collectively owned organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on decisions, and the code executes the result. There is no CEO who can spend funds on a whim.
 
 This guide explains what a DAO actually is, who it fits, how it works in practice, where it helps and where it struggles, and how you can evaluate, join, or start one without hype.
@@ -178,3 +178,16 @@ Most are not fully decentralized in practice. Even transparent DAOs depend on fo
 **Do I need to hold a token to participate?**
 
 Not always. In allowlist or reputation models you can be granted voting rights for participation, not purchase. In token models you do need the token, but you can delegate if you lack time to vote directly. Gasless Snapshot votes also lower the cost of learning.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)

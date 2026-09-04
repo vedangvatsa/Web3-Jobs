@@ -1,16 +1,15 @@
 ---
 title: A Creator's Guide to NFT Royalties
 image: >-
- https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1694434943114-c8ea2049f781?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxORlR8ZW58MHx8fHwxNzU0OTU0MDE4fDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- Understand how NFT royalties work, the technical standards like EIP-2981, the
- ongoing debate about enforcement, and how creators can protect their secondary
- sale earnings.
+  Understand how NFT royalties work, the technical standards like EIP-2981, the
+  ongoing debate about enforcement, and how creators can protect their secondary
+  sale earnings.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 For digital artists and creators, the promise of automatic, on-chain royalties represents a significant shift in how they can benefit from their work. Traditionally, visual artists often missed out on the profits generated from secondary market sales. For instance, a painter might sell a canvas for a certain amount, only to see it resold for a much higher price years later, without receiving any of that increased value. NFTs, using [smart contracts](/what-are-smart-contracts), introduced a solution: coding a royalty fee directly into the [token](/what-is-a-token), allowing the original creator to earn a percentage from each future sale indefinitely.
 
 This concept fueled the NFT boom of 2021, enabling artists to build sustainable careers. However, the reality of NFT royalties has proven to be more complex. The ongoing debate regarding royalty enforcement has placed artists in opposition to marketplaces and collectors, raising essential questions about decentralization, compensation for creators, and the fundamental nature of digital ownership.
@@ -113,3 +112,16 @@ Artists planning an NFT launch must move beyond the outdated "set it and forget 
 5. **Educate Your Collectors:** Clearly communicate your royalty policy and explain its importance for your sustainability as a creator.
 
 The debate over NFT royalties continues, reflecting the growing pains of the Web3 ecosystem as it seeks to balance absolute ownership with sustainable creator economies. While the initial vision of automatically enforced royalties faces challenges, the ongoing conversation prompts a more mature and careful approach. Creators can manage this field by combining technical standards, community engagement, and transparent communication.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

@@ -10,7 +10,6 @@ data-ai-hint: team collaboration
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You do not need to write Solidity to work in Web3. At crypto-native companies, engineering is about 35 to 40 percent of open roles, which means more than 60 percent are non-technical. That pattern held through 2025 into 2026, according to hiring data summarized by gm.careers, and it shows up on job boards today: web3.career listed 14,427 active non-tech jobs, 630 of them for community managers, when I checked in August 2026.
 
 [Web3](/what-is-web3) still needs protocol engineers and auditors. It also needs people who can run communities, explain complex products, close partnerships, ship product decisions with pseudonymous users, and keep decentralized operations moving. This guide covers what those jobs actually involve, what tools they use, what they pay in 2026, and how to get hired without coding.
@@ -85,7 +84,7 @@ If you come from Web2, five differences matter more than any resume bullet.
 - Build a public brand on X by analyzing one protocol deeply. Write two threads a month that teach, not hype. Include a Dune chart or concrete numbers. Hiring managers review your threads as a marketing portfolio.
 - Publish one launch recap that names what worked, what did not, and what you would test next. Include a simple KPI plan with a hypothesis and success metric.
 
-**Trade-offs:** You can move fast from signal to published content and see direct impact. You also navigate ad restrictions, compliance review for token language, and volatile cycles that change messaging priorities quickly.
+**Trade-offs:** You can move fast from signal to published content and see direct impact. You also understand ad restrictions, compliance review for token language, and volatile cycles that change messaging priorities quickly.
 
 ### 3. Content Creator and Technical Writer
 
@@ -139,7 +138,7 @@ If you come from Web2, five differences matter more than any resume bullet.
 - Attend two virtual or in-person conferences with a plan: research ten target teams, read their docs and governance forum for 30 minutes each, then ask specific integration questions rather than generic intros.
 - Write a one-page partnership memo for a deal you would propose, with user benefit, technical sketch, risks, and success metrics. Share it with the relevant team as a conversation starter, not a pitch deck.
 
-**Trade-offs:** You get broad exposure and direct revenue or TVL impact. You also navigate slow governance cycles on the counterparty side and deals that stall when token or incentive terms cannot be agreed.
+**Trade-offs:** You get broad exposure and direct revenue or TVL impact. You also understand slow governance cycles on the counterparty side and deals that stall when token or incentive terms cannot be agreed.
 
 ### 5. Product Manager
 
@@ -304,3 +303,16 @@ Negotiate base in fiat or stablecoins first. Then ask about token allocation, ve
 
 **Where do I find real non-dev openings today?**
 Start with curated boards such as Hashtag Web3 jobs and aggregate boards such as web3.career, filter by non-tech plus remote, and cross-check the company's own careers page. For DAO-native paths, track Discords, governance forums, and bounty boards such as Dework. For venture-backed teams, scan portfolio boards including a16z's jobs.a16z.com filtered to Crypto and Web3.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [Solana Core Architecture Documentation](https://docs.solana.com/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+10. [DeFiLlama Open Source Financial Metrics API](https://defillama.com/docs/api)

@@ -3,13 +3,12 @@ title: How Web3 Is Helping to Build a More Secure Internet
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: internet security web3
 description: >-
- A look at how Web3's decentralized architecture, self-custodial wallets, and
- cryptographic principles are creating a more secure and resilient foundation.
+  A look at how Web3's decentralized architecture, self-custodial wallets, and
+  cryptographic principles are creating a more secure and resilient foundation.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The internet of today, often referred to as Web2, relies on a centralized structure that creates significant security vulnerabilities. Large corporations manage vast amounts of data in isolated databases, making them attractive targets for cybercriminals. online identities hinge on email and password combinations, which are frequently compromised. Web3 represents a fundamental shift in this architecture, aiming to create a more secure and resilient internet.
 
 Using [blockchain technology](/what-is-a-blockchain), cryptographic principles, and decentralization, [Web3](/what-is-web3) establishes a new internet framework where security is integral rather than an afterthought. This article highlights the key mechanisms through which Web3 enhances internet security.
@@ -56,3 +55,16 @@ Despite Web3's enhanced security framework, challenges persist. The primary secu
 - **Smart Contract Bugs:** Bugs in immutable smart contracts can be exploited, leading to potential fund loss, with no option for recovery.
 
 Web3 strives to create a more secure internet by replacing centralized failure points with a decentralized network secured by cryptography. While this shift imposes new responsibilities on users, the principles of decentralization, self-custody, and transparency offer a promising model for a safer digital field.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -3,13 +3,12 @@ title: What is a Web3 DevRel Engineer? A Career Guide
 image: /images/thisisengineering-32PpagSzeGs-unsplash.jpg
 data-ai-hint: developer relations talk
 description: >-
- A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3.
- Learn what they do, the skills they need, and how they build a growing.
+  A guide to the unique role of a Developer Relations (DevRel) Engineer in Web3.
+  Learn what they do, the skills they need, and how they build a growing.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the competitive field of [Web3](/what-is-web3), attracting and retaining a strong ecosystem of third-party developers is essential for a protocol's success. When developers build on a platform, the network expands. Conversely, if they encounter challenges or confusion, they may choose alternative platforms. This reality has led to the emergence of an important role in Web3: the **Developer Relations Engineer**, commonly referred to as **DevRel**.
 
 A Web3 DevRel embodies a hybrid professional, combining the skills of an engineer, educator, marketer, and community builder. Their primary goal is to enable an enjoyable and simple experience for developers working with their protocol. They represent the developer's voice within the core team while also conveying the protocol's value to the external developer community.
@@ -52,3 +51,16 @@ The journey to becoming a DevRel engineer often begins with active involvement i
 4. **Exemplify Community Engagement:** Participate in the project's Discord and assist other developers facing challenges. Your [public contributions](/how-to-build-a-public-on-chain-developer-brand) will draw the attention of the core team.
 
 The DevRel role plays a high-impact part in a protocol's growth strategy. For developers passionate about teaching, communication, and community engagement, this role offers a dynamic and fulfilling career within the Web3 ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)

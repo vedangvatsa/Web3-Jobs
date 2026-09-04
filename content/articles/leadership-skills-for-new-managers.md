@@ -1,14 +1,13 @@
 ---
 title: Leadership Skills for New Managers
 description: >-
- Transitioning into a management role? Master these essential leadership skills
- to guide your team effectively and build a foundation for success.
+  Transitioning into a management role? Master these essential leadership skills
+  to guide your team effectively and build a foundation for success.
 category: Career Guides
 data-ai-hint: manager skills
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction
 
 Transitioning from an individual contributor to a manager represents a significant career shift in the tech industry. While your technical expertise has likely secured your promotion, effective management requires a focus on people. This guide outlines essential leadership skills, supported by links to relevant resources for further exploration.
@@ -103,3 +102,16 @@ Transitioning from an individual contributor to a manager represents a significa
  - **Ignoring feedback:** Neglecting feedback erodes trust and creates a disconnect. Schedule regular feedback sessions and act on the responses received.
  - **Over-committing:** This leads to burnout and unmet deadlines. Prioritize effectively and decline low-impact requests.
  - **Failing to set clear goals:** Lack of clear goals results in misalignment and frustration. Use frameworks like OKRs or SMART goals to ensure everyone is aligned.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

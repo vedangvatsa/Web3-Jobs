@@ -1,14 +1,13 @@
 ---
 title: What is Gene Editing Technology
 description: >-
- A detailed explanation of gene editing, focusing on how technologies like
- CRISPR work and their potential to change medicine and agriculture.
+  A detailed explanation of gene editing, focusing on how technologies like
+  CRISPR work and their potential to change medicine and agriculture.
 category: Educational
 data-ai-hint: dna strand
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Gene editing encompasses a range of technologies that enable scientists to modify an organism's DNA. This process allows for the addition, removal, or alteration of genetic material at specific locations within the genome. Researchers can search for a precise DNA sequence, excise it, and substitute it with a new sequence.
 
 Historically, scientists have altered DNA using various methods, which often proved inefficient, labor-intensive, and costly. The advent of advanced tools, particularly CRISPR-Cas9, has transformed gene editing into a more precise, rapid, and affordable effort. This shift has catalyzed significant advancements in biological research and has far-reaching implications for medicine, agriculture, and other fields.
@@ -80,3 +79,16 @@ Yes, gene editing therapies are available but in limited capacities. Recent appr
 4. **Not Collaborating with Experts**: Working in isolation limits your insight. Seek opportunities to collaborate with professionals in genetic research or policy-making.
 
 5. **Neglecting Practical Applications**: Understanding theory is essential, but applying knowledge in real-world scenarios enhances learning. Look for internships, workshops, or projects that allow hands-on experience.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

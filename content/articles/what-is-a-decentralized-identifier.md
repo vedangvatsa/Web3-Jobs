@@ -3,13 +3,12 @@ title: What is a Decentralized Identifier
 image: /images/kaitlyn-baker-vZJdYl5JVXY-unsplash.jpg
 data-ai-hint: digital identity key
 description: >-
- A Decentralized Identifier (DID) is a new type of globally unique ID that is
- controlled by the user, not a centralized company. It's the foundation of a.
+  A Decentralized Identifier (DID) is a new type of globally unique ID that is
+  controlled by the user, not a centralized company. It's the foundation of a.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A **Decentralized Identifier (DID)** serves as a unique identifier in the digital field, offering verifiable ownership without reliance on centralized authorities. DIDs are integral to **[Self-Sovereign Identity (SSI)](/self-sovereign-identity-in-web3-explained)**, which lets people to manage their own digital identities.
 
 Visualize a DID as a personal, self-owned phone number, diverging from the traditional system where telecom companies assign numbers. It acts as a permanent and portable address in the digital sector.
@@ -53,3 +52,16 @@ DIDs lay the groundwork for a more user-centric and private internet.
 - **Enabling Verifiable Credentials:** DIDs form the basis for **[Verifiable Credentials](/understanding-verifiable-credentials-in-blockchain)**. For example, a university can issue a digital diploma to a DID, enabling the holder to prove their qualifications to employers without necessitating direct contact with the institution.
 
 Decentralized Identifiers represent a straightforward yet impactful concept. They shift identity control from centralized platforms to individuals, building a more secure, private, and interoperable digital environment.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

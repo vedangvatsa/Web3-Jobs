@@ -2,13 +2,12 @@
 title: What Are Oracles? Blockchains Connected to Real World
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-
- A step-by-step guide to blockchain oracles covering determinism, Chainlink
- node economics, off-chain data use cases, current limits, and related roles.
+  A step-by-step guide to blockchain oracles covering determinism, Chainlink
+  node economics, off-chain data use cases, current limits, and related roles.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Smart contracts are powerful, but they have a fundamental limitation: they are isolated from the outside world. A [smart contract](/what-are-smart-contracts) running on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) cannot, by itself, know the current price of [Bitcoin](/what-is-bitcoin), the weather in New York, or the winner of the World Cup. They exist within the closed, deterministic ecosystem of the blockchain.
 
 This is known as the **"Oracle Problem."** For smart contracts to be truly useful and create applications that interact with our world, they need a way to reliably access off-chain data. **Blockchain oracles** are the services that solve this problem.
@@ -380,3 +379,16 @@ Oracles are the critical infrastructure that allows smart contracts to interact 
 The oracle problem isn't solved (there are still trade-offs and limitations), but projects like Chainlink have made remarkable progress in creating trustless, decentralized data feeds. As Web3 matures, oracle networks will become even more sophisticated, enabling new categories of applications we can't yet imagine.
 
 If you're interested in Web3 infrastructure, oracles are one of the most important and underrated pieces of the stack and a field with enormous growth potential.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)

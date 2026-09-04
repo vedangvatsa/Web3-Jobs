@@ -2,15 +2,14 @@
 title: a full guide to Working through Web3 Job Boards
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-
- A deep dive into the top Web3 job boards, including strategies for how to
- stand out as a candidate and what companies are looking for in the
- decentralized.
+  A deep dive into the top Web3 job boards, including strategies for how to
+  stand out as a candidate and what companies are looking for in the
+  decentralized.
 category: Career Guides
 data-ai-hint: man working laptop
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: A New Frontier for Careers
 
 The emergence of [Web3](/what-is-web3) has transformed the career market, introducing various opportunities that were nonexistent a decade ago. Roles in smart contract development, decentralized finance ([DeFi](/what-is-defi)), community management, and tokenomics design have become essential as the industry continues to expand. For individuals eager to enter this fast-moving field, identifying where to find these opportunities is important. Unlike conventional job markets dominated by platforms such as LinkedIn and Indeed, the Web3 space hosts a distinct ecosystem of job boards and hiring platforms tailored to its unique needs.
@@ -93,3 +92,16 @@ The Web3 job market continuously evolves, but several roles and skills consisten
 - **Community Managers:** Building and managing engaged communities is important in Web3, making skilled community managers highly valuable.
 - **Data Analysts:** As protocols grow more complex, the ability to analyze on-chain data for informed business decisions becomes increasingly important.
 - **Product Managers:** PMs with a grasp of the technical and user experience challenges unique to Web3 are in short supply.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

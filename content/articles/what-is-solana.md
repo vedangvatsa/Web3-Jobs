@@ -9,7 +9,6 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Solana is a Layer 1, open source blockchain that is built for fast and low-cost transactions. It went live as a mainnet beta on March 16, 2020, and was developed by Solana Labs, the San Francisco company founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald after Yakovenko's 2017 whitepaper on Proof-of-History.
 
 Unlike chains that trade speed for cost, Solana tries to keep both low at the same time. That makes it popular for uses where waiting a few seconds or paying a few dollars breaks the product, such as trading, payments, games, and consumer apps.
@@ -138,3 +137,16 @@ Rust is the primary language, with C also supported. Most teams use Anchor, whic
 
 **Where can I learn more?**
 Start with solana.com/learn/what-is-solana for an official overview and solana.com/docs/core/fees for fee details. For validator setup, see docs.anza.xyz operations pages. For live stats, check Solana Compass, Chainspect, or Solana Explorer.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+10. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)

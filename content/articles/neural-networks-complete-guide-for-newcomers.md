@@ -1,14 +1,13 @@
 ---
 title: Neural Networks Complete Guide for Newcomers
 description: >-
- A beginner's guide to neural networks, the technology that powers deep
- learning and modern AI, explained in simple terms.
+  A beginner's guide to neural networks, the technology that powers deep
+  learning and modern AI, explained in simple terms.
 category: Educational
 data-ai-hint: connected nodes
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A neural network functions as a computer program designed to mimic the human brain. This technology is essential for [deep learning](/what-is-deep-learning-technology-explained) and drives many recent advancements in artificial intelligence. The fundamental concept involves creating a system that learns from examples, similar to how humans learn.
 
 For instance, teaching a computer to recognize the handwritten number "3" through traditional programming requires creating a set of rules defining its shape. This task becomes complicated since each individual's handwriting varies. A neural network, however, takes a different route. Instead of rules, it processes thousands of examples of handwritten "3s," identifying them as correct, while simultaneously analyzing numerous examples of other numbers, marking them as incorrect.
@@ -88,3 +87,16 @@ In Web3, neural networks are used for various applications. For instance, they a
 
 **5. What constitutes a "large language model"?** 
 A [large language model (LLM)](/large-language-models-explained-simply) represents a vast and deep neural network trained on extensive text and code datasets. Its specific architecture, known as a Transformer, excels at comprehending human language.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

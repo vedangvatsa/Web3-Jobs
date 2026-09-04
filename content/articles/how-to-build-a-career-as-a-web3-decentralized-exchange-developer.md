@@ -2,14 +2,13 @@
 title: 'Career Guide: Web3 Decentralized Exchange (DEX) Developer'
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-
- A step-by-step guide on how to build a career as a DEX developer. Learn the
- required skills, from Solidity to understanding liquidity pools and AMMs.
+  A step-by-step guide on how to build a career as a DEX developer. Learn the
+  required skills, from Solidity to understanding liquidity pools and AMMs.
 category: Career Guides
 data-ai-hint: dex developer
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Decentralized exchanges (DEXs) are critical infrastructure in [Web3](/what-is-web3). Uniswap, Curve, and other DEXs enable significant trading volume daily. Building [DEX](/what-is-a-decentralized-exchange-dex) infrastructure, features, and integrations creates opportunities for developers.
 
 DEX development combines [smart contract](/what-are-smart-contracts) development with a deep understanding of financial mechanisms. Developers who can build DEX features command competitive salaries. The technical bar is higher than average Web3 development, but rewards match the difficulty.
@@ -125,3 +124,16 @@ To be effective, you must understand core DEX concepts.
 - Bridge design and security
 - Cross-chain DEX design
 - Slippage and fees in bridges
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)

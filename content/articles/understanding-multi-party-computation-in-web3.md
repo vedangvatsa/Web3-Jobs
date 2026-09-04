@@ -3,13 +3,12 @@ title: Understanding Multi-Party Computation in Web3
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: computation security keys
 description: >-
- A guide to Multi-Party Computation (MPC), a powerful cryptographic technique
- that is changing digital asset security and private computation in Web3.
+  A guide to Multi-Party Computation (MPC), a powerful cryptographic technique
+  that is changing digital asset security and private computation in Web3.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the [Web3](/what-is-web3), the safeguarding of digital assets relies heavily on the protection of private keys. A compromised private key leads to permanent loss of access to the associated assets. Traditionally, individuals have used hardware wallets for key security, while institutions have favored multi-signature (multisig) wallets. However, a more sophisticated method, known as **Multi-Party Computation (MPC)**, is becoming increasingly popular.
 
 MPC is a specialized area within cryptography that enables a group of untrusting parties to compute a function collaboratively without disclosing their private inputs to one another. In Web3, one of MPC's most compelling applications is through **Threshold Signature Schemes (TSS)**, which provide a more refined method for managing private keys.
@@ -67,3 +66,16 @@ Beyond signatures, MPC can enable multiple parties to compute results based on t
 The primary challenge surrounding MPC is its inherent complexity. The underlying cryptographic principles are advanced, making secure implementation difficult. However, as technology matures and gains real-world testing, MPC is becoming the standard for institutional-grade digital asset security.
 
 MPC shifts the security model from on-chain, smart contract-based methods to a more flexible, private, and efficient off-chain cryptographic framework. It effectively addresses the vulnerabilities associated with single-point-of-failure keys, paving the way for secure, user-friendly, and interoperable applications across the Web3 ecosystem.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
+2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

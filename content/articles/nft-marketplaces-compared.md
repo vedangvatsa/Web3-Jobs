@@ -1,14 +1,20 @@
 ---
-title: 'NFT Marketplaces Compared: OpenSea, Blur, Magic Eden, Rarible and SuperRare in 2026'
+title: >-
+  NFT Marketplaces Compared: OpenSea, Blur, Magic Eden, Rarible and SuperRare in
+  2026
 image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 data-ai-hint: nft marketplace comparison
 description: >-
-  A practical comparison of leading NFT marketplaces in 2026. Covers verified fees, royalty enforcement, supported chains, listing types, and which venue fits creators, collectors, and pro traders. Includes OpenSea at 1%, Blur at 0%, Magic Eden at 2%, Rarible at 1% per side, SuperRare at 15% primary and 10% royalty, Zora at 0.000777 ETH per mint, plus notes on Foundation and X2Y2 shutdowns.
+  A practical comparison of leading NFT marketplaces in 2026. Covers verified
+  fees, royalty enforcement, supported chains, listing types, and which venue
+  fits creators, collectors, and pro traders. Includes OpenSea at 1%, Blur at
+  0%, Magic Eden at 2%, Rarible at 1% per side, SuperRare at 15% primary and 10%
+  royalty, Zora at 0.000777 ETH per mint, plus notes on Foundation and X2Y2
+  shutdowns.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is an NFT marketplace
 
 An NFT marketplace is a platform where you list, discover, and trade non-fungible tokens. You connect a self-custodial wallet, sign a listing or offer, and the marketplace relies on a smart contract to move the token and the payment on chain when a sale matches. The marketplace never holds your NFT in the same way a custodial exchange holds coins. It holds signed orders off chain until a buyer fulfills them.
@@ -98,7 +104,7 @@ OpenSea launched in December 2017 by Devin Finzer and Alex Atallah, went through
 
 ### Blur - the pro trader venue
 
-Blur launched in October 2022, backed by a seed round led by Paradigm, and went live with the BLUR token in February 2023. It targets professional traders.
+Blur launched in October 2022, backed by a seed round led by model, and went live with the BLUR token in February 2023. It targets professional traders.
 
 **Verified fees and chains as of 2026:**
 
@@ -315,3 +321,15 @@ There are durable uses such as art provenance, passes, and in-game items, but sp
 
 Start with /what-are-nfts for standards, /what-is-a-blockchain for ledger basics, /what-are-smart-contracts for execution, and /how-to-create-and-sell-nfts for the mint to listing flow. For wallet choice, see /how-to-choose-a-crypto-wallet. For hands-on marketplace building, see /how-to-get-started-as-a-web3-nft-marketplace-developer.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+5. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+6. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+10. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)

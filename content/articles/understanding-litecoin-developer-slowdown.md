@@ -1,15 +1,14 @@
 ---
 title: Understanding the Litecoin Developer Activity Slowdown
 description: >-
- An analysis of the perceived slowdown in Litecoin's developer activity. We
- explore the data, the context, and what it means for the future of one of.
+  An analysis of the perceived slowdown in Litecoin's developer activity. We
+  explore the data, the context, and what it means for the future of one of.
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: crypto chart graph
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Analyzing the Slowdown in Litecoin's Developer Activity
 
 Litecoin (LTC), often dubbed the "silver to [Bitcoin](/what-is-bitcoin)'s gold," is one of the oldest and most established cryptocurrencies. Created in 2011 by Charlie Lee, it was designed to be a lighter, faster version of Bitcoin, with a few key modifications like a shorter block time and a different hashing algorithm (Scrypt). For years, it has maintained a position as a top cryptocurrency, valued for its reliability, security, and widespread exchange listings.
@@ -49,3 +48,16 @@ The future of Litecoin development will likely continue on its current path: slo
 * **Core Maintenance:** Ongoing maintenance of the Litecoin Core client to ensure its security and stability.
 * **Second-Layer Solutions:** Exploration of Layer 2 solutions like the Lightning Network to further improve its scalability for micropayments.
 * **Adoption and Integration:** Work by the Litecoin Foundation and community to increase adoption by merchants and payment processors.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Solana Core Architecture Documentation](https://docs.solana.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

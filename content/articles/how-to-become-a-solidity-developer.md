@@ -3,12 +3,13 @@ title: How to Become a Solidity Developer
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: solidity developer coding
 description: >-
-  A practical guide to becoming a Solidity developer in 2026. Learn what the role requires, how Solidity and the EVM work, tools like Foundry and Hardhat, salary ranges, and a project-based roadmap to get hired.
+  A practical guide to becoming a Solidity developer in 2026. Learn what the
+  role requires, how Solidity and the EVM work, tools like Foundry and Hardhat,
+  salary ranges, and a project-based roadmap to get hired.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 A Solidity developer writes smart contracts that run on the Ethereum Virtual Machine (EVM). These programs control how value and logic move on Ethereum and EVM-compatible chains like Arbitrum, Optimism, Base, Polygon, BNB Chain, and Avalanche C-Chain.
 
 This guide explains what the job actually involves, who it fits, how the language and toolchain work, the trade-offs, and a specific path to get hired.
@@ -99,7 +100,7 @@ Pick one path and stick with it for your first two projects. You can add the oth
 **Option A: Foundry (default in 2026 for protocol work).** Used by 51.1 percent of developers in the 2024 Solidity Developer Survey. Fast, Solidity-native tests, built-in fuzzing, no Node.js required.
 
 ```bash
-curl -L https://foundry.paradigm.xyz | bash
+curl -L https://foundry.model.xyz | bash
 foundryup
 forge init my-project
 forge test
@@ -224,3 +225,16 @@ Yes for anything holding value. Automated tools catch classes of bugs but do not
 **Is Solidity worth learning in 2026?**
 
 If you want to work on EVM protocols, yes. The EVM runs on Ethereum and the largest set of L2s and sidechains, the Solidity docs and OpenZeppelin libraries are mature, and the toolchain is stable after Hardhat 3 and the recent 0.8.x compiler work. It is a specialized skill with real security responsibility, so commit to testing and review as part of the learning, not as an extra.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+9. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+10. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)

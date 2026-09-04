@@ -1,14 +1,13 @@
 ---
 title: Understanding the Constant Product Formula in AMMs
 description: >-
- A clear and simple guide to the constant product formula (x * y = k), the core
- mathematical engine that powers decentralized exchanges like Uniswap.
+  A clear and simple guide to the constant product formula (x * y = k), the core
+  mathematical engine that powers decentralized exchanges like Uniswap.
 category: Educational
 data-ai-hint: constant product formula
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
 
 The **Constant Product Formula**, expressed as `x * y = k`, serves as the mathematical foundation for many Automated Market Makers (AMMs) and Decentralized Exchanges (DEXs), including Uniswap v2. This formula establishes a "bonding curve" that sets asset prices in a liquidity pool automatically, eliminating the need for a traditional order book.
@@ -108,3 +107,16 @@ No, the formula does not include the network gas fees required to execute a tran
 
 **Is the price displayed on a DEX the price I will receive?** 
 No, the displayed price reflects the current spot price before your trade. Your transaction will incur price impact, leading to a slightly worse execution price. Larger trades will experience a more pronounced difference.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

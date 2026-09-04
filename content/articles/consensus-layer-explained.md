@@ -3,12 +3,13 @@ title: Consensus Layer Explained - What It Is and How It Works on Ethereum
 image: /images/johannes-plenio-FZpCcPss9to-unsplash.jpg
 data-ai-hint: ethereum consensus layer
 description: >-
-  The consensus layer is the proof-of-stake system that secures Ethereum after The Merge. Learn what it does, how Gasper and the Engine API work, who needs it, trade-offs, and how to run or build on it.
+  The consensus layer is the proof-of-stake system that secures Ethereum after
+  The Merge. Learn what it does, how Gasper and the Engine API work, who needs
+  it, trade-offs, and how to run or build on it.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The consensus layer is the part of Ethereum that decides which block is correct and which chain is canonical. Since The Merge on September 15, 2022, Ethereum runs with two linked pieces: an execution layer that runs transactions and an EVM state, and a consensus layer that runs proof-of-stake, selects block proposers, collects validator votes, and finalizes history. Together they form a single Ethereum network. This split replaced proof-of-work mining.
 
 If you run a node, build a dapp, or evaluate validator or protocol work, you interact with the consensus layer even when you only use an execution client.
@@ -197,3 +198,15 @@ If you run a full node, yes. After the Merge the execution client cannot determi
 **Where does Solana proof-of-history or Cosmos Tendermint fit?**
 Those are different consensus designs for other networks. Solana adds a verifiable delay function to order events before proof-of-stake voting, and Cosmos chains use CometBFT, a BFT protocol with Propose, Prevote, and Precommit steps and proposer selection weighted by voting power. Ethereum does not use proof-of-history. The term consensus layer is specific to Ethereum's post-Merge architecture.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [Solana Core Architecture Documentation](https://docs.solana.com/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

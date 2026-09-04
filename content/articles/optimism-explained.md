@@ -1,13 +1,15 @@
 ---
-title: Optimism Explained - OP Mainnet, the OP Stack, and the Superchain
+title: 'Optimism Explained - OP Mainnet, the OP Stack, and the Superchain'
 description: >-
-  Optimism is an Ethereum Layer 2 optimistic rollup that runs transactions off chain and settles to Ethereum. Learn how OP Mainnet works, what the OP Stack and Superchain are, how fees and fault proofs operate, and how governance and the OP token fund public goods.
+  Optimism is an Ethereum Layer 2 optimistic rollup that runs transactions off
+  chain and settles to Ethereum. Learn how OP Mainnet works, what the OP Stack
+  and Superchain are, how fees and fault proofs operate, and how governance and
+  the OP token fund public goods.
 category: Technology Deep Dives
 data-ai-hint: optimism blockchain layer2
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Optimism is an Ethereum Layer 2 that executes transactions off Ethereum and posts the data back to Ethereum for security. The main network, OP Mainnet, is an optimistic rollup. It gives you Ethereum addresses and tools, near instant confirmations from a sequencer, and fees that are a fraction of mainnet, while final settlement happens on Ethereum.
 
 The same codebase that runs OP Mainnet is packaged as the OP Stack, an open modular framework. Teams use it to launch their own L2s. The set of OP Stack chains that settle to Ethereum together is called the Superchain. Base by Coinbase, World Chain, Mode, Zora, Ink by Kraken, Soneium by Sony, and Unichain are all OP Stack chains.
@@ -258,3 +260,16 @@ Docs at https://docs.optimism.io, specs at https://specs.optimism.io, governance
 ---
 
 *Sources: docs.optimism.io - OP Stack introduction, Rollup protocol overview, Transaction fees, Fault proofs explainer, Network upgrades, Block production and bridging flows (pages accessed August 2026); specs.optimism.io - fault proof and derivation specs; optimism.io - OP Stack and Superchain overview; community.optimism.io and github.com/ethereum-optimism/community-hub - OP token overview and Retro Funding; gov.optimism.io - Bedrock and fault proof upgrade proposals; airdrops.io and app.optimism.io - OP airdrop and August 19, 2026 Strategic Ecosystem Fund vote. Figures for calldata gas (16 per non-zero, 4 per zero), Bedrock activation (June 6, 2023, block 105235063), Ecotone/Fjord/Granite/Holocene dates, blob sizes (128 KiB, 4096 field elements), Dencun date (March 13, 2024), Pectra EIP-7691 (May 2025), fault proof activation (June 10, 2024), bond (0.08 ETH) and Guardian roles are from the docs pages cited.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+2. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+9. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+10. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)

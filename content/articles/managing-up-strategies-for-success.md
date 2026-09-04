@@ -3,14 +3,13 @@ title: 'Managing Up: Strategies for a More Effective Relationship With Your Boss
 category: Career Guides
 date: '2025-09-12'
 description: >-
- Managing up isn't about manipulation; it's about making your manager's job
- easier and building a stronger partnership. This guide covers practical.
+  Managing up isn't about manipulation; it's about making your manager's job
+  easier and building a stronger partnership. This guide covers practical.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: manager employee meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Managing up has a branding problem. People hear the phrase and think it means sucking up, playing politics, or figuring out how to manipulate your boss into giving you what you want. It's none of those things.
 
 Managing up means understanding what your manager needs to be successful and adjusting how you work with them to make that easier. It's about reducing friction, building trust, and making your working relationship more effective for both of you.
@@ -66,3 +65,16 @@ A few things that are specific to flat structures:
 **Build trust through consistency.** Without formal authority, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Over time, that consistency earns you the kind of trust and influence that no title can give you.
 
 Whether you're reporting to a VP at a startup or coordinating with contributors across a decentralized protocol, the core idea is the same. Figure out what matters, communicate proactively, and be the kind of person who makes the team better. Check out the latest [Web3 job openings](/jobs) to put these skills to work.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

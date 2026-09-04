@@ -1,14 +1,13 @@
 ---
 title: Solana dApp Development Guide with Rust
 description: >-
- A full guide to building your first decentralized application (dApp) on the
- Solana blockchain using Rust and the Anchor framework.
+  A full guide to building your first decentralized application (dApp) on the
+  Solana blockchain using Rust and the Anchor framework.
 category: Technology Deep Dives
 data-ai-hint: blockchain code
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Solana dApp Development Guide with Rust and Anchor
 
 Solana has captured the attention of the [blockchain](/what-is-a-blockchain) world with its promise of high-speed, low-cost transactions. For developers, this opens up a new opportunity for building decentralized applications (dApps) that require performance beyond what is possible on many other networks. While Solana development can be done in C and C++, the most popular and well-supported language is **Rust**, primarily through the **Anchor framework**.
@@ -191,3 +190,14 @@ anchor test
 ```
 
 This will start a local Solana test validator, deploy your program to it, and run the TypeScript test suite. If all goes well, you should see both tests passing.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

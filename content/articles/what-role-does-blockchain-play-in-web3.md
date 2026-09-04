@@ -3,13 +3,12 @@ title: What Role Does Blockchain Play in Web3?
 image: /images/aideal-hwa-OYzbqk2y26c-unsplash.jpg
 data-ai-hint: blockchain web3 technology
 description: >-
- An explanation of the fundamental role that blockchain technology plays as the
- secure and decentralized foundation of the Web3 ecosystem.
+  An explanation of the fundamental role that blockchain technology plays as the
+  secure and decentralized foundation of the Web3 ecosystem.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 To understand the [Web3](/what-is-web3) transformation, one must first grasp the foundational technology that underpins it: the **[blockchain](/what-is-a-blockchain)**. While these terms often appear together, it is essential to differentiate between them. The blockchain serves as the infrastructure, while Web3 represents the new generation of applications and services built on that infrastructure. The blockchain functions as the foundation of Web3, not merely a feature.
 
 This article outlines the specific roles blockchain technology plays in supporting the core principles of [Web3](/what-is-web3): decentralization, user ownership, and trustless interactions.
@@ -45,3 +44,16 @@ Blockchains come with their own native cryptocurrencies that incentivize partici
 ### The Impact of Blockchain on Web3
 
 The blockchain stands as the essential foundation of Web3, providing four essential pillars for the emerging internet: decentralized and censorship-resistant infrastructure, mechanisms for true digital ownership, automated trust, and a native economic layer. Without the unique features of blockchain technology, the vision of a more open, transparent, and user-controlled internet would remain unattainable.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

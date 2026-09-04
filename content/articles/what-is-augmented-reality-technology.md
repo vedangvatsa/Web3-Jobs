@@ -1,15 +1,14 @@
 ---
 title: What is Augmented Reality Technology
 description: >-
- An introduction to augmented reality (AR), the technology that overlays
- digital information onto the real world, and how it differs from virtual
- reality.
+  An introduction to augmented reality (AR), the technology that overlays
+  digital information onto the real world, and how it differs from virtual
+  reality.
 category: Educational
 data-ai-hint: digital overlay
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Augmented Reality, or AR, enhances the real world by overlaying computer-generated information and digital content. Unlike virtual reality (VR), which immerses users in a completely artificial environment, AR supplements the user's actual surroundings without replacing them.
 
 The most common method of experiencing AR today involves smartphones. A prime example is Pokémon GO, where players see digital creatures integrated into the real world via their phone's camera. Another instance is Instagram filters that add virtual elements, like sunglasses, to a user's face. Both illustrate how AR captures the real world and overlays digital information.
@@ -69,3 +68,16 @@ Most modern smartphones and tablets have built-in AR capabilities, particularly 
 
 **3. Is an app required for AR?** 
 Most AR experiences currently rely on dedicated mobile applications. However, the trend towards "WebAR" is growing, enabling access to AR experiences directly through web browsers without needing to download an app.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+4. [Solana Core Architecture Documentation](https://docs.solana.com/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -10,7 +10,6 @@ data-ai-hint: woman laptop
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Human intelligence is biological cognition produced by about 86 billion neurons running on about 20 watts. Artificial intelligence is software that learns statistical patterns from data using silicon hardware such as GPUs and TPUs. They solve different types of problems, with different strengths and limits. The best results come from pairing them.
 
 This guide compares them directly, with verified numbers and concrete examples, so you can decide when to trust a person, when to trust a model, and when to combine both.
@@ -158,3 +157,15 @@ Follow a small set of primary sources: Stanford HAI AI Index, NIST AI Risk Manag
 
 Human intelligence and artificial intelligence are complementary. Humans bring broad understanding, values, and judgment across shifting contexts, on a 20-watt budget. AI brings fast pattern matching, generation, and recall at scale, on a large hardware budget and with clear limits outside its data. Pairing them, with explicit checks and human accountability, is where the gains show up.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+4. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

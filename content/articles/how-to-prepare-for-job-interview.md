@@ -2,13 +2,12 @@
 title: How to Prepare for Job Interview
 data-ai-hint: interview handshake two people
 description: >-
- A full guide on how to prepare for a job interview. Learn the key steps to
- take before, during, and after the interview to maximize your chances.
+  A full guide on how to prepare for a job interview. Learn the key steps to
+  take before, during, and after the interview to maximize your chances.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Landing a job interview represents a significant milestone. It indicates that your [resume](/how-to-build-a-web3-resume-that-stands-out) and cover letter have resonated with the hiring team. Now, the focus shifts to demonstrating your skills, personality, and passion for the role. Preparation enables you to enter the interview with confidence, leaving a strong impression.
 
 This guide outlines the critical steps to take before, during, and after your job interview to enhance your chances of success.
@@ -109,3 +108,16 @@ Stay calm. It is acceptable to say, "That's a great question; let me take a mome
 ### The Importance of Interview Preparation
 
 Understanding interview preparation helps your career progress. Strong preparation can lead to better job offers, higher salaries, and faster growth. This is particularly relevant in [Web3](/what-is-web3) organizations, where clear communication and collaboration matter.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

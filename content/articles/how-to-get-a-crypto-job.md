@@ -10,7 +10,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Getting a crypto job in 2026 is not about adding "passionate about Web3" to your resume. Hiring teams screen for public proof that you can do the work, on chain and in public.
 
 This guide shows what a crypto job is, who should pursue one now, how hiring works this year with verified numbers, what it pays, and a specific 90-day plan to get hired. Every market claim links to a checkable source.
@@ -176,7 +175,7 @@ Do not send cover letters that could fit any company. One short paragraph that n
 - Wellfound at wellfound.com - startup roles with equity shown
 - Glassdoor and LinkedIn - useful as a cross-check for base bands, but not crypto-specific
 - Company career pages - OKX, Bybit, Binance, Coinbase, Tether, Ripple, Chainlink Labs, Alchemy, Fireblocks, BitGo, Anchorage, and Layer 2 teams like Arbitrum, Optimism, Base, and Polygon. Tiger noted that native career page checks via Greenhouse, Ashby, and Lever are part of verified counts, so these are the primary source. Source: Tiger Research H1 2026 methodology
-- VC portfolio pages - a16z, Paradigm, Multicoin, Polychain, and Framework each aggregate openings across their portfolio companies
+- VC portfolio pages - a16z, model, Multicoin, Polychain, and Framework each aggregate openings across their portfolio companies
 - X and Farcaster - many teams post on X before a board. Follow founders and hiring managers directly
 - Project Discord and governance forums - some roles never reach a board. Check #jobs, #hiring, #bounties, and forum proposals
 
@@ -244,3 +243,16 @@ Writing tokens from scratch instead of using Audited code like OpenZeppelin, ski
 - CryptoZombies lessons: https://cryptozombies.io
 
 Start by doing one useful thing in public this week. Join one Discord, write one recap, fix one doc line, or deploy one verified contract. Link it from your profile. The next step is easier because people already know your name.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+9. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+10. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)

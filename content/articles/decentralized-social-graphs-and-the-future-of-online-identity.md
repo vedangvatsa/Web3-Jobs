@@ -3,13 +3,12 @@ title: Decentralized Social Graphs and the Future of Online Identity
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: social network identity
 description: >-
- Compare Farcaster and Lens approaches to portable social graphs, including
- identity ownership, open composability, protocol architecture, and tradeoffs.
+  Compare Farcaster and Lens approaches to portable social graphs, including
+  identity ownership, open composability, protocol architecture, and tradeoffs.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 For the past fifteen years, digital identities have remained confined within centralized platforms. Your social graph, which includes your friends, followers, posts, and interactions, is one of your most valuable digital assets. Unfortunately, you do not own it. Platforms such as Facebook, Twitter, and TikTok control this data. If you leave a platform, your social graph disappears. Changes to algorithms can drastically affect your reach. Essentially, users operate as digital serfs, creating value on land they do not own.
 
 The **[Web3](/what-is-web3) Social Graph** represents a significant shift in this model. It aims to establish a decentralized foundation for social media where users possess and control their data and identity. By using open, permissionless protocols, Web3 builds a more reliable, new, and user-centric social media environment. This article examines the mechanics of this new model, the leading protocols driving it, and its implications for the future of online identity.
@@ -71,3 +70,16 @@ The emergence of a decentralized social graph is a critical development in the W
 - **New Monetization Models Emerge:** Creators can move beyond ad-based revenue models of Web2. They can monetize their work directly through crypto-native tools, such as NFTs, social tokens, and token-gated content, nurturing a more equitable relationship with their audience.
 
 The path to a fully decentralized social media ecosystem is still unfolding. Current user experiences may be uneven, and the challenges of content moderation in a decentralized context are considerable. Nevertheless, developing an open social graph marks a vital step toward fulfilling the internet's original promise: a permissionless space for connection, creativity, and user agency.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [Solana Core Architecture Documentation](https://docs.solana.com/)
+10. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)

@@ -2,14 +2,13 @@
 title: The Full Guide to Ethereum Rollups and Scaling Solutions
 image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 description: >-
- A complete analysis of Ethereum's scaling solutions, focusing on Optimistic
- and ZK-Rollups, their architectural differences, and their impact on the.
+  A complete analysis of Ethereum's scaling solutions, focusing on Optimistic
+  and ZK-Rollups, their architectural differences, and their impact on the.
 category: Technology Deep Dives
 data-ai-hint: man walking forward
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Introduction: Ethereum's Scaling Imperative
 
 Ethereum's success has created significant challenges. As the leading platform for decentralized finance (DeFi), non-fungible tokens (NFTs), and decentralized applications (dApps), Ethereum faces fierce competition for its limited block space. This high demand has led to soaring gas fees and sluggish transaction speeds, making the network unaffordable for many users and applications. To fulfill its role as a global settlement layer, Ethereum needs effective scaling solutions. This necessity has catalyzed the development of various "Layer 2" (L2) scaling methods, with **rollups** emerging as the leading choice and a cornerstone for Ethereum's future.
@@ -64,3 +63,16 @@ The Ethereum core development community has adopted a "rollup-centric roadmap." 
 A landmark upgrade in this context was **EIP-4844 (Proto-Danksharding)**. Implemented during a recent upgrade, EIP-4844 introduced a new transaction type for "blobs" of data. This created a separate fee market for rollup data, significantly lowering the costs associated with posting transaction batches to Layer 1. Early results indicate a substantial reduction in fees on major L2s.
 
 The long-term vision includes full **Danksharding**, which will further enhance the dedicated data space for rollups, potentially enabling the Ethereum ecosystem to scale to millions of transactions per second across a active ecosystem of thousands of rollups.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+4. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+8. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
+9. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+10. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)

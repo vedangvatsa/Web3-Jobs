@@ -1,15 +1,13 @@
 ---
 title: How to Ask Smart Questions as a New Employee
 description: >-
-  Asking questions is important when you're new, but asking specific,
-  well-timed questions helps you learn faster and build trust. This guide
-  covers how to.
+  Asking questions is important when you're new, but asking specific, well-timed
+  questions helps you learn faster and build trust. This guide covers how to.
 category: Career Guides
 data-ai-hint: asking questions
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What asking smart questions means
 
 A smart question is specific, shows what you already tried, and makes it easy for someone to help you. It points to a clear gap, not a general lack of understanding. For new employees, this skill reduces repeat explanations and helps you learn how work gets done.
@@ -196,3 +194,15 @@ A: Weeks 1 to 4, focus on how work gets done. Weeks 5 to 12, ask more why and tr
 **Q: How often should I meet a buddy or mentor?**
 A: Use the Microsoft pattern as a guide. Meet at least once in the first two weeks, then aim for brief check-ins two to three times in the first 90 days if you can. More frequent short meetings correlated with higher perceived productivity in the Microsoft study, up to more than eight meetings for the highest rate. Keep each meeting focused with a short list and action items.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

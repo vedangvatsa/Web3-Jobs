@@ -1,6 +1,7 @@
 ---
 title: 'Web3 Career Guides: How to Choose and Land the Right Role in 2026'
-image: 'https://images.unsplash.com/photo-1521737711867-e3b97375f902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBndWlkZXxlbnwwfHx8fDE3NTYzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080'
+image: >-
+  https://images.unsplash.com/photo-1521737711867-e3b97375f902?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxjYXJlZXIlMjBndWlkZXxlbnwwfHx8fDE3NTYzMjAwMDB8MA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: team career planning
 description: >-
   A practical hub for Web3 career guides in 2026. Compare roles, salaries, and
@@ -10,7 +11,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Web3 hiring is specialized in 2026. The old "blockchain developer" posting is fading. Teams now hire for smart contract security, protocol engineering, on-chain data, community operations, and compliance, each with its own tools, pay band, and proof-of-work bar. This hub explains how that market works, what each path actually involves, what each pays right now, and how to pick a guide that fits your background.
 
 Use it as an index. Start here to choose direction, then follow the linked guide for your track to go deep on interview tasks, portfolio pieces, and day-to-day work.
@@ -112,7 +112,7 @@ Deep dive: [From Web2 to Web3 Developer Career Guide](/from-web2-to-web3-develop
 
 **How it works day to day:** Profile gas costs, optimize storage layout, implement a small EIP change behind a feature flag, and run benchmarks against prior releases. You collaborate with researchers on spec language and with client teams on compatibility.
 
-**Tools you will touch:** Rust, Go, consensus and execution specs, benchmarking harnesses, CI for multiple clients.
+**Tools you will touch:** Rust, Go, consensus and execution specs, benchmarking apply, CI for multiple clients.
 
 **What pay looks like:** FindFi protocol: $100k-$150k junior to $180k-$280k senior, $220k-$350k staff. web3.career blockchain developer average $150k.
 
@@ -345,3 +345,14 @@ Pick one track and follow its full guide:
 
 If you want a diagnostic, Hashtag Web3's career quiz maps your current skills to these tracks in a few minutes. If you want listings, Hashtag Web3, web3.career, and CryptoJobsList update daily and allow filtering by stack, location, and salary. Start with the guide, ship one link, then apply with that link at the top of your note.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+7. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+8. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+9. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)

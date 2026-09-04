@@ -3,14 +3,13 @@ title: Honeypot Scams in Crypto Explained
 image: /images/christin-hume-Hcfwew744z4-unsplash.jpg
 data-ai-hint: crypto scam trap
 description: >-
- A honeypot is a malicious smart contract that tricks users into sending it
- funds that they can never withdraw. Learn how these scams work and how to
- spot.
+  A honeypot is a malicious smart contract that tricks users into sending it
+  funds that they can never withdraw. Learn how these scams work and how to
+  spot.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In cryptocurrency, a **honeypot** represents a particularly deceptive and harmful type of scam. This scam uses a [smart contract](/what-are-smart-contracts) that creates an illusion of a lucrative opportunity, such as a new [token](/what-is-a-token) with an enticing price increase. However, the code prevents anyone except the scammer from withdrawing funds. This trap targets both naive and greedy users, effectively locking their investments away indefinitely.
 
 Recognizing how honeypots operate is essential for developing the skepticism necessary to engage safely in the [Web3](/what-is-web3) ecosystem. This article outlines the mechanics of honeypot scams and highlights specific red flags to help you avoid becoming a victim.
@@ -51,3 +50,16 @@ Even without coding expertise, you can use various red flags and tools to protec
 4. **Conduct Small Test Transactions:** Before committing a significant amount, conduct a small "test" purchase. Acquire a minimal quantity of the token and attempt to sell it immediately. If the transaction fails, you have likely encountered a honeypot and minimized your losses.
 
 Honeypot scams highlight the inherent risks in the decentralized and permissionless area of Web3. By exercising caution, using detection tools, and adhering to the principle of **[Do Your Own Research (DYOR)](/what-is-dyor-in-crypto)**, you can safeguard against these malicious traps.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

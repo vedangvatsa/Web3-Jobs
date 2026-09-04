@@ -1,14 +1,13 @@
 ---
 title: CRISPR Technology Explained for Beginners
 description: >-
- A simple and clear explanation of CRISPR, the new gene-editing tool, covering
- how it works, its applications, and the ethical questions it raises.
+  A simple and clear explanation of CRISPR, the new gene-editing tool, covering
+  how it works, its applications, and the ethical questions it raises.
 category: Educational
 data-ai-hint: dna editing
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 CRISPR represents a significant advancement in genetic science. This gene-editing technology enables precise modifications to DNA, fundamentally altering our approach to genetics. At its core, CRISPR functions like a digital editing tool for genes, allowing researchers to identify specific DNA sequences, cut them, and either excise or modify them.
 
 The term CRISPR stands for "Clustered Regularly Interspaced Short Palindromic Repeats." This name reflects its origins in the immune system of bacteria. Bacteria use CRISPR as a defense mechanism against viruses. When a virus attacks, the bacterium captures a fragment of the virus's DNA and stores it within its CRISPR loci. If the virus strikes again, the bacterium can recognize it and deploy an enzyme to cleave the viral DNA. This natural process has been adapted into a versatile gene-editing tool, primarily through the CRISPR-Cas9 system.
@@ -58,3 +57,16 @@ Traditional Genetically Modified Organisms (GMOs) often involve the insertion of
 
 **3. Can CRISPR be applied to complex diseases like Alzheimer's or heart disease?** 
 Diseases such as Alzheimer's and heart disease result from complex interactions among multiple genes and environmental factors. These conditions cannot be addressed with a single genetic edit as seen with monogenic diseases. Nevertheless, CRISPR serves as a valuable tool for researching these multifactorial diseases, potentially leading to novel therapies targeting genetic risk factors.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

@@ -1,15 +1,14 @@
 ---
 title: 'Web3Jobs: A New Model for Careers in Crypto'
 description: >-
- An exploration of the Web3 job space, known colloquially as 'web3jobs'.
- Understand the cultural shift, the in-demand roles, and how to build a career.
+  An exploration of the Web3 job space, known colloquially as 'web3jobs'.
+  Understand the cultural shift, the in-demand roles, and how to build a career.
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 category: Career Guides
 data-ai-hint: man thinking desk
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## #web3jobs: A New Career Approach
 
 The hashtag `#web3jobs` on platforms like Twitter and LinkedIn signifies a transformation in how professionals approach careers and value creation. The field of [Web3](/what-is-web3) jobs represents a departure from traditional employment structures, emphasizing ownership, decentralization, and community involvement.
@@ -57,3 +56,16 @@ The demand for talent in Web3 spans a variety of roles, both technical and non-t
  - If you are a writer, start a blog or share insights on Twitter about complex Web3 topics.
 
 4. **Engage with the Community:** Join Discord channels of projects that interest you. Rather than promoting your resume, focus on providing value by answering questions and participating in discussions. Building relationships within the community often leads to the best job opportunities.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

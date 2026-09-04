@@ -1,15 +1,14 @@
 ---
 title: 'Solana vs. Ethereum: A Showdown of Developer Activity'
 description: >-
- A comparative analysis of developer activity on Solana and Ethereum. We look
- at the metrics, the ecosystems, and the underlying trends to see where.
+  A comparative analysis of developer activity on Solana and Ethereum. We look
+  at the metrics, the ecosystems, and the underlying trends to see where.
 image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: two men facing off
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Solana vs. Ethereum: A Showdown of Developer Activity
 
 Developer activity serves as a critical metric for assessing the health and potential of Layer 1 blockchain ecosystems. A strong developer community builds more applications, enhances tooling, and strengthens network effects. Historically, [Ethereum](/what-is-ethereum) has dominated developer engagement, but high-performance blockchains like Solana are emerging as significant competitors.
@@ -66,3 +65,16 @@ In recent months, developer activity has exhibited varying trends on both platfo
 | April 2026 | Significant number | Significant number |
 
 This table indicates that while Ethereum maintains a significant lead in total developer activity, Solana is witnessing growth in its own right, particularly as it attracts specialized talent.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+9. [Solana Core Architecture Documentation](https://docs.solana.com/)
+10. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)

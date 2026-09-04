@@ -10,7 +10,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 An AI/Web3 Engineer builds systems where machine learning models and [blockchain](/what-is-a-blockchain) infrastructure work together. The role exists because neither stack alone solves the problem: blockchains need intelligence to act on real-world data, and AI needs verifiable execution, ownership, and payment rails.
 
 This guide defines the role, who it fits, how the work actually works, what the market pays in 2026, what to learn, and how to enter without wasting months on the wrong track.
@@ -166,3 +165,16 @@ Cost and time for verifiable inference. Every architecture choice trades proof c
 Ship code, write about trade-offs, and participate in reviewable work: open PRs on Foundry or Hardhat repos, verifiable dashboards on Dune, or bug reports with reproductions. In 2025 to 2026, employers treated deployed work and on-chain activity as stronger signals than certificates alone.
 
 ---
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)

@@ -1,16 +1,15 @@
 ---
 title: 'Creating Dynamic NFTs: A Step-by-Step Guide'
 image: >-
- https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: creating dynamic nfts step guide
 description: >-
- Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs)
- and shows you how to create NFTs that can change and evolve based on.
+  Go beyond static JPEGs. This guide explores the world of Dynamic NFTs (dNFTs)
+  and shows you how to create NFTs that can change and evolve based on.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The first generation of NFTs primarily consisted of static assets, such as JPEG files and video clips. Once minted, these NFTs had unchangeable metadata on the [blockchain](/what-is-a-blockchain). The evolution of NFTs introduces the **Dynamic [NFT](/what-are-nfts)**, or dNFT, which allows for changing metadata over time.
 
 Dynamic NFTs can update their attributes, appearance, or utility in response to real-world events. This capability opens up a wide range of creative possibilities for developers and artists.
@@ -71,3 +70,16 @@ Dynamic NFTs transform static digital assets into interactive objects that can r
 ### Importance of Understanding Dynamic NFTs
 
 Grasping the concept of dynamic NFTs is essential for professionals aiming to excel in the evolving digital asset field. Mastery in this area can lead to better career opportunities, particularly in Web3 organizations where new communication and collaboration are vital.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

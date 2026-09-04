@@ -1,16 +1,15 @@
 ---
 title: How to Build a Simple AMM on an L2
 image: >-
- https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVjaHxlbnwwfHx8fDE3NTQ5NTU3OTJ8MA&lib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1579567761406-4684ee0c75b6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMXx8dGVjaHxlbnwwfHx8fDE3NTQ5NTU3OTJ8MA&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: decentralized exchange crypto
 description: >-
- A practical guide for developers on how to build a basic Automated Market
- Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism.
+  A practical guide for developers on how to build a basic Automated Market
+  Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Automated Market Makers (AMMs) serve as foundational elements in Decentralized Finance ([DeFi](/what-is-defi)). They enable users to trade assets without intermediaries, using pools of [tokens](/what-is-a-token) instead of traditional order books. This design allows for easy, permissionless trading.
 
 For many developers, creating an AMM represents a significant milestone. This complex project requires proficiency in [Solidity](/best-programming-languages-for-blockchain-development), the Ethereum Virtual Machine (EVM), and essential DeFi principles. Here, I will outline the fundamental steps and code structure necessary to build a basic AMM on a Layer 2 (L2) network.
@@ -188,3 +187,16 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 4. **Quitting Too Soon**: Change often involves discomfort. Persistence through initial challenges leads to better outcomes.
 
 5. **Failing to Track Progress**: You cannot improve without metrics. Keep a close eye on your development.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+7. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+8. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+9. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+10. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)

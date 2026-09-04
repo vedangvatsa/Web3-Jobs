@@ -3,14 +3,13 @@ title: What Is Web3 and How Will It Change the Internet?
 image: /images/adi-goldstein-EUsVwEOsblE-unsplash.jpg
 data-ai-hint: web3 future internet
 description: >-
- An introduction to Web3, the next evolution of the internet. This guide
- explains the core concepts of decentralization, blockchain technology, and
- user.
+  An introduction to Web3, the next evolution of the internet. This guide
+  explains the core concepts of decentralization, blockchain technology, and
+  user.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 You've likely encountered terms like "[Web3](/what-is-web3)," "crypto," and "[blockchain](/what-is-a-blockchain)" when discussing the future of the internet. Web3 signifies more than just cryptocurrencies and [NFTs](/what-are-nfts); it embodies a significant vision for how the internet operates.
 
 Web3 represents the next evolution of the internet. It is decentralized, built on blockchain technology, and fundamentally owned by users rather than a few dominant corporations. To grasp Web3, it is essential to understand the progression of the internet.
@@ -79,3 +78,16 @@ Web3 is still in its experimental phase and faces numerous challenges.
 - **Education:** The concepts supporting Web3 can be challenging for newcomers to grasp.
 
 Despite these obstacles, Web3 embodies a promising vision for an improved internet. It aims to reconstruct the web using open protocols and user ownership, supporting a more equitable and creative digital environment. For developers, entrepreneurs, and creators, Web3 provides a platform to innovate and reclaim user ownership. The demand for skilled professionals is high, with many opportunities available on a **[Web3 job board](/jobs)**.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

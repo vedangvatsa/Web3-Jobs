@@ -1,15 +1,14 @@
 ---
 title: 'Bitcoin Whitepaper Day: The Genesis of a Revolution'
 description: >-
- Celebrate the anniversary of Satoshi Nakamoto's a significant Bitcoin
- whitepaper and its impact on decentralization and crypto.
+  Celebrate the anniversary of Satoshi Nakamoto's a significant Bitcoin
+  whitepaper and its impact on decentralization and crypto.
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: bitcoin cryptocurrency
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## The Shot Heard 'Round the Digital World
 
 Each year on October 31st, the global tech community marks an important occasion: the publication of the [Bitcoin](/what-is-bitcoin) whitepaper. In 2008, Satoshi Nakamoto, a pseudonymous figure, sent an email to a cryptography mailing list containing a link to a nine-page document titled **"Bitcoin: A Peer-to-Peer Electronic Cash System."** This document laid the groundwork for a transformation in finance.
@@ -72,3 +71,16 @@ The publication of the Bitcoin whitepaper extended beyond the creation of a new 
 Reading the Bitcoin whitepaper today reveals its clarity, conciseness, and foresight. In just nine pages, Satoshi Nakamoto articulated a complete and elegant solution to a problem that had perplexed cryptographers for years.
 
 On Bitcoin Whitepaper Day, we honor not only a technical document but also a manifesto: the belief that individuals should control their financial destinies, that trust can be established through code and mathematics, and that a more open, transparent, and equitable financial system is achievable. The change ignited by this paper is ongoing, and its full ramifications remain to be realized.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

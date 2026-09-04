@@ -3,14 +3,13 @@ title: On-Chain Identity Verification Explained
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: digital identity verification
 description: >-
- A guide to on-chain identity verification, exploring how Web3 uses
- technologies like DIDs and VCs to create a more secure, private, and
- user-controlled.
+  A guide to on-chain identity verification, exploring how Web3 uses
+  technologies like DIDs and VCs to create a more secure, private, and
+  user-controlled.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the digital market, verifying identity presents ongoing challenges. Many people rely on usernames and passwords or depend on major platforms like Google and Facebook to authenticate their identity for other services. This centralized approach poses significant privacy and security risks. On-chain identity verification, enabled by [Web3](/what-is-web3), offers a more secure, private, and user-controlled method for managing digital identities.
 
 On-chain identity verification shifts control from centralized entities to individuals. By using the public and verifiable nature of the [blockchain](/what-is-a-blockchain), it enables users to prove claims about their identity. With this system, individuals manage their own identities and can choose what information to disclose without exposing all personal data.
@@ -70,3 +69,16 @@ On-chain identity verification is integral to the Web3 vision, supporting a more
 ### The Importance of On-Chain Identity Verification
 
 Professionals who understand on-chain identity verification can differentiate themselves in the job market. In a competitive workplace, mastering this skill can lead to increased earning potential and faster career advancement. This is particularly true in Web3 organizations where collaboration and communication play vital roles.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [Solana Core Architecture Documentation](https://docs.solana.com/)
+7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

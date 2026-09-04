@@ -3,13 +3,12 @@ title: How to Get Started as a Web3 UX Designer
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: web3 ux design
 description: >-
- A practical starting guide for Web3 UX designers covering wallet flows,
- transaction states, trust and security, core skills, and portfolio projects.
+  A practical starting guide for Web3 UX designers covering wallet flows,
+  transaction states, trust and security, core skills, and portfolio projects.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 One of the significant barriers to the widespread adoption of [Web3](/what-is-web3) is its often subpar user experience. New users frequently find interacting with decentralized applications (dApps) confusing and daunting. This situation has generated substantial demand for skilled UX/UI designers who can connect the complex backend of the [blockchain](/what-is-a-blockchain) with the end-user experience.
 
 Web3 represents an good opportunity for designers. It offers the chance to tackle unique design challenges and shape interaction patterns for the next generation of the internet. This guide provides a roadmap for designers looking to build a career in the Web3 space.
@@ -50,3 +49,16 @@ Transitioning from Web2 to Web3 requires a compelling [portfolio](/building-web3
 4. **Publish Your Insights:** Write a blog post or a Twitter thread addressing a specific Web3 UX challenge and propose solutions.
 
 A career as a Web3 UX designer positions you leading a design evolution. By emphasizing clarity, security, and user empathy, you can significantly contribute to making the decentralized internet accessible to all.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

@@ -3,12 +3,14 @@ title: 'How to Create an NFT Collection: From Concept to On-Chain Drop'
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft collection creation
 description: >-
-  A practical guide to creating an NFT collection in 2026. Learn how collections work on chain, when to use ERC-721 vs ERC-1155, how to prepare art and metadata, choose a chain and contract, store data on IPFS, and launch through OpenSea Studio or Manifold without wasting gas or rights.
+  A practical guide to creating an NFT collection in 2026. Learn how collections
+  work on chain, when to use ERC-721 vs ERC-1155, how to prepare art and
+  metadata, choose a chain and contract, store data on IPFS, and launch through
+  OpenSea Studio or Manifold without wasting gas or rights.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is an NFT collection
 
 An NFT collection is a set of tokens governed by one smart contract. The contract defines the name, symbol, and token standard, and each mint creates a new tokenId under that contract with a tokenURI that points to a JSON file describing the item.
@@ -267,3 +269,16 @@ There are durable roles tied to NFT tech, but fewer speculative ones than in 202
 **What should I read next on this site?**
 
 Start with /what-are-nfts for the underlying standards, /what-is-a-blockchain for ledger basics, /what-are-smart-contracts for how contracts execute, /generative-art-and-nfts for long-form generative mechanics, and /how-to-choose-a-crypto-wallet for custody. For pricing and rights, see /nft-artist-royalties. For a single-piece workflow, see /how-to-become-an-nft-creator.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
+4. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+5. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+6. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

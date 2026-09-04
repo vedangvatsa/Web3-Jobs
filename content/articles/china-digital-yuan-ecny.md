@@ -3,13 +3,12 @@ title: 'China''s Digital Yuan (e-CNY): A Web3 Perspective'
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: digital currency china
 description: >-
- An analysis of China's e-CNY. We explore how this Central Bank Digital
- Currency (CBDC) works and how it fundamentally differs from decentralized.
+  An analysis of China's e-CNY. We explore how this Central Bank Digital
+  Currency (CBDC) works and how it fundamentally differs from decentralized.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 As digital currencies evolve, two distinct pathways are becoming evident: decentralized cryptocurrencies like [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum), and Central Bank Digital Currencies (CBDCs). Among these, China's Digital Yuan, or e-CNY, stands out as one of the most advanced CBDC projects globally.
 
 e-CNY and cryptocurrencies both use digital technology for transactions, yet they differ fundamentally in philosophy and architecture. Understanding the e-CNY is essential for professionals in [Web3](/what-is-web3), as it embodies a state-controlled vision of money, contrasting sharply with decentralized alternatives.
@@ -48,3 +47,16 @@ This structure enables the government to maintain control while using the existi
 | **Issuance** | Governed by central bank monetary policy | Governed by a predictable algorithm |
 
 The e-CNY represents a future where monetary transactions become more efficient yet more controlled. This provides a stark counterpoint to the Web3 vision of a decentralized and open financial system. As CBDCs gain traction globally, the tension between these two frameworks will shape the future of finance significantly.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

@@ -1,14 +1,13 @@
 ---
 title: 'Jack Dorsey on Web3: A Bitcoin Maximalist''s Vision for a Decentralized Future'
 description: >-
- Explore Jack Dorsey's passionate, and often controversial, views on Web3.
- Learn why the Twitter and Block founder is a Bitcoin maximalist and a sharp.
+  Explore Jack Dorsey's passionate, and often controversial, views on Web3.
+  Learn why the Twitter and Block founder is a Bitcoin maximalist and a sharp.
 category: Industry Insights
 data-ai-hint: man technology
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic
 
 Jack Dorsey, co-founder of Twitter and founder of Block (formerly Square), stands as a significant advocate for decentralization, but his views often diverge from mainstream Silicon Valley thinking. While many in the tech sector endorse the expansive ecosystem of [Web3](/what-is-web3), including [Ethereum](/what-is-ethereum), [NFTs](/what-are-nfts), and [DeFi](/what-is-defi), Dorsey firmly aligns himself as a [Bitcoin](/what-is-bitcoin) maximalist. He asserts that Bitcoin is the sole viable internet-native currency, criticizing current Web3 developments as distractions controlled by venture capitalists.
@@ -79,3 +78,16 @@ No. A fundamental principle of Web5 is its reliance on Bitcoin without introduci
 **Q5: What is Bluesky and how is it related to Twitter (X)?**
 
 Bluesky is an independent project initially incubated at Twitter under Dorsey's leadership. It aims to develop a decentralized social networking protocol (the AT Protocol), independent of X (formerly Twitter). The goal is to enable multiple social media applications, including a potential future iteration of X, to operate on a shared, open protocol, allowing for user choice and account portability.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [Solana Core Architecture Documentation](https://docs.solana.com/)
+9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

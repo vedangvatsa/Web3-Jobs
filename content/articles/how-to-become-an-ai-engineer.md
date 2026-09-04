@@ -2,13 +2,12 @@
 title: How to Become an AI Engineer
 data-ai-hint: person coding future
 description: >-
- A step-by-step roadmap for aspiring AI and Machine Learning Engineers. Learn
- about the essential skills, the best learning resources, and how to build a.
+  A step-by-step roadmap for aspiring AI and Machine Learning Engineers. Learn
+  about the essential skills, the best learning resources, and how to build a.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Becoming an AI Engineer presents a challenging yet fulfilling career opportunity. This role involves working on advanced technologies, addressing complex problems, and developing intelligent systems that contribute significantly to various industries. Building a solid technical foundation is essential, but the pathway to becoming an AI Engineer has become increasingly accessible due to numerous high-quality online resources.
 
 This guide serves as a structured roadmap for those starting from scratch. It outlines the foundational knowledge, essential skills, and actionable steps necessary to secure your first position as an AI or Machine Learning Engineer.
@@ -127,3 +126,16 @@ Engaging in personal projects and contributing to open-source initiatives is vit
 **4. Should I focus on TensorFlow or PyTorch?**
 
 Both frameworks are excellent choices. PyTorch currently enjoys greater popularity in research and is often easier for newcomers to learn. TensorFlow boasts a reliable production ecosystem. A good strategy is to master one framework deeply, likely PyTorch, while familiarizing yourself with the basics of the other.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

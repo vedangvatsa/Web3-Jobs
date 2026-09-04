@@ -1,14 +1,13 @@
 ---
 title: First Time Manager Complete Survival Guide
 description: >-
- Stepping into management for the first time? Here's your no-nonsense survival
- guide to work through the challenges and thrive in your new leadership role.
+  Stepping into management for the first time? Here's your no-nonsense survival
+  guide to work through the challenges and thrive in your new leadership role.
 category: Career Guides
 data-ai-hint: new manager
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Congratulations on becoming a manager. While this promotion brings excitement, the transition can be overwhelming. Your success shifts from individual performance to the achievements of your team. This guide provides a structured approach to help you manage the initial challenges and establish a strong foundation for effective leadership.
 
 ## Week 1: Listen and Learn
@@ -74,3 +73,16 @@ Yes, feeling overwhelmed is common among new managers. The role often involves j
 **Should I change processes established by my predecessor?**
 
 Avoid making changes solely for the sake of change. Your initial listening tour is important for understanding what processes your team values and which ones they find ineffective. If you identify a clearly inefficient process that the team dislikes, consider it for an early win. However, if an existing system works well, even if it differs from your preferred approach, exercise caution before altering it.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

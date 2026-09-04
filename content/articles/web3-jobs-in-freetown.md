@@ -2,13 +2,12 @@
 title: 'Web3 Jobs in Freetown: A Guide to Sierra Leone''s Digital Renaissance'
 data-ai-hint: freetown sierra leone city
 description: >-
- A career guide to the emerging Web3 job market in Freetown. Explore how Sierra
- Leone's capital is using blockchain for governance and financial inclusion.
+  A career guide to the emerging Web3 job market in Freetown. Explore how Sierra
+  Leone's capital is using blockchain for governance and financial inclusion.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Freetown, the resilient capital of Sierra Leone, is establishing itself as a significant player in the [Web3](/what-is-web3) movement. The city is transforming into a case study for the use of [blockchain](/what-is-a-blockchain) technology in governance and identity verification. Notably, Sierra Leone was among the first countries to implement blockchain for verifying national election results. the nation is developing a blockchain-based digital identity system, reflecting a governmental commitment to using technology for social good. This proactive approach has built a unique and impactful Web3 ecosystem.
 
 The focus in Freetown's Web3 sector goes beyond speculation. The emphasis lies on using blockchain to address core issues in governance, finance, and identity verification. This focus has generated a demand for professionals who are dedicated to "Web3 for Good" and capable of creating systems that deliver measurable social benefits. This guide offers a detailed analysis of the [Web3 career](/web3-jobs-for-beginners) opportunities in Freetown, detailing the city's unique emphasis, available roles, and strategies for building a career that merges technology with social innovation.
@@ -214,3 +213,16 @@ Local demand is limited due to few existing companies. However, international or
 
 **How can I stay updated on the national ID project?** 
 Follow the Ministry of Finance and the National Civil Registration Authority on social media. Join identity-focused communities and engage with the Decentralized Identity Foundation.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+5. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

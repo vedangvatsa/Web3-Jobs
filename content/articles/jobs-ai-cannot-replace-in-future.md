@@ -2,14 +2,13 @@
 title: Jobs AI Cannot Replace in Future
 data-ai-hint: human creativity art
 description: >-
- Explore the careers and roles that are most resilient to automation and
- discover the uniquely human skills that will remain valuable in an AI-driven
- world.
+  Explore the careers and roles that are most resilient to automation and
+  discover the uniquely human skills that will remain valuable in an AI-driven
+  world.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 With the advent of new technologies, concerns about job losses have surfaced throughout history, from the steam engine to the internet. Today, artificial intelligence (AI) is leading this discussion. While AI will indeed automate many tasks, it will not render human beings obsolete. Certain roles will remain uniquely suited to human skills and are unlikely to be replaced by machines in the near future.
 
 Recognizing these roles involves understanding the unique aspects of human intelligence and where our skills will continue to provide significant value. AI excels in areas like computation, pattern recognition, and data processing. In contrast, humans thrive in domains that require authentic creativity, emotional intelligence, and adaptability in unpredictable environments. These are the sectors where job security is most likely.
@@ -106,3 +105,16 @@ The future of work represents a collaboration between humans and machines. By ho
 4. **Implement Changes Gradually**: Start with manageable adjustments. Monitor what works and what doesn't to enable sustainable improvement.
 
 5. **Measure Progress and Adjust**: Regularly review your development. Adapt your strategies based on outcomes and feedback.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

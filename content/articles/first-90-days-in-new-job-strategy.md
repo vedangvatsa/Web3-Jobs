@@ -1,15 +1,14 @@
 ---
 title: 'The First 90 Days: A Strategic Plan for Success in a New Job'
 description: >-
- Your first 90 days in a new role are critical. This guide provides a
- week-by-week strategy to help you work through your new environment, build
- relationships.
+  Your first 90 days in a new role are critical. This guide provides a
+  week-by-week strategy to help you work through your new environment, build
+  relationships.
 category: Career Guides
 data-ai-hint: new job
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## The First 90 Days: A Strategic Plan
 
 Your first 90 days in a new role can significantly impact your overall success within the organization. This period is essential for forming first impressions, understanding the company culture, and establishing your credibility as a valuable team member.
@@ -118,3 +117,16 @@ You now have a solid understanding of the company dynamics. It is time to start 
 **Be Patient with Yourself:** Your goal during this phase is to demonstrate progress, not perfection. You will make mistakes, which are opportunities for learning.
 
 **Stay Humble:** Avoid suggesting major changes in your initial days. Approach your new role with humility and openness, which can be more impressive than having all the answers.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

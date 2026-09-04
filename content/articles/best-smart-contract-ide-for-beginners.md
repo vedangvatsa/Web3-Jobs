@@ -11,7 +11,6 @@ imageAlt: Smart contract development environment on a computer screen
 publishedDate: '2026-03-15'
 lastUpdated: "2026-09-04"
 ---
-
 A smart contract IDE lets you write, compile, test, and deploy contracts from one place. The right choice saves hours of setup on your first project. The wrong choice leaves you fixing config files before you write any Solidity or Rust.
 
 This guide is for beginners who want to ship a first contract in the next few days. It covers four options you can start with today: Remix for zero-setup Solidity, VS Code plus Hardhat for professional Ethereum work, Foundry for testing in Solidity, and VS Code plus Anchor for Solana. Each section explains what it is, who it fits, how it works, and how to get started.
@@ -271,7 +270,7 @@ Developers who have chosen Solana as their target chain and are willing to learn
 
 You write programs in Rust in VS Code with the Rust Analyzer extension and the Anchor CLI. The programming model is different from the EVM. Solana has no global contract storage. Programs are stateless and data lives in separate accounts you pass to each instruction. That means extra work to validate accounts and allocate space, which Anchor simplifies.
 
-Testing in Anchor 1.x uses LiteSVM or Mollusk for fast local tests, or the Anchor test harness with TypeScript via `@coral-xyz/anchor`. The IDL describes your program once and generates typed clients so your frontend and tests stay in sync.
+Testing in Anchor 1.x uses LiteSVM or Mollusk for fast local tests, or the Anchor test apply with TypeScript via `@coral-xyz/anchor`. The IDL describes your program once and generates typed clients so your frontend and tests stay in sync.
 
 If you want no local install, use Solana Playground at https://beta.solpg.io. It lets you create an Anchor project, build, deploy to devnet, and test in the browser.
 
@@ -370,3 +369,16 @@ Yes. Solidity and the EVM have the most tutorials and shared tooling. If you lea
 
 **Which VS Code extension should I install for Solidity?**
 Install Solidity by Nomic Foundation with marketplace ID `NomicFoundation.hardhat-solidity`. It gives syntax highlighting, inline errors, completion, and go to definition for both Hardhat and Foundry projects. Turn off other Solidity extensions to avoid duplicate diagnostics.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+6. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+8. [Slither Static Analyzer Repository by Trail of Bits](https://github.com/crytic/slither)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)

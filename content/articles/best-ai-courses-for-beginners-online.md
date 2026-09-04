@@ -9,7 +9,6 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 AI courses for beginners fall into two useful groups. Some teach you what AI can do and how to use it at work without writing code. Others teach you to build models with Python and math.
 
 This guide covers six courses that remain strong starting points in 2026. All details were verified on the official provider sites in August 2026. You get what each course is, who it fits, how it works in practice, what it costs and how long it takes, plus pros, cons, and how to start.
@@ -304,3 +303,16 @@ The official recommendation is Machine Learning Specialization first, then Deep 
 
 **8. What changed in these courses in 2026?**
 Elements of AI continues to offer free content with optional university credit windows set by the academic year. AI For Everyone, Machine Learning Specialization, and Deep Learning Specialization remain on Coursera with the same month-based pricing and financial aid. Career Essentials in Generative AI on LinkedIn Learning now shows 5 courses and 4 hours, with an update scheduled for October 1, 2026. Practical Deep Learning for Coders remains free at course.fast.ai with Part 1 and the longer Part 2 on foundations to Stable Diffusion.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

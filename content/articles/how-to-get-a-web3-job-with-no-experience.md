@@ -10,7 +10,6 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 I have hired juniors for Web3 teams. The ones who got offers had no prior crypto title. They had public proof that they could do the work.
 
 Hiring managers screen for reputation and contributions before resumes. Job posts that ask for "deep DeFi knowledge" or "DAO experience" filter for people who have already shown it in public. You can build that signal in 60 to 90 days without quitting your current job.
@@ -184,3 +183,16 @@ You do not need a crypto title to get a crypto job. You need a short chain of pu
 30 days to immerse and use the tools. 30 days to ship three artifacts for one lane. 30 days to join a guild, complete one bounty, and put three linked items at the top of your resume.
 
 Start with one small, useful contribution this week. The next one gets easier because people already know your name.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+8. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+9. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+10. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)

@@ -1,14 +1,13 @@
 ---
 title: Understanding LP Rewards and Fees
 description: >-
- A full breakdown of how liquidity providers earn money through trading fees
- and yield farming rewards, and the factors that determine their.
+  A full breakdown of how liquidity providers earn money through trading fees
+  and yield farming rewards, and the factors that determine their.
 category: Educational
 data-ai-hint: liquidity provider
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## Understanding LP Rewards and Fees
 
 Providing liquidity to a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX) plays a critical role in Decentralized Finance ([DeFi](/what-is-defi)). Liquidity Providers (LPs) deposit their assets into liquidity pools and in return, they receive compensation for the risks involved, including impermanent loss. This compensation is derived mainly from two sources: **trading fees** and **[yield farming](/what-is-yield-farming) rewards**.
@@ -97,3 +96,16 @@ High APYs are not inherently negative, but they warrant caution. An exorbitant A
 
 **How does [concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap) (Uniswap v3) affect LP fees?** 
 Concentrated liquidity allows LPs to capture a larger share of fees with the same capital investment, provided their liquidity remains within the active trading range. This can enhance fee revenue but also increases exposure to impermanent loss.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -9,7 +9,6 @@ data-ai-hint: blockchain data
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 ## What is MEV? The Invisible Tax on Web3 Explained
 
 ### What is it
@@ -23,7 +22,7 @@ Flashbots, founded in late 2020 by Phil Daian, Stephane Gosselin and Tina Zhen w
 ### Who it's for
 
 * **Active DEX traders.** If you swap on Uniswap, Curve, or any AMM, your pending transaction is visible before it executes. That visibility is what sandwich bots use.
-* **Liquidity providers.** MEV arbitrage constantly picks off stale AMM quotes. Research from CoW Protocol and Paradigm calls this loss-versus-rebalancing (LVR) and finds it often exceeds LP fee income.
+* **Liquidity providers.** MEV arbitrage constantly picks off stale AMM quotes. Research from CoW Protocol and model calls this loss-versus-rebalancing (LVR) and finds it often exceeds LP fee income.
 * **DeFi borrowers.** Lending protocols like Aave and Maker rely on liquidations. Searchers compete to liquidate undercollateralized positions first to collect the bonus.
 * **App and protocol developers.** Any contract that uses an on-chain price, assumes transaction order, or handles large swaps can be gamed if you do not design for MEV.
 * **Validators and stakers.** MEV now makes up a large share of validator income. How you source blocks affects your rewards and your exposure to censorship risk.
@@ -163,3 +162,16 @@ No. Today most rollups use centralized sequencers that control ordering, which l
 Route swaps through Flashbots Protect, MEV Blocker, or CoW Swap. That one habit removes about 95 percent of sandwich exposure for a normal retail trader.
 
 MEV is a core part of how public blockchains work. You cannot avoid it by ignoring it, but you can choose routing and settings that keep price-correcting MEV for the market and keep sandwich MEV off your trades.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+8. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+9. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+10. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

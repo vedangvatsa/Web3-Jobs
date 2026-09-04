@@ -2,13 +2,12 @@
 title: 'Web3 Jobs in Maputo: A Guide to Mozambique''s Coastal Tech Scene'
 data-ai-hint: maputo mozambique city
 description: >-
- A career guide to the emerging Web3 job market in Maputo. Explore how
- Mozambique's capital is using its young population and growing tech scene to.
+  A career guide to the emerging Web3 job market in Maputo. Explore how
+  Mozambique's capital is using its young population and growing tech scene to.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Maputo, the busy port capital of Mozambique, is experiencing a technological renaissance. A youthful and entrepreneurial population is driving the growth of the local technology sector, supported by increasing internet connectivity. Although the [Web3](/what-is-web3) ecosystem in Maputo is still developing, enthusiasm and opportunities are on the rise. A dedicated community of developers, artists, and entrepreneurs is beginning to use [blockchain](/what-is-a-blockchain) technology to tackle local issues and integrate Mozambique into the global decentralized economy.
 
 The active Web3 scene in Maputo thrives on creativity, prioritizing mobile-first solutions, and maintaining strong ties with the broader Lusophone (Portuguese-speaking) world. For ambitious professionals in Mozambique, Web3 offers a platform to lead a new wave of innovation. This guide provides a detailed overview of the [Web3 career](/web3-jobs-for-beginners) opportunities in Maputo, highlighting potential growth areas, in-demand skills, and ways to engage with this emerging market.
@@ -318,3 +317,16 @@ A:
 - Never share private keys. 
 - Help others avoid scams by sharing knowledge. 
 - Build a reputation based on trust and reliability.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

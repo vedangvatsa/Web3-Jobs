@@ -2,14 +2,13 @@
 title: 'Smart Contract Jobs: A Career Guide for Developers'
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 description: >-
- Smart contract development is a highly sought-after skill. This guide covers
- the roles, responsibilities, and how to start your career as a smart contract.
+  Smart contract development is a highly sought-after skill. This guide covers
+  the roles, responsibilities, and how to start your career as a smart contract.
 category: Career Guides
 data-ai-hint: developer career
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 [Smart contract](/what-are-smart-contracts) development is the most in-demand technical skill in [Web3](/what-is-web3). If you're a developer considering a career in [blockchain](/what-is-a-blockchain), understanding the smart contract job market matters.
 
 Smart contracts are programs that run on blockchains. They execute financial transactions, manage assets, and enforce agreements without requiring a middleman. Writing these programs requires strong programming fundamentals, a deep understanding of blockchain mechanics, and a security mindset.
@@ -175,3 +174,16 @@ Understanding and managing your emotions, and reading others, determines your ef
 - Move from conscious competence to unconscious competence
 - Help others develop these skills
 - Continuously refine through feedback
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+8. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
+9. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
+10. [Base Layer 2 Network Official Documentation](https://docs.base.org/)

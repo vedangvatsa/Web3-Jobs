@@ -1,16 +1,15 @@
 ---
 title: 'Tokenomics 101: Understanding Crypto Token Economics'
 image: >-
- https://images.unsplash.com/photo-1666032250188-b6797784b249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0b2tlbnxlbnwwfHx8fDE3NTQ5NTU4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080
+  https://images.unsplash.com/photo-1666032250188-b6797784b249?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx0b2tlbnxlbnwwfHx8fDE3NTQ5NTU4Mjh8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
- A beginner's guide to tokenomics. Learn about supply, distribution, and
- utility, and how these factors determine a crypto asset's value and long-term
- viability.
+  A beginner's guide to tokenomics. Learn about supply, distribution, and
+  utility, and how these factors determine a crypto asset's value and long-term
+  viability.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Tokenomics is important for determining the success of cryptocurrency projects. While market speculation and hype contribute to price fluctuations, the long-term viability of a token often hinges on its economic model, or tokenomics. By understanding the principles behind tokenomics, investors and developers can assess the potential of various projects more effectively.
 
 Tokenomics combines the concepts of "token" and "economics" to explore how a cryptocurrency's design impacts its supply, demand, and value. A strong tokenomics framework aligns the interests of all participants, from developers to users, encouraging them to contribute to the network's growth and security. Conversely, poorly structured tokenomics can result in inflation, centralization, and project failure.
@@ -62,3 +61,16 @@ To evaluate a new project effectively, employ the following framework:
 3. **Utility:** What functions does the token serve? Does it have a defined purpose that drives ongoing demand?
 
 By analyzing these three components, you can make informed decisions and cut through the hype surrounding various crypto projects. Understanding tokenomics equips you to engage with the decentralized network effectively.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

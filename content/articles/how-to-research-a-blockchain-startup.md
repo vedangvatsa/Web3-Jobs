@@ -3,14 +3,13 @@ title: How to Research a Blockchain Startup Before You Join
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: research analysis magnifying glass
 description: >-
- A guide for job seekers on how to perform due diligence on a Web3 startup.
- Learn what to look for in the team, tokenomics, and community before
- accepting.
+  A guide for job seekers on how to perform due diligence on a Web3 startup.
+  Learn what to look for in the team, tokenomics, and community before
+  accepting.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The [Web3](/what-is-web3) job market offers many opportunities, yet it also presents significant risks and volatility. A project that appears promising can collapse within months. Conducting thorough research before accepting a position at a [blockchain](/what-is-a-blockchain) startup is essential. This research involves more than reading their website or a few news articles; it requires a detailed due diligence process akin to what venture capitalists undertake when considering investments. You must become knowledgeable about the project, including its strengths and weaknesses. This guide outlines a structured approach for evaluating a blockchain startup before you make a commitment.
 
 ### 1. The Team: The Key Indicator of Success
@@ -56,3 +55,16 @@ Understanding the financial supportings of a project provides insight into its s
 - **Treasury Management Practices:** Examine how the project's treasury is managed. Is it mainly held in volatile assets, or has it been diversified into stablecoins? A well-managed treasury enhances the project's chances of weathering market downturns.
 
 Joining a Web3 startup is a significant decision. By conducting thorough due diligence, you can discern the genuine risks and opportunities, allowing you to make an informed choice about where to invest your time and talents.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
+10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

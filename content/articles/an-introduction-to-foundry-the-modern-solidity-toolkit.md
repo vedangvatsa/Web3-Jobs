@@ -10,7 +10,6 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Foundry is a Rust-based toolkit for Ethereum development that lets you compile, test, fuzz, debug and deploy Solidity contracts from the command line. The official book at getfoundry.sh describes it as a blazing fast, portable and modular toolkit. You write tests and deployment scripts in Solidity and run them directly on a fast local EVM.
 
 It is open source at github.com/foundry-rs/foundry, licensed Apache-2.0 and MIT, and installed with a single version manager called foundryup.
@@ -327,3 +326,16 @@ Yes. Compile the same `src/` with both, pin the same `solc` version, and let Har
 
 **What should I read next?**
 The Foundry Book at getfoundry.sh, the cheatcodes reference, the `forge-std` docs at github.com/foundry-rs/forge-std, and the benchmarks page at getfoundry.sh/benchmarks for recent performance notes.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+7. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
+8. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+9. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+10. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)

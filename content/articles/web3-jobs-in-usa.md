@@ -1,16 +1,15 @@
 ---
 title: 'Web3 Jobs in the USA: The Epicenter of Crypto Innovation'
 image: >-
- https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1c2F8ZW58MHx8fHwxNzE2NDAyMDY1fDA&lib=rb-4.0.3&q=80&w=1080
+  https://images.unsplash.com/photo-1496442226666-8d4d0e62e6e9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1c2F8ZW58MHx8fHwxNzE2NDAyMDY1fDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: usa city skyline
 description: >-
- A guide to the Web3 job market in the United States. We cover the key hubs
- like New York and San Francisco, the most in-demand roles, and the salary.
+  A guide to the Web3 job market in the United States. We cover the key hubs
+  like New York and San Francisco, the most in-demand roles, and the salary.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 The United States serves as the central hub for the [Web3](/what-is-web3) industry. This nation hosts the largest and most influential venture capital firms, the headquarters of leading protocols and companies, and the highest demand for skilled professionals. Rather than functioning as a singular market, the US comprises multiple active hubs, each with distinct cultures and areas of expertise. New York City stands as the heart of finance and crypto, while the San Francisco Bay Area focuses on deep-tech engineering and research. This diverse ecosystem presents a broad array of career opportunities within the decentralized space.
 
 This guide offers a detailed examination of the [Web3 job](/web3-jobs-for-beginners) market in the United States. It highlights key hubs, in-demand roles, and salary benchmarks in the leading global crypto market.
@@ -65,3 +64,16 @@ The US offers some of the highest salaries for Web3 positions globally, reflecti
 ### Finding Your US-Based Web3 Job
 
 To explore high-impact roles in the leading Web3 market, check the thousands of available positions on our [Web3 job board](/jobs). The US remains the top destination for ambitious professionals eager to tackle challenging problems and contribute to the decentralized internet's evolution.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

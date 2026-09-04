@@ -2,15 +2,14 @@
 title: 'Securing Your Crypto: A Guide to Keeping Your Assets Safe'
 image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 description: >-
- In Web3, you are your own bank. This guide covers the essential security
- practices for keeping your cryptocurrency safe, from wallet security to
- avoiding.
+  In Web3, you are your own bank. This guide covers the essential security
+  practices for keeping your cryptocurrency safe, from wallet security to
+  avoiding.
 category: Career Guides
 data-ai-hint: crypto security
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In [Web3](/what-is-web3), you are your own bank. This fundamental principle is both a feature and a challenge. You have complete control of your assets. But with that control comes responsibility. If someone steals your private key, your assets are gone. There's no customer service to recover them. There's no insurance protecting you (in most cases).
 
 This guide covers the essential security practices for protecting your cryptocurrency and digital assets. Whether you're holding [Bitcoin](/what-is-bitcoin), trading on DEXs, or staking [tokens](/what-is-a-token), good security practices are essential.
@@ -128,3 +127,16 @@ Here are security best practices to follow consistently.
 **Use 2FA**: Enable two-factor authentication everywhere it's available. Use an authenticator app (like Authy) rather than SMS for critical accounts.
 
 **Insurance options**: Some platforms offer protection for assets. If security is your priority, storing assets on a regulated exchange might be worth the counterparty risk.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+6. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

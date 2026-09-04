@@ -1,14 +1,15 @@
 ---
-title: Blockspace Explained - What It Is, Why It Is Scarce, and How Networks Price It
+title: 'Blockspace Explained - What It Is, Why It Is Scarce, and How Networks Price It'
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain blocks data network
 description: >-
-  Blockspace is the limited capacity inside each block for transactions and data. Learn how Bitcoin, Ethereum, Polkadot and Avalanche define, measure and price it, and what that means for fees and scaling.
+  Blockspace is the limited capacity inside each block for transactions and
+  data. Learn how Bitcoin, Ethereum, Polkadot and Avalanche define, measure and
+  price it, and what that means for fees and scaling.
 category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Blockspace is the capacity inside each block that can hold transactions and data. Every block has a fixed cap, and new blocks arrive at a roughly fixed rate. That makes blockspace scarce by design. When demand exceeds that cap, users bid for inclusion and fees rise.
 
 Think of it as the product a blockchain sells. The chain produces a set amount of verifiable compute and storage per second. Applications buy it to settle value, run code, or post data. The price reflects how much security, decentralization and flexibility that blockspace carries.
@@ -143,3 +144,15 @@ Use a rollup if you want Ethereum security for settlement while posting data che
 **Where can I verify these numbers?**
 Bitcoin weight and limits on en.bitcoin.it wiki and Bitcoin Core source. Ethereum gas and fee history on ethereum.org developers docs, EIP-1559 and EIP-4844 at eips.ethereum.org, and blob details on the Vitalik Buterin blog. Polkadot coretime on docs.polkadot.com and wiki.polkadot.com. Avalanche L1 fees and Etna details at build.avax.network and support.avax.network.
 
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
+3. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
+4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
+5. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+6. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
+7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+10. [Solana Core Architecture Documentation](https://docs.solana.com/)

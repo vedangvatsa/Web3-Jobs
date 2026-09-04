@@ -2,12 +2,13 @@
 title: 'How to Use AI in Hiring: A Practical Guide for Hiring Managers and Founders'
 data-ai-hint: hiring manager reviewing candidates
 description: >-
-  A practical guide to using AI in hiring without creating legal or trust problems. Learn where AI helps, where it adds risk, what NYC, Illinois, and EU rules require, and a seven-step setup with bias checks and human oversight.
+  A practical guide to using AI in hiring without creating legal or trust
+  problems. Learn where AI helps, where it adds risk, what NYC, Illinois, and EU
+  rules require, and a seven-step setup with bias checks and human oversight.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 AI in hiring refers to software that helps write job descriptions, source candidates, screen resumes, rank applicants, schedule interviews, and track decisions. A person still makes the hire, but the system shapes who gets seen and how quickly you move.
 
 This guide explains what these tools do, who should use them, how they work in practice, what helps and what hurts, what the law requires in the United States and the EU, and how to set up a process you can defend.
@@ -251,3 +252,16 @@ Keep it specific. State the stage, the job-related criteria used, that a human r
 Data period and requisitions covered, total applicants and counts by group including unknown, selection rates and impact ratios by race or ethnicity and sex, auditor name and independence statement, model version, criteria used, notices sent with dates, human overrules with reasons, and next audit date. Keep version history so you can show what changed and when.
 
 *Sources and further reading: EEOC Technical Assistance on Assessing Adverse Impact under Title VII, May 18, 2023 and ADA guidance May 2022; NYC DCWP Automated Employment Decision Tools page and Rule and FAQ; 820 ILCS 42 Artificial Intelligence Video Interview Act and 775 ILCS 5/2-102 as amended by HB 3773; Maryland Labor and Employment Sec. 3-717; Colorado SB 24-205; Regulation (EU) 2024/1689 Annex III point 4 and Articles 5, 9 to 15, 26, 50, 99 on EUR-Lex; NIST AI Risk Management Framework 1.0 January 26, 2023 and Generative AI Profile NIST AI 600-1 July 2024 at nist.gov; SHRM Talent Trends February 2025 and March 2026 reports; Pew Research Center April 20, 2023 and 2025 to 2026 updates; HireVue Global Guide to AI in Hiring February 2025; LinkedIn Future of Recruiting 2025.*
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+4. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+5. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
+6. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

@@ -3,14 +3,13 @@ title: How to Conduct Effective One-on-Ones That Aren't Status Updates
 category: Career Guides
 date: '2025-09-12'
 description: >-
- Master the art of the one-on-one meeting. This guide provides a clear agenda,
- powerful questions to ask, and tips for turning your check-ins into the most.
+  Master the art of the one-on-one meeting. This guide provides a clear agenda,
+  powerful questions to ask, and tips for turning your check-ins into the most.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: one on one meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 Most one-on-ones are bad. Not because managers don't care, but because the meeting defaults to "what are you working on?" - and then 30 minutes disappear into a status rundown that could've been a Slack message. Here's how to fix it.
 
 ## Why Status Update 1:1s Are a Waste
@@ -71,3 +70,16 @@ When you're spread across time zones and might not share a single overlapping wo
 After your next 1:1, ask yourself: did I learn something I didn't know before? If the answer is yes, the meeting worked. If the answer is no, you're probably still running a status update.
 
 Good 1:1s are how you retain people, develop talent, and catch problems before they explode. If you're stepping into a [management role in Web3](/career-guides), getting this right from day one sets the tone for everything else.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+2. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
+3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
+5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
+6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
+7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
+8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
+10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

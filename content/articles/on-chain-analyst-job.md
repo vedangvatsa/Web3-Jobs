@@ -3,14 +3,13 @@ title: 'The On-Chain Analyst Job: A Career Guide'
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: data analyst chart
 description: >-
- A career guide for aspiring on-chain data analysts. Learn what the role
- entails, the tools you need to master, and how to build a portfolio that gets
- you hired.
+  A career guide for aspiring on-chain data analysts. Learn what the role
+  entails, the tools you need to master, and how to build a portfolio that gets
+  you hired.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 In the transparent world of blockchains, every action, transaction, and interaction creates a permanent, public data point. This shift has given rise to on-chain analysis, where the role of the [Web3](/what-is-web3) Data Analyst emerges as a blend of data scientist, archaeologist, and detective.
 
 Unlike traditional data analysts who work with private data, Web3 analysts operate within the open and shared databases of blockchains. They analyze public data to uncover trends, assess user behavior, monitor protocol performance, and generate insights that inform a project's strategy. This role is intellectually stimulating and in high demand within the Web3 ecosystem.
@@ -93,3 +92,16 @@ A: Yes. This is the recommended approach for most professionals. You do not need
 
 **Q: What resources can help me deepen my understanding?** 
 A: Explore various written resources, particularly those listed in related articles for targeted insights. The most impactful step is to find a mentor or peer group excelling in this field. Observing their practices offers insights that no article can match. Engage with Web3 communities on platforms like Discord and Telegram to connect with practitioners willing to share their processes. Establishing structured accountability with a peer can also accelerate your progress.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
+5. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
+7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
+10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

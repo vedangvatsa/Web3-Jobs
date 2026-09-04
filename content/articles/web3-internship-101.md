@@ -3,13 +3,12 @@ title: 'Web3 Internship 101: A Guide to Launching Your Crypto Career'
 image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
 data-ai-hint: internship student learning
 description: >-
- Your complete guide to finding and landing a Web3 internship. Learn where to
- look, what skills you need, and how to build a portfolio that will get you.
+  Your complete guide to finding and landing a Web3 internship. Learn where to
+  look, what skills you need, and how to build a portfolio that will get you.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-04"
 ---
-
 For students and recent graduates, the Web3 industry presents an exciting career opportunity. An internship at a crypto startup, a Layer 2 protocol, or a DAO is more than just a line on a resume; it provides an immersive experience that enhances your skills and launches your career in the decentralized economy.
 
 Finding and securing a Web3 internship requires a tailored approach compared to traditional tech sectors. Companies seek proactive, passionate individuals who can show their commitment through "proof of work." This guide offers a detailed roadmap for aspiring interns aiming to enter the Web3 industry.
@@ -71,3 +70,16 @@ Standing out requires tangible evidence of your skills.
 - **Highlight Your Portfolio:** Place a "Web3 Portfolio" section at the top of your resume, including links to your GitHub, blog, and other public projects.
 
 A Web3 internship can serve as an excellent launchpad for your career. It requires more initiative than traditional internships, but the rewards in terms of learning, impact, and future opportunities are significant.
+
+## Verifiable Primary Sources & References
+
+1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
+2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
+3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
+4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
+5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
+7. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
+8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
+10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
