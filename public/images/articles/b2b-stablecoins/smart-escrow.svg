@@ -1,0 +1,77 @@
+<svg viewBox="0 0 900 500" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="escrowGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="pulse" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#10b981"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="500" rx="16" fill="url(#bgGrad)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="450" y="42" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="700" letter-spacing="0.5">PROGRAMMABLE TRADE CREDIT &amp; SMART ESCROWS</text>
+  <text x="450" y="66" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="400">Automated Milestone Release vs Legacy Letters of Credit</text>
+
+  <line x1="40" y1="82" x2="860" y2="82" stroke="#334155" stroke-width="1"/>
+
+  <!-- Top Box: Escrow Deposit -->
+  <rect x="180" y="98" width="540" height="56" rx="10" fill="url(#escrowGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="180" y="98" width="8" height="56" rx="4" fill="#3b82f6"/>
+  <text x="450" y="131" text-anchor="middle" fill="#60a5fa" font-size="16" font-weight="700">Buyer Deposits Digital USD into Smart Contract Escrow</text>
+
+  <!-- Arrow down to milestones -->
+  <path d="M 450 154 L 450 180" stroke="#38bdf8" stroke-width="2.5"/>
+  <polygon points="444,175 450,185 456,175" fill="#38bdf8"/>
+
+  <!-- Central Verification Container -->
+  <rect x="60" y="186" width="780" height="200" rx="12" fill="#0f172a" stroke="#334155" stroke-width="1.5"/>
+  <text x="450" y="212" text-anchor="middle" fill="#f43f5e" font-size="13" font-weight="700" letter-spacing="0.5">SHIPPING MILESTONES AUTOMATICALLY VERIFIED VIA REAL-WORLD ORACLES &amp; DATA</text>
+
+  <!-- Milestone 1 -->
+  <rect x="85" y="228" width="220" height="135" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1.5"/>
+  <rect x="85" y="228" width="220" height="28" rx="8" fill="#10b981"/>
+  <text x="195" y="247" text-anchor="middle" fill="#0f172a" font-size="12" font-weight="800">MILESTONE 1 (20%)</text>
+  <text x="195" y="278" text-anchor="middle" fill="#f8fafc" font-size="13" font-weight="600">Cargo Loaded</text>
+  <text x="195" y="298" text-anchor="middle" fill="#94a3b8" font-size="11">Verified via Digital</text>
+  <text x="195" y="314" text-anchor="middle" fill="#94a3b8" font-size="11">Bill of Lading (eBL)</text>
+  <rect x="105" y="328" width="180" height="22" rx="4" fill="#065f46"/>
+  <text x="195" y="343" text-anchor="middle" fill="#34d399" font-size="11" font-weight="700">20% Released</text>
+
+  <!-- Milestone 2 -->
+  <rect x="340" y="228" width="220" height="135" rx="8" fill="#1e293b" stroke="#3b82f6" stroke-width="1.5"/>
+  <rect x="340" y="228" width="220" height="28" rx="8" fill="#3b82f6"/>
+  <text x="450" y="247" text-anchor="middle" fill="#0f172a" font-size="12" font-weight="800">MILESTONE 2 (40%)</text>
+  <text x="450" y="278" text-anchor="middle" fill="#f8fafc" font-size="13" font-weight="600">Port Arrival</text>
+  <text x="450" y="298" text-anchor="middle" fill="#94a3b8" font-size="11">Verified via Port Customs</text>
+  <text x="450" y="314" text-anchor="middle" fill="#94a3b8" font-size="11">&amp; Container GPS Oracle</text>
+  <rect x="360" y="328" width="180" height="22" rx="4" fill="#1e3a8a"/>
+  <text x="450" y="343" text-anchor="middle" fill="#60a5fa" font-size="11" font-weight="700">40% Released</text>
+
+  <!-- Milestone 3 -->
+  <rect x="595" y="228" width="220" height="135" rx="8" fill="#1e293b" stroke="#8b5cf6" stroke-width="1.5"/>
+  <rect x="595" y="228" width="220" height="28" rx="8" fill="#8b5cf6"/>
+  <text x="705" y="247" text-anchor="middle" fill="#0f172a" font-size="12" font-weight="800">MILESTONE 3 (40%)</text>
+  <text x="705" y="278" text-anchor="middle" fill="#f8fafc" font-size="13" font-weight="600">Warehouse Receipt</text>
+  <text x="705" y="298" text-anchor="middle" fill="#94a3b8" font-size="11">Goods Quality Inspected</text>
+  <text x="705" y="314" text-anchor="middle" fill="#94a3b8" font-size="11">&amp; Scanned at Warehouse</text>
+  <rect x="615" y="328" width="180" height="22" rx="4" fill="#581c87"/>
+  <text x="705" y="343" text-anchor="middle" fill="#c084fc" font-size="11" font-weight="700">Final 40% Released</text>
+
+  <!-- Arrow down to supplier -->
+  <path d="M 450 386 L 450 412" stroke="#10b981" stroke-width="2.5"/>
+  <polygon points="444,407 450,417 456,407" fill="#10b981"/>
+
+  <!-- Bottom Box: Supplier Received -->
+  <rect x="140" y="418" width="620" height="56" rx="10" fill="url(#escrowGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="140" y="418" width="8" height="56" rx="4" fill="#10b981"/>
+  <text x="450" y="451" text-anchor="middle" fill="#34d399" font-size="15" font-weight="700">Supplier Receives Payment Automatically (No Bank Delay / LC Paperwork)</text>
+</svg>

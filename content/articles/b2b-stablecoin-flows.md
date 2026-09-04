@@ -120,24 +120,7 @@ A public blockchain collapses messaging and settlement into the exact same singl
 
 Public on-chain data and corporate payment disclosures demonstrate that commercial stablecoin adoption is concentrated along specific high-volume global trade routes:
 
-```
-+---------------------------------------------------------------------------------------+
-|                       GLOBAL COMMERCIAL STABLECOIN CORRIDORS                          |
-+---------------------------------------------------------------------------------------+
-|                                                                                       |
-|   [ NORTH AMERICA ]                                   [ GREATER CHINA & ASIA-PAC ]    |
-|   United States Inflow: ~$127B/mo   <=============>   China Inflow:     ~$71B/mo      |
-|   Consumer & Wholesale Procurement                    Hong Kong Inflow: ~$51B/mo      |
-|         │                                             Singapore Regional Hub          |
-|         │                                                       │                     |
-|         ▼ (Finished Goods / Raw Materials)                      ▼ (Electronics & Tech)|
-|   [ LATIN AMERICA ]                                   [ SUB-SAHARAN AFRICA & ME ]     |
-|   Total Inflow: ~$174B                                Average SWIFT Friction: >6.0%   |
-|   - US-Mexico: $61.8B (-4.5%)                         Turkey: High-spread inflation   |
-|   - Intra-LATAM & Central America: $112.2B            Mobile Money Integration (M-Pesa)
-|                                                                                       |
-+---------------------------------------------------------------------------------------+
-```
+![Global Commercial Stablecoin Corridors](/images/articles/b2b-stablecoins/corridors.svg)
 
 ### 1. The Trans-Pacific Sourcing Axis
 The single largest commercial stablecoin corridor connects North American and European importers with manufacturing hubs across Greater China and Southeast Asia. 
@@ -208,28 +191,7 @@ Early crypto payment solutions failed because they required corporate finance te
 
 The modern trade finance architecture solves this through the "Stablecoin Sandwich", where blockchain mechanics are completely invisible to both sender and receiver:
 
-```
-+-----------------------------------------------------------------------------------------------+
-|                       THE INVISIBLE ENTERPRISE SETTLEMENT STACK                               |
-+-----------------------------------------------------------------------------------------------+
-|                                                                                               |
-|  [ North American Importer ]                                                                  |
-|         │                                                                                     |
-|         ▼ 1. Initiates standard bank transfer (ACH / FedNow) in USD from existing bank account|
-|  [ Regulated Banking / In-Ramp Partner ]                                                      |
-|         │                                                                                     |
-|         ▼ 2. Converts fiat to stablecoin in backend liquidity pool (10-15 bps fee)            |
-|  [ High-Throughput Public Ledger (Solana, Base, Arbitrum, Tron) ]                               |
-|         │                                                                                     |
-|         ▼ 3. Programmatic cryptographic settlement executes across borders in 15-30 seconds   |
-|  [ Destination Liquidity Provider / Off-Ramp Gateway ]                                         |
-|         │                                                                                     |
-|         ▼ 4. Deposits local currency via domestic fast rail (Pix, SPEI, SEPA, UPI)             |
-|  [ Overseas Supplier ]                                                                        |
-|    Receives native fiat in their bank, or retains clean digital USD on balance sheet          |
-|                                                                                               |
-+-----------------------------------------------------------------------------------------------+
-```
+![The Invisible Enterprise Settlement Stack](/images/articles/b2b-stablecoins/settlement-stack.svg)
 
 Recent academic research on [implementing stablecoin transactions in SAP ERP](https://doi.org/10.58346/jowua.2025.i2.019) demonstrates how settlement connects directly into enterprise suites like SAP, Oracle NetSuite, and Microsoft Dynamics:
 
@@ -254,18 +216,7 @@ While Letters of Credit make trade possible, they are extraordinarily slow and e
 
 Programmable digital dollars offer an automated alternative: a smart contract escrow. A smart contract is simply an automated computer program that holds funds securely and releases them only when specific, verifiable conditions are met.
 
-```
-[ Buyer deposits digital USD into Smart Contract Escrow ]
-                          │
-                          ▼
-[ Shipping Milestones Automatically Verified via Real-World Data ]
-  - Milestone 1: Cargo loaded onto vessel (Verified via digital bill of lading) -> 20% released to supplier
-  - Milestone 2: Vessel arrives at destination port (Verified via customs data) -> 40% released to supplier
-  - Milestone 3: Goods inspected at distribution warehouse (Quality approved)   -> Final 40% released
-                          │
-                          ▼
-[ Supplier receives payment automatically, without waiting weeks for bank approval ]
-```
+![Programmable Trade Credit and Smart Escrows](/images/articles/b2b-stablecoins/smart-escrow.svg)
 
 By connecting the payment code directly to real-world tracking systems (such as GPS container sensors, port customs databases, and electronic shipping manifests), funds are unlocked step-by-step as cargo physically moves across the globe. 
 
