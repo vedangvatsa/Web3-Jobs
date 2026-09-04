@@ -62,10 +62,13 @@ export function JobDetailView({
   const deptLower = (typeof job.department === 'string' ? job.department : (job.department as any)?.name || '').toLowerCase();
   const locLower = (typeof job.location === 'string' ? job.location : (job.location as any)?.name || '').toLowerCase();
 
+  const descriptionText = contentHtml ? contentHtml.toLowerCase() : '';
+
   const employmentType = (() => {
-    if (titleLower.includes('intern') || deptLower.includes('intern')) return 'INTERN';
-    if (titleLower.includes('contract') || titleLower.includes('freelance') || deptLower.includes('contract')) return 'CONTRACTOR';
-    if (titleLower.includes('part-time') || titleLower.includes('part time')) return 'PART_TIME';
+    if (titleLower.includes('intern') || deptLower.includes('intern') || descriptionText.includes('internship') || descriptionText.includes('intern position')) return 'INTERN';
+    if (titleLower.includes('contract') || titleLower.includes('freelance') || deptLower.includes('contract') || descriptionText.includes('contractor') || descriptionText.includes('contract position') || descriptionText.includes('freelance')) return 'CONTRACTOR';
+    if (titleLower.includes('part-time') || titleLower.includes('part time') || descriptionText.includes('part-time') || descriptionText.includes('part time')) return 'PART_TIME';
+    if (titleLower.includes('full-time') || titleLower.includes('full time') || descriptionText.includes('full-time') || descriptionText.includes('full time') || descriptionText.includes('permanent')) return 'FULL_TIME';
     return 'FULL_TIME';
   })();
 
