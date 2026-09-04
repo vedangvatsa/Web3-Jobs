@@ -19,6 +19,7 @@ synonyms:
   - L1-sequenced rollup
   - Ethereum-based sequencing
   - Native sequencing
+lastUpdated: 2026-09-04
 ---
 
 Based Sequencing is a rollup architecture where Ethereum Layer 1 validators act as the transaction sequencer instead of relying on a dedicated centralized or decentralized sequencing mechanism. In this model, users submit their Layer 2 transactions directly to the Ethereum mempool, where L1 block proposers include and order these transactions within their blocks. This design allows rollups to inherit Ethereum's existing decentralization, censorship resistance, and liveness guarantees while maintaining scalability benefits. Taiko is one of the first major implementations of based sequencing. By eliminating the trust assumptions associated with centralized sequencers, based rollups offer stronger security alignment with Ethereum's validator set. Engineers and researchers with expertise in based sequencing architectures are increasingly sought after as more rollup projects explore this approach to achieve greater decentralization without sacrificing performance.

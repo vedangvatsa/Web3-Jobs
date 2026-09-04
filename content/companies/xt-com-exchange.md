@@ -6,6 +6,7 @@ description: >-
   XT.com is a comprehensive social-infused digital asset trading platform
   offering spot, margin, and futures trading alongside social community trading
   features for global crypto participants.
+lastUpdated: 2026-09-04
 ---
 XT.com Exchange is a leading organization in the Cryptocurrency Exchange sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

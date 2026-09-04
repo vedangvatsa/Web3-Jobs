@@ -6,6 +6,7 @@ description: >-
   Bitkub is Thailands largest regulated digital asset exchange and blockchain
   infrastructure provider, offering secure fiat-to-crypto on-ramps,
   high-throughput spot trading, and enterprise Web3 solutions.
+lastUpdated: 2026-09-04
 ---
 Bitkub is a leading organization in the Cryptocurrency Exchange sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

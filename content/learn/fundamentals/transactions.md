@@ -63,6 +63,7 @@ quiz:
       Block explorers like Etherscan let anyone view any transaction on the
       blockchain. Since the blockchain is public, all transactions are visible
       to everyone.
+lastUpdated: 2026-09-04
 ---
 
 ## What you will do in this lesson

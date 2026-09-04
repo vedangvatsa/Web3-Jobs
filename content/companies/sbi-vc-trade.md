@@ -6,6 +6,7 @@ description: >-
   SBI VC Trade is a premier Exchange / Custody company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 SBI VC Trade is the cryptocurrency and digital asset arm of Japan's SBI Holdings, providing secure institutional and retail trading, staking, and custody.
 

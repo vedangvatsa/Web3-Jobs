@@ -6,6 +6,7 @@ description: >-
   Quidax is a premier Exchange / Digital Assets (Nigeria) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Quidax is an SEC-licensed African digital asset exchange platform that makes it easy for individuals and businesses to trade, store, and send cryptocurrencies seamlessly.
 

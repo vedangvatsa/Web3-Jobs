@@ -7,6 +7,7 @@ description: >-
   Perennial Labs is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Perennial serves as an open infrastructure layer for synthetic derivatives and programmatic market making on Ethereum Layer 2s.
 

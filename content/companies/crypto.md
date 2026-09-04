@@ -8,6 +8,7 @@ description: >-
   Crypto is a premier Exchange / Fintech company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Global cryptocurrency exchange and financial services platform serving over 80 million users worldwide.
 

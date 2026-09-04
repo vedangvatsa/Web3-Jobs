@@ -73,6 +73,7 @@ quiz:
       Gensyn is building infrastructure for verifiable machine learning training
       on decentralized hardware. It uses novel verification methods to ensure
       that distributed training tasks are completed correctly.
+lastUpdated: 2026-09-04
 ---
 
 ## The GPU Bottleneck

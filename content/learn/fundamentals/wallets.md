@@ -62,6 +62,7 @@ quiz:
       Your wallet address is public, like a bank account number. Anyone can send
       crypto to it. Your private key is what you keep secret - it is what lets
       you spend the crypto in that address.
+lastUpdated: 2026-09-04
 ---
 
 ## Your wallet is your bank account and your ID

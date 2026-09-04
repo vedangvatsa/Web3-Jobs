@@ -3,6 +3,7 @@ name: Base
 website: 'https://base.org'
 category: Other
 description: Base is a platform for building decentralized applications.
+lastUpdated: 2026-09-04
 ---
 
 Base is a layer-2 solution built on Ethereum, designed to provide developers with a secure and scalable environment for creating decentralized applications. The platform aims to enhance the user experience by offering lower transaction fees and faster processing times compared to the Ethereum mainnet.

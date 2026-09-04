@@ -79,6 +79,7 @@ quiz:
       (for liquidity, airdrops, and community rewards). The rest unlocks over
       3-5 years. This creates a predictable supply schedule. If too much
       circulates at launch, there is heavy sell pressure.
+lastUpdated: 2026-09-04
 ---
 
 ## Token Launches Are Protocol-Defining Events

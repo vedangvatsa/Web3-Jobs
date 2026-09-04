@@ -17,6 +17,7 @@ synonyms:
   - DAO framework
   - governance stack
   - DAO infrastructure
+lastUpdated: 2026-09-04
 ---
 
 DAOstack is an open-source framework and infrastructure stack designed for building and managing decentralized autonomous organizations with built-in governance features including voting mechanisms, proposal systems, and reputation tracking. The platform's signature innovation is holographic consensus, a voting mechanism that allows efficient decision-making at scale by enabling predictors to stake tokens on proposals they believe will pass, effectively filtering out low-quality proposals before they reach the full membership for voting. DXdao, one of the prominent DAOstack-based organizations, has used the framework to manage a treasury while coordinating decentralized product development across multiple DeFi protocols. The framework provides pre-built smart contracts, user interfaces, and development tools that eliminate the need to create governance infrastructure from scratch. Familiarity with DAOstack and similar governance frameworks represents valuable expertise as organizations increasingly seek developers and coordinators experienced in DAO tooling and decentralized decision-making systems.

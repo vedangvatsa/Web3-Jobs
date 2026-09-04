@@ -6,6 +6,7 @@ description: >-
   Mem Protocol is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Mem Protocol enables users to create, share, and monetize memes on a decentralized platform. The protocol focuses on integrating blockchain technology to ensure ownership and authenticity of memes. It provides tools for creators to engage with their audience and earn rewards through their content.
 

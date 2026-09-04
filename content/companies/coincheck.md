@@ -6,6 +6,7 @@ description: >-
   Coincheck is a premier Exchange / NFT company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Coincheck (part of Monex Group) is a leading Japanese crypto asset exchange and NFT marketplace, offering beginner-friendly crypto trading and Web3 financial services.
 

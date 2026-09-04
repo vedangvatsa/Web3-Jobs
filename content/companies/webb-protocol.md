@@ -7,6 +7,7 @@ description: >-
   Webb Protocol is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Webb Protocol builds zero-knowledge mixers, bridges, and identity protocols for secure private interactions across all blockchain networks.
 

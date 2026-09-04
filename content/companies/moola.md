@@ -7,6 +7,7 @@ description: >-
   Moola Market is a non-custodial liquidity protocol on Celo, enabling users to
   earn compound interest on deposits and take out collateralized loans with zero
   transaction delays.
+lastUpdated: 2026-09-04
 ---
 Moola Market offers mobile-friendly lending and borrowing on the Celo network, supporting mobile DeFi adoption globally.
 

@@ -6,6 +6,7 @@ description: >-
   TRM Labs is a premier Blockchain Intelligence / Compliance company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 TRM Labs provides blockchain intelligence software to help financial institutions, crypto businesses, and government agencies detect, investigate, and prevent crypto-related fraud and financial crime.
 

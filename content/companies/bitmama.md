@@ -6,6 +6,7 @@ description: >-
   Bitmama is a premier Crypto Cards / Payments (Nigeria) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Bitmama is a crypto-first financial services company providing virtual crypto debit cards, multi-currency peer-to-peer trading, and cross-border payment solutions across Africa.
 

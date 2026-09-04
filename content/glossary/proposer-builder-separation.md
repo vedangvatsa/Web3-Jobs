@@ -16,6 +16,7 @@ synonyms:
   - PBS
   - block builder separation
   - builder-proposer split
+lastUpdated: 2026-09-04
 ---
 
 Proposer-Builder Separation is a blockchain architecture design that divides block production into two distinct roles, where specialized builders compete to assemble optimized blocks and validators simply propose the winning block without needing to understand transaction ordering strategies. This separation addresses maximum extractable value centralization concerns by preventing validators from directly manipulating transaction sequences for profit while enabling a competitive marketplace for block construction. Ethereum implemented this concept through MEV-Boost, developed by Flashbots. The architecture creates a sealed-bid auction system where builders submit complete blocks with bids, and proposers select the highest-paying option without seeing internal transaction details, ensuring fair ordering and reducing harmful MEV extraction like sandwich attacks. Professionals who understand PBS mechanics find opportunities in protocol engineering, MEV research, and blockchain infrastructure roles as networks increasingly adopt builder-proposer market designs.

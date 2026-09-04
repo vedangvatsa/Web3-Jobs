@@ -20,6 +20,7 @@ synonyms:
   - Off-chain DA rollup
   - Validium chain
   - DA committee chain
+lastUpdated: 2026-09-04
 ---
 
 A **validium** is a **scaling solution that uses validity proofs (like ZK rollups) to ensure computational correctness but posts transaction data off-chain** to a trusted data availability (DA) committee instead of to Ethereum L1. This hybrid approach enables higher throughput and lower costs than ZK rollups while maintaining cryptographic proof of correct execution, though with an additional trust assumption around data availability.

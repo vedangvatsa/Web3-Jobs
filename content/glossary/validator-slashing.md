@@ -17,6 +17,7 @@ synonyms:
   - slashing penalty
   - stake penalty
   - dishonesty penalty
+lastUpdated: 2026-09-04
 ---
 
 Validator slashing is a penalty mechanism in Proof-of-Stake blockchain systems where validators lose a portion of their staked tokens for engaging in dishonest or harmful behavior, such as double-signing blocks or attesting to conflicting chain histories. This economic punishment creates a disincentive against attacks, as validators risk financial loss if they attempt to manipulate the network. Ethereum's slashing mechanism penalizes validators who try to propose multiple blocks for the same slot or submit contradictory attestations, with penalties ranging from a minimum of one-thirty-second of the validator's stake up to the full amount during correlated attacks. Understanding slashing mechanics is essential for blockchain security engineers, protocol developers, and staking infrastructure operators who must design systems that minimize accidental slashing while maintaining network integrity.

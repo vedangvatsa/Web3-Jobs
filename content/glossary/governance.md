@@ -17,6 +17,7 @@ synonyms:
   - decentralized governance
   - on-chain governance
   - community governance
+lastUpdated: 2026-09-04
 ---
 
 Governance refers to the mechanisms and processes through which decentralized protocols make collective decisions about upgrades, treasury management, and parameter changes. Unlike traditional corporate governance where boards and executives hold decision-making power, blockchain governance distributes authority across token holders, developers, and validators. Most DeFi protocols implement on-chain voting systems where governance token holders can submit and vote on proposals. MakerDAO exemplifies sophisticated governance, allowing MKR holders to vote on critical parameters like collateral types, stability fees, and risk management decisions that directly affect the DAI stablecoin. For professionals entering Web3, understanding governance mechanisms is increasingly valuable as protocols actively seek governance analysts, community managers, and tokenomics specialists to help design and maintain decentralized decision-making systems.

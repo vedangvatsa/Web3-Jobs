@@ -79,6 +79,7 @@ quiz:
       UTM-tagged links, referral codes, and on-chain analytics to track how many
       users actually converted - signed up, connected a wallet, or made a
       transaction - from the KOL's promotion.
+lastUpdated: 2026-09-04
 ---
 
 ## What Is a KOL?

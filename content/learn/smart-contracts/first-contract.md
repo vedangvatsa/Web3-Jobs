@@ -64,6 +64,7 @@ quiz:
       The 'view' keyword indicates that a function promises not to modify the
       state of the contract. Calling a view function from outside the blockchain
       costs no gas.
+lastUpdated: 2026-09-04
 ---
 
 ## Let's write a simple contract

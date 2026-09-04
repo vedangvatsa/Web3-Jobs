@@ -6,6 +6,7 @@ description: >-
   GMO Coin is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 GMO Coin is a licensed Japanese digital asset exchange operated by GMO Financial Holdings, offering spot trading, crypto FX, and staking services.
 

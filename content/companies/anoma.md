@@ -7,6 +7,7 @@ description: >-
   Anoma is a premier Infrastructure company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Anoma pioneers intent-centric architecture, allowing users to define desired state transitions while distributed solvers match and settle transactions atomically.
 

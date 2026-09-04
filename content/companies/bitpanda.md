@@ -6,6 +6,7 @@ description: >-
   Bitpanda is a premier European digital investment platform and licensed crypto
   broker based in Vienna, offering trading in cryptocurrencies, crypto indices,
   stocks, and precious metals.
+lastUpdated: 2026-09-04
 ---
 Bitpanda is a premier European digital investment platform and licensed crypto broker based in Vienna, offering trading in cryptocurrencies, crypto indices, stocks, and precious metals.
 

@@ -6,6 +6,7 @@ description: >-
   Render Foundation is a premier Other company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Render Foundation develops a decentralized network for GPU rendering, allowing users to access rendering power from various contributors. The platform aims to reduce costs and improve efficiency in rendering tasks, making it suitable for artists, designers, and developers in the creative industry. 
 

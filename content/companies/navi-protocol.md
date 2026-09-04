@@ -6,6 +6,7 @@ description: >-
   NAVI Protocol is the native one-stop liquidity protocol on Sui, providing
   decentralized lending, borrowing, and dynamic interest rate markets with
   enterprise-grade smart contract security.
+lastUpdated: 2026-09-04
 ---
 NAVI Protocol is a leading organization in the DeFi / Lending / Sui sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

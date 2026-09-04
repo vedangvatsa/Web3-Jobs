@@ -17,6 +17,7 @@ relatedTerms:
   - DApp
 synonyms:
   - Solidity Language
+lastUpdated: 2026-09-04
 ---
 
 Solidity is a statically-typed, object-oriented programming language designed specifically for writing smart contracts on the Ethereum Virtual Machine (EVM). Created in 2014 by Gavin Wood and Christian Reitwiessner, Solidity combines syntax familiar to developers who know JavaScript and C++ with blockchain-specific features like built-in cryptocurrency handling and cryptographic functions. Solidity is widely used for decentralized applications, including Uniswap, a decentralized exchange. Beyond Ethereum, Solidity code runs on networks like Polygon, Arbitrum, and BNB Chain, making it the standard for multi-chain development. Proficiency in Solidity is a sought-after skill in Web3 job postings.

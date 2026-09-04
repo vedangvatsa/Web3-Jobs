@@ -6,6 +6,7 @@ description: >-
   bitFlyer is one of Japan's largest and most established cryptocurrency
   exchanges, licensed by the JFSA and operating licensed trading services across
   Japan, the US, and Europe.
+lastUpdated: 2026-09-04
 ---
 bitFlyer is one of Japan's largest and most established cryptocurrency exchanges, licensed by the JFSA and operating licensed trading services across Japan, the US, and Europe.
 

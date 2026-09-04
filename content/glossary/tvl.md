@@ -17,6 +17,7 @@ synonyms:
   - total value deposited
   - assets under management
   - protocol TVL
+lastUpdated: 2026-09-04
 ---
 
 TVL (Total Value Locked) refers to the total dollar value of cryptocurrency assets deposited into a DeFi protocol's smart contracts. It serves as a benchmark for measuring protocol adoption, user trust, and market position within decentralized finance. When users deposit assets into lending platforms, liquidity pools, or yield farming protocols, those funds contribute to the protocol's TVL, providing a snapshot of how much capital the ecosystem has attracted. Lido Finance, a liquid staking protocol, ranks among the highest TVL protocols by allowing users to stake Ethereum while maintaining liquidity through derivative tokens. Understanding TVL calculations, their limitations, and how to interpret TVL trends across protocols is essential for roles in DeFi analytics, protocol development, and investment research.

@@ -79,6 +79,7 @@ quiz:
       the balance to move tokens, the attacker's fallback can call transfer()
       during the reentrancy window. The balance hasn't been updated by
       withdraw() yet, so transfer() sees the old, inflated balance.
+lastUpdated: 2026-09-04
 ---
 
 ## The Most Famous Bug in Crypto History

@@ -68,6 +68,7 @@ quiz:
       21 million. ETH has no hard cap but burns some tokens with each
       transaction. Some tokens have inflationary supply, others are
       deflationary.
+lastUpdated: 2026-09-04
 ---
 
 ## Coins vs tokens

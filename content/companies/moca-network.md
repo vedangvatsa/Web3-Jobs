@@ -6,6 +6,7 @@ description: >-
   Moca Network is a premier Web3 / Identity / Gaming company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Moca Network (Mocaverse) is the flagship consumer network and interoperable digital identity infrastructure built by Animoca Brands, unifying Web3 culture, gaming, and creator economies.
 

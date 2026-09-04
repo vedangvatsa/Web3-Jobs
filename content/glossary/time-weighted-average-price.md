@@ -16,6 +16,7 @@ synonyms:
   - TWAP
   - time-weighted execution
   - time-sliced execution
+lastUpdated: 2026-09-04
 ---
 
 Time-Weighted Average Price is an execution strategy that spreads large trades across multiple time intervals to minimize market impact and achieve a more favorable average entry or exit price. Rather than executing a substantial order all at once, which can cause significant slippage and move the market against the trader, TWAP algorithms break the order into smaller chunks executed at regular intervals. Uniswap V3 popularized on-chain TWAP oracles, which sample prices over time to provide manipulation-resistant price feeds for DeFi protocols. Beyond oracles, institutional traders and DEX aggregators like CoW Protocol use TWAP execution to handle large orders without disrupting thin liquidity pools. Professionals who understand TWAP mechanics are increasingly sought after for roles in algorithmic trading, protocol development, and DeFi infrastructure engineering.

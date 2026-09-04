@@ -7,6 +7,7 @@ description: >-
   DerivaDEX is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 DerivaDEX delivers non-custodial crypto derivatives trading with deep liquidity, tight spreads, and decentralized governance.
 

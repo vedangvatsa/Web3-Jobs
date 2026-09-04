@@ -7,6 +7,7 @@ description: >-
   PL Job Board is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Protocol Labs drives breakthroughs in distributed systems, decentralized storage, and cryptography to upgrade the foundation of the internet.
 

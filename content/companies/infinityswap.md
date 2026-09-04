@@ -7,6 +7,7 @@ description: >-
   InfinitySwap is an automated market maker and token creation platform built on
   the Internet Computer, facilitating seamless liquidity provision and swaps
   across native ICP tokens.
+lastUpdated: 2026-09-04
 ---
 InfinitySwap provides decentralized exchange infrastructure and cross-chain token wrapping on the Internet Computer network.
 

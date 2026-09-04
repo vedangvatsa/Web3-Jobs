@@ -5,6 +5,7 @@ founded: 2017
 category: Digital Asset Infrastructure
 headquarters: 'San Francisco, California, USA'
 description: "Anchorage Digital, founded in 2017 in San Francisco by Diogo Mónica and Nathan McCauley, is the only federally chartered crypto bank in the United States through Anchorage Digital Bank N.A. regulated by the Office of the Comptroller of the Currency. Its custody uses biometric authentication and threshold cryptography, supporting custody, staking, trading and governance for institutions without single points of failure. The platform serves funds, corporates and protocols with insured, SOC-audited infrastructure and additional licensing via New York BitLicense and Singapore operations. Backed by leading investors including Andreessen Horowitz, Goldman Sachs and KKR, Anchorage sets the standard for regulated digital asset banking. Headquartered in San Francisco with hubs in New York, Porto, Singapore and Sioux Falls, the culture blends crypto-native product with bank-grade compliance and risk discipline."
+lastUpdated: 2026-09-04
 ---
 
 Anchorage Digital is a digital asset platform that provides institutional custody, trading, and financing services for cryptocurrencies and digital assets.

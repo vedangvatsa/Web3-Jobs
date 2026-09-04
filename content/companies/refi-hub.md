@@ -3,6 +3,7 @@ name: Refi Hub
 website: 'https://refihub.io'
 category: Other
 description: Refi Hub focuses on sustainable finance solutions in the Web3 space.
+lastUpdated: 2026-09-04
 ---
 
 Refi Hub is a company that specializes in sustainable finance solutions, aiming to integrate environmental considerations into financial systems. They are involved in projects that promote regenerative finance, which supports ecological restoration and sustainable development.

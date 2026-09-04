@@ -6,6 +6,7 @@ description: >-
   Flipside Crypto is a premier Blockchain Analytics company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Flipside Crypto specializes in blockchain analytics, helping organizations understand blockchain data. They offer a platform that provides insights into cryptocurrency ecosystems, enabling businesses to make data-driven decisions. 
 

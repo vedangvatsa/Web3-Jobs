@@ -61,6 +61,7 @@ quiz:
       Once deployed to a blockchain, the code of a smart contract cannot be
       altered. To change the logic, developers must deploy a new contract
       (though proxy patterns allow for upgradeable architecture).
+lastUpdated: 2026-09-04
 ---
 
 ## The Language of Web3

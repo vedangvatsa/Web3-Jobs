@@ -63,6 +63,7 @@ quiz:
     explanation: >-
       Coinbase is a Centralized Exchange (CEX) run by a company. Uniswap, Curve,
       and Balancer are Decentralized Exchanges (DEXs) run by smart contracts.
+lastUpdated: 2026-09-04
 ---
 
 ## The Order Book vs. The AMM

@@ -17,6 +17,7 @@ synonyms:
   - backward-compatible fork
   - rule tightening
   - soft upgrade
+lastUpdated: 2026-09-04
 ---
 
 Soft Fork refers to a backward-compatible protocol upgrade that tightens consensus rules, allowing nodes running older software to continue participating in the network while newer nodes enforce stricter standards. Unlike hard forks that create permanent chain splits, soft forks maintain network unity because blocks valid under new rules remain valid under old rules. Bitcoin's Segregated Witness upgrade in 2017 exemplifies this approach, restructuring transaction data to increase block capacity without forcing all nodes to upgrade simultaneously. For blockchain developers and protocol engineers, understanding soft fork mechanics is essential, as teams regularly implement backward-compatible upgrades to improve scalability, security, and functionality while preserving decentralization and minimizing user friction during transition periods.

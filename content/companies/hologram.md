@@ -7,6 +7,7 @@ description: >-
   Hologram is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Hologram bridges self-sovereign digital identities and interactive 3D avatars across video calls, live streaming, and on-chain gaming.
 

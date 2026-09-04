@@ -68,6 +68,7 @@ quiz:
       Before starting, set up proper security (hardware wallet), join the
       community channels, read the protocol documentation, and try the product.
       Show up prepared on day one.
+lastUpdated: 2026-09-04
 ---
 
 ## The 30-day action plan

@@ -7,6 +7,7 @@ description: >-
   Blink Ledger Systems is a premier Infrastructure company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Blink Ledger Systems builds enterprise-grade blockchain infrastructure for high-volume financial settlement and tokenized asset operations.
 

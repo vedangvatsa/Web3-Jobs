@@ -20,6 +20,7 @@ synonyms:
   - Decentralized sequencer
   - Sequencer consensus network
   - Multi-sequencer system
+lastUpdated: 2026-09-04
 ---
 
 A **transaction sequencer network** is a **decentralized system of multiple sequencers that collectively order and process rollup transactions** through Byzantine Fault Tolerant (BFT) consensus. This eliminates the single point of failure and centralization concerns of single-sequencer rollups. Rather than one entity controlling transaction ordering, a network of sequencers participates in distributed consensus to determine the canonical transaction sequence.

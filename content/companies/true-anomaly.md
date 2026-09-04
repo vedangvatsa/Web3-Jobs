@@ -8,6 +8,7 @@ description: >-
   True Anomaly is a premier Space / Defense Tech company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Space domain awareness and orbital operations company.
 

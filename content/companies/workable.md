@@ -3,6 +3,7 @@ name: Workable
 website: 'https://www.workable.com'
 category: Other
 description: Workable is a platform for hiring and recruitment solutions.
+lastUpdated: 2026-09-04
 ---
 
 Workable provides a recruitment platform that simplify the hiring process for businesses. The platform offers tools for job posting, applicant tracking, and collaboration among hiring teams. It aims to simplify the recruitment process, making it easier for companies to find and hire talent.

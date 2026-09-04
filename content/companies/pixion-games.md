@@ -6,6 +6,7 @@ description: >-
   Pixion Games is a premier Gaming/Metaverse company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Pixion Games focuses on creating engaging video games for various platforms. The company emphasizes data-driven decision-making, as evidenced by their job listings for roles such as Game Data Analyst and Data Analyst. These positions highlight the importance of analytics in enhancing gameplay and user experience.
 

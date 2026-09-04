@@ -5,6 +5,7 @@ founded: 2017
 category: Cryptocurrency Exchange
 headquarters: 'Dubai, UAE'
 description: "Binance, launched in 2017 by Changpeng Zhao in Shanghai and now globally distributed, is the largest crypto exchange by spot and derivatives volume, serving 180M+ registered users. Its ecosystem spans Binance Exchange, BNB Chain, Trust Wallet, Labs investments and institutional custody. After settling major regulatory actions in 2023-24, Binance rebuilt its compliance stack and expanded in Dubai, Paris and Brazil. Location spread reflects its distributed model with hubs in Dubai, Taipei and remote. Candidates should expect high bar for detail, on-call ownership and ability to ship at exchange scale. Candidates joining Binance enter a high-velocity, globally distributed operational model that prioritizes exchange matching engine throughput, 24/7 system availability, and strict global compliance standards."
+lastUpdated: 2026-09-04
 ---
 
 Binance is the world's largest cryptocurrency exchange by daily trading volume. Founded in 2017 by Changpeng Zhao (CZ), the platform supports trading of hundreds of cryptocurrencies and serves users globally.

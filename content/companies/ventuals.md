@@ -6,6 +6,7 @@ description: >-
   Ventuals is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Ventuals specializes in developing technology solutions that cater to various industries. They are currently seeking a Founding Engineer - Full Stack, indicating a focus on building a strong engineering team. The company emphasizes innovation and aims to create impactful products in the tech space. 
 

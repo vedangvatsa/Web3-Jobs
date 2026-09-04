@@ -3,6 +3,7 @@ name: Zipline
 website: 'https://flyzipline.com'
 category: Other
 description: Zipline delivers medical supplies via drone technology.
+lastUpdated: 2026-09-04
 ---
 
 Zipline operates a drone delivery service that focuses on transporting medical supplies. The company is known for its work in healthcare logistics, particularly in remote areas. Zipline's drones have been used to deliver blood, vaccines, and other essential medical products to hospitals and clinics.

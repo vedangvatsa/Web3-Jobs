@@ -8,6 +8,7 @@ description: >-
   Neon EVM is a premier Infrastructure / EVM company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Ethereum Virtual Machine running on Solana for EVM dApp deployment.
 

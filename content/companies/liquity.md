@@ -7,6 +7,7 @@ description: >-
   Liquity is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Liquity provides governance-free, capital-efficient borrowing with immutable smart contracts and algorithmic monetary policies.
 

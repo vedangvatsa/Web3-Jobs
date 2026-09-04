@@ -79,6 +79,7 @@ quiz:
       (cheaper deploy, but if you deploy an implementation without the upgrade
       function, the contract becomes permanently non-upgradeable). UUPS is now
       the recommended OpenZeppelin pattern.
+lastUpdated: 2026-09-04
 ---
 
 ## The Immutability Problem

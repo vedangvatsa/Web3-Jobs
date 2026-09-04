@@ -7,6 +7,7 @@ description: >-
   Thesis is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Thesis designs and launches foundational protocols that expand Bitcoin utility and self-sovereign digital finance.
 

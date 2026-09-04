@@ -6,6 +6,7 @@ description: >-
   Gelato Network is Web3s leading Rollup-as-a-Service (RaaS) platform and smart
   contract automation protocol. Gelato powers custom Layer 2 rollups, automated
   smart contracts, and off-chain data execution across 30+ EVM blockchains.
+lastUpdated: 2026-09-04
 ---
 Gelato Network is a leading organization in the Rollup-as-a-Service & Automation sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

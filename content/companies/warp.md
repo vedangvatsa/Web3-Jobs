@@ -7,6 +7,7 @@ description: >-
   Warp is a premier Social company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 ### About Warp
 Warp is a leading organization in the Social space, pioneering decentralized technologies, protocol security, and next-generation blockchain infrastructure. The company builds resilient products designed for global scalability, high performance, and trust-minimized user sovereignty.

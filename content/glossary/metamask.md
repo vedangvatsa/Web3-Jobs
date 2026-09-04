@@ -19,6 +19,7 @@ relatedTerms:
 synonyms:
   - MM
   - meta mask
+lastUpdated: 2026-09-04
 ---
 
 MetaMask is a cryptocurrency wallet available as a browser extension and mobile application that enables users to store, send, and receive Ethereum and other EVM-compatible tokens while interacting with decentralized applications. Developed by ConsenSys, MetaMask serves as the primary interface through which users access Web3, functioning as both a wallet and a bridge between traditional web browsers and blockchain networks. Users rely on MetaMask to connect with platforms like Uniswap for token swaps, OpenSea for NFT transactions, and Aave for lending and borrowing activities. Familiarity with MetaMask is considered a baseline requirement for professionals entering the Web3 space, as most development testing, user onboarding flows, and dApp interactions assume users will connect through this wallet.

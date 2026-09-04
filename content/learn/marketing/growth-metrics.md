@@ -82,6 +82,7 @@ quiz:
       SQL-queryable tables. Anyone can write queries like 'SELECT COUNT(DISTINCT
       sender) FROM uniswap_v3.swaps WHERE block_time > now() - interval '7
       days'' to get weekly active traders. Dashboards are public and forkable.
+lastUpdated: 2026-09-04
 ---
 
 ## Web3 Metrics Are Different

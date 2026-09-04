@@ -18,6 +18,7 @@ relatedTerms:
 synonyms:
   - Decentralized Exchange
   - DEX Protocol
+lastUpdated: 2026-09-04
 ---
 
 DEX refers to a decentralized exchange, a peer-to-peer cryptocurrency marketplace where users trade digital assets directly from their personal wallets through smart contracts without relying on intermediaries or surrendering custody of their funds. Unlike centralized exchanges that hold user deposits, DEXs enable trustless trading by executing swaps automatically on-chain, giving traders complete control over their private keys throughout every transaction. Uniswap, one of the most prominent DEXs built on Ethereum, pioneered the automated market maker model that replaced traditional order books with liquidity pools funded by users who earn fees in return. As DeFi adoption accelerates, professionals with expertise in DEX architecture, liquidity provision strategies, and smart contract integration are increasingly sought after by protocols, trading firms, and Web3 startups building the next generation of financial infrastructure.

@@ -65,6 +65,7 @@ quiz:
       You use a bridge - a smart contract that locks your tokens on Ethereum and
       mints equivalent tokens on the Layer 2. When you want to go back, the L2
       tokens are burned and the L1 tokens are unlocked.
+lastUpdated: 2026-09-04
 ---
 
 ## The scalability problem

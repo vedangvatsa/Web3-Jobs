@@ -7,6 +7,7 @@ description: >-
   SynFutures is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 SynFutures facilitates non-custodial crypto derivatives trading with concentrated liquidity and unified portfolio margin.
 

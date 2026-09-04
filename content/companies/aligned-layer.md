@@ -7,6 +7,7 @@ description: >-
   by EigenLayer. Aligned enables fast, affordable, and modular ZK proof
   verification for all rollups, coprocessors, and zero-knowledge systems across
   the modular crypto stack.
+lastUpdated: 2026-09-04
 ---
 Aligned Layer is a leading organization in the Zero-Knowledge Infrastructure sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

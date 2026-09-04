@@ -83,6 +83,7 @@ quiz:
       the public mempool where any bot can see it. Private RPCs (like Flashbots
       Protect or MEV Blocker) route your transaction directly to block builders
       without exposing it publicly, making sandwich attacks impossible.
+lastUpdated: 2026-09-04
 ---
 
 ## The Dark Forest

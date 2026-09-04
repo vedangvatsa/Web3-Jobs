@@ -3,6 +3,7 @@ name: Celebratix
 website: 'https://celebratix.com'
 category: Other
 description: Celebratix is a platform focused on connecting fans with celebrities.
+lastUpdated: 2026-09-04
 ---
 
 Celebratix provides a service that allows fans to book personalized experiences with celebrities. The platform enables users to engage with their favorite stars through various offerings, including virtual meet-and-greets and personalized video messages. Celebratix aims to enhance fan experiences by enabling direct interactions with public figures.

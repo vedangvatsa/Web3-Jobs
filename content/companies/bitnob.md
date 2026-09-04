@@ -6,6 +6,7 @@ description: >-
   Bitnob is a premier Bitcoin / Lightning / Payments (Africa) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Bitnob powers infrastructure for cross-border payments, Bitcoin savings, and stablecoin payouts across Africa using the Bitcoin Lightning Network.
 

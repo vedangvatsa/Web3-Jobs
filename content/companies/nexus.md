@@ -6,6 +6,7 @@ description: >-
   Nexus is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Nexus provides customer service solutions, including bilingual support in Spanish. The company focuses on delivering high-quality assistance to clients through various channels. Current job listings include positions for Customer Service Representatives and Call Center Support roles. 
 

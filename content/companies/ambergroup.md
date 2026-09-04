@@ -7,6 +7,7 @@ description: >-
   broker operating across Singapore, Hong Kong, Tokyo, Dubai, and North America,
   offering algorithmic execution, market making, and institutional asset
   management.
+lastUpdated: 2026-09-04
 ---
 Amber Group provides 24/7 liquidity, digital asset wealth management, and systematic trading infrastructure for institutional clients globally.
 

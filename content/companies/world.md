@@ -6,6 +6,7 @@ description: >-
   World is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 World offers a variety of job listings, including positions for TPM, Software Engineers, and Mobile Security Engineers. The company is also seeking a Staff Infrastructure Engineer and a Product Manager. In addition, roles such as Operations Lead and Senior Corporate Paralegal are available.
 

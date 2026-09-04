@@ -8,6 +8,7 @@ description: >-
   Dapper Labs is a premier NFT / Gaming / Layer 1 company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Creator of CryptoKitties, NBA Top Shot, and the Flow blockchain.
 

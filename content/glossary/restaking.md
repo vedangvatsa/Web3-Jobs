@@ -17,6 +17,7 @@ synonyms:
   - dual staking
   - multi-protocol staking
   - yield staking
+lastUpdated: 2026-09-04
 ---
 
 Restaking is the practice of using already-staked cryptocurrency to secure additional protocols simultaneously, multiplying yield opportunities without deploying more capital. When a validator stakes 32 ETH to participate in Ethereum consensus, they can then restake that same collateral through platforms like EigenLayer to provide security for other decentralized services, earning rewards from multiple sources at once. However, restaking introduces correlated slashing risks, meaning that if any of the secured protocols experiences a fault or attack, the validator's entire stake can be penalized across all commitments. The growth of restaking protocols has created strong demand for professionals who understand validator economics, risk modeling, and the technical architecture of shared security systems across Web3 organizations.

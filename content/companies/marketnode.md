@@ -6,6 +6,7 @@ description: >-
   Marketnode, an SGX Group and Temasek joint venture, is an institutional
   digital asset infrastructure platform transforming capital market workflows
   and tokenized fund issuance across Asia.
+lastUpdated: 2026-09-04
 ---
 Marketnode is a leading organization in the Digital Asset Infrastructure / Institutional sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

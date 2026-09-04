@@ -6,6 +6,7 @@ description: >-
   Paystack is a premier Payments / Fintech (Stripe Company) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Paystack (a Stripe company) provides modern payment processing APIs and financial infrastructure empowering thousands of businesses across Africa to accept multi-currency online payments.
 

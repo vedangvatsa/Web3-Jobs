@@ -5,6 +5,7 @@ founded: 2017
 category: DeFi Protocol
 headquarters: 'London, United Kingdom'
 description: Leading decentralized lending and borrowing protocol
+lastUpdated: 2026-09-04
 ---
 
 Aave is a decentralized finance (DeFi) protocol that allows users to lend and borrow cryptocurrencies without intermediaries.

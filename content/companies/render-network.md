@@ -3,6 +3,7 @@ name: Render Network
 website: 'https://rendernetwork.com'
 category: Other
 description: Decentralized GPU rendering network for 3D content creators.
+lastUpdated: 2026-09-04
 ---
 
 Render Network provides a decentralized platform that allows users to render graphics using spare GPU power from other users. This network is designed for 3D content creators, enabling them to access rendering resources efficiently and cost-effectively. The platform uses blockchain technology to enable transactions and ensure security.

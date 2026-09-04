@@ -6,6 +6,7 @@ description: >-
   Rakuten Wallet is a premier Exchange / Fintech company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Rakuten Wallet is the digital asset exchange subsidiary of Rakuten Group, integrating cryptocurrency trading with Rakuten Points and consumer loyalty services.
 

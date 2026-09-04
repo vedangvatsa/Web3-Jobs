@@ -67,6 +67,7 @@ quiz:
       People use DeFi borrowing to avoid taxable events, gain use (borrowing to
       invest more), or get liquid cash while keeping their long-term crypto
       positions open.
+lastUpdated: 2026-09-04
 ---
 
 ## Loans without banks

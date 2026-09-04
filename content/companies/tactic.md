@@ -6,6 +6,7 @@ description: >-
   Tactic is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Tactic offers services aimed at supporting Web3 and blockchain initiatives. The company is involved in developing tools and strategies that assist businesses in working through the complexities of the decentralized ecosystem. Tactic currently has job openings for positions such as Sales Development Representative and Product Marketing Manager, indicating a focus on expanding its team to enhance its market presence.
 

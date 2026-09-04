@@ -19,6 +19,7 @@ synonyms:
   - RPC endpoint
   - RPC provider
   - Blockchain API node
+lastUpdated: 2026-09-04
 ---
 
 An **RPC (Remote Procedure Call) node** is a blockchain node that exposes an **API interface** allowing external applications to interact with the blockchain without running their own node infrastructure. RPC nodes serve as the critical bridge between user-facing applications (wallets, dApps, block explorers) and the underlying blockchain network, handling requests to read blockchain state, submit transactions, estimate gas costs, and more.

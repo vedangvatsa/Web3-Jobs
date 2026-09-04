@@ -17,6 +17,7 @@ synonyms:
   - forced liquidation
   - margin call
   - position closure
+lastUpdated: 2026-09-04
 ---
 
 Liquidation refers to the automatic process by which DeFi lending protocols sell a borrower's collateral to repay outstanding debt when the collateral's value drops below a required threshold, typically expressed as a loan-to-value ratio. This mechanism serves as the primary safeguard protecting lenders from default risk and maintaining protocol solvency during periods of extreme market volatility. Aave implements a liquidation system where third-party liquidators can repay a portion of a borrower's debt in exchange for receiving the equivalent collateral value plus a liquidation bonus, incentivizing rapid position clearing. Understanding liquidation mechanics is essential for risk management roles, smart contract auditors, and protocol developers, making it a frequently tested competency in Web3 technical interviews.

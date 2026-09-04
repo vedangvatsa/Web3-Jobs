@@ -68,6 +68,7 @@ quiz:
       Validators must stake 32 ETH to participate in Ethereum's Proof of Stake
       consensus. This acts as collateral - validators who act dishonestly lose a
       portion of their stake.
+lastUpdated: 2026-09-04
 ---
 
 ## Bitcoin was step one. Ethereum was step two.

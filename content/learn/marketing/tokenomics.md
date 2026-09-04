@@ -78,6 +78,7 @@ quiz:
       schedules, they can dump on retail investors after launch. Healthy
       distributions typically give 50%+ to community, ecosystem, and treasury,
       with insider tokens vesting over 3-4 years.
+lastUpdated: 2026-09-04
 ---
 
 ## What Is Tokenomics?

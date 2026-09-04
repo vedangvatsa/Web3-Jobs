@@ -3,6 +3,7 @@ name: Uma
 website: 'https://uma.xyz'
 category: DeFi Protocol
 description: Uma builds decentralized financial contracts on Ethereum.
+lastUpdated: 2026-09-04
 ---
 
 Uma is a decentralized finance protocol that enables the creation of synthetic assets. It uses a unique technology called Optimistic Oracle, which allows off-chain data to be used on-chain. This feature supports a wide range of financial applications, including derivatives and other complex financial instruments.

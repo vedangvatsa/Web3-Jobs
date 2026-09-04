@@ -8,6 +8,7 @@ description: >-
   Jump is a premier Trading / Venture company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Global quantitative trading firm with a dedicated crypto arm (Jump Crypto).
 

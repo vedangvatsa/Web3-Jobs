@@ -6,6 +6,7 @@ description: >-
   Noise is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Noise provides a space for users to create and share audio content. The platform emphasizes community interaction, allowing users to connect over shared interests in audio. Noise offers various job opportunities, including roles in software engineering and content creation.
 

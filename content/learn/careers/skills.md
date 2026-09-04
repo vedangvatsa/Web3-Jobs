@@ -61,6 +61,7 @@ quiz:
       React (often with Next.js) dominates Web3 frontend development. Libraries
       like wagmi and viem are built for the React ecosystem, making it the
       default choice.
+lastUpdated: 2026-09-04
 ---
 
 ## What job descriptions actually ask for

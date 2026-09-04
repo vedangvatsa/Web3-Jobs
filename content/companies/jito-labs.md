@@ -6,6 +6,7 @@ description: >-
   Jito Labs is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Jito Labs develops solutions to improve transaction throughput and efficiency on blockchain platforms. The company specializes in transaction management and aims to enhance the performance of decentralized applications. 
 

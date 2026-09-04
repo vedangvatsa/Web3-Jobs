@@ -6,6 +6,7 @@ description: >-
   AZA Finance (formerly BitPesa) is a pioneer in African digital asset
   settlement and B2B foreign exchange, facilitating enterprise cross-border
   treasury across Africa, Europe, and Asia.
+lastUpdated: 2026-09-04
 ---
 AZA Finance (formerly BitPesa) is a pioneer in African digital asset settlement and B2B foreign exchange, facilitating enterprise cross-border treasury across Africa, Europe, and Asia.
 

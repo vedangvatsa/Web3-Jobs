@@ -6,6 +6,7 @@ description: >-
   Consensys is the leading Ethereum software company behind MetaMask, Linea,
   Infura, Truffle, and Diligence, powering the decentralized web for millions of
   users and developers worldwide.
+lastUpdated: 2026-09-04
 ---
 Consensys is a leading organization in the Ethereum Infrastructure / Developer Tools sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

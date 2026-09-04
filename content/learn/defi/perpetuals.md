@@ -81,6 +81,7 @@ quiz:
       constraint. Instead of expiration forcing convergence to spot price, the
       funding rate - a periodic payment between longs and shorts - continuously
       pulls the perp price toward the spot price.
+lastUpdated: 2026-09-04
 ---
 
 ## What Are Perpetual Futures?

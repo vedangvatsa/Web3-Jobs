@@ -8,6 +8,7 @@ description: >-
   Greenhouse is a premier HR / Recruiting company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Hiring platform and applicant tracking system used widely across the tech and Web3 industry.
 

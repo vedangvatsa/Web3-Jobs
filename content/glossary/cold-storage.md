@@ -17,6 +17,7 @@ synonyms:
   - offline storage
   - cold wallet
   - air-gapped storage
+lastUpdated: 2026-09-04
 ---
 
 Cold storage refers to the practice of keeping cryptocurrency private keys completely offline, physically isolated from internet-connected devices to eliminate remote hacking risks. This security method ranges from hardware wallets like Ledger and Trezor devices to more extreme measures such as paper wallets stored in bank vaults or steel plates engraved with seed phrases. Major cryptocurrency exchanges keep a significant portion of customer funds in cold storage facilities, often distributed across multiple geographic locations with armed security and biometric access controls. The technique became industry standard after high-profile exchange hacks, including the Mt. Gox collapse that lost a substantial amount of Bitcoin. For professionals entering the Web3 security field, understanding cold storage architecture and custody solutions represents essential knowledge as institutional adoption continues driving demand for security engineers and custody specialists who can design and audit these systems.

@@ -76,6 +76,7 @@ quiz:
       spending caps, approved contract allowlists, human-in-the-loop for large
       transactions - a buggy or manipulated agent could drain funds in seconds.
       Guardrails are safety-critical.
+lastUpdated: 2026-09-04
 ---
 
 ## What is an Autonomous Agent?

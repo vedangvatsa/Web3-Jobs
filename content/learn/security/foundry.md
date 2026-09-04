@@ -74,6 +74,7 @@ quiz:
       Tools like Slither are the absolute bare minimum first step. They catch
       common mistakes (like uninitialized variables), but they cannot tell you
       if your tokenomics are flawed or if your oracle can be manipulated.
+lastUpdated: 2026-09-04
 ---
 
 ## The Auditor's Toolkit

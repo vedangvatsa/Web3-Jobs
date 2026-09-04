@@ -6,6 +6,7 @@ description: >-
   Antimetal is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Antimetal provides tools for businesses to accept cryptocurrency payments. Their platform simplifies the integration of crypto transactions into existing payment systems. The company focuses on enhancing the user experience for both merchants and customers in the crypto space.
 

@@ -7,6 +7,7 @@ description: >-
   Clover is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 CLV offers one-stop blockchain infrastructure including non-custodial wallets, bridges, and cross-chain dApp developer frameworks.
 

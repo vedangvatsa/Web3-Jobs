@@ -6,6 +6,7 @@ description: >-
   Blackbird is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Blackbird specializes in providing data analytics and business intelligence services. The company aims to help organizations make data-driven decisions through its analytical tools and insights. They offer various solutions that enable businesses to use the power of their data effectively.
 

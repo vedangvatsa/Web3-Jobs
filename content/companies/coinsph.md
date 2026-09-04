@@ -8,6 +8,7 @@ description: >-
   Coins.ph is a premier Crypto Wallet & Exchange company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Coins.ph is a leading digital wallet and cryptocurrency exchange platform based in the Philippines. Founded in 2014, the company focuses on financial inclusion by providing unbanked and underbanked individuals access to financial services directly from their mobile phones.
 

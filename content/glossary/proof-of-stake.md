@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - PoS
   - staking consensus
+lastUpdated: 2026-09-04
 ---
 
 Proof of Stake is a consensus mechanism that selects validators to create and verify new blocks based on the amount of cryptocurrency they have locked as collateral, replacing the energy-intensive computational competition of proof-of-work systems. Validators are chosen through a weighted random selection process where larger stakes increase the probability of being selected, creating security through economic incentives rather than raw processing power. Ethereum's transition to proof of stake in September 2022, known as "The Merge," demonstrated the mechanism's environmental advantages at scale. Other major networks including Solana, Cardano, and Polkadot have built their architectures around proof of stake from inception. Understanding proof of stake mechanics is increasingly valuable for blockchain developers, protocol engineers, and validator operators, as many new layer-1 networks now adopt this consensus model.

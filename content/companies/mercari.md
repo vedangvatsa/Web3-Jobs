@@ -7,6 +7,7 @@ description: >-
   crypto adoption through Melcoin and Bitcoin payment integrations, enabling
   millions of users to buy, sell, and settle transactions seamlessly in digital
   assets.
+lastUpdated: 2026-09-04
 ---
 Mercari is a leading organization in the E-commerce & Web3 Payments sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

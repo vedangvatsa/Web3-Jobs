@@ -17,6 +17,7 @@ synonyms:
   - PoA
   - trusted validator consensus
   - designated validator
+lastUpdated: 2026-09-04
 ---
 
 Proof of Authority is a consensus mechanism where a limited set of pre-approved, identity-verified validators are authorized to create blocks and confirm transactions, trading decentralization for speed and efficiency. Unlike Proof of Work, which requires computational power, or Proof of Stake, which demands locked capital, PoA relies on validators staking their reputation and real-world identity. Misconduct results in removal and reputational damage rather than financial loss. This approach enables extremely fast block times and near-zero transaction fees, making it ideal for private enterprise blockchains, consortium networks, and Ethereum testnets like Goerli and Sepolia. VeChain, a supply chain-focused blockchain used by companies including Walmart China and BMW, operates on PoA. Understanding PoA is valuable for enterprise blockchain developer roles, supply chain technology positions, and organizations building permissioned networks where regulatory compliance and known validator identities are requirements.

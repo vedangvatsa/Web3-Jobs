@@ -79,6 +79,7 @@ quiz:
       on staking rewards. If you deposit stETH, you earn lending fees AND your
       stETH continues accruing staking yield in the background. This capital
       efficiency is why stETH dominates DeFi collateral.
+lastUpdated: 2026-09-04
 ---
 
 ## The Locking Problem

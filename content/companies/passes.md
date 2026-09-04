@@ -8,6 +8,7 @@ description: >-
   Passes is a premier Creator Economy company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Web3-native creator monetization platform.
 

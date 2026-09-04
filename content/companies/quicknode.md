@@ -6,6 +6,7 @@ description: >-
   QuickNode is a premier Blockchain Infrastructure company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 QuickNode offers a platform that enables developers to build and scale blockchain applications. They provide access to various blockchain networks, including Ethereum and Bitcoin, through their infrastructure services. QuickNode's solutions include APIs and tools that simplify the development process for Web3 applications.
 

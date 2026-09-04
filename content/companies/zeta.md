@@ -8,6 +8,7 @@ description: >-
   Zeta is a premier DeFi / Derivatives company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Decentralized derivatives exchange on Solana for options and futures trading.
 

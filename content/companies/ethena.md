@@ -3,6 +3,7 @@ name: Ethena
 website: 'https://ethena.fi'
 category: Other
 description: Ethena provides blockchain-based solutions for businesses and professionals.
+lastUpdated: 2026-09-04
 ---
 
 Ethena specializes in developing blockchain solutions tailored for businesses. The company focuses on enhancing operational efficiency and transparency through its technology. Ethena's offerings include tools for accounting and enterprise management, which are designed to simplify processes and improve data integrity.

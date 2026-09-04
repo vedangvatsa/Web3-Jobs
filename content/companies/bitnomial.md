@@ -6,6 +6,7 @@ description: >-
   Bitnomial is a premier Cryptocurrency Exchange company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Bitnomial provides a platform for trading cryptocurrency futures and options. The exchange focuses on offering a regulated environment for trading digital assets. It aims to enable institutional participation in the cryptocurrency market through its products.
 

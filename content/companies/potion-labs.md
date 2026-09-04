@@ -7,6 +7,7 @@ description: >-
   Potion Labs is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Potion Labs introduces mathematical risk-pricing models to decentralized option writing and liquidity pool sustainability.
 

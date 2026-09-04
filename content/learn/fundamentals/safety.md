@@ -67,6 +67,7 @@ quiz:
       Using separate wallets isolates risk. If your daily-use wallet gets
       compromised, your savings wallet stays safe. Never share your seed phrase
       with anyone, and never store it digitally.
+lastUpdated: 2026-09-04
 ---
 
 ## The number one rule

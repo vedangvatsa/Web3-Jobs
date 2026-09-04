@@ -17,6 +17,7 @@ synonyms:
   - reorg
   - chain reorg
   - block reorganization
+lastUpdated: 2026-09-04
 ---
 
 Chain Reorganization refers to an event where a blockchain replaces a sequence of recent blocks with a different chain, effectively altering transaction history and potentially reversing transactions that users believed were confirmed. This phenomenon occurs when competing miners or validators simultaneously produce valid blocks, causing the network to temporarily split before converging on the chain with the most accumulated work. Bitcoin experiences shallow reorgs of one or two blocks regularly, while deeper reorgs are rare but consequential. In 2020, Ethereum Classic suffered a major reorg attack where attackers reversed over 7,000 blocks and double-spent cryptocurrency. Understanding chain reorganizations is essential for blockchain security engineers and protocol developers, as exchanges and DeFi platforms must implement appropriate confirmation thresholds to protect against reorg-based attacks.

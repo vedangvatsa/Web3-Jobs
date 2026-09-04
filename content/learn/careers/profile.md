@@ -66,6 +66,7 @@ quiz:
       Crypto Twitter is where industry conversations happen. A clear bio (ENS,
       current focus, portfolio link) helps you get noticed by hiring managers
       who actively recruit through the platform.
+lastUpdated: 2026-09-04
 ---
 
 ## You are what you build

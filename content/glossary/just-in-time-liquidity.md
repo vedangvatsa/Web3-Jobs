@@ -20,6 +20,7 @@ synonyms:
   - JIT liquidity
   - Flash liquidity
   - MEV liquidity sniping
+lastUpdated: 2026-09-04
 ---
 
 - **Just-in-Time (JIT) liquidity** is an advanced MEV extraction strategy on concentrated liquidity DEXs, primarily Uniswap V3, where actors add liquidity immediately before a large trade executes and remove it immediately after. This allows them to capture a share of trading fees while minimizing impermanent loss. JIT liquidity providers essentially "snipe" fee revenue from passive liquidity providers who maintain positions over longer time periods.

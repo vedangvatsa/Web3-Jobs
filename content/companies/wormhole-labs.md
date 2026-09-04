@@ -6,6 +6,7 @@ description: >-
   Wormhole Labs is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Wormhole Labs focuses on creating solutions for interoperability between different blockchain networks. Their primary product is the Wormhole protocol, which enables smooth communication and asset transfers across various blockchains. This technology is crucial for enhancing the functionality and usability of decentralized applications.
 

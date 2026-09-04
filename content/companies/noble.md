@@ -7,6 +7,7 @@ description: >-
   Noble is an application-specific blockchain built for the issuance and native
   distribution of digital assets, including native USDC, across the Cosmos
   Inter-Blockchain Communication (IBC) ecosystem.
+lastUpdated: 2026-09-04
 ---
 Noble serves as the institutional issuance hub for stablecoins and real-world assets across the interchain ecosystem.
 

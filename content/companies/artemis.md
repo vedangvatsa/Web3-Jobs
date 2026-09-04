@@ -3,6 +3,7 @@ name: Artemis
 website: 'https://artemis.xyz'
 category: Other
 description: Artemis is a company focused on new technology solutions.
+lastUpdated: 2026-09-04
 ---
 
 Artemis is involved in developing advanced technology solutions across various sectors. The company currently has job listings for positions such as Field Marketing Manager, Security Analyst, AI/ML Engineer, Founding Product Manager, Product Marketing Manager, and Security Engineer. 

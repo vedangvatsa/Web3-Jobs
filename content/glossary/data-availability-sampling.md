@@ -17,6 +17,7 @@ synonyms:
   - DAS
   - data sampling
   - availability sampling
+lastUpdated: 2026-09-04
 ---
 
 Data Availability Sampling refers to a technique where nodes randomly sample small pieces of block data to probabilistically verify that the full data is available. This enables scalable block sizes without requiring every participant to download complete blocks. Rather than downloading entire blocks that could be gigabytes in size, nodes request only a handful of random chunks and use mathematical proofs to confirm data integrity with high confidence. Celestia, a modular blockchain launched in 2023, pioneered this approach as its core scaling mechanism, allowing light clients to verify data availability using minimal bandwidth and storage. DAS preserves decentralization by keeping hardware requirements low enough for ordinary users to run validating nodes. As modular blockchain architectures gain adoption, professionals who understand data availability sampling are increasingly sought after for roles in protocol development, infrastructure engineering, and blockchain scaling research.

@@ -6,6 +6,7 @@ description: >-
   Artemis Analytics is the leading institutional data platform for blockchain
   metrics, providing fundamentals, developer activity, decentralized finance
   flows, and gas analytics for crypto asset managers.
+lastUpdated: 2026-09-04
 ---
 Artemis Analytics is a leading organization in the Blockchain Analytics / Data sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

@@ -6,6 +6,7 @@ description: >-
   DMM Bitcoin is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 DMM Bitcoin is the cryptocurrency exchange service of Japan's DMM.com Group, offering spot trading and leveraged crypto contracts with zero transaction fees.
 

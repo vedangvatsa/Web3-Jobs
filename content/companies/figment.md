@@ -6,6 +6,7 @@ description: >-
   Figment is a premier Blockchain Infrastructure company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Figment offers a suite of products designed to support blockchain networks and developers. Their services include staking, data services, and developer tools that enable the building and scaling of decentralized applications. Figment's staking services allow users to earn rewards by participating in various blockchain networks.
 

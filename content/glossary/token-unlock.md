@@ -17,6 +17,7 @@ synonyms:
   - token release
   - vesting schedule
   - token vesting
+lastUpdated: 2026-09-04
 ---
 
 Token Unlock refers to the scheduled release of previously locked or vested tokens into circulating supply, typically following a predetermined timeline established at a project's launch. These unlocks commonly apply to tokens allocated to founding teams, early investors, advisors, and ecosystem development funds, with vesting periods ranging from one to four years. Token unlock events can significantly impact market dynamics, as increased supply often creates selling pressure, particularly when large stakeholders liquidate their newly accessible holdings. Understanding unlock schedules is essential for tokenomics analysts, portfolio managers, and DeFi researchers, making this knowledge valuable for careers in crypto investment and protocol governance.

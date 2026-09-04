@@ -7,6 +7,7 @@ description: >-
   Web3 Foundation is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Web3 Foundation nurtures open-source protocols and decentralized cryptographic systems to empower internet users with full data sovereignty.
 

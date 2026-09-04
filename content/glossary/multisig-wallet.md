@@ -17,6 +17,7 @@ synonyms:
   - multi-sig
   - multisig
   - M-of-N wallet
+lastUpdated: 2026-09-04
 ---
 
 Multi-Signature Wallet refers to a cryptocurrency wallet that requires multiple private keys from different parties to authorize transactions, distributing control and eliminating single points of failure in asset management. Rather than one person holding complete authority over funds, multisig configurations like 2-of-3 require at least two out of three designated keyholders to approve any transfer, preventing unauthorized access even if one key is compromised or one party acts maliciously. Gnosis Safe is a widely adopted multisig solution on Ethereum. Major DeFi protocols, venture funds, and corporate treasuries rely on multisig wallets to protect substantial holdings while enabling collaborative governance. For professionals entering Web3, understanding multisig architecture is essential, as roles in treasury management, protocol security, and institutional custody increasingly require expertise in designing and operating multi-signature systems for enterprise-grade asset protection.

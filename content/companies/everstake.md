@@ -6,6 +6,7 @@ description: >-
   Everstake is a premier Staking / Validator Infrastructure company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Everstake is a responsible validator and staking service provider trusted by over 735,000 users across 70+ blockchain networks with enterprise-grade SLA and hardware security.
 

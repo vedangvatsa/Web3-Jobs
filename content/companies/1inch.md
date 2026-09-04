@@ -3,6 +3,7 @@ name: 1inch
 website: 'https://1inch.io'
 category: DeFi Protocol
 description: "1inch, founded in 2019 by Sergej Kunz and Anton Bukov in Berlin and Dubai during an ETHGlobal hackathon, builds DEX aggregation and DeFi tooling for best-price swaps. Its flagship 1inch Aggregation Protocol scans dozens of liquidity sources, including AMMs and private market makers, to route orders with optimized gas, slippage and MEV protection, while 1inch Fusion adds intent-based, gasless swaps. Headquartered across Dubai and Berlin with a distributed team, 1inch serves wallets, dApps and pro traders seeking efficient execution across Ethereum and EVM networks. Governed by 1INCH token holders and stewarded as open infrastructure, 1inch emphasizes routing correctness and resolver competition. Expect an engineering and market-structure culture that values aggregation efficiency, security auditing and helping traders capture best execution without manual venue hopping."
+lastUpdated: 2026-09-04
 ---
 
 1inch provides a platform that aggregates various decentralized exchanges to offer users the best prices for cryptocurrency trades. The protocol splits orders across multiple DEXes to minimize slippage and maximize returns. 

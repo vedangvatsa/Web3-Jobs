@@ -3,6 +3,7 @@ name: Hedera
 website: 'https://hedera.com'
 category: Blockchain Infrastructure
 description: Hedera is a public distributed ledger technology platform.
+lastUpdated: 2026-09-04
 ---
 
 Hedera provides a decentralized network for building and deploying applications. It uses a unique consensus algorithm called Hashgraph, which aims to offer fast transaction speeds and low fees. Hedera supports various use cases, including tokenization, decentralized finance, and supply chain management.

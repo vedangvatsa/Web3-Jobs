@@ -79,6 +79,7 @@ quiz:
       hours rendered, Akash shows active deployments, The Graph counts queries
       served. If the only activity is trading on exchanges, the token likely has
       no real utility.
+lastUpdated: 2026-09-04
 ---
 
 ## The AI Token Space

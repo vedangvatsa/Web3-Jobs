@@ -8,6 +8,7 @@ description: >-
   Massive is a premier Infrastructure / DePIN company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Distributed computing network and Web3 infrastructure provider.
 

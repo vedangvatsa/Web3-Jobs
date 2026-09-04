@@ -70,6 +70,7 @@ quiz:
       Promising financial returns is legally dangerous and a massive red flag
       for experienced users. Authentic Web3 marketing focuses on technology,
       utility, and community, not price hype.
+lastUpdated: 2026-09-04
 ---
 
 ## The Town Square of Crypto
