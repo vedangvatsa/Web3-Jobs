@@ -16,7 +16,7 @@ const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 const BLOCKED_COMPANIES = new Set([
   'notion', 'ashby', 'merge', 'salt ai', 'workable',
   'button', 'breeze', 'citadel securities', 'zipline',
-  'greenhouse', 'lever', 'greenhouse io', 'ad-shield', 'adshield', 'vivident',
+  'greenhouse', 'lever', 'greenhouse io', 'ad-shield', 'adshield', 'vivident', 'hyperithm',
 ]);
 
 /**
