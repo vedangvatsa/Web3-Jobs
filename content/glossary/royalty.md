@@ -18,6 +18,7 @@ synonyms:
   - creator fee
   - creator royalty
   - secondary sale fee
+lastUpdated: 2026-09-04
 ---
 
 Royalty refers to a percentage of each secondary sale that automatically transfers to the original creator of a digital asset, most commonly applied to NFTs. When a collector resells an NFT on a marketplace, smart contract logic ensures the creator receives their predetermined royalty cut, typically from 2.5% to 10% of the transaction value. This mechanism addresses a fundamental inequity in traditional art markets where artists receive nothing when their work appreciates and changes hands. Platforms like Foundation and SuperRare have built their entire value propositions around protecting creator royalties, even as some marketplaces have moved toward optional enforcement models. For professionals entering the Web3 space, understanding royalty structures is essential for roles in NFT platform development, smart contract engineering, and creator economy product management.

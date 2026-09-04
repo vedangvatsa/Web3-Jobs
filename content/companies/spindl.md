@@ -6,6 +6,7 @@ description: >-
   Spindl is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Spindl offers job listings for roles such as Base Social Lead and Senior Product Manager. The company is involved in developing products that enhance social interactions and privacy features. Their focus on privacy indicates a commitment to user data protection. 
 

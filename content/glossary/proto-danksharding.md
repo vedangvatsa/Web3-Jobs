@@ -16,6 +16,7 @@ synonyms:
   - EIP-4844
   - blob transactions
   - proto-sharding
+lastUpdated: 2026-09-04
 ---
 
 Proto-Danksharding refers to Ethereum's EIP-4844 upgrade that introduced blob-carrying transactions, a new data type specifically designed to reduce costs for layer 2 rollups. Unlike traditional calldata that competes for block space with regular transactions, blobs provide dedicated temporary storage that validators do not need to process permanently, making data availability substantially cheaper. Blobs are stored for approximately 18 days before being pruned, which is sufficient for rollups to finalize their state while avoiding permanent blockchain bloat. This upgrade serves as a stepping stone toward full danksharding, which will expand data availability capacity through data availability sampling across multiple shards. Professionals who understand proto-danksharding mechanics are increasingly sought after for roles in rollup development, infrastructure optimization, and blockchain scaling research.

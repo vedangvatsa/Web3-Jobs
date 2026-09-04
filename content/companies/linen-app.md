@@ -7,6 +7,7 @@ description: >-
   Linen App is a premier Wallet company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Linen App develops multi-signature mobile wallets that make DeFi investing intuitive, secure, and user-friendly.
 

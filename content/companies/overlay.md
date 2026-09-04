@@ -7,6 +7,7 @@ description: >-
   Overlay is a decentralized protocol for trading non-traditional data streams,
   allowing users to speculate on arbitrary data feeds and metrics without
   requiring counterparty liquidity pools.
+lastUpdated: 2026-09-04
 ---
 Overlay creates dynamic DeFi prediction and derivatives markets backed by dynamic token minting and burning mechanisms.
 

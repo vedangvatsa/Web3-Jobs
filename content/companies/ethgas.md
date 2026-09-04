@@ -7,6 +7,7 @@ description: >-
   ETHGas is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 ETHGas delivers high-precision gas trackers and transaction simulation APIs for Web3 developers and institutional traders.
 

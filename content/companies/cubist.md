@@ -7,6 +7,7 @@ description: >-
   Cubist is a premier Developer Tools company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Cubist builds developer security infrastructure that protects private keys and simplifies multi-chain smart contract engineering.
 

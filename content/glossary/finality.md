@@ -17,6 +17,7 @@ synonyms:
   - transaction settlement
   - irreversibility
   - confirmation finality
+lastUpdated: 2026-09-04
 ---
 
 Finality refers to the point at which a blockchain transaction becomes permanently settled and cannot be reversed or modified, providing the certainty required for trustless digital commerce. Different consensus mechanisms achieve finality through distinct approaches, with Bitcoin requiring approximately six confirmations for probabilistic finality, while Ethereum's proof-of-stake system delivers economic finality in roughly thirteen minutes through validator slashing penalties that make reversals financially devastating. Cross-chain bridges have lost significant amounts to exploits, with many attacks exploiting finality assumptions between chains with different settlement times. Solana achieves confirmation in approximately 400 milliseconds through its proof-of-history mechanism, enabling high-frequency trading applications that are not possible on slower networks. For blockchain engineers and security auditors, understanding finality mechanisms across protocols has become essential, with job postings increasingly requiring expertise in consensus design and settlement guarantees.

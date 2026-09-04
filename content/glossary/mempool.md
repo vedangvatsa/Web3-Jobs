@@ -17,6 +17,7 @@ synonyms:
   - transaction pool
   - tx pool
   - pending transactions
+lastUpdated: 2026-09-04
 ---
 
 Mempool refers to the memory pool where unconfirmed blockchain transactions wait before being included in blocks, serving as a staging area visible to all network nodes. When you submit a transaction on Ethereum or Bitcoin, it first broadcasts to the peer-to-peer network where each node maintains its own mempool containing pending transactions. Miners and validators then select which transactions to include in the next block, typically prioritizing those with higher fees attached. This transparency creates opportunities for MEV extraction, where actors can observe pending transactions and strategically insert their own to profit. Services like mempool.space allow users to monitor Bitcoin's mempool in real time, helping them optimize transaction fees during periods of congestion. Understanding mempool mechanics is essential for blockchain developers, protocol engineers, and MEV researchers.

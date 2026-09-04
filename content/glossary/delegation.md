@@ -17,6 +17,7 @@ synonyms:
   - vote delegation
   - stake delegation
   - proxy voting
+lastUpdated: 2026-09-04
 ---
 
 Delegation is the process of transferring voting or staking power to another address without giving up token ownership. This allows token holders to participate in blockchain governance indirectly. When you hold governance tokens like UNI or COMP but lack the time or expertise to evaluate every proposal, you can delegate your voting power to a trusted representative who votes on your behalf. Uniswap's governance system allows any UNI holder to delegate to community researchers or protocol politicians who specialize in analyzing proposals. You retain full ownership of your tokens and can revoke delegation at any time, reclaiming your voting rights instantly. This mechanism is critical for achieving practical decentralized governance at scale. Professionals who understand delegation dynamics are increasingly sought after for roles in protocol governance, DAO operations, and token economics design.

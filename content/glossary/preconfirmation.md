@@ -16,6 +16,7 @@ synonyms:
   - preconf
   - early commitment
   - soft confirmation
+lastUpdated: 2026-09-04
 ---
 
 Preconfirmation refers to a commitment from validators or sequencers to include a specific transaction in an upcoming block, providing users with fast certainty before the block achieves final confirmation on the blockchain. This mechanism addresses the latency challenges inherent in traditional blockchain confirmations, where users might wait seconds or even minutes for transaction finality. Espresso Systems has pioneered preconfirmation infrastructure, enabling Layer 2 rollups to offer sub-second transaction guarantees to their users. The technology is particularly valuable for trading applications, gaming platforms, and any user experience requiring immediate feedback. As rollup ecosystems expand and demand for faster transaction guarantees grows, professionals who understand preconfirmation architecture and its implementation across different consensus mechanisms are increasingly sought after by infrastructure teams and Layer 2 protocols.

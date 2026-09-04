@@ -9,6 +9,7 @@ description: >-
   building mission-critical blockchain infrastructure, decentralized
   applications, and high-performance Web3 solutions for users and institutions
   globally.
+lastUpdated: 2026-09-04
 ---
 Non-profit supporting the Stellar network for cross-border payments and financial access.
 

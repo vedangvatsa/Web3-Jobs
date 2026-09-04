@@ -7,6 +7,7 @@ description: >-
   Bittensor is a premier AI company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Bittensor transforms machine learning into a peer-to-peer commodity market, rewarding models and validators based on verified intelligence and performance.
 

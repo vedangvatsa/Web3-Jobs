@@ -12,6 +12,7 @@ careers: ''
 category: Gaming / NFT
 headquarters: Remote
 slug: breederdao
+lastUpdated: 2026-09-04
 ---
 ### About BreederDAO
 

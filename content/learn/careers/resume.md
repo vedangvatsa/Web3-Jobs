@@ -63,6 +63,7 @@ quiz:
       On-chain activity proves you use the technology. A link to governance
       proposals, deployed contracts, or analytics dashboards is more convincing
       than a paragraph about your blockchain interest.
+lastUpdated: 2026-09-04
 ---
 
 ## Reframe, do not reinvent

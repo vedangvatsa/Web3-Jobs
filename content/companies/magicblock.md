@@ -8,6 +8,7 @@ description: >-
   MagicBlock is a premier Gaming / Solana company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Full-stack game engine for fully on-chain games on Solana.
 

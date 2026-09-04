@@ -7,6 +7,7 @@ description: >-
   Structure is a financial platform that bridges traditional equities and
   decentralized finance, enabling users to invest in tokenized stocks, crypto,
   and ETFs 24/7 with zero commissions.
+lastUpdated: 2026-09-04
 ---
 Structure democratizes global investment access through tokenized real-world assets and multi-currency mobile trading.
 

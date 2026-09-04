@@ -7,6 +7,7 @@ description: >-
   exchange and liquidity protocol designed for high-performance crypto trading,
   yield generation, and cross-chain derivatives on BNB Chain and other leading
   EVM networks.
+lastUpdated: 2026-09-04
 ---
 Aster DEX is a high-throughput decentralized exchange focused on on-chain perpetuals and yield optimization across BNB Chain and Layer 2 ecosystems.
 

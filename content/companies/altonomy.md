@@ -7,6 +7,7 @@ description: >-
   Altonomy is a global institutional trading firm and liquidity provider in
   digital assets, specializing in market making, quantitative trading
   strategies, and OTC execution across major crypto exchanges and protocols.
+lastUpdated: 2026-09-04
 ---
 Altonomy provides 24/7 liquidity and market making services to institutional clients, crypto projects, and exchanges worldwide.
 

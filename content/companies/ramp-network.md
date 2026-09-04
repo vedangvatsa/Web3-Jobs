@@ -6,6 +6,7 @@ description: >-
   Ramp Network builds frictionless crypto-to-fiat on-ramps and off-ramps,
   allowing millions of global users to buy and sell crypto inside Web3
   applications with local payment methods.
+lastUpdated: 2026-09-04
 ---
 Ramp Network builds frictionless crypto-to-fiat on-ramps and off-ramps, allowing millions of global users to buy and sell crypto inside Web3 applications with local payment methods.
 

@@ -6,6 +6,7 @@ description: >-
   Particle Network is the modular Layer 1 powering Universal Accounts and Chain
   Abstraction, enabling users to seamlessly coordinate state and liquidity
   across any blockchain with a single account.
+lastUpdated: 2026-09-04
 ---
 Particle Network is the modular Layer 1 powering Universal Accounts and Chain Abstraction, enabling users to seamlessly coordinate state and liquidity across any blockchain with a single account.
 

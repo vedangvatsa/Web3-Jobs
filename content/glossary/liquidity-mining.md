@@ -17,6 +17,7 @@ synonyms:
   - LP rewards
   - liquidity rewards
   - mining incentives
+lastUpdated: 2026-09-04
 ---
 
 Liquidity mining refers to incentive programs where decentralized protocols distribute token rewards to users who provide liquidity to trading pools or lending platforms. This mechanism became a significant factor in DeFi's growth in 2020, when protocols like Compound distributed COMP governance tokens to both lenders and borrowers, attracting substantial deposits. The strategy works by offering yields that combine traditional trading fees with supplemental token rewards, though these incentives often prove temporary since liquidity frequently migrates once reward programs conclude. For Web3 professionals, understanding liquidity mining mechanics remains essential, as DeFi protocols continuously seek tokenomics specialists and liquidity strategists who can design sustainable incentive structures.

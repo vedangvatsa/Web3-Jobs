@@ -7,6 +7,7 @@ description: >-
   decentralized lending, capital markets, and home equity lines of credit
   (HELOCs). Founded by Mike Cagney, Figure transforms financial services by
   bringing speed, transparency, and liquidity to on-chain debt originations.
+lastUpdated: 2026-09-04
 ---
 Figure Technologies is a leading organization in the FinTech / Lending / Real World Assets sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

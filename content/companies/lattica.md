@@ -7,6 +7,7 @@ description: >-
   Lattica is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Lattica designs quantitative DeFi liquidity engines that optimize capital efficiency and reduce slippage for on-chain traders.
 

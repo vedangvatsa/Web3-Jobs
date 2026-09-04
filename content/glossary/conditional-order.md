@@ -16,6 +16,7 @@ synonyms:
   - stop order
   - triggered order
   - conditional trade
+lastUpdated: 2026-09-04
 ---
 
 Conditional Order refers to a trading instruction that executes automatically only when predefined criteria are satisfied, such as price thresholds, time triggers, or complex market conditions. This mechanism enables traders to implement strategies without constant market monitoring, automating decisions like selling an asset when it reaches a target price or buying when technical indicators align. In traditional finance, stop-loss and take-profit orders represent basic conditional orders, while decentralized protocols like dYdX and GMX have expanded these capabilities to include multi-condition triggers and cross-asset dependencies. DeFi protocols increasingly compete on advanced order types, with conditional execution becoming a standard feature across major exchanges. Professionals who understand conditional order implementation and smart contract automation find strong demand in quantitative trading, protocol development, and trading infrastructure roles throughout the cryptocurrency industry.

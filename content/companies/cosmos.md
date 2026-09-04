@@ -8,6 +8,7 @@ description: >-
   Cosmos is a premier Layer 0 / Interoperability company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Internet of Blockchains enabling sovereign interoperable chains via IBC.
 

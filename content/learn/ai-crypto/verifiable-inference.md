@@ -78,6 +78,7 @@ quiz:
       operations. At Ethereum's gas prices, running inference on-chain would be
       prohibitively expensive. This is why the computation happens off-chain and
       only the verified result is submitted on-chain.
+lastUpdated: 2026-09-04
 ---
 
 ## The Trust Problem

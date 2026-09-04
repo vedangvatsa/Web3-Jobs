@@ -16,6 +16,7 @@ synonyms:
   - floor
   - entry price
   - minimum price
+lastUpdated: 2026-09-04
 ---
 
 Floor price refers to the lowest listed price at which any NFT from a specific collection can be purchased on marketplaces, establishing the minimum cost of entry for collectors and investors. This metric serves as a barometer of collection health, market sentiment, and perceived value within the NFT ecosystem. When tracking blue-chip collections like Bored Ape Yacht Club on OpenSea, traders monitor floor price movements to assess whether a collection is gaining or losing momentum. Floor price fluctuates continuously as NFTs are listed, sold, and delisted, reflecting the interaction of supply and demand. Professionals who understand floor price dynamics and can analyze collection trends are increasingly sought after by NFT marketplaces, Web3 investment funds, and digital asset trading firms.

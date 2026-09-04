@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - price slippage
   - execution difference
+lastUpdated: 2026-09-04
 ---
 
 Slippage refers to the difference between the expected price of a trade and the actual execution price. This phenomenon occurs when market conditions shift between order submission and blockchain confirmation. In decentralized exchanges like Uniswap, traders set slippage tolerance parameters to prevent excessive losses, typically between 0.5% and 3% depending on token volatility and liquidity depth. During periods of high network congestion or market turbulence, slippage can increase significantly. The mechanics behind slippage involve automated market maker algorithms, where larger trades relative to pool size create proportionally greater price impact. Understanding slippage is essential for DeFi developers, quantitative analysts, and smart contract engineers.

@@ -17,6 +17,7 @@ synonyms:
   - one-time address
   - ephemeral address
   - privacy address
+lastUpdated: 2026-09-04
 ---
 
 Stealth Address refers to a privacy mechanism that generates a unique, one-time receiving address for each transaction, preventing observers from linking multiple payments to a single wallet or identity. Unlike standard blockchain transactions where repeated payments to the same address create a visible trail, stealth addresses ensure that each incoming transaction appears to go to a completely different destination, even though the recipient can claim all funds using their private key. Monero pioneered this technology and uses stealth addresses by default for all transactions, while Ethereum is implementing similar functionality through EIP-5564. 

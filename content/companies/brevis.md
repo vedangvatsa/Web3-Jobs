@@ -7,6 +7,7 @@ description: >-
   Brevis is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Brevis empowers smart contracts with zero-knowledge data computation, enabling data-driven DeFi, loyalty programs, and cross-chain applications.
 

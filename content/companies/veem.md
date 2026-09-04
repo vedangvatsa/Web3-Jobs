@@ -6,6 +6,7 @@ description: >-
   Veem is a premier Crypto Payments company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Veem provides a platform for businesses to make and receive international payments. The company uses blockchain technology to simplify cross-border transactions, reducing costs and improving efficiency. Veem's services are designed for small to medium-sized enterprises, allowing them to manage their payment processes more effectively.
 

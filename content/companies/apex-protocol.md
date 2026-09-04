@@ -6,6 +6,7 @@ description: >-
   ApeX Protocol is a premier DEX / Derivatives / DeFi company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 ApeX Protocol is a leading decentralized, non-custodial derivatives exchange offering perpetual futures trading with deep liquidity, order book execution, and multi-chain settlement.
 

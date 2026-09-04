@@ -66,6 +66,7 @@ quiz:
       Uniswap's governance is a DAO. UNI token holders can propose and vote on
       fee changes, treasury spending, and protocol upgrades. All votes happen
       on-chain.
+lastUpdated: 2026-09-04
 ---
 
 ## Companies without a CEO

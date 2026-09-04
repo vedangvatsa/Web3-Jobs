@@ -82,6 +82,7 @@ quiz:
       string in the contract bytecode. A custom error like 'error
       InsufficientBalance(uint256 available, uint256 required)' compiles to just
       a 4-byte selector, saving significant deployment and runtime gas.
+lastUpdated: 2026-09-04
 ---
 
 ## Why Gas Costs Matter

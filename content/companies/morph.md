@@ -3,6 +3,7 @@ name: Morph
 website: 'https://morphl2.io'
 category: Other
 description: Morph focuses on token growth and community engagement strategies.
+lastUpdated: 2026-09-04
 ---
 
 Morph is involved in enhancing token growth and build community engagement within the blockchain space. The company offers various roles aimed at expanding its reach and effectiveness in the market. 

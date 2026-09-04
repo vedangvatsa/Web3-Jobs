@@ -20,6 +20,7 @@ synonyms:
   - Range liquidity
   - Custom liquidity ranges
   - Position-based liquidity
+lastUpdated: 2026-09-04
 ---
 
 - **Concentrated liquidity** is an AMM (automated market maker) design that allows liquidity providers to allocate their capital within custom price ranges instead of distributing it across the entire 0-to-infinity price curve. Introduced by Uniswap V3 in May 2021, this innovation changed DeFi by enabling greater capital efficiency compared to traditional constant product (x*y=k) AMMs.

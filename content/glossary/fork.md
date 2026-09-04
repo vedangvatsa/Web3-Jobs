@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - chain split
   - protocol fork
+lastUpdated: 2026-09-04
 ---
 
 Fork refers to a divergence in a blockchain's protocol that results in two separate chains sharing a common transaction history up to the point of split. Forks can be intentional, such as soft forks that introduce backward-compatible changes or hard forks that create permanent chain separations requiring all nodes to upgrade. They can also occur accidentally when miners produce competing blocks simultaneously. The most notable example is the 2016 Ethereum hard fork following the DAO hack, which created Ethereum and Ethereum Classic as distinct networks with different philosophical approaches to immutability. Understanding fork mechanics is valuable in the job market, as blockchain developers and protocol engineers must work through upgrade coordination, backward compatibility, and community governance when implementing network changes.

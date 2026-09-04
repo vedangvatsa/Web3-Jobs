@@ -16,6 +16,7 @@ synonyms:
   - liquidity provider
   - market participant
   - dealer
+lastUpdated: 2026-09-04
 ---
 
 Market Maker refers to a trader or automated system that provides liquidity by simultaneously posting buy and sell orders for an asset, profiting from the difference between these prices known as the bid-ask spread. In traditional finance, firms like Citadel Securities and Virtu Financial dominate this space, while in Web3, automated market makers like Uniswap have transformed the concept by replacing human traders with algorithmic liquidity pools governed by smart contracts. By continuously offering to buy and sell assets, market makers reduce price volatility and enable instant trades for other participants. The demand for professionals who understand both traditional and DeFi market making strategies has grown, with quantitative trading firms and crypto protocols actively recruiting developers and traders skilled in liquidity provision algorithms.

@@ -72,6 +72,7 @@ quiz:
       When AI can generate realistic deepfakes, fake articles, and synthetic
       media, cryptographic tools like digital signatures and on-chain timestamps
       become essential for proving content authenticity and provenance.
+lastUpdated: 2026-09-04
 ---
 
 ## The Convergence of Two Revolutions

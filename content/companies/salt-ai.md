@@ -6,6 +6,7 @@ description: >-
   Salt AI is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Salt AI develops artificial intelligence technologies aimed at automating processes in the financial services sector. The company focuses on enhancing efficiency through AI-driven solutions. 
 

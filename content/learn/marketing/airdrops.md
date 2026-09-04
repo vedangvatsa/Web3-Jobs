@@ -72,6 +72,7 @@ quiz:
       Points programs (like loyalty points) track user engagement. They are a
       marketing tool to drive usage before a token is ready, often serving as a
       precursor to an official airdrop.
+lastUpdated: 2026-09-04
 ---
 
 ## The Cold Start Problem

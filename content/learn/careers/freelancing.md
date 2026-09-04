@@ -64,6 +64,7 @@ quiz:
       Completed bounties, merged PRs, and public contributions create a
       verifiable track record. This reputation compounds - each successful
       project leads to more opportunities.
+lastUpdated: 2026-09-04
 ---
 
 ## Why freelancing works in Web3

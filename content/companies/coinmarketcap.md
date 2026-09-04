@@ -6,6 +6,7 @@ description: >-
   CoinMarketCap is a premier Data / Analytics / Binance company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 CoinMarketCap is the world's most-referenced price-tracking website for cryptoassets in the rapidly growing cryptocurrency space, reaching hundreds of millions of users annually.
 

@@ -17,6 +17,7 @@ synonyms:
   - ordering service
   - transaction sequencer
   - L2 sequencer
+lastUpdated: 2026-09-04
 ---
 
 Sequencer refers to the entity responsible for ordering, batching, and submitting transactions on Layer 2 networks before they are posted to the underlying Layer 1 blockchain for final settlement. In practice, sequencers receive user transactions, arrange them in a specific order, compress them into batches, and publish the resulting data to Ethereum or another base layer. Arbitrum One, one of the largest Layer 2 networks, processes a significant portion of its transactions through a centralized sequencer operated by Offchain Labs. While this architecture enables fast confirmation times and low fees, it creates potential risks around censorship and MEV extraction, which is why most major rollups have decentralized sequencer implementations on their roadmaps. For professionals entering Web3 infrastructure roles, understanding sequencer mechanics is increasingly valuable as Layer 2 scaling solutions dominate network activity.

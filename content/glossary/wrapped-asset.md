@@ -16,6 +16,7 @@ synonyms:
   - bridged asset
   - synthetic asset
   - cross-chain token
+lastUpdated: 2026-09-04
 ---
 
 Wrapped Asset refers to a tokenized representation of an asset from one blockchain that has been locked in a bridge contract and minted as a compatible token on another chain, enabling cross-chain liquidity and interoperability. The most prominent example is Wrapped Bitcoin (wBTC), where users lock BTC with a custodian like BitGo and receive an equivalent ERC-20 token on Ethereum that can be used in DeFi protocols like Aave or Curve for lending and yield generation. Wrapped assets maintain their peg through arbitrage mechanisms, where traders profit from price discrepancies by wrapping or unwrapping tokens when values diverge. Professionals who understand wrapped asset mechanics, bridge security, and cross-chain protocols are increasingly sought after for roles in DeFi development, protocol security, and blockchain infrastructure engineering.

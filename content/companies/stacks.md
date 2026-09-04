@@ -3,6 +3,7 @@ name: Stacks
 website: 'https://stacks.co'
 category: Blockchain Infrastructure
 description: Stacks enables smart contracts and decentralized applications on Bitcoin.
+lastUpdated: 2026-09-04
 ---
 
 Stacks is a layer-1 blockchain solution that brings smart contracts and decentralized applications to Bitcoin. It operates using a unique consensus mechanism called Proof of Transfer, which connects the Stacks blockchain to Bitcoin. This allows developers to build applications that use Bitcoin's security and stability.

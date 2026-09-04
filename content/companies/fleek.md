@@ -6,6 +6,7 @@ description: >-
   Fleek is an open web developer platform providing lightning-fast decentralized
   hosting, edge compute, storage, and IPFS pinning for performant Web3 dApps and
   websites.
+lastUpdated: 2026-09-04
 ---
 Fleek is a leading organization in the Decentralized Cloud & Hosting sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

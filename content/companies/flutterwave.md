@@ -6,6 +6,7 @@ description: >-
   Flutterwave is a premier Payments / Fintech (Pan-Africa) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Flutterwave is a premier African payments infrastructure company connecting global enterprises and local businesses to African digital payment methods, mobile money, and cross-border settlement.
 

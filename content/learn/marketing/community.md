@@ -69,6 +69,7 @@ quiz:
       Community calls, usually held on Twitter Spaces or Discord Voice, are
       essential for transparency. They give the community direct access to the
       founders and developers.
+lastUpdated: 2026-09-04
 ---
 
 ## The Community is the Product

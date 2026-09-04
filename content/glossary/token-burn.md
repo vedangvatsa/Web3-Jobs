@@ -17,6 +17,7 @@ synonyms:
   - token destruction
   - supply reduction
   - deflationary mechanism
+lastUpdated: 2026-09-04
 ---
 
 Token Burn refers to the permanent removal of cryptocurrency tokens from circulation by sending them to an inaccessible wallet address, effectively destroying them and reducing the total supply. This deflationary mechanism operates on basic economic principles: when supply decreases while demand remains constant or grows, the value of remaining tokens may increase. Ethereum provides a prominent example through its EIP-1559 upgrade, which introduced an automatic burn mechanism for a portion of transaction fees. Projects implement burns strategically to signal commitment to tokenholders, manage inflation, or fulfill programmatic monetary policies embedded in their smart contracts. The mechanism requires no central authority, as anyone can verify burns on the blockchain by tracking transfers to known burn addresses. Understanding token burn mechanics is valuable for careers in tokenomics design, protocol development, and crypto investment analysis, where supply dynamics directly impact project valuation and sustainability.

@@ -68,6 +68,7 @@ quiz:
       Most tokens use 18 decimals to mirror ETH (1 ETH = 10^18 wei). Solidity
       does not support decimals/floats natively, so a token balance of '1' is
       actually represented as '1,000,000,000,000,000,000' in the code.
+lastUpdated: 2026-09-04
 ---
 
 ## Tokens are just spreadsheets

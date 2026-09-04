@@ -7,6 +7,7 @@ description: >-
   Shipyard Software is a premier Developer Tools company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Shipyard Software engineers specialized DeFi market structures optimized for price execution and minimal impermanent loss.
 

@@ -7,6 +7,7 @@ description: >-
   digital assets. Host of the Consensus festival and publisher of benchmark
   crypto indexes, CoinDesk delivers award-winning journalism and market
   intelligence globally.
+lastUpdated: 2026-09-04
 ---
 CoinDesk is a leading organization in the Media / News / Research sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

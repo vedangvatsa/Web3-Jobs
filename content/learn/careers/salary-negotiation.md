@@ -77,6 +77,7 @@ quiz:
       and have no exchange listing, those tokens could be worth zero. Red flags:
       no vesting schedule in writing, tokens from a protocol with no users, and
       high cash discount justified by 'future token value.'
+lastUpdated: 2026-09-04
 ---
 
 ## Understanding Web3 Compensation

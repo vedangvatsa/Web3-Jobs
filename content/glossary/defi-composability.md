@@ -17,6 +17,7 @@ synonyms:
   - money legos
   - composable finance
   - protocol interoperability
+lastUpdated: 2026-09-04
 ---
 
 DeFi Composability refers to the ability of decentralized finance protocols to integrate and interact with one another. This allows developers and users to build complex financial strategies by combining multiple protocols within single atomic transactions. This characteristic, often called "money legos," enables innovations like flash loans where users can borrow capital, execute arbitrage across multiple exchanges, and repay the loan all within one transaction block. Yearn Finance exemplifies composability by automatically routing user deposits through various lending protocols like Aave and Compound to optimize yields. However, this interconnection also creates systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. For Web3 professionals, understanding composability is essential since protocol integration and cross-platform development skills are among the most sought-after capabilities in blockchain engineering roles.

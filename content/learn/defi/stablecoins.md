@@ -79,6 +79,7 @@ quiz:
       Circle and its banks. DAI is fully transparent on-chain and
       censorship-resistant, but requires $150+ of collateral to mint $100 of
       stablecoins. Each model serves different needs.
+lastUpdated: 2026-09-04
 ---
 
 ## Why Stablecoins Exist

@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - liquidity mining
   - DeFi farming
+lastUpdated: 2026-09-04
 ---
 
 Yield Farming is the practice of strategically moving cryptocurrency assets between decentralized finance protocols to maximize returns through lending, liquidity provision, and staking rewards. Unlike passive holding, yield farmers actively seek the highest available yields by deploying capital wherever opportunities arise, often compounding returns across multiple platforms simultaneously. For example, a yield farmer might deposit stablecoins into Aave to earn lending interest while also providing liquidity on Curve Finance to capture trading fees and governance token rewards. The practice requires understanding smart contract risks, impermanent loss, and gas optimization. As DeFi protocols continue expanding, professionals who understand yield farming mechanics are increasingly sought after for roles in protocol development, risk management, and treasury operations.

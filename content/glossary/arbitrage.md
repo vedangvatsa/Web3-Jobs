@@ -17,6 +17,7 @@ synonyms:
   - arb
   - price arbitrage
   - cross-exchange trading
+lastUpdated: 2026-09-04
 ---
 
 Arbitrage refers to the practice of simultaneously buying and selling the same cryptocurrency or digital asset across different exchanges or decentralized protocols to capture profit from temporary price discrepancies. When Bitcoin trades at $50,000 on Coinbase but $50,150 on Kraken, an arbitrageur can purchase on the cheaper exchange and sell on the more expensive one, pocketing the difference minus transaction fees. Arbitrage keeps markets efficient. A arbitrage bots process significant daily volume across decentralized exchanges, helping synchronize prices across fragmented crypto markets. Traders and firms deploy automated systems that execute these trades in milliseconds, often using flash loans on platforms like Aave to amplify capital without upfront investment. Understanding arbitrage mechanics is valuable for careers in quantitative trading, DeFi protocol development, and blockchain infrastructure.

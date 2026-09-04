@@ -86,6 +86,7 @@ quiz:
       through Ethereum's own consensus. While slower (7-day withdrawal period
       for optimistic rollups), they inherit Ethereum's full security guarantees
       rather than relying on a separate set of validators.
+lastUpdated: 2026-09-04
 ---
 
 ## The Problem: Isolated Blockchains

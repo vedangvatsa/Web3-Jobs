@@ -64,6 +64,7 @@ quiz:
     explanation: >-
       Community managers need communication, organization, and empathy. While
       understanding the tech at a high level helps, no coding is required.
+lastUpdated: 2026-09-04
 ---
 
 ## Technical roles

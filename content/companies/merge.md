@@ -6,6 +6,7 @@ description: >-
   Merge is a premier FinTech company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Merge specializes in providing financial technology solutions for cross-border payments and stablecoin services. The company offers a range of products aimed at improving transaction efficiency and compliance in the fintech space. 
 

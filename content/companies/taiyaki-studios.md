@@ -7,6 +7,7 @@ description: >-
   Taiyaki Studios is a premier Gaming company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Taiyaki Studios crafts immersive metaverse worlds and narrative-rich gaming franchises powered by digital asset ownership.
 

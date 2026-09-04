@@ -7,6 +7,7 @@ description: >-
   Level is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Level Finance delivers capital-efficient perpetual trading and innovative liquidity pool management on Arbitrum and BNB Chain.
 

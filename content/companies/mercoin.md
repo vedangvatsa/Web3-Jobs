@@ -6,6 +6,7 @@ description: >-
   Mercoin is the crypto and Web3 subsidiary of Mercari, enabling millions of
   users to buy, sell, and spend Bitcoin seamlessly within Japan's top
   marketplace app.
+lastUpdated: 2026-09-04
 ---
 Mercoin is the crypto and Web3 subsidiary of Mercari, enabling millions of users to buy, sell, and spend Bitcoin seamlessly within Japan's top marketplace app.
 

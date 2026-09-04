@@ -16,6 +16,7 @@ synonyms:
   - smart contract composability
   - DeFi composability
   - protocol layering
+lastUpdated: 2026-09-04
 ---
 
 Composability refers to the ability of smart contracts and DeFi protocols to interact and combine smoothly, enabling developers to build complex financial applications from modular, interoperable pieces. Often described as "money legos," composability allows the output of one protocol to serve as the input for another without requiring custom integration work. For example, a user can swap tokens on Uniswap, deposit the output into Aave as collateral, borrow stablecoins, and deploy those into a yield farming strategy, all in a single transaction. However, composability also introduces systemic risk, as vulnerabilities in one protocol can cascade through dependent applications. Professionals who understand composable architecture are highly sought after for roles in protocol development, smart contract auditing, and DeFi product management.

@@ -17,6 +17,7 @@ synonyms:
   - computation slicing
   - proof composition
   - modular proof
+lastUpdated: 2026-09-04
 ---
 
 Slicing is a technique where computation is divided into smaller pieces that can be independently verified or processed, improving scalability and verification efficiency in blockchain systems. Rather than proving an entire complex computation at once, which is slow and resource-intensive, slicing breaks the workload into manageable segments that can be verified in parallel and then combined into a complete proof. This approach is particularly important for zero-knowledge rollups, where proof generation costs and latency directly impact user experience. RISC Zero, a ZK infrastructure company, employs slicing in their Bonsai proving network to enable faster proof generation for applications ranging from gaming to decentralized finance. As ZK technology moves from research to production, professionals who understand slicing and parallel verification architectures are increasingly sought after by teams building modern scaling solutions.

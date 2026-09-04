@@ -4,6 +4,7 @@ website: 'https://www.horizon.com'
 category: Web3 Gaming
 headquarters: Montreal, Canada
 description: "Horizon Blockchain Games is the creator of Sequence—the leading smart wallet and developer platform for Web3 games—and Skyweaver, an acclaimed digital trading card game. Horizon provides game studios with turn-key account abstraction, invisible wallet onboarding, and full-stack game infrastructure. Horizon Blockchain Games builds Sequence smart wallet APIs and Skyweaver trading card games, providing game studios with full-stack Web3 account abstraction tooling. Sequence enables web3 game developers to offer invisible wallet creation, gasless transactions, and seamless NFT marketplace integration to mainstream players. Horizon Blockchain Games builds Sequence smart wallet APIs and Skyweaver trading card games, providing game studios with full-stack Web3 account abstraction tooling."
+lastUpdated: 2026-09-04
 ---
 
 Horizon Blockchain Games is a Web3 game studio and developer platform building digital card game Skyweaver and Sequence infrastructure.

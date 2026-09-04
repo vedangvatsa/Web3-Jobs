@@ -16,6 +16,7 @@ synonyms:
   - annual percentage yield
   - effective annual rate
   - compound interest rate
+lastUpdated: 2026-09-04
 ---
 
 APY (Annual Percentage Yield) is the annualized rate of return on an investment that accounts for compound interest, showing the total earnings over a year including reinvested gains. Unlike APR (Annual Percentage Rate), which only reflects simple interest, APY captures the compounding effect where earned interest generates additional returns. Aave, one of the largest DeFi lending protocols, displays APY rates that fluctuate based on supply and demand for each asset, allowing users to compare potential returns across different tokens. Understanding APY calculations is essential for DeFi analysts, yield strategists, and risk managers who must accurately evaluate protocol performance and communicate realistic return expectations to users and stakeholders.

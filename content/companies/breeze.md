@@ -3,6 +3,7 @@ name: Breeze
 website: 'https://breez.technology'
 category: FinTech
 description: Breeze provides payment solutions for businesses and consumers.
+lastUpdated: 2026-09-04
 ---
 
 Breeze specializes in payment processing solutions, focusing on enhancing the transaction experience for both businesses and consumers. The company offers a range of products designed to enable smooth payments, including checkout solutions and fraud prevention tools.

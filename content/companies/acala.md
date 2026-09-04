@@ -8,6 +8,7 @@ description: >-
   Polkadot ecosystem. It provides an EVM-compatible layer for decentralized
   applications, multi-collateral stablecoin mechanisms, and liquid staking
   infrastructure.
+lastUpdated: 2026-09-04
 ---
 Acala is an all-in-one DeFi hub for Polkadot, offering an EVM-compatible platform for cross-chain liquidity, liquid staking (LDOT), and decentralized financial applications.
 

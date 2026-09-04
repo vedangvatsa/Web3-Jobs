@@ -6,6 +6,7 @@ description: >-
   Foundry is a premier Bitcoin / Mining / Staking company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Foundry (a DCG company) is a leading digital asset mining and staking infrastructure provider, operating the world's top Bitcoin mining pool (Foundry USA Pool).
 

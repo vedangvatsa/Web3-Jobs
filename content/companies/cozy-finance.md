@@ -7,6 +7,7 @@ description: >-
   Cozy Finance is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Cozy Finance enables permissionless, algorithmic DeFi coverage markets to safeguard user assets against technical and economic risks.
 

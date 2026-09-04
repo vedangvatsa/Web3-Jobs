@@ -6,6 +6,7 @@ description: >-
   Ginco is a premier Japanese Web3 infrastructure provider offering Ginco
   Enterprise Wallet, institutional digital asset custody, and Web3 cloud
   infrastructure for top Japanese enterprises and banks.
+lastUpdated: 2026-09-04
 ---
 Ginco is a premier Japanese Web3 infrastructure provider offering Ginco Enterprise Wallet, institutional digital asset custody, and Web3 cloud infrastructure for top Japanese enterprises and banks.
 

@@ -7,6 +7,7 @@ description: >-
   Parsec Finance is a premier Analytics company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Parsec provides customizable financial terminals and low-latency metrics for traders and researchers navigating on-chain markets.
 

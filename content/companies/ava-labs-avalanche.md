@@ -6,6 +6,7 @@ description: >-
   Ava Labs makes it simple to deploy high-performance solutions for Web3,
   powered by the Avalanche blockchain and Subnet architecture for unmatched
   speed, scalability, and customizability.
+lastUpdated: 2026-09-04
 ---
 Ava Labs is a leading organization in the Layer 1 Blockchain / Avalanche sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

@@ -19,6 +19,7 @@ synonyms:
   - MEV pipeline
   - Block production supply chain
   - PBS supply chain
+lastUpdated: 2026-09-04
 ---
 
 The **MEV supply chain** (also called the **MEV pipeline** or **block production supply chain**) is the multi-stage value flow that begins with on-chain transaction opportunities and ends with validators/proposers receiving a share of the extracted MEV. This supply chain has evolved from a simple two-party system (searchers directly bribing miners) to a complex four-party ecosystem involving **searchers**, **builders**, **relays**, and **proposers**, each playing a specialized role in identifying, packaging, and capturing MEV opportunities.

@@ -6,6 +6,7 @@ description: >-
   OSL is a premier Exchange / Custody company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 OSL is a Hong Kong SFC-licensed digital asset platform providing institutional-grade custody, prime brokerage, automated OTC trading, and software-as-a-service infrastructure.
 

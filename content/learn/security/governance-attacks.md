@@ -79,6 +79,7 @@ quiz:
       passing. A 48-hour timelock gives the community time to review the
       proposal's on-chain actions, raise alarms, and potentially veto or exit
       their positions before the proposal takes effect.
+lastUpdated: 2026-09-04
 ---
 
 ## What Is a Governance Attack?

@@ -20,6 +20,7 @@ synonyms:
   - Liquidity pool
   - Constant product market maker
   - Decentralized exchange
+lastUpdated: 2026-09-04
 ---
 
 An **Automated Market Maker (AMM)** is a **smart contract that enables trading by maintaining liquidity pools and using mathematical formulas to determine asset prices automatically**. Instead of traditional order books where buyers and sellers directly match, AMMs allow anyone to trade against a pool of assets, with prices determined algorithmically based on the ratio of assets in the pool.

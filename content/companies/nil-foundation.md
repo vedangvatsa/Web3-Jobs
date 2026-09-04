@@ -7,6 +7,7 @@ description: >-
   =nil; Foundation is a pioneer in zero-knowledge technology, creating =nil;
   zkRollup, the Proof Market, and zkLLVM to bring verifiable computing and
   sharded execution to Ethereum.
+lastUpdated: 2026-09-04
 ---
 =nil; Foundation builds developer tools and zero-knowledge infrastructure that compile mainstream code into verifiable circuits.
 

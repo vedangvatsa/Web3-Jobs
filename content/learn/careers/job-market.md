@@ -61,6 +61,7 @@ quiz:
       Web3 salaries are competitive with Web2 tech companies. Many roles also
       include token grants or equity that can increase total compensation. Base
       salaries are paid in USD/stablecoins at most companies.
+lastUpdated: 2026-09-04
 ---
 
 ## Web3 is hiring

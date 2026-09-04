@@ -3,6 +3,7 @@ name: Safe
 website: 'https://safe.global'
 category: Other
 description: Safe provides a platform for managing digital assets securely.
+lastUpdated: 2026-09-04
 ---
 
 Safe is known for its multi-signature wallet technology, which enhances security for managing cryptocurrencies and digital assets. The platform allows users to create and manage shared wallets, enabling multiple parties to control funds collaboratively. Safe's infrastructure is designed to provide a secure environment for both individuals and organizations to manage their digital assets.

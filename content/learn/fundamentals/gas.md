@@ -62,6 +62,7 @@ quiz:
       Gas prices are measured in gwei. One gwei is 0.000000001 ETH (one
       billionth). A typical transaction might cost 20-30 gwei per unit of gas,
       multiplied by the number of gas units the operation requires.
+lastUpdated: 2026-09-04
 ---
 
 ## Gas is not a fee - it is a unit of computation

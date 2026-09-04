@@ -7,6 +7,7 @@ description: >-
   Talus Network is a high-performance Layer 1 blockchain built on the Move
   language, designed specifically to host autonomous AI agents, on-chain
   workflows, and decentralized intelligence.
+lastUpdated: 2026-09-04
 ---
 Talus provides a secure, parallelized execution environment for AI agents to interact with on-chain assets and smart contracts.
 

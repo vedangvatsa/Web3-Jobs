@@ -17,6 +17,7 @@ synonyms:
   - payment channel
   - off-chain channel
   - state update channel
+lastUpdated: 2026-09-04
 ---
 
 State Channel refers to an off-chain scaling solution that enables multiple transactions between parties without recording each one on the main blockchain, requiring only opening and closing transactions to be settled on-chain. This approach reduces fees and enables near-instant settlement times measured in milliseconds rather than the minutes or hours typical of base-layer blockchain confirmation. The Lightning Network, Bitcoin's most prominent state channel implementation, demonstrates significant adoption for micropayments and peer-to-peer transfers. State channels work particularly well for scenarios involving repeated transactions between known parties, such as streaming payments or gaming applications, though they present limitations for complex smart contract interactions compared to rollup-based solutions. Professionals with expertise in state channel architecture and Lightning Network development are increasingly sought after as payment infrastructure companies and exchanges expand their layer-2 integration capabilities.

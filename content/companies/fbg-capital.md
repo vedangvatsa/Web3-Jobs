@@ -7,6 +7,7 @@ description: >-
   FBG Capital is a premier Venture Capital company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 FBG Capital invests in early-stage Web3 innovations, providing capital, strategic guidance, and global ecosystem connectivity.
 

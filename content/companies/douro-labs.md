@@ -8,6 +8,7 @@ description: >-
   Douro Labs is a premier Oracle / Infrastructure company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Core contributors to the Pyth Network oracle infrastructure.
 

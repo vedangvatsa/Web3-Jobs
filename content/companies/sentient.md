@@ -6,6 +6,7 @@ description: >-
   Sentient is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Sentient specializes in artificial intelligence and machine learning technologies. The company aims to enhance decision-making processes across multiple sectors. They are known for their new approach to integrating AI with existing systems.
 

@@ -6,6 +6,7 @@ description: >-
   Uniswap Labs builds the Uniswap Protocol, the largest decentralized automated
   market maker and liquidity protocol on Ethereum and Layer 2s, processing
   trillions in non-custodial trading volume.
+lastUpdated: 2026-09-04
 ---
 Uniswap Labs is a leading organization in the Decentralized Exchange (DEX) sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

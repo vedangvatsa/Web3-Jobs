@@ -17,6 +17,7 @@ synonyms:
   - frontrun-backrun
   - MEV attack
   - transaction ordering
+lastUpdated: 2026-09-04
 ---
 
 Sandwich Attack refers to a form of MEV exploitation where a malicious actor monitors pending blockchain transactions and strategically positions their own trades immediately before and after a target transaction to extract profit from the resulting price movement. When a user submits a large swap on a decentralized exchange like Uniswap, an attacker can front-run by purchasing the same asset first, artificially inflating its price, then back-run by selling immediately after the victim's trade executes at a worse rate. This manipulation has become common across DeFi. The attack exploits the transparent nature of public mempools combined with the ability to pay higher gas fees for transaction priority. Understanding sandwich attacks and their prevention mechanisms is essential knowledge for smart contract auditors, protocol designers, and MEV researchers.

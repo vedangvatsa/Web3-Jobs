@@ -65,6 +65,7 @@ quiz:
       An audit is when independent security firms (like Trail of Bits,
       OpenZeppelin, or Certik) review the contract code for bugs and
       vulnerabilities. An audit reduces risk but does not guarantee safety.
+lastUpdated: 2026-09-04
 ---
 
 ## What a smart contract actually is

@@ -19,6 +19,7 @@ synonyms:
   - L2
   - Layer Two
   - L2 Solution
+lastUpdated: 2026-09-04
 ---
 
 Layer 2 refers to scaling solutions built on top of a base blockchain, known as Layer 1, that process transactions off the main chain while inheriting the security guarantees of the underlying network. These protocols address the blockchain trilemma by enabling higher transaction throughput and lower fees without sacrificing decentralization. Arbitrum, one of the leading Layer 2 solutions for Ethereum, exemplifies this approach by using optimistic rollup technology to batch transactions together before submitting them to the main chain. Popular applications including decentralized exchanges, lending protocols, and NFT marketplaces have migrated to Layer 2 networks to offer users near-instant transactions at a fraction of mainnet costs. For professionals entering the Web3 space, expertise in Layer 2 architecture and development has become increasingly valuable as major protocols prioritize scalability solutions in their technical roadmaps.

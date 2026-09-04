@@ -8,6 +8,7 @@ description: >-
   Walrus is a premier Storage / Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Decentralized storage protocol built on the Sui ecosystem.
 

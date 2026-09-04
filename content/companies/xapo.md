@@ -8,6 +8,7 @@ description: >-
   Xapo is a premier Banking / Custody company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Bitcoin-native private bank combining traditional banking with crypto custody.
 

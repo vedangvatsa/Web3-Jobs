@@ -8,6 +8,7 @@ description: >-
   Biconomy is a premier Web3 Infrastructure & UX company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Biconomy is a Web3 developer and transaction infrastructure platform that helps developers deliver smooth decentralized experiences. Founded in 2019, the company focuses on removing the UX friction associated with traditional blockchain interactions, such as gas fees and complex wallet management.
 

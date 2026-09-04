@@ -16,6 +16,7 @@ synonyms:
   - STARK proof
   - transparent proof
   - hash-based proof
+lastUpdated: 2026-09-04
 ---
 
 STARK refers to Scalable Transparent Arguments of Knowledge, a type of zero-knowledge cryptographic proof that verifies computations without revealing underlying data and without requiring a trusted setup ceremony. Unlike SNARKs, which depend on secret parameters generated during an initial ceremony, STARKs rely solely on hash functions, making them transparent and theoretically resistant to quantum computing attacks. The tradeoff is size: STARK proofs typically range from tens to hundreds of kilobytes compared to the few kilobytes of SNARKs. StarkWare, the leading company behind this technology, developed Starknet as a Layer 2 scaling solution for Ethereum that processes transactions using STARK proofs. Professionals with STARK expertise are increasingly sought after as more blockchain projects prioritize quantum resistance and transparency, making this a valuable specialization for cryptographers and zero-knowledge engineers entering the Web3 job market.

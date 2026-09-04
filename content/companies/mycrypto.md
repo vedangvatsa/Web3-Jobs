@@ -7,6 +7,7 @@ description: >-
   MyCrypto is a premier Wallet company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 MyCrypto provides secure tools for direct Ethereum blockchain interaction, hardware wallet integration, and transaction management.
 

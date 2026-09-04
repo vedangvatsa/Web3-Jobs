@@ -7,6 +7,7 @@ description: >-
   Ava Labs is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Ava Labs builds and maintains the core infrastructure of the Avalanche blockchain network, providing high-throughput and sub-second transaction finality.
 

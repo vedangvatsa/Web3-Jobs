@@ -59,6 +59,7 @@ quiz:
     explanation: >-
       USDC is a stablecoin pegged to the US dollar. ETH is Ethereum's native
       currency, BTC is Bitcoin, and UNI is Uniswap's governance token.
+lastUpdated: 2026-09-04
 ---
 
 ## The one-sentence version

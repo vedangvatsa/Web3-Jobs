@@ -6,6 +6,7 @@ description: >-
   OPEN is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 OPEN provides tools designed to enable teamwork and project management. The platform offers features that support real-time collaboration, task assignment, and progress tracking. Users can create and manage projects, share files, and communicate effectively within teams.
 

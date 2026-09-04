@@ -5,6 +5,7 @@ founded: 2012
 category: Exchange
 headquarters: Hong Kong
 description: "Bitfinex, founded in 2012 by Giancarlo Devasini and Raphael Nicolle and operated from the British Virgin Islands, is one of the world's longest-standing cryptocurrency spot and margin trading exchanges. Known for deep orderbook liquidity, institutional API throughput and sophisticated derivatives trading, Bitfinex has served professional traders and institutions for over a decade. Closely associated with Tether (USDT), Bitfinex also supports Lightning Network settlement, peer-to-peer financing and open-source Bitcoin infrastructure development. The company values trading systems resilience, financial engineering and deep crypto-native market infrastructure."
+lastUpdated: 2026-09-04
 ---
 
 Professional cryptocurrency exchange and trading platform operated by iFinex Inc.

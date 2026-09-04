@@ -6,6 +6,7 @@ description: >-
   SZNS is a decentralized protocol and platform for collective NFT ownership,
   community DAOs, and social token coordination across the Ethereum and EVM
   ecosystem.
+lastUpdated: 2026-09-04
 ---
 SZNS is a leading organization in the NFT Infrastructure / Fractionalization sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

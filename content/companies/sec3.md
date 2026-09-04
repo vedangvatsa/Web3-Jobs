@@ -3,6 +3,7 @@ name: Sec3
 website: 'https://sec3.dev'
 category: Other
 description: Sec3 focuses on security solutions for blockchain technologies.
+lastUpdated: 2026-09-04
 ---
 
 Sec3 specializes in enhancing security protocols for blockchain applications. The company is involved in research and development aimed at improving the safety of decentralized systems, particularly in the Solana ecosystem. They offer services that include security audits and risk assessments to help projects mitigate vulnerabilities.

@@ -7,6 +7,7 @@ description: >-
   Superform is a universal yield marketplace and cross-chain distribution
   protocol, allowing users to deposit into any DeFi vault on any chain through a
   single transaction.
+lastUpdated: 2026-09-04
 ---
 Superform simplifies multi-chain yield discovery by abstracting bridging, swapping, and vault execution into a unified interface.
 

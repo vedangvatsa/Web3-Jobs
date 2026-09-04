@@ -17,6 +17,7 @@ synonyms:
   - double spend attack
   - replay attack
   - transaction duplication
+lastUpdated: 2026-09-04
 ---
 
 Double spending refers to the fraudulent act of using the same cryptocurrency units in multiple transactions, exploiting the brief window before a transaction achieves finality on the blockchain. This challenge of digital currency stems from the ease of copying digital information, which traditional databases solve through centralized control but decentralized networks must address through consensus mechanisms. Bitcoin solved this through proof-of-work, where transactions require confirmation by miners before becoming irreversible, making double spending economically impractical without controlling majority network hashpower. The Ethereum Classic network suffered a notable double spending attack in 2019 when attackers reorganized blocks to reverse transactions. Modern blockchains implement various confirmation requirements, with exchanges typically waiting for six Bitcoin confirmations to consider deposits final. Understanding double spending prevention remains essential for blockchain security professionals, with roles in protocol security and exchange risk management consistently ranking among the highest-demand positions in cryptocurrency hiring.

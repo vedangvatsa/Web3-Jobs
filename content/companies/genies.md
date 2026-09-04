@@ -3,6 +3,7 @@ name: Genies
 website: 'https://genies.com'
 category: Other
 description: Genies creates customizable digital avatars for users and brands.
+lastUpdated: 2026-09-04
 ---
 
 Genies is a technology company that specializes in creating personalized digital avatars. Their platform allows users to design and customize avatars that can be used across various digital environments, including social media and virtual worlds. The company focuses on enhancing user expression through these avatars, which can represent individuals in a variety of contexts.

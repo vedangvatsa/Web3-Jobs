@@ -6,6 +6,7 @@ description: >-
   GSR is a global leader in digital asset trading and market making, providing
   24/7 programmatic liquidity, OTC execution, options, and programmatic
   algorithmic trading for top Web3 protocols and exchanges.
+lastUpdated: 2026-09-04
 ---
 GSR is a global leader in digital asset trading and market making, providing 24/7 programmatic liquidity, OTC execution, options, and programmatic algorithmic trading for top Web3 protocols and exchanges.
 

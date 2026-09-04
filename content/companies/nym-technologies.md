@@ -7,6 +7,7 @@ description: >-
   Nym Technologies is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Nym secures online privacy at the network layer by routing encrypted data packets through an incentivized multi-hop mixnet.
 
