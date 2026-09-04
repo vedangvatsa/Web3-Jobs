@@ -26,6 +26,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'coin-dcx': 'coindcx',
   'aztec-labs-privacy-l2': 'aztec',
   'aztec-labs': 'aztec',
+  'symbiotic-restaking': 'symbiotic',
+  'symbiotic': 'symbiotic',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
