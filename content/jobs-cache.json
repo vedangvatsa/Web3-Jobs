@@ -1,11 +1,131 @@
 [
   {
+    "id": "ashby-hyperbolic-51206c65-0350-4b22-8340-e86f70debb70",
+    "title": "GTM (Operations)",
+    "company": "Hyperbolic (AI + Web3)",
+    "location": "Remote",
+    "type": "FullTime",
+    "date": "2026-09-04",
+    "source": "ashby:hyperbolic",
+    "link": "https://jobs.ashbyhq.com/hyperbolic/51206c65-0350-4b22-8340-e86f70debb70",
+    "applyUrl": "https://jobs.ashbyhq.com/hyperbolic/51206c65-0350-4b22-8340-e86f70debb70",
+    "department": "Operations",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "AI",
+      "Security"
+    ],
+    "slug": "operationsebb70"
+  },
+  {
+    "id": "greenhouse-consensys-7895311",
+    "title": "Staff UX Motion Designer - MetaMask",
+    "company": "Consensys (MetaMask)",
+    "location": "UNITED STATES - Remote, CANADA - Remote, LATAM - Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "greenhouse:consensys",
+    "link": "https://consensys.io/open-roles/7895311?gh_jid=7895311",
+    "applyUrl": "https://consensys.io/open-roles/7895311?gh_jid=7895311",
+    "department": "MetaMask",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "frontend95311"
+  },
+  {
+    "id": "lever-offchainlabs-0403a086-e64e-464d-9268-bd0ba3d6572b",
+    "title": "Sr. Associate, Corporate Development",
+    "company": "Arbitrum (Offchain Labs)",
+    "location": "Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "lever:offchainlabs",
+    "link": "https://jobs.lever.co/offchainlabs/0403a086-e64e-464d-9268-bd0ba3d6572b",
+    "applyUrl": "https://jobs.lever.co/offchainlabs/0403a086-e64e-464d-9268-bd0ba3d6572b",
+    "department": "Arbitrum (Offchain Labs)",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "associate6572b"
+  },
+  {
+    "id": "greenhouse-bitgo-7690113002",
+    "title": "Office Manager",
+    "company": "BitGo",
+    "location": "New York, United States",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "greenhouse:bitgo",
+    "link": "https://job-boards.greenhouse.io/bitgo/jobs/7690113002",
+    "applyUrl": "https://job-boards.greenhouse.io/bitgo/jobs/7690113002",
+    "department": "Administration",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager13002"
+  },
+  {
+    "id": "greenhouse-fireblocks-4711086006",
+    "title": "VP Product Marketing",
+    "company": "Fireblocks",
+    "location": "Tel Aviv-Yafo, Tel Aviv District, Israel",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4711086006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4711086006",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "product86006"
+  },
+  {
+    "id": "greenhouse-fireblocks-4709648006",
+    "title": "Senior Marketing Manager, Americas",
+    "company": "Fireblocks",
+    "location": "New York",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "greenhouse:fireblocks",
+    "link": "https://www.fireblocks.com/careers/position?gh_jid=4709648006",
+    "applyUrl": "https://www.fireblocks.com/careers/position?gh_jid=4709648006",
+    "department": "Marketing",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Crypto",
+      "DeFi",
+      "Infrastructure"
+    ],
+    "slug": "manager48006"
+  },
+  {
     "id": "coindcx-1789",
     "title": "Security Architect",
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1789",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1789",
@@ -17,7 +137,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "securityx1789"
+    "slug": "coindcx1789"
   },
   {
     "id": "coindcx-1788",
@@ -25,7 +145,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1788",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1788",
@@ -37,7 +157,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "associatex1788"
+    "slug": "coindcx1788"
   },
   {
     "id": "coindcx-1786",
@@ -45,7 +165,7 @@
     "company": "CoinDCX",
     "location": "Bangalore/Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1786",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1786",
@@ -57,7 +177,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "compliancex1786"
+    "slug": "coindcx1786"
   },
   {
     "id": "coindcx-1784",
@@ -65,7 +185,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1784",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1784",
@@ -77,7 +197,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1784"
+    "slug": "coindcx1784"
   },
   {
     "id": "coindcx-1783",
@@ -85,7 +205,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1783",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1783",
@@ -97,7 +217,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "devopsx1783"
+    "slug": "coindcx1783"
   },
   {
     "id": "coindcx-1782",
@@ -105,7 +225,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1782",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1782",
@@ -117,7 +237,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "seniorx1782"
+    "slug": "coindcx1782"
   },
   {
     "id": "coindcx-1780",
@@ -125,7 +245,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1780",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1780",
@@ -137,7 +257,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "engineerx1780"
+    "slug": "coindcx1780"
   },
   {
     "id": "coindcx-1779",
@@ -145,7 +265,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1779",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1779",
@@ -157,7 +277,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "compliancex1779"
+    "slug": "coindcx1779"
   },
   {
     "id": "coindcx-1777",
@@ -165,7 +285,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1777",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1777",
@@ -177,7 +297,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "seniorx1777"
+    "slug": "coindcx1777"
   },
   {
     "id": "coindcx-1774",
@@ -185,7 +305,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1774",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1774",
@@ -197,7 +317,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "devopsx1774"
+    "slug": "coindcx1774"
   },
   {
     "id": "coindcx-1773",
@@ -205,7 +325,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1773",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1773",
@@ -217,7 +337,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1773"
+    "slug": "coindcx1773"
   },
   {
     "id": "coindcx-1771",
@@ -225,7 +345,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1771",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1771",
@@ -237,7 +357,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "seniorx1771"
+    "slug": "coindcx1771"
   },
   {
     "id": "coindcx-1769",
@@ -245,7 +365,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1769",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1769",
@@ -257,7 +377,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "associatex1769"
+    "slug": "coindcx1769"
   },
   {
     "id": "coindcx-1767",
@@ -265,7 +385,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1767",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1767",
@@ -277,7 +397,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1767"
+    "slug": "coindcx1767"
   },
   {
     "id": "coindcx-1766",
@@ -285,7 +405,7 @@
     "company": "CoinDCX",
     "location": "Gandhinagar",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1766",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1766",
@@ -297,7 +417,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "principalx1766"
+    "slug": "coindcx1766"
   },
   {
     "id": "coindcx-1765",
@@ -305,7 +425,7 @@
     "company": "CoinDCX",
     "location": "Gandhinagar",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1765",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1765",
@@ -317,7 +437,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "compliancex1765"
+    "slug": "coindcx1765"
   },
   {
     "id": "coindcx-1759",
@@ -325,7 +445,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1759",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1759",
@@ -337,7 +457,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "analystx1759"
+    "slug": "coindcx1759"
   },
   {
     "id": "coindcx-1756",
@@ -345,7 +465,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1756",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1756",
@@ -357,7 +477,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "recruitingx1756"
+    "slug": "coindcx1756"
   },
   {
     "id": "coindcx-1753",
@@ -365,7 +485,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1753",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1753",
@@ -377,7 +497,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1753"
+    "slug": "coindcx1753"
   },
   {
     "id": "coindcx-1751",
@@ -385,7 +505,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1751",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1751",
@@ -397,7 +517,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "marketingx1751"
+    "slug": "coindcx1751"
   },
   {
     "id": "coindcx-1747",
@@ -405,7 +525,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1747",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1747",
@@ -417,7 +537,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "compliancex1747"
+    "slug": "coindcx1747"
   },
   {
     "id": "coindcx-1746",
@@ -425,7 +545,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1746",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1746",
@@ -437,7 +557,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1746"
+    "slug": "coindcx1746"
   },
   {
     "id": "coindcx-1745",
@@ -445,7 +565,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1745",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1745",
@@ -457,7 +577,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "devopsx1745"
+    "slug": "coindcx1745"
   },
   {
     "id": "coindcx-1731",
@@ -465,7 +585,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1731",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1731",
@@ -477,7 +597,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "traderx1731"
+    "slug": "coindcx1731"
   },
   {
     "id": "coindcx-1730",
@@ -485,7 +605,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1730",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1730",
@@ -497,7 +617,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "traderx1730"
+    "slug": "coindcx1730"
   },
   {
     "id": "coindcx-1729",
@@ -505,7 +625,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1729",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1729",
@@ -517,7 +637,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "traderx1729"
+    "slug": "coindcx1729"
   },
   {
     "id": "coindcx-1727",
@@ -525,7 +645,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1727",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1727",
@@ -537,7 +657,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1727"
+    "slug": "coindcx1727"
   },
   {
     "id": "coindcx-1726",
@@ -545,7 +665,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1726",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1726",
@@ -557,7 +677,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "seniorx1726"
+    "slug": "coindcx1726"
   },
   {
     "id": "coindcx-1722",
@@ -565,7 +685,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1722",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1722",
@@ -577,7 +697,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "associatex1722"
+    "slug": "coindcx1722"
   },
   {
     "id": "coindcx-1714",
@@ -585,7 +705,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1714",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1714",
@@ -597,7 +717,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "analystx1714"
+    "slug": "coindcx1714"
   },
   {
     "id": "coindcx-1712",
@@ -605,7 +725,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1712",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1712",
@@ -617,7 +737,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "engineerx1712"
+    "slug": "coindcx1712"
   },
   {
     "id": "coindcx-1696",
@@ -625,7 +745,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1696",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1696",
@@ -637,7 +757,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "srx1696"
+    "slug": "coindcx1696"
   },
   {
     "id": "coindcx-1695",
@@ -645,7 +765,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1695",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1695",
@@ -657,27 +777,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "recruitingx1695"
-  },
-  {
-    "id": "coindcx-1676",
-    "title": "Director - Digital Suraksha Network",
-    "company": "CoinDCX",
-    "location": "Bangalore",
-    "type": "Full-time",
-    "date": "2026-09-03",
-    "source": "CoinDCX Official Portal [coindcx]",
-    "link": "https://careers.coindcx.com/opportunities/openings?jobId=1676",
-    "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1676",
-    "department": "Public Policy",
-    "skills": [
-      "Web3",
-      "Crypto",
-      "Exchange",
-      "Fintech",
-      "Trading"
-    ],
-    "slug": "directorx1676"
+    "slug": "coindcx1695"
   },
   {
     "id": "coindcx-1662",
@@ -685,7 +785,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1662",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1662",
@@ -697,7 +797,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1662"
+    "slug": "coindcx1662"
   },
   {
     "id": "coindcx-1661",
@@ -705,7 +805,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1661",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1661",
@@ -717,7 +817,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "associatex1661"
+    "slug": "coindcx1661"
   },
   {
     "id": "coindcx-1660",
@@ -725,7 +825,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1660",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1660",
@@ -737,7 +837,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1660"
+    "slug": "coindcx1660"
   },
   {
     "id": "coindcx-1657",
@@ -745,7 +845,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1657",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1657",
@@ -757,7 +857,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "analystx1657"
+    "slug": "coindcx1657"
   },
   {
     "id": "coindcx-1648",
@@ -765,7 +865,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1648",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1648",
@@ -777,7 +877,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "productx1648"
+    "slug": "coindcx1648"
   },
   {
     "id": "coindcx-1643",
@@ -785,7 +885,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1643",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1643",
@@ -797,7 +897,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "engineerx1643"
+    "slug": "coindcx1643"
   },
   {
     "id": "coindcx-1636",
@@ -805,7 +905,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1636",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1636",
@@ -817,7 +917,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1636"
+    "slug": "coindcx1636"
   },
   {
     "id": "coindcx-1634",
@@ -825,7 +925,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1634",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1634",
@@ -837,7 +937,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "analystx1634"
+    "slug": "coindcx1634"
   },
   {
     "id": "coindcx-1609",
@@ -845,7 +945,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1609",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1609",
@@ -857,7 +957,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "engineerx1609"
+    "slug": "coindcx1609"
   },
   {
     "id": "coindcx-1604",
@@ -865,7 +965,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1604",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1604",
@@ -877,7 +977,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "operationsx1604"
+    "slug": "coindcx1604"
   },
   {
     "id": "coindcx-1595",
@@ -885,7 +985,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1595",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1595",
@@ -897,7 +997,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "associatex1595"
+    "slug": "coindcx1595"
   },
   {
     "id": "coindcx-1569",
@@ -905,7 +1005,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1569",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1569",
@@ -917,7 +1017,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "marketingx1569"
+    "slug": "coindcx1569"
   },
   {
     "id": "coindcx-1565",
@@ -925,7 +1025,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1565",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1565",
@@ -937,7 +1037,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "directorx1565"
+    "slug": "coindcx1565"
   },
   {
     "id": "coindcx-1511",
@@ -945,7 +1045,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1511",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1511",
@@ -957,7 +1057,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "marketingx1511"
+    "slug": "coindcx1511"
   },
   {
     "id": "coindcx-1426",
@@ -965,7 +1065,7 @@
     "company": "CoinDCX",
     "location": "Bangalore",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1426",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1426",
@@ -977,7 +1077,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "engineerx1426"
+    "slug": "coindcx1426"
   },
   {
     "id": "coindcx-1259",
@@ -985,7 +1085,7 @@
     "company": "CoinDCX",
     "location": "Mumbai",
     "type": "Full-time",
-    "date": "2026-09-03",
+    "date": "2026-09-04",
     "source": "CoinDCX Official Portal [coindcx]",
     "link": "https://careers.coindcx.com/opportunities/openings?jobId=1259",
     "applyUrl": "https://careers.coindcx.com/opportunities/openings?jobId=1259",
@@ -997,7 +1097,7 @@
       "Fintech",
       "Trading"
     ],
-    "slug": "managerx1259"
+    "slug": "coindcx1259"
   },
   {
     "id": "ashby-foundation-2fffc9a2-7e3a-461c-8bb1-675540024014",

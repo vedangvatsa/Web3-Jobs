@@ -316,14 +316,26 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   );
   if (exact) return exact;
 
-  // 2. Short ID fallback: match the last 5 characters of the job ID (e.g. "85bda" in "marketing85bda")
-  // Extract alphanumeric trailing snippet (at least 4 chars)
-  const trailingMatch = cleanSlug.match(/([a-z0-9]{4,10})$/);
-  if (trailingMatch) {
-    const trailingSnippet = trailingMatch[1];
+  // 2. Short ID fallback: match trailing digits (e.g. "64006" in "role64006" or "engineer64006")
+  // or trailing hex snippet (e.g. "85bda" in "marketing85bda")
+  let trailingSnippet: string | null = null;
+  const digitMatch = cleanSlug.match(/(\d{4,})$/);
+  if (digitMatch) {
+    trailingSnippet = digitMatch[1];
+  } else {
+    const withoutLeadingLetters = cleanSlug.replace(/^[a-z]+/, '');
+    if (withoutLeadingLetters.length >= 4 && /^[a-f0-9]+$/.test(withoutLeadingLetters)) {
+      trailingSnippet = withoutLeadingLetters;
+    } else {
+      const trailingMatch = cleanSlug.match(/([a-z0-9]{4,10})$/);
+      if (trailingMatch) trailingSnippet = trailingMatch[1];
+    }
+  }
+
+  if (trailingSnippet) {
     const matchByShortId = allJobs.find((job) => {
       const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-      return cleanId.endsWith(trailingSnippet);
+      return cleanId.endsWith(trailingSnippet!);
     });
     if (matchByShortId) return matchByShortId;
   }
