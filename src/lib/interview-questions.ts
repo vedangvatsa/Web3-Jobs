@@ -926,7 +926,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
                 '`UserOperation`: A struct sent by a user that describes their desired action. It gets sent to a separate mempool.',
                 '`Bundler`: A node that bundles multiple `UserOperation`s from the mempool into a single transaction and sends it to a global `EntryPoint` contract on-chain.',
                 '`Paymaster`: An optional smart contract that can agree to pay for a user\'s gas fees. This enables"gasless" transactions, where a dApp can sponsor its users\' transactions to improve UX.',
-                'The goal is to make a user\'s wallet itself a smart contract, unlocking features not possible with simple EOAs (Externally Owned Accounts).'
+                'The goal is to make a user\'s wallet itself a smart contract, enabling capabilities not possible with simple EOAs (Externally Owned Accounts).'
               ]
             },
             commonPitfalls: ['Thinking EIP-4337 is a change to the Ethereum consensus layer.', 'Not understanding the relationship between the bundler and the paymaster.'],
@@ -942,7 +942,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
     {
       id: 'community-manager',
       role: 'Community Lead / Community Manager',
-      snapshot: 'The heart and soul of a Web3 project. Manages Discord, fosters culture, and serves as the bridge between users and the core team.',
+      snapshot: 'The heart and soul of a Web3 project. Manages Discord, encourages community participation, and serves as the bridge between users and the core team.',
       coreCompetencies: ['Communication', 'Empathy', 'Crisis Management', 'Content Creation', 'Deep Project Knowledge', 'Moderation'],
       questions: {
         Foundation: [
@@ -952,7 +952,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
             category: 'Strategy',
             question: 'What do you believe is the primary goal of a community manager in a Web3 project?',
             idealAnswer: {
-              coreIdea: 'The primary goal is to foster a self-sustaining, positive, and engaged community that feels a sense of ownership, turning passive users into active contributors and advocates.',
+              coreIdea: 'The primary goal is to build an active, self-sustaining community where members feel genuine ownership, turning passive users into active contributors and advocates.',
               keyPoints: [
                 'It\'s not just about answering questions or moderating chat. It\'s about cultivating a strong culture.',
                 'Key activities include: welcoming new members, facilitating productive discussions, creating engaging content/events, and acting as the voice of the community to the core team.',
@@ -962,7 +962,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
             commonPitfalls: ['Describing the role as purely social media management or customer support.', 'Focusing only on member count instead of engagement quality.'],
             whyThisMatters: ['This question reveals if the candidate understands the strategic importance of community in Web3, versus a more traditional marketing view.'],
             followUps: ['How would you measure the"health" of a community?', 'What are some projects you think have excellent communities, and why?'],
-            redFlags: ['Answers are focused on vanity metrics like"number of Discord members".', 'Does not mention fostering a sense of ownership.'],
+            redFlags: ['Answers are focused on vanity metrics like"number of Discord members".', 'Does not mention building a sense of ownership.'],
             scoringRubric: { 1: 'Describes a basic social media manager role.', 3: 'Understands the community aspect but focuses on tactical tasks rather than strategic goals.', 5: 'Articulates a clear strategic vision for community as a core asset and driver of project success.' },
             expectedTime: '90 seconds'
           },
@@ -1036,7 +1036,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
             id: 'CM-A-01',
             difficulty: 'Advanced',
             category: 'Design',
-            question: 'Design a program to identify and empower"super-contributors" within your community to help you scale your efforts.',
+            question: 'Design a program to identify and support"super-contributors" within your community to help you scale your efforts.',
             idealAnswer: {
               coreIdea: 'A successful program formalizes a path for passionate members to take on more responsibility and be rewarded for it, creating a scalable, decentralized community moderation and growth engine.',
               keyPoints: [
@@ -1109,7 +1109,7 @@ const formattedBalance = ethers.formatUnits(balance, 18); //"1.0"`
             category: 'Design',
             question: 'Design a framework for managing a DAO\'s treasury to fund community initiatives. How would you structure the process from idea to execution?',
             idealAnswer: {
-              coreIdea: 'A well-structured grants framework should be structured, transparent, and empower the community to make funding decisions, while protecting the treasury from frivolous spending.',
+              coreIdea: 'A well-structured grants framework should be transparent and give the community authority over funding decisions, while protecting the treasury from frivolous spending.',
               keyPoints: [
                 '1. Grants Committee: Establish a grants committee, elected by the DAO, to do the initial review and vetting of proposals. This prevents full token-holder votes on every small idea.',
                 '2. Proposal Lifecycle: Define a clear lifecycle: `Draft` -> `Discussion` -> `Committee Review` -> `Temperature Check (Snapshot)` -> `On-Chain Vote`.',
@@ -2375,7 +2375,7 @@ LIMIT 100;`
     {
       id: 'legal-compliance',
       role: 'Legal / Compliance Associate, Web3',
-      snapshot: 'Navigates the complex and evolving regulatory landscape of crypto. Advises on securities law, AML, and corporate structuring.',
+      snapshot: 'Navigates evolving regulatory frameworks across crypto jurisdictions. Advises on securities law, AML, and corporate structuring.',
       coreCompetencies: ['Securities Law (Howey Test)', 'AML/KYC Regulations', 'DAO Legal Wrappers', 'IP Law for NFTs', 'Privacy Law'],
       questions: {
         Foundation: [
@@ -2551,7 +2551,7 @@ LIMIT 100;`
                 'The Problem: Anyone can copy your smart contract code (a"fork").',
                 'Building a Moat:',
                 '1. Liquidity: For DeFi protocols, having the deepest liquidity is a powerful moat. Traders will always go where the best prices and lowest slippage are. This creates a network effect.',
-                '2. Community & Brand: A strong, vibrant community and a trusted brand are very difficult to fork. Users are loyal to the community and the brand they trust.',
+                '2. Community & Brand: An active, dedicated community and a trusted brand are very difficult to fork. Users are loyal to the community and the brand they trust.',
                 '3. Integrations: Being integrated into many other protocols creates high switching costs. If your stablecoin is the most widely accepted collateral in DeFi, it\'s very hard to displace.',
                 '4. Team & Governance: A top-tier team and a fair, structured governance process can be a moat. The community trusts the team to continue innovating and steering the protocol effectively.'
               ]

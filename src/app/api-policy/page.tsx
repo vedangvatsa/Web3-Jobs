@@ -56,7 +56,7 @@ export default function ApiPolicyPage() {
             <CheckCircle2 className="h-6 w-6 text-primary" />
             <h3 className="font-bold text-foreground">Backward Compatible</h3>
             <p className="text-xs text-muted-foreground leading-relaxed">
-              Additive changes (new optional fields, new parameters) are made seamlessly without version increments.
+              Additive changes (new optional fields, new parameters) take effect backward-compatibly without version increments.
             </p>
           </Card>
         </div>

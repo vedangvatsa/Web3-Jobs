@@ -107,7 +107,7 @@ export async function getJobs(): Promise<Job[]> {
   const distributed = distributeJobsByCompany(uniqueJobs);
 
    // Slugs are pre-baked into jobs-cache.json at scrape time by scripts/prebake_slugs.js.
-   // No runtime slug computation needed — just use what's in the file.
+   // No runtime slug computation needed; just use what's in the file.
    jobsCache = distributed as Job[];
    return jobsCache;
  } catch (error) {

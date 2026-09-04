@@ -19,7 +19,7 @@ export const quizData: QuizQuestion[] = [
   question:"You find a new, exciting technology. You are more likely to:",
   options: {
    a:"Immediately start tinkering with it to see what you can create.",
-   b:"Research its market potential and competitive landscape.",
+   b:"Research its market potential and competing products.",
   },
   weights: {
    a: { builder: 2 },
@@ -78,7 +78,7 @@ export const quizData: QuizQuestion[] = [
   id: 7,
   question:"You are most energized when you are:",
   options: {
-   a:"Connecting people and fostering collaboration.",
+   a:"Connecting people and organizing team projects.",
    b:"Solving a difficult, technical puzzle alone.",
   },
   weights: {
@@ -244,7 +244,7 @@ const results: Record<string, QuizResult> = {
  },
  weaver: {
   archetype: 'The Community Weaver',
-  description:"You are a natural connector of people. You thrive on building relationships, fostering collaboration, and creating a strong, positive culture. You understand that the strength of a Web3 project lies in its community.",
+  description:"You are a natural connector of people. You thrive on building relationships, driving team coordination, and creating a productive work culture. You understand that the strength of a Web3 project lies in its community.",
   traits: [
    'High emotional intelligence',
    'Excellent communicator',

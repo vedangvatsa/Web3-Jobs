@@ -10,7 +10,7 @@ import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
 
 const JOBS_PER_PAGE = 50;
 
-export const revalidate = 3600; // Revalidate every hour (ISR) — cache refreshes every 8h via GitHub Actions
+export const revalidate = 3600; // Revalidate every hour (ISR); cache refreshes every 8h via GitHub Actions
 
 export default async function JobsPage() {
   const allJobs = await getJobs();
