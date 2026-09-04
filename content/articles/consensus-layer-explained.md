@@ -8,7 +8,7 @@ description: >-
   it, trade-offs, and how to run or build on it.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The consensus layer is the part of Ethereum that decides which block is correct and which chain is canonical. Since The Merge on September 15, 2022, Ethereum runs with two linked pieces: an execution layer that runs transactions and an EVM state, and a consensus layer that runs proof-of-stake, selects block proposers, collects validator votes, and finalizes history. Together they form a single Ethereum network. This split replaced proof-of-work mining.
 
@@ -34,11 +34,11 @@ A consensus mechanism is the full stack of rules and incentives that lets nodes 
 
 ## Who it is for
 
-- **Node operators:** You must run both clients to stay on the correct chain. A consensus client without a validator still follows the head and exposes safe and finalized block tags for apps. A full node without a consensus client cannot validate post-Merge blocks.
-- **Validators and staking teams:** You add a validator client to a consensus client and stake ETH. You propose blocks when selected and attest every epoch. You accrue rewards or penalties and can be slashed for double voting or double proposing.
-- **Application developers:** You should read safe (justified) and finalized checkpoints rather than counting proof-of-work confirmations. Your JSON-RPC calls now have `latest`, `safe`, and `finalized` tags. Handling reorgs correctly depends on understanding when a block is justified versus finalized.
-- **Researchers and job seekers:** Protocol teams, L2 teams, wallet teams, and security auditors all expect you to know slot and epoch timing, attestations, weak subjectivity, and the inactivity leak. Roles titled protocol researcher, consensus engineer, or validator operations directly build on this.
-- **Hiring managers and analysts:** Energy, issuance, and security comparisons between proof-of-work and proof-of-stake come from this layer.
+- **Node operators:**You must run both clients to stay on the correct chain. A consensus client without a validator still follows the head and exposes safe and finalized block tags for apps. A full node without a consensus client cannot validate post-Merge blocks.
+-**Validators and staking teams:**You add a validator client to a consensus client and stake ETH. You propose blocks when selected and attest every epoch. You accrue rewards or penalties and can be slashed for double voting or double proposing.
+-**Application developers:**You should read safe (justified) and finalized checkpoints rather than counting proof-of-work confirmations. Your JSON-RPC calls now have `latest`, `safe`, and `finalized` tags. Handling reorgs correctly depends on understanding when a block is justified versus finalized.
+-**Researchers and job seekers:**Protocol teams, L2 teams, wallet teams, and security auditors all expect you to know slot and epoch timing, attestations, weak subjectivity, and the inactivity leak. Roles titled protocol researcher, consensus engineer, or validator operations directly build on this.
+-**Hiring managers and analysts:**Energy, issuance, and security comparisons between proof-of-work and proof-of-stake come from this layer.
 
 If you only use a custodial exchange or a hosted RPC and never run infrastructure, you do not need to operate a consensus client. You still benefit from knowing how finality works when you set confirmation policies.
 
@@ -107,8 +107,8 @@ Proof-of-stake is subjectively secure: a new node syncing from genesis cannot kn
 
 Withdrawals were enabled in the Shanghai/Capella (Shapella) upgrade on April 12, 2023. Two paths exist:
 
-- **Partial withdrawals (reward sweeps):** For legacy Type 1 validators with 0x01 credentials, any balance above 32 ETH is automatically swept to the withdrawal address every few days. No gas is needed. For compounding Type 2 validators with 0x02 credentials introduced in Pectra, rewards compound into effective balance up to 2048 ETH. Only balance above 2048 ETH is auto-swept. Amounts below that require a manual partial withdrawal from the execution layer that costs gas.
-- **Full withdrawals (exits):** A validator submits a voluntary exit, enters an exit queue capped at 256 ETH per epoch (about 57,600 ETH per day), waits about 256 epochs (around 27 hours) to become withdrawable, then is included in a sweep of up to 16 withdrawals per block (115,200 per day if no slots are missed). For compounding validators, partial withdrawal requests share the same exit queue and up to 8 per block.
+-**Partial withdrawals (reward sweeps):**For legacy Type 1 validators with 0x01 credentials, any balance above 32 ETH is automatically swept to the withdrawal address every few days. No gas is needed. For compounding Type 2 validators with 0x02 credentials introduced in Pectra, rewards compound into effective balance up to 2048 ETH. Only balance above 2048 ETH is auto-swept. Amounts below that require a manual partial withdrawal from the execution layer that costs gas.
+-**Full withdrawals (exits):**A validator submits a voluntary exit, enters an exit queue capped at 256 ETH per epoch (about 57,600 ETH per day), waits about 256 epochs (around 27 hours) to become withdrawable, then is included in a sweep of up to 16 withdrawals per block (115,200 per day if no slots are missed). For compounding validators, partial withdrawal requests share the same exit queue and up to 8 per block.
 
 Activation also uses a queue with the same 256 ETH per epoch churn limit. Ethereum limits churn with EIP-7514 to bound validator set growth.
 
@@ -121,81 +121,28 @@ Activation also uses a queue with the same 256 ETH per epoch churn limit. Ethere
 - Finality needs two-thirds, reversion without slashing impossible, slashing destroys at least one-third for finality reversal
 - Energy: CCRI measurements show post-Merge consumption around 0.0026 TWh per year, a reduction of about 99.98% from about 78 TWh per year pre-Merge. Ethereum.org cites the same order of magnitude.
 
-## Pros and cons
+## Pros and cons**Where it helps**-**Energy use is far lower:**No puzzle race means validators run on modest hardware, even a low-power device. This cut issuance needs because validators do not pay large power bills, which allows lower inflation and, when fees are burned, a net deflationary effect.
+-**Economic security is explicit:**An attacker needs to acquire and risk ETH directly. Controlling liveness needs at least 33% of stake, content of future blocks at least 51%, and rewriting finalized history more than 66%. Misbehavior is slashable and attributable, unlike hardware that can be reused after a proof-of-work attack. Research on equilibrium security finds proof-of-stake more secure than equivalent proof-of-work at scale.
+-**Enables the scaling roadmap:**The validator registry and slashing make data availability sampling and danksharding practical. Rollups inherit security by posting data to this layer.
+-**Light clients and checkpoint sync:**SSZ hash trees give a single 32-byte state root per block and enable compact Merkle proofs for light clients and for syncing from weak subjectivity checkpoints in minutes instead of days.**Trade-offs and limits**-**More complex to build and operate:**Proof-of-stake clients implement Gasper, RANDAO, committees, fork choice, rewards and penalties, and weak subjectivity. You now run two clients plus a validator if you stake, manage a JWT secret, and keep clocks roughly within a slot of peers.
+-**Capital barrier and centralization pressure:**32 ETH per validator prices out many solo operators. Liquid staking derivatives lower the minimum but concentrate stake in a few providers. The protocol incentive is identical percentage yield for all stake sizes, so there are no mining economies of scale, but delegation pools still create central points.
+-**New failure modes:**Nothing-at-stake and long-range attacks are prevented by slashing and weak subjectivity, yet they add conceptual overhead versus the objective longest-chain rule in proof-of-work. A new node must trust a recent checkpoint provider.
+-**Queue delays:**Entry, exit, and sweeps are rate-limited. Even with empty queues, activation takes at least 16 hours to initialize plus the churn queue. Unstaking needs exit queue time plus about 27 hours plus sweep time, which can stretch to around 9 days when many validators exit.
+-**Proposer targeting:**One known proposer per slot can be targeted for denial of service, a vector absent in proof-of-work where the next miner is unknown.
 
-**Where it helps**
-
-- **Energy use is far lower:** No puzzle race means validators run on modest hardware, even a low-power device. This cut issuance needs because validators do not pay large power bills, which allows lower inflation and, when fees are burned, a net deflationary effect.
-- **Economic security is explicit:** An attacker needs to acquire and risk ETH directly. Controlling liveness needs at least 33% of stake, content of future blocks at least 51%, and rewriting finalized history more than 66%. Misbehavior is slashable and attributable, unlike hardware that can be reused after a proof-of-work attack. Research on equilibrium security finds proof-of-stake more secure than equivalent proof-of-work at scale.
-- **Enables the scaling roadmap:** The validator registry and slashing make data availability sampling and danksharding practical. Rollups inherit security by posting data to this layer.
-- **Light clients and checkpoint sync:** SSZ hash trees give a single 32-byte state root per block and enable compact Merkle proofs for light clients and for syncing from weak subjectivity checkpoints in minutes instead of days.
-
-**Trade-offs and limits**
-
-- **More complex to build and operate:** Proof-of-stake clients implement Gasper, RANDAO, committees, fork choice, rewards and penalties, and weak subjectivity. You now run two clients plus a validator if you stake, manage a JWT secret, and keep clocks roughly within a slot of peers.
-- **Capital barrier and centralization pressure:** 32 ETH per validator prices out many solo operators. Liquid staking derivatives lower the minimum but concentrate stake in a few providers. The protocol incentive is identical percentage yield for all stake sizes, so there are no mining economies of scale, but delegation pools still create central points.
-- **New failure modes:** Nothing-at-stake and long-range attacks are prevented by slashing and weak subjectivity, yet they add conceptual overhead versus the objective longest-chain rule in proof-of-work. A new node must trust a recent checkpoint provider.
-- **Queue delays:** Entry, exit, and sweeps are rate-limited. Even with empty queues, activation takes at least 16 hours to initialize plus the churn queue. Unstaking needs exit queue time plus about 27 hours plus sweep time, which can stretch to around 9 days when many validators exit.
-- **Proposer targeting:** One known proposer per slot can be targeted for denial of service, a vector absent in proof-of-work where the next miner is unknown.
-
-## How to get started
-
-**If you want to understand it deeply**
-
-1. Read the core pages on ethereum.org: proof-of-stake, Gasper, block proposal, and node architecture. Then skim the consensus specs on github.com/ethereum/consensus-specs for validator, Beacon block, and Beacon state definitions.
+## How to get started**If you want to understand it deeply**1. Read the core pages on ethereum.org: proof-of-stake, Gasper, block proposal, and node architecture. Then skim the consensus specs on github.com/ethereum/consensus-specs for validator, Beacon block, and Beacon state definitions.
 2. Run a full node on a testnet such as Hoodi or Sepolia. Install one execution client and one consensus client, generate a JWT secret, and start with checkpoint sync from a trusted finalized checkpoint. Compare `latest`, `safe`, and `finalized` with `curl` against both the JSON-RPC (execution) and the Beacon API (consensus).
-3. Inspect live data: slots and epochs on a beacon explorer, committee assignments per slot, and Gasper votes. Watch a reorg on a slot with a missed proposer to see LMD-GHOST resolve it, then watch justification and finalization advance every two epochs.
-
-**If you want to operate a validator**
-
-1. Choose clients: common pairs are Geth plus Lighthouse, Nethermind plus Prysm, Besu plus Teku, Erigon plus Nimbus, or Reth plus Lodestar. Check current client diversity dashboards before deciding.
+3. Inspect live data: slots and epochs on a beacon explorer, committee assignments per slot, and Gasper votes. Watch a reorg on a slot with a missed proposer to see LMD-GHOST resolve it, then watch justification and finalization advance every two epochs.**If you want to operate a validator**1. Choose clients: common pairs are Geth plus Lighthouse, Nethermind plus Prysm, Besu plus Teku, Erigon plus Nimbus, or Reth plus Lodestar. Check current client diversity dashboards before deciding.
 2. Prepare hardware: a modern CPU, 32 GB RAM, and a fast 2 TB SSD are typical recommendations, with reliable internet and backup power. Keep OS and clients updated and subscribe to client security lists.
 3. Create keys with the staking deposit CLI and deposit at least 32 ETH per validator to the deposit contract. Set 0x01 credentials for legacy auto-sweeps or 0x02 for compounding up to 2048 ETH. Providing a withdrawal address once is required before any withdrawals flow.
 4. Join the activation queue. Budget for the initialization delay and the churn of 8 validators per epoch. Monitor inclusion, attest correctly every epoch, and avoid running the same keys on two machines.
-5. Plan exits in advance. Submit a voluntary exit, account for the exit queue and the 27-hour withdrawability delay, then wait for the sweep. For compounding validators, use execution-layer partial withdrawals for amounts below 2048 ETH.
-
-**If you build dapps or data pipelines**
-
-- Use execution layer `eth_getBlockByNumber` with tags `safe` and `finalized` for confirmations. Treat `safe` as justified and unlikely to reorg without collusion or severe latency, and `finalized` as canonical unless one-third of stake was slashed.
+5. Plan exits in advance. Submit a voluntary exit, account for the exit queue and the 27-hour withdrawability delay, then wait for the sweep. For compounding validators, use execution-layer partial withdrawals for amounts below 2048 ETH.**If you build dapps or data pipelines**- Use execution layer `eth_getBlockByNumber` with tags `safe` and `finalized` for confirmations. Treat `safe` as justified and unlikely to reorg without collusion or severe latency, and `finalized` as canonical unless one-third of stake was slashed.
 - For consensus data, query the Beacon API on a consensus node for validators, duties, attestations, and checkpoints, not the execution JSON-RPC.
-- Account for missed slots. A missing proposer leaves an empty slot. Your indexer should handle non-consecutive slot numbers and still track epoch boundary checkpoints for finality.
-
-**Trusted starting points**
-
-- ethereum.org roadmap for the Beacon Chain, the Merge, and the engine API
+- Account for missed slots. A missing proposer leaves an empty slot. Your indexer should handle non-consecutive slot numbers and still track epoch boundary checkpoints for finality.**Trusted starting points**- ethereum.org roadmap for the Beacon Chain, the Merge, and the engine API
 - Ethereum Foundation blog posts on The Great Renaming and the Mainnet Merge Announcement
 - Consensus specs and Engine API specs on GitHub
 
-## FAQ
-
-**Is the consensus layer the same as proof-of-stake?**
-No. Proof-of-stake selects who can propose and how weight is counted. The consensus layer is the whole system that uses proof-of-stake plus Gasper, fork choice, gossip, and incentives to agree on the canonical chain.
-
-**How is the consensus layer different from the execution layer?**
-The execution layer executes transactions and holds accounts and storage. The consensus layer organizes those execution payloads into beacon blocks, collects votes, picks the head with LMD-GHOST, and marks history final with Casper FFG. They gossip on separate p2p networks and sync together via the Engine API.
-
-**What happened to Eth2?**
-The name was retired in early 2022. Eth1 is now execution layer, Eth2 is now consensus layer, and Ethereum is execution plus consensus. No roadmap features were removed, only names.
-
-**How long until a transaction is finalized?**
-A block is produced every 12 seconds when the proposer is online. It becomes justified after one epoch boundary receives two-thirds of votes and finalized one more justified checkpoint later, typically about 13 minutes after inclusion when the chain is healthy.
-
-**Can a finalized block be reverted?**
-Only if at least one-third of total staked ETH double votes and is slashed. The protocol destroys that stake. Social consensus could also coordinate to ignore an attacker fork, but the economic cost remains.
-
-**Why do withdrawals take time?**
-The protocol limits how quickly stake can enter or leave to keep the validator set stable. Entry and exit each cap at 256 ETH per epoch. After exiting, a validator waits about 256 epochs to become withdrawable, then waits for the round-robin sweep that processes up to 16 withdrawals per block.
-
-**What do legacy and compounding validators mean?**
-Legacy 0x01 validators have a 32 ETH effective balance cap. Any excess is auto-swept. Compounding 0x02 validators after Pectra can have up to 2048 ETH effective, so rewards add to weight and auto-sweeps only trigger above 2048 ETH.
-
-**Does the consensus layer use energy?**
-Far less than proof-of-work Ethereum. Third-party bottom-up measurements put the full network near 0.0026 TWh per year, on the order of a few thousand US homes, compared with tens of TWh per year before the Merge.
-
-**Do I need to run a consensus client if I only care about smart contracts?**
-If you run a full node, yes. After the Merge the execution client cannot determine the canonical head alone. If you rely on a provider, the provider runs both. Your app still benefits from using safe and finalized tags for important state reads.
-
-**Where does Solana proof-of-history or Cosmos Tendermint fit?**
+## FAQ**Is the consensus layer the same as proof-of-stake?**No. Proof-of-stake selects who can propose and how weight is counted. The consensus layer is the whole system that uses proof-of-stake plus Gasper, fork choice, gossip, and incentives to agree on the canonical chain.**How is the consensus layer different from the execution layer?**The execution layer executes transactions and holds accounts and storage. The consensus layer organizes those execution payloads into beacon blocks, collects votes, picks the head with LMD-GHOST, and marks history final with Casper FFG. They gossip on separate p2p networks and sync together via the Engine API.**What happened to Eth2?**The name was retired in early 2022. Eth1 is now execution layer, Eth2 is now consensus layer, and Ethereum is execution plus consensus. No roadmap features were removed, only names.**How long until a transaction is finalized?**A block is produced every 12 seconds when the proposer is online. It becomes justified after one epoch boundary receives two-thirds of votes and finalized one more justified checkpoint later, typically about 13 minutes after inclusion when the chain is healthy.**Can a finalized block be reverted?**Only if at least one-third of total staked ETH double votes and is slashed. The protocol destroys that stake. Social consensus could also coordinate to ignore an attacker fork, but the economic cost remains.**Why do withdrawals take time?**The protocol limits how quickly stake can enter or leave to keep the validator set stable. Entry and exit each cap at 256 ETH per epoch. After exiting, a validator waits about 256 epochs to become withdrawable, then waits for the round-robin sweep that processes up to 16 withdrawals per block.**What do legacy and compounding validators mean?**Legacy 0x01 validators have a 32 ETH effective balance cap. Any excess is auto-swept. Compounding 0x02 validators after Pectra can have up to 2048 ETH effective, so rewards add to weight and auto-sweeps only trigger above 2048 ETH.**Does the consensus layer use energy?**Far less than proof-of-work Ethereum. Third-party bottom-up measurements put the full network near 0.0026 TWh per year, on the order of a few thousand US homes, compared with tens of TWh per year before the Merge.**Do I need to run a consensus client if I only care about smart contracts?**If you run a full node, yes. After the Merge the execution client cannot determine the canonical head alone. If you rely on a provider, the provider runs both. Your app still benefits from using safe and finalized tags for important state reads.**Where does Solana proof-of-history or Cosmos Tendermint fit?**
 Those are different consensus designs for other networks. Solana adds a verifiable delay function to order events before proof-of-stake voting, and Cosmos chains use CometBFT, a BFT protocol with Propose, Prevote, and Precommit steps and proposer selection weighted by voting power. Ethereum does not use proof-of-history. The term consensus layer is specific to Ethereum's post-Merge architecture.
 
 ## Verifiable Primary Sources & References

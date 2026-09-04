@@ -7,7 +7,7 @@ description: >-
   created, and why it's a cornerstone of blockchain security and data integrity.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Every transaction on a [blockchain](/what-is-a-blockchain) has a unique identifier known as a transaction hash, or TxID. This hash serves as a digital fingerprint, providing proof of authenticity and securing the transaction's place in the blockchain ledger. Understanding transaction hashing is essential for grasping the security and integrity of blockchain technology. It ensures that the ledger remains tamper-proof.
 
@@ -19,13 +19,13 @@ Hash functions are important for the functionality of blockchain. They possess s
 
 1. **Deterministic**: A hash function is deterministic, meaning the same input will always produce the same output. For instance, hashing the phrase "Hello World" will yield the same result every time. If even one character changes, such as "hello world," the resulting hash will differ entirely. This predictability is important for verification, allowing network participants to confirm that transaction data remains unchanged.
 
-2. **Fixed-Length Output**: Regardless of the input size, the output hash is always of a fixed length. The SHA-256 algorithm always produces a 256-bit string, represented as 64 hexadecimal characters. This uniformity simplifies working with hashes in databases or block structures.
+2.**Fixed-Length Output**: Regardless of the input size, the output hash is always of a fixed length. The SHA-256 algorithm always produces a 256-bit string, represented as 64 hexadecimal characters. This uniformity simplifies working with hashes in databases or block structures.
 
-3. **Pre-image Resistance**: This property ensures security by making it computationally infeasible to deduce the original input from the hash output. While it is straightforward to generate a hash from transaction data, reversing the process is nearly impossible. This aspect protects the privacy of transaction details and prevents forgery of transactions.
+3.**Pre-image Resistance**: This property ensures security by making it computationally infeasible to deduce the original input from the hash output. While it is straightforward to generate a hash from transaction data, reversing the process is nearly impossible. This aspect protects the privacy of transaction details and prevents forgery of transactions.
 
-4. **Collision Resistance**: A reliable hash function makes it computationally impossible to find two different inputs that yield the same hash. This property guarantees that each transaction maintains a unique identifier. If two distinct transactions could produce identical hashes, it would undermine the integrity of the ledger, allowing for fraudulent substitutions. Modern hash functions minimize the likelihood of collisions to an extremely low probability.
+4.**Collision Resistance**: A reliable hash function makes it computationally impossible to find two different inputs that yield the same hash. This property guarantees that each transaction maintains a unique identifier. If two distinct transactions could produce identical hashes, it would undermine the integrity of the ledger, allowing for fraudulent substitutions. Modern hash functions minimize the likelihood of collisions to an extremely low probability.
 
-5. **Avalanche Effect**: A minor alteration in the input data should result in a drastically different hash output. Changing a single digit in the transaction amount or a character in an address will produce a hash that bears no resemblance to the original. This property makes it easy to detect any unauthorized modifications to a transaction.
+5.**Avalanche Effect**: A minor alteration in the input data should result in a drastically different hash output. Changing a single digit in the transaction amount or a character in an address will produce a hash that bears no resemblance to the original. This property makes it easy to detect any unauthorized modifications to a transaction.
 
 ### Hashing's Role in Blockchain Security
 
@@ -39,9 +39,9 @@ The blockchain's [immutability](/blockchain-immutability-explained-for-beginners
 
 For everyday users, the transaction hash acts as a receipt.
 
-- **Transaction Tracking**: After sending a transaction from your [wallet](/how-to-choose-a-crypto-wallet), you'll receive a TxID. You can enter this hash into a **[block explorer](/blockchain-explorer-guide-for-bitcoin-and-ethereum)**, such as Etherscan for Ethereum, to monitor its status. This tracking allows you to see if the transaction is pending, has been included in a block, or has failed.
+-**Transaction Tracking**: After sending a transaction from your [wallet](/how-to-choose-a-crypto-wallet), you'll receive a TxID. You can enter this hash into a**[block explorer](/blockchain-explorer-guide-for-bitcoin-and-ethereum)**, such as Etherscan for Ethereum, to monitor its status. This tracking allows you to see if the transaction is pending, has been included in a block, or has failed.
 
-- **Verification**: The transaction hash serves as definitive proof that a transaction took place. When sending funds to an exchange or merchant, the TxID provides verifiable proof of payment.
+-**Verification**: The transaction hash serves as definitive proof that a transaction took place. When sending funds to an exchange or merchant, the TxID provides verifiable proof of payment.
 
 Transaction hashing is a straightforward yet powerful concept. It transforms arbitrary data into a secure and unique fingerprint, enabling a decentralized network to agree on a single, tamper-proof version of history. Without hashing, the trustless environment of [Web3](/what-is-web3) would not be possible.
 

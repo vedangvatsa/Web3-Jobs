@@ -9,7 +9,7 @@ description: >-
   Rust, and other Web3 roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 An effective job description tells a qualified candidate what the work is, what success looks like, and whether they should apply. It is short enough to read on a phone and complete enough to use for screening, leveling, and pay decisions.
 
@@ -23,9 +23,9 @@ Use the description to set expectations before anyone applies. Use the interview
 
 ## Who this guide is for
 
-- **Founders and hiring managers** at early-stage protocols, L2s, wallets, infra teams, and exchanges who need to write a post without a large HR team.
-- **Recruiters and people operations** running Greenhouse, Lever, Ashby, or Workday who manage multiple Web3 roles and need a consistent format.
-- **Hiring managers for non-technical Web3 roles** in community, product, growth, marketing, business development, design, and research who need to replace vague Web2 templates with proof-based requirements.
+- **Founders and hiring managers**at early-stage protocols, L2s, wallets, infra teams, and exchanges who need to write a post without a large HR team.
+-**Recruiters and people operations**running Greenhouse, Lever, Ashby, or Workday who manage multiple Web3 roles and need a consistent format.
+-**Hiring managers for non-technical Web3 roles**in community, product, growth, marketing, business development, design, and research who need to replace vague Web2 templates with proof-based requirements.
 
 If you are hiring a smart contract or protocol engineer, you will need technical specifics that do not belong in a generic template. If you are hiring for community or growth, you need different proof. This guide covers both.
 
@@ -61,15 +61,11 @@ LinkedIn's 2018 study of 4.5 million jobs in the US and UK found that short post
 
 ### 4. Requirements and preferred skills, split honestly
 
-Split this into two lists.
-
-**Required - must have on day one:** 3 to 5 items that are truly non-negotiable and job-related. For a Solidity role this is often:
+Split this into two lists.**Required - must have on day one:**3 to 5 items that are truly non-negotiable and job-related. For a Solidity role this is often:
 
 - Solidity 0.8.x, Foundry or Hardhat, and OpenZeppelin Contracts 5.x used without copy-paste
 - A record of verified contracts on Etherscan or another explorer, or merged pull requests to a reputable repo
-- Ability to explain checks-effects-interactions and to prevent reentrancy, access control failures, and input validation issues from the OWASP Smart Contract Top 10 (2025)
-
-**Preferred - useful to have:** 2 to 3 items that help but can be learned in 90 days.
+- Ability to explain checks-effects-interactions and to prevent reentrancy, access control failures, and input validation issues from the OWASP Smart Contract Top 10 (2025)**Preferred - useful to have:**2 to 3 items that help but can be learned in 90 days.
 
 Do not list 15 must-haves. Research on application behavior shows women and candidates from underrepresented groups are less likely to apply unless they meet most listed items, so long lists narrow the pool. Also, requiring a degree when the work does not need it can screen out qualified candidates. U.S. guidance cited by DataPeople and EEOC notes this can affect Black, Hispanic, rural, and veteran applicants at higher rates. If a skill can be learned in the first months, mark it as preferred.
 
@@ -109,56 +105,30 @@ End with a plain equal opportunity statement and a link to where the full postin
 
 ## What changes for Web3 roles
 
-Web3 posts need chain and risk details that a generic template omits. Be specific so candidates can self-select.
+Web3 posts need chain and risk details that a generic template omits. Be specific so candidates can self-select.**Name the stack and the risk.**A Solidity post that says "Ethereum and EVM chains, Solidity 0.8.x, Foundry, Hardhat, OpenZeppelin" will get better matches than "blockchain experience." If the role is Rust on Solana, say Solana, Rust, and Anchor. If it is Move on Sui or Aptos, or Cairo on Starknet, say so, and note that the pool is smaller.**Show ownership, not just tech.**State what the person will own: "Own two vault contracts from spec to audit, including invariant tests, deployment verification on Etherscan, and incident runbook." That wording maps to accountability for money-moving code.**Ask for proof that fits the track:**- For developers: pinned repos with tests including fuzz and invariant tests, static analysis with Slither, fork tests, and audit or contest reports. Rework's 2026 Web3 developer template and Web3.career's Solidity template both list verified contracts and audit history as standard proof.
+- For non-technical roles: governance votes, forum comments, blog or Mirror posts, Twitter threads with sources, community support threads in Discord where the candidate helped others, or partner onboardings with outcomes. Hiring strategy work at Hashtag Web3 has found that Discord helpfulness and governance writing predict community and operations performance better than a polished resume.**Explain token and vesting terms in the post.**Do not promise price. State the structure you use: "Token grant vesting over 4 years with 12-month cliff, linear monthly after cliff, minimal TGE. Terms enforced on chain where applicable and described in the offer letter. Candidates should seek independent tax advice." That phrasing follows the conventional baseline described by Streamflow and Tokenomics.com for core teams in 2026 and leaves valuation to the offer stage.
 
-**Name the stack and the risk.** A Solidity post that says "Ethereum and EVM chains, Solidity 0.8.x, Foundry, Hardhat, OpenZeppelin" will get better matches than "blockchain experience." If the role is Rust on Solana, say Solana, Rust, and Anchor. If it is Move on Sui or Aptos, or Cairo on Starknet, say so, and note that the pool is smaller.
-
-**Show ownership, not just tech.** State what the person will own: "Own two vault contracts from spec to audit, including invariant tests, deployment verification on Etherscan, and incident runbook." That wording maps to accountability for money-moving code.
-
-**Ask for proof that fits the track:**
-
-- For developers: pinned repos with tests including fuzz and invariant tests, static analysis with Slither, fork tests, and audit or contest reports. Rework's 2026 Web3 developer template and Web3.career's Solidity template both list verified contracts and audit history as standard proof.
-- For non-technical roles: governance votes, forum comments, blog or Mirror posts, Twitter threads with sources, community support threads in Discord where the candidate helped others, or partner onboardings with outcomes. Hiring strategy work at Hashtag Web3 has found that Discord helpfulness and governance writing predict community and operations performance better than a polished resume.
-
-**Explain token and vesting terms in the post.** Do not promise price. State the structure you use: "Token grant vesting over 4 years with 12-month cliff, linear monthly after cliff, minimal TGE. Terms enforced on chain where applicable and described in the offer letter. Candidates should seek independent tax advice." That phrasing follows the conventional baseline described by Streamflow and Tokenomics.com for core teams in 2026 and leaves valuation to the offer stage.
-
-## Pros and cons
-
-**Short, outcome-focused post, 300 to 450 words**
-
-- Pros: Higher apply rate on LinkedIn, easier mobile reading, forces you to choose what matters. Matches Textio's 300 to 660 sweet spot and LinkedIn's 17.8 percent lift for concise posts.
-- Cons: Less room for company story. You must put culture and roadmap on your site and link to it, not in the post.
-
-**Detailed post, 600 plus words with full context**
-
-- Pros: Fewer unqualified applications when requirements are strict, better for specialized search on Indeed where 700 to 2,000 words can get 30 percent more applications according to RecruiterFlow summaries cited by Knowledgelib. Useful for rare stacks.
-- Cons: Lower skim rate, higher drop-off on mobile, harder to keep current.
-
-**Task list versus outcome list**
-
-- Task lists are easy to write but they attract doers of tasks, not owners of outcomes. Outcome lists are harder to draft but they give candidates a way to show how they would succeed.
-
-**Strict requirements versus split must-have and nice-to-have**
-
-- Strict lists feel thorough but they filter out capable candidates who could learn the preferred items. Split lists increase applications from qualified people who have strong proof but non-traditional backgrounds, including pseudonymous builders whose GitHub matters more than a degree.
+## Pros and cons**Short, outcome-focused post, 300 to 450 words**- Pros: Higher apply rate on LinkedIn, easier mobile reading, forces you to choose what matters. Matches Textio's 300 to 660 sweet spot and LinkedIn's 17.8 percent lift for concise posts.
+- Cons: Less room for company story. You must put culture and roadmap on your site and link to it, not in the post.**Detailed post, 600 plus words with full context**- Pros: Fewer unqualified applications when requirements are strict, better for specialized search on Indeed where 700 to 2,000 words can get 30 percent more applications according to RecruiterFlow summaries cited by Knowledgelib. Useful for rare stacks.
+- Cons: Lower skim rate, higher drop-off on mobile, harder to keep current.**Task list versus outcome list**- Task lists are easy to write but they attract doers of tasks, not owners of outcomes. Outcome lists are harder to draft but they give candidates a way to show how they would succeed.**Strict requirements versus split must-have and nice-to-have**- Strict lists feel thorough but they filter out capable candidates who could learn the preferred items. Split lists increase applications from qualified people who have strong proof but non-traditional backgrounds, including pseudonymous builders whose GitHub matters more than a degree.
 
 Most teams do best with a 350 to 500 word post that uses outcomes, split requirements, and a link to a longer technical spec for those who want it.
 
 ## How to write it: practical steps
 
-1. **Gather inputs first.** Get the hiring manager, one peer engineer, and one non-technical reviewer in one 45 minute meeting. Confirm title, level, reporting line, what success in 6 months looks like, and the pay band for that level and location.
+1.**Gather inputs first.**Get the hiring manager, one peer engineer, and one non-technical reviewer in one 45 minute meeting. Confirm title, level, reporting line, what success in 6 months looks like, and the pay band for that level and location.
 
-2. **Draft in the template order.** Use the same order every time so reviews stay fast: title, summary, responsibilities, required, preferred, work conditions, compensation and benefits, how to apply, compliance line. This matches the 13-point template recommended by MoshJD and used by Greenhouse and Lever customers for auditability: title, summary, key responsibilities, required qualifications, preferred qualifications, skills and competencies, supervisory duties, work environment, physical requirements, FLSA classification, travel, compensation range, and version date.
+2.**Draft in the template order.**Use the same order every time so reviews stay fast: title, summary, responsibilities, required, preferred, work conditions, compensation and benefits, how to apply, compliance line. This matches the 13-point template recommended by MoshJD and used by Greenhouse and Lever customers for auditability: title, summary, key responsibilities, required qualifications, preferred qualifications, skills and competencies, supervisory duties, work environment, physical requirements, FLSA classification, travel, compensation range, and version date.
 
-3. **Write requirements that can be tested.** For each required item, note how you will test it: GitHub review, Etherscan verification, take-home with Slither and Foundry coverage, Dune query walk-through, writing sample. If you cannot test it, remove it.
+3.**Write requirements that can be tested.**For each required item, note how you will test it: GitHub review, Etherscan verification, take-home with Slither and Foundry coverage, Dune query walk-through, writing sample. If you cannot test it, remove it.
 
-4. **Run a bias check before you publish.** Use a tool such as Gender Decoder for a free check, or Textio, DataPeople, or Ongig for a scored review. Replace flagged phrases: "rockstar" to "expert," "aggressive goals" to "ambitious objectives," "dominant" to "confident." Textio case data reports that scores above 70 correlate with more applications from underrepresented groups. People Managing People and Index.dev reviews both note that neutral wording predicts better pool diversity. One field experiment cited in 2026 reporting found debiasing masculine language increased the share of women in the applicant pool without lowering total volume.
+4.**Run a bias check before you publish.**Use a tool such as Gender Decoder for a free check, or Textio, DataPeople, or Ongig for a scored review. Replace flagged phrases: "rockstar" to "expert," "aggressive goals" to "ambitious objectives," "dominant" to "confident." Textio case data reports that scores above 70 correlate with more applications from underrepresented groups. People Managing People and Index.dev reviews both note that neutral wording predicts better pool diversity. One field experiment cited in 2026 reporting found debiasing masculine language increased the share of women in the applicant pool without lowering total volume.
 
-5. **Add pay and location truthfully.** Confirm the range is the good faith amount you expect to pay upon hire, not a wide placeholder. If you use a vendor to post, California law extends the duty to those third parties. Verify the range appears on your careers site and on each job board mirror.
+5.**Add pay and location truthfully.**Confirm the range is the good faith amount you expect to pay upon hire, not a wide placeholder. If you use a vendor to post, California law extends the duty to those third parties. Verify the range appears on your careers site and on each job board mirror.
 
-6. **Publish with links to proof.** Link to your product docs, GitHub, and a short roadmap note. Candidates who have followed your governance forum or tested your contracts on testnet will use those links to tailor their application. That tailoring is your early signal of interest.
+6.**Publish with links to proof.**Link to your product docs, GitHub, and a short roadmap note. Candidates who have followed your governance forum or tested your contracts on testnet will use those links to tailor their application. That tailoring is your early signal of interest.
 
-7. **Measure and revise after two weeks.** Track views, applies, qualified rate, time to first qualified applicant, and share of applicants from underrepresented groups if you collect that data lawfully. If you get fewer than 10 applications per week, the title is likely not searchable or pay is missing. If qualified rate is under 15 percent, requirements are too vague or too broad. Update the description every 6 to 12 months or when the work changes.
+7.**Measure and revise after two weeks.**Track views, applies, qualified rate, time to first qualified applicant, and share of applicants from underrepresented groups if you collect that data lawfully. If you get fewer than 10 applications per week, the title is likely not searchable or pay is missing. If qualified rate is under 15 percent, requirements are too vague or too broad. Update the description every 6 to 12 months or when the work changes.
 
 ### A short Web3 example you can adapt
 
@@ -182,11 +152,11 @@ How to apply: Share resume, GitHub, contract addresses, and one paragraph on a v
 
 ## Common mistakes to avoid
 
-- **Inflating requirements.** Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
-- **Hiding pay.** Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
-- **Writing long blocks of text.** Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
-- **Clever titles.** "Crypto Ninja" may feel on brand but it is not searchable. Index.dev and Knowledgelib both flag discoverability losses above 50 percent.
-- **Copying another team's post.** A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
+-**Inflating requirements.**Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
+-**Hiding pay.**Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
+-**Writing long blocks of text.**Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
+-**Clever titles.**"Crypto Ninja" may feel on brand but it is not searchable. Index.dev and Knowledgelib both flag discoverability losses above 50 percent.
+-**Copying another team's post.**A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
 
 ## Limitations and trade-offs
 
@@ -194,27 +164,7 @@ How to apply: Share resume, GitHub, contract addresses, and one paragraph on a v
 - Bias scores predict pool diversity, they do not prove a hire will be fair. You still need structured interviews and scorecards. The EEOC's May 18, 2023 technical assistance on adverse impact and the January 2025 SHRM note that federal anti-discrimination laws still apply whether the step used software or a human.
 - Pay bands force harder choices. A tight 60 percent spread under New Jersey rules means you must level the role before you post.
 
-## FAQ
-
-**How long should a job description be?**
-Aim for 300 to 660 words for the public post. That range performed best in Textio's 1 billion post analysis from January 2024. Keep it under 600 words if you post mainly on LinkedIn or mobile, where 150 words or less lifted apply rates by 17.8 percent in LinkedIn's 4.5 million job study.
-
-**Do we have to include a salary range?**
-In the 16 US jurisdictions listed above, yes if you meet the employee threshold and the role could be performed there or could be filled by a resident who saw the post remotely. In the EU you will need to disclose pay in the notice or before the first interview once the directive is transposed in each country by June 2026. In other states you should include it anyway for candidate trust and to avoid later disputes.
-
-**What should we put for pay when the grant includes tokens?**
-List the base salary range as dollars. Describe the token grant in structure, not price: number of tokens is set in the offer letter, with vesting length, cliff, and release interval. State that tokens have market risk and that base alone should be livable. Do not project token value.
-
-**Should we require a degree?**
-Only when the role needs it by law or by necessary licensing. Otherwise list skills and proof: verified contracts, audits, dashboards, or writing samples. This broadens the pool and avoids unnecessary filtering that affects protected groups, as documented in 2023 reporting on degree requirements.
-
-**How many requirements should we list?**
-Three to five must-haves and two to three nice-to-haves. More than that suggests the scope is not defined. Each must-have should map to a screen you will actually run.
-
-**Can we use AI to draft the posting?**
-Yes for a first draft, then edit for accuracy, brand, and inclusive language. SHRM's February 2025 survey of 2,040 HR professionals found 43 percent of organizations use AI in HR, and 65 percent of those use it for job description generation. Keep a human reviewer who can change the outcome before you publish, and log the model version if you operate in New York City under Local Law 144 or in the EU under Articles 9 to 15 of the AI Act.
-
-**What record should we keep?**
+## FAQ**How long should a job description be?**Aim for 300 to 660 words for the public post. That range performed best in Textio's 1 billion post analysis from January 2024. Keep it under 600 words if you post mainly on LinkedIn or mobile, where 150 words or less lifted apply rates by 17.8 percent in LinkedIn's 4.5 million job study.**Do we have to include a salary range?**In the 16 US jurisdictions listed above, yes if you meet the employee threshold and the role could be performed there or could be filled by a resident who saw the post remotely. In the EU you will need to disclose pay in the notice or before the first interview once the directive is transposed in each country by June 2026. In other states you should include it anyway for candidate trust and to avoid later disputes.**What should we put for pay when the grant includes tokens?**List the base salary range as dollars. Describe the token grant in structure, not price: number of tokens is set in the offer letter, with vesting length, cliff, and release interval. State that tokens have market risk and that base alone should be livable. Do not project token value.**Should we require a degree?**Only when the role needs it by law or by necessary licensing. Otherwise list skills and proof: verified contracts, audits, dashboards, or writing samples. This broadens the pool and avoids unnecessary filtering that affects protected groups, as documented in 2023 reporting on degree requirements.**How many requirements should we list?**Three to five must-haves and two to three nice-to-haves. More than that suggests the scope is not defined. Each must-have should map to a screen you will actually run.**Can we use AI to draft the posting?**Yes for a first draft, then edit for accuracy, brand, and inclusive language. SHRM's February 2025 survey of 2,040 HR professionals found 43 percent of organizations use AI in HR, and 65 percent of those use it for job description generation. Keep a human reviewer who can change the outcome before you publish, and log the model version if you operate in New York City under Local Law 144 or in the EU under Articles 9 to 15 of the AI Act.**What record should we keep?**
 Job title, level, location and remote policy, pay band source and date, requirement list with job-related justification, compliance review date, bias check score and tool, pay range posted and where, applicant counts, and next review date. Keep version history so you can show what changed and when.
 
 ---

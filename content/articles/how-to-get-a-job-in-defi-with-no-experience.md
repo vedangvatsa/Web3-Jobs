@@ -7,48 +7,39 @@ description: >-
   how to build the necessary skills and a 'proof of work' portfolio to land a.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Decentralized Finance ([DeFi](/what-is-defi)) serves as a fundamental component of [Web3](/what-is-web3). This sector seeks to reconstruct the financial system on open blockchains. However, newcomers often find the entry barriers daunting. Job descriptions frequently contain specialized terms such as "impermanent loss," "MEV," and "[yield farming](/what-is-yield-farming)." For those without prior "crypto" experience, breaking into this field may seem impossible.
 
-The key to entering DeFi lies in its culture of **"proof of work."** Demonstrated contributions and knowledge hold more value than a traditional [resume](/how-to-build-a-web3-resume-that-stands-out). This guide outlines a clear roadmap for anyone, regardless of their background, to acquire the necessary skills and create a [portfolio](/building-web3-portfolio) that will help them [land their first job in DeFi](/defi-careers).
+The key to entering DeFi lies in its culture of **"proof of work."**Demonstrated contributions and knowledge hold more value than a traditional [resume](/how-to-build-a-web3-resume-that-stands-out). This guide outlines a clear roadmap for anyone, regardless of their background, to acquire the necessary skills and create a [portfolio](/building-web3-portfolio) that will help them [land their first job in DeFi](/defi-careers).
 
 ### Step 1: Immersion - Become a Degen
 
 Active participation in DeFi is essential. To work in this field, you must engage with it directly. This involvement allows you to understand the products, culture, and challenges firsthand.
 
-- **Acquire Essential Tools:** Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet) and obtain a small amount of [ETH](/what-is-ethereum). For a cost-effective learning experience, transfer some ETH to a [Layer 2 network](/guide-to-layer-2s) like Arbitrum or Optimism, where fees are significantly lower.
-- **Engage in Core Activities:**
- 1. **Swap:** Use a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX) like Uniswap to swap some ETH for a stablecoin such as USDC.
- 2. **Lend:** Visit a lending platform like Aave and deposit your USDC to start accruing interest.
- 3. **Provide Liquidity:** Use your remaining ETH and some USDC to contribute liquidity to a pool on Uniswap. This experience will help you understand the concept of impermanent loss.
-- **Follow Key Conversations:** Curate a Twitter feed featuring DeFi builders, researchers, and influential users. Listen to podcasts like Bankless to stay informed about current trends and discussions.
+-**Acquire Essential Tools:**Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet) and obtain a small amount of [ETH](/what-is-ethereum). For a cost-effective learning experience, transfer some ETH to a [Layer 2 network](/guide-to-layer-2s) like Arbitrum or Optimism, where fees are significantly lower.
+-**Engage in Core Activities:**1.**Swap:**Use a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX) like Uniswap to swap some ETH for a stablecoin such as USDC.
+ 2.**Lend:**Visit a lending platform like Aave and deposit your USDC to start accruing interest.
+ 3.**Provide Liquidity:**Use your remaining ETH and some USDC to contribute liquidity to a pool on Uniswap. This experience will help you understand the concept of impermanent loss.
+-**Follow Key Conversations:**Curate a Twitter feed featuring DeFi builders, researchers, and influential users. Listen to podcasts like Bankless to stay informed about current trends and discussions.
 
 ### Step 2: Foundational Knowledge - Learn the Primitives
 
 After becoming an active user, it is important to grasp the underlying concepts. You should be able to explain core DeFi principles clearly.
 
-- **Automated Market Makers (AMMs):** Familiarize yourself with the `x * y = k` formula.
-- **Lending Protocols:** Understand over-collateralization and the process of liquidation.
-- **Stablecoins:** Distinguish between fiat-collateralized, crypto-collateralized, and algorithmic stablecoins. Refer to our [guide to stablecoins](/guide-to-stablecoins) for more details.
-- **MEV (Maximal Extractable Value):** Learn about front-running and sandwich attacks. Our [introduction to MEV](/what-is-mev) provides further insights.
-- **Tokenomics:** Study how governance [tokens](/what-is-a-token) and yield farming function. Check out our [guide to tokenomics](/understanding-tokenomics) for additional information.
+-**Automated Market Makers (AMMs):** Familiarize yourself with the `x * y = k` formula.
+- **Lending Protocols:**Understand over-collateralization and the process of liquidation.
+-**Stablecoins:**Distinguish between fiat-collateralized, crypto-collateralized, and algorithmic stablecoins. Refer to our [guide to stablecoins](/guide-to-stablecoins) for more details.
+-**MEV (Maximal Extractable Value):**Learn about front-running and sandwich attacks. Our [introduction to MEV](/what-is-mev) provides further insights.
+-**Tokenomics:**Study how governance [tokens](/what-is-a-token) and yield farming function. Check out our [guide to tokenomics](/understanding-tokenomics) for additional information.
 
 ### Step 3: Build Your "Proof of Work" Portfolio
 
-Transform your knowledge into a public portfolio to attract attention.
-
-**For Aspiring Non-Technical Professionals (Marketing, Product, Ops):**
-
-- **Become an Analyst:** Acquire basic SQL skills and start creating dashboards on **Dune Analytics**. This is an impactful way to showcase your analytical abilities.
+Transform your knowledge into a public portfolio to attract attention.**For Aspiring Non-Technical Professionals (Marketing, Product, Ops):**-**Become an Analyst:**Acquire basic SQL skills and start creating dashboards on**Dune Analytics**. This is an impactful way to showcase your analytical abilities.
  - *Project Idea:* Develop a dashboard comparing the trading volume and fees generated by two competing DEXs.
 - **Become a Writer:** Launch a blog on Mirror or Substack.
  - *Project Idea:* Conduct an in-depth analysis of a protocol's tokenomics or provide a detailed tutorial on using a complex DeFi strategy.
-- **Participate in Governance:** Identify a [DAO](/what-is-a-dao) related to a protocol you admire. Engage in governance forums and contribute meaningful comments on active proposals, demonstrating your critical thinking skills.
-
-**For Aspiring Developers:**
-
-- **Create a DeFi Primitive:** Treat your GitHub as your resume.
+- **Participate in Governance:**Identify a [DAO](/what-is-a-dao) related to a protocol you admire. Engage in governance forums and contribute meaningful comments on active proposals, demonstrating your critical thinking skills.**For Aspiring Developers:**-**Create a DeFi Primitive:** Treat your GitHub as your resume.
  - *Project Idea:* Develop a simple [staking](/how-to-become-a-web3-staking-specialist) contract that allows users to deposit an ERC-20 token in exchange for rewards.
  - *Advanced Project Idea:* Build a simplified version of an AMM or a lending protocol to showcase your understanding of core concepts.
 
@@ -56,9 +47,9 @@ Transform your knowledge into a public portfolio to attract attention.
 
 Your public portfolio serves as your entry into the network.
 
-- **Promote Your Work:** Share your Dune dashboards and blog posts on Twitter. Tag the projects you analyze; core teams will take notice of high-quality insights.
-- **Contribute to DAOs:** Thoughtful governance comments can attract attention from DAO delegates and core contributors, often resulting in invitations to join working groups or grant-funded projects.
-- **Engage Authentically:** Avoid direct messages asking for jobs. Build genuine relationships by discussing others' work, providing constructive feedback, and actively participating in the community.
+- **Promote Your Work:**Share your Dune dashboards and blog posts on Twitter. Tag the projects you analyze; core teams will take notice of high-quality insights.
+-**Contribute to DAOs:**Thoughtful governance comments can attract attention from DAO delegates and core contributors, often resulting in invitations to join working groups or grant-funded projects.
+-**Engage Authentically:** Avoid direct messages asking for jobs. Build genuine relationships by discussing others' work, providing constructive feedback, and actively participating in the community.
 
 Entering the DeFi sector demands initiative and intellectual curiosity. This field rewards those who are eager to learn in public and contribute without barriers. By following this roadmap, you can create a strong "proof of work" portfolio that will attract opportunities.
 

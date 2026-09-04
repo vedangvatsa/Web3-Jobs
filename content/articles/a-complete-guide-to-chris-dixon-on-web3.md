@@ -7,7 +7,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man smile
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: The Investor-Philosopher
 
@@ -43,8 +43,8 @@ Dixon employs various mental models to clarify complex ideas surrounding Web3. T
 
 Dixon differentiates between "strong" and "weak" technologies:
 
-- **Weak Technologies:** These are controlled by a single entity, subject to arbitrary changes or shutdowns. Examples include the Facebook API and the Twitter API.
-- **Strong Technologies:** These operate on open, permissionless protocols that no single entity controls. Technologies like email (SMTP) and the web (HTTP) fall into this category.
+- **Weak Technologies:**These are controlled by a single entity, subject to arbitrary changes or shutdowns. Examples include the Facebook API and the Twitter API.
+-**Strong Technologies:**These operate on open, permissionless protocols that no single entity controls. Technologies like email (SMTP) and the web (HTTP) fall into this category.
 
 He argues that blockchain protocols qualify as "strong technologies." Their transparent rules, enforced by code, provide a stable foundation for developers. This strength, according to Dixon, will attract top talent to Web3 over time.
 
@@ -69,9 +69,9 @@ Dixon suggests that decentralized applications (dApps) should first focus on pro
 
 Dixon highlights the tendency of new technologies to mimic existing ones, a phenomenon known as skeuomorphism.
 
-- **Early Cars:** They resembled "horseless carriages."
-- **Early Web:** Digital "brochures" imitated print media.
-- **Early Web3:** Many initial dApps mirrored Web2 services, often requiring a [wallet](/how-to-choose-a-crypto-wallet) connection, such as "decentralized Twitter" or "decentralized Uber."
+-**Early Cars:**They resembled "horseless carriages."
+-**Early Web:**Digital "brochures" imitated print media.
+-**Early Web3:**Many initial dApps mirrored Web2 services, often requiring a [wallet](/how-to-choose-a-crypto-wallet) connection, such as "decentralized Twitter" or "decentralized Uber."
 
 Dixon argues that new applications of new technology will initially appear unconventional. He encourages innovators to look beyond recreating existing Web2 applications on blockchain and instead explore the unique, native possibilities of Web3.
 
@@ -81,21 +81,7 @@ Chris Dixon stands as one of Web3's most optimistic advocates. His frameworks of
 
 By articulating this vision through clear mental models, Dixon has laid the intellectual groundwork for a generation of entrepreneurs and developers. His work serves as a rallying cry for builders to transcend the limitations of Web2, aiming to create a more equitable, new, and user-owned internet.
 
-### Frequently Asked Questions (FAQ)
-
-**Q1: What is Chris Dixon's role at Andreessen Horowitz (a16z)?** 
-A1: Chris Dixon is a General Partner at Andreessen Horowitz. He co-founded and currently leads a16z crypto, the firm's fund focused on investing in Web3 and cryptocurrency startups.
-
-**Q2: What is the main idea of his book, *Read Write Own*?** 
-A2: The book posits that Web3, rooted in blockchain technology, signifies the next major era of the internet. It evolves from the "Read" era (Web1) and the "Read-Write" era (Web2) into a "Read-Write-Own" era, allowing users true digital ownership of their assets and data through tokens.
-
-**Q3: What does Dixon mean by "strong technology"?** 
-A3: A "strong technology" is defined as one based on open, permissionless protocols. Such technologies are not controlled by any single entity, making them stable and trustworthy foundations for developers. Dixon considers blockchains to be prime examples of strong technologies.
-
-**Q4: How does Chris Dixon view the relationship between Web3 and AI?** 
-A4: Dixon views Web3 and AI as complementary forces. He suggests that decentralized compute networks can host AI models and that blockchains can establish clear records of ownership and provenance for AI-generated content.
-
-**Q5: What is a16z crypto?** 
+### Frequently Asked Questions (FAQ)**Q1: What is Chris Dixon's role at Andreessen Horowitz (a16z)?**A1: Chris Dixon is a General Partner at Andreessen Horowitz. He co-founded and currently leads a16z crypto, the firm's fund focused on investing in Web3 and cryptocurrency startups.**Q2: What is the main idea of his book, *Read Write Own*?**A2: The book posits that Web3, rooted in blockchain technology, signifies the next major era of the internet. It evolves from the "Read" era (Web1) and the "Read-Write" era (Web2) into a "Read-Write-Own" era, allowing users true digital ownership of their assets and data through tokens.**Q3: What does Dixon mean by "strong technology"?**A3: A "strong technology" is defined as one based on open, permissionless protocols. Such technologies are not controlled by any single entity, making them stable and trustworthy foundations for developers. Dixon considers blockchains to be prime examples of strong technologies.**Q4: How does Chris Dixon view the relationship between Web3 and AI?**A4: Dixon views Web3 and AI as complementary forces. He suggests that decentralized compute networks can host AI models and that blockchains can establish clear records of ownership and provenance for AI-generated content.**Q5: What is a16z crypto?** 
 A5: a16z crypto represents the dedicated cryptocurrency and Web3 investment fund within Andreessen Horowitz. Led by Chris Dixon, it is recognized as one of the most active and influential investors in the space, with investments in companies like Coinbase, Dapper Labs, and others.
 
 ## Verifiable Primary Sources & References

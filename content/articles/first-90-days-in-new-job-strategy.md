@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: new job
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## The First 90 Days: A Strategic Plan
 
@@ -104,19 +104,7 @@ You now have a solid understanding of the company dynamics. It is time to start 
 
 ## Key Principles Across All 90 Days
 
-**Build Trust First:** Establishing trust is foundational. Prove your reliability, competency, and cultural fit by following through on commitments and being punctual.
-
-**Ask Questions Strategically:** Understand the existing processes before suggesting changes. New employees often make the mistake of proposing improvements without grasping the underlying reasons for current practices.
-
-**Observe the Culture:** Each organization has its unique culture. Pay attention to decision-making processes, influential individuals, and what behaviors are rewarded or penalized. Adapt your style to fit the organizational culture.
-
-**Build One-on-One Relationships:** While group meetings are valuable, deep relationships develop through one-on-one interactions. Make time for informal coffee chats and lunches with colleagues.
-
-**Document Everything:** Keep a record of what you learn throughout this period. This will serve as your personal knowledge base and help avoid repetitive questions.
-
-**Be Patient with Yourself:** Your goal during this phase is to demonstrate progress, not perfection. You will make mistakes, which are opportunities for learning.
-
-**Stay Humble:** Avoid suggesting major changes in your initial days. Approach your new role with humility and openness, which can be more impressive than having all the answers.
+**Build Trust First:**Establishing trust is foundational. Prove your reliability, competency, and cultural fit by following through on commitments and being punctual.**Ask Questions Strategically:**Understand the existing processes before suggesting changes. New employees often make the mistake of proposing improvements without grasping the underlying reasons for current practices.**Observe the Culture:**Each organization has its unique culture. Pay attention to decision-making processes, influential individuals, and what behaviors are rewarded or penalized. Adapt your style to fit the organizational culture.**Build One-on-One Relationships:**While group meetings are valuable, deep relationships develop through one-on-one interactions. Make time for informal coffee chats and lunches with colleagues.**Document Everything:**Keep a record of what you learn throughout this period. This will serve as your personal knowledge base and help avoid repetitive questions.**Be Patient with Yourself:**Your goal during this phase is to demonstrate progress, not perfection. You will make mistakes, which are opportunities for learning.**Stay Humble:** Avoid suggesting major changes in your initial days. Approach your new role with humility and openness, which can be more impressive than having all the answers.
 
 ## Verifiable Primary Sources & References
 

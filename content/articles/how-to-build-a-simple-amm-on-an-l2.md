@@ -8,7 +8,7 @@ description: >-
   Maker (AMM) style DEX on a Layer 2 network like Arbitrum or Optimism.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Automated Market Makers (AMMs) serve as foundational elements in Decentralized Finance ([DeFi](/what-is-defi)). They enable users to trade assets without intermediaries, using pools of [tokens](/what-is-a-token) instead of traditional order books. This design allows for easy, permissionless trading.
 
@@ -144,7 +144,7 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
 
 - **Testing**: Developing a detailed test suite for an AMM is essential. This ensures all functions work properly under various scenarios, including edge cases like empty pools or large trades. Use platforms like Foundry or Hardhat for testing.
 
-- **Deployment**:
+-**Deployment**:
  1. Acquire testnet ETH for Layer 2 solutions like Arbitrum Sepolia or Base Sepolia from a public faucet.
  2. Deploy two ERC-20 token contracts to create your trading pair.
  3. Deploy the `SimpleAMM` contract, passing the addresses of your two token contracts into the constructor.
@@ -178,15 +178,15 @@ Regularly assess your results. Are you achieving your goals? Be prepared to adju
 
 ### Common Mistakes to Avoid
 
-1. **Rushing the Development Process**: Sustainable change requires time. Patience is important.
+1.**Rushing the Development Process**: Sustainable change requires time. Patience is important.
 
-2. **Neglecting Feedback**: Input from colleagues and mentors can provide valuable insights you might overlook. Always listen to feedback.
+2.**Neglecting Feedback**: Input from colleagues and mentors can provide valuable insights you might overlook. Always listen to feedback.
 
-3. **One-Size-Fits-All Thinking**: Tailor strategies to fit your unique context. What works for others may not be effective for you.
+3.**One-Size-Fits-All Thinking**: Tailor strategies to fit your unique context. What works for others may not be effective for you.
 
-4. **Quitting Too Soon**: Change often involves discomfort. Persistence through initial challenges leads to better outcomes.
+4.**Quitting Too Soon**: Change often involves discomfort. Persistence through initial challenges leads to better outcomes.
 
-5. **Failing to Track Progress**: You cannot improve without metrics. Keep a close eye on your development.
+5.**Failing to Track Progress**: You cannot improve without metrics. Keep a close eye on your development.
 
 ## Verifiable Primary Sources & References
 

@@ -9,7 +9,7 @@ description: >-
 category: Career Guides
 data-ai-hint: startup society co-living coworking
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Network School operates as a startup society, merging co-living, coworking, and community on an island near Singapore. This space caters specifically to remote workers, founders, and creators who seek a focused environment with essential infrastructure and peers.
 
@@ -41,11 +41,11 @@ Network School addresses several key pain points often faced by remote workers:
 
 1. **Combating isolation**: Many remote workers face challenges from working alone across various time zones. At Network School, individuals connect with other builders, encouraging spontaneous conversations and forming genuine relationships.
 
-2. **All-inclusive infrastructure**: Traditional remote workers often juggle multiple locations for work, gym, and meals. Network School consolidates all these services in one location, minimizing decision fatigue and maximizing productivity.
+2.**All-inclusive infrastructure**: Traditional remote workers often juggle multiple locations for work, gym, and meals. Network School consolidates all these services in one location, minimizing decision fatigue and maximizing productivity.
 
-3. **Cost efficiency**: With monthly rates for accommodation, meals, workspace, and gym access, members obtain substantial value compared to typical living expenses in tech hubs, where rent alone could exceed these costs.
+3.**Cost efficiency**: With monthly rates for accommodation, meals, workspace, and gym access, members obtain substantial value compared to typical living expenses in tech hubs, where rent alone could exceed these costs.
 
-4. **Easy onboarding**: New members do not need to establish teams or coordinate with multiple service providers. Everything is integrated, allowing for a smooth transition into the community.
+4.**Easy onboarding**: New members do not need to establish teams or coordinate with multiple service providers. Everything is integrated, allowing for a smooth transition into the community.
 
 ## Pricing & Logistics
 

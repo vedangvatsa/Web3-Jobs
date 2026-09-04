@@ -8,7 +8,7 @@ description: >-
   most popular blockchain programming language.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 So, you want to become a [Web3](/what-is-web3) developer. You've heard about the space of decentralized applications (dApps), [DeFi](/what-is-defi), and [NFTs](/what-are-nfts), and you're ready to start building. The journey for most aspiring [blockchain](/what-is-a-blockchain) developers begins with one language: [Solidity](/best-programming-languages-for-blockchain-development). As the primary language for programming [smart contracts](/what-are-smart-contracts) on [Ethereum](/what-is-ethereum) and other EVM-compatible blockchains, Solidity is the key that opens the door to Web3 development.
 
@@ -16,15 +16,12 @@ But where do you start? The world of smart contracts can seem intimidating, with
 
 ## What You'll Need Your Development Environment
 
-Before we write any code, we need a place to write and test it. While professional developers use complex local setups with tools like Hardhat or Foundry, we can start with a much simpler, web-based tool called **Remix IDE**.
-
-**What is Remix?**
-Remix is an open-source Integrated Development Environment (IDE) that runs directly in your browser. It has everything we need to get started:
+Before we write any code, we need a place to write and test it. While professional developers use complex local setups with tools like Hardhat or Foundry, we can start with a much simpler, web-based tool called **Remix IDE**.**What is Remix?**Remix is an open-source Integrated Development Environment (IDE) that runs directly in your browser. It has everything we need to get started:
 - A code editor for writing Solidity.
 - A compiler to turn our Solidity code into bytecode that the EVM can understand.
 - A simulated blockchain environment for deploying and testing our contract without needing real cryptocurrency.
 
-> **Action:** Open your browser and work through to [remix.ethereum.org](https://remix.ethereum.org).
+>**Action:**Open your browser and work through to [remix.ethereum.org](https://remix.ethereum.org).
 
 You'll be greeted with a default workspace. You can explore the example files, but for this tutorial, we'll create our own.
 
@@ -133,9 +130,9 @@ If everything is correct, you'll see a green checkmark appear on the compiler ic
 Compiling the code is just the first step. To use it, we need to deploy it to a blockchain. Remix provides a simulated blockchain for this purpose.
 
 1. On the left-hand side, click the "Deploy & run transactions" icon (it looks like the Ethereum logo).
-2. **Environment:** Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
-3. **Account:** You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
-4. **Deploy:** Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
+2.**Environment:**Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
+3.**Account:**You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
+4.**Deploy:**Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
 
 You should see some activity in the Remix terminal at the bottom, and then under "Deployed Contracts," you will see your `SimpleStorage` contract.
 
@@ -143,11 +140,11 @@ You should see some activity in the Remix terminal at the bottom, and then under
 
 Click the small arrow next to your `SimpleStorage` contract to expand it. You will see buttons corresponding to the public parts of your contract.
 
-- **`favoriteNumber` (blue button):** This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
-- **`store` (orange button):** This is our function for changing the state.
+-**`favoriteNumber` (blue button):**This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
+-**`store` (orange button):**This is our function for changing the state.
  - In the input field next to the `store` button, type a number (e.g., `77`).
  - Click the `store` button. This simulates a transaction. You'll see it logged in the terminal.
-- **Check the new value:** Now, click the blue `favoriteNumber` button again. It will now return `77`!
+-**Check the new value:**Now, click the blue `favoriteNumber` button again. It will now return `77`!
 
 You have successfully written, compiled, deployed, and interacted with a smart contract. You have stored a value on a (simulated) blockchain and then retrieved it. This is the fundamental pattern behind all dApps.
 

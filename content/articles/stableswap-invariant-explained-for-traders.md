@@ -7,13 +7,13 @@ description: >-
 category: Educational
 data-ai-hint: stableswap invariant
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## The StableSwap Invariant Explained for Traders and LPs
 
 In Decentralized Finance ([DeFi](/what-is-defi)), automated market makers (AMMs) use mathematical formulas called invariants to price assets. The most well-known invariant is the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`), which Uniswap v2 employs. However, this formula lacks efficiency for trading pegged assets such as stablecoins.
 
-The **StableSwap invariant**, designed by Curve Finance, addresses this inefficiency. It serves as a specialized bonding curve optimized for trading pegged assets, such as stablecoins, by creating a hybrid curve. This curve is flatter than the constant product curve, resulting in lower slippage and enhanced capital efficiency. Understanding the StableSwap invariant is essential for grasping why **[Curve pools](/what-is-a-curve-pool-in-defi)** dominate the stablecoin trading market.
+The **StableSwap invariant**, designed by Curve Finance, addresses this inefficiency. It serves as a specialized bonding curve optimized for trading pegged assets, such as stablecoins, by creating a hybrid curve. This curve is flatter than the constant product curve, resulting in lower slippage and enhanced capital efficiency. Understanding the StableSwap invariant is essential for grasping why**[Curve pools](/what-is-a-curve-pool-in-defi)**dominate the stablecoin trading market.
 
 This article explains the StableSwap invariant, its functionality, and its advantages in pegged asset swaps.
 
@@ -21,11 +21,11 @@ This article explains the StableSwap invariant, its functionality, and its advan
 
 | Feature | Description |
 |---------|-------------|
-| **Hybrid Formula** | The StableSwap invariant smoothly transitions between a constant sum formula (`x + y = k`) and a constant product formula (`x * y = k`). |
-| **Primary Goal** | It aims to create a bonding curve that remains flat when liquidity pools are balanced but still offers liquidity when one asset de-pegs. |
-| **Low Price Impact** | It results in minimal price impact (slippage) for substantial trades between assets like USDC and DAI. |
-| **Amplification Parameter (A)** | The shape of the StableSwap curve is influenced by the amplification parameter `A`. A higher value flattens the curve, concentrating liquidity around the peg. |
-| **Capital Efficiency** | Concentrating liquidity enables greater capital efficiency compared to general-purpose AMMs. |
+|**Hybrid Formula** | The StableSwap invariant smoothly transitions between a constant sum formula (`x + y = k`) and a constant product formula (`x * y = k`). |
+| **Primary Goal**| It aims to create a bonding curve that remains flat when liquidity pools are balanced but still offers liquidity when one asset de-pegs. |
+|**Low Price Impact**| It results in minimal price impact (slippage) for substantial trades between assets like USDC and DAI. |
+|**Amplification Parameter (A)**| The shape of the StableSwap curve is influenced by the amplification parameter `A`. A higher value flattens the curve, concentrating liquidity around the peg. |
+|**Capital Efficiency** | Concentrating liquidity enables greater capital efficiency compared to general-purpose AMMs. |
 
 ### Limitations of the Constant Product Formula for Stablecoins
 
@@ -37,10 +37,10 @@ The `x * y = k` formula is not suitable for stablecoin pairs like USDC/DAI due t
 
 ### The Ideal (But Unsafe) Constant Sum Formula
 
-For trading two equally valued assets, the **constant sum formula** (`x + y = k`) is ideal:
+For trading two equally valued assets, the **constant sum formula**(`x + y = k`) is ideal:
 
 - This formula represents a straight line.
-- It allows for a 1:1 exchange rate with **zero slippage**, regardless of trade size.
+- It allows for a 1:1 exchange rate with**zero slippage**, regardless of trade size.
 
 However, a pool based on this formula is highly fragile. If one stablecoin, such as USDC, de-pegs and trades at a significantly lower value on other exchanges, arbitrage bots would quickly drain all DAI from the pool, leaving only the de-pegged USDC. This scenario leads to significant losses for liquidity providers.
 
@@ -48,10 +48,8 @@ However, a pool based on this formula is highly fragile. If one stablecoin, such
 
 The StableSwap invariant merges the benefits of both the constant sum and constant product formulas. While the actual formula is complex, its behavior can be intuitively understood:
 
-> **The StableSwap invariant functions like a constant sum formula when the pool is balanced, then transitions to a constant product formula as the pool becomes imbalanced.**
-
-- **When Balanced**: In a USDC/DAI pool, when the amounts of USDC and DAI are approximately equal, the curve is nearly flat, resembling the `x + y = k` line. This configuration allows for significant trades with minimal slippage.
-- **When Imbalanced**: If one asset begins to de-peg, causing an imbalance, the formula's "amplification" effect diminishes. The curve starts bending, behaving more like the `x * y = k` hyperbola. This adjustment ensures that the pool maintains liquidity, preventing total depletion and protecting liquidity providers.
+>**The StableSwap invariant functions like a constant sum formula when the pool is balanced, then transitions to a constant product formula as the pool becomes imbalanced.**-**When Balanced**: In a USDC/DAI pool, when the amounts of USDC and DAI are approximately equal, the curve is nearly flat, resembling the `x + y = k` line. This configuration allows for significant trades with minimal slippage.
+-**When Imbalanced**: If one asset begins to de-peg, causing an imbalance, the formula's "amplification" effect diminishes. The curve starts bending, behaving more like the `x * y = k` hyperbola. This adjustment ensures that the pool maintains liquidity, preventing total depletion and protecting liquidity providers.
 
 #### The Amplification Parameter (A)
 
@@ -76,18 +74,7 @@ The bonding curves can be visualized as follows:
 
 This visual representation illustrates how StableSwap can accommodate significantly more volume with less slippage in the critical price range for pegged assets.
 
-### Frequently Asked Questions (FAQ)
-
-**Why is it called an "invariant"?** 
-The term "invariant" refers to the constant value `k` computed by the formula, which remains unchanged during trades, disregarding transaction fees.
-
-**Do I need to understand the math to use Curve?** 
-No, traders benefit from low slippage without needing to grasp the underlying mathematics. Liquidity providers enjoy high capital efficiency, as the protocol abstracts the complexity.
-
-**Does the StableSwap invariant eliminate impermanent loss?** 
-No, but it considerably reduces impermanent loss for pegged assets. Since the assets are expected to maintain similar prices, the risk is lower compared to pools with volatile assets. However, permanent loss can occur if one stablecoin fails to maintain its peg.
-
-**Is the StableSwap formula used by other protocols?** 
+### Frequently Asked Questions (FAQ)**Why is it called an "invariant"?**The term "invariant" refers to the constant value `k` computed by the formula, which remains unchanged during trades, disregarding transaction fees.**Do I need to understand the math to use Curve?**No, traders benefit from low slippage without needing to grasp the underlying mathematics. Liquidity providers enjoy high capital efficiency, as the protocol abstracts the complexity.**Does the StableSwap invariant eliminate impermanent loss?**No, but it considerably reduces impermanent loss for pegged assets. Since the assets are expected to maintain similar prices, the risk is lower compared to pools with volatile assets. However, permanent loss can occur if one stablecoin fails to maintain its peg.**Is the StableSwap formula used by other protocols?** 
 Yes, while Curve pioneered the StableSwap concept, other decentralized exchanges focusing on stable assets have adopted similar hybrid bonding curves.
 
 ## Verifiable Primary Sources & References

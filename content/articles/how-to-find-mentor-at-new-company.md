@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: finding mentor
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## How to Find a Mentor at a New Company
 
@@ -30,35 +30,19 @@ If you already have a formal buddy or onboarding partner, use this guide to add 
 
 Not all support relationships are the same. Knowing the difference helps you ask for the right help.
 
-**Manager:** responsible for your goals, feedback, and performance review. You may filter what you share because they evaluate you.
-
-**Onboarding buddy:** a peer who answers quick questions in your first weeks. Microsoft research published in Harvard Business Review in 2019 is often cited here. Among new hires, 56% who met a buddy once in the first 90 days said it helped them become productive quickly. That rose to 73% for those who met 2 to 3 times, 86% for 4 to 8 times, and 97% for those who met more than 8 times. The point is not the exact number. More consistent contact in the first months is linked to faster ramp up.
-
-**Mentor:** focuses on your longer-term development and can be inside or outside your direct chain. They share experience, introduce you to others, and give feedback you might not hear elsewhere.
-
-**Sponsor:** someone with influence who advocates for you when opportunities come up. A mentor advises you. A sponsor talks about you to decision makers.
-
-**Formal vs informal:** Formal mentoring is organized by the company with assigned pairs and regular check-ins. Informal mentoring develops on its own through mutual interest. The National Academies of Sciences, Engineering, and Medicine review of mentorship research summarizes meta-analytic work on this topic. It notes that people tend to rate informal mentoring as slightly more effective, but the difference is small in magnitude (Eby et al., 2013). Satisfaction with the relationship predicts positive outcomes more than whether the program is formal (Ragins et al., 2000). Formal programs matter most for access. If you do not already have a network, a formal program makes it easier to get a mentor in the first place. This is relevant for new hires who have not yet built relationships.
+**Manager:**responsible for your goals, feedback, and performance review. You may filter what you share because they evaluate you.**Onboarding buddy:**a peer who answers quick questions in your first weeks. Microsoft research published in Harvard Business Review in 2019 is often cited here. Among new hires, 56% who met a buddy once in the first 90 days said it helped them become productive quickly. That rose to 73% for those who met 2 to 3 times, 86% for 4 to 8 times, and 97% for those who met more than 8 times. The point is not the exact number. More consistent contact in the first months is linked to faster ramp up.**Mentor:**focuses on your longer-term development and can be inside or outside your direct chain. They share experience, introduce you to others, and give feedback you might not hear elsewhere.**Sponsor:**someone with influence who advocates for you when opportunities come up. A mentor advises you. A sponsor talks about you to decision makers.**Formal vs informal:**Formal mentoring is organized by the company with assigned pairs and regular check-ins. Informal mentoring develops on its own through mutual interest. The National Academies of Sciences, Engineering, and Medicine review of mentorship research summarizes meta-analytic work on this topic. It notes that people tend to rate informal mentoring as slightly more effective, but the difference is small in magnitude (Eby et al., 2013). Satisfaction with the relationship predicts positive outcomes more than whether the program is formal (Ragins et al., 2000). Formal programs matter most for access. If you do not already have a network, a formal program makes it easier to get a mentor in the first place. This is relevant for new hires who have not yet built relationships.
 
 You do not need one person to fill every role. Many people keep a peer buddy for logistics, a mentor for guidance, and one or two other contacts for specific skills.
 
 See also: [First 90 Days in a New Job Strategy](first-90-days-in-new-job-strategy) and [Asking Smart Questions as a New Employee](asking-smart-questions-as-new-employee).
 
-### Pros and Cons of Finding a Mentor Early
-
-**What a mentor can do:**
-
-- Explain context that docs do not cover, such as how decisions are made, who needs to be consulted, and which norms are flexible
+### Pros and Cons of Finding a Mentor Early**What a mentor can do:**- Explain context that docs do not cover, such as how decisions are made, who needs to be consulted, and which norms are flexible
 - Help you avoid common early mistakes, like proposing changes before you understand why a process exists
 - Connect you to people outside your immediate team, which widens your network when you need help
 - Offer candid feedback without the weight of a performance rating
 - Model how to communicate and lead inside that specific culture
 
-Evidence for benefits is consistent but modest. A multidisciplinary meta-analysis that compared mentored and non-mentored individuals across youth, academic, and workplace studies found favorable links to behavioral, attitudinal, and career outcomes, but effect sizes were generally small (Eby et al., 2008). A Harvard Business Review Analytic Services survey of 665 business leaders sponsored by Torch in 2023 found that 40% of organizations saw better retention for employees who received coaching or mentoring. New hires with support during onboarding also report higher satisfaction in several employer surveys. These results point in the same direction, even if no single study proves causation.
-
-**Limits and trade-offs:**
-
-- A mentor does not replace your manager. They cannot set your goals or influence your review directly unless they also advocate for you.
+Evidence for benefits is consistent but modest. A multidisciplinary meta-analysis that compared mentored and non-mentored individuals across youth, academic, and workplace studies found favorable links to behavioral, attitudinal, and career outcomes, but effect sizes were generally small (Eby et al., 2008). A Harvard Business Review Analytic Services survey of 665 business leaders sponsored by Torch in 2023 found that 40% of organizations saw better retention for employees who received coaching or mentoring. New hires with support during onboarding also report higher satisfaction in several employer surveys. These results point in the same direction, even if no single study proves causation.**Limits and trade-offs:**- A mentor does not replace your manager. They cannot set your goals or influence your review directly unless they also advocate for you.
 - Time is limited. Senior people often mentor several people or have no capacity. Expect to contact more than one person.
 - Advice is personal. What worked for them in one team or market may not fit your role.
 - Chemistry matters. A good resume does not guarantee a good mentoring fit.
@@ -174,53 +158,11 @@ Over time you will see whether this becomes ongoing mentoring, an occasional con
 - Staying only within your team. An outside perspective often sees politics and norms more clearly.
 - Treating one no as a signal to stop. Most people succeed after several outreach attempts.
 
-### Mentorship in Different Settings
+### Mentorship in Different Settings**In person:**Use casual moments like coffee and lunch, but still schedule one-on-ones so time is protected. Co-located work makes follow-up easier.**Remote or hybrid:**Schedule video meetings in advance and confirm time zones. Turn on video, keep meetings to 25 minutes, and use Slack or email for quick follow-ups between calls. Because you miss hallway learning, be more deliberate about writing down what you learn and sharing it back with the mentor to check understanding.**Across the company:**Peers and colleagues in other functions can be strong mentors for specific skills. Respect confidentiality and avoid sharing private team information.
 
-**In person:** Use casual moments like coffee and lunch, but still schedule one-on-ones so time is protected. Co-located work makes follow-up easier.
+### FAQs**What is the difference between a manager and a mentor?**Your manager sets expectations and evaluates your performance. A mentor gives broader guidance and can share context your manager may not see or may not be able to share. Keep both relationships, but get career guidance from someone who does not write your review.**Should my mentor be in my department?**Not necessarily. A mentor in another department can offer unbiased context and introduce you to a wider network. A mentor in your department can give more specific technical advice. If you can, have one of each. If you pick one, prioritize someone outside your reporting line for candor.**What if someone declines?**They may be busy, already supporting others, or unsure they can help. Thank them and ask if they can suggest one other person to talk to. Keep a short list so one no does not stall you.**How many mentors should I have?**One good connection is enough to start. Over time, two to three mentors with different strengths is common: for example, a person who knows the company, a person who is strong at a skill you want, and a peer who started recently.**How long does mentoring last?**Some connections focus on a specific goal and last 6 to 12 months. Others become long term and quarterly over several years. Review value every few months. If you have outgrown the focus, discuss it openly and adjust or pause.**What if my manager wants to be my mentor?**You can learn from your manager and still add a mentor outside the reporting line. That gives you a place to test ideas and ask questions you would hesitate to raise with the person who evaluates you.**How do I end a relationship that is not working?**Be brief, grateful, and specific. Example: "Thank you for your time over the past months. Your advice on stakeholder mapping was very helpful. I am now focusing on deeper technical mentoring in [area], so I will focus there for a while. I appreciate your support and hope we can stay in touch."
 
-**Remote or hybrid:** Schedule video meetings in advance and confirm time zones. Turn on video, keep meetings to 25 minutes, and use Slack or email for quick follow-ups between calls. Because you miss hallway learning, be more deliberate about writing down what you learn and sharing it back with the mentor to check understanding.
-
-**Across the company:** Peers and colleagues in other functions can be strong mentors for specific skills. Respect confidentiality and avoid sharing private team information.
-
-### FAQs
-
-**What is the difference between a manager and a mentor?**
-
-Your manager sets expectations and evaluates your performance. A mentor gives broader guidance and can share context your manager may not see or may not be able to share. Keep both relationships, but get career guidance from someone who does not write your review.
-
-**Should my mentor be in my department?**
-
-Not necessarily. A mentor in another department can offer unbiased context and introduce you to a wider network. A mentor in your department can give more specific technical advice. If you can, have one of each. If you pick one, prioritize someone outside your reporting line for candor.
-
-**What if someone declines?**
-
-They may be busy, already supporting others, or unsure they can help. Thank them and ask if they can suggest one other person to talk to. Keep a short list so one no does not stall you.
-
-**How many mentors should I have?**
-
-One good connection is enough to start. Over time, two to three mentors with different strengths is common: for example, a person who knows the company, a person who is strong at a skill you want, and a peer who started recently.
-
-**How long does mentoring last?**
-
-Some connections focus on a specific goal and last 6 to 12 months. Others become long term and quarterly over several years. Review value every few months. If you have outgrown the focus, discuss it openly and adjust or pause.
-
-**What if my manager wants to be my mentor?**
-
-You can learn from your manager and still add a mentor outside the reporting line. That gives you a place to test ideas and ask questions you would hesitate to raise with the person who evaluates you.
-
-**How do I end a relationship that is not working?**
-
-Be brief, grateful, and specific. Example: "Thank you for your time over the past months. Your advice on stakeholder mapping was very helpful. I am now focusing on deeper technical mentoring in [area], so I will focus there for a while. I appreciate your support and hope we can stay in touch."
-
-### Your Next 4 Weeks
-
-**Week 1:** Write down your top two learning goals. Ask your manager for two names tied to those goals. Research those people and one other person you found on your own.
-
-**Week 2:** Send two short outreach messages using the template above. Schedule one 20 minute conversation. Prepare three specific questions.
-
-**Week 3:** Hold the first meeting. Send a thank-you within 24 hours that notes one action you will take. Act on that action.
-
-**Week 4:** Follow up with a brief update. If the conversation was helpful, ask if they are open to a check-in in a month. Identify a peer you can help in turn. Mentoring is often most useful when you both give and receive.
+### Your Next 4 Weeks**Week 1:**Write down your top two learning goals. Ask your manager for two names tied to those goals. Research those people and one other person you found on your own.**Week 2:**Send two short outreach messages using the template above. Schedule one 20 minute conversation. Prepare three specific questions.**Week 3:**Hold the first meeting. Send a thank-you within 24 hours that notes one action you will take. Act on that action.**Week 4:** Follow up with a brief update. If the conversation was helpful, ask if they are open to a check-in in a month. Identify a peer you can help in turn. Mentoring is often most useful when you both give and receive.
 
 You do not need a perfect formal program to benefit from mentoring. One thoughtful conversation, followed by action and a brief update, is enough to start a useful relationship and learn how your new company really works.
 

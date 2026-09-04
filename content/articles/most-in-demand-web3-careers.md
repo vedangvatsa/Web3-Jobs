@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: job search
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The [Web3](/what-is-web3) job market is evolving. Roles that were sought after two years ago may no longer hold the same relevance, while new positions emerge rapidly. For professionals considering a [Web3 career](/web3-jobs-for-beginners), staying informed about current hiring trends is important.
 
@@ -78,9 +78,9 @@ These positions generally offer salaries that can be competitive, depending on e
 Several roles in the Web3 space are less essential than they may appear:
 
 - **Blockchain Lawyers**: The market is saturated, with many projects opting not to hire dedicated legal counsel.
-- **Crypto Educators/Course Creators**: These roles can provide side income, but they are not typically sustainable careers.
-- **Blockchain Consultants**: Individuals may resort to consulting when unable to secure traditional roles. Many find it challenging to maintain consistent billable hours.
-- **Crypto Journalists**: The competition in this market is fierce, given its limited scope.
+-**Crypto Educators/Course Creators**: These roles can provide side income, but they are not typically sustainable careers.
+-**Blockchain Consultants**: Individuals may resort to consulting when unable to secure traditional roles. Many find it challenging to maintain consistent billable hours.
+-**Crypto Journalists**: The competition in this market is fierce, given its limited scope.
 
 ## The Hiring Process in Web3
 

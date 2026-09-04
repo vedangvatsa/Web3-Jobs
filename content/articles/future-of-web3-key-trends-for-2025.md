@@ -8,7 +8,7 @@ image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 category: Industry Insights
 data-ai-hint: futuristic technology
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: Beyond the Hype Cycle
 
@@ -26,9 +26,9 @@ Modularity unbundles the core functions of a blockchain into distinct layers:
 
 | Layer Type | Description | Examples |
 |----------------------|--------------------------------------------------------------------------------------------------|------------------------------------------------------|
-| **Execution Layer** | Processes transactions and runs [smart contracts](/what-are-smart-contracts). This layer includes rollups like Arbitrum, Optimism, and zkSync. | Arbitrum, Optimism, zkSync |
-| **Settlement Layer** | Acts as the core source of truth and security, verifying transaction validity. Ethereum remains the primary settlement layer for most of the Web3 ecosystem. | Ethereum |
-| **Data Availability Layer** | Focuses on storing and making transaction data accessible for verification. This has been a significant bottleneck for rollups. | Celestia, EigenDA, Avail |
+| **Execution Layer**| Processes transactions and runs [smart contracts](/what-are-smart-contracts). This layer includes rollups like Arbitrum, Optimism, and zkSync. | Arbitrum, Optimism, zkSync |
+|**Settlement Layer**| Acts as the core source of truth and security, verifying transaction validity. Ethereum remains the primary settlement layer for most of the Web3 ecosystem. | Ethereum |
+|**Data Availability Layer**| Focuses on storing and making transaction data accessible for verification. This has been a significant bottleneck for rollups. | Celestia, EigenDA, Avail |
 
 ### The Rise of Dedicated Data Availability Layers
 
@@ -44,9 +44,9 @@ Trust remains a significant challenge in AI. How can users ensure that an AI mod
 
 Using Zero-Knowledge Proofs (ZKPs), developers can demonstrate that an AI model executed correctly off-chain without disclosing proprietary model weights. This capability enables "on-chain AI," allowing a smart contract to trust the output of an AI model. In 2025, applications will include:
 
-- **[DeFi](/what-is-defi):** AI-powered trading bots implementing verifiably executed strategies.
-- **Gaming:** On-chain AI-driven NPCs (Non-Player Characters) exhibiting provably fair behavior.
-- **Decentralized Science (DeSci):** Verifiable execution of scientific models on decentralized compute networks.
+-**[DeFi](/what-is-defi):**AI-powered trading bots implementing verifiably executed strategies.
+-**Gaming:**On-chain AI-driven NPCs (Non-Player Characters) exhibiting provably fair behavior.
+-**Decentralized Science (DeSci):**Verifiable execution of scientific models on decentralized compute networks.
 
 ### The Data Economy: AI Agents and Decentralized Data
 
@@ -60,16 +60,16 @@ Decentralized social media has long been a promising yet clunky alternative to m
 
 DeSo's key innovation lies in separating the social graph from the application layer. Your identity, followers, and content reside on-chain or on a decentralized network rather than on a centralized server. This approach offers several advantages:
 
-- **Ownership of Your Audience:** You can transfer your social graph to any new client or application. If a platform de-platforms you, your followers remain intact.
-- **Open API:** Developers can create new clients or applications on the open social graph, resulting in a proliferation of niche social experiences. Farcaster's ecosystem of clients, including Warpcast and Supercast, exemplifies this innovation.
-- **Composable Content:** Content stored on an open network can integrate into other applications, building a more interconnected and creative social web.
+-**Ownership of Your Audience:**You can transfer your social graph to any new client or application. If a platform de-platforms you, your followers remain intact.
+-**Open API:**Developers can create new clients or applications on the open social graph, resulting in a proliferation of niche social experiences. Farcaster's ecosystem of clients, including Warpcast and Supercast, exemplifies this innovation.
+-**Composable Content:**Content stored on an open network can integrate into other applications, building a more interconnected and creative social web.
 
 ### The User Experience Leap
 
 Initial DeSo applications struggled with complex onboarding and the requirement to pay for every interaction. Newer protocols are addressing these issues with:
 
-- **Account Abstraction (EIP-4337):** Enabling social logins and eliminating the need for seed phrases.
-- **Gasless Transactions:** Protocols subsidizing gas fees to create a user experience akin to Web2.
+-**Account Abstraction (EIP-4337):**Enabling social logins and eliminating the need for seed phrases.
+-**Gasless Transactions:**Protocols subsidizing gas fees to create a user experience akin to Web2.
 
 ## 4. Real-World Asset (RWA) Tokenization Gains Momentum
 
@@ -83,9 +83,9 @@ Projects like Ondo Finance and Centrifuge are constructing the infrastructure ne
 
 | Benefit | Description |
 |----------------------|-----------------------------------------------------------------------------------------------------|
-| **Liquidity** | Tokenization enhances liquidity for traditionally illiquid assets such as real estate and private credit. |
-| **Accessibility** | It enables fractional ownership, allowing smaller investors to access asset classes once restricted to institutions. |
-| **Transparency** | Public blockchains record all transactions, enhancing transparency and reducing reliance on intermediaries. |
+|**Liquidity**| Tokenization enhances liquidity for traditionally illiquid assets such as real estate and private credit. |
+|**Accessibility**| It enables fractional ownership, allowing smaller investors to access asset classes once restricted to institutions. |
+|**Transparency** | Public blockchains record all transactions, enhancing transparency and reducing reliance on intermediaries. |
 
 In 2025, we anticipate a growing pipeline of assets being tokenized and integrated into DeFi protocols, bridging the divide between traditional and decentralized financial systems.
 

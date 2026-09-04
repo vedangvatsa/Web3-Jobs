@@ -8,7 +8,7 @@ image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: people discussing chart
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Fractional Equity and Liquidity: How Tokenization Restructures Real Estate
 
@@ -26,25 +26,25 @@ These tokens typically use standards like ERC-20 for fungible shares or ERC-721 
 
 ### The Process: How a Property Gets Tokenized
 
-1. **Special Purpose Vehicle (SPV):** The property is placed into a legal entity, such as an LLC or a trust, which becomes the legal owner.
-2. **Token Creation:** Ownership of the SPV is digitized and represented by tokens on a blockchain. For example, an apartment building valued at $10 million could be tokenized into 10 million tokens, with each token representing a $1 share.
-3. **Primary Offering:** These tokens are offered to investors in a primary sale, akin to an Initial Public Offering (IPO), raising initial capital.
-4. **Secondary Trading:** After the primary offering, tokens can be traded on licensed secondary markets or decentralized exchanges, enhancing liquidity for investors.
-5. **Rights and Revenue:** Token holders are entitled to their proportion of the property's income, such as rental payments, automatically distributed via [smart contracts](/what-are-smart-contracts). They may also possess governance rights regarding property decisions.
+1. **Special Purpose Vehicle (SPV):**The property is placed into a legal entity, such as an LLC or a trust, which becomes the legal owner.
+2.**Token Creation:**Ownership of the SPV is digitized and represented by tokens on a blockchain. For example, an apartment building valued at $10 million could be tokenized into 10 million tokens, with each token representing a $1 share.
+3.**Primary Offering:**These tokens are offered to investors in a primary sale, akin to an Initial Public Offering (IPO), raising initial capital.
+4.**Secondary Trading:**After the primary offering, tokens can be traded on licensed secondary markets or decentralized exchanges, enhancing liquidity for investors.
+5.**Rights and Revenue:**Token holders are entitled to their proportion of the property's income, such as rental payments, automatically distributed via [smart contracts](/what-are-smart-contracts). They may also possess governance rights regarding property decisions.
 
 ### The Benefits of Tokenization
 
 Tokenization presents several notable benefits:
 
-1. **Fractional Ownership and Accessibility:** Tokenization allows investors to acquire fractional ownership without needing millions of dollars. For instance, someone can invest a few hundred dollars to purchase several tokens, democratizing access to a traditionally exclusive asset class.
+1.**Fractional Ownership and Accessibility:**Tokenization allows investors to acquire fractional ownership without needing millions of dollars. For instance, someone can invest a few hundred dollars to purchase several tokens, democratizing access to a traditionally exclusive asset class.
 
-2. **Increased Liquidity:** Real estate transactions are often slow, taking months or years to complete. Tokenization creates a secondary market where ownership shares can be traded 24/7, providing near-instant liquidity.
+2.**Increased Liquidity:**Real estate transactions are often slow, taking months or years to complete. Tokenization creates a secondary market where ownership shares can be traded 24/7, providing near-instant liquidity.
 
-3. **Lower Transaction Costs:** Automating processes through smart contracts reduces the need for intermediaries such as brokers, lawyers, and title agents. This can significantly decrease transaction fees and settlement times.
+3.**Lower Transaction Costs:**Automating processes through smart contracts reduces the need for intermediaries such as brokers, lawyers, and title agents. This can significantly decrease transaction fees and settlement times.
 
-4. **Transparency:** All ownership records and transactions are stored on an immutable public blockchain. This feature enhances transparency and minimizes fraud risks.
+4.**Transparency:**All ownership records and transactions are stored on an immutable public blockchain. This feature enhances transparency and minimizes fraud risks.
 
-5. **Programmable Assets:** Ownership represented by smart contracts is programmable. This capability allows for automated dividend payments, complex governance structures, and new [DeFi](/what-is-defi) integrations, such as using real estate tokens as collateral for loans.
+5.**Programmable Assets:** Ownership represented by smart contracts is programmable. This capability allows for automated dividend payments, complex governance structures, and new [DeFi](/what-is-defi) integrations, such as using real estate tokens as collateral for loans.
 
 ### The Challenges Ahead
 

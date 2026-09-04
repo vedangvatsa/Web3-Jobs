@@ -9,7 +9,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain near protocol
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 NEAR Protocol is a layer-one, sharded, proof-of-stake blockchain built to be fast, low-cost, and easy to use. Docs at docs.near.org describe it as a user-friendly and carbon-neutral chain where accounts look like `alice.near`, finality is about 1.3 seconds, and average fees are about $0.002.
 
@@ -36,15 +36,7 @@ Tokenomics snapshot: initial supply 1 billion NEAR in 2020. Annual issuance targ
 
 ## Who it is for
 
-**Developers who want simple accounts and cheap state.** If managing hex addresses, manual nonce tracking, and large gas buffers slows you down, NEAR named accounts with multiple access keys feel closer to web apps. FunctionCall keys let a dapp call one method up to a limit without giving away full control. Small teams appreciate that contract storage is refundable and contracts receive 30 percent of the gas they burn as a rebate.
-
-**Teams shipping cross-chain products.** If your roadmap includes Bitcoin, Ethereum, Solana, and Cosmos support, Chain Signatures lets one NEAR account derive addresses on all of them via an MPC network. You write the logic once on NEAR and sign on the remote chain without running separate relayers or wrapping assets. Solvers on NEAR Intents compete to fill swaps, so you can offer one-click swaps without building your own liquidity.
-
-**Ethereum teams looking for a low-cost home.** If you have audited Solidity contracts and a MetaMask flow, Aurora lets you deploy without rewriting. Same Solidity, same JSON-RPC shape, but settlement inherits NEAR finality and lower fees. This helpsNFT, DeFi, and tooling teams test on testnet before committing to a full rewrite in Rust or JavaScript.
-
-**AI and agent builders.** NEAR AI docs frame NEAR as execution for agents that need confidential inference and verifiable attestations. Shade Agents run inside Trusted Execution Environments and use Chain Signatures plus Intents to move assets and call across chains. If your agent needs to hold keys, sign transactions, and prove how it decided, NEAR positions that stack as native.
-
-**Users who pay small amounts often.** Social, gaming, and move-to-earn apps benefit when a transaction costs a fraction of a cent and confirms in about a second. That cost curve makes micro-rewards and frequent actions viable without sponsoring gas.
+**Developers who want simple accounts and cheap state.**If managing hex addresses, manual nonce tracking, and large gas buffers slows you down, NEAR named accounts with multiple access keys feel closer to web apps. FunctionCall keys let a dapp call one method up to a limit without giving away full control. Small teams appreciate that contract storage is refundable and contracts receive 30 percent of the gas they burn as a rebate.**Teams shipping cross-chain products.**If your roadmap includes Bitcoin, Ethereum, Solana, and Cosmos support, Chain Signatures lets one NEAR account derive addresses on all of them via an MPC network. You write the logic once on NEAR and sign on the remote chain without running separate relayers or wrapping assets. Solvers on NEAR Intents compete to fill swaps, so you can offer one-click swaps without building your own liquidity.**Ethereum teams looking for a low-cost home.**If you have audited Solidity contracts and a MetaMask flow, Aurora lets you deploy without rewriting. Same Solidity, same JSON-RPC shape, but settlement inherits NEAR finality and lower fees. This helpsNFT, DeFi, and tooling teams test on testnet before committing to a full rewrite in Rust or JavaScript.**AI and agent builders.**NEAR AI docs frame NEAR as execution for agents that need confidential inference and verifiable attestations. Shade Agents run inside Trusted Execution Environments and use Chain Signatures plus Intents to move assets and call across chains. If your agent needs to hold keys, sign transactions, and prove how it decided, NEAR positions that stack as native.**Users who pay small amounts often.** Social, gaming, and move-to-earn apps benefit when a transaction costs a fraction of a cent and confirms in about a second. That cost curve makes micro-rewards and frequent actions viable without sponsoring gas.
 
 It is less suited if you need deep Ethereum L1 compatibility at the consensus level, if you rely on tooling that only exists on a specific L1, or if you need full anonymity at the protocol layer. NEAR is transparent by default. Private execution via the planned private shard and Confidential Intents was previewed at NEARCON 2026 but is not yet the default path.
 
@@ -110,7 +102,7 @@ Gas on NEAR measures compute and storage. You attach a gas amount and a NEAR pri
 
 * **Fees are small and predictable.** Average fees are about $0.002 per the Why NEAR cards in docs. Simple transfers are cheapest. Contract calls add byte and compute costs. Fees are refundable storage when you delete.
 * **Burn and rebate split.** All fees collected in an epoch are burned except for a 30 percent rebate paid to the contract that was called. That rebate is why the docs say you earn from your contract's fees. The rebate creates a direct incentive to write efficient contracts.
-* **No fee market spikes like pre-4844 Ethereum.** NEAR sets a dynamic gas price that adjusts per block based on usage per shard. When a shard is busy, its gas price rises until demand shifts. Because work is sharded, one hot contract does not raise prices for an unrelated shard.
+* **No fee market spikes like pre-4844 Ethereum.**NEAR sets a dynamic gas price that adjusts per block based on usage per shard. When a shard is busy, its gas price rises until demand shifts. Because work is sharded, one hot contract does not raise prices for an unrelated shard.
 
 ### Smart contracts and tooling
 
@@ -145,9 +137,9 @@ Chain Signatures, shipped to mainnet in 2024, let a NEAR account request signatu
 
 Three parts interact:
 
-1. **Derivation path.** A string like `bitcoin-1` or `ethereum-1` plus the NEAR account ID and the MPC public key derives a foreign address. Use a distinct path per chain so a signature on Ethereum cannot be replayed on another EVM chain if you sign a legacy payload without EIP-155 chainId.
-2. **Multichain contract `v1.signer`.** Your contract or frontend calls `sign` with payload hash, path, and domain ID where 0 is Secp256k1 and 1 is Ed25519. The contract yields, waits for the MPC network, and returns a signature you then broadcast on the target chain.
-3. **MPC network.** Eight independent nodes today each hold a share of the master key. No single node can sign. Nodes produce signature shares over several rounds and aggregate them off chain, then write the signature back to `v1.signer`. The node set can grow via on-chain votes on `v1.signer`.
+1.**Derivation path.**A string like `bitcoin-1` or `ethereum-1` plus the NEAR account ID and the MPC public key derives a foreign address. Use a distinct path per chain so a signature on Ethereum cannot be replayed on another EVM chain if you sign a legacy payload without EIP-155 chainId.
+2.**Multichain contract `v1.signer`.**Your contract or frontend calls `sign` with payload hash, path, and domain ID where 0 is Secp256k1 and 1 is Ed25519. The contract yields, waits for the MPC network, and returns a signature you then broadcast on the target chain.
+3.**MPC network.** Eight independent nodes today each hold a share of the master key. No single node can sign. Nodes produce signature shares over several rounds and aggregate them off chain, then write the signature back to `v1.signer`. The node set can grow via on-chain votes on `v1.signer`.
 
 Supported curves cover most chains including Bitcoin, Ethereum, Solana, XRP, Aptos, Sui, TON, Stellar, TRON, and EVM rollups. The current example implementations sign Bitcoin Taproot and EVM EIP-155 transactions, Solana with Ed25519, and so on.
 
@@ -172,11 +164,9 @@ Confidential Intents, previewed in March 2026, add private execution inside a TE
 * **Aurora** as above is the EVM execution environment. It is not a sidechain with its own validators. It is WASM code on NEAR, so it inherits NEAR validator security and economics.
 * **Rainbow Bridge and Omnibridge** handle asset movement where chain signatures are not enough. Rainbow Bridge uses light-client proofs between NEAR and Ethereum: about 16 minutes Ethereum to NEAR and about 4 hours NEAR to Ethereum to wait for finality. Third-party explorers like Nearblocks surface bridge proofs and should be part of testing.
 * **Shade Agents** are contracts that run logic inside Trusted Execution Environments. They use Chain Signatures to keep keys out of enclaves while still letting the TEE attest that code ran as written. Early examples pitched at SF hackathons in 2025 include autonomous rebalancers and portfolio agents.
-* **NEAR AI** includes on-chain primitives for user-owned AI. The stack presented at near.ai pairs confidential TEs, credential isolation, and TEE reports that anchor inference results into auditable state transitions. IronClaw 1.0 docs describe the agent verification flow.
+* **NEAR AI**includes on-chain primitives for user-owned AI. The stack presented at near.ai pairs confidential TEs, credential isolation, and TEE reports that anchor inference results into auditable state transitions. IronClaw 1.0 docs describe the agent verification flow.
 
-## Pros and cons
-
-**Where NEAR helps**
+## Pros and cons**Where NEAR helps**
 
 * Cheap and fast at the point of use. One transfer or contract call often costs a fraction of a cent and settles in about a second. That makes high-frequency flows like sweat-to-earn or game moves viable without custom sponsoring.
 * Readable accounts and scoped keys. Splitting FullAccess and FunctionCall keys maps well to apps that ask for narrow permission. Key rotation is built in, which reduces lockouts.
@@ -194,9 +184,7 @@ Confidential Intents, previewed in March 2026, add private execution inside a TE
 * Ecosystem size and liquidity. NEAR has real users, but depth of tooling and liquidity on any single app is often thinner than on Ethereum mainnet. Spreads may be wider for niche assets.
 * Inflation dynamics. Staking yield depends on total stake ratio, validator commission, and burn rate. A drop in usage can raise net issuance, which affects holders who do not stake.
 
-**Trade-off table**
-
-| Use | Gain | Cost you pay |
+**Trade-off table**| Use | Gain | Cost you pay |
 | --- | --- | --- |
 | Frequent micro-transactions | Sub-cent fees and 1.3s finality | Need to handle async receipts |
 | Launch on many chains at once | One NEAR account and one contract controls 30+ chains | Trust in MPC set and verifier contract |
@@ -291,53 +279,9 @@ Derive the Ethereum address off chain with the MPC public key plus `yourcontract
 
 6. Budget gas and storage. Call `view` methods for free, then estimate with `near view` and `max_gas` before sending a state change. Remember that storing 10 KB costs on the order of 1 NEAR locked, refunded when you delete, and you earn 30 percent of gas used on your contract. Test storage growth with realistic user counts.
 
-7. Ship safely. Run unit tests with `cargo test`, run simulation tests with near-workspaces-rs, and add integration tests that exercise failure receipts. If your MPC logic holds funds, set per-path limits and monitor `v1.signer` upgrades and MPC node liveness. If you bridge, mark transfers pending until light-client proofs finalize.
+7. Ship safely. Run unit tests with `cargo test`, run simulation tests with near-workspaces-rs, and add integration tests that exercise failure receipts. If your MPC logic holds funds, set per-path limits and monitor `v1.signer` upgrades and MPC node liveness. If you bridge, mark transfers pending until light-client proofs finalize.**Costs to budget.**Estimate $0.001 to $0.01 per NEAR call depending on bytes and storage, about $0.003 to $0.10 per Aurora transaction depending on complexity, plus MPC signing and verifier gas for cross-chain flows. Storage locks are larger but refundable. Keep about 0.1 NEAR extra per user account for reserves.
 
-**Costs to budget.** Estimate $0.001 to $0.01 per NEAR call depending on bytes and storage, about $0.003 to $0.10 per Aurora transaction depending on complexity, plus MPC signing and verifier gas for cross-chain flows. Storage locks are larger but refundable. Keep about 0.1 NEAR extra per user account for reserves.
-
-## FAQ
-
-**Is NEAR an Ethereum layer-2?**
-
-No. NEAR is an independent layer-one with its own validators and consensus. Aurora is the EVM environment on NEAR. If you deploy on Aurora you use Ethereum tooling, but you settle to NEAR state rather than posting rollup data to Ethereum.
-
-**How does NEAR scale differently from Ethereum?**
-
-Ethereum today scales mainly through rollups that post data back to L1. NEAR scales its L1 with Nightshade sharding. A single NEAR block aggregates chunks from many shards. Each chunk is produced in parallel. Stateless validation and dynamic resharding let shard count grow with load without users picking a shard.
-
-**How fast and cheap is NEAR in practice?**
-
-Docs list about 600 ms block time, about 1.3 second finality, and average fees about $0.002. A simple NEAR transfer is under one cent. Contract calls vary with storage. Aurora transactions are typically a few tenths of a cent to about $0.10 for complex calls.
-
-**What makes an account like `alice.near` different?**
-
-It is a native named account with multiple keys and optional contract code. You keep one readable name, manage scoped keys, and rotate them without moving assets. This contrasts with Ethereum where one private key maps to one `0x` address.
-
-**Do I need NEAR to pay gas if I use Aurora?**
-
-On NEAR native you pay in NEAR. On Aurora you pay in ETH at the Aurora RPC, but final settlement still touches NEAR. If you use NEAR account abstraction via meta transactions or relayers, a dapp can sponsor your first calls so you do not need NEAR upfront.
-
-**What is Chain Signatures in one sentence?**
-
-A decentralized MPC service that lets a NEAR account request signatures to move assets on Bitcoin, Ethereum, Solana and other chains without exposing the private key in one place, using derivation paths and the `v1.signer` contract.
-
-**What is NEAR Intents and how is it different from bridges or DEX aggregators?**
-
-Bridges move assets between chains. Aggregators route within one chain. Intents let you state the outcome you want across chains and have solvers compete to deliver it atomically via the `intents.near` verifier. Solvers source liquidity broadly, which is why Intents lists 31+ chains and a 1 bps base fee. There is no pool you must seed.
-
-**How many shards does NEAR have now?**
-
-NEAR has expanded from one shard at launch to six and beyond as usage grew, with Nightshade 2.0 enabling stateless validation. The exact count moves with resharding. Query `protocol_config` via RPC or check Pikes Peak dashboards for the live shard layout.
-
-**Who secures NEAR and what do they earn?**
-
-Stakers delegate to validators. The protocol targets about 2.5 percent annual issuance for validator rewards, paid per epoch. Actual yield depends on commission, uptime, and how much NEAR is staked network-wide. All fees minus the 30 percent contract rebate are burned.
-
-**Where should I start building?**
-
-Start with the NEAR docs quickstart at docs.near.org/smart-contracts/quickstart for Rust or the web app quickstart for JavaScript. For cross-chain, read docs.near.org/chain-abstraction/chain-signatures and docs.near-intents.org. For the canonical design, read the NEAR white paper and Nightshade paper at near.org/papers, the Definitive Guide at near.org/blog/what-is-near-protocol, and the House of Stake pages for current governance parameters.
-
-**What should I read next?**
+## FAQ**Is NEAR an Ethereum layer-2?**No. NEAR is an independent layer-one with its own validators and consensus. Aurora is the EVM environment on NEAR. If you deploy on Aurora you use Ethereum tooling, but you settle to NEAR state rather than posting rollup data to Ethereum.**How does NEAR scale differently from Ethereum?**Ethereum today scales mainly through rollups that post data back to L1. NEAR scales its L1 with Nightshade sharding. A single NEAR block aggregates chunks from many shards. Each chunk is produced in parallel. Stateless validation and dynamic resharding let shard count grow with load without users picking a shard.**How fast and cheap is NEAR in practice?**Docs list about 600 ms block time, about 1.3 second finality, and average fees about $0.002. A simple NEAR transfer is under one cent. Contract calls vary with storage. Aurora transactions are typically a few tenths of a cent to about $0.10 for complex calls.**What makes an account like `alice.near` different?**It is a native named account with multiple keys and optional contract code. You keep one readable name, manage scoped keys, and rotate them without moving assets. This contrasts with Ethereum where one private key maps to one `0x` address.**Do I need NEAR to pay gas if I use Aurora?**On NEAR native you pay in NEAR. On Aurora you pay in ETH at the Aurora RPC, but final settlement still touches NEAR. If you use NEAR account abstraction via meta transactions or relayers, a dapp can sponsor your first calls so you do not need NEAR upfront.**What is Chain Signatures in one sentence?**A decentralized MPC service that lets a NEAR account request signatures to move assets on Bitcoin, Ethereum, Solana and other chains without exposing the private key in one place, using derivation paths and the `v1.signer` contract.**What is NEAR Intents and how is it different from bridges or DEX aggregators?**Bridges move assets between chains. Aggregators route within one chain. Intents let you state the outcome you want across chains and have solvers compete to deliver it atomically via the `intents.near` verifier. Solvers source liquidity broadly, which is why Intents lists 31+ chains and a 1 bps base fee. There is no pool you must seed.**How many shards does NEAR have now?**NEAR has expanded from one shard at launch to six and beyond as usage grew, with Nightshade 2.0 enabling stateless validation. The exact count moves with resharding. Query `protocol_config` via RPC or check Pikes Peak dashboards for the live shard layout.**Who secures NEAR and what do they earn?**Stakers delegate to validators. The protocol targets about 2.5 percent annual issuance for validator rewards, paid per epoch. Actual yield depends on commission, uptime, and how much NEAR is staked network-wide. All fees minus the 30 percent contract rebate are burned.**Where should I start building?**Start with the NEAR docs quickstart at docs.near.org/smart-contracts/quickstart for Rust or the web app quickstart for JavaScript. For cross-chain, read docs.near.org/chain-abstraction/chain-signatures and docs.near-intents.org. For the canonical design, read the NEAR white paper and Nightshade paper at near.org/papers, the Definitive Guide at near.org/blog/what-is-near-protocol, and the House of Stake pages for current governance parameters.**What should I read next?**
 
 Docs hub at docs.near.org, NEAR papers at near.org/papers, Aurora docs at doc.aurora.dev, the Intents widget and API at docs.near-intents.org, and the economics pieces at near.org/blog/near-protocol-economics and near.org/blog/evolving-near-tokenomics. For code, see near-examples on GitHub and the v1.signer contract at nearblocks.io/address/v1.signer.
 

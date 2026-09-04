@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: dna science
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Biotechnology uses living organisms or their products for specific applications. While it may seem like a concept from science fiction, humans have used biotechnology for thousands of years. Early practices include using yeast in bread-making, brewing beer, and selectively breeding plants for improved yields. The significant difference today lies in the precision and capabilities offered by advanced technological tools.
 
@@ -45,13 +45,7 @@ Biotechnology holds immense potential to address some of humanity's most pressin
 
 ### Frequently Asked Questions (FAQs)
 
-**1. Is genetically modified (GM) food safe to consume?** 
-Yes, extensive scientific research spanning decades supports the safety of GM foods. Major scientific organizations, including the World Health Organization and the American Medical Association, affirm that GM foods available on the market are safe for consumption.
-
-**2. What distinguishes gene therapy from gene editing?** 
-Gene therapy typically involves introducing a healthy copy of a gene into cells to compensate for a defective one. In contrast, gene editing, particularly with CRISPR, allows for precise modifications to existing DNA, akin to correcting a typo in the genetic sequence. Gene editing generally offers a more targeted approach.
-
-**3. Can biotechnology be misused?** 
+**1. Is genetically modified (GM) food safe to consume?**Yes, extensive scientific research spanning decades supports the safety of GM foods. Major scientific organizations, including the World Health Organization and the American Medical Association, affirm that GM foods available on the market are safe for consumption.**2. What distinguishes gene therapy from gene editing?**Gene therapy typically involves introducing a healthy copy of a gene into cells to compensate for a defective one. In contrast, gene editing, particularly with CRISPR, allows for precise modifications to existing DNA, akin to correcting a typo in the genetic sequence. Gene editing generally offers a more targeted approach.**3. Can biotechnology be misused?** 
 Like any powerful technology, biotechnology carries the risk of misuse. The scientific community prioritizes biosecurity and responsible innovation to mitigate such risks. International regulations and ethical frameworks are in place to address these concerns.
 
 ## Verifiable Primary Sources & References

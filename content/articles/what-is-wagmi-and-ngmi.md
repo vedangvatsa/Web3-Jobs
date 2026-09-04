@@ -7,7 +7,7 @@ description: >-
   lexicon that represent the community's belief in the future of Web3.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Key Takeaways
 
@@ -29,11 +29,11 @@ Web3 offers several unique advantages compared to traditional tech sectors:
 
 | Advantage | Web3 | Web2 |
 |--------------------------|-------------------------------------------|-------------------------------------------|
-| **Compensation** | Generally higher average salaries | Standard market rates |
-| **Equity Opportunities** | Common, often tied to token performance | Limited, typically stock options |
-| **Remote Work** | Predominantly remote positions | Varied, with many requiring on-site work |
-| **Career Growth** | Faster progression due to rapid scaling | Slower, often limited by company hierarchy |
-| **Innovation Focus** | Projects aimed at solving real-world problems | Often driven by profit margins |
+| **Compensation**| Generally higher average salaries | Standard market rates |
+|**Equity Opportunities**| Common, often tied to token performance | Limited, typically stock options |
+|**Remote Work**| Predominantly remote positions | Varied, with many requiring on-site work |
+|**Career Growth**| Faster progression due to rapid scaling | Slower, often limited by company hierarchy |
+|**Innovation Focus** | Projects aimed at solving real-world problems | Often driven by profit margins |
 
 ## Verifiable Primary Sources & References
 

@@ -7,7 +7,7 @@ description: >-
   it's the foundational layer for cryptocurrencies and Web3.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Blockchain technology has gained significant attention alongside [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and the broader [Web3](/what-is-web3) ecosystem. Understanding its core function is essential. A blockchain serves as a distributed digital ledger, offering a unique method for structuring, securing, and sharing data. It provides an immutable, transparent, and decentralized record of transactions, enabling systems that operate without reliance on a central authority. This article details the technology, elucidates its key features, and examines its implications that extend beyond digital currencies.
 
@@ -46,7 +46,7 @@ If a hacker attempts to alter a transaction in a previous block, the altered has
 The network requires a method to determine which new block to add to the chain, managed by a "consensus mechanism." This set of rules guides participants in validating transactions and incorporating new blocks.
 
 - **Proof of Work (PoW)**: This original consensus mechanism used by Bitcoin involves "miners" competing to solve complex mathematical puzzles. The first miner to solve the puzzle proposes the next block and receives a reward in newly created cryptocurrency. This process demands substantial computational power, rendering it costly and difficult for a single entity to attack the network.
-- **Proof of Stake (PoS)**: A more energy-efficient alternative adopted by Ethereum and various modern blockchains. In this system, "validators" stake (lock up) their cryptocurrency as collateral. The network randomly selects a validator to propose the next block. Dishonest actions can result in the loss of staked funds, incentivizing honest behavior without the high energy costs associated with PoW.
+-**Proof of Stake (PoS)**: A more energy-efficient alternative adopted by Ethereum and various modern blockchains. In this system, "validators" stake (lock up) their cryptocurrency as collateral. The network randomly selects a validator to propose the next block. Dishonest actions can result in the loss of staked funds, incentivizing honest behavior without the high energy costs associated with PoW.
 
 ## The Core Properties of a Blockchain
 
@@ -54,18 +54,18 @@ The blockchain's structure endows it with several essential properties that diff
 
 | Property | Description |
 |----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Decentralization** | There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (nodes). Each node maintains a complete copy of the blockchain, eliminating single points of failure and enhancing resistance to censorship or control. |
-| **Immutability** | Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record. |
-| **Transparency** | In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |
-| **Security** | Decentralization, cryptographic hashing, and consensus mechanisms contribute to a reliable security framework. An attacker would need to control over 51% of the network's computing power (a "51% attack") to compromise the system, a feat that is prohibitively expensive and challenging on large, established blockchains. |
+|**Decentralization**| There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (nodes). Each node maintains a complete copy of the blockchain, eliminating single points of failure and enhancing resistance to censorship or control. |
+|**Immutability**| Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record. |
+|**Transparency**| In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |
+|**Security**| Decentralization, cryptographic hashing, and consensus mechanisms contribute to a reliable security framework. An attacker would need to control over 51% of the network's computing power (a "51% attack") to compromise the system, a feat that is prohibitively expensive and challenging on large, established blockchains. |
 
 ## Types of Blockchains
 
 Blockchains vary significantly based on participation criteria. They can be categorized as follows:
 
-- **Public Blockchains**: These networks are entirely open and permissionless, allowing anyone to join, become a node, and participate in the consensus process. Public blockchains like Bitcoin and Ethereum exemplify full decentralization and transparency.
-- **Private Blockchains**: These permissioned networks are controlled by a single organization that determines membership and rights. Private blockchains are often used by businesses for internal processes, providing benefits like immutability and traceability without full decentralization. They typically offer increased speed and scalability but sacrifice some degree of censorship resistance.
-- **Consortium Blockchains**: This hybrid model features a pre-selected group of organizations or individuals governing the network. These blockchains offer more decentralization than private ones but remain less open than public blockchains. They often enable collaboration among companies within the same industry, such as banks sharing a ledger for interbank settlements.
+-**Public Blockchains**: These networks are entirely open and permissionless, allowing anyone to join, become a node, and participate in the consensus process. Public blockchains like Bitcoin and Ethereum exemplify full decentralization and transparency.
+-**Private Blockchains**: These permissioned networks are controlled by a single organization that determines membership and rights. Private blockchains are often used by businesses for internal processes, providing benefits like immutability and traceability without full decentralization. They typically offer increased speed and scalability but sacrifice some degree of censorship resistance.
+-**Consortium Blockchains**: This hybrid model features a pre-selected group of organizations or individuals governing the network. These blockchains offer more decentralization than private ones but remain less open than public blockchains. They often enable collaboration among companies within the same industry, such as banks sharing a ledger for interbank settlements.
 
 ## Beyond Cryptocurrency: The Power of Smart Contracts
 
@@ -73,11 +73,11 @@ While Bitcoin introduced blockchain to the global stage, the technology's potent
 
 Smart contracts have catalyzed a new wave of applications:
 
-- **Decentralized Finance (DeFi)**: Establishing an alternative financial system for lending, borrowing, and trading without traditional banks.
-- **Supply Chain Management**: Tracking goods from production to sale, ensuring authenticity and preventing fraud through an unalterable record of a product's journey. For example, a company can monitor coffee beans from the farm to the store, documenting every step on the blockchain.
-- **Voting Systems**: Developing secure and transparent voting platforms where every vote is recorded on the blockchain, ensuring verifiability and resistance to tampering.
-- **Digital Identity**: Allowing individuals to own and control their digital identities, moving away from reliance on third-party providers like Google or Facebook. This concept, known as Self-Sovereign Identity (SSI), allows users to determine what information to share and with whom.
-- **Non-Fungible Tokens (NFTs)**: Establishing verifiable ownership of unique digital items. NFTs can represent a wide range of assets, from art and music to in-game items and real estate.
+-**Decentralized Finance (DeFi)**: Establishing an alternative financial system for lending, borrowing, and trading without traditional banks.
+-**Supply Chain Management**: Tracking goods from production to sale, ensuring authenticity and preventing fraud through an unalterable record of a product's journey. For example, a company can monitor coffee beans from the farm to the store, documenting every step on the blockchain.
+-**Voting Systems**: Developing secure and transparent voting platforms where every vote is recorded on the blockchain, ensuring verifiability and resistance to tampering.
+-**Digital Identity**: Allowing individuals to own and control their digital identities, moving away from reliance on third-party providers like Google or Facebook. This concept, known as Self-Sovereign Identity (SSI), allows users to determine what information to share and with whom.
+-**Non-Fungible Tokens (NFTs)**: Establishing verifiable ownership of unique digital items. NFTs can represent a wide range of assets, from art and music to in-game items and real estate.
 
 ## The Challenges Facing Blockchain Technology
 

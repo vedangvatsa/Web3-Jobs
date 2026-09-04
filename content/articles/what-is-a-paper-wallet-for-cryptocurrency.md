@@ -8,9 +8,9 @@ description: >-
   work.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
-A **paper [wallet](/how-to-choose-a-crypto-wallet)** serves as one of the oldest methods for securing cryptocurrency assets. This form of cold storage keeps private keys completely offline and disconnected from the internet. Essentially, a paper wallet is a physical document containing the information required to access and manage your cryptocurrency.
+A **paper [wallet](/how-to-choose-a-crypto-wallet)**serves as one of the oldest methods for securing cryptocurrency assets. This form of cold storage keeps private keys completely offline and disconnected from the internet. Essentially, a paper wallet is a physical document containing the information required to access and manage your cryptocurrency.
 
 Though paper wallets have been largely replaced by more user-friendly [hardware wallets](/understanding-hardware-wallets-for-crypto-security), understanding their mechanics offers valuable insights into the fundamentals of crypto key management.
 
@@ -18,8 +18,8 @@ Though paper wallets have been largely replaced by more user-friendly [hardware 
 
 A paper wallet comprises two key components printed on it, typically presented in text and scannable QR code formats:
 
-1. **Public Key / Address:** This address allows others to send you funds, akin to a bank account number. Sharing it publicly is safe.
-2. **Private Key:** This secret key grants you control over the funds associated with your public address. **Anyone possessing this key can access your cryptocurrency.** Therefore, it must remain confidential.
+1.**Public Key / Address:**This address allows others to send you funds, akin to a bank account number. Sharing it publicly is safe.
+2.**Private Key:**This secret key grants you control over the funds associated with your public address.**Anyone possessing this key can access your cryptocurrency.**Therefore, it must remain confidential.
 
 ### Creation Process
 
@@ -27,8 +27,8 @@ To create a paper wallet, users typically use an open-source key generation tool
 
 ### Usage Process
 
-- **Receiving Funds:** You can receive funds at any time by providing your public address.
-- **Spending Funds (Sweeping):** Spending funds is more complex. You must "sweep" the private key into a software wallet (also known as a "hot wallet"). This involves using the software wallet's import function to scan the QR code of the private key. After importing, the software wallet gains control of the funds, allowing you to create and sign a transaction to send them elsewhere.
+-**Receiving Funds:**You can receive funds at any time by providing your public address.
+-**Spending Funds (Sweeping):** Spending funds is more complex. You must "sweep" the private key into a software wallet (also known as a "hot wallet"). This involves using the software wallet's import function to scan the QR code of the private key. After importing, the software wallet gains control of the funds, allowing you to create and sign a transaction to send them elsewhere.
 
 ### Security Consideration
 

@@ -7,7 +7,7 @@ description: >-
   engineers, with regional comparisons and the components of Web3 compensation.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The [Web3](/what-is-web3) industry has gained recognition for its competitive compensation packages, particularly in the technology sector. A surge in venture capital investment and a significant talent shortage have led Web3 companies to offer attractive salaries to engineers capable of constructing the secure and scalable infrastructure for this new internet. So, what can developers realistically expect to earn in this field?
 
@@ -17,11 +17,11 @@ This article presents a detailed examination of Web3 developer salaries for the 
 
 A [Web3 job](/web3-jobs-for-beginners) offer often encompasses more than just a base salary. Total compensation can include several components:
 
-- **Base Salary:** Typically paid in fiat currency (e.g., USD, EUR) or stablecoins. This amount represents your guaranteed income.
-- **[Token](/what-is-a-token) Grants:** A significant allocation of the project's native token that vests over time, often 4 years with a 1-year cliff. This aspect introduces high potential rewards but also carries inherent risks, as the token's market value can fluctuate significantly.
-- **Equity:** Centralized companies within the Web3 space (e.g., exchanges, infrastructure providers) may offer traditional stock options as part of the compensation package.
+- **Base Salary:**Typically paid in fiat currency (e.g., USD, EUR) or stablecoins. This amount represents your guaranteed income.
+-**[Token](/what-is-a-token) Grants:**A significant allocation of the project's native token that vests over time, often 4 years with a 1-year cliff. This aspect introduces high potential rewards but also carries inherent risks, as the token's market value can fluctuate significantly.
+-**Equity:**Centralized companies within the Web3 space (e.g., exchanges, infrastructure providers) may offer traditional stock options as part of the compensation package.
 
-For this analysis, we will primarily focus on **base salary expectations** in USD, as this figure offers a stable and comparable metric. Keep in mind that token grants can often represent an additional significant percentage of the base salary's value, significantly enhancing total compensation.
+For this analysis, we will primarily focus on**base salary expectations** in USD, as this figure offers a stable and comparable metric. Keep in mind that token grants can often represent an additional significant percentage of the base salary's value, significantly enhancing total compensation.
 
 ### Salary by Developer Specialization
 

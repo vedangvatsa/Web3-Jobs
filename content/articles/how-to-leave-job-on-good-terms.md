@@ -7,7 +7,7 @@ description: >-
 data-ai-hint: handshake deal
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Leaving a job can significantly influence your career trajectory. A well-managed exit can enhance your professional network and create new opportunities, while a poorly executed departure may lead to negative repercussions. Departing on good terms is not just an act of courtesy; it is a strategic decision that can pay dividends in the long run.
 
@@ -32,9 +32,9 @@ Focus on your future plans and the new opportunity rather than any negative reas
 Your final two weeks represent a chance to showcase your professionalism and dedication. Resist the urge to disengage mentally. Instead, aim to be as helpful as possible to enable a smooth handover.
 
 - **Create a Transition Document**: Compile a detailed document that outlines your key projects, responsibilities, essential contacts, and any recurring tasks. This resource will be invaluable for your successor.
-- **Organize Your Files**: Clean up and structure your digital files so that they are easy for your colleagues to work through and comprehend.
-- **Offer to Train Your Replacement**: If your successor is hired before your departure, proactively offer to train them. Walk them through your processes and introduce them to key stakeholders.
-- **Stay Engaged**: Continue to participate in team meetings and complete any outstanding projects. A strong finish will be remembered and appreciated.
+-**Organize Your Files**: Clean up and structure your digital files so that they are easy for your colleagues to work through and comprehend.
+-**Offer to Train Your Replacement**: If your successor is hired before your departure, proactively offer to train them. Walk them through your processes and introduce them to key stakeholders.
+-**Stay Engaged**: Continue to participate in team meetings and complete any outstanding projects. A strong finish will be remembered and appreciated.
 
 ### 4. Maintain a Positive Attitude and Avoid Complaining
 
@@ -66,17 +66,7 @@ To ensure a smooth departure, use the following checklist:
 
 Leaving a job on good terms involves professionalism and foresight. By managing your exit gracefully, you ensure that you are remembered as a valuable and respectful team member, preserving your professional reputation and keeping doors open for the future.
 
-### Frequently Asked Questions (FAQs)
-
-**What should I do if my manager offers me a counteroffer?**
-
-Politely declining a counteroffer is often the best course of action. You chose to leave for specific reasons, and additional money is unlikely to resolve those underlying issues. Accepting a counteroffer can create an uncomfortable dynamic, as your loyalty may now be questioned.
-
-**How should I approach an exit interview?**
-
-Be honest yet professional during your exit interview. This setting provides an opportunity to offer constructive feedback that could benefit the company. Frame your comments in a helpful and objective manner, focusing on systemic issues rather than personal grievances.
-
-**Is it appropriate to connect with former colleagues on social media?**
+### Frequently Asked Questions (FAQs)**What should I do if my manager offers me a counteroffer?**Politely declining a counteroffer is often the best course of action. You chose to leave for specific reasons, and additional money is unlikely to resolve those underlying issues. Accepting a counteroffer can create an uncomfortable dynamic, as your loyalty may now be questioned.**How should I approach an exit interview?**Be honest yet professional during your exit interview. This setting provides an opportunity to offer constructive feedback that could benefit the company. Frame your comments in a helpful and objective manner, focusing on systemic issues rather than personal grievances.**Is it appropriate to connect with former colleagues on social media?**
 
 Connecting on LinkedIn is advisable for maintaining your professional network. For other platforms like Instagram or Twitter, use discretion based on your relationship with each colleague.
 

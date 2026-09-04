@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: people talking
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: The Networking Potential of Coffee Chats
 
@@ -24,9 +24,9 @@ When reaching out for a coffee chat, consider the busy schedules of potential co
 ### 1. Craft a Personalized Subject Line
 
 Your subject line should clearly convey your intent while feeling personal.
-- **Good:** "Quick question" or "Coffee chat request"
-- **Better:** "Referred by [Mutual Connection's Name]" (if applicable)
-- **Great:** "Your recent article on [Topic] / Question"
+- **Good:**"Quick question" or "Coffee chat request"
+-**Better:**"Referred by [Mutual Connection's Name]" (if applicable)
+-**Great:** "Your recent article on [Topic] / Question"
 
 ### 2. Establish a Personalized Opening
 
@@ -42,9 +42,9 @@ Briefly articulate your reason for reaching out.
 ### 4. Make It Easy to Say Yes
 
 Enable a positive response by reducing the commitment required.
-- **Specify the length:** "I would appreciate a brief 15-20 minute virtual coffee chat." Specifying a short duration reduces the perceived commitment.
-- **Be flexible:** "I am happy to accommodate your schedule."
-- **Offer convenience:** "I can send a calendar invite with a video link."
+- **Specify the length:**"I would appreciate a brief 15-20 minute virtual coffee chat." Specifying a short duration reduces the perceived commitment.
+-**Be flexible:**"I am happy to accommodate your schedule."
+-**Offer convenience:**"I can send a calendar invite with a video link."
 
 ## Part 2: The Preparation - Conduct Thorough Research
 
@@ -59,9 +59,7 @@ Go beyond your initial outreach.
 
 ### 2. Prepare Insightful Questions
 
-Avoid asking questions that can be answered easily through a quick Google search (e.g., "What does your company do?"). Your questions should reflect genuine curiosity about their experiences and insights.
-
-**Suggested Questions to Ask:**
+Avoid asking questions that can be answered easily through a quick Google search (e.g., "What does your company do?"). Your questions should reflect genuine curiosity about their experiences and insights.**Suggested Questions to Ask:**
 | Question | Purpose |
 |----------|---------|
 | "What does a typical day or week in your role look like?" | Understand their daily responsibilities. |

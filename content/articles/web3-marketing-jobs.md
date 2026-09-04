@@ -8,7 +8,7 @@ description: >-
   work.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Marketing in [Web3](/what-is-web3) differs significantly from the strategies used in Web2. This field emphasizes culture, community, and content, where authenticity is critical. In this ecosystem, the distinctions between user, owner, and marketer become less defined. For marketing professionals, this shift presents an good opportunity but also requires a new approach.
 
@@ -20,46 +20,46 @@ The traditional marketing funnel, Awareness, Interest, Decision, Action, transfo
 
 | Stage | Description |
 |-------------------------|---------------------------------------------------------------------------------------------------|
-| **Discovery** | Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
-| **Immersion (The Rabbit Hole)** | A potential user joins your Discord community, engaging in a passive learning phase. Your marketing goal is to educate and set the community's tone. Is the environment welcoming? Is the dialogue insightful? |
-| **Contribution** | Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |
-| **Ownership** | Users transition from passive observers to active owners by acquiring the project's [token](/what-is-a-token), using the protocol, or purchasing an [NFT](/what-are-nfts). |
+| **Discovery**| Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
+|**Immersion (The Rabbit Hole)**| A potential user joins your Discord community, engaging in a passive learning phase. Your marketing goal is to educate and set the community's tone. Is the environment welcoming? Is the dialogue insightful? |
+|**Contribution**| Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |
+|**Ownership**| Users transition from passive observers to active owners by acquiring the project's [token](/what-is-a-token), using the protocol, or purchasing an [NFT](/what-are-nfts). |
 
 ### Key Marketing Roles in Web3
 
 The marketing team within a Web3 project consists of various specialized roles.
 
-1. **Community Manager:** This role is vital for building an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
+1.**Community Manager:**This role is vital for building an engaged and welcoming environment on platforms like Discord and Telegram. Community Managers serve as the first line of defense and the heartbeat of the community.
 
-2. **Content Marketer / Strategist:** These professionals craft blog posts, documentation, and Twitter threads that articulate the project's vision and technology, simplifying complex concepts for the audience.
+2.**Content Marketer / Strategist:**These professionals craft blog posts, documentation, and Twitter threads that articulate the project's vision and technology, simplifying complex concepts for the audience.
 
-3. **Social Media Manager (Twitter Guru):** Twitter serves as the primary communication hub for Web3. This role requires expertise in the platform, engagement in broader conversations, relationship-building with influencers, and creative meme production.
+3.**Social Media Manager (Twitter Guru):**Twitter serves as the primary communication hub for Web3. This role requires expertise in the platform, engagement in broader conversations, relationship-building with influencers, and creative meme production.
 
-4. **Growth Marketer / Biz-Dev:** This position centers on developing partnerships and integrations with other Web3 projects, often focusing on B2B2C strategies to tap into existing user bases.
+4.**Growth Marketer / Biz-Dev:**This position centers on developing partnerships and integrations with other Web3 projects, often focusing on B2B2C strategies to tap into existing user bases.
 
-5. **Product Marketing Manager (PMM):** PMMs bridge product and engineering teams with the market. They define messaging, positioning, and go-to-market strategies for new features and products.
+5.**Product Marketing Manager (PMM):**PMMs bridge product and engineering teams with the market. They define messaging, positioning, and go-to-market strategies for new features and products.
 
-6. **Head of Marketing / CMO:** The CMO orchestrates all marketing efforts, defining the brand narrative, managing the budget, often sourced from a [DAO](/what-is-a-dao)-governed treasury, and ensuring alignment across initiatives.
+6.**Head of Marketing / CMO:**The CMO orchestrates all marketing efforts, defining the brand narrative, managing the budget, often sourced from a [DAO](/what-is-a-dao)-governed treasury, and ensuring alignment across initiatives.
 
 ### How to Get Hired: Your Proof-of-Work Portfolio
 
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary to your "proof of work" in this field.
 
-- **Become a Super-User:** Understand the product you intend to market. Engage deeply with [DeFi](/what-is-defi), NFTs, and the specific niche you wish to enter.
+-**Become a Super-User:**Understand the product you intend to market. Engage deeply with [DeFi](/what-is-defi), NFTs, and the specific niche you wish to enter.
 
-- **Build a Public Voice:** Establish a Twitter account or blog dedicated to your area of expertise. Write threads analyzing project marketing strategies or create engaging memes. This serves as your public [portfolio](/building-web3-portfolio).
+-**Build a Public Voice:**Establish a Twitter account or blog dedicated to your area of expertise. Write threads analyzing project marketing strategies or create engaging memes. This serves as your public [portfolio](/building-web3-portfolio).
 
-- **Contribute to a DAO:** Joining a marketing-focused working group in a [DAO](/the-rise-of-daos) enhances visibility. Volunteer to assist with newsletters, write blog posts, or organize community events. Your contributions are public, verifiable, and act as a powerful resume.
+-**Contribute to a DAO:**Joining a marketing-focused working group in a [DAO](/the-rise-of-daos) enhances visibility. Volunteer to assist with newsletters, write blog posts, or organize community events. Your contributions are public, verifiable, and act as a powerful resume.
 
 ### Essential Skills for Web3 Marketers
 
-- **Exceptional Writing:** Clear and compelling writing is important, as written communication dominates this space.
+-**Exceptional Writing:**Clear and compelling writing is important, as written communication dominates this space.
 
-- **Cultural Fluency:** Understanding the language, memes, and etiquette of Crypto Twitter is essential.
+-**Cultural Fluency:**Understanding the language, memes, and etiquette of Crypto Twitter is essential.
 
-- **Community-Building Instincts:** Strong emotional intelligence and the ability to support community engagement are vital traits.
+-**Community-Building Instincts:**Strong emotional intelligence and the ability to support community engagement are vital traits.
 
-- **Resilience:** The volatility of the market and the demands of the community require thick skin and the ability to manage chaotic situations effectively.
+-**Resilience:** The volatility of the market and the demands of the community require thick skin and the ability to manage chaotic situations effectively.
 
 A career in Web3 marketing allows involvement in reshaping a cultural and technological narrative. It presents opportunities to build brands co-owned by their communities and to shape the future of marketing.
 

@@ -7,7 +7,7 @@ image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 category: Career Guides
 data-ai-hint: futuristic city
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: South Korea's Web3 Dominance
 
@@ -48,11 +48,11 @@ The Korean Web3 ecosystem consists of large, established conglomerates (chaebols
 
 | Company | Sector | Description |
 |------------------|-----------------------------|-----------------------------------------------------------|
-| **Wemade** | Gaming (GameFi) | A publicly traded gaming company focused on blockchain through its WEMIX platform. |
-| **Hashed** | Venture Capital | An influential crypto venture capital firm that invests in and incubates blockchain projects. |
-| **Upbit** | Cryptocurrency Exchange | A major crypto exchange in South Korea, handling a significant share of the country's trading volume. |
-| **Netmarble** | Gaming (GameFi) | A major gaming company developing its own blockchain ecosystem, MarbleX (MBX). |
-| **Kakao (Klaytn)** | Blockchain Development | The parent company of Korea's leading messaging app, Klaytn, which has developed a public blockchain. |
+| **Wemade**| Gaming (GameFi) | A publicly traded gaming company focused on blockchain through its WEMIX platform. |
+|**Hashed**| Venture Capital | An influential crypto venture capital firm that invests in and incubates blockchain projects. |
+|**Upbit**| Cryptocurrency Exchange | A major crypto exchange in South Korea, handling a significant share of the country's trading volume. |
+|**Netmarble**| Gaming (GameFi) | A major gaming company developing its own blockchain ecosystem, MarbleX (MBX). |
+|**Kakao (Klaytn)** | Blockchain Development | The parent company of Korea's leading messaging app, Klaytn, which has developed a public blockchain. |
 
 ## In-Demand Roles and Required Skills
 

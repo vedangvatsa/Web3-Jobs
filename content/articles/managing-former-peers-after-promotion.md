@@ -6,7 +6,7 @@ description: >-
 category: Career Guides
 data-ai-hint: promotion manager
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Getting promoted is a significant milestone in your career. However, when that promotion places you in a management position over your former peers, the transition can be challenging. The shift in dynamics can create discomfort as you manage new relationships. The friend you once confided in about work issues is now your direct report. How you approach this transition can greatly influence your effectiveness as a manager and the team's overall morale.
 
@@ -60,15 +60,7 @@ Managing former peers tests your leadership skills. Approach this challenge with
 
 ### Frequently Asked Questions
 
-**What if one of my former peers was also a candidate for the manager job?**
-
-Address this situation directly in your one-on-one meeting. Acknowledge their feelings of disappointment. You might say, "I know we were both vying for this role, and I can only imagine how you feel about it. I have immense respect for your contributions, and I hope to collaborate with you closely as we move forward." Be sincere and give them space to express their feelings, but also emphasize the importance of working together as a team.
-
-**How do I handle performance issues with a former peer who is also a friend?**
-
-You must treat them as you would any other team member. This highlights the importance of setting professional boundaries early on. Address performance issues directly, focusing on specific work-related matters. Use the "Situation-Behavior-Impact" model to provide clear feedback. Although this conversation might be uncomfortable, it is your responsibility as a manager to address performance issues head-on.
-
-**My team is still treating me like one of them. How do I change that?**
+**What if one of my former peers was also a candidate for the manager job?**Address this situation directly in your one-on-one meeting. Acknowledge their feelings of disappointment. You might say, "I know we were both vying for this role, and I can only imagine how you feel about it. I have immense respect for your contributions, and I hope to collaborate with you closely as we move forward." Be sincere and give them space to express their feelings, but also emphasize the importance of working together as a team.**How do I handle performance issues with a former peer who is also a friend?**You must treat them as you would any other team member. This highlights the importance of setting professional boundaries early on. Address performance issues directly, focusing on specific work-related matters. Use the "Situation-Behavior-Impact" model to provide clear feedback. Although this conversation might be uncomfortable, it is your responsibility as a manager to address performance issues head-on.**My team is still treating me like one of them. How do I change that?**
 
 Your behavior must change first. If your team invites you to informal gatherings, politely decline. In meetings, assume a facilitator role rather than participating as a peer. Make decisions that prioritize the team's best interests, even if they may not be popular. Over time, your actions will signal the shift in your role, and your team will adapt accordingly.
 

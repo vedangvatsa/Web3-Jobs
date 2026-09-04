@@ -8,7 +8,7 @@ description: >-
   and impact-focused protocols.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 While discussions about [Web3](/what-is-web3) often emphasize finance and [NFTs](/what-are-nfts), a significant movement is emerging that focuses on using [blockchain](/what-is-a-blockchain) technology for social good. This movement involves funding public goods and supporting positive social impact through initiatives known as **Public Goods DAOs**.
 
@@ -20,9 +20,9 @@ Public Goods DAOs are collective organizations that raise and distribute funds t
 
 ### The Gitcoin Model: A Case Study
 
-One of the most recognized and effective Public Goods DAOs is **Gitcoin**. Gitcoin's mission centers around financing the open-source software and infrastructure essential for the entire [Ethereum](/what-is-ethereum) ecosystem.
+One of the most recognized and effective Public Goods DAOs is**Gitcoin**. Gitcoin's mission centers around financing the open-source software and infrastructure essential for the entire [Ethereum](/what-is-ethereum) ecosystem.
 
-Gitcoin introduced **Quadratic Funding**, which changed the way public goods are financed. 
+Gitcoin introduced**Quadratic Funding**, which changed the way public goods are financed. 
 
 * **Quadratic Funding Explained**: This funding method optimally allocates resources based on community contributions, emphasizing the importance of the number of contributors rather than the total amount donated.
 
@@ -54,9 +54,9 @@ The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector pre
 
 ### Getting Involved
 
-1. **Participate in a Grants Round**: Engage hands-on by donating to a project during an upcoming Gitcoin Grants round. Observing the process provides valuable insights.
-2. **Join a DAO**: Identify a Public Goods DAO that aligns with your interests. Engage with their community through platforms like Discord and seek opportunities to contribute.
-3. **Showcase Your Skills**: Offer your expertise to projects. For instance, if you are a writer, assist with grant proposals. If you're skilled in data analysis, create dashboards to track funding history.
+1.**Participate in a Grants Round**: Engage hands-on by donating to a project during an upcoming Gitcoin Grants round. Observing the process provides valuable insights.
+2.**Join a DAO**: Identify a Public Goods DAO that aligns with your interests. Engage with their community through platforms like Discord and seek opportunities to contribute.
+3.**Showcase Your Skills**: Offer your expertise to projects. For instance, if you are a writer, assist with grant proposals. If you're skilled in data analysis, create dashboards to track funding history.
 
 Working within the Public Goods sector of Web3 allows professionals to contribute to an important movement that seeks equitable funding solutions for essential societal needs. Using the resources of blockchain technology, individuals have the chance to make a tangible, positive difference.
 

@@ -8,7 +8,7 @@ description: >-
   price it, and what that means for fees and scaling.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Blockspace is the capacity inside each block that can hold transactions and data. Every block has a fixed cap, and new blocks arrive at a roughly fixed rate. That makes blockspace scarce by design. When demand exceeds that cap, users bid for inclusion and fees rise.
 
@@ -81,67 +81,37 @@ Solana uses a different capacity model with high throughput and a fee market tha
 * **Fixed supply per second.** Bitcoin produces a block about every 10 minutes with up to 4 MWU. Ethereum produces a block every 12 seconds with up to 30 M gas plus up to 6 blobs. No extra supply appears even if more miners or validators join. More hardware raises security, not immediate throughput.
 * **Demand spikes.** NFT mints, airdrops, liquidations, and MEV bots cause bursts that fill blocks. When utilization hits the cap, the fee auction binds. Bitcoin fees are in sat/vB. Ethereum base fee rises up to 12.5 percent per block until demand cools. Blob base fee rises only when blob usage exceeds its separate target.
 * **Selection.** Validators and builders sort pending transactions by fee per weight or fee per gas and pack the most profitable set. That is why two transactions of the same byte size can pay very different fees if one uses copied witness data or does more computation.
-* **Evidence of trade-offs.** A 2025 SBFC paper that studies EIP-1559 on Ethereum finds that base fee predictability rose after the upgrade, but average fee and dispersion also rose in its sample, while transactions per block fell as blocks were dynamically sized. Other studies find different net effects depending on window. The point is measurable: mechanism design changes distribution of fees and inclusion, and data must be checked per period.
+* **Evidence of trade-offs.**A 2025 SBFC paper that studies EIP-1559 on Ethereum finds that base fee predictability rose after the upgrade, but average fee and dispersion also rose in its sample, while transactions per block fell as blocks were dynamically sized. Other studies find different net effects depending on window. The point is measurable: mechanism design changes distribution of fees and inclusion, and data must be checked per period.
 
-## Pros and cons
-
-**Pros:**
+## Pros and cons**Pros:**
 
 * **Clear scarcity gives predictable incentives.** Fees replace inflation as demand grows. Bitcoin's halving schedule explicitly relies on fee revenue to fund security as subsidy falls.
 * **Verifiable settlement.** Buying blockspace means your transaction is ordered by consensus and quickly becomes expensive to revert. That is different from off-chain promises.
 * **Flexible products.** You can now choose executed blockspace (EVM gas), data-availability blockspace (blobs), measured coretime (Polkadot), or isolated chain blockspace (Avalanche L1). Each has different cost, retention and security.
-* **Ecosystem reuse.** Layer 2 solutions compress many L2 transactions into one L1 blob or calldata batch. Rollups process thousands of user actions while using far less L1 blockspace per action than sending each one directly to L1.
-
-**Cons:**
+* **Ecosystem reuse.**Layer 2 solutions compress many L2 transactions into one L1 blob or calldata batch. Rollups process thousands of user actions while using far less L1 blockspace per action than sending each one directly to L1.**Cons:**
 
 * **Congestion pricing can exclude small users.** When blocks are full, a 5 dollar fee is trivial for a large trader but blocks a remittance. Timing and batching matter.
 * **Fragmentation.** Isolated blockspace splits liquidity, stablecoin supply and tooling. Moving value between L1s or rollups needs bridges or messaging such as Avalanche ICM with Teleporter or Ethereum blob verification flows, which add complexity and trust assumptions.
 * **New dimensions add complexity.** Separate blob fees, coretime markets and L1 fee balances are more to monitor. A Polkadot team must manage renewals and splits correctly to keep price caps. An Avalanche L1 team must fund its P-Chain balance or lose validators.
-* **Quality vs cost trade-off is real.** The cheapest blockspace is not always the most secure. A small L1 validator set or a new rollup sequencer has different liveness and reorg assumptions than Bitcoin or Ethereum mainnet. Check the actual economic security backing the blockspace you rent.
+* **Quality vs cost trade-off is real.**The cheapest blockspace is not always the most secure. A small L1 validator set or a new rollup sequencer has different liveness and reorg assumptions than Bitcoin or Ethereum mainnet. Check the actual economic security backing the blockspace you rent.
 
 ## How to use this
 
 ### If you are paying for transactions
 
-1. **Check utilization before you send.** Look at the block explorer or fee estimator. For Bitcoin, mempool.space shows vMB queued and fee tiers. For Ethereum, explorers and wallets show base fee, priority fee, and blob base fee. When utilization is low, you can use a lower tip.
-2. **Pick the right blockspace.** For an Ethereum rollup, see if the app uses blobs. Posting to a rollup that uses blobs will usually cost cents versus dollars on L1 directly. For a Polkadot app, see if it uses on-demand coretime for occasional writes.
-3. **Batch and compress.** Group transfers, use multisend, or move activity to a rollup or L1 where your transactions do not compete with global traffic.
-4. **Do not overpay tips blindly.** On Ethereum, raising the tip only helps you outbid others in the same block. If the base fee is high due to recent full blocks, you still pay that base fee regardless of tip.
+1.**Check utilization before you send.**Look at the block explorer or fee estimator. For Bitcoin, mempool.space shows vMB queued and fee tiers. For Ethereum, explorers and wallets show base fee, priority fee, and blob base fee. When utilization is low, you can use a lower tip.
+2.**Pick the right blockspace.**For an Ethereum rollup, see if the app uses blobs. Posting to a rollup that uses blobs will usually cost cents versus dollars on L1 directly. For a Polkadot app, see if it uses on-demand coretime for occasional writes.
+3.**Batch and compress.**Group transfers, use multisend, or move activity to a rollup or L1 where your transactions do not compete with global traffic.
+4.**Do not overpay tips blindly.**On Ethereum, raising the tip only helps you outbid others in the same block. If the base fee is high due to recent full blocks, you still pay that base fee regardless of tip.
 
 ### If you are building an app
 
-1. **Estimate honestly.** Measure gas per action on testnet with realistic data. On Ethereum, test both execution gas and blob gas costs. On Bitcoin, test vsize per transaction type. On Avalanche, set your L1 gas limit to match validator bandwidth.
-2. **Decide on isolation.** Start on a shared chain if you need immediate liquidity, wallets, and tooling. Move to an Avalanche L1, Polkadot coretime, or an Ethereum rollup when you need your own fee rules, token for gas, compliance controls, or predictable latency under your own load.
-3. **Plan for retention.** Blobs are available for about 18 days, not forever. If you need permanent data, pin to an indexing service or data availability layer. If you need long term state on Polkadot, budget for bulk coretime renewals. If you run an Avalanche L1, fund the P-Chain fee balance and monitor the validator manager contract.
-4. **Wire pricing into UX.** Show gas estimates in the user's currency, explain why a fee rose, and offer alternatives: wait for lower utilization, use lower priority, or switch to a layer with cheaper blockspace for that action.
+1.**Estimate honestly.**Measure gas per action on testnet with realistic data. On Ethereum, test both execution gas and blob gas costs. On Bitcoin, test vsize per transaction type. On Avalanche, set your L1 gas limit to match validator bandwidth.
+2.**Decide on isolation.**Start on a shared chain if you need immediate liquidity, wallets, and tooling. Move to an Avalanche L1, Polkadot coretime, or an Ethereum rollup when you need your own fee rules, token for gas, compliance controls, or predictable latency under your own load.
+3.**Plan for retention.**Blobs are available for about 18 days, not forever. If you need permanent data, pin to an indexing service or data availability layer. If you need long term state on Polkadot, budget for bulk coretime renewals. If you run an Avalanche L1, fund the P-Chain fee balance and monitor the validator manager contract.
+4.**Wire pricing into UX.**Show gas estimates in the user's currency, explain why a fee rose, and offer alternatives: wait for lower utilization, use lower priority, or switch to a layer with cheaper blockspace for that action.
 
-## FAQ
-
-**What is blockspace in one sentence?**
-Blockspace is the limited amount of data and computation a blockchain can include and finalize in each block, sold per unit of time to those who want their transactions settled.
-
-**Is blockspace the same on every chain?**
-No. Bitcoin measures it in weight units, Ethereum in gas plus blob gas, Polkadot in coretime that turns into blockspace, and Avalanche L1s define their own gas and fee rules. Do not compare fees across networks without adjusting for security and retention.
-
-**Why not just make blocks bigger?**
-Bigger blocks raise bandwidth, storage and validation cost for every node. That can raise the cost to run a full node and reduce decentralization. Bitcoin kept a conservative weight cap. Ethereum caps execution gas and uses a separate, pruned blob space for data. Polkadot scales by adding cores. Each approach trades throughput against node requirements differently.
-
-**What does EIP-1559 fix and what does it not fix?**
-It makes base fee changes predictable, with a 12.5 percent per block limit and a burn that offsets issuance, and it lets blocks expand to 30 M gas briefly when demand spikes. It does not add long term throughput and does not prevent fee spikes when demand stays above target for many consecutive blocks.
-
-**What do blobs change for Ethereum users?**
-Blobs give rollups a cheaper place to post batch data. After March 2024, rollups shifted from expensive calldata (16 gas per non-zero byte, 4 per zero byte) to blobs with a separate fee market. That lowered L2 fees sharply when blob supply was ample. When blob demand exceeds the 3 target per block, blob fees rise independently.
-
-**How does Polkadot coretime differ from renting a parachain slot?**
-Slots locked DOT for up to two years and gave a core every 12 seconds regardless of use. Coretime is bought for 28 days in bulk or per block on demand, can be split and resold, and offers a price-capped renewal if kept whole. It went live 19 September 2024.
-
-**How does Avalanche keep app traffic from spiking fees for everyone?**
-By isolation. Each Avalanche L1 has its own VM, gas token, fee config and validator set. A surge on one L1 does not compete for gas on another L1 or the C-Chain. After Etna, L1 validators pay about 1.33 AVAX per month per validator to the P-Chain instead of staking 2,000 AVAX on the Primary Network.
-
-**When should I use a rollup versus an Avalanche L1 versus Polkadot coretime?**
-Use a rollup if you want Ethereum security for settlement while posting data cheaper to blobs and inheriting Ethereum wallets and liquidity. Use an Avalanche L1 if you need a sovereign chain with your own gas token, fee burning rules, or permissioning. Use Polkadot coretime if you want shared security via the relay chain with explicit rental of execution cores that you can scale up on demand.
-
-**Where can I verify these numbers?**
+## FAQ**What is blockspace in one sentence?**Blockspace is the limited amount of data and computation a blockchain can include and finalize in each block, sold per unit of time to those who want their transactions settled.**Is blockspace the same on every chain?**No. Bitcoin measures it in weight units, Ethereum in gas plus blob gas, Polkadot in coretime that turns into blockspace, and Avalanche L1s define their own gas and fee rules. Do not compare fees across networks without adjusting for security and retention.**Why not just make blocks bigger?**Bigger blocks raise bandwidth, storage and validation cost for every node. That can raise the cost to run a full node and reduce decentralization. Bitcoin kept a conservative weight cap. Ethereum caps execution gas and uses a separate, pruned blob space for data. Polkadot scales by adding cores. Each approach trades throughput against node requirements differently.**What does EIP-1559 fix and what does it not fix?**It makes base fee changes predictable, with a 12.5 percent per block limit and a burn that offsets issuance, and it lets blocks expand to 30 M gas briefly when demand spikes. It does not add long term throughput and does not prevent fee spikes when demand stays above target for many consecutive blocks.**What do blobs change for Ethereum users?**Blobs give rollups a cheaper place to post batch data. After March 2024, rollups shifted from expensive calldata (16 gas per non-zero byte, 4 per zero byte) to blobs with a separate fee market. That lowered L2 fees sharply when blob supply was ample. When blob demand exceeds the 3 target per block, blob fees rise independently.**How does Polkadot coretime differ from renting a parachain slot?**Slots locked DOT for up to two years and gave a core every 12 seconds regardless of use. Coretime is bought for 28 days in bulk or per block on demand, can be split and resold, and offers a price-capped renewal if kept whole. It went live 19 September 2024.**How does Avalanche keep app traffic from spiking fees for everyone?**By isolation. Each Avalanche L1 has its own VM, gas token, fee config and validator set. A surge on one L1 does not compete for gas on another L1 or the C-Chain. After Etna, L1 validators pay about 1.33 AVAX per month per validator to the P-Chain instead of staking 2,000 AVAX on the Primary Network.**When should I use a rollup versus an Avalanche L1 versus Polkadot coretime?**Use a rollup if you want Ethereum security for settlement while posting data cheaper to blobs and inheriting Ethereum wallets and liquidity. Use an Avalanche L1 if you need a sovereign chain with your own gas token, fee burning rules, or permissioning. Use Polkadot coretime if you want shared security via the relay chain with explicit rental of execution cores that you can scale up on demand.**Where can I verify these numbers?**
 Bitcoin weight and limits on en.bitcoin.it wiki and Bitcoin Core source. Ethereum gas and fee history on ethereum.org developers docs, EIP-1559 and EIP-4844 at eips.ethereum.org, and blob details on the Vitalik Buterin blog. Polkadot coretime on docs.polkadot.com and wiki.polkadot.com. Avalanche L1 fees and Etna details at build.avax.network and support.avax.network.
 
 ## Verifiable Primary Sources & References
