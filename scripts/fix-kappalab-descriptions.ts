@@ -37,6 +37,13 @@ const quantTraderHtml = `<div>
 <p>&nbsp;</p>
 <h3>Location and Working Style:</h3>
 <p>We have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.</p>
+<p>&nbsp;</p>
+<h3>Application process:</h3>
+<p>Please submit your CV and a brief cover letter telling us about the below:</p>
+<p>1. What is your personal interest in trading and/or betting? Please include any relevant experience, especially with crypto.</p>
+<p>2. What software have you written yourself? Tell us about projects you have built or would like to build (can be personal or professional).</p>
+<p>&nbsp;</p>
+<p><i>Kappa Lab is an equal opportunities employer committed to creating an inclusive and diverse workplace. We welcome applications from all individuals and do not discriminate based on race, colour, nationality, ethnicity, religion or belief, sex, sexual orientation, gender identity or expression, marital status, pregnancy or maternity, disability, or age.</i></p>
 </div>`;
 
 const bdManagerHtml = `<div>
@@ -70,6 +77,8 @@ const bdManagerHtml = `<div>
 </ul>
 <h3>Location & Working Style</h3>
 <p>We have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.</p>
+<p>&nbsp;</p>
+<p><i>Kappa Lab is an equal opportunities employer committed to creating an inclusive and diverse workplace. We welcome applications from all individuals and do not discriminate on the basis of race, color, nationality, ethnicity, religion or belief, sex, sexual orientation, gender identity or expression, marital status, pregnancy or maternity, disability, or age. We value and respect the unique contributions each person brings and strive to ensure everyone can thrive and grow in our organization.</i></p>
 </div>`;
 
 function fixDescriptions() {
