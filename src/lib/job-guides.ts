@@ -232,7 +232,6 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   const teamLine = department && !isDeptSameAsCompany ? ` in ${escapeHtml(department)}` : '';
 
   let html = '<div class="space-y-6">';
-  html += `<p>${escapeHtml(job.company)} is hiring a ${escapeHtml(job.title)}${teamLine} (${escapeHtml(location)}).</p>`;
 
   let currentListOpen = false;
   let isAboutSection = false;
