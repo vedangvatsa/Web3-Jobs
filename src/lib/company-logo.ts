@@ -24,6 +24,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'delta-exchange': 'delta-exchange',
   'coindcx': 'coindcx',
   'coin-dcx': 'coindcx',
+  'aztec-labs-privacy-l2': 'aztec',
+  'aztec-labs': 'aztec',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
