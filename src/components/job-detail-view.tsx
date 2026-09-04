@@ -153,7 +153,7 @@ export function JobDetailView({
         <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
           <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-lg border bg-background p-2">
             <CompanyLogo
-              logoSrc={logoSrc}
+              logoSrc={faviconUrl ?? logoSrc}
               faviconUrl={faviconUrl}
               name={job.company}
               size="h-full w-full"
