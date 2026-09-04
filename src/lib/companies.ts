@@ -92,8 +92,6 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'injective': 'https://injective.com',
  'loco': 'https://loco.gg',
  'merkle-trade': 'https://merkle.trade',
- 'nftbank-ai': 'https://nftbank.ai',
- 'nftbank': 'https://nftbank.ai',
  'oneplanet': 'https://oneplanetnft.io',
  'subzero-labs': 'https://subzerolabs.org',
  'taiko-labs': 'https://taiko.xyz',
