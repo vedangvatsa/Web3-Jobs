@@ -69,6 +69,20 @@ function sanitizeCompanyDomain(url: URL): string {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'block': 'https://block.xyz',
+ 'a16z': 'https://a16z.com',
+ 'a16z-crypto': 'https://a16zcrypto.com',
+ 'zama': 'https://zama.ai',
+ 'tether': 'https://tether.to',
+ 'etoro': 'https://etoro.com',
+ 'streamingfast': 'https://streamingfast.io',
+ 'etherscan': 'https://etherscan.io',
+ 'plume-network': 'https://plumenetwork.xyz',
+ 'caladan': 'https://caladan.com',
+ 'ethereum-institutional': 'https://ethereuminstitutional.org',
+ 'openzeppelin': 'https://openzeppelin.com',
+ 'ripple': 'https://ripple.com',
+ 'complyadvantage': 'https://complyadvantage.com',
  'foundation': 'https://buildwithfoundation.com',
  'jejememe': 'https://jejememe.com',
  'hyperithm': 'https://hyperithm.jp',
