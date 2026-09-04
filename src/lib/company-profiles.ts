@@ -5,6 +5,16 @@
  */
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
+  "berachain": `Berachain is an EVM-compatible Layer 1 blockchain built on Cosmos SDK and powered by Proof-of-Liquidity consensus. Berachain rearchitects blockchain security and liquidity incentives, creating a capital-efficient network for decentralized finance applications.`,
+  "cyber": `Cyber (CyberConnect) is a Web3 social network and L2 blockchain designed for social applications, enabling users to own their digital identity, content, and social graph connections across open protocols.`,
+  "hyperithm": `Hyperithm is a digital asset financial services group based in Tokyo and Seoul, providing quantitative trading, asset management, and venture investment across Web3 markets.`,
+  "injective-labs": `Injective Labs is the core developer of Injective, a high-performance Layer 1 blockchain optimized for building decentralized finance applications, spot and derivatives exchanges, and prediction markets.`,
+  "merkle-trade": `Merkle Trade is a decentralized gamified perpetual exchange built on Aptos, offering high-leverage crypto and forex trading with low latency and deep liquidity.`,
+  "nftbank-ai": `NFTBank is an AI-powered NFT portfolio management and valuation platform, providing accurate real-time price estimation and portfolio tracking for digital assets.`,
+  "taiko-labs": `Taiko Labs is building Taiko, a fully decentralized, Ethereum-equivalent ZK-Rollup (Type 1 ZK-EVM) designed to scale Ethereum without technical or security compromises.`,
+  "covalent": `Covalent is a modular data infrastructure layer providing unified API access to multi-chain granular data across 100+ blockchains.`,
+  "halliday": `Halliday is a Web3 commerce and gaming payment infrastructure protocol, enabling seamless onboarding and programmable player financing.`,
+  "subzero-labs": `Subzero Labs is a Web3 protocol developer building high-throughput infrastructure and decentralized applications.`,
   "dune": `Dune (formerly Dune Analytics) is the leading web3 data platform, turning raw on-chain data into actionable metrics, public dashboards, and SQL analytics across 30+ EVM, Solana, and Layer 2 blockchains. Founded in Oslo and backed by Coatue, Dragonfly, and Union Square Ventures, Dune empowers crypto researchers, protocols, and analysts to query, visualize, and share real-time blockchain insights.`,
   "dune-analytics": `Dune (formerly Dune Analytics) is the leading web3 data platform, turning raw on-chain data into actionable metrics, public dashboards, and SQL analytics across 30+ EVM, Solana, and Layer 2 blockchains. Founded in Oslo and backed by Coatue, Dragonfly, and Union Square Ventures, Dune empowers crypto researchers, protocols, and analysts to query, visualize, and share real-time blockchain insights.`,
   "dr-now": `Dr. Now (DoctorNow) is Korea's leading digital healthcare platform and medical technology company. Dr. Now provides remote telemedicine consultations, digital prescription management, and healthcare solutions connecting patients with medical providers across Korea. The company is actively building next-generation digital health infrastructure and AI-driven medical solutions.`,
