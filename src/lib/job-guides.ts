@@ -9,6 +9,24 @@ export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug } from './job-slugs';
 
 const DESCRIPTIONS_CACHE_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
+const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
+
+let legacyArchiveCache: Record<string, { id?: string; link?: string; company?: string; title?: string }> | null = null;
+
+function loadLegacyArchive(): Record<string, { id?: string; link?: string; company?: string; title?: string }> {
+  if (legacyArchiveCache !== null) return legacyArchiveCache;
+  try {
+    if (fs.existsSync(LEGACY_ARCHIVE_PATH)) {
+      const raw = fs.readFileSync(LEGACY_ARCHIVE_PATH, 'utf-8');
+      legacyArchiveCache = JSON.parse(raw);
+      return legacyArchiveCache!;
+    }
+  } catch (err) {
+    console.error('[legacy-slugs-archive] Failed to read archive:', err);
+  }
+  legacyArchiveCache = {};
+  return legacyArchiveCache;
+}
 
 // In-memory cache of fetched job descriptions — loaded once per process lifetime.
 // The 43MB file is only parsed once; subsequent calls return the cached object.
@@ -346,7 +364,24 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   );
   if (matchById) return matchById;
 
-  // 4. Backward compat: old hash slugs like frontend-0vo6wm4 (from previous dash-hash scheme)
+  // 4. Backward compat: check legacy slugs archive (covers past Telegram links and pruned jobs)
+  const legacyMap = loadLegacyArchive();
+  const archived = legacyMap[cleanSlug];
+  if (archived) {
+    // Return a valid Job object reconstructed from the archived record
+    return {
+      id: archived.id || cleanSlug,
+      title: archived.title || 'Web3 Opportunity',
+      company: archived.company || 'Web3 Company',
+      link: archived.link || 'https://hashtagweb3.com/jobs',
+      date: '2026-08-01',
+      source: 'Archive',
+      slug: cleanSlug,
+      active: false,
+    };
+  }
+
+  // 5. Backward compat: old hash slugs like frontend-0vo6wm4 (from previous dash-hash scheme)
   const dashIdx = cleanSlug.lastIndexOf('-');
   if (dashIdx !== -1) {
     const hashPart = cleanSlug.slice(dashIdx + 1);
