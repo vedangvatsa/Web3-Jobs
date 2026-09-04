@@ -1,5 +1,13 @@
 [
   {
+    "slug": "where-b2b-stablecoin-money-actually-flows",
+    "title": "Where B2B Stablecoin Money Actually Flows: A Corridor Map for Cross-Border Business Banking",
+    "description": "An investigative research thesis mapping where the $226B B2B stablecoin settlement volume actually flows, dissecting corridor economics, infrastructure bottlenecks, and fintech disruption.",
+    "category": "Industry Insights",
+    "publishedDate": "2026-09-04",
+    "image": "/images/articles/b2b-stablecoins/chart1.jpg"
+  },
+  {
     "slug": "best-smart-contract-ide-for-beginners",
     "title": "Best Smart Contract IDE for Beginners in 2026",
     "description": "The best IDEs and tools for writing smart contracts as a beginner. Compare Remix, Hardhat, Foundry, and VS Code extensions with setup guides.",
@@ -30,13 +38,5 @@
     "category": "Industry Insights",
     "publishedDate": "2026-03-11",
     "image": "https://images.unsplash.com/photo-1665597704311-d7304eaf70ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWIzfGVufDB8fHx8MTc1ODE4MTYyNXww&ixlib=rb-4.1.0&q=80&w=1080"
-  },
-  {
-    "slug": "10-big-ideas-in-web3-for-2026",
-    "title": "10 Big Ideas Shaping Web3 in 2026",
-    "description": "Explore the top 10 Web3 trends shaping 2026, including AI agents with wallets, DePIN growth, real world asset tokenization, and account abstraction.",
-    "category": "Industry Insights",
-    "publishedDate": "2026-03-11",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=10%20Big%20Ideas%20Shaping%20Web3%20in%202026&category=Industry%20Insights"
   }
 ]
