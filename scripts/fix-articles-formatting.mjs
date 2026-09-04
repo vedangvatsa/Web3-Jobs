@@ -38,6 +38,7 @@ function fixFormattingInContent(content) {
   }
 
   // 2. Fix invalid bold spacing: ** text** or **text ** or ** text ** -> **text**
+  body = body.replace(/\*\*([^:*]+?):\s+\*\*/g, '**$1**:');
   body = body.replace(/\*\*\s+([^*]+?)\s+\*\*/g, '**$1**');
   body = body.replace(/\*\*\s+([^*]+?)\*\*/g, '**$1**');
   body = body.replace(/\*\*([^*]+?)\s+\*\*/g, '**$1**');
