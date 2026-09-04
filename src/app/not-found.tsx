@@ -1,12 +1,10 @@
 import Link from 'next/link';
-import { Briefcase } from 'lucide-react';
 
 export default function NotFound() {
  return (
   <div className="flex flex-col min-h-screen">
    <main className="flex-1 flex items-center justify-center">
     <div className="text-center px-4 py-16 max-w-md mx-auto">
-     <Briefcase className="mx-auto h-16 w-16 text-muted-foreground opacity-50 mb-6" />
      <h1 className="text-4xl font-bold tracking-tight text-foreground mb-4">
       404 - Page Not Found
      </h1>
