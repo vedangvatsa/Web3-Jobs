@@ -14,16 +14,16 @@ Web3 hiring does not live in one place. Founders post on X before they post on L
 
 I hire and place in Web3. I check these seven channels every week. This guide explains what each one is, who it fits, and how to get results from it. Numbers are qualified as of late August 2026 because counts change weekly.
 
-## 1. Hashtag Web3 Jobs - hashtagweb3.com/jobs
+## 1. Hashtag Web3
 
-**Website:** [hashtagweb3.com/jobs](https://hashtagweb3.com/jobs)
+**Website:** [hashtagweb3.com](https://hashtagweb3.com)
 
 **What it is:** A curated Web3 job board that aggregates verified postings from protocols, DeFi teams, and DAOs. Site docs list 3,000+ verified active postings and a directory of 150+ hiring companies as of 2026. Each posting has a dedicated page with role details, compensation benchmarks, and a direct apply link. There is also a live Telegram feed at t.me/web3hiring that pushes new roles as they post.
 
 **Who it is for:** Generalists and specialists who want filtered, recent roles. Good for engineering, product, marketing, community, design, legal, and operations. Works for entry to senior levels because listings include clear seniority tags.
 
 **How to use it:**
-- Start at [hashtagweb3.com/jobs](https://hashtagweb3.com/jobs). Use search filters for keyword, tag, and company. Example: search `Solidity`, tag `Ethereum`, company `Uniswap Labs`. API docs show the same params: `GET https://hashtagweb3.com/api/v1/jobs?search=Solidity&tag=Ethereum&limit=50`.
+- Start at [hashtagweb3.com](https://hashtagweb3.com). Use search filters for keyword, tag, and company. Example: search `Solidity`, tag `Ethereum`, company `Uniswap Labs`. API docs show the same params: `GET https://hashtagweb3.com/api/v1/jobs?search=Solidity&tag=Ethereum&limit=50`.
 - Join the Telegram feed for alerts. You see new posts in real time instead of checking the site twice a day.
 - Open a role page and use the salary calculator and interview question bank linked from the job to prep before you apply.
 
