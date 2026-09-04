@@ -26,7 +26,7 @@
   ],
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/ingest-mercuryo-bamboo.ts 2>/dev/null || true && npx tsx scripts/ingest-coindcx-official.ts 2>/dev/null || true && npx tsx scripts/ingest-regional-feeds.ts 2>/dev/null || true && npx tsx scripts/ingest-global-ecosystem-feeds.ts 2>/dev/null || true && npx tsx scripts/ingest-untracked-web3-companies.ts 2>/dev/null || true && npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true",
+    "prebuild": "npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true",
     "ingest:mercuryo": "npx tsx scripts/ingest-mercuryo-bamboo.ts",
     "ingest:coindcx": "npx tsx scripts/ingest-coindcx-official.ts",
     "ingest:regional": "npx tsx scripts/ingest-regional-feeds.ts",
