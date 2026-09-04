@@ -65,7 +65,7 @@ function withUtm(url, params) {
 }
 
 // ── Pick random jobs ──
-function pickJobs(count) {
+async function pickJobs(count) {
   const cachePath = path.join(path.dirname(new URL(import.meta.url).pathname), '../content/jobs-cache.json');
   let jobs;
   try {
@@ -104,24 +104,57 @@ function pickJobs(count) {
   
   // Shuffle final order
   selected.sort(() => Math.random() - 0.5);
-  
-  // Mark as posted
-  for (const j of selected) posted.add(j.id || j.link);
-  savePosted(posted);
-  
-  return selected.map(j => {
-    // If we have a page for this job on hashtagweb3.com, use it; otherwise use original link.
-    // Jobs in jobs-cache.json are exactly the jobs we have pages for.
-    const hasPage = Boolean(j.slug);
-    const url = hasPage
-      ? withUtm(`https://hashtagweb3.com/${j.slug}`, { utm_source: 'telegram', utm_medium: 'social', utm_campaign: 'web3hiring' })
-      : withUtm(j.link, { utm_source: 'hashtagweb3', utm_medium: 'telegram', utm_campaign: 'web3hiring' });
-    return {
-      url,
+
+  const results = [];
+  for (const j of selected) {
+    let chosenUrl = null;
+
+    if (j.slug) {
+      const siteUrl = `https://hashtagweb3.com/${j.slug}`;
+      const isLive = await verifyJobUrlLive(siteUrl);
+      if (isLive) {
+        chosenUrl = withUtm(siteUrl, { utm_source: 'telegram', utm_medium: 'social', utm_campaign: 'web3hiring' });
+      } else {
+        console.warn(`⚠️ [404-check] Page https://hashtagweb3.com/${j.slug} returned 404 on live site. Falling back to direct ATS application link for ${j.company}.`);
+      }
+    }
+
+    // If no slug or hashtagweb3 page returns 404, fall back to direct employer application link
+    if (!chosenUrl && j.link) {
+      chosenUrl = withUtm(j.link, { utm_source: 'hashtagweb3', utm_medium: 'telegram', utm_campaign: 'web3hiring' });
+    }
+
+    if (!chosenUrl) continue;
+
+    posted.add(j.id || j.link);
+    results.push({
+      url: chosenUrl,
       company: fixCompanyName((j.company || '').trim()),
       title: truncateTitle((j.title || '').trim()),
-    };
-  });
+    });
+  }
+
+  savePosted(posted);
+  return results;
+}
+
+// ── Live HTTP verification to guarantee 0% 404 links on Telegram ──
+async function verifyJobUrlLive(targetUrl) {
+  try {
+    const urlObj = new URL(targetUrl);
+    const cleanUrl = `${urlObj.origin}${urlObj.pathname}`;
+    const res = await fetch(cleanUrl, {
+      method: 'HEAD',
+      headers: {
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+      },
+      redirect: 'follow',
+      signal: AbortSignal.timeout(4000),
+    });
+    return res.ok && res.status < 400;
+  } catch (err) {
+    return false;
+  }
 }
 
 // ── Shorten long titles: drop qualifiers after , or - or ( ──
@@ -331,7 +364,7 @@ async function postOnce() {
     }
   } catch {}
 
-  const jobs = pickJobs(JOBS_PER_POST);
+  const jobs = await pickJobs(JOBS_PER_POST);
   const message = formatMessage(jobs);
   
   if (process.argv.includes('--dry-run')) {
