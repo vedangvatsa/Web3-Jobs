@@ -582,7 +582,10 @@ async function main(): Promise<void> {
   const sitemapJobUrls = new Set(
     sitemapEntries
       .map((entry) => canonicalizeUrl(entry.url))
-      .filter((url) => url.startsWith(`${SITE_URL}/jobs/`)),
+      .filter((url) => {
+        const pathOnly = url.replace(SITE_URL, '').replace(/^\//, '');
+        return !pathOnly.includes('/') && pathOnly.length > 0;
+      }),
   );
   const substantialJobUrls = new Set(
     jobs
@@ -593,7 +596,7 @@ async function main(): Promise<void> {
         return text.length >= 300
           && !FABRICATED_JOB_MARKERS.some((marker) => lowerText.includes(marker.toLowerCase()));
       })
-      .map((job) => `${SITE_URL}/jobs/${getJobSlug(job)}`),
+      .map((job) => `${SITE_URL}/${getJobSlug(job)}`),
   );
   const substantialMissingFromSitemap = [...substantialJobUrls]
     .filter((url) => !sitemapJobUrls.has(url))
