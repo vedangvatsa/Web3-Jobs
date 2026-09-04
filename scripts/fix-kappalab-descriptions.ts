@@ -49,25 +49,20 @@ const quantTraderHtml = `<div>
 const bdManagerHtml = `<div>
 <h3>Company Description</h3>
 <p>Kappa Lab is a digital assets market maker committed to delivering 24/7 deep liquidity and enhancing market efficiency.</p>
+<p>&nbsp;</p>
 <h3>Role Overview</h3>
 <p>As a Business Development Manager (BDM), your core responsibilities include generating qualified leads and forging strong partnerships within exchanges, projects, web3 builders and institutional partners. We also expect you to manage and enhance existing relationships, expanding our business footprint with partners.</p>
+<p>&nbsp;</p>
 <h3>Responsibilities</h3>
 <ul>
-<li>Build and manage your own pipeline of leads and business opportunities.
-  <ul>
-    <li>Keeping track of industry and DeFi trends, key launches</li>
-    <li>Assess on-chain/DeFi business opportunities</li>
-  </ul>
-</li>
+<li>Build and manage your own pipeline of leads and business opportunities (keeping track of industry and DeFi trends, key launches, and assessing on-chain/DeFi business opportunities).</li>
 <li>Provide detailed analysis on these opportunities - this could be a new exchange deal or market opportunity.</li>
-<li>Develop existing partnerships by understanding partners' needs and devising effective solutions.
-  <ul>
-    <li>Relay partners' needs to the team to facilitate collaborative solution development.</li>
-    <li>Design and discuss product solutions that cater to market demands.</li>
-  </ul>
-</li>
+<li>Develop existing partnerships by understanding partners' needs and devising effective solutions.</li>
+<li>Relay partners' needs to the team to facilitate collaborative solution development.</li>
+<li>Design and discuss product solutions that cater to market demands.</li>
 <li>Expand your professional network by attending industry events and conferences.</li>
 </ul>
+<p>&nbsp;</p>
 <h3>Qualifications</h3>
 <ul>
 <li>Crypto/Web3 native - with a strong interest and understanding of DeFi</li>
@@ -75,7 +70,8 @@ const bdManagerHtml = `<div>
 <li>Strong follow-up discipline and ownership of next steps</li>
 <li>Seniority is flexible. We value crypto-native curiosity, commercial instinct, and strong ownership, and are open to shaping the role around the right candidate.</li>
 </ul>
-<h3>Location & Working Style</h3>
+<p>&nbsp;</p>
+<h3>Location &amp; Working Style</h3>
 <p>We have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.</p>
 <p>&nbsp;</p>
 <p><i>Kappa Lab is an equal opportunities employer committed to creating an inclusive and diverse workplace. We welcome applications from all individuals and do not discriminate on the basis of race, color, nationality, ethnicity, religion or belief, sex, sexual orientation, gender identity or expression, marital status, pregnancy or maternity, disability, or age. We value and respect the unique contributions each person brings and strive to ensure everyone can thrive and grow in our organization.</i></p>
