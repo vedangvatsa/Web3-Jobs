@@ -6,7 +6,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: man portrait
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Marc Andreessen on Web3: The Internet's Next Evolution
 
@@ -18,17 +18,7 @@ Andreessen sees Web3 as a solution to these issues. By using [blockchain](/what-
 
 ### Key Views and Philosophies
 
-**1. A Return to the Internet's Decentralized Roots** 
-Andreessen often references the original vision of the internet as an open, permissionless network. He believes Web3 fulfills this promise by steering away from the centralized, walled gardens characteristic of Web2. Decentralization, in his view, is not merely a technical feature, but a vital social and economic principle that prevents single points of control and failure.
-
-**2. Better Economics for Creators** 
-Helping creators is central to Andreessen's Web3 thesis. In Web2, platforms often take a large portion of revenue, exemplified by Apple's App Store fee. Web3 introduces [smart contracts](/what-are-smart-contracts), allowing creators to retain a more significant share of the value they generate. For instance, [NFTs](/what-are-nfts) enable artists to sell their work directly and earn royalties on future sales, a concept challenging to enforce in traditional art markets.
-
-**3. The Power of Trust and Composability** 
-Andreessen highlights that blockchains offer a "trust layer" for the internet. A shared, immutable ledger allows developers to build applications that can interoperate without needing mutual trust. This concept, known as composability or "money legos," encourages rapid innovation, enabling developers to create new applications by combining existing protocols in new ways, similar to stacking Lego bricks.
-
-**4. Not Just Finance, But a New Computing Model** 
-Although [DeFi](/what-is-defi) emerged as the first significant use case, a16z and Andreessen recognize that Web3's potential extends well beyond finance. The firm has invested in Web3 gaming, social media, decentralized infrastructure, and other sectors. The primary idea is that any digital service relying on a trusted intermediary can be rebuilt on a decentralized, user-owned foundation.
+**1. A Return to the Internet's Decentralized Roots**Andreessen often references the original vision of the internet as an open, permissionless network. He believes Web3 fulfills this promise by steering away from the centralized, walled gardens characteristic of Web2. Decentralization, in his view, is not merely a technical feature, but a vital social and economic principle that prevents single points of control and failure.**2. Better Economics for Creators**Helping creators is central to Andreessen's Web3 thesis. In Web2, platforms often take a large portion of revenue, exemplified by Apple's App Store fee. Web3 introduces [smart contracts](/what-are-smart-contracts), allowing creators to retain a more significant share of the value they generate. For instance, [NFTs](/what-are-nfts) enable artists to sell their work directly and earn royalties on future sales, a concept challenging to enforce in traditional art markets.**3. The Power of Trust and Composability**Andreessen highlights that blockchains offer a "trust layer" for the internet. A shared, immutable ledger allows developers to build applications that can interoperate without needing mutual trust. This concept, known as composability or "money legos," encourages rapid innovation, enabling developers to create new applications by combining existing protocols in new ways, similar to stacking Lego bricks.**4. Not Just Finance, But a New Computing Model**Although [DeFi](/what-is-defi) emerged as the first significant use case, a16z and Andreessen recognize that Web3's potential extends well beyond finance. The firm has invested in Web3 gaming, social media, decentralized infrastructure, and other sectors. The primary idea is that any digital service relying on a trusted intermediary can be rebuilt on a decentralized, user-owned foundation.
 
 ### Notable Quotes
 
@@ -53,15 +43,7 @@ Andreessen Horowitz, under Andreessen's leadership and crypto lead Chris Dixon's
 
 ### Controversies and Criticisms
 
-Andreessen's strong support for Web3 has faced scrutiny.
-
-**Venture Capital Centralization** 
-Critics claim that large VC firms like a16z inadvertently reintroduce a form of centralization. By holding substantial stakes in major protocols, these firms could significantly influence governance, potentially undermining the ideal of pure decentralization.
-
-**"Pump and Dump" Accusations** 
-Some skeptics view the VC-led approach in Web3 as a sophisticated "pump and dump" scheme, where firms inflate token values through influence and capital before exiting, leaving retail investors at a loss.
-
-**Ignoring the Flaws** 
+Andreessen's strong support for Web3 has faced scrutiny.**Venture Capital Centralization**Critics claim that large VC firms like a16z inadvertently reintroduce a form of centralization. By holding substantial stakes in major protocols, these firms could significantly influence governance, potentially undermining the ideal of pure decentralization.**"Pump and Dump" Accusations**Some skeptics view the VC-led approach in Web3 as a sophisticated "pump and dump" scheme, where firms inflate token values through influence and capital before exiting, leaving retail investors at a loss.**Ignoring the Flaws** 
 Andreessen has faced criticism for his overly optimistic outlook and dismissal of valid concerns about Web3's scalability, user experience, and environmental impact. Although Ethereum's shift to Proof-of-[Stake](/how-to-become-a-web3-staking-specialist) has addressed some environmental issues, his tendency to block critics on social media has drawn attention.
 
 ### Future Outlook

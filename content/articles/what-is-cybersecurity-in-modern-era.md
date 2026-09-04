@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: cyber security
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Cybersecurity involves protecting computer systems, networks, and data from digital threats, damage, or unauthorized access. In our interconnected society, where personal information and critical infrastructure are online, cybersecurity has evolved into an important component of personal, corporate, and national security.
 
@@ -21,9 +21,9 @@ The foundational principles of information security are encapsulated in the "CIA
 
 1. **Confidentiality**: This principle ensures that data is accessible only to authorized users. Maintaining confidentiality involves keeping sensitive information secure. Encryption is a primary method to protect confidentiality, transforming data into an unreadable format. Only individuals with the correct key can decrypt this data.
 
-2. **Integrity**: Integrity guarantees that data remains trustworthy and unaltered by unauthorized entities. Hashing is frequently employed to verify data integrity. A hash function generates a unique digital fingerprint of a piece of data. Even the slightest alteration in the data results in a completely different hash, enabling easy detection of modifications.
+2.**Integrity**: Integrity guarantees that data remains trustworthy and unaltered by unauthorized entities. Hashing is frequently employed to verify data integrity. A hash function generates a unique digital fingerprint of a piece of data. Even the slightest alteration in the data results in a completely different hash, enabling easy detection of modifications.
 
-3. **Availability**: Availability ensures that systems and data are accessible to authorized users when needed. Attacks targeting availability, such as Distributed Denial of Service (DDoS) attacks, aim to overwhelm systems with excessive traffic, rendering them unresponsive. Defending against these attacks involves creating resilient, redundant systems and employing traffic filtering services.
+3.**Availability**: Availability ensures that systems and data are accessible to authorized users when needed. Attacks targeting availability, such as Distributed Denial of Service (DDoS) attacks, aim to overwhelm systems with excessive traffic, rendering them unresponsive. Defending against these attacks involves creating resilient, redundant systems and employing traffic filtering services.
 
 ### Common Types of Cyber Threats
 
@@ -31,10 +31,10 @@ Recognizing common attack vectors is essential for establishing a strong defense
 
 | Type of Threat | Description | Potential Impact |
 |-------------------------|---------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
-| **Malware** | Malicious software like viruses, worms, trojans, and spyware designed to disrupt or steal data. | Can lead to data breaches, operational disruptions, or unauthorized access. |
-| **Phishing** | Social engineering tactics to deceive users into revealing sensitive information. | Can result in identity theft and financial loss. |
-| **Ransomware** | Malware that encrypts files and demands ransom, often in cryptocurrency, for decryption. | Can cripple businesses, schools, and hospitals, leading to significant losses. |
-| **Denial of Service (DoS)** | Attacks aimed at making systems or resources unavailable to users. | Can cause significant downtime and loss of services. |
+|**Malware**| Malicious software like viruses, worms, trojans, and spyware designed to disrupt or steal data. | Can lead to data breaches, operational disruptions, or unauthorized access. |
+|**Phishing**| Social engineering tactics to deceive users into revealing sensitive information. | Can result in identity theft and financial loss. |
+|**Ransomware**| Malware that encrypts files and demands ransom, often in cryptocurrency, for decryption. | Can cripple businesses, schools, and hospitals, leading to significant losses. |
+|**Denial of Service (DoS)** | Attacks aimed at making systems or resources unavailable to users. | Can cause significant downtime and loss of services. |
 
 ### Defense in Depth
 
@@ -56,15 +56,7 @@ Building a strong security culture is important. Employees must understand their
 
 In our current environment, cybersecurity is an ongoing process of adaptation. As technology advances, so do the threats. Ensuring security requires constant vigilance, a multi-layered approach, and a recognition that everyone plays a part in the defense.
 
-### Frequently Asked Questions (FAQs)
-
-**1. What is the single most important action to protect myself online?** 
-Using a password manager to generate strong, unique passwords for each of your online accounts is essential. enabling two-factor authentication (2FA) wherever available significantly enhances security. This combination makes it considerably more challenging for attackers to access your accounts, even if one password is compromised.
-
-**2. Is public Wi-Fi safe for use?** 
-Public Wi-Fi networks, often found in coffee shops or airports, typically lack security. An attacker on the same network could intercept your traffic. If you must use public Wi-Fi, using a Virtual Private Network (VPN) is highly advisable. A VPN encrypts your internet traffic, creating a secure tunnel between your device and the internet.
-
-**3. How can I determine if I've been a victim of a data breach?** 
+### Frequently Asked Questions (FAQs)**1. What is the single most important action to protect myself online?**Using a password manager to generate strong, unique passwords for each of your online accounts is essential. enabling two-factor authentication (2FA) wherever available significantly enhances security. This combination makes it considerably more challenging for attackers to access your accounts, even if one password is compromised.**2. Is public Wi-Fi safe for use?**Public Wi-Fi networks, often found in coffee shops or airports, typically lack security. An attacker on the same network could intercept your traffic. If you must use public Wi-Fi, using a Virtual Private Network (VPN) is highly advisable. A VPN encrypts your internet traffic, creating a secure tunnel between your device and the internet.**3. How can I determine if I've been a victim of a data breach?** 
 The website "Have I Been Pwned?" (haveibeenpwned.com) is a reliable tool for checking if your email address has appeared in known data breaches. If it has, promptly change the password for that account and any other accounts using the same password.
 
 ## Verifiable Primary Sources & References

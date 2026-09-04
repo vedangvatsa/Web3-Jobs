@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: liquidity provider
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## What is a Liquidity Provider (LP) Token?
 
@@ -21,19 +21,19 @@ This article explains what LP tokens are, how you acquire them, their primary fu
 
 | Feature | Description |
 |-----------------------------|------------------------------------------------------------------------------------------------------|
-| **Nature of LP Tokens** | LP tokens are a specific type of ERC-20 token received upon depositing assets into a liquidity pool. |
-| **Ownership Representation**| The quantity of LP tokens you possess signifies your ownership percentage of total assets in the pool.|
-| **Fee Entitlement** | Holding LP tokens grants you a share of the trading fees generated, proportional to your ownership stake. |
-| **Yield Farming Tool** | LP tokens can be staked in various "farms" to earn additional token rewards, enhancing your yield. |
-| **Impermanent Loss Risk** | The primary risk associated with LP tokens is impermanent loss, which arises from price fluctuations of the assets in the pool. |
+| **Nature of LP Tokens**| LP tokens are a specific type of ERC-20 token received upon depositing assets into a liquidity pool. |
+|**Ownership Representation**| The quantity of LP tokens you possess signifies your ownership percentage of total assets in the pool.|
+|**Fee Entitlement**| Holding LP tokens grants you a share of the trading fees generated, proportional to your ownership stake. |
+|**Yield Farming Tool**| LP tokens can be staked in various "farms" to earn additional token rewards, enhancing your yield. |
+|**Impermanent Loss Risk**| The primary risk associated with LP tokens is impermanent loss, which arises from price fluctuations of the assets in the pool. |
 
 ### How to Get LP Tokens: Providing Liquidity
 
 Acquiring LP tokens involves a straightforward process:
 
-1. **Select a Pool**: Choose a liquidity pool on a DEX, such as the ETH/USDC pool on Uniswap.
-2. **Deposit Assets**: You must deposit an equal value of both assets into the pool. For instance, if 1 ETH is valued at a significant amount, you would deposit 1 ETH and the equivalent value in USDC.
-3. **Receive LP Tokens**: After your deposit, the DEX's [smart contract](/what-are-smart-contracts) mints and transfers LP tokens to you. The tokens typically reflect the pool's name, for example, UNI-V2 ETH/USDC.
+1.**Select a Pool**: Choose a liquidity pool on a DEX, such as the ETH/USDC pool on Uniswap.
+2.**Deposit Assets**: You must deposit an equal value of both assets into the pool. For instance, if 1 ETH is valued at a significant amount, you would deposit 1 ETH and the equivalent value in USDC.
+3.**Receive LP Tokens**: After your deposit, the DEX's [smart contract](/what-are-smart-contracts) mints and transfers LP tokens to you. The tokens typically reflect the pool's name, for example, UNI-V2 ETH/USDC.
 
 The number of LP tokens you receive is proportional to your contribution relative to the total liquidity in the pool. If you add 1% of the total liquidity, you'll hold 1% of the LP tokens.
 
@@ -47,11 +47,7 @@ Upon withdrawal, you receive your proportional share of the two assets in the po
 
 #### 2. Yield Farming
 
-LP tokens become valuable tools for yield farming. Many DeFi protocols seek to attract liquidity and offer incentives through yield farms.
-
-**The Process:**
-
-1. You provide liquidity to a DEX and receive LP tokens.
+LP tokens become valuable tools for yield farming. Many DeFi protocols seek to attract liquidity and offer incentives through yield farms.**The Process:**1. You provide liquidity to a DEX and receive LP tokens.
 2. You stake those LP tokens in a yield farm contract, either on the same platform or a different one.
 3. In exchange for staking, the farm rewards you with its native tokens (for example, staking UNI-V2 tokens to earn SUSHI tokens).
 
@@ -64,34 +60,23 @@ This strategy encapsulates the essence of yield farming, where the goal is to ma
 
 ### The Risks of Holding LP Tokens
 
-The most significant risk associated with providing liquidity and holding LP tokens is **impermanent loss**.
+The most significant risk associated with providing liquidity and holding LP tokens is**impermanent loss**.
 
-- **Definition**: Impermanent loss occurs when the value of holding your assets in a liquidity pool diverges from the value of simply holding them in your [wallet](/how-to-choose-a-crypto-wallet).
-- **Trigger**: This loss occurs when the price ratio of the two tokens changes. The greater the divergence in prices, the larger the impermanent loss.
-- **Compensation**: Liquidity providers earn trading fees to offset this risk, with the expectation that total fees will exceed any impermanent loss.
+-**Definition**: Impermanent loss occurs when the value of holding your assets in a liquidity pool diverges from the value of simply holding them in your [wallet](/how-to-choose-a-crypto-wallet).
+-**Trigger**: This loss occurs when the price ratio of the two tokens changes. The greater the divergence in prices, the larger the impermanent loss.
+-**Compensation**: Liquidity providers earn trading fees to offset this risk, with the expectation that total fees will exceed any impermanent loss.
 
 Impermanent loss represents an opportunity cost. Although your assets may appreciate in value, they would have increased even more had you simply held them instead of providing liquidity.
 
 ### The Evolution: LP Tokens as NFTs (Uniswap v3)
 
-The introduction of **[concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)** in Uniswap v3 transformed LP tokens.
+The introduction of**[concentrated liquidity](/understanding-concentrated-liquidity-in-uniswap)**in Uniswap v3 transformed LP tokens.
 
-Each liquidity provider in v3 can define a unique price range, making their liquidity positions non-fungible (not interchangeable). Consequently, these positions are represented as **Non-Fungible Tokens ([NFT](/what-are-nfts))**, as opposed to standard ERC-20 LP tokens.
+Each liquidity provider in v3 can define a unique price range, making their liquidity positions non-fungible (not interchangeable). Consequently, these positions are represented as**Non-Fungible Tokens ([NFT](/what-are-nfts))**, as opposed to standard ERC-20 LP tokens.
 
 Each NFT encapsulates specific details about the provider's position: the token pair, fee tier, and designated price range. While this adds complexity, it significantly enhances capital efficiency in Uniswap v3.
 
-### Frequently Asked Questions (FAQ)
-
-**Q: Are LP tokens a good investment?** 
-A: LP tokens can offer attractive returns through trading fees and yield farming. However, they involve unique risks, particularly impermanent loss, which requires careful monitoring and risk management.
-
-**Q: Can I trade my LP tokens?** 
-A: Yes, standard ERC-20 LP tokens can be traded on secondary markets similar to other tokens, although liquidity may often be limited. Uniswap v3 LP NFTs can also be bought and sold on NFT marketplaces.
-
-**Q: How are LP token prices determined?** 
-A: The value of an LP token is directly linked to the underlying assets in the liquidity pool. The total value of the assets divided by the total supply of LP tokens determines the price per LP token.
-
-**Q: Is providing liquidity the same as staking?** 
+### Frequently Asked Questions (FAQ)**Q: Are LP tokens a good investment?**A: LP tokens can offer attractive returns through trading fees and yield farming. However, they involve unique risks, particularly impermanent loss, which requires careful monitoring and risk management.**Q: Can I trade my LP tokens?**A: Yes, standard ERC-20 LP tokens can be traded on secondary markets similar to other tokens, although liquidity may often be limited. Uniswap v3 LP NFTs can also be bought and sold on NFT marketplaces.**Q: How are LP token prices determined?**A: The value of an LP token is directly linked to the underlying assets in the liquidity pool. The total value of the assets divided by the total supply of LP tokens determines the price per LP token.**Q: Is providing liquidity the same as staking?** 
 A: No, providing liquidity entails depositing a pair of assets into a DEX pool for trading purposes, receiving LP tokens in return. Staking typically refers to locking up a single asset to secure a Proof-of-Stake network or staking LP tokens in a yield farm for rewards.
 
 ## Verifiable Primary Sources & References

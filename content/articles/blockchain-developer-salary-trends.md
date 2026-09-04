@@ -7,7 +7,7 @@ description: >-
   location, including how base pay, equity, and token grants shape an offer.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 The [Web3](/what-is-web3) industry consistently delivers competitive compensation packages within the technology sector. A combination of substantial venture capital investments and a critical shortage of qualified talent leads Web3 companies to offer attractive salaries for engineers capable of constructing secure and scalable infrastructures for the new internet. Understanding what developers can expect to earn in this sector is essential.
 
@@ -19,11 +19,11 @@ A [Web3 job](/web3-jobs-for-beginners) offer comprises more than just a base sal
 
 | Compensation Component | Description |
 |---------------------------|-------------------------------------------------------------------------------------------------|
-| **Base Salary** | Guaranteed income paid in fiat currencies (USD, EUR) or stablecoins. |
-| **[Token](/what-is-a-token) Grants** | Allocations of the project's native token that vest over time (typically 4 years with a 1-year cliff). This component carries high risk and potential for significant reward. |
-| **Equity** | Traditional stock options may be offered by centralized companies operating in the Web3 space. |
+|**Base Salary**| Guaranteed income paid in fiat currencies (USD, EUR) or stablecoins. |
+|**[Token](/what-is-a-token) Grants**| Allocations of the project's native token that vest over time (typically 4 years with a 1-year cliff). This component carries high risk and potential for significant reward. |
+|**Equity**| Traditional stock options may be offered by centralized companies operating in the Web3 space. |
 
-This guide focuses primarily on **base salary expectations** in USD, as this provides the most stable and comparable metric. However, remember that token grants can often represent a significant portion of the base salary's value, significantly increasing total compensation potential.
+This guide focuses primarily on**base salary expectations** in USD, as this provides the most stable and comparable metric. However, remember that token grants can often represent a significant portion of the base salary's value, significantly increasing total compensation potential.
 
 ### Salary by Developer Specialization
 

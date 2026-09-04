@@ -7,7 +7,7 @@ description: >-
   cut, and how to prepare for blockchain roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Web3 hiring differs significantly from traditional tech hiring. Recruiters in the crypto space sift through hundreds of resumes each week, and many applicants make easily avoidable mistakes. After analyzing thousands of applications on our job board, we present the ten essential rules that can help candidates secure callbacks rather than rejections.
 
@@ -17,8 +17,7 @@ Web3 hiring differs significantly from traditional tech hiring. Recruiters in th
 
 Top Web3 resumes prioritize links to deployed smart contracts, GitHub repositories, or contributions to protocols. For instance, a Solidity developer who has deployed a contract on the mainnet with a significant number of transactions presents a more compelling case than one with a Stanford CS degree but no crypto experience.
 
-**Practical examples include:**
-- "Developed and deployed an ERC-4626 vault on Ethereum mainnet, audited by Trail of Bits, achieving significant value within 30 days."
+**Practical examples include:**- "Developed and deployed an ERC-4626 vault on Ethereum mainnet, audited by Trail of Bits, achieving significant value within 30 days."
 - Include links to Etherscan, GitHub, or a live product.
 
 Hiring managers at crypto companies typically spend less than 15 seconds on initial resume screenings. An Etherscan link provides credibility more effectively than any bullet point can.
@@ -97,12 +96,12 @@ Many Web3 applications include a short text field or request a cover letter. Lea
 
 For a Web3 role, organize your resume as follows:
 
-1. **Contact + Links** (GitHub, relevant profiles, portfolio)
-2. **Summary** (2 sentences: your role and strongest credential)
-3. **Technical Skills** (specific tools, languages, frameworks)
-4. **Professional Experience** (reverse chronological, metrics-driven)
-5. **Web3 Community** (hackathons, governance, open-source)
-6. **Education** (brief, at the bottom)
+1.**Contact + Links**(GitHub, relevant profiles, portfolio)
+2.**Summary**(2 sentences: your role and strongest credential)
+3.**Technical Skills**(specific tools, languages, frameworks)
+4.**Professional Experience**(reverse chronological, metrics-driven)
+5.**Web3 Community**(hackathons, governance, open-source)
+6.**Education** (brief, at the bottom)
 
 ## Verifiable Primary Sources & References
 

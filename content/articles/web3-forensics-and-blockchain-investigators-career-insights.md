@@ -7,9 +7,9 @@ description: >-
   forensics experts trace illicit funds, unmask hackers, and bring transparency.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
-In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an **On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.
+In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an**On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.
 
 As the value of assets on public blockchains has surged, so have the number of exploits and hacks. On-chain forensics addresses this challenge by aiding victims in recovering funds, supplying data to law enforcement, and securing the ecosystem through analysis of attack methods. This career blends the skills of data scientists, cybersecurity analysts, and financial detectives.
 
@@ -45,7 +45,7 @@ Proficiency in using block explorers like Etherscan is fundamental. Investigator
 
 ### On-Chain Analytics Platforms
 
-Familiarity with tools such as **Chainalysis**, **TRM Labs**, **Elliptic**, and **Nansen** is vital. These platforms offer advanced heuristics and labeling to track funds through mixers and complex transactions, maintaining databases of known addresses, including exchange wallets and hacker addresses.
+Familiarity with tools such as**Chainalysis**,**TRM Labs**,**Elliptic**, and**Nansen**is vital. These platforms offer advanced heuristics and labeling to track funds through mixers and complex transactions, maintaining databases of known addresses, including exchange wallets and hacker addresses.
 
 ### Data Analysis Skills
 
@@ -79,7 +79,7 @@ Most forensic work involves querying blockchain data. Pursue courses in SQL and 
 
 ### Step 5: Obtain Certification
 
-Certifications like the **Certified Cryptocurrency Investigator (CCI)** from the Blockchain Intelligence Group can enhance your credentials, demonstrating formal training and expertise.
+Certifications like the**Certified Cryptocurrency Investigator (CCI)** from the Blockchain Intelligence Group can enhance your credentials, demonstrating formal training and expertise.
 
 ### Step 6: Build a Public [Portfolio](/building-web3-portfolio)
 

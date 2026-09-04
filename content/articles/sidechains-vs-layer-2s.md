@@ -7,40 +7,36 @@ description: >-
   solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
-As [Ethereum](/what-is-ethereum) has gained traction, the demand for scalability has surged. The network needs to handle more transactions quickly and affordably. Two primary solutions for scaling Ethereum are **Sidechains** and **Layer 2s (L2s)**. 
+As [Ethereum](/what-is-ethereum) has gained traction, the demand for scalability has surged. The network needs to handle more transactions quickly and affordably. Two primary solutions for scaling Ethereum are **Sidechains**and**Layer 2s (L2s)**. 
 
 Both solutions process transactions off the main Ethereum chain, yet they differ significantly in their architecture and security implications. Understanding these differences is essential for any [Web3](/what-is-web3) developer or user.
 
 ### Sidechains Explained
 
-A **sidechain** operates independently alongside a main chain such as Ethereum. It connects to the main chain through a two-way "bridge."
+A**sidechain**operates independently alongside a main chain such as Ethereum. It connects to the main chain through a two-way "bridge."
 
-- **Security Mechanism**: Each sidechain has its own consensus protocol and validators, which means it is responsible for its own security.
-- **Asset Transfer**: To use a sidechain, users lock assets on the main chain. In exchange, a corresponding amount of "wrapped" assets is created on the sidechain. To transfer back, users burn assets on the sidechain to open them on the main chain.
-- **Example**: **Polygon PoS** serves as a notable example of a sidechain, employing its own validators who stake MATIC [tokens](/what-is-a-token) to maintain the network's security.
-
-**Key Vulnerability**: The security of a sidechain relies on its validator set. If a majority of validators were to collude, they could potentially misappropriate user funds locked in the bridge. This arrangement places trust in the sidechain's validators.
+-**Security Mechanism**: Each sidechain has its own consensus protocol and validators, which means it is responsible for its own security.
+-**Asset Transfer**: To use a sidechain, users lock assets on the main chain. In exchange, a corresponding amount of "wrapped" assets is created on the sidechain. To transfer back, users burn assets on the sidechain to open them on the main chain.
+-**Example**:**Polygon PoS**serves as a notable example of a sidechain, employing its own validators who stake MATIC [tokens](/what-is-a-token) to maintain the network's security.**Key Vulnerability**: The security of a sidechain relies on its validator set. If a majority of validators were to collude, they could potentially misappropriate user funds locked in the bridge. This arrangement places trust in the sidechain's validators.
 
 ### Layer 2 Rollups Explained
 
-A **Layer 2 (L2)** solution processes transactions off-chain and posts the data back to the Layer 1 (L1) chain, inheriting its security. The two primary types of L2s are [Optimistic Rollups and ZK-Rollups](/guide-to-layer-2s).
+A**Layer 2 (L2)**solution processes transactions off-chain and posts the data back to the Layer 1 (L1) chain, inheriting its security. The two primary types of L2s are [Optimistic Rollups and ZK-Rollups](/guide-to-layer-2s).
 
-- **Security Inheritance**: A rollup does not establish its own consensus mechanism; instead, it relies on the Ethereum network for security.
-- **Transaction Processing**: An L2 compiles a multitude of transactions and submits a compressed summary to Ethereum. It employs either **fraud proofs** (Optimistic) or **validity proofs** (ZK) to validate transactions without requiring the L1 to reprocess them.
-- **Examples**: Major L2 solutions include Arbitrum, Optimism, zkSync, and Starknet.
-
-**Key Advantage**: Since security derives from the L1, users do not have to place their trust in L2 operators. Even in the event of collusion among L2 sequencers, they cannot misappropriate user funds because fraudulent state transitions can be contested through fraud proofs or rejected by the L1 verifier contract as invalid ZK-proofs.
+-**Security Inheritance**: A rollup does not establish its own consensus mechanism; instead, it relies on the Ethereum network for security.
+-**Transaction Processing**: An L2 compiles a multitude of transactions and submits a compressed summary to Ethereum. It employs either**fraud proofs**(Optimistic) or**validity proofs**(ZK) to validate transactions without requiring the L1 to reprocess them.
+-**Examples**: Major L2 solutions include Arbitrum, Optimism, zkSync, and Starknet.**Key Advantage**: Since security derives from the L1, users do not have to place their trust in L2 operators. Even in the event of collusion among L2 sequencers, they cannot misappropriate user funds because fraudulent state transitions can be contested through fraud proofs or rejected by the L1 verifier contract as invalid ZK-proofs.
 
 ### Security Model Comparison
 
 | Feature | Sidechain (e.g., Polygon PoS) | Layer 2 Rollup (e.g., Arbitrum) |
 | ------------------- | ------------------------------ | ------------------------------- |
-| **Security** | Independent (own validators) | Inherited from Ethereum |
-| **Trust Assumption**| Trust in sidechain validators | Trust in Ethereum's security |
-| **Data Handling** | Data remains on the sidechain | Transaction data posted to L1 |
-| **Primary Risk** | Collusion of validators | Bugs in [smart contracts](/what-are-smart-contracts) |
+|**Security**| Independent (own validators) | Inherited from Ethereum |
+|**Trust Assumption**| Trust in sidechain validators | Trust in Ethereum's security |
+|**Data Handling**| Data remains on the sidechain | Transaction data posted to L1 |
+|**Primary Risk** | Collusion of validators | Bugs in [smart contracts](/what-are-smart-contracts) |
 
 ### The Shift Towards Layer 2 Solutions
 

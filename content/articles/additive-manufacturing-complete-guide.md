@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: industrial 3d
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Additive manufacturing builds parts by joining material layer by layer from 3D model data. It is the formal industrial term for what most people call 3D printing.
 
@@ -31,23 +31,13 @@ It is a strong fit for:
 *   **Aerospace, space, and defense engineers.** Lightweight brackets, ducts, and rocket components that use lattices or consolidated assemblies to cut part count. AMPOWER and Wohlers both place aerospace and defense among the largest users of metal powder bed fusion.
 *   **Medical and dental professionals.** Custom implants, surgical guides, prosthetics, and aligners made to patient scans. Medical and dental are the only verticals that already run daily serial production on additive, per AMPOWER 2024.
 *   **Automotive, energy, and industrial maintenance teams.** Jigs, fixtures, conformal cooling inserts for molds, and low-volume or end-of-life spare parts where storing inventory costs more than printing on demand.
-*   **Educators, researchers, and small shops.** Entry-level material extrusion printers start around $200 to $500 and run PLA and PETG with minimal setup. They are practical for teaching design, making fixtures, and testing ideas before paying a service bureau.
+*   **Educators, researchers, and small shops.**Entry-level material extrusion printers start around $200 to $500 and run PLA and PETG with minimal setup. They are practical for teaching design, making fixtures, and testing ideas before paying a service bureau.
 
 It is not the right choice if you need millions of identical simple parts in a commodity thermoplastic, with tight per-unit cost targets and no need for customization. In those cases injection molding remains faster and cheaper per part, with cycle times of 15 to 60 seconds versus hours per part for additive.
 
 ## How it works
 
-Every additive process follows the same digital chain, even though the physics differ.
-
-**1. Design.** Create a 3D model in CAD. Outputs typically use STL, 3MF, AMF, or STEP. 3MF and AMF retain more information than STL, such as color and material.
-
-**2. Prepare.** Check and repair the mesh, choose orientation on the build plate, and add support structures where needed. Supports anchor the part, conduct heat away, and hold overhangs. NIST notes this is not push-button. On metal powder bed systems, surfaces under about 45 degrees to the plate usually need supports and users still make judgment calls.
-
-**3. Slice and plan.** Software cuts the model into horizontal slices. Each slice becomes a toolpath or exposure pattern. For powder bed fusion this includes a scan strategy. For material extrusion this is G-code with layer height, speed, and temperature.
-
-**4. Build.** The machine forms one layer at a time. A material extrusion head deposits molten filament. A vat system cures liquid resin with UV light. A powder bed system spreads powder then melts it with a laser or electron beam. A binder system jets liquid binder onto powder. A directed energy system feeds powder or wire into a melt pool. A sheet system bonds and cuts sheets. The NIST Engineering Laboratory documents these as the common layer formation methods.
-
-**5. Post-process.** All additive parts need finishing. Remove supports and loose powder or resin, wash and cure when needed, then apply heat treatment, stress relief, hot isostatic pressing for metals, shot peening, or machining. This step affects mechanical properties and can add hours to the workflow.
+Every additive process follows the same digital chain, even though the physics differ.**1. Design.**Create a 3D model in CAD. Outputs typically use STL, 3MF, AMF, or STEP. 3MF and AMF retain more information than STL, such as color and material.**2. Prepare.**Check and repair the mesh, choose orientation on the build plate, and add support structures where needed. Supports anchor the part, conduct heat away, and hold overhangs. NIST notes this is not push-button. On metal powder bed systems, surfaces under about 45 degrees to the plate usually need supports and users still make judgment calls.**3. Slice and plan.**Software cuts the model into horizontal slices. Each slice becomes a toolpath or exposure pattern. For powder bed fusion this includes a scan strategy. For material extrusion this is G-code with layer height, speed, and temperature.**4. Build.**The machine forms one layer at a time. A material extrusion head deposits molten filament. A vat system cures liquid resin with UV light. A powder bed system spreads powder then melts it with a laser or electron beam. A binder system jets liquid binder onto powder. A directed energy system feeds powder or wire into a melt pool. A sheet system bonds and cuts sheets. The NIST Engineering Laboratory documents these as the common layer formation methods.**5. Post-process.** All additive parts need finishing. Remove supports and loose powder or resin, wash and cure when needed, then apply heat treatment, stress relief, hot isostatic pressing for metals, shot peening, or machining. This step affects mechanical properties and can add hours to the workflow.
 
 ### The seven process categories in ISO/ASTM 52900
 
@@ -84,15 +74,9 @@ Two points help choose:
 *   **Cost per part at volume.** The same study found vat photopolymerization at $10.67 per part and powder bed fusion at $7.96 per part at assumed machine life and labor, versus injection molding falling to $0.97 per part at 100,000 identical units. Break-even for identical parts was about 10,263 units. If you need 50 variants of 200 parts each, additive kept a flat cost while injection needed 50 molds, which flips the math.
 *   **Material cost and choice.** Filament is $20 to $50 per kilogram. Engineering nylons for SLS are about $100 per kilogram. Metal powders are $500 or more per kilogram. Vat resins are $50 to $150 per liter. Commodity injection pellets are $2 to $20 per kilogram. Additive gives fewer qualified production-grade options, especially for high-temperature or chemically resistant use.
 *   **Surface finish, accuracy, and anisotropy.** Layer lines, stair stepping on angled faces, and directional properties are common. Tolerances and fatigue life often depend on orientation, parameters, and post-processing. NIST notes qualification remains a barrier for high-consequence parts such as flight hardware.
-*   **Build volume and consistency.** Most desktop machines build around 220 to 256 mm per side. Larger industrial systems exist but cost more and heat slower. Machine-to-machine variation requires documented parameters and validation if you move production between sites.
+*   **Build volume and consistency.**Most desktop machines build around 220 to 256 mm per side. Larger industrial systems exist but cost more and heat slower. Machine-to-machine variation requires documented parameters and validation if you move production between sites.
 
-## How to get started
-
-**1. Define the job.** Write what the part must do, not how it is made. Size, tolerance, temperature, load, and quantity decide the process. A one-off jig needs different choices than a 5,000-unit end-use part.
-
-**2. Build CAD skill.** Fusion 360, SolidWorks, Onshape, or free tools like Tinkercad for first models all export STL or 3MF. Take a design-for-additive course so you learn orientation, wall thickness, and support rules before you print.
-
-**3. Choose a path: service bureau or own printer.**
+## How to get started**1. Define the job.**Write what the part must do, not how it is made. Size, tolerance, temperature, load, and quantity decide the process. A one-off jig needs different choices than a 5,000-unit end-use part.**2. Build CAD skill.**Fusion 360, SolidWorks, Onshape, or free tools like Tinkercad for first models all export STL or 3MF. Take a design-for-additive course so you learn orientation, wall thickness, and support rules before you print.**3. Choose a path: service bureau or own printer.**
 
 *   Use a bureau for occasional needs, large parts, or metals. Plan $30 to $300 for small polymer parts, $500 and up for large or metal parts, per 2024 service pricing guides.
 *   Buy a printer if you will print weekly. Entry FDM ($200 to $500) handles PLA and PETG for fixtures and prototypes. Mid-range enclosed CoreXY ($500 to $1,000) adds ABS, ASA, and better quality-of-life features such as auto bed leveling and runout sensors. Benchtop SLS starts under $30,000 for printer and depowdering. Metal powder bed or directed energy systems start near $200,000 and need facility controls.
@@ -104,35 +88,9 @@ Two points help choose:
 *   Strong nylon parts with complex shape and no supports: PBF-SLS or MJF with PA12.
 *   Metal flight or implant hardware: PBF with Ti-6Al-4V or 316L, or binder jetting with sintering for higher volume.
 
-**5. Budget for the real cost.** Count filament or powder, nozzles or tanks, isopropyl alcohol for vat, electricity, and failed prints. Store PETG, nylon, and other hygroscopic filaments in sealed boxes with desiccant. A filament dry box ($25 to $40) prevents bubbling and weak adhesion.
+**5. Budget for the real cost.**Count filament or powder, nozzles or tanks, isopropyl alcohol for vat, electricity, and failed prints. Store PETG, nylon, and other hygroscopic filaments in sealed boxes with desiccant. A filament dry box ($25 to $40) prevents bubbling and weak adhesion.**6. Set up the workflow.**Install a slicer (Bambu Studio, PrusaSlicer, or OrcaSlicer, all free), start with manufacturer profiles, and print calibration parts first. Expect to adjust layer height, infill, and support density.**7. Validate the output.**Measure critical dimensions, test strength in the printed orientation, and document settings that gave a good part. For production, run the same tests after any material or machine change.**8. Iterate on design.**If supports scar the surface, reorient the part. If warping occurs on ABS, use an enclosure and brim. If throughput matters, add automation or run multiple printers rather than pushing one machine faster at the expense of quality.
 
-**6. Set up the workflow.** Install a slicer (Bambu Studio, PrusaSlicer, or OrcaSlicer, all free), start with manufacturer profiles, and print calibration parts first. Expect to adjust layer height, infill, and support density.
-
-**7. Validate the output.** Measure critical dimensions, test strength in the printed orientation, and document settings that gave a good part. For production, run the same tests after any material or machine change.
-
-**8. Iterate on design.** If supports scar the surface, reorient the part. If warping occurs on ABS, use an enclosure and brim. If throughput matters, add automation or run multiple printers rather than pushing one machine faster at the expense of quality.
-
-## FAQ
-
-**What is the difference between additive manufacturing and 3D printing?**
-They describe the same joining process, but usage differs. Additive manufacturing is the formal term in ISO/ASTM 52900 for industrial production from 3D model data. 3D printing is the common term and often refers to desktop or consumer use. NIST uses both and notes that 3D printing is one approach to additive manufacturing.
-
-**Which industries use additive most?**
-Aerospace and defense, medical and dental, automotive, energy, tooling, and education. Aerospace uses it for lightweight ducts, brackets, and propulsion parts. Medical and dental use it for implants, guides, crowns, and aligners. Automotive uses it for prototyping, jigs, fixtures, and low-volume spares. NIST and AMPOWER list these as the largest adopters based on system sales and part production.
-
-**Can it be used for mass production?**
-Yes for specific cases, no as a direct replacement for high-volume molding. Additive keeps cost per part roughly steady across quantities, which helps for mass customization. Injection molding drops cost per part as volume rises. Peer-reviewed testing places break-even for identical simple parts near 10,000 units. Above that, molding is usually cheaper. Additive wins when you need many variants, frequent design changes, or no inventory. Dental aligners show how arrays of vat photopolymerization printers produce millions of unique parts per year even though each part is different.
-
-**What materials can it use?**
-Most families are available. Polymers: PLA ($20 to $25 per kg), PETG, ABS, ASA, nylon PA11/PA12, TPU, PEKK, carbon-filled grades. Photopolymers: standard, tough, flexible, castable, and biocompatible resins for vat systems. Metals: stainless 316L, titanium Ti-6Al-4V, Inconel 625/718, aluminum AlSi10Mg, cobalt-chrome, tool steels, often as fine powders. Ceramics, sand for molds, wax for patterns, and composites also run on specific processes.
-
-**Do additive parts need post-processing?**
-Almost always. Remove supports and powder or uncured resin, wash and cure, then add steps based on process. Polymers may need sanding or vapor smoothing. Metals often need stress relief, hot isostatic pressing, and machining of critical surfaces. NIST notes post-processing is tailored to material, geometry, and performance requirements and is essential for repeatability.
-
-**How accurate are additive parts?**
-Accuracy depends on process, material, layer height, and orientation. Well-tuned MEX and VPP machines hold around 0.1 to 0.2 mm for small features, with finer results on vat systems. SLS and MJF give more uniform accuracy for nylon, often within 0.15 mm. Metal PBF needs compensation for shrinkage and distortion and usually needs machining for tight tolerances. Always test with your printer and material.
-
-**What file format should I export?**
+## FAQ**What is the difference between additive manufacturing and 3D printing?**They describe the same joining process, but usage differs. Additive manufacturing is the formal term in ISO/ASTM 52900 for industrial production from 3D model data. 3D printing is the common term and often refers to desktop or consumer use. NIST uses both and notes that 3D printing is one approach to additive manufacturing.**Which industries use additive most?**Aerospace and defense, medical and dental, automotive, energy, tooling, and education. Aerospace uses it for lightweight ducts, brackets, and propulsion parts. Medical and dental use it for implants, guides, crowns, and aligners. Automotive uses it for prototyping, jigs, fixtures, and low-volume spares. NIST and AMPOWER list these as the largest adopters based on system sales and part production.**Can it be used for mass production?**Yes for specific cases, no as a direct replacement for high-volume molding. Additive keeps cost per part roughly steady across quantities, which helps for mass customization. Injection molding drops cost per part as volume rises. Peer-reviewed testing places break-even for identical simple parts near 10,000 units. Above that, molding is usually cheaper. Additive wins when you need many variants, frequent design changes, or no inventory. Dental aligners show how arrays of vat photopolymerization printers produce millions of unique parts per year even though each part is different.**What materials can it use?**Most families are available. Polymers: PLA ($20 to $25 per kg), PETG, ABS, ASA, nylon PA11/PA12, TPU, PEKK, carbon-filled grades. Photopolymers: standard, tough, flexible, castable, and biocompatible resins for vat systems. Metals: stainless 316L, titanium Ti-6Al-4V, Inconel 625/718, aluminum AlSi10Mg, cobalt-chrome, tool steels, often as fine powders. Ceramics, sand for molds, wax for patterns, and composites also run on specific processes.**Do additive parts need post-processing?**Almost always. Remove supports and powder or uncured resin, wash and cure, then add steps based on process. Polymers may need sanding or vapor smoothing. Metals often need stress relief, hot isostatic pressing, and machining of critical surfaces. NIST notes post-processing is tailored to material, geometry, and performance requirements and is essential for repeatability.**How accurate are additive parts?**Accuracy depends on process, material, layer height, and orientation. Well-tuned MEX and VPP machines hold around 0.1 to 0.2 mm for small features, with finer results on vat systems. SLS and MJF give more uniform accuracy for nylon, often within 0.15 mm. Metal PBF needs compensation for shrinkage and distortion and usually needs machining for tight tolerances. Always test with your printer and material.**What file format should I export?**
 Use 3MF when your toolchain supports it. It keeps units, color, and lattice data. Use STL if the recipient requires it, but check for mesh errors. STEP is useful when the next step is CAD editing rather than direct printing.
 
 ## Verifiable Primary Sources & References

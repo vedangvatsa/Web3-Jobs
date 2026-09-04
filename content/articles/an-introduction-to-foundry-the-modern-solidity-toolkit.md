@@ -8,7 +8,7 @@ description: >-
   a basic Forge test, and how its workflow compares with Hardhat.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Foundry is a Rust-based toolkit for Ethereum development that lets you compile, test, fuzz, debug and deploy Solidity contracts from the command line. The official book at getfoundry.sh describes it as a blazing fast, portable and modular toolkit. You write tests and deployment scripts in Solidity and run them directly on a fast local EVM.
 
@@ -18,10 +18,10 @@ It is open source at github.com/foundry-rs/foundry, licensed Apache-2.0 and MIT,
 
 Foundry is four tools that install together:
 
-- **Forge** - Build, test, fuzz, debug, format, lint and deploy Solidity contracts. This is where you spend most of your time. See getfoundry.sh/forge.
-- **Cast** - Swiss Army knife for chain interaction. Read blocks and storage, send transactions, encode calldata, manage wallets, and call JSON-RPC. See getfoundry.sh/cast.
-- **Anvil** - Fast local Ethereum node for development. It runs in memory, mines instantly by default, and can fork mainnet or any EVM chain. See getfoundry.sh/anvil.
-- **Chisel** - Interactive Solidity REPL for quick experiments without creating a full project. See getfoundry.sh/chisel.
+- **Forge**- Build, test, fuzz, debug, format, lint and deploy Solidity contracts. This is where you spend most of your time. See getfoundry.sh/forge.
+-**Cast**- Swiss Army knife for chain interaction. Read blocks and storage, send transactions, encode calldata, manage wallets, and call JSON-RPC. See getfoundry.sh/cast.
+-**Anvil**- Fast local Ethereum node for development. It runs in memory, mines instantly by default, and can fork mainnet or any EVM chain. See getfoundry.sh/anvil.
+-**Chisel** - Interactive Solidity REPL for quick experiments without creating a full project. See getfoundry.sh/chisel.
 
 All four are prebuilt Rust binaries. You do not need Node.js to use them.
 
@@ -111,16 +111,14 @@ Full list is in the cheatcodes reference at getfoundry.sh/reference/cheatcodes/o
 
 ### Cast, Anvil and Chisel in practice
 
-**Cast** works inside or outside a project:
+**Cast**works inside or outside a project:
 
 ```bash
 cast block-number --rpc-url $RPC_URL
 cast balance vitalik.eth --ether --rpc-url $RPC_URL
 cast call 0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2 "balanceOf(address)(uint256)" 0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045 --rpc-url $RPC_URL
 cast send 0x70997970C51812dc3A010C7d01b50e0d17dc79C8 --value 0.01ether --private-key $PRIVATE_KEY --rpc-url $RPC_URL
-```
-
-**Anvil** gives you a local chain with 10 accounts funded with 10,000 ETH each:
+```**Anvil**gives you a local chain with 10 accounts funded with 10,000 ETH each:
 
 ```bash
 anvil
@@ -128,9 +126,7 @@ anvil --accounts 20 --balance 1000
 anvil --fork-url https://ethereum.reth.rs/rpc --fork-block-number 18000000
 ```
 
-Default mnemonic is `test test test test test test test test test test test junk`. Do not use it on public networks. Anvil exposes custom RPC methods like `anvil_impersonateAccount`, `evm_mine`, `evm_snapshot`, and `anvil_dumpState` for deterministic workflows.
-
-**Chisel** is the REPL:
+Default mnemonic is `test test test test test test test test test test test junk`. Do not use it on public networks. Anvil exposes custom RPC methods like `anvil_impersonateAccount`, `evm_mine`, `evm_snapshot`, and `anvil_dumpState` for deterministic workflows.**Chisel**is the REPL:
 
 ```bash
 chisel
@@ -207,11 +203,7 @@ Key rules: test contracts inherit from `Test`, file name ends in `.t.sol`, test 
 
 ## Project setup and day-to-day commands
 
-Prerequisites: `git` and `curl`. Rust is only needed if you build from source.
-
-**Install and update**
-
-Current docs at getfoundry.sh/introduction/installation use the getfoundry.sh installer:
+Prerequisites: `git` and `curl`. Rust is only needed if you build from source.**Install and update**Current docs at getfoundry.sh/introduction/installation use the getfoundry.sh installer:
 
 ```bash
 curl -L https://getfoundry.sh/install | bash
@@ -229,22 +221,14 @@ cast --version
 anvil --version
 ```
 
-Alternatives: download prebuilt binaries from github.com/foundry-rs/foundry/releases, Docker via `ghcr.io/foundry-rs/foundry`, or build with `cargo install --git https://github.com/foundry-rs/foundry --profile release --locked forge cast anvil chisel`.
-
-**Create and build a project**
-
-```bash
+Alternatives: download prebuilt binaries from github.com/foundry-rs/foundry/releases, Docker via `ghcr.io/foundry-rs/foundry`, or build with `cargo install --git https://github.com/foundry-rs/foundry --profile release --locked forge cast anvil chisel`.**Create and build a project**```bash
 forge init my-project
 cd my-project
 forge build
 forge test
 ```
 
-`forge init` pulls `forge-std` as a submodule into `lib/forge-std`. Inside an existing directory use `forge init --force`. Dependencies are added with `forge install OpenZeppelin/openzeppelin-contracts` and removed with `forge remove`. The Soldeer package manager is an alternative at getfoundry.sh/projects/soldeer.
-
-**Common tasks**
-
-```bash
+`forge init` pulls `forge-std` as a submodule into `lib/forge-std`. Inside an existing directory use `forge init --force`. Dependencies are added with `forge install OpenZeppelin/openzeppelin-contracts` and removed with `forge remove`. The Soldeer package manager is an alternative at getfoundry.sh/projects/soldeer.**Common tasks**```bash
 forge fmt                 # format Solidity
 forge lint                # lint, see getfoundry.sh/forge/linting
 forge inspect Counter storage-layout
@@ -256,17 +240,11 @@ anvil --fork-url $RPC_URL  # leave running, use another terminal for forge test 
 
 Configs live in `foundry.toml`, with profiles for dev, CI, and production. Environment variables like `FOUNDRY_SOLC_VERSION` override file settings.
 
-## Pros and cons
-
-**Pros**
-
-- Single-language workflow. You stay in Solidity for contracts, tests, and scripts, which reduces mental switching and keeps logic next to the code it tests.
+## Pros and cons**Pros**- Single-language workflow. You stay in Solidity for contracts, tests, and scripts, which reduces mental switching and keeps logic next to the code it tests.
 - Fast feedback. Everything is a static Rust binary running REVM directly, no Node startup and no transpilation. Parallel execution is on by default.
 - Built-in testing power. Fuzzing, invariant testing, fork testing, gas reports, coverage, and a large cheatcode set ship without plugins.
 - Simple dependencies. Git submodules or Soldeer with explicit remappings make builds reproducible without a JavaScript package manager.
-- Full local chain control. Anvil can fork any EVM chain at a block, impersonate accounts, warp time, snapshot and restore state, and dump state to a file.
-
-**Cons and trade-offs**
+- Full local chain control. Anvil can fork any EVM chain at a block, impersonate accounts, warp time, snapshot and restore state, and dump state to a file.**Cons and trade-offs**
 
 - Command-line focus. Teams that prefer TypeScript tooling and Hardhat plugins face a learning curve.
 - Smaller plugin ecosystem than Hardhat and NPM. You will write more Solidity instead of installing a plugin.
@@ -306,25 +284,7 @@ Handle secrets safely. Use `cast wallet import` or environment variables like `P
 
 ## FAQ
 
-**Do I need Rust to use Foundry?**
-No. The default install via `foundryup` downloads prebuilt binaries. You only need Rust if you build from source with `cargo install`.
-
-**Does Foundry support Vyper?**
-The project is Solidity-first and Vyper compilation is documented as supported through the same toolchain. Check the current config reference under solc and vyper settings at getfoundry.sh/config.
-
-**Where do I put my RPC URL for fork tests?**
-Either pass `--fork-url` on the command line, set `eth_rpc_url` in `foundry.toml` under `[profile.default]`, or use an environment variable. Pin `fork-block-number` for reproducible tests.
-
-**How does Anvil compare to Hardhat Network?**
-Both fork chains, control mining, and impersonate accounts. Anvil starts instantly, gives 10 funded accounts by default, and provides Anvil-specific RPCs documented at getfoundry.sh/anvil. Hardhat Network integrates tighter with Hardhat plugins and Hardhat Ignition.
-
-**How do I constrain fuzz inputs?**
-With `vm.assume(condition)` to filter or `bound(value, min, max)` to clamp. Forge discards inputs that fail `assume` and counts them toward `max_test_rejects`. Prefer `bound` when you want to keep runs high.
-
-**Can I use Foundry and Hardhat in one repo?**
-Yes. Compile the same `src/` with both, pin the same `solc` version, and let Hardhat read `foundry.toml` remappings. Many teams keep tests in Forge and deployments in Hardhat.
-
-**What should I read next?**
+**Do I need Rust to use Foundry?**No. The default install via `foundryup` downloads prebuilt binaries. You only need Rust if you build from source with `cargo install`.**Does Foundry support Vyper?**The project is Solidity-first and Vyper compilation is documented as supported through the same toolchain. Check the current config reference under solc and vyper settings at getfoundry.sh/config.**Where do I put my RPC URL for fork tests?**Either pass `--fork-url` on the command line, set `eth_rpc_url` in `foundry.toml` under `[profile.default]`, or use an environment variable. Pin `fork-block-number` for reproducible tests.**How does Anvil compare to Hardhat Network?**Both fork chains, control mining, and impersonate accounts. Anvil starts instantly, gives 10 funded accounts by default, and provides Anvil-specific RPCs documented at getfoundry.sh/anvil. Hardhat Network integrates tighter with Hardhat plugins and Hardhat Ignition.**How do I constrain fuzz inputs?**With `vm.assume(condition)` to filter or `bound(value, min, max)` to clamp. Forge discards inputs that fail `assume` and counts them toward `max_test_rejects`. Prefer `bound` when you want to keep runs high.**Can I use Foundry and Hardhat in one repo?**Yes. Compile the same `src/` with both, pin the same `solc` version, and let Hardhat read `foundry.toml` remappings. Many teams keep tests in Forge and deployments in Hardhat.**What should I read next?**
 The Foundry Book at getfoundry.sh, the cheatcodes reference, the `forge-std` docs at github.com/foundry-rs/forge-std, and the benchmarks page at getfoundry.sh/benchmarks for recent performance notes.
 
 ## Verifiable Primary Sources & References

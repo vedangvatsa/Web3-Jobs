@@ -7,7 +7,7 @@ description: >-
   Web3 applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 Avalanche is a Layer 1 blockchain for launching decentralized applications and custom Layer 1 networks with sub-second finality. It went live on mainnet on September 21, 2020, built by Ava Labs, a company founded in 2018 by Emin Gun Sirer, Kevin Sekniqi, and Maofan Ted Yin.
 
@@ -78,67 +78,34 @@ These are listed on avax.network and build.avax.network and are verifiable in Ex
 * **DeFi:** Aave, Benqi, LFJ (formerly Trader Joe), Dexalot (its own L1 with about 6 million transactions per 30 days), Euler, Pharaoh, and GMX. They use the C-Chain for EVM execution and in some cases an L1 for orderbook or isolated settlement.
 * **Gaming and consumer:** Gunzilla's Off The Grid (an L1 that processed about 12.9 million transactions per 30 days on the public dashboard), MapleStory Universe (Henesys L1), Beam (gaming infrastructure), and Lamina1.
 * **Institutions and tokenization:** JPMorgan Onyx on Evergreen Spruce, Citi with Wellington Management and WisdomTree exploring private market tokenization, Franklin Templeton's Benji money market fund, BlackRock's BUIDL share classes via Securitize, Apollo via Securitize, Grove Finance targeting 250 million dollars, Intain's multi-trillion dollar securitized finance subnet, and the Wyoming stable token FRNT.
-* **Enterprise and public sector:** California DMV digitizing 42 million car titles on Avalanche, Kite AI, T-Rowe Price collaboration, Dinari Financial Network, and Lynq.
+* **Enterprise and public sector:**California DMV digitizing 42 million car titles on Avalanche, Kite AI, T-Rowe Price collaboration, Dinari Financial Network, and Lynq.
 
 Older guides often cite Pangolin, Crabada, and Kalao. Those projects existed on Avalanche in 2021 to 2022 but are no longer representative of largest volume on the network. Check Explorer or core.app/discover for current app rankings rather than relying on dated lists.
 
-## Pros and cons
-
-**Pros:**
+## Pros and cons**Pros:**
 
 * **EVM familiarity with lower cost and faster settlement.** If you already ship Solidity, you keep the same language, wallets, and tooling while getting typical fees in cents and settlement in 1 to 2 seconds versus about 12 to 15 seconds for a block on Ethereum and near-finality only after multiple confirmations.
 * **Isolated scaling via L1s.** Each L1 processes its own transactions, so growth is horizontal. A breakout game or market event on one L1 does not require all other apps to compete for the same block gas limit.
 * **Flexible sovereignty.** You control the VM choice, gas token, fee handling, upgrade policy, validator admission, and privacy. That is useful for regulated use cases where a public permissionless chain cannot meet audit or residency rules.
 * **No slashing on principal.** Poor uptime forfeits rewards but does not burn staked AVAX, which differs from chains that slash for double signing or downtime.
-* **Native messaging without a custodial bridge.** Warp-based ICM uses the P-Chain validator registry and BLS aggregation, so trust rests on the source L1 validator set rather than a separate bridge multisig.
-
-**Cons:**
+* **Native messaging without a custodial bridge.**Warp-based ICM uses the P-Chain validator registry and BLS aggregation, so trust rests on the source L1 validator set rather than a separate bridge multisig.**Cons:**
 
 * **Liquidity and user fragmentation.** Sovereign chains can split liquidity, tooling attention, and users across many L1s. You will need an ICTT or Teleporter bridge and routing strategy if users or stablecoins must move between L1s.
 * **Smaller per-L1 validator sets.** The Primary Network has hundreds of validators; a single L1 may have 5 to 20 validators (for example, many L1s listed in Explorer show fewer than 15). That is fine for an app chain but offers less decentralization for that chain than Ethereum mainnet.
 * **Operational work.** Running an L1 means operating validators, managing the ValidatorManager contract, running ICM relayers or signature aggregators, and monitoring P-Chain fee balances so validators are not removed for non-payment after Etna.
 * **EVM lock-in on the C-Chain.** If you need a non-EVM VM, you must build and maintain it as an L1 rather than deploying to the shared C-Chain. Custom VMs need their own audits.
-* **Fixed lock periods for staking.** Native staking locks AVAX for weeks to months. You cannot unstake early. Liquid staking pools like sAVAX or ggAVAX keep tokens transferable but add smart contract and depeg risk.
+* **Fixed lock periods for staking.**Native staking locks AVAX for weeks to months. You cannot unstake early. Liquid staking pools like sAVAX or ggAVAX keep tokens transferable but add smart contract and depeg risk.
 
 ## How to try it or build on it
 
-1. **Set up a wallet.** Install Core (core.app) for full P-Chain support, including staking and cross-chain transfers, or use MetaMask for C-Chain only. Add Avalanche C-Chain (mainnet 43114, Fuji 43113) if your wallet does not include it. Verify RPC URLs at build.avax.network/docs/primary-network.
-2. **Get test funds.** On Fuji, use the official faucet at core.app/tools/testnet-faucet/?subnet=c&token=c for up to 2 AVAX per claim, or QuickNode or Chainlink faucets for smaller drips. Test AVAX has no monetary value and works only on Fuji.
-3. **Deploy a contract on the C-Chain.** Use Hardhat or Foundry with Solidity. Point your config to `https://api.avax-test.network/ext/bc/C/rpc` on Fuji and `https://api.avax.network/ext/bc/C/rpc` on mainnet, set chain ID accordingly, and deploy as you would on any EVM chain. Verify on Snowtrace (snowtrace.io on mainnet, testnet.snowtrace.io on Fuji).
-4. **Try staking without running a node.** In Core, move AVAX to the P-Chain, choose staking then delegation, select a validator by NodeID, and set amount (at least 25 AVAX), duration, and reward address. Rewards arrive only at the end of the period if the validator stays above the uptime threshold.
-5. **Launch an L1 (when you need isolation).** Use Avalanche CLI (`avalanche` binary) and the L1 Toolbox. The Fuji workflow lets you create a Subnet-EVM config, deploy a test L1, test gas tuning and allowlists, and test Teleporter messages between chains before mainnet. Post-Etna, fund the L1's P-Chain fee balance (about 1.33 AVAX per validator per month at launch parameters) and deploy your ValidatorManager contract.
-6. **Handle cross-chain assets properly.** Do not assume liquidity follows code. Decide on a home token and use the Interchain Token Transfer (ICTT) flow so transfers are attested by source-L1 signatures rather than a wrapped bridge you must trust separately.
+1.**Set up a wallet.**Install Core (core.app) for full P-Chain support, including staking and cross-chain transfers, or use MetaMask for C-Chain only. Add Avalanche C-Chain (mainnet 43114, Fuji 43113) if your wallet does not include it. Verify RPC URLs at build.avax.network/docs/primary-network.
+2.**Get test funds.**On Fuji, use the official faucet at core.app/tools/testnet-faucet/?subnet=c&token=c for up to 2 AVAX per claim, or QuickNode or Chainlink faucets for smaller drips. Test AVAX has no monetary value and works only on Fuji.
+3.**Deploy a contract on the C-Chain.**Use Hardhat or Foundry with Solidity. Point your config to `https://api.avax-test.network/ext/bc/C/rpc` on Fuji and `https://api.avax.network/ext/bc/C/rpc` on mainnet, set chain ID accordingly, and deploy as you would on any EVM chain. Verify on Snowtrace (snowtrace.io on mainnet, testnet.snowtrace.io on Fuji).
+4.**Try staking without running a node.**In Core, move AVAX to the P-Chain, choose staking then delegation, select a validator by NodeID, and set amount (at least 25 AVAX), duration, and reward address. Rewards arrive only at the end of the period if the validator stays above the uptime threshold.
+5.**Launch an L1 (when you need isolation).**Use Avalanche CLI (`avalanche` binary) and the L1 Toolbox. The Fuji workflow lets you create a Subnet-EVM config, deploy a test L1, test gas tuning and allowlists, and test Teleporter messages between chains before mainnet. Post-Etna, fund the L1's P-Chain fee balance (about 1.33 AVAX per validator per month at launch parameters) and deploy your ValidatorManager contract.
+6.**Handle cross-chain assets properly.**Do not assume liquidity follows code. Decide on a home token and use the Interchain Token Transfer (ICTT) flow so transfers are attested by source-L1 signatures rather than a wrapped bridge you must trust separately.
 
-## FAQ
-
-**What exactly is Avalanche?**
-Avalanche is a network of blockchains anchored by a Primary Network of three chains (X-Chain, P-Chain, C-Chain) plus many sovereign Avalanche L1s. It uses the Snowman consensus protocol, which reaches agreement by repeated random sampling rather than leader proposal or mining.
-
-**How does Snowman differ from proof of work or proof of stake?**
-Snowman is not work-based and is leaderless. Any staked validator can propose, and agreement forms when repeated samples show the same preference for enough rounds (beta). That gives fast, energy-efficient finality without the long probabilistic settlement of Nakamoto chains, where a block can be reorganized after inclusion.
-
-**What are the current validator requirements?**
-On the Primary Network, a validator stakes at least 2,000 AVAX on the P-Chain. On an Avalanche L1 after Etna, a validator pays a continuous P-Chain fee (about 1.33 AVAX per month) and follows the L1's ValidatorManager rules instead of the 2,000 AVAX requirement, and does not have to validate the Primary Network.
-
-**Are fees on Avalanche low?**
-Typically yes when activity is moderate. The C-Chain minimum base fee is 1 nAVAX after ACP-125, so simple transfers cost fractions of a cent to a few cents. Fees are burned. L1s can set even lower fees or different models, and during high demand fees rise under EIP-1559-like pricing.
-
-**Does Avalanche slash stakers?**
-No. Avalanche does not slash principal on the Primary Network. If a validator misses the uptime threshold (80 percent for periods started before Helicon, 90 percent after, when observed by stake-weighted peers), the validator and its delegators receive no rewards for that period, but principal returns at the end of the lock.
-
-**What is the difference between a subnet and an Avalanche L1?**
-Subnet was the old term for a set of validators. Avalanche L1 is the post-Etna term for the sovereign chain itself, with its own validator management contract and continuous fee model. Docs still show both terms; new work uses Avalanche L1.
-
-**How do Avalanche L1s talk to each other?**
-Through ICM (Interchain Messaging) using Avalanche Warp Messaging. Source-chain validators sign a message, signatures are aggregated via BLS, and the destination chain verifies the aggregate against the P-Chain validator registry. Teleporter provides a contract-level interface on EVM L1s.
-
-**What AVAX supply and wallet facts should I know?**
-Cap is 720 million AVAX. 360 million at genesis, remainder as staking issuance. Current circulating supply and stake share are shown at stats.avax.network. Fees across all chains that use AVAX for gas are burned.
-
-**When should I choose C-Chain versus my own L1?**
-Start on the C-Chain if your transaction rate is modest, you want immediate access to stablecoins, custody, wallets, and DeFi liquidity, and you do not need custom compliance. Move to an L1 when you need your own gas token, predictable fees under your own load, permissioning, privacy, or VM changes that the C-Chain cannot provide.
-
-**Where can I verify these details?**
+## FAQ**What exactly is Avalanche?**Avalanche is a network of blockchains anchored by a Primary Network of three chains (X-Chain, P-Chain, C-Chain) plus many sovereign Avalanche L1s. It uses the Snowman consensus protocol, which reaches agreement by repeated random sampling rather than leader proposal or mining.**How does Snowman differ from proof of work or proof of stake?**Snowman is not work-based and is leaderless. Any staked validator can propose, and agreement forms when repeated samples show the same preference for enough rounds (beta). That gives fast, energy-efficient finality without the long probabilistic settlement of Nakamoto chains, where a block can be reorganized after inclusion.**What are the current validator requirements?**On the Primary Network, a validator stakes at least 2,000 AVAX on the P-Chain. On an Avalanche L1 after Etna, a validator pays a continuous P-Chain fee (about 1.33 AVAX per month) and follows the L1's ValidatorManager rules instead of the 2,000 AVAX requirement, and does not have to validate the Primary Network.**Are fees on Avalanche low?**Typically yes when activity is moderate. The C-Chain minimum base fee is 1 nAVAX after ACP-125, so simple transfers cost fractions of a cent to a few cents. Fees are burned. L1s can set even lower fees or different models, and during high demand fees rise under EIP-1559-like pricing.**Does Avalanche slash stakers?**No. Avalanche does not slash principal on the Primary Network. If a validator misses the uptime threshold (80 percent for periods started before Helicon, 90 percent after, when observed by stake-weighted peers), the validator and its delegators receive no rewards for that period, but principal returns at the end of the lock.**What is the difference between a subnet and an Avalanche L1?**Subnet was the old term for a set of validators. Avalanche L1 is the post-Etna term for the sovereign chain itself, with its own validator management contract and continuous fee model. Docs still show both terms; new work uses Avalanche L1.**How do Avalanche L1s talk to each other?**Through ICM (Interchain Messaging) using Avalanche Warp Messaging. Source-chain validators sign a message, signatures are aggregated via BLS, and the destination chain verifies the aggregate against the P-Chain validator registry. Teleporter provides a contract-level interface on EVM L1s.**What AVAX supply and wallet facts should I know?**Cap is 720 million AVAX. 360 million at genesis, remainder as staking issuance. Current circulating supply and stake share are shown at stats.avax.network. Fees across all chains that use AVAX for gas are burned.**When should I choose C-Chain versus my own L1?**Start on the C-Chain if your transaction rate is modest, you want immediate access to stablecoins, custody, wallets, and DeFi liquidity, and you do not need custom compliance. Move to an L1 when you need your own gas token, predictable fees under your own load, permissioning, privacy, or VM changes that the C-Chain cannot provide.**Where can I verify these details?**
 Primary Network and consensus docs at build.avax.network/docs/primary-network and docs/avax-consensus, staking guide at build.avax.network/docs/primary-network/validate, ICM at build.avax.network/docs/cross-chain/avalanche-warp-messaging, Etna changes at avax.network/about/blog/etna-enhancing-the-sovereignty-of-avalanche-l1-networks, and live network stats at explorer.avax.network, status.avax.network, and avascan.info.
 
 ## Verifiable Primary Sources & References

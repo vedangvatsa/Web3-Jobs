@@ -8,7 +8,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man drawing
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## Introduction: The Marketing Guru of NFTs
 
@@ -24,11 +24,9 @@ His core skill has always been understanding where consumer attention is going a
 
 ## Core Thesis: NFTs as Long-Term IP and Community Keys
 
-Unlike many who entered the space with a focus on finance or technology, Gary's perspective on Web3 is rooted in marketing, branding, and human behavior. His central thesis is that NFTs are not just about the art; they are about **access, community, and the creation of long-term intellectual property (IP).**
+Unlike many who entered the space with a focus on finance or technology, Gary's perspective on Web3 is rooted in marketing, branding, and human behavior. His central thesis is that NFTs are not just about the art; they are about **access, community, and the creation of long-term intellectual property (IP).**### 1. The Real Value is Utility and Access
 
-### 1. The Real Value is Utility and Access
-
-For Gary, the "art" of an NFT is often the least important part. He consistently argues that the long-term value of an NFT project will be determined by the **utility** it provides to its holders.
+For Gary, the "art" of an NFT is often the least important part. He consistently argues that the long-term value of an NFT project will be determined by the**utility** it provides to its holders.
 
 * **NFTs as "Keys":** He views NFTs as digital keys that grant access to a community, events, information, or experiences. The NFT is the proof of membership.
 * **A New Kind of Membership Card:** Holding a specific NFT might grant you access to a private Discord server, a seat at an exclusive conference, a one-on-one meeting with the founder, or a free product. The more valuable the access, the more valuable the NFT "key."

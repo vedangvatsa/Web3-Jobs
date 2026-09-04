@@ -9,7 +9,7 @@ description: >-
   OpenSea Studio or Manifold without wasting gas or rights.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 ## What is an NFT collection
 
@@ -47,8 +47,8 @@ You will need a small amount of ETH to pay network fees. The exact amount depend
 
 A collection is not created by uploading files alone. You deploy a smart contract that implements a token standard, then call mint functions that assign tokenIds and set a tokenURI.
 
-- **ERC-721** is for unique items. One contract tracks many distinct tokenIds, each with one owner. This is the standard for most art and profile picture collections. Spec: eips.ethereum.org/EIPS/eip-721 and ethereum.org/developers/docs/standards/tokens/erc-721. Proposed in January 2018 by William Entriken, Dieter Shirley, Jacob Evans, and Nastassia Sachs.
-- **ERC-1155** is a multi-token standard. One contract can manage many token types with configurable supply per id and allows batch transfers. This is common for editions and games where one id may represent 25 prints or 1,000 consumables. Spec: eips.ethereum.org/EIPS/eip-1155 and ethereum.org/developers/docs/standards/tokens/erc-1155. Proposed in June 2018 by Witek Radomski, Andrew Cooke, Philippe Castonguay, James Therien, Eric Binet, and Ronan Sandford.
+- **ERC-721**is for unique items. One contract tracks many distinct tokenIds, each with one owner. This is the standard for most art and profile picture collections. Spec: eips.ethereum.org/EIPS/eip-721 and ethereum.org/developers/docs/standards/tokens/erc-721. Proposed in January 2018 by William Entriken, Dieter Shirley, Jacob Evans, and Nastassia Sachs.
+-**ERC-1155**is a multi-token standard. One contract can manage many token types with configurable supply per id and allows batch transfers. This is common for editions and games where one id may represent 25 prints or 1,000 consumables. Spec: eips.ethereum.org/EIPS/eip-1155 and ethereum.org/developers/docs/standards/tokens/erc-1155. Proposed in June 2018 by Witek Radomski, Andrew Cooke, Philippe Castonguay, James Therien, Eric Binet, and Ronan Sandford.
 
 The contract stores a tokenURI, a link to a JSON file with name, description, and an image URI. Wallets and marketplaces read that JSON to show the media. The JSON pattern is defined in the ERC-721 metadata extension.
 
@@ -78,27 +78,23 @@ Supply and standard are linked. If each piece must be distinct with its own toke
 
 Large files are not stored on Ethereum. They are stored off chain and referenced by hash.
 
-- **IPFS with pinning** is the most common. You add the file to IPFS and get a CID such as ipfs://bafybeib... A CID is a hash of the content, not a location. The file stays available only if someone pins it. If no one pins it, it can be garbage collected. Docs: docs.ipfs.tech/how-to/best-practices-for-nft-data. Services like Pinata or Filebase pin for you. Use ipfs:// in the contract, not a specific gateway URL like https://gateway.pinata.cloud.
-- **Arweave** offers paid permanent storage with different guarantees and is often used as a backup.
-- **On-chain SVG or code** is possible for small generative work but costs more gas. Autoglyphs stored the algorithm inside the contract at 0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782.
-- **Centralized server** is fragile. If the server goes down, the token points to a broken link. The token still exists, the media does not.
+-**IPFS with pinning**is the most common. You add the file to IPFS and get a CID such as ipfs://bafybeib... A CID is a hash of the content, not a location. The file stays available only if someone pins it. If no one pins it, it can be garbage collected. Docs: docs.ipfs.tech/how-to/best-practices-for-nft-data. Services like Pinata or Filebase pin for you. Use ipfs:// in the contract, not a specific gateway URL like https://gateway.pinata.cloud.
+-**Arweave**offers paid permanent storage with different guarantees and is often used as a backup.
+-**On-chain SVG or code**is possible for small generative work but costs more gas. Autoglyphs stored the algorithm inside the contract at 0xd4e4078ca3495DE5B1d4dB434BEbc5a986197782.
+-**Centralized server**is fragile. If the server goes down, the token points to a broken link. The token still exists, the media does not.
 
 Best practice from docs.ipfs.tech is to wrap files in a directory when adding, use CIDv1, prefix with ipfs:// for the canonical link, and generate gateway URLs only in your app's presentation layer. Pin the media and JSON with at least one paid pinning service and, if possible, your own node.
 
 ### Marketplaces and who controls the contract
 
-You have two main paths.
-
-**Open deploy with your own contract.** Tools like Manifold Studio and OpenSea Studio let you deploy a Creator Contract you own. With Manifold, you choose ERC-721 or ERC-1155, you control mint permissions, metadata updates, and royalty settings, and you can add extensions for custom drops. The contract stays reusable for future releases. Docs: docs.manifold.xyz and help.manifold.xyz/en/contract-deploy. Manifold Creator Contracts use a delegate proxy to the Creator Core implementation and support mint, tokenURI, transfer checks, burn, and royalty configuration per token or per extension.
+You have two main paths.**Open deploy with your own contract.**Tools like Manifold Studio and OpenSea Studio let you deploy a Creator Contract you own. With Manifold, you choose ERC-721 or ERC-1155, you control mint permissions, metadata updates, and royalty settings, and you can add extensions for custom drops. The contract stays reusable for future releases. Docs: docs.manifold.xyz and help.manifold.xyz/en/contract-deploy. Manifold Creator Contracts use a delegate proxy to the Creator Core implementation and support mint, tokenURI, transfer checks, burn, and royalty configuration per token or per extension.
 
 With OpenSea Studio, you have two modes documented at support.opensea.io/en/articles/8867080-how-do-i-use-opensea-studio:
 
-- **Open Collection** uses ERC-1155. You mint directly into your own wallet, items show immediately, and you set supply per item. Use supply 1 for a unique 1-of-1. This is best for beginners or gradual releases.
-- **Scheduled Drop** uses ERC-721. Buyers mint into their own wallets during timed stages. You can configure up to five presale stages plus a required public stage, each with price, per-wallet limit, and allowlist. Allowlist CSV must be headerless, use full 0x addresses, no ENS, no duplicates, up to 30,000 addresses per stage. The public stage is always last and cannot be deleted. Maximum stage duration is 365 days. After deployment you open Media and Metadata, upload up to 10,000 files in JPG, PNG, SVG, or GIF plus a CSV that maps media to tokenIds, set a pre-reveal image, and call Reveal after mint ends. Supply cannot be increased through Studio after minting begins. Increasing it directly on chain can cause OpenSea to delist the collection.
+-**Open Collection**uses ERC-1155. You mint directly into your own wallet, items show immediately, and you set supply per item. Use supply 1 for a unique 1-of-1. This is best for beginners or gradual releases.
+-**Scheduled Drop**uses ERC-721. Buyers mint into their own wallets during timed stages. You can configure up to five presale stages plus a required public stage, each with price, per-wallet limit, and allowlist. Allowlist CSV must be headerless, use full 0x addresses, no ENS, no duplicates, up to 30,000 addresses per stage. The public stage is always last and cannot be deleted. Maximum stage duration is 365 days. After deployment you open Media and Metadata, upload up to 10,000 files in JPG, PNG, SVG, or GIF plus a CSV that maps media to tokenIds, set a pre-reveal image, and call Reveal after mint ends. Supply cannot be increased through Studio after minting begins. Increasing it directly on chain can cause OpenSea to delist the collection.
 
-In late 2023 OpenSea removed free lazy minting. As of October 3, 2023, creators deploy their own contract and pay gas to mint. OpenSea Studio currently supports Ethereum, Base, Polygon, Klaytn, Arbitrum, Optimism, and Avalanche for many flows. Check opensea.io/learn/nft/how-to-create-an-nft and support.opensea.io/en/articles/8867023-how-do-i-create-an-nft for the current list. For collections, you cannot move tokens between collections later, so confirm the collection before deploying.
-
-**Curated galleries.** SuperRare accepts artists by application and review. Only invited artists can mint there, and work is typically 1-of-1. Info: help.superrare.com/en/articles/10629742-offers-auctions-and-pricing. Foundation, which was a large curated platform from 2021, closed permanently. The platform went offline on April 27, 2026 after its sale to Blackdove did not complete, as stated at foundation.app and in the founder letter of April 15, 2026. Its contracts remain on chain and media stays pinned through April 27, 2027, but you cannot mint there now.
+In late 2023 OpenSea removed free lazy minting. As of October 3, 2023, creators deploy their own contract and pay gas to mint. OpenSea Studio currently supports Ethereum, Base, Polygon, Klaytn, Arbitrum, Optimism, and Avalanche for many flows. Check opensea.io/learn/nft/how-to-create-an-nft and support.opensea.io/en/articles/8867023-how-do-i-create-an-nft for the current list. For collections, you cannot move tokens between collections later, so confirm the collection before deploying.**Curated galleries.**SuperRare accepts artists by application and review. Only invited artists can mint there, and work is typically 1-of-1. Info: help.superrare.com/en/articles/10629742-offers-auctions-and-pricing. Foundation, which was a large curated platform from 2021, closed permanently. The platform went offline on April 27, 2026 after its sale to Blackdove did not complete, as stated at foundation.app and in the founder letter of April 15, 2026. Its contracts remain on chain and media stays pinned through April 27, 2027, but you cannot mint there now.
 
 For most beginners, deploying on Base via Manifold or OpenSea Studio is the lowest cost path with full contract ownership. Apply to SuperRare later once you have a coherent body of work and consistent sales.
 
@@ -178,11 +174,7 @@ Write a one-sentence pitch, a short description, and a trait sheet. List trait t
 
 A note on NFT.Storage: Classic NFT.Storage stopped accepting new uploads in July 2024 and its successor paths have wound down. The IPFS concepts still hold, but you should pin with an active service you control now, not rely on legacy free storage.
 
-### 6. Deploy the contract and mint
-
-**Using OpenSea Studio as a reference, the flow documented at support.opensea.io is:**
-
-For an Open Collection (ERC-1155, mint to yourself):
+### 6. Deploy the contract and mint**Using OpenSea Studio as a reference, the flow documented at support.opensea.io is:**For an Open Collection (ERC-1155, mint to yourself):
 
 1. Go to Studio, click Create new, then Create Collection. You cannot move tokens between collections later.
 2. Deploy the smart contract. Add logo, contract name, symbol, and choose the chain. Sign the deployment transaction and pay gas. Contract name and symbol cannot be changed after deployment.
@@ -228,45 +220,7 @@ Track every transaction from day one: deployment gas, mint gas, marketplace fees
 - Changing supply or price after collectors have paid without clear communication. On drops, lowering supply after mint starts is permanent and can affect listings.
 - Setting a 10 percent royalty and expecting it everywhere. On many routes it will be ignored. Test your contract on the marketplaces you care about before promising payouts to collaborators.
 
-## FAQ
-
-**What does it cost to create an NFT collection in 2026?**
-
-Software cost is low. The direct cost is gas plus pinning. Deploying a standard ERC-721 contract and minting one token on Base can be under $0.50 in total at quiet base fees, based on the 0.005 gwei minimum and observed ranges of $0.04 for a mint. A 100-item collection on Base might be $4 to $10 in mint gas plus deployment. The same actions on Ethereum mainnet vary from a few dollars to tens or hundreds of dollars depending on congestion. A custom ERC-721 deploy on Base is often $1 to $5, on Ethereum $40 to $250. Add about $5 to $20 per month for pinning if you use a paid service, plus time for art, metadata, and support.
-
-**Should I use ERC-721 or ERC-1155 for my collection?**
-
-Use ERC-721 if each piece must be distinct with one owner per tokenId, such as PFPs, 1-of-1 art, or numbered editions where each tokenId has its own metadata. Use ERC-1155 if you need editions, batch transfers, or to manage many token types in one contract, such as a game where one id is a sword with supply 1,000 and another is a consumable with supply 10,000. For photography with 25 identical prints of one image, ERC-1155 is more gas efficient. For a PFP set where every trait combination is unique, ERC-721 is simpler and has broader marketplace familiarity.
-
-**Where should a new creator launch a collection first?**
-
-Start where you can own the contract and test cheaply. Deploy your own contract via Manifold or OpenSea Studio on Base, mint a small set to your wallet, then list on OpenSea which indexes Base and Ethereum. This gives you ownership and reach without curation delay. For open editions or free mints, Zora on Base is a common low-cost path. After you have consistent sales and a clear style, consider curation on SuperRare for 1-of-1 work. Do not plan around Foundation, which went offline on April 27, 2026.
-
-**What is the difference between an OpenSea Open Collection and a Scheduled Drop?**
-
-Open Collection uses ERC-1155 and mints directly into your wallet. Items show immediately after upload and mint. Scheduled Drop uses ERC-721 and lets buyers mint into their own wallets during timed stages. Drops support bulk upload up to 10,000 files, presale stages and allowlists, and a delayed reveal. If you want a timed sale where the community mints, use a Drop. If you want to mint gradually yourself and list later, use an Open Collection.
-
-**Can I guarantee royalties on every resale of my collection?**
-
-No. ERC-2981 lets you signal the amount, but only contract-level enforcement plus marketplace support makes it required, and only on those supported paths. On OpenSea, that means a post-April 2024 Studio contract or an ERC721-C or ERC1155-C contract with enforcement turned on, which then limits sales to OpenSea and other Payment Processor venues like Magic Eden. SuperRare enforces 10 percent on its own platform. Elsewhere, sellers may pay zero. The top 10 collections have earned over $345 million in royalties since inception, but that figure reflects early enforcement that later became optional on many venues.
-
-**Do I keep copyright when someone buys from my collection?**
-
-Yes, by default you keep it. The buyer owns the token and typically a license to display the art personally. You keep reproduction and commercial rights unless a written license transfers them. Put the license in the project docs and in each token description. Common choices are personal display only, limited commercial use up to a cap like $100,000, or full commercial rights as with some PFP projects. Be explicit, because "owning the NFT" does not equal owning the art copyright.
-
-**What file storage should I trust for a collection?**
-
-Pin to IPFS with at least one independent pin and test resolution on multiple gateways. Wrap files in a directory so filenames are preserved, use CIDv1, and store ipfs:// in the contract. For work that must stay for years, add Arweave as a backup. Avoid pointing only to a single domain you control, and keep local masters with hashes so you can re-pin if a service closes. Foundation has said it will keep its IPFS gateway pinned through April 27, 2027, but you should still copy your own media now and not rely on any single gateway.
-
-**How do I know if a collection is legitimate before I buy or collaborate?**
-
-Copy the contract address from the official site or verified social account, check it on Etherscan or Basescan for a verified contract, review the holders and transfer history, and inspect the tokenURI. An ipfs:// CID that resolves widely is a better sign than a single https link. A non-verified contract that asks for unlimited approvals is a red flag. For generative collections, verify that the hash is the only randomness source and that library versions are pinned.
-
-**Are NFT collections still a viable path in 2026?**
-
-There are durable roles tied to NFT tech, but fewer speculative ones than in 2021. Developers who know Solidity, gas optimization, and ERC-721 and ERC-1155 patterns work on minting tools and games. Product, community, design, and operations roles exist and follow market cycles. As a solo creator, treat the first six months as testing and community building with modest sales expectations, not as a full salary replacement. Prioritize teams and collectors with real usage, clear licensing, and audited contracts, and keep costs low by building on Layer 2 first.
-
-**What should I read next on this site?**
+## FAQ**What does it cost to create an NFT collection in 2026?**Software cost is low. The direct cost is gas plus pinning. Deploying a standard ERC-721 contract and minting one token on Base can be under $0.50 in total at quiet base fees, based on the 0.005 gwei minimum and observed ranges of $0.04 for a mint. A 100-item collection on Base might be $4 to $10 in mint gas plus deployment. The same actions on Ethereum mainnet vary from a few dollars to tens or hundreds of dollars depending on congestion. A custom ERC-721 deploy on Base is often $1 to $5, on Ethereum $40 to $250. Add about $5 to $20 per month for pinning if you use a paid service, plus time for art, metadata, and support.**Should I use ERC-721 or ERC-1155 for my collection?**Use ERC-721 if each piece must be distinct with one owner per tokenId, such as PFPs, 1-of-1 art, or numbered editions where each tokenId has its own metadata. Use ERC-1155 if you need editions, batch transfers, or to manage many token types in one contract, such as a game where one id is a sword with supply 1,000 and another is a consumable with supply 10,000. For photography with 25 identical prints of one image, ERC-1155 is more gas efficient. For a PFP set where every trait combination is unique, ERC-721 is simpler and has broader marketplace familiarity.**Where should a new creator launch a collection first?**Start where you can own the contract and test cheaply. Deploy your own contract via Manifold or OpenSea Studio on Base, mint a small set to your wallet, then list on OpenSea which indexes Base and Ethereum. This gives you ownership and reach without curation delay. For open editions or free mints, Zora on Base is a common low-cost path. After you have consistent sales and a clear style, consider curation on SuperRare for 1-of-1 work. Do not plan around Foundation, which went offline on April 27, 2026.**What is the difference between an OpenSea Open Collection and a Scheduled Drop?**Open Collection uses ERC-1155 and mints directly into your wallet. Items show immediately after upload and mint. Scheduled Drop uses ERC-721 and lets buyers mint into their own wallets during timed stages. Drops support bulk upload up to 10,000 files, presale stages and allowlists, and a delayed reveal. If you want a timed sale where the community mints, use a Drop. If you want to mint gradually yourself and list later, use an Open Collection.**Can I guarantee royalties on every resale of my collection?**No. ERC-2981 lets you signal the amount, but only contract-level enforcement plus marketplace support makes it required, and only on those supported paths. On OpenSea, that means a post-April 2024 Studio contract or an ERC721-C or ERC1155-C contract with enforcement turned on, which then limits sales to OpenSea and other Payment Processor venues like Magic Eden. SuperRare enforces 10 percent on its own platform. Elsewhere, sellers may pay zero. The top 10 collections have earned over $345 million in royalties since inception, but that figure reflects early enforcement that later became optional on many venues.**Do I keep copyright when someone buys from my collection?**Yes, by default you keep it. The buyer owns the token and typically a license to display the art personally. You keep reproduction and commercial rights unless a written license transfers them. Put the license in the project docs and in each token description. Common choices are personal display only, limited commercial use up to a cap like $100,000, or full commercial rights as with some PFP projects. Be explicit, because "owning the NFT" does not equal owning the art copyright.**What file storage should I trust for a collection?**Pin to IPFS with at least one independent pin and test resolution on multiple gateways. Wrap files in a directory so filenames are preserved, use CIDv1, and store ipfs:// in the contract. For work that must stay for years, add Arweave as a backup. Avoid pointing only to a single domain you control, and keep local masters with hashes so you can re-pin if a service closes. Foundation has said it will keep its IPFS gateway pinned through April 27, 2027, but you should still copy your own media now and not rely on any single gateway.**How do I know if a collection is legitimate before I buy or collaborate?**Copy the contract address from the official site or verified social account, check it on Etherscan or Basescan for a verified contract, review the holders and transfer history, and inspect the tokenURI. An ipfs:// CID that resolves widely is a better sign than a single https link. A non-verified contract that asks for unlimited approvals is a red flag. For generative collections, verify that the hash is the only randomness source and that library versions are pinned.**Are NFT collections still a viable path in 2026?**There are durable roles tied to NFT tech, but fewer speculative ones than in 2021. Developers who know Solidity, gas optimization, and ERC-721 and ERC-1155 patterns work on minting tools and games. Product, community, design, and operations roles exist and follow market cycles. As a solo creator, treat the first six months as testing and community building with modest sales expectations, not as a full salary replacement. Prioritize teams and collectors with real usage, clear licensing, and audited contracts, and keep costs low by building on Layer 2 first.**What should I read next on this site?**
 
 Start with /what-are-nfts for the underlying standards, /what-is-a-blockchain for ledger basics, /what-are-smart-contracts for how contracts execute, /generative-art-and-nfts for long-form generative mechanics, and /how-to-choose-a-crypto-wallet for custody. For pricing and rights, see /nft-artist-royalties. For a single-piece workflow, see /how-to-become-an-nft-creator.
 

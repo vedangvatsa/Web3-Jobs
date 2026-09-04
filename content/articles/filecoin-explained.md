@@ -8,7 +8,7 @@ category: Technology Deep Dives
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: decentralized storage network
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 
 Filecoin is a peer-to-peer network that pays independent storage providers to store your data and proves on chain that the data is still there. It adds an incentive and verification layer on top of IPFS content addressing, so you can keep data for months or years without trusting a single cloud company.
@@ -27,16 +27,10 @@ Most Filecoin nodes also speak IPFS. IPFS addresses files by what they contain, 
 
 Filecoin fits teams that need durability, auditability, and independence from a single provider.
 
-**Good fit:**
-
-- Web3 teams that store NFT images, metadata, and frontend assets where a broken HTTPS link would break the product. Services like NFT.Storage used Filecoin as the persistence layer behind IPFS CIDs.
+**Good fit:**- Web3 teams that store NFT images, metadata, and frontend assets where a broken HTTPS link would break the product. Services like NFT.Storage used Filecoin as the persistence layer behind IPFS CIDs.
 - Archivists and researchers who keep large datasets, logs, or cultural records for years. The Internet Archive, Smithsonian, MIT Open Learning, and Starling Lab have published datasets on Filecoin for this reason.
 - Builders who need programmable storage. With smart contracts on Filecoin you can automate deal renewal, payments, and access logic.
-- Data owners who want to verify storage rather than trust invoices. CIDs plus on-chain proofs let any third party check integrity.
-
-**Poor fit:**
-
-- Hot application workloads that need fast, consistent reads with single-digit millisecond latency and fine-grained access control. Retrieval on Filecoin can be seconds to hours unless you add a caching or warm-storage layer.
+- Data owners who want to verify storage rather than trust invoices. CIDs plus on-chain proofs let any third party check integrity.**Poor fit:**- Hot application workloads that need fast, consistent reads with single-digit millisecond latency and fine-grained access control. Retrieval on Filecoin can be seconds to hours unless you add a caching or warm-storage layer.
 - Small, constantly changing objects where per-object deal negotiation is overkill. An S3-compatible hot store or a pinning service is simpler.
 - Teams unwilling to handle market mechanics, token volatility, or key management for deals. Managed onramps help, but you still choose providers and track deal expiration.
 
@@ -48,9 +42,9 @@ If you are evaluating Filecoin for a job, think of roles like storage integrator
 
 Filecoin organizes storage around three ideas, documented at [docs.filecoin.io/getting-started/what-is-filecoin/storage-model](https://docs.filecoin.io/getting-started/what-is-filecoin/storage-model):
 
-- **Providers.** Storage providers (SPs) store data long term and submit proofs. Retrieval providers (RPs) focus on fast delivery. Many SPs do both, but the roles are distinct.
-- **Deals.** A deal is a contract that states data size, price, duration, and collateral. Clients and providers negotiate off chain first, then publish the agreed deal on chain for verification. Deal durations have historically ranged from about 180 to 540 days, with extension possible, and current bounds are enforced by the market actors and the clients you use.
-- **Sectors.** Sectors are the basic units of provable storage. Providers must place client data, packaged as a CAR file (Content Addressable Archive), into sealed sectors that are typically 32 GiB or 64 GiB. They can extend sector lifetimes before expiry.
+-**Providers.**Storage providers (SPs) store data long term and submit proofs. Retrieval providers (RPs) focus on fast delivery. Many SPs do both, but the roles are distinct.
+-**Deals.**A deal is a contract that states data size, price, duration, and collateral. Clients and providers negotiate off chain first, then publish the agreed deal on chain for verification. Deal durations have historically ranged from about 180 to 540 days, with extension possible, and current bounds are enforced by the market actors and the clients you use.
+-**Sectors.**Sectors are the basic units of provable storage. Providers must place client data, packaged as a CAR file (Content Addressable Archive), into sealed sectors that are typically 32 GiB or 64 GiB. They can extend sector lifetimes before expiry.
 
 Tools for data preparation include CLIs such as Singularity and the data-prep-tools repo, which pack files into CARs and generate PieceCIDs. Market software such as Boost or Curio handles deal acceptance, CAR transfer, and the sealing pipeline that prepares sectors for proving.
 
@@ -58,10 +52,10 @@ Tools for data preparation include CLIs such as Singularity and the data-prep-to
 
 Filecoin does not trust claims. It checks them.
 
-- **Proof of Replication (PoRep).** At the start of a deal, the provider seals the sector. Sealing creates a unique encoding bound to the data, the provider identity, and the time of sealing (SealRandomness from the chain). The provider then compresses the encoding into a zk-SNARK and submits it. This shows the network that a distinct physical copy exists for that provider, not just a pointer to someone else's copy. Details are at [docs.filecoin.io/basics/the-blockchain/proofs](https://docs.filecoin.io/basics/the-blockchain/proofs) and in the Filecoin spec.
-- **Proof of Spacetime (PoSt).** After sealing, the provider must keep proving it still holds the data. Filecoin uses two challenges:
-  - **WindowPoSt** checks every sector in rolling 30-minute windows across a proving period. Missed windows can lead to faults and slashing.
-  - **WinningPoSt** is a small sample the elected block proposer supplies to earn the right to produce a block.
+-**Proof of Replication (PoRep).**At the start of a deal, the provider seals the sector. Sealing creates a unique encoding bound to the data, the provider identity, and the time of sealing (SealRandomness from the chain). The provider then compresses the encoding into a zk-SNARK and submits it. This shows the network that a distinct physical copy exists for that provider, not just a pointer to someone else's copy. Details are at [docs.filecoin.io/basics/the-blockchain/proofs](https://docs.filecoin.io/basics/the-blockchain/proofs) and in the Filecoin spec.
+-**Proof of Spacetime (PoSt).**After sealing, the provider must keep proving it still holds the data. Filecoin uses two challenges:
+  -**WindowPoSt**checks every sector in rolling 30-minute windows across a proving period. Missed windows can lead to faults and slashing.
+  -**WinningPoSt**is a small sample the elected block proposer supplies to earn the right to produce a block.
 
 Both proofs are SNARKs. Failed proofs reduce storage power and can burn part of the provider's pledged collateral to the burn address f099.
 
@@ -115,28 +109,20 @@ Historically, cold Filecoin retrieval could take minutes to hours because data h
 
 Filecoin shifted from bootstrapping raw capacity to paid, verifiable services.
 
-- **NV25 Teep (April 2025)** simplified provider economics, reduced onboarding costs via FIP-0100, brought EIP-1153 transient storage to FEVM, and removed the Batch Balancer fee. See the NV25 notes at [filecoin.io/blog](https://filecoin.io/blog/filecoin-in-2025-year-in-review).
-- **F3 Fast Finality (2025)** cut finality from about 7.5 hours to a few minutes, roughly a 450 times improvement. This makes payments, bridges, and app interactions more practical.
-- **Proof of Data Possession (PDP) (May 2025)** added hot-storage proofs for data that must be available immediately, useful for retrieval services, frontends, and AI datasets.
-- **Filecoin Onchain Cloud (launched November 2025)** bundles verifiable storage, fast retrieval, and programmable payments. Building blocks include Synapse SDK for uploads and discovery, Filecoin Pin for on-chain IPFS pinning, Filecoin Pay for token-agnostic settlement, Warm Storage for Filecoin-backed hot data backed by PDP, and Filecoin Beam for moving data between on-chain and off-chain systems. Early testnet stats reported about 170 unique wallets making about 4,000 on-chain deals through 30 plus service providers, with more than 500 developers using Synapse. Integrations include ENS, Safe, Monad, KYVE, and cross-chain links such as Avalanche C-Chain to Filecoin.
+-**NV25 Teep (April 2025)**simplified provider economics, reduced onboarding costs via FIP-0100, brought EIP-1153 transient storage to FEVM, and removed the Batch Balancer fee. See the NV25 notes at [filecoin.io/blog](https://filecoin.io/blog/filecoin-in-2025-year-in-review).
+-**F3 Fast Finality (2025)**cut finality from about 7.5 hours to a few minutes, roughly a 450 times improvement. This makes payments, bridges, and app interactions more practical.
+-**Proof of Data Possession (PDP) (May 2025)**added hot-storage proofs for data that must be available immediately, useful for retrieval services, frontends, and AI datasets.
+-**Filecoin Onchain Cloud (launched November 2025)**bundles verifiable storage, fast retrieval, and programmable payments. Building blocks include Synapse SDK for uploads and discovery, Filecoin Pin for on-chain IPFS pinning, Filecoin Pay for token-agnostic settlement, Warm Storage for Filecoin-backed hot data backed by PDP, and Filecoin Beam for moving data between on-chain and off-chain systems. Early testnet stats reported about 170 unique wallets making about 4,000 on-chain deals through 30 plus service providers, with more than 500 developers using Synapse. Integrations include ENS, Safe, Monad, KYVE, and cross-chain links such as Avalanche C-Chain to Filecoin.
 
 These pieces matter because they address the two critiques Filecoin heard most: finality was slow and retrieval was not prod grade for hot apps.
 
 ## Pros and cons, honestly
 
-No system wins on every axis. Compare against hyperscale object storage, Arweave permanence, and Storj or Sia for S3-compatible distribution.
-
-**Strengths:**
-
-- Verifiable durability without trusting one operator. CIDs prove what you stored, PoRep and WindowPoSt prove it is still stored, and deals plus slashing make it costly to lie.
+No system wins on every axis. Compare against hyperscale object storage, Arweave permanence, and Storj or Sia for S3-compatible distribution.**Strengths:**- Verifiable durability without trusting one operator. CIDs prove what you stored, PoRep and WindowPoSt prove it is still stored, and deals plus slashing make it costly to lie.
 - Global redundancy and permissionless entry. Any qualified provider can add capacity, and clients can pick providers based on history and fault record rather than brand.
 - Open pricing and composability with IPFS. You can address data once as a CID, pin it for fast access, and also create a long-term Filecoin deal from the same CAR.
 - Programmability through FVM. Contracts can automate deal making, renewal, and payment splits that would be manual with a traditional cloud bill.
-- Proven at scale for archives and Web3 media. Cultural and scientific datasets plus NFT media have been onboarded at petabyte scale through specialized onramps.
-
-**Tradeoffs:**
-
-- Retrieval is not S3 by default. Cold sectors need unsealing, and tail latency varies by provider bandwidth and region. You need a warm layer, CDN, or provider-side cache for user-facing reads. FOC Warm Storage and services like Storacha and Saturn target this, but you must design for it.
+- Proven at scale for archives and Web3 media. Cultural and scientific datasets plus NFT media have been onboarded at petabyte scale through specialized onramps.**Tradeoffs:**- Retrieval is not S3 by default. Cold sectors need unsealing, and tail latency varies by provider bandwidth and region. You need a warm layer, CDN, or provider-side cache for user-facing reads. FOC Warm Storage and services like Storacha and Saturn target this, but you must design for it.
 - Operational complexity. You manage key custody, deal renewal, CAR preparation, gas budgeting, pledge collateral, and provider selection or onramp choice. Misconfiguration can leave data with expiring power.
 - Token exposure. FIL funds collateral, gas, and deals. Price moves affect effective cost. Most providers and clients hedge or use stable payment rails like Filecoin Pay or the FIL-backed USDFC where available.
 - Throughput and cost structure. Sealing is compute heavy, sector commitments burn gas, and chain fees fluctuate. Small, frequently updated objects are cheaper to keep in a hot object store and back up to Filecoin rather than rewriting Filecoin sectors for every edit.
@@ -151,10 +137,10 @@ Pick the path that matches your need for control and speed. All options ultimate
 
 ### Choose a path
 
-- **Fastest to try: managed onramp.** Use Lighthouse, Storacha, Akave, or Pinata. You upload via web UI or SDK, the service packs CARs, negotiates deals, and gives you a CID. Good for NFT media, app assets, and first experiments.
-- **S3 replacement without learning deals: Fil One.** Point your S3 SDK at the Fil One endpoint. You get flat per-terabyte pricing with no egress fees and Filecoin-backed integrity. See [fil.one](https://fil.one).
-- **Verifiable and programmable: Filecoin Onchain Cloud with Synapse SDK.** Use Synapse to store with Warm Storage, prove with PDP, and settle with Filecoin Pay. Good for dApps that need on-chain verification and automatic payments. Docs at [docs.filecoin.cloud](https://docs.filecoin.cloud).
-- **Full control: direct deals with Curio or Boost and Lotus.** Run your own provider stack, import CARs with Singularity, set pricing in Boost or Curio, and monitor proving. Needed if you sell capacity or have strict provider or compliance requirements.
+-**Fastest to try: managed onramp.**Use Lighthouse, Storacha, Akave, or Pinata. You upload via web UI or SDK, the service packs CARs, negotiates deals, and gives you a CID. Good for NFT media, app assets, and first experiments.
+-**S3 replacement without learning deals: Fil One.**Point your S3 SDK at the Fil One endpoint. You get flat per-terabyte pricing with no egress fees and Filecoin-backed integrity. See [fil.one](https://fil.one).
+-**Verifiable and programmable: Filecoin Onchain Cloud with Synapse SDK.**Use Synapse to store with Warm Storage, prove with PDP, and settle with Filecoin Pay. Good for dApps that need on-chain verification and automatic payments. Docs at [docs.filecoin.cloud](https://docs.filecoin.cloud).
+-**Full control: direct deals with Curio or Boost and Lotus.**Run your own provider stack, import CARs with Singularity, set pricing in Boost or Curio, and monitor proving. Needed if you sell capacity or have strict provider or compliance requirements.
 
 ### First upload in an afternoon
 
@@ -197,37 +183,7 @@ Price is market driven. On public onramps, small pins and deals often list at ce
 - Keep Lassie or a gateway fallback ready. Do not hardcode one gateway.
 - If reads are frequent, front with Fil One, Storacha hot retrieval, or a CDN and treat the sealed Filecoin copy as the proof.
 
-## Frequently asked questions
-
-**How is Filecoin different from IPFS?**
-
-IPFS gives you content addressing and peer-to-peer transport. A CID proves what bytes you want, but IPFS alone does not promise anyone will keep them. Filecoin adds storage deals and daily proofs that providers are keeping a sealed copy. Most Filecoin nodes also run IPFS, so you can pin a hot copy for fast reads while Filecoin holds the provable cold copy. See the roles at [docs.filecoin.io/getting-started/what-is-filecoin](https://docs.filecoin.io/getting-started/what-is-filecoin).
-
-**What do PoRep and PoSt actually do?**
-
-PoRep convinces the chain that a provider made a unique, provider-specific copy at sealing time by encoding data with seal randomness and compressing the proof to a SNARK. PoSt then proves the copy is still there over time. WindowPoSt checks all sectors in 30-minute windows, WinningPoSt lets an elected provider propose a block. Both reject fake claims and expose cheaters to slashing.
-
-**What size are sectors and what deal lengths should I expect?**
-
-Sectors are typically 32 GiB or 64 GiB. Deals are published on chain with negotiated durations. Common published ranges are 180 to 540 days, with extensions possible through current market actors. Your chosen onramp or client may enforce narrower minima or maxima, so check its docs before uploading.
-
-**Is FIL the only way to pay?**
-
-The protocol settles in FIL, but product layers add stable rails. Filecoin Pay supports token-agnostic settlement for Onchain Cloud services, and FIL-backed USDFC is used by some workflows to denominate costs in stable terms while the network still uses FIL underneath. Direct deals and pledge always require FIL in your wallet.
-
-**Is data private on Filecoin?**
-
-No by default. Protocol data is not encrypted at rest in a way that hides it from the provider. If you need privacy, encrypt client side before CAR preparation and manage keys outside the storage network. Verify SDK settings if you use Storj-style encryption elsewhere, but do not assume Filecoin encrypts for you.
-
-**Why not put everything on Arweave or on Storj instead?**
-
-Different guarantees. Arweave aims for permanent, pay-once storage backed by an endowment, which is ideal for immutable roots but wasteful for mutable or large hot data. Storj and similar S3-compatible networks offer familiar hot performance with erasure coding and often lower operational overhead. Filecoin gives you on-chain proof of continuous storage and a market for long-term capacity. Many teams keep hot files in Storj or an IPFS pinning layer, keep the provable archive in Filecoin, and keep only the tiny permanent subset in Arweave.
-
-**Do I need to run Lotus to use Filecoin?**
-
-No for storing. Use an onramp, Fil One, or Synapse and you never touch Lotus. Run Lotus or Curio only if you provide storage, need custom deal logic, or want full node verification.
-
-**What should I monitor in production?**
+## Frequently asked questions**How is Filecoin different from IPFS?**IPFS gives you content addressing and peer-to-peer transport. A CID proves what bytes you want, but IPFS alone does not promise anyone will keep them. Filecoin adds storage deals and daily proofs that providers are keeping a sealed copy. Most Filecoin nodes also run IPFS, so you can pin a hot copy for fast reads while Filecoin holds the provable cold copy. See the roles at [docs.filecoin.io/getting-started/what-is-filecoin](https://docs.filecoin.io/getting-started/what-is-filecoin).**What do PoRep and PoSt actually do?**PoRep convinces the chain that a provider made a unique, provider-specific copy at sealing time by encoding data with seal randomness and compressing the proof to a SNARK. PoSt then proves the copy is still there over time. WindowPoSt checks all sectors in 30-minute windows, WinningPoSt lets an elected provider propose a block. Both reject fake claims and expose cheaters to slashing.**What size are sectors and what deal lengths should I expect?**Sectors are typically 32 GiB or 64 GiB. Deals are published on chain with negotiated durations. Common published ranges are 180 to 540 days, with extensions possible through current market actors. Your chosen onramp or client may enforce narrower minima or maxima, so check its docs before uploading.**Is FIL the only way to pay?**The protocol settles in FIL, but product layers add stable rails. Filecoin Pay supports token-agnostic settlement for Onchain Cloud services, and FIL-backed USDFC is used by some workflows to denominate costs in stable terms while the network still uses FIL underneath. Direct deals and pledge always require FIL in your wallet.**Is data private on Filecoin?**No by default. Protocol data is not encrypted at rest in a way that hides it from the provider. If you need privacy, encrypt client side before CAR preparation and manage keys outside the storage network. Verify SDK settings if you use Storj-style encryption elsewhere, but do not assume Filecoin encrypts for you.**Why not put everything on Arweave or on Storj instead?**Different guarantees. Arweave aims for permanent, pay-once storage backed by an endowment, which is ideal for immutable roots but wasteful for mutable or large hot data. Storj and similar S3-compatible networks offer familiar hot performance with erasure coding and often lower operational overhead. Filecoin gives you on-chain proof of continuous storage and a market for long-term capacity. Many teams keep hot files in Storj or an IPFS pinning layer, keep the provable archive in Filecoin, and keep only the tiny permanent subset in Arweave.**Do I need to run Lotus to use Filecoin?**No for storing. Use an onramp, Fil One, or Synapse and you never touch Lotus. Run Lotus or Curio only if you provide storage, need custom deal logic, or want full node verification.**What should I monitor in production?**
 
 Follow power and faults on Filfox or Beryx, WindowPoSt success per provider, days until deal or sector expiry, FIL balance for gas and pledge, and retrieval TTFB by region. Keep an index that maps app object id to CID to PieceCID to provider deal id so you can trace from feature to chain in one query.
 

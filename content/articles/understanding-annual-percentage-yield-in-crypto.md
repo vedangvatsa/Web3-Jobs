@@ -7,7 +7,7 @@ description: >-
   breaks down Annual Percentage Yield, how it differs from APR, and how to.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 In Decentralized Finance ([DeFi](/what-is-defi)), many projects promote high yields, typically expressed as Annual Percentage Yield (APY). Understanding APY and differentiating it from Annual Percentage Rate (APR) is essential for anyone aiming to earn returns on crypto assets. This knowledge can significantly impact your financial decisions.
 
@@ -21,8 +21,8 @@ In DeFi, compounding can occur frequently, such as daily, hourly, or even with e
 
 Grasping the difference between APY and APR is important.
 
-- **APR (Annual Percentage Rate):** This represents the simple interest rate without considering compounding. For example, if you invest a certain amount at a 10% APR, you will have a higher amount at the end of the year.
-- **APY (Annual Percentage Yield):** This figure includes compounding. If you invest a certain amount at a 10% APR with daily compounding, your APY will exceed 10% because you earn interest on a slightly larger amount each day.
+- **APR (Annual Percentage Rate):**This represents the simple interest rate without considering compounding. For example, if you invest a certain amount at a 10% APR, you will have a higher amount at the end of the year.
+-**APY (Annual Percentage Yield):**This figure includes compounding. If you invest a certain amount at a 10% APR with daily compounding, your APY will exceed 10% because you earn interest on a slightly larger amount each day.
 
 ### The Formula
 
@@ -42,9 +42,9 @@ Since APY accounts for compounding, it will always be higher than APR for the sa
 
 Yields in DeFi originate from various sources, including:
 
-- **Lending Interest:** Users lending assets on platforms like [Aave](/what-is-defi) earn interest from borrowers.
-- **Trading Fees:** [Liquidity Providers](/what-is-yield-farming) on decentralized exchanges (DEX), such as Uniswap, earn a share of fees from trades executed in their pool.
-- **[Token](/what-is-a-token) Rewards (Inflation):** Many new protocols offer high yields through inflationary token rewards, incentivizing users to provide liquidity or [stake](/how-to-become-a-web3-staking-specialist) their assets. This reward can be volatile.
+-**Lending Interest:**Users lending assets on platforms like [Aave](/what-is-defi) earn interest from borrowers.
+-**Trading Fees:**[Liquidity Providers](/what-is-yield-farming) on decentralized exchanges (DEX), such as Uniswap, earn a share of fees from trades executed in their pool.
+-**[Token](/what-is-a-token) Rewards (Inflation):**Many new protocols offer high yields through inflationary token rewards, incentivizing users to provide liquidity or [stake](/how-to-become-a-web3-staking-specialist) their assets. This reward can be volatile.
 
 ### Yield Sources Table
 
@@ -58,9 +58,9 @@ Yields in DeFi originate from various sources, including:
 
 High APY often comes with significant risks. Understanding the sources of yield is essential.
 
-- **Unsustainable Inflation:** If yields primarily stem from inflationary token rewards, sustainability is questionable. A sharp decline in the reward token's price can drastically reduce your actual APY.
-- **Impermanent Loss:** For liquidity providers, the risk of [impermanent loss](/what-is-yield-farming) might outweigh fees and rewards, leading to a net loss compared to merely holding the original assets.
-- **[Smart Contract](/what-are-smart-contracts) Risk:** Higher yields may indicate that a protocol is new, lacks auditing, or is complex, increasing the risk of bugs or exploits that could result in total loss of funds.
+-**Unsustainable Inflation:**If yields primarily stem from inflationary token rewards, sustainability is questionable. A sharp decline in the reward token's price can drastically reduce your actual APY.
+-**Impermanent Loss:**For liquidity providers, the risk of [impermanent loss](/what-is-yield-farming) might outweigh fees and rewards, leading to a net loss compared to merely holding the original assets.
+-**[Smart Contract](/what-are-smart-contracts) Risk:** Higher yields may indicate that a protocol is new, lacks auditing, or is complex, increasing the risk of bugs or exploits that could result in total loss of funds.
 
 ### Practical Insight
 

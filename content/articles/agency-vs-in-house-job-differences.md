@@ -7,7 +7,7 @@ description: >-
 data-ai-hint: two doors
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-04'
+lastUpdated: "2026-09-04"
 ---
 An agency sells services to many clients. An in-house team works for one employer on one brand or product. That single difference shapes your calendar, your manager, and what counts as good work.
 
@@ -15,15 +15,11 @@ This guide is for marketers, designers, writers, developers, and Web3 contributo
 
 ## What each model is
 
-**Agency:** A service business that delivers projects for outside clients. Revenue comes from retainers, project fees, or hourly billing. You are assigned to accounts, often more than one at once, and your utilization and billable hours are tracked. Clients can change quarter to quarter. Your employer is the agency, not the brand you work on.
-
-**In-house:** You are an employee of the company that owns the product or brand. You work on one roadmap and one set of stakeholders. Success is measured by business outcomes for that employer, such as revenue, retention, or product adoption, not by hours billed.
+**Agency:**A service business that delivers projects for outside clients. Revenue comes from retainers, project fees, or hourly billing. You are assigned to accounts, often more than one at once, and your utilization and billable hours are tracked. Clients can change quarter to quarter. Your employer is the agency, not the brand you work on.**In-house:**You are an employee of the company that owns the product or brand. You work on one roadmap and one set of stakeholders. Success is measured by business outcomes for that employer, such as revenue, retention, or product adoption, not by hours billed.
 
 Both exist in Web3. A Web3 agency might run token launch support, KOL and influencer distribution, Discord and Telegram community ops, and on-chain attribution across several protocols. An in-house Web3 marketer sits with product and community full time and owns the narrative for one protocol over months.
 
-## Who each path fits best
-
-**Consider agency if you:**
+## Who each path fits best**Consider agency if you:**
 * Are early career and want to sample industries and channels quickly
 * Learn well from volume and feedback on varied briefs
 * Want a portfolio with several brand names in two years
@@ -149,7 +145,7 @@ Also verify the job itself. Ask for: a sample week calendar, the number of activ
 * Learn internal tools: roadmapping, ticketing, and reporting with partners in product and support.
 * For Web3 companies, add proof you can translate protocol mechanics into plain language for users and explain what the product does not do.
 
-**Hybrid option:** Many Web3 teams run hybrid. In-house owns narrative, community cadence, and product alignment. An agency or fractional specialist runs distribution, creator campaigns, lifecycle, or attribution. If you join a hybrid team, clarify who owns the sequence from positioning to proof to distribution to follow-up. Without that owner, vendors optimize for their own channel.
+**Hybrid option:**Many Web3 teams run hybrid. In-house owns narrative, community cadence, and product alignment. An agency or fractional specialist runs distribution, creator campaigns, lifecycle, or attribution. If you join a hybrid team, clarify who owns the sequence from positioning to proof to distribution to follow-up. Without that owner, vendors optimize for their own channel.
 
 ## Agency vs. in-house at a glance
 
@@ -166,27 +162,7 @@ Also verify the job itself. Ask for: a sample week calendar, the number of activ
 
 BLS pay signals are medians by industry, not a controlled agency versus in-house experiment, but they track how employer type relates to pay in the same occupation.
 
-## FAQ
-
-**Do in-house jobs always pay more than agency jobs?**
-No. On average BLS industry data shows marketing managers in in-house heavy industries have higher medians than in agency-like services, but elite boutiques or niche Web3 agencies with strong pricing power can pay above market. Compare the specific offer, location, and total compensation, not just employer label.
-
-**Where is job growth?**
-For the group advertising, promotions, and marketing managers, BLS projects 6 percent growth from 2024 to 2034, faster than the 3 percent average for all occupations, adding about 26,100 jobs. Marketing managers alone are projected to grow 7 percent. Advertising and promotions managers are projected to decline 2 percent as print demand softens and placement is automated. Source: BLS Occupational Outlook Handbook, Job Outlook, May 2024. That shift favors marketing manager titles and in-house demand tied to tech and finance.
-
-**Which looks better on a resume?**
-Agency helps early when you need several shipped pieces and references from different clients. In-house helps when you need to show you moved a metric for one business over time. Recruiters in Web3 often value both: breadth in distribution plus depth in one protocol story.
-
-**Is burnout higher at agencies?**
-Agency surveys report higher overtime and stress signals than general worker surveys. The 2025 ResourceGuru agency report found 95 percent overtime and 88 percent weekend work. General U.S. burnout surveys put high or very high burnout around 30 percent of employees in 2025 per Statista reporting on survey data. Surveys differ in method, so treat them as directional, not precise comparisons. In interviews, ask about average weekly hours, weekend work frequency, and time off use.
-
-**I am in Web3. Does this comparison change?**
-Mechanics stay the same, but distribution is specialized. KOL sourcing, on-chain attribution to contract calls or mints, and governance comms take time to build. Agencies often bring existing creator lists, media contacts, and templated launch runs. In-house teams bring founder context, compliance awareness, and daily community trust. Most scaling teams use both and assign clear ownership of the go-to-market sequence.
-
-**How long does it take to build an in-house team if I am hiring?**
-Common ranges reported by crypto marketing firms are 3 to 6 months to fill key roles plus 2 to 3 months to ramp on crypto-specific knowledge and community tools. Most teams do not reach full pace for 6 to 9 months. An agency can start faster, but handoff and IP transfer still take time.
-
-**What common mistakes should I avoid when picking?**
+## FAQ**Do in-house jobs always pay more than agency jobs?**No. On average BLS industry data shows marketing managers in in-house heavy industries have higher medians than in agency-like services, but elite boutiques or niche Web3 agencies with strong pricing power can pay above market. Compare the specific offer, location, and total compensation, not just employer label.**Where is job growth?**For the group advertising, promotions, and marketing managers, BLS projects 6 percent growth from 2024 to 2034, faster than the 3 percent average for all occupations, adding about 26,100 jobs. Marketing managers alone are projected to grow 7 percent. Advertising and promotions managers are projected to decline 2 percent as print demand softens and placement is automated. Source: BLS Occupational Outlook Handbook, Job Outlook, May 2024. That shift favors marketing manager titles and in-house demand tied to tech and finance.**Which looks better on a resume?**Agency helps early when you need several shipped pieces and references from different clients. In-house helps when you need to show you moved a metric for one business over time. Recruiters in Web3 often value both: breadth in distribution plus depth in one protocol story.**Is burnout higher at agencies?**Agency surveys report higher overtime and stress signals than general worker surveys. The 2025 ResourceGuru agency report found 95 percent overtime and 88 percent weekend work. General U.S. burnout surveys put high or very high burnout around 30 percent of employees in 2025 per Statista reporting on survey data. Surveys differ in method, so treat them as directional, not precise comparisons. In interviews, ask about average weekly hours, weekend work frequency, and time off use.**I am in Web3. Does this comparison change?**Mechanics stay the same, but distribution is specialized. KOL sourcing, on-chain attribution to contract calls or mints, and governance comms take time to build. Agencies often bring existing creator lists, media contacts, and templated launch runs. In-house teams bring founder context, compliance awareness, and daily community trust. Most scaling teams use both and assign clear ownership of the go-to-market sequence.**How long does it take to build an in-house team if I am hiring?**Common ranges reported by crypto marketing firms are 3 to 6 months to fill key roles plus 2 to 3 months to ramp on crypto-specific knowledge and community tools. Most teams do not reach full pace for 6 to 9 months. An agency can start faster, but handoff and IP transfer still take time.**What common mistakes should I avoid when picking?**
 Choosing for brand name alone, ignoring who owns strategy, not asking how success is measured at 90 days, and not checking staffing behind the title. Also avoid signing scope without asking how change requests are handled at agencies, or how reprioritization works in-house.
 
 ## Verifiable Primary Sources & References
