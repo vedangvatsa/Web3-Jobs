@@ -21,16 +21,18 @@ export function ArticleContent({ content, className }: { content: string; classN
         // Strong
         "prose-strong:text-foreground prose-strong:font-semibold",
         // Code
-        "prose-code:text-sm prose-code:bg-muted prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md prose-code:font-mono prose-code:text-foreground",
-        "prose-pre:bg-muted/60 prose-pre:border prose-pre:border-border/70 prose-pre:rounded-lg",
+        "prose-code:text-xs prose-code:sm:text-sm prose-code:bg-muted/70 prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded-md prose-code:font-mono prose-code:text-foreground",
+        "prose-pre:bg-muted/40 prose-pre:border prose-pre:border-border/70 prose-pre:rounded-xl prose-pre:p-4 prose-pre:sm:p-6 prose-pre:overflow-x-auto prose-pre:font-mono prose-pre:text-xs prose-pre:sm:text-sm prose-pre:leading-relaxed prose-pre:my-8",
         // Blockquote
-        "prose-blockquote:border-l-2 prose-blockquote:border-primary prose-blockquote:pl-5 prose-blockquote:py-1 prose-blockquote:my-6 prose-blockquote:italic prose-blockquote:text-muted-foreground",
+        "prose-blockquote:border-l-2 prose-blockquote:border-primary prose-blockquote:pl-5 prose-blockquote:py-1.5 prose-blockquote:my-6 prose-blockquote:not-italic prose-blockquote:text-foreground/90 prose-blockquote:bg-muted/20 prose-blockquote:rounded-r-lg",
         // Tables
-        "[&_table]:w-full [&_table]:border-collapse [&_th]:text-left [&_th]:p-3 [&_th]:border-b [&_th]:border-border [&_th]:font-semibold [&_th]:text-foreground [&_td]:p-3 [&_td]:border-b [&_td]:border-border/60 [&_td]:text-muted-foreground",
+        "[&_table]:w-full [&_table]:border-collapse [&_table]:my-8 [&_table]:text-sm",
+        "[&_thead]:bg-muted/50 [&_th]:text-left [&_th]:p-3.5 [&_th]:border-b [&_th]:border-border [&_th]:font-semibold [&_th]:text-foreground [&_th]:text-xs [&_th]:uppercase [&_th]:tracking-wider",
+        "[&_td]:p-3.5 [&_td]:border-b [&_td]:border-border/60 [&_td]:text-muted-foreground [&_tr:hover]:bg-muted/30 [&_tr]:transition-colors",
         // Images & Media
         "prose-img:rounded-xl prose-img:border prose-img:border-border/70 prose-img:my-6 prose-img:w-full prose-img:max-w-3xl prose-img:mx-auto prose-img:h-auto prose-img:object-contain prose-img:shadow-sm",
         "prose-figure:my-8 prose-figure:text-center",
-        "prose-figcaption:text-xs prose-figcaption:sm:text-sm prose-figcaption:text-muted-foreground prose-figcaption:mt-2 prose-figcaption:italic",
+        "prose-figcaption:text-xs prose-figcaption:sm:text-sm prose-figcaption:text-muted-foreground prose-figcaption:mt-2.5 prose-figcaption:italic",
         // HR
         "prose-hr:border-border/70 prose-hr:my-10",
         className
