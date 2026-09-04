@@ -12,7 +12,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Hybrid',
     department: 'Web3 & Tech Consulting',
     active: true,
-    slug: 'seniorpwc01'
+    slug: 'seniorpwc01',
+    description: `<h3><strong>Role Overview</strong></h3><p>PwC is seeking a Digital Assets Senior Manager within our Technology Consulting practice to lead client engagements across enterprise blockchain readiness, Web3 strategy, and digital asset platform integration.</p><h3><strong>Responsibilities</strong></h3><ul><li>Architect enterprise blockchain and distributed ledger technology (DLT) solutions for institutional clients.</li><li>Lead cross-functional engineering and consulting teams developing decentralized applications (dApps) and smart contract workflows using Solidity, Rust, and Go.</li><li>Advise Fortune 500 executives on digital asset custody, tokenized real-world assets (RWA), stablecoins, and Web3 infrastructure governance.</li><li>Manage end-to-end client delivery, risk frameworks, and regulatory compliance assessments for digital asset deployments.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>8+ years of experience in technology consulting, software architecture, or financial technology.</li><li>Hands-on expertise with public and permissioned blockchain protocols (Ethereum, Solana, Hyperledger, Polygon).</li><li>Strong background in digital asset custody, smart contract security auditing, and financial services integration.</li></ul>`
   },
   {
     id: 'pwc-digital-assets-crypto-manager-ny',
@@ -24,7 +25,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Hybrid',
     department: 'Web3 & Tech Consulting',
     active: true,
-    slug: 'managerpwc02'
+    slug: 'managerpwc02',
+    description: `<h3><strong>Role Overview</strong></h3><p>PwC is hiring a Digital Assets Manager to drive technical implementation, dApp architecture, and blockchain infrastructure integration for global financial services clients.</p><h3><strong>Responsibilities</strong></h3><ul><li>Deliver technical advisory on blockchain indexing, node infrastructure, and API integration for crypto platforms.</li><li>Oversee smart contract deployment pipelines, security reviews, and tokenization protocol designs.</li><li>Collaborate with client product and engineering teams to translate business requirements into scalable Web3 solutions.</li><li>Prepare technical roadmaps, risk matrices, and architecture blueprints for digital asset custody.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>5+ years of experience in software development, technical project management, or IT consulting.</li><li>Demonstrated knowledge of Web3 architecture, EVM chains, and cryptographic key management.</li></ul>`
   },
   {
     id: 'pwc-ai-blockchain-architect-senior-manager',
@@ -36,7 +38,8 @@ const pwcWeb3Jobs = [
     location: 'Tampa, FL / Hybrid',
     department: 'Platform Architecture & Blockchain',
     active: true,
-    slug: 'architectpwc03'
+    slug: 'architectpwc03',
+    description: `<h3><strong>Role Overview</strong></h3><p>Join PwC as an AI / Blockchain Architect Senior Manager to lead the convergence of artificial intelligence pipelines with decentralized data infrastructure.</p><h3><strong>Responsibilities</strong></h3><ul><li>Design hybrid AI and blockchain platform architectures combining decentralized data verification, zero-knowledge proofs (ZKP), and machine learning pipelines.</li><li>Establish technical standards for enterprise data integrity, automated smart contract execution, and AI model provenance on-chain.</li><li>Guide enterprise clients through complex integration of cloud infrastructure (AWS/GCP/Azure) with Web3 protocols.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>10+ years in platform engineering and software architecture with deep exposure to both AI pipelines and blockchain networks.</li></ul>`
   },
   {
     id: 'pwc-digital-assurance-digital-assets-senior-associate',
@@ -48,7 +51,8 @@ const pwcWeb3Jobs = [
     location: 'San Francisco, CA / Hybrid',
     department: 'Digital Asset Audit & Assurance',
     active: true,
-    slug: 'seniorpwc04'
+    slug: 'seniorpwc04',
+    description: `<h3><strong>Role Overview</strong></h3><p>PwC's Digital Assurance & Transparency team is looking for a Digital Assets Senior Associate to perform audit testing, proof-of-reserves verification, and control assessments for crypto exchanges and institutional custodians.</p><h3><strong>Responsibilities</strong></h3><ul><li>Evaluate internal IT controls, cryptographic key management procedures, and transaction processing systems for digital asset platforms.</li><li>Analyze blockchain transaction logs using chain analytics tools (TRM Labs, Chainalysis) to verify asset balances and reserves.</li><li>Prepare audit documentation, risk assessments, and compliance reports adhering to GAAP, IFRS, and SOC standards.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>3+ years in IT audit, digital assurance, or public accounting with specialized knowledge of cryptocurrency accounting.</li></ul>`
   },
   {
     id: 'pwc-bcm-assurance-digital-assets-manager',
@@ -60,7 +64,8 @@ const pwcWeb3Jobs = [
     location: 'San Francisco, CA / Hybrid',
     department: 'Banking & Capital Markets Assurance',
     active: true,
-    slug: 'managerpwc05'
+    slug: 'managerpwc05',
+    description: `<h3><strong>Role Overview</strong></h3><p>Manage financial statement audits and regulatory compliance engagements for major banking and capital markets clients engaging in digital asset custody and trading.</p><h3><strong>Responsibilities</strong></h3><ul><li>Lead audit teams reviewing financial disclosures, token valuation methodologies, and digital asset reserve balances.</li><li>Assess anti-money laundering (AML), Know Your Customer (KYC), and Travel Rule compliance for institutional crypto platforms.</li><li>Interface with regulatory authorities and client executives on digital asset accounting standards.</li></ul>`
   },
   {
     id: 'pwc-awm-digital-assets-senior-manager',
@@ -72,7 +77,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Hybrid',
     department: 'Asset & Wealth Management Advisory',
     active: true,
-    slug: 'seniorpwc06'
+    slug: 'seniorpwc06',
+    description: `<h3><strong>Role Overview</strong></h3><p>Lead PwC's Asset & Wealth Management advisory practice in structuring digital asset investment products, crypto ETFs, and tokenized private fund vehicles.</p><h3><strong>Responsibilities</strong></h3><ul><li>Advise hedge funds, private equity sponsors, and asset managers on launch strategies for crypto funds and tokenized RWAs.</li><li>Develop fund administration, valuation, and custody governance frameworks for digital asset portfolios.</li></ul>`
   },
   {
     id: 'pwc-awm-assurance-digital-assets-manager',
@@ -84,7 +90,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Hybrid',
     department: 'Asset & Wealth Management Assurance',
     active: true,
-    slug: 'managerpwc07'
+    slug: 'managerpwc07',
+    description: `<h3><strong>Role Overview</strong></h3><p>Manage digital asset audit engagements for asset management clients holding cryptocurrencies, tokenized securities, and venture investments.</p><h3><strong>Responsibilities</strong></h3><ul><li>Execute audit procedures verifying digital asset ownership, wallet signing authority, and fund NAV calculations.</li><li>Review custodian SOC reports, smart contract audit reports, and valuation inputs.</li></ul>`
   },
   {
     id: 'pwc-digital-assets-crypto-director',
@@ -96,7 +103,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Hybrid',
     department: 'Web3 & Digital Assets Advisory',
     active: true,
-    slug: 'directorpwc08'
+    slug: 'directorpwc08',
+    description: `<h3><strong>Role Overview</strong></h3><p>As a Director in PwC's Web3 & Digital Assets practice, lead market expansion, strategic client relationships, and high-impact consulting engagements across the crypto ecosystem.</p><h3><strong>Responsibilities</strong></h3><ul><li>Build C-suite relationships with Web3 founders, global banks, and institutional market infrastructure providers.</li><li>Drive thought leadership on central bank digital currencies (CBDC), stablecoin regulations, and decentralized financial markets.</li></ul>`
   },
   {
     id: 'pwc-bcm-tax-manager-fintech-crypto',
@@ -108,7 +116,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Chicago, IL / Hybrid',
     department: 'FinTech & Crypto Tax Advisory',
     active: true,
-    slug: 'managerpwc09'
+    slug: 'managerpwc09',
+    description: `<h3><strong>Role Overview</strong></h3><p>PwC's FinTech Tax practice is hiring a Manager to advise institutional crypto clients, decentralized protocols, and digital banks on complex domestic and international tax compliance.</p><h3><strong>Responsibilities</strong></h3><ul><li>Provide tax structuring advice for staking rewards, token generation events (TGE), cross-border crypto transactions, and digital asset derivatives.</li><li>Manage tax reporting and compliance engagements for publicly traded crypto firms and crypto investment funds.</li></ul>`
   },
   {
     id: 'pwc-technology-consulting-associate-digital-assets',
@@ -120,7 +129,8 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / San Francisco, CA / Hybrid',
     department: 'Digital Assets Consulting',
     active: true,
-    slug: 'associatepwc10'
+    slug: 'associatepwc10',
+    description: `<h3><strong>Role Overview</strong></h3><p>Join PwC's entry-level Technology Consulting program focused on Digital Assets, stablecoin payments, and enterprise blockchain integration.</p><h3><strong>Responsibilities</strong></h3><ul><li>Support consulting teams in analyzing Web3 market trends, evaluating blockchain protocols, and preparing client presentations.</li><li>Assist in testing dApp prototypes, analyzing smart contract workflows, and documenting technical requirements.</li></ul>`
   }
 ];
 
@@ -142,7 +152,7 @@ function ingestPwc() {
     }
   }
 
-  console.log(`Ingested PwC Web3 Jobs: ${added} added, ${updated} updated. Total jobs: ${cacheData.length}`);
+  console.log(`Ingested PwC Web3 Jobs with descriptions: ${added} added, ${updated} updated. Total jobs: ${cacheData.length}`);
   fs.writeFileSync(cachePath, JSON.stringify(cacheData, null, 2));
 }
 
