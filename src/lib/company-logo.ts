@@ -33,6 +33,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'wynd-labs': 'wynd-labs',
   'helius-solana-infra': 'helius',
   'helius': 'helius',
+  'liminal': 'liminal-custody',
+  'liminal-custody-tech': 'liminal-custody',
+  'liminal-custody': 'liminal-custody',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
