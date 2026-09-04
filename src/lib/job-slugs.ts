@@ -130,7 +130,13 @@ export function getJobSlug(job: Job): string {
     return job.slug;
   }
   const roleWord = getOneWordRole(job.title || 'job');
-  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
+  const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
+  let shortId = '';
+  if (/\d/.test(cleanId) || /[a-f0-9]{8,}/.test(cleanId)) {
+    shortId = cleanId.slice(-5);
+  } else {
+    shortId = stableHash(getJobIdentity(job)).slice(0, 5);
+  }
   return shortId ? `${roleWord}${shortId}` : roleWord;
 }
 

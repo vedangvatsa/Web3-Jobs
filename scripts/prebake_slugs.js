@@ -153,21 +153,35 @@ console.log(`  After dedup/distribute: ${distributed.length} jobs`);
 
 const slugById = new Map();
 
-for (const job of distributed) {
+for (const job of rawJobs) {
+  if (job.slug) {
+    slugById.set(job.id, job.slug);
+    continue;
+  }
   const role = getOneWordRole(job.title || 'job');
-  const shortId = (job.id || '').replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
+  const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
+  let shortId = '';
+  if (/\d/.test(cleanId) || /[a-f0-9]{8,}/.test(cleanId)) {
+    shortId = cleanId.slice(-5);
+  } else {
+    // If id is text only (e.g. mn-test-engineer), use stable 5-char hash
+    const crypto = require('crypto');
+    shortId = crypto.createHash('sha256').update(job.id || job.link || job.title).digest('hex').slice(0, 5);
+  }
   const slug = shortId ? `${role}${shortId}` : role;
   slugById.set(job.id, slug);
 }
-console.log(`  Assigned ${slugById.size} short ID slugs`);
+console.log(`  Resolved ${slugById.size} slugs`);
 
-// Write slugs back into the original array
+// Write slugs back into the array only if missing
 let updated = 0;
 const outputJobs = rawJobs.map(job => {
-  const slug = slugById.get(job.id);
-  if (slug && job.slug !== slug) { updated++; return { ...job, slug }; }
+  if (!job.slug) {
+    const slug = slugById.get(job.id);
+    if (slug) { updated++; return { ...job, slug }; }
+  }
   return job;
 });
 
 fs.writeFileSync(CACHE_PATH, JSON.stringify(outputJobs, null, 2));
-console.log(`\n✅ Done in ${Date.now()-t0}ms — ${updated} updated, ${outputJobs.length} total`);
+console.log(`\n✅ Done in ${Date.now()-t0}ms — ${updated} new slugs added, ${outputJobs.length} total`);
