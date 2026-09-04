@@ -309,10 +309,32 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
   const allJobs = await getJobs();
   const cleanSlug = slug.toLowerCase().trim();
 
-  const exact = allJobs.find((job) => getJobSlug(job) === cleanSlug);
+  // 1. Direct match with stored slug or calculated slug
+  const exact = allJobs.find((job) => 
+    (job.slug && job.slug.toLowerCase() === cleanSlug) || 
+    getJobSlug(job).toLowerCase() === cleanSlug
+  );
   if (exact) return exact;
 
-  // Backward compat: old hash slugs like frontend-0vo6wm4 (from previous dash-hash scheme)
+  // 2. Short ID fallback: match the last 5 characters of the job ID (e.g. "85bda" in "marketing85bda")
+  // Extract alphanumeric trailing snippet (at least 4 chars)
+  const trailingMatch = cleanSlug.match(/([a-z0-9]{4,10})$/);
+  if (trailingMatch) {
+    const trailingSnippet = trailingMatch[1];
+    const matchByShortId = allJobs.find((job) => {
+      const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
+      return cleanId.endsWith(trailingSnippet);
+    });
+    if (matchByShortId) return matchByShortId;
+  }
+
+  // 3. Raw job ID match (e.g. UUID or Greenhouse integer ID in URL)
+  const matchById = allJobs.find((job) => 
+    job.id && job.id.toLowerCase() === cleanSlug
+  );
+  if (matchById) return matchById;
+
+  // 4. Backward compat: old hash slugs like frontend-0vo6wm4 (from previous dash-hash scheme)
   const dashIdx = cleanSlug.lastIndexOf('-');
   if (dashIdx !== -1) {
     const hashPart = cleanSlug.slice(dashIdx + 1);
