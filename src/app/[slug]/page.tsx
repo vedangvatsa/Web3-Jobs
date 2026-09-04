@@ -71,6 +71,51 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
+  // Check if it's a job first (root-level: /trader, /bd)
+  const jobMeta = await getJobBySlug(params.slug);
+  if (jobMeta) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const { getJobSlug } = await import('@/lib/job-slugs');
+    const slug = getJobSlug(jobMeta);
+    const canonicalUrl = `${siteUrl}/${slug}`;
+    const title = `${jobMeta.title} at ${jobMeta.company}`;
+    const description = buildUniqueJobMetaDescription(jobMeta);
+    const deptParam = typeof jobMeta.department === 'string' 
+      ? jobMeta.department 
+      : (jobMeta.department as any)?.name || '';
+    const ogImageUrl = `${siteUrl}/api/og?type=job&title=${encodeURIComponent(jobMeta.title)}&company=${encodeURIComponent(jobMeta.company)}&location=${encodeURIComponent(jobMeta.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}`;
+    const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
+    return {
+      title,
+      description,
+      metadataBase: new URL(siteUrl),
+      alternates: { canonical: canonicalUrl },
+      robots: hasVerifiedContent ? { index: true, follow: true } : { index: false, follow: true },
+      openGraph: {
+        title,
+        description,
+        url: canonicalUrl,
+        type: 'website',
+        siteName: 'Hashtag Web3',
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: title,
+            type: 'image/png',
+          },
+        ],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title,
+        description,
+        images: [ogImageUrl],
+      },
+    };
+  }
+
   // Check if it's a company page
   const companyMeta = await getCompanyBySlug(params.slug);
   if (companyMeta) {
@@ -309,7 +354,20 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-// Check if it's a company page
+  // Check if it's a job (root-level: /trader, /bd)
+  const job = await getJobBySlug(params.slug);
+  if (job) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const companySlug = getCompanySlug(job.company);
+    const company = await getCompanyBySlug(companySlug);
+    const rawContent = await getOrFetchRawJobContent(job);
+    const contentHtml = buildSynthesizedJobContent(job, rawContent);
+    const logoSrc = resolveCompanyLogo(companySlug);
+    const faviconUrl = getCompanyFaviconUrl(company?.website);
+    return <JobDetailView job={job} contentHtml={contentHtml} company={company} siteUrl={siteUrl} logoSrc={logoSrc} faviconUrl={faviconUrl} />;
+  }
+
+  // Check if it's a company page
   const companyPage = await getCompanyBySlug(params.slug);
   if (companyPage) {
     return <CompanyDetailView slug={params.slug} />;
