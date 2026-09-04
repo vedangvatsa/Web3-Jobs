@@ -9,4 +9,8 @@ lastUpdated: 2026-09-04
 
 Strategy Inc. (formerly MicroStrategy, Nasdaq: MSTR) is a pioneer in enterprise analytics and corporate Bitcoin treasury adoption.
 
-Under the leadership of Executive Chairman Michael Saylor, Strategy operates a dual business strategy focused on advancing its enterprise AI analytics platform while actively acquiring, holding, and advocating for Bitcoin as a primary treasury reserve asset.
+### Enterprise Analytics & AI
+Founded in 1989, Strategy provides AI-powered business intelligence (BI) and software analytics platforms used by Fortune 500 enterprises for data visualization, reporting, and enterprise decision-making.
+
+### Corporate Bitcoin Strategy
+Led by Executive Chairman Michael Saylor, Strategy operates as a Bitcoin-first technology company, pioneering institutional capital allocations into Bitcoin as a reserve asset and building financial engineering frameworks for digital store-of-value adoption.
