@@ -36,6 +36,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'liminal': 'liminal-custody',
   'liminal-custody-tech': 'liminal-custody',
   'liminal-custody': 'liminal-custody',
+  'microstrategy': 'strategy',
+  'strategy': 'strategy',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
