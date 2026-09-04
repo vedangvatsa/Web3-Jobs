@@ -1,0 +1,72 @@
+<svg viewBox="0 0 900 520" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="arrowGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="520" rx="16" fill="url(#bgGrad)" stroke="#334155" stroke-width="1.5"/>
+
+  <!-- Header -->
+  <text x="450" y="42" text-anchor="middle" fill="#f8fafc" font-size="20" font-weight="700" letter-spacing="0.5">THE INVISIBLE ENTERPRISE SETTLEMENT STACK</text>
+  <text x="450" y="66" text-anchor="middle" fill="#94a3b8" font-size="13" font-weight="400">End-to-end multi-tier payment flow ("The Stablecoin Sandwich")</text>
+
+  <line x1="40" y1="82" x2="860" y2="82" stroke="#334155" stroke-width="1"/>
+
+  <!-- Step 1: Importer -->
+  <rect x="70" y="98" width="760" height="66" rx="10" fill="url(#cardGrad)" stroke="#3b82f6" stroke-width="1.5"/>
+  <rect x="70" y="98" width="8" height="66" rx="4" fill="#3b82f6"/>
+  <text x="96" y="125" fill="#60a5fa" font-size="12" font-weight="700">STEP 1: SENDER INITIATION</text>
+  <text x="96" y="148" fill="#f8fafc" font-size="15" font-weight="600">North American Importer</text>
+  <text x="790" y="137" text-anchor="end" fill="#cbd5e1" font-size="13">Initiates standard bank wire / ACH / FedNow in USD</text>
+
+  <!-- Arrow 1 to 2 -->
+  <path d="M 450 164 L 450 188" stroke="url(#arrowGrad)" stroke-width="3"/>
+  <polygon points="444,185 450,195 456,185" fill="#818cf8"/>
+  <text x="465" y="180" fill="#38bdf8" font-size="11" font-weight="500">Local Bank Transfer</text>
+
+  <!-- Step 2: Banking / In-Ramp -->
+  <rect x="70" y="196" width="760" height="66" rx="10" fill="url(#cardGrad)" stroke="#8b5cf6" stroke-width="1.5"/>
+  <rect x="70" y="196" width="8" height="66" rx="4" fill="#8b5cf6"/>
+  <text x="96" y="223" fill="#c084fc" font-size="12" font-weight="700">STEP 2: FIAT IN-RAMP</text>
+  <text x="96" y="246" fill="#f8fafc" font-size="15" font-weight="600">Regulated Banking / In-Ramp Partner</text>
+  <text x="790" y="235" text-anchor="end" fill="#cbd5e1" font-size="13">Converts USD fiat to stablecoin in backend pool (10-15 bps fee)</text>
+
+  <!-- Arrow 2 to 3 -->
+  <path d="M 450 262 L 450 286" stroke="url(#arrowGrad)" stroke-width="3"/>
+  <polygon points="444,283 450,293 456,283" fill="#818cf8"/>
+  <text x="465" y="278" fill="#a7f3d0" font-size="11" font-weight="500">Mint / Liquidity Swap</text>
+
+  <!-- Step 3: Public Ledger -->
+  <rect x="70" y="294" width="760" height="66" rx="10" fill="url(#cardGrad)" stroke="#10b981" stroke-width="1.5"/>
+  <rect x="70" y="294" width="8" height="66" rx="4" fill="#10b981"/>
+  <text x="96" y="321" fill="#34d399" font-size="12" font-weight="700">STEP 3: ON-CHAIN SETTLEMENT</text>
+  <text x="96" y="344" fill="#f8fafc" font-size="15" font-weight="600">High-Throughput Public Ledger (Solana, Base, Arbitrum, Tron)</text>
+  <text x="790" y="333" text-anchor="end" fill="#cbd5e1" font-size="13">Programmatic cryptographic settlement (15–30 sec finality)</text>
+
+  <!-- Arrow 3 to 4 -->
+  <path d="M 450 360 L 450 384" stroke="url(#arrowGrad)" stroke-width="3"/>
+  <polygon points="444,381 450,391 456,381" fill="#818cf8"/>
+  <text x="465" y="376" fill="#fde047" font-size="11" font-weight="500">Cross-Border Transfer</text>
+
+  <!-- Step 4: Destination Gateway -->
+  <rect x="70" y="392" width="760" height="66" rx="10" fill="url(#cardGrad)" stroke="#f59e0b" stroke-width="1.5"/>
+  <rect x="70" y="392" width="8" height="66" rx="4" fill="#f59e0b"/>
+  <text x="96" y="419" fill="#fbbf24" font-size="12" font-weight="700">STEP 4: FIAT OFF-RAMP &amp; DISBURSEMENT</text>
+  <text x="96" y="442" fill="#f8fafc" font-size="15" font-weight="600">Destination Gateway / Overseas Supplier</text>
+  <text x="790" y="431" text-anchor="end" fill="#cbd5e1" font-size="13">Deposits via local fast rails (Pix, SPEI, SEPA) or keeps USD</text>
+
+  <!-- Footer Banner -->
+  <rect x="70" y="472" width="760" height="32" rx="6" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+  <text x="450" y="493" text-anchor="middle" fill="#94a3b8" font-size="12">Result: Direct bank-to-bank execution feel with sub-minute global crypto efficiency</text>
+</svg>
