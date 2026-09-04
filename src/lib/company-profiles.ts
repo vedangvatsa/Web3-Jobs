@@ -11,7 +11,6 @@ export const COMPANY_RICH_ABOUT: Record<string, string> = {
   "hyperithm": `Hyperithm is a digital asset financial services group based in Tokyo and Seoul, providing quantitative trading, asset management, and venture investment across Web3 markets.`,
   "injective-labs": `Injective Labs is the core developer of Injective, a high-performance Layer 1 blockchain optimized for building decentralized finance applications, spot and derivatives exchanges, and prediction markets.`,
   "merkle-trade": `Merkle Trade is a decentralized gamified perpetual exchange built on Aptos, offering high-leverage crypto and forex trading with low latency and deep liquidity.`,
-  "nftbank-ai": `NFTBank is an AI-powered NFT portfolio management and valuation platform, providing accurate real-time price estimation and portfolio tracking for digital assets.`,
   "taiko-labs": `Taiko Labs is building Taiko, a fully decentralized, Ethereum-equivalent ZK-Rollup (Type 1 ZK-EVM) designed to scale Ethereum without technical or security compromises.`,
   "covalent": `Covalent is a modular data infrastructure layer providing unified API access to multi-chain granular data across 100+ blockchains.`,
   "halliday": `Halliday is a Web3 commerce and gaming payment infrastructure protocol, enabling seamless onboarding and programmable player financing.`,
