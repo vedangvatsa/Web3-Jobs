@@ -71,11 +71,25 @@ export async function getJobs(): Promise<Job[]> {
 
  try {
   const data = fs.readFileSync(CACHE_PATH, 'utf-8');
-  const jobs: Job[] = JSON.parse(data).map((job: Job) => ({
-   ...job,
-   title: cleanJobTitle(job.title, job.company),
-   company: cleanPublishText(job.company),
-  }));
+  const jobs: Job[] = JSON.parse(data).map((job: Job) => {
+    let loc = job.location || '';
+    if (typeof loc === 'string' && loc.includes(',')) {
+      const parts = loc.split(',').map(p => p.trim()).filter(Boolean);
+      const unique: string[] = [];
+      for (const p of parts) {
+        if (!unique.some(u => u.toLowerCase() === p.toLowerCase())) {
+          unique.push(p);
+        }
+      }
+      loc = unique.join(', ');
+    }
+    return {
+      ...job,
+      location: loc,
+      title: cleanJobTitle(job.title, job.company),
+      company: cleanPublishText(job.company),
+    };
+  });
 
   // Filter out non-Web3 companies
   const web3Jobs = jobs.filter(job => {
