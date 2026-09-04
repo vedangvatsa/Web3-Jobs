@@ -151,34 +151,32 @@ const web3Jobs = jobs.filter(job => {
 const distributed = distributeJobsByCompany(deduplicateJobs(web3Jobs));
 console.log(`  After dedup/distribute: ${distributed.length} jobs`);
 
-const slugById = new Map();
+const roleCounters = {};
+const existingSlugs = new Set(rawJobs.map(j => j.slug).filter(Boolean));
 
-for (const job of rawJobs) {
-  if (job.slug) {
-    slugById.set(job.id, job.slug);
-    continue;
+// Count existing role counts
+for (const s of existingSlugs) {
+  const m = s.match(/^([a-z]+)(\d+)$/);
+  if (m) {
+    const role = m[1];
+    const num = parseInt(m[2], 10);
+    roleCounters[role] = Math.max(roleCounters[role] || 0, num);
   }
-  const role = getOneWordRole(job.title || 'job');
-  const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-  let shortId = '';
-  if (/\d/.test(cleanId) || /[a-f0-9]{8,}/.test(cleanId)) {
-    shortId = cleanId.slice(-5);
-  } else {
-    // If id is text only (e.g. mn-test-engineer), use stable 5-char hash
-    const crypto = require('crypto');
-    shortId = crypto.createHash('sha256').update(job.id || job.link || job.title).digest('hex').slice(0, 5);
-  }
-  const slug = shortId ? `${role}${shortId}` : role;
-  slugById.set(job.id, slug);
 }
-console.log(`  Resolved ${slugById.size} slugs`);
 
-// Write slugs back into the array only if missing
 let updated = 0;
 const outputJobs = rawJobs.map(job => {
   if (!job.slug) {
-    const slug = slugById.get(job.id);
-    if (slug) { updated++; return { ...job, slug }; }
+    const role = getOneWordRole(job.title || 'job');
+    roleCounters[role] = (roleCounters[role] || 0) + 1;
+    let newSlug = `${role}${roleCounters[role]}`;
+    while (existingSlugs.has(newSlug)) {
+      roleCounters[role]++;
+      newSlug = `${role}${roleCounters[role]}`;
+    }
+    existingSlugs.add(newSlug);
+    updated++;
+    return { ...job, slug: newSlug };
   }
   return job;
 });
