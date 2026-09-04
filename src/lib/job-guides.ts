@@ -421,7 +421,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   const $ = cheerio.load(decoded);
 
   // Remove non-content tags and navigation / apply button boilerplate
-  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, [data-component="pf-popover"], [data-controller*="clipboard"], .credit').remove();
+  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit').remove();
 
   // Strip links pointing to internal career lists or apply endpoints, handle empty anchors cleanly
   $('a').each((_, el) => {
