@@ -6,7 +6,7 @@ import { Web3Event, getEventSlug } from '@/lib/events';
 import { Input } from '@/components/ui/input';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { Search, Calendar, MapPin, ExternalLink } from 'lucide-react';
+import { Search, Calendar, MapPin, ExternalLink, LayoutGrid } from 'lucide-react';
 import { Skeleton } from '@/components/ui/skeleton';
 import { EventCard } from '@/components/event-card';
 
