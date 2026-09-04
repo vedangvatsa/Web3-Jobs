@@ -66,6 +66,8 @@ function sanitizeCompanyDomain(url: URL): string {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'dune': 'https://dune.com',
+ 'dune-analytics': 'https://dune.com',
  'dr-now': 'https://doctornow.co.kr',
  'drnow': 'https://doctornow.co.kr',
  'vivident': 'https://vivident.xyz',
