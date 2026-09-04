@@ -15,6 +15,7 @@ interface CompanyContent {
  * Known ATS/job board hostnames that should NOT be used as company websites
  */
 const ATS_HOSTNAMES = new Set([
+ 'jobs.gohire.io', 'gohire.io',
  'jobs.lever.co', 'jobs.ashbyhq.com', 'job-boards.greenhouse.io',
  'boards.greenhouse.io', 'coinbase.getro.com', 'jobs.multicoin.capital',
  'jobs.solana.com', 'jobs.dragonfly.xyz', 'www.linkedin.com',
@@ -26,7 +27,7 @@ const ATS_HOSTNAMES = new Set([
 ]);
 
 const ATS_HOSTNAME_SUFFIXES = [
- '.ashbyhq.com', '.bamboohr.com', '.breezy.hr', '.comeet.com',
+ '.gohire.io', '.ashbyhq.com', '.bamboohr.com', '.breezy.hr', '.comeet.com',
  '.greenhouse.io', '.lever.co', '.myworkdayjobs.com', '.rippling.com',
  '.smartrecruiters.com', '.teamtailor.com', '.traffit.com', '.workable.com',
 ];
