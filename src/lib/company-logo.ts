@@ -31,6 +31,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'wynd-network': 'wynd-labs',
   'grass-wynd-labs-depin': 'wynd-labs',
   'wynd-labs': 'wynd-labs',
+  'helius-solana-infra': 'helius',
+  'helius': 'helius',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
