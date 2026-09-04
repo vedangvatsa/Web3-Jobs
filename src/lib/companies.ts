@@ -43,6 +43,9 @@ function isAtsHostname(hostname: string): boolean {
    normalized.includes('deel.com') ||
    normalized.includes('herp.careers') ||
    normalized.includes('omnihr.co') ||
+   normalized.includes('freshteam.com') ||
+   normalized.includes('instahyre.com') ||
+   normalized.includes('hurma.work') ||
    normalized.includes('jobs.hashed.com')
  ) {
    return true;
@@ -53,9 +56,9 @@ function isAtsHostname(hostname: string): boolean {
 
 function sanitizeCompanyDomain(url: URL): string {
   let hostname = url.hostname.toLowerCase();
-  // Strip subdomains like careers., recruit., jobs., job. if followed by root domain
+  // Strip subdomains like careers., recruit., jobs., job., career. if followed by root domain
   const parts = hostname.split('.');
-  if (parts.length >= 3 && ['careers', 'recruit', 'jobs', 'job', 'career'].includes(parts[0])) {
+  if (parts.length >= 3 && ['careers', 'recruit', 'jobs', 'job', 'career', 'project'].includes(parts[0])) {
     hostname = parts.slice(1).join('.');
   }
   return `${url.protocol}//${hostname}`;
@@ -66,6 +69,36 @@ function sanitizeCompanyDomain(url: URL): string {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'jejememe': 'https://jejememe.com',
+ 'hyperithm': 'https://hyperithm.jp',
+ 'injective-labs': 'https://injective.com',
+ 'injective': 'https://injective.com',
+ 'loco': 'https://loco.gg',
+ 'merkle-trade': 'https://merkle.trade',
+ 'nftbank-ai': 'https://nftbank.ai',
+ 'nftbank': 'https://nftbank.ai',
+ 'oneplanet': 'https://oneplanetnft.io',
+ 'subzero-labs': 'https://subzerolabs.org',
+ 'taiko-labs': 'https://taiko.xyz',
+ 'taiko': 'https://taiko.xyz',
+ 'aptos-labs': 'https://aptoslabs.com',
+ 'covalent': 'https://covalenthq.com',
+ 'halliday': 'https://halliday.xyz',
+ 'mythical-games': 'https://mythicalgames.com',
+ 'matter-labs': 'https://matter-labs.io',
+ 'dfns': 'https://dfns.co',
+ 'bastion': 'https://bastion.com',
+ 'worldcoin': 'https://worldcoin.org',
+ 'stockal': 'https://stockal.com',
+ 'whitebit': 'https://whitebit.com',
+ 'hyperbolic-ai-web3': 'https://hyperbolic.xyz',
+ 'hyperbolic': 'https://hyperbolic.xyz',
+ 'consensys-metamask': 'https://consensys.io',
+ 'arbitrum-offchain-labs': 'https://offchainlabs.com',
+ 'bitgo': 'https://bitgo.com',
+ 'fireblocks': 'https://fireblocks.com',
+ 'coindcx': 'https://coindcx.com',
+ 'cyber': 'https://cyber.co',
  'dune': 'https://dune.com',
  'dune-analytics': 'https://dune.com',
  'dr-now': 'https://doctornow.co.kr',
