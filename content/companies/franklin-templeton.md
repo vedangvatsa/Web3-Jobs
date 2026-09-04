@@ -7,6 +7,10 @@ description: "Franklin Templeton is a global asset management leader pioneering 
 lastUpdated: 2026-09-04
 ---
 
-Franklin Templeton (NYSE: BEN) is one of the world's largest asset management firms, managing over $1.5 trillion in assets under management (AUM) globally.
+Franklin Templeton (NYSE: BEN) is a premier global asset manager overseeing more than $1.5 trillion in assets under management (AUM).
 
-The firm is an industry pioneer in blockchain-native asset management, launching the OnChain U.S. Government Money Fund (FOBXX) on public blockchains, managing digital asset ETFs, and researching decentralized protocol infrastructure to bridge TradFi capital into Web3 networks.
+### On-Chain Finance & Tokenization
+Franklin Templeton is an industry pioneer in tokenized real-world assets (RWA). The firm launched the **OnChain U.S. Government Money Fund (FOBXX)**, the first U.S.-registered mutual fund to process transactions and record share ownership using public blockchains.
+
+### Digital Assets & Web3 Innovation
+Through its dedicated Digital Assets team, Franklin Templeton manages spot Bitcoin and Ethereum ETFs, conducts protocol research across Solana, Stellar, Polygon, and Ethereum, and develops institutional Web3 investment strategies.
