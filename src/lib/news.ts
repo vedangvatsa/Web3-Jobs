@@ -13,7 +13,9 @@ const FEEDS = [
  { url: 'https://dailyhodl.com/feed/', source: 'Daily Hodl' }
 ];
 
-const parser = new Parser();
+const parser = new Parser({
+  timeout: 8000,
+});
 
 function normalizeTitle(t: string): string {
   return t
