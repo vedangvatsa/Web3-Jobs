@@ -45,6 +45,9 @@ const nextConfig = {
       },
       { source: '/arbitrum-offchain-labs', destination: '/offchain-labs', permanent: true },
       { source: '/arbitrum', destination: '/offchain-labs', permanent: true },
+      { source: '/aztec-labs-privacy-l2', destination: '/aztec', permanent: true },
+      { source: '/aztec-labs', destination: '/aztec', permanent: true },
+      { source: '/aztec-network', destination: '/aztec', permanent: true },
       // Tools and guides alias redirects
       { source: '/tools/interview-questions', destination: '/interview-questions', permanent: true },
       { source: '/tools/salary-calculator', destination: '/salary-calculator', permanent: true },
