@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - voting token
   - protocol token
+lastUpdated: 2026-09-04
 ---
 
 Governance Token refers to a type of cryptocurrency that grants holders voting rights to participate in decisions affecting a decentralized protocol, application, or organization. These tokens enable holders to propose changes, vote on community proposals, and influence critical matters ranging from technical parameters to treasury allocation. This represents a fundamental departure from traditional corporate governance where power concentrates in boards and executives. For example, Uniswap's UNI token allows holders to vote on protocol upgrades, fee structures, and the distribution of its treasury funds. Understanding governance mechanisms has become essential for professionals entering the Web3 space, as roles in DAO operations, tokenomics design, and community management increasingly require familiarity with how these voting systems function.

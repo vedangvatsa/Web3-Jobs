@@ -6,6 +6,7 @@ description: >-
   The Sui Foundation is dedicated to advancing the adoption and decentralization
   of Sui, a high-throughput, object-centric Layer 1 blockchain powered by the
   Move programming language.
+lastUpdated: 2026-09-04
 ---
 The Sui Foundation is dedicated to advancing the adoption and decentralization of Sui, a high-throughput, object-centric Layer 1 blockchain powered by the Move programming language.
 

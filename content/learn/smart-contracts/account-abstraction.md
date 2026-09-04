@@ -81,6 +81,7 @@ quiz:
       that are collected by Bundlers (specialized relayers). The Bundler groups
       multiple UserOps into one on-chain transaction, allowing flexible gas
       payment and sponsorship.
+lastUpdated: 2026-09-04
 ---
 
 ## The Problem with Traditional Wallets

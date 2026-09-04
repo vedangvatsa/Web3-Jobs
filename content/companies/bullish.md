@@ -7,6 +7,7 @@ description: >-
   central limit order book liquidity with automated market-making engines and
   audited custody solutions, processing billions in trading volume across global
   crypto markets.
+lastUpdated: 2026-09-04
 ---
 Bullish is a leading organization in the Cryptocurrency Exchange / Institutional sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

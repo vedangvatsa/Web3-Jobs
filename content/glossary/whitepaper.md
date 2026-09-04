@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - technical paper
   - project documentation
+lastUpdated: 2026-09-04
 ---
 
 Whitepaper refers to a full technical document that outlines a blockchain project's vision, technology, tokenomics, and implementation roadmap. It serves as the foundational reference for understanding what a project aims to accomplish and how it plans to achieve those goals. The most influential example is Bitcoin's 2008 whitepaper authored by Satoshi Nakamoto, a nine-page document that introduced the concept of a peer-to-peer electronic cash system without trusted intermediaries. Since then, many projects have published whitepapers, each typically accompanied by technical documentation. For Web3 professionals, the ability to critically analyze whitepapers is essential across multiple roles, from investment analysts evaluating token economics to developers assessing technical feasibility.

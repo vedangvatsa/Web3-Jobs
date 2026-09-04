@@ -20,6 +20,7 @@ synonyms:
   - Modular blockchain architecture
   - Layered blockchain
   - Separation of concerns blockchain
+lastUpdated: 2026-09-04
 ---
 
 A **modular blockchain** is an architectural design that separates the core functions of a blockchain into independent, specialized layers rather than handling all functions in a single monolithic chain. These functions include execution, settlement, consensus, and data availability, which can be provided by different protocols optimized for their specific role, creating a flexible, scalable blockchain stack.

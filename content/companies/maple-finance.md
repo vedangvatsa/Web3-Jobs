@@ -6,6 +6,7 @@ description: >-
   Maple Finance is a premier DeFi Protocol company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Maple Finance provides a decentralized platform that enables lending and borrowing for institutional investors. The platform allows users to access capital through a network of liquidity pools. Maple Finance aims to provide a more efficient way for institutions to manage their capital needs.
 

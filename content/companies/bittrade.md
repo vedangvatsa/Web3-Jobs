@@ -6,6 +6,7 @@ description: >-
   BitTrade is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 BitTrade is a JFSA-registered virtual asset exchange platform in Japan, offering spot trading and cryptocurrency yield services.
 

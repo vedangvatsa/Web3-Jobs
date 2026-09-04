@@ -64,6 +64,7 @@ quiz:
       Some NFT marketplaces enforce royalties - a percentage (often 2.5-10%) of
       every resale goes back to the original creator. This lets artists earn
       ongoing revenue from their work.
+lastUpdated: 2026-09-04
 ---
 
 ## Beyond the hype

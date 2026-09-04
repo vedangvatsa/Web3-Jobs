@@ -17,6 +17,7 @@ synonyms:
   - SBT
   - non-transferable token
   - identity token
+lastUpdated: 2026-09-04
 ---
 
 Soulbound Token refers to a non-transferable NFT permanently bound to a specific wallet address, representing credentials, achievements, or aspects of identity that cannot be sold, traded, or moved to another account. The concept was popularized by Ethereum co-founder Vitalik Buterin in a 2022 paper on "Decentralized Society." It addresses the challenge of establishing verifiable reputation and credentials on-chain without the risk of purchased or fraudulent claims. Binance introduced one of the first large-scale implementations with Binance Account Bound tokens for identity verification purposes. Practical applications include academic diplomas, professional certifications, proof of attendance at events, and on-chain reputation scores that follow a wallet permanently. As organizations explore decentralized identity solutions, professionals who understand soulbound token architecture and implementation are increasingly sought for roles in identity management, credentialing platforms, and Web3 human resources technology.

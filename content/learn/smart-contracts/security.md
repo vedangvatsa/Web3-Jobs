@@ -74,6 +74,7 @@ quiz:
       Writing custom implementation of standards like ERC-20 or Ownable
       introduces unnecessary risk. Using community-audited, battle-tested
       libraries like OpenZeppelin is the industry standard for safety.
+lastUpdated: 2026-09-04
 ---
 
 ## The stakes are high

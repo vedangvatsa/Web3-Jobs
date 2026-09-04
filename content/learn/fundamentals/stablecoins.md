@@ -62,6 +62,7 @@ quiz:
     explanation: >-
       The total stablecoin market cap is over $150 billion as of 2024, with USDT
       being the largest. Stablecoins are the most widely used tokens in crypto.
+lastUpdated: 2026-09-04
 ---
 
 ## The problem stablecoins solve

@@ -16,6 +16,7 @@ relatedTerms:
   - Consensus
 synonyms:
   - Distributed Ledger
+lastUpdated: 2026-09-04
 ---
 
 Blockchain is a distributed digital ledger technology that records transactions across a network of computers, making the data immutable, transparent, and resistant to tampering. Each block contains a cryptographic hash of the previous block, creating a secure chain that cannot be altered without consensus from the network. Bitcoin, launched in 2009, demonstrated the first successful large-scale implementation of blockchain technology, proving that decentralized systems could process financial transactions without intermediaries. Since then, blockchain has expanded beyond cryptocurrency to encompass supply chain tracking, digital identity verification, healthcare records, and decentralized finance applications. 

@@ -8,6 +8,7 @@ description: >-
   Render is a premier DePIN / GPU Compute company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Decentralized GPU rendering network for AI, 3D rendering, and visual computing.
 

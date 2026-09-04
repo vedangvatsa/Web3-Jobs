@@ -81,6 +81,7 @@ quiz:
       in off-chain entities: the custodian holding the asset, the legal
       jurisdiction governing the SPV, and the oracle reporting the asset's
       value. This reintroduces counterparty risk that pure DeFi eliminates.
+lastUpdated: 2026-09-04
 ---
 
 ## What Are RWAs?

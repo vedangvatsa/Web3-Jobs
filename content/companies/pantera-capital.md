@@ -3,6 +3,7 @@ name: Pantera Capital
 website: 'https://www.panteracapital.com'
 category: Other
 description: Investment firm focused on blockchain technology and digital currencies.
+lastUpdated: 2026-09-04
 ---
 
 Pantera Capital is an investment firm that focuses on blockchain technology and digital currencies. The firm was one of the first to launch a Bitcoin investment fund in 2013. Pantera Capital offers a range of investment products, including venture capital, hedge funds, and private equity, all centered around the blockchain ecosystem.

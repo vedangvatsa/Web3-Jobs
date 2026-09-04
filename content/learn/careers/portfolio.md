@@ -81,6 +81,7 @@ quiz:
       that you attended ETHDenver (POAP), voted on 20 Aave proposals (governance
       history), and deployed 3 contracts (Etherscan). This is unfakeable and far
       more credible than résumé bullet points.
+lastUpdated: 2026-09-04
 ---
 
 ## Why Portfolios Matter More in Web3

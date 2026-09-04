@@ -6,6 +6,7 @@ description: >-
   Certora is a premier Developer Tools company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Certora specializes in formal verification for smart contracts, ensuring security and correctness in blockchain applications. Their tools help developers identify vulnerabilities and verify the behavior of smart contracts before deployment. 
 

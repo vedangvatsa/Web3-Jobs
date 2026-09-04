@@ -6,6 +6,7 @@ description: >-
   BOB (Build on Bitcoin) is a hybrid Layer 2 network combining the security and
   liquidity of Bitcoin with the programmability and smart contract flexibility
   of the Ethereum Virtual Machine (EVM).
+lastUpdated: 2026-09-04
 ---
 BOB (Build on Bitcoin) is a leading organization in the Bitcoin Layer 2 / Hybrid Rollup sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

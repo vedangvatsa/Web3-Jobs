@@ -12,6 +12,7 @@ careers: ''
 category: Layer 1 / Ecosystem
 headquarters: 'Zug, Switzerland'
 slug: interchain-foundation
+lastUpdated: 2026-09-04
 ---
 ### About Interchain Foundation
 

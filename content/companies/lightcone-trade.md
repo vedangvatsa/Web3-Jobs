@@ -6,6 +6,7 @@ description: >-
   lightcone.trade is a premier Other company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Lightcone.trade specializes in trading and analytics for assets on the Solana blockchain. The platform provides tools for users to analyze market trends and execute trades efficiently. 
 

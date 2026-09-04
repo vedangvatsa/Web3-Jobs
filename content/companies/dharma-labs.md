@@ -7,6 +7,7 @@ description: >-
   Dharma Labs is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Dharma Labs builds accessible consumer interfaces and protocol connectors for frictionless on-chain finance.
 

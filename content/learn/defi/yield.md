@@ -69,6 +69,7 @@ quiz:
       Yield aggregators automatically deploy your funds across different DeFi
       protocols to find the best return, rebalancing as rates change, saving you
       gas fees and time.
+lastUpdated: 2026-09-04
 ---
 
 ## Where does the money come from?

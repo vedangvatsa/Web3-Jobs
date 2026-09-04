@@ -3,6 +3,7 @@ name: Button
 website: 'https://button.xyz'
 category: Other
 description: Button provides technology to drive mobile commerce through deep linking.
+lastUpdated: 2026-09-04
 ---
 
 Button offers a platform that enables app developers and marketers to increase user engagement and conversion rates through deep linking technology. Their solutions help businesses optimize their mobile marketing efforts by connecting users directly to the content they seek within apps. 

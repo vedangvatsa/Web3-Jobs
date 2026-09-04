@@ -7,6 +7,7 @@ description: >-
   Mangata Finance is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Mangata eliminates frontrunning and gas fees through custom appchain architecture and time-encrypted transaction ordering.
 

@@ -16,6 +16,7 @@ relatedTerms:
 synonyms:
   - market depth
   - available capital
+lastUpdated: 2026-09-04
 ---
 
 Liquidity refers to how easily an asset can be bought or sold without significantly affecting its price. It is a fundamental concept in both traditional finance and decentralized markets. In Web3 contexts, liquidity typically exists within automated market maker protocols like Uniswap, where users deposit token pairs into smart contract pools that enable instant swaps without requiring a counterparty. High liquidity ensures that traders can execute large orders with minimal slippage, while low liquidity creates volatile price movements and makes it difficult to enter or exit positions efficiently. Understanding liquidity mechanics is essential for careers in DeFi protocol development, quantitative trading, treasury management, and risk analysis.

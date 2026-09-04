@@ -7,6 +7,7 @@ description: >-
   Hyperbolic is a premier AI company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Hyperbolic provides an open GPU cloud marketplace and verifiable AI proof systems to power the next generation of decentralized intelligence.
 

@@ -5,6 +5,7 @@ category: Developer Tools
 description: >-
  Gelato provides automated transaction execution for decentralized
  applications.
+lastUpdated: 2026-09-04
 ---
 
 Gelato offers a decentralized network that automates smart contract executions on Ethereum and other blockchains. Their platform allows developers to schedule transactions, ensuring that decentralized applications can perform actions without manual intervention. This automation is crucial for applications that require timely execution, such as DeFi protocols and NFT platforms.

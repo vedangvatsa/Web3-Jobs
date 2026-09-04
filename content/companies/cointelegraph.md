@@ -6,6 +6,7 @@ description: >-
   Cointelegraph is a premier Media / Web3 News company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Cointelegraph is the leading independent digital media resource covering a wide range of news on blockchain technology, crypto assets, fintech, and the next-generation web.
 

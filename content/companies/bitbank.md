@@ -6,6 +6,7 @@ description: >-
   bitbank is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 bitbank is a premier Japanese crypto asset exchange known for high-liquidity order books, advanced charting tools, and high-volume altcoin spot trading in Japan.
 

@@ -9,6 +9,7 @@ careers: ""
 category: "DeFi / Stablecoins"
 headquarters: "Remote"
 slug: "ethena-labs"
+lastUpdated: 2026-09-04
 ---
 
 ### About Ethena Labs

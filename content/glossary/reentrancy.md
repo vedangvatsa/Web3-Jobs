@@ -17,6 +17,7 @@ synonyms:
   - recursive call attack
   - function reentrancy
   - state attack
+lastUpdated: 2026-09-04
 ---
 
 Reentrancy is a smart contract vulnerability that occurs when a function can be called repeatedly before its internal state updates are complete, enabling attackers to drain funds through recursive calls. The most infamous example is the 2016 DAO hack on Ethereum, where an attacker exploited a reentrancy flaw in the withdraw function to siphon 3.6 million ETH, triggering a contentious hard fork that created Ethereum Classic. The attack works by having a malicious contract's receive function repeatedly call back into the vulnerable withdraw function before the victim contract can update the sender's balance to zero. Modern developers prevent reentrancy using the checks-effects-interactions pattern or reentrancy guard modifiers that block recursive calls. Security auditors and smart contract developers who understand reentrancy vulnerabilities remain highly sought after as protocols prioritize protecting user funds.

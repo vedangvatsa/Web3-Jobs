@@ -6,6 +6,7 @@ description: >-
   BITPOINT is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 BITPOINT (operated by Remixpoint / SBI) is a regulated Japanese crypto exchange offering zero trading fee options, staking, and diverse altcoin listings.
 

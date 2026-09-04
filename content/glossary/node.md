@@ -18,6 +18,7 @@ synonyms:
   - network node
   - blockchain node
   - validator
+lastUpdated: 2026-09-04
 ---
 
 Node refers to any computer that connects to a blockchain network and participates in maintaining the distributed ledger by storing blockchain data, validating transactions and blocks, and relaying information across the network. These machines form the decentralized infrastructure that allows blockchains to operate without central authorities, with each node independently verifying that all rules are being followed. Different types of nodes serve different purposes, from full nodes that store complete blockchain histories to light nodes that only download block headers for faster synchronization. Running nodes requires technical knowledge of networking, system administration, and blockchain protocols, making node operation and infrastructure management valuable skills as more organizations seek professionals who can deploy and maintain reliable blockchain infrastructure.

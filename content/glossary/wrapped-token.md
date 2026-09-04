@@ -17,6 +17,7 @@ synonyms:
   - synthetic token
   - pegged token
   - bridged token
+lastUpdated: 2026-09-04
 ---
 
 Wrapped Token refers to a cryptocurrency asset that represents another asset locked in a smart contract, enabling that underlying asset to be used on blockchains or within protocols where it does not natively exist. The most prominent example is Wrapped Bitcoin (WBTC), which allows Bitcoin holders to participate in Ethereum-based decentralized finance applications by depositing their BTC with a custodian and receiving an equivalent amount of WBTC tokens. The wrapping process is reversible, meaning users can burn their wrapped tokens at any time to reclaim the original underlying asset. Understanding wrapped token mechanics, including custody models, minting procedures, and security considerations, is valuable for professionals seeking roles in cross-chain infrastructure development, DeFi protocol engineering, and blockchain integration architecture.

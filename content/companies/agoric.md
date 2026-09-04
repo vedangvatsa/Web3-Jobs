@@ -8,6 +8,7 @@ description: >-
   smart contracts. It enables millions of mainstream developers to build,
   deploy, and scale decentralized applications using familiar programming
   paradigms and hardened JavaScript.
+lastUpdated: 2026-09-04
 ---
 Agoric provides a Proof-of-Stake blockchain that brings JavaScript smart contracts to Web3, enabling secure composability and rapid development.
 

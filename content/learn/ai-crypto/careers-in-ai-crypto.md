@@ -77,6 +77,7 @@ quiz:
       effective entry path is building publicly: ship a project that
       demonstrates both AI and crypto skills, contribute to open-source
       frameworks like Eliza or LangChain, and share your work on Twitter/GitHub.
+lastUpdated: 2026-09-04
 ---
 
 ## The Talent Gap

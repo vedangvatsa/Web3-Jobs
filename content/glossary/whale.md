@@ -17,6 +17,7 @@ synonyms:
   - large holder
   - big player
   - crypto whale
+lastUpdated: 2026-09-04
 ---
 
 Whale refers to an individual or entity holding an exceptionally large amount of cryptocurrency, with sufficient capital to influence market prices through their trading activity. The term, borrowed from casino gambling where high-stakes players were called whales, describes holders whose buy or sell orders can move markets, affect liquidity, and shift overall sentiment. A notable example is MicroStrategy, the business intelligence firm that has accumulated a significant amount of Bitcoin as a corporate treasury strategy, making its trading decisions closely watched market indicators. For professionals entering Web3, understanding whale behavior is essential for roles in market analysis, trading operations, and risk management, as tracking large holder movements has become a core competency for exchanges, investment funds, and blockchain analytics firms.

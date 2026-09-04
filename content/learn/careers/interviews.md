@@ -70,6 +70,7 @@ quiz:
       Nothing impresses interviewers more than a candidate who has actually used
       their product and can discuss it intelligently - what works, what does
       not, and what they would improve.
+lastUpdated: 2026-09-04
 ---
 
 ## What Web3 interviews look like

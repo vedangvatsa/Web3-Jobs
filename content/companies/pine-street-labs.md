@@ -7,6 +7,7 @@ description: >-
   Pine Street Labs is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Pine Street Labs provides modular custody tooling that enables developers to build custom institutional asset management workflows.
 

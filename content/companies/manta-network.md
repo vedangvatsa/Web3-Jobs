@@ -7,6 +7,7 @@ description: >-
   Manta Network is a modular blockchain ecosystem for zero-knowledge (ZK)
   applications, offering Manta Pacific (an EVM-equivalent ZK Layer 2) and Manta
   Atlantic (fast ZK Layer 1).
+lastUpdated: 2026-09-04
 ---
 Manta Network empowers developers to build scalable, private, and gas-efficient zero-knowledge applications with native ZK tooling.
 

@@ -8,6 +8,7 @@ description: >-
   Guild is a premier DAO Tooling / Access Management company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Token-gated access management platform for Web3 communities and DAOs.
 

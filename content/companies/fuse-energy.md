@@ -12,6 +12,7 @@ careers: ''
 category: Infrastructure / Energy
 headquarters: 'London, UK'
 slug: fuse-energy
+lastUpdated: 2026-09-04
 ---
 ### About Fuse Energy
 

@@ -6,6 +6,7 @@ description: >-
   Coinflow Labs is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Coinflow Labs develops new financial technology solutions aimed at enhancing business operations. The company focuses on providing services related to payments, underwriting, and operational support. 
 

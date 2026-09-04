@@ -7,6 +7,7 @@ description: >-
   user-owned AI. Vana enables users to aggregate their private data into Data
   DAOs, monetize collective intelligence, and train sovereign AI models with
   cryptographic proof of ownership.
+lastUpdated: 2026-09-04
 ---
 Vana is a leading organization in the Decentralized AI & Data DAOs sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - Automated Market Maker
   - liquidity protocol
+lastUpdated: 2026-09-04
 ---
 
 AMM refers to an Automated Market Maker, a decentralized exchange protocol that uses mathematical formulas and liquidity pools to price assets and execute trades without relying on traditional order books. Unlike centralized exchanges that match buyers with sellers, AMMs allow anyone to deposit tokens into shared pools, with algorithms automatically calculating prices based on the ratio of assets in each pool. Uniswap pioneered this approach in 2018 and remains a dominant AMM platform. The constant product formula, expressed as x times y equals k, ensures that trades can always execute regardless of order size, though larger trades create more price impact. This permissionless trading infrastructure eliminated the need for centralized intermediaries and contributed to the decentralized finance movement. Professionals who understand AMM mechanics, liquidity provision strategies, and impermanent loss calculations are sought after for roles in DeFi protocol development, smart contract engineering, and quantitative trading.

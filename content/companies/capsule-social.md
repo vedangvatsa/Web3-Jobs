@@ -7,6 +7,7 @@ description: >-
   Capsule Social is a premier Social company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Capsule Social creates privacy-respecting, decentralized discourse platforms with cryptographic identity and sovereign publishing tools.
 

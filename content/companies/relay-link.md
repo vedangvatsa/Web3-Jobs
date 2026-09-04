@@ -6,6 +6,7 @@ description: >-
   relay.link is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Relay.link provides a platform that enables secure communication using decentralized technology. The service focuses on privacy and security, allowing users to communicate without relying on centralized servers. The platform is designed to protect user data and ensure confidentiality.
 

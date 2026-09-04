@@ -16,6 +16,7 @@ relatedTerms:
   - DeFi
 synonyms:
   - ETH
+lastUpdated: 2026-09-04
 ---
 
 Ethereum is a decentralized blockchain platform that enables developers to build and deploy smart contracts and decentralized applications. It extends beyond Bitcoin's focus on peer-to-peer payments to create a programmable foundation for Web3 innovation. Launched in 2015 by Vitalik Buterin and a team of co-founders, Ethereum introduced the concept of a global computer where code executes exactly as programmed without downtime or third-party interference. The platform hosts a significant portion of decentralized finance activity, with protocols like Uniswap demonstrating its practical utility by enabling trading volume without traditional intermediaries. Ethereum secures substantial total value locked across its DeFi ecosystem, making it the dominant smart contract platform by usage and developer activity. For professionals seeking Web3 careers, Ethereum development skills including Solidity programming and EVM architecture remain consistently demanded competencies across blockchain job postings.

@@ -17,6 +17,7 @@ synonyms:
   - shard
   - data sharding
   - parallel processing
+lastUpdated: 2026-09-04
 ---
 
 Sharding is a blockchain scaling technique that divides the network into multiple parallel segments called shards. Each shard can process transactions independently, allowing different validator sets to work simultaneously on separate portions of the network's workload. This horizontal partitioning increases overall throughput. Ethereum's roadmap features sharding as a core scaling solution, with plans to implement danksharding to support its rollup-centric future. The technical complexity of maintaining cross-shard communication and security while preserving decentralization makes sharding expertise valuable. Protocol engineering roles at major layer-1 projects frequently list sharding knowledge as a preferred qualification.

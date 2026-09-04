@@ -17,6 +17,7 @@ synonyms:
   - cross-chain swap
   - non-custodial swap
   - hash time-locked contract
+lastUpdated: 2026-09-04
 ---
 
 Atomic Swap refers to a peer-to-peer exchange mechanism that enables direct cryptocurrency trades across different blockchains without requiring intermediaries or centralized exchanges. The process works through hash time-locked contracts, where both parties lock their respective assets in smart contracts that either release funds simultaneously when conditions are met or automatically refund both participants if the deadline passes. This all-or-nothing execution is what makes the swap atomic. Transactions complete fully or revert entirely, eliminating partial exchange risks. Komodo's AtomicDEX platform has enabled atomic swaps since its launch, demonstrating practical implementation of cross-chain trading. While the technology requires compatible hashing algorithms across participating blockchains, adoption has grown through improved user interfaces and wallet integrations. Professionals who understand atomic swap architecture and cross-chain protocols are increasingly sought by decentralized exchanges and blockchain interoperability projects building the next generation of trustless trading infrastructure.

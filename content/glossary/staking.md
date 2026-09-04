@@ -18,6 +18,7 @@ relatedTerms:
 synonyms:
   - Token Staking
   - Crypto Staking
+lastUpdated: 2026-09-04
 ---
 
 Staking refers to the process of locking cryptocurrency tokens in a blockchain protocol to support network operations, earning rewards in return for this commitment. In Proof of Stake systems, staked assets serve as collateral that validators put at risk to process transactions and secure the network, with potential penalties for malicious behavior or downtime. Ethereum transitioned to Proof of Stake in 2022 and secures a significant amount through its validator network. Staking protocols require professionals who understand validator operations, tokenomics, and risk management, creating demand for staking engineers, protocol analysts, and DeFi specialists who can optimize yield strategies while maintaining network security and compliance standards.

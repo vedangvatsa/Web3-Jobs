@@ -17,6 +17,7 @@ synonyms:
   - hash tree
   - Merkle proof
   - binary hash tree
+lastUpdated: 2026-09-04
 ---
 
 Merkle Tree refers to a cryptographic data structure that organizes data into a binary tree of hashes. This enables efficient verification of data integrity and membership without examining the entire dataset. In practice, a blockchain containing one million transactions can be verified using approximately twenty hashes rather than downloading all transaction data, reducing proof sizes from gigabytes to roughly one kilobyte. Ethereum uses Merkle Patricia Tries, an advanced variant, to store its entire world state including account balances and smart contract data. Bitcoin similarly relies on Merkle trees to enable lightweight clients that verify transactions without running full nodes. Understanding Merkle trees is essential for blockchain developers and security engineers, as roles involving protocol development, Layer 2 scaling solutions, and cryptographic auditing frequently require deep knowledge of these fundamental data structures.

@@ -6,6 +6,7 @@ description: >-
   Nestcoin is a premier Web3 / Venture Studio (Nigeria) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Nestcoin builds, invests in, and incubates impactful Web3 consumer products and decentralized finance applications across Africa and emerging markets (including Onboard wallet).
 

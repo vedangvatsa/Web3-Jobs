@@ -6,6 +6,7 @@ description: >-
   Kotani Pay is a premier Web3 / Offline Payments (Kenya) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Kotani Pay builds middleware and USSD-based mobile technology connecting decentralized finance protocols, stablecoins, and non-custodial wallets with local mobile money systems in Africa.
 

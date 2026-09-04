@@ -6,6 +6,7 @@ description: >-
   Jito Foundation is a premier Other company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Jito Foundation is dedicated to enhancing the efficiency of Ethereum transactions. The organization works on optimizing transaction processing to reduce costs and improve user experience. They are known for their contributions to the Ethereum ecosystem, particularly In transaction management.
 

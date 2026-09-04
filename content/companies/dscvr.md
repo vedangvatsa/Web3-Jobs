@@ -7,6 +7,7 @@ description: >-
   DSCVR is a Web3 social network and community building platform integrated with
   Solana and the Internet Computer, allowing creators to monetize content
   through SocialFi and token gating.
+lastUpdated: 2026-09-04
 ---
 DSCVR is an on-chain social media platform where decentralized communities collaborate, discover applications, and trade digital collectibles.
 

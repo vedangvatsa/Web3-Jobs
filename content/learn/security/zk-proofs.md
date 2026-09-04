@@ -79,6 +79,7 @@ quiz:
       country without revealing which one, prove you have sufficient funds
       without revealing your balance, or prove you voted without revealing your
       choice. The proof verifies the claim without exposing any private data.
+lastUpdated: 2026-09-04
 ---
 
 ## What Are Zero-Knowledge Proofs?

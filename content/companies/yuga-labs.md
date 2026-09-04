@@ -11,6 +11,7 @@ description: >-
   and PROOF/Moonbirds IP. Valued at $4B following investment led by Andreessen
   Horowitz (a16z), Yuga Labs champions community-owned identity, interoperable
   3D avatar worlds, and decentralized entertainment.
+lastUpdated: 2026-09-04
 ---
 Yuga Labs is a Web3 media and metaverse company pioneering digital identity, IP ownership, and interactive entertainment experiences across the Ethereum blockchain ecosystem.
 

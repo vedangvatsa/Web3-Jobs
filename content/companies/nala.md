@@ -6,6 +6,7 @@ description: >-
   NALA is an African payments fintech and money transfer company building Rafiki
   to power fast, low-cost B2B and consumer remittances across the UK, EU, US,
   and Africa.
+lastUpdated: 2026-09-04
 ---
 NALA is an African payments fintech and money transfer company building Rafiki to power fast, low-cost B2B and consumer remittances across the UK, EU, US, and Africa.
 

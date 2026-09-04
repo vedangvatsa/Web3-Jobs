@@ -8,6 +8,7 @@ description: >-
   Andreessen Horowitz is a premier Venture Capital company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Leading VC firm with a dedicated crypto fund (a16z crypto).
 

@@ -16,6 +16,7 @@ synonyms:
   - fee market
   - blockspace market
   - transaction fees
+lastUpdated: 2026-09-04
 ---
 
 Gas Fee Market refers to the dynamic marketplace where users compete for limited block space by bidding transaction fees, with prices fluctuating based on network congestion and capacity. When demand exceeds available block space, users must offer higher fees to prioritize their transactions, creating an auction-like environment for network resources. Ethereum's EIP-1559 upgrade introduced a dual-fee structure combining an algorithmically adjusted base fee with optional priority tips, making fee estimation more predictable while still allowing users to expedite urgent transactions. Understanding gas fee market dynamics is valuable for blockchain developers, protocol economists, and operations specialists who optimize transaction costs and user experience across decentralized applications.

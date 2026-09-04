@@ -6,6 +6,7 @@ description: >-
   VALR is a top South African cryptocurrency exchange backed by Pantera Capital
   and Coinbase Ventures, offering spot, margin, and perpetual futures trading
   for retail and institutional clients.
+lastUpdated: 2026-09-04
 ---
 VALR is a top South African cryptocurrency exchange backed by Pantera Capital and Coinbase Ventures, offering spot, margin, and perpetual futures trading for retail and institutional clients.
 

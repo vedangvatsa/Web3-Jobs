@@ -7,6 +7,7 @@ description: >-
   Axelar is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Axelar is a decentralized cross-chain interoperability network connecting EVM, Cosmos, and other blockchain ecosystems with secure message passing.
 

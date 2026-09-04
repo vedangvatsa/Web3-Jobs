@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - instant loan
   - atomic loan
+lastUpdated: 2026-09-04
 ---
 
 Flash Loan refers to a type of uncollateralized loan in decentralized finance that must be borrowed and repaid within a single blockchain transaction, with the entire operation reverting if repayment fails. This atomic property eliminates credit risk for lenders because the blockchain ensures the loan either completes successfully or never happened at all. Aave pioneered this mechanism in 2020 and remains a prominent provider. Common legitimate applications include arbitrage across decentralized exchanges, collateral swaps to avoid liquidation, and self-liquidation strategies that save borrowers money on fees. However, flash loans have also enabled numerous high-profile exploits targeting vulnerable smart contracts, making security auditing essential. Professionals who understand flash loan mechanics are increasingly sought after for roles in DeFi protocol development, smart contract security auditing, and blockchain risk management positions.

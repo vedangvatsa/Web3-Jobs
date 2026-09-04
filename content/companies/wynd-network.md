@@ -7,6 +7,7 @@ description: >-
   Wynd Network is a premier DeFi company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Wynd Network transforms internet connectivity into an incentivized data network that feeds clean, verifiable training datasets to AI models.
 

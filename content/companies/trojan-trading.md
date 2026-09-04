@@ -6,6 +6,7 @@ description: >-
   Trojan Trading is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Trojan Trading focuses on providing trading technology and market-making solutions for various financial markets. The company develops software that enhances trading efficiency and liquidity. Their offerings include advanced algorithms and trading platforms tailored for institutional clients.
 

@@ -6,6 +6,7 @@ description: >-
   Permian Labs is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Permian Labs develops decentralized applications and infrastructure for the Web3 ecosystem. They emphasize creating tools that enhance user experience and accessibility in blockchain technology. The company is currently hiring for a GTM Engineer, indicating a focus on growth and market strategy.
 

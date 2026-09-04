@@ -16,6 +16,7 @@ synonyms:
   - gas efficiency
   - cost optimization
   - transaction optimization
+lastUpdated: 2026-09-04
 ---
 
 Gas Optimization refers to the practice of writing smart contracts that execute using the minimum possible gas, reducing transaction costs for users while maintaining full functionality and security. On Ethereum and EVM-compatible blockchains, every computational operation consumes gas, with simple arithmetic costing just 3 gas units while storage operations can require 20,000 gas or more. Poorly optimized contracts can cost users significantly more than necessary, directly impacting protocol adoption and economic viability. Uniswap demonstrated the importance of gas optimization when its V3 upgrade reduced swap costs compared to V2, saving users in transaction fees. Professionals skilled in gas optimization techniques are increasingly sought after as protocols compete to offer users the lowest possible transaction costs in a fee-conscious market.

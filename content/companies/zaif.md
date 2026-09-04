@@ -6,6 +6,7 @@ description: >-
   Zaif is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Zaif is a licensed Japanese cryptocurrency exchange specializing in spot trading, automated crypto reserve plans, and social trading services.
 

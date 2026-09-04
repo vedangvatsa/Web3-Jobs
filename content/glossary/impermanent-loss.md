@@ -17,6 +17,7 @@ relatedTerms:
 synonyms:
   - divergence loss
   - IL
+lastUpdated: 2026-09-04
 ---
 
 Impermanent loss refers to the temporary reduction in dollar value that liquidity providers experience when depositing tokens into an automated market maker (AMM) compared to simply holding those same tokens in a wallet. This phenomenon occurs because AMM protocols like Uniswap automatically rebalance token ratios as prices fluctuate, meaning providers end up with more of the depreciating token and less of the appreciating one. For example, if you deposit equal values of ETH and USDC into a Uniswap pool and ETH doubles in price, you would have been better off just holding your original tokens. Understanding impermanent loss mechanics is essential for DeFi analysts, protocol developers, and liquidity strategists, making it a frequently tested concept in Web3 finance interviews and a core competency for roles at decentralized exchanges.

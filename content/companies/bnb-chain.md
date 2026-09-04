@@ -8,6 +8,7 @@ description: >-
   Layer 2 rollup, and BNB Greenfield decentralized storage. BNB Chain powers
   thousands of decentralized applications across DeFi, Gaming, AI, and Social,
   serving millions of active users worldwide.
+lastUpdated: 2026-09-04
 ---
 BNB Chain is a high-performance Layer 1 and Layer 2 blockchain ecosystem designed for scalable Web3 applications. Powered by the BNB token, it features BNB Smart Chain (BSC), opBNB Layer 2 rollup, and BNB Greenfield for decentralized storage.
 

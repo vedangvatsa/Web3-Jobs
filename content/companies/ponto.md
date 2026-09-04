@@ -7,6 +7,7 @@ description: >-
   Ponto is a premier Infrastructure company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Ponto streamlines multi-token corporate disbursements, cross-border payroll, and tax compliance for remote Web3 organizations.
 

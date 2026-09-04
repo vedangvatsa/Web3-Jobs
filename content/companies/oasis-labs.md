@@ -7,6 +7,7 @@ description: >-
   Oasis Labs is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Oasis Labs empowers enterprises and Web3 builders to process sensitive data with hardware-enforced confidential computing environments.
 

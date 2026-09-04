@@ -71,6 +71,7 @@ quiz:
       Smart contracts are immutable by default. Unless the contract was
       specifically designed with an upgrade proxy pattern, fixing a bug requires
       deploying a completely new contract and migrating users over.
+lastUpdated: 2026-09-04
 ---
 
 ## The Highest Stakes in Software

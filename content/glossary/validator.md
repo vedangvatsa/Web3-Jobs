@@ -16,6 +16,7 @@ synonyms:
   - block proposer
   - attestor
   - staker
+lastUpdated: 2026-09-04
 ---
 
 Validator refers to a network participant in Proof of Stake blockchains who locks cryptocurrency as collateral to propose and verify new blocks, earning rewards for securing the network while facing penalties called slashing for dishonest behavior or extended downtime. Unlike Proof of Work miners who compete through computational power, validators are algorithmically selected based on their staked amount and other protocol-specific criteria, making them essential to the consensus mechanism that keeps decentralized networks functioning honestly. Ethereum represents the most prominent example, where validators must stake a minimum of 32 ETH to participate in block proposal and attestation duties. Validator operations create demand for infrastructure engineers, DevOps specialists, and protocol developers who can manage node deployment, optimize uptime, and implement slashing protection across enterprise staking operations.

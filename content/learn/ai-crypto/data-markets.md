@@ -74,6 +74,7 @@ quiz:
       from Ethereum, Polygon, and other networks into queryable subgraphs. AI
       agents use these indexed data feeds for real-time on-chain analytics and
       decision-making.
+lastUpdated: 2026-09-04
 ---
 
 ## The Data Wall

@@ -20,6 +20,7 @@ synonyms:
   - DA layer
   - Data availability network
   - Availability layer
+lastUpdated: 2026-09-04
 ---
 
 A **data availability (DA) layer** is **specialized blockchain infrastructure dedicated to storing and guaranteeing the availability of transaction data** without executing the transactions themselves. DA layers are a critical component of modular blockchain architectures, enabling rollups to achieve scalability by separating data storage from transaction execution while maintaining security guarantees.

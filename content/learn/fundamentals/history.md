@@ -49,6 +49,7 @@ quiz:
     explanation: >-
       Web3 adds ownership. You can own tokens, NFTs, and other digital assets
       directly in your wallet without relying on a company's database.
+lastUpdated: 2026-09-04
 ---
 
 ## A 30-year story in five minutes

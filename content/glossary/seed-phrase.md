@@ -20,6 +20,7 @@ synonyms:
   - mnemonic phrase
   - backup phrase
   - secret phrase
+lastUpdated: 2026-09-04
 ---
 
 Seed Phrase refers to a sequence of 12 or 24 randomly generated words that functions as the master key to a cryptocurrency wallet. It can regenerate all associated private keys and grant complete control over the funds stored within. This cryptographic backup mechanism, also known as a recovery phrase or mnemonic phrase, follows the BIP-39 standard adopted by major wallet providers including MetaMask, Ledger, and Trezor. When users set up a hardware wallet like Ledger Nano, they must carefully record and store their seed phrase offline, as losing it means permanent loss of access to their assets. Professionals working in wallet development, security auditing, and customer support roles must thoroughly understand seed phrase mechanics to protect users and build trustworthy products.

@@ -17,6 +17,7 @@ synonyms:
   - production network
   - live network
   - main chain
+lastUpdated: 2026-09-04
 ---
 
 Mainnet refers to the primary, fully operational blockchain network where real transactions occur with actual cryptocurrency that holds market value. This distinguishes it from testnets used exclusively for development and experimentation. When Ethereum launched its mainnet in July 2015, it marked the transition from a theoretical concept to a functioning platform where users could deploy smart contracts, transfer ETH, and build decentralized applications with genuine economic stakes. For blockchain professionals, understanding mainnet architecture, deployment processes, and the critical differences between test and production environments is essential, as companies consistently seek developers and engineers capable of safely launching and maintaining smart contracts where errors carry real financial consequences.

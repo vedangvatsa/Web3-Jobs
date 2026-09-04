@@ -17,6 +17,7 @@ synonyms:
   - exit scam
   - rug
   - liquidity theft
+lastUpdated: 2026-09-04
 ---
 
 Rug Pull refers to a type of cryptocurrency scam where project developers suddenly abandon their venture and flee with investor funds, typically by draining liquidity pools or exploiting hidden backdoors in smart contracts. The term derives from the expression "pulling the rug out from under someone," describing the abrupt removal of financial support that leaves investors holding worthless tokens. One of the most notorious examples was the Squid Game token incident in 2021, where developers disappeared after the token's value collapsed. Understanding rug pull mechanics and warning signs has become essential for security auditors, smart contract developers, and compliance professionals seeking careers in Web3 risk management and investor protection.

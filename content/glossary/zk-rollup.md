@@ -20,6 +20,7 @@ synonyms:
   - Zero-knowledge rollup
   - Validity rollup
   - ZKR
+lastUpdated: 2026-09-04
 ---
 
 A **ZK (Zero-Knowledge) rollup** is a **Layer 2 scaling solution that uses validity proofs, cryptographic proofs that computations were executed correctly, to secure transaction batches** submitted to Ethereum L1. Rather than optimistically assuming validity like Optimistic rollups, ZK rollups provide mathematical certainty that every state transition is correct, enabling **instant finality** once the proof is verified on L1.

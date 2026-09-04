@@ -77,6 +77,7 @@ quiz:
       can deposit millions into a small pool, drastically changing the ratio and
       thus the price, use this manipulated price to exploit a lending protocol,
       and return the loan - all in one transaction.
+lastUpdated: 2026-09-04
 ---
 
 ## Why Oracles Matter

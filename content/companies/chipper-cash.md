@@ -6,6 +6,7 @@ description: >-
   Chipper Cash is a leading cross-border money transfer and digital financial
   services app in Africa, offering instant P2P payments, stock trading, and
   fractional crypto investing.
+lastUpdated: 2026-09-04
 ---
 Chipper Cash is a leading cross-border money transfer and digital financial services app in Africa, offering instant P2P payments, stock trading, and fractional crypto investing.
 

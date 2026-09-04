@@ -5,6 +5,7 @@ founded: 2020
 category: Crypto Group / Investment
 headquarters: 'Zug, Switzerland'
 description: 'A Swiss-based, crypto-native investment and building firm.'
+lastUpdated: 2026-09-04
 ---
 
 Dialectic (often referred to as Dialectic Group) is a Swiss-based, crypto-native investment and building firm. Founded in 2020 by Ryan Zurrer, the firm operates as a multi-strategy enterprise that combines capital deployment with technological development in the Web3 and decentralized finance (DeFi) sectors.

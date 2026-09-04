@@ -7,6 +7,7 @@ description: >-
   Bagel Labs is a premier AI company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Bagel Labs is creating a decentralized AI data and model ecosystem that unites open-source machine learning with cryptographic incentives.
 

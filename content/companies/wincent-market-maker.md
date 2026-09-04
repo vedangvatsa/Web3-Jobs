@@ -6,6 +6,7 @@ description: >-
   Wincent is a quantitative trading firm and liquidity provider operating across
   global cryptocurrency exchanges, deploying algorithmic market-making
   strategies with microsecond latency.
+lastUpdated: 2026-09-04
 ---
 Wincent is a leading organization in the Market Making & Algorithmic Trading sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

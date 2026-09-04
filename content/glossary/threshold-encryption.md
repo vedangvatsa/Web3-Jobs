@@ -17,6 +17,7 @@ synonyms:
   - secret sharing
   - threshold decryption
   - distributed decryption
+lastUpdated: 2026-09-04
 ---
 
 Threshold encryption is a cryptographic scheme where a message is encrypted such that a minimum number of participants must cooperate to decrypt it, preventing any single party from accessing the data alone. In a 3-of-5 threshold setup, at least three of five keyholders must combine their shares to reveal the encrypted content. This technology is being developed in blockchain applications, with organizations actively working on threshold-encrypted mempools to prevent front-running attacks by concealing transaction details until after ordering is finalized. The approach also enables privacy-preserving decentralized governance, where votes remain hidden until a sufficient quorum participates in decryption. As protocols adopt threshold cryptography for MEV mitigation and secure key management, demand is growing for cryptographers and blockchain engineers with distributed systems and applied cryptography expertise.

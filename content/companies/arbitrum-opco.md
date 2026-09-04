@@ -12,6 +12,7 @@ careers: ''
 category: Layer 2 / Scaling
 headquarters: Remote
 slug: arbitrum-opco
+lastUpdated: 2026-09-04
 ---
 ### About Arbitrum OpCo
 

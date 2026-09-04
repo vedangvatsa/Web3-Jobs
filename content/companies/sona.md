@@ -7,6 +7,7 @@ description: >-
   Sona is a premier Media company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Sona creates direct-to-fan monetization loops for musicians through tokenized streaming rewards and collector auctions.
 

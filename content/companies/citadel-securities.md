@@ -3,6 +3,7 @@ name: Citadel Securities
 website: 'https://www.citadelsecurities.com'
 category: Other
 description: Citadel Securities is a leading global market maker in financial products.
+lastUpdated: 2026-09-04
 ---
 
 Citadel Securities provides liquidity across various asset classes, including equities, options, and fixed income. The firm is known for its advanced technology and quantitative research capabilities. Citadel Securities plays a significant role in the financial markets, executing millions of trades daily.

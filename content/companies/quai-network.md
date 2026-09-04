@@ -7,6 +7,7 @@ description: >-
   Quai Network is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Quai Network combines multiple coordinated blockchains to achieve high throughput while maintaining decentralized Proof-of-Work security.
 

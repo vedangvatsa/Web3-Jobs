@@ -17,6 +17,7 @@ synonyms:
   - protocol governance
   - onchain voting
   - smart contract governance
+lastUpdated: 2026-09-04
 ---
 
 On-Chain Governance refers to a governance model where protocol decisions are proposed, voted on, and executed directly through smart contracts on the blockchain. This creates a transparent and enforceable system that eliminates the need for trusted intermediaries. Unlike traditional corporate governance or off-chain crypto governance, every vote is recorded immutably on the blockchain, and approved proposals automatically execute after predetermined timelocks. Uniswap demonstrates this model effectively, allowing UNI token holders to vote on protocol parameters, treasury allocations, and fee structures with results enforced by code rather than human administrators. While this approach reduces backroom deals and increases accountability, it introduces challenges including voter apathy and potential control by large token holders. For professionals entering Web3, understanding on-chain governance mechanics is essential for roles in DAO operations, protocol development, and decentralized project management.

@@ -6,6 +6,7 @@ description: >-
   Fonbnk is a premier Web3 / Mobile Payments (Africa) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Fonbnk transforms prepaid mobile airtime into a decentralized on-ramp for digital dollars and Web3 assets across sub-Saharan Africa and Latin America.
 

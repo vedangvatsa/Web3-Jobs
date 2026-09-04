@@ -9,6 +9,7 @@ description: >-
   building mission-critical blockchain infrastructure, decentralized
   applications, and high-performance Web3 solutions for users and institutions
   globally.
+lastUpdated: 2026-09-04
 ---
 Crypto conglomerate and parent company of Grayscale, Foundry, and CoinDesk.
 

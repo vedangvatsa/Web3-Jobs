@@ -7,6 +7,7 @@ description: >-
   o1Labs is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 o1Labs drives zero-knowledge innovations with the SnarkyJS framework, making ZK programming accessible to web developers.
 

@@ -18,6 +18,7 @@ relatedTerms:
 synonyms:
   - Token Airdrop
   - Crypto Airdrop
+lastUpdated: 2026-09-04
 ---
 
 Airdrop refers to the distribution of free cryptocurrency tokens or NFTs directly to wallet addresses. This mechanism is typically used by projects to promote adoption, reward early users, or achieve decentralized token ownership. The Uniswap UNI airdrop in September 2020 is a notable example, distributing tokens to historical users. Airdrop distributions have created specialized roles in the job market, including airdrop strategists who design distribution criteria, Sybil detection analysts who identify fraudulent claims, and community managers who coordinate eligibility requirements. Understanding airdrop mechanics is essential for professionals pursuing careers in tokenomics and growth marketing.

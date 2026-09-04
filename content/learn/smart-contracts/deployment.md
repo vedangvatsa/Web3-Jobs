@@ -80,6 +80,7 @@ quiz:
       audit the code. Test core functions with minimal amounts to confirm they
       work on mainnet. Record all contract addresses, deployer addresses, and
       constructor arguments in your project documentation.
+lastUpdated: 2026-09-04
 ---
 
 ## The Deployment Path

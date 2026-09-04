@@ -6,6 +6,7 @@ description: >-
   Rift is a premier Developer Tools company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Rift focuses on providing developers with tools to create decentralized applications. The company emphasizes user-friendly interfaces and efficient workflows for developers in the Web3 space. Their platform aims to simplify the development process, allowing for faster deployment of decentralized solutions.
 

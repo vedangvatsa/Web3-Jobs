@@ -65,6 +65,7 @@ quiz:
       Immutable means it cannot be changed. Once a transaction is confirmed and
       buried under more blocks, changing it would require redoing all the work
       after it and convincing the entire network to accept your version.
+lastUpdated: 2026-09-04
 ---
 
 ## What problem does a blockchain solve?

@@ -7,6 +7,7 @@ description: >-
   offering futures, options, interest rate swaps, and calendar spreads on
   Bitcoin, Ethereum, and 100+ digital assets with institutional-grade risk
   management.
+lastUpdated: 2026-09-04
 ---
 Delta Exchange is a leading crypto derivatives platform specializing in options, perpetual swaps, and novel trading instruments for retail and institutional traders globally.
 

@@ -6,6 +6,7 @@ description: >-
   Mudrex is a global crypto investing platform backed by Y Combinator that
   enables retail investors to automate their crypto wealth through thematic
   crypto baskets, Coin Sets, and disciplined DCA strategies.
+lastUpdated: 2026-09-04
 ---
 Mudrex is a leading organization in the Crypto Investing Platform sector, engineering secure, scalable, and decentralized solutions for users and institutions globally.
 

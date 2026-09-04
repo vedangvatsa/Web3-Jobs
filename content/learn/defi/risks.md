@@ -76,6 +76,7 @@ quiz:
       New protocols are the riskiest. Using a separate, dedicated 'degen' wallet
       protects your main holdings from malicious approvals, and only risking
       what you can lose protects you from smart contract bugs.
+lastUpdated: 2026-09-04
 ---
 
 ## The dark side of "code is law"

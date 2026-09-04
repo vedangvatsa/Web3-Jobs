@@ -18,6 +18,7 @@ relatedTerms:
 synonyms:
   - Consensus Protocol
   - Consensus Algorithm
+lastUpdated: 2026-09-04
 ---
 
 Consensus Mechanism refers to the protocol by which nodes in a decentralized network agree on the current state of the blockchain, ensuring all participants maintain the same transaction history without requiring a central authority. This solves the fundamental challenge of distributed systems: achieving reliable agreement among participants who may not trust each other. Different consensus approaches offer distinct tradeoffs between security, decentralization, and energy efficiency. Bitcoin pioneered Proof of Work, which requires miners to solve computational puzzles, while Ethereum transitioned to Proof of Stake in 2022. Other mechanisms include Delegated Proof of Stake used by networks like Solana and Practical Byzantine Fault Tolerance employed in enterprise blockchains. Understanding consensus mechanisms is essential for blockchain developers, protocol engineers, and security auditors.

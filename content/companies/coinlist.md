@@ -7,6 +7,7 @@ description: >-
   CoinList is a premier Exchange company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 CoinList connects quality Web3 projects with verified early adopters through regulated token sales, seed funding, and trading services.
 

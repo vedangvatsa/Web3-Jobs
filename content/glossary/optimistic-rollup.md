@@ -20,6 +20,7 @@ synonyms:
   - Optimistic L2
   - OR
   - Fraud-proof rollup
+lastUpdated: 2026-09-04
 ---
 
 An **Optimistic rollup** is a **Layer 2 scaling solution that optimistically assumes all transactions are valid** unless proven otherwise through a fraud proof mechanism. Rather than verifying every transaction on Ethereum L1, Optimistic rollups post transaction data to L1 and only require verification if someone disputes a state transition during a challenge period (typically 7 days).

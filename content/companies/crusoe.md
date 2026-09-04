@@ -7,6 +7,7 @@ description: >-
   Crusoe is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Crusoe Energy Systems harnesses stranded and flared natural gas to power clean cloud compute for artificial intelligence and blockchain workloads.
 

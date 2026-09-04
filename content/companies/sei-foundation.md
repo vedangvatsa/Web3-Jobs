@@ -8,6 +8,7 @@ description: >-
   Sei Foundation is a premier Layer 1 company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 High-performance Layer 1 blockchain optimized for trading and DeFi.
 

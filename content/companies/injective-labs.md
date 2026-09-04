@@ -5,6 +5,7 @@ category: Blockchain Infrastructure
 description: >-
  Injective Labs develops a decentralized trading platform for derivatives and
  other assets.
+lastUpdated: 2026-09-04
 ---
 
 Injective Labs is known for creating Injective Protocol, a decentralized exchange that supports various financial products, including derivatives. The platform allows users to trade with zero gas fees and offers a fully decentralized order book. Injective Protocol aims to provide a smooth trading experience while ensuring high liquidity and security.

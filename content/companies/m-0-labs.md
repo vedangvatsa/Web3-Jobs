@@ -6,6 +6,7 @@ description: >-
   M^0 Labs is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 M^0 Labs is involved in the development of decentralized applications and protocols within the Web3 ecosystem. The company emphasizes creating new solutions that enhance user experience and engagement in decentralized environments. 
 

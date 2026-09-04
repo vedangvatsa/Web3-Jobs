@@ -6,6 +6,7 @@ description: >-
   Luno (a DCG company) is a leading crypto investment platform operating across
   Africa, Southeast Asia, and Europe, providing secure Bitcoin and digital asset
   wallets to over 12 million customers.
+lastUpdated: 2026-09-04
 ---
 Luno (a DCG company) is a leading crypto investment platform operating across Africa, Southeast Asia, and Europe, providing secure Bitcoin and digital asset wallets to over 12 million customers.
 

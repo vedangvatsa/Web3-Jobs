@@ -3,6 +3,7 @@ name: Astar Foundation
 website: 'https://astar.network'
 category: Other
 description: Astar Foundation supports the Astar Network for decentralized applications.
+lastUpdated: 2026-09-04
 ---
 
 Astar Foundation is focused on developing the Astar Network, a multi-chain decentralized application platform. The network supports Ethereum and WebAssembly smart contracts, enabling developers to build and deploy dApps efficiently. Astar aims to enable interoperability between different blockchains.

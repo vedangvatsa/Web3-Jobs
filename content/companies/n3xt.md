@@ -6,6 +6,7 @@ description: >-
   N3XT is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 N3XT is a company that provides job listings primarily in the technology sector. They currently have openings for positions such as DevOps Engineer at L2 and L3 levels. The company focuses on connecting talent with opportunities in various tech-related fields. 
 

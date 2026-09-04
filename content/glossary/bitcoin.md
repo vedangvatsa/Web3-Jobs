@@ -18,6 +18,7 @@ relatedTerms:
 synonyms:
   - BTC
   - Digital Gold
+lastUpdated: 2026-09-04
 ---
 
 Bitcoin is the first decentralized cryptocurrency and blockchain network, created in 2009 by the pseudonymous developer Satoshi Nakamoto. It enables peer-to-peer digital transactions without requiring banks, governments, or other intermediaries. The network uses a proof-of-work consensus mechanism where miners validate transactions and secure the blockchain in exchange for newly minted bitcoin rewards. Bitcoin has evolved from an experimental digital currency into a globally recognized asset. The network processes around 400,000 transactions daily and is the largest cryptocurrency by total value. For Web3 professionals, Bitcoin expertise remains foundational, as understanding its architecture, scripting language, and Lightning Network scaling solutions opens opportunities in protocol development, infrastructure engineering, and institutional cryptocurrency services.

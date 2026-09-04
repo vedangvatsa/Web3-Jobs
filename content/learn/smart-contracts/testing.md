@@ -75,6 +75,7 @@ quiz:
       function that anyone can call, or a withdrawal function that doesn't check
       the caller's balance. Always test that restricted functions revert when
       called by unauthorized addresses.
+lastUpdated: 2026-09-04
 ---
 
 ## Why Smart Contract Testing Is Different

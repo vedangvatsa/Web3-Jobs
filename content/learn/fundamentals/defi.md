@@ -64,6 +64,7 @@ quiz:
       Smart contract risk is the biggest concern. If a contract has a bug,
       hackers can exploit it and drain funds. Billions of dollars have been lost
       to DeFi hacks. Always use audited protocols and start with small amounts.
+lastUpdated: 2026-09-04
 ---
 
 ## What DeFi replaces

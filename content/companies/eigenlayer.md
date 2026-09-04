@@ -6,6 +6,7 @@ description: >-
   EigenLayer is a premier Other company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 EigenLayer enables Ethereum stakers to extend their security to new services. The protocol allows users to re-stake their ETH, providing security for various decentralized applications and protocols. This creates a more secure environment for new projects while allowing stakers to earn additional rewards.
 

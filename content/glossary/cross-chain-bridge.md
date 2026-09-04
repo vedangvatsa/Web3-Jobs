@@ -17,6 +17,7 @@ synonyms:
   - inter-chain bridge
   - asset bridge
   - cross-chain swap
+lastUpdated: 2026-09-04
 ---
 
 Cross-Chain Bridge refers to a protocol that enables the transfer of assets and data between different blockchain networks, allowing users to move cryptocurrency across chains while maintaining value equivalence. When a user deposits ETH on Ethereum through a bridge like Wormhole or Multichain, they receive an equivalent wrapped token on the destination chain such as Polygon or Arbitrum, which can later be redeemed for the original asset. Cross-chain bridges have enabled significant transfer volumes across major protocols, demonstrating their critical role in connecting the fragmented blockchain ecosystem. However, bridges represent significant security attack surfaces, with exploits like the Wormhole hack highlighting the technical challenges involved in secure cross-chain communication. Professionals with expertise in bridge architecture, cryptographic verification methods, and cross-chain security are highly sought after as protocols prioritize building more secure interoperability solutions.

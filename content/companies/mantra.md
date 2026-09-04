@@ -8,6 +8,7 @@ description: >-
   MANTRA is a premier Layer 1 / RWA company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Regulatory-compliant Layer 1 blockchain focused on real-world asset tokenization.
 

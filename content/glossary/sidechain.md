@@ -17,6 +17,7 @@ synonyms:
   - parallel chain
   - independent sidechain
   - secondary blockchain
+lastUpdated: 2026-09-04
 ---
 
 Sidechain refers to an independent blockchain that runs parallel to a main chain like Ethereum or Bitcoin, operating with its own validator set and consensus mechanism while maintaining connectivity through a bridge that enables asset transfers between the two networks. Unlike Layer 2 solutions that inherit security from the main chain, sidechains trade some security guarantees for increased speed and lower transaction costs. Polygon PoS, one of the prominent examples, originally launched as an Ethereum sidechain. When a sidechain's validator set is compromised, assets on that chain face risks independent of the main chain's security, making validator integrity a critical consideration for users and developers. Professionals who understand sidechain architecture and cross-chain bridge security are increasingly sought after as enterprises explore scaling solutions that balance performance with decentralization requirements.

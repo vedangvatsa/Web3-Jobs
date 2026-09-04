@@ -8,6 +8,7 @@ description: >-
   Ooble Studio is a premier Gaming / Creative company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Web3-native gaming and creative studio.
 

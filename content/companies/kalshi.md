@@ -3,6 +3,7 @@ name: Kalshi
 website: 'https://kalshi.com'
 category: Prediction Market
 description: "Kalshi is the first federally regulated prediction market and CFTC-regulated exchange in the United States, enabling users to trade directly on real-world event outcomes including economic indicators, regulatory decisions, political elections, and financial metrics. Backed by Sequoia Capital, Y Combinator, and Charles Schwab, Kalshi combines quantitative market microstructure, high-concurrency orderbook execution, and strict regulatory compliance. Backed by Sequoia Capital, Y Combinator, and Charles Schwab, Kalshi operates a regulated exchange where market participants trade directly on economic indicators, inflation rate decisions, political elections, and financial metrics. The platform brings Wall Street quantitative microstructure and high-concurrency orderbook execution to prediction markets under strict CFTC oversight."
+lastUpdated: 2026-09-04
 ---
 
 Kalshi is a prediction market platform that allows users to trade on the outcomes of various events. The company is regulated by the Commodity Futures Trading Commission (CFTC), which distinguishes it from many other prediction markets. Users can buy and sell contracts based on their predictions of future events, such as economic indicators or political outcomes.

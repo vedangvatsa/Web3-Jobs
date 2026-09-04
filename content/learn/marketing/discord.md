@@ -76,6 +76,7 @@ quiz:
       Start with 5-8 focused channels. A busy #general channel feels alive.
       Twenty empty channels feels dead. You can always add channels as the
       community grows and conversations naturally need more space.
+lastUpdated: 2026-09-04
 ---
 
 ## Why Discord Matters in Web3

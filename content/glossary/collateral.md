@@ -18,6 +18,7 @@ synonyms:
   - security
   - backing assets
   - loan security
+lastUpdated: 2026-09-04
 ---
 
 Collateral refers to assets deposited as security when taking out a loan, ensuring lenders have protection if borrowers fail to repay. In decentralized finance, collateral functions differently than in traditional banking because there are no credit checks or identity verification, making over-collateralization essential. When you borrow on protocols like Aave, you must deposit cryptocurrency worth more than your loan amount. This buffer accounts for crypto's price volatility and allows smart contracts to automatically liquidate collateral if its value drops below safe thresholds. Understanding collateral mechanics, liquidation thresholds, and risk parameters is essential for professionals working in DeFi protocol development, risk management, or blockchain financial services.

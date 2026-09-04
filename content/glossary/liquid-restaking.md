@@ -20,6 +20,7 @@ synonyms:
   - LRT
   - Liquid restaking tokens
   - Restaked LST
+lastUpdated: 2026-09-04
 ---
 
 - **Liquid restaking** combines the capital efficiency of restaking with the liquidity of liquid staking tokens, enabling users to earn multiple layers of yield while maintaining asset liquidity. By depositing liquid staking tokens (like stETH or rETH) into restaking protocols and receiving Liquid Restaking Tokens (LRTs) in return, users can simultaneously earn base staking rewards, restaking rewards from AVS validation, and additional DeFi yields while keeping their assets liquid and composable.

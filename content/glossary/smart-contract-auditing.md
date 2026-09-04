@@ -19,6 +19,7 @@ synonyms:
   - Code audit
   - Security audit
   - Contract review
+lastUpdated: 2026-09-04
 ---
 
 - **Smart contract auditing** is the systematic review and analysis of smart contract code to identify security vulnerabilities, logical flaws, and operational risks before deployment. Audits are critical in crypto because once smart contracts are deployed and hold funds, they are immutable. Bugs become permanent, potentially allowing theft of funds.

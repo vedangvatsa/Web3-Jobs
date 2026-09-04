@@ -19,6 +19,7 @@ synonyms:
   - Cross-rollup sequencing
   - Unified sequencing
   - Multi-rollup ordering
+lastUpdated: 2026-09-04
 ---
 
 - **Shared sequencing** is a rollup architecture where **multiple independent rollups share a common sequencing layer** that coordinates transaction ordering across all participating chains. Instead of each rollup operating its own isolated sequencer, a shared sequencer network simultaneously orders transactions for multiple rollups, enabling atomic cross-chain operations and synchronous composability that is not possible with traditional bridge-based architectures.

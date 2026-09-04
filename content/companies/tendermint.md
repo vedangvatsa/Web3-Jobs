@@ -7,6 +7,7 @@ description: >-
   Tendermint is a premier Infrastructure company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Tendermint revolutionized blockchain development by providing modular consensus and state replication tooling for the Cosmos ecosystem.
 

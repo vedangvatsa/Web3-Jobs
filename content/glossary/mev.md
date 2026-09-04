@@ -17,6 +17,7 @@ synonyms:
   - extractable value
   - miner/validator extractable value
   - transaction value
+lastUpdated: 2026-09-04
 ---
 
 MEV (Maximal Extractable Value) refers to the profit that validators, block builders, and specialized searchers can capture by strategically reordering, inserting, or excluding transactions within a block before it is finalized on the blockchain. Originally called Miner Extractable Value before Ethereum's transition to proof-of-stake, MEV represents value that users expect to receive from their transactions but is intercepted by sophisticated actors who can see pending transactions in the mempool. A common example occurs on Uniswap, where a searcher detects a large pending swap, executes a buy order first to push the price up, lets the victim's trade execute at a worse price, then immediately sells for profit. Understanding MEV mechanics has become essential for blockchain engineers, protocol designers, and DeFi developers working to build fairer systems.

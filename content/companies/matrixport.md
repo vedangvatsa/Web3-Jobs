@@ -6,6 +6,7 @@ description: >-
   Matrixport is an all-in-one digital assets financial services hub offering
   crypto structured products, prime brokerage, asset management, and
   institutional custody across APAC and global markets.
+lastUpdated: 2026-09-04
 ---
 Matrixport is an all-in-one digital assets financial services hub offering crypto structured products, prime brokerage, asset management, and institutional custody across APAC and global markets.
 

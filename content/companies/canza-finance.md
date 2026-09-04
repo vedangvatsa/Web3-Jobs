@@ -6,6 +6,7 @@ description: >-
   Canza Finance is a premier DeFi / FX / Payments (Africa) company building
   mission-critical blockchain infrastructure, decentralized applications, and
   high-performance Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Canza Finance builds decentralized financial infrastructure and local FX access points for micro-businesses and non-formal merchants across emerging markets in Africa.
 

@@ -7,6 +7,7 @@ description: >-
   Merico is a premier Developer Tools company building mission-critical
   blockchain infrastructure, decentralized applications, and high-performance
   Web3 solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 Merico analyzes codebase activity to evaluate software development metrics, code quality, and open-source contributor value.
 

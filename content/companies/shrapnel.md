@@ -7,6 +7,7 @@ description: >-
   SHRAPNEL is a premier Gaming company building mission-critical blockchain
   infrastructure, decentralized applications, and high-performance Web3
   solutions for users and institutions globally.
+lastUpdated: 2026-09-04
 ---
 SHRAPNEL delivers high-stakes first-person shooter gaming where players own their weapons, vanity items, and map creations as digital assets.
 
