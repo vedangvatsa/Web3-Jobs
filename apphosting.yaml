@@ -34,7 +34,15 @@ env:
   - variable: RESEND_API_KEY
     secret: RESEND_API_KEY
 
+  - variable: NODE_OPTIONS
+    value: --max-old-space-size=3072
+    availability:
+      - BUILD
+      - RUNTIME
+
 runConfig:
+  cpu: 2
+  memoryMiB: 4096
   # Keep one instance always warm to eliminate cold-start latency (15-30s).
   minInstances: 1
   # Increase this value if you'd like to automatically spin up
