@@ -55,27 +55,18 @@ export async function generateStaticParams() {
   const articles = await getAllArticles();
   const resources = getAllResourcePages();
   const events = await getEvents();
-  const jobsWithSlugs = await getAllJobsWithSlugs();
 
-  // Pre-render 50 most recent articles + all resource pages at build time.
+  // Pre-render top 20 most recent articles + key resources. All other pages use ISR dynamically on first request.
   const topArticles = articles
    .sort((a, b) => new Date(b.publishedDate || 0).getTime() - new Date(a.publishedDate || 0).getTime())
-   .slice(0, 50);
+   .slice(0, 20);
 
-  // Always pre-build pages for all curated events. Feed events are ISR on first request.
-  const curatedEvents = events.filter(e => e.source === 'curated-premier');
-  const feedEvents = events.filter(e => e.source !== 'curated-premier');
+  const curatedEvents = events.filter(e => e.source === 'curated-premier').slice(0, 10);
 
   return [
    ...topArticles.map((article) => ({ slug: article.slug })),
-   ...resources.map((r) => ({ slug: r.seo.canonicalSlug })),
+   ...resources.slice(0, 10).map((r) => ({ slug: r.seo.canonicalSlug })),
    ...curatedEvents.map((event) => ({ slug: getEventSlug(event) })),
-   ...feedEvents.slice(0, 20).map((event) => ({ slug: getEventSlug(event) })),
-   ...(await getCompanies())
-    .sort((a, b) => b.jobCount - a.jobCount)
-    .slice(0, 20)
-    .map((company) => ({ slug: company.slug })),
-   ...jobsWithSlugs.slice(0, 60).filter(({ job }) => hasSubstantialJobContent(job)).map(({ slug }) => ({ slug })),
   ];
 }
 
