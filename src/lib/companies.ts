@@ -258,6 +258,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'sei-labs': 'https://sei.io',
  'union': 'https://union.build',
  'symbiotic': 'https://symbiotic.fi',
+ 'symbiotic-restaking': 'https://symbiotic.fi',
  'artemis': 'https://artemis.xyz',
  'safe': 'https://safe.global',
  'apex': 'https://apex.exchange',
@@ -560,6 +561,9 @@ function normalizeCompanyName(name: string): string {
   if (lower.includes('aztec')) {
     return 'aztec';
   }
+  if (lower.includes('symbiotic')) {
+    return 'symbiotic';
+  }
   return name
    .toLowerCase()
    .replace(/\s+inc\.?$/i, '')
@@ -587,7 +591,7 @@ export async function getCompanies(): Promise<Company[]> {
   
   // Use the first occurrence as the canonical name
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : companyName);
+   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : companyName));
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
@@ -666,14 +670,14 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const normalized = normalizeCompanyName(companyName);
   
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : companyName);
+   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : companyName));
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
   
   const canonicalName = nameMap.get(normalized)!;
   companyMap.get(canonicalName)!.push(job);
-    if (createSlug(canonicalName) === slug || (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') || (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs')) {
+    if (createSlug(canonicalName) === slug || (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') || (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') || (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic')) {
     targetCanonicalName = canonicalName;
    }
  });
