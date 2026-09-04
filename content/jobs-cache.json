@@ -1,5 +1,3445 @@
 [
   {
+    "id": "tangem-web-attribution-analyst",
+    "title": "Web Attribution Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/web-attribution-analyst",
+    "applyUrl": "https://careers.tangem.com/web-attribution-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemwebattributiona"
+  },
+  {
+    "id": "tangem-ux-writer",
+    "title": "Ux Writer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/ux-writer",
+    "applyUrl": "https://careers.tangem.com/ux-writer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemuxwriter"
+  },
+  {
+    "id": "tangem-treasury-specialist",
+    "title": "Treasury Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/treasury-specialist",
+    "applyUrl": "https://careers.tangem.com/treasury-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemtreasuryspecial"
+  },
+  {
+    "id": "tangem-transport-operations-expert",
+    "title": "Transport Operations Expert",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/transport-operations-expert",
+    "applyUrl": "https://careers.tangem.com/transport-operations-expert",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemtransportoperat"
+  },
+  {
+    "id": "tangem-team-assistant",
+    "title": "Team Assistant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/team-assistant",
+    "applyUrl": "https://careers.tangem.com/team-assistant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemteamassistant"
+  },
+  {
+    "id": "tangem-tax-compliance-reporting-specialist",
+    "title": "Tax Compliance Reporting Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/tax-compliance-reporting-specialist",
+    "applyUrl": "https://careers.tangem.com/tax-compliance-reporting-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemtaxcompliancere"
+  },
+  {
+    "id": "tangem-tax-advisor",
+    "title": "Tax Advisor",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/tax-advisor",
+    "applyUrl": "https://careers.tangem.com/tax-advisor",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemtaxadvisor"
+  },
+  {
+    "id": "tangem-system-analyst-us-equities-integration",
+    "title": "System Analyst Us Equities Integration",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-us-equities-integration",
+    "applyUrl": "https://careers.tangem.com/system-analyst-us-equities-integration",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalystus"
+  },
+  {
+    "id": "tangem-system-analyst-tangem-pay",
+    "title": "System Analyst Tangem Pay",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-tangem-pay",
+    "applyUrl": "https://careers.tangem.com/system-analyst-tangem-pay",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalystta"
+  },
+  {
+    "id": "tangem-system-analyst-mobile",
+    "title": "System Analyst Mobile",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-mobile",
+    "applyUrl": "https://careers.tangem.com/system-analyst-mobile",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalystmo"
+  },
+  {
+    "id": "tangem-system-analyst-invest-growth",
+    "title": "System Analyst Invest Growth",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-invest-growth",
+    "applyUrl": "https://careers.tangem.com/system-analyst-invest-growth",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalystin"
+  },
+  {
+    "id": "tangem-system-analyst-ai",
+    "title": "System Analyst Ai",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-ai",
+    "applyUrl": "https://careers.tangem.com/system-analyst-ai",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalystai"
+  },
+  {
+    "id": "tangem-system-analyst-affiliatereferral-program",
+    "title": "System Analyst Affiliatereferral Program",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-affiliatereferral-program",
+    "applyUrl": "https://careers.tangem.com/system-analyst-affiliatereferral-program",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalystaf"
+  },
+  {
+    "id": "tangem-system-analyst-1",
+    "title": "System Analyst 1",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst-1",
+    "applyUrl": "https://careers.tangem.com/system-analyst-1",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalyst1"
+  },
+  {
+    "id": "tangem-system-analyst",
+    "title": "System Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-analyst",
+    "applyUrl": "https://careers.tangem.com/system-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemanalyst"
+  },
+  {
+    "id": "tangem-system-administrator",
+    "title": "System Administrator",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/system-administrator",
+    "applyUrl": "https://careers.tangem.com/system-administrator",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsystemadministr"
+  },
+  {
+    "id": "tangem-swift-blockchain-developer",
+    "title": "Swift Blockchain Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/swift-blockchain-developer",
+    "applyUrl": "https://careers.tangem.com/swift-blockchain-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemswiftblockchain"
+  },
+  {
+    "id": "tangem-support-specialist-l2-javascript",
+    "title": "Support Specialist L2 Javascript",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/support-specialist-l2-javascript",
+    "applyUrl": "https://careers.tangem.com/support-specialist-l2-javascript",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsupportspeciali"
+  },
+  {
+    "id": "tangem-strategy-development-manager-associate",
+    "title": "Strategy Development Manager Associate",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/strategy-development-manager-associate",
+    "applyUrl": "https://careers.tangem.com/strategy-development-manager-associate",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemstrategydevelop"
+  },
+  {
+    "id": "tangem-special-projects-manager-brand-comms",
+    "title": "Special Projects Manager Brand Comms",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/special-projects-manager-brand-comms",
+    "applyUrl": "https://careers.tangem.com/special-projects-manager-brand-comms",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemspecialprojects"
+  },
+  {
+    "id": "tangem-social-media-manager",
+    "title": "Social Media Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/social-media-manager",
+    "applyUrl": "https://careers.tangem.com/social-media-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsocialmediamana"
+  },
+  {
+    "id": "tangem-senior-uiux-designer",
+    "title": "Senior Uiux Designer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-uiux-designer",
+    "applyUrl": "https://careers.tangem.com/senior-uiux-designer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsenioruiuxdesig"
+  },
+  {
+    "id": "tangem-senior-treasury-liquidity-manager-ai-driven",
+    "title": "Senior Treasury Liquidity Manager Ai Driven",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-treasury-liquidity-manager-ai-driven",
+    "applyUrl": "https://careers.tangem.com/senior-treasury-liquidity-manager-ai-driven",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniortreasuryl"
+  },
+  {
+    "id": "tangem-senior-solidity-engineer",
+    "title": "Senior Solidity Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-solidity-engineer",
+    "applyUrl": "https://careers.tangem.com/senior-solidity-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorsoliditye"
+  },
+  {
+    "id": "tangem-senior-solidity-developer",
+    "title": "Senior Solidity Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-solidity-developer",
+    "applyUrl": "https://careers.tangem.com/senior-solidity-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorsolidityd"
+  },
+  {
+    "id": "tangem-senior-software-engineer-payment-solutions",
+    "title": "Senior Software Engineer Payment Solutions",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-software-engineer-payment-solutions",
+    "applyUrl": "https://careers.tangem.com/senior-software-engineer-payment-solutions",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorsoftwaree"
+  },
+  {
+    "id": "tangem-senior-smart-contract-engineer",
+    "title": "Senior Smart Contract Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-smart-contract-engineer",
+    "applyUrl": "https://careers.tangem.com/senior-smart-contract-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorsmartcont"
+  },
+  {
+    "id": "tangem-senior-reporting-analyst",
+    "title": "Senior Reporting Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-reporting-analyst",
+    "applyUrl": "https://careers.tangem.com/senior-reporting-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorreporting"
+  },
+  {
+    "id": "tangem-senior-recruiter",
+    "title": "Senior Recruiter",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-recruiter",
+    "applyUrl": "https://careers.tangem.com/senior-recruiter",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorrecruiter"
+  },
+  {
+    "id": "tangem-senior-qa-mobile-engineer",
+    "title": "Senior Qa Mobile Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-qa-mobile-engineer",
+    "applyUrl": "https://careers.tangem.com/senior-qa-mobile-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorqamobilee"
+  },
+  {
+    "id": "tangem-senior-qa-engineer-mobile-for-tangem-app-visa-app",
+    "title": "Senior Qa Engineer Mobile For Tangem App Visa App",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-qa-engineer-mobile-for-tangem-app-visa-app",
+    "applyUrl": "https://careers.tangem.com/senior-qa-engineer-mobile-for-tangem-app-visa-app",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorqaenginee"
+  },
+  {
+    "id": "tangem-senior-product-owner-crypto-wallet",
+    "title": "Senior Product Owner Crypto Wallet",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-product-owner-crypto-wallet",
+    "applyUrl": "https://careers.tangem.com/senior-product-owner-crypto-wallet",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorproductow"
+  },
+  {
+    "id": "tangem-senior-product-designer",
+    "title": "Senior Product Designer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-product-designer",
+    "applyUrl": "https://careers.tangem.com/senior-product-designer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorproductde"
+  },
+  {
+    "id": "tangem-senior-js-full-stack-developer",
+    "title": "Senior Js Full Stack Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-js-full-stack-developer",
+    "applyUrl": "https://careers.tangem.com/senior-js-full-stack-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorjsfullsta"
+  },
+  {
+    "id": "tangem-senior-javakotlin-developer",
+    "title": "Senior Javakotlin Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-javakotlin-developer",
+    "applyUrl": "https://careers.tangem.com/senior-javakotlin-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorjavakotli"
+  },
+  {
+    "id": "tangem-senior-ios-developer-swiftui",
+    "title": "Senior Ios Developer Swiftui",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-ios-developer-swiftui",
+    "applyUrl": "https://careers.tangem.com/senior-ios-developer-swiftui",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsenioriosdevelo"
+  },
+  {
+    "id": "tangem-senior-information-security-engineer",
+    "title": "Senior Information Security Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-information-security-engineer",
+    "applyUrl": "https://careers.tangem.com/senior-information-security-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorinformati"
+  },
+  {
+    "id": "tangem-senior-general-counsel-international-remote",
+    "title": "Senior General Counsel International Remote",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-general-counsel-international-remote",
+    "applyUrl": "https://careers.tangem.com/senior-general-counsel-international-remote",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorgeneralco"
+  },
+  {
+    "id": "tangem-senior-devsecops-specialist",
+    "title": "Senior Devsecops Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-devsecops-specialist",
+    "applyUrl": "https://careers.tangem.com/senior-devsecops-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniordevsecops"
+  },
+  {
+    "id": "tangem-senior-corporate-lawyer",
+    "title": "Senior Corporate Lawyer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-corporate-lawyer",
+    "applyUrl": "https://careers.tangem.com/senior-corporate-lawyer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorcorporate"
+  },
+  {
+    "id": "tangem-senior-backend-engineer",
+    "title": "Senior Backend Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-backend-engineer",
+    "applyUrl": "https://careers.tangem.com/senior-backend-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorbackenden"
+  },
+  {
+    "id": "tangem-senior-backend-developer-e-commerce-platform",
+    "title": "Senior Backend Developer E Commerce Platform",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-backend-developer-e-commerce-platform",
+    "applyUrl": "https://careers.tangem.com/senior-backend-developer-e-commerce-platform",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorbackendde"
+  },
+  {
+    "id": "tangem-senior-backend-developer",
+    "title": "Senior Backend Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-backend-developer",
+    "applyUrl": "https://careers.tangem.com/senior-backend-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorbackendde"
+  },
+  {
+    "id": "tangem-senior-backend",
+    "title": "Senior Backend",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-backend",
+    "applyUrl": "https://careers.tangem.com/senior-backend",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorbackend"
+  },
+  {
+    "id": "tangem-senior-application-security-engineer",
+    "title": "Senior Application Security Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-application-security-engineer",
+    "applyUrl": "https://careers.tangem.com/senior-application-security-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorapplicati"
+  },
+  {
+    "id": "tangem-senior-android-developer",
+    "title": "Senior Android Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-android-developer",
+    "applyUrl": "https://careers.tangem.com/senior-android-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemseniorandroidde"
+  },
+  {
+    "id": "tangem-senior-accountant",
+    "title": "Senior Accountant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/senior-accountant",
+    "applyUrl": "https://careers.tangem.com/senior-accountant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsenioraccountan"
+  },
+  {
+    "id": "tangem-security-development-specialist-mobile-applications",
+    "title": "Security Development Specialist Mobile Applications",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/security-development-specialist-mobile-applications",
+    "applyUrl": "https://careers.tangem.com/security-development-specialist-mobile-applications",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsecuritydevelop"
+  },
+  {
+    "id": "tangem-sales-support-specialist",
+    "title": "Sales Support Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/sales-support-specialist",
+    "applyUrl": "https://careers.tangem.com/sales-support-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemsalessupportspe"
+  },
+  {
+    "id": "tangem-reporting-analyst",
+    "title": "Reporting Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/reporting-analyst",
+    "applyUrl": "https://careers.tangem.com/reporting-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemreportinganalys"
+  },
+  {
+    "id": "tangem-regional-growth-manager-mexico",
+    "title": "Regional Growth Manager Mexico",
+    "company": "Tangem",
+    "location": "LATAM / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-manager-mexico",
+    "applyUrl": "https://careers.tangem.com/regional-growth-manager-mexico",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthm"
+  },
+  {
+    "id": "tangem-regional-growth-manager-indonesiaphilippinesthailandvietnammalaysia",
+    "title": "Regional Growth Manager Indonesiaphilippinesthailandvietnammalaysia",
+    "company": "Tangem",
+    "location": "APAC / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-manager-indonesiaphilippinesthailandvietnammalaysia",
+    "applyUrl": "https://careers.tangem.com/regional-growth-manager-indonesiaphilippinesthailandvietnammalaysia",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthm"
+  },
+  {
+    "id": "tangem-regional-growth-manager-india",
+    "title": "Regional Growth Manager India",
+    "company": "Tangem",
+    "location": "APAC / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-manager-india",
+    "applyUrl": "https://careers.tangem.com/regional-growth-manager-india",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthm"
+  },
+  {
+    "id": "tangem-regional-growth-manager-argentina",
+    "title": "Regional Growth Manager Argentina",
+    "company": "Tangem",
+    "location": "LATAM / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-manager-argentina",
+    "applyUrl": "https://careers.tangem.com/regional-growth-manager-argentina",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthm"
+  },
+  {
+    "id": "tangem-regional-growth-manager",
+    "title": "Regional Growth Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-manager",
+    "applyUrl": "https://careers.tangem.com/regional-growth-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthm"
+  },
+  {
+    "id": "tangem-regional-growth-lead-us",
+    "title": "Regional Growth Lead Us",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-lead-us",
+    "applyUrl": "https://careers.tangem.com/regional-growth-lead-us",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthl"
+  },
+  {
+    "id": "tangem-regional-growth-lead-asia",
+    "title": "Regional Growth Lead Asia",
+    "company": "Tangem",
+    "location": "APAC / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/regional-growth-lead-asia",
+    "applyUrl": "https://careers.tangem.com/regional-growth-lead-asia",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemregionalgrowthl"
+  },
+  {
+    "id": "tangem-recruiter-it-product-sales",
+    "title": "Recruiter It Product Sales",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/recruiter-it-product-sales",
+    "applyUrl": "https://careers.tangem.com/recruiter-it-product-sales",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemrecruiteritprod"
+  },
+  {
+    "id": "tangem-reconciliation-and-fraud-analyst",
+    "title": "Reconciliation And Fraud Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/reconciliation-and-fraud-analyst",
+    "applyUrl": "https://careers.tangem.com/reconciliation-and-fraud-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemreconciliationa"
+  },
+  {
+    "id": "tangem-quality-control-specialist-chinaindonesia",
+    "title": "Quality Control Specialist Chinaindonesia",
+    "company": "Tangem",
+    "location": "APAC / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/quality-control-specialist-chinaindonesia",
+    "applyUrl": "https://careers.tangem.com/quality-control-specialist-chinaindonesia",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemqualitycontrols"
+  },
+  {
+    "id": "tangem-python-automation-developer-investment-products",
+    "title": "Python Automation Developer Investment Products",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/python-automation-developer-investment-products",
+    "applyUrl": "https://careers.tangem.com/python-automation-developer-investment-products",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangempythonautomatio"
+  },
+  {
+    "id": "tangem-project-manager-productionintegrations",
+    "title": "Project Manager Productionintegrations",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/project-manager-productionintegrations",
+    "applyUrl": "https://careers.tangem.com/project-manager-productionintegrations",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemprojectmanagerp"
+  },
+  {
+    "id": "tangem-project-manager",
+    "title": "Project Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/project-manager",
+    "applyUrl": "https://careers.tangem.com/project-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemprojectmanager"
+  },
+  {
+    "id": "tangem-product-owner-trading-liquidity",
+    "title": "Product Owner Trading Liquidity",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-trading-liquidity",
+    "applyUrl": "https://careers.tangem.com/product-owner-trading-liquidity",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownertra"
+  },
+  {
+    "id": "tangem-product-owner-tangem-pay",
+    "title": "Product Owner Tangem Pay",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-tangem-pay",
+    "applyUrl": "https://careers.tangem.com/product-owner-tangem-pay",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownertan"
+  },
+  {
+    "id": "tangem-product-owner-payment-solutionsbanking",
+    "title": "Product Owner Payment Solutionsbanking",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-payment-solutionsbanking",
+    "applyUrl": "https://careers.tangem.com/product-owner-payment-solutionsbanking",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownerpay"
+  },
+  {
+    "id": "tangem-product-owner-payment-cards-1",
+    "title": "Product Owner Payment Cards 1",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-payment-cards-1",
+    "applyUrl": "https://careers.tangem.com/product-owner-payment-cards-1",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownerpay"
+  },
+  {
+    "id": "tangem-product-owner-payment-cards",
+    "title": "Product Owner Payment Cards",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-payment-cards",
+    "applyUrl": "https://careers.tangem.com/product-owner-payment-cards",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownerpay"
+  },
+  {
+    "id": "tangem-product-owner-in-app-financial-services",
+    "title": "Product Owner In App Financial Services",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-in-app-financial-services",
+    "applyUrl": "https://careers.tangem.com/product-owner-in-app-financial-services",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownerina"
+  },
+  {
+    "id": "tangem-product-owner-growth-conversion",
+    "title": "Product Owner Growth Conversion",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-growth-conversion",
+    "applyUrl": "https://careers.tangem.com/product-owner-growth-conversion",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownergro"
+  },
+  {
+    "id": "tangem-product-owner-customer-lifecycle-growth",
+    "title": "Product Owner Customer Lifecycle Growth",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-customer-lifecycle-growth",
+    "applyUrl": "https://careers.tangem.com/product-owner-customer-lifecycle-growth",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownercus"
+  },
+  {
+    "id": "tangem-product-owner-banking-rails-money-movement",
+    "title": "Product Owner Banking Rails Money Movement",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-banking-rails-money-movement",
+    "applyUrl": "https://careers.tangem.com/product-owner-banking-rails-money-movement",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductownerban"
+  },
+  {
+    "id": "tangem-product-owner-affiliate-referral-program",
+    "title": "Product Owner Affiliate Referral Program",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-owner-affiliate-referral-program",
+    "applyUrl": "https://careers.tangem.com/product-owner-affiliate-referral-program",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductowneraff"
+  },
+  {
+    "id": "tangem-product-manager-website",
+    "title": "Product Manager Website",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-manager-website",
+    "applyUrl": "https://careers.tangem.com/product-manager-website",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductmanagerw"
+  },
+  {
+    "id": "tangem-product-manager-product-ownercustomer-journey-expert-website",
+    "title": "Product Manager Product Ownercustomer Journey Expert Website",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-manager-product-ownercustomer-journey-expert-website",
+    "applyUrl": "https://careers.tangem.com/product-manager-product-ownercustomer-journey-expert-website",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductmanagerp"
+  },
+  {
+    "id": "tangem-product-manager-e-commercecheck",
+    "title": "Product Manager E Commercecheck",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-manager-e-commercecheck",
+    "applyUrl": "https://careers.tangem.com/product-manager-e-commercecheck",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductmanagere"
+  },
+  {
+    "id": "tangem-product-discovery-lead-web3",
+    "title": "Product Discovery Lead Web3",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-discovery-lead-web3",
+    "applyUrl": "https://careers.tangem.com/product-discovery-lead-web3",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductdiscover"
+  },
+  {
+    "id": "tangem-product-analyst",
+    "title": "Product Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/product-analyst",
+    "applyUrl": "https://careers.tangem.com/product-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemproductanalyst"
+  },
+  {
+    "id": "tangem-private-wealth-digital-assets-lead-us",
+    "title": "Private Wealth Digital Assets Lead Us",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/private-wealth-digital-assets-lead-us",
+    "applyUrl": "https://careers.tangem.com/private-wealth-digital-assets-lead-us",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemprivatewealthdi"
+  },
+  {
+    "id": "tangem-personal-assistant",
+    "title": "Personal Assistant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/personal-assistant",
+    "applyUrl": "https://careers.tangem.com/personal-assistant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangempersonalassista"
+  },
+  {
+    "id": "tangem-performance-marketing-manager",
+    "title": "Performance Marketing Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/performance-marketing-manager",
+    "applyUrl": "https://careers.tangem.com/performance-marketing-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemperformancemark"
+  },
+  {
+    "id": "tangem-payment-product-owner",
+    "title": "Payment Product Owner",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/payment-product-owner",
+    "applyUrl": "https://careers.tangem.com/payment-product-owner",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangempaymentproducto"
+  },
+  {
+    "id": "tangem-operation-director-crypto-payments-service-provider",
+    "title": "Operation Director Crypto Payments Service Provider",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/operation-director-crypto-payments-service-provider",
+    "applyUrl": "https://careers.tangem.com/operation-director-crypto-payments-service-provider",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemoperationdirect"
+  },
+  {
+    "id": "tangem-netsuite-developerconsultant",
+    "title": "Netsuite Developerconsultant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/netsuite-developerconsultant",
+    "applyUrl": "https://careers.tangem.com/netsuite-developerconsultant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemnetsuitedevelop"
+  },
+  {
+    "id": "tangem-netsuite-developer-consultant",
+    "title": "Netsuite Developer Consultant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/netsuite-developer-consultant",
+    "applyUrl": "https://careers.tangem.com/netsuite-developer-consultant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemnetsuitedevelop"
+  },
+  {
+    "id": "tangem-netsuite-developer",
+    "title": "Netsuite Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/netsuite-developer",
+    "applyUrl": "https://careers.tangem.com/netsuite-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemnetsuitedevelop"
+  },
+  {
+    "id": "tangem-multitasking-coordinator",
+    "title": "Multitasking Coordinator",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/multitasking-coordinator",
+    "applyUrl": "https://careers.tangem.com/multitasking-coordinator",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmultitaskingcoo"
+  },
+  {
+    "id": "tangem-mlro-lithuania",
+    "title": "Mlro Lithuania",
+    "company": "Tangem",
+    "location": "Europe / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/mlro-lithuania",
+    "applyUrl": "https://careers.tangem.com/mlro-lithuania",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmlrolithuania"
+  },
+  {
+    "id": "tangem-middlesenior-qa-engineer-web",
+    "title": "Middlesenior Qa Engineer Web",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-qa-engineer-web",
+    "applyUrl": "https://careers.tangem.com/middlesenior-qa-engineer-web",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniorqae"
+  },
+  {
+    "id": "tangem-middlesenior-qa-engineer-mobile",
+    "title": "Middlesenior Qa Engineer Mobile",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-qa-engineer-mobile",
+    "applyUrl": "https://careers.tangem.com/middlesenior-qa-engineer-mobile",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniorqae"
+  },
+  {
+    "id": "tangem-middlesenior-qa-automation-mobile-ios",
+    "title": "Middlesenior Qa Automation Mobile Ios",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-qa-automation-mobile-ios",
+    "applyUrl": "https://careers.tangem.com/middlesenior-qa-automation-mobile-ios",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniorqaa"
+  },
+  {
+    "id": "tangem-middlesenior-qa-automation-mobile-android",
+    "title": "Middlesenior Qa Automation Mobile Android",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-qa-automation-mobile-android",
+    "applyUrl": "https://careers.tangem.com/middlesenior-qa-automation-mobile-android",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniorqaa"
+  },
+  {
+    "id": "tangem-middlesenior-qa-automation-backend",
+    "title": "Middlesenior Qa Automation Backend",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-qa-automation-backend",
+    "applyUrl": "https://careers.tangem.com/middlesenior-qa-automation-backend",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniorqaa"
+  },
+  {
+    "id": "tangem-middlesenior-nodejs-developer",
+    "title": "Middlesenior Nodejs Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-nodejs-developer",
+    "applyUrl": "https://careers.tangem.com/middlesenior-nodejs-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniornod"
+  },
+  {
+    "id": "tangem-middlesenior-frontend-developer",
+    "title": "Middlesenior Frontend Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middlesenior-frontend-developer",
+    "applyUrl": "https://careers.tangem.com/middlesenior-frontend-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleseniorfro"
+  },
+  {
+    "id": "tangem-middle-ux-researcher",
+    "title": "Middle Ux Researcher",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/middle-ux-researcher",
+    "applyUrl": "https://careers.tangem.com/middle-ux-researcher",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmiddleuxresearc"
+  },
+  {
+    "id": "tangem-marketing-project-manager",
+    "title": "Marketing Project Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/marketing-project-manager",
+    "applyUrl": "https://careers.tangem.com/marketing-project-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmarketingprojec"
+  },
+  {
+    "id": "tangem-market-analyst-crypto-wallets-exchanges",
+    "title": "Market Analyst Crypto Wallets Exchanges",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/market-analyst-crypto-wallets-exchanges",
+    "applyUrl": "https://careers.tangem.com/market-analyst-crypto-wallets-exchanges",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemmarketanalystcr"
+  },
+  {
+    "id": "tangem-logistics-support-fairy",
+    "title": "Logistics Support Fairy",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/logistics-support-fairy",
+    "applyUrl": "https://careers.tangem.com/logistics-support-fairy",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemlogisticssuppor"
+  },
+  {
+    "id": "tangem-logistics-manager",
+    "title": "Logistics Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/logistics-manager",
+    "applyUrl": "https://careers.tangem.com/logistics-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemlogisticsmanage"
+  },
+  {
+    "id": "tangem-logistics-accountant",
+    "title": "Logistics Accountant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/logistics-accountant",
+    "applyUrl": "https://careers.tangem.com/logistics-accountant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemlogisticsaccoun"
+  },
+  {
+    "id": "tangem-liquidity-manager-payments-operations-manager",
+    "title": "Liquidity Manager Payments Operations Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/liquidity-manager-payments-operations-manager",
+    "applyUrl": "https://careers.tangem.com/liquidity-manager-payments-operations-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemliquiditymanage"
+  },
+  {
+    "id": "tangem-liquidity-manager",
+    "title": "Liquidity Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/liquidity-manager",
+    "applyUrl": "https://careers.tangem.com/liquidity-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemliquiditymanage"
+  },
+  {
+    "id": "tangem-lifecycle-crm-communications-lead-sales",
+    "title": "Lifecycle Crm Communications Lead Sales",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/lifecycle-crm-communications-lead-sales",
+    "applyUrl": "https://careers.tangem.com/lifecycle-crm-communications-lead-sales",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemlifecyclecrmcom"
+  },
+  {
+    "id": "tangem-legal-wizard",
+    "title": "Legal Wizard",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/legal-wizard",
+    "applyUrl": "https://careers.tangem.com/legal-wizard",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemlegalwizard"
+  },
+  {
+    "id": "tangem-lead-head-of-mobile-qa-automation",
+    "title": "Lead Head Of Mobile Qa Automation",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/lead-head-of-mobile-qa-automation",
+    "applyUrl": "https://careers.tangem.com/lead-head-of-mobile-qa-automation",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemleadheadofmobil"
+  },
+  {
+    "id": "tangem-lead-designer",
+    "title": "Lead Designer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/lead-designer",
+    "applyUrl": "https://careers.tangem.com/lead-designer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemleaddesigner"
+  },
+  {
+    "id": "tangem-lead-business-development-manager-the-us-market",
+    "title": "Lead Business Development Manager The Us Market",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/lead-business-development-manager-the-us-market",
+    "applyUrl": "https://careers.tangem.com/lead-business-development-manager-the-us-market",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemleadbusinessdev"
+  },
+  {
+    "id": "tangem-l2-support-team-lead",
+    "title": "L2 Support Team Lead",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/l2-support-team-lead",
+    "applyUrl": "https://careers.tangem.com/l2-support-team-lead",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangeml2supportteamle"
+  },
+  {
+    "id": "tangem-kotlin-blockchain-developer",
+    "title": "Kotlin Blockchain Developer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/kotlin-blockchain-developer",
+    "applyUrl": "https://careers.tangem.com/kotlin-blockchain-developer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemkotlinblockchai"
+  },
+  {
+    "id": "tangem-junior-compliance-analyst",
+    "title": "Junior Compliance Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/junior-compliance-analyst",
+    "applyUrl": "https://careers.tangem.com/junior-compliance-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemjuniorcomplianc"
+  },
+  {
+    "id": "tangem-junior-business-assistant",
+    "title": "Junior Business Assistant",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/junior-business-assistant",
+    "applyUrl": "https://careers.tangem.com/junior-business-assistant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemjuniorbusinessa"
+  },
+  {
+    "id": "tangem-junior-accountant",
+    "title": "Junior Accountant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/junior-accountant",
+    "applyUrl": "https://careers.tangem.com/junior-accountant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemjunioraccountan"
+  },
+  {
+    "id": "tangem-international-marketplaces-manager",
+    "title": "International Marketplaces Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/international-marketplaces-manager",
+    "applyUrl": "https://careers.tangem.com/international-marketplaces-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangeminternationalma"
+  },
+  {
+    "id": "tangem-international-logistics-specialist-b2c",
+    "title": "International Logistics Specialist B2c",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/international-logistics-specialist-b2c",
+    "applyUrl": "https://careers.tangem.com/international-logistics-specialist-b2c",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangeminternationallo"
+  },
+  {
+    "id": "tangem-head-of-tangem-business",
+    "title": "Head Of Tangem Business",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-tangem-business",
+    "applyUrl": "https://careers.tangem.com/head-of-tangem-business",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadoftangembus"
+  },
+  {
+    "id": "tangem-head-of-partnerships-us",
+    "title": "Head Of Partnerships Us",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-partnerships-us",
+    "applyUrl": "https://careers.tangem.com/head-of-partnerships-us",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofpartnersh"
+  },
+  {
+    "id": "tangem-head-of-partnerships-investment-products",
+    "title": "Head Of Partnerships Investment Products",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-partnerships-investment-products",
+    "applyUrl": "https://careers.tangem.com/head-of-partnerships-investment-products",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofpartnersh"
+  },
+  {
+    "id": "tangem-head-of-operations-finance-payments",
+    "title": "Head Of Operations Finance Payments",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-operations-finance-payments",
+    "applyUrl": "https://careers.tangem.com/head-of-operations-finance-payments",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofoperation"
+  },
+  {
+    "id": "tangem-head-of-design",
+    "title": "Head Of Design",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-design",
+    "applyUrl": "https://careers.tangem.com/head-of-design",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofdesign"
+  },
+  {
+    "id": "tangem-head-of-creator-partnerships",
+    "title": "Head Of Creator Partnerships",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-creator-partnerships",
+    "applyUrl": "https://careers.tangem.com/head-of-creator-partnerships",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofcreatorpa"
+  },
+  {
+    "id": "tangem-head-of-brand-communications-pr-1",
+    "title": "Head Of Brand Communications Pr 1",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-brand-communications-pr-1",
+    "applyUrl": "https://careers.tangem.com/head-of-brand-communications-pr-1",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofbrandcomm"
+  },
+  {
+    "id": "tangem-head-of-brand-communications-pr",
+    "title": "Head Of Brand Communications Pr",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-brand-communications-pr",
+    "applyUrl": "https://careers.tangem.com/head-of-brand-communications-pr",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofbrandcomm"
+  },
+  {
+    "id": "tangem-head-of-ai-driven-support-support-automation",
+    "title": "Head Of Ai Driven Support Support Automation",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/head-of-ai-driven-support-support-automation",
+    "applyUrl": "https://careers.tangem.com/head-of-ai-driven-support-support-automation",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemheadofaidrivens"
+  },
+  {
+    "id": "tangem-growth-manager-outreach-lead-generation",
+    "title": "Growth Manager Outreach Lead Generation",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/growth-manager-outreach-lead-generation",
+    "applyUrl": "https://careers.tangem.com/growth-manager-outreach-lead-generation",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemgrowthmanagerou"
+  },
+  {
+    "id": "tangem-growth-expert",
+    "title": "Growth Expert",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/growth-expert",
+    "applyUrl": "https://careers.tangem.com/growth-expert",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemgrowthexpert"
+  },
+  {
+    "id": "tangem-graphic-designer-multitasking-wizard",
+    "title": "Graphic Designer Multitasking Wizard",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/graphic-designer-multitasking-wizard",
+    "applyUrl": "https://careers.tangem.com/graphic-designer-multitasking-wizard",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemgraphicdesigner"
+  },
+  {
+    "id": "tangem-getting-things-done-master",
+    "title": "Getting Things Done Master",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/getting-things-done-master",
+    "applyUrl": "https://careers.tangem.com/getting-things-done-master",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemgettingthingsdo"
+  },
+  {
+    "id": "tangem-full-stack-qa-engineer-manual-automation",
+    "title": "Full Stack Qa Engineer Manual Automation",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/full-stack-qa-engineer-manual-automation",
+    "applyUrl": "https://careers.tangem.com/full-stack-qa-engineer-manual-automation",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfullstackqaengi"
+  },
+  {
+    "id": "tangem-full-stack-qa-engineer-bakend",
+    "title": "Full Stack Qa Engineer Bakend",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/full-stack-qa-engineer-bakend",
+    "applyUrl": "https://careers.tangem.com/full-stack-qa-engineer-bakend",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfullstackqaengi"
+  },
+  {
+    "id": "tangem-full-stack-qa-engineer",
+    "title": "Full Stack Qa Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/full-stack-qa-engineer",
+    "applyUrl": "https://careers.tangem.com/full-stack-qa-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfullstackqaengi"
+  },
+  {
+    "id": "tangem-fulfillment-specialist",
+    "title": "Fulfillment Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/fulfillment-specialist",
+    "applyUrl": "https://careers.tangem.com/fulfillment-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfulfillmentspec"
+  },
+  {
+    "id": "tangem-fpa-financial-planning-analysis",
+    "title": "Fpa Financial Planning Analysis",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/fpa-financial-planning-analysis",
+    "applyUrl": "https://careers.tangem.com/fpa-financial-planning-analysis",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfpafinancialpla"
+  },
+  {
+    "id": "tangem-finops-engineer",
+    "title": "Finops Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/finops-engineer",
+    "applyUrl": "https://careers.tangem.com/finops-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfinopsengineer"
+  },
+  {
+    "id": "tangem-financial-controller-consolidation",
+    "title": "Financial Controller Consolidation",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/financial-controller-consolidation",
+    "applyUrl": "https://careers.tangem.com/financial-controller-consolidation",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfinancialcontro"
+  },
+  {
+    "id": "tangem-financial-controller",
+    "title": "Financial Controller",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/financial-controller",
+    "applyUrl": "https://careers.tangem.com/financial-controller",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfinancialcontro"
+  },
+  {
+    "id": "tangem-financial-automation",
+    "title": "Financial Automation",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/financial-automation",
+    "applyUrl": "https://careers.tangem.com/financial-automation",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfinancialautoma"
+  },
+  {
+    "id": "tangem-financial-analyst-remote",
+    "title": "Financial Analyst Remote",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/financial-analyst-remote",
+    "applyUrl": "https://careers.tangem.com/financial-analyst-remote",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemfinancialanalys"
+  },
+  {
+    "id": "tangem-e-commerce-support-engineer",
+    "title": "E Commerce Support Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/e-commerce-support-engineer",
+    "applyUrl": "https://careers.tangem.com/e-commerce-support-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemecommercesuppor"
+  },
+  {
+    "id": "tangem-devops-monitoring",
+    "title": "Devops Monitoring",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/devops-monitoring",
+    "applyUrl": "https://careers.tangem.com/devops-monitoring",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemdevopsmonitorin"
+  },
+  {
+    "id": "tangem-devops",
+    "title": "Devops",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/devops",
+    "applyUrl": "https://careers.tangem.com/devops",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemdevops"
+  },
+  {
+    "id": "tangem-deadline-master",
+    "title": "Deadline Master",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/deadline-master",
+    "applyUrl": "https://careers.tangem.com/deadline-master",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemdeadlinemaster"
+  },
+  {
+    "id": "tangem-data-analyst-acquisition",
+    "title": "Data Analyst Acquisition",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/data-analyst-acquisition",
+    "applyUrl": "https://careers.tangem.com/data-analyst-acquisition",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemdataanalystacqu"
+  },
+  {
+    "id": "tangem-customs-compliance-specialist",
+    "title": "Customs Compliance Specialist",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/customs-compliance-specialist",
+    "applyUrl": "https://careers.tangem.com/customs-compliance-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcustomscomplian"
+  },
+  {
+    "id": "tangem-customer-support-specialist",
+    "title": "Customer Support Specialist",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/customer-support-specialist",
+    "applyUrl": "https://careers.tangem.com/customer-support-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcustomersupport"
+  },
+  {
+    "id": "tangem-content-managerseo-copywriter",
+    "title": "Content Managerseo Copywriter",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/content-managerseo-copywriter",
+    "applyUrl": "https://careers.tangem.com/content-managerseo-copywriter",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcontentmanagers"
+  },
+  {
+    "id": "tangem-content-manager",
+    "title": "Content Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/content-manager",
+    "applyUrl": "https://careers.tangem.com/content-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcontentmanager"
+  },
+  {
+    "id": "tangem-content-creatorcopywriter",
+    "title": "Content Creatorcopywriter",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/content-creatorcopywriter",
+    "applyUrl": "https://careers.tangem.com/content-creatorcopywriter",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcontentcreatorc"
+  },
+  {
+    "id": "tangem-content-creative-lead",
+    "title": "Content Creative Lead",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/content-creative-lead",
+    "applyUrl": "https://careers.tangem.com/content-creative-lead",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcontentcreative"
+  },
+  {
+    "id": "tangem-community-manager-est-or-pst-time-zone",
+    "title": "Community Manager Est Or Pst Time Zone",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/community-manager-est-or-pst-time-zone",
+    "applyUrl": "https://careers.tangem.com/community-manager-est-or-pst-time-zone",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcommunitymanage"
+  },
+  {
+    "id": "tangem-community-manager",
+    "title": "Community Manager",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/community-manager",
+    "applyUrl": "https://careers.tangem.com/community-manager",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcommunitymanage"
+  },
+  {
+    "id": "tangem-community-engagement-lead",
+    "title": "Community Engagement Lead",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/community-engagement-lead",
+    "applyUrl": "https://careers.tangem.com/community-engagement-lead",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcommunityengage"
+  },
+  {
+    "id": "tangem-chief-of-staff-to-ceo-ai-automation-strategic-operations",
+    "title": "Chief Of Staff To Ceo Ai Automation Strategic Operations",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/chief-of-staff-to-ceo-ai-automation-strategic-operations",
+    "applyUrl": "https://careers.tangem.com/chief-of-staff-to-ceo-ai-automation-strategic-operations",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemchiefofstafftoc"
+  },
+  {
+    "id": "tangem-chief-executive-officer",
+    "title": "Chief Executive Officer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/chief-executive-officer",
+    "applyUrl": "https://careers.tangem.com/chief-executive-officer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemchiefexecutiveo"
+  },
+  {
+    "id": "tangem-cfo-chief-financial-officer",
+    "title": "Cfo Chief Financial Officer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/cfo-chief-financial-officer",
+    "applyUrl": "https://careers.tangem.com/cfo-chief-financial-officer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemcfochieffinanci"
+  },
+  {
+    "id": "tangem-business-development-manager-latam",
+    "title": "Business Development Manager Latam",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/business-development-manager-latam",
+    "applyUrl": "https://careers.tangem.com/business-development-manager-latam",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembusinessdevelop"
+  },
+  {
+    "id": "tangem-business-development-manager-corporate-clients",
+    "title": "Business Development Manager Corporate Clients",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/business-development-manager-corporate-clients",
+    "applyUrl": "https://careers.tangem.com/business-development-manager-corporate-clients",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembusinessdevelop"
+  },
+  {
+    "id": "tangem-business-development-manager-b2b-apac",
+    "title": "Business Development Manager B2b Apac",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/business-development-manager-b2b-apac",
+    "applyUrl": "https://careers.tangem.com/business-development-manager-b2b-apac",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembusinessdevelop"
+  },
+  {
+    "id": "tangem-business-development-manager-b2b-1",
+    "title": "Business Development Manager B2b 1",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/business-development-manager-b2b-1",
+    "applyUrl": "https://careers.tangem.com/business-development-manager-b2b-1",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembusinessdevelop"
+  },
+  {
+    "id": "tangem-business-development-manager-b2b",
+    "title": "Business Development Manager B2b",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/business-development-manager-b2b",
+    "applyUrl": "https://careers.tangem.com/business-development-manager-b2b",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembusinessdevelop"
+  },
+  {
+    "id": "tangem-business-analyst",
+    "title": "Business Analyst",
+    "company": "Tangem",
+    "location": "US / Remote",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/business-analyst",
+    "applyUrl": "https://careers.tangem.com/business-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembusinessanalyst"
+  },
+  {
+    "id": "tangem-bug-expert-jira-master",
+    "title": "Bug Expert Jira Master",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/bug-expert-jira-master",
+    "applyUrl": "https://careers.tangem.com/bug-expert-jira-master",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembugexpertjirama"
+  },
+  {
+    "id": "tangem-blockchain-analyst",
+    "title": "Blockchain Analyst",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/blockchain-analyst",
+    "applyUrl": "https://careers.tangem.com/blockchain-analyst",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemblockchainanaly"
+  },
+  {
+    "id": "tangem-bd-manager-partnerships-1",
+    "title": "Bd Manager Partnerships 1",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/bd-manager-partnerships-1",
+    "applyUrl": "https://careers.tangem.com/bd-manager-partnerships-1",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembdmanagerpartne"
+  },
+  {
+    "id": "tangem-bd-manager-partnerships",
+    "title": "Bd Manager Partnerships",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/bd-manager-partnerships",
+    "applyUrl": "https://careers.tangem.com/bd-manager-partnerships",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangembdmanagerpartne"
+  },
+  {
+    "id": "tangem-b2c-support-team-operations-lead",
+    "title": "B2c Support Team Operations Lead",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/b2c-support-team-operations-lead",
+    "applyUrl": "https://careers.tangem.com/b2c-support-team-operations-lead",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemb2csupportteamo"
+  },
+  {
+    "id": "tangem-automation-qa-engineer-mobile",
+    "title": "Automation Qa Engineer Mobile",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/automation-qa-engineer-mobile",
+    "applyUrl": "https://careers.tangem.com/automation-qa-engineer-mobile",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemautomationqaeng"
+  },
+  {
+    "id": "tangem-auditor-methodology-specialist",
+    "title": "Auditor Methodology Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/auditor-methodology-specialist",
+    "applyUrl": "https://careers.tangem.com/auditor-methodology-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemauditormethodol"
+  },
+  {
+    "id": "tangem-aml-specialist-compliance-specialist",
+    "title": "Aml Specialist Compliance Specialist",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/aml-specialist-compliance-specialist",
+    "applyUrl": "https://careers.tangem.com/aml-specialist-compliance-specialist",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemamlspecialistco"
+  },
+  {
+    "id": "tangem-ambassadors-program-lead",
+    "title": "Ambassadors Program Lead",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/ambassadors-program-lead",
+    "applyUrl": "https://careers.tangem.com/ambassadors-program-lead",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemambassadorsprog"
+  },
+  {
+    "id": "tangem-ai-engineer",
+    "title": "Ai Engineer",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/ai-engineer",
+    "applyUrl": "https://careers.tangem.com/ai-engineer",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemaiengineer"
+  },
+  {
+    "id": "tangem-accountant",
+    "title": "Accountant",
+    "company": "Tangem",
+    "location": "Remote / Zug, Switzerland",
+    "type": "Full-time",
+    "date": "2026-09-04",
+    "source": "careers:tangem",
+    "link": "https://careers.tangem.com/accountant",
+    "applyUrl": "https://careers.tangem.com/accountant",
+    "department": "Hardware & Software Engineering",
+    "skills": [
+      "Web3",
+      "Blockchain",
+      "Hardware Wallet",
+      "Security",
+      "Crypto"
+    ],
+    "slug": "tangemaccountant"
+  },
+  {
     "id": "hashed-cosmos-network-4620403007",
     "title": "General application",
     "company": "Cosmos Network",
