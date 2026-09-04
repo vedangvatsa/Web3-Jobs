@@ -53,7 +53,7 @@ function loadDescriptionsCache(): Record<string, string> {
 
 function getCachedRawContent(job: Job): string {
   const cache = loadDescriptionsCache();
-  return cache[getJobContentKey(job)] || cache[job.id] || '';
+  return cache[job.id] || cache[getJobContentKey(job)] || job.description || '';
 }
 
 function plainTextFromHtml(value: string): string {
@@ -475,8 +475,8 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     }
   });
 
-  // Append newlines after block containers
-  $('p, div, section, article').each((_, el) => {
+  // Append newlines after block containers and headings
+  $('p, div, section, article, h1, h2, h3, h4, h5, h6, li').each((_, el) => {
     $(el).append('\n');
   });
 
