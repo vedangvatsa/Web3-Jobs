@@ -5,6 +5,7 @@
  */
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
+  "foundation": `Foundation (Foundation Devices) builds open-source, air-gapped Bitcoin hardware wallets (Passport) and privacy-focused financial software. Foundation empowers individuals to regain digital sovereignty through secure, air-gapped hardware design and intuitive open-source software.`,
   "berachain": `Berachain is an EVM-compatible Layer 1 blockchain built on Cosmos SDK and powered by Proof-of-Liquidity consensus. Berachain rearchitects blockchain security and liquidity incentives, creating a capital-efficient network for decentralized finance applications.`,
   "cyber": `Cyber (CyberConnect) is a Web3 social network and L2 blockchain designed for social applications, enabling users to own their digital identity, content, and social graph connections across open protocols.`,
   "hyperithm": `Hyperithm is a digital asset financial services group based in Tokyo and Seoul, providing quantitative trading, asset management, and venture investment across Web3 markets.`,
