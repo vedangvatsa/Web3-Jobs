@@ -3,8 +3,8 @@ import path from 'path';
 
 const pwcWeb3Jobs = [
   {
-    id: 'pwc-digital-assets-crypto-manager-ny',
-    title: 'Digital Assets / Crypto Manager',
+    id: 'pwc-digital-assets-senior-manager-tech',
+    title: 'Digital Assets Senior Manager (Technology)',
     company: 'PwC',
     link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
     date: '2026-09-04',
@@ -12,7 +12,19 @@ const pwcWeb3Jobs = [
     location: 'New York, NY / Hybrid',
     department: 'Web3 & Tech Consulting',
     active: true,
-    slug: 'managerpwc01'
+    slug: 'seniorpwc01'
+  },
+  {
+    id: 'pwc-digital-assets-crypto-manager-ny',
+    title: 'Digital Assets Manager (Technology)',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / Hybrid',
+    department: 'Web3 & Tech Consulting',
+    active: true,
+    slug: 'managerpwc02'
   },
   {
     id: 'pwc-ai-blockchain-architect-senior-manager',
@@ -24,19 +36,7 @@ const pwcWeb3Jobs = [
     location: 'Tampa, FL / Hybrid',
     department: 'Platform Architecture & Blockchain',
     active: true,
-    slug: 'architectpwc02'
-  },
-  {
-    id: 'pwc-assurance-digital-assets-manager',
-    title: 'BCM Assurance Digital Assets Manager',
-    company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
-    date: '2026-09-04',
-    source: 'PwC Careers [pwc]',
-    location: 'San Francisco, CA / Chicago, IL / NY (Hybrid)',
-    department: 'Digital Asset Assurance & Audit',
-    active: true,
-    slug: 'managerpwc03'
+    slug: 'architectpwc03'
   },
   {
     id: 'pwc-digital-assurance-digital-assets-senior-associate',
@@ -49,6 +49,42 @@ const pwcWeb3Jobs = [
     department: 'Digital Asset Audit & Assurance',
     active: true,
     slug: 'seniorpwc04'
+  },
+  {
+    id: 'pwc-bcm-assurance-digital-assets-manager',
+    title: 'BCM - Assurance - Digital Assets Manager',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'San Francisco, CA / Hybrid',
+    department: 'Banking & Capital Markets Assurance',
+    active: true,
+    slug: 'managerpwc05'
+  },
+  {
+    id: 'pwc-awm-digital-assets-senior-manager',
+    title: 'AWM - Digital Assets Senior Manager',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / Hybrid',
+    department: 'Asset & Wealth Management Advisory',
+    active: true,
+    slug: 'seniorpwc06'
+  },
+  {
+    id: 'pwc-awm-assurance-digital-assets-manager',
+    title: 'AWM - Assurance - Digital Assets Manager',
+    company: 'PwC',
+    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / Hybrid',
+    department: 'Asset & Wealth Management Assurance',
+    active: true,
+    slug: 'managerpwc07'
   }
 ];
 
