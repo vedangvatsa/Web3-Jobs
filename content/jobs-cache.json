@@ -1,5 +1,30 @@
 [
   {
+    "id": "kappa-lab-bd-manager-292292",
+    "title": "Business Development Manager - Market Making",
+    "company": "Kappa Lab Ltd",
+    "companyUrl": "https://kappalab.io",
+    "location": "London, United Kingdom (Hybrid)",
+    "type": "Full-time",
+    "date": "2026-06-18",
+    "source": "GoHire [gohire]",
+    "link": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/",
+    "applyUrl": "https://jobs.gohire.io/kappa-lab-ltd-8jxmdnnt/business-development-manager-market-making-292292/",
+    "department": "Business Development",
+    "salary": "Competitive",
+    "active": true,
+    "description": "Company Description:\nKappa Lab is a digital assets market maker committed to delivering 24/7 deep liquidity and enhancing market efficiency.\n\nRole Overview:\nAs a Business Development Manager (BDM), your core responsibilities include generating qualified leads and forging strong partnerships within exchanges, projects, web3 builders and institutional partners. We also expect you to manage and enhance existing relationships, expanding our business footprint with partners.\n\nResponsibilities:\n- Build and manage your own pipeline of leads and business opportunities.\n- Keeping track of industry and DeFi trends, key launches.\n- Assess on-chain/DeFi business opportunities.\n- Provide detailed analysis on these opportunities - this could be a new exchange deal or market opportunity.\n- Develop existing partnerships by understanding partners' needs and devising effective solutions.\n- Relay partners' needs to the team to facilitate collaborative solution development.\n- Design and discuss product solutions that cater to market demands.\n- Expand your professional network by attending industry events and conferences.\n\nQualifications:\n- Crypto/Web3 native - with a strong interest and understanding of DeFi.\n- Excellent communication skills both verbal and written.\n- Strong follow-up discipline and ownership of next steps.\n- Seniority is flexible. We value crypto-native curiosity, commercial instinct, and strong ownership, and are open to shaping the role around the right candidate.\n\nLocation & Working Style:\nWe have offices in London (UK) and Dubai (UAE) and operate on a hybrid basis.",
+    "skills": [
+      "Business Development",
+      "DeFi",
+      "Market Making",
+      "Partnerships",
+      "Crypto",
+      "Web3"
+    ],
+    "slug": "kappalabbusinessdevelopmentmanager292292"
+  },
+  {
     "id": "kappa-lab-quant-trader-297472",
     "title": "Quant Trader",
     "company": "Kappa Lab Ltd",
@@ -22,7 +47,8 @@
       "Crypto",
       "High-Frequency Trading"
     ],
-    "slug": "kappalabquanttrader297472"
+    "slug": "kappalabquanttrader297472",
+    "companyUrl": "https://kappalab.io"
   },
   {
     "id": "tangem-web-attribution-analyst",
