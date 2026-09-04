@@ -69,6 +69,7 @@ function sanitizeCompanyDomain(url: URL): string {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'foundation': 'https://buildwithfoundation.com',
  'jejememe': 'https://jejememe.com',
  'hyperithm': 'https://hyperithm.jp',
  'injective-labs': 'https://injective.com',
