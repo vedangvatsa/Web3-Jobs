@@ -15,6 +15,18 @@ const franklinTempletonJobs = [
     slug: 'productft01'
   },
   {
+    id: 'ft-digital-product-manager-hyderabad',
+    title: 'Digital Product Manager (Digital Assets & Web3)',
+    company: 'Franklin Templeton',
+    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain',
+    date: '2026-09-04',
+    source: 'Franklin Templeton Careers [franklin-templeton]',
+    location: 'Hyderabad, India (Hybrid)',
+    department: 'Digital Wealth & Tokenization',
+    active: true,
+    slug: 'productft02'
+  },
+  {
     id: 'ft-director-digital-audience-engagement',
     title: 'Director, Digital Audience Engagement (Crypto & Web3)',
     company: 'Franklin Templeton',
@@ -24,7 +36,31 @@ const franklinTempletonJobs = [
     location: 'San Mateo, CA / Hybrid',
     department: 'Digital Asset Marketing',
     active: true,
-    slug: 'marketingft02'
+    slug: 'marketingft03'
+  },
+  {
+    id: 'ft-program-manager-digital-audience-engagement',
+    title: 'Program Manager, Digital Audience Engagement (Digital Assets)',
+    company: 'Franklin Templeton',
+    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain',
+    date: '2026-09-04',
+    source: 'Franklin Templeton Careers [franklin-templeton]',
+    location: 'New York, NY / Hybrid',
+    department: 'Digital Assets & Innovation',
+    active: true,
+    slug: 'managerft04'
+  },
+  {
+    id: 'ft-senior-administrative-assistant-crypto',
+    title: 'Senior Administrative Assistant (Franklin Templeton Crypto)',
+    company: 'Franklin Templeton',
+    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain',
+    date: '2026-09-04',
+    source: 'Franklin Templeton Careers [franklin-templeton]',
+    location: 'New York, NY / Hybrid',
+    department: 'Crypto Operations',
+    active: true,
+    slug: 'operationsft05'
   }
 ];
 
