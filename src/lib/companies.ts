@@ -35,8 +35,30 @@ const ATS_HOSTNAME_SUFFIXES = [
 
 function isAtsHostname(hostname: string): boolean {
  const normalized = hostname.toLowerCase();
+ if (
+   normalized.includes('notion.site') ||
+   normalized.includes('zohorecruit') ||
+   normalized.includes('greetinghr.com') ||
+   normalized.includes('hibob.com') ||
+   normalized.includes('deel.com') ||
+   normalized.includes('herp.careers') ||
+   normalized.includes('omnihr.co') ||
+   normalized.includes('jobs.hashed.com')
+ ) {
+   return true;
+ }
  return ATS_HOSTNAMES.has(normalized)
   || ATS_HOSTNAME_SUFFIXES.some((suffix) => normalized.endsWith(suffix));
+}
+
+function sanitizeCompanyDomain(url: URL): string {
+  let hostname = url.hostname.toLowerCase();
+  // Strip subdomains like careers., recruit., jobs., job. if followed by root domain
+  const parts = hostname.split('.');
+  if (parts.length >= 3 && ['careers', 'recruit', 'jobs', 'job', 'career'].includes(parts[0])) {
+    hostname = parts.slice(1).join('.');
+  }
+  return `${url.protocol}//${hostname}`;
 }
 
 /**
@@ -44,6 +66,9 @@ function isAtsHostname(hostname: string): boolean {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'dr-now': 'https://doctornow.co.kr',
+ 'drnow': 'https://doctornow.co.kr',
+ 'vivident': 'https://vivident.xyz',
  'tangem': 'https://tangem.com',
  'kappa-lab': 'https://kappalab.io',
  'kappa-lab-ltd': 'https://kappalab.io',
@@ -524,7 +549,7 @@ export async function getCompanies(): Promise<Company[]> {
   try {
    const url = new URL(firstJobLink);
    if (!isAtsHostname(url.hostname)) {
-    website = `${url.protocol}//${url.hostname}`;
+    website = sanitizeCompanyDomain(url);
    }
   } catch (e) {
    // Invalid URL, leave empty
@@ -602,9 +627,9 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
  let website = '';
  try {
   const url = new URL(firstJobLink);
-  if (!isAtsHostname(url.hostname)) {
-   website = `${url.protocol}//${url.hostname}`;
-  }
+   if (!isAtsHostname(url.hostname)) {
+    website = sanitizeCompanyDomain(url);
+   }
  } catch (e) {}
 
  if (COMPANY_WEBSITE_OVERRIDES[slug]) {
