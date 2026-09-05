@@ -65,6 +65,13 @@ export function cleanPublishText(
   // Strip LinkedIn internal tracking tags (e.g. #LI-MM1, #LI-Remote)
   s = s.replace(/#LI-[A-Za-z0-9_-]+/gi, '');
 
+  // Strip documentation site / GitBook leaked scraper artifacts
+  s = s.replace(/For the complete documentation index, see[\s\S]*?\.(?:\s*This page is also available as Markdown\.)?/gi, '');
+  s = s.replace(/This page is also available as (?:\[Markdown\]\([^)]*\)|Markdown|HTML|PDF)\.?/gi, '');
+  s = s.replace(/Previous\s*[A-Za-z0-9\s()]+\s+Next\s*[A-Za-z0-9\s()]+/gi, '');
+  s = s.replace(/Last updated \d+ (?:month|day|year)s? ago/gi, '');
+  s = s.replace(/Was this (?:page )?helpful\?/gi, '');
+
   // Strip emojis for noslop job pages
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
@@ -120,6 +127,15 @@ export function cleanPublishHtml(input: string | null | undefined): string {
     .replace(/&nbsp;/gi, ' ')
     .replace(/&ldquo;|&rdquo;/gi, '"')
     .replace(/&lsquo;|&rsquo;/gi, "'");
+
+  // Strip documentation site / GitBook leaked scraper artifacts
+  s = s.replace(/<div class="sr-only">For the complete documentation index[\s\S]*?<\/div>/gi, '');
+  s = s.replace(/For the complete documentation index, see[\s\S]*?\.(?:\s*This page is also available as Markdown\.)?/gi, '');
+  s = s.replace(/This page is also available as (?:<a href="[^"]*">Markdown<\/a>|\[Markdown\]\([^)]*\)|Markdown|HTML|PDF)\.?/gi, '');
+  s = s.replace(/<div class="max-w-3xl layout-wide:max-w-6xl mx-auto w-full mt-6 flex[\s\S]*?<\/div>\s*<\/div>/gi, '');
+  s = s.replace(/PreviousBecome a Chef[\s\S]*?Was this helpful\?/gi, '');
+  s = s.replace(/Last updated \d+ (?:month|day|year)s? ago/gi, '');
+  s = s.replace(/Was this (?:page )?helpful\?/gi, '');
 
   // Unicode punctuation
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
