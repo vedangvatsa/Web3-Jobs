@@ -523,6 +523,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     if (/^Previous\s*.*Next\s*/i.test(line.trim())) continue;
     if (/^Last updated \d+ (?:month|day|year)s? ago/i.test(line.trim())) continue;
     if (/^Was this (?:page )?helpful\?/i.test(line.trim())) continue;
+    if (/vacancies are published on this (?:website|job board)/i.test(line.trim())) continue;
+    if (/information on other sites may be inaccurate or outdated/i.test(line.trim())) continue;
+    if (/apply directly through our official careers website/i.test(line.trim())) continue;
+    if (/Candidate Privacy Notice/i.test(line.trim())) continue;
+    if (/^Notice:\s*$/i.test(line.trim())) continue;
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
