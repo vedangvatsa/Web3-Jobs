@@ -421,7 +421,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   const $ = cheerio.load(decoded);
 
   // Remove non-content tags and navigation / apply button boilerplate
-  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit').remove();
+  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
 
   // Strip links pointing to internal career lists or apply endpoints, handle empty anchors cleanly
   $('a').each((_, el) => {
@@ -516,6 +516,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     if (/Click (?:<strong>)?Apply Now(?:<\/strong>)? to submit your application/i.test(line.trim())) continue;
     if (/submit your application directly via/i.test(line.trim())) continue;
     if (/^Location.*Type/i.test(line.trim())) continue;
+    if (/For the complete documentation index/i.test(line.trim())) continue;
+    if (/This page is also available as (?:Markdown|HTML|PDF)/i.test(line.trim())) continue;
+    if (/^Previous\s*.*Next\s*/i.test(line.trim())) continue;
+    if (/^Last updated \d+ (?:month|day|year)s? ago/i.test(line.trim())) continue;
+    if (/^Was this (?:page )?helpful\?/i.test(line.trim())) continue;
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
