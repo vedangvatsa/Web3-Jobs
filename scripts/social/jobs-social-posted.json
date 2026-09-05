@@ -1,7 +1,8 @@
 {
-  "lastIndex": 0,
+  "lastIndex": 1,
   "postedSlugs": [
-    "operationsft05"
+    "operationsft05",
+    "associatepwc10"
   ],
   "history": [
     {
@@ -19,6 +20,14 @@
       "platform": "threads",
       "postedAt": "2026-09-05T08:36:18.023Z",
       "postId": "18125567929878837"
+    },
+    {
+      "slug": "associatepwc10",
+      "company": "PwC",
+      "title": "Technology Consulting Associate (Digital Assets & Payments)",
+      "platform": "threads",
+      "postedAt": "2026-09-05T09:45:27.361Z",
+      "postId": "17914293072448509"
     }
   ]
 }
