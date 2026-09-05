@@ -11,6 +11,7 @@ export interface Job {
  slug?: string;
  location?: string;
  department?: string;
+ description?: string;
  active?: boolean;
 }
 
