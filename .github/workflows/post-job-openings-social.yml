@@ -1,0 +1,85 @@
+name: Post Job Openings to X & Threads
+
+on:
+  schedule:
+    # Runs 8 times a day (every 3 hours): 01:15, 04:15, 07:15, 10:15, 13:15, 16:15, 19:15, 22:15 UTC
+    - cron: '15 */3 * * *'
+  workflow_dispatch:
+    inputs:
+      platform:
+        description: 'Target platform (x, threads, or both)'
+        type: choice
+        options:
+          - both
+          - x
+          - threads
+        default: both
+      dry_run:
+        description: 'Dry run mode (preview without posting)'
+        type: boolean
+        default: false
+      slug:
+        description: 'Optional specific job slug to post'
+        type: string
+        default: ''
+
+concurrency:
+  group: social-job-postings
+  cancel-in-progress: false
+
+jobs:
+  post-opening:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Post Job Opening
+        env:
+          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
+          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
+          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+        run: |
+          ARGS="--platform ${{ github.event.inputs.platform || 'both' }}"
+          if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
+            ARGS="$ARGS --dry-run"
+          fi
+          if [ -n "${{ github.event.inputs.slug }}" ]; then
+            ARGS="$ARGS --slug ${{ github.event.inputs.slug }}"
+          fi
+          echo "Running: npx tsx scripts/social/post-job-openings.ts $ARGS"
+          npx tsx scripts/social/post-job-openings.ts $ARGS
+
+      - name: Commit and Push Posted State
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add scripts/social/jobs-social-posted.json 2>/dev/null || true
+          if git diff --staged --quiet; then
+            echo "No state changes to commit."
+          else
+            git commit -m "chore(social): update social job posting state [skip ci]"
+            for i in 1 2 3; do
+              git pull --rebase origin main || true
+              git push origin main && break
+              sleep 2
+            done
+          fi
