@@ -951,8 +951,7 @@ async function main() {
 
   if (platform === 'instagram' || shouldPostAll) {
     try {
-      console.log('Publishing Carousel to Instagram (Meta Graph API)...');
-      const igCaption = `⚡ ${company} is hiring a ${title} (${location || 'Remote'})!\n\n📌 Verified directly on Hashtag Web3 — no recruiter middlemen.\n\n🔗 Tap link in bio or visit hashtagweb3.com/${slug}/ig to apply!\n.\n.\n#web3 #web3jobs #web3careers #remoteweb3 #web3community #hashtagweb3`;
+      const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nApply directly: hashtagweb3.com/${slug}/ig\n\nhashtagweb3.com\nSubscribed by 60k+ Web3 builders and professionals.\n\n#web3 #web3jobs #hashtagweb3`;
       const igPostId = await postToInstagram(igCaption, [ogImageUrl]);
       console.log(`✓ Successfully published Carousel to Instagram! Post ID: ${igPostId}`);
       state.history.push({
