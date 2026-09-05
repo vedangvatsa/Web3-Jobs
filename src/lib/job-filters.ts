@@ -18,7 +18,7 @@ const PLACEHOLDER_TITLE_PATTERNS = [
  * Disqualifies completely non-tech / non-Web3 roles that indicate a wrong ATS slug
  * was configured (e.g. biotech, clinical labs, dental, agriculture).
  */
-const NON_WEB3_DISQUALIFIED_REGEX = /\b(flow cytometry|profiling lab|wet lab|histology|assay development|molecular biology|in vitro|in vivo|clinical trial|physician|surgeon|dentist|dental hygienist|registered nurse|pharmacist|pharmacology|medical doctor|veterinarian|livestock|agronomist)\b/i;
+const NON_WEB3_DISQUALIFIED_REGEX = /\b(flow cytometry|profiling lab|wet lab|histology|assay development|molecular biology|in vitro|in vivo|clinical trial|physician|surgeon|dentist|dental hygienist|registered nurse|nurse|injector|med spa|spa coordinator|pharmacist|pharmacology|medical doctor|veterinarian|livestock|agronomist|personal banker|mortgage lender|teller|lending officer|special assets officer)\b/i;
 
 export function isGeneralOrPlaceholderJobTitle(title: string | null | undefined): boolean {
   if (!title) return true;

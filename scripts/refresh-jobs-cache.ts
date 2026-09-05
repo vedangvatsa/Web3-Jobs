@@ -852,7 +852,6 @@ async function refreshJobsCache() {
     // --- Additional Top Web3 Companies (August 2026 expansion) ---
     { board: 'swan', company: 'Swan Bitcoin' },
     { board: 'union', company: 'Union' },
-    { board: 'switchboard', company: 'Switchboard' },
     { board: 'somnia', company: 'Somnia' },
     { board: 'compound', company: 'Compound' },
     { board: 'espresso', company: 'Espresso Systems' },

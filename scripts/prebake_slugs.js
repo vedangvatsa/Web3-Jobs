@@ -136,7 +136,7 @@ function distributeJobsByCompany(jobs) {
 
 const GENERAL_APP_REGEX = /(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|talent network|future opportunities|future consideration|future builders|future roles|join our talent|dream job|spontaneous application|open position|open application|speculative application|unsolicited application|general pool|general submission|register your interest|submit your (?:cv|resume)|create your own role|don.?t see (?:a|your|the|any) role|role that fits|can.?t find (?:a|your) role|looking for something else|stay in touch|keep in touch|connect with us|work with us|join our team\s*\(general\)|general candidate pool)/i;
 
-const NON_WEB3_DISQUALIFIED_REGEX = /\b(flow cytometry|profiling lab|wet lab|histology|assay development|molecular biology|in vitro|in vivo|clinical trial|physician|surgeon|dentist|dental hygienist|registered nurse|pharmacist|pharmacology|medical doctor|veterinarian|livestock|agronomist)\b/i;
+const NON_WEB3_DISQUALIFIED_REGEX = /\b(flow cytometry|profiling lab|wet lab|histology|assay development|molecular biology|in vitro|in vivo|clinical trial|physician|surgeon|dentist|dental hygienist|registered nurse|nurse|injector|med spa|spa coordinator|pharmacist|pharmacology|medical doctor|veterinarian|livestock|agronomist|personal banker|mortgage lender|teller|lending officer|special assets officer)\b/i;
 
 function isConcreteJobOpening(title, link) {
   if (!title) return false;
