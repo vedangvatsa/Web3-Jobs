@@ -13,7 +13,13 @@ const steps = [
   { name: 'Regional ATS Feeds', cmd: 'npx tsx scripts/ingest-regional-feeds.ts' },
   { name: 'Global Ecosystem Feeds', cmd: 'npx tsx scripts/ingest-global-ecosystem-feeds.ts' },
   { name: 'Untracked Web3 & AI Feeds', cmd: 'npx tsx scripts/ingest-untracked-web3-companies.ts' },
+  { name: 'Franklin Templeton Official', cmd: 'npx tsx scripts/ingest-franklin-templeton-jobs.ts' },
+  { name: 'PwC Crypto & Web3', cmd: 'npx tsx scripts/ingest-pwc-jobs.ts' },
+  { name: 'KuCoin Official MokaHR', cmd: 'npx tsx scripts/ingest-kucoin-mokahr-jobs.ts' },
+  { name: 'Marketnode Official', cmd: 'npx tsx scripts/ingest-marketnode-xt-jobs.ts' },
+  { name: 'Revolut Crypto', cmd: 'npx tsx scripts/ingest-revolut-crypto-job.ts' },
   { name: 'Prebake Slugs', cmd: 'node scripts/prebake_slugs.js' },
+  { name: 'Verify Integrity', cmd: 'npx tsx scripts/verify-jobs-integrity.ts' },
 ];
 
 console.log('🚀 Starting unified job ingestion pipeline...');
