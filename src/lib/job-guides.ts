@@ -176,7 +176,8 @@ function getSectionIntro(heading: string, job: Job): string | null {
  */
 export async function getOrFetchRawJobContent(job: Job): Promise<string> {
   const cached = getCachedRawContent(job);
-  if (cached && plainTextFromHtml(cached).length >= 100) return cached;
+  const isFlattened = Boolean(cached && cached.length > 200 && !cached.includes('\n') && !cached.includes('<p') && !cached.includes('<div') && !cached.includes('<li') && !cached.includes('<h'));
+  if (cached && plainTextFromHtml(cached).length >= 100 && !isFlattened) return cached;
   return await fetchJobOriginalContent(job);
 }
 
@@ -349,7 +350,7 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
   html += `</ul>\n`;
 
   html += `<h3 class="text-lg font-bold tracking-tight text-foreground mt-6">How to Apply</h3>\n`;
-  html += `<p class="leading-relaxed text-muted-foreground">This opportunity is verified from official company ATS hiring feeds. Click <strong>Apply Now</strong> above to complete your application and review the full job specifications directly on <strong>${escapeHtml(job.company)}</strong>'s portal.</p>\n`;
+  html += `<p class="leading-relaxed text-muted-foreground">Click <strong>Apply Now</strong> above to submit your application and review the full role specifications directly on <strong>${escapeHtml(job.company)}</strong>'s official careers portal.</p>\n`;
   html += `</div>`;
   return cleanPublishHtml(html);
 }
@@ -527,9 +528,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   // Strip trailing dash after period before line/tag break
   decoded = decoded.replace(/\.\s*[-–—]\s*(?=<\/p>|\n|$)/g, '.');
 
-  // Pre-split headings that collide with sentence end
-  const headerWords = 'Requirements|Responsibilities|Qualifications|What you will do|What you.ll do|What we.re looking for|Candidate Profile|Who you are|Benefits|Perks|Compensation|About the company|About the role|Working terms';
-  decoded = decoded.replace(new RegExp(`([.!?])\\s*(${headerWords})\\s*:\\s*[-*•·▪]?\\s*`, 'gi'), '$1\n\n###HEADING###$2\n');
+  // Pre-split headings that collide with sentence end or start of text
+  const headerWords = 'Requirements|Responsibilities|Core Responsibilities|Key Responsibilities|Qualifications|What you will do|What you.ll do|What we.re looking for|Candidate Profile|Who you are|Benefits|Perks|Compensation|About the company|About the role|Working terms|Skills|Mission|What we offer';
+  decoded = decoded.replace(new RegExp(`(?:^|([.!?]))\\s*(${headerWords})\\s*(?::\\s*|\\s+(?=[A-Z0-9]))[-*•·▪]?\\s*`, 'gi'), (_, p1, p2) => (p1 ? `${p1}\n\n` : '') + `###HEADING###${p2}\n`);
 
   decoded = cleanPublishText(decoded);
 
@@ -863,6 +864,10 @@ function formatJobContent(originalHtml: string): string {
  */
 export async function fetchJobOriginalContent(job: Job): Promise<string> {
   let rawContent = getCachedRawContent(job);
+  const isFlattened = Boolean(rawContent && rawContent.length > 200 && !rawContent.includes('\n') && !rawContent.includes('<p') && !rawContent.includes('<div') && !rawContent.includes('<li') && !rawContent.includes('<h'));
+  if (isFlattened) {
+    rawContent = '';
+  }
 
   if (rawContent.length < 100) {
     const url = job.link || '';
@@ -1007,6 +1012,32 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
             if (res.ok) {
               const data = await res.json();
               const desc = data?.jobPostingInfo?.jobDescription;
+              if (desc && desc.length > 50) {
+                rawContent = desc;
+              }
+            }
+          } catch {}
+        }
+      }
+
+      // 3d. Hurma URL (e.g. whitebit.hurma.work/public-vacancies/1174)
+      if (!rawContent) {
+        const hurmaMatch = url.match(/([a-z0-9-]+)\.hurma\.work\/public-vacancies\/(\d+)/i);
+        if (hurmaMatch) {
+          const [, subdomain, vacancyId] = hurmaMatch;
+          try {
+            const endpoint = `https://${subdomain}.hurma.work/api/v1/public-vacancies/${vacancyId}`;
+            const res = await fetch(endpoint, {
+              headers: {
+                'Accept': 'application/json',
+                'X-Requested-With': 'XMLHttpRequest',
+                'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+              },
+              next: { revalidate: 86400 },
+            });
+            if (res.ok) {
+              const data = await res.json();
+              const desc = data?.data?.description_html;
               if (desc && desc.length > 50) {
                 rawContent = desc;
               }
