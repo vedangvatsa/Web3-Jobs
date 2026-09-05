@@ -180,16 +180,20 @@ export async function getOrFetchRawJobContent(job: Job): Promise<string> {
   return await fetchJobOriginalContent(job);
 }
 
-function spinJobPostingBlock(text: string, type: 'h3' | 'p' | 'li', isAboutSection: boolean): string {
+function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAboutSection: boolean): string {
   let cleaned = text.trim();
   if (!cleaned) return '';
+
+  if (type === 'h4') {
+    return cleaned.replace(/[:]+$/, '');
+  }
 
   if (type === 'h3') {
     const lower = cleaned.toLowerCase();
     if (/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|the role|your role|duties|what the role entails)/i.test(lower)) {
       return 'Key Responsibilities';
     }
-    if (/^(what we.?re looking for|requirements|qualifications|key requirements|minimum qualifications|basic qualifications)/i.test(lower)) {
+    if (/^(what we.?re looking for|requirements|qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role)/i.test(lower)) {
       return 'Qualifications & Requirements';
     }
     if (/^(who you are|who you.?re|about you|candidate profile|profile|what you bring)/i.test(lower)) {
@@ -198,8 +202,14 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'p' | 'li', isAboutSecti
     if (/^(bonus points|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i.test(lower)) {
       return 'Preferred / Nice-to-Have Qualifications';
     }
-    if (/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks)/i.test(lower)) {
+    if (/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks|perks that empower you)/i.test(lower)) {
       return 'Perks & Compensation';
+    }
+    if (/^(you.?ll know you.?re winning|how success is measured|what success looks like|measuring success)/i.test(lower)) {
+      return 'What Success Looks Like';
+    }
+    if (/^(why this role matters|why you.?ll love)/i.test(lower)) {
+      return "Why This Role Matters & What's In It For You";
     }
     if (/^(the opportunity|opportunity|the mission|mission|role overview)/i.test(lower)) {
       return 'The Opportunity & Scope';
@@ -256,11 +266,20 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   for (const block of blocks) {
     if (block.type === 'h3') {
       flushList();
+      emitPendingHeading();
       isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
       const spunHeading = spinJobPostingBlock(block.text, 'h3', isAboutSection).replace(/[:]+$/, '').trim();
       const intro = getSectionIntro(spunHeading, job);
       pendingHeading = `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${escapeHtml(spunHeading)}</h3>`;
       pendingIntro = intro || null;
+      continue;
+    }
+    if (block.type === 'h4') {
+      flushList();
+      emitPendingHeading();
+      const spunHeading = spinJobPostingBlock(block.text, 'h4', isAboutSection).replace(/[:]+$/, '').trim();
+      pendingHeading = `<h4 class="text-lg font-semibold tracking-tight text-foreground mt-6 mb-2">${escapeHtml(spunHeading)}</h4>`;
+      pendingIntro = null;
       continue;
     }
     if (block.type === 'li') {
@@ -496,7 +515,7 @@ export async function getAllJobsWithSlugs(): Promise<{ job: Job; slug: string }[
 /**
  * Clean up HTML tags and extract structured block elements using Cheerio.
  */
-function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p' | 'li'; text: string }> {
+function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> {
   let decoded = html
     .replace(/&lt;/g, '<')
     .replace(/&gt;/g, '>')
@@ -530,6 +549,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
 
   // Remove non-content tags and navigation / apply button boilerplate
   $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
+
+  // Convert <br> and <hr> tags to newlines before text extraction
+  $('br, hr').replaceWith('\n');
 
   // Strip links pointing to internal career lists or apply endpoints, handle empty anchors cleanly
   $('a').each((_, el) => {
@@ -570,10 +592,10 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     const text = $(el).text().trim();
     if (text) {
       // Some ATS exports flatten several bullets into one list item with a
-      // middle-dot separator or period-dash. Split those back into real list items
+      // middle-dot separator, asterisk, or period-dash. Split those back into real list items
       // so the rendered HTML never contains clumped bullet copy.
       const items = text
-        .split(/\s+[•·]\s+|\.\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|\.\s+[-*•·▪–—]\s+(?=[A-Z])/)
         .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
         .filter(Boolean);
       $(el).replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
@@ -586,10 +608,16 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   });
 
   const fullText = $('body').text();
-  const rawBlocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
+  const rawBlocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> = [];
+
+  const MAJOR_HEADING_REGEX = /^(?:the opportunity|about (?:the |our )?(?:company|organization|foundation|team|us|you|the role)|who (?:you are|we are)|what (?:you(?:'ll| will) do|you(?:'ll| will) be doing|you bring|we(?:'re| are) looking for|we look for|we offer)|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|benefits|perks|compensation|our values|culture|company culture|working terms|hiring process|our interview process|interview process|where we work|how to apply|your journey with us|you(?:'ll| will) excel in this role(?: if you)?|you(?:'ll| will) know you(?:'re| are) winning(?: when)?|why this role matters(?: & what(?:'s| is) in it for you)?|perks that empower you|ready to build what(?:'s| is) next\??)[:]?$/i;
+
+  const INTRO_LEADIN_REGEX = /^(?:here(?:'s| is) what.*|in this role.*|as an? \w+.*|we are looking for someone who.*|our ideal candidate.*|your responsibilities will include.*|key deliverables include.*|you will be responsible for.*)[:]?$/i;
 
   const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
-  for (const line of lines) {
+  for (let i = 0; i < lines.length; i++) {
+    const line = lines[i];
+
     if (line.includes('###HEADING###')) {
       // Marker may sit mid-line when a heading <strong> was inline inside a
       // paragraph; split so the lead-in stays a paragraph and the marker
@@ -642,13 +670,31 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
     if (bulletMatch) {
       const bulletItems = bulletMatch[1]
-        .split(/\s+[•·]\s+/)
+        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])/)
         .map((item) => item.replace(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*/, '').trim())
         .filter(Boolean);
       for (const item of bulletItems) {
-        rawBlocks.push({ type: 'li', text: item });
+        // If previous block was a bullet ending with trailing dash or hyphen, merge
+        const last = rawBlocks[rawBlocks.length - 1];
+        if (last && last.type === 'li' && /[-–—]$/.test(last.text)) {
+          last.text = last.text.replace(/[-–—]+$/, '').trim() + ' - ' + item;
+        } else {
+          rawBlocks.push({ type: 'li', text: item });
+        }
       }
       continue;
+    }
+
+    // Numbered subheading check: "1) Risk Measurement & Monitoring (BAU)" or "1. Partner Relationship"
+    const numSubheadingMatch = line.match(/^(\d+)[\.\)]\s+([A-Z][^.!?]{2,80})$/);
+    if (numSubheadingMatch) {
+      const nextLine = lines[i + 1] || '';
+      const isNextBullet = /^[-*•·▪–—]/.test(nextLine);
+      const isNextNum = /^\d+[\.\)]/.test(nextLine);
+      if (isNextBullet || (!isNextNum && nextLine.length > 25)) {
+        rawBlocks.push({ type: 'h4', text: line.replace(/[:]+$/, '').trim() });
+        continue;
+      }
     }
 
     // Numbered list item: "1. Develop..."
@@ -660,9 +706,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
 
     // Standalone heading line detection
     if (
-      line.length < 60 &&
-      /^(the opportunity|about the organization|about the foundation|about us|about the company|about the team|about you|who you are|who we are|what you.?ll do|what you will do|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|what you bring|what we.?re looking for|what we look for|what we offer|benefits|perks|compensation|our values|culture|company culture|working terms)[:]?$/i.test(
-        line
+      line.length < 80 &&
+      !INTRO_LEADIN_REGEX.test(line) &&
+      (
+        MAJOR_HEADING_REGEX.test(line) ||
+        (line.endsWith(':') && /^[A-Z]/.test(line) && !line.includes('. ') && !line.includes('; ')) ||
+        /^(?:ready to build what's next|why join us|who we are|what we offer)\??$/i.test(line)
       )
     ) {
       rawBlocks.push({ type: 'h3', text: line.replace(/[:]+$/, '').trim() });
@@ -671,15 +720,28 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
 
     // Continuation check: if previous block is li or p, and this line continues it
     const lastBlock = rawBlocks[rawBlocks.length - 1];
-    if (lastBlock && (lastBlock.type === 'li' || lastBlock.type === 'p')) {
-      const isContinuation =
-        /^[a-z]/.test(line) ||
-        !/[.!?:]$/.test(lastBlock.text) ||
-        /^(?:and|or|including|with|to|for|in|on|at|by|from|as|such as|plus|across|into|through|via)\b/i.test(line);
+    if (lastBlock) {
+      if (lastBlock.type === 'li') {
+        const isLiContinuation =
+          /^[a-z]/.test(line) ||
+          !/[.!?:]$/.test(lastBlock.text) ||
+          (/^(?:and|or|including|with|to|for|in|on|at|by|from|as|such as|plus|across|into|through|via)\b/i.test(line) && !/[.!?:]$/.test(lastBlock.text)) ||
+          /[,\-–—(\/\\]$/.test(lastBlock.text);
 
-      if (isContinuation) {
-        lastBlock.text += ' ' + line;
-        continue;
+        if (isLiContinuation) {
+          lastBlock.text += ' ' + line;
+          continue;
+        }
+      } else if (lastBlock.type === 'p') {
+        const isParaContinuation =
+          /^[a-z]/.test(line) ||
+          !/[.!?:]$/.test(lastBlock.text) ||
+          /^(?:and|or|including|with|to|for|in|on|at|by|from|as|such as|plus|across|into|through|via)\b/i.test(line);
+
+        if (isParaContinuation) {
+          lastBlock.text += ' ' + line;
+          continue;
+        }
       }
     }
 
@@ -687,7 +749,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   }
 
   // Merge any accidental fragment blocks into the previous block
-  const blocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
+  const blocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> = [];
   for (const block of rawBlocks) {
     const prev = blocks[blocks.length - 1];
     if (
@@ -696,8 +758,8 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
       (
         /^[a-z]/.test(block.text) ||
         /^(?:including|and|or|with|to|for|in|on|at|by|from|as|such as|plus|across|into|through|via)\b/i.test(block.text) ||
-        (prev.type === 'li' && !/[.!?:]$/.test(prev.text)) ||
-        (prev.type === 'p' && !/[.!?:]$/.test(prev.text))
+        (prev.type === 'p' && !/[.!?:]$/.test(prev.text) && prev.text.length < 120) ||
+        (prev.type === 'li' && /[,\-–—(\/\\]$/.test(prev.text))
       )
     ) {
       prev.text += ' ' + block.text;
@@ -778,6 +840,8 @@ function formatJobContent(originalHtml: string): string {
       
       if (block.type === 'h3') {
         html += `<h3>${text}</h3>`;
+      } else if (block.type === 'h4') {
+        html += `<h4>${text}</h4>`;
       } else {
         html += `<p>${text}</p>`;
       }
