@@ -1,12 +1,13 @@
 {
-  "lastIndex": 4,
+  "lastIndex": 6,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
     "managerpwc09",
     "managerpwc07",
     "seniorpwc06",
-    "managerpwc05"
+    "managerpwc05",
+    "seniorpwc04"
   ],
   "history": [
     {
@@ -64,6 +65,54 @@
       "platform": "facebook",
       "postedAt": "2026-09-05T10:47:22.999Z",
       "postId": "1080519067888661"
+    },
+    {
+      "slug": "seniorpwc04",
+      "company": "PwC",
+      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+      "platform": "x",
+      "postedAt": "2026-09-05T12:40:37.435Z",
+      "postId": "2096216934203171214"
+    },
+    {
+      "slug": "seniorpwc04",
+      "company": "PwC",
+      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+      "platform": "threads",
+      "postedAt": "2026-09-05T12:40:37.435Z",
+      "postId": "17934320709121212"
+    },
+    {
+      "slug": "seniorpwc04",
+      "company": "PwC",
+      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+      "platform": "bluesky",
+      "postedAt": "2026-09-05T12:40:37.435Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3murit5s6qa2j"
+    },
+    {
+      "slug": "seniorpwc04",
+      "company": "PwC",
+      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+      "platform": "farcaster",
+      "postedAt": "2026-09-05T12:40:37.435Z",
+      "postId": "0x818cfc986dbf132b9df0c28dbc34da58b8e78f23"
+    },
+    {
+      "slug": "seniorpwc04",
+      "company": "PwC",
+      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+      "platform": "linkedin",
+      "postedAt": "2026-09-05T12:40:37.435Z",
+      "postId": "6a9c0dda8219c85cc85f531c"
+    },
+    {
+      "slug": "seniorpwc04",
+      "company": "PwC",
+      "title": "Digital Assurance & Transparency - Digital Assets Senior Associate",
+      "platform": "facebook",
+      "postedAt": "2026-09-05T12:40:37.435Z",
+      "postId": "1080594407881127"
     }
   ]
 }
