@@ -119,8 +119,8 @@ export function middleware(request: NextRequest) {
           url.searchParams.set('utm_campaign', 'share');
         }
 
-        // Detect social crawlers / link preview bots (Twitterbot, facebookexternalhit, Meta-ExternalAgent for Threads, LinkedInBot, Bluesky, etc.)
-        const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky/i.test(ua);
+        // Detect social crawlers / link preview bots (Twitterbot, facebookexternalhit, Meta-ExternalAgent for Threads, LinkedInBot, Bluesky, Warpcast, etc.)
+        const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster/i.test(ua);
         if (isSocialCrawler) {
           // Serve the destination page directly with HTTP 200 so link preview cards render OG tags immediately without relying on redirect following
           return NextResponse.rewrite(url);
