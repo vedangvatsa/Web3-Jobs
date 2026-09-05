@@ -512,7 +512,9 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     if (/^←\s*All open roles/i.test(line.trim())) continue;
     if (/^(Apply|Apply now|Share|Copy|Link|Share to|Job openings|Full-time|Part-time|Contract|Remote)$/i.test(line.trim())) continue;
     if (/^(Powered by|English|Українська|Polski|Español|Português|Deutsch|Slovenčina|Magyar)$/i.test(line.trim())) continue;
-    if (/^This position is verified from/i.test(line.trim())) continue;
+    if (/^This (?:job opening|position) is verified from/i.test(line.trim())) continue;
+    if (/Click (?:<strong>)?Apply Now(?:<\/strong>)? to submit your application/i.test(line.trim())) continue;
+    if (/submit your application directly via/i.test(line.trim())) continue;
     if (/^Location.*Type/i.test(line.trim())) continue;
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
