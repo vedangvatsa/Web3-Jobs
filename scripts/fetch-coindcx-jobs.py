@@ -41,6 +41,9 @@ for j in raw_jobs:
     loc_str = ', '.join(locs) if locs else 'Bangalore, India'
     job_link = f'https://careers.coindcx.com/opportunities/openings?jobId={req_id}'
     
+    if re.search(r'general application|spontaneous application|open application|future opportunities|talent pool|talent network|expression of interest', title, re.I):
+        continue
+    
     role_word = title.lower().replace('senior', '').replace('lead', '').replace('manager', '').strip().split()[0] if title else 'job'
     slug = f'coindcx{req_id}'
     
@@ -50,7 +53,7 @@ for j in raw_jobs:
         'company': 'CoinDCX',
         'location': loc_str,
         'type': 'Full-time',
-        'date': '2026-09-03',
+        'date': '2026-09-05',
         'source': 'CoinDCX Official Portal [coindcx]',
         'link': job_link,
         'applyUrl': job_link,

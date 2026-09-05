@@ -195,8 +195,8 @@ async function main() {
   console.log('🚀 Starting TOKEN2049 Singapore side events ingestion...');
 
   if (!fs.existsSync(csvPath) || !fs.existsSync(xmlPath)) {
-    console.error('Missing Google Sheet export files in /tmp!');
-    process.exit(1);
+    console.log('No Google Sheet export files found in /tmp, skipping TOKEN2049 sheet ingestion.');
+    return;
   }
 
   // 1. Read XML to extract cell H hyperlink formulas
