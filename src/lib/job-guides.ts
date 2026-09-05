@@ -338,42 +338,72 @@ export function buildUniqueJobMetaDescription(job: Job): string {
   const raw = getCachedRawContent(job);
   let text = plainTextFromHtml(raw);
 
-  if (text && text.length >= 50) {
-    // Remove repeated title or role overview at beginning
-    const escapedTitle = (job.title || '').replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
-    text = text.replace(new RegExp('^\\s*' + escapedTitle + '[:\\s-]*', 'i'), '');
+  if (text && text.length >= 40) {
+    const title = (job.title || '').trim();
+    const company = (job.company || '').trim();
+    const escapedTitle = title.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    const escapedCompany = company.replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
 
+    // Strip boilerplate headers, ATS preambles, and repeated titles
     text = text
+      .replace(new RegExp('^\\s*' + escapedTitle + '[:\\s-]*', 'i'), '')
       .replace(/^Role Overview:?\s*/i, '')
       .replace(/^Position Overview:?\s*/i, '')
       .replace(/^Job Description:?\s*/i, '')
-      .replace(/^About the role:?\s*/i, '')
+      .replace(/^About the (role|position|job):?\s*/i, '')
+      .replace(new RegExp('^About (the )?' + escapedCompany + '[:\\s-]*', 'i'), '')
+      .replace(/^About (the )?[^:]{2,35}:\s*/i, '')
       .replace(/^Overview:?\s*/i, '')
-      .replace(/^Company Description:?\s*/i, '');
+      .replace(/^Company Description:?\s*/i, '')
+      .replace(/^Who we are:?\s*/i, '')
+      .replace(/^Responsibilities:?\s*/i, '')
+      .replace(/^Key Responsibilities:?\s*/i, '')
+      .replace(new RegExp('^\\s*' + escapedTitle + '[:\\s-]*', 'i'), '')
+      .replace(/^Role Overview:?\s*/i, '')
+      .trim();
 
-    // Strip leading "About [Company]" headers
-    text = text.replace(/^About (the )?[^:]{2,35}:\s*/i, '');
+    // Protect common abbreviations from splitting sentences falsely
+    const normalized = text.replace(/\b(Inc|Corp|Ltd|Co|No|vs|approx|e\.g|i\.e)\.\s+/g, '$1_DOT_ ');
+    const rawSentences = normalized.match(/[^.!?]+[.!?]+/g) || [];
+    const sentences = rawSentences.map((s) => s.replace(/_DOT_\s+/g, '. ').trim());
 
-    // Strip if title repeated again after prefix
-    text = text.replace(new RegExp('^\\s*' + escapedTitle + '[:\\s-]*', 'i'), '');
-    text = text.replace(/^Role Overview:?\s*/i, '');
+    const isJunk = (s: string) => {
+      return (
+        /equal opportunity|affirmative action|accommodations|privacy notice|background check|cookie|upgrade your browser|browser is not supported|all qualified applicants|without regard to|veteran status|disability status/i.test(s) ||
+        s.length < 40
+      );
+    };
 
-    text = text.replace(/\s+/g, ' ').trim();
+    // Scan first 8 sentences for an ideal, complete sentence between 50 and 125 characters
+    for (const s of sentences.slice(0, 8)) {
+      let clean = s
+        .replace(/^(Role Overview|Responsibilities|About the role|Position Overview|Job Description):?\s*/i, '')
+        .replace(/^About [^:]{2,35}:\s*/i, '')
+        .replace(/.*?\b(Who we are|About us|About the company|About our team):?\s*/i, '')
+        .replace(/^[^a-zA-Z0-9"'(]+/, '')
+        .trim();
 
-    if (text.length >= 40) {
-      const maxLength = 155;
-      if (text.length <= maxLength) return text;
-      const clipped = text.slice(0, maxLength);
-      const lastSpace = clipped.lastIndexOf(' ');
-      return `${(lastSpace > 70 ? clipped.slice(0, lastSpace) : clipped).trim()}...`;
+      if (isJunk(clean)) continue;
+
+      if (clean.length >= 50 && clean.length <= 125) {
+        if (!/[.!?]$/.test(clean)) clean += '.';
+        return clean;
+      }
     }
   }
 
-  // Graceful, informative fallback if no detailed description exists
-  const location = job.location?.trim() || 'Remote';
-  const department = getDepartmentLabel(job);
-  const team = department ? ` in ${department}` : '';
-  return `Explore the ${job.title} opening${team} at ${job.company} (${location}). View role responsibilities, requirements, and apply directly on Hashtag Web3.`;
+  // Graceful, informative, un-truncated fallback strictly under 115 characters
+  const cleanTitle = (job.title || 'Role').replace(/\s*[\(\[].*?[\)\]]/g, '').trim();
+  const shortTitle = cleanTitle.length > 36 ? cleanTitle.slice(0, 34).trim() : cleanTitle;
+  const company = job.company?.trim() || 'the team';
+
+  const opt1 = `Join ${company} as ${shortTitle}. View responsibilities, requirements, and apply directly.`;
+  if (opt1.length <= 120) return opt1;
+
+  const opt2 = `Explore the ${shortTitle} role at ${company} on Hashtag Web3.`;
+  if (opt2.length <= 120) return opt2;
+
+  return `Explore this ${company} opening on Hashtag Web3.`;
 }
 
 /**
