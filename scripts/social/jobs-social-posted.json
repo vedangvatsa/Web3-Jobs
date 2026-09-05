@@ -5,7 +5,8 @@
     "associatepwc10",
     "managerpwc09",
     "managerpwc07",
-    "seniorpwc06"
+    "seniorpwc06",
+    "managerpwc05"
   ],
   "history": [
     {
@@ -55,6 +56,14 @@
       "platform": "farcaster",
       "postedAt": "2026-09-05T10:19:43.223Z",
       "postId": "0x94832a5f72471a97a63549b372d7ff3fe4346428"
+    },
+    {
+      "slug": "managerpwc05",
+      "company": "PwC",
+      "title": "BCM - Assurance - Digital Assets Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-05T10:47:22.999Z",
+      "postId": "1080519067888661"
     }
   ]
 }
