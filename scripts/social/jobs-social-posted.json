@@ -1,9 +1,10 @@
 {
-  "lastIndex": 2,
+  "lastIndex": 3,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
-    "managerpwc09"
+    "managerpwc09",
+    "managerpwc07"
   ],
   "history": [
     {
@@ -37,6 +38,14 @@
       "platform": "threads",
       "postedAt": "2026-09-05T10:04:55.732Z",
       "postId": "18017839757726459"
+    },
+    {
+      "slug": "managerpwc07",
+      "company": "PwC",
+      "title": "AWM - Assurance - Digital Assets Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-05T10:15:19.961Z",
+      "postId": "0xb85b7cd2f1869b5c23b79a312c6f24a276582e04"
     }
   ]
 }
