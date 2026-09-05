@@ -90,7 +90,8 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
   if (!website || !website.trim()) return null;
   try {
     const host = new URL(website.startsWith('http') ? website : `https://${website}`).hostname;
-    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${host}&size=128`;
+    const targetHost = host.includes('franklintempleton.com') ? 'careers.franklintempleton.com' : host;
+    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${targetHost}&size=128`;
   } catch {
     return null;
   }
@@ -102,6 +103,9 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
  *      "coin-metrics" -> https://coinmetrics.io favicon (guessed from .com)
  */
 export function getCompanyFaviconUrlBySlug(companySlug: string): string {
+  if (companySlug === 'franklin-templeton' || companySlug === 'franklintempleton') {
+    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.franklintempleton.com&size=128`;
+  }
   // Convert slug back to a plausible domain (slug without hyphens + .com)
   const domain = companySlug.replace(/-/g, '') + '.com';
   return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;

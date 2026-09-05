@@ -79,6 +79,10 @@ export function cleanPublishText(
   s = s.replace(/We do not use third-party platforms or agencies for recruitment unless clearly stated\.?\s*All open roles are listed on our official channels\.?/gi, '');
   s = s.replace(/Information collected and processed as part of the recruitment process[\s\S]*?Candidate Privacy Notice\.?/gi, '');
   s = s.replace(/Candidate Privacy Notice\.?/gi, '');
+  s = s.replace(/\*?Due to the (?:large amount|high volume) of (?:the )?applications, please consider your application as unsuccessful should you not be contacted within \d+ weeks from your application date\.?/gi, '');
+  s = s.replace(/Feel free to send (?:your|you) CV[^\n<]*/gi, '');
+  s = s.replace(/This role is remote and engaged through our [^.]*entity[^.]*\.?/gi, '');
+  s = s.replace(/Apply now, and our Recruitment team will contact you with the next steps\.?/gi, '');
 
   // Strip emojis for noslop job pages
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
@@ -167,9 +171,30 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   s = s.replace(/Information collected and processed as part of the recruitment process[\s\S]*?Candidate Privacy Notice\.?/gi, '');
   s = s.replace(/Information collected and processed as part of the recruitment process[\s\S]*?Privacy Notice\.?/gi, '');
   s = s.replace(/<a[^>]*>(?:[A-Za-z0-9\s-]+)?Applicant Privacy Notice<\/a>\.?/gi, '');
-  s = s.replace(/(?:<div[^>]*>)?\s*(?:<span[^>]*>)*\s*Notice:\s*(?:<br>)?\s*(?:<\/span>)*\s*(?:<\/div>)?/gi, '');
   s = s.replace(/Candidate Privacy Notice\.?/gi, '');
   s = s.replace(/<div class="content-conclusion">\s*<\/div>/gi, '');
+
+  // Strip PeopleForce / external ATS leaked navbar, footer, language selectors & logo wrappers
+  s = s.replace(/<nav class="[^"]*navbar[^"]*"[\s\S]*?<\/nav>/gi, '');
+  s = s.replace(/<footer[\s\S]*?<\/footer>/gi, '');
+  s = s.replace(/<select[^>]*>[\s\S]*?<\/select>/gi, '');
+  s = s.replace(/<img class="[^"]*logo[^"]*"[^>]*>/gi, '');
+  s = s.replace(/<link\s+[^>]*>/gi, '');
+  s = s.replace(/[?&;](?:X-Amz-[^"'\\s<>]+|AWSAccessKeyId=[^"'\\s<>]+)/gi, '');
+  s = s.replace(/AKIA[0-9A-Z]{16}/g, '');
+
+  // Strip Notion Spr.so header wrappers
+  s = s.replace(/<div class="notion-header[^"]*"[\s\S]*?<\/div>\s*<\/div>/gi, '');
+  s = s.replace(/<div class="notion-header[^"]*"[\s\S]*?<\/div>/gi, '');
+
+  // Strip recruiter contact, timeline notices & entity engagement
+  s = s.replace(/Feel free to send (?:your|you) CV[^\n<]*/gi, '');
+  s = s.replace(/Apply now, and our Recruitment team will contact you with the next steps\.?/gi, '');
+  s = s.replace(/\*?Due to the (?:large amount|high volume) of (?:the )?applications, please consider your application as unsuccessful should you not be contacted within \d+ weeks from your application date\.?/gi, '');
+  s = s.replace(/This role is remote and engaged through our [^.]*entity[^.]*\.?/gi, '');
+
+  // Strip empty trailing headings
+  s = s.replace(/<h[1-6][^>]*>\s*(?:<strong>)?\s*(?:How to Apply|Apply Now|Apply)\s*(?:<\/strong>)?\s*<\/h[1-6]>\s*(?:<\/div>)?$/gi, '</div>');
 
   // Unicode punctuation
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
