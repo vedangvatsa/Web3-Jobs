@@ -30,6 +30,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
+import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
@@ -242,7 +243,8 @@ async function postToBluesky(
   linkUrl: string,
   ogImageUrl: string,
   company: string,
-  title: string
+  title: string,
+  description?: string
 ): Promise<string> {
   const handle = process.env.BLUESKY_HANDLE || 'hashtagweb3.bsky.social';
   const appPassword = process.env.BLUESKY_APP_PASSWORD;
@@ -317,7 +319,7 @@ async function postToBluesky(
       external: {
         uri: linkUrl,
         title: `${company} is hiring ${title}`,
-        description: `Apply now on Hashtag Web3: ${title} at ${company}`,
+        description: description || `Apply now for ${title} at ${company} on Hashtag Web3`,
         thumb: imageBlob,
       },
     };
@@ -483,7 +485,8 @@ async function main() {
   if (platform === 'bluesky' || shouldPostAll) {
     try {
       console.log('Publishing to Bluesky...');
-      const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title);
+      const metaDesc = buildUniqueJobMetaDescription(selectedJob as any);
+      const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title, metaDesc);
       console.log(`✓ Successfully published to Bluesky! Post URI: ${bskyUri}`);
       state.history.push({
         slug,
