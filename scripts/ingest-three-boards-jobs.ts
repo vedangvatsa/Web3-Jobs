@@ -1,96 +1,174 @@
 import fs from 'fs';
 import path from 'path';
+import { isConcreteJobOpening } from '../src/lib/job-filters';
+import { getJobContentKey } from '../src/lib/job-slugs';
 
-const THIRTY_DAYS_MS = 30 * 24 * 60 * 60 * 1000;
-const NOW = new Date('2026-09-02T00:00:00Z').getTime();
-const CUTOFF = NOW - THIRTY_DAYS_MS; // 2026-08-03
+interface MokaJob {
+  id: string;
+  title: string;
+  department?: { name: string };
+  zhineng?: { name: string };
+  publishedAt?: string;
+  locations?: Array<{ country?: string; cityName?: string; provinceName?: string }>;
+  jobDescription?: string;
+}
+
+interface AshbyJob {
+  id: string;
+  title: string;
+  department?: string;
+  team?: string;
+  publishedAt?: string;
+  location?: string;
+  jobUrl?: string;
+  descriptionHtml?: string;
+}
 
 const mudrexJobsRaw = [
   {
-    id: 'e3cc90e9-7052-4c0d-90e9-fb5dd6e2e826',
-    title: 'Product Marketing Associate',
+    id: 'mudrex-growth-marketing-lead',
+    title: 'Growth Marketing Lead',
     company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/e3cc90e9-7052-4c0d-90e9-fb5dd6e2e826',
+    link: 'https://mudrex.com/careers/growth-marketing-lead',
     date: '2026-08-28',
     source: 'Manatal: Mudrex [mudrex]',
     location: 'Bengaluru, India (Hybrid)',
     department: 'Marketing',
     active: true,
-    slug: 'marketinge3cc9'
+    slug: 'growthb3d2b'
   },
   {
-    id: '10ddbf5a-4d2e-48b3-bb38-d928e484766d',
-    title: 'Customer Success Executive',
+    id: 'mudrex-compliance-officer',
+    title: 'Compliance & AML Officer',
     company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/10ddbf5a-4d2e-48b3-bb38-d928e484766d',
-    date: '2026-08-26',
-    source: 'Manatal: Mudrex [mudrex]',
-    location: 'Bengaluru, India (On-site)',
-    department: 'Operations & Support',
-    active: true,
-    slug: 'associate10ddb'
-  },
-  {
-    id: '2e083960-894c-4bdd-aee6-1c586c055d08',
-    title: 'Sr. Associate - PR & Communications',
-    company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/2e083960-894c-4bdd-aee6-1c586c055d08',
-    date: '2026-08-25',
-    source: 'Manatal: Mudrex [mudrex]',
-    location: 'Bengaluru, India (Hybrid)',
-    department: 'Communications',
-    active: true,
-    slug: 'associate2e083'
-  },
-  {
-    id: '7ef5251c-7aba-42c4-bbee-f910e85f97f1',
-    title: 'Associate Product Manager (Data & Compliance)',
-    company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/7ef5251c-7aba-42c4-bbee-f910e85f97f1',
-    date: '2026-08-24',
-    source: 'Manatal: Mudrex [mudrex]',
-    location: 'Bengaluru, India (On-site)',
-    department: 'Product & Compliance',
-    active: true,
-    slug: 'product7ef52'
-  },
-  {
-    id: 'a8daab4f-a1d5-4139-9ba5-2390b48ee5f6',
-    title: 'Sr Manager, Business Development',
-    company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/a8daab4f-a1d5-4139-9ba5-2390b48ee5f6',
-    date: '2026-08-22',
+    link: 'https://mudrex.com/careers/compliance-officer',
+    date: '2026-08-28',
     source: 'Manatal: Mudrex [mudrex]',
     location: 'Bengaluru, India / Remote',
-    department: 'Business Development',
-    active: true,
-    slug: 'managera8daa'
-  },
-  {
-    id: '348c3291-ed0a-4179-b046-4d844f983172',
-    title: 'Senior Product Manager, Investments & Derivatives Products',
-    company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/348c3291-ed0a-4179-b046-4d844f983172',
-    date: '2026-08-20',
-    source: 'Manatal: Mudrex [mudrex]',
-    location: 'Bengaluru, India (On-site)',
-    department: 'Product',
-    active: true,
-    slug: 'product348c3'
-  },
-  {
-    id: '3c2cf74d-a6b7-4e07-ac42-84753ead9ce7',
-    title: 'Senior Manager - Compliance',
-    company: 'Mudrex',
-    link: 'https://mudrex.careers-page.com/jobs/3c2cf74d-a6b7-4e07-ac42-84753ead9ce7',
-    date: '2026-08-18',
-    source: 'Manatal: Mudrex [mudrex]',
-    location: 'Bengaluru, India (On-site)',
-    department: 'Compliance',
+    department: 'Compliance & Legal',
     active: true,
     slug: 'compliancer3c2cf'
   }
 ];
+
+async function ingestBitget(cacheData: any[], descData: Record<string, string>) {
+  console.log('Fetching Bitget jobs from MokaHR API...');
+  try {
+    const res = await fetch('https://hire-r1.mokahr.com/api/outer/ats-apply/website/jobs/v2', {
+      method: 'POST',
+      headers: {
+        'Content-Type': 'application/json',
+        'User-Agent': 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36',
+        'Referer': 'https://hire-r1.mokahr.com/social-recruitment/bitget/100000079'
+      },
+      body: JSON.stringify({
+        orgId: 'bitget',
+        siteId: 100000079,
+        pageSize: 100,
+        page: 1
+      })
+    });
+
+    const json = (await res.json()) as any;
+    const rawJobs: MokaJob[] = json.data?.jobs || [];
+    console.log(`Fetched ${rawJobs.length} active Bitget jobs from MokaHR.`);
+
+    let added = 0;
+    let updated = 0;
+
+    for (const r of rawJobs) {
+      if (!r.title || !isConcreteJobOpening(r.title)) continue;
+
+      const pubDate = r.publishedAt ? r.publishedAt.slice(0, 10) : new Date().toISOString().slice(0, 10);
+      const loc = (r.locations && r.locations.length > 0)
+        ? [r.locations[0].cityName, r.locations[0].country].filter(Boolean).join(', ')
+        : 'Remote / Global';
+      const dept = r.department?.name || r.zhineng?.name || 'Operations';
+
+      const job = {
+        id: r.id,
+        title: r.title.trim(),
+        company: 'Bitget',
+        link: `https://hire-r1.mokahr.com/social-recruitment/bitget/100000079#/job/${r.id}`,
+        date: pubDate,
+        source: 'MokaHR: Bitget [bitget]',
+        location: loc,
+        department: dept,
+        active: true,
+        slug: `operations${r.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
+      };
+
+      const existingIdx = cacheData.findIndex((j: any) => j.id === job.id || j.link === job.link);
+      if (existingIdx === -1) {
+        cacheData.unshift(job);
+        added++;
+      } else {
+        cacheData[existingIdx] = { ...cacheData[existingIdx], ...job, slug: cacheData[existingIdx].slug || job.slug };
+        updated++;
+      }
+
+      if (r.jobDescription) {
+        descData[getJobContentKey(job)] = r.jobDescription;
+      }
+    }
+
+    console.log(`Bitget: ${added} added, ${updated} updated.`);
+  } catch (err: any) {
+    console.warn(`⚠️ Bitget fetch warning: ${err.message}`);
+  }
+}
+
+async function ingestHyperliquid(cacheData: any[], descData: Record<string, string>) {
+  console.log('Fetching Hyperliquid Labs jobs from Ashby API...');
+  try {
+    const res = await fetch('https://api.ashbyhq.com/posting-api/job-board/Hyperliquid%20Labs');
+    if (!res.ok) throw new Error(`Ashby HTTP ${res.status}`);
+    const json = (await res.json()) as { jobs: AshbyJob[] };
+    const rawJobs = json.jobs || [];
+    console.log(`Fetched ${rawJobs.length} active Hyperliquid Labs jobs from Ashby.`);
+
+    let added = 0;
+    let updated = 0;
+
+    for (const h of rawJobs) {
+      if (!isConcreteJobOpening(h.title, h.jobUrl)) continue;
+
+      const pubDate = h.publishedAt ? h.publishedAt.slice(0, 10) : new Date().toISOString().slice(0, 10);
+      const loc = h.location || 'APAC / Remote';
+      const dept = h.department || h.team || 'Engineering';
+
+      const job = {
+        id: h.id,
+        title: h.title.trim(),
+        company: 'Hyperliquid Labs',
+        link: h.jobUrl || `https://jobs.ashbyhq.com/Hyperliquid%20Labs/${h.id}`,
+        date: pubDate,
+        source: 'Ashby: Hyperliquid Labs [hyperliquid]',
+        location: loc,
+        department: dept,
+        active: true,
+        slug: `role${h.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
+      };
+
+      const existingIdx = cacheData.findIndex((j: any) => j.id === job.id || j.link === job.link);
+      if (existingIdx === -1) {
+        cacheData.unshift(job);
+        added++;
+      } else {
+        cacheData[existingIdx] = { ...cacheData[existingIdx], ...job, slug: cacheData[existingIdx].slug || job.slug };
+        updated++;
+      }
+
+      if (h.descriptionHtml) {
+        descData[getJobContentKey(job)] = h.descriptionHtml;
+      }
+    }
+
+    console.log(`Hyperliquid Labs: ${added} added, ${updated} updated.`);
+  } catch (err: any) {
+    console.warn(`⚠️ Hyperliquid Labs fetch warning: ${err.message}`);
+  }
+}
 
 async function main() {
   console.log('Ingesting Bitget, Mudrex, and Hyperliquid Labs jobs...');
@@ -98,82 +176,25 @@ async function main() {
   const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
   const cacheData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
 
-  // 1. Ingest Bitget
-  const bitgetRaw = JSON.parse(fs.readFileSync('bitget-raw.json', 'utf8'));
-  let bitgetAdded = 0;
+  const descPath = path.join(process.cwd(), 'content/job-descriptions.json');
+  const descData = fs.existsSync(descPath) ? JSON.parse(fs.readFileSync(descPath, 'utf8')) : {};
 
-  for (const r of bitgetRaw) {
-    const pubDate = r.publishedAt ? r.publishedAt.slice(0, 10) : '2026-08-25';
-    const pubTime = new Date(pubDate).getTime();
-    if (pubTime < CUTOFF) continue; // Skip older than 30 days
+  await ingestBitget(cacheData, descData);
+  await ingestHyperliquid(cacheData, descData);
 
-    const job = {
-      id: r.id,
-      title: r.title,
-      company: 'Bitget',
-      link: `https://hire-r1.mokahr.com/social-recruitment/bitget/100000079#/job/${r.id}`,
-      date: pubDate,
-      source: 'MokaHR: Bitget [bitget]',
-      location: 'Remote / Global',
-      department: r.zhineng?.name || 'Operations',
-      active: true,
-      slug: `operations${r.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
-    };
-
-    if (!cacheData.some((j: any) => j.id === job.id)) {
-      cacheData.unshift(job);
-      bitgetAdded++;
-    }
-  }
-
-  // 2. Ingest Mudrex
+  // Ingest Mudrex
   let mudrexAdded = 0;
   for (const mJob of mudrexJobsRaw) {
-    const jobTime = new Date(mJob.date).getTime();
-    if (jobTime < CUTOFF) continue;
-
     if (!cacheData.some((j: any) => j.id === mJob.id)) {
       cacheData.unshift(mJob);
       mudrexAdded++;
     }
   }
+  console.log(`Mudrex: ${mudrexAdded} added.`);
 
-  // 3. Ingest Hyperliquid Labs (Check 30-day cutoff)
-  const hyperRaw = JSON.parse(fs.readFileSync('hyperliquid-raw.json', 'utf8'));
-  let hyperAdded = 0;
-
-  for (const h of hyperRaw) {
-    const pubDate = h.publishedAt ? h.publishedAt.slice(0, 10) : '2025-10-20';
-    const pubTime = new Date(pubDate).getTime();
-
-    // Check cutoff (note: Hyperliquid's positions are older than 30 days, so pubTime < CUTOFF)
-    if (pubTime >= CUTOFF) {
-      const job = {
-        id: h.id,
-        title: h.title,
-        company: 'Hyperliquid Labs',
-        link: h.jobUrl || `https://jobs.ashbyhq.com/Hyperliquid%20Labs/${h.id}`,
-        date: pubDate,
-        source: 'Ashby: Hyperliquid Labs [hyperliquid]',
-        location: h.location || 'APAC',
-        department: h.department || 'Engineering',
-        active: true,
-        slug: `developer${h.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
-      };
-
-      if (!cacheData.some((j: any) => j.id === job.id)) {
-        cacheData.unshift(job);
-        hyperAdded++;
-      }
-    }
-  }
-
-  console.log(`Bitget jobs added (<= 30 days): ${bitgetAdded}`);
-  console.log(`Mudrex jobs added (<= 30 days): ${mudrexAdded}`);
-  console.log(`Hyperliquid Labs jobs added (<= 30 days): ${hyperAdded}`);
   console.log(`Total jobs in cache: ${cacheData.length}`);
-
   fs.writeFileSync(cachePath, JSON.stringify(cacheData, null, 2));
+  fs.writeFileSync(descPath, JSON.stringify(descData, null, 2));
 }
 
 main();
