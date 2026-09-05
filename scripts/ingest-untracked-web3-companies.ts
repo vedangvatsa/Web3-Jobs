@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import https from 'https';
+import { isGeneralOrPlaceholderJobTitle } from '../src/lib/job-filters';
 
 const TODAY = new Date().toISOString().slice(0, 10);
 
@@ -148,9 +149,9 @@ async function ingestNewUntrackedFeeds() {
           rawId: j.id,
         }));
       }
-
       let countForFeed = 0;
       for (const item of jobsToProcess) {
+        if (isGeneralOrPlaceholderJobTitle(item.title)) continue;
         const roleWord = getOneWordRole(item.title);
         const shortId = item.rawId.toString().replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
         const slug = `${roleWord}${shortId}`;

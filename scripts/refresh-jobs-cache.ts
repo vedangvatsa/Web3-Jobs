@@ -223,8 +223,10 @@ function isUsableDescription(content: string | undefined): content is string {
   return !FABRICATED_DESCRIPTION_MARKERS.some((marker) => content.includes(marker));
 }
 
+import { isGeneralOrPlaceholderJobTitle } from '../src/lib/job-filters';
+
 function isConcreteOpening(title: string): boolean {
-  return !/(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|future opportunities|future consideration|future builders|join our talent|dream job|spontaneous application|open position|create your own role)/i.test(title);
+  return !isGeneralOrPlaceholderJobTitle(title);
 }
 
 interface JsonLdJobPosting {

@@ -6,6 +6,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
+import { isGeneralOrPlaceholderJobTitle } from './job-filters';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -123,26 +124,12 @@ export async function getJobs(): Promise<Job[]> {
     };
   });
 
-  // Filter out non-Web3 companies
+  // Filter out non-Web3 companies & general applications / talent pool placeholders
   const web3Jobs = jobs.filter(job => {
-   if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
-   const titleLower = job.title.toLowerCase();
-      // Filter out common ATS placeholder/test job titles and general applications
-    if (
-     titleLower.includes('default template') || 
-     titleLower.includes('new job template') ||
-     titleLower.includes('test job') ||
-     titleLower.includes('(sample)') ||
-     titleLower === 'test' ||
-     titleLower === 'testextrenal' ||
-     titleLower === '[template] default template' ||
-     /general application|spontaneous application|open application|future opportunities|talent pool|general interest/i.test(titleLower)
-    ) {
-     return false;
-    }
-   
+    if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
+    if (isGeneralOrPlaceholderJobTitle(job.title)) return false;
     return true;
-   });
+  });
 
   // The refresh job already retains only active direct-ATS postings and recent
   // aggregator discoveries. Applying another age cutoff here hid still-open
