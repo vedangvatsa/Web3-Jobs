@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import https from 'https';
+import { isGeneralOrPlaceholderJobTitle } from '../src/lib/job-filters';
 
 const TODAY = new Date().toISOString().slice(0, 10);
 const BAMBOO_URL = 'https://mercuryo.bamboohr.com/careers/list';
@@ -71,6 +72,7 @@ async function main() {
     const country = loc.country || 'Remote';
     const locationStr = [city, country].filter(Boolean).join(', ') || 'Remote';
 
+    if (isGeneralOrPlaceholderJobTitle(title)) continue;
     const roleWord = getOneWordRole(title);
     const shortId = j.id.toString().padStart(5, '0');
     const slug = `${roleWord}${shortId}`;

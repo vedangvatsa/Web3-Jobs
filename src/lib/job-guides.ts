@@ -4,6 +4,7 @@ import * as cheerio from 'cheerio';
 import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
+import { isGeneralOrPlaceholderJobTitle } from './job-filters';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug } from './job-slugs';
@@ -69,6 +70,7 @@ const FABRICATED_CONTENT_MARKERS = [
 ];
 
 export function hasSubstantialJobContent(job: Job): boolean {
+  if (isGeneralOrPlaceholderJobTitle(job?.title)) return false;
   const raw = getCachedRawContent(job);
   if (!raw) return false;
   const text = plainTextFromHtml(raw);
