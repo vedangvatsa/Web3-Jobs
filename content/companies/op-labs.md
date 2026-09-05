@@ -1,6 +1,6 @@
 ---
 name: OP Labs
-website: 'https://oplabs.co'
+website: 'https://www.oplabs.co'
 founded: 2019
 category: Layer 2 / Infrastructure
 headquarters: Remote
