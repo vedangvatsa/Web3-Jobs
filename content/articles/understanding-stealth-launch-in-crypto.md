@@ -7,7 +7,7 @@ description: >-
   prior marketing or announcement. This guide explains how it works, its.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 In cryptocurrency [token](/what-is-a-token) launches, where hype and marketing often dominate, the **stealth launch**presents a unique strategy. Also referred to as a "stealth drop," this approach involves launching a new cryptocurrency or [NFT](/what-are-nfts) project without prior announcements, marketing, or promotion.
 

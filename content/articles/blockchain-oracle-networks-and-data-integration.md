@@ -7,7 +7,7 @@ description: >-
   careers.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Smart contracts are powerful, but they have a fundamental limitation: they are isolated from the outside world. A [smart contract](/what-are-smart-contracts) running on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) cannot, by itself, know the current price of [Bitcoin](/what-is-bitcoin), the weather in New York, or the winner of the World Cup. They exist within the closed, deterministic ecosystem of the blockchain.
 

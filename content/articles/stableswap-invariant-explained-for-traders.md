@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: stableswap invariant
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 ## The StableSwap Invariant Explained for Traders and LPs
 

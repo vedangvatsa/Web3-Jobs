@@ -7,7 +7,7 @@ description: >-
   Web3 applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Avalanche is a Layer 1 blockchain for launching decentralized applications and custom Layer 1 networks with sub-second finality. It went live on mainnet on September 21, 2020, built by Ava Labs, a company founded in 2018 by Emin Gun Sirer, Kevin Sekniqi, and Maofan Ted Yin.
 

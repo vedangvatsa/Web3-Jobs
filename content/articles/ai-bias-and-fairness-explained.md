@@ -6,7 +6,7 @@ description: >-
   about the different types of bias and the strategies used to build fairer AI.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 AI bias happens when a system makes systematic errors that favor one group over another. It is not about a model having opinions. It is about data, design choices, and deployment decisions that produce uneven outcomes at scale. Once deployed, those outcomes can affect hiring, healthcare, credit, and criminal justice.
 

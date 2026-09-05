@@ -8,7 +8,7 @@ description: >-
   the nation's deep pool of technical talent, the impact of geopolitical.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Russia occupies a unique position in the [Web3](/what-is-web3) field. The nation is home to a wealth of technical talent, having produced prominent figures like [Ethereum](/what-is-ethereum) co-founder Vitalik Buterin. However, the ongoing geopolitical situation and an unclear regulatory framework present challenges for the local crypto industry.
 

@@ -8,7 +8,7 @@ description: >-
   the exact steps to find work and earn in stablecoins or tokens.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 A [DAO](/what-is-a-dao) is an organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on how to spend funds, and the code executes the result. Contributing to a DAO and getting paid means doing useful work for that organization - writing, design, community support, analytics, development, or governance - and receiving compensation from its on-chain treasury, usually in stablecoins like USDC or in the DAO's governance [token](/what-is-a-token).
 

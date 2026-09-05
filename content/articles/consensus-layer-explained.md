@@ -8,7 +8,7 @@ description: >-
   it, trade-offs, and how to run or build on it.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 The consensus layer is the part of Ethereum that decides which block is correct and which chain is canonical. Since The Merge on September 15, 2022, Ethereum runs with two linked pieces: an execution layer that runs transactions and an EVM state, and a consensus layer that runs proof-of-stake, selects block proposers, collects validator votes, and finalizes history. Together they form a single Ethereum network. This split replaced proof-of-work mining.
 

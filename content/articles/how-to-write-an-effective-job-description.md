@@ -9,7 +9,7 @@ description: >-
   Rust, and other Web3 roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 An effective job description tells a qualified candidate what the work is, what success looks like, and whether they should apply. It is short enough to read on a phone and complete enough to use for screening, leveling, and pay decisions.
 

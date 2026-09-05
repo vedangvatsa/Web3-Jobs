@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: nanotechnology atoms
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Nanotechnology involves the science, engineering, and technology that operate at the nanoscale, measuring between 1 to 100 nanometers. To put this into perspective, a nanometer represents one-billionth of a meter. For instance, a sheet of paper is approximately 100,000 nanometers thick, while a single strand of human DNA measures around 2.5 nanometers in diameter. At this minuscule scale, the properties of materials can change significantly, allowing for new applications.
 

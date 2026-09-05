@@ -8,7 +8,7 @@ description: >-
   pros.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 A consensus mechanism is the set of rules that lets a distributed network of computers agree on a single version of transactions without a central authority. The two most used mechanisms are Proof-of-Work (PoW) and Proof-of-Stake (PoS). They solve the same problem, but they use different resources to decide who gets to add the next block and how attacks are prevented.
 

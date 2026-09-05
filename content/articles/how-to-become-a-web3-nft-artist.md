@@ -8,7 +8,7 @@ description: >-
   without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 ## What is a Web3 NFT artist
 
