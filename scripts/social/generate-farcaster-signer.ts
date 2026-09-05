@@ -43,16 +43,8 @@ async function main() {
 
   console.log("Custody Address:", account.address);
 
-  console.log("Looking up Farcaster FID...");
-  let fid: number;
-  try {
-    const lookup = await neynarClient.lookupUserByCustodyAddress({ custodyAddress: account.address });
-    fid = Number(lookup.user.fid);
-    console.log(`Found Farcaster user: @${lookup.user.username} (FID: ${fid})`);
-  } catch (err: any) {
-    console.error("❌ Failed to lookup FID for custody address:", err?.message || err);
-    process.exit(1);
-  }
+  let fid = process.env.FARCASTER_FID ? Number(process.env.FARCASTER_FID) : 3350013;
+  console.log(`Using Farcaster account: @hashtagweb3 (FID: ${fid})`);
 
   console.log("Creating new Neynar signer...");
   const createSigner = await neynarClient.createSigner();
