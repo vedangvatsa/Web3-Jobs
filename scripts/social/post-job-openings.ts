@@ -585,7 +585,7 @@ async function postToReddit(
 async function postToInstagram(
   caption: string,
   imageUrls: string[],
-  igAccountId: string = process.env.INSTAGRAM_ACCOUNT_ID || '17841407771319845'
+  igAccountId: string = process.env.INSTAGRAM_ACCOUNT_ID || '17841473830256790'
 ): Promise<string> {
   const pageToken = process.env.META_PAGE_TOKEN;
 
