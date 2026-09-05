@@ -26,21 +26,53 @@ const BLOCKED_COMPANIES = new Set([
  */
 /** Keep the employer's title intact; team and location qualifiers distinguish roles. */
 function cleanJobTitle(title: string, company?: string): string {
- let cleaned = title.replace(/[\u200B-\u200D\uFEFF]/g, '').trim();
+  let cleaned = title.replace(/[\u200B-\u200D\uFEFF]/g, '').trim();
 
- // Strip"CompanyName -" prefix (e.g."Morph - Token Growth Lead" →"Token Growth Lead")
- if (company) {
-  const escaped = company.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
-  const prefixPattern = new RegExp(`^${escaped}\\s*[-\\u2013:]\\s*`, 'i');
-  const withoutPrefix = cleaned.replace(prefixPattern, '').trim();
-  if (withoutPrefix.length > 0) {
-   cleaned = withoutPrefix;
+  // Strip "CompanyName -" prefix (e.g. "Morph - Token Growth Lead" -> "Token Growth Lead")
+  if (company) {
+    const escaped = company.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+    const prefixPattern = new RegExp(`^${escaped}\\s*[-\\u2013:]\\s*`, 'i');
+    const withoutPrefix = cleaned.replace(prefixPattern, '').trim();
+    if (withoutPrefix.length > 0) {
+      cleaned = withoutPrefix;
+    }
   }
- }
 
- cleaned = cleaned.replace(/\s+/g, ' ').trim();
+  cleaned = cleaned.replace(/\s+/g, ' ').trim();
 
- return cleanPublishText(cleaned.length > 0 ? cleaned : title.trim());
+  // Standardize acronym casing in titles (e.g. Ux -> UX, Ui -> UI, Devops -> DevOps)
+  cleaned = cleaned
+    .replace(/\bUx\b/g, 'UX')
+    .replace(/\bUi\b/g, 'UI')
+    .replace(/\bAi\b/g, 'AI')
+    .replace(/\bMl\b/g, 'ML')
+    .replace(/\bSeo\b/g, 'SEO')
+    .replace(/\bQa\b/g, 'QA')
+    .replace(/\bVp\b/g, 'VP')
+    .replace(/\bCto\b/g, 'CTO')
+    .replace(/\bCeo\b/g, 'CEO')
+    .replace(/\bCfo\b/g, 'CFO')
+    .replace(/\bCoo\b/g, 'COO')
+    .replace(/\bBd\b/g, 'BD')
+    .replace(/\bPr\b/g, 'PR')
+    .replace(/\bIr\b/g, 'IR')
+    .replace(/\bRwa\b/g, 'RWA')
+    .replace(/\bAmm\b/g, 'AMM')
+    .replace(/\bDex\b/g, 'DEX')
+    .replace(/\bCex\b/g, 'CEX')
+    .replace(/\bSdk\b/g, 'SDK')
+    .replace(/\bApi\b/g, 'API')
+    .replace(/\bApis\b/g, 'APIs')
+    .replace(/\bDefi\b/g, 'DeFi')
+    .replace(/\bNft\b/g, 'NFT')
+    .replace(/\bNfts\b/g, 'NFTs')
+    .replace(/\bDao\b/g, 'DAO')
+    .replace(/\bEvm\b/g, 'EVM')
+    .replace(/\bZk\b/g, 'ZK')
+    .replace(/\bSre\b/g, 'SRE')
+    .replace(/\bDevops\b/g, 'DevOps');
+
+  return cleanPublishText(cleaned.length > 0 ? cleaned : title.trim());
 }
 
 function sourceQuality(job: Job): number {
