@@ -438,59 +438,7 @@ export async function GET(request: NextRequest) {
                 {displayTitle}
               </div>
 
-              {/* Square / Instagram Footer Brand Bar */}
-              {isSquare ? (
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'space-between',
-                    width: '100%',
-                    borderTop: '1px solid #f1f5f9',
-                    paddingTop: '24px',
-                    position: 'absolute',
-                    bottom: '48px',
-                    left: '56px',
-                    right: '56px',
-                  }}
-                >
-                  <div
-                    style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      gap: '10px',
-                    }}
-                  >
-                    <div
-                      style={{
-                        width: '12px',
-                        height: '12px',
-                        borderRadius: '50%',
-                        backgroundColor: '#0284c7',
-                      }}
-                    />
-                    <div
-                      style={{
-                        fontSize: '22px',
-                        fontWeight: '800',
-                        color: '#0f172a',
-                        letterSpacing: '-0.5px',
-                      }}
-                    >
-                      hashtagweb3.com
-                    </div>
-                  </div>
-                  <div
-                    style={{
-                      fontSize: '18px',
-                      fontWeight: '500',
-                      color: '#94a3b8',
-                    }}
-                  >
-                    Verified Web3 Jobs
-                  </div>
-                </div>
-              ) : null}
+              {/* No footer brand bar */}
             </div>
           </div>
         ),
