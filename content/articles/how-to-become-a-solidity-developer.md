@@ -8,7 +8,7 @@ description: >-
   salary ranges, and a project-based roadmap to get hired.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 A Solidity developer writes smart contracts that run on the Ethereum Virtual Machine (EVM). These programs control how value and logic move on Ethereum and EVM-compatible chains like Arbitrum, Optimism, Base, Polygon, BNB Chain, and Avalanche C-Chain.
 

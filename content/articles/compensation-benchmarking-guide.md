@@ -8,7 +8,7 @@ description: >-
   surveys, and apply a step-by-step check for location, level, and vesting.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Web3 pay is not a single number. A senior Solidity offer can be $150,000 base plus $120,000 in tokens that vest over four years, while another at the same level is $220,000 base with no tokens. If you compare only base salary, you will misread both offers. This guide shows how to benchmark correctly, what verified data says in 2026, and how to apply it.
 

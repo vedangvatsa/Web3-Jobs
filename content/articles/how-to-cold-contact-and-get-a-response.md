@@ -7,7 +7,7 @@ description: >-
   cold DM or email that provides value upfront and dramatically increases your.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 In the dynamic world of [Web3](/what-is-web3), mastering the art of cold outreach can significantly impact your career. A well-crafted message can open doors to founders, investors, or hiring managers. Unfortunately, many cold outreach attempts fail due to generic content and a self-serving tone.
 

@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: performance review meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 The annual performance review is a relic. Sitting someone down once a year to tell them how they did helps nobody. The employee gets blindsided by feedback they could have acted on months ago, the manager can barely remember Q1, and the whole exercise becomes a box-ticking ritual.
 

@@ -7,7 +7,7 @@ description: >-
   applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Solana is a Layer 1, open source blockchain built for high throughput and low cost. It launched as a mainnet beta on March 16, 2020. Solana Labs, founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald, built the original protocol from Yakovenko's 2017 Proof-of-History whitepaper, and the Solana Foundation helps support ecosystem development.
 
