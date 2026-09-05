@@ -83,6 +83,7 @@ export function cleanPublishText(
   s = s.replace(/Feel free to send (?:your|you) CV[^\n<]*/gi, '');
   s = s.replace(/This role is remote and engaged through our [^.]*entity[^.]*\.?/gi, '');
   s = s.replace(/Apply now, and our Recruitment team will contact you with the next steps\.?/gi, '');
+  s = s.replace(/Powered by\s+(?:Rippling|Greenhouse|Lever|Ashby|Workday|SmartRecruiters|Workable|BambooHR|Pinpoint|Recruitee|Breezy|JazzHR|Jobvite|Taleo|iCIMS|SuccessFactors|MokaHR|Hurma|Personio|Freshteam|Zoho|Bullhorn|Ceipal)\.?[^\n<]*/gi, '');
 
   // Strip emojis for noslop job pages
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
@@ -161,6 +162,7 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   s = s.replace(/Create alert\.?/gi, '');
   s = s.replace(/Interested in building your career at [^?]+\? Get future opportunities sent straight to your email\.?/gi, '');
   s = s.replace(/Apply for this job\.?/gi, '');
+  s = s.replace(/(?:<p[^>]*>|<div[^>]*>)?\s*Powered by\s+(?:Rippling|Greenhouse|Lever|Ashby|Workday|SmartRecruiters|Workable|BambooHR|Pinpoint|Recruitee|Breezy|JazzHR|Jobvite|Taleo|iCIMS|SuccessFactors|MokaHR|Hurma|Personio|Freshteam|Zoho|Bullhorn|Ceipal)\.?[^<]*(?:<\/p>|<\/div>)?/gi, '');
 
   // Strip OKX / corporate anti-third-party disclaimers HTML + text forms
   s = s.replace(/(?:<div[^>]*>)?\s*(?:<span[^>]*>)*\s*(?:Notice:\s*(?:<br>)?\s*)?All official[\s\S]*?vacancies are published on this (?:website|job board)[\s\S]*?official careers website\.?\s*(?:<\/span>)*\s*(?:<\/div>)?/gi, '');
