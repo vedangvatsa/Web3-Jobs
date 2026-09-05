@@ -752,6 +752,7 @@ async function refreshJobsCache() {
     { board: 'Solana Foundation', company: 'Solana Foundation' },
     { board: 'sui foundation', company: 'Sui Foundation' },
     { board: 'ethereum-foundation', company: 'Ethereum Foundation' },
+    { board: 'nomic.foundation', company: 'Nomic Foundation' },
     { board: 'category-labs', company: 'Category Labs' },
     { board: 'monad.foundation', company: 'Monad Foundation' },
     { board: 'lightning', company: 'Lightning Labs' },

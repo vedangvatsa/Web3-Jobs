@@ -27,7 +27,7 @@ const NEW_UNTRACKED_FEEDS: FeedConfig[] = [
   // Node Infrastructure & Developer Tooling
   { company: 'Chainstack', type: 'bamboo', slug: 'chainstack', url: 'https://chainstack.bamboohr.com/careers/list' },
   { company: 'Helius (Solana Infra)', type: 'ashby', slug: 'helius', url: 'https://api.ashbyhq.com/posting-api/job-board/helius' },
-  { company: 'Nomic Foundation', type: 'ashby', slug: 'nomic', url: 'https://api.ashbyhq.com/posting-api/job-board/nomic' },
+  { company: 'Nomic Foundation', type: 'ashby', slug: 'nomic.foundation', url: 'https://api.ashbyhq.com/posting-api/job-board/nomic.foundation' },
 
   // Layer 1 / 2 & Privacy Protocols
   { company: 'Movement Labs', type: 'ashby', slug: 'movement', url: 'https://api.ashbyhq.com/posting-api/job-board/movement' },

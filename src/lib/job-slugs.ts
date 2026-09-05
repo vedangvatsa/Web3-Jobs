@@ -145,6 +145,9 @@ export function getCompanySlug(company: string): string {
   if (lower.startsWith('ritual') || lower.includes('ritual')) {
     return 'ritual';
   }
+  if (lower.includes('nomic')) {
+    return 'nomic-foundation';
+  }
   if (lower.includes('franklin') || lower.includes('templeton')) {
     return 'franklin-templeton';
   }
