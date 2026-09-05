@@ -85,12 +85,12 @@ export async function GET(request: NextRequest) {
                 ...baseCardStyle,
                 width: '1120px',
                 height: '550px',
-                padding: '50px 64px',
+                padding: '48px 64px',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
                 textAlign: 'center',
-                gap: '28px',
+                gap: '32px',
               }}
             >
               {/* Top Center: Company Logo / Favicon */}
@@ -100,41 +100,37 @@ export async function GET(request: NextRequest) {
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    width: '84px',
-                    height: '84px',
-                    borderRadius: '20px',
+                    width: '96px',
+                    height: '96px',
+                    borderRadius: '24px',
                     backgroundColor: '#ffffff',
                     border: '1.5px solid #e2e8f0',
-                    padding: '10px',
+                    padding: '12px',
                   }}
                 >
                   <img
                     src={companyLogoUrl}
-                    width={64}
-                    height={64}
-                    style={{ borderRadius: '12px' }}
+                    width={72}
+                    height={72}
+                    style={{ borderRadius: '14px' }}
                     alt={`${displayCompany} logo`}
                   />
                 </div>
               ) : null}
 
-              {/* Middle: Centered pill badge: {Company} is hiring */}
+              {/* Middle: Centered text: {Company} is hiring (no pill, larger font) */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  gap: '14px',
-                  padding: '12px 36px',
-                  borderRadius: '9999px',
-                  backgroundColor: '#f0f9ff',
-                  border: '1.5px solid #bae6fd',
+                  gap: '16px',
                 }}
               >
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '34px',
+                    fontSize: '48px',
                     fontWeight: '800',
                     color: '#0284c7',
                     letterSpacing: '-0.5px',
@@ -145,9 +141,10 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '30px',
+                    fontSize: '48px',
                     fontWeight: '500',
                     color: '#475569',
+                    letterSpacing: '-0.5px',
                   }}
                 >
                   is hiring
