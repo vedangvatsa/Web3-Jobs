@@ -534,6 +534,10 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
 
   decoded = cleanPublishText(decoded);
 
+  // Pre-split Chinese bracket headings like 【岗位职责】 or 【任职要求】
+  decoded = decoded.replace(/(?:<br\s*\/?>|\n|^)\s*([【\[][^】\]]+[】\]])/g, '\n\n###HEADING###$1\n');
+  decoded = decoded.replace(/(?:<br\s*\/?>|\n)\s*(\d+[、．])/g, '\n- $1');
+
   // Pre-split inline bullets (run after cleanPublishText so converted dashes are caught)
   decoded = decoded.replace(/([;\.\?!])\s*[-*•·▪–—]\s+([A-Z0-9])/g, '$1\n- $2');
   decoded = decoded.replace(/([a-z0-9\)])\s*\.-\s*([A-Z])/g, '$1.\n- $2');
@@ -588,18 +592,17 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     }
   });
 
-  // Normalize list items
-  $('li').each((_, el) => {
-    const text = $(el).text().trim();
+  // Normalize list items (process bottom-up so container <li> tags don't flatten nested elements)
+  $('li').get().reverse().forEach((el) => {
+    const $el = $(el);
+    if ($el.find('li, h1, h2, h3, h4, h5, h6').length > 0) return;
+    const text = $el.text().trim();
     if (text) {
-      // Some ATS exports flatten several bullets into one list item with a
-      // middle-dot separator, asterisk, or period-dash. Split those back into real list items
-      // so the rendered HTML never contains clumped bullet copy.
       const items = text
         .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|\.\s+[-*•·▪–—]\s+(?=[A-Z])/)
         .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
         .filter(Boolean);
-      $(el).replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
+      $el.replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
     }
   });
 
@@ -698,8 +701,8 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
       }
     }
 
-    // Numbered list item: "1. Develop..."
-    const numMatch = line.match(/^\d+[\.\)]\s*(.*)$/);
+    // Numbered list item: "1. Develop..." or "1、开发..."
+    const numMatch = line.match(/^\d+[\.\)丶、．]\s*(.*)$/);
     if (numMatch && numMatch[1].trim()) {
       rawBlocks.push({ type: 'li', text: numMatch[1].trim() });
       continue;
@@ -997,11 +1000,11 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
 
       // 3c. Workday URL (e.g. circle.wd1.myworkdayjobs.com/Circle/job/...)
       if (!rawContent) {
-        const workdayMatch = url.match(/([a-z0-9-]+)\.wd\d+\.myworkdayjobs\.com\/([^\/]+)\/job\/(.+)$/i);
+        const workdayMatch = url.match(/([a-z0-9-]+)\.(wd\d+)\.myworkdayjobs\.com\/([^\/]+)\/job\/([^?#]+)/i);
         if (workdayMatch) {
-          const [, tenant, boardName, jobPath] = workdayMatch;
+          const [, tenant, wdShard, boardName, jobPath] = workdayMatch;
           try {
-            const endpoint = `https://${tenant}.wd1.myworkdayjobs.com/wday/cxs/${tenant}/${boardName}/job/${jobPath}`;
+            const endpoint = `https://${tenant}.${wdShard}.myworkdayjobs.com/wday/cxs/${tenant}/${boardName}/job/${jobPath}`;
             const res = await fetch(endpoint, {
               headers: {
                 'Accept': 'application/json',
