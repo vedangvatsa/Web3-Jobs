@@ -1,166 +1,56 @@
-import fs from 'fs';
-import path from 'path';
+import fs from "fs";
+import path from "path";
+import { isConcreteJobOpening, cleanCompanyName } from "../src/lib/job-filters";
 
 const franklinTempletonJobs = [
   {
-    id: 'ft-digital-product-manager-blockchain',
-    title: 'Digital Product Manager (Blockchain & Digital Assets)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'San Mateo, CA / Remote (US)',
-    department: 'Digital Assets & Tokenization',
+    id: "ft-client-relationship-manager-crypto-institutions",
+    title: "Head of Franklin Crypto Capital Formation",
+    company: "Franklin Templeton",
+    link: "https://careers.franklintempleton.com/us/en/job/869390/Head-of-Franklin-Crypto-Capital-Formation",
+    date: "2026-09-02",
+    source: "Franklin Templeton Careers [franklin-templeton]",
+    location: "New York, NY / London, UK",
+    department: "Institutional Digital Assets Sales",
     active: true,
-    slug: 'productft01',
-    description: `<h3><strong>Role Overview</strong></h3><p>Franklin Templeton is hiring a Digital Product Manager within our Digital Assets team to drive the product lifecycle of tokenized investment funds, blockchain data integrations, and Web3 wealth management platforms.</p><h3><strong>Responsibilities</strong></h3><ul><li>Define product requirements and user stories for blockchain-native financial products including FOBXX (FOBXX On-Chain Money Market Fund).</li><li>Collaborate with protocol developers, smart contract auditors, transfer agents, and institutional custody partners.</li><li>Manage product backlog, sprint prioritization, and technical roadmap execution for digital asset management tools.</li><li>Analyze on-chain transaction metrics, wallet interaction patterns, and gas efficiency to optimize investor onboarding.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>5+ years of digital product management experience in fintech, asset management, or Web3 platforms.</li><li>Working knowledge of EVM chains, ERC-20 token standards, smart contracts, and digital asset custody.</li></ul>`
+    slug: "salesft11",
+    description: "<p style=\"text-align:left !important\">At Franklin Templeton, we believe success is built through powerful partnerships. As a forward thinking asset manager, we build dynamic relationships with clients, understand their goals, and navigate complex markets together. We leverage cutting edge strategies and deep insights to unlock opportunities for long term wealth creation. Our talented, global teams bring expertise that is both broad and unique.</p><br /><p>From our welcoming, inclusive, and supportive culture to our globally diverse business, we offer opportunities not only to help you reach your potential, but also to contribute to our clients' success.</p><br /><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><h1><span class=\"emphasis-3\"><b>Head of Franklin Crypto Capital Formation</b></span></h1><p></p><p>The Head of Franklin Crypto Capital Formation function is dedicated to growing the firm's investor base, driving capital formation and fostering robust, transparent, productive relationships with our investors. Our mission is to ensure that our Limited Partners (LPs) and other stakeholders, including the global distribution teams, are well-informed, engaged, and confident in their investments with Franklin Crypto. The team works collaboratively with the division's leadership, investment professionals, global distribution team and external stakeholders to ensure a cohesive and effective investor relations strategy, one anchored in best-in-class client experience.</p><p></p><p>Our firm executes a diverse array of scalable, institutional investment strategies spanning open- and closed-end funds, including hedge funds, venture and private credit funds, across seed stage, early venture stage, and public crypto token and equity investing. The Capital Formation function serves to (a) lead capital formation across our full platform of cryptonative open- and closed-end funds, hedge funds, venture and private credit funds sourcing commitments from both cryptonative and traditional institutional allocators and (b) manage deep and productive relationships across the entirety of the LP base with a focus on securing additional tier 1, institutional long-term backers, and (c) deliver an excellent end-to-end investor experience by ensuring a seamless LP experience.</p><p></p><h1><span class=\"emphasis-3\"><b>Role Summary</b></span></h1><p></p><p>We are seeking an experienced and dynamic Head of Crypto Capital Formation to lead fundraising across Franklin Crypto's full fund platform, expand our institutional investor base, and own the end-to-end investor experience from first conversation through subscription, redemption, and ongoing servicing. The ideal candidate will have a proven track record in institutional fundraising and investor relations and servicing, a robust network of both cryptonative and traditional institutional investors and managers (including pensions, endowments, foundations, OCIOs, fund-of-funds, family offices, and crypto-native allocators), and a clear passion for the crypto and Web3 landscape. The role will report directly into the Head of Franklin Crypto.</p><p></p><p>The Head of Franklin Crypto Capital Formation function is dedicated to growing the firm's investor base, driving capital formation and fostering robust, transparent, productive relationships with our investors. Our mission is to ensure that our Limited Partners (LPs) and other stakeholders, including the global distribution teams, are well-informed, engaged, and confident in their investments with Franklin Crypto. The team works collaboratively with the division's leadership, investment professionals, global distribution team and external stakeholders to ensure a cohesive and effective investor relations strategy, one anchored in best-in-class client experience.</p><p></p><p>Our firm executes a diverse array of scalable, institutional investment strategies spanning open- and closed-end funds, including hedge funds, venture and private credit funds, across seed stage, early venture stage, and public crypto token and equity investing. The Capital Formation function serves to lead capital formation across our full platform of cryptonative open- and closed-end funds, hedge funds, venture and private credit funds, manage deep and productive relationships across the entirety of the LP base, and deliver an excellent end-to-end investor experience.</p><p></p><h1><span class=\"emphasis-3\"><b>Responsibilities Include</b></span></h1><p></p><p><b><i>Capital Formation</i></b></p><ul><li><p>Lead the end-to-end capital raising process across Franklin Crypto's full platform of open- and closed-end funds, including hedge funds, venture funds, private credit and other alternative funds, building durable relationships with both cryptonative and traditional institutional investors.</p></li><li><p>Develop compelling investor presentations, reports, and other materials to effectively communicate investment strategies, performance, and opportunities.</p></li><li><p>Coordinate and manage investor meetings, roadshows, and other fundraising events.</p></li></ul><p></p><p><b><i>Relationship Management</i></b></p><ul><li><p>Serve as the primary liaison with Franklin Templeton's global distribution team, ensuring they are updated and equipped with products, content and investment materials.</p></li><li><p>Maintain deep and productive relationships with LPs, ensuring consistent and effective communication.</p></li><li><p>Facilitate ongoing dialogue between the firm's leadership and the investor community.</p></li><li><p>Serve as the escalation point of contact for investor inquiries, providing timely and accurate information.</p></li></ul><p></p><p><b><i>Onboarding, Subscriptions & Client Experience</i></b></p><ul><li><p>Working closely with Private Fund Services, ensure a frictionless investor onboarding experience, partnering with Legal, Compliance, Finance, and Operations to streamline KYC/AML, subscription documentation, and fund-administrator workflows across all vehicles.</p></li><li><p>Working closely with Private Fund Services, ensure a seamless subscription and redemption process for open- and closed-end funds end-to-end, ensuring accurate, timely execution and a high-touch experience that meets institutional standards.</p></li><li><p>Own the client experience from first conversation through ongoing servicing, building scalable systems, playbooks, and feedback loops that delight LPs and reinforce Franklin Crypto's reputation for institutional excellence.</p></li></ul><p></p><p><b><i>Reporting and Communications</i></b></p><ul><li><p>Deliver timely and comprehensive updates on fund performance, market trends, and key developments within the firm and the broader crypto/Web3 ecosystem.</p></li><li><p>Produce regular newsletters and other communications to keep investors informed and engaged.</p></li><li><p>Ensure compliance with all regulatory and reporting requirements.</p></li></ul><p></p><p><b><i>Investor Education</i></b></p><ul><li><p>Educate global institutional investors on crypto markets, investment strategies, and the potential risks and rewards.</p></li><li><p>Organize and conduct educational webinars and events to deepen investor understanding and engagement.</p></li></ul><p></p><p><b><i>Internal Distribution Education</i></b></p><ul><li><p>Educate Franklin Templeton's global distribution teams on crypto markets, investment strategies, and the potential risks and rewards.</p></li><li><p>Organize and conduct educational webinars and events to deepen the distribution team's understanding and engagement.</p></li></ul><p></p><h1><span class=\"emphasis-3\"><b>What Will Help You Be Successful in This Role</b></span></h1><p></p><ul><li><p>Proven track record of successfully raising capital across multiple fund structures and owning ongoing LP relationship management.</p></li><li><p>Minimum of 10&#43; years experience in Investor Relations and/or Business Development and training from a top tier firm.</p></li><li><p>Demonstrated interest in blockchain, crypto or web3.</p></li><li><p>Established network and credibility across both cryptonative LPs and traditional institutional allocators.</p></li><li><p>Working knowledge of fund operations across hedge fund and venture fund structures.</p></li><li><p>Superior verbal and written communication skills.</p></li><li><p>Evidence of working in a collegial and fast growth environment.</p></li><li><p>Bachelor's Degree or equivalent experience.</p></li></ul><p></p><h1><span class=\"emphasis-3\"><b>Preferred Strengths</b></span></h1><p></p><ul><li><p>Prior role in Capital Formation at a crypto firm.</p></li><li><p>Experience raising capital across a multi-strategy platform spanning open-end, closed-end, hedge, and venture vehicles.</p></li><li><p>Direct experience overseeing investor onboarding and subscription/redemption operations.</p></li><li><p>Series 7 and 63 (or willingness to obtain).</p></li></ul><p></p><p>Franklin Templeton offers employees a competitive and valuable range of total rewards, monetary and non-monetary, designed to support their well-being and recognize their time, talents, and results. Along with base compensation, employees are eligible for an annual discretionary bonus, a 401(k) plan with a generous match, and recognition rewards. We also offer a comprehensive benefits package, which includes a range of competitive healthcare options, insurance and disability benefits, an employee stock investment program, learning resources, career development programs, reimbursement for certain education expenses, paid time off, and a motivational wellbeing program. We expect the annual salary for this position to range between $250,000-$300,000 depending on location and level of relevant experience, plus discretionary bonus.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><br /><p>At Franklin Templeton, we believe your benefits should support your life, your goals, and your future. That's why we offer a comprehensive Total Rewards package designed to help you thrive both personally and professionally.</p><br /><h1><b>Highlights of our benefits include:</b></h1><br /><p>- <b>Paid Time Off</b>: Three weeks of PTO in your first year</p><p>- <b>Health Coverage</b>: Competitive medical, dental, and vision insurance to support your well-being</p><p>-<b> Retirement Savings</b>: 401(k) plan with an 85% company match on pre-tax and/or Roth contributions, up to IRS limits </p><p>- <b>Equity & Investing</b>: Employee Stock Investment Plan (ESIP) with discounted share purchase opportunities </p><p>- <b>Learning Education Assistance Program (LEAP)</b>: To support your ongoing growth and career advancement </p><p>- <b>Employee Investment Benefits</b>: Opportunity to purchase company funds with no sales charge </p><br /><p>Franklin Templeton is an Equal Opportunity Employer. We are committed to providing equal employment opportunities to all applicants and employees, and we evaluate qualified applicants without regard to ancestry, age, color, disability, genetic information, gender, gender identity, or gender expression, marital status, medical condition, military or veteran status, national origin, race, religion, sex, sexual orientation, and any other basis protected by federal, state, or local law, ordinance, or regulation.</p>"
   },
   {
-    id: 'ft-digital-product-manager-hyderabad',
-    title: 'Digital Product Manager (Digital Assets & Web3)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'Hyderabad, India (Hybrid)',
-    department: 'Digital Wealth & Tokenization',
+    id: "ft-senior-administrative-assistant-crypto",
+    title: "Senior Administrative Assistant (Franklin Templeton Crypto)",
+    company: "Franklin Templeton",
+    link: "https://careers.franklintempleton.com/us/en/job/869395/Senior-Administrative-Assistant",
+    date: "2026-09-02",
+    source: "Franklin Templeton Careers [franklin-templeton]",
+    location: "New York, NY / Hybrid",
+    department: "Crypto Operations",
     active: true,
-    slug: 'productft02',
-    description: `<h3><strong>Role Overview</strong></h3><p>Join Franklin Templeton's Global Digital Assets engineering hub in Hyderabad to build scalable tokenization APIs, wallet integrations, and digital asset reporting interfaces.</p><h3><strong>Responsibilities</strong></h3><ul><li>Lead cross-functional engineering pods building high-throughput blockchain integration APIs for asset servicing.</li><li>Partner with global product leads to translate regulatory requirements and tokenization specs into technical deliverables.</li><li>Oversee quality assurance, security testing, and deployment pipelines for decentralized finance (DeFi) analytics tools.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>4+ years in software product management with focus on financial APIs, blockchain tech, or enterprise fintech.</li></ul>`
-  },
-  {
-    id: 'ft-director-digital-audience-engagement',
-    title: 'Director, Digital Audience Engagement (Crypto & Web3)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'San Mateo, CA / Hybrid',
-    department: 'Digital Asset Marketing',
-    active: true,
-    slug: 'marketingft03',
-    description: `<h3><strong>Role Overview</strong></h3><p>Lead global marketing, educational content, and digital audience engagement strategies for Franklin Templeton's Digital Assets and Crypto division.</p><h3><strong>Responsibilities</strong></h3><ul><li>Design multi-channel campaigns educating institutional investors, RIAs, and wealth advisors on blockchain tokenization and crypto investment strategies.</li><li>Publish research summaries, whitepapers, and market commentary analyzing public blockchain adoption and DeFi protocols.</li><li>Manage digital acquisition channels, developer relations touchpoints, and institutional event sponsorships.</li></ul>`
-  },
-  {
-    id: 'ft-program-manager-digital-audience-engagement',
-    title: 'Program Manager, Digital Audience Engagement (Digital Assets)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=blockchain',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'New York, NY / Hybrid',
-    department: 'Digital Assets & Innovation',
-    active: true,
-    slug: 'managerft04',
-    description: `<h3><strong>Role Overview</strong></h3><p>Coordinate cross-functional marketing campaigns, Web3 content operations, and institutional distribution programs for digital asset products.</p><h3><strong>Responsibilities</strong></h3><ul><li>Manage editorial calendars, thought leadership publishing, and podcast operations covering blockchain technology and digital money markets.</li><li>Track campaign analytics, conversion funnels, and RIA engagement across digital asset portals.</li></ul>`
-  },
-  {
-    id: 'ft-senior-administrative-assistant-crypto',
-    title: 'Senior Administrative Assistant (Franklin Templeton Crypto)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/job/869395/Senior-Administrative-Assistant',
-    date: '2026-09-02',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'New York, NY / Hybrid',
-    department: 'Crypto Operations',
-    active: true,
-    slug: 'operationsft05',
-    description: `<h3><strong>Role Overview</strong></h3><p>Provide executive administrative and operational support to the leadership team of Franklin Templeton's Digital Assets & Crypto investment group.</p><h3><strong>Responsibilities</strong></h3><ul><li>Manage executive calendars, travel arrangements, and event logistics for global Web3 conferences and institutional investor summits.</li><li>Coordinate department vendor contracts, invoice processing, and cross-team communications between investment management, compliance, and product pods.</li></ul>`
-  },
-  {
-    id: 'ft-senior-research-analyst-digital-assets',
-    title: 'Senior Research Analyst (Digital Assets & Crypto)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'San Mateo, CA / New York, NY',
-    department: 'Digital Assets Research',
-    active: true,
-    slug: 'researchft06',
-    description: `<h3><strong>Role Overview</strong></h3><p>Conduct fundamental and quantitative research on layer-1/layer-2 protocols, DeFi primitives, token economics, and emerging crypto networks to inform fund management decisions.</p><h3><strong>Responsibilities</strong></h3><ul><li>Analyze protocol revenue models, staking dynamics, governance proposals, and on-chain liquidity metrics across Bitcoin, Ethereum, Solana, and alt-L1s.</li><li>Publish institutional research reports, valuation frameworks, and risk assessments for portfolio managers.</li></ul>`
-  },
-  {
-    id: 'ft-compliance-manager-crypto-digital-assets',
-    title: 'Compliance Manager (Crypto & Digital Assets)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'San Mateo, CA / Remote (US)',
-    department: 'Legal & Regulatory Compliance',
-    active: true,
-    slug: 'complianceft07',
-    description: `<h3><strong>Role Overview</strong></h3><p>Oversee regulatory compliance, SEC filing reviews, and AML/KYC policies for Franklin Templeton's digital asset funds and tokenization initiatives.</p><h3><strong>Responsibilities</strong></h3><ul><li>Monitor evolving US and international crypto regulations (SEC, CFTC, MiCA, FinCEN Travel Rule).</li><li>Conduct compliance reviews for smart contracts, wallet custody arrangements, and decentralized protocol interactions.</li></ul>`
-  },
-  {
-    id: 'ft-digital-asset-trader-quantitative-analyst',
-    title: 'Digital Asset Trader & Quantitative Analyst',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'New York, NY / Hybrid',
-    department: 'Digital Asset Investment Management',
-    active: true,
-    slug: 'traderft08',
-    description: `<h3><strong>Role Overview</strong></h3><p>Execute OTC crypto trades, manage staking infrastructure, and develop quantitative algorithmic trading models for digital asset portfolios.</p><h3><strong>Responsibilities</strong></h3><ul><li>Execute spot and derivative transactions across liquidity venues, OTC desks, and centralized/decentralized exchanges.</li><li>Build quantitative models for arbitrage, yield optimization, and portfolio risk management in crypto assets.</li></ul>`
-  },
-  {
-    id: 'ft-blockchain-solutions-architect',
-    title: 'Blockchain Solutions Architect (Tokenized Funds & Protocols)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'San Mateo, CA / Remote',
-    department: 'Tokenization & Protocol Engineering',
-    active: true,
-    slug: 'architectft09',
-    description: `<h3><strong>Role Overview</strong></h3><p>Lead the architectural design of smart contract systems, tokenization protocols, and cross-chain bridge integrations for tokenized money market funds.</p><h3><strong>Responsibilities</strong></h3><ul><li>Write, audit, and deploy production-grade Solidity smart contracts for fund token issuance, transfer restrictions, and yield distribution.</li><li>Integrate decentralized oracle networks (Chainlink), MPC key custody solutions, and zero-knowledge privacy tools into enterprise DLT.</li></ul>`
-  },
-  {
-    id: 'ft-legal-counsel-digital-assets-fintech',
-    title: 'Legal Counsel (Digital Assets, Crypto & Web3)',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/search-results?m=3&keywords=crypto',
-    date: '2026-09-04',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'San Mateo, CA / Hybrid',
-    department: 'Global Legal & Regulatory',
-    active: true,
-    slug: 'legalft10',
-    description: `<h3><strong>Role Overview</strong></h3><p>Provide legal advice on digital asset product launches, SEC registration, tokenization structures, custody agreements, and protocol partnerships.</p><h3><strong>Responsibilities</strong></h3><ul><li>Draft and negotiate agreements with crypto custodians, market makers, protocol foundations, and technology providers.</li><li>Analyze legal implications of decentralized governance, staking mechanics, and tokenized security offerings.</li></ul>`
-  },
-  {
-    id: 'ft-client-relationship-manager-crypto-institutions',
-    title: 'Head of Franklin Crypto Capital Formation',
-    company: 'Franklin Templeton',
-    link: 'https://careers.franklintempleton.com/us/en/job/869390/Head-of-Franklin-Crypto-Capital-Formation',
-    date: '2026-09-02',
-    source: 'Franklin Templeton Careers [franklin-templeton]',
-    location: 'New York, NY / London, UK',
-    department: 'Institutional Digital Assets Sales',
-    active: true,
-    slug: 'salesft11',
-    description: `<h3><strong>Role Overview</strong></h3><p>Franklin Templeton is seeking an Institutional Relationship Manager within our Global Digital Assets & Crypto division to drive institutional business development, partnership expansion, and client relationships across crypto-native funds, DAOs, protocol foundations, sovereign funds, and wealth managers. This role sits at the intersection of traditional asset management and decentralized financial ecosystems, helping institutional investors deploy capital into tokenized real-world assets (RWA) and digital asset strategies.</p><h3><strong>Key Responsibilities</strong></h3><ul><li>Represent Franklin Templeton's digital asset strategies, including spot Bitcoin and Ethereum ETFs, tokenized real-world assets (such as the FOBXX OnChain U.S. Government Money Fund), and protocol yield funds to institutional allocators globally.</li><li>Build strategic co-marketing, liquidity, and integration partnerships with Web3 ecosystem platforms, custodians, decentralized exchanges, and protocol foundations.</li><li>Collaborate closely with portfolio managers, quantitative research analysts, and protocol engineers to structure bespoke investment mandates and digital asset vehicles for sovereign wealth funds and corporate treasuries.</li><li>Manage institutional client onboarding, RFP responses, due diligence questionnaires (DDQs), and ongoing portfolio performance reporting.</li><li>Monitor global regulatory shifts (SEC, CFTC, MiCA, MAS) to advise institutional clients on compliance, custody architectures, and risk parameters for digital asset allocations.</li></ul><h3><strong>Key Qualifications</strong></h3><ul><li>6+ years of institutional sales, business development, or client relationship management experience at a major asset manager, investment bank, crypto-native fund, or prime brokerage.</li><li>Deep domain expertise in public blockchain protocols (Ethereum, Solana, Stellar, Layer-2 rollups), tokenized securities, DeFi yield mechanisms, and institutional digital asset custody solutions.</li><li>Proven track record of managing high-value relationships with institutional allocators, family offices, RIAs, and protocol foundations.</li><li>Strong understanding of global regulatory frameworks, SEC compliance rules, and institutional risk management protocols.</li><li>Bachelor's degree in Finance, Economics, Business, or related discipline; MBA or CFA designation is a strong plus.</li></ul><h3><strong>Compensation & Benefits</strong></h3><ul><li>Competitive base salary ($160,000 - $220,000 USD) plus performance-based annual bonus and equity incentive eligible.</li><li>Comprehensive health, dental, and vision insurance coverage starting on day one.</li><li>401(k) retirement plan with generous employer matching contribution.</li><li>Flexible work arrangements (Hybrid New York, NY or London, UK office with remote flexibility).</li><li>Professional development budget, tuition reimbursement, and global conference attendance.</li></ul><h3><strong>About Franklin Templeton Digital Assets</strong></h3><p>Franklin Templeton (NYSE: BEN) is a global asset management leader overseeing more than $1.5 trillion in assets under management (AUM). As an industry pioneer in real-world asset (RWA) tokenization, Franklin Templeton launched the OnChain U.S. Government Money Fund (FOBXX)—the first U.S.-registered mutual fund to process transactions and record share ownership using public blockchains. Through its dedicated Digital Assets team, Franklin Templeton manages spot crypto ETFs, conducts on-chain research, and develops institutional Web3 investment strategies across global markets.</p>`
+    slug: "operationsft05",
+    description: "<p style=\"text-align:left !important\">At Franklin Templeton, we believe success is built through powerful partnerships. As a forward thinking asset manager, we build dynamic relationships with clients, understand their goals, and navigate complex markets together. We leverage cutting edge strategies and deep insights to unlock opportunities for long term wealth creation. Our talented, global teams bring expertise that is both broad and unique.</p><br /><p>From our welcoming, inclusive, and supportive culture to our globally diverse business, we offer opportunities not only to help you reach your potential, but also to contribute to our clients' success.</p><br /><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><h1><span class=\"emphasis-3\"><b>Senior Administrative Assistant</b></span></h1><p></p><p>We are looking for a Senior Administrative Assistant to join the Franklin Templeton Crypto team. The role will be based in New York City. In this role, you will provide support to leaders in multiple functions across the team as well as partner with other members to support the broader Franklin Crypto organization.</p><p></p><h1><span class=\"emphasis-3\"><b>What are the ongoing responsibilities of a Senior Administrative Assistant?</b></span></h1><p></p><ul><li><p>Provide administrative support to executives; responsibilities include calendar maintenance, meeting coordination, staff relocations, phone coverage, ordering office supplies, email correspondence, incoming/outgoing mail, filing, and scanning.</p></li><li><p>Manage day-to-day communication between executives and company staff or outside business clients and contacts.</p></li><li><p>Coordinate complex domestic and international travel plans. Assist with creation of travel binder, including agenda details and subsequent expense report submission process.</p></li><li><p>Ensure that department invoices and expense reports are processed timely and accurately.</p></li><li><p>Take and maintain meeting minutes of periodic departmental meetings.</p></li><li><p>Coordinate legal document signing.</p></li><li><p>Receive and greet visitors while maintaining the highest level of professionalism.</p></li><li><p>Assist with planning and coordination of department events and meetings, which includes reserving a meeting room, audio/visual equipment, catering, and other resources.</p></li><li><p>Lead and/or support departmental projects.</p></li><li><p>Prepare spreadsheets and written documents.</p></li><li><p>Prepare, format, and edit highly professional PowerPoint presentations.</p></li><li><p>Assist with creation and distribution of communications.</p></li><li><p>Maintain and track department budgets.</p></li><li><p>Serve as delegate for the executive team when required, such as managing and approving expense reports.</p></li><li><p>Work with other business units (e.g. Technology, Facilities, etc.) to facilitate system access, physical relocations, etc.</p></li><li><p>Coordinate the onboarding schedule for new hires including partnering with Human Resources, Technology, Facilities, etc. to set up introductory meetings as well as technology and other set-up requirements.</p></li><li><p>Prepare updates and other documents to meet department and division planning requirements.</p></li></ul><p></p><h1><span class=\"emphasis-3\"><b>What ideal qualifications, skills and experience would help the Senior Administrative Assistant be successful?</b></span></h1><p></p><ul><li><p>Solid administrative experience supporting senior management in a professional environment.</p></li><li><p>Degree in Business Administration or similar or Administrative Certification preferred.</p></li><li><p>Experience working with members of senior management and high-profile clients.</p></li><li><p>Strong communication skills, both written and verbal.</p></li><li><p>Proactive approach to work with ability to anticipate needs.</p></li><li><p>Solid organizational skills, ability to organize and maintain orderly files and records.</p></li><li><p>Ability to maintain confidentiality and exercise independent judgment consistent with department guidelines.</p></li><li><p>Ability to prioritize and perform multiple tasks in a fast-paced environment.</p></li><li><p>Ability to assess and solve problems quickly with little direction.</p></li><li><p>Ability to work well under pressure and adapt to unexpected circumstances.</p></li><li><p>Strong attention to detail; ability to accurately proofread documents.</p></li><li><p>Strong proficiency with Microsoft Office Applications (Word, Excel, PowerPoint, Teams) and SharePoint.</p></li><li><p>Ability to conduct oneself in a professional, collaborative manner in a corporate office environment.</p></li><li><p>Experience in the financial industry or a corporate environment preferred.</p></li></ul><p></p><p>Franklin Templeton offers employees a competitive and valuable range of total rewards - monetary and non-monetary - designed to support their well-being and recognize their time, talents, and results. Along with base compensation, employees are eligible for an annual discretionary bonus, a 401(k) plan with a generous match, and recognition rewards. We also offer a comprehensive benefits package, which includes a range of competitive healthcare options, insurance, and disability benefits, employee stock investment program, learning resources, career development programs, reimbursement for certain education expenses, paid time off (vacation / holidays / sick / leave / parental & caregiving leave / bereavement / volunteering / floating holidays) and a motivational wellbeing program. We expect the annual salary for this position to range between $100,000-$110,000, depending on location and level of relevant experience, plus discretionary bonus.</p><p style=\"text-align:inherit\"></p><p style=\"text-align:inherit\"></p><br /><p>At Franklin Templeton, we believe your benefits should support your life, your goals, and your future. That's why we offer a comprehensive Total Rewards package designed to help you thrive both personally and professionally.</p><br /><h1><b>Highlights of our benefits include:</b></h1><br /><p>- <b>Paid Time Off</b>: Three weeks of PTO in your first year</p><p>- <b>Health Coverage</b>: Competitive medical, dental, and vision insurance to support your well-being</p><p>-<b> Retirement Savings</b>: 401(k) plan with an 85% company match on pre-tax and/or Roth contributions, up to IRS limits </p><p>- <b>Equity & Investing</b>: Employee Stock Investment Plan (ESIP) with discounted share purchase opportunities </p><p>- <b>Learning Education Assistance Program (LEAP)</b>: To support your ongoing growth and career advancement </p><p>- <b>Employee Investment Benefits</b>: Opportunity to purchase company funds with no sales charge </p><br /><p>Franklin Templeton is an Equal Opportunity Employer. We are committed to providing equal employment opportunities to all applicants and employees, and we evaluate qualified applicants without regard to ancestry, age, color, disability, genetic information, gender, gender identity, or gender expression, marital status, medical condition, military or veteran status, national origin, race, religion, sex, sexual orientation, and any other basis protected by federal, state, or local law, ordinance, or regulation.</p>"
   }
 ];
 
 function ingestFranklinTempleton() {
-  const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
-  const cacheData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
+  const cachePath = path.join(process.cwd(), "content/jobs-cache.json");
+  const cacheData = JSON.parse(fs.readFileSync(cachePath, "utf8"));
 
   let added = 0;
   let updated = 0;
 
   for (const job of franklinTempletonJobs) {
-    const idx = cacheData.findIndex((j: any) => j.id === job.id || j.link === job.link);
+    if (!isConcreteJobOpening(job.title, job.link)) continue;
+    const cleanJob = {
+      ...job,
+      company: cleanCompanyName(job.company),
+    };
+
+    const idx = cacheData.findIndex((j: any) => j.id === cleanJob.id || j.link === cleanJob.link);
     if (idx >= 0) {
-      cacheData[idx] = { ...cacheData[idx], ...job };
+      cacheData[idx] = { ...cacheData[idx], ...cleanJob };
       updated++;
     } else {
-      cacheData.unshift(job);
+      cacheData.unshift(cleanJob);
       added++;
     }
   }
