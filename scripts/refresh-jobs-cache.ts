@@ -223,10 +223,10 @@ function isUsableDescription(content: string | undefined): content is string {
   return !FABRICATED_DESCRIPTION_MARKERS.some((marker) => content.includes(marker));
 }
 
-import { isGeneralOrPlaceholderJobTitle } from '../src/lib/job-filters';
+import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
 
-function isConcreteOpening(title: string): boolean {
-  return !isGeneralOrPlaceholderJobTitle(title);
+function isConcreteOpening(title: string, link?: string): boolean {
+  return isConcreteJobOpening(title, link);
 }
 
 interface JsonLdJobPosting {
@@ -2018,20 +2018,23 @@ async function refreshJobsCache() {
     'robata', 'sushi', 'mixologist',
   ];
 
-  allJobs = allJobs.filter(job => {
+  allJobs = allJobs.map(job => ({
+    ...job,
+    company: cleanCompanyName(job.company),
+  })).filter(job => {
     const titleLower = job.title.toLowerCase().trim();
     const companyLower = job.company.toLowerCase().trim();
 
     // Block specific companies entirely
     if (BLOCKED_COMPANIES.has(companyLower)) return false;
 
-    // Block placeholder/generic entries
-    if (companyLower === 'interop labs' && titleLower.includes('interested in working with us')) return false;
+    // Block placeholder/generic/non-web3 entries
+    if (!isConcreteOpening(job.title, job.link)) return false;
 
     // A first-party ATS is authoritative for the employer. Do not silently
     // discard valid operations, facilities, support, or other non-engineering
     // roles; Coinbase and every other company page should reflect its full board.
-    if (isDirectSource(job.source)) return isConcreteOpening(job.title);
+    if (isDirectSource(job.source)) return true;
 
     if (job.title.includes('*')) return false;
 
