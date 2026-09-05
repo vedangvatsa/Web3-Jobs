@@ -70,6 +70,16 @@ async function auditAllJobs() {
         reasons.push('List item chopped mid-sentence followed by paragraph');
       }
 
+      // 10. Check for clumped bullets separated by asterisks inside <li>
+      if (/<li>[^<]*\s+\*\s+[A-Z]/.test(html)) {
+        reasons.push('Clumped asterisk bullets inside <li>');
+      }
+
+      // 11. Check for unparsed major headings left as plain paragraphs
+      if (/<p[^>]*>(?:what you.?ll do|what you will do|you.?ll excel in this role|you will excel in this role|perks that empower you|why this role matters|what success looks like|you.?ll know you.?re winning)[:]?<\/p>/i.test(html)) {
+        reasons.push('Unparsed major heading rendered as paragraph');
+      }
+
       if (reasons.length > 0) {
         issuesFound++;
         issues.push({ slug, company: job.company, title: job.title, reasons });
