@@ -2,27 +2,28 @@
 /**
  * Automated Social Job Opening Poster (X / Twitter & Threads)
  *
- * Posts verified job openings to X and Threads in the exact format:
+ * Posts verified job openings to X, Threads, and Bluesky in the exact format:
  *
  *   Company is hiring role
  *
  *   https://hashtagweb3.com/<slug>/x (for X)
  *   https://hashtagweb3.com/<slug>/th (for Threads)
+ *   https://hashtagweb3.com/<slug>/bsky (for Bluesky)
  *
  * Features:
  *   - Automatically cycles through active, high-quality jobs
  *   - Verifies dynamic OG image availability prior to posting
- *   - Attaches public OG image container on Threads so images are always visible
+ *   - Attaches public OG image container on Threads & link card on Bluesky
+ *   - Strips social suffix to automatically append UTM tracking (utm_source=bluesky)
  *   - Tracks posted slugs in scripts/social/jobs-social-posted.json to prevent repeats
  *   - Supports --dry-run for zero-risk testing without making API calls
  *
  * Usage:
  *   npx tsx scripts/social/post-job-openings.ts --platform x --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform threads --dry-run
- *   npx tsx scripts/social/post-job-openings.ts --platform both --dry-run
- *   npx tsx scripts/social/post-job-openings.ts --platform x
- *   npx tsx scripts/social/post-job-openings.ts --platform threads
- *   npx tsx scripts/social/post-job-openings.ts --platform both
+ *   npx tsx scripts/social/post-job-openings.ts --platform bluesky --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform all --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform all
  */
 
 import * as fs from 'fs';
@@ -234,13 +235,122 @@ async function postToThreads(text: string, imageUrl: string): Promise<string> {
   return mediaId;
 }
 
+// ── Bluesky / AT Protocol ──
+
+async function postToBluesky(
+  text: string,
+  linkUrl: string,
+  ogImageUrl: string,
+  company: string,
+  title: string
+): Promise<string> {
+  const handle = process.env.BLUESKY_HANDLE || 'hashtagweb3.bsky.social';
+  const appPassword = process.env.BLUESKY_APP_PASSWORD;
+
+  if (!appPassword) {
+    throw new Error('Bluesky credentials missing (BLUESKY_APP_PASSWORD)');
+  }
+
+  // 1. Create ATProto session
+  const sessionRes = await fetch('https://bsky.social/xrpc/com.atproto.server.createSession', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/json' },
+    body: JSON.stringify({ identifier: handle, password: appPassword }),
+  });
+
+  if (!sessionRes.ok) {
+    throw new Error(`Bluesky auth failed: ${await sessionRes.text()}`);
+  }
+
+  const session = (await sessionRes.json()) as any;
+  const { accessJwt, did } = session;
+
+  // 2. Fetch OG image and upload as blob to Bluesky for rich link card thumbnail
+  let imageBlob: any = null;
+  try {
+    const imgRes = await fetch(ogImageUrl);
+    if (imgRes.ok) {
+      const buffer = await imgRes.arrayBuffer();
+      const uploadRes = await fetch('https://bsky.social/xrpc/com.atproto.repo.uploadBlob', {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'image/png',
+          Authorization: `Bearer ${accessJwt}`,
+        },
+        body: new Uint8Array(buffer),
+      });
+
+      if (uploadRes.ok) {
+        const uploadData = (await uploadRes.json()) as any;
+        imageBlob = uploadData.blob;
+      }
+    }
+  } catch (err) {
+    console.warn('Failed to upload image blob to Bluesky:', (err as Error).message);
+  }
+
+  // 3. Parse facets for clickable links in Bluesky
+  const facets: any[] = [];
+  const urlRegex = /(https?:\/\/[^\s]+)/g;
+  let match;
+  while ((match = urlRegex.exec(text)) !== null) {
+    const byteStart = new TextEncoder().encode(text.substring(0, match.index)).length;
+    const byteEnd = byteStart + new TextEncoder().encode(match[0]).length;
+    facets.push({
+      index: { byteStart, byteEnd },
+      features: [{ $type: 'app.bsky.richtext.facet#link', uri: match[0] }],
+    });
+  }
+
+  // 4. Create post record with interactive external link card
+  const record: any = {
+    $type: 'app.bsky.feed.post',
+    text,
+    createdAt: new Date().toISOString(),
+  };
+
+  if (facets.length > 0) record.facets = facets;
+
+  if (imageBlob) {
+    record.embed = {
+      $type: 'app.bsky.embed.external',
+      external: {
+        uri: linkUrl,
+        title: `${company} is hiring ${title}`,
+        description: `Apply now on Hashtag Web3: ${title} at ${company}`,
+        thumb: imageBlob,
+      },
+    };
+  }
+
+  const postRes = await fetch('https://bsky.social/xrpc/com.atproto.repo.createRecord', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${accessJwt}`,
+    },
+    body: JSON.stringify({
+      repo: did,
+      collection: 'app.bsky.feed.post',
+      record,
+    }),
+  });
+
+  if (!postRes.ok) {
+    throw new Error(`Bluesky post failed: ${await postRes.text()}`);
+  }
+
+  const postData = (await postRes.json()) as any;
+  return postData.uri;
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
   const args = process.argv.slice(2);
   const isDryRun = args.includes('--dry-run');
   const platformIdx = args.indexOf('--platform');
-  const platform = platformIdx !== -1 ? args[platformIdx + 1]?.toLowerCase() : 'both';
+  const platform = platformIdx !== -1 ? args[platformIdx + 1]?.toLowerCase() : 'all';
   const slugIdx = args.indexOf('--slug');
   const targetSlug = slugIdx !== -1 ? args[slugIdx + 1] : null;
 
@@ -291,9 +401,14 @@ async function main() {
   // Formats strictly adhering to:
   //   Company is hiring role
   //
-  //   URL/x
-  const xPostText = `${company} is hiring ${title}\n\n${SITE_URL}/${slug}/x`;
-  const threadsPostText = `${company} is hiring ${title}\n\n${SITE_URL}/${slug}/th`;
+  //   URL/<platform>
+  const xUrl = `${SITE_URL}/${slug}/x`;
+  const threadsUrl = `${SITE_URL}/${slug}/th`;
+  const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
+
+  const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
+  const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
+  const blueskyPostText = `${company} is hiring ${title}\n\n${blueskyUrl}`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -315,16 +430,21 @@ async function main() {
 
   console.log(`\n--- Preview: Threads Post ---`);
   console.log(threadsPostText);
+  console.log(`-----------------------------`);
+
+  console.log(`\n--- Preview: Bluesky Post ---`);
+  console.log(blueskyPostText);
   console.log(`-----------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X or Threads.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, or Bluesky.');
     return;
   }
 
   const now = new Date().toISOString();
+  const shouldPostAll = platform === 'all' || platform === 'both';
 
-  if (platform === 'x' || platform === 'both') {
+  if (platform === 'x' || shouldPostAll) {
     try {
       console.log('Publishing to X...');
       const tweetId = await postToX(xPostText);
@@ -342,7 +462,7 @@ async function main() {
     }
   }
 
-  if (platform === 'threads' || platform === 'both') {
+  if (platform === 'threads' || shouldPostAll) {
     try {
       console.log('Publishing to Threads...');
       const threadsId = await postToThreads(threadsPostText, ogImageUrl);
@@ -357,6 +477,24 @@ async function main() {
       });
     } catch (err) {
       console.error(`✗ Failed to post to Threads:`, (err as Error).message);
+    }
+  }
+
+  if (platform === 'bluesky' || shouldPostAll) {
+    try {
+      console.log('Publishing to Bluesky...');
+      const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title);
+      console.log(`✓ Successfully published to Bluesky! Post URI: ${bskyUri}`);
+      state.history.push({
+        slug,
+        company,
+        title,
+        platform: 'bluesky',
+        postedAt: now,
+        postId: bskyUri,
+      });
+    } catch (err) {
+      console.error(`✗ Failed to post to Bluesky:`, (err as Error).message);
     }
   }
 
