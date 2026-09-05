@@ -128,7 +128,7 @@ export function cleanPublishHtml(input: string | null | undefined): string {
     .replace(/&ldquo;|&rdquo;/gi, '"')
     .replace(/&lsquo;|&rsquo;/gi, "'");
 
-  // Strip documentation site / GitBook leaked scraper artifacts
+  // Strip documentation site / GitBook & ATS leaked scraper artifacts
   s = s.replace(/<div class="sr-only">For the complete documentation index[\s\S]*?<\/div>/gi, '');
   s = s.replace(/For the complete documentation index, see[\s\S]*?\.(?:\s*This page is also available as Markdown\.)?/gi, '');
   s = s.replace(/This page is also available as (?:<a href="[^"]*">Markdown<\/a>|\[Markdown\]\([^)]*\)|Markdown|HTML|PDF)\.?/gi, '');
@@ -136,6 +136,19 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   s = s.replace(/PreviousBecome a Chef[\s\S]*?Was this helpful\?/gi, '');
   s = s.replace(/Last updated \d+ (?:month|day|year)s? ago/gi, '');
   s = s.replace(/Was this (?:page )?helpful\?/gi, '');
+
+  // Strip Greenhouse / Lever / Ashby / ATS widget boilerplate
+  s = s.replace(/<a[^>]*>[\s\S]*?Back to jobs<\/a>/gi, '');
+  s = s.replace(/Back to (?:all )?jobs/gi, '');
+  s = s.replace(/<div class="job-alert[\s\S]*?<\/div>\s*<\/div>/gi, '');
+  s = s.replace(/<div class="job-alert[^"]*"[^>]*>[\s\S]*?<\/div>/gi, '');
+  s = s.replace(/<div class="application--container[\s\S]*?<\/div>\s*<\/div>/gi, '');
+  s = s.replace(/<div class="application--header[\s\S]*?<\/div>\s*<\/div>/gi, '');
+  s = s.replace(/\*?\s*indicates a required field\.?/gi, '');
+  s = s.replace(/Create a Job Alert\.?/gi, '');
+  s = s.replace(/Create alert\.?/gi, '');
+  s = s.replace(/Interested in building your career at [^?]+\? Get future opportunities sent straight to your email\.?/gi, '');
+  s = s.replace(/Apply for this job\.?/gi, '');
 
   // Unicode punctuation
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
