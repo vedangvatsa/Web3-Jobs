@@ -335,10 +335,45 @@ export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
 }
 
 export function buildUniqueJobMetaDescription(job: Job): string {
+  const raw = getCachedRawContent(job);
+  let text = plainTextFromHtml(raw);
+
+  if (text && text.length >= 50) {
+    // Remove repeated title or role overview at beginning
+    const escapedTitle = (job.title || '').replace(/[-\/\\^$*+?.()|[\]{}]/g, '\\$&');
+    text = text.replace(new RegExp('^\\s*' + escapedTitle + '[:\\s-]*', 'i'), '');
+
+    text = text
+      .replace(/^Role Overview:?\s*/i, '')
+      .replace(/^Position Overview:?\s*/i, '')
+      .replace(/^Job Description:?\s*/i, '')
+      .replace(/^About the role:?\s*/i, '')
+      .replace(/^Overview:?\s*/i, '')
+      .replace(/^Company Description:?\s*/i, '');
+
+    // Strip leading "About [Company]" headers
+    text = text.replace(/^About (the )?[^:]{2,35}:\s*/i, '');
+
+    // Strip if title repeated again after prefix
+    text = text.replace(new RegExp('^\\s*' + escapedTitle + '[:\\s-]*', 'i'), '');
+    text = text.replace(/^Role Overview:?\s*/i, '');
+
+    text = text.replace(/\s+/g, ' ').trim();
+
+    if (text.length >= 40) {
+      const maxLength = 155;
+      if (text.length <= maxLength) return text;
+      const clipped = text.slice(0, maxLength);
+      const lastSpace = clipped.lastIndexOf(' ');
+      return `${(lastSpace > 70 ? clipped.slice(0, lastSpace) : clipped).trim()}...`;
+    }
+  }
+
+  // Graceful, informative fallback if no detailed description exists
   const location = job.location?.trim() || 'Remote';
   const department = getDepartmentLabel(job);
   const team = department ? ` in ${department}` : '';
-  return `Apply for ${job.title}${team} at ${job.company} (${location}). Verified Web3 job opening with direct application links.`;
+  return `Explore the ${job.title} opening${team} at ${job.company} (${location}). View role responsibilities, requirements, and apply directly on Hashtag Web3.`;
 }
 
 /**
