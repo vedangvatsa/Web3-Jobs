@@ -512,18 +512,13 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   const headerWords = 'Requirements|Responsibilities|Qualifications|What you will do|What you.ll do|What we.re looking for|Candidate Profile|Who you are|Benefits|Perks|Compensation|About the company|About the role|Working terms';
   decoded = decoded.replace(new RegExp(`([.!?])\\s*(${headerWords})\\s*:\\s*[-*•·▪]?\\s*`, 'gi'), '$1\n\n###HEADING###$2\n');
 
-  // Pre-split inline bullets
-  decoded = decoded.replace(/([;\.\?!])\s*[-*•·▪]\s+([A-Z0-9])/g, '$1\n- $2');
-  decoded = decoded.replace(/([a-z0-9\)])\s*\.-\s*([A-Z])/g, '$1.\n- $2');
-  decoded = decoded.replace(/:\s*[-*•·▪]\s+([A-Z0-9])/g, ':\n- $1');
-  decoded = decoded.replace(/([;\.\?!:])\s*\*\s+([A-Z0-9])/g, '$1\n- $2');
-
-  // Smarter <br> conversion: double br = paragraph break, br before bullet = newline, lone br = space
-  decoded = decoded.replace(/<br(?:\s+[^>]*)?\s*\/?>\s*<br(?:\s+[^>]*)?\s*\/?>/gi, '\n\n');
-  decoded = decoded.replace(/<br(?:\s+[^>]*)?\s*\/?>\s*(?=\s*(?:[-*•·▪\u25aa\u2013\u2014]|\d+[\.\)]))/gi, '\n');
-  decoded = decoded.replace(/<br(?:\s+[^>]*)?\s*\/?>/gi, ' ');
-
   decoded = cleanPublishText(decoded);
+
+  // Pre-split inline bullets (run after cleanPublishText so converted dashes are caught)
+  decoded = decoded.replace(/([;\.\?!])\s*[-*•·▪–—]\s+([A-Z0-9])/g, '$1\n- $2');
+  decoded = decoded.replace(/([a-z0-9\)])\s*\.-\s*([A-Z])/g, '$1.\n- $2');
+  decoded = decoded.replace(/:\s*[-*•·▪–—]\s+([A-Z0-9])/g, ':\n- $1');
+  decoded = decoded.replace(/([;\.\?!:])\s*\*\s+([A-Z0-9])/g, '$1\n- $2');
 
   let $ = cheerio.load(decoded);
 
@@ -575,11 +570,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     const text = $(el).text().trim();
     if (text) {
       // Some ATS exports flatten several bullets into one list item with a
-      // middle-dot separator. Split those back into real list items so the
-      // rendered HTML never contains clumped bullet copy.
+      // middle-dot separator or period-dash. Split those back into real list items
+      // so the rendered HTML never contains clumped bullet copy.
       const items = text
-        .split(/\s+[•·]\s+/)
-        .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').trim())
+        .split(/\s+[•·]\s+|\.\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
         .filter(Boolean);
       $(el).replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
     }
@@ -591,7 +586,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
   });
 
   const fullText = $('body').text();
-  const blocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
+  const rawBlocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
 
   const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
   for (const line of lines) {
@@ -602,13 +597,13 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
       const [before, ...rest] = line.split('###HEADING###');
       const beforeText = before.replace(/[:]+$/, '').trim();
       if (beforeText) {
-        blocks.push({ type: 'p', text: beforeText });
+        rawBlocks.push({ type: 'p', text: beforeText });
       }
       const hText = rest.join('').replace(/[:]+$/, '').trim();
       if (hText && hText.length < 100) {
-        blocks.push({ type: 'h3', text: hText });
+        rawBlocks.push({ type: 'h3', text: hText });
       } else if (hText) {
-        blocks.push({ type: 'p', text: hText });
+        rawBlocks.push({ type: 'p', text: hText });
       }
       continue;
     }
@@ -651,7 +646,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
         .map((item) => item.replace(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*/, '').trim())
         .filter(Boolean);
       for (const item of bulletItems) {
-        blocks.push({ type: 'li', text: item });
+        rawBlocks.push({ type: 'li', text: item });
       }
       continue;
     }
@@ -659,7 +654,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     // Numbered list item: "1. Develop..."
     const numMatch = line.match(/^\d+[\.\)]\s*(.*)$/);
     if (numMatch && numMatch[1].trim()) {
-      blocks.push({ type: 'li', text: numMatch[1].trim() });
+      rawBlocks.push({ type: 'li', text: numMatch[1].trim() });
       continue;
     }
 
@@ -670,16 +665,44 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
         line
       )
     ) {
-      blocks.push({ type: 'h3', text: line.replace(/[:]+$/, '').trim() });
+      rawBlocks.push({ type: 'h3', text: line.replace(/[:]+$/, '').trim() });
       continue;
     }
 
-    // Paragraph continuation check: if previous block is p, and this line starts lowercase or prev line did not end in terminal punct
-    const lastBlock = blocks[blocks.length - 1];
-    if (lastBlock && lastBlock.type === 'p' && (/^[a-z]/.test(line) || !/[.!?:]$/.test(lastBlock.text))) {
-      lastBlock.text += ' ' + line;
+    // Continuation check: if previous block is li or p, and this line continues it
+    const lastBlock = rawBlocks[rawBlocks.length - 1];
+    if (lastBlock && (lastBlock.type === 'li' || lastBlock.type === 'p')) {
+      const isContinuation =
+        /^[a-z]/.test(line) ||
+        !/[.!?:]$/.test(lastBlock.text) ||
+        /^(?:and|or|including|with|to|for|in|on|at|by|from|as|such as|plus|across|into|through|via)\b/i.test(line);
+
+      if (isContinuation) {
+        lastBlock.text += ' ' + line;
+        continue;
+      }
+    }
+
+    rawBlocks.push({ type: 'p', text: line });
+  }
+
+  // Merge any accidental fragment blocks into the previous block
+  const blocks: Array<{ type: 'h3' | 'p' | 'li'; text: string }> = [];
+  for (const block of rawBlocks) {
+    const prev = blocks[blocks.length - 1];
+    if (
+      prev &&
+      block.type === 'p' &&
+      (
+        /^[a-z]/.test(block.text) ||
+        /^(?:including|and|or|with|to|for|in|on|at|by|from|as|such as|plus|across|into|through|via)\b/i.test(block.text) ||
+        (prev.type === 'li' && !/[.!?:]$/.test(prev.text)) ||
+        (prev.type === 'p' && !/[.!?:]$/.test(prev.text))
+      )
+    ) {
+      prev.text += ' ' + block.text;
     } else {
-      blocks.push({ type: 'p', text: line });
+      blocks.push(block);
     }
   }
 
