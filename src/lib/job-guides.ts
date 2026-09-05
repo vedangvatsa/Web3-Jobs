@@ -237,9 +237,20 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
 
   let currentListOpen = false;
   let isAboutSection = false;
+  let pendingHeading: string | null = null;
+  let pendingIntro: string | null = null;
 
   const flushList = () => {
     if (currentListOpen) { html += '</ul>'; currentListOpen = false; }
+  };
+
+  const emitPendingHeading = () => {
+    if (pendingHeading) {
+      html += pendingHeading;
+      if (pendingIntro) html += `<p class="text-sm text-muted-foreground mb-3">${pendingIntro}</p>`;
+      pendingHeading = null;
+      pendingIntro = null;
+    }
   };
 
   for (const block of blocks) {
@@ -248,8 +259,8 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
       const spunHeading = spinJobPostingBlock(block.text, 'h3', isAboutSection).replace(/[:]+$/, '').trim();
       const intro = getSectionIntro(spunHeading, job);
-      html += `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${escapeHtml(spunHeading)}</h3>`;
-      if (intro) html += `<p class="text-sm text-muted-foreground mb-3">${intro}</p>`;
+      pendingHeading = `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${escapeHtml(spunHeading)}</h3>`;
+      pendingIntro = intro || null;
       continue;
     }
     if (block.type === 'li') {
@@ -262,6 +273,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
         .replace(/\s+/g, ' ');
       const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
       if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
+      emitPendingHeading();
       if (!currentListOpen) { html += '<ul class="list-disc pl-5 space-y-2 my-4">'; currentListOpen = true; }
       html += `<li>${text}</li>`;
       continue;
@@ -274,7 +286,10 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
       .replace(/\s+([,.:;!?])/g, '$1')
       .replace(/\s+/g, ' ');
-    if (text.trim()) html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
+    if (text.trim()) {
+      emitPendingHeading();
+      html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
+    }
   }
   flushList();
   html += '</div>';
@@ -528,6 +543,10 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     if (/apply directly through our official careers website/i.test(line.trim())) continue;
     if (/Candidate Privacy Notice/i.test(line.trim())) continue;
     if (/^Notice:\s*$/i.test(line.trim())) continue;
+    if (/Due to the (?:large amount|high volume) of (?:the )?applications/i.test(line.trim())) continue;
+    if (/Feel free to send (?:your|you) CV to/i.test(line.trim())) continue;
+    if (/This role is remote and engaged through our [^.]*entity/i.test(line.trim())) continue;
+    if (/Apply now, and our Recruitment team will contact you/i.test(line.trim())) continue;
     if (job?.title && line.trim().toLowerCase() === job.title.trim().toLowerCase()) continue;
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
