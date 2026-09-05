@@ -1,5 +1,5 @@
 {
-  "lastIndex": 6,
+  "lastIndex": 7,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -7,7 +7,8 @@
     "managerpwc07",
     "seniorpwc06",
     "managerpwc05",
-    "seniorpwc04"
+    "seniorpwc04",
+    "architectpwc03"
   ],
   "history": [
     {
@@ -113,6 +114,54 @@
       "platform": "facebook",
       "postedAt": "2026-09-05T12:40:37.435Z",
       "postId": "1080594407881127"
+    },
+    {
+      "slug": "architectpwc03",
+      "company": "PwC",
+      "title": "AI / Blockchain Architect Senior Manager",
+      "platform": "x",
+      "postedAt": "2026-09-05T17:20:06.255Z",
+      "postId": "2096287267513880990"
+    },
+    {
+      "slug": "architectpwc03",
+      "company": "PwC",
+      "title": "AI / Blockchain Architect Senior Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-05T17:20:06.255Z",
+      "postId": "18489194017096892"
+    },
+    {
+      "slug": "architectpwc03",
+      "company": "PwC",
+      "title": "AI / Blockchain Architect Senior Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-05T17:20:06.255Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3murygvzg232l"
+    },
+    {
+      "slug": "architectpwc03",
+      "company": "PwC",
+      "title": "AI / Blockchain Architect Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-05T17:20:06.255Z",
+      "postId": "0xa931010a249c1f822821aaa121f1ab8de93d0bb3"
+    },
+    {
+      "slug": "architectpwc03",
+      "company": "PwC",
+      "title": "AI / Blockchain Architect Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-05T17:20:06.255Z",
+      "postId": "6a9c4f5d85ccb3a22c06d416"
+    },
+    {
+      "slug": "architectpwc03",
+      "company": "PwC",
+      "title": "AI / Blockchain Architect Senior Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-05T17:20:06.255Z",
+      "postId": "1080784844528750"
     }
   ]
 }
