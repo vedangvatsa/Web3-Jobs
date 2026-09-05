@@ -1,4 +1,4 @@
-name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook & Reddit
+name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, Reddit & Instagram
 
 on:
   schedule:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
     inputs:
       platform:
-        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, reddit)'
+        description: 'Target platform (all, x, threads, bluesky, farcaster, linkedin, facebook, reddit, instagram)'
         type: choice
         options:
           - all
@@ -18,6 +18,7 @@ on:
           - linkedin
           - facebook
           - reddit
+          - instagram
         default: all
       dry_run:
         description: 'Dry run mode (preview without posting)'
@@ -69,6 +70,7 @@ jobs:
           BUFFER_LINKEDIN_CHANNEL_ID: ${{ secrets.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb' }}
           META_PAGE_ID: ${{ secrets.META_PAGE_ID }}
           META_PAGE_TOKEN: ${{ secrets.META_PAGE_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID || '17841407771319845' }}
           REDDIT_CLIENT_ID: ${{ secrets.REDDIT_CLIENT_ID }}
           REDDIT_CLIENT_SECRET: ${{ secrets.REDDIT_CLIENT_SECRET }}
           REDDIT_USERNAME: ${{ secrets.REDDIT_USERNAME }}
