@@ -36,10 +36,19 @@ export async function GET(request: NextRequest) {
       boxShadow: '0 25px 50px -12px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.8)',
     } as const;
 
-    // 1. Dedicated Job Posting Template (Clean, Minimalist, High Contrast)
+    // 1. Dedicated Job Posting Template (Clean, Minimalist, Big & Symmetric)
     if (type === 'job') {
       const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
       const displayCompany = company || 'Web3 Company';
+
+      // Dynamic font sizing for maximum visual punch and symmetry
+      const titleFontSize = displayTitle.length > 55
+        ? '56px'
+        : displayTitle.length > 35
+        ? '68px'
+        : displayTitle.length > 20
+        ? '82px'
+        : '96px';
 
       return new ImageResponse(
         (
@@ -49,47 +58,104 @@ export async function GET(request: NextRequest) {
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '48px',
+              padding: '40px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                width: '1104px',
-                height: '534px',
-                padding: '64px 72px',
-                justifyContent: 'center',
-                gap: '24px',
+                width: '1120px',
+                height: '550px',
+                padding: '48px 56px',
+                flexDirection: 'column',
+                alignItems: 'center',
+                justifyContent: 'space-between',
+                textAlign: 'center',
               }}
             >
-              {/* Header: {Company} is hiring */}
+              {/* Header: Centered pill badge: {Company} is hiring */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
-                  gap: '14px',
-                  fontSize: '44px',
-                  fontWeight: '700',
-                  color: '#0284c7',
-                  letterSpacing: '-1px',
+                  justifyContent: 'center',
+                  gap: '12px',
+                  padding: '12px 32px',
+                  borderRadius: '9999px',
+                  backgroundColor: '#f0f9ff',
+                  border: '1.5px solid #bae6fd',
                 }}
               >
-                <div style={{ display: 'flex', color: '#0284c7' }}>{displayCompany}</div>
-                <div style={{ display: 'flex', color: '#64748b', fontWeight: '500' }}>is hiring</div>
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: '34px',
+                    fontWeight: '800',
+                    color: '#0284c7',
+                    letterSpacing: '-0.5px',
+                  }}
+                >
+                  {displayCompany}
+                </div>
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: '30px',
+                    fontWeight: '500',
+                    color: '#475569',
+                  }}
+                >
+                  is hiring
+                </div>
               </div>
 
-              {/* Role Title: {Job Title} */}
+              {/* Centered Big Role Title */}
               <div
                 style={{
                   display: 'flex',
-                  fontSize: displayTitle.length > 50 ? '64px' : displayTitle.length > 30 ? '76px' : '92px',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  textAlign: 'center',
+                  fontSize: titleFontSize,
                   fontWeight: '900',
                   color: '#0f172a',
-                  lineHeight: '1.12',
+                  lineHeight: '1.14',
                   letterSpacing: '-2px',
+                  maxWidth: '1008px',
+                  padding: '0 16px',
                 }}
               >
                 {displayTitle}
+              </div>
+
+              {/* Footer: Centered Symmetric Brand & Verification */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  gap: '16px',
+                  fontSize: '24px',
+                  fontWeight: '600',
+                  color: '#64748b',
+                }}
+              >
+                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#059669' }}>
+                  <div
+                    style={{
+                      display: 'flex',
+                      width: '12px',
+                      height: '12px',
+                      borderRadius: '50%',
+                      backgroundColor: '#10b981',
+                    }}
+                  />
+                  <span>Verified Web3 Opening</span>
+                </div>
+                <div style={{ display: 'flex', color: '#cbd5e1' }}>•</div>
+                <div style={{ display: 'flex', color: '#0f172a', fontWeight: '700' }}>
+                  hashtagweb3.com
+                </div>
               </div>
             </div>
           </div>
