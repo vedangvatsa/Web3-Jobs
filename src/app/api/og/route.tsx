@@ -40,6 +40,25 @@ export async function GET(request: NextRequest) {
     if (type === 'job') {
       const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
       const displayCompany = company || 'Web3 Company';
+      const companySlug = displayCompany.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
+
+      // Resolve company logo / favicon (passed in URL or derived via Google favicon service)
+      const logoParam = searchParams.get('logo');
+      let companyLogoUrl: string | null = null;
+
+      if (logoParam && logoParam.trim()) {
+        const cleaned = logoParam.trim().replace(/\.webp$/i, '.png');
+        if (cleaned.startsWith('http://') || cleaned.startsWith('https://') || cleaned.startsWith('data:')) {
+          companyLogoUrl = cleaned;
+        } else {
+          companyLogoUrl = `https://hashtagweb3.com${cleaned.startsWith('/') ? '' : '/'}${cleaned}`;
+        }
+      } else if (companySlug) {
+        const domain = companySlug === 'franklin-templeton' || companySlug === 'franklintempleton'
+          ? 'careers.franklintempleton.com'
+          : `${companySlug.replace(/-/g, '')}.com`;
+        companyLogoUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
+      }
 
       // Dynamic font sizing for maximum visual punch and symmetry
       const titleFontSize = displayTitle.length > 55
@@ -66,22 +85,47 @@ export async function GET(request: NextRequest) {
                 ...baseCardStyle,
                 width: '1120px',
                 height: '550px',
-                padding: '60px 64px',
+                padding: '50px 64px',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
                 textAlign: 'center',
-                gap: '36px',
+                gap: '28px',
               }}
             >
-              {/* Header: Centered pill badge: {Company} is hiring */}
+              {/* Top Center: Company Logo / Favicon */}
+              {companyLogoUrl ? (
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'center',
+                    width: '84px',
+                    height: '84px',
+                    borderRadius: '20px',
+                    backgroundColor: '#ffffff',
+                    border: '1.5px solid #e2e8f0',
+                    padding: '10px',
+                  }}
+                >
+                  <img
+                    src={companyLogoUrl}
+                    width={64}
+                    height={64}
+                    style={{ borderRadius: '12px' }}
+                    alt={`${displayCompany} logo`}
+                  />
+                </div>
+              ) : null}
+
+              {/* Middle: Centered pill badge: {Company} is hiring */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
                   gap: '14px',
-                  padding: '14px 36px',
+                  padding: '12px 36px',
                   borderRadius: '9999px',
                   backgroundColor: '#f0f9ff',
                   border: '1.5px solid #bae6fd',
@@ -90,7 +134,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '36px',
+                    fontSize: '34px',
                     fontWeight: '800',
                     color: '#0284c7',
                     letterSpacing: '-0.5px',
@@ -101,7 +145,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '32px',
+                    fontSize: '30px',
                     fontWeight: '500',
                     color: '#475569',
                   }}
