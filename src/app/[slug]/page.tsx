@@ -2,7 +2,7 @@
 import { getArticle, getAllArticles } from '@/lib/articles';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
-import { notFound } from 'next/navigation';
+import { notFound, redirect } from 'next/navigation';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
@@ -327,7 +327,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   // Check if it's a company page first
   const companyPage = await getCompanyBySlug(params.slug);
   if (companyPage) {
-    return <CompanyDetailView slug={params.slug} />;
+    if (params.slug !== companyPage.slug) {
+      redirect(`/${companyPage.slug}`);
+    }
+    return <CompanyDetailView slug={companyPage.slug} />;
   }
 
   // Check if it's an event page
