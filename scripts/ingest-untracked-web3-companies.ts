@@ -15,7 +15,6 @@ interface FeedConfig {
 const NEW_UNTRACKED_FEEDS: FeedConfig[] = [
   // Web3 Security & Auditing Platforms
   { company: 'Cantina', type: 'ashby', slug: 'cantina', url: 'https://api.ashbyhq.com/posting-api/job-board/cantina' },
-  { company: 'Switchboard', type: 'ashby', slug: 'switchboard', url: 'https://api.ashbyhq.com/posting-api/job-board/switchboard' },
   { company: 'Turnkey', type: 'ashby', slug: 'turnkey', url: 'https://api.ashbyhq.com/posting-api/job-board/turnkey' },
   
   // AI + DePIN & Decentralized Compute

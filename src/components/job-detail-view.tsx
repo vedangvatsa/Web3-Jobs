@@ -1,9 +1,10 @@
 import Link from 'next/link';
-import { ArrowRight, Clock, ExternalLink, MapPin } from 'lucide-react';
+import { ArrowRight, Clock, DollarSign, ExternalLink, MapPin } from 'lucide-react';
 import type { Company, Job } from '@/types';
 import { CompanyLogo } from '@/components/company-logo';
 import { JobApplicationButton } from '@/components/tracking/job-application-button';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
+import { getJobSalaryInfo } from '@/lib/job-salary';
 
 interface JobDetailViewProps {
   job: Job;
@@ -90,6 +91,8 @@ export function JobDetailView({
     return 'Worldwide';
   })();
 
+  const salaryInfo = getJobSalaryInfo(job, contentHtml);
+
   const jobPostingSchema = {
     '@context': 'https://schema.org',
     '@type': 'JobPosting',
@@ -101,6 +104,7 @@ export function JobDetailView({
     directApply: true,
     hiringOrganization,
     industry: 'Web3 / Blockchain / Cryptocurrency',
+    baseSalary: salaryInfo.schema,
     ...(job.department && { occupationalCategory: typeof job.department === 'string' ? job.department : (job.department as any)?.name || String(job.department) }),
     ...(isRemote
       ? {
@@ -169,22 +173,24 @@ export function JobDetailView({
               {job.company}
             </Link>
 
-            {(job.location || postedLabel) && (
-              <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
-                {job.location && (
-                  <span className="flex items-center gap-1.5">
-                    <MapPin className="h-4 w-4" aria-hidden="true" />
-                    {job.location}
-                  </span>
-                )}
-                {postedLabel && (
-                  <span className="flex items-center gap-1.5">
-                    <Clock className="h-4 w-4" aria-hidden="true" />
-                    {postedLabel}
-                  </span>
-                )}
-              </div>
-            )}
+            <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
+              {job.location && (
+                <span className="flex items-center gap-1.5">
+                  <MapPin className="h-4 w-4" aria-hidden="true" />
+                  {job.location}
+                </span>
+              )}
+              <span className="flex items-center gap-1.5 font-medium text-foreground/90">
+                <DollarSign className="h-4 w-4 text-emerald-600 dark:text-emerald-400" aria-hidden="true" />
+                {salaryInfo.display}
+              </span>
+              {postedLabel && (
+                <span className="flex items-center gap-1.5">
+                  <Clock className="h-4 w-4" aria-hidden="true" />
+                  {postedLabel}
+                </span>
+              )}
+            </div>
           </div>
 
           <JobApplicationButton
