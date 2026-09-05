@@ -212,7 +212,7 @@
   {
     "id": "eb-1989756578489",
     "name": "LAGOS BLOCKCHAIN SUMMIT",
-    "description": "LAGOS BLOCKCHAIN SUMMIT brings together industry executives, core developers, and researchers in Lagos. The event features technical keynotes, panel discussions, and networking focused on the intersection of Artificial Intelligence and decentralized networks.",
+    "description": "Lagos Blockchain Summit brings together industry executives, core developers, and researchers in Lagos. The event features technical keynotes, panel discussions, and networking focused on the intersection of Artificial Intelligence and decentralized networks.",
     "startDate": "2026-09-06",
     "endDate": "2026-09-06",
     "city": "Lagos",
@@ -1094,7 +1094,7 @@
   {
     "id": "eb-1998499854864",
     "name": "Web3 x Blockchain Tech Talk (Free Online)",
-    "description": "THIS IS AN ONLINE EVENT PLEASE DO NOT COME TO THE PHYSICAL VENUE.",
+    "description": "An interactive online tech talk exploring Web3, smart contract architecture, and decentralized application development for aspiring blockchain engineers and builders.",
     "startDate": "2026-09-24",
     "endDate": "2026-09-24",
     "city": "Singapore",
@@ -2030,20 +2030,6 @@
     "month": "December 2026"
   },
   {
-    "id": "eb-1998992594662",
-    "name": "Reliable and Professional Crypto Recovery Company – Block Recovery Team",
-    "description": "Block Recovery Team is an entity that specializes in crypto recovery services.",
-    "startDate": "2026-12-12",
-    "endDate": "2026-12-12",
-    "city": "",
-    "country": "",
-    "location": "Online",
-    "url": "https://www.eventbrite.com/e/reliable-and-professional-crypto-recovery-company-block-recovery-team-tickets-1998992594662",
-    "coverImage": "https://img.evbuc.com/https%3A%2F%2Fcdn.evbuc.com%2Fimages%2F1191981089%2F3011958150021%2F1%2Foriginal.20260826-203115?crop=focalpoint&fit=crop&w=512&auto=format%2Ccompress&q=75&sharp=10&fp-x=0.5&fp-y=0.5&s=e2282981207caae546629654acd61e68",
-    "source": "eventbrite",
-    "month": "December 2026"
-  },
-  {
     "id": "eb-1998954862805",
     "name": "Global Trading Show",
     "description": "An upcoming Web3 gathering taking place in Abu Dhabi. It offers builders, founders, and industry professionals an open environment to discuss crypto market analysis, liquidity management, and algorithmic trading and network with peers.",
@@ -2172,7 +2158,7 @@
   {
     "id": "eb-1998442822278",
     "name": "CRYPTO ASSETS CONFERENCE 2027 - #CAC27",
-    "description": "CRYPTO ASSETS CONFERENCE 2027 - #CAC27 brings together industry executives, core developers, and researchers in Frankfurt am Main. The event features technical keynotes, panel discussions, and networking focused on decentralized protocol architecture and blockchain infrastructure.",
+    "description": "Crypto Assets Conference 2027 (#CAC27) brings together industry executives, core developers, and researchers in Frankfurt am Main. The event features technical keynotes, panel discussions, and networking focused on decentralized protocol architecture and blockchain infrastructure.",
     "startDate": "2027-04-07",
     "endDate": "2027-04-07",
     "city": "Frankfurt am Main",
@@ -2740,13 +2726,13 @@
     "location": "Global, SG",
     "url": "https://lu.ma/l4aq8vii",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/yc/9a8a6620-6828-4c91-a266-bdaebc625885.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-ai--formal-verification-for-onchain-finance",
     "name": "AI & Formal Verification for Onchain Finance | Token2049 Singapore",
-    "description": "AI & Formal Verification for Onchain Finance on Web3Voyager: an October 6, 2026 session on AI threats, formal verification and onchain security.",
+    "description": "AI & Formal Verification for Onchain Finance | Token2049 Singapore is an october 6, 2026 session on ai threats, formal verification and onchain security.",
     "startDate": "2026-10-06T07:00:00.000Z",
     "endDate": "2026-10-06T10:00:00.000Z",
     "city": "Global",
@@ -2754,7 +2740,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/craugplf",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ex/9b843b1f-f21d-4c22-9b6f-ad2dcbb966ac.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2768,7 +2754,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/ui1o451m",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/kx/c8ac1068-1405-4135-b10c-852aff125e6f.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2782,7 +2768,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/q22mvxx7",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/qn/cde7eb2d-215d-4bbd-a7d6-0fd8f1b8d48b.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2796,7 +2782,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/lh5uxlii",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/70/eb6e1880-21d4-4522-ae55-08972b03b971.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2810,7 +2796,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/9synguqt",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/gw/28330160-d506-472c-9249-699255699188.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2824,7 +2810,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/ss4ktzkq",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/mj/1cec1eeb-39c6-40f5-8751-7b76ee4c5309.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2838,7 +2824,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/ydaq5h18",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/qk/a961cb8d-6057-495b-bd24-4be643258ab3.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2852,7 +2838,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/0g-devday-2026",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/e3/df4f8bdf-ff2b-4f9c-83c9-7d97b01aa697.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2866,7 +2852,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/rweo2o60",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ng/29d493fa-28e0-4521-8ca3-8582911be2c9.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2880,7 +2866,7 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/rbfq82xs",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ri/363e92e9-30c9-4c2c-811e-fd490429584d.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2894,7 +2880,7 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/hacken-bg5c",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/e3/6dd4049f-1ebe-480b-9a61-a047c3d185c1.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2908,7 +2894,7 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/s4b2nnmg",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/07/3f0ef3d0-126a-43f4-a041-d0c24683f363.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2922,13 +2908,13 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/8hr1p4ru",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/tm/2eb9e5ef-9a96-41c4-93b6-b813b92c6dc1.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-beyond-compliance",
     "name": "Beyond Compliance: How Institutions Are Turning Regulation into a Growth Lever",
-    "description": "Beyond Compliance on Web3Voyager: a private EBC lunch in Barcelona on digital asset regulation and operations.",
+    "description": "Beyond Compliance: How Institutions Are Turning Regulation into a Growth Lever is a private ebc lunch in barcelona on digital asset regulation and operations.",
     "startDate": "2026-09-16T11:00:00.000Z",
     "endDate": "2026-09-16T13:00:00.000Z",
     "city": "Barcelona",
@@ -2936,13 +2922,13 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/s55wtmo5",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/g3/c66c42a3-d135-4da1-b38b-5e98081a1411.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-the-new-banking-standard-building-secure-and-scalable-custody-and-trading-for-europes-financial-giants",
     "name": "The New Banking Standard: Building Secure and Scalable Custody and Trading for Europe’s Financial Giants",
-    "description": "The New Banking Standard on Web3Voyager: a private European Blockchain Convention brunch for senior banking executives in Barcelona.",
+    "description": "The New Banking Standard: Building Secure and Scalable Custody and Trading for Europe’s Financial Giants is a private european blockchain convention brunch for senior banking executives in barcelona.",
     "startDate": "2026-09-16T09:30:00.000Z",
     "endDate": "2026-09-16T11:00:00.000Z",
     "city": "Barcelona",
@@ -2950,13 +2936,13 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/axy6bkce",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/e4/144fac7d-4d72-4c9f-8fae-6ca852a32ea0.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-digital-assets-from-pilot-to-production-with-tatra-banka--banking-breakfast",
     "name": "Digital Assets from Pilot to Production with Tatra Banka | Banking Breakfast",
-    "description": "Digital Assets from Pilot to Production with Tatra Banka on Web3Voyager: a September 16, 2026 EBC event on institutional digital assets and MiCAR.",
+    "description": "Digital Assets from Pilot to Production with Tatra Banka | Banking Breakfast is a september 16, 2026 ebc event on institutional digital assets and micar.",
     "startDate": "2026-09-16T06:00:00.000Z",
     "endDate": "2026-09-16T07:30:00.000Z",
     "city": "Barcelona",
@@ -2964,13 +2950,13 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/djqap9zg",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/in/5b3a51ce-c5d3-4587-b487-41bb5f24e8dc.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-serve-rally-connect",
     "name": "Serve, Rally, Connect - A Padel Morning for Crypto and Finance Leaders",
-    "description": "Serve, Rally, Connect – A Padel Morning for Crypto and Finance Leaders on Web3Voyager: a private Fireblocks padel event in Barcelona during EBC week.",
+    "description": "Serve, Rally, Connect - A Padel Morning for Crypto and Finance Leaders is a private fireblocks padel event in barcelona during ebc week.",
     "startDate": "2026-09-15T08:00:00.000Z",
     "endDate": "2026-09-15T09:30:00.000Z",
     "city": "Barcelona",
@@ -2978,7 +2964,7 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/sdz514ds",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/5y/68c34c24-b507-4142-a4c8-46780932708c.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -2992,7 +2978,7 @@
     "location": "Beyoğlu, TR",
     "url": "https://www.risein.com/programs/stellar-pro-hackathon",
     "coverImage": "https://files.risein.com/programs/2kgsl-cohort-1787226687290jpeg",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3006,7 +2992,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/lunar-wbcs",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/gy/2873f103-dc3a-4ddd-8b38-45064d6851f8.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3020,7 +3006,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/hrb0040d",
     "coverImage": "https://media.web3voyager.com/evt-LDSErNQQ6jx89G5_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3034,13 +3020,13 @@
     "location": "London, GB",
     "url": "https://lu.ma/ua4uyrzf",
     "coverImage": "https://media.web3voyager.com/evt-9dGyZL2CiXhCvRZ_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-beyond-frame-immersive-art-activation-render-26-11-16",
     "name": "BEYOND THE FRAME: An Immersive Art Activation by Render Network x Solana",
-    "description": "BEYOND THE FRAME on Web3Voyager: An immersive art event featuring 3D works rendered on Render Network at FRAMELESS in London.",
+    "description": "Beyond The Frame is an immersive digital art event featuring 3D works rendered on decentralized infrastructure.",
     "startDate": "2026-11-16T19:30:00.000Z",
     "endDate": "2026-11-16T22:00:00.000Z",
     "city": "London",
@@ -3048,7 +3034,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/frzpha3k",
     "coverImage": "https://media.web3voyager.com/evt-bxyxWVHxIIA30lJ_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3062,7 +3048,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/aqntywn2",
     "coverImage": "https://media.web3voyager.com/evt-CyEdAOwOZhxMN3O_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3076,7 +3062,7 @@
     "location": "Global",
     "url": "https://lu.ma/h6w8v75y",
     "coverImage": "https://media.web3voyager.com/evt-Ird69Ex5nDjFwFF_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3090,7 +3076,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/dmxdc394",
     "coverImage": "https://media.web3voyager.com/evt-pbPYGrgkazAy7Bw_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3104,13 +3090,13 @@
     "location": "London, GB",
     "url": "https://lu.ma/a4qnux81",
     "coverImage": "https://media.web3voyager.com/evt-Pfb1j5bJZxVmbGS_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-purple-table-breakpoint-edition-26-11-13",
     "name": "Purple Table: Breakpoint Edition",
-    "description": "Purple Table on Web3Voyager: An invitation-only gathering for women building in the Solana ecosystem focused on meaningful conversation and community.",
+    "description": "Purple Table: Breakpoint Edition is an invitation-only gathering for women building in the solana ecosystem focused on meaningful conversation and community.",
     "startDate": "2026-11-13T11:00:00.000Z",
     "endDate": "2026-11-13T14:00:00.000Z",
     "city": "London",
@@ -3118,7 +3104,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/rszxbf8n",
     "coverImage": "https://media.web3voyager.com/evt-Zdu4QV9UGKPwuvA_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3132,7 +3118,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/6xip72je",
     "coverImage": "https://media.web3voyager.com/evt-UqUVnzhZE8gFPkd_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3146,7 +3132,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/ol25ta77",
     "coverImage": "https://media.web3voyager.com/evt-vgWXB5qezoXEUVS_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3160,7 +3146,7 @@
     "location": "Amsterdam, NL",
     "url": "https://lu.ma/byg2ion1",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ns/4b50216e-4567-433d-8258-6df8bab972ec.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3174,7 +3160,7 @@
     "location": "Berlin, DE",
     "url": "https://lu.ma/blitz-berlin-sep-2026",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/58/453918cb-e1e1-4cd0-b2db-b0095188fe03.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3188,13 +3174,13 @@
     "location": "Tiquipaya, BO",
     "url": "https://www.ethereumbolivia.org/",
     "coverImage": null,
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-hackindia-spark-12-jaipur",
     "name": "HackIndia Spark-12 Jaipur",
-    "description": "HackIndia Spark-12 on Web3Voyager: a September 18–19, 2026 hackathon covering AI, Web3, blockchain, DeepTech and IoT.",
+    "description": "HackIndia Spark-12 Jaipur is a september 18–19, 2026 hackathon covering ai, web3, blockchain, deeptech and iot.",
     "startDate": "2026-09-18T07:00:00.000Z",
     "endDate": "2026-09-19T19:00:00.000Z",
     "city": "Jaipur",
@@ -3202,7 +3188,7 @@
     "location": "Jaipur, IN",
     "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan-north-india-region",
     "coverImage": "https://khajana.blob.core.windows.net/hackindia/events/1786955901083_rfkjn8_cropped-banner.webp",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3216,7 +3202,7 @@
     "location": "Global, SG",
     "url": "https://www.singhacks.com",
     "coverImage": "https://www.singhacks.com/singhacks-social-image.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3230,7 +3216,7 @@
     "location": "London, GB",
     "url": "https://www.eventbrite.co.uk/e/uk-parliament-hackathon-with-easya-tickets-1997315118285",
     "coverImage": null,
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3244,7 +3230,7 @@
     "location": "Global",
     "url": "https://ethglobal.com/events/ethonline2026",
     "coverImage": "https://ethglobal.com/og.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3258,7 +3244,7 @@
     "location": "Lisbon, PT",
     "url": "https://www.hackmeridian.com",
     "coverImage": "https://hackmeridian.com/assets/og-image.jpg",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3272,13 +3258,13 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/ckojxzw4",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/uu/e10e4185-1ada-4a55-812a-e19a9ac9caf0.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-dealflow-drinks-ebc",
     "name": "Convergence Barcelona – EBC Edition",
-    "description": "Convergence Barcelona on Web3Voyager: a September 16, 2026 networking event at Metric Barcelona for crypto founders, investors and protocols.",
+    "description": "Convergence Barcelona – EBC Edition is a september 16, 2026 networking event at metric barcelona for crypto founders, investors and protocols.",
     "startDate": "2026-09-16T17:00:00.000Z",
     "endDate": "2026-09-16T20:00:00.000Z",
     "city": "Barcelona",
@@ -3286,7 +3272,7 @@
     "location": "Barcelona, ES",
     "url": "https://lu.ma/5gmf3h7j",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/29/1b402917-328f-447d-9bf1-8420e5e2d1a8.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3300,7 +3286,7 @@
     "location": "New York, US",
     "url": "https://chain.link/events/linknyc",
     "coverImage": "https://cdn.prod.website-files.com/5f6b7190899f41fb70882d08/69f8ab29b10f10e2b5697672_07a9cedbd9234b2ab782ff49cfce38bf_Link-NYC-OG.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3314,7 +3300,7 @@
     "location": "Global",
     "url": "https://arbitrum-singapore.hackquest.io/",
     "coverImage": "https://arbitrum-singapore.hackquest.io/landing/singapore_hero_bg.svg",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3328,13 +3314,13 @@
     "location": "Global, KR",
     "url": "https://lu.ma/ss5pe1wi",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/2p/4d4b9b0d-4cad-44c5-bec3-be4a559f2da1.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-the-local-pints-as-a-service-in-seoul-for-founders-funders--friends",
     "name": "THE LOCAL: Pints-as-a-Service in Seoul for founders, funders & friends",
-    "description": "THE LOCAL: Pints-as-a-Service on Web3Voyager: a Korea Blockchain Week gathering with drinks, food, pub games and karaoke.",
+    "description": "THE LOCAL: Pints-as-a-Service in Seoul for founders, funders & friends is a korea blockchain week gathering with drinks, food, pub games and karaoke.",
     "startDate": "2026-09-29T17:00:00.000Z",
     "endDate": "2026-09-29T22:00:00.000Z",
     "city": "Global",
@@ -3342,7 +3328,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/8jrm86vk",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/lm/4a9db735-088a-4e32-8159-16fce16fe7ce.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3356,7 +3342,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/fop77t0t",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ef/36f85623-3839-46dc-8e8c-b9f12f0cd3ea.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3370,7 +3356,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/fbbbu498",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/4q/e9c5450c-ec59-49dd-87b2-636833d3cd72.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3384,7 +3370,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/HSC_Seoul",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/d9/d613bc2a-a72e-427e-9a8d-6dd117408233.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3398,7 +3384,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/dblx9nwo",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/dz/b11ab416-98f8-4e27-ab8a-50a0f0b6570c.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3412,7 +3398,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/to04r60x",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/re/72b6de5a-1808-414d-91b3-14a77d257cc9.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3426,7 +3412,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/wslf2frf",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/k9/c3b8d83b-4480-482b-9e7e-eb526f5692f1.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3440,13 +3426,13 @@
     "location": "Global, KR",
     "url": "https://lu.ma/r5p3iwb8",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/mt/fa0426bd-4496-452c-9734-3bc247d28285.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-perps--institutional-trading-liquidity--the-onchain-economy",
     "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy",
-    "description": "Perps × Institutional on Web3Voyager: a September 30, 2026 Seoul event covering perps, institutional crypto, RWAs, stablecoins and DeFi liquidity.",
+    "description": "Perps × Institutional: Trading, Liquidity & the Onchain Economy is a september 30, 2026 seoul event covering perps, institutional crypto, rwas, stablecoins and defi liquidity.",
     "startDate": "2026-09-30T14:30:00.000Z",
     "endDate": "2026-09-30T19:00:00.000Z",
     "city": "Global",
@@ -3454,13 +3440,13 @@
     "location": "Global, KR",
     "url": "https://lu.ma/v6bkeysx",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/bo/ae571248-a303-4234-a341-f692a2bd0f1e.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-institutional-onchain-rwas--stablecoins",
     "name": "Institutional Onchain: RWAs & Stablecoins",
-    "description": "Institutional Onchain on Web3Voyager: a September 29–October 1, 2026 Seoul forum covering RWAs, stablecoins, DeFi and onchain infrastructure.",
+    "description": "Institutional Onchain: RWAs & Stablecoins is a september 29–october 1, 2026 seoul forum covering rwas, stablecoins, defi and onchain infrastructure.",
     "startDate": "2026-09-30T12:00:00.000Z",
     "endDate": "2026-09-30T13:00:00.000Z",
     "city": "Global",
@@ -3468,7 +3454,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/qsfjc56x",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/er/8b26b7be-cd31-473d-84a1-fc24a1501a32.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3482,13 +3468,13 @@
     "location": "Global, KR",
     "url": "https://lu.ma/solana-summit-korea-2026",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/zw/f22b2780-0ec7-4fc4-b916-4ce8cb578b6d.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-digital-af--exhibition--side-events-space",
     "name": "DIGITAL AF • Exhibition & Side Events Space",
-    "description": "DIGITAL AF on Web3Voyager: a September 29–October 3, 2026 Seoul event covering art, gaming, AI, technology and a 24-hour hackathon.",
+    "description": "DIGITAL AF • Exhibition & Side Events Space is a september 29–october 3, 2026 seoul event covering art, gaming, ai, technology and a 24-hour hackathon.",
     "startDate": "2026-09-29T14:00:00.000Z",
     "endDate": "2026-10-04T00:00:00.000Z",
     "city": "Global",
@@ -3496,7 +3482,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/zecq09tp",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/kr/a9273f81-a9f5-42fb-87ca-8c11563609e5.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3510,13 +3496,13 @@
     "location": "Global, KR",
     "url": "https://lu.ma/j5ij7z8n",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/mb/5d93beef-83f8-4d91-9bec-a725926c7d74.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-onchain-capital--liquidity-defi--ai",
     "name": "Onchain Capital & Liquidity: DeFi & AI",
-    "description": "Onchain Capital & Liquidity on Web3Voyager: a September 29–October 1, 2026 Seoul event covering DeFi liquidity, market structure and onchain capital.",
+    "description": "Onchain Capital & Liquidity: DeFi & AI is a september 29–october 1, 2026 seoul event covering defi liquidity, market structure and onchain capital.",
     "startDate": "2026-09-29T12:00:00.000Z",
     "endDate": "2026-09-29T15:00:00.000Z",
     "city": "Seoul",
@@ -3524,7 +3510,7 @@
     "location": "Seoul, KR",
     "url": "https://lu.ma/uz21gg7p",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/oi/f4fdb451-d6fc-41ba-95b6-4baa4ba2b8ae.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3538,7 +3524,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/xxwrhox8",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ef/83c5cd75-2119-4c30-8089-f769049f4844.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3552,7 +3538,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/SecurityNight",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/55/bddd0751-0095-4e8e-84f3-d1b6a6d1b324.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3566,7 +3552,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/blzswe27",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/2q/8dc2e294-3dbb-430a-896f-3cb04c008f6b.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3580,13 +3566,13 @@
     "location": "Global, KR",
     "url": "https://lu.ma/mw84pfjm",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/15/34ee92f8-10d4-4fb2-9bcb-88992516523d.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-ai-meets-the-chart--a-horizon-series-event",
     "name": "AI Meets the Chart — A Horizon Series Event",
-    "description": "AI Meets the Chart on Web3Voyager: a September 28, 2025 event in Seoul covering AI quant trading, automated execution and agentic trading.",
+    "description": "AI Meets the Chart — A Horizon Series Event is a september 28, 2025 event in seoul covering ai quant trading, automated execution and agentic trading.",
     "startDate": "2026-09-28T15:00:00.000Z",
     "endDate": "2026-09-28T19:00:00.000Z",
     "city": "Global",
@@ -3594,7 +3580,7 @@
     "location": "Global, KR",
     "url": "https://lu.ma/5mgf0u76",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/9b/d98b9ba1-a75a-47a9-88fa-5d24a5674e0b.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3608,13 +3594,13 @@
     "location": "Global, KR",
     "url": "https://one.ethereumkorea.io",
     "coverImage": "/events/ethereum.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-eastpoint2026",
     "name": "EastPoint 2026",
-    "description": "EastPoint 2026 on Web3Voyager: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
+    "description": "EastPoint 2026 is a september 28 conference in seoul covering digital assets, stablecoins, tokenized markets, web3 and ai.",
     "startDate": "2026-09-28T07:00:00.000Z",
     "endDate": "2026-09-28T19:00:00.000Z",
     "city": "Global",
@@ -3622,7 +3608,7 @@
     "location": "Global, KR",
     "url": "https://www.eastpoint.xyz",
     "coverImage": "https://www.eastpoint.xyz/og-image-v3.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3636,7 +3622,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/svhznq16",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/y8/baabcec7-79d4-40fb-96eb-495648c3bf5e.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3650,7 +3636,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/k8jylkcm",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/hw/cc1a762f-db3f-4a68-b8d8-978097d1bc70.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3664,7 +3650,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/jtof4o9b",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/nz/b12cb70b-5cb3-47b5-bede-d60111ac97c6.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3678,7 +3664,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/w5ck9zwq",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/eb/10702206-6524-4257-9353-1ffd251eb16c.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3692,7 +3678,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/lj8vcxk7",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/s1/dbc5aeb0-af2e-40b1-8fe8-98d8fb7ef67a.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3706,13 +3692,13 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/lu1shpjk",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/63/f7feac3a-fc8e-4c27-bf02-c83ff486e574.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-stablecoins-from-tokens-to-rails-a-debate",
     "name": "Stablecoins: from Tokens to Rails. A debate",
-    "description": "Stablecoins: from Tokens to Rails on Web3Voyager: an October 6 discussion in Singapore on stablecoins, payments infrastructure and dollar access.",
+    "description": "Stablecoins: from Tokens to Rails. A debate is an october 6 discussion in singapore on stablecoins, payments infrastructure and dollar access.",
     "startDate": "2026-10-06T16:00:00.000Z",
     "endDate": "2026-10-06T19:00:00.000Z",
     "city": "Global",
@@ -3720,7 +3706,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/f0zs81q0",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/tp/c90ddc66-b393-41ce-9020-dc9b223f0db4.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3734,7 +3720,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/m54egbft",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/7d/90801ed1-0e5c-4a78-b0db-3b2e9b59ff6d.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3748,7 +3734,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/ulsv8o2e",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/7q/481e02a3-85a3-43fe-b523-4bc6729a43c1.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3762,7 +3748,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/open-2026",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/98/353d5fdc-4e1c-414e-a337-e0a630429a62.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3776,7 +3762,7 @@
     "location": "Lisboa, PT",
     "url": "https://lu.ma/P.S.Lisbon",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/1h/d760b2d2-d753-4e8d-8314-3825869b8e2f.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3790,7 +3776,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/InstitutionalSoiree",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/z0/7823810b-918c-4dd1-9518-59adfa5b8b2a.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3804,7 +3790,7 @@
     "location": "Mumbai, IN",
     "url": "https://congress.web3privacy.info",
     "coverImage": "https://congress.web3privacy.info/img/ecc3.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3818,7 +3804,7 @@
     "location": "Nakano City, JP",
     "url": "https://eis.fracton.ventures",
     "coverImage": "https://eis.fracton.ventures/opengraph-image?cd0b264fee0666ff",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3832,7 +3818,7 @@
     "location": "Bunkyo City, JP",
     "url": "https://agentic-summit.org/",
     "coverImage": "https://agentic-summit.org/og.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3846,7 +3832,7 @@
     "location": "Global, JP",
     "url": "https://www.ethtokyo.org",
     "coverImage": "https://www.ethtokyo.org/images/ogp.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3860,7 +3846,7 @@
     "location": "Barcelona, ES",
     "url": "https://ethspain.org",
     "coverImage": "https://ethspain.org/og-image.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3874,7 +3860,7 @@
     "location": "London, GB",
     "url": "https://lu.ma/TheUnBanked",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/63/21acdc95-43f5-491f-8bc8-307903a0ec8c.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3888,7 +3874,7 @@
     "location": "New York, US",
     "url": "https://lu.ma/xrpl-hackathon-nyc",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/pw/7e4387e4-44f0-489c-88ae-8f7522363838.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3902,7 +3888,7 @@
     "location": "Mumbai, IN",
     "url": "https://lu.ma/solana-summit-india",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/cy/300bf7f0-cb2c-4dc2-acff-de5966f26e31.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3916,7 +3902,7 @@
     "location": "Thessaloniki, GR",
     "url": "https://lu.ma/q242rqc4",
     "coverImage": "https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/kn/fac7d557-80bd-4f16-bbed-2338f11ff830.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3930,7 +3916,7 @@
     "location": "Singapore, SG",
     "url": "https://mnm.live/agentic-finance",
     "coverImage": "https://mnm.live/og/agentic-finance.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3944,13 +3930,13 @@
     "location": "Singapore, SG",
     "url": "https://mnm.live/theodds/t2049singapore",
     "coverImage": "https://mnm.live/og/the-odds-singapore.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-connect-cointelegraph-singapore-26-10",
     "name": "CONNECT by Cointelegraph: Singapore Edition",
-    "description": "CONNECT by Cointelegraph on Web3Voyager: A networking and pitch event for Web3 founders, builders, and investors held during TOKEN2049 in Singapore.",
+    "description": "CONNECT by Cointelegraph: Singapore Edition is a networking and pitch event for web3 founders, builders, and investors held during token2049 in singapore.",
     "startDate": "2026-10-09T04:00:00.000Z",
     "endDate": "2026-10-09T10:00:00.000Z",
     "city": "Global",
@@ -3958,7 +3944,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/q23fn0vw",
     "coverImage": "https://media.web3voyager.com/recpOzbjE8fp7Qwc1_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3972,7 +3958,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/g2lg0htf",
     "coverImage": "https://media.web3voyager.com/recu3YboIunDiFmAM_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -3986,13 +3972,13 @@
     "location": "Singapore, SG",
     "url": "https://vaultsummit.xyz/",
     "coverImage": "https://media.web3voyager.com/rec9DWekfjy39zYmQ_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-longitude-10th-edition-26-10",
     "name": "LONGITUDE by Cointelegraph, 10th edition",
-    "description": "LONGITUDE, 10th edition on Web3Voyager: An invitation-only gathering for senior Web3 and institutional leaders during Token2049 in Singapore.",
+    "description": "LONGITUDE by Cointelegraph, 10th edition is an invitation-only gathering for senior web3 and institutional leaders during token2049 in singapore.",
     "startDate": "2026-10-08T03:00:00.000Z",
     "endDate": "2026-10-08T09:30:00.000Z",
     "city": "Singapore",
@@ -4000,7 +3986,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/2g8kwtyd",
     "coverImage": "https://media.web3voyager.com/rec5xIgE48OGENle9_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4014,7 +4000,7 @@
     "location": "Global, SG",
     "url": "https://stablecoinsummit.com/",
     "coverImage": "https://media.web3voyager.com/rechj2kzruMJf6I43_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4028,13 +4014,13 @@
     "location": "Global, SG",
     "url": "https://lu.ma/HSC_Singapore",
     "coverImage": "https://media.web3voyager.com/recJFCHjI4PI7JS2e_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-kraken-pro-dark-26-10",
     "name": "Kraken Pro After Dark: Token2049 Singapore",
-    "description": "Kraken Pro After Dark on Web3Voyager: An invitation-only networking event for traders, institutions, and digital asset market participants.",
+    "description": "Kraken Pro After Dark: Token2049 Singapore is an invitation-only networking event for traders, institutions, and digital asset market participants.",
     "startDate": "2026-10-07T12:00:00.000Z",
     "endDate": "2026-10-07T18:00:00.000Z",
     "city": "Singapore",
@@ -4042,7 +4028,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/krakenafterdark-singapore2026",
     "coverImage": "https://media.web3voyager.com/recv1Gy6FoB8K0evb_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4056,13 +4042,13 @@
     "location": "Global, SG",
     "url": "https://lu.ma/hiduaq79",
     "coverImage": "https://media.web3voyager.com/receWdnpxAhkrPsrD_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-curated-networking-collably-26-10",
     "name": "Curated Networking with Collably Network",
-    "description": "Collably Network on Web3Voyager: A curated networking tool matching founders, investors, and Web3 builders during TOKEN2049 Singapore.",
+    "description": "Curated Networking with Collably Network is a curated networking tool matching founders, investors, and web3 builders during token2049 singapore.",
     "startDate": "2026-10-07T07:00:00.000Z",
     "endDate": "2026-10-07T16:00:00.000Z",
     "city": "Singapore",
@@ -4070,13 +4056,13 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/cxpqyjcg",
     "coverImage": "https://media.web3voyager.com/recA4vBM8ujJAUWAI_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-tokenised-vip-singapore-26-10",
     "name": "TOKENISED VIP SINGAPORE",
-    "description": "TOKENISED VIP Singapore on Web3Voyager: A private networking event for C-level executives and institutional leaders in Web3 and digital assets.",
+    "description": "TOKENISED VIP SINGAPORE is a private networking event for c-level executives and institutional leaders in web3 and digital assets.",
     "startDate": "2026-10-06T08:00:00.000Z",
     "endDate": "2026-10-06T12:00:00.000Z",
     "city": "Global",
@@ -4084,13 +4070,13 @@
     "location": "Global, SG",
     "url": "https://lu.ma/tokenised",
     "coverImage": "https://media.web3voyager.com/recl3834t1Jmq45Mg_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-onchain-day-token2049-26-10",
     "name": "Onchain Day | TOKEN2049 Singapore",
-    "description": "Onchain Day | TOKEN2049 on Web3Voyager: An institutional-focused event exploring blockchain adoption across payments, stablecoins, and tokenization.",
+    "description": "Onchain Day | TOKEN2049 Singapore is an institutional-focused event exploring blockchain adoption across payments, stablecoins, and tokenization.",
     "startDate": "2026-10-06T02:00:00.000Z",
     "endDate": "2026-10-06T10:00:00.000Z",
     "city": "Singapore",
@@ -4098,7 +4084,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/onchaindaytokensingapore",
     "coverImage": "https://media.web3voyager.com/recBrTqwz4T4qf2Nw_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4112,7 +4098,7 @@
     "location": "Singapore, SG",
     "url": "https://lu.ma/multichaindaysingapore",
     "coverImage": "https://media.web3voyager.com/recDeU0zxSbFP2gvL_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4126,7 +4112,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/dealflowsg",
     "coverImage": "https://media.web3voyager.com/recEzolTYKvr9NHqo_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4140,7 +4126,7 @@
     "location": "Singapore, SG",
     "url": "https://informaconnect.com/superreturnasia/",
     "coverImage": "https://media.web3voyager.com/recbQM30MprMlfKIX_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4154,7 +4140,7 @@
     "location": "Singapore, SG",
     "url": "https://informaconnect.com/fundforumasia/",
     "coverImage": "https://media.web3voyager.com/recFau9LuQUNMAzLt_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4168,7 +4154,7 @@
     "location": "Singapore, SG",
     "url": "https://blockworks.com/event/digital-asset-summit-asia",
     "coverImage": "https://media.web3voyager.com/reccML8TDyn5vfdUW_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4182,7 +4168,7 @@
     "location": "Global, SG",
     "url": "https://www.hyperliquidforum.com/",
     "coverImage": "https://media.web3voyager.com/recL8SzwAUSWEkg6N_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4196,7 +4182,7 @@
     "location": "Singapore, SG",
     "url": "https://gammaprime.com/investing-summits/gammaprime-investing-summit-2026-singapore",
     "coverImage": "https://media.web3voyager.com/rec2kdVXqZvzgJ2yF_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4210,7 +4196,7 @@
     "location": "Global, SG",
     "url": "https://lu.ma/qc27yx6b",
     "coverImage": "https://media.web3voyager.com/recnnzrqh2rueBMln_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
@@ -4224,13 +4210,13 @@
     "location": "Singapore, SG",
     "url": "https://www.sui.io/basecamp",
     "coverImage": "https://media.web3voyager.com/rechAx63A6DI5h5DY_logo.png",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
     "id": "w3v-bitcoin-historico",
     "name": "Bitcoin Historico",
-    "description": "Bitcoin Histórico on Web3Voyager: two-day by the National Bitcoin Office of El Salvador with talks, workshops, and community meetups.",
+    "description": "Two-day by the National Bitcoin Office of El Salvador with talks, workshops, and community meetups.",
     "startDate": "2026-11-11T08:00:00.000Z",
     "endDate": "2026-11-12T20:00:00.000Z",
     "city": "San Salvador",
@@ -4238,7 +4224,7 @@
     "location": "San Salvador, SV",
     "url": "https://bitcoinhistorico.com",
     "coverImage": "https://bitcoinhistorico.com/wp-content/uploads/2025/08/Event-Thumbnail-Compressed-1024x576.jpg",
-    "source": "web3voyager",
+    "source": "curated-community",
     "month": "October 2026"
   },
   {
