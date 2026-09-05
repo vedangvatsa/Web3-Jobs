@@ -591,6 +591,9 @@ function normalizeCompanyName(name: string): string {
   if (lower.includes('franklin') || lower.includes('templeton')) {
     return 'franklin-templeton';
   }
+  if (lower.startsWith('ritual') || lower.includes('ritual')) {
+    return 'ritual';
+  }
   return name
    .toLowerCase()
    .replace(/\s+inc\.?$/i, '')
@@ -600,6 +603,20 @@ function normalizeCompanyName(name: string): string {
    .replace(/\s+labs?$/i, '')
    .replace(/[^a-z0-9]/g, '')
    .trim();
+}
+
+function resolveCanonicalCompanyName(normalized: string, originalName: string): string {
+  if (normalized === 'arbitrum') return 'Offchain Labs';
+  if (normalized === 'aztec') return 'Aztec Labs';
+  if (normalized === 'symbiotic') return 'Symbiotic';
+  if (normalized === 'wynd-labs') return 'Wynd Labs';
+  if (normalized === 'helius') return 'Helius';
+  if (normalized === 'liminal') return 'Liminal Custody';
+  if (normalized === 'strategy') return 'Strategy';
+  if (normalized === 'pwc') return 'PwC';
+  if (normalized === 'franklin-templeton') return 'Franklin Templeton';
+  if (normalized === 'ritual') return 'Ritual';
+  return originalName;
 }
 
 /**
@@ -618,7 +635,7 @@ export async function getCompanies(): Promise<Company[]> {
   
   // Use the first occurrence as the canonical name
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : (normalized === 'wynd-labs' ? 'Wynd Labs' : (normalized === 'helius' ? 'Helius' : (normalized === 'liminal' ? 'Liminal Custody' : (normalized === 'strategy' ? 'Strategy' : (normalized === 'pwc' ? 'PwC' : (normalized === 'franklin-templeton' ? 'Franklin Templeton' : companyName))))))));
+   const canonicalName = resolveCanonicalCompanyName(normalized, companyName);
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
@@ -697,20 +714,33 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   const normalized = normalizeCompanyName(companyName);
   
   if (!nameMap.has(normalized)) {
-   const canonicalName = normalized === 'arbitrum' ? 'Offchain Labs' : (normalized === 'aztec' ? 'Aztec Labs' : (normalized === 'symbiotic' ? 'Symbiotic' : (normalized === 'wynd-labs' ? 'Wynd Labs' : (normalized === 'helius' ? 'Helius' : (normalized === 'liminal' ? 'Liminal Custody' : (normalized === 'strategy' ? 'Strategy' : (normalized === 'pwc' ? 'PwC' : (normalized === 'franklin-templeton' ? 'Franklin Templeton' : companyName))))))));
+   const canonicalName = resolveCanonicalCompanyName(normalized, companyName);
    nameMap.set(normalized, canonicalName);
    companyMap.set(canonicalName, []);
   }
   
   const canonicalName = nameMap.get(normalized)!;
   companyMap.get(canonicalName)!.push(job);
-    if (createSlug(canonicalName) === slug || (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') || (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') || (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic') || (['wynd-labs', 'wynd-network', 'grass-wynd-labs-depin'].includes(slug) && canonicalName === 'Wynd Labs') || (['helius', 'helius-solana-infra'].includes(slug) && canonicalName === 'Helius') || (['liminal', 'liminal-custody', 'liminal-custody-tech'].includes(slug) && canonicalName === 'Liminal Custody') || (['strategy', 'microstrategy'].includes(slug) && canonicalName === 'Strategy') || (['pwc', 'pricewaterhousecoopers'].includes(slug) && canonicalName === 'PwC') || (['franklin-templeton', 'franklintempleton'].includes(slug) && canonicalName === 'Franklin Templeton')) {
-    targetCanonicalName = canonicalName;
-   }
+  if (
+    createSlug(canonicalName) === slug ||
+    (['arbitrum', 'offchain-labs', 'arbitrum-offchain-labs'].includes(slug) && canonicalName === 'Offchain Labs') ||
+    (['aztec', 'aztec-labs', 'aztec-labs-privacy-l2'].includes(slug) && canonicalName === 'Aztec Labs') ||
+    (['symbiotic', 'symbiotic-restaking'].includes(slug) && canonicalName === 'Symbiotic') ||
+    (['wynd-labs', 'wynd-network', 'grass-wynd-labs-depin'].includes(slug) && canonicalName === 'Wynd Labs') ||
+    (['helius', 'helius-solana-infra'].includes(slug) && canonicalName === 'Helius') ||
+    (['liminal', 'liminal-custody', 'liminal-custody-tech'].includes(slug) && canonicalName === 'Liminal Custody') ||
+    (['strategy', 'microstrategy'].includes(slug) && canonicalName === 'Strategy') ||
+    (['pwc', 'pricewaterhousecoopers'].includes(slug) && canonicalName === 'PwC') ||
+    (['franklin-templeton', 'franklintempleton'].includes(slug) && canonicalName === 'Franklin Templeton') ||
+    (['ritual', 'ritual-ai-web3', 'ritual-net'].includes(slug) && canonicalName === 'Ritual')
+  ) {
+   targetCanonicalName = canonicalName;
+  }
  });
  
  if (!targetCanonicalName) return null;
  
+ const canonicalSlug = createSlug(targetCanonicalName);
  const companyJobs = companyMap.get(targetCanonicalName) || [];
  const firstJobLink = companyJobs[0]?.link || '';
  let website = '';
@@ -721,8 +751,8 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
    }
  } catch (e) {}
 
- if (COMPANY_WEBSITE_OVERRIDES[slug]) {
-  website = COMPANY_WEBSITE_OVERRIDES[slug];
+ if (COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug]) {
+  website = COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug];
  }
 
  const latestJobDate = companyJobs.reduce((latest, j) => {
@@ -731,7 +761,7 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
  }, new Date(0));
 
  const company: Company = {
-  slug,
+  slug: canonicalSlug,
   name: targetCanonicalName,
   website,
   jobCount: companyJobs.length,
@@ -739,10 +769,10 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
   lastUpdated: latestJobDate.toISOString(),
  };
  
-  // Try to load enriched content
-  const content = await loadCompanyContent(slug);
+  // Try to load enriched content using canonicalSlug first, then requested slug
+  const content = (await loadCompanyContent(canonicalSlug)) || (await loadCompanyContent(slug));
   if (content?.website) company.website = content.website;
-  const desc = COMPANY_RICH_ABOUT[slug] || content?.description;
+  const desc = COMPANY_RICH_ABOUT[canonicalSlug] || COMPANY_RICH_ABOUT[slug] || content?.description;
   company.description = desc ? desc : buildListingDescription(company.name, company.jobs);
  
  return company;

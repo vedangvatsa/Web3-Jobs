@@ -141,6 +141,37 @@ export function getJobSlug(job: Job): string {
 }
 
 export function getCompanySlug(company: string): string {
+  const lower = (company || '').toLowerCase().trim();
+  if (lower.startsWith('ritual') || lower.includes('ritual')) {
+    return 'ritual';
+  }
+  if (lower.includes('franklin') || lower.includes('templeton')) {
+    return 'franklin-templeton';
+  }
+  if (lower.includes('offchain') || lower.includes('arbitrum')) {
+    return 'offchain-labs';
+  }
+  if (lower.includes('aztec')) {
+    return 'aztec-labs';
+  }
+  if (lower.includes('symbiotic')) {
+    return 'symbiotic';
+  }
+  if (lower.includes('wynd')) {
+    return 'wynd-labs';
+  }
+  if (lower.includes('helius')) {
+    return 'helius';
+  }
+  if (lower.includes('liminal')) {
+    return 'liminal-custody';
+  }
+  if (lower === 'strategy' || lower === 'microstrategy' || lower.includes('microstrategy')) {
+    return 'strategy';
+  }
+  if (lower === 'pwc' || lower.includes('pricewaterhousecoopers') || lower.startsWith('pwc ')) {
+    return 'pwc';
+  }
   return (company || 'web3')
     .toLowerCase()
     .replace(/[^a-z0-9]+/g, '-')

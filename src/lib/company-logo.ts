@@ -42,6 +42,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'pwc': 'pwc',
   'franklintempleton': 'franklin-templeton',
   'franklin-templeton': 'franklin-templeton',
+  'ritual-ai-web3': 'ritual',
+  'ritual': 'ritual',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
