@@ -390,6 +390,9 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'szns': 'https://szns.io',
  'impossible-finance': 'https://impossible.finance',
  'ritual': 'https://ritual.net',
+ 'nomic-foundation': 'https://nomic.foundation',
+ 'nomic': 'https://nomic.foundation',
+ 'nomicfoundation': 'https://nomic.foundation',
  'mantra-chain': 'https://www.mantrachain.io',
  'lightning-labs': 'https://lightning.engineering',
  'turnkey': 'https://www.turnkey.com',
@@ -594,6 +597,9 @@ function normalizeCompanyName(name: string): string {
   if (lower.startsWith('ritual') || lower.includes('ritual')) {
     return 'ritual';
   }
+  if (lower.includes('nomic')) {
+    return 'nomic-foundation';
+  }
   return name
    .toLowerCase()
    .replace(/\s+inc\.?$/i, '')
@@ -616,6 +622,7 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   if (normalized === 'pwc') return 'PwC';
   if (normalized === 'franklin-templeton') return 'Franklin Templeton';
   if (normalized === 'ritual') return 'Ritual';
+  if (normalized === 'nomic-foundation') return 'Nomic Foundation';
   return originalName;
 }
 
@@ -732,7 +739,8 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
     (['strategy', 'microstrategy'].includes(slug) && canonicalName === 'Strategy') ||
     (['pwc', 'pricewaterhousecoopers'].includes(slug) && canonicalName === 'PwC') ||
     (['franklin-templeton', 'franklintempleton'].includes(slug) && canonicalName === 'Franklin Templeton') ||
-    (['ritual', 'ritual-ai-web3', 'ritual-net'].includes(slug) && canonicalName === 'Ritual')
+    (['ritual', 'ritual-ai-web3', 'ritual-net'].includes(slug) && canonicalName === 'Ritual') ||
+    (['nomic-foundation', 'nomic', 'nomicfoundation'].includes(slug) && canonicalName === 'Nomic Foundation')
   ) {
    targetCanonicalName = canonicalName;
   }
