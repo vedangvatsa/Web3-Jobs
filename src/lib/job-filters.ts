@@ -3,7 +3,7 @@
  * and ATS placeholder / test job postings that must never be published as standalone roles.
  */
 
-const GENERAL_APP_REGEX = /(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|talent network|future opportunities|future consideration|future builders|future roles|join our talent|dream job|spontaneous application|open position|open application|speculative application|unsolicited application|general pool|general submission|register your interest|submit your (?:cv|resume)|create your own role)/i;
+const GENERAL_APP_REGEX = /(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|talent network|future opportunities|future consideration|future builders|future roles|join our talent|dream job|spontaneous application|open position|open application|speculative application|unsolicited application|general pool|general submission|register your interest|submit your (?:cv|resume)|create your own role|don.?t see (?:a|your) role|role that fits)/i;
 
 const PLACEHOLDER_TITLE_PATTERNS = [
   'default template',

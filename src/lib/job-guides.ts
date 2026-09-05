@@ -352,26 +352,26 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
 
   // 2. Short ID fallback: match trailing digits (e.g. "64006" in "role64006" or "engineer64006")
   // or trailing hex snippet (e.g. "85bda" in "marketing85bda")
-  let trailingSnippet: string | null = null;
-  const digitMatch = cleanSlug.match(/(\d{4,})$/);
-  if (digitMatch) {
-    trailingSnippet = digitMatch[1];
-  } else {
-    const withoutLeadingLetters = cleanSlug.replace(/^[a-z]+/, '');
-    if (withoutLeadingLetters.length >= 4 && /^[a-f0-9]+$/.test(withoutLeadingLetters)) {
-      trailingSnippet = withoutLeadingLetters;
+  // Only applies to single-token short slugs (no hyphens) with at least 4 digits or 5-char hex
+  if (!cleanSlug.includes('-')) {
+    let trailingSnippet: string | null = null;
+    const digitMatch = cleanSlug.match(/^[a-z]+(\d{4,})$/);
+    if (digitMatch) {
+      trailingSnippet = digitMatch[1];
     } else {
-      const trailingMatch = cleanSlug.match(/([a-z0-9]{4,10})$/);
-      if (trailingMatch) trailingSnippet = trailingMatch[1];
+      const hexMatch = cleanSlug.match(/^[a-z]+([a-f0-9]{5})$/);
+      if (hexMatch && /\d/.test(hexMatch[1])) {
+        trailingSnippet = hexMatch[1];
+      }
     }
-  }
 
-  if (trailingSnippet) {
-    const matchByShortId = allJobs.find((job) => {
-      const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-      return cleanId.endsWith(trailingSnippet!);
-    });
-    if (matchByShortId) return matchByShortId;
+    if (trailingSnippet) {
+      const matchByShortId = allJobs.find((job) => {
+        const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
+        return cleanId.endsWith(trailingSnippet!);
+      });
+      if (matchByShortId) return matchByShortId;
+    }
   }
 
   // 3. Raw job ID match (e.g. UUID or Greenhouse integer ID in URL)
