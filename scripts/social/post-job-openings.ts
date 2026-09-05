@@ -580,6 +580,100 @@ async function postToReddit(
   return submitData.json?.data?.url || submitData.json?.data?.id || 'published';
 }
 
+// ── Instagram Carousel (Meta Graph API v21.0) ──
+
+async function postToInstagram(
+  caption: string,
+  imageUrls: string[],
+  igAccountId: string = process.env.INSTAGRAM_ACCOUNT_ID || '17841407771319845'
+): Promise<string> {
+  const pageToken = process.env.META_PAGE_TOKEN;
+
+  if (!pageToken) {
+    throw new Error('Meta Page Token missing (META_PAGE_TOKEN)');
+  }
+  if (!igAccountId) {
+    throw new Error('Instagram Account ID missing (INSTAGRAM_ACCOUNT_ID)');
+  }
+
+  if (imageUrls.length === 1) {
+    // Single image container
+    const containerRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media`, {
+      method: 'POST',
+      body: new URLSearchParams({
+        access_token: pageToken,
+        image_url: imageUrls[0],
+        caption,
+      }),
+    });
+    const containerData = (await containerRes.json()) as { id?: string; error?: any };
+    if (!containerRes.ok || containerData.error) {
+      throw new Error(`Instagram container creation failed: ${JSON.stringify(containerData.error || containerData)}`);
+    }
+
+    // Publish container
+    const publishRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media_publish`, {
+      method: 'POST',
+      body: new URLSearchParams({
+        access_token: pageToken,
+        creation_id: containerData.id!,
+      }),
+    });
+    const publishData = (await publishRes.json()) as { id?: string; error?: any };
+    if (!publishRes.ok || publishData.error) {
+      throw new Error(`Instagram publish failed: ${JSON.stringify(publishData.error || publishData)}`);
+    }
+    return publishData.id!;
+  } else {
+    // Multi-image carousel container
+    const childIds: string[] = [];
+    for (const url of imageUrls) {
+      const childRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media`, {
+        method: 'POST',
+        body: new URLSearchParams({
+          access_token: pageToken,
+          image_url: url,
+          is_carousel_item: 'true',
+        }),
+      });
+      const childData = (await childRes.json()) as { id?: string; error?: any };
+      if (!childRes.ok || childData.error) {
+        throw new Error(`Instagram carousel child creation failed: ${JSON.stringify(childData.error || childData)}`);
+      }
+      childIds.push(childData.id!);
+    }
+
+    // Create Carousel parent container
+    const carouselRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media`, {
+      method: 'POST',
+      body: new URLSearchParams({
+        access_token: pageToken,
+        media_type: 'CAROUSEL',
+        children: childIds.join(','),
+        caption,
+      }),
+    });
+    const carouselData = (await carouselRes.json()) as { id?: string; error?: any };
+    if (!carouselRes.ok || carouselData.error) {
+      throw new Error(`Instagram carousel parent creation failed: ${JSON.stringify(carouselData.error || carouselData)}`);
+    }
+
+    // Publish carousel
+    const publishRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media_publish`, {
+      method: 'POST',
+      body: new URLSearchParams({
+        access_token: pageToken,
+        creation_id: carouselData.id!,
+      }),
+    });
+    const publishData = (await publishRes.json()) as { id?: string; error?: any };
+    if (!publishRes.ok || publishData.error) {
+      throw new Error(`Instagram carousel publish failed: ${JSON.stringify(publishData.error || publishData)}`);
+    }
+    return publishData.id!;
+  }
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
@@ -833,6 +927,25 @@ async function main() {
       });
     } catch (err) {
       console.error(`✗ Failed to post to Reddit:`, (err as Error).message);
+    }
+  }
+
+  if (platform === 'instagram' || shouldPostAll) {
+    try {
+      console.log('Publishing Carousel to Instagram (Meta Graph API)...');
+      const igCaption = `⚡ ${company} is hiring a ${title} (${location || 'Remote'})!\n\n📌 Verified directly on Hashtag Web3 — no recruiter middlemen.\n\n🔗 Tap link in bio or visit hashtagweb3.com/${slug}/ig to apply!\n.\n.\n#web3 #web3jobs #web3careers #remoteweb3 #web3community #hashtagweb3`;
+      const igPostId = await postToInstagram(igCaption, [ogImageUrl]);
+      console.log(`✓ Successfully published Carousel to Instagram! Post ID: ${igPostId}`);
+      state.history.push({
+        slug,
+        company,
+        title,
+        platform: 'instagram',
+        postedAt: now,
+        postId: igPostId,
+      });
+    } catch (err) {
+      console.error(`✗ Failed to post to Instagram:`, (err as Error).message);
     }
   }
 
