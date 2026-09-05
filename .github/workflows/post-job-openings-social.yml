@@ -1,4 +1,4 @@
-name: Post Job Openings to X, Threads & Bluesky
+name: Post Job Openings to X, Threads, Bluesky & Farcaster
 
 on:
   schedule:
@@ -7,13 +7,14 @@ on:
   workflow_dispatch:
     inputs:
       platform:
-        description: 'Target platform (all, x, threads, bluesky)'
+        description: 'Target platform (all, x, threads, bluesky, farcaster)'
         type: choice
         options:
           - all
           - x
           - threads
           - bluesky
+          - farcaster
         default: all
       dry_run:
         description: 'Dry run mode (preview without posting)'
@@ -59,6 +60,8 @@ jobs:
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
           BLUESKY_HANDLE: hashtagweb3.bsky.social
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
+          NEYNAR_API_KEY: ${{ secrets.NEYNAR_API_KEY }}
+          FARCASTER_SIGNER_UUID: ${{ secrets.FARCASTER_SIGNER_UUID }}
         run: |
           ARGS="--platform ${{ github.event.inputs.platform || 'all' }}"
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
