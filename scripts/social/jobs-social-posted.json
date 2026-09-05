@@ -1,5 +1,5 @@
 {
-  "lastIndex": 7,
+  "lastIndex": 11,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -8,7 +8,8 @@
     "seniorpwc06",
     "managerpwc05",
     "seniorpwc04",
-    "architectpwc03"
+    "architectpwc03",
+    "role0e83c"
   ],
   "history": [
     {
@@ -162,6 +163,62 @@
       "platform": "facebook",
       "postedAt": "2026-09-05T17:20:06.255Z",
       "postId": "1080784844528750"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "x",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "2096332227152154803"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "18134256478723461"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muscgef73t23"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "0x4203552c72d1e5783909688cdcc055e115e59ecc"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "6a9c793bf97391de04bd9b6a"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "1080887307851837"
+    },
+    {
+      "slug": "role0e83c",
+      "company": "Marketnode",
+      "title": "Test Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-05T20:18:45.458Z",
+      "postId": "18123039439873127"
     }
   ]
 }
