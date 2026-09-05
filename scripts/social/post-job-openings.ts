@@ -505,6 +505,81 @@ async function postToFacebook(text: string, imageUrl?: string): Promise<string> 
   return data.id || data.post_id || 'published';
 }
 
+// ── Reddit (r/hashtagweb3 API) ──
+
+async function postToReddit(
+  title: string,
+  bodyMarkdown: string,
+  subreddit: string = 'hashtagweb3'
+): Promise<string> {
+  const clientId = process.env.REDDIT_CLIENT_ID;
+  const clientSecret = process.env.REDDIT_CLIENT_SECRET;
+  const username = process.env.REDDIT_USERNAME;
+  const password = process.env.REDDIT_PASSWORD;
+
+  if (!clientId || !clientSecret || !username || !password) {
+    throw new Error('Missing Reddit API credentials (REDDIT_CLIENT_ID, REDDIT_CLIENT_SECRET, REDDIT_USERNAME, REDDIT_PASSWORD)');
+  }
+
+  // 1. Get access token via password grant
+  const authHeader = Buffer.from(`${clientId}:${clientSecret}`).toString('base64');
+  const tokenRes = await fetch('https://www.reddit.com/api/v1/access_token', {
+    method: 'POST',
+    headers: {
+      Authorization: `Basic ${authHeader}`,
+      'Content-Type': 'application/x-www-form-urlencoded',
+      'User-Agent': `HashtagWeb3Bot/1.0.0 (by /u/${username})`,
+    },
+    body: new URLSearchParams({
+      grant_type: 'password',
+      username,
+      password,
+    }),
+  });
+
+  if (!tokenRes.ok) {
+    const errText = await tokenRes.text();
+    throw new Error(`Reddit token exchange failed (${tokenRes.status}): ${errText}`);
+  }
+
+  const tokenData = (await tokenRes.json()) as { access_token?: string; error?: string };
+  if (!tokenData.access_token) {
+    throw new Error(`Reddit token error: ${JSON.stringify(tokenData)}`);
+  }
+
+  // 2. Submit post
+  const submitRes = await fetch('https://oauth.reddit.com/api/submit', {
+    method: 'POST',
+    headers: {
+      Authorization: `Bearer ${tokenData.access_token}`,
+      'User-Agent': `HashtagWeb3Bot/1.0.0 (by /u/${username})`,
+      'Content-Type': 'application/x-www-form-urlencoded',
+    },
+    body: new URLSearchParams({
+      sr: subreddit,
+      kind: 'self',
+      title,
+      text: bodyMarkdown,
+      resubmit: 'true',
+    }),
+  });
+
+  if (!submitRes.ok) {
+    const errText = await submitRes.text();
+    throw new Error(`Reddit submit failed (${submitRes.status}): ${errText}`);
+  }
+
+  const submitData = (await submitRes.json()) as {
+    json?: { errors?: any[]; data?: { url?: string; id?: string } };
+  };
+
+  if (submitData.json?.errors && submitData.json.errors.length > 0) {
+    throw new Error(`Reddit API error: ${JSON.stringify(submitData.json.errors)}`);
+  }
+
+  return submitData.json?.data?.url || submitData.json?.data?.id || 'published';
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
@@ -569,6 +644,7 @@ async function main() {
   const farcasterUrl = `${SITE_URL}/${slug}/fc`;
   const linkedinUrl = `${SITE_URL}/${slug}/li`;
   const facebookUrl = `${SITE_URL}/${slug}/fb`;
+  const redditUrl = `${SITE_URL}/${slug}/rd`;
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
@@ -576,6 +652,11 @@ async function main() {
   const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
   const linkedinPostText = `${company} is hiring ${title}\n\n${linkedinUrl}`;
   const facebookPostText = `${company} is hiring ${title}\n\n${facebookUrl}`;
+
+  const metaDesc = buildUniqueJobMetaDescription(selectedJob as any);
+  const deptName = typeof selectedJob.department === 'string' ? selectedJob.department : selectedJob.department?.name || '';
+  const redditTitle = `[Hiring] ${company} is hiring a ${title} (${location || 'Remote'})`;
+  const redditMarkdown = `**Company:** [${company}](${redditUrl})\n**Role:** ${title}\n**Location:** ${location || 'Remote'}${deptName ? `\n**Department:** ${deptName}` : ''}\n\n### Overview\n${metaDesc}\n\n---\n🔗 **Apply Directly / View Details:** [https://hashtagweb3.com/${slug}/rd](${redditUrl})\n\n*Verified by [Hashtag Web3](https://hashtagweb3.com) — The Web3 Career & Event Resource Platform.*`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -613,10 +694,15 @@ async function main() {
 
   console.log(`\n--- Preview: Facebook Page Post (Meta Graph API) ---`);
   console.log(facebookPostText);
-  console.log(`----------------------------------------------------\n`);
+  console.log(`----------------------------------------------------`);
+
+  console.log(`\n--- Preview: Reddit Post (r/hashtagweb3) ---`);
+  console.log(`Title: ${redditTitle}`);
+  console.log(redditMarkdown);
+  console.log(`---------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, or Facebook.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, or Reddit.');
     return;
   }
 
@@ -729,6 +815,24 @@ async function main() {
       });
     } catch (err) {
       console.error(`✗ Failed to post to Facebook:`, (err as Error).message);
+    }
+  }
+
+  if (platform === 'reddit' || shouldPostAll) {
+    try {
+      console.log('Publishing to Reddit (r/hashtagweb3)...');
+      const redditPostId = await postToReddit(redditTitle, redditMarkdown, 'hashtagweb3');
+      console.log(`✓ Successfully published to Reddit! Post: ${redditPostId}`);
+      state.history.push({
+        slug,
+        company,
+        title,
+        platform: 'reddit',
+        postedAt: now,
+        postId: redditPostId,
+      });
+    } catch (err) {
+      console.error(`✗ Failed to post to Reddit:`, (err as Error).message);
     }
   }
 
