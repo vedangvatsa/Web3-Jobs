@@ -346,6 +346,55 @@ async function postToBluesky(
   return postData.uri;
 }
 
+// ── Farcaster / Neynar ──
+
+async function postToFarcaster(
+  text: string,
+  linkUrl: string,
+  ogImageUrl: string,
+  channelId: string = 'jobs'
+): Promise<string> {
+  const apiKey = process.env.NEYNAR_API_KEY;
+  const signerUuid = process.env.FARCASTER_SIGNER_UUID;
+
+  if (!apiKey) {
+    throw new Error('Neynar API key missing (NEYNAR_API_KEY)');
+  }
+  if (!signerUuid) {
+    throw new Error('Farcaster Signer UUID missing (FARCASTER_SIGNER_UUID)');
+  }
+
+  const payload: any = {
+    signer_uuid: signerUuid,
+    text,
+    embeds: [
+      { url: linkUrl },
+      ...(ogImageUrl ? [{ url: ogImageUrl }] : []),
+    ],
+  };
+
+  if (channelId) {
+    payload.channel_id = channelId;
+  }
+
+  const res = await fetch('https://api.neynar.com/v2/farcaster/cast', {
+    method: 'POST',
+    headers: {
+      'x-api-key': apiKey,
+      'Content-Type': 'application/json',
+    },
+    body: JSON.stringify(payload),
+  });
+
+  if (!res.ok) {
+    const err = await res.text();
+    throw new Error(`Farcaster cast failed: ${res.status} ${err}`);
+  }
+
+  const data = (await res.json()) as any;
+  return data.cast?.hash || 'published';
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
@@ -407,10 +456,12 @@ async function main() {
   const xUrl = `${SITE_URL}/${slug}/x`;
   const threadsUrl = `${SITE_URL}/${slug}/th`;
   const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
+  const farcasterUrl = `${SITE_URL}/${slug}/fc`;
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
   const blueskyPostText = `${company} is hiring ${title}\n\n${blueskyUrl}`;
+  const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -436,10 +487,14 @@ async function main() {
 
   console.log(`\n--- Preview: Bluesky Post ---`);
   console.log(blueskyPostText);
-  console.log(`-----------------------------\n`);
+  console.log(`-----------------------------`);
+
+  console.log(`\n--- Preview: Farcaster Post (Channel: /jobs) ---`);
+  console.log(farcasterPostText);
+  console.log(`-----------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, or Bluesky.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, or Farcaster.');
     return;
   }
 
@@ -498,6 +553,24 @@ async function main() {
       });
     } catch (err) {
       console.error(`✗ Failed to post to Bluesky:`, (err as Error).message);
+    }
+  }
+
+  if (platform === 'farcaster' || shouldPostAll) {
+    try {
+      console.log('Publishing to Farcaster / Warpcast...');
+      const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, ogImageUrl, 'jobs');
+      console.log(`✓ Successfully published to Farcaster! Cast Hash: ${castHash}`);
+      state.history.push({
+        slug,
+        company,
+        title,
+        platform: 'farcaster',
+        postedAt: now,
+        postId: castHash,
+      });
+    } catch (err) {
+      console.error(`✗ Failed to post to Farcaster:`, (err as Error).message);
     }
   }
 
