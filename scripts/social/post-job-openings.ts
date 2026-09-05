@@ -705,13 +705,32 @@ async function main() {
     }
   } else {
     const totalJobs = jobs.length;
+    // Extract last posted company from state history
+    const lastPostedCompany = state.history && state.history.length > 0
+      ? state.history[state.history.length - 1].company.toLowerCase()
+      : null;
+
+    // First pass: find an unposted job from a DIFFERENT company than the last posted company
     for (let i = 0; i < totalJobs; i++) {
       const idx = (state.lastIndex + i) % totalJobs;
       const candidate = jobs[idx];
-      if (!postedSet.has(candidate.slug)) {
+      if (!postedSet.has(candidate.slug) && candidate.company.toLowerCase() !== lastPostedCompany) {
         selectedJob = candidate;
         state.lastIndex = (idx + 1) % totalJobs;
         break;
+      }
+    }
+
+    // Fallback pass: if all unposted jobs belong to the same company, pick any unposted job
+    if (!selectedJob) {
+      for (let i = 0; i < totalJobs; i++) {
+        const idx = (state.lastIndex + i) % totalJobs;
+        const candidate = jobs[idx];
+        if (!postedSet.has(candidate.slug)) {
+          selectedJob = candidate;
+          state.lastIndex = (idx + 1) % totalJobs;
+          break;
+        }
       }
     }
 
