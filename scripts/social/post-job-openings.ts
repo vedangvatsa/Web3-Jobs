@@ -1,6 +1,6 @@
 #!/usr/bin/env npx tsx
 /**
- * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster & LinkedIn)
+ * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn & Facebook)
  *
  * Posts verified job openings to social networks in the exact format:
  *
@@ -11,11 +11,12 @@
  *   https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
  *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
  *   https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
+ *   https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
  *
  * Features:
  *   - Automatically cycles through active, high-quality jobs
  *   - Verifies dynamic OG image availability prior to posting
- *   - Strips social suffix to automatically append UTM tracking (e.g. utm_source=linkedin)
+ *   - Strips social suffix to automatically append UTM tracking (e.g. utm_source=facebook)
  *   - Tracks posted slugs in scripts/social/jobs-social-posted.json to prevent repeats
  *   - Supports --dry-run for zero-risk testing without making API calls
  *
@@ -25,6 +26,7 @@
  *   npx tsx scripts/social/post-job-openings.ts --platform bluesky --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform farcaster --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform linkedin --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform facebook --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all
  */
@@ -463,6 +465,46 @@ async function postToLinkedInBuffer(text: string, imageUrl?: string): Promise<st
   throw new Error(`Buffer post creation failed: ${result?.message || 'unknown error'}`);
 }
 
+// ── Facebook Page (Meta Graph API) ──
+
+async function postToFacebook(text: string, imageUrl?: string): Promise<string> {
+  const pageId = process.env.META_PAGE_ID || process.env.FACEBOOK_PAGE_ID;
+  const pageToken = process.env.META_PAGE_TOKEN || process.env.FACEBOOK_PAGE_ACCESS_TOKEN;
+
+  if (!pageId) {
+    throw new Error('Facebook Page ID missing (META_PAGE_ID or FACEBOOK_PAGE_ID)');
+  }
+  if (!pageToken) {
+    throw new Error('Facebook Page Access Token missing (META_PAGE_TOKEN or FACEBOOK_PAGE_ACCESS_TOKEN)');
+  }
+
+  const endpoint = imageUrl
+    ? `https://graph.facebook.com/v21.0/${pageId}/photos`
+    : `https://graph.facebook.com/v21.0/${pageId}/feed`;
+
+  const params = new URLSearchParams();
+  params.append('access_token', pageToken);
+
+  if (imageUrl) {
+    params.append('url', imageUrl);
+    params.append('caption', text);
+  } else {
+    params.append('message', text);
+  }
+
+  const res = await fetch(endpoint, {
+    method: 'POST',
+    body: params,
+  });
+
+  const data = await res.json();
+  if (!res.ok || data.error) {
+    throw new Error(`Facebook API error: ${JSON.stringify(data.error || data)}`);
+  }
+
+  return data.id || data.post_id || 'published';
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
@@ -526,12 +568,14 @@ async function main() {
   const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
   const farcasterUrl = `${SITE_URL}/${slug}/fc`;
   const linkedinUrl = `${SITE_URL}/${slug}/li`;
+  const facebookUrl = `${SITE_URL}/${slug}/fb`;
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
   const blueskyPostText = `${company} is hiring ${title}\n\n${blueskyUrl}`;
   const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
   const linkedinPostText = `${company} is hiring ${title}\n\n${linkedinUrl}`;
+  const facebookPostText = `${company} is hiring ${title}\n\n${facebookUrl}`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -565,10 +609,14 @@ async function main() {
 
   console.log(`\n--- Preview: LinkedIn Post (Company Page via Buffer) ---`);
   console.log(linkedinPostText);
-  console.log(`--------------------------------------------------------\n`);
+  console.log(`--------------------------------------------------------`);
+
+  console.log(`\n--- Preview: Facebook Page Post (Meta Graph API) ---`);
+  console.log(facebookPostText);
+  console.log(`----------------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, or LinkedIn.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, or Facebook.');
     return;
   }
 
@@ -663,6 +711,24 @@ async function main() {
       });
     } catch (err) {
       console.error(`✗ Failed to post to LinkedIn:`, (err as Error).message);
+    }
+  }
+
+  if (platform === 'facebook' || shouldPostAll) {
+    try {
+      console.log('Publishing to Facebook Page (Meta Graph API)...');
+      const fbPostId = await postToFacebook(facebookPostText, ogImageUrl);
+      console.log(`✓ Successfully published to Facebook! Post ID: ${fbPostId}`);
+      state.history.push({
+        slug,
+        company,
+        title,
+        platform: 'facebook',
+        postedAt: now,
+        postId: fbPostId,
+      });
+    } catch (err) {
+      console.error(`✗ Failed to post to Facebook:`, (err as Error).message);
     }
   }
 
