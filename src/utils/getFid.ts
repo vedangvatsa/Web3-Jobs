@@ -20,9 +20,8 @@ export const getAccount = () => {
 export const getFid = async (): Promise<number> => {
   const account = getAccount();
 
-  // Lookup user details using the custody address.
-  const { user: farcasterDeveloper } =
-    await neynarClient.lookupUserByCustodyAddress({ custodyAddress: account.address });
-
-  return Number(farcasterDeveloper.fid);
+  if (process.env.FARCASTER_FID) {
+    return Number(process.env.FARCASTER_FID);
+  }
+  return 3350013;
 };
