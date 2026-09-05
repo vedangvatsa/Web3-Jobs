@@ -97,28 +97,13 @@ jobs:
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
         continue-on-error: true
-
-      - name: Post to X
-        env:
-          X_CONSUMER_KEY: ${{ secrets.X_CONSUMER_KEY }}
-          X_CONSUMER_SECRET: ${{ secrets.X_CONSUMER_SECRET }}
-          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
-          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
-        run: npx tsx scripts/social/publish-social.ts --platform twitter
-        continue-on-error: true
-
+      # Note: X and Threads postings have been migrated to the dedicated
+      # job openings workflow (.github/workflows/post-job-openings-social.yml)
       - name: Post to Bluesky
         env:
           BLUESKY_HANDLE: hashtagweb3.bsky.social
           BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: npx tsx scripts/social/publish-social.ts --platform bluesky
-        continue-on-error: true
-
-      - name: Post to Threads
-        env:
-          THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
-          THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
-        run: npx tsx scripts/social/publish-social.ts --platform threads
         continue-on-error: true
 
       - name: Post to LinkedIn
