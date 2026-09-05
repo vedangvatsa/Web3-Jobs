@@ -951,7 +951,17 @@ async function main() {
 
   if (platform === 'instagram' || shouldPostAll) {
     try {
-      const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nApply directly: hashtagweb3.com/${slug}/ig\n\nhashtagweb3.com\nSubscribed by 60k+ Web3 builders and professionals.\n\n#web3 #web3jobs #hashtagweb3`;
+      const TAGLINES = [
+        'Subscribed by 60k+ Web3 builders and professionals.',
+        'The Web3 career and event resource platform.',
+        'Read by founders, core devs, and protocol researchers.',
+        'Verified Web3 jobs, guides, and ecosystem tools.',
+        'Updated daily with active blockchain openings and guides.',
+        'The leading open resource for Web3 talent.',
+      ];
+      const activeTagline = TAGLINES[state.history.length % TAGLINES.length];
+
+      const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nWeb3 jobs: hashtagweb3.com\n\n${activeTagline}\n\n#web3 #web3jobs #hashtagweb3`;
       const igPostId = await postToInstagram(igCaption, [ogImageUrl]);
       console.log(`✓ Successfully published Carousel to Instagram! Post ID: ${igPostId}`);
       state.history.push({
