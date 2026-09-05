@@ -11,7 +11,7 @@
     "location": "Nairobi & Kilifi, Kenya",
     "url": "https://ethsafari.xyz",
     "website": "https://ethsafari.xyz",
-    "coverImage": "https://images.unsplash.com/photo-1516426122078-c23e76319801?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/ethsafari-banner.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -27,7 +27,7 @@
     "location": "Taipei, Taiwan",
     "url": "https://www.taipeiblockchainweek.com",
     "website": "https://www.taipeiblockchainweek.com",
-    "coverImage": "https://images.unsplash.com/photo-1536599018102-9f803c140fc1?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "http://static1.squarespace.com/static/62e43f6fccb8357cfc29e4de/t/68467213cc6de75b44dc615a/1779763798757/TBW+onboard+AI.png?format=1500w",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -43,7 +43,7 @@
     "location": "Warsaw, Poland",
     "url": "https://web3warsaw.com",
     "website": "https://web3warsaw.com",
-    "coverImage": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/web3-warsaw.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -59,7 +59,7 @@
     "location": "Gaylord National Resort & Convention Center, Washington DC, USA",
     "url": "https://stablecon.com",
     "website": "https://stablecon.com",
-    "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://stablecon.com/wp-content/uploads/2026/05/HENR2831.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -75,7 +75,7 @@
     "location": "Times Square, New York, USA",
     "url": "https://unblockchainweek.com",
     "website": "https://unblockchainweek.com",
-    "coverImage": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://www.blockchainweek.ai/opengraph-image.png?opengraph-image.0c6-04-u9_oc0.png?dpl=dpl_7prKPNcDo1WkRVtBPS3Wq1wjthrH",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -91,7 +91,7 @@
     "location": "Rome, Italy",
     "url": "https://www.ethrome.org",
     "website": "https://www.ethrome.org",
-    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://ethrome.org/opengraph-image.png?9b40b21b2b23e020",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -107,7 +107,7 @@
     "location": "Kokerei Hansa, Dortmund, Germany",
     "url": "https://www.conf3rence.com",
     "website": "https://www.conf3rence.com",
-    "coverImage": "https://images.unsplash.com/photo-1546554137-f86b9593a222?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/conf3rence-banner.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -123,7 +123,7 @@
     "location": "Lisbon, Portugal",
     "url": "https://modular.xyz/summit",
     "website": "https://modular.xyz/summit",
-    "coverImage": "https://images.unsplash.com/photo-1533105079780-92b9be482077?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/modular-summit-og.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -139,7 +139,7 @@
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com",
     "website": "https://eblockchainconvention.com",
-    "coverImage": "https://images.unsplash.com/photo-1516483638261-f4dbaf036963?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/05/Identidad_EBC_AAFF_Extended-768x383.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -155,7 +155,7 @@
     "location": "Chelsea Industrial, New York, USA",
     "url": "https://www.avalanchesummit.com",
     "website": "https://www.avalanchesummit.com",
-    "coverImage": "https://images.unsplash.com/photo-1508057198894-247b23fe5ade?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://irp.cdn-website.com/02019734/dms3rep/multi/opt/170412-1920w.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -171,7 +171,7 @@
     "location": "Tokyo, Japan",
     "url": "https://ethglobal.com/events/tokyo2026",
     "website": "https://ethglobal.com/events/tokyo2026",
-    "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/ethglobal-tokyo.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -187,7 +187,7 @@
     "location": "Walkerhill Hotels & Resorts, Seoul, South Korea",
     "url": "https://koreablockchainweek.com",
     "website": "https://koreablockchainweek.com",
-    "coverImage": "https://images.unsplash.com/photo-1538485399081-7191377e8241?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://framerusercontent.com/images/pesxh0NQOVpQRnQ7QadhG4wMY.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -203,7 +203,7 @@
     "location": "Singapore, Singapore",
     "url": "https://summit.cardano.org",
     "website": "https://summit.cardano.org",
-    "coverImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://framerusercontent.com/images/T2alYSiWTi1pC1A2z7r4Wf58Qyk.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -219,7 +219,7 @@
     "location": "Marina Bay Sands, Singapore",
     "url": "https://asia.token2049.com",
     "website": "https://asia.token2049.com",
-    "coverImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://token2049.nyc3.cdn.digitaloceanspaces.com/Singapore/OG/T2049%20Singapore%20-%20OpenGraph%20(2026)%202%20OCT%202025.avif",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -235,7 +235,7 @@
     "location": "Singapore, Singapore",
     "url": "https://sui.io/basecamp",
     "website": "https://sui.io/basecamp",
-    "coverImage": "https://images.unsplash.com/photo-1560969184-10fe8719e047?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://cdn.prod.website-files.com/68e8e0120513ba12c5cd12e0/6a7f0208892c6f188c673a50_sui-basecamp-og.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -251,7 +251,7 @@
     "location": "Brooklyn, New York, USA",
     "url": "https://blockworks.co/permissionless",
     "website": "https://blockworks.co/permissionless",
-    "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://blockworks.com/images/share-image.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -267,7 +267,7 @@
     "location": "New York City, USA",
     "url": "https://ripple.com/events/swell/",
     "website": "https://ripple.com/events/swell/",
-    "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://cdn.prod.website-files.com/69fdabd33a6b8e8e1cf71a23/6a174321acf41661f83a1aa0_Swell%202026_OpenGraph%20Image_1200x630.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -283,7 +283,7 @@
     "location": "Location TBA",
     "url": "https://smartcon.chain.link",
     "website": "https://smartcon.chain.link",
-    "coverImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://cdn.prod.website-files.com/67eeec04cc5d506487a28023/67fb3cbff52442df00ff9fd4_dae0ba2f77b42805da438afe805472e0_OG.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -299,7 +299,7 @@
     "location": "Mumbai, India",
     "url": "https://www.indiablockchainweek.com",
     "website": "https://www.indiablockchainweek.com",
-    "coverImage": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://indiablockchainweek.com/assets/images/2026/og-image.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -315,7 +315,7 @@
     "location": "Mumbai, India",
     "url": "https://devcon.org",
     "website": "https://devcon.org",
-    "coverImage": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://www.devcon.org/assets/images/new-og.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -331,7 +331,7 @@
     "location": "Grand Hyatt, Hong Kong",
     "url": "https://cosmoverse.org",
     "website": "https://cosmoverse.org",
-    "coverImage": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d2?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://framerusercontent.com/images/Ol6JZHzkoOMo3CwJIvZEouHJO18.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -347,7 +347,7 @@
     "location": "Mexico City, Mexico",
     "url": "https://labitconf.com",
     "website": "https://labitconf.com",
-    "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/labitconf-logo.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -363,7 +363,7 @@
     "location": "Mumbai, India",
     "url": "https://ethglobal.com/events/mumbai",
     "website": "https://ethglobal.com/events/mumbai",
-    "coverImage": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/ethglobal-mumbai.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -379,7 +379,7 @@
     "location": "Bangkok, Thailand",
     "url": "https://devconnect.org",
     "website": "https://devconnect.org",
-    "coverImage": "https://images.unsplash.com/photo-1540575467063-178a50c2df87?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://devconnect.org/og-argentina.png?reset=1",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -395,7 +395,7 @@
     "location": "Olympia London, London, UK",
     "url": "https://solana.com/breakpoint",
     "website": "https://solana.com/breakpoint",
-    "coverImage": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://solana.com/breakpoint/social-card.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -411,7 +411,7 @@
     "location": "Bangkok, Thailand",
     "url": "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
     "website": "https://www.binanceblockchainweek.com/event/Bangkok2026/Home",
-    "coverImage": "https://images.unsplash.com/photo-1508009603885-50cf7c579365?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/binance-blockchain-week.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -427,7 +427,7 @@
     "location": "Bengaluru, India",
     "url": "https://ethindia.co",
     "website": "https://ethindia.co",
-    "coverImage": "https://images.unsplash.com/photo-1596176530529-78163a4f7af2?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://assets.devfolio.co/hackathons/efff72dc6d0f45ee8ae27e5831e4cbe3/assets/cover/288.jpeg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -443,7 +443,7 @@
     "location": "Miami, USA",
     "url": "https://mainnet.events",
     "website": "https://mainnet.events",
-    "coverImage": "https://images.unsplash.com/photo-1517048676732-d65bc937f952?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/messari-mainnet.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -459,7 +459,7 @@
     "location": "AsiaWorld-Expo, Hong Kong",
     "url": "https://consensus-hongkong.coindesk.com",
     "website": "https://consensus-hongkong.coindesk.com",
-    "coverImage": "https://images.unsplash.com/photo-1506973035872-a4ec16b8e8d2?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://consensus-hongkong.coindesk.com/site/consensusasia2026/images/userfiles/metadata/hk-26/C26_HK_Opengraph_Generic.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -475,7 +475,7 @@
     "location": "Madinat Jumeirah, Dubai, UAE",
     "url": "https://dubai.token2049.com",
     "website": "https://dubai.token2049.com",
-    "coverImage": "https://images.unsplash.com/photo-1512453979798-5ea266f8880c?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/69493428bf04691d4ae74fd1_397c8dba84f2513a877cf7036d9e9855_T2049%20Dubai%20-%20OpenGraph%20%282026%29.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -491,7 +491,7 @@
     "location": "De Hallen Studio, Amsterdam, Netherlands",
     "url": "https://commons3nse.cryptocanal.org",
     "website": "https://commons3nse.cryptocanal.org",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/common.png",
+    "coverImage": "/events/common.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -507,7 +507,7 @@
     "location": "Singapore, Singapore",
     "url": "https://www.singhacks.com",
     "website": "https://www.singhacks.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/singhacks.png",
+    "coverImage": "/events/singhacks.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -523,7 +523,7 @@
     "location": "Cochabamba, Bolivia",
     "url": "https://www.ethereumbolivia.org",
     "website": "https://www.ethereumbolivia.org",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/buildathon.png",
+    "coverImage": "/events/buildathon.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -539,7 +539,7 @@
     "location": "Enugu, Nigeria",
     "url": "https://web3conf.nextbridge.africa",
     "website": "https://web3conf.nextbridge.africa",
-    "coverImage": null,
+    "coverImage": "/events/africa1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -555,7 +555,7 @@
     "location": "Tokyo, Japan",
     "url": "https://ethereum-japan.org",
     "website": "https://ethereum-japan.org",
-    "coverImage": null,
+    "coverImage": "https://ethereum-japan.org/images/hero-panda.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -571,7 +571,7 @@
     "location": "Washington, DC, USA",
     "url": "https://www.btcpolicy.org",
     "website": "https://www.btcpolicy.org",
-    "coverImage": null,
+    "coverImage": "https://cdn.prod.website-files.com/68f7cddcae0b61add08140fc/696e4e1d57e5456bda73085e_website%20share.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -587,7 +587,7 @@
     "location": "Greater Columbus Convention Center, Columbus, OH, USA",
     "url": "https://midwestbtc.com",
     "website": "https://midwestbtc.com",
-    "coverImage": null,
+    "coverImage": "https://horizons-cdn.hostinger.com/51771201-0773-41d0-868d-52780ec83be7/3ce6d0b469a2dbdddc871c8f2154d9c7.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -603,7 +603,7 @@
     "location": "Sofia Tech Park, Sofia, Bulgaria",
     "url": "https://www.blockchainweek.bg",
     "website": "https://www.blockchainweek.bg",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethsofia.png",
+    "coverImage": "/events/ethsofia.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -619,7 +619,7 @@
     "location": "Kaapelitehdas, Helsinki, Finland",
     "url": "https://btchel.com",
     "website": "https://btchel.com",
-    "coverImage": null,
+    "coverImage": "/events/bitcoin1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -635,7 +635,7 @@
     "location": "Kongresshaus Zürich, Zurich, Switzerland",
     "url": "https://www.cvsummit.ch",
     "website": "https://www.cvsummit.ch",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/cv.png",
+    "coverImage": "/events/cv.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -651,7 +651,7 @@
     "location": "Seoul, South Korea",
     "url": "https://one.ethereumkorea.io",
     "website": "https://one.ethereumkorea.io",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethereum.png",
+    "coverImage": "/events/ethereum.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -683,7 +683,7 @@
     "location": "Berlin, Germany",
     "url": "https://btcplusplus.dev/conf/berlin26",
     "website": "https://btcplusplus.dev/conf/berlin26",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/bitcoin1.png",
+    "coverImage": "/events/bitcoin1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -699,7 +699,7 @@
     "location": "Toronto, Canada",
     "url": "https://canadianbitcoinconf.com",
     "website": "https://canadianbitcoinconf.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/canadian.png",
+    "coverImage": "/events/canadian.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -715,7 +715,7 @@
     "location": "Lisbon, Portugal",
     "url": "https://input.global",
     "website": "https://input.global",
-    "coverImage": null,
+    "coverImage": "/events/crypto1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -731,7 +731,7 @@
     "location": "Barcelona, Spain",
     "url": "https://ethspain.org",
     "website": "https://ethspain.org",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethspain.png",
+    "coverImage": "/events/ethspain.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -747,7 +747,7 @@
     "location": "Singapore, Singapore",
     "url": "https://xrex.io",
     "website": "https://xrex.io",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/stablecoin.png",
+    "coverImage": "/events/stablecoin.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -763,7 +763,7 @@
     "location": "Singapore, Singapore",
     "url": "https://www.vntr.vc",
     "website": "https://www.vntr.vc",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/vntr.png",
+    "coverImage": "/events/vntr.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -779,7 +779,7 @@
     "location": "Atlanta, GA, USA",
     "url": "https://tabconf.com",
     "website": "https://tabconf.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/tabconf.png",
+    "coverImage": "/events/tabconf.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -795,7 +795,7 @@
     "location": "São Paulo, Brazil",
     "url": "https://www.ethereumbrasil.com",
     "website": "https://www.ethereumbrasil.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethereum1.png",
+    "coverImage": "/events/ethereum1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -811,7 +811,7 @@
     "location": "Lugano, Switzerland",
     "url": "https://planb.lugano.ch",
     "website": "https://planb.lugano.ch",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/plan.png",
+    "coverImage": "/events/plan.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -827,7 +827,7 @@
     "location": "Birmingham, United Kingdom",
     "url": "https://tokenisation.org.uk",
     "website": "https://tokenisation.org.uk",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/uk.png",
+    "coverImage": "/events/uk.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -843,7 +843,7 @@
     "location": "",
     "url": "https://www.hackmeridian.com",
     "website": "https://www.hackmeridian.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/hackmeridian.png",
+    "coverImage": "/events/hackmeridian.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -859,7 +859,7 @@
     "location": "",
     "url": "https://meridian.stellar.org",
     "website": "https://meridian.stellar.org",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/meridian.png",
+    "coverImage": "/events/meridian.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -875,7 +875,7 @@
     "location": "Mumbai, India",
     "url": "https://web3privacy.info",
     "website": "https://web3privacy.info",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethereum2.png",
+    "coverImage": "/events/ethereum2.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -891,7 +891,7 @@
     "location": "Kigali, Rwanda",
     "url": "https://africablockchainfestival.com",
     "website": "https://africablockchainfestival.com",
-    "coverImage": null,
+    "coverImage": "https://i0.wp.com/africablockchainfestival.com/wp-content/uploads/2026/08/block-chill-nairobi-abf-wts-banner.jpg?fit=1400%2C961&ssl=1",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -907,7 +907,7 @@
     "location": "",
     "url": "https://input.global",
     "website": "https://input.global",
-    "coverImage": null,
+    "coverImage": "/events/crypto1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -923,7 +923,7 @@
     "location": "Mexico City, Mexico",
     "url": "https://bitcoinhistorico.com",
     "website": "https://bitcoinhistorico.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/bitcoin2.png",
+    "coverImage": "/events/bitcoin2.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -939,7 +939,7 @@
     "location": "Johannesburg, South Africa",
     "url": "https://africastablecoinsummit.io",
     "website": "https://africastablecoinsummit.io",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/africa1.png",
+    "coverImage": "/events/africa1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -955,7 +955,7 @@
     "location": "Paris, France",
     "url": "https://www.thebigwhale.io",
     "website": "https://www.thebigwhale.io",
-    "coverImage": null,
+    "coverImage": "https://cdn.prod.website-files.com/68c920bf4c1a8f4733432a26/6981f9c0be8eb2f1142c12c6_the-big-whale-open-graph.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -971,7 +971,7 @@
     "location": "Arlington, TX, USA",
     "url": "https://www.northamericanblockchainsummit.com",
     "website": "https://www.northamericanblockchainsummit.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/north.png",
+    "coverImage": "/events/north.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -987,7 +987,7 @@
     "location": "Cape Town, South Africa",
     "url": "https://cryptofest.co.za",
     "website": "https://cryptofest.co.za",
-    "coverImage": null,
+    "coverImage": "https://cryptofest.co.za/wp-content/uploads/2026/05/CryptoFest2026-LinkPreview.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1003,7 +1003,7 @@
     "location": "Dubai, UAE",
     "url": "https://planxconf.com",
     "website": "https://planxconf.com",
-    "coverImage": null,
+    "coverImage": "/events/buildathon.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1019,7 +1019,7 @@
     "location": "Accra, Ghana",
     "url": "https://www.africapredictionmarketssummit.com",
     "website": "https://www.africapredictionmarketssummit.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/africa2.png",
+    "coverImage": "/events/africa2.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1035,7 +1035,7 @@
     "location": "Blantyre, Malawi",
     "url": "https://afrobitcoin.org",
     "website": "https://afrobitcoin.org",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/africa3.png",
+    "coverImage": "/events/africa3.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1051,7 +1051,7 @@
     "location": "Seoul, South Korea",
     "url": "https://t54.ai",
     "website": "https://t54.ai",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/agentic.png",
+    "coverImage": "/events/agentic.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1067,7 +1067,7 @@
     "location": "Singapore, Singapore",
     "url": "https://ethenelabs.xyz",
     "website": "https://ethenelabs.xyz",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/finality.png",
+    "coverImage": "/events/finality.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1083,7 +1083,7 @@
     "location": "Singapore, Singapore",
     "url": "https://mnm.live/theodds/t2049singapore",
     "website": "https://mnm.live/theodds/t2049singapore",
-    "coverImage": null,
+    "coverImage": "https://mnm.live/og/the-odds-singapore.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1099,7 +1099,7 @@
     "location": "Seoul, South Korea",
     "url": "https://www.soliduslabs.com",
     "website": "https://www.soliduslabs.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/crypto1.png",
+    "coverImage": "/events/crypto1.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1115,7 +1115,7 @@
     "location": "Seoul, South Korea",
     "url": "https://lilroom.xyz",
     "website": "https://lilroom.xyz",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/onchain.png",
+    "coverImage": "/events/onchain.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1131,7 +1131,7 @@
     "location": "Seoul, South Korea",
     "url": "https://lilroom.xyz",
     "website": "https://lilroom.xyz",
-    "coverImage": null,
+    "coverImage": "/events/institutional.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1147,7 +1147,7 @@
     "location": "Seoul, South Korea",
     "url": "https://lilroom.xyz",
     "website": "https://lilroom.xyz",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/perps.png",
+    "coverImage": "/events/perps.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1163,7 +1163,7 @@
     "location": "Seoul, South Korea",
     "url": "https://www.rayls.com",
     "website": "https://www.rayls.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/rayls.png",
+    "coverImage": "/events/rayls.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1179,7 +1179,7 @@
     "location": "Jaipur, Rajasthan, India",
     "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
     "website": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/hackindia.png",
+    "coverImage": "/events/hackindia.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1195,7 +1195,7 @@
     "location": "Seoul, South Korea",
     "url": "https://cointelegraph.com",
     "website": "https://cointelegraph.com",
-    "coverImage": null,
+    "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1211,7 +1211,7 @@
     "location": "Singapore, Singapore",
     "url": "https://cointelegraph.com",
     "website": "https://cointelegraph.com",
-    "coverImage": null,
+    "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1227,7 +1227,7 @@
     "location": "Abu Dhabi, UAE",
     "url": "https://www.globalblockchainshow.com/abu-dhabi/",
     "website": "https://www.globalblockchainshow.com/abu-dhabi/",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/global.png",
+    "coverImage": "/events/global.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1243,7 +1243,7 @@
     "location": "Miami, FL, USA",
     "url": "https://www.futuristconference.com",
     "website": "https://www.futuristconference.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethwomen.png",
+    "coverImage": "/events/ethwomen.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1259,7 +1259,7 @@
     "location": "CÉ LA VI Rooftop, Marina Bay Sands, Singapore",
     "url": "https://token2049.com",
     "website": "https://token2049.com",
-    "coverImage": "https://images.unsplash.com/photo-1525625293386-3f8f99389edd?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/68ff4193f76faf012400a64c_T2049%20Global%20-%20Opengraph.png",
     "source": "curated-premier"
   },
   {
@@ -1274,7 +1274,7 @@
     "location": "National Gallery Singapore, Singapore",
     "url": "https://superteam.fun",
     "website": "https://superteam.fun",
-    "coverImage": "https://images.unsplash.com/photo-1518609878373-06d740f60d8b?q=80&w=1200&auto=format&fit=crop",
+    "coverImage": "/events/superteam-asia.png",
     "source": "curated-premier"
   },
   {
@@ -1289,7 +1289,7 @@
     "location": "The Fullerton Hotel, Singapore",
     "url": "https://ethglobal.com",
     "website": "https://ethglobal.com",
-    "coverImage": null,
+    "coverImage": "https://ethglobal.com/og.png",
     "source": "curated-premier"
   },
   {
@@ -1304,7 +1304,7 @@
     "location": "Biopolis Science Hub, Singapore",
     "url": "https://molecule.to",
     "website": "https://molecule.to",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/desci.png",
+    "coverImage": "/events/desci.png",
     "source": "curated-premier"
   },
   {
@@ -1319,7 +1319,7 @@
     "location": "1880 Member Club, Singapore",
     "url": "https://base.org",
     "website": "https://base.org",
-    "coverImage": null,
+    "coverImage": "https://base.org/images/base-open-graph-v2.png",
     "source": "curated-premier"
   },
   {
@@ -1349,7 +1349,7 @@
     "location": "Fort Mason Center, San Francisco, CA, USA",
     "url": "https://ethglobal.com",
     "website": "https://ethglobal.com",
-    "coverImage": null,
+    "coverImage": "https://ethglobal.com/og.png",
     "source": "curated-premier"
   },
   {
@@ -1364,7 +1364,7 @@
     "location": "Yas Marina, Abu Dhabi, UAE",
     "url": "https://solana.com/breakpoint",
     "website": "https://solana.com/breakpoint",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/solana2.png",
+    "coverImage": "/events/solana2.png",
     "source": "curated-premier"
   },
   {
@@ -1379,7 +1379,7 @@
     "location": "W Abu Dhabi - Yas Island, UAE",
     "url": "https://monad.xyz",
     "website": "https://monad.xyz",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/monad.png",
+    "coverImage": "/events/monad.png",
     "source": "curated-premier"
   },
   {
@@ -1394,7 +1394,7 @@
     "location": "JIO World Convention Centre, Mumbai, India",
     "url": "https://devcon.org",
     "website": "https://devcon.org",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/web3privacy.png",
+    "coverImage": "/events/web3privacy.png",
     "source": "curated-premier"
   },
   {
@@ -1409,7 +1409,7 @@
     "location": "Mission Ballroom, Denver, CO, USA",
     "url": "https://ethdenver.com",
     "website": "https://ethdenver.com",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/ethdenver.png",
+    "coverImage": "/events/ethdenver.png",
     "source": "curated-premier"
   },
   {
@@ -1425,7 +1425,7 @@
     "website": "https://token2049.com",
     "source": "curated-premier",
     "slug": "hyperliquid",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/hyperliquid.png"
+    "coverImage": "/events/hyperliquid.png"
   },
   {
     "id": "side-sg-arbitrum-stylus-hacker-house",
@@ -1439,7 +1439,8 @@
     "url": "https://arbitrum.io",
     "website": "https://arbitrum.io",
     "source": "curated-premier",
-    "slug": "arbitrum"
+    "slug": "arbitrum",
+    "coverImage": "/events/arbitrum-stylus.png"
   },
   {
     "id": "side-sg-rwa-institutional-summit",
@@ -1454,7 +1455,7 @@
     "website": "https://token2049.com",
     "source": "curated-premier",
     "slug": "real",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/real.png"
+    "coverImage": "/events/real.png"
   },
   {
     "id": "side-sg-ai-agents-onchain",
@@ -1469,7 +1470,7 @@
     "website": "https://token2049.com",
     "source": "curated-premier",
     "slug": "autonomous",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/autonomous.png"
+    "coverImage": "/events/autonomous.png"
   },
   {
     "id": "side-seoul-sui-builder-hub",
@@ -1484,7 +1485,7 @@
     "website": "https://sui.io",
     "source": "curated-premier",
     "slug": "sui1",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/sui1.png"
+    "coverImage": "/events/sui1.png"
   },
   {
     "id": "side-seoul-chainlink-oracle-brunch",
@@ -1499,7 +1500,7 @@
     "website": "https://chain.link",
     "source": "curated-premier",
     "slug": "chainlink1",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/chainlink1.png"
+    "coverImage": "/events/chainlink1.png"
   },
   {
     "id": "side-berlin-eth-solidity-workshop",
@@ -1514,7 +1515,7 @@
     "website": "https://ethberlin.org",
     "source": "curated-premier",
     "slug": "eth",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/eth.png"
+    "coverImage": "/events/eth.png"
   },
   {
     "id": "side-london-defi-vc-breakfast",
@@ -1528,7 +1529,8 @@
     "url": "https://web3warsaw.com",
     "website": "https://web3warsaw.com",
     "source": "curated-premier",
-    "slug": "london"
+    "slug": "london",
+    "coverImage": "/events/london-defi.png"
   },
   {
     "id": "side-denver-zk-proofs-summit",
@@ -1543,7 +1545,7 @@
     "website": "https://ethdenver.com",
     "source": "curated-premier",
     "slug": "denver",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/denver.png"
+    "coverImage": "/events/denver.png"
   },
   {
     "id": "side-denver-dao-governance-brunch",
@@ -1558,7 +1560,7 @@
     "website": "https://ethdenver.com",
     "source": "curated-premier",
     "slug": "dao",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/dao.png"
+    "coverImage": "/events/dao.png"
   },
   {
     "id": "side-denver-solana-coworking-hub",
@@ -1573,6 +1575,6 @@
     "website": "https://superteam.fun",
     "source": "curated-premier",
     "slug": "solana3",
-    "coverImage": "/Users/vedang/.gemini/antigravity/scratch/Web3-Jobs/event_images/solana3.png"
+    "coverImage": "/events/solana3.png"
   }
 ]
