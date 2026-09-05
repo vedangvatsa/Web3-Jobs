@@ -44,6 +44,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'franklin-templeton': 'franklin-templeton',
   'ritual-ai-web3': 'ritual',
   'ritual': 'ritual',
+  'nomic-foundation': 'nomic-foundation',
+  'nomic': 'nomic-foundation',
+  'nomicfoundation': 'nomic-foundation',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
