@@ -3,10 +3,23 @@ import path from 'path';
 
 const pwcWeb3Jobs = [
   {
+    id: 'pwc-digital-assets-crypto-director',
+    title: 'Digital Assets & Crypto Director (Consulting & Strategy)',
+    company: 'PwC',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Director_758306WD?source=US_EXP_Careers',
+    date: '2026-09-04',
+    source: 'PwC Careers [pwc]',
+    location: 'New York, NY / Hybrid',
+    department: 'Web3 & Digital Assets Advisory',
+    active: true,
+    slug: 'directorpwc08',
+    description: `<h3><strong>Role Overview</strong></h3><p>As a Director in PwC's Web3 & Digital Assets practice, lead market expansion, strategic client relationships, and high-impact consulting engagements across the crypto ecosystem.</p><h3><strong>Responsibilities</strong></h3><ul><li>Build C-suite relationships with Web3 founders, global banks, and institutional market infrastructure providers.</li><li>Drive thought leadership on central bank digital currencies (CBDC), stablecoin regulations, and decentralized financial markets.</li><li>Oversee large-scale enterprise deployments involving tokenized securities, payment settlement networks, and crypto custody architectures.</li><li>Mentor senior managers and consultants across technology, regulatory, and assurance domains.</li></ul><h3><strong>Qualifications</strong></h3><ul><li>10+ years of leadership experience in management consulting, banking, or institutional cryptocurrency markets.</li><li>Proven track record building enterprise business around blockchain and fintech innovations.</li><li>Deep understanding of global regulatory frameworks (MiCA, SEC, NYDFS BitLicense).</li></ul>`
+  },
+  {
     id: 'pwc-digital-assets-senior-manager-tech',
     title: 'Digital Assets Senior Manager (Technology)',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Senior-Manager_758288WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'New York, NY / Hybrid',
@@ -19,7 +32,7 @@ const pwcWeb3Jobs = [
     id: 'pwc-digital-assets-crypto-manager-ny',
     title: 'Digital Assets Manager (Technology)',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets--Crypto--Manager_757458WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'New York, NY / Hybrid',
@@ -32,7 +45,7 @@ const pwcWeb3Jobs = [
     id: 'pwc-ai-blockchain-architect-senior-manager',
     title: 'AI / Blockchain Architect Senior Manager',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/FL-Tampa/AIT---AI-Blockchain-Architect-Senior-Manager_738313WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'Tampa, FL / Hybrid',
@@ -45,10 +58,10 @@ const pwcWeb3Jobs = [
     id: 'pwc-digital-assurance-digital-assets-senior-associate',
     title: 'Digital Assurance & Transparency - Digital Assets Senior Associate',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Senior-Associate_758286WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
-    location: 'San Francisco, CA / Hybrid',
+    location: 'New York, NY / San Francisco, CA / Hybrid',
     department: 'Digital Asset Audit & Assurance',
     active: true,
     slug: 'seniorpwc04',
@@ -58,7 +71,7 @@ const pwcWeb3Jobs = [
     id: 'pwc-bcm-assurance-digital-assets-manager',
     title: 'BCM - Assurance - Digital Assets Manager',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/CA-San-Francisco/BCM---Assurance---Digital-Assets-Manager_739440WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'San Francisco, CA / Hybrid',
@@ -69,22 +82,22 @@ const pwcWeb3Jobs = [
   },
   {
     id: 'pwc-awm-digital-assets-senior-manager',
-    title: 'AWM - Digital Assets Senior Manager',
+    title: 'BCM - Assurance - Digital Assets Senior Manager',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/CA-San-Francisco/BCM---Assurance---Digital-Assets-Senior-Manager_739439WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
-    location: 'New York, NY / Hybrid',
-    department: 'Asset & Wealth Management Advisory',
+    location: 'San Francisco, CA / Hybrid',
+    department: 'Banking & Capital Markets Assurance',
     active: true,
     slug: 'seniorpwc06',
-    description: `<h3><strong>Role Overview</strong></h3><p>Lead PwC's Asset & Wealth Management advisory practice in structuring digital asset investment products, crypto ETFs, and tokenized private fund vehicles.</p><h3><strong>Responsibilities</strong></h3><ul><li>Advise hedge funds, private equity sponsors, and asset managers on launch strategies for crypto funds and tokenized RWAs.</li><li>Develop fund administration, valuation, and custody governance frameworks for digital asset portfolios.</li></ul>`
+    description: `<h3><strong>Role Overview</strong></h3><p>Lead audit and regulatory advisory for tier-one investment banks and institutional trading desks deploying crypto prime brokerage and staking services.</p><h3><strong>Responsibilities</strong></h3><ul><li>Lead risk assessments and compliance audits for enterprise digital asset infrastructure.</li><li>Supervise senior associates and managers on technical audit execution and key ceremony verification.</li></ul>`
   },
   {
     id: 'pwc-awm-assurance-digital-assets-manager',
     title: 'AWM - Assurance - Digital Assets Manager',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=blockchain',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/AWM---Assurance---Digital-Assets-Manager_739437WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'New York, NY / Hybrid',
@@ -94,23 +107,10 @@ const pwcWeb3Jobs = [
     description: `<h3><strong>Role Overview</strong></h3><p>Manage digital asset audit engagements for asset management clients holding cryptocurrencies, tokenized securities, and venture investments.</p><h3><strong>Responsibilities</strong></h3><ul><li>Execute audit procedures verifying digital asset ownership, wallet signing authority, and fund NAV calculations.</li><li>Review custodian SOC reports, smart contract audit reports, and valuation inputs.</li></ul>`
   },
   {
-    id: 'pwc-digital-assets-crypto-director',
-    title: 'Digital Assets & Crypto Director (Consulting & Strategy)',
-    company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
-    date: '2026-09-04',
-    source: 'PwC Careers [pwc]',
-    location: 'New York, NY / Hybrid',
-    department: 'Web3 & Digital Assets Advisory',
-    active: true,
-    slug: 'directorpwc08',
-    description: `<h3><strong>Role Overview</strong></h3><p>As a Director in PwC's Web3 & Digital Assets practice, lead market expansion, strategic client relationships, and high-impact consulting engagements across the crypto ecosystem.</p><h3><strong>Responsibilities</strong></h3><ul><li>Build C-suite relationships with Web3 founders, global banks, and institutional market infrastructure providers.</li><li>Drive thought leadership on central bank digital currencies (CBDC), stablecoin regulations, and decentralized financial markets.</li></ul>`
-  },
-  {
     id: 'pwc-bcm-tax-manager-fintech-crypto',
     title: 'Banking & Capital Markets Tax Manager (FinTech & Crypto)',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Banking---Capital-Markets-Tax-Manager_725612WD-2?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'New York, NY / Chicago, IL / Hybrid',
@@ -123,7 +123,7 @@ const pwcWeb3Jobs = [
     id: 'pwc-technology-consulting-associate-digital-assets',
     title: 'Technology Consulting Associate (Digital Assets & Payments)',
     company: 'PwC',
-    link: 'https://jobs-us.pwc.com/us/en/search-results?keywords=crypto',
+    link: 'https://pwc.wd3.myworkdayjobs.com/US_Experienced_Careers/job/NY-New-York/Digital-Assets-Crypto-BlockChain-Senior-Associate_758286WD?source=US_EXP_Careers',
     date: '2026-09-04',
     source: 'PwC Careers [pwc]',
     location: 'New York, NY / San Francisco, CA / Hybrid',
@@ -138,11 +138,16 @@ function ingestPwc() {
   const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
   const cacheData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
 
+  const descPath = path.join(process.cwd(), 'content/job-descriptions.json');
+  const descData = fs.existsSync(descPath) ? JSON.parse(fs.readFileSync(descPath, 'utf8')) : {};
+
   let added = 0;
   let updated = 0;
 
   for (const job of pwcWeb3Jobs) {
-    const idx = cacheData.findIndex((j: any) => j.id === job.id || j.link === job.link);
+    descData[job.id] = job.description;
+
+    const idx = cacheData.findIndex((j: any) => j.id === job.id || j.slug === job.slug);
     if (idx >= 0) {
       cacheData[idx] = { ...cacheData[idx], ...job };
       updated++;
@@ -152,8 +157,9 @@ function ingestPwc() {
     }
   }
 
-  console.log(`Ingested PwC Web3 Jobs with descriptions: ${added} added, ${updated} updated. Total jobs: ${cacheData.length}`);
+  console.log(`Ingested PwC Web3 Jobs with direct Workday URLs: ${added} added, ${updated} updated. Total jobs: ${cacheData.length}`);
   fs.writeFileSync(cachePath, JSON.stringify(cacheData, null, 2));
+  fs.writeFileSync(descPath, JSON.stringify(descData, null, 2));
 }
 
 ingestPwc();
