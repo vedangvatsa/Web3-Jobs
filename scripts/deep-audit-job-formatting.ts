@@ -38,9 +38,19 @@ async function auditAllJobs() {
         reasons.push('Repetitive prefix artifact');
       }
 
-      // 5. Check if content is suspiciously short (< 150 chars)
+      // 5. Check if content is suspiciously short (< 100 chars)
       if (html.replace(/<[^>]*>/g, '').trim().length < 100) {
         reasons.push('Content too short (< 100 chars)');
+      }
+
+      // 6. Check for leading bullet symbols inside <li>
+      if (/<li>\s*[-*•·▪–—]\s+/i.test(html)) {
+        reasons.push('Leading bullet symbol inside <li>');
+      }
+
+      // 7. Check for stray HTML tags visible inside text
+      if (/<(?:p|h3|li)>[^<]*&lt;\/?(?:p|br|div|span|h[1-6]|ul|li|b|strong|i|em)/i.test(html)) {
+        reasons.push('Escaped HTML tag artifact visible in text');
       }
 
       if (reasons.length > 0) {

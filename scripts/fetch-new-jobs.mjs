@@ -73,7 +73,12 @@ const LEVER_COMPANIES = [
 
 function cleanHtml(html) {
   let t = html.replace(/<script[^>]*>[\s\S]*?<\/script>/gi, '').replace(/<style[^>]*>[\s\S]*?<\/style>/gi, '');
-  t = t.replace(/<br\s*\/?>/gi, '\n').replace(/<\/p>/gi, '\n\n').replace(/<\/li>/gi, '\n').replace(/<li[^>]*>/gi, '• ');
+  t = t.replace(/<br(?:\s+[^>]*)?\s*\/?>\s*<br(?:\s+[^>]*)?\s*\/?>/gi, '\n\n')
+       .replace(/<br(?:\s+[^>]*)?\s*\/?>\s*(?=\s*(?:[-*•·▪\u25aa\u2013\u2014]|\d+[\.\)]))/gi, '\n')
+       .replace(/<br(?:\s+[^>]*)?\s*\/?>/gi, ' ')
+       .replace(/<\/p>/gi, '\n\n')
+       .replace(/<\/li>/gi, '\n')
+       .replace(/<li[^>]*>/gi, '• ');
   t = t.replace(/<\/h[1-6]>/gi, '\n\n').replace(/<[^>]+>/g, ' ');
   t = t.replace(/&amp;/g,'&').replace(/&lt;/g,'<').replace(/&gt;/g,'>').replace(/&quot;/g,'"').replace(/&#39;/g,"'").replace(/&nbsp;/g,' ').replace(/&rsquo;/g,"'").replace(/&lsquo;/g,"'").replace(/&rdquo;/g,'"').replace(/&ldquo;/g,'"').replace(/&mdash;/g,'—').replace(/&ndash;/g,'–').replace(/&bull;/g,'•').replace(/&hellip;/g,'…');
   return t.replace(/[ \t]+/g, ' ').replace(/\n{3,}/g, '\n\n').trim();

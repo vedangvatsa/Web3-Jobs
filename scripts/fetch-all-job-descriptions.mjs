@@ -26,14 +26,10 @@ async function fetchJob(job) {
     $('script, style, nav, footer, header, noscript, svg, img').remove();
     
     // Try to find common job description containers first, otherwise take body
-    let content = $('.posting-content, .job-description, .description, main, article, #content').text();
-    if (!content || content.trim().length < 100) {
-      content = $('body').text();
-    }
-
-    const cleanText = content.replace(/\s+/g, ' ').trim();
+    const $target = $('.single-job-content, .posting-content, .job-description, .description, main, article, #content');
+    const contentHtml = ($target.length > 0 && ($target.html() || '').length > 100) ? $target.html() : $('body').html();
     
-    return { ...job, fullText: cleanText };
+    return { ...job, fullText: contentHtml || '' };
   } catch (err) {
     return { ...job, fullText: null, error: err.message };
   }
