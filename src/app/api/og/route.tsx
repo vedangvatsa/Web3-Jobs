@@ -43,12 +43,12 @@ export async function GET(request: NextRequest) {
 
       // Dynamic font sizing for maximum visual punch and symmetry
       const titleFontSize = displayTitle.length > 55
-        ? '56px'
+        ? '60px'
         : displayTitle.length > 35
-        ? '68px'
+        ? '72px'
         : displayTitle.length > 20
-        ? '82px'
-        : '96px';
+        ? '86px'
+        : '100px';
 
       return new ImageResponse(
         (
@@ -66,11 +66,12 @@ export async function GET(request: NextRequest) {
                 ...baseCardStyle,
                 width: '1120px',
                 height: '550px',
-                padding: '48px 56px',
+                padding: '60px 64px',
                 flexDirection: 'column',
                 alignItems: 'center',
-                justifyContent: 'space-between',
+                justifyContent: 'center',
                 textAlign: 'center',
+                gap: '36px',
               }}
             >
               {/* Header: Centered pill badge: {Company} is hiring */}
@@ -79,8 +80,8 @@ export async function GET(request: NextRequest) {
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  gap: '12px',
-                  padding: '12px 32px',
+                  gap: '14px',
+                  padding: '14px 36px',
                   borderRadius: '9999px',
                   backgroundColor: '#f0f9ff',
                   border: '1.5px solid #bae6fd',
@@ -89,7 +90,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '34px',
+                    fontSize: '36px',
                     fontWeight: '800',
                     color: '#0284c7',
                     letterSpacing: '-0.5px',
@@ -100,7 +101,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '30px',
+                    fontSize: '32px',
                     fontWeight: '500',
                     color: '#475569',
                   }}
@@ -121,41 +122,11 @@ export async function GET(request: NextRequest) {
                   color: '#0f172a',
                   lineHeight: '1.14',
                   letterSpacing: '-2px',
-                  maxWidth: '1008px',
-                  padding: '0 16px',
+                  maxWidth: '1020px',
+                  padding: '0 20px',
                 }}
               >
                 {displayTitle}
-              </div>
-
-              {/* Footer: Centered Symmetric Brand & Verification */}
-              <div
-                style={{
-                  display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  gap: '16px',
-                  fontSize: '24px',
-                  fontWeight: '600',
-                  color: '#64748b',
-                }}
-              >
-                <div style={{ display: 'flex', alignItems: 'center', gap: '8px', color: '#059669' }}>
-                  <div
-                    style={{
-                      display: 'flex',
-                      width: '12px',
-                      height: '12px',
-                      borderRadius: '50%',
-                      backgroundColor: '#10b981',
-                    }}
-                  />
-                  <span>Verified Web3 Opening</span>
-                </div>
-                <div style={{ display: 'flex', color: '#cbd5e1' }}>•</div>
-                <div style={{ display: 'flex', color: '#0f172a', fontWeight: '700' }}>
-                  hashtagweb3.com
-                </div>
               </div>
             </div>
           </div>
