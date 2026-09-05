@@ -47,6 +47,9 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'nomic-foundation': 'nomic-foundation',
   'nomic': 'nomic-foundation',
   'nomicfoundation': 'nomic-foundation',
+  'optimism': 'optimism',
+  'op-labs': 'optimism',
+  'oplabs': 'optimism',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {

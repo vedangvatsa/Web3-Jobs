@@ -69,6 +69,9 @@ function sanitizeCompanyDomain(url: URL): string {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+ 'optimism': 'https://www.oplabs.co',
+ 'op-labs': 'https://www.oplabs.co',
+ 'oplabs': 'https://www.oplabs.co',
  'block': 'https://block.xyz',
  'a16z': 'https://a16z.com',
  'a16z-crypto': 'https://a16zcrypto.com',
@@ -623,6 +626,7 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   if (normalized === 'franklin-templeton') return 'Franklin Templeton';
   if (normalized === 'ritual') return 'Ritual';
   if (normalized === 'nomic-foundation') return 'Nomic Foundation';
+  if (normalized === 'op-labs' || normalized === 'oplabs') return 'Optimism';
   return originalName;
 }
 
@@ -740,7 +744,8 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
     (['pwc', 'pricewaterhousecoopers'].includes(slug) && canonicalName === 'PwC') ||
     (['franklin-templeton', 'franklintempleton'].includes(slug) && canonicalName === 'Franklin Templeton') ||
     (['ritual', 'ritual-ai-web3', 'ritual-net'].includes(slug) && canonicalName === 'Ritual') ||
-    (['nomic-foundation', 'nomic', 'nomicfoundation'].includes(slug) && canonicalName === 'Nomic Foundation')
+    (['nomic-foundation', 'nomic', 'nomicfoundation'].includes(slug) && canonicalName === 'Nomic Foundation') ||
+    (['optimism', 'op-labs', 'oplabs'].includes(slug) && canonicalName === 'Optimism')
   ) {
    targetCanonicalName = canonicalName;
   }
