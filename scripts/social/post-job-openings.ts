@@ -1,20 +1,21 @@
 #!/usr/bin/env npx tsx
 /**
- * Automated Social Job Opening Poster (X / Twitter & Threads)
+ * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster & LinkedIn)
  *
- * Posts verified job openings to X, Threads, and Bluesky in the exact format:
+ * Posts verified job openings to social networks in the exact format:
  *
  *   Company is hiring role
  *
- *   https://hashtagweb3.com/<slug>/x (for X)
- *   https://hashtagweb3.com/<slug>/th (for Threads)
- *   https://hashtagweb3.com/<slug>/bsky (for Bluesky)
+ *   https://hashtagweb3.com/<slug>/x      (for X)
+ *   https://hashtagweb3.com/<slug>/th     (for Threads)
+ *   https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
+ *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
+ *   https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
  *
  * Features:
  *   - Automatically cycles through active, high-quality jobs
  *   - Verifies dynamic OG image availability prior to posting
- *   - Attaches public OG image container on Threads & link card on Bluesky
- *   - Strips social suffix to automatically append UTM tracking (utm_source=bluesky)
+ *   - Strips social suffix to automatically append UTM tracking (e.g. utm_source=linkedin)
  *   - Tracks posted slugs in scripts/social/jobs-social-posted.json to prevent repeats
  *   - Supports --dry-run for zero-risk testing without making API calls
  *
@@ -22,6 +23,8 @@
  *   npx tsx scripts/social/post-job-openings.ts --platform x --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform threads --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform bluesky --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform farcaster --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform linkedin --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all
  */
@@ -394,6 +397,72 @@ async function postToFarcaster(
   return data.cast?.hash || 'published';
 }
 
+// ── LinkedIn / Buffer ──
+
+async function postToLinkedInBuffer(text: string, imageUrl?: string): Promise<string> {
+  const token = process.env.BUFFER_ACCESS_TOKEN || 'WLGVA8tQgQ6lHyM267pKDys4EEN5kls4SAVvO-TTFtB';
+  const channelId = process.env.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb';
+
+  if (!token) {
+    throw new Error('Buffer Access Token missing (BUFFER_ACCESS_TOKEN)');
+  }
+  if (!channelId) {
+    throw new Error('Buffer LinkedIn Channel ID missing (BUFFER_LINKEDIN_CHANNEL_ID)');
+  }
+
+  const input: any = {
+    channelId,
+    text,
+    schedulingType: 'automatic',
+    mode: 'shareNow',
+  };
+
+  if (imageUrl) {
+    input.assets = [
+      {
+        image: {
+          url: imageUrl,
+        },
+      },
+    ];
+  }
+
+  const query = `
+    mutation CreatePost($input: CreatePostInput!) {
+      createPost(input: $input) {
+        ... on PostActionSuccess {
+          post {
+            id
+          }
+        }
+        ... on MutationError {
+          message
+        }
+      }
+    }
+  `;
+
+  const res = await fetch('https://api.buffer.com/graphql', {
+    method: 'POST',
+    headers: {
+      'Content-Type': 'application/json',
+      Authorization: `Bearer ${token}`,
+    },
+    body: JSON.stringify({ query, variables: { input } }),
+  });
+
+  const data = await res.json();
+  if (data.errors) {
+    throw new Error(`Buffer GraphQL error: ${JSON.stringify(data.errors)}`);
+  }
+
+  const result = data.data?.createPost;
+  if (result?.post?.id) {
+    return result.post.id;
+  }
+  throw new Error(`Buffer post creation failed: ${result?.message || 'unknown error'}`);
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
@@ -456,11 +525,13 @@ async function main() {
   const threadsUrl = `${SITE_URL}/${slug}/th`;
   const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
   const farcasterUrl = `${SITE_URL}/${slug}/fc`;
+  const linkedinUrl = `${SITE_URL}/${slug}/li`;
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
   const blueskyPostText = `${company} is hiring ${title}\n\n${blueskyUrl}`;
   const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
+  const linkedinPostText = `${company} is hiring ${title}\n\n${linkedinUrl}`;
 
   console.log(`Selected Job:`);
   console.log(`  Company : ${company}`);
@@ -490,10 +561,14 @@ async function main() {
 
   console.log(`\n--- Preview: Farcaster Post (Channel: /jobs) ---`);
   console.log(farcasterPostText);
-  console.log(`-----------------------------------------------\n`);
+  console.log(`-----------------------------------------------`);
+
+  console.log(`\n--- Preview: LinkedIn Post (Company Page via Buffer) ---`);
+  console.log(linkedinPostText);
+  console.log(`--------------------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, or Farcaster.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, or LinkedIn.');
     return;
   }
 
@@ -570,6 +645,24 @@ async function main() {
       });
     } catch (err) {
       console.error(`✗ Failed to post to Farcaster:`, (err as Error).message);
+    }
+  }
+
+  if (platform === 'linkedin' || shouldPostAll) {
+    try {
+      console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer)...');
+      const bufferPostId = await postToLinkedInBuffer(linkedinPostText, ogImageUrl);
+      console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
+      state.history.push({
+        slug,
+        company,
+        title,
+        platform: 'linkedin',
+        postedAt: now,
+        postId: bufferPostId,
+      });
+    } catch (err) {
+      console.error(`✗ Failed to post to LinkedIn:`, (err as Error).message);
     }
   }
 
