@@ -119,8 +119,16 @@ export function middleware(request: NextRequest) {
           url.searchParams.set('utm_campaign', 'share');
         }
 
-        // Temporary redirect (307) so browser cache does not lock query strings
-        return NextResponse.redirect(url, 307);
+        // Detect social crawlers / link preview bots (Twitterbot, facebookexternalhit, Meta-ExternalAgent for Threads, LinkedInBot, etc.)
+        const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare/i.test(ua);
+        if (isSocialCrawler) {
+          // Serve the destination page directly with HTTP 200 so link preview cards render OG tags immediately without relying on redirect following
+          return NextResponse.rewrite(url);
+        }
+
+        // For human visitors, redirect with absolute URL and UTM parameters
+        const redirectUrl = new URL(basePath + '?' + url.searchParams.toString(), 'https://hashtagweb3.com');
+        return NextResponse.redirect(redirectUrl, 307);
       }
     }
   }

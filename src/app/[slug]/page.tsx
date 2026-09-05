@@ -111,7 +111,16 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
         card: 'summary_large_image',
         title,
         description,
-        images: [ogImageUrl],
+        site: '@hashtag_web3',
+        creator: '@hashtag_web3',
+        images: [
+          {
+            url: ogImageUrl,
+            width: 1200,
+            height: 630,
+            alt: `${title} - Hashtag Web3`,
+          },
+        ],
       },
     };
   }
