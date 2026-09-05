@@ -960,9 +960,9 @@ async function main() {
         'The leading open resource for Web3 talent.',
       ];
       const activeTagline = TAGLINES[state.history.length % TAGLINES.length];
-
       const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nWeb3 jobs: hashtagweb3.com\n\n${activeTagline}\n\n#web3 #web3jobs #hashtagweb3`;
-      const igPostId = await postToInstagram(igCaption, [ogImageUrl]);
+      const igImageUrl = `${ogImageUrl}&format=square`;
+      const igPostId = await postToInstagram(igCaption, [igImageUrl]);
       console.log(`✓ Successfully published Carousel to Instagram! Post ID: ${igPostId}`);
       state.history.push({
         slug,

@@ -11,9 +11,9 @@ export async function GET(request: NextRequest) {
     const title = searchParams.get('title') || 'Hashtag Web3';
     const company = searchParams.get('company') || '';
     const location = searchParams.get('location') || 'Remote';
-    const department = searchParams.get('department') || '';
     const category = searchParams.get('category');
     const date = searchParams.get('date') || '2026';
+    const format = searchParams.get('format') || 'landscape'; // 'landscape' (1200x630) or 'square' (1080x1080)
     const slide = searchParams.get('slide'); // 'cover', 'content', 'cta'
     const slideNumber = searchParams.get('num') || '1';
     const totalSlides = searchParams.get('total') || '5';
@@ -330,28 +330,35 @@ export async function GET(request: NextRequest) {
         ? '86px'
         : '100px';
 
+      const isSquare = format === 'square';
+      const cardWidth = isSquare ? '984px' : '1120px';
+      const cardHeight = isSquare ? '984px' : '550px';
+
       return new ImageResponse(
         (
           <div
             style={{
               ...baseContainerStyle,
+              width: isSquare ? '1080px' : '100%',
+              height: isSquare ? '1080px' : '100%',
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '40px',
+              padding: isSquare ? '48px' : '40px',
             }}
           >
             <div
               style={{
                 ...baseCardStyle,
-                width: '1120px',
-                height: '550px',
-                padding: '48px 64px',
+                width: cardWidth,
+                height: cardHeight,
+                padding: isSquare ? '64px 56px' : '48px 64px',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'center',
                 textAlign: 'center',
-                gap: '32px',
+                gap: isSquare ? '40px' : '32px',
+                position: 'relative',
               }}
             >
               {/* Top Center: Company Logo / Favicon */}
@@ -361,9 +368,9 @@ export async function GET(request: NextRequest) {
                     display: 'flex',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    width: '96px',
-                    height: '96px',
-                    borderRadius: '24px',
+                    width: isSquare ? '112px' : '96px',
+                    height: isSquare ? '112px' : '96px',
+                    borderRadius: isSquare ? '28px' : '24px',
                     backgroundColor: '#ffffff',
                     border: '1.5px solid #e2e8f0',
                     padding: '12px',
@@ -371,15 +378,15 @@ export async function GET(request: NextRequest) {
                 >
                   <img
                     src={companyLogoUrl}
-                    width={72}
-                    height={72}
-                    style={{ borderRadius: '14px' }}
+                    width={isSquare ? '84' : '72'}
+                    height={isSquare ? '84' : '72'}
+                    style={{ borderRadius: '16px' }}
                     alt={`${displayCompany} logo`}
                   />
                 </div>
               ) : null}
 
-              {/* Middle: Centered text: {Company} is hiring (no pill, larger font) */}
+              {/* Middle: Centered text: {Company} is hiring */}
               <div
                 style={{
                   display: 'flex',
@@ -391,7 +398,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '48px',
+                    fontSize: isSquare ? '52px' : '48px',
                     fontWeight: '800',
                     color: '#0284c7',
                     letterSpacing: '-0.5px',
@@ -402,7 +409,7 @@ export async function GET(request: NextRequest) {
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '48px',
+                    fontSize: isSquare ? '52px' : '48px',
                     fontWeight: '500',
                     color: '#475569',
                     letterSpacing: '-0.5px',
@@ -419,23 +426,77 @@ export async function GET(request: NextRequest) {
                   alignItems: 'center',
                   justifyContent: 'center',
                   textAlign: 'center',
-                  fontSize: titleFontSize,
+                  fontSize: isSquare && displayTitle.length > 55 ? '56px' : titleFontSize,
                   fontWeight: '900',
                   color: '#0f172a',
                   lineHeight: '1.14',
                   letterSpacing: '-2px',
-                  maxWidth: '1020px',
+                  maxWidth: isSquare ? '880px' : '1020px',
                   padding: '0 20px',
                 }}
               >
                 {displayTitle}
               </div>
+
+              {/* Square / Instagram Footer Brand Bar */}
+              {isSquare ? (
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    justifyContent: 'space-between',
+                    width: '100%',
+                    borderTop: '1px solid #f1f5f9',
+                    paddingTop: '24px',
+                    position: 'absolute',
+                    bottom: '48px',
+                    left: '56px',
+                    right: '56px',
+                  }}
+                >
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '10px',
+                    }}
+                  >
+                    <div
+                      style={{
+                        width: '12px',
+                        height: '12px',
+                        borderRadius: '50%',
+                        backgroundColor: '#0284c7',
+                      }}
+                    />
+                    <div
+                      style={{
+                        fontSize: '22px',
+                        fontWeight: '800',
+                        color: '#0f172a',
+                        letterSpacing: '-0.5px',
+                      }}
+                    >
+                      hashtagweb3.com
+                    </div>
+                  </div>
+                  <div
+                    style={{
+                      fontSize: '18px',
+                      fontWeight: '500',
+                      color: '#94a3b8',
+                    }}
+                  >
+                    Verified Web3 Jobs
+                  </div>
+                </div>
+              ) : null}
             </div>
           </div>
         ),
         {
-          width: 1200,
-          height: 630,
+          width: isSquare ? 1080 : 1200,
+          height: isSquare ? 1080 : 630,
           headers: {
             'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
           },
