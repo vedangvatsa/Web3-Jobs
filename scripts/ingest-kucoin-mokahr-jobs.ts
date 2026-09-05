@@ -39,8 +39,12 @@ async function ingestKuCoin() {
   const cachePath = path.join(process.cwd(), 'content/jobs-cache.json');
   const cacheData = JSON.parse(fs.readFileSync(cachePath, 'utf8'));
 
+  const descPath = path.join(process.cwd(), 'content/job-descriptions.json');
+  const descData = fs.existsSync(descPath) ? JSON.parse(fs.readFileSync(descPath, 'utf8')) : {};
+
   const existingIds = new Set(cacheData.map((j: any) => j.id));
   let addedCount = 0;
+  let updatedCount = 0;
 
   for (const r of rawJobs) {
     if (r.status !== 'open' && r.status !== undefined) continue;
@@ -59,18 +63,30 @@ async function ingestKuCoin() {
       source: 'MokaHR: KuCoin [kcareers]',
       location: locationStr,
       department: r.department?.name || 'Operations',
+      description: r.jobDescription || '',
       active: true
     };
+
+    if (r.jobDescription) {
+      descData[r.id] = r.jobDescription;
+    }
 
     if (!existingIds.has(r.id)) {
       cacheData.unshift(formattedJob);
       existingIds.add(r.id);
       addedCount++;
+    } else {
+      const existing = cacheData.find((j: any) => j.id === r.id);
+      if (existing && !existing.description && r.jobDescription) {
+        existing.description = r.jobDescription;
+        updatedCount++;
+      }
     }
   }
 
-  console.log(`Added ${addedCount} new KuCoin jobs to jobs-cache.json. Total jobs: ${cacheData.length}`);
+  console.log(`Added ${addedCount} new KuCoin jobs, updated descriptions for ${updatedCount} existing. Total jobs: ${cacheData.length}`);
   fs.writeFileSync(cachePath, JSON.stringify(cacheData, null, 2));
+  fs.writeFileSync(descPath, JSON.stringify(descData, null, 2));
 }
 
 ingestKuCoin().catch(err => {

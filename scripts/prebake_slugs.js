@@ -145,8 +145,15 @@ function isConcreteJobOpening(title, link) {
   if (GENERAL_APP_REGEX.test(t)) return false;
   if (NON_WEB3_DISQUALIFIED_REGEX.test(t)) return false;
   if (link) {
-    const l = link.toLowerCase();
-    if (l.includes('/search-results') || l.includes('keywords=') || l.includes('search_query=')) return false;
+    const l = link.toLowerCase().trim();
+    if (
+      l.includes('/search-results') ||
+      l.includes('keywords=') ||
+      l.includes('search_query=') ||
+      l.includes('search-jobs') ||
+      /\/(?:careers|jobs)\/?$/.test(l) ||
+      /\/(?:careers|jobs)\/list\/?$/.test(l)
+    ) return false;
   }
   return true;
 }

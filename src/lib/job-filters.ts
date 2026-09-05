@@ -11,8 +11,6 @@ const PLACEHOLDER_TITLE_PATTERNS = [
   'new job template',
   'test job',
   '(sample)',
-  'test',
-  'testextrenal',
   '[template] default template',
 ];
 
@@ -26,7 +24,11 @@ export function isGeneralOrPlaceholderJobTitle(title: string | null | undefined)
   if (!title) return true;
   const t = title.toLowerCase().trim();
 
-  if (PLACEHOLDER_TITLE_PATTERNS.some((p) => t.includes(p) || t === p)) {
+  if (t === 'test' || t === 'testextrenal') {
+    return true;
+  }
+
+  if (PLACEHOLDER_TITLE_PATTERNS.some((p) => t.includes(p))) {
     return true;
   }
 
@@ -48,7 +50,9 @@ export function isInvalidJobLink(link: string | null | undefined): boolean {
     l.includes('/search-results') ||
     l.includes('keywords=') ||
     l.includes('search_query=') ||
-    l.includes('search-jobs')
+    l.includes('search-jobs') ||
+    /\/(?:careers|jobs)\/?$/.test(l) ||
+    /\/(?:careers|jobs)\/list\/?$/.test(l)
   ) {
     return true;
   }

@@ -293,7 +293,12 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   }
   flushList();
   html += '</div>';
-  return cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
+  const cleanedHtml = cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
+  const visibleText = plainTextFromHtml(cleanedHtml);
+  if (visibleText.length < 350 || blocks.length < 3) {
+    return buildUniqueJobPageContent(job, raw);
+  }
+  return cleanedHtml;
 }
 
 export function buildUniqueJobPageContent(job: Job, employerHtml = ''): string {
