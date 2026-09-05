@@ -72,6 +72,14 @@ export function cleanPublishText(
   s = s.replace(/Last updated \d+ (?:month|day|year)s? ago/gi, '');
   s = s.replace(/Was this (?:page )?helpful\?/gi, '');
 
+  // Strip OKX / corporate anti-third-party disclaimers & candidate privacy notices
+  s = s.replace(/(?:Notice:\s*)?All official [^.]*vacancies are published on this (?:website|job board)[\s\S]*?(?:official careers website|official channels)\.?/gi, '');
+  s = s.replace(/While roles may appear on selected third-party platforms[\s\S]*?(?:official careers website|official channels)\.?/gi, '');
+  s = s.replace(/If in doubt, please apply directly through our official careers website\.?/gi, '');
+  s = s.replace(/We do not use third-party platforms or agencies for recruitment unless clearly stated\.?\s*All open roles are listed on our official channels\.?/gi, '');
+  s = s.replace(/Information collected and processed as part of the recruitment process[\s\S]*?Candidate Privacy Notice\.?/gi, '');
+  s = s.replace(/Candidate Privacy Notice\.?/gi, '');
+
   // Strip emojis for noslop job pages
   s = s.replace(EMOJI_RE, '').replace(EMOJI_VARIATION_RE, '');
 
@@ -137,7 +145,7 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   s = s.replace(/Last updated \d+ (?:month|day|year)s? ago/gi, '');
   s = s.replace(/Was this (?:page )?helpful\?/gi, '');
 
-  // Strip Greenhouse / Lever / Ashby / ATS widget boilerplate
+  // Strip ATS widget boilerplate & corporate anti-third-party disclaimers
   s = s.replace(/<a[^>]*>[\s\S]*?Back to jobs<\/a>/gi, '');
   s = s.replace(/Back to (?:all )?jobs/gi, '');
   s = s.replace(/<div class="job-alert[\s\S]*?<\/div>\s*<\/div>/gi, '');
@@ -149,6 +157,19 @@ export function cleanPublishHtml(input: string | null | undefined): string {
   s = s.replace(/Create alert\.?/gi, '');
   s = s.replace(/Interested in building your career at [^?]+\? Get future opportunities sent straight to your email\.?/gi, '');
   s = s.replace(/Apply for this job\.?/gi, '');
+
+  // Strip OKX / corporate anti-third-party disclaimers HTML + text forms
+  s = s.replace(/(?:<div[^>]*>)?\s*(?:<span[^>]*>)*\s*(?:Notice:\s*(?:<br>)?\s*)?All official[\s\S]*?vacancies are published on this (?:website|job board)[\s\S]*?official careers website\.?\s*(?:<\/span>)*\s*(?:<\/div>)?/gi, '');
+  s = s.replace(/All official [^.]*vacancies are published on this (?:website|job board)[\s\S]*?(?:official careers website|official channels)\.?/gi, '');
+  s = s.replace(/While roles may appear on selected third-party platforms[\s\S]*?(?:official careers website|official channels)\.?/gi, '');
+  s = s.replace(/If in doubt, please apply directly through our official careers website\.?/gi, '');
+  s = s.replace(/We do not use third-party platforms or agencies for recruitment unless clearly stated\.?\s*All open roles are listed on our official channels\.?/gi, '');
+  s = s.replace(/Information collected and processed as part of the recruitment process[\s\S]*?Candidate Privacy Notice\.?/gi, '');
+  s = s.replace(/Information collected and processed as part of the recruitment process[\s\S]*?Privacy Notice\.?/gi, '');
+  s = s.replace(/<a[^>]*>(?:[A-Za-z0-9\s-]+)?Applicant Privacy Notice<\/a>\.?/gi, '');
+  s = s.replace(/(?:<div[^>]*>)?\s*(?:<span[^>]*>)*\s*Notice:\s*(?:<br>)?\s*(?:<\/span>)*\s*(?:<\/div>)?/gi, '');
+  s = s.replace(/Candidate Privacy Notice\.?/gi, '');
+  s = s.replace(/<div class="content-conclusion">\s*<\/div>/gi, '');
 
   // Unicode punctuation
   for (const [re, rep] of PUNCT_REPLACEMENTS) {
