@@ -369,7 +369,6 @@ async function postToFarcaster(
     text,
     embeds: [
       { url: linkUrl },
-      ...(ogImageUrl ? [{ url: ogImageUrl }] : []),
     ],
   };
 

@@ -1,10 +1,11 @@
 {
-  "lastIndex": 3,
+  "lastIndex": 4,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
     "managerpwc09",
-    "managerpwc07"
+    "managerpwc07",
+    "seniorpwc06"
   ],
   "history": [
     {
@@ -46,6 +47,14 @@
       "platform": "farcaster",
       "postedAt": "2026-09-05T10:15:19.961Z",
       "postId": "0xb85b7cd2f1869b5c23b79a312c6f24a276582e04"
+    },
+    {
+      "slug": "seniorpwc06",
+      "company": "PwC",
+      "title": "BCM - Assurance - Digital Assets Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-05T10:19:43.223Z",
+      "postId": "0x94832a5f72471a97a63549b372d7ff3fe4346428"
     }
   ]
 }
