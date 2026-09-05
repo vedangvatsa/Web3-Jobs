@@ -1,4 +1,4 @@
-name: Post Job Openings to X & Threads
+name: Post Job Openings to X, Threads & Bluesky
 
 on:
   schedule:
@@ -7,13 +7,14 @@ on:
   workflow_dispatch:
     inputs:
       platform:
-        description: 'Target platform (x, threads, or both)'
+        description: 'Target platform (all, x, threads, bluesky)'
         type: choice
         options:
-          - both
+          - all
           - x
           - threads
-        default: both
+          - bluesky
+        default: all
       dry_run:
         description: 'Dry run mode (preview without posting)'
         type: boolean
@@ -56,8 +57,10 @@ jobs:
           X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
           THREADS_ACCESS_TOKEN: ${{ secrets.THREADS_ACCESS_TOKEN }}
           THREADS_USER_ID: ${{ secrets.THREADS_USER_ID }}
+          BLUESKY_HANDLE: hashtagweb3.bsky.social
+          BLUESKY_APP_PASSWORD: ${{ secrets.BLUESKY_APP_PASSWORD }}
         run: |
-          ARGS="--platform ${{ github.event.inputs.platform || 'both' }}"
+          ARGS="--platform ${{ github.event.inputs.platform || 'all' }}"
           if [ "${{ github.event.inputs.dry_run }}" = "true" ]; then
             ARGS="$ARGS --dry-run"
           fi
