@@ -12,10 +12,14 @@ export async function GET(request: NextRequest) {
     const company = searchParams.get('company') || '';
     const location = searchParams.get('location') || 'Remote';
     const department = searchParams.get('department') || '';
-    const count = searchParams.get('count');
-    const salary = searchParams.get('salary');
     const category = searchParams.get('category');
     const date = searchParams.get('date') || '2026';
+    const slide = searchParams.get('slide'); // 'cover', 'content', 'cta'
+    const slideNumber = searchParams.get('num') || '1';
+    const totalSlides = searchParams.get('total') || '5';
+    const subtitle = searchParams.get('subtitle') || '';
+    const bodyText = searchParams.get('body') || '';
+    const tagline = searchParams.get('tagline') || 'Subscribed by 60k+ Web3 builders and professionals.';
 
     const baseContainerStyle = {
       height: '100%',
@@ -35,6 +39,263 @@ export async function GET(request: NextRequest) {
       border: '1px solid #e2e8f0',
       boxShadow: '0 25px 50px -12px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.8)',
     } as const;
+
+    // 0. Dedicated Instagram Advice Carousel Templates (1080x1080 Square, Light Mode)
+    if (type === 'advice-slide' || type === 'advice-cover' || type === 'advice-cta') {
+      const isCover = type === 'advice-cover' || slide === 'cover';
+      const isCta = type === 'advice-cta' || slide === 'cta';
+      const displayCategory = (category || 'Career Guides').toUpperCase();
+      const displayTitle = title.length > 90 ? `${title.slice(0, 87)}...` : title;
+
+      return new ImageResponse(
+        (
+          <div
+            style={{
+              ...baseContainerStyle,
+              width: '1080px',
+              height: '1080px',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '48px',
+            }}
+          >
+            <div
+              style={{
+                ...baseCardStyle,
+                width: '984px',
+                height: '984px',
+                padding: '64px 56px',
+                flexDirection: 'column',
+                justifyContent: 'space-between',
+                position: 'relative',
+              }}
+            >
+              {/* Header: Category Badge & Slide Progress */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  width: '100%',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '10px',
+                    padding: '8px 18px',
+                    backgroundColor: '#f0f9ff',
+                    border: '1px solid #bae6fd',
+                    borderRadius: '999px',
+                    fontSize: '16px',
+                    fontWeight: '700',
+                    color: '#0284c7',
+                    letterSpacing: '0.6px',
+                  }}
+                >
+                  {displayCategory}
+                </div>
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    fontSize: '18px',
+                    fontWeight: '600',
+                    color: '#94a3b8',
+                    letterSpacing: '0.5px',
+                  }}
+                >
+                  {slideNumber} / {totalSlides}
+                </div>
+              </div>
+
+              {/* Main Content Body */}
+              {isCover ? (
+                <div
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    justifyContent: 'center',
+                    alignItems: 'flex-start',
+                    gap: '24px',
+                    flex: 1,
+                  }}
+                >
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: displayTitle.length > 50 ? '58px' : '68px',
+                      fontWeight: '900',
+                      color: '#0f172a',
+                      lineHeight: '1.16',
+                      letterSpacing: '-2px',
+                    }}
+                  >
+                    {displayTitle}
+                  </div>
+                  {subtitle ? (
+                    <div
+                      style={{
+                        display: 'flex',
+                        fontSize: '28px',
+                        fontWeight: '500',
+                        color: '#475569',
+                        lineHeight: '1.45',
+                        maxWidth: '850px',
+                      }}
+                    >
+                      {subtitle}
+                    </div>
+                  ) : null}
+                  <div
+                    style={{
+                      display: 'flex',
+                      alignItems: 'center',
+                      gap: '8px',
+                      marginTop: '16px',
+                      fontSize: '20px',
+                      fontWeight: '600',
+                      color: '#0284c7',
+                    }}
+                  >
+                    Swipe to read →
+                  </div>
+                </div>
+              ) : isCta ? (
+                <div
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    justifyContent: 'center',
+                    alignItems: 'center',
+                    textAlign: 'center',
+                    gap: '32px',
+                    flex: 1,
+                  }}
+                >
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: '64px',
+                      fontWeight: '900',
+                      color: '#0f172a',
+                      letterSpacing: '-2px',
+                    }}
+                  >
+                    hashtagweb3.com
+                  </div>
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: '30px',
+                      fontWeight: '500',
+                      color: '#475569',
+                      maxWidth: '750px',
+                      lineHeight: '1.4',
+                    }}
+                  >
+                    {tagline}
+                  </div>
+                </div>
+              ) : (
+                <div
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    justifyContent: 'center',
+                    alignItems: 'flex-start',
+                    gap: '24px',
+                    flex: 1,
+                  }}
+                >
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: '46px',
+                      fontWeight: '800',
+                      color: '#0f172a',
+                      lineHeight: '1.2',
+                      letterSpacing: '-1px',
+                    }}
+                  >
+                    {displayTitle}
+                  </div>
+                  <div
+                    style={{
+                      display: 'flex',
+                      fontSize: '26px',
+                      fontWeight: '450',
+                      color: '#334155',
+                      lineHeight: '1.6',
+                      whiteSpace: 'pre-wrap',
+                    }}
+                  >
+                    {bodyText}
+                  </div>
+                </div>
+              )}
+
+              {/* Footer: Domain & Branding */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'space-between',
+                  borderTop: '1px solid #f1f5f9',
+                  paddingTop: '24px',
+                  width: '100%',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '10px',
+                  }}
+                >
+                  <div
+                    style={{
+                      width: '12px',
+                      height: '12px',
+                      borderRadius: '50%',
+                      backgroundColor: '#0284c7',
+                    }}
+                  />
+                  <div
+                    style={{
+                      fontSize: '22px',
+                      fontWeight: '800',
+                      color: '#0f172a',
+                      letterSpacing: '-0.5px',
+                    }}
+                  >
+                    hashtagweb3.com
+                  </div>
+                </div>
+                <div
+                  style={{
+                    fontSize: '18px',
+                    fontWeight: '500',
+                    color: '#94a3b8',
+                  }}
+                >
+                  {date}
+                </div>
+              </div>
+            </div>
+          </div>
+        ),
+        {
+          width: 1080,
+          height: 1080,
+          headers: {
+            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+          },
+        }
+      );
+    }
 
     // 1. Dedicated Job Posting Template (Clean, Minimalist, Big & Symmetric)
     if (type === 'job') {
