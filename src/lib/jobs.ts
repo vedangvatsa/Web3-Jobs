@@ -6,7 +6,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText } from '@/lib/noslop';
 import { getJobIdentity } from './job-slugs';
-import { isGeneralOrPlaceholderJobTitle } from './job-filters';
+import { isGeneralOrPlaceholderJobTitle, isConcreteJobOpening, cleanCompanyName } from './job-filters';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -120,14 +120,14 @@ export async function getJobs(): Promise<Job[]> {
       ...job,
       location: loc,
       title: cleanJobTitle(job.title, job.company),
-      company: cleanPublishText(job.company),
+      company: cleanCompanyName(cleanPublishText(job.company)),
     };
   });
 
-  // Filter out non-Web3 companies & general applications / talent pool placeholders
+  // Filter out non-Web3 companies & general applications / talent pool placeholders / non-concrete openings
   const web3Jobs = jobs.filter(job => {
     if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
-    if (isGeneralOrPlaceholderJobTitle(job.title)) return false;
+    if (!isConcreteJobOpening(job.title, job.link)) return false;
     return true;
   });
 

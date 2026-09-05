@@ -91,6 +91,9 @@ jobs:
       - name: Pre-bake job slugs into cache
         run: node scripts/prebake_slugs.js
 
+      - name: Verify jobs cache integrity
+        run: npx tsx scripts/verify-jobs-integrity.ts
+
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
         continue-on-error: true

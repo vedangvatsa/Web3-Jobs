@@ -1,7 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import https from 'https';
-import { isGeneralOrPlaceholderJobTitle } from '../src/lib/job-filters';
+import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
 
 const TODAY = new Date().toISOString().slice(0, 10);
 
@@ -19,21 +19,21 @@ const NEW_UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Turnkey', type: 'ashby', slug: 'turnkey', url: 'https://api.ashbyhq.com/posting-api/job-board/turnkey' },
   
   // AI + DePIN & Decentralized Compute
-  { company: 'Hyperbolic (AI + Web3)', type: 'ashby', slug: 'hyperbolic', url: 'https://api.ashbyhq.com/posting-api/job-board/hyperbolic' },
-  { company: 'ZeroGravity (0G AI)', type: 'ashby', slug: '0g', url: 'https://api.ashbyhq.com/posting-api/job-board/0g' },
-  { company: 'Grass (Wynd Labs DePIN)', type: 'ashby', slug: 'wynd-labs', url: 'https://api.ashbyhq.com/posting-api/job-board/wynd-labs' },
+  { company: 'Hyperbolic', type: 'ashby', slug: 'hyperbolic', url: 'https://api.ashbyhq.com/posting-api/job-board/hyperbolic' },
+  { company: '0G Labs', type: 'ashby', slug: '0g', url: 'https://api.ashbyhq.com/posting-api/job-board/0g' },
+  { company: 'Grass', type: 'ashby', slug: 'wynd-labs', url: 'https://api.ashbyhq.com/posting-api/job-board/wynd-labs' },
   { company: 'Sahara AI', type: 'ashby', slug: 'sahara', url: 'https://api.ashbyhq.com/posting-api/job-board/sahara' },
 
   // Node Infrastructure & Developer Tooling
   { company: 'Chainstack', type: 'bamboo', slug: 'chainstack', url: 'https://chainstack.bamboohr.com/careers/list' },
-  { company: 'Helius (Solana Infra)', type: 'ashby', slug: 'helius', url: 'https://api.ashbyhq.com/posting-api/job-board/helius' },
+  { company: 'Helius', type: 'ashby', slug: 'helius', url: 'https://api.ashbyhq.com/posting-api/job-board/helius' },
   { company: 'Nomic Foundation', type: 'ashby', slug: 'nomic.foundation', url: 'https://api.ashbyhq.com/posting-api/job-board/nomic.foundation' },
 
   // Layer 1 / 2 & Privacy Protocols
   { company: 'Movement Labs', type: 'ashby', slug: 'movement', url: 'https://api.ashbyhq.com/posting-api/job-board/movement' },
-  { company: 'Symbiotic Restaking', type: 'ashby', slug: 'symbiotic', url: 'https://api.ashbyhq.com/posting-api/job-board/symbiotic' },
-  { company: 'Aztec Labs (Privacy L2)', type: 'ashby', slug: 'aztec-labs', url: 'https://api.ashbyhq.com/posting-api/job-board/aztec-labs' },
-  { company: 'Succinct Labs (ZK)', type: 'ashby', slug: 'succinct', url: 'https://api.ashbyhq.com/posting-api/job-board/succinct' },
+  { company: 'Symbiotic', type: 'ashby', slug: 'symbiotic', url: 'https://api.ashbyhq.com/posting-api/job-board/symbiotic' },
+  { company: 'Aztec Labs', type: 'ashby', slug: 'aztec-labs', url: 'https://api.ashbyhq.com/posting-api/job-board/aztec-labs' },
+  { company: 'Succinct Labs', type: 'ashby', slug: 'succinct', url: 'https://api.ashbyhq.com/posting-api/job-board/succinct' },
 
   // NFT & Creator Marketplaces
   { company: 'Magic Eden', type: 'ashby', slug: 'magiceden', url: 'https://api.ashbyhq.com/posting-api/job-board/magiceden' },
@@ -151,7 +151,7 @@ async function ingestNewUntrackedFeeds() {
       }
       let countForFeed = 0;
       for (const item of jobsToProcess) {
-        if (isGeneralOrPlaceholderJobTitle(item.title)) continue;
+        if (!isConcreteJobOpening(item.title, item.link)) continue;
         const roleWord = getOneWordRole(item.title);
         const shortId = item.rawId.toString().replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase();
         const slug = `${roleWord}${shortId}`;
@@ -159,7 +159,7 @@ async function ingestNewUntrackedFeeds() {
         const jobObj = {
           id: item.id,
           title: item.title,
-          company: item.company,
+          company: cleanCompanyName(item.company),
           location: item.location,
           type: item.type,
           date: TODAY,
