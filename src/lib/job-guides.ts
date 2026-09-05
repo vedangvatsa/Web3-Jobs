@@ -271,6 +271,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
         .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
         .replace(/\s+([,.:;!?])/g, '$1')
         .replace(/\s+/g, ' ');
+      text = text.replace(/^[-*•·▪–—]\s+/, '');
       const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
       if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
       emitPendingHeading();
@@ -503,9 +504,34 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     .replace(/&quot;/g, '"')
     .replace(/&#39;/g, "'")
     .replace(/&nbsp;/g, ' ');
+
+  // Strip trailing dash after period before line/tag break
+  decoded = decoded.replace(/\.\s*[-–—]\s*(?=<\/p>|\n|$)/g, '.');
+
+  // Pre-split headings that collide with sentence end
+  const headerWords = 'Requirements|Responsibilities|Qualifications|What you will do|What you.ll do|What we.re looking for|Candidate Profile|Who you are|Benefits|Perks|Compensation|About the company|About the role|Working terms';
+  decoded = decoded.replace(new RegExp(`([.!?])\\s*(${headerWords})\\s*:\\s*[-*•·▪]?\\s*`, 'gi'), '$1\n\n###HEADING###$2\n');
+
+  // Pre-split inline bullets
+  decoded = decoded.replace(/([;\.\?!])\s*[-*•·▪]\s+([A-Z0-9])/g, '$1\n- $2');
+  decoded = decoded.replace(/([a-z0-9\)])\s*\.-\s*([A-Z])/g, '$1.\n- $2');
+  decoded = decoded.replace(/:\s*[-*•·▪]\s+([A-Z0-9])/g, ':\n- $1');
+  decoded = decoded.replace(/([;\.\?!:])\s*\*\s+([A-Z0-9])/g, '$1\n- $2');
+
+  // Smarter <br> conversion: double br = paragraph break, br before bullet = newline, lone br = space
+  decoded = decoded.replace(/<br(?:\s+[^>]*)?\s*\/?>\s*<br(?:\s+[^>]*)?\s*\/?>/gi, '\n\n');
+  decoded = decoded.replace(/<br(?:\s+[^>]*)?\s*\/?>\s*(?=\s*(?:[-*•·▪\u25aa\u2013\u2014]|\d+[\.\)]))/gi, '\n');
+  decoded = decoded.replace(/<br(?:\s+[^>]*)?\s*\/?>/gi, ' ');
+
   decoded = cleanPublishText(decoded);
 
-  const $ = cheerio.load(decoded);
+  let $ = cheerio.load(decoded);
+
+  // If a scoped job description container exists (e.g. Ripple / custom ATS wrapper dumps), focus on it
+  if ($('.single-job-content').length > 0) {
+    const sub = $('.single-job-content').html();
+    if (sub) $ = cheerio.load(sub);
+  }
 
   // Remove non-content tags and navigation / apply button boilerplate
   $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
@@ -526,14 +552,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     $el.replaceWith(` \u21E7JOBLINK:${href}\u2044${label}\u21E9 `);
   });
 
-  // Convert <br> tags to newlines
-  $('br').replaceWith('\n');
-
   // Convert standalone <strong> or <b> section headers into explicit heading markers
   $('strong, b').each((_, el) => {
     const text = $(el).text().trim();
     if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',')) {
-      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|role|the role|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|about the organization|about the foundation|about you|what you.?ll do|what you will do|what we.?re looking for)/i.test(text)) {
+      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|role|the role|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|about the organization|about the foundation|about you|what you.?ll do|what you will do|what we.?re looking for|working terms)/i.test(text)) {
         $(el).replaceWith(`\n###HEADING###${text}\n`);
       }
     }
@@ -556,15 +579,15 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
       // rendered HTML never contains clumped bullet copy.
       const items = text
         .split(/\s+[•·]\s+/)
-        .map((item) => item.trim())
+        .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').trim())
         .filter(Boolean);
       $(el).replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
     }
   });
 
   // Append newlines after block containers and headings
-  $('p, div, section, article, h1, h2, h3, h4, h5, h6, li').each((_, el) => {
-    $(el).append('\n');
+  $('p, div, section, article, h1, h2, h3, h4, h5, h6').each((_, el) => {
+    $(el).append('\n\n');
   });
 
   const fullText = $('body').text();
@@ -625,7 +648,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     if (bulletMatch) {
       const bulletItems = bulletMatch[1]
         .split(/\s+[•·]\s+/)
-        .map((item) => item.trim())
+        .map((item) => item.replace(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*/, '').trim())
         .filter(Boolean);
       for (const item of bulletItems) {
         blocks.push({ type: 'li', text: item });
@@ -643,7 +666,7 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
     // Standalone heading line detection
     if (
       line.length < 60 &&
-      /^(the opportunity|about the organization|about the foundation|about us|about the company|about the team|about you|who you are|who we are|what you.?ll do|what you will do|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|what you bring|what we.?re looking for|what we look for|what we offer|benefits|perks|compensation|our values|culture|company culture)[:]?$/i.test(
+      /^(the opportunity|about the organization|about the foundation|about us|about the company|about the team|about you|who you are|who we are|what you.?ll do|what you will do|responsibilities|key responsibilities|core responsibilities|the role|role overview|requirements|key requirements|qualifications|minimum qualifications|basic qualifications|preferred qualifications|nice to have|bonus points|what you bring|what we.?re looking for|what we look for|what we offer|benefits|perks|compensation|our values|culture|company culture|working terms)[:]?$/i.test(
         line
       )
     ) {
@@ -651,7 +674,13 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'p
       continue;
     }
 
-    blocks.push({ type: 'p', text: line });
+    // Paragraph continuation check: if previous block is p, and this line starts lowercase or prev line did not end in terminal punct
+    const lastBlock = blocks[blocks.length - 1];
+    if (lastBlock && lastBlock.type === 'p' && (/^[a-z]/.test(line) || !/[.!?:]$/.test(lastBlock.text))) {
+      lastBlock.text += ' ' + line;
+    } else {
+      blocks.push({ type: 'p', text: line });
+    }
   }
 
   // Fallback if parsing produced nothing
@@ -705,6 +734,7 @@ function formatJobContent(originalHtml: string): string {
       });
 
     if (block.type === 'li') {
+      text = text.replace(/^[-*•·▪–—]\s+/, '');
       if (!currentListOpen) {
         html += '<ul class="list-disc pl-5 space-y-2 my-4">';
         currentListOpen = true;
