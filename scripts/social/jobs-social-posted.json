@@ -1,8 +1,9 @@
 {
-  "lastIndex": 1,
+  "lastIndex": 2,
   "postedSlugs": [
     "operationsft05",
-    "associatepwc10"
+    "associatepwc10",
+    "managerpwc09"
   ],
   "history": [
     {
@@ -28,6 +29,14 @@
       "platform": "threads",
       "postedAt": "2026-09-05T09:45:27.361Z",
       "postId": "17914293072448509"
+    },
+    {
+      "slug": "managerpwc09",
+      "company": "PwC",
+      "title": "Banking & Capital Markets Tax Manager (FinTech & Crypto)",
+      "platform": "threads",
+      "postedAt": "2026-09-05T10:04:55.732Z",
+      "postId": "18017839757726459"
     }
   ]
 }
