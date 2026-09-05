@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: concentrated liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 ## Understanding Concentrated Liquidity in Uniswap v3
 

@@ -4,7 +4,7 @@ data-ai-hint: nairobi kenya city
 description: Discover Web3 and fintech job opportunities in Nairobi's tech ecosystem.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Nairobi, the active capital of Kenya, has earned the nickname "Silicon Savannah" due to its status as East Africa's leading technology and innovation center. The city has a rich history of developing mobile-first financial solutions, exemplified by the success of M-Pesa, which transformed mobile payments long before similar innovations emerged globally. This culture of mobile innovation, paired with a growing pool of tech talent and a commitment to addressing real-world challenges, has set the stage for a flourishing [Web3](/what-is-web3) ecosystem.
 

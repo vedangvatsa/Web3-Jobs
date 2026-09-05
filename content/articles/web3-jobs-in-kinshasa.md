@@ -6,7 +6,7 @@ description: >-
   capital of the Democratic Republic of Congo is using its vast resources.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Kinshasa, the capital of the Democratic Republic of Congo (DRC), presents significant opportunities in the Web3 and blockchain sectors. With a population exceeding 12 million and a youthful demographic, the city serves as a promising frontier for decentralized technologies. The DRC's abundant mineral resources, particularly cobalt, play a critical role in the global technology supply chain. Blockchain can enhance supply chain transparency and ensure ethical sourcing, addressing global concerns surrounding conflict minerals.
 

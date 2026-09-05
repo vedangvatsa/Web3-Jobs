@@ -7,7 +7,7 @@ description: >-
   technology combines the power of ZK-proofs with EVM compatibility to create a.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 In [Ethereum](/what-is-ethereum) scaling, achieving high scalability while maintaining compatibility with the existing Ethereum ecosystem has long been a challenging goal. Historically, developers faced a tough decision: adopt Optimistic Rollups, which offer easy EVM compatibility, or ZK-Rollups, known for their enhanced security and speed but requiring a different development environment.
 

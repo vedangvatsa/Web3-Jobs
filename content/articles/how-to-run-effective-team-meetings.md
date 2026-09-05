@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: team meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 ## Introduction: The High Cost of Bad Meetings
 

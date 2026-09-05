@@ -7,7 +7,7 @@ description: >-
   responsibly.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 AI ethics is the practice of identifying and reducing harms that AI systems can cause to people, organizations, and society. AI reflects the data it was trained on and the choices of the people who built it. When those inputs contain historical bias, sensitive data, or poor safety checks, the system can repeat and scale those problems.
 

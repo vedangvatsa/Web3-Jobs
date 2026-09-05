@@ -8,7 +8,7 @@ description: >-
   adoption. This guide covers the job market, key roles, and salary.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Vietnam has emerged as a significant player in the [Web3](/what-is-web3) space, particularly within the field of [blockchain](/what-is-a-blockchain) gaming, known as GameFi. Its large, youthful, and entrepreneurial population, coupled with a strong gaming culture and a high cryptocurrency adoption rate, has established a active ecosystem for innovation. The success of Axie Infinity, a blockchain game created by the Vietnamese studio Sky Mavis, has inspired many new developers and solidified Vietnam's reputation in this sector.
 

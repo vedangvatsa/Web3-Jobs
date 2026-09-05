@@ -8,7 +8,7 @@ description: >-
   used in real pilots, what the tradeoffs are, and which roles to target.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 A Web3 supply chain expert combines logistics knowledge with blockchain and data standards to track goods from source to store on a shared ledger. The work is not about replacing trucks or scanners. It is about giving farmers, carriers, warehouses, and retailers one place to agree on what happened, when, and where.
 

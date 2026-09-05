@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: block propagation
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 ## What is Block Propagation in Blockchain Networks?
 

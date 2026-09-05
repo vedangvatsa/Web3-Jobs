@@ -7,7 +7,7 @@ description: >-
   why crypto is the essential economic layer that powers the decentralized.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 The terms "[Web3](/what-is-web3)" and "cryptocurrency" often appear in discussions about the future of the internet. While they are distinct concepts, their interconnection is essential for understanding the decentralized internet's framework.
 

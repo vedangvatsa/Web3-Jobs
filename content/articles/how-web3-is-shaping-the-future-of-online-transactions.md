@@ -7,7 +7,7 @@ description: >-
   secure, and efficient alternative to traditional payment systems.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 For decades, a small number of centralized intermediaries have controlled online transactions. When you make a purchase online, various banks, credit card networks like Visa and Mastercard, and payment gateways such as Stripe and PayPal process your payment. This system, while functional, is plagued by inefficiencies, high costs, and exclusivity.
 

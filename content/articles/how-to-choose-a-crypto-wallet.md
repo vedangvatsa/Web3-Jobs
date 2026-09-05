@@ -8,7 +8,7 @@ description: >-
   of crypto wallets and helps you choose the right one based on your security.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 A crypto wallet does not hold coins the way a leather wallet holds cash. Coins and tokens stay on the blockchain. The wallet holds your private keys and lets you sign transactions, prove ownership, and connect to apps. If you plan to hold crypto, use [DeFi](/what-is-defi), collect [NFTs](/what-are-nfts), or join a [DAO](/what-is-a-dao), you need a wallet that matches how you will actually use the chain.
 

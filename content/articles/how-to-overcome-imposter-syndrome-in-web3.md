@@ -8,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: person working at desk with notes
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-04"
+lastUpdated: "2026-09-05"
 ---
 Impostor feelings are the persistent belief that you are not as competent as others think you are, and that you have fooled people and will be found out. In Web3 that belief often shows up when the tools change every few months and your code, transactions, and portfolio are visible to anyone.
 
