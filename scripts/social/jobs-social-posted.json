@@ -1,5 +1,5 @@
 {
-  "lastIndex": 11,
+  "lastIndex": 12,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -9,7 +9,8 @@
     "managerpwc05",
     "seniorpwc04",
     "architectpwc03",
-    "role0e83c"
+    "role0e83c",
+    "coindcx1769"
   ],
   "history": [
     {
@@ -219,6 +220,54 @@
       "platform": "instagram",
       "postedAt": "2026-09-05T20:18:45.458Z",
       "postId": "18123039439873127"
+    },
+    {
+      "slug": "coindcx1769",
+      "company": "CoinDCX",
+      "title": "Associate Market Risk",
+      "platform": "x",
+      "postedAt": "2026-09-05T22:52:59.742Z",
+      "postId": "2096371042436440424"
+    },
+    {
+      "slug": "coindcx1769",
+      "company": "CoinDCX",
+      "title": "Associate Market Risk",
+      "platform": "threads",
+      "postedAt": "2026-09-05T22:52:59.742Z",
+      "postId": "17896060455605787"
+    },
+    {
+      "slug": "coindcx1769",
+      "company": "CoinDCX",
+      "title": "Associate Market Risk",
+      "platform": "bluesky",
+      "postedAt": "2026-09-05T22:52:59.742Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3musl25ulo22l"
+    },
+    {
+      "slug": "coindcx1769",
+      "company": "CoinDCX",
+      "title": "Associate Market Risk",
+      "platform": "farcaster",
+      "postedAt": "2026-09-05T22:52:59.742Z",
+      "postId": "0x4fd04637b3dbb56d123778c8e3abbf959d564b6c"
+    },
+    {
+      "slug": "coindcx1769",
+      "company": "CoinDCX",
+      "title": "Associate Market Risk",
+      "platform": "linkedin",
+      "postedAt": "2026-09-05T22:52:59.742Z",
+      "postId": "6a9c9d62fba008bcd55378db"
+    },
+    {
+      "slug": "coindcx1769",
+      "company": "CoinDCX",
+      "title": "Associate Market Risk",
+      "platform": "facebook",
+      "postedAt": "2026-09-05T22:52:59.742Z",
+      "postId": "1080965677844000"
     }
   ]
 }
