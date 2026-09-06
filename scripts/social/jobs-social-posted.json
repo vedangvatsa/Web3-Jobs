@@ -1,5 +1,5 @@
 {
-  "lastIndex": 99,
+  "lastIndex": 100,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -21,7 +21,8 @@
     "role48efb",
     "role34004",
     "backend61e12",
-    "job6178e"
+    "job6178e",
+    "role0c933"
   ],
   "history": [
     {
@@ -551,6 +552,54 @@
       "platform": "instagram",
       "postedAt": "2026-09-06T20:23:14.711Z",
       "postId": "17899529526571610"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "threads",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "18107208125327143"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muv3jz7bhv2e"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "0x54ee2f36a25dff85af13b007243fc87b8337d280"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "6a9def00af83b6dedf9e0d43"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "1081806087759959"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "18109198792873757"
     }
   ]
 }
