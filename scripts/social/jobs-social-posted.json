@@ -1,5 +1,5 @@
 {
-  "lastIndex": 96,
+  "lastIndex": 98,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -19,7 +19,8 @@
     "role2ed86",
     "role77009",
     "role48efb",
-    "role34004"
+    "role34004",
+    "backend61e12"
   ],
   "history": [
     {
@@ -453,6 +454,54 @@
       "platform": "instagram",
       "postedAt": "2026-09-06T10:52:45.167Z",
       "postId": "18006986999975742"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "threads",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "18049516709803066"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muuckpw55k27"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "0x6f7f3edf3a4b44c2d5cdf5f9d9849b8ed7bb1180"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "6a9d863c05c83fb1f62309ac"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "1081550151118886"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "18589484308067622"
     }
   ]
 }
