@@ -260,6 +260,10 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   // heading in between means a genuinely new section, which stays faithful.
   let lastEmittedH3Norm = '';
   const normHeading = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '');
+  // True when the pending heading came from a trailing-label split (below)
+  // rather than a real heading block: a subsequent REAL heading supersedes
+  // it (dropped, never rendered as a lone header).
+  let pendingIsTrailLabel = false;
 
   const emitPendingHeading = () => {
     if (pendingHeading) {
@@ -267,6 +271,14 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       if (pendingIntro) html += `<p class="text-sm text-muted-foreground mb-3">${pendingIntro}</p>`;
       pendingHeading = null;
       pendingIntro = null;
+      pendingIsTrailLabel = false;
+    }
+  };
+  const dropTrailPendingHeading = () => {
+    if (pendingIsTrailLabel) {
+      pendingHeading = null;
+      pendingIntro = null;
+      pendingIsTrailLabel = false;
     }
   };
 
@@ -280,6 +292,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   for (const block of blocks) {
     if (block.type === 'h3' || block.type === 'h4') {
       flushList();
+      dropTrailPendingHeading();
       emitPendingHeading();
       const isH3 = block.type === 'h3';
       if (isH3) isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
@@ -305,6 +318,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
         ? `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${rendered}</h3>`
         : `<h4 class="text-lg font-semibold tracking-tight text-foreground mt-6 mb-2">${rendered}</h4>`;
       pendingIntro = intro || null;
+      pendingIsTrailLabel = false;
       if (isH3 && norm) lastEmittedH3Norm = norm;
       continue;
     }
@@ -312,6 +326,29 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
       const spunText = spinJobPostingBlock(block.text, 'li', isAboutSection);
       let text = renderInlineMd(escapeHtml(spunText));
       text = text.replace(/^[-*•·▪–—]\s+/, '');
+      // Trailing section labels glued to the last bullet ("...temperatures
+      // Safety Requirements", "...skills Physical requirements and work
+      // environment") become a pending sub-heading for what follows instead
+      // of dangling inside the bullet. The trimmed bullet renders first under
+      // the current section; the label stays pending (dropped silently if a
+      // real heading or nothing follows, so lone headers never render).
+      // (First label word must be capitalized: lowercase tails like "...meets
+      // all safety requirements" are prose, not labels. Later words accept
+      // either case: "...Physical requirements and work environment".)
+      const trailLabel = text.match(/^(.*?\S)\s+((?:Safety Requirements|Physical Demands|Physical [Rr]equirements|About the (?:Company|Role|Team))(?:\s+and\s+(?:[Ww]ork [Ee]nvironment|Safety Requirements|Physical Demands))?)\s*$/);
+      if (trailLabel && trailLabel[1].length > 20) {
+        text = trailLabel[1];
+        const headColon = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
+        if (headColon && headColon[1].length < 40) text = `<strong>${headColon[1]}:</strong>${headColon[2]}`;
+        emitPendingHeading();
+        if (!currentListOpen) { html += '<ul class="list-disc pl-5 space-y-2 my-4">'; currentListOpen = true; }
+        html += `<li>${text}</li>`;
+        flushList();
+        pendingHeading = `<h4 class="text-lg font-semibold tracking-tight text-foreground mt-6 mb-2">${renderInlineMd(escapeHtml(trailLabel[2]))}</h4>`;
+        pendingIntro = null;
+        pendingIsTrailLabel = true;
+        continue;
+      }
       const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
       if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
       emitPendingHeading();
@@ -559,8 +596,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     (full: string, p1: string, p2: string, offset: number, whole: string) => {
       const tail = full.slice(full.toLowerCase().lastIndexOf(p2.toLowerCase()) + p2.length);
       if (!tail.includes(':')) {
+        // Strictly require an uppercase/digit boundary. In particular a "<"
+        // (tag) does NOT qualify: the header word may sit inside markup
+        // mid-phrase ("...skills <strong>requirements</strong> and..."),
+        // where splitting eats the word and orphans the rest.
         const nextChar = whole[offset + full.length] || '';
-        if (nextChar !== '<' && !/[A-Z0-9]/.test(nextChar)) return full;
+        if (!/[A-Z0-9]/.test(nextChar)) return full;
       }
       return (p1 ? `${p1}\n\n` : '') + `###HEADING###${p2}\n`;
     },
@@ -648,6 +689,16 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     $el.replaceWith(` ⇧JOBLINK:${href}⁄${label}⇩ `);
   });
 
+  // Unwrap redundant <b><strong>X</strong></b> nesting (Rippling/Google-
+  // Translate span soup) so split headings become mergeable siblings below.
+  $('b').each((_, el) => {
+    const $b = $(el);
+    const kids = $b.contents().filter((_, n: any) => !(n.type === 'text' && !String(n.data || '').trim()));
+    if (kids.length === 1 && (kids[0] as any).type === 'tag' && ((kids[0] as any).name === 'strong' || (kids[0] as any).name === 'b')) {
+      $b.replaceWith($(kids[0]));
+    }
+  });
+
   // Convert standalone <strong> or <b> section headers into explicit heading markers.
   // ATS editors often split one heading across adjacent bold elements
   // (<strong>About the O</strong><strong>pportunity</strong>); merge those
@@ -657,11 +708,31 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     const $el = $(el);
     let combined = $el.text();
     let mergedSiblings = false;
-    let node: any = ($el[0] as any).next;
+    // Climb through single-child wrappers (<b><strong>X</strong></b>) so the
+    // scan continues at the phrase level, not the nesting level.
+    const climb = (): any => {
+      let n: any = ($el[0] as any).next;
+      let scope: any = ($el[0] as any).parent;
+      while (!n && scope && scope.type === 'tag' && !/^(p|div|li|h[1-6]|td|th|tr|tbody|table|ul|ol|body|html)$/i.test(scope.name || '')) {
+        n = scope.next;
+        scope = scope.parent;
+      }
+      return n;
+    };
+    let node: any = climb();
     while (node) {
       if (node.type === 'text') {
         if (node.data.trim() !== '') break;
         node = node.next;
+        continue;
+      }
+      // Whitespace-only wrappers between split bolds (<span> </span>) are
+      // dropped so the merge isn't blocked by formatting spans.
+      if (node.type === 'tag' && node.name !== 'strong' && node.name !== 'b') {
+        if ($(node).text().trim() !== '') break;
+        const doomed: any = node;
+        node = node.next;
+        $(doomed).remove();
         continue;
       }
       if (node.type === 'tag' && (node.name === 'strong' || node.name === 'b')) {
@@ -689,8 +760,28 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
       // otherwise the removed siblings' text would be lost.
       $el.text(combined);
     }
-    if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',')) {
-      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|physical demands|reports to|salary|employment type|job type|work location|schedule|department|team|requisition|disclaimer|visa sponsorship|work authorization|eeo|equal opportunity|role|the role|the team|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|who we are|how we work|how we hire|why work with us|position summary|role summary|job summary|about the organization|about the foundation|about the team|about the role|role overview|position overview|about you|what you.?ll do|what you will do|what we.?re looking for|working terms|ai usage)/i.test(text)) {
+    // A single (unmerged) bold phrase only counts as a heading when it stands
+    // alone in its parent block. Mid-sentence emphasis ("learn more about
+    // the company below") must never split the sentence into heading +
+    // orphan fragments. Multi-strong merges are exempt: adjacent bolds are a
+    // heading container by construction.
+    let standsAlone = mergedSiblings;
+    if (!standsAlone) {
+      const $parent = $el.parent();
+      if ($parent.length > 0) {
+        const $pc = $parent.clone();
+        $pc.find('strong,b').remove();
+        standsAlone = $pc.text().trim() === '';
+      }
+    }
+    if (!standsAlone) return;
+    // Single generic words ("What", "About", "Bonus") are heading fragments,
+    // not headings — headifying them orphans the rest ("What" + "you'll do
+    // Payroll..."). Only complete single-word sections qualify alone.
+    const isMultiWord = /\s/.test(text);
+    const isStandaloneSection = /^(overview|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|skills|mission|location|department|salary|schedule|team)$/i.test(text);
+    if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',') && (isMultiWord || isStandaloneSection)) {
+      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|physical demands|reports to|salary|employment type|job type|work location|schedule|department|team|requisition|disclaimer|visa sponsorship|work authorization|role|the role|the team|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|who we are|how we work|how we hire|why work with us|position summary|role summary|job summary|about the organization|about the foundation|about the team|about the role|role overview|position overview|about you|what you.?ll do|what you will do|what we.?re looking for|working terms|ai usage)/i.test(text)) {
         $(el).replaceWith(`\n###HEADING###${text}\n`);
       }
     }
@@ -763,6 +854,11 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
         rawBlocks.push({ type: 'p', text: beforeText });
       }
       const hText = rest.join('').replace(/[:]+$/, '').trim();
+      // Equal-opportunity headers and share/footer headings are boilerplate,
+      // never section headings — drop them outright (their body sentences
+      // are stripped separately).
+      if (/^(equal opportunity|eeo)\b/i.test(hText)) continue;
+      if (/^(share(\s+on|\s+this)?|follow us|connect with us)\s*:?\s*$/i.test(hText)) continue;
       if (hText && hText.length < 100) {
         rawBlocks.push({ type: 'h3', text: hText });
       } else if (hText) {
@@ -784,9 +880,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     if (/^(Powered by|English|Українська|Polski|Español|Português|Deutsch|Slovenčina|Magyar)$/i.test(line.trim())) continue;
     if (/^By:\s*/i.test(line.trim())) continue;
     if (/^Related articles\b/i.test(line.trim())) continue;
+    if (/^(share(\s+on|\s+this)?|follow us|connect with us)\s*:?\s*$/i.test(line.trim())) continue;
     if (/^(job description|position description|job overview)[:]?$/i.test(line.trim())) continue;
-    // Social-link farm paragraphs (help-center footers): 4+ outbound links
-    // with pipe separators in a short span is a footer, never prose.
+    // Social-link farm paragraphs (help-center / ATS footers like "Share on
+    // Terms of service Privacy Cookies"): a paragraph that is almost entirely
+    // links is a footer, never prose.
+    if ((line.match(/⇧JOBLINK:/g) || []).length >= 3 && line.replace(/⇧JOBLINK:[^⇩]*⇩/g, '').trim().length < 80) continue;
     if ((line.match(/⇧JOBLINK:/g) || []).length >= 4 && (line.replace(/⇧JOBLINK:[^⇩]*⇩/g, '').trim().length < 300) && ((line.match(/\|/g) || []).length >= 3 || /find us on|follow us|supported platforms|join our community/i.test(line))) continue;
     if (/^This (?:job opening|position) is verified from/i.test(line.trim())) continue;
     if (/Click (?:<strong>)?Apply Now(?:<\/strong>)? to submit your application/i.test(line.trim())) continue;
@@ -818,10 +917,19 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
         .map((item) => item.replace(/^[-*•·▪–—]\s*/, '').trim())
         .filter(Boolean);
       for (const item of bulletItems) {
-        // If previous block was a bullet ending with trailing dash or hyphen, merge
+        // A previous bullet ending with a trailing dash usually soft-wraps
+        // ("full- / time role") — but a capitalized, standalone next item
+        // ("afines.- / Experiencia requerida...") is a NEW bullet whose
+        // stray dash must be stripped instead of fused.
         const last = rawBlocks[rawBlocks.length - 1];
         if (last && last.type === 'li' && /[-–—]$/.test(last.text)) {
-          last.text = last.text.replace(/[-–—]+$/, '').trim() + ' - ' + item;
+          const looksContinuation = /^[a-z]/.test(item) || item.length < 40;
+          if (looksContinuation) {
+            last.text = last.text.replace(/[-–—]+$/, '').trim() + ' - ' + item;
+          } else {
+            last.text = last.text.replace(/[-–—]+$/, '').trim();
+            rawBlocks.push({ type: 'li', text: item });
+          }
         } else {
           rawBlocks.push({ type: 'li', text: item });
         }
@@ -933,6 +1041,20 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     }
   }
 
+  // Re-strip boilerplate on MERGED blocks: trigger phrases split across source
+  // lines ("Riot is an equal | opportunity employer.") evade the per-line
+  // pass and only become visible after merging. Drop blocks emptied by it.
+  for (let bi = blocks.length - 1; bi >= 0; bi--) {
+    const b = blocks[bi];
+    if (b.type !== 'p' && b.type !== 'li') continue;
+    const rest = stripBoilerplateSentences(b.text);
+    if (!rest) {
+      blocks.splice(bi, 1);
+    } else {
+      b.text = rest;
+    }
+  }
+
   // Drop help-center nav-menu paragraphs that only assembled AFTER short menu
   // lines merged above (per-line length guards can't see the merged result).
   for (let bi = blocks.length - 1; bi >= 0; bi--) {
@@ -952,6 +1074,32 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     if (!rest) continue;
     blocks.splice(bi, 1, { type: 'h3', text: m[1] }, { type: 'p', text: rest });
     bi++;
+  }
+
+  // Split trailing dash-chains inside paragraphs ("...spoken English. -
+  // Bonus: visa help"): ATS dash-bullets that lost their line breaks. Only
+  // the TAIL is peeled — ". - Capital…" segments (<140 chars, a single
+  // sentence) become list items; the head stays a paragraph. Ranges
+  // ("1 - 3 years") and mid-prose dashes never match (no preceding period).
+  for (let bi = 0; bi < blocks.length; bi++) {
+    const b = blocks[bi];
+    if (b.type !== 'p') continue;
+    const items: string[] = [];
+    let head = b.text;
+    for (;;) {
+      const m = head.match(/^(.*)\.\s+-\s+([A-Z][\s\S]{5,140})$/);
+      if (!m) break;
+      const tail = m[2].trim();
+      if (/[.?!]\s+[A-Z]/.test(tail)) break;
+      items.unshift(tail);
+      head = `${m[1].trim()}.`;
+      if (items.length >= 12) break;
+    }
+    if (items.length > 0 && head.length >= 30) {
+      const nb: typeof blocks = [{ type: 'p', text: head }, ...items.map((text) => ({ type: 'li' as const, text }))];
+      blocks.splice(bi, 1, ...nb);
+      bi += nb.length - 1;
+    }
   }
 
   // Fallback if parsing produced nothing
@@ -996,6 +1144,11 @@ function renderInlineMd(escaped: string): string {
     .replace(/\*\*/g, '')
     .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
     .replace(/\s+([,.:;!?])/g, '$1')
+    // Tighten boundary spaces introduced by tag-concat separation:
+    // "( Radar )" back to "(Radar)". Runs here (not at extraction) so link
+    // labels and bold spans keep their separators until the very end.
+    .replace(/\(\s+/g, '(')
+    .replace(/\s+\)/g, ')')
     .replace(/\s+/g, ' ');
 }
 
@@ -1025,10 +1178,20 @@ const BOILER_SENTENCE_RES: RegExp[] = [
   /[^.!?]*\bpage is loaded\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bby submitting your application to us, you consent\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bplease consider your application as unsuccessful\b[^.!?]*[.!?]*/gi,
-  /[^.!?]*\bequal opportunity employer\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bequal opportunity employers?\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\ball qualified applicants\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\baffirmative action\b[^.!?]*[.!?]*/gi,
   /[^.!?]*\bwithout regard to\b[^.!?]*(?:race|color|religion|sex|national origin)[^.!?]*[.!?]*/gi,
+  // E-Verify / eligibility boilerplate ("...required to verify identity and
+  // eligibility to work...") and diversity-boilerplate sentences that carry
+  // no role information.
+  /[^.!?]*\bverify identity and eligibility\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bdiverse and inclusive workplace\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bcommitted to creating an inclusive environment\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\binclusive environment for all employees\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bdoes not make [\w\s]*decisions on the basis of\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bdo not discriminate\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bcelebrat\w+ (?:our |the )?(?:diverse|differences)\b[^.!?]*[.!?]*/gi,
 ];
 
 function stripBoilerplateSentences(line: string): string {
