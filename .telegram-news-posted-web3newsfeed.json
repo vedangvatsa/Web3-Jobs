@@ -539,6 +539,9 @@
   "https://cointelegraph.com/news/wyoming-chainlink-onchain-reserves-of-state-issued-stable-token?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/coinbase-launches-regulated-crypto-derivatives-in-canada?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://cointelegraph.com/news/us-officials-crowdstrike-malware-stealing-crypto?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
+  "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
+  "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1523,6 +1526,12 @@
   "Coinbase launches regulated crypto derivatives in Canada",
   "US Officials and CrowdStrike Disrupt Crypto Theft Malware",
   "US officials work with CrowdStrike to fight malware behind crypto theft",
+  "Liquid Network Pauses Following $320 Million Bitcoin Withdrawal",
+  "Liquid Network pauses after purported ‘white-hat’ hackers withdraw $320 million in bitcoin",
+  "STONK Reaches $140 Million Market Cap After Raydium Integration",
+  "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
+  "New Jersey Appeals Kalshi Case to US Supreme Court",
+  "Prediction markets inch closer to the Supreme Court: State of Crypto",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1594,5 +1603,8 @@
   "fp:arthur|bitmex|btc|but|buy|by2030|despit|eth|expect|favor",
   "fp:add|asset|chainlink|decentraliz|integrat|issu|network|oracl|provid|public",
   "fp:access|can|canada|canadian|coinbas|contract|dat|derivativ|eligibl|futur",
-  "fp:000|150|behind|crowdstrik|cryptocurrency|disrupt|eight|fight|joint|last"
+  "fp:000|150|behind|crowdstrik|cryptocurrency|disrupt|eight|fight|joint|last",
+  "fp:320m|blockstream|contact|developer|exchang|follow|hacker|hat|lbtc|liquid",
+  "fp:140m|cap|drov|integration|jupiter|launchpad|market|mor|pair|percent",
+  "fp:appeal|ask|cas|closer|court|disput|inch|jersey|kalshi|legal"
 ]
