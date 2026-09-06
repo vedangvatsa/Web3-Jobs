@@ -1,5 +1,5 @@
 {
-  "lastIndex": 51,
+  "lastIndex": 76,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -11,7 +11,12 @@
     "architectpwc03",
     "role0e83c",
     "coindcx1769",
-    "role7ac73"
+    "role7ac73",
+    "coindcx1661",
+    "compliancer3c2cf",
+    "role0fb27",
+    "operations9a8ab",
+    "role2ed86"
   ],
   "history": [
     {
@@ -325,6 +330,70 @@
       "platform": "instagram",
       "postedAt": "2026-09-06T04:34:11.683Z",
       "postId": "17961991356188079"
+    },
+    {
+      "slug": "coindcx1661",
+      "company": "CoinDCX",
+      "title": "Senior Associate – Market Risk",
+      "platform": "threads",
+      "postedAt": "2026-09-06T07:39:49.374Z",
+      "postId": "18390135616202919"
+    },
+    {
+      "slug": "coindcx1661",
+      "company": "CoinDCX",
+      "title": "Senior Associate – Market Risk",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T07:39:49.374Z",
+      "postId": "0x0641d094248c7f9a7022276037076d094878705b"
+    },
+    {
+      "slug": "coindcx1661",
+      "company": "CoinDCX",
+      "title": "Senior Associate – Market Risk",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T07:39:49.374Z",
+      "postId": "6a9d18da3d3084049945bb54"
+    },
+    {
+      "slug": "compliancer3c2cf",
+      "company": "Mudrex",
+      "title": "Compliance & AML Officer",
+      "platform": "threads",
+      "postedAt": "2026-09-06T07:47:05.452Z",
+      "postId": "18019376045714827"
+    },
+    {
+      "slug": "compliancer3c2cf",
+      "company": "Mudrex",
+      "title": "Compliance & AML Officer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T07:47:05.452Z",
+      "postId": "0x2c0e36792ab03dd1c3ca1d1697d76ec43735562c"
+    },
+    {
+      "slug": "role0fb27",
+      "company": "Hyperliquid Labs",
+      "title": "Senior Frontend Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T07:47:32.572Z",
+      "postId": "6a9d1a97fd1c461b008f6bbb"
+    },
+    {
+      "slug": "operations9a8ab",
+      "company": "Bitget",
+      "title": "Smart Contract Engineer 智能合约工程师",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T08:01:13.403Z",
+      "postId": "1081259294481305"
+    },
+    {
+      "slug": "role2ed86",
+      "company": "Wintermute",
+      "title": "Trading Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T08:01:24.568Z",
+      "postId": "18388496725163517"
     }
   ]
 }
