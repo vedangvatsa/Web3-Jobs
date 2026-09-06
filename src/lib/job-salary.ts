@@ -154,7 +154,7 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
 
   // Search for explicit salary ranges:
   // e.g. $100,000 - $110,000 or ₹15,00,000 - ₹25,00,000 or $120k - $160k
-  const rangeRegex = /(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)(\d{1,3}(?:[,\s]\d{2,3})+|\d{2,3}k|\d{2,3})\s*(?:-|–|—|to)\s*(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)?(\d{1,3}(?:[,\s]\d{2,3})+|\d{2,3}k|\d{2,3})/i;
+  const rangeRegex = /(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)(\d{1,3}(?:[,\s]?\d{2,3})*k?)\s*(?:-|–|—|to)\s*(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)?(\d{1,3}(?:[,\s]?\d{2,3})*k?)/i;
   const m = text.match(rangeRegex);
 
   if (!m) return null;
@@ -293,7 +293,7 @@ export function getJobSalaryInfo(job: Job, contentHtml?: string): JobSalaryInfo 
 
   return {
     schema: estimatedSchema,
-    display: formatSalaryDisplay(estimatedSchema, true),
+    display: '',
     isEstimated: true,
   };
 }

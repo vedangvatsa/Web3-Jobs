@@ -180,10 +180,12 @@ export function JobDetailView({
                   {job.location}
                 </span>
               )}
-              <span className="flex items-center gap-1.5 font-medium text-foreground/90">
-                <DollarSign className="h-4 w-4 text-emerald-600 dark:text-emerald-400" aria-hidden="true" />
-                {salaryInfo.display}
-              </span>
+              {salaryInfo.display && (
+                <span className="flex items-center gap-1.5 font-medium text-foreground/90">
+                  <DollarSign className="h-4 w-4 text-emerald-600 dark:text-emerald-400" aria-hidden="true" />
+                  {salaryInfo.display}
+                </span>
+              )}
               {postedLabel && (
                 <span className="flex items-center gap-1.5">
                   <Clock className="h-4 w-4" aria-hidden="true" />
