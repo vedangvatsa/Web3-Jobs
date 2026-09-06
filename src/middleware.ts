@@ -48,8 +48,44 @@ const AI_BOT_UA_PATTERNS = [
 export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
+  // 1. Social UTM suffix shortcuts
+  // Strip recognised social-suffix path segments and replace with UTM params.
+  // Only runs for non-API, non-static paths.
+  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next')) {
+    const normalised = pathname.replace(/\/+$/, '');
+    const lastSlashIdx = normalised.lastIndexOf('/');
 
-  // 1. ?mode=agent → rewrite to /api/agent-view for structured JSON response
+    if (lastSlashIdx !== -1 || normalised) {
+      const segment = normalised.slice(lastSlashIdx + 1).toLowerCase();
+
+      if (segment && SOCIAL_UTM_MAP[segment]) {
+        const config = SOCIAL_UTM_MAP[segment];
+        const basePath = normalised.slice(0, lastSlashIdx) || '/';
+
+        const url = request.nextUrl.clone();
+        url.pathname = basePath;
+        url.searchParams.set('utm_source', config.utm_source);
+        url.searchParams.set('utm_medium', config.utm_medium);
+        if (!url.searchParams.has('utm_campaign')) {
+          url.searchParams.set('utm_campaign', 'share');
+        }
+
+        // Detect social crawlers / link preview bots (Twitterbot, facebookexternalhit, Meta-ExternalAgent for Threads, LinkedInBot, Bluesky, Warpcast, etc.)
+        const ua = request.headers.get('user-agent') || '';
+        const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster/i.test(ua);
+        if (isSocialCrawler) {
+          // Serve the destination page directly with HTTP 200 so link preview cards render OG tags immediately without relying on redirect following
+          return NextResponse.rewrite(url);
+        }
+
+        // For human visitors, redirect with absolute URL and UTM parameters
+        const redirectUrl = new URL(basePath + '?' + url.searchParams.toString(), 'https://hashtagweb3.com');
+        return NextResponse.redirect(redirectUrl, 307);
+      }
+    }
+  }
+
+  // 2. ?mode=agent → rewrite to /api/agent-view for structured JSON response
   if (searchParams.get('mode') === 'agent') {
     const rewrite = request.nextUrl.clone();
     rewrite.pathname = '/api/agent-view';
@@ -57,9 +93,7 @@ export function middleware(request: NextRequest) {
     return NextResponse.rewrite(rewrite);
   }
 
-  // 2. Bot UA + Accept: text/markdown → rewrite to .md equivalent
-  // API routes, Next.js internals, and paths that already have a file extension
-  // are excluded so we only touch page-level HTML routes.
+  // 3. Bot UA + Accept: text/markdown → rewrite to .md equivalent
   const ua = request.headers.get('user-agent') || '';
   const isAIBot = AI_BOT_UA_PATTERNS.some((pattern) => ua.includes(pattern));
 
@@ -95,42 +129,6 @@ export function middleware(request: NextRequest) {
     const response = NextResponse.rewrite(rewrite);
     response.headers.set('Vary', 'Accept, Accept-Encoding');
     return response;
-  }
-
-  // 3. Social UTM suffix shortcuts
-  // Strip recognised social-suffix path segments and replace with UTM params.
-  // Only runs for non-API, non-static paths.
-  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next')) {
-    const normalised = pathname.replace(/\/+$/, '');
-    const lastSlashIdx = normalised.lastIndexOf('/');
-
-    if (lastSlashIdx !== -1 || normalised) {
-      const segment = normalised.slice(lastSlashIdx + 1).toLowerCase();
-
-      if (segment && SOCIAL_UTM_MAP[segment]) {
-        const config = SOCIAL_UTM_MAP[segment];
-        const basePath = normalised.slice(0, lastSlashIdx) || '/';
-
-        const url = request.nextUrl.clone();
-        url.pathname = basePath;
-        url.searchParams.set('utm_source', config.utm_source);
-        url.searchParams.set('utm_medium', config.utm_medium);
-        if (!url.searchParams.has('utm_campaign')) {
-          url.searchParams.set('utm_campaign', 'share');
-        }
-
-        // Detect social crawlers / link preview bots (Twitterbot, facebookexternalhit, Meta-ExternalAgent for Threads, LinkedInBot, Bluesky, Warpcast, etc.)
-        const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster/i.test(ua);
-        if (isSocialCrawler) {
-          // Serve the destination page directly with HTTP 200 so link preview cards render OG tags immediately without relying on redirect following
-          return NextResponse.rewrite(url);
-        }
-
-        // For human visitors, redirect with absolute URL and UTM parameters
-        const redirectUrl = new URL(basePath + '?' + url.searchParams.toString(), 'https://hashtagweb3.com');
-        return NextResponse.redirect(redirectUrl, 307);
-      }
-    }
   }
 
   return NextResponse.next();
