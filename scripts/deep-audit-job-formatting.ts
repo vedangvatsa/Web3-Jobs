@@ -59,11 +59,14 @@ async function auditAllJobs() {
       // 8. Check for paragraphs starting with lowercase letter (broken mid-sentence split)
       if (/<p[^>]*>\s*[a-z]/i.test(html)) {
         // Exclude legitimate technical lowercase terms like 'dApp', 'iOS', 'gRPC', 'e.g.', 'i.e.', 'eBay',
-        // lowercase-styled brands handled by reviewers (eToro, zerohash), and bare contact emails.
-        const lowerMatches = html.match(/<p[^>]*>\s*([a-z@.]+)/g) || [];
+        // lowercase-styled brands (eToro, zerohash, a16z), and bare contact emails.
+        // NOTE: the capture takes the FULL first token (mixed case + digits)
+        // so brands aren't misread as single-letter fragments ('a16z' -> 'a').
+        const lowerMatches = html.match(/<p[^>]*>\s*([A-Za-z][\w.]*@?[\w.]*)/g) || [];
         const badLower = lowerMatches.filter(m => {
           const word = m.replace(/<p[^>]*>\s*/, '');
           if (/@/.test(word)) return false;
+          if (/^(etoro|zerohash|a16z)$/i.test(word)) return false;
           return !/^(dApp|dApps|iOS|gRPC|e\.g\.|i\.e\.|eBay|npm|pnpm|yarn|vite|solc)\b/i.test(word) && /^[a-z]/.test(word);
         });
         if (badLower.length > 0) {
