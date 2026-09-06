@@ -1,5 +1,5 @@
 {
-  "lastIndex": 95,
+  "lastIndex": 96,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -18,7 +18,8 @@
     "operations9a8ab",
     "role2ed86",
     "role77009",
-    "role48efb"
+    "role48efb",
+    "role34004"
   ],
   "history": [
     {
@@ -412,6 +413,46 @@
       "platform": "bluesky",
       "postedAt": "2026-09-06T08:03:19.550Z",
       "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mutjrv2qrk2j"
+    },
+    {
+      "slug": "role34004",
+      "company": "LayerZero",
+      "title": "Controller",
+      "platform": "threads",
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "17940281280346782"
+    },
+    {
+      "slug": "role34004",
+      "company": "LayerZero",
+      "title": "Controller",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muttb4rdod2j"
+    },
+    {
+      "slug": "role34004",
+      "company": "LayerZero",
+      "title": "Controller",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "0xd56650d0701404704213eba07d132b8050096917"
+    },
+    {
+      "slug": "role34004",
+      "company": "LayerZero",
+      "title": "Controller",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "1081362547804313"
+    },
+    {
+      "slug": "role34004",
+      "company": "LayerZero",
+      "title": "Controller",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "18006986999975742"
     }
   ]
 }
