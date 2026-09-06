@@ -191,6 +191,8 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'bitpoint': 'https://www.bitpoint.co.jp',
  'dmm-bitcoin': 'https://bitcoin.dmm.com',
  'foundry': 'https://foundrydigital.com',
+ 'grayscale': 'https://grayscale.com',
+ 'grayscale-investments': 'https://grayscale.com',
  'bitso': 'https://bitso.com',
  'bitpanda': 'https://bitpanda.com',
  'luno': 'https://luno.com',
