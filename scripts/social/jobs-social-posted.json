@@ -1,5 +1,5 @@
 {
-  "lastIndex": 94,
+  "lastIndex": 95,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -17,7 +17,8 @@
     "role0fb27",
     "operations9a8ab",
     "role2ed86",
-    "role77009"
+    "role77009",
+    "role48efb"
   ],
   "history": [
     {
@@ -403,6 +404,14 @@
       "platform": "facebook",
       "postedAt": "2026-09-06T08:02:34.514Z",
       "postId": "1081260164481218"
+    },
+    {
+      "slug": "role48efb",
+      "company": "Sky Mavis",
+      "title": "Web3 Security Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T08:03:19.550Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mutjrv2qrk2j"
     }
   ]
 }
