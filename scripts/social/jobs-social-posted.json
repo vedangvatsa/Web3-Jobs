@@ -1,5 +1,5 @@
 {
-  "lastIndex": 98,
+  "lastIndex": 99,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -20,7 +20,8 @@
     "role77009",
     "role48efb",
     "role34004",
-    "backend61e12"
+    "backend61e12",
+    "job6178e"
   ],
   "history": [
     {
@@ -502,6 +503,54 @@
       "platform": "instagram",
       "postedAt": "2026-09-06T15:26:32.455Z",
       "postId": "18589484308067622"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "17933922648128280"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muut5crzon2i"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "0x6ce053f67eabd4cebe670c8dd99d184dee1eaa2e"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "6a9dcbca2066ff47cc445952"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "1081734331100468"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "17899529526571610"
     }
   ]
 }
