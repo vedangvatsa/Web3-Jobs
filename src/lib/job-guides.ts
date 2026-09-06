@@ -5,6 +5,7 @@ import * as fs from 'fs';
 import * as path from 'path';
 import { cleanPublishText, cleanPublishHtml } from './noslop';
 import { isGeneralOrPlaceholderJobTitle } from './job-filters';
+import { sanitizeHtml } from './sanitize-html';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
 import { getJobContentKey, getJobSlug } from './job-slugs';
@@ -54,7 +55,9 @@ function loadDescriptionsCache(): Record<string, string> {
 
 function getCachedRawContent(job: Job): string {
   const cache = loadDescriptionsCache();
-  return cache[job.id] || cache[getJobContentKey(job)] || job.description || '';
+  const slugKey = (job as any).slug;
+  const raw = cache[job.id] || (slugKey ? cache[slugKey] : null) || cache[getJobContentKey(job)] || job.description || '';
+  return sanitizeHtml(raw);
 }
 
 function plainTextFromHtml(value: string): string {
