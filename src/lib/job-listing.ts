@@ -1,4 +1,4 @@
-import 'server-only';
+
 
 import { getCompanyFaviconUrl, resolveCompanyLogo } from '@/lib/company-logo';
 import { getCompanyBySlug } from '@/lib/companies';
