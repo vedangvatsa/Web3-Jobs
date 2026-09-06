@@ -22,8 +22,11 @@ async function auditAllJobs() {
         reasons.push('Malformed HTML entity present');
       }
 
-      // 2. Check for clumped bullet points inside paragraphs
-      if (/include:-\s+[A-Z]/i.test(html) || /\.\s*[-*•]\s+[A-Z]/.test(html)) {
+      // 2. Check for clumped bullet points inside paragraphs. NOTE: tested on
+      // visible text (tags stripped) — testing raw HTML false-positives on
+      // legitimate </li><li> boundaries ("English.</li><li>- Nice...").
+      const visibleText = html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
+      if (/\.\s+-\s+[A-Z]/.test(visibleText) || /:\s+-\s+[A-Z][a-z]{3,}/.test(visibleText)) {
         reasons.push('Clumped bullets inside paragraph');
       }
 
@@ -78,6 +81,43 @@ async function auditAllJobs() {
       // 11. Check for unparsed major headings left as plain paragraphs
       if (/<p[^>]*>(?:what you.?ll do|what you will do|you.?ll excel in this role|you will excel in this role|perks that empower you|why this role matters|what success looks like|you.?ll know you.?re winning)[:]?<\/p>/i.test(html)) {
         reasons.push('Unparsed major heading rendered as paragraph');
+      }
+
+      // 12. Heading bleed: no <h3> may carry a paragraph (>140 chars).
+      // Regression of the fragment-merge bug that swallowed whole paragraphs
+      // into headings on 400+ pages.
+      const longH3 = [...html.matchAll(/<h3[^>]*>(.*?)<\/h3>/gs)]
+        .map((m) => m[1].replace(/<[^>]*>/g, '').trim())
+        .filter((t) => t.length > 140);
+      if (longH3.length > 0) {
+        reasons.push(`Heading bleed: ${longH3.length} giant <h3> (e.g. ${longH3[0].slice(0, 70)}...)`);
+      }
+
+      // 13. Consecutive duplicate <h3> (employer repeats like Lever `lists`
+      // do must merge into one heading, not render twice in a row).
+      const h3Seq = [...html.matchAll(/<h3[^>]*>(.*?)<\/h3>/gs)]
+        .map((m) => m[1].replace(/<[^>]*>/g, '').toLowerCase().replace(/[^a-z0-9]+/g, ''));
+      if (h3Seq.some((h, i) => i > 0 && h && h === h3Seq[i - 1])) {
+        reasons.push('Consecutive duplicate <h3>');
+      }
+
+      // 14. Boilerplate remnants that the pipeline must strip.
+      if (/by submitting your application to us, you consent|please consider your application as unsuccessful/i.test(visibleText)) {
+        reasons.push('Privacy-consent boilerplate leaked');
+      }
+      if (/(equal opportunity employer|all qualified applicants|affirmative action)/i.test(visibleText)) {
+        reasons.push('Equal-opportunity boilerplate leaked');
+      }
+      if (/popular topics|latest articles|featured articles/i.test(visibleText)) {
+        reasons.push('Help-center nav-menu dump leaked');
+      }
+      if (/^By:\s*.+\|\s*\d/m.test(visibleText)) {
+        reasons.push('Article byline leaked');
+      }
+
+      // 15. Raw inline-markdown remnants in headings.
+      if (/<h[34][^>]*>[^<]*\*\*/.test(html)) {
+        reasons.push('Leftover ** markers inside heading');
       }
 
       if (reasons.length > 0) {
