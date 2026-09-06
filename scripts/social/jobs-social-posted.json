@@ -1,5 +1,5 @@
 {
-  "lastIndex": 76,
+  "lastIndex": 94,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -16,7 +16,8 @@
     "compliancer3c2cf",
     "role0fb27",
     "operations9a8ab",
-    "role2ed86"
+    "role2ed86",
+    "role77009"
   ],
   "history": [
     {
@@ -394,6 +395,14 @@
       "platform": "instagram",
       "postedAt": "2026-09-06T08:01:24.568Z",
       "postId": "18388496725163517"
+    },
+    {
+      "slug": "role77009",
+      "company": "Digital Asset",
+      "title": "Global Talent Acquisition Coordinator",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T08:02:34.514Z",
+      "postId": "1081260164481218"
     }
   ]
 }
