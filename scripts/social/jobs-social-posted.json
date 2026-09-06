@@ -1,5 +1,5 @@
 {
-  "lastIndex": 12,
+  "lastIndex": 51,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -10,7 +10,8 @@
     "seniorpwc04",
     "architectpwc03",
     "role0e83c",
-    "coindcx1769"
+    "coindcx1769",
+    "role7ac73"
   ],
   "history": [
     {
@@ -268,6 +269,62 @@
       "platform": "facebook",
       "postedAt": "2026-09-05T22:52:59.742Z",
       "postId": "1080965677844000"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "x",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "2096456907959497186"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "threads",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "18374431651233590"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mut64h4uos2l"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "0x89cd7ed72dbc0e56d6b40dc8ccc6e25e94c8e9a9"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "6a9ced5f534afc9129eb7017"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "1081144191159482"
+    },
+    {
+      "slug": "role7ac73",
+      "company": "Talos Trading",
+      "title": "Open Application",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T04:34:11.683Z",
+      "postId": "17961991356188079"
     }
   ]
 }
