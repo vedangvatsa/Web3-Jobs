@@ -420,13 +420,14 @@ async function postToLinkedInBuffer(text: string, imageUrl?: string): Promise<st
   };
 
   if (imageUrl) {
-    input.assets = [
-      {
-        image: {
+    input.assets = {
+      images: [
+        {
           url: imageUrl,
+          thumbnailUrl: imageUrl,
         },
-      },
-    ];
+      ],
+    };
   }
 
   const query = `
