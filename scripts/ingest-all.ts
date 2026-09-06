@@ -93,30 +93,53 @@ function buildLeverDescription(j: any): string {
   return parts.filter(Boolean).join('\n');
 }
 
+const ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
+let legacyArchive: Record<string, any> = {};
+try {
+  if (fs.existsSync(ARCHIVE_PATH)) {
+    legacyArchive = JSON.parse(fs.readFileSync(ARCHIVE_PATH, 'utf8'));
+  }
+} catch {}
+
+function findLegacySlug(id: string, link?: string): string | undefined {
+  for (const [slug, entry] of Object.entries(legacyArchive)) {
+    if (entry.id === id || (link && entry.link === link)) {
+      return slug;
+    }
+  }
+  return undefined;
+}
+
 // ---------------------------------------------------------------------------
 // 4. ATS fetchers
 // ---------------------------------------------------------------------------
 
 async function ingestAshbySimple(company: string, slug: string, defaultLoc: string, cacheData: any[], descData: Record<string, string>): Promise<void> {
   try {
-    const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${slug}`);
+    const encodedSlug = encodeURI(decodeURI(slug));
+    const res = await fetch(`https://api.ashbyhq.com/posting-api/job-board/${encodedSlug}`);
     if (!res.ok) throw new Error(`HTTP ${res.status}`);
     const json = await res.json() as any;
     let added = 0, updated = 0;
     for (const j of (json.jobs || [])) {
       if (!isConcreteJobOpening(j.title, j.jobUrl)) continue;
+      const existingSlug = findLegacySlug(j.id, j.jobUrl);
       const job = {
         id: j.id, title: j.title.trim(), company,
-        link: j.jobUrl || `https://jobs.ashbyhq.com/${slug}/${j.id}`,
+        link: j.jobUrl || `https://jobs.ashbyhq.com/${encodedSlug}/${j.id}`,
         date: j.publishedAt ? new Date(j.publishedAt).toISOString().slice(0, 10) : TODAY,
         source: `Ashby: ${company} [${slug}]`,
         location: j.location || (j.secondaryLocations?.length ? j.secondaryLocations.join(', ') : defaultLoc),
         department: j.department || j.team || 'Engineering', active: true,
-        slug: `role${j.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
+        slug: existingSlug || `role${j.id.replace(/[^a-z0-9]/gi, '').slice(-5).toLowerCase()}`
       };
       const r = upsertJob(cacheData, job);
       if (r === 'added') added++; else updated++;
-      if (j.descriptionHtml) descData[getJobContentKey(job)] = j.descriptionHtml;
+      if (j.descriptionHtml) {
+        descData[getJobContentKey(job)] = j.descriptionHtml;
+        descData[job.id] = j.descriptionHtml;
+        if (job.slug) descData[job.slug] = j.descriptionHtml;
+      }
     }
     console.log(`  ✓ [Ashby] ${company}: ${added} added, ${updated} updated`);
   } catch (err: any) { console.warn(`  ⚠️ [Ashby] ${company}: ${err.message}`); }
@@ -562,6 +585,8 @@ async function main() {
   await ingestAshbySimple('Monad Foundation',  'monad.foundation',      'New York City / Remote', cacheData, descData);
   await ingestAshbySimple('Sky Mavis',          'skymavis',              'Remote / APAC',          cacheData, descData);
   await ingestAshbySimple('Hyperliquid Labs',   'Hyperliquid%20Labs',    'APAC / Remote',          cacheData, descData);
+  await ingestAshbySimple('Solana Foundation',  'Solana%20Foundation',   'Remote / Global',        cacheData, descData);
+  await ingestAshbySimple('Solana Labs',        'solanalabs',            'San Francisco / Remote', cacheData, descData);
 
   console.log('\n--- Single-company Greenhouse boards ---');
   await ingestGreenhouse('Digital Asset',       'digitalassetcorp',      'New York City / Remote', cacheData, descData);
