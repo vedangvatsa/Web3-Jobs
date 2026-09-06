@@ -480,22 +480,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "premier-common-s3nse",
-    "slug": "common",
-    "name": "Common S3nse 2026",
-    "description": "Amsterdam's conference-and-hackathon on privacy, security, and digital freedom, organized by CryptoCanal as the centerpiece of Cypherpunk Week.",
-    "startDate": "2026-09-04T09:00:00.000Z",
-    "endDate": "2026-09-05T18:00:00.000Z",
-    "city": "Amsterdam",
-    "country": "Netherlands",
-    "location": "De Hallen Studio, Amsterdam, Netherlands",
-    "url": "https://commons3nse.cryptocanal.org",
-    "website": "https://commons3nse.cryptocanal.org",
-    "coverImage": "/events/common.png",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-singhacks",
     "slug": "singhacks",
     "name": "SingHacks 2026",
@@ -652,22 +636,6 @@
     "url": "https://one.ethereumkorea.io",
     "website": "https://one.ethereumkorea.io",
     "coverImage": "/events/ethereum.png",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
-    "id": "premier-nftnyc",
-    "slug": "nftnyc",
-    "name": "NFT.NYC 2026",
-    "description": "The flagship gathering of the NFT and digital-asset community, returning to New York with its trademark main-stage talks and brand activations.",
-    "startDate": "2026-09-01T09:00:00.000Z",
-    "endDate": "2026-09-03T18:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, NY, USA",
-    "url": "https://www.nft.nyc",
-    "website": "https://www.nft.nyc",
-    "coverImage": null,
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1323,21 +1291,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "side-kbw-web3-gaming-gala-2026",
-    "slug": "kbw1",
-    "name": "KBW Web3 Gaming & Esports Gala",
-    "description": "Showcasing next-generation AAA Web3 games, on-chain gaming guilds, and game publisher announcements in Gangnam.",
-    "startDate": "2026-09-03T17:00:00.000Z",
-    "endDate": "2026-09-03T22:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "COEX Convention Center, Seoul, South Korea",
-    "url": "https://koreablockchainweek.com",
-    "website": "https://koreablockchainweek.com",
-    "coverImage": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "side-ethsf-hacker-house-2026",
     "slug": "ethglobal2",
     "name": "ETHGlobal San Francisco Hacker House & Demo Night",
@@ -1471,36 +1424,6 @@
     "source": "curated-premier",
     "slug": "autonomous",
     "coverImage": "/events/autonomous.png"
-  },
-  {
-    "id": "side-seoul-sui-builder-hub",
-    "name": "Sui Network Ecosystem Mixer Seoul",
-    "description": "Networking drinks and project demos for teams building high-throughput dApps on Sui Move.",
-    "startDate": "2026-09-03T18:00:00.000Z",
-    "endDate": "2026-09-03T22:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "Itaewon Rooftop, Seoul, South Korea",
-    "url": "https://sui.io",
-    "website": "https://sui.io",
-    "source": "curated-premier",
-    "slug": "sui1",
-    "coverImage": "/events/sui1.png"
-  },
-  {
-    "id": "side-seoul-chainlink-oracle-brunch",
-    "name": "Chainlink BUILD & CCIP Developer Brunch",
-    "description": "Technical discussion on cross-chain interoperability, reserve verification, and oracle security.",
-    "startDate": "2026-09-04T11:00:00.000Z",
-    "endDate": "2026-09-04T14:00:00.000Z",
-    "city": "Seoul",
-    "country": "South Korea",
-    "location": "JW Marriott Hotel Seoul, South Korea",
-    "url": "https://chain.link",
-    "website": "https://chain.link",
-    "source": "curated-premier",
-    "slug": "chainlink1",
-    "coverImage": "/events/chainlink1.png"
   },
   {
     "id": "side-berlin-eth-solidity-workshop",
