@@ -8,7 +8,7 @@ description: >-
   limits.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 In the high-stakes field of [smart contract](/what-are-smart-contracts) development, traditional testing methods such as unit tests and fuzzing serve important roles. However, these approaches cannot guarantee the absence of bugs. For critical protocols securing significant value, developers need a more rigorous assurance method. Formal verification addresses this gap.
 

@@ -7,7 +7,7 @@ description: >-
   look, what skills you need, and how to build a portfolio that will get you.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 For students and recent graduates, the Web3 industry presents an exciting career opportunity. An internship at a crypto startup, a Layer 2 protocol, or a DAO is more than just a line on a resume; it provides an immersive experience that enhances your skills and launches your career in the decentralized economy.
 

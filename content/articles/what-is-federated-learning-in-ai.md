@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: decentralized network
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Federated Learning is a decentralized machine learning technique that allows an AI model to be trained across multiple devices holding local data samples, without that data ever leaving the device. It addresses one of the biggest challenges in AI today: how to train models on large, diverse datasets without compromising user privacy.
 

@@ -11,7 +11,7 @@ image: >-
 category: Career Guides
 data-ai-hint: blockchain developer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Web3 teams hire for proof you can work with on-chain systems. General crypto interest does not pass an interview. What counts is specific skill matched to a role, and evidence you have used it.
 

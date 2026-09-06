@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: dna strand
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Gene editing encompasses a range of technologies that enable scientists to modify an organism's DNA. This process allows for the addition, removal, or alteration of genetic material at specific locations within the genome. Researchers can search for a precise DNA sequence, excise it, and substitute it with a new sequence.
 

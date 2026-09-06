@@ -7,7 +7,7 @@ description: >-
   playbook, focusing on community-led growth, token incentives, and building a.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Launching a project in the [Web3](/what-is-web3) space requires a go-to-market (GTM) strategy that diverges significantly from those used by traditional Web2 startups. In an environment characterized by decentralization, community ownership, and open-source code, conventional tactics such as paid advertising and sales-driven funnels are not only ineffective; they can also undermine a project's credibility and long-term viability.
 

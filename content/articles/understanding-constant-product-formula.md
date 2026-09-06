@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: constant product formula
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 ## Understanding the Constant Product Formula (`x * y = k`): The Engine of AMMs
 

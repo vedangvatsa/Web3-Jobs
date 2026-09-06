@@ -7,7 +7,7 @@ description: >-
   key roles, from smart contract engineering to quantitative analysis.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Decentralized Finance, or [DeFi](/what-is-defi), represents an important movement within the [Web3](/what-is-web3) ecosystem, aiming to rebuild the financial system on open, permissionless blockchains. This approach eliminates the need for traditional intermediaries such as banks, brokerages, and insurers. Instead, DeFi relies on [smart contracts](/what-are-smart-contracts) to provide a transparent, global, and accessible platform for lending, borrowing, trading, and earning yield.
 

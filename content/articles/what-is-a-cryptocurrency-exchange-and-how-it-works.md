@@ -7,7 +7,7 @@ description: >-
   and trade cryptocurrencies. It's the most common gateway for newcomers to.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 A cryptocurrency exchange serves as a digital marketplace where users can buy, sell, and trade various cryptocurrencies. For many, it marks the initial entry point from traditional finance, such as fiat currencies like USD or EUR, into the evolving world of [Web3](/what-is-web3). Similar to a stock exchange, these platforms enable transactions for assets including [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and thousands of other [tokens](/what-is-a-token).
 
