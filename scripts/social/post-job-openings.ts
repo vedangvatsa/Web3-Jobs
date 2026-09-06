@@ -823,6 +823,8 @@ async function main() {
   const now = new Date().toISOString();
   const shouldPostAll = platform === 'all' || platform === 'both';
 
+  let postedSuccessCount = 0;
+
   if (platform === 'x' || shouldPostAll) {
     try {
       console.log('Publishing to X...');
@@ -836,6 +838,7 @@ async function main() {
         postedAt: now,
         postId: tweetId,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to X:`, (err as Error).message);
     }
@@ -854,6 +857,7 @@ async function main() {
         postedAt: now,
         postId: threadsId,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Threads:`, (err as Error).message);
     }
@@ -873,6 +877,7 @@ async function main() {
         postedAt: now,
         postId: bskyUri,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Bluesky:`, (err as Error).message);
     }
@@ -891,6 +896,7 @@ async function main() {
         postedAt: now,
         postId: castHash,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Farcaster:`, (err as Error).message);
     }
@@ -909,6 +915,7 @@ async function main() {
         postedAt: now,
         postId: bufferPostId,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to LinkedIn:`, (err as Error).message);
     }
@@ -927,6 +934,7 @@ async function main() {
         postedAt: now,
         postId: fbPostId,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Facebook:`, (err as Error).message);
     }
@@ -945,6 +953,7 @@ async function main() {
         postedAt: now,
         postId: redditPostId,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Reddit:`, (err as Error).message);
     }
@@ -973,14 +982,19 @@ async function main() {
         postedAt: now,
         postId: igPostId,
       });
+      postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Instagram:`, (err as Error).message);
     }
   }
 
-  state.postedSlugs.push(slug);
-  saveState(state);
-  console.log('\nState saved. Done.');
+  if (postedSuccessCount > 0) {
+    state.postedSlugs.push(slug);
+    saveState(state);
+    console.log(`\nState saved (${postedSuccessCount} platforms succeeded). Done.`);
+  } else {
+    console.warn(`\nNo platform succeeded for ${slug}. State not marked as posted.`);
+  }
 }
 
 main().catch((err) => {
