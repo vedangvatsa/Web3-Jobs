@@ -8,7 +8,7 @@ description: >-
   gas.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Airdrops serve as an effective method for distributing a new token to a project's community. However, distributing tokens to thousands or even millions of addresses poses a significant technical challenge: how to do it without incurring excessive gas fees. Sending individual `transfer` transactions to each recipient is prohibitively expensive.
 

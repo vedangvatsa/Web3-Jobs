@@ -9,7 +9,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain near protocol
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 NEAR Protocol is a layer-one, sharded, proof-of-stake blockchain built to be fast, low-cost, and easy to use. Docs at docs.near.org describe it as a user-friendly and carbon-neutral chain where accounts look like `alice.near`, finality is about 1.3 seconds, and average fees are about $0.002.
 

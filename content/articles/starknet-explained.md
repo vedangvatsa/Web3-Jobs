@@ -7,7 +7,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: starknet blockchain layer2
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Starknet is a validity rollup (also called a ZK rollup) that runs on top of Ethereum. It executes transactions off chain, bundles thousands of them into a single STARK proof, and posts that proof plus compressed state diffs to Ethereum for verification.
 

@@ -7,7 +7,7 @@ description: >-
   and trade-offs.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 AI courses for beginners fall into two useful groups. Some teach you what AI can do and how to use it at work without writing code. Others teach you to build models with Python and math.
 

@@ -8,7 +8,7 @@ category: Career Guides
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: finance analyst data
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 A token analyst evaluates a token as an asset, not just as tech. The job is to read supply, distribution, vesting, emissions, utility, and on-chain flows, then state the risks and whether the token design supports long term use or creates steady sell pressure.
 

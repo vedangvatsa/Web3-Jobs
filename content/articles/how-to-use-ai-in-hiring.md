@@ -7,7 +7,7 @@ description: >-
   rules require, and a seven-step setup with bias checks and human oversight.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 AI in hiring refers to software that helps write job descriptions, source candidates, screen resumes, rank applicants, schedule interviews, and track decisions. A person still makes the hire, but the system shapes who gets seen and how quickly you move.
 

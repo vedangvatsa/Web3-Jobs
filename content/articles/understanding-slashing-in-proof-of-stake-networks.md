@@ -8,7 +8,7 @@ description: >-
   security.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 In Proof-of-Work blockchains, security relies on the high energy and hardware costs associated with mining. In contrast, Proof-of-Stake (PoS) systems prioritize economic incentives as the foundation of their security. Validators, who create blocks and maintain the network, must lock up a significant amount of the network's native currency as a security deposit, known as a "stake." This stake serves as a bond, ensuring that validators have a vested interest in the network's integrity. Validators earn rewards for honest behavior, but they also face financial penalties for dishonest actions. This penalty mechanism is referred to as **slashing.**Slashing plays an important role in PoS systems, often misunderstood yet important for maintaining network security. It enforces compliance among validators and acts as the primary deterrent against potential attacks on the blockchain. Without the threat of slashing, the economic security of a Proof-of-Stake blockchain could collapse. A firm grasp of slashing is essential for anyone aspiring to be a validator, delegate their tokens to a staking service, or understand the security models of prominent blockchains like [Ethereum](/what-is-ethereum).
 

@@ -6,7 +6,7 @@ description: >-
   administrative capital is becoming a center for GovTech, enterprise.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Pretoria, South Africa's administrative capital, is establishing itself as a significant player in the nation's emerging [Web3](/what-is-web3) ecosystem. While Johannesburg excels in finance and Cape Town stands out in the creative tech sector, Pretoria's advantage lies in its integration of technology, public policy, and innovation in the public sector. As the center of the executive branch and home to prominent research institutions, Pretoria is becoming a vital hub for government technology (GovTech) and enterprise [blockchain](/what-is-a-blockchain) applications.
 

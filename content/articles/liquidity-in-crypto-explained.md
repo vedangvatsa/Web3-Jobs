@@ -8,7 +8,7 @@ description: >-
 category: Educational
 data-ai-hint: crypto liquidity trading
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Liquidity in crypto is how easily you can buy or sell an asset near the price you see on screen without moving that price much. A liquid market has many buyers and sellers ready to trade close to the current quote. An illiquid market has few resting orders, so even a modest order can shift the price and raise your cost.
 

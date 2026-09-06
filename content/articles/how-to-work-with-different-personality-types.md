@@ -7,7 +7,7 @@ description: >-
   practical framework for understanding different work styles and adapting your.
 data-ai-hint: team diverse personalities
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 You don't need a psychology degree to work well with different people. But you do need to stop assuming everyone thinks the way you do.
 

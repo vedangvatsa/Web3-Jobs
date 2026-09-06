@@ -6,7 +6,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain analytics
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 ## Solana Developer Activity: An On-Chain Analysis
 

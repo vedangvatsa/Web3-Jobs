@@ -7,7 +7,7 @@ description: >-
   it's the foundational layer for cryptocurrencies and Web3.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Blockchain technology has gained significant attention alongside [Bitcoin](/what-is-bitcoin), [Ethereum](/what-is-ethereum), and the broader [Web3](/what-is-web3) ecosystem. Understanding its core function is essential. A blockchain serves as a distributed digital ledger, offering a unique method for structuring, securing, and sharing data. It provides an immutable, transparent, and decentralized record of transactions, enabling systems that operate without reliance on a central authority. This article details the technology, elucidates its key features, and examines its implications that extend beyond digital currencies.
 

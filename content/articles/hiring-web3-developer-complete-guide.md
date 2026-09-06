@@ -8,7 +8,7 @@ description: >-
   proof of work, and how to structure compensation with tokens and vesting.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Hiring a Web3 developer means hiring someone who can write, test, and ship code that handles real money on public networks. A bug that would be a hotfix in Web2 can be a permanent loss in Web3. This guide helps you define the role, set pay, source candidates, vet them, and close them.
 

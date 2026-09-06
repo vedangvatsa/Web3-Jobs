@@ -7,7 +7,7 @@ description: >-
 category: Educational
 data-ai-hint: generative code art
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Generative art is art made with a system. The artist writes code that sets rules, adds controlled randomness, and then lets the system produce the output. An NFT is a unique token on a blockchain that records ownership of that output.
 

@@ -7,7 +7,7 @@ description: >-
   uses a dynamic weighting system to create a fair and bot-resistant price.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 A **Liquidity Bootstrapping Pool (LBP)**serves as a new token launch mechanism that promotes fair price discovery and distribution for emerging crypto projects. This approach, developed by Balancer, enhances the traditional**[Initial DEX Offering (IDO)](/initial-dex-offering-complete-guide)**model by incorporating dynamic weighting, thus making it less susceptible to manipulation by bots.
 
