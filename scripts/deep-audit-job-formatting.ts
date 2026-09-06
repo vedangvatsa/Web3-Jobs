@@ -22,11 +22,12 @@ async function auditAllJobs() {
         reasons.push('Malformed HTML entity present');
       }
 
-      // 2. Check for clumped bullet points inside paragraphs. NOTE: tested on
-      // visible text (tags stripped) — testing raw HTML false-positives on
-      // legitimate </li><li> boundaries ("English.</li><li>- Nice...").
+      // 2. Check for clumped bullet points inside paragraphs. NOTE: only
+      // same-chunk ". - X" counts — testing tag-stripped text false-positives
+      // on legitimate </li><li> boundaries ("English.</li><li>- Nice..."),
+      // so the pattern allows only spaces between the period and the dash.
       const visibleText = html.replace(/<[^>]*>/g, ' ').replace(/\s+/g, ' ').trim();
-      if (/\.\s+-\s+[A-Z]/.test(visibleText) || /:\s+-\s+[A-Z][a-z]{3,}/.test(visibleText)) {
+      if (/\.\s{0,3}-\s+[A-Z]/.test(html) || /:\s{0,3}-\s+[A-Z][a-z]{3,}/.test(html)) {
         reasons.push('Clumped bullets inside paragraph');
       }
 
@@ -57,10 +58,12 @@ async function auditAllJobs() {
 
       // 8. Check for paragraphs starting with lowercase letter (broken mid-sentence split)
       if (/<p[^>]*>\s*[a-z]/i.test(html)) {
-        // Exclude legitimate technical lowercase terms like 'dApp', 'iOS', 'gRPC', 'e.g.', 'i.e.', 'eBay'
-        const lowerMatches = html.match(/<p[^>]*>\s*([a-z]+)/g) || [];
+        // Exclude legitimate technical lowercase terms like 'dApp', 'iOS', 'gRPC', 'e.g.', 'i.e.', 'eBay',
+        // lowercase-styled brands handled by reviewers (eToro, zerohash), and bare contact emails.
+        const lowerMatches = html.match(/<p[^>]*>\s*([a-z@.]+)/g) || [];
         const badLower = lowerMatches.filter(m => {
           const word = m.replace(/<p[^>]*>\s*/, '');
+          if (/@/.test(word)) return false;
           return !/^(dApp|dApps|iOS|gRPC|e\.g\.|i\.e\.|eBay|npm|pnpm|yarn|vite|solc)\b/i.test(word) && /^[a-z]/.test(word);
         });
         if (badLower.length > 0) {
