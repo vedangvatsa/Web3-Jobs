@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: double spend
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 ## The Double-Spending Problem in Cryptocurrency: An In-Depth Analysis
 

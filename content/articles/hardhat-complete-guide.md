@@ -11,7 +11,7 @@ category: Technology Deep Dives
 slug: hardhat-complete-guide
 imageAlt: Developer writing Hardhat smart contract code on laptop
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Hardhat is a development environment for Ethereum software that compiles contracts, runs a local network, executes tests, and deploys code from one CLI. It is built by Nomic Foundation, open source at https://github.com/NomicFoundation/hardhat and documented at https://hardhat.org/docs.
 

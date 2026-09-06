@@ -8,7 +8,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: dao explained
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 A DAO is a collectively owned organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on decisions, and the code executes the result. There is no CEO who can spend funds on a whim.
 

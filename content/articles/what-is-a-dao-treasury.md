@@ -8,7 +8,7 @@ image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 category: Educational
 data-ai-hint: finance chart
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 
 A [DAO](/what-is-a-dao) treasury represents the combined funds and digital assets owned and managed by a Decentralized Autonomous Organization (DAO). This treasury serves as the financial backbone that supports the DAO's operations, funds its projects, and compensates its contributors. Unlike traditional corporate bank accounts controlled by a select group of executives, a DAO treasury relies on community governance through on-chain mechanisms, allowing all [token](/what-is-a-token) holders to participate in decision-making.

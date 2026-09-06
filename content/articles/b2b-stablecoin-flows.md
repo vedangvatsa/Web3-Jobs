@@ -9,7 +9,7 @@ description: >-
   trade corridors.
 category: Industry Insights
 publishedDate: '2026-09-04'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 
 In 1957, the Soviet Union faced a practical dilemma. It held substantial US dollar balances from export earnings but feared keeping them inside American financial institutions where Washington could freeze them. The solution was simple: deposit the dollars in the Banque Commerciale pour l'Europe du Nord in Paris and Moscow Narodny Bank in London. 

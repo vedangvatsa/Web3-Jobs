@@ -7,7 +7,7 @@ description: >-
   solutions: Sidechains and Layer 2 Rollups. Learn how they differ in their.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 As [Ethereum](/what-is-ethereum) has gained traction, the demand for scalability has surged. The network needs to handle more transactions quickly and affordably. Two primary solutions for scaling Ethereum are **Sidechains**and**Layer 2s (L2s)**. 
 

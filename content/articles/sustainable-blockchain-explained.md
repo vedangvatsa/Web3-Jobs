@@ -10,7 +10,7 @@ description: >-
   ethereum.org, CCRI, and Cambridge CCAF.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 A sustainable blockchain secures transactions with minimal energy, hardware waste, and carbon per unit of useful work. It does this by choosing an efficient consensus mechanism, keeping node requirements light, and accounting for where its electricity comes from.
 

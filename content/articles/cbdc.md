@@ -8,7 +8,7 @@ description: >-
   its opportunities, challenges, and future prospects in the context of.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 ## India's Digital Revolution
 

@@ -7,7 +7,7 @@ description: >-
   factors causing developers to leave certain blockchain ecosystems for others.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 The [Web3](/what-is-web3) developer ecosystem is dynamic and competitive, with talent continually shifting between various blockchain platforms. While the overall number of Web3 developers has increased, a closer investigation uncovers a significant trend of migration. Developers are transitioning away from specific [blockchain](/what-is-a-blockchain) ecosystems in favor of others. This movement reveals insights into the sustainability and attractiveness of different platforms.
 

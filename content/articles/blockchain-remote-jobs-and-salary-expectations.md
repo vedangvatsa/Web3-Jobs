@@ -7,7 +7,7 @@ description: >-
   the most common remote roles, what to expect in terms of salary, and how to.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 The [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) industry operates on a global scale and uses a remote-first approach. This philosophy of decentralization extends to its workforce, creating a job market where physical location often holds little relevance. This setup offers professionals the flexibility to work on new technologies from virtually anywhere. Understanding the types of **[remote Web3 jobs](/remote-work-in-web3)**available and their corresponding salary expectations can guide your career decisions.
 

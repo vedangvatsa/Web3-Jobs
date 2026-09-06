@@ -7,7 +7,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: internet technology
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 slug: what-is-web3
 ---
 

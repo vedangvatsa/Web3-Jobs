@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: ethereum merge beacon chain
 publishedDate: '2022-09-15'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 The Merge was Ethereum's switch from proof-of-work to proof-of-stake. On September 15, 2022 at 06:42:42 UTC, Ethereum Mainnet merged with the Beacon Chain and stopped using mining to produce blocks. Validators who stake ETH took over that role.
 

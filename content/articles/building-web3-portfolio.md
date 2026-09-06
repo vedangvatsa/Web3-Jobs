@@ -8,7 +8,7 @@ description: >-
   roles. Land $120K+ blockchain jobs.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 In [Web3](/what-is-web3), your portfolio is the resume. Hiring managers open your GitHub, block explorer links, and on-chain activity before they read your cover letter. This guide shows how to build a small set of verifiable projects that prove you can ship and explain trade-offs, whether you write [smart contracts](/what-are-smart-contracts), build frontends, or work in non-technical roles.
 

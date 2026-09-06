@@ -8,7 +8,7 @@ description: >-
   mapping to.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 In the traditional world of Web2, businesses often prioritize creating closed ecosystems to retain users and exclude competitors. This model has become obsolete in the open and interoperable arena of [Web3](/what-is-web3). Instead of focusing on walls, success now hinges on the ability to form connections and partnerships. The most significant driver of growth and sustainability for Web3 projects lies in their ability to build relationships with other protocols.
 

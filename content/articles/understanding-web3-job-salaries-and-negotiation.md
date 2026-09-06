@@ -9,7 +9,7 @@ description: >-
   negotiation.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 You've successfully managed the interview process and received an offer from your desired [Web3](/what-is-web3) company. The next important step is negotiating your compensation. This process is often more complex than negotiation in traditional tech roles. Your total compensation package typically includes a base salary, equity, and a grant of the project's native [tokens](/what-is-a-token).
 

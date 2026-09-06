@@ -7,7 +7,7 @@ description: >-
   scalability, known for its fast transaction speeds and low costs.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-05"
+lastUpdated: "2026-09-06"
 ---
 Solana is a Layer 1, open source blockchain that is built for fast and low-cost transactions. It went live as a mainnet beta on March 16, 2020, and was developed by Solana Labs, the San Francisco company founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald after Yakovenko's 2017 whitepaper on Proof-of-History.
 
