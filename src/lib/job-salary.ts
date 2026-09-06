@@ -153,8 +153,8 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
   if (!text) return null;
 
   // Search for explicit salary ranges:
-  // e.g. $100,000 - $110,000 or $100,000-$110,000 or $120k - $160k
-  const rangeRegex = /(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD)\s*)(\d{1,3}(?:,\d{3})+|\d{2,3}k|\d{2,3})\s*(?:-|–|—|to)\s*(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD)\s*)?(\d{1,3}(?:,\d{3})+|\d{2,3}k|\d{2,3})/i;
+  // e.g. $100,000 - $110,000 or ₹15,00,000 - ₹25,00,000 or $120k - $160k
+  const rangeRegex = /(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)(\d{1,3}(?:[,\s]\d{2,3})+|\d{2,3}k|\d{2,3})\s*(?:-|–|—|to)\s*(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)?(\d{1,3}(?:[,\s]\d{2,3})+|\d{2,3}k|\d{2,3})/i;
   const m = text.match(rangeRegex);
 
   if (!m) return null;
@@ -169,7 +169,7 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
   else if (/SGD/i.test(rawSymbol)) currency = 'SGD';
 
   const parseVal = (s: string) => {
-    const clean = s.toLowerCase().replace(/,/g, '').trim();
+    const clean = s.toLowerCase().replace(/[,\s]/g, '').trim();
     if (clean.endsWith('k')) return parseFloat(clean.slice(0, -1)) * 1000;
     return parseFloat(clean);
   };
@@ -183,14 +183,17 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
   const contextSnippet = text.slice(Math.max(0, matchIdx - 30), Math.min(text.length, matchIdx + m[0].length + 40)).toLowerCase();
 
   let unitText: 'HOUR' | 'MONTH' | 'YEAR' = 'YEAR';
-  if (/(?:\/|per\s*)(?:hr|hour)\b/i.test(contextSnippet) || max <= 500) {
+  if (/(?:\/|per\s*)(?:hr|hour)\b/i.test(contextSnippet) || (max <= 500 && currency !== 'INR')) {
     unitText = 'HOUR';
-  } else if (/(?:\/|per\s*)month\b/i.test(contextSnippet) || (max <= 20000 && !contextSnippet.includes('year') && !contextSnippet.includes('annual'))) {
+  } else if (/(?:\/|per\s*)month\b/i.test(contextSnippet) || (max <= 20000 && currency !== 'INR' && !contextSnippet.includes('year') && !contextSnippet.includes('annual'))) {
     unitText = 'MONTH';
   }
 
+  const maxYearCap = currency === 'INR' ? 50000000 : 2500000;
+  const minYearCap = currency === 'INR' ? 100000 : 20000;
+
   if (
-    (unitText === 'YEAR' && min >= 20000 && max <= 2500000) ||
+    (unitText === 'YEAR' && min >= minYearCap && max <= maxYearCap) ||
     (unitText === 'HOUR' && min >= 12 && max <= 500) ||
     (unitText === 'MONTH' && min >= 1500 && max <= 150000)
   ) {
@@ -209,24 +212,41 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
   return null;
 }
 
-function formatAmount(val: number): string {
+function formatAmount(val: number, symbol: string = '$'): string {
+  if (currencyFormattingMap[symbol]) {
+    return currencyFormattingMap[symbol](val);
+  }
   if (val >= 1000) {
     const k = val / 1000;
-    return Number.isInteger(k) ? `$${k}k` : `$${k.toFixed(1)}k`;
+    return Number.isInteger(k) ? `${symbol}${k}k` : `${symbol}${k.toFixed(1)}k`;
   }
-  return `$${val}`;
+  return `${symbol}${val}`;
 }
+
+const currencyFormattingMap: Record<string, (val: number) => string> = {
+  '₹': (val: number) => {
+    if (val >= 100000) {
+      const lakh = val / 100000;
+      return Number.isInteger(lakh) ? `₹${lakh} L` : `₹${lakh.toFixed(1)} L`;
+    }
+    if (val >= 1000) {
+      const k = val / 1000;
+      return Number.isInteger(k) ? `₹${k}k` : `₹${k.toFixed(1)}k`;
+    }
+    return `₹${val}`;
+  },
+};
 
 export function formatSalaryDisplay(salary: JobBaseSalarySchema, isEstimated: boolean): string {
   const { currency, value } = salary;
-  const symbol = currency === 'EUR' ? '€' : currency === 'GBP' ? '£' : '$';
+  const symbol = currency === 'EUR' ? '€' : currency === 'GBP' ? '£' : currency === 'INR' ? '₹' : currency === 'CAD' ? 'C$' : currency === 'AUD' ? 'A$' : currency === 'SGD' ? 'S$' : '$';
   const unitSuffix = value.unitText === 'HOUR' ? '/hr' : value.unitText === 'MONTH' ? '/mo' : '/yr';
 
   let rangeText = '';
   if (value.minValue && value.maxValue && value.minValue !== value.maxValue) {
-    rangeText = `${formatAmount(value.minValue).replace('$', symbol)} – ${formatAmount(value.maxValue).replace('$', symbol)}${unitSuffix}`;
+    rangeText = `${formatAmount(value.minValue, symbol)} – ${formatAmount(value.maxValue, symbol)}${unitSuffix}`;
   } else if (value.value || value.minValue) {
-    rangeText = `${formatAmount((value.value || value.minValue)!).replace('$', symbol)}${unitSuffix}`;
+    rangeText = `${formatAmount((value.value || value.minValue)!, symbol)}${unitSuffix}`;
   } else {
     rangeText = `${symbol}100k – ${symbol}160k/yr`;
   }
