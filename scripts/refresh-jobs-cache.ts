@@ -403,6 +403,14 @@ async function refreshJobsCache() {
             link.includes('typeform.com') ||
             link.includes('cal.com') ||
             link.includes('jotform.com') ||
+            // Reject support-doc / help-center article URLs — website-discovery
+            // feeds sometimes pick up guides (e.g. weex.com/en/help/articles)
+            // whose nav menus then dump onto the job page as "description".
+            link.includes('/help/articles') ||
+            link.includes('/help-center') ||
+            link.includes('/support/articles') ||
+            link.includes('/knowledge-base') ||
+            link.includes('/hc/en-us/articles') ||
             // Reject links to competitor job boards — these are scraped/bad data
             link.includes('web3.career') ||
             link.includes('crypto.jobs') ||
