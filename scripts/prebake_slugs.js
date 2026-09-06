@@ -220,19 +220,21 @@ for (const s of existingSlugs) {
 }
 
 let updated = 0;
+const assignedSlugs = new Set();
 const outputJobs = validJobs.map(job => {
-  if (!job.slug) {
+  if (!job.slug || assignedSlugs.has(job.slug)) {
     const role = getOneWordRole(job.title || 'job');
     roleCounters[role] = (roleCounters[role] || 0) + 1;
     let newSlug = `${role}${roleCounters[role]}`;
-    while (existingSlugs.has(newSlug)) {
+    while (existingSlugs.has(newSlug) || assignedSlugs.has(newSlug)) {
       roleCounters[role]++;
       newSlug = `${role}${roleCounters[role]}`;
     }
-    existingSlugs.add(newSlug);
+    assignedSlugs.add(newSlug);
     updated++;
     return { ...job, slug: newSlug };
   }
+  assignedSlugs.add(job.slug);
   return job;
 });
 
