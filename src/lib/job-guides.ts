@@ -194,35 +194,30 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
 
   if (type === 'h3') {
     const lower = cleaned.toLowerCase();
-    if (/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|the role|your role|duties|what the role entails)/i.test(lower)) {
-      return 'Key Responsibilities';
-    }
-    if (/^(what we.?re looking for|requirements|qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role)/i.test(lower)) {
-      return 'Qualifications & Requirements';
-    }
-    if (/^(who you are|who you.?re|about you|candidate profile|profile|what you bring)/i.test(lower)) {
-      return 'Candidate Profile & Mindset';
-    }
-    if (/^(bonus points|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i.test(lower)) {
-      return 'Preferred / Nice-to-Have Qualifications';
-    }
-    if (/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks|perks that empower you)/i.test(lower)) {
-      return 'Perks & Compensation';
-    }
-    if (/^(you.?ll know you.?re winning|how success is measured|what success looks like|measuring success)/i.test(lower)) {
-      return 'What Success Looks Like';
-    }
-    if (/^(why this role matters|why you.?ll love)/i.test(lower)) {
-      return "Why This Role Matters & What's In It For You";
-    }
-    if (/^(the opportunity|opportunity|the mission|mission|role overview)/i.test(lower)) {
-      return 'The Opportunity & Scope';
-    }
-    if (/^(about the organization|about the foundation)/i.test(lower)) {
-      return 'About the Organization';
-    }
-    if (/^(about us|about the company|who we are|company overview)/i.test(lower)) {
-      return 'About the Company';
+    // Canonical renames. When the source heading carries substantial extra
+    // prose beyond the canonical phrase (e.g. "Responsibilities span the
+    // following areas"), the canonical name is kept ONLY if it covers most of
+    // the text; otherwise the author's fuller heading is preserved verbatim so
+    // no words are silently dropped (the old code returned just the canonical
+    // name and deleted the remainder).
+    const mappings: Array<[RegExp, string]> = [
+      [/^(what you will do|what you.?ll do|key responsibilities|responsibilities|core responsibilities|the role|your role|duties|what the role entails)/i, 'Key Responsibilities'],
+      [/^(what we.?re looking for|requirements|qualifications|key requirements|minimum qualifications|basic qualifications|you.?ll excel in this role|you will excel in this role)/i, 'Qualifications & Requirements'],
+      [/^(who you are|who you.?re|about you|candidate profile|profile|what you bring)/i, 'Candidate Profile & Mindset'],
+      [/^(bonus points|nice to have|preferred qualifications|preferred skills|plus points|what.?s nice to have)/i, 'Preferred / Nice-to-Have Qualifications'],
+      [/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks|perks that empower you)/i, 'Perks & Compensation'],
+      [/^(you.?ll know you.?re winning|how success is measured|what success looks like|measuring success)/i, 'What Success Looks Like'],
+      [/^(why this role matters|why you.?ll love)/i, "Why This Role Matters & What's In It For You"],
+      [/^(the opportunity|opportunity|the mission|mission|role overview)/i, 'The Opportunity & Scope'],
+      [/^(about the organization|about the foundation)/i, 'About the Organization'],
+      [/^(about us|about the company|who we are|company overview)/i, 'About the Company'],
+    ];
+    for (const [pattern, canonical] of mappings) {
+      if (pattern.test(lower)) {
+        const stripped = cleaned.replace(/[:]+$/, '').trim();
+        if (stripped.length > canonical.length + 12) return stripped;
+        return canonical;
+      }
     }
     return cleaned.replace(/[:]+$/, '');
   }
@@ -258,6 +253,14 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
     if (currentListOpen) { html += '</ul>'; currentListOpen = false; }
   };
 
+  // Normalized text of the last emitted h3: ATS postings (esp. Lever `lists`)
+  // often repeat a section heading back-to-back ("Key Responsibilities" x2).
+  // Emitting the repeat splits one list in two; the repeat is dropped and its
+  // items merge under the first. Only CONSECUTIVE repeats merge — a different
+  // heading in between means a genuinely new section, which stays faithful.
+  let lastEmittedH3Norm = '';
+  const normHeading = (s: string) => s.toLowerCase().replace(/[^a-z0-9]+/g, '');
+
   const emitPendingHeading = () => {
     if (pendingHeading) {
       html += pendingHeading;
@@ -267,33 +270,47 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
     }
   };
 
-  for (const block of blocks) {
-    if (block.type === 'h3') {
-      flushList();
+  const emitParagraphHtml = (text: string) => {
+    if (text.trim()) {
       emitPendingHeading();
-      isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
-      const spunHeading = spinJobPostingBlock(block.text, 'h3', isAboutSection).replace(/[:]+$/, '').trim();
-      const intro = getSectionIntro(spunHeading, job);
-      pendingHeading = `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${escapeHtml(spunHeading)}</h3>`;
-      pendingIntro = intro || null;
-      continue;
+      html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
     }
-    if (block.type === 'h4') {
+  };
+
+  for (const block of blocks) {
+    if (block.type === 'h3' || block.type === 'h4') {
       flushList();
       emitPendingHeading();
-      const spunHeading = spinJobPostingBlock(block.text, 'h4', isAboutSection).replace(/[:]+$/, '').trim();
-      pendingHeading = `<h4 class="text-lg font-semibold tracking-tight text-foreground mt-6 mb-2">${escapeHtml(spunHeading)}</h4>`;
-      pendingIntro = null;
+      const isH3 = block.type === 'h3';
+      if (isH3) isAboutSection = /about|who we are|company overview|mission/i.test(block.text);
+      const spunHeading = spinJobPostingBlock(block.text, block.type, isAboutSection).replace(/[:]+$/, '').trim();
+      // Safety net: a heading that somehow still carries a paragraph (>140
+      // chars) is demoted to a paragraph rather than rendered as a giant <h3>.
+      if (!spunHeading || spunHeading.length > 140) {
+        if (spunHeading) emitParagraphHtml(renderInlineMd(escapeHtml(spunHeading)));
+        continue;
+      }
+      const norm = normHeading(spunHeading);
+      if (isH3 && norm && norm === lastEmittedH3Norm) continue;
+      if (!isH3) lastEmittedH3Norm = '';
+      // Skip title-echo headings ("WEEX-Backend Engineer (Java)" as an <h3>):
+      // the page H1 already carries the title, so echo headings only add noise.
+      if (isH3 && job?.title) {
+        const titleNorm = normHeading(job.title);
+        if (titleNorm.length >= 8 && norm.includes(titleNorm) && spunHeading.length < 120) continue;
+      }
+      const intro = isH3 ? getSectionIntro(spunHeading, job) : null;
+      const rendered = renderInlineMd(escapeHtml(spunHeading));
+      pendingHeading = isH3
+        ? `<h3 class="text-xl font-bold tracking-tight text-foreground mt-8 mb-3">${rendered}</h3>`
+        : `<h4 class="text-lg font-semibold tracking-tight text-foreground mt-6 mb-2">${rendered}</h4>`;
+      pendingIntro = intro || null;
+      if (isH3 && norm) lastEmittedH3Norm = norm;
       continue;
     }
     if (block.type === 'li') {
       const spunText = spinJobPostingBlock(block.text, 'li', isAboutSection);
-      let text = escapeHtml(spunText)
-        .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-        .replace(/\*\*/g, '')
-        .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
-        .replace(/\s+([,.:;!?])/g, '$1')
-        .replace(/\s+/g, ' ');
+      let text = renderInlineMd(escapeHtml(spunText));
       text = text.replace(/^[-*•·▪–—]\s+/, '');
       const colonMatch = text.match(/^([A-Za-z0-9\s/&-]+):(\s+.*)$/);
       if (colonMatch && colonMatch[1].length < 40) text = `<strong>${colonMatch[1]}:</strong>${colonMatch[2]}`;
@@ -304,12 +321,7 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
     }
     flushList();
     const spunPara = spinJobPostingBlock(block.text, 'p', isAboutSection);
-    let text = escapeHtml(spunPara)
-      .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
-      .replace(/\*\*/g, '')
-      .replace(/\u21E7JOBLINK:([^⇧\u2044]+)\u2044([^⇧]*)\u21E9/g, (_, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
-      .replace(/\s+([,.:;!?])/g, '$1')
-      .replace(/\s+/g, ' ');
+    const text = renderInlineMd(escapeHtml(spunPara));
     if (text.trim()) {
       emitPendingHeading();
       html += `<p class="text-muted-foreground leading-relaxed">${text}</p>`;
@@ -317,6 +329,9 @@ export function buildSynthesizedJobContent(job: Job, rawContentOverride?: string
   }
   flushList();
   html += '</div>';
+  // Fuse back-to-back lists (e.g. after a duplicate-heading merge) so one
+  // section renders as one continuous bullet list, not two stacked ones.
+  html = html.replace(/<\/ul>\s*<ul[^>]*>/g, '');
   const cleanedHtml = cleanPublishHtml(html.replace(/#{2,}HEADING###/g, ''));
   const visibleText = plainTextFromHtml(cleanedHtml);
   if (visibleText.length < 350 || blocks.length < 3) {
@@ -531,9 +546,25 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   // Strip trailing dash after period before line/tag break
   decoded = decoded.replace(/\.\s*[-–—]\s*(?=<\/p>|\n|$)/g, '.');
 
-  // Pre-split headings that collide with sentence end or start of text
+  // Pre-split headings that collide with sentence end or start of text.
+  // NOTE: the space-separated (colon-less) form must only fire when the next
+  // character is truly uppercase. The pattern carries the /i flag, which also
+  // makes [A-Z0-9] lookaheads match lowercase — so the check is re-done here
+  // with a case-SENSITIVE test. Without this, mid-sentence phrases like
+  // "Responsibilities span..." lose the header word to a phantom heading and
+  // orphan the remainder ("span the following areas:") as a fragment.
   const headerWords = 'Requirements|Responsibilities|Core Responsibilities|Key Responsibilities|Qualifications|What you will do|What you.ll do|What we.re looking for|Candidate Profile|Who you are|Benefits|Perks|Compensation|About the company|About the role|Working terms|Skills|Mission|What we offer';
-  decoded = decoded.replace(new RegExp(`(?:^|([.!?]))\\s*(${headerWords})\\s*(?::\\s*|\\s+(?=[A-Z0-9]))[-*•·▪]?\\s*`, 'gi'), (_, p1, p2) => (p1 ? `${p1}\n\n` : '') + `###HEADING###${p2}\n`);
+  decoded = decoded.replace(
+    new RegExp(`(?:^|([.!?]))\\s*(${headerWords})\\s*(?::\\s*|\\s+(?=[A-Z0-9]))[-*•·▪]?\\s*`, 'gi'),
+    (full: string, p1: string, p2: string, offset: number, whole: string) => {
+      const tail = full.slice(full.toLowerCase().lastIndexOf(p2.toLowerCase()) + p2.length);
+      if (!tail.includes(':')) {
+        const nextChar = whole[offset + full.length] || '';
+        if (nextChar !== '<' && !/[A-Z0-9]/.test(nextChar)) return full;
+      }
+      return (p1 ? `${p1}\n\n` : '') + `###HEADING###${p2}\n`;
+    },
+  );
 
   decoded = cleanPublishText(decoded);
 
@@ -556,10 +587,31 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
   }
 
   // Remove non-content tags and navigation / apply button boilerplate
-  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
+  $('script, style, iframe, noscript, svg, button, form, input, select, nav, footer, header, .navbar, .logo, .role-back, .apply-row, .role-meta, .job-details-content__sidebar, .job-details-content__apply-section, .share-links, .fb-xfbml-parse-ignore, [class*="share-button"], [class*="social-share"], [class*="sharethis"], [class*="addthis"], #apply, .h-header, .h-header-content, .h-header-menu, .custom-footer, .custom-footer-social-link, .boards-cookie-banner, .hosted-job-header, .hosted-job-office-locations, .hosted-job-preheader, [data-component="pf-popover"], [data-controller*="clipboard"], .credit, .sr-only, .visually-hidden').remove();
 
   // Convert <br> and <hr> tags to newlines before text extraction
   $('br, hr').replaceWith('\n');
+
+  // Flatten definition lists (Workday metadata: <dt>locations</dt>
+  // <dd>New York</dd>) with explicit separators — otherwise text extraction
+  // fuses them into "locationsNew York".
+  $('dt').each((_, el) => {
+    const t = $(el).text().trim();
+    $(el).replaceWith(t ? `\n${t}: ` : '\n');
+  });
+  $('dd').each((_, el) => {
+    const t = $(el).text().trim();
+    $(el).replaceWith(t ? `${t}\n` : '\n');
+  });
+
+  // Separate adjacent inline elements with a space BEFORE text extraction:
+  // ATS markup like <span>locations</span><span>Hong Kong</span> (or
+  // "Engineering</h3><p>Engineering") otherwise concatenates to
+  // "locationsHong Kong". Labels are trimmed at use sites, and block
+  // whitespace collapses downstream, so the extra spaces are harmless.
+  $('span, a, strong, b, em, i, u, small, label, font').each((_, el) => {
+    $(el).append(' ');
+  });
 
   // Strip links pointing to internal career lists or apply endpoints, handle empty anchors cleanly
   $('a').each((_, el) => {
@@ -567,21 +619,78 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     const href = ($el.attr('href') || '').trim();
     const label = $el.text().trim();
     if (!label) {
-      $el.replaceWith(' ');
+      // Image-only links ("explore our [logo] for more"): keep the image alt
+      // text so the sentence doesn't dangle. Otherwise drop silently — host
+      // names of share-widget pixels ("facebook.com") must never become
+      // visible body copy.
+      const imgAlt = $el.find('img').attr('alt')?.trim();
+      $el.replaceWith(imgAlt ? ` ${imgAlt} ` : ' ');
       return;
     }
     if (!href || !/^https?:\/\//i.test(href) || /fillout\.com|apply/i.test(href) || /←|all open roles/i.test(label)) {
       $el.replaceWith(` ${label} `);
       return;
     }
-    $el.replaceWith(` \u21E7JOBLINK:${href}\u2044${label}\u21E9 `);
+    // Drop RTE junk links: self-referential bare-domain links ("Next.js" ->
+    // http://next.js) and common-word mislinks ("us." -> http://us.how/).
+    // Text is always preserved; only the bogus hyperlink is removed.
+    try {
+      const parsed = new URL(href);
+      const host = parsed.hostname.replace(/^www\./, '').toLowerCase();
+      const labelNorm = label.replace(/[.\s]+$/g, '').toLowerCase();
+      const bareWord = label.replace(/[^a-z]/gi, '').toLowerCase();
+      const isRootPath = parsed.pathname === '/' || parsed.pathname === '';
+      if (isRootPath && (host === labelNorm || (label.trim().length <= 4 && ['us', 'me', 'we', 'our', 'you'].includes(bareWord)))) {
+        $el.replaceWith(` ${label} `);
+        return;
+      }
+    } catch { /* keep link if URL unparseable */ }
+    $el.replaceWith(` ⇧JOBLINK:${href}⁄${label}⇩ `);
   });
 
-  // Convert standalone <strong> or <b> section headers into explicit heading markers
+  // Convert standalone <strong> or <b> section headers into explicit heading markers.
+  // ATS editors often split one heading across adjacent bold elements
+  // (<strong>About the O</strong><strong>pportunity</strong>); merge those
+  // first so the heading is tested (and emitted) whole instead of orphaning
+  // a fragment ("pportunity...") as body text.
   $('strong, b').each((_, el) => {
-    const text = $(el).text().trim();
+    const $el = $(el);
+    let combined = $el.text();
+    let mergedSiblings = false;
+    let node: any = ($el[0] as any).next;
+    while (node) {
+      if (node.type === 'text') {
+        if (node.data.trim() !== '') break;
+        node = node.next;
+        continue;
+      }
+      if (node.type === 'tag' && (node.name === 'strong' || node.name === 'b')) {
+        const piece = $(node).text();
+        // Tight-join mid-word fragments ("O"+"pportunity", "e"+"Bay"): the
+        // previous chunk ends in a lone single letter, which is never a
+        // complete word (except a/I, which are excluded). Boundary spaces
+        // appended for tag-concat separation are trimmed before testing so
+        // they don't force a false space.
+        const frag = combined.trimEnd().match(/(?:^|\s)([A-Za-z])$/)?.[1];
+        const tight = !!frag && !/[aAI]/.test(frag) && /^[a-z]/.test(piece.trimStart());
+        if (tight) combined = combined.trimEnd();
+        combined += (tight ? '' : ' ') + piece;
+        const doomed: any = node;
+        node = node.next;
+        $(doomed).remove();
+        mergedSiblings = true;
+        continue;
+      }
+      break;
+    }
+    const text = combined.trim();
+    if (mergedSiblings && text) {
+      // Keep the merged words in the DOM even when they are not a heading;
+      // otherwise the removed siblings' text would be lost.
+      $el.text(combined);
+    }
     if (text.length > 2 && text.length < 80 && !text.includes('.') && !text.includes(';') && !text.includes(',')) {
-      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|role|the role|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|about the organization|about the foundation|about you|what you.?ll do|what you will do|what we.?re looking for|working terms)/i.test(text)) {
+      if (/^(about|overview|why|what|responsibilities|requirements|qualifications|benefits|perks|compensation|values|culture|profile|who|skills|bonus|location|physical demands|reports to|salary|employment type|job type|work location|schedule|department|team|requisition|disclaimer|visa sponsorship|work authorization|eeo|equal opportunity|role|the role|the team|your impact|how to apply|the opportunity|opportunity|nice to have|who you are|who we are|how we work|how we hire|why work with us|position summary|role summary|job summary|about the organization|about the foundation|about the team|about the role|role overview|position overview|about you|what you.?ll do|what you will do|what we.?re looking for|working terms|ai usage)/i.test(text)) {
         $(el).replaceWith(`\n###HEADING###${text}\n`);
       }
     }
@@ -602,7 +711,10 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     const text = $el.text().trim();
     if (text) {
       const items = text
-        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|\.\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        // ATS-fused dash chains ("Afines. - Experiencia...") split further;
+        // ranges ("1 - 3 years") and hyphens ("full-time") are untouched.
+        .flatMap((item) => splitFusedDashItems(item))
         .map((item) => item.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
         .filter(Boolean);
       $el.replaceWith(items.map((item) => `\n- ${item}\n`).join(''));
@@ -623,7 +735,23 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
 
   const lines = fullText.split('\n').map((l) => l.trim()).filter(Boolean);
   for (let i = 0; i < lines.length; i++) {
-    const line = lines[i];
+    let line = lines[i];
+
+    // Strip boilerplate sentences (privacy-consent footers, equal-opportunity
+    // boilerplate) before classification so the remainder re-classifies
+    // naturally; skip the line if nothing substantive remains.
+    if (!line.includes('###HEADING###')) {
+      const stripped = stripBoilerplateSentences(line);
+      if (!stripped) continue;
+      if (stripped !== line) {
+        line = stripped;
+        lines[i] = stripped;
+      }
+      // Help-center page-dump artifacts (nav menus, bylines, signup promos)
+      if (isNavMenuDump(line)) continue;
+      if (/^By:\s*.+\|\s*\d*\s*$/.test(line)) continue;
+      if (/find us on\s*:?\s*$/i.test(line) && line.length < 60) continue;
+    }
 
     if (line.includes('###HEADING###')) {
       // Marker may sit mid-line when a heading <strong> was inline inside a
@@ -648,10 +776,18 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
 
     // Skip leaked / non-content noise
     if (/^#LI-[A-Z0-9-]+$/i.test(line)) continue;
+    if (/^Skip to (main content|navigation|search)\b/i.test(line.trim())) continue;
+    if (/^page is loaded\.?\s*$/i.test(line.trim())) continue;
     if (/^It Pays to Work Here\.?$/i.test(line.trim())) continue;
     if (/^←\s*All open roles/i.test(line.trim())) continue;
     if (/^(Apply|Apply now|Share|Copy|Link|Share to|Job openings|Full-time|Part-time|Contract|Remote)$/i.test(line.trim())) continue;
     if (/^(Powered by|English|Українська|Polski|Español|Português|Deutsch|Slovenčina|Magyar)$/i.test(line.trim())) continue;
+    if (/^By:\s*/i.test(line.trim())) continue;
+    if (/^Related articles\b/i.test(line.trim())) continue;
+    if (/^(job description|position description|job overview)[:]?$/i.test(line.trim())) continue;
+    // Social-link farm paragraphs (help-center footers): 4+ outbound links
+    // with pipe separators in a short span is a footer, never prose.
+    if ((line.match(/⇧JOBLINK:/g) || []).length >= 4 && (line.replace(/⇧JOBLINK:[^⇩]*⇩/g, '').trim().length < 300) && ((line.match(/\|/g) || []).length >= 3 || /find us on|follow us|supported platforms|join our community/i.test(line))) continue;
     if (/^This (?:job opening|position) is verified from/i.test(line.trim())) continue;
     if (/Click (?:<strong>)?Apply Now(?:<\/strong>)? to submit your application/i.test(line.trim())) continue;
     if (/submit your application directly via/i.test(line.trim())) continue;
@@ -674,11 +810,12 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     if (job?.department && typeof job.department === 'string' && line.trim().toLowerCase() === job.department.trim().toLowerCase()) continue;
 
     // Bullet item
-    const bulletMatch = line.match(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*(.*)$/);
+    const bulletMatch = line.match(/^[-*•·▪–—]\s*(.*)$/);
     if (bulletMatch) {
       const bulletItems = bulletMatch[1]
-        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])/)
-        .map((item) => item.replace(/^[-*\u2022\u00b7\u25aa\u2013\u2014]\s*/, '').trim())
+        .split(/\s+[•·]\s+|\s+\*\s+(?=[A-Z0-9])|(?<=\.)\s+[-*•·▪–—]\s+(?=[A-Z])/)
+        .flatMap((item) => splitFusedDashItems(item))
+        .map((item) => item.replace(/^[-*•·▪–—]\s*/, '').trim())
         .filter(Boolean);
       for (const item of bulletItems) {
         // If previous block was a bullet ending with trailing dash or hyphen, merge
@@ -707,17 +844,33 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     // Numbered list item: "1. Develop..." or "1、开发..."
     const numMatch = line.match(/^\d+[\.\)丶、．]\s*(.*)$/);
     if (numMatch && numMatch[1].trim()) {
-      rawBlocks.push({ type: 'li', text: numMatch[1].trim() });
+      for (const item of splitFusedDashItems(numMatch[1].trim())) {
+        rawBlocks.push({ type: 'li', text: item });
+      }
       continue;
     }
 
-    // Standalone heading line detection
+    // Fused section-label split (single-line form; the merged-blocks form is
+    // handled again after the merge pass below).
+    if (line.length > 90) {
+      const leadSplit = line.match(LEAD_SPLIT_RE);
+      if (leadSplit) {
+        rawBlocks.push({ type: 'h3', text: leadSplit[1] });
+        const rest = line.slice(leadSplit[0].length).trim();
+        if (rest) rawBlocks.push({ type: 'p', text: rest });
+        continue;
+      }
+    }
+
+    // Standalone heading line detection. The colon arm rejects sentence
+    // fragments ("Span the following areas:") — a label rarely has a
+    // determiner as its second word.
     if (
       line.length < 80 &&
       !INTRO_LEADIN_REGEX.test(line) &&
       (
         MAJOR_HEADING_REGEX.test(line) ||
-        (line.endsWith(':') && /^[A-Z]/.test(line) && !line.includes('. ') && !line.includes('; ')) ||
+        (line.endsWith(':') && /^[A-Z]/.test(line) && !line.includes('. ') && !line.includes('; ') && !/^[A-Z][a-z]+\s+(the|a|an|following|these|those|this|that|your|our|their|its|his|her)\b/.test(line)) ||
         /^(?:ready to build what's next|why join us|who we are|what we offer)\??$/i.test(line)
       )
     ) {
@@ -755,12 +908,17 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     rawBlocks.push({ type: 'p', text: line });
   }
 
-  // Merge any accidental fragment blocks into the previous block
+  // Merge any accidental fragment blocks into the previous block.
+  // Headings are NEVER merge targets: a paragraph starting with a
+  // continuation word ("As the role...", "At Ethena...") or a lowercase
+  // token ("eToro is...") is a new block, not a heading continuation.
+  // Merging those swallowed whole paragraphs into <h3> on 400+ pages.
   const blocks: Array<{ type: 'h3' | 'h4' | 'p' | 'li'; text: string }> = [];
   for (const block of rawBlocks) {
     const prev = blocks[blocks.length - 1];
     if (
       prev &&
+      (prev.type === 'p' || prev.type === 'li') &&
       block.type === 'p' &&
       (
         /^[a-z]/.test(block.text) ||
@@ -773,6 +931,27 @@ function cleanAndExtractBlocks(html: string, job?: Job): Array<{ type: 'h3' | 'h
     } else {
       blocks.push(block);
     }
+  }
+
+  // Drop help-center nav-menu paragraphs that only assembled AFTER short menu
+  // lines merged above (per-line length guards can't see the merged result).
+  for (let bi = blocks.length - 1; bi >= 0; bi--) {
+    if (blocks[bi].type === 'p' && isNavMenuDump(blocks[bi].text)) {
+      blocks.splice(bi, 1);
+    }
+  }
+
+  // Split fused section labels that only assembled after the merge above
+  // ("How We Work We're remote-first..." from adjacent label/content divs).
+  for (let bi = 0; bi < blocks.length; bi++) {
+    const b = blocks[bi];
+    if (b.type !== 'p' || b.text.length <= 90) continue;
+    const m = b.text.match(LEAD_SPLIT_RE);
+    if (!m) continue;
+    const rest = b.text.slice(m[0].length).trim();
+    if (!rest) continue;
+    blocks.splice(bi, 1, { type: 'h3', text: m[1] }, { type: 'p', text: rest });
+    bi++;
   }
 
   // Fallback if parsing produced nothing
@@ -803,6 +982,99 @@ function escapeHtml(value: string): string {
     .replace(/>/g, '&gt;')
     .replace(/"/g, '&quot;')
     .replace(/'/g, '&#39;');
+}
+
+/**
+ * Shared inline-markdown renderer for ALREADY-ESCAPED text. Applies to every
+ * block type (h3/h4/p/li): previously headings skipped this, leaking raw
+ * `**bold**` markers into <h3> on dozens of pages (e.g. `**expanding**`).
+ */
+function renderInlineMd(escaped: string): string {
+  return escaped
+    .replace(/\*\*([^*]+)\*\*/g, '<strong>$1</strong>')
+    .replace(/(^|[\s(])__([^_]+)__/g, '$1<strong>$2</strong>')
+    .replace(/\*\*/g, '')
+    .replace(/⇧JOBLINK:([^⇧⁄]+)⁄([^⇧]*)⇩/g, (_m, url: string, label: string) => `<a href="${url}" target="_blank" rel="noopener noreferrer nofollow" class="text-primary hover:underline">${label}</a>`)
+    .replace(/\s+([,.:;!?])/g, '$1')
+    .replace(/\s+/g, ' ');
+}
+
+/**
+ * Splits ATS-fused dash chains inside list-bound text:
+ * "Fluent English. - Nice to have: - Prior crypto experience" ->
+ * ["Fluent English.", "Nice to have: Prior crypto experience"].
+ * Only splits after `.`/`:` + dash + Capital, so ranges ("1 - 3 years"),
+ * hyphens ("full-time") and prose ("Austin - Remote") are untouched.
+ */
+function splitFusedDashItems(text: string): string[] {
+  const folded = text.replace(/:\s*[-–—]\s+(?=[A-Z])/g, ': ');
+  return folded
+    .split(/\.\s*[-–—]\s+(?=[A-Z])/)
+    .map((part, i, arr) => (i < arr.length - 1 ? `${part.trim()}.` : part.trim()))
+    .map((part) => part.replace(/^[-*•·▪–—]\s+/, '').replace(/\s+/g, ' ').trim())
+    .filter(Boolean);
+}
+
+/**
+ * Boilerplate sentences stripped per line before block classification, so the
+ * remainder re-classifies naturally. Covers ATS privacy-consent footers and
+ * equal-opportunity boilerplate (the meta-description builder already treats
+ * these as junk; the body must too).
+ */
+const BOILER_SENTENCE_RES: RegExp[] = [
+  /[^.!?]*\bpage is loaded\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bby submitting your application to us, you consent\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bplease consider your application as unsuccessful\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bequal opportunity employer\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\ball qualified applicants\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\baffirmative action\b[^.!?]*[.!?]*/gi,
+  /[^.!?]*\bwithout regard to\b[^.!?]*(?:race|color|religion|sex|national origin)[^.!?]*[.!?]*/gi,
+];
+
+function stripBoilerplateSentences(line: string): string {
+  let out = line;
+  for (const re of BOILER_SENTENCE_RES) {
+    re.lastIndex = 0;
+    out = out.replace(re, ' ');
+  }
+  // Standalone recruiter-timeline / signup-promo sentences
+  out = out.replace(/Sign up for a \w+ account now:?\s*/gi, ' ');
+  // Help-article bylines embedded mid-line ("By: WEEX | 0 ...")
+  out = out.replace(/\bBy:\s*[A-Za-z0-9_.)(-]+\s*\|\s*\d+/gi, ' ');
+  return out.replace(/\s+/g, ' ').trim();
+}
+
+/**
+ * Fused section-label openers ("About the Role Bybit is seeking...",
+ * "How We Work We're remote-first..."): a heading glued to its paragraph at
+ * a tag boundary. Only fragmentary openers qualify — grammatical starts
+ * ("The Team is...", "About the company, we...") stay prose.
+ */
+const LEAD_SPLIT_RE = /^(About the (?:Company|Role|Team|Organization|Foundation)|About Us|Position Summary|Role Summary|Job Summary|The Position|Ideal Candidate|Desired Candidate|Preferred Candidate|How We Work|Why Work With Us|What We Offer|Who We Are|How We Hire|What You.ll Do|Your Mission|Your Impact)\s*[-:—]?\s*(?=[A-Z][\s\S]{40,})/;
+
+/** Help-center nav keywords: a long period-less line hitting 3+ is a menu dump, not prose. */
+const NAV_MENU_KWS = [
+  'popular topics', 'latest articles', 'featured articles', 'latest updates',
+  'announcements', 'community channels', 'account security', 'terms of use',
+  'deposit/withdrawal', 'getting started', 'how-to guides', 'quick buy',
+  'download the app', 'copy trading', 'futures guide', 'spot trading',
+];
+
+function isNavMenuDump(line: string): boolean {
+  // Drop link URLs but KEEP their labels: help-center menu items ARE links,
+  // and wiping the labels too would erase the very keywords we count (the
+  // href dots would otherwise also fake sentence ends and exempt the dump).
+  const deLinked = line.replace(/⇧JOBLINK:[^⇩⁄]*⁄([^⇩]*)⇩/g, ' $1 ').replace(/https?:\/\/\S+/g, ' ');
+  if (deLinked.length < 200) return false;
+  const lower = deLinked.toLowerCase();
+  let hits = 0;
+  for (const kw of NAV_MENU_KWS) {
+    if (lower.includes(kw)) hits++;
+  }
+  // 6+ distinct menu terms never co-occur in genuine prose — even when the
+  // blob absorbed a real sentence (with periods) at its edge.
+  if (hits >= 6) return true;
+  return hits >= 3 && !/[.!?]/.test(deLinked);
 }
 
 /**
