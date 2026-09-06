@@ -4,7 +4,7 @@
  * that must never be published as standalone roles.
  */
 
-const GENERAL_APP_REGEX = /(general application|general interest|general opening|general opportunity|expression of interest|talent community|talent pool|talent network|future opportunities|future consideration|future builders|future roles|join our talent|dream job|spontaneous application|open position|open application|speculative application|unsolicited application|general pool|general submission|register your interest|submit your (?:cv|resume)|create your own role|don.?t see (?:a|your|the|any) role|role that fits|can.?t find (?:a|your) role|looking for something else|stay in touch|keep in touch|connect with us|work with us|join our team\s*\(general\)|general candidate pool)/i;
+const GENERAL_APP_REGEX = /(general application|general interest|general opening|general opportunity|general talent|expression of interest|talent community|talent pool|talent network|prosp pool|prospect pool|candidate pool|future openings|future opportunities|future consideration|future builders|future roles|join our talent|dream job|spontaneous application|open position|open application|speculative application|unsolicited application|general pool|general submission|register your interest|submit your (?:cv|resume)|create your own role|don.?t see (?:a|your|the|any) role|role that fits|can.?t find (?:a|your) role|looking for something else|stay in touch|keep in touch|connect with us|work with us|join our team\s*\(general\)|general candidate pool)/i;
 
 const PLACEHOLDER_TITLE_PATTERNS = [
   'default template',
@@ -12,6 +12,8 @@ const PLACEHOLDER_TITLE_PATTERNS = [
   'test job',
   '(sample)',
   '[template] default template',
+  'test prosp pool',
+  'prosp pool',
 ];
 
 /**
