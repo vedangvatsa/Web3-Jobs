@@ -542,6 +542,9 @@
   "https://www.theblock.co/news/defi/2026-09-06-liquid-network-pauses-after-purported-white-hat-hackers-withdraw-320-million-in-bitcoin-413626",
   "https://www.theblock.co/news/defi/2026-09-06-stonk-surges-250-to-140-million-market-cap-as-stock-paired-solana-launchpad-stonkfun-pulls-volume-to-raydium-and-jupiter-413621",
   "https://www.coindesk.com/news-analysis/2026/09/06/prediction-markets-inch-closer-to-the-supreme-court-state-of-crypto",
+  "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
+  "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
+  "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1532,6 +1535,12 @@
   "STONK surges 250% to $140 million market cap as stock-paired Solana launchpad StonkFun pulls volume to Raydium and Jupiter",
   "New Jersey Appeals Kalshi Case to US Supreme Court",
   "Prediction markets inch closer to the Supreme Court: State of Crypto",
+  "Pineapple Financial puts $1 billion in mortgage records onchain",
+  "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
+  "Polymarket launches crypto perpetual futures with leverage",
+  "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
+  "Bitcoin Holds $79,000 as Zcash Gains 45% Weekly",
+  "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1606,5 +1615,8 @@
   "fp:000|150|behind|crowdstrik|cryptocurrency|disrupt|eight|fight|joint|last",
   "fp:320m|blockstream|contact|developer|exchang|follow|hacker|hat|lbtc|liquid",
   "fp:140m|cap|drov|integration|jupiter|launchpad|market|mor|pair|percent",
-  "fp:appeal|ask|cas|closer|court|disput|inch|jersey|kalshi|legal"
+  "fp:appeal|ask|cas|closer|court|disput|inch|jersey|kalshi|legal",
+  "fp:ahead|asset|blockchain|coinbas|data|deribit|digitiz|financial|historical|inflation",
+  "fp:20x|added67|blockchain|derivativ|futur|harmony|hyp|leverag|market|non",
+  "fp:000|climb|data|down|expectation|gains45|hik|hold|liv|odd"
 ]
