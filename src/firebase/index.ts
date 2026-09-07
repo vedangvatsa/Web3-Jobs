@@ -26,6 +26,4 @@ export function initializeFirebase() {
  return { app: null, auth: null, firestore: null };
 }
 
-// Re-export providers and hooks for easy consumption
-export { FirebaseProvider, useFirebase, useFirebaseApp, useAuth, useFirestore } from './provider';
-export { FirebaseClientProvider } from './client-provider';
+export { serverFirestore } from './server-init';

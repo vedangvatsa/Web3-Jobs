@@ -54,7 +54,6 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'a16zcrypto': 'a16z',
   'a16z': 'a16z',
   'grass': 'wynd-labs',
-  'grass-wynd-labs-depin': 'wynd-labs',
   'bob': 'bob-build-on-bitcoin',
   'bob-build-on-bitcoin': 'bob-build-on-bitcoin',
   'provable': 'provable-aleo',

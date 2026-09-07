@@ -51,7 +51,7 @@ To: ${to.join(', ')}
     const result = await resend.emails.send({
       from: fromAddress,
       to: 'vatsvedang@gmail.com',
-      reply_to: from, // Setting reply_to lets the user hit "Reply" in Gmail and message the sender directly
+      replyTo: from, // Setting replyTo lets the user hit "Reply" in Gmail and message the sender directly
       subject: `[Fwd: ${to[0] || 'hi@hashtagweb3.com'}] ${subject}`,
       text: forwardHeaderTxt + (text || ''),
       html: html ? forwardHeaderHtml + html : undefined,
