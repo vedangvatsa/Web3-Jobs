@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b132b"/>
+      <stop offset="100%" stop-color="#1c2541"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="ud-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#4d7c0f"/>
+      <stop offset="100%" stop-color="#84cc16"/>
+    </linearGradient>
+    <linearGradient id="polygon-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8247e5"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="ipfs-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
+
+  <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+    Unstoppable Domains Architecture: NFT Registry &amp; Decentralized Resolution
+  </text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
+    Polygon ERC-721 Token Ownership, On-Chain Key-Value Records, IPFS Web Hosting &amp; Resolution Libraries
+  </text>
+
+  <!-- Node 1: Domain Minting & Ownership -->
+  <g transform="translate(40, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#polygon-purple)"/>
+    <text x="20" y="35" fill="#c084fc" font-family="sans-serif" font-size="14" font-weight="700">1. Polygon ERC-721 Registry</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">One-Time Minting (No Renewal)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Self-Custodial Wallet Storage</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Multi-TLD (.crypto, .x, .polygon)</text>
+  </g>
+
+  <!-- Flow 1 to 2 -->
+  <path d="M 310 215 L 360 215" stroke="#8247e5" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Node 2: Key-Value Record Resolver -->
+  <g transform="translate(365, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#ud-blue)"/>
+    <text x="20" y="35" fill="#a3e635" font-family="sans-serif" font-size="14" font-weight="700">2. On-Chain Record Storage</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Multi-Chain Address Mapping</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">IPFS Hash (dApp Website CID)</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Social Profiles &amp; Metadata</text>
+  </g>
+
+  <!-- Flow 2 to 3 -->
+  <path d="M 635 215 L 685 215" stroke="#84cc16" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Node 3: Resolution & SDK Client -->
+  <g transform="translate(690, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#ipfs-cyan)"/>
+    <text x="20" y="35" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="700">3. Resolution &amp; Integration</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Resolution SDK (JS / Python)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Brave / Opera Browser Support</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Single Sign-On (Login with UD)</text>
+  </g>
+
+  <!-- Bottom Section: Architectural Comparison -->
+  <g transform="translate(40, 350)">
+    <rect width="920" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <text x="25" y="35" fill="#f8fafc" font-family="sans-serif" font-size="16" font-weight="700">Comparison: Web3 Naming Infrastructure (Unstoppable Domains vs ENS)</text>
+
+    <rect x="25" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="40" y="85" fill="#a3e635" font-family="sans-serif" font-size="13" font-weight="700">Ownership &amp; Fee Model</text>
+    <text x="40" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">UD: One-time fee, zero renewals.</text>
+    <text x="40" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">ENS: Annual lease pricing</text>
+    <text x="40" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">based on character length.</text>
+
+    <rect x="322" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="337" y="85" fill="#c084fc" font-family="sans-serif" font-size="13" font-weight="700">Blockchain &amp; Layer 2</text>
+    <text x="337" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">UD: Polygon L2 gasless minting.</text>
+    <text x="337" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">ENS: Ethereum L1 native registry,</text>
+    <text x="337" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">expanding via L2 sub-resolvers.</text>
+
+    <rect x="620" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="635" y="85" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">TLD Ecosystem</text>
+    <text x="635" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">UD: Multi-TLD (.crypto, .x, .polygon).</text>
+    <text x="635" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">ENS: Primary focus on .eth with</text>
+    <text x="635" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">DNSSEC ICANN TLD integration.</text>
+  </g>
+
+</svg>
