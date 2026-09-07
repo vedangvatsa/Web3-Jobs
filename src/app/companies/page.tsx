@@ -60,11 +60,7 @@ export default async function CompaniesPage() {
       <div className="flex flex-col min-h-screen">
         <main className="flex-1">
           <PageShell>
-            <section className="text-center mb-8">
-              <div className="site-container">
-                <PageHeader title="Web3 Companies" />
-              </div>
-            </section>
+            <PageHeader title="Web3 Companies" />
 
             <article className="site-container">
               <TrustedBy />

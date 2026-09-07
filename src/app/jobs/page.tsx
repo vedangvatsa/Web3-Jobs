@@ -81,12 +81,8 @@ export default async function JobsPage() {
    />
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
-     <PageShell>
-       <section className="text-center mb-8">
-         <div className="site-container">
-           <PageHeader title="Web3 Jobs" />
-         </div>
-       </section>
+      <PageShell>
+        <PageHeader title="Web3 Jobs" />
        <div className="site-container">
          <TrustedBy />
           <div className="text-center my-4 space-y-2">
