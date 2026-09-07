@@ -74,17 +74,29 @@ async function main() {
 
   console.log(`Submitting ${allUrls.length} URLs to IndexNow...`);
 
-  for (const key of keys) {
-    const res = await fetch('https://api.indexnow.org/indexnow', {
-      method: 'POST',
-      headers: { 'Content-Type': 'application/json; charset=utf-8' },
-      body: JSON.stringify({
-        host: 'hashtagweb3.com',
-        key,
-        urlList: allUrls,
-      }),
-    });
-    console.log(`Key ${key} → HTTP ${res.status} ${res.statusText}`);
+  const endpoints = [
+    'https://api.indexnow.org/indexnow',
+    'https://yandex.com/indexnow',
+  ];
+
+  for (const endpoint of endpoints) {
+    for (const key of keys) {
+      try {
+        const res = await fetch(endpoint, {
+          method: 'POST',
+          headers: { 'Content-Type': 'application/json; charset=utf-8' },
+          body: JSON.stringify({
+            host: 'hashtagweb3.com',
+            key,
+            keyLocation: `https://hashtagweb3.com/${key}.txt`,
+            urlList: allUrls,
+          }),
+        });
+        console.log(`Endpoint: ${endpoint} | Key: ${key} → HTTP ${res.status} ${res.statusText}`);
+      } catch (err) {
+        console.error(`Error submitting to ${endpoint} with key ${key}:`, err);
+      }
+    }
   }
 }
 
