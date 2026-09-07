@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 236" role="img" aria-labelledby="t4 d4">
+<title id="t4">Quest platform list prices, USD per month</title>
+<desc id="d4">Bars: Zealy 149 dollars per month, Galxe 999 dollars per month, plus an 8 cent per-claim fee on Galxe.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.bar{fill:#8b5cf6}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#eef2f7}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.bar{fill:#a78bfa}.grid{stroke:#1e293b}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="234" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Quest platform list price (USD / month, before rewards)</text>
+<text x="20" y="80">Zealy</text><rect class="bar" x="220" y="66" width="48" height="18" rx="4"/><text class="num" x="276" y="80">$149</text>
+<text x="20" y="118">Galxe</text><rect class="bar" x="220" y="104" width="320" height="18" rx="4"/><text class="num" x="380" y="98">$999 + $0.08 / claim</text>
+<g class="grid"><line x1="220" y1="42" x2="220" y2="132"/><line x1="300" y1="42" x2="300" y2="132"/><line x1="380" y1="42" x2="380" y2="132"/><line x1="460" y1="42" x2="460" y2="132"/><line x1="540" y1="42" x2="540" y2="132"/></g>
+<text x="220" y="150">0</text><text x="290" y="150">250</text><text x="370" y="150">500</text><text x="450" y="150">750</text><text x="530" y="150">1000</text>
+<text x="20" y="180" font-size="12">Reach differs too: ~21M addresses on Galxe programs vs ~700k monthly users on Zealy.</text>
+<text x="20" y="200" font-size="12">Model fully loaded cost per 30-day-retained user or pause the spend.</text>
+<text x="20" y="220" font-size="12">Hashtag Web3 research compilation, September 2026.</text>
+</svg>

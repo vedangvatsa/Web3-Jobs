@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="t3 d3">
+<title id="t3">Activity and price drawdowns after 2024 airdrops, percent</title>
+<desc id="d3">Grouped bars. Active addresses: Starknet minus 80, ZKsync minus 40, LayerZero minus 85. Token price: STRK minus 91, ZK minus 67, ZRO minus 23.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.a{fill:#ef4444}.b{fill:#f59e0b}.card{fill:#ffffff;stroke:#e2e8f0}.zero{stroke:#94a3b8}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">After the airdrop: what fell, and by how much (%)</text>
+<text x="380" y="58"><tspan fill="#ef4444">■</tspan> active addresses</text>
+<text x="380" y="78"><tspan fill="#f59e0b">■</tspan> token price</text>
+<g>
+<text x="20" y="112">Starknet / STRK</text>
+<rect class="a" x="200" y="98" width="256" height="16" rx="4"/><text class="num" x="200" y="94">-80</text>
+<rect class="b" x="200" y="118" width="291" height="16" rx="4"/><text class="num" x="200" y="150">-91</text>
+<text x="20" y="188">ZKsync / ZK</text>
+<rect class="a" x="200" y="174" width="128" height="16" rx="4"/><text class="num" x="200" y="170">-40</text>
+<rect class="b" x="200" y="194" width="214" height="16" rx="4"/><text class="num" x="200" y="226">-67</text>
+<text x="20" y="264">LayerZero / ZRO</text>
+<rect class="a" x="200" y="250" width="272" height="16" rx="4"/><text class="num" x="200" y="246">-85</text>
+<rect class="b" x="200" y="270" width="74" height="16" rx="4"/><text class="num" x="200" y="302">-23</text>
+</g>
+<line class="zero" x1="200" y1="42" x2="200" y2="312"/>
+<text x="20" y="322" font-size="12">LayerZero kept 4x more price than peers; its Sybil hunt is the documented difference.</text>
+</svg>
