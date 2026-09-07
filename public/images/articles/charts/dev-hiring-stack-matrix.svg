@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="sm-title sm-desc">
+<title id="sm-title">Web3 Developer Compensation and Technical Stack Matrix</title>
+<desc id="sm-desc">Comparison matrix of four Web3 engineering specializations showing primary language, key framework, base salary band in USD, and security risk profile.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.row-bg{fill:#f8fafc}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.bar1{fill:#2563eb}.bar2{fill:#0ea5e9}.bar3{fill:#ef4444}.bar4{fill:#10b981}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">Web3 Developer Hiring &amp; Compensation Matrix (2026)</text>
+<text x="24" y="50" font-size="11" fill="#64748b">Benchmark salary ranges and core technical verification stacks (Pantera &amp; Web3.career data)</text>
+
+<!-- Table Header -->
+<line class="grid" x1="20" y1="65" x2="620" y2="65"/>
+<text x="28" y="82" class="header">Specialization</text>
+<text x="190" y="82" class="header">Primary Stack</text>
+<text x="340" y="82" class="header">Median Base (USD)</text>
+<text x="490" y="82" class="header">Risk Profile</text>
+<line class="grid" x1="20" y1="92" x2="620" y2="92"/>
+
+<!-- Row 1: Smart Contract Engineer -->
+<rect class="row-bg" x="20" y="94" width="600" height="50" rx="4"/>
+<text x="28" y="116" font-weight="600">Smart Contract Dev</text>
+<text x="28" y="132" font-size="10" fill="#64748b">EVM / DeFi Vaults</text>
+<text x="190" y="116">Solidity, Foundry</text>
+<text x="190" y="132" font-size="10" fill="#64748b">OpenZeppelin, Slither</text>
+<rect class="bar1" x="340" y="108" width="100" height="12" rx="3"/>
+<text class="num" x="445" y="119">$140k–$240k</text>
+<text x="490" y="116" fill="#ef4444" font-weight="600">High (Capital Loss)</text>
+
+<!-- Row 2: Protocol Systems Engineer -->
+<text x="28" y="168" font-weight="600">Protocol Architect</text>
+<text x="28" y="184" font-size="10" fill="#64748b">L1/L2 Consensus</text>
+<text x="190" y="168">Rust, Go, C++</text>
+<text x="190" y="184" font-size="10" fill="#64748b">Anchor, Reth, Geth</text>
+<rect class="bar2" x="340" y="160" width="115" height="12" rx="3"/>
+<text class="num" x="460" y="171">$160k–$270k</text>
+<text x="490" y="168" fill="#d97706" font-weight="600">Critical (Network)</text>
+
+<!-- Row 3: Security Researcher / Auditor -->
+<rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
+<text x="28" y="220" font-weight="600">Security Researcher</text>
+<text x="28" y="236" font-size="10" fill="#64748b">Audits &amp; Invariants</text>
+<text x="190" y="220">Solidity, Echidna</text>
+<text x="190" y="236" font-size="10" fill="#64748b">Certora, Halmos</text>
+<rect class="bar3" x="340" y="212" width="140" height="12" rx="3"/>
+<text class="num" x="485" y="223">$190k–$340k</text>
+<text x="490" y="220" fill="#ef4444" font-weight="600">Maximum (Exploit)</text>
+
+<!-- Row 4: Web3 Fullstack Engineer -->
+<text x="28" y="272" font-weight="600">dApp Fullstack</text>
+<text x="28" y="288" font-size="10" fill="#64748b">Web3 Wallets &amp; UI</text>
+<text x="190" y="272">TypeScript, React</text>
+<text x="190" y="288" font-size="10" fill="#64748b">Viem, Wagmi, Next.js</text>
+<rect class="bar4" x="340" y="264" width="80" height="12" rx="3"/>
+<text class="num" x="425" y="275">$120k–$190k</text>
+<text x="490" y="272" fill="#10b981" font-weight="600">Moderate (UX / Phish)</text>
+
+<line class="grid" x1="20" y1="302" x2="620" y2="302"/>
+<text x="24" y="318" font-size="10" fill="#64748b">Pantera Capital Compensation Survey, Web3.career, and OpenZeppelin Security Audit Benchmarks.</text>
+</svg>
