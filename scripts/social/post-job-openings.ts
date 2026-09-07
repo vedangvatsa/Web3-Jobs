@@ -12,8 +12,8 @@
  *   Company is hiring role
  *
  *   https://hashtagweb3.com/<slug>/x      (for X)
- *   https://hashtagweb3.com/<slug>/th     (for Threads)
  *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/th     (for Threads)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
@@ -753,7 +753,7 @@ async function main() {
   const redditUrl = `${SITE_URL}/${slug}/rd`;
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
-  const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
+  const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
   const blueskyPostText = `${company} is hiring ${title}: ${blueskyUrl}`;
   const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
   const linkedinPostText = `${company} is hiring ${title}: ${linkedinUrl}`;
