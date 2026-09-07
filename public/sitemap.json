@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-07T20:57:38.728Z",
+  "generatedAt": "2026-09-07T21:03:33.979Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4203,
+  "count": 4186,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -161,12 +161,6 @@
     },
     {
       "url": "https://hashtagweb3.com/account-abstraction-explained",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/additive-manufacturing-complete-guide",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -1988,12 +1982,6 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.6
-    },
-    {
-      "url": "https://hashtagweb3.com/battery-technology-advances-explained",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
     },
     {
       "url": "https://hashtagweb3.com/bd",
@@ -15448,12 +15436,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/next-generation-connectivity-explained",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/nft",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -21544,12 +21526,6 @@
       "priority": 0.6
     },
     {
-      "url": "https://hashtagweb3.com/self-driving-cars-complete-guide",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/self-sovereign-identity-in-web3-explained",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -23212,12 +23188,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/understanding-biotechnology-innovations",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/understanding-block-time-in-different-blockchains",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -23320,12 +23290,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/understanding-nanotechnology-basics",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/understanding-natural-user-interfaces",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -23345,18 +23309,6 @@
     },
     {
       "url": "https://hashtagweb3.com/understanding-slashing-in-proof-of-stake-networks",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/understanding-smart-home-devices-and-iot",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/understanding-solar-power-innovations",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -24436,18 +24388,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/what-is-3d-printing-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/what-is-5g-network-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/what-is-a-51-percent-attack-in-blockchain",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -24778,12 +24718,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/what-is-drone-technology-and-applications",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/what-is-dyor-in-crypto",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -24791,12 +24725,6 @@
     },
     {
       "url": "https://hashtagweb3.com/what-is-edge-computing-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/what-is-energy-storage-technology",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -24820,12 +24748,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/what-is-gene-editing-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/what-is-generative-ai-and-its-applications",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -24838,19 +24760,7 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/what-is-haptic-feedback-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/what-is-hodl-in-crypto",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/what-is-internet-of-things-technology",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -24898,12 +24808,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/what-is-renewable-energy-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/what-is-rug-pull-in-cryptocurrency-scams",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -24935,12 +24839,6 @@
     },
     {
       "url": "https://hashtagweb3.com/what-is-soulbound-token-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/what-is-synthetic-biology-applications",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
