@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="box-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bg-grad)" rx="12"/>
+
+  <!-- Title -->
+  <text x="400" y="40" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Decentralized Compute &amp; DePIN GPU Network Architecture</text>
+  <text x="400" y="65" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13" text-anchor="middle">Market Matching, Verifiable Computation (zkSNARKs / TEEs) &amp; Token Incentives</text>
+
+  <!-- Step 1: Compute Demanders -->
+  <g transform="translate(40, 110)" filter="url(#shadow)">
+    <rect width="200" height="210" fill="url(#box-grad)" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <rect width="200" height="34" fill="#0284c7" rx="8"/>
+    <text x="100" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">1. Compute Demanders</text>
+
+    <text x="15" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Workload Submissions</text>
+    <text x="15" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">AI, VFX, ZK Provers</text>
+
+    <rect x="12" y="105" width="176" height="85" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="20" y="125" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• LLM Model Fine-Tuning</text>
+    <text x="20" y="145" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• 3D VFX Rendering</text>
+    <text x="20" y="165" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• ZK Proof Generation</text>
+  </g>
+
+  <!-- Arrow 1 -> 2 -->
+  <path d="M 240 215 L 290 215" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <polygon points="295,215 285,210 285,220" fill="#38bdf8"/>
+
+  <!-- Step 2: Protocol Orchestrator & Verifier -->
+  <g transform="translate(300, 110)" filter="url(#shadow)">
+    <rect width="200" height="210" fill="url(#box-grad)" stroke="#818cf8" stroke-width="2" rx="8"/>
+    <rect width="200" height="34" fill="#4f46e5" rx="8"/>
+    <text x="100" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">2. Market Orchestrator</text>
+
+    <text x="15" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Reverse Auction Engine</text>
+    <text x="15" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">Akash, io.net, Render</text>
+
+    <rect x="12" y="105" width="176" height="85" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="20" y="125" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Smart Contract Escrow</text>
+    <text x="20" y="145" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• TEE / ZK Proof Check</text>
+    <text x="20" y="165" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Token Escrow Payouts</text>
+  </g>
+
+  <!-- Arrow 2 -> 3 -->
+  <path d="M 500 215 L 550 215" stroke="#10b981" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <polygon points="555,215 545,210 545,220" fill="#10b981"/>
+
+  <!-- Step 3: DePIN Hardware Providers -->
+  <g transform="translate(560, 110)" filter="url(#shadow)">
+    <rect width="200" height="210" fill="url(#box-grad)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <rect width="200" height="34" fill="#059669" rx="8"/>
+    <text x="100" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">3. GPU / CPU Providers</text>
+
+    <text x="15" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Global Compute Nodes</text>
+    <text x="15" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">H100s, A100s, Consumer GPUs</text>
+
+    <rect x="12" y="105" width="176" height="85" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="20" y="125" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Isolated Docker / K8s</text>
+    <text x="20" y="145" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Real-Time Hardware Bench</text>
+    <text x="20" y="165" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Native Token Yields</text>
+  </g>
+
+  <!-- Bottom Banner -->
+  <rect x="40" y="350" width="720" height="32" fill="#1e293b" rx="6" stroke="#334155"/>
+  <text x="400" y="371" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" text-anchor="middle">Decentralized Compute (DePIN) pools global idle GPU capacity, using zero-knowledge proofs and smart contracts to cut cloud costs by 70-80%.</text>
+</svg>
