@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="rba-title rba-desc">
+<title id="rba-title">Rust Blockchain Systems and Zero-Knowledge Architecture</title>
+<desc id="rba-desc">Architecture layers showing how the Rust programming language powers core nodes, parallel execution virtual machines, and ZK provers.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.row-bg{fill:#f8fafc}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.col1{fill:#f97316}.col2{fill:#3b82f6}.col3{fill:#10b981}.col4{fill:#8b5cf6}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">Rust Systems Architecture in Web3 Infrastructure</text>
+<text x="24" y="50" font-size="11" fill="#64748b">Memory safety, parallel execution engines, and zero-knowledge prover pipelines (Paradigm &amp; Solana)</text>
+
+<!-- Header -->
+<line class="grid" x1="20" y1="65" x2="620" y2="65"/>
+<text x="28" y="82" class="header">System Tier</text>
+<text x="175" y="82" class="header">Flagship Implementations</text>
+<text x="350" y="82" class="header">Architectural Edge</text>
+<text x="495" y="82" class="header">Performance Impact</text>
+<line class="grid" x1="20" y1="92" x2="620" y2="92"/>
+
+<!-- Row 1 -->
+<rect class="row-bg" x="20" y="94" width="600" height="50" rx="4"/>
+<text x="28" y="116" font-weight="600">Consensus &amp; Execution</text>
+<text x="28" y="132" font-size="10" fill="#64748b">Base L1/L2 Nodes</text>
+<text x="175" y="116">Reth (Paradigm), Lighthouse</text>
+<text x="175" y="132" font-size="10" fill="#64748b">Substrate, Tendermint-rs</text>
+<text x="350" y="116">Zero-GC latency spikes</text>
+<text x="350" y="132" font-size="10" fill="#64748b">Direct disk MDBX IO</text>
+<rect class="col1" x="495" y="110" width="80" height="12" rx="3"/>
+<text x="500" y="120" font-size="10" fill="#ffffff" font-weight="700">10x Sync Speed</text>
+
+<!-- Row 2 -->
+<text x="28" y="168" font-weight="600">Parallel Smart Contracts</text>
+<text x="28" y="184" font-size="10" fill="#64748b">SVM &amp; Wasm Runtimes</text>
+<text x="175" y="168">Solana Sealevel, Anchor</text>
+<text x="175" y="184" font-size="10" fill="#64748b">CosmWasm, Near Rust SDK</text>
+<text x="350" y="168">Multi-threaded state writes</text>
+<text x="350" y="184" font-size="10" fill="#64748b">Explicit account locking</text>
+<rect class="col2" x="495" y="162" width="85" height="12" rx="3"/>
+<text x="500" y="172" font-size="10" fill="#ffffff" font-weight="700">65k TPS Engine</text>
+
+<!-- Row 3 -->
+<rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
+<text x="28" y="220" font-weight="600">ZK Cryptography Provers</text>
+<text x="28" y="236" font-size="10" fill="#64748b">zkVMs &amp; Circuit Proofs</text>
+<text x="175" y="220">SP1 (Succinct), RISC Zero</text>
+<text x="175" y="236" font-size="10" fill="#64748b">Halo2, Arkworks, Winterfell</text>
+<text x="350" y="220">GPU/FPGA proof acceleration</text>
+<text x="350" y="236" font-size="10" fill="#64748b">Finite field math optimization</text>
+<rect class="col3" x="495" y="214" width="75" height="12" rx="3"/>
+<text x="500" y="224" font-size="10" fill="#ffffff" font-weight="700">Universal ZK</text>
+
+<!-- Row 4 -->
+<text x="28" y="272" font-weight="600">Dev Tooling &amp; Simulation</text>
+<text x="28" y="288" font-size="10" fill="#64748b">Testing &amp; RPC Engines</text>
+<text x="175" y="272">Foundry (Forge/Cast/Anvil)</text>
+<text x="175" y="288" font-size="10" fill="#64748b">Alloy, Revm, Hardhat 3</text>
+<text x="350" y="272">Native bytecode evaluation</text>
+<text x="350" y="288" font-size="10" fill="#64748b">Instantaneous local forks</text>
+<rect class="col4" x="495" y="266" width="95" height="12" rx="3"/>
+<text x="500" y="276" font-size="10" fill="#ffffff" font-weight="700">Sub-second Fuzz</text>
+
+<line class="grid" x1="20" y1="306" x2="620" y2="306"/>
+</svg>
