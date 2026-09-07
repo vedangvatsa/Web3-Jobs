@@ -76,6 +76,9 @@ const nextConfig = {
   },
   async rewrites() {
     return [
+      { source: '/logo/companies/Chainalysis.webp', destination: '/logo/companies/chainalysis.webp' },
+      { source: '/logo/companies/JP_Morgan.webp', destination: '/logo/companies/jp_morgan.webp' },
+      { source: '/logo/companies/KPMG.webp', destination: '/logo/companies/kpmg.webp' },
       {
         source: '/api/v1/:path*',
         destination: '/api/:path*',
