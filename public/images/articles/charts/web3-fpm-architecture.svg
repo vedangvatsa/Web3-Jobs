@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="indigo-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#6366f1"/>
+      <stop offset="100%" stop-color="#a855f7"/>
+    </linearGradient>
+    <linearGradient id="cyan-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="emerald-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
+
+  <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+    Web3 Financial Product Manager (FPM) Operating Stack
+  </text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
+    Interdisciplinary Convergence: Financial Primitives, Smart Contract Risk Modeling & Tokenomic Incentive Design
+  </text>
+
+  <!-- Pillar 1: Financial Primitives & AMM Mechanics -->
+  <g transform="translate(40, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#indigo-purple)"/>
+    <text x="20" y="35" fill="#a78bfa" font-family="sans-serif" font-size="14" font-weight="700">1. Financial Primitives</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Constant Product & Concentrated Liquidity</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Over-Collateralized Money Markets</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Perpetual Futures & Vault Strategies</text>
+  </g>
+
+  <!-- Flow 1 to 2 -->
+  <path d="M 310 215 L 360 215" stroke="#6366f1" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Pillar 2: Quantitative Risk & Oracles -->
+  <g transform="translate(365, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#cyan-blue)"/>
+    <text x="20" y="35" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="700">2. Risk & Oracle Modeling</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">VaR & Stress Simulation (Chaos Labs)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Chainlink / Pyth Latency Feeds</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Liquidation Factor Optimization</text>
+  </g>
+
+  <!-- Flow 2 to 3 -->
+  <path d="M 635 215 L 685 215" stroke="#06b6d4" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Pillar 3: Tokenomics & Governance -->
+  <g transform="translate(690, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#emerald-green)"/>
+    <text x="20" y="35" fill="#34d399" font-family="sans-serif" font-size="14" font-weight="700">3. Tokenomics & DAO Growth</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">veTokenomics & Gauge Voting</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Protocol Owned Liquidity (POL)</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">DAO Governance Parameter Proposals</text>
+  </g>
+
+  <!-- Bottom Section: Core Responsibilities -->
+  <g transform="translate(40, 350)">
+    <rect width="920" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <text x="25" y="35" fill="#f8fafc" font-family="sans-serif" font-size="16" font-weight="700">Core Execution Workflow of a Web3 Financial PM</text>
+
+    <rect x="25" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="40" y="85" fill="#a78bfa" font-family="sans-serif" font-size="13" font-weight="700">Protocol Specification</text>
+    <text x="40" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Drafting mathematical whitepapers</text>
+    <text x="40" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">and technical specs for Solidity</text>
+    <text x="40" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">& Rust engineering teams.</text>
+
+    <rect x="322" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="337" y="85" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">Security & Audit Prep</text>
+    <text x="337" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Managing third-party security audits,</text>
+    <text x="337" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">formal verification runs, and</text>
+    <text x="337" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">Immunefi bug bounty programs.</text>
+
+    <rect x="620" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="635" y="85" fill="#34d399" font-family="sans-serif" font-size="13" font-weight="700">Liquidity & Growth</text>
+    <text x="635" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Structuring liquidity bootstrapping</text>
+    <text x="635" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">pools (LBP), yield incentives,</text>
+    <text x="635" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">and institutional market makers.</text>
+  </g>
+
+</svg>

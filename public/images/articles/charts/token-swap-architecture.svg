@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="pink-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <linearGradient id="cyan-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="amber-orange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
+
+  <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+    Token Swap Architecture: AMM Pools & Cross-Chain Routing
+  </text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
+    Constant Product Formula (x · y = k), DEX Aggregator Routing & HTLC Cross-Chain Atomic Swaps
+  </text>
+
+  <!-- Step 1: User Swap Request -->
+  <g transform="translate(40, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#pink-purple)"/>
+    <text x="20" y="35" fill="#f472b6" font-family="sans-serif" font-size="14" font-weight="700">1. DEX Aggregator Routing</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Off-Chain Quote Computation</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Multi-Hop Path Optimization</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Slippage & Gas Limit Guard</text>
+  </g>
+
+  <!-- Flow 1 to 2 -->
+  <path d="M 310 215 L 360 215" stroke="#ec4899" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Step 2: AMM Liquidity Pool Execution -->
+  <g transform="translate(365, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#cyan-blue)"/>
+    <text x="20" y="35" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="700">2. AMM Pool Invariant (x·y=k)</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Token A Deposit -> Token B Out</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Dynamic Price Impact Adjust</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">LP Fee Cut (e.g. 0.30%)</text>
+  </g>
+
+  <!-- Flow 2 to 3 -->
+  <path d="M 635 215 L 685 215" stroke="#06b6d4" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Step 3: Cross-Chain HTLC Atomic Swap -->
+  <g transform="translate(690, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#amber-orange)"/>
+    <text x="20" y="35" fill="#fbbf24" font-family="sans-serif" font-size="14" font-weight="700">3. Cross-Chain HTLC Swaps</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Secret Hash Preimage Locking</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Timelock Expiration Refunds</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Trustless Chain-to-Chain Settlement</text>
+  </g>
+
+  <!-- Bottom Section: Core Trade Components -->
+  <g transform="translate(40, 350)">
+    <rect width="920" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <text x="25" y="35" fill="#f8fafc" font-family="sans-serif" font-size="16" font-weight="700">Key Execution Vectors in Decentralized Token Swapping</text>
+
+    <rect x="25" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="40" y="85" fill="#f472b6" font-family="sans-serif" font-size="13" font-weight="700">Slippage &amp; Price Impact</text>
+    <text x="40" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Difference between expected</text>
+    <text x="40" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">price and executed trade price.</text>
+    <text x="40" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">Mitigated via liquidity depth.</text>
+
+    <rect x="322" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="337" y="85" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">MEV &amp; Sandwich Attacks</text>
+    <text x="337" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Front-running bots exploiting</text>
+    <text x="337" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">unconfirmed mempool trades.</text>
+    <text x="337" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">Defended via Flashbots RPC.</text>
+
+    <rect x="620" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="635" y="85" fill="#fbbf24" font-family="sans-serif" font-size="13" font-weight="700">Multi-Hop DEX Aggregation</text>
+    <text x="635" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Splitting orders across multiple</text>
+    <text x="635" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">pools (1inch, ParaSwap) to</text>
+    <text x="635" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">minimize total execution cost.</text>
+  </g>
+
+</svg>

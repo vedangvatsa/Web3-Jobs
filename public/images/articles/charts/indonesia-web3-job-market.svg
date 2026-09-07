@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0a1128"/>
+      <stop offset="100%" stop-color="#1c1936"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="indo-red" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#f87171"/>
+    </linearGradient>
+    <linearGradient id="bali-teal" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#14b8a6"/>
+      <stop offset="100%" stop-color="#06b6d4"/>
+    </linearGradient>
+    <linearGradient id="tech-gold" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#eab308"/>
+      <stop offset="100%" stop-color="#f59e0b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
+
+  <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+    Indonesia Web3 Ecosystem & Talent Market Architecture
+  </text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
+    Regulatory Frameworks (OJK/Bappebti), Urban Talent Hubs (Jakarta/Bali), Mobile Wallet Infrastructure & Salary Benchmarks
+  </text>
+
+  <!-- Hub 1: Jakarta Financial & Enterprise Hub -->
+  <g transform="translate(40, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#indo-red)"/>
+    <text x="20" y="35" fill="#f87171" font-family="sans-serif" font-size="14" font-weight="700">1. Jakarta Enterprise & CEX Hub</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Centralized Exchanges (Indodax, Tokocrypto)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">OJK / Bappebti Compliance</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Institutional Banking & Custody</text>
+  </g>
+
+  <!-- Flow 1 to 2 -->
+  <path d="M 310 215 L 360 215" stroke="#ef4444" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Hub 2: Bali Crypto Nomad & Founder Hub -->
+  <g transform="translate(365, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#bali-teal)"/>
+    <text x="20" y="35" fill="#2dd4bf" font-family="sans-serif" font-size="14" font-weight="700">2. Bali Global Founder Hub</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">DeFi Incubators & DAOs</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Remote Developer Guilds</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">International Co-Working Spaces</text>
+  </g>
+
+  <!-- Flow 2 to 3 -->
+  <path d="M 635 215 L 685 215" stroke="#14b8a6" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Hub 3: Mobile & GameFi Infrastructure -->
+  <g transform="translate(690, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#tech-gold)"/>
+    <text x="20" y="35" fill="#facc15" font-family="sans-serif" font-size="14" font-weight="700">3. Mobile & GameFi Sector</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Mobile Wallet UX (Android-First)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Play-to-Earn Guild Management</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">QRIS & Local FIAT On-Ramps</text>
+  </g>
+
+  <!-- Bottom Section: Key Sector Drivers -->
+  <g transform="translate(40, 350)">
+    <rect width="920" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <text x="25" y="35" fill="#f8fafc" font-family="sans-serif" font-size="16" font-weight="700">Indonesian Web3 Talent Dynamics & Regional Salary Tiers</text>
+
+    <rect x="25" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="40" y="85" fill="#f87171" font-family="sans-serif" font-size="13" font-weight="700">Engineering Roles</text>
+    <text x="40" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Solidity & React Native specialists.</text>
+    <text x="40" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">IDR 25M - 80M+ / month.</text>
+    <text x="40" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">Strong remote USD potential.</text>
+
+    <rect x="322" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="337" y="85" fill="#2dd4bf" font-family="sans-serif" font-size="13" font-weight="700">Growth & Community</text>
+    <text x="337" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Bahasa Indonesia community leads.</text>
+    <text x="337" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">IDR 15M - 45M+ / month.</text>
+    <text x="337" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">Telegram & Discord moderation.</text>
+
+    <rect x="620" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="635" y="85" fill="#facc15" font-family="sans-serif" font-size="13" font-weight="700">Regulatory & Compliance</text>
+    <text x="635" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">OJK licenses & AML/KYC.</text>
+    <text x="635" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">High demand from CEXs</text>
+    <text x="635" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">navigating legal transitions.</text>
+  </g>
+
+</svg>

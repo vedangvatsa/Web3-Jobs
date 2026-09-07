@@ -1,0 +1,115 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="accent-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <linearGradient id="accent-amber" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b"/>
+      <stop offset="100%" stop-color="#ef4444"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
+
+  <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+    Web3 Airdrop Campaign & Protocol Distribution Architecture
+  </text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
+    End-to-End Workflow: On-Chain Tracking, Sybil Filtering, Merkle Proofs & Token Distribution
+  </text>
+
+  <!-- Step 1: On-Chain Interaction Tracking -->
+  <g transform="translate(40, 110)">
+    <rect width="270" height="200" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#accent-cyan)"/>
+    <text x="20" y="35" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="700">1. Activity & State Snapshots</text>
+    
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Testnet & Mainnet Interactions</text>
+    
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Liquidity Provision & Volumes</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Block Height Snapshot Lock</text>
+  </g>
+
+  <!-- Arrow 1 to 2 -->
+  <path d="M 310 210 L 360 210" stroke="#06b6d4" stroke-width="2" stroke-dasharray="4 4" marker-end="url(#arrow)"/>
+
+  <!-- Step 2: Sybil Detection & Anti-Gaming -->
+  <g transform="translate(365, 110)">
+    <rect width="270" height="200" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#accent-purple)"/>
+    <text x="20" y="35" fill="#c084fc" font-family="sans-serif" font-size="14" font-weight="700">2. Sybil Filtering & Clustering</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Funding Source Graph Analysis</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Behavioral Sequencing Checks</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Gitcoin Passport / Proof of Humanity</text>
+  </g>
+
+  <!-- Arrow 2 to 3 -->
+  <path d="M 635 210 L 685 210" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Step 3: Merkle Tree Generation -->
+  <g transform="translate(690, 110)">
+    <rect width="270" height="200" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#accent-amber)"/>
+    <text x="20" y="35" fill="#fbbf24" font-family="sans-serif" font-size="14" font-weight="700">3. Merkle Root Deployment</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Leaf Nodes: hash(address, amount)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Merkle Root on Smart Contract</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Gas-Efficient Verification</text>
+  </g>
+
+  <!-- Bottom Section: Post-Airdrop Protocol Dynamics -->
+  <g transform="translate(40, 340)">
+    <rect width="920" height="220" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <text x="25" y="35" fill="#f8fafc" font-family="sans-serif" font-size="16" font-weight="700">Post-Airdrop Governance & Token Dynamics</text>
+
+    <!-- Sub Card 1 -->
+    <rect x="25" y="55" width="275" height="140" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="40" y="85" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">DAO Governance Delegation</text>
+    <text x="40" y="110" fill="#94a3b8" font-family="sans-serif" font-size="12">Tokens grant voting rights.</text>
+    <text x="40" y="130" fill="#94a3b8" font-family="sans-serif" font-size="12">Holders delegate voting power</text>
+    <text x="40" y="150" fill="#94a3b8" font-family="sans-serif" font-size="12">to active community leaders.</text>
+
+    <!-- Sub Card 2 -->
+    <rect x="322" y="55" width="275" height="140" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="337" y="85" fill="#c084fc" font-family="sans-serif" font-size="13" font-weight="700">Vesting & Lockup Schedules</text>
+    <text x="337" y="110" fill="#94a3b8" font-family="sans-serif" font-size="12">Prevents immediate dump.</text>
+    <text x="337" y="130" fill="#94a3b8" font-family="sans-serif" font-size="12">Linear unlocking or cliff</text>
+    <text x="337" y="150" fill="#94a3b8" font-family="sans-serif" font-size="12">schedules align long-term incentives.</text>
+
+    <!-- Sub Card 3 -->
+    <rect x="620" y="55" width="275" height="140" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="635" y="85" fill="#fbbf24" font-family="sans-serif" font-size="13" font-weight="700">Protocol Value Capture</text>
+    <text x="635" y="110" fill="#94a3b8" font-family="sans-serif" font-size="12">Retains liquidity & usage.</text>
+    <text x="635" y="130" fill="#94a3b8" font-family="sans-serif" font-size="12">Fee switching and staking</text>
+    <text x="635" y="150" fill="#94a3b8" font-family="sans-serif" font-size="12">rewards for active participants.</text>
+  </g>
+
+</svg>

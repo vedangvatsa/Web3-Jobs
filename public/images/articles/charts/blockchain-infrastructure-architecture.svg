@@ -1,0 +1,112 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#182234"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="rust-orange" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+    <linearGradient id="go-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#0284c7"/>
+    </linearGradient>
+    <linearGradient id="ops-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#6366f1"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1000" height="600" fill="url(#bg)" rx="16"/>
+
+  <text x="500" y="45" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" letter-spacing="0.5">
+    Core Blockchain Infrastructure & Protocol Engineering Architecture
+  </text>
+  <text x="500" y="70" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13">
+    Consensus Clients (Prysm/Lighthouse), Execution Clients (Geth/Reth), RPC Node Infrastructure & Cloud Ops
+  </text>
+
+  <!-- Layer 1: Protocol Engineering (Rust/Go) -->
+  <g transform="translate(40, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#rust-orange)"/>
+    <text x="20" y="35" fill="#fb923c" font-family="sans-serif" font-size="14" font-weight="700">1. Core Protocol Layer</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Execution Clients (Geth / Reth)</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Consensus Clients (Prysm / Lighthouse)</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">P2P Libp2p Network Protocol</text>
+  </g>
+
+  <!-- Flow 1 to 2 -->
+  <path d="M 310 215 L 360 215" stroke="#f97316" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Layer 2: RPC Infrastructure & Node Ops -->
+  <g transform="translate(365, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#go-cyan)"/>
+    <text x="20" y="35" fill="#38bdf8" font-family="sans-serif" font-size="14" font-weight="700">2. RPC & Validator Ops</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">HA RPC Relayers & Load Balancers</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Validator Staking & HSM Signers</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">Prometheus & Grafana Telemetry</text>
+  </g>
+
+  <!-- Flow 2 to 3 -->
+  <path d="M 635 215 L 685 215" stroke="#06b6d4" stroke-width="2" stroke-dasharray="4 4"/>
+
+  <!-- Layer 3: Data Indexing & API Abstraction -->
+  <g transform="translate(690, 110)">
+    <rect width="270" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect width="270" height="6" rx="3" fill="url(#ops-purple)"/>
+    <text x="20" y="35" fill="#a78bfa" font-family="sans-serif" font-size="14" font-weight="700">3. Data Indexing & APIs</text>
+
+    <rect x="15" y="55" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="77" fill="#e2e8f0" font-family="sans-serif" font-size="12">Subgraphs & Custom Indexers</text>
+
+    <rect x="15" y="100" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="122" fill="#e2e8f0" font-family="sans-serif" font-size="12">Websocket Event Listeners</text>
+
+    <rect x="15" y="145" width="240" height="36" rx="6" fill="#0f172a" stroke="#1e293b"/>
+    <text x="25" y="167" fill="#e2e8f0" font-family="sans-serif" font-size="12">JSON-RPC Gateway Routers</text>
+  </g>
+
+  <!-- Bottom Section: Core Competencies -->
+  <g transform="translate(40, 350)">
+    <rect width="920" height="210" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <text x="25" y="35" fill="#f8fafc" font-family="sans-serif" font-size="16" font-weight="700">Infrastructure Engineering Skill Matrix: Systems vs DevOps vs Indexing</text>
+
+    <rect x="25" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="40" y="85" fill="#fb923c" font-family="sans-serif" font-size="13" font-weight="700">Protocol Engineering</text>
+    <text x="40" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Rust / Go client software.</text>
+    <text x="40" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">EVM state transition opcodes</text>
+    <text x="40" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">& consensus algorithm tuning.</text>
+
+    <rect x="322" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="337" y="85" fill="#38bdf8" font-family="sans-serif" font-size="13" font-weight="700">Blockchain DevOps</text>
+    <text x="337" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">Kubernetes & Terraform.</text>
+    <text x="337" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">Zero-downtime client sync,</text>
+    <text x="337" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">NVMe storage & slashing guards.</text>
+
+    <rect x="620" y="55" width="275" height="135" rx="8" fill="#0f172a" stroke="#1e293b"/>
+    <text x="635" y="85" fill="#a78bfa" font-family="sans-serif" font-size="13" font-weight="700">Data & Indexing APIs</text>
+    <text x="635" y="108" fill="#94a3b8" font-family="sans-serif" font-size="12">SQL, ClickHouse & Rust.</text>
+    <text x="635" y="126" fill="#94a3b8" font-family="sans-serif" font-size="12">Extracting raw event logs &</text>
+    <text x="635" y="144" fill="#94a3b8" font-family="sans-serif" font-size="12">building developer RPC APIs.</text>
+  </g>
+
+</svg>
