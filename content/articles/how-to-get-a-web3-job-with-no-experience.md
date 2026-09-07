@@ -63,16 +63,14 @@ DAOs let you earn before anyone hires you. [DeFi Planet](https://defi-planet.com
 
 Join one DAO, not five. Lurk for a week, read a month of proposals, then ask for a good first issue in one guild channel. Ship it fast.
 
-## Resumes that pass the scan
+## Resumes and interviews: what actually happens
 
 Put a Web3 Contributions section above work history. Link everything. Reframe Web2 bullets with numbers hiring managers recognize: shipped, moderated, measured, documented, deployed, tested.
 
 - Before: "Managed a social media calendar."
 - After: "Grew a 1,200-member community. Shipped three posts a week, ran a weekly call, and raised weekly active commenters from 80 to 140 in ten weeks."
 
-[LastRound](https://lastroundai.com/blog/blockchain-developer-interview-questions) adds context: expect four to six rounds with questions separating memorized definitions from shipped work, like call versus delegatecall.
-
-## Interviews: what actually happens
+[LastRound](https://lastroundai.com/blog/blockchain-developer-interview-questions) adds context: expect four to six rounds with questions separating memorized definitions from shipped work, like call versus delegatecall. From there the loop itself is standard:
 
 [Question banks](https://web3vacancy.com/web3-interview-questions) run past fifty items across Solidity, DeFi mechanics, and security scenarios including MEV and reentrancy cases. [CryptoRecruit](https://www.cryptorecruit.com/news/50plus-crypto-interview-questions-and-how-to-answer-them-2026-guide/) adds tokenomics design and live $10M-exploit scenarios. [Aipplify](https://aipplify.com/blog/web3-job-interview-questions-answers) surveyed thirty-plus companies and found Uniswap, Aave, and Chainlink loops converging on the same prep table. About 60% of teams still use LeetCode mediums with live coding and protocol deep-dives ([developer guide](https://web3vacancy.com/blog/how-to-actually-pass-web3-technical-interviews-as-a-developer)). [Axiom](https://www.axiomrecruit.com/resources/industry-insights/from-prep-to-offer--2026-web3---ai-interview-guide/) documents the open-book trend: most leads accept AI-assisted coding and score clarifying before coding. [HiredPrep's blueprint](https://www.hiredprep.com/blockchain-developer-interview-guide-25-expert-questions-smart-contract-audits/) centers reentrancy with checks-effects-interactions, rollup trade-offs, gas reasoning, and oracle failure modes.
 
@@ -147,13 +145,3 @@ Entry pay runs roughly $40k to $90k for remote non-technical roles ([Web3FutureP
 - Week 9-12: one paid bounty or grant milestone done; resume rewritten with a contributions section; five warm applications with links.
 
 [Timelines vary](https://web3futurepro.com/how-to-land-a-remote-blockchain-job-no-exp): six to twelve months of steady proof is normal for a first role, and [three to six months](https://web3vacancy.com/web2-to-web3-guide) at ten to fifteen hours a week for a focused switch. Start this week with one small, checkable contribution. The next one gets easier because people already know your name. Twelve weeks of visible work turns a stranger into a known contributor, and known contributors get hired. Keep every artifact linked from one pinned index. Track shipped artifacts weekly, and never let two quiet weeks pass in a row.
-
-## Sources worth opening
-
-1. [Coincub jobs report](https://coincub.com/ranking/web3-jobs-report-2025/)
-2. [Superteam Earn](https://superteam.fun/earn/)
-3. [Immunefi programs](https://immunefi.com/bug-bounty-program/)
-4. [Gitcoin bounties](https://gitcoin.co/mechanisms/bounties)
-5. [GM.careers interviews](https://gm.careers/blog/web3-interview-preparation)
-6. [Orbyt salary data](https://www.orbytjobs.ai/salaries/blockchain-developer)
-7. [LedgerMind DAO guide](https://theledgermind.com/how-to-join-a-dao/)
