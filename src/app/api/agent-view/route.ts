@@ -11,6 +11,7 @@ export async function GET() {
       openapi: 'https://hashtagweb3.com/openapi.json',
       llms_txt: 'https://hashtagweb3.com/llms.txt',
       agents_txt: 'https://hashtagweb3.com/agents.txt',
+      terms_of_use: 'https://hashtagweb3.com/terms-of-use.md',
       agent_instructions: 'https://hashtagweb3.com/agent-instructions.md',
       auth_guide: 'https://hashtagweb3.com/auth.md',
       
@@ -118,6 +119,7 @@ export async function GET() {
         homepage: 'https://hashtagweb3.com',
         github: 'https://github.com/vedangvatsa/Web3-Jobs',
         api_policy: 'https://hashtagweb3.com/api-policy',
+        terms_of_use: 'https://hashtagweb3.com/terms-of-use.md',
         sitemap: 'https://hashtagweb3.com/sitemap.xml',
       },
     },

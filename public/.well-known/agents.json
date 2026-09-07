@@ -7,6 +7,8 @@
   "sitemap_xml": "https://hashtagweb3.com/sitemap.xml",
   "sitemap_json": "https://hashtagweb3.com/.well-known/sitemap.json",
   "agents_txt": "https://hashtagweb3.com/agents.txt",
+  "terms_of_use": "https://hashtagweb3.com/terms-of-use.md",
+  "terms_of_service": "https://hashtagweb3.com/terms-of-use.md",
   "instructions_url": "https://hashtagweb3.com/agent-instructions.md",
   "agent_instructions": "https://hashtagweb3.com/agent-instructions.md",
   "when_to_use_url": "https://hashtagweb3.com/agent-instructions.md",

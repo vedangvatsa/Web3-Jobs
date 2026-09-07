@@ -25,6 +25,8 @@ Skills: https://hashtagweb3.com/.well-known/agent-skills/index.json
 LLMs-Txt: https://hashtagweb3.com/llms.txt
 Agent-Instructions: https://hashtagweb3.com/agent-instructions.md
 Auth: https://hashtagweb3.com/auth.md
+Terms-Of-Use: https://hashtagweb3.com/terms-of-use.md
+Terms-Of-Service: https://hashtagweb3.com/terms-of-use.md
 Sitemap: https://hashtagweb3.com/sitemap.xml
 Sitemap-JSON: https://hashtagweb3.com/.well-known/sitemap.json
 
@@ -32,3 +34,4 @@ Sitemap-JSON: https://hashtagweb3.com/.well-known/sitemap.json
 Rate-Limit: 120 requests/minute
 Rate-Limit-Policy: 120;w=60
 Policy: https://hashtagweb3.com/api-policy
+Terms: https://hashtagweb3.com/terms-of-use.md
