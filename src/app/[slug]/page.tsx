@@ -451,7 +451,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       rel="noopener noreferrer nofollow"
                       className="flex items-center"
                     >
-                      <span>Visit Official Website</span>
+                      <span>Details</span>
                       <ExternalLink className="h-4 w-4" />
                     </a>
                   </Button>
