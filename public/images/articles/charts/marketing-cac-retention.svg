@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="mc-title mc-desc">
+<title id="mc-title">Web3 User Retention by Acquisition Channel: Day 1, Day 30, and Day 90</title>
+<desc id="mc-desc">Grouped bar chart showing retention drop-offs for three Web3 channels: Quest Farming drops to 4 percent at 90 days, On-chain Ads retains 27 percent, while Organic DevRel retains 52 percent.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.d1{fill:#2563eb}.d30{fill:#f59e0b}.d90{fill:#10b981}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0;stroke-dasharray:4 4}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">On-Chain User Retention by Marketing Channel (%)</text>
+<text x="350" y="32"><tspan fill="#2563eb">■</tspan> Day 1  <tspan fill="#f59e0b">■</tspan> Day 30  <tspan fill="#10b981">■</tspan> Day 90</text>
+
+<!-- Channel 1: Quest Farming -->
+<text x="24" y="75" font-weight="600">Quest / Airdrop Farming</text>
+<rect class="d1" x="210" y="62" width="360" height="13" rx="2"/><text class="num" x="578" y="73">100%</text>
+<rect class="d30" x="210" y="78" width="50" height="13" rx="2"/><text class="num" x="268" y="89">14%</text>
+<rect class="d90" x="210" y="94" width="14" height="13" rx="2"/><text class="num" x="232" y="105">4%</text>
+
+<!-- Channel 2: Targeted On-chain Ads -->
+<text x="24" y="150" font-weight="600">Targeted On-Chain Ads</text>
+<rect class="d1" x="210" y="137" width="360" height="13" rx="2"/><text class="num" x="578" y="148">100%</text>
+<rect class="d30" x="210" y="153" width="137" height="13" rx="2"/><text class="num" x="355" y="164">38%</text>
+<rect class="d90" x="210" y="169" width="97" height="13" rx="2"/><text class="num" x="315" y="180">27%</text>
+
+<!-- Channel 3: Organic DevRel -->
+<text x="24" y="225" font-weight="600">Organic DevRel &amp; Integrations</text>
+<rect class="d1" x="210" y="212" width="360" height="13" rx="2"/><text class="num" x="578" y="223">100%</text>
+<rect class="d30" x="210" y="228" width="230" height="13" rx="2"/><text class="num" x="448" y="239">64%</text>
+<rect class="d90" x="210" y="244" width="187" height="13" rx="2"/><text class="num" x="405" y="255">52%</text>
+
+<text x="24" y="312" font-size="11" fill="#64748b">Airdrop quests suffer 96% user churn within 90 days. DevRel drives 13x higher long-term retention. Spindl &amp; DappRadar data.</text>
+</svg>

@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="gl-title gl-desc">
+<title id="gl-title">The 4-Stage Web3 Protocol Go-to-Market Lifecycle</title>
+<desc id="gl-desc">Four-stage horizontal process flowchart showing progression from Testnet &amp; DevRel, to Liquidity Bootstrapping, to Token Generation &amp; Mainnet, to Progressive Decentralization with TVL benchmarks.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.box1{fill:#3b82f6}.box2{fill:#f59e0b}.box3{fill:#10b981}.box4{fill:#8b5cf6}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0;stroke-dasharray:4 4}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">The 4-Stage Protocol Go-to-Market Lifecycle</text>
+<text x="24" y="52" font-size="12" fill="#64748b">Execution milestones from initial developer testnet to full DAO governance handoff</text>
+
+<!-- Stage 1 -->
+<rect class="box1" x="24" y="80" width="134" height="200" rx="8" fill-opacity="0.12" stroke="#3b82f6" stroke-width="2"/>
+<text x="36" y="106" font-weight="700" fill="#2563eb">Stage 1</text>
+<text x="36" y="126" font-weight="600">Testnet &amp; DevRel</text>
+<text x="36" y="148" font-size="11" fill="#64748b">Months 1–6</text>
+<text x="36" y="180" font-size="11">• Core smart contracts</text>
+<text x="36" y="200" font-size="11">• Sybil-resistant testnet</text>
+<text x="36" y="220" font-size="11">• Developer SDK docs</text>
+<text x="36" y="256" font-size="11" font-weight="600">TVL: $0 (simulated)</text>
+
+<!-- Stage 2 -->
+<rect class="box2" x="174" y="80" width="134" height="200" rx="8" fill-opacity="0.12" stroke="#f59e0b" stroke-width="2"/>
+<text x="186" y="106" font-weight="700" fill="#d97706">Stage 2</text>
+<text x="186" y="126" font-weight="600">Liquidity Seed</text>
+<text x="186" y="148" font-size="11" fill="#64748b">Months 6–9</text>
+<text x="186" y="180" font-size="11">• Balancer / Fjord LBP</text>
+<text x="186" y="200" font-size="11">• AMM pool seeding</text>
+<text x="186" y="220" font-size="11">• Initial price discovery</text>
+<text x="186" y="256" font-size="11" font-weight="600">Liquidity: $2M–$10M</text>
+
+<!-- Stage 3 -->
+<rect class="box3" x="324" y="80" width="134" height="200" rx="8" fill-opacity="0.12" stroke="#10b981" stroke-width="2"/>
+<text x="336" y="106" font-weight="700" fill="#059669">Stage 3</text>
+<text x="336" y="126" font-weight="600">Mainnet TGE</text>
+<text x="336" y="148" font-size="11" fill="#64748b">Months 9–18</text>
+<text x="336" y="180" font-size="11">• Token generation event</text>
+<text x="336" y="200" font-size="11">• Retroactive airdrop</text>
+<text x="336" y="220" font-size="11">• Foundation grants</text>
+<text x="336" y="256" font-size="11" font-weight="600">TVL: $50M–$250M</text>
+
+<!-- Stage 4 -->
+<rect class="box4" x="474" y="80" width="142" height="200" rx="8" fill-opacity="0.12" stroke="#8b5cf6" stroke-width="2"/>
+<text x="486" y="106" font-weight="700" fill="#7c3aed">Stage 4</text>
+<text x="486" y="126" font-weight="600">DAO Handover</text>
+<text x="486" y="148" font-size="11" fill="#64748b">Month 18+</text>
+<text x="486" y="180" font-size="11">• Governor Bravo quorum</text>
+<text x="486" y="200" font-size="11">• Multisig transition</text>
+<text x="486" y="220" font-size="11">• Revenue distribution</text>
+<text x="486" y="256" font-size="11" font-weight="600">Target TVL: $250M+</text>
+
+<text x="24" y="312" font-size="11" fill="#64748b">Progressive decentralization roadmap based on Variant Fund, Messari, and Uniswap governance architecture.</text>
+</svg>
