@@ -573,7 +573,81 @@ async function postToReddit(
   return submitData.json?.data?.url || submitData.json?.data?.id || 'published';
 }
 
-// ── Instagram Carousel (Meta Graph API v21.0) ──
+// ── Instagram Media / Carousel (Meta Graph API v21.0) ──
+
+async function waitForInstagramContainer(
+  containerId: string,
+  pageToken: string,
+  maxAttempts = 15,
+  intervalMs = 3000
+): Promise<void> {
+  console.log(`[Instagram] Waiting for container ${containerId} to finish processing...`);
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    await new Promise((resolve) => setTimeout(resolve, intervalMs));
+
+    const checkRes = await fetch(
+      `https://graph.facebook.com/v21.0/${containerId}?fields=status_code,status&access_token=${pageToken}`
+    );
+    const checkData = (await checkRes.json()) as { status_code?: string; status?: string; error?: any };
+
+    if (!checkRes.ok || checkData.error) {
+      console.warn(
+        `[Instagram] Status check attempt ${attempt}/${maxAttempts} warning: ${JSON.stringify(checkData.error || checkData)}`
+      );
+      continue;
+    }
+
+    const statusCode = checkData.status_code;
+    if (statusCode === 'FINISHED') {
+      console.log(`✓ [Instagram] Container ${containerId} is ready (status: FINISHED)`);
+      return;
+    }
+
+    if (statusCode === 'ERROR') {
+      throw new Error(`Instagram container ${containerId} processing failed: ${JSON.stringify(checkData)}`);
+    }
+
+    if (statusCode === 'EXPIRED') {
+      throw new Error(`Instagram container ${containerId} expired.`);
+    }
+
+    console.log(`[Instagram] Container ${containerId} status: ${statusCode || 'IN_PROGRESS'} (${attempt}/${maxAttempts})...`);
+  }
+
+  throw new Error(`Instagram container ${containerId} processing timed out after ${maxAttempts * (intervalMs / 1000)} seconds.`);
+}
+
+async function publishInstagramContainer(
+  igAccountId: string,
+  containerId: string,
+  pageToken: string,
+  maxAttempts = 3
+): Promise<string> {
+  for (let attempt = 1; attempt <= maxAttempts; attempt++) {
+    const publishRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media_publish`, {
+      method: 'POST',
+      body: new URLSearchParams({
+        access_token: pageToken,
+        creation_id: containerId,
+      }),
+    });
+    const publishData = (await publishRes.json()) as { id?: string; error?: any };
+
+    if (publishRes.ok && publishData.id && !publishData.error) {
+      return publishData.id;
+    }
+
+    // If Meta still says media is not ready (subcode 2207027), wait and retry
+    if (attempt < maxAttempts && publishData.error?.error_subcode === 2207027) {
+      console.warn(`[Instagram] Media not ready on publish attempt ${attempt}/${maxAttempts}, retrying in 5s...`);
+      await new Promise((resolve) => setTimeout(resolve, 5000));
+      continue;
+    }
+
+    throw new Error(`Instagram publish failed: ${JSON.stringify(publishData.error || publishData)}`);
+  }
+  throw new Error(`Instagram publish failed for container ${containerId}`);
+}
 
 async function postToInstagram(
   caption: string,
@@ -600,23 +674,15 @@ async function postToInstagram(
       }),
     });
     const containerData = (await containerRes.json()) as { id?: string; error?: any };
-    if (!containerRes.ok || containerData.error) {
+    if (!containerRes.ok || containerData.error || !containerData.id) {
       throw new Error(`Instagram container creation failed: ${JSON.stringify(containerData.error || containerData)}`);
     }
 
-    // Publish container
-    const publishRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media_publish`, {
-      method: 'POST',
-      body: new URLSearchParams({
-        access_token: pageToken,
-        creation_id: containerData.id!,
-      }),
-    });
-    const publishData = (await publishRes.json()) as { id?: string; error?: any };
-    if (!publishRes.ok || publishData.error) {
-      throw new Error(`Instagram publish failed: ${JSON.stringify(publishData.error || publishData)}`);
-    }
-    return publishData.id!;
+    // Wait for Meta to finish downloading and processing media
+    await waitForInstagramContainer(containerData.id, pageToken);
+
+    // Publish container with retry fallback
+    return await publishInstagramContainer(igAccountId, containerData.id, pageToken);
   } else {
     // Multi-image carousel container
     const childIds: string[] = [];
@@ -630,10 +696,15 @@ async function postToInstagram(
         }),
       });
       const childData = (await childRes.json()) as { id?: string; error?: any };
-      if (!childRes.ok || childData.error) {
+      if (!childRes.ok || childData.error || !childData.id) {
         throw new Error(`Instagram carousel child creation failed: ${JSON.stringify(childData.error || childData)}`);
       }
-      childIds.push(childData.id!);
+      childIds.push(childData.id);
+    }
+
+    // Wait for all carousel items to be ready
+    for (const childId of childIds) {
+      await waitForInstagramContainer(childId, pageToken);
     }
 
     // Create Carousel parent container
@@ -647,23 +718,15 @@ async function postToInstagram(
       }),
     });
     const carouselData = (await carouselRes.json()) as { id?: string; error?: any };
-    if (!carouselRes.ok || carouselData.error) {
+    if (!carouselRes.ok || carouselData.error || !carouselData.id) {
       throw new Error(`Instagram carousel parent creation failed: ${JSON.stringify(carouselData.error || carouselData)}`);
     }
 
+    // Wait for carousel parent container to be ready
+    await waitForInstagramContainer(carouselData.id, pageToken);
+
     // Publish carousel
-    const publishRes = await fetch(`https://graph.facebook.com/v21.0/${igAccountId}/media_publish`, {
-      method: 'POST',
-      body: new URLSearchParams({
-        access_token: pageToken,
-        creation_id: carouselData.id!,
-      }),
-    });
-    const publishData = (await publishRes.json()) as { id?: string; error?: any };
-    if (!publishRes.ok || publishData.error) {
-      throw new Error(`Instagram carousel publish failed: ${JSON.stringify(publishData.error || publishData)}`);
-    }
-    return publishData.id!;
+    return await publishInstagramContainer(igAccountId, carouselData.id, pageToken);
   }
 }
 
