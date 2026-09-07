@@ -10,7 +10,10 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-06"
 ---
-Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls.
+Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls. [Ethereum's own gas overview](https://ethereum.org/gas/) and its [technical gas documentation](https://ethereum.org/developers/docs/gas/) are the canonical starting points, and this guide builds on them with current numbers.
+
+[![Ethereum logo](https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg)](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg)
+*Image: Ethereum logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) (public domain, trademarked).*
 
 This guide explains what gas is, who needs to understand it, how the fee market works after EIP-1559, where the trade-offs are, and how users and developers can reduce what they pay.
 
@@ -18,7 +21,7 @@ This guide explains what gas is, who needs to understand it, how the fee market 
 
 Gas counts computation on the Ethereum Virtual Machine (EVM). Every opcode has a fixed gas cost. Simple math costs a few gas units. Reading and writing to chain storage costs thousands. Your total fee is gas used multiplied by the price you pay per unit.
 
-Common examples, from ethereum.org/gas and ethereum.org/developers/docs/gas:
+Common examples, from [ethereum.org/gas](https://ethereum.org/gas/) and the [technical gas docs](https://ethereum.org/developers/docs/gas/), with [Binance Academy's breakdown](https://www.binance.com/en/academy/articles/how-do-gas-fees-work-on-ethereum) for comparison:
 
 | Action | Gas used, typical | Notes |
 | --- | --- | --- |
@@ -29,14 +32,20 @@ Common examples, from ethereum.org/gas and ethereum.org/developers/docs/gas:
 | Mint one ERC-721 NFT | 100,000 - 300,000 | Depends on storage writes and extensions |
 | Deploy a contract | 1,000,000 and up | Includes 32,000 CREATE cost plus code deposit costs |
 
-These gas-used numbers do not change with ETH price. What changes is the price per unit, quoted in gwei. 1 gwei equals 0.000000001 ETH, or 1,000,000,000 wei. 1 ETH equals 1,000,000,000 gwei. Wallets quote gas price in gwei because gas per unit is a fraction of an ETH.
+These gas-used numbers do not change with ETH price. What changes is the price per unit, quoted in gwei. 1 gwei equals 0.000000001 ETH, or 1,000,000,000 wei. 1 ETH equals 1,000,000,000 gwei. [99Bitcoins' tracker page](https://99bitcoins.com/tools/ethereum-fee-tracker/) keeps the same conversion table with live heatmaps. Wallets quote gas price in gwei because gas per unit is a fraction of an ETH.
 
 Two related terms matter:
 
 - **gasUsed**: How many units your transaction actually consumed. Determined by the code path you executed.
--**gasLimit**: The maximum units you allow. You pay only for what you use, the rest is refunded. If you set the limit too low, the transaction fails and you still pay for work done up to the failure. If a contract reverts, you still pay for gas used.
+- **gasLimit**: The maximum units you allow. You pay only for what you use, the rest is refunded. If you set the limit too low, the transaction fails and you still pay for work done up to the failure. If a contract reverts, you still pay for gas used. [MetaMask's user guide walks through exactly how limits, base fees, and out-of-gas failures interact](https://support.metamask.io/more-web3/learn/user-guide-gas).
 
-## Who this guide is for**Users who send ETH, swap, bridge, or mint.**If you have ever seen a wallet estimate of $2 and then $40 during a popular mint, you need to know why fees move and how to time or route transactions to save money.**Solidity and dapp developers.**Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.**Product and infrastructure teams.** Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
+## Who this guide is for
+
+**Users who send ETH, swap, bridge, or mint.** If you have ever seen a wallet estimate of $2 and then $40 during a popular mint, you need to know why fees move and how to time or route transactions to save money.
+
+**Solidity and dapp developers.** Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.
+
+**Product and infrastructure teams.** Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
 
 If you only hold ETH and never transact, you can skip the detail. If you build or transact, you cannot.
 
@@ -55,9 +64,9 @@ Your wallet sets two caps:
 - `maxFeePerGas`: The most you will pay per unit, base fee plus tip combined.
 - `maxPriorityFeePerGas`: The most you will tip the validator per unit.
 
-Validators receive only the tip. The base fee is burned, removed from circulation. If you set `maxFeePerGas` higher than the current base fee plus your tip, you are refunded the difference. See ethereum.org/developers/docs/gas and eips.ethereum.org/EIPS/eip-1559 for the full spec.
+Validators receive only the tip. The base fee is burned, removed from circulation. If you set `maxFeePerGas` higher than the current base fee plus your tip, you are refunded the difference. See the [gas docs](https://ethereum.org/developers/docs/gas/) and the [full EIP-1559 spec](https://eips.ethereum.org/EIPS/eip-1559) for details. [OKX's guide adds a clear before-and-after table of first-price auctions versus the post-1559 market](https://www.okx.com/learn/ethereum/ethereum-eip-1559-guide).
 
-Example from ethereum.org: Jordan sends Taylor 1 ETH. The transaction needs 21,000 gas. The base fee is 10 gwei and Jordan adds a 2 gwei tip.
+Example from [ethereum.org](https://ethereum.org/developers/docs/gas/): Jordan sends Taylor 1 ETH. The transaction needs 21,000 gas. The base fee is 10 gwei and Jordan adds a 2 gwei tip. [Etherscan's live gas tracker](https://etherscan.io/gastracker) shows the same arithmetic playing out right now with current base and priority numbers, plus dollar costs for swaps, NFTs, and bridges.
 
 ```
 21,000 * (10 + 2) = 252,000 gwei = 0.000252 ETH
@@ -75,7 +84,7 @@ At ETH around $3,000, that is about $14.40. The same swap during a spike with ba
 
 ### Before EIP-1559
 
-Before London, Ethereum used a first-price auction. You set a single `gasPrice` and validators picked the highest bidders. Wallets had to guess. Users routinely overpaid to avoid being stuck, and fees swung sharply with demand. EIP-1559 replaced that blind auction with a protocol-set base fee that moves predictably.
+Before London, Ethereum used a first-price auction. You set a single `gasPrice` and validators picked the highest bidders. Wallets had to guess. Users routinely overpaid to avoid being stuck, and fees swung sharply with demand. EIP-1559 replaced that blind auction with a protocol-set base fee that moves predictably. The design was formally analyzed in [Tim Roughgarden's economic report for the Ethereum Foundation](https://timroughgarden.org/papers/eip1559.pdf), also [on arXiv as HTML](https://arxiv.org/html/2012.00854v1) and [PDF](https://arxiv.org/pdf/2012.00854), which proves the mechanism's incentive properties while noting it was never meant to lower average fees. Later work even [studied minority attacks that manipulate the base fee itself](https://arxiv.org/html/2304.11478v3).
 
 ### After EIP-1559
 
@@ -83,15 +92,15 @@ EIP-1559 shipped with the London hard fork at block 12,965,000 on 5 August 2021 
 
 Five mechanics define it now:
 
-1. **Base fee is protocol-set and burned.**Every block has a base fee. Your transaction must cover it to be valid. When the block is built, that base fee is destroyed. It does not go to validators. Burning removes the incentive for validators to manipulate fees and offsets issuance. Trackers such as Etherscan and Ultrasound.money report about 4.6 million ETH burned between August 2021 and early 2026, even as net supply still rose slightly to around 120 to 121 million ETH by April 2026 after issuance to stakers continued.
+1. **Base fee is protocol-set and burned.** Every block has a base fee. Your transaction must cover it to be valid. When the block is built, that base fee is destroyed. It does not go to validators. Burning removes the incentive for validators to manipulate fees and offsets issuance. [Etherscan](https://etherscan.io/gastracker) and [Ultrasound.money](https://ultrasound.money/) report about 4.6 million ETH burned between August 2021 and early 2026, even as net supply still rose slightly to around 120 to 121 million ETH by April 2026 after issuance to stakers continued. [Ultrasound's daily view](https://ultrasound.money/?timeFrame=d1) lets you slice the same burn and supply data by time window.
 
-2.**Base fee moves with demand, capped at 12.5 percent per block.**The protocol compares gas used in the previous block to the gas target, which is half the gas limit. If the previous block used more than the target, the base fee increases by up to 12.5 percent. If it used less, it decreases by up to 12.5 percent. Blocks can be up to twice the target size, so during a surge the base fee climbs exponentially and then falls when demand eases. This is why ethereum.org describes the base fee as the network trying to keep average block size at the target.
+2. **Base fee moves with demand, capped at 12.5 percent per block.** The protocol compares gas used in the previous block to the gas target, which is half the gas limit. If the previous block used more than the target, the base fee increases by up to 12.5 percent. If it used less, it decreases by up to 12.5 percent. Blocks can be up to twice the target size, so during a surge the base fee climbs exponentially and then falls when demand eases. This is why [ethereum.org](https://ethereum.org/developers/docs/gas/) describes the base fee as the network trying to keep average block size at the target.
 
-3.**Priority fee is a tip validators keep.** Validators receive only `priorityFeePerGas * gasUsed`. A transaction that pays only the base fee is valid but less attractive to include. During calm periods a tip of 1 to 2 gwei is often enough. During a congested mint or crash, users add more to be included sooner. Wallets now suggest this automatically, and you can still set it manually.
+3. **Priority fee is a tip validators keep.** Validators receive only `priorityFeePerGas * gasUsed`. A transaction that pays only the base fee is valid but less attractive to include. During calm periods a tip of 1 to 2 gwei is often enough. During a congested mint or crash, users add more to be included sooner. Wallets now suggest this automatically, and [MetaMask documents exactly how to override gas limit, priority fee, and max fee by hand](https://support.metamask.io/configure/transactions/how-to-customize-gas-settings/).
 
-4. **maxFeePerGas protects you from overpaying.**You declare the highest total you accept. If the base fee falls before your transaction is included, you pay the lower effective price and get a refund for the unused allowance. If the base fee exceeds your maxFeePerGas, the transaction waits in the mempool.
+4. **maxFeePerGas protects you from overpaying.** You declare the highest total you accept. If the base fee falls before your transaction is included, you pay the lower effective price and get a refund for the unused allowance. If the base fee exceeds your maxFeePerGas, the transaction waits in the mempool.
 
-5.**Target size is not the limit.** Ethereum can process roughly 15 to 30 simple transfers per second at layer 1. Each block has a target of half the limit. That slack lets the network absorb bursts without immediately rejecting transactions, but sustained demand still pushes the base fee up until some users wait.
+5. **Target size is not the limit.** Ethereum can process roughly 15 to 30 simple transfers per second at layer 1. Each block has a target of half the limit. That slack lets the network absorb bursts without immediately rejecting transactions, but sustained demand still pushes the base fee up until some users wait. [Historical charts show the long arc: about $0.20 average fees in 2017, $53 in 2021, under $1 through 2025 and 2026](https://www.ethtransactionprice.org/ethereum-gas-fee-history.html).
 
 ### What storage actually costs in the EVM
 
@@ -100,6 +109,8 @@ Developers care most about storage because it dominates costs.
 - Creating a new storage slot from zero to non-zero costs 20,000 gas for the SSTORE itself (SstoreSetGas), plus access costs if the slot is cold.
 - Updating an existing non-zero slot to a different non-zero value costs 5,000 gas before Berlin-era adjustments. Since EIP-2929, the net is split into access plus write.
 - Reading a slot with SLOAD costs 2,100 gas cold and 100 gas warm after EIP-2929. Cold means first touch of that address and slot in the transaction. Warm means you already touched it, so the client already loaded it.
+
+Cross-check any opcode price in the [community evm-opcodes table](https://github.com/crytic/evm-opcodes) or the [EtherVM opcode reference](https://ethervm.io/), which tracks newer opcodes like PUSH0, TLOAD, TSTORE, BLOBHASH, and BLOBBASEFEE.
 
 EIP-2929 was part of the Berlin upgrade at block 12,244,000 on 15 April 2021. It raised SLOAD from 800 to 2,100 cold and *CALL and related state-access opcodes to 2,600 cold, with a 100 warm cost for repeats. The goal was to align gas with the real database work and close denial-of-service vectors where attackers crafted blocks heavy on state reads. EIP-2930 added optional access lists in the same fork so users could pre-declare addresses and slots they would touch.
 
@@ -111,16 +122,16 @@ These numbers come from EIP-2200, EIP-2929, and the go-ethereum protocol params 
 
 `calldata` is the read-only bytes sent with the transaction. External function arguments arrive in calldata. `memory` is a byte array created during execution and discarded after. Using `calldata` for external inputs avoids copying bytes into memory.
 
-A simple copy from calldata to memory costs gas that grows with size. For one address or uint256 the difference is tiny. For arrays of 1,000 recipients the copy is material. Benchmarks with 1,000-address airdrops show `calldata` inputs saving around 200,000 gas, roughly 0.5 to 1 percent of a large batch, and the saving scales with input length. If you need to modify the array, copy it to memory. If you only read it, keep it as `calldata` and declare the function `external`.
+A simple copy from calldata to memory costs gas that grows with size. For one address or uint256 the difference is tiny. For arrays of 1,000 recipients the copy is material. Benchmarks with 1,000-address airdrops show `calldata` inputs saving around 200,000 gas, roughly 0.5 to 1 percent of a large batch, and the saving scales with input length. If you need to modify the array, copy it to memory. If you only read it, keep it as `calldata` and declare the function `external`. [Alchemy's optimization guide puts calldata packing among twelve core patterns worth 20 to 50 percent total savings](https://www.alchemy.com/overviews/solidity-gas-optimization). [Tenosia's community guide sorts the same ideas into costly habits, saving patterns, and code-golf tricks](https://github.com/Tenosia/Gas-Optimization-Guide). [CalmOps' playbook walks the storage and bytecode reduction path end to end](https://calmops.com/programming/blockchain/gas-optimization-solidity/).
 
 ## Pros and cons
 
 ### What the current design gets right
 
-- **Predictable estimates.**Wallets can suggest `maxFeePerGas` and `maxPriorityFeePerGas` from the recent base fee instead of guessing a blind auction bid. Users see a clearer max cost.
--**DoS resistance.**Gas metering makes infinite loops economically impossible and prices state access closer to real client work after Berlin fixes.
--**Burn aligns fee payment with ETH.**Only ETH pays the base fee, and burning it offsets issuance. Between the Merge in September 2022, which cut daily issuance from about 13,000 ETH to about 1,700 ETH, and steady burn in early 2023, ETH was briefly net deflationary. That effect faded as Layer 2 moved activity off mainnet.
--**Layer 1 stays the settlement anchor.**Expensive mainnet fees fund validator security while high-volume activity moves to cheaper layers that still settle to Ethereum.
+- **Predictable estimates.** Wallets can suggest `maxFeePerGas` and `maxPriorityFeePerGas` from the recent base fee instead of guessing a blind auction bid. Users see a clearer max cost.
+- **DoS resistance.** Gas metering makes infinite loops economically impossible and prices state access closer to real client work after Berlin fixes.
+- **Burn aligns fee payment with ETH.** Only ETH pays the base fee, and burning it offsets issuance. Between the Merge in September 2022, which cut daily issuance from about 13,000 ETH to about 1,700 ETH, and steady burn in early 2023, ETH was briefly net deflationary. That effect faded as Layer 2 moved activity off mainnet. [Gas history trackers split the story into five eras: pre-EIP-1559, post-London, post-Merge, post-Dencun, and post-Pectra](https://gasfeepredictor.com/ethereum-gas-fee-history).
+- **Layer 1 stays the settlement anchor.** Expensive mainnet fees fund validator security while high-volume activity moves to cheaper layers that still settle to Ethereum. [CoinLaw's fee history puts the 2021 peak above $70 with single-digit gwei readings by 2026](https://coinlaw.io/ethereum-gas-fee-history).
 
 ### What still hurts
 
@@ -133,19 +144,26 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### If you are a user
 
-1.**Prefer a Layer 2 for routine actions.**Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. Reports from March 2024 showed Optimism median fees falling from about $1.40 to about $0.04, Base from about $1.50 to about $0.03, and Arbitrum and zkSync seeing 50 to 90 percent drops as they adopted blobs. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills.
+1. **Prefer a Layer 2 for routine actions.** Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. [Live L2 fee boards compare Arbitrum, Optimism, Base, zkSync, and Polygon side by side](https://ethtransactionfee.org/ethereum-layer2-fees.html). [2026 comparisons put Base near $0.01 to $0.05, Optimism near $0.01 to $0.10, and Arbitrum near $0.05 to $0.20 against $10 to $50 mainnet actions](https://qinv.io/blog/base-vs-arbitrum-vs-optimism-comparison). [WebbyCoin explains why the L1 data share, 80 to 90% pre-Dencun, drove the Nitro versus Bedrock cost shift](https://webbycoin.com/articles/compare-gas-fees-on-arbitrum/). [Guardarian's 2026 comparison adds the operator angle on fees, TVL, and ARB versus OP utility](https://guardarian.com/blog/arbitrum-vs-optimism-a-comprehensive-comparison). [EarnifyHub's L2 guide covers the failure modes too, including seven-day withdrawals versus zkSync's minutes](https://earnifyhub.com/blog/crypto/layer2-arbitrum-optimism-base-zksync-comparison). [Chaingain's 2026 explainer adds bridge risk to the fee picture](https://chaingain.io/layer-2-explained-2026/).
 
-2.**Time your mainnet transactions.**Track live fees on Etherscan Gas Tracker or a similar estimator. Fees are often lowest on weekends and during off-peak US hours when fewer users compete for block space. If you are not in a rush, set a lower `maxFeePerGas` and let the transaction wait.
+After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. [The canonical blob spec defines 128KB blobs with separate blob gas pricing and roughly 18-day pruning](https://eips.ethereum.org/EIPS/eip-4844). [Binance Academy dates Dencun to March 13, 2024 with 80 to 90% L2 cuts](https://www.binance.com/en/academy/articles/what-is-eip-4844-in-ethereum-and-how-can-it-benefit-users). [Status recorded Optimism falling about 98%, Arbitrum 97%, and Base 98% in the days after activation](https://status.network/blog/what-is-ethereum-dencun-upgrade-layer-2-fees). [A contemporaneous March 2024 report confirms the across-the-board collapse](https://lex.substack.com/p/defi-ethereum-l2-fees-fall-90-as). EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills. [Spark's research derives the separate blob fee formula and the 95% plus drop](https://www.spark.money/research/ethereum-eip-4844-blob-fee-market). [Datawallet tracks the follow-ons: Pectra doubling blob counts with EIP-7691, 7623, and 7918 plus Fusaka peerDAS on the roadmap](https://www.datawallet.com/crypto/eip-4844-explained). [Plisio cites the emblematic $0.50 to $0.01 case with Base volume up 224%](https://plisio.net/crypto/eip-4844-explained). [Thirdweb's developer guide explains the 128KB, six-blobs-per-block dual fee market](https://blog.thirdweb.com/ethereum-blob-space-explained-how-eip-4844-is-reshaping-l2-economics-for-web3-developers). [Cyfrin's guide covers multidimensional pricing with maxFeePerBlobGas and KZG commitments](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions). [Eco notes the 1-wei blob floor of 2024 with L2 actions repriced from dollars to cents](https://eco.com/support/en/articles/14796248-eip-4844-proto-danksharding-explained). [Blofin adds the key caveat: blobs never cut L1 execution gas, only the L2 data path](https://blofin.com/en/academy/education/ethereum/eip-4844-proto-danksharding). [Gate's wiki confirms the March 2024 activation and KZG role](https://www.gate.com/crypto-wiki/article/danksharding-and-proto-danksharding-explained-20260130). [Finematics' video transcript walks through blobs versus calldata for visual learners](https://ethereum.org/videos/eip-4844-dencun-explained/). [The Dencun FAQ gives the official activation context](https://ethereum.org/roadmap/dencun/).
 
-3.**Set fees explicitly.**In MetaMask and similar wallets, use advanced settings to set `maxFeePerGas` and `maxPriorityFeePerGas` instead of accepting a single gas price. Set a max base you are willing to pay. You will be refunded if the actual base fee is lower.
+How each rollup passes those savings through differs in the details. [Arbitrum documents its Nitro parent-plus-child fee model with Brotli compression and an adaptive data-unit pricer](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/gas-and-fees), plus [how its sequencer batches and compresses with blob-versus-calldata selection](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/sequencer). [Optimism documents its total-fee formula of execution gas plus L1 data fee with Ecotone and Fjord blob scalars](https://docs.optimism.io/op-stack/transactions/fees).
 
-4.**Batch where possible.**Some apps let you approve and swap in one transaction, or mint several NFTs with ERC-721A for near the cost of one. Off-chain signatures followed by a single on-chain settlement also cut gas. Check if the dapp supports batch calls or permit signatures that avoid an extra approve transaction.
+2. **Time your mainnet transactions.** Track live fees on [Etherscan's Gas Tracker](https://etherscan.io/gastracker), the [alternative EthScan tracker](https://ethscan.io/gas), or [99Bitcoins' tracker with heatmaps](https://99bitcoins.com/tools/ethereum-fee-tracker/). Fees are often lowest on weekends and during off-peak US hours when fewer users compete for block space. If you are not in a rush, set a lower `maxFeePerGas` and let the transaction wait. [Etherscan documents the GasOracle and estimate APIs behind its tracker for builders](https://docs.etherscan.io/endpoint-showcase/gas-tracker). History backs the patience play: [2021 averaged about $53 with $300-for-$5 anecdotes at the peak](https://99bitcoins.com/tools/ethereum-fee-tracker/).
 
-5.**Avoid failed transactions.**Set a safe gasLimit. A simple ETH transfer always needs 21,000. Contract calls vary - use your wallet's estimate plus a margin. Failed or reverted transactions still consume gas for work done.
+3. **Set fees explicitly.** In MetaMask and similar wallets, use advanced settings to set `maxFeePerGas` and `maxPriorityFeePerGas` instead of accepting a single gas price. Set a max base you are willing to pay. You will be refunded if the actual base fee is lower. [MetaMask's own walkthrough shows the pencil-icon flow for editing gas limit, priority fee, and max fee](https://support.metamask.io/configure/transactions/how-to-customize-gas-settings/).
+
+4. **Batch where possible.** Some apps let you approve and swap in one transaction, or mint several NFTs with ERC-721A for near the cost of one. Off-chain signatures followed by a single on-chain settlement also cut gas. Check if the dapp supports batch calls or permit signatures that avoid an extra approve transaction. The stronger version of this idea is account abstraction: [ERC-4337 paymasters sponsor user gas through the EntryPoint deposit flow](https://docs.erc4337.io/paymasters/index.html), specified in [EIP-4337 itself](https://eips.ethereum.org/EIPS/eip-4337) and indexed in [ethereum.org's ERC-4337 docs](https://ethereum.org/developers/tools/erc-4337-documentation/). [Thirdweb reports more than 30 million smart accounts by mid-2026 with paymasters clearing millions of sponsored actions a day, plus Pectra's EIP-7702 delegation model](https://blog.thirdweb.com/account-abstraction-in-2026-how-eip-7702-and-erc-4337-are-transforming-ethereum-wallets-for-developers/). [Ethereum's gasless tutorial shows the older meta-transaction path with EIP-712 sponsorship](https://ethereum.org/developers/tutorials/gasless).
+
+5. **Avoid failed transactions.** Set a safe gasLimit. A simple ETH transfer always needs 21,000. Contract calls vary - use your wallet's estimate plus a margin. Failed or reverted transactions still consume gas for work done. One more protection exists against the worst spikes: private mempools. [Flashbots' MEV-Boost auction and private transaction pool](https://www.flashbots.net/) with [sealed-bid blockspace documented here](https://docs.flashbots.net/flashbots-auction/overview) let you bypass the public mempool where frontrunning bots live. [CoW DAO's analysis weighs the lag-time trade-offs honestly](https://cow.fi/learn/are-private-mempools-a-good-way-to-avoid-mev). [Webopedia's walkthrough covers the searcher to builder to proposer flow with Protect RPC](https://www.webopedia.com/crypto/learn/flashbots-mev-marketplace-ethereum/). [Datawallet reports MEV-Boost in more than 80% of blocks](https://www.datawallet.com/crypto/flashbots-explained). [EarnifyHub's 2026 MEV guide puts yearly ETH-side extraction near $552M with sandwiches taking 0.3 to 2%](https://earnifyhub.com/blog/crypto/mev-maximal-extractable-value-guide-2026). [Ethereum's own MEV docs explain proposer-builder separation and private channels](https://ethereum.org/developers/docs/mev/).
 
 ### If you are a Solidity developer
 
 These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.
+
+[![Solidity gas optimization guide header](https://media.alchemy.com/1763564597-blog-gas-optimization.png)](https://www.alchemy.com/overviews/solidity-gas-optimization)
+*Image: Alchemy's [Solidity gas optimization guide header](https://www.alchemy.com/overviews/solidity-gas-optimization) (media.alchemy.com).*
 
 **1. Minimize storage writes. Cache in memory.**
 
@@ -217,7 +235,13 @@ for (uint256 i = 0; i < length; ) {
 
 Do not wrap user balances, token amounts, or math that could overflow. OpenZeppelin and the language docs note the same warning: only use `unchecked` where overflow is impossible by construction.
 
-Other practical steps: use `external` instead of `public` for functions only called externally, order require checks to fail early, emit events for data you only need off-chain instead of storing it, use minimal proxies for cheap deployments, and measure with Hardhat Gas Reporter or Foundry gas reports.
+Other practical steps: use `external` instead of `public` for functions only called externally, order require checks to fail early, emit events for data you only need off-chain instead of storing it, use minimal proxies for cheap deployments, and measure with Hardhat Gas Reporter or Foundry gas reports. [TheEthereum.wiki's walkthrough adds MEV gas wars and the 10-to-100x L2 rule to the same checklist](https://theethereum.wiki/learn/gas-fees-explained/).
+
+### When fees explode: a short history of spikes
+
+Spikes follow attention, not technology. CryptoKitties clogged December 2017 above 450 gwei. DeFi Summer 2020 printed 480 gwei days. May 2021 averaged $53 to $70 with swaps at $100 to $200 and the BAYC Otherdeeds mint pushing $200 to $800 transactions. BlobScriptions spammed 2,437 blob inscriptions a day across March and April 2024 and spiked the brand-new blob fee market by four orders of magnitude in one case. September 2025's WLFI launch swung base fees from under 1 to over 100 gwei with plain transfers past $145. [DeepNewz covered the blob-fee blowup contemporaneously](https://deepnewz.com/crypto/ethereum-network-overwhelmed-blob-transactions-fees-soar-to). [Crowdfund Insider's weekly recap documented the WLFI swing with transfer math](https://www.crowdfundinsider.com/2025/09/249943-ethereum-gas-fees-web3-thoughts-of-the-week). The full arc lives in [CoinLaw's yearly table](https://coinlaw.io/ethereum-gas-fee-history) and [Etherscan-adjacent historical charts from $0.20 in 2017](https://www.ethtransactionprice.org/ethereum-gas-fee-history.html).
+
+The lesson repeats every cycle: demand spikes are temporary, base-fee math is permanent, and the users who survive them transact on L2s, at off-peak hours, with explicit caps.
 
 ## FAQ
 
