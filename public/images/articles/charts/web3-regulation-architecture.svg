@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <text x="600" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#f8fafc" text-anchor="middle">WEB3 REGULATORY COMPLIANCE &amp; CULTURAL DYNAMICS MATRIX</text>
+  <text x="600" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Global Jurisdiction Standards, Cypherpunk Values &amp; Institutional Onboarding</text>
+
+  <!-- Jurisdiction 1: EU MiCA -->
+  <rect x="50" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="50" y="120" width="250" height="45" rx="12" fill="#2563eb"/>
+  <text x="175" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">EU MiCA Framework</text>
+
+  <rect x="70" y="180" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">CASP Licensing Mandates</text>
+  <text x="175" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Passporting across 27 States</text>
+
+  <rect x="70" y="275" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Stablecoin Reserve Rules</text>
+  <text x="175" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">ART / EMT E-Money Compliance</text>
+
+  <rect x="70" y="370" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Market Abuse Prevention</text>
+  <text x="175" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Insider Trading &amp; Wash-Trade Rules</text>
+
+  <rect x="70" y="465" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">ESG Sustainability Disclosures</text>
+  <text x="175" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Proof-of-Work Energy Audits</text>
+
+  <!-- Jurisdiction 2: US Regulatory Enforcement -->
+  <rect x="335" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#ef4444" stroke-width="2"/>
+  <rect x="335" y="120" width="250" height="45" rx="12" fill="#dc2626"/>
+  <text x="460" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">US Enforcement Landscape</text>
+
+  <rect x="355" y="180" width="210" height="75" rx="8" fill="#020617" stroke="#b91c1c"/>
+  <text x="460" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#fca5a5" text-anchor="middle">SEC Howey Test Analysis</text>
+  <text x="460" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fecaca" text-anchor="middle">Unregistered Securities Litigation</text>
+
+  <rect x="355" y="275" width="210" height="75" rx="8" fill="#020617" stroke="#b91c1c"/>
+  <text x="460" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#fca5a5" text-anchor="middle">CFTC Commodities Oversight</text>
+  <text x="460" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fecaca" text-anchor="middle">Derivatives &amp; Spot Markets</text>
+
+  <rect x="355" y="370" width="210" height="75" rx="8" fill="#020617" stroke="#b91c1c"/>
+  <text x="460" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#fca5a5" text-anchor="middle">FinCEN &amp; Travel Rule</text>
+  <text x="460" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fecaca" text-anchor="middle">AML / KYC Threshold Checking</text>
+
+  <rect x="355" y="465" width="210" height="75" rx="8" fill="#020617" stroke="#b91c1c"/>
+  <text x="460" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#fca5a5" text-anchor="middle">OFAC Sanction Compliance</text>
+  <text x="460" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#fecaca" text-anchor="middle">Smart Contract Address Screening</text>
+
+  <!-- Box 3: Crypto-Native Culture -->
+  <rect x="620" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="620" y="120" width="250" height="45" rx="12" fill="#059669"/>
+  <text x="745" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Crypto-Native Ethos</text>
+
+  <rect x="640" y="180" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Don't Trust, Verify</text>
+  <text x="745" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Open-Source Code &amp; State Proofs</text>
+
+  <rect x="640" y="275" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Decentralized Governance</text>
+  <text x="745" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">DAO Proposals &amp; Token Voting</text>
+
+  <rect x="640" y="370" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Privacy &amp; Self-Sovereignty</text>
+  <text x="745" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Non-Custodial Keys &amp; ZK Proofs</text>
+
+  <rect x="640" y="465" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Fair Launch &amp; AirDrops</text>
+  <text x="745" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Community Retrospective Rewards</text>
+
+  <!-- Box 4: Hybrid Compliance -->
+  <rect x="905" y="120" width="245" height="440" rx="12" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="905" y="120" width="245" height="45" rx="12" fill="#d97706"/>
+  <text x="1027" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Hybrid Compliance Roles</text>
+
+  <text x="1027" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Web3 Regulatory Counsel</text>
+  <text x="1027" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Token Classification &amp; MiCA</text>
+
+  <text x="1027" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">On-Chain AML Analyst</text>
+  <text x="1027" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Chainalysis / Elliptic Forensics</text>
+
+  <text x="1027" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">DAO Legal Structuring Spec</text>
+  <text x="1027" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">UNA / Cayman Foundation Design</text>
+
+  <text x="1027" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Compliance Engineer</text>
+  <text x="1027" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">OFAC RPC Middleware Screening</text>
+
+  <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Hashtag Web3 Regulatory &amp; Legal Careers Series</text>
+</svg>

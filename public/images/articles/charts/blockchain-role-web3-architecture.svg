@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <text x="600" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#f8fafc" text-anchor="middle">ROLE OF BLOCKCHAIN IN WEB3 INFRASTRUCTURE &amp; APPLICATION STACK</text>
+  <text x="600" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#7dd3fc" text-anchor="middle">State Consensus, Digital Ownership, Self-Sovereign Identity &amp; Programmable Money</text>
+
+  <!-- Layer 4: Application Layer -->
+  <rect x="100" y="120" width="1000" height="85" rx="12" fill="url(#boxGrad)" stroke="#38bdf8" stroke-width="2"/>
+  <rect x="100" y="120" width="1000" height="30" rx="12" fill="#0284c7"/>
+  <text x="600" y="141" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">4. WEB3 APPLICATION LAYER (dApps, DEXs, DAOs, Decentralized Social)</text>
+  <text x="300" y="180" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#e0f2fe">• Uniswap / Aave Financial Protocols</text>
+  <text x="600" y="180" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#e0f2fe">• Lens Protocol / Farcaster Social</text>
+  <text x="900" y="180" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#e0f2fe">• OpenSea / Blur Marketplaces</text>
+
+  <!-- Layer 3: Middleware & Indexing -->
+  <rect x="100" y="225" width="1000" height="85" rx="12" fill="url(#boxGrad)" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="100" y="225" width="1000" height="30" rx="12" fill="#6d28d9"/>
+  <text x="600" y="246" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">3. INFRASTRUCTURE &amp; INDEXING MIDDLEWARE (Oracles, RPC Nodes, Subgraphs)</text>
+  <text x="300" y="285" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#ddd6fe">• Chainlink / Pyth Price Feeds</text>
+  <text x="600" y="285" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#ddd6fe">• The Graph GraphQL Subgraphs</text>
+  <text x="900" y="285" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#ddd6fe">• Alchemy / Infura RPC Nodes</text>
+
+  <!-- Layer 2: Execution Engine & Smart Contracts -->
+  <rect x="100" y="330" width="1000" height="85" rx="12" fill="url(#boxGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="100" y="330" width="1000" height="30" rx="12" fill="#059669"/>
+  <text x="600" y="351" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">2. EXECUTION ENGINE &amp; SMART CONTRACT LAYER (EVM, SVM, Move VM)</text>
+  <text x="300" y="390" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a7f3d0">• Solidity Bytecode Opcodes</text>
+  <text x="600" y="390" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a7f3d0">• Account Abstraction (ERC-4337)</text>
+  <text x="900" y="390" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a7f3d0">• Deterministic State Transitions</text>
+
+  <!-- Layer 1: Base Blockchain Consensus & Ledger -->
+  <rect x="100" y="435" width="1000" height="115" rx="12" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="100" y="435" width="1000" height="30" rx="12" fill="#d97706"/>
+  <text x="600" y="456" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#ffffff" text-anchor="middle">1. BASE BLOCKCHAIN CONSENSUS &amp; IMMUTABLE LEDGER LAYER (PoS, PoW, P2P Libp2p)</text>
+  <text x="250" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fef3c7">• Peer-to-Peer State Sync</text>
+  <text x="600" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fef3c7">• Merkle-Patricia State Trees</text>
+  <text x="950" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fef3c7">• Public Key Infrastructure (PKI)</text>
+  <text x="250" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fde68a">• Cryptographic Immutability</text>
+  <text x="600" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fde68a">• Censorship-Resistant Consensus</text>
+  <text x="950" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fde68a">• Native Token Settlement Layer</text>
+
+  <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Hashtag Web3 Technical Architecture Series</text>
+</svg>

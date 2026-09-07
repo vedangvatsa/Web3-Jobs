@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#334155"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <text x="600" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="bold" fill="#f8fafc" text-anchor="middle">WEB3 COMPREHENSIVE SKILLS &amp; CAPABILITY ARCHITECTURE MATRIX</text>
+  <text x="600" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Mapping Engineering, Security, Financial Engineering, and Governance Competencies</text>
+
+  <rect x="50" y="110" width="250" height="460" rx="12" fill="url(#boxGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="50" y="110" width="250" height="40" rx="12" fill="#3b82f6"/>
+  <text x="175" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Core Protocol &amp; Smart Contracts</text>
+
+  <rect x="70" y="170" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="175" y="195" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" text-anchor="middle">Smart Contract Dev</text>
+  <text x="175" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Solidity, Rust, Vyper, Move</text>
+
+  <rect x="70" y="270" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="175" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" text-anchor="middle">Consensus &amp; Execution</text>
+  <text x="175" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">EVM, SVM, WASM, PoS/PoW</text>
+
+  <rect x="70" y="370" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="175" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" text-anchor="middle">Layer 2 &amp; Scaling</text>
+  <text x="175" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">ZK-Rollups, Optimistic, OP Stack</text>
+
+  <rect x="70" y="470" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="175" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#60a5fa" text-anchor="middle">Distributed Systems</text>
+  <text x="175" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">P2P Libp2p, RPCs, Clients</text>
+
+  <rect x="335" y="110" width="250" height="460" rx="12" fill="url(#boxGrad)" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="335" y="110" width="250" height="40" rx="12" fill="#8b5cf6"/>
+  <text x="460" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">DeFi &amp; Financial Engineering</text>
+
+  <rect x="355" y="170" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="460" y="195" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#c084fc" text-anchor="middle">Liquidity Architecture</text>
+  <text x="460" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">AMMs, Orderbooks, Bonding</text>
+
+  <rect x="355" y="270" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="460" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#c084fc" text-anchor="middle">Tokenomics &amp; Vesting</text>
+  <text x="460" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Emissions, Cliff Schedules, Sink</text>
+
+  <rect x="355" y="370" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="460" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#c084fc" text-anchor="middle">Risk &amp; Quantitative Dev</text>
+  <text x="460" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">MEV, Arbitrage, Liquidations</text>
+
+  <rect x="355" y="470" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="460" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#c084fc" text-anchor="middle">Oracles &amp; Data Feeds</text>
+  <text x="460" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Chainlink, Pyth, TWAP</text>
+
+  <rect x="620" y="110" width="250" height="460" rx="12" fill="url(#boxGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="620" y="110" width="250" height="40" rx="12" fill="#10b981"/>
+  <text x="745" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Security &amp; Cryptography</text>
+
+  <rect x="640" y="170" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="745" y="195" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">Smart Contract Auditing</text>
+  <text x="745" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Slither, Echidna, Foundry</text>
+
+  <rect x="640" y="270" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="745" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">Applied Cryptography</text>
+  <text x="745" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Zero-Knowledge (Circom, Halo2)</text>
+
+  <rect x="640" y="370" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="745" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">Key &amp; Custody Management</text>
+  <text x="745" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">MPC, HSM, Multisig, AA</text>
+
+  <rect x="640" y="470" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="745" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#34d399" text-anchor="middle">Formal Verification</text>
+  <text x="745" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Certora, SMT Solvers, Invariants</text>
+
+  <rect x="905" y="110" width="245" height="460" rx="12" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="905" y="110" width="245" height="40" rx="12" fill="#f59e0b"/>
+  <text x="1027" y="135" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Product &amp; Ecosystem</text>
+
+  <rect x="922" y="170" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="1027" y="195" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">Web3 Product Mgmt</text>
+  <text x="1027" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Roadmaps, User Spec, Token UI</text>
+
+  <rect x="922" y="270" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="1027" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">DAO Governance</text>
+  <text x="1027" y="320" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Governor Alpha, Snapshot, Proposals</text>
+
+  <rect x="922" y="370" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="1027" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">Technical Writing</text>
+  <text x="1027" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Docs, SDKs, Developer Portals</text>
+
+  <rect x="922" y="470" width="210" height="80" rx="8" fill="#0f172a" stroke="#475569"/>
+  <text x="1027" y="495" font-family="system-ui, -apple-system, sans-serif" font-size="14" font-weight="bold" fill="#fbbf24" text-anchor="middle">DevRel &amp; Community</text>
+  <text x="1027" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#cbd5e1" text-anchor="middle">Hackathons, Grants, Integrations</text>
+
+  <text x="600" y="605" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Hashtag Web3 Career &amp; Engineering Skills Framework</text>
+</svg>
