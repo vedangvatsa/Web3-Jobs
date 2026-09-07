@@ -129,6 +129,42 @@ const nextConfig = {
             ].join(', '),
           },
           {
+            key: 'RateLimit-Limit',
+            value: '120',
+          },
+          {
+            key: 'RateLimit-Remaining',
+            value: '119',
+          },
+          {
+            key: 'RateLimit-Reset',
+            value: '60',
+          },
+          {
+            key: 'RateLimit-Policy',
+            value: '120;w=60',
+          },
+          {
+            key: 'RateLimit',
+            value: 'limit=120, remaining=119, reset=60',
+          },
+          {
+            key: 'X-RateLimit-Limit',
+            value: '120',
+          },
+          {
+            key: 'X-RateLimit-Remaining',
+            value: '119',
+          },
+          {
+            key: 'X-RateLimit-Reset',
+            value: '60',
+          },
+          {
+            key: 'Access-Control-Expose-Headers',
+            value: 'RateLimit, RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, API-Version, Sunset, Deprecation, Link, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset',
+          },
+          {
             key: 'Content-Security-Policy',
             value: cspHeader,
           },
@@ -151,10 +187,7 @@ const nextConfig = {
           { key: 'API-Version', value: '1.0.0' },
           { key: 'Deprecation', value: '@1767225600' },
           { key: 'Sunset', value: 'Wed, 31 Dec 2026 23:59:59 GMT' },
-          { key: 'RateLimit-Limit', value: '120' },
-          { key: 'RateLimit-Policy', value: '120;w=60' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
-          { key: 'Access-Control-Expose-Headers', value: 'RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, API-Version, Sunset, Deprecation, Link' },
           { key: 'Link', value: '<https://hashtagweb3.com/developers>; rel="deprecation"; type="text/html", <https://hashtagweb3.com/developers>; rel="sunset"; type="text/html", </openapi.json>; rel="service-desc"' },
         ],
       },
