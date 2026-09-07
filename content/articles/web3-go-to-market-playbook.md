@@ -1,8 +1,7 @@
 ---
 title: 'The Web3 Go-To-Market Playbook: From Community to Conversion'
-image: >-
-  https://images.unsplash.com/photo-1556155092-490a1ba16284?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnb3dfdG9fbWFya2V0fGVufDB8fHx8MTc1NTE2MjE1OXww&ixlib=rb-4.1.0&q=80&w=1080
-data-ai-hint: go to market strategy
+image: /images/articles/charts/gtm-airdrop-drawdown.svg
+data-ai-hint: airdrop drawdown data chart
 description: >-
   A research-backed Web3 go-to-market thesis: token launches, airdrop science,
   quest economics, KOL math, and the metrics that predict retention. 70 cited sources.
@@ -13,9 +12,6 @@ lastUpdated: "2026-09-07"
 Launching in [Web3](/what-is-web3) punishes teams that copy Web2 playbooks. Paid ads and sales funnels fight the culture instead of using it. The numbers explain why this matters: [about 20,000 crypto projects compete while roughly 70% shut down within two years](https://www.blockchainappfactory.com/blog/crypto-content-marketing-strategy-how-to-build-web3-authority/), and [85% of projects lose their community after the token generation event](https://www.ment.tech/blog/web3-marketing-strategy/). [DappRadar counted 2.3 million daily unique active wallets in 2024](https://www.ment.tech/blog/web3-marketing-strategy/), so the audience exists. Keeping it is the hard part.
 
 This guide works through go-to-market the way the data says it works: community before product, token design as strategy, airdrops as science, quests and creators as paid channels with measurable returns, and metrics that predict retention instead of vanity. Each claim links to its source. For the companion piece on our own site, see [the modern Web3 GTM strategy guide](https://hashtagweb3.com/gtm-strategy-for-web3-projects).
-
-[![Ethereum logo, the network where most GTM experiments run](https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg)](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg)
-*Image: Ethereum logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) (public domain, trademarked).*
 
 ## Why Web3 GTM differs from Web2 GTM
 
@@ -47,12 +43,14 @@ Rules that follow from the evidence: require fees or time, not just clicks. Weig
 
 ## Post-mortems: the class of 2024
 
+Three launches, six collapsing bars. The chart below pairs each network's activity loss with its token's price loss, and the comparison tells the whole story at a glance: Starknet and ZKsync lost both users and price, while LayerZero's Sybil hunt saved the price even as farmers left. Read activity bars as distribution quality and price bars as market judgment.
+
+![Airdrop drawdowns in activity and price](/images/articles/charts/gtm-airdrop-drawdown.svg)
+*Figure: post-airdrop drawdowns, percent. Data: [Binance Square post-mortem](https://www.binance.com/en/square/post/10677752039665), [TheNewscrypto comparison](https://thenewscrypto.com/layerzero-airdrop-outperforms-starknet-and-zksync-with-anti-bot).*
+
 [Binance Square data shows Starknet daily active addresses down 80%, ZKsync down 40%, and LayerZero down 85% in addresses with cross-chain volume down 90% after their airdrops](https://www.binance.com/en/square/post/10677752039665). [Price action matched: ZRO down 23% from $4.40 against STRK down 91% and ZK down 67%, with the Sybil hunt explaining the gap](https://thenewscrypto.com/layerzero-airdrop-outperforms-starknet-and-zksync-with-anti-bot). [A Medium post-mortem calls for rethinking airdrop design from scratch after the 2024 controversies](https://medium.com/@cheukisaac/after-the-layerzero-and-zksync-airdrops-time-to-pause-reflect-and-rethink-the-future-of-airdrops-006fd25c0b3a).
 
 Hyperliquid is the counter-case. [Gate Learn describes a no-VC, points-season design with fast selling pressure absorbed by real demand](https://www.gate.com/learn/articles/hyperliquid-redefining-de-fi-through-airdrop-innovation/5080). [Gate Wiki counts about 274 million HYPE to 94,000-plus wallets with an average near 2,915 against a median near 64.5, which shows how skewed even good distributions get](https://www.gate.com/crypto-wiki/article/a-revolutionary-airdrop-hyperliquid-s-impact-on-the-future-of-defi-20251225). [Eco documents about 310 million HYPE, 31% of supply, sent directly on November 29, 2024, running from $2 past $30 within a month](https://eco.com/support/en/articles/15039718-hyperliquid-airdrop-what-happened-and-what-s-next). [Jito's 100 million JTO split 15% to validators, 5% to searchers, and 80% to JitoSOL holders with 100-plus points is the cleaner precedent for rewarding actual usage](https://tokeninsight.com/en/news/jito-labs-announces-distribution-plan-of-100m-jto-airdrops). [Surgence's roundup collects five billion-dollar distribution plays in one place](https://surgence.io/blog/crypto-airdrop-marketing). [Binance Research scored the cycle's post-mortems: Hyperliquid 9, Berachain 8, ZKsync 8, Scroll 3, Redstone 2, with Kaito-insider and Magic Eden wallet lessons attached](https://public.bnbstatic.com/static/files/research/where-are-our-airdrops-going.pdf). [Its full-year review adds context: market cap up 96.2%, DeFi TVL up 119.7% to $119.3B, Base holding 39% of L2 TVL and 67% of L2 daily users without any token](https://www.binance.com/research/analysis/full-year-2024-and-themes-for-2025/).
-
-[![Blockchain network illustration](https://upload.wikimedia.org/wikipedia/commons/5/50/Blockchain.jpg)](https://commons.wikimedia.org/wiki/File:Blockchain.jpg)
-*Image: blockchain illustration by deavmi via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blockchain.jpg) (CC BY-SA 4.0).*
 
 ## Quests: rented attention with a meter running
 
@@ -64,10 +62,10 @@ Use quests for education and activation, never as the whole strategy. Cap reward
 
 Influencers move crypto markets faster than any other channel, which is why measurement matters. [UEEx documents an Aave campaign across 40 YouTubers driving 45% user growth with a 60% volume lift, plus a Crypto.com case with a 400% app spike](https://blog.ueex.com/crypto-influencer-marketing/). [MediaX breaks down the cost curve: X and Telegram reach is cheap, YouTube trust is expensive, and vetting decides outcomes](https://mediax.agency/blogs/crypto-influencer-marketing-cost). [The Kollab's 2025 guide covers sourcing, strategy, and measurement frameworks](https://thekollab.io/articles/ultimate-crypto-influencer-marketing-guide-2025). [Icoda's 2026 rates piece builds the attribution pipeline from UTM links to wallet connects, TVL, and thirty-day retention](https://icoda.io/blog/crypto-influencer-marketing-rates-roi/). [The Kollab's 2026 update reports about $6.50 back per $1 on average with $11 to $18 at best, mid-tier creators at $5k to $20k and macro names at $25k to $50k, citing a Trust Wallet case near 1.5 million impressions](https://thekollab.io/articles/crypto-influencer-marketing). [MarketingScoop's benchmarks put average influencer ROI near 5.2x with micro creators at $100 to $10k and macro at $10k to $100k](https://www.marketingscoop.com/marketing/influencer-marketing-statistics-2025).
 
-[![Crypto influencer marketing illustration](https://blog.ueex.com/wp-content/uploads/2026/06/Crypto-Influencer-Marketing.webp)](https://blog.ueex.com/crypto-influencer-marketing/)
-*Image via [UEEx Blog, crypto influencer marketing guide](https://blog.ueex.com/crypto-influencer-marketing/).*
+Pay for wallet connects and retained users, never impressions. Require disclosure. Track cohorts, not clicks. Price discipline starts with the platform menu: Zealy lists near $149 a month while Galxe lists near $999 before any rewards or claim fees, for very different reach. The chart below puts the sticker prices side by side so the fully loaded math starts honest.
 
-Pay for wallet connects and retained users, never impressions. Require disclosure. Track cohorts, not clicks.
+![Quest platform list prices per month](/images/articles/charts/gtm-quest-costs.svg)
+*Figure: platform fees before rewards or gas. Data: [Zealy vs Galxe vs Layer3 costs](https://zealy.io/blog/zealy-vs-galxe-vs-layer3), [Flexe 2026 comparison](https://flexe.io/blog/crypto-quest-platforms/).*
 
 ## Content and SEO: education compounds
 
