@@ -9,10 +9,12 @@
  *
  * Posts verified job openings to social networks in the exact format:
  *
- *   Company is hiring role: https://hashtagweb3.com/<slug>/x      (for X)
- *   Company is hiring role: https://hashtagweb3.com/<slug>/th     (for Threads)
+ *   Company is hiring role
+ *
+ *   https://hashtagweb3.com/<slug>/x      (for X)
+ *   https://hashtagweb3.com/<slug>/th     (for Threads)
+ *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
- *   Company is hiring role: https://hashtagweb3.com/<slug>/fc     (for Farcaster)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
  *   Company is hiring role: https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
  *   (Square OG image generated for Instagram feed)
