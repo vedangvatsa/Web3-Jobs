@@ -750,10 +750,10 @@ async function main() {
   const facebookUrl = `${SITE_URL}/${slug}/fb`;
   const redditUrl = `${SITE_URL}/${slug}/rd`;
 
-  const xPostText = `${company} is hiring ${title}: ${xUrl}`;
-  const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
+  const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
+  const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
   const blueskyPostText = `${company} is hiring ${title}: ${blueskyUrl}`;
-  const farcasterPostText = `${company} is hiring ${title}: ${farcasterUrl}`;
+  const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
   const linkedinPostText = `${company} is hiring ${title}: ${linkedinUrl}`;
   const facebookPostText = `${company} is hiring ${title}: ${facebookUrl}`;
 
