@@ -100,15 +100,6 @@ export default async function JobsPage() {
                 <Rss className="h-4 w-4" />
                 <span>Join our hiring feed with <strong className="text-foreground">{SITE_STATS.telegramSubscribersFormatted}</strong> subscribers.</span>
               </Link>
-              <span>•</span>
-              <Link
-                href="/jobs/feed.xml"
-                target="_blank"
-                className="hover:text-foreground text-xs font-mono border px-2 py-0.5 rounded"
-                title="Direct Web3 Jobs RSS XML Feed"
-              >
-                RSS XML
-              </Link>
             </div>
           </div>
          <JobBoard initialJobs={initialJobs} initialTotal={totalJobs} companyLogos={companyLogos} />

@@ -31,15 +31,6 @@ export function CommunityFeedBanner({
             </span>
           )}
         </Link>
-        <span>•</span>
-        <Link
-          href="/jobs/feed.xml"
-          target="_blank"
-          className="hover:text-foreground text-xs font-mono border px-2 py-0.5 rounded"
-          title="Direct Web3 Jobs RSS XML Feed"
-        >
-          RSS XML
-        </Link>
       </div>
     </div>
   );
