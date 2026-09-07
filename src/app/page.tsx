@@ -61,11 +61,7 @@ export default async function JobsPage() {
       <div className="flex flex-col min-h-screen">
         <main className="flex-1">
           <PageShell>
-            <section className="text-center mb-8">
-              <div className="site-container">
-                <PageHeader title="Web3 Jobs" />
-              </div>
-            </section>
+            <PageHeader title="Web3 Jobs" />
 
             {/* Semantic SSR content for search engines, AI agents, and non-JS crawlers */}
             <section className="sr-only" aria-hidden="false">
