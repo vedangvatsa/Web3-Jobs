@@ -10,6 +10,7 @@ export async function GET() {
       documentation: 'https://hashtagweb3.com/developers',
       openapi: 'https://hashtagweb3.com/openapi.json',
       llms_txt: 'https://hashtagweb3.com/llms.txt',
+      agents_txt: 'https://hashtagweb3.com/agents.txt',
       agent_instructions: 'https://hashtagweb3.com/agent-instructions.md',
       auth_guide: 'https://hashtagweb3.com/auth.md',
       

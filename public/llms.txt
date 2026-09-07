@@ -98,6 +98,7 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 RFC 9728 Protected Resource Metadata](https://hashtagweb3.com/.well-known/oauth-protected-resource): Hashtag Web3 OAuth protected-resource metadata.
 - [Hashtag Web3 RFC 8414 Authorization Server Metadata](https://hashtagweb3.com/.well-known/oauth-authorization-server): Hashtag Web3 OAuth authorization-server metadata.
 - [Hashtag Web3 Agent Plugin Manifest](https://hashtagweb3.com/.well-known/plugin.json): Hashtag Web3 Agent-plugins.org bundle.
+- [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Hashtag Web3 operational permissions, action boundaries, and protocol declarations for autonomous AI agents.
 - [Hashtag Web3 MCP Alternative Endpoint](https://hashtagweb3.com/api/mcp): Hashtag Web3 MCP server alias for tool calling.
 - [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Hashtag Web3 coding agent instructions.
 - [Hashtag Web3 Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Hashtag Web3 public GitHub repository.

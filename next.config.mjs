@@ -123,6 +123,7 @@ const nextConfig = {
               '</sitemap.xml>; rel="sitemap"; type="application/xml"',
               '</.well-known/sitemap.json>; rel="sitemap"; type="application/json"',
               '</.well-known/agents.json>; rel="agents"; type="application/json"',
+              '</agents.txt>; rel="agent-permissions"; type="text/plain"',
               '</.well-known/api-catalog>; rel="api-catalog"',
               '</openapi.json>; rel="service-desc"',
               '</404.md>; rel="404-recovery"; type="text/markdown"',
@@ -237,6 +238,27 @@ const nextConfig = {
         source: '/sitemap.json',
         headers: [
           { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
+          { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
+        ],
+      },
+      // Agent permissions (agents.txt) per https://agents-txt.com and https://veda.ng/aistandards
+      {
+        source: '/agents.txt',
+        headers: [
+          { key: 'Content-Type', value: 'text/plain; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
+          { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
+        ],
+      },
+      {
+        source: '/.well-known/agents.txt',
+        headers: [
+          { key: 'Content-Type', value: 'text/plain; charset=UTF-8' },
           { key: 'Vary', value: 'Accept, Accept-Encoding' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
           { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
