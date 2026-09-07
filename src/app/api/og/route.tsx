@@ -40,249 +40,198 @@ export async function GET(request: NextRequest) {
       boxShadow: '0 25px 50px -12px rgba(15, 23, 42, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.8)',
     } as const;
 
-    // 0. Dedicated Instagram Advice Carousel Templates (1080x1080 Square, Light Mode)
+    // 0. Dedicated Instagram Advice Carousel Templates (1080x1080 Square, Clean Editorial Minimalist)
     if (type === 'advice-slide' || type === 'advice-cover' || type === 'advice-cta') {
       const isCover = type === 'advice-cover' || slide === 'cover';
       const isCta = type === 'advice-cta' || slide === 'cta';
-      const displayCategory = (category || 'Career Guides').toUpperCase();
+      const displayCategory = (category || 'Career Guide').toUpperCase();
       const displayTitle = title.length > 90 ? `${title.slice(0, 87)}...` : title;
+      const formattedSlideNum = String(slideNumber).padStart(2, '0');
+      const formattedTotal = String(totalSlides).padStart(2, '0');
 
       return new ImageResponse(
         (
           <div
             style={{
-              ...baseContainerStyle,
               width: '1080px',
               height: '1080px',
+              display: 'flex',
               flexDirection: 'column',
-              alignItems: 'center',
-              justifyContent: 'center',
-              padding: '48px',
+              justifyContent: 'space-between',
+              backgroundColor: '#ffffff',
+              padding: '88px 84px',
+              fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
           >
+            {/* Top Bar: Minimal Category & Slide Counter */}
             <div
               style={{
-                ...baseCardStyle,
-                width: '984px',
-                height: '984px',
-                padding: '64px 56px',
-                flexDirection: 'column',
+                display: 'flex',
+                alignItems: 'center',
                 justifyContent: 'space-between',
-                position: 'relative',
+                width: '100%',
               }}
             >
-              {/* Header: Category Badge & Slide Progress */}
               <div
                 style={{
                   display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'space-between',
-                  width: '100%',
+                  fontSize: '22px',
+                  fontWeight: '700',
+                  color: '#64748b',
+                  letterSpacing: '2.5px',
+                  textTransform: 'uppercase',
+                }}
+              >
+                {displayCategory}
+              </div>
+              <div
+                style={{
+                  display: 'flex',
+                  fontSize: '22px',
+                  fontWeight: '700',
+                  color: '#94a3b8',
+                  letterSpacing: '1.5px',
+                }}
+              >
+                {formattedSlideNum} / {formattedTotal}
+              </div>
+            </div>
+
+            {/* Main Content Body */}
+            {isCover ? (
+              <div
+                style={{
+                  display: 'flex',
+                  flexDirection: 'column',
+                  justifyContent: 'center',
+                  alignItems: 'flex-start',
+                  flex: 1,
+                  padding: '40px 0',
                 }}
               >
                 <div
                   style={{
                     display: 'flex',
-                    alignItems: 'center',
-                    gap: '10px',
-                    padding: '8px 18px',
-                    backgroundColor: '#f0f9ff',
-                    border: '1px solid #bae6fd',
-                    borderRadius: '999px',
-                    fontSize: '16px',
-                    fontWeight: '700',
-                    color: '#0284c7',
-                    letterSpacing: '0.6px',
+                    fontSize: displayTitle.length > 45 ? '72px' : '84px',
+                    fontWeight: '900',
+                    color: '#0f172a',
+                    lineHeight: '1.12',
+                    letterSpacing: '-2.5px',
                   }}
                 >
-                  {displayCategory}
+                  {displayTitle}
                 </div>
-                <div
-                  style={{
-                    display: 'flex',
-                    alignItems: 'center',
-                    fontSize: '18px',
-                    fontWeight: '600',
-                    color: '#94a3b8',
-                    letterSpacing: '0.5px',
-                  }}
-                >
-                  {slideNumber} / {totalSlides}
-                </div>
-              </div>
-
-              {/* Main Content Body */}
-              {isCover ? (
-                <div
-                  style={{
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'center',
-                    alignItems: 'flex-start',
-                    gap: '24px',
-                    flex: 1,
-                  }}
-                >
+                {subtitle ? (
                   <div
                     style={{
                       display: 'flex',
-                      fontSize: displayTitle.length > 50 ? '58px' : '68px',
-                      fontWeight: '900',
-                      color: '#0f172a',
-                      lineHeight: '1.16',
-                      letterSpacing: '-2px',
-                    }}
-                  >
-                    {displayTitle}
-                  </div>
-                  {subtitle ? (
-                    <div
-                      style={{
-                        display: 'flex',
-                        fontSize: '28px',
-                        fontWeight: '500',
-                        color: '#475569',
-                        lineHeight: '1.45',
-                        maxWidth: '850px',
-                      }}
-                    >
-                      {subtitle}
-                    </div>
-                  ) : null}
-                  <div
-                    style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      gap: '8px',
-                      marginTop: '16px',
-                      fontSize: '20px',
-                      fontWeight: '600',
-                      color: '#0284c7',
-                    }}
-                  >
-                    Swipe to read →
-                  </div>
-                </div>
-              ) : isCta ? (
-                <div
-                  style={{
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'center',
-                    alignItems: 'center',
-                    textAlign: 'center',
-                    gap: '32px',
-                    flex: 1,
-                  }}
-                >
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '64px',
-                      fontWeight: '900',
-                      color: '#0f172a',
-                      letterSpacing: '-2px',
-                    }}
-                  >
-                    hashtagweb3.com
-                  </div>
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '30px',
+                      fontSize: '36px',
                       fontWeight: '500',
                       color: '#475569',
-                      maxWidth: '750px',
                       lineHeight: '1.4',
+                      marginTop: '32px',
+                      maxWidth: '880px',
                     }}
                   >
-                    {tagline}
+                    {subtitle}
                   </div>
-                </div>
-              ) : (
-                <div
-                  style={{
-                    display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'center',
-                    alignItems: 'flex-start',
-                    gap: '24px',
-                    flex: 1,
-                  }}
-                >
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '46px',
-                      fontWeight: '800',
-                      color: '#0f172a',
-                      lineHeight: '1.2',
-                      letterSpacing: '-1px',
-                    }}
-                  >
-                    {displayTitle}
-                  </div>
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '26px',
-                      fontWeight: '450',
-                      color: '#334155',
-                      lineHeight: '1.6',
-                      whiteSpace: 'pre-wrap',
-                    }}
-                  >
-                    {bodyText}
-                  </div>
-                </div>
-              )}
-
-              {/* Footer: Domain & Branding */}
+                ) : null}
+              </div>
+            ) : isCta ? (
               <div
                 style={{
                   display: 'flex',
+                  flexDirection: 'column',
+                  justifyContent: 'center',
                   alignItems: 'center',
-                  justifyContent: 'space-between',
-                  borderTop: '1px solid #f1f5f9',
-                  paddingTop: '24px',
-                  width: '100%',
+                  textAlign: 'center',
+                  flex: 1,
+                  padding: '40px 0',
                 }}
               >
                 <div
                   style={{
                     display: 'flex',
-                    alignItems: 'center',
-                    gap: '10px',
+                    fontSize: '84px',
+                    fontWeight: '900',
+                    color: '#0f172a',
+                    letterSpacing: '-3px',
                   }}
                 >
-                  <div
-                    style={{
-                      width: '12px',
-                      height: '12px',
-                      borderRadius: '50%',
-                      backgroundColor: '#0284c7',
-                    }}
-                  />
-                  <div
-                    style={{
-                      fontSize: '22px',
-                      fontWeight: '800',
-                      color: '#0f172a',
-                      letterSpacing: '-0.5px',
-                    }}
-                  >
-                    hashtagweb3.com
-                  </div>
+                  hashtagweb3.com
                 </div>
                 <div
                   style={{
-                    fontSize: '18px',
+                    display: 'flex',
+                    fontSize: '34px',
                     fontWeight: '500',
-                    color: '#94a3b8',
+                    color: '#475569',
+                    lineHeight: '1.4',
+                    marginTop: '28px',
+                    maxWidth: '760px',
                   }}
                 >
-                  {date}
+                  {tagline}
                 </div>
+              </div>
+            ) : (
+              <div
+                style={{
+                  display: 'flex',
+                  flexDirection: 'column',
+                  justifyContent: 'center',
+                  alignItems: 'flex-start',
+                  flex: 1,
+                  padding: '40px 0',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: displayTitle.length > 35 ? '68px' : '80px',
+                    fontWeight: '900',
+                    color: '#0f172a',
+                    lineHeight: '1.14',
+                    letterSpacing: '-2px',
+                  }}
+                >
+                  {displayTitle}
+                </div>
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: '38px',
+                    fontWeight: '500',
+                    color: '#334155',
+                    lineHeight: '1.45',
+                    marginTop: '32px',
+                    maxWidth: '900px',
+                  }}
+                >
+                  {bodyText}
+                </div>
+              </div>
+            )}
+
+            {/* Bottom Bar: Clean Minimalist Domain */}
+            <div
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'space-between',
+                width: '100%',
+              }}
+            >
+              <div
+                style={{
+                  display: 'flex',
+                  fontSize: '22px',
+                  fontWeight: '800',
+                  color: '#0f172a',
+                  letterSpacing: '-0.5px',
+                }}
+              >
+                hashtagweb3.com
               </div>
             </div>
           </div>
