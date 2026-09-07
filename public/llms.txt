@@ -158,6 +158,7 @@ npm install @hashtagweb3/sdk
 - [Contact Hashtag Web3](https://hashtagweb3.com/contact): Support channels, hiring partnerships, and office details.
 - [Privacy Policy](https://hashtagweb3.com/privacy): Privacy guidelines and AI agent crawling terms.
 - [Terms of Use](https://hashtagweb3.com/terms-of-use.md): Machine-readable terms of service, commercial usage terms, rate limits, and liability boundaries for autonomous agent transactions.
+- [Text & Data Mining Rights](https://hashtagweb3.com/.well-known/tdmrep.json): W3C TDM Reservation Protocol notice declaring mining permissions and reservation policies.
 
 ## Free Career Tools
 

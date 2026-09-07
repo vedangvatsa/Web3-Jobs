@@ -111,6 +111,22 @@ const nextConfig = {
             value: 'SAMEORIGIN',
           },
           {
+            key: 'Strict-Transport-Security',
+            value: 'max-age=31536000; includeSubDomains; preload',
+          },
+          {
+            key: 'X-Content-Type-Options',
+            value: 'nosniff',
+          },
+          {
+            key: 'Referrer-Policy',
+            value: 'strict-origin-when-cross-origin',
+          },
+          {
+            key: 'Permissions-Policy',
+            value: 'camera=(), microphone=(), geolocation=()',
+          },
+          {
             key: 'Vary',
             value: 'Accept, Accept-Encoding',
           },
@@ -128,6 +144,7 @@ const nextConfig = {
               '</.well-known/agents.json>; rel="agents"; type="application/json"',
               '</agents.txt>; rel="agent-permissions"; type="text/plain"',
               '</.well-known/api-catalog>; rel="api-catalog"',
+              '</.well-known/tdmrep.json>; rel="tdmrep"; type="application/json"',
               '</openapi.json>; rel="service-desc"',
               '</404.md>; rel="404-recovery"; type="text/markdown"',
               '</terms-of-use.md>; rel="terms-of-service"; type="text/markdown"',
@@ -266,6 +283,27 @@ const nextConfig = {
           { key: 'Vary', value: 'Accept, Accept-Encoding' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
           { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
+          { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
+        ],
+      },
+      // W3C TDM Reservation Protocol (tdmrep.json) per https://www.w3.org/community/reports/tdmrep/CG-FINAL-tdmrep-20240510/
+      {
+        source: '/.well-known/tdmrep.json',
+        headers: [
+          { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=86400, s-maxage=604800' },
+          { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
+        ],
+      },
+      {
+        source: '/tdmrep.json',
+        headers: [
+          { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=86400, s-maxage=604800' },
           { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
         ],
       },
