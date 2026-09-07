@@ -145,7 +145,9 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### If you are a Solidity developer
 
-These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.**1. Minimize storage writes. Cache in memory.**
+These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.
+
+**1. Minimize storage writes. Cache in memory.**
 
 Storage is the costliest access. Load once, work in memory, write once.
 
@@ -169,6 +171,7 @@ function bumpGood() external {
 
 **2. Pack storage variables.**The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
 
+
 ```solidity
 // Inefficient: three slots
 struct Bad { uint128 a; uint256 b; uint128 c; }
@@ -177,7 +180,9 @@ struct Bad { uint128 a; uint256 b; uint128 c; }
 struct Good { uint128 a; uint128 c; uint256 b; }
 ```
 
-This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.**3. Use calldata for read-only external inputs.**```solidity
+This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
+
+**3. Use calldata for read-only external inputs.**```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 
@@ -185,7 +190,9 @@ function processBad(string memory data) external { }
 function processGood(string calldata data) external { }
 ```
 
-For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.**4. Use custom errors instead of string requires.**Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
+For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.
+
+**4. Use custom errors instead of string requires.**Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
 
 ```solidity
 // Higher cost: stores the string
@@ -197,7 +204,9 @@ error NotOwner(address caller);
 function withdraw() external {
     if (msg.sender != owner) revert NotOwner(msg.sender);
 }
-```**5. Use unchecked only when you can prove no overflow.**Since Solidity 0.8.0, arithmetic reverts on overflow by default. That safety costs gas. If a loop index cannot overflow because it is bounded by `length`, you can save gas with `unchecked`.
+```
+
+**5. Use unchecked only when you can prove no overflow.**Since Solidity 0.8.0, arithmetic reverts on overflow by default. That safety costs gas. If a loop index cannot overflow because it is bounded by `length`, you can save gas with `unchecked`.
 
 ```solidity
 for (uint256 i = 0; i < length; ) {
@@ -210,9 +219,27 @@ Do not wrap user balances, token amounts, or math that could overflow. OpenZeppe
 
 Other practical steps: use `external` instead of `public` for functions only called externally, order require checks to fail early, emit events for data you only need off-chain instead of storing it, use minimal proxies for cheap deployments, and measure with Hardhat Gas Reporter or Foundry gas reports.
 
-## FAQ**How do I estimate a fee in dollars before sending?**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.**Why did my transaction fail but still cost gas?**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.**What happens to gas if ETH price doubles?**Gas used for an action stays the same. Price per unit in gwei is set by demand. If ETH price doubles and demand stays flat, the same 21,000-unit transfer costs twice as many dollars but the same gwei and ETH. In practice wallets and users target dollar costs, so demand often eases when ETH price rises.**Do I need ETH on a Layer 2?**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.**Is it cheaper to set a very low maxFeePerGas and wait?**It can be, if you are not time-sensitive. Your transaction will sit in the mempool until the base fee drops to your max. If the base fee keeps rising, it may never be included and you will need to replace it with a higher maxFeePerGas. Do not set it so low that you miss a time-sensitive mint or liquidation.**Do gas tokens or refunds help me now?**No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.**Where should I track fees and burn?**
+## FAQ
 
-Use ethereum.org/developers/docs/gas for mechanics, eips.ethereum.org/EIPS/eip-1559 and EIP-2929 for spec details, and a live tracker such as Etherscan Gas Tracker for current base fee and tip. For burn and supply, Ultrasound.money and Glassnode publish cumulative burn and supply charts.
+**How do I estimate a fee in dollars before sending?**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
+
+**Why did my transaction fail but still cost gas?**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
+
+**What happens to gas if ETH price doubles?**Gas used for an action stays the same. Price per unit in gwei is set by demand. If ETH price doubles and demand stays flat, the same 21,000-unit transfer costs twice as many dollars but the same gwei and ETH. In practice wallets and users target dollar costs, so demand often eases when ETH price rises.
+
+**Do I need ETH on a Layer 2?**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
+
+**Is it cheaper to set a very low maxFeePerGas and wait?**It can be, if you are not time-sensitive. Your transaction will sit in the mempool until the base fee drops to your max. If the base fee keeps rising, it may never be included and you will need to replace it with a higher maxFeePerGas. Do not set it so low that you miss a time-sensitive mint or liquidation.
+
+**Do gas tokens or refunds help me now?** No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.
+
+**What is MEV and does it raise my fees?** Maximal extractable value is profit from ordering transactions: frontrunning your swap, sandwiching it, or backrunning it. Searchers bid gas to win ordering, which pushes your costs up during volatile periods. [Ethereum's MEV documentation explains proposer-builder separation as the structural answer](https://ethereum.org/developers/docs/mev/). Practically, route large swaps through MEV-protected RPCs or private mempools, split size, and set slippage tight. [Flashbots documents the private auction path](https://docs.flashbots.net/flashbots-auction/overview).
+
+**Can someone else pay my gas?** Yes, through paymasters. [A paymaster contract sponsors UserOperation gas from its EntryPoint deposit after its own validation passes](https://docs.erc4337.io/paymasters/index.html). Apps use this for free trials, gasless onboarding, and USDC-denominated fees. [The canonical flow is specified in EIP-4337](https://eips.ethereum.org/EIPS/eip-4337).
+
+**Where should I track fees and burn?**
+
+Use the [gas docs](https://ethereum.org/developers/docs/gas/) for mechanics, the [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) and EIP-2929 specs for details, and a live tracker such as [Etherscan's Gas Tracker](https://etherscan.io/gastracker) for current base fee and tip. For burn and supply, [Ultrasound.money](https://ultrasound.money/) publishes cumulative burn and supply charts.
 
 ---
 
@@ -227,13 +254,15 @@ Sources and further reading:
 
 ## Verifiable Primary Sources & References
 
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
-4. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
-5. [Ethereum EIP-4844 Proto-Danksharding Specification](https://eips.ethereum.org/EIPS/eip-4844)
-6. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-7. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-8. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-9. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-10. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
+1. [Ethereum gas documentation](https://ethereum.org/developers/docs/gas/) and [beginner gas guide](https://ethereum.org/gas/)
+2. [EIP-1559 specification](https://eips.ethereum.org/EIPS/eip-1559) and [Roughgarden's economic analysis (PDF)](https://timroughgarden.org/papers/eip1559.pdf)
+3. [EIP-4844 blob specification](https://eips.ethereum.org/EIPS/eip-4844) and [Dencun FAQ](https://ethereum.org/roadmap/dencun/)
+4. [EIP-4337 account abstraction](https://eips.ethereum.org/EIPS/eip-4337) and [paymaster documentation](https://docs.erc4337.io/paymasters/index.html)
+5. [Etherscan Gas Tracker](https://etherscan.io/gastracker) and [Ultrasound.money](https://ultrasound.money/)
+6. [Arbitrum gas and fees docs](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/gas-and-fees) and [Optimism fee docs](https://docs.optimism.io/op-stack/transactions/fees)
+7. [Alchemy: 12 Solidity gas optimization techniques](https://www.alchemy.com/overviews/solidity-gas-optimization)
+8. [Flashbots docs: private auction overview](https://docs.flashbots.net/flashbots-auction/overview)
+9. [MetaMask: customizing gas settings](https://support.metamask.io/configure/transactions/how-to-customize-gas-settings/)
+10. [CoinLaw: Ethereum gas fee history](https://coinlaw.io/ethereum-gas-fee-history)
+11. [Status: Dencun L2 fee analysis](https://status.network/blog/what-is-ethereum-dencun-upgrade-layer-2-fees)
+12. [Crytic EVM opcodes reference](https://github.com/crytic/evm-opcodes)
