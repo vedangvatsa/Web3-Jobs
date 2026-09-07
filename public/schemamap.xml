@@ -7,6 +7,18 @@
     <title>Web3 Jobs Feed</title>
   </feed>
   <feed>
+    <url>https://hashtagweb3.com/jobs/feed.xml</url>
+    <type>application/rss+xml</type>
+    <schemaType>JobPosting</schemaType>
+    <title>Web3 Jobs RSS Feed</title>
+  </feed>
+  <feed>
+    <url>https://hashtagweb3.com/jobs/feed-aggregator.xml</url>
+    <type>application/xml</type>
+    <schemaType>JobPosting</schemaType>
+    <title>Web3 Jobs Aggregator XML Feed</title>
+  </feed>
+  <feed>
     <url>https://hashtagweb3.com/api/v1/events</url>
     <type>application/json</type>
     <schemaType>Event</schemaType>

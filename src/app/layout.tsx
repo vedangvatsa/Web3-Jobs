@@ -77,9 +77,17 @@ export const metadata: Metadata = {
   creator:"@hashtag_web3",
   images: [ogImageUrl],
  },
- alternates: {
-  canonical: '/',
- },
+  alternates: {
+   canonical: '/',
+   types: {
+     'application/rss+xml': [
+       {
+         url: 'https://hashtagweb3.com/jobs/feed.xml',
+         title: 'Hashtag Web3 Jobs RSS Feed',
+       },
+     ],
+   },
+  },
  icons: {
   icon: '/icon.png',
   shortcut: '/favicon.ico',

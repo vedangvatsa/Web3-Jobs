@@ -158,4 +158,8 @@ Sitemap: https://hashtagweb3.com/.well-known/sitemap.json
 Sitemap: https://hashtagweb3.com/sitemap.json
 Agents-txt: https://hashtagweb3.com/agents.txt
 schemamap: https://hashtagweb3.com/schemamap.xml
+# Job Feeds (RSS / XML Aggregator / JSON Feed)
+# RSS Feed: https://hashtagweb3.com/jobs/feed.xml
+# Aggregator XML: https://hashtagweb3.com/jobs/feed-aggregator.xml
+# JSON Feed: https://hashtagweb3.com/jobs/feed.json
 Content-Signal: search=yes, ai-train=no
