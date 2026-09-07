@@ -151,17 +151,4 @@ In order of cost per retained user, cheapest first. Docs and research content co
 **What team runs this day to day?**
 One growth lead who owns the dashboard, one community lead per thousand active members, one analyst who can query Dune without help, and one engineer on call for quest and claim integrations. That is the minimum crew. Everything else rents well: audit contests, creator agencies, analytics vendors. What never rents well is the voice of the project, so founders stay in the replies until the community leads can carry it alone.
 
-## Key references
-
-1. [Xangle: Web3 Airdrop Playbook, Optimism vs Arbitrum](https://xangle.io/en/research/detail/1192)
-2. [arXiv: Airdrops, Giving Money Away Is Harder Than It Seems](https://arxiv.org/html/2312.02752v4)
-3. [Binance Research: Where Are Our Airdrops Going (PDF)](https://public.bnbstatic.com/static/files/research/where-are-our-airdrops-going.pdf)
-4. [Binance Research: Full-Year 2024 and Themes for 2025](https://www.binance.com/research/analysis/full-year-2024-and-themes-for-2025/)
-5. [Formo: Web3 GTM Strategy Guide](https://formo.so/blog/web3-gtm-strategy-guide)
-6. [Formo: Web3 Growth Metrics and Strategies](https://formo.so/blog/web3-growth-metrics-and-strategies-for-onchain-growth)
-7. [Optimism Documentation](https://docs.optimism.io/)
-8. [Arbitrum DAO Documentation](https://docs.arbitrum.foundation/gentle-intro-dao-governance)
-9. [Galxe](https://www.galxe.com/) and [Flexe Quest Comparison 2026](https://flexe.io/blog/crypto-quest-platforms/)
-10. [The Kollab: Crypto Influencer Marketing 2026](https://thekollab.io/articles/crypto-influencer-marketing)
-11. [CryptoRank Fundraising Platforms](https://cryptorank.io/fundraising-platforms)
-12. [Dune Community Analytics](https://community.dune.com/)
+Then publish the post-mortem with real numbers, including what failed. The teams that do this twice build the reputation that makes the third launch easy. Archive every dashboard, every cohort table, and every kill-rule decision alongside the post so the next launch starts from evidence instead of memory. Institutional memory is the only marketing asset competitors cannot copy. Start building yours with the very first campaign retrospective, however small the numbers behind it. Boring operational excellence outperforms brilliant one-off campaigns across every dataset in this guide.

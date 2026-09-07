@@ -159,17 +159,4 @@ Expect live code or contract review, a paid take-home of four to eight hours, an
 
 [Timelines vary: six to twelve months of steady proof is normal for a first role](https://web3futurepro.com/how-to-land-a-remote-blockchain-job-no-exp/), [and three to six months at ten to fifteen hours a week for a focused Web2-to-Web3 switch](https://web3vacancy.com/web2-to-web3-guide). Start this week with one small, checkable contribution. The next one gets easier because people already know your name. Twelve weeks of visible work turns a stranger into a known contributor, and known contributors get hired. The market data, the hiring loops, and the pay bands all point the same way: proof first, title second.
 
-## Key references
-
-1. [Coincub Web3 Jobs Report 2025](https://coincub.com/ranking/web3-jobs-report-2025/)
-2. [Web3.Career Intelligence Report 2025](https://web3.career/learn-web3/web3-intelligence-report)
-3. [Gate Research: 2025 Crypto Employment Market Report](https://www.gate.com/research/article/gate-research-2025-crypto-employment-market-report)
-4. [Web3 Workforce Survey 2024 (YouGov, n=498)](https://assets.ctfassets.net/gjyjx7gst9lo/1gouFh7ej62gAU84YbpYLf/e609e6a985bc523fba2d7dc3c73eecfc/Web3-Workforce-Survey-24_Final.pdf)
-5. [Superteam Earn](https://superteam.fun/earn/) and [Contributing Guide](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute)
-6. [Immunefi Bug Bounty Program](https://immunefi.com/bug-bounty-program/)
-7. [Gitcoin Bounties](https://gitcoin.co/mechanisms/bounties) and [Passport](https://gitcoin.co/blog/intro-to-passport)
-8. [GM.careers Interview Preparation](https://gm.careers/blog/web3-interview-preparation)
-9. [Blockchain Magazine: Developer Salary 2025](https://blockchainmagazine.net/blockchain-developer-salary-in-2025/)
-10. [Orbyt: Blockchain Developer Salary Data 2026](https://www.orbytjobs.ai/salaries/blockchain-developer)
-11. [LedgerMind: How to Join a DAO 2026](https://theledgermind.com/how-to-join-a-dao/)
-12. [Web3Vacancy Resume Guide 2026](https://web3vacancy.com/web3-resume-guide)
+Twelve weeks of visible work turns a stranger into a known contributor, and known contributors get hired. The market data, the hiring loops, and the pay bands all point the same way: proof first, title second. Keep every artifact linked from one pinned index so each new contribution compounds on the last, and re-read your own proof stack monthly to spot the gaps a hiring manager would see first. Momentum is the entire game: visible weekly progress beats sporadic bursts of effort every single time. Track shipped artifacts per week on a simple checklist, and never let two consecutive weeks pass with nothing checkable to show for them.
