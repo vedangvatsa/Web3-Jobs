@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937"/>
+      <stop offset="100%" stop-color="#111827"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <text x="600" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#f9fafb" text-anchor="middle">BLOCKCHAIN REVOLUTIONARY CORE ARCHITECTURE MATRIX</text>
+  <text x="600" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#9ca3af" text-anchor="middle">Decentralization, Immutability, Transparency, and Programmable State Execution</text>
+
+  <!-- Pillar 1: Decentralization -->
+  <rect x="50" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="50" y="120" width="250" height="45" rx="12" fill="#3b82f6"/>
+  <text x="175" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">1. Decentralization</text>
+  <text x="175" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#60a5fa" text-anchor="middle" font-weight="bold">P2P Network Topology</text>
+  <text x="70" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Fault Tolerance</text>
+  <text x="70" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Censorship Resistance</text>
+  <text x="70" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Consensus Protocols</text>
+  <text x="70" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#9ca3af">(PoW / PoS / BFT)</text>
+  <rect x="70" y="330" width="210" height="200" rx="8" fill="#030712" stroke="#374151"/>
+  <circle cx="175" cy="430" r="18" fill="#3b82f6"/>
+  <circle cx="120" cy="380" r="12" fill="#60a5fa"/>
+  <circle cx="230" cy="380" r="12" fill="#60a5fa"/>
+  <circle cx="120" cy="480" r="12" fill="#60a5fa"/>
+  <circle cx="230" cy="480" r="12" fill="#60a5fa"/>
+  <line x1="175" y1="430" x2="120" y2="380" stroke="#4b5563" stroke-width="2"/>
+  <line x1="175" y1="430" x2="230" y2="380" stroke="#4b5563" stroke-width="2"/>
+  <line x1="175" y1="430" x2="120" y2="480" stroke="#4b5563" stroke-width="2"/>
+  <line x1="175" y1="430" x2="230" y2="480" stroke="#4b5563" stroke-width="2"/>
+  <line x1="120" y1="380" x2="230" y2="380" stroke="#4b5563" stroke-width="1.5"/>
+  <line x1="120" y1="480" x2="230" y2="480" stroke="#4b5563" stroke-width="1.5"/>
+
+  <!-- Pillar 2: Immutability -->
+  <rect x="335" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="335" y="120" width="250" height="45" rx="12" fill="#10b981"/>
+  <text x="460" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">2. Immutability</text>
+  <text x="460" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#34d399" text-anchor="middle" font-weight="bold">Cryptographic Hashing</text>
+  <text x="355" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Keccak-256 / SHA-256</text>
+  <text x="355" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Merkle Tree State Roots</text>
+  <text x="355" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Append-Only Ledger</text>
+  <text x="355" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#9ca3af">(Prev Hash Linkage)</text>
+  <rect x="355" y="330" width="210" height="200" rx="8" fill="#030712" stroke="#374151"/>
+  <rect x="375" y="350" width="170" height="45" rx="6" fill="#111827" stroke="#10b981"/>
+  <text x="460" y="377" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#34d399" text-anchor="middle">Block N-1 (Hash: 0x8a...)</text>
+  <path d="M 460 395 L 460 415" stroke="#10b981" stroke-width="2" marker-end="url(#arrow)"/>
+  <rect x="375" y="420" width="170" height="45" rx="6" fill="#111827" stroke="#10b981"/>
+  <text x="460" y="447" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#34d399" text-anchor="middle">Block N (Prev: 0x8a...)</text>
+
+  <!-- Pillar 3: Transparency -->
+  <rect x="620" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="620" y="120" width="250" height="45" rx="12" fill="#8b5cf6"/>
+  <text x="745" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">3. Transparency</text>
+  <text x="745" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#c084fc" text-anchor="middle" font-weight="bold">Public Verifiability</text>
+  <text x="640" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Block Explorers</text>
+  <text x="640" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Pseudonymous PKI</text>
+  <text x="640" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Auditable Event Logs</text>
+  <text x="640" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#9ca3af">(Zero-Knowledge Privacy)</text>
+  <rect x="640" y="330" width="210" height="200" rx="8" fill="#030712" stroke="#374151"/>
+  <text x="745" y="370" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#a78bfa" text-anchor="middle">Tx: 0x9f...a32</text>
+  <text x="745" y="410" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#9ca3af" text-anchor="middle">From: 0x1234...5678</text>
+  <text x="745" y="435" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#9ca3af" text-anchor="middle">To: 0xabcd...ef01</text>
+  <text x="745" y="470" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#34d399" text-anchor="middle" font-weight="bold">Value: 12.5 ETH</text>
+
+  <!-- Pillar 4: Automation -->
+  <rect x="905" y="120" width="245" height="440" rx="12" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="905" y="120" width="245" height="45" rx="12" fill="#f59e0b"/>
+  <text x="1027" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">4. Automation</text>
+  <text x="1027" y="190" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fbbf24" text-anchor="middle" font-weight="bold">Smart Contract State</text>
+  <text x="922" y="220" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Deterministic VM</text>
+  <text x="922" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Self-Executing Code</text>
+  <text x="922" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">• Trustless Escrows</text>
+  <text x="922" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#9ca3af">(DeFi &amp; DAOs)</text>
+  <rect x="922" y="330" width="210" height="200" rx="8" fill="#030712" stroke="#374151"/>
+  <text x="1027" y="370" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fbbf24" text-anchor="middle">if (condition == true) {</text>
+  <text x="1027" y="400" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#60a5fa" text-anchor="middle">  executeTransfer();</text>
+  <text x="1027" y="430" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fbbf24" text-anchor="middle">} else {</text>
+  <text x="1027" y="460" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#ef4444" text-anchor="middle">  revert();</text>
+  <text x="1027" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#fbbf24" text-anchor="middle">}</text>
+
+  <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#6b7280" text-anchor="middle">Hashtag Web3 Technical Architecture Series</text>
+</svg>

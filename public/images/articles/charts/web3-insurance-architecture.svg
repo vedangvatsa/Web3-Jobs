@@ -1,0 +1,99 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e1b4b"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <text x="600" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#f8fafc" text-anchor="middle">WEB3 DECENTRALIZED INSURANCE &amp; RISK MANAGEMENT ARCHITECTURE</text>
+  <text x="600" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#a78bfa" text-anchor="middle">Underwriting Pools, Actuarial Risk Engine, Parametric Oracles &amp; Claims Governance</text>
+
+  <!-- Box 1: Underwriting Pool Capital -->
+  <rect x="50" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#3b82f6" stroke-width="2"/>
+  <rect x="50" y="120" width="250" height="45" rx="12" fill="#2563eb"/>
+  <text x="175" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">1. Capital Underwriting</text>
+
+  <rect x="70" y="180" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Staking Pools (NXM / ETH)</text>
+  <text x="175" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Underwriter Loss Reserves</text>
+
+  <rect x="70" y="275" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Risk-Adjusted Premiums</text>
+  <text x="175" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Dynamic Yield Distribution</text>
+
+  <rect x="70" y="370" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Tranche Separation</text>
+  <text x="175" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Senior vs. Junior Risk Vaults</text>
+
+  <rect x="70" y="465" width="210" height="75" rx="8" fill="#020617" stroke="#1d4ed8"/>
+  <text x="175" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Reinsurance Markets</text>
+  <text x="175" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#bfdbfe" text-anchor="middle">Cross-Protocol Risk Hedging</text>
+
+  <!-- Box 2: Actuarial Engine -->
+  <rect x="335" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#8b5cf6" stroke-width="2"/>
+  <rect x="335" y="120" width="250" height="45" rx="12" fill="#7c3aed"/>
+  <text x="460" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">2. Actuarial Risk Engine</text>
+
+  <rect x="355" y="180" width="210" height="75" rx="8" fill="#020617" stroke="#6d28d9"/>
+  <text x="460" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">Smart Contract Auditing</text>
+  <text x="460" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#ddd6fe" text-anchor="middle">Static Scanners &amp; Formal Proofs</text>
+
+  <rect x="355" y="275" width="210" height="75" rx="8" fill="#020617" stroke="#6d28d9"/>
+  <text x="460" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">Economic Exploit Modeling</text>
+  <text x="460" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#ddd6fe" text-anchor="middle">Oracle &amp; Flash Loan Stress Tests</text>
+
+  <rect x="355" y="370" width="210" height="75" rx="8" fill="#020617" stroke="#6d28d9"/>
+  <text x="460" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">De-peg &amp; Slashing Coverage</text>
+  <text x="460" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#ddd6fe" text-anchor="middle">Stablecoin &amp; LST Risk Models</text>
+
+  <rect x="355" y="465" width="210" height="75" rx="8" fill="#020617" stroke="#6d28d9"/>
+  <text x="460" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#c084fc" text-anchor="middle">VaR (Value at Risk)</text>
+  <text x="460" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#ddd6fe" text-anchor="middle">Monte Carlo Solvency Simulation</text>
+
+  <!-- Box 3: Claims Execution -->
+  <rect x="620" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="620" y="120" width="250" height="45" rx="12" fill="#059669"/>
+  <text x="745" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">3. Claims Settlement</text>
+
+  <rect x="640" y="180" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Parametric Triggers</text>
+  <text x="745" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Oracle-Based Payouts (Zero Human)</text>
+
+  <rect x="640" y="275" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">DAO Assessment Voting</text>
+  <text x="745" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Discretionary Claim Governance</text>
+
+  <rect x="640" y="370" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Proof of Loss Verification</text>
+  <text x="745" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">On-Chain Tx Trace Analysis</text>
+
+  <rect x="640" y="465" width="210" height="75" rx="8" fill="#020617" stroke="#047857"/>
+  <text x="745" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Instant Smart Payout</text>
+  <text x="745" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Automated Escrow Transfer</text>
+
+  <!-- Box 4: Career Pathways -->
+  <rect x="905" y="120" width="245" height="440" rx="12" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="905" y="120" width="245" height="45" rx="12" fill="#d97706"/>
+  <text x="1027" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">4. In-Demand Careers</text>
+
+  <text x="1027" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">DeFi Risk Underwriter</text>
+  <text x="1027" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Protocol Audit &amp; Risk Pricing</text>
+
+  <text x="1027" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">On-Chain Actuary</text>
+  <text x="1027" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Reserve Modeling &amp; Slashing Risk</text>
+
+  <text x="1027" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Smart Contract Auditor</text>
+  <text x="1027" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Vulnerability &amp; Invariant Testing</text>
+
+  <text x="1027" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">Parametric Oracle Dev</text>
+  <text x="1027" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#cbd5e1">Chainlink Data Feed Integration</text>
+
+  <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Hashtag Web3 Insurance &amp; Risk Architecture Series</text>
+</svg>

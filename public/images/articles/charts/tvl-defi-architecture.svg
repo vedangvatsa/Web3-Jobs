@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#064e3b"/>
+      <stop offset="100%" stop-color="#022c22"/>
+    </linearGradient>
+    <linearGradient id="boxGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#065f46"/>
+      <stop offset="100%" stop-color="#064e3b"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bgGrad)"/>
+
+  <text x="600" y="50" font-family="system-ui, -apple-system, sans-serif" font-size="24" font-weight="bold" fill="#f0fdf4" text-anchor="middle">DEFI TOTAL VALUE LOCKED (TVL) &amp; CAPITAL CIRCULATION MATRIX</text>
+  <text x="600" y="80" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#6ee7b7" text-anchor="middle">On-Chain Asset Indexing, Derivative Staking &amp; Capital Efficiency Metrics</text>
+
+  <!-- Box 1: Asset Lock Sources -->
+  <rect x="50" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#10b981" stroke-width="2"/>
+  <rect x="50" y="120" width="250" height="45" rx="12" fill="#10b981"/>
+  <text x="175" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Protocol Lock Sources</text>
+
+  <rect x="70" y="180" width="210" height="75" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="175" y="205" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Lending Money Markets</text>
+  <text x="175" y="230" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Collateral Deposits (Aave/Compound)</text>
+
+  <rect x="70" y="275" width="210" height="75" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="175" y="300" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">DEX Liquidity Pools</text>
+  <text x="175" y="325" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">AMMs (Uniswap/Curve)</text>
+
+  <rect x="70" y="370" width="210" height="75" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="175" y="395" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">Liquid Staking (LSDs)</text>
+  <text x="175" y="420" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">Validator Delegations (Lido/RocketPool)</text>
+
+  <rect x="70" y="465" width="210" height="75" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="175" y="490" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#34d399" text-anchor="middle">CDP Vaults &amp; Restaking</text>
+  <text x="175" y="515" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#a7f3d0" text-anchor="middle">MakerDAO DAI / EigenLayer</text>
+
+  <!-- Box 2: On-Chain Indexer -->
+  <rect x="335" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#34d399" stroke-width="2"/>
+  <rect x="335" y="120" width="250" height="45" rx="12" fill="#059669"/>
+  <text x="460" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">TVL Calculation Engine</text>
+
+  <rect x="355" y="180" width="210" height="100" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="460" y="210" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#6ee7b7" text-anchor="middle">RPC Node Balance Query</text>
+  <text x="460" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#d1fae5" text-anchor="middle">`eth_call` contract token balance</text>
+  <text x="460" y="255" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#9ca3af">Sum(Token_i * Price_i)</text>
+
+  <rect x="355" y="305" width="210" height="100" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="460" y="335" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#6ee7b7" text-anchor="middle">Oracle Price Feeds</text>
+  <text x="460" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#d1fae5" text-anchor="middle">Chainlink / Pyth Aggregation</text>
+  <text x="460" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#9ca3af">Real-time USD Valuation</text>
+
+  <rect x="355" y="430" width="210" height="110" rx="8" fill="#022c22" stroke="#047857"/>
+  <text x="460" y="460" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#6ee7b7" text-anchor="middle">De-duplication Filter</text>
+  <text x="460" y="485" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#d1fae5" text-anchor="middle">Adjusts for Liquid Staking</text>
+  <text x="460" y="505" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#9ca3af">Net vs. Gross TVL Tracking</text>
+
+  <!-- Box 3: Key Ratios -->
+  <rect x="620" y="120" width="250" height="440" rx="12" fill="url(#boxGrad)" stroke="#60a5fa" stroke-width="2"/>
+  <rect x="620" y="120" width="250" height="45" rx="12" fill="#2563eb"/>
+  <text x="745" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Analytical Metrics</text>
+
+  <rect x="640" y="180" width="210" height="100" rx="8" fill="#022c22" stroke="#1d4ed8"/>
+  <text x="745" y="210" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Mcap / TVL Ratio</text>
+  <text x="745" y="235" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#dbeafe" text-anchor="middle">&lt; 1.0 = Undervalued Signal</text>
+  <text x="745" y="255" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#93c5fd">&gt; 1.0 = High Speculative Premium</text>
+
+  <rect x="640" y="305" width="210" height="100" rx="8" fill="#022c22" stroke="#1d4ed8"/>
+  <text x="745" y="335" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Fee Yield per TVL ($)</text>
+  <text x="745" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#dbeafe" text-anchor="middle">Measures Capital Efficiency</text>
+  <text x="745" y="380" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#93c5fd">Annualized Fee / TVL</text>
+
+  <rect x="640" y="430" width="210" height="110" rx="8" fill="#022c22" stroke="#1d4ed8"/>
+  <text x="745" y="460" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="bold" fill="#93c5fd" text-anchor="middle">Mercenary Capital Ratio</text>
+  <text x="745" y="485" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#dbeafe" text-anchor="middle">Incentivized vs Native TVL</text>
+  <text x="745" y="505" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#93c5fd">Token Emission Dependence</text>
+
+  <!-- Box 4: Defi TVL Ranking -->
+  <rect x="905" y="120" width="245" height="440" rx="12" fill="url(#boxGrad)" stroke="#f59e0b" stroke-width="2"/>
+  <rect x="905" y="120" width="245" height="45" rx="12" fill="#d97706"/>
+  <text x="1027" y="148" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="bold" fill="#ffffff" text-anchor="middle">Ecosystem Category Split</text>
+
+  <text x="1027" y="200" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">1. Liquid Staking (~40%)</text>
+  <text x="1027" y="225" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">Lido, Binance, RocketPool</text>
+
+  <text x="1027" y="280" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">2. Lending Protocols (~25%)</text>
+  <text x="1027" y="305" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">Aave, JustLend, Compound</text>
+
+  <text x="1027" y="360" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">3. Decentralized Exchanges (~15%)</text>
+  <text x="1027" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">Uniswap, Curve, PancakeSwap</text>
+
+  <text x="1027" y="440" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#fcd34d" text-anchor="middle" font-weight="bold">4. Restaking &amp; Bridges (~20%)</text>
+  <text x="1027" y="465" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#d1d5db">EigenLayer, WBTC, WBETH</text>
+
+  <text x="600" y="595" font-family="system-ui, -apple-system, sans-serif" font-size="12" fill="#047857" text-anchor="middle">Hashtag Web3 DeFi Analytics &amp; Architecture Series</text>
+</svg>
