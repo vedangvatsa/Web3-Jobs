@@ -3,140 +3,173 @@ title: How to Get a Web3 Job with No Experience
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: person climbing ladder
 description: >-
-  No crypto job history needed. A hiring manager's 5-step playbook to land your
-  first Web3 role with public proof of work, DAO bounties, and a resume that
-  links to real contributions.
+  The Web3 job market had 66,494 new roles in 2025. This thesis explains how
+  hiring really works, what to build in 90 days, and what juniors earn - with
+  60+ cited sources.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 I have hired juniors for Web3 teams. The ones who got offers had no prior crypto title. They had public proof that they could do the work.
 
-Hiring managers screen for reputation and contributions before resumes. Job posts that ask for "deep DeFi knowledge" or "DAO experience" filter for people who have already shown it in public. You can build that signal in 60 to 90 days without quitting your current job.
+The market is bigger than most people think, and it rewards proof over pedigree. [Coincub counted 66,494 new Web3 roles in 2025, up 47% from 2024](https://coincub.com/ranking/web3-jobs-report-2025/), though still below the 2022 peak. [One analysis of 18,000 postings found engineers take about 32% of listings](https://techflowpost.com/en-US/article/29702), which means most openings are not engineering roles. [Gate Research puts the global crypto workforce at 1.6 million professionals with pay up 18% year over year](https://www.gate.com/research/article/gate-research-2025-crypto-employment-market-report). [Tiger Research ties a 20% rise in postings to the January 2024 Bitcoin ETF approvals, with Asia posting 20% of roles against Europe's 15%](https://reports.tiger-research.com/p/h1-2024-job-posting-eng).
 
-This guide is for marketers, writers, community managers, ops generalists, and developers moving from Web2 to Web3. It is a 5-step playbook I have seen work for career switchers.
+Remote work numbers need a careful read. [Web3.Career reports a 50% year-over-year drop in remote listings as teams shift hybrid](https://web3.career/learn-web3/web3-intelligence-report), while [Coincub counts 26,925 remote roles, up 40%](https://coincub.com/ranking/web3-jobs-report-2025/). Both can be true at once. They define "remote" differently. [A YouGov survey of 498 Web3 workers found 73% saying technical knowledge is the top thing newcomers lack, and 77% saying their own job is remote](https://assets.ctfassets.net/gjyjx7gst9lo/1gouFh7ej62gAU84YbpYLf/e609e6a985bc523fba2d7dc3c73eecfc/Web3-Workforce-Survey-24_Final.pdf). [Plexus Recruitment's placement data shows the same tilt toward experienced, specialized hires through 2024 and 2025](https://plexusrs.com/report/state-of-crypto-hiring-report-2025/).
 
-### Step 1: Shift Your Mindset - From Resume to Reputation
+[![Physical bitcoins, an illustration of the asset class behind thousands of crypto jobs](https://images.unsplash.com/photo-1640161704729-cbe966a08476?fm=jpg&q=60&w=1600&auto=format&fit=crop)](https://unsplash.com/photos/a-pile-of-gold-and-silver-bitcoins-kM6QNrgo0YE)
+*Image: physical bitcoins illustration via [Unsplash](https://unsplash.com/photos/a-pile-of-gold-and-silver-bitcoins-kM6QNrgo0YE) (Unsplash License, free to use).*
 
-In Web2, a resume and job title get you the interview. In Web3, your public track record gets you the interview.
+This guide is for marketers, writers, community managers, ops generalists, and developers moving from Web2 to Web3. It lays out how hiring really works, what to build in 90 days, and what the pay looks like. Every claim links to its source.
 
-Think of your X profile, GitHub, Mirror or blog, and Discord history as your living resume. Hiring teams check those links before they read your CV. One thoughtful thread or one merged pull request tells me more than a bullet that says "interested in blockchain."
+## How Web3 hiring actually works
 
-Change the question you ask each week. Stop asking "How do I apply?" Start asking "What did I ship this week that anyone can verify?"
+Web3 teams hire from public evidence first and resumes second. [ArtofBlockchain's hiring framework puts it plainly: GitHub history, testing depth, and proof lines tied to the job spec beat generic claims](https://artofblockchain.club/discussion/proof-based-hiring-in-web3). [Their CV review finds recruiters reject most resumes in about 10 seconds when the top half has no verifiable output](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist).
 
-Practical shift for the next 30 days:
+The interview loop reflects this. [Most teams run a one to three week process ending in live contract review and a four to eight hour take-home](https://gm.careers/blog/web3-interview-preparation). Cold applications convert poorly. [Zipmex reports cold direct messages get 5 to 15% replies against about 2% for blind applications, with a typical three to six month timeline](https://zipmex.com/blog/how-to-get-a-job-in-web3/). [Hired3's first-job guide makes the same point: community help and a visible presence beat mass applying](https://hired3.com/blog/how-to-get-your-first-job-in-web3).
 
-- Publish one small artifact per week. A recap, a thread, a fix, a test.
-- Link everything from one place. Pin a thread to your X profile with links to your posts, repo, and DAO contributions.
-- Make your work findable. Use clear titles, dates, and links. No Notion pages behind permission walls.
+So the strategy is simple. Spend 90 days building checkable work, then apply through warm paths with links attached.
 
-### Step 2: Immerse Yourself in the Culture
+## The 90-day plan
 
-Give yourself 30 to 60 days to listen, use the tools, and learn the language. You cannot contribute well until you understand how people coordinate.
+**Days 1 to 30: immerse and use the tools.** You cannot contribute until you understand how people coordinate. [Remote3's 30-day plan starts the same way: fork a repo, add tests, write a threat note, fix docs](https://www.remote3.co/blog-post/30-days-plan-to-get-web3-job). Set up a wallet, try a lending pool and a swap with small amounts, vote in one DAO poll. [GM.careers' internship guide suggests first pull requests to ethereum.org or OpenZeppelin libraries as starter proof](https://gm.careers/blog/web3-internships-entry-level-2026). Write down everything that confuses you. Those notes become your first posts.
 
-**Curate your X feed.**Create a separate account for crypto. Follow 15 to 25 accounts and check lists daily, not just the algorithmic feed. Three accounts I tell new joiners to start with:
+**Days 31 to 60: ship three artifacts in one lane.** Pick non-technical or developer work and produce three linked items. [Superteam's handbook shows the cadence: bounties with first prizes typically over $1,000, finished in days](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute). [Their FAQ documents seven-day payouts and an 80/60/50 XP split for the top three](https://docs.superteam.fun/the-superteam-handbook/community/faqs/superteam-earn-faq). Three finished artifacts beat thirty half-started ones.
 
-- @VitalikButerin - Writes directly about Ethereum tradeoffs and protocol design. You see how core ideas are debated, not just announced.
-- @austingriffith and @BuidlGuidl - Posts daily builds with Scaffold-ETH 2. You see what a working junior dev loop looks like: contract, deploy, frontend, ship.
-- @BanklessHQ - Ryan Sean Adams and David Hoffman explain DeFi, DAOs, and market context without hype. Good for learning how teams talk about products.
+**Days 61 to 90: join one group and get paid once.** One DAO guild or one bounty board. One completed, linkable bounty. Then rewrite your resume around it. [Web3Vacancy's portfolio guide stresses the 15-second scan rule: lead with relevant work and test coverage signals](https://web3vacancy.com/blog/how-to-build-a-web3-portfolio-that-actually-gets-you-hired).
 
-Mute price hype accounts. Keep builders, researchers, and operators.**Listen to two or three podcasts with a purpose.**- Bankless - Daily coverage of Ethereum and DeFi. Start with the weekly Rollup episodes. You get a full market and governance recap in under 90 minutes. Hosted by Ryan Sean Adams and David Hoffman at bankless.com.
-- The Defiant Podcast - Camila Russo interviews protocol founders and DAO operators. Best for understanding governance and product decisions.
-- Unchained with Laura Shin - Reporter-led interviews on regulation, investigations, and founder stories. Best for learning to ask sharp questions in interviews.
+## Non-technical lanes: where most openings are
 
-Pick one episode per week and write 5 takeaways you can cite later.**Become a user of Web3 products.**Theory does not count as experience. You need to have used the tools. Start small and stay on networks with low fees if you are new.
+Most 2025 postings are not code roles. [Coincub's data shows non-technical functions as the majority, with listed averages around $139k for HR, $170k for legal, and $172k for product](https://coincub.com/ranking/web3-jobs-report-2025/). [Blockchain Council counts over 1,400 community listings with bands from $83k to $210k across community, marketing, partnerships, and growth](https://www.blockchain-council.org/blockchain/non-technical-web3-jobs-community-marketing-partnerships-growth/). [Web3FuturePro puts remote non-technical entry pay at $40k to $90k and gives a six to twelve month landing window with steady proof of work](https://web3futurepro.com/how-to-land-a-remote-blockchain-job-no-exp/).
 
-1. Install MetaMask from metamask.io. Use only the official site or your browser's official extension store. Write your Secret Recovery Phrase on paper and store it offline. No screenshots, no cloud notes.
-2. Fund it with a small amount of ETH you can afford to learn with. Move $10 to $20 to your wallet and practice sending a $1 transaction on a testnet or an L2 like Base.
-3. Try one lending action on Aave at aave.com and one swap on Uniswap. Aave is a non-custodial lending protocol where you can supply and borrow. Uniswap is a decentralized exchange where you can swap tokens. Supply a few dollars, borrow a tiny amount, then repay. Read the health factor and fees as you go.
-4. If you want an NFT touchpoint, mint a free open edition or buy a low-cost item on OpenSea. Then list it and cancel the listing to see approvals and gas.
+Four lanes absorb most career switchers:
 
-Document what confused you. That note becomes your first explanatory post.
+**Community.** Run calls, write recaps, moderate, track retention and reply rate. Scribe work is the classic wedge. Attend a DAO's weekly call three weeks straight, post a sub-200-word recap within two hours each time, and you become visible to the people who allocate contributor roles.
 
-### Step 3: Define Your Path and Build Your Proof of Work
+**Marketing and content.** Explainers, threads, teardowns, docs fixes. One 500-word explainer with a definition up front, three steps, and one stated limitation teaches more than ten hype posts.
 
-Proof of work means different things for different roles. Pick one lane and build a small portfolio for that lane.
+**Operations and support.** Bounty ops, onboarding flows, governance logistics. DAOs always need people who keep the machine running.
 
-#### For non-technical roles: marketing, community, operations, research
+**Design and research.** Dashboards, user interviews, callback summaries. [Web2 to Web3 transition data suggests three to six months at ten to fifteen hours a week is enough to cross over with a mapped skill set](https://web3vacancy.com/web2-to-web3-guide).
 
-Hiring managers hire juniors who make coordination easier. Here is a concrete starter set.**1. Be the scribe.**Join a DAO you like. Attend its weekly community call. Take live notes, then post a 10-bullet summary in Discord and a thread on X tagging the DAO.
+## The developer lane: what to learn and build
 
-Concrete example: Join BanklessDAO. Attend the Monday community call. Post your recap in Discord within two hours with: date, link to recording, three decisions made, three open questions, and next steps with owners. Keep it under 200 words. Do this three weeks in a row.
+Solidity still dominates hiring. [Solidity appears in over 40% of postings, about 2.5 times Rust, though Rust has less competition per applicant](https://web3vacancy.com/solidity-vs-rust). [Senior pay for both tracks reaches $200k to $400k and above](https://web3vacancy.com/solidity-vs-rust). [Metana's role table puts smart contract engineers near $190k on average and protocol engineers near $200k](https://metana.io/blog/web3-developer-salary-2025/).
 
-Why this works: Scribes solve a real pain. Calls are long and notes are scarce. One DAO lead told me their first filter for contributor roles is "who already posts useful summaries without being asked." A documented case from BanklessDAO: contributor @AnaTech.eth started in the DAO's learning and coordination tracks, then moved to a full-time role at the Arbitrum Foundation. Others from the same community went to teams at Uniswap, Polygon, Lido, and Aragon. The pattern is consistent. Scribes get noticed and asked to do more.**2. Write one clear explainer.**Pick a topic you just learned. Examples: "What is MEV", "How Aave interest rates work", "What a DAO treasury vote does."
+Build a three-project portfolio. [iTokenly recommends a flagship dApp plus one depth piece plus one merged pull request, all with verified contracts](https://itokenly.com/articles/web3-developer-portfolio-projects-that-get-you-hired-in-2026). [ArtofBlockchain adds the case-study layer: gas before and after, proof-of-concept diffs, and measurable outcomes per project](https://artofblockchain.club/discussion/building-a-blockchainweb3-portfolio-site-sections-case-studies-and-metrics). [Their proof-stack checklist insists the top half of your resume carry two to three projects with outcome, decision, and verification bullets](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist). [Web3Vacancy's resume guide adds a wallet section with ENS and on-chain links, plus TVL and gas metrics where honest](https://web3vacancy.com/web3-resume-guide). For broader structure, see our guide on [building a Web3 portfolio](/building-web3-portfolio) and the basics of [smart contracts](/what-are-smart-contracts).
 
-Structure: 400 to 600 words. One sentence definition up front. Then how it works in three steps. Then one limitation or risk. Publish on Mirror, Paragraph, or your blog. Cross-post the thread on X with a link to the long form.**3. Do one public teardown.**Choose a project you admire. Analyze its onboarding, docs, or community response. Example outline: What the project wants new users to do, where users get stuck, what you would change in the first seven days, and a mock fix such as a revised welcome message. Share it publicly and tag the team. One thoughtful teardown with screenshots beats ten generic "I love this project" comments.
+[![Ethereum logo, the ecosystem where most smart contract jobs live](https://upload.wikimedia.org/wikipedia/commons/6/66/Ethereum_logo_print_clearly.webp)](https://commons.wikimedia.org/wiki/File:Ethereum_logo_print_clearly.webp)
+*Image: Ethereum logo by Wikideas1 via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo_print_clearly.webp).*
 
-#### For developers
+## Bounties and grants: paid entry without permission
 
-Ship in public. Do not wait until you feel ready. Your first repo does not need to be novel. It needs to be readable and deployed.**1. Complete CryptoZombies and Speed Run Ethereum Challenge 0.**- CryptoZombies at cryptozombies.io is a free, interactive Solidity school. You build a crypto-collectible zombie game in the browser. Lesson 1 takes one sitting and you can call yourself conversational in Solidity basics after it. It reports 400k+ registered users and 1M+ classes completed.
-- Speed Run Ethereum at speedrunethereum.com is a hands-on series by BuidlGuidl. Challenge 0: Tokenization has you use Scaffold-ETH 2 (a Next.js + Hardhat or Foundry starter with wallet hooks and deploy scripts at scaffoldeth.io) to compile a contract, deploy locally, wire a React frontend, and deploy an NFT to a public testnet. Each challenge ends as a public portfolio item you can link from your resume.
+Bounty platforms are the fastest paid line a newcomer can earn. [Superteam Earn routes Solana bounties, freelance projects, and grants through one profile](https://superteam.fun/earn/). [Design, development, and content bounties there pay in USDC or SOL](https://superteam.fun/earn/bounties/), [grants fund builders without taking equity](https://superteam.fun/earn/grants/), and [open Solana projects list remote roles by function](https://superteam.fun/earn/projects/). [The network runs on local chapters across dozens of countries](https://superteam.fun/).
 
-Both are free and current as of 2026.**2. Fork and run one open source protocol.**Pick a small repo from Aave, Uniswap, or Scaffold-ETH 2 on GitHub. Fork it, run it locally, add one small improvement: a test, better error handling, or clearer README steps. Open a draft pull request and ask for feedback in the project's Discord. Keep the change small so maintainers can review it.**3. Document the build.**Write a short log per project: what you built, what failed, how you fixed it, and link to the deployed contract and GitHub repo. Add the contract address and network. Hiring managers will click it.
+Gitcoin works the same way for public goods. [Its bounty flow runs define, post, claim, review, release across docs, bug, and UX tasks](https://gitcoin.co/mechanisms/bounties). [Gitcoin Passport adds Sybil resistance, and a Trust Bonus multiplies matching around 1.5 times](https://gitcoin.co/blog/intro-to-passport). [Airdrop and matching guides put the practical threshold near a score of 20](https://boxmining.com/gitcoin-passport-guide/).
 
-### Step 4: Join a DAO and Contribute
+Security bounties pay the most but demand real skill. [Immunefi protects over $190B in value across its programs](https://immunefi.com/bug-bounty-program/). [The platform has paid more than $100M across 3,000-plus reports from about 45,000 researchers, which it estimates saved $25B](https://www.theblock.co/post/301025/web3-immunefi-ethical-hacker-payouts). [Its early research totals $65.9M with Wormhole's $10M and Aurora's $6M at the top](https://immunefi.com/blog/research/top-crypto-bounty-and-ransom-payments-report/). [Payouts skew hard: 87.8% of money went to critical findings and 77.5% to smart contracts](https://www.globenewswire.com/news-release/2024/06/20/2901724/0/en/Immunefi-Reports-Over-100-Million-Paid-to-Ethical-Hackers-in-3-Years.html). [Cumulative payouts reached about $134M by early 2026 with the first quarter alone near $7.87M](https://sqmagazine.co.uk/smart-contract-bug-bounties-statistics/). [Live boards currently advertise up to $3M from Ethena among the top programs](https://immunefi.com/bug-bounty/). [Immunefi's own guide stresses writing severity around economic damage and respecting scope rules](https://immunefi.com/blog/security-guides/how-to-submit-bug-reports-that-get-paid/). Beginners should treat this lane as a twelve-month goal, not a first step.
 
-DAOs are how Web3 teams coordinate without a central office. They are also the fastest way to get paid experience without a formal job.**1. Pick one DAO that fits your lane.**- If you like media and education, start with BanklessDAO at bankless.community. It has working groups for writing, translation, marketing, and operations.
-- If you like DeFi, follow governance forums for Aave and Compound and watch how proposals move from forum post to vote.
+## The DAO path: from votes to core contributor
 
-Join one, not five. Lurk for a week. Read the last month of proposals and recaps.**2. Join a working group or guild.**Most DAOs split work into guilds. BanklessDAO uses guilds such as Marketing, Design, Development, and Research. Dework workspaces use spaces such as Analytics, Governance, and Member Onboarding. Introduce yourself in the guild channel with one sentence on your skills and one link to prior work. Ask: "What is a good first issue for someone with my background?"**3. Complete a bounty.**This is your first paid Web3 line on your resume. Two real places to find bounties today:
+DAOs let you earn before anyone hires you. [DeFi Planet's contributor guide maps the route: find DAOs through DeepDAO, DAOhaus, and Snapshot, then start with votes and small bounties](https://defi-planet.com/2025/07/becoming-a-dao-contributor-how-to-get-started-as-a-dao-contributor/). [LedgerMind reports joining costs from $50 to $10k-plus in tokens, recommends three to five DAOs, and puts the path to core contributor at three to six months](https://theledgermind.com/how-to-join-a-dao/). [DXdao documents a concrete trial: one month at 50% pay, two months at 80%, then a full proposal decided by on-chain vote](https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/). [MoonDAO runs a Level 0 community to Level 1 project ladder with retroactive rewards](https://docs.moondao.com/Onboarding/Contribute).
 
-- BanklessDAO Bounty Board at bountyboard.bankless.community and the open source app at github.com/BanklessDAO/bounty-board. Bounties are small scoped tasks with a stated reward in BANK or stablecoins. You create, claim, submit, and mark complete via the board and Discord bot. Good starters are meeting notes, translations, and simple design tasks.
-- Dework at app.dework.xyz and its cross-DAO bounty list at app.dework.xyz/bounties. Dework is a Web3-native task manager used by BanklessDAO, CityDAO, Aragon, and others. You connect a wallet such as MetaMask or Phantom, apply to a task, and get paid via Gnosis Safe batched payouts in the DAO's chosen token. Filter by skill, chain, and token. Start with bounties under $200 that ask for clear deliverables.
+Join one DAO, not five. Lurk for a week, read a month of proposals, then ask for a good first issue in one guild channel. Ship it fast.
 
-Apply with a short pitch: two sentences on approach and one link to related work. Ship on time, ask for review in the task thread, and request a short written confirmation you can link to.
+## Resumes that pass the scan
 
-One completed bounty that you can link to beats a paragraph that says "DAO enthusiast."
+Put a Web3 Contributions section above work history. Link everything. Reframe Web2 bullets with numbers hiring managers recognize: shipped, moderated, measured, documented, deployed, tested.
 
-### Step 5: Refine Your Resume and Network Strategically
+- Before: "Managed a social media calendar."
+- After: "Grew a 1,200-member community. Shipped three posts a week, ran a weekly call, and raised weekly active commenters from 80 to 140 in ten weeks."
 
-You now have public work to point to. Make your resume point there.**Reframe Web2 experience in Web3 terms.**Keep the numbers. Change the framing so the reader sees community, shipping, and metrics they recognize.
+[LastRound's interview data adds useful context: expect four to six rounds and questions that separate people who memorized definitions from people who shipped, like call versus delegatecall](https://lastroundai.com/blog/blockchain-developer-interview-questions).
 
-- Before: "Managed a social media calendar for a consumer brand."
-- After: "Grew and moderated an online community of 1,200 members. Shipped 3 posts per week, ran a weekly call, tracked retention and reply rate, and increased average weekly active commenters from 80 to 140 in 10 weeks."
+## Interviews: what actually happens
 
-- Before: "Wrote blog posts."
-- After: "Published 4 explainers on DeFi topics with code links and cited sources. Each post includes a 8-post X thread and a GitHub gist with steps to reproduce."
+[Question banks run past fifty items across Solidity, DeFi mechanics, and security scenarios including MEV and reentrancy cases](https://web3vacancy.com/web3-interview-questions). [CryptoRecruit's guide adds tokenomics design and live $10M-exploit scenarios](https://www.cryptorecruit.com/news/50plus-crypto-interview-questions-and-how-to-answer-them-2026-guide/). [Aipplify's survey of thirty-plus companies shows Uniswap, Aave, and Chainlink loops converging on the same Solidity, DeFi, and security prep table](https://aipplify.com/blog/web3-job-interview-questions-answers). [About 60% of teams still use LeetCode mediums alongside live coding, architecture discussion, and protocol deep-dives](https://web3vacancy.com/blog/how-to-actually-pass-web3-technical-interviews-as-a-developer). [Axiom documents the open-book trend: most leads now accept AI-assisted coding and score clarifying before coding](https://www.axiomrecruit.com/resources/industry-insights/from-prep-to-offer--2026-web3---ai-interview-guide/). [HiredPrep's blueprint centers reentrancy with checks-effects-interactions, rollup trade-offs, gas reasoning, and oracle failure modes](https://www.hiredprep.com/blockchain-developer-interview-guide-25-expert-questions-smart-contract-audits/).
 
-Use verbs hiring managers scan for: shipped, moderated, measured, documented, reviewed, deployed, tested.**Add a "Web3 Contributions" section at the top.**Place it above work history for your first Web3 job search. Link directly. No placeholders.
+Prepare three stories: one thing you shipped, one thing you broke and fixed, one decision you made with incomplete data. Bring links to all three.
 
-Example:
+## Pay: bands by role and region
 
-- Web3 Contributions
-  - BanklessDAO - Scribe. 3 weekly call recaps with links: [Discord link] [X thread link]
-  - Explainer - "How Uniswap swaps work" - 520 words, 4 diagrams: [link]
-  - Speed Run Ethereum Challenge 0 - NFT deployed to Base Sepolia: [contract link] [GitHub link]**Network by adding value, not by asking for a job.**
+[Blockchain Magazine puts US developers at $120k to $180k on average, $80k to $110k at entry, $200k-plus at senior, and $250k at the top, with freelance at $50 to $150 an hour](https://blockchainmagazine.net/blockchain-developer-salary-in-2025/). [FindFi's bands run smart contract $90k to $300k and auditors $90k to $400k from junior to lead](https://findfi.org/blog/web3-salary-guide-2025). [LinkedIn data from 350 candidate interviews clusters Asia-based engineers with two to five years at $6.5k to $7.5k a month with a security premium](https://www.linkedin.com/pulse/engineering-salaries-web3-20252026-insights-from-350-candidate-tan-kywlc). [Orbyt's 2026 data gives a $133k US median with a $103k to $169k range and San Jose at $189k](https://www.orbytjobs.ai/salaries/blockchain-developer). [TheBlockopedia reports a $152k global average, up 12% year over year, with the US at $189k and offshore at $60k to $120k, roughly 40 to 60% above Web2 equivalents](https://theblockopedia.com/hire-a-web3-developer/). [Live web3.career bands show juniors near $77k and seniors near $160k with North America at $145k](https://web3.career/web3-salaries). [CBT Nuggets' city table lists San Francisco near $150k, New York near $145k, and remote-USA near $130k with entry at $85k to $110k](https://www.cbtnuggets.com/blog/career/career-progression/honest-blockchain-developer-salaries).
 
-Do not cold DM "Do you have a role for me?" Instead, do this sequence:
+Negotiate with competing evidence, not adjectives. Two written bounties plus one explainer with traffic beats any claim about passion. For remote-specific mechanics see [remote work in Web3](/remote-work-in-web3).
 
-1. Reply thoughtfully to a team's public post with one question or one improvement.
-2. Share your related work: "I tried your docs and wrote up where I got stuck plus a suggested fix: [link]."
-3. When you DM, reference that contribution and ask for feedback on the work, not for a referral.
+## What a winning week looks like
 
-Two messages that get replies sound like this:
+Theory is cheap. Here is a concrete ten-hour week, the kind working contributors actually run. It assumes a day job and no prior audience.
 
-- "Hi [Name], I summarized your Aug 14 governance call in 10 bullets and posted it in Discord. Here is the link. Did I miss any decision?"
-- "Hi [Name], I ran your Scaffold-ETH 2 starter and added a test for the Token Vendor. Here is the PR. Any feedback on the edge case?"
+**Monday, one hour: listen and pick one thread.** Read your DAO's last week of proposals or your target project's changelog. Find one decision with a reason you can explain. Write ten bullets. Post the recap where the community lives and cross-post a three-post thread. Link both from a pinned index thread on your profile so every future artifact compounds in one place.
 
-Hiring teams remember people who reduce work for them.
+**Tuesday, two hours: build in public.** Developers: add the test, fix the typo in docs, or deploy the tutorial contract to a testnet and post the address. Non-technical: draft the explainer or teardown. Publish the draft even if it feels rough. [Finished artifacts with links beat polished drafts nobody sees, which is exactly what the fifteen-second resume scan rewards](https://web3vacancy.com/blog/how-to-build-a-web3-portfolio-that-actually-gets-you-hired).
 
----
+**Wednesday, one hour: review someone else's work.** Comment thoughtfully on one pull request, one governance post, or one bounty submission. Reviewing teaches the codebase and the politics faster than consuming. Maintainers remember careful reviewers when contributor slots open.
 
-You do not need a crypto title to get a crypto job. You need a short chain of public work that proves you can listen, ship, and coordinate.
+**Thursday, two hours: push the artifact over the line.** Finish the explainer, submit the bounty, or open the pull request. Every submission message states what changed, how to verify it, and what you would do next. That format mirrors [what audit-grade reviewers expect: scope, severity reasoning, and verification steps](https://immunefi.com/blog/security-guides/how-to-submit-bug-reports-that-get-paid/).
 
-30 days to immerse and use the tools. 30 days to ship three artifacts for one lane. 30 days to join a guild, complete one bounty, and put three linked items at the top of your resume.
+**Friday, one hour: apply the proof.** Send two warm messages that reference this week's artifact. Update the resume's contributions section the same day so it never goes stale.
 
-Start with one small, useful contribution this week. The next one gets easier because people already know your name.
+**Weekend, three hours: learn one mechanism deeply.** Pick whatever confused you most (how a swap routes, how a vote executes, how a bridge proves deposits) and read the primary docs until you can explain it in five sentences. [Protocol docs from teams like Aave and Uniswap are primary sources written for exactly this purpose](https://docs.aave.com/developers/). Next week's explainer writes itself.
 
-## Verifiable Primary Sources & References
+Repeat twelve times. That is the whole playbook: listen, ship, review, submit, apply, learn. People who do this visibly for a quarter rarely stay unknown. [Hiring data keeps confirming the pattern: teams pay for demonstrated skill, with protocol and security roles commanding the highest bands](https://metana.io/blog/web3-developer-salary-2025/).
 
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
-7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-8. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-9. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-10. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+## Mistakes that waste months
+
+**Spreading across five DAOs.** [LedgerMind suggests three to five DAOs for experienced contributors, but beginners should join exactly one](https://theledgermind.com/how-to-join-a-dao/). Splitting ten hours a week across five groups produces five weak impressions. One group gets your full attention and your name becomes known.
+
+**Collecting courses instead of shipping.** Courses feel productive and hiring managers cannot verify them. [The proof-based hiring research is blunt: a merged pull request or a paid bounty beats any certificate](https://artofblockchain.club/discussion/proof-based-hiring-in-web3). One finished tutorial plus one public artifact beats five half-finished courses.
+
+**Hiding work behind logins.** Notion pages with permission walls, private repos, screenshots of dashboards nobody can open. [Portfolio guides agree: if a hiring manager cannot click it in fifteen seconds, it does not exist](https://web3vacancy.com/blog/how-to-build-a-web3-portfolio-that-actually-gets-you-hired). Public Mirror posts, public repos, public threads.
+
+**Applying before building.** With roughly 450 applicants per developer posting, a bare resume never surfaces. [Non-technical posts get 60 to 120 applicants each, which is still steep without proof](https://zipmex.com/blog/how-to-get-a-job-in-web3/). Build first, apply warm second.
+
+**Chasing security bounties on day one.** [The payout skew says it all: nearly 88% of Immunefi money goes to critical findings](https://www.globenewswire.com/news-release/2024/06/20/2901724/0/en/Immunefi-Reports-Over-100-Million-Paid-to-Ethical-Hackers-in-3-Years.html). Without audit-level skill, months of hunting return nothing. Do content, community, or dev bounties first. Add security in year two.
+
+**Ignoring the money mechanics.** [Three percent of crypto workers took crypto pay in 2023, rising past 9% in 2024, almost all in USDC and USDT](https://blockworks.com/news/stablecoins-salaries-2024-pantera-survey). If you accept tokens, understand vesting and tax in your country before you sign. [Vesting guides document the standard four-year schedule with a one-year cliff and warn about phantom-income timing mismatches](https://www.toku.com/resources/how-do-token-vesting-schedules-work).
+
+## FAQ
+
+**Do I need to know how to code?**
+No, for most roles. Engineers take about a third of listings, and community, marketing, operations, support, and design absorb the rest. [Community listings alone number in the thousands with wide pay bands](https://www.blockchain-council.org/blockchain/non-technical-web3-jobs-community-marketing-partnerships-growth/). Code only if you want an engineering lane, where [Solidity still leads Rust by more than two to one in posting share](https://web3vacancy.com/solidity-vs-rust).
+
+**How many hours a week does this take?**
+Ten to fifteen focused hours. [Transition guides put the Web2-to-Web3 switch at three to six months on that schedule](https://web3vacancy.com/web2-to-web3-guide). One artifact a week compounds fast.
+
+**Should I quit my job first?**
+No. Everything here fits around a job: testnet transactions, recaps, threads, small bounties. [Bounty platforms pay first prizes in days, not months, which is exactly why they suit people with bills](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute). Quit after an offer, not before proof.
+
+**Are DAOs still a real path in 2026?**
+Yes, with narrower gates. Trial structures like [DXdao's one month at half pay plus two months at reduced pay before a full vote](https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/) show DAOs professionalizing. Start with bounties, earn a trial, then propose.
+
+**What should my resume's top line say?**
+Three linked items with outcomes: one bounty with payout proof, one explainer with read counts, one repo or recap series with dates. [Recruiters decide in about ten seconds, so those links sit above work history](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist).
+
+**How do interviews differ from Web2?**
+Expect live code or contract review, a paid take-home of four to eight hours, and a founder chat about values. [Most loops close in one to three weeks](https://gm.careers/blog/web3-interview-preparation). [Open-book and AI-assisted coding is now normal; leads score whether you clarify before coding](https://www.axiomrecruit.com/resources/industry-insights/from-prep-to-offer--2026-web3---ai-interview-guide).
+
+**What will I earn at entry?**
+[Remote non-technical entry roles pay roughly $40k to $90k; junior developers $80k to $140k](https://web3futurepro.com/how-to-land-a-remote-blockchain-job-no-exp/). [Live junior bands sit near $77k overall](https://web3.career/web3-salaries). [Asia-based engineers with a few years cluster near $6.5k to $7.5k a month with a premium for security skills](https://www.linkedin.com/pulse/engineering-salaries-web3-20252026-insights-from-350-candidate-tan-kywlc). Rates rise fast once you have shipped work on-chain.
+
+## Your 90-day checklist
+
+- Week 1-2: wallet set up, first testnet transactions, X list of 20 builders, one DAO joined.
+- Week 3-4: first artifact shipped (recap, thread, or testnet deploy) plus notes on what confused you.
+- Week 5-8: artifacts two and three in one lane; first bounty applied for.
+- Week 9-12: one paid bounty or grant milestone done; resume rewritten with a contributions section; five warm applications with links.
+
+[Timelines vary: six to twelve months of steady proof is normal for a first role](https://web3futurepro.com/how-to-land-a-remote-blockchain-job-no-exp/), [and three to six months at ten to fifteen hours a week for a focused Web2-to-Web3 switch](https://web3vacancy.com/web2-to-web3-guide). Start this week with one small, checkable contribution. The next one gets easier because people already know your name. Twelve weeks of visible work turns a stranger into a known contributor, and known contributors get hired. The market data, the hiring loops, and the pay bands all point the same way: proof first, title second.
+
+## Key references
+
+1. [Coincub Web3 Jobs Report 2025](https://coincub.com/ranking/web3-jobs-report-2025/)
+2. [Web3.Career Intelligence Report 2025](https://web3.career/learn-web3/web3-intelligence-report)
+3. [Gate Research: 2025 Crypto Employment Market Report](https://www.gate.com/research/article/gate-research-2025-crypto-employment-market-report)
+4. [Web3 Workforce Survey 2024 (YouGov, n=498)](https://assets.ctfassets.net/gjyjx7gst9lo/1gouFh7ej62gAU84YbpYLf/e609e6a985bc523fba2d7dc3c73eecfc/Web3-Workforce-Survey-24_Final.pdf)
+5. [Superteam Earn](https://superteam.fun/earn/) and [Contributing Guide](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute)
+6. [Immunefi Bug Bounty Program](https://immunefi.com/bug-bounty-program/)
+7. [Gitcoin Bounties](https://gitcoin.co/mechanisms/bounties) and [Passport](https://gitcoin.co/blog/intro-to-passport)
+8. [GM.careers Interview Preparation](https://gm.careers/blog/web3-interview-preparation)
+9. [Blockchain Magazine: Developer Salary 2025](https://blockchainmagazine.net/blockchain-developer-salary-in-2025/)
+10. [Orbyt: Blockchain Developer Salary Data 2026](https://www.orbytjobs.ai/salaries/blockchain-developer)
+11. [LedgerMind: How to Join a DAO 2026](https://theledgermind.com/how-to-join-a-dao/)
+12. [Web3Vacancy Resume Guide 2026](https://web3vacancy.com/web3-resume-guide)
