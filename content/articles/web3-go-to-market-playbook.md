@@ -3,15 +3,14 @@ title: 'The Web3 Go-To-Market Playbook: From Community to Conversion'
 image: /images/articles/charts/gtm-airdrop-drawdown.svg
 data-ai-hint: airdrop drawdown data chart
 description: >-
-  A research-backed Web3 go-to-market thesis: token launches, airdrop science,
-  quest economics, KOL math, and the metrics that predict retention. 70 cited sources.
+  How Web3 projects launch and grow: token design, airdrop science, quest economics, creator math, and retention metrics.
 category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 ---
 Launching in [Web3](/what-is-web3) punishes teams that copy Web2 playbooks. Paid ads and sales funnels fight the culture instead of using it. The numbers explain why this matters: [about 20,000 crypto projects compete while roughly 70% shut down within two years](https://www.blockchainappfactory.com/blog/crypto-content-marketing-strategy-how-to-build-web3-authority/), and [85% of projects lose their community after the token generation event](https://www.ment.tech/blog/web3-marketing-strategy/). [DappRadar counted 2.3 million daily unique active wallets in 2024](https://www.ment.tech/blog/web3-marketing-strategy/), so the audience exists. Keeping it is the hard part.
 
-This guide works through go-to-market the way the data says it works: community before product, token design as strategy, airdrops as science, quests and creators as paid channels with measurable returns, and metrics that predict retention instead of vanity. Each claim links to its source. For the companion piece on our own site, see [the modern Web3 GTM strategy guide](https://hashtagweb3.com/gtm-strategy-for-web3-projects).
+This guide works through go-to-market the way the data says it works: community before product, token design as strategy, airdrops as science, quests and creators as paid channels with measurable returns, and metrics that predict retention instead of vanity. For the companion piece on our own site, see [the modern Web3 GTM strategy guide](https://hashtagweb3.com/gtm-strategy-for-web3-projects).
 
 ## Why Web3 GTM differs from Web2 GTM
 

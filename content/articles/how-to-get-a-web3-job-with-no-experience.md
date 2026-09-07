@@ -3,9 +3,7 @@ title: How to Get a Web3 Job with No Experience
 image: /images/articles/charts/jobs-salary-bands.svg
 data-ai-hint: web3 salary bands chart
 description: >-
-  The Web3 job market had 66,494 new roles in 2025. This thesis explains how
-  hiring really works, what to build in 90 days, and what juniors earn - with
-  60+ cited sources.
+  The Web3 job market had 66,494 new roles in 2025. How hiring works, what to build in 90 days, and what juniors earn.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
@@ -16,7 +14,7 @@ The market is bigger than most people think, and it rewards proof over pedigree.
 
 Remote work numbers need a careful read. [Web3.Career reports a 50% year-over-year drop in remote listings as teams shift hybrid](https://web3.career/learn-web3/web3-intelligence-report), while [Coincub counts 26,925 remote roles, up 40%](https://coincub.com/ranking/web3-jobs-report-2025/). Both can be true at once. They define "remote" differently. [A YouGov survey of 498 Web3 workers found 73% saying technical knowledge is the top thing newcomers lack, and 77% saying their own job is remote](https://assets.ctfassets.net/gjyjx7gst9lo/1gouFh7ej62gAU84YbpYLf/e609e6a985bc523fba2d7dc3c73eecfc/Web3-Workforce-Survey-24_Final.pdf). [Plexus Recruitment's placement data shows the same tilt toward experienced, specialized hires through 2024 and 2025](https://plexusrs.com/report/state-of-crypto-hiring-report-2025/).
 
-This guide is for marketers, writers, community managers, ops generalists, and developers moving from Web2 to Web3. It lays out how hiring really works, what to build in 90 days, and what the pay looks like. Every claim links to its source.
+This guide is for marketers, writers, community managers, ops generalists, and developers moving from Web2 to Web3. It lays out how hiring really works, what to build in 90 days, and what the pay looks like.
 
 ## How Web3 hiring actually works
 

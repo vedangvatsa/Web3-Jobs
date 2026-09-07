@@ -3,13 +3,12 @@ title: The Remote Web3 Team Playbook
 image: /images/articles/charts/remote-work-modes.svg
 data-ai-hint: remote work distribution chart
 description: >-
-  A research-backed thesis on running remote Web3 teams: async systems, DAO pay,
-  crypto payroll, OpSec, and token comp. 65+ cited sources.
+  How remote Web3 teams operate: async systems, DAO pay, crypto payroll, security, and token compensation.
 category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 ---
-Web3 runs remote while the rest of tech marches back to the office. [Fully in-office roles jumped from 65% in late 2025 to 87% by mid-2026](https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends), yet [69% of workers would take a pay cut to stay remote and 85% rank it the top application factor](https://www.flexjobs.com/blog/post/future-of-remote-work-trends-report). Crypto teams never left: borderless hiring is a structural edge, not a perk. This guide covers how the best ones operate: async systems, time-zone math, DAO pay, crypto payroll, security against real adversaries, culture without an office, token comp, contractor law, and legal wrappers. Every claim links to its source. For the individual side, see [remote work in Web3](/remote-work-in-web3).
+Web3 runs remote while the rest of tech marches back to the office. [Fully in-office roles jumped from 65% in late 2025 to 87% by mid-2026](https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends), yet [69% of workers would take a pay cut to stay remote and 85% rank it the top application factor](https://www.flexjobs.com/blog/post/future-of-remote-work-trends-report). Crypto teams never left: borderless hiring is a structural edge, not a perk. This guide covers how the best ones operate: async systems, time-zone math, DAO pay, crypto payroll, security against real adversaries, culture without an office, token comp, contractor law, and legal wrappers. For the individual side, see [remote work in Web3](/remote-work-in-web3).
 
 ## Async first, or meetings eat the team
 
