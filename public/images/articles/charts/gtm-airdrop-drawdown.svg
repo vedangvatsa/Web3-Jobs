@@ -13,14 +13,14 @@ text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Ar
 <text x="380" y="78"><tspan fill="#f59e0b">■</tspan> token price</text>
 <g>
 <text x="20" y="112">Starknet / STRK</text>
-<rect class="a" x="200" y="98" width="256" height="16" rx="4"/><text class="num" x="200" y="94">-80</text>
-<rect class="b" x="200" y="118" width="291" height="16" rx="4"/><text class="num" x="200" y="150">-91</text>
+<rect class="a" x="200" y="98" width="256" height="16" rx="4"/><text class="num" x="464" y="111">-80</text>
+<rect class="b" x="200" y="118" width="291" height="16" rx="4"/><text class="num" x="499" y="131">-91</text>
 <text x="20" y="188">ZKsync / ZK</text>
-<rect class="a" x="200" y="174" width="128" height="16" rx="4"/><text class="num" x="200" y="170">-40</text>
-<rect class="b" x="200" y="194" width="214" height="16" rx="4"/><text class="num" x="200" y="226">-67</text>
+<rect class="a" x="200" y="174" width="128" height="16" rx="4"/><text class="num" x="336" y="187">-40</text>
+<rect class="b" x="200" y="194" width="214" height="16" rx="4"/><text class="num" x="422" y="207">-67</text>
 <text x="20" y="264">LayerZero / ZRO</text>
-<rect class="a" x="200" y="250" width="272" height="16" rx="4"/><text class="num" x="200" y="246">-85</text>
-<rect class="b" x="200" y="270" width="74" height="16" rx="4"/><text class="num" x="200" y="302">-23</text>
+<rect class="a" x="200" y="250" width="272" height="16" rx="4"/><text class="num" x="480" y="263">-85</text>
+<rect class="b" x="200" y="270" width="74" height="16" rx="4"/><text class="num" x="282" y="283">-23</text>
 </g>
 <line class="zero" x1="200" y1="42" x2="200" y2="312"/>
 <text x="20" y="322" font-size="12">LayerZero kept 4x more price than peers; its Sybil hunt is the documented difference.</text>
