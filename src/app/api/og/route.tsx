@@ -20,6 +20,8 @@ export async function GET(request: NextRequest) {
     const subtitle = searchParams.get('subtitle') || '';
     const bodyText = searchParams.get('body') || '';
     const tagline = searchParams.get('tagline') || 'Subscribed by 60k+ Web3 builders and professionals.';
+    const count = searchParams.get('count') || '';
+    const salary = searchParams.get('salary') || '';
 
     const baseContainerStyle = {
       height: '100%',
