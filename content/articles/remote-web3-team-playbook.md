@@ -101,13 +101,13 @@ Set the security baseline in the same week: hardware key enrolled, multisig sign
 
 ## FAQ
 
-**How many hours of overlap do we need?**
+**Overlap hours needed**
 Two to four, protected for decisions. Everything else goes async with 24-hour response SLAs.
 
 **Stablecoins or native tokens for pay?**
 Stablecoin base, native upside, four-year vesting, documented bands. The survey data backs exactly this split.
 
-**How do we stop fake applicants?**
+**Stopping fake applicants**
 Video verification by two humans, paid trial tasks, hardware keys from day one, and no treasury-adjacent access in quarter one. Assume the pipeline is targeted, because reporting shows it is.
 
 **EOR or contractors?**
@@ -116,7 +116,7 @@ Contractors for scoped, part-time work. EOR the moment someone works full-time o
 **Does async slow teams down?**
 It slows chat and speeds decisions. Written proposals with comment windows beat five time-zone meetings for everything except conflict and brainstorming.
 
-**How do we pay contributors across ten countries?**
+**Paying contributors across countries**
 One rail, monthly invoicing, on-chain records. Stablecoin base with token upside matches both the survey data and contributor preference. [Hybrid fiat-crypto](https://www.riseworks.io/blog/guide-to-hybrid-cash-crypto-payroll) runs with USDC partnerships and KYC checks are the documented standard. [Fee](https://www.riseworks.io/blog/top-9-crypto-payroll-platforms) tables show the market clearly: from $50 a contractor monthly to low single-digit percentages depending on volume.
 
 **What legal cover does a DAO need?**
