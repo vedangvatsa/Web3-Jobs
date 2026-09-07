@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="dmh-title dmh-desc">
+<title id="dmh-title">DeFi Analyst Protocol Evaluation and Quantitative Valuation Framework</title>
+<desc id="dmh-desc">A hierarchical breakdown of on-chain analytical metrics used by DeFi analysts to assess protocol solvency, real yield, and retention.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.row-bg{fill:#f8fafc}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.badge1{fill:#3b82f6}.badge2{fill:#10b981}.badge3{fill:#f59e0b}.badge4{fill:#ef4444}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">DeFi Protocol Evaluation and Risk Hierarchy</text>
+<text x="24" y="50" font-size="11" fill="#64748b">Primary quantitative metrics, on-chain data sources, and analytical verification models</text>
+
+<!-- Header -->
+<line class="grid" x1="20" y1="65" x2="620" y2="65"/>
+<text x="28" y="82" class="header">Analytical Domain</text>
+<text x="175" y="82" class="header">Primary Metrics</text>
+<text x="330" y="82" class="header">Tooling &amp; Data Feeds</text>
+<text x="490" y="82" class="header">Risk Indicator</text>
+<line class="grid" x1="20" y1="92" x2="620" y2="92"/>
+
+<!-- Row 1 -->
+<rect class="row-bg" x="20" y="94" width="600" height="50" rx="4"/>
+<text x="28" y="116" font-weight="600">Liquidity &amp; Velocity</text>
+<text x="28" y="132" font-size="10" fill="#64748b">AMM / DEX Health</text>
+<text x="175" y="116">Adjusted TVL, Vol/TVL</text>
+<text x="175" y="132" font-size="10" fill="#64748b">Concentrated depth &amp; slip</text>
+<text x="330" y="116">DefiLlama, Dune SQL</text>
+<text x="330" y="132" font-size="10" fill="#64748b">GeckoTerminal, DEXScreener</text>
+<rect class="badge1" x="490" y="110" width="80" height="12" rx="3"/>
+<text x="495" y="120" font-size="10" fill="#ffffff" font-weight="700">Capital Skew</text>
+
+<!-- Row 2 -->
+<text x="28" y="168" font-weight="600">Revenue &amp; Tokenomics</text>
+<text x="28" y="184" font-size="10" fill="#64748b">Cash Flow &amp; Burn</text>
+<text x="175" y="168">Protocol Fees vs Revenue</text>
+<text x="175" y="184" font-size="10" fill="#64748b">P/F &amp; P/S, Vesting overhang</text>
+<text x="330" y="168">Token Terminal, Artemis</text>
+<text x="330" y="184" font-size="10" fill="#64748b">TokenUnlocks, CoinGecko</text>
+<rect class="badge2" x="490" y="162" width="75" height="12" rx="3"/>
+<text x="495" y="172" font-size="10" fill="#ffffff" font-weight="700">Real Yield</text>
+
+<!-- Row 3 -->
+<rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
+<text x="28" y="220" font-weight="600">Capital Quality</text>
+<text x="28" y="236" font-size="10" fill="#64748b">Lending &amp; Solvency</text>
+<text x="175" y="220">Health factor distribution</text>
+<text x="175" y="236" font-size="10" fill="#64748b">Bad debt, borrow utilization</text>
+<text x="330" y="220">Chaos Labs, Gauntlet</text>
+<text x="330" y="236" font-size="10" fill="#64748b">Aave Risk, DefiLlama Lends</text>
+<rect class="badge3" x="490" y="214" width="70" height="12" rx="3"/>
+<text x="495" y="224" font-size="10" fill="#ffffff" font-weight="700">Liquidation</text>
+
+<!-- Row 4 -->
+<text x="28" y="272" font-weight="600">Smart Contract Risk</text>
+<text x="28" y="288" font-size="10" fill="#64748b">Adversarial Vectors</text>
+<text x="175" y="272">Oracle latency, TWAP window</text>
+<text x="175" y="288" font-size="10" fill="#64748b">Timelock multisig controls</text>
+<text x="330" y="272">Immunefi, Etherscan</text>
+<text x="330" y="288" font-size="10" fill="#64748b">Trail of Bits, L2Beat</text>
+<rect class="badge4" x="490" y="266" width="95" height="12" rx="3"/>
+<text x="495" y="276" font-size="10" fill="#ffffff" font-weight="700">Exploit Exposure</text>
+
+<line class="grid" x1="20" y1="306" x2="620" y2="306"/>
+</svg>

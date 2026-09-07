@@ -1,0 +1,67 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 310" role="img" aria-labelledby="evm-title evm-desc">
+<title id="evm-title">EVM State Machine Architecture and Memory Hierarchy</title>
+<desc id="evm-desc">Architecture diagram of Ethereum Virtual Machine showing stack, memory, transient storage, persistent storage, and transaction calldata flows.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.sub{font-size:11px;fill:#64748b}
+.box{fill:#f8fafc;stroke:#cbd5e1;stroke-width:1.5}
+.box-highlight{fill:#eff6ff;stroke:#3b82f6;stroke-width:1.5}
+.box-state{fill:#fef2f2;stroke:#ef4444;stroke-width:1.5}
+.box-temp{fill:#f5f3ff;stroke:#8b5cf6;stroke-width:1.5}
+.card{fill:#ffffff;stroke:#e2e8f0}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.sub{fill:#94a3b8}
+.box{fill:#1e293b;stroke:#334155}
+.box-highlight{fill:#1e293b;stroke:#3b82f6}
+.box-state{fill:#1e293b;stroke:#ef4444}
+.box-temp{fill:#1e293b;stroke:#8b5cf6}
+.card{fill:#0f172a;stroke:#1e293b}
+}
+</style>
+<rect class="card" x="1" y="1" width="638" height="308" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">EVM Runtime Machine &amp; Memory Hierarchy</text>
+<text x="24" y="50" class="sub">How smart contract bytecodes interact with stack, volatile memory, transient storage, and persistent state</text>
+
+<!-- Inbound Transaction Calldata -->
+<rect class="box-highlight" x="24" y="75" width="130" height="90" rx="8"/>
+<text x="36" y="98" class="header">Calldata</text>
+<text x="36" y="116" class="sub">Read-Only Array</text>
+<text x="36" y="132" class="sub">Function Selector (4B)</text>
+<text x="36" y="148" class="sub">ABI Encoded Args</text>
+
+<!-- Core Execution Machine (Stack + Memory) -->
+<rect class="box" x="175" y="75" width="220" height="210" rx="8"/>
+<text x="190" y="98" class="header">Execution Machine</text>
+
+<!-- Stack -->
+<rect class="box-highlight" x="190" y="112" width="190" height="52" rx="6"/>
+<text x="202" y="132" font-weight="600">EVM Stack (1024 words)</text>
+<text x="202" y="148" class="sub">256-bit word size / LIFO</text>
+
+<!-- Memory -->
+<rect class="box-temp" x="190" y="174" width="190" height="48" rx="6"/>
+<text x="202" y="194" font-weight="600">Memory (Volatile)</text>
+<text x="202" y="210" class="sub">Byte-addressed / Expands (Gas^2)</text>
+
+<!-- Transient Storage -->
+<rect class="box-temp" x="190" y="230" width="190" height="44" rx="6"/>
+<text x="202" y="248" font-weight="600">Transient (EIP-1153)</text>
+<text x="202" y="263" class="sub">TSTORE/TLOAD (Tx Scope)</text>
+
+<!-- Persistent State -->
+<rect class="box-state" x="415" y="75" width="200" height="210" rx="8"/>
+<text x="430" y="98" class="header" fill="#ef4444">World State &amp; Logs</text>
+
+<rect class="box" x="430" y="112" width="170" height="68" rx="6"/>
+<text x="442" y="132" font-weight="600">Storage (Persistent)</text>
+<text x="442" y="148" class="sub">2^256 slots (32 bytes each)</text>
+<text x="442" y="164" class="sub" fill="#ef4444">SSTORE: 20k gas cold</text>
+
+<rect class="box" x="430" y="190" width="170" height="74" rx="6"/>
+<text x="442" y="210" font-weight="600">Event Logs &amp; Topics</text>
+<text x="442" y="226" class="sub">LOG0..LOG4 opcodes</text>
+<text x="442" y="242" class="sub">Indexed bloom filters</text>
+<text x="442" y="256" class="sub">Consumed by Indexers</text>
+
+</svg>
