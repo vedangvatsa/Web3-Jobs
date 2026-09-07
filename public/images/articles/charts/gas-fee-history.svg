@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 240" role="img" aria-labelledby="t6 d6">
+<title id="t6">Ethereum average fee milestones, 2017 to 2026</title>
+<desc id="d6">Timeline: 20 cents in 2017, 53 dollars average in May 2021, under 1 dollar through 2025 and 2026.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:700;font-size:15px}
+.card{fill:#ffffff;stroke:#e2e8f0}.line{stroke:#6366f1;stroke-width:3;fill:none}.dot{fill:#6366f1;stroke:#ffffff;stroke-width:3}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.line{stroke:#818cf8}.dot{stroke:#0f172a}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="238" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Average Ethereum fee, selected milestones (USD)</text>
+<path class="line" d="M90,150 L320,70 L550,150"/>
+<circle class="dot" cx="90" cy="150" r="8"/>
+<circle class="dot" cx="320" cy="70" r="8"/>
+<circle class="dot" cx="550" cy="150" r="8"/>
+<text class="num" x="90" y="185" text-anchor="middle">$0.20</text>
+<text x="90" y="203" text-anchor="middle">2017</text>
+<text class="num" x="320" y="50" text-anchor="middle">$53</text>
+<text x="320" y="105" text-anchor="middle">May 2021 avg</text>
+<text class="num" x="550" y="185" text-anchor="middle">&lt;$1</text>
+<text x="550" y="203" text-anchor="middle">2025-2026</text>
+<text x="20" y="228" font-size="12">Not to vertical scale: the 2021 peak towers ~265x over both ends.</text>
+</svg>
