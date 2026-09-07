@@ -157,6 +157,7 @@ npm install @hashtagweb3/sdk
 - [About Hashtag Web3](https://hashtagweb3.com/about): Mission, editorial standards, verification process, and 60,000+ community stats.
 - [Contact Hashtag Web3](https://hashtagweb3.com/contact): Support channels, hiring partnerships, and office details.
 - [Privacy Policy](https://hashtagweb3.com/privacy): Privacy guidelines and AI agent crawling terms.
+- [Terms of Use](https://hashtagweb3.com/terms-of-use.md): Machine-readable terms of service, commercial usage terms, rate limits, and liability boundaries for autonomous agent transactions.
 
 ## Free Career Tools
 

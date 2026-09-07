@@ -194,4 +194,5 @@ After revocation, the token is invalidated and further requests with it will ret
 
 ---
 
-*This document follows the [WorkOS auth.md](https://workos.com/auth-md) specification.*
+*This document follows the [WorkOS auth.md](https://workos.com/auth-md) specification. By authenticating and interacting with Hashtag Web3 APIs, agents agree to the [AI Terms of Use](https://hashtagweb3.com/terms-of-use.md).*
+

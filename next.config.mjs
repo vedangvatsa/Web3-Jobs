@@ -72,6 +72,9 @@ const nextConfig = {
       { source: '/how-to-be-a-good-community-moderator', destination: '/web3-community-manager-career', permanent: true },
       { source: '/deprecation-policy', destination: '/api-policy', permanent: true },
       { source: '/versioning-policy', destination: '/api-policy', permanent: true },
+      { source: '/terms-of-use', destination: '/terms-of-use.md', permanent: false },
+      { source: '/terms', destination: '/terms-of-use.md', permanent: false },
+      { source: '/tos', destination: '/terms-of-use.md', permanent: false },
     ]
   },
   async rewrites() {
@@ -127,6 +130,7 @@ const nextConfig = {
               '</.well-known/api-catalog>; rel="api-catalog"',
               '</openapi.json>; rel="service-desc"',
               '</404.md>; rel="404-recovery"; type="text/markdown"',
+              '</terms-of-use.md>; rel="terms-of-service"; type="text/markdown"',
             ].join(', '),
           },
           {

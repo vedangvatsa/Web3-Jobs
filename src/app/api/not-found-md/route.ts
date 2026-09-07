@@ -16,6 +16,7 @@ export async function GET() {
 - [LLMs Context](https://hashtagweb3.com/llms.txt)
 - [OpenAPI Spec](https://hashtagweb3.com/openapi.json)
 - [MCP Server](https://hashtagweb3.com/api/mcp)
+- [AI Terms of Use](https://hashtagweb3.com/terms-of-use.md)
 `;
 
   return new NextResponse(markdown, {
