@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 270" role="img" aria-labelledby="t5 d5">
+<title id="t5">Median L2 transaction fees after Dencun, US dollars</title>
+<desc id="d5">Bars: Optimism 4 cents, Base 3 cents, Arbitrum 1 cent, zkSync 1 cent. Before Dencun each was near or above one dollar.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.bar{fill:#0ea5e9}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#eef2f7}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.bar{fill:#38bdf8}.grid{stroke:#1e293b}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="268" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Median L2 fee after Dencun (USD per transaction)</text>
+<text x="20" y="72">Optimism</text><rect class="bar" x="220" y="58" width="360" height="18" rx="4"/><text class="num" x="588" y="72">$0.04</text>
+<text x="20" y="106">Base</text><rect class="bar" x="220" y="92" width="270" height="18" rx="4"/><text class="num" x="498" y="106">$0.03</text>
+<text x="20" y="140">Arbitrum</text><rect class="bar" x="220" y="126" width="90" height="18" rx="4"/><text class="num" x="318" y="140">$0.01</text>
+<text x="20" y="174">zkSync Era</text><rect class="bar" x="220" y="160" width="90" height="18" rx="4"/><text class="num" x="318" y="174">$0.01</text>
+<g class="grid"><line x1="220" y1="42" x2="220" y2="188"/><line x1="310" y1="42" x2="310" y2="188"/><line x1="400" y1="42" x2="400" y2="188"/><line x1="490" y1="42" x2="490" y2="188"/><line x1="580" y1="42" x2="580" y2="188"/></g>
+<text x="220" y="206">0</text><text x="305" y="206">1¢</text><text x="395" y="206">2¢</text><text x="485" y="206">3¢</text><text x="575" y="206">4¢</text>
+<text x="20" y="230" font-size="12">Before Dencun each sat near or above $1.00: Optimism ~$1.40, Base ~$1.50 (down 97-98%).</text>
+<text x="20" y="250" font-size="12">Hashtag Web3 research compilation, September 2026.</text>
+</svg>
