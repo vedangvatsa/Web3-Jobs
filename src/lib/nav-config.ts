@@ -40,10 +40,21 @@ export interface NavLinkItem {
 }
 
 export const MAIN_NAV_LINKS: NavLinkItem[] = [
-  { href: '/', label: 'Jobs', icon: Briefcase },
+  { href: '/jobs', label: 'Jobs', icon: Briefcase },
   { href: '/events', label: 'Events', icon: Calendar },
   { href: '/news', label: 'News', icon: Newspaper },
   { href: '/community', label: 'Community', icon: Users },
+];
+
+export const SITELINK_NAVIGATION_ITEMS: { label: string; href: string; description: string }[] = [
+  { label: 'Web3 Jobs', href: '/jobs', description: 'Verified Web3, crypto, DeFi, and blockchain job openings.' },
+  { label: 'Web3 Companies', href: '/companies', description: 'Directory of top Web3 companies, protocols, and crypto startups.' },
+  { label: 'Web3 Events', href: '/events', description: 'Global Web3 conferences, hackathons, and crypto summits.' },
+  { label: 'Web3 News', href: '/news', description: 'Curated crypto news and blockchain industry developments.' },
+  { label: 'Web3 Playbook', href: '/blog', description: 'Actionable guides, salary benchmarks, and Web3 career playbooks.' },
+  { label: 'Web3 Glossary', href: '/glossary', description: 'Comprehensive Web3, blockchain, and crypto terminology definitions.' },
+  { label: 'Learn Web3', href: '/learn', description: 'Structured developer tutorials and Web3 learning paths.' },
+  { label: 'Community', href: '/community', description: 'Join 60,000+ Web3 builders and job seekers on Telegram and social channels.' },
 ];
 
 export const RESOURCE_LINKS: NavLinkItem[] = [

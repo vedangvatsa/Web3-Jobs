@@ -15,6 +15,7 @@ import {
 import { MobileNav } from './mobile-nav';
 import {
   MAIN_NAV_LINKS,
+  SITELINK_NAVIGATION_ITEMS,
   RESOURCE_LINKS,
   EMPLOYEE_RESOURCES,
   EMPLOYER_RESOURCES,
@@ -26,10 +27,11 @@ export function Header() {
     '@context': 'https://schema.org',
     '@type': 'SiteNavigationElement',
     name: 'Main Navigation',
-    about: 'Main navigation links for Hashtag Web3',
-    hasPart: MAIN_NAV_LINKS.map((link) => ({
+    about: 'Primary navigation and sitelinks for Hashtag Web3',
+    hasPart: SITELINK_NAVIGATION_ITEMS.map((link) => ({
       '@type': 'WebPage',
       name: link.label,
+      description: link.description,
       url: link.href.startsWith('http') ? link.href : `${siteUrl}${link.href}`,
     })),
   };
