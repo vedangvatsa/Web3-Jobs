@@ -1,0 +1,69 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="uc-title uc-desc">
+<title id="uc-title">Decentralized Oracle Services Beyond Price Tickers</title>
+<desc id="uc-desc">Overview of advanced blockchain oracle applications including Proof of Reserve, Verifiable Randomness, Parametric Insurance, and Cross-Chain Messaging.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:11px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}
+.q1{fill:#eff6ff;stroke:#3b82f6;stroke-width:1.5}
+.q2{fill:#f0fdf4;stroke:#10b981;stroke-width:1.5}
+.q3{fill:#faf5ff;stroke:#8b5cf6;stroke-width:1.5}
+.q4{fill:#fff7ed;stroke:#f97316;stroke-width:1.5}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
+.q1{fill:#172554;stroke:#60a5fa}.q2{fill:#064e3b;stroke:#34d399}.q3{fill:#3b0764;stroke:#c084fc}.q4{fill:#431407;stroke:#fb923c}
+}
+</style>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Advanced Oracle Primitives: Beyond Token Pricing</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Core verification services powering institutional Web3 infrastructure and real-world assets</text>
+
+<!-- Quadrant 1: Proof of Reserve -->
+<rect class="q1" x="24" y="66" width="286" height="125" rx="8"/>
+<text x="36" y="88" class="header" fill="#2563eb">1. Proof of Reserve (PoR)</text>
+<text x="36" y="108" font-weight="600">Underlying Asset:</text>
+<text x="145" y="108" font-size="10" fill="#64748b">Fiat reserves, US Treasuries, Gold, BTC</text>
+<text x="36" y="126" font-weight="600">Verification Mechanism:</text>
+<text x="145" y="126" font-size="10" fill="#64748b">Direct API audits into bank custodians</text>
+<text x="36" y="144" font-weight="600">Smart Contract Action:</text>
+<text x="145" y="144" font-size="10" fill="#64748b">Automated circuit-breaker stops minting</text>
+<text x="36" y="162" font-weight="600">Protocols:</text>
+<text x="145" y="162" font-size="10" fill="#64748b">Chainlink PoR, Paxos, TrueUSD, Ondo Finance</text>
+
+<!-- Quadrant 2: Verifiable Randomness -->
+<rect class="q2" x="330" y="66" width="286" height="125" rx="8"/>
+<text x="342" y="88" class="header" fill="#059669">2. Verifiable Randomness (VRF)</text>
+<text x="342" y="108" font-weight="600">Cryptographic Primitive:</text>
+<text x="470" y="108" font-size="10" fill="#64748b">Elliptic curve VRF proofs</text>
+<text x="342" y="126" font-weight="600">Security Guarantee:</text>
+<text x="470" y="126" font-size="10" fill="#64748b">Miners/validators cannot bias seed</text>
+<text x="342" y="144" font-weight="600">Smart Contract Action:</text>
+<text x="470" y="144" font-size="10" fill="#64748b">Fair NFT mints, on-chain gaming logic</text>
+<text x="342" y="162" font-weight="600">Protocols:</text>
+<text x="470" y="162" font-size="10" fill="#64748b">Chainlink VRF, Pyth Entropy, Gelato VRF</text>
+
+<!-- Quadrant 3: Parametric Insurance & IoT -->
+<rect class="q3" x="24" y="201" width="286" height="125" rx="8"/>
+<text x="36" y="223" class="header" fill="#7c3aed">3. Parametric Insurance &amp; Real World</text>
+<text x="36" y="243" font-weight="600">Data Sources:</text>
+<text x="145" y="243" font-size="10" fill="#64748b">NOAA satellite rain data, flight telemetry</text>
+<text x="36" y="261" font-weight="600">Execution Mechanism:</text>
+<text x="145" y="261" font-size="10" fill="#64748b">Deterministic payout on boolean threshold</text>
+<text x="36" y="279" font-weight="600">Eliminates Claims:</text>
+<text x="145" y="279" font-size="10" fill="#64748b">Zero claims adjusters or paperwork delays</text>
+<text x="36" y="297" font-weight="600">Protocols:</text>
+<text x="145" y="297" font-size="10" fill="#64748b">Arbol Insurance, Etherisc, Lemonade Crypto</text>
+
+<!-- Quadrant 4: Cross-Chain Interoperability -->
+<rect class="q4" x="330" y="201" width="286" height="125" rx="8"/>
+<text x="342" y="223" class="header" fill="#c2410c">4. Cross-Chain Interoperability</text>
+<text x="342" y="243" font-weight="600">Core Problem:</text>
+<text x="470" y="243" font-size="10" fill="#64748b">Reading state across sovereign chains</text>
+<text x="342" y="261" font-weight="600">Verification Model:</text>
+<text x="470" y="261" font-size="10" fill="#64748b">Decentralized Risk Management Network</text>
+<text x="342" y="279" font-weight="600">Programmable Action:</text>
+<text x="470" y="279" font-size="10" fill="#64748b">Cross-chain token burn &amp; mint + calldata</text>
+<text x="342" y="297" font-weight="600">Protocols:</text>
+<text x="470" y="297" font-size="10" fill="#64748b">Chainlink CCIP, Wormhole, LayerZero</text>
+</svg>
