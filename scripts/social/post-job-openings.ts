@@ -9,15 +9,12 @@
  *
  * Posts verified job openings to social networks in the exact format:
  *
- *   Company is hiring role
- *
- *   https://hashtagweb3.com/<slug>/x      (for X)
- *   https://hashtagweb3.com/<slug>/th     (for Threads)
- *   https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
- *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
- *   https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
- *   https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
- *   https://hashtagweb3.com/<slug>/rd     (for Reddit r/hashtagweb3)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/x      (for X)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/th     (for Threads)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/bsky   (for Bluesky)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/fc     (for Farcaster)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
+ *   Company is hiring role: https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
  *   (Square OG image generated for Instagram feed)
  *
  * Features:
@@ -753,12 +750,12 @@ async function main() {
   const facebookUrl = `${SITE_URL}/${slug}/fb`;
   const redditUrl = `${SITE_URL}/${slug}/rd`;
 
-  const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
-  const threadsPostText = `${company} is hiring ${title}\n\n${threadsUrl}`;
-  const blueskyPostText = `${company} is hiring ${title}\n\n${blueskyUrl}`;
-  const farcasterPostText = `${company} is hiring ${title}\n\n${farcasterUrl}`;
-  const linkedinPostText = `${company} is hiring ${title}\n\n${linkedinUrl}`;
-  const facebookPostText = `${company} is hiring ${title}\n\n${facebookUrl}`;
+  const xPostText = `${company} is hiring ${title}: ${xUrl}`;
+  const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
+  const blueskyPostText = `${company} is hiring ${title}: ${blueskyUrl}`;
+  const farcasterPostText = `${company} is hiring ${title}: ${farcasterUrl}`;
+  const linkedinPostText = `${company} is hiring ${title}: ${linkedinUrl}`;
+  const facebookPostText = `${company} is hiring ${title}: ${facebookUrl}`;
 
   const metaDesc = buildUniqueJobMetaDescription(selectedJob as any);
   const deptName = typeof selectedJob.department === 'string' ? selectedJob.department : selectedJob.department?.name || '';
