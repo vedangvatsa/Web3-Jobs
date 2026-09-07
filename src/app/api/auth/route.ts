@@ -1,4 +1,5 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { getStandardApiHeaders } from '@/lib/api-headers';
 
 export async function GET(request: NextRequest) {
   return NextResponse.json(
@@ -13,9 +14,8 @@ export async function GET(request: NextRequest) {
     {
       status: 401,
       headers: {
-        'Content-Type': 'application/json',
+        ...getStandardApiHeaders(),
         'WWW-Authenticate': 'Bearer resource_metadata="https://hashtagweb3.com/.well-known/oauth-protected-resource"',
-        'Access-Control-Allow-Origin': '*',
       },
     }
   );
