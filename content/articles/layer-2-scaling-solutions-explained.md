@@ -1,9 +1,6 @@
 ---
-title: A Guide to Ethereum Layer 2 Scaling Solutions
-description: >-
-  Ethereum Layer 2 rollups run transactions off chain and post data to Ethereum
-  for security. Learn how optimistic and ZK rollups work, what they cost, their
-  trade-offs, and how to choose and use them.
+title: Layer 2 Rollup Architectures and EVM Trade-offs
+description: A practical breakdown of Layer 2 scaling mechanics, comparing optimistic and zero-knowledge rollups, transaction execution fees, and EVM compatibility.
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'

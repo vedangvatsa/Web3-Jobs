@@ -1,5 +1,5 @@
 ---
-title: 'The Future of Web3'
+title: 'The Future of Web3 Key Trends Defining 2025 and Beyond'
 description: >-
   Explore the improving how Web3 trends set to define 2025. From modular
   blockchains and AI integration to decentralized social media, we analyze

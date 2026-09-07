@@ -1,5 +1,5 @@
 ---
-title: 'The Future of Web3'
+title: 'Emerging Web3 Trends Modular Blockchains and Decentralized AI'
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 description: >-
   From modular blockchains to the rise of decentralized AI, we explore the five

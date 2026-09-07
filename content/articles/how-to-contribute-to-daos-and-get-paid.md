@@ -1,5 +1,5 @@
 ---
-title: How to Contribute to a DAO and Get Paid
+title: Earning Stablecoins and Tokens as a DAO Contributor
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: dao crypto tokens
 description: >-
