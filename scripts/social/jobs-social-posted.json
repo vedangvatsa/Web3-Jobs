@@ -1,5 +1,5 @@
 {
-  "lastIndex": 109,
+  "lastIndex": 111,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -24,7 +24,8 @@
     "job6178e",
     "role0c933",
     "recruiting57",
-    "role6be75"
+    "role6be75",
+    "role48004"
   ],
   "history": [
     {
@@ -650,6 +651,46 @@
       "platform": "instagram",
       "postedAt": "2026-09-07T14:41:48.787Z",
       "postId": "17956455222217699"
+    },
+    {
+      "slug": "role48004",
+      "company": "LayerZero",
+      "title": "Assistant Controller",
+      "platform": "threads",
+      "postedAt": "2026-09-07T18:17:50.491Z",
+      "postId": "18164902051426581"
+    },
+    {
+      "slug": "role48004",
+      "company": "LayerZero",
+      "title": "Assistant Controller",
+      "platform": "bluesky",
+      "postedAt": "2026-09-07T18:17:50.491Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mux4lutzna24"
+    },
+    {
+      "slug": "role48004",
+      "company": "LayerZero",
+      "title": "Assistant Controller",
+      "platform": "farcaster",
+      "postedAt": "2026-09-07T18:17:50.491Z",
+      "postId": "0x2ce39902a5c24a73699e3eb1842cd91c0b0e2579"
+    },
+    {
+      "slug": "role48004",
+      "company": "LayerZero",
+      "title": "Assistant Controller",
+      "platform": "linkedin",
+      "postedAt": "2026-09-07T18:17:50.491Z",
+      "postId": "6a9effde9891646af76a0634"
+    },
+    {
+      "slug": "role48004",
+      "company": "LayerZero",
+      "title": "Assistant Controller",
+      "platform": "facebook",
+      "postedAt": "2026-09-07T18:17:50.491Z",
+      "postId": "691827047618629_1082487794358455"
     }
   ]
 }
