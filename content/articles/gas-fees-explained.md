@@ -31,8 +31,8 @@ These gas-used numbers do not change with ETH price. What changes is the price p
 
 Two related terms matter:
 
-- **gasUsed**: How many units your transaction actually consumed. Determined by the code path you executed.
-- **gasLimit**: The maximum units you allow. You pay only for what you use, the rest is refunded. If you set the limit too low, the transaction fails and you still pay for work done up to the failure. If a contract reverts, you still pay for gas used. [MetaMask's user guide](https://support.metamask.io/more-web3/learn/user-guide-gas) walks through exactly how limits, base fees, and out-of-gas failures interact.
+- gasUsed is how many units your transaction actually consumed, set by the code path you executed.
+- gasLimit is the maximum units you allow. You pay only for what you use and the rest is refunded. Set the limit too low and the transaction fails, but you still pay for work done up to the failure. The same applies when a contract reverts. [MetaMask's user guide](https://support.metamask.io/more-web3/learn/user-guide-gas) walks through exactly how limits, base fees, and out-of-gas failures interact.
 
 ## Who this guide is for
 
