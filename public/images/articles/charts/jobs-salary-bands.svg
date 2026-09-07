@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 296" role="img" aria-labelledby="t1 d1">
+<title id="t1">Web3 salary bands, thousands of USD per year</title>
+<desc id="d1">Horizontal bars: non-technical entry 65, junior developer 77, US median developer 133, senior developer 160, protocol engineer average 200.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.bar{fill:#6366f1}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#eef2f7}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.bar{fill:#818cf8}.grid{stroke:#1e293b}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="294" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Web3 pay bands (USD thousands / year)</text>
+<g>
+<text x="20" y="68">Non-tech entry</text><rect class="bar" x="200" y="54" width="143" height="18" rx="4"/><text class="num" x="350" y="68">65</text>
+<text x="20" y="102">Junior dev (live)</text><rect class="bar" x="200" y="88" width="169" height="18" rx="4"/><text class="num" x="376" y="102">77</text>
+<text x="20" y="136">US median dev</text><rect class="bar" x="200" y="122" width="293" height="18" rx="4"/><text class="num" x="500" y="136">133</text>
+<text x="20" y="170">Senior dev</text><rect class="bar" x="200" y="156" width="352" height="18" rx="4"/><text class="num" x="559" y="170">160</text>
+<text x="20" y="204">Protocol eng avg</text><rect class="bar" x="200" y="190" width="400" height="18" rx="4"/><text class="num" x="607" y="204">200</text>
+</g>
+<g class="grid" stroke-width="1">
+<line x1="200" y1="42" x2="200" y2="216"/><line x1="310" y1="42" x2="310" y2="216"/><line x1="420" y1="42" x2="420" y2="216"/><line x1="530" y1="42" x2="530" y2="216"/>
+</g>
+<text x="200" y="234">0</text><text x="300" y="234">50</text><text x="410" y="234">100</text><text x="505" y="234">150</text><text x="600" y="234">200</text>
+<text x="20" y="262" font-size="12">Midpoints of published bands (entry 40-90, senior 160+); auditors reach 250-500.</text>
+<text x="20" y="280" font-size="12">Hashtag Web3 research compilation, September 2026.</text>
+</svg>
