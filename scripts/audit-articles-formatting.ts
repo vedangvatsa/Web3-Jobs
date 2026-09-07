@@ -33,9 +33,19 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   const category = parsed.data.category || 'Uncategorized';
   const body = parsed.content;
 
-  // 2. Check for invalid space in bolding: ** text** or **text **
-  const invalidBoldSpaces = body.match(/\*\*\s+[^*]+?\*\*|\*\*[^*]+?\s+\*\*/g);
-  if (invalidBoldSpaces) {
+  // 2. Check for invalid space in bolding: ** text** or **text **.
+  // NOTE: validated per bold PAIR, not with one spanning pattern. The old
+  // pattern (`**\s+[^*]+?**`) matched ACROSS legitimate pairs ("**a.** b
+  // **c**") because [^*] spans newlines, flagging valid markdown on every
+  // long-form article while catching zero true violations repo-wide.
+  const invalidBoldSpaces: string[] = [];
+  const boldPairPattern = /\*\*([^*]*?)\*\*/g;
+  let boldMatch: RegExpExecArray | null;
+  while ((boldMatch = boldPairPattern.exec(body)) !== null) {
+    const inner = boldMatch[1] ?? '';
+    if (/^\s|\s$/.test(inner)) invalidBoldSpaces.push(boldMatch[0].slice(0, 60));
+  }
+  if (invalidBoldSpaces.length > 0) {
     issues.push({
       file,
       category,
