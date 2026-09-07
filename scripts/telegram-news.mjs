@@ -30,9 +30,9 @@ const CHANNEL_ID = process.env.TELEGRAM_NEWS_CHANNEL_ID;
 const THREAD_ID = process.env.TELEGRAM_THREAD_ID;
 const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
 const STORIES_PER_POST = 3;
-// Cadence is 3h (8 times a day). Keep cooldown under that (2.5h) with
+// Cadence is ~8h (03:30 / 11:30 / 19:30 UTC). Keep cooldown under that with
 // margin for GitHub cron drift and long earlier steps (~10–15m).
-const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 2.5);
+const POST_COOLDOWN_HOURS = Number(process.env.NEWS_COOLDOWN_HOURS || 6);
 const FORCE_POST = process.argv.includes('--force') || process.env.FORCE_NEWS === '1';
 const CTA_URL = 'https://hashtagweb3.com/news?utm_source=telegram&utm_medium=social&utm_campaign=news_digest';
 // Use channel-specific state files so channel + group posts don't share cooldowns
