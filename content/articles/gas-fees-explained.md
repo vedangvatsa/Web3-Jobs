@@ -1,7 +1,7 @@
 ---
 title: 'Gas Fees Explained: How Ethereum Fees Work and How to Pay Less'
-image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
-data-ai-hint: ethereum gas fees
+image: /images/articles/charts/gas-l2-fees.svg
+data-ai-hint: layer 2 fee comparison chart
 description: >-
   What gas measures, how EIP-1559 sets base fee and tip, why fees spike, and
   what users and Solidity developers can do to cut costs - with current numbers
@@ -11,9 +11,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-06"
 ---
 Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls. [Ethereum's own gas overview](https://ethereum.org/gas/) and its [technical gas documentation](https://ethereum.org/developers/docs/gas/) are the canonical starting points, and this guide builds on them with current numbers.
-
-[![Ethereum logo](https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg)](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg)
-*Image: Ethereum logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) (public domain, trademarked).*
 
 This guide explains what gas is, who needs to understand it, how the fee market works after EIP-1559, where the trade-offs are, and how users and developers can reduce what they pay.
 
@@ -150,6 +147,11 @@ After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-
 
 How each rollup passes those savings through differs in the details. [Arbitrum documents its Nitro parent-plus-child fee model with Brotli compression and an adaptive data-unit pricer](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/gas-and-fees), plus [how its sequencer batches and compresses with blob-versus-calldata selection](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/sequencer). [Optimism documents its total-fee formula of execution gas plus L1 data fee with Ecotone and Fjord blob scalars](https://docs.optimism.io/op-stack/transactions/fees).
 
+Four networks, four cent-level medians. The chart below shows where each L2 landed after Dencun absorbed the data cost into blobs. Optimism and Base kept slightly higher medians because their activity mix includes more complex transactions; Arbitrum and zkSync sit at a penny. All four round to noise next to mainnet's double-digit dollars.
+
+![Median L2 fees after Dencun](/images/articles/charts/gas-l2-fees.svg)
+*Figure: post-Dencun medians with pre-Dencun levels in the footnote. Data: [Status Dencun analysis](https://status.network/blog/what-is-ethereum-dencun-upgrade-layer-2-fees), [Binance Academy](https://www.binance.com/en/academy/articles/what-is-eip-4844-in-ethereum-and-how-can-it-benefit-users).*
+
 2. **Time your mainnet transactions.** Track live fees on [Etherscan's Gas Tracker](https://etherscan.io/gastracker), the [alternative EthScan tracker](https://ethscan.io/gas), or [99Bitcoins' tracker with heatmaps](https://99bitcoins.com/tools/ethereum-fee-tracker/). Fees are often lowest on weekends and during off-peak US hours when fewer users compete for block space. If you are not in a rush, set a lower `maxFeePerGas` and let the transaction wait. [Etherscan documents the GasOracle and estimate APIs behind its tracker for builders](https://docs.etherscan.io/endpoint-showcase/gas-tracker). History backs the patience play: [2021 averaged about $53 with $300-for-$5 anecdotes at the peak](https://99bitcoins.com/tools/ethereum-fee-tracker/).
 
 3. **Set fees explicitly.** In MetaMask and similar wallets, use advanced settings to set `maxFeePerGas` and `maxPriorityFeePerGas` instead of accepting a single gas price. Set a max base you are willing to pay. You will be refunded if the actual base fee is lower. [MetaMask's own walkthrough shows the pencil-icon flow for editing gas limit, priority fee, and max fee](https://support.metamask.io/configure/transactions/how-to-customize-gas-settings/).
@@ -161,9 +163,6 @@ How each rollup passes those savings through differs in the details. [Arbitrum d
 ### If you are a Solidity developer
 
 These five patterns give the largest savings for the least risk. All are documented in the Solidity docs and Ethereum specs.
-
-[![Solidity gas optimization guide header](https://media.alchemy.com/1763564597-blog-gas-optimization.png)](https://www.alchemy.com/overviews/solidity-gas-optimization)
-*Image: Alchemy's [Solidity gas optimization guide header](https://www.alchemy.com/overviews/solidity-gas-optimization) (media.alchemy.com).*
 
 **1. Minimize storage writes. Cache in memory.**
 
@@ -241,7 +240,10 @@ Other practical steps: use `external` instead of `public` for functions only cal
 
 Spikes follow attention, not technology. CryptoKitties clogged December 2017 above 450 gwei. DeFi Summer 2020 printed 480 gwei days. May 2021 averaged $53 to $70 with swaps at $100 to $200 and the BAYC Otherdeeds mint pushing $200 to $800 transactions. BlobScriptions spammed 2,437 blob inscriptions a day across March and April 2024 and spiked the brand-new blob fee market by four orders of magnitude in one case. September 2025's WLFI launch swung base fees from under 1 to over 100 gwei with plain transfers past $145. [DeepNewz covered the blob-fee blowup contemporaneously](https://deepnewz.com/crypto/ethereum-network-overwhelmed-blob-transactions-fees-soar-to). [Crowdfund Insider's weekly recap documented the WLFI swing with transfer math](https://www.crowdfundinsider.com/2025/09/249943-ethereum-gas-fees-web3-thoughts-of-the-week). The full arc lives in [CoinLaw's yearly table](https://coinlaw.io/ethereum-gas-fee-history) and [Etherscan-adjacent historical charts from $0.20 in 2017](https://www.ethtransactionprice.org/ethereum-gas-fee-history.html).
 
-The lesson repeats every cycle: demand spikes are temporary, base-fee math is permanent, and the users who survive them transact on L2s, at off-peak hours, with explicit caps.
+The lesson repeats every cycle: demand spikes are temporary, base-fee math is permanent, and the users who survive them transact on L2s, at off-peak hours, with explicit caps. A decade in three points:
+
+![Ethereum fee milestones 2017 to 2026](/images/articles/charts/gas-fee-history.svg)
+*Figure: average-fee milestones, not to vertical scale. Data: [Etherscan-adjacent history](https://www.ethtransactionprice.org/ethereum-gas-fee-history.html), [CoinLaw yearly table](https://coinlaw.io/ethereum-gas-fee-history).*
 
 ## FAQ
 
