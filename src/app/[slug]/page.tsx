@@ -423,7 +423,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">
           <main className="flex-1 pb-16">
-            <div className="container mx-auto px-4 py-8 max-w-5xl space-y-10">
+            <div className="container mx-auto px-4 py-8 max-w-6xl space-y-10">
               {/* Header Block */}
               <header className="space-y-4 max-w-3xl">
                 <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-foreground leading-tight">
