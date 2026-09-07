@@ -1,5 +1,5 @@
 ---
-title: 'An Introduction to Foundry: The Modern Solidity Toolkit'
+title: 'Introduction to Foundry for Solidity Developers'
 image: >-
   https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: foundry software toolkit
@@ -8,7 +8,7 @@ description: >-
   a basic Forge test, and how its workflow compares with Hardhat.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Foundry is a Rust-based toolkit for Ethereum development that lets you compile, test, fuzz, debug and deploy Solidity contracts from the command line. The official book at getfoundry.sh describes it as a blazing fast, portable and modular toolkit. You write tests and deployment scripts in Solidity and run them directly on a fast local EVM.
 

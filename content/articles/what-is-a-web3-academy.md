@@ -1,5 +1,5 @@
 ---
-title: 'The Rise of the Web3 Academy: A New Model for Crypto Education'
+title: 'The Rise of the Web3 Academy'
 description: >-
   What is a Web3 academy? Explore how these new educational platforms are
   closing the talent gap in the crypto industry by offering specialized,
@@ -8,7 +8,7 @@ image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 category: Career Guides
 data-ai-hint: person writing blackboard
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Beyond the University: The Rise of the Web3 Academy
 

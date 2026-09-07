@@ -1,5 +1,5 @@
 ---
-title: "Web3 Marketing: A New Playbook for a Decentralized World"
+title: 'Web3 Marketing Playbook'
 image: /images/articles/charts/marketing-cac-retention.svg
 data-ai-hint: web3 marketing user acquisition attribution
 description: >-

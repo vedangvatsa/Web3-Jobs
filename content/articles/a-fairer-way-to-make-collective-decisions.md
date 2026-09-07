@@ -1,5 +1,5 @@
 ---
-title: 'Quadratic Funding: A Fairer Way to Fund Public Goods'
+title: 'Quadratic Funding for Public Goods'
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: fairness balance scale
 description: >-
@@ -7,7 +7,7 @@ description: >-
   pool to amplify the power of small community donations, creating a more.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 How does a society determine its development priorities? Traditional funding mechanisms for public goods, such as parks, scientific research, and open-source software, face significant challenges. These goods are essential for societal welfare, yet they are non-excludable and non-rivalrous. The absence of a direct profit motive often leads to underfunding, relying heavily on government grants or philanthropy. These sources can be slow, bureaucratic, and influenced by a limited number of decision-makers.
 

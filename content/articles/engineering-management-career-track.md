@@ -1,5 +1,5 @@
 ---
-title: "The Engineering Management Career Track: A Detailed Guide"
+title: 'Engineering Management Career Track'
 description: >-
   Navigate the transition from individual contributor to engineering manager,
   understanding leadership skill shifts, team dynamics, and executive career progression.

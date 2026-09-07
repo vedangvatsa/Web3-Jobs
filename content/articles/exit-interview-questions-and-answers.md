@@ -1,5 +1,5 @@
 ---
-title: 'Exit Interview Best Practices: Questions to Ask and Why They Matter'
+title: 'Exit Interview Best Practices'
 category: Career Guides
 date: '2025-09-12'
 description: >-
@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: exit interview conversation
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 When a valuable employee resigns, organizations often focus on quickly filling the vacancy. However, the time between the employee's notice and their last day offers a unique opportunity: the exit [interview](/how-to-prepare-for-job-interview). 
 

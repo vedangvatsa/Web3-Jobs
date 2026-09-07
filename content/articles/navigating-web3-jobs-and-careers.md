@@ -1,5 +1,5 @@
 ---
-title: 'Web3Jobs: A New Model for Careers in Crypto'
+title: 'A New Model for Careers in Crypto'
 description: >-
   An exploration of the Web3 job space, known colloquially as 'web3jobs'.
   Understand the cultural shift, the in-demand roles, and how to build a career.
@@ -7,7 +7,7 @@ image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 category: Career Guides
 data-ai-hint: man thinking desk
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## #web3jobs: A New Career Approach
 

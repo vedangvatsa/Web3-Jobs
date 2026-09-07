@@ -1,5 +1,5 @@
 ---
-title: 'How to Create and Sell NFTs: From Mint to Listing in 2026'
+title: 'How to Create and Sell NFTs'
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft creation selling
 description: >-
@@ -9,7 +9,7 @@ description: >-
   sale, handle royalties, and avoid common gas and rights mistakes.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## What is creating and selling an NFT
 

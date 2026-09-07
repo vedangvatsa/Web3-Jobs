@@ -1,5 +1,5 @@
 ---
-title: 'The Best Web3 Jobs for Non-Developers: A Complete Guide'
+title: 'The Best Web3 Jobs for Non-Developers'
 image: >-
   https://images.unsplash.com/photo-1543269664-647163ef2ee4?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxOHx8am9iJTIwZ2lybHxlbnwwfHx8fDE3NjE4ODU4MjZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -8,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: team collaboration
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 You do not need to write Solidity to work in Web3. At crypto-native companies, engineering is about 35 to 40 percent of open roles, which means more than 60 percent are non-technical. That pattern held through 2025 into 2026, according to hiring data summarized by gm.careers, and it shows up on job boards today: web3.career listed 14,427 active non-tech jobs, 630 of them for community managers, when I checked in August 2026.
 

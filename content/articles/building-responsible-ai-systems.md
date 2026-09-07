@@ -1,5 +1,5 @@
 ---
-title: 'Building Responsible AI Systems: A Web3 Framework'
+title: 'Building Responsible AI Systems'
 image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 description: >-
   Learn how Web3 principles like transparency and decentralization can be used
@@ -7,7 +7,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai ethics
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Artificial intelligence (AI) continues to advance rapidly, with large language models producing text indistinguishable from that written by humans. Computer vision systems now recognize individuals and objects with precision. Recommendation algorithms shape the online experiences of many users, determining what content they encounter.
 

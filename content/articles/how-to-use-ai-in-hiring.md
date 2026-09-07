@@ -1,5 +1,5 @@
 ---
-title: 'How to Use AI in Hiring: A Practical Guide for Hiring Managers and Founders'
+title: 'How to Use AI in Hiring'
 data-ai-hint: hiring manager reviewing candidates
 description: >-
   A practical guide to using AI in hiring without creating legal or trust
@@ -7,7 +7,7 @@ description: >-
   rules require, and a seven-step setup with bias checks and human oversight.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 AI in hiring refers to software that helps write job descriptions, source candidates, screen resumes, rank applicants, schedule interviews, and track decisions. A person still makes the hire, but the system shapes who gets seen and how quickly you move.
 

@@ -1,5 +1,5 @@
 ---
-title: 'The Career Development Plan: A Template and Guide'
+title: 'The Career Development Plan'
 description: >-
   A career development plan is a roadmap for your professional growth. This
   guide provides a simple template and explains how to create a plan that
@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: career plan
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## A Guide to Creating Your Career Development Plan
 

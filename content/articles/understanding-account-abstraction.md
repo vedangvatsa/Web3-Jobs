@@ -1,5 +1,5 @@
 ---
-title: 'Account Abstraction Explained: How Smart Wallets Improve Web3 Onboarding'
+title: 'Understanding Account Abstraction'
 image: /images/brian-kostiuk-S4jSvcHYcOs-unsplash.jpg
 description: >-
   A deep dive into Account Abstraction (EIP-4337), explaining how it works,
@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: abstract shapes
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: The Final Frontier for Web3 Adoption
 

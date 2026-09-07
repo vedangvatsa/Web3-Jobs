@@ -1,5 +1,5 @@
 ---
-title: 'How to Create an NFT Collection: From Concept to On-Chain Drop'
+title: 'How to Create an NFT Collection'
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft collection creation
 description: >-
@@ -9,7 +9,7 @@ description: >-
   OpenSea Studio or Manifold without wasting gas or rights.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## What is an NFT collection
 

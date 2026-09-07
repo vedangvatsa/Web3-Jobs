@@ -1,5 +1,5 @@
 ---
-title: 'Zero-Knowledge Proofs (ZKPs): A Simple Explanation'
+title: 'Zero-Knowledge Proofs Explained'
 image: >-
   https://images.unsplash.com/photo-1485827404703-89b55fcc595e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHx0ZWNofGVufDB8fHx8MTc1NDk1NTc5Mnww&lib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -7,7 +7,7 @@ description: >-
   cryptography allows you to prove something is true without revealing.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Zero-Knowledge Proofs (ZKPs) offer a method for one party, the "prover," to demonstrate knowledge of a fact to another party, the "verifier," without disclosing any additional information. This cryptographic technique addresses a fundamental challenge in data privacy: how can you validate a claim without exposing sensitive information? For instance, revealing a password undermines its secrecy. ZKPs provide a solution to this issue, enabling privacy in various applications, especially within the fields of [blockchain](/what-is-a-blockchain) technology and [Web3](/what-is-web3).
 

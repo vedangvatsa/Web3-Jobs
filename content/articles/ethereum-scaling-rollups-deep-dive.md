@@ -1,5 +1,5 @@
 ---
-title: 'A Deep Dive into Rollups: Ethereum''s Scaling Solution'
+title: 'A Deep Dive into Rollups'
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 description: >-
   A full explanation of Layer 2 rollups, including the difference between
@@ -7,7 +7,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: abstract shapes background
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: The Blockchain Scalability Challenge
 

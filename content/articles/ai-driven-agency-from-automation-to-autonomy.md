@@ -1,5 +1,5 @@
 ---
-title: 'AI-Driven Agency: From Automation to Autonomy'
+title: 'AI-Driven Agency from Automation to Autonomy'
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 description: >-
   AI agency is the shift from rule-based automation to systems that perceive,
@@ -8,7 +8,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai autonomy
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Automation follows rules you write. AI agency pursues goals you set. An AI agent perceives its environment, makes a plan, calls tools or smart contracts, and adjusts based on results, all within limits you define.
 

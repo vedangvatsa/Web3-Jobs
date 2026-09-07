@@ -1,5 +1,5 @@
 ---
-title: 'Building with Ethereum Account Abstraction: ERC-4337 and EIP-7702 in Practice'
+title: 'Building with Ethereum Account Abstraction'
 description: >-
   A practical guide to building with Ethereum account abstraction. Learn how
   ERC-4337 smart accounts and EIP-7702 delegated EOAs work, when to use each,
@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Account abstraction lets an Ethereum account run code to decide how it verifies a transaction. ERC-4337 provides that today through smart contract wallets and an off-chain bundler network. EIP-7702, live since the Pectra upgrade on 7 May 2025, lets an existing EOA delegate to that same code while keeping its address. This guide shows what each path does, how the pieces fit, where they help, where they cost more, and how to build with them.
 

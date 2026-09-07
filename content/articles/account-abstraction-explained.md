@@ -1,5 +1,5 @@
 ---
-title: 'Account Abstraction (EIP-4337): The Complete Technical Guide'
+title: 'Account Abstraction and EIP-4337 Explained'
 description: >-
   ERC-4337 replaces traditional seed-phrase EOAs with programmable smart
   accounts. Learn how UserOperations, EntryPoint, bundlers, and paymasters
@@ -7,7 +7,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 slug: account-abstraction-explained
 ---
 

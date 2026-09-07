@@ -1,5 +1,5 @@
 ---
-title: 'Agency vs. In-House: Decoding the Key Differences for Your Career'
+title: 'Agency vs In-House Careers in Web3'
 description: >-
   Agency or in-house changes how you work each day, what skills you build, and
   how you are paid. This guide compares scope, pace, pay, growth paths, and Web3
@@ -7,7 +7,7 @@ description: >-
 data-ai-hint: two doors
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 An agency sells services to many clients. An in-house team works for one employer on one brand or product. That single difference shapes your calendar, your manager, and what counts as good work.
 

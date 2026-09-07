@@ -1,5 +1,5 @@
 ---
-title: 'Web3 and Real Estate: Tokenizing Commercial Properties'
+title: 'Web3 in Real Estate Tokenization'
 description: >-
   How on-chain asset tokenization enables fractional equity, automated
   distributions, and secondary market trading for commercial and residential
@@ -8,7 +8,7 @@ image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: people discussing chart
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Fractional Equity and Liquidity: How Tokenization Restructures Real Estate
 

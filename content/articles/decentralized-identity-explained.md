@@ -1,5 +1,5 @@
 ---
-title: 'Decentralized Identity Explained: The Quest for Self-Sovereign Data'
+title: 'Decentralized Identity Explained'
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-
   Learn about Decentralized Identity (DID) and Self-Sovereign Identity (SSI).
@@ -7,7 +7,7 @@ description: >-
   data.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In the digital age, individuals often find their identities fragmented and controlled by various centralized entities. Your "Google identity" is tied to your online activities, your "Facebook identity" represents your social connections, and government agencies maintain your official records. This centralized approach limits personal ownership over data and leads to frequent data breaches, privacy concerns, and a frustrating user experience.
 

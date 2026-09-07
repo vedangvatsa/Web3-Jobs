@@ -1,5 +1,5 @@
 ---
-title: 'The First 90 Days: A Strategic Plan for Success in a New Job'
+title: 'The First 90 Days'
 description: >-
   Your first 90 days in a new role are critical. This guide provides a
   week-by-week strategy to help you work through your new environment, build
@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: new job
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## The First 90 Days: A Strategic Plan
 
