@@ -1,10 +1,18 @@
 /**
- * Syndicate Job Feeds across search engines, aggregators, and WebSub hubs.
+ * Syndicate Job Feeds across search engines, general aggregators, and WebSub hubs.
+ * 
+ * STRICT POLICY:
+ * ONLY submit to general search engines and global aggregators (Bing, Yandex, Google, Jooble, Adzuna, Jobrapido).
+ * DO NOT send to Web3 competitors (web3.career, cryptojobslist, cryptocurrencyjobs, etc.).
  * 
  * 1. Submits all individual job URLs to IndexNow (Bing, Yandex, Seznam, Naver)
  * 2. Pings Google & Superfeedr PubSubHubbub (WebSub) hubs for instant RSS feed update
- * 3. Pings Ping-o-Matic XML-RPC for blog & job search engine indexing
- * 4. Submits XML Feed to Jooble integration team via Resend email API
+ * 3. Pings Ping-o-Matic, Blo.gs, and Twingly XML-RPC for blog & job search engine indexing
+ * 4. Submits XML Feed applications to general global search engine aggregators only:
+ *    - Jooble (xml_support@jooble.com, ats@jooble.jobs)
+ *    - Adzuna (support@adzuna.com, supportuk@adzuna.com)
+ *    - Jobrapido (support@jobrapido.com)
+ *    - Feedspot RSS Directory (anuj@feedspot.com)
  * 
  * Usage: npx tsx scripts/syndicate-job-feeds.ts
  */
@@ -23,6 +31,8 @@ const keys = [
   "5f98e9e755144404909369d2575e4ed7",
 ];
 
+const sleep = (ms: number) => new Promise((resolve) => setTimeout(resolve, ms));
+
 async function submitToIndexNow(allUrls: string[]) {
   console.log(`\n1. [IndexNow] Submitting ${allUrls.length} URLs to Bing & Yandex...`);
   const endpoints = [
@@ -30,7 +40,6 @@ async function submitToIndexNow(allUrls: string[]) {
     "https://yandex.com/indexnow",
   ];
 
-  // Batch in chunks of 5,000 (IndexNow max is 10,000)
   const chunkSize = 5000;
   for (let i = 0; i < allUrls.length; i += chunkSize) {
     const chunk = allUrls.slice(i, i + chunkSize);
@@ -89,8 +98,14 @@ async function pingWebSubHubs() {
   }
 }
 
-async function pingXmlRpc() {
-  console.log("\n3. [Ping-o-Matic] Pinging XML-RPC feed syndicators...");
+async function pingXmlRpcServices() {
+  console.log("\n3. [XML-RPC Pings] Broadcasting feeds to Ping-o-Matic, Blo.gs & Twingly...");
+  const pingServices = [
+    { name: "Ping-o-Matic", url: "http://rpc.pingomatic.com/" },
+    { name: "Blo.gs", url: "http://ping.blo.gs/" },
+    { name: "Twingly", url: "http://rpc.twingly.com/" },
+  ];
+
   const xmlPayload = `<?xml version="1.0"?>
 <methodCall>
   <methodName>weblogUpdates.ping</methodName>
@@ -101,93 +116,156 @@ async function pingXmlRpc() {
   </params>
 </methodCall>`;
 
-  try {
-    const res = await fetch("http://rpc.pingomatic.com/", {
-      method: "POST",
-      headers: {
-        "Content-Type": "text/xml",
-        "User-Agent": "HashtagWeb3-FeedSyndicator/1.0",
-      },
-      body: xmlPayload,
-    });
-    const text = await res.text();
-    const isSuccess = text.includes("<boolean>0</boolean>") || text.includes("Thanks for the ping");
-    console.log(`  ✓ Ping-o-Matic response: ${isSuccess ? "Success (0 errors)" : "Received response"}`);
-  } catch (err: any) {
-    console.error(`  ✗ Ping-o-Matic error: ${err.message}`);
+  for (const s of pingServices) {
+    try {
+      const res = await fetch(s.url, {
+        method: "POST",
+        headers: {
+          "Content-Type": "text/xml",
+          "User-Agent": "HashtagWeb3-FeedSyndicator/1.0",
+        },
+        body: xmlPayload,
+      });
+      const text = await res.text();
+      const isSuccess = res.ok && (text.includes("<boolean>0</boolean>") || text.includes("Thanks") || text.includes("flerror"));
+      console.log(`  ✓ ${s.name} response: ${isSuccess ? "Success" : "HTTP " + res.status}`);
+    } catch (err: any) {
+      console.warn(`  ✗ ${s.name} ping note: ${err.message}`);
+    }
   }
 }
 
-async function submitJooblePartnerFeed() {
-  console.log("\n4. [Jooble Partner Syndication] Sending official XML feed application...");
+interface PartnerSubmission {
+  name: string;
+  recipients: string[];
+  subject: string;
+  messageHtml: string;
+}
+
+async function submitPartnerFeeds() {
+  console.log("\n4. [General Aggregator & Directory Syndication] Submitting XML & RSS feeds...");
   const resendKey = process.env.RESEND_API_KEY;
   if (!resendKey) {
-    console.log("  Skipping Jooble email: RESEND_API_KEY not configured.");
+    console.log("  Skipping partner submissions: RESEND_API_KEY not found.");
     return;
   }
 
-  const emailPayload = {
-    from: "Hashtag Web3 <alerts@hashtagweb3.com>",
-    to: ["xml_support@jooble.com", "ats@jooble.jobs"],
-    reply_to: "support@hashtagweb3.com",
-    subject: "Job XML Feed Submission for Indexing — Hashtag Web3 (2,900+ Verified Web3 Vacancies)",
-    html: `
-<div style="font-family: Arial, sans-serif; font-size: 15px; line-height: 1.6; color: #1e293b;">
-  <p>Hello Jooble Partnership and XML Integration Team,</p>
-  
-  <p>We would like to submit our verified Web3 job board XML feed for indexing and syndication on Jooble.</p>
-  
-  <table style="border-collapse: collapse; margin: 16px 0;">
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Company / Platform:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;">Hashtag Web3</td></tr>
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Website:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;"><a href="https://hashtagweb3.com">https://hashtagweb3.com</a></td></tr>
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Job Board URL:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;"><a href="https://hashtagweb3.com/jobs">https://hashtagweb3.com/jobs</a></td></tr>
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Aggregator XML Feed URL:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;"><strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></td></tr>
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Standard RSS 2.0 Feed:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;"><a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></td></tr>
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Active Openings:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;">2,900+ active positions across engineering, smart contracts, marketing, product, and operations.</td></tr>
-    <tr><td style="padding: 6px 12px; font-weight: bold; border: 1px solid #e2e8f0;">Update Frequency:</td><td style="padding: 6px 12px; border: 1px solid #e2e8f0;">Every 8 hours automatically.</td></tr>
-  </table>
+  // STRICTLY NON-COMPETITOR general aggregators and neutral directories
+  const partners: PartnerSubmission[] = [
+    {
+      name: "Jooble Partner Integration",
+      recipients: ["xml_support@jooble.com", "ats@jooble.jobs"],
+      subject: "Job XML Feed Submission for Indexing — Hashtag Web3 (2,900+ Verified Web3 Vacancies)",
+      messageHtml: `
+<p>Hello Jooble Partnership and XML Integration Team,</p>
+<p>We would like to submit our verified Web3 job board XML feed for indexing and syndication on Jooble.</p>
+<ul>
+  <li><strong>Website:</strong> <a href="https://hashtagweb3.com">https://hashtagweb3.com</a></li>
+  <li><strong>XML Feed URL:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>RSS Feed:</strong> <a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></li>
+  <li><strong>Active Openings:</strong> 2,900+ active positions across engineering, smart contracts, marketing, product, and operations.</li>
+  <li><strong>Conforming Tags:</strong> Includes &lt;id&gt;, &lt;name&gt;, &lt;link&gt;, &lt;apply_url&gt;, &lt;region&gt;, &lt;company&gt;, &lt;pubdate&gt;, and CDATA descriptions.</li>
+</ul>
+<p>Please review and add our feed to your indexing schedule. Feel free to contact us with any questions.</p>
+`,
+    },
+    {
+      name: "Adzuna Partnerships",
+      recipients: ["support@adzuna.com", "supportuk@adzuna.com"],
+      subject: "Job XML Feed Submission for Adzuna Indexing — Hashtag Web3 (2,900+ Web3 Positions)",
+      messageHtml: `
+<p>Hello Adzuna Partnerships and Content Integration Team,</p>
+<p>We would like to submit our specialized Web3 job board feed for indexing on Adzuna to broaden the reach of verified crypto, blockchain, and tech openings.</p>
+<ul>
+  <li><strong>Platform:</strong> Hashtag Web3 (<a href="https://hashtagweb3.com">https://hashtagweb3.com</a>)</li>
+  <li><strong>Aggregator XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>Standard RSS 2.0:</strong> <a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></li>
+  <li><strong>Volume:</strong> Over 2,900 verified openings updated every 8 hours.</li>
+  <li><strong>Feed Schema:</strong> Includes standard &lt;title&gt;, &lt;company&gt;, &lt;location&gt;, &lt;url&gt;, &lt;apply_url&gt;, and full vacancy descriptions.</li>
+</ul>
+<p>Please let us know once the feed has been validated or if you require any adjustments to the XML structure.</p>
+`,
+    },
+    {
+      name: "Jobrapido Partner Ingestion",
+      recipients: ["support@jobrapido.com"],
+      subject: "Job XML Feed Submission — Hashtag Web3 (2,900+ Vacancies)",
+      messageHtml: `
+<p>Hello Jobrapido Partnerships and Content Team,</p>
+<p>We would like to submit our specialized tech and Web3 vacancy feed for inclusion in Jobrapido search results:</p>
+<ul>
+  <li><strong>Platform:</strong> Hashtag Web3 (<a href="https://hashtagweb3.com">https://hashtagweb3.com</a>)</li>
+  <li><strong>XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>Job Count:</strong> 2,900+ active positions updated regularly.</li>
+  <li><strong>Fields:</strong> Title, company, region, apply_url, and full descriptions.</li>
+</ul>
+<p>Please let us know if you require any adjustments for feed crawling.</p>
+`,
+    },
+    {
+      name: "Feedspot RSS Directory",
+      recipients: ["anuj@feedspot.com"],
+      subject: "Feed Submission: Hashtag Web3 Jobs RSS Feed for Web3 Career Directory",
+      messageHtml: `
+<p>Hello Anuj and the Feedspot Editorial Team,</p>
+<p>We would like to submit our RSS feed for inclusion in Feedspot's Web3 / Crypto career directories and top job feeds:</p>
+<ul>
+  <li><strong>Feed Name:</strong> Hashtag Web3 Jobs Feed</li>
+  <li><strong>Website:</strong> <a href="https://hashtagweb3.com/jobs">https://hashtagweb3.com/jobs</a></li>
+  <li><strong>RSS URL:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></strong></li>
+  <li><strong>Category:</strong> Web3 Careers, Blockchain Jobs, Tech Recruitment</li>
+  <li><strong>Description:</strong> Daily verified job openings across smart contract security, decentralized finance, and crypto protocols.</li>
+</ul>
+<p>Thank you for curating top industry feeds!</p>
+`,
+    },
+  ];
 
-  <p><strong>XML Feed Conformance:</strong></p>
-  <ul>
-    <li>Includes required Jooble tags: &lt;id&gt;, &lt;name&gt;, &lt;link&gt;, &lt;url&gt;, &lt;apply_url&gt;, &lt;region&gt;, &lt;company&gt;, &lt;pubdate&gt;, and CDATA descriptions.</li>
-    <li>All vacancies provide valid URLs and direct employer apply options.</li>
-  </ul>
-
-  <p>Please review and add our feed to your crawl schedule. If any adjustments to the XML structure are required, feel free to reply directly to this email.</p>
-
-  <p>Best regards,<br>
-  <strong>Hashtag Web3 Team</strong><br>
-  <a href="https://hashtagweb3.com">hashtagweb3.com</a> | <a href="mailto:support@hashtagweb3.com">support@hashtagweb3.com</a></p>
+  for (const partner of partners) {
+    try {
+      const emailPayload = {
+        from: "Hashtag Web3 <alerts@hashtagweb3.com>",
+        to: partner.recipients,
+        reply_to: "support@hashtagweb3.com",
+        subject: partner.subject,
+        html: `
+<div style="font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; font-size: 15px; line-height: 1.6; color: #1e293b;">
+  ${partner.messageHtml}
+  <hr style="border: none; border-top: 1px solid #e2e8f0; margin: 20px 0;" />
+  <p style="font-size: 13px; color: #64748b;">
+    <strong>Hashtag Web3</strong> &bull; <a href="https://hashtagweb3.com" style="color: #0284c7;">hashtagweb3.com</a><br />
+    Verified Web3 Careers, Salary Data, and Hiring Infrastructure.
+  </p>
 </div>
 `,
-  };
+      };
 
-  try {
-    const res = await fetch("https://api.resend.com/emails", {
-      method: "POST",
-      headers: {
-        "Content-Type": "application/json",
-        Authorization: `Bearer ${resendKey}`,
-      },
-      body: JSON.stringify(emailPayload),
-    });
-    const data = await res.json();
-    if (res.ok) {
-      console.log(`  ✓ Jooble XML feed partnership request submitted successfully! (Resend Email ID: ${data.id})`);
-    } else {
-      console.warn(`  ✗ Failed to send Jooble email: ${JSON.stringify(data)}`);
+      const res = await fetch("https://api.resend.com/emails", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Authorization: `Bearer ${resendKey}`,
+        },
+        body: JSON.stringify(emailPayload),
+      });
+      const data = (await res.json()) as any;
+      if (res.ok) {
+        console.log(`  ✓ ${partner.name} submitted successfully! (ID: ${data.id})`);
+      } else {
+        console.warn(`  ✗ ${partner.name} notice: ${JSON.stringify(data)}`);
+      }
+    } catch (err: any) {
+      console.error(`  ✗ Error submitting to ${partner.name}: ${err.message}`);
     }
-  } catch (err: any) {
-    console.error(`  ✗ Error emailing Jooble: ${err.message}`);
+    await sleep(600);
   }
 }
 
 async function main() {
-  console.log("=================================================");
-  console.log(" Hashtag Web3 - Comprehensive Job Syndication Pipeline");
-  console.log("=================================================");
+  console.log("==========================================================");
+  console.log(" Hashtag Web3 - General Aggregator & Search Engine Syndication");
+  console.log("==========================================================");
 
-  // 1. Gather all job URLs from cache
   const cachePath = path.join(rootDir, "content/jobs-cache.json");
   const rawJobs = JSON.parse(fs.readFileSync(cachePath, "utf-8"));
   console.log(`Loaded ${rawJobs.length} jobs from cache.`);
@@ -222,15 +300,15 @@ async function main() {
   // Step 2: Ping WebSub / PubSubHubbub (Google & Feedly)
   await pingWebSubHubs();
 
-  // Step 3: Ping Ping-o-Matic XML-RPC
-  await pingXmlRpc();
+  // Step 3: Ping XML-RPC Services (Ping-o-Matic, Blo.gs, Twingly)
+  await pingXmlRpcServices();
 
-  // Step 4: Submit XML Feed to Jooble
-  await submitJooblePartnerFeed();
+  // Step 4: Submit to General Search Aggregators only (Jooble, Adzuna, Jobrapido, Feedspot)
+  await submitPartnerFeeds();
 
-  console.log("\n=================================================");
-  console.log(" All automated syndication & feed submissions completed!");
-  console.log("=================================================\n");
+  console.log("\n==========================================================");
+  console.log(" Syndications & submissions completed!");
+  console.log("==========================================================\n");
 }
 
 main().catch(console.error);
