@@ -116,19 +116,19 @@ Solidity, unless you already write Rust or target Solana specifically. More jobs
 **How long until job-ready?**
 Six to twelve months of steady building for most career switchers: three months of courses and challenges, three months of portfolio projects with tests and audits of your own code, then applications while doing bounties.
 
-**Do I need a computer science degree?**
+**Computer science degrees**
 No team in the salary data asks for one. They ask for deployed contracts, test coverage, and security reasoning. A degree helps with theory; shipping helps more.
 
-**How do I practice security without risking money?**
+**Practicing security safely**
 Fuzz every project, run Slither, enter Code4rena-style contests on test code, and grind Damn Vulnerable DeFi. [contest and challenge](https://www.cryptorecruit.com/news/what-it-takes-to-get-hired-in-crypto-in-2026/) circuit is the documented path from learner to auditor-track.
 
-**What should my resume lead with?**
+**Resume lead section**
 Deployed contract addresses first, then tests and audit notes, then experience. [Screening rubrics rank](https://gm.careers/blog/how-web3-companies-evaluate-developers) correctness above all, and missing tests read as a reject signal.
 
 **Is Solidity dying with all the new chains?**
 No. Postings data keeps Solidity near 78% of developer demand with Rust second, and every alternative toolchain still interoperates with Solidity ABI somewhere in the stack. Learn Solidity deeply, then add the chain-specific language only when targeting that ecosystem for real roles.
 
-**Should I learn Vyper too?**
+**Learning Vyper too**
 Only after Solidity pays your bills or a target role demands it. The hour you spend on a second language is an hour not spent on fuzzing, contests, or portfolio depth, and [hiring data rewards](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide) depth over breadth at every level.
 
 **How much does an audit cost, and why should juniors care?**
