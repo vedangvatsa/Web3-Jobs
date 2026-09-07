@@ -1,5 +1,5 @@
 {
-  "lastIndex": 96,
+  "lastIndex": 109,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -19,7 +19,12 @@
     "role2ed86",
     "role77009",
     "role48efb",
-    "role34004"
+    "role34004",
+    "backend61e12",
+    "job6178e",
+    "role0c933",
+    "recruiting57",
+    "role6be75"
   ],
   "history": [
     {
@@ -419,48 +424,232 @@
       "company": "LayerZero",
       "title": "Controller",
       "platform": "threads",
-      "postedAt": "2026-09-06T09:30:10.203Z",
-      "postId": "18481511497107741"
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "17940281280346782"
     },
     {
       "slug": "role34004",
       "company": "LayerZero",
       "title": "Controller",
       "platform": "bluesky",
-      "postedAt": "2026-09-06T09:30:10.203Z",
-      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mutontcepz27"
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muttb4rdod2j"
     },
     {
       "slug": "role34004",
       "company": "LayerZero",
       "title": "Controller",
       "platform": "farcaster",
-      "postedAt": "2026-09-06T09:30:10.203Z",
-      "postId": "0xa8c1f42b8a75a18d54e0bedaea938208ff9f927f"
-    },
-    {
-      "slug": "role34004",
-      "company": "LayerZero",
-      "title": "Controller",
-      "platform": "linkedin",
-      "postedAt": "2026-09-06T09:30:10.203Z",
-      "postId": "6a9d32c541e2718ea37a0542"
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "0xd56650d0701404704213eba07d132b8050096917"
     },
     {
       "slug": "role34004",
       "company": "LayerZero",
       "title": "Controller",
       "platform": "facebook",
-      "postedAt": "2026-09-06T09:30:10.203Z",
-      "postId": "1081312087809359"
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "1081362547804313"
     },
     {
       "slug": "role34004",
       "company": "LayerZero",
       "title": "Controller",
       "platform": "instagram",
-      "postedAt": "2026-09-06T09:30:10.203Z",
-      "postId": "17860207962695349"
+      "postedAt": "2026-09-06T10:52:45.167Z",
+      "postId": "18006986999975742"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "threads",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "18049516709803066"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muuckpw55k27"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "0x6f7f3edf3a4b44c2d5cdf5f9d9849b8ed7bb1180"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "6a9d863c05c83fb1f62309ac"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "1081550151118886"
+    },
+    {
+      "slug": "backend61e12",
+      "company": "Phantom",
+      "title": "Senior Software Engineer, Backend (Money Movement)",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T15:26:32.455Z",
+      "postId": "18589484308067622"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "17933922648128280"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muut5crzon2i"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "0x6ce053f67eabd4cebe670c8dd99d184dee1eaa2e"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "6a9dcbca2066ff47cc445952"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "1081734331100468"
+    },
+    {
+      "slug": "job6178e",
+      "company": "Render Network",
+      "title": "Customer Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T20:23:14.711Z",
+      "postId": "17899529526571610"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "threads",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "18107208125327143"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muv3jz7bhv2e"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "0x54ee2f36a25dff85af13b007243fc87b8337d280"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "6a9def00af83b6dedf9e0d43"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "facebook",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "1081806087759959"
+    },
+    {
+      "slug": "role0c933",
+      "company": "Wintermute",
+      "title": "Core Developer (Python)",
+      "platform": "instagram",
+      "postedAt": "2026-09-06T22:53:31.788Z",
+      "postId": "18109198792873757"
+    },
+    {
+      "slug": "recruiting57",
+      "company": "Digital Asset",
+      "title": "Global Talent Acquisition Coordinator",
+      "platform": "threads",
+      "postedAt": "2026-09-07T04:34:06.977Z",
+      "postId": "18115052264071018"
+    },
+    {
+      "slug": "recruiting57",
+      "company": "Digital Asset",
+      "title": "Global Talent Acquisition Coordinator",
+      "platform": "bluesky",
+      "postedAt": "2026-09-07T04:34:06.977Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muvol27kx42e"
+    },
+    {
+      "slug": "recruiting57",
+      "company": "Digital Asset",
+      "title": "Global Talent Acquisition Coordinator",
+      "platform": "farcaster",
+      "postedAt": "2026-09-07T04:34:06.977Z",
+      "postId": "0x8a390edc665a6dc025102f9b611adbe7302ae4db"
+    },
+    {
+      "slug": "recruiting57",
+      "company": "Digital Asset",
+      "title": "Global Talent Acquisition Coordinator",
+      "platform": "linkedin",
+      "postedAt": "2026-09-07T04:34:06.977Z",
+      "postId": "6a9e3ed49cbcb5855646ccb9"
+    },
+    {
+      "slug": "recruiting57",
+      "company": "Digital Asset",
+      "title": "Global Talent Acquisition Coordinator",
+      "platform": "facebook",
+      "postedAt": "2026-09-07T04:34:06.977Z",
+      "postId": "1081981664409068"
+    },
+    {
+      "slug": "role6be75",
+      "company": "Sky Mavis",
+      "title": "Freelance Travel Spend & Market Explorer",
+      "platform": "instagram",
+      "postedAt": "2026-09-07T14:41:48.787Z",
+      "postId": "17956455222217699"
     }
   ]
 }
