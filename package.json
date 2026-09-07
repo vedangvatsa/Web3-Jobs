@@ -26,7 +26,7 @@
   ],
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true",
+    "prebuild": "npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true && npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true",
     "ingest:all": "npx tsx scripts/ingest-all.ts",
     "ingest:mercuryo": "npx tsx scripts/ingest-mercuryo-bamboo.ts",
     "ingest:coindcx": "npx tsx scripts/ingest-coindcx-official.ts",
@@ -34,7 +34,7 @@
     "ingest:global": "npx tsx scripts/ingest-global-ecosystem-feeds.ts",
     "ingest:untracked": "npx tsx scripts/ingest-untracked-web3-companies.ts",
     "build": "next build",
-    "postbuild": "mkdir -p .next/standalone/public && cp -r public/* .next/standalone/public/ 2>/dev/null || true && mkdir -p .next/standalone/.next/static && cp -r .next/static/* .next/standalone/.next/static/ 2>/dev/null || true",
+    "postbuild": "mkdir -p .next/standalone/public && cp -r public/. .next/standalone/public/ 2>/dev/null || true && mkdir -p .next/standalone/.next/static && cp -r .next/static/* .next/standalone/.next/static/ 2>/dev/null || true",
     "stamp-dates": "npx tsx scripts/stamp-article-dates.ts",
     "start": "node .next/standalone/server.js",
     "lint": "next lint",
