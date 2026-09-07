@@ -85,31 +85,24 @@ async function gqlRequest(query: string, variables: any) {
 }
 
 function generateSlots(count: number): Date[] {
- const slots: Date[] = [];
- const hours = [1, 9, 17]; // IST hours
- const d = new Date();
- d.setDate(d.getDate() + 1); // Start from tomorrow
- d.setMinutes(0, 0, 0);
+  const slots: Date[] = [];
+  const hours = [1, 4, 7, 10, 13, 16, 19, 22]; // IST hours (every 3 hours)
+  const now = new Date();
+  const istDateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(now);
+  // Start from tomorrow
+  let day = new Date(`${istDateStr}T00:00:00+05:30`);
+  day = new Date(day.getTime() + 24 * 3600 * 1000);
 
- while (slots.length < count) {
- for (const h of hours) {
- const slot = new Date(d);
- if (h < 6) {
- slot.setUTCHours(19, 30, 0, 0);
- slot.setDate(slot.getDate() - 1);
- } else {
- const utcHour = h - 6;
- slot.setUTCHours(utcHour, 30, 0, 0);
- }
-
- const now = new Date();
- if (slot > now && slots.length < count) {
- slots.push(new Date(slot));
- }
- }
- d.setDate(d.getDate() + 1);
- }
- return slots;
+  while (slots.length < count) {
+    for (const h of hours) {
+      const slot = new Date(day.getTime() + h * 3600 * 1000);
+      if (slot > now && slots.length < count) {
+        slots.push(new Date(slot));
+      }
+    }
+    day = new Date(day.getTime() + 24 * 3600 * 1000);
+  }
+  return slots;
 }
 
 async function run() {

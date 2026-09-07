@@ -39,7 +39,7 @@ async function fixQueue() {
  // Sort by dueAt so we can space them out properly
  posts.sort((a: any, b: any) => new Date(a.dueAt).getTime() - new Date(b.dueAt).getTime());
 
- // Re-schedule them 8 hours apart starting from the earliest one, OR starting from 5PM today if earliest is already passed
+ // Re-schedule them 3 hours apart starting from the earliest one, OR starting from 5PM today if earliest is already passed
  let baseTime = new Date('2026-05-09T11:30:00.000Z'); // 5 PM IST today
  
  for (let i = 0; i < posts.length; i++) {
@@ -73,8 +73,8 @@ async function fixQueue() {
  console.log(`Post ${p.id} already at correct time ${newDueAt}.`);
  }
 
- // Add 8 hours for the next slot
- baseTime.setHours(baseTime.getHours() + 8);
+ // Add 3 hours for the next slot
+ baseTime.setHours(baseTime.getHours() + 3);
  }
  }
 }

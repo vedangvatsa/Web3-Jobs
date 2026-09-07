@@ -233,51 +233,34 @@ async function run() {
  const REFILL_THRESHOLD = 5;
  const BATCH_SIZE = 5;
 
- // Generate time slots starting from a given time
- const generateSlots = (count: number, startTimeStr: string): Date[] => {
- const slots: Date[] = [];
- const hours = [1, 9, 17]; // IST hours
- 
- let d = new Date();
- let strictlyAfter = new Date();
- if (startTimeStr) {
- const st = new Date(startTimeStr);
- if (!isNaN(st.getTime()) && st > d) {
- d = new Date(st);
- strictlyAfter = new Date(st);
- }
- }
- 
- d.setMinutes(0, 0, 0);
+  // Generate time slots starting from a given time
+  const generateSlots = (count: number, startTimeStr: string): Date[] => {
+    const slots: Date[] = [];
+    const hours = [1, 4, 7, 10, 13, 16, 19, 22]; // IST hours (every 3 hours)
+    
+    let now = new Date();
+    let strictlyAfter = new Date();
+    if (startTimeStr) {
+      const st = new Date(startTimeStr);
+      if (!isNaN(st.getTime()) && st > strictlyAfter) {
+        strictlyAfter = new Date(st);
+      }
+    }
 
- while (slots.length < count) {
- for (const h of hours) {
- // Convert IST hour to UTC: IST = UTC+5:30
- // So IST 1:00 = UTC 19:30 (prev day), IST 9:00 = UTC 3:30, IST 17:00 = UTC 11:30
- const slot = new Date(d);
- const utcHour = h < 6 ? (h - 6 + 24) : (h - 6);
- const utcMin = h < 6 ? 30 : 30;
- slot.setUTCHours(utcHour, utcMin, 0, 0);
+    const istDateStr = new Intl.DateTimeFormat('en-CA', { timeZone: 'Asia/Kolkata' }).format(now);
+    let day = new Date(`${istDateStr}T00:00:00+05:30`);
 
- // If IST hour < 6, slot is on previous UTC day but we started from current day,
- // so for IST 1am, the UTC time is 19:30 previous day
- if (h < 6) {
- // IST 1am = UTC 19:30 same calendar day minus 1
- // Actually: IST 1:00 Mar 31 = UTC 19:30 Mar 30
- // But we want future slots, so if IST 1am today already passed, skip
- slot.setUTCHours(19, 30, 0, 0);
- slot.setDate(slot.getDate() - 1);
- }
-
- const now = new Date();
- if (slot > now && slot > strictlyAfter && slots.length < count) {
- slots.push(new Date(slot));
- }
- }
- d.setDate(d.getDate() + 1);
- }
- return slots;
- };
+    while (slots.length < count) {
+      for (const h of hours) {
+        const slot = new Date(day.getTime() + h * 3600 * 1000);
+        if (slot > now && slot > strictlyAfter && slots.length < count) {
+          slots.push(new Date(slot));
+        }
+      }
+      day = new Date(day.getTime() + 24 * 3600 * 1000);
+    }
+    return slots;
+  };
 
  // Refill LinkedIn
  if (liCount < REFILL_THRESHOLD) {

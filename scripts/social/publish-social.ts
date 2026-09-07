@@ -813,10 +813,11 @@ async function main() {
  // Ensure state file exists for future runs
  saveState(state);
 
- // Cooldown check: prevent multiple posts within 4 hours on same platform
+ // Cooldown check: prevent duplicate rapid posts while allowing 3-hour interval schedule
  const platformState = state[platform as keyof PublishState];
  const forcePost = process.argv.includes('--force');
- const COOLDOWN_MS = 4 * 60 * 60 * 1000; // 4 hours
+ const COOLDOWN_HOURS = Number(process.env.POST_COOLDOWN_HOURS || 2.5);
+ const COOLDOWN_MS = COOLDOWN_HOURS * 60 * 60 * 1000; // 2.5 hours default
 
  if (!forcePost && platformState.posted.length > 0) {
  const lastEntry = platformState.posted[platformState.posted.length - 1];

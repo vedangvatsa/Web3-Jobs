@@ -2,8 +2,9 @@ name: Post Job Openings to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, R
 
 on:
   schedule:
-    # Runs 8 times a day (every 3 hours): 01:15, 04:15, 07:15, 10:15, 13:15, 16:15, 19:15, 22:15 UTC
-    - cron: '15 */3 * * *'
+    # Runs 8 times a day (every 3 hours): 01:21, 04:21, 07:21, 10:21, 13:21, 16:21, 19:21, 22:21 UTC
+    # Off-peak minute :21 prevents GitHub Actions queue delays and dropped events
+    - cron: '21 1,4,7,10,13,16,19,22 * * *'
   workflow_dispatch:
     inputs:
       platform:
