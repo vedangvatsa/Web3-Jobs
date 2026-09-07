@@ -177,8 +177,10 @@ export function getCompanySlug(company: string): string {
   }
   return (company || 'web3')
     .toLowerCase()
+    .replace(/[’'"]/g, '')
     .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
+    .replace(/^-+|-+$/g, '')
+    .replace(/-+/g, '-');
 }
 
 export function getCardTitle(title: string, max = 34): string {

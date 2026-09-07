@@ -449,8 +449,10 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
 function createSlug(companyName: string): string {
  return companyName
   .toLowerCase()
+  .replace(/[’'"]/g, '')
   .replace(/[^a-z0-9]+/g, '-')
-  .replace(/^-+|-+$/g, '');
+  .replace(/^-+|-+$/g, '')
+  .replace(/-+/g, '-');
 }
 
 function buildListingDescription(companyName: string, jobs: Job[]): string {
