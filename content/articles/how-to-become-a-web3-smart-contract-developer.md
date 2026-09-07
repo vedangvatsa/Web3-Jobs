@@ -3,113 +3,154 @@ title: How to Become a Smart Contract Developer
 image: /images/tommy-texter-T42j_xLOqw0-unsplash.jpg
 data-ai-hint: smart contract developer
 description: >-
-  Your complete guide to becoming a smart contract developer. Learn the
-  essential skills, languages, tools, and projects you need to build a
-  successful.
+  A research-backed roadmap to smart contract work: EVM basics, Solidity,
+  security, audits, and hiring. 65+ cited sources with real hack and salary data.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
-Becoming a [smart contract](/what-are-smart-contracts) developer is one of the most exciting and lucrative career paths in technology today. As the world transitions towards a more decentralized internet, the demand for engineers who can build secure and efficient decentralized applications (dApps) has increased significantly. But for newcomers, the path can seem daunting. What languages do you need to learn? What tools are essential? And what kind of projects should you build to prove your skills?
+Smart contracts move billions of dollars with no undo button. That is why the role pays well and why the bar is proof, not promises. [Across 2,400 postings, 78% of Web3 developer jobs require Solidity, with auditors reaching $250k to $500k and a 20 to 40% premium over Web2 equivalents](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). This guide gives the full path: basics, language, toolchain, security, testing, portfolio, and hiring. Every claim links to its source.
 
-This guide provides a step-by-step roadmap for aspiring smart contract developers. We'll take you from absolute beginner to job-ready, covering the foundational knowledge, the core tech stack, and a practical project-based learning path. This isn't just about learning to code; it's about learning to think like a [Web3](/what-is-web3) builder.
+[![Ethereum logo, the main smart contract platform](https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg)](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg)
+*Image: Ethereum logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) (public domain, trademarked).*
 
-### Step 1: Master the Fundamentals (Don't Skip This!)
+## Step 1: learn how the machine works
 
-Before you write a single line of code, you must understand the environment you're building for. Rushing this step is a common mistake that leads to building insecure or inefficient applications.
+Start with the execution model, not syntax. [Ethereum's technical intro covers blocks, nodes, proof of stake, and the EVM as the canonical computer](https://ethereum.org/developers/docs/intro-to-ethereum/). [The EVM reference details the stack machine with 1024 slots of 256 bits, gas metering, and the memory, transient, and storage tiers](https://ethereum.org/developers/docs/evm/). [Solidity's own introduction explains what a contract is and how EVM storage works](https://docs.soliditylang.org/en/latest/introduction-to-smart-contracts.html). [Ethereum.org's smart contract guide adds the practical side: anyone can deploy with ETH for gas, and high-level code must compile to EVM bytecode](https://ethereum.org/developers/docs/smart-contracts/). [Solidity's homepage positions the language itself: statically typed with curly-brace syntax](https://www.soliditylang.org/). If you are new to chains entirely, read [what a blockchain is](/what-is-a-blockchain) and [what Ethereum is](/what-is-ethereum) first.
 
-- **What is a Blockchain?**Understand the concepts of decentralization, immutability, and consensus mechanisms (Proof of Work vs. Proof of [Stake](/how-to-become-a-web3-staking-specialist)). You can start with our [guide to blockchain technology](/what-is-a-blockchain).
--**Public Key Cryptography:**Learn how public and private keys work. Understand what a digital signature is and why it's fundamental to transaction security.
--**How [Ethereum](/what-is-ethereum) Works:**Study the architecture of the Ethereum [blockchain](/what-is-a-blockchain). Understand the roles of nodes, the EVM (Ethereum Virtual Machine), and the concept of "state."
+Key ideas to hold: state lives forever and costs rent in gas. Code is public. Upgrades need planning because deployment alone is immutable. Everything downstream follows from those three facts.
 
-### Step 2: Learn the Core Programming Languages
+## Step 2: pick a language, then learn one well
 
-Your choice of language will depend on what you want to build, but for most dApp developers, the path starts with [Solidity](/best-programming-languages-for-blockchain-development).
+Solidity first for almost everyone: it has the jobs, the courses, and the audit tooling. [Ethical Crypto's comparison frames the trade-offs: Solidity's checked math since 0.8, Rust's ownership model, Vyper's deliberate limits](https://ethical-crypto.com/protocols/smart-contract-programming-languages-solidity-rust). [Blockchain App Factory's 2026 table makes it chain-first with hiring and audit-cost trade-offs](https://www.blockchainappfactory.com/blog/smart-contract-languages-compared-solidity-vs-vyper-vs-rust-vs-move-in-2026/). [Vyper's docs list what it removes on purpose: no inheritance, no overloading, no inline assembly, bounded loops, with reentrancy protection built in](https://docs.vyperlang.org/en/latest/solidity-differences.html). [Arbitrum Stylus documents how Rust contracts interoperate with the Solidity ABI through WASM](https://docs.arbitrum.io/stylus/advanced/rust-to-solidity-differences). For language context see [top Web3 languages](/top-5-web3-languages) and [blockchain development languages](/best-programming-languages-for-blockchain-development).
 
--**Solidity:**This is the most popular language for writing smart contracts on Ethereum and other EVM-compatible chains. Its syntax will feel familiar to developers with a JavaScript or C++ background. This is your top priority.
--**JavaScript/TypeScript:**Essential for building the front-end of your dApps. You'll use it with libraries like Ethers.js or Viem to interact with your smart contracts.
--**Rust (Advanced):**If you're interested in building the core blockchain infrastructure itself (Layer 1s), Rust is the language of choice for high-performance chains like Solana and Polkadot. It has a steep learning curve but opens up elite-level opportunities.
+Learn [Solidity's contract model](https://docs.soliditylang.org/en/latest/contracts.html): creation, visibility, getters, modifiers, events. Then stop adding languages and go deep on one.
 
-You can learn more about which language to choose in our [breakdown of the top 5 Web3 languages](/top-5-web3-languages).
+That said, know what the alternatives optimize for, because interviews probe the comparison. Vyper trades expressiveness for auditability: no inheritance, no function overloading, no inline assembly, bounded loops, and reentrancy protection by default, per [its Solidity-differences page](https://docs.vyperlang.org/en/latest/solidity-differences.html). Teams securing billions in canonical vaults and registries accept the smaller feature set for the smaller attack surface. Arbitrum Stylus goes the other direction: write contracts in Rust, compile to WASM, and interoperate with Solidity ABI, with [documented differences around storage accessors, attributes, and the absence of modifiers and assembly](https://docs.arbitrum.io/stylus/advanced/rust-to-solidity-differences). The performance edge matters for compute-heavy paths like order books and games. [Chain-first comparison tables](https://www.blockchainappfactory.com/blog/smart-contract-languages-compared-solidity-vs-vyper-vs-rust-vs-move-in-2026/) keep the decision practical: target chain first, team skills second, theoretical purity last. Move deserves a mention for Aptos and Sui roles, but learn it only when chasing those ecosystems specifically.
 
-### Step 3: Get Familiar with the Developer Toolkit
+## Step 3: choose a toolchain and master testing
 
-You'll need a specialized set of tools to write, test, and deploy your smart contracts.
+Foundry or Hardhat, then both eventually. [Markaicode's comparison finds Foundry compiling two to three times faster and testing four to five times faster, with Hardhat's JavaScript ecosystem against Foundry's Rust speed](https://markaicode.com/vs/hardhat-vs-foundry/). [A deployment guide contrasts Forge, Anvil, Cast, and Chisel against the Hardhat runner, tasks, and plugins](https://jayy4rl.hashnode.dev/hardhat-vs-foundry-complete-smart-contract-deployment-guide). [Eduard Stere's framework review adds the decision rule both ways with Hardhat 3's Rust runtime](https://eduardstal.com/blog/02-2025_ethereum-the-good-the-bad-the-broken). [DEV's 2026 benchmark on 80 tests plus a use-both workflow shows where each wins](https://dev.to/pavelespitia/foundry-vs-hardhat-in-2026-which-solidity-toolchain-wins-20jd). [MetaMask's comparison walks installation, Anvil versus Hardhat Network, and deployment script differences](https://metamask.io/news/hardhat-vs-foundry-choosing-the-right-ethereum-development-tool). [Blockchain Council cites a 26-contract compile at 14.56 seconds against 8.53 with Ignition versus forge scripting](https://www.blockchain-council.org/smart-contracts/building-testing-deploying-smart-contracts-hardhat-foundry/). [Hardhat 3 itself brings the Rust runtime with Solidity and TypeScript tests plus OP Stack and Base simulation](https://hardhat.org/). Try [Foundry the modern toolkit](/an-introduction-to-foundry-the-modern-solidity-toolkit) for the fast path.
 
--**Development Environment:**-**Hardhat (Recommended for Beginners):**A flexible and popular JavaScript-based environment for compiling, testing, and deploying Solidity contracts.
- -**Foundry:**A faster, more modern alternative that allows you to write your tests directly in Solidity. Read our [introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit).
--**[Wallet](/how-to-choose-a-crypto-wallet):** **MetaMask**is the standard browser-based wallet you'll use for development and testing. Learn how to use it with test networks like Sepolia.
--**Indexing Protocol:** **The Graph**is the standard way to query data from the blockchain efficiently. You'll use it to build APIs for your dApp's frontend.
--**Boilerplates & Libraries:**Use resources like**Scaffold-ETH**to quickly set up a full-stack dApp environment.
+[![Neon smart contract sign](https://images.unsplash.com/photo-1744506123990-2ec6a304437f?fm=jpg&q=60&w=1600&auto=format&fit=crop)](https://unsplash.com/photos/neon-sign-promoting-smart-contract-technology-AKvIf98CWIY)
+*Image via [Unsplash, neon smart contract sign](https://unsplash.com/photos/neon-sign-promoting-smart-contract-technology-AKvIf98CWIY) (Unsplash License, free to use).*
 
-### Step 4: A Project-Based Learning Roadmap
+Testing is where juniors separate from hires. [Foundry's invariant guides define the invariant prefix, handler and ghost patterns, and runs, depth, and interval config](https://www.getfoundry.sh/guides/invariant-testing). [Cyfrin's fuzzing guide separates stateless from stateful fuzzing with counterexamples, run counts, and target contracts](https://www.cyfrin.io/blog/smart-contract-fuzzing-and-invariants-testing-foundry). [A DEV walkthrough shows testFuzz prefixes with bound versus assume patterns plus fixture amounts and seed config](https://dev.to/regisgraptin/fuzz-testing-invariants-in-solidity-secure-smart-contracts-with-foundry-34ab). [RareSkills documents the 256-run, 15-depth defaults with open versus handler-based testing](https://rareskills.io/post/invariant-testing-solidity). Write fuzz tests before you claim anything is safe. [Hiring teams treat missing tests as a reject signal](https://gm.careers/blog/how-web3-companies-evaluate-developers).
 
-The best way to learn is by building. Follow this project progression to build your skills and your [portfolio](/building-web3-portfolio).
+## Step 4: study the hacks like case law
 
-1.**Project 1: Simple Storage Contract**-**Goal:**Learn the basics of Solidity syntax.
- -**Task:**Write a contract that allows you to store a number and retrieve it. Deploy it on a testnet using Remix or Hardhat.
-2.**Project 2: Your Own ERC-20 [Token](/what-is-a-token)**-**Goal:**Understand token standards.
- -**Task:**Write and deploy your own simple cryptocurrency. Build a basic frontend using React and Ethers.js that allows users to connect their wallet and see their balance of your token.
-3.**Project 3: An [NFT](/what-are-nfts) Collection**-**Goal:**Learn the ERC-721 standard.
- -**Task:**Create a simple generative art NFT collection. Write a contract that allows users to mint one of your NFTs. Display the minted NFTs on your frontend.
-4.**Project 4: A Decentralized Staking dApp**-**Goal:**Understand basic [DeFi](/what-is-defi) mechanics.
- -**Task:**Build a contract where users can deposit the ERC-20 token you created in Project 2. The contract should reward them with more tokens over time as a reward. This is a foundational DeFi primitive.
-5.**Project 5: Contribute to an Open-Source Project**-**Goal:**Get real-world experience and build your reputation.
- -**Task:**Find a Web3 project on GitHub. Start by fixing a small bug, improving documentation, or adding a simple feature. This is one of the most powerful signals you can send to potential employers.
+Every major bug class has a billion-dollar exhibit. Learn them in order.
 
-### Step 5: Build Your Web3 Presence
+**The DAO, June 2016.** Recursive-call reentrancy drained 3.6 million ETH, about $60M then, and split Ethereum from Ethereum Classic. [Smart Contract Hacking documents the mechanics and date](https://smartcontractshacking.com/hacks/the-dao-hack-2016). [CoinDesk's contemporaneous report covers the $150M-plus raise with funds locked in a child DAO](https://www.coindesk.com/markets/2016/06/17/the-dao-attacked-code-issue-leads-to-60-million-ether-theft).
 
--**Active GitHub:**Your GitHub is your [resume](/how-to-build-a-web3-resume-that-stands-out). Keep it clean, well-documented, and active.
--**Twitter & Farcaster:**Follow and interact with builders in the space. Share what you're learning.
--**Hackathons:**Participate in hackathons like those hosted by ETHGlobal. They are a great way to learn fast, meet people, and win grants.
+**Parity multisig, 2017.** Two disasters, one codebase. [Parity's post-mortem details the November library self-destruct freezing 513,774.16 ETH across 587 wallets via initWallet](https://medium.com/paritytech/a-postmortem-on-the-parity-multi-sig-library-self-destruct-63daca3a4cf7). [Ars Technica reports the roughly one million ETH frozen figure with Polkadot treasury impact](https://arstechnica.com/information-technology/2017/11/with-deletion-of-one-wallet-280-m-in-ethereum-wallets-gets-frozen/). [CNBC covers the accidental-trigger narrative](https://www.cnbc.com/2017/11/08/accidental-bug-may-have-frozen-280-worth-of-ether-on-parity-wallet.html). [TechCrunch adds the July theft of 150,000 ETH and the early 600,000 ETH estimate](https://techcrunch.com/2017/11/07/a-major-vulnerability-has-frozen-hundreds-of-millions-of-dollars-of-ethereum/).
 
-The journey to becoming a smart contract developer is a marathon, not a sprint. It requires continuous learning and a genuine passion for the technology. By following this roadmap and consistently building, you'll acquire the skills and portfolio needed to land a high-impact role in the industry.
+**Ronin Bridge, March 2022.** Validator keys compromised, 173,600 ETH plus $25.5M USDC gone, six days undetected. [Smart Contract Hacking gives the amounts](https://smartcontractshacking.com/hacks/ronin-hack-2022). [Smartcontractaudit stresses no contract logic was exploited: five-of-nine signatures were simply valid, with Lazarus attribution](https://smartcontractaudit.com/guides/ronin-network-2022-hack-analysis). [Decrypt dates discovery to March 29 with a gas-free RPC backdoor](https://decrypt.co/96322/hacker-622-million-axie-infinity-ronin-ethereum). [WalletWitness walks the forensics: $540M at theft versus $625M later, $150M Binance-led reimbursement, $80M-plus through Tornado Cash](https://walletwitness.com/blog/ronin-bridge-hack-forensic-walkthrough/).
 
-## Why These Skills Matter
+The defenses follow directly. [Solidity's security docs mandate checks-effects-interactions and warn against tx.origin for auth](https://docs.solidity.org/en/latest/security-considerations.html). [OpenZeppelin's ReentrancyGuard source shows the nonReentrant modifier with its transient-storage successor](https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/utils/ReentrancyGuard.sol). [Its API docs add PullPayment and Pausable to the standard kit](https://docs.openzeppelin.com/contracts/4.x/api/security). [The post-Istanbul analysis killed the 2300-gas stipend habit in favor of guards and pull payments](https://www.openzeppelin.com/news/reentrancy-after-istanbul). [OWASP's reentrancy taxonomy covers single, cross-function, cross-contract, and read-only variants](https://scs.owasp.org/sctop10/SC08-ReentrancyAttacks/). [Alchemy's best-practice guide opens with $2.3B in first-half 2025 losses and a proxy and access-control checklist](https://www.alchemy.com/overviews/smart-contract-security-best-practices). [OnFinality's checklist adds Slither detectors and the msg.sender versus tx.origin rule](https://onfinality.io/en/rpc-assistant/smart-contract-security-best-practices). For [tokens](/what-is-a-token) and [NFTs](/what-are-nfts) you touch, read the standards before the tutorials.
 
-These competencies are foundational for success in modern careers. Whether you're in Web3, traditional tech, or any knowledge-intensive field, these skills determine your trajectory. Studies consistently show that these abilities have a significant return on investment over time.
+## Step 5: understand audits before you need one
 
-## Skill Breakdown
+[OpenZeppelin's audit flow runs preparation plus automated inspection with about 60% of lows caught by tooling and two researchers per line with fuzzing](https://www.openzeppelin.com/security-audits). [Trail of Bits' maturity model defines nine control families with fuzzing required from moderate maturity up](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/). [Pricing reviews put Trail of Bits near $50k to start with one-to-three-month leads on a Slither, Echidna, and Medusa toolchain](https://smartcontractaudit.com/auditors/trail-of-bits). [A Diligence comparison scopes two to four weeks and $50k to $500k-plus against four to eight weeks and $100k to $1M-plus](https://chainscorelabs.com/comparisons/security-audits-vs-formal-verification/smart-contract-verification-methods/consensys-diligence-vs-trail-of-bits-service-comparison). [NomosLabs' 2026 pricing sets tier-one minimums at $50k to $500k-plus against a $750 single-contract baseline](https://nomoslabs.io/blog/smart-contract-audit-cost-2026-full-pricing-guide). [DevOracles breaks it down further: $5k to $15k per token, $15k to $40k per protocol, $50k to $100k-plus per bridge, tier-one $80k to $200k-plus near $25k per engineer-week](https://devoracles.com/articles/smart-contract-audit-cost-is/).
 
-### Core Competencies**Technical Foundation**(if applicable) 
-Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.**Communication Excellence**The ability to clearly explain complex ideas is rare and valuable. Practice writing emails, documentation, and presentations. Clarity compounds over time.**Problem-Solving Methodology**Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.**Learning Agility**In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.**Emotional Intelligence** 
-Understanding and managing your emotions, and reading others, determines your effectiveness in teams and negotiations.
+Build audit-ready habits early. [Trail of Bits' handbook gives the code-maturity and token checklists with Echidna, Medusa, Slither, and Manticore guidance](https://trailofbits.com/guides/building-secure-smart-contracts/). [Crytic's exercise repo pairs not-so-smart contracts with the same toolchain](https://github.com/crytic/building-secure-contracts/). [ConsenSys' recommendations cover untrusted-contract marking, send versus transfer versus call trade-offs, assert versus require, and pragma locking](https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/recommendations/). [OpenZeppelin's development docs show the Hardhat plus ethers flow with imports over copy-paste](https://docs.openzeppelin.com/contracts/5.x/learn/developing-smart-contracts).
 
-## Development Roadmap
+[![Smart contract technology illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg/960px-Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg)](https://commons.wikimedia.org/wiki/File:Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg)
+*Image: smart contract illustration by HaiYoungJuthen via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg).*
 
-### Month 1: Assessment & Foundation
-- Assess your current level in each skill
-- Identify your biggest gaps
-- Commit to dedicated practice time (5-10 hours/week)
-- Read foundational books or courses
+## Step 6: learn in public with proven courses
 
-### Months 2-3: Active Development
-- Practice consistently with feedback
-- Find a mentor or community
-- Work on real projects, not tutorials
-- Track measurable progress
+[SpeedRunEthereum's challenge roadmap runs NFT, crowdfunding, token vendor, dice, DEX, lending, stablecoin, and prediction-market builds](https://speedrunethereum.com/learn-solidity). [Cyfrin Updraft serves 200,000 students across 40 videos from Remix basics through oracles and fallbacks](https://updraft.cyfrin.io/courses/solidity). [CryptoZombies remains the classic first tutorial: an in-browser game starting from zero](https://cryptozombies.io/). [Cyfrin's blockchain roadmap orders Hardhat plus Foundry with SpeedRun and CryptoZombies exercises](https://www.cyfrin.io/blog/how-to-become-a-blockchain-solidity-developer). [Its free-course guide documents 200,000 members with 1.5 million lessons on the basics to Foundry path](https://www.cyfrin.io/blog/learn-web3-development-roadmap). [Its course roundup adds 96-plus hours on Updraft, 400,000 CryptoZombies users, and SpeedRun on Scaffold-ETH 2](https://www.cyfrin.io/blog/learn-solidity-from-scratch-courses). Pick one track and finish it. Half of two courses is worth less than all of one. For [choosing a crypto wallet](/how-to-choose-a-crypto-wallet) to deploy from, keep it simple: one browser wallet, one hardware wallet later.
 
-### Months 4-6: Specialization
-- Go deeper in your strongest areas
-- Build portfolio pieces that showcase skills
-- Share knowledge with others (teaching cements learning)
-- Refine based on your specific career goals
+How to choose between the big three tracks? CryptoZombies wins on zero setup and game feel, which suits absolute beginners testing interest. SpeedRun wins on shipped artifacts, since every challenge ends deployed with a frontend, which suits portfolio builders directly. Updraft wins on depth and structure with 96-plus hours, which suits learners who want one comprehensive spine instead of many tutorials. [The free-course guide documents the scale behind each option with member and lesson counts](https://www.cyfrin.io/blog/learn-web3-development-roadmap). Whichever you pick, the completion test is the same: can you build the next project without rewatching lessons? If yes, move on. If no, rebuild the last challenge from memory before continuing. Tutorial hell ends the moment you close the video and ship something ungraded.
 
-### Months 6-12: Integration & Mastery
-- Apply skills in increasingly complex scenarios
-- Move from conscious competence to unconscious competence
-- Help others develop these skills
-- Continuously refine through feedback
+## The six-month schedule that works
 
-## Verifiable Primary Sources & References
+**Months 1 to 2: foundations and first deploys.** Finish one interactive course track end to end. [CryptoZombies takes most beginners from zero to a working game in weeks](https://cryptozombies.io/). Deploy every tutorial contract to a testnet and keep a log with addresses. Read the [EVM reference](https://ethereum.org/developers/docs/evm/) alongside, one section per week, until storage, memory, and calldata stop blurring together.
 
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-7. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-8. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
-9. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
-10. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
+**Months 3 to 4: toolchain and testing depth.** Move everything into Foundry or Hardhat with real test suites. [The 80-test benchmark data shows which toolchain fits your machine and habits](https://dev.to/pavelespitia/foundry-vs-hardhat-in-2026-which-solidity-toolchain-wins-20jd). Add fuzz tests to every project. [The handler plus ghost-variable pattern from the invariant guides generalizes to nearly any stateful contract](https://www.getfoundry.sh/guides/invariant-testing). Enter one audit contest on test code to feel real reviewer pressure.
+
+**Months 5 to 6: portfolio and applications.** Build the five staples with verified sources, gas notes, and demo threads. [The AMM, stablecoin, and DAO projects teach the three dominant DeFi shapes](https://www.cyfrin.io/blog/five-beginner-solidity-projects-to-build-a-developer-portfolio). Apply while doing bounties, following [the one-to-three-week loop with take-homes and founder chats](https://gm.careers/blog/web3-interview-preparation).
+
+## The beginner bug gallery
+
+Almost every junior writes these five bugs. Learn to spot each in other people's code and you will stop writing them in your own.
+
+**Reentrancy by update-after-call.** Any Ether or token transfer before state updates is suspect. [The DAO's recursive drain is the canonical exhibit](https://smartcontractshacking.com/hacks/the-dao-hack-2016). Fix with checks-effects-interactions plus [OpenZeppelin's guard](https://github.com/OpenZeppelin/openzeppelin-solidity/blob/master/contracts/utils/ReentrancyGuard.sol).
+
+**tx.origin authentication.** Phishing contracts forward calls, so authorizing on origin instead of sender hands control to attackers. [Solidity's security docs flag this explicitly](https://docs.solidity.org/en/latest/security-considerations.html). Always check msg.sender.
+
+**Unbounded loops over user-controlled arrays.** Gas limits turn these into denial-of-service vectors. Paginate, pull instead of push, and bound every iteration. [OnFinality's checklist treats loop bounds as a pre-deploy gate](https://onfinality.io/en/rpc-assistant/smart-contract-security-best-practices).
+
+**Missing access control on sensitive functions.** Mint, pause, upgrade, and withdraw functions without owner or role checks get drained within hours of deployment. [Alchemy's best-practice guide lists access control beside proxies as the two most skipped basics](https://www.alchemy.com/overviews/smart-contract-security-best-practices).
+
+**Stale oracle reads.** A spot price with no staleness check or TWAP invites manipulation. [RareSkills' project list keeps oracle-fed builds in the curriculum precisely because pricing bugs recur](https://rareskills.io/post/beginner-solidity-projects). Read twice, use once.
+
+## The auditor track: year two and beyond
+
+Once hired, the highest-paid lane is security review. [Auditors clear $250k to $500k with tier-one firms billing near $25k per engineer-week](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). The path runs through contests, then junior review slots, then firm roles. [Trail of Bits publishes the maturity model firms actually hire against](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/). [Its handbook plus the Crytic exercise set form the standard self-study spine](https://trailofbits.com/guides/building-secure-smart-contracts/) ([exercises](https://github.com/crytic/building-secure-contracts/)). [ConsenSys' recommendations fill the gaps on untrusted-contract marking and call primitive trade-offs](https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/recommendations/). Expect all-nighters before mainnet freezes and some of the most satisfying debugging of your career.
+
+## Step 7: build the five portfolio staples
+
+[Cyfrin's portfolio set names them: Chainlink lottery, crowdfunding, Uniswap-style AMM, stablecoin, and DAO](https://www.cyfrin.io/blog/five-beginner-solidity-projects-to-build-a-developer-portfolio). [RareSkills adds NFT-for-ERC20 swaps, vesting, crowdfunding, English auctions, marketplaces, lotteries, and blackjack](https://rareskills.io/post/beginner-solidity-projects). [Scaler's fifteen-tier list runs from vaults, ERC-20s, voting, and escrow through todos, lotteries, and marketplaces to multisigs, DAOs, oracles, upgradeables, and audits](https://www.scaler.com/blog/blockchain-project-ideas/). [LearnWeb3DAO's DAO tutorial builds proposals, voting, and execution with a fake NFT marketplace on Hardhat and Next.js](https://github.com/learnweb3dao/building-a-dao).
+
+Each project ships four artifacts: deployed contract with verified source, repo with tests, one-page writeup with gas notes, and a demo thread. That format is exactly what [hiring screens score: correctness, then security, then testing, then quality, then gas](https://gm.careers/blog/how-web3-companies-evaluate-developers). See [building a Web3 portfolio](/building-web3-portfolio) and [standing out with your resume](/how-to-build-a-web3-resume-that-stands-out).
+
+## Week-one toolchain setup
+
+Install both toolchains on day one even if you learn one first. [Hardhat 3's Rust runtime with TypeScript tests](https://hardhat.org/) covers the JavaScript-native jobs, while [Foundry's guides](https://www.getfoundry.sh/guides/invariant-testing) cover the speed-critical ones. Add the [Slither static analyzer](https://github.com/crytic/building-secure-contracts/) to your editor so every save teaches something. Pin compiler versions per project and commit lockfiles. Juniors lose days to environment drift that a ten-minute setup checklist prevents. [MetaMask's toolchain comparison shows the Anvil versus Hardhat Network split that decides local iteration speed](https://metamask.io/news/hardhat-vs-foundry-choosing-the-right-ethereum-development-tool). [Blockchain Council's compile benchmarks quantify it: 26 contracts in 14.56 seconds against 8.53](https://www.blockchain-council.org/smart-contracts/building-testing-deploying-smart-contracts-hardhat-foundry/).
+
+## Step 8: get hired and paid well
+
+The loop is short. [GM.careers documents one to three weeks: screen, four-to-eight-hour take-home, system design and code review, founder chat](https://gm.careers/blog/web3-interview-preparation). [Web3Vacancy's 2026 guide adds the prep list: Solidity majority share, Foundry as standard, two-to-three-week timelines, Ethernaut and Damn Vulnerable practice](https://web3vacancy.com/how-to-get-a-web3-job). [CryptoRecruit's 2026 guide centers proof of work over resumes with deployed contracts, Code4rena participation, and EVM, gas, proxy, and DeFi interview topics](https://www.cryptorecruit.com/news/what-it-takes-to-get-hired-in-crypto-in-2026/). [Damn Vulnerable DeFi supplies the flash-loan, oracle, governance, NFT, DEX, and lending challenge set worth grinding first](https://www.damnvulnerabledefi.xyz/).
+
+Pay bands, 2025 to 2026: [web3.career averages Solidity at $150k between $65k and $257k](https://web3.career/web3-salaries/solidity-developer). [DeFinitive averages $155k for blockchain and $175k for Solidity with juniors at $120k to $150k and seniors at $195k to $250k plus 15 to 40% in tokens](https://www.definitivetalent.xyz/salary-benchmarks). [Web3Vacancy's guide medians $165k mid-level with $80k to $120k junior, $200k to $300k senior, and $280k to $350k-plus lead, up 18% year over year](https://web3vacancy.com/solidity-developer-salary). [The Signal survey confirms the $250k to $500k auditor band](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). [CryptoGrind tables base pay from $90k to $350k with staff at $300k plus $50k to $100k in tokens](https://news.cryptogrind.com/blog/2026-04-27-solidity-developer-salary-2026/). [Metana ranges $70k to $200k with freelance at $75 to $150 an hour and entry at $70k to $100k](https://metana.io/blog/average-solidity-developer-salary-in-2025/).
+
+## Join the review culture early
+
+Code review is where working developers actually learn security, faster than any course. Start by reviewing test code and documentation pull requests, where mistakes cost nothing and maintainers welcome help. Graduate to contest findings on finished audits: read the published report first, then diff your own notes against the winners to calibrate severity judgment. [Code4rena-style contests and the audit firm blogs form a continuous curriculum if you treat every report as homework](https://www.openzeppelin.com/security-audits). [Trail of Bits publishes its checklists openly, which turns private methodology into public study material](https://trailofbits.com/guides/building-secure-smart-contracts/). Review weekly, write up monthly, and your public record starts looking like a junior auditor's well before any firm hires you. That record compounds faster than any credential.
+
+## Read contracts before you write them
+
+Pick five canonical codebases and read them line by line with the docs open: an ERC-20, Uniswap v3 core, Aave v3 pool, OpenZeppelin's Ownable plus ReentrancyGuard, and one upgradeable proxy set. [OpenZeppelin's API docs annotate the security primitives as you read](https://docs.openzeppelin.com/contracts/4.x/api/security). [The v3 whitepaper rewards careful readers with the concentrated-liquidity math most candidates hand-wave](https://uniswap.org/whitepaper-v3.pdf). [Aave's developer docs show production-grade pool architecture with real invariants](https://docs.aave.com/developers/). Keep a bug journal: every suspicious pattern you find, whether real or false alarm, with the reasoning written out. After fifty entries you will read new code the way reviewers do, which is exactly the skill [take-home reviews score above all else](https://gm.careers/blog/how-web3-companies-evaluate-developers).
+
+## FAQ
+
+**Solidity or Rust first?**
+Solidity, unless you already write Rust or target Solana specifically. More jobs, more courses, more auditors read it. Add Rust second for range.
+
+**How long until job-ready?**
+Six to twelve months of steady building for most career switchers: three months of courses and challenges, three months of portfolio projects with tests and audits of your own code, then applications while doing bounties.
+
+**Do I need a computer science degree?**
+No team in the salary data asks for one. They ask for deployed contracts, test coverage, and security reasoning. A degree helps with theory; shipping helps more.
+
+**How do I practice security without risking money?**
+Fuzz every project, run Slither, enter Code4rena-style contests on test code, and grind Damn Vulnerable DeFi. [The contest and challenge circuit is the documented path from learner to auditor-track](https://www.cryptorecruit.com/news/what-it-takes-to-get-hired-in-crypto-in-2026/).
+
+**What should my resume lead with?**
+Deployed contract addresses first, then tests and audit notes, then experience. [Screening rubrics rank correctness above all, and missing tests read as a reject signal](https://gm.careers/blog/how-web3-companies-evaluate-developers).
+
+**Is Solidity dying with all the new chains?**
+No. Postings data keeps Solidity near 78% of developer demand with Rust second, and every alternative toolchain still interoperates with Solidity ABI somewhere in the stack. Learn Solidity deeply, then add the chain-specific language only when targeting that ecosystem for real roles.
+
+**Should I learn Vyper too?**
+Only after Solidity pays your bills or a target role demands it. The hour you spend on a second language is an hour not spent on fuzzing, contests, or portfolio depth, and [hiring data rewards depth over breadth at every level](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide).
+
+**How much does an audit cost, and why should juniors care?**
+Because audit pricing explains what your security habits are worth. [Basic token reviews start near $5k to $15k, protocols run $15k to $40k, bridges $50k to $100k-plus, and tier-one firms charge $80k to $200k-plus](https://devoracles.com/articles/smart-contract-audit-cost-is/). Every finding you prevent in development saves a multiple of your salary in review cycles. Teams know this, which is why [take-homes weight security reasoning alongside correctness](https://gm.careers/blog/how-web3-companies-evaluate-developers).
+
+## Key references
+
+1. [Solidity documentation](https://docs.soliditylang.org/en/stable/)
+2. [Ethereum smart contract docs](https://ethereum.org/developers/docs/smart-contracts/)
+3. [OpenZeppelin security audits](https://www.openzeppelin.com/security-audits)
+4. [Trail of Bits secure contracts handbook](https://trailofbits.com/guides/building-secure-smart-contracts/)
+5. [Foundry invariant testing guide](https://www.getfoundry.sh/guides/invariant-testing)
+6. [SpeedRunEthereum Solidity course](https://speedrunethereum.com/learn-solidity)
+7. [Cyfrin Updraft Solidity course](https://updraft.cyfrin.io/courses/solidity)
+8. [CryptoZombies tutorial](https://cryptozombies.io/)
+9. [Damn Vulnerable DeFi challenges](https://www.damnvulnerabledefi.xyz/)
+10. [web3.career Solidity salary data](https://web3.career/web3-salaries/solidity-developer)
+11. [GM.careers interview preparation](https://gm.careers/blog/web3-interview-preparation)
+12. [Parity multisig post-mortem](https://medium.com/paritytech/a-postmortem-on-the-parity-multi-sig-library-self-destruct-63daca3a4cf7)
