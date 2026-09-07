@@ -813,14 +813,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 )}
               </header>
 
-              {/* Featured Image */}
+              {/* Featured Image. SVG heroes (data charts) must not be cropped:
+                  object-cover would slice their edges, so they render
+                  contained on a muted backdrop instead. */}
               {article.image && (
-                <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-10">
+                <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-10 bg-muted/30">
                   <Image
                     src={article.image}
                     alt={`${article.title} - Hashtag Web3 article cover`}
                     fill
-                    className="object-cover"
+                    className={article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 800px, 900px"
                     priority
                     data-ai-hint={`${article['data-ai-hint'] || ''}`}
