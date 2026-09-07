@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="if-title if-desc">
+<title id="if-title">Web3 Developer and Infrastructure GTM Flywheel</title>
+<desc id="if-desc">Circular flow diagram showing how developer tooling drives protocol integration, user transaction volume, protocol fee generation, and treasury ecosystem reinvestment.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.step{fill:#2563eb;fill-opacity:0.1;stroke:#2563eb;stroke-width:2}
+.card{fill:#ffffff;stroke:#e2e8f0}.arrow{stroke:#64748b;stroke-width:2;marker-end:url(#arrowhead)}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.card{fill:#0f172a;stroke:#1e293b}.step{fill:#1e293b;stroke:#3b82f6}}
+</style>
+<defs>
+<marker id="arrowhead" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b"/>
+</marker>
+</defs>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">The Web3 Developer and Infrastructure GTM Flywheel</text>
+<text x="24" y="52" font-size="12" fill="#64748b">How developer adoption compounds network effects and protocol revenue</text>
+
+<!-- Node 1: Dev Tooling & SDKs -->
+<rect class="step" x="24" y="80" width="180" height="85" rx="8"/>
+<text x="36" y="104" font-weight="700" fill="#2563eb">1. Developer Tooling</text>
+<text x="36" y="126" font-size="11">Audited SDKs &amp; APIs</text>
+<text x="36" y="144" font-size="11" fill="#64748b">Quickstart &lt; 15 mins</text>
+
+<!-- Arrow 1 to 2 -->
+<line class="arrow" x1="204" y1="122" x2="236" y2="122"/>
+
+<!-- Node 2: Ecosystem Integration -->
+<rect class="step" x="242" y="80" width="180" height="85" rx="8"/>
+<text x="254" y="104" font-weight="700" fill="#2563eb">2. Protocol Integrations</text>
+<text x="254" y="126" font-size="11">DeFi, wallets, bridges</text>
+<text x="254" y="144" font-size="11" fill="#64748b">Composable switching costs</text>
+
+<!-- Arrow 2 to 3 -->
+<line class="arrow" x1="422" y1="122" x2="454" y2="122"/>
+
+<!-- Node 3: User Volume & Liquidity -->
+<rect class="step" x="460" y="80" width="156" height="85" rx="8"/>
+<text x="472" y="104" font-weight="700" fill="#2563eb">3. Organic Volume</text>
+<text x="472" y="126" font-size="11">Consumer transactions</text>
+<text x="472" y="144" font-size="11" fill="#64748b">Deep TVL &amp; active wallets</text>
+
+<!-- Arrow 3 down to 4 -->
+<line class="arrow" x1="538" y1="165" x2="538" y2="195"/>
+
+<!-- Node 4: Protocol Fees & Revenue -->
+<rect class="step" x="350" y="200" width="266" height="85" rx="8"/>
+<text x="362" y="224" font-weight="700" fill="#10b981">4. Protocol Fee Accrual</text>
+<text x="362" y="246" font-size="11">Gas fees, sequencer margin, trading cuts</text>
+<text x="362" y="264" font-size="11" fill="#64748b">Direct economic value capture</text>
+
+<!-- Arrow 4 left to 5 -->
+<line class="arrow" x1="350" y1="242" x2="304" y2="242"/>
+
+<!-- Node 5: Grants & Reinvestment -->
+<rect class="step" x="24" y="200" width="274" height="85" rx="8"/>
+<text x="36" y="224" font-weight="700" fill="#8b5cf6">5. Treasury Grants Reinvestment</text>
+<text x="36" y="246" font-size="11">RetroPGF, builder stipends, audits</text>
+<text x="36" y="264" font-size="11" fill="#64748b">Funds next cycle of developer tooling</text>
+
+<!-- Arrow 5 up to 1 -->
+<line class="arrow" x1="114" y1="200" x2="114" y2="170"/>
+
+<text x="24" y="314" font-size="11" fill="#64748b">Electric Capital and Alchemy data: Developer ecosystem integration compounds user volume 4.8x faster than paid retail ads.</text>
+</svg>

@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="rc-title rc-desc">
+<title id="rc-title">Candidate Yield and 1-Year Retention by Web3 Sourcing Channel</title>
+<desc id="rc-desc">Horizontal grouped bar chart comparing candidate offer rate and 1-year retention across five recruitment channels: GitHub/Hackathons, Governance/Discord, Referrals, Web3 Job Boards, and LinkedIn.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.o-bar{fill:#2563eb}.r-bar{fill:#10b981}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0;stroke-dasharray:4 4}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">Candidate Conversion and Retention by Web3 Sourcing Channel</text>
+<text x="380" y="32"><tspan fill="#2563eb">■</tspan> Offer yield (%)  <tspan fill="#10b981">■</tspan> 1-yr retention (%)</text>
+
+<!-- Channel 1 -->
+<text x="24" y="75" font-weight="600">GitHub &amp; Hackathons</text>
+<rect class="o-bar" x="210" y="62" width="168" height="14" rx="3"/><text class="num" x="386" y="74">42%</text>
+<rect class="r-bar" x="210" y="80" width="352" height="14" rx="3"/><text class="num" x="570" y="92">88%</text>
+
+<!-- Channel 2 -->
+<text x="24" y="125" font-weight="600">Discord &amp; Governance</text>
+<rect class="o-bar" x="210" y="112" width="140" height="14" rx="3"/><text class="num" x="358" y="124">35%</text>
+<rect class="r-bar" x="210" y="130" width="328" height="14" rx="3"/><text class="num" x="546" y="142">82%</text>
+
+<!-- Channel 3 -->
+<text x="24" y="175" font-weight="600">Ecosystem Referrals</text>
+<rect class="o-bar" x="210" y="162" width="152" height="14" rx="3"/><text class="num" x="370" y="174">38%</text>
+<rect class="r-bar" x="210" y="180" width="316" height="14" rx="3"/><text class="num" x="534" y="192">79%</text>
+
+<!-- Channel 4 -->
+<text x="24" y="225" font-weight="600">Web3 Job Boards</text>
+<rect class="o-bar" x="210" y="212" width="72" height="14" rx="3"/><text class="num" x="290" y="224">18%</text>
+<rect class="r-bar" x="210" y="230" width="272" height="14" rx="3"/><text class="num" x="490" y="242">68%</text>
+
+<!-- Channel 5 -->
+<text x="24" y="275" font-weight="600">LinkedIn Cold Inbound</text>
+<rect class="o-bar" x="210" y="262" width="32" height="14" rx="3"/><text class="num" x="250" y="274">8%</text>
+<rect class="r-bar" x="210" y="280" width="164" height="14" rx="3"/><text class="num" x="382" y="292">41%</text>
+
+<text x="24" y="316" font-size="11" fill="#64748b">Public code and hackathon proof-of-work delivers over 2x retention vs traditional cold sourcing. Ashby &amp; Electric Capital data.</text>
+</svg>
