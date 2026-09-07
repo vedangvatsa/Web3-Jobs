@@ -1,5 +1,5 @@
 {
-  "lastIndex": 111,
+  "lastIndex": 114,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -25,7 +25,8 @@
     "role0c933",
     "recruiting57",
     "role6be75",
-    "role48004"
+    "role48004",
+    "joba31d1"
   ],
   "history": [
     {
@@ -691,6 +692,54 @@
       "platform": "facebook",
       "postedAt": "2026-09-07T18:17:50.491Z",
       "postId": "691827047618629_1082487794358455"
+    },
+    {
+      "slug": "joba31d1",
+      "company": "Arbitrum",
+      "title": "Senior Penetration Tester (AWS)",
+      "platform": "threads",
+      "postedAt": "2026-09-07T22:06:20.153Z",
+      "postId": "17962208798979648"
+    },
+    {
+      "slug": "joba31d1",
+      "company": "Arbitrum",
+      "title": "Senior Penetration Tester (AWS)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-07T22:06:20.153Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muxjemkkjz2j"
+    },
+    {
+      "slug": "joba31d1",
+      "company": "Arbitrum",
+      "title": "Senior Penetration Tester (AWS)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-07T22:06:20.153Z",
+      "postId": "0x25444f22f30201a9b5900fb22d5882c9da1201f2"
+    },
+    {
+      "slug": "joba31d1",
+      "company": "Arbitrum",
+      "title": "Senior Penetration Tester (AWS)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-07T22:06:20.153Z",
+      "postId": "6a9f3571dddc9257172e996d"
+    },
+    {
+      "slug": "joba31d1",
+      "company": "Arbitrum",
+      "title": "Senior Penetration Tester (AWS)",
+      "platform": "facebook",
+      "postedAt": "2026-09-07T22:06:20.153Z",
+      "postId": "691827047618629_1082613557679212"
+    },
+    {
+      "slug": "joba31d1",
+      "company": "Arbitrum",
+      "title": "Senior Penetration Tester (AWS)",
+      "platform": "instagram",
+      "postedAt": "2026-09-07T22:06:20.153Z",
+      "postId": "17988194925103181"
     }
   ]
 }
