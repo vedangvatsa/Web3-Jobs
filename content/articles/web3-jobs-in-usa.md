@@ -18,14 +18,18 @@ This guide offers a detailed examination of the [Web3 job](/web3-jobs-for-beginn
 
 The US leads globally in almost every sector of the Web3 industry. Its supremacy stems from a culture of innovation, abundant capital, and a rich talent pool.
 
-- **Venture Capital Dominance:**Silicon Valley and New York house many significant venture capital firms, including Andreessen Horowitz (a16z), Model, and Pantera Capital. This concentration of funding drives continuous innovation and recruitment.
--**Core Protocol Development:**The US is a primary center for developing essential [blockchain](/what-is-a-blockchain) infrastructure, encompassing both Layer 1 and Layer 2 protocols.
--**Decentralized Finance (DeFi) Leadership:**The US excels in DeFi innovation, serving as a main market for institutional adoption of cryptocurrency assets.
--**Regulatory Environment:**The regulatory framework in the US is one of the most complex and heavily scrutinized globally. This complexity creates a significant demand for high-caliber legal and compliance professionals.
--**Key Hubs:**
+- **Venture Capital Dominance:** Silicon Valley and New York house many significant venture capital firms, including Andreessen Horowitz (a16z), Model, and Pantera Capital. This concentration of funding drives continuous innovation and recruitment.
+- **Core Protocol Development:** The US is a primary center for developing essential [blockchain](/what-is-a-blockchain) infrastructure, encompassing both Layer 1 and Layer 2 protocols.
+- **Decentralized Finance (DeFi) Leadership:** The US excels in DeFi innovation, serving as a main market for institutional adoption of cryptocurrency assets.
+- **Regulatory Environment:** The regulatory framework in the US is one of the most complex and heavily scrutinized globally. This complexity creates a significant demand for high-caliber legal and compliance professionals.
+- **Key Hubs:**
 
 | Hub | Description |
-|---------------------|-------------------------------------------------------|
+|
+
+---------------------|
+
+-------------------------------------------------------|
 | New York City | The focal point for DeFi and traditional finance convergence. Home to major funds, exchanges, and institutional participants. |
 | San Francisco / Bay Area | The nucleus of deep-tech, protocol-level engineering, and research. |
 | Miami & Austin | Emerging hubs recognized for their pro-crypto policies and active communities. |
@@ -50,30 +54,25 @@ The US offers some of the highest salaries for Web3 positions globally, reflecti
  * **Senior:** Base salary typically ranges widely based on experience and company.
 
 * **Marketing & Community Leads:**
- * **Senior/Lead:**Base salary typically ranges widely based on experience and company.
+ * **Senior/Lead:** Base salary typically ranges widely based on experience and company.
 
 (Note: All salaries are base estimates in USD and do not account for token grants or equity, which can often double or triple total compensation.)
 
 ### Securing a Web3 Job in the USA
 
-1.**Develop a Stellar "Proof of Work" [Portfolio](/building-web3-portfolio):**The US job market is highly competitive. Distinguish yourself with outstanding public contributions. Ensure your GitHub is polished, your writing is insightful, and your Dune dashboards provide value.
-2.**Specialize in a High-Demand Technical Niche:**The highest rewards go to specialists. Expertise in areas like Zero-Knowledge (ZK) proofs, Maximal Extractable Value (MEV) research, or institutional DeFi compliance can make you an attractive candidate.
-3.**Engage on Twitter (X):**Twitter acts as the primary social network for the US crypto sector. Build a strong professional brand and network on the platform. Connect with leading builders, share your insights, and contribute meaningfully to discussions.
-4.**Consider Relocating to a Hub:** Although many positions are remote, being located in New York, the Bay Area, or another major hub can enhance networking and career growth opportunities.
+1.
+
+**Develop a Stellar "Proof of Work" [Portfolio](/building-web3-portfolio):** The US job market is highly competitive. Distinguish yourself with outstanding public contributions. Ensure your GitHub is polished, your writing is insightful, and your Dune dashboards provide value.
+2.
+
+**Specialize in a High-Demand Technical Niche:** The highest rewards go to specialists. Expertise in areas like Zero-Knowledge (ZK) proofs, Maximal Extractable Value (MEV) research, or institutional DeFi compliance can make you an attractive candidate.
+3.
+
+**Engage on Twitter (X):** Twitter acts as the primary social network for the US crypto sector. Build a strong professional brand and network on the platform. Connect with leading builders, share your insights, and contribute meaningfully to discussions.
+4.
+
+**Consider Relocating to a Hub:** Although many positions are remote, being located in New York, the Bay Area, or another major hub can enhance networking and career growth opportunities.
 
 ### Finding Your US-Based Web3 Job
 
 To explore high-impact roles in the leading Web3 market, check the thousands of available positions on our [Web3 job board](/jobs). The US remains the top destination for ambitious professionals eager to tackle challenging problems and contribute to the decentralized internet's evolution.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-3. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

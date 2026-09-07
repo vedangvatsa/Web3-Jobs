@@ -16,17 +16,23 @@ Although Kochi may not rival larger Indian Web3 hubs like Bangalore or Hyderabad
 
 Kochi's Web3 environment thrives on strong technical education and active government support.
 
-- **The Kerala Blockchain Academy (KBA):**KBA stands as a leading initiative by the Kerala government and is important for Web3 education across India. It offers training and certification programs in blockchain technology, ensuring a steady supply of skilled professionals and supporting a research-driven atmosphere.
--**A Strong Developer Community:**Kochi boasts an active developer community that encourages collaboration. Regular meetups, workshops, and notable events, such as the ETHIndia hackathon series, help integrate the local scene into the broader national ecosystem.
--**Emphasis on Research and Enterprise Solutions:**Influenced by KBA and established tech companies in Infopark, there's a strong focus on research and the application of blockchain for real-world use cases, including supply chain management, healthcare, and e-governance.
--**High Quality of Life:**Kochi is attractive for tech professionals due to its stunning natural surroundings and relatively low cost of living. This quality of life makes it an ideal location for companies looking to build dedicated, long-term teams.
+- **The Kerala Blockchain Academy (KBA):** KBA stands as a leading initiative by the Kerala government and is important for Web3 education across India. It offers training and certification programs in blockchain technology, ensuring a steady supply of skilled professionals and supporting a research-driven atmosphere.
+- **A Strong Developer Community:** Kochi boasts an active developer community that encourages collaboration. Regular meetups, workshops, and notable events, such as the ETHIndia hackathon series, help integrate the local scene into the broader national ecosystem.
+- **Emphasis on Research and Enterprise Solutions:** Influenced by KBA and established tech companies in Infopark, there's a strong focus on research and the application of blockchain for real-world use cases, including supply chain management, healthcare, and e-governance.
+- **High Quality of Life:** Kochi is attractive for tech professionals due to its stunning natural surroundings and relatively low cost of living. This quality of life makes it an ideal location for companies looking to build dedicated, long-term teams.
 
 ### In-Demand Roles and Salary Expectations
 
 Kochi currently exhibits strong demand for developers with solid software engineering skills and a thirst for new technologies. The presence of KBA has led to a higher-than-average supply of certified blockchain talent.
 
 | Role | Experience Level | Salary Range |
-|-----------------------------------|---------------------|---------------------|
+|
+
+-----------------------------------|
+
+---------------------|
+
+---------------------|
 | Blockchain Developer | Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Full-Stack Web3 Engineer | Mid-Level | Competitive |
@@ -37,17 +43,31 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 
 ### How to Build a Web3 Career in Kochi
 
-1.**Get Certified with the KBA:**The Kerala Blockchain Academy is a critical resource. Enrolling in one of their certification programs provides structured knowledge and connects you to the local ecosystem.
-2.**Engage with the Developer Community:**Participate actively in local meetups. Present projects or explore new technologies to enhance your reputation.
-3.**Contribute to Research and Education:**Use the academic focus in Kochi. Write blog posts, develop tutorials, or contribute to research papers on Web3 topics to establish yourself as a thought leader.
-4.**Target Local and Remote Roles:**While local startups are on the rise, many lucrative opportunities still exist with remote companies. Use your technical foundation and certifications to differentiate yourself.
+1.
+
+**Get Certified with the KBA:** The Kerala Blockchain Academy is a critical resource. Enrolling in one of their certification programs provides structured knowledge and connects you to the local ecosystem.
+2.
+
+**Engage with the Developer Community:** Participate actively in local meetups. Present projects or explore new technologies to enhance your reputation.
+3.
+
+**Contribute to Research and Education:** Use the academic focus in Kochi. Write blog posts, develop tutorials, or contribute to research papers on Web3 topics to establish yourself as a thought leader.
+4.
+
+**Target Local and Remote Roles:** While local startups are on the rise, many lucrative opportunities still exist with remote companies. Use your technical foundation and certifications to differentiate yourself.
 
 ## Salary Overview: Web3 Jobs in Kochi
 
 ### Local Opportunities
 
 | Role | Salary Range | Monthly Equivalent |
-|-----------------------------------|---------------------|--------------------------|
+|
+
+-----------------------------------|
+
+---------------------|
+
+--------------------------|
 | Blockchain Developer | Competitive | Competitive |
 | Full-Stack Developer | Competitive | Competitive |
 | Research Engineer (KBA-affiliated) | Competitive | Competitive |
@@ -55,46 +75,78 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 ### Remote Opportunities
 
 | Role | Monthly Salary Range |
-|---------------------|----------------------------|
+|
+
+---------------------|
+
+----------------------------|
 | Mid-Level Developer | Competitive |
 | Senior Developer | Competitive |
-| Product Manager | Competitive |**Cost of Living Advantage:**Monthly expenses in Kochi are relatively low. Earning a remote salary allows for significant savings.
+| Product Manager | Competitive |
+
+**Cost of Living Advantage:** Monthly expenses in Kochi are relatively low. Earning a remote salary allows for significant savings.
 
 ## Career Development Paths to Competitive Salaries in Kochi
 
-### Path 1: Certified Blockchain Engineer (KBA-Enabled Track) (8-14 Month Timeline)**Months 1-3: KBA Certification + Foundations**- Enroll in KBA certification program.
+### Path 1: Certified Blockchain Engineer (KBA-Enabled Track) (8-14 Month Timeline)
+
+**Months 1-3: KBA Certification + Foundations**- Enroll in KBA certification program.
 - Complete coursework covering Solidity, blockchain architecture, and enterprise solutions.
 - Network with individuals in the KBA community.
 - Build projects during coursework.
-- Obtain KBA certification.**Months 4-8: Secure Your First Blockchain Role**- Apply to KBA-affiliated projects, companies in Infopark, and remote roles targeting certified developers.
+- Obtain KBA certification.
+
+**Months 4-8: Secure Your First Blockchain Role**- Apply to KBA-affiliated projects, companies in Infopark, and remote roles targeting certified developers.
 - Expected offer: Competitive salary.
 - Lead blockchain development for the company's first Web3 initiative.
-- Publish technical articles on blockchain development.**Months 9-12: Transition to Higher-Paying Role**- With KBA certification and project experience, apply to higher-paying roles.
-- Target salary: Competitive salary locally or remotely.**Months 13-14: Specialize**- Develop expertise in a specific domain such as [DeFi](/what-is-defi) or enterprise blockchain.
+- Publish technical articles on blockchain development.
+
+**Months 9-12: Transition to Higher-Paying Role**- With KBA certification and project experience, apply to higher-paying roles.
+- Target salary: Competitive salary locally or remotely.
+
+**Months 13-14: Specialize**- Develop expertise in a specific domain such as [DeFi](/what-is-defi) or enterprise blockchain.
 - Potential for senior engineer or tech lead role.
 - Expected compensation: Competitive salary.
 
-### Path 2: Web3 Startup Founder (Kochi-Based + Remote-Enabled) (12-24 Month Timeline)**Months 1-6: Validate Market + Build MVP**- Identify a problem targeting the Indian or Kerala market.
+### Path 2: Web3 Startup Founder (Kochi-Based + Remote-Enabled) (12-24 Month Timeline)
+
+**Months 1-6: Validate Market + Build MVP**- Identify a problem targeting the Indian or Kerala market.
 - Validate the idea with potential customers.
 - Develop a minimum viable product (MVP).
 - Network with founders, VCs, and investors.
-- Publish market research.**Months 7-12: Fundraise + Early Product Development**- Pitch to angel investors, accelerators, and grant programs.
+- Publish market research.
+
+**Months 7-12: Fundraise + Early Product Development**- Pitch to angel investors, accelerators, and grant programs.
 - Target fundraising: Competitive amount.
 - Develop the product to generate revenue.
-- Hire engineers.**Months 13-18: Scale + Profitability Path**- Grow revenue to a competitive level.
-- Engage in Series A discussions.**Months 19-24: Achieve Series A or Profitability**- Option A: Run a profitable, bootstrapped company.
+- Hire engineers.
+
+**Months 13-18: Scale + Profitability Path**- Grow revenue to a competitive level.
+- Engage in Series A discussions.
+
+**Months 19-24: Achieve Series A or Profitability**- Option A: Run a profitable, bootstrapped company.
 - Option B: Raise Series A funding.
 
-### Path 3: Blockchain Researcher & Thought Leader (Academic + Industry Path) (10-18 Month Timeline)**Months 1-5: Establish Research Foundation**- Enroll in an advanced blockchain course or conduct independent research.
+### Path 3: Blockchain Researcher & Thought Leader (Academic + Industry Path) (10-18 Month Timeline)
+
+**Months 1-5: Establish Research Foundation**- Enroll in an advanced blockchain course or conduct independent research.
 - Connect with researchers from KBA, universities, and industry.
 - Conduct original research on blockchain applications in India and Kerala.
-- Publish papers.**Months 6-10: Secure a Research Role**- Obtain a position in KBA research or a university blockchain lab.
+- Publish papers.
+
+**Months 6-10: Secure a Research Role**- Obtain a position in KBA research or a university blockchain lab.
 - Expected offer: Competitive salary.
-- Lead research projects.**Months 11-16: Develop Specialized Expertise**- Become a recognized researcher in blockchain for developing economies.
-- Lead a significant research initiative or grant-funded project.**Months 17-18: Achieve Thought Leadership**- Attain a principal researcher or chief scientist role.
+- Lead research projects.
+
+**Months 11-16: Develop Specialized Expertise**- Become a recognized researcher in blockchain for developing economies.
+- Lead a significant research initiative or grant-funded project.
+
+**Months 17-18: Achieve Thought Leadership**- Attain a principal researcher or chief scientist role.
 - Expected compensation: Competitive salary.
 
-## Challenges and Solutions**Challenge 1: Limited Local Web3 Market**
+## Challenges and Solutions
+
+**Challenge 1: Limited Local Web3 Market**
 - *Reality:* Opportunities primarily exist with remote companies or in larger Indian cities.
 - *Solution:* Use remote work. KBA certification combined with Kochi's cost of living creates an optimal situation to earn a global salary while saving significantly.
 
@@ -119,39 +171,38 @@ The demand for [Blockchain Developers](/how-to-become-a-blockchain-developer) sp
 **Weeks 1-2:**- Set up [GitHub](/building-web3-portfolio), Twitter, and LinkedIn accounts.
 - Enroll in Alchemy University (free) or explore KBA programs.
 - Connect with local professionals at KBA and Infopark.
-- Join Web3 communities.**Weeks 3-4:**- Complete initial Alchemy modules or start KBA coursework.
+- Join Web3 communities.
+
+**Weeks 3-4:**- Complete initial Alchemy modules or start KBA coursework.
 - Publish your first article titled "Why Kochi Should Be India's Blockchain Hub."
 - Network with contacts in the Kochi tech scene.
-- Attend a local tech or startup event.**Weeks 5-6:**- Deploy a mainnet project (using Polygon, Optimism).
+- Attend a local tech or startup event.
+
+**Weeks 5-6:**- Deploy a mainnet project (using Polygon, Optimism).
 - Publish a second article that offers a technical deep dive.
 - Apply to local or remote roles.
-- Start the KBA application process if pursuing that path.**Weeks 7-8:**- Build a second project.
+- Start the KBA application process if pursuing that path.
+
+**Weeks 7-8:**- Build a second project.
 - Apply to remote Web3 roles.
 - Schedule coffee meetings with local connections.
-- Attend an online or local meetup.**Weeks 9-10:**- Publish a third article or contribute to an open-source project.
+- Attend an online or local meetup.
+
+**Weeks 9-10:**- Publish a third article or contribute to an open-source project.
 - Secure your first freelance contract or consulting gig.
 - Explore consulting firms or startup opportunities.
-- Aim for a goal of growing your social media presence.**Weeks 11-12:**- Complete your third project.
+- Aim for a goal of growing your social media presence.
+
+**Weeks 11-12:**- Complete your third project.
 - Target growing your social media following.
 - Aim for serious job interviews.
 - Reflect on your experiences with "3 Months Building Web3 in Kochi."
-- Decide your next steps: pursue remote development, start a venture, or commit to KBA full-time.**Expected Outputs after 90 Days:**
+- Decide your next steps: pursue remote development, start a venture, or commit to KBA full-time.
+
+**Expected Outputs after 90 Days:**
 - Completed projects showcased on GitHub.
 - Published articles.
 - At least one freelance or consulting contract secured.
 - A strong local network consisting of professionals.
 - Serious job interviews lined up.
 - A clear direction for your next career move, whether it be a remote job, startup launch, or full-time commitment to KBA.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

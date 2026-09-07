@@ -122,23 +122,23 @@ If any test fails, launch the product with points, allowlists, or store credit i
 Then publish the post-mortem with real numbers, including what failed. The teams that do this twice build the reputation that makes the third launch easy.
 
 ## FAQ
+#### Do airdrops still work after 2024?
 
-**Do airdrops still work after 2024?**
 Only designed ones. Blanket drops lose up to two-thirds of tokens to instant sellers with Sybil farms on top. Fee-weighted, time-weighted, builder-included designs like the better 2024 cases retain an order of magnitude more activity.
+#### How much should quests cost?
 
-**How much should quests cost?**
 Below the farmer's profit line and below your measured cost per retained wallet. Platform fees run from about $149 to about $999 a month before rewards, so model fully loaded cost per thirty-day-retained user or pause.
+#### What is the single most predictive metric?
 
-**What is the single most predictive metric?**
 Share of activity from wallets older than ninety days, then thirty-day cohort retention, then revenue. Everything else is a leading indicator for those three.
+#### Should a project launch with or without a token?
 
-**Should a project launch with or without a token?**
 Base reached 39% of L2 TVL and 67% of daily users with no token, which proves distribution without incentives is possible with real product value. Launch the token when retention exists without it, not to create retention from nothing.
+#### How should a small team sequence all of this?
 
-**How should a small team sequence all of this?**
 In order of cost per retained user, cheapest first. Docs and research content compound for years and cost mostly time. Community programs cost salaries for a few leads plus small rewards. Quests and creators cost real money with fast feedback, so run them as capped experiments with kill rules. The token event comes last, sized from the retention data the earlier steps produced. Teams that invert this order, event first and product later, show up in every post-mortem dataset as the cautionary row.
+#### What team runs this day to day?
 
-**What team runs this day to day?**
 One growth lead who owns the dashboard, one community lead per thousand active members, one analyst who can query Dune without help, and one engineer on call for quest and claim integrations. That is the minimum crew. Everything else rents well: audit contests, creator agencies, analytics vendors. What never rents well is the voice of the project, so founders stay in the replies until the community leads can carry it alone.
 
 Then publish the post-mortem with real numbers, including what failed. The teams that do this twice build the reputation that makes the third launch easy. Archive every dashboard, every cohort table, and every kill-rule decision alongside the post so the next launch starts from evidence instead of memory. Institutional memory is the only marketing asset competitors cannot copy. Start building yours with the very first campaign retrospective, however small the numbers behind it. Boring operational excellence outperforms brilliant one-off campaigns across every dataset in this guide.

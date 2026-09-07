@@ -13,7 +13,6 @@ tags:
   - Web3 Development
   - Smart Contracts
 ---
-
 # Indexing Blockchain Data with The Graph
 
 Modern web applications rely upon relational databases, document stores, and search indexes to serve responsive user interfaces. When a user navigates to an e-commerce platform or social media dashboard, backend systems query indexed PostgreSQL, Redis, or Elasticsearch clusters, returning user profiles, transaction histories, and real-time feeds in tens of milliseconds.
@@ -22,7 +21,7 @@ In public blockchain architectures, this relational data tier is completely abse
 
 Attempting to answer a standard consumer web query, such as "Show all active liquidity positions held by Alice across [Uniswap v3](https://uniswap.org), along with her historical trading volume and total fees earned over the past 30 days", using native JSON-RPC calls (`eth_call` and `eth_getLogs`) is technically impractical. An application would need to iterate through millions of historical blocks, make thousands of rate-limited network calls, unpack raw hex calldata, and reconstruct protocol state client-side in the user web browser.
 
-**The Graph Protocol** resolves this fundamental data barrier. Designed as an open-source decentralized indexing and query protocol, The Graph allows software engineers to build and deploy open APIs called **Subgraphs**. Subgraphs read event logs directly from blockchain execution nodes, process that data through WebAssembly mapping functions, store relational entities in high-performance databases, and expose deterministic [GraphQL](https://graphql.org) endpoints to frontend applications. This masterclass provides an exhaustive architectural and implementation guide to building, testing, optimizing, and deploying subgraphs on The Graph decentralized network.
+**The Graph Protocol ** resolves this fundamental data barrier. Designed as an open-source decentralized indexing and query protocol, The Graph allows software engineers to build and deploy open APIs called ** Subgraphs**. Subgraphs read event logs directly from blockchain execution nodes, process that data through WebAssembly mapping functions, store relational entities in high-performance databases, and expose deterministic [GraphQL](https://graphql.org) endpoints to frontend applications. This masterclass provides an exhaustive architectural and implementation guide to building, testing, optimizing, and deploying subgraphs on The Graph decentralized network.
 
 ```
 +-----------------------------------------------------------------------------------+
@@ -30,8 +29,12 @@ Attempting to answer a standard consumer web query, such as "Show all active liq
 +-----------------------------------------------------------------------------------+
 |  Raw Blockchain Layer (Sequential & Unindexed)                                    |
 |  [Block 19,000,001] -> [Block 19,000,002] -> ... -> [Block 19,000,500]           |
-|  - Data locked in raw hexadecimal transaction receipts and event logs             |
-|  - JSON-RPC nodes rate-limit complex range queries (`eth_getLogs`)                |
+|  
+
+- Data locked in raw hexadecimal transaction receipts and event logs             |
+|  
+
+- JSON-RPC nodes rate-limit complex range queries (`eth_getLogs`)                |
 |                                                                                   |
 |  ============================== THE SOLUTION ==================================  |
 |            THE GRAPH DECENTRALIZED INDEXING ENGINE (GRAPH NODE)                   |
@@ -92,15 +95,21 @@ A subgraph is composed of three interconnected files that define what data to ex
 |                            ANATOMY OF A SUBGRAPH                                |
 +---------------------------------------------------------------------------------+
 |  1. Subgraph Manifest (subgraph.yaml):                                          |
-|     - Declares data sources, target network, smart contract address, ABI,       |
+|     
+
+- Declares data sources, target network, smart contract address, ABI,       |
 |       start block height, and event-to-handler function mappings.               |
 |                                                                                 |
 |  2. GraphQL Schema (schema.graphql):                                            |
-|     - Defines the data entities, field types (BigInt, BigDecimal, Bytes,        |
+|     
+
+- Defines the data entities, field types (BigInt, BigDecimal, Bytes,        |
 |       String), entity relationships (@derivedFrom), and search directives.      |
 |                                                                                 |
 |  3. AssemblyScript Mappings (src/mapping.ts):                                   |
-|     - High-performance, strictly typed TypeScript-like code compiled to        |
+|     
+
+- High-performance, strictly typed TypeScript-like code compiled to        |
 |       WebAssembly (WASM). Unpacks event parameters and saves entity records.    |
 +---------------------------------------------------------------------------------+
 ```
@@ -346,28 +355,46 @@ Frontend integration utilizing libraries such as [Apollo Client](https://www.apo
 
 Historically, The Graph operated a centralized Hosted Service where subgraphs were hosted for free on AWS servers managed by [Edge & Node](https://edgeandnode.com). 
 
-Today, The Graph has transitioned completely to a **Decentralized Query Network** settled on [Arbitrum One](https://arbitrum.io). The network coordinates independent actors through the **Graph Token (GRT)** work-token economic model:
+Today, The Graph has transitioned completely to a **Decentralized Query Network ** settled on [Arbitrum One](https://arbitrum.io). The network coordinates independent actors through the ** Graph Token (GRT)** work-token economic model:
 
 ```
 +---------------------------------------------------------------------------------+
 |                       THE GRAPH DECENTRALIZED QUERY MARKET                      |
 +---------------------------------------------------------------------------------+
 |  1. Indexers (Node Operators):                                                  |
-|     - Stake minimum 100,000 GRT to participate in the network                   |
-|     - Operate enterprise hardware (PostgreSQL, Graph Node, Firehose RPC)        |
-|     - Earn query fees (in GRT) and new issuance indexing rewards                |
+|     
+
+- Stake minimum 100,000 GRT to participate in the network                   |
+|     
+
+- Operate enterprise hardware (PostgreSQL, Graph Node, Firehose RPC)        |
+|     
+
+- Earn query fees (in GRT) and new issuance indexing rewards                |
 |                                                                                 |
 |  2. Curators (Sub-Graph Evaluators):                                            |
-|     - Deposit GRT into bonding curves for high-utility subgraphs                |
-|     - Earn a percentage of all query fees generated by that subgraph            |
-|     - Signals to Indexers which subgraphs are economically worth indexing       |
+|     
+
+- Deposit GRT into bonding curves for high-utility subgraphs                |
+|     
+
+- Earn a percentage of all query fees generated by that subgraph            |
+|     
+
+- Signals to Indexers which subgraphs are economically worth indexing       |
 |                                                                                 |
 |  3. Delegators (Network Supporters):                                            |
-|     - Delegate GRT to reputable Indexers without running technical hardware     |
-|     - Earn a share of Indexer query fees and inflationary rewards               |
+|     
+
+- Delegate GRT to reputable Indexers without running technical hardware     |
+|     
+
+- Earn a share of Indexer query fees and inflationary rewards               |
 |                                                                                 |
 |  4. Consumers (DApps & End Users):                                              |
-|     - Pay micropayments for individual GraphQL queries via state channels       |
+|     
+
+- Pay micropayments for individual GraphQL queries via state channels       |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -383,7 +410,7 @@ When a user browser sends a GraphQL query, the query payload passes through an *
 
 For high-throughput blockchains such as [Solana Protocol](https://solana.com), [Avalanche Network](https://avax.network), or [Polygon](https://polygon.technology), processing hundreds of transactions per second through classical JSON-RPC polling causes severe indexing lag. 
 
-To overcome this bottleneck, [StreamingFast](https://www.streamingfast.io) and The Graph engineered **Firehose** and **Substreams**:
+To overcome this bottleneck, [StreamingFast](https://www.streamingfast.io) and The Graph engineered **Firehose ** and ** Substreams**:
 
 ```
 +---------------------------------------------------------------------------------+
@@ -405,7 +432,6 @@ To overcome this bottleneck, [StreamingFast](https://www.streamingfast.io) and T
 - **Substreams**: Enables developers to write indexing modules in [Rust](https://www.rust-lang.org). Substreams process blocks in parallel across elastic compute clusters, executing streaming transforms that are subsequently piped directly into subgraphs or downstream SQL databases.
 
 ---
-
 
 ---
 

@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: guide-to-layer-2s
 ---
-
 The scalability roadmap of the [Ethereum Foundation](https://ethereum.org) represents one of the most consequential architectural transitions in modern distributed computing. Rather than expanding base-layer block sizes to achieve higher transaction throughput, which would dramatically increase node hardware requirements and centralize validator consensus, the Ethereum research community committed to a rollup-centric scaling paradigm.
 
 Under this architecture, Ethereum mainnet serves as a high-security, decentralized settlement and data availability anchor. User execution, smart contract computation, and high-frequency transactions are offloaded to Layer 2 (L2) rollups. These secondary execution layers process transactions off-chain, compress state updates into cryptographic batches, and submit proofs back to Ethereum, inheriting the base layer consensus finality and economic security.
@@ -26,10 +25,18 @@ The foundational justification for Layer 2 scaling originates in the Blockchain 
 +-------------------------------------------------------------------------+
 | MONOLITHIC SCALING FAILURE MODE:                                        |
 |   Higher L1 TPS ---> Larger Blocks & Shorter Slots                      |
-|                 ---> High RAM / Storage IOPS / Bandwidth                |
-|                 ---> Consumer nodes priced out                          |
-|                 ---> Only corporate datacenters run nodes               |
-|                 ---> Censorship vulnerability & state capture           |
+|                 
+
+---> High RAM / Storage IOPS / Bandwidth                |
+|                 
+
+---> Consumer nodes priced out                          |
+|                 
+
+---> Only corporate datacenters run nodes               |
+|                 
+
+---> Censorship vulnerability & state capture           |
 |                                                                         |
 | MODULAR ROLLUP SCALING PARADIGM:                                        |
 |   L1: Keeps blocks small so anyone can run a validator (~15 TPS).       |
@@ -121,9 +128,15 @@ The dispute resolution mechanism determines how disagreements between validators
 |                  Interactive Bisection Fraud Proof Flow                 |
 +-------------------------------------------------------------------------+
 | Disputed Batch (1,000,000 Steps)                                        |
-|   |---> Bisect to 500,000 steps                                         |
-|         |---> Bisect to 250,000 steps                                   |
-|               |---> Bisect to ... ---> 1 Single Machine Instruction     |
+|   |
+
+---> Bisect to 500,000 steps                                         |
+|         |
+
+---> Bisect to 250,000 steps                                   |
+|               |
+
+---> Bisect to ... ---> 1 Single Machine Instruction     |
 |                                                |                        |
 |                                                v                        |
 |                             [L1 OneStepProver Contract Executes Opcode] |
@@ -197,21 +210,43 @@ To provide transparency, [L2BEAT](https://l2beat.com) established the standard t
 |                  L2BEAT Rollup Decentralization Stages                  |
 +-------------------------------------------------------------------------+
 | STAGE 0: Full Training Wheels                                           |
-|   - Sequencer operated by single centralized team                       |
-|   - State updates posted without active proof verification or           |
-|   - Multisig governance can upgrade code with zero delay                |
+|   
+
+- Sequencer operated by single centralized team                       |
+|   
+
+- State updates posted without active proof verification or           |
+|   
+
+- Multisig governance can upgrade code with zero delay                |
 +-------------------------------------------------------------------------+
 | STAGE 1: Limited Governance Override                                    |
-|   - Active fraud proof or ZK validity proof system running              |
-|   - Permissionless validation (anyone can submit fraud/validity proofs) |
-|   - Security Council multisig requires high threshold (e.g. 9-of-12)    |
-|   - Mandatory delay (at least 7 days) on non-critical code upgrades     |
-|   - Functioning L1 forced transaction escape hatch                      |
+|   
+
+- Active fraud proof or ZK validity proof system running              |
+|   
+
+- Permissionless validation (anyone can submit fraud/validity proofs) |
+|   
+
+- Security Council multisig requires high threshold (e.g. 9-of-12)    |
+|   
+
+- Mandatory delay (at least 7 days) on non-critical code upgrades     |
+|   
+
+- Functioning L1 forced transaction escape hatch                      |
 +-------------------------------------------------------------------------+
 | STAGE 2: Autonomous Cryptographic Rollup                                |
-|   - Zero administrative override during normal operations               |
-|   - Security Council can only act in provable cryptographic bugs        |
-|   - Complete permissionless fraud proofs and canonical exit rights      |
+|   
+
+- Zero administrative override during normal operations               |
+|   
+
+- Security Council can only act in provable cryptographic bugs        |
+|   
+
+- Complete permissionless fraud proofs and canonical exit rights      |
 +-------------------------------------------------------------------------+
 ```
 

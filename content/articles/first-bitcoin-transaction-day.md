@@ -39,10 +39,10 @@ The inaugural transaction is etched permanently in the Bitcoin blockchain at blo
 
 This transaction was the first practical test of the core components of the Bitcoin protocol in a live, peer-to-peer environment:
 - **Public Key Cryptography**: Hal Finney generated a Bitcoin address (public key) and shared it with Satoshi, who used this address to send the funds.
--**Digital Signatures**: Satoshi signed the transaction with his private key, confirming his ownership of the bitcoins being sent.
--**The P2P Network**: The signed transaction was broadcast to the nascent Bitcoin network, which at that time consisted of only a few nodes, likely including Satoshi, Hal, and a handful of others.
--**Proof-of-Work**: A miner (likely either Satoshi or Hal) included the transaction in a block after solving a complex mathematical puzzle.
--**Ledger Consensus**: All nodes on the network needed to agree on the validity of the transaction and confirm the state of the ledger.
+- **Digital Signatures**: Satoshi signed the transaction with his private key, confirming his ownership of the bitcoins being sent.
+- **The P2P Network**: The signed transaction was broadcast to the nascent Bitcoin network, which at that time consisted of only a few nodes, likely including Satoshi, Hal, and a handful of others.
+- **Proof-of-Work**: A miner (likely either Satoshi or Hal) included the transaction in a block after solving a complex mathematical puzzle.
+- **Ledger Consensus**: All nodes on the network needed to agree on the validity of the transaction and confirm the state of the ledger.
 
 The successful execution of this transaction marked a "hello, world" moment for peer-to-peer digital cash. It demonstrated that all elements of Satoshi's design were capable of functioning together to create a secure and operational system.
 
@@ -55,16 +55,3 @@ This initial transaction laid the groundwork for the network effect. It demonstr
 Each Bitcoin transaction today connects back to that initial transfer from Satoshi to Hal. This legacy embodies open-source collaboration, trust in code over institutional reliance, and the capacity of individuals to build new systems collaboratively.
 
 As we commemorate this event's anniversary, we honor Satoshi Nakamoto's vision and Hal Finney's leading spirit. Together, they represented the first two nodes in a now-global network, a network built on the foundation of that historic digital handshake.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
-4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

@@ -13,7 +13,6 @@ tags:
   - Blockchain Architecture
   - Web3
 ---
-
 # What Are Blockchain Oracles and How Do They Work
 
 A smart contract deployed to a public distributed ledger represents an immutable, self-executing software program. When certain predefined conditions are met, the contract automatically updates account balances, issues synthetic debt, or liquidates collateral positions without human intervention. However, despite their execution speed and tamper resistance, smart contracts suffer from a fundamental architectural limitation known as **The Oracle Problem**.
@@ -29,10 +28,26 @@ Blockchain oracles bridge this isolated computational sandbox and the external p
 |  Deterministic Blockchain Sandbox       | Non-Deterministic External World        |
 |  (Isolated Virtual Machine Environment) | (Off-Chain Dynamic Reality)             |
 |                                         |                                         |
-|  - Strictly sequential opcode execution | - Real-time market trade ticks          |
-|  - All nodes must reach identical state | - Web API endpoints with latency spikes |
-|  - No native network sockets / HTTP     | - Physical sensors, weather, GPS        |
-|  - Zero tolerance for timing variance   | - Server failures and data discrepancies|
+|  
+
+- Strictly sequential opcode execution | 
+
+- Real-time market trade ticks          |
+|  
+
+- All nodes must reach identical state | 
+
+- Web API endpoints with latency spikes |
+|  
+
+- No native network sockets / HTTP     | 
+
+- Physical sensors, weather, GPS        |
+|  
+
+- Zero tolerance for timing variance   | 
+
+- Server failures and data discrepancies|
 |                                         |                                         |
 |  ============================== THE GAP ========================================  |
 |            DECENTRALIZED ORACLE NETWORK (DON) CONSENSUS LAYER                     |

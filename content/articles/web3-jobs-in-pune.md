@@ -16,56 +16,63 @@ Pune's Web3 ecosystem showcases a collaborative developer community dedicated to
 
 Pune's rise as a Web3 hub is fueled by its distinct advantages and strategic positioning.
 
-- **Strong Engineering and Academic Infrastructure:**Pune boasts numerous engineering colleges and universities, consistently producing a stream of technical talent. The established IT sector also provides a substantial pool of experienced software developers transitioning into Web3 roles.
+- **Strong Engineering and Academic Infrastructure:** Pune boasts numerous engineering colleges and universities, consistently producing a stream of technical talent. The established IT sector also provides a substantial pool of experienced software developers transitioning into Web3 roles.
 
--**active Startup Environment:**The city hosts a lively startup scene, supported by a network of co-working spaces and local angel investors. This environment encourages innovation and entrepreneurship, essential for the growth of Web3 initiatives.
+- **active Startup Environment:** The city hosts a lively startup scene, supported by a network of co-working spaces and local angel investors. This environment encourages innovation and entrepreneurship, essential for the growth of Web3 initiatives.
 
--**Active Community Engagement:**The Pune Web3 community is recognized for its inclusivity and activity. Regular meetups, workshops, and hackathons, such as ETHPune, serve as platforms for learning and networking, making them invaluable for professionals looking to connect.
+- **Active Community Engagement:** The Pune Web3 community is recognized for its inclusivity and activity. Regular meetups, workshops, and hackathons, such as ETHPune, serve as platforms for learning and networking, making them invaluable for professionals looking to connect.
 
--**Strategic Proximity to Mumbai:**Just a few hours from Mumbai, Pune benefits from access to financial capital, business networks, and expertise that strengthen the city's Web3 projects.
+- **Strategic Proximity to Mumbai:** Just a few hours from Mumbai, Pune benefits from access to financial capital, business networks, and expertise that strengthen the city's Web3 projects.
 
--**Commitment to Development and Education:**Pune emphasizes the builder community. Many local experts are dedicated to educating and onboarding new developers into the Web3 space.
+- **Commitment to Development and Education:** Pune emphasizes the builder community. Many local experts are dedicated to educating and onboarding new developers into the Web3 space.
 
 ### In-Demand Roles and Salary Expectations
 
 The demand for skilled Web3 professionals in Pune is surging, with companies vying for top local talent. Salaries in this sector are competitive and often surpass those in traditional IT roles.
 
 | Role | Experience Level | Salary Range (per annum) |
-|----------------------------------------|------------------|-------------------------------|
-|**Smart Contract Developer**| Mid-Level (2-4 years) | Competitive |
+|
+
+----------------------------------------|
+
+------------------|
+
+-------------------------------|
+|
+
+**Smart Contract Developer**| Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
-|**Frontend/Full-Stack Web3 Engineer**| Mid-Level | Competitive |
+|
+
+**Frontend/Full-Stack Web3 Engineer**| Mid-Level | Competitive |
 | | Senior | Competitive |
-|**Developer Relations (DevRel)**| DevRel Engineer | Competitive |
+|
+
+**Developer Relations (DevRel)**| DevRel Engineer | Competitive |
 | | Community Manager | Competitive |
 
 ### Building a Web3 Career in Pune
 
 Establishing a career in Web3 in Pune requires proactive engagement with the local community and continuous skill development.
 
-1.**Engage with the Local Community:**Community involvement is vital in Pune's Web3 scene.
- -**Attend Meetups:**Regular attendance at meetups helps you connect with industry peers. Present your projects, ask thoughtful questions, and build relationships with organizers and attendees.
- -**Volunteer for Events:**Helping to organize local hackathons or workshops demonstrates commitment and positions you at the heart of the community.
+1.
 
-2.**Develop a Strong [Portfolio](/building-web3-portfolio):**Create a compelling GitHub profile showcasing your projects and skills. Presenting a project at a local meetup can provide valuable feedback and increase your visibility.
+**Engage with the Local Community:** Community involvement is vital in Pune's Web3 scene.
+ - **Attend Meetups:** Regular attendance at meetups helps you connect with industry peers. Present your projects, ask thoughtful questions, and build relationships with organizers and attendees.
+ - **Volunteer for Events:** Helping to organize local hackathons or workshops demonstrates commitment and positions you at the heart of the community.
 
-3.**Pursue Continuous Learning:**The Pune community prioritizes education. Participate in online bootcamps, contribute to open-source projects, and stay informed about developments in areas such as Layer 2 scaling and account abstraction.
+2.
 
-4.**Connect with Mumbai's Financial Sector:** Use Pune's proximity to Mumbai. Attend fintech and [DeFi](/what-is-defi) events in Mumbai to engage with the financial aspects of the Web3 industry.
+**Develop a Strong [Portfolio](/building-web3-portfolio):** Create a compelling GitHub profile showcasing your projects and skills. Presenting a project at a local meetup can provide valuable feedback and increase your visibility.
+
+3.
+
+**Pursue Continuous Learning:** The Pune community prioritizes education. Participate in online bootcamps, contribute to open-source projects, and stay informed about developments in areas such as Layer 2 scaling and account abstraction.
+
+4.
+
+**Connect with Mumbai's Financial Sector:** Use Pune's proximity to Mumbai. Attend fintech and [DeFi](/what-is-defi) events in Mumbai to engage with the financial aspects of the Web3 industry.
 
 ### Your Next Step: Find a Web3 Job
 
 To take the next step in your career, explore our [Web3 job board](/jobs), which features a curated selection of opportunities in Pune and beyond. We connect you with leading companies, [DAOs](/what-is-a-dao), and protocols actively seeking top talent. Whether you are a developer, marketer, or product manager, your next role in the decentralized economy awaits.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

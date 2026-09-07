@@ -8,9 +8,8 @@ description: >-
   building today.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
-
 ## What is Move
 
 Move is a next generation language for secure, sandboxed, and formally verified programming where assets are first-class types. The Move Book at move-language.github.io introduces it this way, and every production deployment still reflects it: digital assets are explicit resources that cannot be copied or lost by accident.
@@ -55,16 +54,3 @@ Abilities are the type feature that controls what is allowed for a value. They g
 Builtin types map like this: `bool`, `u8` through `u256`, and `address` have copy, drop, store. `signer` has only drop, it cannot be copied and cannot be put into storage directly. `vector<T>` and references inherit abilities from `T`. Generic structs like `struct Cup<T> has copy, drop, store { item: T }` have those abilities only when `T` satisfies them, so `Cup<signer>` does not have copy because `signer` does not.
 
 A fungible coin typically has `store` but not `copy` or `drop`. A point in geometry has `copy, drop, store`. The book shows both patterns to make the contrast explicit.
-
-#### Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
-4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-5. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
-6. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-7. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-10. [Solana Core Architecture Documentation](https://docs.solana.com/)

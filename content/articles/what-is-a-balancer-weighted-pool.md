@@ -7,7 +7,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 image: /images/articles/charts/balancer-weighted-math-architecture.svg
 ---
-
 Decentralized finance relies heavily on automated market makers to facilitate token exchanges without centralized intermediaries. While the constant product formula pioneered by early protocols documented in [Ethereum Developer Docs](https://ethereum.org/en/developers/docs/) and [Uniswap v3 Whitepaper](https://uniswap.org/whitepaper-v3.pdf) established foundational liquidity pools, it imposed rigid constraints on liquidity providers. Specifically, standard automated market makers required liquidity providers to deposit pairs of assets in strictly equal monetary proportions, establishing an immutable fifty-fifty value split.
 
 Balancer revolutionized decentralized automated market making by generalizing the constant product model into an arbitrary Constant Mean Market Maker model, formalized in the [Balancer Protocol v2 Whitepaper](https://balancer.fi/whitepaper.pdf) and implemented in the open-source [Balancer Core Contracts Repository](https://github.com/balancer/balancer-v2-monorepo). Through Balancer Weighted Pools, decentralized finance engineers and liquidity providers can build multi-asset liquidity pools containing up to eight different tokens in custom, non-equal proportions, such as eighty-twenty, sixty-forty, or diversified multi-token portfolios. 
@@ -169,14 +168,46 @@ The following table demonstrates the divergence in impermanent loss between stan
 +-------------------+--------------------+-------------------+----------+
 | Price Ratio (k)   | 50/50 Pool Loss    | 80/20 Pool Loss   | Savings  |
 +-------------------+--------------------+-------------------+----------+
-| 1.25x (+25%)      | -0.62%             | -0.21%            | 66.1%    |
-| 1.50x (+50%)      | -2.02%             | -0.68%            | 66.3%    |
-| 2.00x (+100%)     | -5.72%             | -1.88%            | 67.1%    |
-| 3.00x (+200%)     | -13.40%            | -4.36%            | 67.5%    |
-| 5.00x (+400%)     | -25.46%            | -8.27%            | 67.5%    |
-| 0.75x (-25%)      | -0.70%             | -0.25%            | 64.3%    |
-| 0.50x (-50%)      | -5.72%             | -2.09%            | 63.5%    |
-| 0.20x (-80%)      | -25.46%            | -9.92%            | 61.0%    |
+| 1.25x (+25%)      | 
+
+-0.62%             | 
+
+-0.21%            | 66.1%    |
+| 1.50x (+50%)      | 
+
+-2.02%             | 
+
+-0.68%            | 66.3%    |
+| 2.00x (+100%)     | 
+
+-5.72%             | 
+
+-1.88%            | 67.1%    |
+| 3.00x (+200%)     | 
+
+-13.40%            | 
+
+-4.36%            | 67.5%    |
+| 5.00x (+400%)     | 
+
+-25.46%            | 
+
+-8.27%            | 67.5%    |
+| 0.75x (-25%)      | 
+
+-0.70%             | 
+
+-0.25%            | 64.3%    |
+| 0.50x (-50%)      | 
+
+-5.72%             | 
+
+-2.09%            | 63.5%    |
+| 0.20x (-80%)      | 
+
+-25.46%            | 
+
+-9.92%            | 61.0%    |
 +-------------------+--------------------+-------------------+----------+
 ```
 

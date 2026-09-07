@@ -85,8 +85,6 @@ Modern protocols deploy hybrid payroll rails:
 - Global Employer of Record (EOR) services: For full-time international employees, protocols partner with providers like [Deel global contractor compliance](https://www.deel.com/industries/crypto/) and [Remote.com contractor misclassification guide](https://remote.com/resources/contractor-misclassification) to manage local statutory withholding, healthcare, and employment benefits, protecting the founding company from permanent establishment exposure and worker misclassification fines.
 - Programmatic token streaming: For protocol-native core developers, smart contracts like [Sablier real-time token streaming protocol](https://sablier.com/) and [Superfluid continuous stream payroll](https://www.superfluid.finance/) automate compensation streams by the second directly from treasury vaults secured by [Safe multisig deployment guide](https://safe.global/).
 
-
-
 ### Designing practical take-home assessments: audit and gas optimization challenges
 
 Standard algorithmic coding assessments evaluate general software engineering trivia rather than protocol engineering judgment. To evaluate how candidates handle real-world blockchain constraints, high-performing engineering teams design take-home assessments that simulate live production conditions.
@@ -111,62 +109,3 @@ Second, Merkle tree distribution architectures. When distributing airdrops, whit
 Third, decentralized oracle mechanics and staleness checks. Contracts that query external price feeds must handle oracle downtime, sequencer outages on Layer 2 rollups, and extreme price volatility. Candidates must know how to inspect oracle round timestamps, verify minimum return values to defend against zero-price crashes, and implement multi-oracle fallback mechanisms.
 
 Hiring a Web3 developer requires combining rigorous technical evaluation with institutional operational discipline. Founders who verify on-chain proof of work, screen for defensive coding habits, protect their recruitment pipelines, and structure transparent compensation build the resilient engineering teams that power decentralized protocols.
-
-## Primary Sources & Empirical Research References
-
-1. [Chainalysis Crypto Crime and Money Laundering Report](https://www.chainanalysis.com/blog/2024-crypto-money-laundering/)
-2. [Immunefi Web3 Bug Bounty and Exploit Reports](https://immunefi.com/bug-bounty-reports/)
-3. [Electric Capital Developer Report](https://www.developerreport.com/)
-4. [Electric Capital Crypto Developer Taxonomy 2024](https://www.developerreport.com/developer-report)
-5. [Foundry Ethereum Development Framework and Book](https://book.getfoundry.sh/)
-6. [Hardhat Ethereum Development Environment](https://hardhat.org/)
-7. [OpenZeppelin Audited Contract Libraries](https://docs.openzeppelin.com/contracts/)
-8. [OpenZeppelin Security Audit Standards and Methodology](https://www.openzeppelin.com/security-audits)
-9. [Solidity Language Documentation and Security Rules](https://docs.soliditylang.org/)
-10. [Solana Anchor Development Framework](https://www.anchor-lang.com/)
-11. [Rust Programming Language Official Documentation](https://www.rust-lang.org/)
-12. [OWASP Smart Contract Top 10 Security Risks](https://owasp.org/www-project-smart-contract-top-10/)
-13. [Slither Static Analyzer by Trail of Bits](https://github.com/crytic/slither)
-14. [Echidna Property-Based Fuzzer for Solidity](https://github.com/crytic/echidna)
-15. [Certora Formal Verification Platform](https://www.certora.com/)
-16. [Halmos Formal Verification Tool for EVM](https://github.com/a16z/halmos)
-17. [Tenderly Web3 Transaction Simulation Platform](https://tenderly.co/)
-18. [Code4rena Competitive Smart Contract Auditing](https://code4rena.com/)
-19. [Sherlock Smart Contract Coverage and Audit Protocol](https://sherlock.xyz/)
-20. [Cantina Security Review Network](https://cantina.xyz/)
-21. [Pantera Capital Blockchain Compensation Survey 2024](https://panteracapital.com/blockchain-compensation-survey-2024/)
-22. [Web3.career Developer Salary Database](https://web3.career/salaries)
-23. [CoinDesk Web3 Compensation Trends](https://www.coindesk.com/business/2024/07/11/crypto-salaries-rebound/)
-24. [Blockworks Crypto Salaries and Stablecoins Index](https://blockworks.com/news/stablecoins-salaries-2024-pantera-survey)
-25. [Toku Token Compensation Best Practices Guide](https://www.toku.com/resources/token-compensation-pros-cons-and-best-practices)
-26. [Toku Guide to Token Vesting Schedules](https://www.toku.com/resources/how-do-token-vesting-schedules-work)
-27. [Toku Tax Compliance for Global Crypto Teams](https://www.toku.com/resources/token-allocation-and-compensation-plan)
-28. [Blockchain Capital Token Compensation Primer](https://www.blockchaincapital.com/blog/token-compensation-primer)
-29. [Variant Fund Token Distribution Design](https://variant.fund/writing/token-distribution-design)
-30. [Dragonfly Capital Web3 Compensation Benchmarks](https://www.dragonfly.xyz/)
-31. [Request Finance Crypto Payroll Comparison Matrix](https://www.requestfinance.com/blog/crypto-payroll-platforms-compared)
-32. [Rise Works 2025 Crypto Payroll Report](https://www.riseworks.io/blog/2025-crypto-payroll-report)
-33. [Bitwage Global Remote Crypto Payroll](https://www.bitwage.com/)
-34. [Deel Global Contractor Compliance](https://www.deel.com/industries/crypto/)
-35. [Remote.com Contractor Misclassification Guide](https://remote.com/resources/contractor-misclassification)
-36. [FBI Internet Crime Complaint Center Advisory on DPRK IT Workers](https://www.ic3.gov/Media/Y2022/PSA220706)
-37. [US Department of Justice DPRK IT Worker Sanctions Alert](https://www.justice.gov/opa/pr/justice-department-disrupts-illicit-revenue-generation-efforts-democratic-peoples-republic)
-38. [KnowBe4 Incident Report on Infiltrating Remote Worker](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
-39. [CrowdStrike Threat Analysis on Lazarus Remote Workers](https://www.crowdstrike.com/blog/adversaries-infiltrate-remote-workforces/)
-40. [Mandiant Threat Intelligence on UNC3944 and Remote Workers](https://cloud.google.com/blog/topics/threat-intelligence/unc3944-threat-actor)
-41. [Check Point Research on Trojanized PDF Resumes](https://www.helpnetsecurity.com/2026/08/12/north-korea-lazarus-fake-job-offers/)
-42. [Bitdefender Labs on BeaverTail LinkedIn Recruiting Malware](https://www.bitdefender.com/en-us/blog/labs/lazarus-group-targets-organizations-with-sophisticated-linkedin-recruiting-scam)
-43. [Security Alliance SEAL 911 Emergency Defense Protocol](https://securityalliance.org/)
-44. [OWASP Web3 Operational Security Guide](https://scs.owasp.org/handbooks/11-opsec-in-web3/)
-45. [Safe Multisig Smart Contract Infrastructure](https://safe.global/)
-46. [Sablier Token Streaming Protocol Documentation](https://sablier.com/)
-47. [Superfluid Real-Time Finance Protocol](https://www.superfluid.finance/)
-48. [Etherscan Ethereum Block Explorer](https://etherscan.io/)
-49. [Basescan Layer 2 Explorer](https://basescan.org/)
-50. [Arbiscan Arbitrum Rollup Explorer](https://arbiscan.io/)
-51. [Dune Analytics Public Web3 Data Engine](https://dune.com/)
-52. [IRS Notice 2014-21 Virtual Currency Guidance](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)
-53. [IRS Section 83b Election Procedure and Form](https://www.irs.gov/pub/irs-drop/rr-12-01.pdf)
-54. [European Securities and Markets Authority MiCA Regulation](https://www.esma.europa.eu/esmas-activities/digital-finance-and-crypto-assets)
-55. [Monetary Authority of Singapore Digital Payment Token Guidelines](https://www.mas.gov.sg/regulation/guidelines/guidelines-on-provision-of-digital-payment-token-services-to-the-public)
-56. [UK HMRC Cryptoassets Internal Manual](https://www.gov.uk/hmrc-internal-manuals/cryptoassets-manual)

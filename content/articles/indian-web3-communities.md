@@ -8,9 +8,8 @@ description: >-
   investment trends, and provides a full list of top Indian Web3.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
-
 India has positioned itself as a vital player in the global [Web3](/what-is-web3) ecosystem, marked by substantial growth and innovation. The country is home to numerous startups spanning finance, infrastructure, and entertainment, collectively attracting billions in funding. Projects such as Sentient AGI and Avail Project exemplify the contributions of Indian founders to advancements in AI, Decentralized Physical Infrastructure Networks (DePIN), and scaling solutions.
 
 In 2024, Indian Web3 startups experienced a notable fundraising boost, reflecting significant increases compared to previous years. This surge resulted from the backing of influential global Web3 funds and accelerators, although access to capital remains a hurdle, especially for companies in the growth stage.
@@ -24,7 +23,11 @@ India ranks as one of the largest contributors to open-source crypto development
 India hosts numerous dynamic Web3 communities that enable networking, knowledge sharing, and collaboration. Below is a list of some of the most active and impactful communities within the country:
 
 | Community Name | Link |
-|------------------------------|--------------------------------------------------------|
+|
+
+------------------------------|
+
+--------------------------------------------------------|
 | Hashtag Web3 | [Join Here](https://t.me/hashtagweb3) |
 | PolkadotNow | [Join Here](https://t.me/Polkadot_Now) |
 | KoinX | [Join Here](https://t.me/koinxgroup) |

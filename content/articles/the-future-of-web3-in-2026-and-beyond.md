@@ -19,7 +19,13 @@ Web3 has undergone significant transformation, shifting from speculative excitem
 The blockchain sector has historically favored monolithic systems. For instance, Ethereum has long been viewed as the all-encompassing blockchain for executing transactions, settling them, and ensuring data availability. The future points towards a modular approach, which separates these core functions into specialized layers for enhanced scalability and customization.
 
 | Layer Type | Functionality | Examples |
-|---------------------|-----------------------------------------------------------------------------------------------------------|----------------------------------|
+|
+
+---------------------|
+
+-----------------------------------------------------------------------------------------------------------|
+
+----------------------------------|
 | Execution Layer | Processes transactions and executes smart contracts. | Arbitrum, Optimism, zkSync |
 | Settlement Layer | Validates and secures the final state of transactions. | Ethereum |
 | Data Availability | Provides cost-effective alternatives for posting transaction data. | Celestia |
@@ -45,7 +51,13 @@ The initial phase of Decentralized Finance (DeFi) focused on cryptocurrency asse
 * **Asset Tokenization:** In the coming years, a substantial portion of traditional assets, including public equities, bonds, real estate, and private credit, will be represented as tokens on blockchains.
 
 | Asset Type | Tokenization Examples | Impact on Market |
-|-----------------------|----------------------------------------------------------------------|---------------------------------------------------|
+|
+
+-----------------------|
+
+----------------------------------------------------------------------|
+
+---------------------------------------------------|
 | Stocks | Tokenized shares of publicly traded companies | Increased accessibility for smaller investors |
 | Real Estate | Fractional ownership of commercial properties | Greater liquidity and investment opportunities |
 | Bonds | Tokenized municipal and corporate bonds | Continuous trading capabilities on decentralized exchanges |
@@ -66,16 +78,3 @@ Poor user experience has hindered the widespread adoption of Web3. In the coming
 * **Account Abstraction (EIP-4337):** This standard will eliminate the need for users to manage seed phrases or gas fees. Smart contract wallets will enable social recovery options and allow transactions to be paid with any token.
 
 * **The Invisible Blockchain:** The most effective decentralized applications (dApps) will create a smooth user experience that resembles Web2 applications. Users will benefit from decentralization and ownership without needing to understand the underlying blockchain technology.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-7. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
-8. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
-9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

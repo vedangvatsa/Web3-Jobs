@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: how-to-become-a-defi-analyst
 ---
-
 Evaluating decentralized financial protocols requires an analytical paradigm distinct from traditional equity research or credit analysis. In corporate finance, analysts rely on quarterly financial statements audited by accounting firms, management guidance conferences, and opaque regulatory filings. In decentralized finance (DeFi), every balance update, liquidity deposit, liquidation event, and fee distribution is publicly recorded on an immutable ledger in real time.
 
 However, transparency does not equal simplicity. Raw on-chain data is noisy, convoluted by flash loans, circular token incentives, synthetic liquidity wash trading, and uncollateralized exposure. A DeFi analyst translates distributed ledger events into rigorous quantitative models, solvency stress tests, and capital allocation recommendations for venture funds, market makers, protocol DAOs, and risk modeling firms.
@@ -102,7 +101,6 @@ Decentralized perpetual exchanges like [Hyperliquid](https://hyperliquid.xyz), [
 ### Liquid Staking and Restaking Architectures
 
 Liquid staking providers like [Lido Finance](https://lido.fi) and restaking protocols like [EigenLayer](https://www.eigenlayer.xyz) represent foundational layers of the Web3 economy. In restaking, staked ETH is delegated to secure Actively Validated Services (AVSs), introducing secondary slashing risks. Analysts evaluate validator performance, operator concentration, withdrawal queue latency, and smart contract upgrade delays. Yield decomposition across fixed-income protocols like [Pendle Finance](https://pendle.finance) allows analysts to track implied yields versus real staking yields.
-
 
 ## Impermanent Loss and Capital Efficiency Mathematical Modeling
 

@@ -6,7 +6,7 @@ description: >-
   moments to refresh your resume and what information to add to stay ahead.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a vital document throughout your career, not just during job searches. Treat it as a continually evolving summary of your professional achievements. Regular updates ensure you remain ready for unexpected job opportunities and help you keep track of your accomplishments. The optimal update frequency depends on your career stage and project cycle:
 
@@ -44,25 +44,26 @@ Having a polished resume on hand allows you to act quickly when opportunities pr
 
 Integrate resume updates into your regular workflow rather than viewing them as a chore.
 
-- **Maintain a "Wins" Folder:**Create a document or folder to store positive feedback, successful project metrics, and notes on your accomplishments. When it's time to update your resume, you will have a wealth of information to draw from.
--**Monthly Review:**Dedicate 15 minutes at the end of each month to review your accomplishments. Jot down bullet points to simplify your quarterly updates.
--**Audit Your Online Presence:**When updating your resume, concurrently update your LinkedIn profile and any other professional portfolios, such as your [GitHub](/building-web3-portfolio) if you are a developer. Consistency across platforms is essential. Consult our GitHub Profile Setup for Developers guide for practical tips.
+- **Maintain a "Wins" Folder:** Create a document or folder to store positive feedback, successful project metrics, and notes on your accomplishments. When it's time to update your resume, you will have a wealth of information to draw from.
+- **Monthly Review:** Dedicate 15 minutes at the end of each month to review your accomplishments. Jot down bullet points to simplify your quarterly updates.
+- **Audit Your Online Presence:** When updating your resume, concurrently update your LinkedIn profile and any other professional portfolios, such as your [GitHub](/building-web3-portfolio) if you are a developer. Consistency across platforms is essential. Consult our GitHub Profile Setup for Developers guide for practical tips.
 
 Adopting this proactive mindset ensures you are never caught off guard. You will maintain a powerful document that accurately reflects your professional value and is ready to deploy at a moment's notice.
 
-### Frequently Asked Questions (FAQs)**Q: Should I have different versions of my resume?**A: Yes. Tailoring your resume for the specific job you are applying for is essential. This does not require a total rewrite; instead, adjust the summary, emphasize the most pertinent skills, and select bullet points that align with the job description. Maintain a "master resume" with all your information and create tailored versions from that document.**Q: What is the ideal length for my resume?**A: Keep your resume to one page, particularly if you have less than 10 years of experience. A one-page format compels you to be concise and focus on the most relevant information. For those with extensive, pertinent experience, a two-page resume may be acceptable, but ensure every line adds value. Refer to our [Resume Writing Tips That Get Interviews](/resume-writing-tips-that-get-interviews) for more detailed guidance.**Q: In what format should I save my resume?**A: The preferred format is PDF. This format preserves your formatting across all devices and operating systems, ensuring that what you see aligns with what the hiring manager sees. Avoid sending your resume as a Word document unless specifically requested.**Q: Is it appropriate to include a career gap on my resume?**
+### Frequently Asked Questions (FAQs)
+
+#### Q: Should I have different versions of my resume?
+
+A: Yes. Tailoring your resume for the specific job you are applying for is essential. This does not require a total rewrite; instead, adjust the summary, emphasize the most pertinent skills, and select bullet points that align with the job description. Maintain a "master resume" with all your information and create tailored versions from that document.
+
+#### Q: What is the ideal length for my resume?
+
+A: Keep your resume to one page, particularly if you have less than 10 years of experience. A one-page format compels you to be concise and focus on the most relevant information. For those with extensive, pertinent experience, a two-page resume may be acceptable, but ensure every line adds value. Refer to our [Resume Writing Tips That Get Interviews](/resume-writing-tips-that-get-interviews) for more detailed guidance.
+
+#### Q: In what format should I save my resume?
+
+A: The preferred format is PDF. This format preserves your formatting across all devices and operating systems, ensuring that what you see aligns with what the hiring manager sees. Avoid sending your resume as a Word document unless specifically requested.
+
+**Q: Is it appropriate to include a career gap on my resume?**
 
 A: Yes, including a career gap is increasingly common and accepted. Be honest and frame the gap positively. Briefly explain the reason for the gap, whether it was for personal development, travel, or family care. Focus on any skills learned or experiences gained during that time. For more detailed strategies, consult our guide on [How to Explain Employment Gaps Successfully](/how-to-explain-employment-gaps-successfully).
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

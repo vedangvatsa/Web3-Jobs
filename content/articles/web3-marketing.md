@@ -85,8 +85,6 @@ The community lifecycle culminates in governance participation. Platforms like [
 
 As described in [Variant Fund progressive decentralization framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications) and [Variant Fund token distribution design](https://variant.fund/writing/token-distribution-design), turning users into active governors aligns community incentives with protocol resilience. When community members hold real stakes in protocol decisions, they become active brand advocates who defend the project against competitive forks and recruit new builders to the ecosystem.
 
-
-
 ### The anatomy of an on-chain conversion funnel
 
 To understand why traditional funnel metrics mislead crypto marketers, examine how a user converts on-chain versus through an e-commerce checkout flow.
@@ -115,63 +113,3 @@ The danger lies in incentive decay. Mercenary liquidity providers farm protocol 
 Successful marketing in decentralized networks ultimately requires rigorous alignment between user utility, economic game theory, and transparent technical architecture. Growth leaders who build robust feedback loops with developer communities and governance delegates establish defensible protocol moats that outlive speculative market cycles.
 
 Marketing in Web3 replaces deceptive promotional hype with verifiable on-chain transparency. Protocols that master on-chain attribution, invest in developer ecosystems, and build decentralized community governance build sustainable network effects that endure across market cycles.
-
-## Primary Sources & Empirical Research References
-
-1. [Spindl Web3 Attribution and Conversion Engine](https://spindl.xyz/)
-2. [Spindl On-Chain Conversion Measurement Guide](https://spindl.xyz/blog)
-3. [Safary Web3 Growth Platform and Analytics](https://www.safary.club/)
-4. [Safary Web3 Marketing Landscape 2024](https://www.safary.club/blog)
-5. [DappRadar 2024 Industry Report](https://dappradar.com/blog/2024-industry-report)
-6. [DappRadar Daily Active Wallet Metrics](https://dappradar.com/)
-7. [Chainalysis Global Crypto Adoption Index 2024](https://www.chainalysis.com/blog/2024-global-crypto-adoption-index/)
-8. [Chainalysis Analysis of Airdrop Farming and Sybils](https://www.chainanalysis.com/blog/)
-9. [Formo Web3 Go-To-Market Strategy Guide](https://formo.so/blog/web3-gtm-strategy-guide)
-10. [Cookie3 Web3 Marketing Analytics Platform](https://www.cookie3.co/)
-11. [Cookie3 Airdrop Sybil and Marketing Study](https://www.cookie3.co/blog)
-12. [Bello On-Chain Customer Intelligence Engine](https://www.bello.lol/)
-13. [Galxe Quest Participant Analytics](https://galxe.com/)
-14. [Layer3 Protocol Engagement Metrics](https://layer3.xyz/)
-15. [Zealy Community Engagement Platform](https://zealy.io/)
-16. [TaskOn Web3 Campaign Platform](https://taskon.xyz/)
-17. [Gitcoin Passport Sybil Defense Protocol](https://passport.gitcoin.co/)
-18. [World ID Proof of Personhood Protocol](https://world.org/world-id)
-19. [Proof of Humanity Protocol](https://www.proofofhumanity.id/)
-20. [Farcaster Protocol Documentation](https://docs.farcaster.xyz/)
-21. [Warpcast Social Client Metrics](https://warpcast.com/)
-22. [Lens Protocol Decentralized Social Graph](https://www.lens.xyz/)
-23. [Mirror Decentralized Publishing Protocol](https://mirror.xyz/)
-24. [Paragraph Web3 Publishing Platform](https://paragraph.xyz/)
-25. [Bankless Media Network and Podcasts](https://www.bankless.com/)
-26. [Blockworks Financial Media and Research](https://blockworks.co/)
-27. [CoinDesk Crypto Journalism and Indices](https://www.coindesk.com/)
-28. [Decrypt Web3 Journalism](https://decrypt.co/)
-29. [The Block Research Data Dashboard](https://www.theblock.co/)
-30. [Electric Capital Developer Report](https://www.developerreport.com/)
-31. [Electric Capital Web3 Ecosystem Growth 2024](https://www.developerreport.com/developer-report)
-32. [a16z crypto State of Crypto Report 2024](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/)
-33. [a16z crypto Distribution and Go-To-Market Models](https://a16zcrypto.com/)
-34. [Variant Fund Progressive Decentralization Framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications)
-35. [Variant Fund Token Distribution Design](https://variant.fund/writing/token-distribution-design)
-36. [Uniswap Foundation Community Grants Program](https://www.uniswapfoundation.org/)
-37. [Arbitrum Foundation Grants Portal](https://arbitrum.foundation/grants)
-38. [Optimism Retro Funding Rounds](https://app.optimism.io/retropgf)
-39. [Polygon Village Ecosystem Accelerator](https://polygon.technology/village)
-40. [Base Ecosystem Builder Grants](https://base.org/)
-41. [Dune Analytics Public Web3 Data Dashboards](https://dune.com/)
-42. [Flipside Crypto SQL Analytics Models](https://flipsidecrypto.xyz/)
-43. [Artemis Protocol Financial Fundamentals](https://www.artemis.xyz/)
-44. [DeFiLlama Protocol TVL and Volume Directory](https://defillama.com/)
-45. [Google Ads Financial Products and Cryptocurrencies Policy](https://support.google.com/adspolicy/answer/10688194)
-46. [Meta Advertising Policies on Cryptocurrency Products](https://www.facebook.com/business/help/256860011536705)
-47. [Apple App Store Review Guidelines Section 3.1.5](https://developer.apple.com/app-store/review/guidelines/#cryptocurrency)
-48. [Etherscan Token Holder Distribution Analytics](https://etherscan.io/)
-49. [Guild.xyz Token Gating Infrastructure](https://guild.xyz/)
-50. [Collab.Land Discord Community Token Gating](https://www.collab.land/)
-51. [Snapshot Off-Chain Governance Voting Hub](https://snapshot.box/)
-52. [Tally On-Chain DAO Governance Platform](https://www.tally.xyz/)
-53. [Commonwealth Web3 Community Discussions](https://commonwealth.im/)
-54. [Discourse Open-Source Governance Forums](https://www.discourse.org/)
-55. [Messari Enterprise Research Reports](https://messari.io/research)
-56. [CoinMarketCap Token Metrics and Listings](https://coinmarketcap.com/)
-57. [CoinGecko Crypto Data and Volume API](https://www.coingecko.com/)

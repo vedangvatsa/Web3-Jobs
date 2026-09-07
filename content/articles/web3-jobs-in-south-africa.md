@@ -19,7 +19,11 @@ The South African cryptocurrency market reflects strong grassroots enthusiasm, p
 South Africa's crypto ecosystem stands out as one of the most developed on the continent, highlighted by several key factors:
 
 | Factor | Description |
-|-----------------------------|---------------------------------------------------------------------------------------------------|
+|
+
+-----------------------------|
+
+---------------------------------------------------------------------------------------------------|
 | Strong Financial Integration | The crypto industry in South Africa is closely tied to traditional finance, focusing on compliance and institutional-grade offerings. |
 | High Adoption and Awareness | South Africans display significant interest in cryptocurrencies, viewing them as alternative investment avenues. |
 | Clear Regulatory Stance | In 2023, South Africa became one of the first African countries to regulate crypto asset service providers (CASPs), creating a stable operational environment. |
@@ -30,7 +34,13 @@ South Africa's crypto ecosystem stands out as one of the most developed on the c
 The demand for Web3 professionals in South Africa continues to grow, with competitive salaries that reflect the local tech industry's standards. Here are some key roles and their salary ranges:
 
 | Role | Experience Level | Salary Range (ZAR/month) |
-|----------------------------------|---------------------|---------------------------|
+|
+
+----------------------------------|
+
+---------------------|
+
+---------------------------|
 | Smart Contract Developer | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
 | Full-Stack Web3 Engineer | Mid-Level | Competitive |
@@ -43,28 +53,23 @@ The demand for Web3 professionals in South Africa continues to grow, with compet
 
 ### Steps to Secure a Web3 Job in South Africa
 
-1. **Grasp the Regulatory Environment:**Understanding FSCA regulations for crypto assets can set you apart, especially for non-technical roles. This knowledge demonstrates your seriousness as a candidate.
+1. **Grasp the Regulatory Environment:** Understanding FSCA regulations for crypto assets can set you apart, especially for non-technical roles. This knowledge demonstrates your seriousness as a candidate.
 
-2.**Engage with the Local Community:**-**Attend Meetups:**Participate in local Web3 meetups in Cape Town and Johannesburg to network with founders and other professionals.
- -**Connect with Local Leaders:**Follow and engage with South African Web3 builders, investors, and community leaders on Twitter and LinkedIn.
+2.
 
-3.**Develop a Strong Portfolio:**Many high-paying roles are remote positions with international firms. Ensure your portfolio, including GitHub contributions and relevant writing, reflects high-quality work to compete globally.
+**Engage with the Local Community:**
 
-4.**Emphasize Financial Sector Experience:** Highlight any experience in traditional finance or fintech, as it is highly valued in the local market.
+- **-** Attend Meetups:**Participate in local Web3 meetups in Cape Town and Johannesburg to network with founders and other professionals.
+ - **Connect with Local Leaders:** Follow and engage with South African Web3 builders, investors, and community leaders on Twitter and LinkedIn.
+
+3.
+
+**Develop a Strong Portfolio:** Many high-paying roles are remote positions with international firms. Ensure your portfolio, including GitHub contributions and relevant writing, reflects high-quality work to compete globally.
+
+4.
+
+**Emphasize Financial Sector Experience:** Highlight any experience in traditional finance or fintech, as it is highly valued in the local market.
 
 ### Exploring Web3 Opportunities in South Africa
 
 The job market for Web3 professionals offers various opportunities. To find the latest roles, visit our [Web3 job board](/jobs). South Africa's blend of financial sophistication, tech talent, and clear regulation positions it as a significant player in the future decentralized economy.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

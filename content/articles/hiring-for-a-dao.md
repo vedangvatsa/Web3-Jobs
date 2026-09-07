@@ -106,8 +106,6 @@ Successful decentralized organizations combat contributor fatigue through struct
 
 As outlined in [Variant Fund progressive decentralization framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications) and [Variant Fund token distribution design](https://variant.fund/writing/token-distribution-design), organizations that transition from centralized control into sustainable, community-driven coordination construct resilient networks that compound value across multiple market cycles.
 
-
-
 ### SubDAO budget autonomy and decentralized dispute resolution
 
 As organizations scale past fifty core contributors, centralized all-member voting on every operational expense paralyzes execution. High-throughput DAOs partition operations into autonomous subDAOs with ring-fenced seasonal budgets.
@@ -124,62 +122,3 @@ By transforming passive community members into sovereign protocol owners, decent
 Decentralized workforce management represents the cutting edge of global organizational engineering.
 
 Hiring for a DAO replaces corporate bureaucracy with open meritocracy. Decentralized organizations that establish transparent contributor funnels, evaluate on-chain proof of work, ensure legal compliance, and protect operational security build the durable workforce necessary to govern the open internet.
-
-## Primary Sources & Empirical Research References
-
-1. [DeepDAO Ecosystem Analytics](https://deepdao.io/)
-2. [DeFiLlama DAO Treasury Tracker](https://defillama.com/)
-3. [Electric Capital Developer Report](https://www.developerreport.com/)
-4. [Electric Capital DAO Contributor Ecosystem 2024](https://www.developerreport.com/developer-report)
-5. [Coordinape Decentralized Compensation Protocol](https://coordinape.com/)
-6. [Coordinape Compensation and Peer Allocation Documentation](https://docs.coordinape.com/)
-7. [Gitcoin Grants Program Data](https://gitcoin.co/grants/)
-8. [Dework Web3 Bounty Board and Contributor Graph](https://dework.xyz/)
-9. [Wonderverse DAO Task and Workflow Management](https://wonderverse.xyz/)
-10. [Safe Multisig Smart Contract Infrastructure](https://safe.global/)
-11. [Snapshot Off-Chain Governance Voting Hub](https://snapshot.box/)
-12. [Tally On-Chain DAO Governance Platform](https://www.tally.xyz/)
-13. [Discourse Open-Source Governance Forums](https://www.discourse.org/)
-14. [Commonwealth Web3 Discussion Platform](https://commonwealth.im/)
-15. [Aragon DAO Governance Framework](https://aragon.org/)
-16. [DAOhaus Moloch DAO Platform](https://daohaus.club/)
-17. [Collab.Land Token-Gated Community Access](https://www.collab.land/)
-18. [Guild.xyz On-Chain Role Management](https://guild.xyz/)
-19. [Otterspace Non-Transferable Badge Protocol](https://otterspace.xyz/)
-20. [Hats Protocol Programmable Roles and Permissions](https://hatsprotocol.xyz/)
-21. [Sablier Continuous Token Streaming Documentation](https://sablier.com/)
-22. [Superfluid Real-Time Finance Protocol](https://www.superfluid.finance/)
-23. [Llama Protocol Treasury Management](https://llama.xyz/)
-24. [Karpatkey Decentralized Asset Management](https://www.karpatkey.com/)
-25. [Messari DAO Governance Research Reports](https://messari.io/research)
-26. [Bankless DAO Contributor Framework](https://www.bankless.community/)
-27. [Yearn Finance Governance and Contributor Design](https://docs.yearn.fi/)
-28. [Optimism Collective Governance Manual](https://community.optimism.io/)
-29. [Arbitrum DAO Governance Documentation](https://docs.arbitrum.foundation/)
-30. [Uniswap Foundation Grants and Contributor Guidelines](https://www.uniswapfoundation.org/)
-31. [MakerDAO/Sky Governance Architecture](https://docs.makerdao.com/)
-32. [Variant Fund Progressive Decentralization Framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications)
-33. [Variant Fund Token Distribution Design](https://variant.fund/writing/token-distribution-design)
-34. [a16z crypto DAO Legal Frameworks](https://a16zcrypto.com/)
-35. [Paradigm Legal Guide to DAOs](https://www.paradigm.xyz/)
-36. [Toku DAO Contributor Compensation Compliance](https://www.toku.com/resources/token-compensation-pros-cons-and-best-practices)
-37. [Toku Token Vesting Mechanics Guide](https://www.toku.com/resources/how-do-token-vesting-schedules-work)
-38. [Request Finance DAO Payroll Comparison](https://www.requestfinance.com/blog/crypto-payroll-platforms-compared)
-39. [Rise Works 2025 DAO Contractor Management Report](https://www.riseworks.io/blog/2025-crypto-payroll-report)
-40. [Bitwage Remote Contributor Payroll](https://www.bitwage.com/)
-41. [Deel Global Contractor Compliance](https://www.deel.com/industries/crypto/)
-42. [Remote.com Worker Misclassification Guide](https://remote.com/resources/contractor-misclassification)
-43. [IRS Notice 2014-21 Virtual Currency Taxation Guidance](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)
-44. [IRS Section 83b Election Procedure and Form](https://www.irs.gov/pub/irs-drop/rr-12-01.pdf)
-45. [Wyoming DAO LLC Legislation SF0038](https://www.wyoleg.gov/Legislation/2021/SF0038)
-46. [Tennessee Decentralized Organization Statute](https://wapp.capitol.tn.gov/apps/BillInfo/Default.aspx?BillNumber=SB2857)
-47. [Cayman Islands Foundation Company Law Specification](https://www.caymanfinance.gov.ky/)
-48. [Swiss Verein Legal Association Guide](https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-a-business/legal-forms/association.html)
-49. [Marshall Islands DAO Entity Registry](https://www.mi-dao.com/)
-50. [European Securities and Markets Authority MiCA Regulation](https://www.esma.europa.eu/esmas-activities/digital-finance-and-crypto-assets)
-51. [UK Law Commission Report on DAOs](https://lawcom.gov.uk/project/decentralised-autonomous-organisations-daos/)
-52. [Security Alliance SEAL 911 Defense Network](https://securityalliance.org/)
-53. [OWASP Web3 Operational Security Guide](https://scs.owasp.org/handbooks/11-opsec-in-web3/)
-54. [GitGuardian Secrets Detection in Web3](https://www.gitguardian.com/)
-55. [OpenZeppelin Governor Contract Standards](https://docs.openzeppelin.com/contracts/4.x/governance)
-56. [Compound Finance Governor Bravo Protocol](https://compound.finance/docs/governance)

@@ -21,11 +21,23 @@ Turkey's crypto market boasts a vast and engaged user base. The country consiste
 #### Key Characteristics of the Turkish Web3 Market
 
 | Feature | Description |
-|-----------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Adoption Rate**| Turkey consistently ranks among the top countries globally for crypto adoption. |
-|**Gaming & Metaverse Hub**| A strong gaming culture has led to numerous Web3 gaming initiatives, with players deeply familiar with virtual economies. |
-|**Active Trading Culture**| Turkish users are among the most active on cryptocurrency exchanges, prompting platforms like Binance and Bybit to focus on the Turkish market. |
-|**Community Engagement**| Istanbul hosts major events such as [Blockchain](/what-is-a-blockchain) Economy Istanbul and ETHGlobal Istanbul, showcasing the city's significance in the global Web3 community. |
+|
+
+-----------------------------|
+
+-------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 
+
+**Adoption Rate**| Turkey consistently ranks among the top countries globally for crypto adoption. |
+|
+
+**Gaming & Metaverse Hub**| A strong gaming culture has led to numerous Web3 gaming initiatives, with players deeply familiar with virtual economies. |
+|
+
+**Active Trading Culture**| Turkish users are among the most active on cryptocurrency exchanges, prompting platforms like Binance and Bybit to focus on the Turkish market. |
+|
+
+**Community Engagement**| Istanbul hosts major events such as [Blockchain](/what-is-a-blockchain) Economy Istanbul and ETHGlobal Istanbul, showcasing the city's significance in the global Web3 community. |
 
 ### In-Demand Roles and Salary Expectations
 
@@ -34,7 +46,13 @@ The demand for Web3 professionals in Turkey is substantial, especially for indiv
 #### Salary Ranges for Key Web3 Roles
 
 | Role | Experience Level | Monthly Salary (TRY) |
-|---------------------------------------|-------------------------|-----------------------------|
+|
+
+---------------------------------------|
+
+-------------------------|
+
+-----------------------------|
 | Community Manager (Turkish Speaking) | Mid-Level | Competitive |
 | | Senior/Lead | Competitive |
 | [Smart Contract](/what-are-smart-contracts) & Web3 Developers | Mid-Level | Competitive |
@@ -45,29 +63,24 @@ Many senior developers in Turkey work remotely for global protocols, earning sal
 
 ### Strategies for Securing a Web3 Job in Turkey
 
-1.**Language Skills**: Proficiency in Turkish significantly enhances job prospects. The ability to communicate effectively with the domestic user base is a key asset sought by international companies.
+1.
 
-2.**Engagement with the Community**: Building a successful career in Turkey's Web3 sector requires active participation in the community.
- -**Attend Local Meetups**: Major cities like Istanbul have growing communities. Participating in meetups helps expand your professional network.
- -**Engage on Turkish Crypto Twitter**: Interact with local influencers and projects to establish connections.
+**Language Skills**: Proficiency in Turkish significantly enhances job prospects. The ability to communicate effectively with the domestic user base is a key asset sought by international companies.
 
-3.**Highlight Relevant Experience**: Experience in traditional gaming or finance is highly valued. Emphasize your understanding of user behavior in virtual economies or financial markets.
+2.
 
-4.**Participate in Hackathons**: Events such as ETHGlobal Istanbul provide excellent opportunities to showcase your skills and connect with leading global protocols that are hiring.
+**Engagement with the Community**: Building a successful career in Turkey's Web3 sector requires active participation in the community.
+ - **Attend Local Meetups**: Major cities like Istanbul have growing communities. Participating in meetups helps expand your professional network.
+ - **Engage on Turkish Crypto Twitter**: Interact with local influencers and projects to establish connections.
+
+3.
+
+**Highlight Relevant Experience**: Experience in traditional gaming or finance is highly valued. Emphasize your understanding of user behavior in virtual economies or financial markets.
+
+4.
+
+**Participate in Hackathons**: Events such as ETHGlobal Istanbul provide excellent opportunities to showcase your skills and connect with leading global protocols that are hiring.
 
 ### Finding Web3 Job Opportunities in Turkey
 
 Explore the latest roles available on our [Web3 job board](/jobs). Turkey's enthusiastic user base and strategic importance create a dynamic environment for building impactful careers in the decentralized economy.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

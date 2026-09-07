@@ -9,7 +9,9 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 ---
-In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an**On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.
+In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an
+
+**On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.
 
 As the value of assets on public blockchains has surged, so have the number of exploits and hacks. On-chain forensics addresses this challenge by aiding victims in recovering funds, supplying data to law enforcement, and securing the ecosystem through analysis of attack methods. This career blends the skills of data scientists, cybersecurity analysts, and financial detectives.
 
@@ -45,7 +47,11 @@ Proficiency in using block explorers like Etherscan is fundamental. Investigator
 
 ### On-Chain Analytics Platforms
 
-Familiarity with tools such as**Chainalysis**,**TRM Labs**,**Elliptic**, and**Nansen**is vital. These platforms offer advanced heuristics and labeling to track funds through mixers and complex transactions, maintaining databases of known addresses, including exchange wallets and hacker addresses.
+Familiarity with tools such as
+
+**Chainalysis **,** TRM Labs **,** Elliptic**, and
+
+**Nansen** is vital. These platforms offer advanced heuristics and labeling to track funds through mixers and complex transactions, maintaining databases of known addresses, including exchange wallets and hacker addresses.
 
 ### Data Analysis Skills
 
@@ -79,7 +85,9 @@ Most forensic work involves querying blockchain data. Pursue courses in SQL and 
 
 ### Step 5: Obtain Certification
 
-Certifications like the**Certified Cryptocurrency Investigator (CCI)** from the Blockchain Intelligence Group can enhance your credentials, demonstrating formal training and expertise.
+Certifications like the
+
+**Certified Cryptocurrency Investigator (CCI)** from the Blockchain Intelligence Group can enhance your credentials, demonstrating formal training and expertise.
 
 ### Step 6: Build a Public [Portfolio](/building-web3-portfolio)
 
@@ -124,13 +132,17 @@ Blockchain forensics represents a high-demand field. Organizations involved in c
 The following table illustrates average salaries for various roles in blockchain forensics:
 
 | Position | Average Salary |
-|----------------------------------|---------------------|
-| On-Chain Investigator | Competitive range |
-| Internal Compliance Analyst | Competitive range |
-| Law Enforcement Liaison | Competitive range |
-| Threat Intelligence Analyst | Competitive range |
-| Recovery Specialist | Competitive range |
-| Compliance Officer | Competitive range |
+|
+
+----------------------------------|
+
+---------------------|
+| On-Chain Investigator | $95,000 - $160,000 USD |
+| Internal Compliance Analyst | $95,000 - $160,000 USD |
+| Law Enforcement Liaison | $95,000 - $160,000 USD |
+| Threat Intelligence Analyst | $95,000 - $160,000 USD |
+| Recovery Specialist | $95,000 - $160,000 USD |
+| Compliance Officer | $95,000 - $160,000 USD |
 
 Remote work opportunities are prevalent in this field, enabling forensics specialists to work for global companies. Demand has escalated alongside an increase in DeFi hacks and regulatory scrutiny on cryptocurrency organizations.
 
@@ -163,16 +175,3 @@ Question assumptions. Apparent patterns may have innocent explanations, while se
 Blockchain forensics significantly contributes to the legitimacy and security of Web3. By tracing hacks and making them costly for criminals, forensic specialists deter illicit activity. They assist in recovering stolen funds, providing justice to victims, and supplying data to law enforcement for prosecuting criminals.
 
 Concerns persist that extensive forensics and traceability may undermine the privacy and freedom that early Web3 advocates championed. This debate remains contentious. However, as Web3 achieves mainstream adoption, forensics and compliance have become integral components of the ecosystem.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
-9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

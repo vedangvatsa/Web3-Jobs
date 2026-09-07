@@ -118,20 +118,20 @@ Ignoring the money mechanics stings later. Crypto pay is spreading: from 3% of w
 
 **Coding as a requirement**
 No, for most roles. Engineers take about a third of listings; community, marketing, operations, support, and design absorb the rest. [Community listings alone](https://www.blockchain-council.org/blockchain/non-technical-web3-jobs-community-marketing-partnerships-growth/) number in the thousands with wide bands. Code only for an engineering lane, where [Solidity still leads Rust](https://web3vacancy.com/solidity-vs-rust) by more than two to one.
+#### How many hours a week does this take?
 
-**How many hours a week does this take?**
 Ten to fifteen focused hours. [Transition guides](https://web3vacancy.com/web2-to-web3-guide) put the switch at three to six months on that schedule. One artifact a week compounds fast.
 
 **Quitting before the offer**
 No. Everything here fits around a job: testnet transactions, recaps, threads, small bounties. Bounty platforms pay first prizes in days ([Superteam handbook](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute)), which suits people with bills. Quit after an offer, not before proof.
+#### Are DAOs still a real path in 2026?
 
-**Are DAOs still a real path in 2026?**
 Yes, with narrower gates. Trial structures like [DXdao's](https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/) one month at half pay plus two at reduced pay show professionalization. Start with bounties, earn a trial, then propose.
 
 **Resume top line**
 Three linked items with outcomes: one bounty with payout proof, one explainer with read counts, one repo or recap series with dates. Recruiters decide in about ten seconds ([CV review](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist)), so those links sit above work history.
+#### How do interviews differ from Web2?
 
-**How do interviews differ from Web2?**
 Live code or contract review, a paid four-to-eight-hour take-home, and a founder values chat. Most loops close in one to three weeks ([GM.careers](https://gm.careers/blog/web3-interview-preparation)). Open-book, AI-assisted coding is now normal ([Axiom](https://www.axiomrecruit.com/resources/industry-insights/from-prep-to-offer--2026-web3---ai-interview-guide)).
 
 **Entry-level pay**

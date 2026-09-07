@@ -18,21 +18,21 @@ The origins of smart contracts trace back to the 1990s when computer scientist N
 
 - **Coded Logic**: Developers write the contract's logic using programming languages such as [Solidity](/best-programming-languages-for-blockchain-development) for the [Ethereum](/what-is-ethereum) blockchain. The code outlines the rules and conditions of the agreement. For instance, a contract might state: "IF Party A pays a specified amount of Ether, THEN release the digital art file to Party A."
 
--**Blockchain Deployment**: After coding, the contract is deployed to a blockchain, where it is assigned a unique address on the distributed ledger. At this point, the code becomes immutable; it cannot be altered or deleted, even by the original developer.
+- **Blockchain Deployment**: After coding, the contract is deployed to a blockchain, where it is assigned a unique address on the distributed ledger. At this point, the code becomes immutable; it cannot be altered or deleted, even by the original developer.
 
--**Automatic Execution**: The contract remains inactive until triggered by a user transaction that meets the predefined conditions. When this occurs, every computer (node) in the network executes the contract's code. If consensus is reached among the nodes regarding the outcome, the blockchain state updates, finalizing the transaction.
+- **Automatic Execution**: The contract remains inactive until triggered by a user transaction that meets the predefined conditions. When this occurs, every computer (node) in the network executes the contract's code. If consensus is reached among the nodes regarding the outcome, the blockchain state updates, finalizing the transaction.
 
 ## The Defining Properties of Smart Contracts
 
 Smart contracts derive their power from several inherent properties:
 
--**Deterministic**: Given the same input, they always produce identical results. This predictability ensures reliability and eliminates ambiguity.
+- **Deterministic**: Given the same input, they always produce identical results. This predictability ensures reliability and eliminates ambiguity.
 
--**Transparent**: Typically open-source, the code of a smart contract is accessible to anyone on the blockchain, allowing users to audit and verify the agreement's rules prior to interaction.
+- **Transparent**: Typically open-source, the code of a smart contract is accessible to anyone on the blockchain, allowing users to audit and verify the agreement's rules prior to interaction.
 
--**Immutable**: Once deployed, the code remains unchanged, preventing malicious alterations and ensuring adherence to the written terms.
+- **Immutable**: Once deployed, the code remains unchanged, preventing malicious alterations and ensuring adherence to the written terms.
 
--**Autonomous & Self-Executing**: Smart contracts operate independently, eliminating the need for human or third-party involvement. This reduces the risks associated with censorship or manipulation and significantly cuts operational costs.
+- **Autonomous & Self-Executing**: Smart contracts operate independently, eliminating the need for human or third-party involvement. This reduces the risks associated with censorship or manipulation and significantly cuts operational costs.
 
 > Smart contracts replace reliance on institutions with trust in code, enforcing agreements through the mathematical certainty of the network rather than through intermediaries.
 
@@ -43,11 +43,25 @@ Smart contracts are integral to nearly all decentralized applications (dApps). T
 ### Application Areas
 
 | Sector | Description | Career Opportunities |
-|------------------------------|--------------------------------------------------------------------------------------------------|-----------------------------------------------------------|
-|**Decentralized Finance (DeFi)**| Smart contracts power decentralized exchanges, lending platforms, and stablecoins. | Solidity developers, security auditors, financial engineers |
-|**Supply Chain Management**| They can automatically track goods through the supply chain, releasing payments upon verification. | Logisticians, IoT specialists |
-|**Insurance**| Parametric insurance contracts can execute payouts automatically based on data triggers. | Insurance analysts, data scientists |
-|**Governance (DAOs)** | Decentralized Autonomous Organizations use smart contracts for voting and fund management. | Community managers, governance experts, DAO tooling developers |
+|
+
+------------------------------|
+
+--------------------------------------------------------------------------------------------------|
+
+-----------------------------------------------------------|
+|
+
+**Decentralized Finance (DeFi)**| Smart contracts power decentralized exchanges, lending platforms, and stablecoins. | Solidity developers, security auditors, financial engineers |
+|
+
+**Supply Chain Management**| They can automatically track goods through the supply chain, releasing payments upon verification. | Logisticians, IoT specialists |
+|
+
+**Insurance**| Parametric insurance contracts can execute payouts automatically based on data triggers. | Insurance analysts, data scientists |
+|
+
+**Governance (DAOs)** | Decentralized Autonomous Organizations use smart contracts for voting and fund management. | Community managers, governance experts, DAO tooling developers |
 
 ### Career Opportunities
 
@@ -64,16 +78,3 @@ Consequently, the role of smart contract security auditor has become important. 
 Smart contracts signify a transition in how agreements and transactions are created and enforced. They enable the establishment of systems that enhance transparency, efficiency, and fairness. Although the technology is still evolving, its capacity to automate complex multi-party workflows without requiring a trusted intermediary marks a significant innovation.
 
 As development tools advance and security best practices are more widely adopted, smart contracts are set to become fundamental components of the next generation of the internet. This transformation will support a new digital economy, offering numerous opportunities for those skilled in programming and securing these contracts.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
-8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

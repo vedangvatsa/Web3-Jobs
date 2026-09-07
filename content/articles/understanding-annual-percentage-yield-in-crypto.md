@@ -7,7 +7,7 @@ description: >-
   breaks down Annual Percentage Yield, how it differs from APR, and how to.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In Decentralized Finance ([DeFi](/what-is-defi)), many projects promote high yields, typically expressed as Annual Percentage Yield (APY). Understanding APY and differentiating it from Annual Percentage Rate (APR) is essential for anyone aiming to earn returns on crypto assets. This knowledge can significantly impact your financial decisions.
 
@@ -21,8 +21,8 @@ In DeFi, compounding can occur frequently, such as daily, hourly, or even with e
 
 Grasping the difference between APY and APR is important.
 
-- **APR (Annual Percentage Rate):**This represents the simple interest rate without considering compounding. For example, if you invest a certain amount at a 10% APR, you will have a higher amount at the end of the year.
--**APY (Annual Percentage Yield):**This figure includes compounding. If you invest a certain amount at a 10% APR with daily compounding, your APY will exceed 10% because you earn interest on a slightly larger amount each day.
+- **APR (Annual Percentage Rate):** This represents the simple interest rate without considering compounding. For example, if you invest a certain amount at a 10% APR, you will have a higher amount at the end of the year.
+- **APY (Annual Percentage Yield):** This figure includes compounding. If you invest a certain amount at a 10% APR with daily compounding, your APY will exceed 10% because you earn interest on a slightly larger amount each day.
 
 ### The Formula
 
@@ -42,14 +42,20 @@ Since APY accounts for compounding, it will always be higher than APR for the sa
 
 Yields in DeFi originate from various sources, including:
 
--**Lending Interest:**Users lending assets on platforms like [Aave](/what-is-defi) earn interest from borrowers.
--**Trading Fees:**[Liquidity Providers](/what-is-yield-farming) on decentralized exchanges (DEX), such as Uniswap, earn a share of fees from trades executed in their pool.
--**[Token](/what-is-a-token) Rewards (Inflation):**Many new protocols offer high yields through inflationary token rewards, incentivizing users to provide liquidity or [stake](/how-to-become-a-web3-staking-specialist) their assets. This reward can be volatile.
+- **Lending Interest:** Users lending assets on platforms like [Aave](/what-is-defi) earn interest from borrowers.
+- **Trading Fees:**[Liquidity Providers](/what-is-yield-farming) on decentralized exchanges (DEX), such as Uniswap, earn a share of fees from trades executed in their pool.
+- **[Token](/what-is-a-token) Rewards (Inflation):** Many new protocols offer high yields through inflationary token rewards, incentivizing users to provide liquidity or [stake](/how-to-become-a-web3-staking-specialist) their assets. This reward can be volatile.
 
 ### Yield Sources Table
 
 | Yield Source | Description | Example Protocol |
-|-----------------------|---------------------------------------------------------------|----------------------|
+|
+
+-----------------------|
+
+---------------------------------------------------------------|
+
+----------------------|
 | Lending Interest | Earned from borrowers who use your assets | Aave |
 | Trading Fees | Earned from fees on trades within liquidity pools | Uniswap |
 | Token Rewards | Earned through native token incentives for liquidity providers | Various DeFi Projects |
@@ -58,23 +64,10 @@ Yields in DeFi originate from various sources, including:
 
 High APY often comes with significant risks. Understanding the sources of yield is essential.
 
--**Unsustainable Inflation:**If yields primarily stem from inflationary token rewards, sustainability is questionable. A sharp decline in the reward token's price can drastically reduce your actual APY.
--**Impermanent Loss:**For liquidity providers, the risk of [impermanent loss](/what-is-yield-farming) might outweigh fees and rewards, leading to a net loss compared to merely holding the original assets.
--**[Smart Contract](/what-are-smart-contracts) Risk:** Higher yields may indicate that a protocol is new, lacks auditing, or is complex, increasing the risk of bugs or exploits that could result in total loss of funds.
+- **Unsustainable Inflation:** If yields primarily stem from inflationary token rewards, sustainability is questionable. A sharp decline in the reward token's price can drastically reduce your actual APY.
+- **Impermanent Loss:** For liquidity providers, the risk of [impermanent loss](/what-is-yield-farming) might outweigh fees and rewards, leading to a net loss compared to merely holding the original assets.
+- **[Smart Contract](/what-are-smart-contracts) Risk:** Higher yields may indicate that a protocol is new, lacks auditing, or is complex, increasing the risk of bugs or exploits that could result in total loss of funds.
 
 ### Practical Insight
 
 Consider APY as an estimate rather than a guarantee. It reflects the current rate of return, which can fluctuate rapidly due to market conditions, token prices, and capital in a pool. Always [do your own research (DYOR)](/what-is-dyor-in-crypto) to comprehend the yield's source and the associated risks before pursuing an attractive APY.
-
-## Verifiable Primary Sources & References
-
-1. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-2. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-3. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

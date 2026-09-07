@@ -26,25 +26,43 @@ These tokens typically use standards like ERC-20 for fungible shares or ERC-721 
 
 ### The Process: How a Property Gets Tokenized
 
-1. **Special Purpose Vehicle (SPV):**The property is placed into a legal entity, such as an LLC or a trust, which becomes the legal owner.
-2.**Token Creation:**Ownership of the SPV is digitized and represented by tokens on a blockchain. For example, an apartment building valued at $10 million could be tokenized into 10 million tokens, with each token representing a $1 share.
-3.**Primary Offering:**These tokens are offered to investors in a primary sale, akin to an Initial Public Offering (IPO), raising initial capital.
-4.**Secondary Trading:**After the primary offering, tokens can be traded on licensed secondary markets or decentralized exchanges, enhancing liquidity for investors.
-5.**Rights and Revenue:**Token holders are entitled to their proportion of the property's income, such as rental payments, automatically distributed via [smart contracts](/what-are-smart-contracts). They may also possess governance rights regarding property decisions.
+1. **Special Purpose Vehicle (SPV):** The property is placed into a legal entity, such as an LLC or a trust, which becomes the legal owner.
+2.
+
+**Token Creation:** Ownership of the SPV is digitized and represented by tokens on a blockchain. For example, an apartment building valued at $10 million could be tokenized into 10 million tokens, with each token representing a $1 share.
+3.
+
+**Primary Offering:** These tokens are offered to investors in a primary sale, akin to an Initial Public Offering (IPO), raising initial capital.
+4.
+
+**Secondary Trading:** After the primary offering, tokens can be traded on licensed secondary markets or decentralized exchanges, enhancing liquidity for investors.
+5.
+
+**Rights and Revenue:** Token holders are entitled to their proportion of the property's income, such as rental payments, automatically distributed via [smart contracts](/what-are-smart-contracts). They may also possess governance rights regarding property decisions.
 
 ### The Benefits of Tokenization
 
 Tokenization presents several notable benefits:
 
-1.**Fractional Ownership and Accessibility:**Tokenization allows investors to acquire fractional ownership without needing millions of dollars. For instance, someone can invest a few hundred dollars to purchase several tokens, democratizing access to a traditionally exclusive asset class.
+1.
 
-2.**Increased Liquidity:**Real estate transactions are often slow, taking months or years to complete. Tokenization creates a secondary market where ownership shares can be traded 24/7, providing near-instant liquidity.
+**Fractional Ownership and Accessibility:** Tokenization allows investors to acquire fractional ownership without needing millions of dollars. For instance, someone can invest a few hundred dollars to purchase several tokens, democratizing access to a traditionally exclusive asset class.
 
-3.**Lower Transaction Costs:**Automating processes through smart contracts reduces the need for intermediaries such as brokers, lawyers, and title agents. This can significantly decrease transaction fees and settlement times.
+2.
 
-4.**Transparency:**All ownership records and transactions are stored on an immutable public blockchain. This feature enhances transparency and minimizes fraud risks.
+**Increased Liquidity:** Real estate transactions are often slow, taking months or years to complete. Tokenization creates a secondary market where ownership shares can be traded 24/7, providing near-instant liquidity.
 
-5.**Programmable Assets:** Ownership represented by smart contracts is programmable. This capability allows for automated dividend payments, complex governance structures, and new [DeFi](/what-is-defi) integrations, such as using real estate tokens as collateral for loans.
+3.
+
+**Lower Transaction Costs:** Automating processes through smart contracts reduces the need for intermediaries such as brokers, lawyers, and title agents. This can significantly decrease transaction fees and settlement times.
+
+4.
+
+**Transparency:** All ownership records and transactions are stored on an immutable public blockchain. This feature enhances transparency and minimizes fraud risks.
+
+5.
+
+**Programmable Assets:** Ownership represented by smart contracts is programmable. This capability allows for automated dividend payments, complex governance structures, and new [DeFi](/what-is-defi) integrations, such as using real estate tokens as collateral for loans.
 
 ### The Challenges Ahead
 
@@ -59,16 +77,3 @@ The path to widespread adoption of real estate tokenization faces several challe
 The tokenization of real estate is a matter of when, not if. The benefits of increased liquidity, accessibility, and efficiency are too substantial to overlook. While regulatory and technical challenges exist, new companies are actively addressing them.
 
 As the Web3 infrastructure develops and regulatory clarity improves, the investment approach toward real estate will change dramatically. The barriers that have isolated ordinary investors from quality real estate investments are slowly being dismantled. The tokenization revolution will create substantial financial opportunities while building a more open, transparent, and democratic financial system.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
-8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

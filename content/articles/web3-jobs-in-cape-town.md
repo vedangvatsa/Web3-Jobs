@@ -16,18 +16,24 @@ The Web3 scene in Cape Town emphasizes [DeFi](/what-is-defi), [NFTs](/what-are-n
 
 Cape Town's Web3 ecosystem stands out due to its international appeal, strong developer community, and creative energy.
 
-- **A Global Hub for Remote Talent:**The city attracts "crypto nomads" and remote Web3 professionals from around the world. This influx creates a diverse, experienced community that encourages a rich exchange of ideas and high standards of work.
--**Strong Technical and Creative Talent:**Cape Town boasts a deep pool of software developers, designers, and creative professionals, many of whom hail from established fintech and gaming industries. This talent base supports the development of high-quality Web3 products.
--**Focus on DeFi and NFTs:**The presence of several prominent DeFi projects and a active NFT art scene signifies the city's strength in these sectors. The financial expertise found in the nearby Stellenbosch "investment valley" complements the creative atmosphere, making Cape Town a natural hub for these industries.
--**Active and Social Community:**The Web3 community in Cape Town is notably active, with frequent meetups, "Crypto & Chill" events, and workshops. Networking occurs in various settings, from hiking trails to beachside cafes, in addition to co-working spaces.
--**A Welcoming Regulatory Environment:**South Africa offers a relatively clear and pragmatic regulatory framework for cryptocurrency, allowing companies to operate and hire with greater confidence.
+- **A Global Hub for Remote Talent:** The city attracts "crypto nomads" and remote Web3 professionals from around the world. This influx creates a diverse, experienced community that encourages a rich exchange of ideas and high standards of work.
+- **Strong Technical and Creative Talent:** Cape Town boasts a deep pool of software developers, designers, and creative professionals, many of whom hail from established fintech and gaming industries. This talent base supports the development of high-quality Web3 products.
+- **Focus on DeFi and NFTs:** The presence of several prominent DeFi projects and a active NFT art scene signifies the city's strength in these sectors. The financial expertise found in the nearby Stellenbosch "investment valley" complements the creative atmosphere, making Cape Town a natural hub for these industries.
+- **Active and Social Community:** The Web3 community in Cape Town is notably active, with frequent meetups, "Crypto & Chill" events, and workshops. Networking occurs in various settings, from hiking trails to beachside cafes, in addition to co-working spaces.
+- **A Welcoming Regulatory Environment:** South Africa offers a relatively clear and pragmatic regulatory framework for cryptocurrency, allowing companies to operate and hire with greater confidence.
 
 ### In-Demand Roles and Salary Expectations
 
 The demand for skilled Web3 professionals in Cape Town remains high, particularly for senior developers and product managers. Although local salaries may not match those of the US or Europe, they are competitive within South Africa, accompanied by an excellent quality of life. Many professionals work remotely for international companies, often earning salaries aligned with global standards.
 
 | Role | Salary Range (ZAR/month) | Remote Global Salary (USD/month) |
-|--------------------------------------------|---------------------------------------------|---------------------------------------------|
+|
+
+--------------------------------------------|
+
+---------------------------------------------|
+
+---------------------------------------------|
 | Senior [Smart Contract](/what-are-smart-contracts) Developer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust) | Competitive within the local market | Competitive with global standards |
 | Full-Stack Web3 Engineer (React/Viem) | Competitive within the local market | N/A |
 | Web3 Product Manager | Competitive within the local market | N/A |
@@ -37,29 +43,24 @@ The demand for skilled Web3 professionals in Cape Town remains high, particularl
 
 Building a successful Web3 career in Cape Town requires strategic engagement with the local community and a focus on developing relevant skills.
 
-1.**Engage with the Local Community:**In-person connections are important in Cape Town's Web3 scene.
- -**Attend Meetups:**Participate regularly in various casual and social meetups.
- -**Co-working Spaces:**Spend time at tech-focused co-working spaces where many Web3 professionals gather.
+1.
 
-2.**Create a [Portfolio](/building-web3-portfolio) with Global Appeal:**Given the prevalence of remote roles, your portfolio should reflect high-quality, well-documented projects on GitHub that showcase your skills to a global audience.
+**Engage with the Local Community:** In-person connections are important in Cape Town's Web3 scene.
+ - **Attend Meetups:** Participate regularly in various casual and social meetups.
+ - **Co-working Spaces:** Spend time at tech-focused co-working spaces where many Web3 professionals gather.
 
-3.**Highlight Creative or FinTech Skills:**If you possess a background in design, art, gaming, or financial services, emphasize this experience. These sectors align well with Cape Town's strengths, making your expertise highly sought after.
+2.
 
-4.**Adopt a Remote-First Mindset:** Familiarize yourself with tools and practices for asynchronous communication and remote collaboration. Many teams operate in a distributed manner, so demonstrating your ability to thrive in this environment is essential.
+**Create a [Portfolio](/building-web3-portfolio) with Global Appeal:** Given the prevalence of remote roles, your portfolio should reflect high-quality, well-documented projects on GitHub that showcase your skills to a global audience.
+
+3.
+
+**Highlight Creative or FinTech Skills:** If you possess a background in design, art, gaming, or financial services, emphasize this experience. These sectors align well with Cape Town's strengths, making your expertise highly sought after.
+
+4.
+
+**Adopt a Remote-First Mindset:** Familiarize yourself with tools and practices for asynchronous communication and remote collaboration. Many teams operate in a distributed manner, so demonstrating your ability to thrive in this environment is essential.
 
 ### Your Next Step: Find a Web3 Job
 
 Combining a fulfilling career with a desirable lifestyle is possible in Cape Town. Our [Web3 job board](/jobs) features a range of opportunities in Cape Town and remote roles that allow you to work from this active city. Explore the listings to find your place in one of the most exciting crypto hubs in the world.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

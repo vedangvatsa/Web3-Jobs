@@ -28,11 +28,17 @@ Bitcoin serves as the most prominent example of this phenomenon.
 
 In this context, 
 
-> **Infrequent, thoroughly vetted commits signify strength, not stagnation.**This pattern also holds for other mature layer-1 protocols that have reached a stage of architectural stability.
+> **Infrequent, thoroughly vetted commits signify strength, not stagnation.
+
+**This pattern also holds for other mature layer-1 protocols that have reached a stage of architectural stability.
 
 ### 2. Shift from Core Development to Ecosystem Development
 
-Ecosystems often evolve in a predictable manner:**Phase 1:**Establish the core protocol**Phase 2:**Harden and stabilize the protocol**Phase 3:**Encourage innovation at the application layer
+Ecosystems often evolve in a predictable manner:**Phase 1:** Establish the core protocol
+
+**Phase 2:** Harden and stabilize the protocol
+
+**Phase 3:** Encourage innovation at the application layer
 
 Ethereum exemplifies this transition:
 
@@ -74,7 +80,9 @@ As [Web3](/what-is-web3) matures, teams often move sensitive or proprietary work
 
 Consequently, 
 
->**Public commit trackers likely underestimate actual developer activity.**Entire upgrade cycles or product lines may be developed privately and only made public upon launch.
+>**Public commit trackers likely underestimate actual developer activity.
+
+**Entire upgrade cycles or product lines may be developed privately and only made public upon launch.
 
 ## Assessing Developer Activity by Project Age and Maturity Stage
 
@@ -82,18 +90,20 @@ Understanding the age and development stage of a project is essential for interp
 
 ### Early-Stage Projects (0-2 Years)
 
--**Expected activity:**High-velocity commits, rapid iteration, and quick experimentation. 
--**Implications of a slowdown:**Typically signals a**major red flag.**Early-stage projects should demonstrate consistent shipping of features; reduced activity may indicate funding challenges, technical impediments, or stalled execution.
+- **Expected activity:** High-velocity commits, rapid iteration, and quick experimentation. 
+- **Implications of a slowdown:** Typically signals a**major red flag.
+
+**Early-stage projects should demonstrate consistent shipping of features; reduced activity may indicate funding challenges, technical impediments, or stalled execution.
 
 ### Mid-Stage Projects (2-5 Years)
 
--**Expected activity:**A balanced and stable commit cadence emerges. The focus shifts from experimentation to refinement and roadmap-driven development. 
--**Implications of a slowdown:**Context-dependent. This could suggest maturing architecture or the emergence of issues.
+- **Expected activity:** A balanced and stable commit cadence emerges. The focus shifts from experimentation to refinement and roadmap-driven development. 
+- **Implications of a slowdown:** Context-dependent. This could suggest maturing architecture or the emergence of issues.
 
 ### Mature Protocols (5+ Years)
 
--**Expected activity:**Slow, stable, and highly vetted updates that prioritize security, audits, and long-term stability. 
--**Implications of a slowdown:**Often signals a**healthy**state of affairs. Low commit velocity may reflect the maturity of the protocol rather than inactivity.
+- **Expected activity:** Slow, stable, and highly vetted updates that prioritize security, audits, and long-term stability. 
+- **Implications of a slowdown:** Often signals a **healthy** state of affairs. Low commit velocity may reflect the maturity of the protocol rather than inactivity.
 
 ## Evaluating Contributor Composition
 
@@ -165,16 +175,3 @@ Understanding the reasons behind a slowdown is far more significant than simply 
 The future of crypto lies with ecosystems that strike a balance between rapid innovation and stability, alongside rigorous security practices and long-term developer engagement. As the industry matures, development evolves from rapid experimentation to professional-grade engineering.
 
 A specific perspective that combines quantitative metrics with qualitative insights is essential for distinguishing healthy maturity from genuine decline.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

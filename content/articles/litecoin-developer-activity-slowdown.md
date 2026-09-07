@@ -17,37 +17,49 @@ In contrast to active ecosystems like [Ethereum](/what-is-ethereum), Solana, and
 
 Litecoin's developer slowdown stems from its fundamental design, which is heavily influenced by Bitcoin.
 
-- **Limited [Smart Contract](/what-are-smart-contracts) Functionality:**Litecoin employs a straightforward, script-based language for transactions. While this provides security and stability, it lacks "Turing-completeness," preventing the support of complex smart contracts that fuel the growth of [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao) seen on platforms like Ethereum.
--**A "Finished Product" Philosophy:**Litecoin was established as a simple and stable payment network. Its primary objective was to serve as a reliable digital currency rather than a platform for continuous innovation. This mindset, while commendable in its focus, limits opportunities for developers to engage with the core protocol.
+- **Limited [Smart Contract](/what-are-smart-contracts) Functionality:** Litecoin employs a straightforward, script-based language for transactions. While this provides security and stability, it lacks "Turing-completeness," preventing the support of complex smart contracts that fuel the growth of [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and [DAOs](/what-is-a-dao) seen on platforms like Ethereum.
+- **A "Finished Product" Philosophy:** Litecoin was established as a simple and stable payment network. Its primary objective was to serve as a reliable digital currency rather than a platform for continuous innovation. This mindset, while commendable in its focus, limits opportunities for developers to engage with the core protocol.
 
 ### Where Have the Developers Gone?
 
 Top blockchain developers gravitate toward the most intriguing and challenging problems. Currently, these opportunities predominantly arise within ecosystems that allow for the development of rich and complex applications.
 
--**The Lure of DeFi and NFTs:**A significant portion of developer talent has migrated to the Ethereum ecosystem and its Layer 2 solutions. Here, they can create complex financial protocols, advanced gaming applications, and new NFT initiatives. The expansive design space offers greater excitement and potential.
--**The Rise of High-Performance Layer 1s:**Developers concentrating on scalability and infrastructure are increasingly attracted to newer Layer 1s like Solana and Aptos, which use modern programming languages such as Rust and Move.
+- **The Lure of DeFi and NFTs:** A significant portion of developer talent has migrated to the Ethereum ecosystem and its Layer 2 solutions. Here, they can create complex financial protocols, advanced gaming applications, and new NFT initiatives. The expansive design space offers greater excitement and potential.
+- **The Rise of High-Performance Layer 1s:** Developers concentrating on scalability and infrastructure are increasingly attracted to newer Layer 1s like Solana and Aptos, which use modern programming languages such as Rust and Move.
 
 ### Measuring the Slowdown
 
 Several key metrics illustrate Litecoin's slowdown:
 
 | Metric | Litecoin | Ethereum |
-|-----------------------------|------------------|------------------|
+|
+
+-----------------------------|
+
+------------------|
+
+------------------|
 | Weekly GitHub Commits | Significantly fewer than Ethereum | Significantly more than Litecoin |
 | Full-Time Developers | Few | Many |
 | Active dApps | Very few | Numerous |
 
--**[GitHub](/building-web3-portfolio) Commits:**Litecoin's core repository experiences significantly fewer weekly or monthly code commits compared to more active projects.
--**Full-Time Developers:**The number of developers working full-time on the Litecoin protocol is minuscule relative to the hundreds involved with Ethereum and other prominent Layer 1 networks.
--**Ecosystem Projects:**Litecoin lacks a active ecosystem of decentralized applications (dApps) built on its platform.
+- **[GitHub](/building-web3-portfolio) Commits:** Litecoin's core repository experiences significantly fewer weekly or monthly code commits compared to more active projects.
+- **Full-Time Developers:** The number of developers working full-time on the Litecoin protocol is minuscule relative to the hundreds involved with Ethereum and other prominent Layer 1 networks.
+- **Ecosystem Projects:** Litecoin lacks a active ecosystem of decentralized applications (dApps) built on its platform.
 
 ### Lessons Learned from Litecoin's Stagnation
 
 Litecoin's trajectory reflects an evolutionary narrative rather than a failure. It remains a secure and reliable decentralized currency with a loyal user base. However, its challenges in retaining developer interest provide vital lessons for the broader Web3 industry.
 
-1.**A growing Ecosystem Requires a Rich Design Space:**To draw in and retain builders, a blockchain must transcend being merely a currency; it should function as a platform. This entails providing tools and flexibility that help developers craft new applications.
-2.**Developer Activity is a Key Health Metric:**Over time, a blockchain's value hinges on the innovation occurring within its ecosystem. Monitoring developer activity serves as one of the most effective means to assess long-term health and potential.
-3.**Innovation is a Moving Target:** The crypto sector evolves rapidly. Protocols that fail to adapt risk becoming outdated, respected for their historical significance but no longer leading innovation.
+1.
+
+**A growing Ecosystem Requires a Rich Design Space:** To draw in and retain builders, a blockchain must transcend being merely a currency; it should function as a platform. This entails providing tools and flexibility that help developers craft new applications.
+2.
+
+**Developer Activity is a Key Health Metric:** Over time, a blockchain's value hinges on the innovation occurring within its ecosystem. Monitoring developer activity serves as one of the most effective means to assess long-term health and potential.
+3.
+
+**Innovation is a Moving Target:** The crypto sector evolves rapidly. Protocols that fail to adapt risk becoming outdated, respected for their historical significance but no longer leading innovation.
 
 Litecoin's experience highlights a fundamental reality in the Web3 field: in the race for the future of the internet, the most valuable asset is neither capital nor brand recognition but the enthusiasm and creativity of a growing developer community.
 
@@ -62,7 +74,13 @@ Many successful projects focus on attracting developers through hackathons, gran
 Different blockchain projects adopt varying strategies to engage their developer communities. For instance, Ethereum has a strong ecosystem that nurtures developers through extensive documentation, active forums, and community-driven events.
 
 | Strategy | Ethereum | Litecoin |
-|------------------------------|----------------------------------|----------------------------------|
+|
+
+------------------------------|
+
+----------------------------------|
+
+----------------------------------|
 | Community Engagement | Hackathons, grants, forums | Minimal developer outreach |
 | Documentation Availability | Extensive resources and tutorials | Limited resources |
 | Ecosystem Support | Numerous dApps and projects | Few active projects |
@@ -74,16 +92,3 @@ Litecoin's minimal engagement strategies contribute to its developer activity de
 Litecoin continues to offer advantages for specific use cases, particularly as a payment method. Its speed and low transaction costs make it appealing for everyday transactions. However, the absence of active developer engagement raises concerns regarding its long-term viability as a leading cryptocurrency.
 
 The introduction of features like the Lightning Network, which enhances transaction speed and scalability, represents a potential avenue for revitalizing developer interest. The success of such initiatives, however, hinges on active developer participation and community engagement.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-7. [Solana Core Architecture Documentation](https://docs.solana.com/)
-8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

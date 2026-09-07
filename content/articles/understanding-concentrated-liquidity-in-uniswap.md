@@ -7,7 +7,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 image: /images/articles/charts/concentrated-liquidity-tick-math.svg
 ---
-
 Decentralized automated market makers transformed digital asset trading by replacing centralized limit order books with continuous liquidity pools governed by algorithmic bonding curves. In early protocols such as [Uniswap v2](https://uniswap.org), liquidity providers supplied equal values of two tokens to satisfy the constant product formula $x \cdot y = k$. While mathematically elegant and passive, this architecture suffered from profound capital inefficiency: liquidity was distributed uniformly across all possible price points from zero to infinity.
 
 Uniswap v3 revolutionized decentralized finance by introducing concentrated liquidity, formalized in the canonical [Uniswap v3 Core Whitepaper](https://uniswap.org/whitepaper-v3.pdf) and implemented in the open-source [Uniswap v3 Core Contracts](https://github.com/Uniswap/v3-core) and [Periphery Contracts](https://github.com/Uniswap/v3-periphery) documented at [Uniswap Developer Docs](https://docs.uniswap.org/). Instead of spreading capital across an infinite price continuum, liquidity providers can allocate their assets within discrete, customizable price intervals. 
@@ -109,8 +108,12 @@ Instead, Uniswap v3 discretizes the continuous price spectrum into an array of d
 +-----------------------------------------------------------------------+
 |                                                                       |
 |   ... |  Tick i-1  |   Tick i   |  Tick i+1  |  Tick i+2  | ...       |
-|       |            |     *      |            |            |           |
-|   ----+------------+-----+------+------------+------------+---->      |
+|       |            |     
+
+*      |            |            |           |
+|   
+
+----+------------+-----+------+------------+------------+---->      |
 |       p(i-1)       p(i)  Price  p(i+1)       p(i+2)                   |
 |                                                                       |
 |   Discrete Price Formula:  p(i) = 1.0001^i                            |

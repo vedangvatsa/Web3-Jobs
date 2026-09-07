@@ -20,9 +20,13 @@ Public Goods DAOs are collective organizations that raise and distribute funds t
 
 ### The Gitcoin Model: A Case Study
 
-One of the most recognized and effective Public Goods DAOs is**Gitcoin**. Gitcoin's mission centers around financing the open-source software and infrastructure essential for the entire [Ethereum](/what-is-ethereum) ecosystem.
+One of the most recognized and effective Public Goods DAOs is
 
-Gitcoin introduced**Quadratic Funding**, which changed the way public goods are financed. 
+**Gitcoin**. Gitcoin's mission centers around financing the open-source software and infrastructure essential for the entire [Ethereum](/what-is-ethereum) ecosystem.
+
+Gitcoin introduced
+
+**Quadratic Funding**, which changed the way public goods are financed. 
 
 * **Quadratic Funding Explained**: This funding method optimally allocates resources based on community contributions, emphasizing the importance of the number of contributors rather than the total amount donated.
 
@@ -46,7 +50,11 @@ Several other DAOs also focus on social impact:
 The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector presents various career opportunities for individuals passionate about aligning their work with their values.
 
 | Job Title | Responsibilities |
-|-------------------------------|-----------------------------------------------------------------------------------------------------------|
+|
+
+-------------------------------|
+
+-----------------------------------------------------------------------------------------------------------|
 | Community & Ecosystem Managers | Identify promising projects, assist in grant applications, and provide support throughout the funding process. |
 | Grant Program Managers | Oversee daily operations of funding rounds, communicate with projects, and ensure a smooth process. |
 | Governance Facilitators | Aid the DAO community in making decisions regarding treasury allocation and supported causes. |
@@ -54,21 +62,14 @@ The growth of Public Goods DAOs and the "Regenerative Finance" (ReFi) sector pre
 
 ### Getting Involved
 
-1.**Participate in a Grants Round**: Engage hands-on by donating to a project during an upcoming Gitcoin Grants round. Observing the process provides valuable insights.
-2.**Join a DAO**: Identify a Public Goods DAO that aligns with your interests. Engage with their community through platforms like Discord and seek opportunities to contribute.
-3.**Showcase Your Skills**: Offer your expertise to projects. For instance, if you are a writer, assist with grant proposals. If you're skilled in data analysis, create dashboards to track funding history.
+1.
+
+**Participate in a Grants Round**: Engage hands-on by donating to a project during an upcoming Gitcoin Grants round. Observing the process provides valuable insights.
+2.
+
+**Join a DAO**: Identify a Public Goods DAO that aligns with your interests. Engage with their community through platforms like Discord and seek opportunities to contribute.
+3.
+
+**Showcase Your Skills**: Offer your expertise to projects. For instance, if you are a writer, assist with grant proposals. If you're skilled in data analysis, create dashboards to track funding history.
 
 Working within the Public Goods sector of Web3 allows professionals to contribute to an important movement that seeks equitable funding solutions for essential societal needs. Using the resources of blockchain technology, individuals have the chance to make a tangible, positive difference.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

@@ -7,7 +7,7 @@ image: /images/anas-alshanti-feXpdV001o4-unsplash.jpg
 category: Industry Insights
 data-ai-hint: crypto chart
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ### The Narrative of Developer Activity
 
@@ -47,16 +47,3 @@ Instead of tracking daily commits, a more insightful approach to gauging the fut
 * **Lightning Network Growth:** The capacity and number of channels on the Lightning Network for LTC are important metrics for its scalability as a medium of exchange.
 * **Merchant and [Wallet](/how-to-choose-a-crypto-wallet) Integration:** The core measure of success for a currency is its use. Watching for new integrations with payment processors, wallets, and exchanges shows its growing utility.
 * **Core Developer Engagement:** While a small team, the engagement of core developers in discussions, proposals (Litecoin Improvement Proposals - LIPs), and security maintenance is a vital sign of the project's health.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-6. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-7. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-8. [Solana Core Architecture Documentation](https://docs.solana.com/)
-9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

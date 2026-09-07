@@ -16,12 +16,16 @@ But where do you start? The world of smart contracts can seem intimidating, with
 
 ## What You'll Need Your Development Environment
 
-Before we write any code, we need a place to write and test it. While professional developers use complex local setups with tools like Hardhat or Foundry, we can start with a much simpler, web-based tool called **Remix IDE**.**What is Remix?**Remix is an open-source Integrated Development Environment (IDE) that runs directly in your browser. It has everything we need to get started:
+Before we write any code, we need a place to write and test it. While professional developers use complex local setups with tools like Hardhat or Foundry, we can start with a much simpler, web-based tool called **Remix IDE**.
+
+#### What is Remix?
+
+Remix is an open-source Integrated Development Environment (IDE) that runs directly in your browser. It has everything we need to get started:
 - A code editor for writing Solidity.
 - A compiler to turn our Solidity code into bytecode that the EVM can understand.
 - A simulated blockchain environment for deploying and testing our contract without needing real cryptocurrency.
 
->**Action:**Open your browser and work through to [remix.ethereum.org](https://remix.ethereum.org).
+>**Action:** Open your browser and work through to [remix.ethereum.org](https://remix.ethereum.org).
 
 You'll be greeted with a default workspace. You can explore the example files, but for this tutorial, we'll create our own.
 
@@ -130,9 +134,15 @@ If everything is correct, you'll see a green checkmark appear on the compiler ic
 Compiling the code is just the first step. To use it, we need to deploy it to a blockchain. Remix provides a simulated blockchain for this purpose.
 
 1. On the left-hand side, click the "Deploy & run transactions" icon (it looks like the Ethereum logo).
-2.**Environment:**Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
-3.**Account:**You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
-4.**Deploy:**Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
+2.
+
+**Environment:** Make sure the environment is set to "Remix VM (London)". This is your personal, in-browser blockchain.
+3.
+
+**Account:** You'll see a list of accounts, each pre-loaded with fake Ether. This is the account you'll use to deploy the contract.
+4.
+
+**Deploy:** Ensure your `SimpleStorage` contract is selected in the "Contract" dropdown. Click the orange "Deploy" button.
 
 You should see some activity in the Remix terminal at the bottom, and then under "Deployed Contracts," you will see your `SimpleStorage` contract.
 
@@ -140,11 +150,11 @@ You should see some activity in the Remix terminal at the bottom, and then under
 
 Click the small arrow next to your `SimpleStorage` contract to expand it. You will see buttons corresponding to the public parts of your contract.
 
--**`favoriteNumber` (blue button):**This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
--**`store` (orange button):**This is our function for changing the state.
+- **`favoriteNumber` (blue button):** This is the public getter function for our state variable. Click it now. It will instantly return the value `0`, which is the default value for a `uint256`.
+- **`store` (orange button):** This is our function for changing the state.
  - In the input field next to the `store` button, type a number (e.g., `77`).
  - Click the `store` button. This simulates a transaction. You'll see it logged in the terminal.
--**Check the new value:**Now, click the blue `favoriteNumber` button again. It will now return `77`!
+- **Check the new value:** Now, click the blue `favoriteNumber` button again. It will now return `77`!
 
 You have successfully written, compiled, deployed, and interacted with a smart contract. You have stored a value on a (simulated) blockchain and then retrieved it. This is the fundamental pattern behind all dApps.
 
@@ -186,15 +196,3 @@ contract SimpleStorage {
 *Note: I've added a `retrieve` function and some comments (`@notice`, `@dev`) which are part of a documentation standard called NatSpec. This is a good habit to get into early! The `view` keyword in the `retrieve` function means it only reads from the blockchain state and doesn't modify it, so it doesn't cost any gas to call.*
 
 This simple contract is the "Hello, World!" of Web3. From here, you can explore more complex data types, function modifiers, and contract interactions. But every complex DeFi protocol or NFT marketplace is built upon these same core principles: storing state and defining functions to change that state according to a set of rules. Your journey as a Web3 developer has officially begun.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
-7. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

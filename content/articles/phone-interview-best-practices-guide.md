@@ -7,7 +7,7 @@ description: >-
   Master the art of the phone interview with this full guide. Learn how to
   prepare, what to say, and how to follow up to make a lasting impression.
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The phone [interview](/how-to-prepare-for-job-interview), or phone screen, is often the first real conversation you will have with a potential employer. While it might seem less formal than a face-to-face meeting, it is a critical step in the hiring process. It is your first opportunity to make a personal connection, showcase your qualifications, and prove that you are a serious contender for the role. Underestimating its importance is a common mistake that can prematurely end your candidacy.
 
@@ -39,7 +39,9 @@ Simply reading the job description is not enough. Dive deeper to understand the 
 Do not go into the call planning to "wing it." Structure your thoughts around a few key themes.
 
 * **Your "Elevator Pitch":** Prepare a concise, 60-90 second summary of who you are, what you have done, and why you are interested in this specific role and company. This is often the answer to the classic opening question, "Tell me about yourself."
-* **Connect Your Experience to the Job:**For each major requirement in the job description, prepare a specific example using the**STAR method (Situation, Task, Action, Result)**. This structured approach makes your answers compelling and easy to follow.
+* **Connect Your Experience to the Job:** For each major requirement in the job description, prepare a specific example using the
+
+**STAR method (Situation, Task, Action, Result)**. This structured approach makes your answers compelling and easy to follow.
 * **Quantify Your Achievements:** Instead of saying "I improved efficiency," say "I implemented a new workflow that reduced project completion time significantly." Numbers make your accomplishments tangible and impressive.
 
 #### Prepare Your Questions
@@ -120,16 +122,3 @@ A prompt and professional thank-you email is non-negotiable.
  3. Mention a specific point from your conversation.
  4. Briefly restate why you are a great fit.
  5. Close professionally.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

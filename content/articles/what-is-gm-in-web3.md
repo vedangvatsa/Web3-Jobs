@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: crypto culture
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 GM stands for "good morning." This simple greeting appears frequently on crypto Twitter and within Discord servers, with numerous individuals from the crypto community exchanging GM messages each morning.
 
@@ -25,7 +25,13 @@ Even amid the subsequent bear market, GM persisted. Those who remained in the cr
 
 GM signifies more than a simple greeting. It encapsulates several key concepts within crypto culture.
 
-**Optimism**is fundamental. As a morning greeting, GM embodies new possibilities and fresh starts. In the face of crypto's volatility, saying GM acknowledges that despite yesterday's challenges, today presents new opportunities. Each day offers hope for improvement.**Community**is another vital aspect. By exchanging GM, individuals affirm their connection to a larger network. They are not isolated traders or developers; they are part of a global movement dedicated to building something meaningful.**Commitment**is also implied. Regularly saying GM indicates genuine engagement with the crypto space rather than casual observation. It demonstrates that one is actively involved and invested in the community.**Culture and identity** play an important role. Using GM signals familiarity with crypto culture. It distinguishes insiders from outsiders. For crypto natives, this social signaling holds considerable importance.
+**Optimism** is fundamental. As a morning greeting, GM embodies new possibilities and fresh starts. In the face of crypto's volatility, saying GM acknowledges that despite yesterday's challenges, today presents new opportunities. Each day offers hope for improvement.
+
+**Community** is another vital aspect. By exchanging GM, individuals affirm their connection to a larger network. They are not isolated traders or developers; they are part of a global movement dedicated to building something meaningful.
+
+**Commitment** is also implied. Regularly saying GM indicates genuine engagement with the crypto space rather than casual observation. It demonstrates that one is actively involved and invested in the community.
+
+**Culture and identity** play an important role. Using GM signals familiarity with crypto culture. It distinguishes insiders from outsiders. For crypto natives, this social signaling holds considerable importance.
 
 ## GM in Practice
 
@@ -74,16 +80,3 @@ GM transcends a mere greeting. It represents a cultural artifact embodying optim
 For anyone working in Web3, whether participating in GM daily or not, grasping its implications helps contextualize the culture you are entering. It offers insights into how crypto communities perceive themselves and each other.
 
 When you encounter GM across crypto Twitter, remember that it signifies more than a friendly hello. It conveys a message of solidarity: "Good morning, I'm here, I believe in this, we are in this together." This sense of community and shared purpose contributes significantly to the resilience of Web3 amid challenges and setbacks.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-4. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

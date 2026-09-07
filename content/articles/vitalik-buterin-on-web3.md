@@ -20,16 +20,3 @@ At the heart of Buterin's philosophy lies the concept of "credibly neutral" syst
 That view also treats decentralization as a practical engineering constraint. Validator concentration, privileged infrastructure, opaque governance, and dependence on a small number of service providers can weaken a system even when its smart contracts are public. Evaluating Web3 projects therefore requires looking beyond token ownership to the full technical and social stack.
 
 In a field often filled with noise and speculation, Buterin emerges as a steady voice of intellect and foresight. His writings provide valuable insights for developers, users, and thinkers aiming to enable the full potential of Web3. He emphasizes that the ultimate goal is not merely to create a new financial system; it is to build a more open, free, and just world.
-
-## Verifiable Primary Sources & References
-
-1. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-2. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-3. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-4. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-5. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-6. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
-7. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)
-9. [Chainlink Decentralized Oracle Network Specifications](https://docs.chain.link/)
-10. [Uniswap Protocol Architecture & Technical Whitepapers](https://docs.uniswap.org/)

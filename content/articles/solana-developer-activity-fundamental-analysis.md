@@ -39,16 +39,3 @@ While [Ethereum](/what-is-ethereum) and its Layer 2s dominate the narrative arou
 * **DePIN (Decentralized Physical Infrastructure):** Projects like Helium (which migrated its entire network to Solana) and Hivemapper are using Solana's speed to manage vast, real-world networks of physical devices. This is a use case that would be prohibitively expensive on most other chains.
 * **High-Frequency [DeFi](/what-is-defi):** Solana's ability to handle tens of thousands of transactions per second makes it the ideal venue for central limit order book (CLOB) decentralized exchanges and other high-frequency trading applications.
 * **Payments and Micropayments:** With near-instant finality and transaction fees that are fractions of a cent, Solana is a viable platform for real-world payment applications.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
-5. [Solana Core Architecture Documentation](https://docs.solana.com/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

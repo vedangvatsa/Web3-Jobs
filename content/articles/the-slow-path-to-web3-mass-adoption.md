@@ -34,7 +34,7 @@ The concept of "gas" fees is entirely unfamiliar to Web2 users. The notion of pa
 
 Once an action is performed on the [blockchain](/what-is-a-blockchain), there is no "undo" option. If a user mistakenly sends funds to an incorrect address or authorizes a malicious transaction, there is no customer support available for assistance. This unforgiving nature can intimidate newcomers.
 
-**The Solution:**Implementing Account Abstraction (EIP-4337) offers a promising pathway forward. By transforming user wallets into programmable [smart contracts](/what-are-smart-contracts), this solution can introduce features such as social recovery (eliminating the need for seed phrases) and gasless transactions (allowing dApps to subsidize user fees).
+**The Solution:** Implementing Account Abstraction (EIP-4337) offers a promising pathway forward. By transforming user wallets into programmable [smart contracts](/what-are-smart-contracts), this solution can introduce features such as social recovery (eliminating the need for seed phrases) and gasless transactions (allowing dApps to subsidize user fees).
 
 ## 2. Scalability and Cost
 
@@ -46,7 +46,9 @@ During periods of high network congestion, gas fees on Ethereum can surge, rende
 
 ### Transaction Speed
 
-Although transaction confirmation times have improved, they still lag behind the instant feedback users expect from Web2 applications. Delays can frustrate users accustomed to smooth interactions.**The Solution:**Ongoing development in Layer 2 rollups (including Optimistic and ZK-rollups) and the emerging "modular blockchain" concept continue to push scalability limits. As data availability layers, such as Celestia, become more integrated, transaction costs on Layer 2 solutions are expected to decrease further, enabling high-throughput applications to thrive.
+Although transaction confirmation times have improved, they still lag behind the instant feedback users expect from Web2 applications. Delays can frustrate users accustomed to smooth interactions.
+
+**The Solution:** Ongoing development in Layer 2 rollups (including Optimistic and ZK-rollups) and the emerging "modular blockchain" concept continue to push scalability limits. As data availability layers, such as Celestia, become more integrated, transaction costs on Layer 2 solutions are expected to decrease further, enabling high-throughput applications to thrive.
 
 ## 3. The Speculation and Scam Perception Problem
 
@@ -58,7 +60,9 @@ The space has garnered a reputation for a toxic "bro" culture fixated on specula
 
 ### Lack of Real-World Utility
 
-For a significant period, many crypto tokens served little purpose other than speculative trading. The absence of applications that address real-world problems has stymied Web3's growth beyond its speculative bubble.**The Solution:**The industry must prioritize building applications that provide genuine utility. By developing dApps that offer real value, such as decentralized social networks that protect user data, engaging games, or financial tools that outperform traditional counterparts, public perception will gradually shift.
+For a significant period, many crypto tokens served little purpose other than speculative trading. The absence of applications that address real-world problems has stymied Web3's growth beyond its speculative bubble.
+
+**The Solution:** The industry must prioritize building applications that provide genuine utility. By developing dApps that offer real value, such as decentralized social networks that protect user data, engaging games, or financial tools that outperform traditional counterparts, public perception will gradually shift.
 
 ## 4. Regulatory Uncertainty
 
@@ -74,7 +78,9 @@ Established companies hesitate to fully adopt Web3 due to the lack of regulatory
 
 ### Lack of Consumer Protection
 
-The decentralized and often anonymous characteristics of Web3 complicate the provision of consumer protection, something users expect from traditional financial systems.**The Solution:** Engaging proactively with policymakers is vital for the industry. Advocating for clear, sensible regulations and developing industry best practices for transparency and consumer protection can help address these challenges.
+The decentralized and often anonymous characteristics of Web3 complicate the provision of consumer protection, something users expect from traditional financial systems.
+
+**The Solution:** Engaging proactively with policymakers is vital for the industry. Advocating for clear, sensible regulations and developing industry best practices for transparency and consumer protection can help address these challenges.
 
 ## A Marathon, Not a Sprint
 
@@ -83,16 +89,3 @@ Mass adoption of Web3 resembles a marathon rather than a sprint. While the chall
 The positive aspect is that industry leaders are concentrating on these issues. Innovations such as Account Abstraction, the expansion of Layer 2 solutions, and a shift in focus from speculation to utility signal that the industry is evolving.
 
 Mass adoption will not occur overnight; it will transpire gradually, one application at a time. Users will onboard to dApps without realizing they are using blockchain technology. The benefits of user ownership and decentralization will manifest through intuitive experiences. The journey may be lengthy, but the goal, a more open, fair, and user-owned internet, is worth the effort.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

@@ -7,7 +7,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man smile
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: The Investor-Philosopher
 
@@ -28,7 +28,13 @@ Dixon's primary argument in his book, *Read Write Own: Building the Next Era of 
 He categorizes the history of the internet into three phases:
 
 | Phase | Timeline | Key Characteristics |
-|----------|----------------|-----------------------------------------------------------------------------------------------------|
+|
+
+----------|
+
+----------------|
+
+-----------------------------------------------------------------------------------------------------|
 | Web1 | 1990-2005 | Open protocols (HTTP, SMTP); decentralized and community-governed; users could only "read" content. |
 | Web2 | 2005-2020 | Centralized corporate networks (Google, Facebook, Twitter); users could "read and write" content; value shifted to corporations. |
 | Web3 | 2020-Present | Built on blockchain technology; merges decentralization with interactive functionality; emphasizes user ownership through tokens. |
@@ -43,8 +49,8 @@ Dixon employs various mental models to clarify complex ideas surrounding Web3. T
 
 Dixon differentiates between "strong" and "weak" technologies:
 
-- **Weak Technologies:**These are controlled by a single entity, subject to arbitrary changes or shutdowns. Examples include the Facebook API and the Twitter API.
--**Strong Technologies:**These operate on open, permissionless protocols that no single entity controls. Technologies like email (SMTP) and the web (HTTP) fall into this category.
+- **Weak Technologies:** These are controlled by a single entity, subject to arbitrary changes or shutdowns. Examples include the Facebook API and the Twitter API.
+- **Strong Technologies:** These operate on open, permissionless protocols that no single entity controls. Technologies like email (SMTP) and the web (HTTP) fall into this category.
 
 He argues that blockchain protocols qualify as "strong technologies." Their transparent rules, enforced by code, provide a stable foundation for developers. This strength, according to Dixon, will attract top talent to Web3 over time.
 
@@ -59,7 +65,13 @@ A successful founder, in Dixon's view, has thoroughly explored the idea maze for
 Dixon's framework emphasizes the importance of user acquisition through a product with inherent utility, referred to as the "tool." After attracting a critical mass of users, network effects can enhance the product's value, forming the "network."
 
 | Example | Initial Attraction | Network Value |
-|------------------|-------------------------------------|-----------------------------------|
+|
+
+------------------|
+
+-------------------------------------|
+
+-----------------------------------|
 | Instagram | Simple photo-filtering tool | Social networking features |
 | Web3 Application | Compelling user experience solving a real problem | Token ownership creates network effects |
 
@@ -69,9 +81,9 @@ Dixon suggests that decentralized applications (dApps) should first focus on pro
 
 Dixon highlights the tendency of new technologies to mimic existing ones, a phenomenon known as skeuomorphism.
 
--**Early Cars:**They resembled "horseless carriages."
--**Early Web:**Digital "brochures" imitated print media.
--**Early Web3:**Many initial dApps mirrored Web2 services, often requiring a [wallet](/how-to-choose-a-crypto-wallet) connection, such as "decentralized Twitter" or "decentralized Uber."
+- **Early Cars:** They resembled "horseless carriages."
+- **Early Web:** Digital "brochures" imitated print media.
+- **Early Web3:** Many initial dApps mirrored Web2 services, often requiring a [wallet](/how-to-choose-a-crypto-wallet) connection, such as "decentralized Twitter" or "decentralized Uber."
 
 Dixon argues that new applications of new technology will initially appear unconventional. He encourages innovators to look beyond recreating existing Web2 applications on blockchain and instead explore the unique, native possibilities of Web3.
 
@@ -81,18 +93,19 @@ Chris Dixon stands as one of Web3's most optimistic advocates. His frameworks of
 
 By articulating this vision through clear mental models, Dixon has laid the intellectual groundwork for a generation of entrepreneurs and developers. His work serves as a rallying cry for builders to transcend the limitations of Web2, aiming to create a more equitable, new, and user-owned internet.
 
-### Frequently Asked Questions (FAQ)**Q1: What is Chris Dixon's role at Andreessen Horowitz (a16z)?**A1: Chris Dixon is a General Partner at Andreessen Horowitz. He co-founded and currently leads a16z crypto, the firm's fund focused on investing in Web3 and cryptocurrency startups.**Q2: What is the main idea of his book, *Read Write Own*?**A2: The book posits that Web3, rooted in blockchain technology, signifies the next major era of the internet. It evolves from the "Read" era (Web1) and the "Read-Write" era (Web2) into a "Read-Write-Own" era, allowing users true digital ownership of their assets and data through tokens.**Q3: What does Dixon mean by "strong technology"?**A3: A "strong technology" is defined as one based on open, permissionless protocols. Such technologies are not controlled by any single entity, making them stable and trustworthy foundations for developers. Dixon considers blockchains to be prime examples of strong technologies.**Q4: How does Chris Dixon view the relationship between Web3 and AI?**A4: Dixon views Web3 and AI as complementary forces. He suggests that decentralized compute networks can host AI models and that blockchains can establish clear records of ownership and provenance for AI-generated content.**Q5: What is a16z crypto?** 
+### Frequently Asked Questions (FAQ)
+
+#### Q1: What is Chris Dixon's role at Andreessen Horowitz (a16z)?
+
+A1: Chris Dixon is a General Partner at Andreessen Horowitz. He co-founded and currently leads a16z crypto, the firm's fund focused on investing in Web3 and cryptocurrency startups.**Q2: What is the main idea of his book, *Read Write Own*?
+
+**A2: The book posits that Web3, rooted in blockchain technology, signifies the next major era of the internet. It evolves from the "Read" era (Web1) and the "Read-Write" era (Web2) into a "Read-Write-Own" era, allowing users true digital ownership of their assets and data through tokens.
+
+#### Q3: What does Dixon mean by "strong technology"?
+
+A3: A "strong technology" is defined as one based on open, permissionless protocols. Such technologies are not controlled by any single entity, making them stable and trustworthy foundations for developers. Dixon considers blockchains to be prime examples of strong technologies.
+
+#### Q4: How does Chris Dixon view the relationship between Web3 and AI?
+
+A4: Dixon views Web3 and AI as complementary forces. He suggests that decentralized compute networks can host AI models and that blockchains can establish clear records of ownership and provenance for AI-generated content.**Q5: What is a16z crypto?**
 A5: a16z crypto represents the dedicated cryptocurrency and Web3 investment fund within Andreessen Horowitz. Led by Chris Dixon, it is recognized as one of the most active and influential investors in the space, with investments in companies like Coinbase, Dapper Labs, and others.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

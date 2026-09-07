@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: how-zkevm-brings-zero-knowledge-proofs-to-ethereum
 ---
-
 Scaling decentralized smart contract execution without sacrificing base-layer cryptographic security has remained the central engineering challenge of the Ethereum ecosystem. For years, the Layer 2 rollup landscape was bifurcated by an architectural trade-off: Optimistic Rollups offered developer convenience and bytecode compatibility, but imposed seven-day fraud-proof dispute windows that locked user capital. Conversely, Zero-Knowledge Rollups offered immediate mathematical finality and succinct cryptographic proofs, but required developers to rewrite protocol logic into specialized zero-knowledge intermediate representations like Cairo.
 
 The arrival of the Zero-Knowledge Ethereum Virtual Machine (zkEVM) eliminated this trade-off. A zkEVM is a Layer 2 scaling engine that executes arbitrary Ethereum Virtual Machine bytecode off-chain, translating each opcode transition into an arithmetic circuit and generating a succinct zero-knowledge validity proof. Rather than re-executing transactions sequentially, the Ethereum Layer 1 network simply verifies a single mathematical proof, establishing validity for thousands of batched operations in milliseconds.
@@ -148,14 +147,16 @@ Type 4 systems take an entirely different architectural route. Rather than provi
 
 - Trade-Off: Substantially faster proof turnaround and native support for Account Abstraction under [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) and [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702). However, bytecodes differ completely from Ethereum L1, meaning tools that depend on raw EVM opcode inspection (like low-level debuggers or contracts relying on inline Yul assembly memory layouts) may require modification.
 
-
 ## Deep Dive into Plonkish Arithmetization and Polynomial Mathematics
 
 To understand how high-throughput zkEVMs like Scroll and Linea function in production, engineers must analyze the mathematics of Plonkish arithmetization, implemented via frameworks like [Halo2 by Zcash](https://zcash.github.io/halo2/) and [Arkworks](https://arkworks.rs).
 
 In classical R1CS (Rank-1 Constraint Systems) utilized by systems like [Circom](https://docs.circom.io), every constraint is restricted to the bilinear form:
 
-$$\langle A, w angle \cdot \langle B, w angle = \langle C, w angle$$
+$$\langle A, w 
+angle \cdot \langle B, w 
+angle = \langle C, w 
+angle$$
 
 While R1CS is computationally efficient for simple hash functions, it requires millions of auxiliary variables to represent complex EVM opcode logic. Plonkish arithmetization introduces a flexible matrix grid consisting of three distinct column types:
 

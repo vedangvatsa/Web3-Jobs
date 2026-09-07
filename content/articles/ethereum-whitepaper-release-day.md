@@ -36,7 +36,11 @@ A smart contract is essentially a computer program that operates on the blockcha
 The whitepaper detailed various potential applications for smart contracts, many of which have since evolved into significant industries:
 
 | Use Case | Description |
-|-----------------------------------|----------------------------------------------------------------------------|
+|
+
+-----------------------------------|
+
+----------------------------------------------------------------------------|
 | Financial Derivatives and Stablecoins | Smart contracts can create complex financial instruments and tokens pegged to real-world assets, laying the groundwork for the [DeFi](/what-is-defi) ecosystem. |
 | Identity and Reputation Systems | Users can control their digital identity, now central to Self-Sovereign Identity (SSI). |
 | Decentralized File Storage | Coordination of a decentralized network for file storage, foreshadowing projects like IPFS and Filecoin. |
@@ -59,16 +63,3 @@ The release of the Ethereum whitepaper marked a seminal moment in the blockchain
 Since then, the Ethereum ecosystem has encountered numerous challenges, including the DAO hack in 2016, scalability issues, and stiff competition from other smart contract platforms. Throughout these challenges, the core vision articulated in the whitepaper has remained resilient. The community has demonstrated remarkable adaptability and an unwavering commitment to continuous enhancement, leading to significant upgrades such as the transition to Proof-of-[Stake](/how-to-become-a-web3-staking-specialist).
 
 Revisiting the whitepaper serves as a powerful reminder of the project's idealistic origins. In a market characterized by volatility and hype cycles, it acts as a guiding principle, reminding us of the fundamental objective: to create a more open, free, and fair digital world for all. This document stands as one of the most consequential papers of the 21st century, and its influence is still unfolding.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

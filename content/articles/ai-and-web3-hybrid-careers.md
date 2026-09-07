@@ -18,7 +18,7 @@ This convergence marks the emergence of a new job market. Professionals skilled 
 
 The integration of AI and Web3 is motivated by a mutual necessity to address each other's significant challenges.
 
-* **AI Requires Web3 for Trust and Ownership:**Traditional AI models often function as opaque systems controlled by large corporations. Users lack clarity regarding the decision-making processes of these models, and the data used for training is frequently collected without consent. Web3 addresses these issues through**verifiable computation**and**data sovereignty**. By placing AI models or their outputs on a blockchain, it becomes possible to demonstrate their training processes and the inferences they draw. [NFTs](/what-are-nfts) enable users to own and control their data and provide the means to license it to AI models as they see fit.
+* **AI Requires Web3 for Trust and Ownership:** Traditional AI models often function as opaque systems controlled by large corporations. Users lack clarity regarding the decision-making processes of these models, and the data used for training is frequently collected without consent. Web3 addresses these issues through **verifiable computation** and **data sovereignty**. By placing AI models or their outputs on a blockchain, it becomes possible to demonstrate their training processes and the inferences they draw. [NFTs](/what-are-nfts) enable users to own and control their data and provide the means to license it to AI models as they see fit.
 
 * **Web3 Requires AI for Intelligence and Scalability:** While blockchains are powerful, they have inherent limitations in computational capacity. They are not optimized for the intensive processing demands of AI. On-chain data is also vast and complex. AI can serve as an intelligent layer on top of Web3, analyzing on-chain data, automating complex [DAO](/what-is-a-dao) operations, and enabling dynamic decentralized applications (dApps).
 
@@ -74,17 +74,21 @@ Traditional Product Managers collect user feedback to guide product development.
 
 * **Daily Responsibilities:** Daily tasks may include analyzing logs to understand why certain agents fail to complete tasks, designing new API endpoints that provide agents with more useful data, or conducting "interviews" through simulations and data analysis to identify capabilities that agents need to enhance their effectiveness.
 * **Essential Tools & Technologies:** Knowledge of product management fundamentals (roadmapping, user stories), data analysis skills (SQL, Python), API design expertise, and the ability to think from a non-human user's perspective are vital.
-* **Career Path:**This specialized PM role bridges platform PM and technical PM. Success can lead to roles like Head of Product for an AI infrastructure project or a leading voice in human-agent interaction design.
+* **Career Path:** This specialized PM role bridges platform PM and technical PM. Success can lead to roles like Head of Product for an AI infrastructure project or a leading voice in human-agent interaction design.
 
 ### How to Enter the AI-Web3 Field
 
 Entering this hybrid field requires a proactive, multidisciplinary approach to skill development.
 
-1.**Strengthen Your Foundation:**
- * **For those with an AI background:** Learn Web3 fundamentals. Understand how [Ethereum](/what-is-ethereum) operates and familiarize yourself with Solidity by developing a basic dApp. Grasp core concepts of public key cryptography, smart contracts, and gas fees. This knowledge will help you understand the constraints and capabilities of the on-chain environment.
- * **For those with a Web3 background:**Develop a practical understanding of AI. While a PhD is not necessary, completing introductory courses on machine learning, such as Andrew Ng's courses on Coursera, is beneficial. Learn Python and become comfortable with libraries like PyTorch and Pandas. This will enable you to communicate effectively in the AI domain and recognize its possibilities and limitations.
+1.
 
-2.**Build a Hybrid Project:** The most effective way to showcase your skills is through practical application.
+**Strengthen Your Foundation:**
+ * **For those with an AI background:** Learn Web3 fundamentals. Understand how [Ethereum](/what-is-ethereum) operates and familiarize yourself with Solidity by developing a basic dApp. Grasp core concepts of public key cryptography, smart contracts, and gas fees. This knowledge will help you understand the constraints and capabilities of the on-chain environment.
+ * **For those with a Web3 background:** Develop a practical understanding of AI. While a PhD is not necessary, completing introductory courses on machine learning, such as Andrew Ng's courses on Coursera, is beneficial. Learn Python and become comfortable with libraries like PyTorch and Pandas. This will enable you to communicate effectively in the AI domain and recognize its possibilities and limitations.
+
+2.
+
+**Build a Hybrid Project:** The most effective way to showcase your skills is through practical application.
  * Create a dApp that incorporates a machine learning model as one of its features.
  * Develop a Dune Analytics dashboard employing statistical analysis to reveal non-obvious trends.
  * Attempt to replicate a ZKML research paper by implementing a simplified version of the circuit.
@@ -108,7 +112,15 @@ The AI-Web3 revolution is unfolding. For professionals willing to accept complex
 ### Career Comparison Table
 
 | Role | Key Skills Needed | Average Salary Range | Job Market Demand |
-|------------------------------------|----------------------------------------------------------|---------------------------|--------------------------|
+|
+
+------------------------------------|
+
+----------------------------------------------------------|
+
+---------------------------|
+
+--------------------------|
 | Decentralized AI Developer | Python, Solidity, Rust, decentralized computing | Competitive | High |
 | ZKML Engineer | ZK-proof frameworks, cryptography, circuit-building | Competitive | Very High |
 | AI Agent Economist | Game theory, statistical modeling, DeFi knowledge | Competitive | Growing |
@@ -117,16 +129,3 @@ The AI-Web3 revolution is unfolding. For professionals willing to accept complex
 | AI Agent Product Manager | Product management, data analysis, API design | Competitive | Increasing |
 
 In this evolving sector, the roles that merge AI and Web3 will define the future of technology. The potential for growth, innovation, and career development in this space is substantial. adopt the journey.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
-8. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

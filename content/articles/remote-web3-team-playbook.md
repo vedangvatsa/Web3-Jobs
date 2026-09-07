@@ -103,26 +103,26 @@ Set the security baseline in the same week: hardware key enrolled, multisig sign
 
 **Overlap hours needed**
 Two to four, protected for decisions. Everything else goes async with 24-hour response SLAs.
+#### Stablecoins or native tokens for pay?
 
-**Stablecoins or native tokens for pay?**
 Stablecoin base, native upside, four-year vesting, documented bands. The survey data backs exactly this split.
 
 **Stopping fake applicants**
 Video verification by two humans, paid trial tasks, hardware keys from day one, and no treasury-adjacent access in quarter one. Assume the pipeline is targeted, because reporting shows it is.
+#### EOR or contractors?
 
-**EOR or contractors?**
 Contractors for scoped, part-time work. EOR the moment someone works full-time on your roadmap. The price gap is smaller than one misclassification dispute.
+#### Does async slow teams down?
 
-**Does async slow teams down?**
 It slows chat and speeds decisions. Written proposals with comment windows beat five time-zone meetings for everything except conflict and brainstorming.
 
 **Paying contributors across countries**
 One rail, monthly invoicing, on-chain records. Stablecoin base with token upside matches both the survey data and contributor preference. [Hybrid fiat-crypto](https://www.riseworks.io/blog/guide-to-hybrid-cash-crypto-payroll) runs with USDC partnerships and KYC checks are the documented standard. [Fee](https://www.riseworks.io/blog/top-9-crypto-payroll-platforms) tables show the market clearly: from $50 a contractor monthly to low single-digit percentages depending on volume.
+#### What legal cover does a DAO need?
 
-**What legal cover does a DAO need?**
 Something with personhood before the treasury gets large. [Wyoming's DUNA](https://www.midao.org/blog-posts/marshall-islands-dao-llc-vs-wyoming-duna-complete-comparison) and the Marshall Islands DAO Act are the two live options with opposite trade-offs on tax, membership floors, and management structure. Decide with counsel, then publish the choice so contributors know who employs whom.
+#### Where do remote Web3 workers actually do best?
 
-**Where do remote Web3 workers actually do best?**
 Where overlap exists and living costs trail pay. The hiring data keeps rewarding the same shape: globally competitive bands, async defaults, and written culture. [Teams built this](https://www.flexjobs.com/blog/post/future-of-remote-work-trends-report) way top both the preference surveys and the retention numbers.
 
 When someone works full-time hours on your roadmap with your equipment, engage an EOR. Document the decision and revisit it whenever hours, equipment, or exclusivity change. The cheapest compliance is the kind you set up before anyone asks questions about it. The same logic applies to security reviews, pay-band publishing, and incident runbooks: early, written, and boring beats late, verbal, and dramatic. Teams that document first argue less later, and onboarding gets faster every cycle.
