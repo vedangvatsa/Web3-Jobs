@@ -1,5 +1,5 @@
 {
-  "lastIndex": 107,
+  "lastIndex": 109,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -23,7 +23,8 @@
     "backend61e12",
     "job6178e",
     "role0c933",
-    "recruiting57"
+    "recruiting57",
+    "role6be75"
   ],
   "history": [
     {
@@ -641,6 +642,14 @@
       "platform": "facebook",
       "postedAt": "2026-09-07T04:34:06.977Z",
       "postId": "1081981664409068"
+    },
+    {
+      "slug": "role6be75",
+      "company": "Sky Mavis",
+      "title": "Freelance Travel Spend & Market Explorer",
+      "platform": "instagram",
+      "postedAt": "2026-09-07T14:41:48.787Z",
+      "postId": "17956455222217699"
     }
   ]
 }
