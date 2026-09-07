@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="box-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bg-grad)" rx="12"/>
+
+  <!-- Title -->
+  <text x="400" y="40" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Crypto &amp; Web3 Technical Slang &amp; Acronym Taxonomy</text>
+  <text x="400" y="65" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13" text-anchor="middle">Culture, Protocol Architecture, Financial Derivatives &amp; Governance Terms</text>
+
+  <!-- Quadrant 1: Culture & Social -->
+  <g transform="translate(40, 100)" filter="url(#shadow)">
+    <rect width="330" height="110" fill="url(#box-grad)" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <rect width="330" height="28" fill="#0284c7" rx="8"/>
+    <text x="165" y="19" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">1. Culture &amp; Community Memes</text>
+    <text x="15" y="50" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• WAGMI / NGMI: Social optimism vs failure</text>
+    <text x="15" y="70" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• GM / GN: Daily Web3 community greetings</text>
+    <text x="15" y="90" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• HODL / Diamond Hands: Long-term conviction</text>
+  </g>
+
+  <!-- Quadrant 2: Protocol Architecture -->
+  <g transform="translate(430, 100)" filter="url(#shadow)">
+    <rect width="330" height="110" fill="url(#box-grad)" stroke="#818cf8" stroke-width="2" rx="8"/>
+    <rect width="330" height="28" fill="#4f46e5" rx="8"/>
+    <text x="165" y="19" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">2. Technical &amp; Protocol Acronyms</text>
+    <text x="15" y="50" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• EVM / EIP: Ethereum Virtual Machine standards</text>
+    <text x="15" y="70" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• MEV: Maximal Extractable Value searchers</text>
+    <text x="15" y="90" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• zkSNARK / TEE: Zero-knowledge verification</text>
+  </g>
+
+  <!-- Quadrant 3: Market Sentiment & Trading -->
+  <g transform="translate(40, 230)" filter="url(#shadow)">
+    <rect width="330" height="110" fill="url(#box-grad)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <rect width="330" height="28" fill="#059669" rx="8"/>
+    <text x="165" y="19" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">3. Financial &amp; Trading Slang</text>
+    <text x="15" y="50" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• FUD / FOMO: Market sentiment manipulation</text>
+    <text x="15" y="70" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• Degen: High-risk speculative yield farmer</text>
+    <text x="15" y="90" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• DYOR: Do Your Own Research mandatory rule</text>
+  </g>
+
+  <!-- Quadrant 4: Governance & Launch -->
+  <g transform="translate(430, 230)" filter="url(#shadow)">
+    <rect width="330" height="110" fill="url(#box-grad)" stroke="#f59e0b" stroke-width="2" rx="8"/>
+    <rect width="330" height="28" fill="#d97706" rx="8"/>
+    <text x="165" y="19" fill="#ffffff" font-family="system-ui, sans-serif" font-size="12" font-weight="700" text-anchor="middle">4. Governance &amp; Launch Infrastructure</text>
+    <text x="15" y="50" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• DAO / IDO: Decentralized orgs &amp; DEX launches</text>
+    <text x="15" y="70" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="11">• TGE: Token Generation Event unlock date</text>
+    <text x="15" y="90" fill="#f59e0b" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• TVL: Total Value Locked in smart contracts</text>
+  </g>
+
+  <!-- Bottom Banner -->
+  <rect x="40" y="355" width="720" height="30" fill="#1e293b" rx="6" stroke="#334155"/>
+  <text x="400" y="375" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" text-anchor="middle">Web3 slang integrates technical protocol engineering, financial trading terminology, and internet-native meme culture.</text>
+</svg>
