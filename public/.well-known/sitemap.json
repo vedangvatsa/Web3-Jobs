@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-07T14:46:33.945Z",
+  "generatedAt": "2026-09-07T20:57:38.728Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4208,
+  "count": 4203,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -10180,12 +10180,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/how-to-build-a-web3-portfolio-that-stands-out",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/how-to-build-a-web3-resume-that-stands-out",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -10403,12 +10397,6 @@
     },
     {
       "url": "https://hashtagweb3.com/how-to-keep-up-with-web3-job-market",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/how-to-land-first-web3-job",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -21964,12 +21952,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/solana-explained",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/solana-foundation",
       "lastmod": "2026-09-02",
       "changefreq": "weekly",
@@ -23860,12 +23842,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/web3-jobs-in-antananarivo",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/web3-jobs-in-argentina",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -23903,12 +23879,6 @@
     },
     {
       "url": "https://hashtagweb3.com/web3-jobs-in-bangui",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/web3-jobs-in-banjul",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7

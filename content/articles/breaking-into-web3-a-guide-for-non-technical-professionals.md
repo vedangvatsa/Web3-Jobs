@@ -1,5 +1,5 @@
 ---
-title: 'Breaking Into Web3'
+title: Breaking Into Web3 for Non-Technical Professionals
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 description: >-
   You don't need to be a developer to have a successful career in Web3. This
