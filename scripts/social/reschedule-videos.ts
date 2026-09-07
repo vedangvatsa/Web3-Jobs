@@ -57,14 +57,14 @@ async function gql(query: string, variables: any) {
 async function run() {
  if (!TOKEN) { console.error('BUFFER_ACCESS_TOKEN required'); process.exit(1); }
 
- // Schedule 8 hours apart starting tomorrow 9:30 IST (04:00 UTC)
+ // Schedule 3 hours apart starting tomorrow 9:30 IST (04:00 UTC)
  const baseDate = new Date();
  baseDate.setDate(baseDate.getDate() + 1);
  baseDate.setUTCHours(4, 0, 0, 0);
 
  for (let i = 0; i < VIDEOS.length; i++) {
  const video = VIDEOS[i];
- const slot = new Date(baseDate.getTime() + i * 8 * 60 * 60 * 1000);
+ const slot = new Date(baseDate.getTime() + i * 3 * 60 * 60 * 1000);
  
  console.log(`\n📹 Scheduling LinkedIn: ${video.id} at ${slot.toISOString()}`);
  

@@ -92,8 +92,8 @@ async function run() {
  }
  }
  
- // Add 6 hours for next post
- currentScheduleTime.setHours(currentScheduleTime.getHours() + 6);
+ // Add 3 hours for next post
+ currentScheduleTime.setHours(currentScheduleTime.getHours() + 3);
  }
 }
 

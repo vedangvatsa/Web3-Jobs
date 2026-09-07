@@ -116,7 +116,7 @@ async function run() {
  }
  }
  
- currentScheduleTime.setHours(currentScheduleTime.getHours() + 6);
+ currentScheduleTime.setHours(currentScheduleTime.getHours() + 3);
  }
 }
 
