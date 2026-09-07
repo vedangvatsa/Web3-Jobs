@@ -221,18 +221,17 @@ export function getRelativeBadge(startDate: string): string | null {
 export function getEventSlug(event: Web3Event): string {
   if (event.slug) return event.slug.toLowerCase().trim();
 
-  // Keep the full event name and calendar date. The old two-word slugger
-  // collapsed distinct conferences and side events onto the same root URL.
-  const cleanName = event.name
+  // Strip noise like dates, locations, quotes, and punctuation for minimal, clean slugs
+  let cleanName = event.name
     .toLowerCase()
+    .replace(/[’'"]/g, '')
+    .replace(/\b(2025|2026|2027|2028|2029|2030)\b/g, '')
+    .replace(/\b(washington|dc|san francisco|sf|new york|nyc|london|tokyo|paris|berlin|singapore|dubai)\b/g, '')
     .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '');
-  const parsedDate = new Date(event.startDate);
-  const date = Number.isNaN(parsedDate.getTime())
-    ? 'date-tba'
-    : parsedDate.toISOString().slice(0, 10);
+    .replace(/^-+|-+$/g, '')
+    .replace(/-+/g, '-');
 
-  return `${cleanName || 'web3-event'}-${date}`;
+  return cleanName || 'web3-event';
 }
 
 export function generateGoogleCalendarUrl(event: Web3Event): string {
