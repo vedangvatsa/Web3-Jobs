@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 350" role="img" aria-labelledby="tok-title tok-desc">
+<title id="tok-title">Dynamic Tokenomics Supply and Sink Equilibrium Model</title>
+<desc id="tok-desc">System dynamics model contrasting token supply expansion vectors against deflationary sinks and economic utility.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.box-inflow{fill:#fef2f2;stroke:#ef4444;stroke-width:1.5}
+.box-pool{fill:#eff6ff;stroke:#3b82f6;stroke-width:1.5}
+.box-sink{fill:#f0fdf4;stroke:#10b981;stroke-width:1.5}
+.arrow{stroke:#64748b;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-tok)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.box-inflow{fill:#450a0a;stroke:#f87171}.box-pool{fill:#172554;stroke:#60a5fa}.box-sink{fill:#064e3b;stroke:#34d399}
+.arrow{stroke:#94a3b8}
+}
+</style>
+<defs>
+<marker id="arrowhead-tok" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="348" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Cryptoeconomic Supply &amp; Sink Equilibrium Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Balancing inflationary emission vectors against deflationary burn mechanisms and velocity sinks</text>
+
+<!-- Inflows -->
+<rect class="box-inflow" x="24" y="66" width="180" height="220" rx="8"/>
+<text x="36" y="88" class="header" fill="#dc2626">Supply Inflow Vectors</text>
+
+<text x="36" y="112" font-weight="600" font-size="11">Proof-of-Stake Issuance</text>
+<text x="36" y="126" font-size="10" fill="#64748b">Validator block subsidies</text>
+
+<text x="36" y="152" font-weight="600" font-size="11">Investor &amp; Team Vesting</text>
+<text x="36" y="166" font-size="10" fill="#64748b">Linear cliff unlock schedules</text>
+
+<text x="36" y="192" font-weight="600" font-size="11">Liquidity Mining</text>
+<text x="36" y="206" font-size="10" fill="#64748b">DEX yield farming incentives</text>
+
+<text x="36" y="232" font-weight="600" font-size="11">Ecosystem Grants</text>
+<text x="36" y="246" font-size="10" fill="#64748b">Foundation milestone payouts</text>
+
+<!-- Arrow 1 to 2 -->
+<line class="arrow" x1="204" y1="175" x2="228" y2="175"/>
+
+<!-- Central Circulating Pool -->
+<rect class="box-pool" x="230" y="66" width="180" height="220" rx="8"/>
+<text x="242" y="88" class="header" fill="#2563eb">Circulating Market</text>
+
+<text x="242" y="112" font-weight="600" font-size="11">Liquid Float</text>
+<text x="242" y="126" font-size="10" fill="#64748b">Active DEX/CEX order books</text>
+
+<text x="242" y="152" font-weight="600" font-size="11">FDV vs Market Cap</text>
+<text x="242" y="166" font-size="10" fill="#64748b">Float-to-FDV ratio metric</text>
+
+<text x="242" y="192" font-weight="600" font-size="11">Token Velocity</text>
+<text x="242" y="206" font-size="10" fill="#64748b">Equation of Exchange (MV=PQ)</text>
+
+<text x="242" y="232" font-weight="600" font-size="11">Price Formation</text>
+<text x="242" y="246" font-size="10" fill="#64748b">Spot market supply/demand</text>
+
+<!-- Arrow 2 to 3 -->
+<line class="arrow" x1="410" y1="175" x2="434" y2="175"/>
+
+<!-- Deflationary Sinks -->
+<rect class="box-sink" x="436" y="66" width="180" height="220" rx="8"/>
+<text x="448" y="88" class="header" fill="#059669">Deflationary Sinks</text>
+
+<text x="448" y="112" font-weight="600" font-size="11">Fee Burning (EIP-1559)</text>
+<text x="448" y="126" font-size="10" fill="#64748b">Permanent supply destruction</text>
+
+<text x="448" y="152" font-weight="600" font-size="11">veToken Lockups</text>
+<text x="448" y="166" font-size="10" fill="#64748b">1 to 4-year locked voting (CRV)</text>
+
+<text x="448" y="192" font-weight="600" font-size="11">Buyback and Distribute</text>
+<text x="448" y="206" font-size="10" fill="#64748b">Protocol revenue buybacks</text>
+
+<text x="448" y="232" font-weight="600" font-size="11">Collateral Bonding</text>
+<text x="448" y="246" font-size="10" fill="#64748b">Locked in CDPs &amp; lending pools</text>
+
+<line class="grid" x1="20" y1="305" x2="620" y2="305"/>
+<text x="28" y="325" font-size="10" fill="#64748b">Theoretical Model: Structural net deflation occurs when Sinks &gt; Inflows. Source: Token Terminal, Messari Cryptoeconomics Research.</text>
+</svg>
