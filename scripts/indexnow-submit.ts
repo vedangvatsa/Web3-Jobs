@@ -28,6 +28,10 @@ async function main() {
   const staticUrls = [
     siteUrl,
     `${siteUrl}/jobs`,
+    `${siteUrl}/jobs/feed.xml`,
+    `${siteUrl}/feed.xml`,
+    `${siteUrl}/jobs/feed-aggregator.xml`,
+    `${siteUrl}/jobs/feed.json`,
     `${siteUrl}/blog`,
     `${siteUrl}/glossary`,
     `${siteUrl}/companies`,
