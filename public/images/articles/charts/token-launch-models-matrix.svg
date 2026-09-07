@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 340" role="img" aria-labelledby="tlm-title tlm-desc">
+<title id="tlm-title">Comparative Matrix of Cryptocurrency Token Launch Architectures</title>
+<desc id="tlm-desc">Systematic comparison of token launch models: Fair Launch, Liquidity Bootstrapping Pools, Bonding Curve AMMs, and VC Pre-Mines.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.row-bg{fill:#f8fafc}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.tag1{fill:#10b981}.tag2{fill:#3b82f6}.tag3{fill:#8b5cf6}.tag4{fill:#f59e0b}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+}
+</style>
+<rect class="card" x="1" y="1" width="638" height="338" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">Cryptocurrency Token Launch Architecture Matrix</text>
+<text x="24" y="50" font-size="11" fill="#64748b">Evaluating insider allocation, price discovery mechanics, MEV sniper resistance, and decentralization</text>
+
+<line class="grid" x1="20" y1="65" x2="620" y2="65"/>
+<text x="28" y="82" class="header">Launch Model</text>
+<text x="175" y="82" class="header">Initial Allocation</text>
+<text x="350" y="82" class="header">Price Discovery</text>
+<text x="500" y="82" class="header">Sybil / Sniper Risk</text>
+<line class="grid" x1="20" y1="92" x2="620" y2="92"/>
+
+<!-- Row 1 -->
+<rect class="row-bg" x="20" y="94" width="600" height="52" rx="4"/>
+<text x="28" y="116" font-weight="600">Pure Fair Launch</text>
+<text x="28" y="132" font-size="10" fill="#64748b">Bitcoin, Yearn (YFI)</text>
+<text x="175" y="116">0% Pre-mine, 0% VC</text>
+<text x="175" y="132" font-size="10" fill="#64748b">100% via mining or LP</text>
+<text x="350" y="116">Free secondary market</text>
+<text x="350" y="132" font-size="10" fill="#64748b">Extreme early volatility</text>
+<rect class="tag1" x="500" y="110" width="85" height="13" rx="3"/>
+<text x="505" y="120" font-size="10" fill="#ffffff" font-weight="700">Hash / LP Race</text>
+
+<!-- Row 2 -->
+<text x="28" y="170" font-weight="600">Liquidity Bootstrapping (LBP)</text>
+<text x="28" y="186" font-size="10" fill="#64748b">Balancer Protocol</text>
+<text x="175" y="170">Configured pool weighting</text>
+<text x="175" y="186" font-size="10" fill="#64748b">Shifts from 95:5 to 50:50</text>
+<text x="350" y="170">Downward pricing decay</text>
+<text x="350" y="186" font-size="10" fill="#64748b">Discourages MEV snipers</text>
+<rect class="tag2" x="500" y="164" width="85" height="13" rx="3"/>
+<text x="505" y="174" font-size="10" fill="#ffffff" font-weight="700">High Resistance</text>
+
+<!-- Row 3 -->
+<rect class="row-bg" x="20" y="202" width="600" height="52" rx="4"/>
+<text x="28" y="224" font-weight="600">Bonding Curve AMMs</text>
+<text x="28" y="240" font-size="10" fill="#64748b">Pump.fun, Uniswap v4</text>
+<text x="175" y="224">0% Pre-allocation</text>
+<text x="175" y="240" font-size="10" fill="#64748b">Algorithmic curve mint</text>
+<text x="350" y="224">Strict formula: P = k*S^n</text>
+<text x="350" y="240" font-size="10" fill="#64748b">Auto-migrates at liquidity target</text>
+<rect class="tag3" x="500" y="218" width="85" height="13" rx="3"/>
+<text x="505" y="228" font-size="10" fill="#ffffff" font-weight="700">Mempool Bots</text>
+
+<!-- Row 4 -->
+<text x="28" y="278" font-weight="600">VC Pre-Mine + Airdrop</text>
+<text x="28" y="294" font-size="10" fill="#64748b">Arbitrum, Optimism, Uniswap</text>
+<text x="175" y="278">30-50% Team &amp; VCs</text>
+<text x="175" y="294" font-size="10" fill="#64748b">10-15% Retrospective airdrop</text>
+<text x="350" y="278">CEX/DEX listing at TGE</text>
+<text x="350" y="294" font-size="10" fill="#64748b">Low float / high FDV trap</text>
+<rect class="tag4" x="500" y="272" width="85" height="13" rx="3"/>
+<text x="505" y="282" font-size="10" fill="#ffffff" font-weight="700">Sybil Clusters</text>
+
+<line class="grid" x1="20" y1="312" x2="620" y2="312"/>
+<text x="28" y="328" font-size="10" fill="#64748b">Source: Paradigm Research, Balancer Architecture Specs, SEC Framework for Investment Contract Analysis</text>
+</svg>

@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="dt-title dt-desc">
+<title id="dt-title">DAO Treasury Asset Allocation and Governance Security Architecture</title>
+<desc id="dt-desc">Architecture of modern DAO treasuries: Capital tiering, multi-sig execution via Safe, timelocks, and streaming protocol outflows.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.box-tier{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.box-safe{fill:#eff6ff;stroke:#2563eb;stroke-width:1.5}
+.box-out{fill:#f0fdf4;stroke:#16a34a;stroke-width:1.5}
+.arrow{stroke:#64748b;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-dt)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.box-tier{fill:#1e293b;stroke:#475569}.box-safe{fill:#172554;stroke:#60a5fa}.box-out{fill:#052e16;stroke:#4ade80}
+.arrow{stroke:#94a3b8}
+}
+</style>
+<defs>
+<marker id="arrowhead-dt" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">DAO Treasury Management &amp; Execution Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Asset tiering, multi-sig custody, timelock governance guards, and automated operational outflows</text>
+
+<!-- Asset Tiering -->
+<rect class="box-tier" x="24" y="66" width="180" height="235" rx="8"/>
+<text x="36" y="88" class="header" fill="#2563eb">Asset Allocation Tiers</text>
+
+<text x="36" y="112" font-weight="600" font-size="11">Tier 1: Operational Runway</text>
+<text x="36" y="126" font-size="10" fill="#64748b">Liquid stablecoins (USDC/USDT)</text>
+<text x="36" y="140" font-size="10" fill="#64748b">18-24 months payroll &amp; audits</text>
+
+<text x="36" y="166" font-weight="600" font-size="11">Tier 2: Yield &amp; RWAs</text>
+<text x="36" y="180" font-size="10" fill="#64748b">Tokenized T-Bills (Ondo, BUIDL)</text>
+<text x="36" y="194" font-size="10" fill="#64748b">Staked ETH (Lido, Rocket Pool)</text>
+
+<text x="36" y="220" font-weight="600" font-size="11">Tier 3: Strategic Reserve</text>
+<text x="36" y="234" font-size="10" fill="#64748b">Native governance tokens</text>
+<text x="36" y="248" font-size="10" fill="#64748b">Ecosystem partnership tokens</text>
+<text x="36" y="262" font-size="10" fill="#64748b">Illiquid long-term reserves</text>
+
+<!-- Arrow 1 to 2 -->
+<line class="arrow" x1="204" y1="180" x2="228" y2="180"/>
+
+<!-- Custody & Governance -->
+<rect class="box-safe" x="230" y="66" width="180" height="235" rx="8"/>
+<text x="242" y="88" class="header" fill="#2563eb">Custody &amp; Governance</text>
+
+<text x="242" y="112" font-weight="600" font-size="11">Multi-Sig Vault (Safe)</text>
+<text x="242" y="126" font-size="10" fill="#64748b">M-of-N hardware signer keys</text>
+<text x="242" y="140" font-size="10" fill="#64748b">Separated signer identities</text>
+
+<text x="242" y="166" font-weight="600" font-size="11">Timelock Controller</text>
+<text x="242" y="180" font-size="10" fill="#64748b">48h - 7d execution delay</text>
+<text x="242" y="194" font-size="10" fill="#64748b">Veto window for token holders</text>
+
+<text x="242" y="220" font-weight="600" font-size="11">On-Chain Proposal Guards</text>
+<text x="242" y="234" font-size="10" fill="#64748b">Zodiac Reality / Snapshot</text>
+<text x="242" y="248" font-size="10" fill="#64748b">Optimistic execution modules</text>
+<text x="242" y="262" font-size="10" fill="#64748b">Quorum &amp; quorum thresholds</text>
+
+<!-- Arrow 2 to 3 -->
+<line class="arrow" x1="410" y1="180" x2="434" y2="180"/>
+
+<!-- Outflows & Operations -->
+<rect class="box-out" x="436" y="66" width="180" height="235" rx="8"/>
+<text x="448" y="88" class="header" fill="#16a34a">Programmatic Outflows</text>
+
+<text x="448" y="112" font-weight="600" font-size="11">Contributor Payroll</text>
+<text x="448" y="126" font-size="10" fill="#64748b">Streaming via Sablier / Llama</text>
+<text x="448" y="140" font-size="10" fill="#64748b">Real-time per-second release</text>
+
+<text x="448" y="166" font-weight="600" font-size="11">Grants &amp; Bounties</text>
+<text x="448" y="180" font-size="10" fill="#64748b">Milestone-based payouts</text>
+<text x="448" y="194" font-size="10" fill="#64748b">Gitcoin Grants &amp; RetroPGF</text>
+
+<text x="448" y="220" font-weight="600" font-size="11">Protocol Owned Liquidity</text>
+<text x="448" y="234" font-size="10" fill="#64748b">Automated AMM LP positions</text>
+<text x="448" y="248" font-size="10" fill="#64748b">Uniswap v3 range liquidity</text>
+<text x="448" y="262" font-size="10" fill="#64748b">Borrow / lend collateral</text>
+
+<line class="grid" x1="20" y1="315" x2="620" y2="315"/>
+<text x="28" y="335" font-size="10" fill="#64748b">Source: Safe Core Architecture, OpenZeppelin Governor Timelock, MakerDAO / Sky Reserve Balance Sheets</text>
+</svg>
