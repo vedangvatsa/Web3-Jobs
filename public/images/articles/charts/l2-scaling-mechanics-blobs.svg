@@ -1,0 +1,92 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="bm-title bm-desc">
+<title id="bm-title">Ethereum Layer 2 Rollup Execution and EIP-4844 Blob Lifecycle</title>
+<desc id="bm-desc">Step-by-step transaction execution pipeline from L2 sequencer batching to EIP-4844 blob commitment and L1 settlement.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.step-box{fill:#f8fafc;stroke:#cbd5e1;stroke-width:1.5}
+.step-num{font-weight:700;fill:#3b82f6;font-size:13px}
+.arrow{stroke:#64748b;stroke-width:1.5;fill:none;marker-end:url(#arrowhead2)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.step-box{fill:#1e293b;stroke:#334155}
+.arrow{stroke:#94a3b8}
+}
+</style>
+<defs>
+<marker id="arrowhead2" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Layer 2 Rollup Execution &amp; EIP-4844 Blob Lifecycle</text>
+<text x="24" y="48" font-size="11" fill="#64748b">End-to-end transaction pipeline from user submission to proto-danksharding blob settlement</text>
+
+<!-- Step 1 -->
+<rect class="step-box" x="24" y="68" width="180" height="115" rx="6"/>
+<text x="36" y="90" class="step-num">Step 1: Submission</text>
+<text x="36" y="108" class="header">L2 Sequencer Mempool</text>
+<text x="36" y="126" font-size="10" fill="#64748b">User signs &amp; sends Tx.</text>
+<text x="36" y="142" font-size="10" fill="#64748b">Sequencer validates &amp;</text>
+<text x="36" y="158" font-size="10" fill="#64748b">returns soft confirmation.</text>
+
+<!-- Arrow 1 to 2 -->
+<line class="arrow" x1="204" y1="125" x2="228" y2="125"/>
+
+<!-- Step 2 -->
+<rect class="step-box" x="230" y="68" width="180" height="115" rx="6"/>
+<text x="242" y="90" class="step-num">Step 2: Execution</text>
+<text x="242" y="108" class="header">VM Batch Processing</text>
+<text x="242" y="126" font-size="10" fill="#64748b">Transactions execute in VM.</text>
+<text x="242" y="142" font-size="10" fill="#64748b">Off-chain state tree updates.</text>
+<text x="242" y="158" font-size="10" fill="#64748b">Thousands compressed.</text>
+
+<!-- Arrow 2 to 3 -->
+<line class="arrow" x1="410" y1="125" x2="434" y2="125"/>
+
+<!-- Step 3 -->
+<rect class="step-box" x="436" y="68" width="180" height="115" rx="6"/>
+<text x="448" y="90" class="step-num">Step 3: Blob Publish</text>
+<text x="448" y="108" class="header">EIP-4844 Data Blobs</text>
+<text x="448" y="126" font-size="10" fill="#64748b">Type-3 blob tx submitted.</text>
+<text x="448" y="142" font-size="10" fill="#64748b">KZG commitments posted</text>
+<text x="448" y="158" font-size="10" fill="#64748b">to Ethereum consensus.</text>
+
+<!-- Downward Arrow from Step 3 to Step 4 -->
+<line class="arrow" x1="526" y1="183" x2="526" y2="208"/>
+
+<!-- Step 4 -->
+<rect class="step-box" x="436" y="210" width="180" height="115" rx="6"/>
+<text x="448" y="232" class="step-num">Step 4: State Root</text>
+<text x="448" y="250" class="header">L1 Contract Commitment</text>
+<text x="448" y="268" font-size="10" fill="#64748b">New state root proposed</text>
+<text x="448" y="284" font-size="10" fill="#64748b">on Ethereum rollup contract.</text>
+<text x="448" y="300" font-size="10" fill="#64748b">Tied to blob data hash.</text>
+
+<!-- Arrow 4 to 5 -->
+<line class="arrow" x1="436" y1="267" x2="412" y2="267"/>
+
+<!-- Step 5 -->
+<rect class="step-box" x="230" y="210" width="180" height="115" rx="6"/>
+<text x="242" y="232" class="step-num">Step 5: Verification</text>
+<text x="242" y="250" class="header">Fraud or ZK Proof</text>
+<text x="242" y="268" font-size="10" fill="#64748b">Optimistic: 7d challenge.</text>
+<text x="242" y="284" font-size="10" fill="#64748b">ZK: SNARK/STARK proof</text>
+<text x="242" y="300" font-size="10" fill="#64748b">verified cryptographically.</text>
+
+<!-- Arrow 5 to 6 -->
+<line class="arrow" x1="230" y1="267" x2="206" y2="267"/>
+
+<!-- Step 6 -->
+<rect class="step-box" x="24" y="210" width="180" height="115" rx="6"/>
+<text x="36" y="232" class="step-num">Step 6: Finality</text>
+<text x="36" y="250" class="header">Canonical Settlement</text>
+<text x="36" y="268" font-size="10" fill="#64748b">Withdrawals unlocked.</text>
+<text x="36" y="284" font-size="10" fill="#64748b">State becomes immutable</text>
+<text x="36" y="300" font-size="10" fill="#64748b">under Ethereum consensus.</text>
+
+<line class="grid" x1="20" y1="334" x2="620" y2="334"/>
+<text x="28" y="348" font-size="10" fill="#64748b">Source: EIP-4844 Proto-Danksharding Specs, OP Stack Rollup Mechanics, L2BEAT Technical Architecture</text>
+</svg>

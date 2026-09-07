@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="sc-title sc-desc">
+<title id="sc-title">Sidechains vs Layer 2 Rollups Security Architecture</title>
+<desc id="sc-desc">Direct comparison of trust models and bridge vulnerabilities between sovereign sidechains and inherited Layer 2 rollups.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.panel-sidechain{fill:#fff1f2;stroke:#f43f5e;stroke-width:1.5}
+.panel-rollup{fill:#f0fdf4;stroke:#22c55e;stroke-width:1.5}
+.tag-risk{fill:#e11d48;font-weight:700;fill:#ffffff}
+.tag-safe{fill:#16a34a;font-weight:700;fill:#ffffff}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.panel-sidechain{fill:#4c0519;stroke:#fb7185}.panel-rollup{fill:#052e16;stroke:#4ade80}
+}
+</style>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Sidechains vs Layer 2 Rollups Security Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Contrasting trust boundaries, bridge mechanics, and failure modes under adversarial conditions</text>
+
+<!-- Sidechain Column -->
+<rect class="panel-sidechain" x="24" y="66" width="288" height="260" rx="8"/>
+<text x="38" y="90" class="header" fill="#e11d48">Sovereign Sidechain (e.g., Polygon PoS)</text>
+
+<text x="38" y="114" font-weight="600" font-size="11">Consensus &amp; Validators</text>
+<text x="38" y="130" font-size="10" fill="#64748b">Own independent validator set (PoS consensus)</text>
+
+<text x="38" y="156" font-weight="600" font-size="11">Bridge Mechanism</text>
+<text x="38" y="172" font-size="10" fill="#64748b">Multi-sig custodian or validator committee</text>
+
+<text x="38" y="198" font-weight="600" font-size="11">Data Availability (DA)</text>
+<text x="38" y="214" font-size="10" fill="#64748b">Stored only on sidechain; Ethereum cannot verify</text>
+
+<text x="38" y="240" font-weight="600" font-size="11">Worst-Case Failure Mode</text>
+<rect x="38" y="250" width="260" height="60" rx="4" fill="#fda4af" fill-opacity="0.3"/>
+<text x="44" y="268" font-size="10" fill="#9f1239" font-weight="600">51% Validator Collusion Risk:</text>
+<text x="44" y="284" font-size="10" fill="#9f1239">Validators can forge fraudulent exit proofs</text>
+<text x="44" y="298" font-size="10" fill="#9f1239">and completely drain locked bridge funds.</text>
+
+<!-- Rollup Column -->
+<rect class="panel-rollup" x="328" y="66" width="288" height="260" rx="8"/>
+<text x="342" y="90" class="header" fill="#16a34a">Layer 2 Rollup (e.g., Arbitrum, Base)</text>
+
+<text x="342" y="114" font-weight="600" font-size="11">Consensus &amp; Validators</text>
+<text x="342" y="130" font-size="10" fill="#64748b">Inherits Ethereum L1 consensus &amp; security</text>
+
+<text x="342" y="156" font-weight="600" font-size="11">Bridge Mechanism</text>
+<text x="342" y="172" font-size="10" fill="#64748b">L1 smart contract with math/fraud verification</text>
+
+<text x="342" y="198" font-weight="600" font-size="11">Data Availability (DA)</text>
+<text x="342" y="214" font-size="10" fill="#64748b">Posted directly to Ethereum (EIP-4844 blobs)</text>
+
+<text x="342" y="240" font-weight="600" font-size="11">Worst-Case Failure Mode</text>
+<rect x="342" y="250" width="260" height="60" rx="4" fill="#86efac" fill-opacity="0.3"/>
+<text x="348" y="268" font-size="10" fill="#14532d" font-weight="600">Sequencer Outage / Censorship Only:</text>
+<text x="348" y="284" font-size="10" fill="#14532d">Sequencer cannot steal funds. Users can force</text>
+<text x="348" y="298" font-size="10" fill="#14532d">canonical exits via L1 "escape hatch" transactions.</text>
+
+<line class="grid" x1="20" y1="334" x2="620" y2="334"/>
+<text x="28" y="348" font-size="10" fill="#64748b">Source: L2BEAT Risk Analysis, Vitalik Buterin Rollup Incomplete Guides, Ethereum Security Research</text>
+</svg>
