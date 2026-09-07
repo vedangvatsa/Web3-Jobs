@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 220" role="img" aria-labelledby="t8 d8">
+<title id="t8">What crypto salaries are paid in, 2024 survey</title>
+<desc id="d8">Stacked bar of crypto-denominated pay: USDC 63 percent, USDT 29 percent, other assets 8 percent. Fewer than 10 percent of workers take any crypto pay.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.u{fill:#2775ca}.t{fill:#26a17b}.o{fill:#94a3b8}.card{fill:#ffffff;stroke:#e2e8f0}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.card{fill:#0f172a;stroke:#1e293b}.o{fill:#64748b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="218" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Crypto-denominated pay by asset, 2024 (share of crypto salaries)</text>
+<rect class="u" x="20" y="60" width="378" height="34" rx="6"/>
+<rect class="t" x="398" y="60" width="174" height="34" rx="6"/>
+<rect class="o" x="572" y="60" width="48" height="34" rx="6"/>
+<text x="28" y="82" fill="#ffffff" font-weight="600">USDC 63%</text>
+<text x="406" y="82" fill="#ffffff" font-weight="600">USDT 29%</text>
+<text x="20" y="120">Stablecoins cover 90%+ of crypto salaries; &lt;10% of workers take any crypto pay.</text>
+<text x="20" y="142">Fewer than one in ten workers takes crypto pay at all (3% in 2023, ~9.6% in 2024).</text>
+<text x="20" y="176" font-size="12">Default to stablecoin base with native-token upside on four-year vesting.</text>
+<text x="20" y="198" font-size="12">Hashtag Web3 research compilation, September 2026.</text>
+</svg>
