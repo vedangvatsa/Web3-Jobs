@@ -42,10 +42,7 @@ Rules that follow from the evidence: require fees or time, not just clicks. Weig
 
 ## Post-mortems: the class of 2024
 
-Three launches, six collapsing bars. The chart below pairs each network's activity loss with its token's price loss, and the comparison tells the whole story at a glance: Starknet and ZKsync lost both users and price, while LayerZero's Sybil hunt saved the price even as farmers left. Read activity bars as distribution quality and price bars as market judgment.
-
-![Airdrop drawdowns in activity and price](/images/articles/charts/gtm-airdrop-drawdown.svg)
-*Figure: post-airdrop drawdowns, percent. Data: [Binance Square post-mortem](https://www.binance.com/en/square/post/10677752039665), [TheNewscrypto comparison](https://thenewscrypto.com/layerzero-airdrop-outperforms-starknet-and-zksync-with-anti-bot).*
+Three launches tell the whole story: Starknet and ZKsync lost both users and price, while LayerZero's Sybil hunt saved the price even as farmers left. Read activity loss as distribution quality and price loss as market judgment.
 
 [Binance Square data](https://www.binance.com/en/square/post/10677752039665) shows Starknet daily active addresses down 80%, ZKsync down 40%, and LayerZero down 85% in addresses with cross-chain volume down 90% after their airdrops. [Price action matched](https://thenewscrypto.com/layerzero-airdrop-outperforms-starknet-and-zksync-with-anti-bot) ZRO down 23% from $4.40 against STRK down 91% and ZK down 67%, with the Sybil hunt explaining the gap. [Medium post-mortem](https://medium.com/@cheukisaac/after-the-layerzero-and-zksync-airdrops-time-to-pause-reflect-and-rethink-the-future-of-airdrops-006fd25c0b3a) calls for rethinking airdrop design from scratch after the 2024 controversies.
 
