@@ -2,17 +2,8 @@
  * Syndicate Job Feeds across search engines, general aggregators, and WebSub hubs.
  * 
  * STRICT POLICY:
- * ONLY submit to general search engines and global aggregators (Bing, Yandex, Google, Jooble, Adzuna, Jobrapido).
+ * ONLY submit to general search engines and global aggregators (Bing, Yandex, Google, Jooble, Adzuna, Jobrapido, ZipRecruiter, PostJobFree, MyJobHelper, WhatJobs, JobisJob).
  * DO NOT send to Web3 competitors (web3.career, cryptojobslist, cryptocurrencyjobs, etc.).
- * 
- * 1. Submits all individual job URLs to IndexNow (Bing, Yandex, Seznam, Naver)
- * 2. Pings Google & Superfeedr PubSubHubbub (WebSub) hubs for instant RSS feed update
- * 3. Pings Ping-o-Matic, Blo.gs, and Twingly XML-RPC for blog & job search engine indexing
- * 4. Submits XML Feed applications to general global search engine aggregators only:
- *    - Jooble (xml_support@jooble.com, ats@jooble.jobs)
- *    - Adzuna (support@adzuna.com, supportuk@adzuna.com)
- *    - Jobrapido (support@jobrapido.com)
- *    - Feedspot RSS Directory (anuj@feedspot.com)
  * 
  * Usage: npx tsx scripts/syndicate-job-feeds.ts
  */
@@ -150,73 +141,86 @@ async function submitPartnerFeeds() {
     return;
   }
 
-  // STRICTLY NON-COMPETITOR general aggregators and neutral directories
+  // STRICTLY NON-COMPETITOR general aggregators and neutral global directories
   const partners: PartnerSubmission[] = [
     {
-      name: "Jooble Partner Integration",
-      recipients: ["xml_support@jooble.com", "ats@jooble.jobs"],
-      subject: "Job XML Feed Submission for Indexing — Hashtag Web3 (2,900+ Verified Web3 Vacancies)",
+      name: "ZipRecruiter Integration",
+      recipients: ["atsintegrations@ziprecruiter.com"],
+      subject: "Job XML Feed Submission for Indexing — Hashtag Web3 (2,900+ Verified Tech Vacancies)",
       messageHtml: `
-<p>Hello Jooble Partnership and XML Integration Team,</p>
-<p>We would like to submit our verified Web3 job board XML feed for indexing and syndication on Jooble.</p>
-<ul>
-  <li><strong>Website:</strong> <a href="https://hashtagweb3.com">https://hashtagweb3.com</a></li>
-  <li><strong>XML Feed URL:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
-  <li><strong>RSS Feed:</strong> <a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></li>
-  <li><strong>Active Openings:</strong> 2,900+ active positions across engineering, smart contracts, marketing, product, and operations.</li>
-  <li><strong>Conforming Tags:</strong> Includes &lt;id&gt;, &lt;name&gt;, &lt;link&gt;, &lt;apply_url&gt;, &lt;region&gt;, &lt;company&gt;, &lt;pubdate&gt;, and CDATA descriptions.</li>
-</ul>
-<p>Please review and add our feed to your indexing schedule. Feel free to contact us with any questions.</p>
-`,
-    },
-    {
-      name: "Adzuna Partnerships",
-      recipients: ["support@adzuna.com", "supportuk@adzuna.com"],
-      subject: "Job XML Feed Submission for Adzuna Indexing — Hashtag Web3 (2,900+ Web3 Positions)",
-      messageHtml: `
-<p>Hello Adzuna Partnerships and Content Integration Team,</p>
-<p>We would like to submit our specialized Web3 job board feed for indexing on Adzuna to broaden the reach of verified crypto, blockchain, and tech openings.</p>
+<p>Hello ZipRecruiter ATS and Partner Integration Team,</p>
+<p>We would like to submit our verified Web3 and tech job feed for indexing and syndication on ZipRecruiter.</p>
 <ul>
   <li><strong>Platform:</strong> Hashtag Web3 (<a href="https://hashtagweb3.com">https://hashtagweb3.com</a>)</li>
   <li><strong>Aggregator XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
-  <li><strong>Standard RSS 2.0:</strong> <a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></li>
-  <li><strong>Volume:</strong> Over 2,900 verified openings updated every 8 hours.</li>
-  <li><strong>Feed Schema:</strong> Includes standard &lt;title&gt;, &lt;company&gt;, &lt;location&gt;, &lt;url&gt;, &lt;apply_url&gt;, and full vacancy descriptions.</li>
+  <li><strong>Standard RSS 2.0 Feed:</strong> <a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></li>
+  <li><strong>Active Openings:</strong> 2,900+ verified active openings across engineering, smart contracts, product, and operations.</li>
+  <li><strong>Feed Schema:</strong> Includes standard &lt;id&gt;, &lt;title&gt;, &lt;name&gt;, &lt;company&gt;, &lt;location&gt;, &lt;region&gt;, &lt;apply_url&gt;, &lt;url&gt;, &lt;date&gt;, and CDATA descriptions.</li>
 </ul>
-<p>Please let us know once the feed has been validated or if you require any adjustments to the XML structure.</p>
+<p>Please review and let us know if you require any specific technical adjustments to ingest our feed into the ZipRecruiter partner network.</p>
 `,
     },
     {
-      name: "Jobrapido Partner Ingestion",
-      recipients: ["support@jobrapido.com"],
-      subject: "Job XML Feed Submission — Hashtag Web3 (2,900+ Vacancies)",
+      name: "PostJobFree Ingestion",
+      recipients: ["support@postjobfree.com"],
+      subject: "Job Feed Submission for Indexing — Hashtag Web3 (XML/RSS)",
       messageHtml: `
-<p>Hello Jobrapido Partnerships and Content Team,</p>
-<p>We would like to submit our specialized tech and Web3 vacancy feed for inclusion in Jobrapido search results:</p>
+<p>Hello PostJobFree Support Team,</p>
+<p>We would like to submit our job board feed for indexing on PostJobFree:</p>
+<ul>
+  <li><strong>Website:</strong> <a href="https://hashtagweb3.com">https://hashtagweb3.com</a></li>
+  <li><strong>Job Board:</strong> <a href="https://hashtagweb3.com/jobs">https://hashtagweb3.com/jobs</a></li>
+  <li><strong>XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>RSS Feed:</strong> <a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></li>
+  <li><strong>Volume:</strong> 2,900+ active tech, software, and blockchain positions updated daily.</li>
+</ul>
+<p>Thank you for indexing our feed!</p>
+`,
+    },
+    {
+      name: "MyJobHelper Partnerships",
+      recipients: ["advertise@myjobhelper.com", "info@myjobhelper.com"],
+      subject: "Job XML Feed Submission & Syndication — Hashtag Web3 (2,900+ Vacancies)",
+      messageHtml: `
+<p>Hello MyJobHelper Partnerships Team,</p>
+<p>We would like to submit our specialized tech and Web3 vacancy feed for syndication on MyJobHelper:</p>
 <ul>
   <li><strong>Platform:</strong> Hashtag Web3 (<a href="https://hashtagweb3.com">https://hashtagweb3.com</a>)</li>
-  <li><strong>XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
-  <li><strong>Job Count:</strong> 2,900+ active positions updated regularly.</li>
-  <li><strong>Fields:</strong> Title, company, region, apply_url, and full descriptions.</li>
+  <li><strong>XML Feed URL:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>Total Vacancies:</strong> 2,900+ verified active openings.</li>
+  <li><strong>Format:</strong> Structured XML feed with direct employer application URLs.</li>
 </ul>
-<p>Please let us know if you require any adjustments for feed crawling.</p>
+<p>Please let us know once the feed is integrated into your network.</p>
 `,
     },
     {
-      name: "Feedspot RSS Directory",
-      recipients: ["anuj@feedspot.com"],
-      subject: "Feed Submission: Hashtag Web3 Jobs RSS Feed for Web3 Career Directory",
+      name: "WhatJobs Integration",
+      recipients: ["contact@whatjobs.com"],
+      subject: "Job XML Feed Submission for Publisher Indexing — Hashtag Web3",
       messageHtml: `
-<p>Hello Anuj and the Feedspot Editorial Team,</p>
-<p>We would like to submit our RSS feed for inclusion in Feedspot's Web3 / Crypto career directories and top job feeds:</p>
+<p>Hello WhatJobs Publisher Team,</p>
+<p>We would like to submit our verified job board feed for indexing on WhatJobs:</p>
 <ul>
-  <li><strong>Feed Name:</strong> Hashtag Web3 Jobs Feed</li>
-  <li><strong>Website:</strong> <a href="https://hashtagweb3.com/jobs">https://hashtagweb3.com/jobs</a></li>
-  <li><strong>RSS URL:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed.xml">https://hashtagweb3.com/jobs/feed.xml</a></strong></li>
-  <li><strong>Category:</strong> Web3 Careers, Blockchain Jobs, Tech Recruitment</li>
-  <li><strong>Description:</strong> Daily verified job openings across smart contract security, decentralized finance, and crypto protocols.</li>
+  <li><strong>Website:</strong> <a href="https://hashtagweb3.com">https://hashtagweb3.com</a></li>
+  <li><strong>XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>Openings:</strong> 2,900+ active tech, engineering, and remote positions.</li>
 </ul>
-<p>Thank you for curating top industry feeds!</p>
+<p>Looking forward to partner syndication.</p>
+`,
+    },
+    {
+      name: "JobisJob Publisher Integration",
+      recipients: ["info@jobisjob.com"],
+      subject: "Job XML Feed Submission — Hashtag Web3 (2,900+ Positions)",
+      messageHtml: `
+<p>Hello JobisJob Publisher Team,</p>
+<p>We would like to submit our verified job board XML feed for inclusion in JobisJob global search results:</p>
+<ul>
+  <li><strong>Website:</strong> <a href="https://hashtagweb3.com">https://hashtagweb3.com</a></li>
+  <li><strong>XML Feed:</strong> <strong><a href="https://hashtagweb3.com/jobs/feed-aggregator.xml">https://hashtagweb3.com/jobs/feed-aggregator.xml</a></strong></li>
+  <li><strong>Volume:</strong> 2,900+ verified tech and Web3 openings with direct apply URLs.</li>
+</ul>
+<p>Please let us know if our feed can be added to your crawl schedule.</p>
 `,
     },
   ];
@@ -263,51 +267,14 @@ async function submitPartnerFeeds() {
 
 async function main() {
   console.log("==========================================================");
-  console.log(" Hashtag Web3 - General Aggregator & Search Engine Syndication");
+  console.log(" Hashtag Web3 - Expanded Global Aggregator Syndication");
   console.log("==========================================================");
 
-  const cachePath = path.join(rootDir, "content/jobs-cache.json");
-  const rawJobs = JSON.parse(fs.readFileSync(cachePath, "utf-8"));
-  console.log(`Loaded ${rawJobs.length} jobs from cache.`);
-
-  const jobUrls: string[] = [];
-  for (const job of rawJobs) {
-    const slug = job.slug || job.id;
-    if (slug) {
-      jobUrls.push(`${siteUrl}/${slug}`);
-    }
-  }
-
-  const staticUrls = [
-    siteUrl,
-    `${siteUrl}/jobs`,
-    `${siteUrl}/jobs/feed.xml`,
-    `${siteUrl}/feed.xml`,
-    `${siteUrl}/jobs/feed-aggregator.xml`,
-    `${siteUrl}/jobs/feed.json`,
-    `${siteUrl}/companies`,
-    `${siteUrl}/events`,
-    `${siteUrl}/news`,
-    `${siteUrl}/blog`,
-    `${siteUrl}/glossary`,
-  ];
-
-  const totalUrlsToSubmit = Array.from(new Set([...staticUrls, ...jobUrls]));
-
-  // Step 1: Submit all jobs to IndexNow (Bing & Yandex)
-  await submitToIndexNow(totalUrlsToSubmit);
-
-  // Step 2: Ping WebSub / PubSubHubbub (Google & Feedly)
-  await pingWebSubHubs();
-
-  // Step 3: Ping XML-RPC Services (Ping-o-Matic, Blo.gs, Twingly)
-  await pingXmlRpcServices();
-
-  // Step 4: Submit to General Search Aggregators only (Jooble, Adzuna, Jobrapido, Feedspot)
+  // Submit to newly added global aggregators
   await submitPartnerFeeds();
 
   console.log("\n==========================================================");
-  console.log(" Syndications & submissions completed!");
+  console.log(" All new aggregator submissions completed!");
   console.log("==========================================================\n");
 }
 
