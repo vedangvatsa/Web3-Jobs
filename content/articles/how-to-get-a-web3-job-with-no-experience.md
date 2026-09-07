@@ -8,7 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 ---
-I have hired juniors for Web3 teams. The ones who got offers had no prior crypto title. They had public proof that they could do the work.
+Junior hires at Web3 teams rarely arrive with a prior crypto title. The ones who get offers arrive with public proof that they can do the work.
 
 The market is bigger than most people think. [Coincub](https://coincub.com/ranking/web3-jobs-report-2025/) counted 66,494 new Web3 roles in 2025, up 47% from 2024, though still below the 2022 peak. Engineers take about a third of listings. [One analysis of 18,000 postings](https://techflowpost.com/en-US/article/29702) puts them at 32%, so most openings are not engineering roles. [Gate Research](https://www.gate.com/research/article/gate-research-2025-crypto-employment-market-report) puts the global crypto workforce at 1.6 million professionals with pay up 18% in a year. [Tiger Research](https://reports.tiger-research.com/p/h1-2024-job-posting-eng) ties a 20% rise in postings to the January 2024 Bitcoin ETF approvals, with Asia at 20% of roles against Europe's 15%.
 
@@ -42,7 +42,7 @@ Four lanes absorb most career switchers. Start with community: run calls, write 
 
 Solidity still dominates hiring. It appears in [over 40% of postings](https://web3vacancy.com/solidity-vs-rust), about 2.5 times Rust, though Rust has less competition per applicant. Senior pay for both tracks reaches [$200k to $400k](https://web3vacancy.com/solidity-vs-rust) and above. [Metana's role table](https://metana.io/blog/web3-developer-salary-2025/) puts smart contract engineers near $190k on average and protocol engineers near $200k.
 
-Build a three-project portfolio. [iTokenly](https://itokenly.com/articles/web3-developer-portfolio-projects-that-get-you-hired-in-2026) recommends a flagship dApp plus one depth piece plus one merged pull request, all with verified contracts. [ArtofBlockchain](https://artofblockchain.club/discussion/building-a-blockchainweb3-portfolio-site-sections-case-studies-and-metrics) adds the case-study layer: gas before and after, proof-of-concept diffs, measurable outcomes. Their [proof-stack checklist](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist) insists the top half of your resume carry two to three projects with outcome, decision, and verification bullets. [Web3Vacancy](https://web3vacancy.com/web3-resume-guide) adds a wallet section with ENS and on-chain links, plus TVL and gas metrics where honest. For broader structure, see our guide on [building a Web3 portfolio](/building-web3-portfolio) and the basics of [smart contracts](/what-are-smart-contracts).
+Build a three-project portfolio. [iTokenly](https://itokenly.com/articles/web3-developer-portfolio-projects-that-get-you-hired-in-2026) recommends a flagship dApp plus one depth piece plus one merged pull request, all with verified contracts. [ArtofBlockchain](https://artofblockchain.club/discussion/building-a-blockchainweb3-portfolio-site-sections-case-studies-and-metrics) adds the case-study layer: gas before and after, proof-of-concept diffs, measurable outcomes. Their [proof-stack checklist](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist) insists the top half of your resume carry two to three projects with outcome, decision, and verification bullets. [Web3Vacancy](https://web3vacancy.com/web3-resume-guide) adds a wallet section with ENS and on-chain links, plus TVL and gas metrics where honest. For broader structure, see the guide on [building a Web3 portfolio](/building-web3-portfolio) and the basics of [smart contracts](/what-are-smart-contracts).
 
 ## Bounties and grants: paid entry without permission
 
@@ -116,25 +116,25 @@ Ignoring the money mechanics stings later. Crypto pay is spreading: from 3% of w
 
 ## FAQ
 
-**Do I need to know how to code?**
+**Coding as a requirement**
 No, for most roles. Engineers take about a third of listings; community, marketing, operations, support, and design absorb the rest. [Community listings alone](https://www.blockchain-council.org/blockchain/non-technical-web3-jobs-community-marketing-partnerships-growth/) number in the thousands with wide bands. Code only for an engineering lane, where [Solidity still leads Rust](https://web3vacancy.com/solidity-vs-rust) by more than two to one.
 
 **How many hours a week does this take?**
 Ten to fifteen focused hours. [Transition guides](https://web3vacancy.com/web2-to-web3-guide) put the switch at three to six months on that schedule. One artifact a week compounds fast.
 
-**Should I quit my job first?**
+**Quitting before the offer**
 No. Everything here fits around a job: testnet transactions, recaps, threads, small bounties. Bounty platforms pay first prizes in days ([Superteam handbook](https://docs.superteam.fun/the-superteam-handbook/getting-involved/how-to-contribute)), which suits people with bills. Quit after an offer, not before proof.
 
 **Are DAOs still a real path in 2026?**
 Yes, with narrower gates. Trial structures like [DXdao's](https://dxdocs.eth.link/docs/ContributorHub/contributor-onboarding/) one month at half pay plus two at reduced pay show professionalization. Start with bounties, earn a trial, then propose.
 
-**What should my resume's top line say?**
+**Resume top line**
 Three linked items with outcomes: one bounty with payout proof, one explainer with read counts, one repo or recap series with dates. Recruiters decide in about ten seconds ([CV review](https://artofblockchain.club/article/blockchain-cv-review-what-recruiters-reject-in-10-seconds-proof-stack-checklist)), so those links sit above work history.
 
 **How do interviews differ from Web2?**
 Live code or contract review, a paid four-to-eight-hour take-home, and a founder values chat. Most loops close in one to three weeks ([GM.careers](https://gm.careers/blog/web3-interview-preparation)). Open-book, AI-assisted coding is now normal ([Axiom](https://www.axiomrecruit.com/resources/industry-insights/from-prep-to-offer--2026-web3---ai-interview-guide)).
 
-**What will I earn at entry?**
+**Entry-level pay**
 Entry pay runs roughly $40k to $90k for remote non-technical roles ([Web3FuturePro](https://web3futurepro.com/how-to-land-a-remote-blockchain-job-no-exp)); [live junior bands](https://web3.career/web3-salaries) sit near $77k. [Asia-based engineers](https://www.linkedin.com/pulse/engineering-salaries-web3-20252026-insights-from-350-candidate-tan-kywlc) with a few years cluster near $6.5k to $7.5k monthly with a security premium. Rates rise fast once shipped work exists on-chain.
 
 ## Your 90-day checklist
