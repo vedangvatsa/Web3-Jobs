@@ -9,6 +9,7 @@ Allow: /api/events
 Allow: /api/glossary
 Allow: /api/openapi.yaml
 Allow: /openapi.json
+Allow: /agents.txt
 Allow: /llms.txt
 Allow: /llms-full.txt
 Allow: /.well-known/
@@ -155,5 +156,6 @@ Disallow: /
 Sitemap: https://hashtagweb3.com/sitemap.xml
 Sitemap: https://hashtagweb3.com/.well-known/sitemap.json
 Sitemap: https://hashtagweb3.com/sitemap.json
+Agents-txt: https://hashtagweb3.com/agents.txt
 schemamap: https://hashtagweb3.com/schemamap.xml
 Content-Signal: search=yes, ai-train=no

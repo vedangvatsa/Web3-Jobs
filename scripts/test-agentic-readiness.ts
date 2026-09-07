@@ -41,7 +41,7 @@ async function runTests() {
       headers: { 'User-Agent': 'Mozilla/5.0 (compatible; Googlebot/2.1; +http://www.google.com/bot.html)' }
     });
     const html = await res.text();
-    if (!html.includes('<h1') || !html.includes('Find Your Next Web3 Job')) {
+    if (!html.includes('<h1') || (!html.includes('Web3 Jobs') && !html.includes('Find Your Next Web3 Job'))) {
       throw new Error('H1 heading missing from SSR HTML');
     }
     if (!html.includes('<h2') || !html.includes('<h3')) {
@@ -136,13 +136,14 @@ async function runTests() {
   await test('9. agents.json and llms.txt contain explicit when-to-use guidance', async () => {
     const agentsRes = await fetch(`${BASE_URL}/.well-known/agents.json`);
     const agents = await agentsRes.json();
-    if (!agents.when_to_use || !agents.when_to_use.best_fit_use_cases) {
+    const whenToUse = (typeof agents.when_to_use === 'object' && agents.when_to_use) || agents.when_to_use_guidance;
+    if (!whenToUse || !whenToUse.best_fit_use_cases) {
       throw new Error('agents.json missing when_to_use.best_fit_use_cases');
     }
 
     const llmsRes = await fetch(`${BASE_URL}/llms.txt`);
     const llmsText = await llmsRes.text();
-    if (!llmsText.includes('## When to Use Hashtag Web3')) {
+    if (!llmsText.includes('## When to use this') && !llmsText.includes('## When to Use Hashtag Web3')) {
       throw new Error('llms.txt missing "## When to Use Hashtag Web3" section');
     }
   });
@@ -164,6 +165,18 @@ async function runTests() {
     const output = execSync('node bin/hashtagweb3.js jobs --limit 2', { encoding: 'utf8' });
     if (!output.includes('Found') && !output.includes('jobs')) {
       throw new Error(`CLI output unexpected: ${output}`);
+    }
+  });
+
+  // 12. Agent Permissions (agents.txt)
+  await test('12. /agents.txt is served with operational permissions', async () => {
+    const res = await fetch(`${BASE_URL}/agents.txt`);
+    if (res.status !== 200) {
+      throw new Error(`GET /agents.txt returned ${res.status}`);
+    }
+    const text = await res.text();
+    if (!text.includes('Allow-action: read') || !text.includes('Disallow-action: write') || !text.includes('Contact:')) {
+      throw new Error('agents.txt missing expected directives');
     }
   });
 

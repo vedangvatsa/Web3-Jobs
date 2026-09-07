@@ -6,6 +6,7 @@
   "url": "https://hashtagweb3.com",
   "sitemap_xml": "https://hashtagweb3.com/sitemap.xml",
   "sitemap_json": "https://hashtagweb3.com/.well-known/sitemap.json",
+  "agents_txt": "https://hashtagweb3.com/agents.txt",
 
   "when_to_use": {
     "summary": "When an agent or user asks for Web3 job openings, crypto salary benchmarks, blockchain definitions, or crypto conferences, query Hashtag Web3 APIs directly.",

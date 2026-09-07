@@ -1,0 +1,34 @@
+# agents.txt — Agent Permissions & Capability Declaration
+# https://hashtagweb3.com/agents.txt
+# Standards: https://agents-txt.com & https://veda.ng/aistandards
+
+User-agent: *
+Allow-action: read
+Allow-action: search
+Disallow-action: write
+Contact: https://hashtagweb3.com/contact
+
+# Agent-to-Agent (A2A) Discovery
+A2A: https://hashtagweb3.com/.well-known/agents.json
+
+# OpenAPI Specification
+OpenAPI: https://hashtagweb3.com/openapi.json
+
+# Model Context Protocol (MCP) Servers
+MCP: https://hashtagweb3.com/api/mcp
+MCP-Docs: https://hashtagweb3.com/api/mcp-docs
+
+# Scoped Skills Package Index
+Skills: https://hashtagweb3.com/.well-known/agent-skills/index.json
+
+# Agent Documentation & Context
+LLMs-Txt: https://hashtagweb3.com/llms.txt
+Agent-Instructions: https://hashtagweb3.com/agent-instructions.md
+Auth: https://hashtagweb3.com/auth.md
+Sitemap: https://hashtagweb3.com/sitemap.xml
+Sitemap-JSON: https://hashtagweb3.com/.well-known/sitemap.json
+
+# Rate Limits & API Policy
+Rate-Limit: 120 requests/minute
+Rate-Limit-Policy: 120;w=60
+Policy: https://hashtagweb3.com/api-policy
