@@ -545,6 +545,9 @@
   "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
   "https://www.coindesk.com/markets/2026/09/07/once-hyped-ethereum-rival-harmony-wants-to-shut-its-blockchain-over-ai-threats",
   "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
+  "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
+  "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+  "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1541,6 +1544,12 @@
   "Once-hyped Ethereum rival Harmony wants to shut its blockchain over AI threats",
   "Bitcoin Holds $79,000 as Zcash Gains 45% Weekly",
   "Live updates: Bitcoin holds $79,000 as hike odds climb, zcash runs 45% in a week",
+  "Solana activates protocol upgrade to triple transaction size capacity",
+  "Solana to triple transaction size as apps get room for more complex trades",
+  "LG TVs Reportedly Record Audio While Screen Is Off",
+  "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+  "OpenAI Chief Scientist Calls for Mandatory AI Safety Standards",
+  "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1618,5 +1627,8 @@
   "fp:appeal|ask|cas|closer|court|disput|inch|jersey|kalshi|legal",
   "fp:ahead|asset|blockchain|coinbas|data|deribit|digitiz|financial|historical|inflation",
   "fp:20x|added67|blockchain|derivativ|futur|harmony|hyp|leverag|market|non",
-  "fp:000|climb|data|down|expectation|gains45|hik|hold|liv|odd"
+  "fp:000|climb|data|down|expectation|gains45|hik|hold|liv|odd",
+  "fp:activat|allow|app|application|capacity|complex|cryptographic|get|larg|mor",
+  "fp:audio|even|found|had|investigation|lik|listen|local|look|might",
+  "fp:advanc|call|chief|cit|difficulty|down|grow|jakub|lab|mandat"
 ]

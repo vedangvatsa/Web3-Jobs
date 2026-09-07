@@ -518,6 +518,9 @@
   "https://www.coindesk.com/business/2026/09/07/live-updates-bitcoin-holds-usd79-000-as-hike-odds-climb-zcash-runs-45-in-a-week",
   "https://www.coindesk.com/markets/2026/09/07/u-s-inflation-coinbase-s-deribit-switch-crypto-week-ahead",
   "https://cointelegraph.com/news/fomo-pumpfun-revenue-app-solana?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/business/2026-09-07-dbs-citi-say-they-completed-first-weekend-usd-payment-between-singapore-and-us-via-tokenized-deposits-413689",
+  "https://decrypt.co/377637/lg-tv-might-be-listening-even-when-off",
+  "https://decrypt.co/377635/openai-chief-scientist-warns-ai-slow-down",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1462,6 +1465,12 @@
   "U.S. inflation, Coinbase’s Deribit switch: Crypto Week Ahead",
   "Fomo Exceeds Pump.fun in Daily Solana Revenue",
   "Fomo overtakes Pump.fun in daily revenue on Solana",
+  "DBS and Citi Complete First Weekend Tokenized Deposit Payment",
+  "DBS, Citi say they completed first weekend USD payment between Singapore and US via tokenized deposits",
+  "LG TVs Record Audio and Scan Networks While Powered Off",
+  "Your LG TV Might Still Be Listening to You—Even When It Looks Like It’s Off",
+  "OpenAI Chief Scientist Urges Slower AI Development",
+  "OpenAI Chief Scientist Warns AI Labs May Need to Slow Down",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1530,5 +1539,8 @@
   "fp:add|asset|back|chainlink|integrat|issu|network|onchain|oracl|provid",
   "fp:000|caus|climb|data|expectation|fall|held|hik|hold|increas",
   "fp:ahead|coinbas|data|deribit|event|includ|inflation|market|releas|september7",
-  "fp:11m|176m|daily|exc|fomo|friday|fun|generat|lead|month"
+  "fp:11m|176m|daily|exc|fomo|friday|fun|generat|lead|month",
+  "fp:america|bank|between|citi|complet|deposit|dollar|hour|outsid|payment",
+  "fp:audio|continu|data|despit|even|gather|investigation|lik|listen|look",
+  "fp:advanc|becom|chief|development|difficult|down|jakub|lab|mandatory|may"
 ]
