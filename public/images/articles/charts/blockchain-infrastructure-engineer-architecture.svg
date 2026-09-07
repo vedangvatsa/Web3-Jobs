@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="100%" height="100%" style="background-color: #0d1117; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="node-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#1d4ed8"/>
+    </linearGradient>
+    <linearGradient id="node-emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <linearGradient id="node-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+    <filter id="card-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="520" fill="url(#bg-grad)"/>
+
+  <text x="500" y="45" fill="#f8fafc" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.5">Enterprise Blockchain Infrastructure Engineering Architecture</text>
+  <text x="500" y="70" fill="#94a3b8" font-size="13" font-weight="400" text-anchor="middle">Distributed RPC Clusters, Validator Sentry Networks, and High-Throughput Indexers</text>
+
+  <!-- Component 1: RPC Node Cluster -->
+  <g transform="translate(40, 110)" filter="url(#card-shadow)">
+    <rect width="260" height="340" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#node-blue)"/>
+    <text x="20" y="40" fill="#60a5fa" font-size="14" font-weight="700">1. RPC NODE CLUSTER</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">HAProxy / Envoy Load Balancer</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">JSON-RPC &amp; WebSocket Routing</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Execution / Consensus Clients</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">Geth, Reth, Prysm, Lighthouse</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#0f172a" stroke="#3b82f6" stroke-width="1"/>
+    <text x="35" y="260" fill="#60a5fa" font-size="13" font-weight="600">NVMe Storage Subsystem</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">High-IOPS State DB (MDBX/Pebble)</text>
+  </g>
+
+  <!-- Flow Line 1-2 -->
+  <path d="M 300 280 L 360 280" stroke="#60a5fa" stroke-width="3" fill="none"/>
+
+  <!-- Component 2: Validator Sentry Architecture -->
+  <g transform="translate(370, 110)" filter="url(#card-shadow)">
+    <rect width="260" height="340" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#node-emerald)"/>
+    <text x="20" y="40" fill="#34d399" font-size="14" font-weight="700">2. VALIDATOR SENTRY NETWORK</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Public Sentry Nodes</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">DDoS Shielding &amp; P2P Gossip</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Isolated Validator Core</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">Private Subnet Consensus Signing</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#0f172a" stroke="#10b981" stroke-width="1"/>
+    <text x="35" y="260" fill="#34d399" font-size="13" font-weight="600">Key Management (KMS / HSM)</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Slashing Protection DB &amp; Remote Sign</text>
+  </g>
+
+  <!-- Flow Line 2-3 -->
+  <path d="M 630 280 L 690 280" stroke="#34d399" stroke-width="3" fill="none"/>
+
+  <!-- Component 3: Data Indexing & Observability -->
+  <g transform="translate(700, 110)" filter="url(#card-shadow)">
+    <rect width="260" height="340" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#node-purple)"/>
+    <text x="20" y="40" fill="#c084fc" font-size="14" font-weight="700">3. DATA INDEXING &amp; OPS</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Block Indexing Engine</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">Kafka Streams / Goldsky / Subgraph</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Observability Stack</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">Prometheus, Grafana &amp; Alertmanager</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#0f172a" stroke="#8b5cf6" stroke-width="1"/>
+    <text x="35" y="260" fill="#c084fc" font-size="13" font-weight="600">Infrastructure as Code</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Terraform, Kubernetes (K8s), Ansible</text>
+  </g>
+
+  <!-- Footer Info -->
+  <rect x="40" y="475" width="920" height="30" rx="6" fill="#1e293b"/>
+  <text x="500" y="495" fill="#94a3b8" font-size="12" font-weight="500" text-anchor="middle">Hashtag Web3 Technical Career Blueprint — Enterprise Blockchain Infrastructure Engineering</text>
+</svg>

@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="100%" height="100%" style="background-color: #0d1117; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="did-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#020617"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <linearGradient id="did-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#9333ea"/>
+      <stop offset="100%" stop-color="#7e22ce"/>
+    </linearGradient>
+    <linearGradient id="did-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0284c7"/>
+      <stop offset="100%" stop-color="#0369a1"/>
+    </linearGradient>
+    <linearGradient id="did-emerald" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#059669"/>
+      <stop offset="100%" stop-color="#047857"/>
+    </linearGradient>
+    <filter id="did-shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="6" stdDeviation="5" flood-color="#000000" flood-opacity="0.6"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="520" fill="url(#did-bg)"/>
+
+  <text x="500" y="45" fill="#f8fafc" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.5">Decentralized Identifier (DID) &amp; Verifiable Credential Architecture</text>
+  <text x="500" y="70" fill="#94a3b8" font-size="13" font-weight="400" text-anchor="middle">Self-Sovereign Identity Triad, Cryptographic Proofs, and Zero-Knowledge Credential Verification</text>
+
+  <!-- Component 1: Issuer -->
+  <g transform="translate(40, 110)" filter="url(#did-shadow)">
+    <rect width="260" height="340" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#did-purple)"/>
+    <text x="20" y="40" fill="#c084fc" font-size="14" font-weight="700">1. ISSUER (AUTHORITY)</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Identity Attestation Engine</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">KYC / University / Govt Authority</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Verifiable Credential (VC)</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">W3C Compliant JSON-LD Claim</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#0f172a" stroke="#9333ea" stroke-width="1"/>
+    <text x="35" y="260" fill="#c084fc" font-size="13" font-weight="600">Issuer Signature Engine</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Ed25519 / BLS BBS+ Signature</text>
+  </g>
+
+  <!-- Flow Line 1-2 -->
+  <path d="M 300 280 L 360 280" stroke="#c084fc" stroke-width="3" fill="none"/>
+
+  <!-- Component 2: Holder (Identity Wallet) -->
+  <g transform="translate(370, 110)" filter="url(#did-shadow)">
+    <rect width="260" height="340" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#did-blue)"/>
+    <text x="20" y="40" fill="#38bdf8" font-size="14" font-weight="700">2. HOLDER (IDENTITY WALLET)</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Encrypted Identity Storage</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">Identity Wallet / Mobile Enclave</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">DID Document &amp; Keys</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">did:ethr / did:ion Public Keys</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#0f172a" stroke="#0284c7" stroke-width="1"/>
+    <text x="35" y="260" fill="#38bdf8" font-size="13" font-weight="600">ZK-Presentation Generator</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">zk-SNARK Selective Disclosure</text>
+  </g>
+
+  <!-- Flow Line 2-3 -->
+  <path d="M 630 280 L 690 280" stroke="#38bdf8" stroke-width="3" fill="none"/>
+
+  <!-- Component 3: Verifier & Registry -->
+  <g transform="translate(700, 110)" filter="url(#did-shadow)">
+    <rect width="260" height="340" rx="12" fill="#1e293b" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#did-emerald)"/>
+    <text x="20" y="40" fill="#34d399" font-size="14" font-weight="700">3. VERIFIER &amp; REGISTRY</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Verifiable Data Registry</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">Ethereum L1/L2 DID Registry Smart Contract</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Verification Engine</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">Verifies Signature &amp; Revocation State</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#0f172a" stroke="#059669" stroke-width="1"/>
+    <text x="35" y="260" fill="#34d399" font-size="13" font-weight="600">Authenticated Access Granted</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Zero Data Storage on Verifier Side</text>
+  </g>
+
+  <!-- Footer Info -->
+  <rect x="40" y="475" width="920" height="30" rx="6" fill="#1e293b"/>
+  <text x="500" y="495" fill="#94a3b8" font-size="12" font-weight="500" text-anchor="middle">Hashtag Web3 Technical Guide — Decentralized Identifier (DID) &amp; Self-Sovereign Identity Engineering</text>
+</svg>
