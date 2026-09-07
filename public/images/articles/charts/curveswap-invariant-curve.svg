@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="cs-title cs-desc">
+<title id="cs-title">Curve StableSwap Invariant Hybrid Bonding Curve</title>
+<desc id="cs-desc">Mathematical diagram comparing Constant Sum, Constant Product, and the Curve StableSwap hybrid curve, showing the low-slippage peg band and Amplification factor A.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:11px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}
+.box-eq{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.curve-sum{stroke:#94a3b8;stroke-width:2;stroke-dasharray:4 4;fill:none}
+.curve-prod{stroke:#ef4444;stroke-width:2;stroke-dasharray:4 4;fill:none}
+.curve-stable{stroke:#2563eb;stroke-width:3;fill:none}
+.band{fill:#eff6ff;stroke:#60a5fa;stroke-dasharray:2 2;opacity:0.6}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
+.box-eq{fill:#1e293b;stroke:#475569}.band{fill:#1e3a8a;opacity:0.4}
+.curve-sum{stroke:#64748b}.curve-prod{stroke:#f87171}.curve-stable{stroke:#60a5fa}
+}
+</style>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Curve StableSwap Invariant: Hybrid Curve Mathematics</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Blending Constant Sum and Constant Product for ultra-low slippage pegged asset trading</text>
+
+<!-- Graph Axes -->
+<line x1="60" y1="280" x2="330" y2="280" stroke="#64748b" stroke-width="1.5"/>
+<line x1="60" y1="80" x2="60" y2="280" stroke="#64748b" stroke-width="1.5"/>
+<text x="300" y="296" font-weight="600">Asset X</text>
+<text x="25" y="95" font-weight="600">Asset Y</text>
+
+<!-- Shaded Peg Band -->
+<rect class="band" x="130" y="100" width="80" height="175"/>
+<text x="135" y="115" font-size="9" font-weight="600" fill="#2563eb">Ultra-Low Slippage</text>
+<text x="145" y="127" font-size="9" fill="#2563eb">1:1 Peg Band</text>
+
+<!-- Invariant Curves -->
+<!-- Constant Sum: x + y = D -->
+<line x1="70" y1="270" x2="270" y2="70" class="curve-sum"/>
+
+<!-- Constant Product: x * y = k -->
+<path d="M 75 275 Q 110 110 275 75" class="curve-prod"/>
+
+<!-- StableSwap Hybrid -->
+<path d="M 70 270 Q 140 180 170 170 T 270 70" class="curve-stable"/>
+
+<!-- Legend -->
+<rect x="70" y="305" width="12" height="3" fill="#94a3b8"/>
+<text x="88" y="310" font-size="10">Constant Sum (Zero Slippage, Unsafe)</text>
+
+<rect x="70" y="322" width="12" height="3" fill="#ef4444"/>
+<text x="88" y="327" font-size="10">Constant Product (Uniswap v2 High Slippage)</text>
+
+<rect x="70" y="339" width="12" height="3" fill="#2563eb"/>
+<text x="88" y="344" font-size="10" font-weight="600">StableSwap Invariant (Curve Hybrid, Param A)</text>
+
+<!-- Equation Box -->
+<rect class="box-eq" x="350" y="70" width="266" height="255" rx="8"/>
+<text x="362" y="94" class="header" fill="#2563eb">StableSwap Invariant Formula</text>
+
+<text x="362" y="120" font-family="monospace" font-size="10" fill="#2563eb">An^n \sum x_i + D = ADn^n + rac{D^{n+1}}{n^n \prod x_i}</text>
+
+<text x="362" y="148" font-weight="600">Key Parameters:</text>
+<text x="362" y="164" font-size="10" fill="#64748b">A: Amplification Coefficient (Curvature)</text>
+<text x="362" y="178" font-size="10" fill="#64748b">D: Total pool invariant deposit volume</text>
+<text x="362" y="192" font-size="10" fill="#64748b">n: Number of pool tokens (e.g. 3pool n=3)</text>
+
+<text x="362" y="218" font-weight="600">Behavioral Dynamics:</text>
+<text x="362" y="232" font-size="10" fill="#64748b">- Near 1.0 peg: Flattens like constant sum</text>
+<text x="362" y="246" font-size="10" fill="#64748b">- During depeg: Curves like constant product</text>
+<text x="362" y="260" font-size="10" fill="#64748b">- Prevents pool drain during catastrophic collapse</text>
+
+<text x="362" y="286" font-weight="600">Capital Efficiency:</text>
+<text x="362" y="300" font-size="10" fill="#16a34a">100x - 1000x greater depth vs Uniswap v2</text>
+</svg>
