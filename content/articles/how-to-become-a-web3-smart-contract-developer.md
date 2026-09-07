@@ -1,7 +1,7 @@
 ---
 title: How to Become a Smart Contract Developer
-image: /images/tommy-texter-T42j_xLOqw0-unsplash.jpg
-data-ai-hint: smart contract developer
+image: /images/articles/charts/sc-hacks.svg
+data-ai-hint: smart contract hack losses chart
 description: >-
   A research-backed roadmap to smart contract work: EVM basics, Solidity,
   security, audits, and hiring. 65+ cited sources with real hack and salary data.
@@ -10,9 +10,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 ---
 Smart contracts move billions of dollars with no undo button. That is why the role pays well and why the bar is proof, not promises. [Across 2,400 postings, 78% of Web3 developer jobs require Solidity, with auditors reaching $250k to $500k and a 20 to 40% premium over Web2 equivalents](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). This guide gives the full path: basics, language, toolchain, security, testing, portfolio, and hiring. Every claim links to its source.
-
-[![Ethereum logo, the main smart contract platform](https://upload.wikimedia.org/wikipedia/commons/7/70/Ethereum_logo.svg)](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg)
-*Image: Ethereum logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Ethereum_logo.svg) (public domain, trademarked).*
 
 ## Step 1: learn how the machine works
 
@@ -32,14 +29,14 @@ That said, know what the alternatives optimize for, because interviews probe the
 
 Foundry or Hardhat, then both eventually. [Markaicode's comparison finds Foundry compiling two to three times faster and testing four to five times faster, with Hardhat's JavaScript ecosystem against Foundry's Rust speed](https://markaicode.com/vs/hardhat-vs-foundry/). [A deployment guide contrasts Forge, Anvil, Cast, and Chisel against the Hardhat runner, tasks, and plugins](https://jayy4rl.hashnode.dev/hardhat-vs-foundry-complete-smart-contract-deployment-guide). [Eduard Stere's framework review adds the decision rule both ways with Hardhat 3's Rust runtime](https://eduardstal.com/blog/02-2025_ethereum-the-good-the-bad-the-broken). [DEV's 2026 benchmark on 80 tests plus a use-both workflow shows where each wins](https://dev.to/pavelespitia/foundry-vs-hardhat-in-2026-which-solidity-toolchain-wins-20jd). [MetaMask's comparison walks installation, Anvil versus Hardhat Network, and deployment script differences](https://metamask.io/news/hardhat-vs-foundry-choosing-the-right-ethereum-development-tool). [Blockchain Council cites a 26-contract compile at 14.56 seconds against 8.53 with Ignition versus forge scripting](https://www.blockchain-council.org/smart-contracts/building-testing-deploying-smart-contracts-hardhat-foundry/). [Hardhat 3 itself brings the Rust runtime with Solidity and TypeScript tests plus OP Stack and Base simulation](https://hardhat.org/). Try [Foundry the modern toolkit](/an-introduction-to-foundry-the-modern-solidity-toolkit) for the fast path.
 
-[![Neon smart contract sign](https://images.unsplash.com/photo-1744506123990-2ec6a304437f?fm=jpg&q=60&w=1600&auto=format&fit=crop)](https://unsplash.com/photos/neon-sign-promoting-smart-contract-technology-AKvIf98CWIY)
-*Image via [Unsplash, neon smart contract sign](https://unsplash.com/photos/neon-sign-promoting-smart-contract-technology-AKvIf98CWIY) (Unsplash License, free to use).*
-
 Testing is where juniors separate from hires. [Foundry's invariant guides define the invariant prefix, handler and ghost patterns, and runs, depth, and interval config](https://www.getfoundry.sh/guides/invariant-testing). [Cyfrin's fuzzing guide separates stateless from stateful fuzzing with counterexamples, run counts, and target contracts](https://www.cyfrin.io/blog/smart-contract-fuzzing-and-invariants-testing-foundry). [A DEV walkthrough shows testFuzz prefixes with bound versus assume patterns plus fixture amounts and seed config](https://dev.to/regisgraptin/fuzz-testing-invariants-in-solidity-secure-smart-contracts-with-foundry-34ab). [RareSkills documents the 256-run, 15-depth defaults with open versus handler-based testing](https://rareskills.io/post/invariant-testing-solidity). Write fuzz tests before you claim anything is safe. [Hiring teams treat missing tests as a reject signal](https://gm.careers/blog/how-web3-companies-evaluate-developers).
 
 ## Step 4: study the hacks like case law
 
-Every major bug class has a billion-dollar exhibit. Learn them in order.
+Every major bug class has a billion-dollar exhibit. Learn them in order. The scale below keeps the stakes concrete: what started at $60M in 2016 reached $625M by 2022, and the failure moved from contract logic to keys to libraries along the way.
+
+![Largest smart contract failures](/images/articles/charts/sc-hacks.svg)
+*Figure: drained, frozen, and stolen amounts. Data: [Smart Contract Hacking DAO](https://smartcontractshacking.com/hacks/the-dao-hack-2016) and [Ronin](https://smartcontractshacking.com/hacks/ronin-hack-2022) writeups, [Parity post-mortem](https://medium.com/paritytech/a-postmortem-on-the-parity-multi-sig-library-self-destruct-63daca3a4cf7).*
 
 **The DAO, June 2016.** Recursive-call reentrancy drained 3.6 million ETH, about $60M then, and split Ethereum from Ethereum Classic. [Smart Contract Hacking documents the mechanics and date](https://smartcontractshacking.com/hacks/the-dao-hack-2016). [CoinDesk's contemporaneous report covers the $150M-plus raise with funds locked in a child DAO](https://www.coindesk.com/markets/2016/06/17/the-dao-attacked-code-issue-leads-to-60-million-ether-theft).
 
@@ -53,10 +50,12 @@ The defenses follow directly. [Solidity's security docs mandate checks-effects-i
 
 [OpenZeppelin's audit flow runs preparation plus automated inspection with about 60% of lows caught by tooling and two researchers per line with fuzzing](https://www.openzeppelin.com/security-audits). [Trail of Bits' maturity model defines nine control families with fuzzing required from moderate maturity up](https://blog.trailofbits.com/2023/07/14/evaluating-blockchain-security-maturity/). [Pricing reviews put Trail of Bits near $50k to start with one-to-three-month leads on a Slither, Echidna, and Medusa toolchain](https://smartcontractaudit.com/auditors/trail-of-bits). [A Diligence comparison scopes two to four weeks and $50k to $500k-plus against four to eight weeks and $100k to $1M-plus](https://chainscorelabs.com/comparisons/security-audits-vs-formal-verification/smart-contract-verification-methods/consensys-diligence-vs-trail-of-bits-service-comparison). [NomosLabs' 2026 pricing sets tier-one minimums at $50k to $500k-plus against a $750 single-contract baseline](https://nomoslabs.io/blog/smart-contract-audit-cost-2026-full-pricing-guide). [DevOracles breaks it down further: $5k to $15k per token, $15k to $40k per protocol, $50k to $100k-plus per bridge, tier-one $80k to $200k-plus near $25k per engineer-week](https://devoracles.com/articles/smart-contract-audit-cost-is/).
 
-Build audit-ready habits early. [Trail of Bits' handbook gives the code-maturity and token checklists with Echidna, Medusa, Slither, and Manticore guidance](https://trailofbits.com/guides/building-secure-smart-contracts/). [Crytic's exercise repo pairs not-so-smart contracts with the same toolchain](https://github.com/crytic/building-secure-contracts/). [ConsenSys' recommendations cover untrusted-contract marking, send versus transfer versus call trade-offs, assert versus require, and pragma locking](https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/recommendations/). [OpenZeppelin's development docs show the Hardhat plus ethers flow with imports over copy-paste](https://docs.openzeppelin.com/contracts/5.x/learn/developing-smart-contracts).
+Build audit-ready habits early. The price bands below explain why prevention beats review: a basic token check costs less than a week of junior salary, while a tier-one bridge review costs more than a senior year. Every finding you catch in development is a five-figure saving.
 
-[![Smart contract technology illustration](https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg/960px-Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg)](https://commons.wikimedia.org/wiki/File:Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg)
-*Image: smart contract illustration by HaiYoungJuthen via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Veritaseum%27s_UltraCoin_Decentralized%2C_Zero_Trust_Smart_Contract_Technology.jpeg).*
+![Smart contract audit price bands](/images/articles/charts/sc-audit-costs.svg)
+*Figure: 2026 review pricing by scope. Data: [NomosLabs pricing guide](https://nomoslabs.io/blog/smart-contract-audit-cost-2026-full-pricing-guide), [DevOracles value analysis](https://devoracles.com/articles/smart-contract-audit-cost-is/).*
+
+[Trail of Bits' handbook gives the code-maturity and token checklists with Echidna, Medusa, Slither, and Manticore guidance](https://trailofbits.com/guides/building-secure-smart-contracts/). [Crytic's exercise repo pairs not-so-smart contracts with the same toolchain](https://github.com/crytic/building-secure-contracts/). [ConsenSys' recommendations cover untrusted-contract marking, send versus transfer versus call trade-offs, assert versus require, and pragma locking](https://ethereum-contract-security-techniques-and-tips.readthedocs.io/en/latest/recommendations/). [OpenZeppelin's development docs show the Hardhat plus ethers flow with imports over copy-paste](https://docs.openzeppelin.com/contracts/5.x/learn/developing-smart-contracts).
 
 ## Step 6: learn in public with proven courses
 
@@ -104,7 +103,12 @@ Install both toolchains on day one even if you learn one first. [Hardhat 3's Rus
 
 The loop is short. [GM.careers documents one to three weeks: screen, four-to-eight-hour take-home, system design and code review, founder chat](https://gm.careers/blog/web3-interview-preparation). [Web3Vacancy's 2026 guide adds the prep list: Solidity majority share, Foundry as standard, two-to-three-week timelines, Ethernaut and Damn Vulnerable practice](https://web3vacancy.com/how-to-get-a-web3-job). [CryptoRecruit's 2026 guide centers proof of work over resumes with deployed contracts, Code4rena participation, and EVM, gas, proxy, and DeFi interview topics](https://www.cryptorecruit.com/news/what-it-takes-to-get-hired-in-crypto-in-2026/). [Damn Vulnerable DeFi supplies the flash-loan, oracle, governance, NFT, DEX, and lending challenge set worth grinding first](https://www.damnvulnerabledefi.xyz/).
 
-Pay bands, 2025 to 2026: [web3.career averages Solidity at $150k between $65k and $257k](https://web3.career/web3-salaries/solidity-developer). [DeFinitive averages $155k for blockchain and $175k for Solidity with juniors at $120k to $150k and seniors at $195k to $250k plus 15 to 40% in tokens](https://www.definitivetalent.xyz/salary-benchmarks). [Web3Vacancy's guide medians $165k mid-level with $80k to $120k junior, $200k to $300k senior, and $280k to $350k-plus lead, up 18% year over year](https://web3vacancy.com/solidity-developer-salary). [The Signal survey confirms the $250k to $500k auditor band](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). [CryptoGrind tables base pay from $90k to $350k with staff at $300k plus $50k to $100k in tokens](https://news.cryptogrind.com/blog/2026-04-27-solidity-developer-salary-2026/). [Metana ranges $70k to $200k with freelance at $75 to $150 an hour and entry at $70k to $100k](https://metana.io/blog/average-solidity-developer-salary-in-2025/).
+Pay bands, 2025 to 2026, plotted below from junior to lead with the auditor spike highlighted. The shape tells the career story in one glance: steady growth to senior, then a premium for the two scarce skills, auditing and protocol leadership.
+
+![Solidity pay points](/images/articles/charts/sc-salaries.svg)
+*Figure: pay points with full bands in the footnote. Data: [web3.career Solidity data](https://web3.career/web3-salaries/solidity-developer), [DeFinitive benchmarks](https://www.definitivetalent.xyz/salary-benchmarks), [Signal compensation guide](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide).*
+
+[web3.career averages Solidity at $150k between $65k and $257k](https://web3.career/web3-salaries/solidity-developer). [DeFinitive averages $155k for blockchain and $175k for Solidity with juniors at $120k to $150k and seniors at $195k to $250k plus 15 to 40% in tokens](https://www.definitivetalent.xyz/salary-benchmarks). [Web3Vacancy's guide medians $165k mid-level with $80k to $120k junior, $200k to $300k senior, and $280k to $350k-plus lead, up 18% year over year](https://web3vacancy.com/solidity-developer-salary). [The Signal survey confirms the $250k to $500k auditor band](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). [CryptoGrind tables base pay from $90k to $350k with staff at $300k plus $50k to $100k in tokens](https://news.cryptogrind.com/blog/2026-04-27-solidity-developer-salary-2026/). [Metana ranges $70k to $200k with freelance at $75 to $150 an hour and entry at $70k to $100k](https://metana.io/blog/average-solidity-developer-salary-in-2025/).
 
 ## Join the review culture early
 
