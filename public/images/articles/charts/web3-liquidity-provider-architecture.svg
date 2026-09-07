@@ -1,0 +1,95 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 520" width="100%" height="100%" style="background-color: #0d1117; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;">
+  <defs>
+    <linearGradient id="grid-glow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b" stop-opacity="0.9"/>
+      <stop offset="100%" stop-color="#0f172a" stop-opacity="0.9"/>
+    </linearGradient>
+    <linearGradient id="accent-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <linearGradient id="accent-purple" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#a855f7"/>
+      <stop offset="100%" stop-color="#ec4899"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.5"/>
+    </filter>
+  </defs>
+
+  <rect width="1000" height="520" fill="url(#grid-glow)"/>
+  
+  <text x="500" y="45" fill="#f8fafc" font-size="22" font-weight="700" text-anchor="middle" letter-spacing="0.5">Automated Market Maker (AMM) Concentrated Liquidity &amp; Risk Architecture</text>
+  <text x="500" y="70" fill="#94a3b8" font-size="13" font-weight="400" text-anchor="middle">Uniswap V3 / V4 Concentrated Positions, Impermanent Loss Dynamics, and Yield Routers</text>
+
+  <!-- Step 1: Capital Deposit -->
+  <g transform="translate(40, 110)" filter="url(#shadow)">
+    <rect width="260" height="340" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#accent-cyan)"/>
+    <text x="20" y="40" fill="#38bdf8" font-size="14" font-weight="700">1. CAPITAL DEPOSIT &amp; MINTING</text>
+    
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Dual Asset Capital (Token A/B)</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">ETH / USDC Ratio based on Tick Range</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Custom Tick Bounds [Pa, Pb]</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">Concentrated Liquidity Efficiency</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#1e293b" stroke="#06b6d4" stroke-width="1"/>
+    <text x="35" y="260" fill="#38bdf8" font-size="13" font-weight="600">ERC-721 LP Position NFT</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Stores Liquidity L &amp; Fee Growth State</text>
+  </g>
+
+  <!-- Flow Arrow 1-2 -->
+  <path d="M 300 280 L 360 280" stroke="#38bdf8" stroke-width="3" fill="none" marker-end="url(#arrow)"/>
+  
+  <!-- Step 2: Core Pool Engine -->
+  <g transform="translate(370, 110)" filter="url(#shadow)">
+    <rect width="260" height="340" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#accent-purple)"/>
+    <text x="20" y="40" fill="#c084fc" font-size="14" font-weight="700">2. AMM SWAP ENGINE &amp; FEES</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Virtual Reserve Curve</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">(x + L/√Pb)(y + L√Pa) = L²</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Dynamic Fee Accumulation</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">0.05% / 0.30% / 1.00% Tier Accrual</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#1e293b" stroke="#a855f7" stroke-width="1"/>
+    <text x="35" y="260" fill="#c084fc" font-size="13" font-weight="600">Hook &amp; Dynamic Fee Modules</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Custom Oracles, Limit Orders, TWAP</text>
+  </g>
+
+  <!-- Flow Arrow 2-3 -->
+  <path d="M 630 280 L 690 280" stroke="#c084fc" stroke-width="3" fill="none"/>
+
+  <!-- Step 3: Hedging & Risk -->
+  <g transform="translate(700, 110)" filter="url(#shadow)">
+    <rect width="260" height="340" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="260" height="6" rx="3" fill="url(#accent-cyan)"/>
+    <text x="20" y="40" fill="#38bdf8" font-size="14" font-weight="700">3. RISK MANAGEMENT &amp; YIELD</text>
+
+    <rect x="20" y="65" width="220" height="70" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="90" fill="#f1f5f9" font-size="13" font-weight="600">Impermanent Loss (IL) Hedge</text>
+    <text x="35" y="112" fill="#94a3b8" font-size="11">Perpetual Short / Options Collar</text>
+
+    <rect x="20" y="150" width="220" height="70" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="175" fill="#f1f5f9" font-size="13" font-weight="600">Auto-Rebalancing Vaults</text>
+    <text x="35" y="197" fill="#94a3b8" font-size="11">Automated Tick Adjustment Keepers</text>
+
+    <rect x="20" y="235" width="220" height="75" rx="8" fill="#1e293b" stroke="#10b981" stroke-width="1"/>
+    <text x="35" y="260" fill="#34d399" font-size="13" font-weight="600">Net Realized APY</text>
+    <text x="35" y="282" fill="#94a3b8" font-size="11">Trading Fees + Rewards - IL Loss</text>
+  </g>
+
+  <!-- Footer Info -->
+  <rect x="40" y="475" width="920" height="30" rx="6" fill="#1e293b"/>
+  <text x="500" y="495" fill="#94a3b8" font-size="12" font-weight="500" text-anchor="middle">Hashtag Web3 Technical Guide — Decentralized Market Making &amp; LP Engineering Architecture</text>
+</svg>
