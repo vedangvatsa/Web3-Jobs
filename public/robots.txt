@@ -153,5 +153,7 @@ Disallow: /
 # ─── DISCOVERY FILES ───
 
 Sitemap: https://hashtagweb3.com/sitemap.xml
+Sitemap: https://hashtagweb3.com/.well-known/sitemap.json
+Sitemap: https://hashtagweb3.com/sitemap.json
 schemamap: https://hashtagweb3.com/schemamap.xml
 Content-Signal: search=yes, ai-train=no

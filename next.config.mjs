@@ -121,6 +121,7 @@ const nextConfig = {
               '</llms.txt>; rel="ai-context"; type="text/plain"',
               '<https://hashtagweb3.com/llms.txt>; rel="ai-context"',
               '</sitemap.xml>; rel="sitemap"; type="application/xml"',
+              '</.well-known/sitemap.json>; rel="sitemap"; type="application/json"',
               '</.well-known/agents.json>; rel="agents"; type="application/json"',
               '</.well-known/api-catalog>; rel="api-catalog"',
               '</openapi.json>; rel="service-desc"',
@@ -186,6 +187,27 @@ const nextConfig = {
         headers: [
           { key: 'Vary', value: 'Accept, Accept-Encoding' },
           { key: 'Access-Control-Allow-Origin', value: '*' },
+        ],
+      },
+      // Machine-readable JSON sitemap for autonomous agents
+      {
+        source: '/.well-known/sitemap.json',
+        headers: [
+          { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
+          { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
+        ],
+      },
+      {
+        source: '/sitemap.json',
+        headers: [
+          { key: 'Content-Type', value: 'application/json; charset=UTF-8' },
+          { key: 'Vary', value: 'Accept, Accept-Encoding' },
+          { key: 'Access-Control-Allow-Origin', value: '*' },
+          { key: 'Cache-Control', value: 'public, max-age=3600, s-maxage=3600, stale-while-revalidate=86400' },
+          { key: 'X-AI-Usage', value: 'indexing=yes, search=yes, inference=yes, citation=yes' },
         ],
       },
     ];

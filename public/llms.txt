@@ -125,6 +125,14 @@ Official TypeScript / JavaScript SDK & Multi-Language Packages:
 npm install @hashtagweb3/sdk
 ```
 
+## Discovery & Machine-Readable Catalogs
+
+- [JSON Sitemap (Spec)](https://hashtagweb3.com/.well-known/sitemap.json): Lightweight machine-readable JSON sitemap for autonomous agents.
+- [XML Sitemap](https://hashtagweb3.com/sitemap.xml): Standard XML sitemap index.
+- [Agents Manifest](https://hashtagweb3.com/.well-known/agents.json): Standard agents.json capability declaration.
+- [OpenAPI 3.1 Spec](https://hashtagweb3.com/openapi.json): Complete REST API contract.
+- [MCP Server Card](https://hashtagweb3.com/.well-known/mcp/server-card.json): Model Context Protocol server metadata.
+
 ## Modular Scoped Context Files
 
 - [Jobs Scoped Index](https://hashtagweb3.com/jobs/llms.txt): Job categories, role types, and hiring ecosystem feeds.
