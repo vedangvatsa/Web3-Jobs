@@ -234,23 +234,23 @@ The lesson repeats every cycle: demand spikes are temporary, base-fee math is pe
 
 ## FAQ
 
-**How do I estimate a fee in dollars before sending?**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
+**Estimating fees in dollars**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
 
-**Why did my transaction fail but still cost gas?**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
+**Paid failures**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
 
 **What happens to gas if ETH price doubles?**Gas used for an action stays the same. Price per unit in gwei is set by demand. If ETH price doubles and demand stays flat, the same 21,000-unit transfer costs twice as many dollars but the same gwei and ETH. In practice wallets and users target dollar costs, so demand often eases when ETH price rises.
 
-**Do I need ETH on a Layer 2?**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
+**ETH on Layer 2**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
 
 **Is it cheaper to set a very low maxFeePerGas and wait?**It can be, if you are not time-sensitive. Your transaction will sit in the mempool until the base fee drops to your max. If the base fee keeps rising, it may never be included and you will need to replace it with a higher maxFeePerGas. Do not set it so low that you miss a time-sensitive mint or liquidation.
 
-**Do gas tokens or refunds help me now?** No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.
+**Gas tokens and refunds** No. Tokens like CHI and GST2 exploited old refund rules by writing then clearing storage. EIP-3529 in London cut refunds from up to 50 percent of gas used to 20 percent and removed refunds for SELFDESTRUCT, which made those tokens unprofitable. Focus on batching and Layer 2 instead.
 
-**What is MEV and does it raise my fees?** Maximal extractable value is profit from ordering transactions: frontrunning your swap, sandwiching it, or backrunning it. Searchers bid gas to win ordering, which pushes your costs up during volatile periods. [Ethereum's MEV documentation](https://ethereum.org/developers/docs/mev/) explains proposer-builder separation as the structural answer. Practically, route large swaps through MEV-protected RPCs or private mempools, split size, and set slippage tight. [Flashbots](https://docs.flashbots.net/flashbots-auction/overview) documents the private auction path.
+**MEV and personal fees** Maximal extractable value is profit from ordering transactions: frontrunning your swap, sandwiching it, or backrunning it. Searchers bid gas to win ordering, which pushes your costs up during volatile periods. [Ethereum's MEV documentation](https://ethereum.org/developers/docs/mev/) explains proposer-builder separation as the structural answer. Practically, route large swaps through MEV-protected RPCs or private mempools, split size, and set slippage tight. [Flashbots](https://docs.flashbots.net/flashbots-auction/overview) documents the private auction path.
 
-**Can someone else pay my gas?** Yes, through paymasters. [paymaster contract](https://docs.erc4337.io/paymasters/index.html) sponsors UserOperation gas from its EntryPoint deposit after its own validation passes. Apps use this for free trials, gasless onboarding, and USDC-denominated fees. [canonical flow is](https://eips.ethereum.org/EIPS/eip-4337) specified in EIP-4337.
+**Third-party gas payment** Yes, through paymasters. [paymaster contract](https://docs.erc4337.io/paymasters/index.html) sponsors UserOperation gas from its EntryPoint deposit after its own validation passes. Apps use this for free trials, gasless onboarding, and USDC-denominated fees. [canonical flow is](https://eips.ethereum.org/EIPS/eip-4337) specified in EIP-4337.
 
-**Where should I track fees and burn?**
+**Tracking fees and burn**
 
 Use the [gas docs](https://ethereum.org/developers/docs/gas/) for mechanics, the [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) and EIP-2929 specs for details, and a live tracker such as [Etherscan's Gas Tracker](https://etherscan.io/gastracker) for current base fee and tip. For burn and supply, [Ultrasound.money](https://ultrasound.money/) publishes cumulative burn and supply charts.
 

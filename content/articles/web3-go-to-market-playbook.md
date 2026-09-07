@@ -10,7 +10,7 @@ lastUpdated: "2026-09-07"
 ---
 Launching in [Web3](/what-is-web3) punishes teams that copy Web2 playbooks. Paid ads and sales funnels fight the culture instead of using it. The numbers explain why this matters: [about 20,000 crypto](https://www.blockchainappfactory.com/blog/crypto-content-marketing-strategy-how-to-build-web3-authority/) projects compete while roughly 70% shut down within two years, and [85%](https://www.ment.tech/blog/web3-marketing-strategy/) of projects lose their community after the token generation event. [DappRadar](https://www.ment.tech/blog/web3-marketing-strategy/) counted 2.3 million daily unique active wallets in 2024, so the audience exists. Keeping it is the hard part.
 
-This guide works through go-to-market the way the data says it works: community before product, token design as strategy, airdrops as science, quests and creators as paid channels with measurable returns, and metrics that predict retention instead of vanity. For the companion piece on our own site, see [modern Web3 GTM](https://hashtagweb3.com/gtm-strategy-for-web3-projects) strategy guide.
+This guide works through go-to-market the way the data says it works: community before product, token design as strategy, airdrops as science, quests and creators as paid channels with measurable returns, and metrics that predict retention instead of vanity. For the companion piece on this site, see [modern Web3 GTM](https://hashtagweb3.com/gtm-strategy-for-web3-projects) strategy guide.
 
 ## Why Web3 GTM differs from Web2 GTM
 
