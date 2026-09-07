@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="avax-title avax-desc">
+<title id="avax-title">Avalanche Consensus and Multi-Chain Subnet Architecture</title>
+<desc id="avax-desc">Architectural diagram of Avalanche: Metastable Snowball consensus, Primary Network (P-Chain, X-Chain, C-Chain), and custom sovereign Subnets.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.box-cons{fill:#fef2f2;stroke:#ef4444;stroke-width:1.5}
+.box-prim{fill:#fff7ed;stroke:#f97316;stroke-width:1.5}
+.box-sub{fill:#f0fdf4;stroke:#22c55e;stroke-width:1.5}
+.chain-pill{fill:#ffffff;stroke:#cbd5e1;stroke-width:1}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.box-cons{fill:#450a0a;stroke:#f87171}.box-prim{fill:#431407;stroke:#fb923c}.box-sub{fill:#052e16;stroke:#4ade80}
+.chain-pill{fill:#1e293b;stroke:#475569}
+}
+</style>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Avalanche Multi-Chain &amp; Subnet Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Metastable Snow family consensus, Primary Network chains, and sovereign custom Subnets</text>
+
+<!-- Consensus Protocol Engine -->
+<rect class="box-cons" x="24" y="66" width="592" height="54" rx="6"/>
+<text x="36" y="88" class="header" fill="#ef4444">Consensus Engine: Avalanche &amp; Snowball (Sub-Sampled Voting)</text>
+<text x="36" y="106" font-size="10" fill="#64748b">Repeated random sub-sampling achieves sub-second finality (O(k) communication complexity) without all-to-all messaging</text>
+
+<!-- Primary Network -->
+<rect class="box-prim" x="24" y="130" width="592" height="98" rx="6"/>
+<text x="36" y="152" class="header" fill="#ea580c">Primary Network (Validated by All Avalanche Validators)</text>
+
+<!-- 3 Chains -->
+<rect class="chain-pill" x="36" y="162" width="180" height="56" rx="4"/>
+<text x="46" y="180" font-weight="700" font-size="11">Platform Chain (P-Chain)</text>
+<text x="46" y="196" font-size="10" fill="#64748b">Coordinates validators,</text>
+<text x="46" y="210" font-size="10" fill="#64748b">staking &amp; subnet creation.</text>
+
+<rect class="chain-pill" x="230" y="162" width="180" height="56" rx="4"/>
+<text x="240" y="180" font-weight="700" font-size="11">Contract Chain (C-Chain)</text>
+<text x="240" y="196" font-size="10" fill="#64748b">EVM smart contracts,</text>
+<text x="240" y="210" font-size="10" fill="#64748b">DeFi, NFTs, tooling.</text>
+
+<rect class="chain-pill" x="424" y="162" width="180" height="56" rx="4"/>
+<text x="434" y="180" font-weight="700" font-size="11">Exchange Chain (X-Chain)</text>
+<text x="434" y="196" font-size="10" fill="#64748b">DAG-based native AVAX,</text>
+<text x="434" y="210" font-size="10" fill="#64748b">asset creation &amp; transfers.</text>
+
+<!-- Custom Subnets -->
+<rect class="box-sub" x="24" y="238" width="592" height="92" rx="6"/>
+<text x="36" y="260" class="header" fill="#16a34a">Custom Subnets (Sovereign Application Blockchains)</text>
+<text x="36" y="278" font-size="11">Gaming, Institutional RWA, High-Frequency Trading Subnets</text>
+<text x="36" y="296" font-size="10" fill="#64748b">Custom Virtual Machines (Subnet-EVM, MoveVM, Wasm), custom native fee tokens, dedicated validator subsets</text>
+<text x="36" y="314" font-size="10" fill="#64748b">Avalanche Warp Messaging (AWM) enables native BLS cross-subnet communication without central bridges</text>
+</svg>

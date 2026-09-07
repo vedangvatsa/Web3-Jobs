@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 350" role="img" aria-labelledby="polka-title polka-desc">
+<title id="polka-title">Polkadot 2.0 Shared Security and Agile Coretime Architecture</title>
+<desc id="polka-desc">Architectural diagram of Polkadot: Relay chain coordinating consensus, Agile Coretime blockspace market, parachains, and cross-consensus messaging.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.box-relay{fill:#fdf2f8;stroke:#e11d48;stroke-width:1.5}
+.box-core{fill:#f0fdfa;stroke:#0d9488;stroke-width:1.5}
+.box-para{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.arrow{stroke:#e11d48;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-pk)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.box-relay{fill:#4c0519;stroke:#f43f5e}.box-core{fill:#042f2e;stroke:#2dd4bf}
+.box-para{fill:#1e293b;stroke:#475569}.arrow{stroke:#f43f5e}
+}
+</style>
+<defs>
+<marker id="arrowhead-pk" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#e11d48" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="348" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Polkadot 2.0 Shared Security &amp; Agile Coretime Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Relay chain coordinating consensus, core allocation, and XCM communication</text>
+
+<!-- Central Relay Chain -->
+<rect class="box-relay" x="24" y="66" width="592" height="70" rx="8"/>
+<text x="36" y="88" class="header" fill="#e11d48">Central Relay Chain: Consensus, Scheduling &amp; Shared Security</text>
+<text x="36" y="106" font-size="11">Nominated Proof of Stake (NPoS) Validators, GRANDPA Finality &amp; BABE Block Production</text>
+<text x="36" y="122" font-size="10" fill="#64748b">Validates Proof of Validity (PoV) candidates and stores parachain Wasm runtime functions</text>
+
+<!-- Coretime Tier -->
+<rect class="box-core" x="24" y="146" width="592" height="60" rx="6"/>
+<text x="36" y="168" class="header" fill="#0d9488">Agile Coretime Allocation (Polkadot 2.0 Runtime)</text>
+<text x="36" y="184" font-size="10" fill="#64748b">Bulk Coretime (28-day NFT regions with price-capped renewals) &amp; On-Demand Coretime (pay-per-block)</text>
+<text x="36" y="196" font-size="10" fill="#64748b">DOT paid for coretime is burned, aligning blockspace demand with network economics</text>
+
+<!-- Parachains -->
+<rect class="box-para" x="24" y="218" width="186" height="85" rx="6"/>
+<text x="34" y="238" font-weight="700" font-size="11" fill="#e11d48">Asset Hub Parachain</text>
+<text x="34" y="254" font-size="10" fill="#64748b">Canonical DOT reserve,</text>
+<text x="34" y="268" font-size="10" fill="#64748b">stablecoins, NFT assets</text>
+<text x="34" y="284" font-size="10" fill="#64748b">&amp; system teleports.</text>
+
+<rect class="box-para" x="226" y="218" width="186" height="85" rx="6"/>
+<text x="236" y="238" font-weight="700" font-size="11" fill="#2563eb">DeFi Parachain (Acala/Hydra)</text>
+<text x="236" y="254" font-size="10" fill="#64748b">Custom financial primitives,</text>
+<text x="236" y="268" font-size="10" fill="#64748b">Substrate EVM runtime,</text>
+<text x="236" y="284" font-size="10" fill="#64748b">omnipool liquidity.</text>
+
+<rect class="box-para" x="428" y="218" width="188" height="85" rx="6"/>
+<text x="438" y="238" font-weight="700" font-size="11" fill="#7c3aed">Bridge Hub (Snowbridge)</text>
+<text x="438" y="254" font-size="10" fill="#64748b">Trustless verification</text>
+<text x="438" y="268" font-size="10" fill="#64748b">to Ethereum mainnet</text>
+<text x="438" y="284" font-size="10" fill="#64748b">&amp; external ecosystems.</text>
+
+<!-- Bottom XCM Connection -->
+<line class="grid" x1="20" y1="315" x2="620" y2="315"/>
+<text x="28" y="333" font-size="10" fill="#64748b">Inter-parachain messaging powered by XCM (Cross-Consensus Messaging) over XCMP channels. Source: Polkadot Wiki.</text>
+</svg>
