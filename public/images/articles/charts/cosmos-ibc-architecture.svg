@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 350" role="img" aria-labelledby="ibc-title ibc-desc">
+<title id="ibc-title">Cosmos Inter-Blockchain Communication Protocol Architecture</title>
+<desc id="ibc-desc">Architectural diagram of Cosmos IBC protocol layers: CometBFT consensus, TAO transport layer, light clients, and ICS application modules.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:13px}
+.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.box-chain{fill:#f8fafc;stroke:#6366f1;stroke-width:1.5}
+.box-ibc{fill:#e0e7ff;stroke:#4f46e5;stroke-width:1.5}
+.box-relayer{fill:#fef3c7;stroke:#d97706;stroke-width:1.5}
+.arrow{stroke:#4f46e5;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-ibc)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}
+.box-chain{fill:#1e1b4b;stroke:#818cf8}.box-ibc{fill:#312e81;stroke:#a5b4fc}
+.box-relayer{fill:#451a03;stroke:#f59e0b}.arrow{stroke:#818cf8}
+}
+</style>
+<defs>
+<marker id="arrowhead-ibc" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#4f46e5" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="348" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Cosmos IBC Protocol Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Trustless cross-chain interoperability via light clients, packet relays, and standard application standards</text>
+
+<!-- Chain A -->
+<rect class="box-chain" x="24" y="66" width="220" height="200" rx="8"/>
+<text x="36" y="90" class="header" fill="#4f46e5">Sovereign Chain A (e.g. Osmosis)</text>
+<text x="36" y="112" font-weight="600" font-size="11">App Layer: ICS-20 / ICS-27</text>
+<text x="36" y="128" font-size="10" fill="#64748b">Token transfers &amp; interchain accounts</text>
+<rect class="box-ibc" x="36" y="142" width="196" height="50" rx="4"/>
+<text x="44" y="162" font-weight="600" font-size="11">IBC TAO Layer</text>
+<text x="44" y="178" font-size="10" fill="#4f46e5">Transport, Auth, Ordering + Light Client</text>
+<text x="36" y="212" font-weight="600" font-size="11">Consensus: CometBFT (PoS)</text>
+<text x="36" y="228" font-size="10" fill="#64748b">Instant finality, deterministic state</text>
+<text x="36" y="248" font-size="10" fill="#64748b">Client: Verifies Chain B headers</text>
+
+<!-- Middle Relayer Layer -->
+<rect class="box-relayer" x="270" y="110" width="100" height="110" rx="8"/>
+<text x="282" y="132" font-weight="700" font-size="11" fill="#d97706">IBC Relayer</text>
+<text x="282" y="150" font-size="10" fill="#64748b">Hermes / Go</text>
+<text x="282" y="168" font-size="10" fill="#64748b">Listens for</text>
+<text x="282" y="184" font-size="10" fill="#64748b">packet events</text>
+<text x="282" y="200" font-size="10" fill="#64748b">&amp; relays proofs</text>
+
+<!-- Arrows -->
+<line class="arrow" x1="244" y1="150" x2="268" y2="150"/>
+<line class="arrow" x1="370" y1="180" x2="394" y2="180"/>
+
+<!-- Chain B -->
+<rect class="box-chain" x="396" y="66" width="220" height="200" rx="8"/>
+<text x="408" y="90" class="header" fill="#4f46e5">Sovereign Chain B (e.g. Cosmos Hub)</text>
+<text x="408" y="112" font-weight="600" font-size="11">App Layer: ICS-20 / ICS-27</text>
+<text x="408" y="128" font-size="10" fill="#64748b">Token transfers &amp; interchain accounts</text>
+<rect class="box-ibc" x="408" y="142" width="196" height="50" rx="4"/>
+<text x="416" y="162" font-weight="600" font-size="11">IBC TAO Layer</text>
+<text x="416" y="178" font-size="10" fill="#4f46e5">Transport, Auth, Ordering + Light Client</text>
+<text x="408" y="212" font-weight="600" font-size="11">Consensus: CometBFT (PoS)</text>
+<text x="408" y="228" font-size="10" fill="#64748b">Instant finality, deterministic state</text>
+<text x="408" y="248" font-size="10" fill="#64748b">Client: Verifies Chain A headers</text>
+
+<!-- Bottom Summary -->
+<line class="grid" x1="20" y1="285" x2="620" y2="285"/>
+<text x="28" y="305" font-weight="600" font-size="11">Zero Multi-Sig Trust Assumptions:</text>
+<text x="28" y="322" font-size="10" fill="#64748b">State transitions are cryptographically verified by on-chain light clients reading Merkle commitment proofs. Source: Interchain Standards (ICS).</text>
+</svg>
