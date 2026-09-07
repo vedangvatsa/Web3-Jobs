@@ -34,17 +34,9 @@ Two related terms matter:
 - gasUsed is how many units your transaction actually consumed, set by the code path you executed.
 - gasLimit is the maximum units you allow. You pay only for what you use and the rest is refunded. Set the limit too low and the transaction fails, but you still pay for work done up to the failure. The same applies when a contract reverts. [MetaMask's user guide](https://support.metamask.io/more-web3/learn/user-guide-gas) walks through exactly how limits, base fees, and out-of-gas failures interact.
 
-## Who this guide is for
-
-**Users who send ETH, swap, bridge, or mint.** If you have ever seen a wallet estimate of $2 and then $40 during a popular mint, you need to know why fees move and how to time or route transactions to save money.
-
-**Solidity and dapp developers.** Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.
-
-**Product and infrastructure teams.** Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
-
-If you only hold ETH and never transact, you can skip the detail. If you build or transact, you cannot.
-
 ## How gas fees work
+
+Who needs this: anyone who sends ETH, swaps, bridges, or mints and has watched a $2 estimate become $40 during a popular mint. Solidity and dapp developers most of all, since contract design sets gasUsed directly and hiring screens probe storage, data locations, and error patterns. Product and infrastructure teams too, because a $15 mainnet swap against a $0.05 Layer 2 changes where to deploy, how to batch, and how to sponsor fees. If you only hold ETH and never transact, skip the detail. If you build or transact, you cannot.
 
 ### The base formula
 
@@ -145,10 +137,7 @@ After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-
 
 How each rollup passes those savings through differs in the details. [Arbitrum](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/gas-and-fees) documents its Nitro parent-plus-child fee model with Brotli compression and an adaptive data-unit pricer, plus [sequencer](https://docs.arbitrum.io/how-arbitrum-works/deep-dives/sequencer) batches and compresses with blob-versus-calldata selection. [Optimism](https://docs.optimism.io/op-stack/transactions/fees) documents its total-fee formula of execution gas plus L1 data fee with Ecotone and Fjord blob scalars.
 
-Four networks, four cent-level medians. The chart below shows where each L2 landed after Dencun absorbed the data cost into blobs. Optimism and Base kept slightly higher medians because their activity mix includes more complex transactions; Arbitrum and zkSync sit at a penny. All four round to noise next to mainnet's double-digit dollars.
-
-![Median L2 fees after Dencun](/images/articles/charts/gas-l2-fees.svg)
-*Figure: post-Dencun medians with pre-Dencun levels in the footnote. Data: [Status Dencun analysis](https://status.network/blog/what-is-ethereum-dencun-upgrade-layer-2-fees), [Binance Academy](https://www.binance.com/en/academy/articles/what-is-eip-4844-in-ethereum-and-how-can-it-benefit-users).*
+Four networks, four cent-level medians. Optimism and Base kept slightly higher medians because their activity mix includes more complex transactions; Arbitrum and zkSync sit at a penny. All four round to noise next to mainnet's double-digit dollars.
 
 2. **Time your mainnet transactions.** Track live fees on [Etherscan's Gas Tracker](https://etherscan.io/gastracker), the [alternative EthScan tracker](https://ethscan.io/gas), or [99Bitcoins' tracker with heatmaps](https://99bitcoins.com/tools/ethereum-fee-tracker/). Fees are often lowest on weekends and during off-peak US hours when fewer users compete for block space. If you are not in a rush, set a lower `maxFeePerGas` and let the transaction wait. [Etherscan](https://docs.etherscan.io/endpoint-showcase/gas-tracker) documents the GasOracle and estimate APIs behind its tracker for builders. History backs the patience play: [2021](https://99bitcoins.com/tools/ethereum-fee-tracker/) averaged about $53 with $300-for-$5 anecdotes at the peak.
 
