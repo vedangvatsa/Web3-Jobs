@@ -30,7 +30,7 @@ The transition often begins informally. As a senior engineer, you already mentor
   - Make authoritative technical design and architectural decisions for the project.
   - Decompose large technical epics into manageable milestones and sprint tasks.
   - Review code and enforce consistent testing, performance, and documentation standards.
-  - Mentor junior and mid-level engineers within the team to foster technical growth.
+  - Mentor junior and mid-level engineers within the team to build technical growth.
   - Unblock teammates on technical impediments and debug complex cross-system issues.
 - **The Shift:** You dedicate a substantial portion of your week to non-coding activities such as design reviews, cross-team syncs, and planning. Your definition of success evolves from personal output ("my code") to collective outcome ("the team delivery").
 
@@ -65,7 +65,7 @@ Upon successfully managing teams, the next stage is becoming a "manager of manag
   - **Resource Allocation & Headcount:** Partner with VP-level leadership and finance to forecast headcount, manage department compensation budgets, and allocate engineering capacity to strategic priorities.
   - **Cross-Departmental Governance:** Spearhead engineering-wide initiatives, establish incident management standards, and align cross-functional dependencies across organizational silos.
   - **Engineering Culture:** Cultivate hiring rubrics, career ladders, and inclusive engineering values across the entire department.
-- **The Skill Shift:** Your focus broadens from immediate sprint cycles to multi-quarter planning, organizational design, and systems-level thinking. You operate primarily through delegation, influence, and high-leverage organizational processes.
+- **The Skill Shift:** Your focus broadens from immediate sprint cycles to multi-quarter planning, organizational design, and systems-level thinking. You operate primarily through delegation, influence, and high-utilize organizational processes.
 
 ---
 
@@ -135,6 +135,6 @@ Management is a practice, not a one-way promotion. Many successful tech leaders 
 1-on-1 meetings belong to the direct report, not the manager. Effective managers avoid status updates in 1-on-1s (which belong in async standups or project boards) and instead focus on career growth, interpersonal blockers, team health, and constructive bidirectional feedback.
 
 ### 3. Delegation and Multiplier Mindset
-As an individual contributor, your impact is additive: Individual Output. As an engineering manager, your impact is multiplicative: Team Output amplified by leadership leverage. Effective delegation, clear documentation, and mentoring create compounding organizational leverage.
+As an individual contributor, your impact is additive: Individual Output. As an engineering manager, your impact is multiplicative: Team Output amplified by leadership utilize. Effective delegation, clear documentation, and mentoring create compounding organizational utilize.
 
 ---
