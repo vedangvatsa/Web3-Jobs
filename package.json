@@ -48,6 +48,7 @@
     "linkedin:authorize": "echo 'Visit the LinkedIn OAuth URL to authorize'",
     "check:slop": "node scripts/check-slop.js",
     "check:quality": "npx tsx scripts/audit-site-quality.ts",
+    "check:logos": "node scripts/check-logo-case.js",
     "clean:slop": "node scripts/clean-slop.js --apply"
   },
   "engines": {
