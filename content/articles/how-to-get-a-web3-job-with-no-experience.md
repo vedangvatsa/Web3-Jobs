@@ -1,7 +1,7 @@
 ---
 title: How to Get a Web3 Job with No Experience
-image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
-data-ai-hint: person climbing ladder
+image: /images/articles/charts/jobs-salary-bands.svg
+data-ai-hint: web3 salary bands chart
 description: >-
   The Web3 job market had 66,494 new roles in 2025. This thesis explains how
   hiring really works, what to build in 90 days, and what juniors earn - with
