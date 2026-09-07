@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 250" role="img" aria-labelledby="t9 d9">
+<title id="t9">Largest smart contract failures, USD millions</title>
+<desc id="d9">Bars: The DAO 60 million drained, Parity multisig 300 million frozen, Ronin bridge 625 million stolen.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.bar{fill:#dc2626}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#eef2f7}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.bar{fill:#f87171}.grid{stroke:#1e293b}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="248" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Largest smart contract failures (USD millions)</text>
+<text x="20" y="76">The DAO, 2016 (drained)</text><rect class="bar" x="280" y="62" width="35" height="18" rx="4"/><text class="num" x="322" y="76">60</text>
+<text x="20" y="114">Parity multisig, 2017 (frozen)</text><rect class="bar" x="280" y="100" width="173" height="18" rx="4"/><text class="num" x="460" y="114">~300</text>
+<text x="20" y="152">Ronin bridge, 2022 (stolen)</text><rect class="bar" x="280" y="138" width="340" height="18" rx="4"/><text class="num" x="584" y="152" fill="#ffffff">625</text>
+<g class="grid"><line x1="280" y1="42" x2="280" y2="162"/><line x1="365" y1="42" x2="365" y2="162"/><line x1="450" y1="42" x2="450" y2="162"/><line x1="535" y1="42" x2="535" y2="162"/></g>
+<text x="280" y="180">0</text><text x="355" y="180">150</text><text x="440" y="180">300</text><text x="525" y="180">450</text><text x="605" y="180">600</text>
+<text x="20" y="206" font-size="12">Three bug classes, three eras: reentrancy, access control, validator keys.</text>
+<text x="20" y="226" font-size="12">Hashtag Web3 research compilation, September 2026.</text>
+</svg>
