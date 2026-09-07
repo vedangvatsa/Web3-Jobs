@@ -1,0 +1,61 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="lb-title lb-desc">
+<title id="lb-title">Liquidity Bootstrapping Pool Dynamic Weight Decay</title>
+<desc id="lb-desc">Graph showing Balancer Liquidity Bootstrapping Pool weight shift from 95/5 to 50/50 over time, countering bot sniping and establishing fair price discovery.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:11px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}
+.box-info{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.weight-token{stroke:#3b82f6;stroke-width:2.5;fill:none}
+.weight-collateral{stroke:#10b981;stroke-width:2.5;fill:none}
+.price-curve{stroke:#f59e0b;stroke-width:2;stroke-dasharray:3 3;fill:none}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
+.box-info{fill:#1e293b;stroke:#475569}
+}
+</style>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Liquidity Bootstrapping Pools: Dynamic Weight Decay</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Scheduled weight trajectory neutralizing frontrunning bots and enabling fair launch price discovery</text>
+
+<!-- Graph Axes -->
+<line x1="50" y1="280" x2="310" y2="280" stroke="#64748b" stroke-width="1.5"/>
+<line x1="50" y1="80" x2="50" y2="280" stroke="#64748b" stroke-width="1.5"/>
+<text x="270" y="296" font-weight="600">Time (Hours / Days)</text>
+<text x="15" y="95" font-weight="600">Weight</text>
+
+<!-- Weight Curves -->
+<!-- Project Token: 95% down to 50% -->
+<path d="M 50 95 L 300 185" class="weight-token"/>
+<text x="55" y="90" fill="#3b82f6" font-weight="700">Project Token: 95%</text>
+<text x="235" y="180" fill="#3b82f6" font-weight="700">50%</text>
+
+<!-- Reserve Token (USDC/ETH): 5% up to 50% -->
+<path d="M 50 265 L 300 185" class="weight-collateral"/>
+<text x="55" y="260" fill="#10b981" font-weight="700">Collateral (USDC): 5%</text>
+<text x="240" y="200" fill="#10b981" font-weight="700">50%</text>
+
+<!-- Natural Downward Price Pressure Line -->
+<path d="M 60 110 Q 150 220 300 240" class="price-curve"/>
+<text x="120" y="215" fill="#d97706" font-size="9" font-weight="600">Natural Downward Price Deceleration</text>
+
+<!-- Explanation Box Right -->
+<rect class="box-info" x="330" y="70" width="286" height="255" rx="8"/>
+<text x="342" y="94" class="header" fill="#2563eb">LBP Price Discovery Dynamics</text>
+
+<text x="342" y="118" font-weight="600">1. Anti-Sniper Bot Mechanism:</text>
+<text x="342" y="132" font-size="10" fill="#64748b">Starts at high valuation; weight decay pushes</text>
+<text x="342" y="146" font-size="10" fill="#64748b">price DOWN over time. Snipers buy at top!</text>
+
+<text x="342" y="172" font-weight="600">2. Capital Efficiency for Issuers:</text>
+<text x="342" y="186" font-size="10" fill="#64748b">Projects launch with only 5% collateral.</text>
+<text x="342" y="200" font-size="10" fill="#64748b">No need to raise millions in ETH just to seed AMM.</text>
+
+<text x="342" y="226" font-weight="600">3. Organic Price Discovery:</text>
+<text x="342" y="240" font-size="10" fill="#64748b">Buyers enter only when price drops to fair value.</text>
+<text x="342" y="254" font-size="10" fill="#64748b">Demand balances scheduled weight decay.</text>
+
+<text x="342" y="280" font-weight="600">4. Leading Platform Implementations:</text>
+<text x="342" y="294" font-size="10" fill="#16a34a">Fjord Foundry, Copper Launch, Balancer</text>
+</svg>

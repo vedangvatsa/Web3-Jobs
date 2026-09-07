@@ -1,0 +1,154 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 680" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0b0f19" />
+      <stop offset="50%" stop-color="#111827" />
+      <stop offset="100%" stop-color="#070a12" />
+    </linearGradient>
+    <linearGradient id="cardGrad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1f2937" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#111827" stop-opacity="0.9" />
+    </linearGradient>
+    <linearGradient id="primaryAccent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#8b5cf6" />
+    </linearGradient>
+    <linearGradient id="barSmartContract" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6" />
+      <stop offset="100%" stop-color="#60a5fa" />
+    </linearGradient>
+    <linearGradient id="barRust" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#8b5cf6" />
+      <stop offset="100%" stop-color="#a78bfa" />
+    </linearGradient>
+    <linearGradient id="barZK" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899" />
+      <stop offset="100%" stop-color="#f472b6" />
+    </linearGradient>
+    <linearGradient id="barFullstack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981" />
+      <stop offset="100%" stop-color="#34d399" />
+    </linearGradient>
+    <linearGradient id="barDevRel" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#f59e0b" />
+      <stop offset="100%" stop-color="#fbbf24" />
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="115%" filterUnits="userSpaceOnUse">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feOffset dx="0" dy="4" result="offset" />
+      <feComponentTransfer>
+        <feFuncA type="linear" slope="0.3" />
+      </feComponentTransfer>
+      <feMerge>
+        <feMergeNode />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1200" height="680" fill="url(#bgGrad)" />
+
+  <!-- Grid overlay -->
+  <g opacity="0.06">
+    <path d="M 0,85 L 1200,85 M 0,170 L 1200,170 M 0,255 L 1200,255 M 0,340 L 1200,340 M 0,425 L 1200,425 M 0,510 L 1200,510 M 0,595 L 1200,595" stroke="#ffffff" stroke-width="1" />
+    <path d="M 150,0 L 150,680 M 300,0 L 300,680 M 450,0 L 450,680 M 600,0 L 600,680 M 750,0 L 750,680 M 900,0 L 900,680 M 1050,0 L 1050,680" stroke="#ffffff" stroke-width="1" />
+  </g>
+
+  <!-- Header Area -->
+  <rect x="50" y="35" width="1100" height="70" rx="12" fill="url(#cardGrad)" stroke="#374151" stroke-width="1" />
+  <text x="75" y="70" fill="#f9fafb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="22" font-weight="700">Bangalore Web3 Compensation &amp; Ecosystem Matrix</text>
+  <text x="75" y="92" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13">Base Salary Bands (INR LPA vs USD) &amp; Geographic Innovation Clusters | 2026 Industry Benchmarks</text>
+  <rect x="990" y="52" width="140" height="34" rx="8" fill="#1e3a8a" stroke="#3b82f6" stroke-width="1" />
+  <text x="1060" y="74" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="middle">BANGALORE HUB</text>
+
+  <!-- Left Card: Salary Benchmarks by Role -->
+  <rect x="50" y="125" width="680" height="515" rx="14" fill="url(#cardGrad)" stroke="#374151" stroke-width="1" filter="url(#shadow)" />
+  <text x="80" y="160" fill="#f9fafb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700">Annual Base Compensation Bands (₹ LPA / $ USD)</text>
+  <text x="80" y="180" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Excludes token allocations, liquidity grants, and variable performance bonuses</text>
+
+  <!-- Role 1: Smart Contract / Solidity Protocol Engineer -->
+  <text x="80" y="215" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Smart Contract / Solidity Engineer</text>
+  <text x="690" y="215" fill="#93c5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="end">₹28L - ₹1.2Cr+ ($34k - $145k)</text>
+  <rect x="80" y="225" width="590" height="18" rx="4" fill="#1f2937" />
+  <rect x="180" y="225" width="450" height="18" rx="4" fill="url(#barSmartContract)" />
+  <text x="185" y="238" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Mid: ₹28L - ₹55L</text>
+  <text x="450" y="238" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Senior/Lead: ₹55L - ₹1.2Cr+</text>
+
+  <!-- Role 2: Rust / Solana / Substrate Systems -->
+  <text x="80" y="275" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Rust / Solana / Core Protocol Engineer</text>
+  <text x="690" y="275" fill="#c4b5fd" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="end">₹32L - ₹1.35Cr+ ($38k - $162k)</text>
+  <rect x="80" y="285" width="590" height="18" rx="4" fill="#1f2937" />
+  <rect x="200" y="285" width="460" height="18" rx="4" fill="url(#barRust)" />
+  <text x="205" y="298" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Mid: ₹32L - ₹65L</text>
+  <text x="470" y="298" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Senior/Lead: ₹65L - ₹1.35Cr+</text>
+
+  <!-- Role 3: Zero-Knowledge / Cryptography Researcher -->
+  <text x="80" y="335" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Zero-Knowledge / Cryptography Engineer</text>
+  <text x="690" y="335" fill="#f472b6" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="end">₹40L - ₹1.6Cr+ ($48k - $190k)</text>
+  <rect x="80" y="345" width="590" height="18" rx="4" fill="#1f2937" />
+  <rect x="230" y="345" width="440" height="18" rx="4" fill="url(#barZK)" />
+  <text x="235" y="358" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Mid: ₹40L - ₹80L</text>
+  <text x="490" y="358" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Staff/Lead: ₹80L - ₹1.6Cr+</text>
+
+  <!-- Role 4: Full-Stack Web3 & dApp Developer -->
+  <text x="80" y="395" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Full-Stack Web3 / Frontend Engineer</text>
+  <text x="690" y="395" fill="#6ee7b7" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="end">₹22L - ₹85L ($26k - $102k)</text>
+  <rect x="80" y="405" width="590" height="18" rx="4" fill="#1f2937" />
+  <rect x="140" y="405" width="450" height="18" rx="4" fill="url(#barFullstack)" />
+  <text x="145" y="418" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Mid: ₹22L - ₹45L</text>
+  <text x="390" y="418" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Senior/Lead: ₹45L - ₹85L</text>
+
+  <!-- Role 5: Developer Relations (DevRel) & Ecosystem -->
+  <text x="80" y="455" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="600">Developer Relations (DevRel) &amp; Ecosystem</text>
+  <text x="690" y="455" fill="#fcd34d" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="600" text-anchor="end">₹25L - ₹90L ($30k - $108k)</text>
+  <rect x="80" y="465" width="590" height="18" rx="4" fill="#1f2937" />
+  <rect x="160" y="465" width="440" height="18" rx="4" fill="url(#barDevRel)" />
+  <text x="165" y="478" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Mid: ₹25L - ₹50L</text>
+  <text x="410" y="478" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600">Senior/Lead: ₹50L - ₹90L</text>
+
+  <!-- Scale Axis at bottom -->
+  <line x1="80" y1="520" x2="670" y2="520" stroke="#4b5563" stroke-width="1" />
+  <text x="80" y="538" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">₹0L</text>
+  <text x="200" y="538" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">₹30L ($36k)</text>
+  <text x="350" y="538" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">₹60L ($72k)</text>
+  <text x="500" y="538" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">₹1.0Cr ($120k)</text>
+  <text x="670" y="538" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" text-anchor="end">₹1.5Cr+ ($180k+)</text>
+
+  <!-- Note block below scale -->
+  <rect x="80" y="555" width="610" height="65" rx="8" fill="#111827" stroke="#374151" stroke-width="1" />
+  <text x="95" y="578" fill="#d1d5db" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="600">Equity &amp; Token Incentives:</text>
+  <text x="95" y="598" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Protocol developers routinely receive liquid token grants (vested 2-4 years) or stablecoin</text>
+  <text x="95" y="613" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">performance bonuses (USDC/USDT), expanding total compensation 30% to 70% above base.</text>
+
+  <!-- Right Card: Geographic Innovation Clusters & Community -->
+  <rect x="750" y="125" width="400" height="515" rx="14" fill="url(#cardGrad)" stroke="#374151" stroke-width="1" filter="url(#shadow)" />
+  <text x="775" y="160" fill="#f9fafb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700">Bangalore Innovation Hubs</text>
+  <text x="775" y="180" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Key micro-locations driving hiring &amp; community</text>
+
+  <!-- Cluster 1: HSR Layout -->
+  <rect x="775" y="205" width="350" height="85" rx="10" fill="#111827" stroke="#3b82f6" stroke-width="1" />
+  <text x="790" y="230" fill="#60a5fa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700">HSR Layout (Sectors 1-7)</text>
+  <text x="790" y="250" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Undisputed Web3 capital of India. Home to hacker</text>
+  <text x="790" y="268" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">houses, early-stage DeFi protocols, and Devfolio.</text>
+
+  <!-- Cluster 2: Indiranagar & Koramangala -->
+  <rect x="775" y="300" width="350" height="85" rx="10" fill="#111827" stroke="#8b5cf6" stroke-width="1" />
+  <text x="790" y="325" fill="#a78bfa" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700">Indiranagar &amp; Koramangala</text>
+  <text x="790" y="345" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Venture capital hub. Offices of Hashed Emergent,</text>
+  <text x="790" y="363" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Elevation Capital, Peak XV, and growth startups.</text>
+
+  <!-- Cluster 3: Bellandur & Outer Ring Road -->
+  <rect x="775" y="395" width="350" height="85" rx="10" fill="#111827" stroke="#10b981" stroke-width="1" />
+  <text x="790" y="420" fill="#34d399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700">Outer Ring Road &amp; Bellandur</text>
+  <text x="790" y="440" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Centralized exchanges (CoinDCX, CoinSwitch) and</text>
+  <text x="790" y="458" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">enterprise blockchain infrastructure providers.</text>
+
+  <!-- Cluster 4: ETHIndia & Flagship Ecosystem -->
+  <rect x="775" y="490" width="350" height="130" rx="10" fill="#111827" stroke="#f59e0b" stroke-width="1" />
+  <text x="790" y="515" fill="#fbbf24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="700">Flagship Events &amp; Talent Faucets</text>
+  <text x="790" y="535" fill="#e5e7eb" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">ETHIndia (Asia's premier Ethereum hackathon),</text>
+  <text x="790" y="553" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Polygon Guild Bangalore, BUIDL Bharat, and</text>
+  <text x="790" y="571" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">Rust Bangalore. Primary recruiting conduits</text>
+  <text x="790" y="589" fill="#9ca3af" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11">for global Web3 protocols hiring Indian builders.</text>
+</svg>
