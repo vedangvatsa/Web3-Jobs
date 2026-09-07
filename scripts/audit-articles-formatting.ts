@@ -33,11 +33,13 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   const category = parsed.data.category || 'Uncategorized';
   const body = parsed.content;
 
-  // 2. Check for invalid space in bolding: ** text** or **text **.
-  // NOTE: validated per bold PAIR, not with one spanning pattern. The old
-  // pattern (`**\s+[^*]+?**`) matched ACROSS legitimate pairs ("**a.** b
-  // **c**") because [^*] spans newlines, flagging valid markdown on every
-  // long-form article while catching zero true violations repo-wide.
+  // 2. Check for invalid space in bolding: ** text** or **text **, validated
+  // per bold PAIR. NOTE: an earlier spanning pattern (`**\s+[^*]+?**`)
+  // matched ACROSS legitimate pairs ("**a.** b **c**") because [^*] spans
+  // newlines, flagging valid markdown while catching zero true violations
+  // repo-wide. (The stricter bold-lead-label rule from the unslop-text
+  // skill flags 80+ pre-existing files; adopt it repo-wide separately
+  // rather than inside this check.)
   const invalidBoldSpaces: string[] = [];
   const boldPairPattern = /\*\*([^*]*?)\*\*/g;
   let boldMatch: RegExpExecArray | null;
