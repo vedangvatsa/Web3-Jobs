@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg-grad)"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="700">Decentralized Identity &amp; On-Chain Reputation System</text>
+  <text x="600" y="85" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="15">From DIDs, EAS Attestations &amp; SBTs to Sybil Resistance, Undercollateralized DeFi &amp; Governance</text>
+
+  <!-- Flow Boxes -->
+
+  <!-- Box 1: On-Chain Data Sources -->
+  <g transform="translate(60, 130)" filter="url(#shadow)">
+    <rect width="230" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="230" height="8" fill="#3b82f6" rx="4"/>
+    <text x="115" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">1. Raw Signal Inputs</text>
+
+    <rect x="15" y="60" width="200" height="75" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">DID &amp; Nameservers</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">ENS (.eth) / W3C DID</text>
+    <text x="25" y="122" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Human-readable identity anchor</text>
+
+    <rect x="15" y="150" width="200" height="75" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="175" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">DeFi Transaction History</text>
+    <text x="25" y="195" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Aave / Uniswap / Maker</text>
+    <text x="25" y="212" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Loan repayment track record</text>
+
+    <rect x="15" y="240" width="200" height="75" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="265" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">Social Graph Data</text>
+    <text x="25" y="285" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Farcaster / Lens Protocol</text>
+    <text x="25" y="302" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Decentralized social graph</text>
+
+    <rect x="15" y="330" width="200" height="110" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="355" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Input Objective:</text>
+    <text x="25" y="375" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Aggregate multi-chain signals</text>
+    <text x="25" y="395" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Track account longevity</text>
+    <text x="25" y="415" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Monitor historical behavior</text>
+  </g>
+
+  <!-- Arrow 1-2 -->
+  <path d="M 290 360 L 330 360" stroke="#3b82f6" stroke-width="3" fill="none"/>
+  <polygon points="330,360 320,354 320,366" fill="#3b82f6"/>
+
+  <!-- Box 2: Verification & Attestations -->
+  <g transform="translate(340, 130)" filter="url(#shadow)">
+    <rect width="240" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="240" height="8" fill="#a855f7" rx="4"/>
+    <text x="120" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">2. Attestations &amp; Creds</text>
+
+    <rect x="15" y="60" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#c084fc" font-family="monospace" font-size="14" font-weight="700">EAS / Sign Protocol</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Ethereum Attestation Service</text>
+    <text x="25" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Off-chain / On-chain schemas</text>
+
+    <rect x="15" y="160" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="185" fill="#c084fc" font-family="monospace" font-size="14" font-weight="700">Soulbound Tokens (SBT)</text>
+    <text x="25" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Non-Transferable Badges</text>
+    <text x="25" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Degree, contribution, audit cred</text>
+
+    <rect x="15" y="260" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="285" fill="#c084fc" font-family="monospace" font-size="14" font-weight="700">Gitcoin Passport</text>
+    <text x="25" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Sybil Resistance Scoring</text>
+    <text x="25" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Aggregates human identity proof</text>
+
+    <rect x="15" y="360" width="210" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Verification Goal:</text>
+    <text x="25" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Prevent bot farms / Sybils</text>
+    <text x="25" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Cryptographic proof of skill</text>
+  </g>
+
+  <!-- Arrow 2-3 -->
+  <path d="M 580 360 L 620 360" stroke="#a855f7" stroke-width="3" fill="none"/>
+  <polygon points="620,360 610,354 610,366" fill="#a855f7"/>
+
+  <!-- Box 3: Reputation Computation -->
+  <g transform="translate(630, 130)" filter="url(#shadow)">
+    <rect width="240" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="240" height="8" fill="#10b981" rx="4"/>
+    <text x="120" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">3. Reputation Score</text>
+
+    <rect x="15" y="60" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#34d399" font-family="monospace" font-size="14" font-weight="700">EigenTrust / PageRank</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Graph Scoring Algorithm</text>
+    <text x="25" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Weighted peer trust network</text>
+
+    <rect x="15" y="160" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="185" fill="#34d399" font-family="monospace" font-size="14" font-weight="700">zk-Credit Scoring</text>
+    <text x="25" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Zero-Knowledge Proofs</text>
+    <text x="25" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Proves credit score without KYC</text>
+
+    <rect x="15" y="260" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="285" fill="#34d399" font-family="monospace" font-size="14" font-weight="700">Dynamic Score Decay</text>
+    <text x="25" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Time-decayed activity weight</text>
+    <text x="25" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Rewards ongoing contribution</text>
+
+    <rect x="15" y="360" width="210" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Calculated Output:</text>
+    <text x="25" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Portable trust vector</text>
+    <text x="25" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Sybil-resistant score</text>
+  </g>
+
+  <!-- Arrow 3-4 -->
+  <path d="M 870 360 L 910 360" stroke="#10b981" stroke-width="3" fill="none"/>
+  <polygon points="910,360 900,354 900,366" fill="#10b981"/>
+
+  <!-- Box 4: Web3 Applications & Careers -->
+  <g transform="translate(920, 130)" filter="url(#shadow)">
+    <rect width="220" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="220" height="8" fill="#06b6d4" rx="4"/>
+    <text x="110" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">4. Application &amp; Roles</text>
+
+    <rect x="15" y="60" width="190" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Undercollateralized DeFi</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Reputation-based collateral</text>
+    <text x="25" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Lowers borrowing barrier</text>
+
+    <rect x="15" y="160" width="190" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="185" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">Sybil-Resistant Airdrops</text>
+    <text x="25" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Filters bot networks</text>
+    <text x="25" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Rewards real contributors</text>
+
+    <rect x="15" y="260" width="190" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="285" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">DID Protocol Dev</text>
+    <text x="25" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">EAS / Gitcoin Passport</text>
+    <text x="25" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">$140K - $250K base</text>
+
+    <rect x="15" y="360" width="190" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Career Focus:</text>
+    <text x="25" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Decentralized Identity (DID)</text>
+    <text x="25" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Zero-Knowledge Credentials</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="600" y="640" text-anchor="middle" fill="#64748b" font-family="system-ui, sans-serif" font-size="13">Hashtag Web3 Identity Series • https://hashtagweb3.com</text>
+</svg>

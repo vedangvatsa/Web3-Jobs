@@ -1,0 +1,80 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg-grad)"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="700">Cryptographic Nonce &amp; Transaction Ordering Architecture</text>
+  <text x="600" y="85" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="15">Proof-of-Work Difficulty Nonces vs. EVM Account Transaction Sequence Nonces</text>
+
+  <!-- Flow Boxes -->
+
+  <!-- Column 1: PoW Mining Nonce -->
+  <g transform="translate(60, 130)" filter="url(#shadow)">
+    <rect width="510" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="510" height="8" fill="#f59e0b" rx="4"/>
+    <text x="255" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="17" font-weight="700">1. Proof-of-Work Mining Nonce (32-bit Header Variable)</text>
+
+    <rect x="20" y="60" width="470" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="85" fill="#fbbf24" font-family="monospace" font-size="14" font-weight="700">Block Header Hashing: SHA-256(BlockHeader + Nonce)</text>
+    <text x="35" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Miners iterate nonces (0 to 4,294,967,295) + ExtraNonce in Coinbase</text>
+    <text x="35" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Objective: SHA-256(SHA-256(Header)) &lt; Target Difficulty Threshold</text>
+
+    <rect x="20" y="160" width="470" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="185" fill="#fbbf24" font-family="monospace" font-size="14" font-weight="700">ASIC Hardware Brute-Force</text>
+    <text x="35" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">ASICs calculate hundreds of Terahashes per second (TH/s)</text>
+    <text x="35" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Adjusts difficulty dynamically every 2016 blocks (Bitcoin)</text>
+
+    <rect x="20" y="260" width="470" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="285" fill="#fbbf24" font-family="monospace" font-size="14" font-weight="700">Sybil &amp; 51% Attack Prevention</text>
+    <text x="35" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Makes state historical rewrite computationally impossible</text>
+    <text x="35" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Requires re-mining all past blocks faster than global hash rate</text>
+
+    <rect x="20" y="360" width="470" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">PoW Function:</text>
+    <text x="35" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Arbitrary brute-force search key to satisfy block target difficulty</text>
+    <text x="35" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Provides thermodynamic anchor for Nakamoto Consensus</text>
+  </g>
+
+  <!-- Column 2: EVM Account Sequence Nonce -->
+  <g transform="translate(630, 130)" filter="url(#shadow)">
+    <rect width="510" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="510" height="8" fill="#3b82f6" rx="4"/>
+    <text x="255" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="17" font-weight="700">2. Account Transaction Nonce (Sequential Counter)</text>
+
+    <rect x="20" y="60" width="470" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="85" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">Strict Sequential Ordering: Nonce = N + 1</text>
+    <text x="35" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Every EOA/contract maintains a strictly incrementing counter</text>
+    <text x="35" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Prevents out-of-order execution and nonce-gap stalls</text>
+
+    <rect x="20" y="160" width="470" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="185" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">Replay Attack Prevention</text>
+    <text x="35" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Transactions signed with Nonce N cannot be re-executed on mainnet</text>
+    <text x="35" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">EVM invalidates duplicate nonces immediately in mempool</text>
+
+    <rect x="20" y="260" width="470" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="35" y="285" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">Contract Address Generation (CREATE / CREATE2)</text>
+    <text x="35" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">CREATE Address = RLP(SenderAddress, SenderNonce)</text>
+    <text x="35" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Determines deployed smart contract addresses deterministically</text>
+
+    <rect x="20" y="360" width="470" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="35" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Account Nonce Function:</text>
+    <text x="35" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Guarantees exact transaction execution order per account</text>
+    <text x="35" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Protects users against double-spending &amp; transaction replay</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="600" y="640" text-anchor="middle" fill="#64748b" font-family="system-ui, sans-serif" font-size="13">Hashtag Web3 Technical Deep Dive Series • https://hashtagweb3.com</text>
+</svg>
