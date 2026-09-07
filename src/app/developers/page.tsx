@@ -180,7 +180,7 @@ export default function DevelopersPage() {
               </p>
               <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4 pt-2">
                 <div className="p-4 border rounded-xl bg-background">
-                  <Badge className="mb-2 bg-blue-600 hover:bg-blue-700">TypeScript / JS (Fetch)</Badge>
+                  <Badge className="mb-2 bg-zinc-900 text-white hover:bg-black dark:bg-zinc-100 dark:text-zinc-900">TypeScript / JS (Fetch)</Badge>
                   <h3 className="font-semibold text-sm">REST API Client</h3>
                   <code className="text-xs text-muted-foreground block font-mono mt-1 bg-muted p-2 rounded">
                     fetch(&apos;https://hashtagweb3.com/api/jobs&apos;)
