@@ -1,42 +1,42 @@
 [
   {
-    "slug": "b2b-stablecoin-flows",
-    "title": "The Digital Eurodollar",
-    "description": "Beyond cryptocurrency trading, stablecoins have quietly replaced correspondent banking across wholesale supply chains. A 3,500-word examination of working capital mechanics, offshore dollar systems, ERP integration, and emerging trade corridors.",
-    "category": "Industry Insights",
-    "publishedDate": "2026-09-04",
-    "image": "/images/johannes-plenio-FZpCcPss9to-unsplash.jpg"
+    "slug": "building-a-career-as-a-web3-blockchain-infrastructure-engineer",
+    "title": "Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and Systems Architecture",
+    "description": "A technical roadmap and systems architecture guide for blockchain infrastructure engineers, covering RPC node orchestration, validator sentry architecture, NVMe storage optimization, indexer pipelines, and career progression.",
+    "category": "General",
+    "publishedDate": "2026-09-07",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=Building%20a%20Career%20as%20a%20Web3%20Blockchain%20Infrastructure%20Engineer%20Roadmap%20and%20Systems%20Architecture&category=General"
   },
   {
-    "slug": "best-smart-contract-ide-for-beginners",
-    "title": "Best Smart Contract IDE for Beginners in 2026",
-    "description": "The best IDEs and tools for writing smart contracts as a beginner. Compare Remix, Hardhat, Foundry, and VS Code extensions with setup guides.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-03-15",
-    "image": "https://images.unsplash.com/photo-1461749280684-dccba630e2f6?q=80&w=1080"
+    "slug": "exploring-career-opportunities-as-a-web3-blockchain-validator",
+    "title": "Exploring Career Opportunities as a Web3 Blockchain Validator Infrastructure and Operations",
+    "description": "A detailed engineering blueprint for blockchain validator operations, covering Proof-of-Stake consensus mechanics, key management, slashing protection, MEV-boost integration, and career progression.",
+    "category": "General",
+    "publishedDate": "2026-09-07",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=Exploring%20Career%20Opportunities%20as%20a%20Web3%20Blockchain%20Validator%20Infrastructure%20and%20Operations&category=General"
   },
   {
-    "slug": "future-of-web3-architecture",
-    "title": "Future of Web3 Architecture",
-    "description": "Web3 architecture is undergoing its most significant transformation yet, moving from monolithic chains to modular, AI-integrated stacks capable of processing thousands of transactions per second. Explore the breakthroughs, real-world deployments, and career opportunities defining 2026.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-03-15",
-    "image": "https://images.unsplash.com/photo-1639762681485-074b7f938ba0?q=80&w=1080"
+    "slug": "how-to-become-a-web3-liquidity-provider-in-decentralized-finance",
+    "title": "Technical Guide to Becoming a Web3 Liquidity Provider and Quantitative Market Maker",
+    "description": "An architecture guide to decentralized liquidity provision, covering automated market maker mechanics, concentrated liquidity math, impermanent loss hedging, smart contract integration, and career pathways.",
+    "category": "General",
+    "publishedDate": "2026-09-07",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=Technical%20Guide%20to%20Becoming%20a%20Web3%20Liquidity%20Provider%20and%20Quantitative%20Market%20Maker&category=General"
   },
   {
-    "slug": "r3-corda-vs-cosmos-sdk",
-    "title": "R3 Corda vs Cosmos SDK",
-    "description": "A detailed comparison of R3 Corda and Cosmos SDK for enterprise blockchain development. Covers architecture, use cases, performance, and which to choose.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-03-15",
-    "image": "https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1080"
+    "slug": "how-to-transition-from-web2-to-web3-cybersecurity-specialist",
+    "title": "How to Transition from Web2 to Web3 Cybersecurity Specialist Architecture and Audit Blueprint",
+    "description": "A transition blueprint for Web2 security professionals moving into Web3, covering EVM security primitives, reentrancy vulnerabilities, formal verification, fuzzing tools, and audit methodologies.",
+    "category": "General",
+    "publishedDate": "2026-09-07",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=How%20to%20Transition%20from%20Web2%20to%20Web3%20Cybersecurity%20Specialist%20Architecture%20and%20Audit%20Blueprint&category=General"
   },
   {
-    "slug": "10-big-ideas-in-web3-for-2025",
-    "title": "10 Big Ideas in Web3 for 2026",
-    "description": "The 10 most consequential Web3 trends for 2026: DePIN, AI agents with wallets, real-world asset tokenization, stablecoin payments, and more.",
-    "category": "Industry Insights",
-    "publishedDate": "2026-03-11",
-    "image": "https://images.unsplash.com/photo-1665597704311-d7304eaf70ac?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3ZWIzfGVufDB8fHx8MTc1ODE4MTYyNXww&ixlib=rb-4.1.0&q=80&w=1080"
+    "slug": "the-future-of-web3-cross-border-payment-systems-and-jobs",
+    "title": "The Future of Web3 Cross Border Payment Systems Systems Architecture and Career Opportunities",
+    "description": "A comprehensive engineering guide to Web3 cross-border payment architectures, stablecoin settlement rails, Travel Rule compliance, instant fiat off-ramps, and career opportunities.",
+    "category": "General",
+    "publishedDate": "2026-09-07",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=The%20Future%20of%20Web3%20Cross%20Border%20Payment%20Systems%20Systems%20Architecture%20and%20Career%20Opportunities&category=General"
   }
 ]
