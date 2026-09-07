@@ -1,0 +1,104 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="fc-title fc-desc">
+<title id="fc-title">Filecoin Cryptographic Storage Proof Architecture</title>
+<desc id="fc-desc">Diagram of Filecoin storage lifecycle: Client deals, sector sealing via Proof of Replication (PoRep), continuous verification via Proof of Spacetime (PoSt), and FIL pledge collateral.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:11px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}
+.step{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.porep{fill:#eff6ff;stroke:#2563eb;stroke-width:1.5}
+.post{fill:#f0fdf4;stroke:#16a34a;stroke-width:1.5}
+.pledge{fill:#faf5ff;stroke:#8b5cf6;stroke-width:1.5}
+.arrow{stroke:#64748b;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-fc)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
+.step{fill:#1e293b;stroke:#475569}.porep{fill:#172554;stroke:#60a5fa}.post{fill:#064e3b;stroke:#34d399}.pledge{fill:#3b0764;stroke:#c084fc}
+.arrow{stroke:#94a3b8}
+}
+</style>
+<defs>
+<marker id="arrowhead-fc" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Filecoin Storage Verification: PoRep and PoSt Architecture</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Cryptographic proofs converting commodity disk capacity into verifiable decentralized persistence</text>
+
+<!-- Phase 1: Storage Deal -->
+<rect class="step" x="24" y="70" width="130" height="250" rx="8"/>
+<text x="34" y="94" class="header">1. Storage Deal</text>
+<text x="34" y="112" font-size="10" fill="#64748b">Client &amp; Provider Negotiation</text>
+
+<text x="34" y="138" font-weight="600">Deal Parameters:</text>
+<text x="34" y="152" font-size="10" fill="#64748b">CID, size, duration, price</text>
+
+<text x="34" y="176" font-weight="600">Client Collateral:</text>
+<text x="34" y="190" font-size="10" fill="#64748b">Payment locked in escrow</text>
+
+<text x="34" y="214" font-weight="600">FVM Smart Contracts:</text>
+<text x="34" y="228" font-size="10" fill="#64748b">Automated deal brokering</text>
+
+<text x="34" y="252" font-weight="600">Data Transfer:</text>
+<text x="34" y="266" font-size="10" fill="#64748b">GraphSync / Lotus transfer</text>
+
+<!-- Arrow 1 to 2 -->
+<path class="arrow" d="M154 195 L174 195"/>
+
+<!-- Phase 2: PoRep (Proof of Replication) -->
+<rect class="porep" x="176" y="70" width="140" height="250" rx="8"/>
+<text x="186" y="94" class="header" fill="#2563eb">2. Proof of Replication</text>
+<text x="186" y="112" font-size="10" fill="#2563eb">PoRep (SDR Algorithm)</text>
+
+<text x="186" y="138" font-weight="600">Sector Sealing:</text>
+<text x="186" y="152" font-size="10" fill="#64748b">32 GiB / 64 GiB sectors</text>
+
+<text x="186" y="176" font-weight="600">Stacked Depth Robust:</text>
+<text x="186" y="190" font-size="10" fill="#64748b">Sequential hashing graph</text>
+
+<text x="186" y="214" font-weight="600">Groth16 SNARK Proof:</text>
+<text x="186" y="228" font-size="10" fill="#64748b">Proves unique physical copy</text>
+<text x="186" y="242" font-size="10" fill="#64748b">exists on specific drive</text>
+
+<text x="186" y="266" font-weight="600">Prevents Sybil Deduplication</text>
+
+<!-- Arrow 2 to 3 -->
+<path class="arrow" d="M316 195 L336 195"/>
+
+<!-- Phase 3: PoSt (Proof of Spacetime) -->
+<rect class="post" x="338" y="70" width="136" height="250" rx="8"/>
+<text x="348" y="94" class="header" fill="#16a34a">3. Proof of Spacetime</text>
+<text x="348" y="112" font-size="10" fill="#16a34a">PoSt (Continuous Audit)</text>
+
+<text x="348" y="138" font-weight="600">WindowPoSt:</text>
+<text x="348" y="152" font-size="10" fill="#64748b">Every 24h sector audit</text>
+<text x="348" y="166" font-size="10" fill="#64748b">Proves continuous storage</text>
+
+<text x="348" y="190" font-weight="600">WinningPoSt:</text>
+<text x="348" y="204" font-size="10" fill="#64748b">Proves storage at epoch</text>
+<text x="348" y="218" font-size="10" fill="#64748b">Grants block mint rights</text>
+
+<text x="348" y="242" font-weight="600">Slashing Trigger:</text>
+<text x="348" y="256" font-size="10" fill="#ef4444">Missing PoSt slashes stake</text>
+
+<!-- Arrow 3 to 4 -->
+<path class="arrow" d="M474 195 L494 195"/>
+
+<!-- Phase 4: Tokenomics & Slashing -->
+<rect class="pledge" x="496" y="70" width="120" height="250" rx="8"/>
+<text x="506" y="94" class="header" fill="#7c3aed">4. FIL Security</text>
+<text x="506" y="112" font-size="10" fill="#7c3aed">Pledge &amp; Slashing</text>
+
+<text x="506" y="138" font-weight="600">Initial Pledge:</text>
+<text x="506" y="152" font-size="10" fill="#64748b">FIL locked per sector</text>
+
+<text x="506" y="176" font-weight="600">Quality Adjusted:</text>
+<text x="506" y="190" font-size="10" fill="#64748b">Fil+ 10x power boost</text>
+
+<text x="506" y="214" font-weight="600">Fee Burning:</text>
+<text x="506" y="228" font-size="10" fill="#64748b">EIP-1559 burns FIL</text>
+
+<text x="506" y="252" font-weight="600">Storage Slashing:</text>
+<text x="506" y="266" font-size="10" fill="#ef4444">Sector fault penalties</text>
+</svg>
