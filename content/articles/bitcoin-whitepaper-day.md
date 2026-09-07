@@ -11,7 +11,7 @@ lastUpdated: "2026-09-07"
 ---
 ## The Shot Heard 'Round the Digital World
 
-Each year on October 31st, the global tech community marks an important occasion: the publication of the [Bitcoin](/what-is-bitcoin) whitepaper. In 2008, Satoshi Nakamoto, a pseudonymous figure, sent an email to a cryptography mailing list containing a link to a nine-page document titled **"Bitcoin: A Peer-to-Peer Electronic Cash System."**This document laid the groundwork for a transformation in finance.
+Each year on October 31st, the global tech community marks an important occasion: the publication of the [Bitcoin](/what-is-bitcoin) whitepaper. In 2008, Satoshi Nakamoto, a pseudonymous figure, sent an email to a cryptography mailing list containing a link to a nine-page document titled **"Bitcoin: A Peer-to-Peer Electronic Cash System."** This document laid the groundwork for a transformation in finance.
 
 Satoshi proposed a new type of currency that operates independently of governments, banks, or any central authority. This marked the inception of cryptocurrency and the beginning of the [Web3](/what-is-web3) movement. On Bitcoin Whitepaper Day, we reflect on the fundamental concepts that initiated this transformation.
 
@@ -26,11 +26,23 @@ Satoshi's paper pinpointed a fundamental issue in internet commerce: the depende
 These weaknesses included:
 
 | Weakness | Description |
-|------------------------|-------------------------------------------------------|
-|**High Transaction Costs**| Financial intermediaries charge fees for each transaction. |
-|**Lack of Finality**| Transactions can be reversed, leading to uncertainty. |
-|**Exclusion**| Many individuals lack access to traditional banking services. |
-|**Censorship**| Central authorities can block or freeze transactions. |
+|
+
+------------------------|
+
+-------------------------------------------------------|
+|
+
+**High Transaction Costs**| Financial intermediaries charge fees for each transaction. |
+|
+
+**Lack of Finality**| Transactions can be reversed, leading to uncertainty. |
+|
+
+**Exclusion**| Many individuals lack access to traditional banking services. |
+|
+
+**Censorship**| Central authorities can block or freeze transactions. |
 
 Satoshi aimed to create a system that enabled direct transactions between parties without the need for a trusted intermediary.
 
@@ -50,7 +62,9 @@ Once a transaction is recorded on the blockchain, altering it becomes nearly imp
 
 ### 3. Proof-of-Work: The Consensus Mechanism
 
-The network must agree on the validity of transactions and determine the next block to be added to the chain. This agreement is achieved through a mechanism called**Proof-of-Work**.
+The network must agree on the validity of transactions and determine the next block to be added to the chain. This agreement is achieved through a mechanism called
+
+**Proof-of-Work**.
 
 * **Mining:** Participants, known as miners, compete to solve complex mathematical problems.
 * **Winning the Block:** The first miner to solve the problem creates the next block of transactions and receives a reward in newly minted bitcoin.
@@ -71,16 +85,3 @@ The publication of the Bitcoin whitepaper extended beyond the creation of a new 
 Reading the Bitcoin whitepaper today reveals its clarity, conciseness, and foresight. In just nine pages, Satoshi Nakamoto articulated a complete and elegant solution to a problem that had perplexed cryptographers for years.
 
 On Bitcoin Whitepaper Day, we honor not only a technical document but also a manifesto: the belief that individuals should control their financial destinies, that trust can be established through code and mathematics, and that a more open, transparent, and equitable financial system is achievable. The change ignited by this paper is ongoing, and its full ramifications remain to be realized.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-4. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
-5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-8. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-9. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

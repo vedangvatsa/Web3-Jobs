@@ -10,7 +10,7 @@ description: >-
   deployments, tradeoffs, and how to get started.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 A supply chain blockchain is a shared, append-only ledger that records where a product has been, who handled it, and what happened to it at each step. Instead of each company keeping a separate database, participants write standardized events to one ledger that no single party can rewrite. That record is then used to prove provenance, speed recalls, and automate payments when conditions are met.
 
@@ -28,7 +28,15 @@ In both models the ledger stores proofs and state changes. Large files, images, 
 
 ## Who it is for
 
-**Operators who move or sell physical goods.**That includes farmers, manufacturers, logistics providers, cold chain operators, customs brokers, distributors, and retailers who need to answer where a lot came from and where it is now. If you handle recalls, audits, or sustainability claims, this is your primary use case.**Enterprise teams who integrate ERPs and WMS.**You already run SAP, Oracle, or Manhattan. You need to publish shipment, receipt, and transformation events without rebuilding those systems. GS1 identifiers and EPCIS messages are how you keep the integration stable.**Builders of supply chain applications.**Protocol developers write ledger logic and connect IoT devices. Product managers build dashboards that read ledger events and present inventory or compliance views. Web3 logistics consultants guide pilots and measure whether the ledger saves time or cost.**Career switchers with logistics background.**You bring domain knowledge about bills of lading, GTINs, SSCCs, and warehouse processes. You add basic smart contract and data standards skill to design pilots that reflect how the warehouse actually works.
+**Operators who move or sell physical goods.
+
+**That includes farmers, manufacturers, logistics providers, cold chain operators, customs brokers, distributors, and retailers who need to answer where a lot came from and where it is now. If you handle recalls, audits, or sustainability claims, this is your primary use case.** Enterprise teams who integrate ERPs and WMS.
+
+**You already run SAP, Oracle, or Manhattan. You need to publish shipment, receipt, and transformation events without rebuilding those systems. GS1 identifiers and EPCIS messages are how you keep the integration stable.** Builders of supply chain applications.
+
+**Protocol developers write ledger logic and connect IoT devices. Product managers build dashboards that read ledger events and present inventory or compliance views. Web3 logistics consultants guide pilots and measure whether the ledger saves time or cost.** Career switchers with logistics background.
+
+**You bring domain knowledge about bills of lading, GTINs, SSCCs, and warehouse processes. You add basic smart contract and data standards skill to design pilots that reflect how the warehouse actually works.
 
 If you never touch a physical handover, you can use the concepts without running a node. If you are responsible for provenance or recall speed, the sections below affect architecture and vendor choice.
 
@@ -123,7 +131,9 @@ OriginTrail builds a Decentralized Knowledge Graph, hosted by 2,200 plus DKG nod
 
 A supply chain example is the Supplier Compliance Audit Network, known as SCAN, whose members include Costco, Walmart, and Target. SCAN uses the DKG to secure audits and manage factory compliance data with privacy controls, sharing selectively with programs such as the US Customs Trade Partnership Against Terrorism. OriginTrail reports SCAN helps secure about 40 percent of imports to the United States. That is an adoption signal for a shared audit layer rather than for per-item tracking.
 
-## Pros and cons, honestly**Where the shared ledger helps:**
+## Pros and cons, honestly
+
+**Where the shared ledger helps:**
 
 * Recall speed and precision. Walmart's pilot showed trace time for mangoes fell from about seven days to 2.2 seconds, which lets a retailer pull a narrow lot instead of a whole product line.
 * Provenance you can show a customer or regulator. De Beers Tracr gives country of origin for registered diamonds over 1 carat. Walmart China lets shoppers scan a QR code for source farm, inspection report, and location history.
@@ -143,7 +153,13 @@ A supply chain example is the Supplier Compliance Audit Network, known as SCAN, 
 **Tradeoff summary**
 
 | Choice | Gain | Cost |
-| --- | --- | --- |
+| 
+
+--- | 
+
+--- | 
+
+--- |
 | Permissioned ledger such as Hyperledger Fabric | Privacy via channels, pluggable consensus, no token mining, control over members | Smaller network, must recruit members, you run peers and ordering |
 | Public or hybrid such as VeChainThor for Walmart China | Open verification via shared chain, easier consumer QR checks | Fee volatility, data kept private on top of public base needs design |
 | Anchoring EPCIS events only, keep payloads off chain | Lower chain load, keeps GS1 interoperability | Need separate storage and discovery layer for full documents |
@@ -177,9 +193,39 @@ Prerequisites are basic smart contract skill plus GS1 and EDI comfort. You will 
 * **Supply chain protocol developer.** You build Fabric chaincode or EVM contracts for shipments, handle EPCIS parsing, and wire IoT data through oracles. You need Go, Node.js, or Solidity, plus GS1 identifiers and event modeling.
 * **Web3 logistics consultant.** You map as-is processes, design the EPCIS to ledger mapping, and run pilots with a few suppliers. You need change management skill and a way to measure recall or dwell time improvement.
 * **Product manager with supply chain focus.** You own the dashboard that reads on-chain events and displays lot genealogy, sensor alerts, and exception workflows. You need to translate endorsement and privacy rules into clear UX.
-* **Analyst for compliance and provenance.**You review chain data against certificates, country of origin claims, and audit records, and flag mismatches. You need to know how to query an EPCIS repository and how to read a ledger proof without assuming the source data was correct.
+* **Analyst for compliance and provenance.
 
-## FAQ**Does blockchain prove a product is genuine?**No directly. It proves the history attached to an identifier has not been rewritten and that transfers followed the contract rules. Whether the item is genuine still depends on binding the physical item to the identifier with a hard-to-copy link such as a diamond scan, a serialized seal, or a certified lab result, plus sampling to catch substitution.**Is Hyperledger Fabric the same as Ethereum?**No. Fabric is permissioned, members are known and enroll via a Membership Service Provider, data can be kept private on channels, and there is no required cryptocurrency. Ethereum is permissionless and uses ETH for gas. Both support smart contracts, but their trust and cost models differ.**Why not put every scan on a public chain?**Cost and privacy. Global supply chains produce very high event volumes. Writing every field to a public chain would be expensive and would expose pricing and volumes to competitors. Common practice is to store the full EPCIS event privately, put a hash and key fields on chain, and keep the event available through a repository that enforces access control.**What is the oracle problem in plain terms?**The ledger cannot see outside itself. It needs a separate service, the oracle, to bring in GPS, temperature, or customs clearance data. If that service is centralized or the device is compromised, the ledger will execute correctly on wrong inputs. Pilots address this with multiple devices, signed data, and off-chain aggregation before one value is written on chain.**What stopped TradeLens if the technology worked?**Adoption. Shipping lines, ports, and regulators that compete with Maersk did not want to put commercial data on a carrier-led platform despite the neutral pitch. Maersk and IBM said on November 29, 2022 that full industry collaboration was not achieved and commercial viability was not reached, so the platform was withdrawn by end of Q1 2023.**How does a QR code fit in?**The QR code encodes a GS1 identifier, often a Digital Link that includes the GTIN and a serial or lot number. Scanning resolves to an EPCIS repository or a ledger query that returns provenance events. The code itself is not the trust. The signed event history behind it is.**Do I need a token to run a supply chain blockchain?**On Fabric you do not. Chaincode is called by enrolled clients and ordered by the ordering service without a token. On OriginTrail the DKG uses TRAC for paying node runners, staking as collateral, and delegation, with a fixed supply of 500 million. On public chains you need the chain's gas token for writes, even if your product token is separate.**What should I watch for with counterfeits?**
+**You review chain data against certificates, country of origin claims, and audit records, and flag mismatches. You need to know how to query an EPCIS repository and how to read a ledger proof without assuming the source data was correct.
+
+## FAQ
+
+#### Does blockchain prove a product is genuine?
+
+No directly. It proves the history attached to an identifier has not been rewritten and that transfers followed the contract rules. Whether the item is genuine still depends on binding the physical item to the identifier with a hard-to-copy link such as a diamond scan, a serialized seal, or a certified lab result, plus sampling to catch substitution.
+
+#### Is Hyperledger Fabric the same as Ethereum?
+
+No. Fabric is permissioned, members are known and enroll via a Membership Service Provider, data can be kept private on channels, and there is no required cryptocurrency. Ethereum is permissionless and uses ETH for gas. Both support smart contracts, but their trust and cost models differ.
+
+#### Why not put every scan on a public chain?
+
+Cost and privacy. Global supply chains produce very high event volumes. Writing every field to a public chain would be expensive and would expose pricing and volumes to competitors. Common practice is to store the full EPCIS event privately, put a hash and key fields on chain, and keep the event available through a repository that enforces access control.
+
+#### What is the oracle problem in plain terms?
+
+The ledger cannot see outside itself. It needs a separate service, the oracle, to bring in GPS, temperature, or customs clearance data. If that service is centralized or the device is compromised, the ledger will execute correctly on wrong inputs. Pilots address this with multiple devices, signed data, and off-chain aggregation before one value is written on chain.
+
+#### What stopped TradeLens if the technology worked?
+
+Adoption. Shipping lines, ports, and regulators that compete with Maersk did not want to put commercial data on a carrier-led platform despite the neutral pitch. Maersk and IBM said on November 29, 2022 that full industry collaboration was not achieved and commercial viability was not reached, so the platform was withdrawn by end of Q1 2023.
+
+#### How does a QR code fit in?
+
+The QR code encodes a GS1 identifier, often a Digital Link that includes the GTIN and a serial or lot number. Scanning resolves to an EPCIS repository or a ledger query that returns provenance events. The code itself is not the trust. The signed event history behind it is.
+
+#### Do I need a token to run a supply chain blockchain?
+
+On Fabric you do not. Chaincode is called by enrolled clients and ordered by the ordering service without a token. On OriginTrail the DKG uses TRAC for paying node runners, staking as collateral, and delegation, with a fixed supply of 500 million. On public chains you need the chain's gas token for writes, even if your product token is separate.**What should I watch for with counterfeits?**
 
 The OECD and European Union Intellectual Property Office estimated in Mapping Global Trade in Fakes 2025 that counterfeit and pirated goods were about 467 billion US dollars in 2021, which is 2.3 percent of global imports. About 60 percent of seized items arrived by mail and small parcels are the dominant channel. That means any solution that only tracks bulk shipments will miss a large part of illicit flow.
 
@@ -188,16 +234,3 @@ The OECD and European Union Intellectual Property Office estimated in Mapping Gl
 Start narrow. Choose one SKU that is costly to recall, map its GTIN, SSCC, and planned EPCIS events in a one-page event model, and run a tabletop where each handover is a signed EPCIS event on a Fabric test channel. Then add one sensor and one oracle so a temperature or arrival condition can trigger a contract action. Compare trace time and reconciliation time before and after on the same lane. That proof is what decides whether to add a second lane or a second partner.
 
 For reading, use the official sources cited above: Hyperledger Fabric docs for permissioning and chaincode, GS1 EPCIS and the GS1 US blockchain guidance for event structure, the Walmart September 24, 2018 press release and IBM Food Trust October 8, 2018 release for the food pilot, the Walmart China June 25, 2019 VeChain release and VeChain's January 2024 update for the China scale case, De Beers group news for Tracr at debeersgroup.com, the FDA hosted MediLedger pilot report, Maersk's November 29, 2022 TradeLens discontinuation notice, the OriginTrail 2.0 white paper and docs.origintrail.io for DKG and TRAC, the Chainlink oracle problem page, and OECD Mapping Global Trade in Fakes 2025 for the counterfeit baseline.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-5. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-7. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
-8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-9. [Solana Core Architecture Documentation](https://docs.solana.com/)
-10. [Polygon Protocol Architecture Documentation](https://docs.polygon.technology/)

@@ -13,7 +13,6 @@ tags:
   - StableSwap
   - Tokenomics
 ---
-
 # What is a Curve Pool in DeFi and How Does It Work
 
 In early decentralized finance, automated market makers (AMMs) were dominated by the constant product formula ($x \cdot y = k$), popularized by [Uniswap v1 and v2](https://uniswap.org) and [SushiSwap](https://sushi.com). While constant product invariant curves functioned effectively for trading volatile, unpegged cryptocurrency pairs such as ETH/USDC or WBTC/DAI, they proved profoundly inefficient for pegged or like-kind assets. 
@@ -29,17 +28,29 @@ Today, Curve pools form the foundational liquidity backbone of decentralized fin
 |                        THE AMM INVARIANT SPECTRUM                                 |
 +-----------------------------------------------------------------------------------+
 |  1. Constant Sum: x + y = D                                                       |
-|     - Absolute Zero Slippage at all trading volumes                               |
-|     - Fatal Flaw: If market price deviates, pool completely drains of one asset  |
+|     
+
+- Absolute Zero Slippage at all trading volumes                               |
+|     
+
+- Fatal Flaw: If market price deviates, pool completely drains of one asset  |
 |                                                                                   |
 |  2. Constant Product: x * y = k (Uniswap v2)                                      |
-|     - Infinite Liquidity along (0, \infty); pool can never be drained entirely    |
-|     - Fatal Flaw: High slippage; highly inefficient for 1:1 pegged stable assets  |
+|     
+
+- Infinite Liquidity along (0, \infty); pool can never be drained entirely    |
+|     
+
+- Fatal Flaw: High slippage; highly inefficient for 1:1 pegged stable assets  |
 |                                                                                   |
 |  =========================== THE CURVE SYNTHESIS ===============================  |
 |  3. StableSwap Hybrid Invariant:                                                  |
-|     - Behaves like Constant Sum within normal 1:1 price peg band (Zero Slippage)  |
-|     - Dynamically shifts toward Constant Product at extremes to prevent drain     |
+|     
+
+- Behaves like Constant Sum within normal 1:1 price peg band (Zero Slippage)  |
+|     
+
+- Dynamically shifts toward Constant Product at extremes to prevent drain     |
 +-----------------------------------------------------------------------------------+
 ```
 
@@ -120,15 +131,29 @@ The most celebrated implementation of the StableSwap invariant is the **Curve 3p
 |                            THE CURVE 3POOL ARCHITECTURE                         |
 +---------------------------------------------------------------------------------+
 |  Collateral Reserves:                                                           |
-|  - DAI  (18 decimals) -> Normalized to 18 decimals                              |
-|  - USDC (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
-|  - USDT (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
+|  
+
+- DAI  (18 decimals) -> Normalized to 18 decimals                              |
+|  
+
+- USDC (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
+|  
+
+- USDT (6 decimals)  -> Scaled by 10^12 to 18 decimals                         |
 |                                                                                 |
 |  Operational Characteristics:                                                   |
-|  - Invariant Total Volume: D ~ $300,000,000                                    |
-|  - Amplification Coefficient: A = 2,000                                         |
-|  - Base Swap Fee: 0.04% (0.02% to LPs, 0.02% to veCRV holders)                  |
-|  - LP Receipt Token: 3Crv ([ERC-20](https://eips.ethereum.org/EIPS/eip-20) yielding trading fees + CRV rewards)          |
+|  
+
+- Invariant Total Volume: D ~ $300,000,000                                    |
+|  
+
+- Amplification Coefficient: A = 2,000                                         |
+|  
+
+- Base Swap Fee: 0.04% (0.02% to LPs, 0.02% to veCRV holders)                  |
+|  
+
+- LP Receipt Token: 3Crv ([ERC-20](https://eips.ethereum.org/EIPS/eip-20) yielding trading fees + CRV rewards)          |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -270,12 +295,11 @@ USDC traded down to $\$0.87$ on Curve. However, because USDC was an authentic, a
 
 ---
 
-
 ---
 
 ## crvUSD and LLAMMA: Continuous Soft Liquidation Architecture
 
-In 2023, Curve expanded its AMM technology into collateralized lending with the launch of **crvUSD** and the **Lending-Liquidating AMM Algorithm (LLAMMA)**, detailed in the [crvUSD Whitepaper](https://github.com/curvefi/curve-stablecoin/blob/master/doc/crvUSD.pdf).
+In 2023, Curve expanded its AMM technology into collateralized lending with the launch of **crvUSD ** and the ** Lending-Liquidating AMM Algorithm (LLAMMA)**, detailed in the [crvUSD Whitepaper](https://github.com/curvefi/curve-stablecoin/blob/master/doc/crvUSD.pdf).
 
 In traditional lending markets such as [[Aave](https://docs.aave.com/developers/) Protocol](https://aave.com), [[Compound Finance](https://docs.compound.finance/) Finance](https://compound.finance), and [Euler Finance](https://euler.finance), when collateral value breaches a liquidation threshold, an external liquidator triggers a discrete cliff liquidation. The borrower position is dumped on the open market, incurring heavy 5% to 10% penalty fees.
 

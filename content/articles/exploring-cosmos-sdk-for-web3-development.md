@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: exploring-cosmos-sdk-for-web3-development
 ---
-
 In the landscape of decentralized application engineering, smart contract platforms require developers to build within the execution boundaries of an existing virtual machine, such as the Ethereum Virtual Machine (EVM) or Solana Sealevel. While this model simplifies early deployment, it forces applications to accept fixed gas metering schedules, restricted execution runtimes, and shared network congestion.
 
 For engineering teams seeking total architectural autonomy, the [Cosmos SDK](https://docs.cosmos.network) provides an open-source, modular framework for building custom, sovereign application-specific blockchains in the [Go Programming Language](https://go.dev). Powered by the CometBFT consensus engine and the Inter-Blockchain Communication (IBC) protocol, the Cosmos SDK has become the foundational framework powering major networks such as [Osmosis](https://osmosis.zone), [Celestia](https://celestia.org), [dYdX Chain](https://dydx.exchange), [Injective](https://injective.com), and [Sei Network](https://sei.io).
@@ -27,17 +26,27 @@ The Cosmos SDK is designed around a strict separation of concerns between consen
 |                  Cosmos Stack System Boundary Mapping                   |
 +-------------------------------------------------------------------------+
 | Layer 3: Application Logic (Cosmos SDK Modules)                         |
-|   - Core modules: x/auth, x/bank, x/staking, x/gov, x/ibc               |
-|   - Custom business logic: Order books, oracles, privacy engines        |
+|   
+
+- Core modules: x/auth, x/bank, x/staking, x/gov, x/ibc               |
+|   
+
+- Custom business logic: Order books, oracles, privacy engines        |
 +-------------------------------------------------------------------------+
 | Interface: ABCI 2.0 (Application Blockchain Interface)                  |
-|   - PrepareProposal, ProcessProposal, VoteExtensions, FinalizeBlock     |
+|   
+
+- PrepareProposal, ProcessProposal, VoteExtensions, FinalizeBlock     |
 +-------------------------------------------------------------------------+
 | Layer 2: Consensus & Networking (CometBFT)                              |
-|   - P2P gossip protocol, Tendermint BFT consensus, validator sets       |
+|   
+
+- P2P gossip protocol, Tendermint BFT consensus, validator sets       |
 +-------------------------------------------------------------------------+
 | Layer 1: Cryptographic Ledger Storage                                   |
-|   - IAVL+ Merkle trees, LevelDB / RocksDB, state commitment roots       |
+|   
+
+- IAVL+ Merkle trees, LevelDB / RocksDB, state commitment roots       |
 +-------------------------------------------------------------------------+
 ```
 
@@ -64,22 +73,36 @@ ABCI 2.0 gives the application direct influence over block proposal and validato
 |                                |                                        |
 |                                v                                        |
 | 2. Proposer calls `PrepareProposal` on Cosmos SDK App                   |
-|    - App can reorder, insert, or prune transactions                     |
-|    - Injects in-consensus oracle prices or MEV auction bundles          |
+|    
+
+- App can reorder, insert, or prune transactions                     |
+|    
+
+- Injects in-consensus oracle prices or MEV auction bundles          |
 |                                |                                        |
 |                                v                                        |
 | 3. Validators call `ProcessProposal`                                    |
-|    - Validates proposed block integrity before voting                   |
+|    
+
+- Validates proposed block integrity before voting                   |
 |                                |                                        |
 |                                v                                        |
 | 4. Validators call `ExtendVote` during Precommit                        |
-|    - App generates non-deterministic data (e.g. price feeds)            |
-|    - Signs cryptographic vote extensions attached to precommit vote     |
+|    
+
+- App generates non-deterministic data (e.g. price feeds)            |
+|    
+
+- Signs cryptographic vote extensions attached to precommit vote     |
 |                                |                                        |
 |                                v                                        |
 | 5. CometBFT finalizes block, calls `FinalizeBlock`                      |
-|    - Combines BeginBlock, DeliverTx, EndBlock, and Commit               |
-|    - Deterministically applies state updates to IAVL storage            |
+|    
+
+- Combines BeginBlock, DeliverTx, EndBlock, and Commit               |
+|    
+
+- Deterministically applies state updates to IAVL storage            |
 +-------------------------------------------------------------------------+
 ```
 
@@ -138,8 +161,12 @@ The Cosmos SDK enforces security through an Object-Capability (object-cap) secur
 | [Custom Module: x/dex]                                                  |
 |    |                                                                    |
 |    +---> Requires: BankKeeper (Defined as strict Go interface)          |
-|    |     - SendCoins(ctx, sender, recipient, amt)                       |
-|    |     - (CANNOT call MintCoins or BurnCoins)                         |
+|    |     
+
+- SendCoins(ctx, sender, recipient, amt)                       |
+|    |     
+
+- (CANNOT call MintCoins or BurnCoins)                         |
 |    |                                                                    |
 | [Core Module: x/bank]                                                   |
 |    |                                                                    |

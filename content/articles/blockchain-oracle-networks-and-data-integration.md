@@ -13,7 +13,6 @@ tags:
   - Pyth Network
   - Chainlink
 ---
-
 # Blockchain Oracle Networks and Data Integration
 
 Smart contracts deployed across decentralized financial ecosystems govern tens of billions of dollars in collateralized loans, synthetic assets, perpetual futures, and algorithmic automated market makers. Because public state machines such as the [Ethereum Foundation](https://ethereum.org) execution layer, [Solana Protocol](https://solana.com), and the [Arbitrum Layer 2](https://arbitrum.io) are deterministic environments that cannot make external HTTP calls, protocols rely on decentralized oracle networks to inject off-chain market truth into on-chain storage.
@@ -43,7 +42,7 @@ Building resilient decentralized applications requires software engineers to und
 
 ## Push vs Pull Oracle Delivery Models
 
-The Web3 industry has bifurcated into two primary architectural patterns for delivering off-chain data to on-chain state: the **Push Model** and the **Pull Model**. Understanding their trade-offs is essential when designing decentralized architectures.
+The Web3 industry has bifurcated into two primary architectural patterns for delivering off-chain data to on-chain state: the **Push Model ** and the ** Pull Model**. Understanding their trade-offs is essential when designing decentralized architectures.
 
 ```
 +---------------------------------------------------------------------------------+
@@ -347,9 +346,15 @@ Even the most robust decentralized oracle network can experience edge-case anoma
 |     Delta = |P_1 - P_2| / Min(P_1, P_2)                                         |
 |                                                                                 |
 |  4. Execution Branches:                                                         |
-|     - If Delta <= 2.0%: Safe. Use Primary Price P_1 for liquidations & trading  |
-|     - If Delta >  2.0%: Discrepancy Alert. Freeze liquidations, pause borrowing |
-|     - If Primary Fails: Fall back to Secondary Price after emergency timelock   |
+|     
+
+- If Delta <= 2.0%: Safe. Use Primary Price P_1 for liquidations & trading  |
+|     
+
+- If Delta >  2.0%: Discrepancy Alert. Freeze liquidations, pause borrowing |
+|     
+
+- If Primary Fails: Fall back to Secondary Price after emergency timelock   |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -358,7 +363,6 @@ Protocols such as [Liquity Protocol](https://www.liquity.org) popularized dual-o
 If the primary oracle halts updates, reports a value outside historical volatility bands, or diverges from the secondary oracle by more than a predefined threshold, the smart contract automatically engages circuit-breaker protections. Liquidations and debt issuance are paused until price feeds reconverge, protecting borrowers from predatory liquidation cascades.
 
 ---
-
 
 ---
 

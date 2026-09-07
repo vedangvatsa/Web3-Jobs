@@ -8,7 +8,7 @@ image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man drawing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: The Marketing Guru of NFTs
 
@@ -26,7 +26,7 @@ His core skill has always been understanding where consumer attention is going a
 
 Unlike many who entered the space with a focus on finance or technology, Gary's perspective on Web3 is rooted in marketing, branding, and human behavior. His central thesis is that NFTs are not just about the art; they are about **access, community, and the creation of long-term intellectual property (IP).**### 1. The Real Value is Utility and Access
 
-For Gary, the "art" of an NFT is often the least important part. He consistently argues that the long-term value of an NFT project will be determined by the**utility** it provides to its holders.
+For Gary, the "art" of an NFT is often the least important part. He consistently argues that the long-term value of an NFT project will be determined by the **utility** it provides to its holders.
 
 * **NFTs as "Keys":** He views NFTs as digital keys that grant access to a community, events, information, or experiences. The NFT is the proof of membership.
 * **A New Kind of Membership Card:** Holding a specific NFT might grant you access to a private Discord server, a seat at an exclusive conference, a one-on-one meeting with the founder, or a free product. The more valuable the access, the more valuable the NFT "key."
@@ -63,16 +63,3 @@ Gary's content is always focused on providing practical, actionable advice. Here
 * **Focus on the "Who," Not Just the "What":** When evaluating a project, Gary places enormous emphasis on the founder and the team. He asks: Is the founder a long-term operator? Do they have a track record of execution? Are they communicating transparently with the community? He believes that in the long run, betting on good people is the best strategy.
 * **Provide Value First:** For brands entering the space, he warns against a simple "cash grab." He advises them to think about how they can use NFTs to provide real value to their existing customers. For example, a restaurant could issue an NFT that gives the holder a free dessert every time they visit.
 * **Patience is Key:** Gary constantly reminds his audience that Web3 is a long-term game. He compares the current state of NFTs to the early days of the internet. He advises people to be prepared for volatility and to focus on projects that are building for the next decade, not the next week.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-4. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

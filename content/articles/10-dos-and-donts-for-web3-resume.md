@@ -27,7 +27,11 @@ Hiring managers at crypto companies typically spend less than 15 seconds on init
 Web3 companies operate based on data. Transform vague descriptions into specific numbers:
 
 | Weak Statement | Strong Statement |
-|----------------|------------------|
+|
+
+----------------|
+
+------------------|
 | "Managed social media for a DeFi protocol" | "Grew protocol Twitter from a small following to a significant number in 6 months, generating a notable number of waitlist signups from a single thread." |
 | "Worked on smart contract security" | "Identified critical vulnerabilities in an audit of a protocol with significant value and filed multiple bug bounties, totaling substantial rewards." |
 | "Built frontend for crypto project" | "Developed a trading interface that handles a significant number of daily active users and substantial daily volume on Arbitrum." |
@@ -96,22 +100,21 @@ Many Web3 applications include a short text field or request a cover letter. Lea
 
 For a Web3 role, organize your resume as follows:
 
-1.**Contact + Links**(GitHub, relevant profiles, portfolio)
-2.**Summary**(2 sentences: your role and strongest credential)
-3.**Technical Skills**(specific tools, languages, frameworks)
-4.**Professional Experience**(reverse chronological, metrics-driven)
-5.**Web3 Community**(hackathons, governance, open-source)
-6.**Education** (brief, at the bottom)
+1.
 
-## Verifiable Primary Sources & References
+**Contact + Links**(GitHub, relevant profiles, portfolio)
+2.
 
-1. [Ethereum ERC-4626 Tokenized Vault Standard](https://eips.ethereum.org/EIPS/eip-4626)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
-7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
-8. [Chainlink Decentralized Oracle Networks Architecture Whitepaper](https://chain.link/whitepaper)
-9. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-10. [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
+**Summary**(2 sentences: your role and strongest credential)
+3.
+
+**Technical Skills**(specific tools, languages, frameworks)
+4.
+
+**Professional Experience**(reverse chronological, metrics-driven)
+5.
+
+**Web3 Community**(hackathons, governance, open-source)
+6.
+
+**Education** (brief, at the bottom)

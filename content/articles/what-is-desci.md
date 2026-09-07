@@ -7,11 +7,11 @@ description: >-
   funding models.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The scientific research field faces challenges that hinder its effectiveness. Centralized funding structures limit opportunities for new researchers outside elite institutions. Many research papers remain inaccessible due to high paywalls, stifling the dissemination of knowledge. Collaboration is often restricted by institutional barriers, leading to duplicated efforts and missed opportunities for joint discoveries. the peer review process is slow, with critical findings stalled in lengthy review cycles. The emphasis on publication counts for career advancement frequently prioritizes quantity over impactful research. These systemic issues create an environment where scientific progress is often hampered.
 
-**Decentralized Science (DeSci)**seeks to address these challenges by promoting a more open, equitable, and transparent scientific ecosystem. By using Web3 technologies, including decentralized autonomous organizations (DAOs), non-fungible tokens (NFTs), and decentralized storage, DeSci aims to create a public infrastructure that enhances scientific funding, peer review, and knowledge sharing.
+**Decentralized Science (DeSci)** seeks to address these challenges by promoting a more open, equitable, and transparent scientific ecosystem. By using Web3 technologies, including decentralized autonomous organizations (DAOs), non-fungible tokens (NFTs), and decentralized storage, DeSci aims to create a public infrastructure that enhances scientific funding, peer review, and knowledge sharing.
 
 This movement represents not just a technological shift but a fundamental rethinking of how science should operate. DeSci prioritizes accessibility, transparency, and democratization, building an environment where innovation can thrive.
 
@@ -47,8 +47,16 @@ Institutional competition often prevents effective collaboration across research
 
 DeSci promotes community-driven funding models that allow stakeholders to decide which research projects to support. Projects like VitaDAO exemplify this approach. VitaDAO focuses on longevity research, allowing its community members to vote on funding decisions. This model diversifies funding sources and reduces the influence of established institutions.
 
-|**Benefits of Community-Driven Funding**|**Description**|
-|------------------------------------------|-----------------|
+|
+
+**Benefits of Community-Driven Funding**|
+
+**Description**|
+|
+
+------------------------------------------|
+
+-----------------|
 | Wider Reach | Funds promising researchers outside traditional institutions. |
 | Collaborative Decision-Making | Reduces groupthink by involving diverse stakeholders. |
 | Accelerated Funding | Quick funding decisions minimize bureaucratic delays. |
@@ -58,16 +66,24 @@ DeSci promotes community-driven funding models that allow stakeholders to decide
 
 DeSci advocates for open access to scientific knowledge. Projects like PubDAO and the Rebus Foundation promote community-funded peer review and open publishing. By removing paywalls, these platforms ensure that research is accessible to everyone.
 
--**PubDAO**: A community-driven publisher that enables transparent, rapid peer review.
--**Rebus Foundation**: Offers a publishing infrastructure that supports open science.
--**NFT Licensing**: Research can be published with usage rights represented as NFTs, enabling broader access.
+- **PubDAO**: A community-driven publisher that enables transparent, rapid peer review.
+- **Rebus Foundation**: Offers a publishing infrastructure that supports open science.
+- **NFT Licensing**: Research can be published with usage rights represented as NFTs, enabling broader access.
 
 ### Verifiable and Transparent Research
 
 DeSci employs decentralized storage networks, such as IPFS and blockchain technology, to create transparent and auditable research records. This practice allows raw data and methodologies to be publicly available, ensuring findings can be verified and reproduced.
 
-|**Benefits of Transparent Research**|**Description** |
-|---------------------------------------|-----------------|
+|
+
+**Benefits of Transparent Research**|
+
+**Description** |
+|
+
+---------------------------------------|
+
+-----------------|
 | Publicly Accessible Data | Enables verification of research findings by anyone. |
 | Visible Methodologies | Enhances reproducibility through shared methods. |
 | Immutable Research Records | Prevents the suppression of negative results. |
@@ -90,16 +106,3 @@ NFTs and smart contracts offer new ways to manage intellectual property in resea
 - Shared commercialization rights among multiple stakeholders.
 - New funding mechanisms based on research outcomes.
 - Tracking and rewarding contributions throughout the research lifecycle.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

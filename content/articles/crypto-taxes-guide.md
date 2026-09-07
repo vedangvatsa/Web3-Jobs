@@ -8,7 +8,7 @@ description: >-
   and what.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 *Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*
 
@@ -25,21 +25,25 @@ The IRS classifies cryptocurrency as property rather than currency. This classif
 A taxable event occurs whenever you dispose of your cryptocurrency, resulting in either a capital gain or a capital loss. 
 
 Common taxable events include:
-- **Selling crypto for fiat currency:**For example, selling [Bitcoin](/what-is-bitcoin) for U.S. Dollars.
--**Trading one cryptocurrency for another:**For instance, trading [Ethereum](/what-is-ethereum) for Solana. This is not classified as a like-kind exchange.
--**Using crypto to purchase goods or services:**Such as buying a coffee with ETH.
+- **Selling crypto for fiat currency:** For example, selling [Bitcoin](/what-is-bitcoin) for U.S. Dollars.
+- **Trading one cryptocurrency for another:** For instance, trading [Ethereum](/what-is-ethereum) for Solana. This is not classified as a like-kind exchange.
+- **Using crypto to purchase goods or services:** Such as buying a coffee with ETH.
 
 ### What is NOT a Taxable Event?
 
 Several actions do not constitute taxable events:
--**Buying crypto with fiat currency:**For example, purchasing ETH with USD.
--**Holding ("HODLing") crypto:**While the value of your assets may increase, you only incur taxes when you sell or trade them (known as unrealized gains).
--**Donating crypto to a qualified charity.**-**Transferring crypto between your personal wallets.**### Calculating Capital Gains and Losses
+- **Buying crypto with fiat currency:** For example, purchasing ETH with USD.
+- **Holding ("HODLing") crypto:** While the value of your assets may increase, you only incur taxes when you sell or trade them (known as unrealized gains).
+- **Donating crypto to a qualified charity.**
+
+- **-** Transferring crypto between your personal wallets.**### Calculating Capital Gains and Losses
 
 To determine your capital gain or loss following a taxable event, use the following formula:**Formula:**`Fair Market Value - Cost Basis = Capital Gain or Loss`
 
--**Fair Market Value:**The price of the cryptocurrency (in USD) at the time of the transaction.
--**Cost Basis:**The original price you paid for the cryptocurrency, including any transaction fees.**Example:**1. You purchase 1 ETH for a certain amount (this represents your cost basis).
+- **Fair Market Value:** The price of the cryptocurrency (in USD) at the time of the transaction.
+- **Cost Basis:** The original price you paid for the cryptocurrency, including any transaction fees.
+
+**Example:** 1. You purchase 1 ETH for a certain amount (this represents your cost basis).
 2. A year later, you exchange that 1 ETH for another [token](/what-is-a-token). At the time of the trade, the fair market value of your 1 ETH is higher than your cost basis.
 3. Calculate your capital gain: Higher fair market value - Cost Basis = Capital Gain.
 4. You would owe capital gains tax on the profit.
@@ -47,8 +51,8 @@ To determine your capital gain or loss following a taxable event, use the follow
 ### Short-Term vs. Long-Term Capital Gains
 
 The tax rate you pay is influenced by the duration for which you hold the asset.
--**Short-Term Capital Gains:**If you hold the cryptocurrency for**one year or less**, the profit is taxed as ordinary income, at your regular income tax rate.
--**Long-Term Capital Gains:**If you hold the cryptocurrency for**more than one year**, the profit is taxed at a lower long-term capital gains rate (0%, 15%, or 20%, depending on your income level).
+- **Short-Term Capital Gains:** If you hold the cryptocurrency for **one year or less**, the profit is taxed as ordinary income, at your regular income tax rate.
+- **Long-Term Capital Gains:** If you hold the cryptocurrency for **more than one year**, the profit is taxed at a lower long-term capital gains rate (0%, 15%, or 20%, depending on your income level).
 
 This structure incentivizes individuals to hold assets for longer than one year.
 
@@ -58,24 +62,17 @@ Engaging in [DeFi](/what-is-defi) activities like [staking](/how-to-become-a-web
 
 ### Tools for Crypto Taxes
 
-Tracking every transaction can be nearly impossible without specialized tools. A range of crypto tax software has emerged to assist with this challenge. These tools connect to your exchange accounts and wallets via API to automatically track your cost basis and generate necessary tax forms.**Popular Tools:**
+Tracking every transaction can be nearly impossible without specialized tools. A range of crypto tax software has emerged to assist with this challenge. These tools connect to your exchange accounts and wallets via API to automatically track your cost basis and generate necessary tax forms.
+
+**Popular Tools:**
 | Tool | Features |
-|--------------|---------------------------------------------|
+|
+
+--------------|
+
+---------------------------------------------|
 | CoinLedger | Automated tax reporting, integration with exchanges |
 | Koinly | Multi-country support, full tax reports |
 | TokenTax | Tax calculation, integration with wallets and exchanges |
 
 Tracking your transactions is essential for compliance. Understanding how crypto is treated as property, recognizing taxable events, and distinguishing between short-term and long-term gains will help you manage your obligations. Keep thorough records, consider using specialized software, and consult a tax professional when required.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solana Core Architecture Documentation](https://docs.solana.com/)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

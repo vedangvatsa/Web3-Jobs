@@ -13,7 +13,6 @@ tags:
   - Smart Contract Security
   - Developer Roadmap
 ---
-
 # Building Career Paths for Web3 Privacy Engineers
 
 As decentralized ledgers transition from speculative trading platforms into global institutional settlement layers, the industry faces an architectural paradox: radical transparency guarantees verifiable auditability, but completely destroys commercial confidentiality and user autonomy. Transparent blockchains such as the [Ethereum Foundation](https://ethereum.org) execution layer and the [Bitcoin Network](https://bitcoin.org) broadcast every financial balance, smart contract parameter, corporate payroll distribution, and trading execution to the entire world.
@@ -200,20 +199,36 @@ Recruiters and engineering directors in Web3 privacy prioritize verifiable open-
 |                     RECOMMENDED PORTFOLIO BLUEPRINTS                            |
 +---------------------------------------------------------------------------------+
 |  Project 1: ERC-5564 Stealth Address Payment Gateway                            |
-|             - Generates one-time stealth addresses via secp256k1 Diffie-Hellman |
-|             - Integrates client-side scanning via view tags to minimize latency |
+|             
+
+- Generates one-time stealth addresses via secp256k1 Diffie-Hellman |
+|             
+
+- Integrates client-side scanning via view tags to minimize latency |
 |                                                                                 |
 |  Project 2: Semaphore-Based Anonymous Governance Module                         |
-|             - Proves membership in a voter Merkle tree using Poseidon hashing   |
-|             - Implements nullifier generation to enforce one-vote-per-person    |
+|             
+
+- Proves membership in a voter Merkle tree using Poseidon hashing   |
+|             
+
+- Implements nullifier generation to enforce one-vote-per-person    |
 |                                                                                 |
 |  Project 3: Privacy Pools Exclusion Prover                                      |
-|             - Implements dual-Merkle-tree zk-SNARK using Noir or Circom         |
-|             - Proves inclusion in good set and exclusion from sanctioned set    |
+|             
+
+- Implements dual-Merkle-tree zk-SNARK using Noir or Circom         |
+|             
+
+- Proves inclusion in good set and exclusion from sanctioned set    |
 |                                                                                 |
 |  Project 4: Benchmarked zkVM Micro-Service                                      |
-|             - Compiles a non-trivial Rust library into RISC Zero or SP1         |
-|             - Benchmarks cycle counts, memory footprints, and GPU proving times |
+|             
+
+- Compiles a non-trivial Rust library into RISC Zero or SP1         |
+|             
+
+- Benchmarks cycle counts, memory footprints, and GPU proving times |
 +---------------------------------------------------------------------------------+
 ```
 

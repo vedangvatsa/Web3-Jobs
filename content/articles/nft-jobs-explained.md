@@ -92,7 +92,11 @@ Not all NFT projects are worth pursuing. Some are truly new, while others are sp
 ### Positive Indicators
 
 | Indicator | Description |
-|----------------------------------------------------|--------------------------------------------------------------------------------------------------|
+|
+
+----------------------------------------------------|
+
+--------------------------------------------------------------------------------------------------|
 | Problem-Solving Focus | The project addresses a concrete issue, such as establishing standards for digital ownership. |
 | Experienced Team | The team has a track record of delivering products and possesses credibility in their field. |
 | Logical Tokenomics | The incentive structure promotes sustainable behaviors among users and developers. |
@@ -131,16 +135,3 @@ Despite market skepticism, NFT roles offer real opportunities. Digital ownership
 Choosing the right projects is vital. Focus on NFTs that address real-world problems rather than speculative assets. Collaborate with teams that possess credibility and a clear vision. Your reputation is important, so approach this sector with a discerning mindset.
 
 NFT careers can be viable for individuals who are serious and critical, prioritizing substance over hype.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum EIP-1155 Multi-Token Standard Specification](https://eips.ethereum.org/EIPS/eip-1155)
-3. [Ethereum EIP-2981 NFT Royalty Standard Specification](https://eips.ethereum.org/EIPS/eip-2981)
-4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
-8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

@@ -49,7 +49,7 @@ While a finance background can be beneficial, it is not a strict requirement. Ma
 
 DeFi projects require significant infrastructure support beyond smart contracts. Backend and full-stack developers create servers, databases, and other systems that enable the functioning of applications.
 
-These roles mirror traditional engineering positions but specifically cater to DeFi applications. Proficiency in languages such as Python, Go, Rust, or Node.js is essential. Compensation for backend developers typically falls within a competitive range.
+These roles mirror traditional engineering positions but specifically cater to DeFi applications. Proficiency in languages such as Python, Go, Rust, or Node.js is essential. Compensation for backend developers typically ranges from $110,000 to $175,000 annually.
 
 ### Frontend Developers
 
@@ -61,7 +61,7 @@ Candidates skilled in building applications with React and familiar with [web3](
 
 DeFi protocols produce extensive on-chain data, necessitating skilled data and analytics engineers who can extract valuable insights. This work may involve creating queries, building dashboards, or developing data pipelines.
 
-Proficiency in SQL, Python, or data engineering tools is essential for these roles. Compensation typically falls within a competitive range.
+Proficiency in SQL, Python, or data engineering tools is essential for these roles. Compensation typically ranges from $100,000 to $165,000 annually.
 
 ### Operations and Business Development
 
@@ -136,16 +136,3 @@ DeFi positions exist in a high-growth sector, presenting intellectual challenges
 The compensation is attractive, and the potential for learning is substantial. The DeFi industry remains sufficiently nascent that exceptional performance can lead to significant career advancement and reputation building.
 
 However, the volatility and risks associated with the sector must be considered. Companies may fail, markets may crash, and token compensation can lose value. For those who believe in the future of decentralized finance and want to tackle novel challenges, the opportunities are real.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-7. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
-8. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-9. [Solana Core Architecture Documentation](https://docs.solana.com/)
-10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)

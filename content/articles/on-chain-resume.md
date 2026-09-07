@@ -17,52 +17,43 @@ An on-chain resume is not merely a document; it represents a public record of yo
 
 Your on-chain resume tells a story through your public wallet address, ideally represented by a human-readable ENS name like `yourname.eth`(/what-is-ethereum). Using a block explorer such as Etherscan, anyone, including recruiters, can access the following information:
 
--**Interaction History:**This reveals which protocols you have engaged with. Have you merely used Uniswap once, or are you actively involved in complex [DeFi](/what-is-defi) strategies? This indicates your practical experience level.
+- **Interaction History:** This reveals which protocols you have engaged with. Have you merely used Uniswap once, or are you actively involved in complex [DeFi](/what-is-defi) strategies? This indicates your practical experience level.
 
--**Governance Participation:**Your voting record in major DAO governance proposals and whether you've delegated your voting power indicates your engagement level as a stakeholder.
+- **Governance Participation:** Your voting record in major DAO governance proposals and whether you've delegated your voting power indicates your engagement level as a stakeholder.
 
--**NFT Collection:**The NFTs you mint and collect reflect your taste and understanding of the culture. Are you investing in art from emerging artists, or merely trading popular projects?
+- **NFT Collection:** The NFTs you mint and collect reflect your taste and understanding of the culture. Are you investing in art from emerging artists, or merely trading popular projects?
 
--**Contributions:**Payments received from DAOs for completing tasks or minting a POAP (Proof of Attendance Protocol) for attending a significant event serve as verifiable proof of your involvement.
+- **Contributions:** Payments received from DAOs for completing tasks or minting a POAP (Proof of Attendance Protocol) for attending a significant event serve as verifiable proof of your involvement.
 
 ### The Importance of Your On-Chain Resume
 
--**Authenticity and Verification:**Unlike traditional resumes, an on-chain history cannot be fabricated. It provides an immutable record of your actions.
+- **Authenticity and Verification:** Unlike traditional resumes, an on-chain history cannot be fabricated. It provides an immutable record of your actions.
 
--**Expertise Indicators:**A wallet with interactions in advanced DeFi protocols, governance [tokens](/what-is-a-token), and a thoughtful voting history signals a high level of expertise.
+- **Expertise Indicators:** A wallet with interactions in advanced DeFi protocols, governance [tokens](/what-is-a-token), and a thoughtful voting history signals a high level of expertise.
 
--**Cultural Engagement:**Your on-chain activities demonstrate that you are an active participant in the ecosystem, showing your deep understanding of its culture.
+- **Cultural Engagement:** Your on-chain activities demonstrate that you are an active participant in the ecosystem, showing your deep understanding of its culture.
 
 ### Building Your On-Chain Resume
 
-Creating a strong on-chain resume requires intentional actions. It involves curating your public wallet to function as a professional [portfolio](/building-web3-portfolio).**1. Register an ENS Name:**Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.**2. Engage Actively:**-**Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
+Creating a strong on-chain resume requires intentional actions. It involves curating your public wallet to function as a professional [portfolio](/building-web3-portfolio).**1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.**2. Engage Actively:**
 
--**Participate in Governance:**This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
+- **-** Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
 
--**Collect POAPs:**POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.**3. Maintain Separate Wallets:**It's beneficial to have distinct wallets for different purposes:
--**"Resume" Wallet:**Your public-facing wallet linked to your ENS name should contain high-signal, professional activities.
+- **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
 
--**"Degen" Wallet:**Use a separate wallet for risky experiments or trading meme coins.
+- **Collect POAPs:** POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.**3. Maintain Separate Wallets:** It's beneficial to have distinct wallets for different purposes:
+- **"Resume" Wallet:** Your public-facing wallet linked to your ENS name should contain high-signal, professional activities.
 
--**"Vault":**Store your most valuable assets in a hardware wallet for security.**4. Highlight Your Contributions:**-**DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
+- **"Degen" Wallet:** Use a separate wallet for risky experiments or trading meme coins.
 
--**Gitcoin Grants:** Supporting public goods projects through Gitcoin Grants sends a strong signal about your commitment to the ecosystem's health.
+- **"Vault":** Store your most valuable assets in a hardware wallet for security.**4. Highlight Your Contributions:**
+
+- **-** DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
+
+- **Gitcoin Grants:** Supporting public goods projects through Gitcoin Grants sends a strong signal about your commitment to the ecosystem's health.
 
 ### The Evolution of Professional Reputation
 
 As the Web3 sector grows, your on-chain resume may gain even more significance. New protocols are emerging that enable users to attach attestations and verifiable credentials to their wallets. This could allow for a rich and user-owned professional identity, encompassing your university degree, work history, and professional certifications.
 
 The rise of the on-chain resume marks a significant shift away from unverifiable claims. Instead, your reputation will reflect your public actions. For Web3 professionals, the message is clear: the most impactful story is the one documented on the blockchain.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-10. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)

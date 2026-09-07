@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: blockchain-based-voting-systems-and-their-real-world-impact
 ---
-
 Voting represents the foundational mechanism for collective decision-making, power delegation, and capital allocation across human institutions, from sovereign nation-state democracies to publicly traded corporate boards and decentralized autonomous organizations. 
 
 Yet traditional voting infrastructure suffers from persistent structural vulnerabilities: paper ballots require expensive physical logistics and manual auditing; electronic voting machines operate as proprietary black boxes susceptible to undetected software corruption; and corporate proxy voting systems are plagued by record-keeping discrepancies and opaque intermediaries.
@@ -127,21 +126,33 @@ To restore coercion resistance to digital voting, Ethereum Foundation researcher
 |                                |                                        |
 |                                v                                        |
 | 3. Voter submits encrypted state command changing key to Key B          |
-|    - Command is encrypted using Coordinator's public key                |
-|    - Briber CANNOT read the transaction payload on-chain                 |
+|    
+
+- Command is encrypted using Coordinator's public key                |
+|    
+
+- Briber CANNOT read the transaction payload on-chain                 |
 |                                |                                        |
 |                                v                                        |
 | 4. Voter submits final vote "NO" using Key B                            |
 |                                |                                        |
 |                                v                                        |
 | 5. Central Coordinator processes all encrypted commands in batch        |
-|    - Replaces Key A with Key B                                          |
-|    - Tallies vote "NO" as canonical                                     |
-|    - Generates Groth16 ZK-SNARK proof of correct execution              |
+|    
+
+- Replaces Key A with Key B                                          |
+|    
+
+- Tallies vote "NO" as canonical                                     |
+|    
+
+- Generates Groth16 ZK-SNARK proof of correct execution              |
 |                                |                                        |
 |                                v                                        |
 | 6. L1 Verifier Contract verifies ZK-SNARK proof and finalizes result    |
-|    - Briber cannot determine whether Key A was valid or superseded      |
+|    
+
+- Briber cannot determine whether Key A was valid or superseded      |
 +-------------------------------------------------------------------------+
 ```
 

@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: cosmos-blockchain-and-inter-blockchain-communication
 ---
-
 The foundational architectural divide in distributed ledger technology centers on a fundamental philosophical choice: should decentralized applications exist as smart contract tenants on a shared, monolithic virtual machine, or should each application operate its own sovereign, purpose-built blockchain?
 
 While the [Ethereum Foundation](https://ethereum.org) prioritized a unified global state machine, the creators of the [Cosmos Network](https://cosmos.network) introduced an alternative paradigm: the "Internet of Blockchains." Under this model, scalability, customizability, and sovereignty are achieved not by forcing applications to compete for execution bandwidth on a single base layer, but by enabling an interconnected web of autonomous, application-specific blockchains (app-chains) communicating trustlessly through the Inter-Blockchain Communication (IBC) protocol.
@@ -27,16 +26,32 @@ To understand why protocols migrate to sovereign blockchains, one must examine t
 |                  Shared VM vs Sovereign App-Chain Model                 |
 +-------------------------------------------------------------------------+
 | SHARED SMART CONTRACT ENVIRONMENT (Ethereum, Arbitrum, Solana)          |
-|   - Applications share gas limits, state trie, and validator rules      |
-|   - Gas spikes from external NFT mints or memecoins impact all dApps    |
-|   - Governance is dictated by the base layer community                  |
-|   - Hard forks to fix catastrophic application bugs are impossible      |
+|   
+
+- Applications share gas limits, state trie, and validator rules      |
+|   
+
+- Gas spikes from external NFT mints or memecoins impact all dApps    |
+|   
+
+- Governance is dictated by the base layer community                  |
+|   
+
+- Hard forks to fix catastrophic application bugs are impossible      |
 +-------------------------------------------------------------------------+
 | SOVEREIGN COSMOS APP-CHAIN (Osmosis, dYdX v4, Injective, Celestia)      |
-|   - Dedicated blockspace and zero competition from unrelated dApps      |
-|   - Custom transaction fee tokens (or zero-fee gas models)              |
-|   - Tailored state machine logic implemented directly in native Go      |
-|   - Self-governing validator set and application-specific hard forks    |
+|   
+
+- Dedicated blockspace and zero competition from unrelated dApps      |
+|   
+
+- Custom transaction fee tokens (or zero-fee gas models)              |
+|   
+
+- Tailored state machine logic implemented directly in native Go      |
+|   
+
+- Self-governing validator set and application-specific hard forks    |
 +-------------------------------------------------------------------------+
 ```
 
@@ -114,15 +129,29 @@ IBC is architected into two foundational layers: the TAO (Transport, Authenticat
 |                       The IBC Layered Architecture                      |
 +-------------------------------------------------------------------------+
 | Application Layer:                                                      |
-|   - ICS-20: Fungible Token Transfers                                    |
-|   - ICS-27: Interchain Accounts (Cross-chain contract execution)        |
-|   - ICS-721: Non-Fungible Token Transfers                               |
+|   
+
+- ICS-20: Fungible Token Transfers                                    |
+|   
+
+- ICS-27: Interchain Accounts (Cross-chain contract execution)        |
+|   
+
+- ICS-721: Non-Fungible Token Transfers                               |
 +-------------------------------------------------------------------------+
 | Transport, Authentication, and Ordering (TAO) Layer:                    |
-|   - Clients: On-chain light clients verifying counterparty state roots  |
-|   - Connections: Cryptographic pairing between two distinct chains      |
-|   - Channels: Ordered or unordered data pipelines between modules       |
-|   - Packets: Opaque byte payloads containing sequence numbers & proofs  |
+|   
+
+- Clients: On-chain light clients verifying counterparty state roots  |
+|   
+
+- Connections: Cryptographic pairing between two distinct chains      |
+|   
+
+- Channels: Ordered or unordered data pipelines between modules       |
+|   
+
+- Packets: Opaque byte payloads containing sequence numbers & proofs  |
 +-------------------------------------------------------------------------+
 ```
 
@@ -145,22 +174,42 @@ To transport packets between chains, the IBC ecosystem relies on off-chain relay
 |                       End-to-End IBC Packet Flow                        |
 +-------------------------------------------------------------------------+
 | 1. User on Chain A calls ICS-20 transfer module                         |
-|    - Tokens locked/escrowed on Chain A                                  |
-|    - Chain A writes packet commitment to its local IAVL state tree      |
-|    - Emits `send_packet` event                                          |
+|    
+
+- Tokens locked/escrowed on Chain A                                  |
+|    
+
+- Chain A writes packet commitment to its local IAVL state tree      |
+|    
+
+- Emits `send_packet` event                                          |
 |                                                                         |
 | 2. Off-Chain Relayer (Hermes) detects event via WebSocket               |
-|    - Queries Chain A for packet payload & Merkle membership proof       |
-|    - Constructs `MsgRecvPacket` transaction                             |
+|    
+
+- Queries Chain A for packet payload & Merkle membership proof       |
+|    
+
+- Constructs `MsgRecvPacket` transaction                             |
 |                                                                         |
 | 3. Relayer submits `MsgRecvPacket` to Chain B                           |
-|    - Chain B light client verifies Chain A validator signatures         |
-|    - Chain B verifies Merkle proof against stored state root of Chain A |
-|    - Chain B mints voucher tokens and writes packet acknowledgement     |
+|    
+
+- Chain B light client verifies Chain A validator signatures         |
+|    
+
+- Chain B verifies Merkle proof against stored state root of Chain A |
+|    
+
+- Chain B mints voucher tokens and writes packet acknowledgement     |
 |                                                                         |
 | 4. Relayer queries acknowledgement proof on Chain B                     |
-|    - Submits `MsgAcknowledgement` back to Chain A                       |
-|    - Chain A clears pending commitment from storage                     |
+|    
+
+- Submits `MsgAcknowledgement` back to Chain A                       |
+|    
+
+- Chain A clears pending commitment from storage                     |
 +-------------------------------------------------------------------------+
 ```
 
@@ -193,17 +242,31 @@ To solve this cold-start problem, the Cosmos ecosystem introduced Interchain Sec
 |                  Replicated Security (Cosmos Hub Provider)              |
 +-------------------------------------------------------------------------+
 |  Cosmos Hub (Provider Chain)                                            |
-|    - Securing billions in staked ATOM capital                           |
-|    - Top 100+ professional validator set                                |
+|    
+
+- Securing billions in staked ATOM capital                           |
+|    
+
+- Top 100+ professional validator set                                |
 |         |                                                               |
 |         +---> IBC CCV (Cross-Chain Validation) Protocol                 |
-|         |     - Continuously streams validator set updates & power      |
-|         |     - Coordinates slashing for downtime and double-signing    |
+|         |     
+
+- Continuously streams validator set updates & power      |
+|         |     
+
+- Coordinates slashing for downtime and double-signing    |
 |         v                                                               |
 |  Consumer Chains (Neutron, Stride, Duality)                             |
-|    - Run application logic with zero native validator bootstrapping     |
-|    - 100% secured by Cosmos Hub ATOM stake                              |
-|    - Pay gas fees / block rewards to Cosmos Hub stakers                 |
+|    
+
+- Run application logic with zero native validator bootstrapping     |
+|    
+
+- 100% secured by Cosmos Hub ATOM stake                              |
+|    
+
+- Pay gas fees / block rewards to Cosmos Hub stakers                 |
 +-------------------------------------------------------------------------+
 ```
 

@@ -16,23 +16,59 @@ The Chicago Web3 scene is populated by some of the most sophisticated crypto tra
 
 Chicago's crypto ecosystem reflects its identity as a global financial trading hub.
 
-| **Feature**|**Details**|
-|-------------------------------------------|-------------------------------------------------------------------------------------------------------------------------|
-|**Quantitative Trading Firms**| Major players like Jump Crypto and Cumberland DRW provide liquidity to global crypto markets and invest in Web3 infrastructure. |
-|**DeFi Projects**| The city hosts projects focused on decentralized derivatives exchanges and complex financial primitives. |
-|**Connection to Traditional Finance**| Institutions like the CME (Chicago Mercantile Exchange) are involved in crypto derivatives, linking traditional finance with crypto. |
-|**Talent Pool**| A rich pool of professionals skilled in high-frequency trading and risk management, directly applicable to the DeFi sector. |
+| 
+
+**Feature**|
+
+**Details**|
+|
+
+-------------------------------------------|
+
+-------------------------------------------------------------------------------------------------------------------------|
+|
+
+**Quantitative Trading Firms**| Major players like Jump Crypto and Cumberland DRW provide liquidity to global crypto markets and invest in Web3 infrastructure. |
+|
+
+**DeFi Projects**| The city hosts projects focused on decentralized derivatives exchanges and complex financial primitives. |
+|
+
+**Connection to Traditional Finance**| Institutions like the CME (Chicago Mercantile Exchange) are involved in crypto derivatives, linking traditional finance with crypto. |
+|
+
+**Talent Pool**| A rich pool of professionals skilled in high-frequency trading and risk management, directly applicable to the DeFi sector. |
 
 ### In-Demand Roles and Salary Expectations
 
 The competitive job market in Chicago offers lucrative salaries, particularly for those with backgrounds in quantitative finance or low-latency systems engineering.
 
-|**Role**|**Description**|**Salary Range**|
-|--------------------------------------------|-------------------------------------------------------------------------------------------------------------------|-------------------------------------|
-|**Quantitative Trader / Researcher**| Professionals who design and implement automated trading strategies for crypto hedge funds. | Competitive compensation |
-|**Smart Contract Engineer**| Developers focused on building secure and optimized smart contracts for DeFi applications. | Competitive compensation |
-|**Low-Latency Software Engineer**| Engineers who develop high-performance off-chain systems for market making and arbitrage. | Competitive compensation |
-|**Business Development / Institutional Sales**| Professionals who establish relationships and sell trading or DeFi products to financial institutions. | Competitive compensation |
+|
+
+**Role**|
+
+**Description**|
+
+**Salary Range**|
+|
+
+--------------------------------------------|
+
+-------------------------------------------------------------------------------------------------------------------|
+
+-------------------------------------|
+|
+
+**Quantitative Trader / Researcher**| Professionals who design and implement automated trading strategies for crypto hedge funds. | Competitive compensation |
+|
+
+**Smart Contract Engineer**| Developers focused on building secure and optimized smart contracts for DeFi applications. | Competitive compensation |
+|
+
+**Low-Latency Software Engineer**| Engineers who develop high-performance off-chain systems for market making and arbitrage. | Competitive compensation |
+|
+
+**Business Development / Institutional Sales**| Professionals who establish relationships and sell trading or DeFi products to financial institutions. | Competitive compensation |
 
 ### Building a Web3 Career in Chicago
 
@@ -44,8 +80,8 @@ A quantitative or traditional finance background provides an immediate advantage
 
 In the quantitative trading sector, demonstrating your ability to generate returns, or "alpha," is vital. Create a portfolio that highlights your analytical skills. Consider the following steps:
 
--**For Quants/Analysts:**Publish a research paper addressing a DeFi market inefficiency. Construct a Dune Analytics dashboard that tracks a specific on-chain trading metric.
--**For Engineers:** Develop a market-making or arbitrage bot on a testnet. Contribute to an open-source DeFi protocol.
+- **For Quants/Analysts:** Publish a research paper addressing a DeFi market inefficiency. Construct a Dune Analytics dashboard that tracks a specific on-chain trading metric.
+- **For Engineers:** Develop a market-making or arbitrage bot on a testnet. Contribute to an open-source DeFi protocol.
 
 #### Networking
 
@@ -58,16 +94,3 @@ The culture in these organizations prioritizes high-performance and reliable sys
 ### Finding Your Web3 Job in Chicago
 
 For those ready to contribute to the decentralized economy at the highest level, the Chicago job market offers a wealth of opportunities. Explore the latest roles on our [Web3 job board](/jobs). Chicago provides a unique career path for professionals who excel in fast-paced, quantitative, market-driven environments.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [Dune Analytics Public Web3 Data Engine](https://dune.com/docs/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

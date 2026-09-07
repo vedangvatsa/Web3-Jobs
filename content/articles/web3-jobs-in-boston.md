@@ -18,18 +18,24 @@ Boston's Web3 ecosystem mirrors its core strengths: academic excellence and fina
 
 - **Academic and Research Hub**: Boston hosts some of the brightest minds in computer science and cryptography. MIT is a key player in Web3 innovation, with its [Bitcoin](/what-is-bitcoin) Club recognized as one of the oldest and most influential globally. This concentration of talent creates a significant demand for research-focused roles.
 
--**Connection to Traditional Finance**: As a major center for asset management and financial services, Boston is key for companies bridging Traditional Finance (TradFi) and [DeFi](/what-is-defi). Numerous projects focus on institutional custody, digital asset management, and compliant DeFi solutions.
+- **Connection to Traditional Finance**: As a major center for asset management and financial services, Boston is key for companies bridging Traditional Finance (TradFi) and [DeFi](/what-is-defi). Numerous projects focus on institutional custody, digital asset management, and compliant DeFi solutions.
 
--**Technical Talent Pool**: The city's growing tech and biotech sectors have cultivated a wealth of experienced engineers, data scientists, and quantitative analysts who are increasingly attracted to the complex challenges presented by Web3.
+- **Technical Talent Pool**: The city's growing tech and biotech sectors have cultivated a wealth of experienced engineers, data scientists, and quantitative analysts who are increasingly attracted to the complex challenges presented by Web3.
 
--**Community Engagement**: The Boston Web3 community emphasizes technical discussions over marketing hype. Events and meetups often center on research papers and in-depth protocol debates, creating an excellent environment for serious developers and researchers.
+- **Community Engagement**: The Boston Web3 community emphasizes technical discussions over marketing hype. Events and meetups often center on research papers and in-depth protocol debates, creating an excellent environment for serious developers and researchers.
 
 ### In-Demand Roles and Salary Expectations
 
 The job market in Boston is particularly favorable for technical and research-oriented roles. Companies are willing to offer competitive salaries to candidates with strong academic backgrounds and specialized expertise.
 
 | Role | Experience Level | Salary Range |
-|-------------------------------------|-------------------------|---------------------|
+|
+
+-------------------------------------|
+
+-------------------------|
+
+---------------------|
 | Protocol Researcher / Cryptographer | PhD-Level | Competitive |
 | Smart Contract & Protocol Engineer | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
@@ -38,17 +44,25 @@ The job market in Boston is particularly favorable for technical and research-or
 
 ### Building a Web3 Career in Boston
 
-1.**Use Your Academic Background**: A degree from a top university, especially in a technical discipline, provides a significant advantage. Highlight your research skills, ability to tackle complex topics, and any published work.
+1.
 
-2.**Engage with the Academic Community**: The academic environment is the heart of Boston's Web3 scene.
- -**Attend Seminars**: Participate in public talks organized by the MIT Digital Currency Initiative and other university labs.
- -**Join Hackathons**: Events like the MIT Bitcoin Expo and its associated hackathon are significant recruiting opportunities.
+**Use Your Academic Background**: A degree from a top university, especially in a technical discipline, provides a significant advantage. Highlight your research skills, ability to tackle complex topics, and any published work.
 
-3.**Create a Research-Oriented [Portfolio](/building-web3-portfolio)**: Your portfolio should demonstrate the intellectual rigor expected in Boston's ecosystem.
- -**Engineers**: Contribute to an essential research project or write a technical analysis of a new cryptographic primitive.
- -**Quantitative Analysts/Product Managers**: Produce a research paper or a detailed analysis of a DeFi protocol's economic security.
+2.
 
-4.**Network with Substance**: Networking in Boston focuses on meaningful technical conversations. Attend meetups prepared to discuss the latest research and engage in technical debates.
+**Engage with the Academic Community**: The academic environment is the heart of Boston's Web3 scene.
+ - **Attend Seminars**: Participate in public talks organized by the MIT Digital Currency Initiative and other university labs.
+ - **Join Hackathons**: Events like the MIT Bitcoin Expo and its associated hackathon are significant recruiting opportunities.
+
+3.
+
+**Create a Research-Oriented [Portfolio](/building-web3-portfolio)**: Your portfolio should demonstrate the intellectual rigor expected in Boston's ecosystem.
+ - **Engineers**: Contribute to an essential research project or write a technical analysis of a new cryptographic primitive.
+ - **Quantitative Analysts/Product Managers**: Produce a research paper or a detailed analysis of a DeFi protocol's economic security.
+
+4.
+
+**Network with Substance**: Networking in Boston focuses on meaningful technical conversations. Attend meetups prepared to discuss the latest research and engage in technical debates.
 
 ### Job Opportunities in Boston's Web3 Sector
 
@@ -57,21 +71,14 @@ The demand for Web3 professionals continues to grow, with companies actively see
 Boston's Web3 job market offers a unique blend of opportunities due to the city's academic strength and finance background. Engaging with local projects can enable career advancements. The following table outlines potential employers and their focus areas within the Web3 space.
 
 | Company Name | Focus Area | Notable Projects |
-|----------------------|-----------------------------------------|----------------------------------------------------|
+|
+
+----------------------|
+
+-----------------------------------------|
+
+----------------------------------------------------|
 | Circle | Digital currency and payments | USDC stablecoin |
 | State Street | Asset management and custodial services | Institutional custody solutions for digital assets |
 | Algorand | Blockchain protocol development | Scalable blockchain solutions |
 | BlockFi | Crypto financial services | Interest accounts and crypto-backed loans |
-
-## Verifiable Primary Sources & References
-
-1. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-2. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-3. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
-9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
-10. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)

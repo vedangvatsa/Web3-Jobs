@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: how-to-transition-from-web2-to-web3-developer-transition
 ---
-
 Transitioning from conventional web software engineering into decentralized systems is often mischaracterized as starting one's technical career from scratch. In reality, experienced software engineers already possess the foundational competencies required to build production software: data structures, algorithmic efficiency, asynchronous event processing, relational modeling, and continuous integration workflows.
 
 However, moving from Web2 to Web3 demands an inversion of core architectural assumptions. In enterprise cloud computing, engineers operate with privileged database access, mutable records, private networks, and centralized identity providers. In Web3, software executes on distributed, adversarial virtual machines where code is publicly inspectable, state changes are irreversible, every computational operation incurs real economic transaction fees (gas), and failure modes involve catastrophic financial drainage rather than benign server error logs.
@@ -77,8 +76,12 @@ In public blockchain networks, transactions sit in an unconfirmed mempool prior 
 |  User Signs Tx ---> Public Mempool (EVM Pending State)                  |
 |                           |                                             |
 |                           +---> MEV Searchers (Arbitrage / Frontrun)    |
-|                           |     - Sandwich attacks via Slippage         |
-|                           |     - Liquidations & DEX Arbitrage          |
+|                           |     
+
+- Sandwich attacks via Slippage         |
+|                           |     
+
+- Liquidations & DEX Arbitrage          |
 |                           v                                             |
 |                     Block Builder (Flashbots MEV-Boost)                 |
 |                           |                                             |
@@ -264,16 +267,24 @@ For an experienced software engineer committing 10 to 15 hours per week, this st
 |                  12-Week Web2 to Web3 Transition Plan                   |
 +-------------------------------------------------------------------------+
 |  Weeks 1 - 3: Blockchain Fundamentals & EVM Mechanics                   |
-|  - Cryptography, Proof of Stake consensus, storage layouts, Etherscan   |
+|  
+
+- Cryptography, Proof of Stake consensus, storage layouts, Etherscan   |
 +-------------------------------------------------------------------------+
 |  Weeks 4 - 6: Solidity Mastery & Foundry Testing                        |
-|  - Token standards (ERC-20/721/4626), Foundry Forge unit & fuzz tests   |
+|  
+
+- Token standards (ERC-20/721/4626), Foundry Forge unit & fuzz tests   |
 +-------------------------------------------------------------------------+
 |  Weeks 7 - 9: Defensive Security & DeFi Primitives                      |
-|  - Complete Ethernaut & Damn Vulnerable DeFi, learn AMMs & lending math |
+|  
+
+- Complete Ethernaut & Damn Vulnerable DeFi, learn AMMs & lending math |
 +-------------------------------------------------------------------------+
 |  Weeks 10 - 12: Flagship Project Deployment & Portfolio Verification    |
-|  - Deploy verified protocol on Base or Arbitrum, build Viem frontend    |
+|  
+
+- Deploy verified protocol on Base or Arbitrum, build Viem frontend    |
 +-------------------------------------------------------------------------+
 ```
 

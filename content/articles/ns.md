@@ -20,7 +20,11 @@ The cost structure includes monthly rates for shared and private rooms, with all
 Network School provides an array of features to enhance productivity and community living:
 
 | Feature | Description |
-|-------------------------------|-------------------------------------------------------|
+|
+
+-------------------------------|
+
+-------------------------------------------------------|
 | Accommodation | Shared or private rooms |
 | Meals | All meals included, prepared on-site |
 | Internet | High-speed WiFi throughout the property |
@@ -41,16 +45,30 @@ Network School addresses several key pain points often faced by remote workers:
 
 1. **Combating isolation**: Many remote workers face challenges from working alone across various time zones. At Network School, individuals connect with other builders, encouraging spontaneous conversations and forming genuine relationships.
 
-2.**All-inclusive infrastructure**: Traditional remote workers often juggle multiple locations for work, gym, and meals. Network School consolidates all these services in one location, minimizing decision fatigue and maximizing productivity.
+2.
 
-3.**Cost efficiency**: With monthly rates for accommodation, meals, workspace, and gym access, members obtain substantial value compared to typical living expenses in tech hubs, where rent alone could exceed these costs.
+**All-inclusive infrastructure**: Traditional remote workers often juggle multiple locations for work, gym, and meals. Network School consolidates all these services in one location, minimizing decision fatigue and maximizing productivity.
 
-4.**Easy onboarding**: New members do not need to establish teams or coordinate with multiple service providers. Everything is integrated, allowing for a smooth transition into the community.
+3.
+
+**Cost efficiency**: With monthly rates for accommodation, meals, workspace, and gym access, members obtain substantial value compared to typical living expenses in tech hubs, where rent alone could exceed these costs.
+
+4.
+
+**Easy onboarding**: New members do not need to establish teams or coordinate with multiple service providers. Everything is integrated, allowing for a smooth transition into the community.
 
 ## Pricing & Logistics
 
 | Room Type | Monthly Cost | Commitment | Approval Time |
-|------------------|---------------------|---------------------|------------------------|
+|
+
+------------------|
+
+---------------------|
+
+---------------------|
+
+------------------------|
 | Shared Room | Monthly rate | Month-to-month | 2-3 weeks |
 | Private Room | Monthly rate | Month-to-month | 2-3 weeks |
 
@@ -84,15 +102,3 @@ To become a member of Network School, follow these steps:
 4. If approved, confirm your dates and prepare to move in on the first of the month.
 
 Members of the Hashtag Community enjoy one week free upon joining.
-
-## Verifiable Primary Sources & References
-
-1. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-2. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-3. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-4. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-5. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-6. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-7. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-8. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
-9. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

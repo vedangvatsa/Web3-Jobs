@@ -13,7 +13,6 @@ tags:
   - FVM
   - Web3 Infrastructure
 ---
-
 # Filecoin Explained and How Cryptographic Storage Proofs Work
 
 Public blockchains such as the [Ethereum Foundation](https://ethereum.org) network, [Solana Protocol](https://solana.com), and the [Bitcoin Network](https://bitcoin.org) excel at achieving global consensus across compact state variables: account balances, cryptographic public keys, and smart contract execution parameters. However, their underlying consensus engines are fundamentally unsuited for storing large digital files. Storing a single gigabyte of video data or machine learning weights directly on Ethereum mainnet would cost millions of dollars in gas fees and trigger state bloat that would paralyze validating nodes globally.
@@ -53,7 +52,7 @@ Naive challenge-response schemes fail in adversarial environments:
 - **Deduplication Attack (Sybil Attack)**: A provider claims to store ten independent backup copies of a client dataset, earning ten times the reward, while actually storing only one physical copy on disk.
 - **Outsourcing Attack**: A provider offloads storage to a centralized cloud provider like [Amazon Web Services S3](https://aws.amazon.com/s3/) and forwards challenges in real-time.
 
-Filecoin resolves these failure modes through two cryptographic primitives: **Proof of Replication (PoRep)** and **Proof of Spacetime (PoSt)**.
+Filecoin resolves these failure modes through two cryptographic primitives: **Proof of Replication (PoRep) ** and ** Proof of Spacetime (PoSt)**.
 
 ```
 +---------------------------------------------------------------------------------+
@@ -181,17 +180,29 @@ The Filecoin token economy balances hardware expansion against long-term operati
 |                        FILECOIN TOKEN CIRCULATION MODEL                         |
 +---------------------------------------------------------------------------------+
 |  Token Inflows (Minting):                                                       |
-|  - Simple Minting: 30% of rewards follow fixed 6-year exponential half-life     |
-|  - Baseline Minting: 70% of rewards unlocked ONLY as network capacity meets     |
+|  
+
+- Simple Minting: 30% of rewards follow fixed 6-year exponential half-life     |
+|  
+
+- Baseline Minting: 70% of rewards unlocked ONLY as network capacity meets     |
 |    strict global baseline targets (YottaByte scale growth trajectory)           |
 |                                                                                 |
 |  Token Outflows & Locks:                                                        |
-|  - Initial Pledge Collateral: FIL locked upfront per sector sealed              |
-|  - Block Reward Vesting: 25% released immediately; 75% vests over 180 days      |
+|  
+
+- Initial Pledge Collateral: FIL locked upfront per sector sealed              |
+|  
+
+- Block Reward Vesting: 25% released immediately; 75% vests over 180 days      |
 |                                                                                 |
 |  Token Deflation & Burning:                                                     |
-|  - EIP-1559 Base Gas Fee Burning: Consumed during PoRep & PoSt messages         |
-|  - Storage Slashing: Pledged FIL burned upon unrecovered sector faults          |
+|  
+
+- EIP-1559 Base Gas Fee Burning: Consumed during PoRep & PoSt messages         |
+|  
+
+- Storage Slashing: Pledged FIL burned upon unrecovered sector faults          |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -210,7 +221,6 @@ Storage providers must lock significant collateral to ensure good behavior:
 
 ---
 
-
 ---
 
 ## The Storage Deal Lifecycle: From Client File to Sealed Sector
@@ -222,19 +232,33 @@ Understanding how data moves from a local user hard drive into a cryptographical
 |                        FILECOIN SECTOR SEALING LIFECYCLE                        |
 +---------------------------------------------------------------------------------+
 |  Phase 1: Pre-Commit 1 (PC1)                                                    |
-|  - CPU-bound sequential execution of Stacked Depth Robust (SDR) graph layers    |
-|  - Generates 11 layers of 32 GiB / 64 GiB labels (~3 to 4 hours on 32-core CPU) |
+|  
+
+- CPU-bound sequential execution of Stacked Depth Robust (SDR) graph layers    |
+|  
+
+- Generates 11 layers of 32 GiB / 64 GiB labels (~3 to 4 hours on 32-core CPU) |
 |                                                                                 |
 |  Phase 2: Pre-Commit 2 (PC2)                                                    |
-|  - Computes column hashes and builds Merkle trees across sealed layers          |
-|  - Generates CommD (Piece commitment) and CommR (Replica commitment) via GPU    |
+|  
+
+- Computes column hashes and builds Merkle trees across sealed layers          |
+|  
+
+- Generates CommD (Piece commitment) and CommR (Replica commitment) via GPU    |
 |                                                                                 |
 |  Phase 3: Commit 1 (C1)                                                         |
-|  - Prepares witness values and selects random challenges from on-chain entropy  |
+|  
+
+- Prepares witness values and selects random challenges from on-chain entropy  |
 |                                                                                 |
 |  Phase 4: Commit 2 (C2)                                                         |
-|  - GPU-accelerated Groth16 zero-knowledge SNARK proof generation (~20 minutes)  |
-|  - Generates compact cryptographic proof submitted to blockchain in ProveCommit |
+|  
+
+- GPU-accelerated Groth16 zero-knowledge SNARK proof generation (~20 minutes)  |
+|  
+
+- Generates compact cryptographic proof submitted to blockchain in ProveCommit |
 +---------------------------------------------------------------------------------+
 ```
 

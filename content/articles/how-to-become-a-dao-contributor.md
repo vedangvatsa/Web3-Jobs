@@ -109,8 +109,6 @@ Second, understand token liquidity depth. Before accepting native governance tok
 
 Third, automate dollar-cost averaging conversions. For contributors holding native tokens, setting up programmatic limit orders or automated dollar-cost averaging on decentralized exchanges enables orderly liquidations without triggering community price panic or large market impact.
 
-
-
 ### Mitigating governance fatigue and burnout in decentralized teams
 
 Operating in decentralized environments presents unique psychological challenges that can lead to contributor exhaustion. Unlike traditional corporate jobs with fixed hours and clear managerial boundaries, DAOs operate around the clock across global time zones. Governance debates, emergency forum threads, and Discord notifications can create continuous cognitive strain.
@@ -121,67 +119,3 @@ Sustainable contributors establish disciplined boundary frameworks:
 3. Standardize documentation templates: Utilizing standardized Request for Comment templates reduces proposal preparation time and clarifies deliverable milestones for reviewing delegates.
 
 As documented in [Variant Fund progressive decentralization framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications) and [Variant Fund token distribution design](https://variant.fund/writing/token-distribution-design), participating in decentralized work bridges open-source community passion with programmatic capital allocation. Contributors who build transparent public proof of work, master governance proposals, and manage operational security build resilient, sovereign careers across the decentralized economy.
-
-## Primary Sources & Empirical Research References
-
-1. [DeepDAO Ecosystem Analytics](https://deepdao.io/)
-2. [DeFiLlama DAO Treasury Rankings](https://defillama.com/)
-3. [Token Terminal Financial Statements for Crypto](https://tokenterminal.com/)
-4. [Safe Multisig Deployment and Security Guide](https://safe.global/)
-5. [Snapshot Gasless Governance Voting Documentation](https://snapshot.box/)
-6. [Tally On-Chain DAO Governance Platform](https://www.tally.xyz/)
-7. [Uniswap Governance Forum](https://gov.uniswap.org/)
-8. [Uniswap Foundation Contributor Grants](https://www.uniswapfoundation.org/)
-9. [Compound Finance Governance Documentation](https://compound.finance/docs/governance)
-10. [Aave Governance Portal](https://governance.aave.com/)
-11. [Sky/MakerDAO Governance Forum](https://forum.sky.money/)
-12. [Optimism Collective Governance Manual](https://community.optimism.io/)
-13. [Arbitrum DAO Governance Documentation](https://docs.arbitrum.foundation/)
-14. [Dework Web3 Bounty Board](https://dework.xyz/)
-15. [Layer3 Ecosystem Task Platform](https://layer3.xyz/)
-16. [Coordinape Peer Compensation Protocol](https://coordinape.com/)
-17. [Coordinape Rewards and Epoch Documentation](https://docs.coordinape.com/)
-18. [Gitcoin Grants Program Data Explorer](https://gitcoin.co/grants/)
-19. [Bankless DAO Contributor Framework](https://www.bankless.community/)
-20. [Yearn Finance Decentralized Governance Docs](https://docs.yearn.fi/)
-21. [Wonderverse DAO Task Management](https://wonderverse.xyz/)
-22. [Guild.xyz On-Chain Role Management](https://guild.xyz/)
-23. [Collab.Land Discord Community Token Gating](https://www.collab.land/)
-24. [Otterspace Non-Transferable Badge Protocol](https://otterspace.xyz/)
-25. [Hats Protocol Programmable Roles](https://hatsprotocol.xyz/)
-26. [Sablier Continuous Token Streaming Documentation](https://sablier.com/)
-27. [Superfluid Real-Time Streaming Finance](https://www.superfluid.finance/)
-28. [Llama Protocol Treasury Management](https://llama.xyz/)
-29. [Karpatkey Decentralized Asset Management](https://www.karpatkey.com/)
-30. [Dune Analytics Public Query Engine](https://dune.com/)
-31. [Flipside Crypto SQL Data Engine](https://flipsidecrypto.xyz/)
-32. [Artemis Institutional Blockchain Fundamentals](https://www.artemis.xyz/)
-33. [Etherscan Ethereum Block Explorer](https://etherscan.io/)
-34. [Basescan Layer 2 Explorer](https://basescan.org/)
-35. [Arbiscan Arbitrum Rollup Explorer](https://arbiscan.io/)
-36. [Electric Capital Developer Report](https://www.developerreport.com/)
-37. [Electric Capital Crypto Developer Taxonomy](https://www.developerreport.com/developer-report)
-38. [Variant Fund Progressive Decentralization Framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications)
-39. [Variant Fund Token Distribution Design](https://variant.fund/writing/token-distribution-design)
-40. [a16z crypto DAO Legal Frameworks](https://a16zcrypto.com/)
-41. [Paradigm Legal Guide to DAOs](https://www.paradigm.xyz/)
-42. [Toku DAO Contributor Compensation Compliance](https://www.toku.com/resources/token-compensation-pros-cons-and-best-practices)
-43. [Toku Token Vesting Mechanics Guide](https://www.toku.com/resources/how-do-token-vesting-schedules-work)
-44. [Request Finance Crypto Payroll Comparison Matrix](https://www.requestfinance.com/blog/crypto-payroll-platforms-compared)
-45. [Rise Works 2025 Crypto Payroll Report](https://www.riseworks.io/blog/2025-crypto-payroll-report)
-46. [Bitwage Remote Contributor Payroll](https://www.bitwage.com/)
-47. [Deel Global Contractor Compliance](https://www.deel.com/industries/crypto/)
-48. [Remote.com Contractor Misclassification Guide](https://remote.com/resources/contractor-misclassification)
-49. [IRS Notice 2014-21 Virtual Currency Taxation](https://www.irs.gov/individuals/international-taxpayers/frequently-asked-questions-on-virtual-currency-transactions)
-50. [IRS Section 83b Election Regulations](https://www.irs.gov/pub/irs-drop/rr-12-01.pdf)
-51. [Wyoming DAO LLC Legislation SF0038](https://www.wyoleg.gov/Legislation/2021/SF0038)
-52. [Cayman Islands Foundation Company Law Specification](https://www.caymanfinance.gov.ky/)
-53. [Swiss Verein Legal Association Guide](https://www.kmu.admin.ch/kmu/en/home/concrete-know-how/setting-up-a-business/legal-forms/association.html)
-54. [European Securities and Markets Authority MiCA Regulation](https://www.esma.europa.eu/esmas-activities/digital-finance-and-crypto-assets)
-55. [UK Law Commission Report on DAOs](https://lawcom.gov.uk/project/decentralised-autonomous-organisations-daos/)
-56. [Security Alliance SEAL 911 Emergency Response Network](https://securityalliance.org/)
-57. [OWASP Web3 Operational Security Guide](https://scs.owasp.org/handbooks/11-opsec-in-web3/)
-58. [GitGuardian Open Source Secrets Detection](https://www.gitguardian.com/)
-59. [OpenZeppelin Governor Contract Standards](https://docs.openzeppelin.com/contracts/4.x/governance)
-60. [Discourse Open-Source Governance Forums](https://www.discourse.org/)
-61. [Commonwealth Web3 Discussion Platform](https://commonwealth.im/)

@@ -13,7 +13,6 @@ tags:
   - Filecoin
   - DevOps
 ---
-
 # Becoming a Web3 Decentralized Storage Expert
 
 In modern cloud computing, enterprise data architectures are heavily centralized. Over 65% of global cloud workloads, web media, database backups, and software repositories reside within three hyper-scale infrastructure providers: [Amazon Web Services S3](https://aws.amazon.com/s3/), [Google Cloud Storage](https://cloud.google.com/storage), and [Microsoft Azure Blob Storage](https://azure.microsoft.com/en-us/products/storage/blobs). 
@@ -53,15 +52,25 @@ To operate as a domain expert, an engineer must master the mathematical and netw
 +---------------------------------------------------------------------------------+
 | Location-Based Addressing (Web2 URL):                                           |
 | https://example.com/images/avatar.png                                           |
-| - Identifies WHERE the file is located (which physical server and directory)    |
-| - If the server shuts down or the webmaster swaps the file, the link breaks     |
+| 
+
+- Identifies WHERE the file is located (which physical server and directory)    |
+| 
+
+- If the server shuts down or the webmaster swaps the file, the link breaks     |
 |   or returns completely altered content!                                        |
 |                                                                                 |
 | Content-Based Addressing (Web3 CID):                                            |
 | ipfs://bafybeicg2pxx... (Cryptographic Hash of File Contents)                   |
-| - Identifies WHAT the file is (immutable mathematical fingerprint)              |
-| - The file can be fetched from ANY peer in the world hosting those exact bytes  |
-| - If a single bit in the file changes, the CID changes completely!              |
+| 
+
+- Identifies WHAT the file is (immutable mathematical fingerprint)              |
+| 
+
+- The file can be fetched from ANY peer in the world hosting those exact bytes  |
+| 
+
+- If a single bit in the file changes, the CID changes completely!              |
 +---------------------------------------------------------------------------------+
 ```
 
@@ -292,19 +301,37 @@ Hiring managers in decentralized storage prioritize candidates with live, verifi
 |                       PORTFOLIO BLUEPRINTS THAT GET HIRED                       |
 +---------------------------------------------------------------------------------+
 |  Project 1: Resilient Multi-Gateway Proxy                                       |
-|             - Deploy an edge caching proxy using [Cloudflare Workers](https://workers.cloudflare.com) or [Fastly Compute](https://www.fastly.com)             |
-|             - Concurrently races requests across 5 IPFS gateways and Arweave   |
-|             - Fallback to fastest responding peer, eliminating gateway timeouts |
+|             
+
+- Deploy an edge caching proxy using [Cloudflare Workers](https://workers.cloudflare.com) or [Fastly Compute](https://www.fastly.com)             |
+|             
+
+- Concurrently races requests across 5 IPFS gateways and Arweave   |
+|             
+
+- Fallback to fastest responding peer, eliminating gateway timeouts |
 |                                                                                 |
 |  Project 2: FVM Automated Deal Renewal DataDAO                                  |
-|             - Deploy a Solidity smart contract to Filecoin Calibration testnet  |
-|             - Automatically audits WindowPoSt status via Filecoin Market Actor  |
-|             - Programmatically triggers secondary storage deal if provider fails|
+|             
+
+- Deploy a Solidity smart contract to Filecoin Calibration testnet  |
+|             
+
+- Automatically audits WindowPoSt status via Filecoin Market Actor  |
+|             
+
+- Programmatically triggers secondary storage deal if provider fails|
 |                                                                                 |
 |  Project 3: CLI Data Archiver for Arweave and IPFS                              |
-|             - Open-source Rust CLI tool that recursively parses directories     |
-|             - Derives UnixFS Merkle DAGs, estimates Arweave storage endowment   |
-|             - Publishes bundled transactions to Irys with automated unit tests  |
+|             
+
+- Open-source Rust CLI tool that recursively parses directories     |
+|             
+
+- Derives UnixFS Merkle DAGs, estimates Arweave storage endowment   |
+|             
+
+- Publishes bundled transactions to Irys with automated unit tests  |
 +---------------------------------------------------------------------------------+
 ```
 

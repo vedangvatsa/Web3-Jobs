@@ -6,7 +6,7 @@ description: >-
 category: Career Guides
 data-ai-hint: onboarding checklist
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Onboarding Checklist for New Hires
 
@@ -45,7 +45,11 @@ This checklist serves as a structured guide for new employees, ensuring they hav
 
 ### FAQs
 
-**Who is responsible for managing this checklist?**While managers provide guidance, new hires should take ownership of their onboarding process. Proactively working through this checklist ensures a smooth transition.**What if my company doesn't have a formal onboarding process?** 
+#### Who is responsible for managing this checklist?
+
+While managers provide guidance, new hires should take ownership of their onboarding process. Proactively working through this checklist ensures a smooth transition.
+
+**What if my company doesn't have a formal onboarding process?** 
 Use this checklist as a framework to create your own onboarding plan. This approach guarantees that you acquire the necessary information and access to succeed.
 
 A structured onboarding process benefits both the employee and the company. It leads to quicker integration and higher job satisfaction.
@@ -53,16 +57,3 @@ A structured onboarding process benefits both the employee and the company. It l
 ## Importance of Effective Onboarding
 
 Effective onboarding significantly impacts employee retention and productivity. Research shows that companies with a structured onboarding process improve new hire retention and productivity. In [Web3](/what-is-web3) organizations, where collaboration and communication are essential, an effective onboarding process can mean the difference between a successful transition and a frustrating experience.
-
-## Verifiable Primary Sources & References
-
-1. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-2. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-3. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-4. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-5. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-6. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-7. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
-8. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
-9. [U.S. Securities and Exchange Commission (SEC) EDGAR System](https://www.sec.gov/edgar)
-10. [Chainlink Decentralized Oracle Network Specifications](https://docs.chain.link/)

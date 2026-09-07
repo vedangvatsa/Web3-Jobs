@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: what-is-a-layer-3-in-blockchain
 ---
-
 The expansion of decentralized applications has revealed a core constraint of general-purpose Layer 2 networks: shared execution contention. While Layer 2 rollups like [Arbitrum One](https://arbitrum.io) and [Base](https://base.org) reduced transaction fees by an order of magnitude compared to [Ethereum Foundation](https://ethereum.org) mainnet, decentralized applications sharing an L2 still compete for the same blockspace, gas limits, and virtual machine parameters.
 
 To achieve custom execution environments, sub-cent micro-transactions, and deterministic throughput for gaming, high-frequency trading, and enterprise data networks, protocol architects designed Layer 3 (L3) networks. Also known as application-specific rollups (app-rollups) or hyperchains, Layer 3 protocols introduce fractal scaling: nesting execution environments that settle recursively onto Layer 2 platforms, which in turn settle onto Layer 1.
@@ -122,12 +121,18 @@ To understand how a Layer 3 functions in production, consider the full lifecycle
 |                                |                                        |
 |                                v                                        |
 | 3. Sequencer compresses transaction batches and submits to L2           |
-|    - Calldata posted to L2 Inbox Contract                               |
-|    - Or Data Availability attestations posted via AnyTrust/Celestia     |
+|    
+
+- Calldata posted to L2 Inbox Contract                               |
+|    
+
+- Or Data Availability attestations posted via AnyTrust/Celestia     |
 |                                |                                        |
 |                                v                                        |
 | 4. L3 State Root proposed on Layer 2 Rollup contract                    |
-|    - Initiates L3 dispute window or triggers ZK proof verification      |
+|    
+
+- Initiates L3 dispute window or triggers ZK proof verification      |
 |                                |                                        |
 |                                v                                        |
 | 5. Layer 2 aggregates L3 state commitments into its standard batch     |
@@ -168,15 +173,29 @@ Protocols can eliminate gas fees entirely for end consumers. By funding a paymas
 |                  Layer 3 Protocol Revenue vs Cost Model                 |
 +-------------------------------------------------------------------------+
 | Gross User Inflows:                                                     |
-|   - Custom token gas fees                                               |
-|   - In-app micro-transaction charges                                    |
-|   - Internalized MEV from DEX liquidations                              |
+|   
+
+- Custom token gas fees                                               |
+|   
+
+- In-app micro-transaction charges                                    |
+|   
+
+- Internalized MEV from DEX liquidations                              |
 |                                                                         |
 | Operational Outflows:                                                   |
-|   - Sequencer node cloud infrastructure (AWS / Bare Metal)              |
-|   - L2 gas fees for batch posting & state root proposals                |
-|   - Prover computing infrastructure (for ZK-based L3s)                  |
-|   - Modular DA storage fees (Celestia / EigenDA)                        |
+|   
+
+- Sequencer node cloud infrastructure (AWS / Bare Metal)              |
+|   
+
+- L2 gas fees for batch posting & state root proposals                |
+|   
+
+- Prover computing infrastructure (for ZK-based L3s)                  |
+|   
+
+- Modular DA storage fees (Celestia / EigenDA)                        |
 |                                                                         |
 | Net Margin: Retained by Protocol Treasury or distributed to DAO stakers |
 +-------------------------------------------------------------------------+

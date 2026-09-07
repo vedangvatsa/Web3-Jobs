@@ -10,7 +10,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: account-abstraction-explained
 ---
-
 Account abstraction enables an Ethereum account to be controlled by smart contract logic rather than a single private key. ERC-4337 is the production standard that implements account abstraction on Ethereum and Layer 2 EVM chains without requiring consensus-level hard forks.
 
 With account abstraction, users can batch multi-step transactions (such as token approvals and DEX swaps) into a single click, pay gas fees using stablecoins like USDC, implement social recovery guardians, and authenticate using biometrics or WebAuthn passkeys instead of 12-word seed phrases.
@@ -22,20 +21,24 @@ With account abstraction, users can batch multi-step transactions (such as token
 
 In traditional Ethereum architecture, there are two distinct account types:
 
-1. **Externally Owned Accounts (EOAs):**Controlled by a single private key pair (ECDSA on secp256k1). Only an EOA can initiate a transaction on-chain. If the private key is lost or compromised, the account funds are lost permanently.
-2.**Contract Accounts:**Controlled by deployed EVM smart contract code. While contract accounts can hold tokens and execute arbitrary logic, they cannot initiate transactions independently - they can only execute when invoked by an EOA.
+1. **Externally Owned Accounts (EOAs):** Controlled by a single private key pair (ECDSA on secp256k1). Only an EOA can initiate a transaction on-chain. If the private key is lost or compromised, the account funds are lost permanently.
+2.
+
+**Contract Accounts:** Controlled by deployed EVM smart contract code. While contract accounts can hold tokens and execute arbitrary logic, they cannot initiate transactions independently - they can only execute when invoked by an EOA.
 
 Account abstraction removes this restriction by merging account logic into programmable smart contracts.
 
-Proposed in September 2021 by Vitalik Buterin, Yoav Weiss, Dror Tirosh, Shahaf Nacson, Alex Forshtat, Kristof Gazso, and Tjaden Hess, [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) introduces an alternative mempool where user intent is packaged into pseudo-transactions called**UserOperations**.
+Proposed in September 2021 by Vitalik Buterin, Yoav Weiss, Dror Tirosh, Shahaf Nacson, Alex Forshtat, Kristof Gazso, and Tjaden Hess, [ERC-4337](https://eips.ethereum.org/EIPS/eip-4337) introduces an alternative mempool where user intent is packaged into pseudo-transactions called
+
+**UserOperations**.
 
 Companion upgrades like [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702) (shipped with the Pectra upgrade) allow existing EOA addresses to temporarily delegate execution to contract code, giving existing wallets smart contract capabilities without changing addresses.
 
 ## Who Needs Account Abstraction?
 
--**Web3 Developers & Applications:**Onboard users seamlessly by sponsoring gas fees via Paymasters or allowing gas payment in ERC-20 tokens.
--**End-Users Seeking Safe Self-Custody:**Replace seed phrases with hardware passkeys (FaceID/TouchID) and multi-party social recovery modules.
--**DAO & Treasury Operations:**Enforce multi-signature thresholds, daily spending limits, and automated role permissions directly at the account contract level.
+- **Web3 Developers & Applications:** Onboard users seamlessly by sponsoring gas fees via Paymasters or allowing gas payment in ERC-20 tokens.
+- **End-Users Seeking Safe Self-Custody:** Replace seed phrases with hardware passkeys (FaceID/TouchID) and multi-party social recovery modules.
+- **DAO & Treasury Operations:** Enforce multi-signature thresholds, daily spending limits, and automated role permissions directly at the account contract level.
 
 ## Core Architectural Components of ERC-4337
 
@@ -93,11 +96,21 @@ Assign trusted contact wallets or hardware devices as guardians. If a user loses
 
 | Feature / Metric | Standard EOA | ERC-4337 Smart Account |
 | :--- | :--- | :--- |
-|**Key Recovery**| Impossible if seed lost | Social recovery / Guardians |
-|**Gas Fee Flexibility**| ETH only | Sponsoring / ERC-20 Tokens |
-|**Transaction Signing**| Single signature per action | Atomic multi-call batching |
-|**Overhead Gas Cost**| 21,000 base gas | Higher initial validation gas |
-|**Infrastructure Dependency** | Standard Ethereum Mempool | Bundler Nodes & Alt Mempool |
+|
+
+**Key Recovery**| Impossible if seed lost | Social recovery / Guardians |
+|
+
+**Gas Fee Flexibility**| ETH only | Sponsoring / ERC-20 Tokens |
+|
+
+**Transaction Signing**| Single signature per action | Atomic multi-call batching |
+|
+
+**Overhead Gas Cost**| 21,000 base gas | Higher initial validation gas |
+|
+
+**Infrastructure Dependency** | Standard Ethereum Mempool | Bundler Nodes & Alt Mempool |
 
 ## Frequently Asked Questions
 
@@ -109,16 +122,3 @@ Not necessarily. When using a sponsoring Paymaster, the application pays gas on 
 
 ### Is a smart account less secure than an EOA?
 A smart account eliminates the single-point-of-failure risk of private key loss, but introduces smart contract code risk. Smart accounts should rely on audited standard implementations like Safe or OpenZeppelin.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-1559 Fee Market Change Specification](https://eips.ethereum.org/EIPS/eip-1559)
-3. [Ethereum EIP-4337 Account Abstraction Using Alt Mempool](https://eips.ethereum.org/EIPS/eip-4337)
-4. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-5. [Ethereum EIP-7702 Set EOA Account Code Specification](https://eips.ethereum.org/EIPS/eip-7702)
-6. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-7. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-8. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-9. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-10. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)

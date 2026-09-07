@@ -109,11 +109,11 @@ Code review is where working developers actually learn security, faster than any
 Pair reviewing with reading. Pick five canonical codebases and read them line by line with the docs open: an ERC-20, Uniswap v3 core, Aave v3 pool, OpenZeppelin's Ownable plus ReentrancyGuard, and one upgradeable proxy set. [OpenZeppelin's API docs](https://docs.openzeppelin.com/contracts/4.x/api/security) annotate the security primitives as you read. The [v3 whitepaper](https://uniswap.org/whitepaper-v3.pdf) rewards careful readers with the concentrated-liquidity math most candidates hand-wave. [Aave's developer docs](https://docs.aave.com/developers/) show production-grade pool architecture with real invariants. Keep a bug journal: every suspicious pattern you find, whether real or false alarm, with the reasoning written out. After fifty entries you will read new code the way reviewers do, which is exactly the skill [take-home reviews](https://gm.careers/blog/how-web3-companies-evaluate-developers) score above all else.
 
 ## FAQ
+#### Solidity or Rust first?
 
-**Solidity or Rust first?**
 Solidity, unless you already write Rust or target Solana specifically. More jobs, more courses, more auditors read it. Add Rust second for range.
+#### How long until job-ready?
 
-**How long until job-ready?**
 Six to twelve months of steady building for most career switchers: three months of courses and challenges, three months of portfolio projects with tests and audits of your own code, then applications while doing bounties.
 
 **Computer science degrees**
@@ -124,14 +124,14 @@ Fuzz every project, run Slither, enter Code4rena-style contests on test code, an
 
 **Resume lead section**
 Deployed contract addresses first, then tests and audit notes, then experience. [Screening rubrics rank](https://gm.careers/blog/how-web3-companies-evaluate-developers) correctness above all, and missing tests read as a reject signal.
+#### Is Solidity dying with all the new chains?
 
-**Is Solidity dying with all the new chains?**
 No. Postings data keeps Solidity near 78% of developer demand with Rust second, and every alternative toolchain still interoperates with Solidity ABI somewhere in the stack. Learn Solidity deeply, then add the chain-specific language only when targeting that ecosystem for real roles.
 
 **Learning Vyper too**
 Only after Solidity pays your bills or a target role demands it. The hour you spend on a second language is an hour not spent on fuzzing, contests, or portfolio depth, and [hiring data rewards](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide) depth over breadth at every level.
+#### How much does an audit cost, and why should juniors care?
 
-**How much does an audit cost, and why should juniors care?**
 Because audit pricing explains what your security habits are worth. [Basic token reviews](https://devoracles.com/articles/smart-contract-audit-cost-is/) start near $5k to $15k, protocols run $15k to $40k, bridges $50k to $100k-plus, and tier-one firms charge $80k to $200k-plus. Every finding you prevent in development saves a multiple of your salary in review cycles. Teams know this, which is why [take-homes weight security](https://gm.careers/blog/how-web3-companies-evaluate-developers) reasoning alongside correctness.
 
 Review weekly, write up monthly, and your public record starts looking like a junior auditor's well before any firm hires you. That record compounds faster than any credential, and it travels with you across every future application. Start the first review this week, while the reading habit is warm. Future employers will ask what you reviewed long before they ask what courses you finished.

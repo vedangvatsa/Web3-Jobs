@@ -20,69 +20,82 @@ This article examines key trends driving the evolution of the [Web3 job](/web3-j
 During the bull market, projects rushed to hire versatile individuals capable of handling multiple roles. A single employee might oversee community management, marketing, and product development. As projects grow more complex, the demand for specialists is increasing.
 
 | Role Type | Previous Demand | Current Demand |
-|--------------------------|-------------------------------|---------------------------------|
+|
+
+--------------------------|
+
+-------------------------------|
+
+---------------------------------|
 | Marketing | Generalist | Head of Content, Product Marketing Manager, Community Manager |
 | Product Management | Generalist | Specialized Product Managers |
 | Engineering | Generalist | Protocol Engineers, ZK-Proof Engineers |
 
-- **The Trend:**Companies now seek specialized roles instead of relying on generalists. This shift allows professionals to focus on specific areas of expertise.
--**The Opportunity:**Experts in fields like brand marketing, UX research, or treasury management are increasingly valuable.
+- **The Trend:** Companies now seek specialized roles instead of relying on generalists. This shift allows professionals to focus on specific areas of expertise.
+- **The Opportunity:** Experts in fields like brand marketing, UX research, or treasury management are increasingly valuable.
 
 ### Growth of Institutional DeFi
 
 The initial phase of [DeFi](/what-is-defi) catered mainly to crypto enthusiasts. The next phase focuses on integrating institutional investors and traditional financial entities into the blockchain space.
 
 | Role Type | Responsibilities |
-|--------------------------|------------------------------------------------------|
+|
+
+--------------------------|
+
+------------------------------------------------------|
 | Business Development | Establishing contacts with banks and hedge funds |
 | Credit Analysts | Underwriting loans and assessing borrower risk |
 | Compliance Specialists | Ensuring adherence to AML/KYC regulations |
 
--**The Trend:**New projects are specifically targeting institutions with products like KYC/AML-compliant DeFi pools and tokenized real-world assets (RWAs).
--**The New Roles:**This shift generates demand for professionals with backgrounds in traditional finance (TradFi). 
+- **The Trend:** New projects are specifically targeting institutions with products like KYC/AML-compliant DeFi pools and tokenized real-world assets (RWAs).
+- **The New Roles:** This shift generates demand for professionals with backgrounds in traditional finance (TradFi). 
 
 ### The Modular Stack and Infrastructure Emphasis
 
 Web3's technical architecture is evolving towards a modular design. The industry is moving away from all-in-one blockchains and adopting a "modular stack," where specialized layers manage various functions like execution, settlement, and data availability.
 
 | Sector | Focus Areas |
-|--------------------------|-----------------------------------------------------|
+|
+
+--------------------------|
+
+-----------------------------------------------------|
 | Infrastructure Projects | Layer 2 scaling solutions, data availability layers, interoperability protocols |
 | Engineering Roles | Protocol Engineer, ZK-Proof Engineer, Compiler Engineer |
 
--**The Trend:**Venture capital is heavily investing in infrastructure projects, emphasizing the need for engineering talent in these areas.
--**The Opportunity:**High-paying engineering jobs are now concentrated in infrastructure-focused companies.
+- **The Trend:** Venture capital is heavily investing in infrastructure projects, emphasizing the need for engineering talent in these areas.
+- **The Opportunity:** High-paying engineering jobs are now concentrated in infrastructure-focused companies.
 
 ### Professionalization of DAOs
 
 Decentralized Autonomous Organizations ([DAOs](/what-is-a-dao)) are maturing from informal collectives into structured entities.
 
 | Role Type | Responsibilities |
-|--------------------------|------------------------------------------------------|
+|
+
+--------------------------|
+
+------------------------------------------------------|
 | Governance Facilitators | Managing governance processes from proposal drafting to voting |
 | Treasury Managers | Overseeing the DAO's funds and developing investment strategies |
 | Contributor Relations | Onboarding and managing freelance contributors |
 
--**The Trend:**DAOs recognize that complete decentralization can lead to inefficiencies. They are establishing clearer roles and governance processes.
--**The New Roles:**The emergence of the**DAO operator**role addresses the unique challenges of managing decentralized organizations.
+- **The Trend:** DAOs recognize that complete decentralization can lead to inefficiencies. They are establishing clearer roles and governance processes.
+- **The New Roles:** The emergence of the
+
+**DAO operator** role addresses the unique challenges of managing decentralized organizations.
 
 ### Positioning for the Maturing Market
 
-1.**Develop a Specialty:**Move beyond generalism. Become an expert in a specific area, whether technical, like ZK-proofs, or non-technical, like institutional business development.
-2.**Understand the Entire Ecosystem:**While specializing, maintain a broad understanding of the Web3 field. For example, engineers should grasp tokenomics, while marketers should understand Layer 2 mechanics.
-3.**Focus on Value Creation:** The mature market values sustainable projects that address real-world problems and generate revenue. Align with organizations that have a clear long-term vision.
+1.
+
+**Develop a Specialty:** Move beyond generalism. Become an expert in a specific area, whether technical, like ZK-proofs, or non-technical, like institutional business development.
+2.
+
+**Understand the Entire Ecosystem:** While specializing, maintain a broad understanding of the Web3 field. For example, engineers should grasp tokenomics, while marketers should understand Layer 2 mechanics.
+3.
+
+**Focus on Value Creation:** The mature market values sustainable projects that address real-world problems and generate revenue. Align with organizations that have a clear long-term vision.
 
 The maturation of the Web3 market signifies a necessary evolution. This transition moves the industry away from speculation and toward professionalism. Professionals willing to adapt and acquire specialized knowledge will find a wealth of stable, impactful career opportunities.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

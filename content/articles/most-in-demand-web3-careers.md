@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: job search
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The [Web3](/what-is-web3) job market is evolving. Roles that were sought after two years ago may no longer hold the same relevance, while new positions emerge rapidly. For professionals considering a [Web3 career](/web3-jobs-for-beginners), staying informed about current hiring trends is important.
 
@@ -78,9 +78,9 @@ These positions generally offer salaries that can be competitive, depending on e
 Several roles in the Web3 space are less essential than they may appear:
 
 - **Blockchain Lawyers**: The market is saturated, with many projects opting not to hire dedicated legal counsel.
--**Crypto Educators/Course Creators**: These roles can provide side income, but they are not typically sustainable careers.
--**Blockchain Consultants**: Individuals may resort to consulting when unable to secure traditional roles. Many find it challenging to maintain consistent billable hours.
--**Crypto Journalists**: The competition in this market is fierce, given its limited scope.
+- **Crypto Educators/Course Creators**: These roles can provide side income, but they are not typically sustainable careers.
+- **Blockchain Consultants**: Individuals may resort to consulting when unable to secure traditional roles. Many find it challenging to maintain consistent billable hours.
+- **Crypto Journalists**: The competition in this market is fierce, given its limited scope.
 
 ## The Hiring Process in Web3
 
@@ -141,16 +141,3 @@ Compensation in Web3 is strong, and the work is intellectually stimulating. Prof
 For developers, Web3 remains one of the last frontiers. You can join a small team building a protocol that impacts millions, allowing for significant contributions to the tech industry.
 
 While volatility, risk, and the uncertainty of mainstream crypto adoption exist, those passionate about the potential and able to accept the risks will find ample opportunities in Web3.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [Curve Finance Automated Market Maker Specification](https://curve.fi/files/stableswap-paper.pdf)
-7. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-8. [Solana Core Architecture Documentation](https://docs.solana.com/)
-9. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-10. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)

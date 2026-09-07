@@ -32,10 +32,20 @@ Litecoin has operated for over a decade with exceptional uptime. Fewer commits t
 It is important to differentiate between core protocol development and ecosystem development. While the core Litecoin client remains stable, innovation thrives in the surrounding ecosystem, including:
 
 | Ecosystem Component | Description |
-|-----------------------------|--------------------------------------------------------------|
-| **Lightning Network**| A fully operational Lightning Network that enables quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
-|**MWEB (Mimblewimble Extension Block)**| A significant upgrade that provides opt-in privacy for transactions. We will detail the technical aspects of MWEB and its adoption since launch. |
-|**Third-Party Wallets & Services**| A survey of wallets, payment processors, and exchanges supporting Litecoin, particularly its MWEB features. The integration by third parties serves as a critical indicator of ecosystem vitality. |
+|
+
+-----------------------------|
+
+--------------------------------------------------------------|
+| 
+
+**Lightning Network**| A fully operational Lightning Network that enables quick, low-cost transactions. We will assess the growth in channels, nodes, and capacity on Litecoin's network. |
+|
+
+**MWEB (Mimblewimble Extension Block)**| A significant upgrade that provides opt-in privacy for transactions. We will detail the technical aspects of MWEB and its adoption since launch. |
+|
+
+**Third-Party Wallets & Services**| A survey of wallets, payment processors, and exchanges supporting Litecoin, particularly its MWEB features. The integration by third parties serves as a critical indicator of ecosystem vitality. |
 
 ## The Mimblewimble Upgrade: A Significant Development for Litecoin
 
@@ -72,22 +82,19 @@ A cryptocurrency's acceptance among merchants is a fundamental indicator of its 
 Litecoin operates within a competitive ecosystem that includes various challengers:
 
 | Competitor | Description |
-|-----------------------------|--------------------------------------------------------------|
-|**Bitcoin's Lightning Network**| As Bitcoin's own Layer 2 payment solution matures, it directly competes with Litecoin's primary use case. |
-|**Stablecoins**| Stable assets have emerged as primary currencies for payments, offering price stability absent in volatile assets like LTC. |
-|**Newer L1s** | High-throughput blockchains provide quick, inexpensive transactions and support active dApp ecosystems, pressuring older chains. |
+|
+
+-----------------------------|
+
+--------------------------------------------------------------|
+|
+
+**Bitcoin's Lightning Network**| As Bitcoin's own Layer 2 payment solution matures, it directly competes with Litecoin's primary use case. |
+|
+
+**Stablecoins**| Stable assets have emerged as primary currencies for payments, offering price stability absent in volatile assets like LTC. |
+|
+
+**Newer L1s** | High-throughput blockchains provide quick, inexpensive transactions and support active dApp ecosystems, pressuring older chains. |
 
 We will analyze how Litecoin's value proposition stacks up against these competitors. Does its established brand, long history of security, and new privacy features from MWEB provide a competitive edge?
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-2. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

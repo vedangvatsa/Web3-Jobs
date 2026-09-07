@@ -8,7 +8,7 @@ description: >-
   user-controlled.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In the digital market, verifying identity presents ongoing challenges. Many people rely on usernames and passwords or depend on major platforms like Google and Facebook to authenticate their identity for other services. This centralized approach poses significant privacy and security risks. On-chain identity verification, enabled by [Web3](/what-is-web3), offers a more secure, private, and user-controlled method for managing digital identities.
 
@@ -33,22 +33,44 @@ Traditional verification processes often demand excessive personal information. 
 On-chain identity verification relies on several core Web3 components:
 
 | Component | Description |
-|-------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Decentralized Identifiers (DIDs)**| A DID serves as a globally unique identifier that users create and control. It acts as a permanent, self-sovereign address for individuals on the internet. |
-|**Verifiable Credentials (VCs)**| A VC is a tamper-proof digital claim about a DID, issued by a trusted source. For instance, a university might issue a VC confirming that a person holds a degree. |
-|**Blockchain as a Trust Anchor**| The blockchain functions as a public registry for DIDs and the public keys of issuers, allowing verification of credentials against a trusted source. |
+|
+
+-------------------------------|
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| 
+
+**Decentralized Identifiers (DIDs)**| A DID serves as a globally unique identifier that users create and control. It acts as a permanent, self-sovereign address for individuals on the internet. |
+|
+
+**Verifiable Credentials (VCs)**| A VC is a tamper-proof digital claim about a DID, issued by a trusted source. For instance, a university might issue a VC confirming that a person holds a degree. |
+|
+
+**Blockchain as a Trust Anchor**| The blockchain functions as a public registry for DIDs and the public keys of issuers, allowing verification of credentials against a trusted source. |
 
 ### How On-Chain Verification Works: A Practical Example
 
 Consider a [DeFi](/what-is-defi) protocol that requires users to undergo a Know Your Customer (KYC) process.
 
-1.**Off-Chain Verification:**You first complete a one-time KYC process with a reputable, regulated third-party company.
-2.**Issuance of a VC:**Upon successful verification, the issuer provides a**Verifiable Credential**to your DID, stating "The holder of `did:ethr:0x123...` has completed a KYC check." Importantly, this VC does not include your name or any sensitive personal information.
-3.**On-Chain Interaction:**You then access the DeFi protocol and present the VC stored in your wallet.
-4.**Verification:**The smart contract associated with the DeFi protocol performs two checks:
+1.
+
+**Off-Chain Verification:** You first complete a one-time KYC process with a reputable, regulated third-party company.
+2.
+
+**Issuance of a VC:** Upon successful verification, the issuer provides a
+
+**Verifiable Credential** to your DID, stating "The holder of `did:ethr:0x123...` has completed a KYC check." Importantly, this VC does not include your name or any sensitive personal information.
+3.
+
+**On-Chain Interaction:** You then access the DeFi protocol and present the VC stored in your wallet.
+4.
+
+**Verification:** The smart contract associated with the DeFi protocol performs two checks:
  - It verifies the cryptographic signature of the VC to ensure authenticity.
  - It confirms on the blockchain that the VC was issued by an approved KYC provider.
-5.**Access Granted:** If both checks validate, you gain access to the protocol without revealing your personal identity on-chain.
+5.
+
+**Access Granted:** If both checks validate, you gain access to the protocol without revealing your personal identity on-chain.
 
 ### The Benefits of On-Chain Identity
 
@@ -69,16 +91,3 @@ On-chain identity verification is integral to the Web3 vision, supporting a more
 ### The Importance of On-Chain Identity Verification
 
 Professionals who understand on-chain identity verification can differentiate themselves in the job market. In a competitive workplace, mastering this skill can lead to increased earning potential and faster career advancement. This is particularly true in Web3 organizations where collaboration and communication play vital roles.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [Solana Core Architecture Documentation](https://docs.solana.com/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

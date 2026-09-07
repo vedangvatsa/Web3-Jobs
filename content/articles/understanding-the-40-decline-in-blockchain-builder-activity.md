@@ -8,7 +8,7 @@ description: >-
   crypto.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In an environment where innovation is critical, the cryptocurrency sector is currently grappling with a significant challenge: a decline in developer activity over the past year. This drop raises concerns about the long-term health and innovation capacity of the entire [blockchain](/what-is-a-blockchain) ecosystem. As institutional adoption rises, the departure of builders, those responsible for creating and maintaining the technology, creates a troubling scenario.
 
@@ -109,7 +109,13 @@ Financial institutions are increasingly using their regulatory relationships to 
 The focus of crypto VC funding is shifting from infrastructure projects to application-layer innovations. This transition could stimulate a new wave of development centered on real-world use cases rather than speculative infrastructure investments.
 
 | Year | VC Funding in AI (Billions USD) | VC Funding in Crypto (Billions USD) |
-|---------|----------------------------------|-------------------------------------|
+|
+
+---------|
+
+----------------------------------|
+
+-------------------------------------|
 | 2020 | 36 | 4.9 |
 | 2021 | 50 | 31 |
 | 2022 | 90 | 14 |
@@ -150,16 +156,3 @@ Research shows that developers increasingly seek guidance from community platfor
 #### 5. Patience and Long-Term Vision
 
 The industry may need to adopt slower growth and longer development cycles. As one commenter noted, comparing crypto to AI, "AI has gone through two major 'winters' that combined spanned almost 20 years," before its current resurgence.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-4. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
-5. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-6. [Solana Core Architecture Documentation](https://docs.solana.com/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-10. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)

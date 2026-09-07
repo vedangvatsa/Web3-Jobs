@@ -18,61 +18,96 @@ The Australian market emphasizes Decentralized Finance ([DeFi](/what-is-defi)), 
 
 Australia's crypto ecosystem ranks among the most developed in the Asia-Pacific region, driven by several factors:
 
-| **Key Factors**|**Details**|
-|-------------------------------------|-------------------------------------------------------------------------------------------------|
-|**High Adoption Rates**| Australians have a strong interest in cryptocurrencies, supported by high disposable income and a culture of investment. |
-|**Regulatory Clarity**| Australian regulators take a consultative approach, creating an environment conducive to both local and international startups. |
-|**Strong Talent Pool**| A highly educated workforce with skills in finance, technology, and creative industries supports Web3 companies. |
-|**Major Hubs**|**Sydney**serves as a financial capital for DeFi and fintech, while**Melbourne**thrives in NFTs and gaming. |
+| 
+
+**Key Factors**|
+
+**Details**|
+|
+
+-------------------------------------|
+
+-------------------------------------------------------------------------------------------------|
+|
+
+**High Adoption Rates**| Australians have a strong interest in cryptocurrencies, supported by high disposable income and a culture of investment. |
+|
+
+**Regulatory Clarity**| Australian regulators take a consultative approach, creating an environment conducive to both local and international startups. |
+|
+
+**Strong Talent Pool**| A highly educated workforce with skills in finance, technology, and creative industries supports Web3 companies. |
+|
+
+**Major Hubs**|
+
+**Sydney** serves as a financial capital for DeFi and fintech, while
+
+**Melbourne** thrives in NFTs and gaming. |
 
 ### Leading Web3 Companies and Projects in Australia
 
 Australia hosts several globally recognized Web3 firms and new startups:
 
--**Immutable**: Known for its Layer 2 scaling solution for NFTs, it powers games like *Gods Unchained* and *Guild of Guardians*.
+- **Immutable**: Known for its Layer 2 scaling solution for NFTs, it powers games like *Gods Unchained* and *Guild of Guardians*.
 - **Synthetix**: A leading DeFi protocol that enables synthetic asset issuance on the blockchain.
--**Chainflip**: Offers a decentralized cross-chain swapping protocol.
--**Finder**: A financial comparison platform that invests heavily in crypto content and services.
--**Major Exchanges**: Global exchanges such as Coinbase, Binance, and Kraken maintain a strong presence and are actively hiring.
+- **Chainflip**: Offers a decentralized cross-chain swapping protocol.
+- **Finder**: A financial comparison platform that invests heavily in crypto content and services.
+- **Major Exchanges**: Global exchanges such as Coinbase, Binance, and Kraken maintain a strong presence and are actively hiring.
 
 ### In-Demand Roles and Salary Expectations
 
 The demand for Web3 talent in Australia remains strong, particularly for experienced technical professionals. Salaries in this sector frequently exceed those in traditional tech roles.
 
-|**Role**|**Experience Level**|**Salary Range**|
-|--------------------------------------|----------------------|----------------------------------|
-|**[Smart Contract](/what-are-smart-contracts) Developer (Solidity/Rust)** | Mid-Level (2-4 years) | Competitive |
+|
+
+**Role**|
+
+**Experience Level**|
+
+**Salary Range**|
+|
+
+--------------------------------------|
+
+----------------------|
+
+----------------------------------|
+|
+
+**[Smart Contract](/what-are-smart-contracts) Developer (Solidity/Rust)** | Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
-| | *Note: Token allocations can significantly increase total compensation.* |
-| **Frontend/Full-Stack Web3 Engineer (React, Ethers.js/Viem)**| Mid-Level | Competitive |
+| | 
+
+*Note: Token allocations can significantly increase total compensation.* |
+| 
+
+**Frontend/Full-Stack Web3 Engineer (React, Ethers.js/Viem)**| Mid-Level | Competitive |
 | | Senior | Competitive |
-|**Non-Technical Roles**| Product Manager | Competitive |
+|
+
+**Non-Technical Roles**| Product Manager | Competitive |
 | | Marketing Manager | Competitive |
 | | Community Manager | Competitive |
 
 ### Strategies for Securing a Web3 Job in Australia
 
-1.**Engage with Local Communities**: Networking is important in the Web3 space.
- -**Meetups**: Attend blockchain and crypto meetups in Sydney and Melbourne to connect with founders and hiring managers.
- -**Online Presence**: Follow Australian Web3 leaders, VCs, and projects on social media platforms like Twitter and Farcaster. Join relevant Discord and Telegram channels.
+1.
 
-2.**Build a Strong Portfolio**: In Web3, your work speaks louder than your resume.
- -**For Developers**: Maintain an active GitHub profile showcasing personal projects, such as a simple NFT contract or a DeFi dApp. Contributing to open-source Web3 projects adds significant value.
- -**For Non-Technical Roles**: Share insights through blogs or create analytical content, such as a Dune Analytics dashboard tracking Australian NFT collections.
+**Engage with Local Communities**: Networking is important in the Web3 space.
+ - **Meetups**: Attend blockchain and crypto meetups in Sydney and Melbourne to connect with founders and hiring managers.
+ - **Online Presence**: Follow Australian Web3 leaders, VCs, and projects on social media platforms like Twitter and Farcaster. Join relevant Discord and Telegram channels.
 
-3.**Network at Major Events**: Australia hosts several blockchain conferences yearly, such as the Australian Crypto Convention and Blockchain Week. Attending these events allows you to immerse yourself in the ecosystem and establish key connections.
+2.
 
-4.**Target Both Local and Remote Roles**: While the Australian job market is strong, many top opportunities exist with global, remote-first companies. Expand your search beyond local roles to maximize your options.
+**Build a Strong Portfolio**: In Web3, your work speaks louder than your resume.
+ - **For Developers**: Maintain an active GitHub profile showcasing personal projects, such as a simple NFT contract or a DeFi dApp. Contributing to open-source Web3 projects adds significant value.
+ - **For Non-Technical Roles**: Share insights through blogs or create analytical content, such as a Dune Analytics dashboard tracking Australian NFT collections.
 
-## Verifiable Primary Sources & References
+3.
 
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-6. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
-7. [Ethers.js Complete Web3 Library Documentation](https://docs.ethers.org/)
-8. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-9. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-10. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
+**Network at Major Events**: Australia hosts several blockchain conferences yearly, such as the Australian Crypto Convention and Blockchain Week. Attending these events allows you to immerse yourself in the ecosystem and establish key connections.
+
+4.
+
+**Target Both Local and Remote Roles**: While the Australian job market is strong, many top opportunities exist with global, remote-first companies. Expand your search beyond local roles to maximize your options.

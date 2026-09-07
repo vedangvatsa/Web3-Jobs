@@ -13,7 +13,6 @@ tags:
   - Rollups
   - Blockchain Engineering
 ---
-
 # Zero-Knowledge Proofs Explained
 
 Modern distributed state machines require cryptographic verification systems capable of validating complex state transitions without incurring proportional computational overhead across every consensus node. In classical distributed ledgers such as the [Bitcoin Network](https://bitcoin.org) and the [Ethereum Foundation](https://ethereum.org) execution layer, every validating node executes every transaction redundantly. This direct execution model enforces global state consensus at the cost of bounding network throughput to the computational limits of consumer hardware. 
@@ -109,9 +108,13 @@ High-Level Program (Solidity / Rust)
 
 Rank-1 Constraint Systems represent one of the earliest and most widespread forms of circuit arithmetization, utilized by [Christian Reitwiessner in Circom](https://docs.circom.io) and [scipr-lab in libsnark](https://github.com/scipr-lab/libsnark). An R1CS consists of a sequence of constraint equations involving an assignment vector $s \in \mathbb{F}_p^m$ containing public inputs, public outputs, the constant 1, and intermediate witness variables:
 
-$$\langle A_i, s angle \cdot \langle B_i, s angle = \langle C_i, s angle$$
+$$\langle A_i, s 
+angle \cdot \langle B_i, s 
+angle = \langle C_i, s 
+angle$$
 
-Here, $A_i, B_i, C_i \in \mathbb{F}_p^m$ are sparse coefficient vectors representing linear combinations of the witness elements, and $\langle \cdot, \cdot angle$ denotes the standard vector inner product. Every non-linear operation, such as modular multiplication, consumes exactly one R1CS constraint. In contrast, linear additions incur zero constraint overhead because they can be aggregated directly into the coefficient vectors of subsequent multiplications.
+Here, $A_i, B_i, C_i \in \mathbb{F}_p^m$ are sparse coefficient vectors representing linear combinations of the witness elements, and $\langle \cdot, \cdot 
+angle$ denotes the standard vector inner product. Every non-linear operation, such as modular multiplication, consumes exactly one R1CS constraint. In contrast, linear additions incur zero constraint overhead because they can be aggregated directly into the coefficient vectors of subsequent multiplications.
 
 To transform an R1CS into a polynomial problem suitable for succinct verification, systems apply the Quadratic Arithmetic Program (QAP) framework formulated by [Rosario Gennaro, Craig Gentry, Bryan Parno, and Mariana Raykova in 2013](https://eprint.iacr.org/2012/215.pdf). A QAP maps matrix operations across a set of roots $\{r_1, r_2, \dots, r_n\}$, producing polynomials $A(x), B(x), C(x)$ such that:
 
@@ -127,9 +130,15 @@ While R1CS enforces a strict bilinear structure, Plonkish arithmetization, intro
 +-----+---------+---------+---------+---------+---------+---------+---------+
 | Row | Left qL | Right qR| Out qO  | Mult qM | Const qC| Col a   | Col b   |
 +-----+---------+---------+---------+---------+---------+---------+---------+
-|  0  |    1    |    1    |   -1    |    0    |    0    |   x_1   |   x_2   |
-|  1  |    0    |    0    |   -1    |    1    |    0    |   x_3   |   x_4   |
-|  2  |    0    |    0    |   -1    |    0    |    5    |   x_5   |    0    |
+|  0  |    1    |    1    |   
+
+-1    |    0    |    0    |   x_1   |   x_2   |
+|  1  |    0    |    0    |   
+
+-1    |    1    |    0    |   x_3   |   x_4   |
+|  2  |    0    |    0    |   
+
+-1    |    0    |    5    |   x_5   |    0    |
 +-----+---------+---------+---------+---------+---------+---------+---------+
 ```
 
@@ -177,7 +186,8 @@ The KZG commitment scheme, formalized by [Aniket Kate, Gregory M. Zaverucha, and
 
 KZG requires a Structured Reference String (SRS) generated via a multi-party computation ceremony, structured as powers of a secret trapdoor $	au \in \mathbb{F}_p$:
 
-$$	ext{SRS} = \left( [1]_1, [	au]_1, [	au^2]_1, \dots, [	au^d]_1, [1]_2, [	au]_2 ight)$$
+$$	ext{SRS} = \left( [1]_1, [	au]_1, [	au^2]_1, \dots, [	au^d]_1, [1]_2, [	au]_2 
+ight)$$
 
 where $[x]_1 = x \cdot G_1$ and $[x]_2 = x \cdot G_2$ denote generator point scalar multiplications on groups $\mathbb{G}_1$ and $\mathbb{G}_2$.
 
@@ -189,7 +199,8 @@ When the verifier queries an evaluation $P(z) = y$, the polynomial $(P(x) - y)$ 
 
 $$P(x) - y = (x - z) \cdot Q(x) \implies Q(x) = rac{P(x) - y}{x - z}$$
 
-The prover evaluates $[Q(	au)]_1 = \pi$ as the evaluation proof. The verifier validates the proof by executing a single elliptic curve pairing equation using a bilinear map $e: \mathbb{G}_1 	imes \mathbb{G}_2 ightarrow \mathbb{G}_T$:
+The prover evaluates $[Q(	au)]_1 = \pi$ as the evaluation proof. The verifier validates the proof by executing a single elliptic curve pairing equation using a bilinear map $e: \mathbb{G}_1 	imes \mathbb{G}_2 
+ightarrow \mathbb{G}_T$:
 
 $$e(C - [y]_1, [1]_2) = e(\pi, [	au]_2 - [z]_2)$$
 
@@ -212,7 +223,8 @@ The cryptographic benefits and trade-offs of FRI include:
 
 ### Inner Product Arguments (IPA)
 
-Developed within the Bulletproofs framework by [Benedikt Bunz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell in 2018](https://eprint.iacr.org/2017/1066.pdf), and modified for polynomial commitments by the [Electric Coin Company in Halo and Halo2](https://eprint.iacr.org/2019/1021.pdf), Inner Product Arguments prove knowledge of vectors $a, b$ satisfying $\langle a, b angle = c$.
+Developed within the Bulletproofs framework by [Benedikt Bunz, Jonathan Bootle, Dan Boneh, Andrew Poelstra, Pieter Wuille, and Greg Maxwell in 2018](https://eprint.iacr.org/2017/1066.pdf), and modified for polynomial commitments by the [Electric Coin Company in Halo and Halo2](https://eprint.iacr.org/2019/1021.pdf), Inner Product Arguments prove knowledge of vectors $a, b$ satisfying $\langle a, b 
+angle = c$.
 
 IPA protocols fold vector commitments recursively across $\log_2(N)$ iterations, yielding compact proofs ($\sim 1.5$ to 2.5 kB) without requiring a trusted setup or bilinear pairings. However, verifier complexity scales linearly ($O(N)$) in the length of the circuit constraints. 
 

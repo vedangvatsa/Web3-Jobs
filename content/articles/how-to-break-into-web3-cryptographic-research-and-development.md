@@ -13,7 +13,6 @@ tags:
   - Protocol Engineering
   - Blockchain Careers
 ---
-
 # How to Break Into Web3 Cryptographic Research and Development
 
 For decades, advanced academic cryptography operated largely within theoretical computer science departments, defense intelligence agencies, and corporate standards committees. Breakthroughs in zero-knowledge proofs, multi-party computation, and lattice mathematics often spent years relegated to peer-reviewed conference proceedings before finding practical implementation in industrial software.

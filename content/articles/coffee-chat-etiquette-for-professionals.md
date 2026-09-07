@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: people talking
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: The Networking Potential of Coffee Chats
 
@@ -25,8 +25,8 @@ When reaching out for a coffee chat, consider the busy schedules of potential co
 
 Your subject line should clearly convey your intent while feeling personal.
 - **Good:**"Quick question" or "Coffee chat request"
--**Better:**"Referred by [Mutual Connection's Name]" (if applicable)
--**Great:** "Your recent article on [Topic] / Question"
+- **Better:**"Referred by [Mutual Connection's Name]" (if applicable)
+- **Great:** "Your recent article on [Topic] / Question"
 
 ### 2. Establish a Personalized Opening
 
@@ -43,8 +43,8 @@ Briefly articulate your reason for reaching out.
 
 Enable a positive response by reducing the commitment required.
 - **Specify the length:**"I would appreciate a brief 15-20 minute virtual coffee chat." Specifying a short duration reduces the perceived commitment.
--**Be flexible:**"I am happy to accommodate your schedule."
--**Offer convenience:**"I can send a calendar invite with a video link."
+- **Be flexible:**"I am happy to accommodate your schedule."
+- **Offer convenience:**"I can send a calendar invite with a video link."
 
 ## Part 2: The Preparation - Conduct Thorough Research
 
@@ -59,9 +59,15 @@ Go beyond your initial outreach.
 
 ### 2. Prepare Insightful Questions
 
-Avoid asking questions that can be answered easily through a quick Google search (e.g., "What does your company do?"). Your questions should reflect genuine curiosity about their experiences and insights.**Suggested Questions to Ask:**
+Avoid asking questions that can be answered easily through a quick Google search (e.g., "What does your company do?"). Your questions should reflect genuine curiosity about their experiences and insights.
+
+**Suggested Questions to Ask:**
 | Question | Purpose |
-|----------|---------|
+|
+
+----------|
+
+---------|
 | "What does a typical day or week in your role look like?" | Understand their daily responsibilities. |
 | "What is the most challenging aspect of your job?" | Gain insight into potential obstacles in the role. |
 | "What skills have been most critical to your success in this field?" | Identify key competencies for success. |
@@ -120,16 +126,3 @@ A single coffee chat marks the beginning of a relationship. To cultivate this co
 - Congratulate them on a work anniversary or promotion via LinkedIn.
 
 The goal is to establish a pattern of positive interactions, leading to a context where your future requests (like job referrals) are met with enthusiasm.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [MakerDAO Technical Documentation & Maker Protocol Specs](https://docs.makerdao.com/)
-4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

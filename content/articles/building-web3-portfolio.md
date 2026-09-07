@@ -8,7 +8,7 @@ description: >-
   roles. Land $120K+ blockchain jobs.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In [Web3](/what-is-web3), your portfolio is the resume. Hiring managers open your GitHub, block explorer links, and on-chain activity before they read your cover letter. This guide shows how to build a small set of verifiable projects that prove you can ship and explain trade-offs, whether you write [smart contracts](/what-are-smart-contracts), build frontends, or work in non-technical roles.
 
@@ -22,7 +22,13 @@ It is different from a traditional tech portfolio. Screenshots are not enough. A
 
 This guide is for three groups. Pick one track first, then build proof for that track.
 
-**Smart contract and protocol developers.**You need to show Solidity, security habits, and EVM understanding. Proof is a tested contract, a verified deployment, and notes on access control and failure cases. Tools you will use include Solidity, OpenZeppelin Contracts 5.x, and Foundry (forge, cast, anvil) or Hardhat.**Frontend and full-stack dApp developers.**You need to show wallet connection, transaction states, and how your UI handles chain data. Proof is a Next.js or React app using wagmi or viem or ethers.js that connects a wallet, handles pending, confirmed, failed, and wrong-network states, and reads and writes to a contract you deployed. Hosting is often Vercel or Netlify for the frontend and a testnet for the contract.**Non-technical contributors: research, data, community, growth, operations.**You need to show clear thinking and shipped work without code as the main artifact. Proof is a Dune dashboard with SQL queries and findings, a governance forum post or proposal, a content series that explains a protocol, or a documented community program with outcomes. On-chain participation (voting, POAPs, attestations) helps, but it never replaces a clear write-up.
+**Smart contract and protocol developers.
+
+**You need to show Solidity, security habits, and EVM understanding. Proof is a tested contract, a verified deployment, and notes on access control and failure cases. Tools you will use include Solidity, OpenZeppelin Contracts 5.x, and Foundry (forge, cast, anvil) or Hardhat.** Frontend and full-stack dApp developers.
+
+**You need to show wallet connection, transaction states, and how your UI handles chain data. Proof is a Next.js or React app using wagmi or viem or ethers.js that connects a wallet, handles pending, confirmed, failed, and wrong-network states, and reads and writes to a contract you deployed. Hosting is often Vercel or Netlify for the frontend and a testnet for the contract.** Non-technical contributors: research, data, community, growth, operations.
+
+**You need to show clear thinking and shipped work without code as the main artifact. Proof is a Dune dashboard with SQL queries and findings, a governance forum post or proposal, a content series that explains a protocol, or a documented community program with outcomes. On-chain participation (voting, POAPs, attestations) helps, but it never replaces a clear write-up.
 
 If you are switching tracks, start with one. A focused portfolio for one role beats a scattered set for three.
 
@@ -84,7 +90,13 @@ Quality checks for every contract you publish: use OpenZeppelin Contracts as the
 ### Smart contract developer projects
 
 | Project | What it proves | Suggested stack and notes |
-| --- | --- | --- |
+| 
+
+--- | 
+
+--- | 
+
+--- |
 | Multi-sig wallet | Access control, transaction approval, safe ETH handling | Solidity, OpenZeppelin AccessControl, Foundry tests for permission and revert cases |
 | Verifiable lottery | Randomness limits, commit-reveal or VRF integration, fund handling | Chainlink VRF docs for request and fulfill flow, tests for insufficient funds and double-entry |
 | ERC-721 collection with allowlist | Token standard, merkle proofs, metadata on IPFS via Pinata or similar | OpenZeppelin ERC721, IPFS metadata, royalty standard ERC-2981, frontend mint with wallet states |
@@ -97,7 +109,13 @@ For each project, deploy to a testnet. You can fund Sepolia with faucets: Alchem
 ### Frontend and full-stack dApp projects
 
 | Project | What it proves | Required handling |
-| --- | --- | --- |
+| 
+
+--- | 
+
+--- | 
+
+--- |
 | Wallet dashboard | Connect, read balances, list NFTs, show history | wagmi and viem, display ENS name and avatar, handle wrong network and rejected signature |
 | DAO proposal explorer | Indexing and filtering | Fetch from a governance subgraph or forum API, paginate and search proposals, link to on-chain vote transaction |
 | Gas tracker | Fee estimation and UX | Show base fee and priority fee on Ethereum and at least one Layer 2, explain timing trade-offs, mobile layout |
@@ -107,7 +125,13 @@ Your frontend should handle wallet states, transaction states, readable revert m
 ### Non-technical portfolio projects
 
 | Project | What it proves | How to document |
-| --- | --- | --- |
+| 
+
+--- | 
+
+--- | 
+
+--- |
 | Dune dashboard for a protocol you follow | SQL, metric choice, insight | Link the dashboard, publish the queries, write a 300-word summary of one finding and one limit of the data |
 | DAO contribution log | Initiative and follow-through | List issues you closed, docs you improved, calls you ran, with links to forum posts and a short outcome note |
 | Technical content series | Depth and clarity | Two posts on one niche, such as decentralized derivatives or NFT financialization, with primary source links and a clear takeaway per post |
@@ -115,10 +139,14 @@ Your frontend should handle wallet states, transaction states, readable revert m
 
 Non-technical contributors still need a GitHub presence for docs and dashboards, but your main hub can be a personal site or mirror that aggregates content, dashboards, and governance links.
 
-## Pros and cons**Benefits**- You control the evidence. A verified contract and a test suite show what you can ship without asking a reference to explain.
+## Pros and cons
+
+**Benefits**- You control the evidence. A verified contract and a test suite show what you can ship without asking a reference to explain.
 - Recruiters can evaluate you async. A clear README and a live demo let a team assess you before scheduling a call.
 - Writing and on-chain activity show you participate in the ecosystem, which many Web3 teams weight as highly as years on a resume.
-- The portfolio transfers across jobs and chains. A well-documented Foundry project and a Dune dashboard remain useful even if you change roles.**Costs and trade-offs**- Time. A single flagship project with tests, deployment, verification, and a frontend often takes 2 to 4 weeks of focused work. Plan for that, not a weekend copy-paste.
+- The portfolio transfers across jobs and chains. A well-documented Foundry project and a Dune dashboard remain useful even if you change roles.
+
+**Costs and trade-offs**- Time. A single flagship project with tests, deployment, verification, and a frontend often takes 2 to 4 weeks of focused work. Plan for that, not a weekend copy-paste.
 - Maintenance. Testnets reset, faucets rate-limit, and RPC limits change. Wallets need ongoing updates as wagmi and viem release breaking changes.
 - Testnet vs mainnet. Testnet deployments are accepted for proof, but they do not test real gas costs, MEV, or production RPC reliability. Mainnet is not needed for beginner proof and costs real funds.
 - Gas and tooling overhead. Running fuzz tests and coverage via `forge coverage` or `forge snapshot` takes time and can hide flaky assumptions if you treat the numbers as proof by themselves.
@@ -127,17 +155,27 @@ Non-technical contributors still need a GitHub presence for docs and dashboards,
 
 ## How to get started
 
-Use this sequence. It is built for 3 to 6 months at 8 to 12 hours per week.**Week 1: choose a role and set up the tools**- Write one line: target role, scope, and stack. Example: I build tested Solidity contracts with Foundry and TypeScript frontends.
+Use this sequence. It is built for 3 to 6 months at 8 to 12 hours per week.
+
+**Week 1: choose a role and set up the tools**- Write one line: target role, scope, and stack. Example: I build tested Solidity contracts with Foundry and TypeScript frontends.
 - Install Node.js 20 or newer, pnpm or npm, git, and Foundry. Follow the Foundry Book install via `foundryup`.
 - Create a wallet for building. Keep funds for building separate from personal holdings.
-- Install OpenZeppelin Contracts: `npm install @openzeppelin/contracts` or `forge install OpenZeppelin/openzeppelin-contracts` with remappings.**Weeks 2 to 4: ship the flagship full-stack dApp**- Build a staking app. Contract: stake and withdraw an ERC-20 you mint, accrue rewards over time, emit events, and allow emergency withdraw. Frontend: connect wallet, show staked balance and accrued rewards, handle approve, stake, and withdraw flows.
+- Install OpenZeppelin Contracts: `npm install @openzeppelin/contracts` or `forge install OpenZeppelin/openzeppelin-contracts` with remappings.
+
+**Weeks 2 to 4: ship the flagship full-stack dApp**- Build a staking app. Contract: stake and withdraw an ERC-20 you mint, accrue rewards over time, emit events, and allow emergency withdraw. Frontend: connect wallet, show staked balance and accrued rewards, handle approve, stake, and withdraw flows.
 - Write tests that cover permissions, valid and invalid transfers, zero and max amounts, reward math over time, and event emission.
 - Deploy to Sepolia or a Layer 2 testnet. Fund with the faucets above. Verify on the matching explorer with the exact compiler version and constructor args. Put the explorer link in the README.
-- Deploy the frontend to Vercel. Add a README section called Why I built it this way that covers contract structure, frontend stack, data fetching, and one trade-off you made.**Month 2: add depth and security notes**- Pick one depth project from the table for your track. Add a SECURITY.md and a short section on reentrancy, access control, oracle assumptions, integer precision, and admin key risk. Run Slither, paste the summary, and note what you fixed.
+- Deploy the frontend to Vercel. Add a README section called Why I built it this way that covers contract structure, frontend stack, data fetching, and one trade-off you made.
+
+**Month 2: add depth and security notes**- Pick one depth project from the table for your track. Add a SECURITY.md and a short section on reentrancy, access control, oracle assumptions, integer precision, and admin key risk. Run Slither, paste the summary, and note what you fixed.
 - Add coverage and gas notes. Use `forge coverage --report lcov` and `forge snapshot` and record the key numbers in the README, but keep the text focused on what the numbers mean, not just the numbers.
-- If you aim for security roles, enter one audit contest on Code4rena, Sherlock, or Cantina and link your finding or contest profile, even if you start with informational findings.**Month 3: contribute and publish**- Submit one open-source pull request to a recognized repo such as OpenZeppelin Contracts, Foundry, viem, or wagmi. Start with tests or docs labeled good first issue or help wanted. Link the merged PR and write one sentence on what changed and why.
+- If you aim for security roles, enter one audit contest on Code4rena, Sherlock, or Cantina and link your finding or contest profile, even if you start with informational findings.
+
+**Month 3: contribute and publish**- Submit one open-source pull request to a recognized repo such as OpenZeppelin Contracts, Foundry, viem, or wagmi. Start with tests or docs labeled good first issue or help wanted. Link the merged PR and write one sentence on what changed and why.
 - Publish one technical post or dashboard. Host writing on your site or Mirror. Host a Dune dashboard for data track. Link both from GitHub.
-- Open a small site that ties it together. A single-page Next.js site on Vercel or GitHub Pages is enough: hero line, three project cards with proof links, skills you actually used, and contact links. Point your ENS to it via eth.limo if you want a Web3-native URL, but keep a plain HTTPS domain as well.**Before you apply: run this checklist**- Can a reviewer click from your profile to a repo to a verified contract to a demo in under 10 minutes without asking you for anything.
+- Open a small site that ties it together. A single-page Next.js site on Vercel or GitHub Pages is enough: hero line, three project cards with proof links, skills you actually used, and contact links. Point your ENS to it via eth.limo if you want a Web3-native URL, but keep a plain HTTPS domain as well.
+
+**Before you apply: run this checklist**- Can a reviewer click from your profile to a repo to a verified contract to a demo in under 10 minutes without asking you for anything.
 - Does each repo state its known limits plainly: testnet only, not audited, central admin key, or oracle fallback not set.
 - Do your pinned repos, resume, and site tell the same story for the role you want.
 
@@ -160,19 +198,22 @@ On GitHub:
 
 When you apply, tailor which proof you put first. For DeFi roles, lead with staking and AMM work and the verified lending or vault code. For security roles, lead with contest findings and Slither or fuzz reports. For frontend roles, lead with the wallet dashboard and transaction state handling.
 
-## FAQ**Do I need a mainnet deployment to get hired**No. Teams accept verified testnet deployments with tests and a demo as beginner proof. Add mainnet only when you have a live protocol that needs it and you can pay for audit and monitoring.**How many projects do I need**Two to three strong projects with full proof beat six shallow clones. One flagship with contract, tests, verification, and frontend, plus one depth project and one merged PR, is enough to start applying.**What salary does a Web3 portfolio support**Published hiring data in 2026 varies by source and level. National surveys place the median blockchain developer base around $133,000 to $156,000 in the United States, with junior bases often $87,000 to $120,000 and senior or audit-focused roles well above $175,000 before token grants. Your offer depends on level, stack, and location. A portfolio helps you argue for that level with checkable proof.**Can I build a portfolio for non-technical roles**Yes. Use Dune dashboards, governance contributions, and written analysis as your core proof. Show SQL, sources, and outcomes. Link forum posts and dashboard queries so reviewers can verify them.**Which testnet should I use in 2026**Sepolia remains the common default for EVM testing. You can bridge its ETH to Base Sepolia or Arbitrum Sepolia for Layer 2 testing. Plan for Sepolia's scheduled retirement around September 2026 and keep a branch ready to redeploy to its successor.**Do I need an ENS name**It helps for readability and for linking your work, but it is not required. If you use one, register on app.ens.domains, set the primary name, and add text records for links. Point it to your site if you want.**What do reviewers look for in tests**They look for coverage of real risk: owner-only functions reject others, invalid inputs revert with the right error, edge values behave as intended, events emit with correct args, and state updates are asserted. Fuzz and invariant tests add signal if you explain the invariant, not just the number.**How long will this take**
+## FAQ
+
+**Do I need a mainnet deployment to get hired
+
+**No. Teams accept verified testnet deployments with tests and a demo as beginner proof. Add mainnet only when you have a live protocol that needs it and you can pay for audit and monitoring.** How many projects do I need
+
+**Two to three strong projects with full proof beat six shallow clones. One flagship with contract, tests, verification, and frontend, plus one depth project and one merged PR, is enough to start applying.** What salary does a Web3 portfolio support
+
+**Published hiring data in 2026 varies by source and level. National surveys place the median blockchain developer base around $133,000 to $156,000 in the United States, with junior bases often $87,000 to $120,000 and senior or audit-focused roles well above $175,000 before token grants. Your offer depends on level, stack, and location. A portfolio helps you argue for that level with checkable proof.** Can I build a portfolio for non-technical roles
+
+**Yes. Use Dune dashboards, governance contributions, and written analysis as your core proof. Show SQL, sources, and outcomes. Link forum posts and dashboard queries so reviewers can verify them.** Which testnet should I use in 2026
+
+**Sepolia remains the common default for EVM testing. You can bridge its ETH to Base Sepolia or Arbitrum Sepolia for Layer 2 testing. Plan for Sepolia's scheduled retirement around September 2026 and keep a branch ready to redeploy to its successor.** Do I need an ENS name
+
+**It helps for readability and for linking your work, but it is not required. If you use one, register on app.ens.domains, set the primary name, and add text records for links. Point it to your site if you want.** What do reviewers look for in tests
+
+**They look for coverage of real risk: owner-only functions reject others, invalid inputs revert with the right error, edge values behave as intended, events emit with correct args, and state updates are asserted. Fuzz and invariant tests add signal if you explain the invariant, not just the number.** How long will this take**
 
 Most beginners who follow the sequence above publish a hiring-ready set in 3 to 6 months of part-time work, then improve it weekly based on questions they get in screens.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-20 Token Standard Specification](https://eips.ethereum.org/EIPS/eip-20)
-2. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-3. [Ethereum EIP-712 Typed Structured Data Hashing and Signing](https://eips.ethereum.org/EIPS/eip-712)
-4. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-5. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-6. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-7. [OpenZeppelin Smart Contract Standard Libraries & Security Audits](https://docs.openzeppelin.com/)
-8. [Foundry Book Development & Testing Framework Documentation](https://book.getfoundry.sh/)
-9. [Hardhat Ethereum Development Environment Documentation](https://hardhat.org/docs)
-10. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)

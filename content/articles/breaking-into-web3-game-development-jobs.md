@@ -8,7 +8,7 @@ description: >-
   mechanics.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The gaming industry is experiencing a transformation driven by [Web3](/what-is-web3) technology. The emergence of [GameFi (Gaming + Finance)](/exploring-web3-gaming) has drawn skilled professionals from traditional gaming. For developers, this shift offers an opportunity but also demands new skills and poses unique challenges.
 
@@ -25,7 +25,13 @@ Creating a Web3 game involves designing a functional micro-economy rather than j
 Understanding the distinction between on-chain and off-chain logic is critical. Not all game mechanics belong on the [blockchain](/what-is-a-blockchain), and a key skill involves determining which elements should be decentralized and which should remain on traditional servers.
 
 | Logic Type | On-Chain Examples | Off-Chain Examples |
-|---------------|----------------------------------------------------------|----------------------------------------|
+|
+
+---------------|
+
+----------------------------------------------------------|
+
+----------------------------------------|
 | Game Elements | Asset ownership (NFTs), high-value trades, core actions | Fast-paced gameplay, physics engines, social features |
 
 #### Security
@@ -39,8 +45,8 @@ Onboarding traditional gamers into Web3 poses significant challenges. Developers
 ### Key Roles in Web3 Game Development
 
 - **Unity/Unreal Engine Developer**: These developers focus on building the client-side experience, integrating game engines with blockchain wallets and smart contracts.
--**Smart Contract Engineer**: This role involves writing the on-chain logic for the game's assets (NFTs) and economy.
--**Full-Stack Web3 Developer**: This developer works on both the game client and the supporting Web3 infrastructure, including the game's marketplace or bridging solutions.
+- **Smart Contract Engineer**: This role involves writing the on-chain logic for the game's assets (NFTs) and economy.
+- **Full-Stack Web3 Developer**: This developer works on both the game client and the supporting Web3 infrastructure, including the game's marketplace or bridging solutions.
 
 ### Getting Started in Web3 Game Development
 
@@ -50,24 +56,11 @@ Begin by immersing yourself in the Web3 gaming experience. Play existing Web3 ga
 
 #### Learn the Tech Stack
 
--**For Game Developers**: Learn how to integrate a [wallet](/how-to-choose-a-crypto-wallet) into Unity or Unreal using an SDK.
--**For Web Developers**: Acquire knowledge of [Solidity](/best-programming-languages-for-blockchain-development) and create a simple NFT contract.
+- **For Game Developers**: Learn how to integrate a [wallet](/how-to-choose-a-crypto-wallet) into Unity or Unreal using an SDK.
+- **For Web Developers**: Acquire knowledge of [Solidity](/best-programming-languages-for-blockchain-development) and create a simple NFT contract.
 
 #### Build a [Portfolio](/building-web3-portfolio) Project
 
 Develop a straightforward game featuring at least one on-chain element. For instance, create a character whose primary weapon is an NFT that can be equipped or traded.
 
 A career in Web3 game development positions you leading an evolving interactive entertainment field, where players become true owners rather than mere users.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-6. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-7. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-8. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

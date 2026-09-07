@@ -95,8 +95,6 @@ Fourth, Liquidity and Market Depth: Concentrated liquidity seeded across automat
 
 Fifth, Continuous Developer Relations: Audited SDKs, documentation quickstarts, and ecosystem grant programs actively onboarding third-party builders.
 
-
-
 ### Enterprise and institutional sales cycles in Web3
 
 While retail and developer motions dominate early protocol traction, scaling infrastructure protocols inevitably requires closing enterprise and institutional customers. Financial institutions, neo-banks, and Web2 consumer brands moving on-chain operate under strict regulatory, risk management, and compliance mandates.
@@ -121,8 +119,6 @@ The DePIN go-to-market flywheel navigates a two-sided marketplace cold-start pro
 
 DePIN protocols that succeed prioritize unit economics over indiscriminate hardware growth. If hardware operators earn token rewards without generating organic commercial usage, the protocol suffers hyperinflationary token dilution once secondary buyers realize hardware capacity sits idle.
 
-
-
 ### Sustaining momentum through economic downturns
 
 The true test of any Web3 go-to-market strategy occurs during macroeconomic bear markets when retail speculation evaporates, token prices decline, and speculative transaction volume drops by 80% or more across the industry.
@@ -139,63 +135,3 @@ Ultimately, go-to-market excellence in decentralized technology aligns economic 
 By focusing on measurable on-chain fundamentals and developer enablement, modern Web3 projects construct enduring technological moats that accelerate sustained ecosystem expansion.
 
 Protocols that execute these integrated disciplines build composable moats, attract committed developer ecosystems, and achieve enduring market leadership across decentralized networks.
-
-## Primary Sources & Empirical Research References
-
-1. [Electric Capital Developer Report](https://www.developerreport.com/)
-2. [Electric Capital Crypto Developer Taxonomy 2024](https://www.developerreport.com/developer-report)
-3. [Alchemy Web3 Developer Report](https://www.alchemy.com/developer-report)
-4. [Alchemy RPC and Node Infrastructure Platform](https://www.alchemy.com/)
-5. [Infura Blockchain Developer Suite](https://www.infura.io/)
-6. [QuickNode Web3 Cloud Infrastructure](https://www.quicknode.com/)
-7. [The Graph Decentralized Indexing Protocol](https://thegraph.com/)
-8. [Goldsky Real-Time Web3 Data Streaming](https://goldsky.com/)
-9. [Chainlink Decentralized Oracle Network](https://chain.link/)
-10. [Pyth Network High-Frequency Oracle Directory](https://pyth.network/)
-11. [Uniswap v3 Concentrated Liquidity Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-12. [Uniswap v4 Architecture and Hooks Specification](https://uniswap.org/blog/uniswap-v4)
-13. [Aave v3 Lending Protocol Technical Paper](https://aave.com/)
-14. [MakerDAO/Sky Protocol Architecture and Governance](https://docs.makerdao.com/)
-15. [Morpho Blue Lending Protocol Docs](https://morpho.org/)
-16. [Compound Finance Protocol Documentation](https://compound.finance/)
-17. [Curve Finance Automated Market Maker Docs](https://docs.curve.fi/)
-18. [Convex Finance Yield Optimization Protocol](https://www.convexfinance.com/)
-19. [Aerodrome Finance Liquidity Engine on Base](https://aerodrome.finance/)
-20. [Velodrome Finance Liquidity Protocol on Optimism](https://velodrome.finance/)
-21. [Variant Fund Progressive Decentralization Framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications)
-22. [Variant Fund Token Distribution Design](https://variant.fund/writing/token-distribution-design)
-23. [a16z crypto State of Crypto Report 2024](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/)
-24. [a16z crypto Developer Activity Trends](https://a16zcrypto.com/posts/article/crypto-developer-activity/)
-25. [Arbitrum Foundation Ecosystem Grant Guidelines](https://arbitrum.foundation/grants)
-26. [Optimism Retro Funding Program Documentation](https://app.optimism.io/retropgf)
-27. [Polygon Village Startup Support Program](https://polygon.technology/village)
-28. [Base Ecosystem Builder Grants Registry](https://base.org/)
-29. [Solana Foundation Developer Grants](https://solana.org/grants)
-30. [Avalanche Blizzard Ecosystem Fund](https://www.avax.network/)
-31. [Safe Multisig Smart Contract Infrastructure](https://safe.global/)
-32. [Snapshot Off-Chain Governance Voting Hub](https://snapshot.box/)
-33. [Tally On-Chain DAO Governance Platform](https://www.tally.xyz/)
-34. [Dune Analytics Public Web3 Data Engine](https://dune.com/)
-35. [Flipside Crypto SQL Data Analytics](https://flipsidecrypto.xyz/)
-36. [Artemis Institutional Blockchain Fundamentals](https://www.artemis.xyz/)
-37. [DeFiLlama Protocol TVL and Volume Directory](https://defillama.com/)
-38. [Token Terminal Financial Statements for Crypto](https://tokenterminal.com/)
-39. [Messari Protocol Research and Diligence](https://messari.io/research)
-40. [Chainalysis Global Crypto Adoption Study 2024](https://www.chainanalysis.com/blog/2024-global-crypto-adoption-index/)
-41. [DappRadar 2024 Industry Report](https://dappradar.com/blog/2024-industry-report)
-42. [Spindl Web3 Attribution and Conversion Engine](https://spindl.xyz/)
-43. [Safary Web3 Marketing Analytics Platform](https://www.safary.club/)
-44. [Cookie3 Web3 Marketing Analytics](https://www.cookie3.co/)
-45. [Foundry Testing Framework and Book](https://book.getfoundry.sh/)
-46. [Hardhat Ethereum Development Environment](https://hardhat.org/)
-47. [OpenZeppelin Smart Contract Audit Standards](https://www.openzeppelin.com/security-audits)
-48. [Trail of Bits Software Assurance Handbook](https://www.trailofbits.com/)
-49. [Code4rena Competitive Audit Model](https://code4rena.com/)
-50. [Sherlock Smart Contract Coverage and Audit Protocol](https://sherlock.xyz/)
-51. [Immunefi Web3 Bug Bounty Platform](https://immunefi.com/)
-52. [Etherscan Ethereum Block Explorer](https://etherscan.io/)
-53. [Basescan Layer 2 Explorer](https://basescan.org/)
-54. [Arbiscan Arbitrum Rollup Explorer](https://arbiscan.io/)
-55. [Farcaster Open Protocol Documentation](https://docs.farcaster.xyz/)
-56. [Mirror Decentralized Publishing Protocol](https://mirror.xyz/)
-57. [Paragraph Web3 Publishing Platform](https://paragraph.xyz/)

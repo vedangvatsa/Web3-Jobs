@@ -7,7 +7,7 @@ description: >-
 data-ai-hint: writing letter
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 When you decide to leave your job, giving two weeks' notice is a standard professional practice. You should first have a conversation with your manager before submitting a formal resignation letter. This letter serves as the official record for HR and should express your intentions clearly and professionally. The objective is to leave on good terms.
 
@@ -19,7 +19,7 @@ Here are several templates tailored to various situations. Choose one that align
 
 This template is suitable for most professional environments. It maintains a respectful tone and is widely applicable.
 
-**Subject:**Resignation - [Your Name]**Body:**Dear [Manager's Name],
+**Subject:** Resignation - [Your Name]**Body:** Dear [Manager's Name],
 
 I am writing to formally resign from my position as [Job Title] at [Company Name]. My last day of employment will be [Your Last Day], two weeks from today.
 
@@ -34,7 +34,11 @@ Sincerely,
 
 ### Template 2: The More Personal and Heartfelt
 
-For those who share a close relationship with their manager and team, this template adds a personal touch while retaining professionalism.**Subject:**Moving On**Body:**Dear [Manager's Name],
+For those who share a close relationship with their manager and team, this template adds a personal touch while retaining professionalism.
+
+**Subject:** Moving On
+
+**Body:** Dear [Manager's Name],
 
 I am writing with mixed emotions to announce my resignation from my role as [Job Title] at [Company Name]. My final day will be [Your Last Day].
 
@@ -49,7 +53,9 @@ Best wishes,
 
 ### Template 3: The "Leaving a Difficult Situation" Letter
 
-If you are departing due to a negative work environment, maintain professionalism in your letter. Avoid venting frustrations; your resignation letter is a permanent record.**Subject:**Resignation - [Your Name]**Body:**Dear [Manager's Name],
+If you are departing due to a negative work environment, maintain professionalism in your letter. Avoid venting frustrations; your resignation letter is a permanent record.
+
+**Subject:** Resignation - [Your Name]**Body:** Dear [Manager's Name],
 
 I am writing to formally resign from my position as [Job Title] at [Company Name]. My last day will be [Your Last Day].
 
@@ -64,7 +70,9 @@ This template is intentionally brief and neutral, fulfilling your professional o
 
 ### Template 4: If You Need to Give Less Than Two Weeks' Notice
 
-Under certain circumstances, you may need to resign with less than two weeks' notice. While this is less than ideal, you can still handle it professionally by providing a brief explanation.**Subject:**Resignation - [Your Name]**Body:**Dear [Manager's Name],
+Under certain circumstances, you may need to resign with less than two weeks' notice. While this is less than ideal, you can still handle it professionally by providing a brief explanation.
+
+**Subject:** Resignation - [Your Name]**Body:** Dear [Manager's Name],
 
 I am writing to notify you that I will be resigning from my position as [Job Title]. Due to [a brief, professional reason, e.g., a family emergency, a time-sensitive opportunity], my last day of employment will be [Your Last Day].
 
@@ -77,31 +85,44 @@ Sincerely,
 
 Regardless of the circumstances surrounding your departure, your resignation letter should formally close this chapter of your career. Keeping a positive and forward-looking tone ensures that you leave on the best possible terms.
 
-### Frequently Asked Questions (FAQs)**Do I have to give a reason for leaving in my letter?**You are not required to provide a reason for your departure in your resignation letter. Keeping it positive and simple is often the best strategy.**Should I email the letter or provide a printed copy?**In most workplaces, emailing your resignation letter to your manager (and CC'ing HR) after your in-person or video discussion is the standard protocol.**What should my last day be?**Typically, your last working day will be two full weeks from the day you submit your resignation. For instance, if you resign on a Monday, your last day would be the following Friday.
+### Frequently Asked Questions (FAQs)
+
+#### Do I have to give a reason for leaving in my letter?
+
+You are not required to provide a reason for your departure in your resignation letter. Keeping it positive and simple is often the best strategy.
+
+#### Should I email the letter or provide a printed copy?
+
+In most workplaces, emailing your resignation letter to your manager (and CC'ing HR) after your in-person or video discussion is the standard protocol.
+
+#### What should my last day be?
+
+Typically, your last working day will be two full weeks from the day you submit your resignation. For instance, if you resign on a Monday, your last day would be the following Friday.
 
 ### Practical Considerations for Your Resignation
 
 When you decide to resign, consider the following factors to ensure a smooth transition:
 
 | Factor | Consideration |
-|----------------------------------|----------------------------------------------------------------|
-|**Timing**| Submit your resignation when it minimizes disruption to your team. |
-|**Exit Interview**| Be prepared to share feedback in an exit interview, if offered. |
-|**Transition Plan**| Offer to prepare documentation for your responsibilities. |
-|**Future References**| Maintain a positive relationship for potential future references. |
-|**Networking** | Keep in touch with colleagues, as they are part of your professional network. |
+|
+
+----------------------------------|
+
+----------------------------------------------------------------|
+|
+
+**Timing**| Submit your resignation when it minimizes disruption to your team. |
+|
+
+**Exit Interview**| Be prepared to share feedback in an exit interview, if offered. |
+|
+
+**Transition Plan**| Offer to prepare documentation for your responsibilities. |
+|
+
+**Future References**| Maintain a positive relationship for potential future references. |
+|
+
+**Networking** | Keep in touch with colleagues, as they are part of your professional network. |
 
 By considering these factors, you can manage your resignation professionally and maintain positive relationships.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
-10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)

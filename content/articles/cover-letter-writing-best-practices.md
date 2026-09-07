@@ -7,7 +7,7 @@ description: >-
   impression.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 A cover letter remains a vital component of the job application process. While your [resume](/how-to-build-a-web3-resume-that-stands-out) summarizes your qualifications, the cover letter allows you to convey your story, personality, and connection to the hiring manager. It serves as a platform to articulate why you are the ideal candidate for the position. Implement these best practices to craft a compelling cover letter that stands out.
 
@@ -58,25 +58,24 @@ Conclude your letter with a confident closing that encourages further communicat
 A well-crafted cover letter typically consists of 3-4 paragraphs, fitting within one page.
 
 | Paragraph | Content Description |
-|-----------|---------------------|
+|
+
+-----------|
+
+---------------------|
 | 1 | Introduction: A strong opening that engages the reader and states the position you are applying for. |
 | 2 & 3 | Body: Connect your experience to the job requirements by providing specific examples that highlight your value. |
 | 4 | Closing: Reiterate enthusiasm for the role, express a desire for an interview, and thank the hiring manager. |
 
 ### FAQs
 
-**What is the ideal length for a cover letter?**A cover letter should be concise, ideally 3-4 paragraphs long, and never exceed one page.**Should I write a cover letter if it is optional?**Yes. A well-crafted cover letter provides a chance to differentiate yourself from other candidates. Many applicants skip it, so taking the time to write one shows commitment.**What tone should my cover letter have?** 
+#### What is the ideal length for a cover letter?
+
+A cover letter should be concise, ideally 3-4 paragraphs long, and never exceed one page.
+
+#### Should I write a cover letter if it is optional?
+
+Yes. A well-crafted cover letter provides a chance to differentiate yourself from other candidates. Many applicants skip it, so taking the time to write one shows commitment.
+
+**What tone should my cover letter have?** 
 Maintain a professional tone while allowing your personality to shine through. Convey your enthusiasm for the role and the company clearly.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-4. [W3C Decentralized Identifiers (DIDs) v1.0 Architecture Specification](https://www.w3.org/TR/did-core/)
-5. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-6. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

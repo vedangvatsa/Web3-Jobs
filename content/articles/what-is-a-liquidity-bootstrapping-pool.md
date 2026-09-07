@@ -7,7 +7,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 image: /images/articles/charts/liquidity-bootstrapping-pool-decay.svg
 ---
-
 Decentralized token launches have historically struggled with adverse selection, capital constraints, and predatory bot activity. Early token distribution models, such as Initial Coin Offerings (ICOs) and Initial DEX Offerings (IDOs) documented in [Ethereum Developer Documentation](https://ethereum.org/en/developers/docs/) and early bonding curve protocols like [Bancor Protocol](https://web.archive.org/web/20170624021658/https://bancor.network/static/bancor_protocol_whitepaper_en.pdf) on constant product automated market makers, suffered from structural flaws. When a project launched a token on a standard fifty-fifty automated market maker, the first blocks of trading were routinely captured by automated sniper bots, causing catastrophic price spikes followed by retail dumping.
 
 The Liquidity Bootstrapping Pool (LBP), invented by [Balancer](https://balancer.fi/whitepaper.pdf) and built upon the open-source [Balancer Core Contracts](https://github.com/balancer/balancer-v2-monorepo) documented at [Balancer Docs](https://docs.balancer.fi/), introduced an elegant algorithmic mechanism designed to achieve decentralized, fair, and bot-resistant price discovery. 
@@ -218,8 +217,12 @@ An LBP is designed as a temporary price discovery mechanism, typically operating
 |                 |                                                     |
 |                 v                                                     |
 |  [Seed Permanent Liquidity]                                           |
-|  - Balancer 80/20 Pool (veTokenomics)                                 |
-|  - Uniswap v3 Full-Range Concentrated Position                        |
+|  
+
+- Balancer 80/20 Pool (veTokenomics)                                 |
+|  
+
+- Uniswap v3 Full-Range Concentrated Position                        |
 +-----------------------------------------------------------------------+
 ```
 
@@ -232,8 +235,6 @@ Modern decentralized protocols utilize the proceeds generated during an LBP to s
 3. Liquidity Locking: The resulting LP tokens or Balancer Pool Tokens (BPT) are deposited into a timelock smart contract or an on-chain governance treasury, guaranteeing secondary market liquidity for users.
 
 ---
-
-
 
 ---
 
@@ -285,7 +286,6 @@ At the conclusion of the event:
 - 3,050,000 project tokens were distributed into the hands of hundreds of independent participants.
 - The project treasury accumulated $680,000 in USDC collateral, representing a net capital raise of $580,000.
 - The ending 50/50 pool contained $680,000 in USDC paired with 6,950,000 project tokens, establishing deep, immediate secondary market liquidity.
-
 
 ## Developer Implementation: Controlling an LBP via Solidity
 

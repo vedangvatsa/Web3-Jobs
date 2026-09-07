@@ -18,18 +18,24 @@ The German Web3 market emphasizes technical depth and focuses on developing esse
 
 Germany's Web3 contributions are critical, concentrating on the foundational engineering that supports blockchain functionality rather than on speculative [NFT](/what-are-nfts) projects.
 
-- **Core Infrastructure Hub:**Berlin excels in core [Ethereum](/what-is-ethereum) development, housing teams that focus on client software like Geth and Nethermind. It is also a significant contributor to Layer 2 scaling solutions and the Ethereum protocol itself, with the Ethereum Foundation maintaining a strong local presence.
--**Security-First Culture:**Germany's engineering culture emphasizes precision and reliability, traits that are vital in the high-stakes blockchain environment. The city is home to numerous security researchers and [smart contract](/what-are-smart-contracts) auditors, enhancing the security framework of Web3 projects.
--**DAO and Governance Center:**Many influential DAOs and tools for decentralized governance operate out of Berlin, establishing it as a focal point for the evolution of decentralized governance practices.
--**Pragmatic Regulation:**Germany's financial regulator, BaFin, has established clearer guidelines for crypto assets and businesses compared to other jurisdictions. This regulatory clarity attracts crypto exchanges, custodians, and institutional investors.
--**The "Crypto Berlin" Hub:**Kreuzberg, a district in Berlin, is filled with crypto co-working spaces, cafes, and event venues. This area boasts one of the highest concentrations of crypto-related businesses globally.
+- **Core Infrastructure Hub:** Berlin excels in core [Ethereum](/what-is-ethereum) development, housing teams that focus on client software like Geth and Nethermind. It is also a significant contributor to Layer 2 scaling solutions and the Ethereum protocol itself, with the Ethereum Foundation maintaining a strong local presence.
+- **Security-First Culture:** Germany's engineering culture emphasizes precision and reliability, traits that are vital in the high-stakes blockchain environment. The city is home to numerous security researchers and [smart contract](/what-are-smart-contracts) auditors, enhancing the security framework of Web3 projects.
+- **DAO and Governance Center:** Many influential DAOs and tools for decentralized governance operate out of Berlin, establishing it as a focal point for the evolution of decentralized governance practices.
+- **Pragmatic Regulation:** Germany's financial regulator, BaFin, has established clearer guidelines for crypto assets and businesses compared to other jurisdictions. This regulatory clarity attracts crypto exchanges, custodians, and institutional investors.
+- **The "Crypto Berlin" Hub:** Kreuzberg, a district in Berlin, is filled with crypto co-working spaces, cafes, and event venues. This area boasts one of the highest concentrations of crypto-related businesses globally.
 
 ### In-Demand Roles and Salary Expectations
 
 The German market prioritizes highly technical roles, offering competitive salaries that rank among the highest in Europe for Web3 professionals, particularly experienced engineers.
 
 | Role | Mid-Level Salary (€) | Senior Salary (€) |
-|------------------------------------|----------------------|----------------------------|
+|
+
+------------------------------------|
+
+----------------------|
+
+----------------------------|
 | Protocol Engineer (Rust/Go) | Competitive | Competitive |
 | [Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer) ([Solidity](/best-programming-languages-for-blockchain-development)) | Competitive | Competitive |
 | Security Researcher / Auditor | Competitive | Competitive |
@@ -39,30 +45,25 @@ The German market prioritizes highly technical roles, offering competitive salar
 
 ### Pathway to a Web3 Job in Germany
 
-1.**Specialize in Infrastructure:**To excel in the German market, focus on developing deep technical skills. Developers should learn systems languages like Rust or Go and gain a solid understanding of protocol architecture and consensus mechanisms.
+1.
 
-2.**Build a Strong Open-Source [Portfolio](/building-web3-portfolio):**Your GitHub profile serves as a critical asset. Contribute to reputable Web3 projects, especially core clients or infrastructure. Demonstrating open-source contributions signals your capabilities to potential employers.
+**Specialize in Infrastructure:** To excel in the German market, focus on developing deep technical skills. Developers should learn systems languages like Rust or Go and gain a solid understanding of protocol architecture and consensus mechanisms.
 
-3.**Engage with the Berlin Community:**The community is collaborative and tightly knit.
- -**Attend Meetups:**Participate in regular Ethereum and Rust developer meetups to network and learn.
- -**Use Co-Working Spaces:**Work from crypto-focused co-working venues like Full Node or Factory Berlin to immerse yourself in the ecosystem.
- -**Join Major Events:**Attend events such as ETHBerlin, DappCon, and Safe{Con} to expand your network.
+2.
 
-4.**Prioritize Security and Reliability:** Showcase a security-first mindset in your projects and during [interviews](/how-to-prepare-for-job-interview). Emphasize your commitment to writing reliable code.
+**Build a Strong Open-Source [Portfolio](/building-web3-portfolio):** Your GitHub profile serves as a critical asset. Contribute to reputable Web3 projects, especially core clients or infrastructure. Demonstrating open-source contributions signals your capabilities to potential employers.
+
+3.
+
+**Engage with the Berlin Community:** The community is collaborative and tightly knit.
+ - **Attend Meetups:** Participate in regular Ethereum and Rust developer meetups to network and learn.
+ - **Use Co-Working Spaces:** Work from crypto-focused co-working venues like Full Node or Factory Berlin to immerse yourself in the ecosystem.
+ - **Join Major Events:** Attend events such as ETHBerlin, DappCon, and Safe{Con} to expand your network.
+
+4.
+
+**Prioritize Security and Reliability:** Showcase a security-first mindset in your projects and during [interviews](/how-to-prepare-for-job-interview). Emphasize your commitment to writing reliable code.
 
 ### Exploring Web3 Job Opportunities in Germany
 
 For those seeking to explore career opportunities in Germany's evolving crypto sector, visit our global [Web3 job board](/jobs). Germany, particularly Berlin, remains a prime location for individuals passionate about contributing to the foundational layer of Web3 infrastructure.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [Uniswap v3 Core Architecture Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)

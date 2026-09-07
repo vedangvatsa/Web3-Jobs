@@ -86,8 +86,6 @@ Fourth, Attribution and Wallet Retention Cohorts: Analyzed using [Spindl Web3 at
 
 Fifth, Governance Quorum and Voter Decentralization: Assessed via [Tally on-chain DAO governance platform](https://www.tally.xyz/). Measuring the distribution of voting weight across independent token holders ensures that governance decisions reflect broad community consensus rather than concentrated insider control.
 
-
-
 ### Token sink architecture and emission decay curves
 
 A fatal flaw in early protocol launches was treating the token purely as a reward mechanism without engineering sustainable utility and structural sinks. When a protocol emits tokens to bootstrap liquidity without creating organic demand sinks, market dynamics produce continuous sell pressure that erodes token value.
@@ -108,8 +106,6 @@ Market making partnerships establish orderly bid-ask spreads across major venues
 
 Simultaneously, protocols bridge liquidity across Layer 1 and Layer 2 ecosystems. By deploying native bridge contracts and canonical token representations across Ethereum, Arbitrum, Base, Optimism, and Solana, protocols prevent fragmented wrapped tokens from diluting brand liquidity. Unified liquidity routing protocols ensure that users experience consistent pricing regardless of the specific blockchain network where they initiate transactions.
 
-
-
 ### Continuous community feedback loops and incident communications
 
 Protocol go-to-market execution requires structured operational feedback channels that function effectively during high-stress protocol incidents. When smart contract vulnerabilities, oracle delays, or economic exploits occur, disorganized communication accelerates liquidity panic.
@@ -124,63 +120,3 @@ Maintaining verifiable transparency during crisis moments transforms potential p
 Successful protocol leaders recognize that go-to-market execution in decentralized systems is a continuous, multi-year operating commitment rather than a singular launch event. Teams that build durable on-chain utility and transparent governance frameworks construct generational networks that thrive across shifting macroeconomic environments.
 
 A disciplined Web3 go-to-market strategy harmonizes technical security, economic game theory, and progressive community ownership. Protocols that execute these four stages deliberately build resilient, decentralized networks capable of sustaining long-term capital and user adoption.
-
-## Primary Sources & Empirical Research References
-
-1. [Variant Fund Progressive Decentralization Framework](https://variant.fund/writing/progressive-decentralization-a-playbook-for-building-crypto-applications)
-2. [Variant Fund Token Distribution Design](https://variant.fund/writing/token-distribution-design)
-3. [a16z crypto State of Crypto Report 2024](https://a16zcrypto.com/posts/article/state-of-crypto-report-2024/)
-4. [a16z crypto Token Launch Playbook](https://a16zcrypto.com/)
-5. [Electric Capital Developer Report](https://www.developerreport.com/)
-6. [Electric Capital Crypto Developer Taxonomy 2024](https://www.developerreport.com/developer-report)
-7. [Balancer Liquidity Bootstrapping Pools Specification](https://docs.balancer.fi/concepts/pools/liquidity-bootstrapping.html)
-8. [Fjord Foundry Liquidity Bootstrapping Platform](https://www.fjordfoundry.com/)
-9. [Uniswap v3 Concentrated Liquidity Protocol Whitepaper](https://uniswap.org/whitepaper-v3.pdf)
-10. [Uniswap v4 Architecture and Hooks Specification](https://uniswap.org/blog/uniswap-v4)
-11. [Curve Finance Automated Market Maker Documentation](https://docs.curve.fi/)
-12. [Convex Finance Yield Optimization Protocol](https://www.convexfinance.com/)
-13. [Aerodrome Finance Liquidity Engine on Base](https://aerodrome.finance/)
-14. [Velodrome Finance Liquidity Protocol on Optimism](https://velodrome.finance/)
-15. [Gitcoin Passport Sybil Resistance Protocol](https://passport.gitcoin.co/)
-16. [World ID Biometric Proof of Personhood](https://world.org/world-id)
-17. [Proof of Humanity Protocol](https://www.proofofhumanity.id/)
-18. [LayerZero Cross-Chain Sybil Hunting Report](https://layerzero.network/)
-19. [Starknet Token Distribution Post-Mortem](https://starknet.io/)
-20. [ZKsync Token Allocation and Governance Architecture](https://zksync.io/)
-21. [Arbitrum Foundation Ecosystem Grant Guidelines](https://arbitrum.foundation/grants)
-22. [Optimism RetroPGF and Retro Funding Documentation](https://app.optimism.io/retropgf)
-23. [Polygon Village Startup Accelerator](https://polygon.technology/village)
-24. [Base Builder Grants Program](https://base.org/)
-25. [Solana Foundation Developer Grants Registry](https://solana.org/grants)
-26. [Avalanche Blizzard Ecosystem Fund](https://www.avax.network/)
-27. [Safe Multisig Smart Contract Infrastructure](https://safe.global/)
-28. [Snapshot Off-Chain Governance Voting Hub](https://snapshot.box/)
-29. [Tally On-Chain DAO Governance Platform](https://www.tally.xyz/)
-30. [OpenZeppelin Governor Contract Documentation](https://docs.openzeppelin.com/contracts/4.x/governance)
-31. [Compound Finance Governor Bravo Specification](https://compound.finance/docs/governance)
-32. [Dune Analytics Public Web3 Data Engine](https://dune.com/)
-33. [Flipside Crypto Blockchain Data Models](https://flipsidecrypto.xyz/)
-34. [Artemis Protocol Fundamentals Platform](https://www.artemis.xyz/)
-35. [DeFiLlama Protocol TVL and Volume Directory](https://defillama.com/)
-36. [Token Terminal Financial Statements for Crypto](https://tokenterminal.com/)
-37. [Messari Protocol Research and Diligence Reports](https://messari.io/research)
-38. [Chainalysis Global Crypto Adoption Study 2024](https://www.chainanalysis.com/blog/2024-global-crypto-adoption-index/)
-39. [DappRadar Decentralized Application Analytics](https://dappradar.com/)
-40. [Spindl Web3 Attribution Engine](https://spindl.xyz/)
-41. [Safary Web3 Marketing Analytics Platform](https://www.safary.club/)
-42. [Cookie3 On-Chain Marketing Intelligence](https://www.cookie3.co/)
-43. [Foundry Testing Framework and Book](https://book.getfoundry.sh/)
-44. [Hardhat Ethereum Development Environment](https://hardhat.org/)
-45. [OpenZeppelin Smart Contract Audit Standards](https://www.openzeppelin.com/security-audits)
-46. [Trail of Bits Software Assurance Handbook](https://www.trailofbits.com/)
-47. [Code4rena Competitive Audit Model](https://code4rena.com/)
-48. [Sherlock Smart Contract Coverage and Audit Protocol](https://sherlock.xyz/)
-49. [Immunefi Web3 Bug Bounty Platform](https://immunefi.com/)
-50. [Etherscan Ethereum Block Explorer](https://etherscan.io/)
-51. [Basescan Layer 2 Explorer](https://basescan.org/)
-52. [Arbiscan Arbitrum Rollup Explorer](https://arbiscan.io/)
-53. [Farcaster Open Social Protocol Documentation](https://docs.farcaster.xyz/)
-54. [Mirror Decentralized Publishing Protocol](https://mirror.xyz/)
-55. [Paragraph Web3 Publishing Platform](https://paragraph.xyz/)
-56. [CoinGecko Public Crypto Data API](https://www.coingecko.com/)
-57. [CoinMarketCap Token Metrics and Listings](https://coinmarketcap.com/)

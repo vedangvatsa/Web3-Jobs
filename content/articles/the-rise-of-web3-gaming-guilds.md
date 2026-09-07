@@ -26,9 +26,13 @@ The "scholarship" model, first popularized by Axie Infinity, marks a significant
 
 Web3 guilds address these challenges by:
 
-1. **Acquiring Assets:**Many guilds operate as Decentralized Autonomous Organizations ([DAO](/what-is-a-dao)), raising capital to purchase a diverse portfolio of in-game NFT assets.
-2.**Lending Assets (Scholarships):**Guilds lend these assets to new players, referred to as "scholars." This arrangement allows scholars to begin playing and earning rewards without any initial investment.
-3.**Revenue Sharing:**The rewards earned by scholars, often in the form of the game's native [tokens](/what-is-a-token), are distributed among the scholar, the guild's treasury, and a local "community manager" who provides training and support. A typical revenue split might allocate a significant portion to the scholar, a smaller portion to the guild, and a portion to the community manager.
+1. **Acquiring Assets:** Many guilds operate as Decentralized Autonomous Organizations ([DAO](/what-is-a-dao)), raising capital to purchase a diverse portfolio of in-game NFT assets.
+2.
+
+**Lending Assets (Scholarships):** Guilds lend these assets to new players, referred to as "scholars." This arrangement allows scholars to begin playing and earning rewards without any initial investment.
+3.
+
+**Revenue Sharing:** The rewards earned by scholars, often in the form of the game's native [tokens](/what-is-a-token), are distributed among the scholar, the guild's treasury, and a local "community manager" who provides training and support. A typical revenue split might allocate a significant portion to the scholar, a smaller portion to the guild, and a portion to the community manager.
 
 This straightforward yet effective model creates a mutually beneficial scenario: new players gain access to the game, the guild generates returns on its assets, and the game's user base expands.
 
@@ -53,11 +57,23 @@ Contemporary guilds are evolving into talent agencies within the metaverse. They
 Guilds are transitioning into decentralized investment funds focused on the Web3 gaming ecosystem. The guild's treasury, governed by its token holders, invests in a diversified asset portfolio, including:
 
 | Investment Type | Description |
-|------------------------|---------------------------------------------------------------|
-|**In-game NFTs**| Core business of lending assets for scholarships. |
-|**Game Tokens**| Direct investments in promising new game tokens. |
-|**Virtual Land**| Acquisitions in metaverse platforms like The Sandbox and Decentraland. |
-|**Seed-Stage Investments**| Acting as venture capital, supporting early-stage game development studios. |
+|
+
+------------------------|
+
+---------------------------------------------------------------|
+|
+
+**In-game NFTs**| Core business of lending assets for scholarships. |
+|
+
+**Game Tokens**| Direct investments in promising new game tokens. |
+|
+
+**Virtual Land**| Acquisitions in metaverse platforms like The Sandbox and Decentraland. |
+|
+
+**Seed-Stage Investments**| Acting as venture capital, supporting early-stage game development studios. |
 
 This shift positions the guild's token as an index fund for the entire Web3 gaming sector, providing token holders broad exposure to industry growth.
 
@@ -65,9 +81,9 @@ This shift positions the guild's token as an index fund for the entire Web3 gami
 
 The most new guilds are building platforms that create a cohesive social identity for their members throughout the Web3 ecosystem. This includes:
 
--**Player Profiles:**A universal profile tracking a scholar's reputation, achievements, and earnings across all games. This "on-chain [resume](/how-to-build-a-web3-resume-that-stands-out)" enables players to cultivate a portable reputation.
--**Credentialing:**Guilds issue on-chain credentials or badges to players who demonstrate skill or reliability, building trust and reputation in a pseudonymous environment.
--**Social Safety Nets:** By offering education, training, and stable income, guilds serve as social and economic safety nets for a growing class of digital workers globally.
+- **Player Profiles:** A universal profile tracking a scholar's reputation, achievements, and earnings across all games. This "on-chain [resume](/how-to-build-a-web3-resume-that-stands-out)" enables players to cultivate a portable reputation.
+- **Credentialing:** Guilds issue on-chain credentials or badges to players who demonstrate skill or reliability, building trust and reputation in a pseudonymous environment.
+- **Social Safety Nets:** By offering education, training, and stable income, guilds serve as social and economic safety nets for a growing class of digital workers globally.
 
 ## The Challenges and Future of Web3 Guilds
 
@@ -96,16 +112,3 @@ Career advancement occurs more rapidly in Web3 due to swift company growth and a
 ### Equity Upside
 
 Standard token and equity packages present substantial wealth-building prospects for early team members at successful protocols.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum EIP-721 Non-Fungible Token Standard Specification](https://eips.ethereum.org/EIPS/eip-721)
-2. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-5. [Aave v3 Technical Protocol Architecture Documentation](https://docs.aave.com/developers/)
-6. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-7. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-8. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-9. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-10. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)

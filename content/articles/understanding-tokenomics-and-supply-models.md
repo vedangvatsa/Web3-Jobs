@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: understanding-tokenomics-and-supply-models
 ---
-
 In traditional corporate finance, an equity share represents a legal claim on a company assets, cash flows, and voting power, protected by statutory company law and regulatory enforcement. In decentralized protocols, digital tokens represent programmatic economic instruments whose rights, emissions, and value accrual are governed strictly by immutable smart contract logic deployed across networks like [Ethereum Foundation](https://ethereum.org), [Arbitrum](https://arbitrum.io), and [Solana Foundation](https://solana.com).
 
 This economic architecture, known as tokenomics (a portmanteau of token and economics), determines whether a decentralized network can achieve sustainable long-term equilibrium or whether it collapses under inflationary dilution and speculative churn. 
@@ -39,16 +38,30 @@ $$M = rac{P \cdot Q}{V}$$
 |                  The Cryptoeconomic Velocity Problem                    |
 +-------------------------------------------------------------------------+
 | High Token Velocity (V):                                                |
-|   - Users buy token ONLY to immediately pay transaction fees            |
-|   - Recipient immediately sells token for fiat or stablecoins          |
-|   - High transaction volume (P * Q) does NOT translate into price value  |
-|   - The token functions as a temporary pass-through medium              |
+|   
+
+- Users buy token ONLY to immediately pay transaction fees            |
+|   
+
+- Recipient immediately sells token for fiat or stablecoins          |
+|   
+
+- High transaction volume (P * Q) does NOT translate into price value  |
+|   
+
+- The token functions as a temporary pass-through medium              |
 |                                                                         |
 | Low Token Velocity / Structural Sinks:                                  |
-|   - Tokens are locked in staking (PoS consensus), governance (veTokens),|
+|   
+
+- Tokens are locked in staking (PoS consensus), governance (veTokens),|
 |     or bonded as loan collateral                                        |
-|   - Velocity drops; floating supply contracts                           |
-|   - Network economic expansion directly drives capital appreciation     |
+|   
+
+- Velocity drops; floating supply contracts                           |
+|   
+
+- Network economic expansion directly drives capital appreciation     |
 +-------------------------------------------------------------------------+
 ```
 
@@ -77,11 +90,17 @@ For venture-backed protocols, private token sales represent the largest source o
 | Token Generation Event (TGE) ---> Month 12: 0% Tokens Unlocked          |
 |                                                                         |
 | Month 12 (Cliff Date):                                                  |
-|   - 25% of total allocation instantly unlocks (The "Cliff Dump")        |
+|   
+
+- 25% of total allocation instantly unlocks (The "Cliff Dump")        |
 |                                                                         |
 | Months 13 through 48:                                                   |
-|   - Remaining 75% unlocks linearly on a per-second or monthly schedule  |
-|   - Steady, predictable sell pressure from early investors              |
+|   
+
+- Remaining 75% unlocks linearly on a per-second or monthly schedule  |
+|   
+
+- Steady, predictable sell pressure from early investors              |
 +-------------------------------------------------------------------------+
 ```
 
@@ -113,12 +132,20 @@ Formalized in [EIP-1559](https://eips.ethereum.org/EIPS/eip-1559) on Ethereum an
 | Total User Gas Fee = Base Fee (Burned) + Priority Fee (Validator Tip)   |
 |                                                                         |
 | High Network Demand:                                                    |
-|   - Gas > Target (15M gas) ---> Base fee increases exponentially        |
-|   - Burn Rate > Validator Issuance Rate ---> Net Deflationary Supply    |
+|   
+
+- Gas > Target (15M gas) ---> Base fee increases exponentially        |
+|   
+
+- Burn Rate > Validator Issuance Rate ---> Net Deflationary Supply    |
 |                                                                         |
 | Low Network Demand:                                                     |
-|   - Gas < Target ---> Base fee decreases                                |
-|   - Burn Rate < Validator Issuance Rate ---> Mildly Inflationary Supply |
+|   
+
+- Gas < Target ---> Base fee decreases                                |
+|   
+
+- Burn Rate < Validator Issuance Rate ---> Mildly Inflationary Supply |
 +-------------------------------------------------------------------------+
 ```
 
@@ -163,16 +190,32 @@ The primary market failure characterizing token launches between 2022 and 2026 i
 |                  Low Float vs High FDV Market Dynamics                  |
 +-------------------------------------------------------------------------+
 | Token Parameters at Launch:                                             |
-|   - Circulating Supply (Float): 5% to 10% of total tokens               |
-|   - Unlocked FDV: $10 Billion USD                                       |
-|   - Circulating Market Cap: $500 Million USD                            |
+|   
+
+- Circulating Supply (Float): 5% to 10% of total tokens               |
+|   
+
+- Unlocked FDV: $10 Billion USD                                       |
+|   
+
+- Circulating Market Cap: $500 Million USD                            |
 |                                                                         |
 | The Overhang Reality:                                                   |
-|   - Low initial float creates artificial scarcity on exchanges          |
-|   - Retail buyers push market cap to $1B, implying a $20B FDV           |
-|   - Over months 12 to 36, massive VC unlocks flood the market ($10B+)   |
-|   - Secondary market liquidity is completely inadequate to absorb volume|
-|   - Token price enters a continuous multi-year downward trajectory      |
+|   
+
+- Low initial float creates artificial scarcity on exchanges          |
+|   
+
+- Retail buyers push market cap to $1B, implying a $20B FDV           |
+|   
+
+- Over months 12 to 36, massive VC unlocks flood the market ($10B+)   |
+|   
+
+- Secondary market liquidity is completely inadequate to absorb volume|
+|   
+
+- Token price enters a continuous multi-year downward trajectory      |
 +-------------------------------------------------------------------------+
 ```
 

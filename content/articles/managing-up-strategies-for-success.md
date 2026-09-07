@@ -58,19 +58,10 @@ In a [DAO structure](/what-is-a-dao), you might be accountable to a working grou
 
 A few things that are specific to flat structures:
 
-**Identify the informal decision-makers.**Even without formal hierarchy, some people carry more influence than others - core contributors, long-tenured community members, or people who control key resources. Figure out who they are and build relationships with them. This isn't politics - it's understanding how the organization actually works.**Over-communicate your progress.**In a DAO or flat team, nobody is tracking your work for you. Post regular updates in public channels. Make your contributions visible. If people don't know what you're doing, they can't value it.**Build trust through consistency.** Without formal authority, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Over time, that consistency earns you the kind of trust and influence that no title can give you.
+**Identify the informal decision-makers.
+
+**Even without formal hierarchy, some people carry more influence than others - core contributors, long-tenured community members, or people who control key resources. Figure out who they are and build relationships with them. This isn't politics - it's understanding how the organization actually works.** Over-communicate your progress.
+
+**In a DAO or flat team, nobody is tracking your work for you. Post regular updates in public channels. Make your contributions visible. If people don't know what you're doing, they can't value it.** Build trust through consistency.** Without formal authority, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Over time, that consistency earns you the kind of trust and influence that no title can give you.
 
 Whether you're reporting to a VP at a startup or coordinating with contributors across a decentralized protocol, the core idea is the same. Figure out what matters, communicate proactively, and be the kind of person who makes the team better. Check out the latest [Web3 job openings](/jobs) to put these skills to work.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [Solidity Compiler Official Documentation & Language Spec](https://docs.soliditylang.org/)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-8. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-9. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-10. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)

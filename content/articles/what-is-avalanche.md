@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: what-is-avalanche
 ---
-
 The evolution of distributed consensus protocols is historically categorized into two distinct eras: classical Byzantine Fault Tolerant (BFT) protocols and Nakamoto consensus. Classical BFT consensus (such as PBFT, Raft, or CometBFT) provides instant, deterministic finality, but requires quadratic all-to-all communication complexity ($O(N^2)$), fundamentally capping active validator sets to a few hundred nodes before network latency degrades throughput. 
 
 Conversely, Nakamoto consensus (introduced in [Bitcoin](https://bitcoin.org) and adapted into Proof of Stake on the [Ethereum Foundation](https://ethereum.org) Beacon Chain) scales to tens of thousands of participants, but suffers from probabilistic finality, high latency, and vulnerability to selfish mining or temporary chain reorganizations.
@@ -29,17 +28,31 @@ The breakthrough that distinguishes Avalanche from all other Layer 1 blockchains
 |                  Classical BFT vs Nakamoto vs Avalanche                 |
 +-------------------------------------------------------------------------+
 | CLASSICAL BFT (CometBFT, PBFT):                                         |
-|   - Communication complexity: O(N^2) (All nodes talk to all nodes)      |
-|   - Highly performant, but capped at ~100 to 300 validators             |
+|   
+
+- Communication complexity: O(N^2) (All nodes talk to all nodes)      |
+|   
+
+- Highly performant, but capped at ~100 to 300 validators             |
 |                                                                         |
 | NAKAMOTO CONSENSUS (Bitcoin, Ethereum L1):                              |
-|   - Communication complexity: O(N)                                      |
-|   - Highly decentralized, but probabilistic finality (minutes to hours) |
+|   
+
+- Communication complexity: O(N)                                      |
+|   
+
+- Highly decentralized, but probabilistic finality (minutes to hours) |
 |                                                                         |
 | AVALANCHE METASTABLE CONSENSUS (Snowball / Slush):                      |
-|   - Communication complexity: O(k log N) (Sub-sampled random voting)    |
-|   - Massive validator decentralization (thousands of nodes)             |
-|   - Deterministic sub-second finality (<800ms) with zero forks          |
+|   
+
+- Communication complexity: O(k log N) (Sub-sampled random voting)    |
+|   
+
+- Massive validator decentralization (thousands of nodes)             |
+|   
+
+- Deterministic sub-second finality (<800ms) with zero forks          |
 +-------------------------------------------------------------------------+
 ```
 
@@ -66,16 +79,28 @@ Every validator on the Avalanche network is required to validate all three chain
 |                   The Avalanche Primary Network Tri-Chain               |
 +-------------------------------------------------------------------------+
 | 1. Platform Chain (P-Chain): Infrastructure & Validator Coordination    |
-|    - Metadata management, validator registration, staking parameters    |
-|    - Creation and tracking of sovereign Subnets                         |
+|    
+
+- Metadata management, validator registration, staking parameters    |
+|    
+
+- Creation and tracking of sovereign Subnets                         |
 +-------------------------------------------------------------------------+
 | 2. Contract Chain (C-Chain): Smart Contracts & Web3 Application Hub     |
-|    - EVM-compatible execution engine (Coreth)                           |
-|    - Supports Solidity, Vyper, MetaMask, Foundry, and DeFi protocols   |
+|    
+
+- EVM-compatible execution engine (Coreth)                           |
+|    
+
+- Supports Solidity, Vyper, MetaMask, Foundry, and DeFi protocols   |
 +-------------------------------------------------------------------------+
 | 3. Exchange Chain (X-Chain): High-Speed Digital Asset Creation & Trade  |
-|    - Directed Acyclic Graph (DAG) architecture for asset transfers      |
-|    - High-throughput non-custodial asset issuance and atomic swaps      |
+|    
+
+- Directed Acyclic Graph (DAG) architecture for asset transfers      |
+|    
+
+- High-throughput non-custodial asset issuance and atomic swaps      |
 +-------------------------------------------------------------------------+
 ```
 
@@ -110,13 +135,19 @@ While the C-Chain provides a shared smart contract platform, the core vision of 
 | [Primary Network Validators (Staked AVAX)]                             |
 |          |                                                              |
 |          +---> Subset Selected to Validate Subnet A                     |
-|          |     - Shrapnel Gaming Subnet (Custom Subnet-EVM, Custom Gas) |
+|          |     
+
+- Shrapnel Gaming Subnet (Custom Subnet-EVM, Custom Gas) |
 |          |                                                              |
 |          +---> Subset Selected to Validate Subnet B                     |
-|          |     - Institutional FX Subnet (Permissioned KYC, Private VM) |
+|          |     
+
+- Institutional FX Subnet (Permissioned KYC, Private VM) |
 |          |                                                              |
 |          +---> Subset Selected to Validate Subnet C                     |
-|                - DeFi Kingdoms Crystalvale (High-Volume GameFi)         |
+|                
+
+- DeFi Kingdoms Crystalvale (High-Volume GameFi)         |
 +-------------------------------------------------------------------------+
 ```
 
@@ -155,15 +186,21 @@ To achieve native, trustless interoperability, Avalanche engineered Avalanche Wa
 |                                |                                        |
 |                                v                                        |
 | 2. Subnet A validators sign message using BLS threshold signatures      |
-|    - Aggregate individual signatures into a single compact BLS proof    |
+|    
+
+- Aggregate individual signatures into a single compact BLS proof    |
 |                                |                                        |
 |                                v                                        |
 | 3. Untrusted Relayer delivers BLS signature payload to Subnet B        |
 |                                |                                        |
 |                                v                                        |
 | 4. Subnet B queries P-Chain state to verify Subnet A validator weights  |
-|    - Mathematically verifies that >2/3 of Subnet A stake signed message |
-|    - Executes state transition on Subnet B instantaneously              |
+|    
+
+- Mathematically verifies that >2/3 of Subnet A stake signed message |
+|    
+
+- Executes state transition on Subnet B instantaneously              |
 +-------------------------------------------------------------------------+
 ```
 
@@ -189,15 +226,29 @@ To dismantle this economic barrier, the network introduced the Avalanche9000 upg
 |                  Legacy Subnets vs Avalanche9000 (ACP-77)               |
 +-------------------------------------------------------------------------+
 | LEGACY SUBNET VALIDATION (Historical Constraint):                       |
-|   - Every Subnet validator required to stake 2,000 AVAX on Primary Net  |
-|   - Heavy hardware overhead: Must sync C-Chain, P-Chain, and X-Chain    |
-|   - Prohibitive capital cost for startups and independent developers   |
+|   
+
+- Every Subnet validator required to stake 2,000 AVAX on Primary Net  |
+|   
+
+- Heavy hardware overhead: Must sync C-Chain, P-Chain, and X-Chain    |
+|   
+
+- Prohibitive capital cost for startups and independent developers   |
 |                                                                         |
 | AVALANCHE9000 / ACP-77 (Production Model):                              |
-|   - Completely decouples Subnet validation from Primary Network staking |
-|   - Subnet validators only validate their specific Subnet               |
-|   - Subnets pay a minimal, dynamic registration fee in AVAX to P-Chain  |
-|   - Reduces Subnet deployment capital costs by over 99%                 |
+|   
+
+- Completely decouples Subnet validation from Primary Network staking |
+|   
+
+- Subnet validators only validate their specific Subnet               |
+|   
+
+- Subnets pay a minimal, dynamic registration fee in AVAX to P-Chain  |
+|   
+
+- Reduces Subnet deployment capital costs by over 99%                 |
 +-------------------------------------------------------------------------+
 ```
 

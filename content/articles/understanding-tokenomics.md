@@ -20,50 +20,51 @@ Understanding tokenomics is essential for anyone involved in the [Web3](/what-is
 
 A token's supply mechanics form the cornerstone of its design, incorporating fundamental principles of scarcity and inflation.
 
-- **Maximum Supply:**Does the token have a hard cap? For instance, [Bitcoin](/what-is-bitcoin) has a maximum supply of 21 million tokens, making it a deflationary asset comparable to digital gold.
--**Circulating Supply:**What is the current number of tokens available for trading?
--**Inflation vs. Deflation:**-**Inflationary Tokens:**These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is an important metric.
- -**Deflationary Tokens:**These tokens decrease in supply over time, often through a "burn" mechanism that permanently removes a portion of transaction fees from circulation.**Consideration:**Does the supply model promote long-term scarcity and value appreciation, or does it favor high inflation that could devalue early adopters' holdings?
+- **Maximum Supply:** Does the token have a hard cap? For instance, [Bitcoin](/what-is-bitcoin) has a maximum supply of 21 million tokens, making it a deflationary asset comparable to digital gold.
+- **Circulating Supply:** What is the current number of tokens available for trading?
+- **Inflation vs. Deflation:**
+
+- **-** Inflationary Tokens:**These tokens are continuously created over time, typically as rewards for miners or stakers. An example is [Ethereum](/what-is-ethereum), where the inflation rate is an important metric.
+ - **Deflationary Tokens:** These tokens decrease in supply over time, often through a "burn" mechanism that permanently removes a portion of transaction fees from circulation.
+
+**Consideration:** Does the supply model promote long-term scarcity and value appreciation, or does it favor high inflation that could devalue early adopters' holdings?
 
 ### Distribution
 
 The initial distribution of tokens reveals much about a project's fairness and decentralization. The distribution details are usually found in the project's whitepaper or official documentation.
 
--**Fair Launch:**In a fair launch, such as Bitcoin's, there are no pre-mines or early allocations for insiders, allowing everyone equal access from the start.
--**Pre-Mine / ICO (Initial Coin Offering):**Many projects allocate tokens to various stakeholders before public release. Typical allocations might include:
- -**Team & Advisors:**Tokens designated for the core team, often subject to a vesting schedule.
- -**VCs & Seed Investors:**Tokens sold to early investors to fund project development.
- -**Community Treasury / Ecosystem Fund:**Tokens saved to finance future developments, grants, and community initiatives.
- -**Public Sale:**Tokens sold to the general public.**Consideration:**What percentage of the token supply is controlled by insiders? Are there vesting schedules in place to prevent early selling? A high concentration of tokens among a few can lead to centralization and market manipulation.
+- **Fair Launch:** In a fair launch, such as Bitcoin's, there are no pre-mines or early allocations for insiders, allowing everyone equal access from the start.
+- **Pre-Mine / ICO (Initial Coin Offering):** Many projects allocate tokens to various stakeholders before public release. Typical allocations might include:
+ - **Team & Advisors:** Tokens designated for the core team, often subject to a vesting schedule.
+ - **VCs & Seed Investors:** Tokens sold to early investors to fund project development.
+ - **Community Treasury / Ecosystem Fund:** Tokens saved to finance future developments, grants, and community initiatives.
+ - **Public Sale:** Tokens sold to the general public.
+
+**Consideration:** What percentage of the token supply is controlled by insiders? Are there vesting schedules in place to prevent early selling? A high concentration of tokens among a few can lead to centralization and market manipulation.
 
 ### Utility
 
 The utility of a token defines its intrinsic value and generates demand beyond mere speculation.
 
--**Governance:**Token holders typically have voting rights on proposals that shape the protocol's future, effectively making them shareholders in a decentralized company.
--**[Staking](/how-to-become-a-web3-staking-specialist) / Security:**In Proof of Stake networks, users can stake their tokens to secure the network, earning a share of transaction fees or inflationary rewards. This creates demand for the token while reducing its circulating supply.
--**Medium of Exchange:**Can the token be used to purchase goods or services within the ecosystem? For instance, in the decentralized storage network Filecoin, users must use the FIL token for storage payments.
--**Fee Accrual:**Holding the token may entitle you to a portion of the protocol's revenue. For example, some decentralized exchanges use a part of their generated trading fees to buy back and burn their native tokens, indirectly benefiting token holders.**Consideration:**Is there a strong rationale for holding this token long-term beyond price speculation? A token with strong utility typically indicates a sustainable project.
+- **Governance:** Token holders typically have voting rights on proposals that shape the protocol's future, effectively making them shareholders in a decentralized company.
+- **[Staking](/how-to-become-a-web3-staking-specialist) / Security:** In Proof of Stake networks, users can stake their tokens to secure the network, earning a share of transaction fees or inflationary rewards. This creates demand for the token while reducing its circulating supply.
+- **Medium of Exchange:** Can the token be used to purchase goods or services within the ecosystem? For instance, in the decentralized storage network Filecoin, users must use the FIL token for storage payments.
+- **Fee Accrual:** Holding the token may entitle you to a portion of the protocol's revenue. For example, some decentralized exchanges use a part of their generated trading fees to buy back and burn their native tokens, indirectly benefiting token holders.
+
+**Consideration:** Is there a strong rationale for holding this token long-term beyond price speculation? A token with strong utility typically indicates a sustainable project.
 
 ### Analyzing Tokenomics: A Framework
 
 To evaluate a new project effectively, employ the following framework:
 
-1.**Supply:**Is the token inflationary or deflationary? Does it have a hard cap?
-2.**Distribution:**Who holds the tokens? Is the allocation equitable and transparent?
-3.**Utility:** What functions does the token serve? Does it have a defined purpose that drives ongoing demand?
+1.
+
+**Supply:** Is the token inflationary or deflationary? Does it have a hard cap?
+2.
+
+**Distribution:** Who holds the tokens? Is the allocation equitable and transparent?
+3.
+
+**Utility:** What functions does the token serve? Does it have a defined purpose that drives ongoing demand?
 
 By analyzing these three components, you can make informed decisions and cut through the hype surrounding various crypto projects. Understanding tokenomics equips you to engage with the decentralized network effectively.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Bitcoin: A Peer-to-Peer Electronic Cash System Whitepaper](https://bitcoin.org/bitcoin.pdf)
-3. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-4. [Base Layer 2 Network Official Documentation](https://docs.base.org/)
-5. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-6. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-7. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-8. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-9. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-10. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)

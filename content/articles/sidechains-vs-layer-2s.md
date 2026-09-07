@@ -8,7 +8,6 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 slug: sidechains-vs-layer-2s
 ---
-
 In the quest to scale decentralized computation beyond the throughput limits of base settlement networks like the [Ethereum Foundation](https://ethereum.org) mainnet, two primary architectures have emerged: sidechains and Layer 2 (L2) rollups. While both frameworks process transactions outside the base layer to achieve high throughput and low execution fees, they are governed by diametrically opposed security paradigms.
 
 A sidechain is an independent, sovereign blockchain running parallel to a base chain, connected through a two-way bridge and secured by its own validator set. A Layer 2 rollup is an execution network that processes transactions off-chain but posts compressed transaction data and state proofs directly to the base chain, mathematically inheriting the security, decentralization, and consensus finality of the underlying Layer 1.
@@ -126,11 +125,15 @@ A subtle but critical difference between sidechains and rollups lies in the hand
 | SIDECHAIN:                                                              |
 |   State data stored exclusively on sidechain validator hard drives.     |
 |   Base chain (Ethereum) never receives transaction inputs.              |
-|   --> If sidechain validators refuse to share data, state is lost.      |
+|   
+
+--> If sidechain validators refuse to share data, state is lost.      |
 |                                                                         |
 | LAYER 2 ROLLUP:                                                         |
 |   State data published directly to Ethereum consensus via EIP-4844.     |
-|   --> Any user running an Ethereum node can reconstruct the full L2     |
+|   
+
+--> Any user running an Ethereum node can reconstruct the full L2     |
 |       state tree independently, preserving sovereign self-custody.      |
 +-------------------------------------------------------------------------+
 ```

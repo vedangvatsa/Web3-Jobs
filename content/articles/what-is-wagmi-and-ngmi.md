@@ -28,22 +28,25 @@ The Web3 sector has seen significant growth, driven by innovations in blockchain
 Web3 offers several unique advantages compared to traditional tech sectors:
 
 | Advantage | Web3 | Web2 |
-|--------------------------|-------------------------------------------|-------------------------------------------|
-| **Compensation**| Generally higher average salaries | Standard market rates |
-|**Equity Opportunities**| Common, often tied to token performance | Limited, typically stock options |
-|**Remote Work**| Predominantly remote positions | Varied, with many requiring on-site work |
-|**Career Growth**| Faster progression due to rapid scaling | Slower, often limited by company hierarchy |
-|**Innovation Focus** | Projects aimed at solving real-world problems | Often driven by profit margins |
+|
 
-## Verifiable Primary Sources & References
+--------------------------|
 
-1. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-2. [Viem TypeScript Interface for Ethereum Specification](https://viem.sh/docs/getting-started)
-3. [OP Stack Open Source Rollup Specifications](https://stack.optimism.io/)
-4. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-5. [U.S. Securities and Exchange Commission (SEC) EDGAR Database](https://www.sec.gov/edgar/searchedgar/companysearch)
-6. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-7. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-8. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-9. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-10. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
+-------------------------------------------|
+
+-------------------------------------------|
+| 
+
+**Compensation**| Generally higher average salaries | Standard market rates |
+|
+
+**Equity Opportunities**| Common, often tied to token performance | Limited, typically stock options |
+|
+
+**Remote Work**| Predominantly remote positions | Varied, with many requiring on-site work |
+|
+
+**Career Growth**| Faster progression due to rapid scaling | Slower, often limited by company hierarchy |
+|
+
+**Innovation Focus** | Projects aimed at solving real-world problems | Often driven by profit margins |

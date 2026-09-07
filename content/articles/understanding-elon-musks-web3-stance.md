@@ -7,7 +7,7 @@ image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man thinking
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: Elon Musk's Relationship with Web3
 
@@ -51,8 +51,16 @@ Musk's vision for X provides insight into his thinking. He aims to transform the
 
 This vision shares some commonalities with Web3 ideals:
 
-| **Web3 Ideal**|**X Vision Element**|
-|----------------------------|---------------------------------------|
+| 
+
+**Web3 Ideal**|
+
+**X Vision Element**|
+|
+
+----------------------------|
+
+---------------------------------------|
 | Creator Monetization | Helping creators to monetize content directly |
 | Freedom of Speech | Advocating for "free speech absolutism" |
 | Payments Integration | Integrating payments into the app |
@@ -65,25 +73,20 @@ Elon Musk's stance on Web3 is not one of a maximalist but rather of a pragmatic 
 
 His philosophy can be summarized as follows:
 
-1.**Utility Over Ideology:**Musk focuses on what technology can achieve rather than its ideological purity. He supports Dogecoin because he perceives it as a functional payment system rather than for its decentralized nature.
+1.
 
-2.**Environmental Sustainability is Essential:**Musk will not support technologies he deems environmentally harmful, as seen in his stance on Bitcoin mining.
+**Utility Over Ideology:** Musk focuses on what technology can achieve rather than its ideological purity. He supports Dogecoin because he perceives it as a functional payment system rather than for its decentralized nature.
 
-3.**True Decentralization is Lacking:**He expresses doubt about the "Web3" label, viewing the current ecosystem as overly reliant on centralized infrastructures.
+2.
 
-4.**Support for Centralized Solutions:** His vision for X indicates he believes a centralized platform can provide a better user experience, even while borrowing concepts from Web3.
+**Environmental Sustainability is Essential:** Musk will not support technologies he deems environmentally harmful, as seen in his stance on Bitcoin mining.
+
+3.
+
+**True Decentralization is Lacking:** He expresses doubt about the "Web3" label, viewing the current ecosystem as overly reliant on centralized infrastructures.
+
+4.
+
+**Support for Centralized Solutions:** His vision for X indicates he believes a centralized platform can provide a better user experience, even while borrowing concepts from Web3.
 
 Musk is not idly waiting for a decentralized future; he is actively shaping his interpretation of it. His approach does not align with the principles of a Web3 purist but reflects a pragmatism willing to adopt both centralized and decentralized tools to further human progress. His critical engagement ensures he remains a significant and unpredictable figure influencing the future of the internet.
-
-## Verifiable Primary Sources & References
-
-1. [Ethereum Official Yellow Paper & Protocol Specification](https://ethereum.github.io/yellowpaper/paper.pdf)
-2. [Ethereum Consensus Specs & Proof of Stake Architecture](https://github.com/ethereum/consensus-specs)
-3. [zkSync Era Documentation & Zero Knowledge Proofs Architecture](https://docs.zksync.io/)
-4. [Ethereum Official Developer Resources & Specs](https://ethereum.org/en/developers/docs/)
-5. [Solidity Language Documentation & Safety Guidelines](https://docs.soliditylang.org/)
-6. [OpenZeppelin Audited Smart Contract Libraries](https://docs.openzeppelin.com/)
-7. [Foundry Book Ethereum Testing & Deployment Guide](https://book.getfoundry.sh/)
-8. [DeFiLlama Public On-Chain TVL Metrics Engine](https://defillama.com/docs/api)
-9. [L2BEAT Layer 2 Analytics & Security Framework](https://l2beat.com/)
-10. [Dune Analytics On-Chain Query Infrastructure](https://dune.com/docs/)
