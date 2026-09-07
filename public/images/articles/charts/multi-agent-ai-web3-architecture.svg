@@ -1,0 +1,147 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 675" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#020617"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#0f172a"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="8" stdDeviation="6" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="1200" height="675" fill="url(#bg-grad)"/>
+
+  <!-- Title -->
+  <text x="600" y="55" text-anchor="middle" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="26" font-weight="700">Autonomous Multi-Agent AI &amp; Web3 Infrastructure</text>
+  <text x="600" y="85" text-anchor="middle" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="15">Specialized Agents, On-Chain Economic Incentive Networks &amp; Verifiable Execution</text>
+
+  <!-- Flow Boxes -->
+
+  <!-- Box 1: Agent Perception & Planning -->
+  <g transform="translate(60, 130)" filter="url(#shadow)">
+    <rect width="230" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="230" height="8" fill="#3b82f6" rx="4"/>
+    <text x="115" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">1. Perception &amp; Reasoning</text>
+
+    <rect x="15" y="60" width="200" height="75" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">Specialized LLMs</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Domain-specific SLMs</text>
+    <text x="25" y="122" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Trading, code, analytics</text>
+
+    <rect x="15" y="150" width="200" height="75" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="175" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">ReAct / Planning</text>
+    <text x="25" y="195" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Reasoning &amp; Action Loops</text>
+    <text x="25" y="212" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Break complex goals down</text>
+
+    <rect x="15" y="240" width="200" height="75" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="265" fill="#60a5fa" font-family="monospace" font-size="14" font-weight="700">Vector Memory (RAG)</text>
+    <text x="25" y="285" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Chroma / Pinecone / Qdrant</text>
+    <text x="25" y="302" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Long-term context store</text>
+
+    <rect x="15" y="330" width="200" height="110" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="355" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Core Output:</text>
+    <text x="25" y="375" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Structured execution plan</text>
+    <text x="25" y="395" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Tool selection criteria</text>
+    <text x="25" y="415" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Dynamic sub-task delegation</text>
+  </g>
+
+  <!-- Arrow 1-2 -->
+  <path d="M 290 360 L 330 360" stroke="#3b82f6" stroke-width="3" fill="none"/>
+  <polygon points="330,360 320,354 320,366" fill="#3b82f6"/>
+
+  <!-- Box 2: Multi-Agent Consensus & Messaging -->
+  <g transform="translate(340, 130)" filter="url(#shadow)">
+    <rect width="240" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="240" height="8" fill="#a855f7" rx="4"/>
+    <text x="120" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">2. Agent Orchestration</text>
+
+    <rect x="15" y="60" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#c084fc" font-family="monospace" font-size="14" font-weight="700">Agent Communication</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Autonolas / Fetch.ai uAgents</text>
+    <text x="25" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Peer-to-peer message protocol</text>
+
+    <rect x="15" y="160" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="185" fill="#c084fc" font-family="monospace" font-size="14" font-weight="700">Consensus &amp; Debates</text>
+    <text x="25" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Multi-Agent Negotiation</text>
+    <text x="25" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Majority / weighted voting</text>
+
+    <rect x="15" y="260" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="285" fill="#c084fc" font-family="monospace" font-size="14" font-weight="700">Swarm Intelligence</text>
+    <text x="25" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">LangGraph / CrewAI</text>
+    <text x="25" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Stateful multi-agent DAGs</text>
+
+    <rect x="15" y="360" width="210" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Core Advantage:</text>
+    <text x="25" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Resilience to model failure</text>
+    <text x="25" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Parallel task execution</text>
+  </g>
+
+  <!-- Arrow 2-3 -->
+  <path d="M 580 360 L 620 360" stroke="#a855f7" stroke-width="3" fill="none"/>
+  <polygon points="620,360 610,354 610,366" fill="#a855f7"/>
+
+  <!-- Box 3: On-Chain Execution & Verification -->
+  <g transform="translate(630, 130)" filter="url(#shadow)">
+    <rect width="240" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="240" height="8" fill="#10b981" rx="4"/>
+    <text x="120" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">3. On-Chain Settlement</text>
+
+    <rect x="15" y="60" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#34d399" font-family="monospace" font-size="14" font-weight="700">Account Abstraction</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">ERC-4337 Smart Account</text>
+    <text x="25" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Session keys &amp; policy rules</text>
+
+    <rect x="15" y="160" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="185" fill="#34d399" font-family="monospace" font-size="14" font-weight="700">Verifiable Computation</text>
+    <text x="25" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">opML / ZKML Proofs</text>
+    <text x="25" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">ORA / Modulus Labs</text>
+
+    <rect x="15" y="260" width="210" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="285" fill="#34d399" font-family="monospace" font-size="14" font-weight="700">Incentive Settlement</text>
+    <text x="25" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Bittensor / Virtuals Protocol</text>
+    <text x="25" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">Staking, rewards &amp; slashing</text>
+
+    <rect x="15" y="360" width="210" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">Execution Result:</text>
+    <text x="25" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Automated DeFi trades</text>
+    <text x="25" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• On-chain DAO execution</text>
+  </g>
+
+  <!-- Arrow 3-4 -->
+  <path d="M 870 360 L 910 360" stroke="#10b981" stroke-width="3" fill="none"/>
+  <polygon points="910,360 900,354 900,366" fill="#10b981"/>
+
+  <!-- Box 4: Career Opportunities -->
+  <g transform="translate(920, 130)" filter="url(#shadow)">
+    <rect width="220" height="460" rx="12" fill="url(#card-grad)" stroke="#334155" stroke-width="1.5"/>
+    <rect x="0" y="0" width="220" height="8" fill="#06b6d4" rx="4"/>
+    <text x="110" y="38" text-anchor="middle" fill="#f8fafc" font-family="system-ui, sans-serif" font-size="16" font-weight="700">4. MAS Engineering</text>
+
+    <rect x="15" y="60" width="190" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="85" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">AI Agent Architect</text>
+    <text x="25" y="105" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">LangGraph / uAgents</text>
+    <text x="25" y="125" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">$150K - $280K base</text>
+
+    <rect x="15" y="160" width="190" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="185" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">zkML / opML Engineer</text>
+    <text x="25" y="205" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Verifiable AI Circuits</text>
+    <text x="25" y="225" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">$170K - $320K base</text>
+
+    <rect x="15" y="260" width="190" height="85" rx="8" fill="#1e293b" stroke="#475569" stroke-width="1"/>
+    <text x="25" y="285" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700">DeFi Agent Quant</text>
+    <text x="25" y="305" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">Automated Yield &amp; MEV</text>
+    <text x="25" y="325" fill="#64748b" font-family="system-ui, sans-serif" font-size="11">$160K - $350K+ total</text>
+
+    <rect x="15" y="360" width="190" height="80" rx="8" fill="#0f172a" stroke="#334155" stroke-width="1"/>
+    <text x="25" y="385" fill="#f1f5f9" font-family="system-ui, sans-serif" font-size="13" font-weight="600">High Growth:</text>
+    <text x="25" y="405" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Decentralized AI Swarms</text>
+    <text x="25" y="425" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12">• Autonomous DAO Assets</text>
+  </g>
+
+  <!-- Footer -->
+  <text x="600" y="640" text-anchor="middle" fill="#64748b" font-family="system-ui, sans-serif" font-size="13">Hashtag Web3 AI &amp; Engineering Series • https://hashtagweb3.com</text>
+</svg>

@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-07T21:03:33.979Z",
+  "generatedAt": "2026-09-07T21:13:22.318Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4186,
+  "count": 4184,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -23548,12 +23548,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/vitalik-buterin-on-web3",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
       "url": "https://hashtagweb3.com/vp1",
       "lastmod": "2026-09-02",
       "changefreq": "daily",
@@ -24869,12 +24863,6 @@
     },
     {
       "url": "https://hashtagweb3.com/what-is-voice-recognition-technology",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/what-is-wagmi-and-ngmi",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
