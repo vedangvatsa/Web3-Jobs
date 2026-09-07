@@ -140,17 +140,4 @@ Something with personhood before the treasury gets large. [Wyoming's DUNA and th
 **Where do remote Web3 workers actually do best?**
 Where overlap exists and living costs trail pay. The hiring data keeps rewarding the same shape: globally competitive bands, async defaults, and written culture. [Teams built this way top both the preference surveys and the retention numbers](https://www.flexjobs.com/blog/post/future-of-remote-work-trends-report).
 
-## Key references
-
-1. [GitLab Handbook: All-Remote Guide](https://handbook.gitlab.com/handbook/company/culture/all-remote/guide)
-2. [Doist/Twist Async Communication Guides](https://twist.com/remote-work-guides/remote-team-communication)
-3. [Pantera Blockchain Compensation Survey 2024](https://panteracapital.com/blockchain-compensation-survey-2024/)
-4. [Rise 2025 Crypto Payroll Report](https://www.riseworks.io/blog/2025-crypto-payroll-report)
-5. [Toku Token Compensation Best Practices](https://www.toku.com/resources/token-compensation-pros-cons-and-best-practices)
-6. [OWASP Web3 OpSec Handbook](https://scs.owasp.org/handbooks/11-opsec-in-web3/)
-7. [Skadden: North Korean Remote IT Worker Fraud](https://www.skadden.com/insights/publications/2026/06/north-korean-remote-it)
-8. [Kraken: Forever Remote-First](https://blog.kraken.com/news/industry-news/krakens-workforce-forever-remote-first)
-9. [DOL Contractor Classification Final Rule](https://www.dol.gov/agencies/whd/flsa/misclassification/rulemaking)
-10. [Wyoming DUNA Framework (DAOTimes)](https://daotimes.com/wyoming-becomes-first-state-to-provide-legal-framework-for-blockchain-based-nonprofit-organizations/)
-11. [Buffer State of Remote Work](https://buffer.com/state-of-remote-work)
-12. [Owl Labs State of Hybrid Work 2025](https://owllabs.com/state-of-hybrid-work/2025)
+When someone works full-time hours on your roadmap with your equipment, engage an EOR. Document the decision and revisit it whenever hours, equipment, or exclusivity change. The cheapest compliance is the kind you set up before anyone asks questions about it. The same logic applies to security reviews, pay-band publishing, and incident runbooks: early, written, and boring beats late, verbal, and dramatic. Teams that document first argue less later, and onboarding gets faster every cycle.

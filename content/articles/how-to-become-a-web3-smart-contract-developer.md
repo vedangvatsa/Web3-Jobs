@@ -140,17 +140,4 @@ Only after Solidity pays your bills or a target role demands it. The hour you sp
 **How much does an audit cost, and why should juniors care?**
 Because audit pricing explains what your security habits are worth. [Basic token reviews start near $5k to $15k, protocols run $15k to $40k, bridges $50k to $100k-plus, and tier-one firms charge $80k to $200k-plus](https://devoracles.com/articles/smart-contract-audit-cost-is/). Every finding you prevent in development saves a multiple of your salary in review cycles. Teams know this, which is why [take-homes weight security reasoning alongside correctness](https://gm.careers/blog/how-web3-companies-evaluate-developers).
 
-## Key references
-
-1. [Solidity documentation](https://docs.soliditylang.org/en/stable/)
-2. [Ethereum smart contract docs](https://ethereum.org/developers/docs/smart-contracts/)
-3. [OpenZeppelin security audits](https://www.openzeppelin.com/security-audits)
-4. [Trail of Bits secure contracts handbook](https://trailofbits.com/guides/building-secure-smart-contracts/)
-5. [Foundry invariant testing guide](https://www.getfoundry.sh/guides/invariant-testing)
-6. [SpeedRunEthereum Solidity course](https://speedrunethereum.com/learn-solidity)
-7. [Cyfrin Updraft Solidity course](https://updraft.cyfrin.io/courses/solidity)
-8. [CryptoZombies tutorial](https://cryptozombies.io/)
-9. [Damn Vulnerable DeFi challenges](https://www.damnvulnerabledefi.xyz/)
-10. [web3.career Solidity salary data](https://web3.career/web3-salaries/solidity-developer)
-11. [GM.careers interview preparation](https://gm.careers/blog/web3-interview-preparation)
-12. [Parity multisig post-mortem](https://medium.com/paritytech/a-postmortem-on-the-parity-multi-sig-library-self-destruct-63daca3a4cf7)
+Review weekly, write up monthly, and your public record starts looking like a junior auditor’s well before any firm hires you. That record compounds faster than any credential, and it travels with you across every future application. Start the first review this week, while the reading habit is warm. Future employers will ask what you reviewed long before they ask what courses you finished.
