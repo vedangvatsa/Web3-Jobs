@@ -1,5 +1,5 @@
 ---
-title: 'The Web3 Go-To-Market Playbook: From Community to Conversion'
+title: 'The Web3 Go-To-Market Playbook'
 image: /images/articles/charts/gtm-airdrop-drawdown.svg
 data-ai-hint: airdrop drawdown data chart
 description: >-

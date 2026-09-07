@@ -1,5 +1,5 @@
 ---
-title: 'Building the Immersive Internet: WebXR, WebGPU and Open Standards in 2026'
+title: 'Building the Immersive Internet'
 description: >-
   A practical guide to the immersive internet in 2026: what it is, who it is
   for, how WebXR, WebGPU, OpenXR, glTF and USD work together, where Apple Vision
@@ -10,7 +10,7 @@ image: 'https://images.unsplash.com/photo-1626379616459-b2ce1d9decbc?q=80&w=1080
 imageAlt: Person using a mixed reality headset with spatial browser windows
 data-ai-hint: immersive internet spatial computing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The immersive internet is the web rendered in space. Instead of flat pages, you get 3D scenes you can look around, walk through, and interact with using hands, controllers, or gaze and pinch.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Creating Dynamic NFTs: A Step-by-Step Guide'
+title: 'Creating Dynamic NFTs'
 image: >-
   https://images.unsplash.com/photo-1639221314358-2291fb903405?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxuZnR8ZW58MHx8fHwxNzU0OTQ5Njc2fDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: creating dynamic nfts step guide
@@ -8,7 +8,7 @@ description: >-
   and shows you how to create NFTs that can change and evolve based on.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The first generation of NFTs primarily consisted of static assets, such as JPEG files and video clips. Once minted, these NFTs had unchangeable metadata on the [blockchain](/what-is-a-blockchain). The evolution of NFTs introduces the **Dynamic [NFT](/what-are-nfts)**, or dNFT, which allows for changing metadata over time.
 

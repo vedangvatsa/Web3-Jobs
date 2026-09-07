@@ -1,5 +1,5 @@
 ---
-title: "Hiring a Web3 Developer: Complete Guide for Founders and Hiring Managers"
+title: 'How to Hire a Web3 Developer'
 image: /images/articles/charts/dev-hiring-stack-matrix.svg
 data-ai-hint: hiring web3 developer technical screening
 description: >-

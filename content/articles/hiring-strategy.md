@@ -1,5 +1,5 @@
 ---
-title: "The Web3 Hiring Playbook: A Founder's Guide to Attracting Top Talent"
+title: 'Web3 Hiring Strategy Guide'
 image: /images/articles/charts/hiring-token-vesting.svg
 data-ai-hint: web3 hiring compensation vesting
 description: >-

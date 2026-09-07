@@ -1,5 +1,5 @@
 ---
-title: 'AI and Web3 Engineering: A Career Guide'
+title: 'AI and Web3 Engineering Careers'
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: ai web3 engineer
 description: >-
@@ -8,7 +8,7 @@ description: >-
   trajectories.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 An AI/Web3 Engineer builds systems where machine learning models and [blockchain](/what-is-a-blockchain) infrastructure work together. The role exists because neither stack alone solves the problem: blockchains need intelligence to act on real-world data, and AI needs verifiable execution, ownership, and payment rails.
 

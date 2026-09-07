@@ -1,5 +1,5 @@
 ---
-title: 'Web3 for Good: Careers in Social Impact & Public Goods DAOs'
+title: 'Web3 Careers in Social Impact DAOs'
 image: >-
   https://images.unsplash.com/photo-1491438590914-bc09fcaaf77a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzb2NpYWwlMjB8ZW58MHx8fHwxNzU1MDM3NTkxfDA&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: social impact charity
@@ -8,7 +8,7 @@ description: >-
   and impact-focused protocols.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 While discussions about [Web3](/what-is-web3) often emphasize finance and [NFTs](/what-are-nfts), a significant movement is emerging that focuses on using [blockchain](/what-is-a-blockchain) technology for social good. This movement involves funding public goods and supporting positive social impact through initiatives known as **Public Goods DAOs**.
 

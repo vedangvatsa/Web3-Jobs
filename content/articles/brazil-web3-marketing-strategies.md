@@ -1,5 +1,5 @@
 ---
-title: 'Web3 Marketing in Brazil: A Guide to the Brazilian Market'
+title: 'Web3 Marketing in Brazil'
 description: >-
   Brazil is a Web3 powerhouse. This guide explores the key strategies, cultural
   nuances, and opportunities for marketing crypto projects in Latin America's.
@@ -7,7 +7,7 @@ image: /images/chris-ried-bN5XdU-bap4-unsplash.jpg
 category: Industry Insights
 data-ai-hint: brazil flag computer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Cracking the Code: A Guide to Web3 Marketing in Brazil
 

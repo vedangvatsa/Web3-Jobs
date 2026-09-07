@@ -1,5 +1,5 @@
 ---
-title: 'Solana''s Alleged Slowdown: A Fundamental Look at Developer Activity'
+title: 'Solana''s Alleged Slowdown'
 description: >-
   A fundamental analysis of Solana's developer activity. We cut through the
   noise of market cycles to reveal a resilient and maturing ecosystem focused
@@ -8,7 +8,7 @@ image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man coding laptop
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Solana's "Slowdown": A Fundamental Analysis of Developer Activity
 

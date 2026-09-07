@@ -1,5 +1,5 @@
 ---
-title: 'Inside Web3 Gaming Guilds: The Future of Play-and-Earn'
+title: 'Web3 Gaming Guilds Explained'
 image: >-
   https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -7,7 +7,7 @@ description: >-
   creating 'scholarship' programs and building communities that are.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The emergence of [Web3](/what-is-web3) gaming and the "Play-to-Earn" (P2E) model transformed how players can earn income through video games. However, a major obstacle quickly surfaced. To participate in leading P2E games such as Axie Infinity, players typically needed to invest significant amounts to acquire necessary [NFT](/what-are-nfts) assets, which often cost substantial sums. This upfront cost excluded millions of potential players, especially in developing nations where such income could greatly impact their lives.
 

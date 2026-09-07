@@ -1,5 +1,5 @@
 ---
-title: 'The On-Chain Resume: Your Web3 Proof of Work'
+title: 'The On-Chain Resume'
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: on-chain resume
 description: >-
@@ -7,7 +7,7 @@ description: >-
   activity-from governance votes to NFT collections-is becoming the new.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In the traditional job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a curated document summarizing your achievements and experiences. However, in the transparent environment of [Web3](/what-is-web3), this model evolves into a more dynamic and verifiable credential known as your **on-chain resume**.
 

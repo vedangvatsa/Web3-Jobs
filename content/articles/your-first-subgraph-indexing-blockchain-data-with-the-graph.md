@@ -1,5 +1,5 @@
 ---
-title: 'Your First Subgraph: Indexing Blockchain Data with The Graph'
+title: 'Indexing Blockchain Data with The Graph'
 image: >-
   https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGF0YXxlbnwwfHx8fDE3NTUwMzYzNzV8MA&lib=rb-4.0.3
 description: >-
@@ -7,7 +7,7 @@ description: >-
   step-by-step tutorial on how to index smart contract data and serve it via a.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Building a decentralized application (dApp) requires two key components: smart contracts, which serve as the on-chain backend, and a user interface, which functions as the off-chain frontend. A significant hurdle for dApp developers is retrieving data from the [blockchain](/what-is-a-blockchain) for display on the frontend. Accessing data directly from a [smart contract](/what-are-smart-contracts) can be slow and inefficient, presenting a challenge for development.
 

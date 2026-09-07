@@ -1,5 +1,5 @@
 ---
-title: 'How to Become a DeFi Analyst: Skills, Tools, and Career Path'
+title: 'How to Become a DeFi Analyst'
 description: >-
   What a DeFi analyst does, who the role suits, core skills and tools, salary
   ranges for 2026, and a practical 6-step plan to build a portfolio that gets
@@ -8,7 +8,7 @@ category: Career Guides
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: finance analyst data
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 A DeFi analyst evaluates decentralized finance protocols and turns on-chain data into clear recommendations. The role blends protocol due diligence, tokenomics, risk assessment, and SQL-based data analysis to help funds, DAOs, and product teams decide where to allocate capital and what to build.
 

@@ -1,5 +1,5 @@
 ---
-title: 'Mastering Cross-Functional Collaboration: A Practical Guide'
+title: 'Mastering Cross-Functional Collaboration'
 category: Career Guides
 date: '2025-09-12'
 description: >-
@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: team collaboration meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 In today's interconnected work environment, challenges and opportunities often transcend departmental boundaries. Delivering an exceptional product requires collaboration among engineering, product, design, marketing, and sales teams. Addressing a complex customer issue may engage support, finance, and legal departments.
 

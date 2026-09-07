@@ -1,5 +1,5 @@
 ---
-title: 'WAGMI & NGMI: The Rallying Cries of Web3'
+title: 'WAGMI and NGMI in Web3 Explained'
 image: /images/possessed-photography-jIBMSMs4_kA-unsplash.jpg
 data-ai-hint: community people together
 description: >-
@@ -7,7 +7,7 @@ description: >-
   lexicon that represent the community's belief in the future of Web3.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Key Takeaways
 

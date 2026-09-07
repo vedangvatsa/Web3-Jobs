@@ -1,5 +1,5 @@
 ---
-title: "Hiring for a DAO: Finding and Retaining Top Protocol Talent"
+title: 'How to Hire for a DAO'
 image: /images/articles/charts/dao-contributor-funnel.svg
 data-ai-hint: dao hiring contributor retention governance
 description: >-

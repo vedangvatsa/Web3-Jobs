@@ -1,5 +1,5 @@
 ---
-title: 'The Rise of Web3 Gaming Guilds: New Economic Layer'
+title: 'The Rise of Web3 Gaming Guilds'
 image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 description: >-
   An exploration of Web3 gaming guilds, how they work, their role in the
@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: people gaming
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: More Than Just a Clan
 

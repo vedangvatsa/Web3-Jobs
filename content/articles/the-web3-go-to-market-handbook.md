@@ -1,5 +1,5 @@
 ---
-title: 'The Web3 Go-to-Market Handbook: Strategies for a Decentralized World'
+title: 'The Web3 Go-To-Market Handbook'
 image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 description: >-
   A strategic guide for Web3 projects on how to build a powerful go-to-market
@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: man walking
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: Marketing in a Decentralized Economy
 

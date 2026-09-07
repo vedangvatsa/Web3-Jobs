@@ -1,5 +1,5 @@
 ---
-title: '10 Do''s and Don''ts for Web3 Resume Writing: Land Your Crypto Job'
+title: '10 Dos and Don''ts for Your Web3 Resume'
 image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
 data-ai-hint: resume writing tips
 description: >-
@@ -7,7 +7,7 @@ description: >-
   cut, and how to prepare for blockchain roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Web3 hiring differs significantly from traditional tech hiring. Recruiters in the crypto space sift through hundreds of resumes each week, and many applicants make easily avoidable mistakes. After analyzing thousands of applications on our job board, we present the ten essential rules that can help candidates secure callbacks rather than rejections.
 

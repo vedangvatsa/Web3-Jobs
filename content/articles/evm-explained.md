@@ -1,5 +1,5 @@
 ---
-title: 'EVM Explained: What the Ethereum Virtual Machine Is and How It Works'
+title: 'What the Ethereum Virtual Machine Is and How It Works'
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum virtual machine
 description: >-
@@ -9,7 +9,7 @@ description: >-
   where it costs, and how to build with it.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 The Ethereum Virtual Machine is the sandboxed runtime that executes smart contract bytecode on Ethereum. Every node runs the same EVM, feeds it the same transaction and starting state, and must get the same output. That determinism is what lets a decentralized network agree on balances and contract data without a coordinator.
 

@@ -1,12 +1,12 @@
 ---
-title: 'Passive Liquidity Provision: A Complete Guide'
+title: 'Passive Liquidity Provision'
 description: >-
   Explore the world of passive liquidity provision in DeFi, its benefits, the
   inherent risks like impermanent loss, and the platforms that make it easier.
 category: Educational
 data-ai-hint: passive liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Passive Liquidity Provision in DeFi
 

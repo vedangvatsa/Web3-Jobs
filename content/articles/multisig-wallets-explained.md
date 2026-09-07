@@ -1,5 +1,5 @@
 ---
-title: 'Multisig Wallets Explained: How M-of-N Shared Control Works'
+title: 'Multisig Wallets Explained'
 image: 'https://images.unsplash.com/photo-1552664730-d307ca884978?w=1200&q=80'
 data-ai-hint: multisig wallet security
 description: >-
@@ -9,7 +9,7 @@ description: >-
   to set one up safely.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 A multisig wallet is a wallet that needs approval from M of N distinct private keys before it will move funds. A 2-of-3 multisig needs any two of three listed keys. One stolen or lost key alone cannot spend, and losing one key does not lock the funds if you keep the other two and the configuration.
 

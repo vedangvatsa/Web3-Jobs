@@ -1,5 +1,5 @@
 ---
-title: "The Web3 Recruiter's Playbook: How to Hire Top Crypto Talent"
+title: 'The Web3 Recruiter Playbook'
 image: /images/articles/charts/recruiting-channel-yield.svg
 data-ai-hint: web3 recruiting talent acquisition
 description: >-

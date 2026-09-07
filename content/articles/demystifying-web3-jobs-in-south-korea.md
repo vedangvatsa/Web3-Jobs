@@ -1,5 +1,5 @@
 ---
-title: 'explaining Web3 Jobs in South Korea: A Guide for Aspiring Professionals'
+title: 'explaining Web3 Jobs in South Korea'
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-
   An inside look at the growing Web3 job market in South Korea, covering key
@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: futuristic city asia
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 ## Introduction: The Hub of Web3 Innovation
 

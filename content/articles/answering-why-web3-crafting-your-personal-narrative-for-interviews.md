@@ -1,5 +1,5 @@
 ---
-title: 'Answering ''Why Web3?'': Crafting Your Personal Narrative for Interviews'
+title: 'How to Answer Why Web3 in Job Interviews'
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: job interview question
 description: >-
@@ -8,7 +8,7 @@ description: >-
   to tailor your answer to any team.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Almost every Web3 interview includes some version of "Why Web3?" or "What was your rabbit hole moment?" It is not small talk. Teams are small, remote, and build with public money and open code. They use this question to filter for genuine interest, learning habit, and fit for autonomous work.
 

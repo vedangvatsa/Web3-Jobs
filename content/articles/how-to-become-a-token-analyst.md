@@ -1,5 +1,5 @@
 ---
-title: 'How to Become a Token Analyst: Skills, Tools, and Career Path'
+title: 'How to Become a Token Analyst'
 description: >-
   What a token analyst does, who the role suits, core skills and tools, salary
   ranges for 2026, and a practical 6-step plan to evaluate tokenomics, unlocks,
@@ -8,7 +8,7 @@ category: Career Guides
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: finance analyst data
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 A token analyst evaluates a token as an asset, not just as tech. The job is to read supply, distribution, vesting, emissions, utility, and on-chain flows, then state the risks and whether the token design supports long term use or creates steady sell pressure.
 

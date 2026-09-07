@@ -1,10 +1,10 @@
 ---
-title: 'Web3 Jobs in Lilongwe: A Guide to Malawi''s Tech Frontier'
+title: 'Web3 Jobs in Lilongwe'
 data-ai-hint: lilongwe malawi city
 description: Discover Web3 and tech career opportunities in Lilongwe and Malawi.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-06"
+lastUpdated: "2026-09-07"
 ---
 Lilongwe, the capital of Malawi, is on the cusp of a significant journey within the Web3 sector. In a country where agriculture underpins the economy and financial inclusion poses significant challenges, decentralized technologies offer a promising avenue for meaningful change. Though the local Web3 ecosystem remains small and developing, a dedicated community of young innovators, developers, and entrepreneurs is emerging. They see [blockchain](/what-is-a-blockchain) as an important tool for driving social and economic progress.
 
