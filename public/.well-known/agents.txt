@@ -27,6 +27,7 @@ Agent-Instructions: https://hashtagweb3.com/agent-instructions.md
 Auth: https://hashtagweb3.com/auth.md
 Terms-Of-Use: https://hashtagweb3.com/terms-of-use.md
 Terms-Of-Service: https://hashtagweb3.com/terms-of-use.md
+TDMRep: https://hashtagweb3.com/.well-known/tdmrep.json
 Sitemap: https://hashtagweb3.com/sitemap.xml
 Sitemap-JSON: https://hashtagweb3.com/.well-known/sitemap.json
 

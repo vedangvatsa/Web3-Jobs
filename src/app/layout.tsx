@@ -39,6 +39,7 @@ export const viewport: Viewport = {
 
 export const metadata: Metadata = {
  metadataBase: new URL(siteConfig.url),
+ referrer: 'strict-origin-when-cross-origin',
  title: {
   default: `Web3 Jobs and Crypto Careers | ${siteConfig.name}`,
   template: `%s | ${siteConfig.name}`,
