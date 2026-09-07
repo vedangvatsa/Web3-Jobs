@@ -39,15 +39,19 @@ Apply directly: ${applyUrl}
 Learn more and view hiring details: ${url}
       `.trim();
 
-      return `  <job>
+      return `  <job id="${job.id || slug}">
     <id><![CDATA[${job.id || slug}]]></id>
     <title><![CDATA[${title}]]></title>
+    <name><![CDATA[${title}]]></name>
     <company><![CDATA[${company}]]></company>
     <url><![CDATA[${url}]]></url>
+    <link><![CDATA[${url}]]></link>
     <apply_url><![CDATA[${applyUrl}]]></apply_url>
     <location><![CDATA[${location}]]></location>
+    <region><![CDATA[${location}]]></region>
     <category><![CDATA[${department}]]></category>
     <date>${date}</date>
+    <pubdate>${date}</pubdate>
     <job_type>Full-time</job_type>
     <description><![CDATA[${description}]]></description>
   </job>`;
