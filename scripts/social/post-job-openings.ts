@@ -1,6 +1,11 @@
 #!/usr/bin/env npx tsx
 /**
- * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn & Facebook)
+ * Automated Social Job Opening Poster (X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, Reddit & Instagram)
+ *
+ * Posting Strategy:
+ *   - Instagram: ONLY platform that posts an image upload (Instagram feed does not support clickable links or native link cards).
+ *   - LinkedIn, X, Bluesky, Farcaster, Facebook, Threads: Pure link preview cards (no image uploads).
+ *     Posts the clean job URL with platform suffix so native crawlers unfurl og:image, title, and description.
  *
  * Posts verified job openings to social networks in the exact format:
  *
@@ -12,6 +17,8 @@
  *   https://hashtagweb3.com/<slug>/fc     (for Farcaster)
  *   https://hashtagweb3.com/<slug>/li     (for LinkedIn via Buffer)
  *   https://hashtagweb3.com/<slug>/fb     (for Facebook Page via Meta Graph API)
+ *   https://hashtagweb3.com/<slug>/rd     (for Reddit r/hashtagweb3)
+ *   (Square OG image generated for Instagram feed)
  *
  * Features:
  *   - Automatically cycles through active, high-quality jobs
@@ -27,6 +34,8 @@
  *   npx tsx scripts/social/post-job-openings.ts --platform farcaster --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform linkedin --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform facebook --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform reddit --dry-run
+ *   npx tsx scripts/social/post-job-openings.ts --platform instagram --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all --dry-run
  *   npx tsx scripts/social/post-job-openings.ts --platform all
  */
@@ -186,7 +195,7 @@ async function postToX(text: string): Promise<string> {
   return data.data?.id || 'unknown';
 }
 
-async function postToThreads(text: string, imageUrl: string): Promise<string> {
+async function postToThreads(text: string, linkAttachment?: string): Promise<string> {
   const accessToken = process.env.THREADS_ACCESS_TOKEN;
   const threadsUserId = process.env.THREADS_USER_ID;
 
@@ -196,16 +205,14 @@ async function postToThreads(text: string, imageUrl: string): Promise<string> {
 
   const urlParams = new URLSearchParams();
   urlParams.append('access_token', accessToken);
+  urlParams.append('media_type', 'TEXT');
   urlParams.append('text', text);
 
-  if (imageUrl) {
-    urlParams.append('media_type', 'IMAGE');
-    urlParams.append('image_url', imageUrl);
-  } else {
-    urlParams.append('media_type', 'TEXT');
+  if (linkAttachment) {
+    urlParams.append('link_attachment', linkAttachment);
   }
 
-  // Step 1: Create media container
+  // Step 1: Create media container (text post with native link attachment)
   const createRes = await fetch(`https://graph.threads.net/v1.0/${threadsUserId}/threads`, {
     method: 'POST',
     headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
@@ -219,8 +226,8 @@ async function postToThreads(text: string, imageUrl: string): Promise<string> {
 
   const { id: containerId } = await createRes.json();
 
-  // Wait 5 seconds for Meta media processing
-  await new Promise((resolve) => setTimeout(resolve, 5000));
+  // Wait 3 seconds for Meta container processing
+  await new Promise((resolve) => setTimeout(resolve, 3000));
 
   // Step 2: Publish media container
   const publishRes = await fetch(`https://graph.threads.net/v1.0/${threadsUserId}/threads_publish`, {
@@ -356,7 +363,6 @@ async function postToBluesky(
 async function postToFarcaster(
   text: string,
   linkUrl: string,
-  ogImageUrl: string,
   channelId: string = 'jobs'
 ): Promise<string> {
   const apiKey = process.env.NEYNAR_API_KEY;
@@ -401,7 +407,7 @@ async function postToFarcaster(
 
 // ── LinkedIn / Buffer ──
 
-async function postToLinkedInBuffer(text: string, imageUrl?: string): Promise<string> {
+async function postToLinkedInBuffer(text: string): Promise<string> {
   const token = process.env.BUFFER_ACCESS_TOKEN || '***REMOVED-BUFFER-TOKEN***';
   const channelId = process.env.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb';
 
@@ -412,20 +418,14 @@ async function postToLinkedInBuffer(text: string, imageUrl?: string): Promise<st
     throw new Error('Buffer LinkedIn Channel ID missing (BUFFER_LINKEDIN_CHANNEL_ID)');
   }
 
+  // Pure link post: Buffer passes text containing the link to LinkedIn,
+  // allowing LinkedInBot to scrape the URL and render the rich OG image preview card.
   const input: any = {
     channelId,
     text,
     schedulingType: 'automatic',
     mode: 'shareNow',
   };
-
-  if (imageUrl) {
-    input.assets = {
-      image: {
-        url: imageUrl,
-      },
-    };
-  }
 
   const query = `
     mutation CreatePost($input: CreatePostInput!) {
@@ -465,7 +465,7 @@ async function postToLinkedInBuffer(text: string, imageUrl?: string): Promise<st
 
 // ── Facebook Page (Meta Graph API) ──
 
-async function postToFacebook(text: string, imageUrl?: string): Promise<string> {
+async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
   const pageId = process.env.META_PAGE_ID || process.env.FACEBOOK_PAGE_ID;
   const pageToken = process.env.META_PAGE_TOKEN || process.env.FACEBOOK_PAGE_ACCESS_TOKEN;
 
@@ -476,18 +476,14 @@ async function postToFacebook(text: string, imageUrl?: string): Promise<string> 
     throw new Error('Facebook Page Access Token missing (META_PAGE_TOKEN or FACEBOOK_PAGE_ACCESS_TOKEN)');
   }
 
-  const endpoint = imageUrl
-    ? `https://graph.facebook.com/v21.0/${pageId}/photos`
-    : `https://graph.facebook.com/v21.0/${pageId}/feed`;
+  // Publish to Page feed with link attachment so Facebook crawler fetches og:image
+  const endpoint = `https://graph.facebook.com/v21.0/${pageId}/feed`;
 
   const params = new URLSearchParams();
   params.append('access_token', pageToken);
-
-  if (imageUrl) {
-    params.append('url', imageUrl);
-    params.append('caption', text);
-  } else {
-    params.append('message', text);
+  params.append('message', text);
+  if (linkUrl) {
+    params.append('link', linkUrl);
   }
 
   const res = await fetch(endpoint, {
@@ -813,7 +809,7 @@ async function main() {
   console.log(`---------------------------------------------\n`);
 
   if (isDryRun) {
-    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, or Reddit.');
+    console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, Reddit, or Instagram.');
     return;
   }
 
@@ -843,8 +839,8 @@ async function main() {
 
   if (platform === 'threads' || shouldPostAll) {
     try {
-      console.log('Publishing to Threads...');
-      const threadsId = await postToThreads(threadsPostText, ogImageUrl);
+      console.log('Publishing to Threads (with link attachment preview)...');
+      const threadsId = await postToThreads(threadsPostText, threadsUrl);
       console.log(`✓ Successfully published to Threads! Media ID: ${threadsId}`);
       state.history.push({
         slug,
@@ -883,7 +879,7 @@ async function main() {
   if (platform === 'farcaster' || shouldPostAll) {
     try {
       console.log('Publishing to Farcaster / Warpcast...');
-      const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, ogImageUrl, 'jobs');
+      const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, 'jobs');
       console.log(`✓ Successfully published to Farcaster! Cast Hash: ${castHash}`);
       state.history.push({
         slug,
@@ -901,8 +897,8 @@ async function main() {
 
   if (platform === 'linkedin' || shouldPostAll) {
     try {
-      console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer)...');
-      const bufferPostId = await postToLinkedInBuffer(linkedinPostText, ogImageUrl);
+      console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
+      const bufferPostId = await postToLinkedInBuffer(linkedinPostText);
       console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
       state.history.push({
         slug,
@@ -920,8 +916,8 @@ async function main() {
 
   if (platform === 'facebook' || shouldPostAll) {
     try {
-      console.log('Publishing to Facebook Page (Meta Graph API)...');
-      const fbPostId = await postToFacebook(facebookPostText, ogImageUrl);
+      console.log('Publishing to Facebook Page (Meta Graph API link feed)...');
+      const fbPostId = await postToFacebook(facebookPostText, facebookUrl);
       console.log(`✓ Successfully published to Facebook! Post ID: ${fbPostId}`);
       state.history.push({
         slug,

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="oep-title oep-desc">
+<title id="oep-title">Oracle Engineer Career Trajectory and Technical Competencies</title>
+<desc id="oep-desc">Career progression for Web3 oracle engineers spanning infrastructure operations, smart contract integration, and decentralized data protocol architecture.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:11px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}
+.lvl1{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.lvl2{fill:#eff6ff;stroke:#2563eb;stroke-width:1.5}
+.lvl3{fill:#f0fdf4;stroke:#16a34a;stroke-width:1.5}
+.arrow{stroke:#64748b;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-oep)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
+.lvl1{fill:#1e293b;stroke:#475569}.lvl2{fill:#172554;stroke:#60a5fa}.lvl3{fill:#064e3b;stroke:#34d399}
+.arrow{stroke:#94a3b8}
+}
+</style>
+<defs>
+<marker id="arrowhead-oep" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Oracle Engineering: Career Growth &amp; Skill Progression</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Roles from node infrastructure SRE to decentralized data protocol architect</text>
+
+<!-- Level 1 -->
+<rect class="lvl1" x="24" y="70" width="180" height="235" rx="8"/>
+<text x="36" y="94" class="header">Level 1: Node Operator SRE</text>
+<text x="36" y="112" font-size="10" font-weight="600" fill="#2563eb">$130,000 - $170,000 + Equity</text>
+
+<text x="36" y="136" font-weight="600">Core Scope:</text>
+<text x="36" y="150" font-size="10" fill="#64748b">99.99% high-availability setups</text>
+<text x="36" y="164" font-size="10" fill="#64748b">Chainlink / Pyth node clusters</text>
+<text x="36" y="186" font-weight="600">Key Deliverables:</text>
+<text x="36" y="200" font-size="10" fill="#64748b">Multi-region RPC failover</text>
+<text x="36" y="214" font-size="10" fill="#64748b">Key custody &amp; HSM management</text>
+<text x="36" y="236" font-weight="600">Tech Stack:</text>
+<text x="36" y="250" font-size="10" fill="#64748b">Docker, Kubernetes, Prometheus</text>
+<text x="36" y="264" font-size="10" fill="#64748b">PostgreSQL, Grafana, Linux</text>
+
+<!-- Arrow 1 to 2 -->
+<path class="arrow" d="M204 185 L224 185"/>
+
+<!-- Level 2 -->
+<rect class="lvl2" x="226" y="70" width="186" height="235" rx="8"/>
+<text x="238" y="94" class="header" fill="#2563eb">Level 2: Oracle Integration Dev</text>
+<text x="238" y="112" font-size="10" font-weight="600" fill="#2563eb">$170,000 - $240,000 + Tokens</text>
+
+<text x="238" y="136" font-weight="600">Core Scope:</text>
+<text x="238" y="150" font-size="10" fill="#64748b">Smart contract consumption</text>
+<text x="238" y="164" font-size="10" fill="#64748b">DeFi oracle security checks</text>
+<text x="238" y="186" font-weight="600">Key Deliverables:</text>
+<text x="238" y="200" font-size="10" fill="#64748b">Stale price &amp; circuit breakers</text>
+<text x="238" y="214" font-size="10" fill="#64748b">Uniswap v3 TWAP integration</text>
+<text x="238" y="236" font-weight="600">Tech Stack:</text>
+<text x="238" y="250" font-size="10" fill="#64748b">Solidity, Foundry, Hardhat</text>
+<text x="238" y="264" font-size="10" fill="#64748b">TypeScript, Ethers.js, Viem</text>
+
+<!-- Arrow 2 to 3 -->
+<path class="arrow" d="M412 185 L432 185"/>
+
+<!-- Level 3 -->
+<rect class="lvl3" x="434" y="70" width="182" height="235" rx="8"/>
+<text x="446" y="94" class="header" fill="#16a34a">Level 3: Protocol Architect</text>
+<text x="446" y="112" font-size="10" font-weight="600" fill="#16a34a">$250,000 - $420,000+ &amp; Stake</text>
+
+<text x="446" y="136" font-weight="600">Core Scope:</text>
+<text x="446" y="150" font-size="10" fill="#64748b">Novel oracle mechanism design</text>
+<text x="446" y="164" font-size="10" fill="#64748b">Cryptographic data attestation</text>
+<text x="446" y="186" font-weight="600">Key Deliverables:</text>
+<text x="446" y="200" font-size="10" fill="#64748b">DECO TLS attestation circuits</text>
+<text x="446" y="214" font-size="10" fill="#64748b">Low-latency Wormhole verifiers</text>
+<text x="446" y="236" font-weight="600">Leading Labs:</text>
+<text x="446" y="250" font-size="10" fill="#64748b">Chainlink Labs, Pyth Data, RedStone</text>
+<text x="446" y="264" font-size="10" fill="#64748b">Wormhole Foundation, LayerZero</text>
+</svg>
