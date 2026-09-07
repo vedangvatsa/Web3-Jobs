@@ -10,7 +10,7 @@ lastUpdated: "2026-09-07"
 
 ![Web3 Reputation and Identity Architecture](/images/articles/charts/web3-reputation-identity-architecture.svg)
 
-In traditional web paradigms, credit scores, background checks, and identity verification rely on centralized clearinghouses like Experian, Equifax, or LinkedIn. These centralized data silos control access to financial leverage, employment opportunities, and social proof. Public [blockchain](/what-is-a-blockchain) network infrastructure offers an alternative built on pseudonymous wallet interactions where users interact directly with smart contract protocols. 
+In traditional web paradigms, credit scores, background checks, and identity verification rely on centralized clearinghouses like Experian, Equifax, or LinkedIn. These centralized data silos control access to financial capital access, employment opportunities, and social proof. Public [blockchain](/what-is-a-blockchain) network infrastructure offers an alternative built on pseudonymous wallet interactions where users interact directly with smart contract protocols. 
 
 Pseudonymity introduces systemic operational challenges. When a cryptographic wallet address interacts with a decentralized application, smart contracts cannot inherently distinguish between an automated Sybil bot network, a malicious actor preparing a flash loan attack, or a seasoned protocol contributor with years of verified governance participation. Traditional decentralized finance protocol architectures rely heavily on overcollateralization to manage default risk because smart contracts cannot assess human counterparty risk.
 
@@ -273,7 +273,7 @@ Reputation systems integrated into platforms like Gitcoin Grants verify that eac
 
 ### Decentralized Labor Markets and Web3 Hiring
 
-Hiring in Web3 often suffers from resume inflation and unverified claims. Decentralized labor platforms leverage reputation attestations to verify skills directly:
+Hiring in Web3 often suffers from resume inflation and unverified claims. Decentralized labor platforms utilize reputation attestations to verify skills directly:
 - **Smart Contract Engineering:** Attestations generated automatically upon merging code into audited open-source repositories.
 - **Security Auditing:** On-chain records of bugs submitted through bug bounty platforms like Immunefi.
 - **Community Management:** Verifiable governance participation metrics indexed directly from DAO proposal history.

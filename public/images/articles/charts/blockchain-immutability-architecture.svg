@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="block-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="accent-blue" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+    <linearGradient id="tamper-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#ef4444"/>
+      <stop offset="100%" stop-color="#991b1b"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bg-grad)" rx="12"/>
+
+  <!-- Title -->
+  <text x="400" y="40" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Blockchain Cryptographic Immutability Architecture</text>
+  <text x="400" y="65" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13" text-anchor="middle">Merkle Trees, Preimage Resistance &amp; Chain State Propagation</text>
+
+  <!-- Block 100 -->
+  <g transform="translate(50, 100)" filter="url(#shadow)">
+    <rect width="200" height="230" fill="url(#block-grad)" stroke="#475569" stroke-width="2" rx="8"/>
+    <rect width="200" height="36" fill="#334155" rx="8"/>
+    <text x="100" y="24" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Block #100</text>
+
+    <text x="15" y="60" fill="#94a3b8" font-family="monospace" font-size="11">Prev Hash: 0x8f2a...a19b</text>
+    <text x="15" y="85" fill="#e2e8f0" font-family="monospace" font-size="11">Merkle Root: 0x4c9e...77d2</text>
+    <text x="15" y="110" fill="#94a3b8" font-family="monospace" font-size="11">Timestamp: 1773229200</text>
+    <text x="15" y="135" fill="#94a3b8" font-family="monospace" font-size="11">Nonce: 84920412</text>
+
+    <rect x="12" y="150" width="176" height="65" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="100" y="170" fill="#818cf8" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">Block Hash</text>
+    <text x="100" y="195" fill="#38bdf8" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">0x0000a7b4...91f0</text>
+  </g>
+
+  <!-- Connection 1 -->
+  <path d="M 250 215 L 290 215" stroke="#38bdf8" stroke-width="3" stroke-dasharray="6,4" marker-end="url(#arrow)"/>
+  <polygon points="295,215 285,210 285,220" fill="#38bdf8"/>
+
+  <!-- Block 101 (Target / Tampered Block) -->
+  <g transform="translate(300, 100)" filter="url(#shadow)">
+    <rect width="200" height="230" fill="url(#block-grad)" stroke="#ef4444" stroke-width="2" rx="8"/>
+    <rect width="200" height="36" fill="url(#tamper-grad)" rx="8"/>
+    <text x="100" y="24" fill="#ffffff" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Block #101 [TAMPERED]</text>
+
+    <text x="15" y="60" fill="#38bdf8" font-family="monospace" font-size="11">Prev Hash: 0x0000a7b4...</text>
+    <text x="15" y="85" fill="#ef4444" font-family="monospace" font-size="11">Merkle Root: 0x9999...MOD</text>
+    <text x="15" y="110" fill="#94a3b8" font-family="monospace" font-size="11">Timestamp: 1773229212</text>
+    <text x="15" y="135" fill="#94a3b8" font-family="monospace" font-size="11">Nonce: 49102834</text>
+
+    <rect x="12" y="150" width="176" height="65" fill="#0f172a" rx="4" stroke="#ef4444"/>
+    <text x="100" y="170" fill="#ef4444" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">Invalid Hash</text>
+    <text x="100" y="195" fill="#ef4444" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">0xe91fbc34...7a2b</text>
+  </g>
+
+  <!-- Broken Connection 2 -->
+  <path d="M 500 215 L 540 215" stroke="#ef4444" stroke-width="3"/>
+  <text x="520" y="200" fill="#ef4444" font-family="system-ui, sans-serif" font-size="16" font-weight="700" text-anchor="middle">X</text>
+
+  <!-- Block 102 (Valid Chain Block Rejecting Tampered Block) -->
+  <g transform="translate(550, 100)" filter="url(#shadow)">
+    <rect width="200" height="230" fill="url(#block-grad)" stroke="#475569" stroke-width="2" rx="8"/>
+    <rect width="200" height="36" fill="#334155" rx="8"/>
+    <text x="100" y="24" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="14" font-weight="700" text-anchor="middle">Block #102</text>
+
+    <text x="15" y="60" fill="#ef4444" font-family="monospace" font-size="11">Expected: 0x0000d81f...</text>
+    <text x="15" y="85" fill="#e2e8f0" font-family="monospace" font-size="11">Merkle Root: 0x11ab...90cc</text>
+    <text x="15" y="110" fill="#94a3b8" font-family="monospace" font-size="11">Timestamp: 1773229224</text>
+    <text x="15" y="135" fill="#94a3b8" font-family="monospace" font-size="11">Nonce: 11029481</text>
+
+    <rect x="12" y="150" width="176" height="65" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="100" y="170" fill="#f59e0b" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">Chain Status</text>
+    <text x="100" y="195" fill="#ef4444" font-family="monospace" font-size="11" font-weight="700" text-anchor="middle">REJECTED BY NODES</text>
+  </g>
+
+  <!-- Footer Banner -->
+  <rect x="50" y="350" width="700" height="32" fill="#1e293b" rx="6" stroke="#334155"/>
+  <text x="400" y="371" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" text-anchor="middle">Altering a single transaction in Block 101 changes its hash, breaking downstream block pointers and triggering network consensus rejection.</text>
+</svg>
