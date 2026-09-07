@@ -1,0 +1,83 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-law" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-law" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="law-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#06b6d4"/>
+      <stop offset="100%" stop-color="#3b82f6"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="600" fill="url(#bg-law)" rx="16"/>
+
+  <!-- Title -->
+  <text x="500" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#f8fafc" text-anchor="middle">Web3 Legal, Regulatory &amp; Compliance Engineering Stack</text>
+  <text x="500" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Global Jurisdiction Mapping, Entity Structuring, On-Chain AML &amp; Token Classification</text>
+
+  <!-- Pillar 1: Securities & Token Classification -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="110" width="270" height="440" rx="12" fill="url(#card-law)" stroke="#06b6d4" stroke-width="1.5"/>
+    <text x="185" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#22d3ee" text-anchor="middle">1. Token Securities &amp; Issuance</text>
+    <line x1="70" y1="160" x2="300" y2="160" stroke="#06b6d4" stroke-opacity="0.4"/>
+    
+    <rect x="70" y="180" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="80" y="202" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Howey &amp; Reves Analysis</text>
+    <text x="80" y="222" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Investment Contract Primitives</text>
+
+    <rect x="70" y="265" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="80" y="287" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">MiCA Framework (EU)</text>
+    <text x="80" y="307" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">CASP Licensing &amp; Whitepapers</text>
+
+    <rect x="70" y="350" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="80" y="372" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Token Warrants &amp; SAFEs</text>
+    <text x="80" y="392" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">SAFTs &amp; Vesting Schedules</text>
+  </g>
+
+  <!-- Pillar 2: DAO Entity Structuring -->
+  <g filter="url(#shadow)">
+    <rect x="365" y="110" width="270" height="440" rx="12" fill="url(#card-law)" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="500" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#60a5fa" text-anchor="middle">2. DAO Entities &amp; Governance</text>
+    <line x1="385" y1="160" x2="615" y2="160" stroke="#3b82f6" stroke-opacity="0.4"/>
+
+    <rect x="385" y="180" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="395" y="202" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Offshore Foundations</text>
+    <text x="395" y="222" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Cayman / Marshall Islands</text>
+
+    <rect x="385" y="265" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="395" y="287" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">US State Entities</text>
+    <text x="395" y="307" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Wyoming DAO LLC / LCA</text>
+
+    <rect x="385" y="350" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="395" y="372" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Fiduciary &amp; Member Liability</text>
+    <text x="395" y="392" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">General Partnership Defense</text>
+  </g>
+
+  <!-- Pillar 3: On-Chain AML & Sanctions -->
+  <g filter="url(#shadow)">
+    <rect x="680" y="110" width="270" height="440" rx="12" fill="url(#card-law)" stroke="#a855f7" stroke-width="1.5"/>
+    <text x="815" y="145" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="700" fill="#c084fc" text-anchor="middle">3. On-Chain AML &amp; Sanctions</text>
+    <line x1="700" y1="160" x2="930" y2="160" stroke="#a855f7" stroke-opacity="0.4"/>
+
+    <rect x="700" y="180" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="710" y="202" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">Chainalysis / Elliptic API</text>
+    <text x="710" y="222" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Real-time Risk Scoring</text>
+
+    <rect x="700" y="265" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="710" y="287" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">OFAC Compliance Oracle</text>
+    <text x="710" y="307" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">Automated Smart Contract Screening</text>
+
+    <rect x="700" y="350" width="230" height="70" rx="8" fill="#0f172a" stroke="#334155"/>
+    <text x="710" y="372" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#f8fafc">FATF Travel Rule</text>
+    <text x="710" y="392" font-family="system-ui, -apple-system, sans-serif" font-size="11" fill="#94a3b8">VASP-to-VASP Data Protocols</text>
+  </g>
+</svg>

@@ -1,0 +1,84 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 400" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="box-grad" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="accent-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10b981"/>
+      <stop offset="100%" stop-color="#059669"/>
+    </linearGradient>
+    <filter id="shadow" x="-10%" y="-10%" width="120%" height="120%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+
+  <rect width="800" height="400" fill="url(#bg-grad)" rx="12"/>
+
+  <!-- Title -->
+  <text x="400" y="40" fill="#f8fafc" font-family="system-ui, -apple-system, sans-serif" font-size="20" font-weight="700" text-anchor="middle">Spot Crypto ETF Custody &amp; Creation Mechanism</text>
+  <text x="400" y="65" fill="#94a3b8" font-family="system-ui, -apple-system, sans-serif" font-size="13" text-anchor="middle">Cash Creation, Arbitrage, and Institutional Cold Custody Flow</text>
+
+  <!-- Box 1: Authorized Participant (AP) -->
+  <g transform="translate(40, 110)" filter="url(#shadow)">
+    <rect width="200" height="210" fill="url(#box-grad)" stroke="#38bdf8" stroke-width="2" rx="8"/>
+    <rect width="200" height="34" fill="#0284c7" rx="8"/>
+    <text x="100" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Authorized Participant (AP)</text>
+
+    <text x="15" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Entities: Market Makers</text>
+    <text x="15" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">(Jane Street, Citadel Securities)</text>
+
+    <rect x="12" y="105" width="176" height="85" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="20" y="125" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">1. Deposit USD Cash</text>
+    <text x="20" y="145" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">2. Receive ETF Shares</text>
+    <text x="20" y="165" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">3. Arbitrage NAV Gaps</text>
+  </g>
+
+  <!-- Arrow 1 -> 2 -->
+  <path d="M 240 215 L 290 215" stroke="#38bdf8" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <polygon points="295,215 285,210 285,220" fill="#38bdf8"/>
+  <text x="267" y="200" fill="#38bdf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">Cash</text>
+
+  <!-- Box 2: ETF Issuer & Trust -->
+  <g transform="translate(300, 110)" filter="url(#shadow)">
+    <rect width="200" height="210" fill="url(#box-grad)" stroke="#818cf8" stroke-width="2" rx="8"/>
+    <rect width="200" height="34" fill="#4f46e5" rx="8"/>
+    <text x="100" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">ETF Issuer / Sponsor</text>
+
+    <text x="15" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Asset Managers</text>
+    <text x="15" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">(BlackRock, Fidelity, Bitwise)</text>
+
+    <rect x="12" y="105" width="176" height="85" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="20" y="125" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Converts Cash to Spot</text>
+    <text x="20" y="145" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Tracks Daily NAV</text>
+    <text x="20" y="165" fill="#818cf8" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Files SEC Form S-1/19b-4</text>
+  </g>
+
+  <!-- Arrow 2 -> 3 -->
+  <path d="M 500 215 L 550 215" stroke="#10b981" stroke-width="2.5" stroke-dasharray="6,4"/>
+  <polygon points="555,215 545,210 545,220" fill="#10b981"/>
+  <text x="527" y="200" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600" text-anchor="middle">BTC / ETH</text>
+
+  <!-- Box 3: Institutional Custodian -->
+  <g transform="translate(560, 110)" filter="url(#shadow)">
+    <rect width="200" height="210" fill="url(#box-grad)" stroke="#10b981" stroke-width="2" rx="8"/>
+    <rect width="200" height="34" fill="url(#accent-green)" rx="8"/>
+    <text x="100" y="22" fill="#ffffff" font-family="system-ui, sans-serif" font-size="13" font-weight="700" text-anchor="middle">Qualified Custodian</text>
+
+    <text x="15" y="60" fill="#e2e8f0" font-family="system-ui, sans-serif" font-size="12" font-weight="600">Institutional Vaults</text>
+    <text x="15" y="80" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="11">(Coinbase Prime, BNY Mellon)</text>
+
+    <rect x="12" y="105" width="176" height="85" fill="#0f172a" rx="4" stroke="#334155"/>
+    <text x="20" y="125" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Air-Gapped Cold Storage</text>
+    <text x="20" y="145" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Multi-Sig Key Thresholds</text>
+    <text x="20" y="165" fill="#10b981" font-family="system-ui, sans-serif" font-size="11" font-weight="600">• Proof of Reserves Audit</text>
+  </g>
+
+  <!-- Bottom Banner -->
+  <rect x="40" y="350" width="720" height="32" fill="#1e293b" rx="6" stroke="#334155"/>
+  <text x="400" y="371" fill="#94a3b8" font-family="system-ui, sans-serif" font-size="12" text-anchor="middle">Spot ETFs hold physical underlying digital assets in segregated institutional cold custody, trading on stock exchanges via AP arbitrage.</text>
+</svg>

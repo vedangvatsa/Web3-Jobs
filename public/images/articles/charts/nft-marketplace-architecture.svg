@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-nft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-nft" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="nft-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ec4899"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="600" fill="url(#bg-nft)" rx="16"/>
+
+  <!-- Title -->
+  <text x="500" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#f8fafc" text-anchor="middle">Web3 NFT Marketplace System Architecture</text>
+  <text x="500" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Off-Chain Orderbook, Seaport / Blur Exchange Protocols, Indexers &amp; Smart Contracts</text>
+
+  <!-- Layer 1: Client UI -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="100" width="900" height="85" rx="12" fill="url(#card-nft)" stroke="#ec4899" stroke-width="1.5"/>
+    <text x="70" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#f472b6">1. Frontend Client Layer (Next.js / React / TailwindCSS)</text>
+    <text x="70" y="155" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">EIP-712 Order Signing • Ethers.js / Viem Integration • Wallet Adapters (RainbowKit, Privy)</text>
+    <rect x="750" y="118" width="180" height="36" rx="8" fill="url(#nft-grad)"/>
+    <text x="840" y="141" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Marketplace DApp</text>
+  </g>
+
+  <!-- Layer 2: Off-Chain Orderbook & Indexing -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="215" width="430" height="110" rx="12" fill="url(#card-nft)" stroke="#8b5cf6" stroke-width="1.5"/>
+    <text x="70" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#c084fc">2A. Off-Chain Orderbook Relayer</text>
+    <text x="70" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Stores Cryptographic Maker/Taker Signatures</text>
+    <text x="70" y="290" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Zero-Gas Listing Creation (Reservoir / Seaport)</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="520" y="215" width="430" height="110" rx="12" fill="url(#card-nft)" stroke="#06b6d4" stroke-width="1.5"/>
+    <text x="540" y="245" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#22d3ee">2B. Subgraph &amp; Indexer Engine</text>
+    <text x="540" y="270" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">The Graph Subgraphs • Alchemy NFT API</text>
+    <text x="540" y="290" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Indexes Transfer Events &amp; Floor Prices</text>
+  </g>
+
+  <!-- Layer 3: Storage & Metadata -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="355" width="900" height="85" rx="12" fill="url(#card-nft)" stroke="#34d399" stroke-width="1.5"/>
+    <text x="70" y="385" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#34d399">3. Decentralized Storage Layer (IPFS / Arweave / Filecoin)</text>
+    <text x="70" y="410" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Immutable Media Assets • JSON Metadata Specs (`tokenURI`) • Pinata Gateway Clusters</text>
+  </g>
+
+  <!-- Layer 4: Blockchain & Smart Contracts -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="470" width="900" height="90" rx="12" fill="url(#card-nft)" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="70" y="500" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#fbbf24">4. Smart Contract Execution Layer (Ethereum, Base, Arbitrum, Solana)</text>
+    <text x="70" y="525" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">ERC-721 / ERC-1155 Token Contracts • Royalty Standard (EIP-2981) • Seaport Fulfillment Exchange</text>
+  </g>
+</svg>

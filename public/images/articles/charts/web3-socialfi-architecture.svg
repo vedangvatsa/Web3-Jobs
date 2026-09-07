@@ -1,0 +1,73 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 600" width="100%" height="100%">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="100%" stop-color="#1e293b"/>
+    </linearGradient>
+    <linearGradient id="card-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#1e293b"/>
+      <stop offset="100%" stop-color="#334155"/>
+    </linearGradient>
+    <linearGradient id="accent-grad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#3b82f6"/>
+      <stop offset="100%" stop-color="#8b5cf6"/>
+    </linearGradient>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#000" flood-opacity="0.3"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="1000" height="600" fill="url(#bg-grad)" rx="16"/>
+
+  <!-- Title & Header Header -->
+  <text x="500" y="45" font-family="system-ui, -apple-system, sans-serif" font-size="22" font-weight="700" fill="#f8fafc" text-anchor="middle">Web3 SocialFi Decentralized Stack & Architecture</text>
+  <text x="500" y="70" font-family="system-ui, -apple-system, sans-serif" font-size="14" fill="#94a3b8" text-anchor="middle">Identity, Off-Chain Storage, Smart Contract Protocol & Financialization Layers</text>
+
+  <!-- Layer 1: Client & UI Layer -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="100" width="900" height="90" rx="12" fill="url(#card-grad)" stroke="#3b82f6" stroke-width="1.5"/>
+    <text x="70" y="130" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#60a5fa">1. Client & Application Layer (Warpcast, Phaver, Hey.xyz, Orb)</text>
+    <text x="70" y="155" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Custom UI Interfaces • Frame / Widget Executors • Wallet Session Signers (passkeys, EIP-4337)</text>
+    <rect x="750" y="118" width="180" height="36" rx="8" fill="url(#accent-grad)"/>
+    <text x="840" y="141" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Web3 UI Frontends</text>
+  </g>
+
+  <!-- Connector Arrow 1 -->
+  <path d="M 500 190 L 500 220" stroke="#3b82f6" stroke-width="2" stroke-dasharray="4" marker-end="url(#arrow)"/>
+
+  <!-- Layer 2: Protocol & Social Graph Layer -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="220" width="900" height="110" rx="12" fill="url(#card-grad)" stroke="#8b5cf6" stroke-width="1.5"/>
+    <text x="70" y="250" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#a78bfa">2. Social Graph & Protocol Layer (Farcaster Hubs / Lens V2 Protocol)</text>
+    <text x="70" y="275" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Decentralized Profile Registry (Farcaster FIDs / Lens Profile NFTs)</text>
+    <text x="70" y="295" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Peer-to-Peer Follow Graphs • Publication Schemas • Ed25519 Message Signing</text>
+    <rect x="750" y="245" width="180" height="36" rx="8" fill="#8b5cf6" opacity="0.8"/>
+    <text x="840" y="268" font-family="system-ui, -apple-system, sans-serif" font-size="13" font-weight="600" fill="#ffffff" text-anchor="middle">Open Social Protocol</text>
+  </g>
+
+  <!-- Connector Arrow 2 -->
+  <path d="M 500 330 L 500 360" stroke="#8b5cf6" stroke-width="2" stroke-dasharray="4"/>
+
+  <!-- Layer 3: Storage & Availability Layer -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="360" width="430" height="110" rx="12" fill="url(#card-grad)" stroke="#10b981" stroke-width="1.5"/>
+    <text x="70" y="390" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#34d399">3A. High-Frequency Off-Chain Storage</text>
+    <text x="70" y="415" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Farcaster Hub Network • IPFS / Arweave</text>
+    <text x="70" y="435" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Stores Posts, Reactions, Likes &amp; Images</text>
+  </g>
+
+  <g filter="url(#shadow)">
+    <rect x="520" y="360" width="430" height="110" rx="12" fill="url(#card-grad)" stroke="#f59e0b" stroke-width="1.5"/>
+    <text x="540" y="390" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#fbbf24">3B. Financialization &amp; Monetization</text>
+    <text x="540" y="415" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">On-Chain Tipping • Bonding Curve Keys</text>
+    <text x="540" y="435" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">Creator Coins • NFT Collect Modules</text>
+  </g>
+
+  <!-- Layer 4: Base Blockchain Infrastructure -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="490" width="900" height="80" rx="12" fill="url(#card-grad)" stroke="#ec4899" stroke-width="1.5"/>
+    <text x="70" y="520" font-family="system-ui, -apple-system, sans-serif" font-size="16" font-weight="600" fill="#f472b6">4. Settlement &amp; Security Layer (Optimism Superchain, Base, Arbitrum, Solana)</text>
+    <text x="70" y="545" font-family="system-ui, -apple-system, sans-serif" font-size="13" fill="#cbd5e1">ID Registration Contracts • Storage Rent Subscriptions • Settlement Proofs</text>
+  </g>
+</svg>
