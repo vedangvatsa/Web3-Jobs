@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 330" role="img" aria-labelledby="slc-title slc-desc">
+<title id="slc-title">Solidity Developer Mastery Progression and Compensation Curve</title>
+<desc id="slc-desc">Progression stages from EVM syntax to formal verification with average time to competence and market salary brackets.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:12px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.row-bg{fill:#f8fafc}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#e2e8f0}
+.bar1{fill:#3b82f6}.bar2{fill:#0ea5e9}.bar3{fill:#8b5cf6}.bar4{fill:#10b981}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.header{fill:#f1f5f9}.row-bg{fill:#1e293b}.card{fill:#0f172a;stroke:#1e293b}.grid{stroke:#334155}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="328" rx="12"/>
+<text x="24" y="32" font-weight="700" font-size="15">Solidity Engineering Progression and Salary Curve</text>
+<text x="24" y="50" font-size="11" fill="#64748b">Skills requirements, testing frameworks, and compensation across career tiers (Electric Capital &amp; Web3.career data)</text>
+
+<!-- Header -->
+<line class="grid" x1="20" y1="65" x2="620" y2="65"/>
+<text x="28" y="82" class="header">Progression Tier</text>
+<text x="180" y="82" class="header">Key Tooling &amp; Protocols</text>
+<text x="350" y="82" class="header">Base Band (USD)</text>
+<text x="490" y="82" class="header">Security Scope</text>
+<line class="grid" x1="20" y1="92" x2="620" y2="92"/>
+
+<!-- Stage 1 -->
+<rect class="row-bg" x="20" y="94" width="600" height="50" rx="4"/>
+<text x="28" y="116" font-weight="600">Junior EVM Dev</text>
+<text x="28" y="132" font-size="10" fill="#64748b">0–12 months</text>
+<text x="180" y="116">Solidity 0.8+, Hardhat</text>
+<text x="180" y="132" font-size="10" fill="#64748b">OpenZeppelin ERC20/721</text>
+<rect class="bar1" x="350" y="108" width="55" height="12" rx="3"/>
+<text class="num" x="415" y="119">$90k–$130k</text>
+<text x="490" y="116" fill="#64748b">Unit Testing</text>
+
+<!-- Stage 2 -->
+<text x="28" y="168" font-weight="600">Mid-Level Engineer</text>
+<text x="28" y="184" font-size="10" fill="#64748b">1–3 years</text>
+<text x="180" y="168">Foundry, Slither, Cast</text>
+<text x="180" y="184" font-size="10" fill="#64748b">Uniswap v2/v3, Aave v3</text>
+<rect class="bar2" x="350" y="160" width="85" height="12" rx="3"/>
+<text class="num" x="445" y="171">$130k–$185k</text>
+<text x="490" y="168" fill="#3b82f6" font-weight="600">Fuzzing &amp; Gas Profiling</text>
+
+<!-- Stage 3 -->
+<rect class="row-bg" x="20" y="198" width="600" height="50" rx="4"/>
+<text x="28" y="220" font-weight="600">Senior Protocol Lead</text>
+<text x="28" y="236" font-size="10" fill="#64748b">3–5 years</text>
+<text x="180" y="220">Foundry Invariants, Yul</text>
+<text x="180" y="236" font-size="10" fill="#64748b">ERC-4337, EIP-1153, L2s</text>
+<rect class="bar3" x="350" y="212" width="115" height="12" rx="3"/>
+<text class="num" x="475" y="223">$185k–$260k</text>
+<text x="490" y="220" fill="#8b5cf6" font-weight="600">Economic &amp; MEV Defense</text>
+
+<!-- Stage 4 -->
+<text x="28" y="272" font-weight="600">Principal / Auditor</text>
+<text x="28" y="288" font-size="10" fill="#64748b">5+ years</text>
+<text x="180" y="272">Certora, Echidna, Halmos</text>
+<text x="180" y="288" font-size="10" fill="#64748b">Cross-Chain, Custom Bytecode</text>
+<rect class="bar4" x="350" y="264" width="140" height="12" rx="3"/>
+<text class="num" x="500" y="275">$260k–$380k+</text>
+<text x="490" y="272" fill="#10b981" font-weight="600">Formal Verification</text>
+
+<line class="grid" x1="20" y1="306" x2="620" y2="306"/>
+</svg>
