@@ -36,7 +36,7 @@ export const ResumePreview = ({ data }: { data: ResumeData }) => {
                   {c.project ||"Project Name"} | <span className="font-medium italic text-gray-600">{c.role ||"Your Role"}</span>
                 </h4>
                 <p className="text-[10pt] text-gray-700 my-1 leading-normal">{c.description ||"Description of your amazing contribution."}</p>
-                {c.link && <a href={c.link} target="_blank" rel="noopener noreferrer" className="text-[9pt] text-blue-600 hover:underline break-all">{c.link}</a>}
+                {c.link && <a href={c.link} target="_blank" rel="noopener noreferrer" className="text-[9pt] text-primary hover:underline break-all">{c.link}</a>}
               </div>
             ))}
           </div>
