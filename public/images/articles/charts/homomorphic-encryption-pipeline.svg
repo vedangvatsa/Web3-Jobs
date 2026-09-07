@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 360" role="img" aria-labelledby="he-title he-desc">
+<title id="he-title">Homomorphic Encryption Execution Pipeline in Web3</title>
+<desc id="he-desc">Process flow of Fully Homomorphic Encryption (FHE) showing encryption, homomorphic evaluation with noise growth and bootstrapping, and threshold decryption.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:11px;fill:#334155}
+.header{font-weight:700;fill:#1e293b;font-size:12px}
+.card{fill:#ffffff;stroke:#e2e8f0}
+.stage{fill:#f8fafc;stroke:#64748b;stroke-width:1.5}
+.eval{fill:#eff6ff;stroke:#2563eb;stroke-width:1.5}
+.boot{fill:#fef3c7;stroke:#d97706;stroke-width:1.5}
+.thresh{fill:#f0fdf4;stroke:#16a34a;stroke-width:1.5}
+.arrow{stroke:#64748b;stroke-width:1.5;fill:none;marker-end:url(#arrowhead-he)}
+@media (prefers-color-scheme:dark){
+text{fill:#cbd5e1}.header{fill:#f1f5f9}.card{fill:#0f172a;stroke:#1e293b}
+.stage{fill:#1e293b;stroke:#475569}.eval{fill:#172554;stroke:#60a5fa}.boot{fill:#451a03;stroke:#f59e0b}.thresh{fill:#064e3b;stroke:#34d399}
+.arrow{stroke:#94a3b8}
+}
+</style>
+<defs>
+<marker id="arrowhead-he" markerWidth="6" markerHeight="6" refX="5" refY="3" orient="auto">
+<polygon points="0 0, 6 3, 0 6" fill="#64748b" />
+</marker>
+</defs>
+
+<rect class="card" x="1" y="1" width="638" height="358" rx="12"/>
+<text x="24" y="30" font-weight="700" font-size="15">Homomorphic Encryption: Web3 Confidential Computation Flow</text>
+<text x="24" y="48" font-size="11" fill="#64748b">Encrypted state transition pipeline across FHE circuits, noise management, and threshold consensus</text>
+
+<!-- Step 1: Client Encryption -->
+<rect class="stage" x="24" y="70" width="128" height="230" rx="8"/>
+<text x="34" y="94" class="header">1. Client Encryption</text>
+<text x="34" y="116" font-weight="600">Input Data:</text>
+<text x="34" y="130" font-size="10" fill="#64748b">Plaintext state x, y</text>
+<text x="34" y="152" font-weight="600">Key Material:</text>
+<text x="34" y="166" font-size="10" fill="#64748b">Public Evaluation Key</text>
+<text x="34" y="188" font-weight="600">Ciphertext Gen:</text>
+<text x="34" y="202" font-size="10" fill="#64748b">RLWE lattice embedding</text>
+<text x="34" y="216" font-size="10" fill="#64748b">Initial small noise e</text>
+<text x="34" y="238" font-weight="600">Payload Output:</text>
+<text x="34" y="252" font-size="10" fill="#64748b">Enc(x), Enc(y)</text>
+<text x="34" y="266" font-size="10" fill="#64748b">Dispatched to mempool</text>
+
+<!-- Arrow 1 to 2 -->
+<path class="arrow" d="M152 185 L174 185"/>
+
+<!-- Step 2: Homomorphic Execution -->
+<rect class="eval" x="176" y="70" width="138" height="230" rx="8"/>
+<text x="186" y="94" class="header" fill="#2563eb">2. On-Chain Eval</text>
+<text x="186" y="116" font-weight="600">fhEVM / VM Runtime:</text>
+<text x="186" y="130" font-size="10" fill="#64748b">Encrypted addition</text>
+<text x="186" y="144" font-size="10" fill="#64748b">Encrypted multiplication</text>
+<text x="186" y="166" font-weight="600">Noise Accumulation:</text>
+<text x="186" y="180" font-size="10" fill="#d97706">Noise grows with depth</text>
+<text x="186" y="194" font-size="10" fill="#d97706">Delta ~ O(e_1 * e_2)</text>
+<text x="186" y="216" font-weight="600">Zero Leakage:</text>
+<text x="186" y="230" font-size="10" fill="#64748b">Validators evaluate</text>
+<text x="186" y="244" font-size="10" fill="#64748b">without reading values</text>
+
+<!-- Arrow 2 to 3 -->
+<path class="arrow" d="M314 185 L336 185"/>
+
+<!-- Step 3: Bootstrapping -->
+<rect class="boot" x="338" y="70" width="130" height="230" rx="8"/>
+<text x="348" y="94" class="header" fill="#d97706">3. Bootstrapping</text>
+<text x="348" y="116" font-weight="600">Noise Budget Reset:</text>
+<text x="348" y="130" font-size="10" fill="#64748b">Evaluates decryption</text>
+<text x="348" y="144" font-size="10" fill="#64748b">circuit homomorphically</text>
+<text x="348" y="166" font-weight="600">Gentry Paradigm:</text>
+<text x="348" y="180" font-size="10" fill="#64748b">Refreshes noise to e_0</text>
+<text x="348" y="194" font-size="10" fill="#64748b">Enables arbitrary depth</text>
+<text x="348" y="216" font-weight="600">Compute Overhead:</text>
+<text x="348" y="230" font-size="10" fill="#64748b">GPU/FPGA acceleration</text>
+<text x="348" y="244" font-size="10" fill="#64748b">Latency: 5-50 ms/op</text>
+
+<!-- Arrow 3 to 4 -->
+<path class="arrow" d="M468 185 L490 185"/>
+
+<!-- Step 4: Threshold Decryption -->
+<rect class="thresh" x="492" y="70" width="124" height="230" rx="8"/>
+<text x="502" y="94" class="header" fill="#16a34a">4. Threshold Decrypt</text>
+<text x="502" y="116" font-weight="600">Validator MPC:</text>
+<text x="502" y="130" font-size="10" fill="#64748b">t-of-n secret sharing</text>
+<text x="502" y="152" font-weight="600">Partial Decryptions:</text>
+<text x="502" y="166" font-size="10" fill="#64748b">Nodes submit shares</text>
+<text x="502" y="188" font-weight="600">Final Verification:</text>
+<text x="502" y="202" font-size="10" fill="#64748b">Public outcome verified</text>
+<text x="502" y="224" font-weight="600">State Settlement:</text>
+<text x="502" y="238" font-size="10" fill="#16a34a">Settles to L1 ledger</text>
+</svg>
