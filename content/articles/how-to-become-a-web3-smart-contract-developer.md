@@ -3,13 +3,12 @@ title: How to Become a Smart Contract Developer
 image: /images/articles/charts/sc-hacks.svg
 data-ai-hint: smart contract hack losses chart
 description: >-
-  A research-backed roadmap to smart contract work: EVM basics, Solidity,
-  security, audits, and hiring. 65+ cited sources with real hack and salary data.
+  The path to smart contract work: EVM basics, Solidity, security, audits, and hiring.
 category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-07"
 ---
-Smart contracts move billions of dollars with no undo button. That is why the role pays well and why the bar is proof, not promises. [Across 2,400 postings, 78% of Web3 developer jobs require Solidity, with auditors reaching $250k to $500k and a 20 to 40% premium over Web2 equivalents](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). This guide gives the full path: basics, language, toolchain, security, testing, portfolio, and hiring. Every claim links to its source.
+Smart contracts move billions of dollars with no undo button. That is why the role pays well and why the bar is proof, not promises. [Across 2,400 postings, 78% of Web3 developer jobs require Solidity, with auditors reaching $250k to $500k and a 20 to 40% premium over Web2 equivalents](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide). This guide gives the full path: basics, language, toolchain, security, testing, portfolio, and hiring.
 
 ## Step 1: learn how the machine works
 
