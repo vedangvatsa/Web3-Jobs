@@ -197,8 +197,7 @@ export function middleware(request: NextRequest) {
         }
 
         // For human visitors, redirect with absolute URL and UTM parameters
-        const redirectUrl = new URL(basePath + '?' + url.searchParams.toString(), 'https://hashtagweb3.com');
-        const response = NextResponse.redirect(redirectUrl, 307);
+        const response = NextResponse.redirect(url, 307);
         response.headers.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains; preload');
         response.headers.set('X-Content-Type-Options', 'nosniff');
         response.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
