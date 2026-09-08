@@ -277,6 +277,27 @@ export async function GET(request: NextRequest) {
         companyLogoUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
       }
 
+      // Pre-fetch logo bytes into a data URL. Satori silently drops remote
+      // <img> sources at render time (string width/height also collapse to
+      // zero), which is why logos were missing from job cards entirely.
+      let logoDataUrl: string | null = null;
+      if (companyLogoUrl) {
+        try {
+          const logoRes = await fetch(companyLogoUrl, {
+            headers: { 'User-Agent': 'HashtagWeb3-OG/1.0' },
+          });
+          if (logoRes.ok) {
+            const contentType = (logoRes.headers.get('content-type') || 'image/png').split(';')[0].trim();
+            const logoBytes = await logoRes.arrayBuffer();
+            if (logoBytes.byteLength > 0 && logoBytes.byteLength < 500000) {
+              logoDataUrl = `data:${contentType};base64,${Buffer.from(logoBytes).toString('base64')}`;
+            }
+          }
+        } catch {
+          logoDataUrl = null;
+        }
+      }
+
       // Dynamic font sizing for maximum visual punch and symmetry
       const titleFontSize = displayTitle.length > 55
         ? '60px'
@@ -317,8 +338,8 @@ export async function GET(request: NextRequest) {
                 position: 'relative',
               }}
             >
-              {/* Top Center: Company Logo / Favicon */}
-              {companyLogoUrl ? (
+              {/* Top Center: Company Logo / Favicon (data URL; remote src never embeds) */}
+              {logoDataUrl ? (
                 <div
                   style={{
                     display: 'flex',
@@ -333,9 +354,9 @@ export async function GET(request: NextRequest) {
                   }}
                 >
                   <img
-                    src={companyLogoUrl}
-                    width={isSquare ? '84' : '72'}
-                    height={isSquare ? '84' : '72'}
+                    src={logoDataUrl}
+                    width={isSquare ? 84 : 72}
+                    height={isSquare ? 84 : 72}
                     style={{ borderRadius: '16px' }}
                     alt={`${displayCompany} logo`}
                   />
