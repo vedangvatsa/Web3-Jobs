@@ -800,7 +800,49 @@ async function main() {
     }
   }
 
-  const { company, title, slug, location } = selectedJob;
+  // Rotation picker reused for catch-up rounds: next unposted job whose
+  // company differs from `excludeCompany`, advancing state.lastIndex.
+  const pickNextJob = (excludeCompany: string, excludeSlug: string): Job | null => {
+    const totalJobs = jobs.length;
+    const posted = new Set(state.postedSlugs);
+    posted.add(excludeSlug);
+    for (let i = 0; i < totalJobs; i++) {
+      const idx = (state.lastIndex + i) % totalJobs;
+      const candidate = jobs[idx];
+      if (!posted.has(candidate.slug) && candidate.company.toLowerCase() !== excludeCompany) {
+        state.lastIndex = (idx + 1) % totalJobs;
+        return candidate;
+      }
+    }
+    for (let i = 0; i < totalJobs; i++) {
+      const idx = (state.lastIndex + i) % totalJobs;
+      const candidate = jobs[idx];
+      if (!posted.has(candidate.slug)) {
+        state.lastIndex = (idx + 1) % totalJobs;
+        return candidate;
+      }
+    }
+    return null;
+  };
+
+  // Catch-up arming: GitHub cron slots are routinely skipped or delayed
+  // (observed ~3-5 posting runs/day vs 8 scheduled). If the last successful
+  // post is older than ~4.5h, this run posts a second, different-company job
+  // to hold the visible daily cadence. Single-slug and single-platform
+  // invocations never catch up.
+  let catchUpArmed = false;
+  if (!targetSlug && (platform === 'all' || platform === 'both') && state.history.length > 0) {
+    const lastPostedAt = Date.parse(state.history[state.history.length - 1].postedAt);
+    if (!Number.isNaN(lastPostedAt) && Date.now() - lastPostedAt > 4.5 * 3600 * 1000) {
+      catchUpArmed = true;
+      console.log(`Catch-up armed: last successful post was ${new Date(lastPostedAt).toISOString()}.`);
+    }
+  }
+
+  const jobsToPost: Job[] = [selectedJob as Job];
+  for (let round = 0; round < jobsToPost.length; round++) {
+    const currentJob = jobsToPost[round];
+    const { company, title, slug, location } = currentJob;
 
   // Build OG image URL, passing the verified local logo when one exists so
   // the card uses high-res art instead of guessing favicons. PNG twin is
@@ -833,8 +875,8 @@ async function main() {
   const linkedinPostText = `${company} is hiring ${title}: ${linkedinUrl}`;
   const facebookPostText = `${company} is hiring ${title}: ${facebookUrl}`;
 
-  const metaDesc = buildUniqueJobMetaDescription(selectedJob as any);
-  const deptName = typeof selectedJob.department === 'string' ? selectedJob.department : selectedJob.department?.name || '';
+  const metaDesc = buildUniqueJobMetaDescription(currentJob as any);
+  const deptName = typeof currentJob.department === 'string' ? currentJob.department : currentJob.department?.name || '';
   const redditTitle = `[Hiring] ${company} is hiring a ${title} (${location || 'Remote'})`;
   const redditMarkdown = `**Company:** [${company}](${redditUrl})\n**Role:** ${title}\n**Location:** ${location || 'Remote'}${deptName ? `\n**Department:** ${deptName}` : ''}\n\n### Overview\n${metaDesc}\n\n---\n🔗 **Apply Directly / View Details:** [https://hashtagweb3.com/${slug}/rd](${redditUrl})\n\n*Verified by [Hashtag Web3](https://hashtagweb3.com) — The Web3 Career & Event Resource Platform.*`;
 
@@ -850,6 +892,19 @@ async function main() {
     console.log(`OG Image Health Check: HTTP ${ogCheck.status} (${ogCheck.headers.get('content-type') || 'unknown'})`);
   } catch (err) {
     console.warn(`Warning: OG Image check encountered error:`, (err as Error).message);
+  }
+
+  // Warm the OG render + edge cache with full GETs (landscape + square) so
+  // Meta's and Bluesky's fetchers — which time out on cold ~3s renders —
+  // hit a hot cache when building link cards and IG containers.
+  for (const warmUrl of [ogImageUrl, `${ogImageUrl}&format=square`]) {
+    try {
+      const warmRes = await fetch(warmUrl);
+      await warmRes.arrayBuffer();
+      console.log(`OG Image Warm-up: HTTP ${warmRes.status} (${warmUrl.slice(-14)})`);
+    } catch (err) {
+      console.warn(`Warning: OG warm-up failed:`, (err as Error).message);
+    }
   }
 
   console.log(`\n--- Preview: X (Twitter) Post ---`);
@@ -1060,6 +1115,23 @@ async function main() {
     console.log(`\nState saved (${postedSuccessCount} platforms succeeded). Done.`);
   } else {
     console.warn(`\nNo platform succeeded for ${slug}. State not marked as posted.`);
+  }
+
+    // Enqueue the catch-up round (if armed): a second, different-company job
+    // appended to jobsToPost lengthens this same loop by one iteration. An
+    // empty pick ends the extension silently (single post, as before).
+    if (
+      round === 0 &&
+      jobsToPost.length === 1 &&
+      catchUpArmed &&
+      postedSuccessCount > 0
+    ) {
+      const next = pickNextJob(typeof company === 'string' ? company.toLowerCase() : '', slug);
+      if (next) {
+        console.log(`\nCatch-up: queueing second job (${next.company} / ${next.title}).`);
+        jobsToPost.push(next);
+      }
+    }
   }
 }
 
