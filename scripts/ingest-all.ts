@@ -371,6 +371,11 @@ const REGIONAL_FEEDS: FeedConfig[] = [
 ];
 
 const UNTRACKED_FEEDS: FeedConfig[] = [
+  { company: 'Ondo Finance',  type: 'greenhouse', slug: 'ondofinance', url: 'https://boards-api.greenhouse.io/v1/boards/ondofinance/jobs?content=true', skills: ['Web3','DeFi','RWA'] },
+  { company: '1inch Network', type: 'lever',      slug: '1inch',        url: 'https://api.lever.co/v0/postings/1inch?mode=json',                         skills: ['Web3','DeFi','DEX'] },
+  { company: 'Pyth Network',  type: 'ashby',      slug: 'pythnetwork',  url: 'https://api.ashbyhq.com/posting-api/job-board/pythnetwork',                 skills: ['Web3','DeFi','Oracle'] },
+  { company: 'Nansen',        type: 'greenhouse', slug: 'nansen',       url: 'https://boards-api.greenhouse.io/v1/boards/nansen/jobs?content=true',      skills: ['Web3','Analytics','Data'] },
+  { company: '0x Labs',       type: 'ashby',      slug: '0x',           url: 'https://api.ashbyhq.com/posting-api/job-board/0x',                         skills: ['Web3','DeFi','DEX'] },
   { company: 'Cantina',          type: 'ashby',  slug: 'cantina',          url: 'https://api.ashbyhq.com/posting-api/job-board/cantina',         skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Turnkey',          type: 'ashby',  slug: 'turnkey',          url: 'https://api.ashbyhq.com/posting-api/job-board/turnkey',         skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Hyperbolic',       type: 'ashby',  slug: 'hyperbolic',       url: 'https://api.ashbyhq.com/posting-api/job-board/hyperbolic',      skills: ['Web3','Blockchain','Crypto','AI','Security'] },
