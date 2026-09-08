@@ -167,26 +167,7 @@ async function renderSlideJpeg(
         padding: '96px 88px',
       },
       children: [
-        // Top row: Category & Slide Counter
-        {
-          type: 'div',
-          props: {
-            style: {
-              display: 'flex',
-              justifyContent: 'space-between',
-              alignItems: 'center',
-              width: '100%',
-              fontSize: '32px',
-              fontWeight: 'bold',
-              letterSpacing: '3px',
-            },
-            children: [
-              { type: 'span', props: { style: { color: '#475569', textTransform: 'uppercase' }, children: category } },
-              { type: 'span', props: { style: { color: '#64748b' }, children: slideNum } },
-            ],
-          },
-        },
-        // Middle body: Big Bold High-Contrast Typography
+        // Middle body: Ultra Clean Big Bold High-Contrast Typography
         {
           type: 'div',
           props: {
