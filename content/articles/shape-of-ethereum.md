@@ -3,7 +3,6 @@ title: 'The Shape of Ethereum'
 description: >-
   A 6-year study of topological anomaly detection on Ethereum by Matan Prasma and Uri Yacobi Keller analyzing structural network shifts from 2020 to 2025.
 category: Technology Deep Dives
-data-ai-hint: ethereum research tda topology machine-learning forensics
 publishedDate: '2026-09-08'
 lastUpdated: '2026-09-08'
 slug: shape-of-ethereum
@@ -306,7 +305,7 @@ The study's primary structural insight is Layer Rotation - the shift in which tr
 
 - **2020-2021:** Ethereum operated as a DeFi-native network. Anomalies were driven by automated liquidation bots, flash loans, and DEX arbitrage.
 - **2024:** Ethereum shifted toward an institutional asset class. The `nonFactory` layer dominated as ETF custodians (Coinbase Custody), institutional multi-sigs, and corporate treasuries executed direct smart contract interactions.
-- **2025:** Ethereum operated as a global macro financial asset. Plain ETH transfers (`simple_txs`) dominated anomaly counts, reflecting sensitivity to US Federal Reserve policy, Treasury yields, and global AI tech equity shifts.
+- **2025:** Ethereum operated as a global macro financial asset. Plain ETH transfers (`simple_txs`) dominated anomaly counts, reflecting sensitivity to US Federal Reserve policy, Treasury yields, and global technology equity shifts.
 
 ---
 
