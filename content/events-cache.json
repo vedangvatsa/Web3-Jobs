@@ -1,47 +1,5 @@
 [
   {
-    "id": "luma-host-evt-evt-xdzRCPDhA2Tj2QU",
-    "name": "Superteam India Coworking Days (BOM)",
-    "description": "",
-    "startDate": "2026-09-08T05:30:00.000Z",
-    "endDate": "2026-09-08T13:00:00.000Z",
-    "city": "Mumbai",
-    "country": "India",
-    "location": "Mumbai, India",
-    "url": "https://lu.ma/IRL-coworking",
-    "coverImage": "https://images.lumacdn.com/uploads/dt/3ff61f23-0ca8-44f7-9588-47b7a9494abd.png",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-host-evt-evt-exnIDqGPyino5BQ",
-    "name": "Superteam Co-Working BKK with Node # at Yellow Lane",
-    "description": "",
-    "startDate": "2026-09-08T06:00:00.000Z",
-    "endDate": "2026-09-08T10:00:00.000Z",
-    "city": "",
-    "country": "Thailand",
-    "location": "Thailand",
-    "url": "https://lu.ma/xc52bt6u",
-    "coverImage": "https://images.lumacdn.com/uploads/wy/fabc61f5-4de0-4da0-80c1-aea39cad370d.jpg",
-    "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-P8SOblAuUmAsdt6",
-    "name": "Effizienter Arbeiten mit KI-Tools wie ChatGPT: Prompting für die öffentliche Verwaltung",
-    "description": "",
-    "startDate": "2026-09-08T07:15:00.000Z",
-    "endDate": "2026-09-08T15:00:00.000Z",
-    "city": "Zürich",
-    "country": "Switzerland",
-    "location": "Zürich, Switzerland",
-    "url": "https://lu.ma/zr10haoa",
-    "coverImage": "https://images.lumacdn.com/event-covers/hm/b6ff86bb-2827-42fd-87b6-a51ac1b14229.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-PTNz2gFhxFh5lPO",
     "name": "Boston Blockchain Week 2026: The Digital Infrastructure Stack",
     "description": "",
@@ -126,45 +84,17 @@
     "month": "September 2026"
   },
   {
-    "id": "luma-evt-xfPYd0oDqz1fvXB",
-    "name": "Crypto Drinks - Rotterdam",
+    "id": "luma-host-evt-evt-oGq7JRJkO9n7UNV",
+    "name": "Superteam member office hours",
     "description": "",
-    "startDate": "2026-09-09T11:00:00.000Z",
-    "endDate": "2026-09-09T13:00:00.000Z",
-    "city": "Rotterdam",
-    "country": "Netherlands",
-    "location": "Rotterdam, Netherlands",
-    "url": "https://lu.ma/CryptoDrinks_Rotterdam_September",
-    "coverImage": "https://images.lumacdn.com/uploads/wg/fe1d1082-dde9-4c83-8f5e-daaa8c8abb6d.jpg",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-ivGyHDY4DdXMyOm",
-    "name": "Rendez-vous de Gastronomie Durable du Plateau",
-    "description": "",
-    "startDate": "2026-09-09T16:00:00.000Z",
-    "endDate": "2026-09-14T01:00:00.000Z",
-    "city": "Montreal",
-    "country": "Canada",
-    "location": "Montreal, Canada",
-    "url": "https://lu.ma/oaqy62lq",
-    "coverImage": "https://images.lumacdn.com/uploads/pd/1e2519f9-0877-458e-88a1-7576e6c8cb3e.png",
-    "source": "luma",
-    "month": "September 2026"
-  },
-  {
-    "id": "luma-evt-fqYkcha0vSlitaB",
-    "name": "Happy Hour by Aikido 🍸 Utrecht",
-    "description": "",
-    "startDate": "2026-09-09T16:00:00.000Z",
-    "endDate": "2026-09-09T19:00:00.000Z",
-    "city": "Utrecht",
-    "country": "Netherlands",
-    "location": "Utrecht, Netherlands",
-    "url": "https://lu.ma/k9ltoby7",
-    "coverImage": "https://images.lumacdn.com/uploads/td/cb7bb393-f487-44f4-b4ad-cce2c091d698.png",
-    "source": "luma",
+    "startDate": "2026-09-09T14:30:00.000Z",
+    "endDate": "2026-09-09T16:00:00.000Z",
+    "city": "",
+    "country": "",
+    "location": "TBA",
+    "url": "https://lu.ma/member-office-hours",
+    "coverImage": "https://images.lumacdn.com/uploads/xl/017ccbe7-5650-42c1-8aa6-c1fe9fe67b9d.png",
+    "source": "luma-trusted",
     "month": "September 2026"
   },
   {
@@ -221,6 +151,20 @@
     "url": "https://lu.ma/ig3gcyuu",
     "coverImage": "https://images.lumacdn.com/uploads/ce/2c0dd4a8-eb8b-4119-9c9e-7ef256f6dc69.png",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316308448",
+    "name": "Redefining Success Workshop/Conversation - 30 mins (cameras on)",
+    "description": "What is your definition of success? Join me for a 30-minute interactive session where we'll explore how we can move away from hustle culture and scarcity thinking to embrace an abundance mindset roote",
+    "startDate": "2026-09-09T12:00:00-07:00",
+    "endDate": "2026-09-09T12:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/womens-leadership-alliance/events/316308448/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -375,6 +319,34 @@
     "url": "https://lu.ma/s2804hvv",
     "coverImage": "https://images.lumacdn.com/uploads/qk/802bd40d-3de6-472f-91aa-28c03efb5213.jpg",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-314763942",
+    "name": "Cashflows & Cocktails",
+    "description": "## September 2026\n\n**Cashflows & Cocktails: September Oakland Real Estate Investor Networking**\nSeptember is a great time to reset, reconnect, and finish the year strong.\nJoin us for **Cashflows & Coc",
+    "startDate": "2026-09-09T18:00:00-07:00",
+    "endDate": "2026-09-09T18:00:00-07:00",
+    "city": "Oakland",
+    "country": "us",
+    "location": "Oakland, us",
+    "url": "https://www.meetup.com/bareinvestors/events/314763942/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316216307",
+    "name": "Live AI Crypto Trading Demo + Founder Q&A",
+    "description": "Crypto markets never stop moving, but that doesn't mean you have to watch charts all day.\n\nJoin me for a live online session with the founder and programmer of a fully automated AI-enhanced trading pl",
+    "startDate": "2026-09-10T11:00:00-07:00",
+    "endDate": "2026-09-10T11:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/carpoolcrypto/events/316216307/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -533,6 +505,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-316452674",
+    "name": "How Do Crypto and AI Work Together?",
+    "description": "We've talked about crypto trading bots using AI in the past. There a number of crypto projects that say they are \"working on AI\" but what does that really mean?\n\nOther than being used as a payment met",
+    "startDate": "2026-09-12T09:00:00-07:00",
+    "endDate": "2026-09-12T09:00:00-07:00",
+    "city": "",
+    "country": "",
+    "location": "Online",
+    "url": "https://www.meetup.com/fresno-bitcoin-cryptocurrencies/events/316452674/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-host-evt-evt-dug9i40Sn3zrsmt",
     "name": "ETHTaipei 2026",
     "description": "",
@@ -573,6 +559,34 @@
     "coverImage": null,
     "source": "web3voyager",
     "bypassedFilter": true,
+    "month": "September 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-septem",
+    "name": "International Conference on Blockchain Technology (ICBT)",
+    "description": "",
+    "startDate": "2026-09-14T00:00:00.000Z",
+    "endDate": "2026-09-14T00:00:00.000Z",
+    "city": "Santiago",
+    "country": "Chile",
+    "location": "Santiago, Chile",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-september-santiago-cl",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "September 2026"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
+    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
+    "description": "",
+    "startDate": "2026-09-14T00:00:00.000Z",
+    "endDate": "2026-09-14T00:00:00.000Z",
+    "city": "Seoul",
+    "country": "Republic of Korea",
+    "location": "Seoul, Republic of Korea",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-september-seoul-kr",
+    "coverImage": null,
+    "source": "conferenceindex",
     "month": "September 2026"
   },
   {
@@ -643,6 +657,20 @@
     "url": "https://lu.ma/4p3q8raj",
     "coverImage": "https://images.lumacdn.com/event-covers/ce/7296e49d-aba8-4628-be07-5b0bd5686aba.png",
     "source": "luma",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316276529",
+    "name": "Web3 and AI networking at The Rose & Crown",
+    "description": "Professional Networking, AI and Web3 Chat\n-Meet other people in AI and Web3\n-Discuss current trends and pitch your ideas\n-Come and join us at The Rose and Crown!",
+    "startDate": "2026-09-14T18:30:00-07:00",
+    "endDate": "2026-09-14T18:30:00-07:00",
+    "city": "Palo Alto",
+    "country": "us",
+    "location": "Palo Alto, us",
+    "url": "https://www.meetup.com/palo-alto-cryptomondays-meetup/events/316276529/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -981,6 +1009,20 @@
     "month": "September 2026"
   },
   {
+    "id": "mu-315535215",
+    "name": "Meet to draw each other in San Francisco!",
+    "description": "Take a turn modeling (nude) then just draw for the rest of the session. Looking forward to seeing old and new friends! Optional $10 donation to cover studio rent is suggested but not required.\n\nWe wil",
+    "startDate": "2026-09-20T14:00:00-07:00",
+    "endDate": "2026-09-20T14:00:00-07:00",
+    "city": "San Francisco",
+    "country": "us",
+    "location": "San Francisco, us",
+    "url": "https://www.meetup.com/sf-art-modeling-trade/events/315535215/",
+    "coverImage": null,
+    "source": "meetup",
+    "month": "September 2026"
+  },
+  {
     "id": "luma-evt-t3oq217l83LaKGT",
     "name": "Bitcoin Builders Club",
     "description": "",
@@ -1205,6 +1247,20 @@
     "url": "https://conferenceindex.org/event/international-conference-on-cryptocurrency-artificial-intelligence-and-machine-learning-iccaiml-2026-september-kowloon-hk",
     "coverImage": null,
     "source": "conferenceindex",
+    "month": "September 2026"
+  },
+  {
+    "id": "mu-316219817",
+    "name": "Bitcoin for Beginners",
+    "description": "Learn by doing!\n\nWe're sending Bitcoin to each other using Bitcoin Testnet. Testnet is a replica of Bitcoin Mainnet used for testing without risking real funds. It's a safe, fun way to learn Bitcoin b",
+    "startDate": "2026-09-27T14:00:00-07:00",
+    "endDate": "2026-09-27T14:00:00-07:00",
+    "city": "Oakland",
+    "country": "US",
+    "location": "Oakland, US",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/316219817/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "September 2026"
   },
   {
@@ -2740,6 +2796,20 @@
     "month": "November 2026"
   },
   {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
+    "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
+    "description": "",
+    "startDate": "2026-11-02T00:00:00.000Z",
+    "endDate": "2026-11-02T00:00:00.000Z",
+    "city": "New York",
+    "country": "United States",
+    "location": "New York, United States",
+    "url": "https://conferenceindex.org/event/international-conference-on-financial-cryptography-and-data-security-icfcds-2026-november-new-york-us",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "November 2026"
+  },
+  {
     "id": "ma-aibc-world",
     "name": "AIBC World",
     "description": "AIBC World is generating exceptional momentum as a high-profile, influential blockchain event. Exhibition space of 75,000 sqm has already been sold out for the upcoming 2026 edition in Rome, with more",
@@ -2766,6 +2836,20 @@
     "coverImage": null,
     "source": "web3voyager",
     "bypassedFilter": true,
+    "month": "November 2026"
+  },
+  {
+    "id": "mu-316289473",
+    "name": "Golden Gate Bitcoin Conference",
+    "description": "A focused, two-day Bitcoin conference in the Bay Area. Two tracks, real talks, and the kind of room where you actually learn and meet new people. Built by the local community.\n\n\\*\\*\\*Please note:\nAn R",
+    "startDate": "2026-11-06T09:00:00-08:00",
+    "endDate": "2026-11-06T09:00:00-08:00",
+    "city": "Kentfield",
+    "country": "us",
+    "location": "Kentfield, us",
+    "url": "https://www.meetup.com/bay-area-bitcoiners/events/316289473/",
+    "coverImage": null,
+    "source": "meetup",
     "month": "November 2026"
   },
   {
@@ -3121,10 +3205,10 @@
     "description": "",
     "startDate": "2027-01-07T00:00:00.000Z",
     "endDate": "2027-01-07T00:00:00.000Z",
-    "city": "Singapore",
-    "country": "Singapore",
-    "location": "Singapore, Singapore",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-january-singapore-sg",
+    "city": "Bali",
+    "country": "Indonesia",
+    "location": "Bali, Indonesia",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-january-bali-id",
     "coverImage": null,
     "source": "conferenceindex",
     "month": "January 2027"
@@ -3172,20 +3256,6 @@
     "month": "March 2027"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-april-",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-04-01T00:00:00.000Z",
-    "endDate": "2027-04-01T00:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy",
-    "location": "Rome, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-april-rome-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "April 2027"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-icb-2027-april-mexico-city-",
     "name": "International Conference on Blockchain (ICB)",
     "description": "",
@@ -3195,6 +3265,20 @@
     "country": "Mexico",
     "location": "Mexico City, Mexico",
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-icb-2027-april-mexico-city-mx",
+    "coverImage": null,
+    "source": "conferenceindex",
+    "month": "April 2027"
+  },
+  {
+    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-april-",
+    "name": "International Conference on Blockchain Technology (ICBT)",
+    "description": "",
+    "startDate": "2027-04-01T00:00:00.000Z",
+    "endDate": "2027-04-01T00:00:00.000Z",
+    "city": "Rome",
+    "country": "Italy",
+    "location": "Rome, Italy",
+    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-april-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
     "month": "April 2027"
@@ -3447,48 +3531,6 @@
     "country": "Italy",
     "location": "Rome, Italy",
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-september-rome-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-financial-cryptography-and-data-securi",
-    "name": "International Conference on Financial Cryptography and Data Security (ICFCDS)",
-    "description": "",
-    "startDate": "2027-09-07T00:00:00.000Z",
-    "endDate": "2027-09-07T00:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy",
-    "location": "Rome, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-financial-cryptography-and-data-security-icfcds-2026-september-rome-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-septem",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-09-07T00:00:00.000Z",
-    "endDate": "2027-09-07T00:00:00.000Z",
-    "city": "Rome",
-    "country": "Italy",
-    "location": "Rome, Italy",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2026-september-rome-it",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "September 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-and-cryptocurrencies-icbc-2",
-    "name": "International Conference on Blockchain and Cryptocurrencies (ICBC)",
-    "description": "",
-    "startDate": "2027-09-07T00:00:00.000Z",
-    "endDate": "2027-09-07T00:00:00.000Z",
-    "city": "Melbourne",
-    "country": "Australia",
-    "location": "Melbourne, Australia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-and-cryptocurrencies-icbc-2026-september-melbourne-au",
     "coverImage": null,
     "source": "conferenceindex",
     "month": "September 2027"
