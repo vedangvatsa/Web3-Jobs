@@ -67,6 +67,8 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'offchainlabs': 'arbitrum',
   'arbitrum': 'arbitrum',
   'arbitrum-offchain-labs': 'arbitrum',
+  'dune-analytics': 'dune',
+  'duneanalytics': 'dune',
   'arbitrum-opco': 'arbitrum',
 };
 

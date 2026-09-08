@@ -42,6 +42,7 @@ export function CompanyLogo({
           setSrc(faviconUrl);
           return;
         }
+        const initial = (name || 'C').trim().charAt(0).toUpperCase();
         setSrc(null);
       }}
     />

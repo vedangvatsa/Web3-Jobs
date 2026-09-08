@@ -119,7 +119,53 @@ A global monetary baseline that cannot be inflated, manipulated, or restricted r
 
 ---
 
-## 4. Historical Precedents: State Monopolies and Currency Competition
+
+## 4. Austrian Capital Theory and Time Preference Shifts
+
+To understand the deeper economic disconnect between fiat insiders and hard money holders, we must examine Austrian capital theory as developed by Eugen von Böhm-Bawerk and Ludwig von Mises.
+
+In Austrian economics, time preference refers to the ratio at which individuals value present consumption over future consumption:
+
+- **High Time-Preference:** Preferring immediate consumption over future investment. When central banks artificially suppress interest rates and expand the credit supply, they signal to the market that capital is abundant when physical savings have not increased.
+- **Low Time-Preference:** Willingness to delay present consumption to invest in long-term, capital-intensive production processes (roundabout production methods).
+
+Under a fiat monetary standard where currency loses purchasing power every year, market participants are incentivized to maintain high time-preference behavior. Saving cash yields negative real returns after inflation, driving individuals toward immediate debt-fueled consumption or speculative asset trading.
+
+```
+Time-Preference Monetary Dynamics:
+
+  Fiat Standard (Expansionary Money):
+  ├── Real Cash Yields: Negative (Purchasing power declines continuously)
+  ├── Consumer Behavior: Encourages high debt consumption & asset speculation
+  └── Economic Impact: Short-term quarterly orientation & capital misallocation
+
+  Hard Money Standard (Fixed 21M Supply):
+  ├── Real Cash Yields: Positive/Neutral (Purchasing power increases with productivity)
+  ├── Consumer Behavior: Encourages low time-preference savings & capital accumulation
+  └── Economic Impact: Long-term planning, sustainable investment & economic stability
+```
+
+When individuals adopt a fixed-supply asset like Bitcoin, their monetary baseline changes. Because programmatic supply caps ensure that purchasing power cannot be diluted by central bank issuance, holders experience a structural shift toward low time-preference behavior - prioritizing long-term savings, capital preservation, and sustainable investment over short-term speculative borrowing.
+
+---
+
+## 5. Quantitative Analysis of Purchasing Power Erosion
+
+Comparing the long-term performance of major asset classes against expanding central bank balance sheets demonstrates why traditional cash savings have failed to preserve purchasing power over multi-decade horizons.
+
+According to data compiled from official reserve banks, global fiat currencies have lost over 95% of their purchasing power relative to gold and hard commodities since the closure of the gold window in 1971.
+
+| Asset / Metric | 10-Year Purchasing Power Trend | Structural Issuer Risk | Verification Model |
+|---|---|---|---|
+| **US Dollar (M2 Cash)** | Decreasing (-30% to -45%) | High (Central Bank Expansion) | Trusted Central Bank |
+| **S&P 500 Equities** | Increasing (+150% to +200%) | Moderate (Corporate Earnings / Debt) | Audited Financial Reports |
+| **Physical Gold** | Increasing (+80% to +120%) | Low (Physical Supply Constraints) | Chemical Assaying |
+| **Bitcoin Protocol** | Increasing (+2,000%+) | Zero (Programmatic 21M Cap) | Independent Node Verification |
+
+Because traditional financial managers operate within institutions funded by fiat credit expansion, acknowledging the mathematical reality of purchasing power dilution requires questioning the foundational assumptions of state-managed central banking.
+
+
+## 6. Historical Precedents: State Monopolies and Currency Competition
 
 Resistance to non-state money has recurred throughout monetary history.
 
@@ -152,7 +198,7 @@ Just as 17th-century European monarchs attempted to outlaw private gold minting 
 
 ---
 
-## 5. Systemic Implications of Hard Digital Baselines
+## 7. Systemic Implications of Hard Digital Baselines
 
 As global debt levels expand and central banks continue monetizing fiscal deficits, the economic incentive to hold un-debasable digital assets increases.
 
@@ -165,7 +211,7 @@ Understanding Nocoiner Syndrome clarifies that hostility toward open protocols i
 
 ---
 
-## 6. Reference Index (10 Primary Sources)
+## 8. Reference Index (10 Primary Sources)
 
 1. **Crypto Anarchy Institute (2024):** [The Nocoiner Syndrome Research Paper](https://cryptoanarchy.institute/nocoiner-syndrome-2024.pdf).
 2. **Cantillon, R. (1755):** [Essay on the Nature of Trade in General](https://mises.org/library/essay-nature-trade-general).
