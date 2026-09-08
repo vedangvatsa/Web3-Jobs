@@ -24,7 +24,7 @@ export function CompanyLogo({
   if (!src) {
     const initial = (name || 'C').trim().charAt(0).toUpperCase();
     return (
-      <div className={`flex items-center justify-center rounded-lg bg-muted font-bold text-foreground/70 border border-border/50 select-none ${size}`}>
+      <div className={`flex items-center justify-center rounded-lg font-bold text-foreground/70 select-none ${size}`}>
         <span>{initial}</span>
       </div>
     );
