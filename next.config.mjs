@@ -121,6 +121,8 @@ const nextConfig = {
       { source: '/logo/companies/JP_Morgan.webp', destination: '/logo/companies/jp_morgan.webp' },
       { source: '/logo/companies/KPMG.webp', destination: '/logo/companies/kpmg.webp' },
       { source: '/logo/hashtagweb3.png', destination: '/logo/HashtagWeb3.png' },
+      { source: '/feed-aggregator.xml', destination: '/jobs/feed-aggregator.xml' },
+      { source: '/adzuna.xml', destination: '/jobs/adzuna.xml' },
       {
         source: '/api/v1/:path*',
         destination: '/api/:path*',
