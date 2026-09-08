@@ -188,10 +188,21 @@ export function middleware(request: NextRequest) {
           url.searchParams.set('utm_campaign', 'share');
         }
 
-        // Detect social crawlers / link preview bots (Twitterbot, LinkedInBot, facebookexternalhit, Meta-ExternalAgent, Slackbot, TelegramBot, Discordbot, WhatsApp, etc.)
-        // Link preview bots must receive a 200 with OG tags directly: LinkedIn and Meta do not reliably follow 307 redirects when scraping previews.
+        // Serve link preview bots a 200 with OG tags directly: LinkedIn and Meta
+        // do not reliably follow 307 redirects when scraping previews.
+        //
+        // Firebase App Hosting's dataplane does not reliably forward the client
+        // User-Agent to middleware on GET requests, so UA matching alone can miss
+        // bots in production. Every modern browser sets the Sec-Fetch-* headers on
+        // navigation; bot stacks (LinkedInBot, Meta-ExternalAgent, etc.) do not.
+        // Treat "bot UA OR no browser navigation signals" as a crawler.
         const ua = request.headers.get('user-agent') || '';
-        const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster|Buffer|BufferBot|redditbot|Applebot|LinkedIn|embedly|quora link preview|outbrain|vkShare|W3C_Validator/i.test(ua);
+        const hasBrowserNavigationSignal = ['sec-fetch-mode', 'sec-fetch-dest', 'sec-fetch-user'].some((h) =>
+          request.headers.has(h)
+        );
+        const isSocialCrawler =
+          /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster|Buffer|BufferBot|redditbot|Applebot|LinkedIn|embedly|quora link preview|outbrain|W3C_Validator/i.test(ua) ||
+          !hasBrowserNavigationSignal;
         if (isSocialCrawler) {
           // Serve the destination page directly with HTTP 200 so link preview cards render OG tags immediately without relying on redirect following
           return NextResponse.rewrite(url);
