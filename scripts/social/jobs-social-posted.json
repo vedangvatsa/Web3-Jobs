@@ -1,5 +1,5 @@
 {
-  "lastIndex": 117,
+  "lastIndex": 118,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -29,7 +29,8 @@
     "joba31d1",
     "security29764",
     "job31002",
-    "role52517"
+    "role52517",
+    "devops-andromeda-68403563-daff-449c-83cf-ea346c"
   ],
   "history": [
     {
@@ -831,6 +832,62 @@
       "platform": "x",
       "postedAt": "2026-09-08T09:38:07.505Z",
       "postId": "2097258170578088055"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "x",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "2097296924114141278"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "threads",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "18090827558155326"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muyymrqcsy2l"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "0x9ca1e3466502caefd9c2a220f6a44b028de31b70"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "6a9ffba5425ad71e4c0a28a6"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "691827047618629_1083074890966412"
+    },
+    {
+      "slug": "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "company": "Andromeda",
+      "title": "Software Engineer - AI Infrastructure",
+      "platform": "instagram",
+      "postedAt": "2026-09-08T12:12:07.088Z",
+      "postId": "17871310131636609"
     }
   ]
 }
