@@ -59,11 +59,20 @@ async function checkSlugCollisions() {
     }
   }
 
+  // Also verify no company names contain suspicious modifier tags (e.g. (detailed), (temp))
+  const suspiciousModifiers = companies.filter(c => /\((detailed|temp|official|jobs|careers)\)/i.test(c.name));
+  if (suspiciousModifiers.length > 0) {
+    collisionsFound++;
+    console.error('❌ SUSPICIOUS COMPANY NAME MODIFIERS FOUND:');
+    suspiciousModifiers.forEach(c => console.error(`   - ${c.name} (slug: /company/${c.slug})`));
+    console.error('');
+  }
+
   if (collisionsFound > 0) {
-    console.error(`💥 Found ${collisionsFound} slug collision(s)! Please resolve before building.`);
+    console.error(`💥 Found ${collisionsFound} slug collision(s) or company naming issue(s)! Please resolve before building.`);
     process.exit(1);
   } else {
-    console.log('✅ No slug collisions found across Glossary, Articles, Resources, Companies, or Events.');
+    console.log('✅ No slug collisions or company name anomalies found across Glossary, Articles, Resources, Companies, or Events.');
   }
 }
 

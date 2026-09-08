@@ -560,6 +560,24 @@ function normalizeCompanyName(name: string): string {
   if (lower.includes('nomic')) {
     return 'nomic-foundation';
   }
+  if (lower === 'a16z' || lower.includes('a16z')) {
+    return 'a16z-crypto';
+  }
+  if (lower.includes('apex')) {
+    return 'apex-protocol';
+  }
+  if (lower.includes('injective')) {
+    return 'injective-labs';
+  }
+  if (lower.includes('jito')) {
+    return 'jito-labs';
+  }
+  if (lower.includes('uniswap')) {
+    return 'uniswap-labs';
+  }
+  if (lower.includes('certik')) {
+    return 'certik';
+  }
   return name
    .toLowerCase()
    .replace(/\s+inc\.?$/i, '')
@@ -584,6 +602,12 @@ function resolveCanonicalCompanyName(normalized: string, originalName: string): 
   if (normalized === 'ritual') return 'Ritual';
   if (normalized === 'nomic-foundation') return 'Nomic Foundation';
   if (normalized === 'op-labs' || normalized === 'oplabs') return 'Optimism';
+  if (normalized === 'a16z-crypto') return 'a16z crypto';
+  if (normalized === 'apex-protocol') return 'ApeX Protocol';
+  if (normalized === 'injective-labs') return 'Injective Labs';
+  if (normalized === 'jito-labs') return 'Jito Labs';
+  if (normalized === 'uniswap-labs') return 'Uniswap Labs';
+  if (normalized === 'certik') return 'CertiK';
   return originalName;
 }
 

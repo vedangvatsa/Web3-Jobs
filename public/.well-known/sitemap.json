@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-08T07:58:35.169Z",
+  "generatedAt": "2026-09-08T08:24:08.057Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4184,
+  "count": 4177,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -128,12 +128,6 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/a16z",
-      "lastmod": "2026-08-20",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/a16z-crypto",
@@ -4738,12 +4732,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/designer6",
-      "lastmod": "2026-09-03",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/designer7",
       "lastmod": "2026-09-03",
       "changefreq": "daily",
@@ -6414,12 +6402,6 @@
     {
       "url": "https://hashtagweb3.com/engineer209",
       "lastmod": "2026-09-01",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/engineer21",
-      "lastmod": "2026-09-03",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -8822,12 +8804,6 @@
       "lastmod": "2026-08-24",
       "changefreq": "daily",
       "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/foundation",
-      "lastmod": "2026-09-03",
-      "changefreq": "weekly",
-      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/foundry",
@@ -13882,12 +13858,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/manager48",
-      "lastmod": "2026-09-03",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/manager49",
       "lastmod": "2026-09-03",
       "changefreq": "daily",
@@ -14652,12 +14622,6 @@
     {
       "url": "https://hashtagweb3.com/marketing3",
       "lastmod": "2026-09-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/marketing30",
-      "lastmod": "2026-09-03",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -16208,12 +16172,6 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/patient1",
-      "lastmod": "2026-08-24",
-      "changefreq": "daily",
-      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/paxos",
