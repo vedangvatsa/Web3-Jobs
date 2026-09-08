@@ -10,6 +10,8 @@ export const COMPANY_RICH_ABOUT: Record<string, string> = {
   "alpen-labs": `Alpen Labs is an innovative Bitcoin infrastructure and Zero-Knowledge (ZK) research team building programmable Layer 2 infrastructure and Bitcoin-native neobanking experiences for global financial markets.`,
   "meow": `Meow is a compliant Web3 and corporate fintech platform providing startups and crypto protocols with corporate accounts, yield products, global payment rails, and investor-ready financial reporting.`,
   "biti": `Biti is a Web3 financial tech and digital wallet product company building intuitive multi-chain wallets, token swap interfaces, and simplified user experiences for crypto transactions.`,
+  "xapo-bank": `Xapo Bank is a licensed Bitcoin and digital asset bank headquartered in Gibraltar, delivering international banking services, USD accounts, and high-security Bitcoin vault storage.`,
+  "xapo": `Xapo Bank is a licensed Bitcoin and digital asset bank headquartered in Gibraltar, delivering international banking services, USD accounts, and high-security Bitcoin vault storage.`,
   "a16z-crypto": `a16z Crypto is a venture capital fund managed by Andreessen Horowitz that invests in Web3, crypto protocols, and blockchain technology.`,
   "yellow-card": `Yellow Card is Africa’s largest regulated pan-African crypto exchange and payment infrastructure platform, operating across 20+ African countries.`,
   "yzi-labs": `YZi Labs is a Web3 venture studio and incubator building decentralized finance, infrastructure, and consumer Web3 applications.`,
