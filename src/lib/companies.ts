@@ -395,7 +395,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'starknet-foundation': 'https://starknet.io',
  'ethereum-foundation': 'https://ethereum.org',
  'copper-co': 'https://copper.co',
- 'alpen-labs': 'https://alpenlabs.io',
+ 
  'serotonin': 'https://serotonin.co',
  'io-global': 'https://iohk.io',
  'aztec': 'https://aztec.network',
