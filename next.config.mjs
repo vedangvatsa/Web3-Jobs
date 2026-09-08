@@ -4,7 +4,7 @@ const nextConfig = {
   /* config options here */
   trailingSlash: false,
   typescript: {
-    ignoreBuildErrors: true,
+    ignoreBuildErrors: false,
   },
   eslint: {
     ignoreDuringBuilds: true,
