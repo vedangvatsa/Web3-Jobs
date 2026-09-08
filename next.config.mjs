@@ -45,6 +45,7 @@ const nextConfig = {
       },
       { source: '/arbitrum-offchain-labs', destination: '/offchain-labs', permanent: true },
       { source: '/arbitrum', destination: '/offchain-labs', permanent: true },
+      { source: '/certik-detailed', destination: '/certik', permanent: true },
       { source: '/aztec-labs-privacy-l2', destination: '/aztec', permanent: true },
       { source: '/aztec-labs', destination: '/aztec', permanent: true },
       { source: '/aztec-network', destination: '/aztec', permanent: true },
