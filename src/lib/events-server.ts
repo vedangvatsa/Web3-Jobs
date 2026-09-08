@@ -179,7 +179,19 @@ export async function getEvents(): Promise<Web3Event[]> {
       return !isNaN(endDate.getTime()) && endDate >= now;
     });
 
-    return upcoming;
+    // Ensure strict slug uniqueness: no two events share the exact same generated slug or title
+    const uniqueBySlug: Web3Event[] = [];
+    const seenSlugs = new Set<string>();
+
+    for (const e of upcoming) {
+      const slug = getEventSlug(e);
+      if (!seenSlugs.has(slug)) {
+        seenSlugs.add(slug);
+        uniqueBySlug.push(e);
+      }
+    }
+
+    return uniqueBySlug;
   } catch (error) {
     console.error('Error reading events:', error);
     return [];

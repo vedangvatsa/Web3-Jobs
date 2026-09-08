@@ -1,0 +1,58 @@
+import fs from "fs";
+
+interface AlternativeMapping {
+  bouncedEmail: string;
+  eventName: string;
+  alternativeContact: string;
+  method: "Email" | "Web Form / Platform";
+  details: string;
+}
+
+const BOUNCED_ALTERNATIVES: AlternativeMapping[] = [
+  {
+    bouncedEmail: "partnerships@token2049.com",
+    eventName: "AFTER 2049: TOKEN2049 Closing Party",
+    alternativeContact: "https://www.asia.token2049.com/sponsors",
+    method: "Web Form / Platform",
+    details: "TOKEN2049 official sponsor & partnership inquiry submission portal"
+  },
+  {
+    bouncedEmail: "contact@sui.io",
+    eventName: "Sui Basecamp",
+    alternativeContact: "basecamp@sui.foundation",
+    method: "Email",
+    details: "Direct Sui Foundation Basecamp event production & partnerships inbox"
+  },
+  {
+    bouncedEmail: "run@devcon.org",
+    eventName: "Ready for the Run Devcon",
+    alternativeContact: "devcon@ethereum.org",
+    method: "Email",
+    details: "Ethereum Foundation Devcon community events hub"
+  },
+  {
+    bouncedEmail: "pragma@ethglobal.com",
+    eventName: "Pragma Mumbai (ETHGlobal)",
+    alternativeContact: "https://ethglobal.com/contact",
+    method: "Web Form / Platform",
+    details: "ETHGlobal Pragma event sponsor contact form"
+  },
+  {
+    bouncedEmail: "ravecon@devcon.org",
+    eventName: "Ravecon [B]Ender",
+    alternativeContact: "support@devcon.org",
+    method: "Email",
+    details: "Official Devcon community event support email"
+  },
+  {
+    bouncedEmail: "eiphub@ethereum.org",
+    eventName: "EIP Hub Devcon",
+    alternativeContact: "eip@ethereum.org",
+    method: "Email",
+    details: "Direct EIP editor and Ethereum developer events team inbox"
+  }
+];
+
+console.log("Alternative contacts generated for all bounced emails:");
+console.table(BOUNCED_ALTERNATIVES);
+fs.writeFileSync("scripts/bounced_alternatives.json", JSON.stringify(BOUNCED_ALTERNATIVES, null, 2));
