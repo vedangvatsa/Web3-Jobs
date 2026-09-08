@@ -69,6 +69,8 @@ function sanitizeCompanyDomain(url: URL): string {
  * whose job posts point to standard ATS boards.
  */
 const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
+  'agora': 'https://www.agora.finance',
+  'agora-finance': 'https://www.agora.finance',
  'optimism': 'https://www.oplabs.co',
  'op-labs': 'https://www.oplabs.co',
  'oplabs': 'https://www.oplabs.co',
