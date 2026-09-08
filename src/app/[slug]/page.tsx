@@ -83,7 +83,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const deptParam = typeof jobMeta.department === 'string' 
       ? jobMeta.department 
       : (jobMeta.department as any)?.name || '';
-    const ogImageUrl = `${siteUrl}/api/og?type=job&title=${encodeURIComponent(jobMeta.title)}&company=${encodeURIComponent(jobMeta.company)}&location=${encodeURIComponent(jobMeta.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}`;
+    const companySlug = getCompanySlug(jobMeta.company);
+    const logoSrc = resolveCompanyLogo(companySlug);
+    const ogImageUrl = `${siteUrl}/api/og?type=job&title=${encodeURIComponent(jobMeta.title)}&company=${encodeURIComponent(jobMeta.company)}&location=${encodeURIComponent(jobMeta.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}${logoSrc ? `&logo=${encodeURIComponent(logoSrc)}` : ''}`;
     const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
     return {
       title,

@@ -42,7 +42,9 @@ export async function generateMetadata({ params }: JobPageProps): Promise<Metada
   const deptParam = typeof job.department === 'string' 
     ? job.department 
     : (job.department as any)?.name || '';
-  const ogImageUrl = `${SITE_URL}/api/og?type=job&title=${encodeURIComponent(job.title)}&company=${encodeURIComponent(job.company)}&location=${encodeURIComponent(job.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}`;
+  const companySlug = getCompanySlug(job.company);
+  const logoSrc = resolveCompanyLogo(companySlug);
+  const ogImageUrl = `${SITE_URL}/api/og?type=job&title=${encodeURIComponent(job.title)}&company=${encodeURIComponent(job.company)}&location=${encodeURIComponent(job.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}${logoSrc ? `&logo=${encodeURIComponent(logoSrc)}` : ''}`;
   const hasVerifiedContent = hasSubstantialJobContent(job);
 
   return {

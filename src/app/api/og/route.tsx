@@ -266,9 +266,14 @@ export async function GET(request: NextRequest) {
           companyLogoUrl = `https://hashtagweb3.com${cleaned.startsWith('/') ? '' : '/'}${cleaned}`;
         }
       } else if (companySlug) {
-        const domain = companySlug === 'franklin-templeton' || companySlug === 'franklintempleton'
-          ? 'careers.franklintempleton.com'
-          : `${companySlug.replace(/-/g, '')}.com`;
+        let domain = `${companySlug.replace(/-/g, '')}.com`;
+        if (companySlug === 'franklin-templeton' || companySlug === 'franklintempleton') {
+          domain = 'careers.franklintempleton.com';
+        } else if (companySlug === 'arbitrum' || companySlug === 'offchain-labs' || companySlug === 'offchainlabs') {
+          domain = 'arbitrum.io';
+        } else if (companySlug === 'certik') {
+          domain = 'certik.com';
+        }
         companyLogoUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
       }
 
