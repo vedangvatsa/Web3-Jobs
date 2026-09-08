@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-08T12:56:24.973Z",
+  "generatedAt": "2026-09-08T13:00:40.419Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4211,
+  "count": 4216,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -4138,6 +4138,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/corporate-crypto-vs-sovereign-code",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/corporate1",
       "lastmod": "2026-08-04",
       "changefreq": "daily",
@@ -4392,6 +4398,12 @@
     {
       "url": "https://hashtagweb3.com/dapp-launch-checklists-for-web3-frontend-developer",
       "lastmod": "2026-05-17",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/darknet-markets-and-sovereign-code",
+      "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
     },
@@ -9881,6 +9893,12 @@
     },
     {
       "url": "https://hashtagweb3.com/hiring-web3-developer-complete-guide",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/history-of-crypto-anarchy",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
@@ -22708,6 +22726,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/the-crypto-wars",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/the-current-state-of-litecoin-development",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -22769,6 +22793,12 @@
     },
     {
       "url": "https://hashtagweb3.com/the-most-rewarding-web3-careers",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/the-nocoiner-syndrome",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
