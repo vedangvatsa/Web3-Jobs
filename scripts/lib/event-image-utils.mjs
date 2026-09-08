@@ -1,6 +1,7 @@
 import fs from 'fs';
 import path from 'path';
 import crypto from 'crypto';
+import sharp from 'sharp';
 
 export const UA =
   'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
@@ -19,7 +20,7 @@ export function canonicalLumaUrl(url) {
   if (!/images\.lumacdn\.com/.test(u)) return u;
   const m = u.match(/^https:\/\/images\.lumacdn\.com\/(?:cdn-cgi\/image\/[^/]+\/)?(.+)$/);
   if (!m || !m[1]) return u;
-  return `https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=85,width=1600,height=900/${m[1]}`;
+  return `https://images.lumacdn.com/cdn-cgi/image/format=webp,fit=cover,dpr=1,anim=false,background=white,quality=85,width=1600,height=900/${m[1]}`;
 }
 
 export function safeFileStem(id) {
@@ -31,19 +32,14 @@ export function safeFileStem(id) {
   return base || 'event';
 }
 
-function extensionOf(url) {
-  const m = /\.(png|jpe?g|webp|gif|avif)(\?|$)/i.exec(url);
-  if (m && m[1].toLowerCase() === 'jpeg') return 'jpg';
-  return m ? m[1].toLowerCase() : 'jpg';
-}
-
 export function localCoverPath(event, eventsDir) {
   const hash = crypto
     .createHash('md5')
     .update(`${event.id || ''}|${event.url || ''}|${event.startDate || ''}`)
     .digest('hex')
     .slice(0, 8);
-  return `/events/${safeFileStem(event.id)}-${hash}.${extensionOf(event.coverImage || '')}`;
+  // Always store self-hosted covers as WebP (16:9 canonical crop already baked in).
+  return `/events/${safeFileStem(event.id)}-${hash}.webp`;
 }
 
 function looksLikeImage(bytes, contentType) {
@@ -53,8 +49,36 @@ function looksLikeImage(bytes, contentType) {
     sig === 0xff || // JPEG
     (sig === 0x89 && bytes[1] === 0x50) || // PNG
     (bytes[0] === 0x77 && bytes[1] === 0x45) || // WebP
-    (sig === 0x47 && bytes[1] === 0x49) // GIF
+    (sig === 0x47 && bytes[1] === 0x49) || // GIF
+    (bytes[0] === 0 && bytes[1] === 0 && bytes[2] === 0 && bytes[3] === 0x18) // HEIF/AVIF ftyp box
   );
+}
+
+// Normalize any downloaded cover bytes into a real WebP file (sharp cannot
+// decode AVIF in this libvips build, so generic ftyp/AVIF goes through sips).
+async function toWebpBytes(buf) {
+  const isAvif = buf[0] === 0 && buf[1] === 0 && buf[2] === 0 && buf[4] === 0x66 && buf[5] === 0x74 && buf[6] === 0x79;
+  if (isAvif) {
+    const os = await import('os');
+    const { execFileSync } = await import('child_process');
+    const tmp = path.join(os.tmpdir(), `evt-${crypto.randomBytes(6).toString('hex')}.png`);
+    fs.writeFileSync(tmp, buf);
+    try {
+      execFileSync('/usr/bin/sips', ['-s', 'format', 'png', tmp], { stdio: 'pipe' });
+      const webp = await sharp(tmp, { density: 96 })
+        .resize({ width: 1600, height: 900, fit: 'cover', withoutEnlargement: true })
+        .webp({ quality: 78, alphaQuality: 85 })
+        .toBuffer();
+      return webp;
+    } finally {
+      try { fs.unlinkSync(tmp); } catch { /* ignore */ }
+    }
+  }
+  return sharp(buf, { density: 96 })
+    .resize({ width: 1600, height: 900, fit: 'cover', withoutEnlargement: true })
+    .webp({ quality: 78, alphaQuality: 85 })
+    .toBuffer()
+    .catch(() => null);
 }
 
 // Download a remote cover image to public/events and return the local path.
@@ -104,9 +128,12 @@ export async function downloadCover(event, eventsDir, log = () => {}) {
     const contentType = res.headers.get('content-type') || '';
     if (!looksLikeImage(buf, contentType)) return null;
 
+    const webp = await toWebpBytes(buf);
+    if (!webp) return null;
+
     fs.mkdirSync(eventsDir, { recursive: true });
-    fs.writeFileSync(dest, buf);
-    log(`  ✓ Saved ${path.basename(dest)} (${Math.round(buf.length / 1024)}KB) ${event.name}`);
+    fs.writeFileSync(dest, webp);
+    log(`  ✓ Saved ${path.basename(dest)} (${Math.round(webp.length / 1024)}KB) ${event.name}`);
     return local;
   }
   return null;
