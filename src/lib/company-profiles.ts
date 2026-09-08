@@ -6,6 +6,10 @@
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
   "bitbank": `bitbank is a leading licensed Japanese cryptocurrency exchange providing spot trading, deep liquidity, and institutional digital asset services.`,
+  "talos-trading": `Talos Trading is an institutional-grade digital asset trading platform providing institutional investors and market makers with end-to-end trading infrastructure, algorithmic execution, liquidity aggregation, and post-trade settlement across global crypto markets.`,
+  "alpen-labs": `Alpen Labs is an innovative Bitcoin infrastructure and Zero-Knowledge (ZK) research team building programmable Layer 2 infrastructure and Bitcoin-native neobanking experiences for global financial markets.`,
+  "meow": `Meow is a compliant Web3 and corporate fintech platform providing startups and crypto protocols with corporate accounts, yield products, global payment rails, and investor-ready financial reporting.`,
+  "biti": `Biti is a Web3 financial tech and digital wallet product company building intuitive multi-chain wallets, token swap interfaces, and simplified user experiences for crypto transactions.`,
   "a16z-crypto": `a16z Crypto is a venture capital fund managed by Andreessen Horowitz that invests in Web3, crypto protocols, and blockchain technology.`,
   "yellow-card": `Yellow Card is Africa’s largest regulated pan-African crypto exchange and payment infrastructure platform, operating across 20+ African countries.`,
   "yzi-labs": `YZi Labs is a Web3 venture studio and incubator building decentralized finance, infrastructure, and consumer Web3 applications.`,
