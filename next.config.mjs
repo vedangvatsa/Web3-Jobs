@@ -43,6 +43,7 @@ const nextConfig = {
         destination: '/:slug',
         permanent: true,
       },
+      { source: '/the-shape-of-ethereum-topological-anomaly-detection', destination: '/shape-of-ethereum', permanent: true },
       { source: '/arbitrum-offchain-labs', destination: '/offchain-labs', permanent: true },
       { source: '/arbitrum', destination: '/offchain-labs', permanent: true },
       { source: '/certik-detailed', destination: '/certik', permanent: true },

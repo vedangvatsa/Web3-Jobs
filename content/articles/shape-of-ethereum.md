@@ -6,7 +6,7 @@ category: Technology Deep Dives
 data-ai-hint: ethereum research tda topology machine-learning forensics
 publishedDate: '2026-09-08'
 lastUpdated: '2026-09-08'
-slug: the-shape-of-ethereum-topological-anomaly-detection
+slug: shape-of-ethereum
 ---
 
 When capital moves rapidly, when automated keeper bots compete for liquidation rights, or when institutions rebalance during macro shocks, the structural geometry of blockchain transaction graphs changes before prices or transaction counts reflect the shift.
