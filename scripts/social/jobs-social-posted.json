@@ -1,5 +1,5 @@
 {
-  "lastIndex": 118,
+  "lastIndex": 123,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -30,7 +30,9 @@
     "security29764",
     "job31002",
     "role52517",
-    "devops-andromeda-68403563-daff-449c-83cf-ea346c"
+    "devops-andromeda-68403563-daff-449c-83cf-ea346c",
+    "role90da0",
+    "coindcx1789"
   ],
   "history": [
     {
@@ -888,6 +890,118 @@
       "platform": "instagram",
       "postedAt": "2026-09-08T12:12:07.088Z",
       "postId": "17871310131636609"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "x",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "2097373920101888332"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "threads",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "17951556342257875"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzjq2f5t22n"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "0x7aba6d921f6e04954d4eb4d27e728f5f403bff46"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "6aa04360bb9e097f5692764d"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "691827047618629_1083285407612027"
+    },
+    {
+      "slug": "role90da0",
+      "company": "Monad Foundation",
+      "title": "Head of Japan",
+      "platform": "instagram",
+      "postedAt": "2026-09-08T17:18:04.425Z",
+      "postId": "18094312196649902"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "x",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "2097374141015838775"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "threads",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "18098911934627270"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzjrxe3xb2i"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "0x1fde1270a516aa4c8aa13c34d3cc285a50aa58b4"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "6aa043a0fb9ed585658973c9"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "691827047618629_1083286204278614"
+    },
+    {
+      "slug": "coindcx1789",
+      "company": "CoinDCX",
+      "title": "Security Architect",
+      "platform": "instagram",
+      "postedAt": "2026-09-08T17:18:57.107Z",
+      "postId": "17916634149244642"
     }
   ]
 }
