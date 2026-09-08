@@ -251,7 +251,7 @@
     "location": "Taipei, Taiwan",
     "url": "https://www.taipeiblockchainweek.com",
     "website": "https://www.taipeiblockchainweek.com",
-    "coverImage": "http://static1.squarespace.com/static/62e43f6fccb8357cfc29e4de/t/68467213cc6de75b44dc615a/1779763798757/TBW+onboard+AI.png?format=1500w",
+    "coverImage": "/events/premier-tbw-2026-9734a01a.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -283,7 +283,7 @@
     "location": "Gaylord National Resort & Convention Center, Washington DC, USA",
     "url": "https://stablecon.com",
     "website": "https://stablecon.com",
-    "coverImage": "https://stablecon.com/wp-content/uploads/2026/05/HENR2831.jpg",
+    "coverImage": "/events/premier-stablecon-2026-aa48b941.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -299,7 +299,7 @@
     "location": "Times Square, New York, USA",
     "url": "https://unblockchainweek.com",
     "website": "https://unblockchainweek.com",
-    "coverImage": "https://www.blockchainweek.ai/opengraph-image.png?opengraph-image.0c6-04-u9_oc0.png?dpl=dpl_7prKPNcDo1WkRVtBPS3Wq1wjthrH",
+    "coverImage": "/events/premier-unbw-2026-1e0bfc10.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -315,7 +315,7 @@
     "location": "Rome, Italy",
     "url": "https://www.ethrome.org",
     "website": "https://www.ethrome.org",
-    "coverImage": "https://ethrome.org/opengraph-image.png?9b40b21b2b23e020",
+    "coverImage": "/events/premier-ethrome-2026-d99a5096.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -379,7 +379,7 @@
     "location": "Chelsea Industrial, New York, USA",
     "url": "https://www.avalanchesummit.com",
     "website": "https://www.avalanchesummit.com",
-    "coverImage": "https://irp.cdn-website.com/02019734/dms3rep/multi/opt/170412-1920w.jpg",
+    "coverImage": "/events/premier-avax-summit-nyc-2026-2443783f.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -411,7 +411,7 @@
     "location": "Walkerhill Hotels & Resorts, Seoul, South Korea",
     "url": "https://koreablockchainweek.com",
     "website": "https://koreablockchainweek.com",
-    "coverImage": "https://framerusercontent.com/images/pesxh0NQOVpQRnQ7QadhG4wMY.png",
+    "coverImage": "/events/premier-kbw-2026-f0cd7876.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -427,7 +427,7 @@
     "location": "Singapore, Singapore",
     "url": "https://summit.cardano.org",
     "website": "https://summit.cardano.org",
-    "coverImage": "https://framerusercontent.com/images/T2alYSiWTi1pC1A2z7r4Wf58Qyk.png",
+    "coverImage": "/events/premier-cardano-summit-2026-8616f2dd.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -443,7 +443,7 @@
     "location": "Marina Bay Sands, Singapore",
     "url": "https://asia.token2049.com",
     "website": "https://asia.token2049.com",
-    "coverImage": "https://token2049.nyc3.cdn.digitaloceanspaces.com/Singapore/OG/T2049%20Singapore%20-%20OpenGraph%20(2026)%202%20OCT%202025.avif",
+    "coverImage": "/events/premier-token2049-singapore-2026-5da86eab.avif",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -459,7 +459,7 @@
     "location": "Singapore, Singapore",
     "url": "https://sui.io/basecamp",
     "website": "https://sui.io/basecamp",
-    "coverImage": "https://cdn.prod.website-files.com/68e8e0120513ba12c5cd12e0/6a7f0208892c6f188c673a50_sui-basecamp-og.png",
+    "coverImage": "/events/premier-sui-basecamp-2026-2211b5bb.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -475,7 +475,7 @@
     "location": "Brooklyn, New York, USA",
     "url": "https://blockworks.co/permissionless",
     "website": "https://blockworks.co/permissionless",
-    "coverImage": "https://blockworks.com/images/share-image.jpg",
+    "coverImage": "/events/premier-permissionless-2026-50ef6ffd.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -491,7 +491,7 @@
     "location": "New York City, USA",
     "url": "https://ripple.com/events/swell/",
     "website": "https://ripple.com/events/swell/",
-    "coverImage": "https://cdn.prod.website-files.com/69fdabd33a6b8e8e1cf71a23/6a174321acf41661f83a1aa0_Swell%202026_OpenGraph%20Image_1200x630.jpg",
+    "coverImage": "/events/premier-swell-2026-231ce434.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -507,7 +507,7 @@
     "location": "Location TBA",
     "url": "https://smartcon.chain.link",
     "website": "https://smartcon.chain.link",
-    "coverImage": "https://cdn.prod.website-files.com/67eeec04cc5d506487a28023/67fb3cbff52442df00ff9fd4_dae0ba2f77b42805da438afe805472e0_OG.webp",
+    "coverImage": "/events/premier-smartcon-2026-581489ca.webp",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -523,7 +523,7 @@
     "location": "Mumbai, India",
     "url": "https://www.indiablockchainweek.com",
     "website": "https://www.indiablockchainweek.com",
-    "coverImage": "https://indiablockchainweek.com/assets/images/2026/og-image.png",
+    "coverImage": "/events/premier-indiabw-2026-c798daa3.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -539,7 +539,7 @@
     "location": "Mumbai, India",
     "url": "https://devcon.org",
     "website": "https://devcon.org",
-    "coverImage": "https://www.devcon.org/assets/images/new-og.jpg",
+    "coverImage": "/events/premier-devcon-2026-3cd5a51d.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -555,7 +555,7 @@
     "location": "Grand Hyatt, Hong Kong",
     "url": "https://cosmoverse.org",
     "website": "https://cosmoverse.org",
-    "coverImage": "https://framerusercontent.com/images/Ol6JZHzkoOMo3CwJIvZEouHJO18.png",
+    "coverImage": "/events/premier-cosmoverse-2026-68f0aedd.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -603,7 +603,7 @@
     "location": "Bangkok, Thailand",
     "url": "https://devconnect.org",
     "website": "https://devconnect.org",
-    "coverImage": "https://devconnect.org/og-argentina.png?reset=1",
+    "coverImage": "/events/premier-devconnect-2026-97ebb2eb.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -619,7 +619,7 @@
     "location": "Olympia London, London, UK",
     "url": "https://solana.com/breakpoint",
     "website": "https://solana.com/breakpoint",
-    "coverImage": "https://solana.com/breakpoint/social-card.jpg",
+    "coverImage": "/events/premier-breakpoint-2026-5a195862.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -651,7 +651,7 @@
     "location": "Bengaluru, India",
     "url": "https://ethindia.co",
     "website": "https://ethindia.co",
-    "coverImage": "https://assets.devfolio.co/hackathons/efff72dc6d0f45ee8ae27e5831e4cbe3/assets/cover/288.jpeg",
+    "coverImage": "/events/premier-ethindia-2026-104d3067.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -683,7 +683,7 @@
     "location": "AsiaWorld-Expo, Hong Kong",
     "url": "https://consensus-hongkong.coindesk.com",
     "website": "https://consensus-hongkong.coindesk.com",
-    "coverImage": "https://consensus-hongkong.coindesk.com/site/consensusasia2026/images/userfiles/metadata/hk-26/C26_HK_Opengraph_Generic.png",
+    "coverImage": "/events/premier-consensus-hk-2027-90fdb900.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -699,7 +699,7 @@
     "location": "Madinat Jumeirah, Dubai, UAE",
     "url": "https://dubai.token2049.com",
     "website": "https://dubai.token2049.com",
-    "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/69493428bf04691d4ae74fd1_397c8dba84f2513a877cf7036d9e9855_T2049%20Dubai%20-%20OpenGraph%20%282026%29.png",
+    "coverImage": "/events/premier-token2049-dubai-2027-f2a31610.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -763,7 +763,7 @@
     "location": "Tokyo, Japan",
     "url": "https://ethereum-japan.org",
     "website": "https://ethereum-japan.org",
-    "coverImage": "https://ethereum-japan.org/images/hero-panda.png",
+    "coverImage": "/events/premier-ethtokyoweek-c7008388.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -779,7 +779,7 @@
     "location": "Washington, DC, USA",
     "url": "https://www.btcpolicy.org",
     "website": "https://www.btcpolicy.org",
-    "coverImage": "https://cdn.prod.website-files.com/68f7cddcae0b61add08140fc/696e4e1d57e5456bda73085e_website%20share.png",
+    "coverImage": "/events/premier-freedomtech-79e82312.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -795,7 +795,7 @@
     "location": "Greater Columbus Convention Center, Columbus, OH, USA",
     "url": "https://midwestbtc.com",
     "website": "https://midwestbtc.com",
-    "coverImage": "https://horizons-cdn.hostinger.com/51771201-0773-41d0-868d-52780ec83be7/3ce6d0b469a2dbdddc871c8f2154d9c7.png",
+    "coverImage": "/events/premier-midwestbtc-0dc3d63b.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1083,7 +1083,7 @@
     "location": "Kigali, Rwanda",
     "url": "https://africablockchainfestival.com",
     "website": "https://africablockchainfestival.com",
-    "coverImage": "https://i0.wp.com/africablockchainfestival.com/wp-content/uploads/2026/08/block-chill-nairobi-abf-wts-banner.jpg?fit=1400%2C961&ssl=1",
+    "coverImage": "/events/premier-africabcfest-98738960.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1147,7 +1147,7 @@
     "location": "Paris, France",
     "url": "https://www.thebigwhale.io",
     "website": "https://www.thebigwhale.io",
-    "coverImage": "https://cdn.prod.website-files.com/68c920bf4c1a8f4733432a26/6981f9c0be8eb2f1142c12c6_the-big-whale-open-graph.jpg",
+    "coverImage": "/events/premier-bigwhale-496f7f4c.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1179,7 +1179,7 @@
     "location": "Cape Town, South Africa",
     "url": "https://cryptofest.co.za",
     "website": "https://cryptofest.co.za",
-    "coverImage": "https://cryptofest.co.za/wp-content/uploads/2026/05/CryptoFest2026-LinkPreview.jpg",
+    "coverImage": "/events/premier-cryptofest-31f2d313.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1275,7 +1275,7 @@
     "location": "Singapore, Singapore",
     "url": "https://mnm.live/theodds/t2049singapore",
     "website": "https://mnm.live/theodds/t2049singapore",
-    "coverImage": "https://mnm.live/og/the-odds-singapore.png",
+    "coverImage": "/events/premier-theodds-231d81f4.png",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1387,7 +1387,7 @@
     "location": "Seoul, South Korea",
     "url": "https://cointelegraph.com",
     "website": "https://cointelegraph.com",
-    "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
+    "coverImage": "/events/premier-connectseoul-a75686ae.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1403,7 +1403,7 @@
     "location": "Singapore, Singapore",
     "url": "https://cointelegraph.com",
     "website": "https://cointelegraph.com",
-    "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
+    "coverImage": "/events/premier-connectsg-ad4c2a39.jpg",
     "twitter": null,
     "source": "curated-premier"
   },
@@ -1451,7 +1451,7 @@
     "location": "CÉ LA VI Rooftop, Marina Bay Sands, Singapore",
     "url": "https://token2049.com",
     "website": "https://token2049.com",
-    "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/68ff4193f76faf012400a64c_T2049%20Global%20-%20Opengraph.png",
+    "coverImage": "/events/side-token2049-vip-gala-2026-66866985.png",
     "source": "curated-premier"
   },
   {
@@ -1481,7 +1481,7 @@
     "location": "The Fullerton Hotel, Singapore",
     "url": "https://ethglobal.com",
     "website": "https://ethglobal.com",
-    "coverImage": "https://ethglobal.com/og.png",
+    "coverImage": "/events/side-ethereum-singapore-l2-brunch-2026-a606097a.png",
     "source": "curated-premier"
   },
   {
@@ -1511,7 +1511,7 @@
     "location": "1880 Member Club, Singapore",
     "url": "https://base.org",
     "website": "https://base.org",
-    "coverImage": "https://base.org/images/base-open-graph-v2.png",
+    "coverImage": "/events/side-base-builder-house-singapore-2026-66069fc1.png",
     "source": "curated-premier"
   },
   {
@@ -1526,7 +1526,7 @@
     "location": "Fort Mason Center, San Francisco, CA, USA",
     "url": "https://ethglobal.com",
     "website": "https://ethglobal.com",
-    "coverImage": "https://ethglobal.com/og.png",
+    "coverImage": "/events/side-ethsf-hacker-house-2026-eeb0e7a0.png",
     "source": "curated-premier"
   },
   {

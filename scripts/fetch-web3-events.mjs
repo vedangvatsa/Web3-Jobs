@@ -1,17 +1,12 @@
 import fs from 'fs';
 import path from 'path';
 import { fileURLToPath } from 'url';
+import { isLumaDefaultPlaceholder, enrichLocalCovers } from './lib/event-image-utils.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
-
-// Luma's "add a cover photo" grey placeholder masquerades as a real image.
-// Treat it as missing so og:image enrichment fills in the actual event art.
-function isLumaDefaultPlaceholder(img) {
-  return !!img && /images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img);
-}
 
 // Fetch with retry/backoff for 429 (Luma rate-limits aggressively).
 async function fetchWithBackoff(url, options = {}, attempts = 3) {
@@ -1469,6 +1464,15 @@ async function fetchWeb3Events() {
 
   const finalWithImage = validEvents.filter(e => e.coverImage).length;
   console.log(`\nFinal: ${validEvents.length} events (${finalWithImage} with images, ${validEvents.length - finalWithImage} placeholder).`);
+
+  // Self-host every remote cover (high-res Luma crop) to public/events so pages
+  // never depend on upstream CDNs at render time.
+  const eventsDir = path.join(__dirname, '../public/events');
+  const { okCount, rateLimited, failed } = await enrichLocalCovers(validEvents, {
+    eventsDir,
+    log: console.log,
+  });
+  console.log(`[Local Covers] Saved ${okCount} local, deferred ${rateLimited} (rate-limited), failed ${failed}.`);
 
   const cachePath = path.join(__dirname, '../content/events-cache.json');
   fs.writeFileSync(cachePath, JSON.stringify(validEvents, null, 2));
