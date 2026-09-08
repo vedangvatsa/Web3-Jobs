@@ -1,5 +1,5 @@
 {
-  "lastIndex": 123,
+  "lastIndex": 125,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -32,7 +32,9 @@
     "role52517",
     "devops-andromeda-68403563-daff-449c-83cf-ea346c",
     "role90da0",
-    "coindcx1789"
+    "coindcx1789",
+    "managerd7ef3",
+    "operations45dbf"
   ],
   "history": [
     {
@@ -1002,6 +1004,118 @@
       "platform": "instagram",
       "postedAt": "2026-09-08T17:18:57.107Z",
       "postId": "17916634149244642"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "x",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "2097443848842833986"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "17901946623588384"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzzav4ndr2j"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "0x24bd79131d5a8928cea015cc45b8c0bc17ade5b9"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "6aa0847fc4e8349f29382511"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "691827047618629_1083436937596874"
+    },
+    {
+      "slug": "managerd7ef3",
+      "company": "SmartX",
+      "title": "Social Media & Brand Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-08T21:55:56.739Z",
+      "postId": "17890621920438154"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "x",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "2097444134399422802"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "threads",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "18108915857135023"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muzzd52cpx24"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "0x7c2e834bdda0b49a8448a8163639494b312419a6"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "6aa084cb7082feb000ddfb97"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "691827047618629_1083437424263492"
+    },
+    {
+      "slug": "operations45dbf",
+      "company": "FinTax",
+      "title": "Brand Operations Specialist",
+      "platform": "instagram",
+      "postedAt": "2026-09-08T21:57:04.846Z",
+      "postId": "18131512216656341"
     }
   ]
 }
