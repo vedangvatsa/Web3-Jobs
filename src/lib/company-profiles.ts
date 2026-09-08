@@ -36,7 +36,6 @@ export const COMPANY_RICH_ABOUT: Record<string, string> = {
   "stockal": `Stockal is a global investment platform enabling international users to invest in US equities, ETFs, and digital asset products seamlessly.`,
   "stablestock": `Stablestock is a decentralized yield-aggregating stablecoin protocol maximizing returns across tokenized RWA and DeFi money markets.`,
   "smartx": `SmartX is a Web3 financial technology platform offering compliant digital asset custody, prime brokerage services, and tokenization rails.`,
-  "sats-terminal": `Sats Terminal is an open-source Bitcoin financial terminal providing real-time mempool analysis, Bitcoin DeFi metrics, and Lightning Network insights.`,
   "safe": `Safe (formerly Gnosis Safe) is the industry-standard multi-signature smart account infrastructure securing over B+ in digital assets across Web3.`,
   "szns": `SZNS is a decentralized protocol for tokenizing and managing fractionalized digital asset and NFT portfolios through community DAOs.`,
   "render-network": `Render Network is the premier decentralized GPU rendering protocol connecting artists and AI developers with distributed GPU compute power for 3D graphics and AI inference.`,
