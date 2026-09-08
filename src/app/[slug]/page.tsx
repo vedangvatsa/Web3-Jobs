@@ -158,7 +158,38 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  // Check if it's an event page first
+  // Check if it's a glossary term first
+  const term = await getTerm(params.slug);
+  if (term) {
+    const siteUrl = 'https://hashtagweb3.com';
+    const termUrl = `${siteUrl}/${term.slug}`;
+    const metaDescription = generateGlossaryMetaDescription(term);
+    const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(term.term)}&category=${encodeURIComponent(term.category)}`;
+    
+    return {
+      title: `${term.term} - Web3 Glossary`,
+      description: metaDescription,
+      keywords: [term.term, ...term.synonyms || [], term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
+      alternates: {
+        canonical: termUrl,
+      },
+      openGraph: {
+        title: `${term.term} - Web3 Glossary`,
+        description: metaDescription,
+        url: termUrl,
+        type: 'article',
+        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: term.term }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: `${term.term} - Web3 Glossary`,
+        description: metaDescription,
+        images: [ogImageUrl],
+      },
+    };
+  }
+
+  // Check if it's an event page
   const event = await getEventBySlug(params.slug);
   if (event) {
     const siteUrl = 'https://hashtagweb3.com';
@@ -203,67 +234,34 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
-  // Check if it's a resource page first
+  // Check if it's a resource page
   const resource = getResourceByCanonicalSlug(params.slug);
   if (resource) {
-  const siteUrl = 'https://hashtagweb3.com';
-  const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
-  const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(resource.seo.title)}&category=${encodeURIComponent(resource.meta.contentType)}`;
-  return {
-   title: resource.seo.title,
-   description: resource.seo.description,
-   keywords: resource.seo.keywords,
-   alternates: { canonical: resourceUrl },
-   openGraph: {
-    title: resource.seo.title,
-    description: resource.seo.description,
-    type: 'article',
-    url: resourceUrl,
-    images: [{ url: ogImageUrl, width: 1200, height: 630, alt: resource.seo.title }],
-   },
-   twitter: {
-    card: 'summary_large_image',
-    title: resource.seo.title,
-    description: resource.seo.description,
-    images: [ogImageUrl],
-   },
-  };
+    const siteUrl = 'https://hashtagweb3.com';
+    const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
+    const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(resource.seo.title)}&category=${encodeURIComponent(resource.meta.contentType)}`;
+    return {
+      title: resource.seo.title,
+      description: resource.seo.description,
+      keywords: resource.seo.keywords,
+      alternates: { canonical: resourceUrl },
+      openGraph: {
+        title: resource.seo.title,
+        description: resource.seo.description,
+        type: 'article',
+        url: resourceUrl,
+        images: [{ url: ogImageUrl, width: 1200, height: 630, alt: resource.seo.title }],
+      },
+      twitter: {
+        card: 'summary_large_image',
+        title: resource.seo.title,
+        description: resource.seo.description,
+        images: [ogImageUrl],
+      },
+    };
   }
 
-
-
-  // Check if it's a glossary term
-  const term = await getTerm(params.slug);
- if (term) {
-  const siteUrl = 'https://hashtagweb3.com';
-  const termUrl = `${siteUrl}/${term.slug}`;
-  const metaDescription = generateGlossaryMetaDescription(term);
-  const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(term.term)}&category=${encodeURIComponent(term.category)}`;
-  
-  return {
-   title: `${term.term} - Web3 Glossary`,
-   description: metaDescription,
-   keywords: [term.term, ...term.synonyms || [], term.category, 'web3', 'crypto', 'blockchain', 'glossary'],
-   alternates: {
-    canonical: termUrl,
-   },
-   openGraph: {
-    title: `${term.term} - Web3 Glossary`,
-    description: metaDescription,
-    url: termUrl,
-    images: [{ url: ogImageUrl, alt: `${term.term} - ${term.category}` }],
-    type: 'article',
-   },
-   twitter: {
-    card: 'summary_large_image',
-    title: `${term.term} - Web3 Glossary`,
-    description: metaDescription,
-    images: [ogImageUrl],
-   },
-  };
- }
- 
- // Fall back to article
+  // Fall back to article
  const article = await getArticle(params.slug);
  if (!article) {
   notFound();
