@@ -289,8 +289,15 @@ export async function GET(request: NextRequest) {
           if (logoRes.ok) {
             const contentType = (logoRes.headers.get('content-type') || 'image/png').split(';')[0].trim();
             const logoBytes = await logoRes.arrayBuffer();
+            // Manual base64 (no Buffer dependency — edge-safe).
             if (logoBytes.byteLength > 0 && logoBytes.byteLength < 500000) {
-              logoDataUrl = `data:${contentType};base64,${Buffer.from(logoBytes).toString('base64')}`;
+              const bytes = new Uint8Array(logoBytes);
+              let binary = '';
+              const CHUNK = 0x8000;
+              for (let i = 0; i < bytes.length; i += CHUNK) {
+                binary += String.fromCharCode.apply(null, Array.from(bytes.subarray(i, i + CHUNK)));
+              }
+              logoDataUrl = `data:${contentType};base64,${btoa(binary)}`;
             }
           }
         } catch {
