@@ -106,6 +106,7 @@ export function isConcreteJobOpening(title: string | null | undefined, link?: st
   if (isGeneralOrPlaceholderJobTitle(title)) return false;
   if (isUnrelatedOrNonWeb3JobTitle(title)) return false;
   if (link && isInvalidJobLink(link)) return false;
+  if (link && (link.includes('satsterminal') || link.includes('sats-terminal'))) return false;
   return true;
 }
 
