@@ -6,7 +6,7 @@ description: >-
   The Web3 job market had 66,494 new roles in 2025. How hiring works, what to build in 90 days, and what juniors earn.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 Junior hires at Web3 teams rarely arrive with a prior crypto title. The ones who get offers arrive with public proof that they can do the work.
 

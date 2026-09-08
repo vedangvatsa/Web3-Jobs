@@ -5,7 +5,7 @@ data-ai-hint: token swap crypto
 description: A comprehensive technical guide to cryptocurrency token swaps, exploring Automated Market Maker (AMM) formulas, DEX aggregation, MEV protection, and cross-chain HTLC atomic swap mechanics.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 In Decentralized Finance ([DeFi](/what-is-defi)), a **token swap** refers to the peer-to-peer exchange of one cryptocurrency asset for another directly via automated smart contracts without relying on a centralized intermediary or custodial order book. Token swaps form the primary operational engine of the [Web3](/what-is-web3) economy, enabling users to rebalance portfolios, access protocol utility [tokens](/what-is-a-token), supply liquidity, and participate in decentralized governance across permissionless blockchain networks.

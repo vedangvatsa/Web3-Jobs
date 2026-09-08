@@ -4,7 +4,7 @@ image: /images/articles/charts/depin-flywheel-architecture.svg
 description: A comprehensive technical and economic analysis of Decentralized Physical Infrastructure Networks (DePIN), exploring Proof of Physical Work, token flywheels, hardware coordination, and enterprise adoption.
 category: Educational
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 tags:
   - DePIN
   - Helium

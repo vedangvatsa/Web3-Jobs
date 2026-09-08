@@ -8,7 +8,7 @@ description: >-
   and replay attack prevention.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 In computer science and cryptography, a **nonce** is an abbreviation for **"number used once."** It represents an arbitrary or sequential numerical value included in cryptographic calculations to ensure that identical data payloads yield unique hash outputs and to prevent unauthorized replay attacks across networks.

@@ -4,7 +4,7 @@ image: /images/articles/charts/oracle-networks-data-pipeline.svg
 description: An architectural guide to blockchain oracle integration, examining push vs pull data models, flash loan attack mitigation, Uniswap TWAP mechanics, and defensive Solidity implementations.
 category: Educational
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 tags:
   - Oracles
   - Smart Contracts

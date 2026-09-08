@@ -9,7 +9,7 @@ description: >-
 category: Technology Deep Dives
 slug: r3-corda-vs-cosmos-sdk
 publishedDate: '2026-03-15'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 When evaluating enterprise blockchain infrastructure, two platforms stand out for production deployments: **R3 Corda** and the
 

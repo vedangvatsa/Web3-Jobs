@@ -5,7 +5,7 @@ data-ai-hint: blockchain layers comparison architecture
 description: An empirical comparative thesis analyzing Layer 1 sovereign settlement platforms and Layer 2 scaling rollups, examining consensus models, data availability, proof verification, and economic throughput.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: layer-1-vs-layer-2-blockchain-platforms-compared
 ---
 The scalability debate in decentralized systems centers on an architectural bifurcation: should a distributed ledger handle consensus, execution, and data storage within a single monolithic layer, or should computation be decoupled into specialized execution networks that anchor their security to a base settlement layer? This distinction defines the technical divide between Layer 1 (L1) blockchains and Layer 2 (L2) scaling protocols.

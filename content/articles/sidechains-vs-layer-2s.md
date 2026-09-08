@@ -5,7 +5,7 @@ data-ai-hint: sidechains vs layer 2 rollups blockchain security
 description: An empirical comparative thesis examining the structural, cryptographic, and economic differences between sovereign sidechains and inherited Layer 2 rollups, focusing on bridge security, consensus models, and failure modes.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: sidechains-vs-layer-2s
 ---
 In the quest to scale decentralized computation beyond the throughput limits of base settlement networks like the [Ethereum Foundation](https://ethereum.org) mainnet, two primary architectures have emerged: sidechains and Layer 2 (L2) rollups. While both frameworks process transactions outside the base layer to achieve high throughput and low execution fees, they are governed by diametrically opposed security paradigms.

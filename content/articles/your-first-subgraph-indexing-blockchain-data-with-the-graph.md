@@ -4,7 +4,7 @@ image: /images/articles/charts/the-graph-indexing-pipeline.svg
 description: A comprehensive technical guide to blockchain indexing with The Graph, exploring Graph Node architecture, AssemblyScript WASM mappings, GraphQL schemas, and decentralized GRT query markets.
 category: Getting Started
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 tags:
   - The Graph
   - Subgraphs

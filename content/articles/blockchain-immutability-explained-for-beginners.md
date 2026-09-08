@@ -6,7 +6,7 @@ description: >-
   Learn how cryptographic hashing, Merkle trees, block headers, and distributed consensus render blockchain ledgers permanent, tamper-resistant, and immutable.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 Immutability is widely considered the foundational trust anchor of public blockchain networks. At its core, immutability means that once transaction data has been validated, appended to a block, and accepted into the canonical chain by distributed consensus, it cannot be modified, overwritten, or deleted by any participant. Unlike traditional relational database management systems where system administrators possess root privileges to execute update or delete queries, public blockchain ledgers operate as append-only distributed data structures.
