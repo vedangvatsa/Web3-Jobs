@@ -274,6 +274,6 @@ export const config = {
      * on any URL and rewritten to /api/agent-view before the API handler runs.
      * The bot-UA and UTM logic explicitly skip /api/* paths internally.
      */
-    '/((?!_next/static|_next/image|favicon.ico|icon.png|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
+    '/((?!_next/static|_next/image|favicon.ico|icon.png|logo-bimi.svg|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
   ],
 };
