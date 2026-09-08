@@ -169,7 +169,7 @@ export function middleware(request: NextRequest) {
   // 1. Social UTM suffix shortcuts
   // Strip recognised social-suffix path segments and replace with UTM params.
   // Only runs for non-API, non-static paths.
-  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next')) {
+  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.endsWith('.xml')) {
     const normalised = pathname.replace(/\/+$/, '');
     const lastSlashIdx = normalised.lastIndexOf('/');
 
@@ -273,6 +273,6 @@ export const config = {
      * on any URL and rewritten to /api/agent-view before the API handler runs.
      * The bot-UA and UTM logic explicitly skip /api/* paths internally.
      */
-    '/((?!_next/static|_next/image|favicon.ico|icon.png|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|xml|pdf)$).*)',
+    '/((?!_next/static|_next/image|favicon.ico|icon.png|.*\\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$).*)',
   ],
 };
