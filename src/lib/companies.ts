@@ -658,8 +658,12 @@ export async function getCompanies(): Promise<Company[]> {
    // Invalid URL, leave empty
   }
 
-  if (COMPANY_WEBSITE_OVERRIDES[slug]) {
-   website = COMPANY_WEBSITE_OVERRIDES[slug];
+  if (COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[slug.replace(/-labs$|-foundation$/, '')]) {
+    website = COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[slug.replace(/-labs$|-foundation$/, '')];
+  }
+  if (!website) {
+    const cleanSlug = slug.replace(/-labs$|-foundation$|-crypto$/, '');
+    website = `https://${cleanSlug}.com`;
   }
 
     // Use most recent job date as lastUpdated instead of build time
@@ -749,9 +753,13 @@ export async function getCompanyBySlug(slug: string): Promise<Company | null> {
    }
  } catch (e) {}
 
- if (COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug]) {
-  website = COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug];
- }
+  if (COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[canonicalSlug.replace(/-labs$|-foundation$/, '')]) {
+    website = COMPANY_WEBSITE_OVERRIDES[canonicalSlug] || COMPANY_WEBSITE_OVERRIDES[slug] || COMPANY_WEBSITE_OVERRIDES[canonicalSlug.replace(/-labs$|-foundation$/, '')];
+  }
+  if (!website) {
+    const cleanSlug = canonicalSlug.replace(/-labs$|-foundation$|-crypto$/, '');
+    website = `https://${cleanSlug}.com`;
+  }
 
  const latestJobDate = companyJobs.reduce((latest, j) => {
   const d = new Date(j.date);
