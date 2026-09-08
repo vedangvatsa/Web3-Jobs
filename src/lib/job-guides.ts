@@ -543,16 +543,36 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
     };
   }
 
-  // 5. Backward compat: old hash slugs like frontend-0vo6wm4 (from previous dash-hash scheme)
+  // 5. Backward compat & social share fallback: check prefix / ID matching for dash-separated slugs (e.g. devops-andromeda-15104 or frontend-company-12345)
   const dashIdx = cleanSlug.lastIndexOf('-');
   if (dashIdx !== -1) {
-    const hashPart = cleanSlug.slice(dashIdx + 1);
-    if (hashPart.length >= 4) {
+    const prefix = cleanSlug.slice(0, dashIdx);
+    const suffixPart = cleanSlug.slice(dashIdx + 1);
+
+    // 5a. Match jobs whose stored slug or ID starts with the prefix (e.g. "devops-andromeda-...")
+    const matchByPrefix = allJobs.find((job) => {
+      const s = (job.slug || '').toLowerCase();
+      const id = (job.id || '').toLowerCase();
+      return (s && s.startsWith(`${prefix}-`)) || (id && id.includes(prefix));
+    });
+    if (matchByPrefix) return matchByPrefix;
+
+    // 5b. Match by hash or ID suffix
+    if (suffixPart.length >= 4) {
       for (const job of allJobs) {
-        if (getJobContentKey(job).slice(4) === hashPart) return job;
+        if (getJobContentKey(job).slice(4) === suffixPart) return job;
+        const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
+        if (cleanId.endsWith(suffixPart)) return job;
       }
     }
   }
+
+  // 6. Loose prefix matching on job title + company if slug is hyphenated (e.g., devops-andromeda)
+  const matchingByPrefixOnly = allJobs.find((job) => {
+    const s = (job.slug || '').toLowerCase();
+    return s && cleanSlug.startsWith(s);
+  });
+  if (matchingByPrefixOnly) return matchingByPrefixOnly;
 
   return null;
 }
