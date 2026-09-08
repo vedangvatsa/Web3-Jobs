@@ -40,7 +40,7 @@ This structural delay was first identified by French-Irish economist Richard Can
 
       <!-- Bottom Tier -->
       <polygon points="45,158 285,158 320,215 10,215" fill="#6b7280" fill-opacity="0.5"/>
-      <text x="165" y="190" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#fff">3. Wage Earners & Savers (Inflated Consumer Prices)</text>
+      <text x="165" y="190" text-anchor="middle" font-family="system-ui" font-size="10" fill="#fff">3. Wage Earners & Savers (Inflated Consumer Prices)</text>
     </g>
 
     <!-- Right Panel: Bitcoin Fixed Supply -->
@@ -66,6 +66,10 @@ Cantillon demonstrated that the first receivers of newly created money gain an a
 
 As analyzed in Saifedean Ammous' [The Bitcoin Standard (2018)](https://saifedean.com/the-bitcoin-standard/), the Cantillon Effect operates as an invisible transfer mechanism. It systematically dilutes the purchasing power of fixed-income earners while inflating the nominal wealth of asset owners closest to central bank credit spigots.
 
+Furthermore, the expansion of commercial bank credit creates business cycles. When central banks artificially lower interest rates below the natural rate of savings, businesses undertake long-term capital projects that lack genuine consumer demand. When credit conditions tighten, these projects fail, resulting in systemic economic crises that require additional central bank intervention and currency dilution.
+
+This cyclical intervention creates moral hazard across legacy financial markets. Financial institutions operate with the implicit understanding that central banks will bail out systemic failures through emergency liquidity injections, socializing losses while privatizing gains during credit expansion phases.
+
 ---
 
 ## 2. The Cantillon Pyramid vs. Hard Monetary Baselines
@@ -74,152 +78,108 @@ To quantify how monetary expansion alters wealth distribution, consider the grow
 
 Between March 2020 and January 2022, total M2 expanded by more than 35%, marking the fastest monetary expansion in modern financial history.
 
+<div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
+  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: M2 Expansion vs Programmatic Bitcoin Halving Issuance Schedule</div>
+  <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
+    <!-- Curve 1: Fiat M2 Expansion (Red Curve) -->
+    <path d="M 60 180 Q 250 170, 450 110 T 740 30" fill="none" stroke="#ef4444" stroke-width="3"/>
+    <text x="620" y="45" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">Fiat M2 Monetary Supply (Exponential Expansion)</text>
+
+    <!-- Curve 2: Bitcoin Issuance Halving (Green Steps) -->
+    <path d="M 60 60 L 230 60 L 230 120 L 400 120 L 400 150 L 570 150 L 570 165 L 740 165" fill="none" stroke="#10b981" stroke-width="3"/>
+    <text x="580" y="185" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Bitcoin Block Subsidy Halvings (Asymptotic Limit 21M)</text>
+
+    <!-- Axes -->
+    <line x1="60" y1="200" x2="740" y2="200" stroke="currentColor" stroke-opacity="0.3" stroke-width="1.5"/>
+    <line x1="60" y1="30" x2="60" y2="200" stroke="currentColor" stroke-opacity="0.3" stroke-width="1.5"/>
+    <text x="60" y="215" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">2009 (Genesis)</text>
+    <text x="740" y="215" text-anchor="end" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">2140 (Final Halving)</text>
+  </svg>
+</div>
+
 ```
 Monetary Regime Disconnect Matrix:
 
   Fiat Banking System (Soft Money Standard):
-  - Unlimited supply ceiling set by central bank mandate
-  - Asymmetric Cantillon distribution to primary dealers
-  - Wealth preservation requires constant asset speculation
-  - Structural preference for high debt leverage
+  ├── Supply Rules: Discretionary expansion by central bank committees
+  ├── Access Rights: Intermediated by state-chartered financial institutions
+  └── Wealth Impact: Systematic devaluation of cash savings and wages
 
-  Bitcoin Protocol (Hard Money Standard):
-  - Immutable 21,000,000 supply cap enforced by math
-  - Symmetric verification rules for every network node
-  - Wealth preservation achieved through simple self-custody
-  - Structural preference for low time-preference savings
+  Bitcoin Network (Hard Money Standard):
+  ├── Supply Rules: Algorithmic halving schedule capped at 21 million BTC
+  ├── Access Rights: Permissionless self-custody and node verification
+  └── Wealth Impact: Absolute purchasing power preservation over long time horizons
 ```
 
-In a fiat regime, saving in baseline currency results in continuous purchasing power loss. Consequently, market participants are forced to become asset speculators, allocating capital into real estate, equities, and derivatives simply to outpace monetary dilution.
+This contrast illustrates why legacy asset managers experience cognitive dissonance. Under a fiat regime, financial success depends on proximity to credit creation. When an un-intermediated, open-source monetary asset outperforms legacy assets without relying on central bank liquidity, it exposes the artificial nature of fiat-denominated valuations.
 
-When Satoshi Nakamoto released [the Bitcoin whitepaper in 2008](https://bitcoin.org/bitcoin.pdf), the design eliminated the central issuer entirely. By enforcing a hard supply cap of 21,000,000 units via programmatic proof-of-work consensus, Bitcoin eliminated the Cantillon privilege.
+In a fiat monetary system, wealth preservation requires constant risk-taking. Savers cannot store economic value in cash due to ongoing price inflation, forcing individuals into real estate, stock markets, and complex derivative instruments simply to preserve purchasing power. This dynamic inflates asset bubbles and increases systemic financial instability across global markets.
+
+The distortion of price signals under inflationary regimes impairs economic calculation. When monetary units undergo ongoing dilution, businesses struggle to distinguish between genuine increases in consumer demand and artificial price increases caused by currency debasement.
+
+Centralized monetary planning also creates long-term structural debt cycles. As national debt loads expand faster than underlying economic productivity, central banks are forced to suppress interest rates and monetize government debt to prevent sovereign defaults. This dynamic traps economies in perpetual credit expansion, eroding currency purchasing power over successive decades.
 
 ---
 
-## 3. The Psychological Mechanism of Nocoiner Hostility
+## 3. Cognitive Dissonance and Psychological Defense Mechanisms
 
-Why does an open monetary protocol provoke intense moral condemnation from traditional financial managers?
+The term **Nocoiner** was coined in cypherpunk circles to describe critics who dismiss open monetary networks despite empirical evidence of their adoption and security resilience.
 
-The paper *The Nocoiner Syndrome (2024)* identifies three psychological drivers:
+As analyzed in the [Crypto Anarchy Institute paper](https://cryptoanarchy.institute/nocoiner-syndrome-2024.pdf), this opposition relies on three psychological defense mechanisms:
 
-### 1. The Institutional Merit Illusion
-Career professionals in banking, corporate management, and legacy economics spend decades internalizing the rules of fiat credit systems. They view financial success as the direct result of institutional compliance, academic credentials, and corporate seniority.
+1. **The Credentialism Trap:** Institutional experts spend decades mastering legacy banking rules, regulatory compliance, and central bank forecasting models. A self-sovereign monetary system renders these specialized skillsets obsolete, creating institutional pushback.
+2. **Moralizing Financial Innovation:** Critics often frame self-custody and digital privacy tools as immoral or dangerous. By characterizing decentralized networks as speculative or illegal, critics rationalize their decision to abstain from learning the underlying technology.
+3. **The Regret Function:** As Bitcoin's adoption increases over successive four-year halving cycles, the psychological cost of admitting early skepticism grows. To avoid acknowledging a strategic error, critics escalate their hostility as market capitalization expands.
 
-When early Bitcoin adopters—ranging from open-source programmers to retail enthusiasts—accumulate significant purchasing power simply by recognizing hard monetary properties, it challenges the institutional merit narrative.
+Cognitive dissonance intensifies when legacy gatekeepers observe non-credentialed individuals accumulating capital outside traditional institutional channels. In legacy finance, access to lucrative early-stage investment opportunities is restricted by accredited investor regulations. Open monetary networks bypass these gatekeepers, allowing anyone globally to participate on identical terms.
 
-### 2. Cognitive Dissonance and Moral Framing
-When confronted with an asset class that outperformed traditional portfolios while operating entirely outside central bank regulation, legacy insiders experience acute cognitive dissonance.
+Furthermore, institutional gatekeepers face reputational risks. Financial advisors and portfolio managers who failed to allocate to sovereign digital assets during early adoption cycles risk losing client trust. Recommending a new monetary paradigm requires acknowledging that traditional asset allocation models failed to anticipate decentralized monetary networks.
 
-To resolve this conflict without admitting they misunderstood monetary economics, insiders adopt moral defense mechanisms. They frame Bitcoin as an irrational bubble, an environmental hazard, or a tool for illegal activity, transforming an economic miscalculation into a moral crusade.
+In addition, institutional critics often confuse volatility with structural failure. While short-term price fluctuations reflect free-market price discovery across emerging asset classes, the underlying network metrics—hash rate security, node distribution, and transaction settlement volume—demonstrate continuous growth and resilience.
 
-### 3. Threat to Cantillon Status
-Financial sector professionals are direct beneficiaries of the Cantillon Effect. Their compensation, asset management fees, and market access rely on their proximity to central bank liquidity creation. 
-
-A global monetary baseline that cannot be inflated, manipulated, or restricted represents a direct threat to the structural advantages enjoyed by legacy financial intermediaries.
+The psychological burden of non-participation drives persistent media narratives declaring open monetary networks obsolete after every cyclical market drawdown. These recurring pronouncements obscure the underlying technical reality: open monetary networks continue to produce valid blocks deterministically regardless of speculative market sentiment.
 
 ---
 
+## 4. The Shift to Sovereign Monetary Calculation
 
-## 4. Austrian Capital Theory and Time Preference Shifts
+The resolution of Nocoiner Syndrome occurs as individuals transition from legacy financial calculation to sovereign economic calculation.
 
-To understand the deeper economic disconnect between fiat insiders and hard money holders, we must examine Austrian capital theory as developed by Eugen von Böhm-Bawerk and Ludwig von Mises.
+As documented on the [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/#events), open monetary protocols replace discretionary monetary policy with deterministic, open-source software rules.
 
-In Austrian economics, time preference refers to the ratio at which individuals value present consumption over future consumption:
+When individuals run their own full nodes and hold their own private keys, they operate independent of central bank interest rate decisions, asset freezes, and currency devaluations.
 
-- **High Time-Preference:** Preferring immediate consumption over future investment. When central banks artificially suppress interest rates and expand the credit supply, they signal to the market that capital is abundant when physical savings have not increased.
-- **Low Time-Preference:** Willingness to delay present consumption to invest in long-term, capital-intensive production processes (roundabout production methods).
+Sovereign calculation changes individual economic behavior. When backed by a hard monetary baseline, individuals adopt a lower time preference, prioritizing long-term capital accumulation and productive investment over short-term consumption. This cultural shift fosters economic stability and reduces reliance on debt-driven consumption models.
 
-Under a fiat monetary standard where currency loses purchasing power every year, market participants are incentivized to maintain high time-preference behavior. Saving cash yields negative real returns after inflation, driving individuals toward immediate debt-fueled consumption or speculative asset trading.
-
-```
-Time-Preference Monetary Dynamics:
-
-  Fiat Standard (Expansionary Money):
-  ├── Real Cash Yields: Negative (Purchasing power declines continuously)
-  ├── Consumer Behavior: Encourages high debt consumption & asset speculation
-  └── Economic Impact: Short-term quarterly orientation & capital misallocation
-
-  Hard Money Standard (Fixed 21M Supply):
-  ├── Real Cash Yields: Positive/Neutral (Purchasing power increases with productivity)
-  ├── Consumer Behavior: Encourages low time-preference savings & capital accumulation
-  └── Economic Impact: Long-term planning, sustainable investment & economic stability
-```
-
-When individuals adopt a fixed-supply asset like Bitcoin, their monetary baseline changes. Because programmatic supply caps ensure that purchasing power cannot be diluted by central bank issuance, holders experience a structural shift toward low time-preference behavior - prioritizing long-term savings, capital preservation, and sustainable investment over short-term speculative borrowing.
+Direct node verification restores individual sovereignty over financial records. In legacy banking systems, account balances exist as database entries managed by third-party intermediaries who can restrict access or freeze funds upon government order. Operating a full node allows individuals to verify state transitions independently without trusting financial intermediaries.
 
 ---
 
-## 5. Quantitative Analysis of Purchasing Power Erosion
+## 5. Institutional Adaptation and the Future of Money
 
-Comparing the long-term performance of major asset classes against expanding central bank balance sheets demonstrates why traditional cash savings have failed to preserve purchasing power over multi-decade horizons.
+As institutional capital enters digital asset markets through spot ETFs and corporate treasury allocations, the boundary between legacy finance and sovereign monetary networks continues to blur.
 
-According to data compiled from official reserve banks, global fiat currencies have lost over 95% of their purchasing power relative to gold and hard commodities since the closure of the gold window in 1971.
+While legacy institutions adapt to digital assets by creating custodial products, the core cypherpunk principles of Bitcoin—self-custody, permissionless verification, and fixed supply—remain accessible to any individual with an internet connection.
 
-| Asset / Metric | 10-Year Purchasing Power Trend | Structural Issuer Risk | Verification Model |
-|---|---|---|---|
-| **US Dollar (M2 Cash)** | Decreasing (-30% to -45%) | High (Central Bank Expansion) | Trusted Central Bank |
-| **S&P 500 Equities** | Increasing (+150% to +200%) | Moderate (Corporate Earnings / Debt) | Audited Financial Reports |
-| **Physical Gold** | Increasing (+80% to +120%) | Low (Physical Supply Constraints) | Chemical Assaying |
-| **Bitcoin Protocol** | Increasing (+2,000%+) | Zero (Programmatic 21M Cap) | Independent Node Verification |
+Understanding the economic drivers of monetary skepticism highlights the ongoing transition from discretionary fiat banking to open, programmatic monetary protocols.
 
-Because traditional financial managers operate within institutions funded by fiat credit expansion, acknowledging the mathematical reality of purchasing power dilution requires questioning the foundational assumptions of state-managed central banking.
+As monetary adoption expands globally, the structural advantages of hard, permissionless money become increasingly apparent. The transition toward open monetary baselines represents a fundamental shift in how humanity organizes economic exchange and preserves value across time.
 
+By providing an alternative monetary standard, open-source protocols ensure that individuals worldwide retain access to un-censorable money, fostering economic freedom and personal sovereignty in an increasingly digital world.
 
-## 6. Historical Precedents: State Monopolies and Currency Competition
-
-Resistance to non-state money has recurred throughout monetary history.
-
-In [The Denationalization of Money (1976)](https://mises.org/library/denationalization-money-argument-refined), Nobel laureate Friedrich A. Hayek argued that government monopolies over money creation are inherently unstable:
-
-> "The past instability of the market economy is the consequence of the exclusion of the most important regulator of the market mechanism, money, from itself being regulated by the market process."
-
-Hayek proposed abolishing government currency monopolies and allowing private entities and market forces to offer competing currencies. 
-
-```
-Historical Monetary Transitions:
-
-  Roman Empire (3rd Century AD):
-  - Severe silver debasement of the Denarius
-  - Price controls failed to halt purchasing power collapse
-  - Flight to physical gold and direct commodity trade
-
-  Weimar Republic (1921-1923):
-  - Hyperinflation of the Papiermark to fund state debt
-  - Savings wiped out while real asset owners retained value
-  - Eventual stabilization via Rentenmark hard backing
-
-  Modern Digital Era (2008-Present):
-  - Unprecedented global central bank balance sheet expansion
-  - Emergence of algorithmic, un-debasable digital money (Bitcoin)
-  - Shift toward self-sovereign cryptographic assets
-```
-
-Just as 17th-century European monarchs attempted to outlaw private gold minting to protect seigniorage profits, modern state institutions attempt to restrict open-source cryptographic money to preserve fiat monetary control.
+Understanding this economic shift empowers individuals to navigate changing financial systems with confidence, autonomy, and long-term financial clarity. Open monetary networks demonstrate that mathematical code can serve as a neutral, global foundation for human collaboration.
 
 ---
 
-## 7. Systemic Implications of Hard Digital Baselines
-
-As global debt levels expand and central banks continue monetizing fiscal deficits, the economic incentive to hold un-debasable digital assets increases.
-
-The emergence of open monetary protocols creates a permanent alternative to fiat banking. Individuals, corporations, and sovereign entities can now choose between:
-
-1. **The Fiat Credit System:** Subject to political control, supply dilution, administrative freeze, and Cantillon redistribution.
-2. **The Cryptographic Standard:** Enforced by mathematics, open-source code, distributed node verification, and strict supply caps.
-
-Understanding Nocoiner Syndrome clarifies that hostility toward open protocols is rarely a technical critique. It is the natural reaction of an institutional class facing the gradual dismantling of its monetary privileges.
-
----
-
-## 8. Reference Index (10 Primary Sources)
+## 6. Reference Index (10 Primary Sources)
 
 1. **Crypto Anarchy Institute (2024):** [The Nocoiner Syndrome Research Paper](https://cryptoanarchy.institute/nocoiner-syndrome-2024.pdf).
 2. **Cantillon, R. (1755):** [Essay on the Nature of Trade in General](https://mises.org/library/essay-nature-trade-general).
-3. **Nakamoto, S. (2008):** [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
-4. **Hayek, F. A. (1976):** [The Denationalization of Money: An Analysis of the Theory and Practice of Concurrent Currencies](https://mises.org/library/denationalization-money-argument-refined).
-5. **Ammous, S. (2018):** [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://saifedean.com/the-bitcoin-standard/).
-6. **Federal Reserve Bank of St. Louis (2022):** [M2 Money Supply Historical Series (M2SL)](https://fred.stlouisfed.org/series/M2SL).
-7. **Crypto Anarchy Wiki:** [Cypherpunks History and Monetary Theory Archive](https://cryptoanarchy.wiki).
-8. **Satoshi Nakamoto Institute:** [Historical Cryptographic Literature Archive](https://nakamotoinstitute.org/literature/).
-9. **Szabo, N. (2005):** [Bit Gold Architectural Proposal](https://nakamotoinstitute.org/bit-gold/).
-10. **Finney, H. (2004):** [Reusable Proofs of Work Engine Specification](https://nakamotoinstitute.org/reusable-proofs-of-work/).
+3. **Ammous, S. (2018):** [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://saifedean.com/the-bitcoin-standard/).
+4. **Federal Reserve Bank of St. Louis:** [M2 Money Supply Database (M2SL)](https://fred.stlouisfed.org/series/M2SL).
+5. **Nakamoto, S. (2008):** [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
+6. **Crypto Anarchy Wiki:** [Monetary Theory and Cypherpunk History](https://cryptoanarchy.wiki/#events).
+7. **Hayek, F. A. (1976):** [Denationalisation of Money: The Argument Refined](https://mises.org/library/denationalisation-money-argument-refined).
+8. **Szabo, N. (2005):** [Bit Gold Protocol Specification](https://nakamotoinstitute.org/bit-gold/).
+9. **Mises, L. v. (1912):** [The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit).
+10. **Breedlove, R. (2020):** [The Masters and Slaves of Money](https://medium.com).

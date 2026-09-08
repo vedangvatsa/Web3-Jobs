@@ -111,6 +111,41 @@ Instead of transferring funds into a central market wallet, second-generation da
 
 $$\text{RedeemScript} = \text{2 } [\text{PubKey}_{\text{Buyer}}] \ [\text{PubKey}_{\text{Seller}}] \ [\text{PubKey}_{\text{Arbiter}}] \ \text{3 CheckMultiSig}$$
 
+<div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
+  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: 2-of-3 Multi-Signature Escrow Execution State Machine</div>
+  <svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
+    <!-- State 1: Locked Escrow -->
+    <g transform="translate(100, 110)">
+      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1.5"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Locked Escrow</text>
+      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Buyer Deposits BTC</text>
+      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">2-of-3 Script Active</text>
+    </g>
+
+    <!-- Arrow 1 -->
+    <line x1="160" y1="110" x2="280" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+    <!-- State 2: Normal Settlement -->
+    <g transform="translate(340, 110)">
+      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Normal Execution</text>
+      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Buyer + Seller Sign</text>
+      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#10b981">Funds to Seller</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <line x1="400" y1="110" x2="520" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+    <!-- State 3: Dispute Resolution -->
+    <g transform="translate(580, 110)">
+      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#f59e0b">Dispute Resolution</text>
+      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Arbiter + 1 Party Sign</text>
+      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#f59e0b">Refund or Release</text>
+    </g>
+  </svg>
+</div>
+
 This cryptographic script specifies that funds locked within the escrow address can only be transferred if at least two of the three designated cryptographic public keys produce valid digital signatures:
 
 - **Uncontested Execution:** Upon verified receipt of goods or services, the buyer signs a transaction releasing funds to the seller's public key. The seller co-signs the transaction. The escrow resolves peer-to-peer without requiring market operator involvement or paying central transaction fees.

@@ -77,6 +77,41 @@ The split between corporate compliant infrastructure and sovereign code is visib
 
 Following Ethereum's transition to Proof of Stake, block production adopted Maximal Extractable Value (MEV) builder-relay architectures via [Flashbots MEV-Boost](https://flashbots.net).
 
+<div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
+  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Proposer-Builder Separation (PBS) with Inclusion Lists</div>
+  <svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
+    <!-- Block Builder -->
+    <g transform="translate(100, 110)">
+      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1.5"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#f59e0b">Block Builder</text>
+      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Constructs Block Payload</text>
+      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Optimizes MEV Bids</text>
+    </g>
+
+    <!-- Arrow 1 -->
+    <line x1="160" y1="110" x2="280" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+    <!-- Inclusion List Guard -->
+    <g transform="translate(340, 110)">
+      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Inclusion List Guard</text>
+      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Forces Uncensored UTXOs</text>
+      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#10b981">Prevents Relay Censorship</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <line x1="400" y1="110" x2="520" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+    <!-- Block Proposer -->
+    <g transform="translate(580, 110)">
+      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1.5"/>
+      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Validator Proposer</text>
+      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Signs Block Execution</text>
+      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#3b82f6">Publishes to P2P Net</text>
+    </g>
+  </svg>
+</div>
+
 ```
 Infrastructure Censorship Profile Matrix:
 
