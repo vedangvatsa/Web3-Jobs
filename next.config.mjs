@@ -122,8 +122,9 @@ const nextConfig = {
       { source: '/logo/companies/KPMG.webp', destination: '/logo/companies/kpmg.webp' },
       { source: '/logo/hashtagweb3.png', destination: '/logo/HashtagWeb3.png' },
       { source: '/feed-aggregator.xml', destination: '/jobs/feed-aggregator.xml' },
-      { source: '/adzuna.xml', destination: '/jobs/adzuna.xml' },
       { source: '/logo-bimi.svg', destination: '/logo/logo-bimi.svg' },
+      { source: '/bimi.svg', destination: '/logo/bimi.svg' },
+      { source: '/bimi.png', destination: '/logo/bimi.png' },
       {
         source: '/api/v1/:path*',
         destination: '/api/:path*',
