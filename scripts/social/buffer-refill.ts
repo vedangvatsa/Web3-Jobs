@@ -163,13 +163,16 @@ async function schedulePost(
  dueAt,
  };
 
+ // NOTE: Buffer's AssetInput is a OneOf with SINGULAR keys (`image` /
+ // `video`), not arrays. `images: [...]` is rejected with
+ // 'Field "images" is not defined by type "AssetInput"'.
  if (videoUrl) {
  input.assets = {
- videos: [{ url: videoUrl }],
+ video: { url: videoUrl },
  };
  } else if (imageUrl) {
  input.assets = {
- images: [{ url: imageUrl, thumbnailUrl: imageUrl }],
+ image: { url: imageUrl, thumbnailUrl: imageUrl },
  };
  }
 

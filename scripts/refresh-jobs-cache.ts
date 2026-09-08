@@ -1650,7 +1650,7 @@ async function refreshJobsCache() {
   }
 
   // --- Workday CXS Sources ---
-  const WORKDAY_BOARDS = [
+  const WORKDAY_CXS_BOARDS = [
     {
       company: 'CoinDesk',
       domain: 'bullish.wd3.myworkdayjobs.com',
@@ -1667,7 +1667,7 @@ async function refreshJobsCache() {
     }
   ];
 
-  for (const wd of WORKDAY_BOARDS) {
+  for (const wd of WORKDAY_CXS_BOARDS) {
     registerDirectSource('Workday', wd.site, wd.company);
     try {
       const listUrl = `https://${wd.domain}/wday/cxs/${wd.tenant}/${wd.site}/jobs`;
