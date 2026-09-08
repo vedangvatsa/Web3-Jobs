@@ -169,7 +169,7 @@ export function middleware(request: NextRequest) {
   // 1. Social UTM suffix shortcuts
   // Strip recognised social-suffix path segments and replace with UTM params.
   // Only runs for non-API, non-static paths.
-  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.endsWith('.xml')) {
+  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.endsWith('.xml') && !/\.(?:svg|png|jpg|jpeg|gif|webp|ico|pdf)$/i.test(pathname)) {
     const normalised = pathname.replace(/\/+$/, '');
     const lastSlashIdx = normalised.lastIndexOf('/');
 
