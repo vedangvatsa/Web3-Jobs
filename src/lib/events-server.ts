@@ -161,13 +161,14 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
   found = events.find(e => e.id.toLowerCase() === normalized || e.id.replace(/^(premier|side)-/, '').toLowerCase() === normalized);
   if (found) return found;
 
-  // 3. Fallback match for legacy URLs containing date/location suffixes
-  found = events.find(e => {
-    const clean = getEventSlug(e);
-    return normalized.startsWith(clean) || clean.startsWith(normalized.replace(/-\d{4}-\d{2}-\d{2}$/, ''));
-  });
+  // 3. Fallback match ONLY for legacy URLs containing date/location suffixes (e.g. -2026-09-08)
+  if (/-\d{4}-\d{2}-\d{2}$/.test(normalized)) {
+    const baseSlug = normalized.replace(/-\d{4}-\d{2}-\d{2}$/, '');
+    found = events.find(e => getEventSlug(e) === baseSlug);
+    if (found) return found;
+  }
 
-  return found || null;
+  return null;
 }
 
 export async function getRelatedEvents(currentEvent: Web3Event, limit: number = 3): Promise<Web3Event[]> {
