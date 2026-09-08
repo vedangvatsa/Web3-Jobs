@@ -56,6 +56,10 @@ async function runMiddlewareTests() {
     { name: 'TelegramBot', ua: 'TelegramBot (like TwitterBot)' },
     { name: 'LinkedInBot', ua: 'LinkedInBot/1.0' },
     { name: 'Meta-ExternalAgent', ua: 'Meta-ExternalAgent/1.0' },
+    { name: 'Meta-ExternalFetcher', ua: 'Meta-ExternalFetcher/1.1' },
+    { name: 'BufferBot', ua: 'BufferBot/1.0' },
+    { name: 'redditbot', ua: 'redditbot/1.0' },
+    { name: 'Applebot', ua: 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.4 Safari/605.1.15 (Applebot/0.1)' },
   ];
 
   for (const bot of crawlerBots) {
