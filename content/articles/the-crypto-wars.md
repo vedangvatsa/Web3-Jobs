@@ -174,4 +174,3 @@ Preserving explicit constitutional protections for software developers ensures t
 The resolution of Crypto Wars 2.0 will determine whether digital privacy tools remain accessible to citizens worldwide. Just as the resolution of Crypto Wars 1.0 enabled secure global web commerce, protecting developer speech rights today ensures that future generations can build transparent, sovereign, and privacy-respecting digital systems.
 
 Software developers, legal scholars, and civil liberties advocates continue to push for explicit legislative protections for open-source protocol authors. Ensuring that non-custodial developers are protected from administrative overreach is essential for maintaining technological innovation, scientific inquiry, and individual digital rights in the 21st century.
-

@@ -318,4 +318,3 @@ In a follow-up experiment documented in the [Simplex-TDA Predictive Validation R
 - **Predictive Performance:** Incorporating TDA features improved 7-day elevated volatility classification AUC from 0.480 to 0.523 (surviving FDR statistical corrections and placebo-shuffle tests).
 - **Protocol Risk Management:** Lending protocols like [Aave](https://aave.com) and [Compound](https://compound.finance) can use real-time `highInput` Wasserstein distance monitoring to adjust collateral factors dynamically before liquidation cascades trigger.
 - **Forensic Security:** Exchange security teams can track `medInput` structural loops to detect unauthorized cold-storage fund laundering in real time.
-

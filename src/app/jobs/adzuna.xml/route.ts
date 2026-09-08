@@ -6,6 +6,15 @@ import * as cheerio from 'cheerio';
 
 export const revalidate = 3600; // Revalidate every hour
 
+function escapeXml(unsafe: string): string {
+  return unsafe
+    .replace(/&/g, '&amp;')
+    .replace(/</g, '&lt;')
+    .replace(/>/g, '&gt;')
+    .replace(/"/g, '&quot;')
+    .replace(/'/g, '&apos;');
+}
+
 /**
  * Maps Web3 / Tech job departments and titles to Adzuna's standard 29 category IDs & labels.
  * Reference: https://www.adzuna.co.uk/jobs/xml-specification.html#JobCategories
@@ -87,15 +96,17 @@ export async function GET() {
       .trim();
 
     // Adzuna Requirement: description MUST contain HTML formatting and MUST be minimum 100 characters
-    let rawContent = job.description || '';
-    let synthesizedHtml = buildSynthesizedJobContent(job, rawContent);
+    let synthesizedHtml = (job.description && job.description.length > 50) ? job.description : '';
 
-    // If description length is under 120 chars, expand with structured application instructions
+    const companyName = job.company || 'Web3 Ecosystem Partner';
+    const cleanCompany = escapeXml(companyName);
+
     if (getPlainTextLength(synthesizedHtml) < 120) {
-      synthesizedHtml += `
-<p><strong>About ${job.company}:</strong> ${job.company} is actively hiring for the position of <strong>${cleanTitle}</strong>. This role involves developing protocols, smart contracts, and Web3 infrastructure.</p>
-<p><strong>Location & Setup:</strong> ${job.location || 'Remote / Flexible'}</p>
-<p><strong>How to Apply:</strong> Click the apply link below to view full requirements and submit your application on Hashtag Web3.</p>
+      synthesizedHtml = `
+<p><strong>About ${cleanCompany}:</strong> ${cleanCompany} is actively recruiting for the position of <strong>${escapeXml(cleanTitle)}</strong> (${escapeXml(job.department || 'Web3 / Engineering')}).</p>
+<p><strong>Location & Setup:</strong> ${escapeXml(job.location || 'Remote / Flexible')}</p>
+<p><strong>Overview:</strong> Contribute directly to ${cleanCompany}'s Web3, smart contract, and blockchain infrastructure. Complete candidate qualifications and application instructions are available on Hashtag Web3.</p>
+<p><a href="${canonicalUrl}">View full posting details and apply online on Hashtag Web3</a></p>
       `.trim();
     }
 
@@ -134,7 +145,7 @@ export async function GET() {
     }
 
     const { id: categoryId, name: categoryName } = mapToAdzunaCategory(cleanTitle, job.department);
-    const { contract_type, contract_time } = getContractDetails(job.type, cleanTitle);
+    const { contract_type, contract_time } = getContractDetails((job as any).type, cleanTitle);
     const formattedDate = job.date ? new Date(job.date).toISOString().split('T')[0] : new Date().toISOString().split('T')[0];
 
     const xmlNode = `  <job>

@@ -206,4 +206,3 @@ From David Chaum's mix networks and Phil Zimmermann's PGP encryption to Satoshi 
 As long as open data networks exist, the cypherpunk imperative to build sovereign, privacy-preserving software will continue to drive global technological innovation.
 
 By embedding cryptographic guarantees directly into code, developers build persistent software networks that operate outside central control, safeguarding digital rights for future generations.
-

@@ -186,4 +186,3 @@ When centralized servers proved vulnerable to legal seizure, developers engineer
 By decoupling commercial coordination from physical web servers and central financial intermediaries, non-custodial protocols ensure that peer-to-peer commerce and private communication remain accessible across global data networks.
 
 The broader societal implications of these technical developments extend far beyond informal marketplaces. The underlying cryptographic protocols engineered to enable sovereign darknet commerce now power censor-resistant communications for journalists in authoritarian regimes, non-custodial remittance networks for unbanked populations, and privacy-preserving payment rails for global trade. Modern privacy tools demonstrate that mathematical code, once published, operates independently of geography, legal jurisdiction, or centralized control.
-
