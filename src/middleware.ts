@@ -189,6 +189,7 @@ export function middleware(request: NextRequest) {
         }
 
         // Detect social crawlers / link preview bots (Twitterbot, LinkedInBot, facebookexternalhit, Meta-ExternalAgent, Slackbot, TelegramBot, Discordbot, WhatsApp, etc.)
+        // Link preview bots must receive a 200 with OG tags directly: LinkedIn and Meta do not reliably follow 307 redirects when scraping previews.
         const ua = request.headers.get('user-agent') || '';
         const isSocialCrawler = /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster|Buffer|BufferBot|redditbot|Applebot|LinkedIn|embedly|quora link preview|outbrain|vkShare|W3C_Validator/i.test(ua);
         if (isSocialCrawler) {
