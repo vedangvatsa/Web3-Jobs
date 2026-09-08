@@ -19,7 +19,7 @@ export function CompanyCard({
       <Card className="flex h-full flex-col border-border/70 bg-card shadow-none hover:border-foreground/25 transition-colors">
         <CardHeader className="pb-3 pt-4 px-4">
           <div className="flex items-center gap-3">
-            <div className="h-10 w-10 rounded-md border border-border/60 bg-muted/40 p-1.5 shrink-0 flex items-center justify-center">
+            <div className="h-10 w-10 shrink-0 flex items-center justify-center">
               <CompanyLogo logoSrc={logoUrl ?? null} faviconUrl={faviconUrl ?? null} name={company.name} size="h-full w-full" />
             </div>
             <div className="min-w-0">

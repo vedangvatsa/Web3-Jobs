@@ -295,7 +295,7 @@ export function JobDetailView({
 
       <header className="border-b pb-8">
         <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex h-16 w-16 shrink-0 items-center justify-center rounded-lg border bg-background p-2">
+          <div className="flex h-16 w-16 shrink-0 items-center justify-center">
             <CompanyLogo
               logoSrc={logoSrc ?? faviconUrl}
               faviconUrl={faviconUrl}
