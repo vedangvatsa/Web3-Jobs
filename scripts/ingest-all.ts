@@ -390,6 +390,9 @@ const UNTRACKED_FEEDS: FeedConfig[] = [
   { company: 'Succinct Labs',    type: 'ashby',  slug: 'succinct',         url: 'https://api.ashbyhq.com/posting-api/job-board/succinct',        skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Magic Eden',       type: 'ashby',  slug: 'magiceden',        url: 'https://api.ashbyhq.com/posting-api/job-board/magiceden',       skills: ['Web3','Blockchain','Crypto','AI','Security'] },
   { company: 'Foundation',       type: 'ashby',  slug: 'foundation',       url: 'https://api.ashbyhq.com/posting-api/job-board/foundation',      skills: ['Web3','Blockchain','Crypto','AI','Security'] },
+  { company: 'Alpen Labs',       type: 'ashby',  slug: 'alpenlabs',        url: 'https://api.ashbyhq.com/posting-api/job-board/alpenlabs',       skills: ['Web3','Bitcoin','Zero Knowledge','DeFi','Layer2'] },
+  { company: 'Meow',             type: 'ashby',  slug: 'meow',             url: 'https://api.ashbyhq.com/posting-api/job-board/meow',             skills: ['Web3','Fintech','Crypto','Compliance','Banking'] },
+  { company: 'Biti',             type: 'ashby',  slug: 'biti',             url: 'https://api.ashbyhq.com/posting-api/job-board/biti',             skills: ['Web3','Crypto','DeFi','Design','Wallet'] },
 ];
 
 // Fresh feeds with 30-day cutoff (formerly ingest-fresh-web3-companies + ingest-a16z-crypto-portfolio)
