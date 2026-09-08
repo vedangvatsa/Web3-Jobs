@@ -1,42 +1,42 @@
 [
   {
-    "slug": "building-a-career-as-a-web3-blockchain-infrastructure-engineer",
-    "title": "Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and Systems Architecture",
-    "description": "A technical roadmap and systems architecture guide for blockchain infrastructure engineers, covering RPC node orchestration, validator sentry architecture, NVMe storage optimization, indexer pipelines, and career progression.",
-    "category": "General",
-    "publishedDate": "2026-09-07",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=Building%20a%20Career%20as%20a%20Web3%20Blockchain%20Infrastructure%20Engineer%20Roadmap%20and%20Systems%20Architecture&category=General"
+    "slug": "corporate-crypto-vs-sovereign-code",
+    "title": "Corporate Crypto vs Sovereign Code",
+    "description": "An investigative thesis on the growing split between regulated corporate crypto infrastructure and sovereign open-source protocols.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-09-08",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=Corporate%20Crypto%20vs%20Sovereign%20Code&category=Technology%20Deep%20Dives"
   },
   {
-    "slug": "exploring-career-opportunities-as-a-web3-blockchain-validator",
-    "title": "Exploring Career Opportunities as a Web3 Blockchain Validator Infrastructure and Operations",
-    "description": "A detailed engineering blueprint for blockchain validator operations, covering Proof-of-Stake consensus mechanics, key management, slashing protection, MEV-boost integration, and career progression.",
-    "category": "General",
-    "publishedDate": "2026-09-07",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=Exploring%20Career%20Opportunities%20as%20a%20Web3%20Blockchain%20Validator%20Infrastructure%20and%20Operations&category=General"
+    "slug": "darknet-markets-and-sovereign-code",
+    "title": "Darknet Markets and Sovereign Code",
+    "description": "An investigative thesis exploring the evolution of darknet commerce, onion routing, multi-signature escrow, and non-custodial peer-to-peer protocols.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-09-08",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=Darknet%20Markets%20and%20Sovereign%20Code&category=Technology%20Deep%20Dives"
   },
   {
-    "slug": "how-to-become-a-web3-liquidity-provider-in-decentralized-finance",
-    "title": "Technical Guide to Becoming a Web3 Liquidity Provider and Quantitative Market Maker",
-    "description": "An architecture guide to decentralized liquidity provision, covering automated market maker mechanics, concentrated liquidity math, impermanent loss hedging, smart contract integration, and career pathways.",
-    "category": "General",
-    "publishedDate": "2026-09-07",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=Technical%20Guide%20to%20Becoming%20a%20Web3%20Liquidity%20Provider%20and%20Quantitative%20Market%20Maker&category=General"
+    "slug": "history-of-crypto-anarchy",
+    "title": "History of Crypto Anarchy",
+    "description": "An investigative thesis tracing the 40-year evolution of cypherpunk philosophy, asymmetric cryptography, and sovereign software systems.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-09-08",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=History%20of%20Crypto%20Anarchy&category=Technology%20Deep%20Dives"
   },
   {
-    "slug": "how-to-transition-from-web2-to-web3-cybersecurity-specialist",
-    "title": "How to Transition from Web2 to Web3 Cybersecurity Specialist Architecture and Audit Blueprint",
-    "description": "A transition blueprint for Web2 security professionals moving into Web3, covering EVM security primitives, reentrancy vulnerabilities, formal verification, fuzzing tools, and audit methodologies.",
-    "category": "General",
-    "publishedDate": "2026-09-07",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=How%20to%20Transition%20from%20Web2%20to%20Web3%20Cybersecurity%20Specialist%20Architecture%20and%20Audit%20Blueprint&category=General"
+    "slug": "shape-of-ethereum",
+    "title": "The Shape of Ethereum",
+    "description": "A 6-year study of topological anomaly detection on Ethereum by Matan Prasma and Uri Yacobi Keller analyzing structural network shifts from 2020 to 2025.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-09-08",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=The%20Shape%20of%20Ethereum&category=Technology%20Deep%20Dives"
   },
   {
-    "slug": "the-future-of-web3-cross-border-payment-systems-and-jobs",
-    "title": "The Future of Web3 Cross Border Payment Systems Systems Architecture and Career Opportunities",
-    "description": "A comprehensive engineering guide to Web3 cross-border payment architectures, stablecoin settlement rails, Travel Rule compliance, instant fiat off-ramps, and career opportunities.",
-    "category": "General",
-    "publishedDate": "2026-09-07",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=The%20Future%20of%20Web3%20Cross%20Border%20Payment%20Systems%20Systems%20Architecture%20and%20Career%20Opportunities&category=General"
+    "slug": "the-crypto-wars",
+    "title": "The Crypto Wars",
+    "description": "An investigative thesis examining the legal battles over software encryption, source code as speech, and zero-knowledge privacy protocols.",
+    "category": "Technology Deep Dives",
+    "publishedDate": "2026-09-08",
+    "image": "https://hashtagweb3.com/api/og?type=article&title=The%20Crypto%20Wars&category=Technology%20Deep%20Dives"
   }
 ]
