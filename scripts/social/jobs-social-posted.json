@@ -1,5 +1,5 @@
 {
-  "lastIndex": 116,
+  "lastIndex": 117,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -28,7 +28,8 @@
     "role48004",
     "joba31d1",
     "security29764",
-    "job31002"
+    "job31002",
+    "role52517"
   ],
   "history": [
     {
@@ -822,6 +823,14 @@
       "platform": "facebook",
       "postedAt": "2026-09-08T06:02:15.290Z",
       "postId": "691827047618629_1082858157654752"
+    },
+    {
+      "slug": "role52517",
+      "company": "Wintermute",
+      "title": "Graduate Algorithmic Trader 2027",
+      "platform": "x",
+      "postedAt": "2026-09-08T09:38:07.505Z",
+      "postId": "2097258170578088055"
     }
   ]
 }
