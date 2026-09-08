@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-08T11:43:29.272Z",
+  "generatedAt": "2026-09-08T12:06:48.824Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4228,
+  "count": 4551,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -44,6 +44,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/3jane",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/a-complete-guide-to-balaji-srinivasan-on-web3",
@@ -190,6 +196,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/agora",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/ai-accountability-governance-models",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -323,7 +335,7 @@
     },
     {
       "url": "https://hashtagweb3.com/amber-group",
-      "lastmod": "2026-09-03",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -342,6 +354,96 @@
     {
       "url": "https://hashtagweb3.com/analista1",
       "lastmod": "2026-09-02",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-c59ef007-3dc9-4151-8c67-93cc5148d9ca-fin",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-chainalysis-careers-2cf26399-8db1-48af-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-chainalysis-careers-63b555b7-0b53-4355-8",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-chainalysis-careers-f28e555e-ba54-4ea5-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-jobs-647",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-jobs-693",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-jobs-695",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-jobs-be8cca56-3036-420c-adb0-04c943c0b8c",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-kalshi-72111d46-0815-47bf-bad2-152cf530b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-moonpay-b97348f3-01a7-4b57-9985-b5f7f291",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-moonpay-e42e3201-53dc-40a5-9d36-1fcdcc5c",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-view-business-operations-analyst-otc-and",
+      "lastmod": "2026-08-12",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-view-expense-analyst-at-bit-official-445",
+      "lastmod": "2026-08-27",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-view-operational-risk-analyst-at-bit-off",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/analyst-view-treasury-analyst-at-bit-official-44",
+      "lastmod": "2026-08-28",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -910,6 +1012,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/andromeda",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/animoca-brands",
       "lastmod": "2026-09-08",
       "changefreq": "weekly",
@@ -992,6 +1100,18 @@
       "lastmod": "2026-08-17",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/architect-andromeda-a365f059-8753-4d1c-ae48-2a2570",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/architect-jobs-5372610008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/architect1",
@@ -1090,12 +1210,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/architect5",
-      "lastmod": "2026-08-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/architect6",
       "lastmod": "2026-09-01",
       "changefreq": "daily",
@@ -1146,6 +1260,36 @@
     {
       "url": "https://hashtagweb3.com/assoc1",
       "lastmod": "2026-08-10",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/associate-agora-am9icg9zddraxmet5s3erz4putwqi-44",
+      "lastmod": "2026-08-29",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/associate-gauntlet-762133af-1796-4f50-a5ef-aa3628e",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/associate-jobs-705",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/associate-kalshi-bd412c3c-b8a4-4d2e-a11a-489a96087",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/associate-view-human-resources-associate-at-amber",
+      "lastmod": "2026-09-03",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -1228,14 +1372,8 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/associate21",
-      "lastmod": "2026-08-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/associate22",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -1600,6 +1738,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/axiom",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/aztec-labs",
       "lastmod": "2026-09-03",
       "changefreq": "weekly",
@@ -1610,6 +1754,54 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/babylon-labs",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-ellipsislabs-a6322c32-9142-4146-9429-bcf",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-jobs-1935787247464595850",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-jobs-4915295008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-jobs-5024398008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-jobs-5172413008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/backend-limitbreak-e1f8a0f2-4114-436d-bafa-0a812",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/backend1",
@@ -2189,7 +2381,7 @@
     },
     {
       "url": "https://hashtagweb3.com/bitso",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -2608,12 +2800,6 @@
       "priority": 0.7
     },
     {
-      "url": "https://hashtagweb3.com/business1",
-      "lastmod": "2026-08-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/business2",
       "lastmod": "2026-08-03",
       "changefreq": "daily",
@@ -2692,6 +2878,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/category-labs",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/cbdc",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -2723,7 +2915,7 @@
     },
     {
       "url": "https://hashtagweb3.com/chainalysis",
-      "lastmod": "2026-09-01",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -3184,6 +3376,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/coinswitch-kuber",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/cointelegraph",
       "lastmod": "2026-09-02",
       "changefreq": "weekly",
@@ -3208,8 +3406,14 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/commercial-andromeda-743fc042-3861-41db-bef7-40bff2",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/commercial2",
-      "lastmod": "2026-08-14",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -3334,6 +3538,66 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/compliance-jobs-675",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-jobs-684",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-jobs-697",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-jobs-703",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-jobs-84704ee4-8379-442c-b625-e06e162b3bc",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-kalshi-20f6c227-687f-47ea-a7fd-95e93aeba",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-view-compliance-officer-kyc-at-bit-offic",
+      "lastmod": "2026-08-19",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-view-compliance-officer-transaction-moni",
+      "lastmod": "2026-08-19",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-view-head-of-compliance-at-amber-group-4",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/compliance-view-legal-assistant-at-bit-official-446",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/compliance1",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
@@ -3401,7 +3665,7 @@
     },
     {
       "url": "https://hashtagweb3.com/compliance109",
-      "lastmod": "2026-08-12",
+      "lastmod": "2026-08-13",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -3485,7 +3749,7 @@
     },
     {
       "url": "https://hashtagweb3.com/compliance120",
-      "lastmod": "2026-08-06",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -4060,6 +4324,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/compute-andromeda-879656c0-bdf6-4358-8751-b0bece",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/concentrated-liquidity",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -4174,6 +4444,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/corporate-view-corporate-secretary-at-bit-official",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/corporate1",
       "lastmod": "2026-08-04",
       "changefreq": "daily",
@@ -4222,6 +4498,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/creative-madrealities-notion-site-creative-produc",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/creative1",
       "lastmod": "2026-09-03",
       "changefreq": "daily",
@@ -4236,6 +4518,12 @@
     {
       "url": "https://hashtagweb3.com/creative3",
       "lastmod": "2026-08-13",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/credit-gauntlet-052b6020-6b4d-4514-b2aa-3044297",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -4262,6 +4550,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/crown",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
     },
     {
       "url": "https://hashtagweb3.com/crypto-com",
@@ -4330,6 +4624,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/cryptography-axiom-363ab5a7-499a-48b6-9ed1-ebb44df570",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/cryptography1",
       "lastmod": "2026-09-03",
       "changefreq": "daily",
@@ -4358,6 +4658,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/customer-view-customer-support-specialist-at-bit",
+      "lastmod": "2026-08-28",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/customer1",
@@ -4414,6 +4720,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/d3",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/dao",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -4448,6 +4760,18 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/data-divineresearch-ca551089-7027-4918-9f52-f",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/data-hang-c497f91c-9495-45ec-b4d5-8c76a9ef62e",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/data-science-vs-ai-engineer-comparison",
@@ -4588,6 +4912,18 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/deployment-chainalysis-careers-384152b3-a9ec-4850-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/deployment-chainalysis-careers-e326a0e9-694e-4dad-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/deployment-checklists-for-solana-developer",
       "lastmod": "2026-05-17",
       "changefreq": "monthly",
@@ -4624,6 +4960,18 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/deputy-moonpay-a129f77d-facb-4541-8c7e-d970a44e",
+      "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/deputy-view-deputy-head-kyc-at-bit-official-445",
+      "lastmod": "2026-08-14",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/deputy1",
       "lastmod": "2026-08-25",
       "changefreq": "daily",
@@ -4636,8 +4984,44 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/design-paradigm-e1446f34-a963-4df9-bab8-e49e7fc",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/design1",
       "lastmod": "2026-08-26",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/designer-ellipsislabs-d099bdee-5f4f-4d36-89b0-15e",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/designer-jobs-5026037008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/designer-limitbreak-af037b3c-fcf7-4e5a-b8e1-bb33a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/designer-limitbreak-d84e640f-3c37-4e5a-ba59-c5735",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/designer-view-brand-creative-designer-at-bit-offi",
+      "lastmod": "2026-08-19",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -4802,6 +5186,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/developer-view-senior-golang-developer-at-bit-offi",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/developer1",
@@ -5072,6 +5462,96 @@
       "lastmod": "2026-05-17",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-agora-am9icg9zddpmoyxzdf7-mgoggmhoqtjb",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-andromeda-68403563-daff-449c-83cf-ea346c",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-chainalysis-careers-0782bd50-fc84-45e5-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-ellipsislabs-53f2b34d-2c98-4a88-9da1-aa1",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-job-listings-devops-engineer",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-jobs-5159418008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-jobs-5267669008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-kalshi-3d255a5d-7b0c-4a92-bae1-1ddb040f7",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-nousresearch-com-machine-learning-engine",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-paradigm-c18c1fb4-9ad7-4657-8366-bc0f507",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-pluralfinance-e3c3abec-f038-4281-86f8-a3",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-view-devops-engineer-at-bit-official-441",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-view-devops-engineer-at-bit-official-444",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/devops-view-devops-engineer-at-bit-official-445",
+      "lastmod": "2026-08-13",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/devops1",
@@ -5476,6 +5956,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/devrel-andromeda-c7350009-a1ad-4095-b3da-d97a32",
+      "lastmod": "2026-08-27",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/devrel1",
       "lastmod": "2026-09-02",
       "changefreq": "daily",
@@ -5510,6 +5996,12 @@
       "lastmod": "2025-01-01",
       "changefreq": "monthly",
       "priority": 0.5
+    },
+    {
+      "url": "https://hashtagweb3.com/director-moonpay-c2b74e0b-7f97-4016-a3a7-36bd4404",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/director10",
@@ -5729,7 +6221,7 @@
     },
     {
       "url": "https://hashtagweb3.com/ellipsis-labs",
-      "lastmod": "2026-08-28",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -5780,6 +6272,342 @@
       "lastmod": "2025-01-01",
       "changefreq": "monthly",
       "priority": 0.4
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-andromeda-9a8cac0b-aec6-4df1-a03e-2cac4b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-andromeda-af010369-e891-4700-9aa7-d90670",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-andromeda-c0129afa-ddfb-47e1-9968-b3dbf2",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-axiom-3f411517-8eaa-4136-bd4e-9b342b3a79",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-axiom-a9fa1f80-a695-47cf-be13-d7a07a6b83",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-category-labs-4717412e-8243-4eb9-bed1-4c",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-category-labs-a0af69a1-8a77-4bda-b573-48",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-category-labs-e5c34899-cea1-4d25-beae-56",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-0aa5aed6-d14f-40a3-b",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-2608444a-a4f1-4a8f-8",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-37f72d88-62fd-451b-9",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-4808108e-6a69-46c4-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-57aa5acf-d0e1-481d-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-8f0da955-96a3-49bd-b",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-chainalysis-careers-9a38ba4c-7ebb-4906-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-ellipsislabs-02136b22-35b1-4b3d-8bef-567",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-ellipsislabs-1a9808b7-7630-4433-afb8-78a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-ellipsislabs-256c2ec2-01c8-4ff6-9ad0-b92",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-ellipsislabs-35aad59f-fa9d-4624-9efd-71c",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-ellipsislabs-f37f17f9-004b-4582-b397-d43",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-ellipsislabs-f5200c58-cada-4e8b-b398-671",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-hang-70f319e5-d44e-4f89-9b7f-47906c1547a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-hang-7b899a89-ed68-4988-8c3b-27ee46d6eca",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-job-17de9bfc-75cb-4c6d-ab08-90ce08fb9942",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-1967716751266726316",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-2069909-senior-software-engineer",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-49184",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-5096609008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-5308969008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-54450",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-6008505004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-6111068004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-6111141004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-kalshi-13c4b111-5dab-4560-9843-70c06c1ac",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-kalshi-2f849e14-a1b8-4fae-b983-67a29407d",
+      "lastmod": "2026-09-02",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-kalshi-35ff02ff-c0b0-4560-96c8-4a6a9e4db",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-kalshi-ab6fdd99-df25-44ae-b15d-3a9ca7807",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-lido-fi-3a086df3-4a1f-418f-9c70-27eee613",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-limitbreak-0cc4d59a-3e12-4d5c-b6fc-4f92d",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-moonpay-047bc8c2-a79b-4fd3-a57c-6052b585",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-moonpay-1891b692-26f1-4bc0-81df-74e753b1",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-moonpay-6e864b20-6e5b-4918-b0b5-a7ec5a3e",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-nousresearch-com-front-end-engineer",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-nousresearch-com-machine-learning-engine",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-opendatalabs-698c07dc-3fb8-491a-9f13-67a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-paradigm-2c506a66-05c2-4df0-a1ae-751f44b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-automation-test-engineer-at-bit-off",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-golang-engineer-card-payments-at-bi",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-graduate-hiring-golang-engineer-at",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-graduate-hiring-golang-engineer-rwa",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-market-solutions-technical-support",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-senior-brokerage-system-engineer-at",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-senior-brokerage-systems-engineer-t",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-view-smart-contract-engineer-at-bit-offi",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/engineer-www-sorellalabs-xyz-careers",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/engineer1",
@@ -6137,13 +6965,13 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer153",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/engineer154",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -6238,12 +7066,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/engineer170",
-      "lastmod": "2026-08-05",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/engineer171",
       "lastmod": "2026-08-06",
       "changefreq": "daily",
@@ -6269,7 +7091,7 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer175",
-      "lastmod": "2026-08-11",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -6293,7 +7115,7 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer179",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -6545,12 +7367,6 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer224",
-      "lastmod": "2026-08-31",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/engineer228",
       "lastmod": "2026-08-31",
       "changefreq": "daily",
       "priority": 0.8
@@ -7085,7 +7901,7 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer310",
-      "lastmod": "2026-08-19",
+      "lastmod": "2026-08-20",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -7871,7 +8687,7 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer432",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -8003,7 +8819,7 @@
     },
     {
       "url": "https://hashtagweb3.com/engineer452",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -8572,6 +9388,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/events-paradigm-0ff72c60-db8c-4a72-9e2e-b7fe90f",
+      "lastmod": "2026-08-19",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/events1",
       "lastmod": "2026-08-06",
       "changefreq": "daily",
@@ -8764,6 +9586,18 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/finance-view-finance-business-partner-at-bit-off",
+      "lastmod": "2026-08-13",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/finance-view-finance-content-specialist-us-stock",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/finance1",
       "lastmod": "2026-09-03",
       "changefreq": "daily",
@@ -8896,6 +9730,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/founding-agora-am9icg9zddprzyqjt-v3ljvz9t8dayko",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/foundry",
       "lastmod": "2026-09-02",
       "changefreq": "weekly",
@@ -8976,6 +9816,24 @@
     {
       "url": "https://hashtagweb3.com/front1",
       "lastmod": "2026-09-01",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/frontend-jobs-4915213008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/frontend-kalshi-9a802eca-14bc-4577-b5f4-8e49e61bd",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/frontend-kalshi-b468d103-8d78-4149-93c9-d111b5b93",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -9178,6 +10036,24 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/fullstack-agora-am9icg9zddoypko29iltjahjve-hrpo1",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/fullstack-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/fullstack-ventuals-e406d4e0-2a1f-4d15-815e-f610758",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/fullstack1",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
@@ -9269,7 +10145,7 @@
     },
     {
       "url": "https://hashtagweb3.com/fullstack23",
-      "lastmod": "2026-08-07",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -9323,7 +10199,7 @@
     },
     {
       "url": "https://hashtagweb3.com/fullstack9",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -9413,7 +10289,7 @@
     },
     {
       "url": "https://hashtagweb3.com/gauntlet",
-      "lastmod": "2026-08-12",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -9428,6 +10304,12 @@
       "lastmod": "2026-09-03",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/general-nousresearch-com-general-counsel",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/generational-differences-in-workplace",
@@ -9623,13 +10505,13 @@
     },
     {
       "url": "https://hashtagweb3.com/grc1",
-      "lastmod": "2026-08-07",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/grc2",
-      "lastmod": "2026-09-01",
+      "lastmod": "2026-09-02",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -9650,6 +10532,18 @@
       "lastmod": "2026-08-04",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/gtm-kalshi-09a99865-5f92-41bf-9def-dcbd27734",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/gtm-kalshi-d1c3d4eb-dfa2-4973-a975-2b9143057",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/gtm-strategy-for-web3-projects",
@@ -9694,6 +10588,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/hang",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/hardhat-complete-guide",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -9710,6 +10610,30 @@
       "lastmod": "2026-09-02",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/head-andromeda-07c8f9e0-a2ab-43f6-a0c8-ecb6ba",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/head-chainalysis-careers-a41742c7-26df-48c7-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/head-view-head-of-kyc-at-bit-official-4454981",
+      "lastmod": "2026-08-19",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/head-view-head-of-kyc-at-bit-official-4454991",
+      "lastmod": "2026-08-19",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/head1",
@@ -10966,6 +11890,30 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/intern-madrealities-notion-site-academic-intern",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/intern-view-ai-intern-embodied-ai-healthcare-ai",
+      "lastmod": "2026-08-26",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/intern-view-human-resources-intern-at-amber-gro",
+      "lastmod": "2026-08-28",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/intern-view-intern-media-advertising-mia-agent",
+      "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/intern1",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
@@ -11483,7 +12431,7 @@
     },
     {
       "url": "https://hashtagweb3.com/kalshi",
-      "lastmod": "2026-09-01",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -12070,8 +13018,32 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/lifecycle-kalshi-24656bd5-5d7e-4c34-beed-caab7d0e3",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/lifecycle1",
       "lastmod": "2026-08-10",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/lightspark",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/limit-break",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/linear-kalshi-d8782758-050d-411f-85ab-ef60537c1",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -12160,6 +13132,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/lootrush",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/luno",
       "lastmod": "2026-09-02",
       "changefreq": "weekly",
@@ -12172,6 +13150,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/mad-realities",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/magic-eden",
       "lastmod": "2026-09-03",
       "changefreq": "weekly",
@@ -12182,6 +13166,228 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-agora-am9icg9zddr9lz1g4sj-jsk1jos14ayj",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-andromeda-622736dc-47ec-4a0f-a962-6bbb0b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-chainalysis-careers-480a5b64-948e-4ccf-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-chainalysis-careers-ddf10f1b-c35d-4a74-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-chainalysis-careers-f599f983-6def-43cc-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-job-listings-senior-business-development",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-5215881008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-5992277004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-5993897004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-5993898004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-6002695004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-676",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-839161e2-7374-46b2-a5f9-7eb20a03ba8",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-kalshi-346145cd-5542-45fe-93f6-066f64619",
+      "lastmod": "2026-09-06",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-kalshi-a8196e6a-996d-4e8b-8814-555853872",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-lightspark-71eaae17-5123-496a-8177-9f475",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-accountant-assistant-manager-at-bit",
+      "lastmod": "2026-08-13",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-associate-media-manager-at-amber-gr",
+      "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-bd-manager-payments-otc-at-bit-offi",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-ai-adv",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-at-bit",
+      "lastmod": "2026-08-16",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-broker",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-custod",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-otc-pa",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-paymen",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-business-development-manager-sea-at",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-campaign-manager-user-acquisition-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-dealing-manager-at-bit-official-445",
+      "lastmod": "2026-08-26",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-investor-relations-manager-at-amber",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-sales-and-business-development-mana",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-senior-user-operations-manager-us-s",
+      "lastmod": "2026-08-19",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-settlement-assistant-manager-at-bit",
+      "lastmod": "2026-08-28",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-settlement-manager-at-bit-official",
+      "lastmod": "2026-08-28",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-social-media-manager-at-bit-officia",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-tax-manager-at-bit-official-4452925",
+      "lastmod": "2026-08-13",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager-view-treasury-manager-at-bit-official-44",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/manager10",
@@ -12551,7 +13757,7 @@
     },
     {
       "url": "https://hashtagweb3.com/manager155",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -12659,13 +13865,7 @@
     },
     {
       "url": "https://hashtagweb3.com/manager171",
-      "lastmod": "2026-08-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/manager172",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -13937,7 +15137,7 @@
     },
     {
       "url": "https://hashtagweb3.com/manager391",
-      "lastmod": "2026-08-03",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -14040,6 +15240,12 @@
     {
       "url": "https://hashtagweb3.com/manager59",
       "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/manager59d2e",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -14446,10 +15652,106 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/marketing-ellipsislabs-ad7d62ed-7587-4ec5-b236-d4d",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-job-d7023bf9-dadf-4131-8bff-cd6ba3e602a8",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-jobs-5399774008",
+      "lastmod": "2026-08-25",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-jobs-9613b475-fd3b-46e4-9698-5ac19825e99",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-kalshi-043e65ba-22cf-447c-92fa-80c6b9750",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-paradigm-80eee80a-aecb-4888-b219-fba7b99",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/marketing-strategy",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-growth-operations-specialist-at-bit",
+      "lastmod": "2026-08-22",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-head-of-bd-channel-growth-us-stocks",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-marketing-executive-at-bit-official",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-marketing-intern-at-amber-group-445",
+      "lastmod": "2026-08-25",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-marketing-manager-at-amber-group-44",
+      "lastmod": "2026-08-20",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-performance-growth-manager-at-bit-o",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-senior-growth-director-at-bit-offic",
+      "lastmod": "2026-08-24",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-seo-ai-search-growth-manager-at-bit",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-social-media-growth-specialist-at-b",
+      "lastmod": "2026-08-16",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/marketing-view-social-media-growth-specialist-us-s",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/marketing016cd",
@@ -14782,12 +16084,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/marketing26",
-      "lastmod": "2026-09-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/marketing3",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
@@ -15035,7 +16331,7 @@
     },
     {
       "url": "https://hashtagweb3.com/marketing65",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -15310,6 +16606,12 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/matrixport",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/matter-labs",
       "lastmod": "2026-09-02",
       "changefreq": "weekly",
@@ -15332,6 +16634,24 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/member-andromeda-20a99bab-2fc9-4711-8c35-55b569",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/member-andromeda-2fd13dac-5d18-4b92-8d83-ce783f",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/member-andromeda-34b0a2ac-2537-4634-baee-c829aa",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/member1",
@@ -15383,7 +16703,7 @@
     },
     {
       "url": "https://hashtagweb3.com/mesh",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15461,7 +16781,7 @@
     },
     {
       "url": "https://hashtagweb3.com/moonpay",
-      "lastmod": "2026-08-28",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15540,6 +16860,12 @@
     {
       "url": "https://hashtagweb3.com/mysten-labs",
       "lastmod": "2026-09-03",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/n3xt",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15640,6 +16966,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/noise",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/nomic-foundation",
       "lastmod": "2026-03-16",
       "changefreq": "weekly",
@@ -15648,6 +16980,12 @@
     {
       "url": "https://hashtagweb3.com/notabene",
       "lastmod": "2026-08-27",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/nous-research",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -15674,6 +17012,12 @@
       "lastmod": "2025-01-01",
       "changefreq": "monthly",
       "priority": 0.4
+    },
+    {
+      "url": "https://hashtagweb3.com/office-view-office-admin-executive-at-bit-offic",
+      "lastmod": "2026-09-07",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/office1",
@@ -15804,6 +17148,90 @@
     {
       "url": "https://hashtagweb3.com/operational1",
       "lastmod": "2026-08-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-agora-am9icg9zddquybtbjpmzrlmtzza00rku",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-andromeda-01f91399-50cc-47af-acbc-e3345a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-hang-36a6254d-b093-4eee-8c91-c0193ab17c6",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-jobs-701",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-kalshi-185ac0bd-d319-48d6-984d-b435de05b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-kalshi-32bbed2f-888b-406f-873f-d299062fc",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-kalshi-75445524-fc11-4025-b455-dc843fdbc",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-kalshi-af0e6d3d-963a-4c9d-aeaa-41877c17c",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-limitbreak-0100d092-868b-4ecd-b969-5c1fa",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-view-business-operations-at-bit-official",
+      "lastmod": "2026-08-25",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-view-finance-operations-associate-at-bit",
+      "lastmod": "2026-08-28",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-view-graduate-hiring-business-operations",
+      "lastmod": "2026-08-18",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-view-operations-associate-at-amber-group",
+      "lastmod": "2026-08-17",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/operations-view-total-rewards-specialist-people-ops",
+      "lastmod": "2026-08-28",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -16246,6 +17674,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/operations88006",
+      "lastmod": "2026-09-07",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/operationsba280",
       "lastmod": "2026-08-07",
       "changefreq": "daily",
@@ -16326,6 +17760,12 @@
     {
       "url": "https://hashtagweb3.com/pancakeswap",
       "lastmod": "2026-09-02",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/paradigm",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -16522,6 +17962,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/plural",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/polygon-blockchain-scaling-solutions-for-ethereum",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -16708,6 +18154,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/privy",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/procurement1",
       "lastmod": "2026-09-02",
       "changefreq": "daily",
@@ -16720,10 +18172,184 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/product-agora-am9icg9zddqmwgguxjqzx33cy-r-nhxg",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-andromeda-6f6eabaa-9a22-4653-b8ae-d17a8f",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-chainalysis-careers-965785b9-fabf-439c-8",
+      "lastmod": "2026-09-07",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-chainalysis-careers-c59a4717-d648-4a92-9",
+      "lastmod": "2026-09-07",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-ellipsislabs-65fbf6df-c55c-43fc-9381-9cf",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-hang-76fe2dde-8234-48ca-94c5-d6ea2d5eaa3",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-hang-d5ec3e25-f028-4f40-bc53-5978eb7c9f9",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-jobs-4926600008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-kalshi-25718664-54b7-454b-9a2c-bde0b1deb",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-kalshi-2f326e58-b739-477f-b959-206db1ea7",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-kalshi-3dd97725-4a12-4963-b47a-cb5c562cf",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-kalshi-75e8eee4-584e-468f-990d-42c679575",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-kalshi-b1ada97f-73f7-492e-89b7-150ebd49a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/product-management-career-guide",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/product-moonpay-85623812-7008-4a4b-9a27-a9df6fd5",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-noise-labs-cf251165-a1a3-4386-930b-ce587",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-paradigm-b85b9094-2467-4f49-9a36-ca93da3",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-pluralfinance-1ee6f808-161f-4e95-b872-44",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-business-development-manager-struct",
+      "lastmod": "2026-08-20",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-business-operations-structured-prod",
+      "lastmod": "2026-08-16",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-card-payments-product-manager-issui",
+      "lastmod": "2026-08-14",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-card-product-manager-at-bit-officia",
+      "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-graduate-hiring-assistant-product-m",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-product-manager-app-brokerage-syste",
+      "lastmod": "2026-08-18",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-product-manager-u-s-equities-at-bit",
+      "lastmod": "2026-08-16",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-risk-product-and-operations-analyst",
+      "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-senior-compliance-product-manager-k",
+      "lastmod": "2026-08-11",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-senior-product-designer-at-bit-offi",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/product-view-senior-product-manager-at-bit-offic",
+      "lastmod": "2026-08-20",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/product1",
@@ -17597,7 +19223,7 @@
     },
     {
       "url": "https://hashtagweb3.com/product236",
-      "lastmod": "2026-08-12",
+      "lastmod": "2026-08-13",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -17933,12 +19559,6 @@
     },
     {
       "url": "https://hashtagweb3.com/product289",
-      "lastmod": "2026-09-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/product29",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
       "priority": 0.8
@@ -18526,6 +20146,24 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/qa-view-graduate-hiring-qa-engineer-at-bit",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/qa-view-qa-engineer-at-bit-official-4418232",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/qa-view-senior-ai-automation-qa-engineer-at",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/qa1",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
@@ -18581,7 +20219,7 @@
     },
     {
       "url": "https://hashtagweb3.com/qa19",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -18750,6 +20388,30 @@
     {
       "url": "https://hashtagweb3.com/reclutador1",
       "lastmod": "2026-09-02",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/recruiting-andromeda-3b660c32-3ff4-4ba0-b28f-188f1b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/recruiting-kalshi-f26f6414-fa24-42be-96ed-d648d059b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/recruiting-view-am-hr-intern-at-amber-group-4460219",
+      "lastmod": "2026-09-01",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/recruiting-view-senior-hr-operations-executive-at-b",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -19144,6 +20806,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/research-nousresearch-com-research-scientist",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/research1",
       "lastmod": "2026-09-03",
       "changefreq": "daily",
@@ -19160,6 +20828,12 @@
       "lastmod": "2025-01-01",
       "changefreq": "monthly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/responsible-view-responsible-officer-at-bit-official",
+      "lastmod": "2026-08-20",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/restaking",
@@ -19182,6 +20856,12 @@
     {
       "url": "https://hashtagweb3.com/revolut",
       "lastmod": "2026-09-02",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/rift",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -19504,6 +21184,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/rust-chainalysis-careers-235ff146-f302-44a0-9",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/rust-for-blockchain-explained",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -19588,12 +21274,6 @@
       "priority": 0.8
     },
     {
-      "url": "https://hashtagweb3.com/rust5",
-      "lastmod": "2026-08-04",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
       "url": "https://hashtagweb3.com/rust6",
       "lastmod": "2026-08-04",
       "changefreq": "daily",
@@ -19654,10 +21334,112 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/sales-andromeda-5dd86586-33cc-470a-8d0d-c7b156",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/sales-career-progression-path",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-chainalysis-careers-43fafef4-b5f3-495c-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-chainalysis-careers-44489558-9b34-4113-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-chainalysis-careers-4a0910ba-fcda-4cec-9",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-chainalysis-careers-9975636b-8def-452b-b",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-chainalysis-careers-e0aca5aa-8e1e-465c-a",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-job-5cc7f852-9941-4c81-9cba-a1c9365d7ee7",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5254313008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5254314008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5254315008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5372062008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5372095008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5411039008",
+      "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5976934004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-jobs-5986594004",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-kalshi-f6da85be-8e0c-4143-92dc-ee16629bc",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/sales-view-head-of-sales-at-bit-official-44574",
+      "lastmod": "2026-08-25",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/sales1",
@@ -20848,6 +22630,18 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/security-agora-am9icg9zddpb0kqp8ikbrwcnodh-ueu0",
+      "lastmod": "2026-09-03",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/security-chainalysis-careers-9449b59c-868f-48c4-8",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/security-checklists-for-blockchain-engineer",
       "lastmod": "2026-05-17",
       "changefreq": "monthly",
@@ -20908,6 +22702,36 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/security-gauntlet-5df7d87c-08df-475b-8328-bf2b816",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/security-job-listings-lead-security-engineer",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/security-jobs-5169473008",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/security-jobs-662",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/security-jobs-search",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/security-mistakes-for-blockchain-engineer",
       "lastmod": "2026-05-17",
       "changefreq": "monthly",
@@ -20966,6 +22790,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/security-view-graduate-hiring-software-systems-de",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/security1",
@@ -21287,7 +23117,7 @@
     },
     {
       "url": "https://hashtagweb3.com/security29",
-      "lastmod": "2026-09-03",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -21456,12 +23286,6 @@
     {
       "url": "https://hashtagweb3.com/security53",
       "lastmod": "2026-09-01",
-      "changefreq": "daily",
-      "priority": 0.8
-    },
-    {
-      "url": "https://hashtagweb3.com/security55",
-      "lastmod": "2026-08-04",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -21772,6 +23596,36 @@
       "priority": 0.7
     },
     {
+      "url": "https://hashtagweb3.com/senior-category-labs-015934c5-66e5-4042-94bb-aa",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/senior-chainalysis-careers-c224f964-3ad9-46fa-9",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/senior-limitbreak-df1b16c2-2f3c-4b03-ae6e-5315e",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/senior-moonpay-89dc5e0f-de6b-4684-942e-01a7ffc4",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/senior-view-senior-settlement-officer-at-bit-of",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/senior1",
       "lastmod": "2026-09-04",
       "changefreq": "daily",
@@ -21905,7 +23759,7 @@
     },
     {
       "url": "https://hashtagweb3.com/senior32",
-      "lastmod": "2026-08-11",
+      "lastmod": "2026-08-12",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -22004,6 +23858,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/short-kalshi-f092f743-89fb-49f3-b496-51a807bc8",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/sidechain",
@@ -22408,6 +24268,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/state-kalshi-68eafa1f-8d29-492a-ab38-4b0384f03",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/stateless-client",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -22442,6 +24308,18 @@
       "lastmod": "2026-09-01",
       "changefreq": "weekly",
       "priority": 0.6
+    },
+    {
+      "url": "https://hashtagweb3.com/strategic-andromeda-e4cb6475-11be-4abf-8be4-c5fabf",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/strategic-kalshi-1ce9485b-2217-41e6-9370-7671b376d",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/strategic1",
@@ -22678,6 +24556,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/taxbit",
+      "lastmod": "2026-09-08",
+      "changefreq": "weekly",
+      "priority": 0.6
+    },
+    {
       "url": "https://hashtagweb3.com/team-motivation-strategies-that-work",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -22692,6 +24576,12 @@
     {
       "url": "https://hashtagweb3.com/team2",
       "lastmod": "2026-08-27",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/tech-chainalysis-careers-8ae715a5-151b-4ef3-b",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -22745,7 +24635,7 @@
     },
     {
       "url": "https://hashtagweb3.com/technology1",
-      "lastmod": "2026-08-04",
+      "lastmod": "2026-09-08",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -23124,6 +25014,42 @@
     {
       "url": "https://hashtagweb3.com/trader",
       "lastmod": "2026-09-04",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/trader-andromeda-f6955d43-a0ed-41d5-be55-524b9f",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/trader-cdc0648d-17ae-4cc5-98e1-580d27ee69f1-fx",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/trader-gauntlet-4fa821d9-324f-465e-bf6a-b6f5eb9",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/trader-kalshi-a0a953d6-3769-4254-8381-d98c647c0",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/trader-noise-labs-f34b8344-2855-415a-abb1-03863",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
+      "url": "https://hashtagweb3.com/trader-view-structured-products-trader-at-bit-o",
+      "lastmod": "2026-09-03",
       "changefreq": "daily",
       "priority": 0.8
     },
@@ -23692,6 +25618,12 @@
       "priority": 0.8
     },
     {
+      "url": "https://hashtagweb3.com/user-limitbreak-afb8428e-2cfe-449a-877e-06e84",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
+    },
+    {
       "url": "https://hashtagweb3.com/ux-design-career-transition-guide",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -23723,7 +25655,7 @@
     },
     {
       "url": "https://hashtagweb3.com/vana",
-      "lastmod": "2026-09-02",
+      "lastmod": "2026-09-08",
       "changefreq": "weekly",
       "priority": 0.6
     },
@@ -23768,6 +25700,12 @@
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/vfx-limitbreak-7ddb87b5-ea79-4896-b0d5-66555",
+      "lastmod": "2026-09-08",
+      "changefreq": "daily",
+      "priority": 0.8
     },
     {
       "url": "https://hashtagweb3.com/vice1",
