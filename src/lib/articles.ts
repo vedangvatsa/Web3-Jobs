@@ -127,14 +127,22 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
    .process(sanitizedContent);
   const contentHtml = processedContent.toString();
 
-  // Sanitize HTML on the server
+  // Sanitize HTML on the server, preserving inline SVGs for diagrams
   const content = sanitizeHtml(contentHtml, {
    allowedTags: sanitizeHtml.defaults.allowedTags.concat([
-    'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6'
+    'img', 'div', 'span', 'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+    'svg', 'g', 'path', 'rect', 'circle', 'line', 'polygon', 'polyline', 'text', 'tspan', 'defs', 'use', 'marker'
    ]),
    allowedAttributes: {
     ...sanitizeHtml.defaults.allowedAttributes,
-    '*': ['class'],
+    '*': [
+      'class', 'style', 'id',
+      'viewBox', 'xmlns', 'cx', 'cy', 'r', 'x', 'y', 'x1', 'y1', 'x2', 'y2',
+      'width', 'height', 'rx', 'ry', 'fill', 'fill-opacity', 'stroke',
+      'stroke-width', 'stroke-opacity', 'stroke-dasharray', 'stroke-linecap',
+      'stroke-linejoin', 'transform', 'text-anchor', 'font-family', 'font-size',
+      'font-weight', 'marker-end', 'marker-start', 'd', 'points'
+    ],
     'a': ['href', 'name', 'target', 'rel'],
     'img': ['src', 'alt', 'title', 'width', 'height', 'data-ai-hint'],
    },

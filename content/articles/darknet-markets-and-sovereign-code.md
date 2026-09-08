@@ -4,7 +4,7 @@ description: >-
   An investigative thesis exploring the evolution of darknet commerce, onion routing, multi-signature escrow, and non-custodial peer-to-peer protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-08"
 slug: darknet-markets-and-sovereign-code
 ---
 

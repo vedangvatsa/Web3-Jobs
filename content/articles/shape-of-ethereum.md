@@ -4,7 +4,7 @@ description: >-
   A 6-year study of topological anomaly detection on Ethereum by Matan Prasma and Uri Yacobi Keller analyzing structural network shifts from 2020 to 2025.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-08"
 slug: shape-of-ethereum
 ---
 
