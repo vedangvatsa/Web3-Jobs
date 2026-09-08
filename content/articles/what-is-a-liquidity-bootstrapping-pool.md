@@ -331,10 +331,10 @@ contract LBPController {
         lbpPool = IGradualWeightUpdatePool(_poolAddress);
     }
 
-    /// @notice Initiates dynamic weight decay over a fixed duration
-    /// @param durationInSeconds Duration of the bootstrapping event (e.g. 259200 for 72 hours)
-    /// @param endWeightProject Target final weight for project token in 18-decimal fixed point (e.g. 0.5e18)
-    /// @param endWeightCollateral Target final weight for collateral token (e.g. 0.5e18)
+// @notice Initiates dynamic weight decay over a fixed duration
+// @param durationInSeconds Duration of the bootstrapping event (e.g. 259200 for 72 hours)
+// @param endWeightProject Target final weight for project token in 18-decimal fixed point (e.g. 0.5e18)
+// @param endWeightCollateral Target final weight for collateral token (e.g. 0.5e18)
     function scheduleWeightDecay(
         uint256 durationInSeconds,
         uint256 endWeightProject,
@@ -350,17 +350,17 @@ contract LBPController {
         endWeights[0] = endWeightProject;
         endWeights[1] = endWeightCollateral;
 
-        // Schedule programmatic linear interpolation in pool contract
+/ Schedule programmatic linear interpolation in pool contract
         lbpPool.updateWeightsGradually(startTime, endTime, endWeights);
 
-        // Enable public swapping on the AMM
+/ Enable public swapping on the AMM
         lbpPool.setSwapEnabled(true);
 
         emit WeightsGraduationScheduled(startTime, endTime, endWeights);
         emit SwappingStateToggled(true);
     }
 
-    /// @notice Toggles trading state in case of emergency
+// @notice Toggles trading state in case of emergency
     function setTradingState(bool enabled) external onlyOwner {
         lbpPool.setSwapEnabled(enabled);
         emit SwappingStateToggled(enabled);

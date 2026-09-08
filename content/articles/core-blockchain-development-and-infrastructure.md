@@ -102,11 +102,11 @@ impl ExecutionEngine {
             return Err("Insufficient balance for state transition");
         }
 
-        // Deduct value and gas from sender
+/ Deduct value and gas from sender
         sender_account.balance -= value + gas_fee;
         sender_account.nonce += 1;
 
-        // Credit value to recipient
+/ Credit value to recipient
         let recipient_account = self.state_db.entry(recipient).or_insert(AccountState {
             nonce: 0,
             balance: 0,

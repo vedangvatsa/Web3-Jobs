@@ -109,24 +109,24 @@ contract SimpleAMMPool {
     function swapTokenAForTokenB(uint256 amountAIn, uint256 minAmountBOut) external returns (uint256 amountBOut) {
         require(amountAIn > 0, "AMM: Insufficient input");
         
-        // Transfer Token A from user to pool
+/ Transfer Token A from user to pool
         tokenA.transferFrom(msg.sender, address(this), amountAIn);
 
-        // Apply 0.3% fee to input amount
+/ Apply 0.3% fee to input amount
         uint256 amountAInWithFee = amountAIn * FEE_NUMERATOR;
         
-        // Compute output Token B amount preserving invariant k
+/ Compute output Token B amount preserving invariant k
         uint256 numerator = amountAInWithFee * reserveB;
         uint256 denominator = (reserveA * FEE_DENOMINATOR) + amountAInWithFee;
         amountBOut = numerator / denominator;
 
         require(amountBOut >= minAmountBOut, "AMM: Excessive slippage");
 
-        // Update internal reserve state
+/ Update internal reserve state
         reserveA += amountAIn;
         reserveB -= amountBOut;
 
-        // Transfer Token B to user
+/ Transfer Token B to user
         tokenB.transfer(msg.sender, amountBOut);
 
         emit Swap(msg.sender, amountAIn, amountBOut, address(tokenA));
@@ -351,10 +351,10 @@ contract FlashLoanArbitrage is IFlashLoanReceiver {
         address initiator,
         bytes calldata params
     ) external override returns (bool) {
-        // 1. Swap borrowed asset on DEX A (where price is higher)
-        // 2. Swap output back to original asset on DEX B (where price is lower)
-        // 3. Repay flash loan + premium fee to lending pool
-        // 4. Retain net arbitrage profit in contract
+/ 1. Swap borrowed asset on DEX A (where price is higher)
+/ 2. Swap output back to original asset on DEX B (where price is lower)
+/ 3. Repay flash loan + premium fee to lending pool
+/ 4. Retain net arbitrage profit in contract
 
         uint256 amountToRepay = amount + premium;
         IERC20(asset).approve(poolProvider, amountToRepay);

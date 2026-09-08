@@ -67,7 +67,7 @@ You detect support at runtime. This is the correct pattern from the W3C explaine
 if (navigator.xr) {
   const vrOk = await navigator.xr.isSessionSupported('immersive-vr');
   const arOk = await navigator.xr.isSessionSupported('immersive-ar');
-  // show Enter VR or Enter AR buttons based on vrOk / arOk
+/ show Enter VR or Enter AR buttons based on vrOk / arOk
 }
 ```
 

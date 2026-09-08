@@ -67,11 +67,11 @@ The ERC-3643 standard (formerly known as T-REX, Token for Regulated EXchanges) h
 pragma solidity ^0.8.20;
 
 interface IERC3643 {
-    // Identity Registry checking investor KYC status before execution
+/ Identity Registry checking investor KYC status before execution
     function identityRegistry() external view returns (address);
     function compliance() external view returns (address);
     
-    // Conditional transfer function checking identity and compliance
+/ Conditional transfer function checking identity and compliance
     function transfer(address to, uint256 amount) external returns (bool);
     function forcedTransfer(address from, address to, uint256 amount) external returns (bool);
     function freezePartialTokens(address userAddress, uint256 amount) external;
@@ -204,7 +204,7 @@ contract RealEstateDividendVault is Ownable, ReentrancyGuard {
         usdcToken = IERC20(_usdcToken);
     }
 
-    /// @notice Deposit monthly rental income in USDC to be distributed to token holders
+// @notice Deposit monthly rental income in USDC to be distributed to token holders
     function depositRentalIncome(uint256 _amount) external onlyOwner {
         require(_amount > 0, "Deposit must be greater than zero");
         uint256 totalTokens = propertyToken.totalSupply();
@@ -213,13 +213,13 @@ contract RealEstateDividendVault is Ownable, ReentrancyGuard {
         usdcToken.transferFrom(msg.sender, address(this), _amount);
         totalDividendsDeposited += _amount;
         
-        // Scale by 1e18 to prevent precision loss during division
+/ Scale by 1e18 to prevent precision loss during division
         dividendPerTokenStored += (_amount * 1e18) / totalTokens;
 
         emit DividendDeposited(_amount, dividendPerTokenStored);
     }
 
-    /// @notice Calculate pending unclaimed rental dividends for an investor
+// @notice Calculate pending unclaimed rental dividends for an investor
     function getPendingDividends(address _investor) public view returns (uint256) {
         uint256 userBalance = propertyToken.balanceOf(_investor);
         if (userBalance == 0) return 0;
@@ -228,7 +228,7 @@ contract RealEstateDividendVault is Ownable, ReentrancyGuard {
         return (userBalance * dividendDiff) / 1e18;
     }
 
-    /// @notice Claim accumulated rental income dividends in USDC
+// @notice Claim accumulated rental income dividends in USDC
     function claimDividends() external nonReentrant {
         uint256 pending = getPendingDividends(msg.sender);
         require(pending > 0, "No dividends available to claim");

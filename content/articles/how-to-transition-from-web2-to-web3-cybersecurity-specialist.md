@@ -69,11 +69,11 @@ contract VulnerableVault {
         uint256 balance = userBalances[msg.sender];
         require(balance > 0, "Insufficient balance");
 
-        // UNTRUSTED CALL BEFORE STATE UPDATE
+/ UNTRUSTED CALL BEFORE STATE UPDATE
         (bool success, ) = msg.sender.call{value: balance}("");
         require(success, "Transfer failed");
 
-        // State update happens after call - Vulnerable to reentrancy!
+/ State update happens after call - Vulnerable to reentrancy!
         userBalances[msg.sender] = 0;
     }
 }
@@ -90,14 +90,14 @@ contract SecureVault is ReentrancyGuard {
     mapping(address => uint256) public userBalances;
 
     function withdraw() external nonReentrant {
-        // 1. CHECKS
+/ 1. CHECKS
         uint256 balance = userBalances[msg.sender];
         require(balance > 0, "Insufficient balance");
 
-        // 2. EFFECTS (State updated BEFORE external call)
+/ 2. EFFECTS (State updated BEFORE external call)
         userBalances[msg.sender] = 0;
 
-        // 3. INTERACTIONS (External transfer executed last)
+/ 3. INTERACTIONS (External transfer executed last)
         (bool success, ) = msg.sender.call{value: balance}("");
         require(success, "Transfer failed");
     }
@@ -144,7 +144,7 @@ Solidity does not support floating-point arithmetic. All mathematical calculatio
 ```solidity
 // VULNERABLE CODE - Precision loss due to division before multiplication
 function calculateReward(uint256 amount, uint256 rate, uint256 denominator) public pure returns (uint256) {
-    // Rounding to zero occurs during amount / denominator step!
+/ Rounding to zero occurs during amount / denominator step!
     return (amount / denominator) * rate;
 }
 
@@ -194,7 +194,7 @@ contract SecureMetaTransaction is EIP712 {
         address signer = digest.recover(signature);
         require(signer == sender, "Invalid signature");
 
-        // Execute authorized logic securely
+/ Execute authorized logic securely
     }
 }
 ```
@@ -225,7 +225,7 @@ Smart contract functions can be rendered permanently unusable through unexpected
 // VULNERABLE CODE - Push payment pattern vulnerable to DoS
 function payoutUnsafe(address[] memory recipients) public {
     for (uint256 i = 0; i < recipients.length; i++) {
-        // If recipients[i] reverts, ENTIRE transaction fails!
+/ If recipients[i] reverts, ENTIRE transaction fails!
         payable(recipients[i]).transfer(1 ether);
     }
 }
@@ -299,7 +299,7 @@ contract VaultInvariantTest is Test {
         vault = new ProtocolVault();
     }
 
-    /// Invariant: Total vault token balance must ALWAYS be >= sum of total shares minted
+// Invariant: Total vault token balance must ALWAYS be >= sum of total shares minted
     function invariant_VaultSolvencyMustHold() public view {
         assertGe(
             vault.totalAssets(),

@@ -76,9 +76,9 @@ To broadcast data efficiently across tens of thousands of nodes without creating
 
 ```
                          [ Node A (Block Producer) ]
-                                /           \
+           \
                       [ Node B ]             [ Node C ]
-                      /        \             /        \
+        \             /        \
                  [ Node D ]   [ Node E ] [ Node F ]  [ Node G ]
 ```
 
@@ -166,7 +166,7 @@ use tokio::time::sleep;
 
 #[tokio::main]
 async fn main() -> Result<(), Box<dyn Error>> {
-    // 1. Generate a random Peer ID and Ed25519 keypair
+/ 1. Generate a random Peer ID and Ed25519 keypair
     let mut swarm = SwarmBuilder::with_new_identity()
         .with_tokio()
         .with_tcp(
@@ -175,7 +175,7 @@ async fn main() -> Result<(), Box<dyn Error>> {
             yamux::Config::default,
         )?
         .with_behaviour(|key| {
-            // 2. Configure GossipSub v1.1 Parameters
+/ 2. Configure GossipSub v1.1 Parameters
             let gossipsub_config = gossipsub::ConfigBuilder::default()
                 .heartbeat_interval(Duration::from_millis(700))
                 .validation_mode(gossipsub::ValidationMode::Strict)
@@ -190,18 +190,18 @@ async fn main() -> Result<(), Box<dyn Error>> {
         .with_swarm_config(|c| c.with_idle_connection_timeout(Duration::from_secs(60)))
         .build();
 
-    // 3. Subscribe to a global transaction gossip topic
+/ 3. Subscribe to a global transaction gossip topic
     let topic = gossipsub::IdentTopic::new("web3/global/transactions");
     swarm.behaviour_mut().subscribe(&topic)?;
 
-    // 4. Listen on all local IPv4 network interfaces on port 9000
+/ 4. Listen on all local IPv4 network interfaces on port 9000
     let listen_addr: Multiaddr = "/ip4/0.0.0.0/tcp/9000".parse()?;
     swarm.listen_on(listen_addr)?;
 
     println!("P2P Node initialized successfully!");
     println!("Local Peer ID: {}", swarm.local_peer_id());
 
-    // 5. Event Loop processing incoming P2P network events
+/ 5. Event Loop processing incoming P2P network events
     loop {
         tokio::select! {
             event = swarm.select_next_some() => {

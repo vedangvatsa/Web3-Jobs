@@ -86,7 +86,7 @@ contract CrossBorderPaymentRouter is Ownable {
         cctpMessenger = ICircleTokenMessenger(_messenger);
     }
 
-    /// Dispatch real-time cross-border payment via CCTP
+// Dispatch real-time cross-border payment via CCTP
     function dispatchPayment(
         uint256 amount,
         uint32 destinationDomain,
@@ -94,13 +94,13 @@ contract CrossBorderPaymentRouter is Ownable {
     ) external {
         require(amount > 0, "Amount must be greater than zero");
 
-        // Transfer USDC from sender to this router
+/ Transfer USDC from sender to this router
         usdcToken.transferFrom(msg.sender, address(this), amount);
         
-        // Approve CCTP TokenMessenger
+/ Approve CCTP TokenMessenger
         usdcToken.approve(address(cctpMessenger), amount);
 
-        // Burn USDC on source chain; CCTP mints native USDC on destination chain
+/ Burn USDC on source chain; CCTP mints native USDC on destination chain
         cctpMessenger.depositForBurn(
             amount,
             destinationDomain,
@@ -170,7 +170,7 @@ contract FXRateVerifier {
         usdEurOracle = IAggregatorV3(_oracle);
     }
 
-    /// Fetches verified FX rate with freshness circuit breakers
+// Fetches verified FX rate with freshness circuit breakers
     function getLatestFXRate() public view returns (uint256) {
         (
             ,

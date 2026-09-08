@@ -65,7 +65,7 @@ contract InvariantVaultTest is Test {
         vault = new LendingVault();
     }
 
-    /// @notice Invariant: Total vault assets must always equal or exceed user deposit accounting
+// @notice Invariant: Total vault assets must always equal or exceed user deposit accounting
     function invariant_SolvencyAccounting() public view {
         assertGe(
             address(vault).balance,
@@ -154,13 +154,13 @@ rule systemSolvencyNeverBreached(method f) {
     env e;
     calldataarg args;
 
-    // Pre-condition: System is solvent prior to call
+/ Pre-condition: System is solvent prior to call
     require getReserveBalance() >= totalBorrows();
 
-    // Execute arbitrary state-transition function
+/ Execute arbitrary state-transition function
     f(e, args);
 
-    // Post-condition: Reserve balance must always cover liabilities
+/ Post-condition: Reserve balance must always cover liabilities
     assert getReserveBalance() >= totalBorrows(), 
         "Solvency violation: reserves dropped below system borrows";
 }

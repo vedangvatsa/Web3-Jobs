@@ -133,16 +133,16 @@ contract NFTExchangeEngine is EIP712 {
         bytes32 orderHash = hashOrder(order);
         require(!cancelledOrFilledOrders[orderHash], "Error: Order already processed");
 
-        // Verify seller signature
+/ Verify seller signature
         address signer = orderHash.recover(signature);
         require(signer == order.seller, "Error: Invalid seller signature");
 
         cancelledOrFilledOrders[orderHash] = true;
 
-        // Atomic asset swap
+/ Atomic asset swap
         IERC721(order.nftAddress).safeTransferFrom(order.seller, msg.sender, order.tokenId);
         
-        // Payout seller
+/ Payout seller
         (bool success, ) = payable(order.seller).call{value: order.price}("");
         require(success, "Error: Transfer to seller failed");
 
@@ -277,7 +277,7 @@ import "@openzeppelin/contracts/token/common/ERC2981.sol";
 
 contract RoyaltyAwareNFT is ERC721, ERC2981 {
     constructor(address royaltyReceiver, uint96 feeNumerator) ERC721("ArtPass", "ART") {
-        // Set 5% default royalty fee (500 / 10000)
+/ Set 5% default royalty fee (500 / 10000)
         _setDefaultRoyalty(royaltyReceiver, feeNumerator);
     }
 
@@ -421,13 +421,13 @@ export function FulfillOrderButton({ order, signature }: { order: any; signature
   };
 
   return (
-    <button 
+button 
       onClick={handleBuy} 
       disabled={!isConnected || isPending}
       className="bg-pink-600 hover:bg-pink-700 text-white font-bold py-2 px-4 rounded-lg"
     >
       {isPending ? 'Executing Purchase...' : 'Buy Now'}
-    </button>
+/button>
   );
 }
 ```

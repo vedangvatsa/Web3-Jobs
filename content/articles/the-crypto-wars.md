@@ -21,41 +21,41 @@ Today, that identical legal battle has re-emerged across modern federal courtroo
 In 1991, software engineer Phil Zimmermann published Pretty Good Privacy (PGP), making public-key encryption software accessible to individual personal computer users worldwide.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Legal Evolution of Source Code as Free Speech</div>
-  <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Box 1: ITAR Classification -->
-    <g transform="translate(40, 40)">
-      <rect width="210" height="160" rx="8" fill="#ef4444" fill-opacity="0.1" stroke="#ef4444" stroke-width="1.5"/>
-      <text x="105" y="30" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#ef4444">1990s: ITAR Export Controls</text>
-      <text x="105" y="60" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Encryption classified as Munitions</text>
-      <text x="105" y="80" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Criminal investigation of PGP</text>
-      <text x="105" y="120" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">State Ban Strategy</text>
-    </g>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Legal Evolution of Source Code as Free Speech</div>
+svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Arrow 1 -->
-    <path d="M 260 120 L 280 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+g transform="translate(40, 40)">
+rect width="210" height="160" rx="8" fill="#ef4444" fill-opacity="0.1" stroke="#ef4444" stroke-width="1.5"/>
+text x="105" y="30" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#ef4444">1990s: ITAR Export Controls</text>
+text x="105" y="60" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Encryption classified as Munitions</text>
+text x="105" y="80" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Criminal investigation of PGP</text>
+text x="105" y="120" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">State Ban Strategy</text>
+/g>
 
-    <!-- Box 2: Bernstein Ruling -->
-    <g transform="translate(295, 40)">
-      <rect width="210" height="160" rx="8" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-width="1.5"/>
-      <text x="105" y="30" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#3b82f6">1999: Bernstein v. US</text>
-      <text x="105" y="60" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">9th Circuit Landmark Ruling</text>
-      <text x="105" y="80" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">"Source Code is Speech"</text>
-      <text x="105" y="120" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#3b82f6">1st Amendment Protection</text>
-    </g>
 
-    <!-- Arrow 2 -->
-    <path d="M 515 120 L 535 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+path d="M 260 120 L 280 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
 
-    <!-- Box 3: Smart Contract Litigation -->
-    <g transform="translate(550, 40)">
-      <rect width="210" height="160" rx="8" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-width="1.5"/>
-      <text x="105" y="30" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#8b5cf6">Present: ZK & OFAC Litigation</text>
-      <text x="105" y="60" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Immutable Smart Contracts</text>
-      <text x="105" y="80" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Tornado Cash & Privacy Software</text>
-      <text x="105" y="120" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#8b5cf6">Modern Code Speech Rights</text>
-    </g>
-  </svg>
+
+g transform="translate(295, 40)">
+rect width="210" height="160" rx="8" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-width="1.5"/>
+text x="105" y="30" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#3b82f6">1999: Bernstein v. US</text>
+text x="105" y="60" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">9th Circuit Landmark Ruling</text>
+text x="105" y="80" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">"Source Code is Speech"</text>
+text x="105" y="120" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#3b82f6">1st Amendment Protection</text>
+/g>
+
+
+path d="M 515 120 L 535 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+
+g transform="translate(550, 40)">
+rect width="210" height="160" rx="8" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-width="1.5"/>
+text x="105" y="30" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#8b5cf6">Present: ZK & OFAC Litigation</text>
+text x="105" y="60" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Immutable Smart Contracts</text>
+text x="105" y="80" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Tornado Cash & Privacy Software</text>
+text x="105" y="120" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#8b5cf6">Modern Code Speech Rights</text>
+/g>
+/svg>
 </div>
 
 At the time, US federal export regulations under the International Traffic in Arms Regulations (ITAR) classified encryption algorithms with key lengths exceeding 40 bits as auxiliary military equipment.
@@ -95,29 +95,29 @@ Twenty-five years after the Bernstein precedent, legal battles over cryptographi
 In August 2022, the US Department of the Treasury's Office of Foreign Assets Control (OFAC) designated immutable smart contract addresses associated with Tornado Cash to the Specially Designated Nationals (SDN) list under executive authority.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Human-Readable Source Code vs Compiled Bytecode Execution</div>
-  <svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Panel 1: Source Code -->
-    <g transform="translate(60, 20)">
-      <rect width="300" height="180" rx="8" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-width="1.5"/>
-      <text x="150" y="35" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#3b82f6">Human-Readable Source Code</text>
-      <text x="150" y="70" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Solidity / Rust Protocol Text</text>
-      <text x="150" y="95" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="600" fill="#10b981">Protected Under Bernstein v. US</text>
-      <text x="150" y="140" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">1st Amendment Speech Rights</text>
-    </g>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Human-Readable Source Code vs Compiled Bytecode Execution</div>
+svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Arrow -->
-    <line x1="380" y1="110" x2="420" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+g transform="translate(60, 20)">
+rect width="300" height="180" rx="8" fill="#3b82f6" fill-opacity="0.1" stroke="#3b82f6" stroke-width="1.5"/>
+text x="150" y="35" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#3b82f6">Human-Readable Source Code</text>
+text x="150" y="70" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Solidity / Rust Protocol Text</text>
+text x="150" y="95" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="600" fill="#10b981">Protected Under Bernstein v. US</text>
+text x="150" y="140" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">1st Amendment Speech Rights</text>
+/g>
 
-    <!-- Panel 2: EVM Bytecode -->
-    <g transform="translate(440, 20)">
-      <rect width="300" height="180" rx="8" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-width="1.5"/>
-      <text x="150" y="35" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#8b5cf6">Compiled On-Chain Bytecode</text>
-      <text x="150" y="70" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Autonomous Machine Instructions</text>
-      <text x="150" y="95" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="600" fill="#ef4444">Targeted by Executive Sanctions</text>
-      <text x="150" y="140" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#8b5cf6">Active Legal Dispute (Van Loon v. Treasury)</text>
-    </g>
-  </svg>
+
+line x1="380" y1="110" x2="420" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+
+g transform="translate(440, 20)">
+rect width="300" height="180" rx="8" fill="#8b5cf6" fill-opacity="0.1" stroke="#8b5cf6" stroke-width="1.5"/>
+text x="150" y="35" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#8b5cf6">Compiled On-Chain Bytecode</text>
+text x="150" y="70" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor">Autonomous Machine Instructions</text>
+text x="150" y="95" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="600" fill="#ef4444">Targeted by Executive Sanctions</text>
+text x="150" y="140" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#8b5cf6">Active Legal Dispute (Van Loon v. Treasury)</text>
+/g>
+/svg>
 </div>
 
 ```

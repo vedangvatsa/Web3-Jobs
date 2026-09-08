@@ -270,7 +270,7 @@ contract AgentSessionGuard is Ownable {
         require(config.active, "Guard: Agent session inactive");
         require(value <= config.maxSpendPerTx, "Guard: Single transaction spend limit exceeded");
 
-        // Reset daily limit if 24 hours elapsed
+/ Reset daily limit if 24 hours elapsed
         if (block.timestamp >= config.lastResetTimestamp + 1 days) {
             config.currentDailySpent = 0;
             config.lastResetTimestamp = block.timestamp;

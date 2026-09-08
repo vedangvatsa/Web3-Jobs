@@ -231,7 +231,7 @@ function withdraw() external {
 
 ```solidity
 for (uint256 i = 0; i < length; ) {
-    // ... work with i
+/ ... work with i
     unchecked { ++i; }
 }
 ```

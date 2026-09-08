@@ -163,7 +163,7 @@ import "@fhevm/core/contracts/FHE.sol";
 
 /// @notice Confidential ERC-20 token implementation using fhEVM encrypted primitives
 contract ConfidentialToken {
-    // Encrypted balance mapping: addresses link to encrypted 64-bit integers
+/ Encrypted balance mapping: addresses link to encrypted 64-bit integers
     mapping(address => euint64) private _encBalances;
     address public owner;
 
@@ -173,22 +173,22 @@ contract ConfidentialToken {
         owner = msg.sender;
     }
 
-    /// @notice Mints encrypted tokens to an account
+// @notice Mints encrypted tokens to an account
     function mint(address to, inEuint64 calldata encryptedAmount) external {
         require(msg.sender == owner, "Only owner can mint");
-        // Convert external user ciphertext to verified internal encrypted integer
+/ Convert external user ciphertext to verified internal encrypted integer
         euint64 amount = FHE.asEuint64(encryptedAmount);
         _encBalances[to] = FHE.add(_encBalances[to], amount);
     }
 
-    /// @notice Executes a blind transfer without revealing the transferred quantity
+// @notice Executes a blind transfer without revealing the transferred quantity
     function transfer(address to, inEuint64 calldata encryptedAmount) external {
         euint64 amount = FHE.asEuint64(encryptedAmount);
 
-        // Evaluate requirement homomorphically: returns an encrypted boolean (ebool)
+/ Evaluate requirement homomorphically: returns an encrypted boolean (ebool)
         ebool canTransfer = FHE.lte(amount, _encBalances[msg.sender]);
 
-        // Conditionally deduct balance without revealing transaction branch to miners
+/ Conditionally deduct balance without revealing transaction branch to miners
         euint64 transferAmount = FHE.select(canTransfer, amount, FHE.asEuint64(0));
 
         _encBalances[msg.sender] = FHE.sub(_encBalances[msg.sender], transferAmount);
@@ -197,7 +197,7 @@ contract ConfidentialToken {
         emit Transfer(msg.sender, to);
     }
 
-    /// @notice Returns an encrypted balance handle that only the account owner can decrypt
+// @notice Returns an encrypted balance handle that only the account owner can decrypt
     function getEncryptedBalance() external view returns (euint64) {
         return _encBalances[msg.sender];
     }

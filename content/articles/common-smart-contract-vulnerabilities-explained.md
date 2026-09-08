@@ -23,7 +23,7 @@ Reentrancy is one of the most notorious smart contract vulnerabilities, infamous
 - **The Vulnerable Code:** A classic example is a `withdraw` function that transfers Ether before updating the user's balance.
 
  ```solidity
- // VULNERABLE CODE
+/ VULNERABLE CODE
  mapping(address => uint) public balances;
 
  function withdraw() public {
@@ -49,7 +49,7 @@ Reentrancy is one of the most notorious smart contract vulnerabilities, infamous
 **Interactions:** Call external contracts or send Ether.
 
  ```solidity
- // SECURE CODE
+/ SECURE CODE
  function withdraw() public {
  uint amount = balances[msg.sender];
  require(amount > 0);
@@ -66,7 +66,7 @@ Integer overflow and underflow were common vulnerabilities in earlier versions o
 - **The Concept:** An unsigned integer has a fixed size. For example, a `uint8` can only contain values from 0 to 255. Adding 1 to a `uint8` holding 255 results in a wrap-around to 0 (overflow). Conversely, subtracting 1 from a `uint8` at 0 wraps it around to 255 (underflow).
 
 - **The Vulnerable Code (Pre-Solidity 0.8.0):**```solidity
- // VULNERABLE on Solidity < 0.8.0
+/ VULNERABLE on Solidity < 0.8.0
  uint8 public balance;
  function deposit() public payable {
  balance += uint8(msg.value); // Could overflow if balance is already high
@@ -85,7 +85,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 - **The Concept:** Functions that execute sensitive actions, such as changing ownership, minting new [tokens](/what-is-a-token), or upgrading contracts, must be safeguarded to ensure only authorized addresses can invoke them.
 
 - **The Vulnerable Code:**```solidity
- // VULNERABLE CODE
+/ VULNERABLE CODE
  address public owner;
 
  function withdrawAll() public { // Problem: No access control! Anyone can call this.
@@ -100,7 +100,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
  - **Role-Based Access Control:** For complex systems, use a standardized role-based approach, such as OpenZeppelin's `AccessControl` contract, which allows defining various roles (e.g., `MINTER_ROLE`, `UPGRADER_ROLE`) and assigning them to different addresses.
 
  ```solidity
- // SECURE CODE
+/ SECURE CODE
  modifier onlyOwner() {
  require(msg.sender == owner, "Caller is not the owner");
  _;
@@ -121,7 +121,7 @@ Incorrect access control is a broad yet critical category of vulnerabilities whe
 - **The Vulnerable Code:** Using a single on-chain source, such as a Uniswap v2 pool, as a price oracle poses risks.
 
  ```solidity
- // VULNERABLE CODE
+/ VULNERABLE CODE
  function getPrice() internal view returns (uint) {
  return uniswapV2Pair.getReserves()...; 
  }
@@ -141,7 +141,7 @@ When your contract invokes another contract, checking for call success is essent
 - **The Concept:** Low-level calls such as `call`, `delegatecall`, and `staticcall` do not revert the parent function upon failure; they simply return `false` as the first return value. Failing to check this return value allows the function to proceed as if the call succeeded, potentially leading to unexpected states.
 
 - **The Vulnerable Code:**```solidity
- // VULNERABLE CODE
+/ VULNERABLE CODE
  function sendTo(address payable _to, uint amount) public {
  _to.call{value: amount}(""); // PROBLEM: Return value is not checked
  }
@@ -150,7 +150,7 @@ When your contract invokes another contract, checking for call success is essent
 - **The Prevention:** Always verify the boolean `success` value returned by a low-level call, and revert the transaction if it returns `false`.
 
  ```solidity
- // SECURE CODE
+/ SECURE CODE
  function sendTo(address payable _to, uint amount) public {
  (bool success, ) = _to.call{value: amount}("");
  require(success, "External call failed");

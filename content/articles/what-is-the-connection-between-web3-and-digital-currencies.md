@@ -77,7 +77,7 @@ contract StakingIncentiveEngine {
     }
 
     function distributeEpochReward(address validator, uint256 performanceScore) external {
-        // High performance scores earn protocol-minted ETH rewards
+/ High performance scores earn protocol-minted ETH rewards
         uint256 reward = (stakedBalance[validator] * ANNUAL_BASE_REWARD_RATE * performanceScore) / (10000 * 365);
         validatorRewards[validator] += reward;
     }

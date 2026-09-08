@@ -349,13 +349,13 @@ contract Groth16Verifier {
         uint256[2] calldata c,
         uint256[2] calldata input
     ) external view returns (bool success) {
-        // Precompile address 0x08 evaluates pairings: e(a1, b1) * e(a2, b2) * ... == 1
-        // Formatted input payload containing negated points for identity evaluation
+/ Precompile address 0x08 evaluates pairings: e(a1, b1) * e(a2, b2) * ... == 1
+/ Formatted input payload containing negated points for identity evaluation
         bytes memory memPtr = abi.encode(
             a[0], a[1],
             b[0][1], b[0][0], b[1][1], b[1][0], // Inverted coordinate packing for G2
             c[0], c[1],
-            // Public input linear combinations omitted for brevity
+/ Public input linear combinations omitted for brevity
             input[0], input[1]
         );
 
@@ -364,7 +364,7 @@ contract Groth16Verifier {
             let inData := add(memPtr, 0x20)
             let outData := mload(0x40)
 
-            // Invoke ecPairing precompile at address 0x08
+/ Invoke ecPairing precompile at address 0x08
             success := staticcall(sub(gas(), 2000), 0x08, inData, inSize, outData, 0x20)
             switch success
             case 1 { success := mload(outData) }

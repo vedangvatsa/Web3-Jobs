@@ -134,7 +134,7 @@ contract CompliantDeFiVault {
     }
 
     function deposit() external payable {
-        // Enforce real-time OFAC sanctions screening
+/ Enforce real-time OFAC sanctions screening
         require(!sanctionsOracle.isSanctioned(msg.sender), "Error: Address blocked by OFAC sanctions oracle");
         emit DepositAllowed(msg.sender, msg.value);
     }

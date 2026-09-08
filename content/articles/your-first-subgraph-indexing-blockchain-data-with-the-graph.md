@@ -199,11 +199,11 @@ import { Swap as SwapEvent } from "../generated/templates/Pool/Pool";
 import { Pool, Swap, Token } from "../generated/schema";
 
 export function handleSwap(event: SwapEvent): void {
-  // Load the target Pool entity from the database
+/ Load the target Pool entity from the database
   let pool = Pool.load(event.address);
   if (pool == null) return;
 
-  // Derive unique identifier: transaction hash concatenated with event log index
+/ Derive unique identifier: transaction hash concatenated with event log index
   let swapId = event.transaction.hash.concatI32(event.logIndex.toI32());
   let swap = new Swap(swapId);
 
@@ -214,14 +214,14 @@ export function handleSwap(event: SwapEvent): void {
   swap.amount1 = event.params.amount1.toBigDecimal();
   swap.timestamp = event.block.timestamp;
 
-  // Calculate USD valuation using oracle reference feeds (omitted for brevity)
+/ Calculate USD valuation using oracle reference feeds (omitted for brevity)
   let derivedUSD = BigDecimal.fromString("0");
   swap.amountUSD = derivedUSD;
 
-  // Persist the immutable event record
+/ Persist the immutable event record
   swap.save();
 
-  // Update cumulative pool state
+/ Update cumulative pool state
   pool.liquidity = pool.liquidity.plus(event.params.amount0.abs());
   pool.save();
 }
@@ -304,7 +304,7 @@ import { Pool as PoolTemplate } from "../generated/templates";
 import { Pool } from "../generated/schema";
 
 export function handlePoolCreated(event: PoolCreated): void {
-  // 1. Create and save the new Pool entity
+/ 1. Create and save the new Pool entity
   let pool = new Pool(event.params.pool);
   pool.token0 = event.params.token0;
   pool.token1 = event.params.token1;
@@ -313,7 +313,7 @@ export function handlePoolCreated(event: PoolCreated): void {
   pool.createdAtBlockNumber = event.block.number;
   pool.save();
 
-  // 2. Instruct Graph Node to start listening to the new pool address immediately!
+/ 2. Instruct Graph Node to start listening to the new pool address immediately!
   PoolTemplate.create(event.params.pool);
 }
 ```
@@ -475,7 +475,7 @@ describe("Factory Event Handlers", () => {
     let newPoolEvent = createPoolCreatedEvent(token0, token1, fee, poolAddress);
     handlePoolCreated(newPoolEvent);
 
-    // Assert that the Pool entity exists in the PostgreSQL entity store
+/ Assert that the Pool entity exists in the PostgreSQL entity store
     assert.fieldEquals("Pool", poolAddress.toHexString(), "feeTier", "500");
     assert.fieldEquals("Pool", poolAddress.toHexString(), "token0", token0.toHexString());
     assert.fieldEquals("Pool", poolAddress.toHexString(), "token1", token1.toHexString());

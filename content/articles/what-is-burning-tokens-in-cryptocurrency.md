@@ -50,13 +50,13 @@ contract VerifiableBurnToken is ERC20, Ownable {
         _mint(msg.sender, initialSupply * 10**decimals());
     }
 
-    /// Direct state reduction burn modifying internal supply state variable
+// Direct state reduction burn modifying internal supply state variable
     function burnStateReduction(uint256 amount) external {
         _burn(msg.sender, amount);
         emit TokensBurned(msg.sender, amount, "STATE_REDUCTION");
     }
 
-    /// Transfer-to-dead-address burn preserving total historical mint metric
+// Transfer-to-dead-address burn preserving total historical mint metric
     function burnToDeadAddress(uint256 amount) external {
         _transfer(msg.sender, DEAD_ADDRESS, amount);
         emit TokensBurned(msg.sender, amount, "DEAD_ADDRESS_TRANSFER");
@@ -225,7 +225,7 @@ If a custom token exposes an un-guarded public `burn(address account, uint256 am
 ```solidity
 // VULNERABLE CODE - DO NOT USE IN PRODUCTION
 function unsafeBurn(address targetAccount, uint256 amount) external {
-    // Missing require(msg.sender == targetAccount) check!
+/ Missing require(msg.sender == targetAccount) check!
     balances[targetAccount] -= amount;
     totalSupply -= amount;
 }
@@ -290,7 +290,7 @@ contract SecureBuybackBurn is ReentrancyGuard {
         path[0] = feeToken;
         path[1] = nativeToken;
 
-        // Route output tokens directly to dead address
+/ Route output tokens directly to dead address
         swapRouter.swapExactTokensForTokens(
             feeAmountIn,
             minNativeOut,
@@ -365,7 +365,7 @@ contract BurnTokenInvariantTest is Test {
         token.transfer(user, 100_000 * 10**18);
     }
 
-    /// Fuzz test verifying that burning reduces total supply equal to balance reduction
+// Fuzz test verifying that burning reduces total supply equal to balance reduction
     function testFuzz_BurnStateReduction(uint256 burnAmount) public {
         uint256 userBalance = token.balanceOf(user);
         vm.assume(burnAmount > 0 && burnAmount <= userBalance);

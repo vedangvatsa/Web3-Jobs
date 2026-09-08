@@ -118,20 +118,20 @@ contract SecuredRwaToken {
         minter = msg.sender;
     }
 
-    /// @notice Mints new tokens only if total supply remains backed by audited reserves
+// @notice Mints new tokens only if total supply remains backed by audited reserves
     function mint(address to, uint256 amount) external {
         if (msg.sender != minter) revert Unauthorized();
 
         int256 currentReserves = porFeed.latestAnswer();
         if (currentReserves <= 0) revert ReserveDeficit();
 
-        // Enforce that new total supply cannot exceed verified collateral
+/ Enforce that new total supply cannot exceed verified collateral
         if (totalSupply + amount > uint256(currentReserves)) {
             revert ReserveDeficit();
         }
 
         totalSupply += amount;
-        // Balance assignment logic executed here
+/ Balance assignment logic executed here
     }
 }
 ```

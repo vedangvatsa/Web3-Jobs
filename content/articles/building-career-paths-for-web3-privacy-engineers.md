@@ -91,13 +91,13 @@ fn main(
     signature: [u8; 64],        // Private signature from financial auditor
     auditor_pubkey: pub [u8; 32]// Public key of auditor
 ) {
-    // 1. Verify salary meets regulatory threshold blindly
+/ 1. Verify salary meets regulatory threshold blindly
     assert(salary as u64 >= threshold as u64);
 
-    // 2. Compute cryptographic commitment to prevent replay
+/ 2. Compute cryptographic commitment to prevent replay
     let salary_hash = std::hash::pedersen_hash([salary]);
 
-    // 3. Verify digital signature from certified auditor over the commitment
+/ 3. Verify digital signature from certified auditor over the commitment
     let is_valid = std::ecdsa_secp256k1::verify_signature(
         auditor_pubkey, 
         signature, 
@@ -245,11 +245,11 @@ template BrokenMultiplier() {
     signal input b;
     signal output c;
 
-    // Assignment without constraint: the prover calculates c, 
-    // but no constraint equation enforces that c === a * b!
+/ Assignment without constraint: the prover calculates c, 
+/ but no constraint equation enforces that c === a * b!
     c <-- a * b;
     
-    // An attacker can forge c = 999999999 without satisfying the multiplication!
+/ An attacker can forge c = 999999999 without satisfying the multiplication!
 }
 
 // CORRECT: Fully Constrained Circuit
@@ -258,7 +258,7 @@ template SecureMultiplier() {
     signal input b;
     signal output c;
 
-    // Both assigns the witness AND generates the R1CS constraint: c === a * b
+/ Both assigns the witness AND generates the R1CS constraint: c === a * b
     c <== a * b; 
 }
 ```

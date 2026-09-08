@@ -204,28 +204,28 @@ include "../node_modules/circomlib/circuits/comparators.circom";
 include "../node_modules/circomlib/circuits/poseidon.circom";
 
 template ReputationThresholdProof() {
-    // Private Signals (Known only to the Prover)
+/ Private Signals (Known only to the Prover)
     signal input userReputationScore;
     signal input userPrivateKey;
 
-    // Public Signals (Known to the Verifier / On-Chain Contract)
+/ Public Signals (Known to the Verifier / On-Chain Contract)
     signal input minimumRequiredScore;
     signal input publicIdentityCommitment;
 
-    // Output Signal
+/ Output Signal
     signal output isValid;
 
-    // 1. Verify identity commitment matching Poseidon(privateKey)
+/ 1. Verify identity commitment matching Poseidon(privateKey)
     component hasher = Poseidon(1);
     hasher.inputs[0] <== userPrivateKey;
     publicIdentityCommitment === hasher.out;
 
-    // 2. Check if score is greater than or equal to threshold
+/ 2. Check if score is greater than or equal to threshold
     component gte = GreaterEqThan(32);
     gte.in[0] <== userReputationScore;
     gte.in[1] <== minimumRequiredScore;
 
-    // 3. Constrain output to valid binary outcome
+/ 3. Constrain output to valid binary outcome
     isValid <== gte.out;
     isValid === 1;
 }

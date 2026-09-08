@@ -274,7 +274,7 @@ contract Guarded {
         assembly { tstore(LOCK_SLOT, 0) }
     }
     function withdraw() external nonReentrant {
-        // checks, effects, interactions
+/ checks, effects, interactions
     }
 }
 ```

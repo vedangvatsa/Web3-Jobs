@@ -176,37 +176,37 @@ export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
     
-    // Extract trusted data payload signed by user Ed25519 key
+/ Extract trusted data payload signed by user Ed25519 key
     const { untrustedData, trustedData } = body;
     const buttonIndex = untrustedData?.buttonIndex;
     const userFid = untrustedData?.fid;
     const castId = untrustedData?.castId;
 
-    // Verify signature with Neynar or Hub validation endpoint
+/ Verify signature with Neynar or Hub validation endpoint
     const isValidSignature = trustedData?.messageBytes !== undefined;
     if (!isValidSignature) {
       return NextResponse.json({ error: 'Invalid frame signature' }, { status: 400 });
     }
 
-    // Execute business logic based on user interaction
+/ Execute business logic based on user interaction
     const message = buttonIndex === 1 
       ? `Welcome FID #${userFid}! Option A confirmed for cast ${castId.hash.slice(0, 8)}.` 
       : `FID #${userFid} selected Option B.`;
 
-    // Return updated Frame HTML metadata
+/ Return updated Frame HTML metadata
     return new NextResponse(`
-      <!DOCTYPE html>
-      <html>
-        <head>
-          <meta property="fc:frame" content="v2" />
-          <meta property="fc:frame:image" content="https://hashtagweb3.com/images/frame-response.png" />
-          <meta property="fc:frame:button:1" content="View Updated Results" />
-          <meta property="og:title" content="Interactive SocialFi Frame" />
-        </head>
-        <body>
-          <p>${message}</p>
-        </body>
-      </html>
+!DOCTYPE html>
+html>
+head>
+meta property="fc:frame" content="v2" />
+meta property="fc:frame:image" content="https://hashtagweb3.com/images/frame-response.png" />
+meta property="fc:frame:button:1" content="View Updated Results" />
+meta property="og:title" content="Interactive SocialFi Frame" />
+/head>
+body>
+p>${message}</p>
+/body>
+/html>
     `, {
       headers: { 'Content-Type': 'text/html' },
     });

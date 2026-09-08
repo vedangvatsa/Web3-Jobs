@@ -23,39 +23,39 @@ In 1981, computer scientist David Chaum published his foundational paper [Untrac
 Building on Chaum's theoretical groundwork, researchers Paul Syverson, Michael Reed, and David Goldschlag at the US Naval Research Laboratory developed Tor (The Onion Router) in the late 1990s to protect government intelligence communications across public internet infrastructure.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Onion Routing Encrypted Layer Mechanics</div>
-  <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Sender -->
-    <g transform="translate(60, 120)">
-      <rect x="-40" y="-30" width="80" height="60" rx="6" fill="#3b82f6" fill-opacity="0.2" stroke="#3b82f6" stroke-width="1.5"/>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Sender Node</text>
-    </g>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Onion Routing Encrypted Layer Mechanics</div>
+svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Hop 1 -->
-    <g transform="translate(260, 120)">
-      <circle cx="0" cy="0" r="32" fill="currentColor" fill-opacity="0.04" stroke="currentColor" stroke-opacity="0.2" stroke-width="1.5"/>
-      <text x="0" y="-5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="currentColor">Entry Guard</text>
-      <text x="0" y="10" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor" fill-opacity="0.6">Layer 1 Stripped</text>
-    </g>
+g transform="translate(60, 120)">
+rect x="-40" y="-30" width="80" height="60" rx="6" fill="#3b82f6" fill-opacity="0.2" stroke="#3b82f6" stroke-width="1.5"/>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Sender Node</text>
+/g>
 
-    <!-- Hop 2 -->
-    <g transform="translate(460, 120)">
-      <circle cx="0" cy="0" r="32" fill="currentColor" fill-opacity="0.04" stroke="currentColor" stroke-opacity="0.2" stroke-width="1.5"/>
-      <text x="0" y="-5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="currentColor">Middle Relay</text>
-      <text x="0" y="10" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor" fill-opacity="0.6">Layer 2 Stripped</text>
-    </g>
 
-    <!-- Destination -->
-    <g transform="translate(660, 120)">
-      <rect x="-40" y="-30" width="80" height="60" rx="6" fill="#10b981" fill-opacity="0.2" stroke="#10b981" stroke-width="1.5"/>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Destination</text>
-    </g>
+g transform="translate(260, 120)">
+circle cx="0" cy="0" r="32" fill="currentColor" fill-opacity="0.04" stroke="currentColor" stroke-opacity="0.2" stroke-width="1.5"/>
+text x="0" y="-5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="currentColor">Entry Guard</text>
+text x="0" y="10" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor" fill-opacity="0.6">Layer 1 Stripped</text>
+/g>
 
-    <!-- Connection Lines -->
-    <line x1="100" y1="120" x2="228" y2="120" stroke="#3b82f6" stroke-width="2" stroke-dasharray="4"/>
-    <line x1="292" y1="120" x2="428" y2="120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
-    <line x1="492" y1="120" x2="620" y2="120" stroke="#10b981" stroke-width="2"/>
-  </svg>
+
+g transform="translate(460, 120)">
+circle cx="0" cy="0" r="32" fill="currentColor" fill-opacity="0.04" stroke="currentColor" stroke-opacity="0.2" stroke-width="1.5"/>
+text x="0" y="-5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="currentColor">Middle Relay</text>
+text x="0" y="10" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor" fill-opacity="0.6">Layer 2 Stripped</text>
+/g>
+
+
+g transform="translate(660, 120)">
+rect x="-40" y="-30" width="80" height="60" rx="6" fill="#10b981" fill-opacity="0.2" stroke="#10b981" stroke-width="1.5"/>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Destination</text>
+/g>
+
+
+line x1="100" y1="120" x2="228" y2="120" stroke="#3b82f6" stroke-width="2" stroke-dasharray="4"/>
+line x1="292" y1="120" x2="428" y2="120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+line x1="492" y1="120" x2="620" y2="120" stroke="#10b981" stroke-width="2"/>
+/svg>
 </div>
 
 Tor protects user location privacy through multi-layered cryptographic encapsulation:
@@ -112,38 +112,38 @@ Instead of transferring funds into a central market wallet, second-generation da
 $$\text{RedeemScript} = \text{2 } [\text{PubKey}_{\text{Buyer}}] \ [\text{PubKey}_{\text{Seller}}] \ [\text{PubKey}_{\text{Arbiter}}] \ \text{3 CheckMultiSig}$$
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: 2-of-3 Multi-Signature Escrow Execution State Machine</div>
-  <svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- State 1: Locked Escrow -->
-    <g transform="translate(100, 110)">
-      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1.5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Locked Escrow</text>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Buyer Deposits BTC</text>
-      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">2-of-3 Script Active</text>
-    </g>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: 2-of-3 Multi-Signature Escrow Execution State Machine</div>
+svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Arrow 1 -->
-    <line x1="160" y1="110" x2="280" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+g transform="translate(100, 110)">
+rect x="-60" y="-40" width="120" height="80" rx="8" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1.5"/>
+text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Locked Escrow</text>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Buyer Deposits BTC</text>
+text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">2-of-3 Script Active</text>
+/g>
 
-    <!-- State 2: Normal Settlement -->
-    <g transform="translate(340, 110)">
-      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Normal Execution</text>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Buyer + Seller Sign</text>
-      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#10b981">Funds to Seller</text>
-    </g>
 
-    <!-- Arrow 2 -->
-    <line x1="400" y1="110" x2="520" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+line x1="160" y1="110" x2="280" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
 
-    <!-- State 3: Dispute Resolution -->
-    <g transform="translate(580, 110)">
-      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1.5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#f59e0b">Dispute Resolution</text>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Arbiter + 1 Party Sign</text>
-      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#f59e0b">Refund or Release</text>
-    </g>
-  </svg>
+
+g transform="translate(340, 110)">
+rect x="-60" y="-40" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Normal Execution</text>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Buyer + Seller Sign</text>
+text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#10b981">Funds to Seller</text>
+/g>
+
+
+line x1="400" y1="110" x2="520" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+
+g transform="translate(580, 110)">
+rect x="-60" y="-40" width="120" height="80" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1.5"/>
+text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#f59e0b">Dispute Resolution</text>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Arbiter + 1 Party Sign</text>
+text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#f59e0b">Refund or Release</text>
+/g>
+/svg>
 </div>
 
 This cryptographic script specifies that funds locked within the escrow address can only be transferred if at least two of the three designated cryptographic public keys produce valid digital signatures:

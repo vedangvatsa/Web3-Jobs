@@ -77,7 +77,7 @@ declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 pub mod my_counter_dapp {
  use super::*;
 
- // This function initializes our counter account
+/ This function initializes our counter account
  pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
  let counter_account = &mut ctx.accounts.counter_account;
  counter_account.count = 0;
@@ -85,7 +85,7 @@ pub mod my_counter_dapp {
  Ok(())
  }
 
- // This function increments the count
+/ This function increments the count
  pub fn increment(ctx: Context<Increment>) -> Result<()> {
  let counter_account = &mut ctx.accounts.counter_account;
  counter_account.count += 1;
@@ -141,17 +141,17 @@ import { MyCounterDapp } from "../target/types/my_counter_dapp";
 import { expect } from "chai";
 
 describe("my-counter-dapp", () => {
- // Configure the client to use the local cluster.
+/ Configure the client to use the local cluster.
  const provider = anchor.AnchorProvider.env();
  anchor.setProvider(provider);
 
  const program = anchor.workspace.MyCounterDapp as Program<MyCounterDapp>;
 
- // Create a keypair for our counter account
+/ Create a keypair for our counter account
  const counterAccount = anchor.web3.Keypair.generate();
 
  it("Is initialized!", async () => {
- // Call the initialize function
+/ Call the initialize function
  await program.methods
  .initialize()
  .accounts({
@@ -162,13 +162,13 @@ describe("my-counter-dapp", () => {
  .signers([counterAccount])
  .rpc();
 
- // Fetch the state of our counter account
+/ Fetch the state of our counter account
  const account = await program.account.counter.fetch(counterAccount.publicKey);
  expect(account.count.toNumber()).to.equal(0);
  });
 
  it("Is incremented!", async () => {
- // Call the increment function
+/ Call the increment function
  await program.methods
  .increment()
  .accounts({
@@ -176,7 +176,7 @@ describe("my-counter-dapp", () => {
  })
  .rpc();
 
- // Fetch the state again
+/ Fetch the state again
  const account = await program.account.counter.fetch(counterAccount.publicKey);
  expect(account.count.toNumber()).to.equal(1);
  });

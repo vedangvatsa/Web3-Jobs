@@ -234,16 +234,16 @@ contract AutomatedLiquidityManager is Ownable, ReentrancyGuard {
         fillWidthTicks = _width;
     }
 
-    /// Executed by off-chain Gelato or Chainlink Automation Keepers
+// Executed by off-chain Gelato or Chainlink Automation Keepers
     function checkAndRebalance() external nonReentrant {
         (, int24 currentTick, , , , , ) = pool.slot0();
 
-        // Check if current tick has drifted outside our target range
+/ Check if current tick has drifted outside our target range
         if (currentTick < lastLowerTick || currentTick > lastUpperTick) {
             int24 newLower = currentTick - fillWidthTicks;
             int24 newUpper = currentTick + fillWidthTicks;
 
-            // Execute withdrawal, swap inventory, and remint new position
+/ Execute withdrawal, swap inventory, and remint new position
             _rebalance(newLower, newUpper);
             
             lastLowerTick = newLower;
@@ -254,7 +254,7 @@ contract AutomatedLiquidityManager is Ownable, ReentrancyGuard {
     }
 
     function _rebalance(int24 newLower, int24 newUpper) internal {
-        // Internal inventory rebalancing and LP minting logic
+/ Internal inventory rebalancing and LP minting logic
     }
 }
 ```

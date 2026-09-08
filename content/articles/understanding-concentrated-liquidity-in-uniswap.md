@@ -312,15 +312,15 @@ contract UniswapV3PositionManager {
         positionManager = INonfungiblePositionManager(_positionManager);
     }
 
-    /// @notice Mints a new concentrated liquidity position
-    /// @param token0 Address of the first token (sorted by address)
-    /// @param token1 Address of the second token
-    /// @param fee Tier fee in hundredths of a pip (e.g. 3000 = 0.3%)
-    /// @param tickLower Lower tick boundary (must conform to tick spacing)
-    /// @param tickUpper Upper tick boundary (must conform to tick spacing)
-    /// @param amount0Desired Target deposit for token0
-    /// @param amount1Desired Target deposit for token1
-    /// @param deadline Unix timestamp deadline
+// @notice Mints a new concentrated liquidity position
+// @param token0 Address of the first token (sorted by address)
+// @param token1 Address of the second token
+// @param fee Tier fee in hundredths of a pip (e.g. 3000 = 0.3%)
+// @param tickLower Lower tick boundary (must conform to tick spacing)
+// @param tickUpper Upper tick boundary (must conform to tick spacing)
+// @param amount0Desired Target deposit for token0
+// @param amount1Desired Target deposit for token1
+// @param deadline Unix timestamp deadline
     function mintPosition(
         address token0,
         address token1,
@@ -334,15 +334,15 @@ contract UniswapV3PositionManager {
         if (block.timestamp > deadline) revert DeadlinePassed();
         if (tickLower >= tickUpper) revert InvalidTickRange();
 
-        // Pull tokens from caller into this router contract
+/ Pull tokens from caller into this router contract
         IERC20(token0).transferFrom(msg.sender, address(this), amount0Desired);
         IERC20(token1).transferFrom(msg.sender, address(this), amount1Desired);
 
-        // Approve PositionManager to transfer assets
+/ Approve PositionManager to transfer assets
         IERC20(token0).approve(address(positionManager), amount0Desired);
         IERC20(token1).approve(address(positionManager), amount1Desired);
 
-        // Configure mint parameters with 1% slippage protection
+/ Configure mint parameters with 1% slippage protection
         INonfungiblePositionManager.MintParams memory params = INonfungiblePositionManager.MintParams({
             token0: token0,
             token1: token1,
@@ -359,7 +359,7 @@ contract UniswapV3PositionManager {
 
         (tokenId, liquidity, amount0, amount1) = positionManager.mint(params);
 
-        // Refund any residual unspent tokens back to user
+/ Refund any residual unspent tokens back to user
         if (amount0Desired > amount0) {
             IERC20(token0).approve(address(positionManager), 0);
             IERC20(token0).transferFrom(address(this), msg.sender, amount0Desired - amount0);
