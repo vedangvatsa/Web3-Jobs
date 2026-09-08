@@ -263,6 +263,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     };
   }
 
+  if (params.slug.includes('.')) {
+    notFound();
+  }
+
   // Fall back to article
  const article = await getArticle(params.slug);
  if (!article) {
