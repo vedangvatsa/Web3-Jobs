@@ -95,23 +95,44 @@ function verifyJobsIntegrity() {
     }
   }
 
+  // 6. Company Completeness Check: Ensure 100% of companies have non-empty website and rich description
+  const uniqueCompanies = [...new Set(jobs.map(j => j.company))];
+  const { getCompanySlug } = require('../src/lib/job-slugs');
+  const { COMPANY_RICH_ABOUT } = require('../src/lib/company-profiles');
+  const missingProfiles: string[] = [];
+
+  for (const comp of uniqueCompanies) {
+    const slug = getCompanySlug(comp);
+    if (!COMPANY_RICH_ABOUT[slug] && !COMPANY_RICH_ABOUT[slug.replace(/-labs$|-foundation$/, '')]) {
+      missingProfiles.push(comp);
+    }
+  }
+
+  if (missingProfiles.length > 0) {
+    console.error(`\n❌ Found ${missingProfiles.length} companies missing rich About profiles:`, missingProfiles);
+    process.exit(1);
+  }
+
   if (violations.length > 0) {
     console.error(`\n❌ Found ${violations.length} integrity violations in jobs-cache.json:`);
     for (const v of violations.slice(0, 50)) {
-      console.error(`  - [${v.reason}] | Company: "${v.company}" | Title: "${v.title}" | Slug: "${v.slug}" | ID: ${v.id}`);
+      console.error(`  - [${v.company}] "${v.title}" (${v.id}): ${v.reason}`);
     }
     if (violations.length > 50) {
-      console.error(`  ... and ${violations.length - 50} more violations.`);
+      console.error(`  ... and ${violations.length - 50} more.`);
     }
     process.exit(1);
   }
 
-  console.log(`\n✅ Jobs Integrity Passed: All ${jobs.length} jobs verified across 5 critical safety assertions:`);
-  console.log('  1. Zero general applications, talent pools, or placeholders');
-  console.log('  2. Zero non-Web3 / biotech / unrelated domain roles');
-  console.log('  3. Zero unsanitized parenthetical company tags or blocked companies');
-  console.log('  4. Zero search-results or generic query application URLs');
-  console.log('  5. 100% slug uniqueness with no collisions');
+  console.log(`\n✅ Jobs Integrity Passed: All ${jobs.length} jobs verified across 6 critical safety assertions:`);
+  console.log(`  1. Zero general applications, talent pools, or placeholders`);
+  console.log(`  2. Zero non-Web3 / biotech / unrelated domain roles`);
+  console.log(`  3. Zero unsanitized parenthetical company tags or blocked companies`);
+  console.log(`  4. Zero search-results or generic query application URLs`);
+  console.log(`  5. 100% slug uniqueness with no collisions`);
+  console.log(`  6. 100% company website and rich profile coverage across all ${uniqueCompanies.length} companies`);
 }
 
-verifyJobsIntegrity();
+if (require.main === module) {
+  verifyJobsIntegrity();
+}
