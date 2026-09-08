@@ -1,5 +1,5 @@
 {
-  "lastIndex": 114,
+  "lastIndex": 115,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -26,7 +26,8 @@
     "recruiting57",
     "role6be75",
     "role48004",
-    "joba31d1"
+    "joba31d1",
+    "security29764"
   ],
   "history": [
     {
@@ -740,6 +741,46 @@
       "platform": "instagram",
       "postedAt": "2026-09-07T22:06:20.153Z",
       "postId": "17988194925103181"
+    },
+    {
+      "slug": "security29764",
+      "company": "CertiK (detailed)",
+      "title": "Sr. Security Engineer (Penetration Testing)",
+      "platform": "threads",
+      "postedAt": "2026-09-08T00:30:41.568Z",
+      "postId": "18127150546789643"
+    },
+    {
+      "slug": "security29764",
+      "company": "CertiK (detailed)",
+      "title": "Sr. Security Engineer (Penetration Testing)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T00:30:41.568Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muxrh3kmu32v"
+    },
+    {
+      "slug": "security29764",
+      "company": "CertiK (detailed)",
+      "title": "Sr. Security Engineer (Penetration Testing)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T00:30:41.568Z",
+      "postId": "0x43013c7196a6d3d54bae6bfc08cf251ef9170bed"
+    },
+    {
+      "slug": "security29764",
+      "company": "CertiK (detailed)",
+      "title": "Sr. Security Engineer (Penetration Testing)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T00:30:41.568Z",
+      "postId": "6a9f5752555f6e1cb7741814"
+    },
+    {
+      "slug": "security29764",
+      "company": "CertiK (detailed)",
+      "title": "Sr. Security Engineer (Penetration Testing)",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T00:30:41.568Z",
+      "postId": "691827047618629_1082679287672639"
     }
   ]
 }
