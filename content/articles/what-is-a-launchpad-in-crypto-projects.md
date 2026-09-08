@@ -85,11 +85,11 @@ contract LaunchpadTierManager {
     constructor(address _launchpadToken) {
         launchpadToken = IERC20(_launchpadToken);
         
-        // Tier 1: Bronze (Lottery Base)
+/ Tier 1: Bronze (Lottery Base)
         tiers[1] = Tier(1000 * 1e18, 10, false);
-        // Tier 2: Silver (Guaranteed Medium)
+/ Tier 2: Silver (Guaranteed Medium)
         tiers[2] = Tier(5000 * 1e18, 55, true);
-        // Tier 3: Gold (Guaranteed Heavy)
+/ Tier 3: Gold (Guaranteed Heavy)
         tiers[3] = Tier(20000 * 1e18, 250, true);
     }
 
@@ -285,11 +285,11 @@ contract IDOSaleVault is Ownable {
         merkleRoot = _merkleRoot;
     }
 
-    /// @notice Purchase IDO allocation using Merkle Proof verification
+// @notice Purchase IDO allocation using Merkle Proof verification
     function buyAllocation(uint256 allocationAmount, bytes32[] calldata merkleProof) external {
         require(!hasParticipated[msg.sender], "Address has already purchased allocation");
         
-        // Verify leaf node: hash(msg.sender, allocationAmount)
+/ Verify leaf node: hash(msg.sender, allocationAmount)
         bytes32 leaf = keccak256(abi.encodePacked(msg.sender, allocationAmount));
         require(MerkleProof.verify(merkleProof, merkleRoot, leaf), "Invalid Merkle Whitelist Proof");
 
@@ -301,7 +301,7 @@ contract IDOSaleVault is Ownable {
         emit TokensPurchased(msg.sender, totalCost);
     }
 
-    /// @notice Update Merkle Root for new IDO rounds
+// @notice Update Merkle Root for new IDO rounds
     function setMerkleRoot(bytes32 _newRoot) external onlyOwner {
         merkleRoot = _newRoot;
     }

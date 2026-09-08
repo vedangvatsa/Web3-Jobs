@@ -352,13 +352,13 @@ contract BalancerWeightedSwapper {
         vault = IVault(_vaultAddress);
     }
 
-    /// @notice Executes an exact-input swap through the Balancer Vault
-    /// @param poolId The unique bytes32 identifier of the Balancer Weighted Pool
-    /// @param tokenIn Address of the input ERC-20 token
-    /// @param tokenOut Address of the output ERC-20 token
-    /// @param amountIn Exact quantity of input token to swap
-    /// @param minAmountOut Minimum acceptable output quantity to prevent slippage
-    /// @param deadline Unix timestamp after which the transaction reverts
+// @notice Executes an exact-input swap through the Balancer Vault
+// @param poolId The unique bytes32 identifier of the Balancer Weighted Pool
+// @param tokenIn Address of the input ERC-20 token
+// @param tokenOut Address of the output ERC-20 token
+// @param amountIn Exact quantity of input token to swap
+// @param minAmountOut Minimum acceptable output quantity to prevent slippage
+// @param deadline Unix timestamp after which the transaction reverts
     function executeSwapGivenIn(
         bytes32 poolId,
         address tokenIn,
@@ -369,10 +369,10 @@ contract BalancerWeightedSwapper {
     ) external returns (uint256 amountOut) {
         if (block.timestamp > deadline) revert TransactionDeadlineExpired();
 
-        // Transfer funds from sender to this contract
+/ Transfer funds from sender to this contract
         IERC20(tokenIn).transferFrom(msg.sender, address(this), amountIn);
 
-        // Approve the centralized Vault to spend input tokens
+/ Approve the centralized Vault to spend input tokens
         IERC20(tokenIn).approve(address(vault), amountIn);
 
         IVault.SingleSwap memory singleSwap = IVault.SingleSwap({
@@ -391,7 +391,7 @@ contract BalancerWeightedSwapper {
             toInternalBalance: false
         });
 
-        // Limit for GIVEN_IN defines the minimum tokens received
+/ Limit for GIVEN_IN defines the minimum tokens received
         amountOut = vault.swap(
             singleSwap,
             funds,

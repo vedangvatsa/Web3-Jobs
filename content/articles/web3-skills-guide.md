@@ -147,10 +147,10 @@ contract SecureVault {
         uint256 amount = balances[msg.sender];
         require(amount > 0, "Insufficient balance");
 
-        // 1. CHECKS & 2. EFFECTS (State update BEFORE external transfer)
+/ 1. CHECKS & 2. EFFECTS (State update BEFORE external transfer)
         balances[msg.sender] = 0;
 
-        // 3. INTERACTIONS (External transfer call)
+/ 3. INTERACTIONS (External transfer call)
         (bool success, ) = payable(msg.sender).call{value: amount}("");
         require(success, "Transfer failed");
     }

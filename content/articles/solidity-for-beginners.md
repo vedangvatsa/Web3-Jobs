@@ -67,7 +67,7 @@ Now, we define the contract itself. A contract is a collection of code (its func
 
 ```solidity
 contract SimpleStorage {
- // Our code will go in here
+/ Our code will go in here
 }
 ```
 Our contract is named `SimpleStorage`. All the variables and functions that belong to this contract will be inside these curly braces `{}`.
@@ -78,7 +78,7 @@ Your `SimpleStorage.sol` file should now look like this:
 pragma solidity ^0.8.20;
 
 contract SimpleStorage {
- // Our code will go in here
+/ Our code will go in here
 }
 ```
 
@@ -170,11 +170,11 @@ pragma solidity ^0.8.20;
  * @notice This is a very simple contract to store and retrieve a number.
  */
 contract SimpleStorage {
- // A state variable to store a number.
- // It is public, so Solidity automatically creates a getter function for it.
+/ A state variable to store a number.
+/ It is public, so Solidity automatically creates a getter function for it.
  uint256 public favoriteNumber;
 
- /**
+**
  * @notice Stores a new favorite number in the contract.
  * @param _newFavoriteNumber The new number to store.
  */
@@ -182,7 +182,7 @@ contract SimpleStorage {
  favoriteNumber = _newFavoriteNumber;
  }
 
- /**
+**
  * @notice Retrieves the currently stored favorite number.
  * @dev This function is not strictly necessary because the state variable
  * is public, which automatically creates a getter. However, it's included

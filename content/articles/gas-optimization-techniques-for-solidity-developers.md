@@ -103,7 +103,7 @@ With Solidity 0.8.0, arithmetic operations automatically check for overflow and 
 // Example: A for loop where `i` will never overflow
 for (uint256 i = 0; i < length; i++) {
  unchecked {
- // ... operations with i
+/ ... operations with i
  }
 }
 ```**Warning:** Use this feature cautiously, ensuring that you are certain the arithmetic is safe. An unexpected overflow can create serious security vulnerabilities.

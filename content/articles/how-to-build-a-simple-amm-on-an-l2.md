@@ -53,19 +53,19 @@ contract SimpleAMM {
  tokenB = IERC20(_tokenB);
  }
 
- // Function to add liquidity
+/ Function to add liquidity
  function addLiquidity(uint256 _amountA, uint256 _amountB) public {
- // Logic to transfer tokens from user and mint LP shares
+/ Logic to transfer tokens from user and mint LP shares
  }
 
- // Function to remove liquidity
+/ Function to remove liquidity
  function removeLiquidity(uint256 _shares) public {
- // Logic to burn LP shares and return tokens to user
+/ Logic to burn LP shares and return tokens to user
  }
 
- // Function to swap tokens
+/ Function to swap tokens
  function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amountOut) {
- // Logic to calculate output amount and transfer tokens
+/ Logic to calculate output amount and transfer tokens
  }
 }
 ```
@@ -81,10 +81,10 @@ function addLiquidity(uint256 _amountA, uint256 _amountB) public {
 
  uint256 shares;
  if (totalSupply == 0) {
- // First liquidity provider sets the initial exchange rate
+/ First liquidity provider sets the initial exchange rate
  shares = 100;
  } else {
- // Subsequent providers add liquidity proportionally to the current reserves
+/ Subsequent providers add liquidity proportionally to the current reserves
  shares = (_amountA * totalSupply) / reserveA;
  }
 
@@ -119,11 +119,11 @@ function swap(address _tokenIn, uint256 _amountIn) public returns (uint256 amoun
  reserveOut = reserveA;
  }
 
- // Calculate output amount based on the constant product formula
+/ Calculate output amount based on the constant product formula
  uint256 amountInWithFee = _amountIn * 997;
  amountOut = (reserveOut * amountInWithFee) / (reserveIn * 1000 + amountInWithFee);
 
- // Perform the token transfers
+/ Perform the token transfers
  if (_tokenIn == address(tokenA)) {
  tokenA.transferFrom(msg.sender, address(this), _amountIn);
  tokenB.transfer(msg.sender, amountOut);

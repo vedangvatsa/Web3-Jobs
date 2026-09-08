@@ -191,7 +191,7 @@ contract MerkleDistributor {
     address public immutable token;
     bytes32 public immutable merkleRoot;
 
-    // Bitmap or mapping to prevent double claiming
+/ Bitmap or mapping to prevent double claiming
     mapping(uint256 => uint256) private claimedBitMap;
 
     event Claimed(uint256 index, address account, uint256 amount);
@@ -223,14 +223,14 @@ contract MerkleDistributor {
     ) external {
         require(!isClaimed(index), "MerkleDistributor: Drop already claimed.");
 
-        // Verify the Merkle proof
+/ Verify the Merkle proof
         bytes32 node = keccak256(abi.encodePacked(index, account, amount));
         require(
             MerkleProof.verify(merkleProof, merkleRoot, node),
             "MerkleDistributor: Invalid proof."
         );
 
-        // Mark as claimed before transfer to prevent reentrancy
+/ Mark as claimed before transfer to prevent reentrancy
         _setClaimed(index);
         require(IERC20(token).transfer(account, amount), "MerkleDistributor: Transfer failed.");
 

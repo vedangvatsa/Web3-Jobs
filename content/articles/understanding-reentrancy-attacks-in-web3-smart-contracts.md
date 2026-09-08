@@ -36,14 +36,14 @@ Here's a flawed version of the `withdraw` function:
 ```solidity
 // THIS IS VULNERABLE CODE - DO NOT USE
 function withdraw(uint _amount) public {
- // Check if the user has enough balance
+/ Check if the user has enough balance
  require(balances[msg.sender] >= _amount);
 
- // Send the Ether to the user
+/ Send the Ether to the user
  (bool sent, ) = msg.sender.call{value: _amount}("");
  require(sent, "Failed to send Ether");
 
- // Update the user's balance
+/ Update the user's balance
  balances[msg.sender] -= _amount;
 }
 ```
@@ -88,14 +88,14 @@ Here's a secure version of the `withdraw` function using this pattern:
 ```solidity
 // SECURE CODE
 function withdraw(uint _amount) public {
- // 1. Checks
+/ 1. Checks
  uint balance = balances[msg.sender];
  require(balance >= _amount, "Insufficient balance");
 
- // 2. Effects
+/ 2. Effects
  balances[msg.sender] = balance - _amount;
 
- // 3. Interactions
+/ 3. Interactions
  (bool sent, ) = msg.sender.call{value: _amount}("");
  require(sent, "Failed to send Ether");
 }
@@ -124,7 +124,7 @@ Apply this modifier to any function that involves external calls:
 
 ```solidity
 function withdraw(uint _amount) public noReentrant {
- // ... function logic ...
+/ ... function logic ...
 }
 ```
 

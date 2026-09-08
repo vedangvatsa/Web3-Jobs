@@ -136,7 +136,7 @@ contract ZkIdentityGate {
         zkVerifier = IZkVerifier(_zkVerifier);
     }
 
-    /// Verify a ZK proof of age/nationality without revealing identity attributes
+// Verify a ZK proof of age/nationality without revealing identity attributes
     function verifyIdentity(
         bytes calldata proof,
         uint256[] calldata publicInputs,
@@ -145,7 +145,7 @@ contract ZkIdentityGate {
         require(!processedNullifiers[nullifier], "Nullifier already used");
         require(zkVerifier.verifyProof(proof, publicInputs), "Invalid ZK proof");
 
-        // Prevent double-use of credential presentation
+/ Prevent double-use of credential presentation
         processedNullifiers[nullifier] = true;
 
         emit IdentityVerified(nullifier);

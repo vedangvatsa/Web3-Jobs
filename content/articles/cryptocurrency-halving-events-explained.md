@@ -42,16 +42,16 @@ Inside the Bitcoin Core C++ codebase (`validation.cpp`), the function `GetBlockS
 // Bitcoin Core: src/validation.cpp
 CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
 {
-    // Determine the number of halvings that have occurred
+/ Determine the number of halvings that have occurred
     int halvings = nHeight / consensusParams.nSubsidyHalvingInterval;
 
-    // Subsidy is zero after 64 halvings due to bit shift overflow bounds
+/ Subsidy is zero after 64 halvings due to bit shift overflow bounds
     if (halvings >= 64)
         return 0;
 
     CAmount nSubsidy = 50 * COIN;
     
-    // Right-shift subsidy by the number of halvings (integer division by 2^halvings)
+/ Right-shift subsidy by the number of halvings (integer division by 2^halvings)
     nSubsidy >>= halvings;
     
     return nSubsidy;
@@ -158,13 +158,13 @@ unsigned int CalculateNextWorkRequired(const CBlockIndex* pindexLast, int64_t nF
 {
     int64_t nActualTimespan = pindexLast->GetBlockTime() - nFirstBlockTime;
 
-    // Limit adjustment to a factor of 4x in either direction (bounds check)
+/ Limit adjustment to a factor of 4x in either direction (bounds check)
     if (nActualTimespan < nTargetTimespan / 4)
         nActualTimespan = nTargetTimespan / 4;
     if (nActualTimespan > nTargetTimespan * 4)
         nActualTimespan = nTargetTimespan * 4;
 
-    // Calculate new target threshold
+/ Calculate new target threshold
     arith_uint256 bnNew;
     bnNew.SetCompact(pindexLast->nBits);
     bnNew *= nActualTimespan;

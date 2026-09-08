@@ -70,19 +70,19 @@ import "../src/Counter.sol";
 contract CounterTest is Test {
  Counter public counter;
 
- // This is the setup function, which runs before each test.
+/ This is the setup function, which runs before each test.
  function setUp() public {
  counter = new Counter();
  counter.setNumber(0);
  }
 
- // A simple test function. All test functions must start with `test`.
+/ A simple test function. All test functions must start with `test`.
  function testIncrement() public {
  counter.increment();
  assertEq(counter.number(), 1);
  }
 
- // A fuzz test. Foundry will call this function with many random `x` values.
+/ A fuzz test. Foundry will call this function with many random `x` values.
  function testSetNumber(uint256 x) public {
  counter.setNumber(x);
  assertEq(counter.number(), x);

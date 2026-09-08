@@ -104,7 +104,7 @@ If a lending protocol relies on instantaneous AMM reserve balances to value coll
 // FATALLY VULNERABLE SPOT PRICE CALCULATION
 function getAssetPrice(address tokenIn, address tokenOut) public view returns (uint256) {
     (uint112 reserve0, uint112 reserve1, ) = IUniswapV2Pair(pair).getReserves();
-    // Vulnerable: reserves can be warped drastically inside a single transaction!
+/ Vulnerable: reserves can be warped drastically inside a single transaction!
     return (uint256(reserve1) * 1e18) / uint256(reserve0);
 }
 ```
@@ -227,22 +227,22 @@ contract HardenedChainlinkConsumer {
         sequencerFeed = ISequencerUptimeFeed(_sequencerFeed);
     }
 
-    /// @notice Validates L2 sequencer status on Arbitrum, Optimism, or Base
+// @notice Validates L2 sequencer status on Arbitrum, Optimism, or Base
     function checkSequencer() internal view {
         if (address(sequencerFeed) == address(0)) return; // Skip if on L1 Ethereum
 
         (, int256 status, , uint256 startedAt, ) = sequencerFeed.latestRoundData();
 
-        // Status: 0 = Up, 1 = Down
+/ Status: 0 = Up, 1 = Down
         if (status == 1) revert SequencerDown();
 
-        // Ensure grace period has elapsed since sequencer restarted
+/ Ensure grace period has elapsed since sequencer restarted
         if (block.timestamp - startedAt < GRACE_PERIOD) {
             revert SequencerGracePeriodNotOver();
         }
     }
 
-    /// @notice Returns scaled 18-decimal price with comprehensive safety assertions
+// @notice Returns scaled 18-decimal price with comprehensive safety assertions
     function getNormalizedPrice() external view returns (uint256) {
         checkSequencer();
 
@@ -261,7 +261,7 @@ contract HardenedChainlinkConsumer {
         uint8 feedDecimals = priceFeed.decimals();
         uint256 price = uint256(rawPrice);
 
-        // Normalize to standard 18 decimals
+/ Normalize to standard 18 decimals
         if (feedDecimals < 18) {
             price = price * (10 ** (18 - feedDecimals));
         } else if (feedDecimals > 18) {
@@ -308,23 +308,23 @@ contract PythPriceConsumer {
         priceId = _priceId;
     }
 
-    /// @notice Unpacks and verifies price payload within the same atomic user transaction
+// @notice Unpacks and verifies price payload within the same atomic user transaction
     function executeOrderWithPrice(bytes[] calldata priceUpdateData) external payable {
-        // Calculate fee required by Pyth contract to verify proof
+/ Calculate fee required by Pyth contract to verify proof
         uint256 fee = pyth.getUpdateFee(priceUpdateData);
         if (msg.value < fee) revert InsufficientFeeSent();
 
-        // Atomically update the on-chain Pyth cache
+/ Atomically update the on-chain Pyth cache
         pyth.updatePriceFeeds{value: fee}(priceUpdateData);
 
-        // Fetch verified price guarantee
+/ Fetch verified price guarantee
         IPyth.PythStructsPrice memory currentPrice = pyth.getPriceNoOlderThan(
             priceId, 
             MAX_PRICE_AGE
         );
 
-        // Process trade logic with currentPrice.price and currentPrice.conf
-        // (Refund excess ETH to user omitted for brevity)
+/ Process trade logic with currentPrice.price and currentPrice.conf
+/ (Refund excess ETH to user omitted for brevity)
     }
 }
 ```

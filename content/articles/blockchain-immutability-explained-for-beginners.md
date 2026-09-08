@@ -64,9 +64,9 @@ Blockchains do not hash transactions sequentially in a flat list. Instead, they 
 
 ```
                      [ Merkle Root Hash ]
-                     /                  \
+                  \
              [ Hash AB ]              [ Hash CD ]
-             /         \              /         \
+         \              /         \
         [ Hash A ]  [ Hash B ]   [ Hash C ]  [ Hash D ]
            |           |            |           |
         [ Tx A ]    [ Tx B ]     [ Tx C ]    [ Tx D ]
@@ -249,7 +249,7 @@ pragma solidity ^0.8.20;
 
 // Transparent Proxy Pattern allowing implementation upgrades
 contract ERC1967Proxy {
-    // Storage slot holding implementation contract address
+/ Storage slot holding implementation contract address
     bytes32 private constant IMPLEMENTATION_SLOT = 
         bytes32(uint256(keccak256("eip1967.proxy.implementation")) - 1);
 

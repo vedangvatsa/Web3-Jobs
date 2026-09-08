@@ -71,7 +71,7 @@ import "@openzeppelin/contracts/token/ERC1155/ERC1155.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
 contract Web3GameItems is ERC1155, Ownable {
-    // Item Type Identifiers
+/ Item Type Identifiers
     uint256 public constant GOLD_COIN = 0;
     uint256 public constant HEALTH_POTION = 1;
     uint256 public constant LEGENDARY_SWORD = 2;
@@ -79,14 +79,14 @@ contract Web3GameItems is ERC1155, Ownable {
 
     constructor() ERC1155("https://api.game.domain/metadata/{id}.json") Ownable(msg.sender) {}
 
-    /// @notice Mint starter items for a new player upon character creation
+// @notice Mint starter items for a new player upon character creation
     function mintStarterPack(address _player) external onlyOwner {
         _mint(_player, GOLD_COIN, 500, "");        // 500 Fungible Gold Coins
         _mint(_player, HEALTH_POTION, 10, "");     // 10 Fungible Health Potions
         _mint(_player, LEGENDARY_SWORD, 1, "");    // 1 Unique Non-Fungible Sword
     }
 
-    /// @notice Batch transfer items acquired during a raid dungeon run
+// @notice Batch transfer items acquired during a raid dungeon run
     function batchLootDrop(address _player, uint256[] memory _ids, uint256[] memory _amounts) external onlyOwner {
         _mintBatch(_player, _ids, _amounts, "");
     }
@@ -207,21 +207,21 @@ public class PlayerWeb3InventoryManager : MonoBehaviour
 
     private void Start()
     {
-        // Initialize Thirdweb SDK for target Layer 2 network
+/ Initialize Thirdweb SDK for target Layer 2 network
         sdk = new ThirdwebSDK(chainName);
         contract = sdk.GetContract(gameItemContractAddress);
     }
 
-    /// <summary>
-    /// Fetch all ERC-1155 game items owned by the connected player's wallet
-    /// </summary>
+// <summary>
+// Fetch all ERC-1155 game items owned by the connected player's wallet
+// </summary>
     public async Task<List<NFT>> FetchPlayerInventory(string playerWalletAddress)
     {
         try
         {
             Debug.Log($"Querying on-chain inventory for wallet: {playerWalletAddress}");
             
-            // Query ERC-1155 contract for owned tokens
+/ Query ERC-1155 contract for owned tokens
             List<NFT> ownedNFTs = await contract.ERC1155.GetOwned(playerWalletAddress);
 
             foreach (NFT item in ownedNFTs)

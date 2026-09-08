@@ -199,14 +199,14 @@ export async function persistDataGlobally(
   payload: Buffer,
   privateKey: string
 ): Promise<StorageResult> {
-  // Step 1: Content-Addressing via local IPFS Node
+/ Step 1: Content-Addressing via local IPFS Node
   const helia = await createHelia();
   const fs = unixfs(helia);
   const cidObj = await fs.addBytes(payload);
   const cid = cidObj.toString();
 
-  // Step 2: Permanent Archival via Arweave using Irys Network
-  // Connect to Irys using an EVM wallet private key to fund transaction fees
+/ Step 2: Permanent Archival via Arweave using Irys Network
+/ Connect to Irys using an EVM wallet private key to fund transaction fees
   const irysUploader = await Uploader(Ethereum).withWallet(privateKey).devnet();
 
   const receipt = await irysUploader.upload(payload, {

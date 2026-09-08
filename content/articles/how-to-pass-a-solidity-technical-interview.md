@@ -172,7 +172,7 @@ contract StakingRewardsInterviewTest is Test {
         vm.deal(user, 10 ether);
     }
 
-    /// @notice Property-based fuzz test with bound enforcement
+// @notice Property-based fuzz test with bound enforcement
     function testFuzz_StakingAccountingIntegrity(uint96 amount) public {
         vm.assume(amount > 0.05 ether && amount < 10 ether);
 
@@ -202,7 +202,7 @@ pragma solidity 0.8.28;
 contract HighPerformanceVault {
     mapping(address => uint256) public balances;
 
-    // EIP-1153 Transient Storage Mutex slot identifier
+/ EIP-1153 Transient Storage Mutex slot identifier
     bytes32 private constant REENTRANCY_GUARD_SLOT = keccak256("vault.transient.guard");
 
     error ReentrancyGuarded();
@@ -213,7 +213,7 @@ contract HighPerformanceVault {
         bytes32 slot = REENTRANCY_GUARD_SLOT;
         assembly {
             if tload(slot) {
-                // Revert with ReentrancyGuarded() selector (0x8b8e01ce)
+/ Revert with ReentrancyGuarded() selector (0x8b8e01ce)
                 mstore(0x00, 0x8b8e01ce)
                 revert(0x1c, 0x04)
             }
@@ -233,10 +233,10 @@ contract HighPerformanceVault {
         uint256 balance = balances[msg.sender];
         if (balance < amount) revert InsufficientBalance();
 
-        // 1. Checks & Effects: Apply state mutation before external call
+/ 1. Checks & Effects: Apply state mutation before external call
         balances[msg.sender] = balance - amount;
 
-        // 2. Interaction: External transfer
+/ 2. Interaction: External transfer
         (bool success, ) = msg.sender.call{value: amount}("");
         if (!success) revert TransferFailed();
     }

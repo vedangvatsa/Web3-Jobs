@@ -76,14 +76,14 @@ declare_id!("Fg6PaFpoGXkYsidMpWTK6W2BeZ7FEfcYkg476zPFsLnS");
 pub mod my_first_dapp {
  use super::*;
 
- // Function to initialize the counter account.
+/ Function to initialize the counter account.
  pub fn initialize(ctx: Context<Initialize>) -> Result<()> {
  let base_account = &mut ctx.accounts.base_account;
  base_account.count = 0;
  Ok(())
  }
 
- // Function to increment the counter.
+/ Function to increment the counter.
  pub fn increment(ctx: Context<Increment>) -> Result<()> {
  let base_account = &mut ctx.accounts.base_account;
  base_account.count += 1;

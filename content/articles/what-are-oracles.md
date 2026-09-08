@@ -71,7 +71,7 @@ If a smart contract instruction executed a native web call:
 ```solidity
 // IMPOSSIBLE IN PURE DETERMINISTIC STATE MACHINES
 function liquidateUser(address borrower) external {
-    // Non-deterministic: Network latency or API updates return different values
+/ Non-deterministic: Network latency or API updates return different values
     uint256 currentEthPrice = Http.get("https://api.binance.com/api/v3/ticker/price?symbol=ETHUSDT");
     if (currentEthPrice < liquidationThreshold) {
         executeLiquidation(borrower);
@@ -268,7 +268,7 @@ contract SecurePriceConsumer {
         priceFeed = AggregatorV3Interface(_feedAddress);
     }
 
-    /// @notice Safely reads price data with multi-layer validity checks
+// @notice Safely reads price data with multi-layer validity checks
     function getLatestPrice() public view returns (uint256) {
         (
             uint80 roundId,
@@ -278,13 +278,13 @@ contract SecurePriceConsumer {
             uint80 answeredInRound
         ) = priceFeed.latestRoundData();
 
-        // Check 1: Ensure positive pricing (safeguards against flash negative reporting)
+/ Check 1: Ensure positive pricing (safeguards against flash negative reporting)
         if (price <= 0) revert NegativePrice();
 
-        // Check 2: Protect against stale data feeds during network halts
+/ Check 2: Protect against stale data feeds during network halts
         if (block.timestamp - updatedAt > MAX_STALENESS) revert StalePriceFeed();
 
-        // Check 3: Ensure round completion
+/ Check 3: Ensure round completion
         if (answeredInRound < roundId) revert RoundIncomplete();
 
         return uint256(price);

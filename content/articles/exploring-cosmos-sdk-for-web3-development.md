@@ -280,17 +280,17 @@ func (k msgServer) Deposit(goCtx context.Context, msg *types.MsgDeposit) (*types
         return nil, sdkerrors.ErrInvalidAddress.Wrapf("invalid sender address: %s", err)
     }
 
-    // Transfer funds from user account to module vault escrow
+/ Transfer funds from user account to module vault escrow
     err = k.bankKeeper.SendCoinsFromAccountToModule(ctx, senderAddr, types.ModuleName, sdk.NewCoins(msg.Amount))
     if err != nil {
         return nil, err
     }
 
-    // Compute shares and mutate internal state
+/ Compute shares and mutate internal state
     shares := k.CalculateShares(ctx, msg.Amount)
     k.SetUserShares(ctx, senderAddr, shares)
 
-    // Emit structured indexer events
+/ Emit structured indexer events
     ctx.EventManager().EmitEvent(
         sdk.NewEvent(
             types.EventTypeDeposit,

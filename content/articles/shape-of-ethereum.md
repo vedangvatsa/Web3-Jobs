@@ -25,68 +25,68 @@ Traditional blockchain analytics rely on scalar aggregates: Total Value Locked (
 However, scalar metrics count how much activity occurred, but cannot describe how that activity was structurally distributed across the network.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Scalar Volume vs. Topological Graph Structure</div>
-  <svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Background Grid -->
-    <defs>
-      <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-        <path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" stroke-opacity="0.05" stroke-width="1"/>
-      </pattern>
-    </defs>
-    <rect width="800" height="320" fill="transparent"/>
-    <rect width="800" height="320" fill="url(#grid)" />
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Scalar Volume vs. Topological Graph Structure</div>
+svg viewBox="0 0 800 320" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Left Box: Scalar View -->
-    <g transform="translate(40, 30)">
-      <rect width="330" height="260" rx="12" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15" stroke-width="1.5"/>
-      <text x="165" y="32" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="currentColor">Scalar View (Volume / TPS)</text>
-      <text x="165" y="52" text-anchor="middle" font-family="system-ui" font-size="11" fill="currentColor" fill-opacity="0.6">Disconnected Cloud of Retail Transfers</text>
-      
-      <!-- Random Disconnected Nodes -->
-      <circle cx="80" cy="110" r="6" fill="#3b82f6"/>
-      <circle cx="140" cy="90" r="5" fill="#3b82f6"/>
-      <circle cx="210" cy="120" r="7" fill="#3b82f6"/>
-      <circle cx="270" cy="100" r="5" fill="#3b82f6"/>
-      <circle cx="100" cy="180" r="6" fill="#3b82f6"/>
-      <circle cx="180" cy="200" r="5" fill="#3b82f6"/>
-      <circle cx="250" cy="170" r="6" fill="#3b82f6"/>
+defs>
+pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+path d="M 40 0 L 0 0 0 40" fill="none" stroke="currentColor" stroke-opacity="0.05" stroke-width="1"/>
+/pattern>
+/defs>
+rect width="800" height="320" fill="transparent"/>
+rect width="800" height="320" fill="url(#grid)" />
 
-      <!-- Thin Edges -->
-      <line x1="80" y1="110" x2="140" y2="90" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
-      <line x1="180" y1="200" x2="250" y2="170" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
 
-      <text x="165" y="240" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#3b82f6">Result: Gas = $10M | Vol = $500M</text>
-    </g>
+g transform="translate(40, 30)">
+rect width="330" height="260" rx="12" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15" stroke-width="1.5"/>
+text x="165" y="32" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="currentColor">Scalar View (Volume / TPS)</text>
+text x="165" y="52" text-anchor="middle" font-family="system-ui" font-size="11" fill="currentColor" fill-opacity="0.6">Disconnected Cloud of Retail Transfers</text>
 
-    <!-- Right Box: Topological View -->
-    <g transform="translate(430, 30)">
-      <rect width="330" height="260" rx="12" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15" stroke-width="1.5"/>
-      <text x="165" y="32" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="currentColor">Topological View (TDA)</text>
-      <text x="165" y="52" text-anchor="middle" font-family="system-ui" font-size="11" fill="currentColor" fill-opacity="0.6">Tightly Coupled Liquidation Loop (H1 Void)</text>
 
-      <!-- Central Loop Nodes (MakerDAO, Aave, Uniswap Bots) -->
-      <polygon points="165,95 245,140 215,215 115,215 85,140" fill="#ef4444" fill-opacity="0.1" stroke="#ef4444" stroke-width="2" stroke-dasharray="4"/>
-      
-      <!-- Nodes -->
-      <circle cx="165" cy="95" r="8" fill="#ef4444"/>
-      <circle cx="245" cy="140" r="8" fill="#ef4444"/>
-      <circle cx="215" cy="215" r="8" fill="#ef4444"/>
-      <circle cx="115" cy="215" r="8" fill="#ef4444"/>
-      <circle cx="85" cy="140" r="8" fill="#ef4444"/>
+circle cx="80" cy="110" r="6" fill="#3b82f6"/>
+circle cx="140" cy="90" r="5" fill="#3b82f6"/>
+circle cx="210" cy="120" r="7" fill="#3b82f6"/>
+circle cx="270" cy="100" r="5" fill="#3b82f6"/>
+circle cx="100" cy="180" r="6" fill="#3b82f6"/>
+circle cx="180" cy="200" r="5" fill="#3b82f6"/>
+circle cx="250" cy="170" r="6" fill="#3b82f6"/>
 
-      <!-- Interconnecting Heavy Edges -->
-      <line x1="165" y1="95" x2="245" y2="140" stroke="#ef4444" stroke-width="2.5"/>
-      <line x1="245" y1="140" x2="215" y2="215" stroke="#ef4444" stroke-width="2.5"/>
-      <line x1="215" y1="215" x2="115" y2="215" stroke="#ef4444" stroke-width="2.5"/>
-      <line x1="115" y1="215" x2="85" y2="140" stroke="#ef4444" stroke-width="2.5"/>
-      <line x1="85" y1="140" x2="165" y2="95" stroke="#ef4444" stroke-width="2.5"/>
 
-      <!-- Inner Loop Label -->
-      <text x="165" y="160" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">H1 Loop Hole</text>
+line x1="80" y1="110" x2="140" y2="90" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
+line x1="180" y1="200" x2="250" y2="170" stroke="#3b82f6" stroke-width="1" stroke-opacity="0.4"/>
 
-      <text x="165" y="240" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#ef4444">Result: High Fragility Anomaly Flag</text>
-    </g>
-  </svg>
+text x="165" y="240" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#3b82f6">Result: Gas = $10M | Vol = $500M</text>
+/g>
+
+
+g transform="translate(430, 30)">
+rect width="330" height="260" rx="12" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15" stroke-width="1.5"/>
+text x="165" y="32" text-anchor="middle" font-family="system-ui" font-size="14" font-weight="700" fill="currentColor">Topological View (TDA)</text>
+text x="165" y="52" text-anchor="middle" font-family="system-ui" font-size="11" fill="currentColor" fill-opacity="0.6">Tightly Coupled Liquidation Loop (H1 Void)</text>
+
+
+polygon points="165,95 245,140 215,215 115,215 85,140" fill="#ef4444" fill-opacity="0.1" stroke="#ef4444" stroke-width="2" stroke-dasharray="4"/>
+
+
+circle cx="165" cy="95" r="8" fill="#ef4444"/>
+circle cx="245" cy="140" r="8" fill="#ef4444"/>
+circle cx="215" cy="215" r="8" fill="#ef4444"/>
+circle cx="115" cy="215" r="8" fill="#ef4444"/>
+circle cx="85" cy="140" r="8" fill="#ef4444"/>
+
+
+line x1="165" y1="95" x2="245" y2="140" stroke="#ef4444" stroke-width="2.5"/>
+line x1="245" y1="140" x2="215" y2="215" stroke="#ef4444" stroke-width="2.5"/>
+line x1="215" y1="215" x2="115" y2="215" stroke="#ef4444" stroke-width="2.5"/>
+line x1="115" y1="215" x2="85" y2="140" stroke="#ef4444" stroke-width="2.5"/>
+line x1="85" y1="140" x2="165" y2="95" stroke="#ef4444" stroke-width="2.5"/>
+
+
+text x="165" y="160" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">H1 Loop Hole</text>
+
+text x="165" y="240" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="600" fill="#ef4444">Result: High Fragility Anomaly Flag</text>
+/g>
+/svg>
 </div>
 
 Consider two scenarios:
@@ -105,69 +105,69 @@ As demonstrated in research by [Ofori-Boateng et al. (2021)](https://arxiv.org/a
 To convert daily Ethereum transactions into a structural signal, Prasma and Keller constructed a four-stage topological pipeline.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Vietoris-Rips Filtration and Persistence Diagram Mapping</div>
-  <svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Step 1: Small Radius r1 -->
-    <g transform="translate(30, 20)">
-      <rect width="220" height="200" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="currentColor">Scale r = 0.1 (Isolated Nodes)</text>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Vietoris-Rips Filtration and Persistence Diagram Mapping</div>
+svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-      <circle cx="60" cy="80" r="16" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
-      <circle cx="60" cy="80" r="3" fill="#10b981"/>
+g transform="translate(30, 20)">
+rect width="220" height="200" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="currentColor">Scale r = 0.1 (Isolated Nodes)</text>
 
-      <circle cx="140" cy="70" r="16" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
-      <circle cx="140" cy="70" r="3" fill="#10b981"/>
+circle cx="60" cy="80" r="16" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+circle cx="60" cy="80" r="3" fill="#10b981"/>
 
-      <circle cx="100" cy="140" r="16" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
-      <circle cx="100" cy="140" r="3" fill="#10b981"/>
+circle cx="140" cy="70" r="16" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+circle cx="140" cy="70" r="3" fill="#10b981"/>
 
-      <text x="110" y="180" text-anchor="middle" font-family="system-ui" font-size="11" fill="currentColor" fill-opacity="0.7">H0 = 3 Clusters | H1 = 0 Loops</text>
-    </g>
+circle cx="100" cy="140" r="16" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+circle cx="100" cy="140" r="3" fill="#10b981"/>
 
-    <!-- Arrow 1 -->
-    <path d="M 260 120 L 280 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2" marker-end="url(#arrow)"/>
+text x="110" y="180" text-anchor="middle" font-family="system-ui" font-size="11" fill="currentColor" fill-opacity="0.7">H0 = 3 Clusters | H1 = 0 Loops</text>
+/g>
 
-    <!-- Step 2: Medium Radius r2 -->
-    <g transform="translate(290, 20)">
-      <rect width="220" height="200" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="currentColor">Scale r = 0.4 (Loop Born)</text>
 
-      <circle cx="60" cy="80" r="45" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1.5"/>
-      <circle cx="140" cy="70" r="45" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1.5"/>
-      <circle cx="100" cy="140" r="45" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1.5"/>
+path d="M 260 120 L 280 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2" marker-end="url(#arrow)"/>
 
-      <line x1="60" y1="80" x2="140" y2="70" stroke="#f59e0b" stroke-width="2"/>
-      <line x1="140" y1="70" x2="100" y2="140" stroke="#f59e0b" stroke-width="2"/>
-      <line x1="100" y1="140" x2="60" y2="80" stroke="#f59e0b" stroke-width="2"/>
 
-      <circle cx="60" cy="80" r="3" fill="#f59e0b"/>
-      <circle cx="140" cy="70" r="3" fill="#f59e0b"/>
-      <circle cx="100" cy="140" r="3" fill="#f59e0b"/>
+g transform="translate(290, 20)">
+rect width="220" height="200" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="currentColor">Scale r = 0.4 (Loop Born)</text>
 
-      <text x="110" y="180" text-anchor="middle" font-family="system-ui" font-size="11" fill="#f59e0b" font-weight="600">H1 Loop Birth (r = 0.4)</text>
-    </g>
+circle cx="60" cy="80" r="45" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1.5"/>
+circle cx="140" cy="70" r="45" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1.5"/>
+circle cx="100" cy="140" r="45" fill="#f59e0b" fill-opacity="0.1" stroke="#f59e0b" stroke-width="1.5"/>
 
-    <!-- Arrow 2 -->
-    <path d="M 520 120 L 540 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+line x1="60" y1="80" x2="140" y2="70" stroke="#f59e0b" stroke-width="2"/>
+line x1="140" y1="70" x2="100" y2="140" stroke="#f59e0b" stroke-width="2"/>
+line x1="100" y1="140" x2="60" y2="80" stroke="#f59e0b" stroke-width="2"/>
 
-    <!-- Step 3: Persistence Diagram -->
-    <g transform="translate(550, 20)">
-      <rect width="220" height="200" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="currentColor">Persistence Diagram</text>
+circle cx="60" cy="80" r="3" fill="#f59e0b"/>
+circle cx="140" cy="70" r="3" fill="#f59e0b"/>
+circle cx="100" cy="140" r="3" fill="#f59e0b"/>
 
-      <!-- Axes -->
-      <line x1="40" y1="160" x2="180" y2="160" stroke="currentColor" stroke-opacity="0.5" stroke-width="1.5"/>
-      <line x1="40" y1="160" x2="40" y2="45" stroke="currentColor" stroke-opacity="0.5" stroke-width="1.5"/>
-      <!-- Diagonal -->
-      <line x1="40" y1="160" x2="180" y2="45" stroke="currentColor" stroke-opacity="0.2" stroke-width="1.5" stroke-dasharray="3"/>
+text x="110" y="180" text-anchor="middle" font-family="system-ui" font-size="11" fill="#f59e0b" font-weight="600">H1 Loop Birth (r = 0.4)</text>
+/g>
 
-      <!-- H1 Persistence Point -->
-      <circle cx="100" cy="75" r="5" fill="#ef4444"/>
-      <text x="110" y="70" font-family="system-ui" font-size="10" font-weight="700" fill="#ef4444">H1 (Birth 0.4, Death 0.9)</text>
 
-      <text x="110" y="175" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">Birth Scale (r)</text>
-    </g>
-  </svg>
+path d="M 520 120 L 540 120" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+
+g transform="translate(550, 20)">
+rect width="220" height="200" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="currentColor">Persistence Diagram</text>
+
+
+line x1="40" y1="160" x2="180" y2="160" stroke="currentColor" stroke-opacity="0.5" stroke-width="1.5"/>
+line x1="40" y1="160" x2="40" y2="45" stroke="currentColor" stroke-opacity="0.5" stroke-width="1.5"/>
+
+line x1="40" y1="160" x2="180" y2="45" stroke="currentColor" stroke-opacity="0.2" stroke-width="1.5" stroke-dasharray="3"/>
+
+
+circle cx="100" cy="75" r="5" fill="#ef4444"/>
+text x="110" y="70" font-family="system-ui" font-size="10" font-weight="700" fill="#ef4444">H1 (Birth 0.4, Death 0.9)</text>
+
+text x="110" y="175" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">Birth Scale (r)</text>
+/g>
+/svg>
 </div>
 
 ### Layer 1: Dissecting Calldata Complexity
@@ -253,54 +253,54 @@ Using global offline change-point detection (`ruptures` L2 cost optimization), t
 The study's primary structural insight is Layer Rotation - the shift in which transaction layers trigger anomalies over time:
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 3: Layer Rotation Breakdown (2020-2021 vs. 2024 vs. 2025)</div>
-  <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- 2020-2021 -->
-    <g transform="translate(40, 30)">
-      <rect width="220" height="180" rx="8" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">2020-2021: DeFi Era</text>
-      
-      <rect x="20" y="45" width="180" height="24" rx="4" fill="#ef4444" fill-opacity="0.8"/>
-      <text x="30" y="61" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">highInput (Liquidation Bots)</text>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 3: Layer Rotation Breakdown (2020-2021 vs. 2024 vs. 2025)</div>
+svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-      <rect x="20" y="75" width="160" height="24" rx="4" fill="#f59e0b" fill-opacity="0.8"/>
-      <text x="30" y="91" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">medInput (DEX Swaps)</text>
+g transform="translate(40, 30)">
+rect width="220" height="180" rx="8" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">2020-2021: DeFi Era</text>
 
-      <rect x="20" y="105" width="40" height="24" rx="4" fill="#3b82f6" fill-opacity="0.4"/>
-      <text x="30" y="121" font-family="system-ui" font-size="11" fill="currentColor">nonFactory</text>
+rect x="20" y="45" width="180" height="24" rx="4" fill="#ef4444" fill-opacity="0.8"/>
+text x="30" y="61" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">highInput (Liquidation Bots)</text>
 
-      <rect x="20" y="135" width="30" height="24" rx="4" fill="#10b981" fill-opacity="0.4"/>
-      <text x="30" y="151" font-family="system-ui" font-size="11" fill="currentColor">simple_txs</text>
-    </g>
+rect x="20" y="75" width="160" height="24" rx="4" fill="#f59e0b" fill-opacity="0.8"/>
+text x="30" y="91" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">medInput (DEX Swaps)</text>
 
-    <!-- 2024 -->
-    <g transform="translate(290, 30)">
-      <rect width="220" height="180" rx="8" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">2024: Institutional ETF Era</text>
+rect x="20" y="105" width="40" height="24" rx="4" fill="#3b82f6" fill-opacity="0.4"/>
+text x="30" y="121" font-family="system-ui" font-size="11" fill="currentColor">nonFactory</text>
 
-      <rect x="20" y="45" width="30" height="24" rx="4" fill="#ef4444" fill-opacity="0.3"/>
-      <rect x="20" y="75" width="40" height="24" rx="4" fill="#f59e0b" fill-opacity="0.3"/>
+rect x="20" y="135" width="30" height="24" rx="4" fill="#10b981" fill-opacity="0.4"/>
+text x="30" y="151" font-family="system-ui" font-size="11" fill="currentColor">simple_txs</text>
+/g>
 
-      <rect x="20" y="105" width="175" height="24" rx="4" fill="#3b82f6" fill-opacity="0.9"/>
-      <text x="30" y="121" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">nonFactory (11/16 Events)</text>
 
-      <rect x="20" y="135" width="20" height="24" rx="4" fill="#10b981" fill-opacity="0.4"/>
-      <text x="30" y="151" font-family="system-ui" font-size="11" fill="currentColor">simple_txs (1 Event)</text>
-    </g>
+g transform="translate(290, 30)">
+rect width="220" height="180" rx="8" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">2024: Institutional ETF Era</text>
 
-    <!-- 2025 -->
-    <g transform="translate(540, 30)">
-      <rect width="220" height="180" rx="8" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">2025: Macro Financial Era</text>
+rect x="20" y="45" width="30" height="24" rx="4" fill="#ef4444" fill-opacity="0.3"/>
+rect x="20" y="75" width="40" height="24" rx="4" fill="#f59e0b" fill-opacity="0.3"/>
 
-      <rect x="20" y="45" width="10" height="24" rx="4" fill="#ef4444" fill-opacity="0.2"/>
-      <rect x="20" y="75" width="30" height="24" rx="4" fill="#f59e0b" fill-opacity="0.3"/>
-      <rect x="20" y="105" width="30" height="24" rx="4" fill="#3b82f6" fill-opacity="0.3"/>
+rect x="20" y="105" width="175" height="24" rx="4" fill="#3b82f6" fill-opacity="0.9"/>
+text x="30" y="121" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">nonFactory (11/16 Events)</text>
 
-      <rect x="20" y="135" width="180" height="24" rx="4" fill="#10b981" fill-opacity="0.9"/>
-      <text x="30" y="151" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">simple_txs (14 Events)</text>
-    </g>
-  </svg>
+rect x="20" y="135" width="20" height="24" rx="4" fill="#10b981" fill-opacity="0.4"/>
+text x="30" y="151" font-family="system-ui" font-size="11" fill="currentColor">simple_txs (1 Event)</text>
+/g>
+
+
+g transform="translate(540, 30)">
+rect width="220" height="180" rx="8" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="110" y="25" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">2025: Macro Financial Era</text>
+
+rect x="20" y="45" width="10" height="24" rx="4" fill="#ef4444" fill-opacity="0.2"/>
+rect x="20" y="75" width="30" height="24" rx="4" fill="#f59e0b" fill-opacity="0.3"/>
+rect x="20" y="105" width="30" height="24" rx="4" fill="#3b82f6" fill-opacity="0.3"/>
+
+rect x="20" y="135" width="180" height="24" rx="4" fill="#10b981" fill-opacity="0.9"/>
+text x="30" y="151" font-family="system-ui" font-size="11" font-weight="600" fill="#fff">simple_txs (14 Events)</text>
+/g>
+/svg>
 </div>
 
 - **2020-2021:** Ethereum operated as a DeFi-native network. Anomalies were driven by automated liquidation bots, flash loans, and DEX arbitrage.

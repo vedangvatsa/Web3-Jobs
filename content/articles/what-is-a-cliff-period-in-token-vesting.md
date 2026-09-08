@@ -140,7 +140,7 @@ contract TokenVestingVault is Ownable, ReentrancyGuard {
         token = IERC20(_token);
     }
 
-    /// @notice Create a new token vesting schedule with a cliff period
+// @notice Create a new token vesting schedule with a cliff period
     function createVestingSchedule(
         address _beneficiary,
         uint256 _allocation,
@@ -166,29 +166,29 @@ contract TokenVestingVault is Ownable, ReentrancyGuard {
         emit ScheduleCreated(_beneficiary, _allocation, _cliffDuration);
     }
 
-    /// @notice Calculate vested tokens available for claim
+// @notice Calculate vested tokens available for claim
     function getReleasableAmount(address _beneficiary) public view returns (uint256) {
         VestingSchedule memory schedule = vestingSchedules[_beneficiary];
         if (schedule.totalAllocation == 0 || schedule.revoked) return 0;
 
-        // Rule 1: Before cliff timestamp, releasable amount is zero
+/ Rule 1: Before cliff timestamp, releasable amount is zero
         if (block.timestamp < schedule.startTime + schedule.cliffDuration) {
             return 0;
         }
 
-        // Rule 2: After full vesting duration, 100% of allocation is releasable
+/ Rule 2: After full vesting duration, 100% of allocation is releasable
         if (block.timestamp >= schedule.startTime + schedule.vestingDuration) {
             return schedule.totalAllocation - schedule.releasedAmount;
         }
 
-        // Rule 3: Post-cliff linear release calculation
+/ Rule 3: Post-cliff linear release calculation
         uint256 timePassed = block.timestamp - schedule.startTime;
         uint256 totalVested = (schedule.totalAllocation * timePassed) / schedule.vestingDuration;
 
         return totalVested - schedule.releasedAmount;
     }
 
-    /// @notice Claim vested tokens available post-cliff
+// @notice Claim vested tokens available post-cliff
     function claimVestedTokens() external nonReentrant {
         uint256 releasable = getReleasableAmount(msg.sender);
         require(releasable > 0, "No releasable tokens available");

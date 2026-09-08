@@ -46,7 +46,7 @@ abstract contract ERC20Votes is ERC20 {
         uint224 votes;
     }
 
-    // Returns voting power at historical block number
+/ Returns voting power at historical block number
     function getPastVotes(address account, uint256 blockNumber) public view returns (uint256) {
         require(blockNumber < block.number, "Error: Block not yet finalized");
         return _checkpointsLookup(account, blockNumber);
@@ -319,13 +319,13 @@ export function VoteButton({ proposalId, support }: { proposalId: bigint; suppor
   };
 
   return (
-    <button 
+button 
       onClick={handleCastVote} 
       disabled={isPending}
       className="bg-purple-600 hover:bg-purple-700 text-white font-bold py-2 px-4 rounded"
     >
       {isPending ? 'Submitting Vote...' : 'Cast On-Chain Vote'}
-    </button>
+/button>
   );
 }
 ```
@@ -359,13 +359,13 @@ contract GovernanceLifecycleTest is Test {
         timelock = new TimelockController(2 days, opacity, opacity, address(this));
         governor = new DAOGovernor(token, timelock);
 
-        // Setup roles
+/ Setup roles
         bytes32 proposerRole = timelock.PROPOSER_ROLE();
         bytes32 executorRole = timelock.EXECUTOR_ROLE();
         timelock.grantRole(proposerRole, address(governor));
         timelock.grantRole(executorRole, address(0));
 
-        // Mint and delegate
+/ Mint and delegate
         token.mint(voter1, 5_000_000 * 10**18);
         vm.prank(voter1);
         token.delegate(voter1);
@@ -380,25 +380,25 @@ contract GovernanceLifecycleTest is Test {
         calldatas[0] = "";
         string memory description = "Proposal #1: Ecosystem Grant";
 
-        // 1. Propose
+/ 1. Propose
         vm.prank(voter1);
         uint256 proposalId = governor.propose(targets, values, calldatas, description);
 
-        // 2. Warp past voting delay
+/ 2. Warp past voting delay
         vm.roll(block.number + 7201);
 
-        // 3. Vote
+/ 3. Vote
         vm.prank(voter1);
         governor.castVote(proposalId, 1); // 1 = For
 
-        // 4. Warp past voting period
+/ 4. Warp past voting period
         vm.roll(block.number + 50401);
 
-        // 5. Queue
+/ 5. Queue
         bytes32 descriptionHash = keccak256(bytes(description));
         governor.queue(targets, values, calldatas, descriptionHash);
 
-        // 6. Execute after timelock delay
+/ 6. Execute after timelock delay
         vm.warp(block.timestamp + 2 days + 1);
         governor.execute(targets, values, calldatas, descriptionHash);
 

@@ -23,38 +23,38 @@ The approval and rollout of spot Bitcoin and Ethereum ETFs marked a major shift 
 Documented in research by the [Crypto Anarchy Institute](https://cryptoanarchy.institute/nocoiner-syndrome-2024.pdf) and historical analyses on the [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/#events), early digital asset adoption relied on self-custody and personal full node verification.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Corporate Compliant Stack vs Sovereign Cypherpunk Stack</div>
-  <svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Left Panel: Corporate Stack -->
-    <g transform="translate(40, 20)">
-      <rect width="330" height="220" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="#ef4444">Corporate Compliant Stack</text>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: Corporate Compliant Stack vs Sovereign Cypherpunk Stack</div>
+svg viewBox="0 0 800 260" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-      <rect x="20" y="50" width="290" height="32" rx="5" fill="#ef4444" fill-opacity="0.15"/>
-      <text x="165" y="71" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">Wall Street Spot ETFs & Custodians</text>
+g transform="translate(40, 20)">
+rect width="330" height="220" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="#ef4444">Corporate Compliant Stack</text>
 
-      <rect x="20" y="95" width="290" height="32" rx="5" fill="#ef4444" fill-opacity="0.15"/>
-      <text x="165" y="116" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">Regulated KYC Sequencers & RPCs</text>
+rect x="20" y="50" width="290" height="32" rx="5" fill="#ef4444" fill-opacity="0.15"/>
+text x="165" y="71" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">Wall Street Spot ETFs & Custodians</text>
 
-      <rect x="20" y="140" width="290" height="32" rx="5" fill="#ef4444" fill-opacity="0.15"/>
-      <text x="165" y="161" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">OFAC-Compliant MEV Relays</text>
-    </g>
+rect x="20" y="95" width="290" height="32" rx="5" fill="#ef4444" fill-opacity="0.15"/>
+text x="165" y="116" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">Regulated KYC Sequencers & RPCs</text>
 
-    <!-- Right Panel: Sovereign Stack -->
-    <g transform="translate(430, 20)">
-      <rect width="330" height="220" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="#10b981">Sovereign Cypherpunk Stack</text>
+rect x="20" y="140" width="290" height="32" rx="5" fill="#ef4444" fill-opacity="0.15"/>
+text x="165" y="161" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#ef4444">OFAC-Compliant MEV Relays</text>
+/g>
 
-      <rect x="20" y="50" width="290" height="32" rx="5" fill="#10b981" fill-opacity="0.15"/>
-      <text x="165" y="71" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#10b981">Self-Custody Hardware Wallets</text>
 
-      <rect x="20" y="95" width="290" height="32" rx="5" fill="#10b981" fill-opacity="0.15"/>
-      <text x="165" y="116" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#10b981">Self-Hosted Validator Nodes</text>
+g transform="translate(430, 20)">
+rect width="330" height="220" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="#10b981">Sovereign Cypherpunk Stack</text>
 
-      <rect x="20" y="140" width="290" height="32" rx="5" fill="#10b981" fill-opacity="0.15"/>
-      <text x="165" y="161" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#10b981">Zero-Knowledge Privacy Protocols</text>
-    </g>
-  </svg>
+rect x="20" y="50" width="290" height="32" rx="5" fill="#10b981" fill-opacity="0.15"/>
+text x="165" y="71" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#10b981">Self-Custody Hardware Wallets</text>
+
+rect x="20" y="95" width="290" height="32" rx="5" fill="#10b981" fill-opacity="0.15"/>
+text x="165" y="116" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#10b981">Self-Hosted Validator Nodes</text>
+
+rect x="20" y="140" width="290" height="32" rx="5" fill="#10b981" fill-opacity="0.15"/>
+text x="165" y="161" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="#10b981">Zero-Knowledge Privacy Protocols</text>
+/g>
+/svg>
 </div>
 
 With institutional investment products, asset access is fundamentally intermediated:
@@ -78,38 +78,38 @@ The split between corporate compliant infrastructure and sovereign code is visib
 Following Ethereum's transition to Proof of Stake, block production adopted Maximal Extractable Value (MEV) builder-relay architectures via [Flashbots MEV-Boost](https://flashbots.net).
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Proposer-Builder Separation (PBS) with Inclusion Lists</div>
-  <svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Block Builder -->
-    <g transform="translate(100, 110)">
-      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1.5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#f59e0b">Block Builder</text>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Constructs Block Payload</text>
-      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Optimizes MEV Bids</text>
-    </g>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: Proposer-Builder Separation (PBS) with Inclusion Lists</div>
+svg viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Arrow 1 -->
-    <line x1="160" y1="110" x2="280" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+g transform="translate(100, 110)">
+rect x="-60" y="-40" width="120" height="80" rx="8" fill="#f59e0b" fill-opacity="0.15" stroke="#f59e0b" stroke-width="1.5"/>
+text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#f59e0b">Block Builder</text>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Constructs Block Payload</text>
+text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Optimizes MEV Bids</text>
+/g>
 
-    <!-- Inclusion List Guard -->
-    <g transform="translate(340, 110)">
-      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Inclusion List Guard</text>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Forces Uncensored UTXOs</text>
-      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#10b981">Prevents Relay Censorship</text>
-    </g>
 
-    <!-- Arrow 2 -->
-    <line x1="400" y1="110" x2="520" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+line x1="160" y1="110" x2="280" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
 
-    <!-- Block Proposer -->
-    <g transform="translate(580, 110)">
-      <rect x="-60" y="-40" width="120" height="80" rx="8" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1.5"/>
-      <text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Validator Proposer</text>
-      <text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Signs Block Execution</text>
-      <text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#3b82f6">Publishes to P2P Net</text>
-    </g>
-  </svg>
+
+g transform="translate(340, 110)">
+rect x="-60" y="-40" width="120" height="80" rx="8" fill="#10b981" fill-opacity="0.15" stroke="#10b981" stroke-width="1.5"/>
+text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Inclusion List Guard</text>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Forces Uncensored UTXOs</text>
+text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#10b981">Prevents Relay Censorship</text>
+/g>
+
+
+line x1="400" y1="110" x2="520" y2="110" stroke="currentColor" stroke-opacity="0.4" stroke-width="2"/>
+
+
+g transform="translate(580, 110)">
+rect x="-60" y="-40" width="120" height="80" rx="8" fill="#3b82f6" fill-opacity="0.15" stroke="#3b82f6" stroke-width="1.5"/>
+text x="0" y="-15" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="700" fill="#3b82f6">Validator Proposer</text>
+text x="0" y="5" text-anchor="middle" font-family="system-ui" font-size="9" fill="currentColor">Signs Block Execution</text>
+text x="0" y="20" text-anchor="middle" font-family="system-ui" font-size="9" fill="#3b82f6">Publishes to P2P Net</text>
+/g>
+/svg>
 </div>
 
 ```

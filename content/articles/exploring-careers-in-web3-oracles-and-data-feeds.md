@@ -181,16 +181,16 @@ contract DefensiveOracleConsumer {
         sequencerUptimeFeed = ISequencerFeed(_sequencerFeed);
     }
 
-    /// @notice Returns validated price safely with multiple defensive assertions
+// @notice Returns validated price safely with multiple defensive assertions
     function getSafePrice() external view returns (uint256) {
-        // 1. Validate L2 Sequencer Uptime if deployed on Arbitrum / Optimism / Base
+/ 1. Validate L2 Sequencer Uptime if deployed on Arbitrum / Optimism / Base
         if (address(sequencerUptimeFeed) != address(0)) {
             (, int256 status, , uint256 startedAt, ) = sequencerUptimeFeed.latestRoundData();
             if (status == 1) revert SequencerOffline();
             if (block.timestamp - startedAt < GRACE_PERIOD) revert GracePeriodActive();
         }
 
-        // 2. Fetch round data from primary decentralized aggregator
+/ 2. Fetch round data from primary decentralized aggregator
         (
             uint80 roundId,
             int256 rawPrice,
@@ -199,7 +199,7 @@ contract DefensiveOracleConsumer {
             uint80 answeredInRound
         ) = priceFeed.latestRoundData();
 
-        // 3. Defensive sanity assertions
+/ 3. Defensive sanity assertions
         if (rawPrice <= 0) revert OraclePriceNonPositive();
         if (block.timestamp - updatedAt > TIMEOUT) revert OraclePriceStale();
         if (answeredInRound < roundId) revert OracleRoundIncomplete();

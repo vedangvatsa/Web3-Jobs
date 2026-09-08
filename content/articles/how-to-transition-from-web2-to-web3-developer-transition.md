@@ -237,7 +237,7 @@ contract ModernVaultTest is Test {
     function testFuzz_DepositAndAccounting(uint96 amount) public {
         vm.assume(amount > 0);
         vm.deal(user, amount);
-        // Stateful fuzz test verifying balances invariant
+/ Stateful fuzz test verifying balances invariant
     }
 }
 ```

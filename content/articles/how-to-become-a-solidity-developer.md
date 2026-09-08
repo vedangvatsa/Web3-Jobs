@@ -72,7 +72,7 @@ contract LiquidityVaultTest is Test {
         vm.deal(alice, 100 ether);
     }
 
-    /// @notice Property-based invariant test with automated fuzzing
+// @notice Property-based invariant test with automated fuzzing
     function testFuzz_DepositAndWithdrawalAccounting(uint96 depositAmount) public {
         vm.assume(depositAmount > 0.01 ether);
         

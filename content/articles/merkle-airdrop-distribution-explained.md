@@ -57,7 +57,7 @@ contract Airdrop {
  constructor(bytes32 _merkleRoot) {
  merkleRoot = _merkleRoot;
  }
- // ... claim function
+/ ... claim function
 }
 ```
 
@@ -73,18 +73,18 @@ The Merkle proof comprises the "sibling" hashes necessary to recalculate the Mer
 
 ```solidity
 function claim(address recipient, uint256 amount, bytes32[] calldata merkleProof) external {
- // 1. Recreate the leaf hash from the user's data
+/ 1. Recreate the leaf hash from the user's data
  bytes32 leaf = keccak256(abi.encodePacked(recipient, amount));
 
- // 2. Use the provided proof to recalculate the Merkle root
+/ 2. Use the provided proof to recalculate the Merkle root
  bytes32 computedRoot = MerkleProof.processProof(merkleProof, leaf);
 
- // 3. Verify that the recalculated root matches the one stored in the contract
+/ 3. Verify that the recalculated root matches the one stored in the contract
  require(computedRoot == merkleRoot, "Invalid proof.");
 
- // ... (also check that the user hasn't claimed before) ...
+/ ... (also check that the user hasn't claimed before) ...
 
- // 4. If valid, transfer the tokens
+/ 4. If valid, transfer the tokens
  token.transfer(recipient, amount);
 }
 ```

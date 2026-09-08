@@ -92,7 +92,7 @@ Storing raw state data sequentially in flat databases makes verifying historical
           +-------------------+           +-------------------+
           |   Branch Node     |           |   Branch Node     |
           +-------------------+           +-------------------+
-            /       |       \               /       |       \
+       |       \               /       |       \
            v        v        v             v        v        v
         [Leaf]   [Extension] [Leaf]     [Leaf]   [Leaf]   [Leaf]
 ```
@@ -302,13 +302,13 @@ const client = createPublicClient({
 async function InspectNetworkState() {
   const targetAddress = '0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045'; // vitalik.eth
 
-  // 1. Fetch EOA Account Balance from Current State
+/ 1. Fetch EOA Account Balance from Current State
   const balance = await client.getBalance({ address: targetAddress });
   
-  // 2. Fetch Account Transaction Nonce
+/ 2. Fetch Account Transaction Nonce
   const nonce = await client.getTransactionCount({ address: targetAddress });
 
-  // 3. Query Specific Storage Slot of a Smart Contract (e.g. USDC ERC-20)
+/ 3. Query Specific Storage Slot of a Smart Contract (e.g. USDC ERC-20)
   const usdcContract = '0xA0b86991c6218b36c1d19D4a2e9Eb0cE3606eB48';
   const storageSlot = '0x0000000000000000000000000000000000000000000000000000000000000000';
   const rawStorage = await client.getStorageAt({

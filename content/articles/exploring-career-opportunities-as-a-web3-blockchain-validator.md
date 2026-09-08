@@ -106,19 +106,19 @@ contract SlashingGuard {
     ) external returns (bool) {
         SignedAttestation memory prev = lastSignedAttestation[validatorId];
 
-        // 1. Check Double Voting Violation
+/ 1. Check Double Voting Violation
         if (targetEpoch == prev.targetEpoch) {
             emit SlashingPrevented(validatorId, "DOUBLE_VOTING_ATTEMPT");
             return false;
         }
 
-        // 2. Check Surround Voting Violation
+/ 2. Check Surround Voting Violation
         if (sourceEpoch < prev.sourceEpoch && targetEpoch > prev.targetEpoch) {
             emit SlashingPrevented(validatorId, "SURROUND_VOTING_ATTEMPT");
             return false;
         }
 
-        // Update High-Watermark DB state
+/ Update High-Watermark DB state
         lastSignedAttestation[validatorId] = SignedAttestation(sourceEpoch, targetEpoch);
         return true;
     }

@@ -77,7 +77,7 @@ Record data (such as BTC, ETH, and SOL wallet addresses, or IPFS hashes) is stor
 ```solidity
 // Simplified Solidity representation of Unstoppable Domains Record Storage
 contract RecordStorage {
-    // Maps Token ID => (Record Key => Record Value)
+/ Maps Token ID => (Record Key => Record Value)
     mapping(uint256 => mapping(string => string)) private _records;
 
     event RecordSet(uint256 indexed tokenId, string key, string value);
@@ -125,7 +125,7 @@ const resolution = new Resolution({
 
 async function resolveDomain(domainName, ticker) {
   try {
-    // Resolve cryptocurrency payment address
+/ Resolve cryptocurrency payment address
     const address = await resolution.addr(domainName, ticker);
     console.log(`Resolved ${ticker} address for ${domainName}:`, address);
     return address;

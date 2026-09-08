@@ -23,39 +23,39 @@ When a central bank creates new currency through open market operations, quantit
 This structural delay was first identified by French-Irish economist Richard Cantillon in 1755 in his foundational treatise, [Essay on the Nature of Trade in General](https://mises.org/library/essay-nature-trade-general).
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: The Cantillon Inflation Cascade vs Fixed Supply Bitcoin</div>
-  <svg viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Left Panel: Cantillon Pyramid -->
-    <g transform="translate(40, 20)">
-      <rect width="330" height="240" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">Fiat Money Creation (Cantillon Pyramid)</text>
-      
-      <!-- Top Tier -->
-      <polygon points="165,50 245,95 85,95" fill="#ef4444" fill-opacity="0.8"/>
-      <text x="165" y="80" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#fff">1. Central Bank & Primary Banks (First Access)</text>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: The Cantillon Inflation Cascade vs Fixed Supply Bitcoin</div>
+svg viewBox="0 0 800 280" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-      <!-- Middle Tier -->
-      <polygon points="85,98 245,98 285,155 45,155" fill="#f59e0b" fill-opacity="0.8"/>
-      <text x="165" y="130" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#fff">2. Asset Owners & Financial Firms (High Prices)</text>
+g transform="translate(40, 20)">
+rect width="330" height="240" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">Fiat Money Creation (Cantillon Pyramid)</text>
 
-      <!-- Bottom Tier -->
-      <polygon points="45,158 285,158 320,215 10,215" fill="#6b7280" fill-opacity="0.5"/>
-      <text x="165" y="190" text-anchor="middle" font-family="system-ui" font-size="10" fill="#fff">3. Wage Earners & Savers (Inflated Consumer Prices)</text>
-    </g>
 
-    <!-- Right Panel: Bitcoin Fixed Supply -->
-    <g transform="translate(430, 20)">
-      <rect width="330" height="240" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
-      <text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">Bitcoin Monetary Metric (21 Million Max)</text>
+polygon points="165,50 245,95 85,95" fill="#ef4444" fill-opacity="0.8"/>
+text x="165" y="80" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#fff">1. Central Bank & Primary Banks (First Access)</text>
 
-      <rect x="30" y="70" width="270" height="40" rx="6" fill="#10b981" fill-opacity="0.2" stroke="#10b981" stroke-width="1.5"/>
-      <text x="165" y="95" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#10b981">Fixed Programmatic Supply (No Cantillon Privilege)</text>
 
-      <rect x="30" y="135" width="270" height="80" rx="6" fill="currentColor" fill-opacity="0.04" stroke="currentColor" stroke-opacity="0.1"/>
-      <text x="165" y="160" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="currentColor">Equal Verification Rules For All Nodes</text>
-      <text x="165" y="185" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">No Central Issuer Can Dilute Supply Rate</text>
-    </g>
-  </svg>
+polygon points="85,98 245,98 285,155 45,155" fill="#f59e0b" fill-opacity="0.8"/>
+text x="165" y="130" text-anchor="middle" font-family="system-ui" font-size="10" font-weight="700" fill="#fff">2. Asset Owners & Financial Firms (High Prices)</text>
+
+
+polygon points="45,158 285,158 320,215 10,215" fill="#6b7280" fill-opacity="0.5"/>
+text x="165" y="190" text-anchor="middle" font-family="system-ui" font-size="10" fill="#fff">3. Wage Earners & Savers (Inflated Consumer Prices)</text>
+/g>
+
+
+g transform="translate(430, 20)">
+rect width="330" height="240" rx="10" fill="currentColor" fill-opacity="0.03" stroke="currentColor" stroke-opacity="0.15"/>
+text x="165" y="30" text-anchor="middle" font-family="system-ui" font-size="13" font-weight="700" fill="currentColor">Bitcoin Monetary Metric (21 Million Max)</text>
+
+rect x="30" y="70" width="270" height="40" rx="6" fill="#10b981" fill-opacity="0.2" stroke="#10b981" stroke-width="1.5"/>
+text x="165" y="95" text-anchor="middle" font-family="system-ui" font-size="12" font-weight="700" fill="#10b981">Fixed Programmatic Supply (No Cantillon Privilege)</text>
+
+rect x="30" y="135" width="270" height="80" rx="6" fill="currentColor" fill-opacity="0.04" stroke="currentColor" stroke-opacity="0.1"/>
+text x="165" y="160" text-anchor="middle" font-family="system-ui" font-size="11" font-weight="600" fill="currentColor">Equal Verification Rules For All Nodes</text>
+text x="165" y="185" text-anchor="middle" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">No Central Issuer Can Dilute Supply Rate</text>
+/g>
+/svg>
 </div>
 
 Cantillon demonstrated that the first receivers of newly created money gain an asymmetric economic advantage:
@@ -79,22 +79,22 @@ To quantify how monetary expansion alters wealth distribution, consider the grow
 Between March 2020 and January 2022, total M2 expanded by more than 35%, marking the fastest monetary expansion in modern financial history.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
-  <div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: M2 Expansion vs Programmatic Bitcoin Halving Issuance Schedule</div>
-  <svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
-    <!-- Curve 1: Fiat M2 Expansion (Red Curve) -->
-    <path d="M 60 180 Q 250 170, 450 110 T 740 30" fill="none" stroke="#ef4444" stroke-width="3"/>
-    <text x="620" y="45" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">Fiat M2 Monetary Supply (Exponential Expansion)</text>
+div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 2: M2 Expansion vs Programmatic Bitcoin Halving Issuance Schedule</div>
+svg viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg" class="w-full h-auto">
 
-    <!-- Curve 2: Bitcoin Issuance Halving (Green Steps) -->
-    <path d="M 60 60 L 230 60 L 230 120 L 400 120 L 400 150 L 570 150 L 570 165 L 740 165" fill="none" stroke="#10b981" stroke-width="3"/>
-    <text x="580" y="185" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Bitcoin Block Subsidy Halvings (Asymptotic Limit 21M)</text>
+path d="M 60 180 Q 250 170, 450 110 T 740 30" fill="none" stroke="#ef4444" stroke-width="3"/>
+text x="620" y="45" font-family="system-ui" font-size="11" font-weight="700" fill="#ef4444">Fiat M2 Monetary Supply (Exponential Expansion)</text>
 
-    <!-- Axes -->
-    <line x1="60" y1="200" x2="740" y2="200" stroke="currentColor" stroke-opacity="0.3" stroke-width="1.5"/>
-    <line x1="60" y1="30" x2="60" y2="200" stroke="currentColor" stroke-opacity="0.3" stroke-width="1.5"/>
-    <text x="60" y="215" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">2009 (Genesis)</text>
-    <text x="740" y="215" text-anchor="end" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">2140 (Final Halving)</text>
-  </svg>
+
+path d="M 60 60 L 230 60 L 230 120 L 400 120 L 400 150 L 570 150 L 570 165 L 740 165" fill="none" stroke="#10b981" stroke-width="3"/>
+text x="580" y="185" font-family="system-ui" font-size="11" font-weight="700" fill="#10b981">Bitcoin Block Subsidy Halvings (Asymptotic Limit 21M)</text>
+
+
+line x1="60" y1="200" x2="740" y2="200" stroke="currentColor" stroke-opacity="0.3" stroke-width="1.5"/>
+line x1="60" y1="30" x2="60" y2="200" stroke="currentColor" stroke-opacity="0.3" stroke-width="1.5"/>
+text x="60" y="215" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">2009 (Genesis)</text>
+text x="740" y="215" text-anchor="end" font-family="system-ui" font-size="10" fill="currentColor" fill-opacity="0.6">2140 (Final Halving)</text>
+/svg>
 </div>
 
 ```

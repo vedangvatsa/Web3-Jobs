@@ -361,7 +361,7 @@ contract CurveSwapper {
     IERC20 public immutable dai;
     IERC20 public immutable usdc;
 
-    // Index mappings in Curve 3pool: 0 = DAI, 1 = USDC, 2 = USDT
+/ Index mappings in Curve 3pool: 0 = DAI, 1 = USDC, 2 = USDT
     int128 public constant DAI_INDEX = 0;
     int128 public constant USDC_INDEX = 1;
 
@@ -372,22 +372,22 @@ contract CurveSwapper {
         dai = IERC20(_dai);
         usdc = IERC20(_usdc);
 
-        // Pre-approve infinite allowance to pool to save gas on subsequent swaps
+/ Pre-approve infinite allowance to pool to save gas on subsequent swaps
         dai.approve(_curve3Pool, type(uint256).max);
         usdc.approve(_curve3Pool, type(uint256).max);
     }
 
-    /// @notice Swaps DAI for USDC with strict on-chain slippage bounds
+// @notice Swaps DAI for USDC with strict on-chain slippage bounds
     function swapDaiToUsdc(uint256 amountIn, uint256 maxSlippageBps) external returns (uint256) {
         dai.transferFrom(msg.sender, address(this), amountIn);
 
-        // Query expected output using view function
+/ Query expected output using view function
         uint256 expectedOut = pool3.get_dy(DAI_INDEX, USDC_INDEX, amountIn);
 
-        // Calculate minimum acceptable output based on slippage tolerance (e.g. 10 bps = 0.1%)
+/ Calculate minimum acceptable output based on slippage tolerance (e.g. 10 bps = 0.1%)
         uint256 minOut = (expectedOut * (10000 - maxSlippageBps)) / 10000;
 
-        // Execute exchange: exchange(i, j, dx, min_dy)
+/ Execute exchange: exchange(i, j, dx, min_dy)
         uint256 actualOut = pool3.exchange(DAI_INDEX, USDC_INDEX, amountIn, minOut);
 
         if (actualOut < minOut) revert SlippageExceeded();
