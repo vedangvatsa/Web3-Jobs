@@ -7,6 +7,22 @@ const __dirname = path.dirname(__filename);
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
+// Luma's "add a cover photo" grey placeholder masquerades as a real image.
+// Treat it as missing so og:image enrichment fills in the actual event art.
+function isLumaDefaultPlaceholder(img) {
+  return !!img && /images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img);
+}
+
+// Fetch with retry/backoff for 429 (Luma rate-limits aggressively).
+async function fetchWithBackoff(url, options = {}, attempts = 3) {
+  for (let attempt = 0; attempt < attempts; attempt++) {
+    const res = await fetch(url, options);
+    if (res.status !== 429) return res;
+    await new Promise((r) => setTimeout(r, (attempt + 1) * 4000));
+  }
+  return undefined;
+}
+
 // ─── Web3 Relevance Filter ─────────────────────────────────────────────
 // STRONG keywords: unambiguously Web3/crypto — a single match is enough
 const STRONG_KEYWORDS = [
@@ -965,7 +981,7 @@ async function fetchWeb3Voyager() {
 
       let coverImage = null;
       if (d.meta?.image?.url) {
-        coverImage = d.meta.image.url;
+        coverImage = isLumaDefaultPlaceholder(d.meta.image.url) ? null : d.meta.image.url;
       }
 
       events.push({
@@ -1381,8 +1397,9 @@ async function fetchWeb3Events() {
   console.log(`\n${rawCount} raw → ${validEvents.length} Web3-relevant upcoming events.`);
 
   // ── OG Image Enrichment ──────────────────────────────────────────────
-  // Fetch og:image from event URLs for events missing coverImage
-  const needsImage = validEvents.filter(e => !e.coverImage && e.url);
+  // Fetch og:image from event URLs for events missing cover images (includes
+  // Luma default placeholders, which are effectively missing).
+  const needsImage = validEvents.filter(e => (!e.coverImage || isLumaDefaultPlaceholder(e.coverImage)) && e.url);
   if (needsImage.length > 0) {
     console.log(`\n[OG Image] Fetching images for ${needsImage.length} events without cover images...`);
     let found = 0;
@@ -1394,13 +1411,13 @@ async function fetchWeb3Events() {
           try {
             const controller = new AbortController();
             const timeout = setTimeout(() => controller.abort(), 2500);
-            const resp = await fetch(event.url, {
+            const resp = await fetchWithBackoff(event.url, {
               headers: { 'User-Agent': UA },
               signal: controller.signal,
               redirect: 'follow',
             });
             clearTimeout(timeout);
-            if (!resp.ok) return null;
+            if (!resp || !resp.ok) return null;
             const html = await resp.text();
             // Extract og:image — try multiple patterns
             const ogMatch = html.match(

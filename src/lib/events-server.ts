@@ -27,6 +27,12 @@ function isQualityEvent(e: Web3Event): boolean {
   return WEB3_VOCAB.test(text);
 }
 
+// Luma's grey "add a cover photo" placeholder is not real event art;
+// treat it as missing so cards/heroes fall back to the gradient cover.
+function isLumaDefaultPlaceholder(img?: string | null): boolean {
+  return !!img && /images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img);
+}
+
 function normalizeEventTitle(name: string): string {
   return name
     .toLowerCase()
@@ -151,6 +157,7 @@ export async function getEvents(): Promise<Web3Event[]> {
 
       cleaned.push({
         ...e,
+        coverImage: isLumaDefaultPlaceholder(e.coverImage) ? null : e.coverImage,
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
