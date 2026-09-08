@@ -42,20 +42,6 @@
     "month": "September 2026"
   },
   {
-    "id": "ma-stablecon--26---washington-dc",
-    "name": "Stablecon ’26 – Washington DC",
-    "description": "Stablecon welcomes institutions bridging TradFi and DeFi, progressive-minded regulators, and architects of programmable money in Washington, D.C., in September 2026, giving the bold voices shaping the",
-    "startDate": "2026-09-09T00:00:00.000Z",
-    "endDate": "2026-09-11T00:00:00.000Z",
-    "city": "Washington DC, USA",
-    "country": "USA",
-    "location": "Washington DC, USA, USA",
-    "url": "https://stablecon.com",
-    "coverImage": "https://stablecon.com/wp-content/uploads/2026/05/HENR2831.jpg",
-    "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-YFOYTBPAEpM8b6O",
     "name": "ISC2 Silicon Valley - September 2026 Chapter Meeting",
     "description": "",
@@ -347,21 +333,6 @@
     "url": "https://www.meetup.com/carpoolcrypto/events/316216307/",
     "coverImage": null,
     "source": "meetup",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-buildathon-cochabamba-2026",
-    "name": "Buildathon Cochabamba 2026",
-    "description": "Buildathon Cochabamba 2026 on Web3Voyager: a three-day Ethereum buildathon in Bolivia with 200+ hackers, 20+ workshops and project development.",
-    "startDate": "2026-09-11T07:00:00.000Z",
-    "endDate": "2026-09-13T19:00:00.000Z",
-    "city": "Tiquipaya",
-    "country": "BO",
-    "location": "Tiquipaya, BO",
-    "url": "https://www.ethereumbolivia.org/",
-    "coverImage": "http://localhost:4321/images/og.png",
-    "source": "web3voyager",
-    "bypassedFilter": true,
     "month": "September 2026"
   },
   {
@@ -793,21 +764,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-ethspain-2026",
-    "name": "ETHSpain 2026 ",
-    "description": "ETHSpain 2026 on Web3Voyager: Barcelona Ethereum conference on September 17, with technical talks, ecosystem networking, and rooftop cocktails.",
-    "startDate": "2026-09-17T14:30:00.000Z",
-    "endDate": "2026-09-17T18:30:00.000Z",
-    "city": "Barcelona",
-    "country": "ES",
-    "location": "Barcelona, ES",
-    "url": "https://ethspain.org",
-    "coverImage": "https://ethspain.org/og-image.png",
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-1wNH4BLiEalc9uT",
     "name": "BTCAI: Bitcoin, wenn’s läuft. Cash, wenn’s kracht",
     "description": "",
@@ -894,21 +850,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-hackindia-spark-12-jaipur",
-    "name": "HackIndia Spark-12 Jaipur",
-    "description": "HackIndia Spark-12 on Web3Voyager: a September 18–19, 2026 hackathon covering AI, Web3, blockchain, DeepTech and IoT.",
-    "startDate": "2026-09-18T07:00:00.000Z",
-    "endDate": "2026-09-19T19:00:00.000Z",
-    "city": "Jaipur",
-    "country": "IN",
-    "location": "Jaipur, IN",
-    "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan-north-india-region",
-    "coverImage": "https://khajana.blob.core.windows.net/hackindia/events/1786955901083_rfkjn8_cropped-banner.webp",
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "ethorg-meetupweb3privacy-now-tokyo-meetupseptember-18toky",
     "name": "MeetupWeb3Privacy now Tokyo meetupSeptember 18Tokyo, Japan (opens in a new tab)",
     "description": "",
@@ -920,21 +861,6 @@
     "url": "https://luma.com/ispxo30p",
     "coverImage": null,
     "source": "ethereum-org",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-ethtokyo-2026",
-    "name": "ETHTokyo Week 2026",
-    "description": "ETHTokyo Week 2026 on Web3Voyager: city-wide Ethereum week in Tokyo from September 19–27, with community events, workshops, meetups, and hackathons.\n",
-    "startDate": "2026-09-19T06:00:00.000Z",
-    "endDate": "2026-09-27T19:00:00.000Z",
-    "city": "Global",
-    "country": "JP",
-    "location": "Global, JP",
-    "url": "https://www.ethtokyo.org",
-    "coverImage": "https://www.ethtokyo.org/images/ogp.png",
-    "source": "web3voyager",
-    "bypassedFilter": true,
     "month": "September 2026"
   },
   {
@@ -1179,20 +1105,6 @@
     "month": "September 2026"
   },
   {
-    "id": "ma-ethglobal-tokyo-2026",
-    "name": "ETHGlobal Tokyo 2026",
-    "description": "Come build our decentralized future ETHGlobal hackathons enable you to experiment with cutting edge web3 technologies and develop an idea you're passionate about. This is your opportunity to learn abo",
-    "startDate": "2026-09-25T00:00:00.000Z",
-    "endDate": "2026-09-25T00:00:00.000Z",
-    "city": "Tokyo, Japan",
-    "country": "Japan",
-    "location": "Tokyo, Japan, Japan",
-    "url": "https://ethglobal.com/events/tokyo2026",
-    "coverImage": null,
-    "source": "marketacross",
-    "month": "September 2026"
-  },
-  {
     "id": "luma-host-evt-evt-HVi8pTdZBEHTVLR",
     "name": "Pragma Tokyo 2026",
     "description": "",
@@ -1218,21 +1130,6 @@
     "url": "https://lu.ma/blitz-berlin-sep-2026",
     "coverImage": "https://images.lumacdn.com/uploads/gd/4d792b54-eaf2-4290-99e0-2a2e88cd64de.png",
     "source": "luma-trusted",
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-monad-blitz-berlin-hackathon",
-    "name": "Monad Blitz Berlin Hackathon",
-    "description": "Monad Blitz Berlin Hackathon on Web3Voyager: a Monad hackathon in Berlin with seven hours of building, workshops and $3,000 in prizes.",
-    "startDate": "2026-09-26T07:00:00.000Z",
-    "endDate": "2026-09-26T18:00:00.000Z",
-    "city": "Berlin",
-    "country": "DE",
-    "location": "Berlin, DE",
-    "url": "https://luma.com/blitz-berlin-sep-2026",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
     "month": "September 2026"
   },
   {
@@ -1293,21 +1190,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-ethereum-korea-one",
-    "name": "Ethereum Korea One",
-    "description": "Ethereum Korea One on Web3Voyager: a September 28–29 event covering Ethereum, tokenization, stablecoins, and builder-focused technical discussions.",
-    "startDate": "2026-09-28T07:00:00.000Z",
-    "endDate": "2026-09-29T19:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://one.ethereumkorea.io",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-perp-dex-day-with-reboundx",
     "name": "Perp-Dex Day with ReboundX",
     "description": "Perp-Dex Day with ReboundX on Web3Voyager: a September 28, 2026 Seoul event focused on perpetual DEX trading, onchain derivatives and networking.",
@@ -1353,21 +1235,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-agentic-payments-onchain",
-    "name": "Agentic Payments Onchain",
-    "description": "Agentic Payments Onchain on Web3Voyager: a September 28 event in Seoul covering AI agents, x402, MPP, onchain payments and autonomous infrastructure.",
-    "startDate": "2026-09-28T16:00:00.000Z",
-    "endDate": "2026-09-28T21:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/mw84pfjm",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-security-night-with-zircuit-finance-quantstamp-and-common-defense",
     "name": "Security Night with Zircuit Finance, Quantstamp, and Common Defense",
     "description": "Security Night on Web3Voyager: a Seoul event covering Web3 security, DeFi and social engineering threats.",
@@ -1380,35 +1247,6 @@
     "coverImage": null,
     "source": "web3voyager",
     "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-connect-by-cointelegraph-seoul-edition",
-    "name": "CONNECT by Cointelegraph: Seoul Edition",
-    "description": "CONNECT by Cointelegraph: Seoul Edition on Web3Voyager: a September 29 event during Korea Blockchain Week for Web3 founders, builders and investors.",
-    "startDate": "2026-09-28T22:00:00.000Z",
-    "endDate": "2026-09-29T16:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/xxwrhox8",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
-    "id": "ma-korea-blockchain-week-2026--kbw2026-",
-    "name": "Korea Blockchain Week 2026 (KBW2026)",
-    "description": "",
-    "startDate": "2026-09-29T00:00:00.000Z",
-    "endDate": "2026-10-01T00:00:00.000Z",
-    "city": "Seoul, South Korea",
-    "country": "South Korea",
-    "location": "Seoul, South Korea, South Korea",
-    "url": "https://koreablockchainweek.com/",
-    "coverImage": "https://framerusercontent.com/images/pesxh0NQOVpQRnQ7QadhG4wMY.png",
-    "source": "marketacross",
     "month": "September 2026"
   },
   {
@@ -1515,21 +1353,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-korea-blockchain-week-networking-rooftop",
-    "name": "Korea Blockchain Week Networking Rooftop",
-    "description": "Korea Blockchain Week Networking Rooftop on Web3Voyager: a September 30, 2026 Seoul meetup for crypto and Web3 founders, investors, and builders.\n",
-    "startDate": "2026-09-29T22:00:00.000Z",
-    "endDate": "2026-09-30T21:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/to04r60x",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "luma-evt-YpFXSHbNG9yCntK",
     "name": "Convergence: Onchain Finance Soirée at Sibos Miami | OpenZeppelin x WisdomTree x DFNS",
     "description": "",
@@ -1559,21 +1382,6 @@
     "month": "September 2026"
   },
   {
-    "id": "w3v-institutional-onchain-rwas--stablecoins",
-    "name": "Institutional Onchain: RWAs & Stablecoins",
-    "description": "Institutional Onchain on Web3Voyager: a September 29–October 1, 2026 Seoul forum covering RWAs, stablecoins, DeFi and onchain infrastructure.",
-    "startDate": "2026-09-30T12:00:00.000Z",
-    "endDate": "2026-09-30T13:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/qsfjc56x",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
     "id": "w3v-perps--institutional-trading-liquidity--the-onchain-economy",
     "name": "Perps × Institutional: Trading, Liquidity & the Onchain Economy",
     "description": "Perps × Institutional on Web3Voyager: a September 30, 2026 Seoul event covering perps, institutional crypto, RWAs, stablecoins and DeFi liquidity.\n",
@@ -1583,21 +1391,6 @@
     "country": "KR",
     "location": "Global, KR",
     "url": "https://luma.com/v6bkeysx",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "September 2026"
-  },
-  {
-    "id": "w3v-rayls-in-seoul",
-    "name": "Rayls in Seoul",
-    "description": "Rayls in Seoul | KBW on Web3Voyager: a September 30, 2026 event covering financial services, digital assets, tokenization and onchain infrastructure.",
-    "startDate": "2026-09-30T16:30:00.000Z",
-    "endDate": "2026-09-30T19:00:00.000Z",
-    "city": "Global",
-    "country": "KR",
-    "location": "Global, KR",
-    "url": "https://luma.com/r5p3iwb8",
     "coverImage": null,
     "source": "web3voyager",
     "bypassedFilter": true,
@@ -1642,21 +1435,6 @@
     "country": "KR",
     "location": "Global, KR",
     "url": "https://luma.com/HSC_Seoul",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-ps-lisbon",
-    "name": "P.S. Lisbon",
-    "description": "P.S. Lisbon on Web3Voyager: approval-based Lisbon evening by INPUT Global Events for founders and operators across iGaming, payments, and crypto.",
-    "startDate": "2026-10-01T16:00:00.000Z",
-    "endDate": "2026-10-01T20:00:00.000Z",
-    "city": "Lisboa",
-    "country": "PT",
-    "location": "Lisboa, PT",
-    "url": "https://luma.com/P.S.Lisbon",
     "coverImage": null,
     "source": "web3voyager",
     "bypassedFilter": true,
@@ -2111,20 +1889,6 @@
     "month": "October 2026"
   },
   {
-    "id": "dtt-token2049-singapore-2026",
-    "name": "TOKEN2049 SINGAPORE 2026",
-    "description": "",
-    "startDate": "2026-10-07T00:00:00.000Z",
-    "endDate": "2026-10-07T00:00:00.000Z",
-    "city": "SINGAPORE 2026October 7-8, 2026Singapore",
-    "country": "",
-    "location": "SINGAPORE 2026October 7-8, 2026Singapore",
-    "url": "https://token2049.com/singapore?utm_source=newsletter&utm_medium=email&utm_campaign=singapore_2026",
-    "coverImage": "https://token2049.nyc3.cdn.digitaloceanspaces.com/Singapore/OG/T2049%20Singapore%20-%20OpenGraph%20(2026)%202%20OCT%202025.avif",
-    "source": "deeptechtimes",
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-definition-singapore-2026",
     "name": "DeFinition Singapore 2026",
     "description": "DeFinition Singapore 2026 on Web3Voyager: an institutional DeFi forum with six panels and 600 attendees from finance, investment and onchain markets.",
@@ -2389,21 +2153,6 @@
     "country": "SG",
     "location": "Singapore, SG",
     "url": "https://luma.com/ixmrhvtm",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "October 2026"
-  },
-  {
-    "id": "w3v-vntr-investor-forum-singapore",
-    "name": "VNTR Investor Forum Singapore",
-    "description": "VNTR Investor Forum Singapore on Web3Voyager: an October 8 investor forum covering venture capital trends, deal flow and co-investment opportunities.\n",
-    "startDate": "2026-10-08T07:30:00.000Z",
-    "endDate": "2026-10-08T14:00:00.000Z",
-    "city": "Global",
-    "country": "SG",
-    "location": "Global, SG",
-    "url": "https://luma.com/w5ck9zwq",
     "coverImage": null,
     "source": "web3voyager",
     "bypassedFilter": true,
@@ -2737,21 +2486,6 @@
     "month": "October 2026"
   },
   {
-    "id": "w3v-hackmeridian-lisbon-2026",
-    "name": "HackMeridian 2026",
-    "description": "HackMeridian 2026 on Web3Voyager: a two-day Stellar hackathon in Lisbon for developers and founders building new or existing products.",
-    "startDate": "2026-10-25T08:00:00.000Z",
-    "endDate": "2026-10-26T20:00:00.000Z",
-    "city": "Lisbon",
-    "country": "PT",
-    "location": "Lisbon, PT",
-    "url": "https://www.hackmeridian.com",
-    "coverImage": "https://hackmeridian.com/assets/og-image.jpg",
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "October 2026"
-  },
-  {
     "id": "w3v-linknyc",
     "name": "Link:NYC",
     "description": "Link:NYC on Web3Voyager: a Chainlink event covering institutional RWAs, agentic finance, interoperability, stablecoins and infrastructure.",
@@ -2765,21 +2499,6 @@
     "source": "web3voyager",
     "bypassedFilter": true,
     "month": "October 2026"
-  },
-  {
-    "id": "w3v-ethereum-cypherpunk-congress-mumbai",
-    "name": "Ethereum Cypherpunk Congress Mumbai",
-    "description": "Ethereum Cypherpunk Congress on Web3Voyager: free Mumbai event by Web3Privacy Now focused on privacy, open-source software, and internet freedom.",
-    "startDate": "2026-11-02T08:00:00.000Z",
-    "endDate": "2026-11-02T20:00:00.000Z",
-    "city": "Mumbai",
-    "country": "IN",
-    "location": "Mumbai, IN",
-    "url": "https://congress.web3privacy.info",
-    "coverImage": "https://congress.web3privacy.info/img/ecc3.png",
-    "source": "web3voyager",
-    "bypassedFilter": true,
-    "month": "November 2026"
   },
   {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2026-novemb",
@@ -2893,21 +2612,6 @@
     "url": "https://conferenceindex.org/event/international-conference-on-smart-contracts-blockchain-and-cryptocurrencies-icscbc-2026-november-rome-it",
     "coverImage": null,
     "source": "conferenceindex",
-    "month": "November 2026"
-  },
-  {
-    "id": "w3v-the-unbanked-conference-london",
-    "name": "The (un)Banked Conference",
-    "description": "The (un)Banked Conference on Web3Voyager: London event by INPUT Global focused on banking, fintech, payments, custody, and onchain infrastructure.",
-    "startDate": "2026-11-09T09:00:00.000Z",
-    "endDate": "2026-11-09T16:00:00.000Z",
-    "city": "London",
-    "country": "GB",
-    "location": "London, GB",
-    "url": "https://luma.com/TheUnBanked",
-    "coverImage": null,
-    "source": "web3voyager",
-    "bypassedFilter": true,
     "month": "November 2026"
   },
   {
@@ -3326,20 +3030,6 @@
     "month": "May 2027"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-sy",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-05-20T00:00:00.000Z",
-    "endDate": "2027-05-20T00:00:00.000Z",
-    "city": "Sydney",
-    "country": "Australia",
-    "location": "Sydney, Australia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-sydney-au",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-ba",
     "name": "International Conference on Blockchain Technology (ICBT)",
     "description": "",
@@ -3349,20 +3039,6 @@
     "country": "Spain",
     "location": "Barcelona, Spain",
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-barcelona-es",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "May 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-may-ne",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-05-27T00:00:00.000Z",
-    "endDate": "2027-05-27T00:00:00.000Z",
-    "city": "New York",
-    "country": "United States",
-    "location": "New York, United States",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-may-new-york-us",
     "coverImage": null,
     "source": "conferenceindex",
     "month": "May 2027"
@@ -3452,34 +3128,6 @@
     "month": "July 2027"
   },
   {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-p",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-07-01T00:00:00.000Z",
-    "endDate": "2027-07-01T00:00:00.000Z",
-    "city": "Prague",
-    "country": "Czechia",
-    "location": "Prague, Czechia",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-prague-cz",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-c",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-07-01T00:00:00.000Z",
-    "endDate": "2027-07-01T00:00:00.000Z",
-    "city": "Corfu",
-    "country": "Greece",
-    "location": "Corfu, Greece",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-corfu-gr",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
     "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-t",
     "name": "International Conference on Blockchain Technology (ICBT)",
     "description": "",
@@ -3489,20 +3137,6 @@
     "country": "Japan",
     "location": "Tokyo, Japan",
     "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-tokyo-jp",
-    "coverImage": null,
-    "source": "conferenceindex",
-    "month": "July 2027"
-  },
-  {
-    "id": "ci-https---conferenceindex-org-event-international-conference-on-blockchain-technology-icbt-2027-july-b",
-    "name": "International Conference on Blockchain Technology (ICBT)",
-    "description": "",
-    "startDate": "2027-07-22T00:00:00.000Z",
-    "endDate": "2027-07-22T00:00:00.000Z",
-    "city": "Berlin",
-    "country": "Germany",
-    "location": "Berlin, Germany",
-    "url": "https://conferenceindex.org/event/international-conference-on-blockchain-technology-icbt-2027-july-berlin-de",
     "coverImage": null,
     "source": "conferenceindex",
     "month": "July 2027"
