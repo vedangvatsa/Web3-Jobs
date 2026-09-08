@@ -199,7 +199,11 @@ export function middleware(request: NextRequest) {
         // For human visitors, redirect with absolute URL and UTM parameters
         const redirectUrl = new URL(basePath + '?' + url.searchParams.toString(), 'https://hashtagweb3.com');
         const response = NextResponse.redirect(redirectUrl, 307);
-        return applyRateLimitHeaders(response, limit, remaining, reset);
+        response.headers.set('Strict-Transport-Security', 'max-age=31536000; includeSubDomains; preload');
+        response.headers.set('X-Content-Type-Options', 'nosniff');
+        response.headers.set('Referrer-Policy', 'strict-origin-when-cross-origin');
+        response.headers.set('Permissions-Policy', 'camera=(), microphone=(), geolocation=()');
+        return response;
       }
     }
   }
@@ -212,42 +216,47 @@ export function middleware(request: NextRequest) {
     return NextResponse.rewrite(rewrite);
   }
 
-  // 3. Bot UA + Accept: text/markdown → rewrite to .md equivalent
+  // 3. Bot UA or Accept: text/markdown → serve markdown or agent view
   const ua = request.headers.get('user-agent') || '';
   const isAIBot = AI_BOT_UA_PATTERNS.some((pattern) => ua.includes(pattern));
+  const acceptHeader = request.headers.get('accept') || '';
+  const prefersMarkdown = acceptHeader.includes('text/markdown');
+
+  const KNOWN_MD_PATHS = new Set([
+    '/index.md',
+    '/auth.md',
+    '/404.md',
+    '/terms-of-use.md',
+    '/api-policy.md',
+    '/agent-instructions.md',
+    '/noslop.md',
+    '/AGENTS.md',
+  ]);
 
   if (
-    isAIBot &&
+    (isAIBot || prefersMarkdown) &&
     !pathname.startsWith('/api') &&
     !pathname.startsWith('/_next') &&
     !pathname.includes('.')
   ) {
-    const accept = request.headers.get('accept') || '';
-    if (
-      accept.includes('text/markdown') ||
-      accept.includes('text/*') ||
-      accept.includes('*/*') ||
-      !accept
-    ) {
-      const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
+    const candidateMdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
+
+    if (KNOWN_MD_PATHS.has(candidateMdPath)) {
       const rewrite = request.nextUrl.clone();
-      rewrite.pathname = mdPath;
+      rewrite.pathname = candidateMdPath;
+      rewrite.search = '';
+      const response = NextResponse.rewrite(rewrite);
+      response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
+      return response;
+    } else if (isAIBot || prefersMarkdown) {
+      // For paths without a specific static .md file, rewrite to agent-view so bots get structured content rather than 404
+      const rewrite = request.nextUrl.clone();
+      rewrite.pathname = '/api/agent-view';
       rewrite.search = '';
       const response = NextResponse.rewrite(rewrite);
       response.headers.set('Vary', 'Accept, Accept-Encoding, User-Agent');
       return response;
     }
-  }
-
-  // Handle Accept: text/markdown on any route
-  const acceptHeader = request.headers.get('accept') || '';
-  if (acceptHeader.includes('text/markdown') && !pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
-    const mdPath = pathname === '/' ? '/index.md' : `${pathname}.md`;
-    const rewrite = request.nextUrl.clone();
-    rewrite.pathname = mdPath;
-    const response = NextResponse.rewrite(rewrite);
-    response.headers.set('Vary', 'Accept, Accept-Encoding');
-    return response;
   }
 
   return NextResponse.next();
