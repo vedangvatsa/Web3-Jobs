@@ -5,6 +5,14 @@
  */
 
 export const COMPANY_RICH_ABOUT: Record<string, string> = {
+  "aztec-labs": `Aztec Labs is building Aztec, a privacy-first Layer 2 zkRollup on Ethereum, enabling encrypted smart contracts and private programmable state using zero-knowledge cryptography.`,
+  "baton-corporation": `Baton Corporation is an institutional Web3 payment and post-trade settlement network optimizing liquidity, risk management, and digital asset workflows for major financial institutions.`,
+  "douro-labs": `Douro Labs is a core contributor to Pyth Network, building high-speed decentralized oracle infrastructure and low-latency financial market data feeds across 50+ blockchain ecosystems.`,
+  "flipside": `Flipside (Flipside Crypto) is a Web3 data analytics and protocol growth platform powering SQL data queries, on-chain intelligence dashboards, and developer bounties across major L1s and L2s.`,
+  "fomo": `Fomo is a Web3 social trading and liquidity discovery platform designed to provide real-time token tracking, copy-trading tools, and community sentiment analysis for crypto traders.`,
+  "jito-labs": `Jito Labs (Jito Network) is the leading liquid staking and MEV (Maximal Extractable Value) infrastructure provider on Solana, maintaining JitoSOL and high-performance validator execution clients.`,
+  "temporal": `Temporal is a high-throughput decentralized exchange and liquidity protocol engineered for sub-second execution, MEV protection, and capital-efficient digital asset trading.`,
+  "wormhole-labs": `Wormhole Labs is a core contributor to Wormhole, the leading cross-chain messaging and interoperability protocol connecting Ethereum, Solana, Cosmos, and 30+ blockchain networks.`,
   "bitbank": `bitbank is a leading licensed Japanese cryptocurrency exchange providing spot trading, deep liquidity, and institutional digital asset services.`,
   "talos-trading": `Talos Trading is an institutional-grade digital asset trading platform providing institutional investors and market makers with end-to-end trading infrastructure, algorithmic execution, liquidity aggregation, and post-trade settlement across global crypto markets.`,
   "alpen-labs": `Alpen Labs is an innovative Bitcoin infrastructure and Zero-Knowledge (ZK) research team building programmable Layer 2 infrastructure and Bitcoin-native neobanking experiences for global financial markets.`,
