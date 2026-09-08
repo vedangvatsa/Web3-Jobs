@@ -164,21 +164,21 @@ async function renderSlideJpeg(
         flexDirection: 'column',
         justifyContent: 'space-between',
         backgroundColor: '#ffffff',
-        padding: '96px 88px',
+        padding: '96px 96px',
       },
       children: [
-        // Middle body: Ultra Clean Big Bold High-Contrast Typography
+        // Middle body: Perfectly Symmetrical Big Bold High-Contrast Typography
         {
           type: 'div',
           props: {
             style: {
+              flex: 1,
               display: 'flex',
               flexDirection: 'column',
               justifyContent: 'center',
               alignItems: isCta ? 'center' : 'flex-start',
               textAlign: isCta ? 'center' : 'left',
               width: '100%',
-              margin: '32px 0',
             },
             children: [
               {
@@ -205,7 +205,7 @@ async function renderSlideJpeg(
                     color: '#334155',
                     lineHeight: '1.4',
                     marginTop: '44px',
-                    maxWidth: '920px',
+                    maxWidth: '888px',
                   },
                   children: body,
                 },
@@ -213,17 +213,18 @@ async function renderSlideJpeg(
             ],
           },
         },
-        // Bottom row: Minimalist Branded Footer
+        // Bottom row: Minimalist Branded Footer with Symmetric Centered Layout
         {
           type: 'div',
           props: {
             style: {
               display: 'flex',
-              justifyContent: 'space-between',
+              justifyContent: isCta ? 'center' : 'space-between',
               alignItems: 'center',
               width: '100%',
               fontSize: '32px',
               fontWeight: 'bold',
+              paddingTop: '32px',
             },
             children: [
               {
