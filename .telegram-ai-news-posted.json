@@ -545,6 +545,9 @@
   "https://techcrunch.com/2026/09/02/wonderful-more-than-doubles-its-valuation-to-5b-in-under-6-months/",
   "https://arstechnica.com/tech-policy/2026/08/chatgtp-and-reddit-now-face-eus-toughest-online-safety-rules/",
   "https://arstechnica.com/tech-policy/2026/08/trump-blacklisting-of-woke-anthropic-deemed-illegal-by-federal-judge/",
+  "https://arstechnica.com/ai/2026/09/four-major-ai-models-suffer-rare-overlapping-downtime/",
+  "https://techcrunch.com/2026/09/07/artificial-intelligence-definition-glossary-hallucinations-guide-to-common-ai-terms/",
+  "https://www.technologyreview.com/2026/09/07/1143592/the-download-underground-hydrogen-search-rogue-openai-agents/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1418,6 +1421,12 @@
   "ChatGPT and Reddit now face EU's toughest online safety rules",
   "Federal judge rules US government blacklisting of Anthropic illegal",
   "Trump blacklisting of \"woke\" Anthropic deemed illegal by federal judge",
+  "Major AI platforms suffer simultaneous operational outages",
+  "Four major AI models suffer rare overlapping downtime",
+  "Guide details key artificial intelligence terms and slang",
+  "Opaque recurrence, and other AI terms that you should probably know",
+  "The Search for Underground Hydrogen",
+  "The Download: the hunt for underground hydrogen and more rogue OpenAI agents",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1480,5 +1489,8 @@
   "fp:agent|anthropic|communicat|control|devic|driver|enabl|hardwar|interfac|let",
   "fp:550m|customer|demand|development|doubl|expansion|faster|fund|grow|meet",
   "fp:content|designation|europ|european|fac|follow|growth|management|mandat|moderation",
-  "fp:action|anthropic|blacklist|court|deem|defens|deployment|federal|firm|found"
+  "fp:action|anthropic|blacklist|court|deem|defens|deployment|federal|firm|found",
+  "fp:concurrent|consumer|downtim|enterpris|four|interruption|knock|lead|major|multipl",
+  "fp:alongsid|automat|clear|definition|detail|emerg|glossary|guid|key|know",
+  "fp:agent|aim|clean|deposit|download|effort|energy|exploration|find|global"
 ]
