@@ -44,6 +44,8 @@ import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
+import { getCompanySlug } from '../../src/lib/job-slugs';
+import { resolveCompanyLogo } from '../../src/lib/company-logo';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
@@ -800,8 +802,17 @@ async function main() {
 
   const { company, title, slug, location } = selectedJob;
 
-  // Build OG image URL
-  const ogImageUrl = `${SITE_URL}/api/og?type=job&title=${encodeURIComponent(title)}&company=${encodeURIComponent(company)}&location=${encodeURIComponent(location || 'Remote')}`;
+  // Build OG image URL, passing the verified local logo when one exists so
+  // the card uses high-res art instead of guessing favicons. PNG twin is
+  // preferred (every .webp in public/logo has one; satori embeds PNG safely).
+  let logoParam = '';
+  try {
+    const localLogo = resolveCompanyLogo(getCompanySlug(company));
+    if (localLogo) logoParam = `&logo=${encodeURIComponent(localLogo.replace(/\.webp$/i, '.png'))}`;
+  } catch {
+    // Fall through to favicon guessing inside the OG route.
+  }
+  const ogImageUrl = `${SITE_URL}/api/og?type=job&title=${encodeURIComponent(title)}&company=${encodeURIComponent(company)}&location=${encodeURIComponent(location || 'Remote')}${logoParam}`;
 
   // Formats strictly adhering to:
   //   Company is hiring role
