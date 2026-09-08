@@ -1,5 +1,5 @@
 {
-  "lastIndex": 115,
+  "lastIndex": 116,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -27,7 +27,8 @@
     "role6be75",
     "role48004",
     "joba31d1",
-    "security29764"
+    "security29764",
+    "job31002"
   ],
   "history": [
     {
@@ -781,6 +782,46 @@
       "platform": "facebook",
       "postedAt": "2026-09-08T00:30:41.568Z",
       "postId": "691827047618629_1082679287672639"
+    },
+    {
+      "slug": "job31002",
+      "company": "BitGo",
+      "title": "Senior Software Engineer - Accounting & Ledger Systems",
+      "platform": "threads",
+      "postedAt": "2026-09-08T06:02:15.290Z",
+      "postId": "17900194647568272"
+    },
+    {
+      "slug": "job31002",
+      "company": "BitGo",
+      "title": "Senior Software Engineer - Accounting & Ledger Systems",
+      "platform": "bluesky",
+      "postedAt": "2026-09-08T06:02:15.290Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3muydxmmef62e"
+    },
+    {
+      "slug": "job31002",
+      "company": "BitGo",
+      "title": "Senior Software Engineer - Accounting & Ledger Systems",
+      "platform": "farcaster",
+      "postedAt": "2026-09-08T06:02:15.290Z",
+      "postId": "0x645ab60e3fd65a1bf46c7bd79e3f3a6d8513adc7"
+    },
+    {
+      "slug": "job31002",
+      "company": "BitGo",
+      "title": "Senior Software Engineer - Accounting & Ledger Systems",
+      "platform": "linkedin",
+      "postedAt": "2026-09-08T06:02:15.290Z",
+      "postId": "6a9fa4fcf8ad4188251fb962"
+    },
+    {
+      "slug": "job31002",
+      "company": "BitGo",
+      "title": "Senior Software Engineer - Accounting & Ledger Systems",
+      "platform": "facebook",
+      "postedAt": "2026-09-08T06:02:15.290Z",
+      "postId": "691827047618629_1082858157654752"
     }
   ]
 }
