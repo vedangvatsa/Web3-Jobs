@@ -8,45 +8,53 @@ const DESC_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
 const TODAY = new Date().toISOString().slice(0, 10);
 
 // ---------------------------------------------------------------------------
-// Paradigm portfolio — crypto/web3 companies only.
-// Non-web3 companies in the portfolio (Stripe, Revolut, Zipline, True Anomaly,
-// Citadel Securities, SendCutSend, Antares, etc.) are deliberately excluded.
+// Companies covered by DIRECT ATS feeds in ingest-all.ts.
+// We skip these in the Paradigm scraper to avoid duplicates — their jobs are
+// already ingested at source via Ashby / Greenhouse / Lever APIs.
+// ---------------------------------------------------------------------------
+const DIRECTLY_COVERED_COMPANIES = new Set([
+  // GLOBAL_ECOSYSTEM_FEEDS
+  'fireblocks', 'bitgo', 'gemini', 'flow traders', 'certik', 'a16z crypto',
+  'injective', 'ritual', 'arbitrum', 'render network', 'phantom', 'morpho',
+  'safe', 'uniswap labs', 'uniswap', 'ethena labs', 'optimism', 'consensys',
+  'compound', 'jump crypto', 'trm labs', 'openzeppelin', 'mysten labs',
+  'immunefi', 'ramp', 'ramp network',
+  // REGIONAL_FEEDS
+  'yellow card', 'luno', 'bybit', 'coinhako', 'coingecko', 'amber group',
+  'animoca brands',
+  // UNTRACKED_FEEDS
+  'cantina', 'turnkey', 'hyperbolic', '0g labs', 'grass', 'sahara ai',
+  'chainstack', 'helius', 'nomic foundation', 'movement labs', 'symbiotic',
+  'aztec labs', 'succinct labs', 'magic eden', 'foundation',
+  // FRESH_FEEDS
+  'matter labs', 'layerzero', 'jito labs', 'opensea', 'aptos labs',
+  'eigenlayer', 'bastion', 'worldcoin', 'alchemy', 'talos trading',
+  // Other direct feeds in the pipeline
+  'chainalysis', 'moonpay', 'lightspark', 'kalshi', 'monad foundation',
+  'monad', 'ellipsis labs', 'sky mavis', 'hyperliquid labs', 'hyperliquid',
+  'gauntlet', 'coinswitch', 'coinswitch kuber',
+]);
+
+// ---------------------------------------------------------------------------
+// Paradigm portfolio — crypto/web3 companies NOT already in direct feeds.
+// These are the companies we will add via the Paradigm HTML scrape.
 // ---------------------------------------------------------------------------
 const PARADIGM_WEB3_COMPANIES = new Set([
-  'fireblocks',
-  'chainalysis',
-  'moonpay',
-  'mesh',
-  'phantom',
-  'morpho labs',
-  'ellipsis labs',
-  'coinswitch kuber',
-  'coinswitch',
+  // Not in direct feeds — worth scraping from Paradigm
   'taxbit',
-  'uniswap',
-  'limit break',
-  'gauntlet',
-  'monad foundation',
-  'monad',
   'privy',
   'bitso',
-  'sky mavis',
-  'symbiotic',
-  'magic eden',
   'axiom',
   'babylon labs',
   'babylon',
-  'lightspark',
-  'opensea',
   '3jane',
-  'hyperliquid',
   'sorella labs',
   'sorella',
   'exponential.fi',
   'exponential',
   'lido',
   'vana',
-  'succinct',
+  'succinct',    // note: succinct labs is in direct feeds but "succinct" alone is ok
   'conduit',
   'cosmos network',
   'cosmos',
@@ -55,9 +63,7 @@ const PARADIGM_WEB3_COMPANIES = new Set([
   'd3',
   'agora',
   'category labs',
-  'kalshi',
   'matrixport',
-  'amber group',
   'nous research',
   'mad realities',
   'lootrush',
@@ -70,15 +76,35 @@ const PARADIGM_WEB3_COMPANIES = new Set([
   'noise',
   'ventuals',
   'hang',
+  'mesh',
+  'limit break',
 ]);
 
 function isParadigmWeb3Company(company: string): boolean {
   const c = company.toLowerCase().trim();
+  // Skip if already covered by a direct ATS feed
+  if (DIRECTLY_COVERED_COMPANIES.has(c)) return false;
+  for (const covered of DIRECTLY_COVERED_COMPANIES) {
+    if (c === covered || c.startsWith(covered + ' ') || covered.startsWith(c + ' ')) return false;
+  }
+  // Include if in our paradigm-only whitelist
   if (PARADIGM_WEB3_COMPANIES.has(c)) return true;
   for (const known of PARADIGM_WEB3_COMPANIES) {
     if (c.startsWith(known) || known.startsWith(c)) return true;
   }
   return false;
+}
+
+/** Normalize a job link: strip UTM params and trailing slash for dedup comparison. */
+function normalizeLink(link: string): string {
+  if (!link) return '';
+  try {
+    const u = new URL(link);
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'ref', 'source'].forEach(p => u.searchParams.delete(p));
+    return u.toString().replace(/\/$/, '').toLowerCase();
+  } catch {
+    return link.split('?')[0].replace(/\/$/, '').toLowerCase();
+  }
 }
 
 function readCache(): any[] {
@@ -93,10 +119,25 @@ function readDescCache(): Record<string, string> {
 function writeDescCache(data: Record<string, string>): void {
   fs.writeFileSync(DESC_PATH, JSON.stringify(data, null, 2) + '\n');
 }
-function upsertJob(cacheData: any[], job: any): 'added' | 'updated' {
-  const idx = cacheData.findIndex((e: any) => e.id === job.id || e.link === job.link);
-  if (idx === -1) { cacheData.unshift(job); return 'added'; }
-  cacheData[idx] = { ...cacheData[idx], ...job, slug: cacheData[idx].slug || job.slug };
+
+function upsertJob(cacheData: any[], job: any): 'added' | 'updated' | 'skipped' {
+  const normNew = normalizeLink(job.link);
+  const idx = cacheData.findIndex((e: any) => {
+    if (e.id === job.id) return true;
+    if (normNew && normalizeLink(e.link) === normNew) return true;
+    return false;
+  });
+  if (idx === -1) {
+    cacheData.unshift(job);
+    return 'added';
+  }
+  // If existing job is from a direct feed (non-Paradigm), don't overwrite it
+  const existing = cacheData[idx];
+  if (existing.source && !existing.source.includes('Paradigm Portfolio')) {
+    // Already covered by a direct feed — skip silently
+    return 'skipped';
+  }
+  cacheData[idx] = { ...existing, ...job, slug: existing.slug || job.slug };
   return 'updated';
 }
 
@@ -147,7 +188,7 @@ function deriveDepartment(title: string): string {
 export async function ingestParadigm(
   passedCache?: any[],
   passedDesc?: Record<string, string>
-): Promise<{ added: number; updated: number; total: number }> {
+): Promise<{ added: number; updated: number; skipped: number; total: number }> {
   console.log('Fetching paradigm.xyz/careers...');
 
   let html = '';
@@ -162,10 +203,9 @@ export async function ingestParadigm(
     html = await res.text();
   } catch (e) {
     console.error('Failed to fetch Paradigm careers page:', e);
-    return { added: 0, updated: 0, total: 0 };
+    return { added: 0, updated: 0, skipped: 0, total: 0 };
   }
 
-  // Parse all <li class="job-row ..."> blocks
   const rowPattern = /<li[^>]*class="job-row[^"]*"[^>]*>([\s\S]*?)<\/li>/g;
   const rows: string[] = [];
   let m: RegExpExecArray | null;
@@ -180,7 +220,11 @@ export async function ingestParadigm(
 
   let addedCount = 0;
   let updatedCount = 0;
+  let skippedCount = 0;
   let filteredCount = 0;
+
+  // Build a set of normalized links already in the cache (for fast dedup)
+  const existingLinks = new Set(cacheData.map((j: any) => normalizeLink(j.link)));
 
   for (const row of rows) {
     const linkMatch = row.match(/href="([^"]+)"/);
@@ -196,7 +240,7 @@ export async function ingestParadigm(
     const company = ariaLabel.slice(0, dashIdx).trim();
     const title = ariaLabel.slice(dashIdx + 3).trim();
 
-    // Filter 1: only web3 companies
+    // Filter 1: only web3 companies not already in direct feeds
     if (!isParadigmWeb3Company(company)) {
       filteredCount++;
       continue;
@@ -208,6 +252,13 @@ export async function ingestParadigm(
       continue;
     }
 
+    // Filter 3: skip if this exact link (normalized) already exists in cache
+    const normLink = normalizeLink(link);
+    if (existingLinks.has(normLink)) {
+      skippedCount++;
+      continue;
+    }
+
     const locationRaw = extractSpanText(row, 'meta-item--location');
     const postedRaw = extractSpanText(row, 'meta-item--posted');
     const salaryRaw = extractSpanText(row, 'meta-item--salary');
@@ -215,9 +266,9 @@ export async function ingestParadigm(
     const location = locationRaw || 'Remote / Global';
     const date = parsePostedDate(postedRaw);
 
-    // Unique slug from ATS link segments
-    const linkId = link
-      .replace(/[?#].*$/, '')
+    // Unique slug from ATS link segments (strip utm first)
+    const cleanLink = link.replace(/[?#].*$/, '');
+    const linkId = cleanLink
       .split('/')
       .filter(Boolean)
       .slice(-2)
@@ -256,11 +307,19 @@ export async function ingestParadigm(
     };
 
     const res = upsertJob(cacheData, jobEntry);
-    if (res === 'added') addedCount++;
-    else updatedCount++;
+    if (res === 'added') {
+      addedCount++;
+      existingLinks.add(normLink);
+    } else if (res === 'updated') {
+      updatedCount++;
+    } else {
+      skippedCount++;
+    }
 
-    descData[slug] = descHtml;
-    descData[getJobContentKey(jobEntry)] = descHtml;
+    if (res !== 'skipped') {
+      descData[slug] = descHtml;
+      descData[getJobContentKey(jobEntry)] = descHtml;
+    }
   }
 
   if (!passedCache) {
@@ -268,18 +327,19 @@ export async function ingestParadigm(
     writeDescCache(descData);
   }
 
-  const web3Total = addedCount + updatedCount;
+  const web3Total = addedCount + updatedCount + skippedCount;
   console.log(`\n========================================`);
   console.log(`Paradigm Ingestion Complete:`);
   console.log(`- Total rows on page: ${rows.length}`);
-  console.log(`- Filtered out (non-web3 / invalid): ${filteredCount}`);
-  console.log(`- Web3 roles processed: ${web3Total}`);
-  console.log(`- Added: ${addedCount}`);
-  console.log(`- Updated: ${updatedCount}`);
+  console.log(`- Filtered out (non-web3 or directly covered): ${filteredCount}`);
+  console.log(`- Web3 roles seen: ${web3Total}`);
+  console.log(`- Added (net new): ${addedCount}`);
+  console.log(`- Updated (Paradigm→Paradigm): ${updatedCount}`);
+  console.log(`- Skipped (already in cache): ${skippedCount}`);
   console.log(`- Total Jobs in Cache: ${cacheData.length}`);
   console.log(`========================================\n`);
 
-  return { added: addedCount, updated: updatedCount, total: web3Total };
+  return { added: addedCount, updated: updatedCount, skipped: skippedCount, total: web3Total };
 }
 
 if (require.main === module) {
