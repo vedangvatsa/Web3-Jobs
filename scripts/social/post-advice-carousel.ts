@@ -176,17 +176,17 @@ async function renderSlideJpeg(
               justifyContent: 'space-between',
               alignItems: 'center',
               width: '100%',
-              fontSize: '22px',
+              fontSize: '32px',
               fontWeight: 'bold',
-              letterSpacing: '2px',
+              letterSpacing: '3px',
             },
             children: [
-              { type: 'span', props: { style: { color: '#64748b' }, children: category } },
-              { type: 'span', props: { style: { color: '#94a3b8' }, children: slideNum } },
+              { type: 'span', props: { style: { color: '#475569', textTransform: 'uppercase' }, children: category } },
+              { type: 'span', props: { style: { color: '#64748b' }, children: slideNum } },
             ],
           },
         },
-        // Middle body: Big Bold Typography & Minimal Text
+        // Middle body: Big Bold High-Contrast Typography
         {
           type: 'div',
           props: {
@@ -197,6 +197,7 @@ async function renderSlideJpeg(
               alignItems: isCta ? 'center' : 'flex-start',
               textAlign: isCta ? 'center' : 'left',
               width: '100%',
+              margin: '32px 0',
             },
             children: [
               {
@@ -204,11 +205,11 @@ async function renderSlideJpeg(
                 props: {
                   style: {
                     display: 'flex',
-                    fontSize: isCta ? '88px' : title.length > 30 ? '76px' : '84px',
+                    fontSize: isCta ? '96px' : title.length > 40 ? '80px' : title.length > 25 ? '88px' : '96px',
                     fontWeight: 'bold',
-                    color: '#0a0f1d',
-                    lineHeight: '1.14',
-                    letterSpacing: '-2.5px',
+                    color: '#090d16',
+                    lineHeight: '1.12',
+                    letterSpacing: '-3px',
                   },
                   children: title,
                 },
@@ -218,12 +219,12 @@ async function renderSlideJpeg(
                 props: {
                   style: {
                     display: 'flex',
-                    fontSize: '40px',
-                    fontWeight: 'normal',
-                    color: '#475569',
-                    lineHeight: '1.45',
-                    marginTop: '36px',
-                    maxWidth: '900px',
+                    fontSize: '48px',
+                    fontWeight: '500',
+                    color: '#334155',
+                    lineHeight: '1.4',
+                    marginTop: '44px',
+                    maxWidth: '920px',
                   },
                   children: body,
                 },
@@ -231,7 +232,7 @@ async function renderSlideJpeg(
             ],
           },
         },
-        // Bottom row: Minimalist Domain Branding
+        // Bottom row: Minimalist Branded Footer
         {
           type: 'div',
           props: {
@@ -240,14 +241,14 @@ async function renderSlideJpeg(
               justifyContent: 'space-between',
               alignItems: 'center',
               width: '100%',
-              fontSize: '22px',
+              fontSize: '32px',
               fontWeight: 'bold',
             },
             children: [
               {
                 type: 'span',
                 props: {
-                  style: { color: '#0a0f1d', letterSpacing: '-0.5px' },
+                  style: { color: '#090d16', letterSpacing: '-0.5px' },
                   children: isCta ? 'Subscribed by 60k+ Web3 builders' : 'hashtagweb3.com',
                 },
               },
