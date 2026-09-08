@@ -816,7 +816,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {/* Featured Image. SVG heroes (data charts) must not be cropped:
                   object-cover would slice their edges, so they render
                   contained on a muted backdrop instead. */}
-              {article.image && (
+              {/* Featured Image - render if explicitly defined in frontmatter */}
+              {article.image && !article.image.includes('picsum.photos') && !article.image.includes('/api/og?') && (
                 <div className="relative w-full aspect-[16/9] sm:aspect-[2/1] max-h-[380px] overflow-hidden rounded-xl border border-border/70 shadow-none mb-10 bg-muted/30">
                   <Image
                     src={article.image}
