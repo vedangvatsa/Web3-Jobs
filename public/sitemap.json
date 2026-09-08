@@ -2,12 +2,12 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-08T12:43:49.510Z",
+  "generatedAt": "2026-09-08T12:51:34.400Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
   },
-  "count": 4210,
+  "count": 4211,
   "urls": [
     {
       "url": "https://hashtagweb3.com",
@@ -22847,6 +22847,12 @@
     },
     {
       "url": "https://hashtagweb3.com/the-role-of-web3-technical-writers-in-blockchain-projects",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
+      "url": "https://hashtagweb3.com/the-shape-of-ethereum-topological-anomaly-detection",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
