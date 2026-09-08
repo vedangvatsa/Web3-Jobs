@@ -33,7 +33,7 @@ const nextConfig = {
         permanent: true,
       },
       {
-        source: '/jobs/:slug((?!feed\\.xml$|feed-aggregator\\.xml$|feed\\.json$|adzuna\\.xml$|llms\\.txt$).*)',
+        source: '/jobs/:slug((?!feed\\.xml|feed-aggregator\\.xml|feed\\.json|adzuna\\.xml|llms\\.txt).*)',
         destination: '/:slug',
         permanent: true,
       },
