@@ -164,6 +164,9 @@ export function formatEventDate(startDate: string, endDate?: string): string {
   const endYear = end.getFullYear();
 
   if (startYear === endYear && startMonth === endMonth) {
+    if (startDay === endDay) {
+      return `${startMonth} ${startDay}, ${startYear}`;
+    }
     return `${startMonth} ${startDay} - ${endDay}, ${startYear}`;
   }
   if (startYear === endYear) {
