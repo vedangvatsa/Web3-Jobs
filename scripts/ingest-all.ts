@@ -44,8 +44,23 @@ function readDescCache(): Record<string, string> {
 function writeDescCache(data: Record<string, string>): void {
   fs.writeFileSync(DESC_PATH, JSON.stringify(data, null, 2));
 }
+function normalizeLink(link: string): string {
+  if (!link) return '';
+  try {
+    const u = new URL(link);
+    ['utm_source', 'utm_medium', 'utm_campaign', 'utm_content', 'utm_term', 'ref', 'source'].forEach(p => u.searchParams.delete(p));
+    return u.toString().replace(/\/$/, '').toLowerCase();
+  } catch {
+    return link.split('?')[0].replace(/\/$/, '').toLowerCase();
+  }
+}
 function upsertJob(cacheData: any[], job: any): 'added' | 'updated' {
-  const idx = cacheData.findIndex((e: any) => e.id === job.id || e.link === job.link);
+  const normNew = normalizeLink(job.link);
+  const idx = cacheData.findIndex((e: any) => {
+    if (e.id === job.id) return true;
+    if (normNew && normalizeLink(e.link) === normNew) return true;
+    return false;
+  });
   if (idx === -1) { cacheData.unshift(job); return 'added'; }
   cacheData[idx] = { ...cacheData[idx], ...job, slug: cacheData[idx].slug || job.slug };
   return 'updated';
