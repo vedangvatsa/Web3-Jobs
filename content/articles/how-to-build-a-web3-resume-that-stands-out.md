@@ -5,7 +5,7 @@ data-ai-hint: web3 resume crypto portfolio engineering career
 description: An empirical thesis and comprehensive guide on crafting a high-signal Web3 resume, structuring on-chain proof of work, optimizing GitHub repositories, and navigating automated ATS parsers.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: how-to-build-a-web3-resume-that-stands-out
 ---
 Candidate screening in decentralized technology has fundamentally redefined standard corporate recruitment practices. In conventional enterprise technology, hiring decisions rely on institutional pedigrees: computer science degrees from accredited universities, previous tenures at recognized Fortune 500 corporations, and executive reference calls. In Web3 engineering, hiring managers operate in a permissionless, open-source ecosystem where output is verifiable on public distributed ledgers.

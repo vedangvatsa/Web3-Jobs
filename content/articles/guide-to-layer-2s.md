@@ -5,7 +5,7 @@ data-ai-hint: ethereum layer 2 scaling rollups guide architecture
 description: A comprehensive technical thesis on Ethereum Layer 2 scaling architectures, exploring optimistic rollups, zero-knowledge validity proofs, EIP-4844 proto-danksharding blob mechanics, and protocol decentralization stages.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: guide-to-layer-2s
 ---
 The scalability roadmap of the [Ethereum Foundation](https://ethereum.org) represents one of the most consequential architectural transitions in modern distributed computing. Rather than expanding base-layer block sizes to achieve higher transaction throughput, which would dramatically increase node hardware requirements and centralize validator consensus, the Ethereum research community committed to a rollup-centric scaling paradigm.

@@ -6,7 +6,7 @@ description: >-
   A deep technical and financial guide to spot and futures crypto ETFs, covering institutional custody architecture, cash creation mechanics, and market impacts.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 The regulatory approval and launch of spot [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) Exchange-Traded Funds (ETFs) in the United States represented a monumental structural shift in global capital markets. For the first time in financial history, sovereign wealth funds, corporate treasuries, pension funds, registered investment advisors (RIAs), and retail investors acquired a standardized mechanism to gain direct price exposure to spot digital assets through traditional brokerage accounts without managing private keys or navigating crypto exchanges.

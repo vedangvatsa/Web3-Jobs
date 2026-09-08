@@ -5,7 +5,7 @@ data-ai-hint: "crypto chart graph btc halving emission curve"
 description: "An architectural and macroeconomic guide to cryptocurrency halving mechanics, Nakamoto consensus emission schedules, stock-to-flow models, and miner economics."
 category: "Educational"
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 ![Cryptocurrency Halving Mechanics](/images/articles/charts/crypto-halving-supply-curve.svg)

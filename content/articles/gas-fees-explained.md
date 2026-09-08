@@ -6,7 +6,7 @@ description: >-
   What gas measures, how EIP-1559 pricing works, why fees spike, and how users and developers pay less.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls. [Ethereum's own gas overview](https://ethereum.org/gas/) and its [technical gas documentation](https://ethereum.org/developers/docs/gas/) are the canonical starting points, and this guide builds on them with current numbers.
 

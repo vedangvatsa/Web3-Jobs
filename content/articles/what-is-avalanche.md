@@ -5,7 +5,7 @@ data-ai-hint: avalanche avax snowball consensus subnets c-chain p-chain
 description: An empirical technical thesis on Avalanche architecture, exploring metastable Snowball consensus, the Primary Network tri-chain design, custom sovereign Subnets, and Avalanche Warp Messaging.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: what-is-avalanche
 ---
 The evolution of distributed consensus protocols is historically categorized into two distinct eras: classical Byzantine Fault Tolerant (BFT) protocols and Nakamoto consensus. Classical BFT consensus (such as PBFT, Raft, or CometBFT) provides instant, deterministic finality, but requires quadratic all-to-all communication complexity ($O(N^2)$), fundamentally capping active validator sets to a few hundred nodes before network latency degrades throughput. 

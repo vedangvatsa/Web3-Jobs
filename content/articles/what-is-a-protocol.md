@@ -8,7 +8,7 @@ description: >-
   and protocol engineering careers.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 In traditional computer networking, a **protocol** defines a standardized set of rules and data formatting conventions governing how two or more computing systems transmit information across a network. The modern internet relies on open foundational protocols: HTTP (Hypertext Transfer Protocol) dictates how web browsers request and render pages, SMTP (Simple Mail Transfer Protocol) governs email transmission, and TCP/IP (Transmission Control Protocol/Internet Protocol) manages packet routing across global networks.

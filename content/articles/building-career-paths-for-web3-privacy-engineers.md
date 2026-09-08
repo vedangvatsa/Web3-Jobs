@@ -4,7 +4,7 @@ image: /images/articles/charts/privacy-engineer-skill-matrix.svg
 description: A comprehensive career roadmap for Web3 privacy engineers, detailing zero-knowledge circuit development, transport-layer anonymity, programmable compliance, compensation bands, and portfolio architectures.
 category: Career Guides
 publishedDate: "2026-03-11"
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 tags:
   - Privacy Engineering
   - Web3 Careers

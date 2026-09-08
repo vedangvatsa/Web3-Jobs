@@ -5,7 +5,7 @@ data-ai-hint: layer 3 blockchain appchains recursive rollups
 description: An empirical technical thesis on Layer 3 blockchain architectures, examining fractal scaling, recursive zero-knowledge proofs, application-specific rollups, and multi-tier settlement hierarchies.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: what-is-a-layer-3-in-blockchain
 ---
 The expansion of decentralized applications has revealed a core constraint of general-purpose Layer 2 networks: shared execution contention. While Layer 2 rollups like [Arbitrum One](https://arbitrum.io) and [Base](https://base.org) reduced transaction fees by an order of magnitude compared to [Ethereum Foundation](https://ethereum.org) mainnet, decentralized applications sharing an L2 still compete for the same blockspace, gas limits, and virtual machine parameters.

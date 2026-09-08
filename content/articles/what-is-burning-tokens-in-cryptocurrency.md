@@ -6,7 +6,7 @@ author: Alex Rivera
 tags: Tokenomics, Smart Contracts, DeFi, Blockchain Security, Protocol Governance
 slug: what-is-burning-tokens-in-cryptocurrency
 publishedDate: "2026-09-07"
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 In tokenomics and decentralized protocol design, token burning serves as a foundational economic mechanism for supply control, value accrual, and cryptographic proof of resource expenditure. By permanently removing digital assets from circulating supply, token burns attempt to mimic equity buyback programs, offset inflationary emissions, enforce deflationary monetary dynamics, or implement consensus mechanisms like Proof of Burn. 

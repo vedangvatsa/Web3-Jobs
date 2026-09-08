@@ -6,7 +6,7 @@ description: >-
   An in-depth technical and financial analysis of crypto launchpads, Initial DEX Offerings (IDOs), tiered staking mechanisms, smart contract vesting vaults, and project due diligence.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 
 Capital formation in early-stage Web3 startups has evolved through distinct technological epochs. In the 2017 boom, projects raised capital through permissionless Initial Coin Offerings (ICOs), where investors transferred ETH directly to unverified smart contracts without regulatory compliance, founder identity checks, or token lockup guarantees. The lack of structured due diligence resulted in widespread security exploits, exit scams, and severe regulatory crackdowns.

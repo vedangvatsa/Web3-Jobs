@@ -62,6 +62,11 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'wincent-market-maker': 'wincent-market-maker',
   'grayscale': 'grayscale-investments',
   'grayscale-investments': 'grayscale-investments',
+  'offchain-labs': 'arbitrum',
+  'offchainlabs': 'arbitrum',
+  'arbitrum': 'arbitrum',
+  'arbitrum-offchain-labs': 'arbitrum',
+  'arbitrum-opco': 'arbitrum',
 };
 
 const LOGO_PATHS = (slug: string): string[] => {
@@ -125,6 +130,9 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
 export function getCompanyFaviconUrlBySlug(companySlug: string): string {
   if (companySlug === 'franklin-templeton' || companySlug === 'franklintempleton') {
     return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.franklintempleton.com&size=128`;
+  }
+  if (['arbitrum', 'offchain-labs', 'offchainlabs', 'arbitrum-offchain-labs'].includes(companySlug)) {
+    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://arbitrum.io&size=128`;
   }
   // Convert slug back to a plausible domain (slug without hyphens + .com)
   const domain = companySlug.replace(/-/g, '') + '.com';

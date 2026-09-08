@@ -5,7 +5,7 @@ data-ai-hint: defi analyst decentralized finance on chain data research
 description: An empirical thesis and career guide on becoming a decentralized finance analyst, exploring quantitative on-chain metrics, economic risk modeling, protocol solvency, and market compensation bands.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: how-to-become-a-defi-analyst
 ---
 Evaluating decentralized financial protocols requires an analytical paradigm distinct from traditional equity research or credit analysis. In corporate finance, analysts rely on quarterly financial statements audited by accounting firms, management guidance conferences, and opaque regulatory filings. In decentralized finance (DeFi), every balance update, liquidity deposit, liquidation event, and fee distribution is publicly recorded on an immutable ledger in real time.

@@ -4,7 +4,7 @@ description: A comprehensive technical guide to Liquidity Bootstrapping Pools, d
 category: Educational
 data-ai-hint: liquidity bootstrapping pool
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 image: /images/articles/charts/liquidity-bootstrapping-pool-decay.svg
 ---
 Decentralized token launches have historically struggled with adverse selection, capital constraints, and predatory bot activity. Early token distribution models, such as Initial Coin Offerings (ICOs) and Initial DEX Offerings (IDOs) documented in [Ethereum Developer Documentation](https://ethereum.org/en/developers/docs/) and early bonding curve protocols like [Bancor Protocol](https://web.archive.org/web/20170624021658/https://bancor.network/static/bancor_protocol_whitepaper_en.pdf) on constant product automated market makers, suffered from structural flaws. When a project launched a token on a standard fifty-fifty automated market maker, the first blocks of trading were routinely captured by automated sniper bots, causing catastrophic price spikes followed by retail dumping.

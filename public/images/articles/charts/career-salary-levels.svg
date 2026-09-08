@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 292" role="img" aria-labelledby="t12 d12">
+<title id="t12">Web3 engineer pay points by level, USD thousands</title>
+<desc id="d12">Bars: junior 110, mid 170, senior 250, staff 320, principal 375 thousand dollars per year.</desc>
+<style>
+text{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;font-size:13px;fill:#334155}
+.num{font-variant-numeric:tabular-nums;font-weight:600}
+.bar{fill:#0ea5e9}.card{fill:#ffffff;stroke:#e2e8f0}.grid{stroke:#eef2f7}
+@media (prefers-color-scheme:dark){text{fill:#cbd5e1}.bar{fill:#38bdf8}.grid{stroke:#1e293b}.card{fill:#0f172a;stroke:#1e293b}}
+</style>
+<rect class="card" x="1" y="1" width="638" height="290" rx="12"/>
+<text x="20" y="32" font-weight="700" font-size="15">Web3 engineer pay points by level (USD thousands / year)</text>
+<text x="20" y="70">Junior</text><rect class="bar" x="200" y="56" width="121" height="18" rx="4"/><text class="num" x="329" y="70">110</text>
+<text x="20" y="104">Mid</text><rect class="bar" x="200" y="90" width="187" height="18" rx="4"/><text class="num" x="395" y="104">170</text>
+<text x="20" y="138">Senior</text><rect class="bar" x="200" y="124" width="275" height="18" rx="4"/><text class="num" x="483" y="138">250</text>
+<text x="20" y="172">Staff</text><rect class="bar" x="200" y="158" width="352" height="18" rx="4"/><text class="num" x="560" y="172">320</text>
+<text x="20" y="206">Principal</text><rect class="bar" x="200" y="192" width="413" height="18" rx="4"/><text class="num" x="620" y="206">375</text>
+<g class="grid"><line x1="200" y1="42" x2="200" y2="216"/><line x1="300" y1="42" x2="300" y2="216"/><line x1="400" y1="42" x2="400" y2="216"/><line x1="500" y1="42" x2="500" y2="216"/><line x1="600" y1="42" x2="600" y2="216"/></g>
+<text x="200" y="234">0</text><text x="292" y="234">100</text><text x="392" y="234">200</text><text x="492" y="234">300</text><text x="592" y="234">400</text>
+<text x="20" y="256" font-size="12">Midpoints of published Solidity bands; senior security and ZK roles can add 20 to 50 percent more.</text>
+<text x="20" y="274" font-size="12">Data: salary and level accounts cited in this guide.</text>
+</svg>

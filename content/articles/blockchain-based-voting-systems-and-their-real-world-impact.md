@@ -5,7 +5,7 @@ data-ai-hint: blockchain voting systems governance quadratic maci snapshot
 description: An empirical technical thesis on blockchain-based voting systems, exploring token-weighted governance, quadratic preference aggregation, gasless off-chain signaling, and zero-knowledge anti-collusion infrastructure.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 slug: blockchain-based-voting-systems-and-their-real-world-impact
 ---
 Voting represents the foundational mechanism for collective decision-making, power delegation, and capital allocation across human institutions, from sovereign nation-state democracies to publicly traded corporate boards and decentralized autonomous organizations. 

@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: finding mentor
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-07"
+lastUpdated: "2026-09-08"
 ---
 ## How to Find a Mentor at a New Company
 
