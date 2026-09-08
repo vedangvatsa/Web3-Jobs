@@ -50,7 +50,7 @@ interface RateLimitBucket {
   resetTime: number;
 }
 
-const RATE_LIMIT_MAX = 120;
+const RATE_LIMIT_MAX = 300;
 const RATE_LIMIT_WINDOW_MS = 60 * 1000;
 const ipBuckets = new Map<string, RateLimitBucket>();
 
@@ -128,39 +128,42 @@ export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
 
-  const { limit, remaining, reset, isRateLimited } = getRateLimitInfo(request);
+  // Only apply rate limiting to /api/ routes
+  if (pathname.startsWith('/api')) {
+    const { limit, remaining, reset, isRateLimited } = getRateLimitInfo(request);
 
-  if (isRateLimited) {
-    return NextResponse.json(
-      {
-        error: {
-          code: 'RATE_LIMIT_EXCEEDED',
-          message: 'Too many requests. Please throttle your requests and respect rate limits.',
-          retryAfter: reset,
-          docUrl: 'https://hashtagweb3.com/developers',
+    if (isRateLimited) {
+      return NextResponse.json(
+        {
+          error: {
+            code: 'RATE_LIMIT_EXCEEDED',
+            message: 'Too many requests. Please throttle your requests and respect rate limits.',
+            retryAfter: reset,
+            docUrl: 'https://hashtagweb3.com/developers',
+          },
         },
-      },
-      {
-        status: 429,
-        headers: {
-          'Retry-After': String(reset),
-          'RateLimit-Limit': String(limit),
-          'RateLimit-Remaining': '0',
-          'RateLimit-Reset': String(reset),
-          'RateLimit-Policy': `${limit};w=60`,
-          'RateLimit': `limit=${limit}, remaining=0, reset=${reset}`,
-          'X-RateLimit-Limit': String(limit),
-          'X-RateLimit-Remaining': '0',
-          'X-RateLimit-Reset': String(reset),
-          'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload',
-          'X-Content-Type-Options': 'nosniff',
-          'Referrer-Policy': 'strict-origin-when-cross-origin',
-          'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
-          'Access-Control-Allow-Origin': '*',
-          'Access-Control-Expose-Headers': 'RateLimit, RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset',
-        },
-      }
-    );
+        {
+          status: 429,
+          headers: {
+            'Retry-After': String(reset),
+            'RateLimit-Limit': String(limit),
+            'RateLimit-Remaining': '0',
+            'RateLimit-Reset': String(reset),
+            'RateLimit-Policy': `${limit};w=60`,
+            'RateLimit': `limit=${limit}, remaining=0, reset=${reset}`,
+            'X-RateLimit-Limit': String(limit),
+            'X-RateLimit-Remaining': '0',
+            'X-RateLimit-Reset': String(reset),
+            'Strict-Transport-Security': 'max-age=31536000; includeSubDomains; preload',
+            'X-Content-Type-Options': 'nosniff',
+            'Referrer-Policy': 'strict-origin-when-cross-origin',
+            'Permissions-Policy': 'camera=(), microphone=(), geolocation=()',
+            'Access-Control-Allow-Origin': '*',
+            'Access-Control-Expose-Headers': 'RateLimit, RateLimit-Limit, RateLimit-Remaining, RateLimit-Reset, RateLimit-Policy, Retry-After, X-RateLimit-Limit, X-RateLimit-Remaining, X-RateLimit-Reset',
+          },
+        }
+      );
+    }
   }
 
   // 1. Social UTM suffix shortcuts
