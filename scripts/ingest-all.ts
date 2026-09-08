@@ -4,6 +4,7 @@ import https from 'https';
 import { execSync, execFileSync } from 'child_process';
 import { isConcreteJobOpening, cleanCompanyName } from '../src/lib/job-filters';
 import { getJobContentKey } from '../src/lib/job-slugs';
+import { ingestYZiLabs } from './ingest-yzilabs';
 
 // ---------------------------------------------------------------------------
 // 1. Shared types & constants
@@ -607,6 +608,10 @@ async function main() {
   await ingestMarketnode(cacheData, descData);
   ingestLongHash(cacheData);
   ingestXT(cacheData);
+
+  // YZi Labs Portfolio (Binance Labs alumni incubator)
+  console.log('\n--- YZi Labs Portfolio ---');
+  await ingestYZiLabs(cacheData, descData);
 
   // Static job arrays
   console.log('\n--- Static job arrays ---');
