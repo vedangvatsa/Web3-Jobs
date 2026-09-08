@@ -1169,4 +1169,180 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
+
+  jbw: {
+    summaryLead:
+      "Japan Blockchain Week is the country's most comprehensive annual Web3 celebration, spanning multiple cities from Tokyo to Kyoto. Originating with Non Fungible Tokyo in 2018 and now bringing together thousands of builders, gaming conglomerates, exchanges, and community projects, JBW connects the global crypto industry directly with Japan's unique regulatory frameworks, corporate IP owners, and passionate builder communities.",
+    expectedAttendance: "15,000+ participants across nationwide events",
+    sections: [
+      {
+        heading: "National reach and multi-city structure",
+        content: [
+          "Unlike standard single-venue conferences, Japan Blockchain Week spans a fortnight across Tokyo and Kyoto, anchored by the Japan Blockchain Week Summit, WebX, and dozens of decentralized community gatherings. Participants can experience high-level regulatory forums in Tokyo's financial core followed by cultural and builder meetups in historic Kyoto.",
+          "The schedule accommodates international visitors with simultaneous English interpretation on main stages and dedicated international networking zones.",
+        ],
+      },
+      {
+        heading: "IP, entertainment, and gaming conglomerates",
+        content: [
+          "Japan holds some of the world's most recognizable consumer entertainment IP. JBW serves as the launchpad where Japanese gaming giants, anime studios, and mainstream consumer brands present their Web3 strategies, from on-chain gaming economies to fan loyalty tokens.",
+          "Meetings with Japanese corporate partners reward early scheduling and formal introductions; bring translated executive summaries and printed business cards.",
+        ],
+      },
+      {
+        heading: "Japanese regulatory clarity & institutional rails",
+        content: [
+          "Japan's Financial Services Agency (FSA) established one of the world's most rigorous yet clear regulatory frameworks for digital assets and stablecoins. JBW provides direct access to licensed domestic exchanges, trust banks, and regulatory compliance specialists navigating the Japanese market.",
+        ],
+      },
+    ],
+  },
+
+  abw: {
+    summaryLead:
+      "Australian Blockchain Week is the official annual national summit organized by industry body Blockchain Australia, gathering policymakers, banking executives, institutional custodians, and top Web3 founders across Sydney and Melbourne. As Australia develops its digital asset licensing regime and CBDC pilot projects, ABW serves as the primary stage where policy meets on-chain innovation.",
+    expectedAttendance: "3,500+ institutional attendees and builders",
+    sections: [
+      {
+        heading: "Regulatory momentum and the Treasury roadmap",
+        content: [
+          "The Australian Treasury and ASIC are actively developing tailored digital asset platform licensing regimes. ABW convenes federal regulators, senators, and industry participants to debate legislation, custody requirements, and consumer protections directly.",
+          "For international projects seeking APAC distribution, Australia offers deep domestic institutional superannuation capital and a highly crypto-literate retail population.",
+        ],
+      },
+      {
+        heading: "Institutional digital assets and banking integration",
+        content: [
+          "Australian banks and payments networks are pioneers in tokenized deposit pilots, real-world asset trials, and stablecoin settlements. Panels highlight bank-grade security, enterprise compliance, and institutional DeFi integration.",
+        ],
+      },
+    ],
+  },
+
+  ethwarsaw: {
+    summaryLead:
+      "ETHWarsaw is Eastern Europe's premier community-organized Ethereum conference and hackathon, forming the centerpiece of Warsaw Blockchain Week. Poland has earned a global reputation as a premier software engineering powerhouse, and ETHWarsaw channels that dense technical capability into protocol engineering, zero-knowledge scalability, and decentralized finance.",
+    expectedAttendance: "1,500+ engineers, cryptographers, and protocol founders",
+    sections: [
+      {
+        heading: "Poland's engineering excellence",
+        content: [
+          "Poland consistently ranks among the top countries globally for competitive programming and mathematical talent. Many core developers and protocol engineers at major L1s, L2s, and DeFi protocols are based in Warsaw, Krakow, and Wroclaw.",
+          "ETHWarsaw is deliberately builder-first: code audits, cryptographic primitives, and smart contract architecture take precedence over promotional marketing talks.",
+        ],
+      },
+      {
+        heading: "The Warsaw hackathon and builder culture",
+        content: [
+          "A major highlight is the 48-hour competitive hackathon, where hundreds of developers form teams to deploy innovative dApps across privacy, payments, and decentralized infrastructure. Protocol mentors and VC partners review submissions in real time.",
+          "Warsaw's central European location, affordable accommodations, and vibrant tech scene make it exceptionally accessible for international attendees.",
+        ],
+      },
+    ],
+  },
+
+  ethbelgrade: {
+    summaryLead:
+      "ETHBelgrade serves as the flagship Ethereum gathering in the Balkan region, held annually at the iconic Sava Congress Center as the anchor of Belgrade Blockchain Week. Belgrade's burgeoning cryptographic developer scene and low living costs have turned the city into an emerging European Web3 powerhouse, with ETHBelgrade emphasizing technical depth, security audits, and decentralized governance.",
+    expectedAttendance: "1,200+ attendees and builders",
+    sections: [
+      {
+        heading: "The Sava Congress Center architecture and venue",
+        content: [
+          "The Sava Congress Center in New Belgrade is a brutalist architectural marvel recently modernized to state-of-the-art conference standards. With expansive auditorium halls and open networking atriums, it provides an ideal space for large technical gatherings.",
+          "Located just across the river from Belgrade's historic Stari Grad, attendees can commute in minutes by taxi or public transit.",
+        ],
+      },
+      {
+        heading: "Balkan engineering hub and developer density",
+        content: [
+          "Serbia has cultivated a prominent Web3 talent pool, with multiple unicorn engineering teams and security audit firms rooted in Belgrade. ETHBelgrade showcases local and regional innovations across DeFi primitives, zero-knowledge scaling, and Web3 security.",
+        ],
+      },
+    ],
+  },
+
+  ethlisbon: {
+    summaryLead:
+      "ETHLisbon is Europe's iconic builder-first hackathon and conference, hosted at AIhub by Unicorn Factory in Lisbon. Since 2021, Lisbon has transformed into one of the crypto capital hubs of Europe, and ETHLisbon channels that raw builder energy into intense 48-hour hacking sprints focused on smart contract design, EVM innovations, and user-centric dApps.",
+    expectedAttendance: "2,000+ builders, founders, and hackers",
+    sections: [
+      {
+        heading: "Lisbon's Web3 capital status",
+        content: [
+          "Lisbon has become a primary European home for nomadic crypto founders, DAO contributors, and protocol teams due to its favorable climate, vibrant expat builder community, and collaborative startup culture.",
+          "ETHLisbon is renowned for its unconference format and high density of technical builders working directly alongside leading protocol mentors.",
+        ],
+      },
+      {
+        heading: "The AIhub hackathon and mentorship",
+        content: [
+          "Held at AIhub by Unicorn Factory, the hackathon floor runs continuously over the weekend with round-the-clock mentorship, technical workshops, and direct protocol bounties rewarding novel on-chain solutions.",
+        ],
+      },
+    ],
+  },
+
+  ethseoul: {
+    summaryLead:
+      "ETHSeoul is South Korea's premier Ethereum developer hackathon and technical conference, bringing global protocol foundations directly into contact with the country's world-renowned developer community. With Korea boasting immense retail adoption and exceptional developer talent, ETHSeoul focuses on EVM scalability, consumer applications, and high-performance infrastructure.",
+    expectedAttendance: "2,500+ builders and developers",
+    sections: [
+      {
+        heading: "Bridging global protocols and Korean builders",
+        content: [
+          "Korean developers are widely recognized for pushing the limits of gaming, consumer UX, and mobile infrastructure. ETHSeoul offers international protocol teams an unparalleled channel to recruit top engineering talent and launch regional hackathon bounties.",
+          "Simultaneous translation and local Korean community liaisons ensure international and local teams collaborate smoothly during the 48-hour build cycle.",
+        ],
+      },
+    ],
+  },
+
+  ethmilan: {
+    summaryLead:
+      "ETHMilan is Italy's premier annual Ethereum and Web3 conference, blending high-level cryptographic research with Italy's world-class design, luxury, and fintech traditions. Held in the financial heart of Milan, the conference attracts European protocol designers, enterprise leaders, and indie developers exploring decentralized finance, luxury provenance, and digital identity.",
+    expectedAttendance: "1,500+ European builders, designers, and investors",
+    sections: [
+      {
+        heading: "Design meets decentralization in Milan",
+        content: [
+          "Milan provides a distinct cultural backdrop where user experience, industrial design, and cryptographic systems intersect. Sessions explore high-end consumer luxury provenance on Ethereum, digital fashion, and innovative UI/UX patterns.",
+        ],
+      },
+      {
+        heading: "Italian regulatory context and MiCA transition",
+        content: [
+          "With the rollout of MiCA across the European Union, ETHMilan gathers Italian financial institutions, compliance officers, and fintech startups adapting to unified European digital asset regulations.",
+        ],
+      },
+    ],
+  },
+
+  ethbucharest: {
+    summaryLead:
+      "ETHBucharest is Romania's annual Ethereum conference and hackathon, tapping into Romania's deep software development heritage and top-tier computer science academies. The event gathers developers, security researchers, and Web3 enthusiasts from across Central and Eastern Europe to collaborate on layer-2 scaling, open-source privacy tooling, and EVM contract security.",
+    expectedAttendance: "1,000+ Eastern European developers and researchers",
+    sections: [
+      {
+        heading: "Romania's dense developer pipeline",
+        content: [
+          "Romania produces exceptional mathematical and software engineering talent, with Bucharest serving as a regional tech capital. ETHBucharest focuses strictly on technical curriculum, open-source grants, and builder hackathons.",
+        ],
+      },
+    ],
+  },
+
+  ethkl: {
+    summaryLead:
+      "ETHKL (Ethereum Kuala Lumpur) is Malaysia's flagship community-led Ethereum conference and hackathon, establishing a vital developer hub in Southeast Asia. Supported by the Ethereum Foundation and local builder collectives, ETHKL unites regional engineers, students, and founders for technical workshops, zero-knowledge masterclasses, and decentralized project showcases.",
+    expectedAttendance: "1,000+ Southeast Asian developers and students",
+    sections: [
+      {
+        heading: "Southeast Asia's emerging developer hub",
+        content: [
+          "Malaysia is rapidly emerging as a crypto-forward nation in Southeast Asia with active university blockchain chapters and progressive digital economy initiatives. ETHKL provides a welcoming entry point for regional talent into the global Ethereum ecosystem.",
+        ],
+      },
+    ],
+  },
 };
