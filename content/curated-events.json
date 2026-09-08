@@ -1009,7 +1009,7 @@
   },
   {
     "id": "premier-agenticpay",
-    "slug": "agentic",
+    "slug": "apo",
     "name": "Agentic Payments Onchain 2026",
     "description": "A working session on agentic payments: how autonomous AI agents transact, settle, and hold balances on-chain, during Korea Blockchain Week.",
     "startDate": "2026-09-28T09:00:00.000Z",
