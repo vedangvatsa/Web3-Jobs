@@ -124,14 +124,14 @@ export function EventHeroImage({ src, name }: { src?: string | null; name: strin
 
   if (!src || hasError) {
     return (
-      <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden border">
+      <div className="w-full aspect-video rounded-2xl overflow-hidden border">
         <EventCoverFallback name={name} />
       </div>
     );
   }
 
   return (
-    <div className="w-full h-64 sm:h-80 md:h-96 rounded-2xl overflow-hidden bg-muted border">
+    <div className="w-full aspect-video rounded-2xl overflow-hidden bg-muted border">
       <img
         src={src}
         alt={name}

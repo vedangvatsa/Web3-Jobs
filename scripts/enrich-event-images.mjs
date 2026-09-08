@@ -2,6 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import * as cheerio from 'cheerio';
 import { fileURLToPath } from 'url';
+import { downloadCover, isLumaDefaultPlaceholder, enrichLocalCovers } from './lib/event-image-utils.mjs';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
@@ -23,7 +24,7 @@ function isGenericOrBroken(img) {
   if (img.startsWith('/Users/')) return true;
   if (img.includes('placeholder')) return true;
   // Luma's "add a cover photo" default photo is not real event art
-  if (/images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img)) return true;
+  if (isLumaDefaultPlaceholder(img)) return true;
   return false;
 }
 
@@ -225,6 +226,8 @@ async function processEventsFile(filePath, label) {
             console.log(`    From: ${url}`);
             console.log(`    Found: ${candidateImage}`);
             event.coverImage = candidateImage;
+            const local = await downloadCover(event, publicEventsDir, console.log);
+            if (local && local !== 'rate_limited') event.coverImage = local;
             updatedCount++;
             return;
           }
@@ -245,6 +248,19 @@ async function processEventsFile(filePath, label) {
 async function main() {
   await processEventsFile(curatedPath, 'Curated Events');
   await processEventsFile(cachePath, 'Cached Events');
+
+  // Final pass: self-host every remote cover (high-res Luma crop) to public/events
+  console.log('\n── Localizing remaining remote covers ──');
+  for (const [filePath, label] of [[curatedPath, 'Curated Events'], [cachePath, 'Cached Events']]) {
+    const events = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    const { okCount, rateLimited, failed } = await enrichLocalCovers(events, {
+      eventsDir: publicEventsDir,
+      log: console.log,
+    });
+    console.log(`${label}: localized ${okCount}, deferred ${rateLimited}, failed ${failed}`);
+    fs.writeFileSync(filePath, JSON.stringify(events, null, 2));
+  }
+
   console.log('\nAll event image enrichment complete!');
 }
 
