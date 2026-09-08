@@ -27,6 +27,31 @@ function isQualityEvent(e: Web3Event): boolean {
   return WEB3_VOCAB.test(text);
 }
 
+function normalizeEventTitle(name: string): string {
+  return name
+    .toLowerCase()
+    .replace(/[’'"]/g, '')
+    .replace(/202[5-9]/g, '')
+    .replace(/\b2[5-9]\b/g, '')
+    .replace(/\b(conference|summit|expo|forum|festival|week|hackathon|meetup|house|edition)\b/gi, '')
+    .replace(/[^a-z0-9]/g, '')
+    .trim();
+}
+
+function normalizeEventDomainUrl(url?: string): string {
+  if (!url) return '';
+  try {
+    const u = new URL(url);
+    const domain = u.hostname.replace(/^www\./, '').toLowerCase();
+    if (domain.includes('lu.ma') || domain.includes('twitter.com') || domain.includes('x.com') || domain.includes('hashtagweb3.com')) {
+      return '';
+    }
+    return (domain + u.pathname).replace(/\/$/, '');
+  } catch {
+    return '';
+  }
+}
+
 export async function getEvents(): Promise<Web3Event[]> {
   try {
     const cwd = process.cwd();
@@ -52,11 +77,12 @@ export async function getEvents(): Promise<Web3Event[]> {
       }
     }
 
-    // Combine all events
+    // Combine all events - curated premier takes precedence
     const rawAll = [...curatedEvents, ...cachedEvents];
 
     // Clean & normalize
-    const seen = new Set<string>();
+    const seenTitles = new Set<string>();
+    const seenUrls = new Set<string>();
     const cleaned: Web3Event[] = [];
 
     for (const e of rawAll) {
@@ -99,13 +125,24 @@ export async function getEvents(): Promise<Web3Event[]> {
         cleanUrl = 'https://blockworks.co/events';
       }
 
-      // Normalization key for deduplication
-      const dedupKey = cleanName.toLowerCase().replace(/[^a-z0-9]/g, '').trim();
+      // Normalization check for deduplication
       const datePart = e.startDate.slice(0, 10);
-      const key = `${dedupKey}|${datePart}`;
+      const normTitle = normalizeEventTitle(cleanName);
+      const normUrl = normalizeEventDomainUrl(cleanUrl);
 
-      if (seen.has(key)) continue;
-      seen.add(key);
+      // Check URL match (same website domain/path on the same date)
+      if (normUrl && seenUrls.has(`${normUrl}|${datePart}`)) {
+        continue;
+      }
+
+      // Check normalized title + date match
+      const titleKey = `${normTitle}|${datePart}`;
+      if (normTitle && seenTitles.has(titleKey)) {
+        continue;
+      }
+
+      if (normTitle) seenTitles.add(titleKey);
+      if (normUrl) seenUrls.add(`${normUrl}|${datePart}`);
 
       const d = new Date(e.startDate);
       const monthStr = !isNaN(d.getTime())
