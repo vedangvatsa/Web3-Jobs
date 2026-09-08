@@ -9,7 +9,7 @@ import { sanitizeHtml } from './sanitize-html';
 import { COMPANY_RICH_ABOUT } from './company-profiles';
 
 export { getJobSlug, getOneWordRole } from './job-slugs';
-import { getJobContentKey, getJobSlug } from './job-slugs';
+import { getJobContentKey, getJobSlug, getCompanySlug } from './job-slugs';
 
 const DESCRIPTIONS_CACHE_PATH = path.join(process.cwd(), 'content/job-descriptions.json');
 const LEGACY_ARCHIVE_PATH = path.join(process.cwd(), 'content/legacy-slugs-archive.json');
