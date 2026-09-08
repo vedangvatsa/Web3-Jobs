@@ -1,0 +1,1321 @@
+[
+  {
+    "name": "ETHPrague 2027",
+    "url": "https://ethprague.com",
+    "emails": [
+      "contact@ethprague.com"
+    ],
+    "event": {
+      "id": "premier-ethprague-2027",
+      "slug": "ethprague",
+      "name": "ETHPrague 2027",
+      "description": "Three days of talks, workshops, and hands-on hacking exploring Ethereum, cypherpunk values, scalability, zero-knowledge proofs, and decentralized coordination.",
+      "startDate": "2027-05-14T09:00:00.000Z",
+      "endDate": "2027-05-16T18:00:00.000Z",
+      "city": "Prague",
+      "country": "Czech Republic",
+      "location": "Municipal House, Prague, Czech Republic",
+      "url": "https://ethprague.com",
+      "website": "https://ethprague.com",
+      "coverImage": "/events/ethprague.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETHDam Amsterdam 2027",
+    "url": "https://www.ethdam.com",
+    "emails": [
+      "hello@cryptocanal.org"
+    ],
+    "event": {
+      "id": "premier-ethdam-2027",
+      "slug": "ethdam",
+      "name": "ETHDam Amsterdam 2027",
+      "description": "Annual Ethereum, Privacy, Security & AI conference and hackathon hosted by CryptoCanal in Amsterdam, uniting leading privacy researchers and builders.",
+      "startDate": "2027-05-07T09:00:00.000Z",
+      "endDate": "2027-05-09T18:00:00.000Z",
+      "city": "Amsterdam",
+      "country": "Netherlands",
+      "location": "Pakhuis de Zwijger, Amsterdam, Netherlands",
+      "url": "https://www.ethdam.com",
+      "website": "https://www.ethdam.com",
+      "coverImage": "/events/ethdam.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "EthCC[10] Cannes 2027",
+    "url": "https://ethcc.io",
+    "emails": [
+      "contact@ethereum-france.com"
+    ],
+    "event": {
+      "id": "premier-ethcc-2027",
+      "slug": "ethcc",
+      "name": "EthCC[10] Cannes 2027",
+      "description": "The premier annual European Ethereum community conference organized by Ethereum France, convening core developers, researchers, founders, and decentralized protocol teams.",
+      "startDate": "2027-04-12T09:00:00.000Z",
+      "endDate": "2027-04-15T18:00:00.000Z",
+      "city": "Cannes",
+      "country": "France",
+      "location": "Palais des Festivals, Cannes, France",
+      "url": "https://ethcc.io",
+      "website": "https://ethcc.io",
+      "coverImage": "/events/ethcc.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Istanbul Blockchain Week 2026",
+    "url": "https://istanbulblockchainweek.com",
+    "emails": [
+      "contact@istanbulblockchainweek.com"
+    ],
+    "event": {
+      "id": "premier-ibw-2026",
+      "slug": "ibw",
+      "name": "Istanbul Blockchain Week 2026",
+      "description": "Turkey\u2019s premier annual Web3 and blockchain gathering organized by EAK Digital, bridging continents with world-class keynotes, hackathons, and networking.",
+      "startDate": "2026-11-12T09:00:00.000Z",
+      "endDate": "2026-11-13T18:00:00.000Z",
+      "city": "Istanbul",
+      "country": "Turkey",
+      "location": "Hilton Istanbul Bomonti, Istanbul, Turkey",
+      "url": "https://istanbulblockchainweek.com",
+      "website": "https://istanbulblockchainweek.com",
+      "coverImage": "/events/istanbul-blockchain-week.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETHSafari 2026",
+    "url": "https://ethsafari.xyz",
+    "emails": [
+      "partners@ethsafari.xyz",
+      "info@ethsafari.xyz",
+      "hello@ethsafari.xyz"
+    ],
+    "event": {
+      "id": "premier-ethsafari-2026",
+      "slug": "ethsafari",
+      "name": "ETHSafari 2026",
+      "description": "Africa's iconic Ethereum and Web3 summit uniting global builders across Nairobi and Kilifi for a week of hackathons, safaris and on-chain innovation.",
+      "startDate": "2026-09-04T09:00:00.000Z",
+      "endDate": "2026-09-12T18:00:00.000Z",
+      "city": "Nairobi",
+      "country": "Kenya",
+      "location": "Nairobi & Kilifi, Kenya",
+      "url": "https://ethsafari.xyz",
+      "website": "https://ethsafari.xyz",
+      "coverImage": "/events/ethsafari-banner.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Taipei Blockchain Week 2026",
+    "url": "https://www.taipeiblockchainweek.com",
+    "emails": [
+      "info@taipeiblockchainweek.com"
+    ],
+    "event": {
+      "id": "premier-tbw-2026",
+      "slug": "taipei",
+      "name": "Taipei Blockchain Week 2026",
+      "description": "Taiwan's premier blockchain week of talks, workshops and networking across the Taipei Web3 ecosystem.",
+      "startDate": "2026-09-04T09:00:00.000Z",
+      "endDate": "2026-09-06T18:00:00.000Z",
+      "city": "Taipei",
+      "country": "Taiwan",
+      "location": "Taipei, Taiwan",
+      "url": "https://www.taipeiblockchainweek.com",
+      "website": "https://www.taipeiblockchainweek.com",
+      "coverImage": "http://static1.squarespace.com/static/62e43f6fccb8357cfc29e4de/t/68467213cc6de75b44dc615a/1779763798757/TBW+onboard+AI.png?format=1500w",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "UN Blockchain Week 2026",
+    "url": "https://unblockchainweek.com",
+    "emails": [
+      "you@company.com",
+      "sponsorships@blockchainweek.ai",
+      "contact@blockchainweek.ai"
+    ],
+    "event": {
+      "id": "premier-unbw-2026",
+      "slug": "un",
+      "name": "UN Blockchain Week 2026",
+      "description": "A series of blockchain, AI and digital-asset summits in New York held alongside the UN General Assembly, including the AI x Blockchain Summit.",
+      "startDate": "2026-09-10T09:00:00.000Z",
+      "endDate": "2026-09-19T18:00:00.000Z",
+      "city": "New York",
+      "country": "United States",
+      "location": "Times Square, New York, USA",
+      "url": "https://unblockchainweek.com",
+      "website": "https://unblockchainweek.com",
+      "coverImage": "https://www.blockchainweek.ai/opengraph-image.png?opengraph-image.0c6-04-u9_oc0.png?dpl=dpl_7prKPNcDo1WkRVtBPS3Wq1wjthrH",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETHRome 2026",
+    "url": "https://www.ethrome.org",
+    "emails": [
+      "hello@urbe.build",
+      "info@wersrl.com"
+    ],
+    "event": {
+      "id": "premier-ethrome-2026",
+      "slug": "ethrome",
+      "name": "ETHRome 2026",
+      "description": "Ethereum builders' conference and hackathon in Rome organized by urbe.eth, focused on hands-on building, security and open source.",
+      "startDate": "2026-09-11T09:00:00.000Z",
+      "endDate": "2026-09-13T18:00:00.000Z",
+      "city": "Rome",
+      "country": "Italy",
+      "location": "Rome, Italy",
+      "url": "https://www.ethrome.org",
+      "website": "https://www.ethrome.org",
+      "coverImage": "https://ethrome.org/opengraph-image.png?9b40b21b2b23e020",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Avalanche Summit NYC 2026",
+    "url": "https://www.avalanchesummit.com",
+    "emails": [
+      "events@avalabs.org",
+      "press@avalabs.org"
+    ],
+    "event": {
+      "id": "premier-avax-summit-nyc-2026",
+      "slug": "avalanche",
+      "name": "Avalanche Summit NYC 2026",
+      "description": "The Avalanche ecosystem's institutional summit covering asset tokenization, on-chain finance and consumer Web3 applications in New York.",
+      "startDate": "2026-09-16T09:00:00.000Z",
+      "endDate": "2026-09-17T18:00:00.000Z",
+      "city": "New York",
+      "country": "United States",
+      "location": "Chelsea Industrial, New York, USA",
+      "url": "https://www.avalanchesummit.com",
+      "website": "https://www.avalanchesummit.com",
+      "coverImage": "https://irp.cdn-website.com/02019734/dms3rep/multi/opt/170412-1920w.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Cardano Summit 2026",
+    "url": "https://summit.cardano.org",
+    "emails": [
+      "events@cardanofoundation.org",
+      "event-support@cardanofoundation.org",
+      "cardanosummit@150bond.com"
+    ],
+    "event": {
+      "id": "premier-cardano-summit-2026",
+      "slug": "cardano",
+      "name": "Cardano Summit 2026",
+      "description": "The Cardano ecosystem's annual gathering connecting IOG, Emurgo and Cardano Foundation teams with the global community.",
+      "startDate": "2026-10-05T09:00:00.000Z",
+      "endDate": "2026-10-06T18:00:00.000Z",
+      "city": "Singapore",
+      "country": "Singapore",
+      "location": "Singapore, Singapore",
+      "url": "https://summit.cardano.org",
+      "website": "https://summit.cardano.org",
+      "coverImage": "https://framerusercontent.com/images/T2alYSiWTi1pC1A2z7r4Wf58Qyk.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "TOKEN2049 Singapore 2026",
+    "url": "https://asia.token2049.com",
+    "emails": [
+      "sponsors@token2049.com",
+      "info@token2049.com",
+      "speakers@token2049.com",
+      "token2049sg@wachsman.com"
+    ],
+    "event": {
+      "id": "premier-token2049-singapore-2026",
+      "slug": "token2049",
+      "name": "TOKEN2049 Singapore 2026",
+      "description": "Asia's flagship crypto conference bringing together 20,000+ attendees and 400+ exhibitors across Marina Bay Sands.",
+      "startDate": "2026-10-07T09:00:00.000Z",
+      "endDate": "2026-10-08T18:00:00.000Z",
+      "city": "Singapore",
+      "country": "Singapore",
+      "location": "Marina Bay Sands, Singapore",
+      "url": "https://asia.token2049.com",
+      "website": "https://asia.token2049.com",
+      "coverImage": "https://token2049.nyc3.cdn.digitaloceanspaces.com/Singapore/OG/T2049%20Singapore%20-%20OpenGraph%20(2026)%202%20OCT%202025.avif",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Ripple Swell 2026",
+    "url": "https://ripple.com/events/swell/",
+    "emails": [
+      "excite@home.com"
+    ],
+    "event": {
+      "id": "premier-swell-2026",
+      "slug": "ripple-swell-2026",
+      "name": "Ripple Swell 2026",
+      "description": "Ripple's annual flagship for institutional crypto and cross-border payments, returning to New York City.",
+      "startDate": "2026-10-27T09:00:00.000Z",
+      "endDate": "2026-10-29T18:00:00.000Z",
+      "city": "New York",
+      "country": "United States",
+      "location": "New York City, USA",
+      "url": "https://ripple.com/events/swell/",
+      "website": "https://ripple.com/events/swell/",
+      "coverImage": "https://cdn.prod.website-files.com/69fdabd33a6b8e8e1cf71a23/6a174321acf41661f83a1aa0_Swell%202026_OpenGraph%20Image_1200x630.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "India Blockchain Week 2026",
+    "url": "https://www.indiablockchainweek.com",
+    "emails": [
+      "press@indiablockchainweek.com",
+      "sponsor@indiablockchainweek.com",
+      "hello@indiablockchainweek.com"
+    ],
+    "event": {
+      "id": "premier-indiabw-2026",
+      "slug": "india",
+      "name": "India Blockchain Week 2026",
+      "description": "India's flagship blockchain week in Mumbai covering DeFi, CBDCs, tokenization and the country's fast-growing Web3 developer base.",
+      "startDate": "2026-11-01T09:00:00.000Z",
+      "endDate": "2026-11-02T18:00:00.000Z",
+      "city": "Mumbai",
+      "country": "India",
+      "location": "Mumbai, India",
+      "url": "https://www.indiablockchainweek.com",
+      "website": "https://www.indiablockchainweek.com",
+      "coverImage": "https://indiablockchainweek.com/assets/images/2026/og-image.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Devcon 2026",
+    "url": "https://devcon.org",
+    "emails": [
+      "support@devcon.org"
+    ],
+    "event": {
+      "id": "premier-devcon-2026",
+      "slug": "devcon",
+      "name": "Devcon 2026",
+      "description": "The Ethereum Foundation's premier gathering for builders, researchers and core protocol contributors, heading to Mumbai.",
+      "startDate": "2026-11-03T09:00:00.000Z",
+      "endDate": "2026-11-06T18:00:00.000Z",
+      "city": "Mumbai",
+      "country": "India",
+      "location": "Mumbai, India",
+      "url": "https://devcon.org",
+      "website": "https://devcon.org",
+      "coverImage": "https://www.devcon.org/assets/images/new-og.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Cosmoverse 2026",
+    "url": "https://cosmoverse.org",
+    "emails": [
+      "michael@cosmoverse.org",
+      "contact@cosmoverse.org",
+      "lucas@cosmoverse.org"
+    ],
+    "event": {
+      "id": "premier-cosmoverse-2026",
+      "slug": "cosmoverse",
+      "name": "Cosmoverse 2026",
+      "description": "The Cosmos and IBC ecosystem's flagship conference bringing appchain teams, validators and interchain founders together in Hong Kong.",
+      "startDate": "2026-11-05T09:00:00.000Z",
+      "endDate": "2026-11-06T18:00:00.000Z",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "location": "Grand Hyatt, Hong Kong",
+      "url": "https://cosmoverse.org",
+      "website": "https://cosmoverse.org",
+      "coverImage": "https://framerusercontent.com/images/Ol6JZHzkoOMo3CwJIvZEouHJO18.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "LABITCONF 2026",
+    "url": "https://labitconf.com",
+    "emails": [
+      "contacto@labitconf.com"
+    ],
+    "event": {
+      "id": "premier-labitconf-2026",
+      "slug": "labitconf",
+      "name": "LABITCONF 2026",
+      "description": "Latin America's longest-running Bitcoin and crypto conference, anchoring the regional ecosystem with strong fintech and remittance representation.",
+      "startDate": "2026-11-05T09:00:00.000Z",
+      "endDate": "2026-11-06T18:00:00.000Z",
+      "city": "Mexico City",
+      "country": "Mexico",
+      "location": "Mexico City, Mexico",
+      "url": "https://labitconf.com",
+      "website": "https://labitconf.com",
+      "coverImage": "/events/labitconf-logo.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Solana Breakpoint 2026",
+    "url": "https://solana.com/breakpoint",
+    "emails": [
+      "operations@solana.com",
+      "breakpoint@solana.org",
+      "operations@solana.foundation",
+      "press@solana.org",
+      "dmcaagent@solana.org"
+    ],
+    "event": {
+      "id": "premier-breakpoint-2026",
+      "slug": "solana",
+      "name": "Solana Breakpoint 2026",
+      "description": "The flagship annual conference for the global Solana ecosystem, convening builders, institutions, and policymakers at Olympia London to shape the future of internet capital markets.",
+      "startDate": "2026-11-15T09:00:00.000Z",
+      "endDate": "2026-11-17T18:00:00.000Z",
+      "city": "London",
+      "country": "United Kingdom",
+      "location": "Olympia London, London, UK",
+      "url": "https://solana.com/breakpoint",
+      "website": "https://solana.com/breakpoint",
+      "coverImage": "https://solana.com/breakpoint/social-card.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETHIndia 2026",
+    "url": "https://ethindia.co",
+    "emails": [
+      "ethindia@devfolio.co"
+    ],
+    "event": {
+      "id": "premier-ethindia-2026",
+      "slug": "ethindia",
+      "name": "ETHIndia 2026",
+      "description": "The world's largest Ethereum hackathon empowering 2,000+ developers, designers, and researchers in India's silicon capital.",
+      "startDate": "2026-12-04T09:00:00.000Z",
+      "endDate": "2026-12-06T18:00:00.000Z",
+      "city": "Bengaluru",
+      "country": "India",
+      "location": "Bengaluru, India",
+      "url": "https://ethindia.co",
+      "website": "https://ethindia.co",
+      "coverImage": "https://assets.devfolio.co/hackathons/efff72dc6d0f45ee8ae27e5831e4cbe3/assets/cover/288.jpeg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Messari Mainnet 2026",
+    "url": "https://mainnet.events",
+    "emails": [
+      "support@bizzabo.com"
+    ],
+    "event": {
+      "id": "premier-mainnet-2026",
+      "slug": "messari",
+      "name": "Messari Mainnet 2026",
+      "description": "Messari's research-led conference in Miami, heavy on data, tokenomics and the year-in-review reports that shape next year's investment theses.",
+      "startDate": "2026-12-10T09:00:00.000Z",
+      "endDate": "2026-12-12T18:00:00.000Z",
+      "city": "Miami",
+      "country": "United States",
+      "location": "Miami, USA",
+      "url": "https://mainnet.events",
+      "website": "https://mainnet.events",
+      "coverImage": "/events/messari-mainnet.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Consensus Hong Kong 2027",
+    "url": "https://consensus-hongkong.coindesk.com",
+    "emails": [
+      "events@coindesk.com"
+    ],
+    "event": {
+      "id": "premier-consensus-hk-2027",
+      "slug": "consensus",
+      "name": "Consensus Hong Kong 2027",
+      "description": "CoinDesk's APAC flagship returning to Hong Kong with three days of policy, capital markets and protocol talks.",
+      "startDate": "2027-02-10T09:00:00.000Z",
+      "endDate": "2027-02-12T18:00:00.000Z",
+      "city": "Hong Kong",
+      "country": "Hong Kong",
+      "location": "AsiaWorld-Expo, Hong Kong",
+      "url": "https://consensus-hongkong.coindesk.com",
+      "website": "https://consensus-hongkong.coindesk.com",
+      "coverImage": "https://consensus-hongkong.coindesk.com/site/consensusasia2026/images/userfiles/metadata/hk-26/C26_HK_Opengraph_Generic.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "TOKEN2049 Dubai 2027",
+    "url": "https://dubai.token2049.com",
+    "emails": [
+      "info@token2049.com",
+      "sponsors@token2049.com"
+    ],
+    "event": {
+      "id": "premier-token2049-dubai-2027",
+      "slug": "token20491",
+      "name": "TOKEN2049 Dubai 2027",
+      "description": "The MENA edition of TOKEN2049 where sovereign wealth funds, regulators and founders define what's next in Web3.",
+      "startDate": "2027-04-21T09:00:00.000Z",
+      "endDate": "2027-04-22T18:00:00.000Z",
+      "city": "Dubai",
+      "country": "United Arab Emirates",
+      "location": "Madinat Jumeirah, Dubai, UAE",
+      "url": "https://dubai.token2049.com",
+      "website": "https://dubai.token2049.com",
+      "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/69493428bf04691d4ae74fd1_397c8dba84f2513a877cf7036d9e9855_T2049%20Dubai%20-%20OpenGraph%20%282026%29.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Freedom Tech DC 2026",
+    "url": "https://www.btcpolicy.org",
+    "emails": [
+      "mboyer@btcpolicy.org"
+    ],
+    "event": {
+      "id": "premier-freedomtech",
+      "slug": "freedom",
+      "name": "Freedom Tech DC 2026",
+      "description": "The Bitcoin Policy Institute's flagship gathering on Bitcoin, freedom technology, and policy, returning to Washington DC.",
+      "startDate": "2026-09-22T09:00:00.000Z",
+      "endDate": "2026-09-23T18:00:00.000Z",
+      "city": "Washington DC",
+      "country": "United States",
+      "location": "Washington, DC, USA",
+      "url": "https://www.btcpolicy.org",
+      "website": "https://www.btcpolicy.org",
+      "coverImage": "https://cdn.prod.website-files.com/68f7cddcae0b61add08140fc/696e4e1d57e5456bda73085e_website%20share.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Ethereum Korea One 2026",
+    "url": "https://one.ethereumkorea.io",
+    "emails": [
+      "contact@ethereumkorea.io"
+    ],
+    "event": {
+      "id": "premier-ethkorea",
+      "slug": "ethereum-korea-one",
+      "name": "Ethereum Korea One 2026",
+      "description": "Korea's Ethereum community conference running alongside Korea Blockchain Week in Seoul.",
+      "startDate": "2026-09-28T09:00:00.000Z",
+      "endDate": "2026-09-29T18:00:00.000Z",
+      "city": "Seoul",
+      "country": "South Korea",
+      "location": "Seoul, South Korea",
+      "url": "https://one.ethereumkorea.io",
+      "website": "https://one.ethereumkorea.io",
+      "coverImage": "/events/ethereum.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "P.S. Lisbon 2026",
+    "url": "https://input.global",
+    "emails": [
+      "alek@input.global",
+      "hello@input.global"
+    ],
+    "event": {
+      "id": "premier-pslisbon",
+      "slug": "ps",
+      "name": "P.S. Lisbon 2026",
+      "description": "Input Global's curated web3 gathering in Lisbon, pairing intimate programming with the city's builder community.",
+      "startDate": "2026-10-01T09:00:00.000Z",
+      "endDate": "2026-10-04T18:00:00.000Z",
+      "city": "Lisbon",
+      "country": "Portugal",
+      "location": "Lisbon, Portugal",
+      "url": "https://input.global",
+      "website": "https://input.global",
+      "coverImage": "/events/crypto1.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETHSpain 2026",
+    "url": "https://ethspain.org",
+    "emails": [
+      "hello@ethspain.org"
+    ],
+    "event": {
+      "id": "premier-ethspain",
+      "slug": "ethspain",
+      "name": "ETHSpain 2026",
+      "description": "Spain's Ethereum conference bringing protocol builders, DeFi teams, and the local community together in Barcelona.",
+      "startDate": "2026-09-17T09:00:00.000Z",
+      "endDate": "2026-09-18T18:00:00.000Z",
+      "city": "Barcelona",
+      "country": "Spain",
+      "location": "Barcelona, Spain",
+      "url": "https://ethspain.org",
+      "website": "https://ethspain.org",
+      "coverImage": "/events/ethspain.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Plan B Forum Lugano 2026",
+    "url": "https://planb.lugano.ch",
+    "emails": [
+      "press@tether.to",
+      "planb@lugano.ch"
+    ],
+    "event": {
+      "id": "premier-planblugano",
+      "slug": "plan",
+      "name": "Plan B Forum Lugano 2026",
+      "description": "Plan B Forum returns to Lugano, the Swiss city that made bitcoin legal tender, for two days of Bitcoin policy, adoption, and technology talks.",
+      "startDate": "2026-10-23T09:00:00.000Z",
+      "endDate": "2026-10-24T18:00:00.000Z",
+      "city": "Lugano",
+      "country": "Switzerland",
+      "location": "Lugano, Switzerland",
+      "url": "https://planb.lugano.ch",
+      "website": "https://planb.lugano.ch",
+      "coverImage": "/events/plan.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Ethereum Cypherpunk Congress Mumbai 2026",
+    "url": "https://web3privacy.info",
+    "emails": [
+      "web3privacynow@protonmail.com"
+    ],
+    "event": {
+      "id": "premier-cypherpunk",
+      "slug": "ethereum2",
+      "name": "Ethereum Cypherpunk Congress Mumbai 2026",
+      "description": "A congress on privacy, censorship resistance, and cypherpunk values on Ethereum, hosted in Mumbai around India Blockchain Week.",
+      "startDate": "2026-11-02T09:00:00.000Z",
+      "endDate": "2026-11-02T18:00:00.000Z",
+      "city": "Mumbai",
+      "country": "India",
+      "location": "Mumbai, India",
+      "url": "https://web3privacy.info",
+      "website": "https://web3privacy.info",
+      "coverImage": "/events/ethereum2.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Africa Blockchain Festival 2026",
+    "url": "https://africablockchainfestival.com",
+    "emails": [
+      "you@company.com",
+      "collaboration@africablockchainfestival.com",
+      "hello@dsrptd.net"
+    ],
+    "event": {
+      "id": "premier-africabcfest",
+      "slug": "africa",
+      "name": "Africa Blockchain Festival 2026",
+      "description": "Rwanda's continental blockchain festival covering policy, enterprise adoption, and Africa's on-chain economy.",
+      "startDate": "2026-11-07T09:00:00.000Z",
+      "endDate": "2026-11-08T18:00:00.000Z",
+      "city": "Kigali",
+      "country": "Rwanda",
+      "location": "Kigali, Rwanda",
+      "url": "https://africablockchainfestival.com",
+      "website": "https://africablockchainfestival.com",
+      "coverImage": "https://i0.wp.com/africablockchainfestival.com/wp-content/uploads/2026/08/block-chill-nairobi-abf-wts-banner.jpg?fit=1400%2C961&ssl=1",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Africa Stablecoin Summit 2026",
+    "url": "https://africastablecoinsummit.io",
+    "emails": [
+      "info@africastablecoinsummit.io",
+      "hello@africastablecoinsummit.io"
+    ],
+    "event": {
+      "id": "premier-africastablecoin",
+      "slug": "africa1",
+      "name": "Africa Stablecoin Summit 2026",
+      "description": "Johannesburg's dedicated stablecoin summit examining remittances, settlement, and regulation across African markets.",
+      "startDate": "2026-11-12T09:00:00.000Z",
+      "endDate": "2026-11-13T18:00:00.000Z",
+      "city": "Johannesburg",
+      "country": "South Africa",
+      "location": "Johannesburg, South Africa",
+      "url": "https://africastablecoinsummit.io",
+      "website": "https://africastablecoinsummit.io",
+      "coverImage": "/events/africa1.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "The Big Whale Summit 2026",
+    "url": "https://www.thebigwhale.io",
+    "emails": [
+      "contact@thebigwhale.io"
+    ],
+    "event": {
+      "id": "premier-bigwhale",
+      "slug": "the1",
+      "name": "The Big Whale Summit 2026",
+      "description": "French crypto media The Big Whale hosts its Paris summit on digital assets, DeFi, and European regulation.",
+      "startDate": "2026-11-12T09:00:00.000Z",
+      "endDate": "2026-11-13T18:00:00.000Z",
+      "city": "Paris",
+      "country": "France",
+      "location": "Paris, France",
+      "url": "https://www.thebigwhale.io",
+      "website": "https://www.thebigwhale.io",
+      "coverImage": "https://cdn.prod.website-files.com/68c920bf4c1a8f4733432a26/6981f9c0be8eb2f1142c12c6_the-big-whale-open-graph.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Crypto Fest 2026",
+    "url": "https://cryptofest.co.za",
+    "emails": [
+      "nazley@bitcoinevents.co.za",
+      "info@bitcoinevents.co.za"
+    ],
+    "event": {
+      "id": "premier-cryptofest",
+      "slug": "crypto",
+      "name": "Crypto Fest 2026",
+      "description": "Cape Town's annual crypto festival combining conference sessions with workshops during South Africa's summer buildup.",
+      "startDate": "2026-11-20T09:00:00.000Z",
+      "endDate": "2026-11-20T18:00:00.000Z",
+      "city": "Cape Town",
+      "country": "South Africa",
+      "location": "Cape Town, South Africa",
+      "url": "https://cryptofest.co.za",
+      "website": "https://cryptofest.co.za",
+      "coverImage": "https://cryptofest.co.za/wp-content/uploads/2026/05/CryptoFest2026-LinkPreview.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Africa Prediction Markets Summit 2026",
+    "url": "https://www.africapredictionmarketssummit.com",
+    "emails": [
+      "jude@gaic.co.za"
+    ],
+    "event": {
+      "id": "premier-africapredict",
+      "slug": "africa2",
+      "name": "Africa Prediction Markets Summit 2026",
+      "description": "Accra hosts Africa's first dedicated prediction-markets summit, covering information markets, regulation, and on-chain forecasting.",
+      "startDate": "2026-11-26T09:00:00.000Z",
+      "endDate": "2026-11-27T18:00:00.000Z",
+      "city": "Accra",
+      "country": "Ghana",
+      "location": "Accra, Ghana",
+      "url": "https://www.africapredictionmarketssummit.com",
+      "website": "https://www.africapredictionmarketssummit.com",
+      "coverImage": "/events/africa2.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Africa Bitcoin Conference 2026",
+    "url": "https://afrobitcoin.org",
+    "emails": [
+      "contact@afrobitcoin.org",
+      "media@afrobitcoin.org"
+    ],
+    "event": {
+      "id": "premier-africabitcoin",
+      "slug": "africa3",
+      "name": "Africa Bitcoin Conference 2026",
+      "description": "The continent's premier Bitcoin conference returns, convening African and global Bitcoiners for education and adoption.",
+      "startDate": "2026-12-02T09:00:00.000Z",
+      "endDate": "2026-12-05T18:00:00.000Z",
+      "city": "Blantyre",
+      "country": "Malawi",
+      "location": "Blantyre, Malawi",
+      "url": "https://afrobitcoin.org",
+      "website": "https://afrobitcoin.org",
+      "coverImage": "/events/africa3.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Agentic Payments Onchain 2026",
+    "url": "https://t54.ai",
+    "emails": [
+      "hr@t54.ai",
+      "press@t54.ai"
+    ],
+    "event": {
+      "id": "premier-agenticpay",
+      "slug": "apo",
+      "name": "Agentic Payments Onchain 2026",
+      "description": "A working session on agentic payments: how autonomous AI agents transact, settle, and hold balances on-chain, during Korea Blockchain Week.",
+      "startDate": "2026-09-28T09:00:00.000Z",
+      "endDate": "2026-09-28T18:00:00.000Z",
+      "city": "Seoul",
+      "country": "South Korea",
+      "location": "Seoul, South Korea",
+      "url": "https://t54.ai",
+      "website": "https://t54.ai",
+      "coverImage": "/events/agentic.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Finality Forum Singapore 2026",
+    "url": "https://ethenelabs.xyz",
+    "emails": [
+      "operations@ethenelabs.xyz"
+    ],
+    "event": {
+      "id": "premier-finalityforum",
+      "slug": "finality-forum-2026",
+      "name": "Finality Forum Singapore 2026",
+      "description": "Ethena Labs' forum on finality, restaking, and stablecoin infrastructure, running alongside TOKEN2049 week.",
+      "startDate": "2026-10-07T09:00:00.000Z",
+      "endDate": "2026-10-07T18:00:00.000Z",
+      "city": "Singapore",
+      "country": "Singapore",
+      "location": "Singapore, Singapore",
+      "url": "https://ethenelabs.xyz",
+      "website": "https://ethenelabs.xyz",
+      "coverImage": "/events/finality.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "The Odds: Prediction Markets Summit Singapore 2026",
+    "url": "https://mnm.live/theodds/t2049singapore",
+    "emails": [
+      "tal@mnm.live"
+    ],
+    "event": {
+      "id": "premier-theodds",
+      "slug": "the2",
+      "name": "The Odds: Prediction Markets Summit Singapore 2026",
+      "description": "A prediction-markets summit covering information markets, resolution mechanics, and on-chain forecasting during TOKEN2049 week.",
+      "startDate": "2026-10-06T09:00:00.000Z",
+      "endDate": "2026-10-06T18:00:00.000Z",
+      "city": "Singapore",
+      "country": "Singapore",
+      "location": "Singapore, Singapore",
+      "url": "https://mnm.live/theodds/t2049singapore",
+      "website": "https://mnm.live/theodds/t2049singapore",
+      "coverImage": "https://mnm.live/og/the-odds-singapore.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
+    "url": "https://www.soliduslabs.com",
+    "emails": [
+      "press@soliduslabs.com",
+      "hello@soliduslabs.com"
+    ],
+    "event": {
+      "id": "premier-solidusroundtable",
+      "slug": "crypto-compliance-roundtable-seoul-2026",
+      "name": "Crypto Compliance & Legal Roundtable Seoul 2026",
+      "description": "Solidus Labs hosts a closed-door roundtable on crypto compliance, Travel Rule implementation, and AML tooling during Korea Blockchain Week.",
+      "startDate": "2026-09-29T09:00:00.000Z",
+      "endDate": "2026-09-29T18:00:00.000Z",
+      "city": "Seoul",
+      "country": "South Korea",
+      "location": "Seoul, South Korea",
+      "url": "https://www.soliduslabs.com",
+      "website": "https://www.soliduslabs.com",
+      "coverImage": "/events/crypto1.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Onchain Capital & Liquidity Seoul 2026",
+    "url": "https://lilroom.xyz",
+    "emails": [
+      "avg.litt@lilroom.xyz"
+    ],
+    "event": {
+      "id": "premier-onchaincapital",
+      "slug": "onchain",
+      "name": "Onchain Capital & Liquidity Seoul 2026",
+      "description": "A DeFi and AI-focused session on on-chain capital markets and liquidity infrastructure during Korea Blockchain Week.",
+      "startDate": "2026-09-29T09:00:00.000Z",
+      "endDate": "2026-09-29T18:00:00.000Z",
+      "city": "Seoul",
+      "country": "South Korea",
+      "location": "Seoul, South Korea",
+      "url": "https://lilroom.xyz",
+      "website": "https://lilroom.xyz",
+      "coverImage": "/events/onchain.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Rayls in Seoul 2026",
+    "url": "https://www.rayls.com",
+    "emails": [
+      "joe@gmail.com"
+    ],
+    "event": {
+      "id": "premier-raylsseoul",
+      "slug": "rayls",
+      "name": "Rayls in Seoul 2026",
+      "description": "Rayls brings its privacy-focused interbank blockchain protocol to Seoul for demonstrations and partner meetings during KBW.",
+      "startDate": "2026-09-30T09:00:00.000Z",
+      "endDate": "2026-09-30T18:00:00.000Z",
+      "city": "Seoul",
+      "country": "South Korea",
+      "location": "Seoul, South Korea",
+      "url": "https://www.rayls.com",
+      "website": "https://www.rayls.com",
+      "coverImage": "/events/rayls.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "HackIndia Spark-12 Jaipur 2026",
+    "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
+    "emails": [
+      "sponsors@hackindia.org"
+    ],
+    "event": {
+      "id": "premier-hackindia",
+      "slug": "hackindia",
+      "name": "HackIndia Spark-12 Jaipur 2026",
+      "description": "HackIndia's Jaipur edition of its national student hackathon series, with web3 and AI tracks for emerging developers.",
+      "startDate": "2026-09-18T09:00:00.000Z",
+      "endDate": "2026-09-19T18:00:00.000Z",
+      "city": "Jaipur",
+      "country": "India",
+      "location": "Jaipur, Rajasthan, India",
+      "url": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
+      "website": "https://hackindia.org/2026/hackindia-spark-12-jaipur-rajasthan",
+      "coverImage": "/events/hackindia.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "CONNECT by Cointelegraph Seoul 2026",
+    "url": "https://cointelegraph.com",
+    "emails": [
+      "advertise@cointelegraph.com",
+      "editor@cointelegraph.com"
+    ],
+    "event": {
+      "id": "premier-connectseoul",
+      "slug": "connect",
+      "name": "CONNECT by Cointelegraph Seoul 2026",
+      "description": "Cointelegraph's CONNECT forum arrives in Seoul during Korea Blockchain Week with media-led panels and networking.",
+      "startDate": "2026-09-28T09:00:00.000Z",
+      "endDate": "2026-09-28T18:00:00.000Z",
+      "city": "Seoul",
+      "country": "South Korea",
+      "location": "Seoul, South Korea",
+      "url": "https://cointelegraph.com",
+      "website": "https://cointelegraph.com",
+      "coverImage": "https://s3.cointelegraph.com/uploads/2026-04/019db5ee-14fd-72a4-a0e1-746d60971f5f.jpg",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Global Blockchain Show Abu Dhabi 2026",
+    "url": "https://www.globalblockchainshow.com/abu-dhabi/",
+    "emails": [
+      "ticket@globalblockchainshow.com",
+      "contact@globalblockchainshow.com",
+      "speaker@globalblockchainshow.com",
+      "sponsorship@globalblockchainshow.com",
+      "media@globalblockchainshow.com"
+    ],
+    "event": {
+      "id": "premier-gbshow",
+      "slug": "global",
+      "name": "Global Blockchain Show Abu Dhabi 2026",
+      "description": "The Global Blockchain Show returns to Abu Dhabi with two days of keynotes, investor meetups, and ecosystem exhibitions.",
+      "startDate": "2026-11-26T09:00:00.000Z",
+      "endDate": "2026-11-27T18:00:00.000Z",
+      "city": "Abu Dhabi",
+      "country": "United Arab Emirates",
+      "location": "Abu Dhabi, UAE",
+      "url": "https://www.globalblockchainshow.com/abu-dhabi/",
+      "website": "https://www.globalblockchainshow.com/abu-dhabi/",
+      "coverImage": "/events/global.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETHWomen Florida 2026",
+    "url": "https://www.futuristconference.com",
+    "emails": [
+      "info@futuristconference.com",
+      "laura@untraceableinc.com",
+      "events@untraceableinc.com"
+    ],
+    "event": {
+      "id": "premier-ethwomen",
+      "slug": "ethwomen",
+      "name": "ETHWomen Florida 2026",
+      "description": "ETHWomen celebrates and accelerates women building in Ethereum and web3, running alongside the Futurist Conference in Florida.",
+      "startDate": "2026-11-18T09:00:00.000Z",
+      "endDate": "2026-11-18T18:00:00.000Z",
+      "city": "Miami",
+      "country": "United States",
+      "location": "Miami, FL, USA",
+      "url": "https://www.futuristconference.com",
+      "website": "https://www.futuristconference.com",
+      "coverImage": "/events/ethwomen.png",
+      "twitter": null,
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "TOKEN2049 Official Opening VIP Gala & Rooftop Mixer",
+    "url": "https://token2049.com",
+    "emails": [
+      "info@token2049.com"
+    ],
+    "event": {
+      "id": "side-token2049-vip-gala-2026",
+      "slug": "token20492",
+      "name": "TOKEN2049 Official Opening VIP Gala & Rooftop Mixer",
+      "description": "Exclusive executive networking dinner and cocktail reception overlooking Marina Bay Sands for founders, VCs, and institutional allocators.",
+      "startDate": "2026-09-15T18:00:00.000Z",
+      "endDate": "2026-09-15T23:00:00.000Z",
+      "city": "Singapore",
+      "country": "Singapore",
+      "location": "C\u00c9 LA VI Rooftop, Marina Bay Sands, Singapore",
+      "url": "https://token2049.com",
+      "website": "https://token2049.com",
+      "coverImage": "https://cdn.prod.website-files.com/6756df8f05088bc3e51c64c0/68ff4193f76faf012400a64c_T2049%20Global%20-%20Opengraph.png",
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "Solana Superteam Asia Builder Night & Ecosystem Showcase",
+    "url": "https://superteam.fun",
+    "emails": [
+      "support@superteam.fun"
+    ],
+    "event": {
+      "id": "side-solana-superteam-singapore-2026",
+      "slug": "solana1",
+      "name": "Solana Superteam Asia Builder Night & Ecosystem Showcase",
+      "description": "High-energy side event bringing together 500+ Solana developers, DeFi protocols, and ecosystem project teams during TOKEN2049 week.",
+      "startDate": "2026-09-16T17:00:00.000Z",
+      "endDate": "2026-09-16T22:00:00.000Z",
+      "city": "Singapore",
+      "country": "Singapore",
+      "location": "National Gallery Singapore, Singapore",
+      "url": "https://superteam.fun",
+      "website": "https://superteam.fun",
+      "coverImage": "/events/superteam-asia.png",
+      "source": "curated-premier"
+    }
+  },
+  {
+    "name": "ETH Berlin Smart Contract Security Workshop",
+    "url": "https://ethberlin.org",
+    "emails": [
+      "schoedon@ethberlin.org",
+      "contact@ethberlin.org"
+    ],
+    "event": {
+      "id": "side-berlin-eth-solidity-workshop",
+      "name": "ETH Berlin Smart Contract Security Workshop",
+      "description": "Hands-on vulnerability hunting, static analysis tool demos, and formal verification lab.",
+      "startDate": "2026-09-08T13:00:00.000Z",
+      "endDate": "2026-09-08T18:00:00.000Z",
+      "city": "Berlin",
+      "country": "Germany",
+      "location": "c-base space station, Berlin, Germany",
+      "url": "https://ethberlin.org",
+      "website": "https://ethberlin.org",
+      "source": "curated-premier",
+      "slug": "finality-forum-2026",
+      "coverImage": "/events/finality.png"
+    }
+  },
+  {
+    "name": "The Institutional Table: Private Dinner",
+    "url": "https://quillaudits.com",
+    "emails": [
+      "hello@quillaudits.com"
+    ],
+    "event": {
+      "id": "side-ibw2026-institutional-table",
+      "name": "The Institutional Table: Private Dinner",
+      "description": "Private executive dinner on Tokenization, Stablecoins, and Smart Contract Security hosted by QuillAudits.",
+      "startDate": "2026-11-02T19:30:00.000Z",
+      "endDate": "2026-11-02T22:30:00.000Z",
+      "city": "Mumbai",
+      "country": "India",
+      "location": "Mumbai, India",
+      "url": "https://quillaudits.com",
+      "website": "https://quillaudits.com",
+      "source": "curated-premier",
+      "slug": "the-institutional-table-private-dinner-mumbai",
+      "coverImage": "/events/ibw.png"
+    }
+  },
+  {
+    "name": "Quantstamp x Common Defense Mumbai Lounge",
+    "url": "https://quantstamp.com",
+    "emails": [
+      "press@quantstamp.com"
+    ],
+    "event": {
+      "id": "side-ibw2026-quantstamp-lounge",
+      "name": "Quantstamp x Common Defense Mumbai Lounge",
+      "description": "Exclusive security networking lounge for smart contract auditors and protocol founders during Devcon.",
+      "startDate": "2026-11-04T19:00:00.000Z",
+      "endDate": "2026-11-04T22:00:00.000Z",
+      "city": "Mumbai",
+      "country": "India",
+      "location": "Mumbai, India",
+      "url": "https://quantstamp.com",
+      "website": "https://quantstamp.com",
+      "source": "curated-premier",
+      "slug": "quantstamp-common-defense-mumbai-lounge",
+      "coverImage": "/events/ibw.png"
+    }
+  },
+  {
+    "name": "Stellar Pro Hackathon",
+    "url": "https://www.risein.com/programs/stellar-pro-hackathon",
+    "emails": [
+      "info@risein.com"
+    ],
+    "event": {
+      "id": "w3v-stellar-pro-hackathon",
+      "name": "Stellar Pro Hackathon",
+      "description": "Stellar Pro Hackathon on Web3Voyager: a September 19\u201320, 2026 Istanbul hackathon for 150 builders, with two Stellar tracks and a $15,000 prize pool.",
+      "startDate": "2026-09-19T07:00:00.000Z",
+      "endDate": "2026-09-21T19:00:00.000Z",
+      "city": "Beyo\u011flu",
+      "country": "TR",
+      "location": "Beyo\u011flu, TR",
+      "url": "https://www.risein.com/programs/stellar-pro-hackathon",
+      "coverImage": null,
+      "source": "web3voyager",
+      "bypassedFilter": true,
+      "month": "September 2026"
+    }
+  },
+  {
+    "name": "Agentic Summit",
+    "url": "https://agentic-summit.org/",
+    "emails": [
+      "contact@nyx.foundation"
+    ],
+    "event": {
+      "id": "w3v-agentic-summit",
+      "name": "Agentic Summit",
+      "description": "Agentic Summit on Web3Voyager: Tokyo conference on September 23, 2026 focused on autonomous finance and AI agents infrastructure.",
+      "startDate": "2026-09-23T09:00:00.000Z",
+      "endDate": "2026-09-23T16:00:00.000Z",
+      "city": "Bunkyo City",
+      "country": "JP",
+      "location": "Bunkyo City, JP",
+      "url": "https://agentic-summit.org/",
+      "coverImage": "https://agentic-summit.org/og.png",
+      "source": "web3voyager",
+      "bypassedFilter": true,
+      "month": "September 2026"
+    }
+  },
+  {
+    "name": "Ethereum Institutional Summit 2026",
+    "url": "https://eis.fracton.ventures",
+    "emails": [
+      "contact@fracton.ventures"
+    ],
+    "event": {
+      "id": "w3v-ethereum-institutional-summit-2026",
+      "name": "Ethereum Institutional Summit 2026",
+      "description": "Ethereum Institutional Summit 2026 on Web3Voyager: invitation-only Tokyo summit by Fracton Ventures during ETHTokyo Week in Central Tokyo.",
+      "startDate": "2026-09-25T08:00:00.000Z",
+      "endDate": "2026-09-25T16:00:00.000Z",
+      "city": "Nakano City",
+      "country": "JP",
+      "location": "Nakano City, JP",
+      "url": "https://eis.fracton.ventures",
+      "coverImage": "https://eis.fracton.ventures/opengraph-image?cd0b264fee0666ff",
+      "source": "web3voyager",
+      "bypassedFilter": true,
+      "month": "September 2026"
+    }
+  },
+  {
+    "name": "EastPoint\u00a02026",
+    "url": "https://www.eastpoint.xyz",
+    "emails": [
+      "contact@eastpoint.xyz",
+      "you@company.com",
+      "seoul@eastpoint.xyz"
+    ],
+    "event": {
+      "id": "w3v-eastpoint2026",
+      "name": "EastPoint\u00a02026",
+      "description": "EastPoint 2026 on Web3Voyager: a September 28 conference in Seoul covering digital assets, stablecoins, tokenized markets, Web3 and AI.",
+      "startDate": "2026-09-28T07:00:00.000Z",
+      "endDate": "2026-09-28T19:00:00.000Z",
+      "city": "Global",
+      "country": "KR",
+      "location": "Global, KR",
+      "url": "https://www.eastpoint.xyz",
+      "coverImage": "https://www.eastpoint.xyz/og-image-v3.png",
+      "source": "web3voyager",
+      "bypassedFilter": true,
+      "month": "September 2026"
+    }
+  },
+  {
+    "name": "Money 20/20 USA",
+    "url": "https://us.money2020.com/",
+    "emails": [
+      "usa@money2020.com",
+      "press@money2020.com"
+    ],
+    "event": {
+      "id": "ma-money-20-20-usa",
+      "name": "Money 20/20 USA",
+      "description": "Money 20/20 is the collective designation for a series of blockchain events spanning three continents, with the next edition of Money 20/20 USA scheduled for October 2026 in Las Vegas. This event will",
+      "startDate": "2026-10-18T00:00:00.000Z",
+      "endDate": "2026-10-21T00:00:00.000Z",
+      "city": "Las Vegas, USA",
+      "country": "USA",
+      "location": "Las Vegas, USA, USA",
+      "url": "https://us.money2020.com/",
+      "coverImage": "https://us.money2020.com//images.ctfassets.net/zfifjkc7y6ct/4hDO2Qx8wLOVdRQLwZMZH5/e231c6e317c3f2b7244a5f44f2f1b944/US26_web_social_share.png",
+      "source": "marketacross",
+      "month": "October 2026"
+    }
+  },
+  {
+    "name": "Link:NYC",
+    "url": "https://chain.link/events/linknyc",
+    "emails": [
+      "press@chain.link",
+      "press@chainlink.com",
+      "email@address.com"
+    ],
+    "event": {
+      "id": "w3v-linknyc",
+      "name": "Link:NYC",
+      "description": "Link:NYC on Web3Voyager: a Chainlink event covering institutional RWAs, agentic finance, interoperability, stablecoins and infrastructure.",
+      "startDate": "2026-10-29T08:00:00.000Z",
+      "endDate": "2026-10-29T20:00:00.000Z",
+      "city": "New York",
+      "country": "US",
+      "location": "New York, US",
+      "url": "https://chain.link/events/linknyc",
+      "coverImage": "https://cdn.prod.website-files.com/5f6b7190899f41fb70882d08/69f8ab29b10f10e2b5697672_07a9cedbd9234b2ab782ff49cfce38bf_Link-NYC-OG.png",
+      "source": "web3voyager",
+      "bypassedFilter": true,
+      "month": "October 2026"
+    }
+  },
+  {
+    "name": "BlockCon Punta Cana 2026",
+    "url": "https://www.blockcon.co",
+    "emails": [
+      "partners@blockcon.co"
+    ],
+    "event": {
+      "id": "ma-blockcon-punta-cana-2026",
+      "name": "BlockCon Punta Cana 2026",
+      "description": "BlockCon is where banks, enterprises, platform operators, and innovators converge to move digital markets forward. Set in booming, business-friendly Punta Cana, the event combines high-level dealmakin",
+      "startDate": "2026-11-25T00:00:00.000Z",
+      "endDate": "2026-11-25T00:00:00.000Z",
+      "city": "Punta Cana, Dominican Republic",
+      "country": "Dominican Republic",
+      "location": "Punta Cana, Dominican Republic, Dominican Republic",
+      "url": "https://www.blockcon.co",
+      "coverImage": "https://www.blockcon.co/og/blockcon-home.png",
+      "source": "marketacross",
+      "month": "November 2026"
+    }
+  },
+  {
+    "name": "Blockchain Life",
+    "url": "http://blockchain-life.com/autumn2026/",
+    "emails": [
+      "speakers@blockchain-life.com",
+      "sponsors@blockchain-life.com",
+      "info@blockchain-life.com",
+      "u003einfo@blockchain-life.com",
+      "partnership@blockchain-life.com",
+      "support@blockchain-life.com"
+    ],
+    "event": {
+      "id": "ma-blockchain-life",
+      "name": "Blockchain Life",
+      "description": "Crypto whales from all over the world will convene at Blockchain Life in Dubai in December 2026, which will welcome 15,000+ attendees from 130+ countries, 200+ speakers, and features more than 200 exh",
+      "startDate": "2026-12-01T00:00:00.000Z",
+      "endDate": "2026-12-02T00:00:00.000Z",
+      "city": "Dubai, UAE",
+      "country": "UAE",
+      "location": "Dubai, UAE, UAE",
+      "url": "http://blockchain-life.com/autumn2026/",
+      "coverImage": "https://blockchain-life.com/images/2026/BL_sharing_logo1.png",
+      "source": "marketacross",
+      "month": "December 2026"
+    }
+  }
+]

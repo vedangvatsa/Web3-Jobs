@@ -1,5 +1,6 @@
 import { getJobs } from "@/lib/jobs";
 import { getJobSlug } from "@/lib/job-slugs";
+import { buildSynthesizedJobContent } from "@/lib/job-guides";
 import { NextResponse } from "next/server";
 
 export const revalidate = 3600; // Cache for 1 hour
@@ -30,14 +31,7 @@ export async function GET() {
       const department = job.department || "Web3 / Blockchain";
       const date = job.date || new Date().toISOString().split("T")[0];
 
-      const description = `
-Position: ${title}
-Company: ${company}
-Location: ${location}
-Category: ${department}
-Apply directly: ${applyUrl}
-Learn more and view hiring details: ${url}
-      `.trim();
+      const rawDescription = buildSynthesizedJobContent(job);
 
       return `  <job id="${job.id || slug}">
     <id><![CDATA[${job.id || slug}]]></id>
@@ -53,7 +47,7 @@ Learn more and view hiring details: ${url}
     <date>${date}</date>
     <pubdate>${date}</pubdate>
     <job_type>Full-time</job_type>
-    <description><![CDATA[${description}]]></description>
+    <description><![CDATA[${rawDescription}]]></description>
   </job>`;
     })
     .join("\n");
