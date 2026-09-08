@@ -594,7 +594,7 @@ async function main() {
 
   console.log('\n--- Lever boards ---');
   await ingestLever('Wintermute', 'wintermute-trading', cacheData, descData);
-  await ingestLever('CertiK (detailed)', 'certik', cacheData, descData);
+  await ingestLever('CertiK', 'certik', cacheData, descData);
 
   console.log('\n--- BambooHR boards ---');
   await ingestBambooHR('Mercuryo', 'mercuryo', cacheData);
