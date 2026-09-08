@@ -22,6 +22,8 @@ function isGenericOrBroken(img) {
   if (img.includes('unsplash.com')) return true;
   if (img.startsWith('/Users/')) return true;
   if (img.includes('placeholder')) return true;
+  // Luma's "add a cover photo" default photo is not real event art
+  if (/images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img)) return true;
   return false;
 }
 
@@ -36,7 +38,7 @@ function cleanUrl(raw) {
 
 async function extractImageFromUrl(url) {
   try {
-    const res = await fetch(url, {
+    let res = await fetch(url, {
       headers: {
         'User-Agent': UA,
         'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
@@ -45,6 +47,23 @@ async function extractImageFromUrl(url) {
       signal: AbortSignal.timeout(8000),
       redirect: 'follow',
     });
+
+    // Luma rate-limits aggressively; retry a couple times before giving up
+    if (res.status === 429) {
+      for (let attempt = 0; attempt < 3; attempt++) {
+        await new Promise((r) => setTimeout(r, (attempt + 1) * 4000));
+        res = await fetch(url, {
+          headers: {
+            'User-Agent': UA,
+            'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8',
+            'Accept-Language': 'en-US,en;q=0.9',
+          },
+          signal: AbortSignal.timeout(8000),
+          redirect: 'follow',
+        });
+        if (res.status !== 429) break;
+      }
+    }
 
     if (!res.ok) return null;
     const contentType = res.headers.get('content-type') || '';
