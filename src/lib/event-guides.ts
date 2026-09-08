@@ -1012,4 +1012,161 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
       },
     ],
   },
+
+  pbw: {
+    summaryLead:
+      "Paris Blockchain Week convenes at the Carrousel du Louvre in Paris, serving as Europe's premier gathering for digital assets, enterprise blockchain infrastructure, and Web3 regulation. Drawing over 10,000 attendees, senior institutional executives, regulators, and startup founders, the conference occupies one of the world's most recognizable cultural landmarks for three days of high-signal keynotes, panels, and networking.",
+    expectedAttendance: "10,000+ attendees from 80+ countries",
+    sections: [
+      {
+        heading: "The Louvre setting and venue logistics",
+        content: [
+          "The Carrousel du Louvre sits directly beneath the iconic glass pyramid in Paris's 1st arrondissement, creating an extraordinary backdrop for enterprise and institutional conversations. The venue is fully enclosed and directly connected to the Palais Royal-Musée du Louvre metro station (Lines 1 and 7), making commuting effortless from anywhere in central Paris.",
+          "Because space inside the historical exhibition halls is strictly managed, keynotes and masterclasses fill quickly. Arriving early for marquee panels on the Master Stage is essential. Official accreditation checks are rigorous; carry government photo ID matching your registration name every day.",
+        ],
+      },
+      {
+        heading: "European policy and MiCA in practice",
+        content: [
+          "With the European Union's Markets in Crypto-Assets (MiCA) regulation establishing binding rules across all 27 member states, Paris Blockchain Week has become the focal point for regulatory and institutional dialogue. French financial regulator AMF, the European Banking Authority (EBA), and European central bankers regularly present operational guidelines on CASP licensing, stablecoin reserve requirements, and asset tokenization frameworks.",
+          "For international teams looking to enter the European Single Market legally, Paris is where compliance heads, qualified custodians, and licensed European banks congregate to negotiate distribution and banking rails.",
+        ],
+      },
+      {
+        heading: "Institutional capital and venture tracks",
+        content: [
+          "Unlike developer-only hackathons, Paris Blockchain Week attracts deep institutional capital: sovereign wealth representatives, European venture capital funds, family offices, and corporate innovation arms from luxury, aerospace, and banking sectors. Tracks span digital asset custody, real-world asset (RWA) tokenization, decentralized finance (DeFi) compliance, and artificial intelligence intersections.",
+          "Deal flow rooms and dedicated VIP investor lounges host curated pitch sessions. Founders who arrive with audited contracts, clear regulatory classifications, and institutional-grade financial modeling gain significant traction.",
+        ],
+      },
+      {
+        heading: "Paris Web3 side events and evening network",
+        content: [
+          "During Paris Blockchain Week, side events take over rooftop lounges, historical salons, and art galleries across Le Marais, Saint-Germain-des-Prés, and the Champs-Élysées. French tech collectives and global protocols host demo nights, hacker meetups, and investor dinners throughout the week.",
+          "Late-night transit on the Paris Metro operates until approximately 1:15 AM on weekdays and 2:15 AM on weekends. English is widely spoken throughout conference tracks and official side events.",
+        ],
+      },
+    ],
+  },
+
+  ibw: {
+    summaryLead:
+      "Istanbul Blockchain Week takes place at the Hilton Istanbul Bomonti, organized by EAK Digital to bridge international protocols and the Turkish crypto ecosystem. Turkey represents one of the world's highest crypto adoption rates per capita, driven by retail trading, currency hedging, and active developer hubs across Istanbul and Ankara. The event brings together global projects and the regional community for technical tracks, ecosystem panels, and W3Expo gaming showcases.",
+    expectedAttendance: "5,000+ attendees and builders",
+    sections: [
+      {
+        heading: "Turkey's unique adoption profile",
+        content: [
+          "Turkey consistently ranks in the top five globally for digital asset volume, where millions of citizens actively utilize stablecoins and decentralized protocols for economic resilience, remittances, and everyday commerce. This produces an exceptionally receptive, crypto-native audience that understands on-chain mechanics intuitively.",
+          "For international protocols and layer-1/layer-2 networks, Istanbul is one of the highest-ROI markets for community growth and ecosystem grants. Local university blockchain clubs, which number over 60 across Turkey, send hundreds of motivated student developers eager to build production applications.",
+        ],
+      },
+      {
+        heading: "The Bomonti venue and local logistics",
+        content: [
+          "The Hilton Istanbul Bomonti in the Şişli district offers expansive conference facilities, multiple stage halls, and dedicated networking terraces. The venue is easily reached via the Osmanbey Metro station (M2 line) or taxi from Taksim and Beşiktaş.",
+          "Istanbul traffic along major bridges and coastal corridors is notoriously congested during rush hours. Staying either directly at the Bomonti hotel or within walking distance in Şişli or Nişantaşı avoids significant transit friction.",
+        ],
+      },
+      {
+        heading: "Gaming, AI, and developer hackathons",
+        content: [
+          "A major anchor of Istanbul Blockchain Week is W3Expo, celebrating Turkey's massive gaming development heritage. Istanbul is recognized globally as a mobile and Web3 gaming hub, with domestic gaming studios commanding billions in venture funding. The conference features dedicated gaming arenas, tournament live-streams, and playable blockchain demos.",
+          "Alongside gaming, the IstanHack hackathon convenes local and international teams for 48 hours of rapid prototyping, judged by senior engineering mentors from leading global protocols.",
+        ],
+      },
+    ],
+  },
+
+  ethcc: {
+    summaryLead:
+      "EthCC (Ethereum Community Conference) is Europe's largest annual community-run Ethereum event, organized by the non-profit Ethereum France. Relocating to the Palais des Festivals in Cannes for its 10th edition, EthCC is renowned for prioritizing technical depth, open-source governance, and non-commercial developer talks over promotional sales pitches. More than 5,000 core developers, cryptographers, and protocol architects attend alongside hundreds of decentralized side events.",
+    expectedAttendance: "5,000+ Ethereum builders, researchers, and core devs",
+    sections: [
+      {
+        heading: "Community-first technical programming",
+        content: [
+          "Since its inception in Paris, EthCC has stood apart by rejecting hyper-commercial sponsor keynotes in favor of peer-reviewed technical sessions. All stages are recorded and made freely available immediately to the global Ethereum community. Talks cover protocol upgrades, execution clients, consensus engineering, zero-knowledge rollups, account abstraction, and cryptoeconomic design.",
+          "Ticket sales support educational initiatives and open-source grants through Ethereum France, reinforcing the non-profit ethos that underpins the entire gathering.",
+        ],
+      },
+      {
+        heading: "The Cannes venue and Côte d'Azur logistics",
+        content: [
+          "Hosted at the world-famous Palais des Festivals on the Cannes Croisette, EthCC provides auditorium seating, sea-facing networking terraces, and purpose-built presentation stages. The venue sits adjacent to the Cannes railway station (Gare de Cannes), with frequent high-speed TGV connections to Paris and regional TER trains connecting to Nice Côte d'Azur International Airport (NCE) in just 30 minutes.",
+          "Accommodation in Cannes ranges from seaside hotels along Boulevard de la Croisette to apartments in Le Suquet and the city center, all within walking distance of the venue.",
+        ],
+      },
+      {
+        heading: "Layer 2 scaling, ZK proofs, and decentralization",
+        content: [
+          "EthCC stages are traditionally where Ethereum core developers debate roadmap milestones, from data availability sampling and statelessness to post-quantum cryptography. Founders and researchers from Arbitrum, Optimism, zkSync, Starknet, Base, and Ethereum Foundation researchers routinely debut research papers and protocol updates here.",
+          "The hall discussions between sessions are where cross-client benchmarks are debated and multi-rollup interoperability standards are agreed upon.",
+        ],
+      },
+      {
+        heading: "Decentralized side events and hacker houses",
+        content: [
+          "The week surrounding EthCC features over 200 independently organized side events: DeFi summits, ZK hackdays, MEV researcher brunches, and developer unconferences. Rather than being confined to the main venue, participants move between coastal villas, yachts, and beach venues for intimate networking.",
+        ],
+      },
+    ],
+  },
+
+  ethdam: {
+    summaryLead:
+      "ETHDam returns to Pakhuis de Zwijger in Amsterdam as the Netherlands' flagship Ethereum hackathon and conference, hosted annually by CryptoCanal. The event has carved out a distinct identity by focusing intensely on privacy-preserving technologies, zero-knowledge proofs, security auditing, and decentralized artificial intelligence, attracting European and global cypherpunks and cryptographers.",
+    expectedAttendance: "1,000+ privacy researchers, cryptographers, and EVM engineers",
+    sections: [
+      {
+        heading: "Privacy, security, and cypherpunk ethos",
+        content: [
+          "In an era of rising compliance and surveillance, ETHDam is passionately dedicated to privacy as a fundamental human right. Talks and hackathon bounties highlight privacy pools, stealth addresses, zero-knowledge state proofs, and confidential smart contracts.",
+          "CryptoCanal, the grassroots education and community organization behind ETHDam, maintains a strictly vetted, builder-first atmosphere where open debate and cypherpunk ideals are celebrated.",
+        ],
+      },
+      {
+        heading: "The Pakhuis de Zwijger venue experience",
+        content: [
+          "Pakhuis de Zwijger is a former refrigerated warehouse on Amsterdam's Eastern Docklands (Oostelijke Handelskade) converted into a multi-story cultural and debate center. With brick industrial architecture, multiple theater auditoriums, and canal-side outdoor decks, it offers one of the most distinctive event atmospheres in Europe.",
+          "The venue is easily accessed via Tram 26 from Amsterdam Centraal Station (a 7-minute ride to the Kattenburgerstraat stop) or a scenic 15-minute bike ride along the IJ waterfront.",
+        ],
+      },
+      {
+        heading: "The 48-hour builder hackathon",
+        content: [
+          "Half of the ETHDam venue is dedicated to the hackathon floor, where developers, cryptographers, and UI designers build prototypes over 48 hours. Bounties from major privacy networks and Ethereum protocols reward functional tools that preserve user autonomy and resist censorship.",
+        ],
+      },
+    ],
+  },
+
+  ethprague: {
+    summaryLead:
+      "ETHPrague gathers builders, cryptographers, and protocol researchers at Prague's historic Municipal House (Obecní dům) for three days of conference talks, workshops, and intensive hacking. Positioned deliberately as a cypherpunk unconference and hackathon, ETHPrague explores the frontiers of Ethereum scalability, censorship resistance, localism, and cryptographic primitives without corporate sponsorship noise.",
+    expectedAttendance: "1,500+ builders, cryptographers, and researchers",
+    sections: [
+      {
+        heading: "Prague's cypherpunk heritage",
+        content: [
+          "Prague has deep historical roots in digital privacy and cypherpunk counterculture, being the home of the world's first Bitcoin mining pool (Slush Pool), the first hardware wallet (Trezor), and Paralelní Polis, the famous crypto-anarchy cultural center. ETHPrague honors that lineage with an agenda focused uncompromisingly on freedom technology, privacy, and censorship resistance.",
+          "Speakers avoid sales pitches; instead, presentations emphasize cryptographic proofs, decentralized governance failures, and practical mechanisms for surviving state-level network disruptions.",
+        ],
+      },
+      {
+        heading: "The Municipal House setting & venue logistics",
+        content: [
+          "Obecní dům is one of Prague's most celebrated Art Nouveau architectural treasures, located right in the center of the Old Town (Staré Město) next to the Powder Tower. Attendees hack and collaborate beneath ornate frescoed ceilings, stained glass, and marble colonnades, creating a surreal juxtaposition of cutting-edge cryptography within 20th-century architectural elegance.",
+          "The Náměstí Republiky metro station (Line B) is directly outside, connecting quickly to Prague's main train station (Hlavní nádraží) and Václav Havel Airport via transit.",
+        ],
+      },
+      {
+        heading: "Builder hackathon and technical deep dives",
+        content: [
+          "ETHPrague runs a competitive 48-hour hackathon alongside the main stages, with teams building tools for zero-knowledge privacy, decentralized identity, and autonomous coordination. Mentors from across the European Ethereum ecosystem provide round-the-clock guidance.",
+          "Prague's affordability, world-class public transit, and walkable historic center make it one of the favorite stops on the European hacker circuit.",
+        ],
+      },
+    ],
+  },
 };
