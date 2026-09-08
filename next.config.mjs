@@ -123,6 +123,7 @@ const nextConfig = {
       { source: '/logo/hashtagweb3.png', destination: '/logo/HashtagWeb3.png' },
       { source: '/feed-aggregator.xml', destination: '/jobs/feed-aggregator.xml' },
       { source: '/adzuna.xml', destination: '/jobs/adzuna.xml' },
+      { source: '/logo-bimi.svg', destination: '/logo-bimi.svg' },
       {
         source: '/api/v1/:path*',
         destination: '/api/:path*',
