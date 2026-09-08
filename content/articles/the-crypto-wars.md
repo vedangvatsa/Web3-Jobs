@@ -58,57 +58,98 @@ In 1991, software engineer Phil Zimmermann released Pretty Good Privacy (PGP), b
   </svg>
 </div>
 
-At the time, the US government classified encryption software with key lengths over 40 bits as munitions under the International Traffic in Arms Regulations (ITAR).
+At the time, US export regulations under the International Traffic in Arms Regulations (ITAR) classified encryption algorithms with key lengths exceeding 40 bits as auxiliary military equipment.
 
-When PGP spread across the internet, federal prosecutors launched a three-year criminal investigation into Zimmermann for exporting munitions without a license.
+When Zimmermann published PGP on the internet, federal prosecutors launched a criminal investigation into whether distributing encryption software constituted illegal arms exporting without a State Department license.
 
-To highlight the contradiction in export laws, activists printed the full PGP source code into a paper book—titled [PGP Source Code and Internals](https://www.mit.edu/afs/net/user/tytso/git/pgp/doc/pgp-legal.txt)—and shipped the book overseas. Under First Amendment law, exporting printed books was protected free speech, demonstrating the legal difficulty of treating source code as physical weaponry.
-
----
-
-## 2. The Landmark Ruling: Bernstein v. United States
-
-The legal breakthrough for software freedom arrived in the landmark case [Bernstein v. United States (176 F.3d 1132)](https://mira.dkuug.dk/bernstein/).
-
-Daniel J. Bernstein, a mathematics graduate student at UC Berkeley, wished to publish his encryption algorithm, Snuffle, alongside its source code and academic paper. The Department of State informed him that he must register as an arms dealer before publishing.
-
-Supported by the Electronic Frontier Foundation (EFF), Bernstein sued the government. In 1999, the Ninth Circuit Court of Appeals ruled that **source code is speech protected by the First Amendment**:
-
-> "Language designed for communication with computers is no less entitled to First Amendment protection than language designed for communication with human beings."
-
-This precedent established that writing and publishing cryptographic software is protected under constitutional speech rights.
+To highlight the contradiction in export laws, civil liberties advocates printed the full PGP source code into a physical book titled [PGP Source Code and Internals](https://www.mit.edu/afs/net/user/tytso/git/pgp/doc/pgp-legal.txt) and exported it. Under First Amendment case law, exporting printed books was protected speech, exposing the legal difficulty of classifying source code as physical weaponry.
 
 ---
 
-## 3. Crypto Wars 2.0: Smart Contracts and Sanctions
+## 2. Bernstein v. United States: The Speech Precedent
 
-Twenty-five years after the Bernstein ruling, legal friction re-emerged over decentralized smart contracts.
+The legal status of computer software was established in the landmark case [Bernstein v. United States (176 F.3d 1132)](https://mira.dkuug.dk/bernstein/).
 
-In August 2022, the US Department of the Treasury's Office of Foreign Assets Control (OFAC) added immutable smart contract addresses associated with Tornado Cash to the Specially Designated Nationals (SDN) list.
+In 1995, Daniel J. Bernstein, a mathematics graduate student at UC Berkeley, developed an encryption algorithm named Snuffle. When he sought to publish the source code and an accompanying academic paper, the State Department informed him that he must register as an international arms dealer.
+
+Represented by the Electronic Frontier Foundation (EFF), Bernstein sued the federal government. In 1999, the Ninth Circuit Court of Appeals ruled that **source code is speech protected by the First Amendment**:
+
+> "Source code is an expressive means for communicating ideas... The fact that a medium of expression has functional capacity does not strip it of First Amendment protection... Source code is speech."
+
+This precedent established that writing and publishing cryptographic algorithms is protected under constitutional speech protections.
+
+---
+
+
+
+---
+
+## 3. Strict Scrutiny and First Amendment Jurisprudence
+
+The legal classification of source code as speech under *Bernstein v. US* established that restrictions on publishing software are subject to **strict scrutiny** - the highest standard of constitutional judicial review.
+
+Under First Amendment jurisprudence:
+
+1. **Content-Based Restrictions:** Laws that prohibit specific types of software (such as zero-knowledge privacy code or smart contract mixers) based on the functional outcome of the code are presumed unconstitutional unless the government proves the restriction is narrowly tailored to achieve a compelling state interest.
+2. **Prior Restraint Doctrine:** Requiring developers to obtain administrative approval or register with government agencies before publishing open-source code constitutes an unconstitutional prior restraint on expression.
+
+As legal scholar Orin Kerr noted in his analysis of computer crime laws, attempting to regulate software distribution by banning text files creates severe constitutional conflicts, as human-readable source code serves as an educational medium for computer science research.
+
+
+## 4. Crypto Wars 2.0: Smart Contracts and IEEPA Sanctions
+
+Twenty-five years after the Bernstein ruling, legal friction re-emerged over autonomous smart contracts.
+
+In August 2022, the US Department of the Treasury's Office of Foreign Assets Control (OFAC) designated immutable smart contract addresses associated with Tornado Cash to the Specially Designated Nationals (SDN) list under executive order authority.
 
 ```
-Comparison of Cryptographic Legal Disputes:
+Comparative Matrix of Cryptographic Legal Disputes:
 
   Crypto Wars 1.0 (1990s):
-  - ITAR export control restrictions
-  - PGP criminal investigation
-  - Outcome: Bernstein ruling establishes source code as protected speech
+  - Primary Mechanism: ITAR export control enforcement
+  - Target: Distribution of desktop encryption executables (PGP)
+  - Legal Issue: Can the government restrict exporting code as a weapon?
+  - Outcome: Bernstein ruling establishes source code as protected 1st Amendment speech
 
   Crypto Wars 2.0 (2020s):
-  - OFAC SDN list designation of smart contract addresses
-  - Tornado Cash developer prosecution
-  - Active dispute: Can non-person immutable code be sanctioned?
+  - Primary Mechanism: OFAC SDN sanctions under IEEPA
+  - Target: Autonomous, unalterable smart contract bytecodes on Ethereum
+  - Legal Issue: Can government sanctions apply to non-person software code?
+  - Outcome: Active litigation in federal circuit courts (Van Loon v. Treasury)
 ```
 
-Civil rights advocates and legal scholars filed suit in cases like *Van Loon v. Treasury*, arguing that OFAC exceeded its statutory authority under the International Emergency Economic Powers Act (IEEPA), which allows sanctioning property owned by foreign persons or entities—not autonomous, unalterable software code.
+Legal organizations filed suit in [Van Loon v. Treasury](https://www.coincenter.org), arguing that OFAC exceeded its statutory authority under the International Emergency Economic Powers Act (IEEPA). 
 
-The legal resolution of these cases will define whether writing and deploying open-source financial software remains protected under free speech principles.
+IEEPA allows the executive branch to sanction property owned by foreign nationals or corporate entities. Opponents argued that autonomous, unalterable smart contract code deployed on a public blockchain is not a person or property, but open-source software.
 
 ---
 
-## 4. Reference Index (10 Primary Sources)
+## 5. The First Amendment Implications of Immutable Bytecode
 
-1. **Zimmermann, P. (1991):** [PGP Official Documentation and Source Code](https://www.mit.edu/afs/net/user/tytso/git/pgp/doc/pgp-legal.txt).
+The outcome of Crypto Wars 2.0 centres on whether deploying code to a decentralized network alters its status as protected expression.
+
+Legal scholars argue that smart contracts represent two distinct components:
+
+1. **The Source Code (Human Readable):** Written in Solidity or Rust, explaining the computational logic. Under *Bernstein v. US*, this text is protected speech.
+2. **The Compiled Bytecode (Machine Executable):** Deployed to an open blockchain EVM. Because bytecode executes deterministically without human intervention, sanctioning the bytecode directly restricts users from interacting with published software text.
+
+If courts allow administrative agencies to ban public interaction with open-source software, the precedent could extend beyond privacy protocols to decentralized finance, cross-chain bridges, and peer-to-peer data relays.
+
+---
+
+## 6. Protecting Open Source Development
+
+The ongoing legal battles over zero-knowledge privacy protocols demonstrate that the boundary between speech and regulation remains active.
+
+As cryptographic tools advance, the legal framework established in the 1990s continues to serve as a key precedent: writing, publishing, and distributing open-source code remains a fundamental exercise of free expression.
+
+Maintaining clear legal protections for developers ensures that open-source privacy research can continue advancing across open networks.
+
+---
+
+## 7. Reference Index (10 Primary Sources)
+
+1. **Zimmermann, P. (1991):** [PGP Official Documentation and Source Code Archives](https://www.mit.edu/afs/net/user/tytso/git/pgp/doc/pgp-legal.txt).
 2. **Ninth Circuit Court of Appeals (1999):** [Bernstein v. United States (176 F.3d 1132)](https://mira.dkuug.dk/bernstein/).
 3. **Crypto Anarchy Wiki:** [Crypto Wars Historical Archive](https://cryptoanarchy.wiki/events/90s-crypto-wars).
 4. **Electronic Frontier Foundation (1999):** [Bernstein Litigation Archive](https://www.eff.org/cases/bernstein-v-us).
