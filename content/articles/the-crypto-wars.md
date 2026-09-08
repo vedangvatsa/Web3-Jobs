@@ -175,17 +175,3 @@ The resolution of Crypto Wars 2.0 will determine whether digital privacy tools r
 
 Software developers, legal scholars, and civil liberties advocates continue to push for explicit legislative protections for open-source protocol authors. Ensuring that non-custodial developers are protected from administrative overreach is essential for maintaining technological innovation, scientific inquiry, and individual digital rights in the 21st century.
 
----
-
-## 6. Reference Index (10 Primary Sources)
-
-1. **Zimmermann, P. (1991):** [PGP Official Documentation and Source Code Archives](https://www.mit.edu/afs/net/user/tytso/git/pgp/doc/pgp-legal.txt). Phil Zimmermann's PGP export investigation documentation.
-2. **Ninth Circuit Court of Appeals (1999):** [Bernstein v. United States (176 F.3d 1132)](https://mira.dkuug.dk/bernstein/). Landmark ruling establishing source code as protected speech.
-3. **Crypto Anarchy Wiki:** [Crypto Wars Historical Archive](https://cryptoanarchy.wiki/#events). Chronological analysis of cryptographic export control disputes.
-4. **Electronic Frontier Foundation (1999):** [Bernstein Litigation Archive](https://www.eff.org/cases/bernstein-v-us). Court transcripts and legal filings from the Bernstein case.
-5. **US Department of the Treasury (2022):** [OFAC Sanctions Action on Tornado Cash](https://home.treasury.gov). Administrative designation of smart contract addresses.
-6. **Fifth Circuit Court of Appeals (2024):** [Van Loon v. Department of the Treasury Briefs](https://www.coincenter.org). Appeals court filings challenging smart contract sanctions.
-7. **May, T. C. (1994):** [The Cyphernomicon Crypto FAQ](https://www.cypherpunks.to/faq/cyphernomicron/cyphernomicon.html). Comprehensive overview of early cypherpunk legal arguments.
-8. **Diffie, W. & Hellman, M. (1976):** [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf). IEEE Transactions on Information Theory.
-9. **Kerr, O. S. (2003):** [Computer Crime Law and First Amendment Protections](https://www.law.berkeley.edu). Analysis of software expression under US law.
-10. **Coin Center (2023):** [Analysis of Smart Contract Sanctions under IEEPA](https://www.coincenter.org). Legal analysis of smart contract code restrictions.

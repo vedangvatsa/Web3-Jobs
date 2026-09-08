@@ -319,17 +319,3 @@ In a follow-up experiment documented in the [Simplex-TDA Predictive Validation R
 - **Protocol Risk Management:** Lending protocols like [Aave](https://aave.com) and [Compound](https://compound.finance) can use real-time `highInput` Wasserstein distance monitoring to adjust collateral factors dynamically before liquidation cascades trigger.
 - **Forensic Security:** Exchange security teams can track `medInput` structural loops to detect unauthorized cold-storage fund laundering in real time.
 
----
-
-## 7. Reference Index (10 Primary Sources)
-
-1. **Prasma, M. & Keller, U. Y. (2025):** *"The Shape of Ethereum: A Six-Year Study of Topological Anomalies."* [ethresear.ch Post #25902](https://ethresear.ch/t/the-shape-of-ethereum-a-six-year-study-of-topological-anomalies/25902).
-2. **Simplex-TDA (2025):** *"ETH Anomaly Detection Full Technical Specification."* [Simplex-TDA GitHub Repository](https://github.com/Simplex-TDA/ETH-Anomaly-Detection/blob/main/Article/Shape_of_Ethereum-Full_Article.md).
-3. **Simplex-TDA (2025):** *"Predictive Validation and Volatility Experiment."* [Predictive Validation Module](https://github.com/Simplex-TDA/ETH-Anomaly-Detection/tree/main/predictive-validation).
-4. **Ofori-Boateng, R. et al. (2021):** *"Topological Anomaly Detection in Dynamic Multilayer Blockchain Networks."* [arXiv:2106.01806](https://arxiv.org/abs/2106.01806).
-5. **Glassnode Research (2020):** *"What Really Happened to MakerDAO on Black Thursday."* [Glassnode Insights](https://insights.glassnode.com/what-really-happened-to-makerdao/).
-6. **MakerDAO Governance (2020):** *"Black Thursday Formal Response & Post-Mortem."* [MakerDAO Forum Log](https://forum.makerdao.com/t/black-thursday-response-next-steps/1701).
-7. **Celsius Network (2022):** *"Official Memo to the Celsius Community on Withdrawal Pause."* [Celsius Medium Announcement](https://celsiusnetwork.medium.com/a-memo-to-the-celsius-community-591286a9da76).
-8. **CoinDesk Research (2025):** *"Bybit Hacked for $1.46B in Largest Crypto Theft in History."* [CoinDesk Article](https://www.coindesk.com/business/2025/02/21/bybit-hacked-for-14b-in-largest-crypto-heist/).
-9. **U.S. Securities and Exchange Commission (2023):** *"iShares Bitcoin Trust Registration Statement (Form S-1)."* [SEC EDGAR Filing](https://www.sec.gov/edgar/browse/?CIK=0001980994).
-10. **Ethereum Foundation (2022):** *"The Merge Protocol Upgrade Documentation."* [Ethereum.org Roadmap](https://ethereum.org/en/roadmap/merge/).

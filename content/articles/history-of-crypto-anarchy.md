@@ -207,17 +207,3 @@ As long as open data networks exist, the cypherpunk imperative to build sovereig
 
 By embedding cryptographic guarantees directly into code, developers build persistent software networks that operate outside central control, safeguarding digital rights for future generations.
 
----
-
-## 7. Reference Index (10 Primary Sources)
-
-1. **Diffie, W. & Hellman, M. (1976):** [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf). IEEE Transactions on Information Theory.
-2. **Chaum, D. (1981):** [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](https://nakamotoinstitute.org/untaceable-electronic-mail/). Communications of the ACM.
-3. **May, T. C. (1988):** [The Crypto Anarchist Manifesto](https://nakamotoinstitute.org/virtual-community-and-crypto-anarchy/). High Tech Freedom Foundation.
-4. **Hughes, E. (1993):** [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html). Cypherpunk Mailing List Archives.
-5. **Back, A. (1997):** [Hashcash - A Denial of Service Counter-Measure](https://www.hashcash.org/papers/hashcash.pdf).
-6. **Dai, W. (1998):** [B-Money Proposal](https://www.weidai.com/bmoney.txt). Cypherpunk Mailing List Archives.
-7. **Szabo, N. (1998):** [Bit Gold Architecture](https://nakamotoinstitute.org/bit-gold/). Satoshi Nakamoto Institute Archives.
-8. **Nakamoto, S. (2008):** [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf). Cryptography Mailing List.
-9. **Szabo, N. (1997):** [Formalizing and Securing Relationships on Public Networks](https://nakamotoinstitute.org/formalizing-securing-relationships/). First Smart Contracts Paper.
-10. **Crypto Anarchy Wiki:** [Comprehensive History of Cypherpunk Projects](https://cryptoanarchy.wiki/#events).

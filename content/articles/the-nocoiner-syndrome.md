@@ -169,17 +169,3 @@ By providing an alternative monetary standard, open-source protocols ensure that
 
 Understanding this economic shift empowers individuals to navigate changing financial systems with confidence, autonomy, and long-term financial clarity. Open monetary networks demonstrate that mathematical code can serve as a neutral, global foundation for human collaboration.
 
----
-
-## 6. Reference Index (10 Primary Sources)
-
-1. **Crypto Anarchy Institute (2024):** [The Nocoiner Syndrome Research Paper](https://cryptoanarchy.institute/nocoiner-syndrome-2024.pdf).
-2. **Cantillon, R. (1755):** [Essay on the Nature of Trade in General](https://mises.org/library/essay-nature-trade-general).
-3. **Ammous, S. (2018):** [The Bitcoin Standard: The Decentralized Alternative to Central Banking](https://saifedean.com/the-bitcoin-standard/).
-4. **Federal Reserve Bank of St. Louis:** [M2 Money Supply Database (M2SL)](https://fred.stlouisfed.org/series/M2SL).
-5. **Nakamoto, S. (2008):** [Bitcoin: A Peer-to-Peer Electronic Cash System](https://bitcoin.org/bitcoin.pdf).
-6. **Crypto Anarchy Wiki:** [Monetary Theory and Cypherpunk History](https://cryptoanarchy.wiki/#events).
-7. **Hayek, F. A. (1976):** [Denationalisation of Money: The Argument Refined](https://mises.org/library/denationalisation-money-argument-refined).
-8. **Szabo, N. (2005):** [Bit Gold Protocol Specification](https://nakamotoinstitute.org/bit-gold/).
-9. **Mises, L. v. (1912):** [The Theory of Money and Credit](https://mises.org/library/theory-money-and-credit).
-10. **Breedlove, R. (2020):** [The Masters and Slaves of Money](https://medium.com).

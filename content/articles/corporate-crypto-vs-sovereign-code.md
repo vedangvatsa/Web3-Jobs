@@ -194,17 +194,3 @@ Ultimately, the duality of corporate crypto and sovereign code reflects the ongo
 
 By continuing to innovate at the base protocol layer, developers ensure that public blockchains remain open to everyone, anywhere in the world, without requiring permission from centralized corporate gatekeepers.
 
----
-
-## 6. Reference Index (10 Primary Sources)
-
-1. **Crypto Anarchy Institute (2024):** [The Nocoiner Syndrome Research Paper](https://cryptoanarchy.institute/nocoiner-syndrome-2024.pdf). Academic study on crypto-skepticism and institutional financialization.
-2. **Crypto Anarchy Wiki:** [Bitcoin Scaling and Governance Battles](https://cryptoanarchy.wiki/#events). Comprehensive documentation of network decentralization disputes.
-3. **Flashbots Research Team (2022):** [MEV-Boost Open Source Specification](https://flashbots.net). Architecture of block construction and relay decentralization.
-4. **Nakamoto, S. (2008):** [Bitcoin Self-Custody and Node Verification](https://bitcoin.org/bitcoin.pdf). Bitcoin: A Peer-to-Peer Electronic Cash System.
-5. **Ethereum Foundation (2022):** [Proof of Stake Architecture Docs](https://ethereum.org/en/developers/docs/consensus-mechanisms/pos/). Detailed documentation on proof of stake validators.
-6. **U.S. Securities and Exchange Commission (2024):** [Spot Bitcoin ETF Approval Orders](https://www.sec.gov). Official regulatory approval filings for spot asset funds.
-7. **Buterin, V. (2021):** [Endgame Protocol Decentralization Roadmap](https://vitalik.eth.limo/general/2021/12/06/endgame.html). Long-term architecture vision for blockchain decentralization.
-8. **Coin Center (2022):** [Analysis of Node Operator and Validator Regulations](https://www.coincenter.org). Legal analysis of cryptocurrency validator obligations.
-9. **L2Beat Research Team (2024):** [Layer 2 Decentralization and Sequencer Analysis](https://l2beat.com). Empirical security and centralization metrics for rollups.
-10. **Ammous, S. (2018):** [The Bitcoin Standard: Financial Sovereignty](https://saifedean.com). Economic analysis of sovereign monetary properties.

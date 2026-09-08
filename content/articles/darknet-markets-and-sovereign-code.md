@@ -187,17 +187,3 @@ By decoupling commercial coordination from physical web servers and central fina
 
 The broader societal implications of these technical developments extend far beyond informal marketplaces. The underlying cryptographic protocols engineered to enable sovereign darknet commerce now power censor-resistant communications for journalists in authoritarian regimes, non-custodial remittance networks for unbanked populations, and privacy-preserving payment rails for global trade. Modern privacy tools demonstrate that mathematical code, once published, operates independently of geography, legal jurisdiction, or centralized control.
 
----
-
-## 6. Reference Index (10 Primary Sources)
-
-1. **Chaum, D. (1981):** [Untraceable Electronic Mail, Return Addresses, and Digital Pseudonyms](https://nakamotoinstitute.org/untaceable-electronic-mail/). Communications of the ACM.
-2. **Syverson, P., Reed, M. & Goldschlag, D. (1996):** [Anonymous Connections and Onion Routing](https://www.torproject.org). IEEE Symposium on Security and Privacy.
-3. **Crypto Anarchy Wiki:** [Silk Road and Darknet Events Archive](https://cryptoanarchy.wiki/#events). Historical documentation of darknet marketplaces and cryptographic privacy protocols.
-4. **United States District Court (2015):** [United States v. Ross Ulbricht Case Exhibits](https://www.justice.gov). Official court documentation and operational metrics of Silk Road.
-5. **Szabo, N. (1997):** [Formalizing and Securing Relationships on Public Networks](https://nakamotoinstitute.org/formalizing-securing-relationships/). First Formalization of Smart Contracts and Automated Escrow.
-6. **JoinMarket Developers (2015):** [JoinMarket CoinJoin Implementation Specification](https://github.com/JoinMarket-ORG/joinmarket-clientserver). Decentralized privacy pool protocol for Bitcoin UTXOs.
-7. **Fiatjaf (2020):** [Nostr Protocol Basic Specification (NIP-01)](https://github.com/nostr-protocol/nips). Simple, open protocol that enables global, decentralized, censorship-resistant messaging.
-8. **Nakamoto, S. (2008):** [Bitcoin Multi-signature Script Engine](https://bitcoin.org/bitcoin.pdf). Bitcoin: A Peer-to-Peer Electronic Cash System.
-9. **Back, A. et al. (2014):** [Enabling Blockchain Innovations with Pegged Sidechains](https://blockstream.com/sidechains.pdf). Technical foundations for off-chain privacy and multi-asset escrow.
-10. **OpenBazaar Team (2016):** [Decentralized Peer-to-Peer Marketplace Protocol](https://openbazaar.org). Technical architecture of serverless P2P e-commerce networks.
