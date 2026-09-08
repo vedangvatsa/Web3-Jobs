@@ -425,12 +425,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <main className="flex-1 pb-16">
             <div className="container mx-auto px-4 py-8 max-w-6xl space-y-10">
               {/* Header Block */}
-              <header className="space-y-4 max-w-3xl">
-                <h1 className="text-3xl sm:text-4xl font-extrabold tracking-tight text-foreground leading-tight">
+              <header className="space-y-4 max-w-3xl mx-auto text-center">
+                <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-tight">
                   {event.name}
                 </h1>
 
-                <div className="flex flex-wrap items-center gap-y-2 gap-x-4 text-sm text-muted-foreground">
+                <div className="flex flex-wrap items-center justify-center gap-y-2 gap-x-4 text-sm text-muted-foreground">
                   <div className="flex items-center gap-1.5 font-medium text-foreground">
                     <Calendar className="h-4 w-4 text-muted-foreground" />
                     <span>{formatEventDate(event.startDate, event.endDate)}</span>
@@ -443,7 +443,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 </div>
 
                 {/* Action Buttons */}
-                <div className="flex flex-wrap items-center gap-3 pt-2">
+                <div className="flex flex-wrap items-center justify-center gap-3 pt-2">
                   <Button asChild size="default" className="rounded-lg font-medium gap-2">
                     <a
                       href={event.url}
