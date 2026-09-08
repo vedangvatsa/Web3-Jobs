@@ -11,5 +11,5 @@ export function TrustedBy() {
     { name: 'Circle', src: '/logo/companies/circle.png' },
   ];
 
-  return <LogoStrip title="Jobs from companies like:" logos={logos} />;
+  return <LogoStrip title="From companies like:" logos={logos} />;
 }
