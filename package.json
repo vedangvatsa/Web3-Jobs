@@ -26,7 +26,8 @@
   ],
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true && npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true",
+    "prebuild": "npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true && npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true",
+    "check:collisions": "npx tsx scripts/check-slug-collisions.ts",
     "ingest:all": "npx tsx scripts/ingest-all.ts",
     "ingest:mercuryo": "npx tsx scripts/ingest-mercuryo-bamboo.ts",
     "ingest:coindcx": "npx tsx scripts/ingest-coindcx-official.ts",
