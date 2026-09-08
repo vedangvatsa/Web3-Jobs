@@ -2,7 +2,7 @@
   "$schema": "https://schema.org/sitemap",
   "name": "Hashtag Web3",
   "url": "https://hashtagweb3.com",
-  "generatedAt": "2026-09-08T12:54:47.897Z",
+  "generatedAt": "2026-09-08T12:55:41.940Z",
   "publisher": {
     "name": "Hashtag Web3",
     "url": "https://hashtagweb3.com"
@@ -21892,6 +21892,12 @@
       "priority": 0.6
     },
     {
+      "url": "https://hashtagweb3.com/shape-of-ethereum",
+      "lastmod": "2026-04-27",
+      "changefreq": "monthly",
+      "priority": 0.7
+    },
+    {
       "url": "https://hashtagweb3.com/sharding",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
@@ -22847,12 +22853,6 @@
     },
     {
       "url": "https://hashtagweb3.com/the-role-of-web3-technical-writers-in-blockchain-projects",
-      "lastmod": "2026-04-27",
-      "changefreq": "monthly",
-      "priority": 0.7
-    },
-    {
-      "url": "https://hashtagweb3.com/the-shape-of-ethereum-topological-anomaly-detection",
       "lastmod": "2026-04-27",
       "changefreq": "monthly",
       "priority": 0.7
