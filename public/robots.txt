@@ -152,7 +152,6 @@ Disallow: /
 
 Sitemap: https://hashtagweb3.com/sitemap.xml
 Sitemap: https://hashtagweb3.com/.well-known/sitemap.json
-Sitemap: https://hashtagweb3.com/sitemap.json
 Agents-txt: https://hashtagweb3.com/agents.txt
 schemamap: https://hashtagweb3.com/schemamap.xml
 # Job Feeds (RSS / XML Aggregator / JSON Feed)

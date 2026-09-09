@@ -74,15 +74,15 @@ async function main() {
     fs.mkdirSync(wellKnownDir, { recursive: true });
   }
 
+  // Single copy only: /.well-known/sitemap.json. The /sitemap.json route
+  // serves this same file (see src/app/sitemap.json/route.ts), so writing
+  // a duplicate 639KB root copy was pure bloat.
   const wellKnownPath = path.join(wellKnownDir, 'sitemap.json');
-  const rootSitemapPath = path.join(publicDir, 'sitemap.json');
 
   fs.writeFileSync(wellKnownPath, content, 'utf8');
-  fs.writeFileSync(rootSitemapPath, content, 'utf8');
 
   console.log(`[sitemap-json] Successfully generated ${sitemapData.urls.length} URLs in:`);
   console.log(`  -> ${wellKnownPath} (${(Buffer.byteLength(content, 'utf8') / 1024).toFixed(1)} KB)`);
-  console.log(`  -> ${rootSitemapPath} (${(Buffer.byteLength(content, 'utf8') / 1024).toFixed(1)} KB)`);
 }
 
 if (require.main === module) {
