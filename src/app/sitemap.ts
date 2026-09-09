@@ -109,6 +109,12 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.8,
  },
  {
+  url: `${siteUrl}/auth`,
+  lastModified: new Date(),
+  changeFrequency: 'monthly',
+  priority: 0.7,
+ },
+ {
   url: `${siteUrl}/api-policy`,
   lastModified: new Date(),
   changeFrequency: 'monthly',

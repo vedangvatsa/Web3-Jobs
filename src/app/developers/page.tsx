@@ -9,6 +9,26 @@ import { PageShell } from '@/components/page-shell';
 
 export const revalidate = 86400; // 24 hours
 
+export const metadata: Metadata = {
+  title: 'API Docs & Developer Portal',
+  description: 'Hashtag Web3 developer portal: REST API reference, OpenAPI 3.1 specs, MCP servers, SDKs, CLI, and agent integration guides.',
+  alternates: {
+    canonical: 'https://hashtagweb3.com/developers',
+  },
+  openGraph: {
+    title: 'API Docs & Developer Portal',
+    description: 'Hashtag Web3 developer portal: REST API reference, OpenAPI 3.1 specs, MCP servers, SDKs, CLI, and agent integration guides.',
+    url: 'https://hashtagweb3.com/developers',
+    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Developer%20Portal', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'API Docs & Developer Portal',
+    description: 'Hashtag Web3 developer portal: REST API reference, OpenAPI 3.1 specs, MCP servers, SDKs, CLI, and agent integration guides.',
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Developer%20Portal'],
+  },
+};
+
 export default function DevelopersPage() {
   const schemaData = {
     '@context': 'https://schema.org',
