@@ -33,15 +33,33 @@ const JUNK_LOCATION = new Set([
   "flexible",
 ]);
 
-function normalizeLocation(raw?: string): string | null {
-  const loc = (raw || "").trim().replace(/\s+/g, " ");
+function normalizeLocation(raw?: unknown): string | null {
+  const loc = asText(raw).trim().replace(/\s+/g, " ");
   if (!loc) return null;
   if (JUNK_LOCATION.has(loc.toLowerCase())) return null;
   return loc;
 }
 
-function escapeXml(unsafe: string): string {
-  return (unsafe || "")
+function asText(value: unknown): string {
+  if (typeof value === 'string') return value;
+  if (value === null || value === undefined) return '';
+  try {
+    return String(value);
+  } catch {
+    return '';
+  }
+}
+
+function departmentOf(job: Job): string {
+  const dept = typeof job.department === 'string'
+    ? job.department
+    : (job.department as unknown as { name?: unknown } | null)?.name;
+  const text = asText(dept).trim();
+  return text || 'Web3 / Crypto';
+}
+
+function escapeXml(unsafe: unknown): string {
+  return asText(unsafe)
     .replace(/&/g, "&amp;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;")
@@ -98,9 +116,9 @@ function buildItem(job: Job, siteUrl: string, nowRfc822: string): string {
   const url = `${siteUrl}/${slug}`;
   const time = toTime(job.date);
   const pubDate = time ? new Date(time).toUTCString() : nowRfc822;
-  const title = `${job.title} at ${job.company}`;
+  const title = `${asText(job.title)} at ${asText(job.company)}`;
   const location = normalizeLocation(job.location);
-  const department = (job.department || "Web3 / Crypto").trim() || "Web3 / Crypto";
+  const department = departmentOf(job);
   // Stable, non-URL guid so slug rebakes never duplicate items downstream.
   const guid = `hashtagweb3:${job.id}`;
 
