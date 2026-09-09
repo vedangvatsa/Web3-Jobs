@@ -21,7 +21,10 @@ export async function GET() {
       },
     });
   } catch {
-    return NextResponse.json({ error: 'MCP documentation server card not found' }, { status: 404 });
+    return NextResponse.json(
+      { error: { code: 'NOT_FOUND', message: 'MCP documentation server card not found.', hint: 'Use POST /api/mcp-docs for JSON-RPC.', docUrl: 'https://hashtagweb3.com/developers' } },
+      { status: 404, headers: { 'Access-Control-Allow-Origin': '*' } }
+    );
   }
 }
 
@@ -41,7 +44,10 @@ export async function POST(request: Request) {
   try {
     body = await request.json();
   } catch {
-    return NextResponse.json({ error: 'Invalid JSON' }, { status: 400 });
+    return NextResponse.json(
+      { jsonrpc: '2.0', id: null, error: { code: -32700, message: 'Parse error: invalid JSON.', data: { hint: 'POST valid JSON-RPC 2.0.', docUrl: 'https://hashtagweb3.com/developers' } } },
+      { status: 400, headers: { 'Access-Control-Allow-Origin': '*' } }
+    );
   }
 
   const method = body.method as string;
