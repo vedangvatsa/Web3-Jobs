@@ -128,6 +128,29 @@ export function middleware(request: NextRequest) {
   const pathname = request.nextUrl.pathname;
   const searchParams = request.nextUrl.searchParams;
 
+  // 0. LinkedIn / social link-preview crawlers — serve a minimal OG-only HTML shell.
+  //
+  // LinkedIn's scraper silently fails ("Scraping error") on pages larger than ~120 KB.
+  // Our pages range from 265 KB (homepage) to 511 KB (blog) due to embedded RSC
+  // payloads and job data. We detect social link-preview bots early and return a
+  // tiny HTML document (~2 KB) that contains only the OG/Twitter meta tags.
+  // The bot reads the tags, fetches the og:image directly, and renders the card.
+  // Human visitors and other bots are unaffected.
+  if (!pathname.startsWith('/api') && !pathname.startsWith('/_next') && !pathname.includes('.')) {
+    const ua = request.headers.get('user-agent') || '';
+    const isLinkPreviewBot =
+      /LinkedInBot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|Slackbot-LinkExpanding|Slack-ImgProxy|Twitterbot|WhatsApp|TelegramBot|Discordbot|Pinterestbot|vkShare|Applebot|redditbot|embedly|quora link preview|outbrain|Buffer|bufferbot/i.test(ua);
+
+    if (isLinkPreviewBot) {
+      // Rewrite internally to /api/og-meta which returns a minimal HTML shell.
+      // This route reads the same metadata as the real page but skips the full render.
+      const rewriteUrl = request.nextUrl.clone();
+      rewriteUrl.pathname = '/api/og-meta';
+      rewriteUrl.searchParams.set('path', pathname);
+      return NextResponse.rewrite(rewriteUrl);
+    }
+  }
+
   // Only apply rate limiting to /api/ routes
   if (pathname.startsWith('/api')) {
     const { limit, remaining, reset, isRateLimited } = getRateLimitInfo(request);
