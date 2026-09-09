@@ -87,6 +87,17 @@ jobs:
           echo "Running: npx tsx scripts/social/post-job-openings.ts $ARGS"
           npx tsx scripts/social/post-job-openings.ts $ARGS
 
+      - name: Let scrapers fetch before redeploy
+        # LinkedIn/Meta/X scrape new post URLs within minutes of publishing.
+        # Pushing state triggers an ~8 min App Hosting rollout (cold starts),
+        # so hold here to let scrapers cache the good render first. Without
+        # this wait, every publish is followed ~1 min later by a deploy and
+        # scrapes land on migrating instances -> no preview card (cached ~7d).
+        if: ${{ github.event.inputs.dry_run != 'true' }}
+        run: |
+          echo "Waiting 15 minutes for link-preview scrapes before pushing state (avoids deploy collision)..."
+          sleep 900
+
       - name: Commit and Push Posted State
         if: ${{ github.event.inputs.dry_run != 'true' }}
         run: |
