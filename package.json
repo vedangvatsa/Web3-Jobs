@@ -10,20 +10,11 @@
   "bugs": {
     "url": "https://github.com/vedangvatsa/Web3-Jobs/issues"
   },
-  "private": false,
+  "private": true,
   "publishConfig": {
     "access": "public",
     "registry": "https://registry.npmjs.org/"
   },
-  "bin": {
-    "hashtagweb3": "./bin/hashtagweb3.js"
-  },
-  "main": "./bin/hashtagweb3.js",
-  "files": [
-    "bin/hashtagweb3.js",
-    "src/lib/**/*",
-    "public/openapi.json"
-  ],
   "scripts": {
     "dev": "next dev",
     "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true && npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true",
@@ -41,7 +32,7 @@
     "stamp-dates": "npx tsx scripts/stamp-article-dates.ts",
     "start": "node .next/standalone/server.js",
     "lint": "next lint",
-    "cli": "node bin/hashtagweb3.js",
+    "cli": "node packages/cli/bin/hashtagweb3.js",
     "export:emails": "npx tsx scripts/export-emails.ts",
     "send-alerts": "npx tsx scripts/send-job-alerts.ts",
     "send-new-jobs": "npx tsx scripts/send-new-jobs.ts",
