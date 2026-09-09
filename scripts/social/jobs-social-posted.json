@@ -1,5 +1,5 @@
 {
-  "lastIndex": 126,
+  "lastIndex": 128,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -35,7 +35,9 @@
     "coindcx1789",
     "managerd7ef3",
     "operations45dbf",
-    "frontend6b0d3"
+    "frontend6b0d3",
+    "fullstack8c90c",
+    "marketingecc99"
   ],
   "history": [
     {
@@ -1165,6 +1167,118 @@
       "platform": "facebook",
       "postedAt": "2026-09-09T00:21:57.724Z",
       "postId": "691827047618629_1083505047590063"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "x",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "2097567070292459650"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "17957036058011725"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv2umj3osq2j"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "0xda31171c60396e31e730f9431c8bca89703853c1"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "6aa0f744493bbf8c282c1b69"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "691827047618629_1083718600902041"
+    },
+    {
+      "slug": "fullstack8c90c",
+      "company": "Frontrun.pro",
+      "title": "Fullstack Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-09T06:05:35.035Z",
+      "postId": "17977709802147796"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "x",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "2097567335137620245"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "18388040905160030"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv2uot37tg2e"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "0x0eef7fa4faa1bc2cfa0a3f1c7472a8a1fe64e05c"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "6aa0f7913bd0dd9ef3266a6f"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "691827047618629_1083719430901958"
+    },
+    {
+      "slug": "marketingecc99",
+      "company": "XHunt",
+      "title": "Marketing & Operations Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-09T06:06:38.118Z",
+      "postId": "18473553142117949"
     }
   ]
 }
