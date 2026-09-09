@@ -55,7 +55,7 @@ npm install -g hashtagweb3
 - **PyPI SDK Package (Python)**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/) (Project URL / Home-Page: `https://hashtagweb3.com`)
 - **RubyGems Package (Ruby)**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3) (homepage_uri: `https://hashtagweb3.com`)
 - **Go Module (Go)**: [`github.com/hashtagweb3/sdk`](https://github.com/hashtagweb3/sdk)
-- **Smithery MCP Registry**: [`smithery.ai/server/@hashtagweb3/mcp`](https://smithery.ai/server/@hashtagweb3/mcp)
+- **Smithery MCP Registry**: [`smithery.ai/servers/hi-qiwk/hashtagweb3-mcp`](https://smithery.ai/servers/hi-qiwk/hashtagweb3-mcp)
 - **mcp.so Registry**: [`mcp.so/server/hashtagweb3`](https://mcp.so/server/hashtagweb3)
 - **Agent Plugins Manifest**: [`/.well-known/plugin.json`](https://hashtagweb3.com/.well-known/plugin.json)
 
