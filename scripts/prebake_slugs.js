@@ -226,16 +226,26 @@ const takenSlugs = new Set([...existingSlugs, ...archivedSlugs]);
 
 // identity -> slug from archive first, live entries win ties (restore the
 // live URL when known; resurrect the retired URL when the posting returns).
+// slug -> identity for the archive, to detect newcomers squatting retired slugs.
 const identityToSlug = new Map();
+const archiveIdentityBySlug = new Map();
 for (const [slug, entry] of Object.entries(legacyArchive)) {
   if (!entry) continue;
   const k = getJobIdentity({ id: entry.id, title: entry.title, company: entry.company, link: entry.link });
-  if (k && !identityToSlug.has(k)) identityToSlug.set(k, slug);
+  if (!k) continue;
+  if (!identityToSlug.has(k)) identityToSlug.set(k, slug);
+  if (!archiveIdentityBySlug.has(slug)) archiveIdentityBySlug.set(slug, k);
 }
 for (const job of validJobs) {
   if (!job.slug) continue;
   const k = getJobIdentity(job);
-  if (k) identityToSlug.set(k, job.slug);
+  if (!k) continue;
+  // Skip live entries squatting a retired slug that belongs to someone else:
+  // enshrining them here would cement the collision. They fall through to
+  // reuse-or-mint below and get a slug of their own.
+  const retired = archiveIdentityBySlug.get(job.slug);
+  if (retired && retired !== k) continue;
+  identityToSlug.set(k, job.slug);
 }
 
 // Count existing role counts
@@ -253,8 +263,15 @@ let reused = 0;
 const assignedSlugs = new Set();
 const outputJobs = validJobs.map(job => {
   if (job.slug && !assignedSlugs.has(job.slug)) {
-    assignedSlugs.add(job.slug);
-    return job;
+    const myIdentity = getJobIdentity(job);
+    const retiredIdentity = archiveIdentityBySlug.get(job.slug);
+    // Keep: fresh slug, or rightful restoration (retired slug, same posting).
+    // A newcomer holding a retired slug that belongs to someone else falls
+    // through to reuse-or-mint so history is never overwritten.
+    if (!retiredIdentity || !myIdentity || retiredIdentity === myIdentity) {
+      assignedSlugs.add(job.slug);
+      return job;
+    }
   }
   // Same posting as a previous refresh (matched by employer-URL identity)?
   // Reuse its slug so the URL never churns.

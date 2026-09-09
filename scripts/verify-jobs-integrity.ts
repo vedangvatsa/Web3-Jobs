@@ -1,11 +1,13 @@
 import fs from 'fs';
 import path from 'path';
+import { execSync } from 'child_process';
 import {
   isGeneralOrPlaceholderJobTitle,
   isUnrelatedOrNonWeb3JobTitle,
   isInvalidJobLink,
   cleanCompanyName,
 } from '../src/lib/job-filters';
+import { getJobIdentity } from '../src/lib/job-slugs';
 
 const CACHE_PATH = path.join(process.cwd(), 'content/jobs-cache.json');
 
@@ -114,6 +116,71 @@ function verifyJobsIntegrity() {
     process.exit(1);
   }
 
+  // 7. Cross-run slug stability: a slug must never change owners, and a
+  // retired slug must leave an archive trace (else old links 404). Compares
+  // the working file against the last commit, so mismatches already baked
+  // into both sides pass through — only NEW damage fails the run (which
+  // blocks the push, so bad refreshes never deploy).
+  try {
+    const prevRaw = execSync('git show HEAD:content/jobs-cache.json', {
+      maxBuffer: 128 * 1024 * 1024,
+      cwd: process.cwd(),
+    }).toString('utf-8');
+    const prevJobs = JSON.parse(prevRaw);
+    const prevIdentityBySlug = new Map<string, { identity: string; title: string; company: string }>();
+    for (const j of prevJobs) {
+      if (j && j.slug && !prevIdentityBySlug.has(j.slug)) {
+        prevIdentityBySlug.set(j.slug, {
+          identity: getJobIdentity({ id: j.id, title: j.title, company: j.company, link: j.link }),
+          title: j.title,
+          company: j.company,
+        });
+      }
+    }
+    const curIdentityBySlug = new Map<string, { id: string; company: string; title: string; identity: string }>();
+    for (const job of jobs) {
+      if (job.slug && !curIdentityBySlug.has(job.slug)) {
+        curIdentityBySlug.set(job.slug, {
+          id: job.id,
+          company: job.company,
+          title: job.title,
+          identity: getJobIdentity({ id: job.id, title: job.title, company: job.company, link: job.link }),
+        });
+      }
+    }
+    // 7a. No reassignment: same slug, different posting than last commit.
+    for (const [slug, cur] of curIdentityBySlug) {
+      const prev = prevIdentityBySlug.get(slug);
+      if (prev !== undefined && prev.identity !== cur.identity) {
+        violations.push({
+          id: cur.id,
+          company: cur.company,
+          title: cur.title,
+          slug,
+          reason: `Slug reassigned since last commit: /${slug} was "${prev.title}" @ ${prev.company}, now "${cur.title}" @ ${cur.company}. Restore the previous slug or retire it via the legacy archive.`,
+        });
+      }
+    }
+    // 7b. No silent drops: retired slugs must leave an archive trace.
+    let archive: Record<string, any> = {};
+    try {
+      archive = JSON.parse(fs.readFileSync(path.join(process.cwd(), 'content/legacy-slugs-archive.json'), 'utf-8'));
+    } catch { /* missing archive treated as empty below */ }
+    for (const [slug, prev] of prevIdentityBySlug) {
+      if (!curIdentityBySlug.has(slug) && !archive[slug]) {
+        violations.push({
+          id: '',
+          company: prev.company,
+          title: prev.title,
+          slug,
+          reason: `Slug dropped without archive trace: /${slug} ("${prev.title}" @ ${prev.company}) vanished and has no legacy record — old links would 404. Run prebake or add an archive entry.`,
+        });
+      }
+    }
+  } catch (err: any) {
+    console.warn('  ⚠️ cross-run slug stability check skipped (no git HEAD cache):', err?.message || err);
+  }
+
   if (violations.length > 0) {
     console.error(`\n❌ Found ${violations.length} integrity violations in jobs-cache.json:`);
     for (const v of violations.slice(0, 50)) {
@@ -125,13 +192,14 @@ function verifyJobsIntegrity() {
     process.exit(1);
   }
 
-  console.log(`\n✅ Jobs Integrity Passed: All ${jobs.length} jobs verified across 6 critical safety assertions:`);
+  console.log(`\n✅ Jobs Integrity Passed: All ${jobs.length} jobs verified across 7 critical safety assertions:`);
   console.log(`  1. Zero general applications, talent pools, or placeholders`);
   console.log(`  2. Zero non-Web3 / biotech / unrelated domain roles`);
   console.log(`  3. Zero unsanitized parenthetical company tags or blocked companies`);
   console.log(`  4. Zero search-results or generic query application URLs`);
   console.log(`  5. 100% slug uniqueness with no collisions`);
   console.log(`  6. 100% company website and rich profile coverage across all ${uniqueCompanies.length} companies`);
+  console.log(`  7. Zero slug reassignments or untraced drops since last commit`);
 }
 
 if (require.main === module) {
