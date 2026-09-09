@@ -5,7 +5,7 @@
   "revocation_endpoint": "https://hashtagweb3.com/api/auth/revoke",
   "registration_endpoint": "https://hashtagweb3.com/api/auth/register",
   "response_types_supported": ["token", "code"],
-  "grant_types_supported": ["client_credentials", "urn:ietf:params:oauth:grant-type:token-exchange", "anonymous"],
+  "grant_types_supported": ["client_credentials", "urn:ietf:params:oauth:grant-type:token-exchange"],
   "scopes_supported": [
     "read:jobs",
     "read:news",
