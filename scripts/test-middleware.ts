@@ -75,8 +75,9 @@ async function runMiddlewareTests() {
         headers: { 'user-agent': bot.ua },
       });
       const res = middleware(req);
+      const rewrite = res.headers.get('x-middleware-rewrite') || '';
       assert(
-        res.status === 200 && res.headers.get('x-middleware-rewrite')?.includes('/bd'),
+        res.status === 200 && (rewrite.includes('/bd') || rewrite.includes('%2Fbd')),
         `Social crawler preview rewrite for ${bot.name}`
       );
     } catch (err: any) {
