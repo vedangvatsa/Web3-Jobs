@@ -109,12 +109,6 @@ const staticRoutes: MetadataRoute.Sitemap = [
   priority: 0.8,
  },
  {
-  url: `${siteUrl}/auth`,
-  lastModified: new Date(),
-  changeFrequency: 'monthly',
-  priority: 0.8,
- },
- {
   url: `${siteUrl}/api-policy`,
   lastModified: new Date(),
   changeFrequency: 'monthly',
@@ -295,11 +289,11 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
   priority: 0.7,
  }));
 
- // Company pages are derived from the live jobs cache. Use the newest verified
- // listing date for a stable, source-backed modification timestamp.
- const companyRoutes: MetadataRoute.Sitemap = companies
-  .filter((company) => company.jobCount >= 2)
-  .map((company) => ({
+  // Company pages are derived from the live jobs cache. Use the newest verified
+  // listing date for a stable, source-backed modification timestamp.
+  // All companies are indexed, including single-job ones.
+  const companyRoutes: MetadataRoute.Sitemap = companies
+    .map((company) => ({
    url: `${siteUrl}/${company.slug}`,
    lastModified: new Date(company.lastUpdated),
    changeFrequency: 'weekly' as const,

@@ -144,9 +144,6 @@ Disallow: /
 
 # ─── TRAINING-ONLY SCRAPERS (Disallow) ───
 
-User-agent: CCBot
-Disallow: /
-
 # Bytespider is a TikTok/ByteDance training scraper — disallowed
 User-agent: Bytespider
 Disallow: /
