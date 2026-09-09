@@ -44,8 +44,7 @@ import * as path from 'path';
 import * as crypto from 'crypto';
 import dotenv from 'dotenv';
 import { buildUniqueJobMetaDescription } from '../../src/lib/job-guides';
-import { getCompanySlug } from '../../src/lib/job-slugs';
-import { resolveCompanyLogo } from '../../src/lib/company-logo';
+import { buildJobOgImageUrl, JOB_OG_VERSION, SITE_URL } from '../../src/lib/job-og';
 
 // Load environment variables
 const rootDir = path.resolve(__dirname, '../../');
@@ -54,7 +53,6 @@ dotenv.config({ path: path.join(rootDir, '.env.local'), override: true });
 
 const JOBS_CACHE_FILE = path.join(rootDir, 'content/jobs-cache.json');
 const STATE_FILE = path.join(__dirname, 'jobs-social-posted.json');
-const SITE_URL = 'https://hashtagweb3.com';
 
 interface Job {
   id?: string;
@@ -500,51 +498,80 @@ export interface LinkedInPreview {
   image: string;
 }
 
-// Readiness gate: fetch the /li URL exactly as LinkedIn's crawler would and
-// assert the page + its og:image are servable BEFORE handing text to Buffer.
-// Returns the resolved card data for the explicit linkAttachment, or null.
-// A cardless post burns the URL in LinkedIn's cache (~7d), so fail closed:
-// if our own serving is broken (deploy in flight, 5xx, missing tags), skip
-// the LinkedIn publish for this run instead of posting blind.
-async function verifyLinkedInServing(slug: string): Promise<LinkedInPreview | null> {
-  const pageUrl = `${SITE_URL}/${slug}/li`;
+// Readiness gate: fetch the exact suffix URL and assert that it resolves to
+// this job's metadata and a direct, non-redirected image. A generic fallback
+// or a page from an older deployment must never be handed to a social API.
+async function verifySocialServing(
+  slug: string,
+  company: string,
+  title: string,
+  suffix: string,
+  userAgent: string,
+): Promise<LinkedInPreview | null> {
+  const pageUrl = `${SITE_URL}/${slug}/${suffix}`;
   try {
-    const res = await fetch(pageUrl, { headers: { 'User-Agent': LINKEDIN_BOT_UA } });
+    const res = await fetch(pageUrl, {
+      cache: 'no-store',
+      headers: { 'User-Agent': userAgent },
+    });
     if (res.status !== 200) {
-      console.error(`LinkedIn readiness: page HTTP ${res.status} for ${pageUrl} — skipping LinkedIn publish`);
+      console.error(`Preview readiness: page HTTP ${res.status} for ${pageUrl} — aborting publish`);
       return null;
     }
     const html = await res.text();
     if (html.length > 150000) {
-      console.error(`LinkedIn readiness: page ${html.length}b exceeds crawler comfort zone — skipping LinkedIn publish`);
+      console.error(`Preview readiness: page ${html.length}b exceeds crawler comfort zone — aborting publish`);
       return null;
     }
     const titleMatch = html.match(/<meta property="og:title"[^>]+content="([^"]{10,})"/);
     if (!titleMatch) {
-      console.error('LinkedIn readiness: og:title missing/empty — skipping LinkedIn publish');
+      console.error('Preview readiness: og:title missing/empty — aborting publish');
+      return null;
+    }
+    const resolvedTitle = decodeEntities(titleMatch[1]);
+    if (resolvedTitle !== `${title} at ${company}`) {
+      console.error(`Preview readiness: wrong og:title "${resolvedTitle}" for ${pageUrl} — aborting publish`);
       return null;
     }
     const m = html.match(/<meta property="og:image"[^>]+content="([^"]+)"/);
     if (!m) {
-      console.error('LinkedIn readiness: og:image missing — skipping LinkedIn publish');
+      console.error('Preview readiness: og:image missing — aborting publish');
       return null;
     }
-    const imgRes = await fetch(m[1].replace(/&amp;/g, '&'), { headers: { 'User-Agent': LINKEDIN_BOT_UA } });
+    const image = m[1].replace(/&amp;/g, '&');
+    const imageUrl = new URL(image, SITE_URL);
+    if (
+      imageUrl.origin !== SITE_URL ||
+      imageUrl.pathname !== '/api/og' ||
+      imageUrl.searchParams.get('type') !== 'job' ||
+      imageUrl.searchParams.get('v') !== JOB_OG_VERSION ||
+      imageUrl.searchParams.get('title') !== title ||
+      imageUrl.searchParams.get('company') !== company
+    ) {
+      console.error(`Preview readiness: og:image does not identify ${company}/${title} — aborting publish`);
+      return null;
+    }
+    const imgRes = await fetch(imageUrl, {
+      cache: 'no-store',
+      redirect: 'manual',
+      headers: { 'User-Agent': userAgent },
+    });
     const ct = imgRes.headers.get('content-type') || '';
-    if (!imgRes.ok || !ct.startsWith('image/')) {
-      console.error(`LinkedIn readiness: image HTTP ${imgRes.status} ${ct} — skipping LinkedIn publish`);
+    const imageBytes = await imgRes.arrayBuffer();
+    if (!imgRes.ok || !ct.startsWith('image/') || imageBytes.byteLength < 1000) {
+      console.error(`Preview readiness: image HTTP ${imgRes.status} ${ct} ${imageBytes.byteLength}b — aborting publish`);
       return null;
     }
     const descMatch = html.match(/<meta property="og:description"[^>]+content="([^"]+)"/);
     const preview = {
-      title: decodeEntities(titleMatch[1]).slice(0, 200),
+      title: resolvedTitle.slice(0, 200),
       description: decodeEntities(descMatch ? descMatch[1] : '').slice(0, 300),
-      image: m[1].replace(/&amp;/g, '&'),
+      image,
     };
-    console.log(`LinkedIn readiness: page 200 (${html.length}b) + og tags + image ${imgRes.status} ${ct} — servable, publishing`);
+    console.log(`Preview readiness: ${suffix} page 200 (${html.length}b) + exact OG image ${imgRes.status} ${ct} — servable`);
     return preview;
   } catch (err) {
-    console.error('LinkedIn readiness check failed:', (err as Error).message, '— skipping LinkedIn publish');
+    console.error('Preview readiness check failed:', (err as Error).message, '— aborting publish');
     return null;
   }
 }
@@ -823,8 +850,9 @@ async function postToInstagram(
 // App Hosting rollout is in flight (cold starts, traffic migration), the
 // scrape fails and the miss is cached for days — the #1 observed cause of
 // cardless posts. So before publishing, wait for any in-flight production
-// rollout to finish. Fail-open: without a GitHub token (local runs) or on
-// API errors, log and proceed — the per-platform readiness checks remain.
+// rollout to finish. If the status API is unavailable or the rollout takes
+// too long, continue to the exact preview check below; that check can rotate
+// to another job instead of terminating the posting run.
 async function waitForQuietDeploy(): Promise<void> {
   const token = process.env.GITHUB_TOKEN;
   const repo = process.env.GITHUB_REPOSITORY || 'vedangvatsa/Web3-Jobs';
@@ -855,17 +883,27 @@ async function waitForQuietDeploy(): Promise<void> {
         return;
       }
       if (Date.now() >= deadline) {
-        console.warn('Deploy gate: rollout still in flight after 15 min — proceeding anyway (readiness checks remain).');
+        console.warn('Deploy gate: rollout still in flight after 15 min — proceeding to candidate preview checks.');
         return;
       }
       console.log('Deploy gate: App Hosting rollout in flight — waiting 60s before publishing...');
       await new Promise((r) => setTimeout(r, 60000));
     } catch (err) {
-      console.warn('Deploy gate: check failed (%s) — proceeding (readiness checks remain).', (err as Error).message);
+      console.warn(`Deploy gate check failed: ${(err as Error).message} — proceeding to candidate preview checks.`);
       return;
     }
   }
 }
+
+const PREVIEW_TARGETS = [
+  { platform: 'x', suffix: 'x', userAgent: 'Twitterbot/1.0' },
+  { platform: 'threads', suffix: 'th', userAgent: 'Meta-ExternalAgent/1.1' },
+  { platform: 'bluesky', suffix: 'bsky', userAgent: 'Mozilla/5.0' },
+  { platform: 'farcaster', suffix: 'fc', userAgent: 'Warpcast/1.0' },
+  { platform: 'linkedin', suffix: 'li', userAgent: LINKEDIN_BOT_UA },
+  { platform: 'facebook', suffix: 'fb', userAgent: 'facebookexternalhit/1.1' },
+  { platform: 'reddit', suffix: 'rd', userAgent: 'redditbot/1.0' },
+] as const;
 
 // ── Main Scheduling & Selection ──
 
@@ -937,14 +975,14 @@ async function main() {
 
   // Rotation picker reused for catch-up rounds: next unposted job whose
   // company differs from `excludeCompany`, advancing state.lastIndex.
-  const pickNextJob = (excludeCompany: string, excludeSlug: string): Job | null => {
+  const pickNextJob = (excludeCompany: string, excludeSlug: string, excludedSlugs = new Set<string>()): Job | null => {
     const totalJobs = jobs.length;
     const posted = new Set(state.postedSlugs);
     posted.add(excludeSlug);
     for (let i = 0; i < totalJobs; i++) {
       const idx = (state.lastIndex + i) % totalJobs;
       const candidate = jobs[idx];
-      if (!posted.has(candidate.slug) && candidate.company.toLowerCase() !== excludeCompany) {
+      if (!posted.has(candidate.slug) && !excludedSlugs.has(candidate.slug) && candidate.company.toLowerCase() !== excludeCompany) {
         state.lastIndex = (idx + 1) % totalJobs;
         return candidate;
       }
@@ -952,7 +990,7 @@ async function main() {
     for (let i = 0; i < totalJobs; i++) {
       const idx = (state.lastIndex + i) % totalJobs;
       const candidate = jobs[idx];
-      if (!posted.has(candidate.slug)) {
+      if (!posted.has(candidate.slug) && !excludedSlugs.has(candidate.slug)) {
         state.lastIndex = (idx + 1) % totalJobs;
         return candidate;
       }
@@ -975,33 +1013,29 @@ async function main() {
   }
 
   const jobsToPost: Job[] = [selectedJob as Job];
+  const rejectedPreviewSlugs = new Set<string>();
   for (let round = 0; round < jobsToPost.length; round++) {
     const currentJob = jobsToPost[round];
     const { company, title, slug, location } = currentJob;
+    const deptName = typeof currentJob.department === 'string' ? currentJob.department : currentJob.department?.name || '';
+    const shouldPostAll = platform === 'all' || platform === 'both';
 
-  // Build OG image URL, passing the verified local logo when one exists so
-  // the card uses high-res art instead of guessing favicons. PNG twin is
-  // preferred (every .webp in public/logo has one; satori embeds PNG safely).
-  let logoParam = '';
-  try {
-    const localLogo = resolveCompanyLogo(getCompanySlug(company));
-    if (localLogo) logoParam = `&logo=${encodeURIComponent(localLogo.replace(/\.webp$/i, '.png'))}`;
-  } catch {
-    // Fall through to favicon guessing inside the OG route.
-  }
-  const ogImageUrl = `${SITE_URL}/api/og?type=job&title=${encodeURIComponent(title)}&company=${encodeURIComponent(company)}&location=${encodeURIComponent(location || 'Remote')}${logoParam}`;
+    // Build OG image URL, passing the verified local logo when one exists so
+    // the card uses high-res art. PNG twin is preferred because Satori embeds
+    // it consistently across cold and warm renders.
+    const ogImageUrl = buildJobOgImageUrl(currentJob);
 
-  // Formats strictly adhering to:
-  //   Company is hiring role
-  //
-  //   URL/<platform>
-  const xUrl = `${SITE_URL}/${slug}/x`;
-  const threadsUrl = `${SITE_URL}/${slug}/th`;
-  const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
-  const farcasterUrl = `${SITE_URL}/${slug}/fc`;
-  const linkedinUrl = `${SITE_URL}/${slug}/li`;
-  const facebookUrl = `${SITE_URL}/${slug}/fb`;
-  const redditUrl = `${SITE_URL}/${slug}/rd`;
+    // Formats strictly adhering to:
+    //   Company is hiring role
+    //
+    //   URL/<platform>
+    const xUrl = `${SITE_URL}/${slug}/x`;
+    const threadsUrl = `${SITE_URL}/${slug}/th`;
+    const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
+    const farcasterUrl = `${SITE_URL}/${slug}/fc`;
+    const linkedinUrl = `${SITE_URL}/${slug}/li`;
+    const facebookUrl = `${SITE_URL}/${slug}/fb`;
+    const redditUrl = `${SITE_URL}/${slug}/rd`;
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
@@ -1011,7 +1045,6 @@ async function main() {
   const facebookPostText = `${company} is hiring ${title}: ${facebookUrl}`;
 
   const metaDesc = buildUniqueJobMetaDescription(currentJob as any);
-  const deptName = typeof currentJob.department === 'string' ? currentJob.department : currentJob.department?.name || '';
   const redditTitle = `[Hiring] ${company} is hiring a ${title} (${location || 'Remote'})`;
   const redditMarkdown = `**Company:** [${company}](${redditUrl})\n**Role:** ${title}\n**Location:** ${location || 'Remote'}${deptName ? `\n**Department:** ${deptName}` : ''}\n\n### Overview\n${metaDesc}\n\n---\n🔗 **Apply Directly / View Details:** [https://hashtagweb3.com/${slug}/rd](${redditUrl})\n\n*Verified by [Hashtag Web3](https://hashtagweb3.com) — The Web3 Career & Event Resource Platform.*`;
 
@@ -1020,6 +1053,13 @@ async function main() {
   console.log(`  Role    : ${title}`);
   console.log(`  Slug    : ${slug}`);
   console.log(`  OG Image: ${ogImageUrl}\n`);
+
+  // Do this before warming or publishing. The state commit is deliberately
+  // delayed until after publishing, so this run must not begin during a
+  // rollout that could serve mixed metadata to social crawlers.
+  if (!isDryRun) {
+    await waitForQuietDeploy();
+  }
 
   // Verify OG Image responds with 200
   try {
@@ -1076,12 +1116,40 @@ async function main() {
     return;
   }
 
-  // Publish only into a quiet prod: scrapers fire within minutes and a
-  // mid-deploy scrape yields a cardless post cached for days (see gate).
-  await waitForQuietDeploy();
+  // Validate every link target that this run may publish before sending any
+  // post. This prevents partial runs where one platform caches a good card and
+  // another caches an older or generic card for the same job.
+  const previewTargets = shouldPostAll
+    ? PREVIEW_TARGETS
+    : PREVIEW_TARGETS.filter((target) => target.platform === platform);
+  const verifiedPreviews = new Map<string, LinkedInPreview>();
+  let previewFailure = false;
+  for (const target of previewTargets) {
+    const preview = await verifySocialServing(slug, company, title, target.suffix, target.userAgent);
+    if (!preview) {
+      previewFailure = true;
+      console.warn(`Preview readiness failed for ${company} / ${title} on ${target.platform}. Rotating to another job.`);
+      break;
+    }
+    verifiedPreviews.set(target.platform, preview);
+  }
+  if (previewFailure) {
+    rejectedPreviewSlugs.add(slug);
+    const excludedSlugs = new Set([
+      ...rejectedPreviewSlugs,
+      ...jobsToPost.map((job) => job.slug),
+    ]);
+    const replacement = pickNextJob(company.toLowerCase(), slug, excludedSlugs);
+    if (!replacement) {
+      throw new Error('No alternate job produced a correct preview; no incorrect post was published.');
+    }
+    console.warn(`Preview fallback: replacing ${slug} with ${replacement.slug} (${replacement.company} / ${replacement.title}).`);
+    jobsToPost.splice(round, 1, replacement);
+    round -= 1;
+    continue;
+  }
 
   const now = new Date().toISOString();
-  const shouldPostAll = platform === 'all' || platform === 'both';
 
   let postedSuccessCount = 0;
 
@@ -1165,7 +1233,7 @@ async function main() {
   if (platform === 'linkedin' || shouldPostAll) {
     try {
       console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
-      const preview = await verifyLinkedInServing(slug);
+      const preview = verifiedPreviews.get('linkedin') || null;
       if (!preview) {
         console.error('✗ LinkedIn publish skipped by readiness gate (see above). Not marking as posted.');
       } else {

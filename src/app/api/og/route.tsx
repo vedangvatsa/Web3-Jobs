@@ -3,6 +3,51 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export const runtime = 'edge';
 
+function renderJobFallback(searchParams: URLSearchParams): ImageResponse {
+  const rawTitle = searchParams.get('title') || 'Web3 Job Opening';
+  const displayTitle = rawTitle.length > 70 ? `${rawTitle.slice(0, 67)}...` : rawTitle;
+  const displayCompany = searchParams.get('company') || 'Web3 Company';
+  const isSquare = searchParams.get('format') === 'square';
+
+  // A failed logo fetch must still produce the correct job card. Never redirect
+  // a job request to the shared generic image: social platforms cache that
+  // redirect as the preview for the job URL.
+  return new ImageResponse(
+    (
+      <div
+        style={{
+          width: '100%',
+          height: '100%',
+          display: 'flex',
+          flexDirection: 'column',
+          alignItems: 'center',
+          justifyContent: 'center',
+          padding: isSquare ? '48px' : '40px',
+          backgroundColor: '#f8fafc',
+          color: '#0f172a',
+          textAlign: 'center',
+          fontFamily: 'system-ui, sans-serif',
+        }}
+      >
+        <div style={{ display: 'flex', fontSize: isSquare ? '46px' : '42px', fontWeight: 800, color: '#0284c7' }}>
+          {displayCompany}
+        </div>
+        <div style={{ display: 'flex', fontSize: isSquare ? '68px' : '62px', fontWeight: 900, marginTop: '28px', maxWidth: '1020px' }}>
+          {displayTitle}
+        </div>
+        <div style={{ display: 'flex', fontSize: '28px', color: '#64748b', marginTop: '28px' }}>
+          Hashtag Web3 jobs
+        </div>
+      </div>
+    ),
+    {
+      width: isSquare ? 1080 : 1200,
+      height: isSquare ? 1080 : 630,
+      headers: { 'Cache-Control': 'no-store, no-cache, must-revalidate' },
+    }
+  );
+}
+
 export async function GET(request: NextRequest) {
   try {
     const { searchParams } = new URL(request.url);
@@ -252,29 +297,21 @@ export async function GET(request: NextRequest) {
     if (type === 'job') {
       const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
       const displayCompany = company || 'Web3 Company';
-      const companySlug = displayCompany.toLowerCase().trim().replace(/[^a-z0-9]+/g, '-').replace(/(^-|-$)/g, '');
 
-      // Resolve company logo / favicon (passed in URL or derived via Google favicon service)
+      // Resolve only same-origin, checked-in logos. The OG endpoint is public;
+      // accepting arbitrary remote URLs would turn it into an image proxy and
+      // make a third-party timeout part of every social preview.
       const logoParam = searchParams.get('logo');
       let companyLogoUrl: string | null = null;
 
       if (logoParam && logoParam.trim()) {
         const cleaned = logoParam.trim().replace(/\.webp$/i, '.png');
-        if (cleaned.startsWith('http://') || cleaned.startsWith('https://') || cleaned.startsWith('data:')) {
-          companyLogoUrl = cleaned;
-        } else {
-          companyLogoUrl = `https://hashtagweb3.com${cleaned.startsWith('/') ? '' : '/'}${cleaned}`;
+        const logoPath = cleaned.startsWith('/') ? cleaned : `/${cleaned}`;
+        if (
+          /^\/logo\/(?:companies|job|partners)\/[a-z0-9._-]+\.(?:png|jpe?g|webp)$/i.test(logoPath)
+        ) {
+          companyLogoUrl = new URL(logoPath, request.url).toString();
         }
-      } else if (companySlug) {
-        let domain = `${companySlug.replace(/-/g, '')}.com`;
-        if (companySlug === 'franklin-templeton' || companySlug === 'franklintempleton') {
-          domain = 'careers.franklintempleton.com';
-        } else if (companySlug === 'arbitrum' || companySlug === 'offchain-labs' || companySlug === 'offchainlabs') {
-          domain = 'arbitrum.io';
-        } else if (companySlug === 'certik') {
-          domain = 'certik.com';
-        }
-        companyLogoUrl = `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
       }
 
       // Pre-fetch logo bytes into a data URL. Satori silently drops remote
@@ -297,7 +334,7 @@ export async function GET(request: NextRequest) {
             const contentType = (logoRes.headers.get('content-type') || 'image/png').split(';')[0].trim();
             const logoBytes = await logoRes.arrayBuffer();
             // Manual base64 (no Buffer dependency — edge-safe).
-            if (logoBytes.byteLength > 0 && logoBytes.byteLength < 500000) {
+            if (contentType.startsWith('image/') && logoBytes.byteLength > 0 && logoBytes.byteLength < 500000) {
               const bytes = new Uint8Array(logoBytes);
               let binary = '';
               const CHUNK = 0x8000;
@@ -895,10 +932,20 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // Default fallback
-    return NextResponse.redirect(new URL('/og-image.png', request.url), 307);
+    // Unknown image types are not allowed to silently become a generic card.
+    return new NextResponse('OG image unavailable', {
+      status: 404,
+      headers: { 'Cache-Control': 'no-store, no-cache, must-revalidate' },
+    });
   } catch (e: any) {
-    console.error('OG generation fallback:', e?.message || e);
-    return NextResponse.redirect(new URL('/og-image.png', request.url), 307);
+    const searchParams = new URL(request.url).searchParams;
+    console.error('OG generation failed:', e?.message || e);
+    if (searchParams.get('type') === 'job') {
+      return renderJobFallback(searchParams);
+    }
+    return new NextResponse('OG image unavailable', {
+      status: 503,
+      headers: { 'Cache-Control': 'no-store, no-cache, must-revalidate' },
+    });
   }
 }

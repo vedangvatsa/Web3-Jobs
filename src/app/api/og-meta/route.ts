@@ -1,9 +1,11 @@
 import { NextRequest, NextResponse } from 'next/server';
+import { buildUniqueJobMetaDescription, resolveJobSlug } from '@/lib/job-guides';
+import { buildJobOgImageUrl, SITE_URL } from '@/lib/job-og';
 
-export const runtime = 'edge';
+export const runtime = 'nodejs';
 
-const SITE_URL = 'https://hashtagweb3.com';
 const SITE_NAME = 'Hashtag Web3';
+const SOCIAL_SUFFIXES = new Set(['li', 'linkedin', 'x', 'tw', 'twitter', 'th', 'threads', 'fb', 'facebook', 'bsky', 'bluesky', 'fc', 'warp', 'farcaster', 'rd', 'reddit', 'ig', 'insta', 'instagram']);
 
 /**
  * Returns a minimal HTML shell (~2KB) containing only OG/Twitter meta tags.
@@ -18,9 +20,10 @@ const SITE_NAME = 'Hashtag Web3';
  */
 export async function GET(request: NextRequest) {
   const { searchParams } = new URL(request.url);
-  const path = searchParams.get('path') || '/';
+  const sourcePath = searchParams.get('path') || request.headers.get('x-og-source-path') || '/';
+  const path = stripSocialSuffix(sourcePath);
 
-  const { title, description, ogImageUrl, canonicalUrl } = resolveMetadata(path);
+  const { title, description, ogImageUrl, canonicalUrl } = await resolveMetadata(path);
 
   const html = `<!DOCTYPE html>
 <html lang="en">
@@ -51,8 +54,10 @@ export async function GET(request: NextRequest) {
     status: 200,
     headers: {
       'Content-Type': 'text/html; charset=utf-8',
-      // Public + long-lived: LinkedIn caches OG data for weeks.
-      'Cache-Control': 'public, max-age=3600, s-maxage=86400, stale-while-revalidate=86400',
+      // Do not let an in-flight deployment cache a stale job shell at our edge.
+      // Platforms keep their own preview cache; our readiness gate warms the
+      // response immediately before publishing.
+      'Cache-Control': 'no-store, no-cache, must-revalidate',
       'X-Robots-Tag': 'noindex',
     },
   });
@@ -73,7 +78,33 @@ interface PageMeta {
   canonicalUrl: string;
 }
 
-function resolveMetadata(path: string): PageMeta {
+function stripSocialSuffix(path: string): string {
+  const parts = path.split('/').filter(Boolean);
+  const last = parts[parts.length - 1]?.toLowerCase();
+  if (last && SOCIAL_SUFFIXES.has(last)) {
+    parts.pop();
+  }
+  return parts.length ? `/${parts.join('/')}` : '/';
+}
+
+async function resolveJobMetadata(slug: string): Promise<PageMeta | null> {
+  const resolution = await resolveJobSlug(slug);
+  const job = resolution.job;
+  if (!job || !resolution.canonicalSlug) return null;
+
+  const title = `${job.title} at ${job.company}`;
+  const description = buildUniqueJobMetaDescription(job);
+  const ogImageUrl = buildJobOgImageUrl(job);
+
+  return {
+    title,
+    description,
+    ogImageUrl,
+    canonicalUrl: `${SITE_URL}/${resolution.canonicalSlug}`,
+  };
+}
+
+async function resolveMetadata(path: string): Promise<PageMeta> {
   const canonicalUrl = `${SITE_URL}${path}`;
 
   // ── Blog articles: /blog/<slug> ───────────────────────────────────────────
@@ -103,6 +134,8 @@ function resolveMetadata(path: string): PageMeta {
   // ── Job detail pages: /jobs/<slug> or /<jobslug> ──────────────────────────
   if (path.startsWith('/jobs/') && path !== '/jobs') {
     const slug = path.replace('/jobs/', '');
+    const jobMeta = await resolveJobMetadata(slug);
+    if (jobMeta) return jobMeta;
     const parts = slug.replace(/^job[a-z0-9]{4,6}$/, '').split('-').filter(Boolean);
     const readableTitle = parts.length > 0
       ? parts.map((p: string) => p.charAt(0).toUpperCase() + p.slice(1)).join(' ')
@@ -167,6 +200,13 @@ function resolveMetadata(path: string): PageMeta {
   const meta = PAGE_META[path];
   if (meta) {
     return { ...meta, canonicalUrl };
+  }
+
+  // Root-level job slugs are the URLs used by the social poster. Resolve the
+  // actual record so a crawler never receives a generic image for a job URL.
+  if (/^\/[^/]+$/.test(path)) {
+    const jobMeta = await resolveJobMetadata(path.slice(1));
+    if (jobMeta) return jobMeta;
   }
 
   // Fallback

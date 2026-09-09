@@ -33,7 +33,14 @@ async function runMiddlewareTests() {
   console.log('1. Testing Social UTM Suffix Shortcuts...');
   for (const t of socialTests) {
     try {
-      const req = new NextRequest(`https://hashtagweb3.com${t.input}`);
+      const req = new NextRequest(`https://hashtagweb3.com${t.input}`, {
+        headers: {
+          'user-agent': 'Mozilla/5.0',
+          'sec-fetch-mode': 'navigate',
+          'sec-fetch-dest': 'document',
+          'sec-fetch-user': '?1',
+        },
+      });
       const res = middleware(req);
 
       assert(res.status === 307, `Redirect status 307 for ${t.input}`);
