@@ -233,21 +233,36 @@ export function JobDetailView({
     '@type': 'JobPosting',
     title: job.title,
     description: contentHtml,
+    // Stable cross-crawl ID so Google dedups re-scrapes instead of
+    // treating refreshed listings as new postings.
+    identifier: {
+      '@type': 'PropertyValue',
+      name: 'hashtagweb3.com',
+      value: job.id,
+    },
     ...(job.dateVerified !== false && isDateValid && { datePosted: datePostedIso }),
     validThrough: validThroughDate,
     employmentType,
     directApply: true,
     hiringOrganization,
     industry: 'Web3 / Blockchain / Cryptocurrency',
-    baseSalary: salaryInfo.schema,
+    // Google forbids estimated/fabricated pay in structured data: only emit
+    // baseSalary when parsed explicitly from the posting (never benchmarks).
+    ...(!salaryInfo.isEstimated ? { baseSalary: salaryInfo.schema } : {}),
     ...(job.department && { occupationalCategory: typeof job.department === 'string' ? job.department : (job.department as any)?.name || String(job.department) }),
     ...(isRemote
       ? {
           jobLocationType: 'TELECOMMUTE',
-          applicantLocationRequirements: {
-            '@type': 'Country',
-            name: applicantLocationName,
-          },
+          // Only emit when resolved to a real region: "Worldwide" is not a
+          // valid schema.org Country and fails Google's rich-result checks.
+          ...(applicantLocationName !== 'Worldwide'
+            ? {
+                applicantLocationRequirements: {
+                  '@type': 'Country',
+                  name: applicantLocationName,
+                },
+              }
+            : {}),
         }
       : {
           jobLocation: {
