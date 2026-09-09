@@ -37,7 +37,8 @@
     "operations45dbf",
     "frontend6b0d3",
     "fullstack8c90c",
-    "marketingecc99"
+    "marketingecc99",
+    "compliance40"
   ],
   "history": [
     {
@@ -1279,6 +1280,14 @@
       "platform": "instagram",
       "postedAt": "2026-09-09T06:06:38.118Z",
       "postId": "18473553142117949"
+    },
+    {
+      "slug": "compliance40",
+      "company": "Mercuryo",
+      "title": "MLRO/Compliance officer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T08:14:18.286Z",
+      "postId": "6aa1155b1b2e90ab73ab2ae4"
     }
   ]
 }

@@ -22,7 +22,7 @@ export const COMPANY_RICH_ABOUT: Record<string, string> = {
   "yellow-card": `Yellow Card is Africa’s largest regulated pan-African crypto exchange and payment infrastructure platform, operating across 20+ African countries.`,
   "yzi-labs": `YZi Labs is a Web3 venture studio and incubator building decentralized finance, infrastructure, and consumer Web3 applications.`,
   "xt-com-exchange": `XT.com is a socialized digital asset trading platform serving 6M+ registered users with spot, futures, interest staking, and OTC trading.`,
-  "xhunt": `XHunt is a Web3 security analytics and threat intelligence platform monitoring on-chain transactions for exploit attempts and smart contract risks.`,
+  "xhunt": `XHunt (xhunt.ai) is an AI-powered Web3 social intelligence and research platform engineered for crypto investors, KOLs, and research teams to analyze social sentiment, track project trends, evaluate influencer impact, and extract actionable market insights across X (Twitter) and Web3 ecosystems.`,
   "worldcoin": `Worldcoin (Tools for Humanity) is a digital identity protocol (World ID) and financial network giving every human proof of personhood in the age of AI.`,
   "wincent": `Wincent is a proprietary crypto market-making and quantitative trading firm processing billions in daily volume across centralized crypto venues.`,
   "whitebit": `WhiteBIT is one of Europe’s largest regulated cryptocurrency exchanges, serving 4M+ users with spot, futures, and Web3 payment integration.`,
