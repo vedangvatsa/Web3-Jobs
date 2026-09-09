@@ -101,7 +101,8 @@ All developer resources below include "Hashtag Web3" in their title and are publ
 - [Hashtag Web3 Agent Permissions](https://hashtagweb3.com/agents.txt): Hashtag Web3 operational permissions, action boundaries, and protocol declarations for autonomous AI agents.
 - [Hashtag Web3 MCP Alternative Endpoint](https://hashtagweb3.com/api/mcp): Hashtag Web3 MCP server alias for tool calling.
 - [Hashtag Web3 AGENTS.md Repo Guide](https://hashtagweb3.com/AGENTS.md): Hashtag Web3 coding agent instructions.
-- [Hashtag Web3 Source Repository](https://github.com/vedangvatsa/Web3-Jobs): Hashtag Web3 public GitHub repository.
+- **NPM SDK Package**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
+- **CLI Tool**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3) — `npx hashtagweb3 jobs --search Solidity`
 - [Hashtag Web3 API Versioning & Deprecation Policy](https://hashtagweb3.com/api-policy): Hashtag Web3 official API versioning strategy, RFC 8594 Sunset/Deprecation headers, and 12-month advance notice guarantee.
 
 ## Official CLI Tool & SDKs
@@ -114,7 +115,7 @@ npx hashtagweb3 glossary --search "Zero Knowledge"
 ```
 
 Official TypeScript / JavaScript SDK & Multi-Language Packages:
-- **NPM SDK Package**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
+- **NPM SDK Package**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
 - **NPM CLI Package**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3)
 - **PyPI SDK Package**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/)
 - **RubyGems Package**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3)

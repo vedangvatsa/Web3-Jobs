@@ -149,5 +149,4 @@ In accordance with our published [`/agents.txt`](https://hashtagweb3.com/agents.
 - **Entity**: Hashtag Web3
 - **Support & Inquiries**: `contact@hashtagweb3.com`
 - **Contact Form**: [https://hashtagweb3.com/contact](https://hashtagweb3.com/contact)
-- **GitHub Repository**: [https://github.com/vedangvatsa/Web3-Jobs](https://github.com/vedangvatsa/Web3-Jobs)
 - **Standards Reference**: [https://veda.ng/aistandards](https://veda.ng/aistandards)

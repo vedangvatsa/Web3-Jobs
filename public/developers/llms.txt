@@ -50,7 +50,7 @@ npm install -g hashtagweb3
 ```
 
 ## Official Multi-Language SDK Packages & MCP Registry Listings
-- **NPM SDK Package (JavaScript/TypeScript)**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
+- **NPM SDK Package (JavaScript/TypeScript)**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (homepage: `https://hashtagweb3.com`)
 - **NPM CLI Package**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3)
 - **PyPI SDK Package (Python)**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/) (Project URL / Home-Page: `https://hashtagweb3.com`)
 - **RubyGems Package (Ruby)**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3) (homepage_uri: `https://hashtagweb3.com`)
@@ -83,12 +83,7 @@ npm install -g hashtagweb3
 - [RFC 8414 OAuth Authorization Server](https://hashtagweb3.com/.well-known/oauth-authorization-server)
 - [Developer Portal UI](https://hashtagweb3.com/developers): Interactive web documentation, quickstart guides, and code samples.
 
-## GitHub Codebase & Agent Configuration
-- [Public GitHub Repository](https://github.com/vedangvatsa/Web3-Jobs): Authoritative open-source repository containing the Hashtag Web3 site and integration code.
 - [Agent Plugin Manifest (plugin.json)](https://hashtagweb3.com/plugin.json): Agent-plugins.org compliant plugin configuration manifest.
-- [Agent Skill (SKILL.md)](https://github.com/vedangvatsa/Web3-Jobs/blob/main/SKILL.md): Self-publishing skills.sh capabilities mapping document.
-- [Agent Coding Rules (AGENTS.md)](https://github.com/vedangvatsa/Web3-Jobs/blob/main/AGENTS.md): Coding rules and system prompt directives for autonomous coding agents.
-- [Cursor Rules (.cursorrules)](https://github.com/vedangvatsa/Web3-Jobs/blob/main/.cursorrules): Development instruction rules for Cursor/AI IDE workflows.
 
 ## Searchable Discoverability Indices
 - **Hashtag Web3 API Docs**: Found at `https://hashtagweb3.com/developers`
