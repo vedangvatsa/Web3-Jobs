@@ -6,6 +6,8 @@ export async function GET() {
       _type: 'agent_mode_view',
       name: 'Hashtag Web3',
       url: 'https://hashtagweb3.com',
+      version: '1.0.0',
+      last_updated: '2026-09-09',
       description: 'Hashtag Web3 is the premier Web3 job board, blockchain career resource platform, and decentralized talent intelligence network.',
       documentation: 'https://hashtagweb3.com/developers',
       openapi: 'https://hashtagweb3.com/openapi.json',
@@ -82,8 +84,32 @@ export async function GET() {
         },
       ],
 
-      mcp_servers: {
-        product: {
+      capabilities: [
+        'jobs-search',
+        'glossary-lookup',
+        'events-discovery',
+        'news-feed',
+        'mcp-tools',
+        'sandbox',
+        'nlweb-query',
+      ],
+
+      sdk: {
+        javascript_typescript: { package: '@hashtagweb3/sdk', registry: 'https://www.npmjs.com/package/@hashtagweb3/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+        python: { package: 'hashtagweb3', registry: 'https://pypi.org/project/hashtagweb3', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+        ruby: { package: 'hashtagweb3', registry: 'https://rubygems.org/gems/hashtagweb3', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+        go: { module: 'github.com/hashtagweb3/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+        cli: { package: 'hashtagweb3', command: 'npx hashtagweb3 jobs --search Solidity', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+      },
+
+      nlweb: {
+        url: 'https://hashtagweb3.com/ask',
+        methods: ['GET', 'POST'],
+        streaming: true,
+        usage: 'POST https://hashtagweb3.com/ask with { "q": "...", "stream": true } and Accept: text/event-stream',
+      },
+
+      mcp_servers: {        product: {
           name: 'hashtagweb3-product-mcp',
           transport: 'streamable-http',
           url: 'https://hashtagweb3.com/api/mcp',
