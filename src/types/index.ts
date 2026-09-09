@@ -132,3 +132,15 @@ export interface Company {
  jobs: Job[];
  lastUpdated: string;
 }
+
+/**
+ * Lean projection for client components (search grid). The full Company
+ * carries every job posting + long-form copy, which ballooned /companies
+ * to 27MB of RSC payload. Only ship what the board renders/searches.
+ */
+export interface CompanySummary {
+ slug: string;
+ name: string;
+ description?: string;
+ jobCount: number;
+}

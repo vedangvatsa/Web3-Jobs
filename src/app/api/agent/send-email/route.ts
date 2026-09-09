@@ -4,6 +4,17 @@ import { Resend } from 'resend';
 export const dynamic = 'force-dynamic';
 export const runtime = 'nodejs';
 
+const CORS_HEADERS = { 'Access-Control-Allow-Origin': '*' };
+const DOC_URL = 'https://hashtagweb3.com/developers';
+
+function apiError(code: string, message: string, hint: string, status: number) {
+  return NextResponse.json({ error: { code, message, hint, docUrl: DOC_URL } }, { status, headers: CORS_HEADERS });
+}
+
+function apiOk(data: Record<string, unknown>) {
+  return NextResponse.json(data, { headers: CORS_HEADERS });
+}
+
 export async function POST(request: NextRequest) {
   try {
     const authHeader = request.headers.get('Authorization') || '';
@@ -11,22 +22,24 @@ export async function POST(request: NextRequest) {
 
     const expectedSecret = process.env.AGENT_API_KEY || process.env.CRON_SECRET;
     if (!expectedSecret || token !== expectedSecret) {
-      return NextResponse.json({ error: 'Unauthorized' }, { status: 401 });
+      return apiError('UNAUTHORIZED', 'Unauthorized.', 'Provide a valid Authorization: Bearer token.', 401);
     }
 
-    const body = await request.json();
+    let body: any;
+    try {
+      body = await request.json();
+    } catch {
+      return apiError('INVALID_BODY', 'Request body must be valid JSON.', 'POST { "to": "...", "subject": "...", "text": "..." }.', 400);
+    }
     const { to, subject, text, html } = body;
 
     if (!to || !subject || (!text && !html)) {
-      return NextResponse.json(
-        { error: 'Missing required fields: to, subject, and either text or html' },
-        { status: 400 }
-      );
+      return apiError('MISSING_FIELDS', 'Missing required fields: to, subject, and either text or html.', 'Include all required fields in the JSON body.', 400);
     }
 
     const apiKey = process.env.RESEND_API_KEY;
     if (!apiKey) {
-      return NextResponse.json({ error: 'Resend API key not configured on server' }, { status: 500 });
+      return apiError('EMAIL_NOT_CONFIGURED', 'Resend API key not configured on server.', 'Set RESEND_API_KEY in the environment.', 500);
     }
 
     const resend = new Resend(apiKey);
@@ -42,12 +55,12 @@ export async function POST(request: NextRequest) {
     });
 
     if (result.error) {
-      return NextResponse.json({ error: result.error.message }, { status: 500 });
+      return apiError('EMAIL_SEND_FAILED', result.error.message, 'Verify sender domain and recipient address.', 500);
     }
 
-    return NextResponse.json({ success: true, id: result.data?.id });
+    return apiOk({ success: true, id: result.data?.id });
   } catch (error: any) {
-    return NextResponse.json({ error: error.message || 'Internal Server Error' }, { status: 500 });
+    return apiError('INTERNAL_ERROR', error.message || 'Internal Server Error.', 'Retry the request.', 500);
   }
 }
 

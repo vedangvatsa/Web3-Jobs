@@ -242,8 +242,10 @@ export function middleware(request: NextRequest) {
     }
   }
 
-  // 2. ?mode=agent → rewrite to /api/agent-view for structured JSON response
-  if (searchParams.get('mode') === 'agent') {
+  // 2. ?mode=agent → rewrite to /api/agent-view for structured JSON response.
+  // Never intercept /api/* paths: hijacking e.g. /api/jobs?mode=agent would
+  // silently return the wrong payload on a public API.
+  if (!pathname.startsWith('/api') && searchParams.get('mode') === 'agent') {
     const rewrite = request.nextUrl.clone();
     rewrite.pathname = '/api/agent-view';
     rewrite.search = '';

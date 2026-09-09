@@ -10,15 +10,22 @@ import Link from 'next/link';
 export const revalidate = 86400; // 24 hours
 
 export const metadata: Metadata = {
-  title: 'Hashtag Web3 Authentication Docs & Agent Auth Guide',
+  title: 'Authentication Docs & Agent Auth Guide',
   description: 'Official Hashtag Web3 agent authentication guide, WorkOS auth.md specifications, OAuth 2.0 metadata, and zero-friction API key issuance.',
   alternates: {
     canonical: 'https://hashtagweb3.com/auth',
   },
   openGraph: {
-    title: 'Hashtag Web3 Authentication Docs & Agent Auth Guide',
+    title: 'Authentication Docs & Agent Auth Guide',
     description: 'Official Hashtag Web3 agent authentication guide, WorkOS auth.md specifications, OAuth 2.0 metadata, and zero-friction API key issuance.',
     url: 'https://hashtagweb3.com/auth',
+    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Authentication', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Authentication Docs & Agent Auth Guide',
+    description: 'Official Hashtag Web3 agent authentication guide, WorkOS auth.md specifications, OAuth 2.0 metadata, and zero-friction API key issuance.',
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Authentication'],
   },
 };
 

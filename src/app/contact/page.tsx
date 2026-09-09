@@ -7,14 +7,14 @@ import { ContactForm } from "@/components/contact-form";
 export const revalidate = 86400; // 24 hours
 
 export const metadata: Metadata = {
-  title: "Contact Hashtag Web3 | Partnerships, Support & Developer Inquiries",
+  title: "Contact Us | Partnerships, Support & Developer Inquiries",
   description:
     "Connect with the Hashtag Web3 team for event partnerships, hiring campaigns, API integrations, and community support.",
   alternates: {
     canonical: "https://hashtagweb3.com/contact",
   },
   openGraph: {
-    title: "Contact Hashtag Web3",
+    title: "Contact Us",
     description:
       "Direct communication channels for event partnerships, employer hiring campaigns, developer API integrations, and community support.",
     url: "https://hashtagweb3.com/contact",
@@ -25,7 +25,7 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "Contact Hashtag Web3",
+    title: "Contact Us",
     description:
       "Direct communication channels for event partnerships, employer hiring campaigns, and API integrations.",
     images: ["/og-image.png"],

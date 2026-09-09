@@ -9,6 +9,20 @@ import { NextRequest, NextResponse } from 'next/server';
 
 export const dynamic = 'force-dynamic';
 
+const CORS_HEADERS = { 'Access-Control-Allow-Origin': '*' };
+const DOC_URL = 'https://hashtagweb3.com/developers';
+
+function apiError(code: string, message: string, hint: string, status: number) {
+  return NextResponse.json({ error: { code, message, hint, docUrl: DOC_URL } }, { status, headers: CORS_HEADERS });
+}
+
+export async function OPTIONS() {
+  return new NextResponse(null, {
+    status: 204,
+    headers: { ...CORS_HEADERS, 'Access-Control-Allow-Methods': 'GET, OPTIONS' },
+  });
+}
+
 export async function GET(request: NextRequest) {
  try {
   const searchParams = request.nextUrl.searchParams;
@@ -18,17 +32,11 @@ export async function GET(request: NextRequest) {
 
   // Check for OAuth errors
   if (error) {
-   return NextResponse.json(
-    { error: `LinkedIn OAuth error: ${error}` },
-    { status: 400 }
-   );
+   return apiError('OAUTH_ERROR', `LinkedIn OAuth error: ${error}`, 'Restart the LinkedIn connection flow.', 400);
   }
 
   if (!code) {
-   return NextResponse.json(
-    { error: 'No authorization code received' },
-    { status: 400 }
-   );
+   return apiError('MISSING_CODE', 'No authorization code received.', 'Restart the LinkedIn connection flow.', 400);
   }
 
   // Exchange code for access token
@@ -51,9 +59,6 @@ export async function GET(request: NextRequest) {
   );
  } catch (error) {
   console.error('LinkedIn OAuth error:', error);
-  return NextResponse.json(
-   { error: (error as Error).message },
-   { status: 500 }
-  );
+  return apiError('INTERNAL_ERROR', (error as Error).message, 'Retry the OAuth flow.', 500);
  }
 }

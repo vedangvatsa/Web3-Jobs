@@ -71,23 +71,9 @@ export default async function EventsPage() {
               name: event.location,
               ...(event.url ? { url: event.url } : {}),
             },
-            organizer: {
-              '@type': 'Organization',
-              name: event.name.split(' ')[0] || 'Hashtag Web3',
-              url: event.url || `${siteUrl}/events`,
-            },
-            performer: {
-              '@type': 'PerformingGroup',
-              name: `${event.name} Speakers & Hosts`,
-            },
-            offers: {
-              '@type': 'Offer',
-              url: event.url || `${siteUrl}/events`,
-              price: '0',
-              priceCurrency: 'USD',
-              validFrom: event.startDate ? event.startDate.slice(0, 10) : new Date().toISOString().slice(0, 10),
-              availability: 'https://schema.org/InStock',
-            },
+            // NOTE: organizer/performer/offers are intentionally omitted:
+            // Web3Event carries no verified organizer, lineup, or ticket
+            // price, and emitting invented values is spam-risk structured data.
             url: event.url || `${siteUrl}/events`,
           },
         })),

@@ -5,6 +5,8 @@ import { getCompanies } from '@/lib/companies';
 import { getAllResourcePages } from '@/lib/pseo/resources';
 import { getCategories, getLessons } from '@/lib/learn';
 import { getAllJobsWithSlugs, hasSubstantialJobContent } from '@/lib/job-guides';
+import { getEvents } from '@/lib/events-server';
+import { getEventSlug } from '@/lib/events';
 
 const siteUrl = 'https://hashtagweb3.com';
 
@@ -259,41 +261,30 @@ const staticRoutes: MetadataRoute.Sitemap = [
   changeFrequency: 'monthly',
   priority: 0.8,
  },
- {
-  url: `${siteUrl}/docs`,
-  lastModified: new Date(),
-  changeFrequency: 'monthly',
-  priority: 0.8,
- },
- {
-  url: `${siteUrl}/agent-instructions.md`,
-  lastModified: new Date(),
-  changeFrequency: 'weekly',
-  priority: 0.8,
- },
- {
-  url: `${siteUrl}/auth.md`,
-  lastModified: new Date(),
-  changeFrequency: 'monthly',
-  priority: 0.8,
- },
- {
-  url: `${siteUrl}/events`,
-  lastModified: new Date(),
-  changeFrequency: 'daily',
-  priority: 0.8,
- },
+  {
+    url: `${siteUrl}/docs`,
+    lastModified: new Date(),
+    changeFrequency: 'monthly',
+    priority: 0.8,
+  },
+  {
+    url: `${siteUrl}/events`,
+    lastModified: new Date(),
+    changeFrequency: 'daily',
+    priority: 0.8,
+  },
 ];
 
 export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
- const [articles, companies, glossaryTerms, categorySlugs, resourcePages, learnCategories] = await Promise.all([
-  getAllArticles(),
-  getCompanies(),
-  getAllTerms(),
-  getAllCategorySlugs(),
-  getAllResourcePages(),
-  getCategories(),
- ]);
+  const [articles, companies, glossaryTerms, categorySlugs, resourcePages, learnCategories, eventsList] = await Promise.all([
+    getAllArticles(),
+    getCompanies(),
+    getAllTerms(),
+    getAllCategorySlugs(),
+    getAllResourcePages(),
+    getCategories(),
+    getEvents(),
+  ]);
 
  // Articles live at /<slug> (root level, shared [slug] route with glossary terms).
  // No date field exists in article frontmatter, so use the stable fallback.
@@ -366,23 +357,39 @@ export default async function sitemap(): Promise<MetadataRoute.Sitemap> {
 
   const jobsWithSlugs = await getAllJobsWithSlugs();
   const jobRoutes: MetadataRoute.Sitemap = jobsWithSlugs
-   .filter(({ job }) => hasSubstantialJobContent(job))
-   .map(({ job, slug }) => ({
-    url: `${siteUrl}/${slug}`,
-    lastModified: new Date(job.date),
-    changeFrequency: 'daily' as const,
-    priority: 0.8,
-   }));
+    .filter(({ job }) => hasSubstantialJobContent(job))
+    .map(({ job, slug }) => ({
+      url: `${siteUrl}/${slug}`,
+      lastModified: new Date(job.date),
+      changeFrequency: 'daily' as const,
+      priority: 0.8,
+    }));
+
+  // Event detail pages live at /<event-slug> (root). Only upcoming events —
+  // expired ones should fall out of the index, not consume crawl budget.
+  const today = new Date().toISOString().slice(0, 10);
+  const eventRoutes: MetadataRoute.Sitemap = eventsList
+    .filter((event) => (event.endDate || event.startDate || '') >= today)
+    .map((event) => {
+      const start = new Date(event.startDate);
+      return {
+        url: `${siteUrl}/${getEventSlug(event)}`,
+        lastModified: Number.isNaN(start.getTime()) ? new Date() : start,
+        changeFrequency: 'weekly' as const,
+        priority: 0.6,
+      };
+    });
 
   return uniqueRoutes([
-   ...staticRoutes,
-   ...glossaryCategoryRoutes,
-   ...glossaryRoutes,
-   ...articleRoutes,
-   ...companyRoutes,
-   ...jobRoutes,
-   ...resourceRoutes,
-   ...learnCategoryRoutes,
-   ...learnLessonRoutes,
+    ...staticRoutes,
+    ...glossaryCategoryRoutes,
+    ...glossaryRoutes,
+    ...articleRoutes,
+    ...companyRoutes,
+    ...jobRoutes,
+    ...eventRoutes,
+    ...resourceRoutes,
+    ...learnCategoryRoutes,
+    ...learnLessonRoutes,
   ]);
 }
