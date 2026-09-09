@@ -1,5 +1,5 @@
 {
-  "lastIndex": 125,
+  "lastIndex": 126,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -34,7 +34,8 @@
     "role90da0",
     "coindcx1789",
     "managerd7ef3",
-    "operations45dbf"
+    "operations45dbf",
+    "frontend6b0d3"
   ],
   "history": [
     {
@@ -1116,6 +1117,54 @@
       "platform": "instagram",
       "postedAt": "2026-09-08T21:57:04.846Z",
       "postId": "18131512216656341"
+    },
+    {
+      "slug": "frontend6b0d3",
+      "company": "SmartX",
+      "title": "UI/UX Designer",
+      "platform": "x",
+      "postedAt": "2026-09-09T00:21:57.724Z",
+      "postId": "2097480595161203140"
+    },
+    {
+      "slug": "frontend6b0d3",
+      "company": "SmartX",
+      "title": "UI/UX Designer",
+      "platform": "threads",
+      "postedAt": "2026-09-09T00:21:57.724Z",
+      "postId": "17969013606133141"
+    },
+    {
+      "slug": "frontend6b0d3",
+      "company": "SmartX",
+      "title": "UI/UX Designer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-09T00:21:57.724Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv2bg5ibf72i"
+    },
+    {
+      "slug": "frontend6b0d3",
+      "company": "SmartX",
+      "title": "UI/UX Designer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-09T00:21:57.724Z",
+      "postId": "0x3021c279ca08fe5ce7fcae2552816b6f7067dd5b"
+    },
+    {
+      "slug": "frontend6b0d3",
+      "company": "SmartX",
+      "title": "UI/UX Designer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T00:21:57.724Z",
+      "postId": "6aa0a6be3bd0dd9ef3202d82"
+    },
+    {
+      "slug": "frontend6b0d3",
+      "company": "SmartX",
+      "title": "UI/UX Designer",
+      "platform": "facebook",
+      "postedAt": "2026-09-09T00:21:57.724Z",
+      "postId": "691827047618629_1083505047590063"
     }
   ]
 }
