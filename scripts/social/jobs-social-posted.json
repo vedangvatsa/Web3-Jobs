@@ -39,7 +39,8 @@
     "fullstack8c90c",
     "marketingecc99",
     "compliance40",
-    "head23"
+    "head23",
+    "analyst1"
   ],
   "history": [
     {
@@ -1297,6 +1298,14 @@
       "platform": "linkedin",
       "postedAt": "2026-09-09T12:16:07.860Z",
       "postId": "6aa14e0f420834e1f95fc407"
+    },
+    {
+      "slug": "analyst1",
+      "company": "Tangem",
+      "title": "Web Attribution Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T13:54:14.217Z",
+      "postId": "6aa1650b64f280c9ee6444be"
     }
   ]
 }

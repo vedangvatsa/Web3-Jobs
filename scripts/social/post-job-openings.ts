@@ -408,7 +408,10 @@ async function postToFarcaster(
 
 // ── LinkedIn / Buffer ──
 
-async function postToLinkedInBuffer(text: string): Promise<string> {
+async function postToLinkedInBuffer(
+  text: string,
+  link?: { url: string; title?: string; description?: string; thumbnail?: string }
+): Promise<string> {
   const token = process.env.BUFFER_ACCESS_TOKEN || '***REMOVED-BUFFER-TOKEN***';
   const channelId = process.env.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb';
 
@@ -419,14 +422,29 @@ async function postToLinkedInBuffer(text: string): Promise<string> {
     throw new Error('Buffer LinkedIn Channel ID missing (BUFFER_LINKEDIN_CHANNEL_ID)');
   }
 
-  // Pure link post: Buffer passes text containing the link to LinkedIn,
-  // allowing LinkedInBot to scrape the URL and render the rich OG image preview card.
+  // Pure link post: Buffer passes text containing the link to LinkedIn.
+  // An explicit linkAttachment (resolved title/description/thumbnail) makes
+  // LinkedIn render the card deterministically instead of depending on its
+  // async scraper visiting the URL later (which fails during our deploys and
+  // is then cached missing for days).
   const input: any = {
     channelId,
     text,
     schedulingType: 'automatic',
     mode: 'shareNow',
   };
+  if (link && link.url) {
+    input.metadata = {
+      linkedin: {
+        linkAttachment: {
+          url: link.url,
+          ...(link.title ? { title: link.title } : {}),
+          ...(link.description ? { description: link.description } : {}),
+          ...(link.thumbnail ? { thumbnail: { url: link.thumbnail } } : {}),
+        },
+      },
+    };
+  }
 
   const query = `
     mutation CreatePost($input: CreatePostInput!) {
@@ -466,44 +484,68 @@ async function postToLinkedInBuffer(text: string): Promise<string> {
 
 const LINKEDIN_BOT_UA = 'LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient)';
 
+function decodeEntities(s: string): string {
+  return s
+    .replace(/&amp;/g, '&')
+    .replace(/&lt;/g, '<')
+    .replace(/&gt;/g, '>')
+    .replace(/&quot;/g, '"')
+    .replace(/&#39;|&apos;/g, "'")
+    .replace(/&#(\d+);/g, (_, n) => String.fromCharCode(parseInt(n, 10)));
+}
+
+export interface LinkedInPreview {
+  title: string;
+  description: string;
+  image: string;
+}
+
 // Readiness gate: fetch the /li URL exactly as LinkedIn's crawler would and
 // assert the page + its og:image are servable BEFORE handing text to Buffer.
+// Returns the resolved card data for the explicit linkAttachment, or null.
 // A cardless post burns the URL in LinkedIn's cache (~7d), so fail closed:
 // if our own serving is broken (deploy in flight, 5xx, missing tags), skip
 // the LinkedIn publish for this run instead of posting blind.
-async function verifyLinkedInServing(slug: string): Promise<boolean> {
+async function verifyLinkedInServing(slug: string): Promise<LinkedInPreview | null> {
   const pageUrl = `${SITE_URL}/${slug}/li`;
   try {
     const res = await fetch(pageUrl, { headers: { 'User-Agent': LINKEDIN_BOT_UA } });
     if (res.status !== 200) {
       console.error(`LinkedIn readiness: page HTTP ${res.status} for ${pageUrl} — skipping LinkedIn publish`);
-      return false;
+      return null;
     }
     const html = await res.text();
     if (html.length > 150000) {
       console.error(`LinkedIn readiness: page ${html.length}b exceeds crawler comfort zone — skipping LinkedIn publish`);
-      return false;
+      return null;
     }
-    if (!/<meta property="og:title"[^>]+content="[^"]{10,}"/.test(html)) {
+    const titleMatch = html.match(/<meta property="og:title"[^>]+content="([^"]{10,})"/);
+    if (!titleMatch) {
       console.error('LinkedIn readiness: og:title missing/empty — skipping LinkedIn publish');
-      return false;
+      return null;
     }
     const m = html.match(/<meta property="og:image"[^>]+content="([^"]+)"/);
     if (!m) {
       console.error('LinkedIn readiness: og:image missing — skipping LinkedIn publish');
-      return false;
+      return null;
     }
     const imgRes = await fetch(m[1].replace(/&amp;/g, '&'), { headers: { 'User-Agent': LINKEDIN_BOT_UA } });
     const ct = imgRes.headers.get('content-type') || '';
     if (!imgRes.ok || !ct.startsWith('image/')) {
       console.error(`LinkedIn readiness: image HTTP ${imgRes.status} ${ct} — skipping LinkedIn publish`);
-      return false;
+      return null;
     }
+    const descMatch = html.match(/<meta property="og:description"[^>]+content="([^"]+)"/);
+    const preview = {
+      title: decodeEntities(titleMatch[1]).slice(0, 200),
+      description: decodeEntities(descMatch ? descMatch[1] : '').slice(0, 300),
+      image: m[1].replace(/&amp;/g, '&'),
+    };
     console.log(`LinkedIn readiness: page 200 (${html.length}b) + og tags + image ${imgRes.status} ${ct} — servable, publishing`);
-    return true;
+    return preview;
   } catch (err) {
     console.error('LinkedIn readiness check failed:', (err as Error).message, '— skipping LinkedIn publish');
-    return false;
+    return null;
   }
 }
 
@@ -1069,10 +1111,16 @@ async function main() {
   if (platform === 'linkedin' || shouldPostAll) {
     try {
       console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
-      if (!(await verifyLinkedInServing(slug))) {
+      const preview = await verifyLinkedInServing(slug);
+      if (!preview) {
         console.error('✗ LinkedIn publish skipped by readiness gate (see above). Not marking as posted.');
       } else {
-        const bufferPostId = await postToLinkedInBuffer(linkedinPostText);
+        const bufferPostId = await postToLinkedInBuffer(linkedinPostText, {
+          url: linkedinUrl,
+          title: preview.title,
+          description: preview.description || undefined,
+          thumbnail: preview.image,
+        });
         console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
         state.history.push({
           slug,

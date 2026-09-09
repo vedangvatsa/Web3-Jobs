@@ -12,6 +12,11 @@
 import fs from 'fs';
 import path from 'path';
 import dotenv from 'dotenv';
+import {
+  isGeneralOrPlaceholderJobTitle,
+  isUnrelatedOrNonWeb3JobTitle,
+  isInvalidJobLink,
+} from '../src/lib/job-filters.js';
 
 try { dotenv.config({ path: new URL('../.env.local', import.meta.url).pathname }); } catch {}
 
@@ -97,6 +102,15 @@ async function pickJobs(count) {
   for (const j of shuffled) {
     if (selected.length >= count) break;
     const company = (j.company || '').trim();
+    const title = (j.title || '').trim();
+    const link = (j.link || '').trim();
+
+    // Skip incomplete or invalid jobs missing title, company, or link
+    if (!company || !title || !link) continue;
+    if (isGeneralOrPlaceholderJobTitle(title)) continue;
+    if (isUnrelatedOrNonWeb3JobTitle(title)) continue;
+    if (isInvalidJobLink(link)) continue;
+
     if (usedCompanies.has(company.toLowerCase())) continue;
     usedCompanies.add(company.toLowerCase());
     selected.push(j);
