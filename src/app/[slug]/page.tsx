@@ -2,7 +2,7 @@
 import { getArticle, getAllArticles } from '@/lib/articles';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
-import { notFound, redirect } from 'next/navigation';
+import { notFound, permanentRedirect, redirect } from 'next/navigation';
 import * as fs from 'fs';
 import * as path from 'path';
 import { getCompanyBySlug, getCompanies } from '@/lib/companies';
@@ -36,6 +36,7 @@ import {
   getJobBySlug,
   getOrFetchRawJobContent,
   hasSubstantialJobContent,
+  resolveJobSlug,
 } from '@/lib/job-guides';
 import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
@@ -71,8 +72,10 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
-  // Check if it's a job first (root-level: /trader, /bd)
-  const jobMeta = await getJobBySlug(params.slug);
+  // Check if it's a job first (root-level: /trader, /bd).
+  // resolveJobSlug also finds retitled postings via the slug archive, so
+  // metadata always describes the live canonical (redirects supersede it).
+  const jobMeta = (await resolveJobSlug(params.slug)).job;
   if (jobMeta) {
     const siteUrl = 'https://hashtagweb3.com';
     const { getJobSlug } = await import('@/lib/job-slugs');
@@ -324,8 +327,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
-  // Check if it's a job (root-level: /trader, /bd)
-  const job = await getJobBySlug(params.slug);
+  // Check if it's a job (root-level: /trader, /bd).
+  // Retired slugs whose posting is still live elsewhere 308 to the live
+  // canonical instead of serving stale copies or 404ing.
+  const resolved = await resolveJobSlug(params.slug);
+  if (resolved.kind === 'moved' && resolved.canonicalSlug) {
+    permanentRedirect(`/${resolved.canonicalSlug}`);
+  }
+  const job = resolved.job;
   if (job) {
     const siteUrl = 'https://hashtagweb3.com';
     const companySlug = getCompanySlug(job.company);
