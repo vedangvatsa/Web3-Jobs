@@ -246,18 +246,6 @@ const nextConfig = {
           },
         ],
       },
-      // OG image endpoint: must be publicly cacheable so LinkedIn/Slack/Discord
-      // link preview crawlers can fetch and display it. The hosting platform
-      // overrides /api/* with Cache-Control: private by default; this rule
-      // restores public caching specifically for /api/og.
-      {
-        source: '/api/og',
-        headers: [
-          { key: 'Cache-Control', value: 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400' },
-          { key: 'Access-Control-Allow-Origin', value: '*' },
-          { key: 'X-Robots-Tag', value: 'all' },
-        ],
-      },
       {
         source: '/api/:path*',
         headers: [
