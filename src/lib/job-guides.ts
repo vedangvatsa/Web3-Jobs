@@ -568,13 +568,13 @@ export async function getJobBySlug(slug: string): Promise<Job | null> {
     }
   }
 
-  // 6. Loose prefix matching on job title + company if slug is hyphenated (e.g., devops-andromeda)
-  const matchingByPrefixOnly = allJobs.find((job) => {
-    const s = (job.slug || '').toLowerCase();
-    return s && cleanSlug.startsWith(s);
-  });
-  if (matchingByPrefixOnly) return matchingByPrefixOnly;
-
+  // NOTE: there is deliberately NO loose "startsWith" fallback here. A rule
+  // like `cleanSlug.startsWith(job.slug)` matched unrelated jobs by string
+  // coincidence (e.g. stale /compliance35218 served the /compliance3 posting
+  // with HTTP 200), creating duplicate URLs with mismatched content and
+  // schema url. Unknown slugs must fall through to null so routes 404;
+  // legit old links are covered by the legacy archive (rule 4) and the
+  // dash-style fallbacks (rule 5) above.
   return null;
 }
 
