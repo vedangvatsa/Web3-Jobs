@@ -1,6 +1,7 @@
 import { getJobs } from "@/lib/jobs";
 import { getJobSlug } from "@/lib/job-slugs";
 import { buildSynthesizedJobContent } from "@/lib/job-guides";
+import { normalizeSingleLocation } from "@/lib/job-filters";
 import { NextResponse } from "next/server";
 
 export const revalidate = 3600; // Cache for 1 hour
@@ -17,8 +18,17 @@ function escapeXml(unsafe: string): string {
 export async function GET() {
   const siteUrl = "https://hashtagweb3.com";
   const allJobs = await getJobs();
-  // Include up to 500 verified jobs for aggregators
-  const feedJobs = allJobs.slice(0, 500);
+
+  // PostJobFree requirement: only jobs posted in the last 30 days
+  const thirtyDaysAgoMs = Date.now() - 30 * 24 * 60 * 60 * 1000;
+  const recentJobs = allJobs.filter((job) => {
+    if (!job.date) return false;
+    const t = Date.parse(job.date);
+    return Number.isFinite(t) && t >= thirtyDaysAgoMs;
+  });
+
+  // Include up to 500 verified recent jobs
+  const feedJobs = recentJobs.slice(0, 500);
 
   const jobsXml = feedJobs
     .map((job) => {
@@ -27,7 +37,7 @@ export async function GET() {
       const applyUrl = job.link || url;
       const title = job.title;
       const company = job.company;
-      const location = job.location || "Remote";
+      const location = normalizeSingleLocation(job.location);
       const department = job.department || "Web3 / Blockchain";
       const date = job.date || new Date().toISOString().split("T")[0];
 

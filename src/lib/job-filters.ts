@@ -129,3 +129,33 @@ export function validateJobPosting(job: {
   }
   return { valid: true };
 }
+
+/**
+ * Normalizes multi-location strings (e.g. "UNITED STATES - Remote, CANADA - Remote, LATAM - Remote"
+ * or "Denver, CO; New York, NY; Westlake, TX") down to a single clean location as required by job aggregators.
+ */
+export function normalizeSingleLocation(rawLocation?: string | null): string {
+  if (!rawLocation || !rawLocation.trim()) return 'Remote';
+  let loc = rawLocation.trim();
+
+  // If semicolon-separated, take the first location segment
+  if (loc.includes(';')) {
+    loc = loc.split(';')[0].trim();
+  }
+
+  // If slash-separated multi-city (e.g., "London / New York"), take the first city unless it's "Remote"
+  if (loc.includes(' / ') && !loc.toLowerCase().includes('remote')) {
+    loc = loc.split(' / ')[0].trim();
+  }
+
+  // If comma-separated multi-region (e.g., "UNITED STATES - Remote, CANADA - Remote, LATAM - Remote")
+  if (loc.includes(', ') && (loc.includes('- Remote') || loc.includes('Remote,'))) {
+    const parts = loc.split(',').map((s) => s.trim()).filter(Boolean);
+    if (parts.length > 1) {
+      loc = parts[0];
+    }
+  }
+
+  return loc || 'Remote';
+}
+
