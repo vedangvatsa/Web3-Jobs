@@ -280,11 +280,18 @@ export async function GET(request: NextRequest) {
       // Pre-fetch logo bytes into a data URL. Satori silently drops remote
       // <img> sources at render time (string width/height also collapse to
       // zero), which is why logos were missing from job cards entirely.
+      // Bounded with a short timeout: on cold instances this self-fetch can
+      // hang for many seconds, pushing total render past crawler image
+      // timeouts and flipping the whole card to the 307 default fallback.
+      // A slow logo must degrade to a logo-less card, never to a wrong one.
       let logoDataUrl: string | null = null;
       if (companyLogoUrl) {
+        const logoController = new AbortController();
+        const logoTimeout = setTimeout(() => logoController.abort(), 4000);
         try {
           const logoRes = await fetch(companyLogoUrl, {
             headers: { 'User-Agent': 'HashtagWeb3-OG/1.0' },
+            signal: logoController.signal,
           });
           if (logoRes.ok) {
             const contentType = (logoRes.headers.get('content-type') || 'image/png').split(';')[0].trim();
@@ -302,6 +309,8 @@ export async function GET(request: NextRequest) {
           }
         } catch {
           logoDataUrl = null;
+        } finally {
+          clearTimeout(logoTimeout);
         }
       }
 
