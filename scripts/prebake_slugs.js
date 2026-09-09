@@ -8,6 +8,7 @@
 
 const fs = require('fs');
 const path = require('path');
+const { execSync } = require('child_process');
 
 const CACHE_PATH = path.join(__dirname, '../content/jobs-cache.json');
 
@@ -209,6 +210,34 @@ const validJobs = rawJobs
 const roleCounters = {};
 const existingSlugs = new Set(validJobs.map(j => j.slug).filter(Boolean));
 
+// --- Slug stability & preservation ---------------------------------------
+// A job's slug must survive refreshes: reuse the previous slug whenever the
+// employer URL identity matches, never reassign a retired slug to a
+// different posting, and record disappeared slugs in the legacy archive so
+// old links 308 to the live posting instead of 404ing.
+const ARCHIVE_PATH = path.join(__dirname, '../content/legacy-slugs-archive.json');
+let legacyArchive = {};
+try {
+  if (fs.existsSync(ARCHIVE_PATH)) legacyArchive = JSON.parse(fs.readFileSync(ARCHIVE_PATH, 'utf-8'));
+} catch (e) { console.warn('  ⚠️ Could not read legacy archive:', e.message); }
+const archivedSlugs = new Set(Object.keys(legacyArchive));
+// Never mint over a live slug OR any slug that ever existed.
+const takenSlugs = new Set([...existingSlugs, ...archivedSlugs]);
+
+// identity -> slug from archive first, live entries win ties (restore the
+// live URL when known; resurrect the retired URL when the posting returns).
+const identityToSlug = new Map();
+for (const [slug, entry] of Object.entries(legacyArchive)) {
+  if (!entry) continue;
+  const k = getJobIdentity({ id: entry.id, title: entry.title, company: entry.company, link: entry.link });
+  if (k && !identityToSlug.has(k)) identityToSlug.set(k, slug);
+}
+for (const job of validJobs) {
+  if (!job.slug) continue;
+  const k = getJobIdentity(job);
+  if (k) identityToSlug.set(k, job.slug);
+}
+
 // Count existing role counts
 for (const s of existingSlugs) {
   const m = s.match(/^([a-z]+)(\d+)$/);
@@ -220,23 +249,67 @@ for (const s of existingSlugs) {
 }
 
 let updated = 0;
+let reused = 0;
 const assignedSlugs = new Set();
 const outputJobs = validJobs.map(job => {
-  if (!job.slug || assignedSlugs.has(job.slug)) {
-    const role = getOneWordRole(job.title || 'job');
-    roleCounters[role] = (roleCounters[role] || 0) + 1;
-    let newSlug = `${role}${roleCounters[role]}`;
-    while (existingSlugs.has(newSlug) || assignedSlugs.has(newSlug)) {
-      roleCounters[role]++;
-      newSlug = `${role}${roleCounters[role]}`;
-    }
-    assignedSlugs.add(newSlug);
-    updated++;
-    return { ...job, slug: newSlug };
+  if (job.slug && !assignedSlugs.has(job.slug)) {
+    assignedSlugs.add(job.slug);
+    return job;
   }
-  assignedSlugs.add(job.slug);
-  return job;
+  // Same posting as a previous refresh (matched by employer-URL identity)?
+  // Reuse its slug so the URL never churns.
+  const reuse = identityToSlug.get(getJobIdentity(job));
+  if (reuse && !assignedSlugs.has(reuse)) {
+    assignedSlugs.add(reuse);
+    reused++;
+    return { ...job, slug: reuse };
+  }
+  const role = getOneWordRole(job.title || 'job');
+  roleCounters[role] = (roleCounters[role] || 0) + 1;
+  let newSlug = `${role}${roleCounters[role]}`;
+  while (takenSlugs.has(newSlug) || assignedSlugs.has(newSlug)) {
+    roleCounters[role]++;
+    newSlug = `${role}${roleCounters[role]}`;
+  }
+  takenSlugs.add(newSlug);
+  assignedSlugs.add(newSlug);
+  updated++;
+  return { ...job, slug: newSlug };
 });
 
+// Preserve every retired slug: anything prod currently addresses (the last
+// committed file) or that entered this run but drops out of the output gets
+// an archive record (identity included) so old links 308 to the live posting
+// instead of 404ing.
+const outSlugs = new Set(outputJobs.map(j => j.slug));
+let archivedCount = 0;
+const retireSlug = (slug, job) => {
+  if (!slug || outSlugs.has(slug) || legacyArchive[slug]) return;
+  legacyArchive[slug] = { id: job.id, link: job.link, company: job.company, title: job.title };
+  archivedCount++;
+};
+// (a) entries dropped by prebake's own filters (blocked/placeholder roles)
+for (const job of rawJobs) {
+  if (!job || typeof job !== 'object') continue;
+  retireSlug(job.slug, job);
+}
+// (b) entries dropped upstream by ingest (never reach prebake): compare
+// against the last committed file, which is what prod currently serves.
+// Scoped with -C to the repo root so a stray cwd can never diff the wrong tree.
+try {
+  const repoRoot = path.join(__dirname, '..');
+  const prevRaw = execSync('git -C "' + repoRoot + '" show HEAD:content/jobs-cache.json', { maxBuffer: 128 * 1024 * 1024 }).toString('utf-8');
+  for (const job of JSON.parse(prevRaw)) {
+    if (!job || typeof job !== 'object') continue;
+    retireSlug(job.slug, job);
+  }
+} catch (e) {
+  console.warn('  ⚠️ slug-retirement scan skipped (no git HEAD cache):', e.message);
+}
+if (archivedCount > 0) {
+  fs.writeFileSync(ARCHIVE_PATH, JSON.stringify(legacyArchive, null, 2));
+  console.log(`  ${archivedCount} retired slugs preserved in legacy archive`);
+}
+
 fs.writeFileSync(CACHE_PATH, JSON.stringify(outputJobs, null, 2));
-console.log(`\n✅ Done in ${Date.now()-t0}ms — ${updated} new slugs added, ${outputJobs.length} total valid jobs saved`);
+console.log(`\n✅ Done in ${Date.now()-t0}ms — ${updated} new slugs added, ${reused} reused by identity, ${outputJobs.length} total valid jobs saved`);
