@@ -412,7 +412,7 @@ async function postToLinkedInBuffer(
   text: string,
   link?: { url: string; title?: string; description?: string; thumbnail?: string }
 ): Promise<string> {
-  const token = process.env.BUFFER_ACCESS_TOKEN || '***REMOVED-BUFFER-TOKEN***';
+  const token = process.env.BUFFER_ACCESS_TOKEN;
   const channelId = process.env.BUFFER_LINKEDIN_CHANNEL_ID || '69c5b139af47dacb695b5feb';
 
   if (!token) {

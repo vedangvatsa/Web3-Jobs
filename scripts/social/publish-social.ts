@@ -1040,7 +1040,10 @@ async function scheduleToBuffer(token: string, orgId: string) {
 }
 
 if (process.argv.includes('--buffer')) {
- const token = process.env.BUFFER_ACCESS_TOKEN || '***REMOVED-BUFFER-TOKEN***';
+ const token = process.env.BUFFER_ACCESS_TOKEN;
+ if (!token) {
+  throw new Error('Buffer Access Token missing (BUFFER_ACCESS_TOKEN)');
+ }
  const orgId = process.env.BUFFER_ORG_ID || '69c5b0f799d3bd8de475e25a';
  scheduleToBuffer(token, orgId).catch(console.error);
 } else {
