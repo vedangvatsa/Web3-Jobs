@@ -1,6 +1,6 @@
 {
   "name": "@hashtag_web3_/sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official TypeScript/JavaScript SDK for Hashtag Web3 jobs, crypto news, events, and technical glossary APIs.",
   "main": "dist/index.js",
   "module": "dist/index.mjs",
@@ -19,14 +19,7 @@
   ],
   "author": "Hashtag Web3 <support@hashtagweb3.com>",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/vedangvatsa/Web3-Jobs"
-  },
   "homepage": "https://hashtagweb3.com",
-  "bugs": {
-    "url": "https://github.com/vedangvatsa/Web3-Jobs/issues"
-  },
   "publishConfig": {
     "access": "public"
   }

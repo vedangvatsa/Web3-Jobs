@@ -95,11 +95,11 @@ export async function GET() {
       ],
 
       sdk: {
-        javascript_typescript: { package: '@hashtag_web3_/sdk', registry: 'https://www.npmjs.com/package/@hashtag_web3_/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
-        python: { package: 'hashtagweb3', registry: 'https://pypi.org/project/hashtagweb3', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
-        ruby: { package: 'hashtagweb3', registry: 'https://rubygems.org/gems/hashtagweb3', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
-        go: { module: 'github.com/hashtagweb3/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
-        cli: { package: 'hashtagweb3', command: 'npx hashtagweb3 jobs --search Solidity', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+        javascript_typescript: { package: '@hashtag_web3_/sdk', registry: 'https://www.npmjs.com/package/@hashtag_web3_/sdk' },
+        python: { package: 'hashtagweb3', registry: 'https://pypi.org/project/hashtagweb3' },
+        ruby: { package: 'hashtagweb3', registry: 'https://rubygems.org/gems/hashtagweb3' },
+        go: { module: 'github.com/hashtagweb3/sdk' },
+        cli: { package: 'hashtagweb3', command: 'npx hashtagweb3 jobs --search Solidity' },
       },
 
       nlweb: {
@@ -143,7 +143,6 @@ export async function GET() {
 
       links: {
         homepage: 'https://hashtagweb3.com',
-        github: 'https://github.com/vedangvatsa/Web3-Jobs',
         api_policy: 'https://hashtagweb3.com/api-policy',
         terms_of_use: 'https://hashtagweb3.com/terms-of-use.md',
         sitemap: 'https://hashtagweb3.com/sitemap.xml',
