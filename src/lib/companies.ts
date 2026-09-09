@@ -247,6 +247,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'safe': 'https://safe.global',
  'orderly': 'https://orderly.network',
  'navi': 'https://naviprotocol.io',
+ 'xhunt': 'https://xhunt.ai',
  'wincent': 'https://wincent.io',
  'moonpay': 'https://moonpay.com',
  'magiceden': 'https://magiceden.io',
