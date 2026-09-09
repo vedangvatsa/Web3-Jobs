@@ -34,7 +34,7 @@ export async function POST(request: NextRequest) {
  try {
   // Verify authorization (protect from unauthorized access)
   const authHeader = request.headers.get('authorization');
-  const expectedToken = process.env.CRON_SECRET || 'your-secret-token';
+  const expectedToken = process.env.CRON_SECRET;
   
   if (authHeader !== `Bearer ${expectedToken}`) {
     return apiError('UNAUTHORIZED', 'Unauthorized.', 'Provide a valid Authorization: Bearer <CRON_SECRET> header.', 401);
