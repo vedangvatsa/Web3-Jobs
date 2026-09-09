@@ -1,13 +1,14 @@
 import { getJobs } from '@/lib/jobs';
 import { getJobSlug } from '@/lib/job-slugs';
 import { buildSynthesizedJobContent, hasSubstantialJobContent } from '@/lib/job-guides';
+import { normalizeSingleLocation } from '@/lib/job-filters';
 import { NextResponse } from 'next/server';
 import * as cheerio from 'cheerio';
 
 export const revalidate = 3600; // Revalidate every hour
 
-function escapeXml(unsafe: string): string {
-  return unsafe
+function escapeXml(unsafe: any): string {
+  return String(unsafe || '')
     .replace(/&/g, '&amp;')
     .replace(/</g, '&lt;')
     .replace(/>/g, '&gt;')
@@ -83,9 +84,17 @@ export async function GET() {
   const siteUrl = 'https://hashtagweb3.com';
   const allJobs = await getJobs();
 
+  // PostJobFree requirement: only jobs posted in the last 30 days
+  const thirtyDaysAgoMs = Date.now() - 30 * 24 * 60 * 60 * 1000;
+  const recentJobs = allJobs.filter((job) => {
+    if (!job.date) return false;
+    const t = Date.parse(job.date);
+    return Number.isFinite(t) && t >= thirtyDaysAgoMs;
+  });
+
   const jobNodes: string[] = [];
 
-  for (const job of allJobs) {
+  for (const job of recentJobs) {
     const slug = getJobSlug(job);
     const canonicalUrl = `${siteUrl}/${slug}`;
 
@@ -113,8 +122,8 @@ export async function GET() {
     // Wrap description content safely inside CDATA section
     const descriptionCdata = `<![CDATA[${synthesizedHtml}]]>`;
 
-    // Adzuna Requirement: location must be a valid location string
-    const rawLoc = (job.location || '').trim();
+    // Single location requirement
+    const rawLoc = normalizeSingleLocation(job.location);
     let locationStr = rawLoc;
     let isRemote = 0;
 
