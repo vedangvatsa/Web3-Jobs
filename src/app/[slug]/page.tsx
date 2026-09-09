@@ -146,14 +146,14 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       alternates: { canonical: canonicalUrl },
       openGraph: {
         type: 'website',
-        title: `${companyMeta.name} | Hashtag Web3`,
+        title: `${companyMeta.name} Jobs`,
         description: desc,
         url: canonicalUrl,
         images: [{ url: ogImageUrl, width: 1200, height: 630, alt: `${companyMeta.name} Jobs` }],
       },
       twitter: {
         card: 'summary_large_image',
-        title: `${companyMeta.name} | Hashtag Web3`,
+        title: `${companyMeta.name} Jobs`,
         description: desc,
         images: [ogImageUrl],
       },
@@ -202,7 +202,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const ecoText = ecosystems.length > 0 ? ` (${ecosystems.join(', ')})` : '';
 
     const title = `${event.name} - Dates, Venue & Registration`;
-    const ogTitle = `${title} | Hashtag Web3`;
+    const ogTitle = title;
     const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
 
     const ogImageUrl = event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`;
