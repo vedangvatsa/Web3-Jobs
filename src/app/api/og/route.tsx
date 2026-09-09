@@ -370,7 +370,7 @@ export async function GET(request: NextRequest) {
                 </div>
               ) : null}
 
-              {/* Middle: Centered text: {Company} is hiring */}
+              {/* Middle: Centered text: {Company} is hiring for */}
               <div
                 style={{
                   display: 'flex',
@@ -399,7 +399,7 @@ export async function GET(request: NextRequest) {
                     letterSpacing: '-0.5px',
                   }}
                 >
-                  is hiring
+                  is hiring for
                 </div>
               </div>
 
