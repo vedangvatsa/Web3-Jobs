@@ -1,0 +1,35 @@
+{
+  "name": "hashtagweb3",
+  "version": "1.0.1",
+  "description": "Official Hashtag Web3 CLI — search Web3 jobs, crypto news, events, and glossary from your terminal.",
+  "bin": {
+    "hashtagweb3": "./bin/hashtagweb3.js"
+  },
+  "files": [
+    "bin/hashtagweb3.js",
+    "README.md"
+  ],
+  "keywords": [
+    "web3",
+    "crypto",
+    "jobs",
+    "blockchain",
+    "cli"
+  ],
+  "author": "Hashtag Web3 <support@hashtagweb3.com>",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/vedangvatsa/Web3-Jobs"
+  },
+  "homepage": "https://hashtagweb3.com",
+  "bugs": {
+    "url": "https://github.com/vedangvatsa/Web3-Jobs/issues"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
