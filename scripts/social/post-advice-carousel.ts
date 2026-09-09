@@ -154,6 +154,30 @@ async function renderSlideJpeg(
   fontData: Buffer
 ): Promise<Buffer> {
   const isCta = type === 'cta';
+  const isCover = type === 'cover';
+  const accent = '#111111';
+  const background = '#ffffff';
+  const foreground = '#111111';
+  const muted = '#666666';
+  const titleSize = isCta ? '86px' : title.length > 52 ? '62px' : title.length > 34 ? '74px' : '88px';
+  const bodySize = body.length > 190 ? '30px' : body.length > 125 ? '34px' : '38px';
+  const slideIndex = slideNum.split('/')[0].trim();
+
+  const label = (text: string, color = muted) => ({
+    type: 'div',
+    props: {
+      style: {
+        display: 'flex',
+        fontSize: '22px',
+        fontWeight: 'bold',
+        color,
+        letterSpacing: '3px',
+        textTransform: 'uppercase',
+      },
+      children: text,
+    },
+  });
+
   const element = {
     type: 'div',
     props: {
@@ -162,12 +186,49 @@ async function renderSlideJpeg(
         height: '1080px',
         display: 'flex',
         flexDirection: 'column',
-        justifyContent: 'space-between',
-        backgroundColor: '#ffffff',
-        padding: '96px 96px',
+        position: 'relative',
+        overflow: 'hidden',
+        backgroundColor: background,
+        padding: '72px',
       },
       children: [
-        // Middle body: Perfectly Symmetrical Big Bold High-Contrast Typography
+        {
+          type: 'div',
+          props: {
+            style: {
+              position: 'absolute',
+              top: '0px',
+              left: '0px',
+              width: '100%',
+              height: '10px',
+              backgroundColor: accent,
+            },
+          },
+        },
+        {
+          type: 'div',
+          props: {
+            style: {
+              display: 'flex',
+              alignItems: 'center',
+              justifyContent: 'space-between',
+              width: '100%',
+            },
+            children: [
+              {
+                type: 'div',
+                props: {
+                  style: { display: 'flex', alignItems: 'center', gap: '14px' },
+                  children: [
+                    { type: 'div', props: { style: { width: '14px', height: '14px', borderRadius: '50%', backgroundColor: accent } } },
+                    label('HASHTAG / WEB3', foreground),
+                  ],
+                },
+              },
+              label(slideNum),
+            ],
+          },
+        },
         {
           type: 'div',
           props: {
@@ -179,18 +240,22 @@ async function renderSlideJpeg(
               alignItems: isCta ? 'center' : 'flex-start',
               textAlign: isCta ? 'center' : 'left',
               width: '100%',
+              padding: isCta ? '80px 20px 20px' : '56px 24px 20px 0',
             },
             children: [
+              label(isCta ? 'YOUR NEXT MOVE' : isCover ? category : `FIELD NOTE ${slideIndex}`, accent),
               {
                 type: 'div',
                 props: {
                   style: {
                     display: 'flex',
-                    fontSize: isCta ? '96px' : title.length > 40 ? '80px' : title.length > 25 ? '88px' : '96px',
+                    fontSize: titleSize,
                     fontWeight: 'bold',
-                    color: '#090d16',
-                    lineHeight: '1.12',
-                    letterSpacing: '-3px',
+                    color: foreground,
+                    lineHeight: '1.08',
+                    letterSpacing: '-2.5px',
+                    marginTop: '28px',
+                    maxWidth: '900px',
                   },
                   children: title,
                 },
@@ -200,12 +265,12 @@ async function renderSlideJpeg(
                 props: {
                   style: {
                     display: 'flex',
-                    fontSize: '48px',
+                    fontSize: bodySize,
                     fontWeight: '500',
-                    color: '#334155',
-                    lineHeight: '1.4',
-                    marginTop: '44px',
-                    maxWidth: '888px',
+                    color: muted,
+                    lineHeight: '1.35',
+                    marginTop: '34px',
+                    maxWidth: '860px',
                   },
                   children: body,
                 },
@@ -213,27 +278,20 @@ async function renderSlideJpeg(
             ],
           },
         },
-        // Bottom row: Minimalist Branded Footer with Symmetric Centered Layout
         {
           type: 'div',
           props: {
             style: {
               display: 'flex',
-              justifyContent: isCta ? 'center' : 'space-between',
               alignItems: 'center',
+              justifyContent: 'space-between',
               width: '100%',
-              fontSize: '32px',
-              fontWeight: 'bold',
-              paddingTop: '32px',
+              paddingTop: '28px',
+              borderTop: '2px solid #e5e5e5',
             },
             children: [
-              {
-                type: 'span',
-                props: {
-                  style: { color: '#090d16', letterSpacing: '-0.5px' },
-                  children: isCta ? 'Subscribed by 60k+ Web3 builders' : 'hashtagweb3.com',
-                },
-              },
+              label(isCta ? 'SAVE THIS GUIDE' : 'HASHTAGWEB3.COM', foreground),
+              !isCta ? label('SWIPE →', accent) : label('BUILD WITH INTENT', accent),
             ],
           },
         },

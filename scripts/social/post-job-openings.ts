@@ -1311,7 +1311,7 @@ async function main() {
       const igCaption = `${company} is hiring ${title} (${location || 'Remote'}).\n\nWeb3 jobs: hashtagweb3.com\n\n${activeTagline}\n\n#web3 #web3jobs #hashtagweb3`;
       const igImageUrl = `${ogImageUrl}&format=square`;
       const igPostId = await postToInstagram(igCaption, [igImageUrl]);
-      console.log(`✓ Successfully published Carousel to Instagram! Post ID: ${igPostId}`);
+       console.log(`✓ Successfully published Instagram image post! Post ID: ${igPostId}`);
       state.history.push({
         slug,
         company,
