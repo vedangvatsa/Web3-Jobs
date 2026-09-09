@@ -4,7 +4,7 @@ import * as path from 'path';
 
 export async function GET() {
   const filePath = path.join(process.cwd(), 'public', 'logo-bimi.svg');
-  if (fs.existsSync(filePath)) {
+  try {
     const content = fs.readFileSync(filePath, 'utf-8');
     return new NextResponse(content, {
       status: 200,
@@ -14,6 +14,10 @@ export async function GET() {
         'Access-Control-Allow-Origin': '*',
       },
     });
+  } catch {
+    return NextResponse.json(
+      { error: { code: 'NOT_FOUND', message: 'SVG not found.', hint: 'The BIMI logo asset is missing on the server.', docUrl: 'https://hashtagweb3.com/developers' } },
+      { status: 404, headers: { 'Access-Control-Allow-Origin': '*' } }
+    );
   }
-  return new NextResponse('SVG not found', { status: 404 });
 }

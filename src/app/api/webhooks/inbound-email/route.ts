@@ -6,6 +6,22 @@ export const runtime = 'nodejs';
 
 export async function POST(request: NextRequest) {
   try {
+    // Optional shared-secret gate (set INBOUND_WEBHOOK_SECRET and configure
+    // the Resend webhook URL as .../inbound-email?secret=<value>). Unset =
+    // open (legacy behavior) so existing forwards never break silently.
+    const hookSecret = process.env.INBOUND_WEBHOOK_SECRET;
+    if (hookSecret) {
+      const provided =
+        request.nextUrl.searchParams.get('secret') ||
+        (request.headers.get('authorization') || '').replace(/^Bearer\s+/i, '');
+      if (provided !== hookSecret) {
+        return NextResponse.json(
+          { error: { code: 'UNAUTHORIZED', message: 'Unauthorized.', hint: 'Provide the webhook secret.', docUrl: 'https://hashtagweb3.com/developers' } },
+          { status: 401, headers: { 'Access-Control-Allow-Origin': '*' } }
+        );
+      }
+    }
+
     const payload = await request.json();
     
     // Resend webhooks put email details in the "data" object
@@ -47,10 +63,11 @@ To: ${to.join(', ')}
 
 `;
 
-    // Forward the email to the user's personal address
+    // Forward the email to the operator address (override via env)
+    const forwardTo = process.env.INBOUND_FORWARD_TO || 'vatsvedang@gmail.com';
     const result = await resend.emails.send({
       from: fromAddress,
-      to: 'vatsvedang@gmail.com',
+      to: forwardTo,
       replyTo: from, // Setting replyTo lets the user hit "Reply" in Gmail and message the sender directly
       subject: `[Fwd: ${to[0] || 'hi@hashtagweb3.com'}] ${subject}`,
       text: forwardHeaderTxt + (text || ''),

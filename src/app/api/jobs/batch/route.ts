@@ -9,12 +9,17 @@ export async function POST(request: NextRequest) {
     body = {};
   }
 
-  const queries: Array<{ search?: string; tag?: string; company?: string; limit?: number }> = 
+  const queries: Array<{ search?: string; tag?: string; company?: string; limit?: number }> =
     Array.isArray(body) ? body : (body.queries || body.requests || []);
+
+  // Bound fan-out: getJobs() scans the full cache per query.
+  const MAX_QUERIES = 20;
+  const MAX_LIMIT = 50;
+  const bounded = queries.slice(0, MAX_QUERIES);
 
   const allJobs = await getJobs();
 
-  const results = queries.map((q, idx) => {
+  const results = bounded.map((q, idx) => {
     let filtered = allJobs;
     if (q.search) {
       const term = q.search.toLowerCase();
@@ -23,7 +28,7 @@ export async function POST(request: NextRequest) {
     if (q.company) {
       filtered = filtered.filter(j => j.company.toLowerCase().includes(q.company!.toLowerCase()));
     }
-    const limit = q.limit || 10;
+    const limit = Math.min(Math.max(q.limit || 10, 1), MAX_LIMIT);
     return {
       index: idx,
       query: q,

@@ -4,14 +4,14 @@ import { useState, useMemo, useRef, useEffect } from 'react';
 import { Search } from 'lucide-react';
 import { Input } from '@/components/ui/input';
 import { CompanyCard } from '@/components/company-card';
-import type { Company } from '@/types';
+import type { CompanySummary } from '@/types';
 import type { CompanyLogoMap } from '@/lib/job-listing';
 
 const INITIAL_COUNT = 48;
 const LOAD_MORE_COUNT = 30;
 
 interface CompaniesBoardProps {
-  initialCompanies: Company[];
+  initialCompanies: CompanySummary[];
   companyLogos?: CompanyLogoMap;
 }
 

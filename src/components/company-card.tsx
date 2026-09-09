@@ -3,14 +3,14 @@
 import { Card, CardHeader, CardTitle } from '@/components/ui/card';
 import Link from 'next/link';
 import { CompanyLogo } from '@/components/company-logo';
-import type { Company } from '@/types';
+import type { CompanySummary } from '@/types';
 
 export function CompanyCard({
   company,
   logoUrl,
   faviconUrl,
 }: {
-  company: Company;
+  company: CompanySummary;
   logoUrl?: string | null;
   faviconUrl?: string | null;
 }) {

@@ -7,10 +7,31 @@ import { CommunityFeedBanner } from '@/components/community-feed-banner';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { breadcrumbSchema, faqSchema, serviceSchema } from '@/lib/site-schema';
+import type { Metadata } from 'next';
 
 const JOBS_PER_PAGE = 50;
 
 export const revalidate = 3600; // Revalidate every hour (ISR); cache refreshes every 8h via GitHub Actions
+
+export const metadata: Metadata = {
+  title: 'Web3 Jobs and Crypto Careers',
+  description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily for builders, engineers, and operators.',
+  alternates: {
+    canonical: 'https://hashtagweb3.com',
+  },
+  openGraph: {
+    title: 'Web3 Jobs and Crypto Careers',
+    description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
+    url: 'https://hashtagweb3.com',
+    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Jobs', width: 1200, height: 630 }],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: 'Web3 Jobs and Crypto Careers',
+    description: 'Find verified Web3 jobs, crypto careers, salary data, and remote blockchain roles. Updated daily.',
+    images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Jobs'],
+  },
+};
 
 export default async function JobsPage() {
   const allJobs = await getJobs();

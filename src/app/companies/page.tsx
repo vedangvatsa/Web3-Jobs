@@ -42,6 +42,16 @@ export default async function CompaniesPage() {
     };
   }
 
+  // Ship a lean projection to the client board: full Company objects carry
+  // every job posting + long-form copy (27MB RSC payload). The board only
+  // renders/searches slug, name, description, and jobCount.
+  const boardCompanies = companies.map((c) => ({
+    slug: c.slug,
+    name: c.name,
+    description: c.description ?? '',
+    jobCount: c.jobCount,
+  }));
+
   const siteUrl = 'https://hashtagweb3.com';
   const pageSchema = {
     '@context': 'https://schema.org',
@@ -65,7 +75,7 @@ export default async function CompaniesPage() {
             <article className="site-container">
               <TrustedBy />
               <CommunityFeedBanner label="company & hiring feed" />
-              <CompaniesBoard initialCompanies={companies} companyLogos={companyLogos} />
+              <CompaniesBoard initialCompanies={boardCompanies} companyLogos={companyLogos} />
             </article>
           </PageShell>
         </main>
