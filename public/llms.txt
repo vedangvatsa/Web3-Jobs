@@ -119,7 +119,7 @@ Official TypeScript / JavaScript SDK & Multi-Language Packages:
 - **PyPI SDK Package**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/)
 - **RubyGems Package**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3)
 - **Go Module**: [`github.com/hashtagweb3/sdk`](https://github.com/hashtagweb3/sdk)
-- **Smithery MCP Registry**: [`smithery.ai/server/@hashtagweb3/mcp`](https://smithery.ai/server/@hashtagweb3/mcp)
+- **Smithery MCP Registry**: [`smithery.ai/servers/hi-qiwk/hashtagweb3-mcp`](https://smithery.ai/servers/hi-qiwk/hashtagweb3-mcp)
 - **mcp.so Registry**: [`mcp.so/server/hashtagweb3`](https://mcp.so/server/hashtagweb3)
 - **Agent Plugins Manifest**: [`/.well-known/plugin.json`](https://hashtagweb3.com/.well-known/plugin.json)
 ```bash

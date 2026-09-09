@@ -454,7 +454,10 @@ npm install -g hashtagweb3`}</code></pre>
                 Hashtag Web3 Model Context Protocol (MCP) Server &amp; Manifest
               </h2>
               <p className="text-muted-foreground text-sm sm:text-base leading-relaxed">
-                Autonomous AI agents (Claude Desktop, Cursor, ChatGPT, Antigravity) can connect directly to Hashtag Web3 using our standardized Streamable HTTP MCP server at <code>https://hashtagweb3.com/.well-known/mcp</code> or <code>https://hashtagweb3.com/api/mcp</code>.
+                Autonomous AI agents (Claude Desktop, Cursor, ChatGPT, Antigravity) can connect directly to Hashtag Web3 using our standardized Streamable HTTP MCP server at <code>https://hashtagweb3.com/.well-known/mcp</code> or <code>https://hashtagweb3.com/api/mcp</code>. Also listed on the Smithery MCP registry:{' '}
+                <a href="https://smithery.ai/servers/hi-qiwk/hashtagweb3-mcp" target="_blank" rel="noopener noreferrer" className="text-primary hover:underline">
+                  smithery.ai/servers/hi-qiwk/hashtagweb3-mcp
+                </a>.
               </p>
               <div className="bg-zinc-950 p-4 rounded-lg text-zinc-100 text-xs font-mono overflow-x-auto">
                 <pre><code>{`// MCP Server configuration (mcp.json)
