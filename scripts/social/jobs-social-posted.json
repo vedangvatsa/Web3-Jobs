@@ -1,5 +1,5 @@
 {
-  "lastIndex": 128,
+  "lastIndex": 129,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -40,7 +40,8 @@
     "marketingecc99",
     "compliance40",
     "head23",
-    "analyst1"
+    "analyst1",
+    "engineer442"
   ],
   "history": [
     {
@@ -1306,6 +1307,62 @@
       "platform": "linkedin",
       "postedAt": "2026-09-09T13:54:14.217Z",
       "postId": "6aa1650b64f280c9ee6444be"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "x",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "2097734868369031595"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "17969819226160668"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv3zv37nr222"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "0x2dd136c552ef7db9e4c2f91a5100e28683a95cc7"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "6aa19397b230b7f443827d7a"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "691827047618629_1084150577525510"
+    },
+    {
+      "slug": "engineer442",
+      "company": "Bitdeer",
+      "title": "Staff / Principal Advanced Packaging Engineer",
+      "platform": "instagram",
+      "postedAt": "2026-09-09T17:12:21.055Z",
+      "postId": "18618746263000425"
     }
   ]
 }
