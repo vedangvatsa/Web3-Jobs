@@ -224,9 +224,11 @@ export function middleware(request: NextRequest) {
         // navigation; bot stacks (LinkedInBot, Meta-ExternalAgent, etc.) do not.
         // Treat "bot UA OR no browser navigation signals" as a crawler.
         const ua = request.headers.get('user-agent') || '';
-        const hasBrowserNavigationSignal = ['sec-fetch-mode', 'sec-fetch-dest', 'sec-fetch-user'].some((h) =>
-          request.headers.has(h)
-        );
+        const fetchMode = request.headers.get('sec-fetch-mode');
+        const fetchDest = request.headers.get('sec-fetch-dest');
+        const fetchUser = request.headers.get('sec-fetch-user');
+        const hasBrowserNavigationSignal =
+          fetchMode === 'navigate' || fetchDest === 'document' || fetchUser === '?1';
         const isSocialCrawler =
           /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster|Buffer|BufferBot|redditbot|Applebot|LinkedIn|embedly|quora link preview|outbrain|W3C_Validator/i.test(ua) ||
           !hasBrowserNavigationSignal;
