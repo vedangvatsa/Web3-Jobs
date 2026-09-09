@@ -140,14 +140,18 @@ export function middleware(request: NextRequest) {
     const ua = request.headers.get('user-agent') || '';
     const isLinkPreviewBot =
       /LinkedInBot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|Slackbot-LinkExpanding|Slack-ImgProxy|Twitterbot|WhatsApp|TelegramBot|Discordbot|Pinterestbot|vkShare|Applebot|redditbot|embedly|quora link preview|outbrain|Buffer|bufferbot/i.test(ua);
+    const lastPathSegment = pathname.replace(/\/+$/, '').split('/').pop()?.toLowerCase() || '';
+    const isSocialSuffix = Boolean(lastPathSegment && SOCIAL_UTM_MAP[lastPathSegment]);
 
-    if (isLinkPreviewBot) {
+    if (isLinkPreviewBot && !isSocialSuffix) {
       // Rewrite internally to /api/og-meta which returns a minimal HTML shell.
       // This route reads the same metadata as the real page but skips the full render.
       const rewriteUrl = request.nextUrl.clone();
       rewriteUrl.pathname = '/api/og-meta';
       rewriteUrl.searchParams.set('path', pathname);
-      return NextResponse.rewrite(rewriteUrl);
+      const rewriteHeaders = new Headers(request.headers);
+      rewriteHeaders.set('x-og-source-path', pathname);
+      return NextResponse.rewrite(rewriteUrl, { request: { headers: rewriteHeaders } });
     }
   }
 
@@ -227,8 +231,16 @@ export function middleware(request: NextRequest) {
           /Twitterbot|facebookexternalhit|Facebot|Meta-ExternalAgent|Meta-ExternalFetcher|LinkedInBot|Slackbot|TelegramBot|Discordbot|WhatsApp|Pinterest|vkShare|Bluesky|Warpcast|Farcaster|Buffer|BufferBot|redditbot|Applebot|LinkedIn|embedly|quora link preview|outbrain|W3C_Validator/i.test(ua) ||
           !hasBrowserNavigationSignal;
         if (isSocialCrawler) {
-          // Serve the destination page directly with HTTP 200 so link preview cards render OG tags immediately without relying on redirect following
-          return NextResponse.rewrite(url);
+          // Keep crawler responses tiny. Full RSC job pages can exceed
+          // LinkedIn's scraper limit; og-meta resolves the same job and emits
+          // only the metadata needed for the card.
+          const crawlerRewrite = request.nextUrl.clone();
+          crawlerRewrite.pathname = '/api/og-meta';
+          crawlerRewrite.search = '';
+          crawlerRewrite.searchParams.set('path', basePath);
+          const crawlerHeaders = new Headers(request.headers);
+          crawlerHeaders.set('x-og-source-path', basePath);
+          return NextResponse.rewrite(crawlerRewrite, { request: { headers: crawlerHeaders } });
         }
 
         // For human visitors, redirect with absolute URL and UTM parameters

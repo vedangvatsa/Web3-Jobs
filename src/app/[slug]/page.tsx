@@ -41,6 +41,7 @@ import {
 import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
+import { buildJobOgImageUrl } from '@/lib/job-og';
 
 
 type ArticlePageProps = {
@@ -83,12 +84,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const canonicalUrl = `${siteUrl}/${slug}`;
     const title = `${jobMeta.title} at ${jobMeta.company}`;
     const description = buildUniqueJobMetaDescription(jobMeta);
-    const deptParam = typeof jobMeta.department === 'string' 
-      ? jobMeta.department 
-      : (jobMeta.department as any)?.name || '';
-    const companySlug = getCompanySlug(jobMeta.company);
-    const logoSrc = resolveCompanyLogo(companySlug);
-    const ogImageUrl = `${siteUrl}/api/og?type=job&title=${encodeURIComponent(jobMeta.title)}&company=${encodeURIComponent(jobMeta.company)}&location=${encodeURIComponent(jobMeta.location || 'Remote')}${deptParam ? `&department=${encodeURIComponent(deptParam)}` : ''}${logoSrc ? `&logo=${encodeURIComponent(logoSrc)}` : ''}`;
+    const ogImageUrl = buildJobOgImageUrl(jobMeta, siteUrl);
     const hasVerifiedContent = hasSubstantialJobContent(jobMeta);
     return {
       title,
