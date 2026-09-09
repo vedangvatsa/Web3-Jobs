@@ -817,6 +817,56 @@ async function postToInstagram(
   }
 }
 
+// ── Deploy-quiet gate ──
+
+// Social crawlers scrape new post URLs within minutes of publishing. If an
+// App Hosting rollout is in flight (cold starts, traffic migration), the
+// scrape fails and the miss is cached for days — the #1 observed cause of
+// cardless posts. So before publishing, wait for any in-flight production
+// rollout to finish. Fail-open: without a GitHub token (local runs) or on
+// API errors, log and proceed — the per-platform readiness checks remain.
+async function waitForQuietDeploy(): Promise<void> {
+  const token = process.env.GITHUB_TOKEN;
+  const repo = process.env.GITHUB_REPOSITORY || 'vedangvatsa/Web3-Jobs';
+  if (!token) {
+    console.log('Deploy gate: no GITHUB_TOKEN, skipping rollout check.');
+    return;
+  }
+  const headers = {
+    Accept: 'application/vnd.github+json',
+    Authorization: `Bearer ${token}`,
+    'X-GitHub-Api-Version': '2022-11-28',
+  };
+  const deadline = Date.now() + 15 * 60 * 1000;
+  for (;;) {
+    try {
+      const headRes = await fetch(`https://api.github.com/repos/${repo}/commits/main`, { headers });
+      if (!headRes.ok) throw new Error(`commits API HTTP ${headRes.status}`);
+      const headSha = ((await headRes.json()) as any)?.sha;
+      if (!headSha) throw new Error('no HEAD sha');
+      const checksRes = await fetch(`https://api.github.com/repos/${repo}/commits/${headSha}/check-runs`, { headers });
+      if (!checksRes.ok) throw new Error(`check-runs API HTTP ${checksRes.status}`);
+      const runs = (((await checksRes.json()) as any)?.check_runs || []) as Array<{ name: string; status: string }>;
+      const busy = runs.some(
+        (r) => /app hosting/i.test(r.name) && (r.status === 'in_progress' || r.status === 'queued')
+      );
+      if (!busy) {
+        console.log('Deploy gate: no App Hosting rollout in flight — prod stable, publishing.');
+        return;
+      }
+      if (Date.now() >= deadline) {
+        console.warn('Deploy gate: rollout still in flight after 15 min — proceeding anyway (readiness checks remain).');
+        return;
+      }
+      console.log('Deploy gate: App Hosting rollout in flight — waiting 60s before publishing...');
+      await new Promise((r) => setTimeout(r, 60000));
+    } catch (err) {
+      console.warn('Deploy gate: check failed (%s) — proceeding (readiness checks remain).', (err as Error).message);
+      return;
+    }
+  }
+}
+
 // ── Main Scheduling & Selection ──
 
 async function main() {
@@ -1025,6 +1075,10 @@ async function main() {
     console.log('DRY RUN active: No external network requests were made to X, Threads, Bluesky, Farcaster, LinkedIn, Facebook, Reddit, or Instagram.');
     return;
   }
+
+  // Publish only into a quiet prod: scrapers fire within minutes and a
+  // mid-deploy scrape yields a cardless post cached for days (see gate).
+  await waitForQuietDeploy();
 
   const now = new Date().toISOString();
   const shouldPostAll = platform === 'all' || platform === 'both';
