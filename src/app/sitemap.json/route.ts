@@ -8,7 +8,10 @@ export const revalidate = 3600;
 
 export async function GET() {
   try {
-    const filePath = path.join(process.cwd(), 'public', 'sitemap.json');
+    // Single source of truth: public/.well-known/sitemap.json (written by
+    // scripts/generate-sitemap-json.ts). The duplicate public/sitemap.json
+    // was removed to avoid shipping the same 639KB twice.
+    const filePath = path.join(process.cwd(), 'public', '.well-known', 'sitemap.json');
     if (fs.existsSync(filePath)) {
       const content = fs.readFileSync(filePath, 'utf8');
       return new NextResponse(content, {
