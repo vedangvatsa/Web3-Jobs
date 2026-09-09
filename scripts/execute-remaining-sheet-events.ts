@@ -54,7 +54,7 @@ async function runFullSpreadsheetCampaign() {
 
     try {
       const res = await resend.emails.send({
-        from: "Alex from Hashtag Web3 <contact@hashtagweb3.com>",
+        from: "Alex from Hashtag Web3 <alex@hi.hashtagweb3.com>",
         to: target.toEmail,
         subject: `Paid Event Promotion // ${target.eventName} x Hashtag Web3`,
         text: generateCustomEmailText(target),
