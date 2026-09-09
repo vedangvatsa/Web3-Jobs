@@ -1,5 +1,5 @@
 {
-  "lastIndex": 129,
+  "lastIndex": 132,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -41,7 +41,9 @@
     "compliance40",
     "head23",
     "analyst1",
-    "engineer442"
+    "engineer442",
+    "operations67003",
+    "operations90004"
   ],
   "history": [
     {
@@ -1363,6 +1365,118 @@
       "platform": "instagram",
       "postedAt": "2026-09-09T17:12:21.055Z",
       "postId": "18618746263000425"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "x",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "2097804747596079156"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "threads",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "18078891557386992"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "bluesky",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv4jfgrd5p22"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "farcaster",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "0x83f93d66190aca847440c697066630b42553b33d"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "6aa1d4b58674a565bc4919bd"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "facebook",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "691827047618629_1084306060843295"
+    },
+    {
+      "slug": "operations67003",
+      "company": "OKX",
+      "title": "P2P Partner Operations Director",
+      "platform": "instagram",
+      "postedAt": "2026-09-09T21:50:01.645Z",
+      "postId": "17898729495666800"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "x",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "2097805194276860273"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "threads",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "18624260641023374"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "bluesky",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv4jiqucwj22"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "farcaster",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "0xa6025978b873bcfd2b6d0ecd2cdb61263e8ef916"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "6aa1d517e50960ec59610aa9"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "facebook",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "691827047618629_1084306900843211"
+    },
+    {
+      "slug": "operations90004",
+      "company": "Alpaca",
+      "title": "Trading Operations Associate - West Coast",
+      "platform": "instagram",
+      "postedAt": "2026-09-09T21:51:48.232Z",
+      "postId": "18166801222464787"
     }
   ]
 }
