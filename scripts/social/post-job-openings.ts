@@ -464,6 +464,49 @@ async function postToLinkedInBuffer(text: string): Promise<string> {
   throw new Error(`Buffer post creation failed: ${result?.message || 'unknown error'}`);
 }
 
+const LINKEDIN_BOT_UA = 'LinkedInBot/1.0 (compatible; Mozilla/5.0; Apache-HttpClient)';
+
+// Readiness gate: fetch the /li URL exactly as LinkedIn's crawler would and
+// assert the page + its og:image are servable BEFORE handing text to Buffer.
+// A cardless post burns the URL in LinkedIn's cache (~7d), so fail closed:
+// if our own serving is broken (deploy in flight, 5xx, missing tags), skip
+// the LinkedIn publish for this run instead of posting blind.
+async function verifyLinkedInServing(slug: string): Promise<boolean> {
+  const pageUrl = `${SITE_URL}/${slug}/li`;
+  try {
+    const res = await fetch(pageUrl, { headers: { 'User-Agent': LINKEDIN_BOT_UA } });
+    if (res.status !== 200) {
+      console.error(`LinkedIn readiness: page HTTP ${res.status} for ${pageUrl} — skipping LinkedIn publish`);
+      return false;
+    }
+    const html = await res.text();
+    if (html.length > 150000) {
+      console.error(`LinkedIn readiness: page ${html.length}b exceeds crawler comfort zone — skipping LinkedIn publish`);
+      return false;
+    }
+    if (!/<meta property="og:title"[^>]+content="[^"]{10,}"/.test(html)) {
+      console.error('LinkedIn readiness: og:title missing/empty — skipping LinkedIn publish');
+      return false;
+    }
+    const m = html.match(/<meta property="og:image"[^>]+content="([^"]+)"/);
+    if (!m) {
+      console.error('LinkedIn readiness: og:image missing — skipping LinkedIn publish');
+      return false;
+    }
+    const imgRes = await fetch(m[1].replace(/&amp;/g, '&'), { headers: { 'User-Agent': LINKEDIN_BOT_UA } });
+    const ct = imgRes.headers.get('content-type') || '';
+    if (!imgRes.ok || !ct.startsWith('image/')) {
+      console.error(`LinkedIn readiness: image HTTP ${imgRes.status} ${ct} — skipping LinkedIn publish`);
+      return false;
+    }
+    console.log(`LinkedIn readiness: page 200 (${html.length}b) + og tags + image ${imgRes.status} ${ct} — servable, publishing`);
+    return true;
+  } catch (err) {
+    console.error('LinkedIn readiness check failed:', (err as Error).message, '— skipping LinkedIn publish');
+    return false;
+  }
+}
+
 // ── Facebook Page (Meta Graph API) ──
 
 async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
@@ -1026,17 +1069,21 @@ async function main() {
   if (platform === 'linkedin' || shouldPostAll) {
     try {
       console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
-      const bufferPostId = await postToLinkedInBuffer(linkedinPostText);
-      console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
-      state.history.push({
-        slug,
-        company,
-        title,
-        platform: 'linkedin',
-        postedAt: now,
-        postId: bufferPostId,
-      });
-      postedSuccessCount++;
+      if (!(await verifyLinkedInServing(slug))) {
+        console.error('✗ LinkedIn publish skipped by readiness gate (see above). Not marking as posted.');
+      } else {
+        const bufferPostId = await postToLinkedInBuffer(linkedinPostText);
+        console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
+        state.history.push({
+          slug,
+          company,
+          title,
+          platform: 'linkedin',
+          postedAt: now,
+          postId: bufferPostId,
+        });
+        postedSuccessCount++;
+      }
     } catch (err) {
       console.error(`✗ Failed to post to LinkedIn:`, (err as Error).message);
     }
