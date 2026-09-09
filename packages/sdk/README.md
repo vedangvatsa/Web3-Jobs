@@ -1,17 +1,17 @@
-# @hashtagweb3/sdk
+# @hashtag_web3_/sdk
 
 Official TypeScript & JavaScript SDK for [Hashtag Web3](https://hashtagweb3.com) — the premier Web3 job board, blockchain career platform, and AI agent talent intelligence API.
 
 ## Installation
 
 ```bash
-npm install @hashtagweb3/sdk
+npm install @hashtag_web3_/sdk
 ```
 
 ## Quickstart
 
 ```typescript
-import { HashtagWeb3Client } from '@hashtagweb3/sdk';
+import { HashtagWeb3Client } from '@hashtag_web3_/sdk';
 
 const client = new HashtagWeb3Client();
 

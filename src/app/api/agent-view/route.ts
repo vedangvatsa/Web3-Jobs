@@ -95,7 +95,7 @@ export async function GET() {
       ],
 
       sdk: {
-        javascript_typescript: { package: '@hashtagweb3/sdk', registry: 'https://www.npmjs.com/package/@hashtagweb3/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
+        javascript_typescript: { package: '@hashtag_web3_/sdk', registry: 'https://www.npmjs.com/package/@hashtag_web3_/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
         python: { package: 'hashtagweb3', registry: 'https://pypi.org/project/hashtagweb3', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
         ruby: { package: 'hashtagweb3', registry: 'https://rubygems.org/gems/hashtagweb3', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },
         go: { module: 'github.com/hashtagweb3/sdk', repository: 'https://github.com/vedangvatsa/Web3-Jobs' },

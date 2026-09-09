@@ -1,5 +1,5 @@
 {
-  "name": "@hashtagweb3/sdk",
+  "name": "@hashtag_web3_/sdk",
   "version": "1.0.0",
   "description": "Official TypeScript/JavaScript SDK for Hashtag Web3 jobs, crypto news, events, and technical glossary APIs.",
   "main": "dist/index.js",

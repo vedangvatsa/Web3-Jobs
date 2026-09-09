@@ -50,7 +50,7 @@ npm install -g hashtagweb3
 ```
 
 ## Official Multi-Language SDK Packages & MCP Registry Listings
-- **NPM SDK Package (JavaScript/TypeScript)**: [`@hashtagweb3/sdk`](https://www.npmjs.com/package/@hashtagweb3/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
+- **NPM SDK Package (JavaScript/TypeScript)**: [`@hashtag_web3_/sdk`](https://www.npmjs.com/package/@hashtag_web3_/sdk) (repository: `https://github.com/vedangvatsa/Web3-Jobs`, homepage: `https://hashtagweb3.com`)
 - **NPM CLI Package**: [`hashtagweb3`](https://www.npmjs.com/package/hashtagweb3)
 - **PyPI SDK Package (Python)**: [`hashtagweb3`](https://pypi.org/project/hashtagweb3/) (Project URL / Home-Page: `https://hashtagweb3.com`)
 - **RubyGems Package (Ruby)**: [`hashtagweb3`](https://rubygems.org/gems/hashtagweb3) (homepage_uri: `https://hashtagweb3.com`)
