@@ -38,7 +38,8 @@
     "frontend6b0d3",
     "fullstack8c90c",
     "marketingecc99",
-    "compliance40"
+    "compliance40",
+    "head23"
   ],
   "history": [
     {
@@ -1288,6 +1289,14 @@
       "platform": "linkedin",
       "postedAt": "2026-09-09T08:14:18.286Z",
       "postId": "6aa1155b1b2e90ab73ab2ae4"
+    },
+    {
+      "slug": "head23",
+      "company": "Mercuryo",
+      "title": "Head of Recruitment",
+      "platform": "linkedin",
+      "postedAt": "2026-09-09T12:16:07.860Z",
+      "postId": "6aa14e0f420834e1f95fc407"
     }
   ]
 }
