@@ -73,6 +73,9 @@ export async function generateStaticParams() {
 }
 
 export async function generateMetadata({ params }: ArticlePageProps): Promise<Metadata> {
+  const currentEvent = await getEventBySlug(params.slug);
+
+  if (!currentEvent) {
   // Check if it's a job first (root-level: /trader, /bd).
   // resolveJobSlug also finds retitled postings via the slug archive, so
   // metadata always describes the live canonical (redirects supersede it).
@@ -189,9 +192,10 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
       },
     };
   }
+  }
 
   // Check if it's an event page
-  const event = await getEventBySlug(params.slug);
+  const event = currentEvent;
   if (event) {
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
@@ -323,6 +327,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 }
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
+  const event = await getEventBySlug(params.slug);
+
+  if (!event) {
   // Check if it's a job (root-level: /trader, /bd).
   // Retired slugs whose posting is still live elsewhere 308 to the live
   // canonical instead of serving stale copies or 404ing.
@@ -350,9 +357,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     }
     return <CompanyDetailView slug={companyPage.slug} />;
   }
+  }
 
   // Check if it's an event page
-  const event = await getEventBySlug(params.slug);
   if (event) {
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
