@@ -6,6 +6,9 @@ import { cleanPublishText } from './noslop';
 // Explicitly blocked promotional posts that are not events
 const BLOCKED_EVENT_IDS = new Set([
   'luma-host-evt-ueBMP7nPZ9SngEX', // Compass for Bitcoin Asia 2026 Companies & Participant List: promo post, not an event
+  'luma-evt-vlllGjOifkFxBqF', // Casting Auditions - Toronto Edition: entertainment casting, not a Web3 event
+  'luma-evt-DoGayS2qBSiXbP5', // Society Strong Rooftop HIIT Workout: fitness event, not a Web3 event
+  'luma-evt-6UEDi5OCyeDLLdR', // TIFF Market private reception: film-industry event, not a Web3 event
   // No official event-specific source was available during the September 2026 audit.
   'premier-web3warsaw-2026',
   'premier-modular-summit-2026',
@@ -15,6 +18,7 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-bitcoinberlin',
   'side-desci-singapore-summit-2026',
   'side-sg-arbitrum-stylus-hacker-house',
+  'side-ibw2026-ready-for-the-run', // Community run: not a Web3-focused event
 ]);
 
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
