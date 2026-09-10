@@ -363,9 +363,13 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
   if (event) {
     const siteUrl = 'https://hashtagweb3.com';
     const eventSlug = getEventSlug(event);
+    if (params.slug !== eventSlug) {
+      permanentRedirect(`/${eventSlug}`);
+    }
     const format = getEventFormat(event);
     const ecosystems = getEventEcosystems(event);
     const editorial = await resolveEventGuide(event);
+    const speakerSummary = editorial.speakers || 'The organizer has not published a verified speaker lineup yet.';
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
 
@@ -472,7 +476,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <EventHeroImage src={event.coverImage} name={event.name} />
 
               {/* Quick Facts Grid */}
-              {(editorial.ticketPricing || editorial.speakers || editorial.expectedAttendance) && (
+              {(editorial.ticketPricing || editorial.expectedAttendance || speakerSummary) && (
                 <div className="flex flex-col md:flex-row flex-wrap gap-6 md:gap-8 py-6 border-y text-sm">
                   {editorial.ticketPricing && (
                     <div className="space-y-1 flex-1 min-w-[240px] break-words">
@@ -480,10 +484,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                       <span className="font-semibold text-foreground text-sm">{editorial.ticketPricing}</span>
                     </div>
                   )}
-                  {editorial.speakers && (
+                  {speakerSummary && (
                     <div className="space-y-1 flex-1 min-w-[240px] break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Speakers</span>
-                      <span className="font-semibold text-foreground text-sm">{editorial.speakers}</span>
+                      <span className="font-semibold text-foreground text-sm">{speakerSummary}</span>
                     </div>
                   )}
                   {editorial.expectedAttendance && (
@@ -517,6 +521,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     </div>
                   </section>
                 ))}
+
+                <section className="space-y-3 pt-2">
+                  <h2 className="text-xl font-bold tracking-tight text-foreground border-b pb-2">Speakers &amp; Program</h2>
+                  <p className="leading-relaxed">{speakerSummary}</p>
+                  <p className="leading-relaxed">
+                    Check the <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="text-primary underline underline-offset-4">official event page</a> for confirmed speaker names, session times, and agenda updates.
+                  </p>
+                </section>
               </article>
 
               {/* Related Events Section */}
