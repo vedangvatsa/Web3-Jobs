@@ -369,9 +369,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const format = getEventFormat(event);
     const ecosystems = getEventEcosystems(event);
     const editorial = await resolveEventGuide(event);
-    const speakerSummary = event.speakers?.length
-      ? event.speakers.join(', ')
-      : 'No verified speaker lineup is published on the official event page yet.';
+    const speakerSummary = event.speakers?.join(', ');
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
 
@@ -524,13 +522,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   </section>
                 ))}
 
-                <section className="space-y-3 pt-2">
-                  <h2 className="text-xl font-bold tracking-tight text-foreground border-b pb-2">Speakers &amp; Program</h2>
-                  <p className="leading-relaxed">{speakerSummary}</p>
-                  <p className="leading-relaxed">
-                    Check the <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="text-primary underline underline-offset-4">official event page</a> for confirmed speaker names, session times, and agenda updates.
-                  </p>
-                </section>
+                {speakerSummary && (
+                  <section className="space-y-3 pt-2">
+                    <h2 className="text-xl font-bold tracking-tight text-foreground border-b pb-2">Speakers &amp; Program</h2>
+                    <p className="leading-relaxed">{speakerSummary}</p>
+                    <p className="leading-relaxed">
+                      Check the <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="text-primary underline underline-offset-4">official event page</a> for session times and agenda updates.
+                    </p>
+                  </section>
+                )}
               </article>
 
               {/* Related Events Section */}
