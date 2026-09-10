@@ -96,22 +96,6 @@
     "source": "curated-premier"
   },
   {
-    "id": "premier-ethwarsaw-2026",
-    "slug": "ethwarsaw",
-    "name": "ETHWarsaw 2026",
-    "description": "Eastern Europe's premier community-led Ethereum conference and hackathon, uniting over 1,500 builders, cryptographers, and protocol teams during Warsaw Blockchain Week.",
-    "startDate": "2026-09-09T09:00:00.000Z",
-    "endDate": "2026-09-12T18:00:00.000Z",
-    "city": "Warsaw",
-    "country": "Poland",
-    "location": "Warsaw, Poland",
-    "url": "https://www.ethwarsaw.dev",
-    "website": "https://www.ethwarsaw.dev",
-    "coverImage": "/events/ethwarsaw.webp",
-    "twitter": null,
-    "source": "curated-premier"
-  },
-  {
     "id": "premier-abw-2027",
     "slug": "abw",
     "name": "Australian Blockchain Week 2027",
