@@ -79,6 +79,9 @@ async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]>
 
 function isQualityEvent(e: Web3Event): boolean {
   if (e.source === 'curated-premier') return true;
+  // ConferenceIndex is an aggregator and does not provide organizer-verifiable
+  // detail or artwork for its listings.
+  if (e.source === 'conferenceindex') return false;
   const text = `${e.name} ${e.description ?? ''}`;
   if (SPAMMY.test(text)) return false;
   if (/cancel/i.test(text)) return false;
