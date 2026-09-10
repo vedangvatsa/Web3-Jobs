@@ -1,5 +1,5 @@
 {
-  "lastIndex": 140,
+  "lastIndex": 142,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -48,7 +48,9 @@
     "job422",
     "compliance11ae8",
     "compliance332",
-    "security01234"
+    "security01234",
+    "devops29",
+    "managera2cd8"
   ],
   "history": [
     {
@@ -1754,6 +1756,110 @@
       "platform": "instagram",
       "postedAt": "2026-09-10T12:20:43.789Z",
       "postId": "18097044965452800"
+    },
+    {
+      "slug": "devops29",
+      "company": "Bitdeer",
+      "title": "Data Center Operations Engineer",
+      "platform": "x",
+      "postedAt": "2026-09-10T17:03:20.759Z",
+      "postId": "2098094989485953257"
+    },
+    {
+      "slug": "devops29",
+      "company": "Bitdeer",
+      "title": "Data Center Operations Engineer",
+      "platform": "threads",
+      "postedAt": "2026-09-10T17:03:20.759Z",
+      "postId": "18155490955507728"
+    },
+    {
+      "slug": "devops29",
+      "company": "Bitdeer",
+      "title": "Data Center Operations Engineer",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T17:03:20.759Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv6jtlzbov2l"
+    },
+    {
+      "slug": "devops29",
+      "company": "Bitdeer",
+      "title": "Data Center Operations Engineer",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T17:03:20.759Z",
+      "postId": "0xf43fb3ee14be4365af384bf3a64b2c30d34494b0"
+    },
+    {
+      "slug": "devops29",
+      "company": "Bitdeer",
+      "title": "Data Center Operations Engineer",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T17:03:20.759Z",
+      "postId": "6aa2e2ee50cd366acc1dfb02"
+    },
+    {
+      "slug": "devops29",
+      "company": "Bitdeer",
+      "title": "Data Center Operations Engineer",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T17:03:20.759Z",
+      "postId": "691827047618629_1085004390773462"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "x",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "2098095459935965588"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "threads",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "18169046875459863"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv6jwyspmu2v"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "0x6dfab4a12f6fa745369fd6b98818a5328679bcb0"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "6aa2e36050cd366acc1e0838"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "691827047618629_1085005740773327"
+    },
+    {
+      "slug": "managera2cd8",
+      "company": "Crypto.com",
+      "title": "Senior Manager, Identity Governance",
+      "platform": "instagram",
+      "postedAt": "2026-09-10T17:05:12.948Z",
+      "postId": "18122942827904633"
     }
   ]
 }
