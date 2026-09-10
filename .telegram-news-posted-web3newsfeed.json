@@ -551,6 +551,9 @@
   "https://www.coindesk.com/markets/2026/09/08/crypto-traders-turn-on-hunter-biden-s-laptop-memecoin-before-it-even-launches",
   "https://www.coindesk.com/markets/2026/09/08/bitcoin-s-golden-cross-is-here",
   "https://www.theblock.co/news/ecosystems/2026-09-08-ethereum-foundation-quantum-resistance-2029-413716",
+  "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
+  "https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin",
+  "https://www.theblock.co/news/markets/2026-09-10-bitwise-shuts-down-dogecoin-etf-less-than-a-year-after-launch-414184",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1559,6 +1562,12 @@
   "Bitcoin’s golden cross is here",
   "Ethereum targets quantum-resistant security by 2029",
   "Ethereum aims for quantum-safe L1 by 2029 as Hegotá upgrade takes form",
+  "DeepSeek Model Performs Near GPT-6 Astra at Lower Cost",
+  "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
+  "AI Challenge Lowers Quantum Attack Benchmark for Bitcoin",
+  "AI Agents Just Slashed the Cost of a Quantum Attack on Bitcoin",
+  "Bitwise Closes Dogecoin ETF Within a Year",
+  "Bitwise shuts down Dogecoin ETF less than a year after launch",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1642,5 +1651,8 @@
   "fp:advanc|call|chief|cit|difficulty|down|grow|jakub|lab|mandat",
   "fp:already|asset|avalanch|biden|build|conglomerat|digital|financial|follow|hanwha",
   "fp:chart|cross|cryptocurrency|daily|form|golden|her|indicator|long|pattern",
-  "fp:abstraction|account|aim|by2029|censorship|form|goal|hegot|initial|introduc"
+  "fp:abstraction|account|aim|by2029|censorship|form|goal|hegot|initial|introduc",
+  "fp:astra|at14|behind|cost|costing70|deepseek|design|flash|gpt6|less",
+  "fp:agent|attack|benchmark|by86|challeng|component|comput|contest|cost|ecdsa",
+  "fp:bitwis|but|bwow|clos|declin|dogecoin|down|etf|fund|generat"
 ]

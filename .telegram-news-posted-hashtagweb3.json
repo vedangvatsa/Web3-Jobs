@@ -527,6 +527,9 @@
   "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
   "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
   "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/liquid-network-resumes-block-production-after-320m-exploit?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://cointelegraph.com/news/coinbase-moov-stablecoin-infrastructure-banks?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://decrypt.co/377917/deepseek-openai-gpt-6-astra-design-benchmark",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1489,6 +1492,12 @@
   "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
   "Hunter Biden Denies Profiting From Memecoin",
   "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
+  "Liquid Network restarts following $320 million exploit",
+  "Liquid Network resumes block production after $320M exploit",
+  "Coinbase partners with Moov for bank stablecoin infrastructure",
+  "Coinbase, Moov to provide stablecoin infrastructure for US community banks",
+  "DeepSeek V4.1 Flash Matches GPT-6 Performance at Lower Cost",
+  "DeepSeek's New Model Nearly Matches GPT-6 Astra on Design—at 1.4% of the Cost",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1566,5 +1575,8 @@
   "fp:15m|asset|assist|bit2m|creat|division|down|enforcement|euro|europol",
   "fp:affect|after2026|asset|capital|current|draft|drafts25|exist|financ|fre",
   "fp:armstrong|bottom|brian|ceo|coinbas|cryptocurrency|current|cycl|expect|likely",
-  "fp:117|800|associat|biden|chain|crash|data|deny|his|hunter"
+  "fp:117|800|associat|biden|chain|crash|data|deny|his|hunter",
+  "fp:320m|block|dur|emergency|exploit|follow|liquid|network|production|recovery",
+  "fp:000|agreement|allow|bank|coinbas|community|infrastructur|moov|over1|partner",
+  "fp:astra|at14|behind|benchmark|cost|deepseek|design|flash|gpt6|lower"
 ]
