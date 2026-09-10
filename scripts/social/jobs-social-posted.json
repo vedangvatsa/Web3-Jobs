@@ -1,5 +1,5 @@
 {
-  "lastIndex": 133,
+  "lastIndex": 138,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -44,7 +44,9 @@
     "engineer442",
     "operations67003",
     "operations90004",
-    "recruiting57f4e"
+    "recruiting57f4e",
+    "job422",
+    "compliance11ae8"
   ],
   "history": [
     {
@@ -1534,6 +1536,110 @@
       "platform": "instagram",
       "postedAt": "2026-09-10T00:19:52.443Z",
       "postId": "18123963521510979"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "x",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "2097929465758150868"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "threads",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "18164886412417127"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv5f4c3dqm2j"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "0x24b6ecfe022876fd7ffd0e0c400faa41a3dc4ffd"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "6aa248e190f5f899b4fd5c40"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "691827047618629_1084579764149258"
+    },
+    {
+      "slug": "job422",
+      "company": "Yellow Card",
+      "title": "Treasury & Liquidity Specialist",
+      "platform": "instagram",
+      "postedAt": "2026-09-10T06:05:36.805Z",
+      "postId": "18106036363933801"
+    },
+    {
+      "slug": "compliance11ae8",
+      "company": "Paimon Finance",
+      "title": "Director of Operation and Compliance",
+      "platform": "x",
+      "postedAt": "2026-09-10T06:07:25.631Z",
+      "postId": "2097929922027073761"
+    },
+    {
+      "slug": "compliance11ae8",
+      "company": "Paimon Finance",
+      "title": "Director of Operation and Compliance",
+      "platform": "threads",
+      "postedAt": "2026-09-10T06:07:25.631Z",
+      "postId": "18116354527750693"
+    },
+    {
+      "slug": "compliance11ae8",
+      "company": "Paimon Finance",
+      "title": "Director of Operation and Compliance",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T06:07:25.631Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv5f745ztm2j"
+    },
+    {
+      "slug": "compliance11ae8",
+      "company": "Paimon Finance",
+      "title": "Director of Operation and Compliance",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T06:07:25.631Z",
+      "postId": "0x833a7faab75de7fe6ee6b090e065b4e99b652d66"
+    },
+    {
+      "slug": "compliance11ae8",
+      "company": "Paimon Finance",
+      "title": "Director of Operation and Compliance",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T06:07:25.631Z",
+      "postId": "6aa2493f90f5f899b4fd61c1"
+    },
+    {
+      "slug": "compliance11ae8",
+      "company": "Paimon Finance",
+      "title": "Director of Operation and Compliance",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T06:07:25.631Z",
+      "postId": "691827047618629_1084580564149178"
     }
   ]
 }
