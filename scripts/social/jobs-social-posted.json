@@ -1,5 +1,5 @@
 {
-  "lastIndex": 132,
+  "lastIndex": 133,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -43,7 +43,8 @@
     "analyst1",
     "engineer442",
     "operations67003",
-    "operations90004"
+    "operations90004",
+    "recruiting57f4e"
   ],
   "history": [
     {
@@ -1477,6 +1478,62 @@
       "platform": "instagram",
       "postedAt": "2026-09-09T21:51:48.232Z",
       "postId": "18166801222464787"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "x",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "2097842457572769917"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "threads",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "18131421565732692"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv4rrfdosk22"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "0x826bcba8f329f2339dbc74a2fb20ce4282dfe4e1"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "6aa1f7c3de4dd59d09d141a6"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "691827047618629_1084378274169407"
+    },
+    {
+      "slug": "recruiting57f4e",
+      "company": "Bitdeer",
+      "title": "HR & Admin Executive",
+      "platform": "instagram",
+      "postedAt": "2026-09-10T00:19:52.443Z",
+      "postId": "18123963521510979"
     }
   ]
 }
