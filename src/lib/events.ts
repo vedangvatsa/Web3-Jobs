@@ -16,6 +16,7 @@ export interface Web3Event {
   url: string;
   website?: string | null;
   coverImage: string | null;
+  speakers?: string[];
   twitter?: string | null;
   source?: string;
   slug?: string;
