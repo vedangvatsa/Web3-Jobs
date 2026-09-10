@@ -19,6 +19,7 @@ const BLOCKED_EVENT_IDS = new Set([
   'side-desci-singapore-summit-2026',
   'side-sg-arbitrum-stylus-hacker-house',
   'side-ibw2026-ready-for-the-run', // Community run: not a Web3-focused event
+  'premier-gbshow', // Official organizer now lists the Abu Dhabi edition for Dec 10-11, not Nov 26-27.
 ]);
 
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
