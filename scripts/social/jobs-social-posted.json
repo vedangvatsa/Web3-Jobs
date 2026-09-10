@@ -1,5 +1,5 @@
 {
-  "lastIndex": 142,
+  "lastIndex": 144,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -50,7 +50,9 @@
     "compliance332",
     "security01234",
     "devops29",
-    "managera2cd8"
+    "managera2cd8",
+    "compliance99841",
+    "sales28008"
   ],
   "history": [
     {
@@ -1860,6 +1862,110 @@
       "platform": "instagram",
       "postedAt": "2026-09-10T17:05:12.948Z",
       "postId": "18122942827904633"
+    },
+    {
+      "slug": "compliance99841",
+      "company": "Binance",
+      "title": "MLRO - Mexico",
+      "platform": "x",
+      "postedAt": "2026-09-10T21:42:33.877Z",
+      "postId": "2098165257143488786"
+    },
+    {
+      "slug": "compliance99841",
+      "company": "Binance",
+      "title": "MLRO - Mexico",
+      "platform": "threads",
+      "postedAt": "2026-09-10T21:42:33.877Z",
+      "postId": "18095079980542705"
+    },
+    {
+      "slug": "compliance99841",
+      "company": "Binance",
+      "title": "MLRO - Mexico",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T21:42:33.877Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv6zhblldm24"
+    },
+    {
+      "slug": "compliance99841",
+      "company": "Binance",
+      "title": "MLRO - Mexico",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T21:42:33.877Z",
+      "postId": "0x61facdc53fd7bc5055c05b9954fbe82d3761ca20"
+    },
+    {
+      "slug": "compliance99841",
+      "company": "Binance",
+      "title": "MLRO - Mexico",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T21:42:33.877Z",
+      "postId": "6aa3246c71ba1c02cceb2d96"
+    },
+    {
+      "slug": "compliance99841",
+      "company": "Binance",
+      "title": "MLRO - Mexico",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T21:42:33.877Z",
+      "postId": "691827047618629_1085164224090812"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "x",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "2098165806551257493"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "threads",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "17900235252589089"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv6zldycqc2l"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "0xa0f3f578c0968c80190e6d6baaeed46d82bf3439"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "6aa324f5bc5ba21062eacaa7"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "691827047618629_1085165207424047"
+    },
+    {
+      "slug": "sales28008",
+      "company": "Block",
+      "title": "Territory Account Executive, Pittsburgh",
+      "platform": "instagram",
+      "postedAt": "2026-09-10T21:44:44.913Z",
+      "postId": "18129948334701227"
     }
   ]
 }
