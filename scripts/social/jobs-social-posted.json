@@ -1,5 +1,5 @@
 {
-  "lastIndex": 138,
+  "lastIndex": 140,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -46,7 +46,9 @@
     "operations90004",
     "recruiting57f4e",
     "job422",
-    "compliance11ae8"
+    "compliance11ae8",
+    "compliance332",
+    "security01234"
   ],
   "history": [
     {
@@ -1640,6 +1642,118 @@
       "platform": "facebook",
       "postedAt": "2026-09-10T06:07:25.631Z",
       "postId": "691827047618629_1084580564149178"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "x",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "2098023526242414973"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "threads",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "17933615088395408"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv5zxvugx62e"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "0x1861f4d4c7d7632fdf9c1b2ea58ba7e83fe72002"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "6aa2a062500615acd35152a2"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "691827047618629_1084800280793873"
+    },
+    {
+      "slug": "compliance332",
+      "company": "Fasset",
+      "title": "Compliance Officer (Manager)",
+      "platform": "instagram",
+      "postedAt": "2026-09-10T12:19:22.604Z",
+      "postId": "18131019472644735"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "x",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "2098023866677223628"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "threads",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "18080289905336476"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "bluesky",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv622crphc2e"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "farcaster",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "0x79d980ef1f06c3a5f0a8f6e338c9977d568ab92a"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "linkedin",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "6aa2a0b3b94f4623bdbd3b81"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "facebook",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "691827047618629_1084801114127123"
+    },
+    {
+      "slug": "security01234",
+      "company": "CoinDesk",
+      "title": "Head of Blockchain Security",
+      "platform": "instagram",
+      "postedAt": "2026-09-10T12:20:43.789Z",
+      "postId": "18097044965452800"
     }
   ]
 }
