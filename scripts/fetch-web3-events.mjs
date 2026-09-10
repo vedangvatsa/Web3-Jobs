@@ -7,6 +7,15 @@ const __filename = fileURLToPath(import.meta.url);
 const __dirname = path.dirname(__filename);
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
+const AGGREGATOR_HOSTS = new Set(['conferenceindex.org', 'marketacross.com', 'web3voyager.com']);
+
+function hasDirectEventDestination(url) {
+  try {
+    return !AGGREGATOR_HOSTS.has(new URL(url).hostname.replace(/^www\./, '').toLowerCase());
+  } catch {
+    return false;
+  }
+}
 
 function hasEventEnded(event, now = Date.now()) {
   const endDate = new Date(event.endDate || event.startDate);
@@ -571,74 +580,6 @@ async function fetchMeetupPage(keyword, location) {
 }
 
 // ═══════════════════════════════════════════════════════════════════════
-// SOURCE 4: ConferenceIndex.org (HTML parsing with cheerio)
-// ═══════════════════════════════════════════════════════════════════════
-async function fetchConferenceIndex(page = 1) {
-  const url = page === 1
-    ? 'https://conferenceindex.org/conferences/blockchain'
-    : `https://conferenceindex.org/conferences/blockchain?page=${page}`;
-  try {
-    const { load } = await import('cheerio');
-    const res = await fetch(url, { headers: { 'User-Agent': UA }, signal: AbortSignal.timeout(15000) });
-    if (!res.ok) return [];
-    const html = await res.text();
-    const $ = load(html);
-
-    const events = [];
-    $('a[href*="/event/"]').each((_, el) => {
-      const href = $(el).attr('href') || '';
-      const title = $(el).text().trim();
-      if (!title || title.length < 5) return;
-
-      // Context contains "Mon DD Title - City, Country"
-      const $parent = $(el).closest('tr, li, div');
-      const ctx = $parent.text().replace(/\s+/g, ' ').trim();
-
-      // Extract date (e.g. "May 18", "Jun 12")
-      const dateMatch = ctx.match(/(Jan|Feb|Mar|Apr|May|Jun|Jul|Aug|Sep|Oct|Nov|Dec)\s+(\d{1,2})/i);
-      let startDate = '';
-      if (dateMatch) {
-        const year = new Date().getFullYear();
-        const d = new Date(`${dateMatch[1]} ${dateMatch[2]}, ${year}`);
-        if (d < new Date()) d.setFullYear(year + 1);
-        startDate = d.toISOString();
-      }
-
-      // Extract location (after " - ")
-      const locMatch = ctx.match(/\s-\s(.+?)$/);
-      const location = locMatch ? locMatch[1].trim() : 'TBA';
-      const locParts = location.split(',').map(s => s.trim());
-      const city = locParts[0] || '';
-      const country = locParts[1] || '';
-
-      const fullUrl = href.startsWith('http') ? href : `https://conferenceindex.org${href}`;
-
-      events.push({
-        id: `ci-${href.replace(/[^a-z0-9]/gi, '-').slice(0, 100)}`,
-        name: title,
-        description: '',
-        startDate,
-        endDate: startDate,
-        city,
-        country,
-        location,
-        url: fullUrl,
-        coverImage: null,
-        source: 'conferenceindex',
-      });
-    });
-
-    // Deduplicate within page
-    const seen = new Set();
-    return events.filter(e => {
-      if (seen.has(e.url)) return false;
-      seen.add(e.url);
-      return e.startDate;
-    });
-  } catch { return []; }
-}
-
-// ═══════════════════════════════════════════════════════════════════════
 // SOURCE 5: ETHGlobal (HTML parsing)
 // ═══════════════════════════════════════════════════════════════════════
 async function fetchETHGlobal() {
@@ -769,7 +710,7 @@ async function fetchMarketAcross() {
         try {
           const items = JSON.parse(jsonStr);
           for (const item of items) {
-            if (!item.title || !item.start_date) continue;
+            if (!item.title || !item.start_date || !hasDirectEventDestination(item.url)) continue;
             events.push({
               id: `ma-${item.title.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
               name: item.title,
@@ -798,7 +739,7 @@ async function fetchMarketAcross() {
     const seen = new Set();
 
     for (const item of items) {
-      if (!item.title || !item.start_date || seen.has(item.title)) continue;
+      if (!item.title || !item.start_date || seen.has(item.title) || !hasDirectEventDestination(item.url)) continue;
       seen.add(item.title);
 
       const startDate = new Date(item.start_date).toISOString();
@@ -977,7 +918,7 @@ async function fetchWeb3Voyager() {
       const url = d.website || d.ticketUrl || d.externalUrl || d.eventUrl || d.orgWebsite;
 
       if (!title || !startDate || hasEventEnded({ startDate, endDate }, new Date(now).getTime())) continue;
-      if (!url || url.includes('web3voyager.com')) continue; // Skip if no original URL found
+      if (!hasDirectEventDestination(url)) continue;
 
       let coverImage = null;
       if (d.meta?.image?.url) {
@@ -1226,17 +1167,6 @@ async function fetchWeb3Events() {
   }
   console.log(`[Meetup] +${allEventsMap.size - muBefore} events`);
 
-  // ── 5. ConferenceIndex (3 pages) ──
-  console.log(`\n[ConferenceIndex] Scraping blockchain conferences...`);
-  let ciBefore = allEventsMap.size;
-  for (let page = 1; page <= 3; page++) {
-    const events = await fetchConferenceIndex(page);
-    events.forEach(e => { if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e); });
-    console.log(`  Page ${page}: ${events.length} events (total: ${allEventsMap.size})`);
-    await new Promise(r => setTimeout(r, 500));
-  }
-  console.log(`[ConferenceIndex] +${allEventsMap.size - ciBefore} events`);
-
   // ── 6. ETHGlobal ──
   console.log(`\n[ETHGlobal] Fetching upcoming events...`);
   let egBefore = allEventsMap.size;
@@ -1281,7 +1211,6 @@ async function fetchWeb3Events() {
   let w3vBefore = allEventsMap.size;
   const w3vEvents = await fetchWeb3Voyager();
   w3vEvents.forEach(e => {
-    e.bypassedFilter = true;
     if (!allEventsMap.has(e.id)) allEventsMap.set(e.id, e);
   });
   console.log(`[Web3Voyager] +${allEventsMap.size - w3vBefore} events`);

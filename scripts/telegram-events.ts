@@ -54,15 +54,13 @@ async function main() {
     (event.source === 'curated-premier' || web3Title.test(event.name))
   );
   const available = upcoming.filter((event) => !posted.has(event.id));
-  const candidates = available.length >= 3 ? available : upcoming;
-  const selected = candidates.slice(0, 3);
+  const candidates = available.length >= 1 ? available : upcoming;
+  const selected = candidates.slice(0, 1);
   if (!selected.length) throw new Error('No upcoming events available to post.');
 
-  const lines = selected.map((event) => {
-    const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=events_digest`;
-    return `• <a href="${url}"><b>${escapeHtml(event.name)}</b></a>\n  ${escapeHtml(formatEventDate(event.startDate, event.endDate))} · ${escapeHtml(event.location)}`;
-  });
-  const message = `<b>Upcoming Web3 Events</b>\n\n${lines.join('\n\n')}\n\n<a href="https://hashtagweb3.com/events?utm_source=telegram&utm_medium=social&utm_campaign=events_digest">Explore all events</a>`;
+  const [event] = selected;
+  const url = `https://hashtagweb3.com/${getEventSlug(event)}?utm_source=telegram&utm_medium=social&utm_campaign=event_post`;
+  const message = `<a href="${url}"><b>${escapeHtml(event.name)}</b></a>\n${escapeHtml(formatEventDate(event.startDate, event.endDate))} · ${escapeHtml(event.location)}`;
 
   if (dryRun) {
     console.log(message.replace(/<[^>]+>/g, ''));
@@ -77,7 +75,15 @@ async function main() {
       message_thread_id: Number(threadId),
       text: message,
       parse_mode: 'HTML',
-      disable_web_page_preview: true,
+      disable_web_page_preview: false,
+      reply_markup: {
+        inline_keyboard: [[
+          {
+            text: 'More Events',
+            url: 'https://hashtagweb3.com/events/tg',
+          },
+        ]],
+      },
     }),
   });
   const data = await response.json();
