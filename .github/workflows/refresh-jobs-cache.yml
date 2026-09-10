@@ -146,7 +146,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_CHANNEL_ID }}
           TELEGRAM_EXTRA_CHANNEL_IDS: '@jobsweb3'
-        run: node scripts/telegram-post.mjs
+        run: npx tsx scripts/telegram-post.mjs
         continue-on-error: true
 
       - name: Post to Telegram (Jobs → hashtagweb3 group)
@@ -154,7 +154,7 @@ jobs:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
           TELEGRAM_THREAD_ID: '1457'
-        run: node scripts/telegram-post.mjs
+        run: npx tsx scripts/telegram-post.mjs
         continue-on-error: true
 
       - name: Post to Telegram (News)
