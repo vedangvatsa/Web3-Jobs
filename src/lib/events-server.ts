@@ -58,6 +58,11 @@ function normalizeEventDomainUrl(url?: string): string {
   }
 }
 
+function hasEventEnded(event: Web3Event, now = Date.now()): boolean {
+  const endDate = new Date(event.endDate || event.startDate);
+  return Number.isNaN(endDate.getTime()) || endDate.getTime() < now;
+}
+
 export async function getEvents(): Promise<Web3Event[]> {
   try {
     const cwd = process.cwd();
@@ -180,11 +185,7 @@ export async function getEvents(): Promise<Web3Event[]> {
     });
 
     // Only return future/ongoing events (purging any event that has already concluded)
-    const now = new Date();
-    const upcoming = cleaned.filter(e => {
-      const endDate = e.endDate ? new Date(e.endDate) : new Date(e.startDate);
-      return !isNaN(endDate.getTime()) && endDate >= now;
-    });
+    const upcoming = cleaned.filter(e => !hasEventEnded(e));
 
     // Ensure strict slug uniqueness: no two events share the exact same generated slug or title
     const uniqueBySlug: Web3Event[] = [];
