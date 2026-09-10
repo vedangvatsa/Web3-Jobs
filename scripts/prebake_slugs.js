@@ -224,28 +224,30 @@ const archivedSlugs = new Set(Object.keys(legacyArchive));
 // Never mint over a live slug OR any slug that ever existed.
 const takenSlugs = new Set([...existingSlugs, ...archivedSlugs]);
 
-// identity -> slug from archive first, live entries win ties (restore the
-// live URL when known; resurrect the retired URL when the posting returns).
-// slug -> identity for the archive, to detect newcomers squatting retired slugs.
+// Reserve every slug previously served by production. Archive entries cover
+// retired URLs only; live entries take precedence when old archive data
+// conflicts with the slug currently deployed.
 const identityToSlug = new Map();
-const archiveIdentityBySlug = new Map();
+const preservedIdentityBySlug = new Map();
+try {
+  const repoRoot = path.join(__dirname, '..');
+  const prevRaw = execSync('git -C "' + repoRoot + '" show HEAD:content/jobs-cache.json', { maxBuffer: 128 * 1024 * 1024 }).toString('utf-8');
+  for (const job of JSON.parse(prevRaw)) {
+    if (!job || !job.slug) continue;
+    const k = getJobIdentity(job);
+    if (!k) continue;
+    preservedIdentityBySlug.set(job.slug, k);
+    if (!identityToSlug.has(k)) identityToSlug.set(k, job.slug);
+  }
+} catch (e) {
+  console.warn('  ⚠️ prior slug ownership scan skipped (no git HEAD cache):', e.message);
+}
 for (const [slug, entry] of Object.entries(legacyArchive)) {
   if (!entry) continue;
   const k = getJobIdentity({ id: entry.id, title: entry.title, company: entry.company, link: entry.link });
   if (!k) continue;
+  if (!preservedIdentityBySlug.has(slug)) preservedIdentityBySlug.set(slug, k);
   if (!identityToSlug.has(k)) identityToSlug.set(k, slug);
-  if (!archiveIdentityBySlug.has(slug)) archiveIdentityBySlug.set(slug, k);
-}
-for (const job of validJobs) {
-  if (!job.slug) continue;
-  const k = getJobIdentity(job);
-  if (!k) continue;
-  // Skip live entries squatting a retired slug that belongs to someone else:
-  // enshrining them here would cement the collision. They fall through to
-  // reuse-or-mint below and get a slug of their own.
-  const retired = archiveIdentityBySlug.get(job.slug);
-  if (retired && retired !== k) continue;
-  identityToSlug.set(k, job.slug);
 }
 
 // Count existing role counts
@@ -264,11 +266,8 @@ const assignedSlugs = new Set();
 const outputJobs = validJobs.map(job => {
   if (job.slug && !assignedSlugs.has(job.slug)) {
     const myIdentity = getJobIdentity(job);
-    const retiredIdentity = archiveIdentityBySlug.get(job.slug);
-    // Keep: fresh slug, or rightful restoration (retired slug, same posting).
-    // A newcomer holding a retired slug that belongs to someone else falls
-    // through to reuse-or-mint so history is never overwritten.
-    if (!retiredIdentity || !myIdentity || retiredIdentity === myIdentity) {
+    const preservedIdentity = preservedIdentityBySlug.get(job.slug);
+    if (!preservedIdentity || !myIdentity || preservedIdentity === myIdentity) {
       assignedSlugs.add(job.slug);
       return job;
     }
