@@ -369,7 +369,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     const format = getEventFormat(event);
     const ecosystems = getEventEcosystems(event);
     const editorial = await resolveEventGuide(event);
-    const speakerSummary = editorial.speakers || 'The organizer has not published a verified speaker lineup yet.';
+    const speakerSummary = event.speakers?.length
+      ? event.speakers.join(', ')
+      : 'No verified speaker lineup is published on the official event page yet.';
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
 
