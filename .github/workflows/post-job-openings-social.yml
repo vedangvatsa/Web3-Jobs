@@ -29,6 +29,10 @@ on:
         description: 'Optional specific job slug to post'
         type: string
         default: ''
+      force:
+        description: 'Republish a platform even if its post was already recorded'
+        type: boolean
+        default: false
 
 concurrency:
   group: social-job-postings
@@ -85,6 +89,9 @@ jobs:
           fi
           if [ -n "${{ github.event.inputs.slug }}" ]; then
             ARGS="$ARGS --slug ${{ github.event.inputs.slug }}"
+          fi
+          if [ "${{ github.event.inputs.force }}" = "true" ]; then
+            ARGS="$ARGS --force"
           fi
           echo "Running: npx tsx scripts/social/post-job-openings.ts $ARGS"
           npx tsx scripts/social/post-job-openings.ts $ARGS
