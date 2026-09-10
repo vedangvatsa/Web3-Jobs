@@ -68,9 +68,10 @@ export async function POST(request: NextRequest) {
     });
   }
 
-  const emails = [...new Set(
-   snapshot.docs
-    .map(doc => (doc.data().email as string)?.toLowerCase().trim())
+   const emails = [...new Set(
+    snapshot.docs
+     .filter(doc => doc.data().subscribed !== false && !doc.data().unsubscribedAt)
+     .map(doc => (doc.data().email as string)?.toLowerCase().trim())
     .filter(Boolean)
   )];
 
