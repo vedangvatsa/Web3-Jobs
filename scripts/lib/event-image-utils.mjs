@@ -141,7 +141,7 @@ export async function downloadCover(event, eventsDir, log = () => {}) {
 
 export async function enrichLocalCovers(events, { eventsDir, concurrency = 6, log = console.log } = {}) {
   if (!fs.existsSync(eventsDir)) fs.mkdirSync(eventsDir, { recursive: true });
-  const candidates = events.filter((e) => e.coverImage && e.coverImage.startsWith('http'));
+  const candidates = events.filter((e) => typeof e.coverImage === 'string' && e.coverImage.startsWith('http'));
   let okCount = 0;
   let rateLimited = 0;
   let failed = 0;

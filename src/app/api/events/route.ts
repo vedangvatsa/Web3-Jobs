@@ -3,7 +3,8 @@ import { getEventType } from '@/lib/events';
 import { NextRequest, NextResponse } from 'next/server';
 import { getStandardApiHeaders } from '@/lib/api-headers';
 
-export const revalidate = 3600; // Cache on CDN for 1 hour
+export const dynamic = 'force-dynamic';
+export const revalidate = 0;
 
 export async function GET(request: NextRequest) {
   try {
@@ -76,7 +77,7 @@ export async function GET(request: NextRequest) {
         status: 200,
         headers: {
           ...getStandardApiHeaders(),
-          'Cache-Control': 'public, max-age=3600, s-maxage=7200, stale-while-revalidate=86400',
+          'Cache-Control': 'no-store',
           'Vary': 'Accept-Encoding, Accept',
         },
       }

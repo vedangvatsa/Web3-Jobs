@@ -8,6 +8,11 @@ const __dirname = path.dirname(__filename);
 
 const UA = 'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36';
 
+function hasEventEnded(event, now = Date.now()) {
+  const endDate = new Date(event.endDate || event.startDate);
+  return Number.isNaN(endDate.getTime()) || endDate.getTime() < now;
+}
+
 // Fetch with retry/backoff for 429 (Luma rate-limits aggressively).
 async function fetchWithBackoff(url, options = {}, attempts = 3) {
   for (let attempt = 0; attempt < attempts; attempt++) {
@@ -971,7 +976,7 @@ async function fetchWeb3Voyager() {
       // Extract original event destination URL (Luma, Eventbrite, official website)
       const url = d.website || d.ticketUrl || d.externalUrl || d.eventUrl || d.orgWebsite;
 
-      if (!title || !startDate || startDate < now.slice(0, 10)) continue;
+      if (!title || !startDate || hasEventEnded({ startDate, endDate }, new Date(now).getTime())) continue;
       if (!url || url.includes('web3voyager.com')) continue; // Skip if no original URL found
 
       let coverImage = null;
@@ -1023,7 +1028,7 @@ async function fetchDevEvents() {
           const country = loc.address?.addressCountry || '';
           const url = data.url || data.offers?.url;
 
-          if (!name || !startDate || startDate < now.slice(0, 10)) return;
+          if (!name || !startDate || hasEventEnded({ startDate, endDate }, new Date(now).getTime())) return;
 
           events.push({
             id: `dev-events-${name.toLowerCase().replace(/[^a-z0-9]/g, '-').slice(0, 50)}`,
@@ -1361,7 +1366,7 @@ async function fetchWeb3Events() {
     .filter(e => {
       if (!e.startDate) return false;
       if (!e.name) return false;
-      if (e.startDate < now) return false;
+      if (hasEventEnded(e, new Date(now).getTime())) return false;
       if (isBlacklisted(e.name)) return false;
       // POISON check at filter level too
       const fullText = `${e.name} ${e.description || ''}`.toLowerCase();
@@ -1384,6 +1389,7 @@ async function fetchWeb3Events() {
       const d = new Date(e.startDate);
       return {
         ...e,
+        coverImage: typeof e.coverImage === 'string' ? e.coverImage : null,
         month: d.toLocaleString('en-US', { month: 'long', year: 'numeric' }),
       };
     })
