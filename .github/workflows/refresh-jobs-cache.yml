@@ -160,6 +160,14 @@ jobs:
         run: npx tsx scripts/telegram-post.mjs
         continue-on-error: true
 
+      - name: Post to Telegram (Events → hashtagweb3 group)
+        env:
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_EVENTS_CHANNEL_ID: ${{ secrets.TELEGRAM_HW3_GROUP_ID }}
+          TELEGRAM_THREAD_ID: '1454'
+        run: npx tsx scripts/telegram-events.ts
+        continue-on-error: true
+
       - name: Post to Telegram (News)
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
