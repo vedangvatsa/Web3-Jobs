@@ -67,14 +67,29 @@ interface Job {
 interface SocialState {
   lastIndex: number;
   postedSlugs: string[];
-  history: Array<{
-    slug: string;
-    company: string;
-    title: string;
-    platform: string;
-    postedAt: string;
-    postId?: string;
-  }>;
+  history: SocialHistoryEntry[];
+}
+
+interface SocialHistoryEntry {
+  slug: string;
+  company: string;
+  title: string;
+  platform: string;
+  postedAt: string;
+  postId?: string;
+  permalink?: string;
+  account?: string;
+  verification?: 'pending' | 'verified';
+}
+
+const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'reddit', 'instagram'] as const;
+type SocialPlatform = (typeof SOCIAL_PLATFORMS)[number];
+
+function buildSocialShareUrl(slug: string, suffix: string): string {
+  const url = new URL(`${SITE_URL}/${slug}/${suffix}`);
+  // Keep a unique cache key for each OG renderer version.
+  url.searchParams.set('og', JOB_OG_VERSION);
+  return url.toString();
 }
 
 function loadJobs(): Job[] {
@@ -194,12 +209,88 @@ async function postToX(text: string): Promise<string> {
   return data.data?.id || 'unknown';
 }
 
-async function postToThreads(text: string, linkAttachment?: string): Promise<string> {
+function getThreadsCredentials() {
   const accessToken = process.env.THREADS_ACCESS_TOKEN;
   const threadsUserId = process.env.THREADS_USER_ID;
 
   if (!accessToken || !threadsUserId) {
     throw new Error('Threads credentials missing (THREADS_ACCESS_TOKEN, THREADS_USER_ID)');
+  }
+
+  return { accessToken, threadsUserId };
+}
+
+interface ThreadsAccount {
+  id: string;
+  username: string;
+}
+
+interface ThreadsPost {
+  id: string;
+  permalink: string;
+  username: string;
+}
+
+async function getThreadsAccount(accessToken: string): Promise<ThreadsAccount> {
+  const response = await fetch('https://graph.threads.net/v1.0/me?fields=id,username', {
+    headers: { Authorization: `Bearer ${accessToken}` },
+  });
+  const data = (await response.json()) as { id?: string; username?: string; error?: unknown };
+  if (!response.ok || !data.id || !data.username) {
+    throw new Error(`Threads account lookup failed: ${JSON.stringify(data.error || data)}`);
+  }
+  return { id: data.id, username: data.username };
+}
+
+async function verifyThreadsPost(mediaId: string, expectedText: string): Promise<ThreadsPost> {
+  const { accessToken, threadsUserId } = getThreadsCredentials();
+  const account = await getThreadsAccount(accessToken);
+  if (account.id !== threadsUserId) {
+    throw new Error(`Threads account mismatch: configured ${threadsUserId}, token belongs to ${account.id} (@${account.username})`);
+  }
+
+  let lastError = 'post did not become visible';
+  for (let attempt = 1; attempt <= 6; attempt++) {
+    const response = await fetch(
+      `https://graph.threads.net/v1.0/${mediaId}?fields=id,permalink,username,text&access_token=${encodeURIComponent(accessToken)}`
+    );
+    const data = (await response.json()) as { id?: string; permalink?: string; username?: string; text?: string; error?: unknown };
+    if (response.ok && data.id === mediaId && data.permalink && data.username === account.username && data.text === expectedText) {
+      return { id: data.id, permalink: data.permalink, username: data.username };
+    }
+    lastError = JSON.stringify(data.error || data);
+    if (attempt < 6) await new Promise((resolve) => setTimeout(resolve, 2000));
+  }
+
+  throw new Error(`Threads post ${mediaId} could not be verified: ${lastError}`);
+}
+
+async function reconcilePendingThreadsPosts(state: SocialState): Promise<void> {
+  const pending = state.history.filter((entry) => entry.platform === 'threads' && entry.verification === 'pending' && entry.postId);
+  if (pending.length === 0) return;
+
+  let changed = false;
+  for (const entry of pending) {
+    try {
+      const expectedText = `${entry.company} is hiring ${entry.title}: ${buildSocialShareUrl(entry.slug, 'th')}`;
+      const verified = await verifyThreadsPost(entry.postId!, expectedText);
+      entry.permalink = verified.permalink;
+      entry.account = verified.username;
+      entry.verification = 'verified';
+      changed = true;
+      console.log(`Recovered pending Threads post: ${verified.permalink}`);
+    } catch (error) {
+      console.warn(`Threads post ${entry.postId} remains pending: ${(error as Error).message}`);
+    }
+  }
+  if (changed) saveState(state);
+}
+
+async function postToThreads(text: string, linkAttachment?: string): Promise<string> {
+  const { accessToken, threadsUserId } = getThreadsCredentials();
+  const account = await getThreadsAccount(accessToken);
+  if (account.id !== threadsUserId) {
+    throw new Error(`Threads account mismatch: configured ${threadsUserId}, token belongs to ${account.id} (@${account.username})`);
   }
 
   const urlParams = new URLSearchParams();
@@ -244,6 +335,7 @@ async function postToThreads(text: string, linkAttachment?: string): Promise<str
   }
 
   const { id: mediaId } = await publishRes.json();
+  if (!mediaId) throw new Error('Threads publish response did not include a media ID');
   return mediaId;
 }
 
@@ -508,7 +600,7 @@ async function verifySocialServing(
   suffix: string,
   userAgent: string,
 ): Promise<LinkedInPreview | null> {
-  const pageUrl = `${SITE_URL}/${slug}/${suffix}`;
+  const pageUrl = buildSocialShareUrl(slug, suffix);
   try {
     const res = await fetch(pageUrl, {
       cache: 'no-store',
@@ -578,7 +670,7 @@ async function verifySocialServing(
 
 // ── Facebook Page (Meta Graph API) ──
 
-async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
+function getFacebookPageCredentials() {
   const pageId = process.env.META_PAGE_ID || process.env.FACEBOOK_PAGE_ID;
   const pageToken = process.env.META_PAGE_TOKEN || process.env.FACEBOOK_PAGE_ACCESS_TOKEN;
 
@@ -588,6 +680,47 @@ async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
   if (!pageToken) {
     throw new Error('Facebook Page Access Token missing (META_PAGE_TOKEN or FACEBOOK_PAGE_ACCESS_TOKEN)');
   }
+
+  return { pageId, pageToken };
+}
+
+function hasExpectedJobOgImage(imageUrl: string, expectedImageUrl: string): boolean {
+  const actual = new URL(imageUrl, SITE_URL);
+  const expected = new URL(expectedImageUrl, SITE_URL);
+  if (actual.origin !== expected.origin || actual.pathname !== expected.pathname) return false;
+
+  return ['type', 'v', 'title', 'company', 'location', 'department', 'logo'].every(
+    (key) => actual.searchParams.get(key) === expected.searchParams.get(key)
+  );
+}
+
+async function refreshFacebookPreview(linkUrl: string, expectedPreview: LinkedInPreview): Promise<void> {
+  const { pageId, pageToken } = getFacebookPageCredentials();
+  const accountRes = await fetch(
+    `https://graph.facebook.com/v21.0/me?fields=id,name&access_token=${encodeURIComponent(pageToken)}`
+  );
+  const account = (await accountRes.json()) as { id?: string; name?: string; error?: unknown };
+  if (!accountRes.ok || account.id !== pageId) {
+    throw new Error(`Facebook Page token mismatch: ${JSON.stringify(account.error || account)}`);
+  }
+
+  const params = new URLSearchParams({ id: linkUrl, scrape: 'true', access_token: pageToken });
+  const scrapeRes = await fetch('https://graph.facebook.com/v21.0/', {
+    method: 'POST',
+    headers: { 'Content-Type': 'application/x-www-form-urlencoded' },
+    body: params,
+  });
+  const scrape = (await scrapeRes.json()) as { title?: string; image?: Array<{ url?: string }>; error?: unknown };
+  const image = scrape.image?.[0]?.url;
+  if (!scrapeRes.ok || scrape.title !== expectedPreview.title || !image || !hasExpectedJobOgImage(image, expectedPreview.image)) {
+    throw new Error(`Facebook scraper returned incorrect metadata: ${JSON.stringify(scrape.error || scrape)}`);
+  }
+
+  console.log(`Facebook scraper verified @${account.name || pageId}: ${scrape.title}`);
+}
+
+async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
+  const { pageId, pageToken } = getFacebookPageCredentials();
 
   // Publish to Page feed with link attachment so Facebook crawler fetches og:image
   const endpoint = `https://graph.facebook.com/v21.0/${pageId}/feed`;
@@ -910,6 +1043,7 @@ const PREVIEW_TARGETS = [
 async function main() {
   const args = process.argv.slice(2);
   const isDryRun = args.includes('--dry-run');
+  const force = args.includes('--force');
   const platformIdx = args.indexOf('--platform');
   const platform = platformIdx !== -1 ? args[platformIdx + 1]?.toLowerCase() : 'all';
   const slugIdx = args.indexOf('--slug');
@@ -922,6 +1056,7 @@ async function main() {
 
   const jobs = loadJobs();
   const state = loadState();
+  if (!isDryRun) await reconcilePendingThreadsPosts(state);
 
   const postedSet = new Set(state.postedSlugs);
 
@@ -1029,13 +1164,13 @@ async function main() {
     //   Company is hiring role
     //
     //   URL/<platform>
-    const xUrl = `${SITE_URL}/${slug}/x`;
-    const threadsUrl = `${SITE_URL}/${slug}/th`;
-    const blueskyUrl = `${SITE_URL}/${slug}/bsky`;
-    const farcasterUrl = `${SITE_URL}/${slug}/fc`;
-    const linkedinUrl = `${SITE_URL}/${slug}/li`;
-    const facebookUrl = `${SITE_URL}/${slug}/fb`;
-    const redditUrl = `${SITE_URL}/${slug}/rd`;
+    const xUrl = buildSocialShareUrl(slug, 'x');
+    const threadsUrl = buildSocialShareUrl(slug, 'th');
+    const blueskyUrl = buildSocialShareUrl(slug, 'bsky');
+    const farcasterUrl = buildSocialShareUrl(slug, 'fc');
+    const linkedinUrl = buildSocialShareUrl(slug, 'li');
+    const facebookUrl = buildSocialShareUrl(slug, 'fb');
+    const redditUrl = buildSocialShareUrl(slug, 'rd');
 
   const xPostText = `${company} is hiring ${title}\n\n${xUrl}`;
   const threadsPostText = `${company} is hiring ${title}: ${threadsUrl}`;
@@ -1119,9 +1254,22 @@ async function main() {
   // Validate every link target that this run may publish before sending any
   // post. This prevents partial runs where one platform caches a good card and
   // another caches an older or generic card for the same job.
-  const previewTargets = shouldPostAll
-    ? PREVIEW_TARGETS
-    : PREVIEW_TARGETS.filter((target) => target.platform === platform);
+   const alreadyPublished = new Set(
+     state.history
+       .filter((entry) => entry.slug === slug && (entry.platform !== 'threads' || entry.verification !== 'pending'))
+       .map((entry) => entry.platform)
+   );
+   const hasPendingThreadsPost = state.history.some(
+     (entry) => entry.slug === slug && entry.platform === 'threads' && entry.verification === 'pending'
+   );
+   const shouldPublishPlatform = (name: SocialPlatform) => {
+     if (!(platform === name || shouldPostAll)) return false;
+     if (name === 'threads' && hasPendingThreadsPost) return false;
+     return force || !alreadyPublished.has(name);
+   };
+   const previewTargets = PREVIEW_TARGETS.filter((target) =>
+     shouldPublishPlatform(target.platform as SocialPlatform)
+   );
   const verifiedPreviews = new Map<string, LinkedInPreview>();
   let previewFailure = false;
   for (const target of previewTargets) {
@@ -1153,7 +1301,7 @@ async function main() {
 
   let postedSuccessCount = 0;
 
-  if (platform === 'x' || shouldPostAll) {
+   if (shouldPublishPlatform('x')) {
     try {
       console.log('Publishing to X...');
       const tweetId = await postToX(xPostText);
@@ -1172,26 +1320,36 @@ async function main() {
     }
   }
 
-  if (platform === 'threads' || shouldPostAll) {
+   if (shouldPublishPlatform('threads')) {
     try {
       console.log('Publishing to Threads (with link attachment preview)...');
       const threadsId = await postToThreads(threadsPostText, threadsUrl);
-      console.log(`✓ Successfully published to Threads! Media ID: ${threadsId}`);
-      state.history.push({
-        slug,
-        company,
-        title,
-        platform: 'threads',
-        postedAt: now,
-        postId: threadsId,
-      });
-      postedSuccessCount++;
+       const threadsEntry: SocialHistoryEntry = {
+         slug,
+         company,
+         title,
+         platform: 'threads',
+         postedAt: now,
+         postId: threadsId,
+         verification: 'pending',
+       };
+       // Persist this receipt before verification so a transient Graph read
+       // failure can be reconciled later without duplicating the Threads post.
+       state.history.push(threadsEntry);
+       saveState(state);
+       const verified = await verifyThreadsPost(threadsId, threadsPostText);
+       threadsEntry.permalink = verified.permalink;
+       threadsEntry.account = verified.username;
+       threadsEntry.verification = 'verified';
+       saveState(state);
+       console.log(`✓ Successfully published to Threads! ${verified.permalink}`);
+       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Threads:`, (err as Error).message);
     }
   }
 
-  if (platform === 'bluesky' || shouldPostAll) {
+   if (shouldPublishPlatform('bluesky')) {
     try {
       console.log('Publishing to Bluesky...');
       const metaDesc = buildUniqueJobMetaDescription(selectedJob as any);
@@ -1211,7 +1369,7 @@ async function main() {
     }
   }
 
-  if (platform === 'farcaster' || shouldPostAll) {
+   if (shouldPublishPlatform('farcaster')) {
     try {
       console.log('Publishing to Farcaster / Warpcast...');
       const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, 'jobs');
@@ -1230,7 +1388,7 @@ async function main() {
     }
   }
 
-  if (platform === 'linkedin' || shouldPostAll) {
+   if (shouldPublishPlatform('linkedin')) {
     try {
       console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
       const preview = verifiedPreviews.get('linkedin') || null;
@@ -1259,10 +1417,13 @@ async function main() {
     }
   }
 
-  if (platform === 'facebook' || shouldPostAll) {
+   if (shouldPublishPlatform('facebook')) {
     try {
       console.log('Publishing to Facebook Page (Meta Graph API link feed)...');
-      const fbPostId = await postToFacebook(facebookPostText, facebookUrl);
+       const preview = verifiedPreviews.get('facebook');
+       if (!preview) throw new Error('Facebook publish skipped because its preview was not verified');
+       await refreshFacebookPreview(facebookUrl, preview);
+       const fbPostId = await postToFacebook(facebookPostText, facebookUrl);
       console.log(`✓ Successfully published to Facebook! Post ID: ${fbPostId}`);
       state.history.push({
         slug,
@@ -1278,7 +1439,7 @@ async function main() {
     }
   }
 
-  if (platform === 'reddit' || shouldPostAll) {
+   if (shouldPublishPlatform('reddit')) {
     try {
       console.log('Publishing to Reddit (r/hashtagweb3)...');
       const redditPostId = await postToReddit(redditTitle, redditMarkdown, 'hashtagweb3');
@@ -1297,7 +1458,7 @@ async function main() {
     }
   }
 
-  if (platform === 'instagram' || shouldPostAll) {
+   if (shouldPublishPlatform('instagram')) {
     try {
       const TAGLINES = [
         'Subscribed by 60k+ Web3 builders and professionals.',
@@ -1326,12 +1487,22 @@ async function main() {
     }
   }
 
-  if (postedSuccessCount > 0) {
-    state.postedSlugs.push(slug);
-    saveState(state);
-    console.log(`\nState saved (${postedSuccessCount} platforms succeeded). Done.`);
-  } else {
-    console.warn(`\nNo platform succeeded for ${slug}. State not marked as posted.`);
+   const verifiedPlatforms = new Set(
+     state.history
+       .filter((entry) => entry.slug === slug && (entry.platform !== 'threads' || entry.verification === 'verified' || !entry.verification))
+       .map((entry) => entry.platform)
+   );
+   const allPlatformsSucceeded = SOCIAL_PLATFORMS.every((name) => verifiedPlatforms.has(name));
+
+   if (allPlatformsSucceeded && !state.postedSlugs.includes(slug)) {
+     state.postedSlugs.push(slug);
+   }
+
+   if (postedSuccessCount > 0 || allPlatformsSucceeded) {
+     saveState(state);
+     console.log(`\nState saved (${postedSuccessCount} platforms newly verified${allPlatformsSucceeded ? '; all platforms complete' : ''}). Done.`);
+   } else {
+     console.warn(`\nNo new platform succeeded for ${slug}. State remains incomplete and will retry missing platforms.`);
   }
 
     // Enqueue the catch-up round (if armed): a second, different-company job
@@ -1341,7 +1512,7 @@ async function main() {
       round === 0 &&
       jobsToPost.length === 1 &&
       catchUpArmed &&
-      postedSuccessCount > 0
+       allPlatformsSucceeded
     ) {
       const next = pickNextJob(typeof company === 'string' ? company.toLowerCase() : '', slug);
       if (next) {

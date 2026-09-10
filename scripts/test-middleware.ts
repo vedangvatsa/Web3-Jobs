@@ -85,6 +85,29 @@ async function runMiddlewareTests() {
     }
   }
 
+  console.log('\n2b. Testing crawler handling for platform-suffixed job URLs...');
+  const suffixedCrawlerTests = [
+    { name: 'Facebook', ua: 'facebookexternalhit/1.1', path: '/engineer442/fb?og=2' },
+    { name: 'Threads', ua: 'Meta-ExternalAgent/1.1', path: '/engineer442/th?og=2' },
+  ];
+  for (const test of suffixedCrawlerTests) {
+    try {
+      const req = new NextRequest(`https://hashtagweb3.com${test.path}`, {
+        headers: { 'user-agent': test.ua },
+      });
+      const res = middleware(req);
+      const rewrite = res.headers.get('x-middleware-rewrite') || '';
+      const rewriteUrl = new URL(rewrite);
+      assert(
+        res.status === 200 && rewriteUrl.pathname === '/api/og-meta' && rewriteUrl.searchParams.get('path') === '/engineer442',
+        `Suffixed ${test.name} crawler rewrites to the canonical job metadata`,
+        `Got "${rewrite}"`
+      );
+    } catch (err: any) {
+      assert(false, `No runtime error for suffixed ${test.name} crawler`, err?.message || String(err));
+    }
+  }
+
   // 3. Test ?mode=agent Rewrite
   console.log('\n3. Testing ?mode=agent rewrite...');
   try {
