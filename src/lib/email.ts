@@ -1,4 +1,5 @@
 import { SESv2Client, SendEmailCommand } from '@aws-sdk/client-sesv2';
+import { createUnsubscribeUrl } from './email-unsubscribe';
 
 let sesClient: SESv2Client | null = null;
 
@@ -34,10 +35,10 @@ export async function sendJobAlertEmail(
    return { success: false, error: 'Email service not configured' };
   }
 
-  const fromEmail = process.env.EMAIL_FROM || 'hi@hashtagweb3.com';
+   const fromEmail = process.env.EMAIL_FROM || 'alerts@hi.hashtagweb3.com';
   const fromName = process.env.EMAIL_FROM_NAME || 'Hashtag Web3';
   const replyTo = process.env.EMAIL_REPLY_TO;
-  const unsubscribeUrl = process.env.EMAIL_UNSUBSCRIBE_URL;
+   const unsubscribeUrl = createUnsubscribeUrl(to);
 
   const fromField = `${fromName} <${fromEmail}>`;
 
@@ -54,23 +55,22 @@ export async function sendJobAlertEmail(
       Data: `New Web3 Jobs - ${jobs.length} Positions Available (${new Date().toLocaleDateString('en-US', { month: 'short', day: 'numeric' })})`,
       Charset: 'UTF-8',
      },
-     Body: {
+      Body: {
       Html: {
-       Data: generateJobAlertHTML(jobs),
+        Data: generateJobAlertHTML(jobs, to),
        Charset: 'UTF-8',
       },
       Text: {
-       Data: generateJobAlertText(jobs),
+        Data: generateJobAlertText(jobs, to),
        Charset: 'UTF-8',
+       },
       },
+      Headers: [
+       { Name: 'List-Unsubscribe', Value: `<${unsubscribeUrl}>` },
+       { Name: 'List-Unsubscribe-Post', Value: 'List-Unsubscribe=One-Click' },
+      ],
      },
     },
-   },
-   ...(unsubscribeUrl
-    ? {
-      ListManagementOptions: undefined,
-     }
-    : {}),
   });
 
   const response = await client.send(command);
@@ -164,8 +164,8 @@ export async function sendBatchJobAlerts(
  return { sent, failed, details };
 }
 
-function generateJobAlertHTML(jobs: JobListing[]): string {
- const unsubscribeUrl = process.env.EMAIL_UNSUBSCRIBE_URL || 'https://hashtagweb3.com/unsubscribe';
+ function generateJobAlertHTML(jobs: JobListing[], recipient: string): string {
+  const unsubscribeUrl = createUnsubscribeUrl(recipient);
  const jobsHTML = jobs.map(job => `
   <div style="padding: 14px 0; border-bottom: 1px solid #e5e7eb;">
    <a href="${job.url}" style="text-decoration: none; color: #111827; font-size: 16px; font-weight: 600;">
@@ -223,7 +223,8 @@ function generateJobAlertHTML(jobs: JobListing[]): string {
  `;
 }
 
-function generateJobAlertText(jobs: JobListing[]): string {
+ function generateJobAlertText(jobs: JobListing[], recipient: string): string {
+  const unsubscribeUrl = createUnsubscribeUrl(recipient);
  const jobsText = jobs.map(job => {
   const salary = job.salary ? ` | ${job.salary}` : '';
   return `${job.title} - ${job.company}${salary}`;
@@ -241,6 +242,8 @@ ${jobsText}
 ---
 
 View all jobs at: https://hashtagweb3.com/jobs
+
+Unsubscribe: ${unsubscribeUrl}
 
 ---
 You're receiving this because you opted in to Hashtag Web3 job alerts.
