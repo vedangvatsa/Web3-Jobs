@@ -1,6 +1,6 @@
 import fs from 'fs';
 import path from 'path';
-import { Web3Event, normalizeCountry, getEventSlug, getEventEcosystems, getEventType } from './events';
+import { Web3Event, normalizeCountry, getEventBaseSlug, getEventSlug, getEventEcosystems, getEventType } from './events';
 import { cleanPublishText } from './noslop';
 
 // Explicitly blocked promotional posts that are not events
@@ -15,6 +15,54 @@ const ONLINE = /\bonline\b|\bvirtual\b/i;
 const AMA = /\bAMA\b|ask me anything/i;
 const NON_WEB3_NAME = /bodywork|breakup|over your ex|keychains|acting workshop|finissage|culture club|apéro|data jam|electronics and computing|ssis|film festival|wellness & networking|charming|bestie|wind take you|reform room|outdoor workout|pilates|for kids|for families|children|toddler|ripple making|pottery|baking|cooking class/i;
 const WEB3_VOCAB = /crypto|bitcoin|btc\b|ethereum|\beth\b|ethglobal|ethcc|ethconf|ethrome|ethtaipei|ethtokyo|eth ?belgrade|blockchain|web ?3|defi|nfts?|solana|dao|token|altcoin|mining|stablecoin|lightning|hacker ?house|builder ?house|hackathon|consensus|token2049|xrp|ripple|zk\b|zksync|zero.?knowledge|superteam|pragma|hyperliquid|onchain|on-chain|lido|polygon|arbitrum|optimism|base chain|coinbase|binance|airdrop|wallet|dapp|smart contract|layer ?2|metaverse|gamefi|staking|yield|digital asset|decentralized|cardano|cosmos|polkadot|monad|aptos|\bsui\b|chainlink|blockcon|founders? dinner|vip dinner|afterparty|rooftop|networking|mixer|side event|coworking|co-working|launchpad|happy hour|lounge|meetup|devcon|breakpoint/i;
+const ROOT_ROUTE_SLUGS = new Set([
+  'jobs', 'blog', 'glossary', 'companies', 'community', 'learn', 'news',
+  'developers', 'api-docs', 'docs', 'auth', 'api-policy', 'resources',
+  'events', 'contact', 'privacy', 'ask', 'mcp', 'developer', 'dev',
+]);
+
+let rootContentSlugs: Promise<Set<string>> | undefined;
+
+async function getRootContentSlugs(): Promise<Set<string>> {
+  if (!rootContentSlugs) {
+    rootContentSlugs = (async () => {
+      const [{ getAllArticles }, { getAllTerms }, { getAllResourcePages }, { getCompanies }, { getAllJobsWithSlugs }] = await Promise.all([
+        import('./articles'),
+        import('./glossary'),
+        import('./pseo'),
+        import('./companies'),
+        import('./job-guides'),
+      ]);
+      const [articles, terms, companies, jobs] = await Promise.all([
+        getAllArticles(),
+        getAllTerms(),
+        getCompanies(),
+        getAllJobsWithSlugs(),
+      ]);
+      return new Set([
+        ...ROOT_ROUTE_SLUGS,
+        ...articles.map((article) => article.slug),
+        ...terms.map((term) => term.slug),
+        ...getAllResourcePages().map((resource) => resource.seo.canonicalSlug),
+        ...companies.map((company) => company.slug),
+        ...jobs.map(({ slug }) => slug),
+      ].map((slug) => slug.toLowerCase().trim()));
+    })();
+  }
+  return new Set(await rootContentSlugs);
+}
+
+async function assignUniqueEventSlugs(events: Web3Event[]): Promise<Web3Event[]> {
+  const reserved = await getRootContentSlugs();
+  return events.map((event) => {
+    const baseSlug = getEventBaseSlug(event);
+    let slug = baseSlug;
+    let suffix = 2;
+    while (reserved.has(slug)) slug = `${baseSlug}${suffix++}`;
+    reserved.add(slug);
+    return { ...event, slug };
+  });
+}
 
 function isQualityEvent(e: Web3Event): boolean {
   if (e.source === 'curated-premier') return true;
@@ -185,7 +233,7 @@ export async function getEvents(): Promise<Web3Event[]> {
     });
 
     // Only return future/ongoing events (purging any event that has already concluded)
-    const upcoming = cleaned.filter(e => !hasEventEnded(e));
+    const upcoming = await assignUniqueEventSlugs(cleaned.filter(e => !hasEventEnded(e)));
 
     // Ensure strict slug uniqueness: no two events share the exact same generated slug or title
     const uniqueBySlug: Web3Event[] = [];
