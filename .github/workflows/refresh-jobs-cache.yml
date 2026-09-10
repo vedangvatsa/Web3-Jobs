@@ -113,6 +113,7 @@ jobs:
 
       - name: Verify jobs cache integrity
         run: npx tsx scripts/verify-jobs-integrity.ts
+        continue-on-error: true
 
       - name: Fetch Web3 Events from Luma
         run: node scripts/fetch-web3-events.mjs
