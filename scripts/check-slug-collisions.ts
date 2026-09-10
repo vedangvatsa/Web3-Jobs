@@ -5,6 +5,7 @@ import { getAllTerms } from '../src/lib/glossary';
 import { getAllResourcePages } from '../src/lib/pseo';
 import { getCompanies } from '../src/lib/companies';
 import { getEvents } from '../src/lib/events-server';
+import { getEventSlug } from '../src/lib/events';
 import { getAllJobsWithSlugs } from '../src/lib/job-guides';
 
 // Static top-level routes built into src/app
@@ -39,10 +40,7 @@ async function checkSlugCollisions() {
   articles.forEach(a => register(a.slug, 'Article', a.title));
   resources.forEach(r => register(r.seo.canonicalSlug, 'Resource Page', r.seo.title));
   companies.forEach(c => register(c.slug, 'Company Page', c.name));
-  events.forEach(e => {
-    const slug = e.slug || e.name.toLowerCase().replace(/[^a-z0-9]+/g, '-').replace(/^-+|-+$/g, '');
-    register(slug, 'Event', e.name);
-  });
+  events.forEach(e => register(getEventSlug(e), 'Event', e.name));
   jobs.forEach(j => register(j.slug, 'Job Post', `${j.job.title} at ${j.job.company}`));
 
   let collisionsFound = 0;

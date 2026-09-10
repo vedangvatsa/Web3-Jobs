@@ -221,20 +221,24 @@ export function getRelativeBadge(startDate: string): string | null {
   return null;
 }
 
-export function getEventSlug(event: Web3Event): string {
-  if (event.slug) return event.slug.toLowerCase().trim();
-
-  // Strip noise like dates, locations, quotes, and punctuation for minimal, clean slugs
-  let cleanName = event.name
+export function getEventBaseSlug(event: Web3Event): string {
+  const eventName = event.name.split(/[:|]/, 1)[0];
+  const words = eventName
     .toLowerCase()
     .replace(/[’'"]/g, '')
     .replace(/\b(2025|2026|2027|2028|2029|2030)\b/g, '')
     .replace(/\b(washington|dc|san francisco|sf|new york|nyc|london|tokyo|paris|berlin|singapore|dubai)\b/g, '')
-    .replace(/[^a-z0-9]+/g, '-')
-    .replace(/^-+|-+$/g, '')
-    .replace(/-+/g, '-');
+    .split(/[^a-z0-9]+/)
+    .filter((word) => word && !['a', 'an', 'and', 'at', 'by', 'for', 'from', 'in', 'of', 'on', 'the', 'to', 'with'].includes(word));
 
-  return cleanName || 'web3-event';
+  if (words.length >= 3) return words.map((word) => word[0]).join('');
+  return words.join('-') || 'web3-event';
+}
+
+export function getEventSlug(event: Web3Event): string {
+  if (event.slug) return event.slug.toLowerCase().trim();
+
+  return getEventBaseSlug(event);
 }
 
 export function generateGoogleCalendarUrl(event: Web3Event): string {
