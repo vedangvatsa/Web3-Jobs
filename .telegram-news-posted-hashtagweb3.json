@@ -524,6 +524,9 @@
   "https://www.coindesk.com/tech/2026/09/07/solana-to-triple-transaction-size-as-apps-get-room-for-more-complex-trades",
   "https://cointelegraph.com/news/swiss-stablecoin-sandbox-testing-phase-two-new-partners?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "https://www.coindesk.com/business/2026/09/02/bit2me-sets-up-specialized-unit-to-help-law-enforcement-track-down-crypto-assets",
+  "https://decrypt.co/377764/german-finance-ministry-drafts-25-tax-on-crypto-gains-from-2027",
+  "https://www.theblock.co/news/markets/2026-09-10-coinbase-ceo-brian-armstrong-says-bitcoin-has-bottomed-for-current-cycle-expects-uptrend-over-next-two-years-414104",
+  "https://cointelegraph.com/news/hunter-biden-denies-profiting-memecoin-laptop-crash?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1480,6 +1483,12 @@
   "Swiss stablecoin sandbox enters testing phase, adds two new partners",
   "Bit2Me creates unit to help police track crypto assets",
   "Bit2Me sets up specialized unit to help law enforcement track down crypto assets",
+  "Germany plans 25 percent tax on crypto capital gains",
+  "German Finance Ministry Drafts 25% Tax on Crypto Gains From 2027",
+  "Coinbase CEO Predicts Two-Year Bitcoin Uptrend",
+  "Coinbase CEO Brian Armstrong says bitcoin has bottomed for current cycle, expects uptrend over next two years",
+  "Hunter Biden Denies Profiting From Memecoin",
+  "Hunter Biden denies profiting from memecoin after his LAPTOP crashes",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1554,5 +1563,8 @@
   "fp:advanc|becom|chief|development|difficult|down|jakub|lab|mandatory|may",
   "fp:activat|app|block|complex|contract|enabl|execution|get|larger|maximum",
   "fp:add|app|bank|enter|financial|franc|join|operator|partner|payment",
-  "fp:15m|asset|assist|bit2m|creat|division|down|enforcement|euro|europol"
+  "fp:15m|asset|assist|bit2m|creat|division|down|enforcement|euro|europol",
+  "fp:affect|after2026|asset|capital|current|draft|drafts25|exist|financ|fre",
+  "fp:armstrong|bottom|brian|ceo|coinbas|cryptocurrency|current|cycl|expect|likely",
+  "fp:117|800|associat|biden|chain|crash|data|deny|his|hunter"
 ]
