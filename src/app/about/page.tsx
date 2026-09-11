@@ -1,122 +1,72 @@
-import { Card, CardContent } from '@/components/ui/card';
+import Image from 'next/image';
 import Link from 'next/link';
-import { ArrowRight } from 'lucide-react';
-import { PageHeader } from '@/components/page-header';
+import { ArrowRight, BookOpen, CheckCircle2, Radio, ShieldCheck } from 'lucide-react';
+import { EditorialPageHero } from '@/components/editorial-page-hero';
 import { PageShell } from '@/components/page-shell';
+import { Button } from '@/components/ui/button';
+import { Card, CardContent } from '@/components/ui/card';
+import { channels, caseStudies, communityPhotos, stats } from '@/lib/community-data';
 
-export const revalidate = 86400; // 24 hours
+export const revalidate = 86400;
+
+const standards = [
+  { icon: ShieldCheck, title: 'Verified before visible', text: 'We check source quality, hiring signals, links, and duplicates before a role reaches the board.' },
+  { icon: BookOpen, title: 'Useful context', text: 'The glossary, playbook, salary tools, and guides turn a listing into a better career decision.' },
+  { icon: Radio, title: 'Open by default', text: 'Jobs, events, news, and definitions are available through the site, public APIs, and machine-readable feeds.' },
+];
 
 export default function AboutPage() {
   return (
-    <div className="flex flex-col min-h-screen">
-      <main className="flex-1">
-        <PageShell>
-          <div className="site-container space-y-12">
-            
-            {/* Header */}
-            <section className="text-center">
-              <PageHeader
-                title="About Hashtag Web3"
-                description="Empowering the decentralized workforce by connecting top builders with transformative blockchain opportunities."
-              />
-            </section>
+    <main>
+      <PageShell>
+        <div className="site-container space-y-16 py-6 sm:space-y-20 sm:py-10">
+          <EditorialPageHero
+            eyebrow="About Hashtag Web3"
+            title="Career infrastructure for an open internet."
+            description="Hashtag Web3 connects builders, teams, and the wider Web3 community through verified work, practical career intelligence, and conversations that travel beyond the job board."
+            image={communityPhotos[5].src}
+            imageAlt={communityPhotos[5].alt}
+          >
+            <Link href="/jobs"><Button size="lg">Explore jobs <ArrowRight className="ml-2 h-4 w-4" /></Button></Link>
+            <Link href="/community"><Button size="lg" variant="outline">See the community</Button></Link>
+          </EditorialPageHero>
 
-            {/* Mission & Overview */}
-            <section className="bg-card border rounded-2xl p-6 sm:p-10 shadow-sm space-y-6">
-              <div className="text-primary font-semibold text-sm uppercase tracking-wider">
-                Our Mission
+          <section className="grid gap-6 lg:grid-cols-[1.2fr_.8fr]">
+            <div className="rounded-2xl border border-border/70 bg-card p-6 shadow-sm sm:p-9">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">The point of the platform</p>
+              <h2 className="mt-4 text-2xl font-bold tracking-tight sm:text-3xl">Make the signal easier to find.</h2>
+              <div className="mt-5 space-y-4 text-sm leading-7 text-muted-foreground sm:text-base">
+                <p>Founded in 2022, Hashtag Web3 helps people navigate the decentralized economy without sorting through the same noise twice. We bring jobs, events, news, education, and practical tools into one useful layer.</p>
+                <p>The community spans builders, operators, founders, recruiters, and curious people finding their way into Web3. The goal is simple: make the next good move more visible.</p>
               </div>
-              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">
-                Building the Career Infrastructure for the Decentralized Economy
-              </h2>
-              <p className="text-muted-foreground leading-relaxed text-base sm:text-lg">
-                Founded in 2022, Hashtag Web3 (hashtagweb3.com) is the premier Web3 job board, career intelligence network, and developer resource platform. As the digital economy transitions from centralized walled gardens to open, verifiable blockchain networks, hiring demands are shifting rapidly. We bridge the talent gap between elite builders and pioneering blockchain protocols, DeFi foundations, DAOs, and crypto enterprises.
-              </p>
-              <p className="text-muted-foreground leading-relaxed text-base sm:text-lg">
-                Today, Hashtag Web3 is trusted by over 60,000 active community members across Telegram, Discord, and LinkedIn. We list thousands of verified remote and on-site opportunities in Solidity, Rust, Zero-Knowledge engineering, smart contract security auditing, protocol architecture, tokenomics design, and crypto marketing.
-              </p>
-            </section>
+            </div>
+            <div className="rounded-2xl bg-primary p-6 text-primary-foreground shadow-sm sm:p-9">
+              <p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary-foreground/70">What we optimize for</p>
+              <ul className="mt-6 space-y-5 text-sm leading-6">
+                {['Less repetition, more useful context.', 'Real opportunities over vague promises.', 'A community that compounds knowledge.'].map((item) => <li key={item} className="flex gap-3"><CheckCircle2 className="mt-0.5 h-5 w-5 shrink-0" />{item}</li>)}
+              </ul>
+            </div>
+          </section>
 
-            {/* Platform Numbers & Highlights */}
-            <section className="grid grid-cols-2 md:grid-cols-4 gap-6">
-              <Card className="text-center p-6 flex flex-col justify-center min-h-[140px] shadow-sm">
-                <CardContent className="p-0">
-                  <p className="text-3xl sm:text-4xl font-bold text-foreground">60,000+</p>
-                  <p className="text-xs sm:text-sm text-muted-foreground mt-2">Community Members</p>
-                </CardContent>
-              </Card>
-              <Card className="text-center p-6 flex flex-col justify-center min-h-[140px] shadow-sm">
-                <CardContent className="p-0">
-                  <p className="text-3xl sm:text-4xl font-bold text-foreground">3,000+</p>
-                  <p className="text-xs sm:text-sm text-muted-foreground mt-2">Web3 Jobs Indexed</p>
-                </CardContent>
-              </Card>
-              <Card className="text-center p-6 flex flex-col justify-center min-h-[140px] shadow-sm">
-                <CardContent className="p-0">
-                  <p className="text-3xl sm:text-4xl font-bold text-foreground">150+</p>
-                  <p className="text-xs sm:text-sm text-muted-foreground mt-2">Hiring Partners</p>
-                </CardContent>
-              </Card>
-              <Card className="text-center p-6 flex flex-col justify-center min-h-[140px] shadow-sm">
-                <CardContent className="p-0">
-                  <p className="text-3xl sm:text-4xl font-bold text-foreground">500+</p>
-                  <p className="text-xs sm:text-sm text-muted-foreground mt-2">Guides & Tutorials</p>
-                </CardContent>
-              </Card>
-            </section>
+          <section className="rounded-2xl border border-border/70 bg-card p-5 shadow-sm sm:p-8">
+            <div className="grid grid-cols-2 gap-5 md:grid-cols-4">
+              {stats.map((stat) => <div key={stat.label} className="border-l border-border pl-4"><p className="text-2xl font-bold text-primary sm:text-3xl">{stat.value}</p><p className="mt-1 text-xs leading-5 text-muted-foreground">{stat.label}</p></div>)}
+            </div>
+          </section>
 
-            {/* Editorial Standards & Job Verification */}
-            <section className="space-y-6">
-              <h2 className="text-2xl sm:text-3xl font-bold text-foreground">
-                Our Verification & Editorial Standards
-              </h2>
-              <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-                <Card className="p-6 pt-8 shadow-sm">
-                  <CardContent className="p-0 space-y-2">
-                    <h3 className="font-bold text-lg text-foreground">Spam-Free Job Curation</h3>
-                    <p className="text-sm text-muted-foreground leading-relaxed">
-                      Every job posting is verified against legitimate corporate domain records, active protocol repositories, and confirmed hiring managers to eliminate scams and duplicate postings.
-                    </p>
-                  </CardContent>
-                </Card>
-                <Card className="p-6 pt-8 shadow-sm">
-                  <CardContent className="p-0 space-y-2">
-                    <h3 className="font-bold text-lg text-foreground">Technical Rigor</h3>
-                    <p className="text-sm text-muted-foreground leading-relaxed">
-                      Our 200+ term Web3 glossary and 47-lesson educational modules are written by active blockchain engineers, auditing professionals, and decentralized finance specialists.
-                    </p>
-                  </CardContent>
-                </Card>
-                <Card className="p-6 pt-8 shadow-sm">
-                  <CardContent className="p-0 space-y-2">
-                    <h3 className="font-bold text-lg text-foreground">Open Access & API First</h3>
-                    <p className="text-sm text-muted-foreground leading-relaxed">
-                      We believe in open information architecture. All job data, industry news, and glossary definitions are available to humans and AI agents via public REST APIs and OpenAPI specs.
-                    </p>
-                  </CardContent>
-                </Card>
-              </div>
-            </section>
+          <section>
+            <div className="mb-7 max-w-2xl"><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">How we work</p><h2 className="mt-3 text-2xl font-bold tracking-tight sm:text-3xl">A human editorial layer on top of a busy market.</h2></div>
+            <div className="grid gap-5 md:grid-cols-3">{standards.map(({ icon: Icon, title, text }) => <Card key={title} className="shadow-sm"><CardContent className="p-6"><Icon className="h-6 w-6 text-primary" /><h3 className="mt-5 font-semibold">{title}</h3><p className="mt-2 text-sm leading-6 text-muted-foreground">{text}</p></CardContent></Card>)}</div>
+          </section>
 
-            {/* CTA */}
-            <section className="bg-primary/5 border border-primary/20 rounded-2xl p-8 text-center space-y-4">
-              <h2 className="text-2xl font-bold text-foreground">Join the Leading Web3 Talent Network</h2>
-              <p className="text-muted-foreground text-sm sm:text-base max-w-xl mx-auto">
-                Whether you are looking to hire senior Solidity talent or seeking your next remote Web3 role, Hashtag Web3 gives you the tools to succeed.
-              </p>
-              <div className="flex flex-wrap justify-center gap-4 pt-2">
-                <Link href="/jobs" className="inline-flex items-center justify-center rounded-md bg-primary px-6 py-3 text-sm font-medium text-primary-foreground shadow hover:bg-primary/90 transition-colors">
-                  Explore Jobs <ArrowRight className="ml-2 h-4 w-4" />
-                </Link>
-                <Link href="/contact" className="inline-flex items-center justify-center rounded-md border border-input bg-background px-6 py-3 text-sm font-medium hover:bg-accent hover:text-accent-foreground transition-colors">
-                  Contact Us
-                </Link>
-              </div>
-            </section>
+          <section className="grid gap-6 lg:grid-cols-[.9fr_1.1fr] lg:items-center">
+            <div><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">From the network</p><h2 className="mt-3 text-2xl font-bold tracking-tight sm:text-3xl">Work gets better when the room gets wider.</h2><p className="mt-4 text-sm leading-7 text-muted-foreground">Our community work spans job distribution, media, events, and direct conversations with the teams building the ecosystem.</p></div>
+            <div className="grid gap-4 sm:grid-cols-3">{caseStudies.map((study) => <div key={study.title} className="overflow-hidden rounded-xl border border-border/70 bg-card shadow-sm"><div className="relative h-28"><Image src={study.image} alt={study.title} fill className="object-cover" sizes="(max-width: 640px) 100vw, 30vw" /></div><div className="p-4"><p className="text-sm font-semibold leading-5">{study.title}</p></div></div>)}</div>
+          </section>
 
-          </div>
-        </PageShell>
-      </main>
-    </div>
+          <section className="rounded-2xl bg-muted/50 p-6 sm:p-9"><div className="grid gap-8 md:grid-cols-2"><div><p className="text-xs font-semibold uppercase tracking-[0.2em] text-primary">Where people find us</p><h2 className="mt-3 text-2xl font-bold tracking-tight">One community, several useful doors.</h2></div><div className="grid gap-4 sm:grid-cols-2">{channels.slice(0, 4).map(({ icon: Icon, title, description }) => <div key={title} className="flex gap-3"><Icon className="mt-1 h-5 w-5 shrink-0 text-primary" /><div><h3 className="text-sm font-semibold">{title}</h3><p className="mt-1 text-xs leading-5 text-muted-foreground">{description}</p></div></div>)}</div></div></section>
+        </div>
+      </PageShell>
+    </main>
   );
 }

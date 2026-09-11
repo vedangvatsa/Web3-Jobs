@@ -1,7 +1,6 @@
 import { Instagram, Linkedin, Mail, Twitter, Send, Youtube } from 'lucide-react';
 import Link from 'next/link';
 import type { Article } from '@/types';
-import { FOOTER_COMPANY } from '@/lib/nav-config';
 
 export function FooterContent({ latestArticles }: { latestArticles: Omit<Article, 'content'>[] }) {
  const resourceLinks = [
@@ -17,7 +16,7 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
  return (
   <footer className="w-full border-t bg-transparent">
    <div className="mx-auto w-full max-w-6xl px-4 py-12">
-    <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-8">
+     <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8">
      <div className="lg:col-span-1">
       <h3 className="text-xl font-bold tracking-tight text-foreground">
        Hashtag Web3
@@ -84,20 +83,7 @@ export function FooterContent({ latestArticles }: { latestArticles: Omit<Article
        </ul>
       </div>
 
-      <div className="lg:col-span-1">
-        <h4 className="font-semibold text-foreground mb-3">Developers</h4>
-        <ul className="space-y-2">
-        {FOOTER_COMPANY.map(link => (
-         <li key={link.label}>
-          <Link href={link.href} className="text-sm text-muted-foreground hover:text-primary transition-colors">
-           {link.label}
-          </Link>
-         </li>
-        ))}
-       </ul>
       </div>
-
-     </div>
    </div>
   </footer>
  );
