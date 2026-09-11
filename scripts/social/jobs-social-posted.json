@@ -1,5 +1,5 @@
 {
-  "lastIndex": 153,
+  "lastIndex": 155,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -59,7 +59,9 @@
     "analyst41667",
     "marketing2fcb2",
     "senior7c734",
-    "engineer72100"
+    "engineer72100",
+    "backendf14d6",
+    "architecta047c"
   ],
   "history": [
     {
@@ -2317,6 +2319,102 @@
       "platform": "facebook",
       "postedAt": "2026-09-11T17:05:48.675Z",
       "postId": "691827047618629_1085853150688586"
+    },
+    {
+      "slug": "backendf14d6",
+      "company": "Aave Labs",
+      "title": "Principal Backend Engineer, Push",
+      "platform": "threads",
+      "postedAt": "2026-09-11T21:51:33.014Z",
+      "postId": "18111416909163501"
+    },
+    {
+      "slug": "backendf14d6",
+      "company": "Aave Labs",
+      "title": "Principal Backend Engineer, Push",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T21:51:33.014Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvbkfwlwhg2e"
+    },
+    {
+      "slug": "backendf14d6",
+      "company": "Aave Labs",
+      "title": "Principal Backend Engineer, Push",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T21:51:33.014Z",
+      "postId": "0xb7982bc95f3e395708dd7ea186761bc43f315767"
+    },
+    {
+      "slug": "backendf14d6",
+      "company": "Aave Labs",
+      "title": "Principal Backend Engineer, Push",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T21:51:33.014Z",
+      "postId": "6aa477fc997881a67931dbe3"
+    },
+    {
+      "slug": "backendf14d6",
+      "company": "Aave Labs",
+      "title": "Principal Backend Engineer, Push",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T21:51:33.014Z",
+      "postId": "691827047618629_1086013217339246"
+    },
+    {
+      "slug": "backendf14d6",
+      "company": "Aave Labs",
+      "title": "Principal Backend Engineer, Push",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T21:51:33.014Z",
+      "postId": "18103315349217216"
+    },
+    {
+      "slug": "architecta047c",
+      "company": "Chainalysis",
+      "title": "Solutions Architect | LATAM",
+      "platform": "threads",
+      "postedAt": "2026-09-11T21:53:03.223Z",
+      "postId": "17876772495554337"
+    },
+    {
+      "slug": "architecta047c",
+      "company": "Chainalysis",
+      "title": "Solutions Architect | LATAM",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T21:53:03.223Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvbkihprnz24"
+    },
+    {
+      "slug": "architecta047c",
+      "company": "Chainalysis",
+      "title": "Solutions Architect | LATAM",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T21:53:03.223Z",
+      "postId": "0xb7e31464c29a1eacf1fb327f6bd7f7392ba13fe1"
+    },
+    {
+      "slug": "architecta047c",
+      "company": "Chainalysis",
+      "title": "Solutions Architect | LATAM",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T21:53:03.223Z",
+      "postId": "6aa47851aa296f331c7b7632"
+    },
+    {
+      "slug": "architecta047c",
+      "company": "Chainalysis",
+      "title": "Solutions Architect | LATAM",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T21:53:03.223Z",
+      "postId": "691827047618629_1086013880672513"
+    },
+    {
+      "slug": "architecta047c",
+      "company": "Chainalysis",
+      "title": "Solutions Architect | LATAM",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T21:53:03.223Z",
+      "postId": "18099127640056621"
     }
   ]
 }
