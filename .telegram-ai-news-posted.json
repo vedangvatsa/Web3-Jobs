@@ -554,6 +554,9 @@
   "https://techcrunch.com/2026/09/10/maven-robotics-wants-to-steal-your-robot-deployment-deal/",
   "https://techcrunch.com/2026/09/10/openai-puts-pro-subscriptions-on-hold-due-to-astra-demand/",
   "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+  "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
+  "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
+  "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1445,6 +1448,12 @@
   "OpenAI puts Pro subscriptions on hold due to Astra demand",
   "Mark Wahlberg to speak at TechCrunch Disrupt 2026",
   "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+  "Anthropic accuses Chinese firms of copying model outputs",
+  "Anthropic details distillation campaigns from Alibaba, Moonshot AI, and DeepSeek",
+  "OpenAI agents solve Millennium Prize math problem",
+  "What OpenAI’s latest controversy tells us about the future of math",
+  "Anthropic prepares public offering with safety trustee structure",
+  "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1516,5 +1525,8 @@
   "fp:alteration|bas|chang|dna|evaluat|every|genetic|genom|googl|harmful",
   "fp:100m|automation|began|commercial|compet|contract|deployment|dollar|emerg|fund",
   "fp:astra|computational|demand|deployment|due|expand|follow|halt|handl|high",
-  "fp:bruc|build|business|com|discuss|disrupt2026|entrepreneurship|healthcar|his|invest"
+  "fp:bruc|build|business|com|discuss|disrupt2026|entrepreneurship|healthcar|his|invest",
+  "fp:accus|alibaba|anthropic|campaign|chines|claim|compet|competitor|copy|data",
+  "fp:agent|among|announc|controversy|debat|futur|hardest|math|mathematic|millennium",
+  "fp:anthropic|design|developer|external|ipo|maintain|offer|oversight|plann|powerful"
 ]
