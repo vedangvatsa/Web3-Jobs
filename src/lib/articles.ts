@@ -103,6 +103,121 @@ function repairDiagramMarkup(content: string): string {
     .join('\n');
 }
 
+function repairSplitListItems(content: string): string {
+  const lines = content.split('\n');
+  const repaired: string[] = [];
+
+  for (let index = 0; index < lines.length; index++) {
+    const match = lines[index].match(/^(\s*)((?:\d+\.)|[-+*])\s*$/);
+    if (!match) {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    let nextIndex = index + 1;
+    while (nextIndex < lines.length && !lines[nextIndex].trim()) nextIndex++;
+    const nextLine = lines[nextIndex]?.trim();
+
+    if (!nextLine || /^(?:#|```|(?:\d+\.)|[-+*])(?:\s|$)|^\|/.test(nextLine)) {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    repaired.push(`${match[1]}${match[2]} ${nextLine}`);
+    index = nextIndex;
+  }
+
+  return repaired.join('\n');
+}
+
+function repairFragmentedTables(content: string): string {
+  const lines = content.split('\n');
+  const repaired: string[] = [];
+
+  for (let index = 0; index < lines.length; index++) {
+    if (lines[index].trim() !== '|') {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    const cells: string[] = [];
+    let nextIndex = index + 1;
+    while (nextIndex < lines.length) {
+      const candidate = lines[nextIndex].trim();
+      if (!candidate) {
+        nextIndex++;
+        continue;
+      }
+      if (candidate === '|' || candidate.startsWith('|') || !candidate.endsWith('|')) break;
+      cells.push(candidate.slice(0, -1).trim());
+      nextIndex++;
+    }
+
+    if (cells.length < 2) {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    repaired.push(`| ${cells.join(' | ')} |`);
+    index = nextIndex - 1;
+  }
+
+  return repaired.join('\n');
+}
+
+function tableCellCount(line: string): number {
+  return line.trim().split('|').length - 2;
+}
+
+function repairIncompleteTableRows(content: string): string {
+  const lines = content.split('\n');
+  const repaired: string[] = [];
+
+  for (let index = 0; index < lines.length; index++) {
+    const header = lines[index].trim();
+    const separatorIndex = index + 1;
+    const separator = lines[separatorIndex]?.trim();
+
+    if (!header.startsWith('|') || !header.endsWith('|') || !separator || !/^\|(?:\s*:?-{3,}:?\s*\|)+$/.test(separator)) {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    const columns = tableCellCount(header);
+    repaired.push(lines[index], lines[separatorIndex]);
+    index = separatorIndex;
+
+    while (index + 1 < lines.length) {
+      let rowIndex = index + 1;
+      while (rowIndex < lines.length && !lines[rowIndex].trim()) rowIndex++;
+      const row = lines[rowIndex]?.trim();
+      if (!row?.startsWith('|') || !row.endsWith('|')) break;
+
+      let completedRow = row;
+      let cells = tableCellCount(completedRow);
+      let nextIndex = rowIndex + 1;
+
+      while (cells < columns) {
+        while (nextIndex < lines.length && !lines[nextIndex].trim()) nextIndex++;
+        const fragment = lines[nextIndex]?.trim();
+        if (!fragment || fragment.startsWith('|') || !fragment.endsWith('|')) break;
+        completedRow = `${completedRow} ${fragment}`;
+        cells++;
+        nextIndex++;
+      }
+
+      repaired.push(completedRow);
+      index = nextIndex - 1;
+    }
+  }
+
+  return repaired.join('\n');
+}
+
+function normalizeArticleMarkdown(content: string): string {
+  return repairDiagramMarkup(repairIncompleteTableRows(repairFragmentedTables(repairSplitListItems(removePlaceholderKeyTakeaways(content)))));
+}
+
 const latestArticlesPath = path.join(process.cwd(), 'content/latest-articles.json');
 
 /** Footer-only: reads precomputed JSON instead of scanning all article files. */
@@ -154,7 +269,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const matterResult = matter(fileContents);
 
-  const sanitizedContent = repairDiagramMarkup(removePlaceholderKeyTakeaways(matterResult.content));
+  const sanitizedContent = normalizeArticleMarkdown(matterResult.content);
 
   const processedContent = await remark()
    .use(remarkGfm)
