@@ -76,6 +76,11 @@ async function main() {
       text: message,
       parse_mode: 'HTML',
       disable_web_page_preview: false,
+      link_preview_options: {
+        is_disabled: false,
+        url,
+        prefer_large_media: true,
+      },
       reply_markup: {
         inline_keyboard: [[
           {
