@@ -41,7 +41,8 @@ export async function GET() {
       const department = job.department || "Web3 / Blockchain";
       const date = job.date || new Date().toISOString().split("T")[0];
 
-      const rawDescription = buildSynthesizedJobContent(job);
+      const rawDescription = buildSynthesizedJobContent(job)
+        .replace(/https?:\/\/[^\s<>'"]+/gi, '');
 
       return `  <job id="${job.id || slug}">
     <id><![CDATA[${job.id || slug}]]></id>

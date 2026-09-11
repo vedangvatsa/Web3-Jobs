@@ -87,6 +87,9 @@ function sanitizeDescriptionHtml(raw: string): string {
   // Neutralize javascript:/vbscript: URLs
   html = html.replace(/\s(href|src)\s*=\s*("|\')\s*javascript:[^"']*("|\')/gi, ' $1="#"');
   html = html.replace(/\s(href|src)\s*=\s*("|\')\s*vbscript:[^"']*("|\')/gi, ' $1="#"');
+  // Feeds expose only the Hashtag Web3 detail page, never scraped source URLs.
+  html = html.replace(/\s(?:href|src)\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/gi, "");
+  html = html.replace(/\bhttps?:\/\/[^\s<>'"]+/gi, "");
   return html.trim();
 }
 
@@ -134,12 +137,8 @@ function buildItem(job: Job, siteUrl: string, nowRfc822: string): string {
   const fullDesc = sanitizeDescriptionHtml(job.description || "");
   const bodyHtml = fullDesc ? truncateHtmlAtBoundary(fullDesc, MAX_DESC_CHARS) : "";
 
-  // Direct employer apply URL alongside our canonical page.
-  const applyLine = job.link
-    ? `<p><a href="${escapeXml(job.link)}">Apply directly on the company site</a></p>`
-    : "";
   const canonicalLine = `<p><a href="${url}">View full job details and apply on Hashtag Web3</a></p>`;
-  const descriptionHtml = [headerHtml, bodyHtml, applyLine, canonicalLine]
+  const descriptionHtml = [headerHtml, bodyHtml, canonicalLine]
     .filter(Boolean)
     .join("\n");
 
