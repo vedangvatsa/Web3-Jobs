@@ -65,6 +65,16 @@ const KBW_LUMA_IMAGE_OVERRIDES: Record<string, string> = {
   'kbw-luma-xrp-afterparty-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/r1/96efe20d-1f2b-4666-a8b9-1403a160ddc0.png',
 };
 
+function loadEventImageOverrides(cwd: string): Record<string, string> {
+  const imagePath = path.join(cwd, 'content', 'event-image-overrides.json');
+  try {
+    return fs.existsSync(imagePath) ? JSON.parse(fs.readFileSync(imagePath, 'utf8')) : {};
+  } catch (err) {
+    console.error('Failed to read event-image-overrides.json:', err);
+    return {};
+  }
+}
+
 let rootContentSlugs: Promise<Set<string>> | undefined;
 
 async function getRootContentSlugs(): Promise<Set<string>> {
@@ -173,7 +183,8 @@ export async function getEvents(): Promise<Web3Event[]> {
     const cwd = process.cwd();
     const curatedPath = path.join(cwd, 'content', 'curated-events.json');
     const kbwLumaPath = path.join(cwd, 'content', 'kbw-luma-events.json');
-    const cachePath = path.join(cwd, 'content', 'events-cache.json');
+     const cachePath = path.join(cwd, 'content', 'events-cache.json');
+     const eventImageOverrides = loadEventImageOverrides(cwd);
 
     let curatedEvents: Web3Event[] = [];
     let kbwLumaEvents: Web3Event[] = [];
@@ -277,9 +288,10 @@ export async function getEvents(): Promise<Web3Event[]> {
 
       cleaned.push({
         ...e,
-         coverImage: isLumaDefaultPlaceholder(e.coverImage)
-           ? null
-           : e.coverImage || KBW_LUMA_IMAGE_OVERRIDES[e.id] || null,
+         coverImage: eventImageOverrides[e.id]
+           || (isLumaDefaultPlaceholder(e.coverImage) ? null : e.coverImage)
+           || KBW_LUMA_IMAGE_OVERRIDES[e.id]
+           || null,
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
