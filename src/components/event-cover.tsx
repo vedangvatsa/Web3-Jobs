@@ -102,63 +102,38 @@ export function EventCardImage({
   format: string;
   index?: number;
 }) {
-  const [hasError, setHasError] = useState(false);
+  const generatedSrc = getGeneratedEventCover(name);
+  const [failedSrc, setFailedSrc] = useState<string | null>(null);
+  const imageSrc = src && failedSrc === src ? generatedSrc : src || generatedSrc;
 
-  if (hasError) {
+  if (failedSrc === generatedSrc) {
     return <EventCoverFallback name={name} type={type} format={format} />;
-  }
-
-  if (!src) {
-    return (
-      <img
-        src={getGeneratedEventCover(name)}
-        alt={name}
-        className="w-full h-full bg-muted object-contain"
-        loading={index !== undefined && index < 3 ? 'eager' : 'lazy'}
-        decoding="async"
-        onError={() => setHasError(true)}
-      />
-    );
   }
 
   const isAboveFold = index !== undefined && index < 3;
 
   return (
     <img
-      src={src}
+      src={imageSrc}
       alt={name}
       className="w-full h-full bg-muted object-contain transition-transform duration-500 ease-out"
       loading={isAboveFold ? "eager" : "lazy"}
       fetchPriority={index === 0 ? "high" : undefined}
       decoding="async"
-      onError={() => setHasError(true)}
+      onError={() => setFailedSrc(imageSrc)}
     />
   );
 }
 
 export function EventHeroImage({ src, name }: { src?: string | null; name: string }) {
-  const [hasError, setHasError] = useState(false);
+  const generatedSrc = getGeneratedEventCover(name);
+  const [failedSrc, setFailedSrc] = useState<string | null>(null);
+  const imageSrc = src && failedSrc === src ? generatedSrc : src || generatedSrc;
 
-  if (hasError) {
+  if (failedSrc === generatedSrc) {
     return (
       <div className="w-full aspect-video rounded-2xl overflow-hidden border">
         <EventCoverFallback name={name} />
-      </div>
-    );
-  }
-
-  if (!src) {
-    return (
-      <div className="w-full rounded-2xl overflow-hidden bg-muted border">
-        <img
-          src={getGeneratedEventCover(name)}
-          alt={name}
-          className="mx-auto w-full h-auto max-h-[75vh] object-contain"
-          loading="eager"
-          fetchPriority="high"
-          decoding="async"
-          onError={() => setHasError(true)}
-        />
       </div>
     );
   }
@@ -172,7 +147,7 @@ export function EventHeroImage({ src, name }: { src?: string | null; name: strin
         loading="eager"
         fetchPriority="high"
         decoding="async"
-        onError={() => setHasError(true)}
+        onError={() => setFailedSrc(imageSrc)}
       />
     </div>
   );
