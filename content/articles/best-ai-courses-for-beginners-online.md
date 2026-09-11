@@ -7,7 +7,9 @@ description: >-
   and trade-offs.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
+image: >-
+  https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QmVzdCUyMEFJJTIwQ291cnNlcyUyMEJlZ2lubmVycyUyME9ubGluZXxlbnwxfDB8fHwxNzg5MTM3NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 AI courses for beginners fall into two useful groups. Some teach you what AI can do and how to use it at work without writing code. Others teach you to build models with Python and math.
 
