@@ -22,10 +22,11 @@ import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
-import { getEventSlug, getEventFormat, getEventEcosystems, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
+import { getEventSlug, getEventFormat, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
+import { DetailPageHeader } from '@/components/detail-page-header';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
 import { Calendar, MapPin, ExternalLink, ArrowLeft, ArrowRight } from 'lucide-react';
@@ -425,73 +426,68 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">
           <main className="flex-1 pb-16">
-            <div className="container mx-auto px-4 py-8 max-w-6xl space-y-10">
-              {/* Header Block */}
-              <header className="space-y-4 max-w-3xl mx-auto text-center">
-                <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-tight">
-                  {event.name}
-                </h1>
-
-                <div className="flex flex-wrap items-center justify-center gap-y-2 gap-x-4 text-sm text-muted-foreground">
-                  <div className="flex items-center gap-1.5 font-medium text-foreground">
-                    <Calendar className="h-4 w-4 text-muted-foreground" />
-                    <span>{formatEventDate(event.startDate, event.endDate)}</span>
+            <article className="site-container px-4 py-10 sm:py-14">
+              <DetailPageHeader
+                breadcrumbs={[{ href: '/', label: 'Home' }, { href: '/events', label: 'Events' }]}
+                icon={
+                  <div className="flex h-full w-full flex-col items-center justify-center rounded-md border border-border/60 bg-muted/40 text-center">
+                    <Calendar className="h-4 w-4 text-muted-foreground" aria-hidden="true" />
+                    <span className="mt-1 text-[10px] font-bold uppercase leading-none text-primary">
+                      {getEventDatePill(event.startDate).month}
+                    </span>
+                    <span className="mt-0.5 text-base font-extrabold leading-none text-foreground">
+                      {getEventDatePill(event.startDate).day}
+                    </span>
                   </div>
-                  <span>•</span>
-                  <div className="flex items-center gap-1.5">
-                    <MapPin className="h-4 w-4 text-muted-foreground" />
-                    <span>{event.location}</span>
-                  </div>
-                </div>
+                }
+                title={event.name}
+                metadata={
+                  <>
+                      <div className="flex min-w-0 items-center gap-1.5">
+                        <MapPin className="h-4 w-4 text-muted-foreground" />
+                        <span className="break-words">{event.location}</span>
+                      </div>
+                  </>
+                }
+                actions={
+                  <>
+                    <Button asChild className="flex-1 gap-2 sm:flex-none">
+                      <a href={event.url} target="_blank" rel="noopener noreferrer nofollow">
+                        <span>Details</span>
+                        <ExternalLink className="h-4 w-4" />
+                      </a>
+                    </Button>
+                    <Button asChild variant="outline" className="flex-1 gap-2 sm:flex-none">
+                      <a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer">
+                        <Calendar className="h-4 w-4 text-muted-foreground" />
+                        <span>Add to Calendar</span>
+                      </a>
+                    </Button>
+                  </>
+                }
+              />
 
-                {/* Action Buttons */}
-                <div className="flex flex-wrap items-center justify-center gap-3 pt-2">
-                  <Button asChild size="default" className="rounded-lg font-medium gap-2">
-                    <a
-                      href={event.url}
-                      target="_blank"
-                      rel="noopener noreferrer nofollow"
-                      className="flex items-center"
-                    >
-                      <span>Details</span>
-                      <ExternalLink className="h-4 w-4" />
-                    </a>
-                  </Button>
-
-                  <Button asChild variant="outline" size="default" className="rounded-lg gap-2">
-                    <a
-                      href={googleCalendarUrl}
-                      target="_blank"
-                      rel="noopener noreferrer"
-                      className="flex items-center"
-                    >
-                      <Calendar className="h-4 w-4 text-muted-foreground" />
-                      <span>Add to Calendar</span>
-                    </a>
-                  </Button>
-                </div>
-              </header>
-
-              {/* Event Cover Image */}
-              <EventHeroImage src={event.coverImage} name={event.name} />
+              <div className="mt-8">
+                <EventHeroImage src={event.coverImage} name={event.name} />
+              </div>
 
               {/* Quick Facts Grid */}
               {(editorial.ticketPricing || editorial.expectedAttendance || speakerSummary) && (
-                <div className="flex flex-col md:flex-row flex-wrap gap-6 md:gap-8 py-6 border-y text-sm">
+                <div className="mt-8 grid gap-4 rounded-lg bg-muted/30 p-4 text-sm sm:grid-cols-2 lg:grid-cols-3">
                   {editorial.ticketPricing && (
-                    <div className="space-y-1 flex-1 min-w-[240px] break-words">
+                    <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Ticket Pricing</span>
                       <span className="font-semibold text-foreground text-sm">{editorial.ticketPricing}</span>
                     </div>
                   )}
                   {speakerSummary && (
-                    <div className="space-y-1 flex-1 min-w-[240px] break-words">
+                    <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Speakers</span>
                       <span className="font-semibold text-foreground text-sm">{speakerSummary}</span>
                     </div>
                   )}
                   {editorial.expectedAttendance && (
-                    <div className="space-y-1 flex-1 min-w-[240px] break-words">
+                    <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Expected Attendance</span>
                       <span className="font-semibold text-foreground text-sm">{editorial.expectedAttendance}</span>
                     </div>
@@ -500,21 +496,21 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               )}
 
               {/* Full-width Article */}
-              <article className="max-w-none space-y-8 text-sm sm:text-base text-muted-foreground">
+              <section className="mt-8 max-w-none space-y-10 text-sm text-muted-foreground sm:text-base">
                 {/* Summary Lead */}
-                <p className="leading-relaxed">
+                <p className="text-base leading-7 text-foreground/80 sm:text-lg sm:leading-8">
                   {editorial.summaryLead}
                 </p>
 
                 {/* Editorial Sections */}
                 {editorial.sections.map((section, idx) => (
-                  <section key={idx} className="space-y-3 pt-2">
-                    <h2 className="text-xl font-bold tracking-tight text-foreground border-b pb-2">
+                  <section key={idx} className="space-y-4">
+                    <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">
                       {section.heading}
                     </h2>
-                    <div className="space-y-3 leading-relaxed">
+                    <div className="space-y-4 leading-7">
                       {section.content.map((paragraph, pIdx) => (
-                        <p key={pIdx} className="leading-relaxed">
+                        <p key={pIdx}>
                           {paragraph}
                         </p>
                       ))}
@@ -523,19 +519,19 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 ))}
 
                 {speakerSummary && (
-                  <section className="space-y-3 pt-2">
-                    <h2 className="text-xl font-bold tracking-tight text-foreground border-b pb-2">Speakers &amp; Program</h2>
-                    <p className="leading-relaxed">{speakerSummary}</p>
-                    <p className="leading-relaxed">
+                  <section className="space-y-4">
+                    <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">Speakers &amp; Program</h2>
+                    <p className="leading-7">{speakerSummary}</p>
+                    <p className="leading-7">
                       Check the <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="text-primary underline underline-offset-4">official event page</a> for session times and agenda updates.
                     </p>
                   </section>
                 )}
-              </article>
+              </section>
 
               {/* Related Events Section */}
               {relatedEvents.length > 0 && (
-                <section className="space-y-4 pt-8 border-t">
+                <section className="mt-12 space-y-4 border-t pt-8">
                   <div className="flex items-center justify-between">
                     <div>
                       <h2 className="text-xl font-bold text-foreground">Related Upcoming Events</h2>
@@ -581,14 +577,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               )}
 
               {/* Community CTA */}
-              <div className="pt-4 flex justify-center">
+              <div className="mt-12 flex justify-center border-t pt-8">
                 <Button asChild size="lg">
                   <a href="https://t.me/hashtagweb3" target="_blank" rel="noopener noreferrer">
                     Join Our Builder Community <ArrowRight className="ml-2 h-4 w-4" />
                   </a>
                 </Button>
               </div>
-            </div>
+            </article>
           </main>
         </div>
       </>
