@@ -1,5 +1,5 @@
 {
-  "lastIndex": 145,
+  "lastIndex": 147,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -53,7 +53,9 @@
     "managera2cd8",
     "compliance99841",
     "sales28008",
-    "product2d701"
+    "product2d701",
+    "manager9dd0f",
+    "sales202"
   ],
   "history": [
     {
@@ -2023,6 +2025,118 @@
       "platform": "instagram",
       "postedAt": "2026-09-11T00:15:27.058Z",
       "postId": "18215585131347064"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "x",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "2098292408954003795"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "18068158430741502"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv7vojaer52e"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "0xaad0431cd35469a39c7ab3feda7069bc87114f7c"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "6aa39ad074b1f1d0ccd3e754"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "691827047618629_1085429117397656"
+    },
+    {
+      "slug": "manager9dd0f",
+      "company": "Crypto.com",
+      "title": "Finance Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T06:07:49.196Z",
+      "postId": "18115476671049632"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "x",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "2098292764077420802"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "threads",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "17860436346695037"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv7vquiquq2e"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "0x65917e6adb956f55e860517880b6e2b7668829c1"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "6aa39b1f85199affc943d0ba"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "691827047618629_1085429874064247"
+    },
+    {
+      "slug": "sales202",
+      "company": "Brale",
+      "title": "Account Executive",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T06:09:13.937Z",
+      "postId": "17954658303249793"
     }
   ]
 }
