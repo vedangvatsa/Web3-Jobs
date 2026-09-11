@@ -1,5 +1,5 @@
 {
-  "lastIndex": 149,
+  "lastIndex": 153,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -57,7 +57,9 @@
     "manager9dd0f",
     "sales202",
     "analyst41667",
-    "marketing2fcb2"
+    "marketing2fcb2",
+    "senior7c734",
+    "engineer72100"
   ],
   "history": [
     {
@@ -2227,6 +2229,94 @@
       "platform": "facebook",
       "postedAt": "2026-09-11T12:23:39.943Z",
       "postId": "691827047618629_1085655054041729"
+    },
+    {
+      "slug": "senior7c734",
+      "company": "Fun.xyz",
+      "title": "Senior Support Lead",
+      "platform": "threads",
+      "postedAt": "2026-09-11T17:04:17.986Z",
+      "postId": "18015482036936857"
+    },
+    {
+      "slug": "senior7c734",
+      "company": "Fun.xyz",
+      "title": "Senior Support Lead",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T17:04:17.986Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvb2e6mv4722"
+    },
+    {
+      "slug": "senior7c734",
+      "company": "Fun.xyz",
+      "title": "Senior Support Lead",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T17:04:17.986Z",
+      "postId": "0xa3d08fc5af8b78f85a8fc27683fc69857a5f77f8"
+    },
+    {
+      "slug": "senior7c734",
+      "company": "Fun.xyz",
+      "title": "Senior Support Lead",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T17:04:17.986Z",
+      "postId": "6aa434a6a250e699506eff16"
+    },
+    {
+      "slug": "senior7c734",
+      "company": "Fun.xyz",
+      "title": "Senior Support Lead",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T17:04:17.986Z",
+      "postId": "691827047618629_1085852064022028"
+    },
+    {
+      "slug": "senior7c734",
+      "company": "Fun.xyz",
+      "title": "Senior Support Lead",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T17:04:17.986Z",
+      "postId": "18145480465566118"
+    },
+    {
+      "slug": "engineer72100",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Infra Systems",
+      "platform": "threads",
+      "postedAt": "2026-09-11T17:05:48.675Z",
+      "postId": "18175224682431638"
+    },
+    {
+      "slug": "engineer72100",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Infra Systems",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T17:05:48.675Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvb2gum7tv2i"
+    },
+    {
+      "slug": "engineer72100",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Infra Systems",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T17:05:48.675Z",
+      "postId": "0x27f6eb005b05dd42727d59df3eb03a764de26cd1"
+    },
+    {
+      "slug": "engineer72100",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Infra Systems",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T17:05:48.675Z",
+      "postId": "6aa43500b49b9e48d02153a6"
+    },
+    {
+      "slug": "engineer72100",
+      "company": "Coinbase",
+      "title": "Senior Software Engineer, Core Infra Systems",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T17:05:48.675Z",
+      "postId": "691827047618629_1085853150688586"
     }
   ]
 }
