@@ -2,7 +2,7 @@
   {
     "id": "luma-host-evt-evt-T2tQkKnZEqXWxYO",
     "name": "Superteam India Community Call [2026]",
-    "description": "",
+    "description": "ETHConf is the world's largest institutional Ethereum event. Join 2,000+ founders, speakers, industry leaders, companies, and builders shaping the future of Ethereum in New York.",
     "startDate": "2026-09-10T12:30:00.000Z",
     "endDate": "2026-09-10T13:10:00.000Z",
     "city": "",
@@ -3457,10 +3457,10 @@
     "endDate": "2027-06-16T22:30:00.000Z",
     "city": "New York",
     "country": "United States",
-    "location": "New York, United States",
-    "url": "https://lu.ma/ethconf2027",
-    "coverImage": "/events/luma-host-evt-evt-r6tadv4l8kdnckd-71839378.webp",
-    "source": "luma-trusted",
+    "location": "Javits Center, 429 11th Avenue, New York, NY 10001, United States",
+    "url": "https://ethconf.com",
+    "coverImage": "https://ethconf.com/ethconf-og.jpg?v=2027",
+    "source": "official",
     "month": "June 2027"
   },
   {
