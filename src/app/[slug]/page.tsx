@@ -472,8 +472,20 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               </div>
 
               {/* Quick Facts Grid */}
-              {(editorial.ticketPricing || editorial.expectedAttendance || speakerSummary) && (
+              {(event.partnerOffer || editorial.ticketPricing || editorial.expectedAttendance || speakerSummary) && (
                 <div className="mt-8 grid gap-4 rounded-lg bg-muted/30 p-4 text-sm sm:grid-cols-2 lg:grid-cols-3">
+                  {event.partnerOffer && (
+                    <div className="space-y-1 sm:col-span-2 lg:col-span-3">
+                      <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Community offer</span>
+                      {event.partnerOffer.url ? (
+                        <a href={event.partnerOffer.url} target="_blank" rel="noopener noreferrer nofollow" className="font-semibold text-foreground text-sm underline underline-offset-4">
+                          {event.partnerOffer.text}
+                        </a>
+                      ) : (
+                        <span className="font-semibold text-foreground text-sm">{event.partnerOffer.text}</span>
+                      )}
+                    </div>
+                  )}
                   {editorial.ticketPricing && (
                     <div className="space-y-1 break-words">
                       <span className="text-muted-foreground block text-xs font-semibold uppercase tracking-wider">Ticket Pricing</span>
