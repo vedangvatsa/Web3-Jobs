@@ -1,5 +1,5 @@
 {
-  "lastIndex": 144,
+  "lastIndex": 145,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -52,7 +52,8 @@
     "devops29",
     "managera2cd8",
     "compliance99841",
-    "sales28008"
+    "sales28008",
+    "product2d701"
   ],
   "history": [
     {
@@ -1966,6 +1967,62 @@
       "platform": "instagram",
       "postedAt": "2026-09-10T21:44:44.913Z",
       "postId": "18129948334701227"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "x",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "2098203732269830391"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "17872141389588232"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mv7bycqlc52l"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "0x4fae3d1b97ca6f2dba81d04579d74f0f515b32ce"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "6aa3483671ba1c02ccee47e7"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "691827047618629_1085237464083488"
+    },
+    {
+      "slug": "product2d701",
+      "company": "Nexo",
+      "title": "Product Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T00:15:27.058Z",
+      "postId": "18215585131347064"
     }
   ]
 }
