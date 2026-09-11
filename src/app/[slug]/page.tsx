@@ -509,9 +509,9 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               )}
 
               {/* Full-width Article */}
-              <section className="mt-8 max-w-none space-y-10 text-sm text-muted-foreground sm:text-base">
+              <section className="mt-8 max-w-none space-y-10 font-sans text-base text-muted-foreground">
                 {/* Summary Lead */}
-                <p className="leading-7">
+                <p className="text-base leading-relaxed">
                   {editorial.summaryLead}
                 </p>
 
@@ -521,7 +521,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">
                       {section.heading}
                     </h2>
-                    <div className="space-y-4 leading-7">
+                    <div className="space-y-4 text-base leading-relaxed">
                       {section.content.map((paragraph, pIdx) => (
                         <p key={pIdx}>
                           {paragraph}
@@ -534,8 +534,8 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 {speakerSummary && (
                   <section className="space-y-4">
                     <h2 className="text-xl font-bold tracking-tight text-foreground sm:text-2xl">Speakers &amp; Program</h2>
-                    <p className="leading-7">{speakerSummary}</p>
-                    <p className="leading-7">
+                    <p className="text-base leading-relaxed">{speakerSummary}</p>
+                    <p className="text-base leading-relaxed">
                       Check the <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="text-primary underline underline-offset-4">official event page</a> for session times and agenda updates.
                     </p>
                   </section>
