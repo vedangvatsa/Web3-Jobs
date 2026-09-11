@@ -43,12 +43,12 @@ export function NewsPageClient({ initialNewsItems }: { initialNewsItems: NewsIte
 
    {/* News Grid */}
    <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 items-stretch">
-    {filteredNews.map((item, index) => (
-      <a
-        key={index}
-        href={item.link}
-        target="_blank"
-        rel="noopener noreferrer"
+     {filteredNews.map((item, index) => (
+       <a
+         key={index}
+         href={item.link}
+         target={item.link.startsWith('http') ? '_blank' : undefined}
+         rel={item.link.startsWith('http') ? 'noopener noreferrer' : undefined}
         onClick={() => trackNewsClick(item.title, item.link, item.source)}
         className="block group"
       >

@@ -384,6 +384,10 @@ const nextConfig = {
       },
       {
         protocol: 'https',
+        hostname: 'images.ctfassets.net',
+      },
+      {
+        protocol: 'https',
         hostname: 'hashtagweb3.com',
       }
     ],
