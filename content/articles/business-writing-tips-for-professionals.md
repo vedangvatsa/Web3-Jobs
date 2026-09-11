@@ -7,7 +7,9 @@ description: >-
 category: Career Guides
 data-ai-hint: professional writing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
+image: >-
+  https://images.unsplash.com/photo-1488190211105-8b0e65b80b4e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVzaW5lc3MlMjBXcml0aW5nJTIwVGlwcyUyMFByb2Zlc3Npb25hbHMlMjBDYXJlZXJ8ZW58MXwwfHx8MTc4OTEzNzU2NHww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 ## Introduction: Business Writing as a Key Competency
 

@@ -6,7 +6,9 @@ description: >-
   professionals.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
+image: >-
+  https://images.unsplash.com/photo-1623227413711-25ee4388dae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEdlbmVzaXMlMjBCbG9jayUyMERheSUyMC0lMjBCaXJ0aCUyMEJpdGNvaW4lMjBDYXJlZXJ8ZW58MXwwfHx8MTc4OTEzNzU2MXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
 ## 1. Technical Foundations
 

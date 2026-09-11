@@ -1,12 +1,20 @@
 ---
-title: Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and Systems Architecture
-description: A technical roadmap and systems architecture guide for blockchain infrastructure engineers, covering RPC node orchestration, validator sentry architecture, NVMe storage optimization, indexer pipelines, and career progression.
-date: 2026-03-28
+title: >-
+  Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and
+  Systems Architecture
+description: >-
+  A technical roadmap and systems architecture guide for blockchain
+  infrastructure engineers, covering RPC node orchestration, validator sentry
+  architecture, NVMe storage optimization, indexer pipelines, and career
+  progression.
+date: 2026-03-28T00:00:00.000Z
 author: Alex Rivera
-tags: Infrastructure, DevOps, Blockchain Nodes, Kubernetes, RPC Systems
+tags: 'Infrastructure, DevOps, Blockchain Nodes, Kubernetes, RPC Systems'
 slug: building-a-career-as-a-web3-blockchain-infrastructure-engineer
-publishedDate: "2026-09-07"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-09-07'
+lastUpdated: '2026-09-08'
+image: >-
+  https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVpbGRpbmclMjBDYXJlZXIlMjBhcyUyMFdlYjMlMjBCbG9ja2NoYWluJTIwSW5mcmFzdHJ1Y3R1cmUlMjBFbmdpbmVlciUyMFJvYWRtYXAlMjBTeXN0ZW1zJTIwQXJjaGl0ZWN0dXJlJTIwR2VuZXJhbHxlbnwxfDB8fHwxNzg5MTM3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
 
 Blockchain Infrastructure Engineering is one of the most critical and high-demand disciplines in the Web3 ecosystem. While smart contract developers write decentralized application logic, infrastructure engineers build and maintain the low-level systems that keep decentralized networks online: high-availability RPC node clusters, validator sentry nodes, block indexers, MEV relays, and distributed storage networks.
