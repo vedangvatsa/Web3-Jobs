@@ -337,7 +337,7 @@
   },
   {
     "id": "premier-ebc-2026",
-    "slug": "european",
+    "slug": "ebc",
     "name": "European Blockchain Convention 2026",
     "description": "Europe's institutional blockchain meeting point in Barcelona with 200+ speakers, 10,000+ pre-arranged one-on-one meetings and a startup battle.",
     "startDate": "2026-09-16T09:00:00.000Z",
@@ -347,8 +347,11 @@
     "location": "Barcelona, Spain",
     "url": "https://eblockchainconvention.com",
     "website": "https://eblockchainconvention.com",
-    "coverImage": "https://eblockchainconvention.com/wp-content/uploads/2024/05/Identidad_EBC_AAFF_Extended-768x383.png",
+    "coverImage": "/events/ebc-barcelona-hashtagweb3.jpeg",
     "twitter": null,
+    "partnerOffer": {
+      "text": "European Blockchain Convention in Barcelona is offering our community 15% off with an exclusive code: HASTAGW315"
+    },
     "source": "curated-premier"
   },
   {
@@ -425,10 +428,14 @@
     "city": "Singapore",
     "country": "Singapore",
     "location": "Marina Bay Sands, Singapore",
-    "url": "https://asia.token2049.com",
+    "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3",
     "website": "https://asia.token2049.com",
-    "coverImage": "/events/premier-token2049-singapore-2026-5da86eab.webp",
+    "coverImage": "/events/token2049-singapore-hashtagweb3.jpeg",
     "twitter": null,
+    "partnerOffer": {
+      "text": "Get 10% off your tickets with our exclusive code: HASHTAGWEB3",
+      "url": "https://tickets.token2049.com/token2049-singapore-2026/?promo=HASHTAGWEB3"
+    },
     "source": "curated-premier"
   },
   {

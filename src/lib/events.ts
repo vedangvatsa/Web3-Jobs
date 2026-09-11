@@ -20,6 +20,10 @@ export interface Web3Event {
   twitter?: string | null;
   source?: string;
   slug?: string;
+  partnerOffer?: {
+    text: string;
+    url?: string;
+  };
 }
 
 // Country code to clean name mapping
