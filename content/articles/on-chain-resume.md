@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the traditional job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) serves as a curated document summarizing your achievements and experiences. However, in the transparent environment of [Web3](/what-is-web3), this model evolves into a more dynamic and verifiable credential known as your **on-chain resume**.
 
 An on-chain resume is not merely a document; it represents a public record of your blockchain activities. This record is permanently stored on the [blockchain](/what-is-a-blockchain) and encompasses your transactions, governance votes, contributions to [DAOs](/what-is-a-dao), and the assets held in your crypto [wallet](/how-to-choose-a-crypto-wallet). In a trustless environment, this "proof of work" becomes essential for establishing a reputation and demonstrating your skills and expertise. For professionals in Web3, a well-curated on-chain resume is a key strategy for career advancement.
@@ -37,18 +38,18 @@ Your on-chain resume tells a story through your public wallet address, ideally r
 
 Creating a strong on-chain resume requires intentional actions. It involves curating your public wallet to function as a professional [portfolio](/building-web3-portfolio).**1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.**2. Engage Actively:**
 
-- **-** Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
+- **-** Explore Various Protocols:Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
 
-- **Participate in Governance:** This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
+- Participate in Governance: This is a key indicator of your commitment. Even with a small number of tokens, voting on governance proposals demonstrates that you care about the protocols you use. Platforms like Tally simplify this process.
 
-- **Collect POAPs:** POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.**3. Maintain Separate Wallets:** It's beneficial to have distinct wallets for different purposes:
-- **"Resume" Wallet:** Your public-facing wallet linked to your ENS name should contain high-signal, professional activities.
+- Collect POAPs:**POAPs are NFT badges awarded to attendees of events, whether virtual or in-person. Having a collection of POAPs from significant conferences shows your engagement.**3. Maintain Separate Wallets: It's beneficial to have distinct wallets for different purposes:
+- "Resume" Wallet: Your public-facing wallet linked to your ENS name should contain high-signal, professional activities.
 
-- **"Degen" Wallet:** Use a separate wallet for risky experiments or trading meme coins.
+- "Degen" Wallet: Use a separate wallet for risky experiments or trading meme coins.
 
-- **"Vault":** Store your most valuable assets in a hardware wallet for security.**4. Highlight Your Contributions:**
+- "Vault":**Store your most valuable assets in a hardware wallet for security.**4. Highlight Your Contributions:
 
-- **-** DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
+- -**DAO Bounties:**Completing paid tasks for a DAO creates a public record of your contributions when payments go to your wallet.
 
 - **Gitcoin Grants:** Supporting public goods projects through Gitcoin Grants sends a strong signal about your commitment to the ecosystem's health.
 

@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Brazzaville, the capital of the Republic of the Congo, is building its technological aspirations. The city benefits from a wealth of natural resources and a youthful, urban population. As Brazzaville explores [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) technologies, it aims to modernize and diversify its economy. Although the local tech ecosystem is in its infancy, a community of tech enthusiasts and entrepreneurs is emerging, focusing on decentralized technologies to address issues in finance, logistics, and governance.
 
 The Web3 scene in Brazzaville emphasizes enterprise applications, particularly in natural resource management, while striving to create more inclusive financial systems. Positioned as a key hub in Central Africa and a member of the Francophone community, Brazzaville holds promise as a center for regional Web3 innovation. This guide offers insights into the [Web3 career](/web3-jobs-for-beginners) opportunities in Brazzaville, highlighting growth areas and essential skills for professionals aiming to lead in this evolving market.
@@ -80,9 +81,11 @@ While the formal Web3 job market in Brazzaville remains limited, professionals c
 | Project Manager | Competitive |
 | Supply Chain Specialist | Competitive |
 
-**Living on a Web3 Salary in Brazzaville
 
-**A mid-level developer earning a competitive salary can expect the following living expenses:
+
+### Living on a Web3 Salary in Brazzaville
+
+A mid-level developer earning a competitive salary can expect the following living expenses:
 
 - Comfortable housing: Competitive
 - Living expenses: Competitive

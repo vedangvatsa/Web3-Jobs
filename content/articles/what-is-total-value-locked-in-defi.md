@@ -10,7 +10,7 @@ lastUpdated: "2026-09-08"
 
 Total Value Locked (TVL) is the primary benchmark metric utilized across the cryptocurrency ecosystem to quantify the market size, adoption velocity, capital efficiency, and economic health of Decentralized Finance (DeFi) protocols. Expressed in fiat terms (typically USD), TVL represents the aggregate dollar value of all digital assets currently deposited into a protocol's smart contracts.
 
-Whether locked inside automated market maker (AMM) liquidity pools, collateralized debt position (CDP) vaults, algorithmic lending markets, or liquid staking contracts, TVL measures the total capital under protocol management. 
+Whether locked inside automated market maker (AMM) liquidity pools, collateralized debt position (CDP) vaults, algorithmic lending markets, or liquid staking contracts, TVL measures the total capital under protocol management.
 
 This guide provides a comprehensive technical breakdown of TVL calculation methodologies, multi-chain indexing pipelines, valuation metrics (such as Mcap/TVL), double-counting phenomena, and career opportunities in quantitative DeFi research.
 
@@ -24,7 +24,7 @@ To evaluate TVL accurately, financial analysts must categorize capital based on 
 
 ```
                       DEFI CAPITAL ALLOCATION BY PROTOCOL TYPE
-                      
+
  ┌────────────────────────────────────────────────────────────────────────┐
  │ 4. LIQUID STAKING & RESTAKING  (Lido, Rocket Pool, EigenLayer)         │
  ├────────────────────────────────────────────────────────────────────────┤
@@ -51,7 +51,7 @@ Calculating the TVL of a smart contract protocol requires querying on-chain toke
 
 ```
                   ON-CHAIN TVL INDEXING & CALCULATION FLOW
-                  
+
  ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
  │ Smart Contract  │ ────► │ JSON-RPC Node   │ ────► │ Price Oracles   │
  │ Vault Addresses │       │ (`eth_call` balanceOf) │ (Chainlink/Pyth) │
@@ -107,7 +107,7 @@ One of the most significant complexities in macroeconomic DeFi analytics is the 
 
 ```
                     THE MULTI-LAYER DOUBLE-COUNTING CYCLE
-                    
+
  ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
  │ User Lock ETH   │ ────► │ Lido Issues     │ ────► │ Deposit stETH   │
  │ ($10M in Lido)  │       │ stETH Derivative│       │ ($10M in Aave)  │
@@ -161,7 +161,7 @@ The arrival of EigenLayer and liquid restaking protocols (Renzo, Ether.fi, Kelp 
 
 ```
                     RESTAKING COLLATERAL VELOCITY STACK
-                    
+
  ┌──────────────────┐       ┌──────────────────┐       ┌──────────────────┐
  │ Staked ETH (PoS) │ ────► │ Liquid Staking   │ ────► │ EigenLayer       │
  │ Layer 1 Consensus│       │ Token (e.g. eETH)│       │ Restaking Vault  │
@@ -250,7 +250,7 @@ As institutional capital flows into decentralized finance protocols, demand for 
 
 ```
                            CAREER PROGRESSION ROADMAP
-                           
+
  [Data Engineer / Python Developer]
                    │
                    ▼
@@ -334,6 +334,3 @@ Cross-chain bridge contracts hold some of the largest TVL concentrations in Web3
 Total Value Locked (TVL) is an indispensable benchmark metric for measuring user adoption, protocol scale, and capital deployment across Decentralized Finance. However, calculating and interpreting TVL requires rigorous analytical adjustments to filter out double-counting, mercenary capital, and illiquid token inflation.
 
 Combining TVL analysis with Market Cap ratios, protocol fee yields, and on-chain RPC verification provides quantitative analysts and engineers with a complete toolkit for evaluating Web3 financial protocols and building robust decentralized finance products.
-
-
-

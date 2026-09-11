@@ -8,6 +8,7 @@ data-ai-hint: price impact
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Understanding Price Impact in DEX Trading
 
 Price impact represents the difference between the current market price of an asset and the effective price you pay when executing a trade on a [Decentralized Exchange](/what-is-a-decentralized-exchange-dex) (DEX) employing an Automated Market Maker (AMM). This discrepancy arises because the size of your trade influences the asset's price, particularly in low liquidity environments.
@@ -24,7 +25,7 @@ This article details the nature of price impact, its causes, differences from sl
 ----------------------------|
 
 -----------------------------------------------------------------------------|
-| 
+|
 
 **Definition**| The effect of a trade on the price of an asset within an AMM pool. |
 |
@@ -48,9 +49,11 @@ To fully grasp price impact, one must understand how AMMs function, particularly
 - The formula dictates that the product of the quantities of these tokens remains constant, excluding fees.
 - The price of a token emerges from the ratio of the reserves.
 
-**Example of Trade Impact
 
-**Consider a pool containing 10 ETH and a significant amount of USDC.
+
+### Example of Trade Impact
+
+Consider a pool containing 10 ETH and a significant amount of USDC.
 
 - Current price of ETH = significant amount of USDC / 10.
 

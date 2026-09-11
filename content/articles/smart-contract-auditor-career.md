@@ -8,6 +8,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 slug: smart-contract-auditor-career
 ---
+
 Smart contract auditing represents the most adversarial and high-stakes discipline in decentralized software engineering. In conventional cybersecurity, security assessments evaluate web application boundaries, firewalls, and identity providers to protect private enterprise databases. In Web3 networks governed by the [Ethereum Foundation](https://ethereum.org) and the [Solana Foundation](https://solana.com), smart contracts execute on permissionless distributed networks where contract bytecode is public, transaction execution is irreversible, and contracts frequently manage hundreds of millions of dollars in liquid collateral.
 
 A single arithmetic rounding bug, uninitialized proxy variable, or oracle latency discrepancy allows autonomous arbitrage bots and black-hat exploiters to drain protocol reserves within seconds. According to annual web3 security telemetry published by [Immunefi](https://immunefi.com) and [CertiK](https://certik.com), more than 1.8 billion dollars in digital assets were stolen across decentralized protocols in 2024 and 2025 alone. As a direct consequence, smart contract auditing has evolved from superficial manual code reviews into a multi-layered verification science combining static analysis, invariant property fuzzing, and formal mathematical proofs.
@@ -106,25 +107,6 @@ Querying spot token prices directly from decentralized exchange liquidity pools 
 
 Auditors verify that protocols integrate decentralized oracle networks like [Chainlink Documentation](https://docs.chain.link) or [Pyth Network](https://pyth.network), or compute geometric time-weighted average prices (TWAP) with wide observation windows.
 
-```
-+-------------------------------------------------------------------------+
-|                  Flash Loan Oracle Attack Vector Flow                   |
-+-------------------------------------------------------------------------+
-|  1. Attacker borrows $50M USDC via uncollateralized flash loan          |
-|                                |                                        |
-|                                v                                        |
-|  2. Swaps $50M into DEX pool to artificially distort spot oracle price  |
-|                                |                                        |
-|                                v                                        |
-|  3. Vulnerable protocol reads distorted spot price as true value        |
-|                                |                                        |
-|                                v                                        |
-|  4. Attacker deposits manipulated asset, borrows entire protocol pool   |
-|                                |                                        |
-|                                v                                        |
-|  5. Repays flash loan, exits transaction with millions in stolen profit |
-+-------------------------------------------------------------------------+
-```
 
 ### Upgradeable Proxy Storage Collisions
 
@@ -161,7 +143,7 @@ rule systemSolvencyNeverBreached(method f) {
     f(e, args);
 
 / Post-condition: Reserve balance must always cover liabilities
-    assert getReserveBalance() >= totalBorrows(), 
+    assert getReserveBalance() >= totalBorrows(),
         "Solvency violation: reserves dropped below system borrows";
 }
 ```
@@ -178,9 +160,9 @@ Studying past economic exploits provides auditors with an indispensable mental l
 
 In March 2023, lending protocol Euler Finance suffered a devastating 197-million-dollar drainage. The vulnerability existed in the interaction between liquidations and the newly added `donateToReserves` function.
 
-Euler allowed users to enter a leveraged position by minting debt tokens (dTokens) and deposit tokens (eTokens). When liquidating an underwater account, liquidators received a discount on collateral. The flaw occurred because the `donateToReserves` function did not execute a solvency check (`checkLiquidity`) after a user donated their eTokens. 
+Euler allowed users to enter a leveraged position by minting debt tokens (dTokens) and deposit tokens (eTokens). When liquidating an underwater account, liquidators received a discount on collateral. The flaw occurred because the `donateToReserves` function did not execute a solvency check (`checkLiquidity`) after a user donated their eTokens.
 
-An attacker borrowed millions in DAI via a flash loan from [Aave Governance](https://governance.aave.com), deposited collateral, minted excessive dTokens, and then donated their eTokens to the reserve. This artificially threw their own account into severe insolvency. However, because the donation created a mathematical imbalance where collateral value appeared zero while debt remained massive, the protocol's liquidation calculation awarded the liquidator (controlled by the attacker) an enormous liquidation bonus, draining the entire lending pool. 
+An attacker borrowed millions in DAI via a flash loan from [Aave Governance](https://governance.aave.com), deposited collateral, minted excessive dTokens, and then donated their eTokens to the reserve. This artificially threw their own account into severe insolvency. However, because the donation created a mathematical imbalance where collateral value appeared zero while debt remained massive, the protocol's liquidation calculation awarded the liquidator (controlled by the attacker) an enormous liquidation bonus, draining the entire lending pool.
 
 The lesson for auditors: every state transition that modifies balance ratios must trigger complete health factor checks, even if the action ostensibly appears as a benign voluntary donation.
 

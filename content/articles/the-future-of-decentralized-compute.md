@@ -23,15 +23,6 @@ Decentralized Compute networks, operating within the broader Decentralized Physi
 
 To understand why decentralized compute is acquiring significant market share, one must analyze the systemic vulnerabilities inherent in centralized cloud architectures.
 
-```
-+-------------------------------------------------------------------+
-|               Centralized Cloud vs Decentralized DePIN             |
-+-------------------------------------------------------------------+
-| Centralized: Oligopoly pricing, vendor lock-in, single region failure |
-| Decentralized: Global peer-to-peer auction, 70%+ cost reduction    |
-| Security Model: AWS IAM root admin vs Cryptographic ZK verification|
-+-------------------------------------------------------------------+
-```
 
 ### 1. Single Points of Regional Failure
 
@@ -51,16 +42,6 @@ The explosive rise of generative AI created an acute bottleneck in enterprise GP
 
 A Decentralized Compute network replaces corporate cloud management with a permissionless peer-to-peer protocol consisting of four primary architectural layers.
 
-```
-+-------------------------------------------------------------------+
-|               Decentralized Compute Protocol Layers               |
-+-------------------------------------------------------------------+
-| Layer 1: Hardware Supply (Enterprise Data Centers & Consumer GPUs) |
-| Layer 2: Protocol Matching Engine & Reverse Auction Contracts     |
-| Layer 3: Workload Isolation (Docker, Kubernetes, Confidential VM)  |
-| Layer 4: Verification Engine (zkProof, Fraud Proof, TEE Enclaves) |
-+-------------------------------------------------------------------+
-```
 
 ### Layer 1: Distributed Hardware Supply
 
@@ -85,16 +66,6 @@ To ensure secure execution, workloads are packaged into standardized OCI (Open C
 
 The central technical challenge in decentralized compute is verification: how can a developer be certain that a remote, untrusted GPU provider executed a complex machine learning training job correctly, rather than returning random or fabricated data to collect token rewards?
 
-```
-+-------------------------------------------------------------------+
-|               Verification Mechanisms in DePIN                    |
-+-------------------------------------------------------------------+
-| 1. Zero-Knowledge Proofs (zkSNARKs): Mathematically prove execution|
-| 2. Trusted Execution Environments (TEEs): Hardware-level enclaves |
-| 3. Optimistic Fraud Proofs: Challenge windows with economic bonds |
-| 4. Redundant Sampling: Multi-node cross-verification execution   |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Zero-Knowledge Verifiable Computation (zkSNARKs)
 
@@ -114,16 +85,6 @@ In optimistic verification models, compute nodes stake native tokens as collater
 
 The decentralized compute landscape has matured into specialized sub-sectors catering to distinct computational workloads.
 
-```
-+-------------------------------------------------------------------+
-|               Major Protocols in Decentralized Compute            |
-+-------------------------------------------------------------------+
-| Akash Network: General-purpose cloud compute (Cosmos SDK)         |
-| Render Network: Decentralized 3D rendering & VFX (Solana)        |
-| io.net: Enterprise AI/ML GPU cluster aggregation (Solana)        |
-| BitTensor (TAO): Decentralized intelligence & AI subnetworks     |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Akash Network: The Decentralized Cloud Supermarket
 
@@ -179,16 +140,6 @@ To protect developers from crypto price volatility, modern compute networks impl
 
 As capital flows into decentralized physical infrastructure, demand for specialized engineers, protocol architects, and systems researchers is expanding rapidly.
 
-```
-+-------------------------------------------------------------------+
-|               Decentralized Compute Career Matrix                 |
-+-------------------------------------------------------------------+
-| 1. DePIN Systems & Infrastructure Engineers                       |
-| 2. Zero-Knowledge Prover & Cryptography Researchers               |
-| 3. GPU Cluster & CUDA Optimization Engineers                      |
-| 4. Tokenomics & Quantitative Mechanism Designers                  |
-+-------------------------------------------------------------------+
-```
 
 ### 1. DePIN Systems & Infrastructure Engineers
 

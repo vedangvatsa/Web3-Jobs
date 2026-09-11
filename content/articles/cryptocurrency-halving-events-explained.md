@@ -22,17 +22,6 @@ By decreasing the rate at which newly minted tokens enter circulating supply, ha
 
 The emission schedule of Bitcoin is governed by a deterministic mathematical algorithm embedded directly into core client software repositories like Go-Bitcoin and Bitcoin Core (`bitcoind`).
 
-```
-+------------------------------------------------------------------------+
-|                     Bitcoin Halving Core Parameters                    |
-+------------------------------------------------------------------------+
-| Genesis Block Subsidy     : 50 BTC per block                           |
-| Halving Block Interval    : 210,000 blocks (approx. 4 calendar years)  |
-| Target Block Time         : 10 minutes (600 seconds)                   |
-| Maximum Total Supply Cap  : 20,999,999.97690000 BTC (~21 Million)     |
-| Final Halving Epoch       : Year 2140 (Subsidy drops to 0 satoshis)   |
-+------------------------------------------------------------------------+
-```
 
 ### The C++ Protocol Execution Logic
 
@@ -50,10 +39,10 @@ CAmount GetBlockSubsidy(int nHeight, const Consensus::Params& consensusParams)
         return 0;
 
     CAmount nSubsidy = 50 * COIN;
-    
+
 / Right-shift subsidy by the number of halvings (integer division by 2^halvings)
     nSubsidy >>= halvings;
-    
+
     return nSubsidy;
 }
 ```
@@ -79,17 +68,6 @@ The C++ binary right-shift operator `nSubsidy >>= halvings` performs an exact in
 
 A halving event instantly cuts a mining enterprise's primary revenue stream by 50% overnight. Unless the fiat price of the native cryptocurrency doubles immediately at the halving block, miners experience significant margin compression.
 
-```
-+--------------------------------------------------------------------+
-|                   Miner Revenue & Margin Transition                |
-+--------------------------------------------------------------------+
-| Pre-Halving:  Revenue = (3.125 BTC * Price) + Tx Fees             |
-| Post-Halving: Revenue = (1.5625 BTC * Price) + Tx Fees            |
-|                                                                    |
-| Result: Inefficient miners with electricity costs > revenue shut    |
-|         down ASICs -> Hash rate drops -> Difficulty adjusts down   |
-+--------------------------------------------------------------------+
-```
 
 ### The Hash Rate Capitulation Cycle
 
@@ -105,7 +83,7 @@ The primary economic framework used to analyze halving impact is the **Stock-to-
 
 $$\text{Stock-to-Flow} = \frac{\text{Current Circulating Stock}}{\text{Annual Production Flow}}$$
 
-Prior to the 2024 halving, Bitcoin's circulating stock was approximately 19.7 million BTC, with an annual production flow of 328,500 BTC, yielding a Stock-to-Flow ratio of roughly **60** (similar to physical gold). 
+Prior to the 2024 halving, Bitcoin's circulating stock was approximately 19.7 million BTC, with an annual production flow of 328,500 BTC, yielding a Stock-to-Flow ratio of roughly **60** (similar to physical gold).
 
 Following the April 2024 halving, annual production dropped to 164,250 BTC, pushing Bitcoin's Stock-to-Flow ratio to **120**. This mathematical transition established Bitcoin as the world's rarest liquid financial asset, possessing a monetary inflation rate significantly lower than physical gold (~1.5% to 2.0% per year).
 
@@ -130,17 +108,6 @@ While Bitcoin is the most prominent halving asset, several other Proof-of-Work b
 
 Proof-of-Stake (PoS) blockchains like [Ethereum](/what-is-ethereum), Solana, and Cardano do not utilize traditional mining halving events. Instead, supply emission is regulated dynamically through staking yield parameters and fee-burning mechanics.
 
-```
-+------------------------------------------------------------------------+
-|                Proof-of-Stake Dynamic Supply Equation                  |
-+------------------------------------------------------------------------+
-|                     \Delta Supply = Issuance - Burn                    |
-|                                                                        |
-| Where:                                                                 |
-|   - Issuance : Staking yield paid to active validators                 |
-|   - Burn     : Base transaction fee destroyed via EIP-1559           |
-+------------------------------------------------------------------------+
-```
 
 Under Ethereum's EIP-1559 architecture, during periods of high network activity, the amount of ETH burned via transaction base fees exceeds validator issuance, resulting in net negative token inflation (ultrasound money).
 
@@ -182,16 +149,6 @@ If hash rate drops by 30% following a halving event, blocks slow down temporaril
 
 Halving events force mining pools and industrial data centers to innovate in energy procurement and thermal management.
 
-```
-+--------------------------------------------------------------------+
-|               Halving-Driven Energy Innovations                    |
-+--------------------------------------------------------------------+
-|  1. Stranded Natural Gas Flaring Capture (Modular Container Mining)|
-|  2. Hydroelectric Off-Peak Surplus Energy Utilization              |
-|  3. Immersion Cooling (Overclocking ASIC Efficiency by 25%)       |
-|  4. District Heating & Thermal Heat Reuse Infrastructure           |
-+--------------------------------------------------------------------+
-```
 
 Because electricity costs account for 75% to 90% of operating expenses for mining farms, halvings accelerate the transition toward renewable energy sources. Over 58% of global Bitcoin mining infrastructure operates on sustainable energy, making it one of the cleanest global computing industries.
 
@@ -201,16 +158,6 @@ Because electricity costs account for 75% to 90% of operating expenses for minin
 
 Individual miners rarely operate in isolation. To smooth out high variance in finding blocks, miners pool hash rate together via mining pools operating the **Stratum v2 protocol**.
 
-```
-+--------------------------------------------------------------------+
-|                  Stratum v2 Mining Pool Architecture               |
-+--------------------------------------------------------------------+
-| 1. Industrial Mining ASICs (Worker Nodes)                          |
-| 2. Local Mining Proxy (Aggregates hash rate & reduces bandwidth)  |
-| 3. Mining Pool Server (Validates share proofs & distributes fees)  |
-| 4. Template Provider (Selects transaction mempool blocks)           |
-+--------------------------------------------------------------------+
-```
 
 Stratum v2 introduces binary framing and encrypted communication, reducing bandwidth overhead while empowering individual miners to select their own transaction templates, preventing centralized mining pools from censoring transactions on-chain.
 
@@ -229,17 +176,8 @@ Industrial mining operations manage halving risk using sophisticated financial d
 
 By approximately the year 2140, block subsidy rewards will drop below 1 satoshi per block. At this point, the block reward will effectively reach zero.
 
-To maintain network security after 2140, validator nodes will rely entirely on **transaction fees**. 
+To maintain network security after 2140, validator nodes will rely entirely on **transaction fees**.
 
-```
-+--------------------------------------------------------------------+
-|                  Long-Term Security Budget Pipeline                |
-+--------------------------------------------------------------------+
-|  1. High Layer-1 Transaction Value Settlement                      |
-|  2. Layer-2 (Lightning Network, Arbitrum, Base) Settlement Fees    |
-|  3. MEV (Maximal Extractable Value) Auction Tips                   |
-+--------------------------------------------------------------------+
-```
 
 Layer-1 transactions will function primarily as high-value settlement layers for Layer-2 networks, decentralized exchanges, and institutional custodians, providing sufficient aggregate fee revenue to compensate miners for securing the network.
 
@@ -249,22 +187,6 @@ Layer-1 transactions will function primarily as high-value settlement layers for
 
 On-chain analytics engines evaluate halving market cycles using real-world metrics like MVRV Z-Score, Puell Multiple, and Realized Cap.
 
-```
-+--------------------------------------------------------------------+
-|                   Halving Cycle Telemetry Metrics                  |
-+--------------------------------------------------------------------+
-| Metric                 | Operational Focus                         |
-+------------------------+-------------------------------------------+
-| MVRV Z-Score           | Measures market value relative to         |
-|                        | aggregate realized cost basis             |
-|                        |                                           |
-| Puell Multiple         | Ratios daily issuer revenue to 365-day    |
-|                        | moving average issuing revenue            |
-|                        |                                           |
-| Realized Cap           | Sums unspent outputs at cost basis price  |
-|                        | when last moved on-chain                  |
-+------------------------+-------------------------------------------+
-```
 
 Historically, halving events trigger three distinct structural phases:
 1. **The Pre-Halving Accumulation Phase:** Increased institutional buying in anticipation of supply contraction.
@@ -277,15 +199,6 @@ Historically, halving events trigger three distinct structural phases:
 
 The reduction in token issuance during halving cycles has driven corporate treasuries (e.g., MicroStrategy, Tesla) and spot Bitcoin ETF issuers (BlackRock IBIT, Fidelity FBTC) to integrate halving dynamics into asset allocation models.
 
-```
-+--------------------------------------------------------------------+
-|               Institutional Halving Impact Matrix                  |
-+--------------------------------------------------------------------+
-|  1. Inelastic Supply vs Elastic Demand Curve                       |
-|  2. Corporate Balance Sheet Inflation Hedge Asset                  |
-|  3. Spot ETF Inflow Daily Consumption > Daily Mining Production     |
-+--------------------------------------------------------------------+
-```
 
 When institutional ETF inflows absorb 2,000 BTC per day while post-halving mining production yields only 450 BTC per day, structural supply deficits accelerate market re-pricing.
 
@@ -295,18 +208,6 @@ When institutional ETF inflows absorb 2,000 BTC per day while post-halving minin
 
 The maturation of the mining industry post-halving has created high-paying engineering roles across hardware optimization, energy software, and protocol infrastructure:
 
-```
-+--------------------------------------------------------------------+
-|               Bitcoin Infrastructure Career Specializations        |
-+--------------------------------------------------------------------+
-| Role                           | Primary Focus Area                |
-+--------------------------------+-----------------------------------+
-| ASIC Firmware Engineer (C/C++) | Custom kernel tuning for J/TH     |
-| Substation Electrical Engineer | 100MW+ data center design         |
-| Energy Trading Analyst         | PPA hedging & demand-response     |
-| Lightning Network Developer    | L2 payment channel liquidity      |
-+--------------------------------+-----------------------------------+
-```
 
 Software engineers specializing in Stratum v2 protocols, Rust-based Lightning network daemons (LND / CLN), and ASIC firmware development are heavily recruited by global energy and mining conglomerates.
 
@@ -316,17 +217,6 @@ Software engineers specializing in Stratum v2 protocols, Rust-based Lightning ne
 
 Mining pool operators, exchanges, and node infrastructure providers execute a systematic technical audit ahead of every halving block:
 
-```
-+--------------------------------------------------------------------+
-|                 Halving Node Operator Audit Checklist              |
-+--------------------------------------------------------------------+
-| [ ] Verify Bitcoin Core client software version is up to date       |
-| [ ] Audit mining pool Stratum v2 fallback endpoints                |
-| [ ] Verify ASIC hash rate temperature sensors and immersion fluids |
-| [ ] Re-calibrate RPC node mempool eviction memory bounds           |
-| [ ] Audit automated treasury liquidation API triggers              |
-+--------------------------------------------------------------------+
-```
 
 Executing this audit protocol ensures zero service downtime or node desynchronization during high volatility halving blocks.
 

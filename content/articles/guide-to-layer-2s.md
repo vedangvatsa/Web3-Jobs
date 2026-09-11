@@ -8,6 +8,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 slug: guide-to-layer-2s
 ---
+
 The scalability roadmap of the [Ethereum Foundation](https://ethereum.org) represents one of the most consequential architectural transitions in modern distributed computing. Rather than expanding base-layer block sizes to achieve higher transaction throughput, which would dramatically increase node hardware requirements and centralize validator consensus, the Ethereum research community committed to a rollup-centric scaling paradigm.
 
 Under this architecture, Ethereum mainnet serves as a high-security, decentralized settlement and data availability anchor. User execution, smart contract computation, and high-frequency transactions are offloaded to Layer 2 (L2) rollups. These secondary execution layers process transactions off-chain, compress state updates into cryptographic batches, and submit proofs back to Ethereum, inheriting the base layer consensus finality and economic security.
@@ -19,31 +20,6 @@ Under this architecture, Ethereum mainnet serves as a high-security, decentraliz
 
 The foundational justification for Layer 2 scaling originates in the Blockchain Trilemma, an empirical tradeoff formalized by Vitalik Buterin: a distributed state machine cannot simultaneously maximize decentralization, security, and scalability without architectural decoupling.
 
-```
-+-------------------------------------------------------------------------+
-|                  The Ethereum Scaling Paradigm Shift                    |
-+-------------------------------------------------------------------------+
-| MONOLITHIC SCALING FAILURE MODE:                                        |
-|   Higher L1 TPS ---> Larger Blocks & Shorter Slots                      |
-|                 
-
----> High RAM / Storage IOPS / Bandwidth                |
-|                 
-
----> Consumer nodes priced out                          |
-|                 
-
----> Only corporate datacenters run nodes               |
-|                 
-
----> Censorship vulnerability & state capture           |
-|                                                                         |
-| MODULAR ROLLUP SCALING PARADIGM:                                        |
-|   L1: Keeps blocks small so anyone can run a validator (~15 TPS).       |
-|   L2: High-throughput execution environments process thousands of TPS.  |
-|   Security: L2 state transitions are enforced by L1 smart contracts.    |
-+-------------------------------------------------------------------------+
-```
 
 Ethereum prioritizes decentralization above all else. Today, over one million validators across the globe maintain the Beacon Chain, ensuring that no sovereign nation-state or corporate entity can censor transactions or alter balances. Layer 2 rollups extend this foundational security to millions of users by executing computation outside the base layer while preserving complete cryptographic verifiability.
 
@@ -85,21 +61,6 @@ The proposed state root is finalized on Ethereum through one of two distinct mat
 
 The activation of the Dencun hard fork on Ethereum mainnet marked a pivotal turning point for Layer 2 rollups through the introduction of [EIP-4844](https://eips.ethereum.org/EIPS/eip-4844) (Proto-Danksharding).
 
-```
-+-------------------------------------------------------------------------+
-|                  Calldata vs EIP-4844 Blob Cost Comparison              |
-+-------------------------------------------------------------------------+
-| PRE-DENCUN (Legacy Calldata):                                           |
-|   Rollup Batch ---> Stored permanently in EVM execution state           |
-|   Gas Cost: 16 gas per non-zero byte (competed with L1 DeFi swaps)      |
-|   Typical L2 Tx Fee: $0.20 to $1.50                                     |
-|                                                                         |
-| POST-DENCUN (EIP-4844 Data Blobs):                                      |
-|   Rollup Batch ---> Attached as 128KB temporary blob on Beacon Chain    |
-|   Gas Cost: Independent blob gas fee market (pruned after 18 days)      |
-|   Typical L2 Tx Fee: <$0.01 (Sub-Cent Transactions)                     |
-+-------------------------------------------------------------------------+
-```
 
 ### The Blob Gas Market
 
@@ -123,31 +84,6 @@ The dispute resolution mechanism determines how disagreements between validators
    - Subsequent Rounds: This bisection process continues recursively until the dispute is narrowed down to a single execution instruction (a single WebAssembly or RISC-V opcode).
    - Final Step: The single disputed instruction is executed on Ethereum L1 via the OneStepProver contract. If the challenger proves the sequencer erred, the invalid state root is reverted, the sequencer security deposit is slashed, and the challenger receives a financial bounty.
 
-```
-+-------------------------------------------------------------------------+
-|                  Interactive Bisection Fraud Proof Flow                 |
-+-------------------------------------------------------------------------+
-| Disputed Batch (1,000,000 Steps)                                        |
-|   |
-
----> Bisect to 500,000 steps                                         |
-|         |
-
----> Bisect to 250,000 steps                                   |
-|               |
-
----> Bisect to ... ---> 1 Single Machine Instruction     |
-|                                                |                        |
-|                                                v                        |
-|                             [L1 OneStepProver Contract Executes Opcode] |
-|                                                |                        |
-|                   +----------------------------+--------------------+   |
-|                   |                                                 |   |
-|                   v                                                 v   |
-|         [Assertion Valid]                               [Assertion Fake]|
-|         Challenger Slashed                             Sequencer Slashed|
-+-------------------------------------------------------------------------+
-```
 
 ### The Seven-Day Withdrawal Window
 
@@ -175,25 +111,6 @@ ZK-rollups utilize one of two primary zero-knowledge proof systems:
 
 Building a zero-knowledge virtual machine requires balancing cryptographic prover efficiency against existing Ethereum developer tooling compatibility. Vitalik Buterin formalized this tradeoff into four distinct zkEVM types:
 
-```
-+---------------------------------------------------------------------------------------+
-|                             The zkEVM Classification Spectrum                         |
-+---------------------------------------------------------------------------------------+
-| Category | Description                    | Prover Efficiency | Compatibility         |
-+----------+--------------------------------+-------------------+-----------------------+
-| Type 1   | Fully Ethereum-equivalent      | Slowest (Hours)   | 100% Consensus level  |
-|          | (Taiko)                        | Heavy math circuits| Exact hash functions  |
-+----------+--------------------------------+-------------------+-----------------------+
-| Type 2   | Bytecode-equivalent            | Moderate          | 100% EVM Bytecode     |
-|          | (Scroll, Linea)                | Optimized state   | Supports all Solidity |
-+----------+--------------------------------+-------------------+-----------------------+
-| Type 3   | Almost Bytecode-equivalent     | Faster            | Minor opcode rewrites |
-|          | (Transition Phase)             | Drops edge opcodes| Most dApps work       |
-+----------+--------------------------------+-------------------+-----------------------+
-| Type 4   | High-level language equivalent | Fastest (Minutes) | Source code level     |
-|          | (zkSync Era, Starknet)         | Custom VM math    | Compiles via LLVM/warp|
-+---------------------------------------------------------------------------------------+
-```
 
 - Type 1 zkEVMs (such as [Taiko](https://taiko.xyz)) reproduce Ethereum consensus, execution, and state storage exactly as defined in the [Ethereum Yellow Paper](https://ethereum.github.io/yellowpaper/paper.pdf). They can verify Ethereum mainnet blocks directly, but require immense cryptographic compute power.
 - Type 2 zkEVMs (such as [Scroll](https://scroll.io) and [Linea](https://linea.build)) maintain exact EVM bytecode compatibility, ensuring that every tool, debugger, and smart contract operates identically to L1, while modifying internal data structures to optimize proof generation.
@@ -205,50 +122,6 @@ Not all Layer 2 rollups offer identical security guarantees. In early developmen
 
 To provide transparency, [L2BEAT](https://l2beat.com) established the standard three-tier classification framework:
 
-```
-+-------------------------------------------------------------------------+
-|                  L2BEAT Rollup Decentralization Stages                  |
-+-------------------------------------------------------------------------+
-| STAGE 0: Full Training Wheels                                           |
-|   
-
-- Sequencer operated by single centralized team                       |
-|   
-
-- State updates posted without active proof verification or           |
-|   
-
-- Multisig governance can upgrade code with zero delay                |
-+-------------------------------------------------------------------------+
-| STAGE 1: Limited Governance Override                                    |
-|   
-
-- Active fraud proof or ZK validity proof system running              |
-|   
-
-- Permissionless validation (anyone can submit fraud/validity proofs) |
-|   
-
-- Security Council multisig requires high threshold (e.g. 9-of-12)    |
-|   
-
-- Mandatory delay (at least 7 days) on non-critical code upgrades     |
-|   
-
-- Functioning L1 forced transaction escape hatch                      |
-+-------------------------------------------------------------------------+
-| STAGE 2: Autonomous Cryptographic Rollup                                |
-|   
-
-- Zero administrative override during normal operations               |
-|   
-
-- Security Council can only act in provable cryptographic bugs        |
-|   
-
-- Complete permissionless fraud proofs and canonical exit rights      |
-+-------------------------------------------------------------------------+
-```
 
 Understanding a rollup stage is essential for protocol developers and treasury managers. Depositing hundreds of millions of dollars of collateral into a Stage 0 rollup exposes the protocol to administrative multisig compromise, whereas Stage 1 and Stage 2 rollups provide mathematically enforced property rights.
 
@@ -256,22 +129,6 @@ Understanding a rollup stage is essential for protocol developers and treasury m
 
 The Layer 2 landscape features a rich ecosystem of competing architectures, each optimized for specific performance characteristics:
 
-```
-+----------------------------------------------------------------------------------------+
-|                      Production Layer 2 Platform Comparison                            |
-+----------------------------------------------------------------------------------------+
-| Rollup Name  | Framework / Tech  | Type        | Data Availability | Avg Fee  | TVL     |
-+--------------+-------------------+-------------+-------------------+----------+---------+
-| Arbitrum One | Nitro AVM         | Optimistic  | EIP-4844 Blobs    | <$0.02   | Tier 1  |
-| Base         | OP Stack Bedrock  | Optimistic  | EIP-4844 Blobs    | <$0.01   | Tier 1  |
-| OP Mainnet   | OP Stack Bedrock  | Optimistic  | EIP-4844 Blobs    | <$0.02   | Tier 2  |
-| zkSync Era   | ZK Stack          | ZK (SNARK)  | EIP-4844 Blobs    | <$0.03   | Tier 2  |
-| Starknet     | Cairo / STARK     | ZK (STARK)  | EIP-4844 Blobs    | <$0.02   | Tier 2  |
-| Scroll       | Scroll zkEVM      | ZK (SNARK)  | EIP-4844 Blobs    | <$0.03   | Tier 3  |
-| Linea        | Consensys zkEVM   | ZK (SNARK)  | EIP-4844 Blobs    | <$0.02   | Tier 2  |
-| Taiko        | Type-1 zkEVM      | ZK (SNARK)  | EIP-4844 Blobs    | <$0.04   | Tier 3  |
-+----------------------------------------------------------------------------------------+
-```
 
 ### Leading Rollup Ecosystems
 
@@ -305,9 +162,7 @@ To resolve this challenge, protocol researchers are developing shared sequencing
 
 By decoupling execution from settlement, leveraging EIP-4844 data blobs, and deploying mathematically unforgeable proof systems, Ethereum Layer 2 rollups provide the foundational infrastructure required to scale decentralized applications to hundreds of millions of users worldwide.
 
-## Authoritative Research and Technical Documentation
-
-To inspect production codebases, cryptographic specifications, and live network metrics, review these primary technical references:
+## Further reading
 
 - [Ethereum Official Developer Documentation](https://ethereum.org/en/developers/docs/)
 - [Ethereum Improvement Proposals Repository](https://eips.ethereum.org/)
@@ -315,62 +170,3 @@ To inspect production codebases, cryptographic specifications, and live network 
 - [EIP-1559 Fee Market Proposal](https://eips.ethereum.org/EIPS/eip-1559)
 - [EIP-712 Typed Structured Data Hashing](https://eips.ethereum.org/EIPS/eip-712)
 - [L2BEAT Layer 2 Risk & Transparency Framework](https://l2beat.com/)
-- [Arbitrum Nitro Protocol Technical Specifications](https://developer.arbitrum.io/)
-- [Arbitrum Orbit Framework Documentation](https://docs.arbitrum.io/launch-orbit-chain/orbit-gentle-introduction)
-- [Optimism Bedrock Architecture Specs](https://specs.optimism.io/)
-- [Optimism Superchain Technical Guide](https://optimism.io/)
-- [zkSync Era Technical Documentation](https://docs.zksync.io/)
-- [zkSync ZK Stack and Elastic Chain](https://zkstack.io/)
-- [Starknet Cairo and STARK Architecture](https://docs.starknet.io/)
-- [Scroll zkEVM Technical Architecture](https://scroll.io/blog/architecture)
-- [Linea Zero-Knowledge Rollup Documentation](https://docs.linea.build/)
-- [Taiko Type-1 zkEVM Technical Overview](https://taiko.xyz/docs)
-- [Celestia Modular Data Availability Documentation](https://docs.celestia.org/)
-- [EigenLayer and EigenDA Architecture Docs](https://docs.eigenlayer.xyz/)
-- [Espresso Systems Shared Sequencing Architecture](https://docs.espressosys.com/)
-- [Astria Shared Sequencer Network Specs](https://docs.astria.org/)
-- [Token Terminal Financial Metrics for Crypto Protocols](https://tokenterminal.com/)
-- [Dune Analytics Open Blockchain Query Platform](https://dune.com/)
-- [DefiLlama Layer 2 TVL and Volume Analytics](https://defillama.com/)
-- [Flashbots MEV Research Documentation](https://docs.flashbots.net/)
-- [Across Protocol Cross-Chain Intent Bridge](https://docs.across.to/)
-- [Hop Protocol Rollup Bridge Architecture](https://docs.hop.exchange/)
-- [Stargate Finance Omnichain Liquidity Protocol](https://stargateprotocol.gitbook.io/)
-- [Hyperlane Permissionless Interoperability Framework](https://docs.hyperlane.xyz/)
-- [Chainlink CCIP Cross-Chain Protocol](https://docs.chain.link/ccip)
-- [Chainlink Data Feeds Architecture](https://docs.chain.link/data-feeds)
-- [Pyth Network Real-Time Oracle Documentation](https://docs.pyth.network/)
-- [Uniswap Protocol Architecture and Whitepapers](https://docs.uniswap.org/)
-- [Aave Protocol Technical Specifications](https://docs.aave.com/)
-- [MakerDAO Sky Technical Documentation](https://docs.makerdao.com/)
-- [Curve Finance StableSwap Invariant Specification](https://curve.fi/files/stableswap-paper.pdf)
-- [Compound Finance Protocol Documentation](https://docs.compound.finance/)
-- [OpenZeppelin Contracts Library](https://docs.openzeppelin.com/)
-- [OpenZeppelin Defender Operations Platform](https://www.openzeppelin.com/defender)
-- [Foundry Book Testing and Development Framework](https://book.getfoundry.sh/)
-- [Alchemy Developer Infrastructure Documentation](https://docs.alchemy.com/)
-- [Infura Ethereum API Suite](https://docs.infura.io/)
-- [QuickNode Multi-Chain RPC Infrastructure](https://www.quicknode.com/docs)
-- [Tenderly Web3 Development Cloud](https://tenderly.co/)
-- [Safe Core Protocol Smart Contract Accounts](https://docs.safe.global/)
-- [Viem TypeScript Interface for Ethereum](https://viem.sh/)
-- [Wagmi React Hooks for Web3](https://wagmi.sh/)
-- [The Graph Decentralized Indexing Protocol](https://thegraph.com/docs/)
-- [Goldsky Real-Time Data Streaming for Crypto](https://docs.goldsky.com/)
-- [Etherscan Ethereum Block Explorer](https://etherscan.io/)
-- [Arbiscan Arbitrum Block Explorer](https://arbiscan.io/)
-- [Basescan Base Block Explorer](https://basescan.org/)
-- [Electric Capital Developer Report Research](https://developerreport.com/)
-- [Messari Crypto Research and Industry Reports](https://messari.io/)
-- [Pantera Capital Blockchain Research](https://panteracapital.com/research/)
-- [Paradigm Research and Engineering Publications](https://www.paradigm.xyz/writing)
-- [a16z Crypto Research and Engineering](https://a16zcrypto.com/)
-- [Bankless Research and Protocol Analysis](https://www.bankless.com/)
-- [The Block Research and Market Intelligence](https://www.theblock.co/data)
-- [CoinDesk Research and Market Analysis](https://www.coindesk.com/research/)
-- [Spearbit Web3 Security Network](https://spearbit.com/)
-- [Trail of Bits Security Engineering](https://www.trailofbits.com/)
-- [CertiK Blockchain Security and Auditing](https://www.certik.com/)
-- [Consensys Diligence Smart Contract Audits](https://consensys.net/diligence/)
-- [Code4rena Competitive Audit Contests](https://code4rena.com/)
-- [Sherlock Smart Contract Coverage and Contests](https://www.sherlock.xyz/)

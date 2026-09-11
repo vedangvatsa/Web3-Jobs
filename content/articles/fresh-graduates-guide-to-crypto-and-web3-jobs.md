@@ -9,6 +9,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 As a fresh graduate, you are entering one of the most dynamic job markets in history. The Web3 sector is booming, creating a significant demand for talent to help build the future of the decentralized internet. This industry offers unique opportunities for high impact, accelerated learning, and lucrative financial rewards. However, your approach to securing a role in this space will differ from traditional career paths; it's essential to focus on your passion, demonstrable skills, and tangible contributions instead of relying solely on your academic credentials. This guide outlines a structured roadmap to transition from the classroom to a full-time role in Web3.
 
 ### Web3: A Unique Opportunity for Graduates
@@ -37,26 +38,32 @@ In the Web3 ecosystem, what you have accomplished holds more weight than what ap
 
 Your journey begins with education and immersion in the culture and technology of Web3.
 
-1. **Learn the Fundamentals
+1.
 
-**Understanding the core concepts is essential. Start with these resources:
+### Learn the Fundamentals
+
+Understanding the core concepts is essential. Start with these resources:
  - [What is a Blockchain?](/what-is-a-blockchain)
  - [What is Web3?](/what-is-web3)
  - [What are Smart Contracts?](/what-are-smart-contracts)
  - [What is DeFi?](/what-is-defi)
  - [What are NFTs?](/what-are-nfts)
 
-2. **Become an Active User
+2.
 
-**Engagement with products is non-negotiable. Here are practical steps:
+### Become an Active User
+
+Engagement with products is non-negotiable. Here are practical steps:
  - Create a MetaMask [wallet](/how-to-choose-a-crypto-wallet).
  - Purchase a small amount of [ETH](/what-is-ethereum) and transfer it to your wallet.
  - Execute a swap on a [decentralized exchange](/what-is-a-decentralized-exchange-dex) like Uniswap.
  - Join Discord servers of projects that interest you.
 
-3. **Curate Your Information Sources
+3.
 
-**Twitter (now X) serves as the main platform for Web3 discussions. Create a dedicated account to follow key figures, projects, and researchers. listen to podcasts like Bankless and Unchained to stay updated on industry trends.
+### Curate Your Information Sources
+
+Twitter (now X) serves as the main platform for Web3 discussions. Create a dedicated account to follow key figures, projects, and researchers. listen to podcasts like Bankless and Unchained to stay updated on industry trends.
 
 ### Step 2: Build Your Portfolio of Work
 

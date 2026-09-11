@@ -10,6 +10,7 @@ lastUpdated: '2026-09-08'
 image: >-
   https://images.unsplash.com/photo-1562141989-a764b5668046?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QXNrJTIwU21hcnQlMjBRdWVzdGlvbnMlMjBhcyUyME5ldyUyMEVtcGxveWVlJTIwQ2FyZWVyfGVufDF8MHx8fDE3ODkxMzc1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
+
 ## What asking smart questions means
 
 A smart question is specific, shows what you already tried, and makes it easy for someone to help you. It points to a clear gap, not a general lack of understanding. For new employees, this skill reduces repeat explanations and helps you learn how work gets done.
@@ -157,17 +158,27 @@ Advanced move: turn a question into a contribution. If docs were missing, offer 
 
 ## Common mistakes to avoid
 
-**Asking before reading.
 
-**Wrong: "What does the README say?" Right: read it, then ask to clarify a specific section.** Asking vague questions.
 
-**Wrong: "How does the system work?" Right: "I follow the flow to step 3. I am unclear how the caching layer plugs in. Could you walk through that join?"** Asking with an edge.
+### Asking before reading
 
-**Wrong: "Why would anyone do it this way?" Right: "What advantages does this approach give us given the alternatives?"** Not following up.
+Wrong: "What does the README say?" Right: read it, then ask to clarify a specific section.
 
-**If someone helps, close the loop and note the result.** Interrupting without triage.
+### Asking vague questions
 
-**Do not ping for every thought. Save non-blocking items for the next shared slot.
+Wrong: "How does the system work?" Right: "I follow the flow to step 3. I am unclear how the caching layer plugs in. Could you walk through that join?"
+
+### Asking with an edge
+
+Wrong: "Why would anyone do it this way?" Right: "What advantages does this approach give us given the alternatives?"
+
+### Not following up
+
+If someone helps, close the loop and note the result.
+
+### Interrupting without triage
+
+Do not ping for every thought. Save non-blocking items for the next shared slot.
 
 ## FAQs
 

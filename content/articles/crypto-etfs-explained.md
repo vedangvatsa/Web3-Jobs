@@ -21,16 +21,6 @@ To understand the scope of crypto ETFs, one must evaluate how these vehicles bri
 
 An Exchange-Traded Fund is a pooled investment vehicle traded on public stock exchanges (such as Nasdaq, Cboe BZX, and NYSE Arca) in real time throughout market hours. Unlike mutual funds, which settle only once per day after market close, ETFs trade continuously like individual equities.
 
-```
-+-------------------------------------------------------------------+
-|                  Core Components of an ETF Engine                 |
-+-------------------------------------------------------------------+
-| 1. Net Asset Value (NAV): Total asset value minus liabilities     |
-| 2. Authorized Participants (APs): Market makers managing supply   |
-| 3. Creation / Redemption Baskets: Arbitrage mechanism for price   |
-| 4. Primary Market vs Secondary Market: Wholesale vs Retail trade  |
-+-------------------------------------------------------------------+
-```
 
 ### Key ETF Financial Terms
 
@@ -44,16 +34,6 @@ An Exchange-Traded Fund is a pooled investment vehicle traded on public stock ex
 
 Before the SEC approved spot crypto ETFs, investors were limited to Bitcoin futures ETFs (such as ProShares BITO, approved in October 2021). Understanding the fundamental differences between spot and futures funds is critical for evaluating performance and portfolio tracking efficiency.
 
-```
-+-------------------------------------------------------------------+
-|                    Spot ETF vs Futures ETF                        |
-+-------------------------------------------------------------------+
-| Spot ETF: Holds actual physical BTC/ETH in cold custody vaults   |
-| Futures ETF: Holds CME derivatives contracts expiring monthly     |
-| Tracking Error: Spot has ~0% error; Futures suffers Roll Yield    |
-| Capital Efficiency: Spot reflects 1:1 price; Futures has Contango|
-+-------------------------------------------------------------------+
-```
 
 ### Spot Crypto ETFs
 
@@ -113,16 +93,6 @@ Conversely, if panic selling causes ETF shares to trade at a discount to NAV (su
 
 In traditional equity ETFs (such as Vanguard S&P 500 ETFs), creation and redemption occur "in-kind." APs deliver actual physical stock shares directly to the fund sponsor. However, for spot Bitcoin and Ethereum ETFs, the SEC mandated a Cash Creation and Redemption model due to regulatory broker-dealer constraints.
 
-```
-+-------------------------------------------------------------------+
-|               Cash Creation vs In-Kind Settlement                 |
-+-------------------------------------------------------------------+
-| In-Kind (Standard ETF): AP delivers BTC directly to Custodian    |
-| Cash Model (SEC Mandate): AP delivers USD cash to ETF Issuer      |
-| Execution Responsibility: ETF Issuer executes OTC crypto trades  |
-| Regulatory Goal: Insulate registered broker-dealers from BTC     |
-+-------------------------------------------------------------------+
-```
 
 ### Why the SEC Mandated the Cash Model
 
@@ -138,16 +108,6 @@ Registered U.S. broker-dealers (like Citadel or Goldman Sachs) face strict FINRA
 
 Holding tens of billions of dollars worth of bearer digital assets requires military-grade security infrastructure. The loss or compromise of private keys would result in catastrophic fund losses without recourse.
 
-```
-+-------------------------------------------------------------------+
-|               Institutional Custody Security Layers              |
-+-------------------------------------------------------------------+
-| 1. Segregated Cold Storage (Air-Gapped Hardware Vaults)           |
-| 2. Multi-Signature (Multi-Sig) Key Authorization Schemes          |
-| 3. Hardware Security Modules (HSM) with FIPS 140-2 Level 3        |
-| 4. Geographic Distribution of Geographic Key Shards              |
-+-------------------------------------------------------------------+
-```
 
 ### Cold Storage Vault Infrastructure
 
@@ -163,15 +123,6 @@ Spot crypto ETF issuers rely on qualified custodians like Coinbase Prime, Fideli
 
 The path to U.S. spot Bitcoin ETF approval spanned over a decade, beginning with the Cameron and Tyler Winklevoss filing in July 2013 and culminating in the historical SEC approval on January 10, 2024.
 
-```
-+-------------------------------------------------------------------+
-|               Dual SEC Approval Framework Requirements            |
-+-------------------------------------------------------------------+
-| 1. Form 19b-4 (Exchange Rule Change): Filed by Stock Exchanges    |
-| 2. Form S-1 / N-1A (Registration Statement): Filed by Issuers     |
-| 3. Surveillance-Sharing Agreements (SSA): CME & Spot Markets      |
-+-------------------------------------------------------------------+
-```
 
 ### The Dual Filing Requirement
 
@@ -190,16 +141,6 @@ For years, the SEC rejected spot Bitcoin ETF applications citing concerns over m
 
 Following Bitcoin's approval, the SEC approved spot Ethereum ETFs in May 2024. However, Ethereum spot ETFs introduced a distinct architectural compromise: the exclusion of staking yields.
 
-```
-+-------------------------------------------------------------------+
-|                Ethereum Spot ETF Staking Compromise              |
-+-------------------------------------------------------------------+
-| Native Staking Yield: ~3.5% to 4.5% annual return on ETH          |
-| SEC Directive: Staking functions prohibited inside Spot ETFs       |
-| Regulatory Rationale: Staking programs framed as Investment      |
-| Opportunity Cost: ETF holders forfeit consensus rewards           |
-+-------------------------------------------------------------------+
-```
 
 ### Why Staking Was Stripped from Spot Ethereum ETFs
 
@@ -217,16 +158,6 @@ To secure regulatory clearance, issuers like BlackRock, Fidelity, and Grayscale 
 
 The launch of spot crypto ETFs represents one of the most successful product rollouts in ETF industry history. Within six months of launch, U.S. spot Bitcoin ETFs accumulated over $50 billion in cumulative assets under management (AUM).
 
-```
-+-------------------------------------------------------------------+
-|               Structural Market Shifts Driven by ETFs             |
-+-------------------------------------------------------------------+
-| 1. Access Unlocked for $30+ Trillion RIA Wealth Pool              |
-| 2. Reduction in Volatility via Institutional Arbitrage            |
-| 3. Maturation of Basis Trading (CME Futures vs Spot Arbitrage)    |
-| 4. Structural Supply Squeeze Post Bitcoin Halving Events          |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Unlocking Registered Investment Advisor (RIA) Capital
 

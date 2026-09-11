@@ -9,6 +9,7 @@ data-ai-hint: man singing
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Introduction: The Unexpected Web3 Icon
 
 Snoop Dogg, the legendary rapper and cultural phenomenon, has become one of the most influential figures in the Web3 space. He is not merely a passive investor; he has fully engaged with the world of [NFTs](/what-are-nfts) and the metaverse, launching new projects, constructing virtual spaces, and redefining concepts in the music industry.
@@ -50,7 +51,7 @@ This revelation marked a significant moment for the NFT community. It showcased 
 
 Snoop's strategic vision in Web3 resulted in early 2022 with his acquisition of
 
-**Death Row Records **, the iconic label that launched his career. Shortly after the acquisition, he announced plans to transform Death Row into a major**"NFT record label."**
+**Death Row Records**, the iconic label that launched his career. Shortly after the acquisition, he announced plans to transform Death Row into a major**"NFT record label."**
 
 His vision encompasses:
 
@@ -72,13 +73,13 @@ Snoop Dogg's ventures into NFTs align with broader market trends indicating a st
 -------------------------------|
 
 -------------------------|
-| 2020 | 0.25 | 
+| 2020 | 0.25 |
 
 - |
-| 2021 | 25 | 
+| 2021 | 25 |
 
 - |
-| 2022 | 8.4 | 
+| 2022 | 8.4 |
 
 -66.4 |
 | 2023 (est.) | 10 | 19.05 |

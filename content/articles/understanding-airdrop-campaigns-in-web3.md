@@ -38,42 +38,6 @@ In competitive DeFi markets, protocols employ aggressive token distributions kno
 
 Modern Web3 token distributions rely on scalable, gas-efficient smart contract architectures. Early airdrops attempted to execute thousands of direct transfer transactions (`push` model), resulting in prohibitive network gas expenditures and chain congestion. Contemporary implementations utilize cryptographic data structures to enable a `pull` mechanism where users submit cryptographic proofs to claim allocated tokens.
 
-```
-+-----------------------------------------------------------------------+
-|                       ON-CHAIN EVENT LOGGING                          |
-|  (User interactions, Liquidity provision, Smart contract calls)       |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|                    HISTORICAL BLOCK SNAPSHOT                          |
-|  State of all wallet addresses frozen at block height #N               |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|             OFF-CHAIN DATA PROCESSING & SYBIL FILTERING               |
-|  Graph analysis, IP/cluster tracking, minimum threshold filters       |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|                    MERKLE TREE GENERATION                             |
-|  Leaf = Hash(Address + Token Amount) -> Generate Merkle Root Hash     |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|                    SMART CONTRACT DEPLOYMENT                          |
-|  Merkle Distributor Contract stores Merkle Root Hash                  |
-+-----------------------------------------------------------------------+
-                                   |
-                                   v
-+-----------------------------------------------------------------------+
-|                  USER CLAIM & ON-CHAIN VERIFICATION                   |
-|  User submits Merkle Proof -> Contract verifies & Mints/Transfers     |
-+-----------------------------------------------------------------------+
-```
 
 ### The State Snapshot
 The first phase of an airdrop campaign is the snapshot. At an unannounced historical block height, the protocol indexer freezes its record of the blockchain ledger. Every transaction log, contract event, balance, and interaction up to that exact block is extracted and stored off-chain in analytical databases (such as ClickHouse or BigQuery). Executing the snapshot without prior announcement prevents speculative capital from artificially inflating metrics immediately before evaluation.
@@ -101,24 +65,6 @@ To avoid storing millions of eligible addresses directly in Ethereum state stora
 
 The primary structural threat to any airdrop campaign is a **Sybil attack**. Named after the case study on identity confusion, a Sybil attack occurs when a single entity operates hundreds or thousands of automated, distinct wallet addresses to farm token distributions intended for unique human users.
 
-```
-       +-------------------------------------------------------+
-       |                  SYBIL FARMER ENTITY                  |
-       +-------------------------------------------------------+
-                                   |
-           +-----------------------+-----------------------+
-           |                       |                       |
-           v                       v                       v
-  +------------------+    +------------------+    +------------------+
-  |  Bot Wallet #001 |    |  Bot Wallet #002 |    |  Bot Wallet #N   |
-  +------------------+    +------------------+    +------------------+
-           |                       |                       |
-           v                       v                       v
-  +------------------------------------------------------------------+
-  |                   TARGET PROTOCOL CONTRACTS                      |
-  | (Simulated micro-transactions, automated volume, repetitive swaps) |
-  +------------------------------------------------------------------+
-```
 
 ### Common Sybil Vectors
 Automated scripts can effortlessly create thousands of Ethereum keypairs. Sybil farmers distribute small amounts of ETH across these sub-wallets, executing identical sequence transactions across multiple protocols (e.g., bridging \$10, swapping \$5 on a DEX, interacting with a liquidity pool) to trigger automated qualification heuristics.
@@ -140,26 +86,6 @@ To protect legitimate users and prevent token dilution, data engineers execute r
 
 Airdrops exert significant immediate influence on token price stability, market liquidity, and long-term protocol economics. Failing to model secondary market dynamics often leads to steep sell-offs upon token deployment.
 
-```
-+--------------------------------------------------------------------+
-|                   AIRDROP TOKEN FLOW DYNAMICS                      |
-+--------------------------------------------------------------------+
-                                   |
-         +-------------------------+-------------------------+
-         |                                                   |
-         v                                                   v
-+---------------------------------+                 +---------------------------------+
-|     SPECULATIVE RECIPIENTS      |                 |     LONG-TERM STAKEHOLDERS      |
-|  (Immediate Market Sell-Off)    |                 |  (Governance Staking / Locks)   |
-+---------------------------------+                 +---------------------------------+
-         |                                                   |
-         v                                                   v
-+---------------------------------+                 +---------------------------------+
-| Increase in Liquid Supply       |                 | Protocol TVL Retention          |
-| Price Volatility & Downward     |                 | Active Governance Participation |
-| Pressure                        |                 | Staking Yield & Fee Share       |
-+---------------------------------+                 +---------------------------------+
-```
 
 ### The "Claim and Dump" Phenomenon
 A high percentage of non-vested airdrop tokens are sold on decentralized liquidity pools within 48 hours of claim opening. Speculators seeking quick liquidity divest their holdings, causing initial token price volatility. To mitigate this downward price trajectory, modern protocol architects design advanced tokenomic mechanisms:

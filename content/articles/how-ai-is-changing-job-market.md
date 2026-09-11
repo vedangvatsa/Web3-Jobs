@@ -8,6 +8,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Artificial intelligence has transitioned from a theoretical concept to an influential force reshaping the job market. While sensational headlines often suggest a future dominated by machines, the truth is far more complex. Rather than a complete replacement of human labor, AI is fundamentally altering how work is performed. Certain roles are indeed vanishing, but numerous others are evolving, and entirely new positions are appearing.
 
 This transformation is akin to the shift brought on by the internet decades ago. Companies adapted to having websites and using email; today, organizations are integrating AI into their operations. This shift impacts industries, changing the skills required and the overall nature of work.
@@ -28,7 +29,7 @@ AI is also making strides in creative and sophisticated sectors. Legal professio
 -------------------------------------|
 
 -------------------------------------------------------------------------------------------------------|
-| 
+|
 
 **Automation of Repetitive Tasks**| Roles with routine tasks, such as data processing and quality control, are the first to be automated. |
 |
@@ -50,7 +51,7 @@ AI's influence extends across various sectors, but some are witnessing more rapi
 
 ### The Growing Demand for New Skills
 
-As the job market shifts, so too do the skills employers seek. Success now hinges on the ability to collaborate effectively with intelligent systems. 
+As the job market shifts, so too do the skills employers seek. Success now hinges on the ability to collaborate effectively with intelligent systems.
 
 Employees who can bridge the gap between human expertise and AI capabilities are becoming invaluable. This includes both hard and soft skills.
 

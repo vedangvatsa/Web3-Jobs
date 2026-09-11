@@ -10,6 +10,7 @@ lastUpdated: '2026-09-08'
 image: >-
   https://images.unsplash.com/photo-1621036579377-9760ac8d8c60?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QUklMjBDYXJlZXIlMjBPcHBvcnR1bml0aWVzJTIwU2FsYXJpZXN8ZW58MXwwfHx8MTc4OTEzNzU1NXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
+
 AI work in 2026 is not one job. It is a set of distinct roles with different day-to-day work, skill requirements, and pay.
 
 This guide covers six roles that consistently show verified demand and pay data. For each you get what it is, who it fits, what you actually do, what to learn, what it pays in the United States with sources, and the trade-offs to consider. Figures are for 2024 to 2026 and distinguish base salary from total compensation. Total compensation includes base plus bonus and equity where noted.
@@ -170,9 +171,11 @@ You do not need a doctorate for most of these paths. The common entry pattern is
 
 These two are starting points, not job credentials. Use them to decide if you want a technical or applied track.
 
-**2. Pick a lane.
 
-**Technical lane includes Machine Learning Engineer, Data Scientist, and Safety Researcher. Applied lane includes AI Product Manager, Prompt or LLM Engineer, and AI Consultant. Your lane determines what to study next.** 3. Build the core skills for that lane.**
+
+### 2. Pick a lane
+
+Technical lane includes Machine Learning Engineer, Data Scientist, and Safety Researcher. Applied lane includes AI Product Manager, Prompt or LLM Engineer, and AI Consultant. Your lane determines what to study next.**3. Build the core skills for that lane.**
 
 * For technical roles: Python first, then SQL and statistics, then a machine learning curriculum. The Machine Learning Specialization by DeepLearning.AI and Stanford Online, taught by Andrew Ng on Coursera, is a common choice. It is a three-course, beginner-friendly program that covers supervised learning (linear and logistic regression), neural networks with TensorFlow, decision trees and ensembles, clustering and anomaly detection, and recommender systems, plus best practices for evaluating and tuning models. Official estimate is about 2 to 3 months at 9 to 10 hours per week. Cost is a Coursera subscription at about $49 per month or $399 per year for Coursera Plus, which includes this and other courses. It requires basic Python and high-school math. You write code with NumPy, scikit-learn, and TensorFlow. It is a strong entry signal but not a substitute for portfolio projects if you are switching careers.
 * For applied roles: AI literacy plus hands-on use of current tools. That means practicing with at least one LLM, one image or media tool, and one automation tool (such as chat models, RAG setups, or workflow tools like Zapier or internal automation), and learning to measure results. For product and consulting, add evaluation thinking: write success criteria, build a small test set, and track where the system fails.
@@ -191,13 +194,13 @@ Both types should live where a reviewer can run or read them: GitHub, a short de
 Figures are for the United States and are rounded. BLS figures are base wages from employer payrolls. Levels.fyi and Glassdoor figures include self-reported or verified total pay and skew toward large employers. Use the range that matches the compensation mix you are comparing.
 
 | Job Role | Typical pay range cited for 2025 to 2026 | What the figure includes | Source |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Machine Learning Engineer | Median base $120,224, middle 50 percent $85,654 to $158,891, 90th percentile $199,139. Verified offers at large firms: median total $278,800, middle 50 percent $196,000 to $377,500, 90th $495,000 | BLS is base only. Levels.fyi is total (base plus bonus plus equity) | BLS OEWS May 2025 for SOC 15-2051; Levels.fyi ML Engineer August 2026 |

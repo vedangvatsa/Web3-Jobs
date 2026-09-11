@@ -10,6 +10,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 *Disclaimer: This guide is for informational purposes only and is not financial or tax advice. Consult with a qualified tax professional for advice specific to your situation.*
 
 As cryptocurrency gains mainstream acceptance, tax authorities globally are increasing scrutiny. For many users, understanding tax obligations can be overwhelming. The regulations are complex, and the decentralized nature of cryptocurrencies complicates transaction tracking.
@@ -22,7 +23,7 @@ The IRS classifies cryptocurrency as property rather than currency. This classif
 
 ### What is a "Taxable Event"?
 
-A taxable event occurs whenever you dispose of your cryptocurrency, resulting in either a capital gain or a capital loss. 
+A taxable event occurs whenever you dispose of your cryptocurrency, resulting in either a capital gain or a capital loss.
 
 Common taxable events include:
 - **Selling crypto for fiat currency:** For example, selling [Bitcoin](/what-is-bitcoin) for U.S. Dollars.
@@ -36,14 +37,14 @@ Several actions do not constitute taxable events:
 - **Holding ("HODLing") crypto:** While the value of your assets may increase, you only incur taxes when you sell or trade them (known as unrealized gains).
 - **Donating crypto to a qualified charity.**
 
-- **-** Transferring crypto between your personal wallets.**### Calculating Capital Gains and Losses
+- **-** Transferring crypto between your personal wallets.### Calculating Capital Gains and Losses
 
-To determine your capital gain or loss following a taxable event, use the following formula:**Formula:**`Fair Market Value - Cost Basis = Capital Gain or Loss`
+To determine your capital gain or loss following a taxable event, use the following formula:Formula:`Fair Market Value - Cost Basis = Capital Gain or Loss`
 
-- **Fair Market Value:** The price of the cryptocurrency (in USD) at the time of the transaction.
-- **Cost Basis:** The original price you paid for the cryptocurrency, including any transaction fees.
+- Fair Market Value: The price of the cryptocurrency (in USD) at the time of the transaction.
+- Cost Basis: The original price you paid for the cryptocurrency, including any transaction fees.
 
-**Example:** 1. You purchase 1 ETH for a certain amount (this represents your cost basis).
+Example: 1. You purchase 1 ETH for a certain amount (this represents your cost basis).
 2. A year later, you exchange that 1 ETH for another [token](/what-is-a-token). At the time of the trade, the fair market value of your 1 ETH is higher than your cost basis.
 3. Calculate your capital gain: Higher fair market value - Cost Basis = Capital Gain.
 4. You would owe capital gains tax on the profit.
@@ -51,8 +52,8 @@ To determine your capital gain or loss following a taxable event, use the follow
 ### Short-Term vs. Long-Term Capital Gains
 
 The tax rate you pay is influenced by the duration for which you hold the asset.
-- **Short-Term Capital Gains:** If you hold the cryptocurrency for **one year or less**, the profit is taxed as ordinary income, at your regular income tax rate.
-- **Long-Term Capital Gains:** If you hold the cryptocurrency for **more than one year**, the profit is taxed at a lower long-term capital gains rate (0%, 15%, or 20%, depending on your income level).
+- Short-Term Capital Gains:**If you hold the cryptocurrency for**one year or less, the profit is taxed as ordinary income, at your regular income tax rate.
+- Long-Term Capital Gains:**If you hold the cryptocurrency for**more than one year, the profit is taxed at a lower long-term capital gains rate (0%, 15%, or 20%, depending on your income level).
 
 This structure incentivizes individuals to hold assets for longer than one year.
 
@@ -64,7 +65,7 @@ Engaging in [DeFi](/what-is-defi) activities like [staking](/how-to-become-a-web
 
 Tracking every transaction can be nearly impossible without specialized tools. A range of crypto tax software has emerged to assist with this challenge. These tools connect to your exchange accounts and wallets via API to automatically track your cost basis and generate necessary tax forms.
 
-**Popular Tools:**
+Popular Tools:
 | Tool | Features |
 |
 

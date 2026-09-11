@@ -10,6 +10,7 @@ data-ai-hint: one on one meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Most one-on-ones are bad. Not because managers don't care, but because the meeting defaults to "what are you working on?" - and then 30 minutes disappear into a status rundown that could've been a Slack message. Here's how to fix it.
 
 ## Why Status Update 1:1s Are a Waste
@@ -22,13 +23,19 @@ When 1:1s become status meetings, real problems go underground. Your team starts
 
 Keep it simple. A good 1:1 has three blocks:
 
-**1. Their items (first half).
 
-**The direct report drives the first part of the meeting. They bring what's on their mind - blockers, frustrations, ideas, feedback, career questions. If they consistently show up with nothing, that's a signal. Either they don't trust the meeting, or you haven't coached them on how to use it.** 2. Your items (a few minutes).
 
-**Share context they might not have - upcoming org changes, feedback from stakeholders, or things you've noticed about their work. Keep it targeted. This isn't a performance review; it's a heads-up.** 3. Growth and development (ongoing thread).
+### 1. Their items (first half)
 
-**Not every meeting needs a deep career conversation, but you should revisit it at least monthly. Where do they want to be in a year? What skills are they trying to build? Are they getting opportunities to practice those skills on current projects?
+The direct report drives the first part of the meeting. They bring what's on their mind - blockers, frustrations, ideas, feedback, career questions. If they consistently show up with nothing, that's a signal. Either they don't trust the meeting, or you haven't coached them on how to use it.
+
+### 2. Your items (a few minutes)
+
+Share context they might not have - upcoming org changes, feedback from stakeholders, or things you've noticed about their work. Keep it targeted. This isn't a performance review; it's a heads-up.
+
+### 3. Growth and development (ongoing thread)
+
+Not every meeting needs a deep career conversation, but you should revisit it at least monthly. Where do they want to be in a year? What skills are they trying to build? Are they getting opportunities to practice those skills on current projects?
 
 ## Questions That Actually Open People Up
 
@@ -45,13 +52,19 @@ That last one matters. If you never ask for feedback as a manager, you'll never 
 
 ## How Often and How Long
 
-**Weekly is ideal.
 
-**Every two weeks is the minimum. Monthly 1:1s are too infrequent - by the time you meet, small issues have calcified into big ones.** Thirty minutes is the sweet spot.
 
-**Don't default to an hour. Shorter meetings force focus.** Don't cancel.
+### Weekly is ideal
 
-**Rescheduling is fine. Canceling signals that the person isn't a priority. Do it repeatedly and expect your best people to start job searching.
+Every two weeks is the minimum. Monthly 1:1s are too infrequent - by the time you meet, small issues have calcified into big ones.
+
+### Thirty minutes is the sweet spot
+
+Don't default to an hour. Shorter meetings force focus.
+
+### Don't cancel
+
+Rescheduling is fine. Canceling signals that the person isn't a priority. Do it repeatedly and expect your best people to start job searching.
 
 ## Taking Notes and Following Through
 
@@ -61,9 +74,9 @@ If you committed to something - removing a blocker, giving a stretch assignment,
 
 ## Handling 1:1s in Remote and Web3 Teams
 
-When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.**Async 1:1s are a valid option.
+When you're spread across time zones and might not share a single overlapping work hour, the traditional weekly video call doesn't always work.Async 1:1s are a valid option.
 
-**Use a shared document or thread where your report writes updates, concerns, and questions throughout the week. You respond within 24 hours. Hold a live call biweekly for the conversations that need real-time back-and-forth - career growth, sensitive feedback, conflict resolution.** In DAOs and flat-structure Web3 teams**, the 1:1 dynamic shifts. You might not have a formal manager-report relationship, but regular check-ins between collaborators still matter. If you're a [project lead](/jobs), set up informal 1:1s with core contributors. These conversations catch misalignment early, especially when everyone's pseudonymous and distributed.
+Use a shared document or thread where your report writes updates, concerns, and questions throughout the week. You respond within 24 hours. Hold a live call biweekly for the conversations that need real-time back-and-forth - career growth, sensitive feedback, conflict resolution.**In DAOs and flat-structure Web3 teams**, the 1:1 dynamic shifts. You might not have a formal manager-report relationship, but regular check-ins between collaborators still matter. If you're a [project lead](/jobs), set up informal 1:1s with core contributors. These conversations catch misalignment early, especially when everyone's pseudonymous and distributed.
 
 **Video-off is fine.** Some of the best remote 1:1s happen audio-only. It reduces fatigue and often leads to more honest conversation.
 

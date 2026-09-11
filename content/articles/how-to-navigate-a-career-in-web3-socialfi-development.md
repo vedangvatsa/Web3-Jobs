@@ -22,16 +22,6 @@ Building applications in this space requires a specialized engineering skill set
 
 To build scalable decentralized social networks, engineers must understand the architectural layers that separate Web3 SocialFi systems from legacy Web2 database models.
 
-```
-+-----------------------------------------------------------------------+
-|                    SocialFi System Architecture                       |
-+-----------------------------------------------------------------------+
-| Layer 1: Client UI (Warpcast, Phaver, Hey.xyz, Custom Mobile Apps)    |
-| Layer 2: Open Social Graph Protocols (Farcaster Hubs / Lens V2)       |
-| Layer 3: Off-Chain Data Storage (IPFS, Arweave, P2P Message Hubs)      |
-| Layer 4: On-Chain Settlement & Identity (EVM L2s, Solana, DIDs)       |
-+-----------------------------------------------------------------------+
-```
 
 ### Identity and Handle Registration Layer
 
@@ -58,17 +48,6 @@ SocialFi architectures resolve this scalability challenge through hybrid message
 - **Farcaster Hubs:** Farcaster utilizes a peer-to-peer network of gRPC-connected nodes called Hubs. Users sign social messages (casts, reactions, follows) off-chain using an Ed25519 signer key authorized by their mainnet FID. Hubs validate cryptographic signatures, store state in RocksDB, and sync via a delta-based gossip protocol.
 - **Lens Protocol Momoka:** Lens uses Momoka, an off-chain data availability layer that batches social actions into cryptographic Merkle trees, submitting root hashes to Arweave or Celestia for verifiable storage at fractional costs.
 
-```
-+------------------------------------------------------------------------+
-|                  Off-Chain Message Signer Pipeline                    |
-+------------------------------------------------------------------------+
-| 1. User signs message payload (Cast / Reaction) using Ed25519 keypair  |
-| 2. Client submits binary protobuf payload via gRPC to local Hub        |
-| 3. Hub verifies Ed25519 signature against authorized SignerRegistry   |
-| 4. Hub propagates message to network via libp2p gossip subgraphs       |
-| 5. Message indexed in RocksDB and exposed via REST / gRPC APIs         |
-+------------------------------------------------------------------------+
-```
 
 ---
 
@@ -76,20 +55,6 @@ SocialFi architectures resolve this scalability challenge through hybrid message
 
 The SocialFi domain requires specialized software engineering talent across three distinct disciplines.
 
-```
-+--------------------------------------------------------------------+
-|                   SocialFi Engineering Specializations             |
-+--------------------------------------------------------------------+
-|  1. Smart Contract & Protocol Engineers                            |
-|     - On-chain bonding curves, tipping contracts, ERC-4337 passkeys  |
-|                                                                    |
-|  2. Distributed Systems & P2P Hub Engineers                        |
-|     - Rust/Go hub nodes, RocksDB indexing, gRPC streaming          |
-|                                                                    |
-|  3. Frontend & Client Application Engineers                        |
-|     - Next.js, React Native, Farcaster Frames v2, viem/ethers integration|
-+--------------------------------------------------------------------+
-```
 
 ### Smart Contract & Protocol Engineers
 
@@ -130,20 +95,10 @@ Frontend engineers build user interfaces across mobile and web platforms. Key re
 
 Building a successful SocialFi platform involves overcoming complex computer science and economic engineering hurdles.
 
-```
-+-------------------------------------------------------------------+
-|               SocialFi Technical Engineering Challenges            |
-+-------------------------------------------------------------------+
-|  1. Sybil Attacks & Spam Prevention (Economic Gas / Rent Models)   |
-|  2. Feed Latency vs Decentralized Indexing Performance            |
-|  3. User Experience & Passkey Onboarding (Gasless Signatures)     |
-|  4. Creator Economy Sustainability (Bonding Curve Volatility)     |
-+-------------------------------------------------------------------+
-```
 
 ### Sybil Prevention and Storage Rent Models
 
-Because creating cryptographic wallet addresses costs nothing, free social networks face massive automated spam and Sybil account generation. 
+Because creating cryptographic wallet addresses costs nothing, free social networks face massive automated spam and Sybil account generation.
 
 Farcaster addresses this by implementing an explicit **storage rent model**. Users must pay an annual fee in ETH (processed via the `StorageRegistry` contract) to rent storage units on Hubs. One storage unit allows a user to store up to 5,000 casts, 2,000 reactions, and 2,000 links. This economic barrier makes large-scale automated spam unprofitable for attackers.
 
@@ -175,7 +130,7 @@ import { NextRequest, NextResponse } from 'next/server';
 export async function POST(req: NextRequest) {
   try {
     const body = await req.json();
-    
+
 / Extract trusted data payload signed by user Ed25519 key
     const { untrustedData, trustedData } = body;
     const buttonIndex = untrustedData?.buttonIndex;
@@ -189,8 +144,8 @@ export async function POST(req: NextRequest) {
     }
 
 / Execute business logic based on user interaction
-    const message = buttonIndex === 1 
-      ? `Welcome FID #${userFid}! Option A confirmed for cast ${castId.hash.slice(0, 8)}.` 
+    const message = buttonIndex === 1
+      ? `Welcome FID #${userFid}! Option A confirmed for cast ${castId.hash.slice(0, 8)}.`
       : `FID #${userFid} selected Option B.`;
 
 / Return updated Frame HTML metadata
@@ -261,23 +216,6 @@ Lens Protocol enables creators to attach custom "Collect Modules" to individual 
 
 Decentralized social networks introduce novel security vulnerabilities that software engineers must explicitly audit and defend against.
 
-```
-+--------------------------------------------------------------------+
-|                   SocialFi Security Risk Matrix                    |
-+--------------------------------------------------------------------+
-| Risk Vector            | Vulnerability Impact | Mitigation Strategy|
-+------------------------+----------------------+--------------------+
-| Key Delegation Abuse   | Unauthorized signer  | Expiration limits  |
-|                        | key post broadcasting| & key revocation   |
-|                        |                      |                    |
-| Front-Running Attacks  | MEV bots sniping key | Commit-reveal      |
-|                        | buys on bonding curve| schemes / Private  |
-|                        |                      | RPC endpoints      |
-|                        |                      |                    |
-| Content Censorship     | Off-chain hub nodes  | Multi-hub gossip   |
-|                        | dropping posts       | consensus audits   |
-+------------------------+----------------------+--------------------+
-```
 
 ### Managing Delegated Signer Keys
 
@@ -293,18 +231,6 @@ On-chain bonding curve key purchases are susceptible to Maximum Extractable Valu
 
 The demand for specialized SocialFi engineers has surged as decentralized social networks gain mainstream traction across global Web3 hubs.
 
-```
-+--------------------------------------------------------------------+
-|               SocialFi Compensation & Equity Tier                  |
-+--------------------------------------------------------------------+
-| Role                           | Salary Range (USD)  | Token Equity|
-+--------------------------------+---------------------+-------------+
-| Senior Protocol Engineer (Rust)| $170,000 - $240,000 | 0.25% - 0.75%|
-| Smart Contract Audit Engineer  | $160,000 - $220,000 | 0.20% - 0.50%|
-| Full-Stack SocialFi Developer  | $140,000 - $190,000 | 0.15% - 0.40%|
-| Indexer & Infrastructure Dev   | $150,000 - $210,000 | 0.20% - 0.50%|
-+--------------------------------+---------------------+-------------+
-```
 
 ---
 
@@ -312,16 +238,6 @@ The demand for specialized SocialFi engineers has surged as decentralized social
 
 To land high-paying roles as a SocialFi software engineer or protocol builder, follow this structured execution plan.
 
-```
-+-------------------------------------------------------------------+
-|               SocialFi Developer Execution Roadmap                |
-+-------------------------------------------------------------------+
-| Step 1: Master Decentralized Identity (DIDs, ENS, Farcaster FIDs) |
-| Step 2: Build a Custom Social Client using Neynar & Lens APIs     |
-| Step 3: Develop Interactive Frames & Open Actions                 |
-| Step 4: Contribute to Open-Source Hub Node Repositories           |
-+-------------------------------------------------------------------+
-```
 
 ### Step 1: Master the Core Protocols as an Active Power User
 

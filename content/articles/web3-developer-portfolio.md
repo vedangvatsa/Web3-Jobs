@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the [Web3](/what-is-web3) job market, your [resume](/how-to-build-a-web3-resume-that-stands-out) is secondary, while your LinkedIn profile holds little significance. The most critical asset in your job search as a developer is your [portfolio](/building-web3-portfolio), particularly your GitHub profile. Hiring managers and technical recruiters seek concrete evidence of your skills, including your ability to write clean, secure [Solidity](/best-programming-languages-for-blockchain-development) code and create intuitive frontends that interact effectively with the [blockchain](/what-is-a-blockchain). They also want to see a genuine enthusiasm for the technology that extends beyond professional obligations.
 
 A thoughtfully constructed portfolio of personal projects serves as the primary indicator of your capabilities. This guide presents a clear, step-by-step roadmap for [building a Web3 portfolio](/building-web3-portfolio) that captures attention and secures interviews. We will address the essential projects every aspiring blockchain developer should undertake, ranging from basic [smart contracts](/what-are-smart-contracts) to a fully functioning dApp.
@@ -57,15 +58,15 @@ Follow this structured progression to enhance your skills while building your po
 - **Significance:** This capstone project distinguishes you from other junior developers, demonstrating your capability to manage more complex logic.
 - **Project Ideas:**
 
-- **-** On-Chain Voting/DAO System:**Users stake your ERC-20 token to vote on proposals.
- - **Crowdfunding/Kickstarter dApp:** Users create campaigns, and others contribute ETH. Funds are released only to the creator if a goal is met by a specified deadline.
- - **Basic Dutch Auction Contract:** An auction where the price of an NFT begins high and decreases over time until purchased.
+- **-** On-Chain Voting/DAO System:Users stake your ERC-20 token to vote on proposals.
+ - Crowdfunding/Kickstarter dApp: Users create campaigns, and others contribute ETH. Funds are released only to the creator if a goal is met by a specified deadline.
+ - Basic Dutch Auction Contract: An auction where the price of an NFT begins high and decreases over time until purchased.
 
 #### Project 5: Open-Source Contribution
 
-- **Description:** A significant contribution to an established, reputable open-source Web3 project.
-- **Significance:** This action serves as one of the strongest indicators of your capabilities to potential employers. It shows that you can comprehend and manage a large, professional codebase, collaborate with fellow developers, and follow formal contribution processes, such as submitting a pull request.
-- **How to Start:**
+- Description: A significant contribution to an established, reputable open-source Web3 project.
+- Significance: This action serves as one of the strongest indicators of your capabilities to potential employers. It shows that you can comprehend and manage a large, professional codebase, collaborate with fellow developers, and follow formal contribution processes, such as submitting a pull request.
+- How to Start:
  - Identify a project you respect on GitHub.
  - Search for issues labeled "good first issue" or "help wanted."
  - Begin with smaller contributions, such as fixing typos in documentation or adding missing test cases.

@@ -9,6 +9,7 @@ data-ai-hint: web3 challenges
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Web3 has existed for over a decade, with [Bitcoin](/what-is-bitcoin) launching in 2009 and [Ethereum](/what-is-ethereum) going live in 2015. Despite this timeline, Web3 remains a niche sector. Current estimates suggest that hundreds of millions of people use Web3 technologies globally, which pales in comparison to the billions using traditional internet platforms.
 
 This slow adoption frustrates many builders in the Web3 space. If Web3 offers superior, decentralized solutions, why hasn't it supplanted traditional systems? The answer lies in multiple barriers that hinder rapid adoption. Understanding these challenges is essential for anyone working in or contemplating a career in Web3.
@@ -75,7 +76,7 @@ Despite significant investments in development, Web3 lacks substantial use cases
 
 **Supply chain transparency** represents another potential use case. Blockchains could track products from manufacture to consumer, but public blockchains expose sensitive information. Many supply chains require privacy, while permissioned blockchains eliminate decentralization benefits.
 
-**Identities ** and credentials offer another speculative use case. Blockchain-based IDs could provide financial access to unbanked individuals. However, relying on a technology as nascent and risky as blockchain for critical identity infrastructure is unwise compared to traditional methods with far greater operational maturity.**[NFTs](/what-are-nfts)** for art and collectibles have gained some traction, primarily as speculative assets. Few users use NFTs for their intended benefits, which undermines the technology's reputation.
+**Identities** and credentials offer another speculative use case. Blockchain-based IDs could provide financial access to unbanked individuals. However, relying on a technology as nascent and risky as blockchain for critical identity infrastructure is unwise compared to traditional methods with far greater operational maturity.**[NFTs](/what-are-nfts)** for art and collectibles have gained some traction, primarily as speculative assets. Few users use NFTs for their intended benefits, which undermines the technology's reputation.
 
 The absence of compelling use cases means that most individuals do not perceive clear benefits from Web3. Without evident advantages, adoption remains sluggish.
 
@@ -83,7 +84,7 @@ The absence of compelling use cases means that most individuals do not perceive 
 
 Web3 projects often create economic incentives that do not align with user benefits.
 
-**Token speculation ** builds bubble dynamics. Early projects may promise decentralization while focusing primarily on token appreciation. Investors often purchase tokens with the hope of value inflation. Once a project meets its token price goals, development frequently slows, resulting in cycles of hype and disappointment.**[Yield farming](/what-is-yield-farming)** attracts mercenary capital. Protocols offer extremely high interest rates to entice liquidity, but as soon as yields drop, capital departs. This creates a false perception of liquidity and value for DeFi protocols.
+**Token speculation** builds bubble dynamics. Early projects may promise decentralization while focusing primarily on token appreciation. Investors often purchase tokens with the hope of value inflation. Once a project meets its token price goals, development frequently slows, resulting in cycles of hype and disappointment.**[Yield farming](/what-is-yield-farming)** attracts mercenary capital. Protocols offer extremely high interest rates to entice liquidity, but as soon as yields drop, capital departs. This creates a false perception of liquidity and value for DeFi protocols.
 
 **Network effects** favor established players while hindering newcomers. New blockchains or cryptocurrencies struggle to gain traction against better-established alternatives. For most practical applications, Bitcoin and Ethereum suffice, making it challenging for new protocols to compete.
 

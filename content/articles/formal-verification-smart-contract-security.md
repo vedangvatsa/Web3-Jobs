@@ -9,6 +9,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the high-stakes environment of [smart contract](/what-are-smart-contracts) development, traditional testing methods such as unit tests and fuzzing are important but insufficient. Testing can demonstrate the presence of bugs but cannot guarantee their absence. For protocols securing substantial value, a higher standard of assurance is essential. This is where formal verification plays a critical role.
 
 Formal verification employs rigorous mathematical methods to prove or disprove the correctness of a system concerning a specific formal specification. It provides a mathematical foundation to ensure that the code performs as intended, without deviation.
@@ -32,7 +33,7 @@ Formal verification uses mathematical logic to assert properties about code. Unl
 ----------------------------------------------|
 
 --------------------------------------------------------------|
-| 
+|
 
 **Traditional Testing**| Runs specific test cases to check code | Cannot test every possible input or edge case |
 |

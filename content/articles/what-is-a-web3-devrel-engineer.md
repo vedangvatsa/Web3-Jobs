@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the competitive field of [Web3](/what-is-web3), attracting and retaining a strong ecosystem of third-party developers is essential for a protocol's success. When developers build on a platform, the network expands. Conversely, if they encounter challenges or confusion, they may choose alternative platforms. This reality has led to the emergence of an important role in Web3: the **Developer Relations Engineer**, commonly referred to as
 
 **DevRel**.
@@ -30,14 +31,14 @@ The daily responsibilities of a DevRel engineer are diverse and complex. They ac
 
 **Community Engagement:**
 
-- **-** Developer Support:**Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
- - **Event Presence:** Participating in hackathons and conferences, leading workshops, and judging projects. They act as the public representative of the protocol within the developer community.
+- **-** Developer Support:Assisting developers with technical inquiries on platforms such as Discord, Telegram, and forums like Stack Overflow. They serve as the first point of contact for developers facing challenges.
+ - Event Presence: Participating in hackathons and conferences, leading workshops, and judging projects. They act as the public representative of the protocol within the developer community.
 
 3.
 
-**Product Feedback:**
+Product Feedback:
 
-- **-** Voice of the Developer:**DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
+- -**Voice of the Developer:**DevRel engineers create a vital feedback loop between the external developer community and internal product and engineering teams.
  - **Enhancing the Developer Experience (DX):** They identify pain points and advocate for enhancements to the protocol's APIs, SDKs, and documentation.
 
 ### Skills Essential for DevRel

@@ -8,6 +8,7 @@ data-ai-hint: man technology
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Jack Dorsey: The Bitcoin Evangelist and Web3 Skeptic
 
 Jack Dorsey, co-founder of Twitter and founder of Block (formerly Square), stands as a significant advocate for decentralization, but his views often diverge from mainstream Silicon Valley thinking. While many in the tech sector endorse the expansive ecosystem of [Web3](/what-is-web3), including [Ethereum](/what-is-ethereum), [NFTs](/what-are-nfts), and [DeFi](/what-is-defi), Dorsey firmly aligns himself as a [Bitcoin](/what-is-bitcoin) maximalist. He asserts that Bitcoin is the sole viable internet-native currency, criticizing current Web3 developments as distractions controlled by venture capitalists.
@@ -28,7 +29,7 @@ The main components of Web5 are:
 -----------------------------------|
 
 -------------------------------------------------------------------------------------------------|
-| 
+|
 
 **Decentralized Identifiers (DIDs)**| Self-owned digital identities independent from corporations or third parties. |
 |

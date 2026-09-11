@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the dynamic world of [Web3](/what-is-web3), mastering the art of cold outreach can significantly impact your career. A well-crafted message can open doors to founders, investors, or hiring managers. Unfortunately, many cold outreach attempts fail due to generic content and a self-serving tone.
 
 Success in cold outreach requires a shift in mindset. Instead of focusing on what you want, emphasize what you can offer. Your message should provide value from the outset, showcasing your insights and passion, making the recipient eager to respond. This guide outlines a practical approach for crafting messages that elicit replies.
@@ -29,21 +30,27 @@ Your objective is to prompt the recipient to think, "This person has valuable in
 
 Imagine you are a product manager aiming to join a [DeFi](/what-is-defi) protocol named "AcmeFi." Follow these steps for a successful cold outreach.
 
-**Step 1: Conduct Thorough Research
 
-**Invest at least an hour to understand both the individual and the project. Your research should include:
+
+### Step 1: Conduct Thorough Research
+
+Invest at least an hour to understand both the individual and the project. Your research should include:
 
 - Using their product extensively to gain first-hand experience.
 - Reading their latest blog posts and listening to relevant podcasts.
 - Reviewing their protocol's documentation for technical details.
-- Analyzing their competitors to identify potential gaps or opportunities.**Step 2: Identify a Specific Insight
+- Analyzing their competitors to identify potential gaps or opportunities.
 
-**From your research, pinpoint one insightful suggestion that demonstrates a deep understanding of their challenges. Avoid generic compliments.
+### Step 2: Identify a Specific Insight
+
+From your research, pinpoint one insightful suggestion that demonstrates a deep understanding of their challenges. Avoid generic compliments.
 
 - **Ineffective Example:**"Your UX is great!"
-- **Effective Example:**"I observed that your new [staking](/how-to-become-a-web3-staking-specialist) flow requires users to sign two separate transactions. Implementing a multicall pattern could simplify this into a single signature, enhancing user experience and potentially lowering drop-off rates."** Step 3: Craft Your Message
+- **Effective Example:**"I observed that your new [staking](/how-to-become-a-web3-staking-specialist) flow requires users to sign two separate transactions. Implementing a multicall pattern could simplify this into a single signature, enhancing user experience and potentially lowering drop-off rates."
 
-**Use the following structure for your outreach message:
+### Step 3: Craft Your Message
+
+Use the following structure for your outreach message:
 
 1. **Opening:** A concise compliment that shows you've done your homework.
 2.
@@ -53,7 +60,7 @@ Imagine you are a product manager aiming to join a [DeFi](/what-is-defi) protoco
 
 **The "Soft Ask":** A low-pressure, open-ended question that invites dialogue.
 
-**Example of an Effective Cold DM **>** Subject:**Quick thought on AcmeFi staking flow
+**Example of an Effective Cold DM**>**Subject:**Quick thought on AcmeFi staking flow
 >
 > Hi [Founder's Name],
 >
@@ -63,8 +70,8 @@ Imagine you are a product manager aiming to join a [DeFi](/what-is-defi) protoco
 >
 > Feel free to respond at your convenience; I simply wanted to share this thought. Keep up the excellent work.
 >
-> Best, 
-> [Your Name] 
+> Best,
+> [Your Name]
 > [Link to your Twitter/Portfolio]
 
 ### Why This Approach Works

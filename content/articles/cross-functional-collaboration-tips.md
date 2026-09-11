@@ -10,6 +10,7 @@ data-ai-hint: team collaboration meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In today's interconnected work environment, challenges and opportunities often transcend departmental boundaries. Delivering an exceptional product requires collaboration among engineering, product, design, marketing, and sales teams. Addressing a complex customer issue may engage support, finance, and legal departments.
 
 Cross-functional collaboration involves diverse teams working together toward a common goal. When successful, it encourages new solutions, accelerates execution, and creates a complete understanding of the business.
@@ -53,7 +54,7 @@ The project charter should be a living document encompassing:
 
 ### 3. Speak a Common Language
 
-Different departments often use unique jargon, which can lead to misunderstandings. 
+Different departments often use unique jargon, which can lead to misunderstandings.
 
 * **Create a Project Glossary:** Start a shared document that defines essential terms. For example, clarify what "activation" means or provide the technical definition of a "daily active user."
 * **Encourage Questions:** The DRI should promote an environment where team members feel safe asking basic questions. It's preferable to ask for clarification than to operate based on assumptions.

@@ -13,6 +13,7 @@ tags:
   - Web3 Development
   - Smart Contracts
 ---
+
 # Indexing Blockchain Data with The Graph
 
 Modern web applications rely upon relational databases, document stores, and search indexes to serve responsive user interfaces. When a user navigates to an e-commerce platform or social media dashboard, backend systems query indexed PostgreSQL, Redis, or Elasticsearch clusters, returning user profiles, transaction histories, and real-time feeds in tens of milliseconds.
@@ -21,32 +22,8 @@ In public blockchain architectures, this relational data tier is completely abse
 
 Attempting to answer a standard consumer web query, such as "Show all active liquidity positions held by Alice across [Uniswap v3](https://uniswap.org), along with her historical trading volume and total fees earned over the past 30 days", using native JSON-RPC calls (`eth_call` and `eth_getLogs`) is technically impractical. An application would need to iterate through millions of historical blocks, make thousands of rate-limited network calls, unpack raw hex calldata, and reconstruct protocol state client-side in the user web browser.
 
-**The Graph Protocol ** resolves this fundamental data barrier. Designed as an open-source decentralized indexing and query protocol, The Graph allows software engineers to build and deploy open APIs called ** Subgraphs**. Subgraphs read event logs directly from blockchain execution nodes, process that data through WebAssembly mapping functions, store relational entities in high-performance databases, and expose deterministic [GraphQL](https://graphql.org) endpoints to frontend applications. This masterclass provides an exhaustive architectural and implementation guide to building, testing, optimizing, and deploying subgraphs on The Graph decentralized network.
+**The Graph Protocol** resolves this fundamental data barrier. Designed as an open-source decentralized indexing and query protocol, The Graph allows software engineers to build and deploy open APIs called **Subgraphs**. Subgraphs read event logs directly from blockchain execution nodes, process that data through WebAssembly mapping functions, store relational entities in high-performance databases, and expose deterministic [GraphQL](https://graphql.org) endpoints to frontend applications. This masterclass provides an exhaustive architectural and implementation guide to building, testing, optimizing, and deploying subgraphs on The Graph decentralized network.
 
-```
-+-----------------------------------------------------------------------------------+
-|                        THE BLOCKCHAIN DATA PIPELINE GAP                           |
-+-----------------------------------------------------------------------------------+
-|  Raw Blockchain Layer (Sequential & Unindexed)                                    |
-|  [Block 19,000,001] -> [Block 19,000,002] -> ... -> [Block 19,000,500]           |
-|  
-
-- Data locked in raw hexadecimal transaction receipts and event logs             |
-|  
-
-- JSON-RPC nodes rate-limit complex range queries (`eth_getLogs`)                |
-|                                                                                   |
-|  ============================== THE SOLUTION ==================================  |
-|            THE GRAPH DECENTRALIZED INDEXING ENGINE (GRAPH NODE)                   |
-|  1. Ingestion: Streams raw RPC / Firehose block logs                              |
-|  2. Mapping: Executes AssemblyScript handlers inside WebAssembly (WASM) sandbox  |
-|  3. Entity Store: Writes structured relational data to PostgreSQL                 |
-|  4. Query Interface: Serves sub-millisecond GraphQL queries to frontend dApps    |
-|                                                                                   |
-|  ============================= THE FRONTEND ===================================  |
-|  Frontend Applications: Uniswap, Aave, Synthetix, [OpenSea Marketplace](https://opensea.io), and Balancer               |
-+-----------------------------------------------------------------------------------+
-```
 
 ---
 
@@ -54,33 +31,18 @@ Attempting to answer a standard consumer web query, such as "Show all active liq
 
 To understand why dedicated indexing middleware is mandatory for decentralized application engineering, one must evaluate the operational constraints of standard blockchain full nodes:
 
-```
-+---------------------------------------------------------------------------------+
-|                       DIRECT RPC VS INDEXED SUBGRAPH QUERIES                    |
-+-----------------------+-----------------------------+---------------------------+
-| Query Dimension       | Direct JSON-RPC Node        | The Graph Subgraph        |
-+-----------------------+-----------------------------+---------------------------+
-| Query Paradigm        | Sequential block scan       | Relational GraphQL schema |
-| Network Latency       | 15 - 45 seconds (multi-call)| 20 - 80 milliseconds      |
-| Computation Location  | Client browser JavaScript   | Server-side PostgreSQL    |
-| Historical Aggregation| Manual state reconstruction | Automated precomputed     |
-| (Volume, OHLCV)       | across block loops          | entity accumulators       |
-| Chain Reorganizations | Client state breaks or      | Deterministic automated   |
-| (Reorgs)              | displays ghost balances     | rollback handling in node |
-+-----------------------+-----------------------------+---------------------------+
-```
 
 ### 1. The Cost of Primitive RPC Range Queries
 
-When an application queries historical data via an Ethereum JSON-RPC client like [Geth](https://geth.ethereum.org), [Erigon](https://github.com/ledgerwatch/erigon), or [Reth](https://github.com/paradigmxyz/reth), the node must search the transaction receipt bloom filters for every single block in the requested range. 
+When an application queries historical data via an Ethereum JSON-RPC client like [Geth](https://geth.ethereum.org), [Erigon](https://github.com/ledgerwatch/erigon), or [Reth](https://github.com/paradigmxyz/reth), the node must search the transaction receipt bloom filters for every single block in the requested range.
 
-If an application requests logs across a 500,000-block window (approximately 70 days on Ethereum mainnet), commercial infrastructure providers like [Infura](https://www.infura.io) and [Alchemy](https://www.alchemy.com) will reject the request with a timeout or payload-size-exceeded error (`query returned more than 10000 results`). 
+If an application requests logs across a 500,000-block window (approximately 70 days on Ethereum mainnet), commercial infrastructure providers like [Infura](https://www.infura.io) and [Alchemy](https://www.alchemy.com) will reject the request with a timeout or payload-size-exceeded error (`query returned more than 10000 results`).
 
 ### 2. The Chain Reorganization Vulnerability
 
-Blockchains frequently experience short-lived forks known as **chain reorganizations (reorgs)**. During a reorg, blocks that were temporarily accepted at height $N$ are replaced by a longer, competing chain branch. 
+Blockchains frequently experience short-lived forks known as **chain reorganizations (reorgs)**. During a reorg, blocks that were temporarily accepted at height $N$ are replaced by a longer, competing chain branch.
 
-If a client-side frontend naively processes an event log from a block that is subsequently orphaned, the user interface will display corrupted balances or confirmed trades that never legally occurred on the canonical ledger. 
+If a client-side frontend naively processes an event log from a block that is subsequently orphaned, the user interface will display corrupted balances or confirmed trades that never legally occurred on the canonical ledger.
 
 Graph Node resolves this by tracking block confirmations and maintaining internal undo logs. If an execution client detects a reorg, Graph Node automatically rolls back entity mutations in PostgreSQL to the common ancestor block, replaying only the canonical branch events.
 
@@ -90,29 +52,6 @@ Graph Node resolves this by tracking block confirmations and maintaining interna
 
 A subgraph is composed of three interconnected files that define what data to extract, how to structure it, and how to transform it:
 
-```
-+---------------------------------------------------------------------------------+
-|                            ANATOMY OF A SUBGRAPH                                |
-+---------------------------------------------------------------------------------+
-|  1. Subgraph Manifest (subgraph.yaml):                                          |
-|     
-
-- Declares data sources, target network, smart contract address, ABI,       |
-|       start block height, and event-to-handler function mappings.               |
-|                                                                                 |
-|  2. GraphQL Schema (schema.graphql):                                            |
-|     
-
-- Defines the data entities, field types (BigInt, BigDecimal, Bytes,        |
-|       String), entity relationships (@derivedFrom), and search directives.      |
-|                                                                                 |
-|  3. AssemblyScript Mappings (src/mapping.ts):                                   |
-|     
-
-- High-performance, strictly typed TypeScript-like code compiled to        |
-|       WebAssembly (WASM). Unpacks event parameters and saves entity records.    |
-+---------------------------------------------------------------------------------+
-```
 
 ### 1. The Subgraph Manifest (`subgraph.yaml`)
 
@@ -233,18 +172,6 @@ export function handleSwap(event: SwapEvent): void {
 
 To understand the complete development lifecycle, follow this step-by-step tutorial building a production-grade subgraph using [Graph CLI](https://github.com/graphprotocol/graph-tooling).
 
-```
-+---------------------------------------------------------------------------------+
-|                       SUBGRAPH DEVELOPMENT WORKFLOW                             |
-+---------------------------------------------------------------------------------+
-| 1. Initialize Project: npx @graphprotocol/graph-cli init                        |
-| 2. Define Entities: Edit schema.graphql with relational models                  |
-| 3. Generate Code: graph codegen (Generates type-safe AssemblyScript models)     |
-| 4. Implement Mappings: Write business transformation logic in src/mapping.ts   |
-| 5. Compile WASM: graph build                                                    |
-| 6. Deploy to Studio: graph deploy --studio my-subgraph                           |
-+---------------------------------------------------------------------------------+
-```
 
 ### Step 1: Initialize the Project via Graph CLI
 
@@ -268,7 +195,7 @@ This compiles your smart contract ABIs verified on [Etherscan](https://etherscan
 
 ### Step 3: Dynamic Data Sources (Templates)
 
-In protocols like Uniswap or [Aave](https://aave.com), a single master Factory contract dynamically deploys hundreds of independent pool contracts. 
+In protocols like Uniswap or [Aave](https://aave.com), a single master Factory contract dynamically deploys hundreds of independent pool contracts.
 
 A subgraph cannot know the addresses of these future contracts at build time. To index dynamically deployed contracts, The Graph provides **Data Source Templates**.
 
@@ -353,54 +280,14 @@ Frontend integration utilizing libraries such as [Apollo Client](https://www.apo
 
 ## The Decentralized Network Economy: The GRT Work-Token Model
 
-Historically, The Graph operated a centralized Hosted Service where subgraphs were hosted for free on AWS servers managed by [Edge & Node](https://edgeandnode.com). 
+Historically, The Graph operated a centralized Hosted Service where subgraphs were hosted for free on AWS servers managed by [Edge & Node](https://edgeandnode.com).
 
-Today, The Graph has transitioned completely to a **Decentralized Query Network ** settled on [Arbitrum One](https://arbitrum.io). The network coordinates independent actors through the ** Graph Token (GRT)** work-token economic model:
+Today, The Graph has transitioned completely to a **Decentralized Query Network** settled on [Arbitrum One](https://arbitrum.io). The network coordinates independent actors through the **Graph Token (GRT)** work-token economic model:
 
-```
-+---------------------------------------------------------------------------------+
-|                       THE GRAPH DECENTRALIZED QUERY MARKET                      |
-+---------------------------------------------------------------------------------+
-|  1. Indexers (Node Operators):                                                  |
-|     
-
-- Stake minimum 100,000 GRT to participate in the network                   |
-|     
-
-- Operate enterprise hardware (PostgreSQL, Graph Node, Firehose RPC)        |
-|     
-
-- Earn query fees (in GRT) and new issuance indexing rewards                |
-|                                                                                 |
-|  2. Curators (Sub-Graph Evaluators):                                            |
-|     
-
-- Deposit GRT into bonding curves for high-utility subgraphs                |
-|     
-
-- Earn a percentage of all query fees generated by that subgraph            |
-|     
-
-- Signals to Indexers which subgraphs are economically worth indexing       |
-|                                                                                 |
-|  3. Delegators (Network Supporters):                                            |
-|     
-
-- Delegate GRT to reputable Indexers without running technical hardware     |
-|     
-
-- Earn a share of Indexer query fees and inflationary rewards               |
-|                                                                                 |
-|  4. Consumers (DApps & End Users):                                              |
-|     
-
-- Pay micropayments for individual GraphQL queries via state channels       |
-+---------------------------------------------------------------------------------+
-```
 
 ### Micro-Query Fee Settlement via State Channels
 
-To query the decentralized network, applications pre-fund an API key with GRT on Arbitrum. 
+To query the decentralized network, applications pre-fund an API key with GRT on Arbitrum.
 
 When a user browser sends a GraphQL query, the query payload passes through an **Indexer Gateway**. The gateway routes the query to an Indexer advertising the lowest latency, exchanging a cryptographically signed query receipt via state channels. This micropayment channel ensures that Indexers receive fractional payments (e.g. $\$0.0001$ per query) without incurring on-chain transaction fees for every search.
 
@@ -408,25 +295,10 @@ When a user browser sends a GraphQL query, the query payload passes through an *
 
 ## Advanced Optimization: Firehose, Substreams, and Streaming
 
-For high-throughput blockchains such as [Solana Protocol](https://solana.com), [Avalanche Network](https://avax.network), or [Polygon](https://polygon.technology), processing hundreds of transactions per second through classical JSON-RPC polling causes severe indexing lag. 
+For high-throughput blockchains such as [Solana Protocol](https://solana.com), [Avalanche Network](https://avax.network), or [Polygon](https://polygon.technology), processing hundreds of transactions per second through classical JSON-RPC polling causes severe indexing lag.
 
-To overcome this bottleneck, [StreamingFast](https://www.streamingfast.io) and The Graph engineered **Firehose ** and ** Substreams**:
+To overcome this bottleneck, [StreamingFast](https://www.streamingfast.io) and The Graph engineered **Firehose** and **Substreams**:
 
-```
-+---------------------------------------------------------------------------------+
-|                        FIREHOSE & SUBSTREAMS ARCHITECTURE                       |
-+---------------------------------------------------------------------------------+
-| Standard JSON-RPC Polling:                                                      |
-| Graph Node <--- HTTP Request (Poll) ---> RPC Node (High Latency, Slow Polling)  |
-|                                                                                 |
-| StreamingFast Firehose:                                                         |
-| Flat Files on Disk ---> Binary gRPC Stream ---> Graph Node (100x Faster Sync)   |
-|                                                                                 |
-| Substreams (Rust + Parallel Compute):                                           |
-| Parallelized Rust modules process blocks concurrently across cloud clusters,    |
-| shrinking subgraph initial sync times from 3 weeks to under 4 hours!            |
-+---------------------------------------------------------------------------------+
-```
 
 - **Firehose**: Bypasses the JSON-RPC interface entirely. It extracts execution data directly from the consensus client engine into flat binary files stored on local disks, streaming block files over high-speed gRPC streams at hardware bus speeds.
 - **Substreams**: Enables developers to write indexing modules in [Rust](https://www.rust-lang.org). Substreams process blocks in parallel across elastic compute clusters, executing streaming transforms that are subsequently piped directly into subgraphs or downstream SQL databases.
@@ -441,17 +313,6 @@ In production smart contract engineering, testing pipelines are non-negotiable. 
 
 Developed by [LimeChain](https://limechain.tech) and officially supported by The Graph, the [Matchstick Testing Framework](https://github.com/LimeChain/matchstick) provides a native sandboxed environment for unit-testing AssemblyScript mapping handlers directly in memory.
 
-```
-+---------------------------------------------------------------------------------+
-|                       MATCHSTICK UNIT TESTING PIPELINE                          |
-+---------------------------------------------------------------------------------+
-| 1. Mock Event Generation: Create synthetic SwapEvent with mocked parameters     |
-| 2. Execute Handler: Invoke handleSwap(mockEvent) in sandboxed WASM runtime      |
-| 3. Assert Database State: assert.fieldEquals("Pool", poolId, "liquidity", "...")|
-| 4. Mock Smart Contract Calls: createMockedFunction() simulates eth_call responses|
-| 5. Automated CI/CD: Run tests in GitHub Actions prior to Subgraph Studio deploy |
-+---------------------------------------------------------------------------------+
-```
 
 Below is a production Matchstick test verifying that a pool entity updates correctly upon receiving an event:
 
@@ -498,24 +359,6 @@ Running an enterprise Indexer on The Graph decentralized query network is a soph
 
 To build enterprise-grade subgraphs that synchronize efficiently and resist indexing crashes, developers follow established production guidelines:
 
-```
-+-----------------------------------------------------------------------------------+
-|                     SUBGRAPH PERFORMANCE AUDIT CHECKLIST                          |
-+-------------------+-----------------------+---------------------------------------+
-| Practice Area     | Common Mistake        | Recommended Implementation            |
-+-------------------+-----------------------+---------------------------------------+
-| Event vs Call     | Indexing internal     | Avoid callHandlers; use eventHandlers |
-| Handlers          | function traces       | which evaluate 100x faster            |
-| Entity Lookups    | Calling Entity.load() | Cache entities in memory variables;   |
-|                   | inside tight loops    | batch database reads and writes       |
-| Immutability      | Marking dynamic state | Use @entity(immutable: true) for logs |
-| Flags             | as mutable            | to enable accelerated database inserts|
-| Start Block       | Defaulting startBlock | Set startBlock to the exact contract  |
-| Configuration     | to block 0            | deployment height to skip empty scans |
-| Derived Fields    | Storing massive arrays| Use @derivedFrom on parent entities   |
-|                   | of entity IDs         | to avoid array memory overflow        |
-+-------------------+-----------------------+---------------------------------------+
-```
 
 ### Essential Tooling & Reference Hubs
 

@@ -11,6 +11,7 @@ lastUpdated: '2026-09-08'
 image: >-
   https://images.unsplash.com/photo-1698047681432-006d2449c631?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8Q2FyZWVyJTIwR2FwJTIwRXhwbGFuYXRpb24lMjBZb3VyJTIwUmVzdW1lJTIwQ2FyZWVyfGVufDF8MHx8fDE3ODkxMzc1NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---
+
 An employment gap on your [resume](/how-to-build-a-web3-resume-that-stands-out) often raises concerns for job seekers. Many worry that hiring managers will view these gaps as indicators of instability or lack of commitment. However, career breaks are increasingly common and generally do not have the negative impact they once did. The key is to address the gap with clarity, honesty, and confidence.
 
 Regardless of whether you took time off for travel, family commitments, health issues, or skill acquisition, you can present your career break as a period of growth and development. The narrative you create about your experience is important. Rather than concealing the gap, focus on how to explain it in ways that accentuate your strengths.
@@ -19,11 +20,15 @@ Regardless of whether you took time off for travel, family commitments, health i
 
 Employers often appreciate transparency, so consider these strategies to format your resume effectively while being truthful.
 
-**1. Use Years Instead of Months
 
-**If your gap is less than a year, adjust your employment dates to reflect only the years. For instance, instead of stating "Software Engineer, Acme Corp (June 2021 - January 2022)," you could write "Software Engineer, Acme Corp (2021 - 2022)." This minor adjustment makes short gaps less conspicuous.** 2. Create a "Career Break" Section
 
-**For longer gaps, address them directly by adding a dedicated section to your resume. You might label it "Professional Development Sabbatical" or "Career Break for Family Care." Under this heading, briefly detail what you accomplished during this period.** Example:**| Duration | Description |
+### 1. Use Years Instead of Months
+
+If your gap is less than a year, adjust your employment dates to reflect only the years. For instance, instead of stating "Software Engineer, Acme Corp (June 2021 - January 2022)," you could write "Software Engineer, Acme Corp (2021 - 2022)." This minor adjustment makes short gaps less conspicuous.
+
+### 2. Create a "Career Break" Section
+
+For longer gaps, address them directly by adding a dedicated section to your resume. You might label it "Professional Development Sabbatical" or "Career Break for Family Care." Under this heading, briefly detail what you accomplished during this period.**Example:**| Duration | Description |
 |
 
 --------------------|
@@ -33,9 +38,11 @@ Employers often appreciate transparency, so consider these strategies to format 
 
 **Professional Development Sabbatical (2022 - 2023)**| Completed an online bootcamp in [Web3](/what-is-web3) development, focusing on [Solidity](/best-programming-languages-for-blockchain-development) and React.<br>Built and deployed three personal projects, including a decentralized voting application.<br>Actively contributed to open-source [DeFi](/what-is-defi) protocols. |
 
-This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.**3. Focus on a Functional Resume Format
+This approach transforms a potential concern into a demonstration of your initiative and commitment to learning.
 
-**While chronological resumes are the norm, consider a functional or combination format if you have notable gaps. This style emphasizes skills and achievements at the top, followed by your work history. Such a layout directs attention to your capabilities rather than the timeline of your employment.
+### 3. Focus on a Functional Resume Format
+
+While chronological resumes are the norm, consider a functional or combination format if you have notable gaps. This style emphasizes skills and achievements at the top, followed by your work history. Such a layout directs attention to your capabilities rather than the timeline of your employment.
 
 ### Discussing Gaps in Your Cover Letter
 

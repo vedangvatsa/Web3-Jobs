@@ -10,6 +10,7 @@ lastUpdated: '2026-09-08'
 image: >-
   https://images.unsplash.com/photo-1623227413711-25ee4388dae3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8Qml0Y29pbiUyMEdlbmVzaXMlMjBCbG9jayUyMERheSUyMC0lMjBCaXJ0aCUyMEJpdGNvaW4lMjBDYXJlZXJ8ZW58MXwwfHx8MTc4OTEzNzU2MXww&ixlib=rb-4.1.0&q=80&w=1080
 ---
+
 ## 1. Technical Foundations
 
 The Bitcoin Genesis Block, mined on January 3, 2009, contains the first valid SHA-256 hash: `000000000019d6689c085ae165831e93`. This hash serves as a unique identifier for the block, meeting the initial difficulty target set by the network. At its inception, the mining difficulty was set at the minimum level, allowing even standard laptops to mine Bitcoin, which meant that anyone with basic computing power could participate in the network.
@@ -44,7 +45,7 @@ Also, policymakers have used the Genesis Block as a reference point in discussio
 
 ### Career Applications
 
-Understanding the Genesis Block can enhance various roles within the blockchain industry. 
+Understanding the Genesis Block can enhance various roles within the blockchain industry.
 
 - **Product Managers:** They can use the narrative of the Genesis Block to frame product roadmaps for blockchain projects. By emphasizing the historical context and the values that Bitcoin embodies, product managers can create compelling narratives that resonate with users.
 

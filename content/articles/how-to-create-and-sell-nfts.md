@@ -11,6 +11,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## What is creating and selling an NFT
 
 Creating an NFT means deploying or reusing a smart contract that implements a token standard, then calling a mint function that assigns a new tokenId to your wallet and sets a tokenURI that points to a JSON file describing the item. Selling it means listing that tokenId for sale on a marketplace where a buyer can purchase it, with ownership transferred on chain and fees and royalties handled by the marketplace.
@@ -125,15 +126,21 @@ In practice:
 
 After you mint, the token sits in your wallet. To sell, you create a listing on a marketplace that indexes your contract and chain. The common sale types are:
 
-- **Fixed price.
+-
 
-**You set a price in ETH or USDC, sign a listing with an expiry, and the marketplace holds the signature off chain until a buyer fulfills it through Seaport or a similar protocol. You pay no gas to list, only when the sale executes or you cancel on chain.
-- **Auction.
+### Fixed price
 
-**Timed auction with reserve, or an English auction where the highest bid wins. Useful when demand is uncertain and you want price discovery.
-- **Offers.
+You set a price in ETH or USDC, sign a listing with an expiry, and the marketplace holds the signature off chain until a buyer fulfills it through Seaport or a similar protocol. You pay no gas to list, only when the sale executes or you cancel on chain.
+-
 
-**Collectors can make offers on your token even if it is not listed. You can accept an offer, which executes the transfer.
+### Auction
+
+Timed auction with reserve, or an English auction where the highest bid wins. Useful when demand is uncertain and you want price discovery.
+-
+
+### Offers
+
+Collectors can make offers on your token even if it is not listed. You can accept an offer, which executes the transfer.
 
 Marketplaces charge a fee on each sale. OpenSea charges 2.5 percent on many routes, SuperRare charges 3 percent to the buyer on secondary, and other venues vary from 0 to 5 percent. The seller often also pays the royalty you configured if the venue honors it. Proceeds go to your payout address minus those deductions. You then owe record keeping and, in the US, tax reporting on primary sales and royalties as ordinary income when received, often on Schedule C if you operate as a business, and capital gains on secondary flips.
 

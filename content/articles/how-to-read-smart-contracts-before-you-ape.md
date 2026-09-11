@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the dynamic environment of [Web3](/what-is-web3), excitement often overshadows caution. New [NFT](/what-are-nfts) projects and [DeFi](/what-is-defi) protocols frequently promise high returns, igniting a sense of urgency to invest quickly. This rush can lead to significant financial losses if proper research is not conducted.
 
 One of Web3's defining characteristics is its transparency. The code for most [smart contracts](/what-are-smart-contracts) is publicly accessible and can be examined on block explorers like Etherscan. While detailed [security audits](/smart-contract-auditor-career) require specialized knowledge, anyone can learn to perform a basic evaluation or "smell test" to identify glaring issues. Understanding how to read a smart contract is essential for safeguarding your investments in this space.
@@ -58,9 +59,11 @@ Once you access the [Solidity](/best-programming-languages-for-blockchain-develo
 ----------------------------------------------------|
 | `selfdestruct` | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. |
 
-**EXTREME RED FLAG.
 
-**Avoid. |
+
+### EXTREME RED FLAG
+
+Avoid. |
 | `set` functions | Functions like `setBaseURI`, `setPrice`, `setFee`, `pause`, `withdraw` should have an `onlyOwner` modifier. |
 
 **CRITICAL RED FLAG** if public. |

@@ -10,6 +10,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the digital market, verifying identity presents ongoing challenges. Many people rely on usernames and passwords or depend on major platforms like Google and Facebook to authenticate their identity for other services. This centralized approach poses significant privacy and security risks. On-chain identity verification, enabled by [Web3](/what-is-web3), offers a more secure, private, and user-controlled method for managing digital identities.
 
 On-chain identity verification shifts control from centralized entities to individuals. By using the public and verifiable nature of the [blockchain](/what-is-a-blockchain), it enables users to prove claims about their identity. With this system, individuals manage their own identities and can choose what information to disclose without exposing all personal data.
@@ -38,7 +39,7 @@ On-chain identity verification relies on several core Web3 components:
 -------------------------------|
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 
+|
 
 **Decentralized Identifiers (DIDs)**| A DID serves as a globally unique identifier that users create and control. It acts as a permanent, self-sovereign address for individuals on the internet. |
 |

@@ -10,13 +10,14 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 You've built your [portfolio](/building-web3-portfolio), honed your skills, and secured an [interview](/how-to-prepare-for-job-interview) for your ideal [Web3](/what-is-web3) position. Now, you face the critical challenge: the interview process. Interviews in the Web3 space are demanding, assessing not only your technical abilities but also your grasp of decentralization principles, your alignment with the industry's culture, and your capacity to critically analyze complex systems. Whether you are a developer encountering a rigorous technical assessment or a marketing candidate discussing Maximum Extractable Value (MEV), thorough preparation is essential. This guide outlines common interview questions across both technical and non-technical roles in Web3. Use this as a checklist to evaluate your knowledge, refine your responses, and approach your next interview with confidence. For a full list of questions, refer to our [Web3 Interview Question Bank](/interview-questions).
 
 ## Part 1: Foundational & Cultural Questions (For All Roles)
 
 Every Web3 interview begins with questions aimed at assessing your enthusiasm and basic understanding of the field. Your responses here will set the tone for the entire discussion.
 
-1. 
+1.
 
 #### What's your "rabbit hole" story? Why are you passionate about Web3?
 

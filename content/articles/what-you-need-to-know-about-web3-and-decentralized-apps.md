@@ -9,7 +9,8 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
-The internet we use daily relies on centralized applications. For instance, when you interact with Facebook, you engage with an app that operates on servers controlled by Meta. In contrast, a decentralized application, or dApp, functions on a peer-to-peer network of computers, predominantly using a public blockchain like [Ethereum](/what-is-ethereum). 
+
+The internet we use daily relies on centralized applications. For instance, when you interact with Facebook, you engage with an app that operates on servers controlled by Meta. In contrast, a decentralized application, or dApp, functions on a peer-to-peer network of computers, predominantly using a public blockchain like [Ethereum](/what-is-ethereum).
 
 Understanding this architectural difference is essential for grasping [Web3](/what-is-web3). dApps serve as the backbone of the decentralized internet, offering services that prioritize openness, resilience, and user control compared to traditional Web2 applications. This article will clarify what dApps are, how they operate, and what you need to know to begin using them effectively.
 
@@ -23,12 +24,12 @@ Understanding this architectural difference is essential for grasping [Web3](/wh
 --------------------------------------------|
 
 -----------------------------------------------|
-| 
+|
 
 **Backend**| Operates on private, centralized servers (e.g., AWS) | Operates on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
 |
 
-**Control **| Managed by a single company | Governed by a community of users (often a**[DAO](/what-is-a-dao)**) |
+**Control**| Managed by a single company | Governed by a community of users (often a**[DAO](/what-is-a-dao)**) |
 |
 
 **Data Storage**| User data resides on company servers | Data is stored on the public blockchain |
@@ -37,7 +38,7 @@ Understanding this architectural difference is essential for grasping [Web3](/wh
 **Censorship**| Companies can censor or remove content/users | Transactions and data resist censorship |
 |
 
-**Identity **| Users log in with an email and password | Users log in by connecting a**[crypto wallet](/how-to-choose-a-crypto-wallet)**|
+**Identity**| Users log in with an email and password | Users log in by connecting a**[crypto wallet](/how-to-choose-a-crypto-wallet)**|
 |
 
 **Payments**| Uses traditional payment processors | Employs native cryptocurrencies for transactions |

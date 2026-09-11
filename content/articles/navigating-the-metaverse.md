@@ -9,6 +9,7 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 The word metaverse gets used to mean many different things. In practice it points to the same idea: a set of shared, three dimensional virtual spaces where you show up as an avatar, keep your identity and items as you move, and transact in a working economy.
 
 That vision is not one product. It is a collection of technologies, standards, and communities that may connect over time. Some parts exist today. Many parts do not yet. This guide defines what people mean by metaverse, who it is useful for now, how the pieces fit together, and where Web3 adds something distinct.
@@ -97,14 +98,14 @@ When assets are onchain, finance can be built in.
 These are live Web3 worlds, not concepts. Use them to see what works and what does not.
 
 | Platform | What it is | Key details you can verify |
-| 
-
---- | 
-
---- | 
+|
 
 --- |
-| 
+
+--- |
+
+--- |
+|
 
 **Decentraland**| Browser-based virtual world on Ethereum, governed by a DAO | Built by Ari Meilich and Esteban Ordano starting in 2015. Genesis City contains 90,601 LAND parcels as ERC-721 tokens on Ethereum. MANA is the ERC-20 utility token used for LAND, wearables, and DAO votes. Control of core contracts was transferred to the Decentraland DAO in 2021. Scenes are built with a builder tool or SDK. Clients run in a browser via WebGL, with desktop clients also available. |
 |

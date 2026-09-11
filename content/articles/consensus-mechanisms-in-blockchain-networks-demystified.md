@@ -9,7 +9,8 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
-A **[blockchain](/what-is-a-blockchain) ** serves as a distributed database, functioning as a shared ledger maintained by a network of untrusting computers. This setup raises a critical issue: How do these independent participants reach a consensus on a single version of truth? How do they determine the validity of transactions and their sequence? The answer is found in the**consensus mechanism**.
+
+A **[blockchain](/what-is-a-blockchain)** serves as a distributed database, functioning as a shared ledger maintained by a network of untrusting computers. This setup raises a critical issue: How do these independent participants reach a consensus on a single version of truth? How do they determine the validity of transactions and their sequence? The answer is found in the**consensus mechanism**.
 
 A consensus mechanism comprises the rules that a [blockchain](/what-is-a-blockchain) employs to achieve agreement on the state of the network. This mechanism serves as the foundation that enables a decentralized network to operate securely and reliably. Among the various consensus mechanisms,**Proof-of-Work (PoW)** and
 
@@ -49,23 +50,23 @@ Proof-of-Stake represents a more modern, energy-efficient alternative to PoW, cu
 
 - **Pros:**
 
-- **-** Energy Efficiency:**PoS is significantly more energy-efficient than PoW as it avoids complex computational puzzles.
- - **Accessibility:** It lowers the barrier for participation compared to PoW mining, which requires expensive hardware.
- - **Scalability:** PoS enables advanced scalability solutions.
+- **-** Energy Efficiency:PoS is significantly more energy-efficient than PoW as it avoids complex computational puzzles.
+ - Accessibility: It lowers the barrier for participation compared to PoW mining, which requires expensive hardware.
+ - Scalability: PoS enables advanced scalability solutions.
 
-- **Cons:** PoS may lead to centralization, as those with the most capital (stake) wield the most influence over the network.
+- Cons: PoS may lead to centralization, as those with the most capital (stake) wield the most influence over the network.
 
 ### Other Consensus Mechanisms
 
 Beyond PoW and PoS, several new mechanisms exist, including:
 
-- **Delegated Proof-of-Stake (DPoS):** Token holders vote to elect a limited number of "delegates" responsible for validating transactions. This model is used by projects like EOS and Tron.
+- Delegated Proof-of-Stake (DPoS): Token holders vote to elect a limited number of "delegates" responsible for validating transactions. This model is used by projects like EOS and Tron.
 
-- **Proof-of-History (PoH):** This unique mechanism, employed by **[Solana](/what-is-solana)**, creates a cryptographic clock that timestamps transactions before processing, enabling parallel processing and high throughput.
+- Proof-of-History (PoH):**This unique mechanism, employed by**[Solana](/what-is-solana), creates a cryptographic clock that timestamps transactions before processing, enabling parallel processing and high throughput.
 
 ### Evaluating Consensus Mechanisms
 
-The choice of consensus mechanism is among the most critical design decisions for any blockchain. It requires weighing fundamental trade-offs between security, decentralization, and scalability, commonly referred to as the **[blockchain trilemma](/is-web3-dead)**. Below is a comparative overview of PoW and PoS.
+The choice of consensus mechanism is among the most critical design decisions for any blockchain. It requires weighing fundamental trade-offs between security, decentralization, and scalability, commonly referred to as the [blockchain trilemma](/is-web3-dead). Below is a comparative overview of PoW and PoS.
 
 | Feature | Proof-of-Work (PoW) | Proof-of-Stake (PoS) |
 |

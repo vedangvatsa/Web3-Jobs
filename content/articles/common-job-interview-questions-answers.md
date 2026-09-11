@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Job interviews are often a source of anxiety. The unpredictability of potential questions can add to this stress. While it's impossible to anticipate every inquiry, you can prepare for many frequently asked ones. Formulating your responses ahead of time allows you to enter your [interview](/how-to-prepare-for-job-interview) with greater confidence and readiness.
 
 This guide outlines common interview questions and offers strategies for effective responses.
@@ -39,9 +40,11 @@ This question evaluates your self-awareness and honesty.
 
 **For strengths:**
 * **Be truthful and assertive.** Select strengths relevant to the job.
-* **Provide specific examples.
+*
 
-**Instead of generic statements, illustrate with concrete experiences.** For weaknesses:**
+### Provide specific examples
+
+Instead of generic statements, illustrate with concrete experiences.**For weaknesses:**
 * **Be candid, but avoid critical flaws.** Choose a weakness that isn't essential for the job.
 * **Demonstrate improvement efforts.** Frame your weakness positively by explaining the steps you are taking to address it.
 

@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Succeeding in a startup means shipping useful work when the plan is incomplete and resources are thin. You are judged on outcomes, learning speed, and how well you help teammates.
 
 This guide is for people joining teams of roughly 5 to 100 where priorities change often. It is built from public data on startup survival, standard hiring and equity practices, and common patterns in Web3 teams.
@@ -41,45 +42,71 @@ Both profiles build strong careers. Choose based on learning style and life cons
 
 ### How work gets done in early teams
 
-**Priorities are short.
 
-**Most startups plan in weeks, not quarters. The team picks one or two outcomes, ships, measures, and decides what to keep. Your job is to make the next step concrete.** Scope is wider than your title.
 
-**A front-end engineer may interview a user, write a short spec, and handle a support ticket. A marketer may pull on-chain data to check if a launch worked. You fill gaps because there is no one else to fill them.** Feedback is direct and frequent.
+### Priorities are short
 
-**Founders and teammates review work daily. Customers reply within hours in Discord or support channels. You learn faster but you also hear about problems faster.** Risk is real.
+Most startups plan in weeks, not quarters. The team picks one or two outcomes, ships, measures, and decides what to keep. Your job is to make the next step concrete.
 
-**The U.S. Bureau of Labor Statistics Business Employment Dynamics data for the 2024 cohort shows about 20.4 percent of new establishments closed in year one, about 49.4 percent by year five, and about 65.3 percent by year ten. These figures cover all private establishments, not only venture-backed startups, which tend to face higher failure rates because they try new products under limited runway. Treat any single startup as uncertain, even if your role feels secure.
+### Scope is wider than your title
+
+A front-end engineer may interview a user, write a short spec, and handle a support ticket. A marketer may pull on-chain data to check if a launch worked. You fill gaps because there is no one else to fill them.
+
+### Feedback is direct and frequent
+
+Founders and teammates review work daily. Customers reply within hours in Discord or support channels. You learn faster but you also hear about problems faster.
+
+### Risk is real
+
+The U.S. Bureau of Labor Statistics Business Employment Dynamics data for the 2024 cohort shows about 20.4 percent of new establishments closed in year one, about 49.4 percent by year five, and about 65.3 percent by year ten. These figures cover all private establishments, not only venture-backed startups, which tend to face higher failure rates because they try new products under limited runway. Treat any single startup as uncertain, even if your role feels secure.
 
 ### Habits that managers reward
 
-These habits show up in strong performers across roles. They are simple but not easy to keep.**1. Make work visible early.
+These habits show up in strong performers across roles. They are simple but not easy to keep.
 
-**Share a one-paragraph plan before you build. Include the problem, the user, what you will ship, and how you will know it worked. A short note saves days of rework.** 2. Ship small and measure.
+### 1. Make work visible early
 
-**Break work into parts that can reach a user in days. Write what you expect to happen, then check the data or feedback. Fix or stop based on results.** 3. Own the follow-through.
+Share a one-paragraph plan before you build. Include the problem, the user, what you will ship, and how you will know it worked. A short note saves days of rework.
 
-**After you ship, watch support, fix bugs, and update the doc. Teams trust people who close the loop.** 4. Write the missing context.
+### 2. Ship small and measure
 
-**When you learn something that would have helped you on day one, add it to the handbook, runbook, or README. That scales your impact beyond your own output.** 5. Communicate with facts.
+Break work into parts that can reach a user in days. Write what you expect to happen, then check the data or feedback. Fix or stop based on results.
 
-**Start updates with the result. Example: "Signups rose 12 percent after the onboarding fix, based on 7 days of data. Next, I will fix the drop-off on step two." Short, factual updates build trust faster than long status reports.** 6. Ask for help with specifics.
+### 3. Own the follow-through
 
-**Instead of "I am blocked," say "I need a 20-minute review of this contract diff before I deploy. Here is the diff and test coverage." People help faster when the ask is concrete.** 7. Protect your capacity.
+After you ship, watch support, fix bugs, and update the doc. Teams trust people who close the loop.
 
-**Track hours, sleep, and on-call load for two weeks. If you average more than 45 to 50 hours for several weeks, raise it with your manager with data. Sustainable pace beats short bursts that lead to mistakes.
+### 4. Write the missing context
+
+When you learn something that would have helped you on day one, add it to the handbook, runbook, or README. That scales your impact beyond your own output.
+
+### 5. Communicate with facts
+
+Start updates with the result. Example: "Signups rose 12 percent after the onboarding fix, based on 7 days of data. Next, I will fix the drop-off on step two." Short, factual updates build trust faster than long status reports.
+
+### 6. Ask for help with specifics
+
+Instead of "I am blocked," say "I need a 20-minute review of this contract diff before I deploy. Here is the diff and test coverage." People help faster when the ask is concrete.
+
+### 7. Protect your capacity
+
+Track hours, sleep, and on-call load for two weeks. If you average more than 45 to 50 hours for several weeks, raise it with your manager with data. Sustainable pace beats short bursts that lead to mistakes.
 
 ### Pay, equity, and expectations
 
-**Cash and equity.
 
-**Many startups pay less in cash than larger firms and make up part of the offer with equity. Common forms are stock options and, at later stages, restricted stock units (RSUs). A standard vesting schedule is four years with a one-year cliff, where 25 percent vests after twelve months and the rest vests monthly or quarterly after that.
+
+### Cash and equity
+
+Many startups pay less in cash than larger firms and make up part of the offer with equity. Common forms are stock options and, at later stages, restricted stock units (RSUs). A standard vesting schedule is four years with a one-year cliff, where 25 percent vests after twelve months and the rest vests monthly or quarterly after that.
 
 If you leave before the cliff, you earn no equity. If you are granted options, you receive the right to buy shares at the strike price set on grant day. You gain only if the share value later rises above that price and the company reaches a point where you can sell. You also have a limited time to exercise after leaving, often 90 days. Read the grant letter for the exact terms. J.P. Morgan Workplace Solutions notes that companies often start with options and add RSUs closer to late-stage funding when valuation is higher and a sale or listing is more likely.
 
-Treat equity as uncertain future value. Model your finances on cash you can live on. Evaluate equity separately in low, medium, and high cases after dilution and tax.**Benefits.
+Treat equity as uncertain future value. Model your finances on cash you can live on. Evaluate equity separately in low, medium, and high cases after dilution and tax.
 
-**Large employers usually bundle health, retirement match, and formal leave. Startups vary. Some offer flexible location, learning stipends, and flexible time off. Ask for written details: base pay, bonus target, equity type and percent, cliff and vesting dates, benefits start date, and on-call expectations.
+### Benefits
+
+Large employers usually bundle health, retirement match, and formal leave. Startups vary. Some offer flexible location, learning stipends, and flexible time off. Ask for written details: base pay, bonus target, equity type and percent, cliff and vesting dates, benefits start date, and on-call expectations.
 
 ### Trade-offs to be honest about
 

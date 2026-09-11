@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 You've identified your skills, built a [portfolio](/building-web3-portfolio), and set your rates. You're prepared to start your [freelance](/how-to-start-freelancing-for-beginners) career, but you face a significant challenge: acquiring your first client. Landing that first client often poses the greatest obstacle for new freelancers. However, with the right approach and determination, you can successfully secure your initial project.
 
 Securing your first client marks an important milestone in your freelance journey. It validates your skills and confirms that you can earn a living as a freelancer. This guide outlines effective strategies to help you find and secure that essential first project.
@@ -51,8 +52,8 @@ Identify online communities where your potential clients congregate, such as sub
 
 **Effective Networking Strategies:**
 
-- **-** Be Helpful, Not Salesy:**Avoid jumping straight into promoting your services. Spend time providing value by answering questions and engaging in discussions.
-- **Build Relationships:** Get to know community members. Over time, you will become a trusted resource, leading people to think of you when they require freelance assistance.
+- **-** Be Helpful, Not Salesy:Avoid jumping straight into promoting your services. Spend time providing value by answering questions and engaging in discussions.
+- Build Relationships: Get to know community members. Over time, you will become a trusted resource, leading people to think of you when they require freelance assistance.
 
 ### FAQs
 
@@ -64,5 +65,5 @@ The timeline varies by individual. Some may land a client within days, while oth
 
 Accepting a lower-paying job for your first one or two projects can be an effective strategy to gain testimonials and build your portfolio. However, avoid getting trapped in a cycle of low-paid work. Develop a plan to increase your rates as you gain experience.
 
-**What should I do if I face rejection?**
+What should I do if I face rejection?
 Rejection is a common aspect of freelancing. Not every client will be a suitable fit, and you won't win every project you apply for. Do not take it personally. Learn from the experience, refine your approach, and continue moving forward.

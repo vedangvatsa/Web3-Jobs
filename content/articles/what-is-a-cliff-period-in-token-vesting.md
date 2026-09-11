@@ -21,16 +21,6 @@ A foundational element of any Web3 vesting schedule is the **Cliff Period**. Whe
 
 A **cliff period** is a predetermined, mandatory time window at the beginning of a vesting schedule during which zero tokens accrue or vest to the beneficiary.
 
-```
-+-------------------------------------------------------------------+
-|               Standard 4-Year Vesting Schedule Timeline           |
-+-------------------------------------------------------------------+
-| Day 0: Grant Date (0% Unlocked)                                   |
-| Days 1 to 364: 1-Year Cliff Window (0% Tokens Accrued)            |
-| Day 365: Cliff Maturity Event (25% Total Allocation Unlocked)     |
-| Months 13 to 48: Linear Monthly / Block-by-Block Streaming (75%)   |
-+-------------------------------------------------------------------+
-```
 
 ### Key Rules of Cliff Vesting
 
@@ -71,16 +61,6 @@ Post-Cliff Monthly Stream: 7,500 Tokens / Month (for 36 months)
 
 The implementation of cliff periods addresses three fundamental economic and security risks inherent in decentralized networks:
 
-```
-+-------------------------------------------------------------------+
-|               Primary Functions of Token Cliff Vesting            |
-+-------------------------------------------------------------------+
-| 1. Anti-Mercenary Protection: Filters out transient team members  |
-| 2. Market Supply Stabilization: Prevents immediate insider dumps   |
-| 3. Long-Term Incentive Alignment: Binds team to multi-year vision |
-| 4. Community Protection: Insulates retail token holders           |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Anti-Mercenary Protection and Team Commitment
 
@@ -96,15 +76,6 @@ When a project launches its token via a Token Generation Event (TGE), early seco
 
 In legacy corporate finance, vesting schedules are enforced by centralized transfer agents and HR departments. In Web3, token vesting is executed immutably on-chain by self-enforcing smart contracts.
 
-```
-+-------------------------------------------------------------------+
-|            Smart Contract Token Vesting Vault Layers             |
-+-------------------------------------------------------------------+
-| Layer 1: Escrow Vault holding total allocated token supply       |
-| Layer 2: Beneficiary Mapping & Schedule Parameters (Cliff & End)  |
-| Layer 3: Linear Claim Engine checking `block.timestamp`           |
-+-------------------------------------------------------------------+
-```
 
 ### Production Solidity Vesting Contract Example
 
@@ -207,16 +178,6 @@ contract TokenVestingVault is Ownable, ReentrancyGuard {
 
 While custom vesting contracts process periodic manual claims, modern Web3 protocols utilize continuous token streaming protocols like **Sablier** and **LlamaPay**.
 
-```
-+-------------------------------------------------------------------+
-|               Sablier Continuous Streaming Protocol               |
-+-------------------------------------------------------------------+
-| 1. Protocol locks 480,000 tokens into Sablier Stream Vault        |
-| 2. Tokens vest continuously per second post-cliff                 |
-| 3. Beneficiary can withdraw accrued micro-fractions anytime       |
-| 4. Fully visual stream progress tracked on-chain via dApp UI      |
-+-------------------------------------------------------------------+
-```
 
 Continuous streaming calculates token release per second ($\Delta t = 1 \text{ second}$). Once the 1-year cliff matures, the beneficiary's wallet balance increases in real time with every Ethereum block, allowing micro-withdrawals at any moment without waiting for monthly distribution cycles.
 
@@ -226,16 +187,6 @@ Continuous streaming calculates token release per second ($\Delta t = 1 \text{ s
 
 For crypto analysts, investors, and prospective employees, analyzing the cliff parameters in a project's whitepaper or tokenomics documentation provides essential insights into team quality and project risks.
 
-```
-+-------------------------------------------------------------------+
-|               Tokenomics Cliff Evaluation Red Flags               |
-+-------------------------------------------------------------------+
-| Red Flag 1: Zero cliff for team & core founders (High dump risk)  |
-| Red Flag 2: Short 1-month cliff for seed venture capital investors|
-| Red Flag 3: Unbalanced cliff dates causing massive simultaneous unlock|
-| Best Practice: 12-month cliff for team; 6 to 12 months for seed VC|
-+-------------------------------------------------------------------+
-```
 
 ### Standard Industry Benchmarks
 
@@ -250,16 +201,6 @@ For crypto analysts, investors, and prospective employees, analyzing the cliff p
 
 When evaluating a Web3 employment offer that includes a token allocation, consider the following technical and legal negotiation points:
 
-```
-+-------------------------------------------------------------------+
-|               Job Offer Token Negotiation Checklist               |
-+-------------------------------------------------------------------+
-| 1. Confirm total token pool vs fixed token count percentage       |
-| 2. Verify exact cliff start date (Hire date vs Token Launch TGE)  |
-| 3. Clarify single-trigger vs double-trigger acceleration clauses  |
-| 4. Ensure Token Grant Agreement is legally binding in writing     |
-+-------------------------------------------------------------------+
-```
 
 ### 1. TGE Date vs Hire Date Cliff Alignment
 

@@ -32,7 +32,7 @@ $$\text{Finality Threshold} = \sum_{i=1}^{V} \text{Weight}(v_i) \ge \frac{2}{3} 
 
 ```
                            ETHEREUM EPOCH CONSENSUS CYCLE
-                           
+
  Slot 0         Slot 1         Slot 2                     Slot 31
 ┌────────────┐ ┌────────────┐ ┌────────────┐            ┌────────────┐
 │ Block Prop │ │ Attestation│ │ Attestation│ ... ... ... │ Epoch Check│ ──► Casper FFG
@@ -127,7 +127,7 @@ contract SlashingGuard {
 
 ### Preventing High-Availability Double-Signing Bugs
 
-A common mistake made by inexperienced sysadmins is running two instances of the exact same validator key simultaneously on separate servers for redundancy. **This guarantees a double-signing slashing event** within minutes. 
+A common mistake made by inexperienced sysadmins is running two instances of the exact same validator key simultaneously on separate servers for redundancy. **This guarantees a double-signing slashing event** within minutes.
 
 To achieve high availability safely:
 - Use **Active-Passive Remote Signers** with centralized DB lock mechanisms.
@@ -141,7 +141,7 @@ Distributed Validator Technology (DVT) splits a single validator's BLS signing k
 
 ```
                         DISTRIBUTED VALIDATOR (DVT) CLUSTER
-                        
+
                      ┌──► [DVT Node 1 (Operator A)] ──┐
                      │                                │
  [Validator Key] ────┼──► [DVT Node 2 (Operator B)] ──┼──► (3-of-4 Threshold Signature)
@@ -190,7 +190,7 @@ Understanding validator financial models requires evaluating hardware OpEx again
 
 ```
                          STAKING INFRASTRUCTURE TAXONOMY
-                         
+
  Staking Model            Capital Requirement    Hardware Management     Yield Profile
 ──────────────────────────────────────────────────────────────────────────────────────────
  Solo Staking             32 ETH                 Self-Hosted Dedicated Server Full Yield (Zero Fees)
@@ -223,7 +223,7 @@ A critical security responsibility for validator operators is maintaining client
 
 ```
                     ETHEREUM CONSENSUS CLIENT STAKE DISTRIBUTION
-                    
+
  Client Name         Ideal Stake Ceiling    Current Market Share     Risk Profile
 ──────────────────────────────────────────────────────────────────────────────────────────
  Prysm               < 33%                  ~38%                     High Concentration
@@ -327,7 +327,7 @@ Institutional investors choose between self-hosted bare-metal validators and man
 
 ```
                         STAKING INFRASTRUCTURE COST ANALYSIS
-                        
+
  Model                 Hardware / Cloud Fee     Management Overhead     Commission Fee
 ──────────────────────────────────────────────────────────────────────────────────────────
  Bare-Metal (Self)     ~$150 / mo per server    High (Full DevOps)      0%
@@ -363,7 +363,7 @@ As institutional capital flows into proof-of-stake assets, specialized roles in 
 
 ```
                           CAREER PROGRESSION ROADMAP
-                          
+
  [Systems Administrator / DevOps]
            │
            ▼

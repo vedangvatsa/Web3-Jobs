@@ -9,6 +9,7 @@ data-ai-hint: man glasses
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Introduction: The Mind Behind Ethereum
 
 Vitalik Buterin stands as a key figure in the [Web3](/what-is-web3) field. As the primary architect of [Ethereum](/what-is-ethereum), he envisioned a [blockchain](/what-is-a-blockchain) capable of executing more than mere financial transactions. His idea of a "world computer" serves as a decentralized, programmable platform for applications ranging from finance to social media, all functioning without a central authority.
@@ -85,9 +86,9 @@ Vitalik has emerged as a notable critic of simplistic "1 [token](/what-is-a-toke
 
 **New Governance Models:**
 
-- **-** Futarchy:**This model allows individuals to vote on values (what they wish to achieve), while markets determine the most effective means to achieve those objectives.
-- **Quadratic Voting/Funding:** These mechanisms assign greater weight to the number of supporters for an idea rather than the capital they possess. This approach aims to better fund public goods that enjoy broad but shallow backing.
-- **Proof of Personhood/Humanity:** This concept seeks to ensure that each unique individual has a single voice, preventing one person from creating multiple wallets to exert disproportionate influence (a Sybil attack).
+- **-** Futarchy:This model allows individuals to vote on values (what they wish to achieve), while markets determine the most effective means to achieve those objectives.
+- Quadratic Voting/Funding: These mechanisms assign greater weight to the number of supporters for an idea rather than the capital they possess. This approach aims to better fund public goods that enjoy broad but shallow backing.
+- Proof of Personhood/Humanity: This concept seeks to ensure that each unique individual has a single voice, preventing one person from creating multiple wallets to exert disproportionate influence (a Sybil attack).
 
 ### Soulbound Tokens (SBTs)
 

@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A [DAO](/what-is-a-dao) is an organization whose rules and treasury live in [smart contracts](/what-are-smart-contracts) on a public [blockchain](/what-is-a-blockchain). Members propose and vote on how to spend funds, and the code executes the result. Contributing to a DAO and getting paid means doing useful work for that organization - writing, design, community support, analytics, development, or governance - and receiving compensation from its on-chain treasury, usually in stablecoins like USDC or in the DAO's governance [token](/what-is-a-token).
 
 This guide explains who this work fits, how the payment mechanics actually work, the trade-offs, and the specific steps to go from newcomer to paid contributor without hype.
@@ -24,15 +25,21 @@ Safe documents this threshold model at docs.safe.global. A Safe stores a list of
 
 There are three common payment rails:
 
-- **Bounties.
+-
 
-**One-off tasks with a fixed price. Example: write a tutorial for $300 in USDC, fix a frontend bug for $800, design a banner for $150.
-- **Grants.
+### Bounties
 
-**Larger scoped work approved by governance vote. Example: produce three months of risk research for $8,000. You post a forum proposal, it goes to a Snapshot signal vote, then to an on-chain vote if required, then to payout via Safe or timelock.
-- **Stipends and ongoing roles.
+One-off tasks with a fixed price. Example: write a tutorial for $300 in USDC, fix a frontend bug for $800, design a banner for $150.
+-
 
-**Working groups or guilds (marketing, treasury, community) pay monthly stipends for steady work. Many full-time roles are hired through a foundation or service provider that the DAO funds, for example the Uniswap Foundation for Uniswap. Check the DAO's forum for which contributors are funded this way.
+### Grants
+
+Larger scoped work approved by governance vote. Example: produce three months of risk research for $8,000. You post a forum proposal, it goes to a Snapshot signal vote, then to an on-chain vote if required, then to payout via Safe or timelock.
+-
+
+### Stipends and ongoing roles
+
+Working groups or guilds (marketing, treasury, community) pay monthly stipends for steady work. Many full-time roles are hired through a foundation or service provider that the DAO funds, for example the Uniswap Foundation for Uniswap. Check the DAO's forum for which contributors are funded this way.
 
 You do not need to be a developer. DAOs pay for non-technical work that moves the protocol forward, but you do need a wallet, the ability to receive on-chain payments, and a public record of what you delivered.
 
@@ -72,21 +79,31 @@ For small bounties, many DAOs skip the full vote. A working group with a quarter
 
 ### Where paid work is posted
 
-- **Dework.
+-
 
-**The most used task board for DAOs. Find it at app.dework.xyz and app.dework.xyz/bounties. DAOs create tasks, contributors apply with a wallet profile, and payment is done via Gnosis Safe batch transactions in the DAO's chosen token. Dework's docs describe wallet-based onboarding via MetaMask, Safe, WalletConnect, Phantom, no email or KYC by default, and built-in Discord and GitHub sync. The global bounty board surfaces open bounties across hundreds of DAOs.
-- **Layer3.
+### Dework
 
-**Task and quest platform at layer3.xyz for ecosystem bounties that often pay in tokens or XP. Useful for learning a protocol while earning a small amount.
-- **Discord and Notion.
+The most used task board for DAOs. Find it at app.dework.xyz and app.dework.xyz/bounties. DAOs create tasks, contributors apply with a wallet profile, and payment is done via Gnosis Safe batch transactions in the DAO's chosen token. Dework's docs describe wallet-based onboarding via MetaMask, Safe, WalletConnect, Phantom, no email or KYC by default, and built-in Discord and GitHub sync. The global bounty board surfaces open bounties across hundreds of DAOs.
+-
 
-**Most DAOs run a #bounties or #contributors channel and a public Notion board. BanklessDAO and Gitcoin have long used this pattern.
-- **Coordinape.
+### Layer3
 
-**Used for contributor circles where peers allocate rewards after a period of work.
-- **Governance forums.
+Task and quest platform at layer3.xyz for ecosystem bounties that often pay in tokens or XP. Useful for learning a protocol while earning a small amount.
+-
 
-**A forum post that proposes a solution to a stated problem is often the best way to create a paid grant, more so than waiting for a listed bounty.
+### Discord and Notion
+
+Most DAOs run a #bounties or #contributors channel and a public Notion board. BanklessDAO and Gitcoin have long used this pattern.
+-
+
+### Coordinape
+
+Used for contributor circles where peers allocate rewards after a period of work.
+-
+
+### Governance forums
+
+A forum post that proposes a solution to a stated problem is often the best way to create a paid grant, more so than waiting for a listed bounty.
 
 Tally was the main dashboard for on-chain proposals at tally.xyz and vote.uniswapfoundation.org. It announced it would wind down operations on March 17 2026, as covered by CoinDesk and confirmed in Tally's own shutdown post. ScopeLift agreed to take over operation of the platform on March 31 2026 and to keep it live during a transition and rebrand, with tally.xyz redirecting to a new domain. For current on-chain votes, check the DAO's governance docs. As of 2026, Uniswap and other large protocols point to Agora (vote.uniswapfoundation.org) for on-chain votes, while Snapshot remains the venue for off-chain signal votes and Realms at realms.today serves Solana DAOs.
 
@@ -94,15 +111,21 @@ Tally was the main dashboard for on-chain proposals at tally.xyz and vote.uniswa
 
 You do not need to buy a token to help, but voting and some paid roles do require it:
 
-- **Token-based.
+-
 
-**You buy or earn the governance token and can vote. Used by Uniswap (UNI), Sky (SKY, converted from MKR at 1:24,000), Aave (AAVE). MakerDAO rebranded to Sky on Aug 27 2024, with MKR upgradeable to SKY at 1:24,000 and DAI to USDS at 1:1, rolling out Sept 18 2024, as reported by The Block and documented in Sky's converter docs at 0xA1Ea1bA18E88C381C724a75F23a130420C403f9a. A delayed upgrade penalty that reduces SKY received per MKR took effect in Sept 2025.
-- **Share-based.
+### Token-based
 
-**You submit a join proposal and receive shares. This is the Moloch model used on DAOhaus. If you leave, you can ragequit with your pro-rata share of the treasury.
-- **Reputation-based.
+You buy or earn the governance token and can vote. Used by Uniswap (UNI), Sky (SKY, converted from MKR at 1:24,000), Aave (AAVE). MakerDAO rebranded to Sky on Aug 27 2024, with MKR upgradeable to SKY at 1:24,000 and DAI to USDS at 1:1, rolling out Sept 18 2024, as reported by The Block and documented in Sky's converter docs at 0xA1Ea1bA18E88C381C724a75F23a130420C403f9a. A delayed upgrade penalty that reduces SKY received per MKR took effect in Sept 2025.
+-
 
-**Non-transferable points earned by contributions, not purchase. Used where buying influence would be harmful, such as Colony's reputation system.
+### Share-based
+
+You submit a join proposal and receive shares. This is the Moloch model used on DAOhaus. If you leave, you can ragequit with your pro-rata share of the treasury.
+-
+
+### Reputation-based
+
+Non-transferable points earned by contributions, not purchase. Used where buying influence would be harmful, such as Colony's reputation system.
 
 All three can use Snapshot for gasless signaling and Safe for custody. Your wallet address is your identity in these systems, so keep one address for DAO work and keep its history clean.
 
@@ -120,32 +143,42 @@ This work has real benefits and real limits. Weigh both before you start.**What 
 
 - **-** Open entry.
 
-**You can contribute without an interview by posting work that is useful. Forum summaries, support answers, and small fixes are often valued more than a resume.
-- **Global and remote.
+You can contribute without an interview by posting work that is useful. Forum summaries, support answers, and small fixes are often valued more than a resume.
+- Global and remote.
 
-**DAOs pay to a wallet on any chain. No visa or location check. Reviews are based on output visible to anyone.
-- **Direct tie to protocol success.
+DAOs pay to a wallet on any chain. No visa or location check. Reviews are based on output visible to anyone.
+- Direct tie to protocol success.
 
-**If you are paid partly in governance tokens and the protocol grows, that allocation can appreciate. Many grants include a token component for that reason.
-- **Low setup cost to start.
+If you are paid partly in governance tokens and the protocol grows, that allocation can appreciate. Many grants include a token component for that reason.
+- Low setup cost to start.
 
-**As of mid-2026, DAOTimes' guide to creating a DAO lists: Snapshot is free and gasless and takes about 30 minutes, Realms on Solana costs cents, DAOhaus and Aragon typically cost $30 to $200 in gas on an L2 or mainnet depending on congestion and take 1 to 2 hours, and custom Governor contracts cost $20,000 to $100,000+ and take 2 to 6 months. That makes it cheap to experiment with a community-run treasury, but audits ($15,000 to $50,000) and a legal wrapper ($250 to $25,000) are extra if you hold real funds.** Where it struggles:**
+**As of mid-2026, DAOTimes' guide to creating a DAO lists: Snapshot is free and gasless and takes about 30 minutes, Realms on Solana costs cents, DAOhaus and Aragon typically cost $30 to $200 in gas on an L2 or mainnet depending on congestion and take 1 to 2 hours, and custom Governor contracts cost $20,000 to $100,000+ and take 2 to 6 months. That makes it cheap to experiment with a community-run treasury, but audits ($15,000 to $50,000) and a legal wrapper ($250 to $25,000) are extra if you hold real funds.** Where it struggles:
 
-- **-** Irregular pay and token volatility.
+- -
 
-**Bounty income varies month to month. If you are paid in a DAO token, that token can fall sharply between assignment and payout. Consider asking for a stablecoin base and converting a portion promptly.
-- **Voter apathy and concentration.
+### Irregular pay and token volatility
 
-**Turnout is often low and power is concentrated. That is why your thoughtful forum post can matter more than your token weight, and why delegation research on Agora or Snapshot is worth doing before you align with a DAO.
-- **Slow or inconsistent process.
+Bounty income varies month to month. If you are paid in a DAO token, that token can fall sharply between assignment and payout. Consider asking for a stablecoin base and converting a portion promptly.
+-
 
-**A full governance cycle is typically 14 to 30 days including forum, Snapshot, on-chain vote and timelock. Bounties within a working group are faster, but dispute resolution is per DAO, not platform arbitrated.
-- **Security and reversibility risk.
+### Voter apathy and concentration
 
-**On-chain votes and transfers are public and hard to undo. Bugs can be costly. In June 2016 The DAO was exploited via a reentrancy bug in its split function. About 3.6M ETH moved to a child DAO subject to a 28-day hold. The community executed a hard fork at block 1,920,000 on July 20 2016 that moved about 12M ETH to a recovery contract. The original chain continued as Ethereum Classic. The event is documented in the Ethereum Foundation blog, in EIP-779, and in the clients' code. Modern DAOs use audits, bug bounties, and timelocks to reduce this, but risk remains.
-- **Legal and tax ambiguity.
+Turnout is often low and power is concentrated. That is why your thoughtful forum post can matter more than your token weight, and why delegation research on Agora or Snapshot is worth doing before you align with a DAO.
+-
 
-**Wyoming recognized DAO LLCs on July 1 2021 under SF0038 (SEA No. 0073, Chapter 162), which supplements the Wyoming Limited Liability Company Act. The act requires the name include DAO, LAO or DAO LLC and allows management via smart contracts, with details at wyoleg.gov and sos.wyo.gov. Only a handful of states have similar statutes. Most large DAOs use a foundation wrapper to sign contracts and handle taxes. You are responsible for reporting income in your jurisdiction, and foundation vs direct DAO payment changes the paperwork.
+### Slow or inconsistent process
+
+A full governance cycle is typically 14 to 30 days including forum, Snapshot, on-chain vote and timelock. Bounties within a working group are faster, but dispute resolution is per DAO, not platform arbitrated.
+-
+
+### Security and reversibility risk
+
+On-chain votes and transfers are public and hard to undo. Bugs can be costly. In June 2016 The DAO was exploited via a reentrancy bug in its split function. About 3.6M ETH moved to a child DAO subject to a 28-day hold. The community executed a hard fork at block 1,920,000 on July 20 2016 that moved about 12M ETH to a recovery contract. The original chain continued as Ethereum Classic. The event is documented in the Ethereum Foundation blog, in EIP-779, and in the clients' code. Modern DAOs use audits, bug bounties, and timelocks to reduce this, but risk remains.
+-
+
+### Legal and tax ambiguity
+
+Wyoming recognized DAO LLCs on July 1 2021 under SF0038 (SEA No. 0073, Chapter 162), which supplements the Wyoming Limited Liability Company Act. The act requires the name include DAO, LAO or DAO LLC and allows management via smart contracts, with details at wyoleg.gov and sos.wyo.gov. Only a handful of states have similar statutes. Most large DAOs use a foundation wrapper to sign contracts and handle taxes. You are responsible for reporting income in your jurisdiction, and foundation vs direct DAO payment changes the paperwork.
 
 ## How to get started
 
@@ -172,15 +205,21 @@ By the end of this period you should be able to explain the DAO's last three vot
 
 Your first proof of work should be small, useful, and completable in a few hours.
 
-- **The scribe.
+-
 
-**Publish a clear summary of a community call in Discord and on the forum. Include timestamps, decisions, and links to proposals mentioned. Core contributors often lack time for this, so it fills a real gap.
-- **The helper.
+### The scribe
 
-**Answer five newcomer questions in #general or #support with links to docs, not just opinions. Track which docs were missing or confusing and note that.
-- **The analyst.
+Publish a clear summary of a community call in Discord and on the forum. Include timestamps, decisions, and links to proposals mentioned. Core contributors often lack time for this, so it fills a real gap.
+-
 
-**Post a short, data-backed comment on an active proposal. Reference prior votes, Dune data, or specific forum replies. Avoid voting without rationale. Show your reasoning.
+### The helper
+
+Answer five newcomer questions in #general or #support with links to docs, not just opinions. Track which docs were missing or confusing and note that.
+-
+
+### The analyst
+
+Post a short, data-backed comment on an active proposal. Reference prior votes, Dune data, or specific forum replies. Avoid voting without rationale. Show your reasoning.
 
 Post each contribution with your wallet-linked profile and keep a simple portfolio doc: link, date, outcome, feedback received.
 
@@ -198,15 +237,19 @@ Third-party commentary compiled in 2026 puts typical small DAO bounties at $50 t
 
 Consistent bounties build trust. Next steps are larger scoped work.
 
-- **Join a guild.
+-
 
-**Many DAOs have semi-formal groups for marketing, treasury, or community. They often receive a quarterly budget via governance and pay stipends from their own Safe. Attend their calls, ask where help is needed, and reference your completed bounties.
-- **Write a grant proposal.
+### Join a guild
 
-**If you see a problem worth a few months of work, draft a forum post with scope, milestones, cost, and success metrics. Example structure: problem statement, proposed solution, three milestones with dates, budget in stablecoins, and how to verify completion on-chain or via Dune. Post as RFC, gather feedback for at least 7 days, then move to Snapshot if the community asks for a signal vote.
-- **Build a delegation or analyst track if you enjoy governance.
+Many DAOs have semi-formal groups for marketing, treasury, or community. They often receive a quarterly budget via governance and pay stipends from their own Safe. Attend their calls, ask where help is needed, and reference your completed bounties.
+-
 
-**Delegate programs exist in ENS, Optimism, and Sky. Publish a delegate platform that states how you will vote and share reasoning after each vote. On-chain analysis with Dune or Agora helps you assess participation, delegation networks, and quorum health.
+### Write a grant proposal
+
+If you see a problem worth a few months of work, draft a forum post with scope, milestones, cost, and success metrics. Example structure: problem statement, proposed solution, three milestones with dates, budget in stablecoins, and how to verify completion on-chain or via Dune. Post as RFC, gather feedback for at least 7 days, then move to Snapshot if the community asks for a signal vote.
+- Build a delegation or analyst track if you enjoy governance.
+
+Delegate programs exist in ENS, Optimism, and Sky. Publish a delegate platform that states how you will vote and share reasoning after each vote. On-chain analysis with Dune or Agora helps you assess participation, delegation networks, and quorum health.
 
 Avoid asking for full-time early. Show three to five completed paid tasks first. Hiring managers in DAOs check public work, not resumes, and they often fund a short paid trial for important roles.
 

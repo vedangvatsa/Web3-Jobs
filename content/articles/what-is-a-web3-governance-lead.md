@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 As Decentralized Autonomous Organizations (DAOs) evolve from informal groups into complex entities managing significant value, the role of the **Web3 Governance Lead** has become increasingly essential. Unlike traditional executive roles, the Governance Lead does not dictate decisions from the top. Instead, they act as facilitators, designers of processes, and diplomats within the community.
 
 The primary responsibility of a Governance Lead is to ensure that the DAO's decision-making process remains efficient and equitable. They serve as custodians of governance, enabling the community of token holders to guide the protocol's direction effectively. This role demands a unique combination of skills in project management, communication, political science, and community psychology.
@@ -26,9 +27,11 @@ Decision-making in a leaderless organization with thousands of pseudonymous stak
 
 The Governance Lead's role is to design and manage systems that address these challenges.
 
-### Key Responsibilities of a Governance Lead**1. Designing and Managing the Governance Framework
+### Key Responsibilities of a Governance Lead
 
-**The Governance Lead serves as the architect of the decision-making process.
+### 1. Designing and Managing the Governance Framework
+
+The Governance Lead serves as the architect of the decision-making process.
 
 - **Proposal Lifecycle:** They establish a clear, multi-stage lifecycle for proposals:
  1.
@@ -43,20 +46,26 @@ The Governance Lead's role is to design and manage systems that address these ch
  4.
 
 **On-Chain Vote:** If the temperature check is successful, the proposal proceeds to a binding on-chain vote.
-- **Tooling Management:** The Governance Lead oversees the governance tools, including the Discourse forum, Snapshot page, and on-chain voting platforms.**2. Enabling Governance Processes
+- **Tooling Management:** The Governance Lead oversees the governance tools, including the Discourse forum, Snapshot page, and on-chain voting platforms.
 
-**The Governance Lead actively enables rather than passively observes.
+### 2. Enabling Governance Processes
+
+The Governance Lead actively enables rather than passively observes.
 
 - **Moderating Forums:** They ensure productive and respectful discussions on governance forums.
 - **Organizing Governance Calls:** Regular community calls are scheduled and hosted to discuss active proposals, allowing real-time debate and clarification.
-- **Summarizing and Communicating:** They synthesize complex debates into clear summaries for the broader community, ensuring that all token holders remain well-informed.**3. Supporting Delegates and Voters
+- **Summarizing and Communicating:** They synthesize complex debates into clear summaries for the broader community, ensuring that all token holders remain well-informed.
 
-**Increasing participation and enhancing decision-making quality are important components of the role.
+### 3. Supporting Delegates and Voters
+
+Increasing participation and enhancing decision-making quality are important components of the role.
 
 - **Voter Education:** The Governance Lead creates guides and resources to help token holders understand the issues at stake in specific votes.
-- **Delegate Programs:** They often implement delegate programs, enabling token holders to delegate their voting power to trusted community members with a strong grasp of the protocol. The Governance Lead identifies and supports these delegates.**4. Liaising with the Core Development Team
+- **Delegate Programs:** They often implement delegate programs, enabling token holders to delegate their voting power to trusted community members with a strong grasp of the protocol. The Governance Lead identifies and supports these delegates.
 
-**The Governance Lead serves as a vital connection between the decentralized community and the core development team.
+### 4. Liaising with the Core Development Team
+
+The Governance Lead serves as a vital connection between the decentralized community and the core development team.
 
 - **Translating Community Sentiment:** They articulate the community's will to the development team.
 - **Explaining Technical Constraints:** The Governance Lead communicates the technical feasibility and trade-offs of community proposals back to the community.

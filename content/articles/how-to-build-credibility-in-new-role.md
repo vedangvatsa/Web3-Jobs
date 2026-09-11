@@ -21,15 +21,6 @@ In traditional centralized corporate environments, credibility is often conferre
 
 To build authority in a new Web3 position, one must understand how trust dynamics differ between Web2 corporate structures and Web3 decentralized protocols.
 
-```
-+-------------------------------------------------------------------+
-|               Traditional Corporate Trust vs Web3 Trust           |
-+-------------------------------------------------------------------+
-| Traditional: Org chart authority, office presence, manager review |
-| Web3: Verified GitHub PRs, async communication, public code audit  |
-| Primary Currency: Formal title vs On-Chain Technical Delivery     |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Asynchronous Communication Over Physical Presence
 
@@ -45,15 +36,6 @@ In Web3 software engineering, elite academic degrees and corporate brand names h
 
 Establishing credibility requires a structured, phased approach that balances initial learning with progressive technical ownership.
 
-```
-+-------------------------------------------------------------------+
-|                 The 30-60-90 Day Credibility Matrix               |
-+-------------------------------------------------------------------+
-| Days 1 to 30: System Auditing, Documentation & Quick Wins          |
-| Days 31 to 60: Feature Delivery, Rigorous Testing & Code Review   |
-| Days 61 to 90: Architectural Leadership & Security Ownership      |
-+-------------------------------------------------------------------+
-```
 
 ### Days 1 to 30: System Auditing, Listening, and Securing Quick Wins
 
@@ -85,16 +67,6 @@ By the third month, move from executing assigned tasks to proposing strategic sy
 
 Building technical authority in Web3 rests upon four core execution pillars: technical rigor, security discipline, radical transparency, and collaborative humility.
 
-```
-+-------------------------------------------------------------------+
-|             Four Pillars of Web3 Engineering Credibility         |
-+-------------------------------------------------------------------+
-| 1. Technical Rigor: Flawless gas optimization & test coverage     |
-| 2. Security Discipline: Defensive coding & audit readiness        |
-| 3. Radical Transparency: Public asynchronous status tracking     |
-| 4. Collaborative Humility: Receptive code reviews & mentoring     |
-+-------------------------------------------------------------------+
-```
 
 ### Pillar 1: Technical Rigor and Code Quality
 
@@ -130,16 +102,6 @@ Technical competence without emotional maturity creates friction and undermines 
 
 Avoiding reputation-damaging mistakes is just as important as executing positive strategies.
 
-```
-+-------------------------------------------------------------------+
-|               Credibility Anti-Patterns to Avoid                  |
-+-------------------------------------------------------------------+
-| 1. Over-Promising & Under-Delivering (Missing TGE Deadlines)     |
-| 2. Proposing Massive Refactors Before Understanding System Context|
-| 3. Silent Blocker Bottlenecks (Failing to Ask for Help Early)     |
-| 4. Defensive Responses to Peer Code Reviews & Security Audits     |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Over-Promising and Under-Delivering
 
@@ -200,16 +162,6 @@ To prevent potential donation attacks on the vault share calculation, implemente
 
 For team leads, engineering managers, and protocol founders, building an environment that empowers new hires to establish credibility quickly is essential for team retention and execution speed.
 
-```
-+-------------------------------------------------------------------+
-|               Management Credibility Facilitation Plan            |
-+-------------------------------------------------------------------+
-| 1. Provide Clear 30-60-90 Day Milestones & Expectations           |
-| 2. Assign a Dedicated Senior Technical Onboarding Buddy          |
-| 3. Create a Curated Backlog of "Good First Issues"                |
-| 4. Maintain Up-to-Date Architecture Diagrams & Setup Guides       |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Assign a Dedicated Onboarding Buddy
 

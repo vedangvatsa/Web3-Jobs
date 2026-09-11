@@ -9,6 +9,7 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Solana, a high-speed Layer 1 [blockchain](/what-is-a-blockchain), has established itself as a significant player in the [Web3](/what-is-web3) ecosystem. Known for its rapid transactions and low fees, it has drawn a active community of builders focused on [DeFi](/what-is-defi), [NFTs](/what-are-nfts), and payment solutions. Recent data reveals a troubling trend: a notable and sustained decline in the number of active developers on the platform. Developer activity serves as an important indicator of ecosystem health and future innovation. This decline raises questions regarding the sustainability of Solana, often dubbed the "Ethereum killer."
 
 This analysis examines the data surrounding Solana's developer activity decline, identifies contributing factors such as technical challenges and market shifts, and discusses the implications for the long-term viability of the Solana ecosystem.
@@ -38,19 +39,25 @@ The decline manifests not only in the total number of developers but also in ret
 
 Several interconnected factors contribute to this decline, including technical, economic, and narrative elements.
 
-**1. The FTX Contagion and its Long Shadow
 
-**The implosion of the FTX exchange and its affiliated trading firm, Alameda Research, in late 2022 significantly impacted the Solana ecosystem.
+
+### 1. The FTX Contagion and its Long Shadow
+
+The implosion of the FTX exchange and its affiliated trading firm, Alameda Research, in late 2022 significantly impacted the Solana ecosystem.
 
 - **Financial and Psychological Blow:** FTX and Alameda were integral builders and market makers within Solana. Their collapse resulted in numerous Solana-based projects losing their treasuries, leading to a crisis of confidence among developers and investors alike.
-- **Loss of a Key Champion:** Sam Bankman-Fried was a prominent advocate for Solana. His downfall created a void in leadership and narrative, leaving the ecosystem struggling to find a new champion.**2. Technical and Network Stability Issues
+- **Loss of a Key Champion:** Sam Bankman-Fried was a prominent advocate for Solana. His downfall created a void in leadership and narrative, leaving the ecosystem struggling to find a new champion.
 
-**Solana's architecture prioritizes high performance but introduces complexities that have led to network outages and performance degradation.
+### 2. Technical and Network Stability Issues
+
+Solana's architecture prioritizes high performance but introduces complexities that have led to network outages and performance degradation.
 
 - **Impact on Developer Confidence:** Developers building applications that require high reliability, particularly in DeFi, view outages as a deterrent. Concerns about the network's stability during volatile periods push developers toward more established platforms like Ethereum.
-- **Tooling and Documentation Gaps:** While improvements are underway, Solana's developer tools and documentation have historically lagged behind Ethereum's. This gap creates a steeper learning curve and can frustrate new developers.**3. The Rise of Ethereum's Layer 2 Ecosystem
+- **Tooling and Documentation Gaps:** While improvements are underway, Solana's developer tools and documentation have historically lagged behind Ethereum's. This gap creates a steeper learning curve and can frustrate new developers.
 
-**The rapid expansion of Ethereum's Layer 2 scaling solutions, including Arbitrum, Optimism, and various ZK-rollups, plays an important role in this decline.
+### 3. The Rise of Ethereum's Layer 2 Ecosystem
+
+The rapid expansion of Ethereum's Layer 2 scaling solutions, including Arbitrum, Optimism, and various ZK-rollups, plays an important role in this decline.
 
 - **The "Best of Both Worlds" Narrative:** Layer 2 solutions provide fast, low-cost transactions while benefiting from Ethereum's security and decentralization. This poses a direct challenge to Solana's value proposition.
 - **EVM Compatibility:** Many major Layer 2s are EVM-compatible, enabling developers to use familiar tools and languages like [Solidity](/best-programming-languages-for-blockchain-development). For developers rooted in the Ethereum ecosystem, transitioning to an EVM-compatible Layer 2 offers a smoother learning curve than adapting to Solana's Rust language and unique architecture.**4. The [Programming Language](/best-programming-languages-for-blockchain-development) Barrier (Rust)** Solana's primary programming language is Rust, known for its security. However, it poses a steep learning curve compared to Solidity, discouraging many developers who lack systems-level programming experience from engaging with Solana.

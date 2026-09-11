@@ -12,6 +12,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A supply chain blockchain is a shared, append-only ledger that records where a product has been, who handled it, and what happened to it at each step. Instead of each company keeping a separate database, participants write standardized events to one ledger that no single party can rewrite. That record is then used to prove provenance, speed recalls, and automate payments when conditions are met.
 
 It does not replace scanners, ERPs, or trucks. It gives those systems a common place to agree on history.
@@ -28,15 +29,19 @@ In both models the ledger stores proofs and state changes. Large files, images, 
 
 ## Who it is for
 
-**Operators who move or sell physical goods.
+Operators who move or sell physical goods.
 
-**That includes farmers, manufacturers, logistics providers, cold chain operators, customs brokers, distributors, and retailers who need to answer where a lot came from and where it is now. If you handle recalls, audits, or sustainability claims, this is your primary use case.** Enterprise teams who integrate ERPs and WMS.
+That includes farmers, manufacturers, logistics providers, cold chain operators, customs brokers, distributors, and retailers who need to answer where a lot came from and where it is now. If you handle recalls, audits, or sustainability claims, this is your primary use case. Enterprise teams who integrate ERPs and WMS.
 
-**You already run SAP, Oracle, or Manhattan. You need to publish shipment, receipt, and transformation events without rebuilding those systems. GS1 identifiers and EPCIS messages are how you keep the integration stable.** Builders of supply chain applications.
+You already run SAP, Oracle, or Manhattan. You need to publish shipment, receipt, and transformation events without rebuilding those systems. GS1 identifiers and EPCIS messages are how you keep the integration stable.
 
-**Protocol developers write ledger logic and connect IoT devices. Product managers build dashboards that read ledger events and present inventory or compliance views. Web3 logistics consultants guide pilots and measure whether the ledger saves time or cost.** Career switchers with logistics background.
+### Builders of supply chain applications
 
-**You bring domain knowledge about bills of lading, GTINs, SSCCs, and warehouse processes. You add basic smart contract and data standards skill to design pilots that reflect how the warehouse actually works.
+Protocol developers write ledger logic and connect IoT devices. Product managers build dashboards that read ledger events and present inventory or compliance views. Web3 logistics consultants guide pilots and measure whether the ledger saves time or cost.
+
+### Career switchers with logistics background
+
+You bring domain knowledge about bills of lading, GTINs, SSCCs, and warehouse processes. You add basic smart contract and data standards skill to design pilots that reflect how the warehouse actually works.
 
 If you never touch a physical handover, you can use the concepts without running a node. If you are responsible for provenance or recall speed, the sections below affect architecture and vendor choice.
 
@@ -153,11 +158,11 @@ A supply chain example is the Supplier Compliance Audit Network, known as SCAN, 
 **Tradeoff summary**
 
 | Choice | Gain | Cost |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Permissioned ledger such as Hyperledger Fabric | Privacy via channels, pluggable consensus, no token mining, control over members | Smaller network, must recruit members, you run peers and ordering |
@@ -193,9 +198,11 @@ Prerequisites are basic smart contract skill plus GS1 and EDI comfort. You will 
 * **Supply chain protocol developer.** You build Fabric chaincode or EVM contracts for shipments, handle EPCIS parsing, and wire IoT data through oracles. You need Go, Node.js, or Solidity, plus GS1 identifiers and event modeling.
 * **Web3 logistics consultant.** You map as-is processes, design the EPCIS to ledger mapping, and run pilots with a few suppliers. You need change management skill and a way to measure recall or dwell time improvement.
 * **Product manager with supply chain focus.** You own the dashboard that reads on-chain events and displays lot genealogy, sensor alerts, and exception workflows. You need to translate endorsement and privacy rules into clear UX.
-* **Analyst for compliance and provenance.
+*
 
-**You review chain data against certificates, country of origin claims, and audit records, and flag mismatches. You need to know how to query an EPCIS repository and how to read a ledger proof without assuming the source data was correct.
+### Analyst for compliance and provenance
+
+You review chain data against certificates, country of origin claims, and audit records, and flag mismatches. You need to know how to query an EPCIS repository and how to read a ledger proof without assuming the source data was correct.
 
 ## FAQ
 

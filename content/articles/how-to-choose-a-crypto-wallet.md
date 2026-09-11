@@ -10,6 +10,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A crypto wallet does not hold coins the way a leather wallet holds cash. Coins and tokens stay on the blockchain. The wallet holds your private keys and lets you sign transactions, prove ownership, and connect to apps. If you plan to hold crypto, use [DeFi](/what-is-defi), collect [NFTs](/what-are-nfts), or join a [DAO](/what-is-a-dao), you need a wallet that matches how you will actually use the chain.
 
 This guide explains how wallets work, who each type fits, and how to pick a setup you can keep secure over time. It covers custodial vs non-custodial control, hot vs cold connectivity, specific products you can verify today, and a simple two-wallet pattern most people use.
@@ -33,21 +34,31 @@ If you only buy once and never interact with apps, needs are different from some
 
 ## How wallets work
 
-1. **Key generation.
+1.
 
-**When you create a wallet, the device or app generates random entropy and turns it into a seed phrase. Hardware signers like Ledger and Trezor do this on the device, offline. Ledger's Secure Element uses a true random number generator on chip. Trezor Safe devices generate entropy on device and show the backup on the device screen.
-2. **Key storage.
+### Key generation
 
-**The wallet stores the private keys in software or in a secure chip. MetaMask, Phantom, Trust Wallet, and other hot wallets keep keys on the same phone or computer that browses the web. Hardware signers keep keys in an isolated Secure Element chip that never exposes the key to the computer.
-3. **Address derivation.
+When you create a wallet, the device or app generates random entropy and turns it into a seed phrase. Hardware signers like Ledger and Trezor do this on the device, offline. Ledger's Secure Element uses a true random number generator on chip. Trezor Safe devices generate entropy on device and show the backup on the device screen.
+2.
 
-**The wallet derives addresses for each network from the same seed. One seed can control Bitcoin, Ethereum, Solana, and others, each under its own path.
-4. **Signing.
+### Key storage
 
-**To send funds or approve a token, you create a transaction on the computer or phone, the wallet shows the details for review, and you approve. With a hardware signer the approve step and the signing happen on the device itself. The signed transaction then goes back to the computer to be broadcast. The key itself does not touch the internet.
-5. **Recovery.
+The wallet stores the private keys in software or in a secure chip. MetaMask, Phantom, Trust Wallet, and other hot wallets keep keys on the same phone or computer that browses the web. Hardware signers keep keys in an isolated Secure Element chip that never exposes the key to the computer.
+3.
 
-**If the device is lost, you restore by entering the same 12, 20, or 24 words in order into a compatible wallet. Ledger devices use 24 words (BIP-39). Trezor Safe 3, Safe 5, and Safe 7 default to a 20-word single-share backup (SLIP-39) since June 2024, with 12-word and 24-word BIP-39 still available as an option in Trezor Suite. No company can reset it for you if you use non-custodial wallets. If you use a custodial wallet, recovery is through email, password reset, and identity checks with the provider.
+### Address derivation
+
+The wallet derives addresses for each network from the same seed. One seed can control Bitcoin, Ethereum, Solana, and others, each under its own path.
+4.
+
+### Signing
+
+To send funds or approve a token, you create a transaction on the computer or phone, the wallet shows the details for review, and you approve. With a hardware signer the approve step and the signing happen on the device itself. The signed transaction then goes back to the computer to be broadcast. The key itself does not touch the internet.
+5.
+
+### Recovery
+
+If the device is lost, you restore by entering the same 12, 20, or 24 words in order into a compatible wallet. Ledger devices use 24 words (BIP-39). Trezor Safe 3, Safe 5, and Safe 7 default to a 20-word single-share backup (SLIP-39) since June 2024, with 12-word and 24-word BIP-39 still available as an option in Trezor Suite. No company can reset it for you if you use non-custodial wallets. If you use a custodial wallet, recovery is through email, password reset, and identity checks with the provider.
 
 ## The two decisions that matter
 
@@ -55,9 +66,11 @@ Every wallet asks you to choose on two axes. Those choices decide security and c
 
 ### 1. Custodial vs non-custodial: who holds the keys
 
-**Custodial wallet.
 
-**A company holds the private keys. You log in with an email and password, similar to a bank. Examples are the default wallets on centralized exchanges such as Coinbase, Kraken, or Binance. The provider signs transactions on its servers.
+
+### Custodial wallet
+
+A company holds the private keys. You log in with an email and password, similar to a bank. Examples are the default wallets on centralized exchanges such as Coinbase, Kraken, or Binance. The provider signs transactions on its servers.
 
 Pros:
 - Familiar login and password reset. Support can help recover access.
@@ -67,9 +80,11 @@ Pros:
 Cons:
 - You hold a claim against the company, not direct on-chain control. The saying in crypto is "Not your keys, not your coins."
 - The provider can freeze accounts for legal, risk, or maintenance reasons.
-- You inherit the provider's security. If the exchange is breached, goes offline during volatility, or becomes insolvent, your access is at risk. Centralized failures have happened repeatedly in crypto history.**Non-custodial wallet.
+- You inherit the provider's security. If the exchange is breached, goes offline during volatility, or becomes insolvent, your access is at risk. Centralized failures have happened repeatedly in crypto history.
 
-**You hold the keys and the seed phrase. No third party can move funds without your signature. Examples are MetaMask, Phantom, Trust Wallet, Rabby, Ledger, and Trezor.
+### Non-custodial wallet
+
+You hold the keys and the seed phrase. No third party can move funds without your signature. Examples are MetaMask, Phantom, Trust Wallet, Rabby, Ledger, and Trezor.
 
 Pros:
 - You have direct control. No one can censor or freeze your on-chain funds.
@@ -84,9 +99,11 @@ For anyone who wants to use [Web3](/what-is-web3) apps directly, a non-custodial
 
 ### 2. Hot vs cold: is the key online
 
-**Hot wallet (software, always online).
 
-**Keys live on an internet-connected device.
+
+### Hot wallet (software, always online)
+
+Keys live on an internet-connected device.
 
 Types you will see:
 - Browser extensions: MetaMask, Rabby, Phantom. Since 2016 MetaMask has been the default for Ethereum and other EVM chains because most dApps support it first.
@@ -95,9 +112,11 @@ Types you will see:
 
 Best for small daily balances, trying new apps, claiming, swapping, and NFT mints. You open the app, connect, sign, and you are done.
 
-Risk: always online means malware, phishing sites, clipboard hijackers, and fake app stores can target the key. Screens on phones and laptops can be tampered with to show one transaction while signing another.**Cold wallet (offline key storage).
+Risk: always online means malware, phishing sites, clipboard hijackers, and fake app stores can target the key. Screens on phones and laptops can be tampered with to show one transaction while signing another.
 
-**Keys are generated and kept offline, and signing happens offline.
+### Cold wallet (offline key storage)
+
+Keys are generated and kept offline, and signing happens offline.
 
 Types you will see:
 - Hardware signers: Ledger Nano S Plus, Ledger Nano X, Ledger Nano Gen5, Ledger Flex, Ledger Stax, Trezor Safe 3, Trezor Safe 5, Trezor Safe 7, and others. These use a Secure Element chip with Common Criteria certification and a secure screen that shows what you are actually signing.
@@ -114,29 +133,33 @@ Verified hardware details you can check today:
 
 ### Other custody models to know
 
-- **Multi-signature (multisig).
+-
 
-**A shared wallet that needs M of N keys to sign, for example 2 of 3 or 3 of 5. Common for DAOs and team treasuries. Tooling includes Safe (formerly Gnosis Safe) on EVM chains at https://safe.global and https://app.safe.global. Safe is a smart contract wallet, assets live in the contract, and each approval is an on-chain signature until the threshold is met. Setup is chain-specific and on-chain approvals are visible.
-- **Multi-party computation (MPC).
+### Multi-signature (multisig)
 
-**The private key is split into shares that never combine in one place. Shares sign together off-chain, which is chain-agnostic and hides governance details off-chain. Used by many custodians and institutions in 2026 for treasury and payment flows. Standard retail wallets do not use MPC by default.
+A shared wallet that needs M of N keys to sign, for example 2 of 3 or 3 of 5. Common for DAOs and team treasuries. Tooling includes Safe (formerly Gnosis Safe) on EVM chains at https://safe.global and https://app.safe.global. Safe is a smart contract wallet, assets live in the contract, and each approval is an on-chain signature until the threshold is met. Setup is chain-specific and on-chain approvals are visible.
+-
+
+### Multi-party computation (MPC)
+
+The private key is split into shares that never combine in one place. Shares sign together off-chain, which is chain-agnostic and hides governance details off-chain. Used by many custodians and institutions in 2026 for treasury and payment flows. Standard retail wallets do not use MPC by default.
 
 For individuals, hardware signers or well-managed multisig are the practical cold-storage choices today. MPC matters more for teams and companies handling high volume across chains.
 
 ## At a glance
 
 | Wallet type | Connectivity | Who holds key | Security level | Cost | Best for |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Custodial exchange wallet | Hot | Company | Medium, depends on provider | Free to create, fees per trade | Beginners buying or trading often |
@@ -149,11 +172,11 @@ For individuals, hardware signers or well-managed multisig are the practical col
 | MPC | Hot with distributed shares | Distributed | High for institutions | Enterprise pricing | High-frequency treasury, chain-agnostic needs |
 
 | Feature | Custodial | Non-custodial |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Ownership of keys | Third party | You |
@@ -164,18 +187,26 @@ For individuals, hardware signers or well-managed multisig are the practical col
 
 ## Pros and cons summary
 
-**Custodial
 
-**Pros: easy onboarding, familiar recovery, less chance to mistype a seed.
-Cons: third-party risk, possible freezes, KYC linkage, provider as target.**Hot non-custodial
 
-**Pros: free, fast, broad dApp support, works on phone or browser.
-Cons: key exposed to internet, phishing risk, you manage every backup.**Cold hardware signer
+### Custodial
 
-**Pros: keys offline, certified secure chip, secure screen, works with hot interfaces via USB, Bluetooth, or NFC. Clear Signing can show human-readable intent on device when the dApp provides ERC-7730 descriptors.
-Cons: upfront cost, physical device to keep safe, a bit slower per transaction.**Paper
+Pros: easy onboarding, familiar recovery, less chance to mistype a seed.
+Cons: third-party risk, possible freezes, KYC linkage, provider as target.
 
-**Pros: offline and free.
+### Hot non-custodial
+
+Pros: free, fast, broad dApp support, works on phone or browser.
+Cons: key exposed to internet, phishing risk, you manage every backup.
+
+### Cold hardware signer
+
+Pros: keys offline, certified secure chip, secure screen, works with hot interfaces via USB, Bluetooth, or NFC. Clear Signing can show human-readable intent on device when the dApp provides ERC-7730 descriptors.
+Cons: upfront cost, physical device to keep safe, a bit slower per transaction.
+
+### Paper
+
+Pros: offline and free.
 Cons: fragile, hard to use, no app connectivity, easy to create insecurely if you generate the key while online.
 
 Note on Clear Signing: Ledger introduced Clear Signing to replace blind signing. It turns raw calldata into readable details on the secure screen using the ERC-7730 standard. In May 2026 governance of ERC-7730 moved to the Ethereum Foundation's One Trillion Dollar Security Initiative, with tooling at https://clearsigning.org and docs at https://developers.ledger.com/docs/clear-signing/overview and https://www.ledger.com/academy/topics/ledgersolutions/what-is-clear-signing. It works best inside Ledger Wallet where Ledger controls parsing. Outside Ledger Wallet it depends on dApps publishing correct ERC-7730 descriptors. Treat it as one layer among others, not a guarantee.
@@ -246,36 +277,52 @@ Do not move everything at once. Create the non-custodial wallet first, back up t
 
 ## Security practices that actually help
 
-- **Store the phrase offline, twice.
+-
 
-**Write two copies by hand or stamp on a metal plate rated for fire and water. Keep them in two separate secure places, such as a home safe and a bank safety deposit box. Never store the phrase in a photo, messenger app, password manager that syncs to cloud, or email draft. For metal backups, Trezor Keep Metal is built for 20-word SLIP-39, Cryptosteel and Billfodl cover 24-word BIP-39. First four letters uniquely identify each BIP-39 word, so stamping four letters per word is enough.
-- **Never type the phrase on a website.
+### Store the phrase offline, twice
 
-**No real support team will ask for it. Anyone who does is trying to steal funds.
-- **Consider a passphrase.
+Write two copies by hand or stamp on a metal plate rated for fire and water. Keep them in two separate secure places, such as a home safe and a bank safety deposit box. Never store the phrase in a photo, messenger app, password manager that syncs to cloud, or email draft. For metal backups, Trezor Keep Metal is built for 20-word SLIP-39, Cryptosteel and Billfodl cover 24-word BIP-39. First four letters uniquely identify each BIP-39 word, so stamping four letters per word is enough.
+- Never type the phrase on a website.
 
-**BIP-39 lets you add a 13th or 25th word of your choice that is not from the wordlist. It creates hidden wallets and adds protection if the paper is found. SLIP-39 also supports passphrases in Trezor Suite. If you use one, store it separately from the words. Lose it and the phrase alone will not restore the wallet.
-- **Consider Shamir Backup for larger holdings.
+No real support team will ask for it. Anyone who does is trying to steal funds.
+-
 
-**Trezor's SLIP-39 Multi-share lets you split the seed into up to 16 shares with a threshold (for example 2 of 3). Supported on Trezor Model T and Safe 3, 5, 7. Each share is 20 words (33 for 256-bit). Store shares in different locations. This removes a single point of failure but adds complexity. Single-share vs multi-share comparison at https://trezor.io/learn/advanced/standards-proposals/what-is-shamir-backup
-- **Use a strong device password and OS updates.
+### Consider a passphrase
 
-**Hot wallet security assumes the phone or laptop is patched and locked.
-- **Add 2FA on custodial accounts.
+BIP-39 lets you add a 13th or 25th word of your choice that is not from the wordlist. It creates hidden wallets and adds protection if the paper is found. SLIP-39 also supports passphrases in Trezor Suite. If you use one, store it separately from the words. Lose it and the phrase alone will not restore the wallet.
+-
 
-**Prefer authenticator apps or hardware keys over SMS where available. Ledger devices can also act as FIDO2 security keys via Ledger Security Key.
-- **Verify what you sign.
+### Consider Shamir Backup for larger holdings
 
-**Stop blind signing. On EVM chains, token approvals with "Permit" or "Approve unlimited" let apps spend without a new prompt. Use tools such as https://revoke.cash to review and revoke stale approvals. On Ledger, prefer Clear Signing when available and treat any blind-sign request as high risk.
-- **Keep a low-balance tester.
+Trezor's SLIP-39 Multi-share lets you split the seed into up to 16 shares with a threshold (for example 2 of 3). Supported on Trezor Model T and Safe 3, 5, 7. Each share is 20 words (33 for 256-bit). Store shares in different locations. This removes a single point of failure but adds complexity. Single-share vs multi-share comparison at https://trezor.io/learn/advanced/standards-proposals/what-is-shamir-backup
+- Use a strong device password and OS updates.
 
-**Try new mints, airdrops, and links with a separate wallet that holds little value. Keep vault addresses disconnected.
-- **Update only from official channels.
+Hot wallet security assumes the phone or laptop is patched and locked.
+-
 
-**Fake update popups and sideloaded extensions are a common trap. Bookmark official update pages: https://support.ledger.com and https://trezor.io/support
-- **Plan for inheritance or recovery.
+### Add 2FA on custodial accounts
 
-**Document where the backup is and how a trusted person can find it if needed, without leaving the phrase in plain email or cloud.
+Prefer authenticator apps or hardware keys over SMS where available. Ledger devices can also act as FIDO2 security keys via Ledger Security Key.
+-
+
+### Verify what you sign
+
+Stop blind signing. On EVM chains, token approvals with "Permit" or "Approve unlimited" let apps spend without a new prompt. Use tools such as https://revoke.cash to review and revoke stale approvals. On Ledger, prefer Clear Signing when available and treat any blind-sign request as high risk.
+-
+
+### Keep a low-balance tester
+
+Try new mints, airdrops, and links with a separate wallet that holds little value. Keep vault addresses disconnected.
+-
+
+### Update only from official channels
+
+Fake update popups and sideloaded extensions are a common trap. Bookmark official update pages: https://support.ledger.com and https://trezor.io/support
+-
+
+### Plan for inheritance or recovery
+
+Document where the backup is and how a trusted person can find it if needed, without leaving the phrase in plain email or cloud.
 
 Security checklist published by Ledger for 2026 is a practical reference: https://www.ledger.com/academy/topics/security/crypto-wallet-security-checklist-protect-crypto-with-ledger
 

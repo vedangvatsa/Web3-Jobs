@@ -10,6 +10,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Blockchain technology claims strong security, often described as "unhackable." While no system can claim absolute immunity to attacks, the public blockchain's architecture is designed for resilience and tamper resistance. Understanding the reasons behind this security is essential for grasping the technology's true value.
 
 ### Key Elements of Blockchain Security
@@ -32,7 +33,7 @@ Public blockchains operate on a decentralized model, meaning they are not stored
 
 For a block to be added to the blockchain, all nodes must agree on its validity, achieved through consensus mechanisms such as Proof-of-Work (PoW) or Proof-of-Stake (PoS).
 
-- **Security Mechanism (The 51% Attack):** To successfully add a fraudulent block or alter the blockchain's history, an attacker would need to control over 50% of the network's total power. 
+- **Security Mechanism (The 51% Attack):** To successfully add a fraudulent block or alter the blockchain's history, an attacker would need to control over 50% of the network's total power.
  - In PoW systems like Bitcoin, this would require surpassing the combined computational power of the entire network, costing significant resources in specialized hardware and electricity.
  - In PoS systems like [Ethereum](/what-is-ethereum), an attacker would need to acquire and stake more than 50% of the total cryptocurrency, also costing significant resources.
 

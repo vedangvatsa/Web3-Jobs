@@ -10,6 +10,7 @@ data-ai-hint: difficult conversation meeting
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Nobody becomes a manager because they love difficult conversations. But ignoring underperformance is one of the fastest ways to lose your best people - they see the problem, they know you see it, and your silence tells them you don't care enough to act.
 
 Here's how to handle it without being a jerk or a pushover.
@@ -18,21 +19,29 @@ Here's how to handle it without being a jerk or a pushover.
 
 Before you schedule a meeting, take a step back and diagnose the situation. Underperformance usually falls into one of three buckets:
 
-**Skill gap.
 
-**The person wants to do well but doesn't have the technical chops or experience. This is the easiest to fix - training, pairing, mentorship.** Motivation problem.
 
-**They have the skills but aren't applying them. Maybe the work is boring, maybe they feel overlooked, maybe they're burned out. This requires a different conversation entirely.** Personal circumstances.
+### Skill gap
 
-**Health issues, family problems, financial stress. You might not know about these, and the employee isn't obligated to share details. But you should at least open the door.
+The person wants to do well but doesn't have the technical chops or experience. This is the easiest to fix - training, pairing, mentorship.
+
+### Motivation problem
+
+They have the skills but aren't applying them. Maybe the work is boring, maybe they feel overlooked, maybe they're burned out. This requires a different conversation entirely.
+
+### Personal circumstances
+
+Health issues, family problems, financial stress. You might not know about these, and the employee isn't obligated to share details. But you should at least open the door.
 
 The fix for a skill gap is completely different from the fix for a motivation issue. If you treat every underperformance case the same way - throw a PIP at it and hope for the best - you'll lose people who could have been saved with the right support.
 
 ## Having the First Conversation
 
-The initial conversation matters more than anything that follows. Get it wrong and you'll either create an adversary or a person who shuts down completely.**Do it privately.
+The initial conversation matters more than anything that follows. Get it wrong and you'll either create an adversary or a person who shuts down completely.
 
-**Never in a group setting, never on a public Slack channel, never casually in passing.** Be specific.**"Your performance has been slipping" is useless. "You've missed the last three sprint deadlines, and two of those caused downstream delays for the QA team" gives the person something concrete to respond to.
+### Do it privately
+
+Never in a group setting, never on a public Slack channel, never casually in passing.**Be specific.**"Your performance has been slipping" is useless. "You've missed the last three sprint deadlines, and two of those caused downstream delays for the QA team" gives the person something concrete to respond to.
 
 **Don't ambush.** Give them a heads-up that you want to discuss their recent work. "Hey, I'd like to chat about how the last few weeks have gone - can we find 30 minutes tomorrow?" That's enough.
 

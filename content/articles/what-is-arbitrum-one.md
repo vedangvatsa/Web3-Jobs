@@ -27,24 +27,6 @@ Arbitrum One runs on **Nitro**, a complete rewrite of the initial Arbitrum archi
 2. **Layered Architecture:** Nitro separates the execution software into distinct layers: base Geth for state transitions, a custom Sequencer module for transaction ordering, and a WASM execution module for fraud proving.
 3. **Advanced Batch Compression:** Nitro compresses transaction batches using the Brotli compression algorithm before publishing data to Ethereum Layer 1, minimizing on-chain data availability gas overhead.
 
-```
-+-------------------------------------------------------------------------+
-|                         ARBITRUM NITRO ENGINE                           |
-+-------------------------------------------------------------------------+
-|  1. Custom Sequencer  -> Sub-second transaction intake & ordering       |
-|  2. Modified Geth Core-> Standard EVM execution & state updates         |
-|  3. Brotli Compressor -> Batch compression for L1 submission            |
-+-------------------------------------------------------------------------+
-                                     |
-                                     v
-+-------------------------------------------------------------------------+
-|                      ETHEREUM LAYER 1 CONTRACTS                         |
-+-------------------------------------------------------------------------+
-|  - Delayed Inbox      -> Censorship-resistant user transaction queue     |
-|  - Sequencer Inbox    -> Compressed transaction batch storage (Blobs)   |
-|  - Rollup Core        -> State root commitment & challenge manager      |
-+-------------------------------------------------------------------------+
-```
 
 ---
 
@@ -185,26 +167,6 @@ Operating an L2 requires robust cross-chain messaging primitives and community-l
 ### Canonical Bridge Architecture
 Moving assets between Ethereum L1 and Arbitrum One occurs through canonical smart contract bridges:
 
-```
-+--------------------------------------------------------------------------+
-|                        L1 TO L2 DEPOSIT (Fast)                           |
-+--------------------------------------------------------------------------+
-|  1. User locks ETH / ERC-20 on L1 Bridge Contract.                       |
-|  2. L1 contract sends message to L1 Inbox.                               |
-|  3. Sequencer picks up Inbox message & mints equivalent asset on L2.      |
-|  Time elapsed: ~10 - 15 minutes (Standard L1 block finality).            |
-+--------------------------------------------------------------------------+
-
-+--------------------------------------------------------------------------+
-|                        L2 TO L1 WITHDRAWAL (Standard)                    |
-+--------------------------------------------------------------------------+
-|  1. User burns / locks asset on L2 Bridge Contract.                      |
-|  2. Outbox entry generated on L2 state root.                             |
-|  3. 7-Day Challenge Period must elapse for state root confirmation.       |
-|  4. User executes claim transaction on L1 Outbox to receive funds.       |
-|  Time elapsed: Exactly 7 Days.                                           |
-+--------------------------------------------------------------------------+
-```
 
 To bypass the 7-day withdrawal window for liquid ERC-20 tokens, users frequently utilize third-party liquidity bridges (such as Hop Protocol, Across, or Stargate). These protocol liquidity providers issue instant funds on Layer 1 in exchange for taking on the 7-day L2 state root settlement risk for a small convenience fee.
 
@@ -298,28 +260,6 @@ The execution flow proceeds as follows:
 
 To support sovereign protocols requiring dedicated throughput, custom gas tokens, and tailored governance rules, Offchain Labs introduced **Arbitrum Orbit**.
 
-```
-+--------------------------------------------------------------------------+
-|                      ARBITRUM ORBIT (L3 DEPLOYMENT)                      |
-+--------------------------------------------------------------------------+
-|  Custom L3 Chain settled to Arbitrum One or Arbitrum Nova (L2)           |
-|  - Custom Gas Token (e.g., ERC-20 token instead of ETH)                  |
-|  - Tailored Block Times & Gas Limits                                     |
-|  - Account Abstraction & Native Precompiles                              |
-+--------------------------------------------------------------------------+
-                                     |
-                                     v
-+--------------------------------------------------------------------------+
-|                    ARBITRUM ONE / NOVA LAYER 2                           |
-|  (Acts as Data Availability & Settlement Layer for Orbit L3s)             |
-+--------------------------------------------------------------------------+
-                                     |
-                                     v
-+--------------------------------------------------------------------------+
-|                        ETHEREUM MAINNET LAYER 1                          |
-|  (Ultimate Security & State Finality Anchor)                             |
-+--------------------------------------------------------------------------+
-```
 
 Arbitrum Orbit enables developers to launch dedicated **Layer 3 (L3) rollups or AnyTrust chains** that settle directly to Arbitrum One or Arbitrum Nova rather than Ethereum mainnet. Orbit chains offer several distinct advantages:
 

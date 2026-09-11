@@ -10,6 +10,7 @@ data-ai-hint: team diverse generations
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Four generations are working side by side right now, and they don't always agree on how work should get done. That's not a crisis - it's just reality. The friction usually comes from different defaults around communication, feedback, and what "professionalism" even means. Here's how to deal with it practically, especially in Web3 and remote-first teams where these differences get amplified.
 
 ## Know What You're Actually Dealing With
@@ -36,13 +37,19 @@ The biggest clashes aren't about work ethic - they're about communication norms.
 
 ## Practical Tactics for Bridging the Gaps
 
-**Set explicit communication norms.
 
-**Don't assume everyone shares the same defaults. Write down when to use async vs. sync, what response times are expected, and which channels are for what. This helps everyone, but it's essential on multigenerational teams.** Pair people across generations.
 
-**Not as a forced mentorship program - just put them on the same projects. A senior engineer who's been shipping code for 20 years and a junior dev who lives on-chain will both learn something. The knowledge transfer goes both ways.** Ask, don't assume.
+### Set explicit communication norms
 
-**Instead of guessing what motivates someone based on their birth year, ask them. "What does a good week look like for you?" and "How do you prefer to receive feedback?" are simple questions that prevent a lot of misunderstanding.** Standardize on outcomes, not methods.** If the work gets done well and on time, does it matter if someone blocks out deep work from 6-10 AM or grinds from 9-5? Focus on what gets delivered, not how someone structures their day.
+Don't assume everyone shares the same defaults. Write down when to use async vs. sync, what response times are expected, and which channels are for what. This helps everyone, but it's essential on multigenerational teams.
+
+### Pair people across generations
+
+Not as a forced mentorship program - just put them on the same projects. A senior engineer who's been shipping code for 20 years and a junior dev who lives on-chain will both learn something. The knowledge transfer goes both ways.
+
+### Ask, don't assume
+
+Instead of guessing what motivates someone based on their birth year, ask them. "What does a good week look like for you?" and "How do you prefer to receive feedback?" are simple questions that prevent a lot of misunderstanding.**Standardize on outcomes, not methods.** If the work gets done well and on time, does it matter if someone blocks out deep work from 6-10 AM or grinds from 9-5? Focus on what gets delivered, not how someone structures their day.
 
 ## How This Plays Out in Web3 and Remote-First Teams
 

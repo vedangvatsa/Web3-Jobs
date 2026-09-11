@@ -10,6 +10,7 @@ data-ai-hint: people gaming
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Introduction: More Than Just a Clan
 
 Guilds and clans have historically been a vital aspect of online gaming, serving as communities where players collaborate to overcome challenges, compete against others, and share resources. With the emergence of [Web3](/what-is-web3) and [blockchain](/what-is-a-blockchain) gaming, this concept has transformed into a more dynamic and economically impactful structure known as the Web3 gaming guild.
@@ -95,7 +96,7 @@ In this new context, guilds will continue to evolve. Their role will shift from 
 
 ## Web3 Job Market Context
 
-The Web3 job market has distinctive dynamics compared to Web2, shaped by the decentralized nature of blockchain organizations and a global talent shortage. 
+The Web3 job market has distinctive dynamics compared to Web2, shaped by the decentralized nature of blockchain organizations and a global talent shortage.
 
 ### Compensation
 

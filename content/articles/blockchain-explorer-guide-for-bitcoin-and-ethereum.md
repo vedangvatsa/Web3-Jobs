@@ -10,6 +10,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A public [blockchain](/what-is-a-blockchain) serves as a transparent and accessible ledger. Every transaction is recorded and available for anyone to view. To access this information, users rely on a **blockchain explorer**. A blockchain explorer is a web application that enables users to examine blockchain data in a user-friendly format. Think of it as a search engine tailored for blockchain information.
 
 For any serious [Web3](/what-is-web3) user, investor, or developer, mastering the use of a blockchain explorer is essential. This tool verifies transactions, audits [smart contracts](/what-are-smart-contracts), and tracks real-time network activity. This guide outlines how to effectively use the most popular explorers for [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum).
@@ -43,19 +44,19 @@ Verifying the success of a cryptocurrency transfer is the most common use of a b
 
 - **What to look for:**
 
-- **-** Status:**Check if it shows "Success" or "Failed" and the number of "Block Confirmations." More confirmations indicate greater security.
- - **From & To:** View the sender and receiver addresses.
- - **Value:** See the amount of cryptocurrency transferred.
- - **Gas Fee:** Note the transaction cost.
+- **-** Status:Check if it shows "Success" or "Failed" and the number of "Block Confirmations." More confirmations indicate greater security.
+ - From & To: View the sender and receiver addresses.
+ - Value: See the amount of cryptocurrency transferred.
+ - Gas Fee: Note the transaction cost.
 
 #### 2. Exploring a Wallet Address
 
 You can investigate any public wallet address to review its transaction history and current holdings.
 
-- **How it works:** Input a public wallet address or ENS name (e.g., `vitalik.eth`) into the search bar.
-- **What you can see:**
+- How it works: Input a public wallet address or ENS name (e.g., `vitalik.eth`) into the search bar.
+- What you can see:
 
-- **-** Balance:**The wallet's current cryptocurrency balance (e.g., ETH).
+- -**Balance:**The wallet's current cryptocurrency balance (e.g., ETH).
  - **[Token](/what-is-a-token) Holdings:** A list of all ERC-20 tokens held by the wallet.
  - **Transaction History:** A detailed, reverse-chronological list of all transactions sent or received by the wallet.
 
@@ -68,18 +69,18 @@ For decentralized applications (dApps), blockchain explorers allow you to verify
 - **How it works:** Input the smart contract's address in the search bar.
 - **What to look for:**
 
-- **-** Contract Tab:**This tab is important for verifying contract details.
- - **Green Checkmark:** This indicates that the project team has uploaded their source code, which Etherscan has verified against the compiled bytecode. Avoid unverified contracts.
- - **Read Contract:** Access this section to call `view` and `pure` functions to check the current state of the contract (e.g., total token supply or your balance in a [staking](/how-to-become-a-web3-staking-specialist) pool).
- - **Write Contract:** This section allows interaction with the contract's state-changing functions directly from the explorer, useful if the project's frontend is unavailable.
+- **-** Contract Tab:This tab is important for verifying contract details.
+ - Green Checkmark: This indicates that the project team has uploaded their source code, which Etherscan has verified against the compiled bytecode. Avoid unverified contracts.
+ - Read Contract: Access this section to call `view` and `pure` functions to check the current state of the contract (e.g., total token supply or your balance in a [staking](/how-to-become-a-web3-staking-specialist) pool).
+ - Write Contract: This section allows interaction with the contract's state-changing functions directly from the explorer, useful if the project's frontend is unavailable.
 
 #### 4. Monitoring Network Health
 
 Most block explorers feature a real-time dashboard on their homepage that displays the network's health.
 
-- **Key Metrics:**
+- Key Metrics:
 
-- **-** Latest Block Number:**Monitor the speed of new block production.
+- -**Latest Block Number:**Monitor the speed of new block production.
  - **Average Gas Price:** Assess network congestion and the current transaction cost.
  - **Mempool:** Some explorers, like `mempool.space` for Bitcoin, visualize the mempool, where pending transactions wait for confirmation. This can help explain delays in transaction confirmations.
 

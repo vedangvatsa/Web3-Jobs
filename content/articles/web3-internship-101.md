@@ -9,6 +9,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 For students and recent graduates, the Web3 industry presents an exciting career opportunity. An internship at a crypto startup, a Layer 2 protocol, or a DAO is more than just a line on a resume; it provides an immersive experience that enhances your skills and launches your career in the decentralized economy.
 
 Finding and securing a Web3 internship requires a tailored approach compared to traditional tech sectors. Companies seek proactive, passionate individuals who can show their commitment through "proof of work." This guide offers a detailed roadmap for aspiring interns aiming to enter the Web3 industry.
@@ -45,30 +46,30 @@ Standing out requires tangible evidence of your skills.
 
 **For Aspiring Developers:**
 
-- **-** GitHub as Your Resume:** Develop personal projects.
+- GitHub as Your Resume: Develop personal projects.
  - *Beginner Level:* Create your own ERC-20 or ERC-721 token using OpenZeppelin contracts and deploy it to a testnet.
  - *Intermediate Level:* Construct a simple full-stack dApp, such as a staking contract with a React frontend.
 - **Participate in Hackathons:** Engage in events like ETHGlobal hackathons. Many companies hire directly from hackathon teams, making this experience invaluable.
 
 **For Aspiring Non-Technical Interns (Marketing, Community, Product):**
 
-- **-** Start a Blog or Twitter Account:**Use this platform as your portfolio.
+- **-** Start a Blog or Twitter Account:Use this platform as your portfolio.
  - Write an analysis of a project's marketing strategy.
  - Create a Twitter thread breaking down a complex topic, such as miner extractable value (MEV), into simpler terms.
  - Launch a newsletter curating significant governance proposals weekly.
-- **Contribute to a DAO:**- Attend community calls and take detailed public notes.
+- Contribute to a DAO:- Attend community calls and take detailed public notes.
  - Identify projects with unclear documentation and offer to rewrite them for clarity.
 
 #### Step 3: Finding Internship Opportunities
 
-- **Crypto Job Boards:** Explore platforms like the [Hashtag Web3 job board](/jobs) and CryptoJobsList for openings.
-- **Direct Contributions:** Contributing meaningfully to a project's Discord or GitHub can often lead to internship offers without a formal application.
-- **Hackathons:** Companies frequently recruit participants from hackathon prize winners.
-- **University Blockchain Clubs:** Engage with your university's blockchain club, which often has direct links to companies seeking interns.
+- Crypto Job Boards: Explore platforms like the [Hashtag Web3 job board](/jobs) and CryptoJobsList for openings.
+- Direct Contributions: Contributing meaningfully to a project's Discord or GitHub can often lead to internship offers without a formal application.
+- Hackathons: Companies frequently recruit participants from hackathon prize winners.
+- University Blockchain Clubs: Engage with your university's blockchain club, which often has direct links to companies seeking interns.
 
 #### Step 4: Application and Interview Process
 
-- **Customize Your Application:** Tailor your application to the specific company. In your cover letter, express your passion for their project and reference recent developments or proposals.
-- **Highlight Your Portfolio:** Place a "Web3 Portfolio" section at the top of your resume, including links to your GitHub, blog, and other public projects.
+- Customize Your Application: Tailor your application to the specific company. In your cover letter, express your passion for their project and reference recent developments or proposals.
+- Highlight Your Portfolio: Place a "Web3 Portfolio" section at the top of your resume, including links to your GitHub, blog, and other public projects.
 
 A Web3 internship can serve as an excellent launchpad for your career. It requires more initiative than traditional internships, but the rewards in terms of learning, impact, and future opportunities are significant.

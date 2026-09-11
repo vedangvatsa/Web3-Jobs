@@ -20,19 +20,6 @@ Unlike legacy web domains leased annually from registrars like GoDaddy, Unstoppa
 
 Traditional DNS converts human-readable domain names (e.g., `google.com`) into IP addresses (e.g., `142.250.190.46`). Unstoppable Domains extends this resolution concept into multi-chain asset routing, decentralized storage routing, and cryptographic identity attestation.
 
-```
-+--------------------------------------------------------------------------+
-|                     TRADITIONAL ICANN DNS ARCHITECTURE                   |
-|  User -> DNS Resolver -> Root Server -> TLD Server -> Authoritative IP   |
-|  * Vulnerable to Registrar Seizure, Renewal Expired Drops, DNS Hijacking * |
-+--------------------------------------------------------------------------+
-                                     VS
-+--------------------------------------------------------------------------+
-|                 UNSTOPPABLE DOMAINS DECENTRALIZED ARCHITECTURE           |
-|  User -> RPC Provider -> Polygon Smart Contract -> On-Chain Records Hash |
-|  * Immutable ERC-721 NFT Custody, Zero Renewals, Multi-Chain Routing *   |
-+--------------------------------------------------------------------------+
-```
 
 ### Key Technical Characteristics
 
@@ -47,15 +34,6 @@ Traditional DNS converts human-readable domain names (e.g., `google.com`) into I
 
 Unstoppable Domains operates via a set of EVM smart contracts deployed on Polygon (and Ethereum mainnet for legacy `.crypto` domains). The architecture separates domain token ownership from record data storage.
 
-```
-+--------------------------------------------------------------------------+
-|                         UNSTOPPABLE DOMAIN REGISTRY                      |
-+--------------------------------------------------------------------------+
-|  1. Registry Contract (ERC-721) -> Maps Domain Name Hash to Owner Address |
-|  2. Resolver Contract           -> Stores Key-Value Mappings (Crypto/IPFS) |
-|  3. Proxy Reader Contract       -> Aggregates Multichain Resolution Calls|
-+--------------------------------------------------------------------------+
-```
 
 ### Namehashing and Token IDs
 Domain names are stored on-chain as 256-bit cryptographic hashes generated via the **Namehash Algorithm**. This standard recursively hashes domain labels to compute a unique 32-byte integer (`uint256 tokenId`):
@@ -186,7 +164,7 @@ import "@openzeppelin/contracts/utils/cryptography/EIP712.sol";
 contract MetaTransactionResolver is EIP712 {
     using ECDSA for bytes32;
 
-    bytes32 private constant SET_RECORD_TYPEHASH = 
+    bytes32 private constant SET_RECORD_TYPEHASH =
         keccak256("SetRecord(uint256 tokenId,string key,string value,uint256 nonce)");
 
     mapping(uint256 => uint256) public nonces;
@@ -237,15 +215,6 @@ This meta-transaction pattern enables a frictionless user experience:
 
 A primary challenge facing Web3 domain systems is bridging resolution between traditional Web2 HTTP/HTTPS infrastructure and decentralized blockchain networks.
 
-```
-+--------------------------------------------------------------------------+
-|                        ICANN DNSSEC RESOLUTION                           |
-|  User types `example.com` in standard Chrome browser                      |
-|  1. Browser queries standard DNS recursor -> Checks DNSSEC RRSIG key.    |
-|  2. DNSSEC TXT record returns Polygon contract reference hash.            |
-|  3. Browser gateway resolves IPFS CID or Web3 wallet address.            |
-+--------------------------------------------------------------------------+
-```
 
 ### ICANN Top-Level Domain Expansion
 While early Unstoppable Domains utilized non-ICANN TLDs (such as `.crypto` or `.x`), recent developments bridge ICANN-accredited TLDs (like `.polygon` or traditional `.com`/`.net` extensions) onto Web3 ledgers using **DNSSEC (Domain Name System Security Extensions)** verification:
@@ -259,16 +228,6 @@ While early Unstoppable Domains utilized non-ICANN TLDs (such as `.crypto` or `.
 
 Beyond simple wallet address replacement, Unstoppable Domains provides infrastructure for decentralized web publishing and self-custodial user authentication.
 
-```
-+--------------------------------------------------------------------------+
-|                 DECENTRALIZED WEBSITE PUBLISHING FLOW                    |
-+--------------------------------------------------------------------------+
-|  1. Developer builds static web files (HTML/CSS/JS).                     |
-|  2. Developer uploads folder to IPFS -> Receives Content ID (CID).        |
-|  3. Developer sets `dweb.ipfs.hash` on Unstoppable Domain Resolver.      |
-|  4. User navigates to `domain.crypto` in Brave or via IPFS Gateway.     |
-+--------------------------------------------------------------------------+
-```
 
 ### Login with Unstoppable (Single Sign-On)
 "Login with Unstoppable" offers an alternative to "Sign in with Google" or traditional email/password forms. Leveraging OpenID Connect (OIDC) principles backed by wallet signatures:
@@ -300,16 +259,6 @@ As digital identity and cross-chain domain resolution become standard features a
 
 Storing website files (HTML, CSS, JavaScript, media assets) directly on the Polygon blockchain is cost-prohibitive due to state storage fees. Unstoppable Domains solves this by separating identity routing from file storage.
 
-```
-+--------------------------------------------------------------------------+
-|                      DECENTRALIZED STORAGE PIPELINE                      |
-+--------------------------------------------------------------------------+
-|  1. Content Storage: Files uploaded to IPFS / Arweave.                   |
-|  2. Cryptographic Hash: Unique Content ID (CID) generated (e.g., QmXoy...). |
-|  3. Record Update: Domain owner stores CID in `dweb.ipfs.hash` field.    |
-|  4. Browser Gateway: Brave/Opera fetches content directly from IPFS.    |
-+--------------------------------------------------------------------------+
-```
 
 ### IPFS vs Arweave Storage Mechanics for Domain Owners
 - **IPFS (InterPlanetary File System):** Uses content-addressable hashes (`Qm...` or `bafy...`). Requires active pinning services (such as Pinata or Infura) or persistent node seeding to prevent garbage collection.
@@ -341,14 +290,6 @@ When applying for identity and domain infrastructure positions:
 
 To support organizations, DAOs, and Web3 platforms managing thousands of community members, Unstoppable Domains supports programmatic **Subdomain Issuance**.
 
-```
-+--------------------------------------------------------------------------+
-|                      ENTERPRISE SUBDOMAIN ISSUANCE                       |
-|  Parent Domain NFT: `dao.polygon`                                        |
-|  - Issuance Contract generates `alice.dao.polygon`, `bob.dao.polygon`     |
-|  - Subdomains issued as off-chain L2 signatures or L2 ERC-721 tokens    |
-+--------------------------------------------------------------------------+
-```
 
 ### Technical Implementation of Subdomain Registries
 1. **L2 Subdomain Off-Chain Offloading:** Rather than minting expensive L1/L2 NFTs for every individual user, enterprise projects construct off-chain Merkle tree registries or Layer 2 sub-resolver contracts.
@@ -361,17 +302,6 @@ To support organizations, DAOs, and Web3 platforms managing thousands of communi
 
 While forward resolution translates a human-readable domain (e.g., `alice.crypto`) into a wallet address (`0x123...`), **Reverse Resolution** performs the inverse lookup: mapping a wallet address back to its primary display domain.
 
-```
-+--------------------------------------------------------------------------+
-|                     REVERSE RESOLUTION LOOKUP FLOW                       |
-+--------------------------------------------------------------------------+
-|  1. dApp queries Reverse Registrar with wallet address `0x123...`        |
-|  2. Contract fetches configured primary domain `alice.crypto`.           |
-|  3. VERIFICATION CHECK: Contract verifies forward resolution of           |
-|     `alice.crypto` points back to `0x123...` (Prevents impersonation).   |
-|  4. dApp renders `alice.crypto` in header avatar UI.                    |
-+--------------------------------------------------------------------------+
-```
 
 ### High-Performance Indexing Infrastructure
 Querying the Polygon blockchain on every web page render introduces unacceptable latency. Production Web3 platforms deploy dedicated indexing nodes (utilizing The Graph, Goldsky, or custom PostgreSQL indexers) to maintain real-time local replicas of domain mappings:

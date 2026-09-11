@@ -23,15 +23,6 @@ For traditional game developers (Unity C# engineers, Unreal Engine C++ developer
 
 A primary technical mistake made by junior Web3 game developers is attempting to put every game action directly on a blockchain. Blockchains are high-latency, state-committed distributed ledgers; they are not real-time physics engines.
 
-```
-+-------------------------------------------------------------------+
-|               Web3 Game Development Hybrid Architecture           |
-+-------------------------------------------------------------------+
-| Off-Chain Engine: Player movement, physics, combat ticks, rendering|
-| On-Chain Smart Contracts: Asset ownership, crafting, marketplace  |
-| Bridge Relayer: ERC-4337 Paymaster, Session Keys & Indexers       |
-+-------------------------------------------------------------------+
-```
 
 ### The Hybrid State Responsibility Breakdown
 
@@ -49,15 +40,6 @@ A primary technical mistake made by junior Web3 game developers is attempting to
 
 Understanding smart contract token standards is essential for Web3 game engineers. Traditional ERC-721 tokens (single unique NFTs) are often too gas-intensive for games managing millions of stacked items (such as arrows, potions, wood, or common armor).
 
-```
-+-------------------------------------------------------------------+
-|               ERC-721 vs ERC-1155 Multi-Token Standard            |
-+-------------------------------------------------------------------+
-| ERC-721: 1 Contract = 1 Unique Item (High deployment & mint gas)  |
-| ERC-1155: 1 Contract = Infinite Fungible & Non-Fungible Items     |
-| Batch Transfers: Transfer 50 distinct item types in single tx      |
-+-------------------------------------------------------------------+
-```
 
 ### The ERC-1155 Multi-Token Standard
 
@@ -101,17 +83,6 @@ Traditional Web3 user onboarding was notoriously terrible for gamers. Requiring 
 
 Modern Web3 games utilize **Account Abstraction (ERC-4337)** and **Session Keys** to eliminate UX friction.
 
-```
-+-------------------------------------------------------------------+
-|               Session Keys & Gasless Gaming UX Pipeline           |
-+-------------------------------------------------------------------+
-| 1. Player logs in with Social Login (Google / Apple via Passkeys)|
-| 2. ERC-4337 Smart Account generated automatically in background  |
-| 3. Session Key granted temporary approval (e.g. 2 hours / 100 tx)  |
-| 4. Game Client signs transactions in background with Zero Popups |
-| 5. Paymaster Relayer sponsors gas fees (Player plays for free)    |
-+-------------------------------------------------------------------+
-```
 
 ### How Session Keys Enable Frictionless Gameplay
 
@@ -127,15 +98,6 @@ The first generation of Web3 games (often referred to as Play-to-Earn or P2E) su
 
 Sustainable Web3 game development requires transitioning from Play-to-Earn (P2E) to **Play-and-Own** or **Free-to-Play with On-Chain Ownership**.
 
-```
-+-------------------------------------------------------------------+
-|               Economic Balance: Faucets vs Sinks                  |
-+-------------------------------------------------------------------+
-| Faucets (Token Issuance): Quest rewards, dungeon drops, staking    |
-| Sinks (Token Destruction): Crafting fees, repairs, tournament entry|
-| Rule: Total Token Sinks MUST equal or exceed Token Faucets         |
-+-------------------------------------------------------------------+
-```
 
 ### Essential Tokenomic Mechanisms
 
@@ -149,15 +111,6 @@ Sustainable Web3 game development requires transitioning from Play-to-Earn (P2E)
 
 Web3 game studios recruit across three distinct technical disciplines:
 
-```
-+-------------------------------------------------------------------+
-|               Web3 Game Development Career Matrix                 |
-+-------------------------------------------------------------------+
-| 1. Unity / Unreal Client Developers (C# / C++ & SDK Integration)  |
-| 2. Smart Contract & Game Economy Engineers (Solidity / Rust)       |
-| 3. Full-Stack Web3 Infrastructure Engineers (Node / Go / Indexers) |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Unity & Unreal Engine Client Developers
 
@@ -220,7 +173,7 @@ public class PlayerWeb3InventoryManager : MonoBehaviour
         try
         {
             Debug.Log($"Querying on-chain inventory for wallet: {playerWalletAddress}");
-            
+
 / Query ERC-1155 contract for owned tokens
             List<NFT> ownedNFTs = await contract.ERC1155.GetOwned(playerWalletAddress);
 
@@ -246,16 +199,6 @@ public class PlayerWeb3InventoryManager : MonoBehaviour
 
 To stand out to Web3 game studios (such as Immutable, Mythical Games, Sky Mavis, or Horizon Blockchain Games), build a functional portfolio project demonstrating end-to-end integration:
 
-```
-+-------------------------------------------------------------------+
-|               Web3 Game Portfolio Execution Roadmap              |
-+-------------------------------------------------------------------+
-| Step 1: Build a mini 2D/3D game in Unity or Unreal 5               |
-| Step 2: Deploy an ERC-1155 contract on Base Sepolia or Arbitrum    |
-| Step 3: Implement social login & gasless account abstraction UX   |
-| Step 4: Publish demo video & open-source GitHub repository        |
-+-------------------------------------------------------------------+
-```
 
 ### Step 1: Develop a Functional Mini-Game
 

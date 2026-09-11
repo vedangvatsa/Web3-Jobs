@@ -9,9 +9,10 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 For years, the standard toolkit for [Ethereum](/what-is-ethereum) development was dominated by JavaScript-based frameworks like Hardhat and Truffle. These tools have been instrumental in the growth of the ecosystem, but they come with a key drawback: you write your [smart contracts](/what-are-smart-contracts) in [Solidity](/best-programming-languages-for-blockchain-development), but your tests and scripts in JavaScript. This context-switching can be inefficient and sometimes introduces subtle bugs.
 
-Enter **Foundry **, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a fast, portable, and modular toolkit for Ethereum application development, and its key feature is that it allows you to do everything, including writing your tests,** directly in Solidity**.
+Enter **Foundry**, a new breed of smart contract development toolkit that is rapidly gaining popularity. Foundry is a fast, portable, and modular toolkit for Ethereum application development, and its key feature is that it allows you to do everything, including writing your tests,**directly in Solidity**.
 
 This guide will provide an introduction to Foundry and walk through why so many developers are making the switch. For more details, see our full **[introduction to Foundry](/an-introduction-to-foundry-the-modern-solidity-toolkit)**.
 
@@ -114,15 +115,23 @@ These competencies are foundational for success in modern careers. Whether you'r
 
 ### Core Competencies
 
-**Technical Foundation
 
-**Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.** Communication Excellence
 
-**The ability to clearly explain complex ideas is rare and valuable. Practice writing emails, documentation, and presentations. Clarity compounds over time.** Problem-Solving Methodology
+### Technical Foundation
 
-**Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.** Learning Agility
+Understanding technical concepts relevant to your field is non-negotiable. You don't need to be an expert, but foundational knowledge prevents costly mistakes.
 
-**In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.** Emotional Intelligence**
+### Communication Excellence
+
+The ability to clearly explain complex ideas is rare and valuable. Practice writing emails, documentation, and presentations. Clarity compounds over time.
+
+### Problem-Solving Methodology
+
+Approach problems systematically: define the problem, research solutions, evaluate options, implement, and measure. This framework works for technical and non-technical challenges.
+
+### Learning Agility
+
+In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.**Emotional Intelligence**
 Understanding and managing your emotions, and reading others, determines your effectiveness in teams and negotiations.
 
 ## Development Roadmap

@@ -21,15 +21,6 @@ Blockchain Networking Engineers design, build, and optimize the distributed netw
 
 In traditional client-server architecture (such as Web2 cloud applications hosted on AWS or GCP), network communication flows predictably between client devices and centralized load-balanced servers. In contrast, a public [blockchain](/what-is-a-blockchain) operates without centralized servers or master router nodes.
 
-```
-+-------------------------------------------------------------------+
-|               Web2 Client-Server vs Web3 P2P Mesh                 |
-+-------------------------------------------------------------------+
-| Web2: Client ---> Centralized Load Balancer ---> Data Center      |
-| Web3: Node <---> Node <---> Node <---> Node (Mesh Network)        |
-| Challenge: Sub-second global broadcast without central authority   |
-+-------------------------------------------------------------------+
-```
 
 ### Core Networking Challenges Handled by P2P Engineers
 
@@ -44,16 +35,6 @@ In traditional client-server architecture (such as Web2 cloud applications hoste
 
 Modern blockchain execution clients, such as Go-Ethereum (Geth), Nethermind, Prysm, Lighthouse (Ethereum), and Agave (Solana), organize their networking infrastructure into four distinct layers.
 
-```
-+-------------------------------------------------------------------+
-|               Blockchain P2P Networking Protocol Stack            |
-+-------------------------------------------------------------------+
-| Layer 1: Peer Discovery & Routing (Discv5 / Kademlia DHT)         |
-| Layer 2: Transport & Security (TCP, QUIC, Noise Protocol, Yamux)   |
-| Layer 3: PubSub Message Propagation (GossipSub v1.1)              |
-| Layer 4: Application Sync Engine (Snap Sync, Request-Response)    |
-+-------------------------------------------------------------------+
-```
 
 ### Layer 1: Peer Discovery and Node Routing (Discv5)
 
@@ -95,17 +76,6 @@ When a new validator joins the network, it must synchronize historical state. Ne
 
 A Blockchain Networking Engineer operates at the intersection of systems programming, network security, and distributed algorithms. Typical day-to-day responsibilities include:
 
-```
-+-------------------------------------------------------------------+
-|            Primary Duties of a Blockchain Networking Engineer     |
-+-------------------------------------------------------------------+
-| 1. Implementing and maintaining P2P protocols in Rust or Go       |
-| 2. Benchmarking and reducing block propagation latency           |
-| 3. Designing anti-eclipse & DoS mitigation algorithms             |
-| 4. Optimizing mempool transaction propagation algorithms          |
-| 5. Building custom indexers & P2P network telemetry tools         |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Optimizing Block & Attestation Propagation Speed
 
@@ -125,16 +95,6 @@ Networking engineers defend the protocol against sophisticated distributed attac
 
 To excel as a Blockchain Networking Engineer, you must possess a rigorous technical background combining systems engineering, networking fundamentals, and cryptography.
 
-```
-+-------------------------------------------------------------------+
-|            Networking Engineer Technical Skill Matrix             |
-+-------------------------------------------------------------------+
-| Systems Languages: Rust, Go, C++                                  |
-| Networking Protocols: TCP/IP, UDP, QUIC, BGP, DNS, Libp2p, Discv5 |
-| Distributed Systems: Kademlia DHT, GossipSub, RAFT, Paxos       |
-| Performance Tools: Wireshark, eBPF, perf, pprof, Linux Networking |
-+-------------------------------------------------------------------+
-```
 
 ### Core Systems Programming Languages
 
@@ -221,15 +181,6 @@ async fn main() -> Result<(), Box<dyn Error>> {
 
 Because P2P networking engineers possess specialized skills combining low-level systems programming with complex distributed network security, compensation levels in this sub-sector are among the highest in the entire Web3 industry.
 
-```
-+-------------------------------------------------------------------+
-|               Networking Engineer Salary Benchmarks               |
-+-------------------------------------------------------------------+
-| Junior P2P / Systems Engineer: $120,000 - $160,000 USD           |
-| Senior Blockchain Networking Engineer: $170,000 - $260,000 USD     |
-| Principal Core Protocol Architect: $250,000 - $400,000+ USD       |
-+-------------------------------------------------------------------+
-```
 
 ### Primary Hiring Employers
 
@@ -244,16 +195,6 @@ Because P2P networking engineers possess specialized skills combining low-level 
 
 For software engineers or traditional networking specialists aiming to transition into Web3 P2P networking, follow this four-step execution plan:
 
-```
-+-------------------------------------------------------------------+
-|               Networking Engineer Career Roadmap                  |
-+-------------------------------------------------------------------+
-| Step 1: Master Systems Languages (Rust or Go)                     |
-| Step 2: Implement a P2P Kademlia DHT from Scratch                |
-| Step 3: Contribute to Open-Source Client Repositories (Geth / Reth)|
-| Step 4: Build Custom Telemetry & P2P Network Monitoring Tools     |
-+-------------------------------------------------------------------+
-```
 
 ### Step 1: Master Systems Programming in Rust or Go
 

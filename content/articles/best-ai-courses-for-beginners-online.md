@@ -11,6 +11,7 @@ lastUpdated: '2026-09-08'
 image: >-
   https://images.unsplash.com/photo-1677442136019-21780ecad995?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QmVzdCUyMEFJJTIwQ291cnNlcyUyMEJlZ2lubmVycyUyME9ubGluZXxlbnwxfDB8fHwxNzg5MTM3NTU5fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---
+
 AI courses for beginners fall into two useful groups. Some teach you what AI can do and how to use it at work without writing code. Others teach you to build models with Python and math.
 
 This guide covers six courses that remain strong starting points in 2026. All details were verified on the official provider sites in August 2026. You get what each course is, who it fits, how it works in practice, what it costs and how long it takes, plus pros, cons, and how to start.
@@ -19,26 +20,28 @@ This guide covers six courses that remain strong starting points in 2026. All de
 
 * **You want AI literacy without coding.** You manage, market, design, teach, or work in operations and you need to understand terminology, realistic capabilities, risks, and where to apply AI tools.
 * **You want to use generative AI day to day.** You work in Microsoft 365, write, research, or run processes and you want hands-on practice with chat tools and Copilot workflows.
-* **You want to build AI systems.
+*
 
-**You can code a little and you want to learn machine learning and deep learning properly with Python, with projects you can show an employer.
+### You want to build AI systems
+
+You can code a little and you want to learn machine learning and deep learning properly with Python, with projects you can show an employer.
 
 If you are unsure which group you are in, start with a non-technical literacy course and then pick a technical path. That order reduces wasted time.
 
 ## At a glance
 
 | Course | Provider and site | Level and code needed | Time to finish | Access and cost in 2026 | Certificate |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Elements of AI, Introduction to AI | University of Helsinki and MinnaLearn at elementsofai.com and course.elementsofai.com | Beginner, no code | Self-paced, about 25 to 30 hours for Introduction | Free, no paywall, browser based. Free certificate. Optional 2 ECTS via Open University if you complete and enroll by the official deadline | Yes, free |
@@ -286,9 +289,11 @@ This loop creates evidence you can reference in interviews and on your profile, 
 * **Literacy versus build skills.** Non-technical courses help you make decisions but do not make you a model builder. Technical courses make you a builder but require more time and prerequisites.
 * **Time versus depth.** A 4-hour path gives you awareness. A 95-hour specialization gives you foundations. Neither replaces project work where you debug data quality and evaluation on your own data.
 * **General versus tool-specific.** Microsoft-focused content helps immediately in Microsoft 365. Tool-agnostic foundations transfer across stacks. Choose based on whether you need immediate productivity or durable fundamentals.
-* **Cost versus access.
+*
 
-**Coursera and LinkedIn charge monthly. If you can work in bursts, you can keep the subscription short. Free options exist: Elements of AI and fast.ai are free, many libraries offer free LinkedIn Learning, and Coursera offers auditing and financial aid.
+### Cost versus access
+
+Coursera and LinkedIn charge monthly. If you can work in bursts, you can keep the subscription short. Free options exist: Elements of AI and fast.ai are free, many libraries offer free LinkedIn Learning, and Coursera offers auditing and financial aid.
 
 ## Frequently asked questions
 

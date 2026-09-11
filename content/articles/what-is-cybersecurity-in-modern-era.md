@@ -9,6 +9,7 @@ data-ai-hint: cyber security
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Cybersecurity involves protecting computer systems, networks, and data from digital threats, damage, or unauthorized access. In our interconnected society, where personal information and critical infrastructure are online, cybersecurity has evolved into an important component of personal, corporate, and national security.
 
 Cyber attacks can have various objectives. Attackers may aim to steal sensitive information, such as credit card details or intellectual property. They might disrupt business operations or government functions through ransomware attacks. Some attackers seek to spread misinformation, influencing public opinion. The range of actors behind these attacks includes individual hackers, organized crime groups, and state-sponsored entities.
@@ -82,5 +83,5 @@ Using a password manager to generate strong, unique passwords for each of your o
 
 #### 2. Is public Wi-Fi safe for use?
 
-Public Wi-Fi networks, often found in coffee shops or airports, typically lack security. An attacker on the same network could intercept your traffic. If you must use public Wi-Fi, using a Virtual Private Network (VPN) is highly advisable. A VPN encrypts your internet traffic, creating a secure tunnel between your device and the internet.**3. How can I determine if I've been a victim of a data breach?** 
+Public Wi-Fi networks, often found in coffee shops or airports, typically lack security. An attacker on the same network could intercept your traffic. If you must use public Wi-Fi, using a Virtual Private Network (VPN) is highly advisable. A VPN encrypts your internet traffic, creating a secure tunnel between your device and the internet.**3. How can I determine if I've been a victim of a data breach?**
 The website "Have I Been Pwned?" (haveibeenpwned.com) is a reliable tool for checking if your email address has appeared in known data breaches. If it has, promptly change the password for that account and any other accounts using the same password.

@@ -21,16 +21,6 @@ To address these vulnerabilities, the Web3 ecosystem engineered **Crypto Launchp
 
 To understand the architecture of modern crypto launchpads, one must trace how crypto fundraising models evolved over the past decade.
 
-```
-+-------------------------------------------------------------------+
-|                 Evolution of Crypto Capital Raising               |
-+-------------------------------------------------------------------+
-| 1. ICO (Initial Coin Offering): Permissionless, no vetting (2017)  |
-| 2. IEO (Initial Exchange Offering): Centralized exchange (2019)  |
-| 3. IDO (Initial DEX Offering): Decentralized launchpad (2021+)    |
-| 4. LBP (Liquidity Bootstrapping Pool): Fair launch auctions       |
-+-------------------------------------------------------------------+
-```
 
 ### Initial Coin Offerings (ICO)
 
@@ -54,15 +44,6 @@ Initial DEX Offerings (IDOs) combined the security auditing of IEOs with the non
 
 A production-grade crypto launchpad operates through three synchronized infrastructure layers: the Staking Allocation Engine, the Token Sale Escrow Vault, and the Smart Contract Vesting Schedule Engine.
 
-```
-+-------------------------------------------------------------------+
-|               Crypto Launchpad Architectural Layers               |
-+-------------------------------------------------------------------+
-| Layer 1: Staking & Whitelisting Registry (Tiered Access Control)  |
-| Layer 2: Token Sale Escrow Vault (USDC/USDT Capital Collection)   |
-| Layer 3: Linear Vesting & Claim Contract (TGE Unlock & Vesting)   |
-+-------------------------------------------------------------------+
-```
 
 ### Layer 1: Staking & Tiered Allocation Engine
 
@@ -84,7 +65,7 @@ contract LaunchpadTierManager {
 
     constructor(address _launchpadToken) {
         launchpadToken = IERC20(_launchpadToken);
-        
+
 / Tier 1: Bronze (Lottery Base)
         tiers[1] = Tier(1000 * 1e18, 10, false);
 / Tier 2: Silver (Guaranteed Medium)
@@ -117,15 +98,6 @@ Investors who stake higher thresholds of the launchpad's native token unlock gua
 
 One of the most critical security mechanisms provided by modern launchpads is smart contract token vesting.
 
-```
-+-------------------------------------------------------------------+
-|               Standard IDO Vesting Schedule Example               |
-+-------------------------------------------------------------------+
-| Token Generation Event (TGE): 15% unlock on DEX listing day       |
-| Cliff Period: 1 Month zero-distribution buffer                    |
-| Linear Vesting: Remaining 85% released daily over 6 months        |
-+-------------------------------------------------------------------+
-```
 
 ### Why Vesting Vaults Protect Retail Investors
 
@@ -143,16 +115,6 @@ Launchpads enforce automated vesting smart contracts:
 
 High-reputation launchpads serve as quality filters. Before approving a project for an IDO, launchpad incubation teams perform multi-stage due diligence checks:
 
-```
-+-------------------------------------------------------------------+
-|               Launchpad Due Diligence Checklist                   |
-+-------------------------------------------------------------------+
-| 1. Team Identity & Background Verification (KYC / AML)            |
-| 2. Smart Contract Source Code Audits (CertiK, Hacken, OpenZeppelin)|
-| 3. Tokenomics Evaluation (FDV Ratio, Initial Market Cap)          |
-| 4. Product Demo & Technical Milestone Roadmap Assessment          |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Founder KYC and Criminal Background Screening
 
@@ -172,15 +134,6 @@ A primary cause of IDO failure is greedy initial valuations. Launchpads negotiat
 
 To further insulate retail investors from poorly performing projects or sudden post-launch team defaults, leading launchpads have introduced automated refund policies.
 
-```
-+-------------------------------------------------------------------+
-|             Launchpad Investor Protection Policies               |
-+-------------------------------------------------------------------+
-| 7-Day Refund Window: Users can claim 100% refund if price drops   |
-| Primary Escrow Holding: Raised funds released to team in tranches  |
-| Liquidity Lock Requirement: DEX LP tokens locked for 12+ months  |
-+-------------------------------------------------------------------+
-```
 
 ### The 7-Day Unconditional Refund Model
 
@@ -224,16 +177,6 @@ Once the project team generates the token and lists the liquidity pool on a dece
 
 The growth of launchpad platforms and decentralized Web3 incubators has created specialized career pathways across technical engineering, venture research, and quantitative risk management.
 
-```
-+-------------------------------------------------------------------+
-|               Crypto Launchpad Career Matrix                      |
-+-------------------------------------------------------------------+
-| 1. Launchpad Smart Contract & Security Engineers                  |
-| 2. Venture Due Diligence & Tokenomics Analysts                    |
-| 3. Web3 Incubator Partnership & Business Development Leads         |
-| 4. On-Chain Marketing & Ecosystem Growth Managers                 |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Launchpad Smart Contract & Security Engineers
 
@@ -274,7 +217,7 @@ contract IDOSaleVault is Ownable {
     bytes32 public merkleRoot;
     IERC20 public immutable paymentToken; // e.g., USDC
     uint256 public immutable tokenPrice;  // Price in USDC (6 decimals)
-    
+
     mapping(address => bool) public hasParticipated;
 
     event TokensPurchased(address indexed buyer, uint256 amountPaid);
@@ -288,7 +231,7 @@ contract IDOSaleVault is Ownable {
 // @notice Purchase IDO allocation using Merkle Proof verification
     function buyAllocation(uint256 allocationAmount, bytes32[] calldata merkleProof) external {
         require(!hasParticipated[msg.sender], "Address has already purchased allocation");
-        
+
 / Verify leaf node: hash(msg.sender, allocationAmount)
         bytes32 leaf = keccak256(abi.encodePacked(msg.sender, allocationAmount));
         require(MerkleProof.verify(merkleProof, merkleRoot, leaf), "Invalid Merkle Whitelist Proof");
