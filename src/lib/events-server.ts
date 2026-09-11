@@ -153,6 +153,10 @@ function resolveEventCoverImage(cwd: string, img?: string | null): string | null
   }
 }
 
+function getGeneratedEventCover(name: string): string {
+  return `/api/og?type=default&title=${encodeURIComponent(name)}&date=Web3%20Event`;
+}
+
 function normalizeEventTitle(name: string): string {
   return name
     .toLowerCase()
@@ -307,7 +311,7 @@ export async function getEvents(): Promise<Web3Event[]> {
          coverImage: resolveEventCoverImage(
            cwd,
            eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage
-         ),
+         ) || getGeneratedEventCover(cleanName),
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
