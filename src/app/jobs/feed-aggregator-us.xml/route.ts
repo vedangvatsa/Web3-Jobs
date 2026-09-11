@@ -27,7 +27,7 @@ export async function GET() {
     <company><![CDATA[${cdata(job.company)}]]></company>
     <url><![CDATA[${url}]]></url>
     <link><![CDATA[${url}]]></link>
-    <apply_url><![CDATA[${cdata(job.link || url)}]]></apply_url>
+    <apply_url><![CDATA[${cdata(url)}]]></apply_url>
     <location><![CDATA[${cdata(location)}]]></location>
     <region><![CDATA[United States]]></region>
     <category><![CDATA[${cdata(job.department || 'Web3 / Blockchain')}]]></category>
