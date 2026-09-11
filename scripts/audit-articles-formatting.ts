@@ -130,7 +130,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
 }
 
 export function runFormattingAudit() {
-  const files = fs.readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md'));
+  const files = fs.readdirSync(ARTICLES_DIR).filter((f) => f.endsWith('.md') && f !== 'AGENTS.md');
   const allIssues: FormattingIssue[] = [];
 
   for (const file of files) {

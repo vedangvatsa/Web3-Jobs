@@ -1,5 +1,6 @@
 
 import { getArticle, getAllArticles } from '@/lib/articles';
+import { getNewsFeed } from '@/lib/news';
 import { getTerm, getAllTerms } from '@/lib/glossary';
 import { getResourceByCanonicalSlug, getAllResourcePages } from '@/lib/pseo';
 import { notFound, permanentRedirect, redirect } from 'next/navigation';
@@ -10,7 +11,7 @@ import { CompanyDetailView } from '@/components/company-detail-view';
 import Image from 'next/image';
 import Link from 'next/link';
 import { Metadata } from 'next';
-import type { Article as ArticleSchema, ScholarlyArticle, BreadcrumbList, Event as SchemaEvent, WithContext } from 'schema-dts';
+import type { Article as ArticleSchema, NewsArticle, ScholarlyArticle, BreadcrumbList, Event as SchemaEvent, WithContext } from 'schema-dts';
 import { ArticleContent } from '@/components/article-content';
 import { RelatedArticles } from '@/components/related-articles';
 import { ResourcePageView } from '@/components/pseo/resource-page-view';
@@ -693,21 +694,29 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  const siteUrl = 'https://hashtagweb3.com';
  const imageUrl = article.image.startsWith('http') ? article.image : `${siteUrl}${article.image}`;
 
- const scholarlyCategories = ["AI & The Future of Work","Web3 Career Guides"];
- const isScholarly = scholarlyCategories.includes(article.category);
+  const scholarlyCategories = ["AI & The Future of Work","Web3 Career Guides"];
+  const isScholarly = scholarlyCategories.includes(article.category);
+  const isNews = article.category === 'News';
+  const newsItems = isNews ? await getNewsFeed() : undefined;
 
  const faqSchema = article.rawContent ? extractFAQSchema(article.rawContent) : null;
  const howToSchema = article.rawContent ? extractHowToSchema(article.rawContent, article.title, article.description) : null;
 
- const articleSchema: WithContext<ArticleSchema | ScholarlyArticle> = {
-  '@context': 'https://schema.org',
-  '@type': isScholarly ? 'ScholarlyArticle' : 'Article',
-  headline: article.title,
-  description: article.description,
-  image: imageUrl,
-  datePublished: article.publishedDate,
-  dateModified: article.lastUpdated || article.publishedDate,
-  author: {
+  const articleUrl = `${siteUrl}/${article.slug}`;
+  const articleSchema: WithContext<ArticleSchema | NewsArticle | ScholarlyArticle> = {
+   '@context': 'https://schema.org',
+   '@type': isNews ? 'NewsArticle' : isScholarly ? 'ScholarlyArticle' : 'Article',
+   headline: article.title,
+   description: article.description,
+   image: imageUrl,
+   datePublished: article.publishedDate,
+   dateModified: article.lastUpdated || article.publishedDate,
+   url: articleUrl,
+   articleSection: article.category,
+   inLanguage: 'en',
+   isAccessibleForFree: true,
+   keywords: [article.category, article['data-ai-hint'], 'Web3', 'crypto', 'blockchain'].filter(Boolean).join(', '),
+   author: {
     '@type': 'Organization',
     name: 'Hashtag Web3',
     url: siteUrl,
@@ -721,10 +730,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       url: `${siteUrl}/logo.png`
     }
   },
-  mainEntityOfPage: {
-    '@type': 'WebPage',
-    '@id': `${siteUrl}/${article.slug}`
-  }
+   mainEntityOfPage: {
+     '@type': 'WebPage',
+     '@id': articleUrl
+   }
  };
 
  const breadcrumbSchema: WithContext<BreadcrumbList> = {
@@ -740,14 +749,14 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
    {
     '@type': 'ListItem',
     position: 2,
-    name: 'Blog',
-    item: `${siteUrl}/blog`,
+     name: isNews ? 'News' : 'Blog',
+     item: `${siteUrl}/${isNews ? 'news' : 'blog'}`,
    },
    {
     '@type': 'ListItem',
     position: 3,
     name: article.title,
-    item: `${siteUrl}/${article.slug}`,
+     item: articleUrl,
    },
   ],
  };
@@ -764,15 +773,15 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <article className="w-full">
             <Suspense fallback={<div className="py-12 text-center text-muted-foreground">Loading article...</div>}>
               {/* Header: title and subtitle */}
-              <header className="mb-10 text-left">
-                <h1 className="text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2] text-balance break-normal mb-4">
-                  {article.title}
-                </h1>
+               <header className={cn('mb-10', isNews ? 'text-center' : 'text-left')}>
+                 <h1 className={cn('text-3xl sm:text-4xl md:text-5xl font-extrabold tracking-tight text-foreground leading-[1.2] text-balance break-normal mb-4', isNews && 'mx-auto max-w-5xl')}>
+                   {article.title}
+                 </h1>
 
-                {article.description && (
-                  <p className="text-base sm:text-lg text-muted-foreground leading-relaxed mt-3">
-                    {article.description}
-                  </p>
+                 {article.description && (
+                   <p className={cn('text-base sm:text-lg text-muted-foreground leading-relaxed mt-3', isNews && 'mx-auto max-w-4xl')}>
+                     {article.description}
+                   </p>
                 )}
               </header>
 
@@ -786,7 +795,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     src={article.image}
                     alt={`${article.title} - Hashtag Web3 article cover`}
                     fill
-                    className={article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}
+                     className={article.imageFit === 'contain' || article.image.toLowerCase().endsWith('.svg') ? 'object-contain p-4' : 'object-cover'}
                     sizes="(max-width: 768px) 100vw, (max-width: 1200px) 800px, 900px"
                     priority
                     data-ai-hint={`${article['data-ai-hint'] || ''}`}
@@ -798,12 +807,12 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               <ArticleContent content={article.content} className="mb-12" />
 
               {/* In-article CTA */}
-              <CtaBanner
-                variant="jobs"
-                title="Looking for a Web3 Job?"
-                description="Explore thousands of verified blockchain, DeFi, and crypto roles on the #1 Web3 job board."
-                className="my-12"
-              />
+            <CtaBanner
+              variant={isNews ? 'news' : 'jobs'}
+              title={isNews ? undefined : 'Looking for a Web3 Job?'}
+              description={isNews ? undefined : 'Explore thousands of verified blockchain, DeFi, and crypto roles on the #1 Web3 job board.'}
+              className="my-12"
+            />
             </Suspense>
           </article>
 
@@ -811,9 +820,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
           <Suspense fallback={null}>
             <RelatedArticles
               allArticles={allArticles}
-              currentCategory={article.category}
-              currentSlug={article.slug}
-            />
+               currentCategory={article.category}
+               currentSlug={article.slug}
+               newsItems={newsItems}
+             />
           </Suspense>
         </PageShell>
       </main>

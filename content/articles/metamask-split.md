@@ -1,75 +1,72 @@
 ---
 title: MetaMask Plans Consumer Split from Consensys
 description: MetaMask says it will become a consumer-focused company while a new Consensys takes on Linea, Besu, Teku, and institutional infrastructure. The plan is expected to complete by the end of 2026.
-image: https://images.ctfassets.net/clixtyxoaeas/41A5NT2fXBNjfSAUYmJRlF/e640aed3ed3ebb007831f19d9047d64c/MetaMask_Blog_-_MetaMask_Next_Chapter.png
+image: https://images.ctfassets.net/clixtyxoaeas/3YKpVQ1RIuH2HvXaS5uyVp/7c170e89b409902ff64c4e0856733341/20e287d7-55e5-4cea-994c-86dc7174e6cf.png
+imageFit: contain
 category: News
-data-ai-hint: MetaMask consumer finance
+data-ai-hint: MetaMask Money Account
 publishedDate: '2026-09-12'
 lastUpdated: '2026-09-12'
 ---
 
-MetaMask is preparing to become a company in its own right. Consensys Software Inc. says it will split its consumer business from its protocol and institutional infrastructure work, creating two independently operated companies. The consumer company will use the MetaMask name. The new infrastructure company will carry the Consensys name.
+Consensys Software Inc. is breaking into two companies. The existing legal entity will be renamed MetaMask and run the wallet and its consumer products. A newly formed Consensys will take the protocol and institutional business. The companies will operate independently, with the separation expected to complete by the end of 2026, according to MetaMask's [September 9 announcement](https://metamask.io/news/consensys-software-inc-to-become-two-independent-companies-metamask-and-consensys).
 
-The distinction is simple on paper. MetaMask will focus on people who hold, trade, spend, and save with self-custodial tools. Consensys will take responsibility for protocol and institutional products, including Linea, Besu, and Teku. In practice, the move puts one of Ethereum's best-known consumer brands on a more direct path toward financial services while giving its infrastructure teams a separate mandate.
+For existing MetaMask users, the immediate message is narrow: there is no migration, account change, or request to move funds. The app, assets, private keys, and access remain as they are. The corporate change sits behind the product, rather than inside a user's wallet.
 
-The companies say the separation is expected to finish by the end of 2026. MetaMask users are not being asked to migrate assets or take any action. According to the company's announcement, the app, keys, assets, and access arrangements remain unchanged.
+## A renamed parent, a new sibling
 
-![MetaMask's next chapter cover](https://images.ctfassets.net/clixtyxoaeas/41A5NT2fXBNjfSAUYmJRlF/e640aed3ed3ebb007831f19d9047d64c/MetaMask_Blog_-_MetaMask_Next_Chapter.png)
+Joseph Lubin will be chairman and chief executive of MetaMask. The new Consensys will be led by chief executive Mike Kriak and president David Cunningham; Lubin will be its executive chairman. MetaMask's [corporate separation release](https://metamask.io/news/consensys-software-inc-to-become-two-independent-companies-metamask-and-consensys) says the current Consensys Software Inc. continues as the same company under a different name, while the protocols group and institutional business are placed in the new company.
 
-*Source: MetaMask's artwork for ["MetaMask's next chapter"](https://metamask.io/news/metamask-next-chapter), published September 9, 2026.*
+That distinction is easy to miss. This is not a sale of MetaMask to an outside buyer, and the public announcement does not describe a new wallet operator arriving after a handover. The company that has operated MetaMask is adopting the MetaMask name. The business that will carry the Consensys name is the new entity built around teams and products on the other side of the split.
 
-## What MetaMask announced
+The announcement also says the two companies will continue in the same Ethereum ecosystem and that Consensys will remain a channel partner for MetaMask. It does not set out the commercial terms for that relationship. Those details may matter later for products that depend on shared infrastructure, but the release does not provide them.
 
-The plan changes corporate focus, not the technical ownership of a user's wallet. Consensys Software Inc. will be rebranded as MetaMask and led by Joseph Lubin as chairman and chief executive. Its consumer products will sit inside that company.
+## MetaMask's consumer business
 
-The current protocols and institutional infrastructure group will form a new Consensys. MetaMask's press release names Mike Kriak as that company's chief executive and David Cunningham as president. Lubin will serve as executive chairman of the new Consensys.
+MetaMask is describing its remit as consumer finance built around self-custody. In its own [statement on the split](https://metamask.io/news/metamask-next-chapter), the company says it wants users to hold, move, earn, trade, and spend assets through the platform. That is a wider brief than the browser extension through which many people first encountered MetaMask.
 
-The company describes the result as two focused businesses. MetaMask is intended to build consumer financial products around self-custody. Consensys is intended to serve enterprises and financial institutions that need blockchain infrastructure and Ethereum-related protocol work.
+The clearest example is Money Account, announced in June. MetaMask says the account is self-custodial and combines automated earning, spending through the MetaMask Card where available, and trading from one balance. It runs on Monad and uses mUSD, MetaMask's dollar-denominated stablecoin, according to the [Money Account release](https://metamask.io/news/metamask-launches-money-account-bringing-defi-yield-and-global-spending-to-stablecoin-balances).
 
-That framing matters because the products have different buyers, sales cycles, risks, and support needs. A wallet user deciding whether to swap tokens has little in common with a bank evaluating private infrastructure or a business deciding how to operate a validator stack. Keeping both under one corporate banner made sense when Ethereum's commercial market was smaller. It is less obvious now.
+Those features turn a wallet into a place where a user may leave funds for longer and use them more often. That does not make Money Account a bank account. MetaMask's own disclosure says it is not a bank account, savings account, or regulated investment product, and that mUSD balances are not insured by the FDIC or another government agency. The stated yield is variable, and the company warns that third-party DeFi platforms and smart contracts carry risks, including the possibility of loss.
 
-## The consumer bet
+The product also illustrates the limits of the phrase "self-custodial financial platform." Users hold their private keys, and MetaMask says it cannot access, freeze, or move a Money Account balance. Users are still responsible for their recovery information and for approving transactions. The split does not change those obligations. A new name above the product does not reduce the consequences of a compromised seed phrase, a malicious approval, or an incorrectly sent transaction.
 
-For most people, MetaMask still means a wallet. The company is presenting a broader ambition. Its language is "Open Money": a self-custodial place to hold assets, move money, earn yield, trade, and spend.
+For MetaMask, the operational question is whether consumer products can add convenience without concealing those trade-offs. A wallet prompt is often treated as a technical step. A product that blends payments, stablecoin balances, yield, swaps, perpetuals, and prediction markets asks users to assess several kinds of risk in one place. The corporate separation gives the consumer team a single product agenda; it does not make that agenda simple.
 
-The clearest product signal is the MetaMask Money Account. MetaMask says the account combines automated earning, instant spending, and one-click trading in a self-custodial balance. That is a meaningful shift in product shape. A browser wallet is mainly a way to sign transactions. A financial account invites people to keep balances and make repeat decisions inside the product.
+## The infrastructure company
 
-There is a commercial logic behind the change. A wallet can be a useful entry point, but it is difficult to turn into a daily financial relationship if users leave after a token swap or NFT mint. Spending, savings, and recurring onchain activity create more frequent reasons to return. They also raise the standard for product design. Users will judge the service against familiar banking and payments apps, not only against other crypto wallets.
+The new Consensys inherits Linea, Besu, Teku, the protocols group, and the institutional blockchain infrastructure business. MetaMask names those products directly in its [announcement](https://metamask.io/news/metamask-next-chapter). Its press release says the new company will continue protocol work and build infrastructure for financial institutions and enterprises using tokenization, stablecoins, and programmable settlement.
 
-Self-custody remains the key claim. MetaMask says users will continue to control their keys and assets. That model gives users more direct control than a custodial account, but it also leaves them responsible for recovery practices, transaction approvals, and fraud prevention. The product challenge is not merely adding features. It is making those features understandable without obscuring the consequences of a bad signature or a compromised recovery phrase.
+These are not consumer-wallet products. Linea is an Ethereum Layer 2 network. Besu is an Ethereum execution client used in public-network and permissioned-network settings. Teku is a consensus client. Their users include node operators, application teams, infrastructure providers, and institutions evaluating Ethereum-compatible systems. The work is shaped by software releases, network upgrades, client interoperability, uptime, security review, and long procurement cycles.
 
-## What moves to Consensys
+The institutional business also has a different set of promises to keep. MetaMask's press release refers to privacy, resilience, scale, and compliance needs. A company selling into financial institutions must support those claims with product documentation, implementation work, and operating performance. Announcing an independent company is only the first step. The release does not specify customer contracts, revenue, staffing allocations, or which future products will sit with each company.
 
-The new Consensys will inherit the work aimed at protocols and institutions. MetaMask's release specifically identifies Linea, Besu, and Teku as part of the infrastructure side.
+That absence is not unusual in an initial corporate announcement. It does mean that the practical shape of the new Consensys will emerge from later disclosures: product roadmaps, changes to support arrangements, hiring, network development, and customer deployments. None of those should be assumed from the separation announcement alone.
 
-Linea is Consensys' Ethereum Layer 2 network. Besu is an Ethereum execution client used in public and permissioned settings. Teku is a consensus client. Those products require long technical maintenance cycles, relationships with protocol researchers and client teams, and a different approach to revenue than a consumer wallet.
+## Product boundaries during the transition
 
-The announcement also places the new Consensys closer to institutional adoption of tokenization, stablecoins, and programmable settlement. That is a competitive market with banks, cloud providers, custodians, and specialist blockchain vendors all trying to define the operating model. The new company's case will rest less on brand recognition than on reliability, privacy, interoperability, and the ability to support regulated customers.
+MetaMask says its SDKs, APIs, and developer tooling will continue. The [FAQ attached to its announcement](https://metamask.io/news/metamask-next-chapter) repeats that commitment but does not publish a revised product map, pricing schedule, or support policy. Builders therefore have a clear answer for the present and fewer answers about the later operating model.
 
-![Consensys Software Inc. corporate separation artwork](https://images.ctfassets.net/clixtyxoaeas/tpNs2AVixJrndrbymone0/7f6cc7954aa4c0e4198c910ebbf0a517/MetaMask_Blog_-_CSI_Evolution_PR.png)
+The immediate rule for developers is to rely on published documentation and release notes, not on inferences from the corporate chart. An integration with MetaMask, Linea, Besu, or Teku remains an integration with its existing technical documentation, versioning, service terms, and support channels until the relevant product team says otherwise. The split itself does not announce a change to an API, SDK, wallet connection flow, or network endpoint.
 
-*Image: MetaMask's artwork for its [September 9 corporate separation press release](https://metamask.io/news/consensys-software-inc-to-become-two-independent-companies-metamask-and-consensys).* 
+There may be collaboration at the boundary. MetaMask says Consensys will be a channel partner, and the companies will continue building in the same ecosystem. That language establishes continued contact, not a detailed technical or commercial agreement. It would be premature to describe a future dependency, partnership structure, or product bundle beyond what the companies have stated.
 
-## Why the split is worth watching
+## The user-facing position
 
-This is a corporate decision, but it is also a statement about where Ethereum companies expect demand to come from. The consumer side is betting that more people will want a self-custodial account that does more than store tokens. The institutional side is betting that firms moving from experiments to production will need dedicated Ethereum infrastructure.
+The most important practical point is the one MetaMask has already made: no action is required. A corporate restructuring can attract phishing attempts because users expect a migration notice or an urgent account prompt. MetaMask says there is neither. Wallet holders should treat messages asking them to disclose a recovery phrase, sign an unexplained transaction, or transfer funds because of this announcement as a warning sign.
 
-Neither case is automatic. Consumer crypto products still face security problems, unstable fees, fragmented networks, and confusing transaction flows. Institutional projects move slowly and must satisfy procurement, legal, compliance, and operational requirements. Splitting the companies does not remove those constraints. It makes the choices clearer: MetaMask can optimize for the consumer experience while Consensys can optimize for infrastructure buyers.
+The standard wallet precautions still apply. Check the domain before connecting a wallet, read the transaction request before approving it, keep recovery information offline, and do not rely on a social-media post as a substitute for product documentation. Those are not new policies from the separation; they are the ordinary safeguards for a self-custodial wallet.
 
-There is also a practical question about coordination. MetaMask says Consensys will remain an important channel partner and that the two businesses will continue to build in the same ecosystem. Their products will still touch many of the same networks and developers. Independence can create focus, but it can also introduce new boundaries around roadmaps, commercial arrangements, and technical priorities. The quality of that handoff will become clearer as the companies describe their operating plans.
+There is no announced change to who controls keys. MetaMask says users' keys and assets remain unchanged, while the Money Account materials state that MetaMask cannot access, freeze, or move a user's balance. The company has also said the product is unavailable in the UK and other restricted jurisdictions. Availability and financial-product terms should be checked in MetaMask's current documentation rather than assumed from the corporate announcement.
 
-## What users and builders should watch next
+## The remaining work
 
-Wallet users do not need to do anything because of this announcement. They should still use the normal safeguards that apply to any wallet: verify links, review transaction requests, protect recovery information, and avoid treating a company announcement as a request to move assets.
+The companies have named their leaders, product groups, and target completion date. They have not disclosed every operating detail that will follow from the split. That leaves concrete administrative work: separating teams and systems, defining agreements between the businesses, and explaining any revised product ownership as it becomes relevant.
 
-Developers should watch for concrete changes rather than slogans. MetaMask says its SDKs, APIs, and developer tooling will continue. The useful signals will be release notes, support commitments, pricing changes, product roadmaps, and any changes to how MetaMask's consumer products connect with Linea or other networks.
+The timetable leaves room for those decisions to be made without forcing an immediate product disruption. MetaMask says the companies are already operating independently, while completion of the separation is expected by the end of 2026. Its public materials give users and developers continuity now: the wallet remains unchanged, no action is required from account holders, and SDKs, APIs, and developer tools continue. The transition will become more visible only when a product, service agreement, or support arrangement changes and the relevant company documents it.
 
-For people working in Web3, the split also creates a useful division of roles. MetaMask's consumer direction may need product, payments, security, support, growth, and design teams that understand self-custody. Consensys' institutional direction may need protocol engineers, client developers, enterprise architects, privacy specialists, and teams able to work with financial institutions. Those are different labor markets, even when they share Ethereum as a technical foundation.
+That makes later announcements more useful than broad corporate language. A revised developer agreement, a Linea roadmap, a change to MetaMask's product terms, or a published support contact would establish something concrete. Until then, the reported facts are limited to the split, the leadership assignments, the listed product groups, and the companies' stated plan to keep current user access and developer tooling in place. Those are the terms described in MetaMask's [separation announcement and FAQ](https://metamask.io/news/metamask-next-chapter).
 
-The announcement is not proof that either strategy will work. It is a clearer commitment than the old umbrella structure. MetaMask is choosing to be judged as a consumer financial platform. Consensys is choosing to be judged on the infrastructure it can operate and sell. The separation gives both companies a narrower question to answer, and gives users, developers, and customers a cleaner way to evaluate the result.
+For MetaMask, the test is whether its consumer products remain intelligible as they expand. Its stated plan joins a familiar wallet with payments, trading, stablecoin balances, and yield. Clear disclosures, safe transaction flows, and accurate eligibility information will matter more to users than the new corporate name.
 
-## Sources
-
-- [MetaMask: "MetaMask's next chapter," September 9, 2026, including the cover image](https://metamask.io/news/metamask-next-chapter)
-- [MetaMask press release: Consensys Software Inc. to become MetaMask and Consensys, September 9, 2026, including the separation image](https://metamask.io/news/consensys-software-inc-to-become-two-independent-companies-metamask-and-consensys)
-- [MetaMask: Money Account announcement](https://metamask.io/news/metamask-launches-money-account-bringing-defi-yield-and-global-spending-to-stablecoin-balances)
+For Consensys, the test is different. Linea, Besu, Teku, and institutional infrastructure serve customers who need dependable software and long-lived technical commitments. The new company begins with recognizable products and an established role in Ethereum development. Its future performance will be visible in releases, deployments, client maintenance, and the support it provides to institutional users.

@@ -23,9 +23,10 @@ export interface Article {
  description: string;
  content: string;
  rawContent?: string;
- category: string;
- ['data-ai-hint']?: string;
- publishedDate?: string; // ISO date string e.g."2025-06-01"
+  category: string;
+  ['data-ai-hint']?: string;
+  imageFit?: 'contain' | 'cover';
+  publishedDate?: string; // ISO date string e.g."2025-06-01"
  lastUpdated?: string;  // ISO date string, updated on each deploy
 }
 
