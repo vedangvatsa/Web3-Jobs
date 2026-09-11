@@ -62,10 +62,45 @@ function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
 }
 
 function removePlaceholderKeyTakeaways(content: string): string {
- const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;
- return content.replace(sectionRegex, (section) => {
-  return section.includes('{Key point') ? '\n' : section;
- });
+  const sectionRegex = /(^|\n)## Key Takeaways[\s\S]*?(?=\n## |\n# |\n$)/g;
+  return content.replace(sectionRegex, (section) => {
+    return section.includes('{Key point') ? '\n' : section;
+  });
+}
+
+function repairDiagramMarkup(content: string): string {
+  const diagramTags = /^(\s*)(\/?(?:svg|g|path|rect|circle|line|polygon|polyline|text|tspan|defs|use|marker)\b.*)$/;
+  let inDiagram = false;
+
+  return content
+    .split('\n')
+    .map((line) => {
+      if (/^<div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">$/.test(line)) {
+        inDiagram = true;
+        return '<div class="article-diagram">';
+      }
+
+      if (!inDiagram) return line;
+      if (line === '</div>') {
+        inDiagram = false;
+        return line;
+      }
+      if (!line.trim()) return '';
+
+      if (/^div class=/.test(line)) {
+        return line.replace(/^div class="[^"]*">/, '<div class="article-diagram-title">');
+      }
+
+      const diagramTag = line.match(diagramTags);
+      if (!diagramTag) return line;
+
+      let tag = diagramTag[2];
+      if (tag.startsWith('svg ')) {
+        tag = tag.replace(/class="[^"]*"/, 'class="article-diagram-svg"');
+      }
+      return `${diagramTag[1]}<${tag}>`;
+    })
+    .join('\n');
 }
 
 const latestArticlesPath = path.join(process.cwd(), 'content/latest-articles.json');
@@ -119,7 +154,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const matterResult = matter(fileContents);
 
-  const sanitizedContent = removePlaceholderKeyTakeaways(matterResult.content);
+  const sanitizedContent = repairDiagramMarkup(removePlaceholderKeyTakeaways(matterResult.content));
 
   const processedContent = await remark()
    .use(remarkGfm)
