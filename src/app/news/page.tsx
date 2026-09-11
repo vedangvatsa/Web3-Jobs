@@ -1,7 +1,8 @@
 import { getNewsFeed } from '@/lib/news';
+import { getAllArticles } from '@/lib/articles';
 import { NewsPageClient } from '@/components/news-page-client';
 import type { Metadata } from 'next';
-import type { WebPage, NewsArticle, WithContext } from 'schema-dts';
+import type { WebPage, WithContext } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 
@@ -34,7 +35,19 @@ export const metadata: Metadata = {
 };
 
 export default async function NewsPage() {
- const newsItems = await getNewsFeed();
+ const [feedItems, articles] = await Promise.all([getNewsFeed(), getAllArticles()]);
+ const nativeNews = articles
+  .filter((article) => article.category === 'News')
+  .map((article) => ({
+   title: article.title,
+   link: `/${article.slug}`,
+   pubDate: article.publishedDate || article.lastUpdated || new Date().toISOString(),
+   creator: 'Hashtag Web3',
+   contentSnippet: article.description,
+   source: 'Hashtag Web3',
+  }));
+ const newsItems = [...nativeNews, ...feedItems]
+  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
  const siteUrl = 'https://hashtagweb3.com';
 
  const pageSchema: WithContext<WebPage> = {
@@ -50,38 +63,12 @@ export default async function NewsPage() {
   description:"Stay updated with Web3 news: new job openings, company funding, protocol launches, and career opportunities in crypto, DeFi, NFTs, and blockchain. Updated daily.",
  };
 
- const newsArticlesSchema: WithContext<NewsArticle>[] = newsItems.slice(0, 30).map(item => ({
-  '@context': 'https://schema.org',
-  '@type': 'NewsArticle',
-  headline: item.title,
-  url: item.link,
-  datePublished: new Date(item.pubDate).toISOString(),
-  author: {
-    '@type': 'Organization',
-    name: item.source
-  },
-  publisher: {
-    '@type': 'Organization',
-    name:"Hashtag Web3",
-    logo: {
-      '@type': 'ImageObject',
-      url: `${siteUrl}/logo.png`
-    }
-  }
- }));
-
  return (
   <>
    <script
     type="application/ld+json"
     dangerouslySetInnerHTML={{ __html: JSON.stringify(pageSchema) }}
    />
-   {newsItems.length > 0 && (
-    <script
-     type="application/ld+json"
-     dangerouslySetInnerHTML={{ __html: JSON.stringify(newsArticlesSchema) }}
-    />
-   )}
    <div className="flex flex-col min-h-screen">
         <main className="flex-1">
       <PageShell>
