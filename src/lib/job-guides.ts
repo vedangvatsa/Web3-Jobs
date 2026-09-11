@@ -171,6 +171,12 @@ function getSectionIntro(heading: string, job: Job): string | null {
   return null;
 }
 
+function formatLeverSalaryRange(range: { min?: number; max?: number; currency?: string; interval?: string } | undefined): string {
+  if (!range?.min || !range.max) return '';
+  const interval = range.interval?.replace(/-/g, ' ').replace('salary', '').trim();
+  return `<p>Salary: ${range.currency || 'USD'} ${range.min.toLocaleString()} - ${range.currency || 'USD'} ${range.max.toLocaleString()}${interval ? ` ${interval}` : ''}</p>`;
+}
+
 /**
  * Detailed but not verbatim: renders every section/bullet from the employer
  * posting, wrapped in original editorial framing (intro sentences per section,
@@ -1461,12 +1467,15 @@ export async function fetchJobOriginalContent(job: Job): Promise<string> {
             const data = await res.json();
             let html = '';
             if (data.opening) html += data.opening;
+            if (data.description) html += data.description;
             if (data.descriptionBody) html += data.descriptionBody;
             if (data.lists && Array.isArray(data.lists)) {
               for (const list of data.lists) {
                 html += `<h3>${list.text}</h3>${list.content}`;
               }
             }
+            if (data.salaryDescription) html += data.salaryDescription;
+            html += formatLeverSalaryRange(data.salaryRange);
             if (data.additional) html += data.additional;
             if (html.length > 50) {
               rawContent = html;

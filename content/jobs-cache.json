@@ -1815,7 +1815,8 @@
     "location": "New York, NY",
     "department": "GTM",
     "active": true,
-    "slug": "senior7c734"
+    "slug": "senior7c734",
+    "salary": "USD 168,000 - USD 250,000 per year"
   },
   {
     "id": "8172100",
@@ -1947,7 +1948,8 @@
     "location": "Chicago,IL",
     "department": "Corporate",
     "active": true,
-    "slug": "compliance1764e"
+    "slug": "compliance1764e",
+    "salary": "USD 125,000 - USD 175,000 per year"
   },
   {
     "id": "5419481008",
@@ -3330,7 +3332,8 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "engineer9a52c"
+    "slug": "engineer9a52c",
+    "salary": "USD 150,000 - USD 300,000 per year"
   },
   {
     "id": "fddcfe54-6fd2-4091-bf9c-346f35606cc9",
@@ -3378,7 +3381,8 @@
     "location": "New York, NY",
     "department": "Legal",
     "active": true,
-    "slug": "seniordb15c"
+    "slug": "seniordb15c",
+    "salary": "USD 180,000 - USD 250,000 per year"
   },
   {
     "id": "d6d0c99a-f281-4efe-89c4-026f7f5edc2b",
@@ -6436,7 +6440,8 @@
     "location": "Chicago,IL",
     "department": "Compliance",
     "active": true,
-    "slug": "compliancebe771"
+    "slug": "compliancebe771",
+    "salary": "USD 120,000 - USD 145,000 per year"
   },
   {
     "id": "pwc-digital-assurance-digital-assets-senior-associate",
@@ -21562,7 +21567,8 @@
     "location": "California",
     "department": "Predictions",
     "active": true,
-    "slug": "product173"
+    "slug": "product173",
+    "salary": "USD 120,000 - USD 180,000 per year"
   },
   {
     "id": "7b4941057fd1",
@@ -24231,7 +24237,8 @@
     "location": "San Francisco",
     "department": "Predictions",
     "active": true,
-    "slug": "productd6d6a"
+    "slug": "productd6d6a",
+    "salary": "USD 120,000 - USD 180,000 per year"
   },
   {
     "id": "00d30138-3f9e-4db8-aff0-47fec63080e2",
@@ -24279,7 +24286,8 @@
     "location": "San Francisco",
     "department": "Predictions",
     "active": true,
-    "slug": "product198"
+    "slug": "product198",
+    "salary": "USD 150,000 - USD 230,000 per year"
   },
   {
     "id": "aa57649b-4d03-4b48-80c4-ec5a58f5abb0",
@@ -24315,7 +24323,8 @@
     "location": "San Francisco",
     "department": "Predictions",
     "active": true,
-    "slug": "manager285"
+    "slug": "manager285",
+    "salary": "USD 60,000 - USD 100,000 per year"
   },
   {
     "id": "27ea06ac-89bf-4e59-a6bd-9ec4a607c9ce",
@@ -24460,7 +24469,8 @@
     "location": "Chicago,IL",
     "department": "Compliance",
     "active": true,
-    "slug": "director18"
+    "slug": "director18",
+    "salary": "USD 200,000 - USD 220,000 per year"
   },
   {
     "id": "d6c7e770-abc8-419b-bdae-5669cac93bcf",
@@ -24472,7 +24482,8 @@
     "location": "Chicago,IL",
     "department": "Compliance",
     "active": true,
-    "slug": "vice93bcf"
+    "slug": "vice93bcf",
+    "salary": "USD 120,000 - USD 230,000 per year"
   },
   {
     "id": "7bbc9bd9-1783-40df-a0dd-d2b86a35c3da",
@@ -24484,7 +24495,8 @@
     "location": "Chicago,IL",
     "department": "Compliance",
     "active": true,
-    "slug": "director19"
+    "slug": "director19",
+    "salary": "USD 150,000 - USD 225,000 per year"
   },
   {
     "id": "4704413006",
@@ -25587,7 +25599,8 @@
     "location": "United States",
     "department": "Compliance",
     "active": true,
-    "slug": "compliance99"
+    "slug": "compliance99",
+    "salary": "USD 80,000 - USD 100,000 per year"
   },
   {
     "id": "4724041005",
@@ -28385,7 +28398,8 @@
     "location": "New York - Hybrid",
     "department": "Operations",
     "active": true,
-    "slug": "operations62"
+    "slug": "operations62",
+    "salary": "USD 180,000 - USD 220,000 per year"
   },
   {
     "id": "8007358",
@@ -29620,7 +29634,8 @@
     "location": "Chicago,IL",
     "department": "Operations",
     "active": true,
-    "slug": "manager357"
+    "slug": "manager357",
+    "salary": "USD 150,000 - USD 200,000 per year"
   },
   {
     "id": "9f879ad2-1e41-4487-8907-28a03ffb7b94",
@@ -29632,7 +29647,8 @@
     "location": "Chicago,IL",
     "department": "Operations",
     "active": true,
-    "slug": "onboarding5"
+    "slug": "onboarding5",
+    "salary": "USD 150,000 - USD 200,000 per year"
   },
   {
     "id": "36fa63d5-f3e0-4529-8c87-392aab2763a1",
@@ -30397,7 +30413,8 @@
     "location": "Chicago,IL",
     "department": "Compliance",
     "active": true,
-    "slug": "compliance118"
+    "slug": "compliance118",
+    "salary": "USD 80,000 - USD 100,000 per year"
   },
   {
     "id": "4944654101",
@@ -31356,7 +31373,8 @@
     "location": "United States",
     "department": "Product Management & Product Design",
     "active": true,
-    "slug": "product268"
+    "slug": "product268",
+    "salary": "USD 150,000 - USD 230,000 per year"
   },
   {
     "id": "2785c937-6cbd-45f4-b210-48c6a650b249",
@@ -31440,7 +31458,8 @@
     "location": "San Francisco",
     "department": "Predictions",
     "active": true,
-    "slug": "product271"
+    "slug": "product271",
+    "salary": "USD 150,000 - USD 230,000 per year"
   },
   {
     "id": "8009464",
@@ -32225,7 +32244,8 @@
     "location": "New York",
     "department": "Legal",
     "active": true,
-    "slug": "associate67"
+    "slug": "associate67",
+    "salary": "USD 150,000 - USD 240,000 per year"
   },
   {
     "id": "5380179008",
@@ -35691,7 +35711,8 @@
     "location": "New York, NY",
     "department": "GTM",
     "active": true,
-    "slug": "marketinga8ea1"
+    "slug": "marketinga8ea1",
+    "salary": "USD 225,000 - USD 250,000 per year"
   },
   {
     "id": "b614563f-3ce6-4dca-b5ba-0e5a6c8bda27",
@@ -36800,7 +36821,8 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "product39"
+    "slug": "product39",
+    "salary": "USD 150,000 - USD 180,000 per year"
   },
   {
     "id": "4330687009",
@@ -40679,7 +40701,8 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "marketing0f0ef"
+    "slug": "marketing0f0ef",
+    "salary": "JPY 6,000,000 - JPY 9,500,000 per year"
   },
   {
     "id": "4928720101",
@@ -41666,7 +41689,8 @@
     "location": "Chicago,IL",
     "department": "Corporate",
     "active": true,
-    "slug": "associatef5656"
+    "slug": "associatef5656",
+    "salary": "USD 100,000 - USD 145,000 per year"
   },
   {
     "id": "8063857",
@@ -41690,7 +41714,8 @@
     "location": "United States (East Coast Time Zone) - Remote",
     "department": "People",
     "active": true,
-    "slug": "senior4c664"
+    "slug": "senior4c664",
+    "salary": "USD 140,000 - USD 170,000 per year"
   },
   {
     "id": "0de37732-ab17-4b6d-8507-58039706abda",
@@ -42301,7 +42326,8 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "productdbadf"
+    "slug": "productdbadf",
+    "salary": "JPY 6,000,000 - JPY 8,000,000 per year"
   },
   {
     "id": "2a028deb-0eac-439b-9921-7f0a5cec42c4",
@@ -42651,7 +42677,8 @@
     "location": "Remote",
     "department": "Sales",
     "active": true,
-    "slug": "engineer44"
+    "slug": "engineer44",
+    "salary": "USD 95,000 - USD 150,000 per year"
   },
   {
     "id": "5318418008",
@@ -42795,7 +42822,8 @@
     "location": "Remote",
     "department": "Marketing",
     "active": true,
-    "slug": "marketing37"
+    "slug": "marketing37",
+    "salary": "USD 120,000 - USD 150,000 per year"
   },
   {
     "id": "4335d9e4-a7b1-4bc8-bd7b-d22079481585",
@@ -44126,7 +44154,8 @@
     "location": "Chicago,IL",
     "department": "Compliance",
     "active": true,
-    "slug": "complianceb1006"
+    "slug": "complianceb1006",
+    "salary": "USD 90,000 - USD 110,000 per year"
   },
   {
     "id": "8d9cba61-9f08-4f9b-8c8e-53af2ed91fc6",
@@ -47055,7 +47084,8 @@
     "location": "New York",
     "department": "AI",
     "active": true,
-    "slug": "engineerb62a8"
+    "slug": "engineerb62a8",
+    "salary": "USD 90,000 - USD 150,000 per year"
   },
   {
     "id": "4905494101",
@@ -47534,7 +47564,8 @@
     "location": "Chicago,IL",
     "department": "NADEX",
     "active": true,
-    "slug": "engineerfa85e"
+    "slug": "engineerfa85e",
+    "salary": "USD 70,000 - USD 110,000 per year"
   },
   {
     "id": "4708572005",
@@ -50188,7 +50219,8 @@
     "location": "United States",
     "department": "Predictions",
     "active": true,
-    "slug": "backend0db2c"
+    "slug": "backend0db2c",
+    "salary": "USD 160,000 - USD 200,000 per year"
   },
   {
     "id": "7773207003",
@@ -50273,7 +50305,8 @@
     "location": "Chicago,IL",
     "department": "Corporate",
     "active": true,
-    "slug": "ue8d40"
+    "slug": "ue8d40",
+    "salary": "USD 150,000 - USD 200,000 per year"
   },
   {
     "id": "7C0853F815",
@@ -50610,7 +50643,8 @@
     "location": "United States",
     "department": "Predictions",
     "active": true,
-    "slug": "trader5a3e0"
+    "slug": "trader5a3e0",
+    "salary": "USD 100,000 - USD 150,000 per year"
   },
   {
     "id": "2856cdf1-7bef-4cbc-9451-aa5ceb2940b3",
@@ -50622,7 +50656,8 @@
     "location": "Chicago,IL",
     "department": "Corporate",
     "active": true,
-    "slug": "analyst940b3"
+    "slug": "analyst940b3",
+    "salary": "USD 75,000 - USD 100,000 per year"
   },
   {
     "id": "7981330",
@@ -52496,7 +52531,8 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "manager937b3"
+    "slug": "manager937b3",
+    "salary": "USD 100,000 - USD 250,000 per year"
   },
   {
     "id": "e79894fe-5917-4140-b780-6f4c3c9fa292",
@@ -52508,7 +52544,8 @@
     "location": "New York",
     "department": "Engineering",
     "active": true,
-    "slug": "traderfa292"
+    "slug": "traderfa292",
+    "salary": "USD 100,000 - USD 230,000 per year"
   },
   {
     "id": "4876678101",
@@ -53514,7 +53551,8 @@
     "location": "New York",
     "department": "Customer Success",
     "active": true,
-    "slug": "manager69c0a"
+    "slug": "manager69c0a",
+    "salary": "USD 20,000 - USD 40,000 per year"
   },
   {
     "id": "355471d0-2351-4b5f-8c6a-20b67175a60c",
@@ -56107,7 +56145,8 @@
     "location": "Tokyo",
     "department": "Others",
     "active": true,
-    "slug": "associateaecaa"
+    "slug": "associateaecaa",
+    "salary": "JPY 1,250 - JPY 2,000 per hour wage"
   },
   {
     "id": "c7cc7707-7daa-4741-a74f-01868bb69bf9",
@@ -56119,7 +56158,8 @@
     "location": "Tokyo",
     "department": "Others",
     "active": true,
-    "slug": "intern69bf9"
+    "slug": "intern69bf9",
+    "salary": "JPY 1,250 - JPY 2,000 per hour wage"
   },
   {
     "id": "0557e25a-9141-4259-a289-c080d744d1c7",
@@ -56131,7 +56171,8 @@
     "location": "Tokyo",
     "department": "Others",
     "active": true,
-    "slug": "human4d1c7"
+    "slug": "human4d1c7",
+    "salary": "JPY 4,500,000 - JPY 6,000,000 per year"
   },
   {
     "id": "7736921003",
@@ -56317,7 +56358,8 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "operations4e8a6"
+    "slug": "operations4e8a6",
+    "salary": "JPY 5,500,000 - JPY 7,000,000 per year"
   },
   {
     "id": "ee589b2d-cff2-4474-ae16-a5dac763c21a",
@@ -56687,7 +56729,8 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "engineerbdb93"
+    "slug": "engineerbdb93",
+    "salary": "JPY 6,000,000 - JPY 10,000,000 per year"
   },
   {
     "id": "df2892b9-78d3-45e2-825c-38b8fbe75a15",
@@ -56699,7 +56742,8 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "machine75a15"
+    "slug": "machine75a15",
+    "salary": "JPY 6,000,000 - JPY 10,000,000 per year"
   },
   {
     "id": "13365c0b-76dc-4774-b82d-c33d40262063",
@@ -57022,7 +57066,8 @@
     "location": "Guatemala",
     "department": "Vana Más",
     "active": true,
-    "slug": "verificador1"
+    "slug": "verificador1",
+    "salary": "GTQ 4,500 - GTQ 4,500 per month"
   },
   {
     "id": "cfe8699e-5928-442b-b78a-a878db67f9da",
@@ -57358,7 +57403,8 @@
     "location": "New York, NY",
     "department": "HR & Operations",
     "active": true,
-    "slug": "associate8f770"
+    "slug": "associate8f770",
+    "salary": "USD 145,000 - USD 175,000 per year"
   },
   {
     "id": "5be1852f-94f0-4225-a81c-75d44c71a7b4",
@@ -57477,7 +57523,8 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "bizdevecd7b"
+    "slug": "bizdevecd7b",
+    "salary": "JPY 6,500,000 - JPY 7,500,000 per year"
   },
   {
     "id": "4863085101",
@@ -58450,7 +58497,8 @@
     "location": "Remote",
     "department": "Sales",
     "active": true,
-    "slug": "sales19"
+    "slug": "sales19",
+    "salary": "USD 140,000 - USD 300,000 per year"
   },
   {
     "id": "8527761002",
@@ -58749,7 +58797,8 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "manager38bd7"
+    "slug": "manager38bd7",
+    "salary": "JPY 7,000,000 - JPY 10,000,000 per year"
   },
   {
     "id": "7866674",
@@ -59517,7 +59566,8 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "backend8895f"
+    "slug": "backend8895f",
+    "salary": "JPY 6,000,000 - JPY 9,000,000 per year"
   },
   {
     "id": "b184fc73-75f4-449a-809f-708ed1ff1db8",
@@ -59529,7 +59579,8 @@
     "location": "Tokyo",
     "department": "Langaku",
     "active": true,
-    "slug": "engineerf1db8"
+    "slug": "engineerf1db8",
+    "salary": "JPY 6,000,000 - JPY 9,000,000 per year"
   },
   {
     "id": "7711707003",
@@ -59865,7 +59916,8 @@
     "location": "United States",
     "department": "Community Management",
     "active": true,
-    "slug": "manager93712"
+    "slug": "manager93712",
+    "salary": "USD 80,000 - USD 110,000 per year"
   },
   {
     "id": "8057314002",
@@ -59949,7 +60001,8 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "frontende5a60"
+    "slug": "frontende5a60",
+    "salary": "JPY 6,000,000 - JPY 10,000,000 per year"
   },
   {
     "id": "a21dafd1-efe9-46ce-bd16-42d38b2efc8b",
@@ -60141,7 +60194,8 @@
     "location": "Tokyo",
     "department": "Mantra Engine",
     "active": true,
-    "slug": "engineerea337"
+    "slug": "engineerea337",
+    "salary": "JPY 6,000,000 - JPY 10,000,000 per year"
   },
   {
     "id": "3c4490bc-d354-438f-9e61-a7b41c8fd24e",
@@ -60911,7 +60965,8 @@
     "location": "Guatemala",
     "department": "Vana Más",
     "active": true,
-    "slug": "gestorfd668"
+    "slug": "gestorfd668",
+    "salary": "GTQ 4,500 - GTQ 4,500 per month"
   },
   {
     "id": "f85bcfd1-8d2c-4cf5-a6ab-1c8ddab14c65",
@@ -60923,7 +60978,8 @@
     "location": "Remote",
     "department": "Software Development",
     "active": true,
-    "slug": "engineer43"
+    "slug": "engineer43",
+    "salary": "USD 180,000 - USD 200,000 per year"
   },
   {
     "id": "8483248002",
@@ -62156,7 +62212,8 @@
     "location": "Canada - Remote",
     "department": "Technology & Security Services",
     "active": true,
-    "slug": "security87669"
+    "slug": "security87669",
+    "salary": "USD 209,664 - USD 220,699 per year"
   },
   {
     "id": "8464007002",
@@ -63763,7 +63820,8 @@
     "location": "North America",
     "department": "BNB Chain",
     "active": true,
-    "slug": "devrel1"
+    "slug": "devrel1",
+    "salary": "USD 8 - USD 16 per hour wage"
   },
   {
     "id": "7685312",
@@ -65835,7 +65893,8 @@
     "location": "New York",
     "department": "Sales",
     "active": true,
-    "slug": "director76f50"
+    "slug": "director76f50",
+    "salary": "USD 100,000 - USD 160,000 per year"
   },
   {
     "id": "3eb38f38-9fdc-40fc-964d-be4c7312ca04",
@@ -67299,7 +67358,8 @@
     "location": "New York, NY",
     "department": "GTM",
     "active": true,
-    "slug": "sales560d9"
+    "slug": "sales560d9",
+    "salary": "USD 250,000 - USD 400,000 per year"
   },
   {
     "id": "a62a94bb-2620-4ebe-b414-0b032e783be7",
@@ -68868,7 +68928,8 @@
     "location": "Cupertino, California",
     "department": "Silicon Valley Research Lab (General)",
     "active": true,
-    "slug": "researchd1828"
+    "slug": "researchd1828",
+    "salary": "USD 150,000 - USD 300,000 per year"
   },
   {
     "id": "069f1c84-1751-4a47-8481-7f095695c9c7",
@@ -68880,7 +68941,8 @@
     "location": "New York, New York",
     "department": "Operations",
     "active": true,
-    "slug": "associate12"
+    "slug": "associate12",
+    "salary": "USD 60,000 - USD 80,000 per year"
   },
   {
     "id": "0000299",
@@ -72324,7 +72386,8 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "backend8573d"
+    "slug": "backend8573d",
+    "salary": "USD 150,000 - USD 300,000 per year"
   },
   {
     "id": "6669758",
@@ -73416,7 +73479,8 @@
     "location": "New York",
     "department": "Sales",
     "active": true,
-    "slug": "sales81111"
+    "slug": "sales81111",
+    "salary": "USD 55,000 - USD 80,000 per year"
   },
   {
     "id": "4635587007",
@@ -73536,7 +73600,8 @@
     "location": "New York, NY",
     "department": "Engineering",
     "active": true,
-    "slug": "productc94e6"
+    "slug": "productc94e6",
+    "salary": "USD 155,000 - USD 300,000 per year"
   },
   {
     "id": "6325652003",
@@ -73811,7 +73876,8 @@
     "location": "Singapore",
     "department": "AM",
     "active": true,
-    "slug": "trader0027e"
+    "slug": "trader0027e",
+    "salary": "HKD 10,000 - HKD 15,000 per month"
   },
   {
     "id": "1245204b-d029-4961-9819-bb6fc37d9b16",

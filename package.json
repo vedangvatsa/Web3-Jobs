@@ -44,6 +44,7 @@
     "check:quality": "npx tsx scripts/audit-site-quality.ts",
     "images:unsplash": "npx tsx scripts/assign-unsplash-article-images.ts",
     "images:commons": "npx tsx scripts/assign-commons-article-images.ts",
+    "jobs:backfill-lever-salaries": "npx tsx scripts/backfill-lever-salaries.ts",
     "check:logos": "node scripts/check-logo-case.js",
     "clean:slop": "node scripts/clean-slop.js --apply",
     "ingest:paradigm": "npx tsx scripts/ingest-paradigm.ts"

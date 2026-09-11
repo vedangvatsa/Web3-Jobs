@@ -168,7 +168,15 @@ interface CachedJob {
   slug?: string;
   location?: string;
   department?: string;
+  salary?: string;
   active?: boolean;
+}
+
+function formatLeverSalaryRange(range: { min?: number; max?: number; currency?: string; interval?: string } | undefined): string {
+  if (!range?.min || !range.max) return '';
+  const interval = range.interval?.replace(/-/g, ' ').replace('salary', '').trim();
+  const currency = range.currency || 'USD';
+  return `${currency} ${range.min.toLocaleString()} - ${currency} ${range.max.toLocaleString()}${interval ? ` ${interval}` : ''}`;
 }
 
 function cleanCompany(company: string | undefined): string | undefined {
@@ -205,6 +213,7 @@ function combineLeverContent(posting: {
   description?: string;
   descriptionBody?: string;
   salaryDescription?: string;
+  salaryRange?: { min?: number; max?: number; currency?: string; interval?: string };
   lists?: Array<{ text?: string; content?: string }>;
   additional?: string;
 }): string {
@@ -216,6 +225,8 @@ function combineLeverContent(posting: {
   // Some employers put the full role body in Lever's salary-description field.
   // Treat it as source content, but only after the normal sections.
   sections.push(posting.salaryDescription);
+  const salary = formatLeverSalaryRange(posting.salaryRange);
+  if (salary) sections.push(`<p>Salary: ${salary}</p>`);
   sections.push(posting.additional);
   return sections.filter(Boolean).join('\n');
 }
@@ -691,6 +702,7 @@ async function refreshJobsCache() {
         description?: string;
         descriptionBody?: string;
         salaryDescription?: string;
+        salaryRange?: { min?: number; max?: number; currency?: string; interval?: string };
         lists?: Array<{ text?: string; content?: string }>;
         additional?: string;
       }>;
@@ -699,12 +711,13 @@ async function refreshJobsCache() {
       removeAggregatorCopiesForCompany(lv.company);
 
       let added = 0;
-      for (const posting of postings) {
+        for (const posting of postings) {
         const title = cleanTitle(posting.text);
         const company = normalizeCompany(lv.company);
         const link = posting.hostedUrl;
         const date = posting.createdAt ? new Date(posting.createdAt).toISOString() : new Date().toISOString();
-        const content = combineLeverContent(posting);
+          const content = combineLeverContent(posting);
+          const salary = formatLeverSalaryRange(posting.salaryRange);
 
         if (link && title && title.length <= 180 && !title.toLowerCase().includes('bounty') && isConcreteOpening(title) && isUsableDescription(content)) {
           const candidate: CachedJob = {
@@ -716,6 +729,7 @@ async function refreshJobsCache() {
               source: sourceLabel('Lever', lv.board, lv.company),
               location: posting.categories?.location,
               department: posting.categories?.department || posting.categories?.team,
+              ...(salary ? { salary } : {}),
               active: true,
           };
           if (upsertJob(candidate)) added++;
