@@ -1,12 +1,17 @@
 ---
-title: Decentralized Identifiers (DIDs) Architecture W3C Standards and Technical Implementation
-description: A comprehensive technical guide to Decentralized Identifiers (DIDs), W3C standards, Verifiable Credentials, Zero-Knowledge proofs, and smart contract registry implementation.
-date: 2026-03-28
+title: >-
+  Decentralized Identifiers (DIDs) Architecture W3C Standards and Technical
+  Implementation
+description: >-
+  A detailed technical guide to Decentralized Identifiers (DIDs), W3C standards,
+  Verifiable Credentials, Zero-Knowledge proofs, and smart contract registry
+  implementation.
+date: 2026-03-28T00:00:00.000Z
 author: Alex Rivera
-tags: Decentralized Identity, DIDs, Cryptography, Smart Contracts, W3C Standards
+tags: 'Decentralized Identity, DIDs, Cryptography, Smart Contracts, W3C Standards'
 slug: what-is-a-decentralized-identifier
-publishedDate: "2026-09-07"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-09-07'
+lastUpdated: '2026-09-08'
 ---
 
 Centralized identity systems rely on centralized authorities (such as Google, Meta, or state identity registries) to issue, manage, and verify user digital identities. This architecture creates single points of failure, invasive tracking across web applications, and data loss risks when central entities suffer security breaches or revoke access.

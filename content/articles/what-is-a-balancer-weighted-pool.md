@@ -1,10 +1,12 @@
 ---
 title: What is a Balancer Weighted Pool and How Does It Work
-description: A comprehensive technical guide to Balancer Weighted Pools, constant mean market maker mathematics, 80/20 pools, and single-vault liquidity architecture.
+description: >-
+  A detailed technical guide to Balancer Weighted Pools, constant mean market
+  maker mathematics, 80/20 pools, and single-vault liquidity architecture.
 category: Educational
 data-ai-hint: balancer weighted pool
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 image: /images/articles/charts/balancer-weighted-math-architecture.svg
 ---
 
@@ -12,7 +14,7 @@ Decentralized finance relies heavily on automated market makers to facilitate to
 
 Balancer revolutionized decentralized automated market making by generalizing the constant product model into an arbitrary Constant Mean Market Maker model, formalized in the [Balancer Protocol v2 Whitepaper](https://balancer.fi/whitepaper.pdf) and implemented in the open-source [Balancer Core Contracts Repository](https://github.com/balancer/balancer-v2-monorepo). Through Balancer Weighted Pools, decentralized finance engineers and liquidity providers can build multi-asset liquidity pools containing up to eight different tokens in custom, non-equal proportions, such as eighty-twenty, sixty-forty, or diversified multi-token portfolios.
 
-Understanding how Balancer Weighted Pools function requires dissecting the mathematical equations governing multi-asset invariants, the single vault architectural paradigm, impermanent loss mitigation dynamics, and automated portfolio rebalancing mechanisms.
+Understanding how Balancer Weighted Pools function requires dissecting the mathematical equations governing multi-asset invariants, the single vault architectural model, impermanent loss mitigation dynamics, and automated portfolio rebalancing mechanisms.
 
 ---
 
@@ -164,7 +166,7 @@ This dynamic eliminates the incentive for automated bots to front-run the pool c
 
 ---
 
-## The veBAL Governance Paradigm and 80/20 BPT Staking
+## The veBAL Governance Model and 80/20 BPT Staking
 
 When Balancer redesigned its tokenomics architecture, it adapted the vote-escrow model originally popularized by [Curve Finance](https://curve.fi). However, Balancer introduced a critical innovation: instead of requiring users to lock pure, unbacked BAL tokens, Balancer requires locking Balancer Pool Tokens (BPT) from an 80/20 BAL/WETH pool.
 

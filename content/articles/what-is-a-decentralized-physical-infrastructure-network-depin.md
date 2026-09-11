@@ -1,10 +1,13 @@
 ---
 title: What is a Decentralized Physical Infrastructure Network DePIN
 image: /images/articles/charts/depin-flywheel-architecture.svg
-description: A comprehensive technical and economic analysis of Decentralized Physical Infrastructure Networks (DePIN), exploring Proof of Physical Work, token flywheels, hardware coordination, and enterprise adoption.
+description: >-
+  A detailed technical and economic analysis of Decentralized Physical
+  Infrastructure Networks (DePIN), exploring Proof of Physical Work, token
+  flywheels, hardware coordination, and enterprise adoption.
 category: Educational
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - DePIN
   - Helium
@@ -24,7 +27,7 @@ Once constructed, these centralized infrastructure giants extract monopoly rents
 
 Instead of a telecom company spending $\$20 	ext{ billion}$ to erect cell towers, thousands of independent individuals purchase, install, and operate wireless access points, dashcams, weather stations, or GPU servers in their homes and vehicles. In exchange for providing verified physical utility to the network, hardware operators receive cryptographic token emissions.
 
-By replacing centralized corporate balance sheets with crowdsourced, permissionless coordination, DePIN projects, backed by venture research from [a16z crypto](https://a16zcrypto.com), [Paradigm](https://paradigm.xyz), [Binance Labs](https://labs.binance.com), and [Electric Capital](https://www.electriccapital.com), are delivering telecommunications, geospatial intelligence, and artificial intelligence compute at costs 50% to 90% below legacy providers. This thesis provides an exhaustive technical and economic analysis of DePIN network taxonomy, Proof of Physical Work verification architectures, the Burn-and-Mint Equilibrium economic flywheel, and the engineering careers driving this physical-digital convergence.
+By replacing centralized corporate balance sheets with crowdsourced, permissionless coordination, DePIN projects, backed by venture research from [a16z crypto](https://a16zcrypto.com), [Model](https://model.xyz), [Binance Labs](https://labs.binance.com), and [Electric Capital](https://www.electriccapital.com), are delivering telecommunications, geospatial intelligence, and artificial intelligence compute at costs 50% to 90% below legacy providers. This thesis provides an exhaustive technical and economic analysis of DePIN network taxonomy, Proof of Physical Work verification architectures, the Burn-and-Mint Equilibrium economic flywheel, and the engineering careers driving this physical-digital convergence.
 
 
 ---
@@ -140,7 +143,7 @@ Traditional mobile network operators (MNOs) like [AT&T](https://www.att.com) and
 
 [Helium Mobile](https://hellohelium.com) solves this through a hybrid architectural model:
 - **Crowdsourced Small Cells**: Small business owners and consumers purchase plug-and-play CBRS and carrier-grade Wi-Fi hotspots, installing them in cafes, offices, and residential windows.
-- **T-Mobile MVNO Roaming Partnership**: When a subscriber travels outside crowdsourced Helium coverage, the phone seamlessly roams onto the nationwide [T-Mobile 5G Network](https://www.t-mobile.com).
+- **T-Mobile MVNO Roaming Partnership**: When a subscriber travels outside crowdsourced Helium coverage, the phone smoothly roams onto the nationwide [T-Mobile 5G Network](https://www.t-mobile.com).
 - **Consumer Savings**: By utilizing decentralized hardware to carry up to 70% of local subscriber traffic in dense urban areas, Helium Mobile offers unlimited cellular service for $\$20 	ext{ per month}$, undercutting traditional carrier pricing by over 70%.
 
 ### 2. Hivemapper vs Google Street View

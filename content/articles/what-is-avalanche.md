@@ -2,10 +2,13 @@
 title: What is Avalanche? A Guide to the High-Throughput Blockchain
 image: /images/articles/charts/avalanche-multichain-subnets.svg
 data-ai-hint: avalanche avax snowball consensus subnets c-chain p-chain
-description: An empirical technical thesis on Avalanche architecture, exploring metastable Snowball consensus, the Primary Network tri-chain design, custom sovereign Subnets, and Avalanche Warp Messaging.
+description: >-
+  An empirical technical thesis on Avalanche architecture, exploring metastable
+  Snowball consensus, the Primary Network tri-chain design, custom sovereign
+  Subnets, and Avalanche Warp Messaging.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 slug: what-is-avalanche
 ---
 
@@ -13,7 +16,7 @@ The evolution of distributed consensus protocols is historically categorized int
 
 Conversely, Nakamoto consensus (introduced in [Bitcoin](https://bitcoin.org) and adapted into Proof of Stake on the [Ethereum Foundation](https://ethereum.org) Beacon Chain) scales to tens of thousands of participants, but suffers from probabilistic finality, high latency, and vulnerability to selfish mining or temporary chain reorganizations.
 
-In 2018, an anonymous group known as Team Rocket, led by Cornell computer science professor Emin Gün Sirer, published the foundational whitepaper introducing the Snow family of consensus protocols. Formalized into production by [Ava Labs](https://avalabs.org), [Avalanche](https://avax.network) established a third paradigm in distributed systems: metastable consensus based on repeated random sub-sampling.
+In 2018, an anonymous group known as Team Rocket, led by Cornell computer science professor Emin Gün Sirer, published the foundational whitepaper introducing the Snow family of consensus protocols. Formalized into production by [Ava Labs](https://avalabs.org), [Avalanche](https://avax.network) established a third model in distributed systems: metastable consensus based on repeated random sub-sampling.
 
 Combined with a multi-chain Primary Network and a sovereign Subnet architecture, Avalanche has become a premier Layer 1 execution network, powering high-frequency decentralized finance, institutional asset tokenization, and dedicated application blockchains.
 

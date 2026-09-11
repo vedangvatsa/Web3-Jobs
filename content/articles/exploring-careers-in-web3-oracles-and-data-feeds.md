@@ -1,10 +1,13 @@
 ---
 title: Exploring Careers in Web3 Oracles and Data Feeds
 image: /images/articles/charts/oracle-engineer-career-path.svg
-description: A comprehensive career roadmap for Web3 oracle engineers, examining node reliability operations, defensive smart contract integration, protocol architecture, compensation benchmarks, and interview design challenges.
+description: >-
+  A detailed career roadmap for Web3 oracle engineers, examining node
+  reliability operations, defensive smart contract integration, protocol
+  architecture, compensation benchmarks, and interview design challenges.
 category: Career Guides
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - Web3 Careers
   - Oracle Engineering
@@ -18,7 +21,7 @@ tags:
 
 In the decentralized finance ecosystem, smart contracts manage tens of billions of dollars in collateral, automated lending pools, perpetual futures, and cross-chain liquidity bridges. Yet, every smart contract deployed on the [Ethereum Foundation](https://ethereum.org) network, [Solana Protocol](https://solana.com), or [Arbitrum Layer 2](https://arbitrum.io) is essentially blind, deaf, and mute without external data. Blockchains are deterministic state machines that cannot connect to the internet, read external APIs, or observe real-world market movements natively.
 
-Decentralized oracles provide the critical sensory infrastructure of the decentralized web. When an oracle operates smoothly, billions of dollars in global capital clear seamlessly across protocols like [Aave](https://aave.com), [MakerDAO](https://makerdao.com), and [GMX](https://gmx.io). But when an oracle malfunctions, delays an update, or reports a distorted price, the consequences are catastrophic: automated lending pools suffer instant multi-million-dollar insolvencies, solvent borrowers face erroneous liquidations, and protocols freeze.
+Decentralized oracles provide the critical sensory infrastructure of the decentralized web. When an oracle operates smoothly, billions of dollars in global capital clear smoothly across protocols like [Aave](https://aave.com), [MakerDAO](https://makerdao.com), and [GMX](https://gmx.io). But when an oracle malfunctions, delays an update, or reports a distorted price, the consequences are catastrophic: automated lending pools suffer instant multi-million-dollar insolvencies, solvent borrowers face erroneous liquidations, and protocols freeze.
 
 Because the financial stakes are exceptionally high, organizations across the Web3 ecosystem, including core infrastructure firms like [Chainlink Labs](https://chain.link), [Pyth Data Association](https://pyth.network), and [RedStone Finance](https://redstone.finance), as well as tier-1 DeFi protocols and institutional node operators, compete aggressively for specialized engineering talent. This career roadmap provides an empirical guide to the technical competencies, core specialization tracks, compensation benchmarks, interview frameworks, and portfolio requirements needed to forge an elite career in Web3 oracle engineering.
 

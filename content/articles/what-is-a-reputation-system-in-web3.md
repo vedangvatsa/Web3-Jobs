@@ -1,11 +1,14 @@
 ---
-title: "What is a Reputation System in Web3"
-image: "/images/christopher-gower-m_HRfLhgABo-unsplash.jpg"
-data-ai-hint: "person reputation score onchain identity chart"
-description: "An architectural guide to Web3 reputation systems, soulbound tokens, verifiable credentials, zero-knowledge proofs, and decentralized identity scoring algorithms."
-category: "Educational"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+title: What is a Reputation System in Web3
+image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
+data-ai-hint: person reputation score onchain identity chart
+description: >-
+  An architectural guide to Web3 reputation systems, soulbound tokens,
+  verifiable credentials, zero-knowledge proofs, and decentralized identity
+  scoring algorithms.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 ---
 
 ![Web3 Reputation and Identity Architecture](/images/articles/charts/web3-reputation-identity-architecture.svg)
@@ -77,7 +80,7 @@ Formalized through ERC-5192 (Minimal Soulbound Tokens) and ERC-4973 (Account-bou
 
 ## 2. On-Chain Data Sources and Scoring Algorithms
 
-A robust Web3 reputation score cannot rely on static badges alone. Modern reputation engines analyze dynamic execution state across multiple public ledger domains to aggregate transactional telemetry into multi-dimensional reputation matrices.
+A reliable Web3 reputation score cannot rely on static badges alone. Modern reputation engines analyze dynamic execution state across multiple public ledger domains to aggregate transactional telemetry into multi-dimensional reputation matrices.
 
 
 ### Multi-Dimensional Data Aggregation
@@ -202,7 +205,7 @@ By integrating verifiable reputation scoring engines, protocols can offer tiered
 
 ### Sybil-Resistant Governance and Quadratic Funding
 
-In standard one-token-one-vote governance models, capital concentration enables whales to outvote broad community consensus. Furthermore, pure one-person-one-vote systems are vulnerable to Sybil attacks, where an attacker generates thousands of automated wallet addresses to manipulate voting outcomes.
+In standard one-token-one-vote governance models, capital concentration enables whales to outvote broad community consensus. pure one-person-one-vote systems are vulnerable to Sybil attacks, where an attacker generates thousands of automated wallet addresses to manipulate voting outcomes.
 
 Quadratic voting and quadratic funding models mathematically balance funding allocations by weighting the number of individual contributors more heavily than total capital raised:
 

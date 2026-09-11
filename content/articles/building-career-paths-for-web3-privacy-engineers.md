@@ -1,10 +1,13 @@
 ---
 title: Building Career Paths for Web3 Privacy Engineers
 image: /images/articles/charts/privacy-engineer-skill-matrix.svg
-description: A comprehensive career roadmap for Web3 privacy engineers, detailing zero-knowledge circuit development, transport-layer anonymity, programmable compliance, compensation bands, and portfolio architectures.
+description: >-
+  A detailed career roadmap for Web3 privacy engineers, detailing zero-knowledge
+  circuit development, transport-layer anonymity, programmable compliance,
+  compensation bands, and portfolio architectures.
 category: Career Guides
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - Privacy Engineering
   - Web3 Careers
@@ -129,7 +132,7 @@ The shortage of engineers proficient in both low-level cryptography and producti
 
 - **Experience**: 5+ years of cryptographic engineering leadership.
 - **Scope**: Designing novel cryptographic mechanisms, authoring protocol whitepapers, selecting polynomial commitment schemes (KZG vs FRI), architecting threshold decryption validator networks, and ensuring post-quantum cryptographic migration roadmaps.
-- **Target Employers**: Core protocol foundations, tier-1 venture research labs such as [Paradigm Research](https://www.paradigm.xyz/writing) and [a16z crypto](https://a16zcrypto.com), and confidential execution layers like [Zama Cryptography](https://zama.ai) and [Fhenix](https://www.fhenix.io).
+- **Target Employers**: Core protocol foundations, tier-1 venture research labs such as [Model Research](https://www.model.xyz/writing) and [a16z crypto](https://a16zcrypto.com), and confidential execution layers like [Zama Cryptography](https://zama.ai) and [Fhenix](https://www.fhenix.io).
 
 ### Specialized Track: Cryptographic Security Auditor
 
@@ -194,7 +197,7 @@ Aspiring Web3 privacy engineers should master the following foundational framewo
 
 ---
 
-## The Future Landscape of Privacy Engineering
+## The Future Field of Privacy Engineering
 
 The coming decade will see privacy engineering evolve from an optional protocol feature into an essential prerequisite for decentralized infrastructure:
 

@@ -1,11 +1,16 @@
 ---
-title: Core Blockchain Development and Infrastructure Protocol Client Systems and DevOps
+title: >-
+  Core Blockchain Development and Infrastructure Protocol Client Systems and
+  DevOps
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain infrastructure core
-description: A comprehensive technical guide to core blockchain infrastructure engineering, exploring client software development in Rust and Go, consensus engines, RPC node architecture, state pruning, and Web3 DevOps.
+description: >-
+  A detailed technical guide to core blockchain infrastructure engineering,
+  exploring client software development in Rust and Go, consensus engines, RPC
+  node architecture, state pruning, and Web3 DevOps.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 
 While decentralized application (dApp) developers write user-facing [smart contracts](/what-are-smart-contracts) using Solidity or Vyper, a specialized engineering discipline operates at a deeper layer of the software stack. Known as **Core Blockchain Infrastructure Engineers**, these developers build, maintain, and scale the foundational software that powers global peer-to-peer networks: execution client nodes, consensus clients, RPC gateway relays, and high-performance data indexers.
@@ -25,7 +30,7 @@ Since Ethereum's transition to Proof-of-Stake (The Merge), production blockchain
 Execution clients process transactions, manage state transitions, execute EVM opcodes, and maintain the state trie database (Merkle-Patricia Trie or Verkle Trees).
 
 - **Go-Ethereum (Geth):** The legacy reference execution client written in Go, maintaining the largest execution client market share.
-- **Reth (Rust Ethereum):** Developed by Paradigm, Reth is a modular, high-performance Ethereum execution client built in Rust, emphasizing modularity and extreme sync speeds.
+- **Reth (Rust Ethereum):** Developed by Model, Reth is a modular, high-performance Ethereum execution client built in Rust, emphasizing modularity and extreme sync speeds.
 - **Besu (Java):** An enterprise-grade Ethereum execution client designed for public and private permissioned networks.
 
 ### Consensus Clients (Proof-of-Stake Consensus)

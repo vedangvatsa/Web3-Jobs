@@ -3,10 +3,12 @@ title: What is a Cliff Period in Token Vesting
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: cliff vesting crypto
 description: >-
-  A deep technical and economic analysis of cliff periods in token vesting, covering smart contract lockups, linear streaming protocols, legal token agreements, and tokenomics.
+  A deep technical and economic analysis of cliff periods in token vesting,
+  covering smart contract lockups, linear streaming protocols, legal token
+  agreements, and tokenomics.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 
 In traditional corporate equity structures, executive stock options and employee equity grants are governed by standard vesting schedules designed to align employee incentives with long-term company performance. In the [Web3](/what-is-web3) ecosystem, equity has largely been complemented or replaced by native digital [tokens](/what-is-a-token). However, because digital tokens operate on public blockchain networks and can be traded on secondary markets 24 hours a day, token vesting mechanisms require even more rigorous design than traditional corporate equity.
@@ -25,7 +27,7 @@ A **cliff period** is a predetermined, mandatory time window at the beginning of
 ### Key Rules of Cliff Vesting
 
 1. **Zero Accrual During Cliff**: If an employee, advisor, or contractor leaves the organization on Day 360 of a 365-day cliff, they forfeit 100% of their token allocation, walking away with zero tokens.
-2. **Cliff Maturity Lump-Sum Unlock**: On the exact date of the cliff maturity (Day 365), a lump sum representing the accumulated cliff percentage (typically 25% of the total grant for a 4-year schedule) vests immediately.
+2. **Cliff Maturity Lump-Sum Enable**: On the exact date of the cliff maturity (Day 365), a lump sum representing the accumulated cliff percentage (typically 25% of the total grant for a 4-year schedule) vests immediately.
 3. **Post-Cliff Linear Streaming**: Following the cliff maturity event, the remaining 75% of the token allocation vests on a continuous linear schedule (monthly, daily, or block-by-block) over the remainder of the vesting term.
 
 ---
@@ -38,11 +40,11 @@ To illustrate how cliff vesting functions in practice, consider an engineering m
 Total Grant: 480,000 Tokens
 Vesting Duration: 48 Months (4 Years)
 Cliff Duration: 12 Months (1 Year)
-Initial Cliff Unlock: 25% (120,000 Tokens)
+Initial Cliff Enable: 25% (120,000 Tokens)
 Post-Cliff Monthly Stream: 7,500 Tokens / Month (for 36 months)
 ```
 
-### Cumulative Token Unlock Timeline
+### Cumulative Token Enable Timeline
 
 | Time Elapsed | Vesting Status | Tokens Unlocked in Period | Cumulative Tokens Unlocked | Percentage of Total Grant |
 | :--- | :--- | :--- | :--- | :--- |
@@ -193,7 +195,7 @@ For crypto analysts, investors, and prospective employees, analyzing the cliff p
 - **Team and Core Founders**: 12-month cliff followed by 36-month linear vesting (48 months total).
 - **Venture Capital (Seed Round)**: 6 to 12-month cliff followed by 18 to 24-month linear vesting.
 - **Advisors**: 6 to 12-month cliff followed by 12 to 24-month linear vesting.
-- **Public IDO Buyers**: 0 to 1-month cliff with 15% to 20% TGE unlock followed by 6-month linear vesting.
+- **Public IDO Buyers**: 0 to 1-month cliff with 15% to 20% TGE enable followed by 6-month linear vesting.
 
 ---
 
@@ -226,7 +228,7 @@ Ensure that your token grant contract address is provided to you in writing befo
 If an employee departs on month 11 of a 12-month cliff, they forfeit 100% of their token allocation. Zero tokens vest, and the unvested tokens are returned to the protocol treasury or burned.
 
 ### Can a cliff period be applied to public sale IDO buyers?
-Yes. Many launchpads enforce a short cliff (e.g., 1 to 3 months) or a partial initial unlock at TGE (e.g., 15% TGE unlock) followed by a cliff and linear vesting to prevent immediate secondary market dumping.
+Yes. Many launchpads enforce a short cliff (e.g., 1 to 3 months) or a partial initial enable at TGE (e.g., 15% TGE enable) followed by a cliff and linear vesting to prevent immediate secondary market dumping.
 
 ### What is the difference between a cliff and a lockup period?
 A **cliff** is the initial period in a vesting schedule before any tokens begin accruing to the beneficiary. A **lockup period** refers to a restriction preventing fully vested tokens from being sold, transferred, or traded on secondary markets for a specified duration.
@@ -234,8 +236,8 @@ A **cliff** is the initial period in a vesting schedule before any tokens begin 
 ### How do smart contracts handle vesting revokability?
 Vesting contracts can be deployed as *revokable* or *irrevokable*. In a revokable contract, protocol admins can terminate an unvested schedule if an employee is terminated for cause, returning unvested tokens to the treasury. In an irrevocable contract, the vesting schedule cannot be altered by admins once deployed.
 
-### What is a cliff cliff-edge unlock vs smooth linear vesting?
-A cliff-edge unlock releases a lump-sum percentage (e.g., 25%) immediately on the cliff maturity date. Smooth linear vesting releases tokens continuously per block or per second after the cliff, preventing massive periodic market sell pressure associated with monthly unlock dates.
+### What is a cliff cliff-edge enable vs smooth linear vesting?
+A cliff-edge enable releases a lump-sum percentage (e.g., 25%) immediately on the cliff maturity date. Smooth linear vesting releases tokens continuously per block or per second after the cliff, preventing massive periodic market sell pressure associated with monthly enable dates.
 
 ### How does cliff vesting apply to decentralized autonomous organizations (DAOs)?
 DAOs use smart contract vaults (such as Aragon, GovernorBravo, or Sablier) to manage core contributor grants. DAO proposals explicitly define the cliff duration and vesting schedule parameters, ensuring that community token holders approve all contributor grants on-chain before tokens are escrowed.

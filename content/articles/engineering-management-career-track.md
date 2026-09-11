@@ -1,18 +1,19 @@
 ---
-title: 'Engineering Management Career Track'
+title: Engineering Management Career Track
 description: >-
-  Navigate the transition from individual contributor to engineering manager,
-  understanding leadership skill shifts, team dynamics, and executive career progression.
+  Manage the transition from individual contributor to engineering manager,
+  understanding leadership skill shifts, team dynamics, and executive career
+  progression.
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: flowchart diagram
 category: Career Guides
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 ---
 
 ## The Dual-Track Career Model: Individual Contributor vs. Management
 
-For software engineers, the decision to transition from an individual contributor (IC) role to engineering management presents a significant career crossroads. Many engineers find themselves considering whether to pursue advancement as a Staff or Principal Engineer or to take on a leadership position. The IC path emphasizes technical depth, system architecture, and hands-on development, while the management track focuses on empowering people, removing organizational bottlenecks, and amplifying impact through team leadership.
+For software engineers, the decision to transition from an individual contributor (IC) role to engineering management presents a significant career crossroads. Many engineers find themselves considering whether to pursue advancement as a Staff or Principal Engineer or to take on a leadership position. The IC path emphasizes technical depth, system architecture, and hands-on development, while the management track focuses on enabling people, removing organizational bottlenecks, and amplifying impact through team leadership.
 
 The journey into engineering management spans from overseeing technical execution to guiding people and ultimately steering entire engineering organizations. Understanding this progression is essential for engineers contemplating a leadership path.
 

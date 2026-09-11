@@ -1,10 +1,13 @@
 ---
 title: Indexing Blockchain Data with The Graph
 image: /images/articles/charts/the-graph-indexing-pipeline.svg
-description: A comprehensive technical guide to blockchain indexing with The Graph, exploring Graph Node architecture, AssemblyScript WASM mappings, GraphQL schemas, and decentralized GRT query markets.
+description: >-
+  A detailed technical guide to blockchain indexing with The Graph, exploring
+  Graph Node architecture, AssemblyScript WASM mappings, GraphQL schemas, and
+  decentralized GRT query markets.
 category: Getting Started
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - The Graph
   - Subgraphs
@@ -365,6 +368,6 @@ To build enterprise-grade subgraphs that synchronize efficiently and resist inde
 - [The Graph Documentation](https://thegraph.com/docs): Canonical documentation covering Subgraph Studio, Graph CLI, AssemblyScript API, and migration guides.
 - [The Graph Explorer](https://thegraph.com/explorer): Discover thousands of open-source, production-tested subgraphs deployed by protocols like [Uniswap](https://uniswap.org), [Aave](https://aave.com), [Synthetix](https://synthetix.io), [Compound Finance](https://compound.finance), [Curve Finance](https://curve.fi), [Balancer](https://balancer.fi), [MakerDAO](https://makerdao.com), and [Sushiswap](https://sushi.com).
 - [Graph Tooling Repository](https://github.com/graphprotocol/graph-tooling): The open-source home of Graph CLI and Graph TypeScript compiler.
-- [StreamingFast Substreams Docs](https://substreams.streamingfast.io): Comprehensive guides for authoring parallel Rust data processing pipelines.
+- [StreamingFast Substreams Docs](https://substreams.streamingfast.io): Detailed guides for authoring parallel Rust data processing pipelines.
 
 By decoupling raw blockchain consensus from client-side data consumption, The Graph provides the relational foundation that enables decentralized applications to deliver the speed, analyzed on platforms like [DefiLlama](https://defillama.com), [Dune Analytics](https://dune.com), and [Nansen](https://nansen.ai), while integrating with decentralized storage rails from [Arweave](https://arweave.org), [Filecoin](https://fil.org), [Pinata](https://www.pinata.cloud), and [Chainlink Oracles](https://chain.link). reliability, and rich user experiences demanded by the modern internet.

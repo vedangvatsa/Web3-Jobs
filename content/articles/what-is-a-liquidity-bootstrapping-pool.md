@@ -1,10 +1,13 @@
 ---
 title: What is a Liquidity Bootstrapping Pool and How It Works
-description: A comprehensive technical guide to Liquidity Bootstrapping Pools, dynamic weight decay mathematics, anti-bot price discovery, and capital-efficient token launches.
+description: >-
+  A detailed technical guide to Liquidity Bootstrapping Pools, dynamic weight
+  decay mathematics, anti-bot price discovery, and capital-efficient token
+  launches.
 category: Educational
 data-ai-hint: liquidity bootstrapping pool
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 image: /images/articles/charts/liquidity-bootstrapping-pool-decay.svg
 ---
 
@@ -12,7 +15,7 @@ Decentralized token launches have historically struggled with adverse selection,
 
 The Liquidity Bootstrapping Pool (LBP), invented by [Balancer](https://balancer.fi/whitepaper.pdf) and built upon the open-source [Balancer Core Contracts](https://github.com/balancer/balancer-v2-monorepo) documented at [Balancer Docs](https://docs.balancer.fi/), introduced an elegant algorithmic mechanism designed to achieve decentralized, fair, and bot-resistant price discovery.
 
-By utilizing dynamic, time-decaying pool weights, an LBP continuously applies downward pressure on token prices throughout the sale event. This dynamic turns automated market making into a continuous Dutch auction (expanding on Dutch auction primitives like [Gnosis DutchX](https://github.com/gnosis/dx-contracts) and auction research from [Paradigm on Batch Auctions](https://www.paradigm.xyz/2020/08/batch-auctions-and-continuous-double-auctions) and [VRGDAs](https://www.paradigm.xyz/2022/08/vrgda)), enabling nascent decentralized organizations to raise capital and distribute tokens without prohibitive upfront collateral or vulnerability to front-running bots.
+By utilizing dynamic, time-decaying pool weights, an LBP continuously applies downward pressure on token prices throughout the sale event. This dynamic turns automated market making into a continuous Dutch auction (expanding on Dutch auction primitives like [Gnosis DutchX](https://github.com/gnosis/dx-contracts) and auction research from [Model on Batch Auctions](https://www.model.xyz/2020/08/batch-auctions-and-continuous-double-auctions) and [VRGDAs](https://www.model.xyz/2022/08/vrgda)), enabling nascent decentralized organizations to raise capital and distribute tokens without prohibitive upfront collateral or vulnerability to front-running bots.
 
 ---
 
