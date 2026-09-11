@@ -26,6 +26,7 @@ import { getEventSlug, getEventFormat, getEventEcosystems, getEventDatePill, for
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
+import { EventCard } from '@/components/event-card';
 import { DetailPageHeader } from '@/components/detail-page-header';
 import { getEventBySlug, getEvents, getRelatedEvents } from '@/lib/events-server';
 import { Button } from '@/components/ui/button';
@@ -510,7 +511,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {/* Full-width Article */}
               <section className="mt-8 max-w-none space-y-10 text-sm text-muted-foreground sm:text-base">
                 {/* Summary Lead */}
-                <p className="text-base leading-7 text-foreground/80 sm:text-lg sm:leading-8">
+                <p className="leading-7">
                   {editorial.summaryLead}
                 </p>
 
@@ -545,12 +546,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
               {relatedEvents.length > 0 && (
                 <section className="mt-12 space-y-4 border-t pt-8">
                   <div className="flex items-center justify-between">
-                    <div>
-                      <h2 className="text-xl font-bold text-foreground">Related Upcoming Events</h2>
-                      <p className="text-xs text-muted-foreground">
-                        Explore other conferences and hackathons in similar ecosystems.
-                      </p>
-                    </div>
+                    <h2 className="text-xl font-bold text-foreground">Related Upcoming Events</h2>
                     <Button asChild variant="ghost" size="sm" className="text-xs text-muted-foreground hover:text-foreground">
                       <Link href="/events" className="flex items-center gap-1">
                         <span>All Events</span>
@@ -559,31 +555,10 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                     </Button>
                   </div>
 
-                  <div className="grid grid-cols-1 sm:grid-cols-3 gap-4">
-                    {relatedEvents.map((relEvent) => {
-                      const relSlug = getEventSlug(relEvent);
-                      return (
-                        <Link
-                          key={relEvent.id}
-                          href={`/${relSlug}`}
-                          className="block p-4 rounded-xl border bg-card hover:border-primary/50 hover:shadow-xs transition-all flex flex-col justify-between"
-                        >
-                          <div className="space-y-1.5">
-                            <p className="text-xs text-muted-foreground font-medium">
-                              {formatEventDate(relEvent.startDate, relEvent.endDate)}
-                            </p>
-                            <h3 className="font-bold text-sm text-foreground line-clamp-2">
-                              {relEvent.name}
-                            </h3>
-                            <p className="text-xs text-muted-foreground truncate">{relEvent.location}</p>
-                          </div>
-                          <div className="pt-3 mt-3 border-t text-xs text-primary font-medium flex items-center gap-1">
-                            <span>View Event Guide</span>
-                            <ArrowRight className="h-3 w-3" />
-                          </div>
-                        </Link>
-                      );
-                    })}
+                  <div className="grid grid-cols-1 gap-4 sm:grid-cols-2 lg:grid-cols-3">
+                    {relatedEvents.map((relEvent) => (
+                      <EventCard key={relEvent.id} event={relEvent} />
+                    ))}
                   </div>
                 </section>
               )}
