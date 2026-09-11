@@ -2,7 +2,8 @@
   "postedIds": [
     "web3-essential-skills-2026",
     "web3-skills-2026",
-    "smart-contract-security-rules"
+    "smart-contract-security-rules",
+    "web3-skills-2026"
   ],
   "history": [
     {
@@ -21,6 +22,12 @@
       "id": "smart-contract-security-rules",
       "postId": "17956334826218753",
       "postedAt": "2026-09-10T16:35:48.241Z",
+      "slideCount": 5
+    },
+    {
+      "id": "web3-skills-2026",
+      "postId": "18070667816748497",
+      "postedAt": "2026-09-11T16:40:42.348Z",
       "slideCount": 5
     }
   ]
