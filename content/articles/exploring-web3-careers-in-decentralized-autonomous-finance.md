@@ -7,7 +7,7 @@ description: >-
   key roles, from smart contract engineering to quantitative analysis.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 ## A Career Lens for Decentralized Finance
 
@@ -103,4 +103,4 @@ DeFi offers the opportunity to work at the meeting point of finance and technolo
 
 The practical route is to select a part of the ecosystem, learn its financial and technical language, use the relevant tools, and produce work that can be reviewed. For developers, that may mean a carefully scoped contract exercise. For quants, it may mean a transparent dashboard and analysis. For researchers, auditors, product managers, and communicators, it means work that shows an understanding of the protocol problem rather than a generic interest in Web3.
 
-There is no need to master every DeFi category before starting. There is a need to be specific. A candidate who can explain one protocol function, one role, and one piece of public work has a stronger basis for a conversation than one who claims familiarity with the entire field. That is the useful standard for navigating a sector that is both technically demanding and financially consequential.
+There is no need to master every DeFi category before starting. There is a need to be specific. A candidate who can explain one protocol function, one role, and one piece of public work has a stronger basis for a conversation than one who claims familiarity with the entire field. That is the useful standard for working through a sector that is both technically demanding and financially consequential.

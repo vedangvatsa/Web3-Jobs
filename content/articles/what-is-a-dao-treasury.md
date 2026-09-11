@@ -2,10 +2,13 @@
 title: What is a DAO Treasury and How is it Managed
 image: /images/articles/charts/dao-treasury-asset-allocation.svg
 data-ai-hint: dao treasury balance sheet safe gnosis timelock governance
-description: An empirical technical thesis on DAO treasury architecture, analyzing balance sheet diversification, multi-signature custody, timelock governance controllers, and risk mitigation against hostile takeovers.
+description: >-
+  An empirical technical thesis on DAO treasury architecture, analyzing balance
+  sheet diversification, multi-signature custody, timelock governance
+  controllers, and risk mitigation against hostile takeovers.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 slug: what-is-a-dao-treasury
 ---
 
@@ -149,7 +152,7 @@ Engineering teams establishing a decentralized protocol should adhere to these b
 4. Continuous Asset Liability Management: Deploy excess stablecoins into tokenized short-term US Treasury bills or conservative liquid staking derivatives to generate yield while preserving capital liquidity.
 5. Deploy Streaming for Contributors: Eliminate lumpsum salary payouts. Utilize continuous streaming protocols with cancellation rights to align incentives with active contribution.
 
-By treating decentralized treasury management as an exercise in adversarial engineering, mathematical asset allocation, and strict cryptographic custody, DAOs can build robust financial foundations capable of surviving cyclical market downturns and sustaining decentralized protocols for decades to come.
+By treating decentralized treasury management as an exercise in adversarial engineering, mathematical asset allocation, and strict cryptographic custody, DAOs can build reliable financial foundations capable of surviving cyclical market downturns and sustaining decentralized protocols for decades to come.
 
 ## Further reading
 

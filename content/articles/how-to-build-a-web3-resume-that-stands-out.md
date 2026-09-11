@@ -2,10 +2,13 @@
 title: How to Build a Web3 Resume That Stands Out
 image: /images/articles/charts/web3-resume-portfolio-matrix.svg
 data-ai-hint: web3 resume crypto portfolio engineering career
-description: An empirical thesis and comprehensive guide on crafting a high-signal Web3 resume, structuring on-chain proof of work, optimizing GitHub repositories, and navigating automated ATS parsers.
+description: >-
+  An empirical thesis and detailed guide on crafting a high-signal Web3 resume,
+  structuring on-chain proof of work, optimizing GitHub repositories, and
+  working through automated ATS parsers.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 slug: how-to-build-a-web3-resume-that-stands-out
 ---
 
@@ -185,7 +188,7 @@ Before reaching out to a protocol founder or engineering lead, identify their op
 
 1. Identify a Genuine Improvement: Look for incomplete test coverage in a Foundry suite, an unindexed event in a smart contract, or outdated documentation.
 
-2. Submit a Pristine Pull Request: Write clean code, add comprehensive tests, follow their contributing guidelines, and submit a pull request with an explanatory message.
+2. Submit a Pristine Pull Request: Write clean code, add detailed tests, follow their contributing guidelines, and submit a pull request with an explanatory message.
 
 3. Reach Out to the Engineering Lead: Send a direct message on Farcaster, X, or Telegram referencing the pull request:
 
@@ -193,7 +196,7 @@ Before reaching out to a protocol founder or engineering lead, identify their op
 
 This approach immediately establishes that you can read their codebase, write production-grade code, and contribute value without requiring hand-holding. In a talent market characterized by thousands of generic applications, proactive proof of work is the ultimate competitive differentiator.
 
-### Navigating Pseudonymity and Legal Identity in Hiring
+### Working through Pseudonymity and Legal Identity in Hiring
 
 A unique aspect of Web3 recruitment is the prevalence of pseudonymous engineers. Candidates often build public reputations and author open-source protocols under a cryptographic pseudonym or avatar.
 
@@ -207,7 +210,7 @@ Different categories of Web3 organizations evaluate technical candidates through
 
 ### 1. Venture-Backed Crypto Startups
 
-Startups funded by venture firms like [a16z crypto](https://a16zcrypto.com) or [Paradigm](https://paradigm.xyz) prioritize product velocity, full-stack competency, and rapid feature execution. Their resumes should highlight frontend integration with Viem and Wagmi, efficient state handling, and previous experience managing production cloud infrastructure or microservices alongside smart contracts.
+Startups funded by venture firms like [a16z crypto](https://a16zcrypto.com) or [Model](https://model.xyz) prioritize product velocity, full-stack competency, and rapid feature execution. Their resumes should highlight frontend integration with Viem and Wagmi, efficient state handling, and previous experience managing production cloud infrastructure or microservices alongside smart contracts.
 
 ### 2. Protocol Foundations and DAOs
 

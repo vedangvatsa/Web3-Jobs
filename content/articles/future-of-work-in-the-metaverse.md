@@ -7,7 +7,7 @@ description: >-
   career paths in persistent virtual worlds, from digital architects to.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 The metaverse is moving from a speculative idea toward a functional reality. Shared virtual environments reshape not only social activity and entertainment, but also work. The future of work extends beyond the remote office when professional interaction takes place inside virtual spaces that people can enter, build, manage, and share. This shift generates a diverse job market with roles specific to these digital areas.
 
@@ -79,7 +79,7 @@ For world-building and virtual-asset roles, gain proficiency in tools such as Bl
 
 ### Participate in existing environments
 
-Actively participate in platforms such as Decentraland or VRChat. The purpose is to understand their cultures and user experiences, including what makes a virtual environment engaging. This grounds career preparation in the perspective of the people who will use the work. A virtual space is not only a collection of technical features or assets. It is a setting people enter, navigate, and share.
+Actively participate in platforms such as Decentraland or VRChat. The purpose is to understand their cultures and user experiences, including what makes a virtual environment engaging. This grounds career preparation in the perspective of the people who will use the work. A virtual space is not only a collection of technical features or assets. It is a setting people enter, manage, and share.
 
 ### Build concrete evidence
 

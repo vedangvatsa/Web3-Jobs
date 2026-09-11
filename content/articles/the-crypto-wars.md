@@ -1,10 +1,11 @@
 ---
-title: 'The Crypto Wars'
+title: The Crypto Wars
 description: >-
-  An investigative thesis examining the legal battles over software encryption, source code as speech, and zero-knowledge privacy protocols.
+  An investigative thesis examining the legal battles over software encryption,
+  source code as speech, and zero-knowledge privacy protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 slug: the-crypto-wars
 ---
 
@@ -66,7 +67,7 @@ To expose the legal contradiction of export restrictions, civil liberties activi
 
 During this period, federal law enforcement also proposed mandatory hardware key escrow through the Clipper Chip initiative. The Clipper Chip was a dedicated microchip designed by the National Security Agency (NSA) for telecommunications devices. It utilized the Skipjack encryption algorithm and contained a built-in backdoor key held in escrow by federal agencies. The initiative faced widespread opposition from computer scientists, who demonstrated that mandatory key escrow created single points of failure vulnerable to unauthorized access and security breaches.
 
-Furthermore, cypherpunks utilized early electronic mailing lists to coordinate legal defense strategies and publish cryptographic tools. Luminaries like Timothy C. May, Eric Hughes, and John Gilmore argued that privacy was essential for an open society in the digital age. In his 1993 document [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html), Eric Hughes articulated that privacy is not secrecy, but the power to selectively reveal oneself to the world. This philosophical foundation framed strong cryptography as a fundamental civil liberty rather than a threat to national security.
+cypherpunks utilized early electronic mailing lists to coordinate legal defense strategies and publish cryptographic tools. Luminaries like Timothy C. May, Eric Hughes, and John Gilmore argued that privacy was essential for an open society in the digital age. In his 1993 document [A Cypherpunk's Manifesto](https://www.activism.net/cypherpunk/manifesto.html), Eric Hughes articulated that privacy is not secrecy, but the power to selectively reveal oneself to the world. This philosophical foundation framed strong cryptography as a fundamental civil liberty rather than a threat to national security.
 
 ---
 
@@ -157,7 +158,7 @@ Legal scholars analyze smart contracts as consisting of two connected representa
 
 If federal courts allow executive agencies to prohibit interaction with open-source software, the precedent could extend beyond privacy protocols to decentralized exchanges, lending algorithms, and cross-chain messaging bridges.
 
-Furthermore, criminal indictments against open-source developers create a chilling effect across computer science research. When software developers face criminal liability for writing code that third parties subsequently misuse, developers are deterred from publishing privacy-preserving algorithms. This legal conflict threatens fundamental open-source development principles that underpin modern software infrastructure.
+criminal indictments against open-source developers create a chilling effect across computer science research. When software developers face criminal liability for writing code that third parties subsequently misuse, developers are deterred from publishing privacy-preserving algorithms. This legal conflict threatens fundamental open-source development principles that underpin modern software infrastructure.
 
 The distinction between writing code and operating an illegal financial service is central to ongoing litigation. Open-source developers who publish code do not take custody of user assets, process transactions manually, or manage user funds. Treating developer publishing as financial intermediation fundamentally misinterprets how autonomous software protocols operate.
 

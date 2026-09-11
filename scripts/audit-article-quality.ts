@@ -18,6 +18,28 @@ const editorialPatterns = [
   /\bit is important to note\b/gi,
   /\bmarking a pivotal moment\b/gi,
   /\bushering in a new era\b/gi,
+  /\blandscape\b/gi,
+  /\bleverag(?:e|ing)\b/gi,
+  /\brobust\b/gi,
+  /\bfoster(?:ing)?\b/gi,
+  /\bembrac(?:e|ing)\b/gi,
+  /\bseamless(?:ly)?\b/gi,
+  /\brealm\b/gi,
+  /\bdelv(?:e|ing)\b/gi,
+  /\bparadigm\b/gi,
+  /\bpivotal\b/gi,
+  /\bunprecedented\b/gi,
+  /\brevolutioniz(?:e|ing)\b/gi,
+  /\bcutting-edge\b/gi,
+  /\bharness(?:ing)?\b/gi,
+  /\bunlock(?:ing)?\b/gi,
+  /\btapestry\b/gi,
+  /\btestament\b/gi,
+  /\bfurthermore\b/gi,
+  /\bmoreover\b/gi,
+  /\bat its core\b/gi,
+  /\bit's worth noting\b/gi,
+  /\bin today's fast-paced\b/gi,
 ];
 
 type ArticleIssue = {
@@ -70,8 +92,12 @@ for (const file of fs.readdirSync(articlesDirectory).filter((name) => name.endsW
     articleIssues.push('ASCII diagram block');
   }
 
+  const proseContent = content.replace(/```[\s\S]*?```/g, ' ');
   const matchedPatterns = editorialPatterns
-    .filter((pattern) => pattern.test(content))
+    .filter((pattern) => {
+      pattern.lastIndex = 0;
+      return pattern.test(proseContent);
+    })
     .map((pattern) => pattern.source.replace(/\\b|\\/g, ''));
   if (matchedPatterns.length) articleIssues.push(`template phrasing: ${matchedPatterns.join(', ')}`);
 

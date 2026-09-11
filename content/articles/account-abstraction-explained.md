@@ -38,7 +38,7 @@ Companion upgrades like [EIP-7702](https://eips.ethereum.org/EIPS/eip-7702) (shi
 
 ## Who Needs Account Abstraction?
 
-- **Web3 Developers & Applications:** Onboard users seamlessly by sponsoring gas fees via Paymasters or allowing gas payment in ERC-20 tokens.
+- **Web3 Developers & Applications:** Onboard users smoothly by sponsoring gas fees via Paymasters or allowing gas payment in ERC-20 tokens.
 - **End-Users Seeking Safe Self-Custody:** Replace seed phrases with hardware passkeys (FaceID/TouchID) and multi-party social recovery modules.
 - **DAO & Treasury Operations:** Enforce multi-signature thresholds, daily spending limits, and automated role permissions directly at the account contract level.
 

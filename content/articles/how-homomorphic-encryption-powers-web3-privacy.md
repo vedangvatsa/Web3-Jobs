@@ -1,10 +1,13 @@
 ---
 title: How Homomorphic Encryption Powers Web3 Privacy
 image: /images/articles/charts/homomorphic-encryption-pipeline.svg
-description: An in-depth technical analysis of homomorphic encryption in decentralized networks, examining RLWE lattice mathematics, noise bootstrapping, fhEVM confidential smart contracts, and threshold decryption architectures.
+description: >-
+  An in-depth technical analysis of homomorphic encryption in decentralized
+  networks, examining RLWE lattice mathematics, noise bootstrapping, fhEVM
+  confidential smart contracts, and threshold decryption architectures.
 category: Technology Deep Dives
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - Homomorphic Encryption
   - FHE
@@ -22,7 +25,7 @@ While public verifiability ensures auditability, it introduces structural vulner
 
 Zero-knowledge proofs such as zk-SNARKs and zk-STARKs address verification privacy by proving that an off-chain computation was executed faithfully without revealing its private inputs, as established in studies published by [Coin Center](https://www.coincenter.org) and the [Electronic Frontier Foundation](https://www.eff.org). However, zero-knowledge proofs face a fundamental architectural limitation: a zero-knowledge prover must possess the private witness locally to generate the proof. Consequently, standard zero-knowledge systems cannot perform computations over shared, encrypted state submitted asynchronously by multiple mutually distrusting counterparties.
 
-Fully Homomorphic Encryption (FHE) resolves this challenge. By enabling arbitrary algebraic computations to be executed directly over ciphertexts without prior decryption, homomorphic encryption allows decentralized networks to maintain shared confidential state. Validators execute smart contract logic, settle decentralized exchange trades, and update balances blindly, unlocking composable, confidential decentralized finance.
+Fully Homomorphic Encryption (FHE) resolves this challenge. By enabling arbitrary algebraic computations to be executed directly over ciphertexts without prior decryption, homomorphic encryption allows decentralized networks to maintain shared confidential state. Validators execute smart contract logic, settle decentralized exchange trades, and update balances blindly, enabling composable, confidential decentralized finance.
 
 
 ---
@@ -104,7 +107,7 @@ CKKS is heavily utilized in privacy-preserving machine learning and encrypted ne
 
 The TFHE cryptosystem, pioneered by [Ilaria Chillotti, Nicolas Gama, Mariya Georgieva, and Malika Izabachene](https://eprint.iacr.org/2018/421.pdf), operates over torus representations $\mathbb{T} = \mathbb{R} / \mathbb{Z}$, implementing fast arithmetic validated in the original [TFHE Library Specification](https://tfhe.github.io/tfhe/) and archived within the [IACR Cryptology ePrint Archive](https://eprint.iacr.org).
 
-Unlike BGV or CKKS, where bootstrapping requires significant computational resources, TFHE evaluates a bootstrap step alongside every binary NAND or MUX gate in 10 to 30 milliseconds. Furthermore, TFHE supports programmable bootstrapping (PBS), enabling non-linear look-up tables to be evaluated homomorphically simultaneously with noise refreshing. This makes TFHE the primary choice for decentralized virtual machines executing dynamic branching and conditionals.
+Unlike BGV or CKKS, where bootstrapping requires significant computational resources, TFHE evaluates a bootstrap step alongside every binary NAND or MUX gate in 10 to 30 milliseconds. TFHE supports programmable bootstrapping (PBS), enabling non-linear look-up tables to be evaluated homomorphically simultaneously with noise refreshing. This makes TFHE the primary choice for decentralized virtual machines executing dynamic branching and conditionals.
 
 ---
 
@@ -248,7 +251,7 @@ Under an FHE-powered AMM, swap sizes, limit orders, and reserve balances are enc
 
 $$k = x_{\text{enc}} \cdot y_{\text{enc}}$$
 
-is evaluated homomorphically. Arbitrageurs cannot inspect trade directions or frontrun orders, eliminating predatory MEV at the protocol layer, directly overcoming the frontrunning vectors exposed by [Flashbots MEV-Boost](https://boost.flashbots.net) and dark pool architectural proposals highlighted by [Paradigm Research](https://www.paradigm.xyz/writing) and [a16z crypto research](https://a16zcrypto.com).
+is evaluated homomorphically. Arbitrageurs cannot inspect trade directions or frontrun orders, eliminating predatory MEV at the protocol layer, directly overcoming the frontrunning vectors exposed by [Flashbots MEV-Boost](https://boost.flashbots.net) and dark pool architectural proposals highlighted by [Model Research](https://www.model.xyz/writing) and [a16z crypto research](https://a16zcrypto.com).
 
 ### 2. Private DAO Governance
 

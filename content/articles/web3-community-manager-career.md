@@ -79,7 +79,7 @@ Becoming a CM typically begins with active participation in a community.
 
 **Head of Community:** Experienced CMs can advance to leadership positions, overseeing a team of community managers and developing overall community strategy.
 
-The Community Manager role poses challenges but offers significant rewards. Engaging with a project at its core allows you to build relationships and support a culture essential for success in the decentralized environment.
+The Community Manager role poses challenges but offers significant rewards. Working closely with a project allows you to build relationships and support a culture necessary for success in the decentralized environment.
 
 ### The Web3 Community Tooling Stack
 

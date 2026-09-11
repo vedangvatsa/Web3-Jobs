@@ -3,10 +3,11 @@ title: A Guide to Crypto & Web3 Slang and Acronyms
 image: /images/gilles-lambert-pb_lF8VWaPU-unsplash.jpg
 data-ai-hint: crypto web3 slang
 description: >-
-  An extensive technical and cultural dictionary of Web3, cryptocurrency, DeFi, and developer slang, acronyms, and terminology for engineers and investors.
+  An extensive technical and cultural dictionary of Web3, cryptocurrency, DeFi,
+  and developer slang, acronyms, and terminology for engineers and investors.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 
 Entering the world of [Web3](/what-is-web3), cryptocurrency, and decentralized finance can initially feel like learning an entirely new language. The Web3 community relies on a dense, rapidly evolving lexicon composed of technical computer science acronyms, financial trading terminology, game theory concepts, and internet-native meme slang born on Crypto Twitter, Discord servers, and Telegram developer groups.
@@ -47,12 +48,12 @@ Originally stemming from a legendary drunken forum post on BitcoinTalk in Decemb
 
 ## 2. Technical Protocol and Infrastructure Acronyms
 
-For developers building on public blockchains, understanding technical acronyms is necessary for navigating smart contract development and node infrastructure.
+For developers building on public blockchains, understanding technical acronyms is necessary for working through smart contract development and node infrastructure.
 
 
 ### EVM (Ethereum Virtual Machine)
 
-The sandboxed 256-bit execution environment that executes smart contract bytecode across all Ethereum nodes. Layer 1 and Layer 2 blockchains that support EVM compatibility (such as Polygon, Arbitrum, Optimism, Avalanche C-Chain, and Base) allow developers to deploy Solidity smart contracts seamlessly across multiple networks.
+The sandboxed 256-bit execution environment that executes smart contract bytecode across all Ethereum nodes. Layer 1 and Layer 2 blockchains that support EVM compatibility (such as Polygon, Arbitrum, Optimism, Avalanche C-Chain, and Base) allow developers to deploy Solidity smart contracts smoothly across multiple networks.
 
 ### EIP and ERC (Ethereum Improvement Proposals & Requests for Comment)
 
@@ -120,7 +121,7 @@ A smart contract that enforces a mandatory delay window (such as 48 hours or 7 d
 
 ---
 
-## 5. Comprehensive Web3 Slang and Acronym Dictionary
+## 5. Detailed Web3 Slang and Acronym Dictionary
 
 Below is an alphabetical reference table covering additional essential Web3 terms:
 
@@ -130,7 +131,7 @@ Below is an alphabetical reference table covering additional essential Web3 term
 | **ATH / ATL** | All-Time High / Low | The highest or lowest historical market price recorded for a specific digital asset. |
 | **Bridge** | Cross-Chain Protocol | A smart contract protocol allowing users to transfer tokens between two distinct blockchains. |
 | **Burn** | Supply Destruction | Permanently removing tokens from circulation by sending them to an un-spendable null address (`0x000...000`). |
-| **Cliff** | Vesting Milestone | A mandatory period of time after a TGE before any vested tokens begin unlocking for team or seed investors. |
+| **Cliff** | Vesting Milestone | A mandatory period of time after a TGE before any vested tokens begin enabling for team or seed investors. |
 | **DEX** | Decentralized Exchange | A non-custodial peer-to-peer exchange (like Uniswap) operating via Automated Market Makers. |
 | **DYOR** | Do Your Own Research | A foundational disclaimer advising individuals to independently evaluate code, whitepapers, and team backgrounds. |
 | **Gas War** | Blockchain Congestion | A scenario where thousands of users compete to get transactions included in the next block by bidding high priority fees. |

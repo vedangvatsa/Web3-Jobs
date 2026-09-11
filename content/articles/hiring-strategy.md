@@ -1,12 +1,14 @@
 ---
-title: 'Web3 Hiring Strategy Guide'
+title: Web3 Hiring Strategy Guide
 image: /images/articles/charts/hiring-token-vesting.svg
 data-ai-hint: web3 hiring compensation vesting
 description: >-
-  A founder manual for hiring in crypto: sourcing on-chain talent, sizing token grants, structuring vesting cliffs, screening fake workers, and global payroll.
+  A founder manual for hiring in crypto: sourcing on-chain talent, sizing token
+  grants, structuring vesting cliffs, screening fake workers, and global
+  payroll.
 category: Industry Insights
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 ---
 Hiring in Web3 tests founders on terrain that corporate recruiting playbooks never anticipated. [Electric Capital developer report](https://www.developerreport.com/) counts over 23,000 monthly active open-source crypto contributors, with 74% living outside North America. Competition for protocol engineers, security researchers, and token economists remains sharp even during market drawdowns. Tech candidates with offers from established tech firms evaluate early-stage crypto teams on treasury transparency, token emission logic, and founder execution speed. Founders who rely on LinkedIn searches, boilerplate recruiters, and standard option agreements watch their target candidates take offers from protocols that speak native crypto.
 
@@ -33,7 +35,7 @@ The benchmark allocation standard sets aside between 15% and 20% of total fully 
 ![Web3 token vesting schedule](/images/articles/charts/hiring-token-vesting.svg)
 *Figure: Standard 4-year Web3 token vesting schedule with 12-month cliff. Data: [Pantera Capital](https://panteracapital.com/blockchain-compensation-survey-2024/) and [Toku](https://www.toku.com/resources/how-do-token-vesting-schedules-work).*
 
-The standard vesting mechanics require a strict 12-month cliff. If a contributor departs or faces termination before completing twelve months of service, zero tokens vest. At the twelve-month milestone, exactly 25% of the total grant vests immediately. The remaining 75% vests linearly on a monthly or block-by-block basis over the subsequent 36 months. [Toku token vesting mechanics](https://www.toku.com/resources/how-do-token-vesting-schedules-work) warns against accelerated cliffs or milestone-only unlocking schedules, which often lead to premature contributor departure and secondary market dumping.
+The standard vesting mechanics require a strict 12-month cliff. If a contributor departs or faces termination before completing twelve months of service, zero tokens vest. At the twelve-month milestone, exactly 25% of the total grant vests immediately. The remaining 75% vests linearly on a monthly or block-by-block basis over the subsequent 36 months. [Toku token vesting mechanics](https://www.toku.com/resources/how-do-token-vesting-schedules-work) warns against accelerated cliffs or milestone-only enabling schedules, which often lead to premature contributor departure and secondary market dumping.
 
 Token grant documentation must separate equity from token rights when projects operate a dual legal structure. A corporate equity plan should pair with a Token Incentive Plan (TIP) administered by the project's offshore foundation or protocol development entity. [Blockchain Capital token compensation primer](https://www.blockchaincapital.com/blog/token-compensation-primer) details how token allocation agreements define whether grants represent Token Purchase Agreements, Restricted Token Units (RTUs), or Token Options.
 

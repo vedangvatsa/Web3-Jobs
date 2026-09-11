@@ -8,7 +8,7 @@ description: >-
   tips on how to present your Web3 projects to recruiters and hiring managers.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 In [Web3](/what-is-web3), a well-crafted [portfolio](/building-web3-portfolio) of projects is important for advancing a career. Building the work is only part of the equation. If it is presented poorly or lacks visibility, even an outstanding portfolio can be overlooked by recruiters and hiring managers.
 
@@ -67,7 +67,7 @@ GitHub allows up to six repositories to be pinned at the top of a profile. Use t
 
 ### Write Excellent READMEs
 
-Each project repository needs a detailed `README.md`. The README is the first technical explanation many reviewers will see, and it should let them understand the project before asking them to navigate the codebase.
+Each project repository needs a detailed `README.md`. The README is the first technical explanation many reviewers will see, and it should let them understand the project before asking them to manage the codebase.
 
 - **What it is:** Explain the project's purpose clearly.
 - **How it works:** Give a brief description of the technical architecture.

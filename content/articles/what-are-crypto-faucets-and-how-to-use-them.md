@@ -8,7 +8,7 @@ description: >-
   anti-Sybil mechanisms, and developer tooling.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 
 In the early architecture of public blockchain networks, a **crypto faucet** referred to a web service that dispensed micro-allocations of mainnet cryptocurrency to user wallets for free or in exchange for completing basic tasks (such as solving a CAPTCHA or viewing a page). In 2010, early Bitcoin developer Gavin Andresen launched the original Bitcoin Faucet, dispensing 5 BTC per visitor to encourage peer-to-peer adoption and wallet testing at a time when Bitcoin held negligible fiat value.
@@ -117,7 +117,7 @@ forge verify-contract YOUR_DEPLOYED_ADDRESS \
   --etherscan-api-key YOUR_ETHERSCAN_KEY
 ```
 
-By leveraging testnet faucets, engineering teams run continuous integration (CI) test suites, execute mainnet-forked simulations using `anvil --fork-url`, and conduct public security audits on live testnets prior to mainnet launch.
+By using testnet faucets, engineering teams run continuous integration (CI) test suites, execute mainnet-forked simulations using `anvil --fork-url`, and conduct public security audits on live testnets prior to mainnet launch.
 
 ## Career Opportunities in Blockchain Developer Infrastructure
 

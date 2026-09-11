@@ -1,10 +1,13 @@
 ---
 title: What is a Curve Pool in DeFi and How Does It Work
 image: /images/articles/charts/curveswap-invariant-curve.svg
-description: A comprehensive mathematical analysis of Curve Finance, exploring the StableSwap invariant, amplification coefficient A, CryptoSwap dynamic pegs, veCRV tokenomics, and depeg dynamics.
+description: >-
+  A detailed mathematical analysis of Curve Finance, exploring the StableSwap
+  invariant, amplification coefficient A, CryptoSwap dynamic pegs, veCRV
+  tokenomics, and depeg dynamics.
 category: Educational
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - Curve Finance
   - DeFi
@@ -264,7 +267,7 @@ contract CurveSwapper {
 
 ## Architectural Comparison: Curve vs Uniswap vs Balancer
 
-Decentralized exchanges serve complementary roles across the liquidity landscape:
+Decentralized exchanges serve complementary roles across the liquidity field:
 
 
 While [Uniswap v3](https://uniswap.org) excels at volatile trading pairs through discrete tick ranges, and [Balancer](https://balancer.fi) dominates weighted multi-asset index portfolios, Curve remains the unrivaled institutional infrastructure for stablecoins, liquid staking tokens, and wrapped assets.
@@ -273,7 +276,7 @@ While [Uniswap v3](https://uniswap.org) excels at volatile trading pairs through
 
 ## Summary of the Curve Protocol Evolution
 
-Curve Finance demonstrated that specialized financial primitives outperform general-purpose models when applied to specific asset classes. Through the StableSwap invariant, Curve unlocked unprecedented capital efficiency for pegged digital assets.
+Curve Finance demonstrated that specialized financial primitives outperform general-purpose models when applied to specific asset classes. Through the StableSwap invariant, Curve unlocked unusual capital efficiency for pegged digital assets.
 
 Through veTokenomics, Curve created the modern standard for decentralized governance and token incentive distribution. Through Curve v2, it expanded automated market making into self-rebalancing volatile pools.
 

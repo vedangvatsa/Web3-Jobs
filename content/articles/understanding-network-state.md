@@ -1,11 +1,13 @@
 ---
-title: "Understanding Network State in Blockchains"
-image: "/images/nasa-cIX5TlQ_FgM-unsplash.jpg"
-data-ai-hint: "blockchain network state trie structure database"
-description: "An architectural guide to blockchain network state, state transitions, Merkle Patricia Tries, state bloat, and statelessness."
-category: "Educational"
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+title: Understanding Network State in Blockchains
+image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
+data-ai-hint: blockchain network state trie structure database
+description: >-
+  An architectural guide to blockchain network state, state transitions, Merkle
+  Patricia Tries, state bloat, and statelessness.
+category: Educational
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 ---
 
 ![Blockchain Network State Architecture](/images/articles/charts/network-state-evm-trie.svg)
@@ -14,7 +16,7 @@ At the foundation of public [blockchain](/what-is-a-blockchain) networks lies th
 
 In computer science, a state machine is a system that reads inputs, processes them according to strict transition rules, and transitions from an initial state $S_t$ to an updated state $S_{t+1}$. In networks like [Ethereum](/what-is-ethereum) and Solana, the network state acts as the shared, global "hard drive" of a decentralized world computer, storing account balances, smart contract bytecode, key-value storage variables, and transaction counters.
 
-Understanding how network state is structured, updated, cryptographically verified, and pruned is essential for blockchain protocol developers, smart contract engineers, and infrastructure architects. This comprehensive guide breaks down the data structures, cryptographic trie implementations, state bloat challenges, state access gas optimizations, and scaling solutions defining modern blockchain state design.
+Understanding how network state is structured, updated, cryptographically verified, and pruned is essential for blockchain protocol developers, smart contract engineers, and infrastructure architects. This detailed guide breaks down the data structures, cryptographic trie implementations, state bloat challenges, state access gas optimizations, and scaling solutions defining modern blockchain state design.
 
 ---
 

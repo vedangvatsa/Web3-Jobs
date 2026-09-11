@@ -1,10 +1,12 @@
 ---
 title: Understanding Concentrated Liquidity in Uniswap v3
-description: A rigorous mathematical and architectural guide to Uniswap v3 concentrated liquidity, virtual reserves, discrete tick spaces, and LVR dynamics.
+description: >-
+  A rigorous mathematical and architectural guide to Uniswap v3 concentrated
+  liquidity, virtual reserves, discrete tick spaces, and LVR dynamics.
 category: Educational
 data-ai-hint: concentrated liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 image: /images/articles/charts/concentrated-liquidity-tick-math.svg
 ---
 
@@ -12,7 +14,7 @@ Decentralized automated market makers transformed digital asset trading by repla
 
 Uniswap v3 revolutionized decentralized finance by introducing concentrated liquidity, formalized in the canonical [Uniswap v3 Core Whitepaper](https://uniswap.org/whitepaper-v3.pdf) and implemented in the open-source [Uniswap v3 Core Contracts](https://github.com/Uniswap/v3-core) and [Periphery Contracts](https://github.com/Uniswap/v3-periphery) documented at [Uniswap Developer Docs](https://docs.uniswap.org/). Instead of spreading capital across an infinite price continuum, liquidity providers can allocate their assets within discrete, customizable price intervals.
 
-This architectural paradigm unlocked unprecedented capital efficiency, enabling market makers to replicate the market depth of massive liquidity pools using a fraction of the underlying capital. However, concentrated liquidity fundamentally altered the risk-reward profile of automated market making, converting passive liquidity provision into an active game of tick management, Loss Versus Rebalancing (LVR), and just-in-time MEV dynamics.
+This architectural model unlocked unusual capital efficiency, enabling market makers to replicate the market depth of massive liquidity pools using a fraction of the underlying capital. However, concentrated liquidity fundamentally altered the risk-reward profile of automated market making, converting passive liquidity provision into an active game of tick management, Loss Versus Rebalancing (LVR), and just-in-time MEV dynamics.
 
 ---
 
@@ -164,7 +166,7 @@ This tokenization enables liquidity positions to be transferred, used as collate
 
 ## Loss Versus Rebalancing (LVR) and Impermanent Loss Amplification
 
-While concentrated liquidity magnifies fee earnings, it equally magnifies impermanent loss. In academic literature formalized by Tim Roughgarden, Jason Milionis, Ciamac Moallemi, and Andrea Canidio in [Automated Market Making and Loss Versus Rebalancing](https://arxiv.org/abs/2208.06046) and [Quantifying LVR in Automated Market Makers](https://arxiv.org/abs/2210.10601) alongside [Paradigm Research](https://www.paradigm.xyz/research), the risk of automated market making is defined through Loss Versus Rebalancing (LVR).
+While concentrated liquidity magnifies fee earnings, it equally magnifies impermanent loss. In academic literature formalized by Tim Roughgarden, Jason Milionis, Ciamac Moallemi, and Andrea Canidio in [Automated Market Making and Loss Versus Rebalancing](https://arxiv.org/abs/2208.06046) and [Quantifying LVR in Automated Market Makers](https://arxiv.org/abs/2210.10601) alongside [Model Research](https://www.model.xyz/research), the risk of automated market making is defined through Loss Versus Rebalancing (LVR).
 
 LVR measures the difference in value between an automated market maker position and an actively rebalanced portfolio with identical market risk on an external reference exchange. LVR isolates the adverse selection cost that liquidity providers pay to toxic order flow and latency arbitrageurs.
 

@@ -1,10 +1,13 @@
 ---
 title: Filecoin Explained and How Cryptographic Storage Proofs Work
 image: /images/articles/charts/filecoin-storage-proofs-architecture.svg
-description: A comprehensive technical exploration of Filecoin, detailing Proof of Replication, Proof of Spacetime, storage deal lifecycles, FVM smart contracts, and cryptoeconomic pledge models.
+description: >-
+  A detailed technical exploration of Filecoin, detailing Proof of Replication,
+  Proof of Spacetime, storage deal lifecycles, FVM smart contracts, and
+  cryptoeconomic pledge models.
 category: Technology Deep Dives
-publishedDate: "2026-03-11"
-lastUpdated: "2026-09-08"
+publishedDate: '2026-03-11'
+lastUpdated: '2026-09-08'
 tags:
   - Filecoin
   - Decentralized Storage
@@ -41,7 +44,7 @@ Filecoin resolves these failure modes through two cryptographic primitives: **Pr
 
 Proof of Replication is executed when a Storage Provider (SP) commits a sector of data (standardized at 32 GiB or 64 GiB). PoRep mathematically proves that a dedicated, unique physical replica of the data was generated and stored on the provider hardware.
 
-To prevent generation attacks, Filecoin employs the **Stacked Depth Robust (SDR)** graph algorithm:
+To prevent generation attacks, Filecoin employs the **Stacked Depth Reliable (SDR)** graph algorithm:
 1. **Sequential Graph Encoding**: The raw client data is transformed through a directed acyclic graph composed of multiple layered graphs (typically 11 layers for 32 GiB sectors). Each node in layer $l$ is derived deterministically from parents in layer $l$ and layer $l-1$ using cryptographic hashes (such as [Poseidon Hashing](https://eprint.iacr.org/2019/458.pdf) and SHA-256).
 2. **Time-Asymmetric Computation**: Sealing an SDR sector requires hours of intensive, sequential computation that cannot be parallelized. Because regenerating the replica requires hours, a provider cannot fake storage by generating data on-the-fly when challenged in a seconds-long challenge window.
 3. **zk-SNARK Compression**: Once the sector is sealed, verifying the massive SDR graph on-chain would consume prohibitive gas. The provider generates a succinct [Groth16 zk-SNARK proof](https://eprint.iacr.org/2016/260.pdf) using pairing-friendly BLS12-381 elliptic curves. The resulting proof is only a few hundred bytes, allowing on-chain validators to confirm sector replication in milliseconds.

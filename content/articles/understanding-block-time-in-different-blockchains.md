@@ -1,11 +1,17 @@
 ---
-title: Understanding Block Time in Different Blockchains Architecture Trade-Offs and Finality
+title: >-
+  Understanding Block Time in Different Blockchains Architecture Trade-Offs and
+  Finality
 image: /images/nasa-Q1p7bh3SHj8-unsplash.jpg
 data-ai-hint: blockchain time
-description: A technical comparison of block time across Bitcoin, Ethereum, Solana, and Layer 2 rollups, examining difficulty adjustments, network propagation latency, probabilistic versus deterministic finality, and protocol engineering.
+description: >-
+  A technical comparison of block time across Bitcoin, Ethereum, Solana, and
+  Layer 2 rollups, examining difficulty adjustments, network propagation
+  latency, probabilistic versus deterministic finality, and protocol
+  engineering.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 
 In blockchain protocol engineering, **block time** defines the target time interval required for validating nodes to collect unconfirmed mempool transactions, construct a valid block header, execute state transitions, and achieve consensus across a peer-to-peer network.
@@ -77,7 +83,7 @@ Following "The Merge", Ethereum replaced dynamic PoW mining with a deterministic
 
 - **Slots**: Time is divided into discrete **12-second slots**. In each slot, a single validator is pseudo-randomly selected via the RANDAO algorithm to propose a block.
 - **Epochs**: 32 consecutive slots comprise an **epoch** (lasting 6.4 minutes). During an epoch, a committee of validators attests to the proposed blocks.
-- **Missed Slots**: If a designated block proposer goes offline, the slot remains empty, and the network seamlessly advances to the next 12-second slot without breaking chain consensus.
+- **Missed Slots**: If a designated block proposer goes offline, the slot remains empty, and the network smoothly advances to the next 12-second slot without breaking chain consensus.
 
 ### 3. Solana: Proof-of-History (PoH) & Tower BFT
 
@@ -181,7 +187,7 @@ Cross-chain messaging bridges (LayerZero, Chainlink CCIP, Wormhole) must continu
 
 ---
 
-## 9. Comprehensive Step-by-Step Technical Implementation Guide
+## 9. Detailed Step-by-Step Technical Implementation Guide
 
 Below is a complete Python script demonstrating how to calculate real-time average block time and variance by querying JSON-RPC nodes:
 
@@ -291,7 +297,7 @@ Candidates interviewing for blockchain engineering roles must demonstrate an und
 
 **Answer**:
 1. **Empty Slot Execution**: No block is added to the canonical chain during that 12-second slot window.
-2. **State Progression**: The network's clock advances seamlessly to the next slot. The next assigned proposer incorporates accumulated mempool transactions into their block, preserving global chain liveness.
+2. **State Progression**: The network's clock advances smoothly to the next slot. The next assigned proposer incorporates accumulated mempool transactions into their block, preserving global chain liveness.
 
 #### Scenario 3: Optimizing Sequencer Latency in L2 Rollups
 

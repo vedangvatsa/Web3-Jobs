@@ -8,7 +8,7 @@ description: >-
   how.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 ---
 ## Initial DEX Offerings: Reading the Launch Process
 
@@ -66,7 +66,7 @@ The advantages commonly associated with IDOs arise from their structure.
 
 - **Open participation.** IDOs are presented as a way to democratize early-stage investment opportunities because anyone can participate. The principle is straightforward: the token is offered through a decentralized exchange rather than reserved for a conventional gatekeeping process. Openness is an access feature, not a judgment about the quality of a given token.
 - **Immediate trading.** Because an IDO enables trading on a DEX at the start of the offering, it offers immediate liquidity and price discovery. The comparison with ICOs is specific: tokens sold in ICOs may not be tradable immediately after the sale. An IDO makes the availability of a market part of the launch itself.
-- **A comparatively direct route for projects.** Launching on a DEX is generally cheaper and faster for projects than navigating the complex listing process on centralized exchanges. This does not mean a DEX launch eliminates the work of building a protocol or explaining a token. It means the listing route can be more direct.
+- **A comparatively direct route for projects.** Launching on a DEX is generally cheaper and faster for projects than working through the complex listing process on centralized exchanges. This does not mean a DEX launch eliminates the work of building a protocol or explaining a token. It means the listing route can be more direct.
 
 Together, those features fit the decentralized ethos associated with Web3. They reduce the distance between a project, a public token sale, and a market in which participants can trade. They also explain why the approach is attractive to teams seeking a launch mechanism and to people seeking early participation.
 

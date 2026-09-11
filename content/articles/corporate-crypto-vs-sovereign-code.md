@@ -1,10 +1,11 @@
 ---
-title: 'Corporate Crypto vs Sovereign Code'
+title: Corporate Crypto vs Sovereign Code
 description: >-
-  An investigative thesis on the growing split between regulated corporate crypto infrastructure and sovereign open-source protocols.
+  An investigative thesis on the growing split between regulated corporate
+  crypto infrastructure and sovereign open-source protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-08"
+lastUpdated: '2026-09-08'
 slug: corporate-crypto-vs-sovereign-code
 ---
 
@@ -67,7 +68,7 @@ This shift creates a systemic separation between asset ownership and protocol ut
 
 The financialization of digital assets through Wall Street vehicles also affects liquidity dynamics. Large asset managers aggregate capital in centralized pools, which can lead to fragmented liquidity between traditional finance markets and on-chain decentralized exchanges (DEXs). While traditional investors gain convenient exposure, the underlying networks risk losing active participants who run nodes and interact directly with protocol contracts.
 
-Furthermore, traditional financial institutions bring regulatory compliance frameworks directly into digital asset markets. As institutions acquire larger portions of token supplies, pressure grows on protocol developers to introduce compliance features at the base layer. This trend creates ongoing debate over whether public blockchains should remain neutral settlement layers or adapt to regulatory requirements.
+traditional financial institutions bring regulatory compliance frameworks directly into digital asset markets. As institutions acquire larger portions of token supplies, pressure grows on protocol developers to introduce compliance features at the base layer. This trend creates ongoing debate over whether public blockchains should remain neutral settlement layers or adapt to regulatory requirements.
 
 ---
 
@@ -132,7 +133,7 @@ In late 2022, over 75% of Ethereum blocks were produced by MEV-Boost relays filt
 
 This structural concentration demonstrated how centralized infrastructure relays could enforce transaction censorship at the validator level, prompting open-source developers to build non-censoring relays and inclusion list protocol specifications to preserve transaction neutrality.
 
-Furthermore, user access to blockchain networks is increasingly mediated by centralized RPC (Remote Procedure Call) node providers like Infura and Alchemy. When users connect self-custody wallets to default network settings, their requests are routed through corporate RPC endpoints. These endpoints log user IP addresses and wallet address pairings, creating central data repositories vulnerable to subpoenas and data leaks.
+user access to blockchain networks is increasingly mediated by centralized RPC (Remote Procedure Call) node providers like Infura and Alchemy. When users connect self-custody wallets to default network settings, their requests are routed through corporate RPC endpoints. These endpoints log user IP addresses and wallet address pairings, creating central data repositories vulnerable to subpoenas and data leaks.
 
 The reliance on centralized infrastructure also exposes decentralized applications (dApps) to single points of failure. When a major RPC provider experiences outages or implements geographic IP blocking, users using default wallet settings are temporarily cut off from network access. This vulnerability emphasizes the necessity of running personal light clients or local full nodes to maintain continuous, unmediated protocol access.
 
@@ -183,7 +184,7 @@ Building resilient, user-friendly tooling for self-custody and local verificatio
 
 The interaction between corporate crypto and sovereign code will shape the future trajectory of digital asset networks.
 
-Rather than one paradigm completely eliminating the other, the ecosystem is heading toward an architectural division:
+Rather than one model completely eliminating the other, the ecosystem is heading toward an architectural division:
 
 - **Corporate Financial Rails:** Highly regulated Layer 2 rollups and permissioned chains tailored for traditional institutional settlement, asset tokenization, and corporate treasury management.
 - **Sovereign Cypherpunk Protocols:** Censorship-resistant Layer 1 base chains, privacy-focused zero-knowledge rollups, and peer-to-peer networks engineered for individual financial self-sovereignty.
