@@ -72,6 +72,82 @@ const COMPANY_LOGO_ALIASES: Record<string, string> = {
   'arbitrum-opco': 'arbitrum',
 };
 
+const COMPANY_FAVICON_DOMAINS: Record<string, string> = {
+  '6sense': '6sense.com',
+  'affirm': 'affirm.com',
+  'airbnb': 'airbnb.com',
+  'algolia': 'algolia.com',
+  'alpaca': 'alpaca.markets',
+  'anthropic': 'anthropic.com',
+  'axios': 'axios.com',
+  'bitwarden': 'bitwarden.com',
+  'bugcrowd': 'bugcrowd.com',
+  'bybit': 'bybit.com',
+  'censys': 'censys.com',
+  'cloudflare': 'cloudflare.com',
+  'coinbase': 'coinbase.com',
+  'collibra': 'collibra.com',
+  'cresta': 'cresta.com',
+  'cribl': 'cribl.io',
+  'databricks': 'databricks.com',
+  'datadog': 'datadoghq.com',
+  'descript': 'descript.com',
+  'dropbox': 'dropbox.com',
+  'fivetran': 'fivetran.com',
+  'five9': 'five9.com',
+  'fleetio': 'fleetio.com',
+  'gemini': 'gemini.com',
+  'gitlab': 'gitlab.com',
+  'gofundme': 'gofundme.com',
+  'hopskipdrive': 'hopskipdrive.com',
+  'hubspot': 'hubspot.com',
+  'instacart': 'instacart.com',
+  'jetbrains': 'jetbrains.com',
+  'jfrog': 'jfrog.com',
+  'jumio': 'jumio.com',
+  'justworks': 'justworks.com',
+  'karat': 'karat.com',
+  'launchdarkly': 'launchdarkly.com',
+  'leaflink': 'leaflink.com',
+  'life360': 'life360.com',
+  'liftoff': 'liftoff.io',
+  'mercury': 'mercury.com',
+  'mixpanel': 'mixpanel.com',
+  'monzo': 'monzo.com',
+  'mozilla': 'mozilla.org',
+  'natera': 'natera.com',
+  'neo4j': 'neo4j.com',
+  'nextiva': 'nextiva.com',
+  'openai': 'openai.com',
+  'pagerduty': 'pagerduty.com',
+  'pandadoc': 'pandadoc.com',
+  'pinterest': 'pinterest.com',
+  'qualtrics': 'qualtrics.com',
+  'reddit': 'redditinc.com',
+  'salesloft': 'salesloft.com',
+  'samsara': 'samsara.com',
+  'seatgeek': 'seatgeek.com',
+  'sezzle': 'sezzle.com',
+  'shakepay': 'shakepay.com',
+  'shieldai': 'shield.ai',
+  'skydio': 'skydio.com',
+  'smartsheet': 'smartsheet.com',
+  'snorkel-ai': 'snorkel.ai',
+  'stockx': 'stockx.com',
+  'tailscale': 'tailscale.com',
+  'typeform': 'typeform.com',
+  'upstart': 'upstart.com',
+  'vercel': 'vercel.com',
+  'veriff': 'veriff.com',
+  'waymo': 'waymo.com',
+  'webflow': 'webflow.com',
+  'ziprecruiter': 'ziprecruiter.com',
+};
+
+function faviconUrlForDomain(domain: string): string {
+  return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
+}
+
 const LOGO_PATHS = (slug: string): string[] => {
   const candidates = [slug];
   const alias = COMPANY_LOGO_ALIASES[slug.toLowerCase()];
@@ -119,7 +195,7 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
   try {
     const host = new URL(website.startsWith('http') ? website : `https://${website}`).hostname;
     const targetHost = host.includes('franklintempleton.com') ? 'careers.franklintempleton.com' : host;
-    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${targetHost}&size=128`;
+    return faviconUrlForDomain(targetHost);
   } catch {
     return null;
   }
@@ -131,13 +207,17 @@ export function getCompanyFaviconUrl(website: string | null | undefined): string
  *      "coin-metrics" -> https://coinmetrics.io favicon (guessed from .com)
  */
 export function getCompanyFaviconUrlBySlug(companySlug: string): string {
+  const normalizedSlug = companySlug.toLowerCase();
+  const alias = COMPANY_LOGO_ALIASES[normalizedSlug];
+  const domain = COMPANY_FAVICON_DOMAINS[normalizedSlug] ?? (alias ? COMPANY_FAVICON_DOMAINS[alias] : null);
+  if (domain) return faviconUrlForDomain(domain);
+
   if (companySlug === 'franklin-templeton' || companySlug === 'franklintempleton') {
-    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://careers.franklintempleton.com&size=128`;
+    return faviconUrlForDomain('careers.franklintempleton.com');
   }
   if (['arbitrum', 'offchain-labs', 'offchainlabs', 'arbitrum-offchain-labs'].includes(companySlug)) {
-    return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://arbitrum.io&size=128`;
+    return faviconUrlForDomain('arbitrum.io');
   }
   // Convert slug back to a plausible domain (slug without hyphens + .com)
-  const domain = companySlug.replace(/-/g, '') + '.com';
-  return `https://t0.gstatic.com/faviconV2?client=SOCIAL&type=FAVICON&fallback_opts=TYPE,SIZE,URL&url=https://${domain}&size=128`;
+  return faviconUrlForDomain(companySlug.replace(/-/g, '') + '.com');
 }
