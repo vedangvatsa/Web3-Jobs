@@ -131,11 +131,11 @@ export function EventHeroImage({ src, name }: { src?: string | null; name: strin
   }
 
   return (
-    <div className="w-full aspect-video rounded-2xl overflow-hidden bg-muted border">
+    <div className="w-full rounded-2xl overflow-hidden bg-muted border">
       <img
         src={src}
         alt={name}
-        className="w-full h-full object-cover"
+        className="mx-auto w-full h-auto max-h-[75vh] object-contain"
         loading="eager"
         fetchPriority="high"
         decoding="async"
