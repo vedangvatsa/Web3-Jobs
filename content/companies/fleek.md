@@ -1,6 +1,6 @@
 ---
 name: Fleek
-website: 'https://fleek.xyz'
+website: 'https://www.fleek.sh'
 category: Decentralized Cloud & Hosting
 description: >-
   Fleek is an open web developer platform providing lightning-fast decentralized

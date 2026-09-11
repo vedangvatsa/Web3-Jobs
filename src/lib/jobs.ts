@@ -20,6 +20,8 @@ const BLOCKED_COMPANIES = new Set([
   'greenhouse', 'lever', 'greenhouse io', 'ad-shield', 'adshield', 'vivident', 'hyperithm',
 ]);
 
+const BLOCKED_JOB_TITLE = /\b(technician|driver|maid|cleaner|janitor|custodian|housekeeper|warehouse|forklift|security guard|receptionist|plumber|electrician|mechanic|repair|hvac|data centre mechanical|data center mechanical|maintenance|assembly technician|quality technician|field service technician)\b/i;
+
 /**
  * Reads jobs from the static cache file (content/jobs-cache.json).
  * The cache is refreshed every 8 hours by GitHub Actions (refresh-jobs-cache.yml).
@@ -127,6 +129,7 @@ export async function getJobs(): Promise<Job[]> {
   // Filter out non-Web3 companies & general applications / talent pool placeholders / non-concrete openings
   const web3Jobs = jobs.filter(job => {
     if (BLOCKED_COMPANIES.has(job.company.toLowerCase())) return false;
+    if (BLOCKED_JOB_TITLE.test(job.title)) return false;
     if (!isConcreteJobOpening(job.title, job.link)) return false;
     return true;
   });
