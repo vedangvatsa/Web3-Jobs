@@ -32,6 +32,39 @@ const ROOT_ROUTE_SLUGS = new Set([
   'events', 'contact', 'privacy', 'ask', 'mcp', 'developer', 'dev',
 ]);
 
+const KBW_LUMA_IMAGE_OVERRIDES: Record<string, string> = {
+  'kbw-luma-coded-kbw-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/io/00a1bb59-2e6b-4dd9-ab3b-78f636a4f6ad.png',
+  'kbw-luma-trust404-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/tu/3deb0d72-00fd-4d3e-8049-f7c94230a620.png',
+  'kbw-luma-blockfesta-vip-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/g7/d3c1e772-f064-4bbe-93df-bc264a73ab5c.png',
+  'kbw-luma-seoul-index-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/57/5386a7bf-9d10-49b8-9020-ab135a8aa6f3.png',
+  'kbw-luma-chimaek-chill-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/7z/3176e186-189d-430a-a35a-cfe10e8568b0.png',
+  'kbw-luma-capital-forum-canton-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/y1/a3b498b9-a43b-4721-a73d-7bc051693f77.png',
+  'kbw-luma-wiring-korea-world-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/zu/412847dd-d22b-485d-84c2-25084cb2e4fa.png',
+  'kbw-luma-realfi-ai-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/6h/671a2019-951d-4f52-b91f-f6a9d9aeeb16.png',
+  'kbw-luma-ai-payment-carnival-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/i3/fee06417-4f12-4eca-b6e8-ca0fc7f850d9.png',
+  'kbw-luma-best-event-sundown-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/5e/474ce3c6-6224-4ef0-8f80-dd1b0768a9e5.png',
+  'kbw-luma-stellar-night-seoul-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/nf/50771527-5da9-4f53-9a69-96107dcdcf93.png',
+  'kbw-luma-onchain-finance-exchange-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/pa/8a409e97-bf55-41bf-b506-dff8c2f44f66.png',
+  'kbw-luma-mining-the-night-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/6a/1a0a0bf6-0996-4cb8-a613-95584e2a8a23.png',
+  'kbw-luma-ourbit-after-hours-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/vo/31bda717-30ec-4fc1-ba6e-8bb18c2542ad.png',
+  'kbw-luma-beldex-acurast-party-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/cp/fb259655-5d9d-41c3-b89c-79cf943ac168.png',
+  'kbw-luma-institutional-privacy-day-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/jr/0dd9ca3d-2fb7-4865-8db6-cf0269d066fa.png',
+  'kbw-luma-yellow-korea-workshop-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/4f/eafa38e5-836c-4a25-8def-92c39737b044.png',
+  'kbw-luma-sanc-nine-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/zp/ea9830db-4cf9-427a-92e2-a6dad4fb61a2.png',
+  'kbw-luma-seoul-on-chain-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/1k/f847e05e-7148-4be8-924a-c85b6d30208a.png',
+  'kbw-luma-bridging-finance-onchain-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/w6/5beb1daa-c7f5-463e-ba1b-79f6d14d9d5e.png',
+  'kbw-luma-onchain-night-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/n7/8b48175e-6a60-4061-bfd9-a0eece7d3ae6.png',
+  'kbw-luma-easycon-seoul-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/8l/754eaae0-8112-4928-b514-497209caab6b.png',
+  'kbw-luma-perpdex-night-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/ms/70ab6938-b6b8-4862-8ee0-f6cbdb8a0455.png',
+  'kbw-luma-four-pillars-research-awards-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/6x/84dea364-e7c8-4ce1-a340-aea4edaf8685.png',
+  'kbw-luma-tradfi-onchain-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/q8/f6db6100-f5b4-4377-9503-fb837c229a4d.png',
+  'kbw-luma-ravedao-baddiejuice-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/7f/eafba3d6-2221-4efb-a6d2-79ec7f43e4e5.png',
+  'kbw-luma-trader-gathering-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/fm/d8f0a527-850c-4f5f-ad9f-b1b09ae176bf.png',
+  'kbw-luma-xrpfi-night-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/b4/dfb06ff6-9f29-4beb-b2a5-f80a2403f7de.png',
+  'kbw-luma-lambda256-node-crew-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/jp/af822849-b34e-4a94-88f8-203529cb667c.png',
+  'kbw-luma-xrp-afterparty-2026': 'https://images.lumacdn.com/cdn-cgi/image/format=auto,fit=cover,dpr=1,anim=false,background=white,quality=75,width=800,height=420/event-social/r1/96efe20d-1f2b-4666-a8b9-1403a160ddc0.png',
+};
+
 let rootContentSlugs: Promise<Set<string>> | undefined;
 
 async function getRootContentSlugs(): Promise<Set<string>> {
@@ -244,7 +277,9 @@ export async function getEvents(): Promise<Web3Event[]> {
 
       cleaned.push({
         ...e,
-        coverImage: isLumaDefaultPlaceholder(e.coverImage) ? null : e.coverImage,
+         coverImage: isLumaDefaultPlaceholder(e.coverImage)
+           ? null
+           : e.coverImage || KBW_LUMA_IMAGE_OVERRIDES[e.id] || null,
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
