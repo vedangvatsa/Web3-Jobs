@@ -1,5 +1,5 @@
 {
-  "lastIndex": 147,
+  "lastIndex": 149,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -55,7 +55,9 @@
     "sales28008",
     "product2d701",
     "manager9dd0f",
-    "sales202"
+    "sales202",
+    "analyst41667",
+    "marketing2fcb2"
   ],
   "history": [
     {
@@ -2137,6 +2139,94 @@
       "platform": "instagram",
       "postedAt": "2026-09-11T06:09:13.937Z",
       "postId": "17954658303249793"
+    },
+    {
+      "slug": "analyst41667",
+      "company": "Kraken",
+      "title": "Suspicious Activity Report - Analyst",
+      "platform": "threads",
+      "postedAt": "2026-09-11T12:22:12.429Z",
+      "postId": "18147961165492853"
+    },
+    {
+      "slug": "analyst41667",
+      "company": "Kraken",
+      "title": "Suspicious Activity Report - Analyst",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T12:22:12.429Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvakltcngy2l"
+    },
+    {
+      "slug": "analyst41667",
+      "company": "Kraken",
+      "title": "Suspicious Activity Report - Analyst",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T12:22:12.429Z",
+      "postId": "0x52792c5910d3d53572266086d92b00009ab868f3"
+    },
+    {
+      "slug": "analyst41667",
+      "company": "Kraken",
+      "title": "Suspicious Activity Report - Analyst",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T12:22:12.429Z",
+      "postId": "6aa3f28a4ac55a0b109f5889"
+    },
+    {
+      "slug": "analyst41667",
+      "company": "Kraken",
+      "title": "Suspicious Activity Report - Analyst",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T12:22:12.429Z",
+      "postId": "691827047618629_1085654210708480"
+    },
+    {
+      "slug": "analyst41667",
+      "company": "Kraken",
+      "title": "Suspicious Activity Report - Analyst",
+      "platform": "instagram",
+      "postedAt": "2026-09-11T12:22:12.429Z",
+      "postId": "18087639647673374"
+    },
+    {
+      "slug": "marketing2fcb2",
+      "company": "Morpho",
+      "title": "Account Growth",
+      "platform": "threads",
+      "postedAt": "2026-09-11T12:23:39.943Z",
+      "postId": "18128811427689184"
+    },
+    {
+      "slug": "marketing2fcb2",
+      "company": "Morpho",
+      "title": "Account Growth",
+      "platform": "bluesky",
+      "postedAt": "2026-09-11T12:23:39.943Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvakoeqnvk24"
+    },
+    {
+      "slug": "marketing2fcb2",
+      "company": "Morpho",
+      "title": "Account Growth",
+      "platform": "farcaster",
+      "postedAt": "2026-09-11T12:23:39.943Z",
+      "postId": "0xb201a5da2cfaa7ca3c39d0041ac951c480c9fd6c"
+    },
+    {
+      "slug": "marketing2fcb2",
+      "company": "Morpho",
+      "title": "Account Growth",
+      "platform": "linkedin",
+      "postedAt": "2026-09-11T12:23:39.943Z",
+      "postId": "6aa3f2dfa3aa88881a34606e"
+    },
+    {
+      "slug": "marketing2fcb2",
+      "company": "Morpho",
+      "title": "Account Growth",
+      "platform": "facebook",
+      "postedAt": "2026-09-11T12:23:39.943Z",
+      "postId": "691827047618629_1085655054041729"
     }
   ]
 }
