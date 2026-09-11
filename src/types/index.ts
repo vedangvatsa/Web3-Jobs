@@ -10,8 +10,9 @@ export interface Job {
  source: string;
  slug?: string;
  location?: string;
- department?: string;
- description?: string;
+  department?: string;
+  salary?: string;
+  description?: string;
  active?: boolean;
 }
 

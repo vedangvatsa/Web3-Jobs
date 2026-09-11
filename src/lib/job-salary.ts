@@ -149,29 +149,31 @@ function getLocationFactor(location?: string): number {
   return 1.0;
 }
 
-function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
+function parseExplicitSalary(text: string, trustedSalaryField = false): JobBaseSalarySchema | null {
   if (!text) return null;
 
-  // Search for explicit salary ranges:
-  // e.g. $100,000 - $110,000 or ₹15,00,000 - ₹25,00,000 or $120k - $160k
-  const rangeRegex = /(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)(\d{1,3}(?:[,\s]?\d{2,3})*k?)\s*(?:-|–|—|to)\s*(?:([$€£₹]|USD|EUR|GBP|CAD|AUD|SGD|INR)\s*)?(\d{1,3}(?:[,\s]?\d{2,3})*k?)/i;
+  // Supports currency symbols and ISO 4217 codes, e.g. $100k - $110k,
+  // INR 15,00,000 - INR 25,00,000, or BRL 10.000 - BRL 15.000.
+  const amount = '\\d+(?:[,\\s]\\d{2,3})*(?:\\.\\d+)?[kK]?';
+  const currencyToken = '[$€£₹¥]|[A-Z]{3}';
+  const rangeRegex = new RegExp(`(?:(${currencyToken})\\s*)(${amount})\\s*(?:-|–|—|to)\\s*(?:(${currencyToken})\\s*)?(${amount})`);
   const m = text.match(rangeRegex);
 
   if (!m) return null;
 
   const rawSymbol = m[1] || m[3] || '$';
   let currency = 'USD';
-  if (rawSymbol === '€' || /EUR/i.test(rawSymbol)) currency = 'EUR';
-  else if (rawSymbol === '£' || /GBP/i.test(rawSymbol)) currency = 'GBP';
-  else if (rawSymbol === '₹' || /INR/i.test(rawSymbol)) currency = 'INR';
-  else if (/CAD/i.test(rawSymbol)) currency = 'CAD';
-  else if (/AUD/i.test(rawSymbol)) currency = 'AUD';
-  else if (/SGD/i.test(rawSymbol)) currency = 'SGD';
+  if (rawSymbol === '€') currency = 'EUR';
+  else if (rawSymbol === '£') currency = 'GBP';
+  else if (rawSymbol === '₹') currency = 'INR';
+  else if (rawSymbol === '¥') currency = 'JPY';
+  else if (rawSymbol !== '$') currency = rawSymbol.toUpperCase();
 
   const parseVal = (s: string) => {
     const clean = s.toLowerCase().replace(/[,\s]/g, '').trim();
     if (clean.endsWith('k')) return parseFloat(clean.slice(0, -1)) * 1000;
-    return parseFloat(clean);
+    // Dots are thousands separators in many salary disclosures.
+    return parseFloat(/^\d{1,3}(?:\.\d{3})+$/.test(clean) ? clean.replace(/\./g, '') : clean);
   };
 
   let min = parseVal(m[2]);
@@ -181,6 +183,7 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
 
   const matchIdx = text.indexOf(m[0]);
   const contextSnippet = text.slice(Math.max(0, matchIdx - 30), Math.min(text.length, matchIdx + m[0].length + 40)).toLowerCase();
+  if (!trustedSalaryField && !/\b(?:salary|compensation|pay|wage|base|annual|year|month|hour|per)\b/.test(contextSnippet)) return null;
 
   let unitText: 'HOUR' | 'MONTH' | 'YEAR' = 'YEAR';
   if (/(?:\/|per\s*)(?:hr|hour)\b/i.test(contextSnippet) || (max <= 500 && currency !== 'INR')) {
@@ -189,13 +192,10 @@ function parseExplicitSalary(text: string): JobBaseSalarySchema | null {
     unitText = 'MONTH';
   }
 
-  const maxYearCap = currency === 'INR' ? 50000000 : 2500000;
-  const minYearCap = currency === 'INR' ? 100000 : 20000;
-
   if (
-    (unitText === 'YEAR' && min >= minYearCap && max <= maxYearCap) ||
-    (unitText === 'HOUR' && min >= 12 && max <= 500) ||
-    (unitText === 'MONTH' && min >= 1500 && max <= 150000)
+    (unitText === 'YEAR' && min > 0 && max <= 1000000000000) ||
+    (unitText === 'HOUR' && min > 0 && max <= 100000000) ||
+    (unitText === 'MONTH' && min > 0 && max <= 10000000000)
   ) {
     return {
       '@type': 'MonetaryAmount',
@@ -216,6 +216,10 @@ function formatAmount(val: number, symbol: string = '$'): string {
   if (currencyFormattingMap[symbol]) {
     return currencyFormattingMap[symbol](val);
   }
+  if (val >= 1000000) {
+    const million = val / 1000000;
+    return Number.isInteger(million) ? `${symbol}${million}m` : `${symbol}${million.toFixed(1)}m`;
+  }
   if (val >= 1000) {
     const k = val / 1000;
     return Number.isInteger(k) ? `${symbol}${k}k` : `${symbol}${k.toFixed(1)}k`;
@@ -235,11 +239,12 @@ const currencyFormattingMap: Record<string, (val: number) => string> = {
     }
     return `₹${val}`;
   },
+  '¥': (val: number) => `¥${Math.round(val).toLocaleString('en-US')}`,
 };
 
 export function formatSalaryDisplay(salary: JobBaseSalarySchema, isEstimated: boolean): string {
   const { currency, value } = salary;
-  const symbol = currency === 'EUR' ? '€' : currency === 'GBP' ? '£' : currency === 'INR' ? '₹' : currency === 'CAD' ? 'C$' : currency === 'AUD' ? 'A$' : currency === 'SGD' ? 'S$' : '$';
+  const symbol = currency === 'USD' ? '$' : currency === 'EUR' ? '€' : currency === 'GBP' ? '£' : currency === 'INR' ? '₹' : currency === 'JPY' ? '¥' : currency === 'HKD' ? 'HK$' : currency === 'CAD' ? 'C$' : currency === 'AUD' ? 'A$' : currency === 'SGD' ? 'S$' : `${currency} `;
   const unitSuffix = value.unitText === 'HOUR' ? '/hr' : value.unitText === 'MONTH' ? '/mo' : '/yr';
 
   let rangeText = '';
@@ -260,7 +265,7 @@ export function formatSalaryDisplay(salary: JobBaseSalarySchema, isEstimated: bo
  */
 export function getJobSalaryInfo(job: Job, contentHtml?: string): JobSalaryInfo {
   const fullText = `${job.description || ''} ${contentHtml || ''}`;
-  const explicit = parseExplicitSalary(fullText);
+  const explicit = parseExplicitSalary(job.salary || '', Boolean(job.salary)) || parseExplicitSalary(fullText);
 
   if (explicit) {
     return {
