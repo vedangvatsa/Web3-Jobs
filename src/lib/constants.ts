@@ -10,8 +10,8 @@ export const SITE_STATS = {
  /** Formatted string for display */
  telegramSubscribersFormatted: '60,000+',
  /** Telegram news feed subscribers */
- telegramNewsSubscribers: 13_000,
- telegramNewsSubscribersFormatted: '13,000+',
+  telegramNewsSubscribers: 11_000,
+  telegramNewsSubscribersFormatted: '11k+',
  /** Year the platform was founded */
  foundedYear: 2022,
  /** Telegram channel URL */

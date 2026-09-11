@@ -90,6 +90,10 @@ npm run hashtagweb3  # Run the CLI tool
 - **Content-Type**: Serve `.md` files as `text/markdown; charset=utf-8`.
 - **Styles**: Use Tailwind CSS utility classes; no CSS-in-JS.
 
+## Native News Content
+
+News-specific editorial, sourcing, image, URL, and structured-data requirements live in [`content/articles/AGENTS.md`](content/articles/AGENTS.md). Read and follow that guide only before creating or materially revising a native article with `category: News`; it does not apply to jobs, events, glossary pages, resources, or other article categories.
+
 ## Agent Auth Flow
 
 1. `POST /api/auth/register` → receive `registration_token`
