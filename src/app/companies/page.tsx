@@ -3,7 +3,7 @@ import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
 import { CompaniesBoard } from '@/components/companies-board';
-import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
+import { resolveCompanyLogo, getCompanyFaviconUrl, getCompanyFaviconUrlBySlug } from '@/lib/company-logo';
 import { TrustedBy } from '@/components/trusted-by';
 import { CommunityFeedBanner } from '@/components/community-feed-banner';
 
@@ -38,7 +38,7 @@ export default async function CompaniesPage() {
   for (const c of companies) {
     companyLogos[c.slug] = {
       logo: resolveCompanyLogo(c.slug),
-      favicon: getCompanyFaviconUrl(c.website),
+      favicon: getCompanyFaviconUrl(c.website) ?? getCompanyFaviconUrlBySlug(c.slug),
     };
   }
 
