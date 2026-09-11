@@ -42,6 +42,8 @@
     "linkedin:authorize": "echo 'Visit the LinkedIn OAuth URL to authorize'",
     "check:slop": "node scripts/check-slop.js",
     "check:quality": "npx tsx scripts/audit-site-quality.ts",
+    "audit:articles": "npx tsx scripts/audit-article-quality.ts --report",
+    "check:articles": "npx tsx scripts/audit-article-quality.ts",
     "images:unsplash": "npx tsx scripts/assign-unsplash-article-images.ts",
     "images:commons": "npx tsx scripts/assign-commons-article-images.ts",
     "jobs:backfill-lever-salaries": "npx tsx scripts/backfill-lever-salaries.ts",

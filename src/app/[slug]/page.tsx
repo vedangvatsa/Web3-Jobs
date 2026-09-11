@@ -766,7 +766,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
       {howToSchema && <JsonLd data={howToSchema} />}
       <main className="flex-1">
         <PageShell>
-          <article className="max-w-4xl mx-auto w-full">
+          <article className="w-full">
             <Suspense fallback={<div className="py-12 text-center text-muted-foreground">Loading article...</div>}>
               {/* Header: title and subtitle */}
               <header className="mb-10 text-left">

@@ -1,117 +1,87 @@
 ---
-title: a full guide to Stablecoins
+title: A Guide to Stablecoins
 description: >-
-  Stablecoins are the backbone of the DeFi economy, but not all are created
-  equal. This guide breaks down the different types of stablecoins, their.
+  Stablecoins are central to crypto markets and DeFi, but their designs and
+  risks differ sharply. Learn how the main stablecoin models work and what to assess before using them.
 category: Technology Deep Dives
 data-ai-hint: cryptocurrency defi
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
-## An Investor's Guide to Stablecoins: Types, Risks, and Rewards
+## Stablecoins: What Supports the Peg, and What Can Break It
 
-In the cryptocurrency market, where values can fluctuate sharply, stablecoins provide essential stability. These cryptocurrencies aim to maintain a consistent value, usually pegged to a tangible asset like the U.S. dollar. Stablecoins function as a reliable medium of exchange, unit of account, and store of value within the decentralized finance ([DeFi](/what-is-defi)) ecosystem.
+Stablecoins are cryptocurrencies designed to target a relatively consistent value, often one U.S. dollar. That target gives them a practical role in markets where many other cryptoassets can move sharply in price. Within decentralized finance ([DeFi](/what-is-defi)), they can be used as a medium of exchange, a unit of account, and a place to hold value without converting out of the crypto ecosystem.
 
-Not all stablecoins are identical. They use various mechanisms to sustain their peg, and each type carries distinct risks and benefits. A thorough understanding of these differences is vital for anyone looking to engage safely with the [Web3](/what-is-web3) space. This article categorizes stablecoins into three main types: fiat-collateralized, crypto-collateralized, and algorithmic.
+Those functions can make stablecoins look interchangeable. They are not. A token's name and target price say little about the mechanism behind it, the party a holder must rely on, or the conditions under which the token can be redeemed. The relevant question is not simply whether a stablecoin is described as dollar-pegged. It is what is meant to make one token worth one dollar, and what happens when that mechanism is tested.
 
-### 1. Fiat-Collateralized (Off-Chain Collateralized) Stablecoins
+The three broad models below approach that problem differently. Fiat-collateralized tokens rely on off-chain reserves and a centralized issuer. Crypto-collateralized tokens use cryptoassets locked on-chain and generally require more collateral than the stablecoins issued against it. Algorithmic tokens seek to manage supply through incentives rather than conventional collateral. Each model exchanges one form of risk for another.
 
-Fiat-collateralized stablecoins represent the most prevalent and straightforward category.
+| Stablecoin type | Examples discussed here | Intended source of stability | Central trade-off |
+| --- | --- | --- | --- |
+| Fiat-collateralized, or off-chain collateralized | Tether (USDT), USD Coin (USDC), PayPal USD (PYUSD) | Issuer-held reserves and 1:1 redemption | Simplicity and liquidity depend on an issuer, its reserves, and its redemption process. |
+| Crypto-collateralized, or on-chain collateralized | Dai (DAI) | Excess crypto collateral, economic incentives, and liquidations | Greater on-chain visibility comes with volatile collateral, liquidations, and capital inefficiency. |
+| Algorithmic, or under-collateralized | TerraUSD (UST) and its LUNA model | Supply adjustments and arbitrage incentives | Capital efficiency depends on confidence that the incentives will continue to work. |
 
-| 
+### Start with the redemption path
 
-**Example**|
+A stablecoin's market price can be close to its target for different reasons. In a fiat-collateralized model, the central promise is normally redemption: a holder should be able to exchange a token for the corresponding amount of fiat currency. In a crypto-collateralized model, the system instead depends on the value of assets locked in smart contracts and on rules for handling a shortfall. In an algorithmic model, it depends on participants responding to a price difference in the way the design expects.
 
-**Issuer**|
+That distinction matters most when demand changes. A stablecoin can trade near one dollar in ordinary conditions without revealing much about how its safeguards would perform under pressure. For a user, the mechanism determines the questions worth asking. Is there an identifiable issuer? What supports redemption? Is the backing held off-chain or visible on-chain? Could a decline in collateral trigger liquidation? Is the peg based largely on an incentive to trade one token for another?
 
-**Pegged Asset**|
-|
+These are not abstract design questions. They describe who carries the risk. With an issuer-backed coin, holders rely on the issuer and its reserves. With an on-chain collateralized coin, users and the system absorb the effects of volatility and liquidation rules. With an algorithmic coin, holders rely heavily on confidence in a feedback loop. The target price is the same; the path to it is not.
 
--------------|
+### Fiat-collateralized stablecoins: a claim on reserves
 
-------------|
+Fiat-collateralized stablecoins are the most prevalent and straightforward category. Examples include Tether (USDT), issued by Tether Limited; USD Coin (USDC), issued by Circle; and PayPal USD (PYUSD), issued by PayPal. Each is described as pegged to the U.S. dollar.
 
-------------------|
-| Tether (USDT) | Tether Limited | U.S. Dollar |
-| USD Coin (USDC) | Circle | U.S. Dollar |
-| PayPal USD (PYUSD) | PayPal | U.S. Dollar |
+The basic model is familiar. Tokens in circulation are theoretically matched by equivalent real-world assets held in reserve by a centralized entity. For a dollar-pegged stablecoin, those reserves typically consist of cash, U.S. Treasury bills, and other low-risk, liquid assets. A user can exchange fiat currency with the issuer to mint corresponding [tokens](/what-is-a-token). When tokens are redeemed, they are burned and the user reclaims fiat currency.
 
-**Mechanism**: Each stablecoin in circulation is theoretically matched by an equivalent real-world asset held in reserve by a centralized entity. For a dollar-pegged stablecoin, reserves typically consist of cash, U.S. Treasury bills, and other low-risk, liquid assets. To mint new stablecoins, users exchange their fiat currency with the issuer, who then creates the corresponding [tokens](/what-is-a-token). To redeem, users "burn" their tokens and reclaim their fiat.
+The 1:1 redemption promise is the key link between the token and its target value. If users expect to be able to exchange one USDT or one USDC for one U.S. dollar, that expectation helps support a stable market price. The mechanism is comparatively easy to describe because the backing is not another volatile cryptoasset and because the issuer, rather than an automated collateral system, manages issuance and redemption.
 
-**Peg Maintenance**: The stable value relies on the promise of 1:1 redeemability. Users must trust they can exchange 1 USDT or 1 USDC for 1 U.S. dollar, which helps maintain market price stability.
+That simplicity is a genuine advantage, but it should not be mistaken for an absence of risk. The holder is depending on a centralized issuer to manage reserves and fulfill redemptions. The quality, composition, and liquidity of reserves therefore matter. The relevant issue is not merely whether reserves exist in principle, but whether they can support the issuer's redemption promise when needed.
 
-**Pros**:
-- **Simplicity and Stability**: The mechanism is straightforward and has consistently proven effective in maintaining its peg.
-- **High Liquidity**: USDT and USDC are among the most widely used stablecoins, forming the foundation of trading pairs on both centralized and decentralized exchanges.
+Transparency is part of that assessment. The specific composition and quality of reserves may not be fully transparent, and past concerns about Tether's backing illustrate why holders discuss "reserve risk." An analyst should distinguish a statement that a stablecoin is backed from an understanding of what that backing is intended to consist of. Cash, U.S. Treasury bills, and other low-risk, liquid assets are not identical categories, even though each may be included in a reserve description.
 
-**Cons**:
-- **Centralization Risk**: Users depend entirely on a centralized issuer, which raises concerns about how well the entity manages reserves and fulfills redemptions.
-- **Censorship Risk**: Centralized issuers can freeze funds and blacklist addresses linked to illicit activities, contradicting the censorship-resistant nature of cryptocurrencies.
-- **Transparency Risk**: The specifics of reserve quality and composition often lack full transparency. Past concerns about Tether's backing raise questions about "reserve risk."
+Centralization also has an operational consequence. Centralized issuers can freeze funds and blacklist addresses linked to illicit activities. That capacity may be relevant to compliance, but it is a trade-off for users who expect the censorship resistance associated with cryptocurrencies. A token may move on a blockchain while still being subject to the issuer's controls. The [Web3](/what-is-web3) label does not remove that dependence.
 
-### 2. Crypto-Collateralized (On-Chain Collateralized) Stablecoins
+The model's strengths remain practical. Its issuance and redemption logic is direct, and USDT and USDC are among the most widely used stablecoins. They form trading pairs on centralized and decentralized exchanges, which makes liquidity an important part of their utility. Still, liquidity is not a substitute for examining the reserve and issuer relationship. A convenient token for a trade may not present the same considerations as a long-term balance held through a period of market stress.
 
-Crypto-collateralized stablecoins strive for stability and decentralization by using other cryptocurrencies as collateral.
+### Crypto-collateralized stablecoins: visible backing, volatile inputs
 
-|
+Crypto-collateralized stablecoins try to combine price stability with a more on-chain structure. Dai (DAI), associated with MakerDAO and pegged to the U.S. dollar, is the example considered here. Rather than depositing fiat with a conventional issuer, users lock cryptocurrency assets such as [ETH](/what-is-ethereum) or WBTC into a [smart contract](/what-are-smart-contracts) vault to create stablecoins.
 
-**Example**|
+The crucial feature is over-collateralization. Users deposit collateral worth more than the stablecoins they mint. If someone wants to mint a given amount of DAI, the collateral they lock must be worth more than that amount. The excess is a buffer against price changes in the collateral. It is also why the model is capital inefficient: substantial value has to remain locked rather than being available for another use.
 
-**Issuer**|
+The peg is supported by economic incentives and automated liquidation. If the value of a user's collateral falls below a specified threshold, often called the liquidation ratio, the system sells the collateral in an auction to repay the borrowed stablecoins. The intended purpose is to keep the system solvent despite volatility in the assets used as backing.
 
-**Pegged Asset**|
-|
+This structure changes the nature of the backing, not the need for it. The collateral can be inspected through the [blockchain](/what-is-a-blockchain) and the smart contracts that govern it, giving users a degree of on-chain transparency that differs from an issuer-held reserve. In principle, people can examine the contracts and verify the collateral backing the stablecoin in real time. The model does not require holders to rely on a centralized issuer in the same way as a fiat-collateralized token, which can improve censorship resistance.
 
--------------|
+But public visibility does not make the system simple. A holder or borrower must understand that the backing is itself volatile. A sharp decline in the collateral's price can bring multiple positions toward their liquidation thresholds at once. That can produce a cascade of liquidations and put the peg at risk. The buffer is designed for volatility, but the buffer is not free: it is supplied by users who must lock more value than they receive in stablecoins.
 
-------------|
+For that reason, crypto-collateralized stablecoins ask users to evaluate both the token and the mechanism around it. A person holding the stablecoin is exposed to the system's ability to manage collateral and liquidations. A person minting it also faces the direct possibility that a falling collateral value will trigger liquidation. The distinction between holding and borrowing should not be ignored, even though both depend on the same system remaining solvent.
 
-------------------|
-| Dai (DAI) | MakerDAO | U.S. Dollar |
+### Algorithmic stablecoins: the confidence loop
 
-**Mechanism **: To create these stablecoins, users must lock a cryptocurrency asset (such as [ETH](/what-is-ethereum) or WBTC) in a [smart contract](/what-are-smart-contracts) vault. The system operates on an** over-collateralization**model, requiring users to deposit collateral worth more than the stablecoins they mint. For example, to mint a certain amount of DAI, a user might need to lock up more than that amount in collateral. This extra collateral serves as a buffer against underlying asset price volatility.
+Algorithmic stablecoins are the most experimental and high-risk category described here. They seek to maintain a peg through algorithms that adjust token supply, rather than through conventional collateral. Their appeal is capital efficiency: they require little to no collateral, so they do not require users to lock a larger pool of assets behind each token. In theory, the absence of external assets or centralized custodians can also make them the most decentralized form of stablecoin.
 
-**Peg Maintenance**: The peg is upheld through economic incentives and automated liquidations. If a user's collateral value drops below a specified threshold (the "liquidation ratio"), the system automatically sells the collateral in an auction to repay the borrowed stablecoins, maintaining system solvency.
+TerraUSD (UST) used a dual-token system with the seigniorage token LUNA for peg maintenance. In this kind of design, there are generally two tokens: the stablecoin and a volatile seigniorage token. The system permits an exchange of one unit of the stablecoin for one dollar's worth of the seigniorage token, and the reverse exchange.
 
-**Pros**:
-- **Decentralization**: The entire mechanism relies on smart contracts on the [blockchain](/what-is-a-blockchain), eliminating the need for a centralized issuer and enhancing transparency and censorship resistance.
-- **On-Chain Transparency**: Anyone can audit smart contracts and verify the collateral backing the stablecoin in real time.
+The intended incentives are straightforward on paper. If the stablecoin trades above one dollar, users are motivated to burn the seigniorage token and mint stablecoins. More stablecoin supply is meant to lower the price toward the peg. If the stablecoin trades below one dollar, users are encouraged to burn the stablecoin in exchange for one dollar's worth of the seigniorage token. Reducing supply is meant to raise the stablecoin's price.
 
-**Cons**:
-- **Capital Inefficiency**: Over-collateralization locks up substantial capital that cannot be used for other investments.
-- **Volatility Risk**: A sudden price drop in the collateral asset can trigger a cascade of liquidations, risking the stablecoin's peg, known as "collateral risk."
-- **Complexity**: The underlying mechanics are more complicated than those of fiat-collateralized stablecoins, which can hinder user understanding.
+The design depends on arbitrage and on the belief that the exchange mechanism will remain meaningful. That is a much thinner foundation than a direct reserve claim or an over-collateralized vault. It relies on people treating the seigniorage token as valuable enough to accept when the stablecoin is under pressure.
 
-### 3. Algorithmic Stablecoins (Under-Collateralized)
+This is where reflexivity becomes the central risk. If confidence in the peg falls, holders may seek to exchange the stablecoin for the seigniorage token. That can increase the seigniorage token's supply and contribute to a fall in its price. As its price falls, confidence in the mechanism can weaken further. The resulting feedback loop is often described as a death spiral.
 
-Algorithmic stablecoins represent the most experimental and high-risk category. They aim to maintain their peg through algorithms that automatically adjust token supply without relying on collateral.
+The model is therefore not simply a more efficient version of collateralized stablecoins. It substitutes confidence and game theory for conventional backing. No purely algorithmic stablecoin has maintained long-term sustainability, making this part of DeFi highly experimental and risky. A user should treat a stated peg in such a system as a mechanism under continuous pressure, not as an assurance that the target value will hold.
 
-|
+### A practical way to assess the trade-offs
 
-**Example**|
+Stablecoin risk is easiest to evaluate by following the claim a holder is making. With a fiat-collateralized token, the claim is effectively tied to the issuer's ability to redeem tokens against off-chain reserves. The first questions are who holds the reserves, what the reserves are stated to include, and whether the issuer can perform redemption. Centralization, reserve quality, limited transparency, and the ability to freeze or blacklist addresses are part of the same package rather than separate footnotes.
 
-**Mechanism**|
-|
+With a crypto-collateralized token, the analysis shifts to the collateral system. Users should understand that the stablecoin is backed by assets that can decline in price, that those assets are locked at more than the amount borrowed, and that the system may liquidate them when a threshold is crossed. On-chain transparency can make the rules and collateral observable, but it does not remove collateral risk or the cost of over-collateralization.
 
--------------|
+With an algorithmic token, the principal question is whether the supply-adjustment incentive can remain credible when holders want to leave. The mechanism may work while arbitrage is attractive and confidence is intact. Its weakness is most apparent when those assumptions no longer reinforce one another. The prospect of capital efficiency should be weighed against that reflexive failure mode.
 
----------------|
-| TerraUSD (UST) | Used a dual-token system with seigniorage token LUNA for peg maintenance. |
+The purpose also matters. Someone using a stablecoin briefly to settle a trade is making a different decision from someone holding it as a store of value, or from someone minting a crypto-collateralized token against ETH or WBTC. A short transaction does not eliminate issuer, reserve, collateral, or algorithmic risk; it may simply reduce the time exposed to it. Longer use gives the quality of the underlying mechanism more weight.
 
-**Mechanism**: These systems typically involve two tokens: the stablecoin itself (e.g., UST) and a volatile "seigniorage" token (e.g., LUNA). The algorithm allows users to swap 1 unit of the stablecoin for $1 worth of the seigniorage token, and vice versa.
-- If the stablecoin price exceeds $1, the algorithm motivates users to mint new stablecoins by burning the seigniorage token, increasing stablecoin supply and lowering its price.
-- If the stablecoin price drops below $1, users are encouraged to burn the stablecoin in exchange for $1 worth of the seigniorage token, thus reducing supply and raising price.
-
-**Peg Maintenance**: The peg is maintained through game theory and the expectation that arbitrage opportunities will function effectively.
-
-**Pros**:
-- **Capital Efficiency**: They require little to no collateral, maximizing capital efficiency.
-- **Ultimate Decentralization**: In theory, they represent the most decentralized stablecoin form, as they do not rely on external assets or centralized custodians.
-
-**Cons**:
-- **High Reflexivity and Risk**: Algorithmic stablecoins are susceptible to "death spirals." A loss of confidence in the peg can trigger a rush to redeem the stablecoin for the seigniorage token, inflating its supply and causing a price crash.
-- **Unproven at Scale**: No purely algorithmic stablecoin has maintained long-term sustainability, making this a highly experimental and risky area within DeFi.
-
-### Choose Your Stability Wisely
-
-Stablecoins play an essential role in the Web3 economy, offering a necessary refuge of stability amid volatility. Understanding the sources of this stability is important. Fiat-collateralized stablecoins like USDC provide high reliability but come with centralization risks. Crypto-collateralized stablecoins like DAI offer decentralization but at the expense of capital efficiency. Algorithmic stablecoins present intriguing possibilities, yet their high risks remain evident. By fully understanding the mechanisms, risks, and trade-offs associated with each type, investors can make informed decisions and engage with DeFi more safely and effectively.
+No category is automatically "safe" because it targets one dollar. Fiat-collateralized stablecoins offer a direct and widely used model, but require trust in an issuer and its reserves. Crypto-collateralized stablecoins make their backing and rules more visible on-chain, but require volatile assets, liquidation processes, and excess collateral. Algorithmic stablecoins offer a more capital-efficient design in theory, but place far more weight on confidence in an incentive system. The useful comparison is not between labels. It is between the specific source of stability and the specific way it can fail.

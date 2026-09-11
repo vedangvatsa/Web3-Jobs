@@ -68,39 +68,113 @@ function removePlaceholderKeyTakeaways(content: string): string {
   });
 }
 
+function removeDuplicateHeroImage(content: string, heroImage?: string): string {
+  if (!heroImage) return content;
+
+  const lines = content.split('\n');
+  const normalizedHero = heroImage.trim();
+  const repaired: string[] = [];
+
+  for (let index = 0; index < lines.length; index++) {
+    const match = lines[index].match(/^\s*!\[[^\]]*\]\(<?([^\s)>]+)>?(?:\s+"[^"]*")?\)\s*$/);
+    if (!match || match[1] !== normalizedHero) {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    // A featured image is already rendered above the article body.
+    if (/^\s*\*(?:Figure|Source)\b/i.test(lines[index + 1] || '')) index++;
+  }
+
+  return repaired.join('\n');
+}
+
+function trimReferenceDumps(content: string): string {
+  const lines = content.split('\n');
+  const repaired: string[] = [];
+  const referenceHeading = /^(#{2,3})\s+(?:(?:authoritative (?:research|documentation)(?: and technical documentation)?)|(?:references|sources|further reading|technical documentation)\b.*)$/i;
+
+  for (let index = 0; index < lines.length; index++) {
+    const heading = lines[index].match(referenceHeading);
+    if (!heading) {
+      repaired.push(lines[index]);
+      continue;
+    }
+
+    const level = heading[1].length;
+    let end = index + 1;
+    while (end < lines.length) {
+      const nextHeading = lines[end].match(/^(#{1,6})\s+/);
+      if (nextHeading && nextHeading[1].length <= level) break;
+      end++;
+    }
+
+    const listItems = lines.slice(index + 1, end).filter((line) => /^\s*[-*+]\s+/.test(line));
+    if (listItems.length <= 6) {
+      repaired.push(...lines.slice(index, end));
+      index = end - 1;
+      continue;
+    }
+
+    // Keep a short, useful reading list instead of a generated bibliography dump.
+    repaired.push(`${heading[1]} Further reading`, '', ...listItems.slice(0, 6), '');
+    index = end - 1;
+  }
+
+  return repaired.join('\n');
+}
+
+function removeAsciiDiagrams(content: string): string {
+  return content.replace(/```[^\n]*\n([\s\S]*?)```/g, (block: string, diagram: string) => {
+    const borderLines = diagram.split('\n').filter((line) => /\+[-+]{8,}\+/.test(line));
+    return borderLines.length >= 2 ? '' : block;
+  });
+}
+
 function repairDiagramMarkup(content: string): string {
   const diagramTags = /^(\s*)(\/?(?:svg|g|path|rect|circle|line|polygon|polyline|text|tspan|defs|use|marker)\b.*)$/;
-  let inDiagram = false;
+  const lines = content.split('\n');
+  const repaired: string[] = [];
 
-  return content
-    .split('\n')
-    .map((line) => {
-      if (/^<div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">$/.test(line)) {
-        inDiagram = true;
-        return '<div class="article-diagram">';
-      }
+  for (let index = 0; index < lines.length; index++) {
+    if (!/^<div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">$/.test(lines[index])) {
+      repaired.push(lines[index]);
+      continue;
+    }
 
-      if (!inDiagram) return line;
-      if (line === '</div>') {
-        inDiagram = false;
-        return line;
-      }
-      if (!line.trim()) return '';
+    const diagram = ['<div class="article-diagram">'];
+    index++;
+
+    for (; index < lines.length && lines[index] !== '</div>'; index++) {
+      const line = lines[index].trim();
+      if (!line) continue;
 
       if (/^div class=/.test(line)) {
-        return line.replace(/^div class="[^"]*">/, '<div class="article-diagram-title">');
+        diagram.push(line.replace(/^div class="[^"]*">/, '<div class="article-diagram-title">'));
+        continue;
       }
 
       const diagramTag = line.match(diagramTags);
-      if (!diagramTag) return line;
+      if (!diagramTag) {
+        diagram.push(line);
+        continue;
+      }
 
       let tag = diagramTag[2];
       if (tag.startsWith('svg ')) {
-        tag = tag.replace(/class="[^"]*"/, 'class="article-diagram-svg"');
+        tag = /class="[^"]*"/.test(tag)
+          ? tag.replace(/class="[^"]*"/, 'class="article-diagram-svg"')
+          : tag.replace(/>$/, ' class="article-diagram-svg">');
       }
-      return `${diagramTag[1]}<${tag}>`;
-    })
-    .join('\n');
+      diagram.push(`<${tag.endsWith('>') ? tag : `${tag}>`}`);
+    }
+
+    diagram.push('</div>');
+    // A single raw HTML block prevents remark from wrapping SVG children in paragraphs.
+    repaired.push(diagram.join(''));
+  }
+
+  return repaired.join('\n');
 }
 
 function repairSplitListItems(content: string): string {
@@ -214,8 +288,20 @@ function repairIncompleteTableRows(content: string): string {
   return repaired.join('\n');
 }
 
-function normalizeArticleMarkdown(content: string): string {
-  return repairDiagramMarkup(repairIncompleteTableRows(repairFragmentedTables(repairSplitListItems(removePlaceholderKeyTakeaways(content)))));
+function normalizeArticleMarkdown(content: string, heroImage?: string): string {
+  return repairDiagramMarkup(
+    repairIncompleteTableRows(
+      repairFragmentedTables(
+        repairSplitListItems(
+          removeAsciiDiagrams(
+            trimReferenceDumps(
+              removeDuplicateHeroImage(removePlaceholderKeyTakeaways(content), heroImage),
+            ),
+          ),
+        ),
+      ),
+    ),
+  );
 }
 
 const latestArticlesPath = path.join(process.cwd(), 'content/latest-articles.json');
@@ -269,7 +355,8 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
   const fileContents = fs.readFileSync(fullPath, 'utf8');
   const matterResult = matter(fileContents);
 
-  const sanitizedContent = normalizeArticleMarkdown(matterResult.content);
+   const data = matterResult.data;
+   const sanitizedContent = normalizeArticleMarkdown(matterResult.content, typeof data.image === 'string' ? data.image : undefined);
 
   const processedContent = await remark()
    .use(remarkGfm)
@@ -287,7 +374,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
     ...sanitizeHtml.defaults.allowedAttributes,
     '*': [
       'class', 'style', 'id',
-      'viewBox', 'xmlns', 'cx', 'cy', 'r', 'x', 'y', 'x1', 'y1', 'x2', 'y2',
+       'viewBox', 'viewbox', 'xmlns', 'cx', 'cy', 'r', 'x', 'y', 'x1', 'y1', 'x2', 'y2',
       'width', 'height', 'rx', 'ry', 'fill', 'fill-opacity', 'stroke',
       'stroke-width', 'stroke-opacity', 'stroke-dasharray', 'stroke-linecap',
       'stroke-linejoin', 'transform', 'text-anchor', 'font-family', 'font-size',
@@ -298,9 +385,7 @@ export async function getArticle(slug: string): Promise<Article | undefined> {
    },
   });
 
-  const data = matterResult.data;
-
-  if (typeof data.title !== 'string' || !data.title) {
+   if (typeof data.title !== 'string' || !data.title) {
    console.error(`Article with slug"${slug}" is missing a title.`);
    return undefined;
   }
