@@ -16,6 +16,7 @@ const BLOCKED_EVENT_IDS = new Set([
   'side-desci-singapore-summit-2026',
   'side-sg-arbitrum-stylus-hacker-house',
   'ma-european-blockchain-convention-12', // Duplicate of the curated EBC 2026 record
+  'w3v-onchain-capital--liquidity-defi--ai', // Duplicate of the curated Onchain Capital & Liquidity Seoul event
 ]);
 
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
