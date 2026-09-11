@@ -3,6 +3,7 @@ import { ArrowRight, Clock, DollarSign, ExternalLink, MapPin } from 'lucide-reac
 import type { Company, Job } from '@/types';
 import { CompanyLogo } from '@/components/company-logo';
 import { JobApplicationButton } from '@/components/tracking/job-application-button';
+import { DetailPageHeader } from '@/components/detail-page-header';
 import { getCompanySlug, getJobSlug } from '@/lib/job-slugs';
 import { getJobSalaryInfo } from '@/lib/job-salary';
 
@@ -300,32 +301,24 @@ export function JobDetailView({
         dangerouslySetInnerHTML={{ __html: JSON.stringify(breadcrumbSchema) }}
       />
 
-      <nav aria-label="Breadcrumb" className="mb-8 flex flex-wrap gap-2 text-sm text-muted-foreground">
-        <Link href="/" className="hover:text-foreground">Home</Link>
-        <span aria-hidden="true">/</span>
-        <Link href="/jobs" className="hover:text-foreground">Jobs</Link>
-        <span aria-hidden="true">/</span>
-        <Link href={`/${companySlug}`} className="hover:text-foreground">{job.company}</Link>
-      </nav>
-
-      <header className="border-b pb-8">
-        <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex h-16 w-16 shrink-0 items-center justify-center">
+      <DetailPageHeader
+        breadcrumbs={[
+          { href: '/', label: 'Home' },
+          { href: '/jobs', label: 'Jobs' },
+          { href: `/${companySlug}`, label: job.company },
+        ]}
+        icon={
             <CompanyLogo
               logoSrc={logoSrc ?? faviconUrl}
               faviconUrl={faviconUrl}
               name={job.company}
               size="h-full w-full"
             />
-          </div>
-
-          <div className="min-w-0 flex-1">
-            <h1 className="text-3xl font-bold tracking-tight sm:text-4xl">{job.title}</h1>
-            <Link href={`/${companySlug}`} className="mt-2 inline-block font-medium hover:text-primary">
-              {job.company}
-            </Link>
-
-            <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">
+        }
+        title={job.title}
+        subtitle={<Link href={`/${companySlug}`} className="inline-block font-medium hover:text-primary">{job.company}</Link>}
+        metadata={
+          <>
               {job.location && (
                 <span className="flex items-center gap-1.5">
                   <MapPin className="h-4 w-4" aria-hidden="true" />
@@ -344,9 +337,9 @@ export function JobDetailView({
                   {postedLabel}
                 </span>
               )}
-            </div>
-          </div>
-
+          </>
+        }
+        actions={
           <JobApplicationButton
             jobId={job.id}
             jobTitle={job.title}
@@ -360,8 +353,8 @@ export function JobDetailView({
               <ExternalLink className="h-4 w-4" aria-hidden="true" />
             </span>
           </JobApplicationButton>
-        </div>
-      </header>
+        }
+      />
 
       <section
         className="prose prose-slate mt-10 max-w-none dark:prose-invert prose-headings:tracking-tight prose-a:text-primary"
