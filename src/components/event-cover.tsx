@@ -110,7 +110,7 @@ export function EventCardImage({
     <img
       src={src}
       alt={name}
-      className="w-full h-full object-cover group-hover:scale-105 transition-transform duration-500 ease-out"
+      className="w-full h-full bg-muted object-contain transition-transform duration-500 ease-out"
       loading={isAboveFold ? "eager" : "lazy"}
       fetchPriority={index === 0 ? "high" : undefined}
       decoding="async"
