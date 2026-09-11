@@ -21,17 +21,6 @@ The emergence of Web3 technology and Real-World Asset (RWA) tokenization is tran
 
 Tokenizing physical property is not as simple as deploying an ERC-20 smart contract on a blockchain. Blockchains cannot enforce physical rights directly; they enforce code execution rules. Therefore, tokenizing real estate requires a hybrid legal-technical architecture that bridges physical property jurisdiction laws with smart contract execution.
 
-```
-+-------------------------------------------------------------------+
-|               Real Estate Tokenization Legal Wrapper              |
-+-------------------------------------------------------------------+
-| 1. Physical Real Estate Property (Commercial / Residential)      |
-| 2. Special Purpose Vehicle (SPV / Delaware LLC / Swiss GmbH)      |
-| 3. Property Deed & Title Owned 100% by SPV Legal Entity           |
-| 4. Membership Interests in SPV Digitized as Security Tokens       |
-| 5. Token Holders Ownership Certified via Smart Contract Registry  |
-+-------------------------------------------------------------------+
-```
 
 ### The Special Purpose Vehicle (SPV) Framework
 
@@ -48,15 +37,6 @@ Directly recording property deeds on a blockchain is currently restricted in mos
 
 Standard ERC-20 tokens are permissionless; anyone can transfer ERC-20 tokens to any wallet address without restriction. However, security tokenized real estate assets must comply with strict securities laws (such as SEC Regulation D, Regulation S, or MiCA in Europe), which require investor accreditation checks, Know Your Customer (KYC) verification, and Anti-Money Laundering (AML) screening.
 
-```
-+-------------------------------------------------------------------+
-|                 Security Token Standard Comparison                |
-+-------------------------------------------------------------------+
-| ERC-20: Permissionless, no transfer restrictions, non-compliant  |
-| ERC-1400: Security token standard with document management       |
-| ERC-3643 (T-Rex): Permissioned standard with ONCHAINID identity   |
-+-------------------------------------------------------------------+
-```
 
 ### The ERC-3643 (T-REX) Permissioned Token Standard
 
@@ -70,7 +50,7 @@ interface IERC3643 {
 / Identity Registry checking investor KYC status before execution
     function identityRegistry() external view returns (address);
     function compliance() external view returns (address);
-    
+
 / Conditional transfer function checking identity and compliance
     function transfer(address to, uint256 amount) external returns (bool);
     function forcedTransfer(address from, address to, uint256 amount) external returns (bool);
@@ -126,16 +106,6 @@ The execution lifecycle of a real estate tokenization project spans four sequent
 
 As real estate tokenization accelerates toward trillion-dollar adoption, specialized career opportunities are expanding across software engineering, legal compliance, asset management, and DeFi risk architecture.
 
-```
-+-------------------------------------------------------------------+
-|               Real Estate Tokenization Career Matrix              |
-+-------------------------------------------------------------------+
-| 1. RWA Smart Contract & Protocol Engineers                        |
-| 2. Securities Law & Tokenization Compliance Specialists          |
-| 3. On-Chain Asset Managers & Property Operations Leads            |
-| 4. RWA DeFi Integration & Oracle Engineers                        |
-+-------------------------------------------------------------------+
-```
 
 ### 1. RWA Smart Contract & Protocol Engineers
 
@@ -212,7 +182,7 @@ contract RealEstateDividendVault is Ownable, ReentrancyGuard {
 
         usdcToken.transferFrom(msg.sender, address(this), _amount);
         totalDividendsDeposited += _amount;
-        
+
 / Scale by 1e18 to prevent precision loss during division
         dividendPerTokenStored += (_amount * 1e18) / totalTokens;
 
@@ -247,16 +217,6 @@ contract RealEstateDividendVault is Ownable, ReentrancyGuard {
 
 Several pioneering protocols and platforms have successfully tokenized real estate assets, establishing proof of concept for global adoption.
 
-```
-+-------------------------------------------------------------------+
-|               Leading RWA Tokenization Ecosystems                |
-+-------------------------------------------------------------------+
-| 1. RealT: Fractional residential real estate on Ethereum/Gnosis   |
-| 2. Centrifuge: Credit pools backed by real estate mortgages       |
-| 3. Ondo Finance: Tokenized institutional treasury & real estate    |
-| 4. Lofty AI: Algorand-based fractional rental property market     |
-+-------------------------------------------------------------------+
-```
 
 ### RealT
 
@@ -290,16 +250,6 @@ Although tokenization enables fractional ownership, secondary market liquidity f
 
 For professionals seeking to build a career in Web3 real estate tokenization, follow this strategic action plan:
 
-```
-+-------------------------------------------------------------------+
-|               Career Transition Execution Roadmap                 |
-+-------------------------------------------------------------------+
-| Step 1: Master ERC-3643 Permissioned Token Standards             |
-| Step 2: Build a Full-Stack Real Estate Tokenization DApp Portfolio|
-| Step 3: Gain Practical Experience with Centrifuge & Ondo Protocols|
-| Step 4: Network with RWA Platforms & Institutional Issuers        |
-+-------------------------------------------------------------------+
-```
 
 ### Step 1: Develop Technical Expertise in Permissioned Tokens
 

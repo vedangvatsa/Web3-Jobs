@@ -245,7 +245,7 @@ contract AutomatedLiquidityManager is Ownable, ReentrancyGuard {
 
 / Execute withdrawal, swap inventory, and remint new position
             _rebalance(newLower, newUpper);
-            
+
             lastLowerTick = newLower;
             lastUpperTick = newUpper;
 
@@ -277,7 +277,7 @@ Where $\sigma$ represents asset price volatility and $L$ represents pool liquidi
 
 ```
                          LVR vs IMPERMANENT LOSS
-                         
+
  Feature / Metric         Impermanent Loss (IL)         Loss-Versus-Rebalancing (LVR)
 ──────────────────────────────────────────────────────────────────────────────────────────
  Path Sensitivity         Path-Independent              Path-Dependent (Accumulative)

@@ -9,6 +9,7 @@ data-ai-hint: people talking
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Introduction: The Networking Potential of Coffee Chats
 
 A coffee chat serves as an informal conversation with a professional in your field, offering an effective way to gather insights and advice while building a genuine connection. Unlike formal job interviews, coffee chats create a relaxed environment where you can explore topics relevant to your career growth.
@@ -52,7 +53,7 @@ As the initiator, you must lead the conversation. Prepare adequately to avoid re
 
 ### 1. Conduct In-Depth Research
 
-Go beyond your initial outreach. 
+Go beyond your initial outreach.
 - Examine their LinkedIn profile for career history, projects, and recent activities.
 - Review any articles they have authored or presentations they have delivered.
 - Familiarize yourself with recent developments in their company.

@@ -10,6 +10,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Understanding the fundamental differences between Ethereum and Solana is vital for any developer entering the blockchain space. Both platforms offer unique advantages that cater to different needs and use cases. While Ethereum has established itself as the primary platform for smart contract development, Solana is rapidly gaining traction due to its high throughput and low transaction costs.
 
 ### Key Differences Between Ethereum and Solana
@@ -126,22 +127,34 @@ pub struct BaseAccount {
 
 After writing your program, work through to your project's root directory and execute the following commands to build and deploy your program:
 
-1. **Build the Program:**```bash
+1. **Build the Program:**
+
+```bash
  anchor build
- ```
+
+
+```
 
 2.
 
-**Start a Local Test Validator:**```bash
+**Start a Local Test Validator:**
+
+```bash
  solana-test-validator
- ```
+
+
+```
 
 3.
 
-**Deploy the Program:** 
- ```bash
+**Deploy the Program:**
+
+
+```bash
  anchor deploy
- ```
+
+
+```
 
 The deployment process updates your program ID in the `declare_id!` macro and in `Anchor.toml`, allowing you to interact with your newly created program.
 

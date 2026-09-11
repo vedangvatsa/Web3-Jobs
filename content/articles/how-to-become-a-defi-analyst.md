@@ -8,6 +8,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 slug: how-to-become-a-defi-analyst
 ---
+
 Evaluating decentralized financial protocols requires an analytical paradigm distinct from traditional equity research or credit analysis. In corporate finance, analysts rely on quarterly financial statements audited by accounting firms, management guidance conferences, and opaque regulatory filings. In decentralized finance (DeFi), every balance update, liquidity deposit, liquidation event, and fee distribution is publicly recorded on an immutable ledger in real time.
 
 However, transparency does not equal simplicity. Raw on-chain data is noisy, convoluted by flash loans, circular token incentives, synthetic liquidity wash trading, and uncollateralized exposure. A DeFi analyst translates distributed ledger events into rigorous quantitative models, solvency stress tests, and capital allocation recommendations for venture funds, market makers, protocol DAOs, and risk modeling firms.
@@ -53,24 +54,6 @@ Decentralized protocols generate fees by taking a slice of transactions, swaps, 
 
 - Supply-Side Revenue: The share of fees allocated to external capital providers, such as liquidity providers in automated market makers or depositors in lending protocols like [Aave Governance](https://governance.aave.com) and [Compound Finance](https://compound.finance).
 
-```
-+-------------------------------------------------------------------------+
-|                  DeFi Cash Flow Accounting Structure                    |
-+-------------------------------------------------------------------------+
-|  Gross User Fees Paid (Borrow Interest, DEX Swaps, Staking Cuts)        |
-|                                |                                        |
-|         +----------------------+----------------------+                 |
-|         |                                             |                 |
-|         v                                             v                 |
-|  Supply-Side Revenue                        Protocol Revenue            |
-|  (Paid to LPs / Lenders)                   (Retained by Treasury)       |
-|                                                       |                 |
-|                                           +-----------+-----------+     |
-|                                           |                       |     |
-|                                           v                       v     |
-|                                     Treasury Accrual      Token Buybacks|
-+-------------------------------------------------------------------------+
-```
 
 ### Real Yield vs Dilutive Emission APR
 
@@ -110,7 +93,7 @@ The mathematical formula for impermanent loss as a function of the price ratio $
 
 $$IL = \frac{2 \sqrt{k_p}}{1 + k_p} - 1$$
 
-When an asset price doubles ($k_p = 2$), the impermanent loss is approximately 5.72 percent compared to holding the assets outside the pool. If the price experiences a five-fold increase ($k_p = 5$), impermanent loss expands to 25.46 percent. 
+When an asset price doubles ($k_p = 2$), the impermanent loss is approximately 5.72 percent compared to holding the assets outside the pool. If the price experiences a five-fold increase ($k_p = 5$), impermanent loss expands to 25.46 percent.
 
 In concentrated liquidity AMMs like Uniswap v3, introduced by [Uniswap Labs](https://uniswap.org) and researched by [Paradigm](https://paradigm.xyz), liquidity providers allocate capital within custom price intervals $[p_a, p_b]$. This boosts capital efficiency by orders of magnitude, but amplifies impermanent loss when the market price breaches the interval bounds.
 
@@ -125,7 +108,7 @@ def calculate_concentrated_il(price_ratio, lower_tick, upper_tick):
     sqrt_p = np.sqrt(price_ratio)
     sqrt_pa = np.sqrt(lower_tick)
     sqrt_pb = np.sqrt(upper_tick)
-    
+
     if price_ratio < lower_tick:
         v_lp = sqrt_pa * sqrt_pb * (sqrt_pb - sqrt_pa)
         v_hold = sqrt_pb
@@ -135,7 +118,7 @@ def calculate_concentrated_il(price_ratio, lower_tick, upper_tick):
     else:
         v_lp = 2 * sqrt_p - sqrt_pa - (price_ratio / sqrt_pb)
         v_hold = price_ratio + 1
-        
+
     return (v_lp / v_hold) - 1.0
 
 # Evaluate impermanent loss for a 20% range around current price
@@ -167,7 +150,7 @@ Consider this example query analyzing the 30-day volume and fee generation of a 
 
 ```sql
 WITH daily_borrows AS (
-    SELECT 
+    SELECT
         DATE_TRUNC('day', evt_block_time) AS block_date,
         SUM(borrowAmount / 1e6) AS total_borrowed_usd,
         COUNT(DISTINCT borrower) AS unique_borrowers
@@ -177,7 +160,7 @@ WITH daily_borrows AS (
     GROUP BY 1
 ),
 daily_repayments AS (
-    SELECT 
+    SELECT
         DATE_TRUNC('day', evt_block_time) AS block_date,
         SUM(repushedAmount / 1e6) AS total_repaid_usd
     FROM aave_v3_ethereum.Pool_evt_Repay
@@ -185,7 +168,7 @@ daily_repayments AS (
       AND evt_block_time >= NOW() - INTERVAL '30' DAY
     GROUP BY 1
 )
-SELECT 
+SELECT
     b.block_date,
     b.total_borrowed_usd,
     COALESCE(r.total_repaid_usd, 0) AS total_repaid_usd,

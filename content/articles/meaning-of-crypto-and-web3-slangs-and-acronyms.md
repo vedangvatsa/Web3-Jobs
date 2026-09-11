@@ -21,17 +21,6 @@ Understanding this terminology is not merely an academic exercise in internet po
 
 Web3 is built on pseudonymous, global internet communities where shared terminology reinforces community trust, market optimism, and shared identity.
 
-```
-+-------------------------------------------------------------------+
-|               Core Community & Cultural Terms                     |
-+-------------------------------------------------------------------+
-| WAGMI: We're All Gonna Make It (Collective market optimism)       |
-| NGMI: Not Gonna Make It (Dismissal of poor decisions/skepticism)  |
-| GM / GN: Good Morning / Good Night (Universal community greeting) |
-| HODL: Hold On for Dear Life (Long-term asset conviction)          |
-| Diamond Hands vs Paper Hands: Resilience vs Panic Selling         |
-+-------------------------------------------------------------------+
-```
 
 ### WAGMI (We're All Gonna Make It)
 
@@ -60,17 +49,6 @@ Originally stemming from a legendary drunken forum post on BitcoinTalk in Decemb
 
 For developers building on public blockchains, understanding technical acronyms is necessary for navigating smart contract development and node infrastructure.
 
-```
-+-------------------------------------------------------------------+
-|              Technical & Infrastructure Acronyms                 |
-+-------------------------------------------------------------------+
-| EVM: Ethereum Virtual Machine (Smart contract execution runtime)  |
-| EIP / ERC: Ethereum Improvement Proposal / Request for Comment    |
-| MEV: Maximal Extractable Value (Block space arbitrage extraction) |
-| ZK / zkSNARK: Zero-Knowledge Succinct Non-Interactive Proof      |
-| RPC: Remote Procedure Call (Node communication interface)         |
-+-------------------------------------------------------------------+
-```
 
 ### EVM (Ethereum Virtual Machine)
 
@@ -96,17 +74,6 @@ Formerly known as Miner Extractable Value, MEV refers to the maximum value that 
 
 DeFi and crypto trading ecosystems use specific financial metrics and speculative terms.
 
-```
-+-------------------------------------------------------------------+
-|                Financial & Trading Slang Glossary                 |
-+-------------------------------------------------------------------+
-| TVL: Total Value Locked (Aggregate capital in smart contracts)    |
-| FDV: Fully Diluted Valuation (Total market cap at 100% token supply)|
-| FUD: Fear, Uncertainty, and Doubt (Market disinformation)         |
-| FOMO: Fear Of Missing Out (Impulsive speculative buying)          |
-| Degen: Degenerate (High-risk speculative trader or liquidity farm)|
-+-------------------------------------------------------------------+
-```
 
 ### TVL (Total Value Locked)
 
@@ -134,17 +101,6 @@ Short for "degenerate gambler." In Web3 culture, "degen" is used self-referentia
 
 Understanding terms related to protocol administration, smart contract security, and malicious exploits is vital for evaluating system risk.
 
-```
-+-------------------------------------------------------------------+
-|              Governance & Security Slang Glossary                 |
-+-------------------------------------------------------------------+
-| DAO: Decentralized Autonomous Organization (On-chain voting)      |
-| Rug Pull: Malicious team exit draining project liquidity pools     |
-| Reentrancy Attack: Vulnerability where contract calls itself       |
-| Timelock: Mandatory delay window before code changes execute     |
-| Multisig: Wallet requiring multiple signatures (e.g. 3-of-5)     |
-+-------------------------------------------------------------------+
-```
 
 ### DAO (Decentralized Autonomous Organization)
 
@@ -190,16 +146,6 @@ Below is an alphabetical reference table covering additional essential Web3 term
 
 The terminology of Web3 is not arbitrary; it reflects the core ethos of decentralized computing:
 
-```
-+-------------------------------------------------------------------+
-|               Philosophical Drivers of Web3 Language               |
-+-------------------------------------------------------------------+
-| 1. Don't Trust, Verify: Encapsulated by DYOR & On-Chain Audit     |
-| 2. Self-Custody First: Reflected in "Not Your Keys, Not Your Coins"|
-| 3. Permissionless Access: Open participation without gatekeepers  |
-| 4. Memetic Coordination: Memes as viral social alignment tools   |
-+-------------------------------------------------------------------+
-```
 
 ### Don't Trust, Verify
 

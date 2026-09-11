@@ -9,6 +9,7 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 AI in hiring refers to software that helps write job descriptions, source candidates, screen resumes, rank applicants, schedule interviews, and track decisions. A person still makes the hire, but the system shapes who gets seen and how quickly you move.
 
 This guide explains what these tools do, who should use them, how they work in practice, what helps and what hurts, what the law requires in the United States and the EU, and how to set up a process you can defend.
@@ -19,24 +20,36 @@ AI in hiring is a set of tools inside your applicant tracking system and around 
 
 Common uses include:
 
-- **Drafting and targeting.
+-
 
-**Generate a first draft of a job description from a prompt and past postings, then check it for missing skills. Some platforms also target ads to lookalike audiences based on past applicants.
-- **Resume parsing and search.
+### Drafting and targeting
 
-**Convert a PDF or DOCX into structured fields and match keywords to the job requirements you set. Most systems filter and store, a few also score or rank.
-- **Screening and ranking.
+Generate a first draft of a job description from a prompt and past postings, then check it for missing skills. Some platforms also target ads to lookalike audiences based on past applicants.
+-
 
-**Score candidates 1 to 5 stars or place them in tiers based on keywords, years of experience, or a model trained on prior hires. This is the highest risk step.
-- **Assessments and video interviews.
+### Resume parsing and search
 
-**Score take-home tests, games, or recorded video for language patterns or facial signals. Illinois and New York City treat this as an automated employment decision tool when it substantially assists a decision.
-- **Scheduling and communication.
+Convert a PDF or DOCX into structured fields and match keywords to the job requirements you set. Most systems filter and store, a few also score or rank.
+-
 
-**Chatbots answer candidate questions, schedule interviews, and send status updates. This has lower legal risk and high time savings.
-- **Background, reference, and close.
+### Screening and ranking
 
-**Summarize notes, draft offer letters, and check for inconsistent data before a human approves.
+Score candidates 1 to 5 stars or place them in tiers based on keywords, years of experience, or a model trained on prior hires. This is the highest risk step.
+-
+
+### Assessments and video interviews
+
+Score take-home tests, games, or recorded video for language patterns or facial signals. Illinois and New York City treat this as an automated employment decision tool when it substantially assists a decision.
+-
+
+### Scheduling and communication
+
+Chatbots answer candidate questions, schedule interviews, and send status updates. This has lower legal risk and high time savings.
+-
+
+### Background, reference, and close
+
+Summarize notes, draft offer letters, and check for inconsistent data before a human approves.
 
 None of these tools verify truth. You provide the criteria, you train or configure the model, and you remain responsible for the outcome.
 
@@ -64,21 +77,31 @@ Amazon's experimental resume tool from 2014 to 2017 is the canonical example. Re
 
 ### 2. The funnel where AI sits
 
-- **Sourcing.
+-
 
-**The system shows your ad to candidates similar to past applicants or employees. If your past pool was narrow, targeting can narrow future pools.
-- **Application.
+### Sourcing
 
-**The ATS stores every resume and makes it searchable by keyword. CareerOneStop and the U.S. Department of Labor note that failure to parse tables, columns, text boxes, or graphics is a common reason a qualified resume is not found.
-- **Screen and rank.
+The system shows your ad to candidates similar to past applicants or employees. If your past pool was narrow, targeting can narrow future pools.
+-
 
-**If you enable ranking, the tool orders candidates and may auto-reject below a threshold. This step creates adverse impact risk under Title VII when a neutral rule hits one group harder without a job-related justification.
-- **Interview.
+### Application
 
-**Video or game-based tools can generate scores before a human interview. Some analyze speech patterns or facial signals. Validity for these signals in hiring is contested and some jurisdictions require separate consent.
-- **Decision and record keeping.
+The ATS stores every resume and makes it searchable by keyword. CareerOneStop and the U.S. Department of Labor note that failure to parse tables, columns, text boxes, or graphics is a common reason a qualified resume is not found.
+-
 
-**The ATS logs scores, stages, and reasons. That log is what an audit will review later.
+### Screen and rank
+
+If you enable ranking, the tool orders candidates and may auto-reject below a threshold. This step creates adverse impact risk under Title VII when a neutral rule hits one group harder without a job-related justification.
+-
+
+### Interview
+
+Video or game-based tools can generate scores before a human interview. Some analyze speech patterns or facial signals. Validity for these signals in hiring is contested and some jurisdictions require separate consent.
+-
+
+### Decision and record keeping
+
+The ATS logs scores, stages, and reasons. That log is what an audit will review later.
 
 ### 3. How employers actually use AI now
 
@@ -98,32 +121,42 @@ These numbers explain the gap you must manage. Employers buy for speed. Candidat
 
 - **-** Faster admin.
 
-**Drafting job descriptions, scheduling, and answering routine questions can move from hours to minutes. SHRM users report this as the clearest return.
-- **Consistent process.
+Drafting job descriptions, scheduling, and answering routine questions can move from hours to minutes. SHRM users report this as the clearest return.
+- Consistent process.
 
-**A structured screen with the same criteria for every resume reduces variation between reviewers, when you keep the criteria job-related.
-- **Better reach when used narrowly.
+A structured screen with the same criteria for every resume reduces variation between reviewers, when you keep the criteria job-related.
+- Better reach when used narrowly.
 
-**Sourcing assistants can surface candidates from wider pools if you audit who they surface.
-- **Cleaner records.
+Sourcing assistants can surface candidates from wider pools if you audit who they surface.
+- Cleaner records.
 
-**Automatic logging of stages, scores, and reasons helps you answer questions later and run audits.** Limits and trade-offs:**
+**Automatic logging of stages, scores, and reasons helps you answer questions later and run audits.** Limits and trade-offs:
 
-- **-** Bias can scale.
+- -
 
-**A small bias in a model can affect thousands of applicants. EEOC guidance from May 18, 2023, under Title VII, explains that the four-fifths rule is one way to check adverse impact. Their example: 80 White and 40 Black applicants take a test, 48 White and 12 Black advance. The selection rate is 60 percent for White and 30 percent for Black. The impact ratio is 30/60 or 0.50, below 0.80, which flags potential adverse impact for further review. The rule is a flag, not proof of a violation, but it triggers the need to show the test is job-related and consistent with business necessity. Source: https://www.eeoc.gov/laws/guidance/select-issues-assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
-- **Vendor tools are your responsibility.
+### Bias can scale
 
-**On April 9, 2024, the EEOC filed an amicus brief in Mobley v. Workday, Inc., No. 3:23-cv-00770 (N.D. Cal.), arguing a vendor that provides screening tools can be an agent or employment agency under federal law. The court later allowed the agent theory to proceed in July 2024. The case, filed February 21, 2023, alleges bias based on race, age over 40, and disability. As of July 2026, the ADEA collective was conditionally certified in May 2025 with an opt-in deadline of March 7, 2026, and the court denied most dismissal motions in June 2026. No settlement or payout has been confirmed. Workday denies wrongdoing. The point for you: you cannot shift liability to a vendor. If you use the tool, you own the outcome.
-- **Video and emotion claims are fragile.
+A small bias in a model can affect thousands of applicants. EEOC guidance from May 18, 2023, under Title VII, explains that the four-fifths rule is one way to check adverse impact. Their example: 80 White and 40 Black applicants take a test, 48 White and 12 Black advance. The selection rate is 60 percent for White and 30 percent for Black. The impact ratio is 30/60 or 0.50, below 0.80, which flags potential adverse impact for further review. The rule is a flag, not proof of a violation, but it triggers the need to show the test is job-related and consistent with business necessity. Source: https://www.eeoc.gov/laws/guidance/select-issues-assessing-adverse-impact-software-algorithms-and-artificial-intelligence-used
+-
 
-**Tools that infer personality or emotions from faces or voice have weak validity and face specific bans. Illinois requires detailed consent and deletion rights, Maryland requires written consent for facial recognition in interviews, and the EU AI Act prohibits emotion inference in work and education from February 2, 2025.
-- **Hallucinations and confabulation.
+### Vendor tools are your responsibility
 
-**Generative models can invent a skill or a citation that reads as true. If you let a model rewrite a resume bullet or a job requirement, you must verify every fact before you publish or store it.
-- **Overreliance.
+On April 9, 2024, the EEOC filed an amicus brief in Mobley v. Workday, Inc., No. 3:23-cv-00770 (N.D. Cal.), arguing a vendor that provides screening tools can be an agent or employment agency under federal law. The court later allowed the agent theory to proceed in July 2024. The case, filed February 21, 2023, alleges bias based on race, age over 40, and disability. As of July 2026, the ADEA collective was conditionally certified in May 2025 with an opt-in deadline of March 7, 2026, and the court denied most dismissal motions in June 2026. No settlement or payout has been confirmed. Workday denies wrongdoing. The point for you: you cannot shift liability to a vendor. If you use the tool, you own the outcome.
+-
 
-**SHRM reported in March 2026 that among organizations using AI in HR, 57 percent of HR professionals in regulated states were unaware of local AI laws. Speed without governance creates exposure that grows with hiring volume.
+### Video and emotion claims are fragile
+
+Tools that infer personality or emotions from faces or voice have weak validity and face specific bans. Illinois requires detailed consent and deletion rights, Maryland requires written consent for facial recognition in interviews, and the EU AI Act prohibits emotion inference in work and education from February 2, 2025.
+-
+
+### Hallucinations and confabulation
+
+Generative models can invent a skill or a citation that reads as true. If you let a model rewrite a resume bullet or a job requirement, you must verify every fact before you publish or store it.
+-
+
+### Overreliance
+
+SHRM reported in March 2026 that among organizations using AI in HR, 57 percent of HR professionals in regulated states were unaware of local AI laws. Speed without governance creates exposure that grows with hiring volume.
 
 ## Rules you must follow
 
@@ -131,12 +164,12 @@ These numbers explain the gap you must manage. Employers buy for speed. Candidat
 
 EEOC enforces Title VII, the Americans with Disabilities Act, the Age Discrimination in Employment Act, and other statutes. Two EEOC documents matter:
 
-- **Title VII technical assistance, May 18, 2023.
+- Title VII technical assistance, May 18, 2023.
 
-**If a tool has an adverse impact on a protected group, you must be able to show it is job-related and consistent with business necessity and that no equally effective, less discriminatory alternative exists. You are also responsible for a vendor's tool you choose to use.
-- **ADA guidance, May 2022, and EEOC-DOJ joint statements.
+If a tool has an adverse impact on a protected group, you must be able to show it is job-related and consistent with business necessity and that no equally effective, less discriminatory alternative exists. You are also responsible for a vendor's tool you choose to use.
+- ADA guidance, May 2022, and EEOC-DOJ joint statements.
 
-**Tools must provide reasonable accommodation, and they must not screen out a qualified person with a disability based on how the tool measures them. An August 2023 consent judgment with iTutorGroup resolved claims that its software automatically rejected applicants based on age, a reminder that age bias in hiring tools can lead to enforcement.
+Tools must provide reasonable accommodation, and they must not screen out a qualified person with a disability based on how the tool measures them. An August 2023 consent judgment with iTutorGroup resolved claims that its software automatically rejected applicants based on age, a reminder that age bias in hiring tools can lead to enforcement.
 
 The EEOC removed some AI-related hiring guidance pages in January 2025 after the January 20, 2025 revocation of prior executive orders and the January 23, 2025 Executive Order on Removing Barriers to American Leadership in AI. Federal anti-discrimination statutes did not change. The laws still apply whether the decision involved AI or a human.
 
@@ -156,33 +189,43 @@ An ACLU tracker collects published audits at https://github.com/aclu-national/tr
 
 ### Illinois
 
-- **Artificial Intelligence Video Interview Act, 820 ILCS 42, effective January 1, 2020.
+- Artificial Intelligence Video Interview Act, 820 ILCS 42, effective January 1, 2020.
 
-**If you ask Illinois-based applicants to record a video and you use AI to analyze it, you must before the interview: notify the applicant that AI may be used, explain how the AI works and what general types of characteristics it uses, and obtain consent. You may not share the video except with people whose expertise is necessary to evaluate fitness, and you must delete the video and all copies within 30 days of an applicant's request, including backup copies. If you rely solely on AI to decide who gets an in-person interview, you must collect and report race and ethnicity data to the Department of Commerce and Economic Opportunity by December 31 each year. Source: https://law.justia.com/codes/illinois/chapter-820/act-820-ilcs-42/
-- **HB 3773 amending the Illinois Human Rights Act, 775 ILCS 5/2-102, effective January 1, 2026.
+If you ask Illinois-based applicants to record a video and you use AI to analyze it, you must before the interview: notify the applicant that AI may be used, explain how the AI works and what general types of characteristics it uses, and obtain consent. You may not share the video except with people whose expertise is necessary to evaluate fitness, and you must delete the video and all copies within 30 days of an applicant's request, including backup copies. If you rely solely on AI to decide who gets an in-person interview, you must collect and report race and ethnicity data to the Department of Commerce and Economic Opportunity by December 31 each year. Source: https://law.justia.com/codes/illinois/chapter-820/act-820-ilcs-42/
+- HB 3773 amending the Illinois Human Rights Act, 775 ILCS 5/2-102, effective January 1, 2026.
 
-**This broader law defines AI to include generative AI, prohibits using AI that causes a discriminatory effect based on a protected class or that uses ZIP codes as a proxy, and requires notice when AI is used for recruitment, hiring, promotion, renewal, training selection, discharge, discipline, or terms of employment. Enforcement sits with the Illinois Department of Human Rights. Many employers expect implementing rules before the date, but the statute's notice and nondiscrimination duties are already written.
+This broader law defines AI to include generative AI, prohibits using AI that causes a discriminatory effect based on a protected class or that uses ZIP codes as a proxy, and requires notice when AI is used for recruitment, hiring, promotion, renewal, training selection, discharge, discipline, or terms of employment. Enforcement sits with the Illinois Department of Human Rights. Many employers expect implementing rules before the date, but the statute's notice and nondiscrimination duties are already written.
 - **Maryland, effective 2020,** requires written consent before using facial recognition during an interview. Colorado's Artificial Intelligence Act, signed in 2024, takes effect February 1, 2026, and requires reasonable care to avoid algorithmic discrimination for high-risk systems including employment, with impact assessments and disclosures.
 
 ### EU - the EU AI Act
 
 Regulation (EU) 2024/1689 entered into force August 1, 2024.
 
-- **High-risk listing.
+-
 
-**Annex III point 4 lists employment AI as high-risk. It covers AI used for recruitment or selection, in particular to place targeted job advertisements, to analyse and filter applications, and to evaluate candidates, and AI used to make decisions on promotion, termination, task allocation, or monitoring of performance. There is no de minimis use threshold. Source text: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689
-- **What high-risk means.
+### High-risk listing
 
-**Articles 9 to 15 require a risk management system, data governance, technical documentation, logging under Article 12, accuracy testing, human oversight under Article 14, and transparency to deployers under Article 13. Deployers (employers) have duties under Articles 26 and 50 to use the system per instructions, assign oversight to competent people, ensure input data is relevant, monitor operation, inform the provider of serious incidents, and inform candidates they are subject to an AI system.
-- **Prohibited practices, applicable February 2, 2025.
+Annex III point 4 lists employment AI as high-risk. It covers AI used for recruitment or selection, in particular to place targeted job advertisements, to analyse and filter applications, and to evaluate candidates, and AI used to make decisions on promotion, termination, task allocation, or monitoring of performance. There is no de minimis use threshold. Source text: https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=OJ:L_202401689
+-
 
-**Article 5 prohibits emotion inference in work and education contexts. A resume screener that claims to detect enthusiasm or stress from a face or voice in an interview is prohibited in that setting, not just high-risk.
-- **Dates.
+### What high-risk means
 
-**High-risk obligations for general-purpose AI and for prohibited practices began in 2025. Standalone high-risk systems under Annex III originally had a compliance date of August 2, 2026. A Digital Omnibus Regulation (EU) 2026/1744 now defers standalone Annex III compliance to December 2, 2027. Treat August 2, 2026 as the planning date until your counsel confirms the deferral applies to your system, and start logging, documentation, and oversight now. Phasing is complex and your timeline depends on whether the system is embedded or standalone.
-- **Penalties.
+Articles 9 to 15 require a risk management system, data governance, technical documentation, logging under Article 12, accuracy testing, human oversight under Article 14, and transparency to deployers under Article 13. Deployers (employers) have duties under Articles 26 and 50 to use the system per instructions, assign oversight to competent people, ensure input data is relevant, monitor operation, inform the provider of serious incidents, and inform candidates they are subject to an AI system.
+-
 
-**Article 99 sets penalties for high-risk violations up to 15 million euros or 3 percent of worldwide annual turnover, whichever is higher, and higher for prohibited practices. Member state authorities, data protection authorities, and labour inspectorates can enforce, alongside GDPR Article 22 which already limits solely automated decisions with legal or similar effect.
+### Prohibited practices, applicable February 2, 2025
+
+Article 5 prohibits emotion inference in work and education contexts. A resume screener that claims to detect enthusiasm or stress from a face or voice in an interview is prohibited in that setting, not just high-risk.
+-
+
+### Dates
+
+High-risk obligations for general-purpose AI and for prohibited practices began in 2025. Standalone high-risk systems under Annex III originally had a compliance date of August 2, 2026. A Digital Omnibus Regulation (EU) 2026/1744 now defers standalone Annex III compliance to December 2, 2027. Treat August 2, 2026 as the planning date until your counsel confirms the deferral applies to your system, and start logging, documentation, and oversight now. Phasing is complex and your timeline depends on whether the system is embedded or standalone.
+-
+
+### Penalties
+
+Article 99 sets penalties for high-risk violations up to 15 million euros or 3 percent of worldwide annual turnover, whichever is higher, and higher for prohibited practices. Member state authorities, data protection authorities, and labour inspectorates can enforce, alongside GDPR Article 22 which already limits solely automated decisions with legal or similar effect.
 
 ### The NIST AI Risk Management Framework
 

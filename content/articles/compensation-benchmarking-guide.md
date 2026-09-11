@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Web3 pay is not a single number. A senior Solidity offer can be $150,000 base plus $120,000 in tokens that vest over four years, while another at the same level is $220,000 base with no tokens. If you compare only base salary, you will misread both offers. This guide shows how to benchmark correctly, what verified data says in 2026, and how to apply it.
 
 ### What this guide is
@@ -21,24 +22,28 @@ Compensation benchmarking is the process of pricing a role against market data f
 
 ### Who it is for
 
-**If you are a candidate.
 
-**Use this to check an offer, set a counter, and decide how much risk you accept in tokens versus cash. The steps apply whether you negotiate a Web3 developer role, a product role, or a growth role.** If you are a founder or hiring manager.
 
-**Use it to set bands that are defensible, location-aware, and consistent across levels. It also helps you explain a package in writing so candidates can evaluate it without guesswork.** If you run people operations.
+### If you are a candidate
 
-**Use it to document sources, refresh bands annually, and keep base to base and total to total comparisons clean when you report to leadership.
+Use this to check an offer, set a counter, and decide how much risk you accept in tokens versus cash. The steps apply whether you negotiate a Web3 developer role, a product role, or a growth role. If you are a founder or hiring manager.
+
+Use it to set bands that are defensible, location-aware, and consistent across levels. It also helps you explain a package in writing so candidates can evaluate it without guesswork.
+
+### If you run people operations
+
+Use it to document sources, refresh bands annually, and keep base to base and total to total comparisons clean when you report to leadership.
 
 ### How Web3 compensation is structured
 
 Most Web3 offers combine cash and ownership. Base is paid in fiat or stablecoins such as USDC or USDT. Tokens are ownership in the protocol and release over time. Equity is stock in the legal entity, if one exists. Early-stage protocols lean toward tokens. Exchanges and custodians lean toward equity.
 
 | Component | Typical form | What to confirm |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Base salary | Fiat or stablecoin, monthly or biweekly | Currency, pay schedule, and whether stablecoin payment is optional |
@@ -51,15 +56,19 @@ Carta Data for H2 2025, published May 2026, shows why structure matters now. Tea
 
 ### How benchmarking works
 
-Benchmarking has a consistent method. You match the job, pick sources that fit the job, adjust for location and level, and document the cut you used.**1. Match the job by level, not title.
+Benchmarking has a consistent method. You match the job, pick sources that fit the job, adjust for location and level, and document the cut you used.1. Match the job by level, not title.
 
-**A "senior engineer" at one protocol is a mid-level elsewhere. Map years of experience, scope, and on-call or security responsibility. For Web3, note specialization: Solidity and EVM work, Rust and Solana or Polkadot work, zero-knowledge, and security audit are priced differently.** 2. Pick at least two sources that measure the same mix.
+A "senior engineer" at one protocol is a mid-level elsewhere. Map years of experience, scope, and on-call or security responsibility. For Web3, note specialization: Solidity and EVM work, Rust and Solana or Polkadot work, zero-knowledge, and security audit are priced differently. 2. Pick at least two sources that measure the same mix.
 
-**BLS Occupational Employment and Wage Statistics reports base wages from payrolls across all industries. Glassdoor reports median total pay from self-reported submissions, base plus additional pay such as bonus. Levels.fyi reports total compensation from verified offers, base plus bonus plus annualized stock plus amortized signing, and skews to large tech. Payscale, Radford, Mercer, and WTW run employer surveys. Ravio, Pave, and Carta Total Comp pull live HRIS data. For a base salary question, use BLS or Payscale. For total compensation at venture-backed tech, use Levels.fyi or Carta. Do not compare a BLS base to a Levels.fyi total and call the gap a premium.** 3. Adjust for location.
+BLS Occupational Employment and Wage Statistics reports base wages from payrolls across all industries. Glassdoor reports median total pay from self-reported submissions, base plus additional pay such as bonus. Levels.fyi reports total compensation from verified offers, base plus bonus plus annualized stock plus amortized signing, and skews to large tech. Payscale, Radford, Mercer, and WTW run employer surveys. Ravio, Pave, and Carta Total Comp pull live HRIS data. For a base salary question, use BLS or Payscale. For total compensation at venture-backed tech, use Levels.fyi or Carta. Do not compare a BLS base to a Levels.fyi total and call the gap a premium.
 
-**Remote is common in Web3. About 70 to 75 percent of listings on Web3.career and gm.careers are remote. Many teams pay 85 to 95 percent of U.S. rates for global remote. Others apply geographic adjustment. BLS state data for May 2024 shows the spread: California median $170,910, Washington $166,910, New York $161,260, versus Mississippi $86,460. Metro data shows a 20 to 30 percent premium for San Francisco Bay Area and Seattle. If an offer says "global band" and another says "location adjusted," those are different benchmarks.** 4. Account for vesting.
+### 3. Adjust for location
 
-**Token and equity value depends on schedule. The standard that has become the convention in 2026 is a 12-month cliff with 3 to 4 years of linear release for founders, core team, and investors, with little or no release at Token Generation Event (TGE). Streamflow, which manages more than $269 million in value locked across 40,000 projects on Solana, describes this as the baseline the market expects. Tokenomics.com notes that 85 percent of projects with team vesting use a 12-month cliff. Deviation without a clear reason signals risk.
+Remote is common in Web3. About 70 to 75 percent of listings on Web3.career and gm.careers are remote. Many teams pay 85 to 95 percent of U.S. rates for global remote. Others apply geographic adjustment. BLS state data for May 2024 shows the spread: California median $170,910, Washington $166,910, New York $161,260, versus Mississippi $86,460. Metro data shows a 20 to 30 percent premium for San Francisco Bay Area and Seattle. If an offer says "global band" and another says "location adjusted," those are different benchmarks.
+
+### 4. Account for vesting
+
+Token and equity value depends on schedule. The standard that has become the convention in 2026 is a 12-month cliff with 3 to 4 years of linear release for founders, core team, and investors, with little or no release at Token Generation Event (TGE). Streamflow, which manages more than $269 million in value locked across 40,000 projects on Solana, describes this as the baseline the market expects. Tokenomics.com notes that 85 percent of projects with team vesting use a 12-month cliff. Deviation without a clear reason signals risk.
 
 ### Verified salary bands for 2026
 
@@ -142,35 +151,39 @@ If price stays at $0.20, first-year vested value is $50,000. If price doubles, i
 
 ### How to benchmark an offer step by step
 
-**Step 1: Break the offer into five rows.
+Step 1: Break the offer into five rows.
 
-**Write base, target bonus, token grant value at grant date, equity value if any, and benefits. Compare base to base and total to total. Do not blend them.** Step 2: Match level and specialization.
+Write base, target bonus, token grant value at grant date, equity value if any, and benefits. Compare base to base and total to total. Do not blend them.
 
-**Map the role to 0 to 2, 2 to 5, or 5 plus years and to a specialization band above. A Solidity senior and a protocol engineer senior are different markets.** Step 3: Pick two sources for the same mix.
+### Step 2: Match level and specialization
 
-**For base, check BLS and one employer survey such as Glassdoor or Salary.com. For total at venture-backed tech, check Levels.fyi and Carta or Pave. Record the date of each source.** Step 4: Adjust for location.
+Map the role to 0 to 2, 2 to 5, or 5 plus years and to a specialization band above. A Solidity senior and a protocol engineer senior are different markets. Step 3: Pick two sources for the same mix.
 
-**Apply the company's stated policy. If they say global band, use U.S. median. If they say location adjusted, apply the regional discount they cite, for example 85 to 95 percent for global remote or 10 to 20 percent below Bay Area.** Step 5: Score the token grant on standards.
+For base, check BLS and one employer survey such as Glassdoor or Salary.com. For total at venture-backed tech, check Levels.fyi and Carta or Pave. Record the date of each source.
 
-**Does it have a 12-month cliff, 3 to 4 year total, minimal TGE, and on-chain enforcement. Anything shorter or with a large insider TGE is a question to ask, not an automatic no.** Step 6: Ask four precise questions before you counter:**
+### Step 4: Adjust for location
+
+Apply the company's stated policy. If they say global band, use U.S. median. If they say location adjusted, apply the regional discount they cite, for example 85 to 95 percent for global remote or 10 to 20 percent below Bay Area. Step 5: Score the token grant on standards.
+
+Does it have a 12-month cliff, 3 to 4 year total, minimal TGE, and on-chain enforcement. Anything shorter or with a large insider TGE is a question to ask, not an automatic no.**Step 6: Ask four precise questions before you counter:**
 
 * What is the total supply, what percent of supply is this grant, and what is the fully diluted valuation today.
 * What is the exact vesting schedule, cliff, interval, and what happens to unvested tokens if you leave.
 * Where is the token liquid and what were the last 30 days of average daily volume.
 * Is the schedule enforced on chain and can you share the contract link.
 
-**Step 7: Anchor your counter with data.
+Step 7: Anchor your counter with data.
 
-**Reference the bands you checked. For example: based on BLS median $133,080 for base across software roles, Glassdoor median total about $137,000 for blockchain developers, and the $130,000 to $185,000 mid-level band for Web3 developers from aggregated Levels.fyi and Glassdoor data, I am looking for base in a specific range and a token grant of a specific percent of supply with the standard 4-year and 12-month cliff schedule. That is more convincing than a single number without a source.
+Reference the bands you checked. For example: based on BLS median $133,080 for base across software roles, Glassdoor median total about $137,000 for blockchain developers, and the $130,000 to $185,000 mid-level band for Web3 developers from aggregated Levels.fyi and Glassdoor data, I am looking for base in a specific range and a token grant of a specific percent of supply with the standard 4-year and 12-month cliff schedule. That is more convincing than a single number without a source.
 
 ### Pros and cons of each data source
 
 | Source | What it does well | Limitations |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | BLS OEWS and Occupational Outlook Handbook | Census-like base wages across all employers, clear methodology, state and metro detail. Updated May 2024 with $133,080 median for software developers and $102,610 for QA analysts. | Base only, no stock or token. U.S. only. About a year behind the market. |
@@ -181,17 +194,25 @@ If price stays at $0.20, first-year vested value is $50,000. If price doubles, i
 
 ### Common mistakes to avoid
 
-**Comparing base to total.
 
-**The $60,000 gap between BLS base $133,080 and Levels.fyi total $192,000 is not a raise. It is a different definition. Keep the comparison aligned.** Ignoring the cliff.
 
-**A 4-year grant with a 12-month cliff pays nothing if you leave at month 11. A 4-year grant with no cliff pays from month 1. Price them differently.** Using a single source.
+### Comparing base to total
 
-**One source can be stale or skewed to one company type. Cross-check with two.** Treating token value at grant as cash.
+The $60,000 gap between BLS base $133,080 and Levels.fyi total $192,000 is not a raise. It is a different definition. Keep the comparison aligned.
 
-**Token price moves. Model the grant at grant price, at zero, and at a conservative haircut such as 50 percent, then decide if base alone meets your needs.** Accepting verbal token promises.
+### Ignoring the cliff
 
-**Get token type, grant value in USD, total supply, percent of supply, schedule, lock, and forfeiture terms in writing. Web3 offers often include tokens, but only written terms are enforceable.
+A 4-year grant with a 12-month cliff pays nothing if you leave at month 11. A 4-year grant with no cliff pays from month 1. Price them differently.
+
+### Using a single source
+
+One source can be stale or skewed to one company type. Cross-check with two. Treating token value at grant as cash.
+
+Token price moves. Model the grant at grant price, at zero, and at a conservative haircut such as 50 percent, then decide if base alone meets your needs.
+
+### Accepting verbal token promises
+
+Get token type, grant value in USD, total supply, percent of supply, schedule, lock, and forfeiture terms in writing. Web3 offers often include tokens, but only written terms are enforceable.
 
 ### FAQ
 

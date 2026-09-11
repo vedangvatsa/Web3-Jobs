@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Negotiating your salary represents a key moment in your career. A successful negotiation can boost your annual income, while a poorly executed one can lead to feelings of undervaluation and dissatisfaction. Many professionals fall into common traps that hinder their negotiation success.
 
 By recognizing these pitfalls, you can approach your next [salary negotiation](/web3-salary-negotiation) with increased confidence and a higher likelihood of achieving favorable terms. Below are some of the most significant salary negotiation mistakes to avoid.
@@ -61,9 +62,11 @@ A salary negotiation functions as a business transaction rather than a personal 
 Your tone during negotiation plays an important role in its outcome.
 
 * **Avoid being apologetic.** Requesting what you deserve does not equate to greed. Maintain confidence and clarity.
-* **Avoid being aggressive or demanding.
+*
 
-**An aggressive approach can harm your relationship with your new employer before you even start. Frame discussions as collaborative efforts to reach a mutually beneficial solution.
+### Avoid being aggressive or demanding
+
+An aggressive approach can harm your relationship with your new employer before you even start. Frame discussions as collaborative efforts to reach a mutually beneficial solution.
 
 ### 7. Not Getting the Final Offer in Writing
 

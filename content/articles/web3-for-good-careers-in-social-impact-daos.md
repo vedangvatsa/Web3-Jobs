@@ -10,6 +10,7 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 While discussions about [Web3](/what-is-web3) often emphasize finance and [NFTs](/what-are-nfts), a significant movement is emerging that focuses on using [blockchain](/what-is-a-blockchain) technology for social good. This movement involves funding public goods and supporting positive social impact through initiatives known as **Public Goods DAOs**.
 
 Public goods are resources that anyone can access without diminishing their availability to others. Classic examples include clean air, open-source software, and scientific research. Historically, funding for public goods has been insufficient due to the absence of a direct profit motive. Public Goods DAOs aim to address this funding gap by creating new models for resource allocation.
@@ -26,7 +27,7 @@ One of the most recognized and effective Public Goods DAOs is
 
 Gitcoin introduced
 
-**Quadratic Funding**, which changed the way public goods are financed. 
+**Quadratic Funding**, which changed the way public goods are financed.
 
 * **Quadratic Funding Explained**: This funding method optimally allocates resources based on community contributions, emphasizing the importance of the number of contributors rather than the total amount donated.
 

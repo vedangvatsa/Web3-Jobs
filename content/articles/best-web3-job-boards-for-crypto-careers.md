@@ -13,13 +13,14 @@ data-ai-hint: job search
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Web3 hiring does not live in one place. Founders post on X before they post on LinkedIn. DAOs pay for bounties before they open full-time roles. Portfolio boards list jobs that never reach aggregators. If you only check one site, you miss half the market.
 
 I hire and place in Web3. I check these seven channels every week. This guide explains what each one is, who it fits, and how to get results from it. Numbers are qualified as of late August 2026 because counts change weekly.
 
 ## 1. Hashtag Web3
 
-**Website:**[hashtagweb3.com](https://hashtagweb3.com) ** What it is:**A curated Web3 job board that aggregates verified postings from protocols, DeFi teams, and DAOs. Site docs list 3,000+ verified active postings and a directory of 150+ hiring companies as of 2026. Each posting has a dedicated page with role details, compensation benchmarks, and a direct apply link. There is also a live Telegram feed at t.me/web3hiring that pushes new roles as they post.
+**Website:**[hashtagweb3.com](https://hashtagweb3.com) **What it is:**A curated Web3 job board that aggregates verified postings from protocols, DeFi teams, and DAOs. Site docs list 3,000+ verified active postings and a directory of 150+ hiring companies as of 2026. Each posting has a dedicated page with role details, compensation benchmarks, and a direct apply link. There is also a live Telegram feed at t.me/web3hiring that pushes new roles as they post.
 
 **Who it is for:** Generalists and specialists who want filtered, recent roles. Good for engineering, product, marketing, community, design, legal, and operations. Works for entry to senior levels because listings include clear seniority tags.
 
@@ -33,7 +34,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 
 ## 2. Web3.career
 
-**Website:**[web3.career](https://web3.career/) ** What it is:**The largest open aggregator for Web3 listings. The homepage listed 40,943 blockchain jobs at 7,310 projects when I checked on Aug 27, 2026. The site also offers an API that advertises access to over 101,000 historic listings. It is part of the Bondex ecosystem.
+**Website:**[web3.career](https://web3.career/) **What it is:**The largest open aggregator for Web3 listings. The homepage listed 40,943 blockchain jobs at 7,310 projects when I checked on Aug 27, 2026. The site also offers an API that advertises access to over 101,000 historic listings. It is part of the Bondex ecosystem.
 
 **Who it is for:** Anyone who wants the broadest view. Best for engineers and builders who want to scan by stack, but it also carries marketing, support, and operations.
 
@@ -47,7 +48,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 
 ## 3. CryptoJobs - crypto.jobs
 
-**Website:**[crypto.jobs](https://crypto.jobs/) ** What it is:**One of the oldest Web3-specific boards, founded in 2017 and based in Singapore. The homepage showed 3,594+ active Web3 jobs on Aug 27, 2026. The about page says more than 3,000 companies have used it to hire, including Consensys, Huobi, and CoinList. It also runs talent profiles, project pages, and a news feed.
+**Website:**[crypto.jobs](https://crypto.jobs/) **What it is:**One of the oldest Web3-specific boards, founded in 2017 and based in Singapore. The homepage showed 3,594+ active Web3 jobs on Aug 27, 2026. The about page says more than 3,000 companies have used it to hire, including Consensys, Huobi, and CoinList. It also runs talent profiles, project pages, and a news feed.
 
 **Who it is for:** Candidates who want established crypto employers and clear job families. Good for tech, sales, and business development roles at firms that have hired in crypto since early cycles.
 
@@ -61,7 +62,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 
 ## 4. The Defiant - jobs.thedefiant.io and thedefiant.io/careers
 
-**Website:**[jobs.thedefiant.io](https://jobs.thedefiant.io/) and [thedefiant.io/careers](https://thedefiant.io/careers) ** What it is:**The Defiant is a DeFi-focused media company founded in 2019. It operated a DeFi-specific job board at jobs.thedefiant.io. When I checked on Aug 27, 2026, that subdomain did not return active listings and the parent navigation points to a general careers page for The Defiant itself.
+**Website:**[jobs.thedefiant.io](https://jobs.thedefiant.io/) and [thedefiant.io/careers](https://thedefiant.io/careers) **What it is:**The Defiant is a DeFi-focused media company founded in 2019. It operated a DeFi-specific job board at jobs.thedefiant.io. When I checked on Aug 27, 2026, that subdomain did not return active listings and the parent navigation points to a general careers page for The Defiant itself.
 
 **Who it is for:** People targeting DeFi. That includes protocol engineers, smart contract auditors, quant researchers, and DeFi business development.
 
@@ -75,7 +76,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 
 ## 5. X (formerly Twitter)
 
-**Website:**[x.com](https://x.com/) and [twitter.com](https://twitter.com/) ** What it is:**The place where Web3 founders, CTOs, and hiring managers post roles first. Many posts never become formal listings. You find them through search and lists.
+**Website:**[x.com](https://x.com/) and [twitter.com](https://twitter.com/) **What it is:**The place where Web3 founders, CTOs, and hiring managers post roles first. Many posts never become formal listings. You find them through search and lists.
 
 **Who it is for:** Community, marketing, developer relations, and engineering hires. Works best for people who already post work in public.
 
@@ -101,7 +102,7 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 
 ## 7. a16z Portfolio Boards - jobs.a16z.com and portfoliojobs.a16z.com
 
-**Website:**[jobs.a16z.com](https://jobs.a16z.com/) and [portfoliojobs.a16z.com](https://portfoliojobs.a16z.com/) ** What it is:**The job board for Andreessen Horowitz portfolio companies. The a16z crypto site also has a jobs page at [a16zcrypto.com/jobs](https://a16zcrypto.com/jobs/), but it returned "Error loading jobs" when I checked on Aug 27, 2026. The working boards are jobs.a16z.com, which showed 797 companies and 16,449 jobs that day, and the Consider-powered mirror at portfoliojobs.a16z.com.
+**Website:**[jobs.a16z.com](https://jobs.a16z.com/) and [portfoliojobs.a16z.com](https://portfoliojobs.a16z.com/) **What it is:**The job board for Andreessen Horowitz portfolio companies. The a16z crypto site also has a jobs page at [a16zcrypto.com/jobs](https://a16zcrypto.com/jobs/), but it returned "Error loading jobs" when I checked on Aug 27, 2026. The working boards are jobs.a16z.com, which showed 797 companies and 16,449 jobs that day, and the Consider-powered mirror at portfoliojobs.a16z.com.
 
 **Who it is for:** Experienced operators and senior engineers who want venture-backed teams with larger resources and longer runways.
 
@@ -118,11 +119,11 @@ I hire and place in Web3. I check these seven channels every week. This guide ex
 Use more than one channel. The market is spread out by design. This table gives you a specific action for each channel and what to do next.
 
 | Strategy | What to do | Concrete next step |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Start broad and recent | Use Hashtag Web3 and web3.career to map the market by skill | On Hashtag Web3, search `Solidity` + tag `Ethereum` and join the Telegram feed. On web3.career, click `Solidity` + `Remote` and shortlist 10 posts from the last 7 days. |

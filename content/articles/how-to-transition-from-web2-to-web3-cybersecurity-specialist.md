@@ -23,7 +23,7 @@ To succeed in Web3 cybersecurity, security professionals must adjust their core 
 
 ```
                          WEB2 vs WEB3 SECURITY PARADIGMS
-                         
+
  Dimension               Web2 Application Security       Web3 Smart Contract Security
 ──────────────────────────────────────────────────────────────────────────────────────────
  Execution Environment   Private Servers / Cloud VPCs    Public, Immutable EVM Ledger
@@ -318,7 +318,7 @@ When conducting professional smart contract security reviews, security auditors 
 
 ```
                             AUDIT METHODOLOGY WORKFLOW
-                            
+
  [1. Architecture Review] ──► (Read Spec, Map System Boundary & Roles)
            │
            ▼

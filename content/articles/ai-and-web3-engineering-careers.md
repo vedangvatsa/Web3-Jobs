@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 An AI/Web3 Engineer builds systems where machine learning models and [blockchain](/what-is-a-blockchain) infrastructure work together. The role exists because neither stack alone solves the problem: blockchains need intelligence to act on real-world data, and AI needs verifiable execution, ownership, and payment rails.
 
 This guide defines the role, who it fits, how the work actually works, what the market pays in 2026, what to learn, and how to enter without wasting months on the wrong track.
@@ -155,27 +156,33 @@ AI plus blockchain is the newest premium niche inside this market. Blockready, T
 
 ### Path 1: You already work in AI
 
-1. **Learn Web3 basics with a deployed project.
+1. Learn Web3 basics with a deployed project.
 
-**Install Foundry with `foundryup` or start a Hardhat project with `npx hardhat init`. Work through the Solidity docs at docs.soliditylang.org and the Hardhat 3 getting started guide. Deploy a simple contract to a testnet and verify it.
-2. **Learn contract security early.
+Install Foundry with `foundryup` or start a Hardhat project with `npx hardhat init`. Work through the Solidity docs at docs.soliditylang.org and the Hardhat 3 getting started guide. Deploy a simple contract to a testnet and verify it.
+2.
 
-**Read the Solidity security considerations page. Write tests in Solidity with Foundry and integration tests with Viem or Ethers.js. Use a local fork with `anvil --fork-url` to simulate mainnet state.
-3. **Build one hybrid project for your [portfolio](/building-web3-portfolio).
+### Learn contract security early
 
-**Example: a dApp where users upload an image, an off-chain Python script classifies it with a small PyTorch model, and a contract stores the signed result with the model hash. Include the repo, deployed address, test coverage, and a note on gas cost and proof method.
+Read the Solidity security considerations page. Write tests in Solidity with Foundry and integration tests with Viem or Ethers.js. Use a local fork with `anvil --fork-url` to simulate mainnet state.
+3. Build one hybrid project for your [portfolio](/building-web3-portfolio).
+
+Example: a dApp where users upload an image, an off-chain Python script classifies it with a small PyTorch model, and a contract stores the signed result with the model hash. Include the repo, deployed address, test coverage, and a note on gas cost and proof method.
 
 ### Path 2: You already ship Web3 code
 
-1. **Learn ML fundamentals without a PhD.
+1.
 
-**Complete a structured Python ML sequence that covers Pandas, NumPy, training, and evaluation. Fast.ai and Coursera courses are the most commonly cited starting points that hiring managers recognize.
-2. **Train and measure a small model.
+### Learn ML fundamentals without a PhD
 
-**Use PyTorch or TensorFlow to build a classifier or sentiment model. Track accuracy, latency, and inference cost. Try EZKL on a tiny network to see proof time and memory firsthand.
-3. **Build one hybrid project from on-chain data.
+Complete a structured Python ML sequence that covers Pandas, NumPy, training, and evaluation. Fast.ai and Coursera courses are the most commonly cited starting points that hiring managers recognize.
+2.
 
-**Example: export pool or [NFT](/what-are-nfts) activity from Dune Analytics, train a model to predict which mints retain activity after 30 days using on-chain metrics, and publish a dashboard plus a contract that gates a test action on the model score delivered via your oracle script. Document limitations, false positives, and where human review is still needed.
+### Train and measure a small model
+
+Use PyTorch or TensorFlow to build a classifier or sentiment model. Track accuracy, latency, and inference cost. Try EZKL on a tiny network to see proof time and memory firsthand.
+3. Build one hybrid project from on-chain data.
+
+Example: export pool or [NFT](/what-are-nfts) activity from Dune Analytics, train a model to predict which mints retain activity after 30 days using on-chain metrics, and publish a dashboard plus a contract that gates a test action on the model score delivered via your oracle script. Document limitations, false positives, and where human review is still needed.
 
 In both paths, keep proof. Hiring managers in 2026 check GitHub, audit notes, deployed contracts, and on-chain activity alongside any certificate. For non-technical growth, add fluency in compliance, tokenomics, and governance operations, where absolute posting count is growing faster.
 

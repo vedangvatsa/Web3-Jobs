@@ -10,7 +10,7 @@ lastUpdated: "2026-09-08"
 
 To understand the architectural transformation of Web3, software engineers and protocol designers must first delineate between **Web3** and **blockchain technology**. While frequently used interchangeably in mainstream media, their technical relationship is precise: blockchain is the underlying distributed state infrastructure, while Web3 encompasses the user-facing decentralized applications (dApps), financial protocols, sovereign identities, and digital ownership models constructed on top of that infrastructure.
 
-Without blockchain technology, the core vision of Web3 - a censorship-resistant, user-owned internet operating without central intermediaries - would be technically impossible. 
+Without blockchain technology, the core vision of Web3 - a censorship-resistant, user-owned internet operating without central intermediaries - would be technically impossible.
 
 This guide examines the specific infrastructural roles blockchain plays across Web3: distributed consensus state engines, verifiable digital property rights, self-executing smart contract logic, native internet economic settlement, and emerging multi-chain scaling architectures.
 
@@ -24,7 +24,7 @@ Modern Web3 software architecture is organized into four distinct technology lay
 
 ```
                       WEB3 FULL-STACK INFRASTRUCTURE LAYERS
-                      
+
  ┌────────────────────────────────────────────────────────────────────────┐
  │ 4. APPLICATION LAYER   (Uniswap, OpenSea, Lens Protocol, Aave)          │
  ├────────────────────────────────────────────────────────────────────────┤
@@ -51,7 +51,7 @@ Blockchain technology provides five distinct capabilities that transform the Web
 
 ```
                   FIVE CORE ROLES OF BLOCKCHAIN IN WEB3
-                  
+
   [1. Decentralized State]   ──► Eliminates Single Points of Failure
   [2. Verifiable Ownership]  ──► ERC-20, ERC-721 Digital Property Rights
   [3. Automated Logic]       ──► Smart Contract Self-Executing Code
@@ -101,7 +101,7 @@ contract TrustlessEscrow {
     function confirmDelivery() external {
         require(msg.sender == buyer, "Only buyer can confirm");
         require(!isDelivered, "Already delivered");
-        
+
         isDelivered = true;
         seller.transfer(amount);
     }
@@ -145,7 +145,7 @@ While Layer 1 blockchains provide security and decentralization, early networks 
 
 ```
                     MODULAR BLOCKCHAIN ARCHITECTURE
-                    
+
  ┌────────────────────────────────────────────────────────────────────────┐
  │ EXECUTION LAYER        (Layer 2 Rollups: Arbitrum, Optimism, zkSync)   │
  ├────────────────────────────────────────────────────────────────────────┤
@@ -167,7 +167,7 @@ The ability of a blockchain to function as an immutable, globally synchronized l
 
 ```
                     MERKLE TREE STATE HASH AGGREGATION
-                    
+
                            ┌──────────────────┐
                            │   Merkle Root    │
                            └────────┬─────────┘
@@ -266,7 +266,7 @@ As the Web3 ecosystem expands across financial, gaming, and social sectors, dema
 
 ```
                            CAREER PROGRESSION ROADMAP
-                           
+
  [Web2 Full-Stack / Backend Engineer]
                    │
                    ▼
@@ -363,7 +363,3 @@ While blockchain execution layers store small state variables (balances, contrac
 Blockchain technology is the foundational infrastructure that makes Web3 possible. By delivering decentralized state consensus, verifiable digital ownership, self-executing smart contracts, and native economic settlement, blockchains enable a new generation of user-owned, censorship-resistant digital applications.
 
 Mastering both base-layer blockchain mechanics and higher-layer Web3 application development equips software engineers to build the next paradigm of global internet infrastructure.
-
-
-
-

@@ -22,9 +22,9 @@ In traditional Web2 architectures, client devices communicate with central serve
 
 ```
           TRADITIONAL CENTRALIZED vs. BLOCKCHAIN DECENTRALIZED TOPOLOGY
-          
+
     Centralized Server Architecture           Decentralized P2P Network
-    
+
           ┌───────────────┐                       ┌──────┐      ┌──────┐
           │ Central Server│                       │ Node │──────│ Node │
           └───────┬───────┘                       └──┬───┘      └───┬──┘
@@ -51,7 +51,7 @@ Immutability refers to the cryptographic property ensuring that once a transacti
 
 ```
                     CRYPTOGRAPHIC BLOCK LINKAGE ARCHITECTURE
-                    
+
  ┌─────────────────────────┐         ┌─────────────────────────┐
  │ BLOCK N-1               │         │ BLOCK N                 │
  │ Hash: 0x9f3b...         │ ──────► │ Previous Hash: 0x9f3b...│
@@ -75,7 +75,7 @@ Public blockchains invert the traditional financial paradigm of private ledgers 
 
 ```
                     BLOCK EXPLORER STATE INSPECTION FLOW
-                    
+
  ┌─────────────────┐       ┌─────────────────┐       ┌─────────────────┐
  │ User Query      │ ────► │ Block Explorer  │ ────► │ JSON-RPC Node   │
  │ (Tx / Address)  │       │ (Etherscan API) │       │ (`eth_call`)    │
@@ -104,7 +104,7 @@ The introduction of programmable state engines (such as the Ethereum Virtual Mac
 
 ```
                   DETERMINISTIC SMART CONTRACT EXECUTION
-                  
+
  ┌─────────────────────────┐         ┌─────────────────────────┐
  │ User Transaction        │ ──────► │ EVM State Engine        │
  │ (Calldata Payload)      │         │ (Opcode Processing)     │
@@ -164,7 +164,7 @@ To achieve sub-linear verification times while maintaining complete system integ
 
 ```
                    PATRICIA MERKLE TRIE (EVM STATE ARCHITECTURE)
-                   
+
                            ┌──────────────────┐
                            │   Root Node      │
                            └────────┬─────────┘
@@ -278,7 +278,7 @@ As public blockchains scale to support billions of global users, engineering dem
 
 ```
                            CAREER PROGRESSION ROADMAP
-                           
+
  [Software Engineer (C++ / Rust / Go)]
                    │
                    ▼
@@ -361,5 +361,3 @@ Zero-knowledge cryptography represents the next evolution of public blockchain a
 The convergence of decentralization, cryptographic immutability, public transparency, and smart contract automation makes blockchain technology a transformative foundation for digital finance, digital identity, and global supply chains.
 
 By mastering these core features, software engineers and protocol architects can build secure, permissionless applications that operate without single points of failure.
-
-

@@ -9,6 +9,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the [Web3](/what-is-web3), the safeguarding of digital assets relies heavily on the protection of private keys. A compromised private key leads to permanent loss of access to the associated assets. Traditionally, individuals have used hardware wallets for key security, while institutions have favored multi-signature (multisig) wallets. However, a more sophisticated method, known as **Multi-Party Computation (MPC)**, is becoming increasingly popular.
 
 MPC is a specialized area within cryptography that enables a group of untrusting parties to compute a function collaboratively without disclosing their private inputs to one another. In Web3, one of MPC's most compelling applications is through
@@ -44,11 +45,11 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 ### MPC vs. Multisig: The Key Differences
 
 | Feature | Multi-Signature (Multisig) | Multi-Party Computation (MPC/TSS) |
-| 
+|
 
------------------ | 
+----------------- |
 
------------------------------------------------------------- | 
+------------------------------------------------------------ |
 
 ------------------------------------------------------------ |
 |
@@ -70,16 +71,20 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 
 **Flexibility**| Changing signers can be complex and gas-intensive. | Easier off-chain adjustment of signers. |
 
-### Use Cases for MPC in Web3**1. Institutional Custody
+### Use Cases for MPC in Web3
 
-**This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC enables the creation of complex security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.** 2. User-Friendly Wallets (Account Abstraction) **MPC is important for enabling**[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
+### 1. Institutional Custody
+
+This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC enables the creation of complex security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.**2. User-Friendly Wallets (Account Abstraction)**MPC is important for enabling**[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
 - **Example:** A user's wallet could be secured using a 2-of-3 MPC scheme.
  - Key Share 1: Stored on their mobile device.
  - Key Share 2: Stored on their laptop.
  - Key Share 3: Held by a trusted third party or a friend.
-To execute a transaction, approval from two of these three entities is required. If the user loses their phone, they can use their laptop and the third party to regain access and add a new device.**3. Private Computation
+To execute a transaction, approval from two of these three entities is required. If the user loses their phone, they can use their laptop and the third party to regain access and add a new device.
 
-**Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
+### 3. Private Computation
+
+Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
 - **Example: Salary Benchmarking:** A consortium of companies could use MPC to determine the average salary for a specific role, ensuring that no individual company discloses its salary information to others.
 
 ### Challenges and Conclusion

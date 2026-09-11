@@ -10,6 +10,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 One of the defining characteristics of a [smart contract](/what-are-smart-contracts) is its immutability. Once it is deployed on the [blockchain](/what-is-a-blockchain), its code remains unchanged. This feature enhances security and builds trust, but it also poses significant challenges. What happens when you identify a bug or wish to introduce new features?
 
 Deploying a completely new contract and migrating all associated data and users can be complex and costly. The solution lies in using an **upgradability pattern**. The most established and reliable method is the
@@ -77,21 +78,29 @@ Avoid crafting your own proxy contracts from scratch. This task is complex and l
 
 **Deploy as upgradable:** Use the OpenZeppelin plugin for deployment instead of a standard deployment script:
 
- ```javascript
+
+
+```javascript
  const MyContract = await ethers.getContractFactory("MyContract");
  const instance = await upgrades.deployProxy(MyContract, [arg1, arg2]);
  await instance.waitForDeployment();
- ```
+
+
+```
  The plugin deploys your implementation contract, establishes a proxy contract, and links both together automatically.
 
 3.
 
 **Upgrade:** When you are ready to upgrade, create `MyContractV2.sol` and execute:
 
- ```javascript
+
+
+```javascript
  const MyContractV2 = await ethers.getContractFactory("MyContractV2");
  const upgraded = await upgrades.upgradeProxy(instance.address, MyContractV2);
- ```
+
+
+```
  The plugin manages the deployment of the new implementation and invokes the `upgradeTo` function on the proxy.
 
 ### Important Considerations and Risks

@@ -21,24 +21,6 @@ The Indonesian Web3 employment landscape exhibits unique regional characteristic
 
 Several structural factors accelerate Indonesia's transition toward decentralized finance and Web3 applications.
 
-```
-+-------------------------------------------------------------------------+
-|                  INDONESIAN MACRO DIGITAL LANDSCAPE                     |
-+-------------------------------------------------------------------------+
-|  - Demographic Dividend: 275M Population (50%+ Under 30 Years Old)       |
-|  - Financial Inclusion Gap: ~95M Unbanked / Underbanked Adults          |
-|  - High Smartphone Penetration: 75%+ Mobile Internet Usage               |
-+-------------------------------------------------------------------------+
-                                     |
-                                     v
-+-------------------------------------------------------------------------+
-|                     KEY WEB3 ADOPTION DRIVERS                           |
-+-------------------------------------------------------------------------+
-|  1. Alternative Wealth Generation (Crypto Assets vs Traditional Real Estate) |
-|  2. Micro-Remittances & Cross-Border Trade (Low-Cost Fiat On-Ramps)     |
-|  3. GameFi & Guild Play-to-Earn Engagement                              |
-+-------------------------------------------------------------------------+
-```
 
 ### Unbanked Population and Digital Financial Inclusion
 Despite rapid economic growth, tens of millions of Indonesian adults lack access to traditional banking services. Mobile non-custodial crypto wallets and decentralized lending protocols offer direct financial inclusion without requiring physical bank branch infrastructure.
@@ -56,16 +38,6 @@ The regulatory environment in Indonesia is undergoing a major structural transit
 
 Navigating the Web3 job market in Indonesia requires understanding the distinct functional divisions between its major urban centers.
 
-```
-+------------------------------------+      +------------------------------------+
-|       JAKARTA METROPOLITAN         |      |           BALI PROVINCE            |
-+------------------------------------+      +------------------------------------+
-| - Centralized Exchanges (CEXs)     |      | - Remote Founder Incubators        |
-| - Corporate Banking Partnerships   |      | - Global DeFi & DAO Teams          |
-| - Government & OJK Compliance      |      | - Crypto Nomad Co-Working Guilds   |
-| - Enterprise Blockchain Services   |      | - Web3 Gaming Research Labs        |
-+------------------------------------+      +------------------------------------+
-```
 
 ### Jakarta: The Enterprise and Compliance Engine
 As the nation's political and financial capital, Jakarta hosts corporate offices for licensed crypto exchanges, institutional custody providers, and corporate venture funds. Engineering and operational roles in Jakarta emphasize:
@@ -130,9 +102,9 @@ contract IndonesianRupiahStablecoin is ERC20, Ownable {
     event AddressBlacklisted(address indexed account);
     event AddressUnblacklisted(address indexed account);
 
-    constructor(address initialOwner) 
-        ERC20("Indonesian Digital Rupiah", "IDRT") 
-        Ownable(initialOwner) 
+    constructor(address initialOwner)
+        ERC20("Indonesian Digital Rupiah", "IDRT")
+        Ownable(initialOwner)
     {}
 
     function mint(address to, uint256 amount) external onlyOwner {
@@ -174,19 +146,6 @@ Non-technical roles require deep cultural context. Indonesian crypto users heavi
 
 Navigating tax obligations is a critical aspect of working in Indonesia's crypto sector. The Indonesian Ministry of Finance enforces a dual tax structure on crypto asset transactions (PMK 68/PMK.03/2022).
 
-```
-+--------------------------------------------------------------------------+
-|                    INDONESIAN CRYPTO ASSET TAX STRUCTURE                 |
-+--------------------------------------------------------------------------+
-|  1. Income Tax (PPh 22 Final):                                          |
-|     - 0.1% on transactions conducted on Bappebti/OJK Licensed Exchanges  |
-|     - 0.2% on transactions conducted on Unlicensed / Offshore Exchanges  |
-|                                                                          |
-|  2. Value Added Tax (PPN):                                              |
-|     - 0.11% on transactions on Licensed Exchanges                       |
-|     - 0.22% on transactions on Unlicensed Exchanges                     |
-+--------------------------------------------------------------------------+
-```
 
 ### Remote Compensation Tax Management
 For local Indonesian professionals receiving remote salaries in stablecoins ($USDC, $USDT) or native protocol tokens ($ETH, $SOL):

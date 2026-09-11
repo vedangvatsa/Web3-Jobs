@@ -10,6 +10,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 For the last fifteen years, digital identities have resided within closed systems, often referred to as walled gardens. Your social graph, which encompasses your friends, followers, posts, and interactions, represents a significant digital asset. However, you don't own it; major platforms like Facebook, Twitter, and TikTok retain that ownership. If you choose to leave a platform, your entire social graph vanishes. Also, if the platform alters its algorithm, your reach can diminish dramatically.
 
 The **[Web3](/what-is-web3) Social Graph** movement aims to change this model. It seeks to establish a decentralized foundation for social media, allowing users to own and control their data rather than being at the mercy of platforms. By using open and permissionless protocols, Web3 is creating a more reliable and user-centric social media environment.
@@ -31,12 +32,12 @@ A Web3 social graph protocol distinguishes between the data layer and the applic
 
 Two prominent projects are leading the charge in building the open social graph:**1. Farcaster**
 
-- **-** Architecture:**Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
-- **Ecosystem:** This structure enables a rich ecosystem of clients.
+- **-** Architecture:Farcaster employs a hybrid approach that balances decentralization. Your identity exists as an [NFT](/what-are-nfts) on the [Ethereum](/what-is-ethereum) Layer 2 network called Optimism. Posts, likes, and follows are stored off-chain within a peer-to-peer network of servers known as "Hubs."
+- Ecosystem: This structure enables a rich ecosystem of clients.
 
-**Warpcast ** stands out as the most popular client, but many others offer distinct user experiences.**2. Lens Protocol**
+Warpcast**stands out as the most popular client, but many others offer distinct user experiences.**2. Lens Protocol
 
-- **-** Architecture:**Built on the Polygon blockchain, Lens adopts a fully on-chain methodology. Everything is represented as an NFT, including your profile. Following someone involves minting a "Follower NFT," and posting content allows you to "collect" it as an NFT.
+- -**Architecture:**Built on the Polygon blockchain, Lens adopts a fully on-chain methodology. Everything is represented as an NFT, including your profile. Following someone involves minting a "Follower NFT," and posting content allows you to "collect" it as an NFT.
 - **Composability:** Each social action is an on-chain [token](/what-is-a-token), making the entire graph highly composable or programmable. Developers can create new applications that use this on-chain social data, such as a lending protocol that offers favorable loan terms based on your on-chain reputation.
 
 ### Why Does This Matter?

@@ -135,7 +135,7 @@ Cognitive dissonance intensifies when legacy gatekeepers observe non-credentiale
 
 Furthermore, institutional gatekeepers face reputational risks. Financial advisors and portfolio managers who failed to allocate to sovereign digital assets during early adoption cycles risk losing client trust. Recommending a new monetary paradigm requires acknowledging that traditional asset allocation models failed to anticipate decentralized monetary networks.
 
-In addition, institutional critics often confuse volatility with structural failure. While short-term price fluctuations reflect free-market price discovery across emerging asset classes, the underlying network metrics—hash rate security, node distribution, and transaction settlement volume—demonstrate continuous growth and resilience.
+In addition, institutional critics often confuse volatility with structural failure. While short-term price fluctuations reflect free-market price discovery across emerging asset classes, the underlying network metrics-hash rate security, node distribution, and transaction settlement volume-demonstrate continuous growth and resilience.
 
 The psychological burden of non-participation drives persistent media narratives declaring open monetary networks obsolete after every cyclical market drawdown. These recurring pronouncements obscure the underlying technical reality: open monetary networks continue to produce valid blocks deterministically regardless of speculative market sentiment.
 
@@ -159,7 +159,7 @@ Direct node verification restores individual sovereignty over financial records.
 
 As institutional capital enters digital asset markets through spot ETFs and corporate treasury allocations, the boundary between legacy finance and sovereign monetary networks continues to blur.
 
-While legacy institutions adapt to digital assets by creating custodial products, the core cypherpunk principles of Bitcoin—self-custody, permissionless verification, and fixed supply—remain accessible to any individual with an internet connection.
+While legacy institutions adapt to digital assets by creating custodial products, the core cypherpunk principles of Bitcoin-self-custody, permissionless verification, and fixed supply-remain accessible to any individual with an internet connection.
 
 Understanding the economic drivers of monetary skepticism highlights the ongoing transition from discretionary fiat banking to open, programmatic monetary protocols.
 

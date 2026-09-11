@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Your resume gets you past a filter. Your cover letter tells a hiring manager why you care about their project and what you can do for them in the first three months. In Web3, that means showing you are already a user, a builder, or a community member, not just an applicant who swapped in a company name.
 
 This guide explains what a Web3 cover letter is, who needs one, how managers actually read it, and how to write one that is short, specific, and backed by proof.
@@ -131,25 +132,35 @@ Provide clear contact details in the header so the manager does not search for t
 
 ## Common mistakes that lead to rejection
 
-- **Sending a template with only the company name changed.
+- Sending a template with only the company name changed.
 
-**Managers see the lack of specifics and move on. FindWeb3 and CryptoJobsList both flag this as the top reason for rejection.
+Managers see the lack of specifics and move on. FindWeb3 and CryptoJobsList both flag this as the top reason for rejection.
 - **Listing duties without results.**"Responsible for social media" says little. "Grew Telegram from 800 to 3,200 members in three months by hosting weekly AMAs [link]" is verifiable.
-- **Overloading with jargon.
+-
 
-**Non-technical recruiters often screen first. Explain the impact in plain terms and link to the technical detail.
-- **Making it about you only.
+### Overloading with jargon
 
-**The letter must answer what you can do for their current goals. Tie each example to their posting.
-- **Negativity about past employers.
+Non-technical recruiters often screen first. Explain the impact in plain terms and link to the technical detail.
+-
 
-**Even if a project failed, describe what you learned and shipped: "After a startup did not find fit, I learned to ship faster feedback loops and documented the process [link]."
-- **Inaccurate or unverifiable numbers.
+### Making it about you only
 
-**Do not invent metrics. You will be asked about them, and the blockchain leaves a trail.
-- **Unedited AI drafts.
+The letter must answer what you can do for their current goals. Tie each example to their posting.
+-
 
-**Recruiters report that generic AI phrasing is easy to spot and signals low effort. Use your own voice and keep sentences direct.
+### Negativity about past employers
+
+Even if a project failed, describe what you learned and shipped: "After a startup did not find fit, I learned to ship faster feedback loops and documented the process [link]."
+-
+
+### Inaccurate or unverifiable numbers
+
+Do not invent metrics. You will be asked about them, and the blockchain leaves a trail.
+-
+
+### Unedited AI drafts
+
+Recruiters report that generic AI phrasing is easy to spot and signals low effort. Use your own voice and keep sentences direct.
 
 ## Web3 proof-of-work checklist to link from your letter
 

@@ -321,7 +321,7 @@ Deploying blockchain nodes in cloud environments (AWS, GCP) vs bare-metal hardwa
 
 ```
                           MONTHLY INFRASTRUCTURE COST
-                          
+
  Venue                    Storage (3TB NVMe)    Compute (64GB RAM)   Bandwidth (10TB)
 ──────────────────────────────────────────────────────────────────────────────────────────
  AWS (EBS gp3 / EC2)      ~$360 / mo            ~$240 / mo           ~$900 / mo
@@ -371,7 +371,7 @@ Building a career in blockchain infrastructure requires mastering cloud technolo
 
 ```
                           CAREER PROGRESSION ROADMAP
-                          
+
  [Junior DevOps Engineer]
            │
            ▼

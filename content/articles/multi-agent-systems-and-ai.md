@@ -117,9 +117,9 @@ The convergence of multi-agent AI and decentralized protocols has created some o
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-- **AI Agent Systems Architect:** Designing stateful multi-agent DAGs, inter-agent communication schemas, and vector memory integration using Python, LangGraph, and Rust ($150,000 – $280,000).
-- **Verifiable AI (zkML/opML) Engineer:** Building proof-generation pipelines and on-chain verification contracts using C++, CUDA, Rust, and Solidity ($170,000 – $320,000).
-- **DeFi Agent Quant:** Developing autonomous trading swarms that manage smart account session keys and execute algorithmic strategies on-chain ($160,000 – $350,000+).
+- **AI Agent Systems Architect:** Designing stateful multi-agent DAGs, inter-agent communication schemas, and vector memory integration using Python, LangGraph, and Rust ($150,000 - $280,000).
+- **Verifiable AI (zkML/opML) Engineer:** Building proof-generation pipelines and on-chain verification contracts using C++, CUDA, Rust, and Solidity ($170,000 - $320,000).
+- **DeFi Agent Quant:** Developing autonomous trading swarms that manage smart account session keys and execute algorithmic strategies on-chain ($160,000 - $350,000+).
 
 ## The Future of Decentralized Autonomous Swarms
 

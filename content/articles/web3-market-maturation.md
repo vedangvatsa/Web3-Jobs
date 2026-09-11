@@ -9,6 +9,7 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 The [Web3](/what-is-web3) industry is entering a new phase of maturity. The speculative frenzy of 2021, marked by impulsive [NFT](/what-are-nfts) drops and quick-profit schemes, is shifting toward a more sustainable model. As less serious participants exit, dedicated builders remain focused on addressing genuine challenges and creating long-term value.
 
 This transition significantly influences the [Web3 job market](/why-web3-has-fastest-growing-job-market). The roles that thrived during the bull market are transforming, and entirely new career paths are emerging. Professionals aiming for a strong career in this space must grasp these changes. Generalist skills are no longer sufficient; the market now prioritizes specialized knowledge.
@@ -49,7 +50,7 @@ The initial phase of [DeFi](/what-is-defi) catered mainly to crypto enthusiasts.
 | Compliance Specialists | Ensuring adherence to AML/KYC regulations |
 
 - **The Trend:** New projects are specifically targeting institutions with products like KYC/AML-compliant DeFi pools and tokenized real-world assets (RWAs).
-- **The New Roles:** This shift generates demand for professionals with backgrounds in traditional finance (TradFi). 
+- **The New Roles:** This shift generates demand for professionals with backgrounds in traditional finance (TradFi).
 
 ### The Modular Stack and Infrastructure Emphasis
 

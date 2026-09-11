@@ -9,6 +9,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the high-stakes environment of [Web3](/what-is-web3), where immutable [smart contracts](/what-are-smart-contracts) manage substantial financial assets, quality and reliability are essential. While [Smart Contract Auditors](/smart-contract-auditor-career) primarily seek security vulnerabilities, **Web3 Quality Assurance (QA) Engineers** ensure that decentralized applications (dApps) perform as intended.
 
 Web3 QA Engineers specialize in the rigorous testing of dApps. They master testing methodologies and automation, addressing the unique challenges of verifying functionality within a [blockchain](/what-is-a-blockchain). Their responsibilities include identifying bugs, exploring edge cases, and ensuring a reliable user experience before deployment. For a detailed outline of the career path for a Web3 QA Engineer, refer to our guide on the [Web3 QA Engineer career path](/what-is-a-web3-qa-engineer).
@@ -22,13 +23,19 @@ Testing a dApp presents complexities that differ significantly from traditional 
 - **Complex State:** The state of a dApp is influenced not only by its own contracts but also by the entire blockchain state and interactions with other protocols. Testing must reflect this complex, interconnected environment.
 - **Asynchronous Operations:** Blockchain transactions are not instant. QA engineers must account for potential race conditions and the various states of transactions, including pending, successful, and failed outcomes.
 
-### Core Responsibilities of a Web3 QA Engineer**1. Test Strategy and Planning
+### Core Responsibilities of a Web3 QA Engineer
 
-**A QA Engineer formulates the overall testing strategy for new features or protocols. This involves defining testing scope, identifying key risks, and selecting appropriate tools and methodologies.** 2. Manual and Exploratory Testing
+### 1. Test Strategy and Planning
 
-**Manual testing requires interacting with the dApp creatively to uncover vulnerabilities. QA engineers test complex user flows, identify UI bugs, and investigate edge cases that automated tests may overlook. For instance, they may assess the implications of a user submitting a transaction with an inadequate gas fee.** 3. Automated Test Development
+A QA Engineer formulates the overall testing strategy for new features or protocols. This involves defining testing scope, identifying key risks, and selecting appropriate tools and methodologies.
 
-**Building and maintaining a suite of automated tests is central to the role.
+### 2. Manual and Exploratory Testing
+
+Manual testing requires interacting with the dApp creatively to uncover vulnerabilities. QA engineers test complex user flows, identify UI bugs, and investigate edge cases that automated tests may overlook. For instance, they may assess the implications of a user submitting a transaction with an inadequate gas fee.
+
+### 3. Automated Test Development
+
+Building and maintaining a suite of automated tests is central to the role.
 |
 
 **Type of Testing**|
@@ -43,9 +50,11 @@ Testing a dApp presents complexities that differ significantly from traditional 
 | End-to-End (E2E) Testing | Automation tools like Cypress or Playwright for user flows, including wallet connections and transaction verification |
 | Fork Testing | Creating a local "fork" of the mainnet to test interactions with actual deployed [DeFi](/what-is-defi) protocols in a controlled environment |
 
-**4. Performance and Load Testing
 
-**QA engineers evaluate how the dApp's off-chain components (such as the frontend and indexer) perform under heavy loads, determining the effects when many users access the application simultaneously.
+
+### 4. Performance and Load Testing
+
+QA engineers evaluate how the dApp's off-chain components (such as the frontend and indexer) perform under heavy loads, determining the effects when many users access the application simultaneously.
 
 ### Essential Skills for Success
 

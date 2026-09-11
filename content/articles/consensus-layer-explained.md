@@ -10,6 +10,7 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 The consensus layer is the part of Ethereum that decides which block is correct and which chain is canonical. Since The Merge on September 15, 2022, Ethereum runs with two linked pieces: an execution layer that runs transactions and an EVM state, and a consensus layer that runs proof-of-stake, selects block proposers, collects validator votes, and finalizes history. Together they form a single Ethereum network. This split replaced proof-of-work mining.
 
 If you run a node, build a dapp, or evaluate validator or protocol work, you interact with the consensus layer even when you only use an execution client.
@@ -125,14 +126,14 @@ Activation also uses a queue with the same 256 ETH per epoch churn limit. Ethere
 
 **Where it helps**
 
-- **-** Energy use is far lower:**No puzzle race means validators run on modest hardware, even a low-power device. This cut issuance needs because validators do not pay large power bills, which allows lower inflation and, when fees are burned, a net deflationary effect.
-- **Economic security is explicit:** An attacker needs to acquire and risk ETH directly. Controlling liveness needs at least 33% of stake, content of future blocks at least 51%, and rewriting finalized history more than 66%. Misbehavior is slashable and attributable, unlike hardware that can be reused after a proof-of-work attack. Research on equilibrium security finds proof-of-stake more secure than equivalent proof-of-work at scale.
-- **Enables the scaling roadmap:** The validator registry and slashing make data availability sampling and danksharding practical. Rollups inherit security by posting data to this layer.
-- **Light clients and checkpoint sync:** SSZ hash trees give a single 32-byte state root per block and enable compact Merkle proofs for light clients and for syncing from weak subjectivity checkpoints in minutes instead of days.
+- **-** Energy use is far lower:No puzzle race means validators run on modest hardware, even a low-power device. This cut issuance needs because validators do not pay large power bills, which allows lower inflation and, when fees are burned, a net deflationary effect.
+- Economic security is explicit: An attacker needs to acquire and risk ETH directly. Controlling liveness needs at least 33% of stake, content of future blocks at least 51%, and rewriting finalized history more than 66%. Misbehavior is slashable and attributable, unlike hardware that can be reused after a proof-of-work attack. Research on equilibrium security finds proof-of-stake more secure than equivalent proof-of-work at scale.
+- Enables the scaling roadmap: The validator registry and slashing make data availability sampling and danksharding practical. Rollups inherit security by posting data to this layer.
+- Light clients and checkpoint sync: SSZ hash trees give a single 32-byte state root per block and enable compact Merkle proofs for light clients and for syncing from weak subjectivity checkpoints in minutes instead of days.
 
-**Trade-offs and limits**
+Trade-offs and limits
 
-- **-** More complex to build and operate:**Proof-of-stake clients implement Gasper, RANDAO, committees, fork choice, rewards and penalties, and weak subjectivity. You now run two clients plus a validator if you stake, manage a JWT secret, and keep clocks roughly within a slot of peers.
+- -**More complex to build and operate:**Proof-of-stake clients implement Gasper, RANDAO, committees, fork choice, rewards and penalties, and weak subjectivity. You now run two clients plus a validator if you stake, manage a JWT secret, and keep clocks roughly within a slot of peers.
 - **Capital barrier and centralization pressure:** 32 ETH per validator prices out many solo operators. Liquid staking derivatives lower the minimum but concentrate stake in a few providers. The protocol incentive is identical percentage yield for all stake sizes, so there are no mining economies of scale, but delegation pools still create central points.
 - **New failure modes:** Nothing-at-stake and long-range attacks are prevented by slashing and weak subjectivity, yet they add conceptual overhead versus the objective longest-chain rule in proof-of-work. A new node must trust a recent checkpoint provider.
 - **Queue delays:** Entry, exit, and sweeps are rate-limited. Even with empty queues, activation takes at least 16 hours to initialize plus the churn queue. Unstaking needs exit queue time plus about 27 hours plus sweep time, which can stretch to around 9 days when many validators exit.

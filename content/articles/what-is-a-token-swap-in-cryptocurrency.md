@@ -20,19 +20,6 @@ Unlike traditional financial markets where centralized brokerages hold customer 
 
 Understanding the engineering mechanics of token swaps requires contrasting them with traditional centralized exchanges (CEXs) and legacy brokerage models.
 
-```
-+--------------------------------------------------------------------------+
-|                  CENTRALIZED EXCHANGE (CEX TRADING)                      |
-|  User -> Deposit Assets to CEX Wallet -> Internal Off-Chain Ledger Match |
-|  * Custodial risk, KYC mandatory, withdrawal fees, counterparty risk *   |
-+--------------------------------------------------------------------------+
-                                     VS
-+--------------------------------------------------------------------------+
-|                 DECENTRALIZED TOKEN SWAP (DEX TRADING)                   |
-|  User -> Non-Custodial Wallet Signature -> On-Chain Smart Contract Exec  |
-|  * Self-custodial, permissionless, non-custodial, 100% transparent *     |
-+--------------------------------------------------------------------------+
-```
 
 ### Key Functional Differences
 
@@ -56,25 +43,6 @@ Where:
 - $y$ represents the token reserve balance of Token B in the smart contract pool.
 - $k$ is a fixed invariant constant that must remain unchanged (or increase due to fee accumulation) after every swap execution.
 
-```
-+--------------------------------------------------------------------------+
-|                      AMM LIQUIDITY POOL STATE (x · y = k)                 |
-+--------------------------------------------------------------------------+
-|  Initial Pool Balance:  100 ETH (x)  *  300,000 USDC (y) = 30,000,000 (k)|
-|  Spot Price:            1 ETH = 3,000 USDC                               |
-+--------------------------------------------------------------------------+
-                                     |
-    User swaps 10 ETH into Pool ---> |
-                                     v
-+--------------------------------------------------------------------------+
-|                      NEW POOL STATE AFTER SWAP                           |
-+--------------------------------------------------------------------------+
-|  New ETH Reserve (x'):  110 ETH                                          |
-|  New USDC Reserve (y'): k / 110 = 272,727.27 USDC                         |
-|  USDC Released to User: 300,000 - 272,727.27 = 27,272.73 USDC            |
-|  Effective Swap Price:  1 ETH = 2,727.27 USDC (Includes Price Impact)    |
-+--------------------------------------------------------------------------+
-```
 
 ### Slippage and Price Impact Mechanics
 As trade size increases relative to the total liquidity depth in an AMM pool, the executed price diverges from the initial spot price - a phenomenon known as **Price Impact**.
@@ -108,13 +76,13 @@ contract SimpleAMMPool {
 
     function swapTokenAForTokenB(uint256 amountAIn, uint256 minAmountBOut) external returns (uint256 amountBOut) {
         require(amountAIn > 0, "AMM: Insufficient input");
-        
+
 / Transfer Token A from user to pool
         tokenA.transferFrom(msg.sender, address(this), amountAIn);
 
 / Apply 0.3% fee to input amount
         uint256 amountAInWithFee = amountAIn * FEE_NUMERATOR;
-        
+
 / Compute output Token B amount preserving invariant k
         uint256 numerator = amountAInWithFee * reserveB;
         uint256 denominator = (reserveA * FEE_DENOMINATOR) + amountAInWithFee;
@@ -140,20 +108,6 @@ contract SimpleAMMPool {
 
 Liquidity in Web3 is fragmented across dozens of decentralized exchanges and thousands of isolated liquidity pools. **DEX Aggregators** (such as 1inch, ParaSwap, and Matcha) optimize trade execution by splitting single swap orders across multiple pools and routing trades through intermediary tokens.
 
-```
-+--------------------------------------------------------------------------+
-|                      SINGLE POOL DIRECT SWAP                             |
-|  User swaps 100,000 USDC -> Token X (Direct Pool: High Slippage)          |
-+--------------------------------------------------------------------------+
-                                     VS
-+--------------------------------------------------------------------------+
-|                  DEX AGGREGATOR MULTI-HOP ROUTING                        |
-|  Path 1: 40% USDC -> Uniswap v3 Pool -> Token X                         |
-|  Path 2: 35% USDC -> Curve Pool -> WETH -> Token X                       |
-|  Path 3: 25% USDC -> Balancer Pool -> Token X                            |
-|  * Result: Minimized price impact and optimal net execution price *     |
-+--------------------------------------------------------------------------+
-```
 
 ### Off-Chain Optimization Algorithms
 DEX aggregators use advanced graph search algorithms (such as Modified Dijkstra's Algorithm or Bellman-Ford Shortest Path) off-chain to evaluate thousands of potential swap routes in real-time before constructing a single, gas-optimized smart contract execution payload for the user's wallet.
@@ -164,16 +118,6 @@ DEX aggregators use advanced graph search algorithms (such as Modified Dijkstra'
 
 Executing public token swaps on transparent blockchain networks exposes transactions to **Maximal Extractable Value (MEV)** bots operating in public mempools.
 
-```
-+--------------------------------------------------------------------------+
-|                       MEV SANDWICH ATTACK SEQUENCE                       |
-+--------------------------------------------------------------------------+
-|  1. Target Transaction: User submits large swap order with 2% slippage.  |
-|  2. Front-Run Tx: MEV Bot detects order, pays higher gas to buy Token B. |
-|  3. Victim Tx Execution: User's swap executes at inflated price.          |
-|  4. Back-Run Tx: MEV Bot sells Token B immediately for riskless profit.  |
-+--------------------------------------------------------------------------+
-```
 
 ### MEV Defense Mechanisms
 - **Private RPC Endpoints (Flashbots Protect / MEV-Blocker):** Routing transactions directly to trusted block builders off-mempool, preventing front-running bots from inspecting pending transactions.
@@ -255,17 +199,6 @@ print(f"Effective Execution Rate: 1 USDC = {rate:.4f} UNI")
 
 While standard DEX swaps execute on a single blockchain, **Cross-Chain Atomic Swaps** enable trustless asset exchanges between completely independent ledgers (e.g., swapping native Bitcoin for native Ethereum) without wrapped tokens or centralized bridges.
 
-```
-+--------------------------------------------------------------------------+
-|             HASHED TIMELOCK CONTRACT (HTLC) ATOMIC SWAP                  |
-+--------------------------------------------------------------------------+
-|  1. Alice generates Secret $s$ and Secret Hash $h = \text{hash}(s)$.      |
-|  2. Alice locks BTC in Bitcoin HTLC using hash $h$ (Timeout: 24 Hours).  |
-|  3. Bob locks ETH in Ethereum HTLC using hash $h$ (Timeout: 12 Hours).   |
-|  4. Alice claims ETH from Ethereum HTLC by revealing Secret $s$.         |
-|  5. Bob observes Secret $s$ on Ethereum ledger, uses $s$ to claim BTC.   |
-+--------------------------------------------------------------------------+
-```
 
 HTLC contracts enforce atomicity using two cryptographic conditions:
 1. **Hashlock Condition:** The contract releases funds only when the recipient provides the cryptographic preimage $s$ matching hash $h$.
@@ -301,16 +234,6 @@ When interviewing for DEX engineering positions:
 
 As MEV extraction on public mempools escalated, the Web3 industry shifted toward **Intent-Based Architecture** (pioneered by protocols like CoW Swap and UniswapX).
 
-```
-+--------------------------------------------------------------------------+
-|                        INTENT-BASED SWAP ARCHITECTURE                    |
-+--------------------------------------------------------------------------+
-|  1. User Signs Off-Chain Intent (e.g. "Swap 10 ETH for min 300,000 USDC") |
-|  2. Solvers / Relayers Compete in Batch Auction Off-Chain                |
-|  3. Winning Solver Executes Order On-Chain & Pays Gas on User's Behalf    |
-|  4. Internal Coincidences of Wants (CoW) Matched Without AMM Fees        |
-+--------------------------------------------------------------------------+
-```
 
 ### Technical Benefits of Intent-Based Swapping
 1. **Zero Gas Fees for Failed Transactions:** If a trade cannot be filled, the off-chain intent simply expires without incurring L1 or L2 gas costs for the user.

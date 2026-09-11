@@ -23,7 +23,7 @@ Understanding why Web3 payment infrastructure is replacing traditional correspon
 
 ```
                            TRADITIONAL CORRESPONDENT BANKING
-                           
+
  [Sender] ──► [Origin Bank] ──► [Intermediary Bank A] ──► [Intermediary Bank B] ──► [Beneficiary Bank] ──► [Recipient]
   (USD)       (SWIFT Message)       (FX Conversion)          (Nostro/Vostro Fee)        (Local Credit)      (3-5 Days)
 ```
@@ -42,7 +42,7 @@ Web3 cross-border payment systems replace multi-hop correspondent chains with at
 
 ```
                             WEB3 REAL-TIME SETTLEMENT
-                            
+
  [Sender] ──► [Fiat On-Ramp] ──► [Stablecoin Settlement] ──► [Cross-Chain Bridge] ──► [Fiat Off-Ramp] ──► [Recipient]
   (USD)       (FedNow/ACH)          (USDC / EURC)              (Circle CCTP)         (Pix / UPI)       (<10 Seconds)
 ```
@@ -96,7 +96,7 @@ contract CrossBorderPaymentRouter is Ownable {
 
 / Transfer USDC from sender to this router
         usdcToken.transferFrom(msg.sender, address(this), amount);
-        
+
 / Approve CCTP TokenMessenger
         usdcToken.approve(address(cctpMessenger), amount);
 
@@ -366,7 +366,7 @@ As traditional financial institutions (Visa, Mastercard, PayPal, Stripe) and Web
 
 ```
                           CAREER PROGRESSION ROADMAP
-                          
+
  [Backend Software Engineer]
            │
            ▼

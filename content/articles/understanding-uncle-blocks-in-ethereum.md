@@ -9,6 +9,7 @@ data-ai-hint: uncle blocks
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## Understanding Uncle Blocks in Ethereum
 
 In blockchain mining, multiple miners can simultaneously solve a block. Most networks, such as [Bitcoin](/what-is-bitcoin), allow only one block to be added to the canonical chain, rendering the other block an "orphan" block. This situation results in wasted effort for the miner of the orphan block, who receives no reward. To address this issue, Ethereum, during its Proof-of-Work (PoW) era, introduced **Uncle blocks**.
@@ -78,7 +79,7 @@ This system prevented total waste of computational effort and minimized the pena
 
 Incorporating Uncle blocks was not merely about fairness; it also served as a critical security measure.
 
-Under the traditional "longest chain" rule, an attacker only needs to outpace the work done on the main chain. However, the GHOST protocol considers both main chain blocks and the work represented by included Uncle blocks. 
+Under the traditional "longest chain" rule, an attacker only needs to outpace the work done on the main chain. However, the GHOST protocol considers both main chain blocks and the work represented by included Uncle blocks.
 
 The "heaviest" chain comprises the most cumulative work, including both canonical blocks and their referenced Uncles. This requirement means that an attacker must out-mine not only the main chain but also the work contributed by the Uncles, making a **[51% attack](/what-is-a-51-percent-attack-in-blockchain)** considerably more challenging and costly.
 

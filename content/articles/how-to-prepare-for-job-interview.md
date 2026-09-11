@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Landing a job interview represents a significant milestone. It indicates that your [resume](/how-to-build-a-web3-resume-that-stands-out) and cover letter have resonated with the hiring team. Now, the focus shifts to demonstrating your skills, personality, and passion for the role. Preparation enables you to enter the interview with confidence, leaving a strong impression.
 
 This guide outlines the critical steps to take before, during, and after your job interview to enhance your chances of success.
@@ -16,9 +17,11 @@ This guide outlines the critical steps to take before, during, and after your jo
 
 The preparation you undertake prior to the interview carries as much weight as the interview itself.
 
-**1. Research the Company
 
-**Gain a complete understanding of the company you are interviewing with. 
+
+### 1. Research the Company
+
+Gain a complete understanding of the company you are interviewing with.
 
 | Key Areas | Details |
 |
@@ -39,15 +42,19 @@ The preparation you undertake prior to the interview carries as much weight as t
 
 **Recent news**| Look for any recent product launches or news articles to discuss during the interview. |
 
-Being informed about the company shows your engagement and interest.**2. Understand the Role
+Being informed about the company shows your engagement and interest.
 
-**Review the job description carefully. 
+### 2. Understand the Role
+
+Review the job description carefully.
 
 - Identify the key responsibilities and qualifications required.
 - Reflect on how your skills and experiences align with these requirements.
-- Prepare specific examples from your past work that illustrate your capability to fulfill the role's duties.**3. Prepare Your Answers to Common Questions
+- Prepare specific examples from your past work that illustrate your capability to fulfill the role's duties.
 
-**While you cannot anticipate every question, preparing for common inquiries can boost your confidence. 
+### 3. Prepare Your Answers to Common Questions
+
+While you cannot anticipate every question, preparing for common inquiries can boost your confidence.
 
 - "Tell me about yourself." (Craft a 1-2 minute elevator pitch.)
 - "Why are you interested in this role?"
@@ -55,18 +62,22 @@ Being informed about the company shows your engagement and interest.**2. Underst
 - "Why do you want to work for this company?"
 - "Describe a time when you faced a challenge and how you handled it."
 
-Use the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.**4. Prepare Your Own Questions
+Use the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.
 
-**Interviews serve as a two-way dialogue. Prepare thoughtful questions to assess if the company fits your career aspirations.
+### 4. Prepare Your Own Questions
+
+Interviews serve as a two-way dialogue. Prepare thoughtful questions to assess if the company fits your career aspirations.
 
 - "What does a typical day in this role look like?"
 - "What are the biggest challenges the team is currently facing?"
 - "How do you measure success in this role?"
 - "What do you enjoy most about working here?"
 
-Asking insightful questions demonstrates your genuine interest in the position and the organization.**5. Plan Your Logistics
+Asking insightful questions demonstrates your genuine interest in the position and the organization.
 
-**Ensure you are ready for both in-person and virtual interviews.
+### 5. Plan Your Logistics
+
+Ensure you are ready for both in-person and virtual interviews.
 
 - **In-person:** Determine your route, parking options, and aim to arrive 10-15 minutes early.
 - **Virtual:** Test your technology, including your camera, microphone, and internet connection. Choose a quiet, well-lit space with a clean, professional background.
@@ -79,9 +90,11 @@ Asking insightful questions demonstrates your genuine interest in the position a
 - **Communicate Clearly:** Speak concisely. Avoid unnecessary elaboration.
 - **Be Honest:** Avoid exaggerating your skills or experiences. It is better to acknowledge areas where you lack knowledge and express a willingness to learn.
 
-### After the Interview**1. Send a Thank-You Note
+### After the Interview
 
-**Within 24 hours post-interview, send a personalized thank-you email to your interviewer.
+### 1. Send a Thank-You Note
+
+Within 24 hours post-interview, send a personalized thank-you email to your interviewer.
 
 - Express gratitude for their time.
 - Briefly reiterate your enthusiasm for the role.

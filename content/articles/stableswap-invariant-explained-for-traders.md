@@ -9,11 +9,12 @@ data-ai-hint: stableswap invariant
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## The StableSwap Invariant Explained for Traders and LPs
 
 In Decentralized Finance ([DeFi](/what-is-defi)), automated market makers (AMMs) use mathematical formulas called invariants to price assets. The most well-known invariant is the **[constant product formula](/understanding-constant-product-formula)** (`x * y = k`), which Uniswap v2 employs. However, this formula lacks efficiency for trading pegged assets such as stablecoins.
 
-The **StableSwap invariant **, designed by Curve Finance, addresses this inefficiency. It serves as a specialized bonding curve optimized for trading pegged assets, such as stablecoins, by creating a hybrid curve. This curve is flatter than the constant product curve, resulting in lower slippage and enhanced capital efficiency. Understanding the StableSwap invariant is essential for grasping why**[Curve pools](/what-is-a-curve-pool-in-defi)** dominate the stablecoin trading market.
+The **StableSwap invariant**, designed by Curve Finance, addresses this inefficiency. It serves as a specialized bonding curve optimized for trading pegged assets, such as stablecoins, by creating a hybrid curve. This curve is flatter than the constant product curve, resulting in lower slippage and enhanced capital efficiency. Understanding the StableSwap invariant is essential for grasping why**[Curve pools](/what-is-a-curve-pool-in-defi)** dominate the stablecoin trading market.
 
 This article explains the StableSwap invariant, its functionality, and its advantages in pegged asset swaps.
 
@@ -28,7 +29,7 @@ This article explains the StableSwap invariant, its functionality, and its advan
 |
 
 **Hybrid Formula** | The StableSwap invariant smoothly transitions between a constant sum formula (`x + y = k`) and a constant product formula (`x * y = k`). |
-| 
+|
 
 **Primary Goal**| It aims to create a bonding curve that remains flat when liquidity pools are balanced but still offers liquidity when one asset de-pegs. |
 |
@@ -64,8 +65,8 @@ The StableSwap invariant merges the benefits of both the constant sum and consta
 
 >**The StableSwap invariant functions like a constant sum formula when the pool is balanced, then transitions to a constant product formula as the pool becomes imbalanced.**
 
-- **-** When Balanced**: In a USDC/DAI pool, when the amounts of USDC and DAI are approximately equal, the curve is nearly flat, resembling the `x + y = k` line. This configuration allows for significant trades with minimal slippage.
-- **When Imbalanced**: If one asset begins to de-peg, causing an imbalance, the formula's "amplification" effect diminishes. The curve starts bending, behaving more like the `x * y = k` hyperbola. This adjustment ensures that the pool maintains liquidity, preventing total depletion and protecting liquidity providers.
+- **-** When Balanced: In a USDC/DAI pool, when the amounts of USDC and DAI are approximately equal, the curve is nearly flat, resembling the `x + y = k` line. This configuration allows for significant trades with minimal slippage.
+- When Imbalanced: If one asset begins to de-peg, causing an imbalance, the formula's "amplification" effect diminishes. The curve starts bending, behaving more like the `x * y = k` hyperbola. This adjustment ensures that the pool maintains liquidity, preventing total depletion and protecting liquidity providers.
 
 #### The Amplification Parameter (A)
 

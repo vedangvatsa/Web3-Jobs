@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Working in [Web3](/what-is-web3) can feel overwhelming due to the rapid changes in technology, narratives, and job opportunities. The latest Layer 2 solution could become outdated within months, and skills that were once highly sought-after may now be basic requirements. For professionals in this field, staying informed is essential for career advancement.
 
 To effectively manage the flood of information, establish a system for consuming content. Curate your sources, prioritize relevant information, and create a learning routine that fits your schedule. This guide outlines actionable strategies and resources to help you remain competitive in the evolving [Web3 job](/web3-jobs-for-beginners) market.
@@ -30,18 +31,18 @@ While Twitter excels in delivering fast updates, newsletters and blogs provide i
 
 - **Must-Read Newsletters:**
 
-- **-** Bankless:**An essential guide to the DeFi ecosystem, featuring a weekly roundup that covers critical developments.
- - **The Defiant:** Offers detailed coverage of DeFi, including trends and governance issues.
- - **Week in [Ethereum](/what-is-ethereum) News:** A respected, developer-focused summary of events in the Ethereum ecosystem.
-- **Identify Niche Experts:** Every area within Web3 has leading experts who publish newsletters. Find those authorities in your field of interest and subscribe to their updates.
+- **-** Bankless:An essential guide to the DeFi ecosystem, featuring a weekly roundup that covers critical developments.
+ - The Defiant: Offers detailed coverage of DeFi, including trends and governance issues.
+ - Week in [Ethereum](/what-is-ethereum) News: A respected, developer-focused summary of events in the Ethereum ecosystem.
+- Identify Niche Experts: Every area within Web3 has leading experts who publish newsletters. Find those authorities in your field of interest and subscribe to their updates.
 
 ### 3. Learn by Listening: The Value of Podcasts
 
 Podcasts allow you to absorb information during your commute, workouts, or daily tasks. They feature long-form discussions with industry leaders, providing insights from those actively shaping the space.
 
-- **Essential Podcasts:**
+- Essential Podcasts:
 
-- **-** Bankless:**Features interviews with prominent figures in crypto.
+- -**Bankless:**Features interviews with prominent figures in crypto.
  - **Unchained:** Journalist Laura Shin hosts critical interviews that dissect industry topics.
  - **Bell Curve:** In-depth discussions on specific crypto-economic issues, hosted by Blockworks researchers.
  - **The Chopping Block:** A lively roundtable show from a16z crypto, focusing on current industry news and debates.

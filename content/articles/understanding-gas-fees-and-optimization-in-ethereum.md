@@ -10,6 +10,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls.
 
 This guide explains what gas is, who needs to understand it, how the fee market works after EIP-1559, where the trade-offs are, and how users and developers can reduce what they pay.
@@ -21,11 +22,11 @@ Gas counts computation on the Ethereum Virtual Machine (EVM). Every opcode has a
 Common examples, from ethereum.org/gas and ethereum.org/developers/docs/gas:
 
 | Action | Gas used, typical | Notes |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Send ETH to another wallet | 21,000 | Fixed, defined in the Yellow Paper as TxGas |
@@ -44,11 +45,13 @@ Two related terms matter:
 
 ## Who this guide is for
 
-**Users who send ETH, swap, bridge, or mint.
+Users who send ETH, swap, bridge, or mint.
 
-**If you have ever seen a wallet estimate of $2 and then $40 during a popular mint, you need to know why fees move and how to time or route transactions to save money.** Solidity and dapp developers.
+If you have ever seen a wallet estimate of $2 and then $40 during a popular mint, you need to know why fees move and how to time or route transactions to save money.
 
-**Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.** Product and infrastructure teams.** Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
+### Solidity and dapp developers
+
+Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.**Product and infrastructure teams.** Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
 
 If you only hold ETH and never transact, you can skip the detail. If you build or transact, you cannot.
 
@@ -95,19 +98,23 @@ EIP-1559 shipped with the London hard fork at block 12,965,000 on 5 August 2021 
 
 Five mechanics define it now:
 
-1. **Base fee is protocol-set and burned.
+1.
 
-**Every block has a base fee. Your transaction must cover it to be valid. When the block is built, that base fee is destroyed. It does not go to validators. Burning removes the incentive for validators to manipulate fees and offsets issuance. Trackers such as Etherscan and Ultrasound.money report about 4.6 million ETH burned between August 2021 and early 2026, even as net supply still rose slightly to around 120 to 121 million ETH by April 2026 after issuance to stakers continued.
+### Base fee is protocol-set and burned
 
-2. **Base fee moves with demand, capped at 12.5 percent per block.
+Every block has a base fee. Your transaction must cover it to be valid. When the block is built, that base fee is destroyed. It does not go to validators. Burning removes the incentive for validators to manipulate fees and offsets issuance. Trackers such as Etherscan and Ultrasound.money report about 4.6 million ETH burned between August 2021 and early 2026, even as net supply still rose slightly to around 120 to 121 million ETH by April 2026 after issuance to stakers continued.
 
-**The protocol compares gas used in the previous block to the gas target, which is half the gas limit. If the previous block used more than the target, the base fee increases by up to 12.5 percent. If it used less, it decreases by up to 12.5 percent. Blocks can be up to twice the target size, so during a surge the base fee climbs exponentially and then falls when demand eases. This is why ethereum.org describes the base fee as the network trying to keep average block size at the target.
+2. Base fee moves with demand, capped at 12.5 percent per block.
+
+The protocol compares gas used in the previous block to the gas target, which is half the gas limit. If the previous block used more than the target, the base fee increases by up to 12.5 percent. If it used less, it decreases by up to 12.5 percent. Blocks can be up to twice the target size, so during a surge the base fee climbs exponentially and then falls when demand eases. This is why ethereum.org describes the base fee as the network trying to keep average block size at the target.
 
 3. **Priority fee is a tip validators keep.** Validators receive only `priorityFeePerGas * gasUsed`. A transaction that pays only the base fee is valid but less attractive to include. During calm periods a tip of 1 to 2 gwei is often enough. During a congested mint or crash, users add more to be included sooner. Wallets now suggest this automatically, and you can still set it manually.
 
-4. **maxFeePerGas protects you from overpaying.
+4.
 
-**You declare the highest total you accept. If the base fee falls before your transaction is included, you pay the lower effective price and get a refund for the unused allowance. If the base fee exceeds your maxFeePerGas, the transaction waits in the mempool.
+### maxFeePerGas protects you from overpaying
+
+You declare the highest total you accept. If the base fee falls before your transaction is included, you pay the lower effective price and get a refund for the unused allowance. If the base fee exceeds your maxFeePerGas, the transaction waits in the mempool.
 
 5. **Target size is not the limit.** Ethereum can process roughly 15 to 30 simple transfers per second at layer 1. Each block has a target of half the limit. That slack lets the network absorb bursts without immediately rejecting transactions, but sustained demand still pushes the base fee up until some users wait.
 
@@ -135,57 +142,81 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### What the current design gets right
 
-- **Predictable estimates.
+-
 
-**Wallets can suggest `maxFeePerGas` and `maxPriorityFeePerGas` from the recent base fee instead of guessing a blind auction bid. Users see a clearer max cost.
-- **DoS resistance.
+### Predictable estimates
 
-**Gas metering makes infinite loops economically impossible and prices state access closer to real client work after Berlin fixes.
-- **Burn aligns fee payment with ETH.
+Wallets can suggest `maxFeePerGas` and `maxPriorityFeePerGas` from the recent base fee instead of guessing a blind auction bid. Users see a clearer max cost.
+-
 
-**Only ETH pays the base fee, and burning it offsets issuance. Between the Merge in September 2022, which cut daily issuance from about 13,000 ETH to about 1,700 ETH, and steady burn in early 2023, ETH was briefly net deflationary. That effect faded as Layer 2 moved activity off mainnet.
-- **Layer 1 stays the settlement anchor.
+### DoS resistance
 
-**Expensive mainnet fees fund validator security while high-volume activity moves to cheaper layers that still settle to Ethereum.
+Gas metering makes infinite loops economically impossible and prices state access closer to real client work after Berlin fixes.
+-
+
+### Burn aligns fee payment with ETH
+
+Only ETH pays the base fee, and burning it offsets issuance. Between the Merge in September 2022, which cut daily issuance from about 13,000 ETH to about 1,700 ETH, and steady burn in early 2023, ETH was briefly net deflationary. That effect faded as Layer 2 moved activity off mainnet.
+-
+
+### Layer 1 stays the settlement anchor
+
+Expensive mainnet fees fund validator security while high-volume activity moves to cheaper layers that still settle to Ethereum.
 
 ### What still hurts
 
-- **Fees still spike.
+-
 
-**When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
-- **Tip still needed for speed.
+### Fees still spike
 
-**To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
-- **Mainnet is costly for small actions.
+When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
+-
 
-**Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
-- **Developer cliff.
+### Tip still needed for speed
 
-**Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
+To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
+-
+
+### Mainnet is costly for small actions
+
+Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
+-
+
+### Developer cliff
+
+Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
 
 ## How to pay less and build cheaper
 
 ### If you are a user
 
-1. **Prefer a Layer 2 for routine actions.
+1. Prefer a Layer 2 for routine actions.
 
-**Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. Reports from March 2024 showed Optimism median fees falling from about $1.40 to about $0.04, Base from about $1.50 to about $0.03, and Arbitrum and zkSync seeing 50 to 90 percent drops as they adopted blobs. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills.
+Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. Reports from March 2024 showed Optimism median fees falling from about $1.40 to about $0.04, Base from about $1.50 to about $0.03, and Arbitrum and zkSync seeing 50 to 90 percent drops as they adopted blobs. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills.
 
-2. **Time your mainnet transactions.
+2.
 
-**Track live fees on Etherscan Gas Tracker or a similar estimator. Fees are often lowest on weekends and during off-peak US hours when fewer users compete for block space. If you are not in a rush, set a lower `maxFeePerGas` and let the transaction wait.
+### Time your mainnet transactions
 
-3. **Set fees explicitly.
+Track live fees on Etherscan Gas Tracker or a similar estimator. Fees are often lowest on weekends and during off-peak US hours when fewer users compete for block space. If you are not in a rush, set a lower `maxFeePerGas` and let the transaction wait.
 
-**In MetaMask and similar wallets, use advanced settings to set `maxFeePerGas` and `maxPriorityFeePerGas` instead of accepting a single gas price. Set a max base you are willing to pay. You will be refunded if the actual base fee is lower.
+3.
 
-4. **Batch where possible.
+### Set fees explicitly
 
-**Some apps let you approve and swap in one transaction, or mint several NFTs with ERC-721A for near the cost of one. Off-chain signatures followed by a single on-chain settlement also cut gas. Check if the dapp supports batch calls or permit signatures that avoid an extra approve transaction.
+In MetaMask and similar wallets, use advanced settings to set `maxFeePerGas` and `maxPriorityFeePerGas` instead of accepting a single gas price. Set a max base you are willing to pay. You will be refunded if the actual base fee is lower.
 
-5. **Avoid failed transactions.
+4.
 
-**Set a safe gasLimit. A simple ETH transfer always needs 21,000. Contract calls vary - use your wallet's estimate plus a margin. Failed or reverted transactions still consume gas for work done.
+### Batch where possible
+
+Some apps let you approve and swap in one transaction, or mint several NFTs with ERC-721A for near the cost of one. Off-chain signatures followed by a single on-chain settlement also cut gas. Check if the dapp supports batch calls or permit signatures that avoid an extra approve transaction.
+
+5.
+
+### Avoid failed transactions
+
+Set a safe gasLimit. A simple ETH transfer always needs 21,000. Contract calls vary - use your wallet's estimate plus a margin. Failed or reverted transactions still consume gas for work done.
 
 ### If you are a Solidity developer
 
@@ -211,9 +242,11 @@ function bumpGood() external {
 }
 ```
 
-**2. Pack storage variables.
 
-**The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
+
+### 2. Pack storage variables
+
+The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
 
 ```solidity
 // Inefficient: three slots
@@ -223,7 +256,9 @@ struct Bad { uint128 a; uint256 b; uint128 c; }
 struct Good { uint128 a; uint128 c; uint256 b; }
 ```
 
-This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.**3. Use calldata for read-only external inputs.**```solidity
+This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.**3. Use calldata for read-only external inputs.**
+
+```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 
@@ -231,9 +266,9 @@ function processBad(string memory data) external { }
 function processGood(string calldata data) external { }
 ```
 
-For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.**4. Use custom errors instead of string requires.
+For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.4. Use custom errors instead of string requires.
 
-**Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
+Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
 
 ```solidity
 // Higher cost: stores the string
@@ -245,9 +280,9 @@ error NotOwner(address caller);
 function withdraw() external {
     if (msg.sender != owner) revert NotOwner(msg.sender);
 }
-```**5. Use unchecked only when you can prove no overflow.
+```5. Use unchecked only when you can prove no overflow.
 
-**Since Solidity 0.8.0, arithmetic reverts on overflow by default. That safety costs gas. If a loop index cannot overflow because it is bounded by `length`, you can save gas with `unchecked`.
+Since Solidity 0.8.0, arithmetic reverts on overflow by default. That safety costs gas. If a loop index cannot overflow because it is bounded by `length`, you can save gas with `unchecked`.
 
 ```solidity
 for (uint256 i = 0; i < length; ) {

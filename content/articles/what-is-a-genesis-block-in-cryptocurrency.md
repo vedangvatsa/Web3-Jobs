@@ -9,11 +9,12 @@ category: Educational
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis block** represents the first block ever created in a blockchain's timeline. Known as Block 0, it serves as the foundation from which all subsequent blocks are cryptographically linked, forming the chain that constitutes the distributed ledger. This block is a unique and immutable record in a blockchain's history.
 
 ### Unique Properties of the Genesis Block
 
-The uniqueness of the genesis block stems from its lack of a preceding block to reference. 
+The uniqueness of the genesis block stems from its lack of a preceding block to reference.
 
 | Feature | Regular Block | Genesis Block |
 |

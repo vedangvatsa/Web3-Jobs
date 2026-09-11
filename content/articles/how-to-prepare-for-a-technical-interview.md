@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## What a technical interview actually tests
 
 A technical interview checks whether you can do the work, not whether you can describe it. In 2026 most companies use a sequence of filters: resume screen, automated coding check, then a live round where you write, explain, and debug code with an engineer watching. For Web3 roles the same sequence applies, but the live round adds chain-specific checks: EVM behavior, gas cost, and security.
@@ -31,25 +32,35 @@ It is not for you if you are looking for trick questions to memorize the night b
 
 Most teams follow the same five stages, with different weight by company size.
 
-1. **Resume and portfolio screen.
+1.
 
-**Automated parsing plus a recruiter scan. They look for exact tool names, deployed links, and test coverage. A GitHub repo with a verified contract on Sepolia and a README that shows how to run tests beats a longer resume with no links.
+### Resume and portfolio screen
 
-2. **Automated coding assessment.
+Automated parsing plus a recruiter scan. They look for exact tool names, deployed links, and test coverage. A GitHub repo with a verified contract on Sepolia and a README that shows how to run tests beats a longer resume with no links.
 
-**HackerRank, Codility, or CodeSignal. You get 60 to 90 minutes for 2 to 3 problems. No interviewer. This is pass or fail. The problems test patterns, not trivia.
+2.
 
-3. **Take-home or live coding.
+### Automated coding assessment
 
-**Startups and mid-size Web3 teams lean to take-homes. About 47 percent of hiring managers in a 2025 LinkedIn survey said they prefer take-homes over live coding for mid-level hires. Large tech companies lean to live coding. Take-homes test code quality and testing over 2 to 7 days. Live rounds test thinking aloud, debugging, and collaboration in 45 to 90 minutes.
+HackerRank, Codility, or CodeSignal. You get 60 to 90 minutes for 2 to 3 problems. No interviewer. This is pass or fail. The problems test patterns, not trivia.
 
-4. **System design or contract architecture.
+3.
 
-**This used to start at senior level. It now starts at mid-level, roughly L4 on Google's ladder. For Web3 this means designing a token system, staking vault, or upgrade path across on-chain and off-chain parts.
+### Take-home or live coding
 
-5. **Behavioral.
+Startups and mid-size Web3 teams lean to take-homes. About 47 percent of hiring managers in a 2025 LinkedIn survey said they prefer take-homes over live coding for mid-level hires. Large tech companies lean to live coding. Take-homes test code quality and testing over 2 to 7 days. Live rounds test thinking aloud, debugging, and collaboration in 45 to 90 minutes.
 
-**Expect 30 to 40 percent of interview time to be behavioral, even in technical loops. Hiring managers use structured questions like "tell me about a time you disagreed on a technical decision" and score them with STAR: Situation, Task, Action, Result.
+4.
+
+### System design or contract architecture
+
+This used to start at senior level. It now starts at mid-level, roughly L4 on Google's ladder. For Web3 this means designing a token system, staking vault, or upgrade path across on-chain and off-chain parts.
+
+5.
+
+### Behavioral
+
+Expect 30 to 40 percent of interview time to be behavioral, even in technical loops. Hiring managers use structured questions like "tell me about a time you disagreed on a technical decision" and score them with STAR: Situation, Task, Action, Result.
 
 Knowing the stage helps you prepare the right artifact for each: a clean resume for stage 1, pattern fluency for stage 2, a tested repo for stage 3, a whiteboard framework for stage 4, and short stories with numbers for stage 5.
 
@@ -83,23 +94,29 @@ Tooling: LeetCode remains the standard practice platform. Run mock interviews on
 
 ## What to master for a Solidity technical interview
 
-If your loop includes a Solidity role, add EVM and security on top of the general coding base. Interviewers treat security as the primary filter.**1. Solidity fundamentals.
+If your loop includes a Solidity role, add EVM and security on top of the general coding base. Interviewers treat security as the primary filter.
 
-**Be able to write and explain from memory:
+### 1. Solidity fundamentals
+
+Be able to write and explain from memory:
 
 - Data locations: `storage`, `memory`, and `calldata`, and when each copies. `calldata` is read-only and cheapest for external inputs. `storage` persists and costs the most.
 - Visibility: `public`, `private`, `internal`, `external`. Use `external` when the function is only called from outside the contract to save gas on copying.
 - Function types: `view`, `pure`, and `payable`. A `view` reads state, a `pure` reads no state, a `payable` can receive ETH.
 - Error handling: `require`, `revert`, `assert`, and custom errors. Custom errors introduced in Solidity 0.8.4 cost less gas than string messages because they encode a selector, not a string.
-- Inheritance and libraries. Understand C3 linearization for base contract order.**2. The EVM.
+- Inheritance and libraries. Understand C3 linearization for base contract order.
 
-**The EVM is a stack machine that each node runs. Know:
+### 2. The EVM
+
+The EVM is a stack machine that each node runs. Know:
 
 - The stack, memory which is cleared after the call, and storage which persists. A cold storage write costs 20,000 gas, a warm write about 2,900, a cold read about 2,100, a warm read about 100. These numbers come from the EVM fee schedule and explain why minimizing state writes dominates optimization.
 - Opcodes you will be asked about: `SSTORE`, `SLOAD`, `ADD`, `MSTORE`, `CALLDATALOAD`. Transient storage with `TSTORE` and `TLOAD` from EIP-1153 costs 100 gas and clears after the transaction. It shipped with the Cancun upgrade in March 2024 and requires Solidity 0.8.24 or later and `evmVersion: "cancun"`.
-- Call types: `call`, `delegatecall`, and `staticcall`. With `call`, `msg.sender` is the caller. With `delegatecall`, code runs in the caller's storage, so `msg.sender` stays the original sender, which is how proxies work. Never use `tx.origin` for authorization. `tx.origin` is the original external account, not the immediate caller, so a phishing contract can bypass it.**3. Security, the most important filter.
+- Call types: `call`, `delegatecall`, and `staticcall`. With `call`, `msg.sender` is the caller. With `delegatecall`, code runs in the caller's storage, so `msg.sender` stays the original sender, which is how proxies work. Never use `tx.origin` for authorization. `tx.origin` is the original external account, not the immediate caller, so a phishing contract can bypass it.
 
-**Follow the Checks-Effects-Interactions pattern from the Solidity docs at docs.soliditylang.org. The pattern is: check inputs first, update your state second, interact with other contracts last.
+### 3. Security, the most important filter
+
+Follow the Checks-Effects-Interactions pattern from the Solidity docs at docs.soliditylang.org. The pattern is: check inputs first, update your state second, interact with other contracts last.
 
 A vulnerable withdraw sends before it updates:
 
@@ -240,13 +257,19 @@ Daily habit that helps most candidates: 35 minutes of problem solving, 15 minute
 
 ## Before, during, and after the interview
 
-**Before.
 
-**Research the company's chain, contracts, and recent deploys. Read the job description line by line and map each requirement to a file or commit in your portfolio. Test your setup for virtual rounds: camera, mic, shared editor, and a clean repo you can open quickly. Prepare three good questions, such as "what does a typical review cycle look like for a contract before it hits testnet" and "how do you measure success for this role in the first 90 days."** During.
 
-**Dress to the norm the recruiter states, be explicit about your assumptions, and state trade-offs. If you do not know an answer, say so plainly and show how you would find it: "I have not used that proxy variant, here is how I would check the OpenZeppelin docs and test for storage collision." Interviewers score honesty and debugging higher than a forced answer.** After.
+### Before
 
-**Send a short thank-you within 24 hours. Restate one specific topic you discussed and your next step if any. If the timeline passes, send a brief follow-up that references the stage you are in.
+Research the company's chain, contracts, and recent deploys. Read the job description line by line and map each requirement to a file or commit in your portfolio. Test your setup for virtual rounds: camera, mic, shared editor, and a clean repo you can open quickly. Prepare three good questions, such as "what does a typical review cycle look like for a contract before it hits testnet" and "how do you measure success for this role in the first 90 days."
+
+### During
+
+Dress to the norm the recruiter states, be explicit about your assumptions, and state trade-offs. If you do not know an answer, say so plainly and show how you would find it: "I have not used that proxy variant, here is how I would check the OpenZeppelin docs and test for storage collision." Interviewers score honesty and debugging higher than a forced answer.
+
+### After
+
+Send a short thank-you within 24 hours. Restate one specific topic you discussed and your next step if any. If the timeline passes, send a brief follow-up that references the stage you are in.
 
 ## Common red flags to avoid
 
@@ -285,14 +308,9 @@ Pause and state what you know. Ask for a hint. It is better to say "I do not hav
 
 ## Further reading
 
-Check the primary sources behind the claims in this guide:
-
 - Solidity docs at docs.soliditylang.org: language reference, security considerations, and Checks-Effects-Interactions pattern
 - Ethereum docs at ethereum.org: proof of stake, EVM, accounts, transactions, and gas
 - Foundry Book at book.getfoundry.sh: forge, cast, anvil, and fuzz testing
 - Hardhat at hardhat.org: Ignition deployments and Solidity test runner in Hardhat 3
 - OpenZeppelin docs at docs.openzeppelin.com: ERC-20, ERC-721, access control, and ReentrancyGuard
 - The Graph docs at thegraph.com: subgraphs and GraphQL indexing for dApps
-- Scaffold-ETH 2 at docs.scaffoldeth.io: Next.js plus Wagmi plus Viem starter
-
-If you can explain each choice in your repo without notes, handle a live edit that adds access control or a reentrancy guard, and walk through a STAR story with a number, you are ready for most technical interviews in 2026.

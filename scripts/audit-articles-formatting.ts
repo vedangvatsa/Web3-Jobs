@@ -3,6 +3,7 @@ import path from 'path';
 import matter from 'gray-matter';
 
 const ARTICLES_DIR = path.join(process.cwd(), 'content', 'articles');
+const questionStart = /^(?:what|why|how|who|where|when|which|do|does|did|can|could|should|would|is|are|will|have|has)\b/i;
 
 export type FormattingIssue = {
   file: string;
@@ -32,6 +33,8 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
 
   const category = parsed.data.category || 'Uncategorized';
   const body = parsed.content;
+  // Operators and examples inside fenced code are source code, not Markdown prose.
+  const proseBody = body.replace(/```[\s\S]*?```/g, '');
 
   // 2. Check for invalid space in bolding: ** text** or **text **, validated
   // per bold PAIR. NOTE: an earlier spanning pattern (`**\s+[^*]+?**`)
@@ -43,7 +46,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   const invalidBoldSpaces: string[] = [];
   const boldPairPattern = /\*\*([^*]*?)\*\*/g;
   let boldMatch: RegExpExecArray | null;
-  while ((boldMatch = boldPairPattern.exec(body)) !== null) {
+  while ((boldMatch = boldPairPattern.exec(proseBody)) !== null) {
     const inner = boldMatch[1] ?? '';
     if (/^\s|\s$/.test(inner)) invalidBoldSpaces.push(boldMatch[0].slice(0, 60));
   }
@@ -57,7 +60,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   }
 
   // 3. Check for malformed markdown links [text] (url) with space
-  const malformedLinks = body.match(/\[[^\]]+\]\s+\(https?:\/\/[^\)]+\)/g);
+  const malformedLinks = proseBody.match(/\[[^\]]+\]\s+\(https?:\/\/[^\)]+\)/g);
   if (malformedLinks) {
     issues.push({
       file,
@@ -68,7 +71,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   }
 
   // 4. Check for unescaped/raw HTML entities (&amp;, &nbsp;, &gt;, &lt;, &quot;, &apos;, &mdash;)
-  const rawEntities = body.match(/&(?:amp|nbsp|gt|lt|quot|apos|mdash|ndash|hellip);|&#\d+;/g);
+  const rawEntities = proseBody.match(/&(?:amp|nbsp|gt|lt|quot|apos|mdash|ndash|hellip);|&#\d+;/g);
   if (rawEntities) {
     issues.push({
       file,
@@ -79,7 +82,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   }
 
   // 5. Check for non-standard typography (Em dash —, En dash –, Curly Quotes “ ” ‘ ’, Ellipsis …)
-  const typographyJunk = body.match(/[—–“”‘’…\u200B\uFEFF]/g);
+  const typographyJunk = proseBody.match(/[—–“”‘’…\u200B\uFEFF]/g);
   if (typographyJunk) {
     issues.push({
       file,
@@ -90,7 +93,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
   }
 
   // 6. Check for pseudo-headings (**Pros**, **Cons**, **FAQ**) that should be markdown headings
-  const pseudoHeadings = body.match(/^(?:\*\*(?:Pros|Cons|FAQ|Overview|Key Takeaways|Summary|Conclusion|Steps|Requirements)\*\*)$/gm);
+  const pseudoHeadings = proseBody.match(/^(?:\*\*(?:Pros|Cons|FAQ|Overview|Key Takeaways|Summary|Conclusion|Steps|Requirements)\*\*)$/gm);
   if (pseudoHeadings) {
     issues.push({
       file,
@@ -112,7 +115,7 @@ export function auditFormatting(filePath: string): FormattingIssue[] {
 
     if (inFaq && /^### /.test(line)) {
       const h3Text = line.replace(/^### /, '').trim();
-      if (h3Text.length > 5 && !h3Text.endsWith('?')) {
+      if (questionStart.test(h3Text) && h3Text.length > 5 && !h3Text.endsWith('?')) {
         issues.push({
           file,
           category,

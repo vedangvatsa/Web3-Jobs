@@ -9,6 +9,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the digital age, identity consists of claims made about individuals by various authorities. Governments assert citizenship, universities verify degrees, and employers confirm employment. Currently, individuals confirm these claims through physical documents or by accessing centralized systems. This method proves inefficient and insecure, limiting user control over personal data.
 
 The solution in the [Web3](/what-is-web3) ecosystem is **[Decentralized Identity (DID)](/decentralized-identity-explained)**. The cornerstone of this model is the
@@ -69,7 +70,7 @@ A VC is typically a JSON object (specifically, a JSON-LD - Linked Data) with sev
 
 ### The Power of VCs: Selective Disclosure and Zero-Knowledge Proofs
 
-VCs gain significant functionality when paired with **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)**. This technology enables ** selective disclosure**.
+VCs gain significant functionality when paired with **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)**. This technology enables **selective disclosure**.
 
 For example, consider a VC containing your full date of birth. If you need to demonstrate to a website that you are over 18:
 

@@ -8,6 +8,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls. [Ethereum's own gas overview](https://ethereum.org/gas/) and its [technical gas documentation](https://ethereum.org/developers/docs/gas/) are the canonical starting points, and this guide builds on them with current numbers.
 
 This guide explains what gas is, who needs to understand it, how the fee market works after EIP-1559, where the trade-offs are, and how users and developers can reduce what they pay.
@@ -19,11 +20,11 @@ Gas counts computation on the Ethereum Virtual Machine (EVM). Every opcode has a
 Common examples, from [ethereum.org/gas](https://ethereum.org/gas/) and the [technical gas docs](https://ethereum.org/developers/docs/gas/), with [Binance Academy's breakdown](https://www.binance.com/en/academy/articles/how-do-gas-fees-work-on-ethereum) for comparison:
 
 | Action | Gas used, typical | Notes |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Send ETH to another wallet | 21,000 | Fixed, defined in the Yellow Paper as TxGas |
@@ -128,18 +129,26 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### What still hurts
 
-- **Fees still spike.
+-
 
-**When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
-- **Tip still needed for speed.
+### Fees still spike
 
-**To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
-- **Mainnet is costly for small actions.
+When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
+-
 
-**Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
-- **Developer cliff.
+### Tip still needed for speed
 
-**Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
+To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
+-
+
+### Mainnet is costly for small actions
+
+Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
+-
+
+### Developer cliff
+
+Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
 
 ## How to pay less and build cheaper
 
@@ -187,9 +196,11 @@ function bumpGood() external {
 }
 ```
 
-**2. Pack storage variables.
 
-**The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
+
+### 2. Pack storage variables
+
+The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
 
 ```solidity
 // Inefficient: three slots
@@ -201,7 +212,9 @@ struct Good { uint128 a; uint128 c; uint256 b; }
 
 This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
 
-**3. Use calldata for read-only external inputs.**```solidity
+**3. Use calldata for read-only external inputs.**
+
+```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 
@@ -211,9 +224,9 @@ function processGood(string calldata data) external { }
 
 For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.
 
-**4. Use custom errors instead of string requires.
+4. Use custom errors instead of string requires.
 
-**Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
+Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
 
 ```solidity
 // Higher cost: stores the string
@@ -251,21 +264,27 @@ The lesson repeats every cycle: demand spikes are temporary, base-fee math is pe
 
 ## FAQ
 
-**Estimating fees in dollars
 
-**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
 
-**Paid failures
+### Estimating fees in dollars
 
-**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
+Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
+
+
+
+### Paid failures
+
+Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
 
 #### What happens to gas if ETH price doubles?
 
 Gas used for an action stays the same. Price per unit in gwei is set by demand. If ETH price doubles and demand stays flat, the same 21,000-unit transfer costs twice as many dollars but the same gwei and ETH. In practice wallets and users target dollar costs, so demand often eases when ETH price rises.
 
-**ETH on Layer 2
 
-**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
+
+### ETH on Layer 2
+
+Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
 
 #### Is it cheaper to set a very low maxFeePerGas and wait?
 

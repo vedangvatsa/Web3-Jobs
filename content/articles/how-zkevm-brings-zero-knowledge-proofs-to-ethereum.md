@@ -8,6 +8,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 slug: how-zkevm-brings-zero-knowledge-proofs-to-ethereum
 ---
+
 Scaling decentralized smart contract execution without sacrificing base-layer cryptographic security has remained the central engineering challenge of the Ethereum ecosystem. For years, the Layer 2 rollup landscape was bifurcated by an architectural trade-off: Optimistic Rollups offered developer convenience and bytecode compatibility, but imposed seven-day fraud-proof dispute windows that locked user capital. Conversely, Zero-Knowledge Rollups offered immediate mathematical finality and succinct cryptographic proofs, but required developers to rewrite protocol logic into specialized zero-knowledge intermediate representations like Cairo.
 
 The arrival of the Zero-Knowledge Ethereum Virtual Machine (zkEVM) eliminated this trade-off. A zkEVM is a Layer 2 scaling engine that executes arbitrary Ethereum Virtual Machine bytecode off-chain, translating each opcode transition into an arithmetic circuit and generating a succinct zero-knowledge validity proof. Rather than re-executing transactions sequentially, the Ethereum Layer 1 network simply verifies a single mathematical proof, establishing validity for thousands of batched operations in milliseconds.
@@ -25,19 +26,19 @@ The native architecture of the EVM presents three massive hurdles for cryptograp
 
 ### 1. 256-Bit Word Sizes and Arithmetic Mismatch
 
-The EVM operates with native 256-bit word registers to facilitate cryptographic hashing and address arithmetic. However, standard zero-knowledge proof systems operate over finite fields whose prime moduli are around 254 bits (like the scalar field of BN254) or 64 bits (like Goldilocks in Polygon Plonky2). 
+The EVM operates with native 256-bit word registers to facilitate cryptographic hashing and address arithmetic. However, standard zero-knowledge proof systems operate over finite fields whose prime moduli are around 254 bits (like the scalar field of BN254) or 64 bits (like Goldilocks in Polygon Plonky2).
 
 Simulating a 256-bit integer addition with carry bits or executing a bitwise XOR opcode over a 254-bit field requires decomposing each 256-bit word into multiple smaller 16-bit or 32-bit limbs. A single 256-bit multiplication can explode into dozens of arithmetic constraints, expanding the prover's computational burden by orders of magnitude.
 
 ### 2. Complex Keccak-256 Hashing and Merkle Patricia Tries
 
-Ethereum verifies world state, storage slots, and transaction receipts using Merkle Patricia Tries structured with Keccak-256 (SHA-3) hashing. Keccak is heavily optimized for hardware execution, relying on bitwise rotations, ANDs, and XORs. 
+Ethereum verifies world state, storage slots, and transaction receipts using Merkle Patricia Tries structured with Keccak-256 (SHA-3) hashing. Keccak is heavily optimized for hardware execution, relying on bitwise rotations, ANDs, and XORs.
 
 In arithmetic circuits, bitwise operations are notoriously expensive. Computing a single Keccak-256 hash inside a circuit requires approximately 150,000 arithmetic constraints. In contrast, algebraic hash functions designed specifically for zero-knowledge systems, such as the [Poseidon Hash Function](https://eprint.iacr.org/2019/458), require fewer than 300 constraints for equivalent security.
 
 ### 3. Dynamic Memory Expansion and Stack Depth
 
-In the EVM, volatile memory expands dynamically, with gas costs scaling quadratically according to execution formulas specified by the [Ethereum Foundation](https://ethereum.org). Opcodes like `MLOAD`, `MSTORE`, and `MSTORE8` operate on byte-level offsets, while storage opcodes like `SSTORE` and `SLOAD` read from a 2^256 address space. 
+In the EVM, volatile memory expands dynamically, with gas costs scaling quadratically according to execution formulas specified by the [Ethereum Foundation](https://ethereum.org). Opcodes like `MLOAD`, `MSTORE`, and `MSTORE8` operate on byte-level offsets, while storage opcodes like `SSTORE` and `SLOAD` read from a 2^256 address space.
 
 Proving that a read operation in step 5,000 accurately reflects the state written in step 12 requires maintaining dynamic permutation arguments and memory lookup arguments (such as Plookup or multiset equality checks), placing severe memory demands on prover servers.
 
@@ -45,32 +46,10 @@ Proving that a read operation in step 5,000 accurately reflects the state writte
 
 To transform thousands of raw transactions into a single verification transaction on Ethereum Layer 1, a zkEVM executes a rigorous, multi-stage mathematical pipeline:
 
-```
-+-------------------------------------------------------------------------+
-|                      zkEVM Prover Execution Flow                        |
-+-------------------------------------------------------------------------+
-|  1. Layer 2 Sequencer batches user transactions & executes EVM bytecode |
-|                                |                                        |
-|                                v                                        |
-|  2. Execution Trace Generation (Records registers, memory, & opcodes)   |
-|                                |                                        |
-|                                v                                        |
-|  3. Arithmetization: Converts trace into polynomial constraints (AIR)   |
-|                                |                                        |
-|                                v                                        |
-|  4. Polynomial Commitment Scheme: KZG commitments or FRI evaluation    |
-|                                |                                        |
-|                                v                                        |
-|  5. Proof Compression: STARK-to-SNARK recursion down to 300-byte proof  |
-|                                |                                        |
-|                                v                                        |
-|  6. L1 On-Chain Verifier checks cryptographic proof & updates state    |
-+-------------------------------------------------------------------------+
-```
 
 ### Stage 1: Execution Trace Generation
 
-The Layer 2 sequencer ingests signed transactions from users, executes them sequentially using an execution engine like [Scroll](https://scroll.io) or [Linea by Consensys](https://linea.build), and emits an execution trace. 
+The Layer 2 sequencer ingests signed transactions from users, executes them sequentially using an execution engine like [Scroll](https://scroll.io) or [Linea by Consensys](https://linea.build), and emits an execution trace.
 
 The trace is a massive matrix where each row represents a discrete computational clock cycle and each column tracks a specific state variable: program counter, stack pointer, opcode identifier, gas remaining, and intermediate limb values. A single complex block can generate traces with tens of millions of rows.
 
@@ -104,16 +83,6 @@ The rollup sequencer submits this compressed proof alongside compressed state di
 
 Not all zkEVMs are architected equally. In his landmark analysis, Ethereum co-founder Vitalik Buterin established a taxonomy categorizing zkEVM architectures based on their adherence to the original Ethereum protocol:
 
-```
-+----------------------------------------------------------------------+
-|                     zkEVM Classification Matrix                      |
-+----------------------------------------------------------------------+
-| Type 1: Fully Ethereum-equivalent (Taiko, PSE, Zeth)                 |
-| Type 2: Fully EVM-equivalent (Scroll, Linea, Polygon zkEVM)          |
-| Type 3: Almost EVM-equivalent (Kakarot, Transitional stages)         |
-| Type 4: High-level language equivalent (ZKsync Era, Starknet)        |
-+----------------------------------------------------------------------+
-```
 
 ### Type 1: Fully Ethereum-Equivalent
 
@@ -153,9 +122,9 @@ To understand how high-throughput zkEVMs like Scroll and Linea function in produ
 
 In classical R1CS (Rank-1 Constraint Systems) utilized by systems like [Circom](https://docs.circom.io), every constraint is restricted to the bilinear form:
 
-$$\langle A, w 
-angle \cdot \langle B, w 
-angle = \langle C, w 
+$$\langle A, w
+angle \cdot \langle B, w
+angle = \langle C, w
 angle$$
 
 While R1CS is computationally efficient for simple hash functions, it requires millions of auxiliary variables to represent complex EVM opcode logic. Plonkish arithmetization introduces a flexible matrix grid consisting of three distinct column types:
@@ -184,21 +153,12 @@ Real-time telemetry and price oracle integration with networks like [Chainlink D
 
 ## Impact of EIP-4844 and the Data Availability Revolution
 
-Historically, the dominant operating expense for zkEVM rollups was not proof generation; it was data availability publication costs on Ethereum Layer 1. 
+Historically, the dominant operating expense for zkEVM rollups was not proof generation; it was data availability publication costs on Ethereum Layer 1.
 
 To ensure anyone can reconstruct state if a sequencer goes offline, rollups must publish transaction input calldata or state diffs to Ethereum mainnet. Prior to the Dencun upgrade, publishing calldata competed directly with regular user transactions, costing up to sixteen gas units per byte.
 
 The implementation of [EIP-4844](https://eips.ethereum.org/EIPS/eip-4844) introduced temporary data storage units known as Blobs. Blobs carry 128 kilobytes of data that persist on Ethereum consensus nodes for approximately eighteen days before being pruned. Rollups reference blobs using [KZG Commitments](https://vitalik.eth.limo/general/2021/01/26/snarks.html), slashing rollup transaction fees by over ninety percent across [Arbitrum Docs](https://docs.arbitrum.io), [Optimism](https://optimism.io), and [Base](https://docs.base.org).
 
-```
-+-------------------------------------------------------------------------+
-|                  EIP-4844 Data Availability Cost Reduction              |
-+-------------------------------------------------------------------------+
-|  Legacy Calldata: 16 gas / byte (Competes with regular L1 execution)    |
-|  Post-4844 Blobs: Independent blob gas market (Pruned after 18 days)   |
-|  Result: 90%+ fee reduction for Layer 2 transactions                   |
-+-------------------------------------------------------------------------+
-```
 
 Data analysis compiled on [Dune Analytics](https://dune.com) reveals that post-4844 blob adoption has driven average decentralized exchange swap costs on zkEVMs below two cents, making on-chain interactions accessible to global retail users.
 
@@ -206,7 +166,7 @@ Data analysis compiled on [Dune Analytics](https://dune.com) reveals that post-4
 
 The final frontier of zkEVM production engineering is hardware acceleration. In software, computing Fast Fourier Transforms and Multi-Scalar Multiplications across matrices with millions of elements requires immense CPU parallelization.
 
-Prover infrastructure teams, including engineers at [SP1 by Succinct](https://succinct.xyz) and [RISC Zero](https://risczero.com), construct specialized prover farms utilizing high-end data center GPUs (such as NVIDIA H100s and A100s) programmed with CUDA and Metal. 
+Prover infrastructure teams, including engineers at [SP1 by Succinct](https://succinct.xyz) and [RISC Zero](https://risczero.com), construct specialized prover farms utilizing high-end data center GPUs (such as NVIDIA H100s and A100s) programmed with CUDA and Metal.
 
 Hardware firms are developing dedicated Zero-Knowledge Application-Specific Integrated Circuits (ZK-ASICs). Custom silicon hard-wires finite field modular multipliers and polynomial pipelines directly into silicon gates, achieving proof generation speeds up to one hundred times faster than general-purpose GPUs while consuming eighty percent less electrical power.
 

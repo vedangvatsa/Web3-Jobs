@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the transparent yet pseudonymous world of the [blockchain](/what-is-a-blockchain), a new type of digital detective has emerged: the **[Web3](/what-is-web3) Forensics Expert**, also known as an
 
 **On-Chain Investigator**. These professionals trace the flow of illicit funds, identify hackers, and enhance accountability within the decentralized economy.
@@ -49,7 +50,7 @@ Proficiency in using block explorers like Etherscan is fundamental. Investigator
 
 Familiarity with tools such as
 
-**Chainalysis **,** TRM Labs **,** Elliptic**, and
+**Chainalysis**,**TRM Labs**,**Elliptic**, and
 
 **Nansen** is vital. These platforms offer advanced heuristics and labeling to track funds through mixers and complex transactions, maintaining databases of known addresses, including exchange wallets and hacker addresses.
 

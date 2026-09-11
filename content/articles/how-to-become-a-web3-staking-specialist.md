@@ -11,6 +11,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A Web3 Staking Specialist keeps proof-of-stake networks secure and earning. You run validator infrastructure, build liquid staking products, or operate staking platforms that other people use. This guide explains what the work actually involves, who it suits, and how to build the skills with verifiable steps.
 
 ## What is a Web3 Staking Specialist
@@ -117,9 +118,11 @@ You build the hosted product that non-technical holders use.
 
 Use these steps in order. Each one creates an artifact you can show to employers.
 
-**1. Learn the fundamentals from primary docs
 
-**Read the official staking and proof-of-stake pages on ethereum.org, then pick one more network to compare. The [Cosmos SDK staking and slashing modules](https://docs.cosmos.network/main/modules/staking) show how delegation shares, unbonding, and tombstoning work with different parameters. Take notes on attestation, proposal, finality with checkpoints, and the two main slashing conditions. Write a one-page comparison of Ethereum and one Cosmos chain that you can hand to an interviewer.** 2. Run a validator on the right testnet**
+
+### 1. Learn the fundamentals from primary docs
+
+Read the official staking and proof-of-stake pages on ethereum.org, then pick one more network to compare. The [Cosmos SDK staking and slashing modules](https://docs.cosmos.network/main/modules/staking) show how delegation shares, unbonding, and tombstoning work with different parameters. Take notes on attestation, proposal, finality with checkpoints, and the two main slashing conditions. Write a one-page comparison of Ethereum and one Cosmos chain that you can hand to an interviewer.**2. Run a validator on the right testnet**
 
 Do not use Holesky. The [Holesky testnet was deprecated in September 2025](https://blog.ethereum.org/2025/03/18/hoodi-holesky) after the Pectra rollout and is no longer maintained. For validator and staking work, use Hoodi, launched in March 2025 to replace Holesky. Hoodi activated Pectra at epoch 2048 on March 26, 2025, and is supported until September 2028. Use Sepolia only for application development. Ephemery resets every 28 days and is useful for short lifecycle tests.
 
@@ -146,19 +149,25 @@ Note how each token behaves in a wallet, an explorer, and a lending app. That no
 
 Put each project in a public repo with a README that shows choices and trade-offs, not just happy-path screenshots.
 
-**5. Talk to hiring teams with specifics
 
-**In applications, state which networks, clients, and LSTs you have actually run, with hashes and block explorers. Name the testnet you used, the clients you ran, your skip or attestation rate, and how you handled the last client release. Hiring teams for this role value proven attention to upgrade windows and key handling more than generic DeFi knowledge.
+
+### 5. Talk to hiring teams with specifics
+
+In applications, state which networks, clients, and LSTs you have actually run, with hashes and block explorers. Name the testnet you used, the clients you ran, your skip or attestation rate, and how you handled the last client release. Hiring teams for this role value proven attention to upgrade windows and key handling more than generic DeFi knowledge.
 
 See also: [Mastering Web3 essential skills](/mastering-web3-essential-skills) and [Building a Web3 portfolio](/building-web3-portfolio).
 
 ## FAQ
 
-**Do I need 32 ETH to work in staking
 
-**No. You need 32 ETH to activate a full Ethereum validator under your own keys, and that validator can now hold up to 2,048 ETH. You can still work in staking without that capital by running on Hoodi with test ETH, by operating a bonded minipool on Rocket Pool with about 4 ETH, or by building on pooled and liquid protocols that accept as little as 0.01 ETH per user.** Is Holesky still the right testnet for validator practice
 
-**No. Holesky is deprecated and no longer supported by client teams. Use Hoodi for validator and staking provider work and Sepolia for application testing. Check the Ethereum Foundation blog post from March 18, 2025 and the September 1, 2025 shutdown notice for the timeline and purpose of each testnet.** What is the difference between stETH, wstETH, and rETH**stETH from Lido is rebasing, your balance grows daily and 1 stETH aims to equal 1 ETH plus rewards. wstETH is the wrapped, non-rebasing version where your balance stays fixed and the redemption value rises. rETH from Rocket Pool is also non-rebasing and works by exchange-rate appreciation. DeFi apps often prefer wstETH or rETH because balances do not change unexpectedly.
+### Do I need 32 ETH to work in staking?
+
+No. You need 32 ETH to activate a full Ethereum validator under your own keys, and that validator can now hold up to 2,048 ETH. You can still work in staking without that capital by running on Hoodi with test ETH, by operating a bonded minipool on Rocket Pool with about 4 ETH, or by building on pooled and liquid protocols that accept as little as 0.01 ETH per user.
+
+### Is Holesky still the right testnet for validator practice?
+
+No. Holesky is deprecated and no longer supported by client teams. Use Hoodi for validator and staking provider work and Sepolia for application testing. Check the Ethereum Foundation blog post from March 18, 2025 and the September 1, 2025 shutdown notice for the timeline and purpose of each testnet.**What is the difference between stETH, wstETH, and rETH**stETH from Lido is rebasing, your balance grows daily and 1 stETH aims to equal 1 ETH plus rewards. wstETH is the wrapped, non-rebasing version where your balance stays fixed and the redemption value rises. rETH from Rocket Pool is also non-rebasing and works by exchange-rate appreciation. DeFi apps often prefer wstETH or rETH because balances do not change unexpectedly.
 
 **What causes slashing, and how common is it** On Ethereum, provable double proposal or double attestation triggers slashing. On Cosmos SDK chains, double-sign and extended downtime trigger slashing and jailing. Well-run operators see zero slashing for long periods because the causes are preventable with key isolation, single active signer guarantees, and upgrade discipline. Correlation penalties mean that when many validators are slashed together, each loses more, so client diversity matters.
 

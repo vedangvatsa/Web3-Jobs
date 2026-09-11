@@ -116,9 +116,9 @@ $$\text{Contract Address} = \text{keccak256}(\text{rlp.encode}([\text{deployerAd
 
 Understanding cryptographic nonces, execution memory models, and state synchronization is essential across core software engineering roles:
 
-- **Core Protocol Engineer:** Building node software, consensus clients, and mining pool engines in Go, Rust, or C++ ($160,000 – $300,000).
-- **Smart Contract Security Auditor:** Analyzing transaction replay vulnerabilities, out-of-order execution bugs, and proxy deployment logic ($150,000 – $280,000).
-- **Blockchain RPC Infrastructure Engineer:** Managing high-throughput node clusters, mempool transaction queues, and nonce management services for exchanges and wallets ($140,000 – $240,000).
+- **Core Protocol Engineer:** Building node software, consensus clients, and mining pool engines in Go, Rust, or C++ ($160,000 - $300,000).
+- **Smart Contract Security Auditor:** Analyzing transaction replay vulnerabilities, out-of-order execution bugs, and proxy deployment logic ($150,000 - $280,000).
+- **Blockchain RPC Infrastructure Engineer:** Managing high-throughput node clusters, mempool transaction queues, and nonce management services for exchanges and wallets ($140,000 - $240,000).
 
 ## Explore Core Blockchain & Engineering Roles
 

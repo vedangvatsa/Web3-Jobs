@@ -11,6 +11,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 An effective job description tells a qualified candidate what the work is, what success looks like, and whether they should apply. It is short enough to read on a phone and complete enough to use for screening, leveling, and pay decisions.
 
 This guide explains how that document works in 2026, who should use it, and how to write it for Web3 roles without slowing hiring or creating legal risk.
@@ -167,7 +168,7 @@ Most teams do best with a 350 to 500 word post that uses outcomes, split require
 Title: Solidity Engineer - Vaults, Remote, 4 hours EST overlap
 Location: Remote global, pay band disclosed in local equivalent
 Summary: You will own two ERC-4626 vault contracts for a lending protocol on Ethereum and Arbitrum. You will write Foundry tests with fuzz and invariant coverage, run fork tests, and ship with an external audit. Reporting to the CTO, with two engineers and a security reviewer.
-Responsibilities: 
+Responsibilities:
 - Ship vault contracts and deployment scripts with verified sources on Etherscan and a risk memo per release
 - Maintain coverage and add Slither to CI
 - Review teammate pull requests and document trade-offs
@@ -184,19 +185,27 @@ How to apply: Share resume, GitHub, contract addresses, and one paragraph on a v
 
 ## Common mistakes to avoid
 
-- **Inflating requirements.
+-
 
-**Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
-- **Hiding pay.
+### Inflating requirements
 
-**Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
-- **Writing long blocks of text.
+Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
+-
 
-**Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
+### Hiding pay
+
+Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
+-
+
+### Writing long blocks of text
+
+Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
 - **Clever titles.**"Crypto Ninja" may feel on brand but it is not searchable. Index.dev and Knowledgelib both flag discoverability losses above 50 percent.
-- **Copying another team's post.
+-
 
-**A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
+### Copying another team's post
+
+A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
 
 ## Limitations and trade-offs
 

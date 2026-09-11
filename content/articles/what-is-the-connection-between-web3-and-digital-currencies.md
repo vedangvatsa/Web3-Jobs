@@ -21,15 +21,6 @@ Without digital currencies, a decentralized internet cannot function. Traditiona
 
 To understand the connection between Web3 and digital currencies, one must distinguish between the technical architecture (Web3) and the economic unit of account (digital currencies).
 
-```
-+-------------------------------------------------------------------+
-|               Web3 Architecture vs Digital Currency Asset          |
-+-------------------------------------------------------------------+
-| Web3 Architecture: Smart contracts, P2P nodes, IPFS, EVM/Wasm     |
-| Digital Currency: Programmable money, tokenized property, gas     |
-| Symbiotic Union: Code executes rules; currency incentivizes nodes |
-+-------------------------------------------------------------------+
-```
 
 ### What is Web3?
 
@@ -92,16 +83,6 @@ Validators earn daily rewards paid natively in ETH for attesting to valid blocks
 
 In centralized cloud environments like AWS, developers pay monthly bills in fiat currency based on server uptime and bandwidth usage. In Web3, smart contract execution is distributed across thousands of independent nodes running the Ethereum Virtual Machine (EVM) or WebAssembly (Wasm) runtimes.
 
-```
-+-------------------------------------------------------------------+
-|                  EIP-1559 Gas Fee Breakdown                       |
-+-------------------------------------------------------------------+
-| Total Transaction Fee = Gas Units Used * (Base Fee + Priority Fee)|
-| Base Fee: Programmatically set by protocol and BURNED in ETH      |
-| Priority Fee (Tip): Paid directly to Validator proposing block    |
-| Economic Function: Metering, Spam Prevention & Deflationary Asset|
-+-------------------------------------------------------------------+
-```
 
 ### Why Gas Requirements Prevent Network Abuse
 
@@ -119,17 +100,6 @@ Digital currencies solve this via gas metering:
 
 In Web2, corporate decisions (such as platform feature updates, fee structures, and privacy policy modifications) are made behind closed doors by corporate boards of directors and executive officers. Web3 replaces centralized corporate hierarchies with Decentralized Autonomous Organizations (DAOs).
 
-```
-+-------------------------------------------------------------------+
-|                 DAO Governance Token Execution Flow               |
-+-------------------------------------------------------------------+
-| 1. Protocol Deployer issues ERC-20 Governance Token (UNI / AAVE)  |
-| 2. Tokens Distributed to Core Developers, Users & Treasury        |
-| 3. Community Member drafts On-Chain Improvement Proposal (EIP)    |
-| 4. Token Holders Vote Weight-Proportionally (1 Token = 1 Vote)    |
-| 5. Successful Proposal Automatically Executed via Timelock Contract|
-+-------------------------------------------------------------------+
-```
 
 ### Governance Tokens as Decoupled Capital Ownership
 
@@ -146,15 +116,6 @@ By binding platform control to digital currency tokens, Web3 aligns the incentiv
 
 While volatile cryptocurrencies (like BTC and ETH) serve as reserve assets and gas tokens, commercial Web3 applications require stable units of account for everyday commerce, international payroll, and DeFi lending contracts. This need led to the creation of fiat-backed stablecoins.
 
-```
-+-------------------------------------------------------------------+
-|               Traditional Settlement vs Web3 Stablecoins          |
-+-------------------------------------------------------------------+
-| Traditional Wire: SWIFT network, 3 to 5 business days, 3% to 5% fee|
-| Web3 Stablecoin: Blockchain settlement, 2 to 12 seconds, $0.01 fee|
-| Availability: Traditional banks 9 to 5 M-F vs Web3 24/7/365 global|
-+-------------------------------------------------------------------+
-```
 
 ### Architectural Categories of Stablecoins
 
@@ -169,16 +130,6 @@ Stablecoins allow a user in South America or Southeast Asia to receive instant c
 
 Fungible digital currencies (like BTC, ETH, or USDC) are interchangeable; one USDC is identical in value to another USDC. Conversely, Non-Fungible Tokens ([NFTs](/what-are-nfts)) represent unique, non-interchangeable digital currencies used to certify ownership of specific assets.
 
-```
-+-------------------------------------------------------------------+
-|                 NFT Use Cases in the Ownership Economy             |
-+-------------------------------------------------------------------+
-| 1. Digital Identity: ENS (.eth) domain names & Web3 handles       |
-| 2. Intellectual Property: Digital art, music, & gaming assets     |
-| 3. Real World Assets: Tokenized real estate deeds & securities     |
-| 4. Financial Positions: Uniswap V3 concentrated liquidity NFTs    |
-+-------------------------------------------------------------------+
-```
 
 ### Why NFTs are Digital Currencies of Title
 
@@ -192,16 +143,6 @@ In Web3, an NFT is an ERC-721 or ERC-1155 smart contract token registered perman
 
 The study of how digital currencies are designed, distributed, and monetized within Web3 protocols is called **Tokenomics** (token economics). Building a successful Web3 protocol requires balancing supply schedules, token utility, and demand sinks.
 
-```
-+-------------------------------------------------------------------+
-|               Core Components of Tokenomics Design                |
-+-------------------------------------------------------------------+
-| 1. Supply Dynamics: Max supply cap, emission rate, halving schedule|
-| 2. Value Accrual: Fee burns, revenue sharing, staking lockups     |
-| 3. Distribution Mechanics: Airdrops, developer vesting schedules |
-| 4. Utility Sinks: Governance voting, gas fees, collateral usage    |
-+-------------------------------------------------------------------+
-```
 
 ### Key Tokenomic Design Patterns
 
@@ -215,16 +156,6 @@ The study of how digital currencies are designed, distributed, and monetized wit
 
 The convergence of Web3 software engineering and quantitative digital currency economics has generated substantial demand for specialized professionals.
 
-```
-+-------------------------------------------------------------------+
-|               Web3 & Digital Currency Career Matrix               |
-+-------------------------------------------------------------------+
-| 1. Smart Contract & Tokenomics Engineers                           |
-| 2. Quantitative DeFi & Liquidity Strategists                       |
-| 3. Digital Asset Legal & Regulatory Compliance Counsel            |
-| 4. Blockchain Indexer & Cryptographic Data Engineers              |
-+-------------------------------------------------------------------+
-```
 
 ### 1. Smart Contract & Tokenomics Engineers
 

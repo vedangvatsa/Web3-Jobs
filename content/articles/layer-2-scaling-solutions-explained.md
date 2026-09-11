@@ -6,6 +6,7 @@ data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## What Layer 2 scaling is
 
 Layer 2 (L2) is a separate chain that runs on top of Ethereum. It executes transactions off chain, then posts the data back to Ethereum. Ethereum checks the data and holds the final state, so the L2 inherits Ethereum security while offering higher throughput and lower fees.
@@ -62,9 +63,11 @@ The Fusaka upgrade in December 2025 added PeerDAS, a more efficient way for vali
 Ethereum provides two guarantees for rollups:
 
 * **Data availability.** Batch data lives on Ethereum so anyone can re-derive the L2 chain. Without this, a challenger cannot build a fraud proof and a user cannot prove a withdrawal.
-* **Settlement.
+*
 
-**The bridge and proof contracts live on Ethereum. Final withdrawals and cross-chain messages are only safe once Ethereum accepts the rollup block that contains them.
+### Settlement
+
+The bridge and proof contracts live on Ethereum. Final withdrawals and cross-chain messages are only safe once Ethereum accepts the rollup block that contains them.
 
 ### What EIP-4844 changed
 
@@ -89,9 +92,11 @@ During the window, later blocks can build on an unconfirmed root, but they can b
 * **Bonds and watchers.** Validators must post a bond before they can assert. The security assumption is that at least one honest node is watching the data on Ethereum and is willing to pay gas to challenge. If no one watches, an invalid root can finalize.
 * **EVM fit.** Optimistic rollups keep high compatibility with the Ethereum Virtual Machine at the bytecode level. Most existing Solidity contracts port without changes and can use Hardhat, Foundry, and other familiar tools.
 * **Throughput.** Ethereum.org estimates optimistic rollups can offer up to 10 to 100 times throughput improvements by compression, with current live implementations often in the range of a few thousand transactions per second when batching is efficient. Your actual throughput depends on data compression and how much blob space is used alongside other traffic.
-* **Fees.
+*
 
-**Ethereum.org tracks current costs as about 5 to 20 times cheaper than L1 for rollups in general, with fees composed of L1 data publication (blob or calldata) plus L2 execution fees. Check a live fee tracker for the chain you plan to use, since blob base fees change per block.
+### Fees
+
+Ethereum.org tracks current costs as about 5 to 20 times cheaper than L1 for rollups in general, with fees composed of L1 data publication (blob or calldata) plus L2 execution fees. Check a live fee tracker for the chain you plan to use, since blob base fees change per block.
 
 ### Censorship handling
 
@@ -135,11 +140,11 @@ For recent network-level fees, Ethereum.org points to its networks page. As of l
 ## Pros and cons at a glance
 
 | Feature | Optimistic rollups | ZK-rollups |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | Validation method | Fraud proofs during a challenge window. State accepted unless a valid challenge proves fraud. | Validity proofs verified on L1 before state is accepted. |
@@ -161,47 +166,65 @@ A sidechain runs its own consensus and does not post data to Ethereum. A validiu
 * **Proof systems not yet fully open.** Even where fraud or validity proofs are live, the prover set is often small and upgrade keys are held by a multisig or security council that can pause the bridge. L2Beat stages reflect this. Stage 0 means the system still relies on operators, Stage 1 means proofs are live with some safeguards, Stage 2 is the goal of full decentralization.
 * **Cost volatility.** Blob space is limited. If many rollups compete for blobs, blob fees rise and your L2 fee changes from block to block.
 * **Proof and contract bugs.** Both fraud proof and validity proof code have had fixes. Review audit history and upgrade delays before you lock large value.
-* **Bridge assumptions.
+*
 
-**Keep custody logic on Ethereum when possible. Use the canonical bridge for large exits. Third party bridges that front funds on L1 are useful but add counterparty risk and fees.
+### Bridge assumptions
+
+Keep custody logic on Ethereum when possible. Use the canonical bridge for large exits. Third party bridges that front funds on L1 are useful but add counterparty risk and fees.
 
 ## How to get started
 
 ### If you are a user
 
-1. **Pick a rollup that matches your app.
+1. Pick a rollup that matches your app.
 
-**Use L2Beat and the project docs. For general DeFi and NFTs, Arbitrum One, OP Mainnet, or Base are common choices. For apps that need fast canonical withdrawals, look at zkSync Era or Starknet.
-2. **Add the network to your wallet.
+Use L2Beat and the project docs. For general DeFi and NFTs, Arbitrum One, OP Mainnet, or Base are common choices. For apps that need fast canonical withdrawals, look at zkSync Era or Starknet.
+2.
 
-**All of these L2s use Ethereum addresses. Add the RPC from the official docs or via a chain list. Fund it with a bridge. Start with a small test amount.
-3. **Track finality.
+### Add the network to your wallet
 
-**A fast confirmation from the sequencer is not L1 finality. For optimistic rollups, check the explorer for the batch posting time and the remaining challenge window. For ZK, check when the validity proof is verified.
-4. **Choose your bridge deliberately.
+All of these L2s use Ethereum addresses. Add the RPC from the official docs or via a chain list. Fund it with a bridge. Start with a small test amount.
+3.
 
-**Canonical bridges are secured by the L2 contracts on Ethereum. Third party bridges and aggregators are faster for optimistic withdrawals but add fees and separate risk. Do not put more through them than you can afford to wait on if they pause.
-5. **Watch blob fees.
+### Track finality
 
-**After Dencun, blob base fees are the key cost lever. Explorers show pending blobs per block. High demand can raise fees.
+A fast confirmation from the sequencer is not L1 finality. For optimistic rollups, check the explorer for the batch posting time and the remaining challenge window. For ZK, check when the validity proof is verified.
+4.
+
+### Choose your bridge deliberately
+
+Canonical bridges are secured by the L2 contracts on Ethereum. Third party bridges and aggregators are faster for optimistic withdrawals but add fees and separate risk. Do not put more through them than you can afford to wait on if they pause.
+5.
+
+### Watch blob fees
+
+After Dencun, blob base fees are the key cost lever. Explorers show pending blobs per block. High demand can raise fees.
 
 ### If you are a developer
 
-1. **Deploy as you would on Ethereum where equivalence is high.
+1. Deploy as you would on Ethereum where equivalence is high.
 
-**On Arbitrum and OP Stack chains you can usually deploy compiled Solidity with Hardhat or Foundry unchanged. Test gas and calldata use specifically, since the L2 charges an L1 data fee that reflects what you publish.
-2. **Adapt for ZK constraints.
+On Arbitrum and OP Stack chains you can usually deploy compiled Solidity with Hardhat or Foundry unchanged. Test gas and calldata use specifically, since the L2 charges an L1 data fee that reflects what you publish.
+2.
 
-**On zkSync, Scroll, Linea, or Taiko, run the project compiler and test suite. On Starknet you write in Cairo. Measure proof-related limits like maximum batch size and pubdata overhead.
-3. **Handle cross chain timing.
+### Adapt for ZK constraints
 
-**L1 to L2 messages take minutes. L2 to L1 messages from optimistic rollups take about a week via the canonical path. Do not build logic that assumes a synchronous call back.
-4. **Plan for sequencer downtime.
+On zkSync, Scroll, Linea, or Taiko, run the project compiler and test suite. On Starknet you write in Cairo. Measure proof-related limits like maximum batch size and pubdata overhead.
+3.
 
-**Add a UI path that submits through L1 if the sequencer does not include a transaction. Test force inclusion on testnet.
-5. **Audit bridge assumptions.
+### Handle cross chain timing
 
-**Keep high value exits on the canonical bridge. If you use a liquidity provider, bound your exposure.
+L1 to L2 messages take minutes. L2 to L1 messages from optimistic rollups take about a week via the canonical path. Do not build logic that assumes a synchronous call back.
+4.
+
+### Plan for sequencer downtime
+
+Add a UI path that submits through L1 if the sequencer does not include a transaction. Test force inclusion on testnet.
+5.
+
+### Audit bridge assumptions
+
+Keep high value exits on the canonical bridge. If you use a liquidity provider, bound your exposure.
 
 ## FAQ
 

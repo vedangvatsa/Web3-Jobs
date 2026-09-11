@@ -9,9 +9,10 @@ category: Industry Insights
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 How does a society determine its development priorities? Traditional funding mechanisms for public goods, such as parks, scientific research, and open-source software, face significant challenges. These goods are essential for societal welfare, yet they are non-excludable and non-rivalrous. The absence of a direct profit motive often leads to underfunding, relying heavily on government grants or philanthropy. These sources can be slow, bureaucratic, and influenced by a limited number of decision-makers.
 
-In contrast, [Web3](/what-is-web3) introduces new governance models that tackle these issues head-on. One of the standout solutions is **Quadratic Funding (QF) **. Developed by Vitalik Buterin, Zoe Hitzig, and Glen Weyl, QF amplifies community voices, ensuring that funding reflects collective preferences rather than the wealth of a few. This mechanism plays an important role in the**[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)** movement, presenting a new approach to making collective funding decisions. This article outlines how Quadratic Funding operates, its significance, and its real-world applications.
+In contrast, [Web3](/what-is-web3) introduces new governance models that tackle these issues head-on. One of the standout solutions is **Quadratic Funding (QF)**. Developed by Vitalik Buterin, Zoe Hitzig, and Glen Weyl, QF amplifies community voices, ensuring that funding reflects collective preferences rather than the wealth of a few. This mechanism plays an important role in the**[Web3 for Good](/web3-for-good-careers-in-social-impact-daos)** movement, presenting a new approach to making collective funding decisions. This article outlines how Quadratic Funding operates, its significance, and its real-world applications.
 
 ### The Limitations of Traditional Funding Models
 
@@ -48,7 +49,7 @@ Consider a matching pool of significant value:
 |
 
 **The Whale** | 1 | Significant amount | sqrt(100) = 10 | 10 * 10 = 100 | Significant amount | Significant total |
-| 
+|
 
 **The Community**| Many | Small contributions | 100 * sqrt(1) = 100 | 100 * 100 = 10,000 | Significant amount | Significant total |
 

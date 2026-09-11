@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Addis Ababa, the capital of Ethiopia, is poised for a technological transformation. As Africa's second-most populous nation, Ethiopia presents a significant market for digital innovation. The [Web3](/what-is-web3) ecosystem in Addis Ababa is in its early stages but shows potential, fueled by a youthful population, an increasing emphasis on tech education, and a demand for decentralized solutions in identity management, finance, and agriculture.
 
 The Web3 community in Addis Ababa features a grassroots environment filled with early adopters and innovators. The primary focus is on education and practical applications of [blockchain](/what-is-a-blockchain) technology to address real-world challenges. This guide offers an overview of the emerging [Web3 career](/web3-jobs-for-beginners) market in Addis Ababa, highlighting key trends, opportunities, and steps to establish yourself as a leader in this evolving field.
@@ -22,7 +23,7 @@ Although the Web3 ecosystem in Addis Ababa is still developing, it possesses sev
 --------------------------|
 
 ----------------------------------------------------------------------------------------------|
-| 
+|
 
 **Youth Population**| Ethiopia has one of the youngest demographics globally, eager to adopt new technologies. |
 |

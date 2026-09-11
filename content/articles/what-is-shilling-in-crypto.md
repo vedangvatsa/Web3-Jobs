@@ -106,9 +106,9 @@ Unlike traditional stock markets where order books and broker routing are opaque
 
 As institutional capital enters digital asset markets and regulatory oversight intensifies, demand for professionals who can identify market manipulation, audit token distribution, and enforce compliance is surging:
 
-- **On-Chain Forensic Analyst:** Investigating wallet clusters, tracking stolen or manipulated funds, and authoring investigative reports for intelligence firms like [Chainalysis](https://www.chainalysis.com/), Elliptic, and TRM Labs ($110,000 – $210,000).
-- **Crypto Compliance Officer:** Ensuring marketing activities, token listings, and promotional disclosures comply with SEC, FTC, and MiCA regulatory mandates ($130,000 – $250,000).
-- **Tokenomics & Risk Architect:** Designing sustainable token distribution models with programmatic lockups, linear vesting curves, and anti-dump mechanisms ($140,000 – $260,000).
+- **On-Chain Forensic Analyst:** Investigating wallet clusters, tracking stolen or manipulated funds, and authoring investigative reports for intelligence firms like [Chainalysis](https://www.chainalysis.com/), Elliptic, and TRM Labs ($110,000 - $210,000).
+- **Crypto Compliance Officer:** Ensuring marketing activities, token listings, and promotional disclosures comply with SEC, FTC, and MiCA regulatory mandates ($130,000 - $250,000).
+- **Tokenomics & Risk Architect:** Designing sustainable token distribution models with programmatic lockups, linear vesting curves, and anti-dump mechanisms ($140,000 - $260,000).
 
 ## Cultivating Rigorous Research Standards
 

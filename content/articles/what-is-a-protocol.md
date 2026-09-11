@@ -109,9 +109,9 @@ If any step in the multi-protocol sequence fails (e.g., if collateral ratios are
 
 Building, securing, and maintaining decentralized protocols requires specialized engineering talent:
 
-- **Protocol Engineer (Solidity / Rust / Go):** Writing gas-optimized core smart contracts, implementing tokenomics models, and building protocol upgrade handlers ($160,000 – $300,000).
-- **Protocol Architect:** Designing multi-contract system architectures, defining state variables, evaluating attack vectors, and authoring technical whitepapers ($180,000 – $350,000+).
-- **Tokenomics & Mechanism Designer:** Structuring token emissions, staking incentives, fee-capture mechanisms, and DAO governance rules using quantitative financial modeling ($140,000 – $250,000).
+- **Protocol Engineer (Solidity / Rust / Go):** Writing gas-optimized core smart contracts, implementing tokenomics models, and building protocol upgrade handlers ($160,000 - $300,000).
+- **Protocol Architect:** Designing multi-contract system architectures, defining state variables, evaluating attack vectors, and authoring technical whitepapers ($180,000 - $350,000+).
+- **Tokenomics & Mechanism Designer:** Structuring token emissions, staking incentives, fee-capture mechanisms, and DAO governance rules using quantitative financial modeling ($140,000 - $250,000).
 
 ## The Long-Term Shift to Protocol-Driven Infrastructure
 

@@ -8,6 +8,7 @@ publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 slug: rust-for-blockchain-explained
 ---
+
 Distributed consensus networks operate under computational constraints that punish runtime inefficiency and memory instability. In centralized cloud environments, an unhandled memory exception or intermittent garbage collection pause manifests as temporary tail-latency degradation. In decentralized blockchain infrastructure, a ten-millisecond stop-the-world garbage collection pause can cause a validator node to miss its block proposal slot, triggering consensus slashing penalties. A single concurrency data race can result in non-deterministic state divergence across validator nodes, splitting a global blockchain network into competing forks.
 
 Over the past decade, the [Rust Programming Language](https://www.rust-lang.org) has emerged as the premier systems language for mission-critical Web3 infrastructure. From execution clients and consensus engines to parallel smart contract virtual machines and zero-knowledge cryptographic provers, Rust provides memory safety, thread safety, and predictable execution without a runtime garbage collector.
@@ -82,22 +83,6 @@ In the multi-chain ecosystem, the [Substrate Developer Hub](https://docs.substra
 
 The runtime compiles directly to WebAssembly (Wasm) using Rust compilation targets, enabling on-chain forkless runtime upgrades. Validators can update protocol transaction rules, token mechanics, and governance parameters without requiring coordinated node operator hard forks.
 
-```
-+-------------------------------------------------------------------------+
-|                      Reth Execution Architecture                        |
-+-------------------------------------------------------------------------+
-|  P2P Gossip Network (Rust libp2p, Discv4 / Discv5 discovery)            |
-|                                |                                        |
-|                                v                                        |
-|  Staged Execution Pipeline (Headers -> Bodies -> Execution -> State)    |
-|                                |                                        |
-|                                v                                        |
-|  Revm Interpreter (In-memory EVM execution, zero-heap allocations)      |
-|                                |                                        |
-|                                v                                        |
-|  MDBX Storage Layer (Direct memory-mapped I/O, zero GC overhead)        |
-+-------------------------------------------------------------------------+
-```
 
 ## Smart Contract Virtual Machines: Solana Sealevel and Anchor
 
@@ -171,25 +156,6 @@ Rust is the undisputed language of zero-knowledge infrastructure:
 
 2. Cryptographic Circuit Libraries: Frameworks like [Arkworks](https://arkworks.rs), [Halo2 by Zcash](https://zcash.github.io/halo2/), and [Winterfell](https://github.com/facebook/winterfell) provide modular Rust building blocks for constructing custom cryptographic circuits and polynomial commitment schemes.
 
-```
-+-------------------------------------------------------------------------+
-|                  Zero-Knowledge Prover Pipeline in Rust                 |
-+-------------------------------------------------------------------------+
-|  Source Computation (Standard Rust application code)                   |
-|                                |                                        |
-|                                v                                        |
-|  zkVM Compiler (Compiles to RISC-V intermediate target)                 |
-|                                |                                        |
-|                                v                                        |
-|  Execution Trace Generation (Memory, registers, cycle states)           |
-|                                |                                        |
-|                                v                                        |
-|  Polynomial Arithmetization & MSM (Arkworks / Halo2 GPU accelerated)    |
-|                                |                                        |
-|                                v                                        |
-|  Cryptographic Proof (Succinct zk-SNARK proof verified on-chain)        |
-+-------------------------------------------------------------------------+
-```
 
 Rust's ability to interface directly with low-level CUDA, Vulkan, and Metal GPU acceleration drivers while preserving strict type safety makes it uniquely suited for scaling prover infrastructure.
 
@@ -201,7 +167,7 @@ Understanding smart contract development in Rust requires mastering the executio
 
 Because Solana programs are stateless, they cannot possess private cryptographic keys. To allow programs to sign transactions, own liquidity vaults, or authorize token mints autonomously, the runtime utilizes Program Derived Addresses (PDAs).
 
-A PDA is an address derived deterministically using a collection of user-defined seeds and the program's unique ID. The runtime iterates through a descending nonce (bump seed, from 255 down to 0) until it finds a 32-byte hash that falls off the ed25519 elliptic curve. Because the address lacks a corresponding private key, no external actor can forge signatures for it. 
+A PDA is an address derived deterministically using a collection of user-defined seeds and the program's unique ID. The runtime iterates through a descending nonce (bump seed, from 255 down to 0) until it finds a 32-byte hash that falls off the ed25519 elliptic curve. Because the address lacks a corresponding private key, no external actor can forge signatures for it.
 
 Only the program whose ID was used to derive the address can sign for it during runtime execution via the `invoke_signed` syscall.
 

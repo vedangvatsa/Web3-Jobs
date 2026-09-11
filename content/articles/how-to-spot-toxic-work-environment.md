@@ -9,6 +9,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A toxic work environment can severely impact your mental health and career trajectory. Although some aspects of toxicity are visible, many signs remain hidden beneath an organization's polished exterior. A company may present a strong public image while harboring a dysfunctional internal culture. Recognizing the warning signs of a toxic workplace is essential for safeguarding your well-being and professional advancement.
 
 Toxicity manifests in various ways, from overt bullying to more insidious passive-aggressive behaviors. Poor leadership, ineffective communication, and a results-at-all-costs mentality often contribute to this unhealthy atmosphere. Below are key indicators to help you identify a toxic work environment.
@@ -17,7 +18,7 @@ Toxicity manifests in various ways, from overt bullying to more insidious passiv
 
 Poor communication is a hallmark of toxicity. Here are some patterns to identify:
 
-| 
+|
 
 **Indicator**|
 

@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 In the transparent world of blockchains, every action, transaction, and interaction creates a permanent, public data point. This shift has given rise to on-chain analysis, where the role of the [Web3](/what-is-web3) Data Analyst emerges as a blend of data scientist, archaeologist, and detective.
 
 Unlike traditional data analysts who work with private data, Web3 analysts operate within the open and shared databases of blockchains. They analyze public data to uncover trends, assess user behavior, monitor protocol performance, and generate insights that inform a project's strategy. This role is intellectually stimulating and in high demand within the Web3 ecosystem.
@@ -52,7 +53,7 @@ A PhD in data science is not a prerequisite for this career. Mastering the right
 
 An effective Web3 data analyst combines technical skills with strategic insight.
 
-- **SQL Mastery:** Analysts must write complex queries, including joins, window functions, and common table expressions (CTEs). 
+- **SQL Mastery:** Analysts must write complex queries, including joins, window functions, and common table expressions (CTEs).
 
 - **Data Visualization & Storytelling:** Analysts transform raw data into charts and graphs that convey clear narratives. Their goal is to provide actionable insights rather than just presenting data.
 

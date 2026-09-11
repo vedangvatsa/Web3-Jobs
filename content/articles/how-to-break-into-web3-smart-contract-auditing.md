@@ -159,9 +159,9 @@ Once you consistently land high-severity findings in competitive contests, trans
 
 Empirical compensation data across Web3 security firms and bug bounty leaderboards highlights the high premium placed on elite security talent:
 
-- **Junior Security Researchers (Contest Competitors):** $50,000 – $100,000 annually through competitive audit leaderboard payouts and entry-level security firm salaries.
-- **Senior Smart Contract Auditors (Audit Firms):** $150,000 – $300,000 base salary plus performance bonuses at established security firms like OpenZeppelin, Spearbit, Trail of Bits, or Zellic.
-- **Independent Bug Hunters & Protocol Security Leads:** $200,000 – $500,000+ per year for top-tier researchers combining private client retainers with Immunefi critical bug bounties.
+- **Junior Security Researchers (Contest Competitors):** $50,000 - $100,000 annually through competitive audit leaderboard payouts and entry-level security firm salaries.
+- **Senior Smart Contract Auditors (Audit Firms):** $150,000 - $300,000 base salary plus performance bonuses at established security firms like OpenZeppelin, Spearbit, Trail of Bits, or Zellic.
+- **Independent Bug Hunters & Protocol Security Leads:** $200,000 - $500,000+ per year for top-tier researchers combining private client retainers with Immunefi critical bug bounties.
 
 The demand for smart contract auditing continues to expand as decentralized protocols integrate complex primitives like account abstraction (ERC-4337), zero-knowledge rollups, cross-chain messaging bridges, and AI-driven automated market makers. By combining low-level EVM knowledge, static and dynamic analysis tools, invariant testing, and public proof of work in audit contests, security researchers can establish a sustainable, highly lucrative career safeguarding the decentralized financial stack.
 

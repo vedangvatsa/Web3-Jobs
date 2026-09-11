@@ -9,17 +9,20 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Solana is a Layer 1, open source blockchain that is built for fast and low-cost transactions. It went live as a mainnet beta on March 16, 2020, and was developed by Solana Labs, the San Francisco company founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald after Yakovenko's 2017 whitepaper on Proof-of-History.
 
 Unlike chains that trade speed for cost, Solana tries to keep both low at the same time. That makes it popular for uses where waiting a few seconds or paying a few dollars breaks the product, such as trading, payments, games, and consumer apps.
 
 ## Who Solana is for
 
-**Traders and payments teams.
 
-**If your product needs real-time settlement or frequent small transfers, Solana's sub-second processing and fees measured in fractions of a cent matter. Decentralized exchanges, cross-border payments, and merchant checkout are common examples. Visa now settles USDC on Solana, and Solana Pay is built for point-of-sale use.** Developers who hit limits on other Layer 1s.
 
-**Solana runs a different execution model. If you need parallel processing or want to write programs in Rust rather than Solidity, you get a distinct set of trade-offs. You will not get EVM compatibility by default, so you are choosing a separate ecosystem.** Users who want low fees for NFTs, gaming, and daily use.** Minting, trading, and in-game actions cost cents, not dollars. That lowers the barrier for first-time Web3 users, but it assumes you are comfortable with a newer wallet flow and non-reversible transactions.
+### Traders and payments teams
+
+If your product needs real-time settlement or frequent small transfers, Solana's sub-second processing and fees measured in fractions of a cent matter. Decentralized exchanges, cross-border payments, and merchant checkout are common examples. Visa now settles USDC on Solana, and Solana Pay is built for point-of-sale use. Developers who hit limits on other Layer 1s.
+
+Solana runs a different execution model. If you need parallel processing or want to write programs in Rust rather than Solidity, you get a distinct set of trade-offs. You will not get EVM compatibility by default, so you are choosing a separate ecosystem.**Users who want low fees for NFTs, gaming, and daily use.** Minting, trading, and in-game actions cost cents, not dollars. That lowers the barrier for first-time Web3 users, but it assumes you are comfortable with a newer wallet flow and non-reversible transactions.
 
 Solana is not a fit if you need the most decentralized validator set with minimal hardware, or if you need EVM tooling without changes. Ethereum and its Layer 2s still have broader client diversity and older tooling.
 
@@ -101,31 +104,41 @@ Theoretical throughput is up to 65,000 transactions per second, a figure from So
 
 * **Learning curve.** Rust is harder than Solidity for many web developers. The account and program model also requires new mental models for state, rent, and compute limits.
 
-* **Fee model complexity.
+*
 
-**Prioritization fees are not always intuitive. Setting a compute unit price too low can delay landing during contested writes, while setting the limit too high charges for unused compute.
+### Fee model complexity
+
+Prioritization fees are not always intuitive. Setting a compute unit price too low can delay landing during contested writes, while setting the limit too high charges for unused compute.
 
 ## How to get started with Solana
 
-1. **Install a wallet.
+1.
 
-**Phantom and Solflare are common choices. Write down the seed phrase offline. Test with a small amount before moving larger sums.
+### Install a wallet
 
-2. **Get a little SOL.
+Phantom and Solflare are common choices. Write down the seed phrase offline. Test with a small amount before moving larger sums.
 
-**You need SOL for fees, even when you send USDC or other SPL tokens. Less than one dollar covers hundreds of base-fee transactions. Acquire SOL on an exchange and send it to your wallet address, and double-check the address before confirming.
+2.
 
-3. **Try a simple transaction.
+### Get a little SOL
 
-**Send a small amount to a second address you control or to a friend. Watch the confirmation on an explorer such as Solana Explorer or Solscan. Note the fee breakdown between base and priority.
+You need SOL for fees, even when you send USDC or other SPL tokens. Less than one dollar covers hundreds of base-fee transactions. Acquire SOL on an exchange and send it to your wallet address, and double-check the address before confirming.
 
-4. **Stake if you want to help secure the network.
+3.
 
-**You can stake from most wallets to a validator. Compare commission, uptime, and stake concentration. Rewards vary with network conditions and validator performance. Unstaking has a cooldown tied to epochs, which last about two days.
+### Try a simple transaction
 
-5. **Build if you are a developer.
+Send a small amount to a second address you control or to a friend. Watch the confirmation on an explorer such as Solana Explorer or Solscan. Note the fee breakdown between base and priority.
 
-**Install Rust, the Solana CLI, Solana Tool Suite, and Anchor via AVM. Start with the quickstart at solana.com/docs/intro and then work through an Anchor counter or token program. Use devnet first. Fund devnet with airdropped SOL and test before using real funds.
+4. Stake if you want to help secure the network.
+
+You can stake from most wallets to a validator. Compare commission, uptime, and stake concentration. Rewards vary with network conditions and validator performance. Unstaking has a cooldown tied to epochs, which last about two days.
+
+5.
+
+### Build if you are a developer
+
+Install Rust, the Solana CLI, Solana Tool Suite, and Anchor via AVM. Start with the quickstart at solana.com/docs/intro and then work through an Anchor counter or token program. Use devnet first. Fund devnet with airdropped SOL and test before using real funds.
 
 ## FAQ
 

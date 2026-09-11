@@ -12,6 +12,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A Web3 writer turns protocol code and product logic into clear prose that helps people build and use on-chain products without losing funds. The work directly affects developer adoption, support volume, and trust.
 
 Two tracks exist. A technical writer owns docs-as-code: developer docs, API references, tutorials, and internal runbooks that ship via Git. A content writer owns educational and lifecycle content: blogs, long-form explainers, newsletters, campaign copy, and social threads. Many teams hire both, and skills overlap. This guide covers both, with extra depth on the technical track because it has clearer toolchain requirements and higher pay bands.
@@ -51,18 +52,26 @@ Most Web3 docs teams use a docs-as-code workflow. Docs are Markdown or MDX files
 
 A typical week includes:
 
-- **Interview and test.
+-
 
-**Meet with engineers, read the Solidity or TypeScript source, run the product on a testnet, note gaps.
-- **Draft and code sample.
+### Interview and test
 
-**Write the task-based flow and a minimal, runnable example. For Ethereum, that often means JavaScript or TypeScript with viem or ethers.js. The Ethereum docs page on JavaScript API libraries recommends viem or ethers.js for new projects. For Solidity, you read the contract ABI and NatSpec comments and turn them into human steps. The Solidity docs at docs.soliditylang.org are the reference for language details.
-- **Review and ship.
+Meet with engineers, read the Solidity or TypeScript source, run the product on a testnet, note gaps.
+-
 
-**Open a pull request, add screenshots or diagrams, address engineer feedback, pass Vale or similar style checks, merge, and verify the deployed site.
-- **Maintain.
+### Draft and code sample
 
-**Update versioned docs when the protocol releases a new version, keep OpenAPI specs and SDK references in sync, and file issues for errors you see in the wild.** Where you collaborate:**engineering, product, developer relations, design for diagrams, support for frequent questions, and sometimes the founding team for whitepapers.
+Write the task-based flow and a minimal, runnable example. For Ethereum, that often means JavaScript or TypeScript with viem or ethers.js. The Ethereum docs page on JavaScript API libraries recommends viem or ethers.js for new projects. For Solidity, you read the contract ABI and NatSpec comments and turn them into human steps. The Solidity docs at docs.soliditylang.org are the reference for language details.
+-
+
+### Review and ship
+
+Open a pull request, add screenshots or diagrams, address engineer feedback, pass Vale or similar style checks, merge, and verify the deployed site.
+-
+
+### Maintain
+
+Update versioned docs when the protocol releases a new version, keep OpenAPI specs and SDK references in sync, and file issues for errors you see in the wild.**Where you collaborate:**engineering, product, developer relations, design for diagrams, support for frequent questions, and sometimes the founding team for whitepapers.
 
 **Concrete example of current expectations:** Chainlink Labs posted a Documentation Engineer role on July 21, 2026 that defines the work as owning developer docs, validating workflows end to end, and maintaining accurate integration guides. Requirements listed are Markdown, Git and pull requests, ability to read and modify JavaScript or TypeScript samples, foundational understanding of blockchain and smart contracts, and hands-on familiarity with Solidity or EVM development at the level of deploying a basic contract on a testnet. Preferred experience includes a static-site framework such as Docusaurus, Astro, or Fumadocs, plus OpenAPI or Swagger and troubleshooting of code examples. That posting mirrors listings from Alchemy, Infura, The Graph, and Polygon Labs.
 
@@ -75,13 +84,19 @@ A typical week includes:
 - **Editing whitepapers and litepapers** for structure, clarity, and consistent terminology.
 - **Internal docs** such as architecture overviews, decision records, and release checklists that let a distributed team work without repeated meetings.
 
-### Skills and tools that actually get you hired**1. Writing and audience analysis
+### Skills and tools that actually get you hired
 
-**You tailor detail, tone, and prerequisites to the reader. Developer docs assume Git and command-line comfort and show code. User guides assume no code and show clicks. You test your own steps and state what you tested on.** 2. Code comprehension at reading level
+### 1. Writing and audience analysis
 
-**You do not need to architect a protocol. You need to read Solidity enough to follow a contract, read JavaScript or TypeScript enough to fix a sample, and run the sample locally. Start with the Solidity docs and the two Ethereum docs pages on JavaScript API libraries and Interacting with smart contracts. Work through one deploy-and-call tutorial so you can describe an ABI, a JSON-RPC call, and a testnet transaction from experience.** 3. Docs-as-code toolchain
+You tailor detail, tone, and prerequisites to the reader. Developer docs assume Git and command-line comfort and show code. User guides assume no code and show clicks. You test your own steps and state what you tested on.
 
-**The core stack that appears in verified postings:
+### 2. Code comprehension at reading level
+
+You do not need to architect a protocol. You need to read Solidity enough to follow a contract, read JavaScript or TypeScript enough to fix a sample, and run the sample locally. Start with the Solidity docs and the two Ethereum docs pages on JavaScript API libraries and Interacting with smart contracts. Work through one deploy-and-call tutorial so you can describe an ABI, a JSON-RPC call, and a testnet transaction from experience.
+
+### 3. Docs-as-code toolchain
+
+The core stack that appears in verified postings:
 
 - Git and GitHub flow (branch, pull request, review)
 - Markdown and MDX
@@ -90,11 +105,15 @@ A typical week includes:
 - OpenAPI for API reference, plus a diagram tool like Excalidraw or Mermaid
 - A code editor such as Visual Studio Code
 
-If a posting lists Docusaurus, Astro, or Fumadocs as preferred, you can meet the bar by showing one live Docusaurus site plus a pull request that passed CI checks.**4. Technical curiosity and interview skill
+If a posting lists Docusaurus, Astro, or Fumadocs as preferred, you can meet the bar by showing one live Docusaurus site plus a pull request that passed CI checks.
 
-**You get good docs by asking precise questions. Examples: what chain and version did you test on, what fails if the user skips this flag, what error does the node return when the RPC is misconfigured.** 5. Attention to detail
+### 4. Technical curiosity and interview skill
 
-**In Web3, a missing network ID, a wrong contract address, or an out-of-date install command wastes hours or causes failed transactions. Check every command and link before you merge.
+You get good docs by asking precise questions. Examples: what chain and version did you test on, what fails if the user skips this flag, what error does the node return when the RPC is misconfigured.
+
+### 5. Attention to detail
+
+In Web3, a missing network ID, a wrong contract address, or an out-of-date install command wastes hours or causes failed transactions. Check every command and link before you merge.
 
 ### Pay and demand in 2026 - verified ranges
 
@@ -127,13 +146,19 @@ Treat salary as two layers: national payroll data for technical writers, then We
 
 ### How to break in from zero - a practical plan
 
-**Step 1: Pick one protocol you actually use
 
-**Choose one chain or app you have touched with a wallet. Examples are Ethereum, Solana, Base, Polygon, or a specific app like Uniswap. Your interest keeps you going through docs gaps.** Step 2: Audit their docs for one week
 
-**Read their developer docs as a new builder. List five specific gaps: steps that fail, missing prerequisites, no code sample for a common task, out-of-date install version, or unclear error guidance. Test every quickstart yourself on a testnet and note where you got stuck.** Step 3: Ship one fix and one new guide
+### Step 1: Pick one protocol you actually use
 
-**Fix something small first. If docs are on GitHub, open a pull request that corrects a command, adds a missing flag, or clarifies a step with a screenshot. This shows you can work in their workflow.
+Choose one chain or app you have touched with a wallet. Examples are Ethereum, Solana, Base, Polygon, or a specific app like Uniswap. Your interest keeps you going through docs gaps.
+
+### Step 2: Audit their docs for one week
+
+Read their developer docs as a new builder. List five specific gaps: steps that fail, missing prerequisites, no code sample for a common task, out-of-date install version, or unclear error guidance. Test every quickstart yourself on a testnet and note where you got stuck.
+
+### Step 3: Ship one fix and one new guide
+
+Fix something small first. If docs are on GitHub, open a pull request that corrects a command, adds a missing flag, or clarifies a step with a screenshot. This shows you can work in their workflow.
 
 Then write the guide you wish existed. Keep it under 800 words:
 
@@ -144,9 +169,11 @@ Then write the guide you wish existed. Keep it under 800 words:
 - Expected output and how to verify success
 - Common errors and fixes
 
-Publish the guide on your blog or Mirror.xyz and link the repo.**Step 4: Build a small portfolio that a reviewer can run
+Publish the guide on your blog or Mirror.xyz and link the repo.
 
-**Aim for three artifacts:
+### Step 4: Build a small portfolio that a reviewer can run
+
+Aim for three artifacts:
 
 - A README you fixed via pull request, with a link to the merged pull request
 - One end-to-end tutorial with a GitHub repo that anyone can clone and run, including a README that states what chain, tool versions, and testnet you used

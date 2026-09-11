@@ -15,6 +15,7 @@ category: Getting Started
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 ## What is an NFT marketplace
 
 An NFT marketplace is a platform where you list, discover, and trade non-fungible tokens. You connect a self-custodial wallet, sign a listing or offer, and the marketplace relies on a smart contract to move the token and the payment on chain when a sale matches. The marketplace never holds your NFT in the same way a custodial exchange holds coins. It holds signed orders off chain until a buyer fulfills them.
@@ -46,18 +47,26 @@ Practice with a small amount first. Send a tiny test on Base or Sepolia, list an
 
 Most venues share the same primitives:
 
-- **Fixed price listing.
+-
 
-**You set a price in ETH, SOL, or USDC, sign an off-chain order, and pay no gas to list. Gas is paid when the order fills or if you cancel on chain.
-- **Offer and collection offer.
+### Fixed price listing
 
-**A buyer can bid on one token or across an entire collection. Sellers can accept an offer to close the sale.
-- **Timed auction or reserve auction.
+You set a price in ETH, SOL, or USDC, sign an off-chain order, and pay no gas to list. Gas is paid when the order fills or if you cancel on chain.
+-
 
-**A start time or reserve price triggers a 24-hour countdown with a 15-minute extension if a bid arrives late. SuperRare uses this model for curated drops.
-- **Pool or AMM route.
+### Offer and collection offer
 
-**On Solana, Tensor lets you provide buy and sell curves through TensorSwap so you can market-make a collection.
+A buyer can bid on one token or across an entire collection. Sellers can accept an offer to close the sale.
+-
+
+### Timed auction or reserve auction
+
+A start time or reserve price triggers a 24-hour countdown with a 15-minute extension if a bid arrives late. SuperRare uses this model for curated drops.
+-
+
+### Pool or AMM route
+
+On Solana, Tensor lets you provide buy and sell curves through TensorSwap so you can market-make a collection.
 
 On Ethereum, OpenSea uses Seaport. Seaport 1.6 was deployed after the March 13, 2024 Dencun upgrade and made some routes about 5% cheaper on gas than Seaport 1.5, per OpenSea and Bitget coverage of the release. Seaport does not hold funds. It validates the signatures, moves the NFT from seller to buyer, and splits payment to seller, creator, and marketplace in one transaction. Blur runs its own order book with aggregation across venues, so a buyer can sweep the cheapest listings regardless of where they were first posted.
 
@@ -78,18 +87,26 @@ Plan around primary sale price. Treat secondary royalties as possible, not promi
 
 All-in cost is marketplace fee plus network fee plus any royalty that applies.
 
-- **Ethereum mainnet.
+-
 
-**A basic ETH transfer uses 21,000 gas. An NFT purchase uses more and often costs $1 to $10 in gas depending on congestion and ETH price. Since EIP-1559, fee is base fee plus priority fee, shown as maxFeePerGas and maxPriorityFeePerGas. The base fee is burned on Ethereum. Docs: ethereum.org/developers/docs/gas and eips.ethereum.org/EIPS/eip-1559.
-- **Base and other Ethereum L2s.
+### Ethereum mainnet
 
-**Base documents a minimum base fee of 0.005 gwei and two components, an L2 execution fee and an L1 security fee for posting data to Ethereum. At 2026 observed levels, a transfer on Base was about $0.007, an ERC-20 transfer about $0.017, and a standard ERC-721 mint $0.04 to $0.05, rising to $0.10 during local congestion. Fees can rise at most 4% per block. Docs: docs.base.org/base-chain/network-information/network-fees.
-- **Solana.
+A basic ETH transfer uses 21,000 gas. An NFT purchase uses more and often costs $1 to $10 in gas depending on congestion and ETH price. Since EIP-1559, fee is base fee plus priority fee, shown as maxFeePerGas and maxPriorityFeePerGas. The base fee is burned on Ethereum. Docs: ethereum.org/developers/docs/gas and eips.ethereum.org/EIPS/eip-1559.
+-
 
-**Transaction fee is usually under $0.001. Marketplace fee dominates. This is why high-frequency bidding is viable on Solana and less so on mainnet.
-- **Bitcoin Ordinals.
+### Base and other Ethereum L2s
 
-**Marketplace fee is 0.5% to 2%, but each trade also pays Bitcoin network fees which can be $0.50 to $20 plus during fee spikes.
+Base documents a minimum base fee of 0.005 gwei and two components, an L2 execution fee and an L1 security fee for posting data to Ethereum. At 2026 observed levels, a transfer on Base was about $0.007, an ERC-20 transfer about $0.017, and a standard ERC-721 mint $0.04 to $0.05, rising to $0.10 during local congestion. Fees can rise at most 4% per block. Docs: docs.base.org/base-chain/network-information/network-fees.
+-
+
+### Solana
+
+Transaction fee is usually under $0.001. Marketplace fee dominates. This is why high-frequency bidding is viable on Solana and less so on mainnet.
+-
+
+### Bitcoin Ordinals
+
+Marketplace fee is 0.5% to 2%, but each trade also pays Bitcoin network fees which can be $0.50 to $20 plus during fee spikes.
 
 Listing itself is free on all major venues. You only pay gas for the one-time approval if needed, or use gasless off-chain signatures where supported.
 
@@ -193,32 +210,38 @@ Zora started as an NFT marketplace around 2020 and now runs as a Layer 2 network
 
 Do not plan around these venues. Accounts of shutdowns are useful for risk assessment.
 
-- **Foundation.
+-
 
-**Closed permanently April 15, 2026 after a sale to Blackdove announced January 27, 2026 did not complete. Foundation processed about $230 million in primary sales since 2021. The team pledged to keep its IPFS gateway through April 27, 2027 and to provide delisting tools for escrowed NFTs. Contracts remain on chain and tokens stay in wallets, but frontend, listings, and gallery pages are offline. Sources: foundation.app closing letter April 27, 2026, The Defiant April 16, 2026, and Gate News summary April 18, 2026.
-- **X2Y2.
+### Foundation
 
-**Sunsetting as an NFT marketplace on April 30, 2025 after three years and about $5.6 billion in cumulative volume. Volume fell about 90% from peak to about $53 million in the trailing year, per Token Terminal via InsideBitcoins March 31, 2025. Blog at mirror.xyz/x2y2.eth announced the pivot to an AI project. Smart contracts stay active.
-- **Other exits 2024 to 2026.
+Closed permanently April 15, 2026 after a sale to Blackdove announced January 27, 2026 did not complete. Foundation processed about $230 million in primary sales since 2021. The team pledged to keep its IPFS gateway through April 27, 2027 and to provide delisting tools for escrowed NFTs. Contracts remain on chain and tokens stay in wallets, but frontend, listings, and gallery pages are offline. Sources: foundation.app closing letter April 27, 2026, The Defiant April 16, 2026, and Gate News summary April 18, 2026.
+-
 
-**Nifty Gateway closed in February 2026, MakersPlace in January 2025, KnownOrigin wound down in July 2024 after its eBay acquisition, and Quidd closed January 3, 2025. Magic Eden closed its Bitcoin Ordinals and EVM marketplaces in March 2026, keeping Solana active. These moves reflect consolidation after the 2022 to 2024 volume decline.
+### X2Y2
+
+Sunsetting as an NFT marketplace on April 30, 2025 after three years and about $5.6 billion in cumulative volume. Volume fell about 90% from peak to about $53 million in the trailing year, per Token Terminal via InsideBitcoins March 31, 2025. Blog at mirror.xyz/x2y2.eth announced the pivot to an AI project. Smart contracts stay active.
+-
+
+### Other exits 2024 to 2026
+
+Nifty Gateway closed in February 2026, MakersPlace in January 2025, KnownOrigin wound down in July 2024 after its eBay acquisition, and Quidd closed January 3, 2025. Magic Eden closed its Bitcoin Ordinals and EVM marketplaces in March 2026, keeping Solana active. These moves reflect consolidation after the 2022 to 2024 volume decline.
 
 ## At a glance: fees, chains, and royalties
 
 Use this as a planning sheet. Check the live checkout before you list, because fees can change and gas moves by block.
 
 | Marketplace | Marketplace fee | Who pays | Creator royalties | Primary chains as of 2026 | Status |
-| 
+|
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
---- | 
+--- |
 
 --- |
 | OpenSea (OS2) | 1% for sales, 10% for primary drops via OpenSea, 0% for swaps and private listings | Seller for sales | Optional by default, enforced only with ERC721-C or ERC1155-C plus Payment Processor, max 10% | 20+ chains including Ethereum, Base, Polygon, Arbitrum, Optimism, Avalanche, Zora, Blast, Sei, Berachain, Ronin | Active |
@@ -237,39 +260,57 @@ Listing an NFT is free on all major venues. The only cost to list is the one-tim
 
 ### Where these venues help
 
-- **Widest reach with lowest setup cost.
+-
 
-**OpenSea and Rarible let you mint to your own contract on Base and list across many chains without curation. That is useful for a small edition or for testing pricing before a larger launch.
-- **Lowest fee for active trading.
+### Widest reach with lowest setup cost
 
-**Blur at 0% and Tensor at 0% maker reduce drag when you place many bids or sweeps. On Solana, sub-cent gas makes dozens of reprices cheap.
-- **Strong royalty promise for 1-of-1 art.
+OpenSea and Rarible let you mint to your own contract on Base and list across many chains without curation. That is useful for a small edition or for testing pricing before a larger launch.
+-
 
-**SuperRare enforces 10% to the artist on every resale on the platform, with a clear split: 85% to artist on primary, 15% to Treasury, plus 3% buyer fee. Curation also keeps spam low.
-- **Cheap experimentation.
+### Lowest fee for active trading
 
-**Zora at about 0.000777 ETH per mint and Base with $0.04 to $0.05 mint gas let you test an idea with a 20-item group for a few dollars of chain cost plus 2% or less venue fee.
-- **Chain-level enforcement option.
+Blur at 0% and Tensor at 0% maker reduce drag when you place many bids or sweeps. On Solana, sub-cent gas makes dozens of reprices cheap.
+-
 
-**RARI Chain gives creators who need a guarantee a chain where the royalty cannot be bypassed, unlike EIP-2981 alone.
+### Strong royalty promise for 1-of-1 art
+
+SuperRare enforces 10% to the artist on every resale on the platform, with a clear split: 85% to artist on primary, 15% to Treasury, plus 3% buyer fee. Curation also keeps spam low.
+-
+
+### Cheap experimentation
+
+Zora at about 0.000777 ETH per mint and Base with $0.04 to $0.05 mint gas let you test an idea with a 20-item group for a few dollars of chain cost plus 2% or less venue fee.
+-
+
+### Chain-level enforcement option
+
+RARI Chain gives creators who need a guarantee a chain where the royalty cannot be bypassed, unlike EIP-2981 alone.
 
 ### What to watch for
 
-- **Thin demand and concentrated liquidity.
+-
 
-**Even with lower fees, many collections have few buyers. By early 2025 monthly NFT volume was in the tens of millions, not billions. A low fee does not create a buyer.
-- **Royalties are not guaranteed on open venues.
+### Thin demand and concentrated liquidity
 
-**Assume optional unless you use a specific enforced contract on a venue that supports it and you have verified that checkout shows the royalty.
-- **Chain fragmentation.
+Even with lower fees, many collections have few buyers. By early 2025 monthly NFT volume was in the tens of millions, not billions. A low fee does not create a buyer.
+- Royalties are not guaranteed on open venues.
 
-**A collection on Solana does not show up for Ethereum collectors without bridging. Magic Eden's focus on Solana after March 2026 means you will need a second venue for Ethereum work. Blurs Ethereum-only scope means you need Magic Eden or Tensor for Solana.
-- **Curation as a gate.
+Assume optional unless you use a specific enforced contract on a venue that supports it and you have verified that checkout shows the royalty.
+-
 
-**SuperRare rejects many applicants. Foundation's closure shows that curation does not guarantee platform longevity. Keep your contract owned by you so work survives a frontend shutdown.
-- **Smart contract risk and support burden.
+### Chain fragmentation
 
-**You manage approvals, gas timing, and collector questions. A bad operator approval can move assets. Keep revoke.cash in your routine and verify every contract address from the official site, not a search ad.
+A collection on Solana does not show up for Ethereum collectors without bridging. Magic Eden's focus on Solana after March 2026 means you will need a second venue for Ethereum work. Blurs Ethereum-only scope means you need Magic Eden or Tensor for Solana.
+-
+
+### Curation as a gate
+
+SuperRare rejects many applicants. Foundation's closure shows that curation does not guarantee platform longevity. Keep your contract owned by you so work survives a frontend shutdown.
+-
+
+### Smart contract risk and support burden
+
+You manage approvals, gas timing, and collector questions. A bad operator approval can move assets. Keep revoke.cash in your routine and verify every contract address from the official site, not a search ad.
 
 ## How to choose and get started: a practical checklist
 

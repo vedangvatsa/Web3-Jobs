@@ -10,6 +10,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 A Web3 supply chain expert combines logistics knowledge with blockchain and data standards to track goods from source to store on a shared ledger. The work is not about replacing trucks or scanners. It is about giving farmers, carriers, warehouses, and retailers one place to agree on what happened, when, and where.
 
 This guide explains what the ledger does, who hires for it, how the pieces fit together, where pilots have succeeded or failed, and how to get started in the field.
@@ -24,13 +25,15 @@ Smart contracts, called chaincode on Fabric, automate rules such as holding paym
 
 ## Who it is for
 
-**You have a logistics or operations background and want to add Web3.
+You have a logistics or operations background and want to add Web3.
 
-**You already know GTINs, SSCCs, bills of lading, and warehouse processes. Adding EPCIS modeling, basic chaincode or Solidity, and oracle patterns lets you design pilots that match how the floor actually works.** You are an enterprise integrator.
+You already know GTINs, SSCCs, bills of lading, and warehouse processes. Adding EPCIS modeling, basic chaincode or Solidity, and oracle patterns lets you design pilots that match how the floor actually works.
 
-**You run SAP, Oracle, or Manhattan and need to publish shipment and receipt events without rebuilding the system. Your value is mapping existing fields to EPCIS and keeping the integration stable when the ledger changes.** You are a product or engineering hire.
+### You are an enterprise integrator
 
-**Teams building supply chain dApps need people who can write ledger logic, wire IoT feeds, and build dashboards that read ledger events and show lot genealogy or exception alerts.
+You run SAP, Oracle, or Manhattan and need to publish shipment and receipt events without rebuilding the system. Your value is mapping existing fields to EPCIS and keeping the integration stable when the ledger changes. You are a product or engineering hire.
+
+Teams building supply chain dApps need people who can write ledger logic, wire IoT feeds, and build dashboards that read ledger events and show lot genealogy or exception alerts.
 
 If you only trade tokens and never handle a handover, this path is less direct. If you want to work on provenance, recall speed, or auditability, the mechanics below define the roles that hire.
 
@@ -149,9 +152,11 @@ Takeaway: shared audit data can be a more practical first network than per-item 
 * **Supply chain protocol developer.** You need Fabric chaincode in Go or Node.js or EVM contracts in Solidity, plus EPCIS JSON-LD and oracle integration. Show a repo with an EPCIS to ledger mapper and a verified arrival escrow test.
 * **Web3 logistics consultant.** You need to map as-is flows, design the EPCIS to ledger mapping, and run the pilot with two suppliers. Show a one-page event model and a recall drill result.
 * **Product manager for supply chain.** You own the dashboard that reads on-chain events and displays lot genealogy and alerts. Show how endorsement and privacy rules become clear UX and exception flows.
-* **Analyst for compliance and provenance.
+*
 
-**You query EPCIS and ledger proofs, cross-check certificates and origin claims, and flag mismatches. Show you can trace from QR scan to GTIN to EPCIS history without assuming the source scan was correct.
+### Analyst for compliance and provenance
+
+You query EPCIS and ledger proofs, cross-check certificates and origin claims, and flag mismatches. Show you can trace from QR scan to GTIN to EPCIS history without assuming the source scan was correct.
 
 ### What to collect for interviews
 

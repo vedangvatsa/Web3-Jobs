@@ -8,6 +8,7 @@ category: Career Guides
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 Having a gap in your employment history can present challenges during your job search. Many candidates worry about how potential employers will perceive these gaps. However, career breaks are increasingly common, and the way you frame your gap can significantly impact how it is viewed. A well-articulated explanation can transform what might seem like a disadvantage into an opportunity to showcase your resilience, adaptability, and commitment to personal and professional growth.
 
 Whether your break stemmed from family obligations, health issues, travel, or professional development, it is vital to own your narrative and present it confidently. Do not apologize for your time away from the workforce. Instead, emphasize the valuable experiences and skills you gained during this period, highlighting your readiness and enthusiasm to re-enter the job market.
@@ -40,9 +41,9 @@ Handling an employment gap on your resume can be done effectively through a coup
 
 **Create a Specific Entry for the Break**: For more extended gaps, consider explicitly addressing the break on your resume. Add a new entry under your experience section.
 
-Example:**Professional Sabbatical**| 2022 - 2023 
-- Focused on professional development, completing significant coursework in data science and machine learning. 
-- Developed and launched a personal project analyzing on-chain data, using Python and SQL. 
+Example:**Professional Sabbatical**| 2022 - 2023
+- Focused on professional development, completing significant coursework in data science and machine learning.
+- Developed and launched a personal project analyzing on-chain data, using Python and SQL.
 
 This approach maintains honesty and reframes the gap as a proactive period of skill acquisition.
 

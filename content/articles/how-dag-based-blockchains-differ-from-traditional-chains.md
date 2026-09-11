@@ -10,6 +10,7 @@ category: Technology Deep Dives
 publishedDate: '2026-03-11'
 lastUpdated: "2026-09-08"
 ---
+
 When discussing distributed ledgers, most people envision a **[blockchain](/what-is-a-blockchain)**, a linear chain of blocks where each block cryptographically links to its predecessor. This structure, introduced by [Bitcoin](/what-is-bitcoin), forms the backbone of most cryptocurrencies and [smart contract](/what-are-smart-contracts) platforms. However, other data structures exist that can serve as decentralized ledgers, one of the most intriguing being the
 
 **Directed Acyclic Graph**, or
@@ -24,7 +25,7 @@ This article explains how DAGs differ from blockchains and examines their unique
 
 Traditional blockchains operate as **totally ordered systems**. Each transaction must fit into a linear sequence of blocks, with new blocks added only after the previous ones are confirmed. This results in significant bottlenecks, as the network can only process transactions based on the capacity of individual blocks within fixed time intervals. For instance, Bitcoin can process a limited number of transactions per second, while [Ethereum](/what-is-ethereum) averages a higher rate.
 
-These limitations create substantial scalability challenges for networks that aim to handle a high volume of transactions. 
+These limitations create substantial scalability challenges for networks that aim to handle a high volume of transactions.
 
 ### The DAG Approach: A Network of Transactions
 
