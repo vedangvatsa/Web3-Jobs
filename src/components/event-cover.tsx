@@ -104,7 +104,7 @@ export function EventCardImage({
 }) {
   const generatedSrc = getGeneratedEventCover(name);
   const [failedSrc, setFailedSrc] = useState<string | null>(null);
-  const imageSrc = src && failedSrc === src ? generatedSrc : src || generatedSrc;
+  const imageSrc = failedSrc ? generatedSrc : src ?? generatedSrc;
 
   if (failedSrc === generatedSrc) {
     return <EventCoverFallback name={name} type={type} format={format} />;
@@ -128,7 +128,7 @@ export function EventCardImage({
 export function EventHeroImage({ src, name }: { src?: string | null; name: string }) {
   const generatedSrc = getGeneratedEventCover(name);
   const [failedSrc, setFailedSrc] = useState<string | null>(null);
-  const imageSrc = src && failedSrc === src ? generatedSrc : src || generatedSrc;
+  const imageSrc = failedSrc ? generatedSrc : src ?? generatedSrc;
 
   if (failedSrc === generatedSrc) {
     return (
@@ -141,7 +141,7 @@ export function EventHeroImage({ src, name }: { src?: string | null; name: strin
   return (
     <div className="w-full rounded-2xl overflow-hidden bg-muted border">
       <img
-        src={src}
+        src={imageSrc}
         alt={name}
         className="mx-auto w-full h-auto max-h-[75vh] object-contain"
         loading="eager"
