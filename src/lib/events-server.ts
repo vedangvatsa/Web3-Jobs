@@ -139,9 +139,11 @@ export async function getEvents(): Promise<Web3Event[]> {
   try {
     const cwd = process.cwd();
     const curatedPath = path.join(cwd, 'content', 'curated-events.json');
+    const kbwLumaPath = path.join(cwd, 'content', 'kbw-luma-events.json');
     const cachePath = path.join(cwd, 'content', 'events-cache.json');
 
     let curatedEvents: Web3Event[] = [];
+    let kbwLumaEvents: Web3Event[] = [];
     let cachedEvents: Web3Event[] = [];
 
     if (fs.existsSync(curatedPath)) {
@@ -149,6 +151,14 @@ export async function getEvents(): Promise<Web3Event[]> {
         curatedEvents = JSON.parse(fs.readFileSync(curatedPath, 'utf8'));
       } catch (err) {
         console.error('Failed to read curated-events.json:', err);
+      }
+    }
+
+    if (fs.existsSync(kbwLumaPath)) {
+      try {
+        kbwLumaEvents = JSON.parse(fs.readFileSync(kbwLumaPath, 'utf8'));
+      } catch (err) {
+        console.error('Failed to read kbw-luma-events.json:', err);
       }
     }
 
@@ -161,7 +171,7 @@ export async function getEvents(): Promise<Web3Event[]> {
     }
 
     // Combine all events - curated premier takes precedence
-    const rawAll = [...curatedEvents, ...cachedEvents];
+    const rawAll = [...curatedEvents, ...kbwLumaEvents, ...cachedEvents];
 
     // Clean & normalize
     const seenTitles = new Set<string>();
