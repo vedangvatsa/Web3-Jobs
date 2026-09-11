@@ -99,6 +99,17 @@ export function getEventFormat(event: Web3Event): EventFormat {
   return 'in-person';
 }
 
+const GOOGLE_EVENT_INELIGIBLE = /\b(?:private|invite[- ]only|members?[- ]only|approval[- ]based|application[- ]only|closed event)\b/i;
+
+// Google Event rich results exclude virtual-only and non-public events.
+export function isGoogleEventEligible(event: Web3Event): boolean {
+  return getEventFormat(event) === 'in-person'
+    && Boolean(event.name.trim())
+    && Boolean(event.location.trim())
+    && Number.isFinite(Date.parse(event.startDate))
+    && !GOOGLE_EVENT_INELIGIBLE.test(`${event.name} ${event.description || ''}`);
+}
+
 // Extract chain and category tags
 const ECOSYSTEM_RULES: Array<{ tag: string; test: RegExp }> = [
   { tag: 'Ethereum', test: /\b(ethereum|eth|evm|ethglobal|devcon|ethcc|ethdenver)\b/i },

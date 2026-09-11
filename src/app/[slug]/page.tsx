@@ -22,7 +22,7 @@ import { ArticleViewTracker } from '@/components/tracking/article-view-tracker';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from "@/components/page-shell";
 import { CtaBanner } from "@/components/cta-banner";
-import { getEventSlug, getEventFormat, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl } from '@/lib/events';
+import { getEventSlug, getEventEcosystems, getEventDatePill, formatEventDate, generateGoogleCalendarUrl, isGoogleEventEligible } from '@/lib/events';
 import { resolveEventGuide } from '@/lib/event-guide-store';
 import { JsonLd } from '@/components/json-ld';
 import { EventHeroImage } from '@/components/event-cover';
@@ -369,46 +369,41 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
     if (params.slug !== eventSlug) {
       permanentRedirect(`/${eventSlug}`);
     }
-    const format = getEventFormat(event);
-    const ecosystems = getEventEcosystems(event);
     const editorial = await resolveEventGuide(event);
     const speakerSummary = event.speakers?.join(', ');
     const googleCalendarUrl = generateGoogleCalendarUrl(event);
     const relatedEvents = await getRelatedEvents(event, 3);
 
-    // Schema.org Event
-    const isOnline = format === 'online' || event.location.toLowerCase().includes('online');
-
-    const eventSchema: Record<string, any> = {
-      '@context': 'https://schema.org',
-      '@type': 'Event',
-      name: event.name,
-      description: event.description || editorial.summaryLead,
-      startDate: event.startDate,
-      endDate: event.endDate || event.startDate,
-      eventAttendanceMode: isOnline
-        ? 'https://schema.org/OnlineEventAttendanceMode'
-        : 'https://schema.org/OfflineEventAttendanceMode',
-      eventStatus: 'https://schema.org/EventScheduled',
-      location: {
-        '@type': isOnline ? 'VirtualLocation' : 'Place',
-        name: event.location,
-        ...(isOnline
-          ? { url: event.url }
-          : {
-              address: {
-                '@type': 'PostalAddress',
-                addressLocality: event.city || event.location,
-                addressCountry: event.country || '',
-              },
-            }),
-      },
-      // NOTE: no organizer/performer/offers: Web3Event has no verified
-      // organizer, lineup, or ticket price — emitting invented values is
-      // spam-risk structured data.
-      url: event.url || `${siteUrl}/${eventSlug}`,
-      image: event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`,
-    };
+    const eventPageUrl = `${siteUrl}/${eventSlug}`;
+    const eventImage = event.coverImage || `/api/og?type=default&title=${encodeURIComponent(event.name)}`;
+    const eventImageUrl = /^https?:\/\//i.test(eventImage) ? eventImage : `${siteUrl}${eventImage}`;
+    const eventSchema = isGoogleEventEligible(event)
+      ? {
+          '@context': 'https://schema.org',
+          '@type': 'Event',
+          name: event.name,
+          description: event.description || editorial.summaryLead,
+          startDate: event.startDate,
+          endDate: event.endDate || event.startDate,
+          eventAttendanceMode: 'https://schema.org/OfflineEventAttendanceMode',
+          eventStatus: 'https://schema.org/EventScheduled',
+          location: {
+            '@type': 'Place',
+            name: event.location,
+            address: {
+              '@type': 'PostalAddress',
+              name: event.location,
+              ...(event.city ? { addressLocality: event.city } : {}),
+              ...(event.country ? { addressCountry: event.country } : {}),
+            },
+          },
+          // Keep schema URLs on this single-event leaf page; the official
+          // destination remains available as sameAs and the visible Details link.
+          url: eventPageUrl,
+          ...(event.url && event.url !== eventPageUrl ? { sameAs: event.url } : {}),
+          image: [eventImageUrl],
+        }
+      : null;
 
     // Schema.org Breadcrumbs
     const breadcrumbSchema = {
@@ -423,7 +418,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
 
     return (
       <>
-        <JsonLd data={eventSchema} />
+        {eventSchema && <JsonLd data={eventSchema} />}
         <JsonLd data={breadcrumbSchema} />
 
         <div className="flex flex-col min-h-screen bg-background text-foreground">

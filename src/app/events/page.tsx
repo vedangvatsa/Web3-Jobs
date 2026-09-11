@@ -1,6 +1,6 @@
 import { EventsBoard } from '@/components/events-board';
 import { getEvents } from '@/lib/events-server';
-import type { Web3Event } from '@/lib/events';
+import { getEventSlug, type Web3Event } from '@/lib/events';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
@@ -57,26 +57,11 @@ export default async function EventsPage() {
         itemListElement: events.slice(0, 25).map((event: Web3Event, index: number) => ({
           '@type': 'ListItem',
           position: index + 1,
-          item: {
-            '@type': 'Event',
-            name: event.name,
-            description: event.description,
-            startDate: event.startDate,
-            endDate: event.endDate,
-            eventAttendanceMode: event.location.includes('Virtual')
-              ? 'https://schema.org/OnlineEventAttendanceMode'
-              : 'https://schema.org/OfflineEventAttendanceMode',
-            eventStatus: 'https://schema.org/EventScheduled',
-            location: {
-              '@type': event.location.includes('Virtual') ? 'VirtualLocation' : 'Place',
-              name: event.location,
-              ...(event.url ? { url: event.url } : {}),
+            item: {
+              '@type': 'WebPage',
+              name: event.name,
+              url: `${siteUrl}/${getEventSlug(event)}`,
             },
-            // NOTE: organizer/performer/offers are intentionally omitted:
-            // Web3Event carries no verified organizer, lineup, or ticket
-            // price, and emitting invented values is spam-risk structured data.
-            url: event.url || `${siteUrl}/events`,
-          },
         })),
       },
     ],
