@@ -33,6 +33,10 @@ export function ArticleContent({ content, className }: { content: string; classN
         "prose-img:rounded-xl prose-img:border prose-img:border-border/70 prose-img:my-6 prose-img:w-full prose-img:max-w-3xl prose-img:mx-auto prose-img:h-auto prose-img:object-contain prose-img:shadow-sm",
         "prose-figure:my-8 prose-figure:text-center",
         "prose-figcaption:text-xs prose-figcaption:sm:text-sm prose-figcaption:text-muted-foreground prose-figcaption:mt-2.5 prose-figcaption:italic",
+        // Inline SVG diagrams authored in Markdown
+        "[&_.article-diagram]:my-8 [&_.article-diagram]:overflow-x-auto [&_.article-diagram]:rounded-xl [&_.article-diagram]:border [&_.article-diagram]:border-border [&_.article-diagram]:bg-card [&_.article-diagram]:p-4 [&_.article-diagram]:sm:p-6",
+        "[&_.article-diagram-title]:mb-4 [&_.article-diagram-title]:text-center [&_.article-diagram-title]:font-mono [&_.article-diagram-title]:text-xs [&_.article-diagram-title]:font-semibold [&_.article-diagram-title]:uppercase [&_.article-diagram-title]:tracking-wider [&_.article-diagram-title]:text-muted-foreground",
+        "[&_.article-diagram-svg]:mx-auto [&_.article-diagram-svg]:block [&_.article-diagram-svg]:h-auto [&_.article-diagram-svg]:min-w-[42rem] [&_.article-diagram-svg]:max-w-none [&_.article-diagram-svg]:sm:min-w-0 [&_.article-diagram-svg]:sm:max-w-full",
         // HR
         "prose-hr:border-border/70 prose-hr:my-10",
         className
