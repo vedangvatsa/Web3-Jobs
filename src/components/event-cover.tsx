@@ -24,6 +24,10 @@ function getInitial(name: string): string {
   return name.replace(/[^a-zA-Z0-9]/g, '').charAt(0).toUpperCase() || 'W';
 }
 
+function getGeneratedEventCover(name: string): string {
+  return `/api/og?type=default&title=${encodeURIComponent(name)}&date=Web3%20Event`;
+}
+
 export function EventCoverFallback({
   name,
   type,
@@ -100,8 +104,21 @@ export function EventCardImage({
 }) {
   const [hasError, setHasError] = useState(false);
 
-  if (!src || hasError) {
+  if (hasError) {
     return <EventCoverFallback name={name} type={type} format={format} />;
+  }
+
+  if (!src) {
+    return (
+      <img
+        src={getGeneratedEventCover(name)}
+        alt={name}
+        className="w-full h-full bg-muted object-contain"
+        loading={index !== undefined && index < 3 ? 'eager' : 'lazy'}
+        decoding="async"
+        onError={() => setHasError(true)}
+      />
+    );
   }
 
   const isAboveFold = index !== undefined && index < 3;
@@ -122,10 +139,26 @@ export function EventCardImage({
 export function EventHeroImage({ src, name }: { src?: string | null; name: string }) {
   const [hasError, setHasError] = useState(false);
 
-  if (!src || hasError) {
+  if (hasError) {
     return (
       <div className="w-full aspect-video rounded-2xl overflow-hidden border">
         <EventCoverFallback name={name} />
+      </div>
+    );
+  }
+
+  if (!src) {
+    return (
+      <div className="w-full rounded-2xl overflow-hidden bg-muted border">
+        <img
+          src={getGeneratedEventCover(name)}
+          alt={name}
+          className="mx-auto w-full h-auto max-h-[75vh] object-contain"
+          loading="eager"
+          fetchPriority="high"
+          decoding="async"
+          onError={() => setHasError(true)}
+        />
       </div>
     );
   }
