@@ -15,6 +15,7 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-bitcoinberlin',
   'side-desci-singapore-summit-2026',
   'side-sg-arbitrum-stylus-hacker-house',
+  'ma-european-blockchain-convention-12', // Duplicate of the curated EBC 2026 record
 ]);
 
 // Quality gate: drops spam webinars, cancelled listings, and non-web3 meetups
