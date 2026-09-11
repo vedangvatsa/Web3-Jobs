@@ -444,7 +444,7 @@ const COMPANY_WEBSITE_OVERRIDES: Record<string, string> = {
  'prime-intellect': 'https://www.primeintellect.ai',
  'socket': 'https://socket.tech',
  'parallel': 'https://parallel.life',
- 'fleek': 'https://fleek.xyz',
+ 'fleek': 'https://www.fleek.sh',
  'lens-protocol': 'https://lens.xyz',
  'delphi-digital': 'https://delphidigital.io',
  'trezor': 'https://trezor.io',
