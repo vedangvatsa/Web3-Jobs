@@ -137,6 +137,22 @@ function isLumaDefaultPlaceholder(img?: string | null): boolean {
   return !!img && /images\.lumacdn\.com\/social-images\/default-\d+\.png/i.test(img);
 }
 
+function resolveEventCoverImage(cwd: string, img?: string | null): string | null {
+  if (!img || isLumaDefaultPlaceholder(img)) return null;
+
+  if (img.startsWith('/')) {
+    return fs.existsSync(path.join(cwd, 'public', img)) ? img : null;
+  }
+
+  try {
+    const parsed = new URL(img);
+    if (parsed.hostname === 'localhost' || parsed.hostname === '127.0.0.1') return null;
+    return /^https?:$/.test(parsed.protocol) ? img : null;
+  } catch {
+    return null;
+  }
+}
+
 function normalizeEventTitle(name: string): string {
   return name
     .toLowerCase()
@@ -288,10 +304,10 @@ export async function getEvents(): Promise<Web3Event[]> {
 
       cleaned.push({
         ...e,
-         coverImage: eventImageOverrides[e.id]
-           || (isLumaDefaultPlaceholder(e.coverImage) ? null : e.coverImage)
-           || KBW_LUMA_IMAGE_OVERRIDES[e.id]
-           || null,
+         coverImage: resolveEventCoverImage(
+           cwd,
+           eventImageOverrides[e.id] || KBW_LUMA_IMAGE_OVERRIDES[e.id] || e.coverImage
+         ),
         name: cleanName,
         description: cleanDescription,
         month: monthStr,
