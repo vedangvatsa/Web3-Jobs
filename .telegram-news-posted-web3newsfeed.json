@@ -560,6 +560,9 @@
   "https://www.coindesk.com/business/2026/09/11/metaplanet-cuts-executive-reward-pool-by-41-extinguishes-usd220-million-in-value",
   "https://www.coindesk.com/business/2026/09/11/zodia-custody-ceo-julian-sawyer-steps-down-becomes-adviser",
   "https://cointelegraph.com/magazine/trading-stocks-against-boner-is-the-latest-trend-for-defi-degens?utm_source=rss_feed&utm_medium=rss&utm_campaign=rss_partner_inbound",
+  "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239",
+  "https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160",
+  "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1586,6 +1589,12 @@
   "Zodia Custody CEO Julian Sawyer steps down, becomes adviser",
   "Robinhood Chain Users Trade Healthcare Stocks Against Memecoins",
   "Trading stocks against BONER is the latest trend for DeFi degens",
+  "European Securities and Markets Authority warns prediction platforms lack authorization",
+  "ESMA says major prediction platforms lack EU authorization, questions Polymarket and Kalshi’s partial geo-blocks",
+  "Uniswap launches dynamic fee feature for stablecoin trading pools",
+  "Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value",
+  "Cyberattacks on Law Firms Nearly Double in 2025",
+  "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1678,5 +1687,8 @@
   "fp:act|befor|bill|clarity|controversial|decentraliz|defi|ethic|mostly|non",
   "fp:1882m|220m|by41|cut|executiv|extinguish|metaplanet|pool|reduc|reward",
   "fp:adviser|becom|ceo|custody|down|julian|lead|plann|previously|rather",
-  "fp:against|are|boner|chain|creat|decentraliz|defi|degen|directly|equity"
+  "fp:against|are|boner|chain|creat|decentraliz|defi|degen|directly|equity",
+  "fp:authority|authorization|block|confirm|effectiveness|esma|european|exist|filter|financial",
+  "fp:adjust|allow|asset|bas|captur|demand|dynamic|dynamically|featur|fee",
+  "fp:appear|cyber|cyberattack|dark|document|doubl|firm|greenberg|hit|in2025"
 ]

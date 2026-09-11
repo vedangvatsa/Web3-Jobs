@@ -557,6 +557,9 @@
   "https://techcrunch.com/2026/09/10/anthropic-details-distillation-campaigns-from-alibaba-moonshot-ai-and-deepseek/",
   "https://www.technologyreview.com/2026/09/08/1143747/what-openais-latest-controversy-tells-us-about-the-future-of-math/",
   "https://arstechnica.com/ai/2026/09/anthropics-2-trillion-ipo-puts-powerful-external-trustees-in-spotlight/",
+  "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
+  "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
+  "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1454,6 +1457,12 @@
   "What OpenAI’s latest controversy tells us about the future of math",
   "Anthropic prepares public offering with safety trustee structure",
   "Anthropic’s $2 trillion IPO puts powerful external trustees in spotlight",
+  "Pocket FM reaches $500M run rate with AI audio",
+  "India’s Pocket FM doubles revenue run rate to $500M as AI powers 93% of audio content",
+  "Google updates AI weather model to improve forecast accuracy",
+  "Update to Google’s AI weather model improves forecast accuracy",
+  "Meta AI agent app Muse reaches second place in US",
+  "Meta’s AI agent Muse is now the No. 2 app in the US",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1528,5 +1537,8 @@
   "fp:bruc|build|business|com|discuss|disrupt2026|entrepreneurship|healthcar|his|invest",
   "fp:accus|alibaba|anthropic|campaign|chines|claim|compet|competitor|copy|data",
   "fp:agent|among|announc|controversy|debat|futur|hardest|math|mathematic|millennium",
-  "fp:anthropic|design|developer|external|ipo|maintain|offer|oversight|plann|powerful"
+  "fp:anthropic|design|developer|external|ipo|maintain|offer|oversight|plann|powerful",
+  "fp:500m|audio|content|costs80|doubl|fold|generat|india|over90|percent",
+  "fp:accuracy|data|deliver|expand|forecast|googl|improv|incorporat|input|meteorological",
+  "fp:achiev|agent|app|application|download|highest|market|meta|mobil|mus"
 ]
