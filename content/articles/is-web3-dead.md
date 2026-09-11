@@ -40,6 +40,8 @@ Ignoring the valid criticisms of Web3 would be unwise. The industry faces real c
 
 **Fraud and Exploits**| The ongoing prevalence of hacks, scams, and protocol exploits has led to substantial losses, exceeding billions in value. Establishing user trust in a "trustless" environment poses a significant challenge. |
 
+<!-- table-end -->
+
 These issues are far from minor; they represent critical barriers the industry must overcome.
 
 ### The Bull Case: Recognizing Positive Signals
