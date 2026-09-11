@@ -4,8 +4,6 @@ import { getEventSlug } from '@/lib/events';
 
 export const revalidate = 3600;
 
-const MAX_ITEMS = 200;
-
 function asText(value: unknown): string {
   return typeof value === 'string' ? value : value == null ? '' : String(value);
 }
@@ -23,6 +21,10 @@ function cdata(value: string): string {
   return value.replace(/]]>/g, ']]]]><![CDATA[>');
 }
 
+function absoluteUrl(value: string, siteUrl: string): string {
+  return value.startsWith('/') ? `${siteUrl}${value}` : value;
+}
+
 function feedDescription(event: { description: string; city?: string; country?: string; location: string }): string {
   const description = asText(event.description)
     .replace(/\s(?:href|src)\s*=\s*("[^"]*"|'[^']*'|[^\s>]+)/gi, '')
@@ -38,8 +40,7 @@ export async function GET() {
   const today = new Date().toISOString();
   const events = (await getEvents())
     .filter((event) => event.endDate >= today)
-    .sort((a, b) => Date.parse(a.startDate) - Date.parse(b.startDate))
-    .slice(0, MAX_ITEMS);
+    .sort((a, b) => Date.parse(a.startDate) - Date.parse(b.startDate));
 
   const items = events.map((event) => {
     const slug = getEventSlug(event);
@@ -47,6 +48,7 @@ export async function GET() {
     const timestamp = Date.parse(event.startDate);
     const pubDate = Number.isFinite(timestamp) ? new Date(timestamp).toUTCString() : new Date().toUTCString();
     const description = feedDescription(event);
+    const image = absoluteUrl(event.coverImage || '', siteUrl);
 
     return `    <item>
       <title><![CDATA[${cdata(event.name)}]]></title>
@@ -55,11 +57,12 @@ export async function GET() {
       <pubDate>${pubDate}</pubDate>
       <description><![CDATA[${cdata(description)}]]></description>
       <category><![CDATA[${cdata(event.city || 'Web3 Events')}]]></category>
+      <media:content url="${escapeXml(image)}" medium="image"/>
     </item>`;
   }).join('\n');
 
   const xml = `<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
   <channel>
     <title>Hashtag Web3 Events</title>
     <link>${siteUrl}/events</link>
