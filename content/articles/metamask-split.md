@@ -21,6 +21,10 @@ That distinction is easy to miss. This is not a sale of MetaMask to an outside b
 
 The announcement also says the two companies will continue in the same Ethereum ecosystem and that Consensys will remain a channel partner for MetaMask. It does not set out the commercial terms for that relationship. Those details may matter later for products that depend on shared infrastructure, but the release does not provide them.
 
+![MetaMask logo](https://upload.wikimedia.org/wikipedia/commons/3/36/MetaMask_Fox.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+*MetaMask logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:MetaMask_Fox.svg).*
+
 ## MetaMask's consumer business
 
 MetaMask is describing its remit as consumer finance built around self-custody. In its own [statement on the split](https://metamask.io/news/metamask-next-chapter), the company says it wants users to hold, move, earn, trade, and spend assets through the platform. That is a wider brief than the browser extension through which many people first encountered MetaMask.
