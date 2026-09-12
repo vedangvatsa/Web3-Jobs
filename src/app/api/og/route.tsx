@@ -655,7 +655,7 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // 3.5. Events page template (Clean, typography-driven)
+    // 3.5. Events page template (Exact Website Hero Match)
     if (type === 'events') {
       const displayTitle = title || 'Web3 Events';
 
@@ -663,58 +663,90 @@ export async function GET(request: NextRequest) {
         (
           <div
             style={{
-              ...baseContainerStyle,
+              width: '100%',
+              height: '100%',
+              display: 'flex',
               flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              padding: '40px',
+              backgroundColor: '#ffffff',
+              padding: '60px',
+              fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
           >
+            {/* Title */}
             <div
               style={{
-                ...baseCardStyle,
-                width: '1040px',
-                padding: '64px 72px',
-                alignItems: 'center',
+                display: 'flex',
+                fontSize: '84px',
+                fontWeight: '900',
+                color: '#0f172a',
+                letterSpacing: '-2.5px',
+                marginBottom: '40px',
                 textAlign: 'center',
-                gap: '24px',
               }}
             >
-              <div
-                style={{
-                  display: 'flex',
-                  fontSize: '22px',
-                  fontWeight: '700',
-                  color: '#0284c7',
-                  letterSpacing: '1.5px',
-                  textTransform: 'uppercase',
-                }}
-              >
-                Hashtag Web3
-              </div>
-              <div
-                style={{
-                  display: 'flex',
-                  fontSize: displayTitle.length > 30 ? '60px' : '72px',
-                  fontWeight: '900',
-                  color: '#0f172a',
-                  lineHeight: '1.15',
-                  letterSpacing: '-2px',
-                  maxWidth: '900px',
-                }}
-              >
-                {displayTitle}
-              </div>
-              <div
-                style={{
-                  display: 'flex',
-                  fontSize: '26px',
-                  color: '#64748b',
-                  fontWeight: '500',
-                }}
-              >
-                Crypto Conferences • Blockchain Summits • Meetups • {date}
-              </div>
+              {displayTitle}
+            </div>
+
+            {/* Partner Text Header */}
+            <div
+              style={{
+                display: 'flex',
+                fontSize: '15px',
+                fontWeight: '700',
+                color: '#64748b',
+                letterSpacing: '2px',
+                textTransform: 'uppercase',
+                marginBottom: '24px',
+                textAlign: 'center',
+              }}
+            >
+              WE PARTNERED WITH EVENTS LIKE:
+            </div>
+
+            {/* Partner Logos/Names Row */}
+            <div
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: '36px',
+                marginBottom: '44px',
+              }}
+            >
+              {['TOKEN2049', 'HARVARD BLOCKCHAIN', 'ETH OXFORD', 'TAIPEI BLOCKCHAIN WEEK', 'ETH BRUSSELS', 'IEEE'].map((partner) => (
+                <div
+                  key={partner}
+                  style={{
+                    display: 'flex',
+                    fontSize: '17px',
+                    fontWeight: '800',
+                    color: '#94a3b8',
+                    letterSpacing: '0.5px',
+                  }}
+                >
+                  {partner}
+                </div>
+              ))}
+            </div>
+
+            {/* Telegram Community Subtitle */}
+            <div
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '8px',
+                fontSize: '20px',
+                color: '#64748b',
+                fontWeight: '500',
+              }}
+            >
+              <span>Join our Telegram community with</span>
+              <span style={{ color: '#0f172a', fontWeight: '800', marginLeft: '4px', marginRight: '4px' }}>
+                18,000+
+              </span>
+              <span>members</span>
             </div>
           </div>
         ),
