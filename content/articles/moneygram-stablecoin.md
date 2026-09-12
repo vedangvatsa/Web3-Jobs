@@ -14,6 +14,10 @@ The product expansion allows customers to convert USD Coin (USDC) into fiat curr
 
 MoneyGram stated that the stablecoin payout options will target high-volume remittance corridors across Latin America, Asia-Pacific, and Eastern Europe, where foreign exchange conversion costs and settlement delays historically burden cross-border workers.
 
+![Visa corporate headquarters building in Foster City](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Visa_HQ_in_Foster_City.jpg/1200px-Visa_HQ_in_Foster_City.jpg)
+
+*Visa corporate headquarters in Foster City, California. MoneyGram is integrating Visa Direct to facilitate real-time USDC stablecoin card settlement. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Visa_HQ_in_Foster_City.jpg).*
+
 ## Institutional stablecoin adoption and settlement mechanics
 
 MoneyGram's integration of USDC builds upon its earlier digital asset initiatives with the Stellar Development Foundation. Under the updated architecture with Visa, eligible users can hold stablecoin balances within approved digital wallets and issue real-time Visa debit payments funded directly by their USDC holdings.
