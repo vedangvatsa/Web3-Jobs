@@ -114,6 +114,25 @@ const EXCLUDED_NON_WEB3_TOPICS = [
   'housing market', 'oil prices', 'brent crude'
 ];
 
+// Generic words such as "base", "protocol", "token", and "swap" appear in
+// ordinary technology coverage. When an item is otherwise about AI or big tech,
+// require a term that identifies a crypto or Web3 subject directly.
+const STRONG_WEB3_CRYPTO_KEYWORDS = [
+  'web3', 'crypto', 'cryptocurrency', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth',
+  'solana', 'defi', 'nft', 'stablecoin', 'binance', 'coinbase', 'kraken', 'tether',
+  'usdt', 'usdc', 'mining', 'validator', 'staking', 'smart contract', 'dapp', 'dex',
+  'polymarket', 'kalshi', 'metamask', 'arbitrum', 'optimism', 'cardano', 'ripple',
+  'xrp', 'avalanche', 'polkadot', 'chainlink', 'eigenlayer', 'zksync', 'starknet',
+  'onchain', 'on-chain', 'mempool', 'ordinals', 'satoshi'
+];
+
+function includesKeyword(text: string, keywords: string[]): boolean {
+  return keywords.some((keyword) => {
+    const regex = new RegExp(`\\b${keyword.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}\\b`, 'i');
+    return regex.test(text);
+  });
+}
+
 function isWeb3RelevantNews(title: string, snippet: string): boolean {
   const text = `${title} ${snippet}`.toLowerCase();
   
@@ -121,13 +140,12 @@ function isWeb3RelevantNews(title: string, snippet: string): boolean {
   const containsExcludedTopic = EXCLUDED_NON_WEB3_TOPICS.some((topic) => text.includes(topic));
   
   // 2. Check if article contains explicit Web3/crypto keywords
-  const hasWeb3Keyword = WEB3_CRYPTO_KEYWORDS.some((kw) => {
-    const regex = new RegExp(`\\b${kw.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}\\b`, 'i');
-    return regex.test(text);
-  });
+  const hasWeb3Keyword = includesKeyword(text, WEB3_CRYPTO_KEYWORDS);
+  const hasStrongWeb3Keyword = includesKeyword(text, STRONG_WEB3_CRYPTO_KEYWORDS);
 
-  // If it mentions an off-topic subject (e.g. OpenAI, Apple, S&P 500), it MUST explicitly contain a Web3 keyword
-  if (containsExcludedTopic && !hasWeb3Keyword) {
+  // If it mentions an off-topic subject (e.g. OpenAI, Apple, S&P 500), generic
+  // words are insufficient. It must explicitly identify a crypto/Web3 subject.
+  if (containsExcludedTopic && !hasStrongWeb3Keyword) {
     return false;
   }
 

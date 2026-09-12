@@ -80,7 +80,7 @@ export default async function JobsPage() {
     dangerouslySetInnerHTML={{ __html: JSON.stringify(structuredData).replace(/</g, '\\u003c') }}
    />
    <div className="flex flex-col min-h-screen">
-        <main className="flex-1">
+         <main className="flex-1" data-job-page>
       <PageShell>
         <PageHeader title="Web3 Jobs" />
        <div className="site-container">
