@@ -5,7 +5,7 @@ image: /api/og?type=article&title=Revised%20CLARITY%20Act%20Would%20Set%20Rules%
 category: News
 data-ai-hint: Senate DeFi protocol rules
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 A revised version of the CLARITY Act would direct the Securities and Exchange Commission and Commodity Futures Trading Commission to develop activity-based rules for people or coordinated groups that control certain decentralized-finance trading protocols. The proposal uses the term "non-decentralized finance trading protocol" for protocols where a person or coordinated group has a material ability to alter functionality, operation, or rules; restrict users; or affect transactions that are not governed solely by transparent, pre-established code. The revised text is available in the [bill PDF posted on Senator Cynthia Lummis' website](https://www.lummis.senate.gov/wp-content/uploads/EHF26718.pdf).
@@ -13,6 +13,10 @@ A revised version of the CLARITY Act would direct the Securities and Exchange Co
 The language narrows attention to control over an activity rather than treating software or a distributed ledger system as the regulated actor. Under the proposal, the SEC and CFTC would have to address registration, conduct, disclosure, recordkeeping, and supervision through rules tied to the activities of people or groups that meet the bill's test. Treasury would separately address how existing Bank Secrecy Act obligations apply to those controllers.
 
 The revision arrives before a procedural Senate vote reported for Sept. 15. [Cointelegraph reported](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators) that the procedural vote requires 60 votes. The bill text describes a proposed framework; it does not itself establish that the rules have been written, that a protocol has been classified under the definition, or that any particular person is subject to a registration or Bank Secrecy Act requirement.
+
+![United States Senate and flag illustration](https://s3-images.ctmedia.io/media/article-covers/2026/09/01M27H8K27MPGK3B4159W99VR1/senate-usa-flag.png)
+
+*Image used by [Cointelegraph's report on the revised CLARITY Act](https://cointelegraph.com/news/revised-clarity-act-targets-non-decentralized-defi-operators).*
 
 ## Control is the threshold in the revised text
 

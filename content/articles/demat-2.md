@@ -5,7 +5,7 @@ image: /api/og?type=article&title=SEBI%20Launches%20Demat%202.0%20Pilot%20for%20
 category: News
 data-ai-hint: India tokenised corporate bonds
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 India's Securities and Exchange Board of India launched its Demat 2.0 pilot for tokenised corporate bonds on Sept. 10, moving the issuance, holding, trading and settlement of selected corporate bonds onto distributed-ledger infrastructure. SEBI announced the launch in a [Sept. 10 press release](https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/successful-launch-of-demat-2-0-pilot-project-for-tokenised-corporate-bonds_104418.html) and published a detailed [FAQ for the pilot](https://www.sebi.gov.in/sebi_data/faqfiles/sep-2026/1789049630065.pdf).
@@ -15,6 +15,10 @@ The pilot does not create a new security or asset class. Under SEBI's descriptio
 CoinDesk reported that state-owned power-sector lender REC raised Rs. 500 crore through the system, Larsen & Toubro raised a further Rs. 500 crore, and IIFL Finance raised Rs. 25 crore. The three reported transactions total Rs. 1,025 crore. The publication described the pilot as the start of tokenisation in India's roughly $620 billion corporate-bond market, while SEBI's materials frame it as a controlled test under the regulator's sandbox rather than a market-wide conversion of corporate debt. [CoinDesk's report](https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement) says the instruments keep their conventional interest rates, maturity dates and investor rights.
 
 The operating model puts established market institutions in the middle of the system. Depositories remain the authoritative record keepers of beneficial ownership under the Depositories Act, SEBI says. The distributed ledger is the form in which that record is maintained for the pilot; it does not displace the depository's statutory role. The [FAQ](https://www.sebi.gov.in/sebi_data/faqfiles/sep-2026/1789049630065.pdf) says the infrastructure is being developed and operated by market infrastructure institutions, with technology and implementation support from NPCI. Initially, the depositories and stock exchanges will operate the nodes, with controlled access for other regulated entities possible as the pilot progresses.
+
+![Indian flag](https://cdn.sanity.io/images/s3y3vcno/production/a3eceb8aeec24d03372ed17e149a9e6c5b546972-2304x1296.jpg?w=1920&h=1080&auto=format)
+
+*Image by Naveed Ahmed on Unsplash, used by [CoinDesk's Demat 2.0 report](https://www.coindesk.com/markets/2026/09/11/india-starts-tokenizing-usd620-billion-corporate-bond-market-with-digital-rupee-settlement).*
 
 ## The bond's terms remain the bond's terms
 

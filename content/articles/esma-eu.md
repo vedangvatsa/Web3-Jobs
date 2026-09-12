@@ -5,12 +5,16 @@ image: /api/og?type=article&title=ESMA%20Says%20Major%20Prediction%20Platforms%2
 category: News
 data-ai-hint: EU prediction market regulation
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 The European Securities and Markets Authority said the marketing and sale of event contracts in the European Union generally requires EU authorization, which it said the largest prediction-market platforms do not hold. The regulator also questioned the geographic restrictions used by Polymarket and Kalshi, saying both restrict users in some EU countries but not all, and that users can bypass geographic blocks with virtual private networks. The assessment appears in ESMA's [Risk Monitor report](https://www.esma.europa.eu/sites/default/files/2026-09/ESMA50-1949966494-4282_TRV_Risk_Monitor_2_2026.pdf#page=51), as reported by [The Block](https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239).
 
 ESMA's position does not place every event contract in a single legal category. Its report says the applicable regime depends on a contract's characteristics. A contract may qualify as a financial instrument under MiFID II; a blockchain-based contract that is not a financial instrument may fall under the Markets in Crypto-Assets Regulation, or MiCA; and a contract may instead be treated as a gambling product under national law. That means the label "prediction market" does not settle its regulatory treatment in the EU, according to the [report](https://www.esma.europa.eu/sites/default/files/2026-09/ESMA50-1949966494-4282_TRV_Risk_Monitor_2_2026.pdf#page=51).
+
+![European flags outside the European Parliament](https://www.tbstat.com/wp/uploads/2020/12/shutterstock_584623759-1013x675.jpg)
+
+*Image used by [The Block's report](https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239), credited there to areporter/Shutterstock.*
 
 The regulator's conclusion on authorization follows that classification analysis. ESMA wrote that marketing and selling event contracts in the EU generally requires an EU authorization and said the largest platforms currently do not have one. The statement is about the conditions under which these products are offered in the EU. It is not a published finding in the report that every contract offered by every platform has the same legal status, or that a single rule applies to every member state in the same way.
 

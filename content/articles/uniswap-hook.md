@@ -5,7 +5,7 @@ image: "/api/og?type=article&title=Uniswap%20StablePair%20Hook"
 category: News
 data-ai-hint: stablecoin liquidity pool
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 Uniswap Labs has launched StablePair Hook, a Uniswap v4 tool for stablecoin pools that uses dynamic fees rather than a single fixed fee. The first pools are launching on Ethereum with USDC/USDG and USDC/USDT, according to [The Block's September 10 report](https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160). The company said the hook is intended to give liquidity providers a larger share of the value generated when a stablecoin pool moves away from, and then returns toward, its reference price.
@@ -13,6 +13,10 @@ Uniswap Labs has launched StablePair Hook, a Uniswap v4 tool for stablecoin pool
 The product is aimed at a category of swaps in which both assets are generally expected to trade near the same dollar value. A USDC/USDT pool, for example, is usually discussed around a 1:1 reference price because both tokens are designed to track the U.S. dollar. That expectation does not make the pool price permanently fixed. Trades can move the pool away from its reference price, and market participants can trade against that difference when they expect the price to return. Uniswap Labs' stated design assigns fees differently depending on the direction of that move.
 
 Stablecoin-to-stablecoin trading is already a large activity on Uniswap. Uniswap Labs said such swaps reached $43.4 billion in the second quarter, exceeding the combined amount at the next three onchain venues, [as reported by The Block](https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160). That figure is a company-supplied comparison, rather than an independently reported measure in the article. It explains why a tool focused narrowly on stablecoin-pair pricing and fees has become a product priority for the protocol's development team.
+
+![Uniswap visual used in reporting on StablePair Hook](https://www.tbstat.com/wp/uploads/2021/03/20210323_Uniswap_V3-1200x675.jpg)
+
+*Image used by [The Block's StablePair Hook report](https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160).*
 
 ## Fees tied to the pool price
 
