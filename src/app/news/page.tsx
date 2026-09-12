@@ -1,4 +1,4 @@
-import { getNewsFeed } from '@/lib/news';
+import { deduplicateNewsItems, getNewsFeed } from '@/lib/news';
 import { getAllArticles } from '@/lib/articles';
 import { NewsPageClient } from '@/components/news-page-client';
 import type { Metadata } from 'next';
@@ -47,8 +47,8 @@ export default async function NewsPage() {
    contentSnippet: article.description,
    source: 'Hashtag Web3',
   }));
- const newsItems = [...nativeNews, ...feedItems]
-  .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
+  const newsItems = deduplicateNewsItems([...nativeNews, ...feedItems]
+   .sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime()));
  const siteUrl = 'https://hashtagweb3.com';
 
  const pageSchema: WithContext<WebPage> = {
