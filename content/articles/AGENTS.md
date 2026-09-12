@@ -7,7 +7,7 @@ Apply this guide only to a new or materially revised native article with `catego
 - Native news lives in `content/articles/<short-root-slug>.md` and is published at `https://hashtagweb3.com/<short-root-slug>`.
 - Do not use `/news/<slug>` for a native article. The `/news` page is the listing page.
 - Set `category: News`. Native news is included on `/news` automatically and receives `NewsArticle` JSON-LD from `src/app/[slug]/page.tsx`.
-- Use a short, descriptive, lowercase hyphenated slug. Do not change a published slug without adding an intentional redirect.
+- Use a short, descriptive, lowercase hyphenated slug of one or two words only. Do not change a published slug without adding an intentional redirect.
 - Do not duplicate or restate an external RSS item as native content unless the article adds original, source-bound reporting or analysis.
 
 ## Required Front Matter
