@@ -14,9 +14,9 @@ The refusal follows a partial return of roughly 3,400 BTC on Sept. 7. Liquid's [
 
 Liquid has restored block production and network transactions, according to its latest public operational update on Sept. 10. Peg-outs, the process used to move bitcoin out of Liquid to the Bitcoin mainchain, remain disabled while the final recovery stage continues. The update does not give a date for their return or say that the BTC/LBTC reserve has been fully restored [in the network's notice](https://x.com/Liquid_BTC/status/2098140614239920622).
 
-![Blockstream logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Blockstream_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Physical Bitcoin coin on a laptop keyboard](https://upload.wikimedia.org/wikipedia/commons/d/d2/Bitcoin_on_Laptop_Keyboard.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-*Blockstream logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blockstream_logo.svg).*
+*A physical Bitcoin coin, illustrating the asset involved in the Liquid reserve-recovery dispute. Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Bitcoin_on_Laptop_Keyboard.jpg).*
 
 ## How unbacked LBTC reached the Bitcoin network
 

@@ -496,6 +496,7 @@ export type JobSlugResolution =
   | { kind: 'exact'; job: Job; canonicalSlug: string }
   | { kind: 'moved'; job: Job; canonicalSlug: string }
   | { kind: 'archived'; job: Job; canonicalSlug: string }
+  | { kind: 'fallback'; job: Job; canonicalSlug: string }
   | { kind: 'unknown'; job: null; canonicalSlug: null };
 
 interface ArchivedSlugRecord {
@@ -562,6 +563,11 @@ function reconstructArchivedJob(cleanSlug: string, archived: ArchivedSlugRecord)
   };
 }
 
+/** Root paths reserved for historical job links. */
+export function getLegacyJobSlugs(): string[] {
+  return Object.keys(loadLegacyArchive()).map((slug) => slug.toLowerCase().trim());
+}
+
 export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
   const allJobs = await getJobs();
   const cleanSlug = slug.toLowerCase().trim();
@@ -569,6 +575,10 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
   const asExact = (job: Job): JobSlugResolution => {
     const canonicalSlug = getJobSlug(job);
     return { kind: 'exact', job, canonicalSlug };
+  };
+  const asFallback = (job: Job): JobSlugResolution => {
+    const canonicalSlug = getJobSlug(job);
+    return { kind: 'fallback', job, canonicalSlug };
   };
 
   // 1. Direct match with stored slug or calculated slug
@@ -643,14 +653,14 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
       const id = (job.id || '').toLowerCase();
       return (s && s.startsWith(`${prefix}-`)) || (id && id.includes(prefix));
     });
-    if (matchByPrefix) return asExact(matchByPrefix);
+      if (matchByPrefix) return asFallback(matchByPrefix);
 
     // 5b. Match by hash or ID suffix
     if (suffixPart.length >= 4) {
       for (const job of allJobs) {
-        if (getJobContentKey(job).slice(4) === suffixPart) return asExact(job);
+        if (getJobContentKey(job).slice(4) === suffixPart) return asFallback(job);
         const cleanId = (job.id || '').replace(/[^a-z0-9]/gi, '').toLowerCase();
-        if (cleanId.endsWith(suffixPart)) return asExact(job);
+        if (cleanId.endsWith(suffixPart)) return asFallback(job);
       }
     }
   }
