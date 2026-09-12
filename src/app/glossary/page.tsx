@@ -117,16 +117,6 @@ export default async function GlossaryPage({
                     title="Web3 Glossary"
                     description="Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology."
                   />
-                  <div className="flex items-center justify-center gap-6 text-xs text-muted-foreground mt-4">
-                    <div className="flex items-center gap-1.5">
-                      <BookOpen className="h-4 w-4 text-primary" />
-                      <span><strong>{stats.totalTerms}</strong> terms</span>
-                    </div>
-                    <div className="flex items-center gap-1.5">
-                      <TrendingUp className="h-4 w-4 text-primary" />
-                      <span><strong>{stats.totalCategories}</strong> categories</span>
-                    </div>
-                  </div>
                 </>
               )}
             </div>
