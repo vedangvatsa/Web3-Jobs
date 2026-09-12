@@ -30,7 +30,7 @@ export const metadata: Metadata = {
 export default function ApiPolicyPage() {
   return (
     <PageShell>
-      <div className="max-w-4xl mx-auto py-8 sm:py-12 space-y-10">
+      <div className="site-container py-8 sm:py-12 space-y-10">
         <div className="space-y-3">
           <Badge variant="outline" className="border-primary text-primary">API Lifecycle Governance</Badge>
           <h1 className="text-3xl sm:text-4xl font-extrabold text-foreground tracking-tight">
