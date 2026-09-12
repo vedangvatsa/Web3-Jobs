@@ -174,7 +174,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const siteUrl = 'https://hashtagweb3.com';
     const termUrl = `${siteUrl}/${term.slug}`;
     const metaDescription = generateGlossaryMetaDescription(term);
-    const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(term.term)}&category=${encodeURIComponent(term.category)}`;
+    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(term.term)}`;
     
     return {
       title: `${term.term} - Web3 Glossary`,
@@ -250,7 +250,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   if (resource) {
     const siteUrl = 'https://hashtagweb3.com';
     const resourceUrl = `${siteUrl}/${resource.seo.canonicalSlug}`;
-    const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(resource.seo.title)}&category=${encodeURIComponent(resource.meta.contentType)}`;
+    const ogImageUrl = `${siteUrl}/api/og?type=default&title=${encodeURIComponent(resource.seo.title)}`;
     return {
       title: resource.seo.title,
       description: resource.seo.description,
