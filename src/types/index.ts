@@ -19,6 +19,7 @@ export interface Job {
 export interface Article {
  slug: string;
  title: string;
+ ogTitle?: string;
  image: string;
  description: string;
  content: string;

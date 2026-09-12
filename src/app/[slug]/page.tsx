@@ -288,9 +288,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
  // Extract salary data from title if present
  const salaryMatch = article.title.match(/\$[\d,]+-\$[\d,]+K?/);
  const salary = salaryMatch ? salaryMatch[0] : undefined;
- 
- // Generate dynamic OG image URL
- const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(article.title)}&category=${encodeURIComponent(article.category)}${salary ? `&salary=${encodeURIComponent(salary)}` : ''}&date=2026`;
+  // Generate dynamic OG image URL
+  const ogTitle = article.ogTitle || article.title;
+  const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(ogTitle)}&category=${encodeURIComponent(article.category)}${salary ? `&salary=${encodeURIComponent(salary)}` : ''}&date=2026`;
 
  const keywords = [
   'web3', 'crypto', 'blockchain',
@@ -443,7 +443,6 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   </div>
                 }
                 title={event.name}
-                mobileTitleInline
                 metadata={
                   <>
                       <div className="flex min-w-0 items-center gap-1.5">
