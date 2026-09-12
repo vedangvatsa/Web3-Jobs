@@ -820,12 +820,12 @@ export async function GET(request: NextRequest) {
                     display: 'flex',
                     flexWrap: 'wrap',
                     alignItems: 'center',
-                    gap: '10px 12px',
-                    fontSize: displayTitle.length > 45 ? '38px' : '44px',
-                    fontWeight: '800',
+                    gap: '12px 14px',
+                    fontSize: displayTitle.length > 45 ? '46px' : '52px',
+                    fontWeight: '900',
                     color: '#0f172a',
-                    lineHeight: '1.2',
-                    letterSpacing: '-1px',
+                    lineHeight: '1.15',
+                    letterSpacing: '-1.5px',
                     marginBottom: '24px',
                   }}
                 >
