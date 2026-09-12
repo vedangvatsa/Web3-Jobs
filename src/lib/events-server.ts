@@ -11,6 +11,7 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-modular-summit-2026',
   'premier-ethtokyo-2026',
   'premier-mainnet-2026',
+  'premier-devconnect-2026', // No official Devconnect scheduled for Bangkok in November 2026
   'premier-enugu',
   'premier-bitcoinberlin',
   'side-desci-singapore-summit-2026',
