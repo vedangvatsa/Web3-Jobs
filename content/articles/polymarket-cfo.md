@@ -10,7 +10,8 @@ lastUpdated: '2026-09-12'
 
 Decentralized prediction market platform Polymarket has appointed Warren Jenson as its first Chief Financial Officer, bringing on a veteran corporate finance executive as transaction volume and regulatory scrutiny expand globally. Jenson previously served as Chief Financial Officer at Amazon, Electronic Arts, and Nielsen, as well as Chief Financial Officer and Chief Operating Officer at LiveRamp. Polymarket announced the executive appointment in an official release.
 
-> 📢 **Official Announcement**: [@Polymarket](https://x.com/Polymarket) on X: *"Polymarket appoints former Amazon & Nielsen CFO Warren Jenson as Chief Financial Officer."* — [View Official Release](https://polymarket.com)
+> 📢 **Official Announcement**: Polymarket CEO Shayne Coplan ([@shayne_coplan](https://x.com/shayne_coplan)) on X: *"Polymarket appoints former Amazon & Nielsen CFO Warren Jenson as Chief Financial Officer."* — [View CEO Statement on X](https://x.com/shayne_coplan/status/2098068018949415250)
+
 
 
 The appointment follows rapid growth in prediction market activity surrounding global political events, economic indicators, and regulatory developments. Polymarket operates on the Polygon blockchain, enabling users to trade binary outcome contracts settled via USDC stablecoins. As financial volume on the platform increased, European regulatory authorities including the European Securities and Markets Authority issued warnings regarding unlicensed prediction market trading.
