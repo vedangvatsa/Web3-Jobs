@@ -14,6 +14,10 @@ Prior to the update, ETH and liquid staking tokens (LSTs) deposited into EigenLa
 
 EigenLayer developers confirmed that slashing logic is executed via immutable smart contracts on Ethereum mainnet, with penalty parameters defined independently by each AVS protocol.
 
+![Ethereum node validation server hardware](https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Cryptocurrency_mining_hardware_farm.jpg/1200px-Cryptocurrency_mining_hardware_farm.jpg)
+
+*Blockchain validator node infrastructure. EigenLayer activated mainnet slashing conditions, subjecting restaking operators to cryptoeconomic penalties for verifiable fault events. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Cryptocurrency_mining_hardware_farm.jpg).*
+
 ## Cryptoeconomic security and operator accountability
 
 The activation of mainnet slashing addresses a core component of EigenLayer's security design. By enabling AVS protocols to programmatically burn or reallocate restaked collateral upon detected fault conditions, EigenLayer provides verifiable cryptoeconomic guarantees to decentralized applications relying on external node networks.

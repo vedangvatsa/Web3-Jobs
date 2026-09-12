@@ -14,6 +14,10 @@ For Layer-2 scaling, the update targets bottlenecked block production during hig
 
 Starkware reported that parallel execution reduces latency for block inclusion while maintaining deterministic state updates for validators. The implementation preserves full equivalence with Cairo VM execution rules, ensuring that contracts written in Cairo do not require code changes or redeployment to benefit from parallelized processing.
 
+![High performance enterprise server data center](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Data_center_server_racks.jpg/1200px-Data_center_server_racks.jpg)
+
+*High-performance enterprise server racks. Starknet's mainnet sequencer update enables multi-threaded parallel execution across node hardware worker pools. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Data_center_server_racks.jpg).*
+
 ## Sequencer architecture and collision handling
 
 The update alters how the Starknet sequencer handles pending block transactions. Before parallel execution, the sequencer processed block transactions sequentially through a single Cairo VM instance. Under the revised pipeline, an orchestrator thread distributes transactions to a pool of worker instances, each running an independent execution attempt against the current block state.
