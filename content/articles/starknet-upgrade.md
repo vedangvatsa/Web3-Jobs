@@ -10,6 +10,9 @@ lastUpdated: '2026-09-12'
 
 Starknet core developers have enabled parallel transaction execution on the network's mainnet sequencer, allowing independent transactions to process simultaneously rather than in single-file order. The change updates the Starknet sequencer engine to analyze state access dependencies before execution, running non-overlapping calls across multiple worker threads. Starkware published the technical release details in its [specifications repository](https://github.com/starkware-libs/starknet-specs).
 
+> 📢 **Official Release**: [@Starknet](https://x.com/Starknet) & [Starknet Specs Repository](https://github.com/starkware-libs/starknet-specs): *"Parallel execution is live on Starknet Mainnet Sequencer."* — [View Technical Specifications](https://github.com/starkware-libs/starknet-specs)
+
+
 For Layer-2 scaling, the update targets bottlenecked block production during high-volume network events. Under single-threaded execution, transactions that touch unrelated smart contract states (such as separate token transfers or distinct NFT mints) had to wait for preceding transactions to complete. The parallel engine uses an optimistic execution algorithm to execute incoming transactions concurrently, validating state diffs afterward and re-executing any transaction that encounters a collision with a prior state write.
 
 Starkware reported that parallel execution reduces latency for block inclusion while maintaining deterministic state updates for validators. The implementation preserves full equivalence with Cairo VM execution rules, ensuring that contracts written in Cairo do not require code changes or redeployment to benefit from parallelized processing.

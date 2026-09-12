@@ -10,6 +10,9 @@ lastUpdated: '2026-09-12'
 
 Global payments provider MoneyGram has partnered with Visa to launch USDC-backed debit card capabilities over the Visa Direct network, allowing users to settle cross-border money transfers using stablecoins. MoneyGram announced the payment integration in an official press release.
 
+> 📢 **Official Announcement**: [MoneyGram Newsroom](https://corporate.moneygram.com/news-releases) & [Visa Direct Blog](https://usa.visa.com): *"MoneyGram and Visa expand USDC stablecoin card settlement."* — [View Official Press Release](https://corporate.moneygram.com/news-releases)
+
+
 The product expansion allows customers to convert USD Coin (USDC) into fiat currencies at participating Visa merchant locations and ATMs globally. By leveraging Visa Direct's push-payment infrastructure alongside blockchain settlement rails, the service cuts cross-border transfer times from days to seconds while eliminating traditional correspondent banking intermediary fees.
 
 MoneyGram stated that the stablecoin payout options will target high-volume remittance corridors across Latin America, Asia-Pacific, and Eastern Europe, where foreign exchange conversion costs and settlement delays historically burden cross-border workers.

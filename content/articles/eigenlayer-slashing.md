@@ -10,6 +10,9 @@ lastUpdated: '2026-09-12'
 
 Ethereum restaking protocol EigenLayer has activated mainnet slashing conditions, marking the transition from passive restaking deposit pools to active cryptoeconomic security enforcement for Actively Validated Services (AVSs). EigenLayer announced the protocol milestone in its technical documentation and release notes.
 
+> 📢 **Official Announcement**: [@eigenlayer](https://x.com/eigenlayer) on X & [EigenLayer Documentation](https://docs.eigenlayer.xyz): *"Mainnet slashing is live for Actively Validated Services (AVSs)."* — [View Technical Documentation](https://docs.eigenlayer.xyz)
+
+
 Prior to the update, ETH and liquid staking tokens (LSTs) deposited into EigenLayer earned protocol yield without active risk of forfeiture. Under the mainnet slashing framework, operators who validate AVS networks, including decentralized oracles, data availability layers, and cross-chain bridges, face automated asset penalties if they commit verifiable fault conditions like double-signing or safety violations.
 
 EigenLayer developers confirmed that slashing logic is executed via immutable smart contracts on Ethereum mainnet, with penalty parameters defined independently by each AVS protocol.
