@@ -20,136 +20,40 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-SNARK refers to Succinct Non-Interactive Arguments of Knowledge, a cryptographic proof system that allows one party to prove possession of certain information without revealing the information itself. These proofs are compact, typically just a few hundred bytes, and can be verified in milliseconds regardless of the complexity of the underlying computation. SNARKs have become foundational to blockchain scaling solutions, with zkSync Era processing millions of transactions using SNARK-based verification since its mainnet launch. The technology works by compressing thousands of transactions into a single cryptographic proof that can be verified on Ethereum's mainnet, reducing costs and increasing throughput. Zcash pioneered SNARKs for privacy-preserving transactions, while Layer 2 networks rely on them for scalability. Professionals with SNARK expertise are highly sought after, as zero-knowledge proof systems represent a growing specialization in blockchain development.
+## Definition
 
-## How SNARKs Work
+A SNARK is a Succinct Non-interactive Argument of Knowledge. It is a cryptographic proof that lets a prover show that a statement is true under specified rules. The verifier can check the proof without repeating the full computation. "Succinct" means the proof and verification work are small compared with the computation being proved. "Non-interactive" means the prover can create one proof that a verifier checks later, rather than taking part in a live challenge-and-response exchange.
 
-Cryptographic mechanics:
+Many SNARKs can also be zero knowledge. In that case, the proof establishes that a prover knows a valid witness without revealing the witness itself. For example, a user can prove that a private transaction conserves value and has valid authorization without publishing the sender, receiver, or amount. Not every SNARK application needs the privacy property. A rollup can use a proof to show that a batch of public transactions was executed correctly.
 
-- **Arithmetization**: Convert computation into arithmetic circuit (gates computing operations).
+An argument is computationally sound, not mathematically absolute in the way a simple proof is. Its security depends on stated cryptographic assumptions and on correct implementation.
 
-- **Polynomial Encoding**: Encode circuit as polynomial where evaluations equal computation.
+## How It Works
 
-- **Interactive Proof**: Prover and verifier execute interaction proving computation.
+The application first expresses a computation as a circuit or constraint system over a finite field. The circuit might check account signatures, balances, and state updates. Public inputs are values the verifier can see, such as an old state root and a new state root. The witness contains the private inputs or intermediate values that satisfy the constraints.
 
-- **Fiat-Shamir Heuristic**: Convert interactive proof to non-interactive by hashing.
+The prover runs a proving algorithm with the circuit, public inputs, and witness. It produces a proof showing that it knows values that make every constraint hold. The verifier uses a verification key, public inputs, and the proof. It accepts only if the cryptographic checks succeed. On a blockchain, a verifier smart contract can reject a state update when its corresponding proof is invalid.
 
-- **Proof Compression**: Use polynomial commitment schemes (KZG, FRI) compressing proof.
+Different SNARK families use different mathematics. Groth16 is known for very small proofs and typically uses a circuit-specific trusted setup. PLONK-style systems aim to use a more reusable setup. They make different choices about proving speed, proof size, recursion, and verification cost.
 
-- **Verification**: Verifier checks proof quickly using polynomial properties.
+## Concrete Example
 
-Result: Small non-interactive proof verifiable in milliseconds.
+Consider a rollup that processes 1,000 token transfers off the base chain. Its operator starts with a published state root, checks each signed transfer, updates balances, and calculates a new root. The operator builds a SNARK whose public inputs are the old root and new root. The witness includes the transaction details, Merkle paths, signatures, and intermediate balance updates required by the circuit.
 
-## Trusted Setup
+The operator sends the proof and new root to a contract on Ethereum. The contract verifies the proof much more cheaply than replaying all 1,000 transfers in the Ethereum Virtual Machine. If valid, it records the new root. Users can then rely on the rollup's rules for deposits, withdrawals, and data access.
 
-Critical process:
+The proof does not automatically make the rollup private. If the operator posts the transaction list as public data, anyone can read it. Privacy requires the circuit and data-publication design to conceal the relevant information.
 
-- **Ceremony**: Generate public parameters from random secret.
+## Limitations And Risks
 
-- **Distributed**: Multiple parties participate ensuring no single entity knows secret.
+SNARK circuits are difficult to design and audit. A circuit can omit a required check while its proof system still works perfectly. For instance, failing to constrain a balance update can let an invalid state transition satisfy the circuit. The security of the application depends on the circuit, proof library, serialization, verifier contract, and surrounding protocol.
 
-- **Permanence**: If ceremony secret leaked, attacker forges proofs.
+Proof generation can require substantial memory, time, or specialized hardware. A proof that is cheap to verify may be expensive to create. This can centralize proving in a small number of operators. On-chain verification also consumes gas, and the cost varies by proof system and base chain.
 
-- **Coordination**: Requires community coordination for credibility.
+Some SNARK constructions require a trusted setup. If the toxic waste, meaning secret setup randomness, is retained or compromised in certain schemes, an attacker may be able to forge proofs. Multi-party ceremonies reduce this risk when at least one participant destroys its contribution, but they do not fix errors in the circuit. Cryptographic assumptions may also weaken over time, including under advances in quantum computing.
 
-- **Ethereum 2.0 Trusted Setup**: Ethereum performed ceremony with many participants for Zcash parameters.
+## Relevant Distinctions
 
-- **Risks**: If ceremony compromised, protocol is broken. Requires faith in ceremony.
+SNARK is a family label, not one algorithm. A zero-knowledge proof is the wider category; a SNARK is often a compact non-interactive form of it. A validity proof is an application of a proof system that verifies a state transition. It may reveal all transaction data or conceal part of it.
 
-Trusted setup is a major UX and security consideration.
-
-## SNARK Applications
-
-Real deployments:
-
-- **Zcash**: Uses Sapling SNARKs for shielded transactions.
-
-- **zkSync Era**: ZK rollup using custom SNARKs.
-
-- **Polygon Hermez**: ZK rollup using custom circuits for Ethereum scaling.
-
-- **Aztec Network**: Privacy-focused rollup using SNARKs for confidential computation.
-
-- **StarkWare**: Cairo-based ZK system using STARKs (variant) for scalability.
-
-SNARKs enable practical blockchain scaling and privacy.
-
-## SNARK vs STARK
-
-Key differences:
-
-| Aspect | SNARK | STARK |
-|--------|-------|-------|
-| **Proof Size** | Small (kilobytes) | Larger (tens of KB) |
-| **Verification Speed** | Very fast | Slower |
-| **Trusted Setup** | Required | Not required |
-| **Transparency** | Requires ceremony | Transparent |
-| **Cryptographic Assumption** | Hardness assumptions | Hash functions only |
-| **Quantum Resistance** | Vulnerable | Resistant |
-| **Maturity** | Mature | Newer |
-
-Different tradeoffs suit different applications.
-
-## SNARK Development
-
-Implementation challenges:
-
-- **Circuit Design**: Writing circuits for complex computation is hard. Requires cryptographic expertise.
-
-- **Parameter Generation**: Trusted setup is a complex ceremony. Coordination overhead.
-
-- **Proving Time**: Generating proofs can be slow for complex circuits. Faster hardware helps but is expensive.
-
-- **Verification Contracts**: On-chain verifiers must be efficient. Large verification contracts can be expensive.
-
-- **Tooling**: Limited tooling for SNARK development. Steep learning curve.
-
-SNARK development is a specialized skill requiring expertise.
-
-## Career Opportunities
-
-SNARKs create roles:
-
-- **SNARK Circuit Designers** design efficient circuits.
-
-- **Protocol Researchers** optimize SNARK schemes.
-
-- **Proving System Engineers** build provers.
-
-- **Cryptography Experts** analyze SNARK security.
-
-- **Performance Engineers** optimize proving speed.
-
-- **Smart Contract Engineers** build verifiers.
-
-## Best Practices
-
-Using SNARKs:
-
-- **Audit Circuits**: Verify circuit correctness before production.
-
-- **Ceremony Participation**: If a ceremony is held, participate or verify participation.
-
-- **Trusted Setup Trust**: Understand risks of trusted setup. Accept ceremony as trustworthy.
-
-- **Parameter Security**: Securely store circuit parameters.
-
-- **Prover Efficiency**: Test proving time. Specialized hardware may be needed.
-
-## The Future of SNARKs
-
-SNARK evolution:
-
-- **Transparent SNARKs**: Removing trusted setup through new constructions.
-
-- **Recursion**: Proving proof verification enabling infinite proofs.
-
-- **Faster Proving**: GPU and ASIC acceleration making proving practical.
-
-- **Hardware Support**: Specialized hardware for proof generation.
-
-- **Standardization**: Industry standards for SNARK circuits and parameters.
-
-## Compress Computation Cryptographically
-
-SNARKs are a powerful cryptographic primitive enabling practical blockchain scaling. Understanding SNARKs helps evaluate scaling solutions. If you're interested in cryptography or scaling, explore careers at zkSync, StarkWare, and cryptographic teams. These roles focus on making SNARKs practical and secure.
+SNARKs differ from STARKs. STARKs generally rely on hash-based assumptions and do not require a trusted setup, but their proofs are commonly larger. A proof is also different from data availability. A SNARK can show that a computation obeyed a circuit, while users may still need published data to reconstruct state or withdraw assets.

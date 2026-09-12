@@ -102,36 +102,6 @@ A growing trend involves building on Layer 2 networks rather than directly on La
 
 - **Interoperability**: Bridges allow assets to move between mainnets, though this introduces additional complexity and trust assumptions.
 
-## Career Opportunities
-
-Working with mainnet systems offers exciting career paths:
-
-- **Blockchain Engineers** design and build mainnet protocols, implementing consensus mechanisms, networking layers, and virtual machines.
-
-- **Smart Contract Developers** deploy production smart contracts to mainnet, managing upgrades, monitoring on-chain activity, and responding to security concerns.
-
-- **Site Reliability Engineers (SREs)** maintain mainnet infrastructure, operating validator nodes, monitoring system health, and ensuring uptime.
-
-- **Security Engineers** audit mainnet deployments, respond to exploits, and implement security best practices.
-
-- **DevOps Engineers** build deployment pipelines, maintain monitoring systems, and manage mainnet infrastructure for protocols and applications.
-
-## Best Practices
-
-Successfully operating on mainnet requires discipline:
-
-- **Thorough Testing**: Full testing on testnets and local environments before mainnet deployment. Use continuous integration to catch regressions.
-
-- **Gradual Rollouts**: Consider limiting initial functionality or total value locked to reduce blast radius if issues emerge.
-
-- **Monitoring and Alerting**: Implement full monitoring of contract events, transaction patterns, and system health. Set up alerts for anomalous behavior.
-
-- **Incident Response Plans**: Prepare playbooks for handling security incidents, including pause mechanisms, upgrade procedures, and communication plans.
-
-- **Insurance and Coverage**: Consider protocol insurance or coverage options to protect users against smart contract failures.
-
-- **Clear Documentation**: Maintain detailed documentation of mainnet deployments, including addresses, ABIs, and operational procedures.
-
 ## The Mainnet Economy
 
 Mainnets represent functioning economies with significant value:

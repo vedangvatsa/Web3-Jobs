@@ -102,34 +102,6 @@ Observed behaviors:
 
 Real delegation often shows concentration rather than distributed power.
 
-## Career Opportunities
-
-Delegation creates roles:
-
-- **Governance Delegates** earning fees or compensation for representing stakeholders.
-
-- **Governance Service Providers** operating delegation platforms.
-
-- **Governance Researchers** analyzing delegation patterns.
-
-- **Protocol Economists** designing delegation mechanisms.
-
-## Best Practices
-
-Using delegation:
-
-- **Understand Delegatee**: Know who you're delegating to and what they stand for.
-
-- **Assess Alignment**: Ensure delegatee's interests align with yours.
-
-- **Monitor Voting**: Check how delegatee votes with your power.
-
-- **Diversify**: Do not delegate all tokens to a single party.
-
-- **Reassess**: Periodically review delegation. Redelegate if needed.
-
-- **Active Option**: If particularly interested, do not delegate; vote yourself.
-
 ## Improving Delegation
 
 Mechanisms for better delegation:
@@ -145,18 +117,6 @@ Mechanisms for better delegation:
 - **Retroactive Evaluation**: Assessing delegatee effectiveness and adjusting future delegation.
 
 Better delegation mechanisms can improve governance quality.
-
-## The Future of Delegation
-
-Delegation evolution:
-
-- **Automated Delegation**: Protocols auto-assigning delegation based on stakeholder preferences.
-
-- **Dynamic Delegation**: Changing delegation based on proposal type.
-
-- **Cross-Protocol Delegation**: Delegating voting power across multiple protocols simultaneously.
-
-- **Delegation DAOs**: DAOs specializing in delegation, managing large voting pools.
 
 ## Represent Stakeholders
 

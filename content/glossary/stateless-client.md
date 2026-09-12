@@ -19,104 +19,42 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Stateless Client refers to a blockchain node implementation that can verify blocks and validate transactions without storing the entire blockchain state locally, instead relying on cryptographic witnesses or proofs provided alongside each block. Traditional full nodes must store gigabytes of state data, but stateless clients receive compact proofs that mathematically demonstrate the validity of state transitions, reducing storage requirements. Ethereum's roadmap features stateless clients as part of "The Verge" upgrade phase, using Verkle trees to generate efficient witnesses that could reduce node storage requirements compared to current full nodes. This approach enables blockchain validation on consumer-grade hardware, including smartphones and embedded devices, lowering barriers to network participation and enhancing decentralization. Projects like Portal Network are building stateless client infrastructure for Ethereum. As blockchain networks prioritize scalability and accessibility, engineers with expertise in stateless client architecture, witness generation, and cryptographic proof systems are increasingly sought after by protocol development teams and infrastructure companies.
+Stateless client is a blockchain client that verifies state transitions without keeping the entire current state database on local disk. It receives a witness with each block. The witness contains the specific account, storage, code, and cryptographic proof data needed to execute that block. The client verifies the witness against the prior state root, executes the block, and checks that the result matches the new state root.
 
-## How Stateless Clients Work
+Traditional full nodes keep a local copy of the state so they can look up any account or contract storage slot while executing transactions. State grows as users create accounts and contracts write storage. A stateless client aims to avoid this long-term storage burden. "Stateless" describes state storage, not the absence of all local data.
 
-Mechanics:
+## How it works
 
-- **Witnesses**: Block proposers include cryptographic proofs (witnesses) with blocks.
+Each block begins with a commitment to the previous state, usually called the state root. The block producer has access to the full state and determines every value the block's transactions will read or change. It packages those values with proofs that connect them to the previous root. This package is the witness.
 
-- **Verification**: Clients verify witnesses without accessing full state.
+For a simple transfer, the witness may contain the sender's nonce and balance, the receiver's account record, and proofs for both. For a contract call, it can also contain contract code and every storage slot that execution reads or writes. The witness must prove absence as well as presence. Creating a new account or setting an unused storage slot requires a proof that the old value was empty.
 
-- **State-Root**: Clients track only state root hash.
+The stateless client validates each proof against the old root. It then runs the same transaction execution rules as a full node. If a transfer subtracts 3 ETH from one account and adds 3 ETH to another, the client starts from the witnessed old values and calculates the new ones. It updates the relevant commitment paths and checks that the resulting root equals the block's declared new state root.
 
-- **Minimal Storage**: No need to store gigabytes of state data.
+If the block omits a required value, the client cannot guess it from a database. Execution fails because the witness is incomplete. If the witness provides a wrong value, its proof will not match the old root. This means a stateless client can reject invalid blocks without holding all unrelated state.
 
-Stateless clients verify state without storing it.
+Witness sizes depend on the state commitment format. Verkle trees can aggregate many openings, making witnesses more practical for blocks with many state accesses.
 
-## Benefits
+## Concrete example
 
-Advantages:
+Suppose a block contains a transaction where Leo sends 2 ETH to Noor. The previous state root commits to Leo's balance of 7 ETH, Leo's nonce of 14, and Noor's balance of 1 ETH. The producer includes these values and proofs that link them to the old root.
 
-- **Lower Hardware**: Reduces storage from hundreds of GB to MB.
+A stateless client verifies all three proofs. It checks Leo's signature and nonce, then calculates the new values: Leo has 5 ETH and nonce 15, while Noor has 3 ETH. It updates the witnessed paths and obtains the proposed new state root. If that root matches the block header, the state transition is valid for this transaction.
 
-- **Decentralization**: More nodes can participate.
+For a token contract call, the witness also needs the token code and relevant balance slots. It must account for every state access made during execution.
 
-- **Fast Sync**: New nodes sync instantly (no state download).
+## Limitations and risks
 
-- **Scalability**: Reduces long-term storage burden.
+Stateless verification moves work and data rather than eliminating them. Somebody must keep enough full state to build blocks, generate witnesses, serve historical data, and help new full nodes bootstrap.
 
-Stateless clients improve accessibility.
+Witnesses add block bandwidth and processing costs. A block with many contract accesses may need a large witness. Duplicate accesses, access patterns that depend on execution, and poorly designed contracts can increase the size. Block propagation can slow if witnesses are too large, and validators need sufficient CPU to verify the proofs and execute the block.
 
-## Verkle Trees
+The design requires exact client agreement. A missed storage read, malformed proof, different empty-value rule, or incorrect commitment update can cause consensus failures. Producers also need a reliable way to generate complete witnesses. An unavailable or incomplete witness should make a block unverifiable, not cause clients to accept unproven state.
 
-Enabling technology:
+## Relevant distinctions
 
-- **Smaller Proofs**: Verkle trees produce smaller witnesses than Merkle trees.
+A stateless client is not a light client in the usual sense. A light client often verifies block headers and consensus proofs but does not execute every transaction. A stateless client can fully execute and validate blocks, provided it receives valid witnesses.
 
-- **Efficiency**: Witnesses remain practical even as state grows.
+It is also not an archive node. Archive nodes preserve extensive historical state for queries. A stateless client stores little or no current state, while the network still needs full and archival services for data availability and applications.
 
-- **Ethereum Roadmap**: Verkle trees planned for Ethereum.
-
-Verkle trees make stateless clients feasible.
-
-## Tradeoffs
-
-Challenges:
-
-- **Witness Size**: Witnesses add data overhead to blocks.
-
-- **Complexity**: More complex than traditional clients.
-
-- **Backward Compatibility**: Requires state tree migration.
-
-- **Proposer Burden**: Block proposers must generate witnesses.
-
-Stateless clients add complexity.
-
-## Ethereum Stateless Vision
-
-Roadmap:
-
-- **Verkle Tree Transition**: Migrate from Merkle-Patricia to Verkle trees.
-
-- **Witness Generation**: Validators generate witnesses for blocks.
-
-- **Client Diversity**: Multiple stateless client implementations.
-
-Stateless clients are a long-term goal.
-
-## Career Opportunities
-
-Stateless client roles:
-
-- **Protocol Engineers** earn competitive salaries.
-
-- **Cryptography Researchers** earn competitive salaries.
-
-- **Client Developers** earn competitive salaries.
-
-## Best Practices
-
-Preparing for stateless:
-
-- **Follow Roadmap**: Track Ethereum stateless roadmap.
-
-- **Test Verkle**: Experiment with Verkle tree clients.
-
-- **Optimize Witnesses**: Design protocols minimizing witness size.
-
-## The Future of Stateless Clients
-
-Trends:
-
-- **Production Deployment**: Stateless clients on mainnet.
-
-- **Cross-Chain Adoption**: Other chains adopting stateless designs.
-
-- **Better Compression**: More efficient witness schemes.
-
-## Verify Without Full State
-
-Stateless clients enable verification without full state storage, improving decentralization and accessibility. If you're interested in protocol design, explore [protocol careers](/) at Ethereum client teams.
+Statelessness differs from zero-knowledge validity proofs. A validity proof can show that a computation was performed correctly without replaying every step. A stateless client re-executes the block but obtains the required state through cryptographic witnesses. The two approaches can be used together, but they solve different verification and data-access problems.

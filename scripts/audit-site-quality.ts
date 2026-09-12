@@ -540,7 +540,7 @@ async function main(): Promise<void> {
   );
 
   auditThinCollection('articles', articles, 150);
-  auditThinCollection('glossary entries', glossary, 100);
+  auditThinCollection('glossary entries', glossary, 500);
   auditThinCollection('learn lessons', learnLessons, 150);
 
   const thinResources = resources

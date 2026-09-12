@@ -20,142 +20,42 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-On-Chain Governance refers to a governance model where protocol decisions are proposed, voted on, and executed directly through smart contracts on the blockchain. This creates a transparent and enforceable system that eliminates the need for trusted intermediaries. Unlike traditional corporate governance or off-chain crypto governance, every vote is recorded immutably on the blockchain, and approved proposals automatically execute after predetermined timelocks. Uniswap demonstrates this model effectively, allowing UNI token holders to vote on protocol parameters, treasury allocations, and fee structures with results enforced by code rather than human administrators. While this approach reduces backroom deals and increases accountability, it introduces challenges including voter apathy and potential control by large token holders. For professionals entering Web3, understanding on-chain governance mechanics is essential for roles in DAO operations, protocol development, and decentralized project management.
+## Definition
 
-## How On-Chain Governance Works
+On-chain governance is a way for a blockchain protocol to make certain decisions through smart contracts. A proposal, the voting record, and the final result are stored on the chain. If a proposal passes under the contract's rules, the same system can execute the approved action without an administrator manually applying it.
 
-Typical flow:
+The actions subject to governance vary by protocol. They can include changing a borrowing limit, adding a supported asset, allocating treasury funds, changing fees, or upgrading a contract through a controlled proxy. The rules are also code: who may submit a proposal, how long voting lasts, how many votes are required, and what happens after approval.
 
-- **Proposal Creation**: Token holder submits proposal (requires minimum token threshold).
+On-chain governance does not mean every project decision is made by token holders. It means that specified protocol controls are governed through transactions that the network can inspect and verify.
 
-- **Discussion**: Community debates proposal in forums.
+## How It Works
 
-- **Voting**: Token holders vote on-chain. Votes weighted by token holdings.
+A governance contract usually gives voting power to holders of a governance token. It may measure the holder's balance at a recorded block, called a snapshot block, rather than at the time each vote is cast. Some systems require delegated tokens for voting. Delegation lets a holder assign voting power to another address while keeping ownership of the tokens.
 
-- **Quorum**: Proposal needs minimum participation to pass.
+A proposal commonly contains executable transaction data. For example, it can call a lending-market contract with a new collateral factor. The contract checks whether the proposer meets a threshold, then opens a voting period. Voters choose for, against, or abstain. The proposal must often meet both a majority condition and a quorum, which is a minimum level of participating voting power.
 
-- **Execution**: If passed, smart contract executes change after timelock.
+After a successful vote, a timelock may delay execution for one or more days. During that interval, users and security monitors can review the queued transaction and react to a harmful result. When the delay ends, anyone may usually send the execution transaction. The governance contract then makes the approved calls exactly as encoded, provided its permissions have not changed.
 
-On-chain governance is transparent and automated.
+Voting can be token-weighted, where one token gives one vote. Other designs use delegated representatives, token lockups that increase voting weight over time, or quadratic methods that reduce the influence of additional tokens. Each method changes who can influence an outcome.
 
-## Voting Mechanisms
+## Concrete Example
 
-Common models:
+Suppose a lending protocol has a governance token and a contract that controls the maximum amount users may borrow against ETH. A token holder submits a proposal to lower the limit because ETH price swings have increased. The proposal specifies the exact new value and includes the contract call needed to set it.
 
-- **Token-Weighted Voting**: One token equals one vote.
+At the snapshot block, 20 million votes are eligible. Voting stays open for five days. The rules require at least 2 million votes for quorum and more votes for than against. Three million votes participate: 2.3 million for, 500,000 against, and 200,000 abstaining. The proposal passes if abstentions count toward quorum but not the majority calculation, as defined by that protocol.
 
-- **Quadratic Voting**: Voting power equals the square root of tokens, reducing whale power.
+The proposal enters a two-day timelock. Users can see its code and confirm it changes only the borrowing limit. After the delay, an address calls `execute`. The governance contract calls the lending contract, and the new limit takes effect. No committee member needs to edit the setting by hand.
 
-- **Delegated Voting**: Holders delegate votes to representatives.
+## Limitations And Risks
 
-- **Time-Locked Voting**: Tokens must be locked to vote, preventing flash loan voting.
+Voting power can concentrate in large holders, exchanges, founders, or investment funds. A public vote record also does not show why a voter supported a change or whether votes were coordinated through private agreements. Delegation can improve participation, but it can also concentrate influence in a small number of delegates.
 
-- **Snapshot Voting**: Off-chain signaling, then on-chain execution.
+Low turnout is another problem. A proposal can pass with little attention if quorum is too low. If quorum is too high, needed changes can fail because holders do not vote. Token ownership is not the same as technical or risk-management expertise, so a majority can approve a change with poorly understood consequences.
 
-Different mechanisms balance fairness and efficiency.
+Smart contracts execute instructions, not intent. A proposal with an error can perform an unintended but valid action. Timelocks slow response to both harmful proposals and genuine emergencies. Borrowed voting power and vote buying can also distort outcomes. Controls that reduce these risks can add trust assumptions or centralization.
 
-## Pros and Cons
+## Relevant Distinctions
 
-Benefits:
+On-chain governance differs from off-chain governance. Off-chain systems may use forums, polls, or signed messages to signal a decision, then rely on a multisignature wallet or team to carry it out. That can be cheaper and easier to change, but execution is not automatically enforced by the vote.
 
-- **Transparency**: All votes and proposals are public.
-
-- **Enforceability**: Execution is automatic once passed.
-
-- **Legitimacy**: Community decision-making builds trust.
-
-- **Global Participation**: Anyone with tokens can participate.
-
-Tradeoffs:
-
-- **Voter Apathy**: Low participation weakens legitimacy.
-
-- **Whale Dominance**: Large holders can control outcomes.
-
-- **Governance Attacks**: Flash loans or bribery can manipulate votes.
-
-- **Slow Process**: Governance can be slow, which is risky in emergencies.
-
-## Governance Attacks
-
-Threats:
-
-- **Flash Loan Voting**: Borrow tokens to gain temporary voting power.
-
-- **Bribery Markets**: Pay voters to support proposals.
-
-- **Quorum Manipulation**: Attackers suppress quorum to block proposals.
-
-- **Malicious Proposals**: Attackers propose harmful changes.
-
-Safeguards are critical.
-
-## Safeguards and Controls
-
-Best practices:
-
-- **Timelocks**: Delay between approval and execution.
-
-- **Guardian Veto**: Multisig veto power for emergencies.
-
-- **Minimum Quorum**: Prevents low-participation decisions.
-
-- **Delegation**: Increase informed participation.
-
-- **Progressive Decentralization**: Gradually reduce admin control as protocol matures.
-
-Safeguards reduce risk.
-
-## Real-World Examples
-
-Protocols:
-
-- **MakerDAO**: On-chain governance for collateral types and risk parameters.
-
-- **Uniswap**: Community votes on fee and treasury changes.
-
-- **Aave**: On-chain governance for risk settings and upgrades.
-
-- **Compound**: Token-weighted governance with timelocks.
-
-On-chain governance is widely adopted.
-
-## Career Opportunities
-
-Governance roles:
-
-- **Governance Researchers**.
-
-- **DAO Operations** roles.
-
-- **Protocol Designers**.
-
-- **Community Managers**.
-
-## Best Practices
-
-Participating in governance:
-
-- **Stay Informed**: Read proposals and forums.
-
-- **Delegate Wisely**: Choose informed delegates.
-
-- **Think Long-Term**: Avoid short-term incentives.
-
-- **Monitor Security**: Support safeguards like timelocks.
-
-## The Future of On-Chain Governance
-
-Trends:
-
-- **Better Delegation**: More professional delegates.
-
-- **Identity Systems**: Combining token voting with reputation.
-
-- **AI Assistance**: Tools summarizing proposals.
-
-- **Composable Governance**: Inter-protocol governance coordination.
-
-## Enforce Decisions Transparently
-
-On-chain governance makes decisions transparent and enforceable. It is powerful but risky. If you are interested in governance, explore [governance careers](/) at DAOs and protocol foundations.
+It also differs from a DAO as a broad organizational term. A DAO may use on-chain voting for treasury transfers, off-chain voting for social decisions, or a mix of both. Token voting is one governance mechanism, not a synonym for decentralized decision-making. Finally, a timelock is a security feature within a governance process. It is not itself a voting system.

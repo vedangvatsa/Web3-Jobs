@@ -116,46 +116,6 @@ Obstacles:
 
 Intent-based architecture is still in the research stage with open challenges.
 
-## Career Opportunities
-
-Intent-based systems create roles:
-
-- **Protocol Designers** design intent systems.
-
-- **Solver Engineers** build solvers.
-
-- **Cryptographers** enable privacy.
-
-- **Researchers** study intent systems.
-
-- **Smart Contract Engineers** implement intents.
-
-## Best Practices
-
-Using intent systems:
-
-- **Express Clearly**: Make intents as specific as possible.
-
-- **Monitor Solvers**: Understand solver reputation and incentives.
-
-- **Privacy**: Use encrypted submissions when available.
-
-- **Fallbacks**: Have a backup execution plan if the intent is unfulfilled.
-
-## The Future of Intent-Based
-
-Evolution:
-
-- **Standardization**: Industry standards for intent expression.
-
-- **Cross-Chain**: Intents spanning multiple chains.
-
-- **Decentralized Solvers**: More distributed solver networks.
-
-- **Privacy Default**: Encrypted intents becoming standard.
-
-- **Mainstream Adoption**: Shift from transactions to intents.
-
 ## Express Desired Outcomes
 
 Intent-based architecture enables users to specify outcomes rather than execution paths. Solvers compete to optimize execution. This approach has potential for MEV elimination and UX improvement. If you're interested in solver infrastructure or MEV, explore careers at solver teams and protocol research. These roles focus on modern execution infrastructure.

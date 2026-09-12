@@ -99,46 +99,6 @@ Potential downsides:
 
 Market making is risky despite seeming simple.
 
-## Career Opportunities
-
-Market making creates roles:
-
-- **Quantitative Traders** developing strategies earn competitive salaries.
-
-- **Algorithmic Traders** coding implementations earn competitive salaries.
-
-- **Risk Managers** monitoring risk earn competitive salaries.
-
-- **Systems Engineers** building infrastructure earn competitive salaries.
-
-- **Data Scientists** analyzing markets earn competitive salaries.
-
-## Best Practices
-
-Market making guidance:
-
-- **Start Small**: Test strategies on small capital before scaling.
-
-- **Understand Inventory**: Monitor inventory risk constantly.
-
-- **Automated Hedging**: Use algorithms to protect against adverse price moves.
-
-- **Diversify**: Avoid concentration on a single pair or exchange.
-
-- **Stay Informed**: Keep up with market structure changes.
-
-## The Future of Market Making
-
-Market making evolution:
-
-- **More Automation**: Advanced algorithms are taking a larger role.
-
-- **Retail Participation**: Better tools are enabling retail market making.
-
-- **Cross-Chain**: Market making is expanding across multiple chains.
-
-- **AMM Dominance**: DeFi market making through AMMs is becoming more significant.
-
 ## Profit From Price Differences
 
 Market makers provide essential liquidity while profiting from spreads. Understanding market making is valuable for traders and protocol designers. If you're interested in trading or market infrastructure, explore [trading careers](/) at trading firms and exchanges. These roles focus on making markets efficient.

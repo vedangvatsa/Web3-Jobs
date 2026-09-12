@@ -94,12 +94,6 @@ As DeFi expands across multiple blockchains, cross-chain AMMs enable swapping as
 
 Cross-chain AMMs face additional complexity and risk compared to single-chain versions. They must handle the finality characteristics of different blockchains, secure multi-chain infrastructure, and manage impermanent loss across different assets and chains. As cross-chain technology matures, these AMMs will become important for DeFi interoperability.
 
-## Career Opportunities
-
-AMM expertise opens various career paths. Protocol developers build and optimize AMM smart contracts and algorithms. Quantitative researchers design new AMM formulas for specific use cases. Risk analysts evaluate AMM security and economic sustainability for protocols and investors.
-
-Market making using AMMs is now a professional activity. Firms run strategies providing liquidity efficiently, managing impermanent loss, and capturing fees. This requires skills in algorithm design, risk management, and trading. As AMMs mature, the career opportunities around them increasingly resemble traditional finance roles but with blockchain-specific technical requirements.
-
 ## Future Directions
 
 AMM innovation continues with designs addressing current limitations. Better oracle resistance, reduced impermanent loss, improved capital efficiency, and MEV protection are active research areas. New primitives like virtual AMMs (used in perpetual futures) and range-order AMMs blur the lines between AMMs and order books.

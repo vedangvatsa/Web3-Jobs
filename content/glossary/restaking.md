@@ -163,54 +163,6 @@ Restaking is nascent:
 
 - **Risk Evolution**: As protocols request restaking, the market will learn what reasonable slashing rates are. Economics will mature.
 
-## Career Opportunities
-
-Restaking creates sophisticated roles:
-
-- **Risk Managers** evaluating restaking protocols and slashing risk.
-
-- **Validator Operators** running sophisticated restaking strategies.
-
-- **Protocol Engineers** building restaking infrastructure and AVS.
-
-- **Researchers** studying slashing economics and protocol security.
-
-- **Smart Contract Auditors** specializing in restaking security.
-
-## Best Practices
-
-Approaching restaking safely:
-
-- **Start Small**: Begin with minimal restaking to understand mechanics and risks.
-
-- **Understand Slashing**: Know exactly what slashing conditions exist and their severity.
-
-- **Risk Assessment**: Evaluate each AVS security model independently before restaking.
-
-- **Diversification**: Don't concentrate all stake in a single AVS. Diversify across multiple protocols.
-
-- **Insurance**: Consider insurance or hedging if major slashing scenarios concern you.
-
-- **Monitoring**: Actively monitor restaking positions and AVS for any signs of issues.
-
-- **Regular Assessment**: Periodically re-evaluate whether additional yields justify risks.
-
-## The Future of Restaking
-
-Restaking evolution:
-
-- **AVS Proliferation**: More protocols requesting restaking as infrastructure matures.
-
-- **Slashing Events**: The market will test slashing mechanics. Early slashing events will educate the market on real risks.
-
-- **Derivatives**: Restaking derivatives enabling exposure to yields without validator operation.
-
-- **Insurance**: Insurance products protecting against restaking slashing.
-
-- **Protocol Evolution**: Protocols might improve slashing mechanisms to be more granular and fair.
-
-- **Mainstream Adoption**: If risks prove manageable, restaking may become a standard validator revenue source.
-
 ## Maximize Validator Yield
 
 Restaking offers significant capital efficiency for validators willing to bear additional risks. If you're interested in blockchain protocol security, validator economics, or building modern security infrastructure, explore [blockchain infrastructure careers](/) at Eigenlayer, protocols building AVS, and validator services. These roles focus on evolving validator economics and protocol security in more capital-efficient directions.

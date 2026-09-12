@@ -4,6 +4,7 @@ import matter from 'gray-matter';
 
 const articlesDirectory = path.join(process.cwd(), 'content/articles');
 const minimumWords = 1500;
+const minimumNewsWords = 1000;
 const reportOnly = process.argv.includes('--report');
 const verbose = process.argv.includes('--verbose');
 const articleFiles = fs.readdirSync(articlesDirectory)
@@ -132,7 +133,8 @@ for (const file of articleFiles) {
   const words = countWords(content);
   const title = typeof data.title === 'string' ? data.title.trim() : '';
 
-  if (words < minimumWords) articleIssues.push(`under ${minimumWords} words`);
+  const wordFloor = data.category === 'News' ? minimumNewsWords : minimumWords;
+  if (words < wordFloor) articleIssues.push(`under ${wordFloor} words`);
   if (!title || /^[a-z]/.test(title)) articleIssues.push('title needs editorial review');
   if (data.category === 'News' && file.replace(/\.md$/, '').split('-').length > 2) {
     articleIssues.push('news slug must use one or two words');

@@ -88,12 +88,6 @@ Some protocols compete for liquidity through "bribe" markets where they pay user
 
 Understanding these dynamics helps farmers capture additional returns. Holding governance tokens for the right platforms positions you to earn bribe income. Voting for the most generous bribers can significantly boost overall returns, though this adds complexity to farming strategies.
 
-## Career Opportunities
-
-Yield farming knowledge translates to several career paths. DeFi protocols need people who understand farming incentives to design tokenomics and liquidity mining programs. Investment funds hire analysts who can evaluate farming opportunities and manage strategies. Content creators explain farming to audiences learning about DeFi.
-
-Development skills combined with farming knowledge are particularly valuable. Building farming aggregators, automation tools, or analytics platforms serves the farming community. Smart contract auditors with farming expertise understand the security considerations specific to these protocols. As DeFi matures, demand for professionals who deeply understand yield optimization will grow.
-
 ## Long-Term Sustainability
 
 The yield farming sector is maturing from the speculation of 2020-2021. Unsustainable yields based purely on token inflation are declining. Successful protocols transition to generating real yield from economic activity, trading fees, lending interest, protocol revenue. This creates more stable, if lower, returns.

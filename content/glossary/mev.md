@@ -122,24 +122,6 @@ The industry is working on MEV-reducing approaches:
 
 No perfect solution exists. Each approach has tradeoffs between fairness, performance, and decentralization.
 
-## Career Opportunities
-
-MEV has created a substantial industry:
-
-- **MEV Searchers** develop bots and strategies to extract MEV. This role is highly competitive.
-
-- **Smart Contract Auditors** specializing in MEV vulnerabilities identify extraction opportunities in protocols.
-
-- **Protocol Researchers** work on MEV-resistant mechanisms at Flashbots or protocol teams.
-
-- **Smart Contract Engineers** build MEV infrastructure (bundlers, fair ordering services).
-
-- **Data Scientists** analyze MEV patterns and extraction strategies.
-
-- **Quant Researchers** develop sophisticated extraction algorithms.
-
-- **Block Builders** construct optimal blocks for maximum MEV at specialized firms.
-
 ## Ethical Considerations
 
 MEV raises important philosophical questions:
@@ -153,22 +135,6 @@ MEV raises important philosophical questions:
 - **Regulatory Implications**: As regulations develop, MEV and front-running might be classified as market manipulation. Different jurisdictions might have distinct stances.
 
 Most in the industry acknowledge MEV creates perverse incentives and view solving it as important for crypto's long-term sustainability and user experience.
-
-## The Future of MEV
-
-MEV evolution continues:
-
-- **Encrypted Mempools**: Adoption of encrypted transactions preventing front-running visibility.
-
-- **Fair Ordering Consensus**: Protocols building fair transaction ordering into consensus mechanisms.
-
-- **MEV Distribution**: Rather than eliminating MEV, redistributing extracted value more fairly among network participants.
-
-- **Regulatory Framework**: Potential regulations treating MEV extraction as market manipulation, restricting certain strategies.
-
-- **Institutional Engagement**: Large financial institutions entering the MEV space, professionalizing extraction and reshaping market dynamics.
-
-- **Cross-Chain Solutions**: Solving MEV across multiple chains simultaneously as multi-chain applications proliferate.
 
 ## Master MEV
 

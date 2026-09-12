@@ -97,48 +97,6 @@ Various metrics assess market liquidity:
 
 - **Bid-Ask Spread**: For order book exchanges, tighter spreads indicate higher liquidity. DEXs don't have spreads but equivalent measures based on price impact.
 
-## Career Opportunities
-
-Understanding liquidity is important for various DeFi roles:
-
-- **Quantitative Analysts** model liquidity dynamics, price impact, and optimal LP strategies. These roles require strong mathematical backgrounds.
-
-- **Market Makers** provide professional liquidity to DEXs and CEXs, managing inventory and risk.
-
-- **Protocol Economists** design tokenomics and liquidity incentive programs for DeFi protocols.
-
-- **Smart Contract Developers** build AMMs, concentrated liquidity protocols, and new liquidity mechanisms.
-
-- **Risk Analysts** assess liquidity risks for lending protocols, helping set collateral factors and liquidation parameters.
-
-## Best Practices for LPs
-
-Successful liquidity provision requires strategy:
-
-- **Choose Stable Pairs**: Pairs with correlated assets (like stablecoin pairs or ETH/wrapped ETH) minimize impermanent loss while still earning fees.
-
-- **Consider Timeframe**: Impermanent loss can reverse if prices return to original ratios. Longer timeframes allow more fee accumulation to offset losses.
-
-- **Diversify**: Don't concentrate all capital in one pool or protocol. Spread risk across multiple positions.
-
-- **Monitor Positions**: Regularly check impermanent loss calculations against fee earnings. Tools help track LP performance.
-
-- **Understand Incentives**: High APY from liquidity mining often indicates high impermanent loss risk or unsustainable token emissions.
-
-## The Future of Liquidity
-
-Liquidity mechanisms continue evolving:
-
-- **Concentrated Liquidity**: Allowing LPs to specify price ranges concentrates capital where it's most useful, improving efficiency.
-
-- **Protocol-Owned Liquidity**: Rather than renting liquidity through incentives, protocols like Olympus DAO pioneered buying and owning their own liquidity.
-
-- **Cross-Chain Liquidity**: Bridges and cross-chain DEXs aim to aggregate liquidity across multiple chains, improving execution for users.
-
-- **Just-in-Time Liquidity**: Advanced market makers provide liquidity only when trades occur, optimizing capital efficiency.
-
-- **Dynamic Fees**: Protocols are experimenting with fee structures that adjust based on market volatility and other factors.
-
 ## Contribute to DeFi Markets
 
 If you're interested in market microstructure, trading, or protocol design, explore [DeFi career opportunities](/) focused on liquidity provision, market making, and protocol economics. These roles place you at the center of decentralized finance, helping build more efficient and accessible markets.

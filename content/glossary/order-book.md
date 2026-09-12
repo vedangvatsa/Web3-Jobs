@@ -129,46 +129,6 @@ Future directions:
 
 - **Intent Architecture**: Shift toward intent-based systems letting solvers find execution.
 
-## Career Opportunities
-
-Order books create roles:
-
-- **Trading Systems Engineers** build order book systems.
-
-- **Market Makers** provide liquidity.
-
-- **High-Frequency Traders** exploit latency.
-
-- **Exchange Operators** manage order matching.
-
-- **Quantitative Traders** develop trading algorithms.
-
-## Best Practices
-
-Using order books effectively:
-
-- **Understand Spreads**: Tight spreads indicate liquid markets. Wide spreads indicate illiquidity.
-
-- **Limit Orders**: Use limit orders for better control over execution price.
-
-- **Market Liquidity**: Trade liquid pairs to minimize slippage.
-
-- **Avoid Large Trades**: Size matters. Large orders can move the market significantly.
-
-- **Time Awareness**: Avoid front-running by trading off-peak times or using limit orders.
-
-## The Future of Order Books
-
-Order book evolution:
-
-- **DeFi Integration**: More sophisticated DeFi order book implementations are emerging.
-
-- **Layer 2 Order Books**: Order books on rollups enable fast, cheap trading.
-
-- **Encrypted Orders**: Privacy-enhanced order books prevent front-running.
-
-- **Hybrid Models**: Continued evolution toward hybrid order book and AMM systems.
-
 ## Discover Price Efficiently
 
 Order books are foundational to trading, enabling price discovery and efficient matching. Understanding order books is essential for traders and protocol designers. If you're interested in trading systems, market microstructure, or exchange design, explore [trading infrastructure careers](/) at exchanges and trading firms. These roles focus on building efficient market infrastructure.

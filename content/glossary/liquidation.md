@@ -116,52 +116,6 @@ Different protocols handle liquidation differently:
 
 - **Liquity**: Fixed 110% collateralization ratio with redistribution mechanism. Liquidated collateral is redistributed to other borrowers rather than sold to liquidators, eliminating liquidation penalties but creating different risk dynamics.
 
-## Career Opportunities
-
-Liquidation mechanisms create professional opportunities:
-
-- **Liquidation Bot Developers** build and maintain automated systems that capture liquidation opportunities. This requires Solidity knowledge, off-chain infrastructure, and optimization skills.
-
-- **Risk Analysts** model liquidation risk for protocols and users, helping set collateral ratios and liquidation thresholds. These roles require quantitative skills and understanding of market microstructure.
-
-- **Protocol Economists** design liquidation mechanisms that balance lender protection with borrower experience, an important component of protocol design.
-
-- **Quant Traders** at crypto funds analyze liquidation cascades and market impact, using liquidation events as alpha signals.
-
-- **Smart Contract Auditors** review liquidation logic for vulnerabilities, ensuring mechanisms work as intended under all conditions.
-
-## Best Practices
-
-Avoiding liquidation requires discipline:
-
-- **Monitor Positions**: Check health factors daily during normal markets, hourly during volatility. Use alerts from services like DeFi Saver or Instadapp.
-
-- **Maintain Buffers**: Never borrow maximum LTV. Aim for 50-60% of maximum to provide a substantial safety margin.
-
-- **Understand Assets**: Know your collateral's volatility characteristics. Stablecoins and major tokens like ETH have different risk profiles than smaller cap assets.
-
-- **Plan for Volatility**: Have a strategy for adding collateral or closing positions during market stress before liquidation threatens.
-
-- **Consider Costs**: Factor in gas fees when calculating whether to add collateral. During congestion, saving collateral might cost more than the liquidation penalty.
-
-- **Use Stablecoins**: When possible, borrow stablecoins against stable collateral to eliminate price-change liquidation risk.
-
-## The Future of Liquidation
-
-Liquidation mechanisms continue evolving:
-
-- **Improved Oracles**: Better price feeds reduce false liquidations from temporary price anomalies or oracle manipulation.
-
-- **Partial Liquidations**: More granular liquidation allowing smaller position adjustments rather than large forced closures.
-
-- **Liquidation Insurance**: Protocols offering coverage against liquidation, though at a premium cost.
-
-- **Auction Improvements**: More sophisticated auction mechanisms maximizing collateral recovery while minimizing market impact.
-
-- **Cross-Protocol Coordination**: Potential for protocols to coordinate liquidations, reducing cascading effects during market stress.
-
-- **Layer 2 Integration**: L2 solutions enabling cheaper, faster liquidation management for borrowers trying to avoid liquidation.
-
 ## Work through DeFi Lending
 
 Understanding liquidation is important for anyone using DeFi lending, whether borrowing, lending, or building protocols. If you're interested in DeFi risk management, quantitative analysis, or protocol design, explore [DeFi career opportunities](/) at leading protocols. These positions place you at the intersection of finance, theory, and smart contract engineering.

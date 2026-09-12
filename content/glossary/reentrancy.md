@@ -20,73 +20,54 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Reentrancy is a smart contract vulnerability that occurs when a function can be called repeatedly before its internal state updates are complete, enabling attackers to drain funds through recursive calls. The most infamous example is the 2016 DAO hack on Ethereum, where an attacker exploited a reentrancy flaw in the withdraw function to siphon 3.6 million ETH, triggering a contentious hard fork that created Ethereum Classic. The attack works by having a malicious contract's receive function repeatedly call back into the vulnerable withdraw function before the victim contract can update the sender's balance to zero. Modern developers prevent reentrancy using the checks-effects-interactions pattern or reentrancy guard modifiers that block recursive calls. Security auditors and smart contract developers who understand reentrancy vulnerabilities remain highly sought after as protocols prioritize protecting user funds.
+Reentrancy is a smart contract bug where an external call gets control before the calling contract has finished updating its own state. The recipient can call back into the first contract while balances, accounting, or permissions still reflect the earlier state. If the second call passes the same checks, the contract can pay or account for the same value more than once.
 
-## Reentrancy Mechanics
+The common example is a withdrawal function. A contract checks that Alice has 1 ETH recorded in its internal ledger, sends Alice 1 ETH, and only then sets her balance to zero. If Alice is a contract, receiving ETH can run its `receive` function. That function can call `withdraw` again before the first call reaches the balance update. The second call still sees a balance of 1 ETH.
 
-How attacks work:
+The DAO incident in 2016 showed why this order matters. A reentrancy flaw let an attacker repeatedly withdraw before the relevant accounting completed. The incident helped make contract-call order, withdrawal design, and independent review central parts of Ethereum security work. It is not the only form of reentrancy, and copying a guard into one function does not automatically protect an entire protocol.
 
-- **1. Initial Call**: Attacker calls withdraw function. Contract checks balance (sufficient), then sends funds.
+## A vulnerable call sequence
 
-- **2. Before State Update**: Funds sent before balance is updated in contract storage.
+A typical vulnerable sequence has four steps:
 
-- **3. Fallback Function**: Attacker's contract has fallback function triggered when receiving funds.
+1. A caller asks to withdraw an amount recorded in a contract mapping.
+2. The contract checks the mapping and makes an external call to send assets.
+3. The recipient's code runs before the first function has updated the mapping.
+4. The recipient calls the withdrawal function again, using the stale balance.
 
-- **4. Recursive Call**: Fallback function calls withdraw again, triggering same function recursively.
+The external call does not need to be an ETH transfer. It can be a token transfer with a callback, a call to another protocol, an oracle update, a hook, or any other interaction that lets untrusted code run. Solidity's [security considerations](https://docs.soliditylang.org/en/latest/security-considerations.html) describe this as a risk whenever control passes to an external contract.
 
-- **5. Repeated**: Function executes again with outdated balance, pays attacker again.
+The first call often succeeds because the contract uses `call`, which forwards control to the recipient. `transfer` and `send` used to be treated as a simple defense because of their gas limits. That is not a safe general rule. Gas costs can change, legitimate recipients may need more gas, and protocols still have to keep their accounting correct before every external interaction.
 
-- **6. State Finally Updates**: After all recursive calls, balance finally updated. But attacker drained multiple times.
+## Update state before calling out
 
-Recursive calls exploit delayed state updates.
-
-## The DAO Hack
-
-Historical example:
-
-- **Setup**: DAO held ETH. Users could withdraw funds by calling withdraw() function.
-
-- **Vulnerability**: Withdraw function sent funds before updating balance ledger.
-
-- **Attack**: Attacker called withdraw(). Contract sent 1 ETH. Attacker's fallback function called withdraw() again. Got sent 1 ETH again. Repeated multiple times.
-
-- **Result**: Attacker drained 3.6M ETH exploiting reentrancy.
-
-- **Impact**: Hard fork required to recover funds. Spawned Ethereum Classic.
-
-The DAO hack was a significant moment for smart contract security.
-
-## Reentrancy Prevention
-
-How to prevent:
-
-- **Checks-Effects-Interactions**: Pattern ensuring state updates before interactions.
+The usual pattern is checks-effects-interactions. Check inputs and permissions first. Update the contract's own state second. Make the external call last.
 
 ```solidity
-// BAD - Vulnerable to reentrancy
+// Unsafe: external code runs before the balance changes.
 function withdraw() {
  uint amount = balances[msg.sender];
+ require(amount > 0);
  (bool success, ) = msg.sender.call{value: amount}("");
  require(success);
- balances[msg.sender] = 0; // Updated AFTER sending funds
+ balances[msg.sender] = 0;
 }
 
-// GOOD - Prevents reentrancy
+// Safer: the second call sees a zero balance.
 function withdraw() {
  uint amount = balances[msg.sender];
- balances[msg.sender] = 0; // Update BEFORE sending
+ require(amount > 0);
+ balances[msg.sender] = 0;
  (bool success, ) = msg.sender.call{value: amount}("");
  require(success);
 }
 ```
 
-State should update before sending funds.
+Updating the balance first means a reentrant call fails the balance check. In production code, the same rule applies to shares, debt, collateral, allowances, reward indices, and governance votes. A developer must identify every state value that a later call could rely on, not only the most obvious token balance.
 
-## Reentrancy Guards
+## Reentrancy guards
 
-Automated prevention:
-
-- **Mutex Pattern**: Lock prevents function re-entry while executing.
+A reentrancy guard adds a temporary lock around a function. While the function is running, another call to a protected function reverts.
 
 ```solidity
 bool locked = false;
@@ -99,82 +80,18 @@ modifier nonReentrant() {
 }
 
 function withdraw() nonReentrant {
- // Reentrancy protected
+ // Update state, then make the external transfer.
 }
 ```
 
-OpenZeppelin provides ReentrancyGuard ensuring non-reentrant execution.
+OpenZeppelin's [ReentrancyGuard](https://docs.openzeppelin.com/contracts/api/utils#ReentrancyGuard) provides a standard implementation. It is a useful second control, but it is not a substitute for correct accounting. A guard can also create design constraints: two `nonReentrant` functions cannot call each other directly, so shared work often belongs in an internal function without the modifier.
 
-## Reentrancy Types
+## Variants to check
 
-Different variations:
+Single-function reentrancy is the direct example above. Cross-function reentrancy is less obvious. A recipient may reenter a different public function that reads or changes related state. For example, a withdrawal function may be guarded while an unguarded claim function still treats the caller's old collateral or share balance as valid.
 
-- **Single-Function Reentrancy**: Function calls itself. Most common.
+Cross-contract reentrancy spans more than one contract. A vault, token, controller, and price module can each look safe alone while their combined call order exposes inconsistent state. This is common in systems with hooks, callback-based token standards, or composable DeFi integrations.
 
-- **Cross-Function Reentrancy**: Function A calls function B which calls function A. More subtle.
+Read-only reentrancy does not always steal funds in the first call. Instead, a callback causes another contract to read a temporary, inconsistent value. That contract may calculate a price, mint shares, or approve a loan using the wrong value. The vulnerable contract may have restored its state by the end of the transaction, but the second contract has already acted on the transient result.
 
-- **Cross-Contract Reentrancy**: Reentrancy across multiple contracts. Very subtle.
-
-- **Read-Only Reentrancy**: Reading inconsistent state during reentrancy (different vulnerability).
-
-Modern guard patterns protect against most variants.
-
-## Recent Reentrancy Exploits
-
-Modern examples:
-
-- **Pancakebunny**: Reentrancy across multiple pools drained funds.
-
-- **Cream Finance**: Cross-contract reentrancy via flash loans drained funds.
-
-- **bZx**: Multiple reentrancy vulnerabilities in DeFi protocols.
-
-Even modern protocols are vulnerable if not careful.
-
-## Career Opportunities
-
-Security creates roles:
-
-- **Smart Contract Auditors** finding reentrancy vulnerabilities earn competitive salaries.
-
-- **Security Researchers** studying exploit patterns earn competitive salaries.
-
-- **Protocol Security Engineers** preventing exploits earn competitive salaries.
-
-- **Formal Verification Engineers** proving contract safety earn competitive salaries.
-
-- **Incident Response Teams** responding to exploits earn competitive salaries.
-
-## Best Practices
-
-Preventing reentrancy:
-
-- **Use Checks-Effects-Interactions**: Always update state before interactions.
-
-- **Use Reentrancy Guards**: Use OpenZeppelin's ReentrancyGuard.
-
-- **Avoid Dangerous Patterns**: Don't use.call for payments if possible.
-
-- **Audit Thoroughly**: Have contracts professionally audited.
-
-- **Test Edge Cases**: Include reentrancy tests in test suite.
-
-- **Stay Updated**: Follow security best practices as patterns evolve.
-
-## The Future of Security
-
-Security evolution:
-
-- **Formal Verification**: Proving contract correctness mathematically.
-
-- **Automated Auditing**: Tools automatically finding vulnerabilities.
-
-- **Safer Languages**: Languages with built-in safety.
-
-- **Staged Rollouts**: More protocols doing careful staged rollouts.
-
-- **Bug Bounties**: Protocols offering bounties for vulnerability discovery.
-
-## Prevent Recursive Attacks
-
-Reentrancy is a serious vulnerability but preventable with proper patterns. Understanding reentrancy is critical for smart contract developers. If you're interested in smart contract security, explore [security careers](/) at audit firms and protocol teams. These roles focus on keeping DeFi safe.
+Reviewers test reentrancy by writing a hostile receiver contract, not by assuming a normal wallet is the recipient. They should try repeated calls, calls into related public functions, zero-value and partial withdrawals, failed transfers, and interactions through token or protocol callbacks. The goal is to show that every reachable path preserves its accounting rules before and after an external call.

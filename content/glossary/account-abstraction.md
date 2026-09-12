@@ -156,52 +156,6 @@ Account abstraction still faces obstacles:
 
 Research and development are ongoing to address these challenges.
 
-## Career Opportunities
-
-Account abstraction creates new roles:
-
-- **AA Protocol Engineers** build account abstraction infrastructure and standards.
-
-- **Smart Wallet Developers** create account abstraction-enabled wallets.
-
-- **Security Researchers** analyze account abstraction security and attack vectors.
-
-- **Bundler Operators** run bundler infrastructure.
-
-- **UX Engineers** design account abstraction-enabled interfaces for improved user experience.
-
-- **Compliance Engineers** implement regulatory controls in account abstraction accounts.
-
-## Best Practices
-
-Using account abstraction effectively involves:
-
-- **Use Established Implementations**: Refer to ERC-4337 reference implementations and audited account contracts.
-
-- **Understand Validation Logic**: Know how your account validates operations.
-
-- **Social Recovery Setup**: If using social recovery, set it up carefully with trusted contacts.
-
-- **Paymaster Trust**: Understand who is sponsoring gas and whether they are trustworthy.
-
-- **Mixed Strategies**: Consider a hybrid approach, keeping some funds in account abstraction accounts, some in multisig, and some in cold storage.
-
-- **Test on Testnet**: Thoroughly test account abstraction accounts on testnet before mainnet use.
-
-## The Future of Account Abstraction
-
-Account abstraction's evolution may include:
-
-- **Protocol Changes**: Long-term, Ethereum might incorporate account abstraction into the protocol, eliminating the need for the EntryPoint workaround.
-
-- **Standardization**: More standardized account abstraction implementations across wallets and chains.
-
-- **Cross-Chain Account Abstraction**: Account abstraction accounts operating across multiple chains with unified identity.
-
-- **Compliance Integration**: Account abstraction enabling direct regulatory compliance, such as transaction limits and sanctions screening.
-
-- **Privacy Improvements**: Privacy-preserving account abstraction schemes that enable strong security without revealing user identity.
-
 ## Programmable Accounts
 
 Account abstraction represents a shift from rigid key-based accounts to flexible smart contract accounts. This enables user experience competitive with traditional finance while maintaining self-custody. If you are interested in wallet development, cryptographic security, or improving blockchain user experience, explore blockchain infrastructure careers at wallet companies, protocol teams, and research organizations. These roles focus on making blockchain as usable as traditional finance while maintaining security.

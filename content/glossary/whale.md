@@ -120,20 +120,6 @@ While most won't achieve whale status overnight, understanding the path helps:
 
 - **Yield and Compounding**: Using DeFi yield strategies to compound returns requires substantial starting capital and carries significant risk.
 
-## Career Opportunities
-
-Understanding whale behavior and on-chain analysis is valuable professionally:
-
-- **On-Chain Analysts** track whale movements and create market intelligence reports for trading firms and protocols.
-
-- **Quantitative Traders** model whale behavior and develop strategies to trade alongside or against large holders.
-
-- **Market Makers** manage inventory and provide liquidity, often interacting with whales via OTC desks.
-
-- **Protocol Economists** design tokenomics to minimize whale dominance and governance capture risks.
-
-- **Risk Analysts** assess whale concentration risks for lending protocols, exchanges, and investment funds.
-
 ## Interacting with Whales
 
 For regular traders and DeFi users, whale awareness matters:
@@ -147,20 +133,6 @@ For regular traders and DeFi users, whale awareness matters:
 - **Use Limit Orders**: In whale-dominated markets, market orders risk poor execution if a whale dumps into your buy or pumps into your sell.
 
 - **Learn from Whales**: Many successful whales share their strategies or leave clues in on-chain behavior. Studying their moves provides education.
-
-## The Future of Whales
-
-Whale dynamics continue evolving:
-
-- **Institutional Whales**: More traditional finance institutions accumulating crypto will create a new class of regulated, professionally-managed whales.
-
-- **Privacy Solutions**: Layer 2s and privacy protocols make tracking whale activity harder, potentially increasing manipulation risks.
-
-- **Governance Innovations**: Protocols are experimenting with governance mechanisms that limit whale power.
-
-- **Regulatory Scrutiny**: As regulators focus on crypto manipulation, whale activities may face more oversight and restrictions.
-
-- **Distribution Over Time**: As crypto adoption grows and tokens distribute more widely, whale dominance in major assets should decrease, creating healthier markets.
 
 ## Work through Whale-Influenced Markets
 

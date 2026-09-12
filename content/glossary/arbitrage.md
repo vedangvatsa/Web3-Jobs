@@ -118,50 +118,6 @@ Successful arbitrageurs rely on sophisticated infrastructure:
 
 - **Portfolio Management**: Systems for tracking positions across multiple exchanges and chains, managing collateral, and calculating real-time P&L.
 
-## Career Opportunities
-
-Arbitrage trading offers diverse career paths:
-
-- **Quantitative Traders** develop arbitrage strategies using statistical modeling and programming. Entry-level quant positions typically start at competitive salaries, while experienced traders earn significantly more including performance bonuses.
-
-- **Algorithmic Trading Engineers** build and maintain arbitrage bots, optimizing execution speed and gas efficiency. These roles offer competitive salaries at trading firms.
-
-- **Market Makers** provide liquidity while capturing arbitrage opportunities, earning salaries that vary based on firm size and performance.
-
-- **DeFi Protocol Developers** build the infrastructure that enables arbitrage, including DEXs, lending protocols, and cross-chain bridges. Senior positions command competitive salaries.
-
-- **Risk Analysts** model arbitrage risks including execution failure, smart contract vulnerabilities, and market impact.
-
-## Best Practices
-
-Effective arbitrage requires discipline and preparation:
-
-- **Calculate True Costs**: Include all fees, trading fees, gas costs, slippage, and opportunity cost of capital, before executing trades.
-
-- **Start Small**: Test strategies with small amounts before scaling up. Even experienced traders lose money on new strategies initially.
-
-- **Monitor Mempool**: For on-chain arbitrage, watching pending transactions helps predict price movements and avoid front-running losses.
-
-- **Diversify Strategies**: Don't rely on a single arbitrage type. Market conditions change, and opportunities that work today may disappear tomorrow.
-
-- **Maintain Reserves**: Keep capital across multiple exchanges and chains to quickly capitalize on opportunities without waiting for deposits.
-
-- **Continuous Learning**: Arbitrage strategies evolve as markets mature. Stay current with new DEXs, protocols, and trading techniques.
-
-## The Future of Arbitrage
-
-Arbitrage in crypto continues evolving:
-
-- **Cross-Chain Infrastructure**: Improved bridges and interoperability will create new arbitrage opportunities across chains.
-
-- **Intent-Based Trading**: New systems may change how arbitrage opportunities are identified and captured.
-
-- **Privatized Mempools**: Solutions like Flashbots protect traders from front-running but also change arbitrage dynamics.
-
-- **AI and Machine Learning**: Advanced models identify complex arbitrage patterns that simpler algorithms may miss.
-
-- **Institutional Participation**: More sophisticated financial institutions entering crypto will increase competition and market efficiency.
-
 ## Start Trading Systematically
 
 If you're interested in quantitative trading, algorithmic strategies, or market microstructure, explore quantitative trading roles at crypto-native trading firms and DeFi protocols. These positions combine finance, mathematics, and programming to capture inefficiencies in the financial market.

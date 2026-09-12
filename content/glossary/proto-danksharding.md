@@ -19,88 +19,42 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Proto-Danksharding refers to Ethereum's EIP-4844 upgrade that introduced blob-carrying transactions, a new data type specifically designed to reduce costs for layer 2 rollups. Unlike traditional calldata that competes for block space with regular transactions, blobs provide dedicated temporary storage that validators do not need to process permanently, making data availability substantially cheaper. Blobs are stored for approximately 18 days before being pruned, which is sufficient for rollups to finalize their state while avoiding permanent blockchain bloat. This upgrade serves as a stepping stone toward full danksharding, which will expand data availability capacity through data availability sampling across multiple shards. Professionals who understand proto-danksharding mechanics are increasingly sought after for roles in rollup development, infrastructure optimization, and blockchain scaling research.
+Proto-danksharding is the name commonly used for EIP-4844, an Ethereum upgrade that added blob-carrying transactions. A blob is a large piece of data attached to a transaction for a limited retention period. Rollups use blobs to publish the data that lets others reconstruct their transactions and state. The upgrade made this data publication cheaper than putting the same bytes in ordinary Ethereum calldata under many network conditions.
 
-## How Proto-Danksharding Works
+The name comes from danksharding, a broader Ethereum data-availability design. EIP-4844 did not split Ethereum execution into independent shard chains. It introduced the blob transaction format and blob fee market so rollups could use dedicated data space.
 
-Core mechanics:
+## How it works
 
-- **Blob Transactions**: New transaction type carrying data blobs.
+A blob-carrying transaction can include one or more blobs. Each blob has a fixed maximum size of 131,072 bytes. The blob's contents are not readable by Ethereum's execution layer. Smart contracts receive a versioned hash that identifies a blob commitment, but they cannot directly inspect the blob bytes during execution.
 
-- **Separate Fee Market**: Blob fees separate from regular gas fees.
+Before submitting a transaction, its sender computes a KZG commitment for each blob. The commitment is a short cryptographic value that binds the sender to the blob data. The transaction includes the corresponding versioned hash. Nodes verify proofs that the blob matches its commitment when processing the transaction. This lets the consensus layer verify that the published data is the committed data without storing all of it in Ethereum's permanent state.
 
-- **Temporary Storage**: Blobs stored temporarily, not permanently in state.
+Blobs have their own fee market. A block has a target amount of blob data and a maximum amount. When blob usage is above the target, the blob base fee tends to rise. When usage is below it, the fee tends to fall. This fee is separate from the normal gas fee paid for transaction execution. A rollup therefore pays one cost for its Ethereum transaction and another for its blob data.
 
-- **DA for Rollups**: Rollups post data in blobs instead of calldata.
+Ethereum nodes store blobs for a limited retention window, roughly 18 days under the protocol's current parameters. After that period, clients can prune the blob sidecars. Rollups must retrieve and preserve any data they need before pruning. The finite retention period prevents data posted for rollup availability from increasing Ethereum's permanent state forever.
 
-Proto-danksharding reduces data availability costs.
+## Concrete example
 
-## Benefits for Rollups
+Consider a rollup that batches 5,000 user transfers. To let independent observers reconstruct the batch, the rollup compresses the transaction data and places it in a blob. It sends a blob-carrying transaction to Ethereum that contains the batch's state root, the KZG commitment, and the versioned hash.
 
-Impact:
+Ethereum executes the small transaction and validates the attached blob commitment. The rollup's contract records the relevant state information, while full Ethereum nodes retain the blob sidecar for the availability window. A node that wants to verify the rollup downloads the blob, decompresses the batch, and checks that applying those transactions produces the claimed state transition or checks the rollup's proof.
 
-- **Lower Fees**: Blob data is cheaper, lowering layer 2 fees.
+If blob demand is low, this publication can cost less than using calldata. If many rollups are publishing blobs in the same blocks, the separate blob base fee rises. The rollup may delay a batch, charge users more, or use fewer blobs until demand falls.
 
-- **Higher Throughput**: More data capacity for rollups.
+## Limitations and risks
 
-- **Scalability**: Rollups can scale without saturating layer 1.
+Blob data is temporary. It is not a place for data that applications need Ethereum nodes to preserve indefinitely. A rollup, archive service, or user must keep a copy before pruning. Losing those copies can make historical reconstruction difficult.
 
-Proto-danksharding directly benefits layer 2 ecosystems.
+Blobs improve data availability capacity, but they do not make a rollup correct. A rollup still needs a sound validity proof system, fraud-proof system, or trusted sequencer model. Ethereum verifies the blob commitment, not the meaning of the data inside it.
 
-## EIP-4844 Overview
+Costs remain variable. A separate fee market prevents blob use from directly competing with normal execution gas in the same way as calldata, but heavy blob demand can still make posting expensive. Nodes also need bandwidth, disk space, and implementation support to process and retain blobs during the retention window.
 
-Key features:
+KZG commitments rely on cryptographic assumptions and a setup ceremony. An implementation error in proof verification, transaction handling, or blob propagation could be serious. The data is also public. Rollups must not put secrets or personal information in blobs merely because the data will later be pruned.
 
-- **New Blob Space**: Separate data space for rollups.
+## Relevant distinctions
 
-- **KZG Commitments**: Cryptographic commitments to blob data.
+A blob is not calldata. Calldata is visible to EVM execution and remains in Ethereum's historical transaction data. Blob contents are not EVM-readable and are pruned after the retention period. Both can carry rollup data, but they have different cost and storage properties.
 
-- **Blob Fee Market**: Independent fee market for blob data.
+Proto-danksharding is not full danksharding. EIP-4844 established blob transactions and the supporting commitment format. Later work can increase data capacity and use data availability sampling to help light clients check blob availability.
 
-EIP-4844 is core to proto-danksharding.
-
-## Tradeoffs
-
-Considerations:
-
-- **Temporary Data**: Blob data is pruned after a set period.
-
-- **Node Requirements**: Nodes must handle blob data temporarily.
-
-- **Complexity**: Adds new transaction type and fee market.
-
-Proto-danksharding adds complexity but offers large scaling benefits.
-
-## Career Opportunities
-
-Scaling roles:
-
-- **Protocol Engineers**.
-
-- **Rollup Engineers**.
-
-- **Research Engineers**.
-
-## Best Practices
-
-Building with blobs:
-
-- **Track Blob Fees**: Monitor the blob fee market.
-
-- **Optimize Data**: Compress rollup data for blob efficiency.
-
-- **Handle Pruning**: Design rollups assuming blob data is temporary.
-
-## The Future of Danksharding
-
-Trends:
-
-- **Full Danksharding**: More blob capacity and sampling.
-
-- **DA Sampling**: Data availability sampling will become key for scalability.
-
-- **More Rollups**: Rollup adoption accelerates with cheaper data availability.
-
-## Cheap Data Availability for Rollups
-
-Proto-danksharding is a major Ethereum scaling milestone enabling cheaper rollup data. Understanding it is important for layer 2 economics. If you're interested in scaling, explore [scaling careers](/) at rollup teams.
+A blob is also not Ethereum state. Contract balances, storage slots, and code are state and must remain available for execution. Blobs are temporary consensus-layer data intended mainly for data availability.

@@ -126,44 +126,6 @@ Emerging approaches:
 
 Decentralized sequencing is an active research area.
 
-## Career Opportunities
-
-Sequencing creates roles:
-
-- **Protocol Engineers** build sequencer infrastructure.
-
-- **Systems Architects** design decentralized sequencing.
-
-- **Cryptography Experts** design threshold encryption.
-
-- **Performance Engineers** optimize sequencing.
-
-- **MEV Researchers** study MEV economics.
-
-## Best Practices
-
-Using sequencer Layer 2s:
-
-- **Understand Risks**: Recognize centralization risks of current sequencers.
-
-- **Plan for Escapes**: Know how to use the escape hatch if the sequencer censors.
-
-- **Monitor Roadmaps**: Track decentralization timelines.
-
-- **Diversify**: Use multiple Layer 2s rather than a single Layer 2.
-
-## The Future of Sequencing
-
-Sequencing evolution:
-
-- **Decentralized Sequencing**: Transition to permissionless sequencing.
-
-- **Encrypted Sequencing**: Sequencing without MEV extraction.
-
-- **Cross-Chain Sequencing**: Sequencers coordinating across multiple Layer 2s.
-
-- **Intent-Based**: Shift from transaction ordering to intent fulfillment.
-
 ## Order Transactions Efficiently
 
 Sequencers are critical Layer 2 infrastructure enabling fast, cheap transactions. Decentralization of sequencing is a major roadmap item for Layer 2s. If you're interested in Layer 2 architecture or MEV, explore [layer 2 careers](/) at Arbitrum, Optimism, and protocol research teams. These roles focus on building scalable and fair ordering systems.

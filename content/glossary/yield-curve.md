@@ -82,30 +82,6 @@ Uses in DeFi:
 
 Understanding curves enables sophisticated DeFi strategies.
 
-## Career Opportunities
-
-Yield curves create roles:
-
-- **Quantitative Analysts** modeling yield curves.
-
-- **Protocol Designers** building yield curve mechanisms.
-
-- **Traders** arbitraging inefficiencies in yield curves.
-
-- **Researchers** studying DeFi yield curve dynamics.
-
-## Best Practices
-
-Understanding yield curves:
-
-- **Monitor Curve Shape**: Watch whether curve is upward-sloping, flat, or inverted.
-
-- **Compare Maturities**: Check rates across different maturities to find opportunities.
-
-- **Understand Risk**: Longer maturities carry more risk. Yield differences reflect risk premiums.
-
-- **Use Intelligently**: Match your needs to appropriate maturity rather than chasing highest yield.
-
 ## The Future
 
 Yield curve evolution:

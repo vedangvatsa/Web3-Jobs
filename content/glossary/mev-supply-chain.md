@@ -142,22 +142,6 @@ The MEV supply chain faces several criticisms:
 
 - **Systemic Risk**: The entire block production process depends on a small number of entities (builders and relays), creating single points of failure.
 
-## Career Opportunities in the MEV Supply Chain
-
-The MEV ecosystem has created specialized roles:
-
-- **MEV Searchers**: Build and operate MEV extraction bots, requiring deep DeFi knowledge, algorithmic trading skills, and smart contract expertise.
-
-- **Block Builder Engineers**: Design and optimize block construction algorithms, manage searcher relationships, and operate high-performance infrastructure.
-
-- **Relay Operators**: Run and maintain relay infrastructure, implement validation logic, and ensure uptime and censorship resistance.
-
-- **MEV Researchers**: Study MEV markets, propose protocol improvements, model game-theoretic incentives, and design user protection mechanisms.
-
-- **Smart Contract Auditors (MEV Focus)**: Audit MEV-related smart contracts for security vulnerabilities and economic exploits.
-
-This field rewards deep technical knowledge and rapid execution.
-
 ## Protecting Against MEV Extraction
 
 Users and protocols can take steps to reduce MEV exposure:
@@ -173,21 +157,3 @@ Users and protocols can take steps to reduce MEV exposure:
 - **Time Transactions Carefully**: Execute during low-volatility periods when arbitrage opportunities are smaller.
 
 - **Understand Slippage Settings**: Tight slippage tolerance prevents large sandwiches but increases failure risk; find the right balance.
-
-## The Future of the MEV Supply Chain
-
-The MEV supply chain continues to evolve:
-
-- **Enshrined PBS**: Moving builder selection on-chain to reduce relay trust assumptions and improve censorship resistance.
-
-- **Inclusion Lists**: Allowing proposers to force inclusion of certain transactions, preventing builder censorship.
-
-- **MEV Redistribution**: Protocols that redistribute proposer MEV rewards across all validators to reduce inequality.
-
-- **Cross-Domain MEV**: Extending the supply chain to cover L2 rollups, app chains, and cross-chain MEV opportunities.
-
-- **Encrypted Mempools**: Threshold encryption and time-lock puzzles to hide transaction content until after ordering, reducing front-running.
-
-The supply chain that emerges from these innovations will shape Ethereum's decentralization and fairness for years to come.
-
-- **Want to participate in the MEV economy?** Start by running a searcher on testnets, study builder algorithms, or contribute to relay infrastructure. The MEV supply chain rewards technical excellence and strategic thinking.

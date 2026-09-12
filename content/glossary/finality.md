@@ -126,48 +126,6 @@ Real-world considerations:
 
 Practical finality usage reflects these considerations.
 
-## Career Opportunities
-
-Finality and consensus create roles:
-
-- **Consensus Researchers** studying finality earn competitive salaries.
-
-- **Protocol Engineers** implementing finality mechanisms earn competitive salaries.
-
-- **Security Researchers** analyzing finality risks earn competitive salaries.
-
-- **Validator Operators** ensuring finality earn competitive salaries.
-
-- **Risk Analysts** assessing finality risks and guarantees earn competitive salaries.
-
-- **Auditors** verifying finality implementations earn competitive salaries.
-
-## Best Practices
-
-Using finality:
-
-- **Wait for Finality**: For high-value transactions, wait for finality before accepting.
-
-- **Understand Chains**: Know the finality period for the chain you are using.
-
-- **Multiple Confirmations**: Some applications require more confirmations than the minimum.
-
-- **Monitor Network**: If the network is under stress, finality might be delayed.
-
-- **Value-Based**: For small transactions, less finality is acceptable. For large transactions, more is needed.
-
-## The Future of Finality
-
-Finality evolution:
-
-- **Faster Finality**: Protocols are working on reducing finality periods.
-
-- **Instant Finality**: Some newer designs target instant finality, which may be less secure.
-
-- **Hybrid Finality**: Combining different finality mechanisms, such as economic and cryptographic.
-
-- **Interchain Finality**: Finality guarantees spanning multiple chains.
-
 ## Settle Transactions Permanently
 
 Finality is a critical blockchain property determining when transactions are irreversible. Understanding finality helps evaluate blockchain security and design. If you are interested in consensus or protocol design, explore [protocol careers](/) at blockchain teams. These roles focus on achieving fast, secure finality.

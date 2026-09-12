@@ -20,126 +20,34 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Soulbound Token refers to a non-transferable NFT permanently bound to a specific wallet address, representing credentials, achievements, or aspects of identity that cannot be sold, traded, or moved to another account. The concept was popularized by Ethereum co-founder Vitalik Buterin in a 2022 paper on "Decentralized Society." It addresses the challenge of establishing verifiable reputation and credentials on-chain without the risk of purchased or fraudulent claims. Binance introduced one of the first large-scale implementations with Binance Account Bound tokens for identity verification purposes. Practical applications include academic diplomas, professional certifications, proof of attendance at events, and on-chain reputation scores that follow a wallet permanently. As organizations explore decentralized identity solutions, professionals who understand soulbound token architecture and implementation are increasingly sought for roles in identity management, credentialing platforms, and Web3 human resources technology.
+A Soulbound Token, or SBT, is a token whose contract rules prevent an ordinary transfer from one wallet to another. It is often used to record a credential, membership, attendance record, or reputation signal at an address. The word "soulbound" describes non-transferability, not a guarantee that the token proves a person's identity or remains forever. A wallet address can be lost, sold, or controlled by several people. The credibility of an SBT depends mainly on its issuer and its rules.
 
-## Soulbound Token Properties
+## How It Works
 
-Key characteristics:
+An issuer calls a token contract to mint an SBT to a recipient address. The contract records the token ID, holder, and any permitted metadata. Its transfer function either always rejects transfers or allows them only in narrow cases, such as a recovery procedure. A public blockchain lets another application check that the token exists, which contract issued it, and which address holds it.
 
-- **Non-Transferable**: Can't trade or sell soulbound tokens.
+The credential details may be stored directly on-chain, in a linked file, or in a private system. On-chain data is easy to inspect but difficult to remove. A token can instead store a reference, a hash, or a status flag. A verifier can compare a document to its hash without putting the document itself on-chain. This helps reduce disclosure, but the verifier must still trust the issuer's process.
 
-- **Permanent**: Attached to address permanently (can be burned by owner).
+Non-transferability does not solve revocation by itself. A diploma might be valid permanently, while a license can expire or be suspended. The issuer may burn an invalid token, mark it revoked in the contract, or publish a revocation registry. Applications need to check that status rather than assuming every issued token is still valid.
 
-- **Verifiable**: Cryptographically verifiable on-chain.
+Wallet recovery needs separate design. A contract wallet could let approved guardians move the account's credentials after a verified recovery. A simple non-transferable token held by a lost externally owned account cannot move, even if the holder can prove who they are. Some systems issue a replacement token and mark the earlier one invalid instead.
 
-- **Metadata**: Can include metadata about credential (issuer, date, etc).
+## Concrete Example
 
-- **Multiple Holders**: Single address can hold multiple soulbound tokens.
+A training provider completes an identity check and issues an SBT for a passed safety course. The token metadata includes the course identifier, issue date, and a link to the provider's credential record. A workplace application asks an applicant to connect the wallet holding the token. It verifies that the token came from the provider's known contract and has not been revoked.
 
-Soulbound tokens are permanent identity artifacts.
+The application learns that the connected address holds the credential. It does not automatically learn the holder's legal name, course score, or whether the address belongs to one person. If the provider later discovers that the course was issued in error, it can change the status to revoked. The workplace must check the status when it needs a current answer.
 
-## Use Cases
+## Limitations And Risks
 
-Real applications:
+Public tokens can expose sensitive facts. A visible token for a medical condition, employment history, political group, or financial hardship can link an address to information the holder did not intend to reveal. Even vague metadata can become identifying when combined with transaction history. Hashing data does not always protect privacy if the original values come from a small, guessable set.
 
-- **Education**: University issues soulbound diploma on graduation.
+An SBT can also create a permanent negative label. An inaccurate reputation token or a public record of a failed action can be hard to correct and may follow an address into unrelated applications. Issuers need a clear way to correct mistakes, but issuer-controlled revocation gives that issuer continuing power over a holder's record.
 
-- **Professional Credentials**: Certifications verified on-chain.
+The system is vulnerable to issuer fraud and weak verification. Anyone can deploy a token contract and use a familiar name. A real token from an untrustworthy issuer is still untrustworthy. Sybil attacks are another problem: one person can use many wallets to collect tokens or obtain credentials through weak identity checks.
 
-- **Reputation**: Reputation tokens earned through participation.
+## Relevant Distinctions
 
-- **Identity**: Soulbound tokens as identity proof.
+An SBT is usually a non-transferable NFT, but the terms are not identical. An NFT is normally transferable and may represent a collectible or ownership right. An SBT is designed to stay associated with an address. Some non-transferable tokens are only access passes and make no identity claim.
 
-- **DAO Governance**: Soulbound tokens proving participation (governance credentials).
-
-- **Attestations**: Attestations from trusted sources as soulbound tokens.
-
-Soulbound tokens suit credential and identity applications.
-
-## Implementation Challenges
-
-Issues:
-
-- **Recovery**: If wallet compromised, address loses all soulbound tokens.
-
-- **Interoperability**: Different platforms using different soulbound standards.
-
-- **Verification**: Verifying issuer legitimacy (who issued token).
-
-- **Revocation**: How to revoke invalid credentials.
-
-- **Privacy**: Soulbound tokens publicly visible on-chain (privacy concern).
-
-Soulbound token design has challenges.
-
-## Identity Verification
-
-Key application:
-
-- **Decentralized Identity**: Soulbound tokens enable decentralized identity.
-
-- **Credential Aggregation**: Aggregate credentials in single address.
-
-- **No Central Database**: Credentials on-chain, not centralized database.
-
-- **Ownership**: You own your credentials, no issuer dependency.
-
-- **Portability**: Credentials portable across applications.
-
-Soulbound tokens enable decentralized identity systems.
-
-## Privacy Concerns
-
-Challenges:
-
-- **Public Records**: Soulbound tokens publicly visible (privacy exposure).
-
-- **Doxxing**: Can reveal identity through soulbound tokens.
-
-- **History**: Permanent record of all accomplishments and failures.
-
-- **ZK Proofs**: Need zero-knowledge proofs for private credential verification.
-
-- **Selective Disclosure**: Need mechanisms proving credential without revealing identity.
-
-Privacy is critical for soulbound token adoption.
-
-## Career Opportunities
-
-Soulbound tokens create roles:
-
-- **Identity Researchers** studying soulbound tokens.
-
-- **Protocol Designers** designing credential systems.
-
-- **Smart Contract Engineers** implementing soulbound tokens.
-
-- **Privacy Experts** adding privacy to soulbound tokens.
-
-## Best Practices
-
-Issuing soulbound tokens:
-
-- **Verification**: Verify issuer legitimacy.
-
-- **Metadata**: Include sufficient metadata about credential.
-
-- **Revocation**: Plan for revocation mechanism.
-
-- **Privacy**: Consider privacy implications.
-
-## The Future of Soulbound Tokens
-
-Evolution:
-
-- **Privacy**: Privacy-preserving soulbound tokens.
-
-- **Interoperability**: Cross-platform soulbound standards.
-
-- **Revocation**: Better revocation mechanisms.
-
-- **Conditional Tokens**: Tokens with conditions (expiry dates, etc).
-
-## Permanent Digital Credentials
-
-Soulbound tokens create permanent, verifiable credentials. They are important for identity and reputation. If you're interested in identity, explore [identity careers](/) at identity protocol teams. These roles focus on decentralized identity infrastructure.
+An SBT also differs from a verifiable credential. Verifiable credentials are signed digital statements that a holder can present selectively, often without placing each credential on a public chain. An SBT makes its existence visible at an address unless paired with privacy tools. An attestation is the broader concept of a statement made by an issuer. It may be stored on-chain, off-chain, transferable, non-transferable, public, or private. SBTs are one way to represent an attestation, not a complete identity system.

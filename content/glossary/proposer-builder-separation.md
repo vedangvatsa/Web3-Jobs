@@ -19,112 +19,44 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Proposer-Builder Separation is a blockchain architecture design that divides block production into two distinct roles, where specialized builders compete to assemble optimized blocks and validators simply propose the winning block without needing to understand transaction ordering strategies. This separation addresses maximum extractable value centralization concerns by preventing validators from directly manipulating transaction sequences for profit while enabling a competitive marketplace for block construction. Ethereum implemented this concept through MEV-Boost, developed by Flashbots. The architecture creates a sealed-bid auction system where builders submit complete blocks with bids, and proposers select the highest-paying option without seeing internal transaction details, ensuring fair ordering and reducing harmful MEV extraction like sandwich attacks. Professionals who understand PBS mechanics find opportunities in protocol engineering, MEV research, and blockchain infrastructure roles as networks increasingly adopt builder-proposer market designs.
+## Definition
 
-## PBS Mechanics
+Proposer-builder separation, or PBS, divides block production into two roles. A builder assembles the transactions and execution payload for a candidate block. A proposer is the validator selected by consensus to publish a block for that slot. Instead of building its own block, the proposer can select a bid from a builder.
 
-How it works:
+The arrangement exists because constructing a high-value block has become specialized work. Builders can combine transactions, private order flow, and maximum extractable value (MEV) bundles faster than many individual validators. PBS lets proposers receive a share of that value without operating their own sophisticated trading and ordering systems.
 
-- **Builders**: Collect transactions, construct blocks, optimize for value.
+PBS does not make transaction ordering fair by itself. Its effects depend on the participants, rules, and alternatives available to users.
 
-- **Relays**: Relays receive blocks from builders, filter invalid blocks.
+## How It Works
 
-- **Proposers**: Validators choose the best block from relay (highest bid).
+Builders gather public mempool transactions and private submissions. They simulate combinations of those transactions, check that the resulting block is valid, and calculate a payment they can offer to the proposer. The payment may come from transaction tips, bundle payments, arbitrage, liquidations, or other MEV.
 
-- **Bids**: Builders bid to proposers for block inclusion rights.
+In a common Ethereum setup using MEV-Boost, builders submit signed bid data and a blinded block header to relays. A relay distributes the available bids to validators. The proposer compares bids from its configured relays and signs the header for one candidate. After the proposer has committed to that header, the relay releases the full block payload for publication.
 
-- **Separation**: Proposers don't build; builders don't propose.
+Blinding means the proposer sees the bid and block header information needed to make a selection, but not the complete transaction contents before it commits. This is intended to prevent a proposer from copying a profitable transaction ordering into its own block. The published block is still validated by Ethereum nodes. A relay cannot make an invalid block valid.
 
-PBS creates specialized roles in block production.
+MEV-Boost is an out-of-protocol implementation. Ethereum selects the proposer but does not require relay use or a particular builder.
 
-## Why PBS Matters
+## Concrete Example
 
-Benefits:
+For one Ethereum slot, three builders submit bids through a relay. Builder A offers 0.18 ETH, Builder B offers 0.21 ETH, and Builder C offers 0.20 ETH. Each bid represents the value the builder will transfer to the proposer if its payload is used.
 
-- **MEV Mitigation**: Validators can't directly extract MEV by reordering.
+The assigned validator receives the bid headers and chooses Builder B's 0.21 ETH option. It signs the blinded header. The relay then returns Builder B's full payload, including ordinary user transactions and a bundle that captures an arbitrage opportunity. The validator publishes the block, and other nodes verify its transactions and state transition. If it is valid and becomes canonical, the proposer receives the promised value.
 
-- **Fairness**: Users get more predictable execution.
+If the relay fails to deliver the payload in time, the validator can miss the slot or use a fallback path if it has one. If the block is invalid, the network rejects it, and the promised payment does not turn an invalid state transition into an accepted block.
 
-- **Specialization**: Builders focus on optimal block construction.
+## Limitations and Risks
 
-- **Competition**: Competition among builders reduces monopoly power.
+PBS can create new points of concentration. Builders with private order flow, fast infrastructure, and strong searcher relationships may win a large share of blocks. Relays can become gatekeepers if validators rely on only a few of them. Either role can apply censorship policies or experience outages.
 
-PBS reduces centralization in MEV capture.
+The extra communication steps are time-sensitive. A bid, signature, and payload must arrive within a short slot window. Delays can reduce block quality or cause missed proposals. The system also adds operational complexity, including relay trust choices, software configuration, monitoring, and fallback behavior.
 
-## MEV-Boost
+PBS redistributes MEV but does not eliminate it. Builders may include sandwich attacks or other extraction strategies where profitable and permitted. Users whose trades are exploited may not benefit.
 
-Current implementation:
+## Relevant Distinctions
 
-- **Out-of-Protocol**: MEV-Boost is a middleware for Ethereum.
+PBS is not the same as a block builder. PBS is the division of roles and the protocol or middleware arrangement that supports it. A builder makes candidate blocks. A proposer publishes one. A relay is a common intermediary in current out-of-protocol PBS systems. A searcher discovers a specific MEV opportunity and generally submits it to builders.
 
-- **Builders and Relays**: Builders submit blocks to relays, validators choose.
+Out-of-protocol PBS relies on software such as MEV-Boost and on relay services. Enshrined PBS refers to a design where these responsibilities and guarantees are built into the protocol's consensus rules. The distinction matters because external relays can add trust, availability, and censorship assumptions that a protocol design may address differently.
 
-- **Revenue**: Validators earn higher rewards via builder bids.
-
-- **Centralization Risk**: Relays can become centralized choke points.
-
-MEV-Boost is an early PBS implementation.
-
-## PBS Risks
-
-Challenges:
-
-- **Relay Centralization**: Relays can censor or collude.
-
-- **Builder Censorship**: Builders can censor transactions.
-
-- **Latency**: Additional steps can increase latency.
-
-- **Complexity**: More moving parts increase attack surface.
-
-PBS adds complexity and new trust assumptions.
-
-## In-Protocol PBS
-
-Future design:
-
-- **Enshrined PBS**: PBS built into protocol (not external).
-
-- **Censorship Resistance**: Protocol enforces fairness and availability.
-
-- **Security Guarantees**: Stronger guarantees than off-chain relays.
-
-- **Economic Alignment**: Better alignment between proposers and builders.
-
-In-protocol PBS is a long-term goal.
-
-## Career Opportunities
-
-PBS ecosystem roles:
-
-- **Protocol Engineers**.
-
-- **MEV Researchers**.
-
-- **Block Builder Engineers**.
-
-- **Relay Operators**.
-
-## Best Practices
-
-Working with PBS:
-
-- **Monitor Relays**: Track relay reliability and censorship.
-
-- **Diversify Builders**: Avoid reliance on a single builder.
-
-- **Audit MEV Tools**: Ensure MEV infrastructure is secure.
-
-## The Future of PBS
-
-Trends:
-
-- **Enshrined PBS**: Protocol-native PBS deployment.
-
-- **Decentralized Relays**: More decentralized relay networks.
-
-- **Better Fairness**: Reduced censorship and MEV.
-
-## Separate Building From Proposing
-
-PBS is a key MEV mitigation strategy and core scaling component for Ethereum. It reshapes block production economics. If you're interested in MEV or protocol design, explore [protocol careers](/) at infrastructure teams.
+PBS is also distinct from a sequencer. A sequencer orders transactions for a rollup. It may use builder-like techniques, but its role, settlement process, and security assumptions depend on the rollup rather than Ethereum's validator slots.

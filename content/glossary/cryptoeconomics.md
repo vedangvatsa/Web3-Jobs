@@ -154,48 +154,6 @@ How to analyze:
 
 Cryptoeconomic analysis is a quantitative discipline.
 
-## Career Opportunities
-
-Cryptoeconomics creates roles:
-
-- **Protocol Economists** design token economics.
-
-- **Cryptoeconomic Researchers** study mechanisms.
-
-- **Game Theory Experts** analyze incentives.
-
-- **Quantitative Analysts** model economics.
-
-- **Data Scientists** analyze empirical data.
-
-## Best Practices
-
-Designing cryptoeconomic systems:
-
-- **Align Incentives**: Ensure honest behavior is the most profitable.
-
-- **Sybil Resistance**: Make attacks expensive and detectable.
-
-- **Stake Requirements**: Participants must risk capital.
-
-- **Verify Behavior**: Ensure good behavior is verifiable and bad behavior is detectable.
-
-- **Regular Analysis**: Continuously analyze if incentives are working as designed.
-
-## The Future of Cryptoeconomics
-
-Evolution:
-
-- **Sophisticated Incentives**: More subtle incentive mechanisms.
-
-- **Cross-Protocol Incentives**: Incentives coordinating across protocols.
-
-- **Governance Incentives**: Improved governance incentive design.
-
-- **Sustainable Incentives**: Transitioning from unsustainable token rewards to sustainable revenue models.
-
-- **Empirical Understanding**: Enhanced understanding of real-world incentive behavior.
-
 ## Align Incentives Cryptographically
 
 Cryptoeconomics is foundational to blockchain. Understanding cryptoeconomics helps evaluate protocols and design better systems. If you're interested in protocol design or economics, explore [protocol careers](/) at blockchain teams. These roles focus on designing sustainable, incentive-aligned systems.
