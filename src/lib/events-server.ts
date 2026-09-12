@@ -12,6 +12,22 @@ const BLOCKED_EVENT_IDS = new Set([
   'premier-ethtokyo-2026',
   'premier-mainnet-2026',
   'premier-devconnect-2026', // No official Devconnect scheduled for Bangkok in November 2026
+  'premier-cardano-summit-2026', // Organizer cancelled the Singapore edition.
+  'premier-ethkl-2026', // Organizer has not announced a 2026 edition.
+  'premier-ethlisbon-2026', // Organizer has not announced a 2026 edition.
+  'premier-smartcon-2026', // Organizer has not announced a 2026 edition.
+  'premier-pbw-2027', // Paris Blockchain Week has been replaced by Signal Week.
+  'premier-ethbucharest-2027',
+  'premier-ethseoul-2027',
+  'premier-ethbelgrade-2027',
+  'premier-abw-2027',
+  'premier-jbw-2027',
+  'premier-ethprague-2027',
+  'premier-ethdam-2027',
+  'side-denver-zk-proofs-summit',
+  'side-denver-dao-governance-brunch',
+  'side-denver-solana-coworking-hub',
+  'side-ethdenver-buidl-afterparty-2027',
   'premier-enugu',
   'premier-bitcoinberlin',
   'side-desci-singapore-summit-2026',
