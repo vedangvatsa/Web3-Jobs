@@ -563,6 +563,9 @@
   "https://www.theblock.co/news/regulation/2026-09-11-esma-says-major-prediction-platforms-lack-eu-authorization-questions-polymarket-and-kalshis-partial-geo-blocks-414239",
   "https://www.theblock.co/news/defi/2026-09-10-uniswap-stablepair-hook-414160",
   "https://decrypt.co/378094/cyberattacks-law-firms-stolen-documents-dark-web",
+  "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
+  "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
+  "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1595,6 +1598,12 @@
   "Uniswap launches ‘StablePair Hook’ to help LPs capture more stablecoin trading value",
   "Cyberattacks on Law Firms Nearly Double in 2025",
   "Cyberattacks on Law Firms Nearly Double as Stolen Documents Hit the Dark Web",
+  "MoneyGram launches stablecoin Visa card in Colombia",
+  "MoneyGram launches first stablecoin-backed Visa card in Colombia",
+  "Albuquerque bans Bitcoin ATMs over fraud concerns",
+  "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
+  "Robinhood CEO says companies cannot block stock-tracking tokens",
+  "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1690,5 +1699,8 @@
   "fp:against|are|boner|chain|creat|decentraliz|defi|degen|directly|equity",
   "fp:authority|authorization|block|confirm|effectiveness|esma|european|exist|filter|financial",
   "fp:adjust|allow|asset|bas|captur|demand|dynamic|dynamically|featur|fee",
-  "fp:appear|cyber|cyberattack|dark|document|doubl|firm|greenberg|hit|in2025"
+  "fp:appear|cyber|cyberattack|dark|document|doubl|firm|greenberg|hit|in2025",
+  "fp:america|back|balanc|can|card|cardholder|colombia|digital|directly|dollar",
+  "fp:albuquerqu|all|atm|ban|city|concern|councilor|cryptocurrency|day|fiv",
+  "fp:amc|block|but|can|cannot|ceo|feud|get|issuer|manag"
 ]
