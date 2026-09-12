@@ -72,7 +72,7 @@ export async function GET(request: NextRequest) {
       height: '100%',
       width: '100%',
       display: 'flex',
-      fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+      fontFamily: 'Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
       backgroundColor: '#f8fafc',
       backgroundImage:
         'radial-gradient(circle at 10% 15%, rgba(2, 132, 199, 0.08), transparent 35%), radial-gradient(circle at 90% 85%, rgba(14, 165, 233, 0.06), transparent 35%), linear-gradient(135deg, #ffffff 0%, #f1f5f9 100%)',
@@ -107,7 +107,7 @@ export async function GET(request: NextRequest) {
               justifyContent: 'space-between',
               backgroundColor: '#ffffff',
               padding: '88px 84px',
-              fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+              fontFamily: 'Inter, system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
           >
             {/* Top Bar: Minimal Category & Slide Counter */}
