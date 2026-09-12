@@ -1,5 +1,5 @@
 import { getAllTerms, getCategoriesWithCounts } from '@/lib/glossary';
-import ArrowLeft from 'lucide-react/dist/esm/icons/arrow-left';
+import { ArrowLeft } from 'lucide-react';
 import Link from 'next/link';
 import type { Metadata } from 'next';
 import { PageHeader } from "@/components/page-header";
