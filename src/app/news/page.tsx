@@ -21,7 +21,7 @@ export const metadata: Metadata = {
   description: 'Stay ahead in the Web3 job market. Read daily crypto news, funding announcements, and protocol launches updated in real-time.',
   url: 'https://hashtagweb3.com/news',
   images: [{
-   url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Daily%20News',
+   url: 'https://hashtagweb3.com/og-news.png',
    width: 1200,
    height: 630,
    alt: 'Hashtag Web3 Daily News Feed',
@@ -31,7 +31,7 @@ export const metadata: Metadata = {
   card: 'summary_large_image',
   title: 'Web3 News | Hashtag Web3',
   description: 'Stay ahead in the Web3 job market. Read daily crypto news, funding announcements, and protocol launches updated in real-time.',
-  images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Daily%20News'],
+  images: ['https://hashtagweb3.com/og-news.png'],
  },
 };
 
