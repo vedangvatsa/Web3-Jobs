@@ -177,7 +177,7 @@
   },
   {
     "id": "premier-ibw-2026",
-    "slug": "ibw",
+    "slug": "istanbul",
     "name": "Istanbul Blockchain Week 2026",
     "description": "Turkey’s premier annual Web3 and blockchain gathering organized by EAK Digital, bridging continents with world-class keynotes, hackathons, and networking.",
     "startDate": "2026-11-12T09:00:00.000Z",
@@ -632,7 +632,7 @@
   },
   {
     "id": "premier-indiabw-2026",
-    "slug": "india",
+    "slug": "ibw",
     "name": "India Blockchain Week 2026",
     "description": "India's flagship blockchain week in Mumbai covering DeFi, CBDCs, tokenization and the country's fast-growing Web3 developer base.",
     "startDate": "2026-11-01T09:00:00.000Z",
