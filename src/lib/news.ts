@@ -93,6 +93,44 @@ export function deduplicateNewsItems(items: NewsItem[]): NewsItem[] {
 let newsCache: { timestamp: number; items: NewsItem[] } | null = null;
 const NEWS_CACHE_TTL_MS = 10 * 60 * 1000; // 10 minutes
 
+const WEB3_CRYPTO_KEYWORDS = [
+  'web3', 'crypto', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth', 'solana', 'sol',
+  'defi', 'dao', 'daos', 'nft', 'nfts', 'token', 'tokens', 'tokenomics', 'stablecoin', 'stablecoins',
+  'altcoin', 'memecoin', 'memecoins', 'layer 1', 'layer 2', 'l2', 'rollup', 'rollups',
+  'sec', 'cftc', 'mika', 'binance', 'coinbase', 'kraken', 'bybit', 'okx', 'tether', 'usdt', 'usdc',
+  'mining', 'validator', 'validators', 'staking', 'restaking', 'airdrop', 'airdrops',
+  'smart contract', 'smart contracts', 'dapp', 'dapps', 'dex', 'cex', 'polymarket', 'kalshi',
+  'onchain', 'on-chain', 'zk', 'zero-knowledge', 'decentralized', 'wallet', 'wallets', 'ledger',
+  'metamask', 'base', 'arbitrum', 'optimism', 'sui', 'aptos', 'cardano', 'ripple', 'xrp',
+  'avalanche', 'avax', 'polkadot', 'chainlink', 'near', 'ton', 'monad', 'berachain',
+  'hyperliquid', 'eigenlayer', 'blast', 'zksync', 'starknet', 'depin', 'desci', 'rwa', 'rwas',
+  'yield', 'protocol', 'protocols', 'liquidity', 'swap', 'swaps', 'bridge', 'bridges',
+  'vault', 'vaults', 'hashrate', 'halving', 'node', 'nodes'
+];
+
+const GENERAL_NON_WEB3_TOPICS = [
+  'openai', 'sam altman', 'chatgpt', 'anthropic', 'claude', 'midjourney', 'sora',
+  'nvidia', 'apple', 'microsoft', 'google', 'tesla', 'intel', 'amd'
+];
+
+function isWeb3RelevantNews(title: string, snippet: string): boolean {
+  const text = `${title} ${snippet}`.toLowerCase();
+  
+  // If the news item covers general non-crypto AI/tech topics without any crypto/web3 crossover, filter it out.
+  const containsGeneralTech = GENERAL_NON_WEB3_TOPICS.some((topic) => text.includes(topic));
+  if (containsGeneralTech) {
+    const hasWeb3Keyword = WEB3_CRYPTO_KEYWORDS.some((kw) => {
+      const regex = new RegExp(`\\b${kw.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}\\b`, 'i');
+      return regex.test(text);
+    });
+    if (!hasWeb3Keyword) {
+      return false;
+    }
+  }
+
+  return true;
+}
+
 export async function getNewsFeed(): Promise<NewsItem[]> {
  // Return cached results if fresh
  const now = Date.now();
@@ -114,6 +152,10 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
        const truncated = snippet.length > 150
         ? snippet.substring(0, 150).replace(/\.{1,3}$/, '') + '...'
         : snippet;
+
+       if (!isWeb3RelevantNews(item.title, truncated)) {
+        return;
+       }
         let creator = item.creator || item.author || feedInfo.source;
         if (typeof creator === 'string') {
          const regex = new RegExp(`^${feedInfo.source}\\s*(?:by|-|:)?\\s*`, 'i');
