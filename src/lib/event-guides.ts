@@ -662,7 +662,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  indiabw: {
+  ibw: {
     summaryLead:
       "India Blockchain Week anchors in Mumbai on November 1 and 2, convening the country's policy makers, exchanges, investors, and its enormous developer base for the flagship edition of a week-long city-wide program. India combines world-leading grassroots crypto adoption with a regulatory framework still being written, and the conference sits precisely at that intersection.",
     sections: [
@@ -1049,7 +1049,7 @@ export const EVENT_GUIDES: Record<string, EventEditorialArticle> = {
     ],
   },
 
-  ibw: {
+  istanbul: {
     summaryLead:
       "Istanbul Blockchain Week takes place at the Hilton Istanbul Bomonti, organized by EAK Digital to bridge international protocols and the Turkish crypto ecosystem. Turkey represents one of the world's highest crypto adoption rates per capita, driven by retail trading, currency hedging, and active developer hubs across Istanbul and Ankara. The event brings together global projects and the regional community for technical tracks, ecosystem panels, and W3Expo gaming showcases.",
     expectedAttendance: "5,000+ attendees and builders",
