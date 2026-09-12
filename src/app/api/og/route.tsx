@@ -757,6 +757,7 @@ export async function GET(request: NextRequest) {
             'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
           },
         }
+      );
     }
 
     // 3.7. Events page template (Exact Website Hero Match)
