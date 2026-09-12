@@ -997,16 +997,16 @@ export async function GET(request: NextRequest) {
                 </div>
               </div>
 
-              {/* Bottom Middle: Hashtag Web3 Brand Logo Watermark (No pill, black text) */}
+              {/* Bottom Middle: Hashtag Web3 Brand Logo Watermark (No pill, black text, prominent size) */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  fontSize: '24px',
+                  fontSize: '36px',
                   fontWeight: '900',
                   color: '#0f172a',
-                  letterSpacing: '-0.5px',
+                  letterSpacing: '-1px',
                 }}
               >
                 hashtagweb3.com
