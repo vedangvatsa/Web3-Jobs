@@ -933,14 +933,14 @@ export async function GET(request: NextRequest) {
     if (type === 'article') {
       const displayTitle = title.length > 80 ? `${title.slice(0, 77)}...` : title;
 
-      // Dynamic font sizing matching job card title punchiness
+      // Bigger dynamic font sizing for maximum impact
       const titleFontSize = displayTitle.length > 60
-        ? '52px'
+        ? '60px'
         : displayTitle.length > 40
-        ? '64px'
+        ? '74px'
         : displayTitle.length > 25
-        ? '78px'
-        : '92px';
+        ? '88px'
+        : '102px';
 
       return new ImageResponse(
         (
@@ -958,7 +958,7 @@ export async function GET(request: NextRequest) {
                 ...baseCardStyle,
                 width: '1120px',
                 height: '550px',
-                padding: '52px 64px 44px 64px',
+                padding: '48px 56px 40px 56px',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'space-between',
@@ -975,8 +975,8 @@ export async function GET(request: NextRequest) {
                   justifyContent: 'center',
                   flex: 1,
                   width: '100%',
-                  maxWidth: '1020px',
-                  padding: '0 16px',
+                  maxWidth: '1040px',
+                  padding: '0 12px',
                 }}
               >
                 <div
@@ -988,7 +988,7 @@ export async function GET(request: NextRequest) {
                     fontSize: titleFontSize,
                     fontWeight: '900',
                     color: '#0f172a',
-                    lineHeight: '1.14',
+                    lineHeight: '1.12',
                     letterSpacing: '-2px',
                     textTransform: 'uppercase',
                   }}
@@ -997,29 +997,19 @@ export async function GET(request: NextRequest) {
                 </div>
               </div>
 
-              {/* Bottom Middle: Hashtag Web3 Brand Logo Watermark */}
+              {/* Bottom Middle: Hashtag Web3 Brand Logo Watermark (No pill, black text) */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  gap: '10px',
-                  padding: '8px 24px',
-                  backgroundColor: '#f0f9ff',
-                  border: '1px solid #bae6fd',
-                  borderRadius: '999px',
+                  fontSize: '24px',
+                  fontWeight: '900',
+                  color: '#0f172a',
+                  letterSpacing: '-0.5px',
                 }}
               >
-                <div
-                  style={{
-                    fontSize: '20px',
-                    fontWeight: '800',
-                    color: '#0284c7',
-                    letterSpacing: '-0.5px',
-                  }}
-                >
-                  hashtagweb3.com
-                </div>
+                hashtagweb3.com
               </div>
             </div>
           </div>
