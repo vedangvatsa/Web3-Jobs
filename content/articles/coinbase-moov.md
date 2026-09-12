@@ -14,6 +14,10 @@ The announcement describes an infrastructure integration, rather than an immedia
 
 The scope matters because the companies are describing a way for financial institutions to offer a new payment rail without building a separate crypto operation themselves. Coinbase says its infrastructure will supply custody and the movement of stablecoins, while Moov will connect those functions to payment systems already used by its financial-institution customers. Whether a particular bank or credit union adopts the service, how it presents it to customers, and when customers can use it remain unannounced.
 
+![Coinbase logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Coinbase.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+*Coinbase logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coinbase.png).*
+
 ## The announced division of work
 
 Moov provides payments infrastructure that connects its customers to card acquiring, card issuing, and real-time payment rails, according to the [Coinbase release](https://www.coinbase.com/blog/coinbase-brings-stablecoin-payments-and-custody-to-community-banks-and-credit-unions). Its public documentation describes transfers on its platform as movement from a source to a destination, with payment rails selected according to the relevant account capabilities and use case. That existing transfer model is the platform into which Coinbase says the stablecoin functions will be integrated.

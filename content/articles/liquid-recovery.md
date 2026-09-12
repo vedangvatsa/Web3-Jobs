@@ -14,6 +14,10 @@ The refusal follows a partial return of roughly 3,400 BTC on Sept. 7. Liquid's [
 
 Liquid has restored block production and network transactions, according to its latest public operational update on Sept. 10. Peg-outs, the process used to move bitcoin out of Liquid to the Bitcoin mainchain, remain disabled while the final recovery stage continues. The update does not give a date for their return or say that the BTC/LBTC reserve has been fully restored [in the network's notice](https://x.com/Liquid_BTC/status/2098140614239920622).
 
+![Blockstream logo](https://upload.wikimedia.org/wikipedia/commons/2/2f/Blockstream_logo.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+*Blockstream logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Blockstream_logo.svg).*
+
 ## How unbacked LBTC reached the Bitcoin network
 
 Liquid's account places the exploit at 15:53:10 UTC on Sept. 6, at Liquid block 4,050,336. It says a vulnerability in Elements, the open-source software used by Liquid, affected the way nodes cached range-proof verifications. The result was the creation of approximately 4,000 LBTC that were not backed by bitcoin held in the Liquid reserve [according to the incident report](https://x.com/Liquid_BTC/status/2097404704028545175).

@@ -18,6 +18,10 @@ The transmission idea sits beside a separate, more narrowly described official i
 
 That statement confirms that the state is considering a legislative framework for property tokenization. It does not establish the terms of a program for power assets. CoinDesk describes the transmission proposal as a state policy under development, while Fadnavis' statement concerns a proposed law for immovable-property tokens. Neither source says the DELTA Act has been enacted or that it authorizes a sale of transmission-asset tokens.
 
+![Seal of Maharashtra](https://upload.wikimedia.org/wikipedia/commons/d/d3/Seal_of_Maharashtra.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+*Seal of Maharashtra via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_Maharashtra.svg).*
+
 ## Transmission assets were the example
 
 Pardeshi used electricity transmission as the principal example of how the policy could work, according to [CoinDesk](https://www.coindesk.com/markets/2026/09/11/india-s-richest-state-is-exploring-tokenizing-its-own-assets-to-fund-new-infrastructure). Transmission lines generate fee income for carrying power through the grid, but the capital spent to build them remains committed to the assets. He argued that tokenizing part of that infrastructure could give the state new capital while allowing token holders to receive part of the related income.

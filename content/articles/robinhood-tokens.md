@@ -14,6 +14,10 @@ The argument responds to Aron, who called on Robinhood to stop trading tokens co
 
 Tenev did not say that an issuer has no role in every form of tokenization. His statement draws a line between an issuer putting its own shares on a blockchain, an intermediary tokenizing ownership of shares, and a third party issuing a separate instrument backed by or linked to shares. Robinhood places its Stock Tokens in the third category. Tenev said they are separately issued instruments backed one-for-one by underlying shares and intended to provide economic exposure without changing the company's capitalization table, shareholder record, or rights attached to the shares.
 
+![Robinhood Markets logo](https://upload.wikimedia.org/wikipedia/commons/1/10/Robinhood_Markets_logo.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+*Robinhood Markets logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Robinhood_Markets_logo.png).*
+
 ## Robinhood's proposed boundary
 
 Tenev's position rests on the legal and operational distinction he draws between a share and a product that references or holds that share. He wrote that shares in public companies are transferable personal property and that an owner of freely transferable shares should generally be able to decide how to hold and use them. He contrasted that proposition with the issuer's authority to set the rights of the security it issued. In his account, the issuer does not automatically control every other financial instrument created around that security. The examples he named were unsponsored American depositary receipts, options, and third-party structured products. Those examples are part of Tenev's argument for the treatment of Robinhood's product; his statement does not establish that the products have identical legal or economic features.
