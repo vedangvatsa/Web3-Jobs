@@ -7,7 +7,7 @@ image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: crypto chart graph
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 ## Analyzing the Slowdown in Litecoin's Developer Activity
 

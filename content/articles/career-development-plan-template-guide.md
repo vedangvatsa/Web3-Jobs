@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: career plan
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1654931799020-ce7cf3f4a2c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8Q2FyZWVyJTIwRGV2ZWxvcG1lbnQlMjBQbGFuJTIwQ2FyZWVyfGVufDF8MHx8fDE3ODkxMzc1NjZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---

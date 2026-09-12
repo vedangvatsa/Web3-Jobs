@@ -8,7 +8,7 @@ description: >-
   what a tokenomics designer does, the skills they need, and how they architect.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 In the evolving field of [Web3](/what-is-web3), the Tokenomics Designer has become an essential role at the intersection of economics, game theory, and computer science. The work is distinct from conventional financial analysis and from software development alone. A designer architects a protocol's digital economy: the rules governing how its native [token](/what-is-a-token) is issued, used, rewarded, and held.
 

@@ -8,7 +8,7 @@ description: >-
   governance, stablecoin rails, and tokenomics.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 The relationship between [Web3](/what-is-web3) and digital currencies is frequently misunderstood by mainstream observers. Non-technical commentators often view digital currencies merely as speculative financial instruments or volatile trading assets. However, in computer science and distributed systems engineering, digital currencies represent the indispensable native economic substrate of the Web3 architecture.

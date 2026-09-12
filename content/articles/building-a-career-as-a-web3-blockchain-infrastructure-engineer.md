@@ -12,7 +12,7 @@ author: Alex Rivera
 tags: 'Infrastructure, DevOps, Blockchain Nodes, Kubernetes, RPC Systems'
 slug: building-a-career-as-a-web3-blockchain-infrastructure-engineer
 publishedDate: '2026-09-07'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVpbGRpbmclMjBDYXJlZXIlMjBhcyUyMFdlYjMlMjBCbG9ja2NoYWluJTIwSW5mcmFzdHJ1Y3R1cmUlMjBFbmdpbmVlciUyMFJvYWRtYXAlMjBTeXN0ZW1zJTIwQXJjaGl0ZWN0dXJlJTIwR2VuZXJhbHxlbnwxfDB8fHwxNzg5MTM3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---

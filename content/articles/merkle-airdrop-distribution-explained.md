@@ -8,7 +8,7 @@ description: >-
   gas.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Airdrops are a direct way to distribute a new token to a project's community. The simple version is easy to describe: identify eligible addresses and send tokens to each one. The implementation becomes difficult when the list reaches thousands or even millions of addresses. A separate on-chain `transfer` for every recipient requires a separate amount of gas, and the total cost can become prohibitive. Trying to include a large recipient list in one transaction creates a second problem: the transaction can exceed the block gas limit and fail.
 

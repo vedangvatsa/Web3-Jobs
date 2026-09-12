@@ -7,7 +7,7 @@ description: >-
   cryptoeconomic pledge models.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 tags:
   - Filecoin
   - Decentralized Storage

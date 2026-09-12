@@ -5,7 +5,7 @@ description: >-
   philosophy, asymmetric cryptography, and sovereign software systems.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: history-of-crypto-anarchy
 ---
 

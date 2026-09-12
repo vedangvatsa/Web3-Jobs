@@ -7,7 +7,7 @@ description: >-
   a verifier, with careful choices required for trust, privacy, status, and keys.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 A diploma, employee badge, driver's licence, membership card, and background check all make claims. They say that an issuer checked something about a subject at a particular time. The holder needs to show the claim to a third party. The third party needs to decide whether the issuer, the claim, and its current status are good enough for the decision at hand.

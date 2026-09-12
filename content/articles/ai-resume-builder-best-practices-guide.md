@@ -7,7 +7,7 @@ description: >-
   screening and human recruiters.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1698047681432-006d2449c631?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QUklMjBSZXN1bWUlMjBCdWlsZGVyJTIwQmVzdCUyMFByYWN0aWNlc3xlbnwxfDB8fHwxNzg5MTM3NTU3fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---

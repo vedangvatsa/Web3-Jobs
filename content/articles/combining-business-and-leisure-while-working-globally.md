@@ -7,7 +7,7 @@ description: >-
   from time-zone planning and backup connectivity to protecting real time off.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 Working from a laptop in another country can be a genuine privilege. It can also become a bad version of both work and travel: meetings held from a noisy room, urgent tasks done on a weak connection, and a new city seen only through a window after dark. [Remote work](/remote-work-in-web3) makes travel possible for more people, but it does not remove the obligations of a role, client agreement, or team.

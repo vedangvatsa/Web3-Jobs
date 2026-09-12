@@ -7,7 +7,7 @@ description: >-
   with a video submission process to create a blockchain-based registry of.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 In a digital environment where individuals can easily create numerous fake accounts, establishing systems that ensure "one person, one vote" and equitable resource distribution presents significant challenges. This issue is commonly referred to as the **"sybil attack" problem**.

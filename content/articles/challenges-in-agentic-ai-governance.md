@@ -10,7 +10,7 @@ description: >-
   proofs, and decentralized on-chain oversight architectures.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 The rapid evolution of [smart agents in AI](/smart-agents-in-ai) marks a fundamental shift from passive, prompt-based LLMs to autonomous goal-seeking software entities. Known as **agentic AI**, these systems possess the capacity to formulate multi-step plans, maintain persistent vector memory stores, interact with external software APIs, execute financial transactions on [blockchains](/what-is-a-blockchain), and adapt execution strategies dynamically without continuous human prompting.

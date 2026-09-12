@@ -8,7 +8,7 @@ description: >-
   scoring algorithms.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ![Web3 Reputation and Identity Architecture](/images/articles/charts/web3-reputation-identity-architecture.svg)

@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: virtual team handshake
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Remote trust is built from evidence that other people can see and use. A teammate trusts you when they can tell what you own, what you decided, when you will respond, how to find the work, and what will happen if you cannot deliver. An office supplies some of that evidence by accident. People see who is in a meeting, overhear context, and notice a problem being fixed. A distributed team needs to create those signals deliberately.

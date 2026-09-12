@@ -7,7 +7,7 @@ description: >-
   responsibly.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1694903089438-bf28d4697d9a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QUklMjBFdGhpY3MlMjBSZXNwb25zaWJsZSUyMEFJfGVufDF8MHx8fDE3ODkxMzc1NTZ8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---

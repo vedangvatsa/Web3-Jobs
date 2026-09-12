@@ -8,7 +8,7 @@ description: >-
   economics.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ![Cryptocurrency Halving Mechanics](/images/articles/charts/crypto-halving-supply-curve.svg)

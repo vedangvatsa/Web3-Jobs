@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: dna editing
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 CRISPR is a way of directing molecular machinery to a chosen stretch of DNA. It is often described as genetic scissors, which is close enough for a first pass, but the phrase can hide the part that makes it useful: the system can be programmed to look for a particular sequence. Once it reaches that sequence, the cell's own repair processes determine much of what happens next.

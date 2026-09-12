@@ -6,7 +6,7 @@ description: >-
   about the different types of bias and the strategies used to build fairer AI.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1713345248737-2698000f143d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QUklMjBCaWFzJTIwRmFpcm5lc3N8ZW58MXwwfHx8MTc4OTEzNzU1NXww&ixlib=rb-4.1.0&q=80&w=1080
 ---

@@ -8,7 +8,7 @@ description: >-
   DYOR.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 In cryptocurrency and Web3 markets, the term **shilling** describes the intentional, aggressive, and often covert promotion of a digital asset, token project, or NFT collection to artificially drive market sentiment, trading volume, and asset valuations. Derived from traditional carnival and casino slang where a paid plant ("shill") pretended to be an enthusiastic customer to dupe bystanders into rigged games, crypto shilling operates as a primary distribution mechanism for low-liquidity token projects, speculative meme coins, and predatory pump-and-dump schemes.

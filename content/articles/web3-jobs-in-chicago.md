@@ -6,7 +6,7 @@ description: >-
   in derivatives trading and finance is making it a major hub for DeFi.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Chicago is a significant center for commodities and derivatives trading, and that legacy extends into Web3 through a focus on decentralized finance. The city brings market-structure knowledge, quantitative trading experience, and financial-engineering capability to an ecosystem devoted to high-performance infrastructure for DeFi applications. Its Web3 identity is consequently more financial than the identities of cities known primarily for NFTs or gaming.
 

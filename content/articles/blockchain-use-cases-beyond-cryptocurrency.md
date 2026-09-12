@@ -7,7 +7,7 @@ description: >-
   including supply chain management, voting systems, digital identity, and more.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 For many people, blockchain remains shorthand for cryptocurrency and, especially, [Bitcoin](/what-is-bitcoin). That association is understandable: a blockchain first appears to many users as the ledger behind a token transfer. But the underlying system is broader than a payment record. A **[blockchain](/what-is-a-blockchain)** is a decentralized and transparent way to record information in a form that participants can inspect and reconcile. In the right setting, that shared record can improve efficiency, transparency, and equity without requiring every participant to rely on one database owner.
 

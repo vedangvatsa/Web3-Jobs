@@ -7,7 +7,7 @@ description: >-
   Learn how to apply patent, trademark, and copyright law to the novel.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The [Web3](/what-is-web3) sector is built around innovation in technology and business models, and it produces those questions at a rapid rate. That has created demand for legal professionals who can help projects protect intellectual property while working in a field defined by open-source code and decentralized networks. A Web3 Patent and IP Expert operates at that intersection: close enough to the technology to understand what is being built, and close enough to intellectual-property practice to identify what must be documented, protected, licensed, or left open.
 

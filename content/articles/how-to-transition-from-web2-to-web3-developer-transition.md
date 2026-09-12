@@ -8,7 +8,7 @@ description: >-
   contract programming, and adversarial security paradigms.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: how-to-transition-from-web2-to-web3-developer-transition
 ---
 

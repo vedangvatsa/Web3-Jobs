@@ -7,7 +7,7 @@ description: >-
   what the data measures, and what it does not say about hiring.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ## The Slowdown Is Real, but the Metric Is Narrow

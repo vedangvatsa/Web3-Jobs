@@ -8,7 +8,7 @@ description: >-
   complete demo.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 A blockchain hackathon is a constrained build and submission exercise. The constraint is the point. You have limited time, unfamiliar APIs, changing requirements, teammates with different habits, sponsor tracks, and a final submission that must explain a working result. A good hackathon project is small enough to finish, clear enough to demonstrate, and honest about what it does not solve.

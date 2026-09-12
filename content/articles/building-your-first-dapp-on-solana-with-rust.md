@@ -8,7 +8,7 @@ description: >-
   local testing, and a small counter application.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 Your first Solana application is easier to understand when you stop treating it like a small website with a database attached. A Solana program is deployed code. The changing information that program works with lives in separate accounts. Solana describes accounts as the network's basic unit of state: each address identifies an account, and only the program that owns an account can change its data or debit its lamports. Read the [account model](https://solana.com/docs/core/accounts) before writing code. It explains why a client must pass accounts to every instruction and why account validation belongs in the program.

@@ -8,7 +8,7 @@ description: >-
   on-chain AML compliance.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ![Web3 Legal, Regulatory & Compliance Engineering Stack](/images/articles/charts/web3-legal-compliance-framework.svg)

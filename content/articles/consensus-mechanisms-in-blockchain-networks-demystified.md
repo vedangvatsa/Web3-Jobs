@@ -7,7 +7,7 @@ description: >-
   agree on transaction history, including their security and operational trade-offs.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 A [blockchain](/what-is-a-blockchain) is a record maintained by many independent computers. That arrangement raises a hard question: when those computers receive messages in different orders, or someone tries to submit conflicting history, which record should they accept? A consensus mechanism is the set of rules that lets the network choose valid blocks and converge on a shared history without one central operator deciding every entry.

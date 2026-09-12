@@ -8,7 +8,7 @@ description: >-
   tips on how to present your Web3 projects to recruiters and hiring managers.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 In [Web3](/what-is-web3), a well-crafted [portfolio](/building-web3-portfolio) of projects is important for advancing a career. Building the work is only part of the equation. If it is presented poorly or lacks visibility, even an outstanding portfolio can be overlooked by recruiters and hiring managers.
 

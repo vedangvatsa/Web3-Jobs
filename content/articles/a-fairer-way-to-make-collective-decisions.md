@@ -7,7 +7,7 @@ description: >-
   one large donation, with important limits around identity and collusion.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 Public goods create an awkward funding problem. A library, an open-source dependency, public research, or a local park may benefit many people. Each person may value the result while having little reason to pay enough to cover the whole cost. If nobody else pays, a small contribution can look pointless. If one wealthy patron pays, the project may exist, but the decision reflects that patron's priorities more than the community's.

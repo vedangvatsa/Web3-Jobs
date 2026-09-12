@@ -8,7 +8,7 @@ description: >-
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: difficult conversation meeting
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 Avoiding a hard conversation rarely removes the underlying problem. A missed deadline can become an unspoken expectation gap. A sharp message in a group chat can become a pattern people work around rather than address. A disagreement over scope can turn into two people quietly building different versions of the same project. The cost is not only emotional. Work slows because nobody is sure what has been decided or who can raise a concern.

@@ -7,7 +7,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai ethics
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Responsible AI is a product and operating discipline. It asks a team to identify who can be affected by a system, what can go wrong, which evidence would reveal a problem, who can stop or change the system, and what recourse exists when the system causes harm. A blockchain, a token, open model weights, or a governance vote can support pieces of that work. None of them makes an AI system responsible on its own.

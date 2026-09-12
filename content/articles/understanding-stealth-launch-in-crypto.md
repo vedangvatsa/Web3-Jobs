@@ -7,7 +7,7 @@ description: >-
   prior marketing or announcement. This guide explains how it works, its.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 In cryptocurrency, a launch is usually treated as a communications event as much as a technical one. A team can spend weeks defining a date, building an audience, and directing attention toward the first opportunity to trade. A stealth launch takes the opposite route. A new [token](/what-is-a-token) or [NFT](/what-are-nfts) project goes live without prior announcements, marketing, or promotion. The public learns that it exists only after the relevant on-chain activity has begun.

@@ -8,7 +8,7 @@ description: >-
   Subnets, and Avalanche Warp Messaging.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: what-is-avalanche
 ---
 

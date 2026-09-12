@@ -7,7 +7,7 @@ description: >-
   fundamentals, Solidity, testing, public projects, and security review.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 An EVM application developer writes code that runs partly in a browser or server and partly on a public network. The onchain part is a smart contract: code and state at an Ethereum address. Users invoke its functions by submitting signed transactions. The offchain part prepares calls, displays data, manages the user interface, and often indexes events for fast queries. Ethereum's [developer documentation](https://ethereum.org/developers/docs/) maps these layers across accounts, transactions, the EVM, smart contracts, client APIs, development networks, storage, and data tools.

@@ -7,7 +7,7 @@ description: >-
   contract engineering to protocol development.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The demand for [Web3](/what-is-web3) developers has surged in recent years, reflecting growing complexity and specialization in the field. The role varies significantly with the work being done: one developer may craft the core technology behind Layer 1 [blockchains](/what-is-a-blockchain), while another builds the user interface for an [NFT](/what-are-nfts) marketplace. Treating both roles as simply "Web3 development" can obscure the skills, evidence, and working preferences each one requires.
 

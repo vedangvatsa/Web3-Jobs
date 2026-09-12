@@ -6,7 +6,7 @@ description: >-
 category: Educational
 data-ai-hint: brain interface
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1617791160536-598cf32026fb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnJhaW4lMjBDb21wdXRlciUyMEludGVyZmFjZXxlbnwxfDB8fHwxNzg5MTM3NTYxfDA&ixlib=rb-4.1.0&q=80&w=1080
 ---

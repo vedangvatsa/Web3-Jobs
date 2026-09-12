@@ -6,7 +6,7 @@ imageFit: contain
 category: News
 data-ai-hint: MetaMask Money Account
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 Consensys Software Inc. is breaking into two companies. The existing legal entity will be renamed MetaMask and run the wallet and its consumer products. A newly formed Consensys will take the protocol and institutional business. The companies will operate independently, with the separation expected to complete by the end of 2026, according to MetaMask's [September 9 announcement](https://metamask.io/news/consensys-software-inc-to-become-two-independent-companies-metamask-and-consensys).

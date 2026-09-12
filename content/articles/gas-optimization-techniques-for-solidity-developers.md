@@ -8,7 +8,7 @@ description: >-
   smart contracts. Learn techniques to reduce the execution cost of your.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 On the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain), every computational step has a financial cost known as gas. Gas is a constraint on [smart contract](/what-are-smart-contracts) development, not an optional concern to address after a contract is finished. A capable [Solidity](/best-programming-languages-for-blockchain-development) developer has to produce code that is secure, functional, and economical to execute. High gas costs can make decentralized applications impractical. Well-targeted optimization can reduce the cost paid by users and give an application an advantage over a more expensive alternative.
 

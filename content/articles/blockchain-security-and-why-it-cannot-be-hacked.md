@@ -7,7 +7,7 @@ description: >-
   and consensus protect a blockchain, along with the attacks they do not stop.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 No blockchain is unhackable. A blockchain can suffer software defects, a majority-control attack, network disruption, key theft, bad oracle data, a vulnerable smart contract, or a malicious website. The useful claim is narrower: a well-run blockchain can make particular changes to a shared transaction history difficult and expensive, while making the rules for accepting that history independently checkable.

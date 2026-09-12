@@ -7,7 +7,7 @@ description: >-
   relative importance in the market. It's calculated by multiplying the current.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 When reading cryptocurrency listings on platforms such as CoinGecko or CoinMarketCap, market capitalization is one of the first figures shown. Usually shortened to market cap, it represents the total value of a cryptocurrency's coins in circulation at the current price. It is a useful way to estimate a project's size and relative importance in the market, especially when the price of one coin gives a misleading impression.
 

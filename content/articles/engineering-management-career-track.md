@@ -8,7 +8,7 @@ image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: flowchart diagram
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ## The Dual-Track Career Model: Individual Contributor vs. Management

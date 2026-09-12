@@ -7,7 +7,7 @@ description: >-
   architecture, compensation benchmarks, and interview design challenges.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 tags:
   - Web3 Careers
   - Oracle Engineering

@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: team relationships
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVpbGRpbmclMjBSZWxhdGlvbnNoaXBzJTIwV2l0aCUyMFlvdXIlMjBOZXclMjBUZWFtJTIwQ2FyZWVyfGVufDF8MHx8fDE3ODkxMzc1NjN8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---

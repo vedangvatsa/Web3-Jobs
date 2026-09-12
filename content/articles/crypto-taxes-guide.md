@@ -7,7 +7,7 @@ description: >-
   cost basis, reporting, and the questions to bring to a tax professional.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 *This article explains general U.S. federal tax rules. It is not tax, legal, or financial advice. State, local, and non-U.S. rules can differ. Complex activity deserves a qualified tax professional who can review your complete records.*

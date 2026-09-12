@@ -7,7 +7,7 @@ description: >-
   different specializations, from smart contract engineering to protocol.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Demand for [Web3 developers](/understanding-web3-developer-career-paths) has reached high levels, but the label "blockchain engineer" still covers very different jobs. One engineer may write the on-chain rules for an application. Another may build the interface through which users interact with those rules. A third may work on the network itself, while a fourth examines code for weaknesses before it is deployed. The shared vocabulary can obscure major differences in daily work, required knowledge, and the cost of mistakes.
 

@@ -8,7 +8,7 @@ description: >-
   decentralized social protocols, off-chain hubs, and SocialFi applications.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ![Web3 SocialFi Decentralized Stack & Architecture](/images/articles/charts/web3-socialfi-architecture.svg)

@@ -8,7 +8,7 @@ description: >-
   nations.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Digital communities have long been organized inside platforms that someone else controls. Facebook Groups, subreddits, Discord servers, and WhatsApp chats can give people a place to gather, share work, and build a recognizable culture. They also place that activity on rented land. The platform provides the infrastructure, controls the data, and can change the rules or close the space. The community may be socially real, but its operating conditions remain subject to a central owner.

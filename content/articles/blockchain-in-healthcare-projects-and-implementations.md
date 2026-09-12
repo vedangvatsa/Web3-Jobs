@@ -7,7 +7,7 @@ description: >-
   medicine traceability, research evidence, and consent workflows.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Healthcare has real coordination problems: a patient's care may span several providers, medicines pass through long supply chains, studies accumulate evidence across sites, and each organization must protect sensitive information. These problems make blockchain sound attractive. A shared, append-only record can show who submitted an event and when a network accepted it. That is useful in a narrow set of workflows. It is not a reason to put a medical record on a chain.

@@ -7,7 +7,7 @@ description: >-
   applications.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Solana has established itself as a significant player in Web3's multi-chain ecosystem, complementing Ethereum's dominance rather than simply duplicating it. As a high-performance [Layer 1 blockchain](/what-is-a-layer-1-blockchain), its design emphasizes transaction speed and low costs. That combination makes it relevant to decentralized applications whose users may need to take frequent actions without treating each one as an unusually expensive or slow event. The native cryptocurrency, SOL, is part of the network's practical operation as well as its security model.
 

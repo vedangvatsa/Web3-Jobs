@@ -7,7 +7,7 @@ description: >-
   decentralized GRT query markets.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 tags:
   - The Graph
   - Subgraphs

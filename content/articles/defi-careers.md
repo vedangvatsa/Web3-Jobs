@@ -7,7 +7,7 @@ description: >-
 category: Career Guides
 data-ai-hint: finance crypto
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 ## A DeFi Career Means Working on Financial Software With Public Consequences
 

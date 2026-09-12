@@ -7,7 +7,7 @@ description: >-
   cryptographic data attestation, and Byzantine fault tolerant consensus.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 tags:
   - Oracles
   - Chainlink

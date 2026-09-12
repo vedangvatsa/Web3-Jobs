@@ -7,7 +7,7 @@ description: >-
   design, price impact, and the limits of automatic liquidity.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 A bonding curve is a pricing rule built into a smart contract. The rule relates a token's supply to a quoted price. A buyer sends reserve assets to the contract and receives tokens according to that rule. A seller may return tokens and receive reserve assets according to the corresponding sell rule.

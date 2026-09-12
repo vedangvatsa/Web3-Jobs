@@ -1,42 +1,42 @@
 [
   {
-    "slug": "corporate-crypto-vs-sovereign-code",
-    "title": "Corporate Crypto vs Sovereign Code",
-    "description": "An investigative thesis on the growing split between regulated corporate crypto infrastructure and sovereign open-source protocols.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-09-08",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=Corporate%20Crypto%20vs%20Sovereign%20Code&category=Technology%20Deep%20Dives"
+    "slug": "clarity-act",
+    "title": "Revised CLARITY Act Would Set Rules for Controlled DeFi Protocols",
+    "description": "A revised CLARITY Act would direct the SEC and CFTC to write activity-based rules for controllers of non-decentralized finance trading protocols, while Treasury would address Bank Secrecy Act obligations.",
+    "category": "News",
+    "publishedDate": "2026-09-12",
+    "image": "/api/og?type=article&title=Revised%20CLARITY%20Act%20Would%20Set%20Rules%20for%20Controlled%20DeFi%20Protocols"
   },
   {
-    "slug": "darknet-markets-and-sovereign-code",
-    "title": "Darknet Markets and Sovereign Code",
-    "description": "An investigative thesis exploring the evolution of darknet commerce, onion routing, multi-signature escrow, and non-custodial peer-to-peer protocols.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-09-08",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=Darknet%20Markets%20and%20Sovereign%20Code&category=Technology%20Deep%20Dives"
+    "slug": "coinbase-moov",
+    "title": "Coinbase and Moov Announce Community-Bank Stablecoin Payments",
+    "description": "Coinbase and Moov say they will integrate Coinbase custody and payment infrastructure into Moov's platform for its community-bank and credit-union customers.",
+    "category": "News",
+    "publishedDate": "2026-09-12",
+    "image": "/api/og?type=article&title=Coinbase%20Moov%20Stablecoin%20Payments"
   },
   {
-    "slug": "history-of-crypto-anarchy",
-    "title": "History of Crypto Anarchy",
-    "description": "An investigative thesis tracing the 40-year evolution of cypherpunk philosophy, asymmetric cryptography, and sovereign software systems.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-09-08",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=History%20of%20Crypto%20Anarchy&category=Technology%20Deep%20Dives"
+    "slug": "demat-2",
+    "title": "SEBI Launches Demat 2.0 Pilot for Tokenised Corporate Bonds",
+    "description": "SEBI's Demat 2.0 pilot uses a permissioned distributed ledger and RBI wholesale digital rupee settlement to test tokenised corporate-bond issuance, servicing and later trading.",
+    "category": "News",
+    "publishedDate": "2026-09-12",
+    "image": "/api/og?type=article&title=SEBI%20Launches%20Demat%202.0%20Pilot%20for%20Tokenised%20Corporate%20Bonds"
   },
   {
-    "slug": "shape-of-ethereum",
-    "title": "The Shape of Ethereum",
-    "description": "A 6-year study of topological anomaly detection on Ethereum by Matan Prasma and Uri Yacobi Keller analyzing structural network shifts from 2020 to 2025.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-09-08",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=The%20Shape%20of%20Ethereum&category=Technology%20Deep%20Dives"
+    "slug": "esma-eu",
+    "title": "ESMA Says Major Prediction Platforms Lack Required EU Authorization",
+    "description": "ESMA said the marketing and sale of event contracts in the EU generally requires authorization and raised concerns about partial geographic restrictions, market integrity, contract resolution, data sources, and smart-contract execution.",
+    "category": "News",
+    "publishedDate": "2026-09-12",
+    "image": "/api/og?type=article&title=ESMA%20Says%20Major%20Prediction%20Platforms%20Lack%20Required%20EU%20Authorization"
   },
   {
-    "slug": "the-crypto-wars",
-    "title": "The Crypto Wars",
-    "description": "An investigative thesis examining the legal battles over software encryption, source code as speech, and zero-knowledge privacy protocols.",
-    "category": "Technology Deep Dives",
-    "publishedDate": "2026-09-08",
-    "image": "https://hashtagweb3.com/api/og?type=article&title=The%20Crypto%20Wars&category=Technology%20Deep%20Dives"
+    "slug": "kalshi-perps",
+    "title": "Kalshi Plans 24/7 Tesla and Nvidia Perpetual Futures",
+    "description": "Kalshi plans to seek U.S. approval for roughly 60 perpetual futures tied to individual stocks and ETFs, while the product's regulatory treatment and market-integrity controls remain unsettled.",
+    "category": "News",
+    "publishedDate": "2026-09-12",
+    "image": "/api/og?type=article&title=Kalshi%20Plans%2024%2F7%20Tesla%20and%20Nvidia%20Perpetual%20Futures"
   }
 ]

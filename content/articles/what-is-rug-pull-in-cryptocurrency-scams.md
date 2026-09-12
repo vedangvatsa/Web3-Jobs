@@ -7,7 +7,7 @@ description: >-
   run away with investors' funds. Learn how they work and the red flags to.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 In cryptocurrency, a rug pull is one of the most prevalent and damaging forms of scam because it combines a familiar investment pitch with a sudden exit. Developers present a project as legitimate, attract funds, then abandon the project and leave with those funds. The project's [token](/what-is-a-token) can be left worthless. The phrase is not a catch-all for every price decline. It describes a malicious situation in which the people behind a project remove the value or support on which buyers believed they could rely.
 
