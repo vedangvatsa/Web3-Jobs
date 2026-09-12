@@ -569,6 +569,9 @@
   "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
   "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
   "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
+  "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+  "https://www.theblock.co/news/defi/2026-09-10-coinbase-rebrands-base-app-back-to-coinbase-wallet-after-just-over-a-year-as-social-experiment-falls-short-414115",
+  "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1613,6 +1616,12 @@
   "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
   "Revolut exposes user data following fraudulent government data request",
   "Bitcoin activity, passports exposed after Revolut falls for fake government request",
+  "UK political party receives $97 million crypto donation",
+  "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+  "Coinbase rebrands Base App back to Coinbase Wallet",
+  "Coinbase rebrands Base App back to Coinbase Wallet after just over a year as social experiment falls short",
+  "OpenAI Will Not Go Public This Year, Altman Says",
+  "OpenAI IPO won't happen this year, says Sam Altman",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1714,5 +1723,8 @@
   "fp:amc|block|but|can|cannot|ceo|feud|get|issuer|manag",
   "fp:argu|asset|benchmark|decentraliz|economic|economy|ether|executiv|generat|globalstak",
   "fp:against|banana2|better|category|compar|distinct|edit|generator|googl|imag",
-  "fp:access|activity|address|breach|customer|data|dur|expos|fak|fall"
+  "fp:access|activity|address|breach|customer|data|dur|expos|fak|fall",
+  "fp:97m|billionair|campaign|contribution|donat|donation|farag|founder|hour|in24",
+  "fp:app|asset|back|bas|chain|coinbas|consolidat|end|experiment|fall",
+  "fp:advis|ceo|concern|currently|fortun|happen|ill|ipo|mak|not"
 ]
