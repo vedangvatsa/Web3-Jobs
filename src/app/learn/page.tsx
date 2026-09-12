@@ -53,7 +53,6 @@ export default function LearnPage() {
             <div className="site-container">
               <PageHeader
                 title="Learn Web3"
-                description={`${totalLessons} free lessons with diagrams, quizzes, and real examples. Start with the fundamentals, then pick your path.`}
               />
             </div>
           </section>
