@@ -18,13 +18,13 @@ export const metadata: Metadata = {
     title: 'Top Web3 Companies | Hashtag Web3',
     description: 'Explore top Web3 companies actively hiring in blockchain, DeFi, and crypto.',
     url: 'https://hashtagweb3.com/companies',
-    images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Web3%20Companies', width: 1200, height: 630, alt: 'Web3 Companies hiring in crypto and blockchain' }],
+    images: [{ url: 'https://hashtagweb3.com/api/og?type=companies&title=Web3%20Companies', width: 1200, height: 630, alt: 'Web3 Companies hiring in crypto and blockchain' }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Top Web3 Companies | Hashtag Web3',
     description: 'Explore Web3 companies actively hiring in blockchain, DeFi, and crypto.',
-    images: ['https://hashtagweb3.com/api/og?type=default&title=Web3%20Companies'],
+    images: ['https://hashtagweb3.com/api/og?type=companies&title=Web3%20Companies'],
   },
 };
 

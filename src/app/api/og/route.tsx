@@ -655,7 +655,111 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // 3.5. Events page template (Exact Website Hero Match)
+    // 3.6. Companies page template (Exact Website Hero Match)
+    if (type === 'companies') {
+      const displayTitle = title || 'Web3 Companies';
+
+      return new ImageResponse(
+        (
+          <div
+            style={{
+              width: '100%',
+              height: '100%',
+              display: 'flex',
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              backgroundColor: '#ffffff',
+              padding: '60px',
+              fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+            }}
+          >
+            {/* Title */}
+            <div
+              style={{
+                display: 'flex',
+                fontSize: '84px',
+                fontWeight: '900',
+                color: '#0f172a',
+                letterSpacing: '-2.5px',
+                marginBottom: '40px',
+                textAlign: 'center',
+              }}
+            >
+              {displayTitle}
+            </div>
+
+            {/* Sub-header */}
+            <div
+              style={{
+                display: 'flex',
+                fontSize: '15px',
+                fontWeight: '700',
+                color: '#64748b',
+                letterSpacing: '2px',
+                textTransform: 'uppercase',
+                marginBottom: '24px',
+                textAlign: 'center',
+              }}
+            >
+              FROM COMPANIES LIKE:
+            </div>
+
+            {/* Company Logos / Names Row */}
+            <div
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                justifyContent: 'center',
+                gap: '36px',
+                marginBottom: '44px',
+              }}
+            >
+              {['LBANK', 'dYdX', 'coinbase', 'Bitget', 'BINANCE', 'CIRCLE'].map((brand) => (
+                <div
+                  key={brand}
+                  style={{
+                    display: 'flex',
+                    fontSize: '20px',
+                    fontWeight: '800',
+                    color: '#0f172a',
+                    letterSpacing: '-0.5px',
+                  }}
+                >
+                  {brand}
+                </div>
+              ))}
+            </div>
+
+            {/* Subscriber Subtitle */}
+            <div
+              style={{
+                display: 'flex',
+                alignItems: 'center',
+                gap: '8px',
+                fontSize: '20px',
+                color: '#64748b',
+                fontWeight: '500',
+              }}
+            >
+              <span>Join our company &amp; hiring feed with</span>
+              <span style={{ color: '#0f172a', fontWeight: '800', marginLeft: '4px', marginRight: '4px' }}>
+                60,000+
+              </span>
+              <span>subscribers.</span>
+            </div>
+          </div>
+        ),
+        {
+          width: 1200,
+          height: 630,
+          headers: {
+            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+          },
+        }
+    }
+
+    // 3.7. Events page template (Exact Website Hero Match)
     if (type === 'events') {
       const displayTitle = title || 'Web3 Events';
 
