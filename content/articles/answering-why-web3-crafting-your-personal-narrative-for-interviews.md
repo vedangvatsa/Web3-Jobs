@@ -1,5 +1,6 @@
 ---
 title: 'How to Answer Why Web3 in Job Interviews'
+ogTitle: "ANSWER WHY WEB3 IN JOB INTERVIEWS GUIDE"
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: job interview question
 description: >-
@@ -8,9 +9,8 @@ description: >-
   to tailor your answer to any team.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Almost every Web3 interview includes some version of "Why Web3?" or "What was your rabbit hole moment?" It is not small talk. Teams are small, remote, and build with public money and open code. They use this question to filter for genuine interest, learning habit, and fit for autonomous work.
 
 This guide shows how to build a short, specific answer that holds up under follow-ups. You will see what interviewers listen for, a three-part structure you can adapt, examples by role that use real products and standards correctly, and a practice plan.
@@ -71,11 +71,9 @@ Choose a mechanism you actually touched:
 
 * **A lending protocol interaction.** For example, supplying USDC on an Aave v3 market and seeing that a borrow requires collateral that exceeds the borrow value. Aave docs describe this as a non-custodial liquidity protocol where you supply to a pool, receive aTokens that accrue interest, and borrow against that collateral within a Loan-to-Value limit. If the value of your collateral falls, your health factor drops and you can be liquidated. Interest adjusts with pool utilization. The point is not that loans are free or instant without backing. They require overcollateralization, transparent risk parameters, and self-custody. If you use this as a spark, say which network, which asset, and what LTV you saw.
 * **A creator tool.** For example, minting or collecting a writing NFT. Mirror.xyz, launched in December 2020, publishes each post to Arweave for permanent storage and can mint the entry as an ERC-721 on Optimism or Base. The point is wallet-owned publishing with a permanent Arweave transaction ID, not platform-owned content. Note that Mirror was acquired by Paragraph in May 2024 and the two products have since merged their publishing stacks, so current posts may appear under Paragraph.
-*
+* **A privacy primitive.
 
-### A privacy primitive
-
-For example, reading the W3C Verifiable Credentials Data Model v2.0 (May 2025) and the AnonCreds spec, where a holder can present a credential without revealing the full credential. Techniques include selective disclosure, predicate proofs such as proving age is greater than 18 without revealing birth date, and proving the credential has not been revoked without revealing a correlatable identifier. The W3C model describes issuer, holder, and verifier roles. This shows interest in user control and minimal disclosure, not just finance.
+**For example, reading the W3C Verifiable Credentials Data Model v2.0 (May 2025) and the AnonCreds spec, where a holder can present a credential without revealing the full credential. Techniques include selective disclosure, predicate proofs such as proving age is greater than 18 without revealing birth date, and proving the credential has not been revoked without revealing a correlatable identifier. The W3C model describes issuer, holder, and verifier roles. This shows interest in user control and minimal disclosure, not just finance.
 
 Write your spark as: "I did X with Y, noticed Z, and wanted to learn more about Z."
 
@@ -188,9 +186,9 @@ Every narrative choice has a cost.
 
 ## How to draft your answer in 60 minutes
 
-Minutes 0 to 10: Choose the spark.
+**Minutes 0 to 10: Choose the spark.
 
-List three real moments when you interacted with a Web3 product. Pick the one where you can name a transaction, doc page, or forum post. Write one sentence: "I did X, saw Y, wanted to learn Z."**Minutes 10 to 30: Write the journey as a checklist.** Use only items with a link.
+**List three real moments when you interacted with a Web3 product. Pick the one where you can name a transaction, doc page, or forum post. Write one sentence: "I did X, saw Y, wanted to learn Z."** Minutes 10 to 30: Write the journey as a checklist.** Use only items with a link.
 
 * Tutorial or course name and what you built. Example: "CryptoZombies Lesson 1, built ZombieFactory, deployed to Sepolia via Remix."
 * Contract or script with repo link. Example: "ERC-20 with OpenZeppelin, tests with Foundry, gas report attached."
@@ -210,11 +208,11 @@ Add one thing that did not work and what you fixed. That reads as honest.
 ### Quick table to organize your draft
 
 | Component | What to put in | Example you can verify |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | The Spark | One product interaction you did | "Supplied USDC on Aave v3 Sepolia, saw 75 percent LTV for ETH" |

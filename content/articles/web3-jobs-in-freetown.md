@@ -1,14 +1,14 @@
 ---
 title: 'Web3 Jobs in Freetown'
+ogTitle: "WEB3 JOBS IN FREETOWN"
 data-ai-hint: freetown sierra leone city
 description: >-
   A career guide to the emerging Web3 job market in Freetown. Explore how Sierra
   Leone's capital is using blockchain for governance and financial inclusion.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Freetown, the resilient capital of Sierra Leone, is establishing itself as a significant player in the [Web3](/what-is-web3) movement. The city is transforming into a case study for the use of [blockchain](/what-is-a-blockchain) technology in governance and identity verification. Notably, Sierra Leone was among the first countries to implement blockchain for verifying national election results. the nation is developing a blockchain-based digital identity system, reflecting a governmental commitment to using technology for social good. This proactive approach has built a unique and impactful Web3 ecosystem.
 
 The focus in Freetown's Web3 sector goes beyond speculation. The emphasis lies on using blockchain to address core issues in governance, finance, and identity verification. This focus has generated a demand for professionals who are dedicated to "Web3 for Good" and capable of creating systems that deliver measurable social benefits. This guide offers a detailed analysis of the [Web3 career](/web3-jobs-for-beginners) opportunities in Freetown, detailing the city's unique emphasis, available roles, and strategies for building a career that merges technology with social innovation.
@@ -72,15 +72,13 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 **Developer Compensation:**
 
-- **-** Junior DID Developer (0-1 year):Competitive
-- Mid-Level Identity/Security Developer (1-3 years): Competitive
-- Senior/Lead Developer (3+ years):
+- **-** Junior DID Developer (0-1 year):**Competitive
+- **Mid-Level Identity/Security Developer (1-3 years):** Competitive
+- **Senior/Lead Developer (3+ years):** Competitive
 
-### Competitive
+**GovTech and Project Management:**
 
-GovTech and Project Management:
-
-- -**Project Manager:**Competitive
+- **-** Project Manager:**Competitive
 - **Product Manager (Identity):** Competitive
 - **Security/Cryptography Expert:** Competitive
 
@@ -163,43 +161,33 @@ GovTech and Project Management:
 
 ### Challenges and Strategies
 
+**Challenge: Uncertain Project Timelines
 
+**The national ID project may face long-term delays. Build a diverse skill set and develop consulting capabilities.** Challenge: Security Expertise Requirement
 
-### Challenge: Uncertain Project Timelines
+**GovTech projects necessitate high-level security knowledge. Pursue certifications such as Security+ or OSCP and focus on code audits.** Challenge: Infrastructure Limitations
 
-The national ID project may face long-term delays. Build a diverse skill set and develop consulting capabilities.
+**Internet speeds typically vary, with occasional outages. Remote roles or hybrid arrangements can mitigate this.** Challenge: Limited Local Developer Expertise
 
-### Challenge: Security Expertise Requirement
+**Few local developers possess relevant skills, leading to less competition. Position yourself as an expert for greater visibility.** Challenge: Language Proficiency
 
-GovTech projects necessitate high-level security knowledge. Pursue certifications such as Security+ or OSCP and focus on code audits.
-
-### Challenge: Infrastructure Limitations
-
-Internet speeds typically vary, with occasional outages. Remote roles or hybrid arrangements can mitigate this.
-
-### Challenge: Limited Local Developer Expertise
-
-Few local developers possess relevant skills, leading to less competition. Position yourself as an expert for greater visibility.
-
-### Challenge: Language Proficiency
-
-Effective communication in English is essential for GovTech projects. Improve your professional English and practice technical writing.
+**Effective communication in English is essential for GovTech projects. Improve your professional English and practice technical writing.
 
 ### 90-Day Action Plan
 
 **Days 1-10: Foundations**- Set up profiles on GitHub, Twitter, and LinkedIn.
-- Decide on your career path: Identity Developer, GovTech PM, or Educator.
+- Decide on your career path: Identity Developer, GovTech PM, or Educator. 
 - Join relevant communities and read Sierra Leone's digital roadmap.
 
-**Days 11-30: Deep Learning**- Complete foundational courses and deploy your first DID project or publish articles.
+**Days 11-30: Deep Learning**- Complete foundational courses and deploy your first DID project or publish articles. 
 - Connect with industry professionals and seek mentorship.
 
-**Days 31-60: Portfolio Building**- Complete significant projects or publish additional articles.
-- Network with UN and World Bank contacts on LinkedIn.
+**Days 31-60: Portfolio Building**- Complete significant projects or publish additional articles. 
+- Network with UN and World Bank contacts on LinkedIn. 
 - Apply for positions or partnership opportunities.
 
-**Days 61-90: Secure Opportunities**- Aim to land your first contract or consulting gig.
-- Build a significant social media presence to attract interest.
+**Days 61-90: Secure Opportunities**- Aim to land your first contract or consulting gig. 
+- Build a significant social media presence to attract interest. 
 - Plan your next steps based on the opportunities identified.
 
 ### Frequently Asked Questions

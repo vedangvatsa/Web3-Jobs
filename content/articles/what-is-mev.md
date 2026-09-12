@@ -1,5 +1,6 @@
 ---
 title: What is MEV? The Invisible Tax on Web3 Explained
+ogTitle: "MEV? THE INVISIBLE TAX ON WEB3 EXPLAINED EXPLAINED"
 description: >-
   Maximal Extractable Value (MEV) is one of the most powerful and complex forces
   in crypto. Learn what it is, how it works, and its impact on the Web3
@@ -7,9 +8,8 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain data
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## What is MEV? The Invisible Tax on Web3 Explained
 
 ### What is it
@@ -26,41 +26,29 @@ Flashbots, founded in late 2020 by Phil Daian, Stephane Gosselin and Tina Zhen w
 * **Liquidity providers.** MEV arbitrage constantly picks off stale AMM quotes. Research from CoW Protocol and model calls this loss-versus-rebalancing (LVR) and finds it often exceeds LP fee income.
 * **DeFi borrowers.** Lending protocols like Aave and Maker rely on liquidations. Searchers compete to liquidate undercollateralized positions first to collect the bonus.
 * **App and protocol developers.** Any contract that uses an on-chain price, assumes transaction order, or handles large swaps can be gamed if you do not design for MEV.
-*
+* **Validators and stakers.
 
-### Validators and stakers
-
-MEV now makes up a large share of validator income. How you source blocks affects your rewards and your exposure to censorship risk.
+**MEV now makes up a large share of validator income. How you source blocks affects your rewards and your exposure to censorship risk.
 
 If you only hold on a centralized exchange and never interact on-chain, MEV does not touch you directly. If you trade, provide liquidity, or build on Ethereum or other public mempool chains, it does.
 
 ### How it works
 
-1.
+1. **Your transaction enters the mempool.
 
-### Your transaction enters the mempool
+**When you submit a swap on Ethereum, it does not execute right away. It sits in the mempool, a public waiting area where pending transactions wait to be included.
+2. **Searchers scan for profit.
 
-When you submit a swap on Ethereum, it does not execute right away. It sits in the mempool, a public waiting area where pending transactions wait to be included.
-2.
+**Searchers are bots and teams running algorithms that watch the mempool and on-chain state for opportunities. They look for large swaps that will move prices, liquidation thresholds, or price differences between venues.
+3. **Bundles are built.
 
-### Searchers scan for profit
+**A searcher packages the transactions needed to capture the opportunity into a bundle that must execute in a fixed order or not at all. Example: buy before your trade, let your trade push the price, sell after.
+4. **Builders assemble blocks.
 
-Searchers are bots and teams running algorithms that watch the mempool and on-chain state for opportunities. They look for large swaps that will move prices, liquidation thresholds, or price differences between venues.
-3.
+**Builders are specialized entities that collect bundles from many searchers plus normal mempool transactions and construct the most valuable complete block they can.
+5. **Proposers pick the best block.
 
-### Bundles are built
-
-A searcher packages the transactions needed to capture the opportunity into a bundle that must execute in a fixed order or not at all. Example: buy before your trade, let your trade push the price, sell after.
-4.
-
-### Builders assemble blocks
-
-Builders are specialized entities that collect bundles from many searchers plus normal mempool transactions and construct the most valuable complete block they can.
-5.
-
-### Proposers pick the best block
-
-The validator selected to propose the next block does not have to build it. With proposer-builder separation (PBS), the validator runs MEV-Boost, open source middleware that queries multiple builders via relays. Relays validate blocks and forward sealed bids. The validator picks the highest bid, signs the header, and the relay releases the full block. The validator keeps the bid as extra income.
+**The validator selected to propose the next block does not have to build it. With proposer-builder separation (PBS), the validator runs MEV-Boost, open source middleware that queries multiple builders via relays. Relays validate blocks and forward sealed bids. The validator picks the highest bid, signs the header, and the relay releases the full block. The validator keeps the bid as extra income.
 
 This supply chain is why MEV-Boost matters. According to Flashbots docs and independent trackers, more than 90 percent of Ethereum blocks have been proposed via MEV-Boost since 2023. The market separates the proposer role (any validator) from the builder role (sophisticated, hardware-heavy search for ordering profit).
 
@@ -81,27 +69,17 @@ This is a front run plus back run around a single victim trade.
 
 EigenPhi data reported by Cointelegraph Research in December 2025 found sandwich bots drained about $40 million from Ethereum users across 2025. Monthly extraction fell from almost $10 million in late 2024 to about $2.5 million in October 2025 as protection tools spread, but attack count stayed high at 60,000 to 90,000 sandwiches per month. Average net profit per attack had fallen to about $3. About a third of sandwich bots ran at breakeven and another 30 percent at a net loss that month, while one address, jaredfromsubway.eth, accounted for roughly 70 percent of sandwich activity according to The Block's analysis of its lifetime revenue of about 82,679 ETH against 76,850 ETH in gas.
 
+**DEX arbitrage - usually price-correcting
 
+**If ETH is $2,000 on Uniswap and $2,010 on Sushiswap, a searcher buys on Uniswap and sells on Sushiswap in one atomic transaction. This keeps prices aligned across venues. Searchers often pay 90 percent or more of the arbitrage revenue in gas to validators because competition is intense. Techniques like gas golfing, such as using addresses with leading zeroes to save storage gas, exist specifically to squeeze out extra margin here.** Liquidations
 
-### DEX arbitrage - usually price-correcting
+**When a borrower's collateral falls below the protocol's threshold, anyone can liquidate and collect a fee. Searchers race to be first. This helps keep lending protocols solvent, but the borrower pays the liquidation penalty.** NFT MEV
 
-If ETH is $2,000 on Uniswap and $2,010 on Sushiswap, a searcher buys on Uniswap and sells on Sushiswap in one atomic transaction. This keeps prices aligned across venues. Searchers often pay 90 percent or more of the arbitrage revenue in gas to validators because competition is intense. Techniques like gas golfing, such as using addresses with leading zeroes to save storage gas, exist specifically to squeeze out extra margin here.
+**During popular mints or when an NFT is listed far below floor, searchers program transactions to be first in the block or buy the entire set in one transaction. In one 2021 case a searcher spent $7 million to buy every CryptoPunk at floor price using private transaction routing to keep the strategy hidden until inclusion.** Just-in-time (JIT) liquidity
 
-### Liquidations
+**A searcher adds liquidity to a pool right before a large swap and removes it right after, collecting the swap fee with almost no price risk. The swapper still pays the fee.** Generalized frontrunners
 
-When a borrower's collateral falls below the protocol's threshold, anyone can liquidate and collect a fee. Searchers race to be first. This helps keep lending protocols solvent, but the borrower pays the liquidation penalty.
-
-### NFT MEV
-
-During popular mints or when an NFT is listed far below floor, searchers program transactions to be first in the block or buy the entire set in one transaction. In one 2021 case a searcher spent $7 million to buy every CryptoPunk at floor price using private transaction routing to keep the strategy hidden until inclusion.
-
-### Just-in-time (JIT) liquidity
-
-A searcher adds liquidity to a pool right before a large swap and removes it right after, collecting the swap fee with almost no price risk. The swapper still pays the fee.
-
-### Generalized frontrunners
-
-Some bots do not understand specific protocols at all. They copy any pending transaction that looks profitable, replace the recipient address with their own, simulate it locally, and if it would profit, replay it with higher gas. Flashbots was originally built to stop this by taking transactions out of the public mempool.
+**Some bots do not understand specific protocols at all. They copy any pending transaction that looks profitable, replace the recipient address with their own, simulate it locally, and if it would profit, replay it with higher gas. Flashbots was originally built to stop this by taking transactions out of the public mempool.
 
 ### Pros and cons
 
@@ -138,11 +116,9 @@ Slippage tolerance is the maximum price move you accept. A sandwich is only prof
 
 If your transaction fails often, widen slightly. A failed transaction that costs gas is still often cheaper than being sandwiched on a large trade. A 2026 audit of top DEX integrations cited by Thirdweb found about 40 percent still used dangerously wide defaults.
 
+**3. Split large orders
 
-
-### 3. Split large orders
-
-A $100,000 swap moves price more than ten $10,000 swaps and is a more attractive single target. Use TWAP execution or an aggregator that splits across pools when the gas trade-off makes sense. On low-fee chains or layer 2s, splitting costs little.**4. Time and route consciously**
+**A $100,000 swap moves price more than ten $10,000 swaps and is a more attractive single target. Use TWAP execution or an aggregator that splits across pools when the gas trade-off makes sense. On low-fee chains or layer 2s, splitting costs little.** 4. Time and route consciously**
 
 Trade in deeper pools and during higher liquidity periods when possible. Compare quotes across aggregators. On layer 2 rollups with centralized sequencers, ordering rules differ today, but sequencer decentralization will bring mainnet-like MEV dynamics, so the same hygiene applies.
 
@@ -152,31 +128,21 @@ Trade in deeper pools and during higher liquidity periods when possible. Compare
 * **Add proper slippage checks.** In Uniswap v3, set amountOutMinimum to an actual quote-derived value, not zero. The sherlock-audit issue 91 in July 2025 flagged contracts that left amountOutMinimum at 0 and relied only on sqrtPriceLimitX96, which does not prevent sandwiches.
 * **Consider commit-reveal or batch auctions.** For voting, games, or NFT mints, hide choices until all commitments are in. For trading, Uniswap v4 hooks now allow batch auction logic directly in pools, following CoW Protocol's design.
 * **Set deadlines.** Enforce short transaction deadlines so bots cannot hold a transaction for several blocks waiting for a profitable reorder.
-*
+* **Test with MEV simulation.
 
-### Test with MEV simulation
-
-Tools like MEV-Inspect and EigenPhi let you replay transactions against historical mempool state to measure LVR and sandwich exposure.
+**Tools like MEV-Inspect and EigenPhi let you replay transactions against historical mempool state to measure LVR and sandwich exposure.
 
 ### What is changing in 2025 to 2026
 
+**Enshrined PBS (EIP-7732).
 
+**Today PBS runs off-protocol via MEV-Boost and relays. EIP-7732 would move the builder auction into the Ethereum protocol itself, removing the need to trust relays and guaranteeing the proposer is paid even if a builder withholds a payload. Ethereum.org's PBS roadmap notes the spec is advanced but not finalized, with at least a year of research and prototyping ahead as of mid 2026.** Inclusion lists and FOCIL.
 
-### Enshrined PBS (EIP-7732)
+**To counter builder censorship, proposers will be able to publish inclusion lists that builders must respect. Each FOCIL list is currently capped at 8 kilobytes. Validators could force inclusion of censored transactions within one to two slots even if the builder would prefer to skip them.** Encrypted mempools.
 
-Today PBS runs off-protocol via MEV-Boost and relays. EIP-7732 would move the builder auction into the Ethereum protocol itself, removing the need to trust relays and guaranteeing the proposer is paid even if a builder withholds a payload. Ethereum.org's PBS roadmap notes the spec is advanced but not finalized, with at least a year of research and prototyping ahead as of mid 2026.
+**Threshold encryption and time-lock puzzles would hide transaction content until after ordering is fixed, so a searcher cannot see what to front run. This is active research and not yet deployed on mainnet.** Cross-domain MEV.
 
-### Inclusion lists and FOCIL
-
-To counter builder censorship, proposers will be able to publish inclusion lists that builders must respect. Each FOCIL list is currently capped at 8 kilobytes. Validators could force inclusion of censored transactions within one to two slots even if the builder would prefer to skip them.
-
-### Encrypted mempools
-
-Threshold encryption and time-lock puzzles would hide transaction content until after ordering is fixed, so a searcher cannot see what to front run. This is active research and not yet deployed on mainnet.
-
-### Cross-domain MEV
-
-As activity moves to layer 2s and bridges, MEV spreads across domains. Flashbots' Block Assembly Marketplace (BAM) for Solana's Jito network and similar builder markets for rollups show the same supply chain forming elsewhere. On Solana, Jito-Solana runs on more than 95 percent of stake as of mid 2026, and cumulative Jito tips have reached about $674 million according to Jito's dashboard.
+**As activity moves to layer 2s and bridges, MEV spreads across domains. Flashbots' Block Assembly Marketplace (BAM) for Solana's Jito network and similar builder markets for rollups show the same supply chain forming elsewhere. On Solana, Jito-Solana runs on more than 95 percent of stake as of mid 2026, and cumulative Jito tips have reached about $674 million according to Jito's dashboard.
 
 None of these removes MEV entirely. Transparent blockchains with AMMs will always have arbitrage and liquidation incentives. The goal is to keep price-correcting MEV while removing sandwich-style extraction from regular users.
 

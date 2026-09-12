@@ -1,5 +1,6 @@
 ---
 title: Top Blockchain Dev Job Salaries
+ogTitle: "TOP BLOCKCHAIN DEV JOB SALARIES"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: web3 salary money
 description: >-
@@ -7,7 +8,7 @@ description: >-
   engineers, with regional comparisons and the components of Web3 compensation.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The [Web3](/what-is-web3) industry has gained recognition for its competitive compensation packages, particularly in the technology sector. A surge in venture capital investment and a significant talent shortage have led Web3 companies to offer attractive salaries to engineers capable of constructing the secure and scalable infrastructure for this new internet. So, what can developers realistically expect to earn in this field?
 

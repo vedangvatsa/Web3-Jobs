@@ -1,5 +1,6 @@
 ---
 title: What is DeFi? A Beginner's Guide to Decentralized Finance
+ogTitle: "DEFI? A BEGINNER'S GUIDE TO DECENTRALIZED FINANCE EXPLAINED"
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 description: >-
   DeFi (Decentralized Finance) rebuilds financial services on blockchain
@@ -8,9 +9,8 @@ description: >-
 category: Industry Insights
 data-ai-hint: defi explained
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 DeFi is a set of financial applications built on public blockchains that run through smart contracts instead of banks, brokers, or exchanges. A smart contract is a program at a blockchain address that holds funds and executes when its conditions are met, and no one can change it after deployment except through its coded governance. On Ethereum, where most DeFi operates, this means you can lend, borrow, trade, and create dollar-pegged assets without handing custody to an intermediary.
 
 Ethereum describes the model directly: in DeFi a smart contract replaces the financial institution in the transaction, and contracts are public for anyone to inspect and audit.
@@ -23,13 +23,11 @@ Traditional finance relies on trusted intermediaries. A bank holds deposits, pay
 
 ## Who it is for
 
-People who want self-custody and permissionless access.
+**People who want self-custody and permissionless access.
 
-If you have internet access and a self-custody wallet, you can use DeFi without an ID check or credit score. That matters where banking access is limited, or where you want to keep custody instead of leaving funds on an exchange.
+**If you have internet access and a self-custody wallet, you can use DeFi without an ID check or credit score. That matters where banking access is limited, or where you want to keep custody instead of leaving funds on an exchange.** Active crypto users and traders.
 
-### Active crypto users and traders
-
-If you hold ETH or stablecoins and want to earn interest by supplying them, borrow against them, or swap tokens without an order book, DeFi provides those tools. You trade directly against pool liquidity and pay a fee to liquidity providers.**Builders and career switchers evaluating Web3 roles.** If you are considering work as a Solidity developer, smart contract auditor, protocol engineer, or on-chain analyst, DeFi is where those skills are tested. You will need to read contract code, understand risk parameters, and use tools like Foundry, Hardhat, and on-chain explorers.
+**If you hold ETH or stablecoins and want to earn interest by supplying them, borrow against them, or swap tokens without an order book, DeFi provides those tools. You trade directly against pool liquidity and pay a fee to liquidity providers.** Builders and career switchers evaluating Web3 roles.** If you are considering work as a Solidity developer, smart contract auditor, protocol engineer, or on-chain analyst, DeFi is where those skills are tested. You will need to read contract code, understand risk parameters, and use tools like Foundry, Hardhat, and on-chain explorers.
 
 It is a poor fit if you need deposit insurance, guaranteed redemption, or help recovering a mistaken transfer. DeFi has no bank support desk and no regulator that will reimburse a bug or a phishing loss. If you are uncomfortable managing keys and verifying contract addresses, use a regulated custodian first and start with small test amounts.
 
@@ -104,11 +102,11 @@ TVL moves with prices and with how you count categories. Use it as a directional
 Leading protocols by category, with verification points:
 
 | Protocol | Category | What it does and how it is measured |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Aave v3 | Lending | Largest lending market. Pools hold deposits and issue aTokens. TVL reported near $26.18 billion in mid-May 2026 on DeFiLlama across all chains, with higher historical prints near $69 billion in August 2025 when categorization included more affiliated markets. |
@@ -121,93 +119,67 @@ TVL peaked intraday at $237 billion in Q3 2025 per market trackers, then fell to
 
 ## Pros and cons to weigh
 
+**Permissionless access.
 
+**Anyone with a wallet and internet can supply, borrow, or swap without a bank account or broker. No custodian can freeze the contract itself, though front ends and stablecoin issuers may maintain compliance controls on their own interfaces.** Transparency.
 
-### Permissionless access
+**Contracts, balances, and collateral are public on chain. You can inspect code on Etherscan, verify the proxy and implementation, and read audits. That does not remove the need for technical review, but it makes independent checks possible.** Composability and programmability.
 
-Anyone with a wallet and internet can supply, borrow, or swap without a bank account or broker. No custodian can freeze the contract itself, though front ends and stablecoin issuers may maintain compliance controls on their own interfaces.
+**Because DeFi products share Ethereum addresses and token standards, you can use an interest-bearing position as collateral elsewhere, automate strategies in a single transaction, or build new instruments without a new legal entity. Examples include delta-neutral stable positions and vaults that auto-rebalance.** Self-custody.
 
-### Transparency
+**You hold keys, not an exchange. That removes custodian failure but shifts key management to you.** Smart contract and protocol logic risk.
 
-Contracts, balances, and collateral are public on chain. You can inspect code on Etherscan, verify the proxy and implementation, and read audits. That does not remove the need for technical review, but it makes independent checks possible.
+**Immunefi data put DeFi protocol losses at $680 million in 2025, up from $534 million in 2024 but still about 74 percent below the $2.62 billion peak in 2022. The median loss per incident fell to $1.5 million from $6 million, and 89 percent of 2025 losses came from protocol logic errors rather than generic bridge or oracle classes. A past audit is a snapshot of one commit. It does not cover later changes, key handling, or front-end compromise. Euler lost $197 million in March 2023 to a donation and liquidation logic bug even after audits.** Collateral volatility and liquidation.
 
-### Composability and programmability
+**Overcollateralization helps lenders, but borrowers face auto-liquidation if prices drop. During sharp moves, liquidations can cascade and the discount paid to liquidators increases your loss.** Fees and user experience.
 
-Because DeFi products share Ethereum addresses and token standards, you can use an interest-bearing position as collateral elsewhere, automate strategies in a single transaction, or build new instruments without a new legal entity. Examples include delta-neutral stable positions and vaults that auto-rebalance.
+**Gas, price impact, failed transactions, and approval steps remain friction, especially for small amounts on mainnet. Layer 2s reduce fees by 5 to 20 times per ethereum.org scaling notes, but you must still manage bridging and finality delays.** Regulatory uncertainty.
 
-### Self-custody
+**Rules for tokens, stablecoins, and lending differ by jurisdiction and are still being written under frameworks like the EU's MiCA and pending US stablecoin legislation. Some activities that are permissionless today could face geofencing or issuer-level restrictions later, and stablecoins such as USDS include compliance-related contract controls for institutional use.** Scams and key risk.
 
-You hold keys, not an exchange. That removes custodian failure but shifts key management to you.
-
-### Smart contract and protocol logic risk
-
-Immunefi data put DeFi protocol losses at $680 million in 2025, up from $534 million in 2024 but still about 74 percent below the $2.62 billion peak in 2022. The median loss per incident fell to $1.5 million from $6 million, and 89 percent of 2025 losses came from protocol logic errors rather than generic bridge or oracle classes. A past audit is a snapshot of one commit. It does not cover later changes, key handling, or front-end compromise. Euler lost $197 million in March 2023 to a donation and liquidation logic bug even after audits.
-
-### Collateral volatility and liquidation
-
-Overcollateralization helps lenders, but borrowers face auto-liquidation if prices drop. During sharp moves, liquidations can cascade and the discount paid to liquidators increases your loss.
-
-### Fees and user experience
-
-Gas, price impact, failed transactions, and approval steps remain friction, especially for small amounts on mainnet. Layer 2s reduce fees by 5 to 20 times per ethereum.org scaling notes, but you must still manage bridging and finality delays.
-
-### Regulatory uncertainty
-
-Rules for tokens, stablecoins, and lending differ by jurisdiction and are still being written under frameworks like the EU's MiCA and pending US stablecoin legislation. Some activities that are permissionless today could face geofencing or issuer-level restrictions later, and stablecoins such as USDS include compliance-related contract controls for institutional use.
-
-### Scams and key risk
-
-Fake token contracts, phishing front ends that mimic real apps, unlimited token approvals, and single-key admin control have caused large losses. Bridge and admin key failures accounted for more than half of the $6.4 billion lost across 23 major incidents of $100 million or more between 2022 and mid-2026, per curated rekt.news and Chainalysis records. The $1.44 billion Bybit cold wallet compromise in February 2025, attributed to a supply-chain attack on its signing interface, was not a DeFi contract bug but shows how signing infrastructure matters.
+**Fake token contracts, phishing front ends that mimic real apps, unlimited token approvals, and single-key admin control have caused large losses. Bridge and admin key failures accounted for more than half of the $6.4 billion lost across 23 major incidents of $100 million or more between 2022 and mid-2026, per curated rekt.news and Chainalysis records. The $1.44 billion Bybit cold wallet compromise in February 2025, attributed to a supply-chain attack on its signing interface, was not a DeFi contract bug but shows how signing infrastructure matters.
 
 ## How to get started safely
 
 ### If you want to try DeFi with a small amount
 
-1. Set up a self-custody wallet and back up keys offline.
+1. **Set up a self-custody wallet and back up keys offline.
 
-Use a hardware wallet if you plan to hold more than a test sum. Write the seed phrase on paper or metal, never screenshot it, and practice recovering on a second device before you fund it.
+**Use a hardware wallet if you plan to hold more than a test sum. Write the seed phrase on paper or metal, never screenshot it, and practice recovering on a second device before you fund it.
 
-2. Pick one chain and one well-known protocol to learn on.
+2. **Pick one chain and one well-known protocol to learn on.
 
-For lending, start on Aave v3 on Ethereum or on a Layer 2 you already use. For swapping, start with Uniswap on the same network. Verify the URL from the official docs: app.aave.com, app.uniswap.org, curve.fi, sky.money. Check contract addresses on an explorer.
+**For lending, start on Aave v3 on Ethereum or on a Layer 2 you already use. For swapping, start with Uniswap on the same network. Verify the URL from the official docs: app.aave.com, app.uniswap.org, curve.fi, sky.money. Check contract addresses on an explorer.
 
-3. Fund with a small test amount and do one full loop.
+3. **Fund with a small test amount and do one full loop.
 
-Deposit a small stablecoin amount, watch the aToken accrue, try a small borrow only if you understand Health Factor, then repay and withdraw. On a DEX, swap a small amount, review price impact and gas, and check the transaction succeeded. Keep your first total below what you can afford to lose.
+**Deposit a small stablecoin amount, watch the aToken accrue, try a small borrow only if you understand Health Factor, then repay and withdraw. On a DEX, swap a small amount, review price impact and gas, and check the transaction succeeded. Keep your first total below what you can afford to lose.
 
-4. Set approvals to the minimum and revoke when done.
+4. **Set approvals to the minimum and revoke when done.
 
-When a dApp asks for unlimited allowance, lower it to the amount you need. After you finish, revoke unused approvals with a tool like Revoke.cash and disconnect the site.
+**When a dApp asks for unlimited allowance, lower it to the amount you need. After you finish, revoke unused approvals with a tool like Revoke.cash and disconnect the site.
 
-5.
+5. **Monitor risk and keep records.
 
-### Monitor risk and keep records
-
-Track Health Factor if you borrow, set a price alert well above liquidation, avoid borrowing near the max LTV, and export transaction history for taxes. In many jurisdictions, interest, swap gains, and liquidation losses are taxable events.
+**Track Health Factor if you borrow, set a price alert well above liquidation, avoid borrowing near the max LTV, and export transaction history for taxes. In many jurisdictions, interest, swap gains, and liquidation losses are taxable events.
 
 ### If you are exploring DeFi as a career
 
-1. Learn to read contracts before you write them.
+1. **Learn to read contracts before you write them.
 
-Work through ethereum.org smart contract introductions and the Aave and Uniswap docs. Practice the checks-effects-interactions pattern and the withdrawal pattern from the Solidity docs.
+**Work through ethereum.org smart contract introductions and the Aave and Uniswap docs. Practice the checks-effects-interactions pattern and the withdrawal pattern from the Solidity docs.
 
-2.
+2. **Ship one auditable project.
 
-### Ship one auditable project
+**Build a vault or a small AMM helper with Foundry tests, fuzz runs with `forge test --fuzz-runs 256`, and gas reports. Deploy to a testnet, verify on an explorer, and publish the repo with a clear README.
 
-Build a vault or a small AMM helper with Foundry tests, fuzz runs with `forge test --fuzz-runs 256`, and gas reports. Deploy to a testnet, verify on an explorer, and publish the repo with a clear README.
+3. **Study one risk domain in depth.
 
-3.
+**Options include oracle design, liquidation math, or key management with multisig and timelock. Write a short postmortem of a real incident, such as Euler 2023 or a recent price manipulation case, with what the fix was and how you would test for it.
 
-### Study one risk domain in depth
+4. **Track hiring signals.
 
-Options include oracle design, liquidation math, or key management with multisig and timelock. Write a short postmortem of a real incident, such as Euler 2023 or a recent price manipulation case, with what the fix was and how you would test for it.
-
-4.
-
-### Track hiring signals
-
-Teams hire for evidence of on-chain work, not just course completion. Contributions to docs, dashboards on Dune, or a small audit review carry more weight than a generic certificate.
+**Teams hire for evidence of on-chain work, not just course completion. Contributions to docs, dashboards on Dune, or a small audit review carry more weight than a generic certificate.
 
 ## FAQ
 

@@ -1,5 +1,6 @@
 ---
 title: What is a 'Degen' in Web3?
+ogTitle: "'DEGEN' IN WEB3? EXPLAINED"
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: risky bet crypto
 description: >-
@@ -7,7 +8,7 @@ description: >-
   thrill-seeking traders and DeFi power users.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The [Web3](/what-is-web3) ecosystem features a unique lexicon, and one of the most significant terms you will encounter is "degen." This term is particularly relevant in the fields of [DeFi](/what-is-defi) and [NFT](/what-are-nfts) trading.
 

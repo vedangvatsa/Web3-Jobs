@@ -1,5 +1,6 @@
 ---
 title: Working through the Web3 Investment Analyst Career Path
+ogTitle: "WORKING THROUGH THE WEB3 INVESTMENT ANALYST CAREER PATH"
 image: >-
   https://images.unsplash.com/photo-1554768804-50c1e2b50a6e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxpbnZlc3R8ZW58MHx8fHwxNzU1MDM2NDUzfDA&lib=rb-4.1.0&q=80&w=1080
 data-ai-hint: investment finance stock
@@ -8,7 +9,7 @@ description: >-
   does, the skills needed to succeed, and how to break into a role at a crypto.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The role of an Investment Analyst at a [Web3](/what-is-web3) venture capital fund stands out as one of the most sought-after positions in the crypto industry. Analysts in this field play an important role in identifying promising founders and protocols that will influence the decentralized internet's future.
 

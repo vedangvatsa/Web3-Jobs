@@ -1,5 +1,6 @@
 ---
 title: 'Web3 Jobs in Russia'
+ogTitle: "WEB3 JOBS IN RUSSIA"
 image: >-
   https://images.unsplash.com/photo-1520106212299-d99c443e4568?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxydXNzaWF8ZW58MHx8fHwxNzE2NDIwMTMyfDA&lib=rb-4.0.3&q=80&w=1080
 data-ai-hint: russia city moscow
@@ -8,7 +9,7 @@ description: >-
   the nation's deep pool of technical talent, the impact of geopolitical.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Russia occupies a unique position in the [Web3](/what-is-web3) field. The nation is home to a wealth of technical talent, having produced prominent figures like [Ethereum](/what-is-ethereum) co-founder Vitalik Buterin. However, the ongoing geopolitical situation and an unclear regulatory framework present challenges for the local crypto industry.
 

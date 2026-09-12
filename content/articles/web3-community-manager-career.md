@@ -1,5 +1,6 @@
 ---
 title: How to Be a Good Community Moderator
+ogTitle: "BE A GOOD COMMUNITY MODERATOR GUIDE"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 data-ai-hint: team meeting collaboration
 description: >-
@@ -7,9 +8,8 @@ description: >-
   community manager does, the skills they need, and how to build a career as.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 In the decentralized field of [Web3](/what-is-web3), community plays a central role in shaping projects and their success. The Community Manager, or "CM," serves as the cornerstone in this ecosystem, transcending traditional social media management. This position demands a unique combination of empathy, communication skills, and in-depth knowledge of protocols to thrive.
 
 A proficient CM embodies the spirit of a project. They build community culture, onboard users, manage crises, and serve as the vital connection between anonymous users and the development team. This article examines the core responsibilities, [essential skills](/mastering-web3-essential-skills), and the career trajectory of this important non-technical role in the crypto sector.
@@ -79,7 +79,7 @@ Becoming a CM typically begins with active participation in a community.
 
 **Head of Community:** Experienced CMs can advance to leadership positions, overseeing a team of community managers and developing overall community strategy.
 
-The Community Manager role poses challenges but offers significant rewards. Working closely with a project allows you to build relationships and support a culture necessary for success in the decentralized environment.
+The Community Manager role poses challenges but offers significant rewards. Engaging with a project at its core allows you to build relationships and support a culture essential for success in the decentralized environment.
 
 ### The Web3 Community Tooling Stack
 
@@ -87,29 +87,29 @@ Operating a decentralized community requires familiarity with a specialized suit
 
 - **Discord Infrastructure:**
 
-- **-** Token Gating & Roles:using tools like [Guild.xyz](https://guild.xyz) or Collab.Land to automatically assign Discord roles based on wallet balances, NFT holdings, or on-chain activity.
- - Server Security: Hardening servers using verification bots (e.g., Wick Bot, Double Counter) to prevent raid bots and automated spam.
- - Support Ticketing: Integrating systems like Ticket Tool to handle user support queries privately and efficiently.
-- Telegram Administration:
+- **-** Token Gating & Roles:**using tools like [Guild.xyz](https://guild.xyz) or Collab.Land to automatically assign Discord roles based on wallet balances, NFT holdings, or on-chain activity.
+ - **Server Security:** Hardening servers using verification bots (e.g., Wick Bot, Double Counter) to prevent raid bots and automated spam.
+ - **Support Ticketing:** Integrating systems like Ticket Tool to handle user support queries privately and efficiently.
+- **Telegram Administration:**
 
-- -**Moderation Bots:**Deploying Miss Rose Bot or Combot to filter out spam links, restrict new users from posting media immediately, and auto-delete malicious forwarders.
+- **-** Moderation Bots:**Deploying Miss Rose Bot or Combot to filter out spam links, restrict new users from posting media immediately, and auto-delete malicious forwarders.
  - **Group Settings:** Managing permissions to temporarily mute the channel during high-stress market events or targeted attack campaigns.
 - **Governance Forums:**
 
-- **-** Discourse:Structuring and maintaining Discourse forums for formal DAO proposals, tokenomics discussions, and structured community debate prior to on-chain voting on Snapshot.
+- **-** Discourse:**Structuring and maintaining Discourse forums for formal DAO proposals, tokenomics discussions, and structured community debate prior to on-chain voting on Snapshot.
 
 ### Frontline Security & Anti-Phishing Protocols
 
 Web3 communities are the primary target for social engineering and phishing attacks. A moderator's security hygiene directly protects the community's assets:
 
-- Admin Account Hardening: Enforcing hardware-based 2FA (like YubiKeys) for all core team Discord accounts. Under no circumstances should SMS 2FA be used due to SIM-swapping risks.
-- Bot Token Protection: Safeguarding bot API tokens and webhooks. Malicious actors frequently scan GitHub repositories to hijack server webhooks and broadcast fake mint links.
-- Phishing Triage: Setting up custom auto-moderation rules to instantly block common scam domains, fake mirror sites, and DMs claiming to be "support staff."
+- **Admin Account Hardening:** Enforcing hardware-based 2FA (like YubiKeys) for all core team Discord accounts. Under no circumstances should SMS 2FA be used due to SIM-swapping risks.
+- **Bot Token Protection:** Safeguarding bot API tokens and webhooks. Malicious actors frequently scan GitHub repositories to hijack server webhooks and broadcast fake mint links.
+- **Phishing Triage:** Setting up custom auto-moderation rules to instantly block common scam domains, fake mirror sites, and DMs claiming to be "support staff."
 
 ### Crisis De-escalation & FUD Management
 
 During exploits, market downturns, or delayed roadmap deliverables, the community manager acts as the primary shield for project trust:
 
-- Establishing a Single Source of Truth: During an exploit or hack, immediately lock down non-essential chat channels to prevent rumor-mongering, and post a pinned, transparent status update explaining what is known and what is being investigated.
-- Empathetic Boundary Setting: Address legitimate user concerns and frustrations without getting defensive, while strictly enforcing rules against personal attacks on developers or team members.
-- Constructive Sentiment Loop: Package community sentiment into objective reports (rather than emotional screenshots) for the engineering team to help guide feature fixes and roadmap changes.
+- **Establishing a Single Source of Truth:** During an exploit or hack, immediately lock down non-essential chat channels to prevent rumor-mongering, and post a pinned, transparent status update explaining what is known and what is being investigated.
+- **Empathetic Boundary Setting:** Address legitimate user concerns and frustrations without getting defensive, while strictly enforcing rules against personal attacks on developers or team members.
+- **Constructive Sentiment Loop:** Package community sentiment into objective reports (rather than emotional screenshots) for the engineering team to help guide feature fixes and roadmap changes.

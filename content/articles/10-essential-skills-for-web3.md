@@ -1,5 +1,6 @@
 ---
 title: >-
+ogTitle: "10 ESSENTIAL WEB3 SKILLS FOR BLOCKCHAIN CAREERS: DEVELOPER,"
   10 Essential Web3 Skills for Blockchain Careers: Developer, PM, Marketing &
   More
 description: >-
@@ -11,7 +12,7 @@ image: >-
 category: Career Guides
 data-ai-hint: blockchain developer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Web3 teams hire for proof you can work with on-chain systems. General crypto interest does not pass an interview. What counts is specific skill matched to a role, and evidence you have used it.
 

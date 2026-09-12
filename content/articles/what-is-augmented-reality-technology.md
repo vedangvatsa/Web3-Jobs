@@ -1,5 +1,6 @@
 ---
 title: What is Augmented Reality Technology
+ogTitle: "AUGMENTED REALITY TECHNOLOGY EXPLAINED"
 description: >-
   An introduction to augmented reality (AR), the technology that overlays
   digital information onto the real world, and how it differs from virtual
@@ -7,9 +8,8 @@ description: >-
 category: Educational
 data-ai-hint: digital overlay
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Augmented Reality, or AR, enhances the real world by overlaying computer-generated information and digital content. Unlike virtual reality (VR), which immerses users in a completely artificial environment, AR supplements the user's actual surroundings without replacing them.
 
 The most common method of experiencing AR today involves smartphones. A prime example is Pokémon GO, where players see digital creatures integrated into the real world via their phone's camera. Another instance is Instagram filters that add virtual elements, like sunglasses, to a user's face. Both illustrate how AR captures the real world and overlays digital information.
@@ -79,5 +79,5 @@ A HUD, commonly found in vehicles or aircraft, projects static information into 
 
 #### 2. Which devices support AR?
 
-Most modern smartphones and tablets have built-in AR capabilities, particularly those from Apple (using ARKit) and Android (using ARCore). Dedicated AR headsets, such as the Microsoft HoloLens 2, are available but primarily focus on enterprise applications rather than consumer use.**3. Is an app required for AR?**
+Most modern smartphones and tablets have built-in AR capabilities, particularly those from Apple (using ARKit) and Android (using ARCore). Dedicated AR headsets, such as the Microsoft HoloLens 2, are available but primarily focus on enterprise applications rather than consumer use.**3. Is an app required for AR?** 
 Most AR experiences currently rely on dedicated mobile applications. However, the trend towards "WebAR" is growing, enabling access to AR experiences directly through web browsers without needing to download an app.

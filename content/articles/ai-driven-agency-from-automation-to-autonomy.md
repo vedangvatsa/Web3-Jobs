@@ -1,5 +1,6 @@
 ---
 title: 'AI-Driven Agency from Automation to Autonomy'
+ogTitle: "AI-DRIVEN AGENCY FROM AUTOMATION TO AUTONOMY"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 description: >-
   AI agency is the shift from rule-based automation to systems that perceive,
@@ -8,9 +9,8 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai autonomy
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Automation follows rules you write. AI agency pursues goals you set. An AI agent perceives its environment, makes a plan, calls tools or smart contracts, and adjusts based on results, all within limits you define.
 
 This matters for anyone building or operating on [Web3](/what-is-web3), because blockchains make agent actions auditable and enforceable in code, but they do not fix model errors or key management failures. This guide maps the spectrum from automation to autonomy, shows where Web3 agents actually work today, and where human oversight still belongs.
@@ -88,37 +88,25 @@ An AI agent usually has most of these, while traditional ML has only one or two:
 * **Memory.** Keeps task state and reusable knowledge, with selective recall rather than storing everything.
 * **Tool use.** Interacts with the world through allow-listed tools, such as token swap routers, lending pool contracts, or messaging APIs.
 * **Adaptation.** Changes its next step based on tool outputs or market events.
-*
+* **Autonomy with guardrails.
 
-### Autonomy with guardrails
-
-Operates without per-step prompts when you permit it, but stays bounded by rate limits, spend caps, approval gates, and audit logs.
+**Operates without per-step prompts when you permit it, but stays bounded by rate limits, spend caps, approval gates, and audit logs.
 
 If a system lacks planning and tool use, it is not an agent. If it cannot adapt after an error, it is a script with a model attached.
 
 ## How Web3 changes the picture
 
-Blockchains add three properties that matter for agents and one standard that is now taking shape.
+Blockchains add three properties that matter for agents and one standard that is now taking shape.**Transparent execution.
 
-### Transparent execution
+**Every transaction an agent sends is recorded on chain and can be audited. You can see what it called, when, and with what gas price. This helps with debugging and dispute review.** Smart contract constraints.
 
-Every transaction an agent sends is recorded on chain and can be audited. You can see what it called, when, and with what gas price. This helps with debugging and dispute review.
+**Agents operate inside contracts that enforce rules even if the agent's off-chain logic is flawed. A contract can cap daily spend, restrict which pools can be touched, or require a time lock. This does not prevent key compromise or oracle errors, but it bounds what a compromised agent can do.** Composability.
 
-### Smart contract constraints
+**On Ethereum, smart contracts are public and can call each other. The ethereum.org docs describe composability as modularity, autonomy, and discoverability: each contract does one job, runs on its own, and is openly addressable so developers can reuse it. An agent can therefore combine a swap, a lending deposit, and a governance vote in one flow without asking each team for permission.** DAOs as coordinators.
 
-Agents operate inside contracts that enforce rules even if the agent's off-chain logic is flawed. A contract can cap daily spend, restrict which pools can be touched, or require a time lock. This does not prevent key compromise or oracle errors, but it bounds what a compromised agent can do.
+**DAOs encode voting and treasury rules in smart contracts and enforce outcomes through token-weighted votes. Major DeFi protocols governed this way include Aave, Uniswap, Balancer, and Lido, with Layer 2 scaling via Arbitrum and similar networks. Proposals span technical and economic parameters that are hard for many token holders to evaluate, which creates pressure to use agent assistance for analysis and execution while keeping humans as approvers.** ERC-8004: Trustless Agents.
 
-### Composability
-
-On Ethereum, smart contracts are public and can call each other. The ethereum.org docs describe composability as modularity, autonomy, and discoverability: each contract does one job, runs on its own, and is openly addressable so developers can reuse it. An agent can therefore combine a swap, a lending deposit, and a governance vote in one flow without asking each team for permission.
-
-### DAOs as coordinators
-
-DAOs encode voting and treasury rules in smart contracts and enforce outcomes through token-weighted votes. Major DeFi protocols governed this way include Aave, Uniswap, Balancer, and Lido, with Layer 2 scaling via Arbitrum and similar networks. Proposals span technical and economic parameters that are hard for many token holders to evaluate, which creates pressure to use agent assistance for analysis and execution while keeping humans as approvers.
-
-### ERC-8004: Trustless Agents
-
-In August 2025, contributors from MetaMask (Marco De Rossi), the Ethereum Foundation (Davide Crapis), Google (Jordan Ellis), and Coinbase (Erik Reppel) proposed ERC-8004. It defines three lightweight per-chain registries:
+**In August 2025, contributors from MetaMask (Marco De Rossi), the Ethereum Foundation (Davide Crapis), Google (Jordan Ellis), and Coinbase (Erik Reppel) proposed ERC-8004. It defines three lightweight per-chain registries:
 
 1. **Identity registry:** an ERC-721 token per agent that points to an agent URI with metadata and service descriptions.
 2.
@@ -162,13 +150,13 @@ What is still rare is the observer level: an agent that holds assets, votes, and
 ## Use cases with honest trade-offs
 
 | Use case | What an agent does | Practical benefit | Constraint or risk |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Algorithmic trading and arbitrage | Scans DEXs and mempool feeds, batches swaps, simulates outcomes before sending | Captures short-lived spreads at any hour, reduces missed opportunities | Slippage, gas spikes, and MEV competition can erase edge; needs fast RPCs |
@@ -181,42 +169,28 @@ What is still rare is the observer level: an agent that holds assets, votes, and
 
 ## Risks and failure modes
 
+**Alignment.
 
+**An agent that optimizes for short-term return can take actions you would reject, such as adding borrowed capital in a thin market. This reward hacking problem is well documented for LLM-based agents. Treat every objective and metric as brittle until proven otherwise.** Transparency and explainability.
 
-### Alignment
+**Deep learning models often operate as black boxes. You can see what transaction an agent sent, but not always why it chose that pool or price. Logging prompts, tool calls, retrieved context, and model version with each action helps, but does not make every decision fully explainable.** Out-of-distribution failures.
 
-An agent that optimizes for short-term return can take actions you would reject, such as adding borrowed capital in a thin market. This reward hacking problem is well documented for LLM-based agents. Treat every objective and metric as brittle until proven otherwise.
+**When an agent meets a situation it did not see in testing, such as a new pool type or an oracle delay, it may fail in unsafe ways. Safe defaults are to do nothing, require approval, or shrink position, not to improvise with funds.** Security.
 
-### Transparency and explainability
+**Agents that control assets are high-value targets. Threats documented in 2025 include prompt injection, tool misuse, permission overreach, and agent hijacking where third-party content steers the agent. NIST's 2025 technical blog on strengthening agent hijacking evaluations and the OWASP Agentic Top 10 both emphasize testing with adversarial tool outputs. Keep keys scoped, use ephemeral approvals, and store signing in hardware or a policy engine, not in plain agent memory.** Accountability.
 
-Deep learning models often operate as black boxes. You can see what transaction an agent sent, but not always why it chose that pool or price. Logging prompts, tool calls, retrieved context, and model version with each action helps, but does not make every decision fully explainable.
+**If an agent causes harm, legal responsibility sits with the deployer and operator who granted authority, not with the model. Map every permission to an owner, log the delegation chain, and define who can pause, revoke, or roll back an action. Standards and frameworks that teams cite here include the NIST AI Risk Management Framework functions Govern, Map, Measure, and Manage, and the EU AI Act requirements for logging, data governance, documentation, and human oversight for covered high-risk systems.** Scalability and systemic risk.
 
-### Out-of-distribution failures
-
-When an agent meets a situation it did not see in testing, such as a new pool type or an oracle delay, it may fail in unsafe ways. Safe defaults are to do nothing, require approval, or shrink position, not to improvise with funds.
-
-### Security
-
-Agents that control assets are high-value targets. Threats documented in 2025 include prompt injection, tool misuse, permission overreach, and agent hijacking where third-party content steers the agent. NIST's 2025 technical blog on strengthening agent hijacking evaluations and the OWASP Agentic Top 10 both emphasize testing with adversarial tool outputs. Keep keys scoped, use ephemeral approvals, and store signing in hardware or a policy engine, not in plain agent memory.
-
-### Accountability
-
-If an agent causes harm, legal responsibility sits with the deployer and operator who granted authority, not with the model. Map every permission to an owner, log the delegation chain, and define who can pause, revoke, or roll back an action. Standards and frameworks that teams cite here include the NIST AI Risk Management Framework functions Govern, Map, Measure, and Manage, and the EU AI Act requirements for logging, data governance, documentation, and human oversight for covered high-risk systems.
-
-### Scalability and systemic risk
-
-If many agents chase the same signal, exits crowd at the same time. Network congestion blocks clean exits, slippage rises, and correlated liquidations follow. This herd effect already appears in manual farming; faster agents can make it larger rather than smooth it.**Trust.** Building trust requires both auditable execution and verifiable constraints. A public log alone does not make an agent trustworthy if no one can constrain its spend or verify its data sources.
+**If many agents chase the same signal, exits crowd at the same time. Network congestion blocks clean exits, slippage rises, and correlated liquidations follow. This herd effect already appears in manual farming; faster agents can make it larger rather than smooth it.** Trust.** Building trust requires both auditable execution and verifiable constraints. A public log alone does not make an agent trustworthy if no one can constrain its spend or verify its data sources.
 
 ## Economic implications
 
 * **Productivity.** Agents that are well scoped can handle monitoring and execution across many protocols without fatigue. Time saved is real, but it shows up as faster rebalancing and fewer missed events, not as costless returns.
 * **Wealth and access.** If agents capture spreads or yields more consistently, advantage may accrue to those who can afford better data, faster infra, and tighter risk controls. Layer 2 fees on networks like Base lower this barrier, but do not erase it.
 * **Labor.** Routine operational work, such as position monitoring and report generation, is most exposed. Demand rises for people who can design, audit, and govern agent systems.
-*
+* **Market structure.
 
-### Market structure
-
-Always-on agents push markets toward faster price adjustment, which can reduce small arbitrages while raising intraday volatility during stress. The net efficiency effect depends on diversity: many uncorrelated strategies dampen shocks, many correlated ones increase them.
+**Always-on agents push markets toward faster price adjustment, which can reduce small arbitrages while raising intraday volatility during stress. The net efficiency effect depends on diversity: many uncorrelated strategies dampen shocks, many correlated ones increase them.
 
 Projections vary widely, which is itself a signal to stay conservative. G2's 2025 AI Agent report reported that 57 percent of surveyed companies had AI agents in production and 78 percent planned to increase agent autonomy. MarketsandMarkets estimated the AI agent market at about $7.84 billion in 2025, rising to over $52 billion by 2030. Treat these as directional survey and forecast data, not as guarantees.
 
@@ -236,31 +210,21 @@ Projections vary widely, which is itself a signal to stay conservative. G2's 202
 
 ### If you are evaluating an agent for Web3
 
-1.
+1. **Pick one high-value workflow.
 
-### Pick one high-value workflow
+**Start with research to brief to execution for a single protocol, not with a plan to automate everything.
+2. **Define tools and least privilege.
 
-Start with research to brief to execution for a single protocol, not with a plan to automate everything.
-2.
+**List every API and contract the agent may call. Restrict to an allow list, cap spend per day, and require explicit approval for any transaction that moves funds or changes permissions.
+3. **Design memory and grounding early.
 
-### Define tools and least privilege
+**Decide what is kept in short-term context, what is stored as episodic history, and what is retrieved from a knowledge base via RAG. Ground claims in retrieved documents before acting.
+4. **Set the autonomy dial.
 
-List every API and contract the agent may call. Restrict to an allow list, cap spend per day, and require explicit approval for any transaction that moves funds or changes permissions.
-3.
+**Use human-in-the-loop for anything irreversible: treasury moves, bridge transfers, and governance votes. Reserve unattended runs for read-only analysis or sandboxed simulations.
+5. **Instrument everything.
 
-### Design memory and grounding early
-
-Decide what is kept in short-term context, what is stored as episodic history, and what is retrieved from a knowledge base via RAG. Ground claims in retrieved documents before acting.
-4.
-
-### Set the autonomy dial
-
-Use human-in-the-loop for anything irreversible: treasury moves, bridge transfers, and governance votes. Reserve unattended runs for read-only analysis or sandboxed simulations.
-5.
-
-### Instrument everything
-
-Log prompts, tool calls, arguments, costs, latency, and outcomes. Save the transcript so a reviewer can replay why an action was taken.
+**Log prompts, tool calls, arguments, costs, latency, and outcomes. Save the transcript so a reviewer can replay why an action was taken.
 6. **Pilot with shadow review.** Let the agent propose for a week while you compare its proposals to what you would have done. Expand scope only after measured accuracy and cost are stable.
 
 ### If you are building
@@ -275,11 +239,9 @@ Log prompts, tool calls, arguments, costs, latency, and outcomes. Save the trans
 * **Agent infrastructure builder.** Runs orchestration, tool gateways, key management, and observability. Focus is uptime, latency, and audit trails.
 * **Agent governance specialist.** Designs delegation chains, approval flows, and DAO policy translation. Maps autonomy tiers to controls.
 * **Agent security reviewer.** Tests for hijacking, over-permission, and ungrounded actions. Reviews contracts that bound agent authority.
-*
+* **Applied researcher.
 
-### Applied researcher
-
-Works on planning reliability, provenance, and evaluation of multi-agent behavior.
+**Works on planning reliability, provenance, and evaluation of multi-agent behavior.
 
 These roles overlap. In small teams one person covers several, which raises the need for explicit ownership over who can grant and revoke agent authority.
 

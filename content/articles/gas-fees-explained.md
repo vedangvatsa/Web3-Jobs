@@ -1,15 +1,14 @@
 ---
-title: Gas Fees Explained
+title: 'Gas Fees Explained'
+ogTitle: "GAS FEES EXPLAINED"
 image: /images/articles/charts/gas-l2-fees.svg
 data-ai-hint: layer 2 fee comparison chart
 description: >-
-  What gas measures, how EIP-1559 pricing works, why fees spike, and how users
-  and developers pay less.
+  What gas measures, how EIP-1559 pricing works, why fees spike, and how users and developers pay less.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Gas is the unit that measures how much work Ethereum does for your transaction. You pay for that work in ETH, priced per unit of gas. When the network is busy, the price per unit rises. When it is quiet, it falls. [Ethereum's own gas overview](https://ethereum.org/gas/) and its [technical gas documentation](https://ethereum.org/developers/docs/gas/) are the canonical starting points, and this guide builds on them with current numbers.
 
 This guide explains what gas is, who needs to understand it, how the fee market works after EIP-1559, where the trade-offs are, and how users and developers can reduce what they pay.
@@ -21,11 +20,11 @@ Gas counts computation on the Ethereum Virtual Machine (EVM). Every opcode has a
 Common examples, from [ethereum.org/gas](https://ethereum.org/gas/) and the [technical gas docs](https://ethereum.org/developers/docs/gas/), with [Binance Academy's breakdown](https://www.binance.com/en/academy/articles/how-do-gas-fees-work-on-ethereum) for comparison:
 
 | Action | Gas used, typical | Notes |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Send ETH to another wallet | 21,000 | Fixed, defined in the Yellow Paper as TxGas |
@@ -130,32 +129,24 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 ### What still hurts
 
--
+- **Fees still spike.
 
-### Fees still spike
+**When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
+- **Tip still needed for speed.
 
-When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
--
+**To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
+- **Mainnet is costly for small actions.
 
-### Tip still needed for speed
+**Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
+- **Developer cliff.
 
-To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
--
-
-### Mainnet is costly for small actions
-
-Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
--
-
-### Developer cliff
-
-Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
+**Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
 
 ## How to pay less and build cheaper
 
 ### If you are a user
 
-1. **Prefer a Layer 2 for routine actions.** Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. [L2 fee boards](https://ethtransactionfee.org/ethereum-layer2-fees.html) compare Arbitrum, Optimism, Base, zkSync, and Polygon side by side. [2026 comparisons](https://qinv.io/blog/base-vs-arbitrum-vs-optimism-comparison) put Base near $0.01 to $0.05, Optimism near $0.01 to $0.10, and Arbitrum near $0.05 to $0.20 against $10 to $50 mainnet actions. [WebbyCoin](https://webbycoin.com/articles/compare-gas-fees-on-arbitrum/) explains why the L1 data share, 80 to 90% pre-Dencun, drove the Nitro versus Bedrock cost shift. [Guardarian's 2026 comparison](https://guardarian.com/blog/arbitrum-vs-optimism-a-detailed-comparison) adds the operator angle on fees, TVL, and ARB versus OP utility. [EarnifyHub's L2 guide](https://earnifyhub.com/blog/crypto/layer2-arbitrum-optimism-base-zksync-comparison) covers the failure modes too, including seven-day withdrawals versus zkSync's minutes. [Chaingain's 2026 explainer](https://chaingain.io/layer-2-explained-2026/) adds bridge risk to the fee picture.
+1. **Prefer a Layer 2 for routine actions.** Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. [L2 fee boards](https://ethtransactionfee.org/ethereum-layer2-fees.html) compare Arbitrum, Optimism, Base, zkSync, and Polygon side by side. [2026 comparisons](https://qinv.io/blog/base-vs-arbitrum-vs-optimism-comparison) put Base near $0.01 to $0.05, Optimism near $0.01 to $0.10, and Arbitrum near $0.05 to $0.20 against $10 to $50 mainnet actions. [WebbyCoin](https://webbycoin.com/articles/compare-gas-fees-on-arbitrum/) explains why the L1 data share, 80 to 90% pre-Dencun, drove the Nitro versus Bedrock cost shift. [Guardarian's 2026 comparison](https://guardarian.com/blog/arbitrum-vs-optimism-a-comprehensive-comparison) adds the operator angle on fees, TVL, and ARB versus OP utility. [EarnifyHub's L2 guide](https://earnifyhub.com/blog/crypto/layer2-arbitrum-optimism-base-zksync-comparison) covers the failure modes too, including seven-day withdrawals versus zkSync's minutes. [Chaingain's 2026 explainer](https://chaingain.io/layer-2-explained-2026/) adds bridge risk to the fee picture.
 
 After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. [canonical blob spec](https://eips.ethereum.org/EIPS/eip-4844) defines 128KB blobs with separate blob gas pricing and roughly 18-day pruning. [Binance Academy](https://www.binance.com/en/academy/articles/what-is-eip-4844-in-ethereum-and-how-can-it-benefit-users) dates Dencun to March 13, 2024 with 80 to 90% L2 cuts. [Status recorded Optimism](https://status.network/blog/what-is-ethereum-dencun-upgrade-layer-2-fees) falling about 98%, Arbitrum 97%, and Base 98% in the days after activation. [contemporaneous March 2024](https://lex.substack.com/p/defi-ethereum-l2-fees-fall-90-as) report confirms the across-the-board collapse. EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills. [Spark's research](https://www.spark.money/research/ethereum-eip-4844-blob-fee-market) derives the separate blob fee formula and the 95% plus drop. [Datawallet](https://www.datawallet.com/crypto/eip-4844-explained) tracks the follow-ons: Pectra doubling blob counts with EIP-7691, 7623, and 7918 plus Fusaka peerDAS on the roadmap. [Plisio](https://plisio.net/crypto/eip-4844-explained) cites the emblematic $0.50 to $0.01 case with Base volume up 224%. [Thirdweb's developer guide](https://blog.thirdweb.com/ethereum-blob-space-explained-how-eip-4844-is-reshaping-l2-economics-for-web3-developers) explains the 128KB, six-blobs-per-block dual fee market. [Cyfrin's guide](https://www.cyfrin.io/blog/what-is-eip-4844-proto-danksharding-and-blob-transactions) covers multidimensional pricing with maxFeePerBlobGas and KZG commitments. [Eco](https://eco.com/support/en/articles/14796248-eip-4844-proto-danksharding-explained) notes the 1-wei blob floor of 2024 with L2 actions repriced from dollars to cents. [Blofin](https://blofin.com/en/academy/education/ethereum/eip-4844-proto-danksharding) adds the key caveat: blobs never cut L1 execution gas, only the L2 data path. [Gate's wiki](https://www.gate.com/crypto-wiki/article/danksharding-and-proto-danksharding-explained-20260130) confirms the March 2024 activation and KZG role. [Finematics' video transcript](https://ethereum.org/videos/eip-4844-dencun-explained/) walks through blobs versus calldata for visual learners. [Dencun FAQ](https://ethereum.org/roadmap/dencun/) gives the official activation context.
 
@@ -197,11 +188,9 @@ function bumpGood() external {
 }
 ```
 
+**2. Pack storage variables.
 
-
-### 2. Pack storage variables
-
-The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
+**The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
 
 ```solidity
 // Inefficient: three slots
@@ -213,9 +202,7 @@ struct Good { uint128 a; uint128 c; uint256 b; }
 
 This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
 
-**3. Use calldata for read-only external inputs.**
-
-```solidity
+**3. Use calldata for read-only external inputs.**```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 
@@ -225,9 +212,9 @@ function processGood(string calldata data) external { }
 
 For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.
 
-4. Use custom errors instead of string requires.
+**4. Use custom errors instead of string requires.
 
-Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
+**Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
 
 ```solidity
 // Higher cost: stores the string
@@ -265,27 +252,21 @@ The lesson repeats every cycle: demand spikes are temporary, base-fee math is pe
 
 ## FAQ
 
+**Estimating fees in dollars
 
+**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
 
-### Estimating fees in dollars
+**Paid failures
 
-Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
-
-
-
-### Paid failures
-
-Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
+**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
 
 #### What happens to gas if ETH price doubles?
 
 Gas used for an action stays the same. Price per unit in gwei is set by demand. If ETH price doubles and demand stays flat, the same 21,000-unit transfer costs twice as many dollars but the same gwei and ETH. In practice wallets and users target dollar costs, so demand often eases when ETH price rises.
 
+**ETH on Layer 2
 
-
-### ETH on Layer 2
-
-Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
+**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
 
 #### Is it cheaper to set a very low maxFeePerGas and wait?
 

@@ -1,5 +1,6 @@
 ---
 title: Two Weeks' Notice Letter Templates
+ogTitle: "TWO WEEKS' NOTICE LETTER TEMPLATES"
 description: >-
   Writing a two weeks' notice letter is an important part of leaving a job
   professionally. Here are several templates you can use to ensure you leave on
@@ -7,9 +8,8 @@ description: >-
 data-ai-hint: writing letter
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 When you decide to leave your job, giving two weeks' notice is a standard professional practice. You should first have a conversation with your manager before submitting a formal resignation letter. This letter serves as the official record for HR and should express your intentions clearly and professionally. The objective is to leave on good terms.
 
 Your resignation letter should be brief and straightforward. Include your intention to resign, the date of your last working day, and an offer to assist with the transition. Avoid discussing grievances or the reasons for your departure in detail.
@@ -30,7 +30,7 @@ I am dedicated to ensuring a smooth transition in my final two weeks. Please let
 
 Wishing you and [Company Name] continued success.
 
-Sincerely,
+Sincerely, 
 [Your Name]
 
 ### Template 2: The More Personal and Heartfelt
@@ -49,7 +49,7 @@ During my remaining two weeks, I will do everything I can to enable a smooth tra
 
 While I look forward to the next chapter in my career, I will sincerely miss working with you and the team. I hope to stay in touch.
 
-Best wishes,
+Best wishes, 
 [Your Name]
 
 ### Template 3: The "Leaving a Difficult Situation" Letter
@@ -64,7 +64,7 @@ Thank you for the opportunity to work here. I will assist with the transition of
 
 Wishing you and the company success in the future.
 
-Regards,
+Regards, 
 [Your Name]
 
 This template is intentionally brief and neutral, fulfilling your professional obligation without looking into personal issues. Discuss your reasons for leaving during an exit [interview](/how-to-prepare-for-job-interview) with HR, if you choose to participate.
@@ -81,7 +81,7 @@ I apologize for any inconvenience my short notice may cause. I am committed to e
 
 Thank you for the opportunity to work at [Company Name]. I wish you all the best.
 
-Sincerely,
+Sincerely, 
 [Your Name]
 
 Regardless of the circumstances surrounding your departure, your resignation letter should formally close this chapter of your career. Keeping a positive and forward-looking tone ensures that you leave on the best possible terms.

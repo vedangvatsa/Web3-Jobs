@@ -1,5 +1,6 @@
 ---
 title: Performance Management Best Practices for Modern Teams
+ogTitle: "PERFORMANCE MANAGEMENT BEST PRACTICES FOR MODERN TEAMS"
 category: Career Guides
 date: '2025-09-12'
 description: >-
@@ -8,9 +9,8 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: performance review meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The annual performance review is a relic. Sitting someone down once a year to tell them how they did helps nobody. The employee gets blindsided by feedback they could have acted on months ago, the manager can barely remember Q1, and the whole exercise becomes a box-ticking ritual.
 
 If you're managing a team - especially a distributed or [Web3](/what-is-web3) team - you need a system that works continuously, not annually.
@@ -47,33 +47,25 @@ A growth conversation is different from a performance conversation. Performance 
 
 Good growth conversations cover:
 
--
+- **Skills the person wants to build.
 
-### Skills the person wants to build
+**Not skills you think they should build - skills they're genuinely interested in.
+- **Gaps between where they are and where they want to be.
 
-Not skills you think they should build - skills they're genuinely interested in.
-- Gaps between where they are and where they want to be.
+**Be specific. "You need to improve your communication" is useless. "Your technical proposals would land better if you led with the business impact before the implementation details" is something a person can actually work on.
+- **Opportunities to stretch.
 
-Be specific. "You need to improve your communication" is useless. "Your technical proposals would land better if you led with the business impact before the implementation details" is something a person can actually work on.
--
-
-### Opportunities to stretch
-
-Can they lead a project, mentor someone newer, or take on a cross-functional initiative? Growth happens through practice, not training slides.
+**Can they lead a project, mentor someone newer, or take on a cross-functional initiative? Growth happens through practice, not training slides.
 
 ## Performance Management in Flat Orgs and DAOs
 
 Traditional performance management assumes a clear hierarchy. In [Web3 organizations](/what-is-web3) and DAOs, that structure often doesn't exist. Contributors work across multiple projects, report to no single person, and may operate under pseudonyms.
 
-So how do you manage performance without managers?
+So how do you manage performance without managers?**Peer feedback systems.
 
-### Peer feedback systems
+**When there's no boss, feedback comes from the people you work with directly. Tools like peer review rounds at the end of each project cycle let contributors evaluate each other's reliability, code quality, communication, and follow-through.** Deliverable-based evaluation.
 
-When there's no boss, feedback comes from the people you work with directly. Tools like peer review rounds at the end of each project cycle let contributors evaluate each other's reliability, code quality, communication, and follow-through.
-
-### Deliverable-based evaluation
-
-In many DAOs, your reputation is your track record. Did you ship what you committed to? Did you hit the milestones tied to your [grant or bounty](/web3-careers)? On-chain records of completed work create a transparent, tamper-proof performance history.**Compensation tied to contribution.** Some DAOs use coordinape-style systems where team members allocate tokens to peers based on perceived contribution, replacing the manager's unilateral decision with a collective assessment.
+**In many DAOs, your reputation is your track record. Did you ship what you committed to? Did you hit the milestones tied to your [grant or bounty](/web3-careers)? On-chain records of completed work create a transparent, tamper-proof performance history.** Compensation tied to contribution.** Some DAOs use coordinape-style systems where team members allocate tokens to peers based on perceived contribution, replacing the manager's unilateral decision with a collective assessment.
 
 The downside of flat structures is that hard feedback often goes undelivered. When nobody is formally responsible for your development, uncomfortable truths go unsaid. The best DAO teams build explicit feedback rituals into their cadence - because everyone agreed that honest feedback matters.
 

@@ -1,5 +1,6 @@
 ---
 title: How to Become a Web3 NFT Artist and Sell Your Work
+ogTitle: "BECOME A WEB3 NFT ARTIST AND SELL YOUR WORK GUIDE"
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft art crypto
 description: >-
@@ -8,7 +9,7 @@ description: >-
   without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## What is a Web3 NFT artist
 

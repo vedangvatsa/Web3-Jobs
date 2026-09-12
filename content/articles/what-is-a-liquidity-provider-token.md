@@ -1,5 +1,6 @@
 ---
 title: What is a Liquidity Provider (LP) Token?
+ogTitle: "LIQUIDITY PROVIDER (LP) TOKEN? EXPLAINED"
 description: >-
   A complete guide to understanding Liquidity Provider (LP) tokens, how they
   represent your share in a liquidity pool, and their central role in DeFi
@@ -7,9 +8,8 @@ description: >-
 category: Educational
 data-ai-hint: liquidity provider
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## What is a Liquidity Provider (LP) Token?
 
 In Decentralized Finance ([DeFi](/what-is-defi)), Liquidity Provider (LP) [tokens](/what-is-a-token) serve as essential components for Automated Market Makers (AMMs) such as Uniswap and Curve. When you add liquidity to a [DEX](/what-is-a-decentralized-exchange-dex) liquidity pool, you receive LP tokens as a representation of your share in that pool.
@@ -26,7 +26,7 @@ This article explains what LP tokens are, how you acquire them, their primary fu
 -----------------------------|
 
 ------------------------------------------------------------------------------------------------------|
-|
+| 
 
 **Nature of LP Tokens**| LP tokens are a specific type of ERC-20 token received upon depositing assets into a liquidity pool. |
 |

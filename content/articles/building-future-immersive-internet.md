@@ -1,5 +1,6 @@
 ---
 title: 'Building the Immersive Internet'
+ogTitle: "BUILDING THE IMMERSIVE INTERNET"
 description: >-
   A practical guide to the immersive internet in 2026: what it is, who it is
   for, how WebXR, WebGPU, OpenXR, glTF and USD work together, where Apple Vision
@@ -10,9 +11,8 @@ image: 'https://images.unsplash.com/photo-1626379616459-b2ce1d9decbc?q=80&w=1080
 imageAlt: Person using a mixed reality headset with spatial browser windows
 data-ai-hint: immersive internet spatial computing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The immersive internet is the web rendered in space. Instead of flat pages, you get 3D scenes you can look around, walk through, and interact with using hands, controllers, or gaze and pinch.
 
 In 2026 it is no longer a demo. The core APIs have reached candidate recommendation, browsers ship them by default, and two headset families with very different trade-offs let you reach users without an app store install.
@@ -109,17 +109,17 @@ Khronos notes in October 2024 posts that workflows around external references an
 No single headset shows the full standard. Design for progressive enhancement where Quest gets the richest AR, Vision Pro gets the sharpest spatial UI, and desktop gets raw performance.
 
 | Device / Browser | Session types | Input | AR spatial modules | Display and silicon | WebXR notes |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
---- |
+--- | 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Meta Quest 3 and Quest 3S, Meta Quest Browser on Horizon OS | immersive-vr, immersive-ar with full color passthrough, inline | 6DoF controllers, hand tracking 25 joints per hand, simultaneous controller plus hand on Quest 3 | Hit test, plane detection with semantic labels, anchors including persistent, depth CPU and GPU, mesh detection | Quest 3: Snapdragon XR2 Gen 2, Adreno 740, 2064 x 2208 per eye, 90 Hz default 120 Hz optional. Quest 3S: XR2 Gen 2 with lower resolution display. | Most complete WebXR implementation. Lower texture and framebuffer limits than desktop Chrome. Releases tracked at developers.meta.com horizon documentation. |
@@ -154,27 +154,19 @@ A practical framing from Toggle Tech Lab in January 2026 holds up: WebXR is alre
 
 This is a minimal path that works on Quest 3, Vision Pro, and desktop with one codebase and graceful fallbacks.
 
-1.
+1. **Pick a renderer and starter.
 
-### Pick a renderer and starter
+**Use Three.js r160 or later, Babylon.js 7 or later, or A-Frame for markup. All have WebXR session helpers. For e-commerce, `<model-viewer>` handles inline and AR quick look and can trigger WebXR where available.
 
-Use Three.js r160 or later, Babylon.js 7 or later, or A-Frame for markup. All have WebXR session helpers. For e-commerce, `<model-viewer>` handles inline and AR quick look and can trigger WebXR where available.
+2. **Author a small glTF asset.
 
-2.
+**Build in Blender 4.x and export with the glTF exporter. Keep one PBR material, one directional light, Draco compression, and textures at 1024 or 2048. Add a USD source next to it if you need composition later. Validate at https://github.khronos.org/glTF-Validator/.
 
-### Author a small glTF asset
+3. **Add session detection and UX.
 
-Build in Blender 4.x and export with the glTF exporter. Keep one PBR material, one directional light, Draco compression, and textures at 1024 or 2048. Add a USD source next to it if you need composition later. Validate at https://github.khronos.org/glTF-Validator/.
+**Render a 2D page by default. After load, run:
 
-3.
-
-### Add session detection and UX
-
-Render a 2D page by default. After load, run:
-
-
-
-```js
+   ```js
    const xr = navigator.xr;
    if (xr) {
      const hasVR = await xr.isSessionSupported('immersive-vr');
@@ -182,17 +174,13 @@ Render a 2D page by default. After load, run:
      document.querySelector('#enterVR').hidden = !hasVR;
      document.querySelector('#placeAR').hidden = !hasAR;
    }
-
-
-```
+   ```
 
    Require a click to call `navigator.xr.requestSession('immersive-vr')` or `'immersive-ar'`. Never auto-enter.
 
-4.
+4. **Create a fallback cascade.
 
-### Create a fallback cascade
-
-Inline > immersive-vr > immersive-ar. If no XR is supported, keep the canvas interactive with orbit controls and add an AR Quick Look link for iOS: `model-viewer` does this automatically when you provide a USDZ.
+**Inline > immersive-vr > immersive-ar. If no XR is supported, keep the canvas interactive with orbit controls and add an AR Quick Look link for iOS: `model-viewer` does this automatically when you provide a USDZ.
 
 5. **Optimize for 90 Hz.**
    Budget per frame at 90 Hz is about 11 ms total, with about 5 ms per eye after compositor overhead. Practical limits that help on Quest:
@@ -202,27 +190,21 @@ Inline > immersive-vr > immersive-ar. If no XR is supported, keep the canvas int
    * Turn off controller selection and near-field picking for meshes that are never interactive. Babylon.js notes these features traverse pickable meshes and cost CPU.
    * Profile with Spector.js and Quest Browser remote debugging. Record a trace and watch JS garbage collection spikes.
 
-6.
+6. **Handle Vision Pro input.
 
-### Handle Vision Pro input
+**Design for gaze and pinch, not trigger and grip. Make targets at least 1.5 degrees, add hover affordances, and do not require two-handed grabs. Eye tracking selection is dwell plus pinch, so avoid tiny controls. Apple added the transient-pointer mode to the W3C spec for this device, and Safari exposes that mode by default since visionOS 2.
 
-Design for gaze and pinch, not trigger and grip. Make targets at least 1.5 degrees, add hover affordances, and do not require two-handed grabs. Eye tracking selection is dwell plus pinch, so avoid tiny controls. Apple added the transient-pointer mode to the W3C spec for this device, and Safari exposes that mode by default since visionOS 2.
+7. **Add spatial features progressively.
 
-7.
+**Start with hit test for placement. Add anchors only if `session.enabledFeatures` includes `anchors`. Add depth sensing with `depth-sensing` usage `cpu` first, then try `gpu`. Test each step on Quest 3 where coverage is best and degrade gracefully.
 
-### Add spatial features progressively
+8. **Ship as a link and optionally as a PWA.
 
-Start with hit test for placement. Add anchors only if `session.enabledFeatures` includes `anchors`. Add depth sensing with `depth-sensing` usage `cpu` first, then try `gpu`. Test each step on Quest 3 where coverage is best and degrade gracefully.
+**Host on HTTPS. Add a manifest and a lightweight service worker for offline inline viewing. For distribution on Quest, Meta documents WebXR PWAs that call `requestSession` right after load so the app launches directly into immersive mode from the Horizon Store. Use that only for headsets where immersive is the point. Keep a 2D landing page for phones and desktops.
 
-8. Ship as a link and optionally as a PWA.
+9. **Measure what matters.
 
-Host on HTTPS. Add a manifest and a lightweight service worker for offline inline viewing. For distribution on Quest, Meta documents WebXR PWAs that call `requestSession` right after load so the app launches directly into immersive mode from the Horizon Store. Use that only for headsets where immersive is the point. Keep a 2D landing page for phones and desktops.
-
-9.
-
-### Measure what matters
-
-Track entry rate by device, session start success, average session length, placement success for AR, and shader compile time. Shopify teams report using visit duration and wishlist actions for showroom variants.
+**Track entry rate by device, session start success, average session length, placement success for AR, and shader compile time. Shopify teams report using visit duration and wishlist actions for showroom variants.
 
 10. **Test on real hardware, not just simulators.**
     The WebXR emulator extension helps, but check on at least one Quest 3 and one Vision Pro before launch. The vrc.org.au March 2026 test notes show that performance and module support still vary enough to affect production decisions.
@@ -249,11 +231,9 @@ Hiring in this area clusters into four roles you will see on Hashtag Web3 and si
 * **WebXR developer.** JavaScript and TypeScript, Three.js or Babylon.js, WebGL and WebGPU feature detection, session management, performance profiling. Often paired with shader basics and Draco and KTX tooling.
 * **Technical artist and 3D pipeline engineer.** Blender, glTF export, USD composition, PBR authoring, baking, and optimization for real-time. Employers ask for a portfolio link with at least one live WebXR URL.
 * **Spatial interaction designer.** Hand tracking, gaze and pinch, spatial anchors, and comfort guidelines. The job is to make large UI targets and confirm actions without controllers.
-*
+* **Interoperability and standards engineer.
 
-### Interoperability and standards engineer
-
-Rare and paid well. Works on glTF extensions, OpenXR runtime integration, or browser implementation parity across Chromium and WebKit.
+**Rare and paid well. Works on glTF extensions, OpenXR runtime integration, or browser implementation parity across Chromium and WebKit.
 
 When you apply, show a link that works on Quest and on desktop inline. Recruiters can check it in seconds. That matters more than a native APK they must install.
 

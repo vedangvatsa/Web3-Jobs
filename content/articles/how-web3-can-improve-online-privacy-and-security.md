@@ -1,5 +1,6 @@
 ---
 title: How Web3 Can Improve Online Privacy and Security
+ogTitle: "HOW WEB3 CAN IMPROVE ONLINE PRIVACY AND SECURITY"
 image: /images/alesia-kazantceva-XLm6-fPwK5Q-unsplash.jpg
 data-ai-hint: online privacy security
 description: >-
@@ -8,16 +9,15 @@ description: >-
   internet.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The Web2 internet suffers from significant privacy issues. Major tech companies control vast amounts of personal data, acting as centralized custodians. Users often trade their privacy for convenience, handing over sensitive information in exchange for free services. This dynamic has resulted in a digital environment characterized by mass surveillance, frequent data breaches, and diminished user control.
 
 Web3 offers a solution to these challenges. By using [blockchain technology](/how-blockchain-technology-powers-web3) and new cryptographic methods, Web3 aims to redesign the internet to prioritize user ownership, privacy, and security. This article examines how Web3 is building a more secure and private digital sector.
 
 ### The Problem: Web2's Centralized Data Model
 
-Web2 operates on a centralized data model, where users' identities and information are dispersed across various platforms, commonly referred to as "walled gardens."
+Web2 operates on a centralized data model, where users' identities and information are dispersed across various platforms, commonly referred to as "walled gardens." 
 
 - **Data Silos:** User data remains confined within the servers of companies like Facebook and Google. Users lack ownership and the ability to transfer their data.
 - **Single Points of Failure:** Centralized databases create vulnerabilities. A single data breach can compromise the information of millions of users.

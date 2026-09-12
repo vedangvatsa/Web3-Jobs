@@ -1,12 +1,13 @@
 ---
 title: How to Get a Web3 Job with No Experience
+ogTitle: "GET A WEB3 JOB WITH NO EXPERIENCE GUIDE"
 image: /images/articles/charts/jobs-salary-bands.svg
 data-ai-hint: web3 salary bands chart
 description: >-
   The Web3 job market had 66,494 new roles in 2025. How hiring works, what to build in 90 days, and what juniors earn.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Junior hires at Web3 teams rarely arrive with a prior crypto title. The ones who get offers arrive with public proof that they can do the work.
 

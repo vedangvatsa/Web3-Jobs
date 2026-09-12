@@ -1,5 +1,6 @@
 ---
 title: 'Emerging Web3 Trends Modular Blockchains and Decentralized AI'
+ogTitle: "EMERGING WEB3 TRENDS MODULAR BLOCKCHAINS AND DECENTRALIZED AI"
 image: /images/andrea-de-santis-zwd435-ewb4-unsplash.jpg
 description: >-
   From modular blockchains to the rise of decentralized AI, we explore the five
@@ -8,7 +9,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: futuristic city
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Introduction: The Next Evolution of the Internet
 

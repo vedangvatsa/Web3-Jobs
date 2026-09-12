@@ -1,14 +1,14 @@
 ---
 title: 'Passive Liquidity Provision'
+ogTitle: "PASSIVE LIQUIDITY PROVISION"
 description: >-
   Explore the world of passive liquidity provision in DeFi, its benefits, the
   inherent risks like impermanent loss, and the platforms that make it easier.
 category: Educational
 data-ai-hint: passive liquidity
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## Passive Liquidity Provision in DeFi
 
 Passive liquidity provision serves as a "set-and-forget" strategy within Decentralized Finance ([DeFi](/what-is-defi)). Users deposit their assets into Automated Market Maker (AMM) liquidity pools to earn trading fees without actively managing their positions. This method became popular with the advent of protocols like Uniswap v2, allowing users to efficiently use idle assets.
@@ -25,15 +25,15 @@ This guide outlines passive liquidity provision, including its advantages, inher
 -----------------------------|
 
 ------------------------------------------------------------------------------------------------------|
-|
+| 
 
 **Core Concept**| Users deposit assets into a liquidity pool and earn fees with minimal active management. |
 |
 
 **The Original Model** | Uniswap v2 operates on a simple `x * y = k` principle, allowing LPs to earn fees from trades. |
-|
+| 
 
-**Primary Risk**| The main risk is**impermanent loss**, occurring when the assets' prices diverge significantly. |
+**Primary Risk **| The main risk is** impermanent loss**, occurring when the assets' prices diverge significantly. |
 |
 
 **Challenges of Modern AMMs**| Protocols like Uniswap v3 require active management to maintain positions within a specific price range. |
@@ -50,7 +50,7 @@ To grasp passive liquidity provision, consider the traditional constant product 
 **Deposit**: Users deposit equal values of two tokens, such as 50% [ETH](/what-is-ethereum) and 50% DAI, into a liquidity pool.
 2.
 
-**Receive LP Tokens**: Users receive**[LP tokens](/what-is-a-liquidity-provider-token)** that represent their ownership share of the pool.
+**Receive LP Tokens **: Users receive**[LP tokens](/what-is-a-liquidity-provider-token)** that represent their ownership share of the pool.
 3.
 
 **Earn Fees**: Holding LP tokens allows users to passively earn a share of the trading fee from each trade executed in the pool.
@@ -88,7 +88,7 @@ To address the challenges of concentrated liquidity, a new category of DeFi prot
 
 **Automated Liquidity Managers** has emerged. These platforms enable users to maintain a passive experience while interacting with active platforms like Uniswap v3.
 
-**Popular Examples**:
+**Popular Examples**: 
 - Arrakis Finance
 - Gamma Strategies
 - TokenLogic

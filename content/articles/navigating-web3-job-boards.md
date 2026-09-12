@@ -1,5 +1,6 @@
 ---
 title: a full guide to Working through Web3 Job Boards
+ogTitle: "A FULL GUIDE TO WORKING THROUGH WEB3 JOB BOARDS"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-
   A deep dive into the top Web3 job boards, including strategies for how to
@@ -8,7 +9,7 @@ description: >-
 category: Career Guides
 data-ai-hint: man working laptop
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Introduction: A New Frontier for Careers
 

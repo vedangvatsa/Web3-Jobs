@@ -1,5 +1,6 @@
 ---
 title: The Top 5 Programming Languages for Web3 Development
+ogTitle: "THE TOP 5 PROGRAMMING LANGUAGES FOR WEB3 DEVELOPMENT"
 image: >-
   https://images.unsplash.com/photo-1619410283995-43d9134e7656?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxwcm9ncmFtbWluZ3xlbnwwfHx8fDE3NTQ5NTQzMzB8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -8,7 +9,7 @@ description: >-
   Go-and explain their use cases, pros, and cons.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The field of [Web3](/what-is-web3) development thrives on constant innovation. Central to this evolution is the programming code that drives decentralized applications and blockchains. Aspiring developers should prioritize understanding which [programming language](/best-programming-languages-for-blockchain-development) aligns best with their goals.
 

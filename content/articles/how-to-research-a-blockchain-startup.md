@@ -1,5 +1,6 @@
 ---
 title: How to Research a Blockchain Startup Before You Join
+ogTitle: "RESEARCH A BLOCKCHAIN STARTUP BEFORE YOU JOIN GUIDE"
 image: /images/ilya-pavlov-OqtafYT5kTw-unsplash.jpg
 data-ai-hint: research analysis magnifying glass
 description: >-
@@ -8,9 +9,8 @@ description: >-
   accepting.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The [Web3](/what-is-web3) job market offers many opportunities, yet it also presents significant risks and volatility. A project that appears promising can collapse within months. Conducting thorough research before accepting a position at a [blockchain](/what-is-a-blockchain) startup is essential. This research involves more than reading their website or a few news articles; it requires a detailed due diligence process akin to what venture capitalists undertake when considering investments. You must become knowledgeable about the project, including its strengths and weaknesses. This guide outlines a structured approach for evaluating a blockchain startup before you make a commitment.
 
 ### 1. The Team: The Key Indicator of Success
@@ -35,7 +35,7 @@ Understanding the problem the startup aims to solve is important.
 The economic model of the project significantly impacts its long-term viability.
 
 - **Token Utility:** Analyze the purpose of the token. Does it serve a clear function, such as governance, [staking](/how-to-become-a-web3-staking-specialist), or fee payments? A token lacking real utility raises red flags.
-- **Token Distribution:** Scrutinize who holds the tokens and how they are allocated.
+- **Token Distribution:** Scrutinize who holds the tokens and how they are allocated. 
  - **Red Flags:** A high percentage of tokens allocated to the team and private investors with short vesting periods increases the risk of token dumping on the community.
  - **Green Flags:** A substantial portion of tokens reserved for the community treasury distributed over several years indicates a commitment to long-term sustainability.
 - **Value Accrual:** Evaluate how value returns to token holders. Is the protocol generating revenue through mechanisms like trading fees? Is this revenue used to buy back tokens or distributed to stakers?

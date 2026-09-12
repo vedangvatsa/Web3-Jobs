@@ -17,6 +17,7 @@ Every news article must include:
 ```yaml
 ---
 title: Clear factual headline
+ogTitle: "CLEAR FACTUAL HEADLINE"
 description: One-sentence factual summary of the news and its immediate context.
 image: https://official-source.example/image.png
 category: News

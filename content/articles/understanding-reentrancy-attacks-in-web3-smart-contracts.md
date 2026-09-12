@@ -1,12 +1,13 @@
 ---
 title: 'Understanding Reentrancy Attacks in Smart Contracts'
+ogTitle: "UNDERSTANDING REENTRANCY ATTACKS IN SMART CONTRACTS"
 description: >-
   Reentrancy is one of the most notorious and destructive vulnerabilities in
   smart contract security. This article breaks down how it works, its.
 category: Technology Deep Dives
 data-ai-hint: blockchain security
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Understanding Reentrancy Attacks in Web3 Smart Contracts
 

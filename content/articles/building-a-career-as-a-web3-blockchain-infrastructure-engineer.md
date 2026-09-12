@@ -1,25 +1,18 @@
 ---
-title: >-
-  Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and
-  Systems Architecture
-description: >-
-  A technical roadmap and systems architecture guide for blockchain
-  infrastructure engineers, covering RPC node orchestration, validator sentry
-  architecture, NVMe storage optimization, indexer pipelines, and career
-  progression.
-date: 2026-03-28T00:00:00.000Z
+title: Building a Career as a Web3 Blockchain Infrastructure Engineer Roadmap and Systems Architecture
+ogTitle: "BUILDING A CAREER AS A WEB3 BLOCKCHAIN INFRASTRUCTURE ENGINEER"
+description: A technical roadmap and systems architecture guide for blockchain infrastructure engineers, covering RPC node orchestration, validator sentry architecture, NVMe storage optimization, indexer pipelines, and career progression.
+date: 2026-03-28
 author: Alex Rivera
-tags: 'Infrastructure, DevOps, Blockchain Nodes, Kubernetes, RPC Systems'
+tags: Infrastructure, DevOps, Blockchain Nodes, Kubernetes, RPC Systems
 slug: building-a-career-as-a-web3-blockchain-infrastructure-engineer
-publishedDate: '2026-09-07'
-lastUpdated: "2026-09-12"
-image: >-
-  https://images.unsplash.com/photo-1639322537228-f710d846310a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVpbGRpbmclMjBDYXJlZXIlMjBhcyUyMFdlYjMlMjBCbG9ja2NoYWluJTIwSW5mcmFzdHJ1Y3R1cmUlMjBFbmdpbmVlciUyMFJvYWRtYXAlMjBTeXN0ZW1zJTIwQXJjaGl0ZWN0dXJlJTIwR2VuZXJhbHxlbnwxfDB8fHwxNzg5MTM3NTYyfDA&ixlib=rb-4.1.0&q=80&w=1080
+publishedDate: "2026-09-07"
+lastUpdated: "2026-09-10"
 ---
 
 Blockchain Infrastructure Engineering is one of the most critical and high-demand disciplines in the Web3 ecosystem. While smart contract developers write decentralized application logic, infrastructure engineers build and maintain the low-level systems that keep decentralized networks online: high-availability RPC node clusters, validator sentry nodes, block indexers, MEV relays, and distributed storage networks.
 
-Operating blockchain infrastructure requires a hybrid skill set combining cloud-native DevOps, low-level Linux kernel tuning, high-performance NVMe storage management, peer-to-peer (P2P) networking, and cryptographic key security. This detailed technical guide presents a complete roadmap for building a career as a Web3 Blockchain Infrastructure Engineer, detailing architecture patterns, operational playbooks, and career progression.
+Operating blockchain infrastructure requires a hybrid skill set combining cloud-native DevOps, low-level Linux kernel tuning, high-performance NVMe storage management, peer-to-peer (P2P) networking, and cryptographic key security. This comprehensive technical guide presents a complete roadmap for building a career as a Web3 Blockchain Infrastructure Engineer, detailing architecture patterns, operational playbooks, and career progression.
 
 ![Enterprise Blockchain Infrastructure Engineering Architecture](/images/articles/charts/blockchain-infrastructure-engineer-architecture.svg)
 
@@ -300,7 +293,7 @@ Securing signing keys for validators, cross-chain bridges, and automated protoco
 
 ## 11. Multi-Region Disaster Recovery and Chaos Engineering
 
-Operating enterprise-grade blockchain infrastructure requires reliable disaster recovery (DR) protocols and proactive fault injection testing.
+Operating enterprise-grade blockchain infrastructure requires robust disaster recovery (DR) protocols and proactive fault injection testing.
 
 ### 1. Multi-Region Failover Architecture
 - **Active-Active RPC Deployments**: Distribute RPC node clusters across US-East, Europe-Central, and Asia-Pacific regions to minimize round-trip latency for global users.
@@ -321,7 +314,7 @@ Deploying blockchain nodes in cloud environments (AWS, GCP) vs bare-metal hardwa
 
 ```
                           MONTHLY INFRASTRUCTURE COST
-
+                          
  Venue                    Storage (3TB NVMe)    Compute (64GB RAM)   Bandwidth (10TB)
 ──────────────────────────────────────────────────────────────────────────────────────────
  AWS (EBS gp3 / EC2)      ~$360 / mo            ~$240 / mo           ~$900 / mo
@@ -371,7 +364,7 @@ Building a career in blockchain infrastructure requires mastering cloud technolo
 
 ```
                           CAREER PROGRESSION ROADMAP
-
+                          
  [Junior DevOps Engineer]
            │
            ▼

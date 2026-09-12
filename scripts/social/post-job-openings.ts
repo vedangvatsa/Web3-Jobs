@@ -67,6 +67,7 @@ interface Job {
 interface SocialState {
   lastIndex: number;
   postedSlugs: string[];
+  pendingSlugs: string[];
   history: SocialHistoryEntry[];
 }
 
@@ -80,6 +81,7 @@ interface SocialHistoryEntry {
   permalink?: string;
   account?: string;
   verification?: 'pending' | 'verified';
+  expectedText?: string;
 }
 
 const SOCIAL_PLATFORMS = ['x', 'threads', 'bluesky', 'farcaster', 'linkedin', 'facebook', 'reddit', 'instagram'] as const;
@@ -115,22 +117,124 @@ function loadJobs(): Job[] {
 function loadState(): SocialState {
   if (fs.existsSync(STATE_FILE)) {
     try {
-      return JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8'));
-    } catch {
-      // Fallback if file corrupted
+      const state = JSON.parse(fs.readFileSync(STATE_FILE, 'utf-8')) as Partial<SocialState>;
+      if (!Number.isInteger(state.lastIndex) || !Array.isArray(state.postedSlugs) || !Array.isArray(state.history)) {
+        throw new Error('state is missing lastIndex, postedSlugs, or history');
+      }
+      return {
+        lastIndex: state.lastIndex,
+        postedSlugs: state.postedSlugs,
+        pendingSlugs: Array.isArray(state.pendingSlugs) ? state.pendingSlugs : [],
+        history: state.history,
+      };
+    } catch (error) {
+      throw new Error(`Unable to load social posting state: ${(error as Error).message}`);
     }
   }
   return {
     lastIndex: 0,
     postedSlugs: [],
+    pendingSlugs: [],
     history: [],
   };
 }
 
 function saveState(state: SocialState) {
-  state.postedSlugs = state.postedSlugs.slice(-1000);
-  state.history = state.history.slice(-1000);
-  fs.writeFileSync(STATE_FILE, JSON.stringify(state, null, 2));
+  state.postedSlugs = [...new Set(state.postedSlugs)].slice(-1000);
+  state.pendingSlugs = [...new Set(state.pendingSlugs)];
+
+  if (state.history.length > 1000) {
+    const pendingSlugs = new Set(state.pendingSlugs);
+    const pendingEntries = state.history.filter((entry) => pendingSlugs.has(entry.slug));
+    const completedEntries = state.history.filter((entry) => !pendingSlugs.has(entry.slug));
+    const completedSlots = Math.max(0, 1000 - pendingEntries.length);
+    const retainedCompletedEntries = new Set(
+      completedSlots === 0 ? [] : completedEntries.slice(-completedSlots)
+    );
+    state.history = state.history.filter(
+      (entry) => pendingSlugs.has(entry.slug) || retainedCompletedEntries.has(entry)
+    );
+  }
+
+  const tempStateFile = `${STATE_FILE}.${process.pid}.tmp`;
+  fs.writeFileSync(tempStateFile, JSON.stringify(state, null, 2));
+  fs.renameSync(tempStateFile, STATE_FILE);
+}
+
+const LEGACY_INVALID_POST_IDS = new Set(['unknown', 'published']);
+
+function isSocialPlatform(platform: string): platform is SocialPlatform {
+  return (SOCIAL_PLATFORMS as readonly string[]).includes(platform);
+}
+
+function hasVerifiedPostReceipt(entry: SocialHistoryEntry): boolean {
+  if (entry.verification === 'pending') return false;
+  if (entry.verification === 'verified') return true;
+
+  // Legacy state predates explicit verification. Retain real receipts while
+  // rejecting the placeholder values previously used after malformed replies.
+  return Boolean(entry.postId?.trim()) && !LEGACY_INVALID_POST_IDS.has(entry.postId!);
+}
+
+function verifiedPlatformsForSlug(state: SocialState, slug: string): Set<SocialPlatform> {
+  const platforms = new Set<SocialPlatform>();
+  for (const entry of state.history) {
+    if (
+      entry.slug === slug &&
+      isSocialPlatform(entry.platform) &&
+      hasVerifiedPostReceipt(entry) &&
+      !(entry.platform === 'threads' && state.pendingSlugs.includes(slug) && entry.verification !== 'verified')
+    ) {
+      platforms.add(entry.platform);
+    }
+  }
+  return platforms;
+}
+
+function isSlugComplete(state: SocialState, slug: string): boolean {
+  const verifiedPlatforms = verifiedPlatformsForSlug(state, slug);
+  return SOCIAL_PLATFORMS.every((platform) => verifiedPlatforms.has(platform));
+}
+
+function markSlugPending(state: SocialState, slug: string): boolean {
+  let changed = false;
+  if (!state.pendingSlugs.includes(slug)) {
+    state.pendingSlugs.push(slug);
+    changed = true;
+  }
+  if (state.postedSlugs.includes(slug)) {
+    state.postedSlugs = state.postedSlugs.filter((value) => value !== slug);
+    changed = true;
+  }
+  return changed;
+}
+
+function markSlugComplete(state: SocialState, slug: string): boolean {
+  let changed = false;
+  if (state.pendingSlugs.includes(slug)) {
+    state.pendingSlugs = state.pendingSlugs.filter((value) => value !== slug);
+    changed = true;
+  }
+  if (!state.postedSlugs.includes(slug)) {
+    state.postedSlugs.push(slug);
+    changed = true;
+  }
+  return changed;
+}
+
+function reconcileCompletedPendingSlugs(state: SocialState): boolean {
+  let changed = false;
+  for (const slug of [...state.pendingSlugs]) {
+    if (isSlugComplete(state, slug) && markSlugComplete(state, slug)) {
+      changed = true;
+    }
+  }
+  return changed;
+}
+
+function recordVerifiedPost(state: SocialState, entry: SocialHistoryEntry): void {
+  state.history.push({ ...entry, verification: 'verified' });
+  saveState(state);
 }
 
 // ── OAuth 1.0a Helpers for X / Twitter ──
@@ -205,8 +309,12 @@ async function postToX(text: string): Promise<string> {
     throw new Error(`X API error ${res.status}: ${responseText}`);
   }
 
-  const data = JSON.parse(responseText);
-  return data.data?.id || 'unknown';
+  const data = JSON.parse(responseText) as { data?: { id?: unknown } };
+  const tweetId = data.data?.id;
+  if (typeof tweetId !== 'string' || !/^\d+$/.test(tweetId)) {
+    throw new Error(`X API response did not include a valid tweet ID: ${responseText}`);
+  }
+  return tweetId;
 }
 
 function getThreadsCredentials() {
@@ -229,6 +337,14 @@ interface ThreadsPost {
   id: string;
   permalink: string;
   username: string;
+  text: string;
+}
+
+interface ThreadsPostExpectation {
+  slug: string;
+  company: string;
+  title: string;
+  expectedText?: string;
 }
 
 async function getThreadsAccount(accessToken: string): Promise<ThreadsAccount> {
@@ -242,7 +358,20 @@ async function getThreadsAccount(accessToken: string): Promise<ThreadsAccount> {
   return { id: data.id, username: data.username };
 }
 
-async function verifyThreadsPost(mediaId: string, expectedText: string): Promise<ThreadsPost> {
+function hasExpectedThreadsPostText(text: string, expected: ThreadsPostExpectation): boolean {
+  if (expected.expectedText && text === expected.expectedText) return true;
+
+  const prefix = `${expected.company} is hiring ${expected.title}: `;
+  if (!text.startsWith(prefix)) return false;
+  try {
+    const url = new URL(text.slice(prefix.length).trim());
+    return url.origin === new URL(SITE_URL).origin && url.pathname === `/${expected.slug}/th`;
+  } catch {
+    return false;
+  }
+}
+
+async function verifyThreadsPost(mediaId: string, expected: ThreadsPostExpectation): Promise<ThreadsPost> {
   const { accessToken, threadsUserId } = getThreadsCredentials();
   const account = await getThreadsAccount(accessToken);
   if (account.id !== threadsUserId) {
@@ -255,8 +384,15 @@ async function verifyThreadsPost(mediaId: string, expectedText: string): Promise
       `https://graph.threads.net/v1.0/${mediaId}?fields=id,permalink,username,text&access_token=${encodeURIComponent(accessToken)}`
     );
     const data = (await response.json()) as { id?: string; permalink?: string; username?: string; text?: string; error?: unknown };
-    if (response.ok && data.id === mediaId && data.permalink && data.username === account.username && data.text === expectedText) {
-      return { id: data.id, permalink: data.permalink, username: data.username };
+    if (
+      response.ok &&
+      data.id === mediaId &&
+      data.permalink &&
+      data.username === account.username &&
+      data.text &&
+      hasExpectedThreadsPostText(data.text, expected)
+    ) {
+      return { id: data.id, permalink: data.permalink, username: data.username, text: data.text };
     }
     lastError = JSON.stringify(data.error || data);
     if (attempt < 6) await new Promise((resolve) => setTimeout(resolve, 2000));
@@ -266,20 +402,34 @@ async function verifyThreadsPost(mediaId: string, expectedText: string): Promise
 }
 
 async function reconcilePendingThreadsPosts(state: SocialState): Promise<void> {
-  const pending = state.history.filter((entry) => entry.platform === 'threads' && entry.verification === 'pending' && entry.postId);
+  const pendingSlugs = new Set(state.pendingSlugs);
+  const pending = state.history.filter((entry) => (
+    entry.platform === 'threads' &&
+    entry.postId &&
+    (entry.verification === 'pending' || (pendingSlugs.has(entry.slug) && !entry.verification))
+  ));
   if (pending.length === 0) return;
 
   let changed = false;
   for (const entry of pending) {
     try {
-      const expectedText = `${entry.company} is hiring ${entry.title}: ${buildSocialShareUrl(entry.slug, 'th')}`;
-      const verified = await verifyThreadsPost(entry.postId!, expectedText);
+      const verified = await verifyThreadsPost(entry.postId!, {
+        slug: entry.slug,
+        company: entry.company,
+        title: entry.title,
+        expectedText: entry.expectedText,
+      });
       entry.permalink = verified.permalink;
       entry.account = verified.username;
+      entry.expectedText = verified.text;
       entry.verification = 'verified';
       changed = true;
       console.log(`Recovered pending Threads post: ${verified.permalink}`);
     } catch (error) {
+      if (entry.verification !== 'pending') {
+        entry.verification = 'pending';
+        changed = true;
+      }
       console.warn(`Threads post ${entry.postId} remains pending: ${(error as Error).message}`);
     }
   }
@@ -314,7 +464,9 @@ async function postToThreads(text: string, linkAttachment?: string): Promise<str
     throw new Error(`Threads container creation failed: ${createRes.status} ${err}`);
   }
 
-  const { id: containerId } = await createRes.json();
+  const containerData = (await createRes.json()) as { id?: string };
+  const containerId = containerData.id;
+  if (!containerId) throw new Error('Threads container creation response did not include an ID');
 
   // Wait 3 seconds for Meta container processing
   await new Promise((resolve) => setTimeout(resolve, 3000));
@@ -445,7 +597,10 @@ async function postToBluesky(
     throw new Error(`Bluesky post failed: ${await postRes.text()}`);
   }
 
-  const postData = (await postRes.json()) as any;
+  const postData = (await postRes.json()) as { uri?: unknown };
+  if (typeof postData.uri !== 'string' || !postData.uri.startsWith('at://')) {
+    throw new Error(`Bluesky post response did not include a valid URI: ${JSON.stringify(postData)}`);
+  }
   return postData.uri;
 }
 
@@ -492,8 +647,12 @@ async function postToFarcaster(
     throw new Error(`Farcaster cast failed: ${res.status} ${err}`);
   }
 
-  const data = (await res.json()) as any;
-  return data.cast?.hash || 'published';
+  const data = (await res.json()) as { cast?: { hash?: unknown } };
+  const castHash = data.cast?.hash;
+  if (typeof castHash !== 'string' || !/^0x[0-9a-f]+$/i.test(castHash)) {
+    throw new Error(`Farcaster response did not include a valid cast hash: ${JSON.stringify(data)}`);
+  }
+  return castHash;
 }
 
 // ── LinkedIn / Buffer ──
@@ -737,12 +896,16 @@ async function postToFacebook(text: string, linkUrl?: string): Promise<string> {
     body: params,
   });
 
-  const data = await res.json();
+  const data = (await res.json()) as { id?: unknown; post_id?: unknown; error?: unknown };
   if (!res.ok || data.error) {
     throw new Error(`Facebook API error: ${JSON.stringify(data.error || data)}`);
   }
 
-  return data.id || data.post_id || 'published';
+  const postId = data.id || data.post_id;
+  if (typeof postId !== 'string' || postId.trim().length === 0) {
+    throw new Error(`Facebook API response did not include a post ID: ${JSON.stringify(data)}`);
+  }
+  return postId;
 }
 
 // ── Reddit (r/hashtagweb3 API) ──
@@ -800,7 +963,7 @@ async function postToReddit(
       kind: 'self',
       title,
       text: bodyMarkdown,
-      resubmit: 'true',
+      resubmit: 'false',
     }),
   });
 
@@ -810,14 +973,18 @@ async function postToReddit(
   }
 
   const submitData = (await submitRes.json()) as {
-    json?: { errors?: any[]; data?: { url?: string; id?: string } };
+    json?: { errors?: unknown[]; data?: { url?: unknown; id?: unknown; name?: unknown } };
   };
 
   if (submitData.json?.errors && submitData.json.errors.length > 0) {
     throw new Error(`Reddit API error: ${JSON.stringify(submitData.json.errors)}`);
   }
 
-  return submitData.json?.data?.url || submitData.json?.data?.id || 'published';
+  const postId = submitData.json?.data?.url || submitData.json?.data?.id || submitData.json?.data?.name;
+  if (typeof postId !== 'string' || postId.trim().length === 0) {
+    throw new Error(`Reddit submit response did not include a post receipt: ${JSON.stringify(submitData)}`);
+  }
+  return postId;
 }
 
 // ── Instagram Media / Carousel (Meta Graph API v21.0) ──
@@ -1045,9 +1212,16 @@ async function main() {
   const isDryRun = args.includes('--dry-run');
   const force = args.includes('--force');
   const platformIdx = args.indexOf('--platform');
-  const platform = platformIdx !== -1 ? args[platformIdx + 1]?.toLowerCase() : 'all';
+  const platform = platformIdx !== -1 ? args[platformIdx + 1]?.toLowerCase() || 'all' : 'all';
   const slugIdx = args.indexOf('--slug');
   const targetSlug = slugIdx !== -1 ? args[slugIdx + 1] : null;
+
+  if (platform !== 'all' && platform !== 'both' && !isSocialPlatform(platform)) {
+    throw new Error(`Unsupported social platform: ${platform}`);
+  }
+  const requestedPlatforms: readonly SocialPlatform[] = platform === 'all' || platform === 'both'
+    ? SOCIAL_PLATFORMS
+    : [platform];
 
   console.log(`\n========================================`);
   console.log(` Social Job Poster [${isDryRun ? 'DRY RUN' : 'LIVE'}]`);
@@ -1056,7 +1230,10 @@ async function main() {
 
   const jobs = loadJobs();
   const state = loadState();
-  if (!isDryRun) await reconcilePendingThreadsPosts(state);
+  if (!isDryRun) {
+    await reconcilePendingThreadsPosts(state);
+    if (reconcileCompletedPendingSlugs(state)) saveState(state);
+  }
 
   const postedSet = new Set(state.postedSlugs);
 
@@ -1070,7 +1247,17 @@ async function main() {
       process.exit(1);
     }
   } else {
-    const totalJobs = jobs.length;
+    const pendingJob = state.pendingSlugs
+      .map((slug) => jobs.find((job) => job.slug === slug))
+      .find((job): job is Job => Boolean(job) && requestedPlatforms.some(
+        (name) => !verifiedPlatformsForSlug(state, job.slug).has(name)
+      ));
+
+    if (pendingJob) {
+      selectedJob = pendingJob;
+      console.log(`Retrying incomplete social publish for ${selectedJob.company} / ${selectedJob.title}.`);
+    } else {
+      const totalJobs = jobs.length;
     // Extract last posted company from state history
     const lastPostedCompany = state.history && state.history.length > 0
       ? state.history[state.history.length - 1].company.toLowerCase()
@@ -1100,11 +1287,12 @@ async function main() {
       }
     }
 
-    if (!selectedJob) {
-      console.log('All jobs have been posted. Resetting cycle history...');
-      state.postedSlugs = [];
-      selectedJob = jobs[0];
-      state.lastIndex = 1;
+      if (!selectedJob) {
+        console.log('All jobs have been posted. Resetting cycle history...');
+        state.postedSlugs = [];
+        selectedJob = jobs[0];
+        state.lastIndex = 1;
+      }
     }
   }
 
@@ -1254,19 +1442,17 @@ async function main() {
   // Validate every link target that this run may publish before sending any
   // post. This prevents partial runs where one platform caches a good card and
   // another caches an older or generic card for the same job.
-   const alreadyPublished = new Set(
+   const alreadyPublished = verifiedPlatformsForSlug(state, slug);
+   const pendingPlatforms = new Set(
      state.history
-       .filter((entry) => entry.slug === slug && (entry.platform !== 'threads' || entry.verification !== 'pending'))
+       .filter((entry) => entry.slug === slug && entry.verification === 'pending')
        .map((entry) => entry.platform)
    );
-   const hasPendingThreadsPost = state.history.some(
-     (entry) => entry.slug === slug && entry.platform === 'threads' && entry.verification === 'pending'
-   );
-   const shouldPublishPlatform = (name: SocialPlatform) => {
-     if (!(platform === name || shouldPostAll)) return false;
-     if (name === 'threads' && hasPendingThreadsPost) return false;
-     return force || !alreadyPublished.has(name);
-   };
+    const shouldPublishPlatform = (name: SocialPlatform) => {
+      if (!(platform === name || shouldPostAll)) return false;
+      if (pendingPlatforms.has(name)) return false;
+      return force || !alreadyPublished.has(name);
+    };
    const previewTargets = PREVIEW_TARGETS.filter((target) =>
      shouldPublishPlatform(target.platform as SocialPlatform)
    );
@@ -1281,7 +1467,10 @@ async function main() {
     }
     verifiedPreviews.set(target.platform, preview);
   }
-  if (previewFailure) {
+   if (previewFailure) {
+    if (targetSlug) {
+      throw new Error(`Preview readiness failed for explicitly requested job ${slug}; no replacement post was created.`);
+    }
     rejectedPreviewSlugs.add(slug);
     const excludedSlugs = new Set([
       ...rejectedPreviewSlugs,
@@ -1297,16 +1486,23 @@ async function main() {
     continue;
   }
 
+   if (requestedPlatforms.some(shouldPublishPlatform) && markSlugPending(state, slug)) {
+     saveState(state);
+   }
+
   const now = new Date().toISOString();
 
   let postedSuccessCount = 0;
+  const attemptedPlatforms = new Set<SocialPlatform>();
+  const newlyVerifiedPlatforms = new Set<SocialPlatform>();
 
    if (shouldPublishPlatform('x')) {
+    attemptedPlatforms.add('x');
     try {
       console.log('Publishing to X...');
       const tweetId = await postToX(xPostText);
       console.log(`✓ Successfully published to X! Tweet ID: ${tweetId}`);
-      state.history.push({
+      recordVerifiedPost(state, {
         slug,
         company,
         title,
@@ -1314,6 +1510,7 @@ async function main() {
         postedAt: now,
         postId: tweetId,
       });
+      newlyVerifiedPlatforms.add('x');
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to X:`, (err as Error).message);
@@ -1321,6 +1518,7 @@ async function main() {
   }
 
    if (shouldPublishPlatform('threads')) {
+    attemptedPlatforms.add('threads');
     try {
       console.log('Publishing to Threads (with link attachment preview)...');
       const threadsId = await postToThreads(threadsPostText, threadsUrl);
@@ -1329,33 +1527,41 @@ async function main() {
          company,
          title,
          platform: 'threads',
-         postedAt: now,
-         postId: threadsId,
-         verification: 'pending',
+          postedAt: now,
+          postId: threadsId,
+          verification: 'pending',
+          expectedText: threadsPostText,
        };
        // Persist this receipt before verification so a transient Graph read
        // failure can be reconciled later without duplicating the Threads post.
        state.history.push(threadsEntry);
        saveState(state);
-       const verified = await verifyThreadsPost(threadsId, threadsPostText);
+        const verified = await verifyThreadsPost(threadsId, {
+          slug,
+          company,
+          title,
+          expectedText: threadsPostText,
+        });
        threadsEntry.permalink = verified.permalink;
        threadsEntry.account = verified.username;
-       threadsEntry.verification = 'verified';
-       saveState(state);
-       console.log(`✓ Successfully published to Threads! ${verified.permalink}`);
-       postedSuccessCount++;
+        threadsEntry.verification = 'verified';
+        saveState(state);
+        console.log(`✓ Successfully published to Threads! ${verified.permalink}`);
+        newlyVerifiedPlatforms.add('threads');
+        postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Threads:`, (err as Error).message);
     }
   }
 
    if (shouldPublishPlatform('bluesky')) {
+    attemptedPlatforms.add('bluesky');
     try {
       console.log('Publishing to Bluesky...');
-      const metaDesc = buildUniqueJobMetaDescription(selectedJob as any);
+      const metaDesc = buildUniqueJobMetaDescription(currentJob as any);
       const bskyUri = await postToBluesky(blueskyPostText, blueskyUrl, ogImageUrl, company, title, metaDesc);
       console.log(`✓ Successfully published to Bluesky! Post URI: ${bskyUri}`);
-      state.history.push({
+      recordVerifiedPost(state, {
         slug,
         company,
         title,
@@ -1363,6 +1569,7 @@ async function main() {
         postedAt: now,
         postId: bskyUri,
       });
+      newlyVerifiedPlatforms.add('bluesky');
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Bluesky:`, (err as Error).message);
@@ -1370,11 +1577,12 @@ async function main() {
   }
 
    if (shouldPublishPlatform('farcaster')) {
+    attemptedPlatforms.add('farcaster');
     try {
       console.log('Publishing to Farcaster / Warpcast...');
       const castHash = await postToFarcaster(farcasterPostText, farcasterUrl, 'jobs');
       console.log(`✓ Successfully published to Farcaster! Cast Hash: ${castHash}`);
-      state.history.push({
+      recordVerifiedPost(state, {
         slug,
         company,
         title,
@@ -1382,6 +1590,7 @@ async function main() {
         postedAt: now,
         postId: castHash,
       });
+      newlyVerifiedPlatforms.add('farcaster');
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Farcaster:`, (err as Error).message);
@@ -1389,6 +1598,7 @@ async function main() {
   }
 
    if (shouldPublishPlatform('linkedin')) {
+    attemptedPlatforms.add('linkedin');
     try {
       console.log('Publishing to LinkedIn (Hashtag Web3 Company Page via Buffer link preview)...');
       const preview = verifiedPreviews.get('linkedin') || null;
@@ -1402,7 +1612,7 @@ async function main() {
           thumbnail: preview.image,
         });
         console.log(`✓ Successfully published to LinkedIn! Buffer Post ID: ${bufferPostId}`);
-        state.history.push({
+        recordVerifiedPost(state, {
           slug,
           company,
           title,
@@ -1410,6 +1620,7 @@ async function main() {
           postedAt: now,
           postId: bufferPostId,
         });
+        newlyVerifiedPlatforms.add('linkedin');
         postedSuccessCount++;
       }
     } catch (err) {
@@ -1418,6 +1629,7 @@ async function main() {
   }
 
    if (shouldPublishPlatform('facebook')) {
+    attemptedPlatforms.add('facebook');
     try {
       console.log('Publishing to Facebook Page (Meta Graph API link feed)...');
        const preview = verifiedPreviews.get('facebook');
@@ -1425,7 +1637,7 @@ async function main() {
        await refreshFacebookPreview(facebookUrl, preview);
        const fbPostId = await postToFacebook(facebookPostText, facebookUrl);
       console.log(`✓ Successfully published to Facebook! Post ID: ${fbPostId}`);
-      state.history.push({
+      recordVerifiedPost(state, {
         slug,
         company,
         title,
@@ -1433,6 +1645,7 @@ async function main() {
         postedAt: now,
         postId: fbPostId,
       });
+      newlyVerifiedPlatforms.add('facebook');
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Facebook:`, (err as Error).message);
@@ -1440,11 +1653,12 @@ async function main() {
   }
 
    if (shouldPublishPlatform('reddit')) {
+    attemptedPlatforms.add('reddit');
     try {
       console.log('Publishing to Reddit (r/hashtagweb3)...');
       const redditPostId = await postToReddit(redditTitle, redditMarkdown, 'hashtagweb3');
       console.log(`✓ Successfully published to Reddit! Post: ${redditPostId}`);
-      state.history.push({
+      recordVerifiedPost(state, {
         slug,
         company,
         title,
@@ -1452,6 +1666,7 @@ async function main() {
         postedAt: now,
         postId: redditPostId,
       });
+      newlyVerifiedPlatforms.add('reddit');
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Reddit:`, (err as Error).message);
@@ -1459,6 +1674,7 @@ async function main() {
   }
 
    if (shouldPublishPlatform('instagram')) {
+    attemptedPlatforms.add('instagram');
     try {
       const TAGLINES = [
         'Subscribed by 60k+ Web3 builders and professionals.',
@@ -1473,7 +1689,7 @@ async function main() {
       const igImageUrl = `${ogImageUrl}&format=square`;
       const igPostId = await postToInstagram(igCaption, [igImageUrl]);
        console.log(`✓ Successfully published Instagram image post! Post ID: ${igPostId}`);
-      state.history.push({
+      recordVerifiedPost(state, {
         slug,
         company,
         title,
@@ -1481,29 +1697,33 @@ async function main() {
         postedAt: now,
         postId: igPostId,
       });
+      newlyVerifiedPlatforms.add('instagram');
       postedSuccessCount++;
     } catch (err) {
       console.error(`✗ Failed to post to Instagram:`, (err as Error).message);
     }
   }
 
-   const verifiedPlatforms = new Set(
-     state.history
-       .filter((entry) => entry.slug === slug && (entry.platform !== 'threads' || entry.verification === 'verified' || !entry.verification))
-       .map((entry) => entry.platform)
-   );
+   const verifiedPlatforms = verifiedPlatformsForSlug(state, slug);
    const allPlatformsSucceeded = SOCIAL_PLATFORMS.every((name) => verifiedPlatforms.has(name));
 
-   if (allPlatformsSucceeded && !state.postedSlugs.includes(slug)) {
-     state.postedSlugs.push(slug);
-   }
+   const completionChanged = allPlatformsSucceeded && markSlugComplete(state, slug);
 
-   if (postedSuccessCount > 0 || allPlatformsSucceeded) {
-     saveState(state);
-     console.log(`\nState saved (${postedSuccessCount} platforms newly verified${allPlatformsSucceeded ? '; all platforms complete' : ''}). Done.`);
+   if (postedSuccessCount > 0 || completionChanged) {
+      saveState(state);
+      console.log(`\nState saved (${postedSuccessCount} platforms newly verified${allPlatformsSucceeded ? '; all platforms complete' : ''}). Done.`);
    } else {
      console.warn(`\nNo new platform succeeded for ${slug}. State remains incomplete and will retry missing platforms.`);
   }
+
+   const missingPlatforms = requestedPlatforms.filter((name) => (
+     force && attemptedPlatforms.has(name)
+       ? !newlyVerifiedPlatforms.has(name)
+       : !verifiedPlatforms.has(name)
+   ));
+   if (missingPlatforms.length > 0) {
+     throw new Error(`Incomplete social publish for ${slug}; awaiting verified posts on: ${missingPlatforms.join(', ')}`);
+   }
 
     // Enqueue the catch-up round (if armed): a second, different-company job
     // appended to jobsToPost lengthens this same loop by one iteration. An
@@ -1512,6 +1732,7 @@ async function main() {
       round === 0 &&
       jobsToPost.length === 1 &&
       catchUpArmed &&
+      state.pendingSlugs.length === 0 &&
        allPlatformsSucceeded
     ) {
       const next = pickNextJob(typeof company === 'string' ? company.toLowerCase() : '', slug);

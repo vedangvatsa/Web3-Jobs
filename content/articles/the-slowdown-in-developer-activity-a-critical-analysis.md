@@ -1,5 +1,6 @@
 ---
 title: 'Developer Activity Slowdown Analysis'
+ogTitle: "DEVELOPER ACTIVITY SLOWDOWN ANALYSIS"
 description: >-
   Is the Web3 developer ecosystem shrinking? A critical analysis of the data
   shows a more specific story of market maturation, consolidation, and a shift.
@@ -7,7 +8,7 @@ image: /images/dayne-topkin-y5_mFlLMwJk-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man thinking analytics
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## A Critical Analysis of the "Slowdown" in Web3 Developer Activity
 

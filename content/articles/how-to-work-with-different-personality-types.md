@@ -1,5 +1,6 @@
 ---
 title: A Guide to Working With Different Personality Types
+ogTitle: "A GUIDE TO WORKING WITH DIFFERENT PERSONALITY TYPES"
 category: Career Guides
 date: '2025-09-12'
 description: >-
@@ -7,9 +8,8 @@ description: >-
   practical framework for understanding different work styles and adapting your.
 data-ai-hint: team diverse personalities
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 You don't need a psychology degree to work well with different people. But you do need to stop assuming everyone thinks the way you do.
 
 Most friction on teams doesn't come from disagreements about goals - it comes from clashing work styles. One person wants to brainstorm out loud; another needs quiet time to think. One person makes decisions in five minutes; another needs to sit with the data for a week. Neither is wrong. They're just different.
@@ -56,15 +56,11 @@ This isn't about shy vs. outgoing - it's about how people process information.
 
 These dynamics get amplified on distributed teams, which are the default for most [Web3 and crypto organizations](/web3-companies-and-projects). When you can't read the room in person, miscommunication is more likely.
 
-A few things that help:
+A few things that help:**Make communication preferences explicit.
 
-### Make communication preferences explicit
+**During onboarding or early team formation, have people share how they prefer to receive information (written vs. verbal), how much lead time they need before meetings, and how they like to give input on decisions. This isn't touchy-feely busywork - it saves real time and prevents real friction.** Use async-first communication for decisions.
 
-During onboarding or early team formation, have people share how they prefer to receive information (written vs. verbal), how much lead time they need before meetings, and how they like to give input on decisions. This isn't touchy-feely busywork - it saves real time and prevents real friction.
-
-### Use async-first communication for decisions
-
-Post proposals in writing. Give people 24-48 hours to respond before calling a meeting to finalize. This levels the playing field between extroverts who shine in live calls and introverts who need processing time.**Don't confuse "quiet" with "disengaged."** In a DAO or remote team, the person who rarely speaks in calls but consistently ships quality work and leaves thoughtful comments in documents is fully engaged. Measure contribution by output, not volume of conversation.
+**Post proposals in writing. Give people 24-48 hours to respond before calling a meeting to finalize. This levels the playing field between extroverts who shine in live calls and introverts who need processing time.** Don't confuse "quiet" with "disengaged."** In a DAO or remote team, the person who rarely speaks in calls but consistently ships quality work and leaves thoughtful comments in documents is fully engaged. Measure contribution by output, not volume of conversation.
 
 ## The Point Isn't to Change People
 

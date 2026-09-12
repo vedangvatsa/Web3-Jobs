@@ -1,5 +1,6 @@
 ---
 title: How to Become an NFT Creator - From Artwork to On-Chain Sale
+ogTitle: "BECOME AN NFT CREATOR - FROM ARTWORK TO ON-CHAIN SALE GUIDE"
 image: /images/simon-abrams-k_T9Zj3SE8k-unsplash.jpg
 data-ai-hint: nft art crypto
 description: >-
@@ -8,7 +9,7 @@ description: >-
   how to sell your first piece without wasting gas or rights.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## What is an NFT creator
 

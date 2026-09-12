@@ -1,5 +1,6 @@
 ---
 title: 'R3 Corda vs Cosmos SDK'
+ogTitle: "R3 CORDA VS COSMOS SDK"
 image: 'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?q=80&w=1080'
 imageAlt: Enterprise blockchain architecture comparison
 data-ai-hint: R3 Corda Cosmos SDK enterprise blockchain comparison
@@ -9,9 +10,8 @@ description: >-
 category: Technology Deep Dives
 slug: r3-corda-vs-cosmos-sdk
 publishedDate: '2026-03-15'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 When evaluating enterprise blockchain infrastructure, two platforms stand out for production deployments: **R3 Corda** and the
 
 **Cosmos SDK**. Corda is a private, permissioned distributed ledger built specifically for regulated financial institutions. In contrast, Cosmos SDK is an open-source framework for creating sovereign, interoperable blockchains that can be deployed in public or permissioned configurations. Enterprise architects consider both platforms for their specific needs, moving beyond general-purpose smart contract solutions. This comparison provides engineering and architecture teams with a clear understanding of the strengths and weaknesses of each platform.
@@ -91,7 +91,7 @@ Cosmos SDK can also be configured as a permissioned enterprise chain by limiting
 
 Corda and Cosmos SDK represent fundamentally different models of distributed ledger technology.
 
-**Corda** adopts a bilateral contract model. It lacks a global state; instead, each node maintains a vault of states relevant to its transactions. When two parties conduct a transaction, they execute a flow that enables direct communication between their nodes. This process constructs a transaction, validates it through a**notary**(preventing double-spending), and stores it locally. The notary only sees transaction inputs to detect conflicts but does not view the transaction details. This architecture ensures exceptional privacy, although it also means there is no "mempool" or global broadcast; it resembles a network of bilateral databases with cryptographic assurances.
+**Corda ** adopts a bilateral contract model. It lacks a global state; instead, each node maintains a vault of states relevant to its transactions. When two parties conduct a transaction, they execute a flow that enables direct communication between their nodes. This process constructs a transaction, validates it through a**notary**(preventing double-spending), and stores it locally. The notary only sees transaction inputs to detect conflicts but does not view the transaction details. This architecture ensures exceptional privacy, although it also means there is no "mempool" or global broadcast; it resembles a network of bilateral databases with cryptographic assurances.
 
 **Cosmos SDK** employs a replicated state machine model. Every validator processes every transaction and maintains an identical copy of the chain state. Tendermint BFT ensures deterministic consensus; once a block is committed (after two-thirds of validators sign), it becomes final without any probabilistic confirmation windows. The ABCI interface cleanly separates the consensus mechanism from application logic, allowing for a modular and composable SDK. IBC connects chains at the protocol level using light client proofs, enabling a Cosmos chain to verify the state of another chain without relying on a third party.
 

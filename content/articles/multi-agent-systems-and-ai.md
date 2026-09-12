@@ -1,5 +1,6 @@
 ---
 title: An Introduction to Multi-Agent AI Systems in Web3
+ogTitle: "AN INTRODUCTION TO MULTI-AGENT AI SYSTEMS IN WEB3"
 image: /images/articles/charts/multi-agent-ai-web3-architecture.svg
 data-ai-hint: multi agent AI Web3 zkML opML Autonolas Fetch.ai
 description: >-
@@ -8,7 +9,7 @@ description: >-
   autonomous DeFi execution, and engineering careers.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 
 Artificial intelligence engineering is undergoing a fundamental structural transition from single, monolithic Large Language Models (LLMs) to decentralized **Multi-Agent Systems (MAS)**. While a single generalist model attempts to execute planning, reasoning, code generation, and domain evaluation within a single context window, multi-agent architectures distribute complex workloads across networks of specialized, autonomous AI agents. Each agent operates with defined goals, specialized tools, domain-specific memory, and custom execution policies.
@@ -117,9 +118,9 @@ The convergence of multi-agent AI and decentralized protocols has created some o
 └────────────────────────────────────────────────────────────────────────┘
 ```
 
-- **AI Agent Systems Architect:** Designing stateful multi-agent DAGs, inter-agent communication schemas, and vector memory integration using Python, LangGraph, and Rust ($150,000 - $280,000).
-- **Verifiable AI (zkML/opML) Engineer:** Building proof-generation pipelines and on-chain verification contracts using C++, CUDA, Rust, and Solidity ($170,000 - $320,000).
-- **DeFi Agent Quant:** Developing autonomous trading swarms that manage smart account session keys and execute algorithmic strategies on-chain ($160,000 - $350,000+).
+- **AI Agent Systems Architect:** Designing stateful multi-agent DAGs, inter-agent communication schemas, and vector memory integration using Python, LangGraph, and Rust ($150,000 – $280,000).
+- **Verifiable AI (zkML/opML) Engineer:** Building proof-generation pipelines and on-chain verification contracts using C++, CUDA, Rust, and Solidity ($170,000 – $320,000).
+- **DeFi Agent Quant:** Developing autonomous trading swarms that manage smart account session keys and execute algorithmic strategies on-chain ($160,000 – $350,000+).
 
 ## The Future of Decentralized Autonomous Swarms
 

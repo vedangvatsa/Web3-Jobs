@@ -1,85 +1,66 @@
 ---
-title: What Gary Vaynerchuk Thinks About Web3
+title: What does Gary Vaynerchuk think about Web3
+ogTitle: "WHAT DOES GARY VAYNERCHUK THINK ABOUT WEB3"
 description: >-
-  A guide to Gary Vaynerchuk's Web3 view: NFTs as access and community products,
-  long-lived character IP, direct attention, and the operating burden behind utility.
+  Learn about Gary Vaynerchuk's (GaryVee) perspective on Web3 and NFTs. This
+  guide covers his investment thesis, his emphasis on community building, and
+  his brand strategy in crypto.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man drawing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
+## Introduction: The Marketing Guru of NFTs
 
-## GaryVee Looks at Web3 Through Attention and Brand
+Gary Vaynerchuk, universally known as GaryVee, is a serial entrepreneur, investor, author, and internet personality who has become one of the most visible and influential advocates for [Web3](/what-is-web3), particularly In [NFTs](/what-are-nfts) (Non-Fungible [Tokens](/what-is-a-token)). With his signature high-energy style and relentless focus on practical marketing and brand-building, Gary has brought the concepts of digital ownership and community to a massive mainstream audience.
 
-Gary Vaynerchuk's Web3 argument is not mainly about protocol design or monetary policy. He sees NFTs as a new way to package membership, access, collecting, and intellectual property around an audience. The token matters because it can identify a holder and move between owners; the durable work, in his view, happens after the mint. A project must keep giving people reasons to care.
+This guide explores GaryVee's unique perspective on Web3, focusing on his investment thesis, his emphasis on building long-term intellectual property (IP), the creation of his successful VeeFriends NFT project, and his actionable advice for anyone looking to manage the space.
 
-That emphasis follows the career he describes on his [own biography](https://www.garyvaynerchuk.com/about/). He built Wine Library's online presence, hosted WineLibraryTV, co-founded VaynerMedia, and became known for studying attention on changing media platforms. His Web3 voice carries that same operating instinct. He tends to ask who the community is, what a holder receives, whether the founders will keep showing up, and whether a character or brand has a life beyond a short trading cycle.
+### From Wine to Web3
 
-This is a useful angle because it refuses to treat a collection's art or floor price as the whole product. It also has a sharp limitation: an NFT does not turn a weak brand into a strong one, and access promises can create expensive obligations. The framework is strongest when a team can name the product, the audience, the benefit, and the cost of delivering it repeatedly.
+Gary's journey is one of identifying and capitalizing on emerging trends. He first gained fame by improving his family's liquor store into a significant e-commerce business, largely through his leading YouTube show, *Wine Library TV*. He then founded VaynerMedia, a digital advertising agency that has grown into a global powerhouse.
 
-## NFTs as Receipts, Tickets, and Membership Records
+His core skill has always been understanding where consumer attention is going and how to build brand and community on new platforms. He was an early adopter of social media platforms like Twitter, Facebook, and Snapchat, and he applied this same pattern-recognition to Web3. He saw in NFTs not just a new type of digital collectible, but a fundamental shift in how brands, creators, and communities can interact and create value together.
 
-Vaynerchuk often talks about NFTs as keys. The image is simple. A token can act as a receipt that a person holds a particular digital item; it can also be used as a gate for a chat, an event, an early purchase, a game feature, or a member benefit. The transferability changes the structure of the membership: a holder may sell the token, and the access rule can move with it if the issuer has designed the system that way.
+## Core Thesis: NFTs as Long-Term IP and Community Keys
 
-The word "can" is important. A token does not enforce every promise on its own. The organizer must run the event, maintain the verification system, state the eligibility rule, and decide what happens when a token changes hands. A private Discord channel can close. A physical benefit needs inventory and shipping. A conference ticket can be lost, resold, or copied if the redemption process is poor. The NFT is a record in a wider operating system.
+Unlike many who entered the space with a focus on finance or technology, Gary's perspective on Web3 is rooted in marketing, branding, and human behavior. His central thesis is that NFTs are not just about the art; they are about **access, community, and the creation of long-term intellectual property (IP).**### 1. The Real Value is Utility and Access
 
-That distinction is visible in the structure of VeeFriends Series 1. Vaynerchuk's [VeeFriends page](https://www.garyvaynerchuk.com/veefriends/) says the collection launched on May 11, 2021 with 10,255 digital collectibles and 268 hand-drawn characters. It separated the collection into admission, gift, and access token categories, and it tied Series 1 tokens to VeeCon admission for 2022, 2023, and 2024. This is a concrete use of a token as an eligibility record, not an abstract promise that ownership will somehow create value.
+For Gary, the "art" of an NFT is often the least important part. He consistently argues that the long-term value of an NFT project will be determined by the **utility** it provides to its holders.
 
-The original access term also shows why founders must be exact. A reader should not assume that a historic ticket benefit lasts forever, applies to every later collection, or survives any future product change. The current [VeeFriends site](https://veefriends.com/about/faq) lists a broader company spanning characters, content, collectibles, and fan experiences. A holder needs the terms for the specific token and period, not a slogan about community.
+* **NFTs as "Keys":** He views NFTs as digital keys that grant access to a community, events, information, or experiences. The NFT is the proof of membership.
+* **A New Kind of Membership Card:** Holding a specific NFT might grant you access to a private Discord server, a seat at an exclusive conference, a one-on-one meeting with the founder, or a free product. The more valuable the access, the more valuable the NFT "key."
 
-## Utility Is a Delivery Commitment
+### 2. Building Intellectual Property for the Next 50 Years
 
-In Vaynerchuk's view, the visual art in a collection may start the conversation, but utility gives a project a chance to maintain attention. A token that grants a real and wanted benefit can feel more like a membership product than a speculative image. That is the part of his thesis that brands can use without adopting a crypto ideology: give a committed customer access, acknowledge their participation, and make the benefit easy to understand.
+Gary encourages founders and creators to think of their NFT projects not as a short-term cash grab, but as the beginning of a new global brand or intellectual property, on par with franchises like Pokémon or Hello Kitty.
 
-The standard should be high. "Utility" cannot mean an undeveloped roadmap, a vague promise of future partnerships, or a discount that costs the holder more to claim than it saves. It needs a named benefit, terms, fulfillment owner, duration, and support path. If a restaurant gives holders a reservation window, the restaurant must decide how it verifies ownership at the door, what capacity it reserves, and whether a transferred token transfers the privilege. If a game issues an item, the team must decide where it works, whether it affects balance, and whether it can be withdrawn from the game economy.
+* **Characters as Brands:** The characters or assets in an NFT collection are new pieces of IP. The goal is to build a story, a personality, and a universe around these characters, turning them into recognizable brands that can be licensed for toys, cartoons, clothing, and more.
+* **Long-Term Vision:** He constantly preaches the importance of patience and having a 10, 20, or 50-year vision for the IP. He believes the vast majority of projects that are focused on short-term hype will fail, while those that patiently build a beloved brand will win in the long run.
 
-This is why Vaynerchuk's approach is demanding for brands. A conventional loyalty program can be revised internally. A token-based benefit may have a public holder base watching its terms and resale market. The project needs clear communications, support, privacy controls, fraud prevention, and a plan for people who do not use wallets comfortably. A brand should not issue a token merely because it wants attention. It should issue one when it has a benefit it can keep delivering without confusing or disadvantaging its existing customers.
+### 3. Community is Everything
 
-For a job candidate, "built NFT utility" should mean one of those concrete pieces of work: a token-gated authentication flow, redemption system, event check-in process, eligibility rules, fulfillment integration, support runbook, or analysis of benefit usage. It should not mean minting a collection and waiting for a market to form.
+Drawing on his decades of experience in social media marketing, Gary emphasizes that a strong, engaged, and positive community is the most important asset for any Web3 project.
 
-## Community Is Participation, Not a Follower Count
+* **From Audience to Community:** Web3 allows brands to move beyond having a passive "audience" to Building an active "community" of owners. When users own a piece of the project (the NFT), their incentives are aligned with the project's success.
+* **The "Vibe" Matters:** He often speaks about the importance of the "vibe" or culture within a community. A positive, supportive, and collaborative community will attract more like-minded members and create a network effect that is difficult for competitors to replicate.
 
-Vaynerchuk treats community as the asset around which the brand is built. That is a more useful definition than a raw social following because it calls for repeated participation. A community member attends an event, shares feedback, makes a trade, joins a discussion, brings a friend, helps a newcomer, or buys a product again. The project has to create a place and a reason for that action.
+## VeeFriends: Putting the Thesis into Practice
 
-Ownership may make participation more visible, but it can also distort it. When the economic story becomes the only story, a channel fills with price anxiety, demands for announcements, and conflict between holders who want different outcomes. A healthy community needs programming that would still be worthwhile if resale disappeared: useful content, gathering, collaboration, entertainment, service, or a shared creative world.
+In 2021, Gary launched VeeFriends, an NFT project that serves as the perfect embodiment of his entire Web3 philosophy.
 
-VeeFriends provides a real example of the expansion Vaynerchuk has in mind. Its official page describes the business as an entertainment company centered on 283 characters, while its current site includes comics, cards, stickers, apparel, collectibles, live shows, and digital collections. The point is not that every project should copy that catalog. It is that a collection with characters can become a content and consumer-products operation only through sustained production, licensing, distribution, and audience work.
+* **The Characters:** The collection consists of 286 characters, all hand-drawn by Gary himself, with whimsical names like "Patient Panda," "Accountable Ant," and "Empathetic Elephant." These characters represent traits that Gary values and promotes in his content.
+* **Access as Utility:** Each NFT serves as a ticket to VeeCon, an annual super-conference that Gary hosts. Different tokens come with different levels of access. For example, "Gift Goat" tokens entitle the holder to receive multiple physical gifts from Gary throughout the year. "Hangout Hawk" tokens grant the holder one-on-one coaching sessions.
+* **Building the IP:** From day one, Gary has treated the VeeFriends characters as new IP. He has secured deals to turn them into plush toys sold at major retailers, and has developed animated content, clothing lines, and other merchandise. He is executing his playbook in public, demonstrating how to build a brand from an NFT collection.
 
-Community teams should measure behavior that reflects the intended relationship. Event attendance, successful benefit redemption, repeat participation, support resolution, creator submissions, and newcomer retention are more useful than an inflated member total. They should also keep the economic relationship explicit. A community manager is not an investment adviser, and a token holder is not necessarily a customer, shareholder, or co-founder. Clear boundaries protect both the people running the space and the people in it.
+VeeFriends is a masterclass in Gary's Web3 strategy: create scarcity, provide real-world utility and access, build a strong community, and focus on the long-term development of intellectual property.
 
-## Long-Term IP Is the Ambition
+## GaryVee's Practical Advice for Web3
 
-The distinct part of Vaynerchuk's thesis is the attempt to treat NFT characters as the beginning of intellectual property rather than the end product. A memorable character can appear in a card set, animation, comic, toy, game, apparel line, or event. That is the commercial model he invokes when he talks about thinking in decades instead of weeks.
+Gary's content is always focused on providing practical, actionable advice. Here are some of his most common recommendations for individuals and businesses looking to get into Web3.
 
-VeeFriends' published history makes the attempt visible. Series 1 used hand-drawn characters; Series 2 later expanded the material into 55,555 digital collectibles featuring 236 returning characters plus 15 new ones, according to Vaynerchuk's [project page](https://www.garyvaynerchuk.com/veefriends/). The official VeeFriends site now points visitors to comics, collectibles, cards, apparel, and a cartoon presence. Those are distinct formats with distinct production demands. A character's visual identity has to stay coherent across them, and every collaboration needs commercial terms and quality control.
-
-The long horizon is a discipline, not a guarantee. Most characters do not become cultural properties. Licensing deals, retail placement, animation, and merchandise do not make a story resonate. A project that claims to be "the next" established franchise should be treated with caution unless it has already made work people choose to watch, read, collect, or play. The word "IP" often disguises the absence of a product.
-
-Vaynerchuk's useful instruction is to build for repeat encounters. A character should have a point of view, recognizable design, and a setting in which it can appear. The brand should decide what it controls and what it licenses. The team should know whether holders have commercial rights, personal-display rights, or no rights beyond ownership of the token. Those decisions belong in public terms and creator guidance, not in a vague claim that a community owns the brand.
-
-## VeeFriends Is a Case Study, Not a Template
-
-VeeFriends makes Vaynerchuk's model concrete because it connects a founder-led character universe with token categories, event access, and later media and merchandise. It is also unusually dependent on its founder's existing audience, public profile, and capacity to organize attention. A new creator without those inputs cannot reproduce the outcome by copying the format of hand-drawn animals and a Discord server.
-
-The early VeeCon arrangement is a good case in point. Vaynerchuk's site says the first event ran in Minneapolis in May 2022 and that Series 1 holders were distributed access tickets for the first three years. That is a specific, time-bounded operating promise. It required a venue, programming, ticket distribution, entry verification, guest communications, and a way for a broader audience to acquire tickets on secondary markets. Each component could fail independently of the token contract.
-
-The project's evolution also points to another operational issue: technology changes. The VeeFriends NFT collections page currently describes BOOK GAMES as moving from Immutable X to Base after Immutable X changed its architecture. A holder-facing project must communicate migrations, support wallet changes, prevent scams, and preserve records of eligibility. "On-chain" does not mean a product never changes. It means users may expect clearer records and better migration handling when it does.
-
-Take the case study seriously, but do not extract a recipe from it. The transferable lesson is to pair a digital collectible with a product an issuer can operate. The non-transferable part is Vaynerchuk's distribution and personal brand.
-
-## Do Your Own Research Means Checking the Issuer's Work
-
-Vaynerchuk frequently tells audiences to do their own research. For a collector, the relevant research is not only price charts and social sentiment. It is the issuer's execution record. Has the founder delivered prior benefits? Are the access terms written down? Is the contract address published through an official channel? Which rights travel with the token? Does the project hold customer data? Who handles support? What happens if the collection's marketplace, wallet provider, or event partner changes?
-
-For a brand team, the same research should begin before launch. Study whether the target audience wants a transferable membership at all. Some customers may prefer a normal account, a QR code, or an email-based program. Identify the legal, tax, data-protection, consumer-protection, and support obligations that apply in the markets where the benefit is offered. Decide whether a secondary market helps the customer relationship or undermines it. A ticket that is easy to resell can broaden access; it can also turn a member benefit into an arbitrage target.
-
-The security research is equally plain. Publish only official collection links. Teach users to verify the chain and contract. Never ask for seed phrases. Build a recovery and support process for people who lose access without letting attackers impersonate them. If an embedded wallet makes onboarding easier, explain the custody model. These are ordinary trust tasks, and a community will remember failures more clearly than a polished launch video.
-
-## The Marketing Lesson Is to Make the Promise Small Enough to Keep
-
-Vaynerchuk's Web3 view favors patient brand building over short-lived hype. That can be a sound discipline if it produces specific commitments: an event delivered, a product shipped, a story published, an access rule honored, or a community habit that persists. The opposite is a collection whose utility exists only as a future-tense announcement.
-
-For founders, the practical question is simple. What can a holder receive this month that would still be worth receiving if the token could not be resold? Build that first. State the limits. Deliver it well. Then decide whether a token adds portability, collecting, or membership value that a conventional database cannot provide.
-
-For builders and job seekers, the opportunity sits behind the launch: digital identity, checkout, event operations, contract security, customer support, production, licensing, analytics, and community programming. Vaynerchuk's most useful Web3 idea is not that an NFT makes a brand valuable. It is that a brand has to earn attention over and over, and a token only raises the standard for keeping its word.
+* **Do the Work (DYOR):** He relentlessly tells his audience to "do your own research." He believes that to succeed, you must spend dozens, if not hundreds, of hours immersing yourself in the space-listening to podcasts, reading articles, and joining Discord communities-before you invest.
+* **Focus on the "Who," Not Just the "What":** When evaluating a project, Gary places enormous emphasis on the founder and the team. He asks: Is the founder a long-term operator? Do they have a track record of execution? Are they communicating transparently with the community? He believes that in the long run, betting on good people is the best strategy.
+* **Provide Value First:** For brands entering the space, he warns against a simple "cash grab." He advises them to think about how they can use NFTs to provide real value to their existing customers. For example, a restaurant could issue an NFT that gives the holder a free dessert every time they visit.
+* **Patience is Key:** Gary constantly reminds his audience that Web3 is a long-term game. He compares the current state of NFTs to the early days of the internet. He advises people to be prepared for volatility and to focus on projects that are building for the next decade, not the next week.

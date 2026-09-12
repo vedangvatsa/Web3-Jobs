@@ -1,5 +1,6 @@
 ---
 title: >-
+ogTitle: "NEAR PROTOCOL EXPLAINED: NIGHTSHADE SHARDING, CHAIN"
   NEAR Protocol Explained: Nightshade Sharding, Chain Abstraction and How to
   Build
 description: >-
@@ -9,9 +10,8 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain near protocol
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 NEAR Protocol is a layer-one, sharded, proof-of-stake blockchain built to be fast, low-cost, and easy to use. Docs at docs.near.org describe it as a user-friendly and carbon-neutral chain where accounts look like `alice.near`, finality is about 1.3 seconds, and average fees are about $0.002.
 
 What started in 2018 as a scalability research project by Illia Polosukhin and Alexander Skidanov has grown into a stack that handles base-layer consensus, cross-chain signing, and intent-based execution for apps and AI agents. This guide explains what NEAR is, who should use it, how the pieces work, where it helps and where it hurts, and how to try it.
@@ -37,19 +37,15 @@ Tokenomics snapshot: initial supply 1 billion NEAR in 2020. Annual issuance targ
 
 ## Who it is for
 
-Developers who want simple accounts and cheap state.
+**Developers who want simple accounts and cheap state.
 
-If managing hex addresses, manual nonce tracking, and large gas buffers slows you down, NEAR named accounts with multiple access keys feel closer to web apps. FunctionCall keys let a dapp call one method up to a limit without giving away full control. Small teams appreciate that contract storage is refundable and contracts receive 30 percent of the gas they burn as a rebate.
+**If managing hex addresses, manual nonce tracking, and large gas buffers slows you down, NEAR named accounts with multiple access keys feel closer to web apps. FunctionCall keys let a dapp call one method up to a limit without giving away full control. Small teams appreciate that contract storage is refundable and contracts receive 30 percent of the gas they burn as a rebate.** Teams shipping cross-chain products.
 
-### Teams shipping cross-chain products
+**If your roadmap includes Bitcoin, Ethereum, Solana, and Cosmos support, Chain Signatures lets one NEAR account derive addresses on all of them via an MPC network. You write the logic once on NEAR and sign on the remote chain without running separate relayers or wrapping assets. Solvers on NEAR Intents compete to fill swaps, so you can offer one-click swaps without building your own liquidity.** Ethereum teams looking for a low-cost home.
 
-If your roadmap includes Bitcoin, Ethereum, Solana, and Cosmos support, Chain Signatures lets one NEAR account derive addresses on all of them via an MPC network. You write the logic once on NEAR and sign on the remote chain without running separate relayers or wrapping assets. Solvers on NEAR Intents compete to fill swaps, so you can offer one-click swaps without building your own liquidity. Ethereum teams looking for a low-cost home.
+**If you have audited Solidity contracts and a MetaMask flow, Aurora lets you deploy without rewriting. Same Solidity, same JSON-RPC shape, but settlement inherits NEAR finality and lower fees. This helpsNFT, DeFi, and tooling teams test on testnet before committing to a full rewrite in Rust or JavaScript.** AI and agent builders.
 
-If you have audited Solidity contracts and a MetaMask flow, Aurora lets you deploy without rewriting. Same Solidity, same JSON-RPC shape, but settlement inherits NEAR finality and lower fees. This helpsNFT, DeFi, and tooling teams test on testnet before committing to a full rewrite in Rust or JavaScript.
-
-### AI and agent builders
-
-NEAR AI docs frame NEAR as execution for agents that need confidential inference and verifiable attestations. Shade Agents run inside Trusted Execution Environments and use Chain Signatures plus Intents to move assets and call across chains. If your agent needs to hold keys, sign transactions, and prove how it decided, NEAR positions that stack as native.**Users who pay small amounts often.** Social, gaming, and move-to-earn apps benefit when a transaction costs a fraction of a cent and confirms in about a second. That cost curve makes micro-rewards and frequent actions viable without sponsoring gas.
+**NEAR AI docs frame NEAR as execution for agents that need confidential inference and verifiable attestations. Shade Agents run inside Trusted Execution Environments and use Chain Signatures plus Intents to move assets and call across chains. If your agent needs to hold keys, sign transactions, and prove how it decided, NEAR positions that stack as native.** Users who pay small amounts often.** Social, gaming, and move-to-earn apps benefit when a transaction costs a fraction of a cent and confirms in about a second. That cost curve makes micro-rewards and frequent actions viable without sponsoring gas.
 
 It is less suited if you need deep Ethereum L1 compatibility at the consensus level, if you rely on tooling that only exists on a specific L1, or if you need full anonymity at the protocol layer. NEAR is transparent by default. Private execution via the planned private shard and Confidential Intents was previewed at NEARCON 2026 but is not yet the default path.
 
@@ -66,11 +62,11 @@ NEAR is account-based like Ethereum, but the model differs in ways that matter d
 Comparison to Ethereum in one glance:
 
 | Area | Ethereum | NEAR |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Address | `0x123...` public key | `alice.near` name or implicit hash |
@@ -121,9 +117,9 @@ Gas on NEAR measures compute and storage. You attach a gas amount and a NEAR pri
 
 * **Fees are small and predictable.** Average fees are about $0.002 per the Why NEAR cards in docs. Simple transfers are cheapest. Contract calls add byte and compute costs. Fees are refundable storage when you delete.
 * **Burn and rebate split.** All fees collected in an epoch are burned except for a 30 percent rebate paid to the contract that was called. That rebate is why the docs say you earn from your contract's fees. The rebate creates a direct incentive to write efficient contracts.
-* No fee market spikes like pre-4844 Ethereum.
+* **No fee market spikes like pre-4844 Ethereum.
 
-NEAR sets a dynamic gas price that adjusts per block based on usage per shard. When a shard is busy, its gas price rises until demand shifts. Because work is sharded, one hot contract does not raise prices for an unrelated shard.
+**NEAR sets a dynamic gas price that adjusts per block based on usage per shard. When a shard is busy, its gas price rises until demand shifts. Because work is sharded, one hot contract does not raise prices for an unrelated shard.
 
 ### Smart contracts and tooling
 
@@ -158,16 +154,12 @@ Chain Signatures, shipped to mainnet in 2024, let a NEAR account request signatu
 
 Three parts interact:
 
-1.
+1. **Derivation path.
 
-### Derivation path
+**A string like `bitcoin-1` or `ethereum-1` plus the NEAR account ID and the MPC public key derives a foreign address. Use a distinct path per chain so a signature on Ethereum cannot be replayed on another EVM chain if you sign a legacy payload without EIP-155 chainId.
+2. **Multichain contract `v1.signer`.
 
-A string like `bitcoin-1` or `ethereum-1` plus the NEAR account ID and the MPC public key derives a foreign address. Use a distinct path per chain so a signature on Ethereum cannot be replayed on another EVM chain if you sign a legacy payload without EIP-155 chainId.
-2.
-
-### Multichain contract `v1.signer`
-
-Your contract or frontend calls `sign` with payload hash, path, and domain ID where 0 is Secp256k1 and 1 is Ed25519. The contract yields, waits for the MPC network, and returns a signature you then broadcast on the target chain.
+**Your contract or frontend calls `sign` with payload hash, path, and domain ID where 0 is Secp256k1 and 1 is Ed25519. The contract yields, waits for the MPC network, and returns a signature you then broadcast on the target chain.
 3. **MPC network.** Eight independent nodes today each hold a share of the master key. No single node can sign. Nodes produce signature shares over several rounds and aggregate them off chain, then write the signature back to `v1.signer`. The node set can grow via on-chain votes on `v1.signer`.
 
 Supported curves cover most chains including Bitcoin, Ethereum, Solana, XRP, Aptos, Sui, TON, Stellar, TRON, and EVM rollups. The current example implementations sign Bitcoin Taproot and EVM EIP-155 transactions, Solana with Ed25519, and so on.
@@ -216,11 +208,11 @@ Confidential Intents, previewed in March 2026, add private execution inside a TE
 * Inflation dynamics. Staking yield depends on total stake ratio, validator commission, and burn rate. A drop in usage can raise net issuance, which affects holders who do not stake.
 
 **Trade-off table**| Use | Gain | Cost you pay |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Frequent micro-transactions | Sub-cent fees and 1.3s finality | Need to handle async receipts |

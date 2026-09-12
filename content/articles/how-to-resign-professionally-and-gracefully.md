@@ -1,12 +1,13 @@
 ---
 title: How to Resign Professionally and Gracefully
+ogTitle: "RESIGN PROFESSIONALLY AND GRACEFULLY GUIDE"
 description: >-
   Quitting your job is a delicate process. Learn how to resign in a way that
   preserves your professional relationships and protects your reputation.
 data-ai-hint: person leaving
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Deciding to leave your job marks a significant moment in your career. After making this decision, resigning professionally and gracefully becomes essential. Your exit is as critical as your entrance into the company. A well-managed departure helps maintain positive relationships, protects your reputation, and ensures you receive favorable references in the future.
 

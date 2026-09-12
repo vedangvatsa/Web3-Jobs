@@ -1,11 +1,11 @@
 ---
-title: History of Crypto Anarchy
+title: 'History of Crypto Anarchy'
+ogTitle: "HISTORY OF CRYPTO ANARCHY"
 description: >-
-  An investigative thesis tracing the 40-year evolution of cypherpunk
-  philosophy, asymmetric cryptography, and sovereign software systems.
+  An investigative thesis tracing the 40-year evolution of cypherpunk philosophy, asymmetric cryptography, and sovereign software systems.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 slug: history-of-crypto-anarchy
 ---
 
@@ -19,7 +19,7 @@ Documented across the [Crypto Anarchy Wiki](https://cryptoanarchy.wiki/#events),
 
 Prior to the 1970s, cryptography was almost exclusively the domain of sovereign nation-states, intelligence agencies, and military organizations using symmetric key ciphers.
 
-The model shifted fundamentally in 1976 with the publication of [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman. The paper introduced asymmetric key exchange, allowing two parties to establish a shared secret over an insecure communications channel without sharing key material in advance.
+The paradigm shifted fundamentally in 1976 with the publication of [New Directions in Cryptography](https://ee.stanford.edu/~hellman/publications/24.pdf) by Whitfield Diffie and Martin Hellman. The paper introduced asymmetric key exchange, allowing two parties to establish a shared secret over an insecure communications channel without sharing key material in advance.
 
 <div class="my-8 overflow-hidden rounded-xl border border-border bg-card p-6 shadow-sm">
 div class="text-center font-mono text-xs font-semibold uppercase tracking-wider text-muted-foreground mb-4">Figure 1: 40-Year Evolution Timeline of Sovereign Cryptographic Systems</div>
@@ -80,7 +80,7 @@ Chaum's work demonstrated that digital privacy required structural anonymity at 
 
 The concept of blind signatures further allowed digital bank notes to be issued without enabling the issuer to link specific deposits to specific withdrawals. This created cryptographic anonymity for digital currency systems, laying the conceptual foundation for all subsequent electronic cash experiments.
 
-Chaum founded DigiCash in 1989 to commercialize anonymous electronic cash. Although DigiCash eventually folded due to reliance on centralized banking rails, its core cryptographic mechanics proved that digital transactions could preserve user privacy without sacrificing mathematical integrity.
+Furthermore, Chaum founded DigiCash in 1989 to commercialize anonymous electronic cash. Although DigiCash eventually folded due to reliance on centralized banking rails, its core cryptographic mechanics proved that digital transactions could preserve user privacy without sacrificing mathematical integrity.
 
 ---
 
@@ -180,7 +180,7 @@ By linking transactions into sequential, hash-chained blocks, Nakamoto created a
 
 The inclusion of the dynamic difficulty adjustment algorithm was Nakamoto's breakthrough innovation. By automatically adjusting the mining difficulty in response to total network hash rate changes, Bitcoin ensured predictable supply issuance and prevented high-powered ASIC hardware from overwhelming the inflation schedule.
 
-Nakamoto's choice of unspent transaction outputs (UTXOs) over account balances enabled parallelized validation and simplified state tracking across distributed nodes.
+Furthermore, Nakamoto's choice of unspent transaction outputs (UTXOs) over account balances enabled parallelized validation and simplified state tracking across distributed nodes.
 
 ---
 

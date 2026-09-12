@@ -1,5 +1,6 @@
 ---
 title: What Does it Mean to 'Ape In' to a Crypto Project?
+ogTitle: "WHAT DOES IT MEAN TO 'APE IN' TO A CRYPTO PROJECT"
 image: /images/nasa-cIX5TlQ_FgM-unsplash.jpg
 data-ai-hint: rocket moon crypto
 description: >-
@@ -7,7 +8,7 @@ description: >-
   high-risk, FOMO-driven investment style common in the Web3 world.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The language of the crypto world contains active, animal-themed slang, with "apeing in" being one of the most frequently encountered terms.
 

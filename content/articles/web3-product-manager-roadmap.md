@@ -1,5 +1,6 @@
 ---
 title: The Web3 Product Manager Roadmap
+ogTitle: "THE WEB3 PRODUCT MANAGER ROADMAP"
 image: /images/carl-heyerdahl-KE0nC8-58MQ-unsplash.jpg
 data-ai-hint: product manager career
 description: >-
@@ -7,9 +8,8 @@ description: >-
   a successful career in the Web3 industry, from acquiring foundational.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The role of a [Web3 Product Manager](/web3-product-manager-jobs) stands as one of the most dynamic and demanding positions in the decentralized ecosystem. It requires a skill set that combines traditional product management proficiency with a strong understanding of [blockchain](/what-is-a-blockchain) technology, tokenomics, and community governance. For product managers transitioning from Web2, the pathway may appear daunting. What specific skills are necessary? How can one gain relevant experience? What does career progression entail?
 
 This guide outlines a structured roadmap for establishing a career as a Web3 Product Manager. It caters to seasoned Web2 PMs aiming to pivot into Web3 and newcomers aspiring to excel in product leadership within the cryptocurrency field.
@@ -32,14 +32,14 @@ This initial phase emphasizes immersion and establishing a solid understanding o
 
 **Engage with Foundational Materials:**
 
-- **-** Read Essential Texts:Familiarize yourself with the [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) whitepapers. Explore influential articles such as "Why Decentralization Matters" by Chris Dixon.
- - Curate Information Sources: Listen to daily podcasts like Bankless and Unchained. Follow leading thinkers and builders on Twitter to stay updated.
+- **-** Read Essential Texts:**Familiarize yourself with the [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum) whitepapers. Explore influential articles such as "Why Decentralization Matters" by Chris Dixon.
+ - **Curate Information Sources:** Listen to daily podcasts like Bankless and Unchained. Follow leading thinkers and builders on Twitter to stay updated.
 
 2.
 
-Become Proficient with Tools:
+**Become Proficient with Tools:**
 
-- -**Set Up a [Wallet](/how-to-choose-a-crypto-wallet):**Create a MetaMask account and a hardware wallet. Understand how to [securely manage your own keys](/securing-your-crypto).
+- **-** Set Up a [Wallet](/how-to-choose-a-crypto-wallet):**Create a MetaMask account and a hardware wallet. Understand how to [securely manage your own keys](/securing-your-crypto).
  - **Engage with [DeFi](/what-is-defi):** Perform a swap on Uniswap, lend on Aave, and try out a yield aggregator. Experience user experience challenges firsthand.
  - **Join a DAO:** Select a [DAO](/what-is-a-dao) that captivates your interest, join their Discord, and observe discussions. Familiarize yourself with governance forums.
 
@@ -47,22 +47,20 @@ Become Proficient with Tools:
 
 **Learn Technical and Economic Basics:**
 
-- **-** Technical Literacy:While coding is not mandatory, grasping fundamental concepts is essential. Understand the Ethereum Virtual Machine (EVM), gas mechanics, Layer 2 solutions, and the distinctions between `call` and `delegatecall`.
- - Tokenomics Essentials: Study the principles of [tokenomics](/understanding-tokenomics). Familiarize yourself with supply and demand dynamics, vesting schedules, and various utility models such as governance and [staking](/how-to-become-a-web3-staking-specialist).
+- **-** Technical Literacy:**While coding is not mandatory, grasping fundamental concepts is essential. Understand the Ethereum Virtual Machine (EVM), gas mechanics, Layer 2 solutions, and the distinctions between `call` and `delegatecall`.
+ - **Tokenomics Essentials:** Study the principles of [tokenomics](/understanding-tokenomics). Familiarize yourself with supply and demand dynamics, vesting schedules, and various utility models such as governance and [staking](/how-to-become-a-web3-staking-specialist).
 
 ### Phase 2: Building Your "Proof of Work" Portfolio (Next 6 Months)
 
 In Web3, your public contributions serve as your [resume](/how-to-build-a-web3-resume-that-stands-out). This phase focuses on creating a [portfolio](/building-web3-portfolio) that reflects your product insights within a Web3 context, positioning you as a competitive candidate even without formal PM experience in crypto.
 
-Objective: Develop a visible portfolio that highlights your product thinking in a Web3 context.
+**Objective:** Develop a visible portfolio that highlights your product thinking in a Web3 context.
 
-Key Actions:
+**Key Actions:** 1.
 
-### 1
+**Become an Informed Analyst:**
 
-Become an Informed Analyst:
-
-- -**Conduct Product Evaluations:**Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
+- **-** Conduct Product Evaluations:**Select a well-known dApp and write a detailed critique. Assess its user experience, growth strategies, and tokenomics. Suggest new features based on your analysis. Share your findings on platforms like Mirror or Substack.
  - **Create a Dune Dashboard:** Acquire basic SQL skills and use Dune Analytics to develop a dashboard for a protocol you admire. Monitor metrics like user retention, transaction volume, and feature engagement. Share insights on Twitter.
 
 2.

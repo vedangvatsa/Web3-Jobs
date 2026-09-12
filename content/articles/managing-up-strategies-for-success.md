@@ -1,5 +1,6 @@
 ---
 title: 'Strategies for a More Effective Relationship With Your Boss'
+ogTitle: "STRATEGIES FOR A MORE EFFECTIVE RELATIONSHIP WITH YOUR BOSS"
 category: Career Guides
 date: '2025-09-12'
 description: >-
@@ -8,9 +9,8 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: manager employee meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Managing up has a branding problem. People hear the phrase and think it means sucking up, playing politics, or figuring out how to manipulate your boss into giving you what you want. It's none of those things.
 
 Managing up means understanding what your manager needs to be successful and adjusting how you work with them to make that easier. It's about reducing friction, building trust, and making your working relationship more effective for both of you.
@@ -59,14 +59,10 @@ In a [DAO structure](/what-is-a-dao), you might be accountable to a working grou
 
 A few things that are specific to flat structures:
 
+**Identify the informal decision-makers.
 
+**Even without formal hierarchy, some people carry more influence than others - core contributors, long-tenured community members, or people who control key resources. Figure out who they are and build relationships with them. This isn't politics - it's understanding how the organization actually works.** Over-communicate your progress.
 
-### Identify the informal decision-makers
-
-Even without formal hierarchy, some people carry more influence than others - core contributors, long-tenured community members, or people who control key resources. Figure out who they are and build relationships with them. This isn't politics - it's understanding how the organization actually works.
-
-### Over-communicate your progress
-
-In a DAO or flat team, nobody is tracking your work for you. Post regular updates in public channels. Make your contributions visible. If people don't know what you're doing, they can't value it.**Build trust through consistency.** Without formal authority, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Over time, that consistency earns you the kind of trust and influence that no title can give you.
+**In a DAO or flat team, nobody is tracking your work for you. Post regular updates in public channels. Make your contributions visible. If people don't know what you're doing, they can't value it.** Build trust through consistency.** Without formal authority, your reputation is your main currency. Deliver on what you say you'll deliver. Meet your deadlines. Over time, that consistency earns you the kind of trust and influence that no title can give you.
 
 Whether you're reporting to a VP at a startup or coordinating with contributors across a decentralized protocol, the core idea is the same. Figure out what matters, communicate proactively, and be the kind of person who makes the team better. Check out the latest [Web3 job openings](/jobs) to put these skills to work.

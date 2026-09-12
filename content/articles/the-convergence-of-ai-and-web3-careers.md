@@ -1,5 +1,6 @@
 ---
 title: 'The Convergence of AI and Web3 Careers'
+ogTitle: "THE CONVERGENCE OF AI AND WEB3 CAREERS"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 description: >-
   An analysis of the emerging career opportunities at the intersection of
@@ -8,7 +9,7 @@ description: >-
 category: Career Guides
 data-ai-hint: person working on computer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Introduction: The Two Revolutions
 

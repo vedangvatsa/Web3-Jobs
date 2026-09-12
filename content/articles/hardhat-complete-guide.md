@@ -1,5 +1,6 @@
 ---
 title: 'Hardhat Complete Guide'
+ogTitle: "HARDHAT COMPLETE GUIDE"
 image: 'https://images.unsplash.com/photo-1555066931-4365d14bab8c?q=80&w=1080'
 data-ai-hint: ethereum smart contract development hardhat
 description: >-
@@ -11,9 +12,8 @@ category: Technology Deep Dives
 slug: hardhat-complete-guide
 imageAlt: Developer writing Hardhat smart contract code on laptop
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Hardhat is a development environment for Ethereum software that compiles contracts, runs a local network, executes tests, and deploys code from one CLI. It is built by Nomic Foundation, open source at https://github.com/NomicFoundation/hardhat and documented at https://hardhat.org/docs.
 
 This guide explains what Hardhat does, who should use it, how its parts fit together in Hardhat 3, where it helps and where it does not, and how to create a tested project and deploy to Sepolia today.
@@ -22,19 +22,15 @@ This guide explains what Hardhat does, who should use it, how its parts fit toge
 
 Hardhat is four pieces that install together in a Node.js project:
 
--
+- **Hardhat Runner.
 
-### Hardhat Runner
+**The task runner you call with `npx hardhat`. It runs compile, test, ignition deploy, node, and custom tasks. Docs at https://hardhat.org/docs/getting-started.
+- **Hardhat Network via Ethereum Development Runtime (EDR).
 
-The task runner you call with `npx hardhat`. It runs compile, test, ignition deploy, node, and custom tasks. Docs at https://hardhat.org/docs/getting-started.
-- Hardhat Network via Ethereum Development Runtime (EDR).
+**A local Ethereum network for development. Since v2.21.0 and for all of Hardhat 3, the runtime is implemented in Rust on top of revm. It gives Solidity stack traces, `console.log` in Solidity, and clear revert reasons. Docs at https://hardhat.org/docs/explanations/edr-simulated-networks and the EDR repo at https://github.com/NomicFoundation/edr.
+- **Hardhat Ignition.
 
-A local Ethereum network for development. Since v2.21.0 and for all of Hardhat 3, the runtime is implemented in Rust on top of revm. It gives Solidity stack traces, `console.log` in Solidity, and clear revert reasons. Docs at https://hardhat.org/docs/explanations/edr-simulated-networks and the EDR repo at https://github.com/NomicFoundation/edr.
--
-
-### Hardhat Ignition
-
-A declarative deployment system. You describe the contracts and calls you want in a module, Ignition plans the batches, runs them in parallel where safe, resumes after a failure, and records results under `ignition/deployments/`. Docs at https://hardhat.org/ignition and https://hardhat.org/docs/guides/deployment/using-ignition.
+**A declarative deployment system. You describe the contracts and calls you want in a module, Ignition plans the batches, runs them in parallel where safe, resumes after a failure, and records results under `ignition/deployments/`. Docs at https://hardhat.org/ignition and https://hardhat.org/docs/guides/deployment/using-ignition.
 - **VS Code extension and toolbox.** The official extension is Solidity by Nomic Foundation at https://marketplace.visualstudio.com/items?itemName=NomicFoundation.hardhat-solidity. The recommended plugin bundle is `@nomicfoundation/hardhat-toolbox-viem` at https://hardhat.org/docs/plugins/hardhat-toolbox-viem.
 
 Hardhat 3 is the current major version. It shipped as a beta in August 2025, with Solidity tests as first class, multichain chain types, a Rust runtime, a revamped build system, and Ignition. The stable release was announced on 1 June 2026 at https://blog.nomic.foundation/hardhat-3-is-now-stable/. Hardhat 3.14.0 is a recent small fix release noted on https://hardhat.org. Hardhat 2 is being replaced by Hardhat 3 per https://blog.nomic.foundation/hardhat-2-is-being-replaced-by-hardhat-3/ and will only add Glamsterdam support, not Hegota.

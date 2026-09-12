@@ -1,12 +1,13 @@
 ---
 title: How to Learn Company Culture Fast
+ogTitle: "LEARN COMPANY CULTURE FAST GUIDE"
 description: >-
   Master company culture as a new employee with proven strategies. Learn
   observation, communication, and integration techniques to succeed in your role
   faster.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ### 1. Observe - The Silent Curriculum
 

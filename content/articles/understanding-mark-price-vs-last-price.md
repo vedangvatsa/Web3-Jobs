@@ -1,5 +1,6 @@
 ---
 title: Understanding Mark Price vs Index Price
+ogTitle: "UNDERSTANDING MARK PRICE VS INDEX PRICE"
 description: >-
   A guide to the difference between Mark Price and Index Price in crypto
   derivatives, and why Mark Price is important for preventing unfair
@@ -7,9 +8,8 @@ description: >-
 category: Educational
 data-ai-hint: price comparison
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ### Introduction
 
 In crypto derivatives trading, particularly with perpetual futures, exchanges present various price points for the same asset. The two most significant prices are the **Index Price** and the
@@ -34,15 +34,11 @@ The Mark Price serves as the benchmark for margin and liquidation calculations w
 
 - **Calculation Method**: Typically, the Mark Price is computed using a formula that combines the
 
-**Index Price** with a moving average of the**basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
+**Index Price ** with a moving average of the**basis**, which is the difference between the Last Price and the Index Price. This formula smooths out short-term fluctuations, allowing the Mark Price to converge toward the Index Price over time. The formula is represented as follows:
 
-
-
-```
+ ```
  Mark Price = Index Price + Moving Average (Last Price - Index Price)
-
-
-```
+ ```
 
 - **Objective**: The primary role of the Mark Price is to prevent unfair liquidations. In volatile markets, the Last Price on an exchange can spike or plummet due to significant market orders or liquidity shortages. If liquidations were based solely on this Last Price, it could lead to unjust losses for traders. The Mark Price, anchored to the more reliable Index Price, ensures that liquidations occur only in response to genuine market movements rather than temporary fluctuations on a single platform.
 

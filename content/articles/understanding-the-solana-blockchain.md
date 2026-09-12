@@ -1,5 +1,6 @@
 ---
 title: Understanding the Solana Blockchain
+ogTitle: "UNDERSTANDING THE SOLANA BLOCKCHAIN"
 image: /images/george-prentzas-SRFG7iwktDk-unsplash.jpg
 data-ai-hint: solana blockchain
 description: >-
@@ -7,28 +8,21 @@ description: >-
   applications.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Solana is a Layer 1, open source blockchain built for high throughput and low cost. It launched as a mainnet beta on March 16, 2020. Solana Labs, founded in 2018 by Anatoly Yakovenko, Raj Gokal, and Greg Fitzgerald, built the original protocol from Yakovenko's 2017 Proof-of-History whitepaper, and the Solana Foundation helps support ecosystem development.
 
 It is a single, integrated network. It does not run three separate chains and it does not use subnets. Those designs belong to other networks such as Avalanche.
 
 ## Who this guide is for
 
+**Builders weighing a base layer.
 
+**If you are comparing where to deploy and you need fast confirmation, low fees, and parallel execution, this explains the core pieces so you can decide with clear trade-offs.** Operators and researchers.
 
-### Builders weighing a base layer
+**If you run validators, build explorers, or study throughput and fee design, you need the mechanics behind slots, fees, and client requirements.** Users who rely on Solana apps.
 
-If you are comparing where to deploy and you need fast confirmation, low fees, and parallel execution, this explains the core pieces so you can decide with clear trade-offs.
-
-### Operators and researchers
-
-If you run validators, build explorers, or study throughput and fee design, you need the mechanics behind slots, fees, and client requirements.
-
-### Users who rely on Solana apps
-
-If you trade, send payments, or play games on Solana, you benefit from knowing why transactions confirm quickly and what can still go wrong.
+**If you trade, send payments, or play games on Solana, you benefit from knowing why transactions confirm quickly and what can still go wrong.
 
 ## How Solana is built
 
@@ -102,33 +96,25 @@ The design target is up to 65,000 transactions per second. Observed non-vote thr
 
 ## How to get started
 
-1.
+1. **Create a wallet.
 
-### Create a wallet
+**Phantom or Solflare are common. Back up the seed phrase offline. Start with a small amount to learn the flow.
 
-Phantom or Solflare are common. Back up the seed phrase offline. Start with a small amount to learn the flow.
+2. **Add a little SOL.
 
-2.
+**Fees are always in SOL, even for SPL token moves. Keep a dollar or two to cover many transactions. Verify the full address before sending.
 
-### Add a little SOL
+3. **Make a first transfer and inspect it.
 
-Fees are always in SOL, even for SPL token moves. Keep a dollar or two to cover many transactions. Verify the full address before sending.
+**Send between your own addresses and view the fee split on Solana Explorer or Solscan.
 
-3. Make a first transfer and inspect it.
+4. **Stake if you want.
 
-Send between your own addresses and view the fee split on Solana Explorer or Solscan.
+**Most wallets let you stake to validators. Compare commission, skip rate, and concentration. Unstaking follows epoch boundaries, about two days per epoch.
 
-4.
+5. **Build on devnet first.
 
-### Stake if you want
-
-Most wallets let you stake to validators. Compare commission, skip rate, and concentration. Unstaking follows epoch boundaries, about two days per epoch.
-
-5.
-
-### Build on devnet first
-
-Install Rust, the Solana CLI, and Anchor. Use the quickstart at solana.com/docs/intro. Test on devnet with airdropped SOL before using mainnet.
+**Install Rust, the Solana CLI, and Anchor. Use the quickstart at solana.com/docs/intro. Test on devnet with airdropped SOL before using mainnet.
 
 ## FAQ
 

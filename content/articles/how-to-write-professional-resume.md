@@ -1,14 +1,14 @@
 ---
 title: How to Write Professional Resume
+ogTitle: "WRITE PROFESSIONAL RESUME GUIDE"
 data-ai-hint: resume paper document
 description: >-
   Turn work history into a concise, tailored resume with measurable results,
   role-specific keywords, readable formatting, and essential skills sections.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Your resume serves as a critical first impression for potential employers. In a competitive job market, a well-crafted resume can determine whether you secure an interview or get overlooked. A resume is not merely a list of past jobs; it acts as a marketing document that effectively showcases your skills and experience.
 
 Creating a professional resume is manageable when you focus on a few essential principles. These guidelines will help you construct a clear, concise, and engaging document that highlights your qualifications and distinguishes you from other candidates.
@@ -25,7 +25,7 @@ Selecting the appropriate resume format is vital for presenting your information
 --------------------------------------------------------------------------------------------------------------------------------------------------|
 
 ------------------------------------|
-|
+| 
 
 **Reverse-Chronological**| Lists work experience in reverse order, starting with the most recent job. This format is familiar to recruiters and clearly shows career progression. | Those with a steady work history |
 |
@@ -41,10 +41,10 @@ The reverse-chronological format is generally the best choice. Recruiters are ac
 
 Your resume should include a brief summary or objective statement at the top.
 
-- **Summary Statement**: A 2-3 sentence overview of your skills and experience, ideal for individuals with work experience.
+- **Summary Statement**: A 2-3 sentence overview of your skills and experience, ideal for individuals with work experience. 
  *Example*: "Highly motivated software engineer with significant experience in building and scaling web applications. Proficient in JavaScript, React, and Node.js."
 
-- **Objective Statement**: A statement that outlines your career goals, suitable for recent graduates or those changing careers.
+- **Objective Statement**: A statement that outlines your career goals, suitable for recent graduates or those changing careers. 
  *Example*: "Recent computer science graduate seeking a junior software [developer position](/entry-level-jobs-in-web3) to apply skills in Python and machine learning."
 
 ### 3. Focus on Achievements, Not Just Responsibilities

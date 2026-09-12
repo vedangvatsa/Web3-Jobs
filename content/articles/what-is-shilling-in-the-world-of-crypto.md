@@ -1,5 +1,6 @@
 ---
 title: What is 'Shilling' in the World of Crypto? A Guide to Promotion and Hype
+ogTitle: "'SHILLING' IN THE WORLD OF CRYPTO? A GUIDE TO PROMOTION AND"
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 description: >-
   An in-depth look at the crypto term 'shilling,' explaining what it is, who
@@ -8,7 +9,7 @@ description: >-
 category: Career Guides
 data-ai-hint: person shouting megaphone
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Introduction: Understanding Shilling in Crypto
 

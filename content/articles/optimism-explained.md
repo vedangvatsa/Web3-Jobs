@@ -1,5 +1,6 @@
 ---
 title: 'Optimism Explained - OP Mainnet, the OP Stack, and the Superchain'
+ogTitle: "OPTIMISM EXPLAINED - OP MAINNET, THE OP STACK, AND THE SUPERCHAIN"
 description: >-
   Optimism is an Ethereum Layer 2 optimistic rollup that runs transactions off
   chain and settles to Ethereum. Learn how OP Mainnet works, what the OP Stack
@@ -8,9 +9,8 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: optimism blockchain layer2
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Optimism is an Ethereum Layer 2 that executes transactions off Ethereum and posts the data back to Ethereum for security. The main network, OP Mainnet, is an optimistic rollup. It gives you Ethereum addresses and tools, near instant confirmations from a sequencer, and fees that are a fraction of mainnet, while final settlement happens on Ethereum.
 
 The same codebase that runs OP Mainnet is packaged as the OP Stack, an open modular framework. Teams use it to launch their own L2s. The set of OP Stack chains that settle to Ethereum together is called the Superchain. Base by Coinbase, World Chain, Mode, Zora, Ink by Kraken, Soneium by Sony, and Unichain are all OP Stack chains.
@@ -195,11 +195,11 @@ OP does not pay gas. Gas is ETH on OP Mainnet. OP is a governance token and a fu
 ## Pros and cons at a glance
 
 | Area | What Optimism gives you | What you trade |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Fees | Execution gas much lower than L1, plus a L1 data fee that is small per tx when batches compress well and blobs are calm. Typically cents per transfer in normal conditions, an order of magnitude cheaper than L1 for swaps and mints. | You still pay L1. Large calldata, many L2s competing for blobs, or a mainnet gas spike raises your OP fee. You cannot cap the L1 fee with current transaction types. |
@@ -213,77 +213,51 @@ OP does not pay gas. Gas is ETH on OP Mainnet. OP is a governance token and a fu
 
 ### If you are a user
 
-1.
+1. **Add OP Mainnet to your wallet.
 
-### Add OP Mainnet to your wallet
+**Chain ID 10, currency ETH, RPC https://mainnet.optimism.io, explorer https://explorer.optimism.io. Use the docs for the exact `chainId` and contract addresses. Do not trust random RPCs in search results.
+2. **Bridge ETH to OP Mainnet first.
 
-Chain ID 10, currency ETH, RPC https://mainnet.optimism.io, explorer https://explorer.optimism.io. Use the docs for the exact `chainId` and contract addresses. Do not trust random RPCs in search results.
-2.
+**Use the official bridge at https://app.optimism.io/bridge/deposit for the canonical path. It locks on L1 and mints on L2. Start with a small test amount and confirm receipt before you move more. Third party bridges and aggregators are faster for returns, but they front funds and add risk.
+3. **Track finality for money moves.
 
-### Bridge ETH to OP Mainnet first
+**For a deposit, check L1 inclusion and the L2 epoch. For a withdrawal, check the L2 transaction, the batch posted on L1, the fault game status, and the 7 day clock. Do not treat a sequencer confirmation as settled for a treasury move.
+4. **Watch fees before large transactions.
 
-Use the official bridge at https://app.optimism.io/bridge/deposit for the canonical path. It locks on L1 and mints on L2. Start with a small test amount and confirm receipt before you move more. Third party bridges and aggregators are faster for returns, but they front funds and add risk.
-3.
+**Check Ethereum base fee and blob base fee. When mainnet is calm, OP fees drop too. Avoid large calldata transactions during spikes. Remember failed L2 transactions still pay the L1 fee.
+5. **Use native tooling.
 
-### Track finality for money moves
-
-For a deposit, check L1 inclusion and the L2 epoch. For a withdrawal, check the L2 transaction, the batch posted on L1, the fault game status, and the 7 day clock. Do not treat a sequencer confirmation as settled for a treasury move.
-4.
-
-### Watch fees before large transactions
-
-Check Ethereum base fee and blob base fee. When mainnet is calm, OP fees drop too. Avoid large calldata transactions during spikes. Remember failed L2 transactions still pay the L1 fee.
-5.
-
-### Use native tooling
-
-OP Mainnet uses the same explorers and wallets as Ethereum. Set allowance limits, revoke unused approvals, and keep high value exits on the canonical bridge.
+**OP Mainnet uses the same explorers and wallets as Ethereum. Set allowance limits, revoke unused approvals, and keep high value exits on the canonical bridge.
 
 ### If you are a developer
 
-1.
+1. **Deploy on OP Sepolia first.
 
-### Deploy on OP Sepolia first
+**Use https://console.optimism.io/faucet for test ETH. Deploy with Hardhat, Foundry, or Remix as you would on Ethereum. Verify on the explorer and test the bridge flows in both directions.
+2. **Measure fees, not just gas.
 
-Use https://console.optimism.io/faucet for test ETH. Deploy with Hardhat, Foundry, or Remix as you would on Ethereum. Verify on the explorer and test the bridge flows in both directions.
-2.
+**Your 100,000 gas contract costs 100,000 gas on OP Mainnet, but you need to measure the L1 data fee. Use the `GasPriceOracle` at `0x4200...000F` and the L2 fee estimators. Compress input calldata and avoid unneeded bytes. After Isthmus, check operator fee scalar and constant at `0x4200000000000000000000000000000000000015`.
+3. **Handle cross chain timing in code.
 
-### Measure fees, not just gas
+**L1 to L2 takes minutes. L2 to L1 via the canonical path takes about a week. Do not assume a synchronous callback. Emit an event on L2, prove it on L1 after finality, then execute on L1. Test message passing with the Standard Bridge examples in the docs.
+4. **Plan for sequencer outages.
 
-Your 100,000 gas contract costs 100,000 gas on OP Mainnet, but you need to measure the L1 data fee. Use the `GasPriceOracle` at `0x4200...000F` and the L2 fee estimators. Compress input calldata and avoid unneeded bytes. After Isthmus, check operator fee scalar and constant at `0x4200000000000000000000000000000000000015`.
-3.
+**Add a path that submits a deposit through L1 if the sequencer does not include a transaction. Test force inclusion on Sepolia with a delayed sequencer scenario. Document it for support.
+5. **Review the chain you depend on.
 
-### Handle cross chain timing in code
-
-L1 to L2 takes minutes. L2 to L1 via the canonical path takes about a week. Do not assume a synchronous callback. Emit an event on L2, prove it on L1 after finality, then execute on L1. Test message passing with the Standard Bridge examples in the docs.
-4.
-
-### Plan for sequencer outages
-
-Add a path that submits a deposit through L1 if the sequencer does not include a transaction. Test force inclusion on Sepolia with a delayed sequencer scenario. Document it for support.
-5.
-
-### Review the chain you depend on
-
-Check `superchain-registry`, L2Beat stage, audit history, scalar settings, and whether blobs are enabled and how fallback to calldata works when blob fees spike. Pin to a hardfork version and test upgrades like Ecotone, Fjord, and Isthmus before they activate on mainnet.
+**Check `superchain-registry`, L2Beat stage, audit history, scalar settings, and whether blobs are enabled and how fallback to calldata works when blob fees spike. Pin to a hardfork version and test upgrades like Ecotone, Fjord, and Isthmus before they activate on mainnet.
 
 ### If you are launching an OP Stack chain
 
-1.
+1. **Start from Bedrock, not a hack.
 
-### Start from Bedrock, not a hack
+**Use the chain operator quickstart and the `superchain-registry` defaults. Deploy L1 contracts, configure batcher, proposer, and challenger, and fund the proposer bond (0.08 ETH per game, about 14 ETH to sustain hourly proposals across a week on OP Mainnet params).
+2. **Set fees deliberately.
 
-Use the chain operator quickstart and the `superchain-registry` defaults. Deploy L1 contracts, configure batcher, proposer, and challenger, and fund the proposer bond (0.08 ETH per game, about 14 ETH to sustain hourly proposals across a week on OP Mainnet params).
-2.
+**Choose `base_fee_scalar` and `blob_base_fee_scalar` to recover L1 spend, plus operator fee values if you enable Isthmus. See the Tune batcher costs guide for calibration.
+3. **Run the challenger.
 
-### Set fees deliberately
-
-Choose `base_fee_scalar` and `blob_base_fee_scalar` to recover L1 spend, plus operator fee values if you enable Isthmus. See the Tune batcher costs guide for calibration.
-3.
-
-### Run the challenger
-
-If you enable permissionless fault proofs, run `op-challenger` and `op-dispute-mon`. Normal users do not need to run `op-proposer` except to propose their own withdrawal root if you stop proposing.
+**If you enable permissionless fault proofs, run `op-challenger` and `op-dispute-mon`. Normal users do not need to run `op-proposer` except to propose their own withdrawal root if you stop proposing.
 4. **Use governance.** Superchain chain additions, sequencer set changes, and upgrades go through the Token House. Track proposals at https://vote.optimism.io and the governance forum.
 
 ## Risks and constraints you should weigh
@@ -292,11 +266,9 @@ If you enable permissionless fault proofs, run `op-challenger` and `op-dispute-m
 * **Proof system youth.** Fault proofs are live and open source since June 2024, but the prover set is small, `op-challenger` operation is specialized, and the Guardian can intervene. L2 stages reflect this. Wait for Stage 2 before you assume no trust in the council.
 * **Blob competition.** Blob space is limited. When many rollups post at once, blob base fee rises and your L1 fee follows. Some chains fall back to calldata when blobs are expensive, which then tracks Ethereum base fee instead.
 * **Contract and circuit bugs.** Fraud proof, derivation, and bridge contracts have had fixes. Review audits, the fault proof specs at specs.optimism.io, and the 3.5 day plus 7 day delays before you treat a large bridge as instant.
-*
+* **Token price volatility.
 
-### Token price volatility
-
-Retro Funding and airdrop budgets are denominated in OP. If OP falls, funding buys less. If you build public goods for retro rewards, keep a treasury plan that does not need the award to survive.
+**Retro Funding and airdrop budgets are denominated in OP. If OP falls, funding buys less. If you build public goods for retro rewards, keep a treasury plan that does not need the award to survive.
 
 ## FAQ
 

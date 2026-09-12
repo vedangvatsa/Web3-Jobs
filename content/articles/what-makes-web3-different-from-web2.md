@@ -1,5 +1,6 @@
 ---
 title: What Makes Web3 Different from Web2?
+ogTitle: "WHAT MAKES WEB3 DIFFERENT FROM WEB2"
 image: /images/ales-nesetril-Im7lZjxeLhg-unsplash.jpg
 data-ai-hint: web2 web3 difference
 description: >-
@@ -7,9 +8,8 @@ description: >-
   the shift from centralized platforms to decentralized protocols, and what it.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The internet has progressed through distinct phases, each marked by unique architectural and philosophical foundations. The movement from Web1, characterized by static, read-only content, to Web2, which introduced interactivity and social engagement, was significant. However, the transition to [Web3](/what-is-web3) signifies a more profound transformation. This shift is not merely an update; it represents a fundamental reconfiguration of the internet's power dynamics.
 
 Understanding the differences between Web2 and Web3 is vital for grasping the potential of a decentralized internet. The following sections will outline the key distinctions in architecture, data ownership, economic models, and identity that define this new era.
@@ -18,11 +18,9 @@ Understanding the differences between Web2 and Web3 is vital for grasping the po
 
 The most critical difference between Web2 and Web3 lies in their architectural frameworks.
 
--
+- **Web2: Centralized Platforms.
 
-### Web2: Centralized Platforms
-
-The current internet is predominantly populated by centralized applications operated by corporations. Major companies like Meta, Google, and Amazon own the servers that store your data, content, and online identity. These entities serve as trusted intermediaries for user interactions, controlling the environment and setting the rules.
+**The current internet is predominantly populated by centralized applications operated by corporations. Major companies like Meta, Google, and Amazon own the servers that store your data, content, and online identity. These entities serve as trusted intermediaries for user interactions, controlling the environment and setting the rules.
 
 - **Web3: Decentralized Protocols.**[Web3](/what-is-web3) is constructed on decentralized **[protocols](/what-is-a-protocol)** rather than centralized platforms. These protocols are open-source and enforced by **[smart contracts](/what-are-smart-contracts)** on public **[blockchains](/what-is-a-blockchain)**. Applications operate on a peer-to-peer network, meaning no single organization can dictate the rules or control the network.
 
@@ -30,49 +28,37 @@ The current internet is predominantly populated by centralized applications oper
 
 This shift in architectural design leads to a significant change in data ownership.
 
--
+- **Web2: The Platform Owns Your Data.
 
-### Web2: The Platform Owns Your Data
+**When users upload content, such as photos or posts, they transfer ownership of that data to the platform. These platforms monetize user data by selling ads and using it to enhance their algorithms, often without the user's explicit consent. This dynamic positions users as products rather than owners.
 
-When users upload content, such as photos or posts, they transfer ownership of that data to the platform. These platforms monetize user data by selling ads and using it to enhance their algorithms, often without the user's explicit consent. This dynamic positions users as products rather than owners.
+- **Web3: You Own Your Data.
 
--
-
-### Web3: You Own Your Data
-
-In the Web3 environment, data and digital assets reside in personal**[crypto wallets](/how-to-choose-a-crypto-wallet)**, controlled solely by the user. Applications may request permission to access or use data, but the user retains ownership and can revoke access at any time. This relationship allows users to transform platforms into services that users can choose to engage with.
+**In the Web3 environment, data and digital assets reside in personal **[crypto wallets](/how-to-choose-a-crypto-wallet)**, controlled solely by the user. Applications may request permission to access or use data, but the user retains ownership and can revoke access at any time. This relationship allows users to transform platforms into services that users can choose to engage with.
 
 ### Economic Models: Attention Economy vs. Ownership Economy
 
 The business models of Web2 and Web3 differ fundamentally.
 
--
+- **Web2: The Attention Economy.
 
-### Web2: The Attention Economy
+**Advertising serves as the primary revenue model for platforms in Web2. Companies seek to capture users' attention, often leading to addictive design patterns and engagement-driven algorithms that prioritize profits over user welfare.
 
-Advertising serves as the primary revenue model for platforms in Web2. Companies seek to capture users' attention, often leading to addictive design patterns and engagement-driven algorithms that prioritize profits over user welfare.
+- **Web3: The Ownership Economy.
 
--
-
-### Web3: The Ownership Economy
-
-Web3 enables new business models where users and creators directly share in the value generated by the network. Through the use of [tokens](/what-is-a-token), including**[NFTs](/what-are-nfts)** and fungible tokens, users can become owners of the applications and communities they engage with, aligning incentives between developers and users.
+**Web3 enables new business models where users and creators directly share in the value generated by the network. Through the use of [tokens](/what-is-a-token), including **[NFTs](/what-are-nfts)** and fungible tokens, users can become owners of the applications and communities they engage with, aligning incentives between developers and users.
 
 ### Identity: Platform Accounts vs. Self-Sovereign Wallets
 
 Online identity represents another significant battleground between Web2 and Web3.
 
--
+- **Web2: Siloed, Platform-Specific Identity.
 
-### Web2: Siloed, Platform-Specific Identity
+**In the Web2 structure, users possess individual accounts for each platform (e.g., Google, Facebook). If banned from a service, users lose access to their accounts, followers, and content, making digital identity non-portable.
 
-In the Web2 structure, users possess individual accounts for each platform (e.g., Google, Facebook). If banned from a service, users lose access to their accounts, followers, and content, making digital identity non-portable.
+- **Web3: Self-Sovereign, Portable Identity.
 
--
-
-### Web3: Self-Sovereign, Portable Identity
-
-In Web3, your identity is associated with your [wallet](/how-to-choose-a-crypto-wallet) address. This account is universal and pseudonymous, allowing users to interact with any application on the network. Users cannot be de-platformed since no single entity governs their wallet. This principle underpins**[Decentralized Identity (DID)](/decentralized-identity-explained)**.
+**In Web3, your identity is associated with your [wallet](/how-to-choose-a-crypto-wallet) address. This account is universal and pseudonymous, allowing users to interact with any application on the network. Users cannot be de-platformed since no single entity governs their wallet. This principle underpins **[Decentralized Identity (DID)](/decentralized-identity-explained)**.
 
 ### Summary of Differences
 

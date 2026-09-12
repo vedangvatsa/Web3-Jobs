@@ -1,5 +1,6 @@
 ---
 title: Celebrating Ethereum Genesis Day
+ogTitle: "CELEBRATING ETHEREUM GENESIS DAY"
 image: >-
   https://images.unsplash.com/photo-1642104704074-907c0698cbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxldGhlcmV1bXxlbnwwfHx8fDE3NjE4ODM0MTB8MA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -9,7 +10,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ethereum genesis block
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## The Genesis of a World Computer: Celebrating Ethereum Genesis Day
 
