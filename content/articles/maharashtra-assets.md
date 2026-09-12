@@ -18,9 +18,9 @@ The transmission idea sits beside a separate, more narrowly described official i
 
 That statement confirms that the state is considering a legislative framework for property tokenization. It does not establish the terms of a program for power assets. CoinDesk describes the transmission proposal as a state policy under development, while Fadnavis' statement concerns a proposed law for immovable-property tokens. Neither source says the DELTA Act has been enacted or that it authorizes a sale of transmission-asset tokens.
 
-![Seal of Maharashtra](https://upload.wikimedia.org/wikipedia/commons/d/d3/Seal_of_Maharashtra.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Electricity transmission tower in India](https://upload.wikimedia.org/wikipedia/commons/1/11/Transmission_Tower_-_Erode_District_-_Tamilnadu_%2C_India.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-*Seal of Maharashtra via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_Maharashtra.svg).*
+*An electricity transmission tower in India, illustrating the infrastructure asset class discussed in Maharashtra's proposal. Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Transmission_Tower_-_Erode_District_-_Tamilnadu_,_India.jpg).*
 
 ## Transmission assets were the example
 

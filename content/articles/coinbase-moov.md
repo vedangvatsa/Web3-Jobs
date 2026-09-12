@@ -14,9 +14,9 @@ The announcement describes an infrastructure integration, rather than an immedia
 
 The scope matters because the companies are describing a way for financial institutions to offer a new payment rail without building a separate crypto operation themselves. Coinbase says its infrastructure will supply custody and the movement of stablecoins, while Moov will connect those functions to payment systems already used by its financial-institution customers. Whether a particular bank or credit union adopts the service, how it presents it to customers, and when customers can use it remain unannounced.
 
-![Coinbase logo](https://upload.wikimedia.org/wikipedia/commons/9/9e/Coinbase.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![Community bank building in Hayesville, North Carolina](https://upload.wikimedia.org/wikipedia/commons/9/98/A_United_Community_Bank_in_Hayesville%2C_North_Carolina.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-*Coinbase logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coinbase.png).*
+*A community-bank branch, illustrating the institutions Coinbase and Moov say the integration is intended to serve. Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:A_United_Community_Bank_in_Hayesville,_North_Carolina.jpg).*
 
 ## The announced division of work
 

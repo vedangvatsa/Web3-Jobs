@@ -83,7 +83,9 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   // Check if it's a job first (root-level: /trader, /bd).
   // resolveJobSlug also finds retitled postings via the slug archive, so
   // metadata always describes the live canonical (redirects supersede it).
-  const jobMeta = (await resolveJobSlug(params.slug)).job;
+   const jobResolution = await resolveJobSlug(params.slug);
+   const fallbackArticle = jobResolution.kind === 'fallback' ? await getArticle(params.slug) : undefined;
+   const jobMeta = fallbackArticle ? null : jobResolution.job;
   if (jobMeta) {
     const siteUrl = 'https://hashtagweb3.com';
     const { getJobSlug } = await import('@/lib/job-slugs');
@@ -332,16 +334,18 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
 
 export default async function ArticlePage({ params }: ArticlePageProps) {
   const event = await getEventBySlug(params.slug);
+  let fallbackArticle: Awaited<ReturnType<typeof getArticle>>;
 
   if (!event) {
   // Check if it's a job (root-level: /trader, /bd).
-  // Retired slugs whose posting is still live elsewhere 308 to the live
-  // canonical instead of serving stale copies or 404ing.
-  const resolved = await resolveJobSlug(params.slug);
-  if (resolved.kind === 'moved' && resolved.canonicalSlug) {
-    permanentRedirect(`/${resolved.canonicalSlug}`);
-  }
-  const job = resolved.job;
+   // Retired slugs whose posting is still live elsewhere 308 to the live
+   // canonical instead of serving stale copies or 404ing.
+   const resolved = await resolveJobSlug(params.slug);
+   fallbackArticle = resolved.kind === 'fallback' ? await getArticle(params.slug) : undefined;
+   if (resolved.kind === 'moved' && resolved.canonicalSlug) {
+     permanentRedirect(`/${resolved.canonicalSlug}`);
+   }
+   const job = fallbackArticle ? null : resolved.job;
   if (job) {
     const siteUrl = 'https://hashtagweb3.com';
     const companySlug = getCompanySlug(job.company);
@@ -684,7 +688,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
  }
  
  // Fall back to article
- const article = await getArticle(params.slug);
+  const article = fallbackArticle || await getArticle(params.slug);
  const allArticles = await getAllArticles();
 
  if (!article) {

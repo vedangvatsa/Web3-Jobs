@@ -17,7 +17,7 @@
   },
   "scripts": {
     "dev": "next dev",
-    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/check-slug-collisions.ts && npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true && npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true && npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true",
+    "prebuild": "npx tsx scripts/test-middleware.ts && npx tsx scripts/check-slug-collisions.ts && (npx tsx scripts/stamp-article-dates.ts 2>/dev/null || true) && (npx tsx scripts/generate-latest-articles.ts 2>/dev/null || true) && (npx tsx scripts/generate-sitemap-json.ts 2>/dev/null || true)",
     "test:middleware": "npx tsx scripts/test-middleware.ts",
     "check:collisions": "npx tsx scripts/check-slug-collisions.ts",
     "ingest:all": "npx tsx scripts/ingest-all.ts",

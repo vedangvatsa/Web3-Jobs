@@ -16,9 +16,9 @@ Perpetual futures, often shortened to perps, are derivatives without a set expir
 
 That setting creates a timing difference. A Tesla or Nvidia perpetual contract operating all day, every day could trade while Nasdaq-listed shares are closed overnight, on weekends, or during a market halt. CoinDesk described that as a market in which a perp price could move before the underlying share market reopens. It did not report a proposed price-source methodology, a funding-payment schedule, a position-exposure limit, a settlement rule, or the operating procedures Kalshi would use when the stock market is closed.
 
-![Kalshi logo](https://upload.wikimedia.org/wikipedia/commons/b/b8/Kalshi-logo-2026.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+![New York Stock Exchange building](https://upload.wikimedia.org/wikipedia/commons/8/84/NEW_YORK_STOCK_EXCHANGE_20240521.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
 
-*Kalshi logo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Kalshi-logo-2026.svg).*
+*The New York Stock Exchange building, illustrating the U.S.-listed equity markets that the proposed perpetual contracts would reference. Image via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:NEW_YORK_STOCK_EXCHANGE_20240521.jpg).*
 
 ## The reported proposal is not an approval
 
