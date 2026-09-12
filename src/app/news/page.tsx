@@ -5,6 +5,7 @@ import type { Metadata } from 'next';
 import type { WebPage, WithContext } from 'schema-dts';
 import { PageHeader } from "@/components/page-header";
 import { PageShell } from '@/components/page-shell';
+import { CommunityFeedBanner } from '@/components/community-feed-banner';
 
 export const revalidate = 300; // Revalidate every 5 minutes (ISR)
 
@@ -73,6 +74,14 @@ export default async function NewsPage() {
         <main className="flex-1">
       <PageShell>
         <PageHeader title="Web3 News" />
+        <CommunityFeedBanner
+          href="https://t.me/web3newsfeed"
+          text={
+            <>
+              Join our news feed with <strong className="text-foreground">11,000+</strong> subscribers.
+            </>
+          }
+        />
        <NewsPageClient initialNewsItems={newsItems} />
      </PageShell>
     </main>
