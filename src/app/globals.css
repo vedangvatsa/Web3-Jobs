@@ -141,7 +141,6 @@ body {
   }
 
   .article-prose blockquote p {
-    font-family: 'Georgia', 'Times New Roman', serif;
     font-size: 1.125rem !important;
     line-height: 1.7 !important;
     color: hsl(var(--foreground) / 0.9) !important;
