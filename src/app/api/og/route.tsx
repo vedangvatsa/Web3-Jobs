@@ -655,10 +655,103 @@ export async function GET(request: NextRequest) {
       );
     }
 
+    // 3.5. Events page aggregate template
+    if (type === 'events') {
+      const displayTitle = title || 'Web3 Events Calendar 2026';
+      const eventCount = count || '3,000';
+
+      return new ImageResponse(
+        (
+          <div
+            style={{
+              ...baseContainerStyle,
+              flexDirection: 'column',
+              alignItems: 'center',
+              justifyContent: 'center',
+              padding: '40px',
+            }}
+          >
+            <div
+              style={{
+                ...baseCardStyle,
+                width: '1040px',
+                padding: '60px',
+                alignItems: 'center',
+                textAlign: 'center',
+              }}
+            >
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  gap: '12px',
+                  marginBottom: '20px',
+                  padding: '8px 24px',
+                  backgroundColor: '#f0f9ff',
+                  border: '1px solid #bae6fd',
+                  borderRadius: '999px',
+                  fontSize: '20px',
+                  color: '#0284c7',
+                  fontWeight: '700',
+                  letterSpacing: '0.5px',
+                }}
+              >
+                HASHTAG WEB3
+              </div>
+              <div
+                style={{
+                  fontSize: '80px',
+                  fontWeight: '800',
+                  color: '#0284c7',
+                  marginBottom: '4px',
+                  letterSpacing: '-2px',
+                }}
+              >
+                {eventCount}+
+              </div>
+              <div
+                style={{
+                  display: 'flex',
+                  fontSize: '52px',
+                  fontWeight: '800',
+                  color: '#0f172a',
+                  marginBottom: '16px',
+                  textAlign: 'center',
+                  letterSpacing: '-1px',
+                }}
+              >
+                {displayTitle}
+              </div>
+              <div
+                style={{
+                  display: 'flex',
+                  fontSize: '24px',
+                  color: '#64748b',
+                  textAlign: 'center',
+                  fontWeight: '500',
+                }}
+              >
+                Crypto Conferences • Blockchain Summits • Builder Meetups • {date}
+              </div>
+            </div>
+          </div>
+        ),
+        {
+          width: 1200,
+          height: 630,
+          headers: {
+            'Cache-Control': 'public, max-age=86400, s-maxage=604800, stale-while-revalidate=86400',
+          },
+        }
+      );
+    }
+
+
     // 4. Article template (Split card style inspired by cvin.bio/blog)
     if (type === 'article') {
       const displayTitle = title.length > 80 ? `${title.slice(0, 77)}...` : title;
       const displayCategory = (category || 'Web3 & AI Insights').toUpperCase();
+      const contentLabel = category === 'News' ? 'NEWS' : 'PLAYBOOK';
 
       return new ImageResponse(
         (
@@ -838,7 +931,7 @@ export async function GET(request: NextRequest) {
                       textTransform: 'uppercase',
                     }}
                   >
-                    PLAYBOOK
+                    {contentLabel}
                   </div>
                 </div>
               </div>

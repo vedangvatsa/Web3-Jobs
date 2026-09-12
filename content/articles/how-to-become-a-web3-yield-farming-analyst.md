@@ -8,7 +8,7 @@ description: >-
   in.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Decentralized finance, or [DeFi](/what-is-defi), has transformed traditional financial systems by introducing mechanisms such as [yield farming](/what-is-yield-farming). As the complexity of these protocols increases, the Yield Farming Analyst has emerged to turn a moving set of inputs into a defensible view of risk and return. A displayed yield may be based on trading fees, lending interest, token rewards, or a combination of them. It may also depend on a market condition that changes while an investor is deciding whether to use the strategy.

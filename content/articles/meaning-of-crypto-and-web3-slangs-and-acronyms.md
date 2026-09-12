@@ -7,7 +7,7 @@ description: >-
   and developer slang, acronyms, and terminology for engineers and investors.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 Entering the world of [Web3](/what-is-web3), cryptocurrency, and decentralized finance can initially feel like learning an entirely new language. The Web3 community relies on a dense, rapidly evolving lexicon composed of technical computer science acronyms, financial trading terminology, game theory concepts, and internet-native meme slang born on Crypto Twitter, Discord servers, and Telegram developer groups.

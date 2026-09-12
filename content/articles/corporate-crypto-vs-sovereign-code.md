@@ -5,7 +5,7 @@ description: >-
   crypto infrastructure and sovereign open-source protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: corporate-crypto-vs-sovereign-code
 ---
 

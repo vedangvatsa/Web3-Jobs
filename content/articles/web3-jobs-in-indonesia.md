@@ -11,7 +11,7 @@ description: >-
   benchmarks, and mobile-first engineering careers.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 Indonesia has established itself as an indispensable powerhouse in Southeast Asia's rapidly expanding [Web3](/what-is-web3) economy. Home to over 275 million people - with more than 50% under the age of 30 - the archipelago nation combines a mobile-first digital population with extraordinary cryptocurrency adoption rates. Consistently ranking among the top global markets in Chainalysis crypto adoption indexes, Indonesia represents a fertile ecosystem where centralized exchanges, decentralized finance protocols, Web3 gaming guilds, and infrastructure providers compete for specialized engineering, product, and growth talent.

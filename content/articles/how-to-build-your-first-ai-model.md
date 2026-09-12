@@ -7,7 +7,7 @@ description: >-
   project.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Building a first AI model can appear more difficult than it is. Modern tools make it possible for someone with basic programming skills to create a functional machine learning model within a few hours. The important qualification is scope: a first model should answer one narrow question with data that can be inspected, not make a broad claim about a complicated real-world system.
 

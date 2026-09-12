@@ -8,7 +8,7 @@ description: >-
   proposed.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The field of **[NFTs](/what-are-nfts)** has primarily focused on transferability. An NFT's value is often connected to its ability to be bought and sold in an open market. That property is useful when an asset is meant to change hands. It becomes harder to justify when the asset is supposed to stand for a person's own achievement, affiliation, or history.
 

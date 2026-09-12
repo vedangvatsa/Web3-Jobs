@@ -7,7 +7,7 @@ description: >-
 data-ai-hint: two doors
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1556761175-b413da4baf72?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QWdlbmN5JTIwdnMlMjAtSG91c2UlMjBDYXJlZXJzJTIwV2ViMyUyMENhcmVlcnxlbnwxfDB8fHwxNzg5MTM3NTU0fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---

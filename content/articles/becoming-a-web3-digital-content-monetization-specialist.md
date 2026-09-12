@@ -7,7 +7,7 @@ description: >-
   specialists are helping creators use NFTs, social tokens, and other crypto.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The creator economy is changing as [Web3](/what-is-web3) gives creators another way to think about ownership, audience relationships, and revenue. For years, artists, writers, musicians, and podcasters have depended on centralized platforms such as YouTube, Instagram, and Spotify. Those platforms often take large shares of creators' earnings while controlling audience engagement. A creator may have a substantial following inside a platform and still have limited control over the terms on which that relationship is monetized or reached.
 

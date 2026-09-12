@@ -8,7 +8,7 @@ description: >-
   eligibility.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 In [Web3](/what-is-web3), a snapshot is a record of the complete state of a [blockchain](/what-is-a-blockchain) at a specific moment, identified by a block height. The selected block gives a project a precise historical reference. That record can then be used as the authoritative basis for an airdrop, a governance vote, or another decision that depends on what was true on the chain at that point.
 

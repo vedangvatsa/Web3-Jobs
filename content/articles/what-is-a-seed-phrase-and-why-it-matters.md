@@ -7,7 +7,7 @@ description: >-
   what it is, how it works, and the critical importance of keeping it secure.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 ## What a Seed Phrase Controls

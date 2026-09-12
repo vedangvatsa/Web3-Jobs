@@ -7,7 +7,7 @@ description: >-
   control, oracle assumptions, low-level calls, and a review-first workflow.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 A smart contract can be correct on the path its author expected and still be unsafe when another contract, a malicious caller, an unusual token, or an unexpected price reaches it. That is the central security problem in [Web3](/what-is-web3): contracts often hold assets, expose public functions, and execute in an environment where callers can compose behavior in ways the original author did not plan.

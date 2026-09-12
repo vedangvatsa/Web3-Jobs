@@ -6,7 +6,7 @@ description: >-
   wallet sign-in, trust decisions, privacy risks, and where these systems fit.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Decentralized identity is a set of technical patterns for proving control of an identifier or presenting a signed claim without making one company the permanent operator of every interaction. It is not a single product, a universal ID card, or proof that a person is who they say they are. Those distinctions matter. A signed message can prove control of a key. A credential can show that an issuer made a claim. Neither fact automatically proves a legal name, a reputation, or eligibility for a particular service.

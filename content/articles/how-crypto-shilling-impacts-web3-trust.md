@@ -7,7 +7,7 @@ description: >-
   trust. Learn how undisclosed promotions and hype cycles undermine the.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The [Web3](/what-is-web3) sector aims to create a "trustless" environment, relying on transparent code instead of human intermediaries. Its social layer can still succumb to misinformation, hype, and the practice known as **shilling**. That conflict matters because a system designed to reduce reliance on an intermediary does not automatically remove the need to judge what another person is saying, why they are saying it, or whether a material incentive has been disclosed.
 

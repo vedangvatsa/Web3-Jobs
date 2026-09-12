@@ -6,7 +6,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: account-abstraction-explained
 image: >-
   https://images.unsplash.com/photo-1775994121020-86426451f8bf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QWNjb3VudCUyMEFic3RyYWN0aW9uJTIwRUlQLTQzMzclMjBUZWNobm9sb2d5fGVufDF8MHx8fDE3ODkxMzc1NTN8MA&ixlib=rb-4.1.0&q=80&w=1080

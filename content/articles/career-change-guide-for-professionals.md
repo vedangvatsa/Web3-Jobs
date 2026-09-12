@@ -6,7 +6,7 @@ description: >-
   transferable experience, and making a deliberate career change.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1573496130141-209d200cebd8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8Q2FyZWVyJTIwQ2hhbmdlJTIwUHJvZmVzc2lvbmFscyUyMENhcmVlcnxlbnwxfDB8fHwxNzg5MTM3NTY1fDA&ixlib=rb-4.1.0&q=80&w=1080
 ---

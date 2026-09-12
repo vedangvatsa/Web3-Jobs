@@ -8,7 +8,7 @@ description: >-
   agreements, and tokenomics.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 In traditional corporate equity structures, executive stock options and employee equity grants are governed by standard vesting schedules designed to align employee incentives with long-term company performance. In the [Web3](/what-is-web3) ecosystem, equity has largely been complemented or replaced by native digital [tokens](/what-is-a-token). However, because digital tokens operate on public blockchain networks and can be traded on secondary markets 24 hours a day, token vesting mechanisms require even more rigorous design than traditional corporate equity.

@@ -7,7 +7,7 @@ description: >-
   and why fees, price exposure, and smart-contract risk matter more than a headline APY.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Yield farming means placing crypto assets into a DeFi protocol in exchange for a return. The return may come from trading fees, borrowing interest, protocol-issued tokens, or a combination of those sources. The word "farming" can make the activity sound automatic. It rarely is. A yield position has moving prices, contract rules, transaction costs, and, in many cases, a reward paid in a volatile token.

@@ -6,7 +6,7 @@ description: >-
   examples that fit Web3 roles without sounding memorized.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 An interview is easier to prepare for once you stop treating it as a test of perfect wording. The interviewer is trying to understand how you work, what you have done, how you make decisions, and whether you understand the role you applied for. You do not need a speech for every possible question. You need a small set of true stories, a clear view of the job, and enough practice to speak without reading from a script.

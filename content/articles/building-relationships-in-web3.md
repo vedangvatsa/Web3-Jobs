@@ -5,7 +5,7 @@ description: >-
   from networking strategies to maintaining long-term connections that support.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 A connection is someone who recognizes your name. A professional relationship is someone who has enough experience with your work to know when to ask you for help, tell you when you are wrong, or trust you with a difficult task. Web3 has plenty of places to make connections. Durable relationships take more than appearing in the same Discord server, holding the same token, or exchanging a few messages during a conference.

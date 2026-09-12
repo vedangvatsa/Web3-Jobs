@@ -5,7 +5,7 @@ data-ai-hint: sidechains vs layer 2 rollups blockchain security
 description: An empirical comparative thesis examining the structural, cryptographic, and economic differences between sovereign sidechains and inherited Layer 2 rollups, focusing on bridge security, consensus models, and failure modes.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 slug: sidechains-vs-layer-2s
 ---
 

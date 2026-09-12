@@ -8,7 +8,7 @@ description: >-
   this.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 A [blockchain](/what-is-a-blockchain) is a decentralized ledger for recording transactions, but the record is useful only if network participants can agree on what belongs in it. That agreement is not a single check performed by one server. A transaction moves through a sequence of creation, signature verification, broadcast, selection for a block, block validation, and confirmation. Each stage addresses a different question: who authorized this transaction, is it valid under the network's rules, and has the network accepted it into the shared ledger?
 

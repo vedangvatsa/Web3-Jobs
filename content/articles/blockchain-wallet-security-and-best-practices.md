@@ -7,7 +7,7 @@ description: >-
   the habits that reduce avoidable crypto losses.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Wallet security starts with a fact that is easy to miss: a crypto wallet does not hold coins in the way a leather wallet holds cash. A blockchain records balances and contract state. The wallet holds, or helps use, the credentials that authorize changes to that record.

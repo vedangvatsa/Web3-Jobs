@@ -8,7 +8,7 @@ description: >-
   testing edge cases, and documenting decisions a reviewer can verify.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 After an initial call for a [Web3](/what-is-web3) developer role, a company may ask for a take-home assignment. The task can be a small contract, a frontend that talks to an existing contract, a code review, or a tightly scoped product exercise. Its value is not that it recreates a full job. It gives the reviewer something more concrete than a resume or a short technical conversation.

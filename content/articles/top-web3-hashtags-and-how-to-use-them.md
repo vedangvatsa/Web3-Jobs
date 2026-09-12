@@ -7,7 +7,7 @@ description: >-
   apply a simple framework for relevant, community-aware social posts.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Social media is an important channel for brand development, community engagement, and influence in [Web3](/what-is-web3). X, formerly Twitter, is one of the places where these conversations take place. A hashtag can help a post enter a topic stream, but it cannot make an unrelated post useful. The useful part of a **[Web3 marketing strategy](/web3-marketing)** is the match between the post, the people likely to read it, and the tag used to describe it.
 

@@ -11,7 +11,7 @@ description: >-
   engineering.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 In blockchain protocol engineering, **block time** defines the target time interval required for validating nodes to collect unconfirmed mempool transactions, construct a valid block header, execute state transitions, and achieve consensus across a peer-to-peer network.

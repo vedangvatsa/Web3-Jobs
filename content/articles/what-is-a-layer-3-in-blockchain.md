@@ -8,7 +8,7 @@ description: >-
   rollups, and multi-tier settlement hierarchies.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: what-is-a-layer-3-in-blockchain
 ---
 

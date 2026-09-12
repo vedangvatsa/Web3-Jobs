@@ -7,7 +7,7 @@ description: >-
   capital by issuing tokens that represent a financial security. This guide.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 A **Security [Token](/what-is-a-token) Offering (STO)** is a fundraising process in which a company raises capital by issuing cryptographic tokens on a [blockchain](/what-is-a-blockchain) that qualify as a security. The distinction is central to the offering, not a naming choice. An STO moves blockchain fundraising away from the less regulated Initial Coin Offering model and toward a structured process organized around compliance.
 

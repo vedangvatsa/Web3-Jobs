@@ -8,7 +8,7 @@ image: /images/christina-wocintechchat-com-glRqyWJgUeY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: people discussing chart
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 ## Fractional Equity and Liquidity: How Tokenization Restructures Real Estate
 

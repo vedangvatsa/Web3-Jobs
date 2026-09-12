@@ -7,7 +7,7 @@ description: >-
   asset settlement, identity evidence, and financial-services roles.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Banking already runs on ledgers. The difficult part is that a single payment, security trade, or shipment can cross ledgers owned by different banks, custodians, payment systems, and companies. Each party receives messages, updates its own records, checks the others' records, and waits for the legal and operational conditions for settlement. The [Bank for International Settlements](https://www.bis.org/publ/arpdf/ar2023e3.htm) describes those separate databases and back-and-forth messaging steps as a source of reconciliation work, delay, and incomplete visibility. [Blockchain](/what-is-a-blockchain) does not remove every intermediary from that process. It can give defined participants one shared record of a transaction state and a shared rule set for changing it.

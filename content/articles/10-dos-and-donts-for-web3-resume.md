@@ -7,7 +7,7 @@ description: >-
   quantify real outcomes, and cut claims a hiring team cannot check.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 A Web3 resume has an unusually useful advantage: some work can be inspected. A recruiter or hiring manager can open a repository, a block explorer, a governance forum, a design file, a published analysis, or a live product. Use that advantage. Do not replace it with claims about being passionate, early, or native to an ecosystem.

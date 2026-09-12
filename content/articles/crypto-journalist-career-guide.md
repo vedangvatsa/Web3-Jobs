@@ -7,7 +7,7 @@ description: >-
   source discipline, a credible portfolio, and clear editorial boundaries.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Crypto journalism is not a job for someone who wants to repeat announcements more quickly than everyone else. It is reporting on money, software, companies, public networks, politics, and people whose incentives may be hard to see. The beat rewards curiosity about technical detail, but the core skill is still journalism: find out what happened, verify it, describe what is known, and make clear what remains unproved.

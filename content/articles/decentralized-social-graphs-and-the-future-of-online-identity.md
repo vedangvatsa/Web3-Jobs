@@ -7,7 +7,7 @@ description: >-
   storage, and moderation, with Farcaster, Lens, and AT Protocol examples.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 A social graph is the record of relationships and activity that makes a social product useful. It can include an account profile, follows, posts, replies, reactions, blocks, groups, lists, and reputation signals. In a conventional social network, one company usually controls the account system, data store, ranking, moderation tools, developer API, and client application. Leaving that company may mean leaving the audience and history built there.

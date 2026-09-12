@@ -7,7 +7,7 @@ description: >-
   moving from a surveillance-based model to one centered on user privacy.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Digital advertising functions as the backbone of the Web2 internet and is heavily influenced by major players such as Google and Meta. The sector generates billions in revenue through a model that relies on surveillance. Companies provide "free" services in exchange for the ability to track behavior, compile data profiles, and sell attention to advertisers. The rise of [Web3](/what-is-web3) challenges that arrangement by promoting user ownership, privacy, and decentralization.
 

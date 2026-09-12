@@ -8,7 +8,7 @@ description: >-
   subgraphs.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 ![Web3 NFT Marketplace System Architecture](/images/articles/charts/nft-marketplace-architecture.svg)

@@ -6,7 +6,7 @@ description: >-
 category: Career Guides
 data-ai-hint: asking questions
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1562141989-a764b5668046?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QXNrJTIwU21hcnQlMjBRdWVzdGlvbnMlMjBhcyUyME5ldyUyMEVtcGxveWVlJTIwQ2FyZWVyfGVufDF8MHx8fDE3ODkxMzc1NTh8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---

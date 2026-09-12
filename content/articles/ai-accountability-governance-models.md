@@ -7,7 +7,7 @@ description: >-
 category: Industry Insights
 data-ai-hint: ai governance
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 An AI system becomes accountable when a specific person or body can answer four plain questions: who approved this use, what evidence supported that approval, who can stop it, and what happens after a harmful result. A model card, a risk register, and an executive sign-off may answer part of that chain. They do not, on their own, make the decision process visible to people outside the organization or bind an approver to a later response.

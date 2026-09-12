@@ -7,7 +7,7 @@ description: >-
   and contract data without mistaking an explorer for a wallet or a guarantee.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 A blockchain explorer is a search and display interface for public chain data. It lets you look up a transaction hash, address, block, contract, token, or event log and turn raw chain data into a page a person can read. It does not hold your private key, recover funds, reverse a transfer, or decide whether a project is trustworthy. Start with that boundary and an explorer becomes a reliable debugging and verification tool.

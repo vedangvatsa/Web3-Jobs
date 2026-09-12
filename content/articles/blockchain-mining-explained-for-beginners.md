@@ -7,7 +7,7 @@ description: >-
   targets, pools, rewards, and the limits of a majority-hashrate attack.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Mining is how a proof-of-work network proposes blocks and makes its history expensive to rewrite. It is not the process of discovering coins hidden in a computer. On a network such as [Bitcoin](/what-is-bitcoin), miners compete to publish a block whose header satisfies a difficulty rule. The accepted block can include valid transactions, and the winning miner may claim the block subsidy and the transaction fees assigned by the protocol.

@@ -7,7 +7,7 @@ description: >-
   economics, creator math, and retention metrics.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 Launching in [Web3](/what-is-web3) punishes teams that copy Web2 playbooks. Paid ads and sales funnels fight the culture instead of using it. The numbers explain why this matters: [about 20,000 crypto](https://www.blockchainappfactory.com/blog/crypto-content-marketing-strategy-how-to-build-web3-authority/) projects compete while roughly 70% shut down within two years, and [85%](https://www.ment.tech/blog/web3-marketing-strategy/) of projects lose their community after the token generation event. [DappRadar](https://www.ment.tech/blog/web3-marketing-strategy/) counted 2.3 million daily unique active wallets in 2024, so the audience exists. Keeping it is the hard part.
 

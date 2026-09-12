@@ -8,7 +8,7 @@ description: >-
   coordination frameworks.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 The model of artificial intelligence software design is undergoing a fundamental transformation. For decades, software applications operated under deterministic, rule-based instructions where developers explicitly programmed every logical branch, API request, and state mutation.

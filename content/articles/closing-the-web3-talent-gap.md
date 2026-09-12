@@ -7,7 +7,7 @@ description: >-
   professionals outpaces supply and what the industry can do to close the gap.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Web3 teams often say that hiring is hard. The phrase can hide several different problems. A protocol may need an engineer who can work safely with smart contracts. A startup may need a product manager who can turn unfamiliar technical constraints into sensible product choices. A DAO may need someone who can run grants, governance processes, contributor payments, or community operations with clear ownership. A candidate may have strong experience in a related field but no public proof that they understand the specific environment.

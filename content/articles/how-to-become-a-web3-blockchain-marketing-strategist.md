@@ -8,7 +8,7 @@ description: >-
   strategist.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Marketing in [Web3](/what-is-web3) fundamentally differs from traditional Web2 marketing. The conventional strategies focused on paid advertisements and search engine optimization are giving way to approaches centered around community engagement, authentic storytelling, and a strong understanding of crypto culture. That does not make paid distribution, search, or conventional brand work useless. It changes the order of operations. A project that asks people to use, govern, or help sustain a protocol has to earn attention before it can expect action. Its public communication is often part product education, part customer support, and part evidence that the team understands its own users.

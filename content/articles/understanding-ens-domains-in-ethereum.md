@@ -8,7 +8,7 @@ description: >-
   it's.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 In Ethereum, a public wallet address represents a user's identity and functions as the identifier through which a person or organization receives assets and interacts with applications. That identifier is a long hexadecimal string, such as `0xd8dA6BF26964aF9D7eEd9e03E53415D37aA96045`. While this format enhances security, it is not designed for a human being to remember, repeat aloud, or enter without mistakes. The distance between a readable name and an address is therefore not cosmetic. It is a practical usability problem at the point where a user must decide where a transaction goes.
 

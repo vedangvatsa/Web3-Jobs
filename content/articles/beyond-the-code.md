@@ -7,7 +7,7 @@ description: >-
   product, design, and operations, with a focus on public proof of work.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Web3 products need people who can explain an action before a user signs it, turn a vague community request into a product decision, organize a treasury process, test whether an interface makes sense, and write an incident update that does not overstate the facts. None of those jobs requires writing Solidity. All require enough technical judgment to understand what users are being asked to do.

@@ -8,7 +8,7 @@ description: >-
   verification, interchain accounts, and sovereign app-chain topology.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: cosmos-blockchain-and-inter-blockchain-communication
 ---
 

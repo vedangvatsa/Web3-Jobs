@@ -5,7 +5,7 @@ image: /api/og?type=article&title=SEC%20Proposal%20Sets%20Conditions%20for%20Blo
 category: News
 data-ai-hint: transfer agent blockchain records
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 The Securities and Exchange Commission has proposed revised rules for registered transfer agents that would require the official list of an issuer's individual securityholder accounts to be kept electronically and allow that file to consist of multiple linked files or systems. The proposal does not prescribe a blockchain, but it is written to cover distributed-ledger recordkeeping and asks transfer agents to disclose when they use that technology for a master securityholder file. The SEC published the proposal in the Federal Register on Sept. 4; comments are due by Nov. 3 under [Release No. 34-106246](https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf).

@@ -7,7 +7,7 @@ description: >-
   the limits that matter when deciding whether to use one.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 A blockchain is a record that many independent computers keep in sync. It can record transfers of a cryptocurrency, but money is only one use. The harder problem it addresses is how people who do not trust one operator can still agree on the current state of a shared record.

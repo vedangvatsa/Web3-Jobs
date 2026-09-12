@@ -7,7 +7,7 @@ description: >-
   Currency (CBDC) works and how it fundamentally differs from decentralized.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 Digital money is often treated as a single category, but the institutions behind it matter as much as the software used to move it. One path is represented by decentralized cryptocurrencies such as [Bitcoin](/what-is-bitcoin) and [Ethereum](/what-is-ethereum). Another is represented by Central Bank Digital Currencies, or CBDCs. China's Digital Yuan, commonly called e-CNY, is one of the most advanced CBDC projects globally.
 

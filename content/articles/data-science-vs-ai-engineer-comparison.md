@@ -6,7 +6,7 @@ description: >-
   technical depth, and the portfolio evidence each role needs.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Data scientist and AI engineer are overlapping job titles, not fixed boxes. A small company may expect one person to query data, train a model, build an API, and explain results to customers. A larger company may split that work among analysts, data engineers, research scientists, machine-learning engineers, platform engineers, and product teams. Read the responsibilities before trusting the title.

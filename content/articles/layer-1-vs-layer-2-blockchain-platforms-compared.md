@@ -8,7 +8,7 @@ description: >-
   availability, proof verification, and economic throughput.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: layer-1-vs-layer-2-blockchain-platforms-compared
 ---
 

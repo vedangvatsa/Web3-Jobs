@@ -7,7 +7,7 @@ description: >-
   together, and how to build a portfolio based on reproducible evidence.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Web3 quality assurance is not a lighter version of web testing with a wallet pop-up added. A decentralized application can combine an on-chain state machine, a wallet, a transaction relay, an indexer, an API, a frontend, and contracts owned by other teams. A defect in any layer can make a user lose money, sign the wrong request, see stale data, or believe a transaction succeeded when it did not.

@@ -8,7 +8,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: team collaboration meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 
 Most work that looks like one team's job is shared work in disguise. A new onboarding flow may need product to define the problem, design to make it usable, engineering to build it, legal to review claims, support to prepare for questions, and marketing to explain it. Each group can do competent work and the launch can still go badly if their decisions do not line up.

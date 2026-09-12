@@ -7,7 +7,7 @@ description: >-
   Web3 protocol partnerships.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 ---
 
 Business development in [Web3](/what-is-web3) is not a contest to collect logo announcements. The job is to find a concrete way that two products can work together, make the work possible inside both organizations, and prove whether users use it. A partnership that never reaches an integration, a campaign, or a measurable user action is a conversation, not a result.

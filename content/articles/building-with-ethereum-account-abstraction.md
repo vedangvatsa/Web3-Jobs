@@ -8,7 +8,7 @@ description: >-
 category: Technology Deep Dives
 data-ai-hint: blockchain ethereum
 publishedDate: '2026-03-11'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 image: >-
   https://images.unsplash.com/photo-1642104704074-907c0698cbd9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVpbGRpbmclMjB3aXRoJTIwRXRoZXJldW0lMjBBY2NvdW50JTIwQWJzdHJhY3Rpb24lMjBUZWNobm9sb2d5fGVufDF8MHx8fDE3ODkxMzc1NjR8MA&ixlib=rb-4.1.0&q=80&w=1080
 ---

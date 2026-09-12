@@ -7,7 +7,7 @@ description: >-
   technology. Learn why building on a decentralized system offers advantages in.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The essential principle of **[blockchain technology](/what-is-a-blockchain)** is decentralization. It distinguishes a blockchain from a traditional centralized database and is central to the **[Web3](/what-is-web3)** movement. The term is often used as shorthand for independence, security, and user control. Those associations can be useful, but they are incomplete unless the system's actual distribution of authority is clear.
 

@@ -5,7 +5,7 @@ description: >-
   source code as speech, and zero-knowledge privacy protocols.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: '2026-09-08'
+lastUpdated: "2026-09-12"
 slug: the-crypto-wars
 ---
 

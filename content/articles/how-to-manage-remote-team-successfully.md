@@ -9,7 +9,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: remote team meeting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-08"
+lastUpdated: "2026-09-12"
 ---
 The shift to [remote work](/remote-work-in-web3) changed how organizations operate. It can expand access to a diverse talent pool and increase flexibility, but it also removes many of the routines that make an office easy to manage by habit. Remote leadership therefore requires an adapted approach rather than a digital imitation of the office.
 
