@@ -560,6 +560,9 @@
   "https://techcrunch.com/2026/09/10/indias-pocket-fm-doubles-revenue-run-rate-to-500m-as-ai-powers-93-of-audio-content/",
   "https://arstechnica.com/science/2026/09/googles-ai-weather-model-now-uses-more-raw-satellite-data/",
   "https://techcrunch.com/2026/09/10/metas-ai-agent-muse-is-now-the-no-2-app-in-the-us/",
+  "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
+  "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
+  "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1463,6 +1466,12 @@
   "Update to Google’s AI weather model improves forecast accuracy",
   "Meta AI agent app Muse reaches second place in US",
   "Meta’s AI agent Muse is now the No. 2 app in the US",
+  "Power grid fault disconnects three gigawatts from data center cluster",
+  "Powering AI is an architecture problem",
+  "Garry Tan urges US labs to distill frontier AI models",
+  "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
+  "Mathematicians Sign Letter Warning Against AI Lab Practices",
+  "OpenAI’s feud with mathematicians is only escalating",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1540,5 +1549,8 @@
   "fp:anthropic|design|developer|external|ipo|maintain|offer|oversight|plann|powerful",
   "fp:500m|audio|content|costs80|doubl|fold|generat|india|over90|percent",
   "fp:accuracy|data|deliver|expand|forecast|googl|improv|incorporat|input|meteorological",
-  "fp:achiev|agent|app|application|download|highest|market|meta|mobil|mus"
+  "fp:achiev|agent|app|application|download|highest|market|meta|mobil|mus",
+  "fp:architectur|center|cluster|data|disconnect|dozen|dropp|facility|failur|fault",
+  "fp:advocat|american|chines|combinator|competition|counter|distill|frontier|garry|lab",
+  "fp:against|argu|contribution|developer|escalat|feud|fiv|intellectual|lab|letter"
 ]
