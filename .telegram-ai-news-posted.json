@@ -563,6 +563,9 @@
   "https://www.technologyreview.com/2026/09/10/1141649/powering-ai-is-an-architecture-problem/",
   "https://techcrunch.com/2026/09/11/y-combinators-garry-tan-wants-u-s-open-weight-ai-labs-to-distill-frontier-models-too/",
   "https://techcrunch.com/2026/09/11/openais-feud-with-mathematicians-is-only-escalating/",
+  "https://techcrunch.com/2026/09/11/kimi-maker-moonshot-ai-targets-2-billion-in-annual-revenue/",
+  "https://techcrunch.com/podcast/an-anthropic-researchers-doomsday-warning-comes-at-a-very-interesting-time/",
+  "https://arstechnica.com/gadgets/2026/09/i-spent-4000-on-a-robot-dog-from-china/",
   "Microsoft uses own AI models to cut costs.",
   "Microsoft joins AI cost-cutting trend by relying more on its own models",
   "SK Hynix plans US IPO on AI demand.",
@@ -1472,6 +1475,12 @@
   "Y Combinator’s Garry Tan wants US open-weight AI labs to ‘distill’ frontier models, too",
   "Mathematicians Sign Letter Warning Against AI Lab Practices",
   "OpenAI’s feud with mathematicians is only escalating",
+  "Moonshot AI projects 2 billion dollars in annual revenue",
+  "Kimi-maker Moonshot AI targets $2B in annual revenue",
+  "Anthropic researcher resigns citing urgent risk from self-improving models",
+  "An Anthropic researcher’s doomsday warning comes at a very interesting time",
+  "Chinese Company Unitree Sells Robot Dogs for $4,000",
+  "I spent $4,000 on a robot dog from China",
   "fp:announc|arriv|capability|deliver|enhanc|flash|gemini37|googl|languag|lightweight",
   "fp:anthropic|api|are|chines|competition|competitiv|cost|cut|developer|fac",
   "fp:500|affect|attack|attacker|breach|chain|compromis|credential|developer|exfiltrat",
@@ -1552,5 +1561,8 @@
   "fp:achiev|agent|app|application|download|highest|market|meta|mobil|mus",
   "fp:architectur|center|cluster|data|disconnect|dozen|dropp|facility|failur|fault",
   "fp:advocat|american|chines|combinator|competition|counter|distill|frontier|garry|lab",
-  "fp:against|argu|contribution|developer|escalat|feud|fiv|intellectual|lab|letter"
+  "fp:against|argu|contribution|developer|escalat|feud|fiv|intellectual|lab|letter",
+  "fp:300b|annual|chines|commercial|daily|developer|dollar|expand|generat|kimi",
+  "fp:alignment|anthropic|cit|com|depart|development|doomsday|improv|interest|lead",
+  "fp:000|capability|china|chines|consumer|dog|evaluat|manufacturer|quadrup|robot"
 ]

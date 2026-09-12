@@ -542,6 +542,9 @@
   "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
   "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
   "https://decrypt.co/378081/bitcoin-golden-cross-flickers-off",
+  "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
+  "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+  "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1534,6 +1537,12 @@
   "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
   "Rising Interest Rate Expectations Weaken Bitcoin Price Outlook",
   "Bitcoin Golden Cross Flickers Off as Rate-Hike Bets Firm Up",
+  "Citadel urges US securities regulator to oversee event contracts",
+  "Citadel urges SEC to assert oversight of event contracts tied to public firms",
+  "GlobalStake Executive Proposes Staked Ether as Crypto Benchmark",
+  "Staked ether should be seen as the benchmark of the decentralized economy",
+  "OpenAI ChatGPT Images 2.5 Compared to Google Nano Banana 2",
+  "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1626,5 +1635,8 @@
   "fp:alameda|austin|carolin|ceo|charity|chen|confirm|ellison|former|founder",
   "fp:activity|albuquerqu|atm|ban|city|concern|cryptocurrency|day|fiv|forty",
   "fp:amc|ceo|control|feud|get|issuer|not|product|public|right",
-  "fp:alter|bank|bet|central|chang|chart|cross|expectation|firm|flicker"
+  "fp:alter|bank|bet|central|chang|chart|cross|expectation|firm|flicker",
+  "fp:assert|citadel|commodity|contract|currently|equity|event|firm|handl|link",
+  "fp:argu|benchmark|decentraliz|distinct|economy|ether|executiv|generat|globalstak|haczynski",
+  "fp:against|banana2|better|category|compar|generator|googl|imag|images25|nano"
 ]

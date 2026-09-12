@@ -566,6 +566,9 @@
   "https://www.theblock.co/news/business/2026-09-10-moneygram-card-stablecoin-visa-colombia-414137",
   "https://decrypt.co/377939/albuquerque-bans-bitcoin-atms-giving-operators-45-days-to-remove-them",
   "https://www.coindesk.com/markets/2026/09/11/robinhood-ceo-says-companies-shouldn-t-get-veto-over-stock-tokens-in-amc-feud",
+  "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
+  "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+  "https://www.coindesk.com/tech/2026/09/12/bitcoin-activity-passports-exposed-after-revolut-falls-for-fake-government-request",
   "Kalshi targets $40 billion valuation in funding",
   "Kalshi targets a massive $40 billion valuation, widening lead over rival Polymarket",
   "Abracadabra acts as MIM stablecoin depegs",
@@ -1604,6 +1607,12 @@
   "Albuquerque Bans Bitcoin ATMs, Giving Operators 45 Days to Remove Them",
   "Robinhood CEO says companies cannot block stock-tracking tokens",
   "Robinhood CEO says companies shouldn't get veto over stock tokens in AMC feud",
+  "GlobalStake Executive Views Staked Ether as Economic Benchmark",
+  "Staked ether should be seen as the benchmark of the decentralized economy",
+  "Comparing OpenAI ChatGPT Images 2.5 and Google Nano Banana 2",
+  "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+  "Revolut exposes user data following fraudulent government data request",
+  "Bitcoin activity, passports exposed after Revolut falls for fake government request",
   "fp:accelerat|act|agency|aim|bank|enforc|federal|finaliz|genius|legislation",
   "fp:asset|content|creator|digital|discussion|elon|enabl|explor|hold|influencer",
   "fp:agent|blockchain|chain|chainlink|cheaper|creation|demand|driv|executiv|expand",
@@ -1702,5 +1711,8 @@
   "fp:appear|cyber|cyberattack|dark|document|doubl|firm|greenberg|hit|in2025",
   "fp:america|back|balanc|can|card|cardholder|colombia|digital|directly|dollar",
   "fp:albuquerqu|all|atm|ban|city|concern|councilor|cryptocurrency|day|fiv",
-  "fp:amc|block|but|can|cannot|ceo|feud|get|issuer|manag"
+  "fp:amc|block|but|can|cannot|ceo|feud|get|issuer|manag",
+  "fp:argu|asset|benchmark|decentraliz|economic|economy|ether|executiv|generat|globalstak",
+  "fp:against|banana2|better|category|compar|distinct|edit|generator|googl|imag",
+  "fp:access|activity|address|breach|customer|data|dur|expos|fak|fall"
 ]
