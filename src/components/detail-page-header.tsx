@@ -13,6 +13,7 @@ export function DetailPageHeader({
   subtitle,
   metadata,
   actions,
+  mobileTitleInline = false,
 }: {
   breadcrumbs: Breadcrumb[];
   icon: ReactNode;
@@ -20,6 +21,7 @@ export function DetailPageHeader({
   subtitle?: ReactNode;
   metadata?: ReactNode;
   actions?: ReactNode;
+  mobileTitleInline?: boolean;
 }) {
   return (
     <>
@@ -36,11 +38,13 @@ export function DetailPageHeader({
 
       <header className="border-b pb-8">
         <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex h-16 w-16 shrink-0 items-center justify-center">{icon}</div>
-          <div className="min-w-0 flex-1">
-            <h1 className="break-words text-3xl font-bold tracking-tight sm:text-4xl">{title}</h1>
-            {subtitle && <div className="mt-2">{subtitle}</div>}
-            {metadata && <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">{metadata}</div>}
+          <div className={mobileTitleInline ? 'flex min-w-0 items-start gap-4 sm:contents' : 'contents'}>
+            <div className="flex h-16 w-16 shrink-0 items-center justify-center">{icon}</div>
+            <div className="min-w-0 flex-1">
+              <h1 className="break-words text-3xl font-bold tracking-tight sm:text-4xl">{title}</h1>
+              {subtitle && <div className="mt-2">{subtitle}</div>}
+              {metadata && <div className="mt-4 flex flex-wrap gap-x-5 gap-y-2 text-sm text-muted-foreground">{metadata}</div>}
+            </div>
           </div>
           {actions && <div className="flex w-full shrink-0 flex-wrap gap-2 sm:w-auto">{actions}</div>}
         </div>
