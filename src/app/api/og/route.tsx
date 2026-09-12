@@ -764,8 +764,16 @@ export async function GET(request: NextRequest) {
     // 4. Article template (Split card style inspired by cvin.bio/blog)
     // 4. Article template (Clean Editorial Card with Black Border, 75% Text / 25% Visual, Centered Domain)
     if (type === 'article') {
-      const displayTitle = title.length > 80 ? `${title.slice(0, 77)}...` : title;
-      const displaySubtitle = subtitle || (category ? `${category.toUpperCase()} UPDATE` : 'WEB3 & AI NEWS');
+      const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
+      const displaySubtitle = subtitle 
+        ? (subtitle.length > 120 ? `${subtitle.slice(0, 117)}...` : subtitle)
+        : '';
+
+      const titleFontSize = displayTitle.length > 50
+        ? '38px'
+        : displayTitle.length > 30
+        ? '44px'
+        : '52px';
 
       return new ImageResponse(
         (
@@ -803,7 +811,7 @@ export async function GET(request: NextRequest) {
                   alignItems: 'center',
                   justifyContent: 'space-between',
                   width: '100%',
-                  height: '400px',
+                  height: '380px',
                 }}
               >
                 {/* Left 75%: Headline & Subtitle Summary */}
@@ -812,48 +820,50 @@ export async function GET(request: NextRequest) {
                     display: 'flex',
                     flexDirection: 'column',
                     justifyContent: 'center',
-                    width: '73%',
-                    paddingRight: '36px',
+                    width: '70%',
+                    paddingRight: '40px',
                   }}
                 >
                   <div
                     style={{
                       display: 'flex',
-                      fontSize: displayTitle.length > 55 ? '44px' : displayTitle.length > 35 ? '52px' : '62px',
+                      fontSize: titleFontSize,
                       fontWeight: '900',
                       color: '#0f172a',
-                      lineHeight: '1.14',
-                      letterSpacing: '-2px',
-                      marginBottom: '24px',
+                      lineHeight: '1.16',
+                      letterSpacing: '-1.5px',
+                      marginBottom: displaySubtitle ? '18px' : '0px',
                     }}
                   >
                     {displayTitle}
                   </div>
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '24px',
-                      fontWeight: '500',
-                      color: '#475569',
-                      lineHeight: '1.4',
-                      maxWidth: '720px',
-                    }}
-                  >
-                    {displaySubtitle}
-                  </div>
+                  {displaySubtitle ? (
+                    <div
+                      style={{
+                        display: 'flex',
+                        fontSize: '20px',
+                        fontWeight: '500',
+                        color: '#475569',
+                        lineHeight: '1.4',
+                        maxWidth: '680px',
+                      }}
+                    >
+                      {displaySubtitle}
+                    </div>
+                  ) : null}
                 </div>
 
-                {/* Right 25%: Relevant Tech Visual / Badge Container */}
+                {/* Right 25%: Relevant Tech Visual Container (NO CATEGORY PILL) */}
                 <div
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    width: '25%',
+                    width: '28%',
                     height: '100%',
                     backgroundColor: '#f8fafc',
-                    borderRadius: '16px',
+                    borderRadius: '20px',
                     border: '1.5px solid #e2e8f0',
                     padding: '24px',
                     textAlign: 'center',
@@ -862,31 +872,18 @@ export async function GET(request: NextRequest) {
                   <div
                     style={{
                       display: 'flex',
-                      width: '72px',
-                      height: '72px',
-                      borderRadius: '18px',
+                      width: '84px',
+                      height: '84px',
+                      borderRadius: '22px',
                       backgroundColor: '#0f172a',
                       alignItems: 'center',
                       justifyContent: 'center',
-                      fontSize: '32px',
+                      fontSize: '36px',
                       fontWeight: '900',
                       color: '#ffffff',
-                      marginBottom: '16px',
                     }}
                   >
                     W3
-                  </div>
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '14px',
-                      fontWeight: '700',
-                      color: '#0284c7',
-                      letterSpacing: '1.5px',
-                      textTransform: 'uppercase',
-                    }}
-                  >
-                    {category || 'NEWS'}
                   </div>
                 </div>
               </div>
