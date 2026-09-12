@@ -1,5 +1,6 @@
 ---
 title: Build a Web3 Portfolio in 2026 That Lands $120K+ Jobs
+ogTitle: "BUILD A WEB3 PORTFOLIO IN 2026 THAT LANDS $120K+ JOBS"
 image: >-
   https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxQb3J0Zm9saW98ZW58MHx8fHwxNzU0OTUxNjI0fDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -8,9 +9,8 @@ description: >-
   roles. Land $120K+ blockchain jobs.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 In [Web3](/what-is-web3), your portfolio is the resume. Hiring managers open your GitHub, block explorer links, and on-chain activity before they read your cover letter. This guide shows how to build a small set of verifiable projects that prove you can ship and explain trade-offs, whether you write [smart contracts](/what-are-smart-contracts), build frontends, or work in non-technical roles.
 
 ## What it is
@@ -23,17 +23,13 @@ It is different from a traditional tech portfolio. Screenshots are not enough. A
 
 This guide is for three groups. Pick one track first, then build proof for that track.
 
+**Smart contract and protocol developers.
 
+**You need to show Solidity, security habits, and EVM understanding. Proof is a tested contract, a verified deployment, and notes on access control and failure cases. Tools you will use include Solidity, OpenZeppelin Contracts 5.x, and Foundry (forge, cast, anvil) or Hardhat.** Frontend and full-stack dApp developers.
 
-### Smart contract and protocol developers
+**You need to show wallet connection, transaction states, and how your UI handles chain data. Proof is a Next.js or React app using wagmi or viem or ethers.js that connects a wallet, handles pending, confirmed, failed, and wrong-network states, and reads and writes to a contract you deployed. Hosting is often Vercel or Netlify for the frontend and a testnet for the contract.** Non-technical contributors: research, data, community, growth, operations.
 
-You need to show Solidity, security habits, and EVM understanding. Proof is a tested contract, a verified deployment, and notes on access control and failure cases. Tools you will use include Solidity, OpenZeppelin Contracts 5.x, and Foundry (forge, cast, anvil) or Hardhat.
-
-### Frontend and full-stack dApp developers
-
-You need to show wallet connection, transaction states, and how your UI handles chain data. Proof is a Next.js or React app using wagmi or viem or ethers.js that connects a wallet, handles pending, confirmed, failed, and wrong-network states, and reads and writes to a contract you deployed. Hosting is often Vercel or Netlify for the frontend and a testnet for the contract. Non-technical contributors: research, data, community, growth, operations.
-
-You need to show clear thinking and shipped work without code as the main artifact. Proof is a Dune dashboard with SQL queries and findings, a governance forum post or proposal, a content series that explains a protocol, or a documented community program with outcomes. On-chain participation (voting, POAPs, attestations) helps, but it never replaces a clear write-up.
+**You need to show clear thinking and shipped work without code as the main artifact. Proof is a Dune dashboard with SQL queries and findings, a governance forum post or proposal, a content series that explains a protocol, or a documented community program with outcomes. On-chain participation (voting, POAPs, attestations) helps, but it never replaces a clear write-up.
 
 If you are switching tracks, start with one. A focused portfolio for one role beats a scattered set for three.
 
@@ -95,11 +91,11 @@ Quality checks for every contract you publish: use OpenZeppelin Contracts as the
 ### Smart contract developer projects
 
 | Project | What it proves | Suggested stack and notes |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Multi-sig wallet | Access control, transaction approval, safe ETH handling | Solidity, OpenZeppelin AccessControl, Foundry tests for permission and revert cases |
@@ -114,11 +110,11 @@ For each project, deploy to a testnet. You can fund Sepolia with faucets: Alchem
 ### Frontend and full-stack dApp projects
 
 | Project | What it proves | Required handling |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Wallet dashboard | Connect, read balances, list NFTs, show history | wagmi and viem, display ENS name and avatar, handle wrong network and rejected signature |
@@ -130,11 +126,11 @@ Your frontend should handle wallet states, transaction states, readable revert m
 ### Non-technical portfolio projects
 
 | Project | What it proves | How to document |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Dune dashboard for a protocol you follow | SQL, metric choice, insight | Link the dashboard, publish the queries, write a 300-word summary of one finding and one limit of the data |
@@ -205,34 +201,20 @@ When you apply, tailor which proof you put first. For DeFi roles, lead with stak
 
 ## FAQ
 
+**Do I need a mainnet deployment to get hired
 
+**No. Teams accept verified testnet deployments with tests and a demo as beginner proof. Add mainnet only when you have a live protocol that needs it and you can pay for audit and monitoring.** How many projects do I need
 
-### Do I need a mainnet deployment to get hired?
+**Two to three strong projects with full proof beat six shallow clones. One flagship with contract, tests, verification, and frontend, plus one depth project and one merged PR, is enough to start applying.** What salary does a Web3 portfolio support
 
-No. Teams accept verified testnet deployments with tests and a demo as beginner proof. Add mainnet only when you have a live protocol that needs it and you can pay for audit and monitoring.
+**Published hiring data in 2026 varies by source and level. National surveys place the median blockchain developer base around $133,000 to $156,000 in the United States, with junior bases often $87,000 to $120,000 and senior or audit-focused roles well above $175,000 before token grants. Your offer depends on level, stack, and location. A portfolio helps you argue for that level with checkable proof.** Can I build a portfolio for non-technical roles
 
-### How many projects do I need?
+**Yes. Use Dune dashboards, governance contributions, and written analysis as your core proof. Show SQL, sources, and outcomes. Link forum posts and dashboard queries so reviewers can verify them.** Which testnet should I use in 2026
 
-Two to three strong projects with full proof beat six shallow clones. One flagship with contract, tests, verification, and frontend, plus one depth project and one merged PR, is enough to start applying.
+**Sepolia remains the common default for EVM testing. You can bridge its ETH to Base Sepolia or Arbitrum Sepolia for Layer 2 testing. Plan for Sepolia's scheduled retirement around September 2026 and keep a branch ready to redeploy to its successor.** Do I need an ENS name
 
-### What salary does a Web3 portfolio support?
+**It helps for readability and for linking your work, but it is not required. If you use one, register on app.ens.domains, set the primary name, and add text records for links. Point it to your site if you want.** What do reviewers look for in tests
 
-Published hiring data in 2026 varies by source and level. National surveys place the median blockchain developer base around $133,000 to $156,000 in the United States, with junior bases often $87,000 to $120,000 and senior or audit-focused roles well above $175,000 before token grants. Your offer depends on level, stack, and location. A portfolio helps you argue for that level with checkable proof.
-
-### Can I build a portfolio for non-technical roles?
-
-Yes. Use Dune dashboards, governance contributions, and written analysis as your core proof. Show SQL, sources, and outcomes. Link forum posts and dashboard queries so reviewers can verify them.
-
-### Which testnet should I use in 2026?
-
-Sepolia remains the common default for EVM testing. You can bridge its ETH to Base Sepolia or Arbitrum Sepolia for Layer 2 testing. Plan for Sepolia's scheduled retirement around September 2026 and keep a branch ready to redeploy to its successor.
-
-### Do I need an ENS name?
-
-It helps for readability and for linking your work, but it is not required. If you use one, register on app.ens.domains, set the primary name, and add text records for links. Point it to your site if you want.
-
-### What do reviewers look for in tests?
-
-They look for coverage of real risk: owner-only functions reject others, invalid inputs revert with the right error, edge values behave as intended, events emit with correct args, and state updates are asserted. Fuzz and invariant tests add signal if you explain the invariant, not just the number.**How long will this take**
+**They look for coverage of real risk: owner-only functions reject others, invalid inputs revert with the right error, edge values behave as intended, events emit with correct args, and state updates are asserted. Fuzz and invariant tests add signal if you explain the invariant, not just the number.** How long will this take**
 
 Most beginners who follow the sequence above publish a hiring-ready set in 3 to 6 months of part-time work, then improve it weekly based on questions they get in screens.

@@ -1,12 +1,12 @@
 ---
 title: 'Web3 Jobs in Mumbai'
+ogTitle: "WEB3 JOBS IN MUMBAI"
 data-ai-hint: mumbai city india
 description: 'Find Web3 and blockchain careers in Mumbai, India''s crypto hub.'
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Mumbai, India's financial capital, is rapidly transforming into a significant hub for Web3, particularly in sectors that combine traditional finance (TradFi) with decentralized finance (DeFi). Unlike other Indian cities that focus primarily on protocol development, Mumbai's strengths lie in financial services, where a skilled workforce of financial analysts, investment bankers, wealth managers, and fintech professionals are increasingly engaging with digital assets. This convergence creates a sophisticated job market for Web3 careers.
 
 The Web3 ecosystem in Mumbai emphasizes DeFi, institutional crypto services, and the necessary financial infrastructure that connects traditional and decentralized finance. The city hosts major cryptocurrency exchanges, venture capital funds dedicated to Web3, and the Indian branches of global financial institutions that are exploring blockchain technology. This guide provides a detailed analysis of the job market in Mumbai, including roles in demand, essential skills, and available opportunities in this dynamic financial center.
@@ -52,7 +52,7 @@ The job market in Mumbai favors professionals with a blend of finance and techno
 3.
 
 **Create a Public Financial Analysis Portfolio**: Develop a portfolio showcasing your financial analysis skills within the Web3 domain. Start a blog or a Substack to publish your insights on DeFi protocols.
- - **Project Ideas**:
+ - **Project Ideas**: 
  - Compare the risk parameters of two lending protocols.
  - Create a financial sustainability model for a protocol's tokenomics.
  - Develop a Dune dashboard tracking key financial metrics in a specific DeFi sector.

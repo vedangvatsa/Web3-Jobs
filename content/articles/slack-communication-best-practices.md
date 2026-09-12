@@ -1,5 +1,6 @@
 ---
 title: Slack Communication Best Practices
+ogTitle: "SLACK COMMUNICATION BEST PRACTICES"
 description: >-
   Master the art of effective Slack communication. This guide covers best
   practices for channels, threads, notifications, and etiquette to improve
@@ -7,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: team communication
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Introduction: Taming the Beast
 

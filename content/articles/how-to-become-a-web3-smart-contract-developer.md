@@ -1,13 +1,13 @@
 ---
 title: How to Become a Smart Contract Developer
+ogTitle: "BECOME A SMART CONTRACT DEVELOPER GUIDE"
 image: /images/articles/charts/sc-hacks.svg
 data-ai-hint: smart contract hack losses chart
 description: >-
-  The path to smart contract work: EVM basics, Solidity, security, audits, and
-  hiring.
+  The path to smart contract work: EVM basics, Solidity, security, audits, and hiring.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Smart contracts move billions of dollars with no undo button. That is why the role pays well and why the bar is proof, not promises. [Across 2,400 postings](https://thesignal.directory/intelligence/web3-developer-salaries-compensation-guide) 78% of Web3 developer jobs require Solidity, with auditors reaching $250k to $500k and a 20 to 40% premium over Web2 equivalents. This guide gives the full path: basics, language, toolchain, security, testing, portfolio, and hiring.
 
@@ -62,7 +62,7 @@ Once hired, the highest-paid lane is security review. [Auditors](https://thesign
 
 [SpeedRunEthereum's challenge roadmap](https://speedrunethereum.com/learn-solidity) runs NFT, crowdfunding, token vendor, dice, DEX, lending, stablecoin, and prediction-market builds. [Cyfrin Updraft](https://updraft.cyfrin.io/courses/solidity) serves 200,000 students across 40 videos from Remix basics through oracles and fallbacks. [CryptoZombies](https://cryptozombies.io/) remains the classic first tutorial: an in-browser game starting from zero. [Cyfrin's blockchain roadmap](https://www.cyfrin.io/blog/how-to-become-a-blockchain-solidity-developer) orders Hardhat plus Foundry with SpeedRun and CryptoZombies exercises. [free-course guide](https://www.cyfrin.io/blog/learn-web3-development-roadmap) documents 200,000 members with 1.5 million lessons on the basics to Foundry path. [course roundup](https://www.cyfrin.io/blog/learn-solidity-from-scratch-courses) adds 96-plus hours on Updraft, 400,000 CryptoZombies users, and SpeedRun on Scaffold-ETH 2. Pick one track and finish it. Half of two courses is worth less than all of one. For [choosing a crypto wallet](/how-to-choose-a-crypto-wallet) to deploy from, keep it simple: one browser wallet, one hardware wallet later.
 
-How to choose between the big three tracks? CryptoZombies wins on zero setup and game feel, which suits absolute beginners testing interest. SpeedRun wins on shipped artifacts, since every challenge ends deployed with a frontend, which suits portfolio builders directly. Updraft wins on depth and structure with 96-plus hours, which suits learners who want one detailed spine instead of many tutorials. [free-course guide](https://www.cyfrin.io/blog/learn-web3-development-roadmap) documents the scale behind each option with member and lesson counts. Whichever you pick, the completion test is the same: can you build the next project without rewatching lessons? If yes, move on. If no, rebuild the last challenge from memory before continuing. Tutorial hell ends the moment you close the video and ship something ungraded.
+How to choose between the big three tracks? CryptoZombies wins on zero setup and game feel, which suits absolute beginners testing interest. SpeedRun wins on shipped artifacts, since every challenge ends deployed with a frontend, which suits portfolio builders directly. Updraft wins on depth and structure with 96-plus hours, which suits learners who want one comprehensive spine instead of many tutorials. [free-course guide](https://www.cyfrin.io/blog/learn-web3-development-roadmap) documents the scale behind each option with member and lesson counts. Whichever you pick, the completion test is the same: can you build the next project without rewatching lessons? If yes, move on. If no, rebuild the last challenge from memory before continuing. Tutorial hell ends the moment you close the video and ship something ungraded.
 
 ## The six-month schedule that works
 

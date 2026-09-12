@@ -1,5 +1,6 @@
 ---
 title: 'Introduction to Foundry for Solidity Developers'
+ogTitle: "INTRODUCTION TO FOUNDRY FOR SOLIDITY DEVELOPERS"
 image: >-
   https://images.unsplash.com/photo-1607705703571-c5a8695f18f6?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMnx8Y29kaW5nfGVufDB8fHx8MTc1NDk1NDI2M3ww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: foundry software toolkit
@@ -8,9 +9,8 @@ description: >-
   a basic Forge test, and how its workflow compares with Hardhat.
 category: Getting Started
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Foundry is a Rust-based toolkit for Ethereum development that lets you compile, test, fuzz, debug and deploy Solidity contracts from the command line. The official book at getfoundry.sh describes it as a blazing fast, portable and modular toolkit. You write tests and deployment scripts in Solidity and run them directly on a fast local EVM.
 
 It is open source at github.com/foundry-rs/foundry, licensed Apache-2.0 and MIT, and installed with a single version manager called foundryup.
@@ -228,9 +228,7 @@ anvil --version
 
 Alternatives: download prebuilt binaries from github.com/foundry-rs/foundry/releases, Docker via `ghcr.io/foundry-rs/foundry`, or build with `cargo install --git https://github.com/foundry-rs/foundry --profile release --locked forge cast anvil chisel`.
 
-**Create and build a project**
-
-```bash
+**Create and build a project**```bash
 forge init my-project
 cd my-project
 forge build
@@ -239,9 +237,7 @@ forge test
 
 `forge init` pulls `forge-std` as a submodule into `lib/forge-std`. Inside an existing directory use `forge init --force`. Dependencies are added with `forge install OpenZeppelin/openzeppelin-contracts` and removed with `forge remove`. The Soldeer package manager is an alternative at getfoundry.sh/projects/soldeer.
 
-**Common tasks**
-
-```bash
+**Common tasks**```bash
 forge fmt                 # format Solidity
 forge lint                # lint, see getfoundry.sh/forge/linting
 forge inspect Counter storage-layout
@@ -274,11 +270,11 @@ Configs live in `foundry.toml`, with profiles for dev, CI, and production. Envir
 Both changed since 2024, so older comparisons mislead.
 
 | Feature | Foundry | Hardhat |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Test language | Solidity (and Vyper via solc) | JavaScript/TypeScript, and since Hardhat 3 also Solidity tests via EDR |

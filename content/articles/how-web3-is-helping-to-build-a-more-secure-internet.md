@@ -1,5 +1,6 @@
 ---
 title: How Web3 Is Helping to Build a More Secure Internet
+ogTitle: "HOW WEB3 IS HELPING TO BUILD A MORE SECURE INTERNET"
 image: /images/alexandre-debieve-FO7JIlwjOtU-unsplash.jpg
 data-ai-hint: internet security web3
 description: >-
@@ -7,7 +8,7 @@ description: >-
   cryptographic principles are creating a more secure and resilient foundation.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The internet of today, often referred to as Web2, relies on a centralized structure that creates significant security vulnerabilities. Large corporations manage vast amounts of data in isolated databases, making them attractive targets for cybercriminals. online identities hinge on email and password combinations, which are frequently compromised. Web3 represents a fundamental shift in this architecture, aiming to create a more secure and resilient internet.
 

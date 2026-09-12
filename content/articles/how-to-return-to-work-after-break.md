@@ -1,5 +1,6 @@
 ---
 title: How to Return to Work After a Career Break
+ogTitle: "RETURN TO WORK AFTER A CAREER BREAK GUIDE"
 description: >-
   Returning to the workforce after a career break can be intimidating. This
   guide provides actionable steps to help you work through your job search with
@@ -7,7 +8,7 @@ description: >-
 data-ai-hint: return to office
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Returning to the workforce after a career break can seem overwhelming. The job market evolves rapidly, which may leave you feeling that your skills have become outdated or that you have fallen behind your peers. Concerns about how to address the gap in your [resume](/how-to-build-a-web3-resume-that-stands-out) can add to your anxiety.
 

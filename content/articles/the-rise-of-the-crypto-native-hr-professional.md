@@ -1,5 +1,6 @@
 ---
 title: The Rise of the Crypto-Native HR Professional
+ogTitle: "THE RISE OF THE CRYPTO-NATIVE HR PROFESSIONAL"
 image: /images/anton-maksimov-5642-su-MSzGw5V0ui8-unsplash.jpg
 data-ai-hint: human resources team
 description: >-
@@ -7,7 +8,7 @@ description: >-
   People Ops leaders in a world of remote work, token compensation, and DAO.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 In the fast-paced, decentralized world of [Web3](/what-is-web3), even the most traditional corporate functions are being radically reinvented. Perhaps one of the most transformed is Human Resources, or "People Ops." A Web3 HR professional isn't just managing payroll and benefits; they are leading new models of work, compensation, and organizational culture in real-time.
 

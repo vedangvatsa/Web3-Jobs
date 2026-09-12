@@ -1,5 +1,6 @@
 ---
 title: What is Proof of Humanity Protocol
+ogTitle: "PROOF OF HUMANITY PROTOCOL EXPLAINED"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: person human identity
 description: >-
@@ -7,9 +8,8 @@ description: >-
   with a video submission process to create a blockchain-based registry of.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 In a digital environment where individuals can easily create numerous fake accounts, establishing systems that ensure "one person, one vote" and equitable resource distribution presents significant challenges. This issue is commonly referred to as the **"sybil attack" problem**.
 
 **Proof of Humanity (PoH)** is a new social identity verification system on the [Ethereum](/what-is-ethereum) [blockchain](/what-is-a-blockchain) that seeks to address this challenge.
@@ -45,8 +45,8 @@ A trustworthy list of verified individuals can lead to various impactful applica
 
 - **DAO Governance**: DAOs can use PoH to implement a "one person, one vote" governance structure, moving away from the standard "one token, one vote" model that often leads to plutocracy.
 - **Universal Basic Income (UBI)**: The UBI initiative built atop PoH periodically distributes basic income tokens to every registered individual on the list, made feasible by the sybil-resistant nature of the registry.
-- **Airdrop and Fair Distribution**: New projects can use the PoH registry for**[airdrop](/understanding-airdrop-campaigns-in-web3)** campaigns, ensuring equitable distribution to verified individuals rather than bots or duplicates.
-- **Credit and Reputation**: A PoH identity can form the basis for a**[Web3 reputation system](/what-is-a-reputation-system-in-web3)**, enabling undercollateralized loans and other identity-based financial services.
+- **Airdrop and Fair Distribution **: New projects can use the PoH registry for**[airdrop](/understanding-airdrop-campaigns-in-web3)** campaigns, ensuring equitable distribution to verified individuals rather than bots or duplicates.
+- **Credit and Reputation **: A PoH identity can form the basis for a**[Web3 reputation system](/what-is-a-reputation-system-in-web3)**, enabling undercollateralized loans and other identity-based financial services.
 
 ### Challenges and Criticisms
 

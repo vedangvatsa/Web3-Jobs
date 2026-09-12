@@ -1,22 +1,19 @@
 ---
 title: How to Become a DeFi Analyst
+ogTitle: "BECOME A DEFI ANALYST GUIDE"
 image: /images/articles/charts/defi-metrics-hierarchy.svg
 data-ai-hint: defi analyst decentralized finance on chain data research
-description: >-
-  An empirical thesis and career guide on becoming a decentralized finance
-  analyst, exploring quantitative on-chain metrics, economic risk modeling,
-  protocol solvency, and market compensation bands.
+description: An empirical thesis and career guide on becoming a decentralized finance analyst, exploring quantitative on-chain metrics, economic risk modeling, protocol solvency, and market compensation bands.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 slug: how-to-become-a-defi-analyst
 ---
-
-Evaluating decentralized financial protocols requires an analytical model distinct from traditional equity research or credit analysis. In corporate finance, analysts rely on quarterly financial statements audited by accounting firms, management guidance conferences, and opaque regulatory filings. In decentralized finance (DeFi), every balance update, liquidity deposit, liquidation event, and fee distribution is publicly recorded on an immutable ledger in real time.
+Evaluating decentralized financial protocols requires an analytical paradigm distinct from traditional equity research or credit analysis. In corporate finance, analysts rely on quarterly financial statements audited by accounting firms, management guidance conferences, and opaque regulatory filings. In decentralized finance (DeFi), every balance update, liquidity deposit, liquidation event, and fee distribution is publicly recorded on an immutable ledger in real time.
 
 However, transparency does not equal simplicity. Raw on-chain data is noisy, convoluted by flash loans, circular token incentives, synthetic liquidity wash trading, and uncollateralized exposure. A DeFi analyst translates distributed ledger events into rigorous quantitative models, solvency stress tests, and capital allocation recommendations for venture funds, market makers, protocol DAOs, and risk modeling firms.
 
-According to market data aggregators like [DefiLlama](https://defillama.com), total value locked across decentralized protocols exceeds eighty billion dollars, with decentralized exchange volumes routinely surpassing three billion dollars daily. Yet working through this ecosystem demands disciplined due diligence. As demonstrated by historical exploits tracked by [Immunefi](https://immunefi.com) and [CertiK](https://certik.com), failure to evaluate economic attack vectors, bad debt accrual, or oracle latency can wipe out millions of dollars in capital within a single block.
+According to market data aggregators like [DefiLlama](https://defillama.com), total value locked across decentralized protocols exceeds eighty billion dollars, with decentralized exchange volumes routinely surpassing three billion dollars daily. Yet navigating this ecosystem demands disciplined due diligence. As demonstrated by historical exploits tracked by [Immunefi](https://immunefi.com) and [CertiK](https://certik.com), failure to evaluate economic attack vectors, bad debt accrual, or oracle latency can wipe out millions of dollars in capital within a single block.
 
 ![DeFi Protocol Evaluation and Risk Hierarchy](/images/articles/charts/defi-metrics-hierarchy.svg)
 *Figure 1: Hierarchical framework for decentralized finance analysis, detailing quantitative metrics, on-chain telemetry tools, and economic risk indicators.*
@@ -57,6 +54,24 @@ Decentralized protocols generate fees by taking a slice of transactions, swaps, 
 
 - Supply-Side Revenue: The share of fees allocated to external capital providers, such as liquidity providers in automated market makers or depositors in lending protocols like [Aave Governance](https://governance.aave.com) and [Compound Finance](https://compound.finance).
 
+```
++-------------------------------------------------------------------------+
+|                  DeFi Cash Flow Accounting Structure                    |
++-------------------------------------------------------------------------+
+|  Gross User Fees Paid (Borrow Interest, DEX Swaps, Staking Cuts)        |
+|                                |                                        |
+|         +----------------------+----------------------+                 |
+|         |                                             |                 |
+|         v                                             v                 |
+|  Supply-Side Revenue                        Protocol Revenue            |
+|  (Paid to LPs / Lenders)                   (Retained by Treasury)       |
+|                                                       |                 |
+|                                           +-----------+-----------+     |
+|                                           |                       |     |
+|                                           v                       v     |
+|                                     Treasury Accrual      Token Buybacks|
++-------------------------------------------------------------------------+
+```
 
 ### Real Yield vs Dilutive Emission APR
 
@@ -96,9 +111,9 @@ The mathematical formula for impermanent loss as a function of the price ratio $
 
 $$IL = \frac{2 \sqrt{k_p}}{1 + k_p} - 1$$
 
-When an asset price doubles ($k_p = 2$), the impermanent loss is approximately 5.72 percent compared to holding the assets outside the pool. If the price experiences a five-fold increase ($k_p = 5$), impermanent loss expands to 25.46 percent.
+When an asset price doubles ($k_p = 2$), the impermanent loss is approximately 5.72 percent compared to holding the assets outside the pool. If the price experiences a five-fold increase ($k_p = 5$), impermanent loss expands to 25.46 percent. 
 
-In concentrated liquidity AMMs like Uniswap v3, introduced by [Uniswap Labs](https://uniswap.org) and researched by [Model](https://model.xyz), liquidity providers allocate capital within custom price intervals $[p_a, p_b]$. This boosts capital efficiency by orders of magnitude, but amplifies impermanent loss when the market price breaches the interval bounds.
+In concentrated liquidity AMMs like Uniswap v3, introduced by [Uniswap Labs](https://uniswap.org) and researched by [Paradigm](https://paradigm.xyz), liquidity providers allocate capital within custom price intervals $[p_a, p_b]$. This boosts capital efficiency by orders of magnitude, but amplifies impermanent loss when the market price breaches the interval bounds.
 
 ```python
 import numpy as np
@@ -111,7 +126,7 @@ def calculate_concentrated_il(price_ratio, lower_tick, upper_tick):
     sqrt_p = np.sqrt(price_ratio)
     sqrt_pa = np.sqrt(lower_tick)
     sqrt_pb = np.sqrt(upper_tick)
-
+    
     if price_ratio < lower_tick:
         v_lp = sqrt_pa * sqrt_pb * (sqrt_pb - sqrt_pa)
         v_hold = sqrt_pb
@@ -121,7 +136,7 @@ def calculate_concentrated_il(price_ratio, lower_tick, upper_tick):
     else:
         v_lp = 2 * sqrt_p - sqrt_pa - (price_ratio / sqrt_pb)
         v_hold = price_ratio + 1
-
+        
     return (v_lp / v_hold) - 1.0
 
 # Evaluate impermanent loss for a 20% range around current price
@@ -141,7 +156,7 @@ Once $HF < 1.0$, third-party liquidators are economically incentivized to repay 
 
 However, during market flash crashes, network congestion and gas fee spikes can disrupt timely liquidations. If market prices decline faster than liquidators can execute transactions, loans accumulate bad debt, which the protocol treasury or safety module must absorb.
 
-liquidation transactions are intensely targeted by Maximal Extractable Value (MEV) searchers. Research from [Flashbots](https://flashbots.net) reveals that searchers compete in priority gas auctions or direct builder bundles to backrun price oracle updates and frontrun competing liquidator transactions. Analysts evaluate mempool dynamics, block builder concentration, and liquidation latency to determine whether protocol parameters are resilient against liquidation failures during extreme market stress.
+Furthermore, liquidation transactions are intensely targeted by Maximal Extractable Value (MEV) searchers. Research from [Flashbots](https://flashbots.net) reveals that searchers compete in priority gas auctions or direct builder bundles to backrun price oracle updates and frontrun competing liquidator transactions. Analysts evaluate mempool dynamics, block builder concentration, and liquidation latency to determine whether protocol parameters are resilient against liquidation failures during extreme market stress.
 
 Institutional risk desks, including venture teams at [Galaxy Digital](https://galaxy.com) and [Framework Ventures](https://framework.ventures), run agent-based simulations to test how liquidation curves perform under historical liquidity drawdowns like the March 2020 crash or the FTX collapse. Derivative derivatives data from [Coinglass](https://coinglass.com), on-chain entity flows from [Glassnode](https://glassnode.com), and sentiment indicators from [Santiment](https://santiment.net) are incorporated into multi-factor solvency dashboards.
 
@@ -153,7 +168,7 @@ Consider this example query analyzing the 30-day volume and fee generation of a 
 
 ```sql
 WITH daily_borrows AS (
-    SELECT
+    SELECT 
         DATE_TRUNC('day', evt_block_time) AS block_date,
         SUM(borrowAmount / 1e6) AS total_borrowed_usd,
         COUNT(DISTINCT borrower) AS unique_borrowers
@@ -163,7 +178,7 @@ WITH daily_borrows AS (
     GROUP BY 1
 ),
 daily_repayments AS (
-    SELECT
+    SELECT 
         DATE_TRUNC('day', evt_block_time) AS block_date,
         SUM(repushedAmount / 1e6) AS total_repaid_usd
     FROM aave_v3_ethereum.Pool_evt_Repay
@@ -171,7 +186,7 @@ daily_repayments AS (
       AND evt_block_time >= NOW() - INTERVAL '30' DAY
     GROUP BY 1
 )
-SELECT
+SELECT 
     b.block_date,
     b.total_borrowed_usd,
     COALESCE(r.total_repaid_usd, 0) AS total_repaid_usd,
@@ -190,7 +205,7 @@ In addition to SQL, analysts track institutional fund movements and smart money 
 
 DeFi analytics extends beyond valuation into defensive security analysis. Even a protocol with pristine unit economics can collapse if its smart contracts possess economic design flaws.
 
-1. Flash Loan Attack Vulnerabilities: Flash loans allow an actor to borrow millions in capital without collateral, provided the loan is repaid within the same execution block. If a protocol calculates collateral values using spot prices from a single decentralized AMM pool, an attacker can manipulate that pool with a flash loan, borrow unbacked assets from the lending protocol, and exit before the block concludes. Analysts ensure protocols utilize decentralized oracle feeds from [Chainlink Documentation](https://docs.chain.link) or [Pyth Network](https://pyth.network), backed by reliable time-weighted average prices.
+1. Flash Loan Attack Vulnerabilities: Flash loans allow an actor to borrow millions in capital without collateral, provided the loan is repaid within the same execution block. If a protocol calculates collateral values using spot prices from a single decentralized AMM pool, an attacker can manipulate that pool with a flash loan, borrow unbacked assets from the lending protocol, and exit before the block concludes. Analysts ensure protocols utilize decentralized oracle feeds from [Chainlink Documentation](https://docs.chain.link) or [Pyth Network](https://pyth.network), backed by robust time-weighted average prices.
 
 2. Governance Attack Vectors: Many protocols govern system parameters through token voting. If the market value of voting tokens needed to pass a governance proposal is lower than the liquid value in the protocol treasury, malicious actors can borrow governance tokens, pass a malicious transfer proposal, and drain the treasury. Analysts audit governance timelocks, quorum requirements, and multisig threshold signers.
 

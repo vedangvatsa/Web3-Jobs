@@ -1,5 +1,6 @@
 ---
 title: 'Web3 Data Analyst Jobs'
+ogTitle: "WEB3 DATA ANALYST JOBS"
 image: >-
   https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxkYXRhJTIwYW5hbHl0aWNzfGVufDB8fHx8MTc1NTE2MTc1N3ww&lib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -7,10 +8,9 @@ description: >-
   on-chain data to drive strategy and what skills you need to become an.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
-In the transparent environment of blockchain technology, every action, transaction, and interaction generates a permanent public data point. This has led to the emergence of a specialized field known as **on-chain analysis**. Central to this field is the role of the**[Web3](/what-is-web3) Data Analyst**, combining elements of data science, archaeology, and detective work.
+In the transparent environment of blockchain technology, every action, transaction, and interaction generates a permanent public data point. This has led to the emergence of a specialized field known as **on-chain analysis **. Central to this field is the role of the**[Web3](/what-is-web3) Data Analyst**, combining elements of data science, archaeology, and detective work.
 
 Unlike traditional data analysts who work with private datasets, Web3 analysts use open, shared blockchain databases. They query this public information to identify trends, analyze user behavior, assess protocol performance, and produce insights that inform project strategies. This role is intellectually stimulating and increasingly sought after in the Web3 ecosystem.
 

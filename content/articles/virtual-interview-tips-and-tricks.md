@@ -1,5 +1,6 @@
 ---
 title: Virtual Interview Tips and Tricks
+ogTitle: "VIRTUAL INTERVIEW TIPS AND TRICKS"
 image: /images/maxim-hopman-8vn4KvfU640-unsplash.jpg
 data-ai-hint: laptop video call
 description: >-
@@ -7,7 +8,7 @@ description: >-
   setting up your tech to making a great impression, we've got you covered.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Virtual interviews have become standard in the hiring process. They offer the convenience of remote participation, but they also present unique challenges. Factors such as a poor internet connection, distracting backgrounds, or inadequate lighting can negatively impact your performance.
 

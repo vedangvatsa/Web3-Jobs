@@ -1,5 +1,6 @@
 ---
 title: Swift for Blockchain Explained
+ogTitle: "SWIFT FOR BLOCKCHAIN EXPLAINED"
 image: >-
   https://images.unsplash.com/photo-1555066931-4365d14bab8c?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHByb2dyYW1taW5nfGVufDB8fHx8MTc1NTAzNjY3OXww&ixlib=rb-4.1.0&q=80&w=1080
 data-ai-hint: swift programming blockchain
@@ -9,9 +10,8 @@ description: >-
   matter, and how to ship your first Swift wallet integration.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## What is Swift
 
 Swift is Apple's open source programming language for apps, services, and embedded code. It is described at swift.org as fast, expressive, and safe, with predictable memory management and compilation to native code. The language is developed in the open at github.com/swiftlang/swift and documented in The Swift Programming Language at docs.swift.org/swift-book.
@@ -61,11 +61,9 @@ Swift apps do not execute contracts on device as a validator does. They act as c
 
 That pattern repeats across every mature Swift SDK.
 
+**web3swift (web3swift-team/web3swift).
 
-
-### web3swift (web3swift-team/web3swift)
-
-The most starred Swift Ethereum library, described as an iOS toolbelt for interaction with the Ethereum network. Features listed in the README include Swift implementation of web3.js functionality, interaction with a remote node via JSON RPC, local keystore management compatible with geth, smart contract ABI parsing and V2 decoding, ENS support, Infura support, TxPool parsing, event loops, middleware hooks for transaction workflow, and explicit standards support for BIP-32, BIP-39, BIP-44, EIP-20, EIP-155, EIP-2718, EIP-1559, and others plus RLP and Base58. Install via Swift Package Manager:
+**The most starred Swift Ethereum library, described as an iOS toolbelt for interaction with the Ethereum network. Features listed in the README include Swift implementation of web3.js functionality, interaction with a remote node via JSON RPC, local keystore management compatible with geth, smart contract ABI parsing and V2 decoding, ENS support, Infura support, TxPool parsing, event loops, middleware hooks for transaction workflow, and explicit standards support for BIP-32, BIP-39, BIP-44, EIP-20, EIP-155, EIP-2718, EIP-1559, and others plus RLP and Base58. Install via Swift Package Manager:
 
 ```swift
 dependencies: [
@@ -73,49 +71,31 @@ dependencies: [
 ]
 ```
 
-Requirements listed: iOS 13.0 or macOS 10.15, Xcode 12.5, Swift 5.5. You import `web3swift` and `Web3Core`, create a `Web3` provider from an RPC URL, then use `EthereumAddress`, `CodableTransaction`, `web3.eth.send`, and `contract.createReadOperation` for calls. For local development the docs recommend Ganache running at `8546` for tests.
+Requirements listed: iOS 13.0 or macOS 10.15, Xcode 12.5, Swift 5.5. You import `web3swift` and `Web3Core`, create a `Web3` provider from an RPC URL, then use `EthereumAddress`, `CodableTransaction`, `web3.eth.send`, and `contract.createReadOperation` for calls. For local development the docs recommend Ganache running at `8546` for tests.**argentlabs/web3.swift.
 
-### argentlabs/web3.swift
-
-A lighter Ethereum Swift API with support for smart contracts, ENS, and ERC20. Adds ERC721 helpers, BigInt and BigUInt via attaswift/BigInt, and optional ZKSync Era support. Install:
+**A lighter Ethereum Swift API with support for smart contracts, ENS, and ERC20. Adds ERC721 helpers, BigInt and BigUInt via attaswift/BigInt, and optional ZKSync Era support. Install:
 
 ```swift
 .package(url: "https://github.com/argentlabs/web3.swift", from: "1.1.0")
 ```
 
-You provide an `EthereumKeyStorage` conformer for your key, create an `EthereumHttpClient` or `EthereumWebSocketClient` for RPC, then generate typed contract calls from an ABI.
+You provide an `EthereumKeyStorage` conformer for your key, create an `EthereumHttpClient` or `EthereumWebSocketClient` for RPC, then generate typed contract calls from an ABI.**EvmKit.Swift (horizontalsystems/EvmKit.Swift).
 
-### EvmKit.Swift (horizontalsystems/EvmKit.Swift)
+**A native Swift toolkit for EVM chains used in Unstoppable Wallet. It handles account and transaction sync over HTTP or WebSocket, stores ETH balances and transactions locally, supports mnemonic, BIP39 seed, private key, or watch address restore, ENS, EIP-1559 gas with live updates, and RxSwift reactive APIs. It supports Ethereum, BNB Chain, Polygon, Arbitrum One, Optimism, and Avalanche C-Chain. Together with Eip20Kit, NftKit, UniswapKit, and OneInchKit it adds DeFi features without WalletConnect.** ZKsync Era Swift SDK (zksync-sdk/zksync2-swift).
 
-A native Swift toolkit for EVM chains used in Unstoppable Wallet. It handles account and transaction sync over HTTP or WebSocket, stores ETH balances and transactions locally, supports mnemonic, BIP39 seed, private key, or watch address restore, ENS, EIP-1559 gas with live updates, and RxSwift reactive APIs. It supports Ethereum, BNB Chain, Polygon, Arbitrum One, Optimism, and Avalanche C-Chain. Together with Eip20Kit, NftKit, UniswapKit, and OneInchKit it adds DeFi features without WalletConnect.
+**A web3swift-based SDK for ZKsync Era. It ports most web3swift APIs and adds ZKsync-specific fields for account abstraction and contract deployment. It exposes `ZkSyncClient` for chain queries and `Wallet` with `WalletL1` and `WalletL2` for deposits, withdrawals, and transfers. Minimums listed: iOS 13 and macOS 11.** Aptos Swift SDK (aptos-labs/aptos-swift-sdk).
 
-### ZKsync Era Swift SDK (zksync-sdk/zksync2-swift)
+**A type safe Swift 6 SDK targeting tier 2 P0 plus P1 compliance with aptos-sdk-specs v1.0.0. Minimums: iOS 17, macOS 14, watchOS 10, tvOS 17, Swift 6.0. It uses async and await with actor-based clients. `AptosClient` composes 15 domain APIs: general, account, transaction, view, coin, faucet, digitalAsset, fungibleAsset, ANS, staking, and more. It includes BIP-39 mnemonics with SLIP-0010 and BIP-32 HD derivation via `Mnemonic.generate` and `Ed25519Account.fromMnemonic` on path `m/44'/637'/0'/0'/0'`.** Algorand Swift SDK (CorvidLabs/swift-algorand).
 
-A web3swift-based SDK for ZKsync Era. It ports most web3swift APIs and adds ZKsync-specific fields for account abstraction and contract deployment. It exposes `ZkSyncClient` for chain queries and `Wallet` with `WalletL1` and `WalletL2` for deposits, withdrawals, and transfers. Minimums listed: iOS 13 and macOS 11.
+**Modern Swift 6 SDK with async and await, type safe `Address` and `MicroAlgos`, `PaymentTransaction`, `AlgodClient` and `IndexerClient` actors, and support for iOS 15 plus macOS 11 plus tvOS 15 plus watchOS 8 plus visionOS 1 plus Linux.** Concordium Swift SDK (Concordium/concordium-swift-sdk).
 
-### Aptos Swift SDK (aptos-labs/aptos-swift-sdk)
+**For iOS 16 plus macOS 10.15, focused on seed based identities, credential and account creation, transfer transactions with memo, and CIS-2 fungible tokens. It wraps Rust crypto via `ConcordiumWalletCrypto` exposed as a Swift package.** Flow Wallet Kit (onflow/Flow-Wallet-Kit).
 
-A type safe Swift 6 SDK targeting tier 2 P0 plus P1 compliance with aptos-sdk-specs v1.0.0. Minimums: iOS 17, macOS 14, watchOS 10, tvOS 17, Swift 6.0. It uses async and await with actor-based clients. `AptosClient` composes 15 domain APIs: general, account, transaction, view, coin, faucet, digitalAsset, fungibleAsset, ANS, staking, and more. It includes BIP-39 mnemonics with SLIP-0010 and BIP-32 HD derivation via `Mnemonic.generate` and `Ed25519Account.fromMnemonic` on path `m/44'/637'/0'/0'/0'`.
+**Includes `SecureEnclaveKey` using `SecureEnclave.P256.Signing.PrivateKey` with `CryptoKit` and `KeychainAccess`, plus `SeedPhraseKey` and `PrivateKey` variants. `privateKey` returns nil for Secure Enclave, by design, since the key is non exportable.** Solana in Swift.
 
-### Algorand Swift SDK (CorvidLabs/swift-algorand)
+**Two patterns appear: lightweight Solana clients like ZODs-Labs/swift-solana-kit which advertises Swift 6, Foundation, CryptoKit, URLSession, and no third party SDK dependencies in core targets, with minimums macOS 14 plus iOS 17 plus Swift 6 plus Xcode 16, and more complete embedded wallet stacks listed below.** SpaceKit and Swift EVM.
 
-Modern Swift 6 SDK with async and await, type safe `Address` and `MicroAlgos`, `PaymentTransaction`, `AlgodClient` and `IndexerClient` actors, and support for iOS 15 plus macOS 11 plus tvOS 15 plus watchOS 8 plus visionOS 1 plus Linux.
-
-### Concordium Swift SDK (Concordium/concordium-swift-sdk)
-
-For iOS 16 plus macOS 10.15, focused on seed based identities, credential and account creation, transfer transactions with memo, and CIS-2 fungible tokens. It wraps Rust crypto via `ConcordiumWalletCrypto` exposed as a Swift package.
-
-### Flow Wallet Kit (onflow/Flow-Wallet-Kit)
-
-Includes `SecureEnclaveKey` using `SecureEnclave.P256.Signing.PrivateKey` with `CryptoKit` and `KeychainAccess`, plus `SeedPhraseKey` and `PrivateKey` variants. `privateKey` returns nil for Secure Enclave, by design, since the key is non exportable.
-
-### Solana in Swift
-
-Two patterns appear: lightweight Solana clients like ZODs-Labs/swift-solana-kit which advertises Swift 6, Foundation, CryptoKit, URLSession, and no third party SDK dependencies in core targets, with minimums macOS 14 plus iOS 17 plus Swift 6 plus Xcode 16, and more complete embedded wallet stacks listed below.
-
-### SpaceKit and Swift EVM
-
-Two experimental paths show Swift closer to execution. SpaceKit, presented at forums.swift.org in February 2025, is a Swift smart contract framework that compiles Swift to WebAssembly for SpaceVM chains, notably MultiversX, with `BigUInt`, `Vector`, `Storage` and `Event` abstractions and a SwiftVM test environment. Swift EVM, documented in June 2025, is a pure Swift Ethereum Virtual Machine that executes real Ethereum bytecode, tracks gas, and handles EIPs like EIP-2929 warm and cold access, with native Ethereum types H160, H256, and U256. Both remain community projects, not replacements for Solidity or Rust for production contracts today.**Bitcoin in Swift.**swift-bitcoin at github.com/swift-bitcoin/swift-bitcoin builds a cross platform Bitcoin framework in data race safe Swift with modules `BitcoinCrypto`, `BitcoinBase`, `BitcoinWallet`, `BitcoinBlockchain`, `BitcoinTransport`, and `BitcoinRPC`. It depends on bitcoin-core libsecp256k1 and uses SwiftNIO for transport. The pichukov/swifty-kaspa SDK for Kaspa shows a similar pure Swift approach for Kaspa with BLAKE2b and BLAKE3, BIP-39 and BIP-32, and Secure Enclave wrapping.
+**Two experimental paths show Swift closer to execution. SpaceKit, presented at forums.swift.org in February 2025, is a Swift smart contract framework that compiles Swift to WebAssembly for SpaceVM chains, notably MultiversX, with `BigUInt`, `Vector`, `Storage` and `Event` abstractions and a SwiftVM test environment. Swift EVM, documented in June 2025, is a pure Swift Ethereum Virtual Machine that executes real Ethereum bytecode, tracks gas, and handles EIPs like EIP-2929 warm and cold access, with native Ethereum types H160, H256, and U256. Both remain community projects, not replacements for Solidity or Rust for production contracts today.** Bitcoin in Swift.**swift-bitcoin at github.com/swift-bitcoin/swift-bitcoin builds a cross platform Bitcoin framework in data race safe Swift with modules `BitcoinCrypto`, `BitcoinBase`, `BitcoinWallet`, `BitcoinBlockchain`, `BitcoinTransport`, and `BitcoinRPC`. It depends on bitcoin-core libsecp256k1 and uses SwiftNIO for transport. The pichukov/swifty-kaspa SDK for Kaspa shows a similar pure Swift approach for Kaspa with BLAKE2b and BLAKE3, BIP-39 and BIP-32, and Secure Enclave wrapping.
 
 ### Crypto and key storage on Apple devices
 
@@ -145,23 +125,20 @@ A practical check: EvmKit lists iOS 13 plus Swift 5.5, web3swift lists the same,
 * **Not for on chain logic.** Swift does not deploy to the EVM, Move VM, or SVM today except via experimental compilers like SpaceKit. Contracts still ship in Solidity, Vyper, Move, or Rust, and Swift apps call them.
 * **Curve mismatch in Enclave.** Storing a secp256k1 key directly in the Enclave is not supported. You need the P-256 passkey plus MPC or HSM pattern, which adds infrastructure.
 * **Platform limits.** Core targets for many Swift SDKs are Apple platforms only. Linux support is often planned but not ready. web3swift, Aptos, and swift-solana-kit each list different minimums, so you need to track which version your users run.
-*
+* **Smaller blockchain sample base.
 
-### Smaller blockchain sample base
-
-Compared to TypeScript with viem and ethers or Rust with Anchor, Swift has fewer copy paste DeFi snippets. Docs assume iOS knowledge and you will often read EVM docs written for TypeScript first, then port to Swift.
+**Compared to TypeScript with viem and ethers or Rust with Anchor, Swift has fewer copy paste DeFi snippets. Docs assume iOS knowledge and you will often read EVM docs written for TypeScript first, then port to Swift.
 
 ## Pros and cons for blockchain work
 
-## Pros
+**Pros**
+
 * **Best path to App Store distribution.** One language covers UI, networking, persistence, and signing with tooling Apple supports directly through Xcode and TestFlight.
 * **Hardware backed auth.** Face ID, Touch ID, and Enclave gated signing provide hardware protection that pure software Keychain cannot.
 * **Modern concurrency.** Actors and async sequences map well to RPC polling, WebSocket subscriptions, and transaction confirmation flows.
-*
+* **Package ecosystem that fits iOS.
 
-### Package ecosystem that fits iOS
-
-Swift Package Manager, DocC, and Swift Testing match the iOS release train, with no bridge to Node.**Cons**
+**Swift Package Manager, DocC, and Swift Testing match the iOS release train, with no bridge to Node.** Cons**
 
 * **Learning curve for blockchain specifics.** You must learn both Swift concurrency and blockchain concepts like nonces, gas, ABI encoding, and reorg handling.
 * **Separate contract language still required.** You will maintain Solidity or Rust for contracts plus Swift for the app. That is two toolchains, two test suites, and two audit surfaces.
@@ -195,9 +172,7 @@ These exercises mirror real wallet bugs, like showing a stale balance due to a r
 
 ### 3. Pick one chain stack and wire a read call first
 
-**Option A: Ethereum with web3swift (most reusable for EVM)**
-
-```bash
+**Option A: Ethereum with web3swift (most reusable for EVM)**```bash
 mkdir MyWalletApp && cd MyWalletApp
 swift package init --type executable
 # Add .package(url: "https://github.com/web3swift-team/web3swift.git", .upToNextMajor(from: "3.0.0")) to Package.swift

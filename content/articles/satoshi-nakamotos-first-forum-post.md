@@ -1,5 +1,6 @@
 ---
 title: 'The First Post'
+ogTitle: "THE FIRST POST"
 description: >-
   Before the whitepaper, there was the forum post. We look back at Satoshi
   Nakamoto's first public message on the P2P Foundation forum, the moment the
@@ -8,7 +9,7 @@ image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 category: Industry Insights
 data-ai-hint: satoshi nakamoto
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## A Humble Beginning on the P2P Foundation Forum
 

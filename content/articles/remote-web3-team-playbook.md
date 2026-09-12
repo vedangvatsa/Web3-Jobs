@@ -1,12 +1,13 @@
 ---
 title: The Remote Web3 Team Playbook
+ogTitle: "THE REMOTE WEB3 TEAM PLAYBOOK"
 image: /images/articles/charts/remote-work-modes.svg
 data-ai-hint: remote work distribution chart
 description: >-
   How remote Web3 teams operate: async systems, DAO pay, crypto payroll, security, and token compensation.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Web3 runs remote while the rest of tech marches back to the office. [Fully in-office roles](https://www.roberthalf.com/us/en/insights/research/remote-work-statistics-and-trends) jumped from 65% in late 2025 to 87% by mid-2026, yet [69% of workers](https://www.flexjobs.com/blog/post/future-of-remote-work-trends-report) would take a pay cut to stay remote and 85% rank it the top application factor. Crypto teams never left: borderless hiring is a structural edge, not a perk. This guide covers how the best ones operate: async systems, time-zone math, DAO pay, crypto payroll, security against real adversaries, culture without an office, token comp, contractor law, and legal wrappers. For the individual side, see [remote work in Web3](/remote-work-in-web3).
 

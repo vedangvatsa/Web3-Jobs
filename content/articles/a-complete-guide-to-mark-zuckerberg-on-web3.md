@@ -1,85 +1,88 @@
 ---
 title: What does Mark Zuckerberg think about Web3
-description: Mark Zuckerberg's metaverse strategy at Meta, the company-controlled platform model behind it, and the limits of its overlap with Web3.
+ogTitle: "WHAT DOES MARK ZUCKERBERG THINK ABOUT WEB3"
+description: >-
+  Analyze Mark Zuckerberg's approach to Web3 and the metaverse. This guide
+  examines Facebook's rebranding to Meta, its multi-billion dollar investment
+  in.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man face
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
+## Introduction: The Incumbent's Gambit
 
-## Introduction: a metaverse built by Meta
+Mark Zuckerberg, founder and CEO of Meta (previously Facebook), plays an important role in the discussions surrounding [Web3](/what-is-web3) and the metaverse. Unlike crypto-native innovators who advocate for decentralization, Zuckerberg approaches the metaverse as a Web2 incumbent. His ambition is to shape and dominate the next computing platform, similar to what Facebook achieved in social media.
 
-Mark Zuckerberg's public vision for the metaverse is easy to mistake for a Web3 position because both subjects involve avatars, virtual goods, digital identity, and internet spaces that extend beyond a phone screen. The overlap is real but limited. Zuckerberg's project is a strategy for Meta to build devices, operating environments, social experiences, and a creator economy. Web3's strongest claims are about minimizing the control of any one company over those same things.
+This analysis examines Zuckerberg's vision for the metaverse, the rationale behind Facebook's rebranding to Meta, the company's significant investments in virtual and augmented reality (VR/AR), and the notable differences between his centralized approach and the decentralized principles used by the Web3 community.
 
-When Facebook renamed its parent company Meta on October 28, 2021, the company said the new brand would bring its apps and technologies together and focus on bringing "the metaverse to life." The [company announcement](https://about.fb.com/news/2021/10/facebook-company-is-now-meta/) also said Meta would begin reporting two operating segments, Family of Apps and Reality Labs. The rebrand was therefore more than a product name change: it set out a business structure for a long-term investment in virtual, mixed, and augmented reality.
+### The Pivot to Meta
 
-Zuckerberg's own 2021 letter described an "embodied internet" in which people could feel present with one another across virtual reality, augmented reality, phones, and computers. He wrote that Meta would build fundamental technologies, social platforms, and creator tools, while also saying the metaverse would not be created by one company. The [letter](https://about.fb.com/news/2021/10/founders-letter/) is the clearest account of the ambition and its tension. Meta wants an ecosystem with outside developers and creators, but it also wants to supply much of the hardware, store, social layer, and commercial machinery through which that ecosystem operates.
+In October 2021, Zuckerberg announced Facebook's rebranding to **Meta**. This change signified a major shift in the company's direction. Zuckerberg asserted that the new mission was to "bring the metaverse to life and help people connect, find communities, and grow businesses."
 
-## The platform thesis
+Several factors motivated this rebranding:
 
-The basic proposition is familiar from earlier computing shifts. A company that controls a widely used device and its software distribution can shape the terms on which developers reach customers. It can decide which payments are supported, how subscriptions work, what content is allowed, what data is collected, and how discoveries are ranked. Meta's bet is that spatial computing will become important enough for it to be worth competing for those control points.
+1.
 
-This explains why headsets and glasses are not peripheral to Zuckerberg's metaverse plan. A social app can be distributed through another company's phone and app store. A headset platform gives its owner more room to define the interface, hand tracking, avatars, store policies, payments, and default social destinations. Meta's 2021 letter acknowledged this directly when it contrasted its experience building on mobile platforms with its intention to sell devices at cost or subsidized prices and support sideloading and PC streaming.
+**The Next Computing Platform**: Zuckerberg envisions the metaverse as an immersive, 3D version of the internet, positioning it as the successor to mobile technology. He aims for Meta to control both the hardware (VR/AR headsets) and software (key platforms) of this era, reducing reliance on tech giants like Apple and Google that dominate the mobile sector.
 
-That account is a commercial strategy, not a claim that Meta has already replaced the phone. The company itself cautions in its 2024 annual report that its metaverse and wearables work is a complex, long-term initiative and that many products may only be fully realized in the next decade. It reported Reality Labs revenue from consumer hardware, software, and content, while its Family of Apps generated substantially all company revenue through advertising. See the [2024 Form 10-K](https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm). The two segments describe how Meta can finance long-horizon hardware work: advertising profits from its existing apps subsidize a business that the company expects to operate at a loss for the foreseeable future.
+2.
 
-This is a material difference from the standard Web3 pitch. A public blockchain may charge transaction fees or issue a native asset, but it is not ordinarily financed from the cash flow of a global advertising company. Meta's model relies on corporate capital allocation and the expectation that future hardware, content, advertising, and digital-goods revenue can justify the investment. That does not make the products less useful. It does mean the relevant accountability runs through Meta's board, shareholders, management, regulators, and platform policies rather than token voting or an open protocol's consensus rules.
+**Escaping the Social Media Trap**: Facebook faced increasing scrutiny and criticism regarding data privacy, misinformation, and content moderation. The rebranding serves to distance Meta from its controversial social media history and reframe its identity around future technological ambitions.
 
-## What Zuckerberg means by the metaverse
+3.
 
-Zuckerberg has described the metaverse primarily as a mode of social presence. In the 2021 letter, he listed working, learning, playing, shopping, and creating, and imagined a person appearing as a hologram in a room or using VR to be fully immersed. The emphasis is not on cryptocurrency. It is on making interaction feel less like looking through a rectangular screen and more like sharing a place.
+**The Threat of Decentralized Web3**: Zuckerberg recognizes the challenges posed by a decentralized, user-owned Web3, which threatens his centralized, advertisement-driven business model. By creating a proprietary metaverse, he seeks to influence the narrative and establish a "walled garden" version of the metaverse before decentralized alternatives gain widespread traction.
 
-That goal puts avatars at the center. An avatar is not only a visual character. It is an identity surface that can carry a name, friendships, expressive choices, and potentially purchased items from one experience to another. Meta has invested in avatars across its social products and virtual-reality experiences because a recognizable representation can make social interaction feel continuous across devices. The company's vision also depends on technical details that are easy to overlook: rendering, motion tracking, latency, spatial audio, safety controls, accessible input, and moderation tools all affect whether a room feels usable.
+## Core Thesis: A Centralized, Polished, and Integrated Metaverse
 
-The word "presence" should not hide those limits. A virtual room can create a powerful sense of co-location, but it does not remove the need for device comfort, bandwidth, content design, or social norms. Meta's products are products, not a universal public place. Their availability, account requirements, and features can change at the company's discretion. The 2021 letter presented a desired direction and a decade-scale expectation, not a completed technical standard.
+Zuckerberg's metaverse vision diverges sharply from that of the Web3 community. While Web3 advocates for an open, interoperable, and user-owned environment, Zuckerberg's approach focuses on a polished, integrated, and company-controlled experience.
 
-Zuckerberg also used the language of interoperability. In the same letter, he said digital items should be interoperable and that privacy, safety, open standards, and new forms of governance needed to be built in from the beginning. Those are notable commitments, but the letter does not itself define a shared asset format, a cross-platform identity standard, or a rule requiring a Meta-bought item to work in a competitor's product. An aspiration to support interoperability is different from the technical and commercial agreements needed to make it happen.
+### 1. The Primacy of Hardware
 
-## Reality Labs and the cost of the bet
+Meta's strategy hinges on controlling the hardware that connects users to the metaverse. The company has committed significant resources to its Reality Labs division, developing the Oculus (now Meta Quest) line of VR headsets and researching future AR glasses.
 
-Reality Labs is the clearest operational expression of Zuckerberg's strategy. Meta says the segment develops virtual, mixed, and augmented reality devices, social platforms, neural interfaces, and other foundational technologies. The company reported $19.88 billion in Reality Labs costs and expenses for 2024, compared with $2.19 billion in segment revenue, in its [annual filing](https://www.sec.gov/Archives/edgar/data/1326801/000132680125000017/meta-20241231.htm). Those figures are corporate disclosures, not a measure of how much an individual user values the products. They do show the scale and duration of the investment.
+- **Why Hardware is Key**: Owning the hardware allows Meta to dictate the operating system, app store, and overall user experience. This control enables Meta to set platform rules and take a percentage of all transactions, akin to Apple's model with its App Store.
 
-The investment has an obvious strategic logic. Hardware takes years to develop, and a platform owner needs developers, content, tools, retail channels, and trust before a device category reaches mass use. Meta can spend before a category is mature because its other businesses provide cash flow. A start-up attempting the same would likely need outside financing and would face a much shorter window to prove demand.
+- **Subsidizing Adoption**: Meta has heavily subsidized the Quest headsets, often selling them at or below cost. This strategy aims to place as many devices as possible in consumers' hands, building a substantial user base before competitors can gain traction.
 
-It also creates a governance asymmetry. Meta decides which research programs continue, how a device is priced, what operating-system features are exposed, and how a store is administered. Users may choose not to buy a device, developers may choose another platform, and regulators may impose obligations. Yet the core product choices are corporate decisions. A token attached to a virtual item would not by itself change that structure if the item only functions within a service Meta controls.
+### 2. Horizon Worlds: The Flagship Application
 
-That is why it is inaccurate to call all virtual goods "Web3 assets." A digital item can be scarce because Meta's database says it is scarce. It can be transferable because Meta's terms permit a transfer. It can be durable only so long as Meta maintains the relevant service. A blockchain-based token can add a public record of a transfer, but it cannot force a game or social world to render the associated file, grant a privilege, or preserve compatibility. Product interoperability always requires agreement by the products involved.
+Horizon Worlds serves as Meta's primary social VR application. It allows users to create environments, engage in gaming, and socialize as avatars.
 
-## Horizon and the company-operated social world
+- **A "Walled Garden"**: Horizon Worlds exemplifies a "walled garden." This proprietary platform is entirely under Meta's control. Assets created within the environment lack interoperability with other platforms, and Meta oversees content moderation and monetization.
 
-Horizon Worlds has been presented as a social virtual-reality experience in Meta's ecosystem. Its significance lies less in whether it becomes a single dominant destination than in what it reveals about the platform design. Meta supplies the account system, runtime, safety rules, discovery mechanisms, creator tools, and policy enforcement. It can create ways for creators to sell virtual items or earn from worlds, but the surrounding marketplace remains a company-administered environment.
+- **High Take Rates**: Meta's monetization strategy for Horizon Worlds has drawn significant criticism. The company announced it would take a substantial percentage from sales of digital assets, a rate that surpasses Apple's controversial App Store fee. This contrasts sharply with the low single-digit royalty fees typically found in open [NFT](/what-are-nfts) marketplaces.
 
-That arrangement has advantages. A company can offer a consistent onboarding flow, conduct content review, handle customer support, build parental controls, and integrate a store into the device. It can also change rules quickly when it sees abuse or a technical failure. Those benefits are often why people use a hosted platform. The cost is that the operator remains the final decision-maker for access and commercial terms.
+### 3. A Focus on Avatars and Social Presence
 
-Meta's public statements showed both sides. In 2021, Zuckerberg said Meta planned to aim for low creator and developer fees where possible. In 2022, the company also announced testing tools that allowed creators in Horizon Worlds to sell virtual items and access a creator bonus program. The announcement described the experiments as being available to a small number of creators rather than a settled, universal marketplace policy. Product announcements should be read with that limitation: they describe a test or plan at a point in time, not a permanent constitutional rule for a virtual economy.
+Zuckerberg emphasizes the concept of "social presence", the sensation of truly being with others in a virtual space. Significant investments have gone into developing realistic avatars and crafting engaging virtual environments for work and leisure. An initial demonstration of a leg-equipped avatar in Horizon Worlds, though ultimately revealed to be motion-captured, illustrates Meta's commitment to delivering a polished user experience, despite current technological limitations.
 
-The company-controlled approach is not secretly a contradiction. It is the product. Meta is building an integrated consumer platform, much as console, mobile, and app-store companies have done. The real contrast with Web3 is not "polished" against "rough." It is who can set the default rules and whether a user can take identity, data, and assets to another environment without seeking that company's permission.
+## The Clash with Web3 Ethos
 
-## Ownership in a Meta environment
+Meta's vision for the metaverse fundamentally contradicts the principles of the Web3 movement. The following table outlines these differences clearly:
 
-The word ownership has several meanings in digital products. A buyer may own an intellectual-property licence, a contractual entitlement to use an item, a cryptographic key, or merely a revocable account balance. Those are not interchangeable. A user who buys a virtual item in a Meta-operated service may have rights defined by the service's terms. A user who holds an NFT may control a token at an address, but the token's metadata, artwork licence, and usefulness in an application are separate matters.
+| Feature | Meta's Centralized Metaverse | Web3's Decentralized Metaverse |
+|
 
-Zuckerberg's metaverse plan is compatible with virtual commerce. It does not require the strong Web3 claim that a buyer receives a portable, self-custodied asset. Meta can make a creator economy work through traditional accounts, payments, licence terms, and content rules. That route may be simpler for many consumers, especially when recovery, refunds, customer support, and legal compliance matter. It also leaves Meta as the party through which the account and marketplace operate.
+--------------------|
 
-The comparison should not romanticize blockchain systems. Public token ownership does not prevent phishing, bad contracts, lost keys, speculative pricing, or an application refusing to integrate an item. Ethereum's original design makes the distinction clear: it provides a shared execution environment where contracts can encode rules, but the rule encoded by a contract is not the same as a legal copyright licence or a promise from every game developer. The [Ethereum white paper](https://ethereum.org/en/whitepaper/) describes a programmable platform, not a universal asset-compatibility guarantee.
+------------------------------------------------|
 
-For a reader evaluating a virtual product, the useful questions are direct. Which company operates the account? What happens if the service closes? Can an item be exported in a documented format? Is a resale possible, and under what policy? Can the purchaser choose another wallet or marketplace? Does a third party have to decide to recognize the item? The answers say more about practical ownership than whether a marketing page uses the word metaverse.
+-----------------------------------------------------|
+|
 
-## Identity, data, and moderation
+**Ownership**| Assets exist in Meta's database; Meta retains ultimate control. | Assets are NFTs on a public [blockchain](/what-is-a-blockchain); users have genuine ownership. |
+|
 
-Meta's history as a social-media company shapes this debate. Its metaverse products are intended to connect people through accounts, social graphs, messaging, and personalized experiences. That makes identity and data central, not incidental. The company's 2024 filing says it uses data and machine-learning systems across its products, including systems that rank content and recommend relevant material. A spatial social product can create even more categories of data, such as movement, voice, physical surroundings, and interaction patterns, depending on the device and features in use.
+**Identity**| Tied to a Meta account (e.g., Facebook or Instagram). | Based on a self-sovereign [wallet](/how-to-choose-a-crypto-wallet) address or decentralized ID (DID). |
+|
 
-The existence of that data does not establish misuse. It does establish why privacy architecture and policy deserve close attention. Meta said in its 2021 letter that privacy and safety needed to be built into the metaverse from day one. That is a statement of intent. Users still need product-specific information about what data is collected, what is processed locally, what is retained, how settings work, and which entities receive it.
+**Interoperability**| "Walled Garden" - assets are confined to Meta's platform. | Open and permissionless; assets can move freely across different virtual worlds and marketplaces. |
+|
 
-Moderation presents a similar trade-off. A company-run virtual world can remove harassment, restrict harmful conduct, and establish age-appropriate settings. Those capabilities require rules, reports, enforcement, and often identity or reputation signals. In an open protocol, those functions do not disappear; they move to client developers, community operators, hosts, or other layers. Web3 does not abolish moderation. It distributes decisions about who moderates and how a person can leave.
+**Governance**| Centralized control by Meta, which establishes all rules. | Community governance often enabled through [DAOs](/what-is-a-dao). |
+|
 
-Zuckerberg's position is therefore not anti-open-standard, but it is not a surrender of Meta's role either. He has repeatedly framed open standards and interoperability as parts of an ecosystem Meta will help build. The company's products remain subject to Meta's account, device, and safety systems. Readers should assess the published technical and commercial terms for each product rather than assume that a broad vision guarantees portability.
-
-## Where Meta and Web3 do meet
-
-There are genuine areas of overlap. Both camps expect digital goods to matter more in online life. Both treat identity, avatars, payments, and creator income as product problems. Both have reason to care about standards that reduce duplication for developers. Meta's hardware can also be a vehicle for applications that connect to public networks, just as a phone can run software that interacts with blockchains.
-
-The shared vocabulary should not erase different incentives. A public protocol tries to establish rules that many companies can build on without any one of them owning the protocol. Meta tries to build a durable platform business in which other developers can participate. One can produce useful products under either model. The accountability, exit options, and economic rights are different.
-
-Zuckerberg's view of Web3 is best understood through that difference. He has not made crypto or decentralized governance the foundation of Meta's metaverse strategy. He has pursued a corporate, hardware-led path toward the next computing platform, while expressing support for interoperability and creator participation. Meta's own filings still describe that path as long-term, capital-intensive, and uncertain. That is the concrete record against which the vision should be judged.
+**Economics** | improve take rates that favor the platform owner. | Minimal platform fees and royalties, benefiting creators and users. |

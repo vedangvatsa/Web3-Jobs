@@ -1,5 +1,6 @@
 ---
 title: 'DeFi Yield Farming Explained - How It Works, Yields, and Risks in 2026'
+ogTitle: "DEFI YIELD FARMING EXPLAINED - HOW IT WORKS, YIELDS, AND RISKS"
 image: >-
   https://images.unsplash.com/photo-1518458028785-8fbcd101ebb9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxpbmNvbWV8ZW58MHx8fHwxNzU1MDA3MTkxfDA&lib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -8,9 +9,8 @@ description: >-
   APY works, real 2026 return ranges, and the risks to check before you deposit.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 DeFi yield farming is the practice of depositing crypto into DeFi protocols to earn a return from trading fees, lending interest, or token incentives. You supply assets to a pool or vault, the protocol puts them to work for traders and borrowers, and you earn a share of the revenue.
 
 In 2026, realistic yields range from 3 to 5 percent APY on stablecoin lending to 5 to 25 percent on more active strategies that carry more risk. The era of sustained 1,000 percent APY from token printing is over because those returns came from inflation, not revenue, and most of those pools collapsed when the reward token price fell.
@@ -138,19 +138,13 @@ Use this checklist before you deposit:
 
 ## Pros and cons to weigh
 
+**Access and transparency.
 
+**Anyone with a wallet and internet can supply, borrow, or swap without a bank account. Contracts, balances, and collateral are public on chain. You can verify code on Etherscan, check the proxy, and read audits. That makes independent checks possible.** Composability.
 
-### Access and transparency
+**Because DeFi products share token standards like ERC-20 and ERC-4626, you can use a receipt token elsewhere without withdrawing. You can supply USDC on Aave, receive aUSDC, and use that as collateral in another app in the same transaction.** Self-custody.
 
-Anyone with a wallet and internet can supply, borrow, or swap without a bank account. Contracts, balances, and collateral are public on chain. You can verify code on Etherscan, check the proxy, and read audits. That makes independent checks possible.
-
-### Composability
-
-Because DeFi products share token standards like ERC-20 and ERC-4626, you can use a receipt token elsewhere without withdrawing. You can supply USDC on Aave, receive aUSDC, and use that as collateral in another app in the same transaction.
-
-### Self-custody
-
-You hold keys, not an exchange. That removes custodian failure but shifts key management to you. Hardware wallets, offline seed backup, and limited approvals become your controls.**Impermanent loss.** This is the shortfall when the value of your share in a two-asset pool ends up less than the value of simply holding the two tokens outside the pool because prices moved apart while you were deposited.
+**You hold keys, not an exchange. That removes custodian failure but shifts key management to you. Hardware wallets, offline seed backup, and limited approvals become your controls.** Impermanent loss.** This is the shortfall when the value of your share in a two-asset pool ends up less than the value of simply holding the two tokens outside the pool because prices moved apart while you were deposited.
 
 For a constant product pool x * y = k, impermanent loss depends only on price ratio change:
 
@@ -160,27 +154,17 @@ Uniswap docs publish the scale: 1.25x price change is about 0.6 percent loss vs 
 
 Fees can offset this, but not always. A study of Uniswap v3 volatile pairs cited in 2026 reviews found about 54.7 percent of LPs lost money after fees and impermanent loss were netted. Stable pools on Curve have much lower impermanent loss when the peg holds, which is why they are common for conservative LP strategies.
 
+**Smart contract and dependency risk.
 
+**Year-to-year loss data from Immunefi put DeFi protocol losses at 680 million dollars in 2025, up from 534 million in 2024 but 74 percent below the 2.62 billion peak in 2022, with most 2025 losses tied to protocol logic errors. An audit is a snapshot of one commit. It does not cover later changes, admin keys, or front-end compromise. Each layer you stack, for example LP token to gauge to vault to aggregator wrapper, adds a contract that can fail.** Liquidation and use risk.
 
-### Smart contract and dependency risk
+**If you borrow to farm, a price drop can push Health Factor below 1 and trigger liquidation at a discount plus penalty. During sharp moves, liquidations can cascade. Use a buffer well below max LTV, and set alerts above the liquidation threshold.** Oracle and peg risk.
 
-Year-to-year loss data from Immunefi put DeFi protocol losses at 680 million dollars in 2025, up from 534 million in 2024 but 74 percent below the 2.62 billion peak in 2022, with most 2025 losses tied to protocol logic errors. An audit is a snapshot of one commit. It does not cover later changes, admin keys, or front-end compromise. Each layer you stack, for example LP token to gauge to vault to aggregator wrapper, adds a contract that can fail.
+**Lending markets read prices from oracles. If an oracle is stale or manipulated, liquidations can trigger incorrectly. Stablecoins can depeg. Curve stable pools are built for assets that should trade near 1.00, and they become imbalanced when one asset breaks peg, leaving LPs with more of the weaker asset.** Fees and execution risk.
 
-### Liquidation and use risk
+**Gas, slippage, and price impact reduce net yield. Pool fee tiers, protocol fees that can be enabled by governance, vault performance fees, and bridge fees all come off the gross. Layer 2s reduce gas by 5 to 20 times per ethereum.org notes, but you still pay bridging and must manage finality.** Regulatory and interface risk.
 
-If you borrow to farm, a price drop can push Health Factor below 1 and trigger liquidation at a discount plus penalty. During sharp moves, liquidations can cascade. Use a buffer well below max LTV, and set alerts above the liquidation threshold.
-
-### Oracle and peg risk
-
-Lending markets read prices from oracles. If an oracle is stale or manipulated, liquidations can trigger incorrectly. Stablecoins can depeg. Curve stable pools are built for assets that should trade near 1.00, and they become imbalanced when one asset breaks peg, leaving LPs with more of the weaker asset.
-
-### Fees and execution risk
-
-Gas, slippage, and price impact reduce net yield. Pool fee tiers, protocol fees that can be enabled by governance, vault performance fees, and bridge fees all come off the gross. Layer 2s reduce gas by 5 to 20 times per ethereum.org notes, but you still pay bridging and must manage finality.
-
-### Regulatory and interface risk
-
-Contracts are permissionless, but stablecoin issuers, front ends, and fiat ramps face sanctions, licensing, and compliance rules like EU MiCA. A front end can geofence assets, and an issuer can add controls to a token contract. Your on-chain position may remain, but the interface to manage it can change.
+**Contracts are permissionless, but stablecoin issuers, front ends, and fiat ramps face sanctions, licensing, and compliance rules like EU MiCA. A front end can geofence assets, and an issuer can add controls to a token contract. Your on-chain position may remain, but the interface to manage it can change.
 
 ### Current size and context in 2026
 

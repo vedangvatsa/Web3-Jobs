@@ -1,5 +1,6 @@
 ---
 title: What is a Genesis Block in Cryptocurrency
+ogTitle: "GENESIS BLOCK IN CRYPTOCURRENCY EXPLAINED"
 image: /images/nasa-1lfI7wkGWZ4-unsplash.jpg
 data-ai-hint: blockchain genesis block
 description: >-
@@ -7,14 +8,13 @@ description: >-
   the foundation upon which the entire distributed ledger is built.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Every [blockchain](/what-is-a-blockchain) has a starting point. The **genesis block** represents the first block ever created in a blockchain's timeline. Known as Block 0, it serves as the foundation from which all subsequent blocks are cryptographically linked, forming the chain that constitutes the distributed ledger. This block is a unique and immutable record in a blockchain's history.
 
 ### Unique Properties of the Genesis Block
 
-The uniqueness of the genesis block stems from its lack of a preceding block to reference.
+The uniqueness of the genesis block stems from its lack of a preceding block to reference. 
 
 | Feature | Regular Block | Genesis Block |
 |

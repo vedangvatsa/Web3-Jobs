@@ -1,5 +1,6 @@
 ---
 title: Understanding Verifiable Credentials in Blockchain
+ogTitle: "UNDERSTANDING VERIFIABLE CREDENTIALS IN BLOCKCHAIN"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: certificate verification blockchain
 description: >-
@@ -8,9 +9,8 @@ description: >-
   they.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 In the digital era, identity consists of claims made by various authorities. Governments assert citizenship, universities confirm degrees, and employers validate employment. Currently, we rely on physical documents or centralized systems to verify these claims. This approach is inefficient, insecure, and limits user control over personal data.
 
 The [Web3](/what-is-web3) approach addresses these issues through **[Decentralized Identity (DID)](/decentralized-identity-explained)**, with
@@ -80,7 +80,7 @@ A VC is generally formatted as a JSON object (specifically, JSON-LD - Linked Dat
 
 ### The Power of VCs: Selective Disclosure and Zero-Knowledge Proofs
 
-The effectiveness of VCs significantly increases when combined with **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)**, which enable **selective disclosure**.
+The effectiveness of VCs significantly increases when combined with **[Zero-Knowledge Proofs (ZKPs)](/zero-knowledge-proofs-explained)**, which enable ** selective disclosure**.
 
 Consider a Verifiable Credential containing your full date of birth. To verify your age to a website:
 

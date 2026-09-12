@@ -1,10 +1,11 @@
 ---
 title: 'The Shape of Ethereum'
+ogTitle: "THE SHAPE OF ETHEREUM"
 description: >-
   A 6-year study of topological anomaly detection on Ethereum by Matan Prasma and Uri Yacobi Keller analyzing structural network shifts from 2020 to 2025.
 category: Technology Deep Dives
 publishedDate: '2026-09-08'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 slug: shape-of-ethereum
 ---
 
@@ -20,7 +21,7 @@ This analysis synthesizes data from 10 primary sources to explore how high-dimen
 
 ## 1. Why Volume and TVL Miss Structural Shifts
 
-Traditional blockchain analytics rely on scalar aggregates: Total Value Locked (TVL), daily active addresses, transaction throughput (TPS), or gas consumption.
+Traditional blockchain analytics rely on scalar aggregates: Total Value Locked (TVL), daily active addresses, transaction throughput (TPS), or gas consumption. 
 
 However, scalar metrics count how much activity occurred, but cannot describe how that activity was structurally distributed across the network.
 
@@ -94,7 +95,7 @@ Consider two scenarios:
 1. **Decentralized Retail Distribution:** 100,000 retail traders independently transfer $100 to centralized exchanges during a market rally. The result is a sparse, disconnected cloud of simple peer-to-peer transfers.
 2. **Systemic Liquidation Cascade:** 50 automated liquidation keeper bots execute 10,000 rapid, multi-hop transactions across [MakerDAO collateral vaults](https://forum.makerdao.com/t/black-thursday-response-next-steps/1701), [Aave lending pools](https://aave.com), and [Uniswap liquidity pools](https://uniswap.org) to prevent protocol insolvency.
 
-Both events might register identical gas usage ($10M) and transaction volume ($500M). Yet Event 1 represents organic retail flow, whereas Event 2 represents a tightly coupled liquidation loop during protocol stress.
+Both events might register identical gas usage ($10M) and transaction volume ($500M). Yet Event 1 represents organic retail flow, whereas Event 2 represents a tightly coupled liquidation loop during protocol stress. 
 
 As demonstrated in research by [Ofori-Boateng et al. (2021)](https://arxiv.org/abs/2106.01806), scalar metrics cannot differentiate between these states. Topological Data Analysis maps the spatial geometry of the underlying transaction graph to reveal these structural differences.
 

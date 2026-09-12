@@ -1,5 +1,6 @@
 ---
 title: What is a Whitepaper in Blockchain Projects
+ogTitle: "WHITEPAPER IN BLOCKCHAIN PROJECTS EXPLAINED"
 image: /images/chris-ried-ieic5Tq8YMk-unsplash.jpg
 data-ai-hint: document paper
 description: >-
@@ -7,7 +8,7 @@ description: >-
   what it should contain, and why it's the most critical document for any new.
 category: Educational
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 In the context of [Web3](/what-is-web3) and cryptocurrency, the **whitepaper** serves as a foundational document for any new project. It articulates the project's vision, technology, and economic model, providing a clear blueprint. A well-crafted whitepaper explains the problem a project seeks to address, outlines its proposed solution, and demonstrates its viability and value.
 

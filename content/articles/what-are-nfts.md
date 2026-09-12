@@ -1,5 +1,6 @@
 ---
 title: What are NFTs? An Explainer for Non-Fungible Tokens
+ogTitle: "WHAT ARE NFTS? AN EXPLAINER FOR NON-FUNGIBLE TOKENS"
 image: /images/austin-distel-tLZhFRLj6nY-unsplash.jpg
 description: >-
   NFTs have taken the world by storm. This guide explains what Non-Fungible
@@ -8,9 +9,8 @@ description: >-
 category: Industry Insights
 data-ai-hint: nft explainer
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## What is an NFT
 
 An NFT is a unique token recorded on a [blockchain](/what-is-a-blockchain) that proves ownership of a specific item. Unlike one bitcoin that equals any other bitcoin, each NFT is distinct and cannot be swapped one-for-one.
@@ -66,11 +66,9 @@ If the metadata or image link breaks or is changed without notice, the token sti
 
 Because storing large files on Ethereum is expensive, files are usually stored off chain and referenced by hash. Common options:
 
--
+- **IPFS with pinning.
 
-### IPFS with pinning
-
-The file is added to the InterPlanetary File System and addressed by a CID, a cryptographic hash of the content like `ipfs://bafybeib...`. IPFS is peer to peer, so the file only stays available if someone pins it. Pinning means a node promises to keep the data. Without pinning, garbage collection will eventually delete it. Official guidance is at [docs.ipfs.tech/how-to/best-practices-for-nft-data](https://docs.ipfs.tech/how-to/best-practices-for-nft-data/). Services like Pinata or NFT.Storage pin on your behalf, or you can run your own IPFS nodes. Use `ipfs://` in the contract, not a specific gateway URL like `https://gateway.pinata.cloud/ipfs/...`, so wallets can resolve through any gateway.
+**The file is added to the InterPlanetary File System and addressed by a CID, a cryptographic hash of the content like `ipfs://bafybeib...`. IPFS is peer to peer, so the file only stays available if someone pins it. Pinning means a node promises to keep the data. Without pinning, garbage collection will eventually delete it. Official guidance is at [docs.ipfs.tech/how-to/best-practices-for-nft-data](https://docs.ipfs.tech/how-to/best-practices-for-nft-data/). Services like Pinata or NFT.Storage pin on your behalf, or you can run your own IPFS nodes. Use `ipfs://` in the contract, not a specific gateway URL like `https://gateway.pinata.cloud/ipfs/...`, so wallets can resolve through any gateway.
 
 - **Arweave or Filecoin** for longer term paid storage with different guarantees.
 
@@ -110,62 +108,42 @@ Projects are testing NFTs that represent property titles, club shares, or serial
 
 ### What NFTs do well
 
--
+- **Verifiable ownership and provenance.
 
-### Verifiable ownership and provenance
+**Anyone can confirm who minted the token, who owned it, and when it moved, without asking a company to share a private database.
+- **User custody.
 
-Anyone can confirm who minted the token, who owned it, and when it moved, without asking a company to share a private database.
--
+**The holder controls the token in a non-custodial [wallet](/how-to-choose-a-crypto-wallet) and can sell it on any compatible marketplace, not only the issuer's site.
+- **Programmable signals for royalties.
 
-### User custody
+**EIP-2981 defines `royaltyInfo(uint256 _tokenId, uint256 _salePrice)` to return a recipient and amount. Any marketplace can query it. It is a simple building block, not enforcement. See [eips.ethereum.org/EIPS/eip-2981](https://eips.ethereum.org/EIPS/eip-2981).
+- **Composability.
 
-The holder controls the token in a non-custodial [wallet](/how-to-choose-a-crypto-wallet) and can sell it on any compatible marketplace, not only the issuer's site.
--
-
-### Programmable signals for royalties
-
-EIP-2981 defines `royaltyInfo(uint256 _tokenId, uint256 _salePrice)` to return a recipient and amount. Any marketplace can query it. It is a simple building block, not enforcement. See [eips.ethereum.org/EIPS/eip-2981](https://eips.ethereum.org/EIPS/eip-2981).
--
-
-### Composability
-
-Because NFTs use open standards, other apps can build on them. An NFT from one project can be read by wallets, explorers, and DeFi protocols without custom deals.
+**Because NFTs use open standards, other apps can build on them. An NFT from one project can be read by wallets, explorers, and DeFi protocols without custom deals.
 
 ### What to watch out for
 
--
+- **Royalties are voluntary.
 
-### Royalties are voluntary
+**EIP-2981 signals what the creator asks for, but the core ERC-721 `transferFrom` cannot force a payment during a sale. Marketplaces decide. In 2022 to 2023, competing marketplaces such as X2Y2, SudoSwap, and Blur made royalties optional or as low as 0.5 percent to attract traders. OpenSea announced on August 17, 2023 that it would retire its Operator Filter enforcement tool and make creator fees optional for new collections starting August 31, 2023, keeping enforcement only for some existing collections through February 29, 2024. Creator royalty income fell across the market as a result.
+- **Links can break.
 
-EIP-2981 signals what the creator asks for, but the core ERC-721 `transferFrom` cannot force a payment during a sale. Marketplaces decide. In 2022 to 2023, competing marketplaces such as X2Y2, SudoSwap, and Blur made royalties optional or as low as 0.5 percent to attract traders. OpenSea announced on August 17, 2023 that it would retire its Operator Filter enforcement tool and make creator fees optional for new collections starting August 31, 2023, keeping enforcement only for some existing collections through February 29, 2024. Creator royalty income fell across the market as a result.
--
+**If the image is on a single server or unpinned IPFS node, the token may survive while the media disappears. Check storage method before you buy.
+- **Copyright stays with the creator by default.
 
-### Links can break
+**Buying an NFT usually gives you the token and a license to display the art for personal use, not the copyright. The artist retains reproduction and commercial rights unless a written license transfers them. Some projects grant commercial rights up to a cap, such as the early CryptoKitties license, but this is project-specific and must be in the terms.
+- **UX and custody risk.
 
-If the image is on a single server or unpinned IPFS node, the token may survive while the media disappears. Check storage method before you buy.
-- Copyright stays with the creator by default.
+**You manage seed phrases, private keys, gas fees, and contract approvals. A wrong approval can let a malicious contract move your assets. There is no password reset.
+- **Market volatility and quality.
 
-Buying an NFT usually gives you the token and a license to display the art for personal use, not the copyright. The artist retains reproduction and commercial rights unless a written license transfers them. Some projects grant commercial rights up to a cap, such as the early CryptoKitties license, but this is project-specific and must be in the terms.
--
+**The 2021 to 2022 boom filled marketplaces with low effort collections. Many now have near zero liquidity. Past sale price does not predict future demand.
+- **Energy use changed with Ethereum.
 
-### UX and custody risk
+**Ethereum switched from proof of work to proof of stake on September 15, 2022 in an event called The Merge. According to [ethereum.org/roadmap/merge](https://ethereum.org/roadmap/merge), energy use fell by about 99.95 percent. Minting on Ethereum today is not comparable to pre-Merge mining. Other chains such as Tezos, Flow, and Solana also used low-energy consensus before and after The Merge.
+- **Legal gaps.
 
-You manage seed phrases, private keys, gas fees, and contract approvals. A wrong approval can let a malicious contract move your assets. There is no password reset.
--
-
-### Market volatility and quality
-
-The 2021 to 2022 boom filled marketplaces with low effort collections. Many now have near zero liquidity. Past sale price does not predict future demand.
--
-
-### Energy use changed with Ethereum
-
-Ethereum switched from proof of work to proof of stake on September 15, 2022 in an event called The Merge. According to [ethereum.org/roadmap/merge](https://ethereum.org/roadmap/merge), energy use fell by about 99.95 percent. Minting on Ethereum today is not comparable to pre-Merge mining. Other chains such as Tezos, Flow, and Solana also used low-energy consensus before and after The Merge.
--
-
-### Legal gaps
-
-Tax, securities, and consumer protection rules for NFTs vary by country and are still evolving.
+**Tax, securities, and consumer protection rules for NFTs vary by country and are still evolving.
 
 ## How to use, buy, create, and stay safe
 
@@ -175,57 +153,39 @@ Use a non-custodial wallet such as MetaMask, Rabby, or Phantom. Write down the s
 
 ### Buying checklist
 
-1.
+1. **Verify the contract.
 
-### Verify the contract
+**Go to the project's official site or official social account and copy the contract address. Check it on Etherscan or the relevant explorer. Look for a verified contract and the correct `tokenId` range. Fake collections often use similar names.
+2. **Check storage.
 
-Go to the project's official site or official social account and copy the contract address. Check it on Etherscan or the relevant explorer. Look for a verified contract and the correct `tokenId` range. Fake collections often use similar names.
-2.
+**Look at the tokenURI and image link. An `ipfs://` URI with a CID that resolves on multiple gateways is more durable than a single-domain `https://` link.
+3. **Review rights.
 
-### Check storage
+**Read the license in the project docs. Does ownership give you personal display only, commercial use to a limit, or full transfer of copyright? If nothing is stated, assume no rights transfer.
+4. **Compare across marketplaces.
 
-Look at the tokenURI and image link. An `ipfs://` URI with a CID that resolves on multiple gateways is more durable than a single-domain `https://` link.
-3.
+**OpenSea, Blur, and Magic Eden show different liquidity and fees. Historical volume leaders change. Check that the listing is on a marketplace that respects creator royalties if that matters to you or the creator.
+5. **Check approvals.
 
-### Review rights
-
-Read the license in the project docs. Does ownership give you personal display only, commercial use to a limit, or full transfer of copyright? If nothing is stated, assume no rights transfer.
-4.
-
-### Compare across marketplaces
-
-OpenSea, Blur, and Magic Eden show different liquidity and fees. Historical volume leaders change. Check that the listing is on a marketplace that respects creator royalties if that matters to you or the creator.
-5.
-
-### Check approvals
-
-After buying, revoke unnecessary operator approvals in your wallet or on a tool like revoke.cash.
+**After buying, revoke unnecessary operator approvals in your wallet or on a tool like revoke.cash.
 
 ### Creating checklist
 
-1.
+1. **Choose the standard.
 
-### Choose the standard
+**Use ERC-721 for one-of-one art where each piece should be distinct. Use ERC-1155 if you need editions, batches, or fungible elements such as game currency in the same contract.
+2. **Prepare metadata correctly.
 
-Use ERC-721 for one-of-one art where each piece should be distinct. Use ERC-1155 if you need editions, batches, or fungible elements such as game currency in the same contract.
-2.
+**Generate images, upload them to IPFS, get the CID, insert `ipfs://CID` into the JSON, then upload the JSON and record its CID as the tokenURI. Validate JSON syntax and that the image resolves.
+3. **Implement EIP-2981 if you want to signal royalties.
 
-### Prepare metadata correctly
+**Add `royaltyInfo` to your contract and register the interface ID `0x2a55205a`. Understand that this is a request, not enforcement, and that marketplaces may ignore it.
+4. **Plan pinning and longevity.
 
-Generate images, upload them to IPFS, get the CID, insert `ipfs://CID` into the JSON, then upload the JSON and record its CID as the tokenURI. Validate JSON syntax and that the image resolves.
-3. Implement EIP-2981 if you want to signal royalties.
+**Decide who pins the data and for how long. If you use a pinning service, keep at least one backup pin or your own node.
+5. **Test on testnet.
 
-Add `royaltyInfo` to your contract and register the interface ID `0x2a55205a`. Understand that this is a request, not enforcement, and that marketplaces may ignore it.
-4.
-
-### Plan pinning and longevity
-
-Decide who pins the data and for how long. If you use a pinning service, keep at least one backup pin or your own node.
-5.
-
-### Test on testnet
-
-Mint, view in a wallet, list, and transfer on a test network before mainnet. This catches URI errors without wasting gas.
+**Mint, view in a wallet, list, and transfer on a test network before mainnet. This catches URI errors without wasting gas.
 
 ### Red flags to avoid
 

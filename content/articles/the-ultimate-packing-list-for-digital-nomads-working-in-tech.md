@@ -1,5 +1,6 @@
 ---
 title: the best Packing List for Digital Nomads in Tech
+ogTitle: "THE BEST PACKING LIST FOR DIGITAL NOMADS IN TECH"
 image: /images/bilge-tekin-GiATUqz4NYY-unsplash.jpg
 description: >-
   Working remotely from anywhere in the world requires careful planning. This is
@@ -7,9 +8,8 @@ description: >-
 category: Career Guides
 data-ai-hint: travel packing
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 [Web3](/what-is-web3) and [remote work](/remote-work-in-web3) have made [digital nomad](/crypto-guide-for-digital-nomads) careers viable. Many tech professionals and Web3 workers travel while working. Working from Southeast Asia, Europe, or Latin America while employed at US or European companies is increasingly common.
 
 However, traveling while working requires different packing than regular travel. You need equipment that works reliably. You need backup systems. You need to stay productive while moving between locations. This guide covers what to pack for a sustainable digital nomad tech career.
@@ -153,7 +153,7 @@ You can't afford to lose work or get hacked.
 - Keep backup separate from laptop (different location)
 - Backup weekly at minimum
 
-**Backup system**:
+**Backup system**: 
 - Use cloud backup (iCloud, Google Drive, Backblaze, Acronis)
 - Or periodic external backup
 - Or both (belt and suspenders approach) **Password manager**: Essential when using different networks/devices.

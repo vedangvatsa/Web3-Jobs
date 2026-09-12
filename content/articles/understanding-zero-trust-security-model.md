@@ -1,14 +1,14 @@
 ---
 title: Understanding Zero Trust Security Model
+ogTitle: "UNDERSTANDING ZERO TRUST SECURITY MODEL"
 description: >-
   An explanation of the Zero Trust security model, a modern approach to
   cybersecurity that assumes no user or device is trusted by default.
 category: Educational
 data-ai-hint: cyber security
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Zero Trust represents a modern cybersecurity strategy built on the principle of "never trust, always verify." This approach marks a significant departure from the conventional "castle-and-moat" security model.
 
 In the traditional model, security focused on the perimeter. Organizations relied heavily on firewalls to protect their internal networks. If an individual gained access to the network, they were generally trusted. This method has a critical flaw; once an attacker breaches the perimeter, such as through credential theft via a phishing attack, they can freely access the network and sensitive information.
@@ -57,5 +57,5 @@ Not completely, but it alters their functions. Firewalls remain essential for bl
 
 #### 2. Will I have to constantly re-enter my password with Zero Trust?
 
-No. A well-structured Zero Trust system aims to minimize friction for legitimate users. While the system continuously verifies access in the background, it does not require users to take action frequently. For example, it may use passwordless authentication methods, such as biometrics, and only necessitate re-authentication if a user's risk profile changes, such as when accessing sensitive applications or moving to a new location.**3. Is Zero Trust only applicable to large enterprises?**
+No. A well-structured Zero Trust system aims to minimize friction for legitimate users. While the system continuously verifies access in the background, it does not require users to take action frequently. For example, it may use passwordless authentication methods, such as biometrics, and only necessitate re-authentication if a user's risk profile changes, such as when accessing sensitive applications or moving to a new location.**3. Is Zero Trust only applicable to large enterprises?** 
 While large organizations have been early adopters, the principles of Zero Trust apply to businesses of all sizes. Many cloud-based security services now offer solutions that make it easier and more affordable for small and medium-sized enterprises to implement a Zero Trust strategy.

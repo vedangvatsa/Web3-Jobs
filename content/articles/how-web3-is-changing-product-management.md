@@ -1,5 +1,6 @@
 ---
 title: How Web3 Is Changing Product Management
+ogTitle: "HOW WEB3 IS CHANGING PRODUCT MANAGEMENT"
 image: /images/thisisengineering-ZPeXrWxOjRQ-unsplash.jpg
 data-ai-hint: web3 product management
 description: >-
@@ -7,7 +8,7 @@ description: >-
   community governance, open-source protocols, and tokenomics are reinventing.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 The role of a Product Manager in the Web2 environment is well-defined. You act as the CEO of the product, overseeing its vision, managing the roadmap, and optimizing key performance indicators such as user growth and revenue. Business models typically center around advertising, subscriptions, or transaction fees, all within a closed and proprietary ecosystem.
 

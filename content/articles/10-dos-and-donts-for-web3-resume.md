@@ -1,111 +1,121 @@
 ---
 title: '10 Dos and Don''ts for Your Web3 Resume'
+ogTitle: "10 DOS AND DON'TS FOR YOUR WEB3 RESUME"
 image: /images/emile-perron-xrVDYZRGdw4-unsplash.jpg
 data-ai-hint: resume writing tips
 description: >-
-  Practical resume advice for Web3 roles: show verifiable work, name the stack,
-  quantify real outcomes, and cut claims a hiring team cannot check.
+  Practical resume advice from Web3 hiring managers: what to include, what to
+  cut, and how to prepare for blockchain roles.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
+Web3 hiring differs significantly from traditional tech hiring. Recruiters in the crypto space sift through hundreds of resumes each week, and many applicants make easily avoidable mistakes. After analyzing thousands of applications on our job board, we present the ten essential rules that can help candidates secure callbacks rather than rejections.
 
-A Web3 resume has an unusually useful advantage: some work can be inspected. A recruiter or hiring manager can open a repository, a block explorer, a governance forum, a design file, a published analysis, or a live product. Use that advantage. Do not replace it with claims about being passionate, early, or native to an ecosystem.
+## The Do's
 
-The basic resume rules still apply. Harvard's [career guide](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/) recommends specific, active, fact-based language that is easy to scan, plus tailoring the resume to the work an employer values. Web3 adds a second standard: every material claim should have a proof path. That does not mean exposing private data or linking every sentence. It means a reader should be able to tell what you did, why it mattered, and where they can verify it.
+### 1. Do: Lead with Onchain Work, Not Credentials
 
-## The Dos
+Top Web3 resumes prioritize links to deployed smart contracts, GitHub repositories, or contributions to protocols. For instance, a Solidity developer who has deployed a contract on the mainnet with a significant number of transactions presents a more compelling case than one with a Stanford CS degree but no crypto experience.
 
-### 1. Do lead with work a reader can inspect
+**Practical examples include:**- "Developed and deployed an ERC-4626 vault on Ethereum mainnet, audited by Trail of Bits, achieving significant value within 30 days."
+- Include links to Etherscan, GitHub, or a live product.
 
-Put the strongest proof near the top of the page. For a smart-contract engineer, that might be a public repository, a deployed contract address, a verified source page, an audit contribution, or a technical write-up. For a product manager, it might be a launch page, research artifact, user-flow prototype, or governance proposal. For a community operator, it might be an event program, contributor handbook, approved grant process, or report with public outcomes.
+Hiring managers at crypto companies typically spend less than 15 seconds on initial resume screenings. An Etherscan link provides credibility more effectively than any bullet point can.
 
-The link should serve the claim. Do not paste six unexplained URLs beside your name. Label them: `GitHub: lending-vault`, `Deployment: Sepolia contract`, `Writing: incident analysis`, `Governance: proposal 18`. GitHub profiles can show selected repositories, a profile README, and public contribution activity; its [profile documentation](https://docs.github.com/en/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/about-your-profile) explains the controls. Pin the two or three projects that make the clearest case for the role.
+### 2. Do: Quantify Your Impact with Metrics
 
-For a deployed contract, say what the link establishes. "Deployed an ERC-4626 vault on Sepolia; wrote deposit and withdrawal tests; source verified" is clear. ERC-4626 is a standard interface for tokenized vault shares over a single underlying ERC-20 asset, as the [specification](https://eips.ethereum.org/EIPS/eip-4626) explains. "Built a DeFi protocol" is not clear. It gives the reader no way to identify the code, the chain, the scope, or your responsibility.
+Web3 companies operate based on data. Transform vague descriptions into specific numbers:
 
-If your best work is private, describe the constraint rather than inventing proof. Write: "Built internal reconciliation tooling for a custodial wallet; cannot share code; can discuss architecture and test coverage." A candidate who distinguishes confidential work from public work reads as more trustworthy than one who makes a large claim and cannot explain it.
+| Weak Statement | Strong Statement |
+|
 
-### 2. Do quantify a real outcome and name the measurement
+----------------|
 
-Numbers help only when their unit and source make sense. "Improved engagement by 40%" says almost nothing. Engagement with what? Over which dates? From what denominator? Was it a count of comments, a retention rate, a conversion rate, or an on-chain action?
+------------------|
+| "Managed social media for a DeFi protocol" | "Grew protocol Twitter from a small following to a significant number in 6 months, generating a notable number of waitlist signups from a single thread." |
+| "Worked on smart contract security" | "Identified critical vulnerabilities in an audit of a protocol with significant value and filed multiple bug bounties, totaling substantial rewards." |
+| "Built frontend for crypto project" | "Developed a trading interface that handles a significant number of daily active users and substantial daily volume on Arbitrum." |
 
-Use a compact structure: action, object, result, measurement window. For example: "Reduced failed checkout submissions from 8.4% to 3.1% over four weeks by adding network detection and transaction simulation." A hiring manager can ask a useful follow-up question. The statement names an outcome without pretending it proves universal product-market fit.
+Quantifiable achievements speak volumes about competence. If you cannot measure a contribution, reconsider its relevance on your resume.
 
-For engineering work, choose measurements tied to the job: test coverage only when the method is meaningful, median confirmation time, error rate, indexing lag, support tickets caused by a release, page performance, or cost per indexed block. For growth work, separate reach from conversion. For operations, count the requests processed, the turnaround time, the exceptions, and the control that reduced them. Never use total value locked, token price, or trading volume as a personal accomplishment unless you can show the direct and ethical connection to your work.
+### 3. Do: List Specific Technologies, Not Categories
 
-Harvard's guide puts "fact-based (quantify and qualify)" beside the instruction to demonstrate results. Follow both parts. Qualify a small sample, a beta launch, or an attribution limit. One precise metric with a caveat is stronger than three inflated numbers.
+Instead of writing "blockchain development tools," specify "Solidity, Foundry, Hardhat, ethers.js, IPFS, The Graph." Recruiters often search applicant databases using specific technology keywords. Generic phrases like "smart contract development" may not result in your resume being found.
 
-### 3. Do name technologies at the level you can defend
+For non-technical roles, the same approach applies. A marketing professional should specify "Dune Analytics, DefiLlama, Token Terminal, Nansen" rather than using the term "crypto analytics tools."
 
-"Blockchain tools" is not a skill. Neither is a column of logos copied from a job post. Name the language, library, framework, protocol, chain, or service, then make your depth visible through the experience beneath it.
+### 4. Do: Include Your Web3 Community Activity
 
-For a Solidity role, a skills line might list `Solidity, Foundry, Hardhat, viem, ethers.js, OpenZeppelin Contracts, subgraphs`. Your bullets should then reveal whether you used those tools to write tests, build a deployment script, integrate a contract, inspect events, or review a permission model. For a data role, name `SQL, Python, Dune, dbt, GraphQL, The Graph` only if a project proves the connection. For a product role, naming a protocol is useful when you can explain its users, risks, constraints, and metrics.
+Engagement in governance proposals, forum discussions, grant applications, and hackathon entries demonstrates genuine involvement in the ecosystem. A product manager who authored governance proposals showcases domain knowledge that certifications cannot match.
 
-Avoid claiming a protocol because you held its token or used its app. A recruiter may probe the difference between an Ethereum rollup, a bridge, a sequencer, and a wallet. List the area you studied only if you can explain an implementation decision. It is fine to write `Learning: Rust and Anchor` in a separate line. It is not fine to put them beside production skills if you have only followed a tutorial.
+Create a dedicated "Web3 Community" section listing:
+- Hackathon placements (ETHGlobal, Chainlink hackathons)
+- DAO governance participation (authored proposals, delegate activity)
+- Open-source contributions (merged PRs to significant protocols)
+- Content creation (technical blog posts, research reports)
 
-Specificity also helps the resume reach the right reader. A protocol team hiring for a Rust program will search for concrete evidence of Rust, testing, systems programming, or its own stack. Make matching easy, but do not rewrite your history to mimic every keyword.
+### 5. Do: Tailor Each Application to the Protocol's Stack
 
-### 4. Do include community work that produced an artifact
+When applying for a Solana position, highlight Rust and Anchor skills. In contrast, for an Ethereum Layer 2 role, emphasize Solidity and rollup architecture. Avoid sending a generic "blockchain developer" resume to every company.
 
-Web3 communities often do work in public: governance discussions, open-source reviews, grant applications, hackathons, documentation, research, and local events. Include that work when it shows a skill relevant to the role. The criterion is not prestige; it is whether you can state your contribution and result.
-
-Weak: "Active in DAO governance." Stronger: "Authored a forum proposal that compared three multisig signer rotations, collected feedback from delegates, and produced the final execution checklist." Weak: "ETHGlobal participant." Stronger: "Built the indexer for a four-person hackathon project; modeled 12 contract events and wrote the demo query." The second version tells the reader where to start a technical conversation.
-
-Do not claim ownership of group work. Name the team and your lane. If the repository has four contributors, say what you wrote, reviewed, designed, or presented. If a proposal was not approved, that can still be useful experience; describe the analysis and the decision without presenting it as a win.
-
-### 5. Do reorder the resume for the role in front of you
-
-Tailoring is not a cosmetic exercise. Read the job description, documentation, recent releases, engineering blog, and public repository. Then decide which three facts in your background answer the team's immediate problem.
-
-For a smart-contract security role, an audit contest finding, fuzz-test suite, or protocol integration belongs before a generic frontend internship. For a developer-relations role, documentation, workshops, example apps, and issue triage may belong before unrelated token research. For a payments product role, reconciliation, risk controls, checkout behavior, and support workflows may matter more than your first NFT mint.
-
-Do not change job titles or stretch a contribution to fit. Change emphasis. Move the relevant project up, replace a broad summary with a role-specific one, and select the technologies you actually used. The [resume guidance](https://careerservices.fas.harvard.edu/resources/create-a-strong-resume/) calls for headings in order of importance and reverse chronological information within each heading. Use that flexibility to make a deliberate argument rather than producing a new biography for every application.
+Research the company's tech stack before applying. Review their documentation, explore their GitHub, and analyze their job description for specific tools. Once equipped with this information, reorder your skills and experiences accordingly.
 
 ## The Don'ts
 
-### 6. Don't use Web3 identity labels as evidence
+### 6. Don't: Use Buzzwords Without Substance
 
-"Web3 native," "blockchain enthusiast," "thought leader," and "decentralization advocate" may be sincere, but they do not establish a skill. They also consume the valuable first lines of a one-page document.
+Phrases like "passionate about decentralization" or "Web3 native" lack meaning without supporting evidence. Many applicants claim passion, but what sets you apart is proof: the code you've written, the projects you've completed, and the communities you've built.
 
-Replace a label with an observable verb. Instead of "passionate about on-chain governance," write "Reviewed five governance proposals and published a comparison of quorum, delegation, and execution risks." Instead of "results-driven crypto marketer," write "Wrote and tested an onboarding email sequence for a wallet beta; tracked activation through first transaction." The reader can decide whether the work is good.
+Eliminate these common phrases:
+- "Passionate blockchain enthusiast"
+- "Forward-thinking innovator"
+- "Results-driven professional"
+- "Seasoned crypto expert"
 
-The same rule applies to generative AI assistance. Harvard advises that AI can help revise bullets or identify job-description terms, but that the resume should authentically represent the candidate and not be primarily authored by a system because generic output is a risk. Keep the underlying experience yours. If an interview question can expose that a claim came from a template rather than work you did, remove it.
+Substitute each with a specific accomplishment that highlights your contributions.
 
-### 7. Don't turn personal trading into professional experience
+### 7. Don't: Include Every Crypto Token You've Traded
 
-Buying, selling, staking, or collecting tokens may have taught you something. It does not, by itself, demonstrate that you can build, analyze, operate, or manage risk for an employer. Personal portfolio screenshots and lists of coins make a resume look like a disclosure, not a work history.
+Listing personal trading history does not qualify as professional experience. A statement like "experienced with various cryptocurrencies" resembles a portfolio disclosure rather than a skill set.
 
-There are narrow exceptions. If you were employed in trading, market making, research, risk, or treasury, explain the professional activity without revealing confidential positions or client data. Describe the model, control, analysis, or operating process you owned. Do not imply you managed money you did not manage.
+The only exception is if you have worked professionally in trading, market-making, or portfolio management at a fund or exchange. In that case, include specific strategies and performance metrics.
 
-If personal experimentation produced a real artifact, include the artifact rather than the trade. "Built a tax-lot parser for my own wallet history" demonstrates a project. "Traded DeFi tokens since 2020" does not. The distinction is concrete: one tells the employer what you made and what tools you used; the other tells them only that you took market risk.
+### 8. Don't: Hide Employment Gaps Behind Vague Crypto Projects
 
-### 8. Don't hide a gap behind a project you cannot explain
+Hiring managers in Web3 can easily identify fictional projects. If you spent time learning Solidity independently, state it clearly: "Self-directed study, completed CryptoZombies, built practice contracts, and contributed to open-source repositories." Honesty about your learning journey garners more respect than fabricating project names.
 
-Self-directed study is legitimate. Say so. A gap may include coursework, caregiving, a job search, a contract attempt, open-source contributions, or building a portfolio. The problem begins when a resume creates the impression of a company, product, or responsibility that did not exist.
+If you contributed to a DAO, provide the DAO's name, your specific role, and verifiable on-chain evidence of your participation.
 
-Use an honest label such as `Independent Web3 Development, May 2025-Nov. 2025`. Then provide proof: "Completed a Solidity security curriculum, wrote 18 Foundry tests for a practice escrow, and opened two documentation pull requests." The reader can assess the work without guessing whether you were secretly employed.
+### 9. Don't: Write a Three-Page Resume
 
-Be especially careful with DAO work. Name the DAO, the contribution, the period, and the public record if one exists. Do not claim to be a core contributor because you voted once, joined a Discord, or received a token. Honest scope helps a junior candidate. Invented scope damages every other claim on the page.
+Limit your resume to one page for under five years of experience. For senior roles, two pages serve as the maximum. Web3 hiring operates quickly, and lengthy resumes may signal poor communication skills. Protocol teams seek individuals who can convey complex ideas succinctly, and your resume serves as the initial test of this ability.
 
-### 9. Don't make the reader excavate the signal
+Ensure each line justifies its presence on your resume. If a bullet point does not directly support your candidacy for the specific role, remove it.
 
-Length is not a seniority badge. A resume should be as long as the evidence requires and no longer. Early-career applicants can often make the case in one page. Experienced candidates may need two, particularly when they have led teams, shipped several relevant systems, or worked across technical and regulatory domains. The page count is less important than scanability.
+### 10. Don't: Ignore the Cover Letter (or Application Note)
 
-Cut bullets that repeat the job title. "Responsible for building frontend features" says little. Replace it with one bullet that identifies a hard feature, a decision, and a result. Cut old experience when it no longer supports the target role, but keep a short line when it explains a useful transferable skill. A former finance analyst applying for stablecoin operations should not erase reconciliation or control experience merely because it predates crypto.
+Many Web3 applications include a short text field or request a cover letter. Leaving this section blank is a missed opportunity. A two-paragraph note explaining your motivation to work for a specific protocol and referencing details about their product or a recent governance decision can differentiate you from many applicants who overlook this step.
 
-Use white space, consistent dates, and predictable links. Export the final version to PDF and click every link. The Harvard guide specifically warns candidates to check that formatting survives PDF conversion. A broken project URL or a two-line hyperlink can undo careful content work.
+## Resume Structure Template
 
-### 10. Don't leave an application note empty or generic
+For a Web3 role, organize your resume as follows:
 
-When an application includes a short text field, treat it as a routing note. It should connect one proof from your resume to one actual need at the company. Two short paragraphs are enough.
+1.
 
-Start with the role and the evidence: "I am applying for the protocol engineer role because I have shipped and tested vault integrations in Solidity and Foundry." Then name a specific product, technical decision, repository issue, or documented constraint that you studied. End with what you would investigate or contribute first. Do not write a love letter to a token price, claim to have followed the project "since day one," or repeat the summary section.
+**Contact + Links**(GitHub, relevant profiles, portfolio)
+2.
 
-Harvard's cover-letter guidance recommends tailoring the letter, keeping it concise and factual, and connecting examples to the job description. The rule works well here. A thoughtful note signals that you understand the team is hiring for a problem, not for an audience member.
+**Summary**(2 sentences: your role and strongest credential)
+3.
 
-## A structure that earns its space
+**Technical Skills**(specific tools, languages, frameworks)
+4.
 
-Start with your name, email, location or time zone when useful, and a short set of labeled links. Add a two-line summary only if it identifies a role and a concrete specialization. Follow with experience and selected projects in the order that best supports the application. Put skills after the evidence unless a technical role requires a quick stack scan. Use a separate community section when it contains real contributions. Keep education concise and place it where it adds the most credibility for your stage.
+**Professional Experience**(reverse chronological, metrics-driven)
+5.
 
-Before sending, run a simple test. Can a reader identify your target role in ten seconds? Can they open the best proof without searching? Can you explain every noun, metric, and link in an interview? If the answer is yes, the resume is doing its job.
+**Web3 Community**(hackathons, governance, open-source)
+6.
+
+**Education** (brief, at the bottom)

@@ -1,14 +1,14 @@
 ---
 title: What is a Blockchain Fork Choice Rule
+ogTitle: "BLOCKCHAIN FORK CHOICE RULE EXPLAINED"
 description: >-
   A deep dive into how blockchain networks, from Bitcoin to Ethereum, use fork
   choice rules to maintain consensus and determine the single valid chain in a.
 category: Educational
 data-ai-hint: fork choice
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## What is a Blockchain Fork Choice Rule? A Guide
 
 In the decentralized world of [blockchain](/what-is-a-blockchain), where thousands of nodes must agree on a single version of history, forks are a natural and frequent occurrence. A **fork choice rule** is the fundamental algorithm that allows a node to look at all the different versions (forks) of a blockchain it sees and unambiguously choose the one "correct" or "canonical" chain. It is one of the most critical components of any consensus mechanism, ensuring that the network eventually converges on a single, unified ledger.
@@ -43,7 +43,7 @@ When a node sees two competing forks, it will simply continue to build on top of
 * **Example**: Two miners, A and B, find a block at the same height. The network is split. Then, Miner C finds a new block and decides to build on top of Miner A's block. The A-C chain is now longer than the B chain. All nodes in the network that previously followed the B chain will now drop it and adopt the A-C chain as the canonical one.
 
 * **Pros**: Simple, elegant, and has proven to be incredibly reliable over more than a decade.
-* **Cons**: It can be vulnerable to certain attacks like**[selfish mining](/selfish-mining-attack-explained-simply)**, where a miner secretly builds a longer chain to orphan the blocks of others. It also has a relatively high latency to finality; a block is only considered final after several more blocks are added on top of it.
+* **Cons **: It can be vulnerable to certain attacks like**[selfish mining](/selfish-mining-attack-explained-simply)**, where a miner secretly builds a longer chain to orphan the blocks of others. It also has a relatively high latency to finality; a block is only considered final after several more blocks are added on top of it.
 
 #### 2. LMD GHOST in Proof-of-Stake (e.g., Ethereum)
 
@@ -76,7 +76,7 @@ The fork choice rule is directly tied to a blockchain's security and finality gu
 
 An attacker's goal is often to manipulate the fork choice rule.
 
-* **51% Attack**: In a PoW system, an attacker with more than 50% of the network's hash rate can reliably create the longest chain, allowing them to**[double-spend](/double-spending-problem-in-cryptocurrency)** transactions and censor others. They are guaranteed to win any fork choice race.
+* **51% Attack **: In a PoW system, an attacker with more than 50% of the network's hash rate can reliably create the longest chain, allowing them to**[double-spend](/double-spending-problem-in-cryptocurrency)** transactions and censor others. They are guaranteed to win any fork choice race.
 
 * **Selfish Mining**: A more subtle attack where a minority miner can earn a disproportionate amount of revenue by strategically withholding their found blocks and only releasing them to orphan the blocks of other miners. This exploits the network latency inherent in the longest chain rule.
 

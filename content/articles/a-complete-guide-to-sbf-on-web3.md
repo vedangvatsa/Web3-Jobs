@@ -1,89 +1,87 @@
 ---
 title: SBF in Web3
-description: Sam Bankman-Fried's rise through Alameda Research and FTX, the exchange's 2022 collapse, and the control failures established by regulators and the criminal case.
+ogTitle: "SBF IN WEB3"
+description: >-
+  Explore the complex and controversial history of Sam Bankman-Fried (SBF) in
+  the Web3 space. From the rise of FTX and Alameda Research to their dramatic.
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 category: Industry Insights
 data-ai-hint: man portrait
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
+## Introduction to SBF and His Rise in Crypto
 
-## Introduction: the exchange at the centre of a crisis
+Sam Bankman-Fried, widely known as SBF, is one of the most polarizing figures in the history of cryptocurrency. As the founder and former CEO of the crypto exchange FTX and the trading firm Alameda Research, he rose to prominence quickly, becoming a significant figure by his late twenties and a key voice in the [Web3](/what-is-web3) industry. His public image was that of a visionary and an altruistic leader, championing a philosophy of "effective altruism" where he aimed to make billions of dollars to give away to charity.
 
-Sam Bankman-Fried founded FTX and led it until the exchange group filed for Chapter 11 bankruptcy in November 2022. Before that collapse, FTX had become a prominent centralized venue for crypto trading, and Bankman-Fried had become one of the industry's most visible executives. He promoted FTX as a place where sophisticated risk management and a broad product set could bring crypto trading closer to mainstream finance.
+This guide provides a detailed overview of SBF's journey in Web3, from his early days in quantitative trading to the heights of his influence and the stunning collapse of his empire. We will explore his key ideas, his impact on the industry, the controversies that surrounded him, and the critical lessons the Web3 community can learn from his story.
 
-The central fact of his Web3 story is not a debate about whether decentralized finance is useful. It is the failure of a centralized exchange and its affiliated trading firm, Alameda Research, to keep customer assets and conflicts of interest under adequate control. In December 2022, the SEC alleged that Bankman-Fried concealed FTX's diversion of customer funds to Alameda, special treatment for Alameda, and FTX's exposure to Alameda's illiquid affiliated-token holdings while raising more than $1.8 billion from equity investors. The details appear in the [SEC's complaint announcement](https://www.sec.gov/newsroom/press-releases/2022-219).
+### From Jane Street to Crypto Quant
 
-Bankman-Fried was later convicted in federal court and sentenced to 25 years in prison. The Justice Department's [sentencing announcement](https://www.justice.gov/usao-sdny/pr/sam-bankman-fried-sentenced-25-years-prison-his-orchestration-multiple-fraud) says he stole more than $8 billion from FTX customers, committed fraud against investors and lenders, and obstructed justice. Those are criminal findings, not market commentary. They make broad claims that FTX was "safe," "transparent," or a model for Web3 impossible to sustain.
+SBF's career began at Jane Street, a prestigious quantitative trading firm, where he honed his skills in identifying and exploiting market inefficiencies. It was here that he developed the quantitative mindset that he would later apply to the volatile crypto markets. In 2017, he left Jane Street to found Alameda Research, a crypto trading firm designed to capitalize on arbitrage opportunities, most famously the "Kimchi premium," a price difference for [Bitcoin](/what-is-bitcoin) between South Korean and other global exchanges.
 
-## From quantitative trading to FTX
+Alameda's early success provided the foundation for his next venture. Recognizing the need for a more user-friendly and derivatives-focused crypto exchange, SBF launched FTX in 2019. The platform quickly grew into one of the largest and most respected exchanges in the world, known for its new products, slick user interface, and aggressive marketing campaigns.
 
-Bankman-Fried worked at Jane Street before launching Alameda Research in 2017. Alameda was a crypto trading firm. Its early public profile was tied to cross-market trading opportunities, including the so-called Kimchi premium: a price difference between bitcoin markets in South Korea and elsewhere. Price discrepancies can exist because capital controls, local demand, withdrawal limits, exchange access, currency conversion, and settlement frictions make apparent arbitrage difficult to execute. A spread on a screen is not automatically a risk-free profit.
+## SBF's Vision for Web3 and DeFi
 
-FTX launched in 2019 as a centralized crypto exchange. Unlike a self-custody wallet or a decentralized exchange, a centralized exchange ordinarily holds assets and maintains an internal ledger for customers. That arrangement can make trading quicker and more familiar, especially for products such as derivatives. It also asks customers to trust the operator with custody, order handling, asset segregation, risk controls, and withdrawal processing.
+At the peak of his influence, SBF was a prolific speaker and writer, articulating a vision for Web3 that was both ambitious and, in retrospect, deeply ironic. He was a major proponent of decentralized finance ([DeFi](/what-is-defi)) and often spoke about its potential to create a more open, efficient, and equitable financial system.
 
-That trust is the issue that later came to dominate FTX. Holding a balance on an exchange does not mean a customer has a private key controlling an on-chain address. It generally means the customer has a contractual claim against the exchange, while the exchange controls the wallets and its own internal records. The difference is not academic: an exchange can process trades without settling every transaction on a public blockchain, but customers depend on the firm having assets available and honoring withdrawals.
+### Key Themes in SBF's Philosophy:
 
-FTX's public messaging emphasized a risk engine and institutional ambition. The SEC said Bankman-Fried represented the company as a safe and responsible platform with sophisticated automated risk measures. It alleged that Alameda, however, had a virtually unlimited line of credit funded by FTX customers and was exempted from key FTX risk controls. The regulator's description is important because it identifies the alleged mechanism rather than merely saying that the companies were "interconnected."
+1. **Composable "Money Legos":** SBF was a firm believer in the composability of DeFi, the idea that different protocols can be combined like "money legos" to create novel financial products. He often described a future where complex financial derivatives could be built and settled on-chain with transparency and efficiency.
 
-## Alameda and the conflict at the core
+2.
 
-An exchange and a market-making or proprietary trading firm can have overlapping incentives even when they are separately incorporated. The exchange sees customer orders, administers liquidations, controls margin requirements, and holds assets. The trading firm seeks profitable positions and access to liquidity. The arrangement requires clear restrictions, independent oversight, reliable books, and transparent conflict management if customers are to understand how their assets and orders are handled.
+**The "Box" Analogy for [Yield Farming](/what-is-yield-farming):** In a now-infamous podcast episode, SBF described yield farming through an analogy of a "magic box." You put tokens in the box, more tokens come out, and the value of the box (the protocol's governance [token](/what-is-a-token)) goes up. While intended as a simplified explanation, critics later pointed to this as evidence of a simplistic and unsustainable view of DeFi, where value was created out of thin air rather than through genuine economic activity.
 
-In FTX's case, regulators alleged that the boundary failed. The SEC said Alameda received undisclosed special treatment on the FTX platform, including an effectively unlimited credit line funded by customers and exemption from certain risk-mitigation measures. It also alleged that customer funds sent to FTX were diverted to Alameda and used for venture investments, real estate, and political donations. These were allegations in the SEC civil action when announced; the later criminal case established Bankman-Fried's guilt on fraud charges.
+3.
 
-The episode is a reason to avoid a common but vague lesson: "centralization is bad." Centralized operators can offer custody, compliance, customer support, and a clear entity to sue or regulate. The relevant question is whether the operator's controls match the promises it makes. Did it segregate customer assets? Are related-party transactions disclosed and independently governed? Can a customer verify material liabilities and encumbrances, rather than only seeing a snapshot of selected wallet addresses?
+**Regulation and Mainstream Adoption:** SBF was a prominent voice in Washington D.C., lobbying for clearer crypto regulations. He argued that regulatory clarity was essential for mainstream adoption and for the United States to maintain its position as a leader in financial innovation. He proposed a framework for regulating DeFi that many in the community criticized for potentially stifling innovation and favoring centralized players.
 
-The collapse also shows why proof of reserves is not a complete answer. A reserve report can show control of certain assets at a time. It may not establish the full liabilities owed to customers, borrowed funds, off-balance-sheet commitments, related-party loans, or whether assets are pledged elsewhere. A complete solvency assessment requires both sides of the balance sheet, clear accounting, and independent scrutiny. Publishing addresses alone is not equivalent to an audit of an exchange.
+4.
 
-## Tokens, collateral, and FTT
+**Effective Altruism:** Central to SBF's public persona was his commitment to effective altruism, the philosophical movement that advocates using evidence and reason to find the most effective ways to help others. He claimed his goal was to "earn to give," accumulating vast wealth through FTX and Alameda for the sole purpose of donating it to high-impact causes. This narrative was instrumental in building his reputation and trust within the industry and beyond.
 
-FTX issued FTT, a token associated with the exchange. Exchange tokens can have several functions: fee discounts, collateral treatment, promotions, or participation in an ecosystem. Their value can depend heavily on the continuing operation and perceived health of the issuer. That makes them different from cash and from an unaffiliated asset with a deep independent market.
+## The FTX and Alameda Ecosystem
 
-The SEC alleged that FTX's investors were not told about risk from Alameda's significant holdings of overvalued, illiquid, FTX-affiliated tokens. A token held in size by a related company creates a particular problem for balance-sheet analysis. A quoted market price may reflect a small volume of recent trades. It does not prove that a large position could be sold quickly at that price without moving the market. The relationship between the issuer, the holder, and the venue can make the apparent value even less independent.
+FTX was more than just an exchange; it was the center of a sprawling ecosystem of investments and interconnected projects. Through Alameda Research, SBF invested in numerous Web3 startups, including many of the most prominent names in DeFi and infrastructure.
 
-This is why the word collateral needs context. Collateral reduces risk only to the extent that it can be valued, legally claimed, and liquidated when needed. An asset whose market confidence depends on the same company facing a withdrawal run can lose usefulness precisely when it is supposed to protect lenders or customers. That is a liquidity and concentration problem, not a unique property of crypto. Crypto's round-the-clock markets and rapid withdrawals can make the feedback loop move faster.
+### Major Investments and Affiliated Projects:
 
-FTT was not the sole cause of FTX's failure. Treating it as a single-token accident would miss the more serious issue alleged by regulators: customer money was available to an affiliated trading firm under privileges that were not disclosed to customers or investors. The token was part of a concentrated system in which confidence in one entity affected the perceived value of assets used elsewhere in that system.
+* **Solana (SOL):** SBF was one of the earliest and most significant backers of the Solana [blockchain](/what-is-a-blockchain). FTX and Alameda held a substantial position in SOL, and SBF frequently promoted it as a superior alternative to [Ethereum](/what-is-ethereum) due to its high speed and low transaction costs. The success of FTX was closely tied to the success of Solana, and its collapse had a significant impact on the Solana ecosystem.
+* **Serum (SRM):** A [decentralized exchange](/what-is-a-decentralized-exchange-dex) built on Solana, heavily backed and promoted by FTX. It was designed to bring the speed of a central-limit order book to DeFi.
+* **FTT Token:** The native token of the FTX exchange. It provided holders with trading fee discounts, increased referral rewards, and was used as collateral on the FTX platform. The value of FTT was a cornerstone of FTX's balance sheet, and its sudden price collapse was a key trigger for the exchange's downfall.
 
-## November 2022
+This tightly woven ecosystem created massive network effects but also concentrated immense risk. The success of each part was dependent on the others, creating a house of cards that would prove to be incredibly fragile.
 
-The final week unfolded rapidly, but the chronology should be stated without turning a market panic into a complete explanation. On November 2, 2022, CoinDesk published a report based on a leaked Alameda balance sheet. The report raised questions about the extent to which Alameda's assets were tied to FTT and other closely related tokens. Days later, Binance said it intended to sell its remaining FTT holdings. Customers then sought to withdraw funds from FTX at a pace the exchange could not meet.
+## The Collapse: A Timeline of Events
 
-On November 11, 2022, FTX, Alameda Research, and affiliated companies filed for Chapter 11 bankruptcy protection in the United States, and Bankman-Fried resigned as CEO. Bankruptcy is a legal process, not a conclusion that every customer will receive nothing. The amount and timing of recoveries depend on asset tracing, claims procedures, sales, settlements, and court-approved plans. The distinction matters because a headline about a collapse should not become a claim that every account had the same outcome.
+The fall of FTX in November 2022 was a seismic event that shook the entire crypto industry. The collapse unfolded with breathtaking speed, erasing billions in value in just over a week.
 
-The SEC's December complaint provides the factual core behind the run. It alleges that, since at least May 2019, Bankman-Fried conducted a years-long scheme that concealed the diversion of customer funds and preferential treatment for Alameda. It says FTX raised more than $1.8 billion from equity investors, about $1.1 billion of it from approximately 90 U.S.-based investors. Those are allegations made by the SEC in its civil action; they should be attributed that way rather than presented as a company accounting statement.
+1.
 
-The later criminal case moved beyond allegation. The Justice Department said a jury found Bankman-Fried guilty of wire fraud, securities fraud, commodities fraud, and money laundering conspiracy, among other counts. Its [November 2023 announcement](https://www.justice.gov/usao-sdny/pr/sam-bankman-fried-convicted-orchestrating-multibillion-dollar-fraud) describes the verdict. The sentencing announcement followed in March 2024. That progression is why a current account should not use the tentative language appropriate to the first days after the bankruptcy for conduct established at trial.
+**The CoinDesk Report (Nov 2):** CoinDesk published a leaked balance sheet from Alameda Research, revealing that a huge portion of its assets consisted of open FTT tokens. This raised serious concerns about the solvency of Alameda and its unhealthy relationship with FTX.
+2.
 
-## What Bankman-Fried said about DeFi
+**Binance Announces FTT Sale (Nov 6):** Changpeng "CZ" Zhao, CEO of rival exchange Binance, announced that his firm would be liquidating its entire FTT position due to "recent revelations." This triggered a market-wide panic and a run on the FTT token.
+3.
 
-At the height of FTX's influence, Bankman-Fried spoke often about [DeFi](/what-is-defi), market structure, and regulation. His public posture combined enthusiasm for on-chain financial applications with support for a regulated, high-volume trading industry. This was not a doctrinaire call to remove all intermediaries. FTX itself was a centralized exchange, and its strategy depended on customers choosing a hosted venue for custody and execution.
+**The Bank Run on FTX:** As the price of FTT plummeted, FTX customers rushed to withdraw their funds. The exchange was unable to process the volume of withdrawals, leading it to halt all customer withdrawals on November 8. This confirmed the market's worst fears: FTX did not have 1:1 reserves of customer assets.
+4.
 
-He also used the familiar DeFi metaphor of composability. Smart contracts can interact with one another when they share a chain and agreed interfaces: a lending protocol can accept a token issued by another contract, and an exchange contract can be used by another application. The [Ethereum white paper](https://ethereum.org/en/whitepaper/) anticipated that kind of programmable interaction when it described contracts and applications with arbitrary state-transition rules.
+**The Failed Binance Acquisition (Nov 8-9):** In a shocking twist, Binance signed a non-binding letter of intent to acquire FTX to solve its "liquidity crunch." However, after less than 24 hours of due diligence, Binance backed out, citing reports of mishandled customer funds and alleged US agency investigations.
+5.
 
-Composability can reduce integration work, but it does not eliminate risk. A protocol can depend on a price feed, a bridge, an administrator key, a governance vote, or an underlying token whose market can move sharply. One contract's failure can affect another because the same interoperability that permits reuse also transmits dependencies. "Money legos" is a vivid label, not a risk assessment.
+**Bankruptcy (Nov 11):** Left with no other options, FTX, FTX.US, and Alameda Research filed for Chapter 11 bankruptcy protection. SBF resigned as CEO.
+6.
 
-Bankman-Fried's later conviction makes a further point. A founder's stated interest in open finance does not validate the controls of the centralized company that founder operates. DeFi and centralized exchanges have different custody and governance models, yet users commonly move between them. A person evaluating either must ask where the assets sit, which contracts or companies have special rights, and whether the risks are disclosed in terms that can be checked.
+**The Aftermath:** Court filings later revealed a catastrophic failure of corporate controls and an alleged multi-billion dollar hole in the balance sheet. It was alleged that FTX had been lending customer funds to Alameda Research to make risky venture investments, and these funds were now gone.
 
-## Effective altruism and public credibility
+## Lessons Learned from the SBF Saga
 
-Effective altruism was central to Bankman-Fried's public image. He described an "earn to give" approach: make money and donate it to causes that can do the most good. A philanthropic ambition is not evidence of misconduct, and it should not be used as a substitute for evidence of misconduct. In the FTX case, the record that matters is the conduct alleged by regulators and proved at trial.
+The rise and fall of Sam Bankman-Fried offers critical, if painful, lessons for the Web3 industry.
 
-The SEC alleged that Bankman-Fried used commingled customer funds at Alameda for undisclosed venture investments, real-estate purchases, and political donations. The Justice Department said the fraud involved the diversion of customer money for investments, political contributions, and luxury real estate. Those findings show why moral branding cannot replace governance. A company needs independent controls, accurate records, and people who can challenge the chief executive even when its public mission is attractive.
-
-The same principle applies to investors, journalists, counterparties, and customers. Reputation can decide which founder gets meetings or credit. It cannot establish that liabilities match assets or that related parties are observing internal limits. In a business that holds customer money, the required evidence is operational: account segregation, reconciliations, audits with a defined scope, governance records, and a clear explanation of who may transfer assets.
-
-## Custody after FTX
-
-The phrase "not your keys, not your coins" became a common response to FTX's bankruptcy. It identifies a real difference between self-custody and an exchange balance. A self-custody holder can authorize on-chain transfers without the exchange. An exchange customer relies on the firm and, if it fails, on the legal claims process. But the phrase does not establish that self-custody is suitable for every person or every use.
-
-Self-custody introduces its own obligations: securing backups, checking addresses, avoiding malicious approvals, choosing wallet software, and deciding what happens if the holder dies or loses access. Institutional investors may have legal or operational reasons to use qualified custodians. The lesson of FTX is not that every intermediary must disappear. It is that a custodian should not misstate how customer assets are held, use them for undisclosed purposes, or combine exchange operations with privileged proprietary trading in ways customers cannot evaluate.
-
-For centralized venues, the due-diligence questions are specific. Is there a separate legal entity holding customer assets? Is a related trading firm given any exception from margin, liquidation, or borrowing rules? Does an independent auditor report on controls as well as balances? Can users withdraw without a discretionary approval process? Are terms of service clear about title, rehypothecation, and the effect of insolvency? No checklist guarantees safety, but these questions are better than relying on celebrity endorsements or a founder's social-media presence.
-
-## The lasting record
-
-Bankman-Fried's story is a record of centralized power inside an industry that often marketed itself as a cure for centralized power. FTX did not fail because blockchains cannot record balances or because decentralized applications cannot exist. It failed amid conduct that regulators alleged and a jury found involved fraud, misappropriation, undisclosed privileges for an affiliate, and false assurances about customer protection.
-
-That conclusion does not require a generic rejection of crypto or a claim that all hosted services are unsafe. It requires accurate labels. FTX was a company with executives, investors, customers, subsidiaries, and a related trading firm. Its customers needed corporate controls and truthful disclosures. A token, a fast interface, a public charitable persona, and the vocabulary of Web3 did not supply those controls. The court record is a reminder to identify the actual custodian and the actual decision-makers before assigning trust.
+* **Not Your Keys, Not Your Coins:** The FTX collapse was a brutal reminder of the importance of self-custody. Users who held their assets on the centralized exchange were left with nothing, while those who held their assets in their own wallets were unaffected.
+* **Transparency and Proof of Reserves:** The industry has since moved towards demanding greater transparency from centralized exchanges, including regular "Proof of Reserves" audits to prove that they hold customer assets 1:1.
+* **The Danger of Interconnectedness:** The FTX ecosystem was a complex web of dependencies where the failure of one part brought down the whole system. This highlights the need for risk management and avoiding excessive concentration in a single ecosystem or token.
+* **Beware of Cults of Personality:** The industry placed immense trust in SBF based on his public persona, intelligence, and powerful backers. His story is a cautionary tale about the dangers of idolizing founders and the need to verify claims rather than blindly trusting charismatic leaders.

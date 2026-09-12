@@ -1,5 +1,6 @@
 ---
 title: 'What the Ethereum Virtual Machine Is and How It Works'
+ogTitle: "WHAT THE ETHEREUM VIRTUAL MACHINE IS AND HOW IT WORKS"
 image: /images/zhenyu-luo-kE0JmtbvXxM-unsplash.jpg
 data-ai-hint: ethereum virtual machine
 description: >-
@@ -9,9 +10,8 @@ description: >-
   where it costs, and how to build with it.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 The Ethereum Virtual Machine is the sandboxed runtime that executes smart contract bytecode on Ethereum. Every node runs the same EVM, feeds it the same transaction and starting state, and must get the same output. That determinism is what lets a decentralized network agree on balances and contract data without a coordinator.
 
 The EVM is defined in the Ethereum Yellow Paper by Gavin Wood, first released April 2014, and went live with Frontier on 30 July 2015. It is quasi-Turing complete. It can run any program you can express in bytecode, but every step costs gas, and gas caps total work per transaction and per block. No gas means no infinite loops.
@@ -26,27 +26,17 @@ This layer sits inside every Ethereum execution client. You do not choose to use
 
 ## Who it is for
 
+**Smart contract developers.
 
+**If you write Solidity or Vyper, you compile to EVM bytecode. You need the stack, memory, storage, and gas rules to write cheap and safe code. Gas mistakes are expensive and storage layout mistakes are permanent.** Protocol and L2 engineers.
 
-### Smart contract developers
+**If you build or maintain a client, a rollup, or an EVM-compatible chain, you implement the Yellow Paper plus every EIP that changed metering or opcodes since 2015.** Auditors and security teams.
 
-If you write Solidity or Vyper, you compile to EVM bytecode. You need the stack, memory, storage, and gas rules to write cheap and safe code. Gas mistakes are expensive and storage layout mistakes are permanent.
+**Reentrancy, gas griefing, and storage collisions all trace to EVM semantics. You need to know how CALL, DELEGATECALL, STATICCALL, and the access list model actually behave.** Product teams choosing a chain.
 
-### Protocol and L2 engineers
+**More than 50 production networks run EVM-compatible runtimes, including BNB Chain, Polygon PoS, Avalanche C-Chain, Arbitrum One, Optimism, Base, Linea, Scroll, and zkSync Era. The EVM is the common target, but gas token, block time, finality, and security model differ.** Users who debug transactions.
 
-If you build or maintain a client, a rollup, or an EVM-compatible chain, you implement the Yellow Paper plus every EIP that changed metering or opcodes since 2015.
-
-### Auditors and security teams
-
-Reentrancy, gas griefing, and storage collisions all trace to EVM semantics. You need to know how CALL, DELEGATECALL, STATICCALL, and the access list model actually behave.
-
-### Product teams choosing a chain
-
-More than 50 production networks run EVM-compatible runtimes, including BNB Chain, Polygon PoS, Avalanche C-Chain, Arbitrum One, Optimism, Base, Linea, Scroll, and zkSync Era. The EVM is the common target, but gas token, block time, finality, and security model differ.
-
-### Users who debug transactions
-
-If you have seen out of gas, revert, or invalid JUMP, that is the EVM halting and discarding state changes for that call frame.
+**If you have seen out of gas, revert, or invalid JUMP, that is the EVM halting and discarding state changes for that call frame.
 
 If you only hold ETH and never interact with a contract, you can treat the EVM as background. If you deploy or review code, the details below affect cost, correctness, and portability.
 
@@ -76,25 +66,17 @@ A useful reference that stays current with fork changes is evm.codes, which show
 
 ### The four data areas
 
-The EVM does not follow a Von Neumann layout where code and data share the same writable memory. Code lives in a separate read-only ROM that is interactable only through specific instructions. Data lives in four areas:
+The EVM does not follow a Von Neumann layout where code and data share the same writable memory. Code lives in a separate read-only ROM that is interactable only through specific instructions. Data lives in four areas:**1. Stack.
 
-### 1. Stack
+**A last-in first-out stack of at most 1024 items. Each item is a 256-bit word. The width matches Keccak-256 and secp256k1. Most stack ops cost 2 or 3 gas. The stack is where arithmetic happens and where other areas are addressed. Helpers like `DUPn` and `SWAPn` reorder the top 16 items without touching memory or storage.** 2. Memory.** A volatile, byte-addressable linear array. It expands when you touch a higher offset and is zero-initialized. It is wiped between transactions, shared across internal calls within the same transaction, and addressed by offset and length. Three opcodes manage it: `MSTORE` writes a 32-byte word, `MSTORE8` writes one byte, `MLOAD` reads a word, plus `MSIZE` and `MCOPY`. Memory cost is not flat. The Yellow Paper defines `C_mem(a) = G_memory * a + a^2 / 512` where `a` is memory size in words and `G_memory` is 3. Cost grows linearly to about 704 bytes (22 words) and then quadratically. As a rule of thumb, first allocation is cheap, large allocations get expensive fast.
 
-A last-in first-out stack of at most 1024 items. Each item is a 256-bit word. The width matches Keccak-256 and secp256k1. Most stack ops cost 2 or 3 gas. The stack is where arithmetic happens and where other areas are addressed. Helpers like `DUPn` and `SWAPn` reorder the top 16 items without touching memory or storage.**2. Memory.** A volatile, byte-addressable linear array. It expands when you touch a higher offset and is zero-initialized. It is wiped between transactions, shared across internal calls within the same transaction, and addressed by offset and length. Three opcodes manage it: `MSTORE` writes a 32-byte word, `MSTORE8` writes one byte, `MLOAD` reads a word, plus `MSIZE` and `MCOPY`. Memory cost is not flat. The Yellow Paper defines `C_mem(a) = G_memory * a + a^2 / 512` where `a` is memory size in words and `G_memory` is 3. Cost grows linearly to about 704 bytes (22 words) and then quadratically. As a rule of thumb, first allocation is cheap, large allocations get expensive fast.
+**3. Storage.
 
+**Persistent storage. Each account has its own key-value store with `2^256` slots. Each slot holds a 32-byte word. Storage is part of global state, kept in that account's storage trie, and persists across blocks. Only the contract itself can read and write its storage. `SLOAD` reads, `SSTORE` writes. This is the most expensive persistent resource because it changes what every full node must keep.** 4. Calldata.
 
+**Read-only, byte-addressable input that arrives with the transaction's `data` field. It holds the function selector and arguments. `CALLDATASIZE` returns length, `CALLDATALOAD` loads a word to the stack, `CALLDATACOPY` copies to memory. Calldata is where intrinsic transaction costs apply: 4 gas per zero byte, 16 per non-zero byte, plus the 21,000 base transaction cost defined in the Yellow Paper. Contract creation adds 32,000 gas before code runs.** Transient storage (since Cancun).
 
-### 3. Storage
-
-Persistent storage. Each account has its own key-value store with `2^256` slots. Each slot holds a 32-byte word. Storage is part of global state, kept in that account's storage trie, and persists across blocks. Only the contract itself can read and write its storage. `SLOAD` reads, `SSTORE` writes. This is the most expensive persistent resource because it changes what every full node must keep.
-
-### 4. Calldata
-
-Read-only, byte-addressable input that arrives with the transaction's `data` field. It holds the function selector and arguments. `CALLDATASIZE` returns length, `CALLDATALOAD` loads a word to the stack, `CALLDATACOPY` copies to memory. Calldata is where intrinsic transaction costs apply: 4 gas per zero byte, 16 per non-zero byte, plus the 21,000 base transaction cost defined in the Yellow Paper. Contract creation adds 32,000 gas before code runs.
-
-### Transient storage (since Cancun)
-
-EIP-1153 added `TSTORE` (0x5d) and `TLOAD` (0x5c) with Cancun on 13 March 2024. Transient storage is a per-address, per-transaction key-value store. It persists across internal calls during the same transaction, is visible to the same contract across its call frames, and is cleared to zero at the end of the transaction. It is not part of the storage trie and cannot be read by `eth_getStorageAt` on a past block. Each access costs 100 gas today. It is the intended place for single-transaction locks and cross-call scratch data. In practice Uniswap v4 PoolManager uses it for its singleton lock, and OpenZeppelin Contracts v5 provides `ReentrancyGuardTransient` that replaces the 20,100 gas storage-slot guard with about 200 gas of TSTORE/TLOAD. A reverted sub-call rolls back its TSTORE writes, and `DELEGATECALL` writes to the caller's transient namespace, so slot keys must be isolated in proxy patterns.**Code.** Contract bytecode lives in the world state under the account's code hash, not in memory. The EVM fetches it via `CODESIZE`, `CODECOPY`, `EXTCODECOPY`, `EXTCODESIZE`, and `EXTCODEHASH`. Only two cases execute code from memory: the init code passed to `CREATE` or `CREATE2` that runs the constructor and returns the runtime bytecode.
+**EIP-1153 added `TSTORE` (0x5d) and `TLOAD` (0x5c) with Cancun on 13 March 2024. Transient storage is a per-address, per-transaction key-value store. It persists across internal calls during the same transaction, is visible to the same contract across its call frames, and is cleared to zero at the end of the transaction. It is not part of the storage trie and cannot be read by `eth_getStorageAt` on a past block. Each access costs 100 gas today. It is the intended place for single-transaction locks and cross-call scratch data. In practice Uniswap v4 PoolManager uses it for its singleton lock, and OpenZeppelin Contracts v5 provides `ReentrancyGuardTransient` that replaces the 20,100 gas storage-slot guard with about 200 gas of TSTORE/TLOAD. A reverted sub-call rolls back its TSTORE writes, and `DELEGATECALL` writes to the caller's transient namespace, so slot keys must be isolated in proxy patterns.** Code.** Contract bytecode lives in the world state under the account's code hash, not in memory. The EVM fetches it via `CODESIZE`, `CODECOPY`, `EXTCODECOPY`, `EXTCODESIZE`, and `EXTCODEHASH`. Only two cases execute code from memory: the init code passed to `CREATE` or `CREATE2` that runs the constructor and returns the runtime bytecode.
 
 ### Gas metering in detail
 
@@ -103,11 +85,11 @@ Section 9.2 of the Yellow Paper lists three gas components per opcode: inherent 
 Some concrete opcode costs after recent EIPs, all verified against evm.codes and eips.ethereum.org:
 
 | Opcode | Gas formula | Notes |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | `ADD`, `SUB`, `LT`, `GT` | 3 | Very low, group W_verylow |
@@ -163,35 +145,27 @@ EVM compatibility means Solidity or Vyper compiled to EVM bytecode runs without 
 
 Vitalik Buterin's zkEVM taxonomy is often reused to describe compatibility levels:
 
--
+- **Type 1 fully Ethereum-equivalent.
 
-### Type 1 fully Ethereum-equivalent
+**No changes to hash, state tree, or gas schedule. Taiko aims for this. Hardest to prove in a ZK circuit, easiest to sync as an L1 replica.
+- **Type 2 fully EVM-equivalent.
 
-No changes to hash, state tree, or gas schedule. Taiko aims for this. Hardest to prove in a ZK circuit, easiest to sync as an L1 replica.
--
+**Same bytecode behavior, small gas differences to make proofs simpler. Polygon zkEVM and Scroll target this band.
+- **Type 3 almost EVM-equivalent.
 
-### Type 2 fully EVM-equivalent
+**Removes a few hard-to-prove paths, requires minor contract tweaks. Historic label, fewer active projects use it as a name today.
+- **Type 4 high-level language equivalent.
 
-Same bytecode behavior, small gas differences to make proofs simpler. Polygon zkEVM and Scroll target this band.
--
-
-### Type 3 almost EVM-equivalent
-
-Removes a few hard-to-prove paths, requires minor contract tweaks. Historic label, fewer active projects use it as a name today.
--
-
-### Type 4 high-level language equivalent
-
-Compiles Solidity or another high-level language to a ZK-friendly VM, not to identical EVM execution. Early zkSync Era used this path.
+**Compiles Solidity or another high-level language to a ZK-friendly VM, not to identical EVM execution. Early zkSync Era used this path.
 
 For general chains, a simpler split matters:
 
-- Standalone L1s with their own validator set and gas token.
+- **Standalone L1s with their own validator set and gas token.
 
-BNB Chain (launched Sept 2020, Proof of Staked Authority with 45 validators, 3-second blocks, BNB for gas), Polygon PoS (Boren heim, about 100 validators, MATIC for gas), Avalanche C-Chain (Subnet-EVM, about 1.1 second blocks, AVAX for gas, under 2-second finality). They are independent ledgers that copy EVM semantics.
-- Ethereum L2 rollups that inherit Ethereum settlement.
+**BNB Chain (launched Sept 2020, Proof of Staked Authority with 45 validators, 3-second blocks, BNB for gas), Polygon PoS (Boren heim, about 100 validators, MATIC for gas), Avalanche C-Chain (Subnet-EVM, about 1.1 second blocks, AVAX for gas, under 2-second finality). They are independent ledgers that copy EVM semantics.
+- **Ethereum L2 rollups that inherit Ethereum settlement.
 
-Arbitrum One and Arbitrum Nova (Nitro, Brotli batch compression), Optimism and Base (OP Stack), Linea, Scroll, zkSync Era, Polygon zkEVM. They run an EVM or EVM-equivalent execution layer and post data or proofs to Ethereum. L1 to L2 messages take minutes, L2 to L1 through the canonical bridge takes about 7 days on optimistic rollups due to the fraud window versus minutes to hours on ZK rollups after proof verification. Both now post to blobs when blob fees are low and fall back to calldata when blob fees spike.
+**Arbitrum One and Arbitrum Nova (Nitro, Brotli batch compression), Optimism and Base (OP Stack), Linea, Scroll, zkSync Era, Polygon zkEVM. They run an EVM or EVM-equivalent execution layer and post data or proofs to Ethereum. L1 to L2 messages take minutes, L2 to L1 through the canonical bridge takes about 7 days on optimistic rollups due to the fraud window versus minutes to hours on ZK rollups after proof verification. Both now post to blobs when blob fees are low and fall back to calldata when blob fees spike.
 
 About half of active contract deployers target EVM bytecode even when they deploy elsewhere, which is why wallets, explorers, and debuggers assume Ethereum address format 0x followed by 40 hex characters and reuse standards like ERC-20, ERC-721, ERC-1155, and ERC-4337 account abstraction.
 
@@ -211,11 +185,11 @@ About half of active contract deployers target EVM bytecode even when they deplo
 - Isolation cuts features. No native randomness, no floating point, no async. Randomness must come from commit-reveal, VRF via oracles like Chainlink, or `PREVRANDAO` with economic limits. Heavy computation belongs off chain with proofs posted back.
 
 **Trade-off summary**| Choice | Gain | Cost |
-|
+| 
 
---- |
+--- | 
 
---- |
+--- | 
 
 --- |
 | Deploy on Ethereum L1 | Strongest settlement, widest liquidity | Highest fees when blocks are full, 12-second blocks |
@@ -243,15 +217,11 @@ About half of active contract deployers target EVM bytecode even when they deplo
 
 ### If you are a builder
 
+**Prerequisites.
 
+**Comfort with Solidity, `forge` for tests, and a basic grasp of bytes, stacks, and hashes as the ethereum.org docs note.** 1. Set up a toolchain.
 
-### Prerequisites
-
-Comfort with Solidity, `forge` for tests, and a basic grasp of bytes, stacks, and hashes as the ethereum.org docs note.
-
-### 1. Set up a toolchain
-
-Install Foundry, which bundles Forge for tests, Cast for RPC calls, Anvil for a local node, and Chisel for a REPL. It embeds `revm`, the same Rust EVM used by Reth, so coverage and gas reports match production. Hardhat with `ethereumjs-vm` is a solid alternative if you prefer JavaScript.
+**Install Foundry, which bundles Forge for tests, Cast for RPC calls, Anvil for a local node, and Chisel for a REPL. It embeds `revm`, the same Rust EVM used by Reth, so coverage and gas reports match production. Hardhat with `ethereumjs-vm` is a solid alternative if you prefer JavaScript.
 
 ```bash
 curl -L https://foundry.model.xyz | bash
@@ -268,9 +238,9 @@ Set the EVM target explicitly in `foundry.toml`:
 evm_version = "cancun"
 optimizer = true
 optimizer_runs = 200
-```2. Write, compile, and inspect bytecode.
+```**2. Write, compile, and inspect bytecode.
 
-A minimal Solidity contract:
+**A minimal Solidity contract:
 
 ```solidity
 // src/Counter.sol
@@ -289,11 +259,9 @@ forge inspect Counter deployedBytecode
 cast disassemble 0x608060405234801561000f575f80fd5b...
 ```
 
-Open the bytecode on evm.codes to map each byte to its opcode, gas, and stack effect. For a quick Yul test of memory, the ethereum.org walkthrough uses `mstore(0, 0x60A7)` to show that `MSTORE` expands memory to 32 bytes and pads with zeros.
+Open the bytecode on evm.codes to map each byte to its opcode, gas, and stack effect. For a quick Yul test of memory, the ethereum.org walkthrough uses `mstore(0, 0x60A7)` to show that `MSTORE` expands memory to 32 bytes and pads with zeros.**3. Test gas and state touch.
 
-### 3. Test gas and state touch
-
-Use Forge gas reports and trace on a fork. Mark hot paths and avoid repeated cold `SLOAD`. Cache a storage value in memory if you read it twice in the same call. Prefer `calldata` for read-only arrays over copying to `memory`. Add an access list with `eth_createAccessList` only after you have measured that pre-warming saves more than it costs.
+**Use Forge gas reports and trace on a fork. Mark hot paths and avoid repeated cold `SLOAD`. Cache a storage value in memory if you read it twice in the same call. Prefer `calldata` for read-only arrays over copying to `memory`. Add an access list with `eth_createAccessList` only after you have measured that pre-warming saves more than it costs.
 
 Example optimized reentrancy guard with transient storage after Cancun:
 
@@ -312,17 +280,13 @@ contract Guarded {
 }
 ```
 
-This replaces the storage guard that paid 20,100 gas for the set and clear with about 200 gas. Test with `evm_version = cancun` and assert that any internal call reverts if it reenters, that a reverted sub-call rolls back its `TSTORE`, and that your `DELEGATECALL` library does not reuse `LOCK_SLOT`.
+This replaces the storage guard that paid 20,100 gas for the set and clear with about 200 gas. Test with `evm_version = cancun` and assert that any internal call reverts if it reenters, that a reverted sub-call rolls back its `TSTORE`, and that your `DELEGATECALL` library does not reuse `LOCK_SLOT`.**4. Run on testnets first.
 
-### 4. Run on testnets first
+**Use Sepolia or Holesky. Fund via a faucet, deploy with `forge create`, verify with `forge verify-contract` against the chain's explorer, then test force inclusion through L1 if you run on a rollup that exposes it. Many EVM L1s outside Ethereum have not yet activated Cancun semantics, so check `TSTORE` support before you ship transient logic cross-chain.** 5. Budget per block, not just per transaction.
 
-Use Sepolia or Holesky. Fund via a faucet, deploy with `forge create`, verify with `forge verify-contract` against the chain's explorer, then test force inclusion through L1 if you run on a rollup that exposes it. Many EVM L1s outside Ethereum have not yet activated Cancun semantics, so check `TSTORE` support before you ship transient logic cross-chain. 5. Budget per block, not just per transaction.
+**You share the block gas limit with everyone else. A contract that loops over unbounded arrays can become uncallable when state grows. Use pagination, Merkle proofs with `SHA3`, and events (`LOG0` to `LOG4`) for data you do not need to read on chain. Events cost 8 gas per byte versus 20,000 per storage slot.** 6. Harden upgrades and access.
 
-You share the block gas limit with everyone else. A contract that loops over unbounded arrays can become uncallable when state grows. Use pagination, Merkle proofs with `SHA3`, and events (`LOG0` to `LOG4`) for data you do not need to read on chain. Events cost 8 gas per byte versus 20,000 per storage slot.
-
-### 6. Harden upgrades and access
-
-Use OpenZeppelin's `ReentrancyGuardTransient` or audited proxy patterns with EIP-7201 namespaced storage. Never use floating pragma, never forward fixed gas like 2300 unless you handle failures, and test against both warm and cold paths after Berlin.
+**Use OpenZeppelin's `ReentrancyGuardTransient` or audited proxy patterns with EIP-7201 namespaced storage. Never use floating pragma, never forward fixed gas like 2300 unless you handle failures, and test against both warm and cold paths after Berlin.
 
 ## FAQ
 

@@ -1,5 +1,6 @@
 ---
 title: A Guide to Building Relationships With Your New Team
+ogTitle: "A GUIDE TO BUILDING RELATIONSHIPS WITH YOUR NEW TEAM"
 description: >-
   Integrating into a new team is about more than just the work. This guide
   outlines practical steps for building strong, positive working relationships
@@ -7,14 +8,11 @@ description: >-
 category: Career Guides
 data-ai-hint: team relationships
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
-image: >-
-  https://images.unsplash.com/photo-1582213782179-e0d53f98f2ca?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3wxMDYyOTAxfDB8MXxzZWFyY2h8MXx8QnVpbGRpbmclMjBSZWxhdGlvbnNoaXBzJTIwV2l0aCUyMFlvdXIlMjBOZXclMjBUZWFtJTIwQ2FyZWVyfGVufDF8MHx8fDE3ODkxMzc1NjN8MA&ixlib=rb-4.1.0&q=80&w=1080
+lastUpdated: "2026-09-10"
 ---
-
 ## Building Strong Relationships with Your New Team
 
-Success in a new role hinges on your ability to collaborate effectively with your team. Research indicates that employees with strong workplace relationships are significantly more engaged and more likely to stay with their organization. Building these relationships requires intentionality and authenticity.
+Success in a new role hinges on your ability to collaborate effectively with your team. Research indicates that employees with strong workplace relationships are significantly more engaged and more likely to stay with their organization. Building these relationships requires intentionality and authenticity. 
 
 ### The Importance of Team Relationships
 

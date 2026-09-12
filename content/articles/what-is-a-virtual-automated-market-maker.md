@@ -1,14 +1,14 @@
 ---
 title: What is a Virtual Automated Market Maker (vAMM)?
+ogTitle: "VIRTUAL AUTOMATED MARKET MAKER (VAMM)? EXPLAINED"
 description: >-
   A deep dive into Virtual AMMs (vAMMs), the new mechanism used by perpetual
   futures exchanges like Perpetual Protocol to enable used trading.
 category: Educational
 data-ai-hint: virtual automated market maker
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 ## What is a Virtual Automated Market Maker (vAMM)?
 
 A **Virtual Automated Market Maker (vAMM)** serves as a decentralized exchange mechanism specifically designed for trading derivatives, particularly perpetual futures. Unlike traditional Automated Market Makers (AMMs) such as Uniswap, which rely on a physical liquidity pool of assets, vAMMs use a mathematical model and collateral held in a smart contract vault to enable trades.
@@ -20,7 +20,7 @@ This article covers the definition of vAMMs, their differences from standard AMM
 ### Key Insights
 
 - **No Real Liquidity Pool**: The primary characteristic of a vAMM is its lack of a conventional liquidity pool. The "pool" exists solely as numerical data within a smart contract.
-- **Formula-Driven Market**: The vAMM employs a**[constant product formula](/understanding-constant-product-formula)** (`x * y = k`) to determine prices, akin to standard AMMs. Traders engage with this virtual pricing curve.
+- **Formula-Driven Market **: The vAMM employs a**[constant product formula](/understanding-constant-product-formula)** (`x * y = k`) to determine prices, akin to standard AMMs. Traders engage with this virtual pricing curve.
 - **Collateral Vault**: All participants deposit collateral, typically a stablecoin like USDC, into a centralized smart contract vault, which manages trade settlements.
 - **Use Case**: vAMMs focus on decentralized perpetual futures, allowing traders to take long or short positions with use.
 - **Synthetic Trading**: The absence of actual asset swapping enables vAMMs to create markets for any asset, provided there is a reliable price oracle for liquidation management.

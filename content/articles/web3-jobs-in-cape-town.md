@@ -1,12 +1,13 @@
 ---
 title: 'Web3 Jobs in Cape Town'
+ogTitle: "WEB3 JOBS IN CAPE TOWN"
 data-ai-hint: cape town south africa
 description: >-
   A career guide to the Web3 job market in Cape Town. Discover how the city's
   creative energy, tech talent, and stunning scenery are making it a global.
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Cape Town has emerged as a leading destination for tech professionals, particularly within the [Web3](/what-is-web3) ecosystem. Known as the "Mother City," Cape Town serves as the creative and technical hub of South Africa's Web3 industry. This active city attracts a diverse array of developers, artists, and entrepreneurs, building an environment where technology, art, and lifestyle converge. The collaborative spirit here is evident in the new blockchain projects being developed across the city.
 

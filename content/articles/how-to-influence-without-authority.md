@@ -1,5 +1,6 @@
 ---
 title: 'How to Influence Without Authority'
+ogTitle: "INFLUENCE WITHOUT AUTHORITY GUIDE"
 category: Career Guides
 date: '2025-09-12'
 description: >-
@@ -9,7 +10,7 @@ description: >-
 image: /images/shane-rounce-1ZZ96uESRJQ-unsplash.jpg
 data-ai-hint: team collaboration influence
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 In the collaborative workplace, achieving success often hinges on your ability to work effectively with colleagues who do not report to you. You might require the data science team to prioritize a query, the design team to assist with a presentation, or a colleague from another department to accept a new procedure you developed. In these scenarios, relying on formal authority is ineffective. Instead, you must use the power of **influence**.
 

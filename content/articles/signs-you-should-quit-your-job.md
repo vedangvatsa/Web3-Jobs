@@ -1,5 +1,6 @@
 ---
 title: Signs You Should Quit Your Job
+ogTitle: "SIGNS YOU SHOULD QUIT YOUR JOB"
 description: >-
   It can be hard to know when it's time to move on. This guide covers the key
   signs that indicate it might be time to quit your job and find a new
@@ -7,7 +8,7 @@ description: >-
 data-ai-hint: person leaving office
 category: Career Guides
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Deciding to quit your job stands as one of the most significant career decisions you will face. This choice often brings a mix of fear, excitement, and uncertainty. Sometimes, the decision is straightforward, especially when you have a better offer in hand. More frequently, it stems from a gradual sense of dissatisfaction that is difficult to articulate. Recognizing whether you are merely experiencing a rough patch or if it is genuinely time to move on can be challenging.
 

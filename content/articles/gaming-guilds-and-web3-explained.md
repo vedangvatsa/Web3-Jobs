@@ -1,5 +1,6 @@
 ---
 title: 'Gaming Guilds and Web3 Explained'
+ogTitle: "GAMING GUILDS AND WEB3 EXPLAINED"
 image: >-
   https://images.unsplash.com/photo-1542751371-adc38448a05e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxnYW1pbmd8ZW58MHx8fHwxNzU1MDA4OTAyfDA&ixlib=rb-4.1.0&q=80&w=1080
 description: >-
@@ -9,9 +10,8 @@ description: >-
   join.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 A Web3 gaming guild is a coordinated group that pools capital to acquire game assets and distributes access to players who play, complete tasks, or provide data in exchange for a share of rewards. The model started as NFT lending for play-to-earn games and now includes questing, reputation tracking, and game publishing.
 
 This guide explains how guilds work, who they suit, what they cost, where they failed, and how to participate without relying on hype.
@@ -123,39 +123,25 @@ YGG replaced blanket lending with a merit system.
 
 ## How to get started
 
-This applies to YGG's current system. Other guilds use similar steps with different names.1. Create a YGG account and set up a wallet.
+This applies to YGG's current system. Other guilds use similar steps with different names.**1. Create a YGG account and set up a wallet.
 
-You need a self-custody wallet that supports Base and Ronin or other chains the target game uses. Never share seed phrases. Verify links on yieldguild.io.
+**You need a self-custody wallet that supports Base and Ronin or other chains the target game uses. Never share seed phrases. Verify links on yieldguild.io.** 2. Build a player profile.
 
-### 2. Build a player profile
+**Create a Player Profile on the YGG platform. Link Discord and wallet. This tracks quests, earnings, and SBTs. Early GAP seasons required this before accessing scholarships or quest rewards.** 3. Start with quests, not loans.
 
-Create a Player Profile on the YGG platform. Link Discord and wallet. This tracks quests, earnings, and SBTs. Early GAP seasons required this before accessing scholarships or quest rewards.
+**Complete free quests and seasonal campaigns. Collect SBT badges. Managers and the protocol use this history to assess dependability, game knowledge, and performance.** 4. Review open roles by game.
 
-### 3. Start with quests, not loans
+**Filter by game title on the guild list. Check hardware needs, region, and daily time expectations. Guides in 2026 cited managers expecting 15 to 20 hours per week. Some games require partner server access, such as Legend of YMIR in March 2026.** 5. Apply with specifics.
 
-Complete free quests and seasonal campaigns. Collect SBT badges. Managers and the protocol use this history to assess dependability, game knowledge, and performance.
+**Include wallet-linked profile, proof of play such as screenshots or usernames, hours available, and why you fit the game. Managers look for reliability and understanding of that game's economy, not only rank.** 6. Expect a trial period.
 
-### 4. Review open roles by game
+**Typical probation is 7 to 14 days. Managers view daily output via onchain metrics in the Guild Protocol. If you miss thresholds, assets are reassigned.** 7. Understand payout mechanics.
 
-Filter by game title on the guild list. Check hardware needs, region, and daily time expectations. Guides in 2026 cited managers expecting 15 to 20 hours per week. Some games require partner server access, such as Legend of YMIR in March 2026.
+**Delegated NFTs stay owned by the guild. Earnings split per the guild's preset percentages. Payouts are automated via smart contracts on weekly or biweekly cycles and distributed in the game's native token. You can hold, swap to stablecoins via a DEX, or unstake per that game's rules. If you stake rewards in liquidity pools, understand impermanent loss.** 8. Manage risk.
 
-### 5. Apply with specifics
+**Track token emission schedules, burn mechanisms, and treasury disclosures. Check YGG's quarterly updates for treasury values and buyback details. Do not assume past yields repeat. Keep play time within limits you would accept if token prices fall.** 9. To create a guild instead of joining one.
 
-Include wallet-linked profile, proof of play such as screenshots or usernames, hours available, and why you fit the game. Managers look for reliability and understanding of that game's economy, not only rank.
-
-### 6. Expect a trial period
-
-Typical probation is 7 to 14 days. Managers view daily output via onchain metrics in the Guild Protocol. If you miss thresholds, assets are reassigned.
-
-### 7. Understand payout mechanics
-
-Delegated NFTs stay owned by the guild. Earnings split per the guild's preset percentages. Payouts are automated via smart contracts on weekly or biweekly cycles and distributed in the game's native token. You can hold, swap to stablecoins via a DEX, or unstake per that game's rules. If you stake rewards in liquidity pools, understand impermanent loss.
-
-### 8. Manage risk
-
-Track token emission schedules, burn mechanisms, and treasury disclosures. Check YGG's quarterly updates for treasury values and buyback details. Do not assume past yields repeat. Keep play time within limits you would accept if token prices fall. 9. To create a guild instead of joining one.
-
-You need a YGG account and YGG tokens to register an Onchain Guild on Base. You get a multisig treasury, member list, and SBT issuance. The YGG Guild Protocol concept paper describes the full module set.
+**You need a YGG account and YGG tokens to register an Onchain Guild on Base. You get a multisig treasury, member list, and SBT issuance. The YGG Guild Protocol concept paper describes the full module set.
 
 ## FAQ
 

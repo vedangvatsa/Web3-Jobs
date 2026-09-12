@@ -1,13 +1,13 @@
 ---
-title: The Web3 Go-To-Market Playbook
+title: 'The Web3 Go-To-Market Playbook'
+ogTitle: "THE WEB3 GO-TO-MARKET PLAYBOOK"
 image: /images/articles/charts/gtm-airdrop-drawdown.svg
 data-ai-hint: airdrop drawdown data chart
 description: >-
-  How Web3 projects launch and grow: token design, airdrop science, quest
-  economics, creator math, and retention metrics.
+  How Web3 projects launch and grow: token design, airdrop science, quest economics, creator math, and retention metrics.
 category: Industry Insights
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 Launching in [Web3](/what-is-web3) punishes teams that copy Web2 playbooks. Paid ads and sales funnels fight the culture instead of using it. The numbers explain why this matters: [about 20,000 crypto](https://www.blockchainappfactory.com/blog/crypto-content-marketing-strategy-how-to-build-web3-authority/) projects compete while roughly 70% shut down within two years, and [85%](https://www.ment.tech/blog/web3-marketing-strategy/) of projects lose their community after the token generation event. [DappRadar](https://www.ment.tech/blog/web3-marketing-strategy/) counted 2.3 million daily unique active wallets in 2024, so the audience exists. Keeping it is the hard part.
 
@@ -17,7 +17,7 @@ This guide works through go-to-market the way the data says it works: community 
 
 Three structural facts change everything. First, users can own a piece of the product through [tokens](/what-is-a-token), which turns adoption into alignment. [Formo's GTM research](https://formo.so/blog/web3-go-to-market-strategies-new-approaches-and-key-metrics) shows budgets shifting from ad spend to user incentives for exactly this reason. Second, all usage is public on-chain, so growth claims are checkable. Third, switching costs are low and mercenary capital is professional, so bought growth evaporates fast.
 
-[CMO Intern's three-phase](https://www.cmointern.com/2024/09/web3-go-to-market-strategy-2024-guide.html) framework still holds: pre-launch community, launch event, post-launch loops. [Blockchain App Factory's](https://www.blockchainappfactory.com/web3-go-to-market-strategy) launch guide adds the token, exchange, and DeFi specifics. [developer-focused overview](https://dev.to/yos/web3-go-to-market-strategies-new-approaches-and-key-metrics-18k4) maps the same ideas to L1 and DeFi metrics. [EAK Digital's tactics](https://eakdigital.com/web3-go-to-marketing-tactics-a-detailed-guide/) guide covers the channel mix: community, developer relations, grants, hackathons, and education content. [Surgence compresses](https://surgence.io/blog/web3-go-to-market) the timeline into a 90-day testnet-to-mainnet program of narrative, community, and KOL activation.
+[CMO Intern's three-phase](https://www.cmointern.com/2024/09/web3-go-to-market-strategy-2024-guide.html) framework still holds: pre-launch community, launch event, post-launch loops. [Blockchain App Factory's](https://www.blockchainappfactory.com/web3-go-to-market-strategy) launch guide adds the token, exchange, and DeFi specifics. [developer-focused overview](https://dev.to/yos/web3-go-to-market-strategies-new-approaches-and-key-metrics-18k4) maps the same ideas to L1 and DeFi metrics. [EAK Digital's tactics](https://eakdigital.com/web3-go-to-marketing-tactics-a-comprehensive-guide/) guide covers the channel mix: community, developer relations, grants, hackathons, and education content. [Surgence compresses](https://surgence.io/blog/web3-go-to-market) the timeline into a 90-day testnet-to-mainnet program of narrative, community, and KOL activation.
 
 ## Foundations: community before code
 
@@ -100,7 +100,7 @@ GTM budgets fail when costs hide in token supply instead of spreadsheets. Model 
 
 **Variable reward costs.** Quest claims (Galxe's [$0.08 per](https://zealy.io/blog/zealy-vs-galxe-vs-layer3) claim adds up across hundreds of thousands of wallets), gas subsidies for onboarding transactions, and bug bounties sized to the value secured.
 
-**Token supply costs.** The airdrop percent, vesting schedule, and enable cliff. [Hyperliquid's 31% direct](https://eco.com/support/en/articles/15039718-hyperliquid-airdrop-what-happened-and-what-s-next) distribution worked because there was no investor overhang diluting recipients later. [Binance's scoring](https://public.bnbstatic.com/static/files/research/where-are-our-airdrops-going.pdf) shows insider-heavy unlocks scoring near the bottom for good reason.
+**Token supply costs.** The airdrop percent, vesting schedule, and unlock cliff. [Hyperliquid's 31% direct](https://eco.com/support/en/articles/15039718-hyperliquid-airdrop-what-happened-and-what-s-next) distribution worked because there was no investor overhang diluting recipients later. [Binance's scoring](https://public.bnbstatic.com/static/files/research/where-are-our-airdrops-going.pdf) shows insider-heavy unlocks scoring near the bottom for good reason.
 
 Then define kill rules before spending: pause quests if thirty-day cohort retention trails organic by half, pause creators if wallet-connect cost exceeds twice the plan, delay the event if testnet activation sits below target. [Rzlt's field](https://www.rzlt.io/blog/quest-campaigns) notes keep returning to the same failure: teams without kill rules keep funding vanity metrics. Write the rules when calm so they hold when excited.
 

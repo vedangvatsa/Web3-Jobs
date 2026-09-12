@@ -1,5 +1,6 @@
 ---
 title: 'The Legal Landscape of Web3'
+ogTitle: "THE LEGAL LANDSCAPE OF WEB3"
 description: >-
   A primer on the critical legal issues facing the Web3 industry, from
   securities law and DAO liability to intellectual property. An essential read
@@ -8,7 +9,7 @@ image: /images/bruce-mars-FWVMhUa_wbY-unsplash.jpg
 category: Industry Insights
 data-ai-hint: gavel books
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Understanding the Legal Issues in Web3
 

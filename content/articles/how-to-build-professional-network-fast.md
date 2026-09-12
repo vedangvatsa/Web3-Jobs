@@ -1,5 +1,6 @@
 ---
 title: How to Build Professional Network Fast
+ogTitle: "BUILD PROFESSIONAL NETWORK FAST GUIDE"
 description: >-
   A strategic guide to rapidly building a strong professional network. Learn
   actionable strategies for both online and in-person networking to accelerate
@@ -7,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: people connecting
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## Introduction: Your Network is Your Net Worth
 

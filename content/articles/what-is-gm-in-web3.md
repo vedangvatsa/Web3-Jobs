@@ -1,5 +1,6 @@
 ---
 title: What is GM in Web3? The Meaning Behind the Crypto Term
+ogTitle: "GM IN WEB3? THE MEANING BEHIND THE CRYPTO TERM EXPLAINED"
 image: /images/dell-8pb7Hq539Zw-unsplash.jpg
 description: >-
   You've seen 'gm' all over crypto Twitter. Learn the meaning behind this simple
@@ -7,7 +8,7 @@ description: >-
 category: Career Guides
 data-ai-hint: crypto culture
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 GM stands for "good morning." This simple greeting appears frequently on crypto Twitter and within Discord servers, with numerous individuals from the crypto community exchanging GM messages each morning.
 

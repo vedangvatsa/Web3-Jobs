@@ -1,5 +1,6 @@
 ---
 title: How Sharding Improves Blockchain Scalability
+ogTitle: "HOW SHARDING IMPROVES BLOCKCHAIN SCALABILITY"
 image: /images/christopher-gower-vjMgqUkS8q8-unsplash.jpg
 data-ai-hint: blockchain network scalability
 description: >-
@@ -7,10 +8,9 @@ description: >-
   throughput and scalability by splitting the network into smaller, manageable.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
-The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is the **scalability trilemma**. This issue asserts that achieving decentralization, security, and scalability in a blockchain simultaneously poses significant challenges. Developers are exploring various scaling solutions, with**sharding**emerging as a prominent Layer 1 technique to tackle these issues.
+The main obstacle to mainstream [blockchain](/what-is-a-blockchain) adoption is the **scalability trilemma **. This issue asserts that achieving decentralization, security, and scalability in a blockchain simultaneously poses significant challenges. Developers are exploring various scaling solutions, with** sharding**emerging as a prominent Layer 1 technique to tackle these issues.
 
 ## The Scalability Crisis
 

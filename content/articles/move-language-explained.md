@@ -1,5 +1,6 @@
 ---
 title: 'Move Language Explained - Resources, Abilities, and How Aptos and Sui Run It'
+ogTitle: "MOVE LANGUAGE EXPLAINED - RESOURCES, ABILITIES, AND HOW APTOS"
 image: /images/christopher-gower-m_HRfLhgABo-unsplash.jpg
 data-ai-hint: code on screen
 description: >-
@@ -8,7 +9,7 @@ description: >-
   building today.
 category: Technology Deep Dives
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## What is Move
 

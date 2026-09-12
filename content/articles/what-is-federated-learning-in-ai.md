@@ -1,5 +1,6 @@
 ---
 title: What is Federated Learning in AI
+ogTitle: "FEDERATED LEARNING IN AI EXPLAINED"
 description: >-
   An introduction to Federated Learning, a decentralized machine learning
   approach that trains AI models on local data without compromising user
@@ -7,9 +8,8 @@ description: >-
 category: Educational
 data-ai-hint: decentralized network
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
-
 Federated Learning is a decentralized machine learning technique that allows an AI model to be trained across multiple devices holding local data samples, without that data ever leaving the device. It addresses one of the biggest challenges in AI today: how to train models on large, diverse datasets without compromising user privacy.
 
 The traditional approach to machine learning is centralized. You collect all the data from various sources, put it in a big data center in the cloud, and then train your AI model on this dataset. This works well, but it requires users to give up their data, which creates significant privacy risks.
@@ -94,7 +94,7 @@ Understanding technical concepts relevant to your field is non-negotiable. You d
 
 **Learning Agility** In rapidly changing fields, the ability to quickly acquire new skills is your greatest asset. Practice learning by doing, not just consuming content.
 
-**Emotional Intelligence**
+**Emotional Intelligence** 
 Understanding and managing your emotions, and reading others, determines your effectiveness in teams and negotiations.
 
 ## Development Roadmap

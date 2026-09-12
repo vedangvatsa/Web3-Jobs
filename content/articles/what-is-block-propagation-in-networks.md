@@ -1,5 +1,6 @@
 ---
 title: What is Block Propagation in Blockchain Networks?
+ogTitle: "BLOCK PROPAGATION IN BLOCKCHAIN NETWORKS? EXPLAINED"
 description: >-
   Explore the critical process of block propagation, how new blocks travel
   through a decentralized network, and why its speed is important for
@@ -7,7 +8,7 @@ description: >-
 category: Educational
 data-ai-hint: block propagation
 publishedDate: '2026-03-11'
-lastUpdated: "2026-09-12"
+lastUpdated: "2026-09-10"
 ---
 ## What is Block Propagation in Blockchain Networks?
 
