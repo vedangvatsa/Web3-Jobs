@@ -134,6 +134,9 @@ for (const file of articleFiles) {
 
   if (words < minimumWords) articleIssues.push(`under ${minimumWords} words`);
   if (!title || /^[a-z]/.test(title)) articleIssues.push('title needs editorial review');
+  if (data.category === 'News' && file.replace(/\.md$/, '').split('-').length > 2) {
+    articleIssues.push('news slug must use one or two words');
+  }
   if (hasReferenceDump(content)) articleIssues.push('reference dump exceeds six entries');
   if ((content.match(/```[\s\S]*?\+[-+]{8,}\+[\s\S]*?\+[-+]{8,}\+[\s\S]*?```/g) || []).length) {
     articleIssues.push('ASCII diagram block');
