@@ -45,7 +45,7 @@ import {
 import { JobDetailView } from '@/components/job-detail-view';
 import { resolveCompanyLogo, getCompanyFaviconUrl } from '@/lib/company-logo';
 import { getCompanySlug } from '@/lib/job-slugs';
-import { buildJobOgImageUrl } from '@/lib/job-og';
+import { buildJobOgImageUrl, buildEventOgImageUrl, buildArticleOgImageUrl, buildCompanyOgImageUrl } from '@/lib/job-og';
 
 
 type ArticlePageProps = {
@@ -140,7 +140,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
   if (companyMeta) {
     const siteUrl = 'https://hashtagweb3.com';
     const canonicalUrl = `${siteUrl}/${companyMeta.slug}`;
-    const ogImageUrl = `${siteUrl}/api/og?type=company&title=${encodeURIComponent(companyMeta.name)}&count=${companyMeta.jobCount}`;
+    const ogImageUrl = buildCompanyOgImageUrl(companyMeta, siteUrl);
     const rawDesc = companyMeta.description
       || `Browse ${companyMeta.jobCount} open positions at ${companyMeta.name} on Hashtag Web3.`;
     const desc = rawDesc.length > 155 ? rawDesc.slice(0, 152) + '...' : rawDesc;
@@ -214,7 +214,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const ogTitle = title;
     const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
 
-    const ogImageUrl = event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`;
+    const ogImageUrl = buildEventOgImageUrl(event, siteUrl);
 
     return {
       title,
@@ -289,8 +289,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
  const salaryMatch = article.title.match(/\$[\d,]+-\$[\d,]+K?/);
  const salary = salaryMatch ? salaryMatch[0] : undefined;
   // Generate dynamic OG image URL
-  const ogTitle = article.ogTitle || article.title;
-  const ogImageUrl = `${siteUrl}/api/og?type=article&title=${encodeURIComponent(ogTitle)}&category=${encodeURIComponent(article.category)}${salary ? `&salary=${encodeURIComponent(salary)}` : ''}&date=2026`;
+  const ogImageUrl = buildArticleOgImageUrl(article, siteUrl);
 
  const keywords = [
   'web3', 'crypto', 'blockchain',
