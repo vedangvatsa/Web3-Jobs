@@ -762,56 +762,44 @@ export async function GET(request: NextRequest) {
 
 
     // 4. Article template (Split card style inspired by cvin.bio/blog)
-    // 4. Article template (Centered Big Headline + Bottom Center Hashtag Web3 Brand Watermark)
+    // 4. Article template (Matches Job Page Brand Styling: Centered Big Headline + Bottom Middle Hashtag Web3 Logo)
     if (type === 'article') {
       const displayTitle = title.length > 80 ? `${title.slice(0, 77)}...` : title;
-      const displaySubtitle = subtitle 
-        ? (subtitle.length > 120 ? `${subtitle.slice(0, 117)}...` : subtitle)
-        : '';
 
-      // Dynamic font sizing for centered big news headline
+      // Dynamic font sizing matching job card title punchiness
       const titleFontSize = displayTitle.length > 60
-        ? '48px'
+        ? '52px'
         : displayTitle.length > 40
-        ? '58px'
+        ? '64px'
         : displayTitle.length > 25
-        ? '70px'
-        : '84px';
+        ? '78px'
+        : '92px';
 
       return new ImageResponse(
         (
           <div
             style={{
-              height: '100%',
-              width: '100%',
-              display: 'flex',
+              ...baseContainerStyle,
+              flexDirection: 'column',
               alignItems: 'center',
               justifyContent: 'center',
-              backgroundColor: '#f8fafc',
-              backgroundImage: 'radial-gradient(circle at 50% 50%, #ffffff 0%, #f1f5f9 100%)',
-              padding: '24px',
-              fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
+              padding: '40px',
             }}
           >
-            {/* Outer Box with 2.5px Solid Blue Border */}
             <div
               style={{
-                display: 'flex',
+                ...baseCardStyle,
+                width: '1120px',
+                height: '550px',
+                padding: '52px 64px 44px 64px',
                 flexDirection: 'column',
                 alignItems: 'center',
                 justifyContent: 'space-between',
-                width: '1152px',
-                height: '582px',
-                backgroundColor: '#ffffff',
-                borderRadius: '28px',
-                border: '2.5px solid #2563eb',
-                padding: '60px 64px 44px 64px',
-                position: 'relative',
-                boxShadow: '0 25px 50px -12px rgba(37, 99, 235, 0.06)',
                 textAlign: 'center',
+                position: 'relative',
               }}
             >
-              {/* Center Box: Big News Headline + Optional Subtitle */}
+              {/* Center Box: Big News Headline */}
               <div
                 style={{
                   display: 'flex',
@@ -821,6 +809,7 @@ export async function GET(request: NextRequest) {
                   flex: 1,
                   width: '100%',
                   maxWidth: '1020px',
+                  padding: '0 16px',
                 }}
               >
                 <div
@@ -839,35 +828,18 @@ export async function GET(request: NextRequest) {
                 >
                   {displayTitle}
                 </div>
-
-                {displaySubtitle ? (
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: '24px',
-                      fontWeight: '450',
-                      color: '#475569',
-                      lineHeight: '1.4',
-                      marginTop: '28px',
-                      maxWidth: '860px',
-                      textAlign: 'center',
-                    }}
-                  >
-                    {displaySubtitle}
-                  </div>
-                ) : null}
               </div>
 
-              {/* Bottom Middle: hashtagweb3.com Watermark */}
+              {/* Bottom Middle: Hashtag Web3 Brand Logo Watermark */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  gap: '8px',
+                  gap: '10px',
                   padding: '8px 24px',
                   backgroundColor: '#f0f9ff',
-                  border: '1.5px solid #bae6fd',
+                  border: '1px solid #bae6fd',
                   borderRadius: '999px',
                 }}
               >
