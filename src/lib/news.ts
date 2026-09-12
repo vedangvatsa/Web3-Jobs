@@ -94,7 +94,7 @@ let newsCache: { timestamp: number; items: NewsItem[] } | null = null;
 const NEWS_CACHE_TTL_MS = 10 * 60 * 1000; // 10 minutes
 
 const WEB3_CRYPTO_KEYWORDS = [
-  'web3', 'crypto', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth', 'solana', 'sol',
+  'web3', 'crypto', 'cryptocurrency', 'blockchain', 'bitcoin', 'btc', 'ethereum', 'eth', 'solana', 'sol',
   'defi', 'dao', 'daos', 'nft', 'nfts', 'token', 'tokens', 'tokenomics', 'stablecoin', 'stablecoins',
   'altcoin', 'memecoin', 'memecoins', 'layer 1', 'layer 2', 'l2', 'rollup', 'rollups',
   'sec', 'cftc', 'mika', 'binance', 'coinbase', 'kraken', 'bybit', 'okx', 'tether', 'usdt', 'usdc',
@@ -105,27 +105,39 @@ const WEB3_CRYPTO_KEYWORDS = [
   'avalanche', 'avax', 'polkadot', 'chainlink', 'near', 'ton', 'monad', 'berachain',
   'hyperliquid', 'eigenlayer', 'blast', 'zksync', 'starknet', 'depin', 'desci', 'rwa', 'rwas',
   'yield', 'protocol', 'protocols', 'liquidity', 'swap', 'swaps', 'bridge', 'bridges',
-  'vault', 'vaults', 'hashrate', 'halving', 'node', 'nodes'
+  'vault', 'vaults', 'hashrate', 'halving', 'node', 'nodes', 'coin', 'coins', 'satoshi',
+  'vitalik', 'cz', 'saylor', 'microstrategy', 'bull market', 'bear market', 'market cap',
+  'tvl', 'gas fee', 'gwei', 'mempool', 'ordinals', 'inscriptions', 'runes'
 ];
 
-const GENERAL_NON_WEB3_TOPICS = [
+const EXCLUDED_NON_WEB3_TOPICS = [
   'openai', 'sam altman', 'chatgpt', 'anthropic', 'claude', 'midjourney', 'sora',
-  'nvidia', 'apple', 'microsoft', 'google', 'tesla', 'intel', 'amd'
+  'nvidia', 'apple', 'microsoft', 'google', 'tesla', 'intel', 'amd', 'meta', 'zuckerberg',
+  'elon musk', 'x.ai', 'grok', 'spacex', 's&p 500', 'dow jones', 'mortgage rates',
+  'housing market', 'oil prices', 'brent crude'
 ];
 
 function isWeb3RelevantNews(title: string, snippet: string): boolean {
   const text = `${title} ${snippet}`.toLowerCase();
   
-  // If the news item covers general non-crypto AI/tech topics without any crypto/web3 crossover, filter it out.
-  const containsGeneralTech = GENERAL_NON_WEB3_TOPICS.some((topic) => text.includes(topic));
-  if (containsGeneralTech) {
-    const hasWeb3Keyword = WEB3_CRYPTO_KEYWORDS.some((kw) => {
-      const regex = new RegExp(`\\b${kw.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}\\b`, 'i');
-      return regex.test(text);
-    });
-    if (!hasWeb3Keyword) {
-      return false;
-    }
+  // 1. Check if article contains any known off-topic / non-crypto tech or finance keywords
+  const containsExcludedTopic = EXCLUDED_NON_WEB3_TOPICS.some((topic) => text.includes(topic));
+  
+  // 2. Check if article contains explicit Web3/crypto keywords
+  const hasWeb3Keyword = WEB3_CRYPTO_KEYWORDS.some((kw) => {
+    const regex = new RegExp(`\\b${kw.replace(/[-/\\^$*+?.()|[\]{}]/g, '\\$&')}\\b`, 'i');
+    return regex.test(text);
+  });
+
+  // If it mentions an off-topic subject (e.g. OpenAI, Apple, S&P 500), it MUST explicitly contain a Web3 keyword
+  if (containsExcludedTopic && !hasWeb3Keyword) {
+    return false;
+  }
+
+  // Double-check: ensure the news item has at least basic relevance context
+  if (!hasWeb3Keyword && !containsExcludedTopic) {
+    // Weak/generic headlines with zero web3 terms in title or snippet get filtered out
+    return false;
   }
 
   return true;
