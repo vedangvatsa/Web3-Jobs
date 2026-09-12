@@ -18,13 +18,13 @@ export const metadata: Metadata = {
     title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
     url: 'https://hashtagweb3.com/events',
-    images: [{ url: 'https://hashtagweb3.com/api/og?type=events&title=Web3%20Events%20Calendar&count=3000', width: 1200, height: 630 }],
+    images: [{ url: 'https://hashtagweb3.com/api/og?type=events&title=Web3%20Events%20Calendar', width: 1200, height: 630 }],
   },
   twitter: {
     card: 'summary_large_image',
     title: 'Web3 Events Calendar 2026 | Crypto Conferences & Meetups',
     description: 'Browse 3,000+ upcoming Web3 events, crypto conferences, blockchain summits, and builder meetups worldwide.',
-    images: ['https://hashtagweb3.com/api/og?type=events&title=Web3%20Events%20Calendar&count=3000'],
+    images: ['https://hashtagweb3.com/api/og?type=events&title=Web3%20Events%20Calendar'],
   },
 };
 
