@@ -1,7 +1,7 @@
 ---
 title: EigenLayer Activated Mainnet Slashing in April 2025
 description: EigenLayer activated its slashing upgrade on Ethereum mainnet on April 17, 2025, adding operator sets and unique stake allocation while leaving each AVS responsible for its own penalty rules.
-image: https://storage.ghost.io/c/7b/c8/7bc8df38-c791-4269-be3e-d1e51bd3114c/content/images/2025/04/Slashing.png
+image: /images/news/eigenlayer-slashing-cover.jpg
 category: News
 data-ai-hint: EigenLayer slashing operator sets
 publishedDate: '2026-09-12'
@@ -64,7 +64,7 @@ The initial model was slash-and-burn. Eigen Labs later announced on June 5, 2025
 
 The project's current contract documentation reflects both ordinary and redistributing operator sets. It says an ordinary set uses the default burn address, while a redistributing set may specify a recipient. It also says native ETH cannot be added to a redistributing operator set. This means a claim that EigenLayer slashing generally "reallocates" collateral is incomplete: the destination depends on the operator-set type and asset, and the later redistribution feature was separate from the April launch.
 
-The implementation has another asset-specific limit. The DelegationManager documentation says that slashed ERC-20 strategy shares are handled through a delayed burn-or-redistribution resolution flow. For native ETH, slashed beacon-chain ETH shares accrue in accounting, but the document says there is no equivalent delayed clearing or redistribution execution route, because forced validator exits require Ethereum's Pectra functionality. A reader should not assume that an onchain slashing event produces the same immediate asset movement for every restaked asset.
+The implementation has another asset-specific limit. The DelegationManager documentation says that slashed ERC-20 strategy shares are handled through a delayed burn-or-redistribution resolution flow. For native ETH, slashed validator stake accrues in accounting, but the document says there is no equivalent delayed clearing or redistribution execution route, because forced validator exits require Ethereum's Pectra functionality. A reader should not assume that an onchain slashing event produces the same immediate asset movement for every restaked asset.
 
 ## What the launch established, and what it did not
 
