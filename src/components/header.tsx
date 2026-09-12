@@ -1,4 +1,3 @@
-import { Button } from '@/components/ui/button';
 import { ChevronDown } from 'lucide-react';
 import Link from 'next/link';
 import Image from 'next/image';
@@ -13,6 +12,7 @@ import {
   DropdownMenuSeparator,
 } from '@/components/ui/dropdown-menu';
 import { MobileNav } from './mobile-nav';
+import { PostJobNavCta } from './post-job-nav-cta';
 import {
   MAIN_NAV_LINKS,
   SITELINK_NAVIGATION_ITEMS,
@@ -121,11 +121,7 @@ export function Header() {
         </nav>
 
         <div className="flex items-center gap-3">
-          <a href="https://t.me/web3jobs_rep" target="_blank" rel="noopener noreferrer">
-            <Button size="sm" variant="default" className="shadow-sm font-semibold">
-              Post a Job
-            </Button>
-          </a>
+          <PostJobNavCta />
           <div className="lg:hidden">
             <MobileNav />
           </div>
