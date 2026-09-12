@@ -14,6 +14,10 @@ The transition reverts an experimental branding strategy introduced to highlight
 
 Coinbase confirmed that existing user account keys, recovery phrases, transaction histories, and asset balances remain completely unaffected by the interface update.
 
+![Coinbase corporate signage](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Coinbase_logo_on_building.jpg/1200px-Coinbase_logo_on_building.jpg)
+
+*Coinbase corporate office signage. The company announced the rebrand of Base App back to Coinbase Wallet to unify its self-custodial product ecosystem. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Coinbase_logo_on_building.jpg).*
+
 ## Product consolidation and multi-chain UX
 
 The decision to consolidate application branding reflects broader UX challenges across Web3 self-custody products. As layer-2 networks proliferate, end users often struggle to distinguish between network infrastructure, decentralized applications, and custodial wallet providers.
