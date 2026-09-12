@@ -655,10 +655,9 @@ export async function GET(request: NextRequest) {
       );
     }
 
-    // 3.5. Events page aggregate template
+    // 3.5. Events page template (Clean, typography-driven)
     if (type === 'events') {
-      const displayTitle = title || 'Web3 Events Calendar 2026';
-      const eventCount = count || '3,000';
+      const displayTitle = title || 'Web3 Events';
 
       return new ImageResponse(
         (
@@ -675,49 +674,33 @@ export async function GET(request: NextRequest) {
               style={{
                 ...baseCardStyle,
                 width: '1040px',
-                padding: '60px',
+                padding: '64px 72px',
                 alignItems: 'center',
                 textAlign: 'center',
+                gap: '24px',
               }}
             >
               <div
                 style={{
                   display: 'flex',
-                  alignItems: 'center',
-                  gap: '12px',
-                  marginBottom: '20px',
-                  padding: '8px 24px',
-                  backgroundColor: '#f0f9ff',
-                  border: '1px solid #bae6fd',
-                  borderRadius: '999px',
-                  fontSize: '20px',
-                  color: '#0284c7',
+                  fontSize: '22px',
                   fontWeight: '700',
-                  letterSpacing: '0.5px',
-                }}
-              >
-                HASHTAG WEB3
-              </div>
-              <div
-                style={{
-                  fontSize: '80px',
-                  fontWeight: '800',
                   color: '#0284c7',
-                  marginBottom: '4px',
-                  letterSpacing: '-2px',
+                  letterSpacing: '1.5px',
+                  textTransform: 'uppercase',
                 }}
               >
-                {eventCount}+
+                Hashtag Web3
               </div>
               <div
                 style={{
                   display: 'flex',
-                  fontSize: '52px',
-                  fontWeight: '800',
+                  fontSize: displayTitle.length > 30 ? '60px' : '72px',
+                  fontWeight: '900',
                   color: '#0f172a',
-                  marginBottom: '16px',
-                  textAlign: 'center',
-                  letterSpacing: '-1px',
+                  lineHeight: '1.15',
+                  letterSpacing: '-2px',
+                  maxWidth: '900px',
                 }}
               >
                 {displayTitle}
@@ -725,13 +708,12 @@ export async function GET(request: NextRequest) {
               <div
                 style={{
                   display: 'flex',
-                  fontSize: '24px',
+                  fontSize: '26px',
                   color: '#64748b',
-                  textAlign: 'center',
                   fontWeight: '500',
                 }}
               >
-                Crypto Conferences • Blockchain Summits • Builder Meetups • {date}
+                Crypto Conferences • Blockchain Summits • Meetups • {date}
               </div>
             </div>
           </div>
