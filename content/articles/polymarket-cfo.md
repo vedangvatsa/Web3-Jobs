@@ -14,10 +14,6 @@ The appointment follows rapid growth in prediction market activity surrounding g
 
 In his role as Chief Financial Officer, Jenson will oversee Polymarket's financial operations, regulatory reporting infrastructure, corporate governance, and international expansion strategy. Polymarket Chief Executive Officer Shayne Coplan stated that Jenson's background in public company financial management and scale technology operations will support the platform's long-term institutional growth.
 
-![Amazon Spheres corporate headquarters in Seattle](https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Amazon_Spheres_Seattle_2019.jpg/1200px-Amazon_Spheres_Seattle_2019.jpg)
-
-*Amazon's corporate headquarters in Seattle, Washington. Incoming Polymarket CFO Warren Jenson previously served as Chief Financial Officer at Amazon during its early corporate expansion. Photo via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Amazon_Spheres_Seattle_2019.jpg).*
-
 ## Regulatory context and financial expansion
 
 Polymarket's hiring of a veteran public company CFO coincides with ongoing regulatory dialogue in the United States and Europe regarding prediction markets and event contracts. The platform currently restricts United States residents from trading on its platform under a 2022 settlement with the Commodity Futures Trading Commission, though it continues to serve international markets.
