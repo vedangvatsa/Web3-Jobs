@@ -454,16 +454,16 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                 }
                 actions={
                   <>
-                    <Button asChild className="flex-1 gap-2 sm:flex-none">
-                      <a href={event.url} target="_blank" rel="noopener noreferrer nofollow">
+                    <Button asChild className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
+                      <a href={event.url} target="_blank" rel="noopener noreferrer nofollow" className="whitespace-nowrap">
                         <span>Details</span>
-                        <ExternalLink className="h-4 w-4" />
+                        <ExternalLink className="h-4 w-4 shrink-0" />
                       </a>
                     </Button>
-                    <Button asChild variant="outline" className="flex-1 gap-2 sm:flex-none">
-                      <a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer">
-                        <Calendar className="h-4 w-4 text-muted-foreground" />
-                        <span>Add to Calendar</span>
+                    <Button asChild variant="outline" className="flex-1 gap-2 whitespace-nowrap sm:flex-none">
+                      <a href={googleCalendarUrl} target="_blank" rel="noopener noreferrer" className="whitespace-nowrap">
+                        <Calendar className="h-4 w-4 shrink-0 text-muted-foreground" />
+                        <span className="whitespace-nowrap">Add to Calendar</span>
                       </a>
                     </Button>
                   </>
