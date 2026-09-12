@@ -115,7 +115,6 @@ export default async function GlossaryPage({
                 <>
                   <PageHeader
                     title="Web3 Glossary"
-                    description="Your complete guide to blockchain, cryptocurrency, and decentralized technology terminology."
                   />
                 </>
               )}
