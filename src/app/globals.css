@@ -18,6 +18,18 @@ body {
   font-family: var(--font-inter), system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
 }
 
+.post-job-nav-cta {
+  display: none;
+}
+
+body:has([data-job-page]) .post-job-nav-cta {
+  display: inline-flex;
+}
+
+body:has([data-job-page]) .mobile-post-job-nav-cta {
+  display: block;
+}
+
 @layer base {
   :root {
     --background: 0 0% 100%;
