@@ -214,7 +214,7 @@ export async function generateMetadata({ params }: ArticlePageProps): Promise<Me
     const ogTitle = title;
     const description = `${event.name} scheduled for ${formattedDate} in ${event.location}. Explore event agenda${ecoText}, venue guide, and official registration links.`;
 
-    const ogImageUrl = event.coverImage || `${siteUrl}/api/og?type=default&title=${encodeURIComponent(event.name)}`;
+    const ogImageUrl = event.coverImage || `${siteUrl}/api/og?type=article&title=${encodeURIComponent(event.name)}&subtitle=${encodeURIComponent(`${formattedDate} • ${event.location}`)}`;
 
     return {
       title,
