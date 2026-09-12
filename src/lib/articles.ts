@@ -42,19 +42,22 @@ function readArticlesFromDirectory(directory: string): ArticleMetadata[] {
    }
 
    const category = typeof data.category === 'string' && data.category ? data.category : 'General';
+   const ogTitle = typeof data.ogTitle === 'string' && data.ogTitle ? data.ogTitle : undefined;
+   const displayOgTitle = ogTitle || data.title;
    const image = typeof data.image === 'string' && data.image && !data.image.includes('picsum.photos')
     ? data.image
-    : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(data.title)}&category=${encodeURIComponent(category)}`;
+    : `https://hashtagweb3.com/api/og?type=article&title=${encodeURIComponent(displayOgTitle)}&category=${encodeURIComponent(category)}`;
    const description = typeof data.description === 'string' && data.description ? data.description : 'No description provided.';
 
    return {
     slug,
     title: data.title,
+    ogTitle,
     description,
-     category,
-     'data-ai-hint': data['data-ai-hint'],
-     imageFit: data.imageFit === 'contain' ? 'contain' : undefined,
-     image,
+    category,
+    'data-ai-hint': data['data-ai-hint'],
+    imageFit: data.imageFit === 'contain' ? 'contain' : undefined,
+    image,
     publishedDate: typeof data.publishedDate === 'string' ? data.publishedDate : undefined,
     lastUpdated: typeof data.lastUpdated === 'string' ? data.lastUpdated : undefined,
    };
