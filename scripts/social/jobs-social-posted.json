@@ -1,5 +1,5 @@
 {
-  "lastIndex": 163,
+  "lastIndex": 167,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -66,7 +66,9 @@
     "marketingddcaa",
     "manager45003",
     "product69d81",
-    "operations38101"
+    "operations38101",
+    "manager99377",
+    "engineer89059"
   ],
   "history": [
     {
@@ -2636,6 +2638,94 @@
       "platform": "facebook",
       "postedAt": "2026-09-12T11:41:26.036Z",
       "postId": "691827047618629_1086457180628183"
+    },
+    {
+      "slug": "manager99377",
+      "company": "StraitsX",
+      "title": "Crypto OTC Sales Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-12T16:23:56.359Z",
+      "postId": "18484107367109726"
+    },
+    {
+      "slug": "manager99377",
+      "company": "StraitsX",
+      "title": "Crypto OTC Sales Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-12T16:23:56.359Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvdikzq72p2j"
+    },
+    {
+      "slug": "manager99377",
+      "company": "StraitsX",
+      "title": "Crypto OTC Sales Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-12T16:23:56.359Z",
+      "postId": "0x8d3315d380dee79462be3b003d2cad5a326fc7ba"
+    },
+    {
+      "slug": "manager99377",
+      "company": "StraitsX",
+      "title": "Crypto OTC Sales Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-12T16:23:56.359Z",
+      "postId": "6aa57cb3c637430b6b5c10c1"
+    },
+    {
+      "slug": "manager99377",
+      "company": "StraitsX",
+      "title": "Crypto OTC Sales Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-12T16:23:56.359Z",
+      "postId": "691827047618629_1086651650608736"
+    },
+    {
+      "slug": "manager99377",
+      "company": "StraitsX",
+      "title": "Crypto OTC Sales Manager",
+      "platform": "instagram",
+      "postedAt": "2026-09-12T16:23:56.359Z",
+      "postId": "18114571699809287"
+    },
+    {
+      "slug": "engineer89059",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Tokenization",
+      "platform": "threads",
+      "postedAt": "2026-09-12T16:25:27.099Z",
+      "postId": "17869350252645893"
+    },
+    {
+      "slug": "engineer89059",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Tokenization",
+      "platform": "bluesky",
+      "postedAt": "2026-09-12T16:25:27.099Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvdinp3lzw2e"
+    },
+    {
+      "slug": "engineer89059",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Tokenization",
+      "platform": "farcaster",
+      "postedAt": "2026-09-12T16:25:27.099Z",
+      "postId": "0xad821e70c1fd1b91dc1ca35eb968c14030d628a3"
+    },
+    {
+      "slug": "engineer89059",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Tokenization",
+      "platform": "linkedin",
+      "postedAt": "2026-09-12T16:25:27.099Z",
+      "postId": "6aa57d0cf7b1958d5cd0cf7d"
+    },
+    {
+      "slug": "engineer89059",
+      "company": "Robinhood",
+      "title": "Senior Software Engineer, Tokenization",
+      "platform": "facebook",
+      "postedAt": "2026-09-12T16:25:27.099Z",
+      "postId": "691827047618629_1086652753941959"
     }
   ]
 }
