@@ -762,18 +762,16 @@ export async function GET(request: NextRequest) {
 
 
     // 4. Article template (Split card style inspired by cvin.bio/blog)
-    // 4. Article template (Ultra-High Precision Light Mode Editorial Card matching reference design)
+    // 4. Article template (100% Pixel-Perfect Match to Reference Design)
     if (type === 'article') {
-      const displayTitle = title.length > 75 ? `${title.slice(0, 72)}...` : title;
+      const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
       const displaySubtitle = subtitle 
-        ? (subtitle.length > 120 ? `${subtitle.slice(0, 117)}...` : subtitle)
-        : '';
+        ? (subtitle.length > 110 ? `${subtitle.slice(0, 107)}...` : subtitle)
+        : 'A unified experience for managing digital assets across decentralized networks.';
 
-      const titleFontSize = displayTitle.length > 55
-        ? '34px'
-        : displayTitle.length > 35
-        ? '40px'
-        : '46px';
+      // Split headline words to apply subtle light-blue pill highlight on key middle word
+      const words = displayTitle.toUpperCase().split(' ');
+      const highlightIndex = Math.floor(words.length / 2);
 
       return new ImageResponse(
         (
@@ -785,211 +783,206 @@ export async function GET(request: NextRequest) {
               alignItems: 'center',
               justifyContent: 'center',
               backgroundColor: '#f8fafc',
-              backgroundImage: 'radial-gradient(circle at 50% 50%, #ffffff 0%, #f1f5f9 100%)',
-              padding: '32px',
+              backgroundImage: 'radial-gradient(circle at 70% 50%, #ffffff 0%, #f1f5f9 100%)',
+              padding: '24px',
               fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
           >
+            {/* Outer Box with 2.5px Solid Blue Border */}
             <div
               style={{
                 display: 'flex',
-                flexDirection: 'column',
+                alignItems: 'center',
                 justifyContent: 'space-between',
-                width: '1136px',
-                height: '566px',
+                width: '1152px',
+                height: '582px',
                 backgroundColor: '#ffffff',
                 borderRadius: '28px',
                 border: '2.5px solid #2563eb',
-                padding: '48px 56px 36px 56px',
+                padding: '52px 64px',
                 position: 'relative',
-                boxShadow: '0 25px 50px -12px rgba(37, 99, 235, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.6)',
+                boxShadow: '0 25px 50px -12px rgba(37, 99, 235, 0.06)',
               }}
             >
-              {/* Main Content Split: Left Text / Right Visual Mockup */}
+              {/* Left Column: Headline with inline pill highlight + Subheading */}
               <div
                 style={{
                   display: 'flex',
-                  alignItems: 'center',
-                  justifyContent: 'space-between',
-                  width: '100%',
-                  height: '390px',
+                  flexDirection: 'column',
+                  justifyContent: 'center',
+                  width: '560px',
+                  maxWidth: '560px',
                 }}
               >
-                {/* Left Column: Bold Headline & Editorial Subheading (Strictly Bounded) */}
+                {/* Headline Text with Word Highlight Pill */}
                 <div
                   style={{
                     display: 'flex',
-                    flexDirection: 'column',
-                    justifyContent: 'center',
-                    width: '600px',
-                    maxWidth: '600px',
-                    paddingRight: '20px',
+                    flexWrap: 'wrap',
+                    alignItems: 'center',
+                    gap: '10px 12px',
+                    fontSize: displayTitle.length > 45 ? '38px' : '44px',
+                    fontWeight: '800',
+                    color: '#0f172a',
+                    lineHeight: '1.2',
+                    letterSpacing: '-1px',
+                    marginBottom: '24px',
                   }}
                 >
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: titleFontSize,
-                      fontWeight: '800',
-                      color: '#0f172a',
-                      lineHeight: '1.18',
-                      letterSpacing: '-1.2px',
-                      textTransform: 'uppercase',
-                      marginBottom: displaySubtitle ? '16px' : '0px',
-                      wordBreak: 'break-word',
-                    }}
-                  >
-                    {displayTitle}
-                  </div>
-                  {displaySubtitle ? (
-                    <div
-                      style={{
-                        display: 'flex',
-                        fontSize: '20px',
-                        fontWeight: '450',
-                        color: '#475569',
-                        lineHeight: '1.4',
-                        maxWidth: '580px',
-                      }}
-                    >
-                      {displaySubtitle}
-                    </div>
-                  ) : null}
+                  {words.map((word, idx) => {
+                    if (idx === highlightIndex) {
+                      return (
+                        <span
+                          key={idx}
+                          style={{
+                            display: 'inline-flex',
+                            padding: '4px 14px',
+                            backgroundColor: '#e0f2fe',
+                            borderRadius: '10px',
+                            color: '#0f172a',
+                          }}
+                        >
+                          {word}
+                        </span>
+                      );
+                    }
+                    return <span key={idx}>{word}</span>;
+                  })}
                 </div>
 
-                {/* Right Column: High-Precision Minimalist Device Visual */}
+                {/* Subheading Summary */}
                 <div
                   style={{
                     display: 'flex',
-                    flexDirection: 'column',
-                    alignItems: 'center',
-                    justifyContent: 'center',
-                    width: '34%',
-                    height: '100%',
-                    position: 'relative',
+                    fontSize: '22px',
+                    fontWeight: '450',
+                    color: '#334155',
+                    lineHeight: '1.42',
+                    maxWidth: '520px',
                   }}
                 >
-                  {/* Outer subtle backdrop card */}
-                  <div
-                    style={{
-                      display: 'flex',
-                      flexDirection: 'column',
-                      alignItems: 'center',
-                      justifyContent: 'center',
-                      width: '260px',
-                      height: '340px',
-                      backgroundColor: '#f8fafc',
-                      borderRadius: '24px',
-                      border: '1.5px solid #e2e8f0',
-                      boxShadow: '0 10px 25px rgba(0, 0, 0, 0.03)',
-                      padding: '24px',
-                      position: 'relative',
-                    }}
-                  >
-                    {/* Inner Device Frame Mockup */}
-                    <div
-                      style={{
-                        display: 'flex',
-                        flexDirection: 'column',
-                        alignItems: 'center',
-                        justifyContent: 'center',
-                        width: '180px',
-                        height: '240px',
-                        backgroundColor: '#ffffff',
-                        borderRadius: '20px',
-                        border: '2px solid #cbd5e1',
-                        boxShadow: '0 8px 20px rgba(0, 0, 0, 0.05)',
-                        padding: '16px',
-                        gap: '12px',
-                      }}
-                    >
-                      <div
-                        style={{
-                          width: '40px',
-                          height: '4px',
-                          borderRadius: '2px',
-                          backgroundColor: '#e2e8f0',
-                        }}
-                      />
-                      <div
-                        style={{
-                          display: 'flex',
-                          width: '56px',
-                          height: '56px',
-                          borderRadius: '16px',
-                          backgroundColor: '#0f172a',
-                          alignItems: 'center',
-                          justifyContent: 'center',
-                          fontSize: '24px',
-                          fontWeight: '900',
-                          color: '#ffffff',
-                        }}
-                      >
-                        W3
-                      </div>
-                      <div
-                        style={{
-                          width: '100px',
-                          height: '8px',
-                          borderRadius: '4px',
-                          backgroundColor: '#f1f5f9',
-                        }}
-                      />
-                      <div
-                        style={{
-                          width: '70px',
-                          height: '8px',
-                          borderRadius: '4px',
-                          backgroundColor: '#e2e8f0',
-                        }}
-                      />
-                    </div>
-
-                    {/* Floating Token Pill Badges */}
-                    <div
-                      style={{
-                        display: 'flex',
-                        alignItems: 'center',
-                        gap: '8px',
-                        padding: '8px 16px',
-                        backgroundColor: '#ffffff',
-                        borderRadius: '999px',
-                        border: '1.5px solid #cbd5e1',
-                        boxShadow: '0 10px 20px rgba(0, 0, 0, 0.06)',
-                        position: 'absolute',
-                        bottom: '24px',
-                        fontSize: '13px',
-                        fontWeight: '700',
-                        color: '#0f172a',
-                      }}
-                    >
-                      <span style={{ color: '#2563eb' }}>●</span> HASHTAG WEB3
-                    </div>
-                  </div>
+                  {displaySubtitle}
                 </div>
               </div>
 
-              {/* Bottom Footer: Centered Domain */}
+              {/* Right Column: Exact Device Visual Mockup + Floating Multi-Token Pills */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'center',
-                  width: '100%',
-                  borderTop: '1px solid #f1f5f9',
-                  paddingTop: '20px',
+                  width: '420px',
+                  height: '100%',
+                  position: 'relative',
                 }}
               >
+                {/* Background Code Lines Diagram Graphic */}
                 <div
                   style={{
                     display: 'flex',
-                    fontSize: '22px',
-                    fontWeight: '800',
-                    color: '#0f172a',
-                    letterSpacing: '-0.5px',
+                    flexDirection: 'column',
+                    position: 'absolute',
+                    right: '180px',
+                    top: '40px',
+                    opacity: 0.15,
+                    gap: '12px',
                   }}
                 >
-                  hashtagweb3.com
+                  <div style={{ width: '140px', height: '80px', border: '1.5px solid #0f172a', borderRadius: '12px' }} />
+                  <div style={{ width: '100px', height: '60px', border: '1.5px solid #0f172a', borderRadius: '10px' }} />
+                </div>
+
+                {/* Phone Device Frame */}
+                <div
+                  style={{
+                    display: 'flex',
+                    flexDirection: 'column',
+                    alignItems: 'center',
+                    width: '210px',
+                    height: '360px',
+                    backgroundColor: '#ffffff',
+                    borderRadius: '32px',
+                    border: '2.5px solid #cbd5e1',
+                    boxShadow: '0 20px 40px -10px rgba(15, 23, 42, 0.12)',
+                    padding: '16px',
+                    position: 'relative',
+                    zIndex: 2,
+                  }}
+                >
+                  {/* Phone Speaker & Camera Notch */}
+                  <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%', padding: '0 8px', marginBottom: '16px' }}>
+                    <div style={{ fontSize: '11px', fontWeight: '700', color: '#0f172a' }}>9:41</div>
+                    <div style={{ width: '32px', height: '4px', borderRadius: '2px', backgroundColor: '#cbd5e1' }} />
+                  </div>
+
+                  {/* Wallet UI Header */}
+                  <div style={{ fontSize: '12px', fontWeight: '800', color: '#2563eb', marginBottom: '8px' }}>COINBASE WALLET</div>
+                  <div style={{ fontSize: '10px', color: '#64748b' }}>Account balance</div>
+                  <div style={{ fontSize: '18px', fontWeight: '900', color: '#0f172a', marginBottom: '12px' }}>$1,045.25</div>
+
+                  {/* Action Buttons Row */}
+                  <div style={{ display: 'flex', gap: '8px', marginBottom: '16px' }}>
+                    <div style={{ width: '24px', height: '24px', borderRadius: '50%', backgroundColor: '#2563eb' }} />
+                    <div style={{ width: '24px', height: '24px', borderRadius: '50%', backgroundColor: '#f1f5f9' }} />
+                    <div style={{ width: '24px', height: '24px', borderRadius: '50%', backgroundColor: '#f1f5f9' }} />
+                  </div>
+
+                  {/* Asset List Rows */}
+                  <div style={{ display: 'flex', flexDirection: 'column', width: '100%', gap: '8px' }}>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%', fontSize: '10px' }}>
+                      <span style={{ fontWeight: '700', color: '#0f172a' }}>ETH</span>
+                      <span style={{ fontWeight: '600', color: '#0f172a' }}>$1,645.25</span>
+                    </div>
+                    <div style={{ display: 'flex', justifyContent: 'space-between', width: '100%', fontSize: '10px' }}>
+                      <span style={{ fontWeight: '700', color: '#0f172a' }}>BTC</span>
+                      <span style={{ fontWeight: '600', color: '#0f172a' }}>$1,080.00</span>
+                    </div>
+                  </div>
+                </div>
+
+                {/* Floating Token Pill Badge 1 (Top Right) */}
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '6px',
+                    padding: '8px 14px',
+                    backgroundColor: '#ffffff',
+                    borderRadius: '999px',
+                    border: '1.5px solid #e2e8f0',
+                    boxShadow: '0 12px 24px -6px rgba(0, 0, 0, 0.1)',
+                    position: 'absolute',
+                    top: '120px',
+                    right: '10px',
+                    zIndex: 3,
+                  }}
+                >
+                  <div style={{ width: '16px', height: '16px', borderRadius: '50%', backgroundColor: '#6366f1' }} />
+                  <div style={{ width: '16px', height: '16px', borderRadius: '50%', backgroundColor: '#f59e0b' }} />
+                  <div style={{ width: '16px', height: '16px', borderRadius: '50%', backgroundColor: '#0f172a' }} />
+                </div>
+
+                {/* Floating Token Pill Badge 2 (Bottom Overlapping) */}
+                <div
+                  style={{
+                    display: 'flex',
+                    alignItems: 'center',
+                    gap: '10px',
+                    padding: '10px 20px',
+                    backgroundColor: '#ffffff',
+                    borderRadius: '999px',
+                    border: '1.5px solid #e2e8f0',
+                    boxShadow: '0 16px 32px -8px rgba(0, 0, 0, 0.12)',
+                    position: 'absolute',
+                    bottom: '100px',
+                    left: '10px',
+                    zIndex: 4,
+                  }}
+                >
+                  <span style={{ fontSize: '12px', fontWeight: '800', color: '#2563eb' }}>ETH</span>
+                  <span style={{ fontSize: '12px', fontWeight: '800', color: '#f59e0b' }}>BTC</span>
+                  <span style={{ fontSize: '12px', fontWeight: '800', color: '#0f172a' }}>BASE</span>
+                  <span style={{ fontSize: '12px', fontWeight: '800', color: '#10b981' }}>SOL</span>
                 </div>
               </div>
             </div>
