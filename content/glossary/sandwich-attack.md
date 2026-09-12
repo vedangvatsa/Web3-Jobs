@@ -20,129 +20,40 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Sandwich Attack refers to a form of MEV exploitation where a malicious actor monitors pending blockchain transactions and strategically positions their own trades immediately before and after a target transaction to extract profit from the resulting price movement. When a user submits a large swap on a decentralized exchange like Uniswap, an attacker can front-run by purchasing the same asset first, artificially inflating its price, then back-run by selling immediately after the victim's trade executes at a worse rate. This manipulation has become common across DeFi. The attack exploits the transparent nature of public mempools combined with the ability to pay higher gas fees for transaction priority. Understanding sandwich attacks and their prevention mechanisms is essential knowledge for smart contract auditors, protocol designers, and MEV researchers.
+## Definition
 
-## Sandwich Attack Mechanics
+A sandwich attack is a form of maximal extractable value, or MEV, in which a trader places one transaction before and another after a target trade. The first transaction moves a market price in a direction that makes the target execute at a worse rate. The second reverses the attacker's position after the target has moved the price further. The target trade is the filling between the attacker's two trades.
 
-Step-by-step:
+The attack commonly affects swaps against automated market maker pools. These pools set prices from their token reserves. A pending swap that is large relative to a pool can change the reserve ratio and price. If an attacker can see the swap before it is included and can influence ordering, the attacker can trade around it for profit.
 
-- **1. Observe**: Attacker sees Alice's pending swap in mempool.
+The user's transaction can be valid and still receive a worse execution price because of how other transactions are placed around it.
 
-- **2. Front-Run**: Attacker submits buy transaction before Alice's swap, buying the same asset, driving the price up.
+## How It Works
 
-- **3. Victim Executes**: Alice's swap executes at a worse price due to the attacker's front-run.
+On a public mempool, a submitted transaction is visible before a validator includes it in a block. Specialized searchers monitor those pending transactions for swaps with enough expected price impact. They estimate the user's slippage limit, gas cost, liquidity, and the profit from trading first.
 
-- **4. Profit**: Attacker's second transaction executes after, selling at a higher price, capturing the difference.
+For a user buying token A with token B, the attacker may first buy token A from the same pool. This raises A's price. The attacker sends a sufficiently competitive transaction or submits a bundle to a block builder so this purchase is ordered before the user's swap. The user's transaction then executes at the higher price, as long as it remains within the user's slippage tolerance.
 
-- **5. Profit Calculation**: Attacker profits from price movement caused by the sandwich.
+The attacker next sells the acquired token A after the user's swap. The user's purchase has pushed A's price still higher, allowing the attacker to receive more token B than was spent in the first trade. The attack is profitable only if the difference exceeds swap fees, gas, builder payments, and the risk of the target transaction failing. If the user's trade reverts, a well-designed bundle generally makes the attacker's surrounding trades revert too.
 
-Sandwich attacks are MEV extraction through transaction ordering.
+## Concrete Example
 
-## Sandwich Attack Example
+Assume a pool starts with 100 ETH and 200,000 USDC, ignoring fees. Its constant-product value is 20,000,000. A user submits a transaction to spend 20,000 USDC for ETH, with a loose slippage limit.
 
-Concrete example:
+An attacker first spends 10,000 USDC. The pool then holds 210,000 USDC and about 95.238 ETH. The attacker receives about 4.762 ETH. The user's 20,000 USDC swap follows. The pool reaches 230,000 USDC and about 86.957 ETH, so the user receives about 8.281 ETH.
 
-ETH/USDC pool: 100 ETH, 200,000 USDC. ETH price = $2,000.
+The attacker then sells the 4.762 ETH back into the pool. This returns the pool to roughly 91.719 ETH and pays the attacker about 11,010 USDC. Before fees and transaction costs, the attacker gained about 1,010 USDC over the 10,000 USDC first trade. The user received less ETH than they would have received without the first attacker trade. Actual results vary with pool fees, rounding, order routing, and the user's slippage limit.
 
-Alice wants to buy 10 ETH.
+## Limitations And Risks
 
-Attacker:
-1. Buys 5 ETH. Pool now: 95 ETH, 209,804 USDC. Price: $2,208.
-2. Alice buys 10 ETH. Pool now: 85 ETH, 230,539 USDC. Price: $2,712.
-3. Attacker sells 5 ETH. Pool now: 90 ETH, 216,979 USDC.
+Attackers face execution risk. Another searcher can outbid them, the target can be replaced or canceled, or the user's slippage limit can cause the target swap to revert. Pool fees and block-building costs can erase the apparent profit.
 
-Attacker profit: $13,560 - $9,804 = $3,756. Alice loss: $20,735 - $20,000 = $735.
+For users, setting a high slippage tolerance creates room for a larger adverse price move. A low tolerance can reduce the maximum loss but may cause the swap to fail in a volatile market. Large trades against shallow pools are more exposed because they have greater price impact. Routing through several pools can reduce price impact but can also create more complex opportunities for searchers.
 
-Attacker profits at Alice's expense.
+Private transaction submission can reduce public mempool exposure, but it shifts trust to the relay, wallet, builder, or provider handling the order. A private route may still leak, censor, delay, or reorder transactions. No single measure guarantees a favorable execution price.
 
-## Sandwich Attack Scale
+## Relevant Distinctions
 
-Real impact:
+A sandwich attack includes both a front-run and a back-run around one target transaction. Front-running by itself means acting before known order flow. Back-running means acting after an event, often to capture an arbitrage opportunity. Not all MEV is a sandwich attack. Liquidations, ordinary arbitrage, and some block rewards can be MEV without directly worsening a particular user's swap.
 
-- **Daily Cost**: Significant amounts lost to sandwich attacks and MEV.
-
-- **User Loss**: Average user loses a small amount per transaction.
-
-- **Whale Impact**: Large trades lose more due to higher slippage.
-
-- **Protocol Impact**: Some protocols lose revenue to sandwich attacks.
-
-Sandwich attacks are an economic problem in DeFi.
-
-## Sandwich Attack Vulnerabilities
-
-Where attacks occur:
-
-- **Public Mempools**: Bitcoin and Ethereum expose pending transactions.
-
-- **DEXs**: Any DEX with a public mempool is vulnerable.
-
-- **Auctions**: Batch auctions are vulnerable if transactions are visible before batching.
-
-- **Bridges**: Some bridge transactions are vulnerable.
-
-Most DeFi transactions are vulnerable to sandwich attacks.
-
-## Sandwich Attack Defenses
-
-Mitigation strategies:
-
-- **Private Mempools**: Hide pending transactions from the public.
-
-- **MEV-Burn**: Require attackers to burn MEV extraction profits.
-
-- **Intent-Based**: Users specify intents, preventing sandwich ordering.
-
-- **Encrypted Mempools**: Encrypt transactions until after ordering.
-
-- **Threshold Encryption**: Encrypt until a threshold is reached, allowing deterministic ordering.
-
-- **Slippage Protection**: Fail transactions if the price is worse than a set threshold.
-
-Different defenses have different tradeoffs.
-
-## Career Opportunities
-
-MEV creates roles:
-
-- **MEV Researchers** studying attack patterns.
-
-- **Security Engineers** building MEV defenses.
-
-- **Protocol Designers** creating sandwich-resistant protocols.
-
-- **Searchers** finding profitable MEV opportunities.
-
-- **Flashbots Engineers** building MEV infrastructure.
-
-## Best Practices
-
-Protecting against sandwich attacks:
-
-- **Slippage Limits**: Set strict slippage limits to prevent overpayment.
-
-- **Private Transactions**: Use private relay to prevent public mempool exposure.
-
-- **Batch Swaps**: Split large swaps into smaller chunks to reduce MEV.
-
-- **Off-Peak Trading**: Trade during lower MEV periods when fewer searchers are active.
-
-- **Intent Markets**: Use intent-based systems when available.
-
-## The Future of Sandwich Attacks
-
-Evolution:
-
-- **Better Defenses**: More protocols implementing MEV-resistant mechanisms.
-
-- **Encrypted Execution**: Encrypted execution engines preventing sandwich attacks.
-
-- **Intent-Based Dominance**: Shift toward intent-based systems reducing ordering attacks.
-
-- **Encrypted Mempools**: More chains moving toward encrypted mempools.
-
-- **MEV Redistribution**: Fair MEV distribution mechanisms benefiting users.
-
-## Prevent Sandwich Exploitation
-
-Sandwich attacks are a serious MEV problem affecting DeFi users. Understanding sandwich attacks helps protect transactions. If you're interested in MEV or DeFi security, explore [MEV careers](/) at Flashbots and protocol teams. These roles focus on building fair, sandwich-resistant trading.
+Sandwiching also differs from ordinary slippage. Slippage is the difference between an expected price and execution price, often caused by a trade's own size, market movement, or fees. A sandwich intentionally adds a price move around the trade to capture value. Price impact is the mechanical effect that a trade has on a pool price. In a sandwich, the attacker uses both its own price impact and the target's price impact. A failed transaction does not necessarily mean a sandwich occurred; it can fail for many unrelated reasons.

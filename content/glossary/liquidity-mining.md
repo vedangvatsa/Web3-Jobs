@@ -130,46 +130,6 @@ Miner approach: Commit to a specific pool, accepting a designated reward rate.
 
 Farmers maximize returns; miners optimize for simplicity.
 
-## Career Opportunities
-
-Mining creates roles:
-
-- **Yield Farming Analysts** optimizing strategies.
-
-- **Smart Contract Engineers** building mining contracts.
-
-- **Protocol Economists** designing mining programs.
-
-- **Risk Analysts** assessing mining sustainability.
-
-- **Data Scientists** tracking mining flows.
-
-## Best Practices
-
-Mining safely:
-
-- **Verify Sustainability**: Can the protocol maintain mining rewards long-term? If not, it may be a temporary opportunity.
-
-- **Diversify**: Don't put all capital in a single mining pool. Diversify across multiple protocols.
-
-- **Calculate Impermanent Loss**: Understand IL impact on net returns.
-
-- **Monitor Dilution**: Track how many liquidity providers farm. As more enter, yields decrease.
-
-- **Plan Exits**: If farming becomes unsustainable, have an exit strategy before rewards end.
-
-## The Future of Mining
-
-Mining evolution:
-
-- **Sustainable Models**: Protocols designing sustainable mining where protocol fees fund mining.
-
-- **Concentrated Liquidity**: Uniswap V3 concentrated liquidity improves capital efficiency of mining.
-
-- **Cross-Protocol Incentives**: Protocols coordinating mining to boost the ecosystem.
-
-- **Real Yield**: Shift from token incentives to real yield from protocol fees.
-
 ## Mine Liquidity Strategically
 
 Liquidity mining attracts capital to new protocols through token incentives. Understanding mining mechanics helps you evaluate opportunities and risks. If you're interested in DeFi yield strategies or protocol design, explore [DeFi careers](/) at protocols and yield optimization platforms. These roles focus on designing sustainable incentive systems.

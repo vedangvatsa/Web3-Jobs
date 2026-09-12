@@ -135,46 +135,6 @@ Obstacles:
 
 DAOstack has a niche but smaller user base.
 
-## Career Opportunities
-
-DAO infrastructure creates roles:
-
-- **DAO Architects** designing governance systems.
-
-- **Smart Contract Engineers** building governance contracts.
-
-- **Frontend Developers** building DAO interfaces.
-
-- **DAO Operators** managing DAOs.
-
-- **Community Managers** enabling governance.
-
-## Best Practices
-
-Using DAOstack:
-
-- **Understand Mechanics**: Learn holographic consensus before setting up a DAO.
-
-- **Community Engagement**: Ensure the community understands governance.
-
-- **Clear Processes**: Define proposal processes and voting rules clearly.
-
-- **Education**: Educate members on voting and governance.
-
-## The Future of DAOs
-
-DAO evolution:
-
-- **Better Governance Tools**: More sophisticated voting mechanisms.
-
-- **Multi-DAO Governance**: DAOs coordinating across multiple organizations.
-
-- **Improved UX**: Simpler interfaces making participation easier.
-
-- **Real-Time Governance**: Faster decision-making through better tools.
-
-- **Institutional DAOs**: DAOs adopted by institutions and enterprises.
-
 ## Build Scalable Governance
 
 DAOstack is a framework enabling scalable governance through holographic consensus. Understanding DAO governance frameworks helps you choose the right infrastructure for your organization. If you're interested in DAO infrastructure or governance, explore [DAO careers](/) at DAOstack and DAO projects. These roles focus on building governance infrastructure.

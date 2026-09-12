@@ -1,6 +1,3 @@
-
-'use server';
-
 import Parser from 'rss-parser';
 import type { NewsItem } from '@/types';
 

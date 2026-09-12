@@ -19,106 +19,40 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Preconfirmation refers to a commitment from validators or sequencers to include a specific transaction in an upcoming block, providing users with fast certainty before the block achieves final confirmation on the blockchain. This mechanism addresses the latency challenges inherent in traditional blockchain confirmations, where users might wait seconds or even minutes for transaction finality. Espresso Systems has pioneered preconfirmation infrastructure, enabling Layer 2 rollups to offer sub-second transaction guarantees to their users. The technology is particularly valuable for trading applications, gaming platforms, and any user experience requiring immediate feedback. As rollup ecosystems expand and demand for faster transaction guarantees grows, professionals who understand preconfirmation architecture and its implementation across different consensus mechanisms are increasingly sought after by infrastructure teams and Layer 2 protocols.
+Preconfirmation is a signed promise that a transaction will be included, often in a particular position, in an upcoming block. It gives a user a fast signal before the normal blockchain confirmation and finality process completes. The promise can come from a rollup sequencer, a validator expected to propose a block, or a specialized group acting for future proposers.
 
-## How Preconfirmations Work
+The exact promise matters. A preconfirmation may only say that a transaction has been received. A stronger one may commit to inclusion before a deadline, a fixed ordering relative to other transactions, a maximum execution price, or a particular block slot. It is not finality by itself. The chain's consensus rules still decide which block becomes canonical and when it cannot reasonably be reverted.
 
-Mechanics:
+## How it works
 
-- **Commitment**: Validator or sequencer signs commitment to include transaction.
+A user sends a transaction to a preconfirmation provider instead of waiting only for the public mempool and block production. The provider checks that the transaction is valid enough to include. It may simulate the transaction, require an adequate fee, and reserve a place in its local order. It then returns a signed receipt describing its commitment.
 
-- **Penalty**: If commitment is violated, the signer is slashed or penalized.
+For a centralized rollup sequencer, the receipt may be a signature from the sequencer's key. The sequencer later builds a batch containing the transaction and posts it to the rollup or its layer 1 settlement contract. Some designs use a committee of providers.
 
-- **Fast Response**: User receives preconfirmation in milliseconds.
+On a proof-of-stake layer 1, a validator could preconfirm a transaction for a slot it expects to propose. The validator has an economic stake that can be penalized if a protocol makes the commitment enforceable and it breaks the terms. Systems can also coordinate commitments across a sequence of upcoming proposers. These designs need a clear way to prove a violation and to apply a penalty. Without that enforcement, a signature is mostly a reputation-based promise.
 
-- **Inclusion**: Transaction included in committed block.
+The receipt can be useful immediately. A trading interface can show that an order has a reserved place. A game can accept an action while it waits for settlement. A payment receiver can decide whether the receipt is sufficient for a low-value service.
 
-Preconfirmations provide fast, credible commitments.
+## Concrete example
 
-## Benefits
+Mina submits a swap to a rollup sequencer at 12:00:00. The sequencer simulates it against the current state and returns a signed receipt within a second. The receipt says that Mina's transaction will appear before a stated deadline and after a specified sequence number. Mina's wallet displays "preconfirmed" rather than "finalized."
 
-Advantages:
+At 12:00:02, the sequencer includes the transaction in its next batch. The swap result becomes visible on the rollup. Later, the batch is posted to Ethereum and passes the rollup's normal proof or challenge process. At that later point, the transaction has the finality guarantees of the settlement chain.
 
-- **Low Latency**: Near-instant transaction certainty.
+If the sequencer does not include Mina's transaction by the deadline, the outcome depends on the design. The receipt may entitle Mina to compensation from a bonded provider, provide evidence for slashing, or merely show that the sequencer broke a service promise. It does not make Ethereum include the transaction automatically.
 
-- **Better UX**: Improves user experience for interactive apps.
+## Limitations and risks
 
-- **MEV Mitigation**: Can reduce MEV by ordering transactions early.
+Preconfirmations add a trust and availability dependency before finality. A provider can go offline, censor a transaction, produce conflicting receipts, or fail to win the expected right to build a block. A signed receipt cannot overcome a chain reorganization, validator outage, invalid transaction, or a state change that makes the transaction fail before inclusion.
 
-- **Predictability**: Users know execution price before finality.
+Economic penalties only work if violations are objectively detectable, funds are sufficiently bonded, and the slash or compensation process is reliable. A penalty may be smaller than the benefit of breaking a promise during volatile markets. Users also need to know whether they can submit a receipt as evidence and whether the enforcement system is on-chain or contractual.
 
-Preconfirmations improve blockchain user experience significantly.
+Preconfirming order can affect MEV. It may reduce uncertainty for the recipient, but it can also concentrate order flow in one provider. A provider may still reorder transactions within its permitted rules, sell order flow, or favor selected users.
 
-## Preconf Risks
+## Relevant distinctions
 
-Challenges:
+Preconfirmation is different from mempool acceptance. A node accepting a transaction only means it may relay it. It has not promised inclusion. It is also different from a block confirmation, which means a block containing the transaction has been accepted by the chain.
 
-- **Slashing Enforcement**: Must enforce penalties for violations.
+It differs from finality. Finality is the point at which the consensus protocol treats a block as irreversible or extremely costly to reverse. A preconfirmation can arrive much sooner, but its guarantee is limited by the signer and its enforcement mechanism.
 
-- **Centralization**: Preconfirmation providers can become centralized.
-
-- **Partial Commitments**: Preconfirmations don't guarantee finality.
-
-- **Trust**: Users must trust preconfirmation providers.
-
-Preconfirmations add trust assumptions.
-
-## Use Cases
-
-Applications:
-
-- **DeFi Trading**: Fast confirmation for time-sensitive trades.
-
-- **Gaming**: Low-latency game actions.
-
-- **Payments**: Instant payment confirmation.
-
-- **NFT Minting**: Guarantee mint inclusion during high demand.
-
-Preconfirmations suit latency-sensitive applications.
-
-## L2 Preconfs
-
-Rollup implementation:
-
-- **Sequencer Preconfs**: Sequencers commit to transaction ordering.
-
-- **Fast Finality**: Instant soft finality before Layer 1 posting.
-
-- **UX Improvement**: Better than waiting for Layer 1 finality.
-
-Layer 2s are a natural fit for preconfirmations.
-
-## Career Opportunities
-
-Preconf roles:
-
-- **Protocol Engineers**.
-
-- **MEV Researchers**.
-
-- **Infrastructure Engineers**.
-
-## Best Practices
-
-Using preconfirmations:
-
-- **Check Penalties**: Ensure penalty mechanisms are strong.
-
-- **Monitor Violations**: Track preconfirmation violation rates.
-
-- **Diversify Providers**: Use multiple preconfirmation providers.
-
-## The Future of Preconfirmations
-
-Trends:
-
-- **L1 Preconfs**: Ethereum Layer 1 preconfirmation protocols.
-
-- **L2 Adoption**: More rollups offering preconfirmations.
-
-- **Standardization**: Industry standards for preconfirmations.
-
-## Commit to Fast Inclusion
-
-Preconfirmations provide fast transaction certainty before finality. They improve user experience and enable new applications. If you're interested in user experience or infrastructure, explore [infrastructure careers](/) at sequencer teams.
+A rollup's soft confirmation is often similar to a preconfirmation, but terminology varies. A soft confirmation may simply report a sequencer's current ordering decision. A preconfirmation should specify a signed commitment and the consequences if the signer does not honor it.

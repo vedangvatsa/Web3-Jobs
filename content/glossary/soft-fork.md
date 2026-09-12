@@ -129,46 +129,6 @@ When soft forks won't work:
 
 Hard forks require everyone to upgrade, necessitating more coordination.
 
-## Career Opportunities
-
-Protocol upgrades create roles:
-
-- **Protocol Engineers** designing upgrades earn competitive salaries.
-
-- **Consensus Researchers** analyzing fork mechanics earn competitive salaries.
-
-- **Testing Engineers** validating upgrade safety earn competitive salaries.
-
-- **Communication Specialists** coordinating upgrades earn competitive salaries.
-
-- **Validator Operators** implementing upgrades earn competitive salaries.
-
-## Best Practices
-
-For protocol upgrades:
-
-- **Extensive Testing**: Test thoroughly before mainnet activation.
-
-- **Community Consensus**: Build consensus before activation.
-
-- **Clear Communication**: Explain changes clearly to users.
-
-- **Gradual Rollout**: When possible, use soft forks for gradual adoption.
-
-- **Monitoring**: Monitor the network during and after activation.
-
-## The Future of Upgrades
-
-Upgrade evolution:
-
-- **Modular Execution**: Modular designs enabling easier upgrades.
-
-- **Rollout Flexibility**: Better tools for managing upgrade rollout.
-
-- **Backward Compatibility**: Emphasis on backward compatibility where possible.
-
-- **Staged Rollouts**: More sophisticated staged rollout mechanisms.
-
 ## Tighten Rules Safely
 
 Soft forks are safer protocol upgrades maintaining backward compatibility. Well-planned soft forks enable network evolution without requiring immediate universal adoption. If you're interested in protocol design or consensus, explore [protocol careers](/) at blockchain teams. These roles focus on safe, effective protocol upgrades.

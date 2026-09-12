@@ -120,46 +120,6 @@ Historical examples:
 
 Hindsight shows circuit breaker value.
 
-## Career Opportunities
-
-Circuit breakers create roles:
-
-- **Risk Control Engineers** designing circuit breakers earn competitive salaries.
-
-- **Smart Contract Security Engineers** implementing circuit breakers earn competitive salaries.
-
-- **Protocol Risk Managers** setting circuit breaker thresholds earn competitive salaries.
-
-- **Simulation Engineers** testing circuit breaker performance earn competitive salaries.
-
-- **Governance Specialists** setting circuit breaker policies earn competitive salaries.
-
-## Best Practices
-
-As circuit breaker user:
-
-- **Understand Mechanisms**: Know when your protocol's circuit breaker triggers.
-
-- **Monitor Thresholds**: If threshold changing, understand implications.
-
-- **Plan for Pauses**: Don't assume continuous access. Plan operations accordingly.
-
-- **Diversify**: If protocol pauses, have alternatives.
-
-## The Future of Circuit Breakers
-
-Evolution:
-
-- **Sophisticated Triggers**: More subtle triggers beyond simple thresholds.
-
-- **Cross-Protocol Coordination**: Protocols coordinating circuit breakers to prevent contagion.
-
-- **Predictive Pauses**: Machine learning predicting stress before circuit breaker needed.
-
-- **Graduated Response**: Rather than binary pause/resume, graduated response reducing capacity gradually.
-
-- **Decentralized Governance**: More protocols moving circuit breaker control to governance.
-
 ## Protect Through Pause
 
 Circuit breakers are defensive tools protecting protocols during market stress. Well-designed circuit breakers balance protection with operational continuity. If you're interested in DeFi risk management or security, explore [DeFi security careers](/) at protocol teams. These roles focus on building resilient systems protecting user funds.

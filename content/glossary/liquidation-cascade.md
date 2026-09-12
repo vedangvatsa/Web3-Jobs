@@ -118,48 +118,6 @@ Building safer protocols:
 
 Careful design significantly reduces cascade risk.
 
-## Career Opportunities
-
-Risk management creates roles:
-
-- **Risk Managers** assess cascade risks.
-
-- **Protocol Designers** design cascade-resistant systems.
-
-- **Quantitative Analysts** model cascade scenarios.
-
-- **Smart Contract Auditors** find cascade vulnerabilities.
-
-- **Liquidation Specialists** manage liquidations safely.
-
-## Best Practices
-
-Risk management:
-
-- **Monitor Liquidations**: Track liquidation volumes and prices.
-
-- **Diversify**: Avoid concentrating collateral in a single protocol.
-
-- **Conservative Thresholds**: Maintain health factor above 1.5 to avoid liquidation.
-
-- **Understand Contagion**: Know which protocols are interconnected with your positions.
-
-- **Risk Limits**: Limit exposure to risky assets and protocols.
-
-## The Future of Cascade Prevention
-
-Evolution:
-
-- **Better Oracles**: More reliable oracles can prevent manipulation.
-
-- **Isolated Markets**: More protocols are moving to isolated markets.
-
-- **Circuit Breakers**: More sophisticated pause mechanisms are being developed.
-
-- **Insurance**: More insurance options against liquidation cascades are emerging.
-
-- **Cross-Protocol Coordination**: Better coordination can prevent system-wide cascades.
-
 ## Prevent Liquidation Spirals
 
 Liquidation cascades are a significant systemic risk in DeFi. Understanding and preventing cascades is critical for protocol design and risk management. If you're interested in risk management or DeFi architecture, explore [risk careers](/) at DeFi protocols and risk analysis firms. These roles focus on building safe, resilient systems.

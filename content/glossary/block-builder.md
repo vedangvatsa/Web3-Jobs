@@ -19,110 +19,40 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Block Builder refers to a specialized entity in blockchain infrastructure that constructs optimized blocks by strategically ordering and bundling transactions, then bidding to have these blocks proposed by validators in Proposer-Builder Separation systems. Block builders collect transactions from both the public mempool and private order flow sources, arranging them to maximize value extraction while competing with other builders for block inclusion rights. Flashbots, the company that pioneered this role through its MEV-Boost software, enabled a builder ecosystem that processes a significant portion of Ethereum blocks. The builder role emerged as protocols sought to separate block construction from block proposal to reduce validator centralization pressures and create more efficient MEV markets. Professionals who understand block builder mechanics are increasingly sought after for roles in MEV research, protocol development, and blockchain infrastructure engineering.
+## Definition
 
-## Block Builder Role
+A block builder is a service that assembles a candidate block for a blockchain. It chooses which transactions to include, their order, and sometimes extra transactions that capture maximum extractable value (MEV). In systems with proposer-builder separation, the validator selected to propose a block can choose a builder's block instead of constructing one itself.
 
-What builders do:
+Builders compete to make their blocks worth more than other candidates. Value can come from ordinary user fees, arbitrage between exchanges, liquidations in lending markets, or payments from users who want private or reliable execution. The builder normally offers part of that value to the proposer as a bid. The proposer receives the bid if it publishes the builder's valid block.
 
-- **Transaction Collection**: Gather transactions from public mempool and private sources.
 
-- **MEV Extraction**: Order transactions to capture arbitrage, liquidations, and sandwiches.
+## How It Works
 
-- **Block Construction**: Bundle transactions into optimized blocks.
+A builder receives transactions from several places. These can include the public mempool, private transaction endpoints, searchers that submit MEV bundles, and direct agreements with wallets or applications. A bundle is a set of transactions that must be included in a stated order, often only if every transaction succeeds.
 
-- **Bidding**: Bid to proposers for block inclusion rights.
+The builder simulates candidate blocks against the current chain state. It estimates gas use, transaction fees, bundle payments, and the value of any MEV strategy. It then selects an ordering that fits within the block limits and produces the highest expected value. A valid block also needs the correct parent, state transition, and consensus fields.
 
-Builders specialize in block value maximization.
+In the common Ethereum relay flow, a builder sends a bid and a blinded block header to a relay. The relay checks the submission and makes the bid available to proposers. A validator running MEV-Boost compares bids from its configured relays and signs the header it chooses. Only after that commitment does the relay release the full execution payload. This sequence is intended to stop the proposer from seeing and copying the block contents before choosing it.
 
-## Builder Competition
 
-Market dynamics:
+## Concrete Example
 
-- **Competitive Bidding**: Builders compete by offering higher bids to proposers.
+Suppose a builder sees a public swap that will move the price of ETH on a decentralized exchange. A searcher sends the builder a bundle containing an arbitrage trade that can run after the swap. The bundle promises to pay 0.08 ETH if the trade executes in that position.
 
-- **Specialization**: Different builders optimize for different strategies.
+The builder tests the bundle with ordinary transactions. Its candidate block earns 0.12 ETH from tips and bundle payments. After allowing for the expected proposer payment, it submits a bid of 0.10 ETH. Another builder submits a valid block worth 0.09 ETH to the proposer. If the proposer selects the first bid and the block lands on chain, the proposer receives 0.10 ETH and the builder retains the remaining value, subject to its own costs and agreements.
 
-- **Private Order Flow**: Builders with exclusive order flow have advantages.
+If a different transaction changes the market before the block is finalized, the arbitrage may no longer work. The builder must then create a new candidate and bid again for the next slot.
 
-- **Latency**: Faster builders can capture more MEV.
+## Limitations and Risks
 
-Competition drives efficiency and value distribution.
+Builders can see sensitive order flow. A private transaction sent to one builder or its partners may reveal a planned trade before it is public. Private routing can reduce some forms of frontrunning, but it replaces public visibility with trust in the receiving parties and their policies.
 
-## Builder Centralization Risks
+Builder markets can concentrate. Firms with low-latency infrastructure, strong searcher relationships, or exclusive order flow can produce higher bids more often. A small set of dominant builders could delay or exclude transactions, especially when proposers depend on the same relays.
 
-Concerns:
+Builders can also include harmful MEV strategies, such as sandwich attacks, if their policies and the surrounding market allow them. Separation does not remove MEV. Relay outages, invalid payloads, and late delivery can cause a missed slot or local fallback.
 
-- **Censorship**: Dominant builders can censor transactions.
+## Relevant Distinctions
 
-- **Collusion**: Builders can collude with proposers.
+A block builder constructs a candidate block. A proposer is the validator selected by consensus to publish a block. A relay is an intermediary used in some out-of-protocol PBS designs. It carries bids and, depending on the design, checks or stores payloads. A searcher finds a specific MEV opportunity and often sends it to one or more builders. One firm can perform more than one of these roles.
 
-- **Market Power**: A few builders dominate most blocks.
-
-- **Privacy Risk**: Builders see private transaction flow.
-
-Builder centralization is an ongoing concern.
-
-## MEV-Boost Architecture
-
-Current system:
-
-- **Relays**: Intermediaries between builders and proposers.
-
-- **Block Submission**: Builders submit blocks to relays.
-
-- **Proposer Selection**: Validators choose the highest-paying block.
-
-- **Revenue Share**: Builders pay validators and keep the remaining MEV.
-
-MEV-Boost enables builder-proposer separation.
-
-## Builder Revenue
-
-Economics:
-
-- **MEV Capture**: Builders capture arbitrage, liquidations, and other opportunities.
-
-- **Validator Payments**: Pay validators for inclusion rights.
-
-- **Profit Margin**: Keep the difference as profit.
-
-- **Competition**: High competition compresses margins.
-
-Builder profitability depends on MEV capture and competition.
-
-## Career Opportunities
-
-Builder ecosystem roles:
-
-- **Block Builder Engineers**.
-
-- **MEV Researchers**.
-
-- **Infrastructure Engineers**.
-
-- **Quant Traders**.
-
-## Best Practices
-
-Working with builders:
-
-- **Understand Incentives**: Know how builders optimize blocks.
-
-- **Use Private Order Flow**: Submit to builders for MEV protection.
-
-- **Monitor Censorship**: Track builder censorship rates.
-
-## The Future of Block Builders
-
-Trends:
-
-- **Decentralized Building**: More decentralized builder networks.
-
-- **Better Competition**: Lower barriers to entry.
-
-- **Enshrined PBS**: Protocol-native builder separation.
-
-## Construct Optimal Blocks
-
-Block builders are key players in MEV markets and block production. They optimize transaction ordering and bid for inclusion. If you're interested in MEV, explore [MEV careers](/) at builder teams.
+Building is also different from mining. In proof-of-work systems, a miner historically assembled a block and competed to find its proof of work. In proof-of-stake PBS systems, the consensus proposer and the block constructor can be separate parties. A sequencer on a rollup has a related ordering role, but it produces rollup batches rather than an Ethereum validator block.

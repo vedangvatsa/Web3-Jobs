@@ -116,44 +116,6 @@ Enhanced security:
 
 Hardware wallet multisig provides maximum security.
 
-## Career Opportunities
-
-Multisig creates roles:
-
-- **Security Engineers** design multisig systems.
-
-- **Custody Specialists** manage multisig systems.
-
-- **Smart Contract Engineers** build multisig solutions.
-
-- **Key Managers** manage key distribution.
-
-## Best Practices
-
-Using multisig:
-
-- **Diverse Signers**: Ensure signers are independent to prevent collusion.
-
-- **Key Security**: Secure keys with hardware wallets or HSMs.
-
-- **Timelock**: Use timelock contracts allowing exit before execution.
-
-- **Auditability**: Log all transactions for audit trails.
-
-- **Testing**: Test multisig setup with small amounts first.
-
-## The Future of Multisig
-
-Evolution:
-
-- **Social Recovery**: Guardians recovering lost keys.
-
-- **Timelocks**: More sophisticated timelock mechanisms.
-
-- **Delegation**: Better delegation of signing power.
-
-- **Privacy**: Privacy-preserving multisig.
-
 ## Distribute Control Cryptographically
 
 Multi-signature wallets distribute control, improving security. This is critical for large fund custody and is a best practice for protocol governance. If you're interested in security, explore security careers at custody providers. These roles focus on protecting assets.

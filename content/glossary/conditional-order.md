@@ -19,108 +19,34 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Conditional Order refers to a trading instruction that executes automatically only when predefined criteria are satisfied, such as price thresholds, time triggers, or complex market conditions. This mechanism enables traders to implement strategies without constant market monitoring, automating decisions like selling an asset when it reaches a target price or buying when technical indicators align. In traditional finance, stop-loss and take-profit orders represent basic conditional orders, while decentralized protocols like dYdX and GMX have expanded these capabilities to include multi-condition triggers and cross-asset dependencies. DeFi protocols increasingly compete on advanced order types, with conditional execution becoming a standard feature across major exchanges. Professionals who understand conditional order implementation and smart contract automation find strong demand in quantitative trading, protocol development, and trading infrastructure roles throughout the cryptocurrency industry.
+A conditional order is an instruction to trade or perform another market action only after stated conditions are met. The condition may be a price, a time, an account balance, or data supplied by an oracle. A stop-loss order and a take-profit order are common forms. The order does not promise an exact execution price. It defines when an attempt to trade should begin and, if applicable, the limits that trade must follow.
 
-## Conditional Order Types
+## How It Works
 
-Different conditions:
+The user specifies the asset, trade direction, size, trigger, and execution rules. A sell stop, for example, may say: when the reference price is at or below $2,000, attempt to sell 1 ETH. The order system monitors the reference price. Once the trigger condition becomes true, it sends a market order, a limit order, or a swap transaction according to the user's instructions.
 
-- **Price Triggers**: Execute when price reaches a level. Stop-loss (below price), stop-gain (above price).
+Centralized exchanges can hold the order and watch their own order book internally. On a blockchain, a smart contract cannot wake itself up when a price changes. A separate actor must submit a transaction. This actor may be a keeper network, a protocol-operated bot, or a solver competing to fill the order. The contract checks the condition and execution limits before it accepts the action. The actor is normally paid from a fee set aside by the user or by the protocol.
 
-- **Time Triggers**: Execute at a specific time or after a delay.
+Many on-chain conditions rely on an oracle. An oracle reports a price from one or more markets to a contract. The reported price may update at intervals, have a confidence threshold, or use a time-weighted method. Other designs use the price in a particular liquidity pool. The chosen source is part of the order definition. "ETH below $2,000" is incomplete unless it identifies which price and when it is measured.
 
-- **Technical Indicators**: Execute when an indicator (RSI, MACD) reaches a level.
+## Concrete Example
 
-- **Oracle Triggers**: Execute when an oracle reports a condition.
+A trader holds 5 ETH and wants to limit a loss without watching the market. They create a conditional order that triggers when an ETH/USD oracle reports $2,000 or less. The order directs a keeper to swap 5 ETH for USDC through a decentralized exchange, but only if the swap returns at least 9,850 USDC after fees. That minimum-output rule is the order's slippage limit.
 
-- **Composite Conditions**: Combine multiple conditions with AND/OR logic.
+If the oracle reaches $2,000, a keeper submits the transaction. The smart contract checks the current oracle value and calls the swap. If available liquidity supports the minimum output, the swap completes. If the market falls quickly and the available output is below 9,850 USDC, the transaction reverts. The trigger occurred, but the order did not fill. The trader may need to revise the limit or accept a different result.
 
-- **Account Balance**: Execute when balance reaches a threshold.
+## Limitations And Risks
 
-Conditional orders enable flexible automation.
+Price triggers can be late or inaccurate. An oracle may update after the market has already moved, or it may be disrupted by an outage. A pool-price trigger can be manipulated briefly by a large trade, especially in a shallow pool. Oracle protections reduce these risks but add delay or may prevent execution during unusual conditions.
 
-## Implementation Approaches
+Execution has latency. A keeper must notice the condition, submit a transaction, and have it included in a block. Network congestion, insufficient gas incentives, or keeper downtime can delay or prevent the trade. Public pending transactions can also be observed by other traders. They may trade before the order, changing the price the order receives.
 
-How protocols enable:
+Market orders face slippage. A sell stop can execute far below its trigger during a rapid decline because the trigger price is not a guaranteed sale price. A limit order protects the minimum price but may remain unfilled. Fees can also make small or frequent conditional orders uneconomic, especially when each execution requires an on-chain transaction.
 
-- **Smart Contract Orders**: User-submitted smart contracts that execute on conditions.
+Complex conditions increase both flexibility and failure modes. Conditions based on several assets, external data, or technical indicators require clear definitions and reliable data feeds. A condition that cannot be evaluated on-chain must be evaluated by a trusted off-chain service, which adds a trust assumption.
 
-- **Keeper Networks**: Keepers monitor conditions and execute orders when triggered (ChainLink Automation, Gelato).
+## Relevant Distinctions
 
-- **Intent System**: Users specify intent, solvers execute when conditions are met.
+A stop order has a trigger. Once triggered, it commonly becomes a market or limit order. A limit order has an acceptable price but does not necessarily have a separate trigger. A take-profit order is usually a conditional sell or buy intended to close a position at a favorable price. These names describe common trading uses, not identical behavior across platforms.
 
-- **DEX Native**: Native conditional orders in DEX smart contracts.
-
-Different implementations have different UX and costs.
-
-## Conditional Order Examples
-
-Real use cases:
-
-- **Stop Loss**: "If ETH drops below $1500, sell all ETH". Protects against losses.
-
-- **Take Profit**: "If ETH rises above $2500, sell 50% of ETH". Lock in gains.
-
-- **Rebalancing**: "If portfolio weight of BTC drops below 40%, buy BTC to rebalance".
-
-- **Dollar Cost Averaging**: "Buy 100 USDC of ETH every week".
-
-- **Arbitrage**: "If ETH/USDC price on DEX-A > price on DEX-B by 2%, buy DEX-B, sell DEX-A".
-
-Conditional orders enable many strategies.
-
-## Costs and Trade-offs
-
-Considerations:
-
-- **Keeper Fees**: Keepers executing orders charge fees.
-
-- **Gas Costs**: On-chain execution requires gas.
-
-- **Latency**: Checking conditions adds latency compared to immediate execution.
-
-- **Missed Conditions**: If an oracle fails or a keeper is offline, the condition might not execute.
-
-- **Complexity**: Complex conditions are hard to verify and secure.
-
-Costs must be justified by strategy value.
-
-## Career Opportunities
-
-Conditional orders create roles:
-
-- **Protocol Designers** designing order mechanisms earn competitive salaries.
-
-- **Keeper Operators** running keepers earn variable salaries.
-
-- **Smart Contract Engineers** implementing orders earn competitive salaries.
-
-- **Automation Specialists** building strategies earn competitive salaries.
-
-## Best Practices
-
-Using conditional orders:
-
-- **Test Conditions**: Carefully test conditions before deployment.
-
-- **Monitor Keepers**: Ensure keepers execute reliably.
-
-- **Cost Analysis**: Ensure order fees do not exceed strategy value.
-
-- **Redundancy**: Use multiple keeper networks for reliability.
-
-## The Future of Conditional Orders
-
-Evolution:
-
-- **More Conditions**: Support for complex conditions.
-
-- **Cross-Chain**: Conditional orders spanning chains.
-
-- **Lower Costs**: Cheaper automation as infrastructure improves.
-
-- **Standardization**: Industry standards for condition specifications.
-
-## Automate Trading Intelligently
-
-Conditional orders enable automated trading without constant monitoring. Important for sophisticated strategies. If you're interested in trading or automation, explore [trading careers](/) at DeFi protocols. These roles focus on building trading infrastructure.
+Conditional orders also differ from recurring orders. A recurring purchase might run every week whether or not a price condition is met. An intent is broader: it states a desired outcome, such as exchanging one asset for another above a minimum amount. A solver may choose the execution path. A conditional order can be expressed as an intent, but its trigger and fill rules must still be defined.

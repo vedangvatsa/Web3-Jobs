@@ -114,48 +114,6 @@ Concerns:
 
 Burning is a tool; outcomes depend on context and fundamentals.
 
-## Career Opportunities
-
-Token economics creates roles:
-
-- **Tokenomics Designers** designing burn mechanisms earn competitive salaries.
-
-- **Economists** analyzing token dynamics earn competitive salaries.
-
-- **Treasury Managers** managing token supplies and burns earn competitive salaries.
-
-- **Data Analysts** tracking burning impact earn competitive salaries.
-
-- **Governance Specialists** enabling burn voting earn competitive salaries.
-
-## Best Practices
-
-Token burn considerations:
-
-- **Understand Purpose**: Know why a protocol is burning tokens. Is it for fundamental improvement or just narrative?
-
-- **Track Burn Rate**: Monitor regular burning. Is it increasing or decreasing?
-
-- **Supply Trajectory**: Understand total supply over time. Is it inflationary or deflationary?
-
-- **Holder Impact**: Consider burn impact on your holdings. More scarcity may lead to higher value per token.
-
-- **Fundamentals First**: Remember, burning does not improve the underlying protocol. Fundamentals matter most.
-
-## The Future of Burning
-
-Burning evolution:
-
-- **Deflationary Protocols**: More protocols are using burning as a core mechanism.
-
-- **Automated Burning**: Protocols automatically burn portions of fees and governance tokens.
-
-- **Community Governance**: Communities vote on burn rates and schedules.
-
-- **Staking Mechanisms**: Burning is integrated with staking and liquid staking.
-
-- **Cross-Chain Burning**: Coordinated burning across multiple chains reduces total supply.
-
 ## Control Supply Through Burns
 
 Token burns are a mechanism for reducing supply, potentially increasing scarcity and per-token value. Understanding burns helps you evaluate token economics and projects. If you're interested in token economics, governance, or protocol design, explore careers at DAOs and protocol teams. These roles focus on designing sustainable and fair token systems.

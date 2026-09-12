@@ -20,134 +20,34 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Smart Contract Wallet refers to a cryptocurrency wallet implemented as a smart contract on the blockchain rather than a traditional externally-owned account controlled by a single private key. This architecture enables programmable features that standard wallets cannot offer, including multi-signature requirements, transaction batching, spending limits, social recovery mechanisms, and automated operations. Gnosis Safe, now known as Safe, is a widely adopted smart contract wallet. Unlike conventional wallets where losing a private key means permanent loss of funds, smart contract wallets can incorporate recovery options and customizable security rules that adapt to user needs. The rise of account abstraction through standards like ERC-4337 has accelerated adoption by reducing friction and gas costs. For Web3 professionals, expertise in smart contract wallet development and security is increasingly valuable as protocols and institutions seek engineers who can build and audit these custody solutions.
+A smart contract wallet is an account controlled by code deployed on a blockchain. Its balance belongs to the wallet contract, and the contract decides which actions are valid. This differs from a standard externally owned account, or EOA, where one private key directly authorizes transactions. A smart contract wallet can require several approvals, apply spending rules, batch actions, or define a recovery path because those rules are part of the contract.
 
-## Smart Contract Wallet Features
+## How It Works
 
-Advanced capabilities:
+The wallet contract has an authorization rule. In a multisignature wallet, several owner addresses are registered and a transaction executes only after the required number approve it. In a wallet with social recovery, designated guardians can replace a lost signing key after meeting the contract's threshold and delay rules. Other contracts can enforce daily transfer limits, approved destinations, or a time delay before a large withdrawal is released.
 
-- **Multi-Signature**: Require multiple signatures.
+The contract needs a transaction to call it. In a traditional setup, an EOA pays network gas and calls the wallet's execution function. With ERC-4337 account abstraction on Ethereum, a user signs a `UserOperation` describing the requested action. A bundler submits it to the EntryPoint contract, which checks the wallet's validation logic and executes it if valid. A paymaster may cover the gas under its own rules. ERC-4337 does not make every smart contract wallet the same. Each wallet implementation can use different signature, recovery, and policy logic.
 
-- **Timelock**: Delay between authorization and execution.
+Batching is a common feature. Rather than send one transaction to approve a token and another to deposit it, the wallet can make both calls in one atomic operation. If either call fails, the whole batch reverts. This can simplify an interaction, although it does not remove the gas required to execute each operation.
 
-- **Delegation**: Delegate operations to other addresses.
+## Concrete Example
 
-- **Batching**: Execute multiple operations atomically.
+A small organization uses a Safe smart contract wallet to manage a treasury. It sets three owner addresses and requires two signatures for each transfer. One owner creates a transaction to send 10 ETH to a contractor. The transaction is recorded as pending. A second owner reviews the recipient and amount, then signs. Anyone can submit the approved transaction to the network, where the Safe contract verifies the two approvals and sends the ETH.
 
-- **Recovery**: Social recovery of lost keys.
+The organization can add a module or policy that delays transfers above a stated amount. It could also batch an ERC-20 approval and a deposit into a lending protocol. The wallet's funds are not protected merely because it is called a multisig. Protection comes from the deployed contract, the selected threshold, the security of each owner key, and the correctness of any module attached to it.
 
-- **Automation**: Automated execution based on conditions.
+## Limitations And Risks
 
-Smart contract wallets enable advanced features.
+Smart contract wallets have a larger technical attack surface than a simple EOA. A bug in authorization, signature validation, upgrade logic, or an installed module can expose all funds. An audited contract lowers some risk but cannot guarantee safety, especially when the wallet is upgraded or connected to new modules.
 
-## Account Abstraction
+Recovery changes the threat model. Guardians can help after key loss, but a group of compromised guardians may take control of the wallet. A low multisig threshold can be convenient but weak. A high threshold can leave funds inaccessible when owners are unavailable. Timelocks help give owners time to react, but they also slow legitimate emergency actions.
 
-Enabling technology:
+Compatibility can be uneven. Some applications, airdrops, or exchanges assume that the user is an EOA and may not support contract-wallet signatures or contract addresses. ERC-4337 wallets depend on bundlers, the EntryPoint design, and often paymaster services. If these services reject an operation or are unavailable, the wallet may be harder to use until another compatible service is found.
 
-- **EIP-4337**: Ethereum improvement enabling account abstraction.
+Deployment and execution can cost more gas than an EOA transaction, particularly on mainnet. A contract wallet may also need an initial deployment step. Sponsored gas can improve the experience for the user, but it shifts the cost and policy control to a paymaster.
 
-- **EntryPoint**: Specialized smart contract managing wallet interactions.
+## Relevant Distinctions
 
-- **Bundlers**: Services bundling transactions.
+A smart contract wallet is not the same as a software wallet. Software such as a browser extension can control an EOA, a contract wallet, or both. It is the on-chain account type, not the user interface, that makes a wallet a smart contract wallet.
 
-- **Paymasters**: Services paying gas on behalf of users.
-
-Account abstraction enables smart contract wallets without protocol changes.
-
-## Gnosis Safe
-
-Popular implementation:
-
-- **Multi-Sig**: Require multiple signatures.
-
-- **Execution**: Transactions queued, executed after signatures.
-
-- **Web Interface**: User-friendly web interface.
-
-- **Governance**: Many protocols use Gnosis Safe for governance.
-
-Gnosis Safe is a standard smart contract wallet.
-
-## Social Recovery
-
-Key feature:
-
-- **Lost Key**: If you lose your private key, you can recover your wallet.
-
-- **Guardians**: Designate guardians (trusted contacts).
-
-- **Recovery**: Guardians attest to identity, transfer ownership.
-
-- **Decentralized**: Recover without a central service.
-
-Social recovery solves the key loss problem.
-
-## Smart Contract Wallet Risks
-
-Challenges:
-
-- **Complexity**: More complexity can lead to more bugs.
-
-- **Higher Costs**: Smart contract execution incurs gas costs.
-
-- **Interdependency**: Depends on EntryPoint contract security.
-
-- **Adoption**: Requires infrastructure support (bundlers, RPC providers).
-
-Smart contract wallets add complexity and costs.
-
-## Programmable Security
-
-Advanced security:
-
-- **Time-Based**: Transactions execute only after a delay.
-
-- **Rate Limiting**: Limit withdrawal amounts per day.
-
-- **Whitelisting**: Only interact with whitelisted addresses.
-
-- **Anomaly Detection**: Detect unusual activity, pause wallet.
-
-- **Key Rotation**: Rotate keys periodically.
-
-Programmability enables advanced security.
-
-## Career Opportunities
-
-Smart contract wallets create roles:
-
-- **Wallet Developers** build wallets.
-
-- **Security Engineers** secure wallets.
-
-- **UX Designers** design wallet interfaces.
-
-- **Infrastructure Engineers** support wallets.
-
-## Best Practices
-
-Using smart contract wallets:
-
-- **Test**: Test with small amounts first.
-
-- **Understand Risks**: Understand smart contract risks.
-
-- **Backup Keys**: Backup keys if possible.
-
-- **Recovery Setup**: Set up social recovery.
-
-## The Future of Smart Contract Wallets
-
-Evolution:
-
-- **AA Adoption**: More account abstraction adoption enabling wallets.
-
-- **Better UX**: Improving user experience.
-
-- **Advanced Features**: More programmable features.
-
-- **Industry Standard**: Becoming an industry standard.
-
-## Programmable Wallets Enable Advanced Features
-
-Smart contract wallets enable programmable features that improve security and user experience. If you're interested in wallet development, explore [wallet careers](/) at wallet teams. These roles focus on user-friendly, secure wallet infrastructure.
+Multisig is a wallet policy, not a separate account type. Many multisigs are smart contract wallets, but a smart contract wallet can have one signer plus recovery and spending rules. Account abstraction is the broader approach of making account behavior programmable. ERC-4337 is one Ethereum standard for this approach. It lets smart contract accounts operate without a consensus-layer change, but it does not turn an EOA into a contract or eliminate private-key security.

@@ -111,42 +111,6 @@ Possible attacks:
 
 Attacks are possible against finality assumptions.
 
-## Career Opportunities
-
-Finality creates roles:
-
-- **Consensus Researchers** study finality.
-
-- **Protocol Engineers** implement finality.
-
-- **Safety Analysts** analyze finality attacks.
-
-- **Bridge Builders** engineer finality mechanisms.
-
-## Best Practices
-
-Understanding finality:
-
-- **Know Your Chain**: Understand your blockchain's finality model.
-
-- **Wait for Finality**: For high-value transactions, wait for finality.
-
-- **Risk Assessment**: Assess finality guarantees when evaluating chains.
-
-- **Bridge Trust**: Bridges are only as safe as their finality assumptions.
-
-## The Future of Finality
-
-Evolution:
-
-- **Faster Finality**: L2s enabling sub-minute finality.
-
-- **Cross-Chain Finality**: Improved cross-chain finality mechanisms.
-
-- **Quantum-Safe Finality**: Quantum-resistant finality mechanisms.
-
-- **Intent-Based Finality**: Finality from intent execution rather than consensus.
-
 ## Ensure Irreversible Settlement
 
 Transaction finality ensures transactions are irreversible. This is critical for settlement certainty. If you're interested in consensus or settlement, explore [consensus careers](/) at protocol teams. These roles focus on building secure settlement infrastructure.

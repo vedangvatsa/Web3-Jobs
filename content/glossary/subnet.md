@@ -20,124 +20,40 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Subnet refers to a custom blockchain that operates on top of a shared validator network, inheriting security from the base layer while enabling specialized configurations and rules tailored to specific use cases. Avalanche pioneered this architecture, allowing developers to launch independent chains that use the same validator set as the mainnet without competing for its blockspace. A notable example is DeFi Kingdoms, which migrated to its own Avalanche subnet called DFK Chain to achieve the low latency and high throughput required for its blockchain-based game economy. Avalanche hosts multiple active subnets processing transactions daily, demonstrating adoption of this multi-chain scaling approach. The ecosystem of subnet deployments across gaming, decentralized finance, and real-world asset tokenization has created demand for engineers who understand cross-chain architecture, validator economics, and custom virtual machine development.
+## Definition
 
-## Subnet Architecture
+A subnet is a separate blockchain environment with its own rules, state, and validator requirements, usually created within a wider network architecture. The word is most closely associated with Avalanche, where a subnet is a dynamic set of validators that cooperatively validate one or more blockchains. A subnet can run an application-specific chain with its own virtual machine, fees, permissions, and token design.
 
-How subnets work:
+The term does not guarantee shared security. The security of a subnet depends on who validates it, what stake backs those validators, and which network rules require them to participate. In Avalanche's Primary Network model, validators of a custom subnet must also validate the Primary Network and meet its staking requirements. That relationship does not mean every validator of the parent network validates the custom chain.
 
-- **Validator Set**: Each subnet has a validator set that can include mainnet validators and additional validators.
+Projects use subnets when they need different execution rules or predictable capacity without changing a public main chain.
 
-- **Custom Rules**: Subnets can implement custom consensus, execution, and economic rules.
+## How It Works
 
-- **Shared Security**: Subnets inherit security from parent network validators.
+An operator chooses the subnet's membership and validation rules, subject to the host network's protocol. Validators join the subnet by staking or registering as required and run the software needed to validate its chain. The validator set reaches consensus on the blocks for that chain. Its decisions are separate from the state and block production of other chains.
 
-- **Independent State**: Subnet state is independent from the mainnet.
+The chain can run an Ethereum Virtual Machine-compatible environment, a custom virtual machine, or another execution design. Its rules can define which transactions are valid, whether addresses need permission, how fees are paid, and how software upgrades occur. A permissioned subnet might require validators and users to pass an identity check. A public one might allow any user to submit transactions while requiring operators to meet a staking threshold.
 
-- **Cross-Chain Bridge**: Subnets can bridge assets to the mainnet and other subnets.
+Assets and messages can move between chains through a bridge or interoperability protocol. That connection needs its own verification model. A chain cannot simply treat an asset on another chain as local without a contract or protocol that locks, burns, verifies, or represents it. The subnet also needs its own explorer, RPC endpoints, wallets, indexing, and operational monitoring.
 
-- **Custom Virtual Machine**: Subnets can run custom virtual machines such as EVM or other types.
+## Concrete Example
 
-Subnets enable customization while maintaining security.
+Suppose a game launches a subnet with an EVM-compatible chain. The game uses a token called GEM to pay transaction fees, and it wants players to complete actions in a few seconds without competing with unrelated mainnet activity. The team deploys its game contracts on the subnet and recruits validators that meet the network's requirements.
 
-## Subnet Examples
+When a player crafts an item, the transaction changes only the subnet's state. The subnet validators agree on the block and charge GEM for the fee. The main chain does not execute that game transaction. A player who wants to bring a stablecoin from the main chain uses the designated bridge. The bridge locks or escrows the original asset under its rules and issues a corresponding representation on the subnet.
 
-Real implementations:
+If the game chain has few validators or the bridge is poorly secured, the player's risk is not equal to holding the original asset on the main chain. The custom chain's convenience comes with separate security and operations to evaluate.
 
-- **Avalanche Subnets**: WAGMI Subnet (gaming), Core Subnet (e-commerce), and others.
+## Limitations And Risks
 
-- **Polkadot Parachains**: Similar concept to subnets, where parachains share security.
+Launching a subnet does not automatically provide the economic security of a large public network. A small validator set may be easier to disrupt, censor, or corrupt. Validator rewards must be sufficient to keep operators online. If the chain requires specialized hardware or compliance checks, the validator set may become concentrated.
 
-- **Cosmos Zones**: Independent blockchains sharing security through the Hub.
+Cross-chain bridges are frequent sources of loss and complexity. The bridge may rely on multisignature operators, light-client verification, or another trust model. A failure in the bridge can affect assets represented on the subnet even if the subnet consensus remains sound. Liquidity can also fragment when users and applications are spread across many chains.
 
-- **Optimism Chains**: Layer 2 chains building on the Optimism stack.
+Custom rules increase maintenance work. Teams must handle upgrades, node software, RPC availability, wallet support, indexing, and incident response. Permissioned designs may meet operational requirements but reduce open participation and censorship resistance.
 
-Subnets enable multi-chain ecosystems.
+## Relevant Distinctions
 
-## Subnet Benefits
+In Avalanche terminology, a subnet is the validator group, while a blockchain is the ledger that group validates. In common discussion, "subnet" often refers to the whole custom chain. Keeping the distinction clear matters when describing validator security.
 
-Advantages:
-
-- **Customization**: Subnets allow for custom rules, parameters, and virtual machines for specific use cases.
-
-- **Throughput**: Subnets can achieve high throughput for single applications.
-
-- **Low Latency**: Reducing network size leads to lower latency, which is important for games and real-time applications.
-
-- **Economic Model**: Subnets can implement custom tokenomics and incentives.
-
-- **Flexibility**: Parameters can be changed without mainnet coordination.
-
-Subnets enable specialized blockchains.
-
-## Subnet Risks
-
-Challenges:
-
-- **Validator Requirements**: Subnets require validators to run, which involves capital requirements.
-
-- **Security Inherited**: If the parent network is compromised, subnets may also be vulnerable.
-
-- **Bridge Risk**: Cross-chain bridges add complexity and risk.
-
-- **Liquidity Fragmentation**: Liquidity may become fragmented across subnets.
-
-- **Coordination**: Coordinating validators across subnets can be complex.
-
-Subnets add complexity while enabling customization.
-
-## Subnet vs Sidechain vs Layer 2
-
-Comparing models:
-
-| Aspect | Subnet | Sidechain | Layer 2 |
-|--------|--------|-----------|--------|
-| **Security** | Inherited | Independent | Layer 1 secured |
-| **Consensus** | Shared validators | Own validators | Layer 1 consensus |
-| **Finality** | Subnet finality | Own finality | Layer 1 finality |
-| **Customization** | Full | Full | Limited |
-| **Complexity** | Medium | High | Low |
-
-Different models have different security and flexibility tradeoffs.
-
-## Career Opportunities
-
-Subnets create roles:
-
-- **Subnet Developers** building subnets can earn competitive salaries.
-
-- **Protocol Designers** designing subnet mechanics can also earn competitive salaries.
-
-- **Validator Operators** running validators can earn competitive salaries.
-
-- **Bridge Engineers** building cross-chain bridges can earn competitive salaries.
-
-- **Application Developers** building on subnets can earn competitive salaries.
-
-## Best Practices
-
-Using subnets:
-
-- **Understand Trade-offs**: Subnets enable customization but add complexity.
-
-- **Validator Participation**: Ensure sufficient validators are backing the subnet.
-
-- **Bridge Security**: Audit bridges between subnets.
-
-- **Liquidity**: Plan for liquidity fragmentation.
-
-## The Future of Subnets
-
-Evolution:
-
-- **Better Bridges**: More secure cross-subnet bridges are expected.
-
-- **Cross-Subnet Composability**: Easier composition across subnets is anticipated.
-
-- **Validator Marketplaces**: Markets for renting validators may develop.
-
-- **Native Cross-Subnet**: Built-in cross-subnet protocols may emerge.
-
-## Specialize Through Subnets
-
-Subnets enable custom blockchains inheriting parent security. This is an important innovation for specialized applications. If you're interested in custom blockchains or application-specific chains, explore [chain development careers](/) at protocol teams. These roles focus on enabling specialized blockchain applications.
+A subnet differs from a sidechain. A sidechain is broadly an independent chain connected to another chain, usually with its own validator security. A subnet may have specific membership ties to a parent network, but its degree of shared security depends on the protocol. It also differs from a layer 2 rollup. A rollup normally posts data or proofs to a layer 1 and relies on that layer for key settlement or dispute functions. A subnet generally reaches its own consensus and finality. Parachains and Cosmos zones can resemble subnets in purpose, but their shared-security and interoperability rules are not identical.

@@ -145,22 +145,6 @@ Various tools provide mempool visibility:
 
 For traders and protocols, mempool monitoring has become essential competitive intelligence.
 
-## Career Opportunities
-
-The mempool and MEV ecosystem create specialized careers:
-
-- **MEV Searchers** write bots finding profitable opportunities in pending transactions. Successful searchers can earn significant annual incomes.
-
-- **Block Builder Operators** run infrastructure constructing optimized blocks. These technical roles pay well at leading builder operations.
-
-- **Smart Contract Engineers** building MEV-resistant protocols or MEV-capturing systems earn competitive salaries at DeFi protocols.
-
-- **Quantitative Researchers** model mempool dynamics, MEV strategies, and transaction ordering at funds and researchers, typically earning competitive salaries.
-
-- **Protocol Economists** design mechanisms minimizing harmful MEV while capturing beneficial MEV for protocols, earning competitive salaries.
-
-- **Infrastructure Engineers** at mempool monitoring services build real-time data pipelines, paying competitive salaries.
-
 ## Privacy Solutions
 
 Protecting against mempool exploitation:
@@ -176,40 +160,6 @@ Protecting against mempool exploitation:
 - **Time-Weighted Average Price (TWAP)**: Breaking large orders into many small ones over time reduces per-transaction front-running impact.
 
 As MEV extraction has grown, privacy-preserving transaction submission has become important for serious traders and protocols.
-
-## The Future of Mempools
-
-Mempool architecture is evolving:
-
-- **Encrypted Mempools**: Research into fully encrypted mempools where validators can order transactions without seeing content.
-
-- **Fair Ordering**: Protocols attempting to define and enforce "fair" transaction ordering resistant to manipulation.
-
-- **Cross-Domain MEV**: As multi-chain applications proliferate, MEV opportunities spanning multiple blockchains create complex extraction scenarios.
-
-- **Regulatory Attention**: MEV and front-running are attracting regulator interest, potentially leading to requirements around transaction handling.
-
-- **MEV Redistribution**: Mechanisms returning captured MEV to users or protocols rather than extractors/validators.
-
-- **Application-Layer Solutions**: Apps building in MEV resistance at the smart contract layer rather than relying on mempool changes.
-
-The mempool will remain an important but contested part of blockchain infrastructure.
-
-## Best Practices
-
-Working through the mempool effectively:
-
-- **Monitor Gas Prices**: Check current mempool state before submitting transactions. Don't overpay or underpay for gas.
-
-- **Use Private Pools for Sensitive Transactions**: If being front-run would be costly, use Flashbots Protect or similar services.
-
-- **Set Appropriate Slippage Tolerance**: For DEX trades, slippage limits prevent sandwich attacks from excessive extraction.
-
-- **Consider Timing**: If your transaction isn't time-sensitive, wait for low congestion periods to save on fees.
-
-- **Understand Replacement**: Know how to replace or cancel stuck transactions on your blockchain.
-
-- **Be Paranoid**: Assume actors are watching the mempool. Design strategies accordingly.
 
 ## Work through Blockchain Infrastructure
 

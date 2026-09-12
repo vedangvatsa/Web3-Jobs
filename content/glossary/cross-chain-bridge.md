@@ -143,38 +143,6 @@ Users should:
 - Avoid keeping funds in bridge contracts long-term
 - Use well-established bridges over new experimental ones
 
-## Career Opportunities
-
-Bridges create professional opportunities:
-
-- **Bridge Engineers** building cross-chain protocols earn competitive salaries at specialized bridge companies.
-
-- **Security Researchers** specializing in bridge security find critical vulnerabilities and may earn additional income through bug bounties.
-
-- **Cryptographers** designing bridge security mechanisms earn competitive salaries.
-
-- **Smart Contract Auditors** specializing in bridges earn competitive salaries as bridge security is highly specialized.
-
-- **Product Managers** at bridge protocols working through complex tradeoffs earn competitive salaries.
-
-- **Data Analysts** tracking cross-chain flows and bridge usage patterns earn competitive salaries.
-
-## The Future of Bridges
-
-Bridge technology continues evolving:
-
-- **Light Client Bridges**: Research on making full light client bridges more practical and efficient.
-
-- **Proof-of-Stake Interoperability**: Using shared validator sets across chains to improve bridge security.
-
-- **Intent-Based Bridges**: Moving away from primitive lock-and-mint toward intent-based designs where users specify what they want and systems optimize execution.
-
-- **Rollup-Native Solutions**: L2s implementing more sophisticated bridges using their specific properties.
-
-- **Regulatory Frameworks**: Clear regulations might emerge around bridge operations and custody.
-
-- **Unified Liquidity**: Solutions enabling cross-chain DEXs with unified liquidity pools rather than fragmented per-chain pools.
-
 ## Connect the Ecosystem
 
 Bridges are essential infrastructure for multi-chain blockchain ecosystems, but they remain security-critical and imperfectly solved. If you're interested in cross-chain design, cryptographic protocols, or blockchain security, explore [blockchain infrastructure careers](/) at bridge protocols, audit firms, and protocol teams. These roles focus on one of blockchain's most challenging open problems: enabling secure, efficient, trustless value transfer across heterogeneous systems.

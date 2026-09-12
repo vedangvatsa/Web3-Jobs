@@ -142,40 +142,6 @@ Evolution:
 
 - **Cross-System Slicing**: Slicing across multiple proof systems and hardware accelerators.
 
-## Career Opportunities
-
-Proof systems create roles:
-
-- **Cryptography Researchers** studying slicing.
-
-- **Protocol Engineers** implementing slicing.
-
-- **Performance Engineers** optimizing slice performance.
-
-- **Formal Verification Experts** proving slice correctness.
-
-- **Hardware Engineers** accelerating slicing.
-
-## Best Practices
-
-Using slicing techniques:
-
-- **Understand Boundaries**: Know slice boundaries and dependencies.
-
-- **Verify Composition**: Ensure slice composition is secure.
-
-- **Performance Testing**: Test slice performance at scale.
-
-## The Future of Slicing
-
-Slicing evolution:
-
-- **Better Composition**: More efficient composition mechanisms.
-
-- **Adaptive Slicing**: Dynamic slicing based on computation structure.
-
-- **Hardware Optimization**: Specialized hardware for slice processing.
-
 ## Scale Computation Through Slicing
 
 Slicing is a technique enabling scalable proofs. It is essential for making complex computations practical on blockchain. If you're interested in proof systems or cryptography, explore careers at research teams. These roles focus on making advanced cryptography practical.

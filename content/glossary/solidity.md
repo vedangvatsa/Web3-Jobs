@@ -381,22 +381,6 @@ One codebase can deploy across multiple chains, though gas costs and available o
 
 Solidity remains dominant with the largest developer community and most tooling.
 
-## Career Opportunities
-
-- **Solidity Developer**: Writes smart contracts for DeFi, NFTs, and DAOs. High demand exists, especially for those with security expertise.
-
-- **Smart Contract Auditor**: Reviews code for vulnerabilities. This role is critical given the stakes involved.
-
-- **Protocol Engineer**: Designs complex protocol interactions, optimizes gas, and implements upgrade patterns.
-
-- **Blockchain Architect**: Plans contract architecture, selects design patterns, and oversees development teams.
-
-- **DevRel Engineer**: Creates tutorials, documentation, and sample contracts to help developers adopt protocols.
-
-- **Solidity Instructor**: Teaches bootcamps, creates courses, and writes educational content.
-
-- **Security Researcher**: Finds vulnerabilities, participates in bug bounties, and publishes security research.
-
 ## Learning Path
 
 1. **Basics**: Variables, functions, control flow.

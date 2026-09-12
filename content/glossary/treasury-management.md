@@ -146,50 +146,6 @@ Common issues:
 
 Well-designed governance structures mitigate but don't eliminate these challenges.
 
-## Career Opportunities
-
-Treasury management creates roles:
-
-- **Treasury Managers** managing protocol reserves.
-
-- **Protocol Economists** designing treasury allocation strategies.
-
-- **Governance Analysts** analyzing treasury proposals.
-
-- **Risk Managers** assessing treasury risk.
-
-- **Fund Managers** deploying capital from treasury.
-
-## Best Practices
-
-For treasury management:
-
-- **Diversification**: Hold a mix of assets reducing concentration risk.
-
-- **Clear Strategy**: Define treasury allocation strategy and stick to it.
-
-- **Regular Review**: Periodically assess treasury health and performance.
-
-- **Transparency**: Public reporting on treasury composition and allocation.
-
-- **Insurance**: Consider insurance protecting treasury against theft.
-
-- **Governance Safeguards**: Multisig requirements and timelocks prevent sudden misuse.
-
-## The Future of Treasuries
-
-Treasury evolution:
-
-- **Sophisticated Investment**: Treasuries investing in real assets, securities, derivatives.
-
-- **Cross-DAO Treasury Swaps**: DAOs swapping treasury assets for strategic alignment.
-
-- **Treasury-Backed Securities**: Protocols issuing securities backed by treasury.
-
-- **Yield Generation**: Treasuries actively earning yields to fund operations.
-
-- **Real Asset Integration**: Treasuries backing with real-world property and assets.
-
 ## Steward Protocol Resources
 
 Treasury management is a critical function determining protocol sustainability. Good treasury management ensures sustainable operations and growth. If you're interested in protocol economics, governance, or finance, explore [DAO careers](/) at DAOs and protocol teams. These roles focus on managing collective resources for shared benefit.

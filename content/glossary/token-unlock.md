@@ -20,116 +20,38 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Token Unlock refers to the scheduled release of previously locked or vested tokens into circulating supply, typically following a predetermined timeline established at a project's launch. These unlocks commonly apply to tokens allocated to founding teams, early investors, advisors, and ecosystem development funds, with vesting periods ranging from one to four years. Token unlock events can significantly impact market dynamics, as increased supply often creates selling pressure, particularly when large stakeholders liquidate their newly accessible holdings. Understanding unlock schedules is essential for tokenomics analysts, portfolio managers, and DeFi researchers, making this knowledge valuable for careers in crypto investment and protocol governance.
+Token unlock is the point at which restricted tokens become transferable or otherwise usable by their holder. Projects restrict allocations for founders, employees, investors, advisors, foundations, and ecosystem programs. The rules may be set by a vesting schedule, token contract, or legal agreement.
 
-## Unlock Mechanics
+An unlock does not mean tokens were newly created. It changes the holder's access to tokens that may already be part of the total supply. It can increase the circulating supply if the previously restricted tokens can now be transferred and sold. The effect on reported circulating supply depends on the data provider's definition and whether the tokens are actually under a transfer restriction.
 
-How vesting works:
+## How it works
 
-- **Lock Period**: Tokens locked for set period (cliff).
+A schedule defines an allocation, a start date, an optional cliff, and a release rate. A cliff is an initial period during which no tokens vest. After the cliff, tokens may unlock all at once or vest gradually each day, month, quarter, or block. A schedule can also have several releases.
 
-- **Vesting Schedule**: Tokens unlock gradually over time (vesting period).
+For an on-chain schedule, a vesting contract holds tokens and records how much a beneficiary can claim at each time. The beneficiary calls a claim function, which transfers the vested amount. Some contracts transfer tokens automatically, while others make the holder claim. A contract can enforce a lock because it controls the token balance until release.
 
-- **Cliff**: Usually initial period where nothing unlocks.
+Not every restriction is enforced on-chain. An investor may receive tokens in a normal wallet but sign a contractual lockup. In that case, the token remains technically transferable. Enforcement depends on the agreement and the parties, not on the token contract. A project can also use multisignature custody to hold a restricted allocation, which adds operational controls but is not identical to cryptographic vesting.
 
-- **Example**: 4-year vesting, 1-year cliff. Year 1 = 0, Year 2 = 1/3, Year 3 = 2/3, Year 4 = 100%.
+Projects often give different groups different schedules. A community distribution may be available immediately. A team allocation may have a one-year cliff followed by monthly vesting. A foundation may receive a controlled treasury allocation that is not sold but can be used for grants, liquidity, or operations. To understand an unlock, the allocation category and the actual transfer restriction matter as much as the calendar date.
 
-- **Custom Schedules**: Different schedules for different parties.
+## Concrete example
 
-Vesting protects against immediate token dumps.
+A project has a fixed supply of 100 million tokens. It assigns 20 million to its team under a four-year schedule with a one-year cliff and then monthly vesting. During the first year, team members can claim none of those tokens. At the one-year date, 5 million tokens become vested if the schedule releases one quarter at the cliff. The remaining 15 million vest in 36 equal monthly portions, about 416,667 tokens per month.
 
-## Market Impact
+The 5 million token event is called an unlock. It does not require team members to sell. Some may keep the tokens, use them for governance, or leave them unclaimed. If the vesting contract transfers them into personal wallets, observers can see the claims on-chain. If the restriction is contractual, public data may show the allocation but not prove whether a holder transferred it.
 
-Price implications:
+## Limitations and risks
 
-- **Supply Increase**: Unlocked tokens increase circulating supply.
+Unlock dates alone do not predict a token's price. Markets may have already priced in a public schedule. Holders may not sell, may have hedged exposure, or may be unable to sell much without moving a thin market. Demand, liquidity, market conditions, token utility, and expectations about future supply all affect the result.
 
-- **Selling Pressure**: Token holders can now sell (price pressure).
+Reported numbers can be misleading. Total supply, max supply, circulating supply, vested supply, unlocked supply, and claimed supply are different measures. A dashboard may call an allocation "unlocked" because it is no longer contractually restricted, while another may exclude it from circulating supply because the foundation still controls it. The underlying token contract and official allocation documents are more informative than a single percentage.
 
-- **Announcements**: Large upcoming unlocks often announced in advance.
+Schedules can change. Governance or a company may amend an agreement, move tokens between wallets, extend a lock, or advance a release. Contract upgrade authority, multisignature control, and unclear documentation create additional risk. A vesting contract can also contain implementation bugs or privileged functions that let an administrator alter recipients or dates.
 
-- **Price Decline**: Large unlocks often precede price declines.
+## Relevant distinctions
 
-- **Recovery**: After unlock, prices often recover if fundamentals are strong.
+Vesting is the process by which a holder earns the right to tokens over time or after conditions are met. An unlock is the release event that makes a vested amount accessible. The terms are often used loosely, but a token can vest before it can be transferred if there is a further lock.
 
-Unlocks create predictable supply shocks.
+A cliff is not an ongoing vesting rate. It is the initial no-release period. A cliff release may be immediate and large, while linear vesting releases equal portions over time. A revocable grant can be different again, because unvested tokens may return to the issuer when a contributor leaves.
 
-## Unlock Calendars
-
-Information sources:
-
-- **Token Dashboards**: Token pages show unlock schedule.
-
-- **Decentralized**: Sites like IntoTheBlock show unlock calendars.
-
-- **Protocols**: Protocols publish unlock schedules.
-
-- **Trading Tools**: Trading tools integrate unlock information.
-
-Unlock information is usually public.
-
-## Strategic Unlocks
-
-Considerations:
-
-- **Timing**: Unlock timing affects token price.
-
-- **Hedging**: Large holders might hedge before unlocks.
-
-- **Announcements**: Announcements before unlocks affect prices.
-
-- **Governance**: Communities can vote to change unlock schedules.
-
-Strategic unlock planning is important.
-
-## Examples
-
-Real cases:
-
-- **Arbitrum**: Significant locked tokens with staged unlocks affecting price.
-
-- **Optimism**: Large governance token unlocks affecting price.
-
-- **Uniswap**: UNI governance token unlock affecting price.
-
-Major unlocks often visible in price charts.
-
-## Career Opportunities
-
-Token economics creates roles:
-
-- **Tokenomics Analysts** analyzing unlocks.
-
-- **Quantitative Traders** trading around unlocks.
-
-- **Protocol Designers** designing unlock schedules.
-
-- **Data Analysts** analyzing unlock data.
-
-## Best Practices
-
-Managing unlocks:
-
-- **Monitor Schedule**: Track upcoming unlocks.
-
-- **Diversify**: Don't concentrate in tokens before large unlocks.
-
-- **Analysis**: Understand fundamental impact of unlocks.
-
-- **Hedging**: Consider hedging before large unlocks.
-
-## The Future of Token Unlocks
-
-Evolution:
-
-- **Dynamic Schedules**: Communities adjusting unlock schedules.
-
-- **Auction Models**: Alternative to vesting through auctions.
-
-- **Streaming**: Continuous streaming vs discrete unlocks.
-
-- **Transparency**: More transparent unlock information.
-
-## Manage Supply Dynamics
-
-Token unlocks release locked supply affecting price. Important for traders and protocol designers. If you're interested in tokenomics, explore [tokenomics careers](/) at protocols. These roles focus on token economy design.
+An unlock also differs from an emissions schedule. Emissions describe new tokens entering supply through mining, staking rewards, or issuance. Unlocks generally release an existing allocation that was already counted in total supply.

@@ -647,11 +647,15 @@ export async function resolveJobSlug(slug: string): Promise<JobSlugResolution> {
     const prefix = cleanSlug.slice(0, dashIdx);
     const suffixPart = cleanSlug.slice(dashIdx + 1);
 
-    // 5a. Match jobs whose stored slug or ID starts with the prefix (e.g. "devops-andromeda-...")
+    // 5a. Match jobs whose stored slug or ID has the full legacy prefix.
+    // Do not match arbitrary substrings: /eth-taipei previously matched the
+    // "eth" inside an unrelated job's "methodology" identifier.
     const matchByPrefix = allJobs.find((job) => {
       const s = (job.slug || '').toLowerCase();
       const id = (job.id || '').toLowerCase();
-      return (s && s.startsWith(`${prefix}-`)) || (id && id.includes(prefix));
+      return (s && s.startsWith(`${prefix}-`))
+        || id.startsWith(`${prefix}-`)
+        || id.includes(`-${prefix}-`);
     });
       if (matchByPrefix) return asFallback(matchByPrefix);
 

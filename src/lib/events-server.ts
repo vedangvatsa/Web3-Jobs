@@ -204,8 +204,8 @@ function hasEventEnded(event: Web3Event, now = Date.now()): boolean {
   return Number.isNaN(endDate.getTime()) || endDate.getTime() < now;
 }
 
-function getLegacyEventSlug(event: Web3Event): string {
-  return event.name
+function getLegacyEventSlugFromName(name: string): string {
+  return name
     .toLowerCase()
     .replace(/[’'"]/g, '')
     .replace(/\b(2025|2026|2027|2028|2029|2030)\b/g, '')
@@ -213,6 +213,17 @@ function getLegacyEventSlug(event: Web3Event): string {
     .replace(/[^a-z0-9]+/g, '-')
     .replace(/^-+|-+$/g, '')
     .replace(/-+/g, '-') || 'web3-event';
+}
+
+function getLegacyEventSlug(event: Web3Event): string {
+  return getLegacyEventSlugFromName(event.name);
+}
+
+function getReadableLegacyEventSlug(event: Web3Event): string {
+  const name = event.name
+    .replace(/([a-z0-9])([A-Z])/g, '$1-$2')
+    .replace(/([A-Z])([A-Z][a-z])/g, '$1-$2');
+  return getLegacyEventSlugFromName(name);
 }
 
 export async function getEvents(): Promise<Web3Event[]> {
@@ -382,7 +393,10 @@ export async function getEventBySlug(slug: string): Promise<Web3Event | null> {
 
   // Existing event links used descriptive root slugs before abbreviations.
   // Only redirect an old URL when it identifies exactly one current event.
-  const legacyMatches = events.filter(e => getLegacyEventSlug(e) === normalized);
+  const legacyMatches = events.filter((event) =>
+    getLegacyEventSlug(event) === normalized
+    || getReadableLegacyEventSlug(event) === normalized
+  );
   if (legacyMatches.length === 1) return legacyMatches[0];
 
   // 2. Try exact ID match or prefix match

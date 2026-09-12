@@ -120,36 +120,6 @@ Protocol designers balance competing concerns:
 
 Different chains make different tradeoffs reflecting their priorities.
 
-## Career Opportunities
-
-Slashing and Proof of Stake security create roles:
-
-- **Protocol Engineers** design slashing mechanisms and security models.
-
-- **Validator Client Developers** build slashing-protection features and reliable validator software.
-
-- **Security Auditors** specialize in validator behavior and slashing vulnerabilities.
-
-- **Quantitative Researchers** model slashing incentives and network stability.
-
-- **Staking Service Operators** manage large validator pools with sophisticated slashing protection systems.
-
-## Best Practices
-
-Running validators with slashing awareness:
-
-- **Monitor Constantly**: Set up alerting for any slashing events or near-miss conditions.
-
-- **Maintain Redundancy**: Backup systems and failover ensure single points of failure don't cause slashing.
-
-- **Test Thoroughly**: Never deploy new validator configurations without extensive testing on testnet.
-
-- **Use Multiple Clients**: Distribute your validators across different client implementations to avoid a single client bug affecting all.
-
-- **Stay Informed**: Follow protocol updates and client releases, updating promptly to patch vulnerabilities.
-
-- **Insurance Consideration**: For large stakes, evaluate slashing insurance available through staking services.
-
 ## Slashing's Future
 
 Slashing mechanisms continue evolving:

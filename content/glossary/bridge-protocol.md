@@ -134,50 +134,6 @@ Economic considerations:
 
 Bridge capital efficiency is important for user experience and economics.
 
-## Career Opportunities
-
-Bridge infrastructure creates roles:
-
-- **Bridge Engineers** build bridge protocols.
-
-- **Security Engineers** secure bridges.
-
-- **Liquidity Providers** provide bridge liquidity.
-
-- **Risk Managers** assess bridge risk.
-
-- **Operations Specialists** monitor bridges.
-
-- **Cryptography Engineers** design bridge security.
-
-## Best Practices
-
-Using bridges safely:
-
-- **Use Established Bridges**: Stick with audited, proven bridges.
-
-- **Monitor Assets**: Track bridged assets. Know if the bridge is secure.
-
-- **Limit Amounts**: Don't move all assets across untested bridges.
-
-- **Understand Risks**: Know custody and security model of the bridge.
-
-- **Diversify**: Use multiple bridges rather than a single point of failure.
-
-## The Future of Bridges
-
-Bridge evolution:
-
-- **Light Client Bridges**: Trustless verification enabling safer bridging.
-
-- **Decentralized Validators**: More bridges using decentralized validators.
-
-- **Liquidity Networks**: Better liquidity aggregation across bridges.
-
-- **Native Cross-Chain**: Building native cross-chain capabilities into Layer 1 protocols.
-
-- **Unified Liquidity**: Single liquidity source across multiple chains.
-
 ## Enable Cross-Chain Capital Flow
 
 Bridge protocols are essential infrastructure enabling cross-chain capital allocation. Understanding bridge risks helps you use bridges safely. If you're interested in bridge infrastructure or cross-chain systems, explore [cross-chain careers](/) at bridge teams. These roles focus on safe, efficient cross-chain infrastructure.

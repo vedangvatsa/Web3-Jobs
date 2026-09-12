@@ -102,48 +102,6 @@ Financial implications:
 
 Price impact is a major component of trading economics.
 
-## Career Opportunities
-
-Price impact creates roles:
-
-- **Quantitative Traders** analyzing impact earn competitive salaries.
-
-- **Protocol Designers** optimizing price impact earn competitive salaries.
-
-- **DEX Builders** creating more capital-efficient protocols earn competitive salaries.
-
-- **Algorithmic Traders** exploiting impact inefficiencies earn competitive salaries.
-
-- **Market Microstructure Researchers** studying impact mechanics earn competitive salaries.
-
-## Best Practices
-
-For traders:
-
-- **Check Impact**: Use DEX aggregators showing estimated impact before trading.
-
-- **Small Trades**: If possible, split large trades to reduce impact.
-
-- **Time Awareness**: Trade during high liquidity periods.
-
-- **Limit Orders**: Use limit orders when possible to avoid slippage.
-
-- **Liquidity Research**: Find the deepest pools for your trading pair.
-
-## The Future of Price Impact
-
-Impact reduction:
-
-- **Better Liquidity Infrastructure**: More sophisticated AMM designs reduce impact.
-
-- **Cross-Protocol Liquidity**: Protocols sharing liquidity reduce impact system-wide.
-
-- **Intent-Based Architectures**: Solvers compete to provide the best execution, reducing impact.
-
-- **On-Chain Order Books**: Layer 2 order books enable impact-free matching.
-
-- **Private Mempools**: Encrypted execution prevents frontrunning and sandwich attacks.
-
 ## Understand Your Costs
 
 Price impact is an unavoidable cost of trading in liquidity-constrained markets. Understanding impact helps traders minimize costs and make better trading decisions. If you're interested in trading, market microstructure, or protocol design, explore [DeFi trading careers](/) at DEXs, trading firms, and protocol teams. These roles focus on building better execution infrastructure.

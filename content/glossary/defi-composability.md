@@ -116,50 +116,6 @@ Better composition mechanisms:
 
 Better patterns and tools enable safer composition.
 
-## Career Opportunities
-
-Composability creates roles:
-
-- **DeFi Architects** design composable protocols.
-
-- **Smart Contract Security Specialists** identify composition vulnerabilities.
-
-- **Protocol Integrators** build composed strategies.
-
-- **Researchers** study composability risks.
-
-- **Bot Developers** automate composed strategies.
-
-## Best Practices
-
-Safely composing protocols:
-
-- **Understand Composition**: Know exactly what happens when protocols compose.
-
-- **Audit Dependencies**: Ensure all composed protocols are audited and battle-tested.
-
-- **Risk Management**: Set position limits to prevent catastrophic loss if composition fails.
-
-- **Monitor Continuously**: Watch composed strategies for issues.
-
-- **Diversify**: Avoid concentrating exposure in a single composed strategy.
-
-- **Test on Testnet**: Test complex compositions on testnet first.
-
-## The Future of Composability
-
-Composability evolution:
-
-- **Better Tooling**: Improved tools make composition safer and easier.
-
-- **Cross-Chain Composition**: Composing protocols across multiple blockchains.
-
-- **Governance Integration**: Protocols composing governance mechanisms.
-
-- **Formal Verification**: Mathematical proofs of composed protocol safety.
-
-- **Specialized Composability Layers**: Layers specifically designed to enable safe composition.
-
 ## Build Complex Systems
 
 Composability is DeFi's greatest strength, enabling complex strategies from simple protocols. However, composition concentrates risk, requiring careful management. If you're interested in protocol design, DeFi strategy, or smart contract architecture, explore [DeFi careers](/) at protocol teams and quantitative firms. These roles focus on building and safely composing protocol systems.

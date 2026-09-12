@@ -114,48 +114,6 @@ Safety considerations:
 
 State channels are secure if properly implemented.
 
-## Career Opportunities
-
-State channels create roles:
-
-- **Protocol Engineers** build state channel infrastructure.
-
-- **Lightning Network Engineers** work on Bitcoin scalability.
-
-- **Routing Specialists** optimize payment routing.
-
-- **Watchtower Operators** monitor channels.
-
-- **Smart Contract Developers** build state channel contracts.
-
-## Best Practices
-
-Using state channels:
-
-- **Choose Established Networks**: The Lightning Network is the most mature. Stick with proven systems.
-
-- **Adequate Liquidity**: Ensure sufficient channel liquidity for expected transactions.
-
-- **Monitor Channels**: Use watchtowers if not monitoring yourself.
-
-- **Backup States**: Keep a backup of channel state. Losing state means losing access.
-
-- **Gradual Adoption**: Start with small amounts while learning the system.
-
-## The Future of State Channels
-
-Channel evolution:
-
-- **Improved UX**: Tools making channel management easier.
-
-- **Cross-Chain Channels**: Channels spanning multiple blockchains.
-
-- **Generalized Channels**: Extending beyond payments to general state transitions.
-
-- **Layer 2 Interoperability**: Channels interoperating with rollups for a smooth experience.
-
-- **Enterprise Adoption**: State channels for enterprise payments.
-
 ## Enable Fast, Cheap Transactions
 
 State channels enable instant, cheap payments through off-chain transactions. They are essential for scaling blockchain to payment volumes. If you're interested in layer 2 scaling or payment infrastructure, explore [layer 2 careers](/) at Lightning Labs, Starkware, and protocol teams. These roles focus on enabling blockchain scalability.

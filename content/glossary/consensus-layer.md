@@ -102,48 +102,6 @@ Possible attacks:
 
 Consensus security is an ongoing challenge.
 
-## Career Opportunities
-
-Consensus creates roles:
-
-- **Consensus Researchers** study mechanisms.
-
-- **Protocol Engineers** implement consensus.
-
-- **Validator Operators** run validators.
-
-- **Network Engineers** manage consensus networks.
-
-- **Security Researchers** analyze attacks.
-
-- **Cryptography Experts** improve consensus.
-
-## Best Practices
-
-Using consensus:
-
-- **Understand Mechanism**: Know your blockchain's consensus mechanism.
-
-- **Wait for Finality**: For high-value transactions, wait for finality.
-
-- **Monitor Health**: Track validator count and distribution.
-
-- **Diversity**: Use multiple chains rather than a single chain.
-
-## The Future of Consensus
-
-Consensus evolution may include:
-
-- **Hybrid Models**: Combining PoW and PoS.
-
-- **Threshold Encryption**: Encrypted consensus preventing miner extractable value.
-
-- **Quantum Resistance**: Post-quantum consensus mechanisms.
-
-- **Faster Finality**: Sub-second finality may become standard.
-
-- **Sustainable Consensus**: Lower energy consumption is expected with PoS over PoW.
-
 ## Agree on Truth Through Consensus
 
 Consensus is the foundation of blockchain. Participants collectively agree on truth. Good consensus is critical for blockchain viability. If you're interested in consensus or protocol design, explore [protocol careers](/) at blockchain teams. These roles focus on building secure and efficient consensus.

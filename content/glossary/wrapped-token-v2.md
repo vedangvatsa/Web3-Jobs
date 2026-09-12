@@ -20,132 +20,34 @@ synonyms:
 lastUpdated: 2026-09-04
 ---
 
-Wrapped Token refers to a cryptocurrency asset that has been tokenized to function on a blockchain different from its native network, allowing it to participate in ecosystems where it otherwise could not operate. The most prominent example is Wrapped Bitcoin (WBTC), where a custodian holds actual Bitcoin in reserve and issues an equivalent ERC-20 token on Ethereum, maintaining a strict one-to-one peg with the underlying asset. This mechanism enables Bitcoin holders to access Ethereum's decentralized finance ecosystem, depositing WBTC into lending protocols like Aave or using it as collateral in various DeFi applications. For professionals entering Web3, understanding wrapped token mechanics is essential, as roles in protocol development, DeFi integration, and cross-chain infrastructure increasingly require expertise in how assets move between blockchain networks.
+Wrapped Token Custody Models describe the ways a token on one network represents an asset that is held, locked, or otherwise accounted for elsewhere. A wrapped token is not the native asset. It is a separate token contract that represents a claim on, or an economic link to, that asset. The model matters because it determines who can mint and redeem the token, what backs it, and what must be trusted for its price to stay close to the underlying asset.
 
-## Wrapping Mechanics
+## How It Works
 
-How wrapping works:
+In a custodial model, a designated company or group receives the native asset and holds it in reserve. It then mints the same amount of the wrapped token on the destination chain. If a user later redeems the wrapped token, the operator burns it and releases the reserve asset. For example, a Bitcoin-backed token on Ethereum may be issued only after the operator has received one bitcoin. The intended relationship is one wrapped token for one bitcoin, less any stated fees.
 
-- **1. Locking**: User locks asset on source chain (e.g., Bitcoin).
+The reserve can be held in several ways. A single custodian can control the wallet holding the assets. A federation can require several independent signers to approve movements. A smart contract can lock assets on a chain that supports the required contract logic. Some bridges instead use validators that attest to deposits and authorize minting. These are different custody models even when users see a similar token in their wallet.
 
-- **2. Custodian**: Custodian holds locked asset.
+Minting and burning are supply controls. A credible design prevents the wrapped token supply from exceeding the assets it claims to represent. Operators may publish reserve addresses, audit reports, or proof-of-reserves data. Those checks can show that assets are present at a point in time, but they do not by themselves prove control of every liability, the legal claim of token holders, or the safety of the redemption process.
 
-- **3. Minting**: Custodian mints wrapped token on destination chain.
+The market price can differ from the backing ratio. Traders may buy a wrapped token below the asset's market price if they believe it can be redeemed, then redeem it for the native asset. That arbitrage can narrow a price gap. It only works when redemptions are open, affordable, and trusted.
 
-- **4. Parity**: Maintain 1:1 parity (1 wrapped = 1 original).
+## Concrete Example
 
-- **5. Unwrapping**: Burn wrapped token, receive original.
+Wrapped Bitcoin, commonly called WBTC, is an ERC-20 token designed to represent bitcoin on Ethereum. A merchant sends bitcoin to the custody arrangement and requests issuance. After the deposit is verified, the corresponding amount of WBTC is minted to an Ethereum address. The holder can transfer that WBTC or use it in an Ethereum application that accepts ERC-20 tokens, such as a lending market.
 
-Wrapping enables cross-chain representation.
+To leave the system, the holder sends WBTC through the redemption process. The token is burned, and the custodian releases the matching bitcoin to a Bitcoin address. An Ethereum application does not receive native bitcoin from this process. It receives an Ethereum token whose value depends on the reserve, the issuer's controls, and the ability to redeem.
 
-## Wrapped Token Examples
+## Limitations And Risks
 
-Real assets:
+The central risk is a broken backing claim. A custodian could lose the reserve, become insolvent, freeze redemptions, or be forced by a legal order to restrict transfers. A multisignature arrangement reduces dependence on one key holder, but does not remove operational, legal, or collusion risk.
 
-- **WBTC**: Bitcoin on Ethereum (Wrapped Bitcoin).
+Bridge-issued tokens add software and validation risk. A bug in a lock contract, a compromised validator set, or an error in message verification can allow unbacked tokens to be minted. If that happens, the token may lose its peg even though the native asset itself is unaffected. Chains with finality delays also face reorganization risk: a bridge that treats a deposit as final too early might mint against a deposit that later disappears.
 
-- **WETH**: Ethereum on L2s (Wrapped Ethereum).
+Liquidity is another limit. A token can be fully backed yet trade below its reference asset when few buyers are available, redemptions are slow, or market participants fear a freeze. Fees, minimum redemption sizes, identity checks, and withdrawal queues can make arbitrage impractical for smaller holders.
 
-- **wstETH**: Liquid staked ETH on other chains.
+## Relevant Distinctions
 
-- **Wrapped Stables**: USDC, USDT wrapped across chains.
+A wrapped token differs from a synthetic asset. A synthetic token tracks a price through collateral, debt, or market incentives and may not hold one unit of the native asset for each token. It also differs from a native multi-chain token. A native token is issued by the same project on multiple chains under its own supply rules, rather than representing an asset locked on one chain.
 
-- **Cross-Chain Bridges**: Different bridge wrappers.
-
-Many wrapped tokens circulating.
-
-## Peg Maintenance
-
-Keeping value equal:
-
-- **Arbitrage**: If WBTC price < BTC price, arb by wrapping.
-
-- **Custodian Incentive**: Custodian incentivized to maintain peg.
-
-- **Market Discipline**: Market corrects peg deviations.
-
-- **Insurance**: Some wrapped tokens insured.
-
-- **Incentives**: Protocols incentivize peg through rewards.
-
-Peg maintenance is critical.
-
-## Custodian Risk
-
-Trust assumption:
-
-- **Centralized**: Single custodian controls collateral (centralized risk).
-
-- **Multisig**: Multiple custodians (reduced risk).
-
-- **Insurance**: Insurance against custodian failure.
-
-- **Proof of Reserves**: Custodians prove holdings.
-
-- **Regulatory**: Regulatory changes could affect custodians.
-
-Wrapped tokens inherit custodian risk.
-
-## Wrapped Token Hacks
-
-Historical exploits:
-
-- **Nomad Bridge**: Hack of a wrapped token bridge.
-
-- **Poly Network**: Hack of a cross-chain bridge.
-
-Wrapped token bridges frequently hacked.
-
-## Alternative to Wrapping
-
-Other approaches:
-
-- **Synths**: Synthetic tokens pegged through economic mechanisms.
-
-- **Bridge Loans**: Lending using collateral from other chain.
-
-- **Native Multi-Chain**: Projects launching on multiple chains natively.
-
-- **Light Clients**: Verify source chain on destination chain.
-
-Alternatives to wrapping emerging.
-
-## Career Opportunities
-
-Wrapped token infrastructure creates roles:
-
-- **Bridge Developers** building wrappers.
-
-- **Custodian Operators** managing collateral.
-
-- **Smart Contract Engineers** implementing wrapping.
-
-- **Risk Managers** managing custodian risk.
-
-## Best Practices
-
-Using wrapped tokens:
-
-- **Verify Custodian**: Understand who holds collateral.
-
-- **Monitor Peg**: Watch wrapped token peg to original.
-
-- **Insurance**: Consider insurance for large holdings.
-
-- **Diversify**: Don't concentrate in single wrapped token.
-
-## The Future of Wrapped Tokens
-
-Evolution:
-
-- **Decentralized Wrapping**: Decentralized custody models.
-
-- **Native Bridges**: More native cross-chain protocols.
-
-- **Better Pegging**: More reliable peg mechanisms.
-
-- **Standards**: Industry-wide wrapping standards.
-
-## Cross-Chain Asset Representation
-
-Wrapped tokens enable cross-chain asset participation. Understanding wrapped token risks is critical. If you're interested in bridges or cross-chain, explore [cross-chain careers](/) at bridge teams. These roles focus on secure asset bridging.
+Wrapped Ether, or WETH, is a special case. ETH is native to Ethereum but does not follow the ERC-20 interface. A contract can hold ETH and issue WETH so applications can handle it like other ERC-20 tokens. This is wrapping for interface compatibility, not a cross-chain bridge or an external custody arrangement. A wrapped token's name alone does not reveal its custody model. The issuer, reserve rules, mint authority, and redemption path do.

@@ -111,32 +111,6 @@ Sharding affects security:
 
 Security implications of sharding are an ongoing research topic.
 
-## Career Opportunities
-
-Sharding research and development create roles:
-
-- **Protocol Researchers** designing sharding mechanisms.
-
-- **Smart Contract Engineers** building sharding-compatible contracts.
-
-- **Cryptographers** solving sharding security challenges.
-
-- **Performance Engineers** optimizing shard throughput.
-
-- **Data Scientists** analyzing sharding performance.
-
-## Best Practices
-
-For future sharding adoption:
-
-- **Monitor Research**: Stay informed on sharding progress and design decisions.
-
-- **Test Sharded Contracts**: When sharding is available, test smart contracts on a sharded testnet.
-
-- **Plan for Latency**: Cross-shard operations will have latency. Design applications accordingly.
-
-- **Understand Economics**: Sharding might change fee structures and incentive dynamics.
-
 ## Scale to Millions
 
 Sharding represents Ethereum's long-term approach to scaling beyond rollups. If you're interested in scaling blockchain, protocol design, or cryptographic research, explore [blockchain research careers](/) at Ethereum Foundation, research organizations, and protocol teams. These roles focus on solving blockchain's hardest scaling challenges.

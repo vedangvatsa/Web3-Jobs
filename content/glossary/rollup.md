@@ -146,50 +146,6 @@ Future directions for rollups include:
 
 The next few years will see substantial rollup evolution as they mature.
 
-## Career Opportunities
-
-Rollups create engineering roles:
-
-- **Rollup Engineers** build and optimize rollup systems.
-
-- **Proof Systems Engineers** design and optimize cryptographic proof systems.
-
-- **Smart Contract Developers** build applications on rollups.
-
-- **Sequencer Operators** manage sequencer infrastructure.
-
-- **Research Scientists** research rollup scalability and proving systems.
-
-- **Performance Engineers** optimize rollup throughput and latency.
-
-## Best Practices
-
-Using rollups effectively:
-
-- **Understand Bridges**: Know how bridges work and their risks before moving capital across.
-
-- **Use Established Rollups**: Choose mature rollups. Newer rollups carry higher risk.
-
-- **Monitor Sequencer**: Understand sequencer configuration. Decentralized sequencers are preferable.
-
-- **Withdrawal Planning**: Plan for withdrawal delays. Don't move capital to a rollup if you need instant access.
-
-- **Diversify**: Don't keep all capital in a single rollup. Spread across multiple chains.
-
-- **Bridge Quality**: Use official bridges when possible. Third-party bridges introduce additional risk.
-
-## The Future of Scaling
-
-Rollups are currently the practical scaling solution dominating Ethereum Layer 2s. However, the rollup ecosystem is evolving:
-
-- **Proofs Becoming Mainstream**: ZK rollup proofs are becoming faster and easier to generate.
-
-- **Shared Sequencing**: Future rollups might share sequencers, reducing fragmentation.
-
-- **Unified Liquidity**: Bridges and cross-rollup protocols enabling unified liquidity across rollups.
-
-- **Alternative Approaches**: Sharding, sovereign rollups, or other mechanisms might compete with rollups long-term.
-
 ## Scale Ethereum
 
 Rollups are essential infrastructure enabling Ethereum to scale to millions of transactions without losing security. If you're interested in scaling technology, cryptographic proofs, or blockchain infrastructure, explore blockchain engineering careers at rollup teams, protocol companies, and research organizations. These roles focus on one of crypto's most important challenges: maintaining decentralization and security while scaling to global usage.
