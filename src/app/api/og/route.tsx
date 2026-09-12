@@ -764,16 +764,16 @@ export async function GET(request: NextRequest) {
     // 4. Article template (Split card style inspired by cvin.bio/blog)
     // 4. Article template (Ultra-High Precision Light Mode Editorial Card matching reference design)
     if (type === 'article') {
-      const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
+      const displayTitle = title.length > 75 ? `${title.slice(0, 72)}...` : title;
       const displaySubtitle = subtitle 
-        ? (subtitle.length > 130 ? `${subtitle.slice(0, 127)}...` : subtitle)
+        ? (subtitle.length > 120 ? `${subtitle.slice(0, 117)}...` : subtitle)
         : '';
 
-      const titleFontSize = displayTitle.length > 50
-        ? '42px'
-        : displayTitle.length > 30
-        ? '50px'
-        : '58px';
+      const titleFontSize = displayTitle.length > 55
+        ? '34px'
+        : displayTitle.length > 35
+        ? '40px'
+        : '46px';
 
       return new ImageResponse(
         (
@@ -800,7 +800,7 @@ export async function GET(request: NextRequest) {
                 backgroundColor: '#ffffff',
                 borderRadius: '28px',
                 border: '2.5px solid #2563eb',
-                padding: '52px 64px 36px 64px',
+                padding: '48px 56px 36px 56px',
                 position: 'relative',
                 boxShadow: '0 25px 50px -12px rgba(37, 99, 235, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.6)',
               }}
@@ -815,14 +815,15 @@ export async function GET(request: NextRequest) {
                   height: '390px',
                 }}
               >
-                {/* Left Column: Bold Headline & Editorial Subheading */}
+                {/* Left Column: Bold Headline & Editorial Subheading (Strictly Bounded) */}
                 <div
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
                     justifyContent: 'center',
-                    width: '64%',
-                    paddingRight: '32px',
+                    width: '600px',
+                    maxWidth: '600px',
+                    paddingRight: '20px',
                   }}
                 >
                   <div
@@ -831,10 +832,11 @@ export async function GET(request: NextRequest) {
                       fontSize: titleFontSize,
                       fontWeight: '800',
                       color: '#0f172a',
-                      lineHeight: '1.14',
-                      letterSpacing: '-1.8px',
+                      lineHeight: '1.18',
+                      letterSpacing: '-1.2px',
                       textTransform: 'uppercase',
-                      marginBottom: displaySubtitle ? '20px' : '0px',
+                      marginBottom: displaySubtitle ? '16px' : '0px',
+                      wordBreak: 'break-word',
                     }}
                   >
                     {displayTitle}
@@ -843,11 +845,11 @@ export async function GET(request: NextRequest) {
                     <div
                       style={{
                         display: 'flex',
-                        fontSize: '22px',
+                        fontSize: '20px',
                         fontWeight: '450',
                         color: '#475569',
-                        lineHeight: '1.42',
-                        maxWidth: '620px',
+                        lineHeight: '1.4',
+                        maxWidth: '580px',
                       }}
                     >
                       {displaySubtitle}
