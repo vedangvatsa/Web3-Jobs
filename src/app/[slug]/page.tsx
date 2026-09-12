@@ -443,6 +443,7 @@ export default async function ArticlePage({ params }: ArticlePageProps) {
                   </div>
                 }
                 title={event.name}
+                mobileTitleInline
                 metadata={
                   <>
                       <div className="flex min-w-0 items-center gap-1.5">
