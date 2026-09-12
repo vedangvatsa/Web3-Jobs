@@ -1,5 +1,5 @@
 {
-  "lastIndex": 161,
+  "lastIndex": 163,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -64,7 +64,9 @@
     "architecta047c",
     "engineer89007",
     "marketingddcaa",
-    "manager45003"
+    "manager45003",
+    "product69d81",
+    "operations38101"
   ],
   "history": [
     {
@@ -2546,6 +2548,94 @@
       "platform": "facebook",
       "postedAt": "2026-09-12T06:19:57.902Z",
       "postId": "691827047618629_1086274027313165"
+    },
+    {
+      "slug": "product69d81",
+      "company": "Binance",
+      "title": "Product Counsel",
+      "platform": "threads",
+      "postedAt": "2026-09-12T11:40:07.417Z",
+      "postId": "17969378289146088"
+    },
+    {
+      "slug": "product69d81",
+      "company": "Binance",
+      "title": "Product Counsel",
+      "platform": "bluesky",
+      "postedAt": "2026-09-12T11:40:07.417Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvcypj3gjf2j"
+    },
+    {
+      "slug": "product69d81",
+      "company": "Binance",
+      "title": "Product Counsel",
+      "platform": "farcaster",
+      "postedAt": "2026-09-12T11:40:07.417Z",
+      "postId": "0x0869a28e5741c963d0ff8ba350da3502aa03c9a8"
+    },
+    {
+      "slug": "product69d81",
+      "company": "Binance",
+      "title": "Product Counsel",
+      "platform": "linkedin",
+      "postedAt": "2026-09-12T11:40:07.417Z",
+      "postId": "6aa53a2efd8a9aa161ca9244"
+    },
+    {
+      "slug": "product69d81",
+      "company": "Binance",
+      "title": "Product Counsel",
+      "platform": "facebook",
+      "postedAt": "2026-09-12T11:40:07.417Z",
+      "postId": "691827047618629_1086456290628272"
+    },
+    {
+      "slug": "product69d81",
+      "company": "Binance",
+      "title": "Product Counsel",
+      "platform": "instagram",
+      "postedAt": "2026-09-12T11:40:07.417Z",
+      "postId": "17908218609508636"
+    },
+    {
+      "slug": "operations38101",
+      "company": "Bybit",
+      "title": "Operations Intern (Bybit Card)",
+      "platform": "threads",
+      "postedAt": "2026-09-12T11:41:26.036Z",
+      "postId": "18140474785609653"
+    },
+    {
+      "slug": "operations38101",
+      "company": "Bybit",
+      "title": "Operations Intern (Bybit Card)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-12T11:41:26.036Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvcyrsw6d72i"
+    },
+    {
+      "slug": "operations38101",
+      "company": "Bybit",
+      "title": "Operations Intern (Bybit Card)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-12T11:41:26.036Z",
+      "postId": "0xcad04b81dded02c4a99a9a8f9484577c4873b8d8"
+    },
+    {
+      "slug": "operations38101",
+      "company": "Bybit",
+      "title": "Operations Intern (Bybit Card)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-12T11:41:26.036Z",
+      "postId": "6aa53a7bc0b9e57b2af08e5a"
+    },
+    {
+      "slug": "operations38101",
+      "company": "Bybit",
+      "title": "Operations Intern (Bybit Card)",
+      "platform": "facebook",
+      "postedAt": "2026-09-12T11:41:26.036Z",
+      "postId": "691827047618629_1086457180628183"
     }
   ]
 }
