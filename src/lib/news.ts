@@ -42,7 +42,9 @@ function getKeywords(text: string): Set<string> {
       .toLowerCase()
       .replace(/[^a-z0-9\s]/g, ' ')
       .split(/\s+/)
-      .filter((w) => w.length > 2 && !STOP_WORDS.has(w))
+      // Numbers often carry the identifying detail in financial headlines
+      // (for example, an issuance size or percentage change).
+      .filter((w) => (w.length > 2 || /^\d+$/.test(w)) && !STOP_WORDS.has(w))
   );
 }
 
@@ -73,6 +75,18 @@ function isDuplicate(title1: string, title2: string): boolean {
   if (minSize >= 2 && minSize < 4 && overlap >= 0.75) return true;
 
   return false;
+}
+
+export function deduplicateNewsItems(items: NewsItem[]): NewsItem[] {
+  const uniqueItems: NewsItem[] = [];
+
+  for (const item of items) {
+    if (!uniqueItems.some((unique) => isDuplicate(item.title, unique.title))) {
+      uniqueItems.push(item);
+    }
+  }
+
+  return uniqueItems;
 }
 
 // In-memory cache for news feeds
@@ -138,19 +152,7 @@ export async function getNewsFeed(): Promise<NewsItem[]> {
  allItems.sort((a, b) => new Date(b.pubDate).getTime() - new Date(a.pubDate).getTime());
 
  // Deduplicate news items against all accumulated unique items
- const uniqueItems: NewsItem[] = [];
- for (const item of allItems) {
-  let isDup = false;
-  for (const unique of uniqueItems) {
-   if (isDuplicate(item.title, unique.title)) {
-    isDup = true;
-    break;
-   }
-  }
-  if (!isDup) {
-   uniqueItems.push(item);
-  }
- }
+  const uniqueItems = deduplicateNewsItems(allItems);
 
  // Update cache
  newsCache = { timestamp: Date.now(), items: uniqueItems };
