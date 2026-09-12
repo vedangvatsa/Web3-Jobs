@@ -545,6 +545,9 @@
   "https://www.theblock.co/news/regulation/2026-09-10-citadel-urges-sec-assert-oversight-event-contracts-tied-public-firms-414140",
   "https://www.coindesk.com/opinion/2026/09/12/staked-ether-should-be-seen-as-the-benchmark-of-the-decentralized-economy",
   "https://decrypt.co/377998/chatgpt-images-2-5-vs-nano-banana-2-review",
+  "https://www.coindesk.com/business/2026/09/12/nigel-farage-s-reform-uk-lands-usd97-million-donations-from-two-crypto-billionaires-in-24-hours",
+  "https://www.coindesk.com/markets/2026/09/12/openai-ipo-won-t-happen-this-year-says-sam-altman",
+  "https://www.coindesk.com/business/2026/09/12/bitcoin-suisse-plans-to-cut-up-to-half-its-swiss-jobs-as-it-shifts-work-abroad",
   "Strategy sells Bitcoin, ETFs see outflows.",
   "Bitcoin Falls to 2-Month Low After Strategy Sells BTC, ETFs Flip Negative for the Year",
   "Kalshi seeks perpetual futures for altcoins.",
@@ -1543,6 +1546,12 @@
   "Staked ether should be seen as the benchmark of the decentralized economy",
   "OpenAI ChatGPT Images 2.5 Compared to Google Nano Banana 2",
   "ChatGPT Images 2.5 vs Nano Banana 2: Which One is Better?",
+  "Crypto billionaires donate $97 million to UK political party",
+  "Nigel Farage’s Reform UK lands $97 million donations from two crypto billionaires in 24 hours",
+  "OpenAI will not go public this year",
+  "OpenAI IPO won't happen this year, says Sam Altman",
+  "Bitcoin Suisse to cut half of its Swiss workforce",
+  "Bitcoin Suisse plans to cut up to half its Swiss jobs as it shifts work abroad",
   "fp:content|creator|discussion|elon|explor|hold|influencer|musk|pay|payout",
   "fp:asset|authorization|becam|bitgo|custodian|direct|firm|global|institutional|korea",
   "fp:agent|between|blockchain|chain|chainlink|cost|creat|creation|driv|executiv",
@@ -1638,5 +1647,8 @@
   "fp:alter|bank|bet|central|chang|chart|cross|expectation|firm|flicker",
   "fp:assert|citadel|commodity|contract|currently|equity|event|firm|handl|link",
   "fp:argu|benchmark|decentraliz|distinct|economy|ether|executiv|generat|globalstak|haczynski",
-  "fp:against|banana2|better|category|compar|generator|googl|imag|images25|nano"
+  "fp:against|banana2|better|category|compar|generator|googl|imag|images25|nano",
+  "fp:97m|billionair|british|contribut|donat|donation|executiv|farag|history|hour",
+  "fp:ceo|cit|concern|debut|delay|happen|ipo|market|not|openai",
+  "fp:abroad|clos|copenhagen|cost|cut|half|hub|job|lower|offic"
 ]
