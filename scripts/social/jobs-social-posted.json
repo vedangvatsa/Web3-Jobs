@@ -1,5 +1,5 @@
 {
-  "lastIndex": 156,
+  "lastIndex": 161,
   "postedSlugs": [
     "operationsft05",
     "associatepwc10",
@@ -62,7 +62,9 @@
     "engineer72100",
     "backendf14d6",
     "architecta047c",
-    "engineer89007"
+    "engineer89007",
+    "marketingddcaa",
+    "manager45003"
   ],
   "history": [
     {
@@ -2456,6 +2458,94 @@
       "platform": "facebook",
       "postedAt": "2026-09-12T00:24:00.342Z",
       "postId": "691827047618629_1086084613998773"
+    },
+    {
+      "slug": "marketingddcaa",
+      "company": "Starknet Foundation",
+      "title": "Growth Manager (APAC)",
+      "platform": "threads",
+      "postedAt": "2026-09-12T06:16:34.519Z",
+      "postId": "18624340378053183"
+    },
+    {
+      "slug": "marketingddcaa",
+      "company": "Starknet Foundation",
+      "title": "Growth Manager (APAC)",
+      "platform": "bluesky",
+      "postedAt": "2026-09-12T06:16:34.519Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvcgp3eazk27"
+    },
+    {
+      "slug": "marketingddcaa",
+      "company": "Starknet Foundation",
+      "title": "Growth Manager (APAC)",
+      "platform": "farcaster",
+      "postedAt": "2026-09-12T06:16:34.519Z",
+      "postId": "0x9d67bca0fc472402c889ac90f862dbbd8ecc568c"
+    },
+    {
+      "slug": "marketingddcaa",
+      "company": "Starknet Foundation",
+      "title": "Growth Manager (APAC)",
+      "platform": "linkedin",
+      "postedAt": "2026-09-12T06:16:34.519Z",
+      "postId": "6aa4eea0621ac0430b090236"
+    },
+    {
+      "slug": "marketingddcaa",
+      "company": "Starknet Foundation",
+      "title": "Growth Manager (APAC)",
+      "platform": "facebook",
+      "postedAt": "2026-09-12T06:16:34.519Z",
+      "postId": "691827047618629_1086272600646641"
+    },
+    {
+      "slug": "marketingddcaa",
+      "company": "Starknet Foundation",
+      "title": "Growth Manager (APAC)",
+      "platform": "instagram",
+      "postedAt": "2026-09-12T06:16:34.519Z",
+      "postId": "17956386555227794"
+    },
+    {
+      "slug": "manager45003",
+      "company": "OKX",
+      "title": "Tax Reporting Senior Manager",
+      "platform": "threads",
+      "postedAt": "2026-09-12T06:19:57.902Z",
+      "postId": "18121350526693779"
+    },
+    {
+      "slug": "manager45003",
+      "company": "OKX",
+      "title": "Tax Reporting Senior Manager",
+      "platform": "bluesky",
+      "postedAt": "2026-09-12T06:19:57.902Z",
+      "postId": "at://did:plc:bqovopfvzkltgp4cmxvq72uh/app.bsky.feed.post/3mvcgssfmia2g"
+    },
+    {
+      "slug": "manager45003",
+      "company": "OKX",
+      "title": "Tax Reporting Senior Manager",
+      "platform": "farcaster",
+      "postedAt": "2026-09-12T06:19:57.902Z",
+      "postId": "0x7b5ff99ba1022bc9129a0c5b5ddc9ab1d878856f"
+    },
+    {
+      "slug": "manager45003",
+      "company": "OKX",
+      "title": "Tax Reporting Senior Manager",
+      "platform": "linkedin",
+      "postedAt": "2026-09-12T06:19:57.902Z",
+      "postId": "6aa4ef1c232b849fea405e0d"
+    },
+    {
+      "slug": "manager45003",
+      "company": "OKX",
+      "title": "Tax Reporting Senior Manager",
+      "platform": "facebook",
+      "postedAt": "2026-09-12T06:19:57.902Z",
+      "postId": "691827047618629_1086274027313165"
     }
   ]
 }
