@@ -762,10 +762,10 @@ export async function GET(request: NextRequest) {
 
 
     // 4. Article template (Split card style inspired by cvin.bio/blog)
+    // 4. Article template (Clean Editorial Card with Black Border, 75% Text / 25% Visual, Centered Domain)
     if (type === 'article') {
       const displayTitle = title.length > 80 ? `${title.slice(0, 77)}...` : title;
-      const displayCategory = (category || 'Web3 & AI Insights').toUpperCase();
-      const contentLabel = category === 'News' ? 'NEWS' : 'PLAYBOOK';
+      const displaySubtitle = subtitle || (category ? `${category.toUpperCase()} UPDATE` : 'WEB3 & AI NEWS');
 
       return new ImageResponse(
         (
@@ -776,7 +776,7 @@ export async function GET(request: NextRequest) {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              backgroundColor: '#f4f4f5',
+              backgroundColor: '#ffffff',
               padding: '36px',
               fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
@@ -784,169 +784,134 @@ export async function GET(request: NextRequest) {
             <div
               style={{
                 display: 'flex',
+                flexDirection: 'column',
+                justifyContent: 'space-between',
                 width: '1128px',
                 height: '558px',
                 backgroundColor: '#ffffff',
                 borderRadius: '24px',
-                border: '1px solid #e4e4e7',
-                boxShadow: '0 20px 40px -15px rgba(0, 0, 0, 0.07)',
-                overflow: 'hidden',
+                border: '4px solid #000000',
+                padding: '48px 52px 32px 52px',
+                position: 'relative',
+                boxShadow: '0 20px 40px -15px rgba(0, 0, 0, 0.05)',
               }}
             >
-              {/* Left Column - 58% Width: Category, Title, Footer */}
+              {/* Main Content Split: 75% Left Text / 25% Right Visual */}
               <div
                 style={{
                   display: 'flex',
-                  flexDirection: 'column',
+                  alignItems: 'center',
                   justifyContent: 'space-between',
-                  width: '58%',
-                  padding: '52px 48px',
+                  width: '100%',
+                  height: '400px',
                 }}
               >
-                <div style={{ display: 'flex', flexDirection: 'column', gap: '20px' }}>
-                  {/* Tag Header */}
-                  <div
-                    style={{
-                      display: 'flex',
-                      alignItems: 'center',
-                      gap: '10px',
-                    }}
-                  >
-                    <div
-                      style={{
-                        display: 'flex',
-                        padding: '6px 14px',
-                        backgroundColor: '#f1f5f9',
-                        borderRadius: '6px',
-                        fontSize: '13px',
-                        fontWeight: '700',
-                        color: '#475569',
-                        letterSpacing: '0.8px',
-                      }}
-                    >
-                      {displayCategory}
-                    </div>
-                  </div>
-
-                  {/* Main Article Title */}
-                  <div
-                    style={{
-                      display: 'flex',
-                      fontSize: displayTitle.length > 60 ? '38px' : displayTitle.length > 40 ? '44px' : '50px',
-                      fontWeight: '800',
-                      color: '#0f172a',
-                      lineHeight: '1.18',
-                      letterSpacing: '-1.5px',
-                    }}
-                  >
-                    {displayTitle}
-                  </div>
-                </div>
-
-                {/* Footer Brand Watermark */}
+                {/* Left 75%: Headline & Subtitle Summary */}
                 <div
                   style={{
                     display: 'flex',
-                    alignItems: 'center',
-                    justifyContent: 'space-between',
-                    borderTop: '1px solid #f1f5f9',
-                    paddingTop: '20px',
+                    flexDirection: 'column',
+                    justifyContent: 'center',
+                    width: '73%',
+                    paddingRight: '36px',
                   }}
                 >
                   <div
                     style={{
                       display: 'flex',
-                      alignItems: 'center',
-                      gap: '8px',
+                      fontSize: displayTitle.length > 55 ? '44px' : displayTitle.length > 35 ? '52px' : '62px',
+                      fontWeight: '900',
+                      color: '#0f172a',
+                      lineHeight: '1.14',
+                      letterSpacing: '-2px',
+                      marginBottom: '24px',
                     }}
                   >
-                    <div
-                      style={{
-                        width: '10px',
-                        height: '10px',
-                        borderRadius: '50%',
-                        backgroundColor: '#0284c7',
-                      }}
-                    />
-                    <div
-                      style={{
-                        fontSize: '18px',
-                        fontWeight: '700',
-                        color: '#0f172a',
-                        letterSpacing: '-0.3px',
-                      }}
-                    >
-                      hashtagweb3.com
-                    </div>
+                    {displayTitle}
                   </div>
                   <div
                     style={{
-                      fontSize: '15px',
+                      display: 'flex',
+                      fontSize: '24px',
                       fontWeight: '500',
-                      color: '#94a3b8',
+                      color: '#475569',
+                      lineHeight: '1.4',
+                      maxWidth: '720px',
                     }}
                   >
-                    {date}
+                    {displaySubtitle}
                   </div>
                 </div>
-              </div>
 
-              {/* Right Column - 42% Width: Modern Sleek Abstract Tech Card */}
-              <div
-                style={{
-                  display: 'flex',
-                  flexDirection: 'column',
-                  alignItems: 'center',
-                  justifyContent: 'center',
-                  width: '42%',
-                  height: '100%',
-                  backgroundColor: '#0f172a',
-                  backgroundImage:
-                    'radial-gradient(circle at 80% 20%, #0284c7 0%, transparent 45%), radial-gradient(circle at 20% 80%, #38bdf8 0%, transparent 40%), linear-gradient(135deg, #0f172a 0%, #1e293b 100%)',
-                  padding: '40px',
-                  position: 'relative',
-                }}
-              >
-                {/* Abstract Visual Geometry Overlay */}
+                {/* Right 25%: Relevant Tech Visual / Badge Container */}
                 <div
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    width: '260px',
-                    height: '260px',
-                    borderRadius: '28px',
-                    border: '1px solid rgba(255, 255, 255, 0.15)',
-                    backgroundColor: 'rgba(255, 255, 255, 0.05)',
-                    boxShadow: '0 20px 50px rgba(0, 0, 0, 0.3)',
-                    backdropFilter: 'blur(10px)',
+                    width: '25%',
+                    height: '100%',
+                    backgroundColor: '#f8fafc',
+                    borderRadius: '16px',
+                    border: '1.5px solid #e2e8f0',
                     padding: '24px',
                     textAlign: 'center',
                   }}
                 >
                   <div
                     style={{
-                      fontSize: '42px',
+                      display: 'flex',
+                      width: '72px',
+                      height: '72px',
+                      borderRadius: '18px',
+                      backgroundColor: '#0f172a',
+                      alignItems: 'center',
+                      justifyContent: 'center',
+                      fontSize: '32px',
                       fontWeight: '900',
                       color: '#ffffff',
-                      letterSpacing: '-1px',
-                      marginBottom: '8px',
+                      marginBottom: '16px',
                     }}
                   >
-                    #WEB3
+                    W3
                   </div>
                   <div
                     style={{
+                      display: 'flex',
                       fontSize: '14px',
-                      fontWeight: '600',
-                      color: '#38bdf8',
-                      letterSpacing: '2px',
+                      fontWeight: '700',
+                      color: '#0284c7',
+                      letterSpacing: '1.5px',
                       textTransform: 'uppercase',
                     }}
                   >
-                    {contentLabel}
+                    {category || 'NEWS'}
                   </div>
+                </div>
+              </div>
+
+              {/* Bottom Middle: hashtagweb3.com Domain */}
+              <div
+                style={{
+                  display: 'flex',
+                  alignItems: 'center',
+                  justifyContent: 'center',
+                  width: '100%',
+                  borderTop: '1px solid #f1f5f9',
+                  paddingTop: '20px',
+                }}
+              >
+                <div
+                  style={{
+                    display: 'flex',
+                    fontSize: '22px',
+                    fontWeight: '800',
+                    color: '#0f172a',
+                    letterSpacing: '-0.5px',
+                  }}
+                >
+                  hashtagweb3.com
                 </div>
               </div>
             </div>
