@@ -762,18 +762,18 @@ export async function GET(request: NextRequest) {
 
 
     // 4. Article template (Split card style inspired by cvin.bio/blog)
-    // 4. Article template (Clean Editorial Card with Black Border, 75% Text / 25% Visual, Centered Domain)
+    // 4. Article template (Ultra-High Precision Light Mode Editorial Card matching reference design)
     if (type === 'article') {
       const displayTitle = title.length > 70 ? `${title.slice(0, 67)}...` : title;
       const displaySubtitle = subtitle 
-        ? (subtitle.length > 120 ? `${subtitle.slice(0, 117)}...` : subtitle)
+        ? (subtitle.length > 130 ? `${subtitle.slice(0, 127)}...` : subtitle)
         : '';
 
       const titleFontSize = displayTitle.length > 50
-        ? '38px'
+        ? '42px'
         : displayTitle.length > 30
-        ? '44px'
-        : '52px';
+        ? '50px'
+        : '58px';
 
       return new ImageResponse(
         (
@@ -784,8 +784,9 @@ export async function GET(request: NextRequest) {
               display: 'flex',
               alignItems: 'center',
               justifyContent: 'center',
-              backgroundColor: '#ffffff',
-              padding: '36px',
+              backgroundColor: '#f8fafc',
+              backgroundImage: 'radial-gradient(circle at 50% 50%, #ffffff 0%, #f1f5f9 100%)',
+              padding: '32px',
               fontFamily: 'system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif',
             }}
           >
@@ -794,45 +795,46 @@ export async function GET(request: NextRequest) {
                 display: 'flex',
                 flexDirection: 'column',
                 justifyContent: 'space-between',
-                width: '1128px',
-                height: '558px',
+                width: '1136px',
+                height: '566px',
                 backgroundColor: '#ffffff',
-                borderRadius: '24px',
-                border: '4px solid #000000',
-                padding: '48px 52px 32px 52px',
+                borderRadius: '28px',
+                border: '2.5px solid #2563eb',
+                padding: '52px 64px 36px 64px',
                 position: 'relative',
-                boxShadow: '0 20px 40px -15px rgba(0, 0, 0, 0.05)',
+                boxShadow: '0 25px 50px -12px rgba(37, 99, 235, 0.08), 0 0 0 1px rgba(226, 232, 240, 0.6)',
               }}
             >
-              {/* Main Content Split: 75% Left Text / 25% Right Visual */}
+              {/* Main Content Split: Left Text / Right Visual Mockup */}
               <div
                 style={{
                   display: 'flex',
                   alignItems: 'center',
                   justifyContent: 'space-between',
                   width: '100%',
-                  height: '380px',
+                  height: '390px',
                 }}
               >
-                {/* Left 75%: Headline & Subtitle Summary */}
+                {/* Left Column: Bold Headline & Editorial Subheading */}
                 <div
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
                     justifyContent: 'center',
-                    width: '70%',
-                    paddingRight: '40px',
+                    width: '64%',
+                    paddingRight: '32px',
                   }}
                 >
                   <div
                     style={{
                       display: 'flex',
                       fontSize: titleFontSize,
-                      fontWeight: '900',
+                      fontWeight: '800',
                       color: '#0f172a',
-                      lineHeight: '1.16',
-                      letterSpacing: '-1.5px',
-                      marginBottom: displaySubtitle ? '18px' : '0px',
+                      lineHeight: '1.14',
+                      letterSpacing: '-1.8px',
+                      textTransform: 'uppercase',
+                      marginBottom: displaySubtitle ? '20px' : '0px',
                     }}
                   >
                     {displayTitle}
@@ -841,11 +843,11 @@ export async function GET(request: NextRequest) {
                     <div
                       style={{
                         display: 'flex',
-                        fontSize: '20px',
-                        fontWeight: '500',
+                        fontSize: '22px',
+                        fontWeight: '450',
                         color: '#475569',
-                        lineHeight: '1.4',
-                        maxWidth: '680px',
+                        lineHeight: '1.42',
+                        maxWidth: '620px',
                       }}
                     >
                       {displaySubtitle}
@@ -853,42 +855,119 @@ export async function GET(request: NextRequest) {
                   ) : null}
                 </div>
 
-                {/* Right 25%: Relevant Tech Visual Container (NO CATEGORY PILL) */}
+                {/* Right Column: High-Precision Minimalist Device Visual */}
                 <div
                   style={{
                     display: 'flex',
                     flexDirection: 'column',
                     alignItems: 'center',
                     justifyContent: 'center',
-                    width: '28%',
+                    width: '34%',
                     height: '100%',
-                    backgroundColor: '#f8fafc',
-                    borderRadius: '20px',
-                    border: '1.5px solid #e2e8f0',
-                    padding: '24px',
-                    textAlign: 'center',
+                    position: 'relative',
                   }}
                 >
+                  {/* Outer subtle backdrop card */}
                   <div
                     style={{
                       display: 'flex',
-                      width: '84px',
-                      height: '84px',
-                      borderRadius: '22px',
-                      backgroundColor: '#0f172a',
+                      flexDirection: 'column',
                       alignItems: 'center',
                       justifyContent: 'center',
-                      fontSize: '36px',
-                      fontWeight: '900',
-                      color: '#ffffff',
+                      width: '260px',
+                      height: '340px',
+                      backgroundColor: '#f8fafc',
+                      borderRadius: '24px',
+                      border: '1.5px solid #e2e8f0',
+                      boxShadow: '0 10px 25px rgba(0, 0, 0, 0.03)',
+                      padding: '24px',
+                      position: 'relative',
                     }}
                   >
-                    W3
+                    {/* Inner Device Frame Mockup */}
+                    <div
+                      style={{
+                        display: 'flex',
+                        flexDirection: 'column',
+                        alignItems: 'center',
+                        justifyContent: 'center',
+                        width: '180px',
+                        height: '240px',
+                        backgroundColor: '#ffffff',
+                        borderRadius: '20px',
+                        border: '2px solid #cbd5e1',
+                        boxShadow: '0 8px 20px rgba(0, 0, 0, 0.05)',
+                        padding: '16px',
+                        gap: '12px',
+                      }}
+                    >
+                      <div
+                        style={{
+                          width: '40px',
+                          height: '4px',
+                          borderRadius: '2px',
+                          backgroundColor: '#e2e8f0',
+                        }}
+                      />
+                      <div
+                        style={{
+                          display: 'flex',
+                          width: '56px',
+                          height: '56px',
+                          borderRadius: '16px',
+                          backgroundColor: '#0f172a',
+                          alignItems: 'center',
+                          justifyContent: 'center',
+                          fontSize: '24px',
+                          fontWeight: '900',
+                          color: '#ffffff',
+                        }}
+                      >
+                        W3
+                      </div>
+                      <div
+                        style={{
+                          width: '100px',
+                          height: '8px',
+                          borderRadius: '4px',
+                          backgroundColor: '#f1f5f9',
+                        }}
+                      />
+                      <div
+                        style={{
+                          width: '70px',
+                          height: '8px',
+                          borderRadius: '4px',
+                          backgroundColor: '#e2e8f0',
+                        }}
+                      />
+                    </div>
+
+                    {/* Floating Token Pill Badges */}
+                    <div
+                      style={{
+                        display: 'flex',
+                        alignItems: 'center',
+                        gap: '8px',
+                        padding: '8px 16px',
+                        backgroundColor: '#ffffff',
+                        borderRadius: '999px',
+                        border: '1.5px solid #cbd5e1',
+                        boxShadow: '0 10px 20px rgba(0, 0, 0, 0.06)',
+                        position: 'absolute',
+                        bottom: '24px',
+                        fontSize: '13px',
+                        fontWeight: '700',
+                        color: '#0f172a',
+                      }}
+                    >
+                      <span style={{ color: '#2563eb' }}>●</span> HASHTAG WEB3
+                    </div>
                   </div>
                 </div>
               </div>
 
-              {/* Bottom Middle: hashtagweb3.com Domain */}
+              {/* Bottom Footer: Centered Domain */}
               <div
                 style={{
                   display: 'flex',
