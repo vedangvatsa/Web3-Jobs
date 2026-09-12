@@ -5,7 +5,7 @@ image: /api/og?type=article&title=AI-Agent%20Circuit%20Challenge%20Cuts%20a%20Qu
 category: News
 data-ai-hint: quantum circuit secp256k1 research
 publishedDate: '2026-09-12'
-lastUpdated: '2026-09-12'
+lastUpdated: "2026-09-12"
 ---
 
 An open research project in which people and AI agents iteratively optimized a quantum circuit has cut the project's score for a secp256k1 point-addition task by 86.1%, according to the authors of the new [ECDSA.Fail paper on arXiv](https://arxiv.org/html/2609.09582v1). Secp256k1 is the elliptic curve used for Bitcoin transaction signatures. The work is a resource-estimation and circuit-optimization result, not a demonstration of a working quantum attack on Bitcoin.
@@ -13,6 +13,10 @@ An open research project in which people and AI agents iteratively optimized a q
 The paper describes an effort called ECDSA.Fail, which used what its authors call "Open Autoresearch": a public, verifier-gated process in which human contributors and AI agents submit candidate improvements to a machine-checkable benchmark. [Decrypt's report on the project](https://decrypt.co/377925/ai-agents-slash-cost-quantum-attack-bitcoin) brought the result to the attention of crypto readers because the underlying curve is central to Bitcoin's signature system. The researchers' actual target, however, is a reversible point-addition circuit, one component of an implementation of Shor's algorithm for the elliptic-curve discrete logarithm problem.
 
 That distinction sets the limits of the result. A smaller estimate for one circuit component does not supply a fault-tolerant quantum computer, does not run Shor's algorithm against a Bitcoin key, and does not show that Bitcoin can presently be attacked. The paper itself says the timing of a cryptographically relevant quantum computer remains uncertain. It describes the security consequence conditionally: such a computer, if capable of solving the elliptic-curve discrete logarithm problem, could recover private signing keys from exposed public keys and forge ECDSA signatures.
+
+![ECDSA.Fail benchmark score trajectory](https://arxiv.org/html/2609.09582v1/figs/ecdsafail-QxT-score-trajectory.png)
+
+*Figure from the [ECDSA.Fail paper](https://arxiv.org/html/2609.09582v1), showing the benchmark score trajectory described by the authors.*
 
 ## A benchmark for one hard part of Shor's algorithm
 
