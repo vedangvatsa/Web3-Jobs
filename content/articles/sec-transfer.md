@@ -16,6 +16,10 @@ That distinction is central to the operational problem described by [CoinDesk](h
 
 The SEC's text supports the possibility of a single electronic recordkeeping arrangement, but it attaches conditions that are absent from a description of token ownership alone. The [filing's](https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf) proposed master-file definition, its requirements for position data, its one-business-day posting standard and its proposed controls for electronic records all remain directed at the registered transfer agent. The rulemaking is a proposal, not an approval of a particular token, ledger, network or transfer-agent business model.
 
+![Seal of the United States Securities and Exchange Commission](https://upload.wikimedia.org/wikipedia/commons/1/1c/Seal_of_the_United_States_Securities_and_Exchange_Commission.svg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original)
+
+*Seal of the U.S. Securities and Exchange Commission via [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Seal_of_the_United_States_Securities_and_Exchange_Commission.svg).*
+
 ## The official ownership file
 
 Transfer agents act for issuers at points where a security is issued, transferred, cancelled or otherwise recorded. The SEC describes the master securityholder file as the official list of registered owners: it records the accounts through which the issuer and its transfer agent identify who holds registered securities and in what amount. That differs from the much larger market for securities held in street name. In that arrangement, an investor is generally a beneficial owner through a broker or bank, while the depository's nominee is the registered owner on the issuer's books, according to the [proposing release](https://www.sec.gov/files/rules/proposed/2026/34-106246.pdf).
