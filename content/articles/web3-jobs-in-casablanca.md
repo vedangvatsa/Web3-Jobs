@@ -62,9 +62,7 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 ------------------------------|
 | Junior Developer (0-1 year) | 12,000 - 20,000 |
 | Mid-Level Developer (1-3 years) | 22,000 - 40,000 |
-| Senior Developer (3+ years) | 40,000 - 65,000+ |
-
-**Finance & Product:**| Role | Salary Range (MAD/month) |
+| Senior Developer (3+ years) | 40,000 - 65,000+ | **Finance & Product:** | Role | Salary Range (MAD/month) |
 |
 
 -------------------------------|
@@ -72,9 +70,7 @@ The Web3 job market in Casablanca is still taking shape, with most opportunities
 ------------------------------|
 | FinTech Product Manager | 30,000 - 55,000 |
 | Business Development | 25,000 - 50,000 |
-| Security/Compliance Expert | 35,000 - 60,000 |
-
-**Remote (International):**| Role | Salary Range (USD/month) |
+| Security/Compliance Expert | 35,000 - 60,000 | **Remote (International):** | Role | Salary Range (USD/month) |
 |
 
 -------------------------------|

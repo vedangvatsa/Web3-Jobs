@@ -18,9 +18,8 @@ Professionals from diverse fields such as development, marketing, design, and st
 
 ### The Technical Track: Building the New Internet
 
-**1. [Smart Contract](/what-are-smart-contracts) Developer
-
-**Smart contract developers play an important role in Web3. They write the code that powers various applications, including [DeFi](/what-is-defi) protocols and [NFT](/what-are-nfts) marketplaces. 
+#### 1. [Smart Contract](/what-are-smart-contracts) Developer
+Smart contract developers play an important role in Web3. They write the code that powers various applications, including [DeFi](/what-is-defi) protocols and [NFT](/what-are-nfts) marketplaces. 
 
 - **Skills Required**: Proficiency in [Solidity](/best-programming-languages-for-blockchain-development) for EVM chains, Rust for Solana and other platforms, a deep understanding of security measures, gas optimization, and blockchain architecture.
 - **Job Outlook **: This role is foundational with extremely high demand, offering lucrative compensation packages. Smart contract developers can earn significant salaries, depending on experience.** 2. Frontend / dApp Engineer
@@ -37,9 +36,8 @@ Professionals from diverse fields such as development, marketing, design, and st
 
 ### The Strategic Track: Shaping the Ecosystem
 
-**1. Web3 Product Manager
-
-**Web3 PMs are responsible for defining the vision and strategy behind decentralized products. This role requires a blend of technical literacy, economic understanding, and community management skills.
+#### 1. Web3 Product Manager
+Web3 PMs are responsible for defining the vision and strategy behind decentralized products. This role requires a blend of technical literacy, economic understanding, and community management skills.
 
 - **Skills Required**: User research tailored for pseudonymous users, expertise in tokenomics design, data analysis using on-chain data, and facilitation of community governance.
 - **Job Outlook **: Effective PMs who can manage decentralized governance complexities are rare and highly sought after, with salaries typically reflecting their value in the market.** 2. Tokenomics Designer
@@ -51,9 +49,8 @@ Professionals from diverse fields such as development, marketing, design, and st
 
 ### The Community & Growth Track: Building the Movement
 
-**1. Community Manager
-
-**In Web3, the community is central to a project's success. Community managers cultivate an engaged and positive culture across platforms like Discord and Telegram.
+#### 1. Community Manager
+In Web3, the community is central to a project's success. Community managers cultivate an engaged and positive culture across platforms like Discord and Telegram.
 
 - **Skills Required**: Exceptional communication, empathy, crisis management, content creation, and moderation.
 - **Job Outlook **: Strong community managers can command competitive salaries, as they are instrumental in building and maintaining active communities.** 2. Developer Relations (DevRel)**DevRel professionals connect protocols with developers building on their platforms. They create documentation, write tutorials, host workshops, and provide support to grow the developer ecosystem.

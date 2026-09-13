@@ -25,24 +25,12 @@ Recognizing the signs of a career plateau is important to taking action. Here ar
 -------------------------------|
 
 ----------------------------------------------------------------------------------------------|
-| 
-
-**Boredom**| You find your tasks repetitive and uninspiring, often feeling disengaged from your work. |
-|
-
-**Stagnant Learning**| You haven't picked up any new skills or faced challenges in recent months. |
-|
-
-**Lack of Advancement**| No clear path for promotion exists, and roles above you seem locked by others in place. |
-|
-
-**Overlooked for Projects**| Exciting new initiatives and challenging assignments are consistently assigned to others. |
-|
-
-**Limited Network Growth**| Your professional circle remains stagnant, with few new connections made in recent times. |
-|
-
-**Diminished Motivation**| Your drive has lessened, leading you to go through the motions primarily for a paycheck. |
+| **Boredom** | You find your tasks repetitive and uninspiring, often feeling disengaged from your work. |
+| **Stagnant Learning** | You haven't picked up any new skills or faced challenges in recent months. |
+| **Lack of Advancement** | No clear path for promotion exists, and roles above you seem locked by others in place. |
+| **Overlooked for Projects** | Exciting new initiatives and challenging assignments are consistently assigned to others. |
+| **Limited Network Growth** | Your professional circle remains stagnant, with few new connections made in recent times. |
+| **Diminished Motivation** | Your drive has lessened, leading you to go through the motions primarily for a paycheck. |
 
 If you identify with several of these signs, it is time to take proactive steps to break through the plateau.
 

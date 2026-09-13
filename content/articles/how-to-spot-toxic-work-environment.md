@@ -18,9 +18,7 @@ Toxicity manifests in various ways, from overt bullying to more insidious passiv
 
 Poor communication is a hallmark of toxicity. Here are some patterns to identify:
 
-| 
-
-**Indicator**|
+| **Indicator** |
 
 **Description**|
 |
@@ -40,9 +38,7 @@ While healthy competition can drive performance, a toxic workplace creates a cli
 
 Signs of detrimental competition include:
 
-|
-
-**Sign**|
+| **Sign** |
 
 **Description**|
 |
@@ -68,9 +64,7 @@ Micromanagement reflects a lack of trust from leadership. Managers who excessive
 
 Indicators of micromanagement include:
 
-|
-
-**Indicator**|
+| **Indicator** |
 
 **Description**|
 |
@@ -90,9 +84,7 @@ Be cautious of organizations that glorify a relentless "hustle culture" that dem
 
 Signs of a burnout culture include:
 
-|
-
-**Indicator**|
+| **Indicator** |
 
 **Description**|
 |

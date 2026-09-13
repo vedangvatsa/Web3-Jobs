@@ -191,9 +191,8 @@ Sui also provides standard tooling: the Sui CLI with `sui move build`, `sui move
 
 Pick Sui or Aptos first. Do not try to learn both dialects at once.
 
-**1. Install and verify the toolchain
-
-**Install the Sui CLI from docs.sui.io/guides/developer/getting-started/sui-install. Check `sui --version` (current releases at time of writing are in the 1.x line). Install the TypeScript SDK with `npm install @mysten/sui`. Add the Move Analyzer extension in VS Code for diagnostics and auto-format with the Prettier Move plugin.** 2. Create a minimal object package
+#### 1. Install and verify the toolchain
+Install the Sui CLI from docs.sui.io/guides/developer/getting-started/sui-install. Check `sui --version` (current releases at time of writing are in the 1.x line). Install the TypeScript SDK with `npm install @mysten/sui`. Add the Move Analyzer extension in VS Code for diagnostics and auto-format with the Prettier Move plugin.** 2. Create a minimal object package
 
 **Create a package and implement one owned object with access control:
 
@@ -232,9 +231,8 @@ module hello_sui::counter {
 
 `init` creates a shared Counter on publish. `increment` mutates the shared object and will go through consensus. For an owned-object variant, remove `share_object`, create the Counter with `transfer::public_transfer(c, sender)`, and add a function `increment_owned(c: &mut Counter)` that bypasses consensus.
 
-**3. Test without a network, then publish
-
-**Run `sui move test` for unit tests, `sui move test --coverage` for coverage. Read the Move Book chapters on modules, structs and resources, and abilities before adding a coin. Publish to testnet or devnet with `sui client publish --gas-budget 100000000` and note the package ID and object IDs in the transaction effects.** 4. Compose a PTB in TypeScript
+#### 3. Test without a network, then publish
+Run `sui move test` for unit tests, `sui move test --coverage` for coverage. Read the Move Book chapters on modules, structs and resources, and abilities before adding a coin. Publish to testnet or devnet with `sui client publish --gas-budget 100000000` and note the package ID and object IDs in the transaction effects.** 4. Compose a PTB in TypeScript
 
 **Use the SDK to call multiple functions atomically:
 
@@ -259,9 +257,8 @@ This PTB increments a shared counter and sends a coin in one atomic execution wi
 * List an item in a Kiosk instead of using `public_transfer` so royalties and transfer policies are enforced. See docs.sui.io/standards/kiosk.
 * For DeFi, call DeepBook with a PTB that places a limit order: `deepbook::book::place_limit_order`. For data, store a blob with the Walrus CLI at docs.wal.app and gate access with Seal at docs.seal.mystenlabs.com.
 
-**6. Study verified examples
-
-**Read the Sui framework at github.com/MystenLabs/sui/tree/main/crates/sui-framework/packages/sui-framework/sources. It is the most reviewed Sui Move you can copy patterns from. Complete the BasicCoin tutorial at github.com/move-language/move/tree/main/language/documentation/tutorial steps 1 to 8, then port that coin to Sui with `UID` and `TxContext` so you see exactly where global storage operators disappear.
+#### 6. Study verified examples
+Read the Sui framework at github.com/MystenLabs/sui/tree/main/crates/sui-framework/packages/sui-framework/sources. It is the most reviewed Sui Move you can copy patterns from. Complete the BasicCoin tutorial at github.com/move-language/move/tree/main/language/documentation/tutorial steps 1 to 8, then port that coin to Sui with `UID` and `TxContext` so you see exactly where global storage operators disappear.
 
 ## FAQ
 

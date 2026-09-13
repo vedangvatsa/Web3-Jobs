@@ -65,9 +65,7 @@ Recognizing the boundaries of a 51% attack is essential.
 
 While a 51% attack represents a significant threat, carrying one out on a large, established blockchain is exceptionally challenging and costly.
 
-| 
-
-**Cost Factors**|
+| **Cost Factors** |
 
 **Details**|
 |
@@ -75,15 +73,9 @@ While a 51% attack represents a significant threat, carrying one out on a large,
 ------------------------|
 
 -------------------------------------------------|
-|
-
-**Hardware Costs**| An attacker must acquire an extensive amount of specialized mining hardware (ASICs). For Bitcoin, this often means obtaining more hardware than currently exists in the entire global network. This operation can be prohibitively expensive and logistically impossible to conduct secretly. |
-|
-
-**Energy Costs**| The electricity required to power this hardware would be exceedingly expensive. |
-|
-
-**Economic Disincentive**| If successful, news of the attack would likely cause the cryptocurrency's price to plummet. This devaluation would impact the very coins the attacker is attempting to double-spend and the costly mining equipment they acquired, rendering the attack economically irrational. |
+| **Hardware Costs** | An attacker must acquire an extensive amount of specialized mining hardware (ASICs). For Bitcoin, this often means obtaining more hardware than currently exists in the entire global network. This operation can be prohibitively expensive and logistically impossible to conduct secretly. |
+| **Energy Costs** | The electricity required to power this hardware would be exceedingly expensive. |
+| **Economic Disincentive** | If successful, news of the attack would likely cause the cryptocurrency's price to plummet. This devaluation would impact the very coins the attacker is attempting to double-spend and the costly mining equipment they acquired, rendering the attack economically irrational. |
 
 Due to these factors, smaller Proof-of-Work cryptocurrencies with lower total network hashrates are far more susceptible. Documented cases of successful 51% attacks have occurred on smaller coins like [Ethereum](/what-is-ethereum) Classic, Verge, and Bitcoin Gold, where acquiring the necessary hashrate proved feasible for determined attackers.
 

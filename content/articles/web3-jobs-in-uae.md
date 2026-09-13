@@ -28,13 +28,9 @@ The UAE's emergence as a crypto hub is a rapid development, resting on several f
 
 The job market in the UAE is fiercely competitive, with companies offering attractive salaries to secure top international talent. Salaries are often aligned with US or European standards and are tax-free, making total compensation packages highly appealing.
 
-|
+| **Role** |
 
-**Role**|
-
-**Experience Level**|
-
-**Salary (Tax-Free)**|
+**Experience Level**| **Salary (Tax-Free)** |
 |
 
 -------------------------------------------|
@@ -65,9 +61,7 @@ To discover your next opportunity in one of the most exciting and lucrative cryp
 
 **Tax-Free Income in Dubai**:
 
-|
-
-**Role**|
+| **Role** |
 
 **Salary Range (Tax-Free)**|
 |

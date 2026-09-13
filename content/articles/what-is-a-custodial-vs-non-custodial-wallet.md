@@ -36,12 +36,8 @@ When creating an account on these platforms and purchasing cryptocurrency, you d
 ----------------------------------|
 
 ----------------------------------------------------|
-|
-
-**Convenience and User-Friendliness**| These wallets are straightforward. If you forget your password, you can recover it through a standard process, similar to bank accounts. |
-|
-
-**No Self-Responsibility**| You don't need to understand the technicalities of securing a private key or seed phrase; the exchange manages security for you. |
+| **Convenience and User-Friendliness** | These wallets are straightforward. If you forget your password, you can recover it through a standard process, similar to bank accounts. |
+| **No Self-Responsibility** | You don't need to understand the technicalities of securing a private key or seed phrase; the exchange manages security for you. |
 
 ### Cons of Custodial Wallets
 
@@ -51,18 +47,10 @@ When creating an account on these platforms and purchasing cryptocurrency, you d
 -------------------------------------------|
 
 -------------------------------------------------------|
-|
-
-**Lack of True Ownership**| This significant drawback is encapsulated in the saying, "Not your keys, not your coins." You place your trust in the exchange to secure your assets. |
-|
-
-**Counterparty Risk**| If the exchange suffers a hack, faces bankruptcy, or undergoes government seizure, you risk losing your funds entirely. You are considered a creditor, not the direct owner of your assets. |
-|
-
-**Permissioned and Censorship-Prone**| Exchanges can freeze accounts, block withdrawals, or reverse transactions if compelled by regulators. Access to your funds requires their permission. |
-|
-
-**Limited [Web3](/what-is-web3) Access**| Custodial wallets typically do not allow direct interaction with most [DeFi](/what-is-defi) protocols, [DAOs](/what-is-a-dao), or other decentralized applications (dApps). |
+| **Lack of True Ownership** | This significant drawback is encapsulated in the saying, "Not your keys, not your coins." You place your trust in the exchange to secure your assets. |
+| **Counterparty Risk** | If the exchange suffers a hack, faces bankruptcy, or undergoes government seizure, you risk losing your funds entirely. You are considered a creditor, not the direct owner of your assets. |
+| **Permissioned and Censorship-Prone** | Exchanges can freeze accounts, block withdrawals, or reverse transactions if compelled by regulators. Access to your funds requires their permission. |
+| **Limited [Web3](/what-is-web3) Access** | Custodial wallets typically do not allow direct interaction with most [DeFi](/what-is-defi) protocols, [DAOs](/what-is-a-dao), or other decentralized applications (dApps). |
 
 **Best for:** Individuals making their first cryptocurrency purchase or traders requiring exchange access for high-frequency trading.
 
@@ -80,15 +68,9 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 ---------------------------------------------|
 
 -------------------------------------------------------|
-|
-
-**True Ownership and Control**| You maintain full control over your assets. No entity can freeze your funds or obstruct transactions. You are, in effect, your own bank. |
-|
-
-**Censorship Resistance**| No central authority can block your transactions. |
-|
-
-**Full Web3 Access**| A non-custodial wallet acts as your entry point to the entire decentralized ecosystem, enabling interactions with dApps, lending on DeFi protocols, and voting in DAOs. |
+| **True Ownership and Control** | You maintain full control over your assets. No entity can freeze your funds or obstruct transactions. You are, in effect, your own bank. |
+| **Censorship Resistance** | No central authority can block your transactions. |
+| **Full Web3 Access** | A non-custodial wallet acts as your entry point to the entire decentralized ecosystem, enabling interactions with dApps, lending on DeFi protocols, and voting in DAOs. |
 
 ### Cons of Non-Custodial Wallets
 
@@ -98,15 +80,9 @@ Upon creating a non-custodial wallet, you receive a **[seed phrase](/what-is-a-s
 ---------------------------------------|
 
 -------------------------------------------------------|
-|
-
-**High Personal Responsibility**| You bear complete responsibility for the security of your funds. |
-|
-
-**Irreversibility**| Losing your seed phrase results in permanent loss of your funds. There is no customer support to assist you. Transactions sent to incorrect addresses cannot be reversed. |
-|
-
-**Steeper Learning Curve**| Users must understand seed phrase management and security best practices. |
+| **High Personal Responsibility** | You bear complete responsibility for the security of your funds. |
+| **Irreversibility** | Losing your seed phrase results in permanent loss of your funds. There is no customer support to assist you. Transactions sent to incorrect addresses cannot be reversed. |
+| **Steeper Learning Curve** | Users must understand seed phrase management and security best practices. |
 
 **Examples of Non-Custodial Wallets:**
 

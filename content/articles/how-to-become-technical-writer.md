@@ -39,9 +39,8 @@ While a specific degree may not be mandatory, certain core skills are essential 
 **3. Audience Analysis:** Empathy for the user is vital. You need to understand their knowledge level, goals, and challenges.
 - **How to develop:** When writing, always define your audience first. Are they novice developers or experienced professionals? Tailor your language, tone, and detail level to meet their needs.
 
-**4. Research and Investigation Skills:** Technical writers often resemble detectives in their work. You must excel at gathering information, interviewing busy engineers, and synthesizing data from various sources.
-
-**5. Tool Proficiency:** Becoming familiar with industry-standard tools is important.
+#### 4. Research and Investigation Skills:** Technical writers often resemble detectives in their work. You must excel at gathering information, interviewing busy engineers, and synthesizing data from various sources.
+5. Tool Proficiency:** Becoming familiar with industry-standard tools is important.
 - **Docs-as-Code:** Many documentation teams adopt a "docs-as-code" approach, which involves writing documentation in a lightweight markup language such as Markdown and managing it with Git.
 - **Common Tools:** Learn to use Git, Markdown, a code editor like Visual Studio Code, and a static site generator such as Docusaurus, MkDocs, or Hugo.
 

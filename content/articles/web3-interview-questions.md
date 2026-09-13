@@ -35,9 +35,8 @@ If you are targeting a senior Solidity role, also read our [Solidity interview g
 
 Most teams run four to five stages. The exact order varies, but the pattern is consistent across protocols, exchanges, wallets, and infrastructure firms.
 
-**1. Recruiter screen, 20 to 30 minutes.
-
-**The recruiter checks location, compensation, availability, and baseline Web3 interest. Expect "Tell me about yourself" and "Why Web3." They also test if you can explain a concept simply without jargon.** 2. Hiring manager interview, 30 to 45 minutes.
+#### 1. Recruiter screen, 20 to 30 minutes.
+The recruiter checks location, compensation, availability, and baseline Web3 interest. Expect "Tell me about yourself" and "Why Web3." They also test if you can explain a concept simply without jargon.** 2. Hiring manager interview, 30 to 45 minutes.
 
 **The manager checks role fit. For technical roles, expect a light technical pass. For non-technical roles, expect a deep dive on past work with numbers and outcomes. Prepare two or three work stories with measurable results.** 3. Take-home or live exercise.
 

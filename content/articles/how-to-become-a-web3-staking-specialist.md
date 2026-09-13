@@ -118,9 +118,8 @@ You build the hosted product that non-technical holders use.
 
 Use these steps in order. Each one creates an artifact you can show to employers.
 
-**1. Learn the fundamentals from primary docs
-
-**Read the official staking and proof-of-stake pages on ethereum.org, then pick one more network to compare. The [Cosmos SDK staking and slashing modules](https://docs.cosmos.network/main/modules/staking) show how delegation shares, unbonding, and tombstoning work with different parameters. Take notes on attestation, proposal, finality with checkpoints, and the two main slashing conditions. Write a one-page comparison of Ethereum and one Cosmos chain that you can hand to an interviewer.** 2. Run a validator on the right testnet**
+#### 1. Learn the fundamentals from primary docs
+Read the official staking and proof-of-stake pages on ethereum.org, then pick one more network to compare. The [Cosmos SDK staking and slashing modules](https://docs.cosmos.network/main/modules/staking) show how delegation shares, unbonding, and tombstoning work with different parameters. Take notes on attestation, proposal, finality with checkpoints, and the two main slashing conditions. Write a one-page comparison of Ethereum and one Cosmos chain that you can hand to an interviewer.** 2. Run a validator on the right testnet**
 
 Do not use Holesky. The [Holesky testnet was deprecated in September 2025](https://blog.ethereum.org/2025/03/18/hoodi-holesky) after the Pectra rollout and is no longer maintained. For validator and staking work, use Hoodi, launched in March 2025 to replace Holesky. Hoodi activated Pectra at epoch 2048 on March 26, 2025, and is supported until September 2028. Use Sepolia only for application development. Ephemery resets every 28 days and is useful for short lifecycle tests.
 
@@ -147,9 +146,8 @@ Note how each token behaves in a wallet, an explorer, and a lending app. That no
 
 Put each project in a public repo with a README that shows choices and trade-offs, not just happy-path screenshots.
 
-**5. Talk to hiring teams with specifics
-
-**In applications, state which networks, clients, and LSTs you have actually run, with hashes and block explorers. Name the testnet you used, the clients you ran, your skip or attestation rate, and how you handled the last client release. Hiring teams for this role value proven attention to upgrade windows and key handling more than generic DeFi knowledge.
+#### 5. Talk to hiring teams with specifics
+In applications, state which networks, clients, and LSTs you have actually run, with hashes and block explorers. Name the testnet you used, the clients you ran, your skip or attestation rate, and how you handled the last client release. Hiring teams for this role value proven attention to upgrade windows and key handling more than generic DeFi knowledge.
 
 See also: [Mastering Web3 essential skills](/mastering-web3-essential-skills) and [Building a Web3 portfolio](/building-web3-portfolio).
 

@@ -88,15 +88,9 @@ Slides should serve as visual aids, not scripts. They are designed for your audi
 ------------------------|
 
 ---------------------------------------|
-|
-
-**One Idea Per Slide**| Each slide should convey a single, clear purpose |
-|
-
-**Use Images, Not Words**| Incorporate high-quality images, simple charts, and diagrams |
-|
-
-**The 6x6 Rule**| Limit to six bullet points per slide and six words per bullet point |
+| **One Idea Per Slide** | Each slide should convey a single, clear purpose |
+| **Use Images, Not Words** | Incorporate high-quality images, simple charts, and diagrams |
+| **The 6x6 Rule** | Limit to six bullet points per slide and six words per bullet point |
 
 If your slides contain lengthy paragraphs, simplifying the content.
 

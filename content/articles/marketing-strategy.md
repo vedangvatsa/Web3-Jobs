@@ -72,15 +72,11 @@ In Web3, traditional marketing metrics such as Cost Per Acquisition (CPA) or lea
 -----------------------------|
 
 ---------------------------------------------------------------|
-|
-
-**Community Metrics**| |
+| **Community Metrics** | |
 | Discord Active Members | Daily, weekly, or monthly active users in your Discord server |
 | Twitter Engagement Rate | Likes, replies, and retweets on your tweets |
 | Governance Participation Rate | Percentage of token holders voting on proposals |
-|
-
-**On-Chain Metrics**| |
+| **On-Chain Metrics** | |
 | Total Value Locked (TVL) | Total value locked in DeFi projects |
 | Daily Active Wallets | Number of unique wallets interacting with your protocol |
 | Transaction Volume | Total number of transactions processed |

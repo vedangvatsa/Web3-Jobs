@@ -94,15 +94,9 @@ The Web3 sector experiences rapid growth, with demand for qualified talent signi
 -----------------------------------|
 
 --------------------------------------|
-|
-
-**Compensation**| Generally lower than Web3 | Higher salaries and equity options |
-|
-
-**Remote Work**| Hybrid or office-based | Fully remote or primarily remote |
-|
-
-**Career Progression**| Slow, often requiring years | Rapid advancement within a few years |
+| **Compensation** | Generally lower than Web3 | Higher salaries and equity options |
+| **Remote Work** | Hybrid or office-based | Fully remote or primarily remote |
+| **Career Progression** | Slow, often requiring years | Rapid advancement within a few years |
 |
 
 **Equity Opportunities** | Limited | Significant potential for early members|

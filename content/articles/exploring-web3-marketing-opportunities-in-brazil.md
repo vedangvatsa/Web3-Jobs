@@ -36,18 +36,10 @@ A one-size-fits-all marketing strategy is ineffective in Brazil. Achieving succe
 ----------|
 
 -------------|
-|
-
-**Language Proficiency**| Ensure all marketing content, including websites, apps, and social media, is in fluent Brazilian Portuguese. Avoid generic Portuguese or machine translations. |
-|
-
-**Community Building**| Hire native Brazilian community managers to engage users on platforms like Telegram and WhatsApp. Organize in-person events such as meetups and workshops in cities like São Paulo and Rio de Janeiro to strengthen brand loyalty. |
-|
-
-**Content Strategy**| Produce high-quality educational materials in Portuguese that explain [DeFi](/what-is-defi) concepts, security practices, and product usage. Collaborate with local influencers on platforms like YouTube and Instagram to reach wider audiences. |
-|
-
-**Cultural Relevance**| Integrate elements of Brazilian culture, like football, music, and humor, into marketing campaigns to build strong connections with users. |
+| **Language Proficiency** | Ensure all marketing content, including websites, apps, and social media, is in fluent Brazilian Portuguese. Avoid generic Portuguese or machine translations. |
+| **Community Building** | Hire native Brazilian community managers to engage users on platforms like Telegram and WhatsApp. Organize in-person events such as meetups and workshops in cities like São Paulo and Rio de Janeiro to strengthen brand loyalty. |
+| **Content Strategy** | Produce high-quality educational materials in Portuguese that explain [DeFi](/what-is-defi) concepts, security practices, and product usage. Collaborate with local influencers on platforms like YouTube and Instagram to reach wider audiences. |
+| **Cultural Relevance** | Integrate elements of Brazilian culture, like football, music, and humor, into marketing campaigns to build strong connections with users. |
 
 ### In-Demand Marketing Roles in Brazil
 

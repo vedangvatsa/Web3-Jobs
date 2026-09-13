@@ -118,9 +118,8 @@ Slippage tolerance is the maximum price move you accept. A sandwich is only prof
 
 If your transaction fails often, widen slightly. A failed transaction that costs gas is still often cheaper than being sandwiched on a large trade. A 2026 audit of top DEX integrations cited by Thirdweb found about 40 percent still used dangerously wide defaults.
 
-**3. Split large orders
-
-**A $100,000 swap moves price more than ten $10,000 swaps and is a more attractive single target. Use TWAP execution or an aggregator that splits across pools when the gas trade-off makes sense. On low-fee chains or layer 2s, splitting costs little.** 4. Time and route consciously**
+#### 3. Split large orders
+A $100,000 swap moves price more than ten $10,000 swaps and is a more attractive single target. Use TWAP execution or an aggregator that splits across pools when the gas trade-off makes sense. On low-fee chains or layer 2s, splitting costs little.** 4. Time and route consciously**
 
 Trade in deeper pools and during higher liquidity periods when possible. Compare quotes across aggregators. On layer 2 rollups with centralized sequencers, ordering rules differ today, but sequencer decentralization will bring mainnet-like MEV dynamics, so the same hygiene applies.
 

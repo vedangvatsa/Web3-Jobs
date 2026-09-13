@@ -88,18 +88,10 @@ It is essential to have **multiple mentors** to cover various aspects of your ca
 ----------------------------------------|
 
 ---------------------------------------------|
-|
-
-**Technical Mentor**| Code reviews, architecture | [GitHub](/building-web3-portfolio), open-source projects |
-|
-
-**Business Mentor**| Strategy, fundraising | Accelerators, experienced founders |
-|
-
-**Career Mentor**| Growth, opportunities | Your existing network, company connections |
-|
-
-**Domain Expert**| Specifics of [DeFi](/what-is-defi), [NFTs](/what-are-nfts), or AI | Discord, Twitter, hackathons |
+| **Technical Mentor** | Code reviews, architecture | [GitHub](/building-web3-portfolio), open-source projects |
+| **Business Mentor** | Strategy, fundraising | Accelerators, experienced founders |
+| **Career Mentor** | Growth, opportunities | Your existing network, company connections |
+| **Domain Expert** | Specifics of [DeFi](/what-is-defi), [NFTs](/what-are-nfts), or AI | Discord, Twitter, hackathons |
 
 ## Establishing a Mentorship Agreement
 

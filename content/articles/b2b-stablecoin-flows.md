@@ -110,24 +110,12 @@ A public blockchain collapses messaging and settlement into the exact same singl
 
 | Dimension | Correspondent SWIFT | Specialist Fintechs (Wise, Revolut) | On-Chain Stablecoins |
 | :--- | :--- | :--- | :--- |
-| 
-
-**Settlement Latency**| 2 to 5 business days | 1 to 2 business days | 15 to 30 seconds |
-|
-
-**Clearing Certainty**| Probabilistic (subject to correspondent holds) | Probabilistic (partner bank clearing dependent) | Deterministic (atomic cryptographic settlement) |
-|
-
-**Operating Hours**| Banking hours (Mon-Fri, 9am-5pm) | Banking hours with batch clearing | 24/7/365 continuous |
-|
-
-**Fee Structure**| 2% to 7% (FX spread + wire deductions) | 0.3% to 0.8% (capped corridors) | 0.05% to 0.20% (ledger tier) |
-|
-
-**Escrow Mechanism**| Paper Letters of Credit (LCs) | Proprietary platform escrow | Programmatic smart contract escrow |
-|
-
-**ERP Integration**| Batch MT103 / ISO 20022 files | Proprietary REST APIs | Real-time webhooks & on-chain proofs |
+| **Settlement Latency** | 2 to 5 business days | 1 to 2 business days | 15 to 30 seconds |
+| **Clearing Certainty** | Probabilistic (subject to correspondent holds) | Probabilistic (partner bank clearing dependent) | Deterministic (atomic cryptographic settlement) |
+| **Operating Hours** | Banking hours (Mon-Fri, 9am-5pm) | Banking hours with batch clearing | 24/7/365 continuous |
+| **Fee Structure** | 2% to 7% (FX spread + wire deductions) | 0.3% to 0.8% (capped corridors) | 0.05% to 0.20% (ledger tier) |
+| **Escrow Mechanism** | Paper Letters of Credit (LCs) | Proprietary platform escrow | Programmatic smart contract escrow |
+| **ERP Integration** | Batch MT103 / ISO 20022 files | Proprietary REST APIs | Real-time webhooks & on-chain proofs |
 
 ---
 
@@ -189,18 +177,10 @@ Over the past 24 months, traditional payment incumbents recognized that building
 
 | Acquirer / Network | Asset / Target | Transaction Valuation | Strategic Objective |
 | :--- | :--- | :--- | :--- |
-|
-
-**Stripe**| Bridge | ~$1.1 Billion (2024) | Turn-key stablecoin orchestration across 30+ fiat currencies; powered ~$400B in annualized stablecoin payment volume |
-|
-
-**Mastercard**| BVNK | Up to $1.8 Billion (March 2026) | Integrates regulated European and UK fiat-to-crypto banking rails directly into Mastercard's commercial settlement network |
-|
-
-**Visa**| Internal Solana / Ethereum Rails | Direct Deployment | Scaled stablecoin settlement run-rate to ~$7B annualized across merchant acquirers |
-|
-
-**Conduit**| Emerging Market Network | Series A Expansion | Direct integration into Brazil Pix, Mexico SPEI, and 23 African mobile money rails |
+| **Stripe** | Bridge | ~$1.1 Billion (2024) | Turn-key stablecoin orchestration across 30+ fiat currencies; powered ~$400B in annualized stablecoin payment volume |
+| **Mastercard** | BVNK | Up to $1.8 Billion (March 2026) | Integrates regulated European and UK fiat-to-crypto banking rails directly into Mastercard's commercial settlement network |
+| **Visa** | Internal Solana / Ethereum Rails | Direct Deployment | Scaled stablecoin settlement run-rate to ~$7B annualized across merchant acquirers |
+| **Conduit** | Emerging Market Network | Series A Expansion | Direct integration into Brazil Pix, Mexico SPEI, and 23 African mobile money rails |
 
 This institutional wave demonstrates two points:
 1. **The settlement rail has been validated.** Global payment networks now treat stablecoins as standard infrastructure rather than an experimental edge case.

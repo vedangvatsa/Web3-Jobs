@@ -83,18 +83,10 @@ Employers in 2026 verify shipped work before credentials: GitHub commits, deploy
 ---|
 
 ---|
-|
-
-**Python**| Primary language for data handling, training, and inference scripts. |
-|
-
-**PyTorch and TensorFlow**| Build and fine-tune models. PyTorch docs at pytorch.org/docs, TensorFlow at tensorflow.org. |
-|
-
-**Pandas, NumPy**| Manipulate tabular and numerical data before training. |
-|
-
-**ML workflow**| Evaluate accuracy, latency, and cost. Prepare for edge deployment and MLOps where data stays local. |
+| **Python** | Primary language for data handling, training, and inference scripts. |
+| **PyTorch and TensorFlow** | Build and fine-tune models. PyTorch docs at pytorch.org/docs, TensorFlow at tensorflow.org. |
+| **Pandas, NumPy** | Manipulate tabular and numerical data before training. |
+| **ML workflow** | Evaluate accuracy, latency, and cost. Prepare for edge deployment and MLOps where data stays local. |
 
 ### Web3 stack
 
@@ -104,18 +96,10 @@ Employers in 2026 verify shipped work before credentials: GitHub commits, deploy
 ---|
 
 ---|
-|
-
-**Solidity**| Write, test, and deploy [smart contracts](/what-are-smart-contracts). Language documented at docs.soliditylang.org (current 0.8.35/0.8.36). |
-|
-
-**Rust**| High-performance protocols, ZK proof systems, and chains like Solana. |
-|
-
-**Hardhat or Foundry**| Development and testing. Hardhat 3 (hardhat.org) provides a Rust-powered runtime and plugins for Ethers.js and Viem. Foundry (github.com/foundry-rs/foundry, 10.5k stars) provides Forge, Cast, Anvil, and Chisel for Solidity testing, fuzzing, and mainnet forking. |
-|
-
-**Ethers.js or Viem**| Connect off-chain Python services to contracts. Viem offers lightweight, type-safe calls; Ethers.js is widely used in Hardhat projects. Both are integrated via @nomicfoundation/hardhat-viem or hardhat-ethers. |
+| **Solidity** | Write, test, and deploy [smart contracts](/what-are-smart-contracts). Language documented at docs.soliditylang.org (current 0.8.35/0.8.36). |
+| **Rust** | High-performance protocols, ZK proof systems, and chains like Solana. |
+| **Hardhat or Foundry** | Development and testing. Hardhat 3 (hardhat.org) provides a Rust-powered runtime and plugins for Ethers.js and Viem. Foundry (github.com/foundry-rs/foundry, 10.5k stars) provides Forge, Cast, Anvil, and Chisel for Solidity testing, fuzzing, and mainnet forking. |
+| **Ethers.js or Viem** | Connect off-chain Python services to contracts. Viem offers lightweight, type-safe calls; Ethers.js is widely used in Hardhat projects. Both are integrated via @nomicfoundation/hardhat-viem or hardhat-ethers. |
 |
 
 **Nodes and data** | Query on-chain data with Dune Analytics, The Graph, Nansen, or Flipside for features and backtests. |

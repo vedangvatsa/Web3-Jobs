@@ -68,24 +68,12 @@ Consortium blockchains blend elements of both public and private models. They ar
 --------------------------------- | 
 
 ----------------------------- |
-|
-
-**Access**| Permissionless (Anyone) | Permissioned (Single Organization) | Permissioned (Group of Organizations) |
-|
-
-**Decentralization**| High | None (Centralized) | Low (Partially Decentralized) |
-|
-
-**Immutability**| Very High | High | High |
-|
-
-**Transparency**| High (Public) | Low (Private) | Variable |
-|
-
-**Speed**| Low | High | Medium |
-|
-
-**Primary Use Case**| Public Utilities (DeFi) | Internal Enterprise Systems | B2B Collaboration |
+| **Access** | Permissionless (Anyone) | Permissioned (Single Organization) | Permissioned (Group of Organizations) |
+| **Decentralization** | High | None (Centralized) | Low (Partially Decentralized) |
+| **Immutability** | Very High | High | High |
+| **Transparency** | High (Public) | Low (Private) | Variable |
+| **Speed** | Low | High | Medium |
+| **Primary Use Case** | Public Utilities (DeFi) | Internal Enterprise Systems | B2B Collaboration |
 
 ### Assessing the Right Blockchain Model
 

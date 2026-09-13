@@ -59,18 +59,10 @@ Guilds are transitioning into decentralized investment funds focused on the Web3
 ------------------------|
 
 ---------------------------------------------------------------|
-|
-
-**In-game NFTs**| Core business of lending assets for scholarships. |
-|
-
-**Game Tokens**| Direct investments in promising new game tokens. |
-|
-
-**Virtual Land**| Acquisitions in metaverse platforms like The Sandbox and Decentraland. |
-|
-
-**Seed-Stage Investments**| Acting as venture capital, supporting early-stage game development studios. |
+| **In-game NFTs** | Core business of lending assets for scholarships. |
+| **Game Tokens** | Direct investments in promising new game tokens. |
+| **Virtual Land** | Acquisitions in metaverse platforms like The Sandbox and Decentraland. |
+| **Seed-Stage Investments** | Acting as venture capital, supporting early-stage game development studios. |
 
 This shift positions the guild's token as an index fund for the entire Web3 gaming sector, providing token holders broad exposure to industry growth.
 

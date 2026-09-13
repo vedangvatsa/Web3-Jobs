@@ -23,18 +23,10 @@ Hyderabad's Web3 scene is characterized by a strong link to enterprise technolog
 ----------|
 
 -------------|
-| 
-
-**Enterprise Blockchain and R&D**| The city hosts research and development centers for major tech firms such as Microsoft, Google, and Oracle, many of which maintain dedicated blockchain divisions. This creates a high demand for engineers skilled in enterprise-grade blockchain solutions. |
-|
-
-**Supportive Government Initiatives**| The Telangana government has adopted progressive policies towards blockchain. Establishments like T-Hub and the India Blockchain Accelerator provide startups with structured support, attracting both funding and talent. |
-|
-
-**Growing DeFi and NFT Community**| In addition to enterprise-focused projects, a active community is developing in Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), and Web3 gaming, driven by local developers. |
-|
-
-**Educational Institutions**| Institutions such as IIT Hyderabad and IIIT Hyderabad offer strong computer science programs and are focusing on blockchain research, producing a consistent stream of qualified talent. |
+| **Enterprise Blockchain and R&D** | The city hosts research and development centers for major tech firms such as Microsoft, Google, and Oracle, many of which maintain dedicated blockchain divisions. This creates a high demand for engineers skilled in enterprise-grade blockchain solutions. |
+| **Supportive Government Initiatives** | The Telangana government has adopted progressive policies towards blockchain. Establishments like T-Hub and the India Blockchain Accelerator provide startups with structured support, attracting both funding and talent. |
+| **Growing DeFi and NFT Community** | In addition to enterprise-focused projects, a active community is developing in Decentralized Finance (DeFi), Non-Fungible Tokens (NFTs), and Web3 gaming, driven by local developers. |
+| **Educational Institutions** | Institutions such as IIT Hyderabad and IIIT Hyderabad offer strong computer science programs and are focusing on blockchain research, producing a consistent stream of qualified talent. |
 
 ### In-Demand Roles and Salary Expectations
 
@@ -50,18 +42,10 @@ The Web3 job market in Hyderabad is experiencing rapid growth, with salaries ref
 ------------------|
 
 ---------------|
-|
-
-**[Blockchain Developer](/how-to-become-a-blockchain-developer)**| Specializes in both public and private blockchain development using platforms like Solidity and Hyperledger Fabric. | Competitive | Competitive |
-|
-
-**Full-Stack Web3 Engineer**| Responsible for building decentralized applications and integrating blockchain solutions. | Competitive | Competitive |
-|
-
-**Blockchain Quality Assurance (QA) Engineer**| Focuses on testing and ensuring the quality of blockchain applications as enterprise adoption increases. | Competitive | N/A |
-|
-
-**Non-Technical Roles**| Roles such as Technical Product Manager and Community & Ecosystem Manager are essential for bridging technology and user engagement. | Competitive | Competitive |
+| **[Blockchain Developer](/how-to-become-a-blockchain-developer)** | Specializes in both public and private blockchain development using platforms like Solidity and Hyperledger Fabric. | Competitive | Competitive |
+| **Full-Stack Web3 Engineer** | Responsible for building decentralized applications and integrating blockchain solutions. | Competitive | Competitive |
+| **Blockchain Quality Assurance (QA) Engineer** | Focuses on testing and ensuring the quality of blockchain applications as enterprise adoption increases. | Competitive | N/A |
+| **Non-Technical Roles** | Roles such as Technical Product Manager and Community & Ecosystem Manager are essential for bridging technology and user engagement. | Competitive | Competitive |
 
 ### Building a Web3 Career in Hyderabad
 

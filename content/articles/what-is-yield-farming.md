@@ -42,12 +42,8 @@ When assessing yield farming opportunities, it is essential to understand the di
 --------|
 
 -------------|
-|
-
-**APR (Annual Percentage Rate)**| The simple interest rate earned over a year, excluding compounding effects. |
-|
-
-**APY (Annual Percentage Yield)**| The rate of return that includes the impact of compounding interest. Frequent reinvestment of rewards results in a higher APY compared to APR. |
+| **APR (Annual Percentage Rate)** | The simple interest rate earned over a year, excluding compounding effects. |
+| **APY (Annual Percentage Yield)** | The rate of return that includes the impact of compounding interest. Frequent reinvestment of rewards results in a higher APY compared to APR. |
 
 DeFi yields are often presented as APY and can reach impressive levels; however, they are also subject to fluctuation and are not guaranteed.
 

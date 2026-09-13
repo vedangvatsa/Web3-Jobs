@@ -19,9 +19,8 @@ You do not need to write Solidity to work in Web3. At crypto-native companies, e
 
 If you come from Web2, five differences matter more than any resume bullet.
 
-**1. From centralized to decentralized decisions.
-
-**In Web2, roadmap calls come from the top. In Web3, power is distributed across token holders and contributors. Learn [community governance](/how-to-break-into-web3-dao-governance-consulting), public proposals, and consensus building instead of directives.** 2. From users to owners.
+#### 1. From centralized to decentralized decisions.
+In Web2, roadmap calls come from the top. In Web3, power is distributed across token holders and contributors. Learn [community governance](/how-to-break-into-web3-dao-governance-consulting), public proposals, and consensus building instead of directives.** 2. From users to owners.
 
 **Users often hold [tokens](/what-is-a-token). They have a financial stake and a vote on the protocol. Your job shifts from customer service to community stewardship. Every announcement affects price, governance sentiment, and trust.** 3. Pseudonymity is normal.
 

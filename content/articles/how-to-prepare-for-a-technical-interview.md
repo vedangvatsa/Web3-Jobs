@@ -86,9 +86,8 @@ Tooling: LeetCode remains the standard practice platform. Run mock interviews on
 
 If your loop includes a Solidity role, add EVM and security on top of the general coding base. Interviewers treat security as the primary filter.
 
-**1. Solidity fundamentals.
-
-**Be able to write and explain from memory:
+#### 1. Solidity fundamentals.
+Be able to write and explain from memory:
 
 - Data locations: `storage`, `memory`, and `calldata`, and when each copies. `calldata` is read-only and cheapest for external inputs. `storage` persists and costs the most.
 - Visibility: `public`, `private`, `internal`, `external`. Use `external` when the function is only called from outside the contract to save gas on copying.
@@ -96,17 +95,15 @@ If your loop includes a Solidity role, add EVM and security on top of the genera
 - Error handling: `require`, `revert`, `assert`, and custom errors. Custom errors introduced in Solidity 0.8.4 cost less gas than string messages because they encode a selector, not a string.
 - Inheritance and libraries. Understand C3 linearization for base contract order.
 
-**2. The EVM.
-
-**The EVM is a stack machine that each node runs. Know:
+#### 2. The EVM.
+The EVM is a stack machine that each node runs. Know:
 
 - The stack, memory which is cleared after the call, and storage which persists. A cold storage write costs 20,000 gas, a warm write about 2,900, a cold read about 2,100, a warm read about 100. These numbers come from the EVM fee schedule and explain why minimizing state writes dominates optimization.
 - Opcodes you will be asked about: `SSTORE`, `SLOAD`, `ADD`, `MSTORE`, `CALLDATALOAD`. Transient storage with `TSTORE` and `TLOAD` from EIP-1153 costs 100 gas and clears after the transaction. It shipped with the Cancun upgrade in March 2024 and requires Solidity 0.8.24 or later and `evmVersion: "cancun"`.
 - Call types: `call`, `delegatecall`, and `staticcall`. With `call`, `msg.sender` is the caller. With `delegatecall`, code runs in the caller's storage, so `msg.sender` stays the original sender, which is how proxies work. Never use `tx.origin` for authorization. `tx.origin` is the original external account, not the immediate caller, so a phishing contract can bypass it.
 
-**3. Security, the most important filter.
-
-**Follow the Checks-Effects-Interactions pattern from the Solidity docs at docs.soliditylang.org. The pattern is: check inputs first, update your state second, interact with other contracts last.
+#### 3. Security, the most important filter.
+Follow the Checks-Effects-Interactions pattern from the Solidity docs at docs.soliditylang.org. The pattern is: check inputs first, update your state second, interact with other contracts last.
 
 A vulnerable withdraw sends before it updates:
 

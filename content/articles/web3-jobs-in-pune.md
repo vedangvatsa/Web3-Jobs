@@ -39,17 +39,11 @@ The demand for skilled Web3 professionals in Pune is surging, with companies vyi
 ------------------|
 
 -------------------------------|
-|
-
-**Smart Contract Developer**| Mid-Level (2-4 years) | Competitive |
+| **Smart Contract Developer** | Mid-Level (2-4 years) | Competitive |
 | | Senior (5+ years) | Competitive |
-|
-
-**Frontend/Full-Stack Web3 Engineer**| Mid-Level | Competitive |
+| **Frontend/Full-Stack Web3 Engineer** | Mid-Level | Competitive |
 | | Senior | Competitive |
-|
-
-**Developer Relations (DevRel)**| DevRel Engineer | Competitive |
+| **Developer Relations (DevRel)** | DevRel Engineer | Competitive |
 | | Community Manager | Competitive |
 
 ### Building a Web3 Career in Pune

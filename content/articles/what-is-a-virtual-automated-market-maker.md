@@ -61,21 +61,11 @@ A vAMM addresses these limitations by dissociating the price-setting mechanism f
 ------------------------------------------------|
 
 -----------------------------------------------------------|
-|
-
-**Liquidity**| Requires a pool of real, deposited assets from liquidity providers. | No real liquidity pool; the pool is virtual. |
-|
-
-**Asset Custody**| The pool contract holds actual tokens being traded. | The collateral vault holds a single asset (e.g., USDC). |
-|
-
-**Primary Use Case**| Spot trading (swapping real tokens). | Derivatives trading (perpetual futures). |
-|
-
-**Revenue Source**| Liquidity providers earn fees from trades. | Traders pay/receive funding payments; the protocol may charge fees. |
-|
-
-**Key Risk**| Impermanent loss for liquidity providers. | Liquidation risk for used traders. |
+| **Liquidity** | Requires a pool of real, deposited assets from liquidity providers. | No real liquidity pool; the pool is virtual. |
+| **Asset Custody** | The pool contract holds actual tokens being traded. | The collateral vault holds a single asset (e.g., USDC). |
+| **Primary Use Case** | Spot trading (swapping real tokens). | Derivatives trading (perpetual futures). |
+| **Revenue Source** | Liquidity providers earn fees from trades. | Traders pay/receive funding payments; the protocol may charge fees. |
+| **Key Risk** | Impermanent loss for liquidity providers. | Liquidation risk for used traders. |
 
 ### Advantages of the vAMM Model
 

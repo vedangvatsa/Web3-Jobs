@@ -33,12 +33,8 @@ Cells can repair broken DNA in two primary ways:
 -----------------------------|
 
 -----------------------------------------------------------------------------------------------|
-|
-
-**Gene Disruption**| The cell's repair process may introduce errors when reconnecting the DNA ends, resulting in a knockout of the targeted gene. This method is useful for functional studies of genes. |
-|
-
-**Gene Replacement**| Researchers can introduce a template DNA strand during the repair, allowing the cell to replace the original sequence with a corrected version. This approach holds promise for correcting genetic mutations. |
+| **Gene Disruption** | The cell's repair process may introduce errors when reconnecting the DNA ends, resulting in a knockout of the targeted gene. This method is useful for functional studies of genes. |
+| **Gene Replacement** | Researchers can introduce a template DNA strand during the repair, allowing the cell to replace the original sequence with a corrected version. This approach holds promise for correcting genetic mutations. |
 
 ### Significance of CRISPR
 

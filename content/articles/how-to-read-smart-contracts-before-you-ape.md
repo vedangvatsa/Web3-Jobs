@@ -39,13 +39,9 @@ You should now be on the contract's main page within the block explorer. The mos
 
 Once you access the [Solidity](/best-programming-languages-for-blockchain-development) code, do not feel overwhelmed. You do not need to understand every line. Instead, look for specific, identifiable keywords and patterns that may indicate risk. Use `Ctrl+F` or `Cmd+F` to search the code for these critical terms.
 
-|
+| **Keyword** |
 
-**Keyword**|
-
-**What to Look For**|
-
-**Verdict**|
+**What to Look For**| **Verdict** |
 |
 
 -------------------|

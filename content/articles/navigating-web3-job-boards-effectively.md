@@ -26,24 +26,12 @@ Not all job boards provide the same quality. Focus on platforms recognized for h
 ----------------------|
 
 ---------------------------------------------------------------|
-| 
-
-**Hashtag Web3**| A reputable platform with a curated selection of Web3 jobs. |
-|
-
-**CryptoJobs**| Offers a diverse range of roles across the crypto industry. |
-|
-
-**Web3.career**| Specializes in connecting top talent with Web3 projects. |
-|
-
-**VC Portfolio Pages**| Job boards from firms like a16z Crypto and Model list roles at vetted, well-funded projects. |
-|
-
-**Ecosystem-Specific Boards**| Target boards focused on specific ecosystems, such as Solana or Cosmos. |
-|
-
-**Twitter (X)**| Engage with a curated list of influential founders and developers to discover opportunities before they're posted. |
+| **Hashtag Web3** | A reputable platform with a curated selection of Web3 jobs. |
+| **CryptoJobs** | Offers a diverse range of roles across the crypto industry. |
+| **Web3.career** | Specializes in connecting top talent with Web3 projects. |
+| **VC Portfolio Pages** | Job boards from firms like a16z Crypto and Model list roles at vetted, well-funded projects. |
+| **Ecosystem-Specific Boards** | Target boards focused on specific ecosystems, such as Solana or Cosmos. |
+| **Twitter (X)** | Engage with a curated list of influential founders and developers to discover opportunities before they're posted. |
 
 ### Step 2: Develop a "Red Flag" Filter
 

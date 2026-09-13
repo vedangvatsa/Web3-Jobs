@@ -22,45 +22,33 @@ This guide outlines key strategies for finding and succeeding in a remote Web3 r
 The remote-first aspect of Web3 is not coincidental; it is deeply integrated into its framework.
 
 | Factor | Description |
-|
-
----------------------------|
-
-------------------------------------------------------------------------------------|
-| 
-
-**Global Talent Pool**| Projects can source talent worldwide. A team in Lisbon might include engineers from Seoul and community managers from Buenos Aires. Limiting recruitment to one location excludes top talent. |
-|
-
-**Philosophical Alignment**| Decentralization removes single points of failure. A globally distributed team enhances resilience compared to a centralized one. |
-|
-
-**24/7 Market**| The crypto market operates around the clock. A global team ensures constant availability for community engagement and issue resolution. |
-|
-
-**Internet-Native Culture**| Web3 emerged from online communities. Tools and practices for remote collaboration are intrinsic rather than adapted. |
+|---|---|
+| **Global Talent Pool** | Projects can source talent worldwide. A team in Lisbon might include engineers from Seoul and community managers from Buenos Aires. Limiting recruitment to one location excludes top talent. |
+| **Philosophical Alignment** | Decentralization removes single points of failure. A globally distributed team enhances resilience compared to a centralized one. |
+| **24/7 Market** | The crypto market operates around the clock. A global team ensures constant availability for community engagement and issue resolution. |
+| **Internet-Native Culture** | Web3 emerged from online communities. Tools and practices for remote collaboration are intrinsic rather than adapted. |
 
 ### Essential Skills for Remote Web3 Success
 
-growing in a remote, distributed team requires specific soft skills. While technical competence is assumed, the following skills can set you apart.
+Growing in a remote, distributed team requires specific soft skills. While technical competence is assumed, the following skills can set you apart.
 
-**1. Mastery of Asynchronous Communication
+#### 1. Mastery of Asynchronous Communication
 
-**With colleagues spread across time zones, real-time meetings become impractical. Most communication will be written and asynchronous.
+With colleagues spread across time zones, real-time meetings become impractical. Most communication will be written and asynchronous.
 
 - **Clarity and Conciseness:** Ensure you can articulate complex ideas clearly in platforms like Discord or Notion. Your writing should preemptively address potential questions.
 - **Proactive Updates:** Regularly communicate your progress, challenges, and next steps. Daily or weekly updates are often expected to build trust and visibility.
 
-**2. High Degree of Autonomy
+#### 2. High Degree of Autonomy
 
-**In a remote environment, self-direction is important. You need to take ownership of your work and drive tasks to completion.
+In a remote environment, self-direction is important. You need to take ownership of your work and drive tasks to completion.
 
 - **Initiative:** Identify issues and propose solutions rather than waiting for instructions. Web3 values proactive contributors.
 - **Time Management:** Manage your schedule effectively to meet deadlines without constant oversight. This requires discipline and strong organizational abilities.
 
-**3. Documentation-First Mindset
+#### 3. Documentation-First Mindset
 
-**Good documentation is essential, as you cannot easily ask questions in person.
+Good documentation is essential, as you cannot easily ask questions in person.
 
 - **Writing for an Audience:** Document decisions, processes, and designs in a manner that is easily understandable to anyone in a different time zone.
 - **Knowledge Sharing:** Cultivate the habit of documenting your learning and sharing it with the team, building efficiency and collective knowledge.

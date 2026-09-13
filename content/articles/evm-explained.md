@@ -70,9 +70,8 @@ The EVM does not follow a Von Neumann layout where code and data share the same 
 
 **A last-in first-out stack of at most 1024 items. Each item is a 256-bit word. The width matches Keccak-256 and secp256k1. Most stack ops cost 2 or 3 gas. The stack is where arithmetic happens and where other areas are addressed. Helpers like `DUPn` and `SWAPn` reorder the top 16 items without touching memory or storage.** 2. Memory.** A volatile, byte-addressable linear array. It expands when you touch a higher offset and is zero-initialized. It is wiped between transactions, shared across internal calls within the same transaction, and addressed by offset and length. Three opcodes manage it: `MSTORE` writes a 32-byte word, `MSTORE8` writes one byte, `MLOAD` reads a word, plus `MSIZE` and `MCOPY`. Memory cost is not flat. The Yellow Paper defines `C_mem(a) = G_memory * a + a^2 / 512` where `a` is memory size in words and `G_memory` is 3. Cost grows linearly to about 704 bytes (22 words) and then quadratically. As a rule of thumb, first allocation is cheap, large allocations get expensive fast.
 
-**3. Storage.
-
-**Persistent storage. Each account has its own key-value store with `2^256` slots. Each slot holds a 32-byte word. Storage is part of global state, kept in that account's storage trie, and persists across blocks. Only the contract itself can read and write its storage. `SLOAD` reads, `SSTORE` writes. This is the most expensive persistent resource because it changes what every full node must keep.** 4. Calldata.
+#### 3. Storage.
+Persistent storage. Each account has its own key-value store with `2^256` slots. Each slot holds a 32-byte word. Storage is part of global state, kept in that account's storage trie, and persists across blocks. Only the contract itself can read and write its storage. `SLOAD` reads, `SSTORE` writes. This is the most expensive persistent resource because it changes what every full node must keep.** 4. Calldata.
 
 **Read-only, byte-addressable input that arrives with the transaction's `data` field. It holds the function selector and arguments. `CALLDATASIZE` returns length, `CALLDATALOAD` loads a word to the stack, `CALLDATACOPY` copies to memory. Calldata is where intrinsic transaction costs apply: 4 gas per zero byte, 16 per non-zero byte, plus the 21,000 base transaction cost defined in the Yellow Paper. Contract creation adds 32,000 gas before code runs.** Transient storage (since Cancun).
 
@@ -253,9 +252,8 @@ cast disassemble 0x608060405234801561000f575f80fd5b...
 
 Open the bytecode on evm.codes to map each byte to its opcode, gas, and stack effect. For a quick Yul test of memory, the ethereum.org walkthrough uses `mstore(0, 0x60A7)` to show that `MSTORE` expands memory to 32 bytes and pads with zeros.
 
-**3. Test gas and state touch.
-
-**Use Forge gas reports and trace on a fork. Mark hot paths and avoid repeated cold `SLOAD`. Cache a storage value in memory if you read it twice in the same call. Prefer `calldata` for read-only arrays over copying to `memory`. Add an access list with `eth_createAccessList` only after you have measured that pre-warming saves more than it costs.
+#### 3. Test gas and state touch.
+Use Forge gas reports and trace on a fork. Mark hot paths and avoid repeated cold `SLOAD`. Cache a storage value in memory if you read it twice in the same call. Prefer `calldata` for read-only arrays over copying to `memory`. Add an access list with `eth_createAccessList` only after you have measured that pre-warming saves more than it costs.
 
 Example optimized reentrancy guard with transient storage after Cancun:
 
@@ -276,9 +274,8 @@ contract Guarded {
 
 This replaces the storage guard that paid 20,100 gas for the set and clear with about 200 gas. Test with `evm_version = cancun` and assert that any internal call reverts if it reenters, that a reverted sub-call rolls back its `TSTORE`, and that your `DELEGATECALL` library does not reuse `LOCK_SLOT`.
 
-**4. Run on testnets first.
-
-**Use Sepolia or Holesky. Fund via a faucet, deploy with `forge create`, verify with `forge verify-contract` against the chain's explorer, then test force inclusion through L1 if you run on a rollup that exposes it. Many EVM L1s outside Ethereum have not yet activated Cancun semantics, so check `TSTORE` support before you ship transient logic cross-chain.** 5. Budget per block, not just per transaction.
+#### 4. Run on testnets first.
+Use Sepolia or Holesky. Fund via a faucet, deploy with `forge create`, verify with `forge verify-contract` against the chain's explorer, then test force inclusion through L1 if you run on a rollup that exposes it. Many EVM L1s outside Ethereum have not yet activated Cancun semantics, so check `TSTORE` support before you ship transient logic cross-chain.** 5. Budget per block, not just per transaction.
 
 **You share the block gas limit with everyone else. A contract that loops over unbounded arrays can become uncallable when state grows. Use pagination, Merkle proofs with `SHA3`, and events (`LOG0` to `LOG4`) for data you do not need to read on chain. Events cost 8 gas per byte versus 20,000 per storage slot.** 6. Harden upgrades and access.
 

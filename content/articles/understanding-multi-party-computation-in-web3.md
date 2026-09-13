@@ -48,39 +48,25 @@ Multi-Party Computation provides a different approach. Rather than depending on 
 ------------------------------------------------------------ | 
 
 ------------------------------------------------------------ |
-|
-
-**Mechanism**| Multiple individual keys, multiple on-chain signatures. | One key split into shares, single on-chain signature. |
-|
-
-**Location**| On-chain (logic is in a smart contract). | Off-chain (logic is in a cryptographic protocol). |
-|
-
-**Speed & Cost**| Slower and more expensive (multiple on-chain signatures). | Faster and cheaper (single on-chain signature). |
-|
-
-**Compatibility**| Limited to smart contract platforms (e.g., [Ethereum](/what-is-ethereum)). | Blockchain-agnostic. Works with any chain (e.g., Bitcoin). |
-|
-
-**Privacy**| Transparent. The signing policy is public on the blockchain. | Private. The signing policy is hidden, resembling a standard wallet. |
-|
-
-**Flexibility**| Changing signers can be complex and gas-intensive. | Easier off-chain adjustment of signers. |
+| **Mechanism** | Multiple individual keys, multiple on-chain signatures. | One key split into shares, single on-chain signature. |
+| **Location** | On-chain (logic is in a smart contract). | Off-chain (logic is in a cryptographic protocol). |
+| **Speed & Cost** | Slower and more expensive (multiple on-chain signatures). | Faster and cheaper (single on-chain signature). |
+| **Compatibility** | Limited to smart contract platforms (e.g., [Ethereum](/what-is-ethereum)). | Blockchain-agnostic. Works with any chain (e.g., Bitcoin). |
+| **Privacy** | Transparent. The signing policy is public on the blockchain. | Private. The signing policy is hidden, resembling a standard wallet. |
+| **Flexibility** | Changing signers can be complex and gas-intensive. | Easier off-chain adjustment of signers. |
 
 ### Use Cases for MPC in Web3
 
-**1. Institutional Custody
-
-**This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC enables the creation of complex security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.** 2. User-Friendly Wallets (Account Abstraction) **MPC is important for enabling**[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
+#### 1. Institutional Custody
+This represents a significant current application. Major institutions, such as cryptocurrency exchanges and custodians, use MPC to protect billions in customer assets. MPC enables the creation of complex security policies that require multiple approvals from various executives or geographical locations, all while avoiding the time and cost constraints associated with on-chain multisigs.** 2. User-Friendly Wallets (Account Abstraction) **MPC is important for enabling**[Account Abstraction](/account-abstraction-explained)**, particularly for social recovery options.
 - **Example:** A user's wallet could be secured using a 2-of-3 MPC scheme.
  - Key Share 1: Stored on their mobile device.
  - Key Share 2: Stored on their laptop.
  - Key Share 3: Held by a trusted third party or a friend.
 To execute a transaction, approval from two of these three entities is required. If the user loses their phone, they can use their laptop and the third party to regain access and add a new device.
 
-**3. Private Computation
-
-**Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
+#### 3. Private Computation
+Beyond signatures, MPC can enable multiple parties to compute results based on their private data without disclosing that data.
 - **Example: Salary Benchmarking:** A consortium of companies could use MPC to determine the average salary for a specific role, ensuring that no individual company discloses its salary information to others.
 
 ### Challenges and Conclusion

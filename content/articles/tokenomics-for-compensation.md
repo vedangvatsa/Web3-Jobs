@@ -31,15 +31,9 @@ A token grant typically includes the following components:
 -------------------------|
 
 -------------------------------------------------------------------------------------------------------------------------------------------------|
-|
-
-**Grant Size**| The total number of tokens allocated, expressed as a percentage of the total token supply and a relative value at the time of the grant. |
-|
-
-**Vesting Schedule **| The timeline over which the employee earns the right to their tokens, usually spanning** four years**. |
-|
-
-**Cliff **| A designated period at the start of the vesting schedule during which no tokens vest, typically a** one-year**cliff. |
+| **Grant Size** | The total number of tokens allocated, expressed as a percentage of the total token supply and a relative value at the time of the grant. |
+| **Vesting Schedule ** | The timeline over which the employee earns the right to their tokens, usually spanning** four years**. |
+| **Cliff ** | A designated period at the start of the vesting schedule during which no tokens vest, typically a** one-year**cliff. |
 
 #### 1. The Grant Size
 

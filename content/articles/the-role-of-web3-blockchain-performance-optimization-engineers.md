@@ -18,15 +18,13 @@ Performance Optimization Engineers excel in identifying and resolving bottleneck
 
 Performance optimization in Web3 encompasses multiple specializations, each focusing on distinct aspects of blockchain efficiency.
 
-**1. Smart Contract Gas Optimization
-
-**This specialization is the most prevalent among performance roles. Engineers in this area write [Solidity](/best-programming-languages-for-blockchain-development) code to minimize gas consumption. 
+#### 1. Smart Contract Gas Optimization
+This specialization is the most prevalent among performance roles. Engineers in this area write [Solidity](/best-programming-languages-for-blockchain-development) code to minimize gas consumption. 
 - **Duties:** They employ strategies such as reducing state writes, using `calldata` efficiently, and implementing data packing (struct packing). Mastery of the EVM's gas cost schedule is essential. 
 - **Skills:** Proficiency in Solidity and a deep understanding of the EVM. For further insights, refer to our [guide to gas optimization](/gas-optimization-techniques-for-solidity-developers).
 
-**2. Protocol-Level Performance Engineering
-
-**Core developers in this specialization focus on blockchain clients (e.g., Go-[Ethereum](/what-is-ethereum) or Reth) to enhance the blockchain's performance. 
+#### 2. Protocol-Level Performance Engineering
+Core developers in this specialization focus on blockchain clients (e.g., Go-[Ethereum](/what-is-ethereum) or Reth) to enhance the blockchain's performance. 
 - **Duties:** Their work includes optimizing the client's database for improved read and write speeds, enhancing the consensus algorithm's efficiency, and accelerating transaction processing within the EVM. 
 - **Skills:** Systems programming expertise in
 
@@ -38,9 +36,8 @@ Performance optimization in Web3 encompasses multiple specializations, each focu
 - **Duties:** Their primary goal is to minimize latency in transaction and block propagation across the global network of nodes. Reducing latency is vital for lowering the risk of reorgs and enhancing overall network reliability. 
 - **Skills:** A deep understanding of networking protocols (TCP/IP, UDP) and distributed systems is essential.
 
-**4. dApp Backend and Indexing Performance
-
-**To ensure a dApp's frontend operates swiftly, its off-chain backend must function optimally. 
+#### 4. dApp Backend and Indexing Performance
+To ensure a dApp's frontend operates swiftly, its off-chain backend must function optimally. 
 - **Duties:** These engineers construct and refine indexing services that relay data from the blockchain to the user interface. Their responsibilities include optimizing database queries (SQL), building efficient caching layers, and ensuring the backend can manage high traffic loads. 
 - **Skills:** Expertise in traditional backend engineering (Node.js, Go), database optimization, and familiarity with indexing protocols like [The Graph](/your-first-subgraph-indexing-blockchain-data-with-the-graph).
 

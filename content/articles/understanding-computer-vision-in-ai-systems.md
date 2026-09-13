@@ -39,21 +39,11 @@ Computer vision encompasses a range of tasks rather than a single problem:
 -----------------------|
 
 ---------------------------------------------------------------------------------------------------------------|
-|
-
-**Image Classification**| Classifies an entire image into a single category, such as identifying whether an image features a cat, dog, or bird. |
-|
-
-**Object Detection**| Goes beyond classification by identifying specific objects in an image and drawing bounding boxes around them. This task is important for applications like self-driving cars. |
-|
-
-**Image Segmentation**| Provides pixel-level classification, allowing for detailed understanding of the scene. For instance, in a street scene, cars might be colored blue, the road gray, and pedestrians red. |
-|
-
-**Facial Recognition**| A specialized form of object detection aimed at identifying specific human faces. |
-|
-
-**Optical Character Recognition (OCR)**| Extracts text from images, enabling tasks like reading license plates or converting scanned documents into editable text. |
+| **Image Classification** | Classifies an entire image into a single category, such as identifying whether an image features a cat, dog, or bird. |
+| **Object Detection** | Goes beyond classification by identifying specific objects in an image and drawing bounding boxes around them. This task is important for applications like self-driving cars. |
+| **Image Segmentation** | Provides pixel-level classification, allowing for detailed understanding of the scene. For instance, in a street scene, cars might be colored blue, the road gray, and pedestrians red. |
+| **Facial Recognition** | A specialized form of object detection aimed at identifying specific human faces. |
+| **Optical Character Recognition (OCR)** | Extracts text from images, enabling tasks like reading license plates or converting scanned documents into editable text. |
 
 ### Real-World Applications
 

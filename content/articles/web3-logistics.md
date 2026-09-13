@@ -26,18 +26,10 @@ A fundamental issue in traditional logistics is the absence of a single source o
 ---------|
 
 -------------|
-|
-
-**Opacity**| Companies struggle to gain real-time visibility into their goods' locations. |
-|
-
-**Inefficiency and Delays**| Discrepancies between records necessitate manual reconciliation, causing delays at ports and border crossings. |
-|
-
-**Fraud and Counterfeiting**| Verifying the authenticity of goods is challenging, allowing counterfeit products to infiltrate the supply chain. |
-|
-
-**Complex Payments**| Cross-border transactions involve slow and costly intermediaries and letters of credit. |
+| **Opacity** | Companies struggle to gain real-time visibility into their goods' locations. |
+| **Inefficiency and Delays** | Discrepancies between records necessitate manual reconciliation, causing delays at ports and border crossings. |
+| **Fraud and Counterfeiting** | Verifying the authenticity of goods is challenging, allowing counterfeit products to infiltrate the supply chain. |
+| **Complex Payments** | Cross-border transactions involve slow and costly intermediaries and letters of credit. |
 
 ### Web3: A Solution Through a Shared, Immutable Ledger
 
@@ -82,15 +74,9 @@ Numerous enterprise blockchain initiatives have surfaced, but a new wave of star
 ----------|
 
 -------------|
-|
-
-**Enterprise Blockchain Platforms**| Projects on permissioned blockchains like Hyperledger Fabric focus on corporate consortiums, such as TradeLens, developed by IBM and Maersk. |
-|
-
-**Public Blockchain Solutions**| New projects use public blockchains like [Ethereum](/what-is-ethereum) and its Layer 2 solutions for more open and interoperable supply chain applications. |
-|
-
-**DePIN Narrative**| Decentralized Physical Infrastructure Networks (DePIN) are developing protocols that incentivize users to contribute to shared infrastructure, such as global IoT sensor networks for shipment tracking. |
+| **Enterprise Blockchain Platforms** | Projects on permissioned blockchains like Hyperledger Fabric focus on corporate consortiums, such as TradeLens, developed by IBM and Maersk. |
+| **Public Blockchain Solutions** | New projects use public blockchains like [Ethereum](/what-is-ethereum) and its Layer 2 solutions for more open and interoperable supply chain applications. |
+| **DePIN Narrative** | Decentralized Physical Infrastructure Networks (DePIN) are developing protocols that incentivize users to contribute to shared infrastructure, such as global IoT sensor networks for shipment tracking. |
 
 ### Challenges and Future Directions
 

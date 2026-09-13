@@ -24,24 +24,12 @@ Understanding this architectural difference is essential for grasping [Web3](/wh
 --------------------------------------------|
 
 -----------------------------------------------|
-| 
-
-**Backend**| Operates on private, centralized servers (e.g., AWS) | Operates on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
-|
-
-**Control **| Managed by a single company | Governed by a community of users (often a**[DAO](/what-is-a-dao)**) |
-|
-
-**Data Storage**| User data resides on company servers | Data is stored on the public blockchain |
-|
-
-**Censorship**| Companies can censor or remove content/users | Transactions and data resist censorship |
-|
-
-**Identity **| Users log in with an email and password | Users log in by connecting a**[crypto wallet](/how-to-choose-a-crypto-wallet)**|
-|
-
-**Payments**| Uses traditional payment processors | Employs native cryptocurrencies for transactions |
+| **Backend** | Operates on private, centralized servers (e.g., AWS) | Operates on a public, decentralized [blockchain](/what-is-a-blockchain) (e.g., Ethereum) |
+| **Control ** | Managed by a single company | Governed by a community of users (often a**[DAO](/what-is-a-dao)**) |
+| **Data Storage** | User data resides on company servers | Data is stored on the public blockchain |
+| **Censorship** | Companies can censor or remove content/users | Transactions and data resist censorship |
+| **Identity ** | Users log in with an email and password | Users log in by connecting a**[crypto wallet](/how-to-choose-a-crypto-wallet)**|
+| **Payments** | Uses traditional payment processors | Employs native cryptocurrencies for transactions |
 
 ### Structure of a dApp
 

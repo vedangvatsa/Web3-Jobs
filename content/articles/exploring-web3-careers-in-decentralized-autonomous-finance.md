@@ -20,13 +20,9 @@ This article explores key job roles within the DeFi ecosystem, the skills necess
 
 Understanding the various components that comprise the DeFi ecosystem is critical in identifying your niche within this field. Here are the primary categories:
 
-| 
+| **Category** |
 
-**Category**|
-
-**Description**|
-
-**Examples**|
+**Description**| **Examples** |
 |
 
 --------------------------------|

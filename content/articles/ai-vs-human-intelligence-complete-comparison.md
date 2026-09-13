@@ -130,9 +130,8 @@ Use this as a working split, not a ranking.
 - Check for memorization. Keep training data deduplicated where you can. For image models, test whether a prompt reproduces near-copies of training data before you publish.
 - Provide a path to contest a decision. Let affected people request human review and get a plain-language explanation of what the system used.
 
-**4. Plan for drift.
-
-**Models and data change. Population behavior, camera quality, and language use shift. Re-test sliced metrics monthly, not once. Update documentation when the use or data source changes.
+#### 4. Plan for drift.
+Models and data change. Population behavior, camera quality, and language use shift. Re-test sliced metrics monthly, not once. Update documentation when the use or data source changes.
 
 ### Frequently Asked Questions
 

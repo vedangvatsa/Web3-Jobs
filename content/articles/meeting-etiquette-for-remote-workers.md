@@ -38,18 +38,10 @@ An agenda is important for a productive meeting.
 ----------------|
 
 -------------|
-| 
-
-**Goal**| Start with a concise, one-sentence goal outlining the desired outcome of the meeting. |
-|
-
-**Discussion Topics**| Frame agenda items as questions. This shifts the focus to actionable outcomes rather than mere topics. Examples: <br> - Bad: "Q3 Marketing Plan" <br> - Good: "Should we allocate the Q3 marketing budget to paid ads or content marketing?" |
-|
-
-**Time Allocation**| Assign a specific time for each agenda item to maintain pace. |
-|
-
-**Advance Distribution**| Share the agenda at least 24 hours before the meeting to give attendees time to prepare. |
+| **Goal** | Start with a concise, one-sentence goal outlining the desired outcome of the meeting. |
+| **Discussion Topics** | Frame agenda items as questions. This shifts the focus to actionable outcomes rather than mere topics. Examples: <br> - Bad: "Q3 Marketing Plan" <br> - Good: "Should we allocate the Q3 marketing budget to paid ads or content marketing?" |
+| **Time Allocation** | Assign a specific time for each agenda item to maintain pace. |
+| **Advance Distribution** | Share the agenda at least 24 hours before the meeting to give attendees time to prepare. |
 
 ### 3. Test Your Technology
 

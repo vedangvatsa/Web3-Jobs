@@ -57,14 +57,10 @@ Begin with foundational blockchain knowledge and choose your specialization:
 --------------------------|
 
 -----------------------------------------------------------------------------------------------------------------|
-|
-
-**Developers**| 
+| **Developers** | 
 
 - Learn Solidity through platforms like Udemy, Coursera, or freeCodeCamp.<br>- Build 3-4 smart contract projects on GitHub.<br>- Contribute to open-source projects (e.g., [Ethereum](/what-is-ethereum), Solana, Hyperledger).<br>- Study smart contract security best practices. |
-|
-
-**Business/Strategy Professionals**| 
+| **Business/Strategy Professionals** | 
 
 - Explore blockchain applications in supply chain, energy, and trade finance.<br>- Study platforms such as Hyperledger Fabric and Corda.<br>- Take courses on governance and institutional adoption.<br>- Analyze case studies of successful blockchain implementations in similar sectors. |
 
@@ -154,15 +150,9 @@ Beyond energy, Equatorial Guinea's geographical position offers potential as a r
 ---------------------------------|
 
 ---------------------------------------------------------------------------------------------------------------|
-|
-
-**Remittance Infrastructure**| Like many African nations, Equatorial Guinea could benefit from faster and cheaper money transfer corridors for diaspora remittances. |
-|
-
-**CBDC Development**| Should Equatorial Guinea pursue a central bank digital currency, demand for expert developers and architects will rise. |
-|
-
-**Cross-Border Trade Finance**| With ports and regional trade connections, blockchain-based solutions for customs and trade settlements could provide significant value. |
+| **Remittance Infrastructure** | Like many African nations, Equatorial Guinea could benefit from faster and cheaper money transfer corridors for diaspora remittances. |
+| **CBDC Development** | Should Equatorial Guinea pursue a central bank digital currency, demand for expert developers and architects will rise. |
+| **Cross-Border Trade Finance** | With ports and regional trade connections, blockchain-based solutions for customs and trade settlements could provide significant value. |
 
 ## Common Challenges and Solutions
 
@@ -181,15 +171,9 @@ As a remote Web3 professional based in Malabo, salary expectations can vary sign
 ---------------------------------|
 
 -----------------------------------------------|
-|
-
-**Junior Developer (1-2 years)**| Varies based on experience and location. |
-|
-
-**Mid-Level Developer (3-5 years)**| Varies based on experience and location. |
-|
-
-**Senior Developer (5+ years)**| Varies based on experience and location. |
+| **Junior Developer (1-2 years)** | Varies based on experience and location. |
+| **Mid-Level Developer (3-5 years)** | Varies based on experience and location. |
+| **Senior Developer (5+ years)** | Varies based on experience and location. |
 |
 
 **Blockchain Consultant** | Varies based on project scope and expertise. |

@@ -35,24 +35,12 @@ Despite the sophistication of some rug pulls, many exhibit common warning signs.
 -----------------------------|
 
 --------------------------------------------------------------------------------------------------------------------------------------|
-|
-
-**Anonymous Team**| Developers operate under pseudonyms or remain anonymous without a proven track record. Public, reputable teams enhance accountability. |
-|
-
-**Lack of Audit **| The project's [smart contracts](/what-are-smart-contracts) lack audits from reputable**[security firms](/how-to-choose-a-smart-contract-auditor)**, increasing risk. |
-|
-
-**open Liquidity**| If liquidity is not "locked" in a smart contract, it raises significant concerns about the project's legitimacy. |
-|
-
-**Vague Whitepaper**| A whitepaper filled with buzzwords and lacking technical detail or one that is plagiarized from other projects should raise alarms. |
-|
-
-**Unrealistic Returns**| Promises of "guaranteed" returns or excessively high returns typically indicate a scam. |
-|
-
-**Selling Restrictions **| In advanced scams, such as**[honeypots](/what-is-a-honeypot-scam-in-crypto)**, tokens are designed so only the developer can sell. Conduct a small test transaction before committing larger amounts. |
+| **Anonymous Team** | Developers operate under pseudonyms or remain anonymous without a proven track record. Public, reputable teams enhance accountability. |
+| **Lack of Audit ** | The project's [smart contracts](/what-are-smart-contracts) lack audits from reputable**[security firms](/how-to-choose-a-smart-contract-auditor)**, increasing risk. |
+| **open Liquidity** | If liquidity is not "locked" in a smart contract, it raises significant concerns about the project's legitimacy. |
+| **Vague Whitepaper** | A whitepaper filled with buzzwords and lacking technical detail or one that is plagiarized from other projects should raise alarms. |
+| **Unrealistic Returns** | Promises of "guaranteed" returns or excessively high returns typically indicate a scam. |
+| **Selling Restrictions ** | In advanced scams, such as**[honeypots](/what-is-a-honeypot-scam-in-crypto)**, tokens are designed so only the developer can sell. Conduct a small test transaction before committing larger amounts. |
 |
 
 **Intense Hype** | Projects that emerge suddenly and are heavily promoted by anonymous accounts may be part of a coordinated pump-and-dump scheme. |

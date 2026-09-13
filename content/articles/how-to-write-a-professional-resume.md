@@ -26,15 +26,9 @@ Selecting an appropriate resume format is critical. The three primary formats ar
 ---------------------------------------------------------------------------------------------|
 
 -------------------------------------------|
-| 
-
-**Reverse-Chronological**| Lists your work experience in reverse order, starting with your most recent position. | Individuals with a consistent work history.|
-|
-
-**Functional**| Emphasizes skills and qualifications over work history. | Those changing careers or with employment gaps.|
-|
-
-**Combination**| Combines elements of both formats, starting with a skills summary followed by work history. | Candidates with diverse skill sets and experiences.|
+| **Reverse-Chronological** | Lists your work experience in reverse order, starting with your most recent position. | Individuals with a consistent work history.|
+| **Functional** | Emphasizes skills and qualifications over work history. | Those changing careers or with employment gaps.|
+| **Combination** | Combines elements of both formats, starting with a skills summary followed by work history. | Candidates with diverse skill sets and experiences.|
 
 Most professionals benefit from the reverse-chronological format, as it clearly presents career progression and aligns with recruiter expectations.
 

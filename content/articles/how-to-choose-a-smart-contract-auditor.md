@@ -35,18 +35,10 @@ This group comprises the most respected and sought-after audit firms in the indu
 -------------------------------------------------------------------------------------------------------|
 
 --------------------------------------------------|
-|
-
-**Trail of Bits**| Security research, expertise in both Web3 and traditional cybersecurity | Various notable blockchain projects |
-|
-
-**OpenZeppelin**| Developers of the most widely used library of secure smart contracts | Various notable blockchain projects |
-|
-
-**ConsenSys Diligence**| Long history in Web3 security, part of the ConsenSys ecosystem (MetaMask, Infura) | Various notable blockchain projects |
-|
-
-**Spearbit**| Decentralized model connecting projects with top independent security researchers | Various new and established Web3 projects |
+| **Trail of Bits** | Security research, expertise in both Web3 and traditional cybersecurity | Various notable blockchain projects |
+| **OpenZeppelin** | Developers of the most widely used library of secure smart contracts | Various notable blockchain projects |
+| **ConsenSys Diligence** | Long history in Web3 security, part of the ConsenSys ecosystem (MetaMask, Infura) | Various notable blockchain projects |
+| **Spearbit** | Decentralized model connecting projects with top independent security researchers | Various new and established Web3 projects |
 
 ### Tier 2: Reputable and Established Firms
 
@@ -60,15 +52,9 @@ This tier includes a diverse array of capable and professional audit firms.
 --------------------------------------------------------------|
 
 --------------------------------------------------|
-|
-
-**CertiK**| Large firm known for detailed reports and formal verification | Various notable blockchain projects |
-|
-
-**Quantstamp**| Strong track record in the DeFi sector | Various notable blockchain projects |
-|
-
-**Halborn**| Focus on a broad range of security services | Various DeFi projects, NFT platforms |
+| **CertiK** | Large firm known for detailed reports and formal verification | Various notable blockchain projects |
+| **Quantstamp** | Strong track record in the DeFi sector | Various notable blockchain projects |
+| **Halborn** | Focus on a broad range of security services | Various DeFi projects, NFT platforms |
 
 ### Tier 3: Competitive Auditing Platforms and Independent Researchers
 
@@ -82,15 +68,9 @@ This newer model uses a crowd of independent security researchers, providing an 
 -----------------------------------------------------------------------------------------------------------|
 
 --------------------------------------|
-|
-
-**Code4rena (C4)**| Competitive audits where participants compete to find vulnerabilities in exchange for rewards | Pay based on severity of findings |
-|
-
-**Sherlock**| Combines audits with an insurance model for added protection against exploits | Coverage against certain exploit types|
-|
-
-**Independent Researchers**| Freelancers with proven track records often found through C4 contests or public research | Highly specialized expertise |
+| **Code4rena (C4)** | Competitive audits where participants compete to find vulnerabilities in exchange for rewards | Pay based on severity of findings |
+| **Sherlock** | Combines audits with an insurance model for added protection against exploits | Coverage against certain exploit types|
+| **Independent Researchers** | Freelancers with proven track records often found through C4 contests or public research | Highly specialized expertise |
 
 ### Selecting the Right Auditor
 

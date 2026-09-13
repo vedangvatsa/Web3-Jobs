@@ -47,12 +47,8 @@ Discussions about Web3 compensation often focus solely on base salary. A complet
 --------------------|
 
 --------------------------------------------------------------|
-|
-
-**Base Salary**| Paid in fiat currency (e.g., USD), offering stability. Web3 salaries are typically higher than Web2 equivalents. |
-|
-
-**Token Grant**| A high-upside component that vests over time (usually 4 years). This can lead to significant wealth creation. |
+| **Base Salary** | Paid in fiat currency (e.g., USD), offering stability. Web3 salaries are typically higher than Web2 equivalents. |
+| **Token Grant** | A high-upside component that vests over time (usually 4 years). This can lead to significant wealth creation. |
 |
 
 **Equity** | In centralized companies operating within Web3, traditional stock options may also be included. |

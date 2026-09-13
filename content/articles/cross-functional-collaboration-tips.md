@@ -36,18 +36,10 @@ The project charter should be a living document encompassing:
 ---------------------|
 
 -------------------------------------------------------------|
-|
-
-**The Goal**| The North Star metric defined earlier. |
-|
-
-**The Team**| A list of all team members and their roles, including the DRI. |
-|
-
-**The Scope**| Define what the project includes and excludes. |
-|
-
-**The Communication Plan**| Outline communication methods, meeting frequency, and how progress will be reported to stakeholders. |
+| **The Goal** | The North Star metric defined earlier. |
+| **The Team** | A list of all team members and their roles, including the DRI. |
+| **The Scope** | Define what the project includes and excludes. |
+| **The Communication Plan** | Outline communication methods, meeting frequency, and how progress will be reported to stakeholders. |
 |
 
 **The Timeline** | Key milestones and the target completion date. |

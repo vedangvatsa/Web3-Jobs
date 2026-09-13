@@ -18,17 +18,15 @@ This article examines the underlying reasons for the Web3 talent shortage and ou
 
 ### The Root Causes of the Talent Gap
 
-**1. Steep Learning Curve
-
-**Transitioning to Web3 involves more than adopting new technologies; it requires a fundamental shift in thinking and understanding complex concepts.
+#### 1. Steep Learning Curve
+Transitioning to Web3 involves more than adopting new technologies; it requires a fundamental shift in thinking and understanding complex concepts.
 
 - **Technical Complexity:** Developers must grasp more than programming languages like [Solidity](/best-programming-languages-for-blockchain-development). They must comprehend the Ethereum Virtual Machine (EVM), gas optimization, cryptographic principles, and the many security risks inherent in the ecosystem, where even a minor error can lead to significant losses.
 
 - **Cultural Complexity:** Marketers in Web3 cannot simply apply traditional advertising strategies. They must understand the unique, meme-driven culture of crypto, community governance dynamics, and principles for brand building in a decentralized environment.
 
-**2. The "Crypto-Native" Dilemma
-
-**Job postings often require "crypto-native" experience, creating a paradox for newcomers. Candidates struggle to enter the field without prior experience, which deters talented professionals with relevant skills but limited crypto exposure. This insularity makes it difficult for the industry to diversify its talent pool.** 3. High-Risk Environment
+#### 2. The "Crypto-Native" Dilemma
+Job postings often require "crypto-native" experience, creating a paradox for newcomers. Candidates struggle to enter the field without prior experience, which deters talented professionals with relevant skills but limited crypto exposure. This insularity makes it difficult for the industry to diversify its talent pool.** 3. High-Risk Environment
 
 **The volatile nature of cryptocurrency markets deters many professionals from transitioning from stable Web2 roles. The prospect of tying a significant portion of personal wealth to fluctuating [tokens](/what-is-a-token) or risking project treasuries during downturns is a considerable concern. The industry must address the legitimacy of Web3 careers to attract talent willing to accept such risks.
 
@@ -36,9 +34,8 @@ This article examines the underlying reasons for the Web3 talent shortage and ou
 
 Addressing the talent crisis requires a collaborative approach from projects, [DAOs](/what-is-a-dao), and the broader community.
 
-**1. Invest in Education and Onboarding
-
-**The industry must improve accessibility to educational resources.
+#### 1. Invest in Education and Onboarding
+The industry must improve accessibility to educational resources.
 
 - **Enhanced Documentation:** Protocols should prioritize developing high-quality documentation that simplifies technology comprehension and usage. Hiring skilled [technical writers](/technical-writer-web3-jobs) is essential for creating clear guides and tutorials.
 
@@ -46,17 +43,15 @@ Addressing the talent crisis requires a collaborative approach from projects, [D
 
 - **Support for Independent Educators:** The ecosystem should provide grants and resources for independent creators, podcasters, and tutorial-makers who contribute to public education.
 
-**2. Establish Clear Paths to Contribution
-
-**Simplifying the process for newcomers to contribute meaningfully will help bridge the talent gap.
+#### 2. Establish Clear Paths to Contribution
+Simplifying the process for newcomers to contribute meaningfully will help bridge the talent gap.
 
 - **Bounty Programs:** Creating well-structured bounty programs allows newcomers to earn their first "proof of work." Tasks should be clearly defined, and compensation should be prompt to encourage participation.
 
 - **Mentorship Opportunities:** Pairing experienced Web3 veterans with newcomers through formal or informal mentorship programs can significantly enhance the learning curve.
 
-**3. Hire for Aptitude Over Experience
-
-**While prior crypto experience is beneficial, raw intelligence, adaptability, and genuine interest in Web3 often prove more valuable.
+#### 3. Hire for Aptitude Over Experience
+While prior crypto experience is beneficial, raw intelligence, adaptability, and genuine interest in Web3 often prove more valuable.
 
 - **Broaden Recruitment Criteria:** Hiring managers should consider candidates from outside Web3 who demonstrate proven problem-solving capabilities and a strong desire to learn.
 

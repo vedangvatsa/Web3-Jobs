@@ -28,15 +28,13 @@ The absence of clarity generates uncertainty for nearly every project in the sec
 
 ### Key Regulatory Risks for Web3 Professionals
 
-**1. Project Viability Risk
-
-**The most immediate risk involves potential regulatory actions against the project you work for.
+#### 1. Project Viability Risk
+The most immediate risk involves potential regulatory actions against the project you work for.
 - **Enforcement Actions:** A lawsuit from the SEC can devastate a project, consuming resources with legal fees and complicating efforts to list its token on major exchanges.
 - **Consequences for You:** Such actions could lead to job loss or a dramatic decline in the value of token-based compensation.
 
-**2. Sanctions Compliance Risk
-
-**As [DeFi](/what-is-defi) gains traction, scrutiny from agencies like the U.S. Treasury's Office of Foreign Assets Control (OFAC) increases.
+#### 2. Sanctions Compliance Risk
+As [DeFi](/what-is-defi) gains traction, scrutiny from agencies like the U.S. Treasury's Office of Foreign Assets Control (OFAC) increases.
 - **The Challenge:** DeFi protocols aim to remain open and permissionless. However, OFAC mandates that U.S. entities not engage with sanctioned individuals or nations. In 2022, OFAC sanctioned a [smart contract](/what-are-smart-contracts), Tornado Cash.
 - **The Impact:** Projects face tough choices. They must decide between adhering to decentralization principles or implementing on-chain censorship to block sanctioned addresses. If you work for such a project, you will participate in these critical discussions.
 

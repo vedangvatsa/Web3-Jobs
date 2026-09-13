@@ -25,21 +25,11 @@ Several factors often converge to trigger this professional identity crisis:
 -------------------------------|
 
 -----------------------------------------------------------------------------------------------------------|
-| 
-
-**Shift in Values**| Motivators from your 20s, such as money and status, may have shifted to a desire for purpose and balance.|
-|
-
-**Burnout**| Prolonged exposure to high-pressure environments can lead to exhaustion and diminished enthusiasm. |
-|
-
-**Mortality Awareness**| As you enter middle age, the awareness that time is limited may prompt a desire for meaningful work. |
-|
-
-**The Arrival Fallacy**| Achieving a long-sought goal, like a promotion to Director, may not bring the anticipated happiness. |
-|
-
-**Industry Disruption**| Changes in your industry due to technology or market shifts can render your skills less relevant. |
+| **Shift in Values** | Motivators from your 20s, such as money and status, may have shifted to a desire for purpose and balance.|
+| **Burnout** | Prolonged exposure to high-pressure environments can lead to exhaustion and diminished enthusiasm. |
+| **Mortality Awareness** | As you enter middle age, the awareness that time is limited may prompt a desire for meaningful work. |
+| **The Arrival Fallacy** | Achieving a long-sought goal, like a promotion to Director, may not bring the anticipated happiness. |
+| **Industry Disruption** | Changes in your industry due to technology or market shifts can render your skills less relevant. |
 
 ### A Survival Guide for Working through Your Crisis
 

@@ -45,9 +45,7 @@ When an Optimistic Rollup sequencer submits a batch of transactions to Layer 1, 
 
 ### Pros and Cons
 
-|
-
-**Pros**|
+| **Pros** |
 
 **Cons**|
 |
@@ -69,9 +67,7 @@ For each batch of transactions, the ZK-Rollup's operator (referred to as a "prov
 
 ### Pros and Cons
 
-|
-
-**Pros**|
+| **Pros** |
 
 **Cons**|
 |

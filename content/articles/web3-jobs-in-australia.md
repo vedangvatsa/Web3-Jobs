@@ -19,9 +19,7 @@ The Australian market emphasizes Decentralized Finance ([DeFi](/what-is-defi)), 
 
 Australia's crypto ecosystem ranks among the most developed in the Asia-Pacific region, driven by several factors:
 
-| 
-
-**Key Factors**|
+| **Key Factors** |
 
 **Details**|
 |
@@ -29,18 +27,10 @@ Australia's crypto ecosystem ranks among the most developed in the Asia-Pacific 
 -------------------------------------|
 
 -------------------------------------------------------------------------------------------------|
-|
-
-**High Adoption Rates**| Australians have a strong interest in cryptocurrencies, supported by high disposable income and a culture of investment. |
-|
-
-**Regulatory Clarity**| Australian regulators take a consultative approach, creating an environment conducive to both local and international startups. |
-|
-
-**Strong Talent Pool**| A highly educated workforce with skills in finance, technology, and creative industries supports Web3 companies. |
-|
-
-**Major Hubs**|
+| **High Adoption Rates** | Australians have a strong interest in cryptocurrencies, supported by high disposable income and a culture of investment. |
+| **Regulatory Clarity** | Australian regulators take a consultative approach, creating an environment conducive to both local and international startups. |
+| **Strong Talent Pool** | A highly educated workforce with skills in finance, technology, and creative industries supports Web3 companies. |
+| **Major Hubs** |
 
 **Sydney** serves as a financial capital for DeFi and fintech, while
 
@@ -60,13 +50,9 @@ Australia hosts several globally recognized Web3 firms and new startups:
 
 The demand for Web3 talent in Australia remains strong, particularly for experienced technical professionals. Salaries in this sector frequently exceed those in traditional tech roles.
 
-|
+| **Role** |
 
-**Role**|
-
-**Experience Level**|
-
-**Salary Range**|
+**Experience Level**| **Salary Range** |
 |
 
 --------------------------------------|
@@ -81,13 +67,9 @@ The demand for Web3 talent in Australia remains strong, particularly for experie
 | | 
 
 *Note: Token allocations can significantly increase total compensation.* |
-| 
-
-**Frontend/Full-Stack Web3 Engineer (React, Ethers.js/Viem)**| Mid-Level | Competitive |
+| **Frontend/Full-Stack Web3 Engineer (React, Ethers.js/Viem)** | Mid-Level | Competitive |
 | | Senior | Competitive |
-|
-
-**Non-Technical Roles**| Product Manager | Competitive |
+| **Non-Technical Roles** | Product Manager | Competitive |
 | | Marketing Manager | Competitive |
 | | Community Manager | Competitive |
 

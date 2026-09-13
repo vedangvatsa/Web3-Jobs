@@ -26,13 +26,9 @@ Bamako's Web3 ecosystem is being constructed from the ground up, motivated by ne
 
 The formal Web3 job market in Bamako currently offers limited opportunities. However, Malian professionals can develop globally competitive skills and secure [remote work](/remote-work-in-web3) with international companies.
 
-|
+| **Role** |
 
-**Role**|
-
-**Description**|
-
-**Salary Range**|
+**Description**| **Salary Range** |
 |
 
 --------------------------------------------------|
@@ -64,9 +60,7 @@ The formal Web3 job market in Bamako currently offers limited opportunities. How
 
 The following table summarizes expected salaries for various positions in Bamako's Web3 ecosystem.
 
-|
-
-**Role**|
+| **Role** |
 
 **Compensation**|
 |
@@ -87,9 +81,7 @@ The following table summarizes expected salaries for various positions in Bamako
 
 **Cost of Living in Bamako:** A developer earning a competitive salary monthly can expect the following expenses:
 
-|
-
-**Expense**|
+| **Expense** |
 
 **Cost**|
 |
@@ -101,12 +93,8 @@ The following table summarizes expected salaries for various positions in Bamako
 | Food & living costs | Varies |
 | Transportation | Varies |
 | Internet/utilities | Varies |
-|
-
-**Total Living**| Varies |
-|
-
-**Savings Potential**| Varies |
+| **Total Living** | Varies |
+| **Savings Potential** | Varies |
 
 ### Career Path 1: Mobile-First Developer (8-14 months)
 

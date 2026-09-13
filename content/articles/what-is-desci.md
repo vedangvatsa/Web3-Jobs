@@ -48,9 +48,7 @@ Institutional competition often prevents effective collaboration across research
 
 DeSci promotes community-driven funding models that allow stakeholders to decide which research projects to support. Projects like VitaDAO exemplify this approach. VitaDAO focuses on longevity research, allowing its community members to vote on funding decisions. This model diversifies funding sources and reduces the influence of established institutions.
 
-|
-
-**Benefits of Community-Driven Funding**|
+| **Benefits of Community-Driven Funding** |
 
 **Description**|
 |
@@ -75,9 +73,7 @@ DeSci advocates for open access to scientific knowledge. Projects like PubDAO an
 
 DeSci employs decentralized storage networks, such as IPFS and blockchain technology, to create transparent and auditable research records. This practice allows raw data and methodologies to be publicly available, ensuring findings can be verified and reproduced.
 
-|
-
-**Benefits of Transparent Research**|
+| **Benefits of Transparent Research** |
 
 **Description** |
 |

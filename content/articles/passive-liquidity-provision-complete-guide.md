@@ -25,21 +25,13 @@ This guide outlines passive liquidity provision, including its advantages, inher
 -----------------------------|
 
 ------------------------------------------------------------------------------------------------------|
-| 
-
-**Core Concept**| Users deposit assets into a liquidity pool and earn fees with minimal active management. |
+| **Core Concept** | Users deposit assets into a liquidity pool and earn fees with minimal active management. |
 |
 
 **The Original Model** | Uniswap v2 operates on a simple `x * y = k` principle, allowing LPs to earn fees from trades. |
-| 
-
-**Primary Risk **| The main risk is** impermanent loss**, occurring when the assets' prices diverge significantly. |
-|
-
-**Challenges of Modern AMMs**| Protocols like Uniswap v3 require active management to maintain positions within a specific price range. |
-|
-
-**Modern Solutions**| Third-party protocols (Liquidity Managers) such as Arrakis Finance and Gamma automate strategies for users. |
+| **Primary Risk ** | The main risk is** impermanent loss**, occurring when the assets' prices diverge significantly. |
+| **Challenges of Modern AMMs** | Protocols like Uniswap v3 require active management to maintain positions within a specific price range. |
+| **Modern Solutions** | Third-party protocols (Liquidity Managers) such as Arrakis Finance and Gamma automate strategies for users. |
 
 ### The Classic Model: Passive Liquidity Provision on Uniswap v2
 

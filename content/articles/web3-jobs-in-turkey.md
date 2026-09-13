@@ -27,18 +27,10 @@ Turkey's crypto market boasts a vast and engaged user base. The country consiste
 -----------------------------|
 
 -------------------------------------------------------------------------------------------------------------------------------------------------------|
-| 
-
-**Adoption Rate**| Turkey consistently ranks among the top countries globally for crypto adoption. |
-|
-
-**Gaming & Metaverse Hub**| A strong gaming culture has led to numerous Web3 gaming initiatives, with players deeply familiar with virtual economies. |
-|
-
-**Active Trading Culture**| Turkish users are among the most active on cryptocurrency exchanges, prompting platforms like Binance and Bybit to focus on the Turkish market. |
-|
-
-**Community Engagement**| Istanbul hosts major events such as [Blockchain](/what-is-a-blockchain) Economy Istanbul and ETHGlobal Istanbul, showcasing the city's significance in the global Web3 community. |
+| **Adoption Rate** | Turkey consistently ranks among the top countries globally for crypto adoption. |
+| **Gaming & Metaverse Hub** | A strong gaming culture has led to numerous Web3 gaming initiatives, with players deeply familiar with virtual economies. |
+| **Active Trading Culture** | Turkish users are among the most active on cryptocurrency exchanges, prompting platforms like Binance and Bybit to focus on the Turkish market. |
+| **Community Engagement** | Istanbul hosts major events such as [Blockchain](/what-is-a-blockchain) Economy Istanbul and ETHGlobal Istanbul, showcasing the city's significance in the global Web3 community. |
 
 ### In-Demand Roles and Salary Expectations
 

@@ -80,15 +80,7 @@ The dynamics of the [Web3 job](/web3-jobs-for-beginners) market differ significa
 --------------------------------------|
 
 --------------------------------------|
-|
-
-**Compensation**| Standard base salary | Generally higher base salary, bonuses |
-|
-
-**Work Environment**| Hybrid or in-office | Fully remote |
-|
-
-**Career Progression**| Slower due to established hierarchy | Rapid advancement due to scaling |
-|
-
-**Equity Opportunities**| Limited options | Standard token and equity packages |
+| **Compensation** | Standard base salary | Generally higher base salary, bonuses |
+| **Work Environment** | Hybrid or in-office | Fully remote |
+| **Career Progression** | Slower due to established hierarchy | Rapid advancement due to scaling |
+| **Equity Opportunities** | Limited options | Standard token and equity packages |

@@ -33,12 +33,8 @@ Formal verification uses mathematical logic to assert properties about code. Unl
 ----------------------------------------------|
 
 --------------------------------------------------------------|
-| 
-
-**Traditional Testing**| Runs specific test cases to check code | Cannot test every possible input or edge case |
-|
-
-**Formal Verification**| Uses mathematical specifications to validate | Requires clear specifications; cannot identify business logic flaws |
+| **Traditional Testing** | Runs specific test cases to check code | Cannot test every possible input or edge case |
+| **Formal Verification** | Uses mathematical specifications to validate | Requires clear specifications; cannot identify business logic flaws |
 
 In traditional testing, developers write test cases covering various scenarios. A passing test increases confidence in the code's functionality, but untested scenarios may still harbor bugs.
 
@@ -102,15 +98,9 @@ These methods complement one another rather than compete.
 ----------------------------------------------|
 
 ---------------------------------------------------------------|
-|
-
-**Security Audits**| Manual review by security experts | May miss certain bugs; relies on human oversight |
-|
-
-**Testing and Fuzzing**| Extensively tests scenarios | Cannot guarantee bug absence in untested scenarios |
-|
-
-**Formal Verification**| Proves specific mathematical properties | Cannot identify business logic flaws; requires clear specs |
+| **Security Audits** | Manual review by security experts | May miss certain bugs; relies on human oversight |
+| **Testing and Fuzzing** | Extensively tests scenarios | Cannot guarantee bug absence in untested scenarios |
+| **Formal Verification** | Proves specific mathematical properties | Cannot identify business logic flaws; requires clear specs |
 
 The strongest security strategy involves a combination of all three approaches. Conduct thorough testing during development, apply formal verification to critical properties, and use expert security audits to identify business logic vulnerabilities.
 

@@ -25,21 +25,11 @@ This article details the nature of price impact, its causes, differences from sl
 ----------------------------|
 
 -----------------------------------------------------------------------------|
-| 
-
-**Definition**| The effect of a trade on the price of an asset within an AMM pool. |
-|
-
-**Cause**| Changes in the asset ratio in a liquidity pool due to trade size. |
-|
-
-**Liquidity Influence**| Greater liquidity results in lower price impact for a given trade size. |
-|
-
-**Price Impact vs. Slippage**| Price impact is predictable; slippage is uncertain and depends on other trades. |
-|
-
-**Warning Indicators**| A price impact exceeding 1-2% signals potential poor execution prices. |
+| **Definition** | The effect of a trade on the price of an asset within an AMM pool. |
+| **Cause** | Changes in the asset ratio in a liquidity pool due to trade size. |
+| **Liquidity Influence** | Greater liquidity results in lower price impact for a given trade size. |
+| **Price Impact vs. Slippage** | Price impact is predictable; slippage is uncertain and depends on other trades. |
+| **Warning Indicators** | A price impact exceeding 1-2% signals potential poor execution prices. |
 
 ### Mechanics of AMMs and Price Impact
 

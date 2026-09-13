@@ -38,15 +38,9 @@ Recognizing common attack vectors is essential for establishing a strong defense
 ---------------------------------------------------------------------------------------------------|
 
 ----------------------------------------------------------------------------------|
-|
-
-**Malware**| Malicious software like viruses, worms, trojans, and spyware designed to disrupt or steal data. | Can lead to data breaches, operational disruptions, or unauthorized access. |
-|
-
-**Phishing**| Social engineering tactics to deceive users into revealing sensitive information. | Can result in identity theft and financial loss. |
-|
-
-**Ransomware**| Malware that encrypts files and demands ransom, often in cryptocurrency, for decryption. | Can cripple businesses, schools, and hospitals, leading to significant losses. |
+| **Malware** | Malicious software like viruses, worms, trojans, and spyware designed to disrupt or steal data. | Can lead to data breaches, operational disruptions, or unauthorized access. |
+| **Phishing** | Social engineering tactics to deceive users into revealing sensitive information. | Can result in identity theft and financial loss. |
+| **Ransomware** | Malware that encrypts files and demands ransom, often in cryptocurrency, for decryption. | Can cripple businesses, schools, and hospitals, leading to significant losses. |
 |
 
 **Denial of Service (DoS)** | Attacks aimed at making systems or resources unavailable to users. | Can cause significant downtime and loss of services. |

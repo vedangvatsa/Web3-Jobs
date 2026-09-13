@@ -37,15 +37,9 @@ The formal Web3 job market in Harare is limited, but it presents lucrative remot
 -------------|
 
 --------------|
-|
-
-**Smart Contract / DeFi Developer**| Highly sought after for building secure financial protocols | Competitive |
-|
-
-**Community Manager / Growth Lead**| Focuses on authentic user engagement across Africa | Competitive |
-|
-
-**FinTech Product Manager**| Designs Web3 products that address local financial pain points | Varies based on experience |
+| **Smart Contract / DeFi Developer** | Highly sought after for building secure financial protocols | Competitive |
+| **Community Manager / Growth Lead** | Focuses on authentic user engagement across Africa | Competitive |
+| **FinTech Product Manager** | Designs Web3 products that address local financial pain points | Varies based on experience |
 
 The most promising opportunities for Zimbabwean professionals lie in remote positions with companies that appreciate their unique insights and resilience.
 
@@ -83,14 +77,10 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 -----------------|
 | Rent (nice apartment) | Competitive |
 | Food & Living | Competitive |
-|
-
-**Total Expenses**|
+| **Total Expenses** |
 
 **Competitive**|
-|
-
-**Savings Rate**|
+| **Savings Rate** |
 
 **High**|
 

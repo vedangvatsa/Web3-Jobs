@@ -30,13 +30,9 @@ Tokenizing a real-world property involves a combination of legal structuring and
 
 The tokenization of real estate requires professionals who possess knowledge in both real estate finance and blockchain technology.
 
-|
+| **Career Path** |
 
-**Career Path**|
-
-**Responsibilities**|
-
-**Skills Required**|
+**Responsibilities**| **Skills Required** |
 |
 
 ---------------------------------------|

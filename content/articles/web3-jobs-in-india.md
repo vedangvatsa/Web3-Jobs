@@ -34,13 +34,9 @@ India's Web3 scene stands out for its scale and technical expertise. Several fac
 
 The competition for Web3 talent in India has driven salaries to competitive levels, often exceeding those in traditional IT roles. Companies are willing to offer premium pay for professionals with crypto-specific skills.
 
-|
+| **Role** |
 
-**Role**|
-
-**Experience Level**|
-
-**Salary Range**|
+**Experience Level**| **Salary Range** |
 |
 
 -----------------------------------------|
@@ -48,18 +44,12 @@ The competition for Web3 talent in India has driven salaries to competitive leve
 ------------------------------|
 
 ----------------------------------------|
-|
-
-**Smart Contract Developer**| Junior (1-2 years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
+| **Smart Contract Developer** | Junior (1-2 years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Mid-Level (3-5 years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Senior (5+ years) | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
-|
-
-**Frontend/Full-Stack Web3 Engineer**| Mid-Level | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
+| **Frontend/Full-Stack Web3 Engineer** | Mid-Level | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Senior | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
-|
-
-**Non-Technical Roles**| Product Manager | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
+| **Non-Technical Roles** | Product Manager | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Marketing & Growth Manager | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 | | Community Manager | ₹25,00,000 - ₹60,00,000 ($30,000 - $72,000 USD) |
 

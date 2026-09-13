@@ -119,9 +119,8 @@ YGG replaced blanket lending with a merit system.
 
 This applies to YGG's current system. Other guilds use similar steps with different names.
 
-**1. Create a YGG account and set up a wallet.
-
-**You need a self-custody wallet that supports Base and Ronin or other chains the target game uses. Never share seed phrases. Verify links on yieldguild.io.** 2. Build a player profile.
+#### 1. Create a YGG account and set up a wallet.
+You need a self-custody wallet that supports Base and Ronin or other chains the target game uses. Never share seed phrases. Verify links on yieldguild.io.** 2. Build a player profile.
 
 **Create a Player Profile on the YGG platform. Link Discord and wallet. This tracks quests, earnings, and SBTs. Early GAP seasons required this before accessing scholarships or quest rewards.** 3. Start with quests, not loans.
 

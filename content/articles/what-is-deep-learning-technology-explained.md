@@ -27,15 +27,9 @@ Here's a simplified overview of how neural networks function:
 ----------------|
 
 ----------------------------------------------------------------------------------------------------------------------|
-| 
-
-**Input Layer**| This layer receives raw data. For image analysis, each neuron may represent an individual pixel of the image. |
-|
-
-**Hidden Layers**| These layers perform important computations. Each neuron processes inputs from the preceding layer, executes calculations, and transmits the results to the next layer. The depth of the network refers to the number of hidden layers, which can range from several to hundreds. |
-|
-
-**Output Layer**| The final layer produces the model's predictions. In image classification, each neuron may correspond to a category (e.g., "cat," "dog," "car"). The neuron with the highest value indicates the model's prediction. |
+| **Input Layer** | This layer receives raw data. For image analysis, each neuron may represent an individual pixel of the image. |
+| **Hidden Layers** | These layers perform important computations. Each neuron processes inputs from the preceding layer, executes calculations, and transmits the results to the next layer. The depth of the network refers to the number of hidden layers, which can range from several to hundreds. |
+| **Output Layer** | The final layer produces the model's predictions. In image classification, each neuron may correspond to a category (e.g., "cat," "dog," "car"). The neuron with the highest value indicates the model's prediction. |
 
 Connections between neurons have associated weights, determining the strength of each connection. During training, the network continuously adjusts these weights to improve accuracy in mapping inputs to outputs. This iterative process resembles fine-tuning numerous variables until the system achieves the desired performance.
 
@@ -49,12 +43,8 @@ Despite concepts behind neural networks existing for decades, deep learning has 
 -------------------|
 
 -------------------------------------------------------------------------------------------------------------------|
-|
-
-**Big Data**| Deep learning models require substantial datasets for effective learning. The explosion of data generated through the internet, social media, and smartphones has provided ample resources for training. |
-|
-
-**Powerful Hardware**| Effective training of deep neural networks demands significant computational resources. The emergence of high-performance Graphics Processing Units (GPUs) has enabled the rapid training of large models, making previously infeasible tasks achievable. |
+| **Big Data** | Deep learning models require substantial datasets for effective learning. The explosion of data generated through the internet, social media, and smartphones has provided ample resources for training. |
+| **Powerful Hardware** | Effective training of deep neural networks demands significant computational resources. The emergence of high-performance Graphics Processing Units (GPUs) has enabled the rapid training of large models, making previously infeasible tasks achievable. |
 
 Without the availability of extensive datasets and advanced hardware, deep learning would likely remain a niche area of research.
 

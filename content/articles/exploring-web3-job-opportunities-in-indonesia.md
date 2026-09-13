@@ -30,13 +30,9 @@ Indonesia's crypto ecosystem prioritizes user-facing applications that cater to 
 
 The Web3 job market in Indonesia is expanding rapidly. Salaries are competitive and often exceed those in traditional tech roles. However, they tend to be lower than global averages. The appealing cost of living, especially outside Jakarta, enhances the attractiveness of these positions.
 
-|
+| **Role** |
 
-**Role**|
-
-**Mid-Level Salary (IDR/month)**|
-
-**Senior Salary (IDR/month)**|
+**Mid-Level Salary (IDR/month)**| **Senior Salary (IDR/month)** |
 |
 
 ----------|

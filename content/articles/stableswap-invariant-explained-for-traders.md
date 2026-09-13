@@ -29,15 +29,9 @@ This article explains the StableSwap invariant, its functionality, and its advan
 |
 
 **Hybrid Formula** | The StableSwap invariant smoothly transitions between a constant sum formula (`x + y = k`) and a constant product formula (`x * y = k`). |
-| 
-
-**Primary Goal**| It aims to create a bonding curve that remains flat when liquidity pools are balanced but still offers liquidity when one asset de-pegs. |
-|
-
-**Low Price Impact**| It results in minimal price impact (slippage) for substantial trades between assets like USDC and DAI. |
-|
-
-**Amplification Parameter (A)**| The shape of the StableSwap curve is influenced by the amplification parameter `A`. A higher value flattens the curve, concentrating liquidity around the peg. |
+| **Primary Goal** | It aims to create a bonding curve that remains flat when liquidity pools are balanced but still offers liquidity when one asset de-pegs. |
+| **Low Price Impact** | It results in minimal price impact (slippage) for substantial trades between assets like USDC and DAI. |
+| **Amplification Parameter (A)** | The shape of the StableSwap curve is influenced by the amplification parameter `A`. A higher value flattens the curve, concentrating liquidity around the peg. |
 |
 
 **Capital Efficiency** | Concentrating liquidity enables greater capital efficiency compared to general-purpose AMMs. |

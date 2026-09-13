@@ -56,36 +56,16 @@ Cosmos SDK can also be configured as a permissioned enterprise chain by limiting
 --------------------------------------------------------|
 
 --------------------------------------------------|
-|
-
-**Privacy model**| Point-to-point; only transaction parties see data | Public by default; privacy requires add-ons or permissioned deployment |
-|
-
-**Consensus**| Notary services (pluggable; BFT or CFT options) | Tendermint BFT (CometBFT); instant finality |
-|
-
-**Programming language**| Kotlin / Java (JVM) | Go (chain logic); any language for clients |
-|
-
-**Transaction throughput**| Varies by configuration; higher with Corda Enterprise | Varies depending on configuration |
-|
-
-**Permissioning**| Permissioned by design; identity via X.509 certificates| Flexible; permissioned or public validator set |
-|
-
-**Interoperability**| Limited; Corda Network and bilateral integrations | Native IBC protocol; broad cross-chain messaging |
-|
-
-**Smart contract model**| CorDapps (states + contracts + flows); legal prose support | SDK modules + optional CosmWasm smart contracts |
-|
-
-**Enterprise support**| R3 Enterprise tier with SLAs | Multiple community support organizations; no single vendor |
-|
-
-**License**| Apache 2.0 (open source); Corda Enterprise is commercial| Apache 2.0 |
-|
-
-**Best for**| Regulated financial institutions, bilateral settlements | Sovereign chains, DeFi, interoperable ecosystems, hybrid deployments |
+| **Privacy model** | Point-to-point; only transaction parties see data | Public by default; privacy requires add-ons or permissioned deployment |
+| **Consensus** | Notary services (pluggable; BFT or CFT options) | Tendermint BFT (CometBFT); instant finality |
+| **Programming language** | Kotlin / Java (JVM) | Go (chain logic); any language for clients |
+| **Transaction throughput** | Varies by configuration; higher with Corda Enterprise | Varies depending on configuration |
+| **Permissioning** | Permissioned by design; identity via X.509 certificates| Flexible; permissioned or public validator set |
+| **Interoperability** | Limited; Corda Network and bilateral integrations | Native IBC protocol; broad cross-chain messaging |
+| **Smart contract model** | CorDapps (states + contracts + flows); legal prose support | SDK modules + optional CosmWasm smart contracts |
+| **Enterprise support** | R3 Enterprise tier with SLAs | Multiple community support organizations; no single vendor |
+| **License** | Apache 2.0 (open source); Corda Enterprise is commercial| Apache 2.0 |
+| **Best for** | Regulated financial institutions, bilateral settlements | Sovereign chains, DeFi, interoperable ecosystems, hybrid deployments |
 
 ## Architectural Differences
 
