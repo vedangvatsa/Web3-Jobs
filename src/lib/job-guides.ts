@@ -233,7 +233,7 @@ function spinJobPostingBlock(text: string, type: 'h3' | 'h4' | 'p' | 'li', isAbo
       [/^(what we offer|benefits|perks|compensation|rewards|why join us|life at|our perks|perks that empower you)/i, 'Perks & Compensation'],
       [/^(you.?ll know you.?re winning|how success is measured|what success looks like|measuring success)/i, 'What Success Looks Like'],
       [/^(why this role matters|why you.?ll love)/i, "Why This Role Matters & What's In It For You"],
-      [/^(the opportunity|opportunity|the mission|mission|role overview)/i, 'The Opportunity & Scope'],
+      [/^(the opportunity|opportunity|the mission|mission|(?:r)?ole overview)/i, 'The Opportunity & Scope'],
       [/^(about the organization|about the foundation)/i, 'About the Organization'],
       [/^(about us|about the company|who we are|company overview)/i, 'About the Company'],
     ];

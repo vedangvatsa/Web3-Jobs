@@ -251,11 +251,11 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
           </div>
 
           {/* Location & Date Filters + Icon-Only View Toggle */}
-          <div className="flex items-center gap-2 shrink-0 flex-wrap">
+          <div className="flex w-full items-center gap-2 md:w-auto md:shrink-0">
             <select
               value={countryFilter || ''}
               onChange={(e) => { setCountryFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate max-w-[150px] sm:max-w-[180px]"
+              className="h-10 min-w-0 flex-1 truncate rounded-md border border-input bg-background px-3 text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer md:flex-none md:max-w-[180px]"
               aria-label="Filter by location"
             >
               <option value="">All Locations</option>
@@ -266,7 +266,7 @@ export function EventsBoard({ initialEvents }: { initialEvents: PublicWeb3Event[
             <select
               value={dateFilter || ''}
               onChange={(e) => { setDateFilter(e.target.value === '' ? null : e.target.value); setVisibleCount(INITIAL_COUNT); }}
-              className="h-10 px-3 rounded-md border border-input bg-background text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer truncate max-w-[130px] sm:max-w-[150px]"
+              className="h-10 min-w-0 flex-1 truncate rounded-md border border-input bg-background px-3 text-sm text-foreground shadow-none focus:outline-none focus:ring-1 focus:ring-ring cursor-pointer md:flex-none md:max-w-[150px]"
               aria-label="Filter by date"
             >
               <option value="">All Dates</option>

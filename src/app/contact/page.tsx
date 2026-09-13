@@ -15,6 +15,7 @@ export const metadata: Metadata = {
   description: 'Connect with the Hashtag Web3 team for event partnerships, hiring campaigns, API integrations, and community support.',
   alternates: { canonical: 'https://hashtagweb3.com/contact' },
   openGraph: { title: 'Contact Hashtag Web3', description: 'Direct communication channels for partnerships, hiring campaigns, API integrations, and community support.', url: 'https://hashtagweb3.com/contact', siteName: 'Hashtag Web3', type: 'website', images: [{ url: 'https://hashtagweb3.com/api/og?type=default&title=Contact%20Hashtag%20Web3', width: 1200, height: 630, alt: 'Contact Hashtag Web3' }] },
+  twitter: { card: 'summary_large_image', title: 'Contact Hashtag Web3', description: 'Direct communication channels for partnerships, hiring campaigns, API integrations, and community support.', images: ['https://hashtagweb3.com/api/og?type=default&title=Contact%20Hashtag%20Web3'] },
 };
 
 const routes = [
