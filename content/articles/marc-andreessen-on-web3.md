@@ -19,9 +19,8 @@ Andreessen sees Web3 as a solution to these issues. By using [blockchain](/what-
 
 ### Key Views and Philosophies
 
-**1. A Return to the Internet's Decentralized Roots
-
-**Andreessen often references the original vision of the internet as an open, permissionless network. He believes Web3 fulfills this promise by steering away from the centralized, walled gardens characteristic of Web2. Decentralization, in his view, is not merely a technical feature, but a vital social and economic principle that prevents single points of control and failure.** 2. Better Economics for Creators
+#### 1. A Return to the Internet's Decentralized Roots
+Andreessen often references the original vision of the internet as an open, permissionless network. He believes Web3 fulfills this promise by steering away from the centralized, walled gardens characteristic of Web2. Decentralization, in his view, is not merely a technical feature, but a vital social and economic principle that prevents single points of control and failure.** 2. Better Economics for Creators
 
 **Helping creators is central to Andreessen's Web3 thesis. In Web2, platforms often take a large portion of revenue, exemplified by Apple's App Store fee. Web3 introduces [smart contracts](/what-are-smart-contracts), allowing creators to retain a more significant share of the value they generate. For instance, [NFTs](/what-are-nfts) enable artists to sell their work directly and earn royalties on future sales, a concept challenging to enforce in traditional art markets.** 3. The Power of Trust and Composability
 

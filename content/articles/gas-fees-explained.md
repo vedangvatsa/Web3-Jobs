@@ -188,9 +188,8 @@ function bumpGood() external {
 }
 ```
 
-**2. Pack storage variables.
-
-**The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
+#### 2. Pack storage variables.
+The EVM stores state in 32-byte slots. Two `uint128` values can share one slot if placed contiguously, but a `uint128` next to a `uint256` forces separate slots.
 
 ```solidity
 // Inefficient: three slots
@@ -212,9 +211,8 @@ function processGood(string calldata data) external { }
 
 For dynamic types like `bytes`, `string`, and arrays, `calldata` avoids a copy. It is read-only, so you cannot modify it without copying to memory. Use it when you read and do not mutate.
 
-**4. Use custom errors instead of string requires.
-
-**Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
+#### 4. Use custom errors instead of string requires.
+Custom errors shipped in Solidity 0.8.4, documented on soliditylang.org in April 2021. They store a 4-byte selector instead of a full string, which saves deployment gas and runtime gas when the revert is hit.
 
 ```solidity
 // Higher cost: stores the string

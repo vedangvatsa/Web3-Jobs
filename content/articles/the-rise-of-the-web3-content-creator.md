@@ -36,18 +36,10 @@ Web3 content creation encompasses diverse styles and mediums, allowing various c
 --------------------------------------------------------------------|
 
 ---------------------------------------------------|
-|
-
-**The Analyst / Researcher**| Creates in-depth, data-driven analyses of protocols and market trends. | Long-form blog posts, research reports, data-rich Twitter threads. | Analysis of the tokenomics of a new Layer 2 protocol. |
-|
-
-**The Educator**| Simplifies complex topics for wider audiences. | YouTube tutorials, beginner blogs, explanatory Twitter threads. | A guide on selecting a crypto [wallet](/how-to-choose-a-crypto-wallet). |
-|
-
-**The News Reporter / Journalist**| Covers the latest news, funding rounds, and industry updates. | Newsletters, podcasts, real-time Twitter updates. | A podcast episode featuring a founder discussing a new product launch. |
-|
-
-**The Cultural Commentator / Entertainer**| Focuses on Web3 culture, including memes and community dynamics. | Memes, cultural commentary podcasts, community-focused videos. | A skit about the various types of [NFT](/what-are-nfts) collectors. |
+| **The Analyst / Researcher** | Creates in-depth, data-driven analyses of protocols and market trends. | Long-form blog posts, research reports, data-rich Twitter threads. | Analysis of the tokenomics of a new Layer 2 protocol. |
+| **The Educator** | Simplifies complex topics for wider audiences. | YouTube tutorials, beginner blogs, explanatory Twitter threads. | A guide on selecting a crypto [wallet](/how-to-choose-a-crypto-wallet). |
+| **The News Reporter / Journalist** | Covers the latest news, funding rounds, and industry updates. | Newsletters, podcasts, real-time Twitter updates. | A podcast episode featuring a founder discussing a new product launch. |
+| **The Cultural Commentator / Entertainer** | Focuses on Web3 culture, including memes and community dynamics. | Memes, cultural commentary podcasts, community-focused videos. | A skit about the various types of [NFT](/what-are-nfts) collectors. |
 
 ### Steps to Building a Career as a Web3 Content Creator
 

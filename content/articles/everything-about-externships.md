@@ -32,21 +32,11 @@ Externships serve as a conduit for career exploration. They typically last from 
 ---------------------------------------- | 
 
 ---------------------------------------------- |
-|
-
-**Primary Goal**| Career exploration and observational learning | Skill development and practical work experience|
-|
-
-**Duration**| Short-term (1 day to a few weeks) | Longer-term (Typically 1-3 months or a semester) |
-|
-
-**Compensation**| Usually unpaid (often for academic credit) | Usually paid |
-|
-
-**Work Involved**| Primarily shadowing and observing | Assigned projects and specific job duties |
-|
-
-**Commitment**| Low commitment from both sides | High commitment, resembling a temporary job |
+| **Primary Goal** | Career exploration and observational learning | Skill development and practical work experience|
+| **Duration** | Short-term (1 day to a few weeks) | Longer-term (Typically 1-3 months or a semester) |
+| **Compensation** | Usually unpaid (often for academic credit) | Usually paid |
+| **Work Involved** | Primarily shadowing and observing | Assigned projects and specific job duties |
+| **Commitment** | Low commitment from both sides | High commitment, resembling a temporary job |
 
 Externships enable the exploration of whether a specific career path is suitable, while internships focus on gaining practical experience in a chosen field.
 

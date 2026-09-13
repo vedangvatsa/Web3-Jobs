@@ -17,9 +17,8 @@ This guide outlines the critical steps to take before, during, and after your jo
 
 The preparation you undertake prior to the interview carries as much weight as the interview itself.
 
-**1. Research the Company
-
-**Gain a complete understanding of the company you are interviewing with. 
+#### 1. Research the Company
+Gain a complete understanding of the company you are interviewing with. 
 
 | Key Areas | Details |
 |
@@ -27,32 +26,22 @@ The preparation you undertake prior to the interview carries as much weight as t
 ---------------------------|
 
 -------------------------------------------------------------------------|
-|
-
-**What do they do?**| Investigate their products, services, and business model. |
-|
-
-**Mission and culture**| Examine their "About Us" page, blog, and social media to capture their values. |
-|
-
-**Competitors**| Identify their main competitors to demonstrate your industry understanding. |
-|
-
-**Recent news**| Look for any recent product launches or news articles to discuss during the interview. |
+| **What do they do?** | Investigate their products, services, and business model. |
+| **Mission and culture** | Examine their "About Us" page, blog, and social media to capture their values. |
+| **Competitors** | Identify their main competitors to demonstrate your industry understanding. |
+| **Recent news** | Look for any recent product launches or news articles to discuss during the interview. |
 
 Being informed about the company shows your engagement and interest.
 
-**2. Understand the Role
-
-**Review the job description carefully. 
+#### 2. Understand the Role
+Review the job description carefully. 
 
 - Identify the key responsibilities and qualifications required.
 - Reflect on how your skills and experiences align with these requirements.
 - Prepare specific examples from your past work that illustrate your capability to fulfill the role's duties.
 
-**3. Prepare Your Answers to Common Questions
-
-**While you cannot anticipate every question, preparing for common inquiries can boost your confidence. 
+#### 3. Prepare Your Answers to Common Questions
+While you cannot anticipate every question, preparing for common inquiries can boost your confidence. 
 
 - "Tell me about yourself." (Craft a 1-2 minute elevator pitch.)
 - "Why are you interested in this role?"
@@ -62,9 +51,8 @@ Being informed about the company shows your engagement and interest.
 
 Use the STAR method (Situation, Task, Action, Result) to structure your responses to behavioral questions effectively.
 
-**4. Prepare Your Own Questions
-
-**Interviews serve as a two-way dialogue. Prepare thoughtful questions to assess if the company fits your career aspirations.
+#### 4. Prepare Your Own Questions
+Interviews serve as a two-way dialogue. Prepare thoughtful questions to assess if the company fits your career aspirations.
 
 - "What does a typical day in this role look like?"
 - "What are the biggest challenges the team is currently facing?"
@@ -73,9 +61,8 @@ Use the STAR method (Situation, Task, Action, Result) to structure your response
 
 Asking insightful questions demonstrates your genuine interest in the position and the organization.
 
-**5. Plan Your Logistics
-
-**Ensure you are ready for both in-person and virtual interviews.
+#### 5. Plan Your Logistics
+Ensure you are ready for both in-person and virtual interviews.
 
 - **In-person:** Determine your route, parking options, and aim to arrive 10-15 minutes early.
 - **Virtual:** Test your technology, including your camera, microphone, and internet connection. Choose a quiet, well-lit space with a clean, professional background.
@@ -90,9 +77,8 @@ Asking insightful questions demonstrates your genuine interest in the position a
 
 ### After the Interview
 
-**1. Send a Thank-You Note
-
-**Within 24 hours post-interview, send a personalized thank-you email to your interviewer.
+#### 1. Send a Thank-You Note
+Within 24 hours post-interview, send a personalized thank-you email to your interviewer.
 
 - Express gratitude for their time.
 - Briefly reiterate your enthusiasm for the role.

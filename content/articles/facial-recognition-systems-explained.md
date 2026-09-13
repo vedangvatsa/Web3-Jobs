@@ -52,18 +52,10 @@ Facial recognition technology finds applications across various fields:
 --------------------------|
 
 -----------------------------------------------------------------------------|
-|
-
-**Security and Access Control**| Widely used for open devices and providing secure access to buildings and airports. |
-|
-
-**Social Media**| Platforms employ facial recognition to suggest tags for users in photos. |
-|
-
-**Law Enforcement and Surveillance**| Police departments use this technology to identify suspects in criminal investigations and monitor public spaces. |
-|
-
-**Retail**| Retailers analyze customer demographics and shopping behaviors, using facial recognition to identify known shoplifters. |
+| **Security and Access Control** | Widely used for open devices and providing secure access to buildings and airports. |
+| **Social Media** | Platforms employ facial recognition to suggest tags for users in photos. |
+| **Law Enforcement and Surveillance** | Police departments use this technology to identify suspects in criminal investigations and monitor public spaces. |
+| **Retail** | Retailers analyze customer demographics and shopping behaviors, using facial recognition to identify known shoplifters. |
 
 ### Privacy and Bias Concerns
 

@@ -80,14 +80,10 @@ The demand for Web3 talent in Kampala is increasing sharply, particularly for de
 ---------------------|
 | Rent (nice area) | Competitive |
 | Living Expenses | Competitive |
-|
-
-**Total**|
+| **Total** |
 
 **Competitive**|
-|
-
-**Savings**|
+| **Savings** |
 
 **Significant portion of income**|
 

@@ -78,9 +78,8 @@ A typical week includes:
 
 ### Skills and tools that actually get you hired
 
-**1. Writing and audience analysis
-
-**You tailor detail, tone, and prerequisites to the reader. Developer docs assume Git and command-line comfort and show code. User guides assume no code and show clicks. You test your own steps and state what you tested on.** 2. Code comprehension at reading level
+#### 1. Writing and audience analysis
+You tailor detail, tone, and prerequisites to the reader. Developer docs assume Git and command-line comfort and show code. User guides assume no code and show clicks. You test your own steps and state what you tested on.** 2. Code comprehension at reading level
 
 **You do not need to architect a protocol. You need to read Solidity enough to follow a contract, read JavaScript or TypeScript enough to fix a sample, and run the sample locally. Start with the Solidity docs and the two Ethereum docs pages on JavaScript API libraries and Interacting with smart contracts. Work through one deploy-and-call tutorial so you can describe an ABI, a JSON-RPC call, and a testnet transaction from experience.** 3. Docs-as-code toolchain
 
@@ -95,9 +94,8 @@ A typical week includes:
 
 If a posting lists Docusaurus, Astro, or Fumadocs as preferred, you can meet the bar by showing one live Docusaurus site plus a pull request that passed CI checks.
 
-**4. Technical curiosity and interview skill
-
-**You get good docs by asking precise questions. Examples: what chain and version did you test on, what fails if the user skips this flag, what error does the node return when the RPC is misconfigured.** 5. Attention to detail
+#### 4. Technical curiosity and interview skill
+You get good docs by asking precise questions. Examples: what chain and version did you test on, what fails if the user skips this flag, what error does the node return when the RPC is misconfigured.** 5. Attention to detail
 
 **In Web3, a missing network ID, a wrong contract address, or an out-of-date install command wastes hours or causes failed transactions. Check every command and link before you merge.
 

@@ -19,13 +19,9 @@ Not all stablecoins are identical. They use various mechanisms to sustain their 
 
 Fiat-collateralized stablecoins represent the most prevalent and straightforward category.
 
-| 
+| **Example** |
 
-**Example**|
-
-**Issuer**|
-
-**Pegged Asset**|
+**Issuer**| **Pegged Asset** |
 |
 
 -------------|
@@ -54,13 +50,9 @@ Fiat-collateralized stablecoins represent the most prevalent and straightforward
 
 Crypto-collateralized stablecoins strive for stability and decentralization by using other cryptocurrencies as collateral.
 
-|
+| **Example** |
 
-**Example**|
-
-**Issuer**|
-
-**Pegged Asset**|
+**Issuer**| **Pegged Asset** |
 |
 
 -------------|
@@ -87,9 +79,7 @@ Crypto-collateralized stablecoins strive for stability and decentralization by u
 
 Algorithmic stablecoins represent the most experimental and high-risk category. They aim to maintain their peg through algorithms that automatically adjust token supply without relying on collateral.
 
-|
-
-**Example**|
+| **Example** |
 
 **Mechanism**|
 |

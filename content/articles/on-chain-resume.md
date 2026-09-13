@@ -38,9 +38,8 @@ Your on-chain resume tells a story through your public wallet address, ideally r
 
 Creating a strong on-chain resume requires intentional actions. It involves curating your public wallet to function as a professional [portfolio](/building-web3-portfolio).
 
-**1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.
-
-**2. Engage Actively:**
+#### 1. Register an ENS Name:** Start by registering an ENS name for your primary wallet. This name acts as your Web3 username and is vital for your digital identity.
+2. Engage Actively:**
 
 - Explore Various Protocols:**Go beyond the basics. Experiment with different Layer 2 solutions, dive into new DeFi protocols, or lend assets on a money market.
 

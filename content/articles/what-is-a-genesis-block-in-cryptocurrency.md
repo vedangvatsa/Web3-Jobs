@@ -70,15 +70,9 @@ The [Web3 job](/web3-jobs-for-beginners) market shows distinct characteristics c
 -----------------------------------------|
 
 --------------------------------------------|
-|
-
-**Compensation**| Standard or lower salary levels | Typically higher salaries |
-|
-
-**Work Environment**| Often office-based | Predominantly remote, offering flexibility |
-|
-
-**Career Growth**| Slower, stable progression | Rapid advancement due to scaling companies |
+| **Compensation** | Standard or lower salary levels | Typically higher salaries |
+| **Work Environment** | Often office-based | Predominantly remote, offering flexibility |
+| **Career Growth** | Slower, stable progression | Rapid advancement due to scaling companies |
 |
 
 **Equity Potential** | Limited stock options | Standard token and equity packages |

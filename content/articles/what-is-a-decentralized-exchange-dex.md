@@ -37,24 +37,12 @@ Understanding the mechanics of liquidity pools is essential for grasping how DEX
 
 | Feature | Decentralized Exchange (DEX) | Centralized Exchange (CEX) |
 | :--- | :--- | :--- |
-|
-
-**Custody**| Non-custodial; users control their private keys. | Custodial; exchanges hold users' funds. |
-|
-
-**Security**| Lower risk of large-scale hacks; risks are primarily in smart contracts. | Higher risk of hacks and company insolvency. |
-|
-
-**Permission**| Permissionless; anyone with a [wallet](/how-to-choose-a-crypto-wallet) can trade. | Permissioned; requires KYC and may block users. |
-|
-
-**Anonymity**| Pseudonymous; trades are linked to wallet addresses. | Not anonymous; identity is tied to user accounts. |
-|
-
-**Asset Listing**| Permissionless; anyone can create a liquidity pool for any token. | Centralized; exchanges decide which tokens to list. |
-|
-
-**User Experience**| More complex; requires wallet management and gas fees. | Generally user-friendly with more features. |
+| **Custody** | Non-custodial; users control their private keys. | Custodial; exchanges hold users' funds. |
+| **Security** | Lower risk of large-scale hacks; risks are primarily in smart contracts. | Higher risk of hacks and company insolvency. |
+| **Permission** | Permissionless; anyone with a [wallet](/how-to-choose-a-crypto-wallet) can trade. | Permissioned; requires KYC and may block users. |
+| **Anonymity** | Pseudonymous; trades are linked to wallet addresses. | Not anonymous; identity is tied to user accounts. |
+| **Asset Listing** | Permissionless; anyone can create a liquidity pool for any token. | Centralized; exchanges decide which tokens to list. |
+| **User Experience** | More complex; requires wallet management and gas fees. | Generally user-friendly with more features. |
 
 ### Advantages of DEXs
 

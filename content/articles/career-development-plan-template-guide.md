@@ -90,21 +90,11 @@ Core competencies are essential for success in various fields, including [Web3](
 ---------------------------|
 
 ----------------------------------------------------------------------------------------------|
-|
-
-**Technical Foundation**| Understanding relevant technical concepts is critical. While you need not be an expert, foundational knowledge helps prevent costly errors. |
-|
-
-**Communication Excellence**| The ability to articulate complex ideas clearly is invaluable. Regular practice in writing and presenting enhances this skill. |
-|
-
-**Problem-Solving Methodology**| A structured approach to problem-solving involves defining the issue, researching solutions, evaluating options, implementing the best choice, and measuring the outcome. This framework is applicable in both technical and non-technical contexts. |
-|
-
-**Learning Agility**| The capacity to rapidly acquire new skills is important in fast-changing industries. Engage in hands-on learning rather than solely consuming information. |
-|
-
-**Emotional Intelligence**| Understanding and managing your own emotions and those of others is vital for effective teamwork and successful negotiations. |
+| **Technical Foundation** | Understanding relevant technical concepts is critical. While you need not be an expert, foundational knowledge helps prevent costly errors. |
+| **Communication Excellence** | The ability to articulate complex ideas clearly is invaluable. Regular practice in writing and presenting enhances this skill. |
+| **Problem-Solving Methodology** | A structured approach to problem-solving involves defining the issue, researching solutions, evaluating options, implementing the best choice, and measuring the outcome. This framework is applicable in both technical and non-technical contexts. |
+| **Learning Agility** | The capacity to rapidly acquire new skills is important in fast-changing industries. Engage in hands-on learning rather than solely consuming information. |
+| **Emotional Intelligence** | Understanding and managing your own emotions and those of others is vital for effective teamwork and successful negotiations. |
 
 ## Development Roadmap
 
@@ -157,18 +147,10 @@ The importance of these competencies evolves with your career level:
 ----------------|
 
 ------------------------------------------------------|
-|
-
-**Junior Level**| Technical skills are important, but communication also gains importance. |
-|
-
-**Mid Level**| A balance of technical and soft skills is essential; leadership potential emerges. |
-|
-
-**Senior Level**| Soft skills become increasingly vital in roles requiring collaboration and influence. |
-|
-
-**Leadership**| Emotional intelligence and communication skills dominate, impacting team dynamics and project success. |
+| **Junior Level** | Technical skills are important, but communication also gains importance. |
+| **Mid Level** | A balance of technical and soft skills is essential; leadership potential emerges. |
+| **Senior Level** | Soft skills become increasingly vital in roles requiring collaboration and influence. |
+| **Leadership** | Emotional intelligence and communication skills dominate, impacting team dynamics and project success. |
 
 ## Common Development Mistakes
 

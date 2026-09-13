@@ -44,16 +44,10 @@ The demand for Web3 talent in Cairo is on the rise, especially for skilled devel
 | | 
 
 *Note: Many top Egyptian developers work remotely, earning higher salaries in USD.* | |
-| 
-
-**Full-Stack / Mobile Web3 Engineer**| Mid-Level | Competitive within local standards |
+| **Full-Stack / Mobile Web3 Engineer** | Mid-Level | Competitive within local standards |
 | | Senior | Competitive within local standards |
-|
-
-**Community Manager (Arabic Speaking)**| Mid-Level | Competitive within local standards |
-|
-
-**Marketing and Content Roles (Arabic)**| Content Creator / Translator | Competitive within local standards |
+| **Community Manager (Arabic Speaking)** | Mid-Level | Competitive within local standards |
+| **Marketing and Content Roles (Arabic)** | Content Creator / Translator | Competitive within local standards |
 
 ### Strategies for Building a Web3 Career in Cairo
 

@@ -71,27 +71,13 @@ Freelancing offers self-employment opportunities, allowing individuals to work o
 ----------------------------------------------- | 
 
 ----------------------------------------------- |
-|
-
-**Income**| Stable, predictable salary | Variable, project-based income |
-|
-
-**Benefits**| Includes health insurance, retirement plans | No employer-provided benefits; self-responsible |
-|
-
-**Flexibility**| Limited schedule | High flexibility in hours and location |
-|
-
-**Autonomy**| Low; work directed by employers | High; choice of projects and clients |
-|
-
-**Job Security**| High, but subject to layoffs | Self-control; dependent on client acquisition |
-|
-
-**Taxes**| Handled by employer | Responsible for self-employment taxes |
-|
-
-**Career Growth**| Structured advancement opportunities | Personal reputation and client base development |
+| **Income** | Stable, predictable salary | Variable, project-based income |
+| **Benefits** | Includes health insurance, retirement plans | No employer-provided benefits; self-responsible |
+| **Flexibility** | Limited schedule | High flexibility in hours and location |
+| **Autonomy** | Low; work directed by employers | High; choice of projects and clients |
+| **Job Security** | High, but subject to layoffs | Self-control; dependent on client acquisition |
+| **Taxes** | Handled by employer | Responsible for self-employment taxes |
+| **Career Growth** | Structured advancement opportunities | Personal reputation and client base development |
 
 ### Choosing Your Path
 

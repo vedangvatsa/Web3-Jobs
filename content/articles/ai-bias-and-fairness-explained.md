@@ -26,9 +26,8 @@ If you commission, design, deploy, or rely on an AI system, you are in scope for
 
 NIST defines three categories that interact. They are useful because they force you to look beyond the dataset.
 
-**1. Systemic bias.
-
-**Procedures and norms in institutions that advantage some groups and disadvantage others. Examples include historic hiring patterns, segregated healthcare access, or lending histories shaped by prior discrimination. The system learns the pattern even without an explicit label for race or gender.** 2. Statistical and computational bias.
+#### 1. Systemic bias.
+Procedures and norms in institutions that advantage some groups and disadvantage others. Examples include historic hiring patterns, segregated healthcare access, or lending histories shaped by prior discrimination. The system learns the pattern even without an explicit label for race or gender.** 2. Statistical and computational bias.
 
 **Errors from how data are sampled, measured, and modeled when the sample does not represent the population. These occur without intent. Examples include undercounting certain groups, using a proxy that is weaker for one group than another, or overfitting to the majority.** 3. Human-cognitive bias.
 

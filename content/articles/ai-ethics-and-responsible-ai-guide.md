@@ -117,27 +117,13 @@ Different organizations phrase principles differently, but the core commitments 
 --- | 
 
 --- |
-| 
-
-**Valid and reliable**| Test that the system does what you claim, under the conditions you claim, and keeps doing so over time. | NIST AI RMF 1.0, Trustworthy characteristic |
-|
-
-**Safe and secure / resilient**| Prevent foreseeable harms, protect against attacks, and maintain safe operation or graceful failure when stressed. | NIST AI RMF 1.0; NIST AI 100-2; OECD robustness, security and safety |
-|
-
-**Accountable and transparent**| Document goals, data, and limits; keep logs; make clear who is responsible for outcomes and how to report incidents. | NIST Govern function; OECD accountability |
-|
-
-**Explainable and interpretable**| Provide reasons a relevant person can understand, and show when you are outside intended operating limits. | NIST IR 8312; OECD transparency and explainability |
-|
-
-**Privacy-enhanced**| Minimize collection, de-identify where possible, protect training and inference data, and be able to explain storage and retention. | NIST privacy-enhanced; OECD human rights including privacy; GDPR |
-|
-
-**Fair, with harmful bias managed**| Define fairness for the use case, test across groups, and mitigate disproportionate impacts. | NIST fair with bias managed; OECD human rights including fairness |
-|
-
-**Information integrity and sustainability**| Address creation of false or misleading content and track environmental costs such as energy and compute. | OECD 2024 update, new emphasis |
+| **Valid and reliable** | Test that the system does what you claim, under the conditions you claim, and keeps doing so over time. | NIST AI RMF 1.0, Trustworthy characteristic |
+| **Safe and secure / resilient** | Prevent foreseeable harms, protect against attacks, and maintain safe operation or graceful failure when stressed. | NIST AI RMF 1.0; NIST AI 100-2; OECD robustness, security and safety |
+| **Accountable and transparent** | Document goals, data, and limits; keep logs; make clear who is responsible for outcomes and how to report incidents. | NIST Govern function; OECD accountability |
+| **Explainable and interpretable** | Provide reasons a relevant person can understand, and show when you are outside intended operating limits. | NIST IR 8312; OECD transparency and explainability |
+| **Privacy-enhanced** | Minimize collection, de-identify where possible, protect training and inference data, and be able to explain storage and retention. | NIST privacy-enhanced; OECD human rights including privacy; GDPR |
+| **Fair, with harmful bias managed** | Define fairness for the use case, test across groups, and mitigate disproportionate impacts. | NIST fair with bias managed; OECD human rights including fairness |
+| **Information integrity and sustainability** | Address creation of false or misleading content and track environmental costs such as energy and compute. | OECD 2024 update, new emphasis |
 |
 
 **Human-centric** | Keep meaningful human oversight, support human agency, and keep the ability to override or decommission the system. | OECD 2024 update; NIST and EU AI Act human oversight requirements |

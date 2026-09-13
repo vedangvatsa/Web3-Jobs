@@ -33,21 +33,11 @@ HODL embodies a specific investment philosophy that emphasizes long-term commitm
 -------------------------------|
 
 -------------------------------------------------------------------------------------------------------------------------------|
-| 
-
-**Long-term Holding**| HODL signifies a belief that the value of cryptocurrency will appreciate over time, favoring a buy-and-hold strategy. |
-|
-
-**Resisting Emotional Trading**| HODL encourages investors to avoid making decisions based on short-term price swings and emotional reactions. |
-|
-
-**Belief in the Asset**| Saying "I'm HODLing" indicates a firm belief in the asset's long-term potential, beyond daily market fluctuations. |
-|
-
-**Patience**| HODL requires investors to accept short-term volatility while maintaining faith in the asset's future performance. |
-|
-
-**Discipline**| It supports a disciplined approach to investing, discouraging panic-selling during downturns or chasing profits during spikes. |
+| **Long-term Holding** | HODL signifies a belief that the value of cryptocurrency will appreciate over time, favoring a buy-and-hold strategy. |
+| **Resisting Emotional Trading** | HODL encourages investors to avoid making decisions based on short-term price swings and emotional reactions. |
+| **Belief in the Asset** | Saying "I'm HODLing" indicates a firm belief in the asset's long-term potential, beyond daily market fluctuations. |
+| **Patience** | HODL requires investors to accept short-term volatility while maintaining faith in the asset's future performance. |
+| **Discipline** | It supports a disciplined approach to investing, discouraging panic-selling during downturns or chasing profits during spikes. |
 
 ## HODL as Philosophy
 

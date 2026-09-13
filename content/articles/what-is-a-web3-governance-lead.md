@@ -29,9 +29,8 @@ The Governance Lead's role is to design and manage systems that address these ch
 
 ### Key Responsibilities of a Governance Lead
 
-**1. Designing and Managing the Governance Framework
-
-**The Governance Lead serves as the architect of the decision-making process.
+#### 1. Designing and Managing the Governance Framework
+The Governance Lead serves as the architect of the decision-making process.
 
 - **Proposal Lifecycle:** They establish a clear, multi-stage lifecycle for proposals:
  1. **Informal Discussion (Discord):** Initial ideas are debated.
@@ -40,24 +39,21 @@ The Governance Lead's role is to design and manage systems that address these ch
  4. **On-Chain Vote:** If the temperature check is successful, the proposal proceeds to a binding on-chain vote.
 - **Tooling Management:** The Governance Lead oversees the governance tools, including the Discourse forum, Snapshot page, and on-chain voting platforms.
 
-**2. Enabling Governance Processes
-
-**The Governance Lead actively enables rather than passively observes.
+#### 2. Enabling Governance Processes
+The Governance Lead actively enables rather than passively observes.
 
 - **Moderating Forums:** They ensure productive and respectful discussions on governance forums.
 - **Organizing Governance Calls:** Regular community calls are scheduled and hosted to discuss active proposals, allowing real-time debate and clarification.
 - **Summarizing and Communicating:** They synthesize complex debates into clear summaries for the broader community, ensuring that all token holders remain well-informed.
 
-**3. Supporting Delegates and Voters
-
-**Increasing participation and enhancing decision-making quality are important components of the role.
+#### 3. Supporting Delegates and Voters
+Increasing participation and enhancing decision-making quality are important components of the role.
 
 - **Voter Education:** The Governance Lead creates guides and resources to help token holders understand the issues at stake in specific votes.
 - **Delegate Programs:** They often implement delegate programs, enabling token holders to delegate their voting power to trusted community members with a strong grasp of the protocol. The Governance Lead identifies and supports these delegates.
 
-**4. Liaising with the Core Development Team
-
-**The Governance Lead serves as a vital connection between the decentralized community and the core development team.
+#### 4. Liaising with the Core Development Team
+The Governance Lead serves as a vital connection between the decentralized community and the core development team.
 
 - **Translating Community Sentiment:** They articulate the community's will to the development team.
 - **Explaining Technical Constraints:** The Governance Lead communicates the technical feasibility and trade-offs of community proposals back to the community.
@@ -72,18 +68,10 @@ This role does not require extensive technical expertise, but a solid understand
 --------------------------|
 
 -----------------------------------------------------------------------------------------------|
-|
-
-**Exceptional Communication**| Must excel in both written and verbal communication, capable of enabling discussions. |
-|
-
-**Process-Oriented Mind**| Enjoys designing systems and frameworks to bring order to chaos, with a background in project management. |
-|
-
-**Neutrality and Diplomacy**| Capable of acting as a neutral party and de-escalating conflicts while building consensus. |
-|
-
-**Deep Protocol Knowledge**| Possesses a thorough understanding of the protocol to grasp the implications of various proposals. |
+| **Exceptional Communication** | Must excel in both written and verbal communication, capable of enabling discussions. |
+| **Process-Oriented Mind** | Enjoys designing systems and frameworks to bring order to chaos, with a background in project management. |
+| **Neutrality and Diplomacy** | Capable of acting as a neutral party and de-escalating conflicts while building consensus. |
+| **Deep Protocol Knowledge** | Possesses a thorough understanding of the protocol to grasp the implications of various proposals. |
 |
 
 **Resilience** | Able to handle public criticism and manage contentious situations within DAO governance. |

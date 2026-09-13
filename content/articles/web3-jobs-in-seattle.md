@@ -23,18 +23,10 @@ Seattle's Web3 scene thrives on its core industries: cloud computing and gaming.
 ------------------------------|
 
 --------------------------------------------------------------|
-| 
-
-**Cloud Computing**| Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts a significant concentration of cloud engineers. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
-|
-
-**Gaming**| With major companies like Nintendo of America and Valve, Seattle is a central hub for the video game industry. This ecosystem includes game developers, designers, and artists who are now venturing into Web3 gaming and [NFTs](/what-are-nfts). |
-|
-
-**Corporate Blockchain Adoption**| Companies such as Microsoft and Starbucks are actively exploring enterprise [blockchain](/what-is-a-blockchain) applications and NFT-based loyalty programs, enhancing the Web3 sector. |
-|
-
-**Community Dynamics**| The Seattle Web3 community prioritizes substance over hype. It is characterized by a mature, engineering-focused environment that emphasizes technical skill and sustainable project development. |
+| **Cloud Computing** | Home to Amazon Web Services (AWS) and Microsoft Azure, Seattle hosts a significant concentration of cloud engineers. These professionals possess the skills necessary for developing complex backend systems required by Web3 protocols, including node management and Layer 2 scaling solutions. |
+| **Gaming** | With major companies like Nintendo of America and Valve, Seattle is a central hub for the video game industry. This ecosystem includes game developers, designers, and artists who are now venturing into Web3 gaming and [NFTs](/what-are-nfts). |
+| **Corporate Blockchain Adoption** | Companies such as Microsoft and Starbucks are actively exploring enterprise [blockchain](/what-is-a-blockchain) applications and NFT-based loyalty programs, enhancing the Web3 sector. |
+| **Community Dynamics** | The Seattle Web3 community prioritizes substance over hype. It is characterized by a mature, engineering-focused environment that emphasizes technical skill and sustainable project development. |
 
 ### In-Demand Roles and Salary Expectations
 
@@ -48,19 +40,11 @@ Seattle's competitive job market for technical talent offers salaries comparable
 -----------------------|
 
 -----------------------------|
-|
-
-**Infrastructure / Backend Engineer**| Mid-Level (3-5 years) | Competitive |
+| **Infrastructure / Backend Engineer** | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
-|
-
-**Game Developer**| Senior | Competitive |
-|
-
-**[Smart Contract](/what-are-smart-contracts) Developer**| Senior | Competitive |
-|
-
-**Product Manager**| Senior | Competitive |
+| **Game Developer** | Senior | Competitive |
+| **[Smart Contract](/what-are-smart-contracts) Developer** | Senior | Competitive |
+| **Product Manager** | Senior | Competitive |
 
 ### Building a Web3 Career in Seattle
 
@@ -86,21 +70,11 @@ Seattle offers a wealth of opportunities for technical professionals. The city c
 ---------------------------------------|
 
 ------------------------------------|
-|
-
-**Infrastructure Engineer**| Competitive |
-|
-
-**Backend Developer**| Competitive |
-|
-
-**Game Developer**| Competitive |
-|
-
-**[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)**| Competitive |
-|
-
-**Product Manager**| Competitive |
+| **Infrastructure Engineer** | Competitive |
+| **Backend Developer** | Competitive |
+| **Game Developer** | Competitive |
+| **[Smart Contract Developer](/how-to-become-a-web3-smart-contract-developer)** | Competitive |
+| **Product Manager** | Competitive |
 
 ### Career Paths in Seattle Web3
 

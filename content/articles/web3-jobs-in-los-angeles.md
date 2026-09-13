@@ -23,18 +23,10 @@ LA's crypto climate mirrors its dominance in the creative sphere.
 -------------------------|
 
 -------------|
-| 
-
-**NFT Capital**| Los Angeles is a leading city for NFTs, housing a large number of NFT artists, collectors, and teams behind significant Profile Picture (PFP) projects. The city's rich artistic history fuels a continuous influx of new creative initiatives. |
-|
-
-**Web3 Gaming Hub**| Proximity to major video game studios and a vast community of gamers have made LA a central location for Web3 gaming (GameFi). Leading venture funds and startups focused on developing the metaverse and player-owned economies are based here. |
-|
-
-**Creator Economy**| As a focal point for the creator economy, LA sees Web3 tools that enable new monetization strategies, from social tokens to [token](/what-is-a-token)-gated content, being developed and accepted. |
-|
-
-**Venture Capital Presence**| The city boasts a strong venture capital scene, with numerous funds dedicated to Web3 investment, particularly in consumer-facing applications, gaming, and NFTs. |
+| **NFT Capital** | Los Angeles is a leading city for NFTs, housing a large number of NFT artists, collectors, and teams behind significant Profile Picture (PFP) projects. The city's rich artistic history fuels a continuous influx of new creative initiatives. |
+| **Web3 Gaming Hub** | Proximity to major video game studios and a vast community of gamers have made LA a central location for Web3 gaming (GameFi). Leading venture funds and startups focused on developing the metaverse and player-owned economies are based here. |
+| **Creator Economy** | As a focal point for the creator economy, LA sees Web3 tools that enable new monetization strategies, from social tokens to [token](/what-is-a-token)-gated content, being developed and accepted. |
+| **Venture Capital Presence** | The city boasts a strong venture capital scene, with numerous funds dedicated to Web3 investment, particularly in consumer-facing applications, gaming, and NFTs. |
 
 ### High-Demand Roles and Compensation
 
@@ -48,21 +40,11 @@ The job market in Los Angeles is particularly strong for roles in creative indus
 ------------------|
 
 ---------------|
-|
-
-**Community Manager (NFT/Gaming Projects)**| Competitive | Competitive |
-|
-
-**Marketing & Brand Lead**| | Competitive |
-|
-
-**[Smart Contract](/what-are-smart-contracts) Developer (ERC-721/1155 Focus)**| Competitive | Competitive |
-|
-
-**Unity / Unreal Engine Developer**| | Competitive |
-|
-
-**Business Development (Entertainment & Brand Partnerships)**| | Competitive |
+| **Community Manager (NFT/Gaming Projects)** | Competitive | Competitive |
+| **Marketing & Brand Lead** | | Competitive |
+| **[Smart Contract](/what-are-smart-contracts) Developer (ERC-721/1155 Focus)** | Competitive | Competitive |
+| **Unity / Unreal Engine Developer** | | Competitive |
+| **Business Development (Entertainment & Brand Partnerships)** | | Competitive |
 
 ### Building a Web3 Career in Los Angeles
 

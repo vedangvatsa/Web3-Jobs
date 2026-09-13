@@ -26,21 +26,11 @@ This article explains what LP tokens are, how you acquire them, their primary fu
 -----------------------------|
 
 ------------------------------------------------------------------------------------------------------|
-| 
-
-**Nature of LP Tokens**| LP tokens are a specific type of ERC-20 token received upon depositing assets into a liquidity pool. |
-|
-
-**Ownership Representation**| The quantity of LP tokens you possess signifies your ownership percentage of total assets in the pool.|
-|
-
-**Fee Entitlement**| Holding LP tokens grants you a share of the trading fees generated, proportional to your ownership stake. |
-|
-
-**Yield Farming Tool**| LP tokens can be staked in various "farms" to earn additional token rewards, enhancing your yield. |
-|
-
-**Impermanent Loss Risk**| The primary risk associated with LP tokens is impermanent loss, which arises from price fluctuations of the assets in the pool. |
+| **Nature of LP Tokens** | LP tokens are a specific type of ERC-20 token received upon depositing assets into a liquidity pool. |
+| **Ownership Representation** | The quantity of LP tokens you possess signifies your ownership percentage of total assets in the pool.|
+| **Fee Entitlement** | Holding LP tokens grants you a share of the trading fees generated, proportional to your ownership stake. |
+| **Yield Farming Tool** | LP tokens can be staked in various "farms" to earn additional token rewards, enhancing your yield. |
+| **Impermanent Loss Risk** | The primary risk associated with LP tokens is impermanent loss, which arises from price fluctuations of the assets in the pool. |
 
 ### How to Get LP Tokens: Providing Liquidity
 

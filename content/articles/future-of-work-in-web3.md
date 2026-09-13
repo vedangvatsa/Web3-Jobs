@@ -80,15 +80,9 @@ The Web3 job market operates under different dynamics compared to the traditiona
 --------------------------------------|
 
 ----------------------------------------|
-|
-
-**Compensation**| Standard salaries | Generally higher average compensation, with bonuses and equity included |
-|
-
-**Work Culture**| Office-based or hybrid | Primarily remote, offering unique flexibility |
-|
-
-**Career Progression**| Slower, often linear | Rapid advancement due to scaling and talent shortages |
+| **Compensation** | Standard salaries | Generally higher average compensation, with bonuses and equity included |
+| **Work Culture** | Office-based or hybrid | Primarily remote, offering unique flexibility |
+| **Career Progression** | Slower, often linear | Rapid advancement due to scaling and talent shortages |
 |
 
 **Equity Opportunities** | Limited stock options | Token and equity packages that provide significant wealth potential |

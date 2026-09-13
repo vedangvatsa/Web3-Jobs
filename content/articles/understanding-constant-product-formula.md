@@ -19,9 +19,7 @@ This article breaks down the constant product formula, its practical application
 
 ### Key Insights
 
-| 
-
-**Term**|
+| **Term** |
 
 **Definition** |
 |

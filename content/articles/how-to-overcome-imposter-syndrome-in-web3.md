@@ -55,9 +55,8 @@ You can test whether you are in this loop by asking: after a win, do you explain
 
 No large published study in 2026 has measured impostor phenomenon specifically in Web3 workers with a validated scale, so there is no Web3-specific prevalence rate to quote. What we can say is that Web3 has several structural features that map onto known triggers in the literature, such as rapid skill change, public evaluation, and ambiguous career paths.
 
-**1. The skill surface changes quickly.
-
-**Electric Capital analyzed 902 million code commits across 1.7 million repositories for its 2024 Developer Report. Total monthly active crypto developers were 23,613 in November 2024, down 7 percent year over year, while established developers with two or more years of tenure reached an all-time high, grew 27 percent year over year, and wrote 70 percent of all code. About one in three developers supports more than one chain. That tells you two things. The bar for staying current is high, and the most productive work is concentrated among people who have stayed for years.** 2. Your work is visible.
+#### 1. The skill surface changes quickly.
+Electric Capital analyzed 902 million code commits across 1.7 million repositories for its 2024 Developer Report. Total monthly active crypto developers were 23,613 in November 2024, down 7 percent year over year, while established developers with two or more years of tenure reached an all-time high, grew 27 percent year over year, and wrote 70 percent of all code. About one in three developers supports more than one chain. That tells you two things. The bar for staying current is high, and the most productive work is concentrated among people who have stayed for years.** 2. Your work is visible.
 
 **Commits, audits, on-chain deployments, proposals, and dashboards are public. Reviewers can check in 30 seconds whether a repo has tests, a README, and a verified contract. That legibility helps hiring, but it also means early work is exposed. In a general tech hiring pattern, 85 percent of United States employers used skills-based hiring in 2025, up from 81 percent in 2024, according to TestGorilla's State of Skills-Based Hiring 2025, and many Web3 teams add a dedicated portfolio review for that reason. When your proof is public, comparison is constant.** 3. Competition is intense for developer roles.
 

@@ -68,13 +68,9 @@ As a gateway to Asia, Singapore connects to over 1.3 billion people across South
 
 The job market in Singapore is sophisticated and demands highly skilled professionals. The competition for top talent is intense, reflected in the high salaries offered, making Singapore one of the highest-paying locations for Web3 careers outside the United States.
 
-|
+| **Role** |
 
-**Role**|
-
-**Mid-Level Salary (SGD)**|
-
-**Senior Salary (SGD)**|
+**Mid-Level Salary (SGD)**| **Senior Salary (SGD)** |
 
 **Notes**|
 |
@@ -149,9 +145,7 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 
 ### Cost of Living vs. Salary Reality
 
-**Monthly Expenses (SGD):**|
-
-**Expense**|
+**Monthly Expenses (SGD):**| **Expense** |
 
 **Cost Range**|
 |
@@ -163,9 +157,7 @@ The job market in Singapore is sophisticated and demands highly skilled professi
 | Food/Dining | 500 - 1,200 |
 | Transportation | 100 - 200 |
 | Utilities | 100 - 200 |
-|
-
-**Total**|
+| **Total** |
 
 **2,700 - 5,100/month**|
 

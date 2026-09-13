@@ -59,18 +59,10 @@ The structural design of a blockchain endows it with several distinctive propert
 ------------------|
 
 --------------------------------------------------------------------------------------------------------------------------------------|
-|
-
-**Decentralization**| No central server exists. The ledger is distributed across a peer-to-peer network, eliminating single points of failure. |
-|
-
-**Immutability**| Transactions recorded on the blockchain cannot be altered or deleted, ensuring a permanent and trustworthy history. |
-|
-
-**Transparency**| Public blockchains allow anyone to view transaction histories. Participants remain pseudonymous, but the transaction flow is fully open. |
-|
-
-**Security**| The combination of decentralization, hashing, and consensus mechanisms results in a highly secure system against potential attacks. |
+| **Decentralization** | No central server exists. The ledger is distributed across a peer-to-peer network, eliminating single points of failure. |
+| **Immutability** | Transactions recorded on the blockchain cannot be altered or deleted, ensuring a permanent and trustworthy history. |
+| **Transparency** | Public blockchains allow anyone to view transaction histories. Participants remain pseudonymous, but the transaction flow is fully open. |
+| **Security** | The combination of decentralization, hashing, and consensus mechanisms results in a highly secure system against potential attacks. |
 
 ## Types of Blockchains
 

@@ -20,9 +20,8 @@ Imagine a classical computer as a light switch with two states: on (1) or off (0
 
 Understanding quantum computing requires familiarizing yourself with several fundamental concepts from quantum physics.
 
-**1. The Qubit
-
-**A qubit, or quantum bit, is the fundamental unit of information in a quantum computer. While a classical bit can represent one of two states (0 or 1), a qubit can exist in a superposition of both states simultaneously. This characteristic allows qubits to hold exponentially more information than classical bits. For instance, while two classical bits can represent four combinations (00, 01, 10, 11), two qubits in superposition can represent all four combinations at once. The number of combinations grows exponentially with each additional qubit.** 2. Superposition
+#### 1. The Qubit
+A qubit, or quantum bit, is the fundamental unit of information in a quantum computer. While a classical bit can represent one of two states (0 or 1), a qubit can exist in a superposition of both states simultaneously. This characteristic allows qubits to hold exponentially more information than classical bits. For instance, while two classical bits can represent four combinations (00, 01, 10, 11), two qubits in superposition can represent all four combinations at once. The number of combinations grows exponentially with each additional qubit.** 2. Superposition
 
 **Superposition refers to the ability of a quantum system to exist in multiple states until measured. Picture a spinning coin. While it's in motion, it doesn't land on heads or tails but embodies both outcomes. Only when the coin stops does it reveal a definitive state. Similarly, a qubit in superposition retains the probabilities of being either 0 or 1, collapsing into a specific state upon measurement. This ability to investigate various states simultaneously is a key advantage of quantum computing.** 3. Entanglement
 
@@ -40,18 +39,10 @@ Quantum computers are not designed to replace traditional devices like laptops a
 -----------------------------------------------------|
 
 ---------------------------------------------------------------------|
-|
-
-**Basic Unit**| Bit (0 or 1) | Qubit (0, 1, or both) |
-|
-
-**Operation Method**| Logic gates on bits | Quantum gates on qubits using superposition and entanglement |
-|
-
-**Optimal Use Cases**| Everyday tasks such as web browsing, email, gaming | Complex optimization, simulation, and cryptography problems |
-|
-
-**Error Sensitivity**| Generally stable and reliable | Highly sensitive to errors caused by noise (e.g., temperature) |
+| **Basic Unit** | Bit (0 or 1) | Qubit (0, 1, or both) |
+| **Operation Method** | Logic gates on bits | Quantum gates on qubits using superposition and entanglement |
+| **Optimal Use Cases** | Everyday tasks such as web browsing, email, gaming | Complex optimization, simulation, and cryptography problems |
+| **Error Sensitivity** | Generally stable and reliable | Highly sensitive to errors caused by noise (e.g., temperature) |
 
 Classical computers excel at general-purpose computing, while quantum computers act as specialized instruments capable of solving particular problems significantly faster than traditional systems.
 

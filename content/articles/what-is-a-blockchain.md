@@ -59,18 +59,10 @@ The blockchain's structure endows it with several essential properties that diff
 ----------------|
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|
-
-**Decentralization**| There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (nodes). Each node maintains a complete copy of the blockchain, eliminating single points of failure and enhancing resistance to censorship or control. |
-|
-
-**Immutability**| Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record. |
-|
-
-**Transparency**| In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |
-|
-
-**Security**| Decentralization, cryptographic hashing, and consensus mechanisms contribute to a reliable security framework. An attacker would need to control over 51% of the network's computing power (a "51% attack") to compromise the system, a feat that is prohibitively expensive and challenging on large, established blockchains. |
+| **Decentralization** | There is no central server or authority. The ledger is distributed across a peer-to-peer network of computers (nodes). Each node maintains a complete copy of the blockchain, eliminating single points of failure and enhancing resistance to censorship or control. |
+| **Immutability** | Once a transaction is recorded and a block is added to the chain, it cannot be altered or deleted. Cryptographic links ensure the permanence and accuracy of transaction history, creating a reliable and auditable record. |
+| **Transparency** | In public blockchains like Bitcoin and Ethereum, anyone can access the entire transaction history. While participants' identities are pseudonymous (represented by [wallet](/how-to-choose-a-crypto-wallet) addresses), the flow of value remains open for audits, establishing a high level of transparency. |
+| **Security** | Decentralization, cryptographic hashing, and consensus mechanisms contribute to a reliable security framework. An attacker would need to control over 51% of the network's computing power (a "51% attack") to compromise the system, a feat that is prohibitively expensive and challenging on large, established blockchains. |
 
 ## Types of Blockchains
 

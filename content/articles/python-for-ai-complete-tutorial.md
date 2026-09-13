@@ -32,15 +32,9 @@ Three libraries form the cornerstone of any AI or data science project:
 ----------------|
 
 ------------------------------------------------|
-|
-
-**NumPy**| Handles numerical operations |
-|
-
-**Pandas**| Enables data manipulation and analysis |
-|
-
-**Scikit-learn**| Provides tools for building traditional machine learning models |
+| **NumPy** | Handles numerical operations |
+| **Pandas** | Enables data manipulation and analysis |
+| **Scikit-learn** | Provides tools for building traditional machine learning models |
 
 Let's explore each library in detail.
 

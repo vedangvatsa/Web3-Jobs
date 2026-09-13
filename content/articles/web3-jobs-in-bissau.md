@@ -75,14 +75,10 @@ Currently, Bissau lacks a formal job market for Web3 positions. Career opportuni
 | Rent | Varies |
 | Food & Essentials| Varies |
 | Transport | Varies |
-|
-
-**Total Basic Living**|
+| **Total Basic Living** |
 
 **Varies**|
-|
-
-**Savings**|
+| **Savings** |
 
 **Varies**|
 

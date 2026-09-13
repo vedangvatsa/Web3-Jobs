@@ -26,13 +26,9 @@ Algiers' Web3 ecosystem is still developing, with several factors driving its gr
 
 The formal Web3 job market in Algiers is currently limited. The most significant opportunities lie in remote positions with international companies or entrepreneurial ventures aimed at establishing the first local Web3 startups.
 
-|
+| **Role** |
 
-**Role**|
-
-**Salary Range**|
-
-**Description**|
+**Salary Range**| **Description** |
 |
 
 ---------------------------------|

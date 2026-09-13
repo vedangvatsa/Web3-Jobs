@@ -17,9 +17,7 @@ The NYC Web3 environment thrives on its abundance of financial talent, proximity
 
 New York's position as a Web3 leader arises from its historical role as the financial capital of the world.
 
-| 
-
-**Aspect**|
+| **Aspect** |
 
 **Details**|
 |
@@ -27,21 +25,11 @@ New York's position as a Web3 leader arises from its historical role as the fina
 ----------------------------------|
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|
-
-**DeFi and TradFi Integration**| NYC leads the development of projects that bridge DeFi and TradFi, including institutional DeFi protocols and compliant digital asset custody solutions. |
-|
-
-**Institutional Capital Access**| The concentration of banks, hedge funds, and asset managers in NYC creates a substantial demand for financial products tailored to sophisticated investors. |
-|
-
-**Regulatory Environment**| Being the home of Wall Street, New York is central to regulatory discussions, increasing demand for legal and compliance professionals who can manage evolving frameworks. |
-|
-
-**Major Companies and VCs**| The city hosts major firms like Chainalysis and a16z Crypto, creating a competitive talent market. |
-|
-
-**Financialization of NFTs**| While Los Angeles leads in NFT culture, New York focuses on the financial aspects, with projects centered around NFT lending, fractional ownership, and derivatives. |
+| **DeFi and TradFi Integration** | NYC leads the development of projects that bridge DeFi and TradFi, including institutional DeFi protocols and compliant digital asset custody solutions. |
+| **Institutional Capital Access** | The concentration of banks, hedge funds, and asset managers in NYC creates a substantial demand for financial products tailored to sophisticated investors. |
+| **Regulatory Environment** | Being the home of Wall Street, New York is central to regulatory discussions, increasing demand for legal and compliance professionals who can manage evolving frameworks. |
+| **Major Companies and VCs** | The city hosts major firms like Chainalysis and a16z Crypto, creating a competitive talent market. |
+| **Financialization of NFTs** | While Los Angeles leads in NFT culture, New York focuses on the financial aspects, with projects centered around NFT lending, fractional ownership, and derivatives. |
 
 ### In-Demand Roles and Salary Expectations
 

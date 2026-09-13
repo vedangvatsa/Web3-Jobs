@@ -18,9 +18,8 @@ Top developers combine deep technical expertise with a strong security focus and
 
 ### Foundational Technical Skills
 
-**1. [Solidity](/best-programming-languages-for-blockchain-development) Mastery:** Mastering Solidity is essential. As the primary language for smart contract development on [Ethereum](/what-is-ethereum) and EVM-compatible chains, proficiency in Solidity goes beyond basic syntax. Developers must understand data locations (`storage`, `memory`, `calldata`), design patterns such as Checks-Effects-Interactions, and the latest language features.
-
-**2. Smart Contract Development Frameworks ([Foundry](/essential-web3-developer-tools) & Hardhat):** Building, testing, and deploying decentralized applications (dApps) requires familiarity with modern development frameworks. 
+#### 1. [Solidity](/best-programming-languages-for-blockchain-development) Mastery:** Mastering Solidity is essential. As the primary language for smart contract development on [Ethereum](/what-is-ethereum) and EVM-compatible chains, proficiency in Solidity goes beyond basic syntax. Developers must understand data locations (`storage`, `memory`, `calldata`), design patterns such as Checks-Effects-Interactions, and the latest language features.
+2. Smart Contract Development Frameworks ([Foundry](/essential-web3-developer-tools) & Hardhat):** Building, testing, and deploying decentralized applications (dApps) requires familiarity with modern development frameworks. 
 
 | Framework | Description |
 |
@@ -28,12 +27,8 @@ Top developers combine deep technical expertise with a strong security focus and
 -----------|
 
 -------------|
-|
-
-**Foundry**| A Rust-based toolkit gaining traction due to its speed and effective fuzz testing capabilities. |
-|
-
-**Hardhat**| A JavaScript-based development environment that remains popular, supported by a reliable ecosystem of plugins. |
+| **Foundry** | A Rust-based toolkit gaining traction due to its speed and effective fuzz testing capabilities. |
+| **Hardhat** | A JavaScript-based development environment that remains popular, supported by a reliable ecosystem of plugins. |
 
 Proficiency in at least one of these frameworks is important, with knowledge of both being advantageous.
 

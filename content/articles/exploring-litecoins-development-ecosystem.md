@@ -29,18 +29,10 @@ To evaluate developer activity on a public blockchain, several metrics come into
 ---------------------------------|
 
 -----------------------------------------------------------------------------------------------------------------------|
-| 
-
-**Core Protocol Commits**| Frequency and significance of updates to the Litecoin codebase on repositories like [GitHub](/building-web3-portfolio). |
-|
-
-**Number of Active Developers**| Monthly active developers contributing to the ecosystem, as reported by various industry sources. |
-|
-
-**Ecosystem Project Growth**| Number and quality of new projects built on Litecoin, including wallets, payment processors, and second-layer solutions. |
-|
-
-**Community and Grant Programs**| Activity level in grant programs from the Litecoin Foundation, alongside discussions in developer forums and channels. |
+| **Core Protocol Commits** | Frequency and significance of updates to the Litecoin codebase on repositories like [GitHub](/building-web3-portfolio). |
+| **Number of Active Developers** | Monthly active developers contributing to the ecosystem, as reported by various industry sources. |
+| **Ecosystem Project Growth** | Number and quality of new projects built on Litecoin, including wallets, payment processors, and second-layer solutions. |
+| **Community and Grant Programs** | Activity level in grant programs from the Litecoin Foundation, alongside discussions in developer forums and channels. |
 
 By examining these areas, one can arrive at a data-driven conclusion about the state of Litecoin's developer activity and its future trajectory.
 

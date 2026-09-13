@@ -68,18 +68,10 @@ During your final two weeks, focus on enabling a smooth handover. Collaborate wi
 ------------------------------------------|
 
 ------------------------------------------------------------------------|
-|
-
-**Document Key Responsibilities**| Create a guide detailing your main tasks and processes for your successor. |
-|
-
-**Organize Files**| Ensure all project files and important documents are accessible and well-organized. |
-|
-
-**Train Your Replacement**| If possible, train your successor and introduce them to key team members. |
-|
-
-**Complete Critical Tasks**| Aim to finish any urgent projects before your departure. |
+| **Document Key Responsibilities** | Create a guide detailing your main tasks and processes for your successor. |
+| **Organize Files** | Ensure all project files and important documents are accessible and well-organized. |
+| **Train Your Replacement** | If possible, train your successor and introduce them to key team members. |
+| **Complete Critical Tasks** | Aim to finish any urgent projects before your departure. |
 
 A proactive and cooperative attitude during your notice period will be remembered positively.
 

@@ -19,9 +19,7 @@ This article examines the relationship between blockchain technology and [Web3](
 
 The current internet, known as Web2, operates on a client-server model. Data and applications reside on centralized servers owned by corporations such as Google, Meta, and Amazon. This model presents several critical issues that Web3 aims to address:
 
-|
-
-**Issue**|
+| **Issue** |
 
 **Description**|
 |

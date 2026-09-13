@@ -23,9 +23,8 @@ When 1:1s become status meetings, real problems go underground. Your team starts
 
 Keep it simple. A good 1:1 has three blocks:
 
-**1. Their items (first half).
-
-**The direct report drives the first part of the meeting. They bring what's on their mind - blockers, frustrations, ideas, feedback, career questions. If they consistently show up with nothing, that's a signal. Either they don't trust the meeting, or you haven't coached them on how to use it.** 2. Your items (a few minutes).
+#### 1. Their items (first half).
+The direct report drives the first part of the meeting. They bring what's on their mind - blockers, frustrations, ideas, feedback, career questions. If they consistently show up with nothing, that's a signal. Either they don't trust the meeting, or you haven't coached them on how to use it.** 2. Your items (a few minutes).
 
 **Share context they might not have - upcoming org changes, feedback from stakeholders, or things you've noticed about their work. Keep it targeted. This isn't a performance review; it's a heads-up.** 3. Growth and development (ongoing thread).
 

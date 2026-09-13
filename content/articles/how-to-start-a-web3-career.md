@@ -64,10 +64,10 @@ With some experience and a small portfolio of work, you can begin searching for 
 - **Build Authentic Connections:** The relationships established in Discord servers and on Twitter become your professional network. Focus on forming genuine connections rather than simply asking for jobs. Contribute value to the community.
 - **Tailor Your [Resume](/how-to-build-a-web3-resume-that-stands-out):** Reframe your previous experience using Web3 terminology. For example, a "social media manager" can become a "community builder." Include a "Web3 Contributions" section in your resume, linking directly to your work.
 - **Look for Entry-Level Roles Such As:**
- - Community Moderator
- - Marketing Assistant
- - Social Media Coordinator
- - [Technical Support Specialist](/web3-customer-support-careers)
- - Junior Content Writer
+  - Community Moderator
+  - Marketing Assistant
+  - Social Media Coordinator
+  - [Technical Support Specialist](/web3-customer-support-careers)
+  - Junior Content Writer
 
 The process of securing your first [Web3 job](/web3-jobs-for-beginners) requires patience and active engagement. The barriers to entry are low compared to traditional industries, and the opportunities for growth are substantial. By immersing yourself in the culture, honing a valuable skill, and creating a public portfolio of your contributions, you can successfully start a rewarding career in the evolving digital field.

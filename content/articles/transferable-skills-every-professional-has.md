@@ -23,9 +23,7 @@ Transferable skills generally fall into two main categories: hard skills and sof
 
 Hard skills are technical abilities that can be easily defined and measured. These skills are often acquired through formal education, certifications, or on-the-job training. Despite seeming role-specific, many hard skills have broad applicability.
 
-| 
-
-**Hard Skill**|
+| **Hard Skill** |
 
 **Examples of Application**|
 |
@@ -33,29 +31,17 @@ Hard skills are technical abilities that can be easily defined and measured. The
 ---------------------------|
 
 -------------------------------------------------------------|
-|
-
-**Software Proficiency**| Mastery of Excel for data analysis; familiarity with design tools like Canva or Photoshop; experience with project management tools such as Asana or Jira. |
-|
-
-**Data Analysis**| Tracking metrics, creating budgets, or analyzing sales figures, showcasing your ability to use data for informed decision-making. |
-|
-
-**Writing**| Crafting reports, blog posts, or professional emails demonstrates clear and concise communication skills. |
-|
-
-**Project Management**| Planning events, managing team projects, or coordinating renovations involves defining scope, managing timelines, and allocating resources. |
-|
-
-**Languages**| Proficiency in multiple languages is a considerable asset in global business contexts. |
+| **Software Proficiency** | Mastery of Excel for data analysis; familiarity with design tools like Canva or Photoshop; experience with project management tools such as Asana or Jira. |
+| **Data Analysis** | Tracking metrics, creating budgets, or analyzing sales figures, showcasing your ability to use data for informed decision-making. |
+| **Writing** | Crafting reports, blog posts, or professional emails demonstrates clear and concise communication skills. |
+| **Project Management** | Planning events, managing team projects, or coordinating renovations involves defining scope, managing timelines, and allocating resources. |
+| **Languages** | Proficiency in multiple languages is a considerable asset in global business contexts. |
 
 #### Soft Skills
 
 Soft skills encompass interpersonal and character traits that dictate how you interact with others and approach work. While harder to quantify, these skills often distinguish candidates in competitive job markets. Employers increasingly seek candidates who possess strong soft skills because they are difficult to teach.
 
-|
-
-**Soft Skill**|
+| **Soft Skill** |
 
 **Description**|
 |
@@ -63,24 +49,12 @@ Soft skills encompass interpersonal and character traits that dictate how you in
 ---------------------------|
 
 ----------------------------------------------------------|
-|
-
-**Communication**| Involves clear speaking and writing, active listening, persuasion, and providing constructive feedback. |
-|
-
-**Teamwork and Collaboration**| Demonstrates ability to work effectively within teams to achieve common goals. |
-|
-
-**Problem-Solving**| Ability to identify issues, analyze them, and develop creative solutions. |
-|
-
-**Adaptability**| Flexibility in handling change or unexpected challenges in fast-paced environments. |
-|
-
-**Leadership**| Skills in mentoring others, taking initiative, or motivating a group without needing a formal title. |
-|
-
-**Time Management**| Prioritizing tasks, meeting deadlines, and managing workloads efficiently. |
+| **Communication** | Involves clear speaking and writing, active listening, persuasion, and providing constructive feedback. |
+| **Teamwork and Collaboration** | Demonstrates ability to work effectively within teams to achieve common goals. |
+| **Problem-Solving** | Ability to identify issues, analyze them, and develop creative solutions. |
+| **Adaptability** | Flexibility in handling change or unexpected challenges in fast-paced environments. |
+| **Leadership** | Skills in mentoring others, taking initiative, or motivating a group without needing a formal title. |
+| **Time Management** | Prioritizing tasks, meeting deadlines, and managing workloads efficiently. |
 
 ### Identifying Your Transferable Skills
 
@@ -150,9 +124,7 @@ Transferable skills serve as a foundation for success in various career paths. W
 
 ### Development Roadmap
 
-|
-
-**Timeline**|
+| **Timeline** |
 
 **Actions**|
 |
@@ -160,18 +132,10 @@ Transferable skills serve as a foundation for success in various career paths. W
 ------------------------|
 
 ----------------------------------------------------|
-|
-
-**Month 1: Assessment & Foundation**| Evaluate your current skill levels, identify gaps, and commit to dedicated practice (5-10 hours/week). Read foundational books or take relevant courses. |
-|
-
-**Months 2-3: Active Development**| Engage in consistent practice with feedback, seek mentorship, work on real projects, and track measurable progress. |
-|
-
-**Months 4-6: Specialization**| Deepen your expertise in your strongest areas, create a [portfolio](/building-web3-portfolio) that showcases your skills, and share knowledge with others to reinforce learning. |
-|
-
-**Months 6-12: Integration & Mastery**| Apply skills in complex scenarios, transition from conscious to unconscious competence, assist others in skill development, and continuously refine based on feedback. |
+| **Month 1: Assessment & Foundation** | Evaluate your current skill levels, identify gaps, and commit to dedicated practice (5-10 hours/week). Read foundational books or take relevant courses. |
+| **Months 2-3: Active Development** | Engage in consistent practice with feedback, seek mentorship, work on real projects, and track measurable progress. |
+| **Months 4-6: Specialization** | Deepen your expertise in your strongest areas, create a [portfolio](/building-web3-portfolio) that showcases your skills, and share knowledge with others to reinforce learning. |
+| **Months 6-12: Integration & Mastery** | Apply skills in complex scenarios, transition from conscious to unconscious competence, assist others in skill development, and continuously refine based on feedback. |
 
 ### Real-World Applications
 

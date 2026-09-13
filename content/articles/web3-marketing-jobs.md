@@ -25,18 +25,10 @@ The traditional marketing funnel, Awareness, Interest, Decision, Action, transfo
 -------------------------|
 
 ---------------------------------------------------------------------------------------------------|
-| 
-
-**Discovery**| Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
-|
-
-**Immersion (The Rabbit Hole)**| A potential user joins your Discord community, engaging in a passive learning phase. Your marketing goal is to educate and set the community's tone. Is the environment welcoming? Is the dialogue insightful? |
-|
-
-**Contribution**| Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |
-|
-
-**Ownership**| Users transition from passive observers to active owners by acquiring the project's [token](/what-is-a-token), using the protocol, or purchasing an [NFT](/what-are-nfts). |
+| **Discovery** | Users discover your project via Twitter, podcasts, or reputable media outlets like Bankless or The Defiant, rather than through traditional ads. |
+| **Immersion (The Rabbit Hole)** | A potential user joins your Discord community, engaging in a passive learning phase. Your marketing goal is to educate and set the community's tone. Is the environment welcoming? Is the dialogue insightful? |
+| **Contribution** | Users begin participating by asking questions, assisting newcomers, or commenting on governance proposals. |
+| **Ownership** | Users transition from passive observers to active owners by acquiring the project's [token](/what-is-a-token), using the protocol, or purchasing an [NFT](/what-are-nfts). |
 
 ### Key Marketing Roles in Web3
 

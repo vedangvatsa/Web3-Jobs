@@ -52,9 +52,7 @@ This verification process typically occurs within seconds, without the verifier 
 
 A VC is generally formatted as a JSON object (specifically, JSON-LD - Linked Data) with several key components:
 
-|
-
-**Component**|
+| **Component** |
 
 **Description**|
 |

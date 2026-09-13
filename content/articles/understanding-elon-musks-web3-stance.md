@@ -52,9 +52,7 @@ Musk's vision for X provides insight into his thinking. He aims to transform the
 
 This vision shares some commonalities with Web3 ideals:
 
-| 
-
-**Web3 Ideal**|
+| **Web3 Ideal** |
 
 **X Vision Element**|
 |

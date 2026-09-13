@@ -71,9 +71,7 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 -----------------------------------------|
 | Junior Web3 Developer (0-1 year) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) |
 | Mid-Level Developer (1-3 years) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) |
-| Senior Developer (3+ years) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) |
-
-**Local Options:**| Role | Salary Range (NAD) |
+| Senior Developer (3+ years) | NAD 250,000 - NAD 600,000 ($14,000 - $35,000 USD) | **Local Options:** | Role | Salary Range (NAD) |
 |
 
 -----------------------------------------------|
@@ -96,14 +94,10 @@ The formal Web3 job market in Windhoek is still nascent. Primary opportunities i
 | Rent (nice area) | Variable |
 | Food & Living | Variable |
 | Recreation | Variable |
-|
-
-**Total**|
+| **Total** |
 
 **Variable**|
-|
-
-**Savings**|
+| **Savings** |
 
 **Variable**|
 

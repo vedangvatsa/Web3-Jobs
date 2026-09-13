@@ -81,13 +81,9 @@ Smart contract audits are important for the security of blockchain projects. The
 
 Below is a concise table outlining the smart contract audit process, including the typical duration and primary focus areas:
 
-|
+| **Phase** |
 
-**Phase**|
-
-**Duration**|
-
-**Primary Focus**|
+**Duration**| **Primary Focus** |
 |
 
 -------------------------------|

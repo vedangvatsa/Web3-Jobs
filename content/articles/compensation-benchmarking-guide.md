@@ -54,9 +54,8 @@ Carta Data for H2 2025, published May 2026, shows why structure matters now. Tea
 
 Benchmarking has a consistent method. You match the job, pick sources that fit the job, adjust for location and level, and document the cut you used.
 
-**1. Match the job by level, not title.
-
-**A "senior engineer" at one protocol is a mid-level elsewhere. Map years of experience, scope, and on-call or security responsibility. For Web3, note specialization: Solidity and EVM work, Rust and Solana or Polkadot work, zero-knowledge, and security audit are priced differently.** 2. Pick at least two sources that measure the same mix.
+#### 1. Match the job by level, not title.
+A "senior engineer" at one protocol is a mid-level elsewhere. Map years of experience, scope, and on-call or security responsibility. For Web3, note specialization: Solidity and EVM work, Rust and Solana or Polkadot work, zero-knowledge, and security audit are priced differently.** 2. Pick at least two sources that measure the same mix.
 
 **BLS Occupational Employment and Wage Statistics reports base wages from payrolls across all industries. Glassdoor reports median total pay from self-reported submissions, base plus additional pay such as bonus. Levels.fyi reports total compensation from verified offers, base plus bonus plus annualized stock plus amortized signing, and skews to large tech. Payscale, Radford, Mercer, and WTW run employer surveys. Ravio, Pave, and Carta Total Comp pull live HRIS data. For a base salary question, use BLS or Payscale. For total compensation at venture-backed tech, use Levels.fyi or Carta. Do not compare a BLS base to a Levels.fyi total and call the gap a premium.** 3. Adjust for location.
 

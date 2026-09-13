@@ -22,9 +22,7 @@ This guide outlines key rules and best practices for professional email etiquett
 
 The subject line holds critical importance in your email. It influences whether your email is opened, prioritized, and easily located later. An effective subject line succinctly summarizes the email's content and intent.
 
-**Best Practices for Subject Lines:**|
-
-**Practice**|
+**Best Practices for Subject Lines:**| **Practice** |
 
 **Details**|
 |
@@ -41,15 +39,9 @@ The subject line holds critical importance in your email. It influences whether 
 | | 
 
 - *Good:* "Decision Needed: Q4 Marketing Budget - Please Review by EOD" |
-| 
-
-**Use Prefixes**| Incorporate prefixes like `[Action Required]`, `[For Your Review]`, or `[URGENT]` for clarity.|
-|
-
-**Keep it Short**| Aim for 5-7 words; many email clients truncate long subject lines, especially on mobile. |
-|
-
-**Update in Long Chains**| If the topic changes in an email thread, adjust the subject line accordingly. |
+| **Use Prefixes** | Incorporate prefixes like `[Action Required]`, `[For Your Review]`, or `[URGENT]` for clarity.|
+| **Keep it Short** | Aim for 5-7 words; many email clients truncate long subject lines, especially on mobile. |
+| **Update in Long Chains** | If the topic changes in an email thread, adjust the subject line accordingly. |
 
 ## 2. The Salutation: Start with Respect
 

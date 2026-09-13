@@ -26,13 +26,9 @@ Pretoria's Web3 ecosystem is shaped by its close ties to government institutions
 
 The job market in Pretoria shows strong demand for professionals experienced in public sector technology, enterprise software, and regulation.
 
-|
+| **Position** |
 
-**Position**|
-
-**Description**|
-
-**Salary Range (ZAR/month)**|
+**Description**| **Salary Range (ZAR/month)** |
 
 **Salary Range (USD/month)**|
 |
@@ -63,13 +59,9 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 
 #### Local Opportunities (GovTech & Enterprise)
 
-|
+| **Position** |
 
-**Position**|
-
-**Salary (ZAR/month)**|
-
-**Salary (USD/month)**|
+**Salary (ZAR/month)**| **Salary (USD/month)** |
 |
 
 --------------|
@@ -84,9 +76,7 @@ The job market in Pretoria shows strong demand for professionals experienced in 
 
 #### Remote Opportunities (Less Common Locally)
 
-|
-
-**Position**|
+| **Position** |
 
 **Salary (USD/month)**|
 |

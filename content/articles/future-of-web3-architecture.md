@@ -78,18 +78,10 @@ The modular blockchain thesis has transitioned from theoretical discussions to r
 ------------------------------------------------------|
 
 ------------------------------------------------------|
-|
-
-**Execution**| Process transactions, run smart contracts | Arbitrum, Optimism, zkSync Era, Starknet |
-|
-
-**Data Availability**| Store transaction data, ensure retrievability | Celestia, EigenDA, Avail, Ethereum blobs |
-|
-
-**Settlement**| Verify proofs, resolve disputes | Ethereum |
-|
-
-**Sequencing**| Order transactions, produce blocks | Centralized sequencers (current), shared sequencing (emerging) |
+| **Execution** | Process transactions, run smart contracts | Arbitrum, Optimism, zkSync Era, Starknet |
+| **Data Availability** | Store transaction data, ensure retrievability | Celestia, EigenDA, Avail, Ethereum blobs |
+| **Settlement** | Verify proofs, resolve disputes | Ethereum |
+| **Sequencing** | Order transactions, produce blocks | Centralized sequencers (current), shared sequencing (emerging) |
 
 **Arbitrum** currently leads in developer activity among optimistic [rollup](/optimistic-rollup) networks. Its Orbit stack allows teams to launch custom Layer 3 chains settled on Arbitrum.
 

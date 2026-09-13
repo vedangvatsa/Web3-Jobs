@@ -28,18 +28,10 @@ Before creating your slides, conduct thorough research on your audience. Underst
 -----------------------|
 
 ----------------------------------------------------|
-| 
-
-**Attendees**| Who are the participants? What roles do they occupy? |
-|
-
-**Priorities**| What key initiatives and metrics are they focused on? |
-|
-
-**Communication Style**| Do they prefer high-level summaries or detailed data? |
-|
-
-**Topic History**| Have they supported similar initiatives previously or expressed skepticism? |
+| **Attendees** | Who are the participants? What roles do they occupy? |
+| **Priorities** | What key initiatives and metrics are they focused on? |
+| **Communication Style** | Do they prefer high-level summaries or detailed data? |
+| **Topic History** | Have they supported similar initiatives previously or expressed skepticism? |
 
 By knowing your audience, you can tailor your presentation to address their interests and concerns.
 
@@ -86,21 +78,11 @@ Always use precise figures instead of vague terms. For example, instead of sayin
 -----------------------|
 
 ---------------------------------------------------|
-|
-
-**Customer Surveys**| Satisfaction ratings, reasons for dissatisfaction |
-|
-
-**Support Tickets**| Volume of tickets related to onboarding issues |
-|
-
-**Product Analytics**| Activation rates, user engagement metrics |
-|
-
-**Financial Reports**| Cost of manual processes, potential savings from automation |
-|
-
-**Market Research**| Competitor benchmarks, industry standards |
+| **Customer Surveys** | Satisfaction ratings, reasons for dissatisfaction |
+| **Support Tickets** | Volume of tickets related to onboarding issues |
+| **Product Analytics** | Activation rates, user engagement metrics |
+| **Financial Reports** | Cost of manual processes, potential savings from automation |
+| **Market Research** | Competitor benchmarks, industry standards |
 
 ### Tell a Story
 
@@ -127,18 +109,10 @@ Based on your audience research, brainstorm potential questions. Categorize them
 ----------------------|
 
 ---------------------------------------------------|
-|
-
-**Financial**| What is the ROI? How was the budget determined? What if we do nothing? |
-|
-
-**Strategic**| How does this align with our current priorities? Why is this the right time? |
-|
-
-**Execution**| What risks are involved? Do we have the right team? What dependencies exist? |
-|
-
-**Devil's Advocate**| What could go wrong? What have we overlooked? |
+| **Financial** | What is the ROI? How was the budget determined? What if we do nothing? |
+| **Strategic** | How does this align with our current priorities? Why is this the right time? |
+| **Execution** | What risks are involved? Do we have the right team? What dependencies exist? |
+| **Devil's Advocate** | What could go wrong? What have we overlooked? |
 
 Prepare concise, data-driven answers for each question. If you encounter a query you cannot answer, say, "That's a great question. I will follow up with the specific data by the end of the day." This response is far more effective than providing an inaccurate answer.
 

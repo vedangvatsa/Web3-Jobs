@@ -24,13 +24,9 @@ Jaipur's Web3 scene is nascent, offering both challenges and significant opportu
 
 Jaipur's job market primarily includes remote roles and positions with a few local startups. Salaries are generally modest, but working remotely can yield global market rates while enjoying the lower cost of living in Jaipur.
 
-|
+| **Role** |
 
-**Role**|
-
-**Type**|
-
-**Salary (per annum)**|
+**Type**| **Salary (per annum)** |
 |
 
 ----------|

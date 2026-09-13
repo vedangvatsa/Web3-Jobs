@@ -86,18 +86,10 @@ As rollup technology progresses and the costs associated with using Layer 2 solu
 -----------------------------------------|
 
 ---------------------------------------|
-|
-
-**Transaction Confirmation**| Challenges after submission | Instant confirmation with validity proof |
-|
-
-**Withdrawal Time**| Several days (challenge period) | Almost instant (minutes) |
-|
-
-**Complexity**| Less complex, EVM-compatible | Highly complex, advanced cryptography |
-|
-
-**Cost Efficiency**| Significantly cheaper than Layer 1 | Comparable, depends on proof generation |
+| **Transaction Confirmation** | Challenges after submission | Instant confirmation with validity proof |
+| **Withdrawal Time** | Several days (challenge period) | Almost instant (minutes) |
+| **Complexity** | Less complex, EVM-compatible | Highly complex, advanced cryptography |
+| **Cost Efficiency** | Significantly cheaper than Layer 1 | Comparable, depends on proof generation |
 |
 
 **Use Cases** | General dApps, DeFi | High-speed applications, gaming |

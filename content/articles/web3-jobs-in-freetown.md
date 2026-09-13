@@ -87,14 +87,10 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 ---------------------|
 | Rent (nice area) | Competitive |
 | Living Expenses | Competitive |
-|
-
-**Total Monthly Expenses**|
+| **Total Monthly Expenses** |
 
 **Competitive**|
-|
-
-**Potential Savings**|
+| **Potential Savings** |
 
 **Significant portion of income**|
 

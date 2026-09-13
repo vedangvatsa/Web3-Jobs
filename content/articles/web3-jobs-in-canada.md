@@ -40,17 +40,11 @@ Salaries for Web3 positions in Canada are competitive, particularly for senior t
 ------------------|
 
 ---------------------|
-|
-
-**Smart Contract Developer / Protocol Engineer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust)**| Mid-Level (3-5 years) | Competitive |
+| **Smart Contract Developer / Protocol Engineer ([Solidity](/best-programming-languages-for-blockchain-development)/Rust)** | Mid-Level (3-5 years) | Competitive |
 | | Senior (5+ years) | Competitive |
-|
-
-**Frontend/Full-Stack Web3 Engineer**| Mid-Level | Competitive |
+| **Frontend/Full-Stack Web3 Engineer** | Mid-Level | Competitive |
 | | Senior | Competitive |
-|
-
-**Non-Technical Roles**| | |
+| **Non-Technical Roles** | | |
 | Product Manager | | Competitive |
 | Marketing & Community Manager | | Competitive |
 | Legal & Compliance | | Competitive |

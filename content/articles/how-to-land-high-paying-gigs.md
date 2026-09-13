@@ -22,18 +22,10 @@ Understanding the sources of high salaries in Web3 is essential. These figures s
 ------------------------------------|
 
 ---------------------------------------------------------------------------------------------------|
-| 
-
-**Capital Influx**| The industry is experiencing substantial venture capital investments, leading to well-funded protocols that prioritize attracting elite talent. |
-|
-
-**Talent Scarcity**| Professionals who possess both specialized skills and a deep understanding of the crypto ecosystem are rare. This scarcity gives top talent significant power in negotiations. |
-|
-
-**High-Stakes Environment**| A single flaw in a [smart contract](/what-are-smart-contracts) can result in massive financial losses. Companies are willing to pay a premium for professionals who can manage this high-risk sector. |
-|
-
-**Ownership Economy**| Many compensation packages include [tokens](/what-is-a-token), providing employees with direct ownership of the networks they help build. This potential for financial upside is a key incentive. |
+| **Capital Influx** | The industry is experiencing substantial venture capital investments, leading to well-funded protocols that prioritize attracting elite talent. |
+| **Talent Scarcity** | Professionals who possess both specialized skills and a deep understanding of the crypto ecosystem are rare. This scarcity gives top talent significant power in negotiations. |
+| **High-Stakes Environment** | A single flaw in a [smart contract](/what-are-smart-contracts) can result in massive financial losses. Companies are willing to pay a premium for professionals who can manage this high-risk sector. |
+| **Ownership Economy** | Many compensation packages include [tokens](/what-is-a-token), providing employees with direct ownership of the networks they help build. This potential for financial upside is a key incentive. |
 
 ### Step 1: Develop a High-Value, Specialized Skillset
 

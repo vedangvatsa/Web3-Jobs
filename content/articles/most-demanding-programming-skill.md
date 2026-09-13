@@ -87,21 +87,11 @@ In modern careers, these competencies prove foundational. Whether in Web3, tradi
 ------------------------------|
 
 -----------------------------------------------------------------------------|
-|
-
-**Technical Foundation**| Understanding relevant technical concepts is essential. Foundational knowledge prevents costly errors, though you need not be an expert. |
-|
-
-**Communication Excellence**| The ability to articulate complex ideas clearly is invaluable. Practice writing emails, documentation, and presentations to enhance clarity. |
-|
-
-**Problem-Solving Methodology**| Approach problems systematically: define the issue, research solutions, evaluate options, implement, and measure effectiveness. This method applies to both technical and non-technical challenges. |
-|
-
-**Learning Agility**| In fast-changing fields, the capacity to acquire new skills quickly is invaluable. Engage in hands-on learning rather than passive consumption of content. |
-|
-
-**Emotional Intelligence**| Understanding and managing one's emotions, as well as interpreting others, enhances effectiveness in teams and negotiations. |
+| **Technical Foundation** | Understanding relevant technical concepts is essential. Foundational knowledge prevents costly errors, though you need not be an expert. |
+| **Communication Excellence** | The ability to articulate complex ideas clearly is invaluable. Practice writing emails, documentation, and presentations to enhance clarity. |
+| **Problem-Solving Methodology** | Approach problems systematically: define the issue, research solutions, evaluate options, implement, and measure effectiveness. This method applies to both technical and non-technical challenges. |
+| **Learning Agility** | In fast-changing fields, the capacity to acquire new skills quickly is invaluable. Engage in hands-on learning rather than passive consumption of content. |
+| **Emotional Intelligence** | Understanding and managing one's emotions, as well as interpreting others, enhances effectiveness in teams and negotiations. |
 
 ### Development Roadmap
 

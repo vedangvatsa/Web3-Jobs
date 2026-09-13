@@ -111,9 +111,8 @@ Tone: warm, professional, forward-looking. Avoid re-pitching your qualifications
 
 Use straight language, personalize one line, and reply in the original thread. Replace bracketed fields.
 
-**1. After a recruiter screen or early interview, no feedback ask
-
-**Subject: Re: [Job Title] at [Company Name]
+#### 1. After a recruiter screen or early interview, no feedback ask
+Subject: Re: [Job Title] at [Company Name]
 
 Hi [Name],
 
@@ -204,9 +203,8 @@ About 72 percent of ghosted candidates say they never reapply to that employer, 
 
 Three low-effort moves with high return:
 
-**1. Connect on LinkedIn for the long game.
-
-**Within a day of your thank-you email, send a personalized connection request to the recruiter or hiring manager you spoke with. Reference one detail from the conversation. Do not pitch. The point is to remain a familiar name when the next role opens.** 2. Watch for reopened headcount.
+#### 1. Connect on LinkedIn for the long game.
+Within a day of your thank-you email, send a personalized connection request to the recruiter or hiring manager you spoke with. Reference one detail from the conversation. Do not pitch. The point is to remain a familiar name when the next role opens.** 2. Watch for reopened headcount.
 
 **People accept offers and back out. New budget opens. Roles get reposted with a slightly different scope that fits you better. When you see that, send a one-paragraph note that references the prior conversation, names what you have built since, and asks whether another role may be worth a look. Hiring managers prefer revisiting a warm candidate pool to starting from zero. It costs them less time.** 3. Keep a steady rhythm.** Mass-applying late at night when anxious feels productive and rarely is. Block two or three short application windows per week. Outside those windows, do the work that actually moves the funnel: tailor the resume to the next job description, polish one artifact, prep for the next screen, and close the laptop.
 

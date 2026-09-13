@@ -19,9 +19,8 @@ Edge computing alters this traditional model. Instead of transmitting unprocesse
 
 The surge in connected devices, commonly referred to as the [Internet of Things (IoT)](/what-is-internet-of-things-technology), drives the adoption of edge computing. As more devices, from smartwatches to industrial sensors, connect to the internet, the volume of generated data becomes challenging for centralized cloud systems. Edge computing effectively addresses several key issues.
 
-**1. Reduced Latency
-
-**Speed is critical for many applications. For example, self-driving cars require instantaneous decisions based on sensor data. Processing this data locally eliminates the delays associated with cloud communication, making real-time reactions possible. This immediacy is vital for applications such as [augmented reality](/what-is-augmented-reality-technology) and robotics, where every millisecond counts.** 2. Lower Bandwidth Costs
+#### 1. Reduced Latency
+Speed is critical for many applications. For example, self-driving cars require instantaneous decisions based on sensor data. Processing this data locally eliminates the delays associated with cloud communication, making real-time reactions possible. This immediacy is vital for applications such as [augmented reality](/what-is-augmented-reality-technology) and robotics, where every millisecond counts.** 2. Lower Bandwidth Costs
 
 **Constantly streaming raw data from numerous sensors or cameras to the cloud incurs substantial expenses and demands significant bandwidth. Edge computing mitigates these costs by handling data locally and transmitting only essential processed information to the cloud. For instance, a smart camera may only send data when it detects a specific event, rather than streaming continuously.** 3. Improved Reliability
 

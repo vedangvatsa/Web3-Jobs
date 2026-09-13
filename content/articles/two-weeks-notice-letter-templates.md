@@ -110,18 +110,10 @@ When you decide to resign, consider the following factors to ensure a smooth tra
 ----------------------------------|
 
 ----------------------------------------------------------------|
-|
-
-**Timing**| Submit your resignation when it minimizes disruption to your team. |
-|
-
-**Exit Interview**| Be prepared to share feedback in an exit interview, if offered. |
-|
-
-**Transition Plan**| Offer to prepare documentation for your responsibilities. |
-|
-
-**Future References**| Maintain a positive relationship for potential future references. |
+| **Timing** | Submit your resignation when it minimizes disruption to your team. |
+| **Exit Interview** | Be prepared to share feedback in an exit interview, if offered. |
+| **Transition Plan** | Offer to prepare documentation for your responsibilities. |
+| **Future References** | Maintain a positive relationship for potential future references. |
 |
 
 **Networking** | Keep in touch with colleagues, as they are part of your professional network. |

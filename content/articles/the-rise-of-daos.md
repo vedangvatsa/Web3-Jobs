@@ -38,24 +38,12 @@ Understanding the operational mechanics of DAOs clarifies their functionality.
 ------|
 
 -------------|
-|
-
-**Token Creation**| DAOs issue tokens that represent governance shares, distributing them among founders, investors, and community members. |
-|
-
-**Governance Framework**| Smart contracts define voting procedures, including majority requirements and quorum settings. |
-|
-
-**Proposal Submission**| Members can submit proposals for spending, strategic changes, or operational decisions, outlining the expected outcomes if approved. |
-|
-
-**Voting Period**| Token holders vote on proposals during a specified timeframe, often around one week, with smart contracts counting votes transparently. |
-|
-
-**Execution**| Proposals that receive adequate votes are executed autonomously by smart contracts, which can transfer funds, assign roles, or modify rules. |
-|
-
-**Continuous Operation**| DAOs function continuously, with new proposals being submitted, voted on, and executed regularly. |
+| **Token Creation** | DAOs issue tokens that represent governance shares, distributing them among founders, investors, and community members. |
+| **Governance Framework** | Smart contracts define voting procedures, including majority requirements and quorum settings. |
+| **Proposal Submission** | Members can submit proposals for spending, strategic changes, or operational decisions, outlining the expected outcomes if approved. |
+| **Voting Period** | Token holders vote on proposals during a specified timeframe, often around one week, with smart contracts counting votes transparently. |
+| **Execution** | Proposals that receive adequate votes are executed autonomously by smart contracts, which can transfer funds, assign roles, or modify rules. |
+| **Continuous Operation** | DAOs function continuously, with new proposals being submitted, voted on, and executed regularly. |
 
 ### Real Examples of DAOs
 

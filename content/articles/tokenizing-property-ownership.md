@@ -42,9 +42,8 @@ Tokenization offers several advantages:
 
 This evolving model requires professionals who understand both real estate finance and blockchain technology.
 
-**1. Real Estate Tokenization Platform Developer
-
-**These engineers build platforms that enable the entire tokenization lifecycle. 
+#### 1. Real Estate Tokenization Platform Developer
+These engineers build platforms that enable the entire tokenization lifecycle. 
 - **Skills:** A hybrid skill set is important. Teams need **[smart contract developers](/smart-contract-jobs)** who understand token standards and [DeFi](/what-is-defi), as well as traditional backend engineers capable of developing secure, scalable off-chain systems for managing property data and investor information.
 
 **2. Legal & Compliance Specialist (RWA Focus)** This role is critical due to the complex legal processes involved in tokenizing real estate assets, which touch on securities law, property law, and Anti-Money Laundering (AML) regulations. 

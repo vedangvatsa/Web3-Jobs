@@ -17,9 +17,7 @@ Despite being in its infancy, Kinshasa's Web3 ecosystem is fueled by a dynamic c
 
 Kinshasa's developing Web3 sector is influenced by the DRC's distinct economic and cultural factors.
 
-| 
-
-**Sector**|
+| **Sector** |
 
 **Opportunities**|
 |
@@ -27,30 +25,18 @@ Kinshasa's developing Web3 sector is influenced by the DRC's distinct economic a
 ----------------------------------|
 
 -------------------------------------------------------------------------------------------------------------------------|
-|
-
-**Natural Resource Traceability**| The DRC leads the world in cobalt production, essential for batteries in smartphones and electric vehicles. As global demand for ethical sourcing increases, blockchain can provide transparent records tracking minerals from extraction to consumer. This represents a major opportunity for enterprise blockchain solutions. |
-|
-
-**Creative Arts and NFTs**| Kinshasa boasts a active music and arts culture. Artists can use NFTs to monetize their work, directly reaching global audiences without traditional intermediaries. This shift opens up new revenue streams for local creators. |
-|
-
-**Financial Inclusion**| With a substantial unbanked population and an unstable local currency, accessible financial tools are important. Mobile-first DeFi applications and stablecoins could significantly enhance financial accessibility for Kinshasa's residents. |
-|
-
-**Youth Population**| Kinshasa's large youth demographic represents a future talent pool eager to adopt and innovate with new digital technologies. This creates a fertile ground for growth in the tech sector. |
+| **Natural Resource Traceability** | The DRC leads the world in cobalt production, essential for batteries in smartphones and electric vehicles. As global demand for ethical sourcing increases, blockchain can provide transparent records tracking minerals from extraction to consumer. This represents a major opportunity for enterprise blockchain solutions. |
+| **Creative Arts and NFTs** | Kinshasa boasts a active music and arts culture. Artists can use NFTs to monetize their work, directly reaching global audiences without traditional intermediaries. This shift opens up new revenue streams for local creators. |
+| **Financial Inclusion** | With a substantial unbanked population and an unstable local currency, accessible financial tools are important. Mobile-first DeFi applications and stablecoins could significantly enhance financial accessibility for Kinshasa's residents. |
+| **Youth Population** | Kinshasa's large youth demographic represents a future talent pool eager to adopt and innovate with new digital technologies. This creates a fertile ground for growth in the tech sector. |
 
 ### In-Demand Roles and Salary Expectations
 
 The Web3 job market in Kinshasa is still emerging. Most significant opportunities arise from remote work with international companies or entrepreneurial initiatives supported by global grants or venture capital.
 
-|
+| **Role** |
 
-**Role**|
-
-**Description**|
-
-**Salary Range**|
+**Description**| **Salary Range** |
 |
 
 -----------------------------------|
@@ -58,18 +44,10 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 ---------------------------------------------------------------------------------------------------------------|
 
 -----------------------------------|
-|
-
-**Remote Blockchain Developer**| Skilled developers from the DRC are highly sought after for remote positions. | Competitive compensation |
-|
-
-**Supply Chain/Enterprise Consultant**| Experts in mining who can implement blockchain solutions are valuable for corporate and NGO projects. | Competitive compensation |
-|
-
-**Community Manager**| Bilingual professionals who can engage local communities in French, Lingala, or Swahili. | Competitive compensation |
-|
-
-**NFT Artists and Curators**| Creative individuals who assist local artists in working through the NFT space and connecting with global buyers. | Variable, depending on projects |
+| **Remote Blockchain Developer** | Skilled developers from the DRC are highly sought after for remote positions. | Competitive compensation |
+| **Supply Chain/Enterprise Consultant** | Experts in mining who can implement blockchain solutions are valuable for corporate and NGO projects. | Competitive compensation |
+| **Community Manager** | Bilingual professionals who can engage local communities in French, Lingala, or Swahili. | Competitive compensation |
+| **NFT Artists and Curators** | Creative individuals who assist local artists in working through the NFT space and connecting with global buyers. | Variable, depending on projects |
 
 ### Building a Web3 Career in Kinshasa
 
@@ -83,13 +61,9 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 ### Salary & Compensation Overview
 
-|
+| **Career Track** |
 
-**Career Track**|
-
-**Position**|
-
-**Salary Range**|
+**Position**| **Salary Range** |
 |
 
 -----------------------------------|
@@ -97,14 +71,10 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 --------------------------------|
 
 -----------------------------------|
-|
-
-**Developer Track**| Junior Developer | Competitive compensation |
+| **Developer Track** | Junior Developer | Competitive compensation |
 | | Mid-Level Developer | Competitive compensation |
 | | Senior Developer | Competitive compensation |
-|
-
-**Supply Chain & Consulting**| Supply Chain Consultant | Competitive compensation |
+| **Supply Chain & Consulting** | Supply Chain Consultant | Competitive compensation |
 | | Enterprise Blockchain Architect | Competitive compensation |
 | | NFT Community Manager | Competitive compensation |
 
@@ -159,9 +129,7 @@ The Web3 job market in Kinshasa is still emerging. Most significant opportunitie
 
 ### 90-Day Quick Start Plan
 
-|
-
-**Days**|
+| **Days** |
 
 **Action**|
 |

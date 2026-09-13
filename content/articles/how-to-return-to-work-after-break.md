@@ -70,21 +70,11 @@ Returning to work after a break involves a strategic approach. By being proactiv
 -----------------------------|
 
 -------------------------------------------------------------------------------------------------|
-|
-
-**Career Goals**| Define what you want from your next role and what makes you happy. |
-|
-
-**Professional Toolkit**| Update your resume, LinkedIn, and portfolio to reflect recent experiences and skills. |
-|
-
-**Networking**| Reactivate your professional connections and seek out informational interviews. |
-|
-
-**Personal Narrative**| Prepare a concise story about your career break and current ambitions. |
-|
-
-**Patience and Persistence**| Stay committed to your search, celebrate small wins, and maintain confidence in your value. |
+| **Career Goals** | Define what you want from your next role and what makes you happy. |
+| **Professional Toolkit** | Update your resume, LinkedIn, and portfolio to reflect recent experiences and skills. |
+| **Networking** | Reactivate your professional connections and seek out informational interviews. |
+| **Personal Narrative** | Prepare a concise story about your career break and current ambitions. |
+| **Patience and Persistence** | Stay committed to your search, celebrate small wins, and maintain confidence in your value. |
 
 ### Frequently Asked Questions (FAQs)
 

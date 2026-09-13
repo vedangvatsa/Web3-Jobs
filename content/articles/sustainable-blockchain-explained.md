@@ -30,9 +30,8 @@ If you want the short answer: the biggest drop in blockchain energy use came fro
 
 Three inputs determine a network's footprint. Each can be audited.
 
-**1. Consensus cost.
-
-**In proof-of-work, security comes from miners burning electricity and hardware to solve puzzles. In proof-of-stake, security comes from validators locking capital that can be destroyed if they misbehave. The second approach needs no race for hashes.** 2. Node count and hardware.
+#### 1. Consensus cost.
+In proof-of-work, security comes from miners burning electricity and hardware to solve puzzles. In proof-of-stake, security comes from validators locking capital that can be destroyed if they misbehave. The second approach needs no race for hashes.** 2. Node count and hardware.
 
 **Total consumption equals average power per node times number of nodes. A network with 300 low-power nodes can use less per year than a network with 1,000 high-power nodes, even if the second does far more transactions.** 3. Energy mix and carbon intensity.
 

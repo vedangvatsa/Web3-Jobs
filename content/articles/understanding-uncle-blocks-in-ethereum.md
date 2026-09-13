@@ -26,21 +26,11 @@ This article explores the nature of Uncle blocks, the issues they resolved, thei
 -----------------------|
 
 ---------------------------------------------------------------------------------------------|
-|
-
-**Core Concept**| An Uncle block is a valid but stale block included by a canonical block for a partial reward. |
-|
-
-**Problem Solved**| Uncles mitigated centralization pressure caused by network latency, benefiting smaller miners. |
-|
-
-**Mechanism**| A canonical block could reference up to two Uncle blocks, rewarding both the Uncle's miner and the including miner. |
-|
-
-**Security Boost**| The GHOST protocol used stale blocks, enhancing overall chain security and complicating attacks. |
-|
-
-**Post-Merge**| Uncle blocks are no longer part of Ethereum, as they were specific to the PoW consensus. |
+| **Core Concept** | An Uncle block is a valid but stale block included by a canonical block for a partial reward. |
+| **Problem Solved** | Uncles mitigated centralization pressure caused by network latency, benefiting smaller miners. |
+| **Mechanism** | A canonical block could reference up to two Uncle blocks, rewarding both the Uncle's miner and the including miner. |
+| **Security Boost** | The GHOST protocol used stale blocks, enhancing overall chain security and complicating attacks. |
+| **Post-Merge** | Uncle blocks are no longer part of Ethereum, as they were specific to the PoW consensus. |
 
 ### Network Latency and Centralization
 
