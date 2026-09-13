@@ -50,7 +50,7 @@ Proficiency in using block explorers like Etherscan is fundamental. Investigator
 
 Familiarity with tools such as
 
-**Chainalysis **,** TRM Labs **,** Elliptic**, and
+**Chainalysis**,**TRM Labs**,**Elliptic**, and
 
 **Nansen** is vital. These platforms offer advanced heuristics and labeling to track funds through mixers and complex transactions, maintaining databases of known addresses, including exchange wallets and hacker addresses.
 

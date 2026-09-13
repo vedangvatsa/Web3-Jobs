@@ -47,7 +47,9 @@ Currently, the formal Web3 job market in Lilongwe is limited. Aspiring professio
 
 Understanding the salary space and cost of living is essential for professionals considering a move into Web3 careers.
 
-**Developer Compensation:**| Position | Local Salary | Equivalent USD |
+**Developer Compensation:**
+
+| Position | Local Salary | Equivalent USD |
 | --- | --- | --- |
 | Junior Developer (0-1 year) | Varies | Varies |
 | Mid-Level Developer (1-3 years) | Varies | Varies |

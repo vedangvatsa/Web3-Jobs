@@ -208,9 +208,9 @@ Recent academic research on [implementing stablecoin transactions in SAP ERP](ht
 
 The next evolution beyond basic invoice settlement is programmable trade credit, as outlined in recent economic frameworks on [SME tokenized credit](https://doi.org/10.21275/sr251113111957) and [multilateral cross-border payment platforms](https://doi.org/10.5089/9798400227363.064).
 
-To understand why this matters, consider the fundamental dilemma of international trade:**the buyer doesn't want to pay until they receive the goods, and the seller doesn't want to ship until they are guaranteed payment.
+To understand why this matters, consider the fundamental dilemma of international trade:the buyer doesn't want to pay until they receive the goods, and the seller doesn't want to ship until they are guaranteed payment.
 
-**Historically, the global economy solved this through Letters of Credit (LCs). A buyer's bank promises to pay the seller's bank, but only after inspecting a thick stack of physical paper documents proving shipment. 
+Historically, the global economy solved this through Letters of Credit (LCs). A buyer's bank promises to pay the seller's bank, but only after inspecting a thick stack of physical paper documents proving shipment.
 
 While Letters of Credit make trade possible, they are extraordinarily slow and expensive:
 - They cost between 1.5% and 3.0% of the entire shipment value in bank fees.

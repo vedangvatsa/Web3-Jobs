@@ -42,7 +42,7 @@ This question evaluates your self-awareness and honesty.
 * **Be truthful and assertive.** Select strengths relevant to the job.
 * **Provide specific examples.
 
-**Instead of generic statements, illustrate with concrete experiences.** For weaknesses:**
+**Instead of generic statements, illustrate with concrete experiences.** For weaknesses:
 * **Be candid, but avoid critical flaws.** Choose a weakness that isn't essential for the job.
 * **Demonstrate improvement efforts.** Frame your weakness positively by explaining the steps you are taking to address it.
 

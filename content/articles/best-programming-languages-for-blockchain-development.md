@@ -55,7 +55,7 @@ Key mechanics to know:
 * **Message calls and reentrancy.** Any call to another contract hands control to that contract. That is why the docs stress the Checks-Effects-Interactions pattern: check inputs, update your own state, then call external contracts. If you reverse the order, an external contract can callback and drain funds before you zero the balance. The security considerations page shows this exact bug and the fix.
 * **Gas.
 
-**Each opcode costs gas. Storage writes are the most expensive. This is why batching calls and limiting on-chain loops matters. Loops with unbounded storage-dependent iterations can hit the block gas limit and stall your contract.
+Each opcode costs gas. Storage writes are the most expensive. This is why batching calls and limiting on-chain loops matters. Loops with unbounded storage-dependent iterations can hit the block gas limit and stall your contract.
 
 You typically develop with Remix in the browser for first experiments, or Hardhat or Foundry locally for testing, scripting, and deployment. Remix lets you paste code and deploy to a testnet without installing a compiler. Hardhat and Foundry give you a local EVM, unit tests in JavaScript/TypeScript or Solidity, and scripts for verification on Etherscan.
 
@@ -84,7 +84,7 @@ contract Counter {
 * **Familiar syntax.** Curly brackets, `contract`, `function`, `if`, `for`. Teams from JavaScript or C++ onboard in days for basic contracts.
 * **Portability across EVM chains.
 
-**One codebase deploys to Ethereum mainnet and to L2s and sidechains that speak EVM, with little change to RPC handling.** Cons:**
+**One codebase deploys to Ethereum mainnet and to L2s and sidechains that speak EVM, with little change to RPC handling.** Cons:
 
 * **Easy to write unsafe code.** `private` does not hide data, every value is visible on chain. `tx.origin` for auth lets a phishing contract drain wallets. `call` forwards gas and can reenter. Gas limits can block loops that grow without a bound. The compiler docs list these as pitfalls you must handle.
 * **EVM limits shape design.** The 1024 call stack limit, 256-bit word size, and gas metering constrain what you can do. Optimization often means rewriting logic to save gas, not to read more clearly.
@@ -148,7 +148,7 @@ Tooling overlaps with Solidity at the deployment layer. You can use Titanoboa fo
 * **Safer defaults.** Strong types, checked math, and bounded loops remove whole bug classes that still appear in Solidity when developers use `unchecked` or complex inheritance.
 * **EVM compatible.
 
-**Deploys to the same chains and addresses as Solidity, so you can mix languages in a system and keep the same wallets and explorers.** Cons:**
+**Deploys to the same chains and addresses as Solidity, so you can mix languages in a system and keep the same wallets and explorers.** Cons:
 
 * **Smaller ecosystem.** Fewer templates, fewer answered questions, fewer contributors. You will often read Solidity examples and port them.
 * **Less expressive for large codebases.** Without inheritance and overloading, some patterns need more boilerplate. Teams that rely heavily on upgradeable proxy libraries may miss Solidity tooling.
@@ -202,7 +202,7 @@ Testing on Solana uses native crates: add `litesvm` and `solana-sdk` as dev depe
 * **Safety.** Ownership and the type system remove memory errors and data races that are catastrophic in financial code. The compiler refuses code that would alias mutably in two threads.
 * **Pay.
 
-**Rust blockchain roles often pay at the top of the market because supply is low and demand from L1 teams is steady.** Cons:**
+**Rust blockchain roles often pay at the top of the market because supply is low and demand from L1 teams is steady.** Cons:
 
 * **Learning curve.** Ownership, lifetimes, and macros confuse beginners. The first month is slower than TypeScript or Python.
 * **Smaller Web3 surface than Solidity.** Fewer frontend examples and fewer copy-paste DeFi snippets. Docs assume systems knowledge.
@@ -262,7 +262,7 @@ You test with `aptos move test` or `sui move test`, which run the Move unit test
 * **Verification.** The bytecode verifier and the optional Move Prover let you state invariants such as "total supply equals sum of balances" and prove them, not just test them.
 * **Clear tooling for assets.
 
-**Type-safe structs for coins and NFTs, permission controls at token level, and native sponsored transactions reduce custom code.** Cons:**
+**Type-safe structs for coins and NFTs, permission controls at token level, and native sponsored transactions reduce custom code.** Cons:
 
 * **Ecosystem size.** Smaller than Solidity and Rust. Fewer libraries, fewer job posts, and documentation that varies between Aptos and Sui despite sharing the base language.
 * **Chain coupling.** Concepts like objects, accounts, and storage abilities differ between implementations. A module written for Aptos needs changes for Sui.
@@ -329,7 +329,7 @@ Backwards, Hardhat uses ethers v6 plus TypeScript for deployment scripts that re
 * **Best bridging libraries.** viem and ethers abstract over chains, handle ABI encoding, and provide typed errors. Wallet SDKs expect JavaScript.
 * **Full-stack ownership.
 
-**One engineer can own Solidity contracts, deploy scripts, and the Next.js frontend.** Cons:**
+**One engineer can own Solidity contracts, deploy scripts, and the Next.js frontend.** Cons:
 
 * **Only off chain.** Bugs that affect funds still live in Solidity or Move. TypeScript errors in the UI can cause a user to call the wrong function, but they are not consensus bugs.
 * **Ecosystem churn.** Wallet APIs and library major versions change. Code written in 2023 with ethers v5 needs edits for v6.
@@ -452,13 +452,13 @@ That pattern, applied at larger scale, is how a node parallelizes network I/O an
 * **Proven for networking.** Goroutines and channels map naturally to running a mesh of peers that must stay in sync.
 * **Strong performance with simple ops.
 
-**Compiled speed without complex build chains, and static binaries ease deployment for operators.** Cons:**
+**Compiled speed without complex build chains, and static binaries ease deployment for operators.** Cons:
 
 * **Not for EVM app contracts.** Knowing Go does not let you write a Uniswap pool. You still need Solidity or Vyper for that surface.
 * **Niche demand.** Jobs cluster around client teams and Cosmos chains. Fewer postings than Solidity frontend roles, but deeper systems work.
 * **GC trade-off.
 
-**Predictable low-latency chains may still prefer Rust for control over pause times.
+Predictable low-latency chains may still prefer Rust for control over pause times.
 
 ### How to start
 

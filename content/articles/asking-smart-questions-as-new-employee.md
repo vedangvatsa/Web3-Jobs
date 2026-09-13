@@ -156,7 +156,7 @@ Advanced move: turn a question into a contribution. If docs were missing, offer 
 
 ## Common mistakes to avoid
 
-**Asking before reading.
+Asking before reading.
 
 **Wrong: "What does the README say?" Right: read it, then ask to clarify a specific section.** Asking vague questions.
 
@@ -166,7 +166,7 @@ Advanced move: turn a question into a contribution. If docs were missing, offer 
 
 **If someone helps, close the loop and note the result.** Interrupting without triage.
 
-**Do not ping for every thought. Save non-blocking items for the next shared slot.
+Do not ping for every thought. Save non-blocking items for the next shared slot.
 
 ## FAQs
 

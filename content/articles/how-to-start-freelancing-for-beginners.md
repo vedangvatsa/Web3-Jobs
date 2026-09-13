@@ -17,13 +17,13 @@ Starting a freelance business involves transforming your skills into services th
 
 Defining what you will offer is your first step. Avoid trying to be a jack-of-all-trades; instead, concentrate on a specific skill or service where you can excel. This focus creates your niche.
 
-**Assess Your Skills
+Assess Your Skills
 
 **Make a list of your capabilities. Reflect on what you enjoy and where you have experience, even if it stems from hobbies or past jobs.** Research Market Needs
 
 **Investigate what services are in demand by reviewing platforms like Upwork or Fiverr. Identify gaps in the market and consider how your skills can fill those needs.** Intersect Your Strengths and Market Demand
 
-**Your ideal niche lies at the intersection of what you excel at, what you enjoy, and what clients are willing to pay for. For instance, rather than labeling yourself simply as a "writer," define your niche as "a writer specializing in blog posts for tech startups." This specificity increases your visibility and makes you more hireable.
+Your ideal niche lies at the intersection of what you excel at, what you enjoy, and what clients are willing to pay for. For instance, rather than labeling yourself simply as a "writer," define your niche as "a writer specializing in blog posts for tech startups." This specificity increases your visibility and makes you more hireable.
 
 ### 2. Build Your Portfolio
 

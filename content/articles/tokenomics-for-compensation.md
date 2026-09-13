@@ -19,7 +19,7 @@ This article outlines a framework for founders and People Operations leaders on 
 
 ### The Goal: Long-Term Incentive Alignment
 
-The primary objective of a token compensation plan is to achieve **long-term alignment **. This design encourages core team members to invest in the project's future rather than cashing out at the earliest opportunity. The key mechanisms to accomplish this are** vesting schedules **and** cliffs**.
+The primary objective of a token compensation plan is to achieve **long-term alignment**. This design encourages core team members to invest in the project's future rather than cashing out at the earliest opportunity. The key mechanisms to accomplish this are**vesting schedules**and**cliffs**.
 
 ### Core Components of a Token Grant
 

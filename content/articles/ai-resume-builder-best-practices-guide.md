@@ -18,13 +18,13 @@ An AI resume builder is software that takes your work history as input and produ
 
 - **Job description matching.
 
-**You paste a job posting, the tool extracts required skills and phrases, and highlights which ones are missing from your draft.
+You paste a job posting, the tool extracts required skills and phrases, and highlights which ones are missing from your draft.
 - **Bullet rewriting.
 
-**You provide a rough description of what you did, the tool suggests a rewrite that starts with an action verb and quantifies the result.
+You provide a rough description of what you did, the tool suggests a rewrite that starts with an action verb and quantifies the result.
 - **ATS-safe templates.
 
-**Single-column layouts with standard headings that parsers can read in order.
+Single-column layouts with standard headings that parsers can read in order.
 
 It is an editing assistant, not an author. Harvard's Mignone Center for Career Success advises the same: use generative AI to brainstorm revisions, incorporate keywords from a job description, or tighten phrasing, but do not make it the primary author and be able to speak to every line in an interview.
 
@@ -32,13 +32,13 @@ It is an editing assistant, not an author. Harvard's Mignone Center for Career S
 
 - **Active applicants tailoring each application.
 
-**If you apply to multiple roles with different job descriptions, a builder can speed up the per-job tailoring that CareerOneStop and the U.S. Department of Labor (DOL) both recommend.
+If you apply to multiple roles with different job descriptions, a builder can speed up the per-job tailoring that CareerOneStop and the U.S. Department of Labor (DOL) both recommend.
 - **Career switchers moving into Web3.
 
-**If you have a Web2 background in JavaScript, React, Solidity, or product and need to translate that experience into the terms a blockchain hiring manager searches for.
+If you have a Web2 background in JavaScript, React, Solidity, or product and need to translate that experience into the terms a blockchain hiring manager searches for.
 - **Anyone whose resume fails to get callbacks.
 
-**Often the issue is not experience but keyword mismatch or a template that uses columns, tables, or graphics that parsers scramble.
+Often the issue is not experience but keyword mismatch or a template that uses columns, tables, or graphics that parsers scramble.
 
 If you are sending one general resume to many employers without tailoring, or you apply only via referral where the resume goes directly to a hiring manager, an AI builder adds less value than a single careful manual edit.
 
@@ -48,16 +48,16 @@ Understanding the parser helps you decide what to fix. Based on the DOL Employme
 
 - **What it does.
 
-**An ATS collects and organizes applications, then searches each resume for keywords that match the job requirements the employer programmed. It can also track source, schedule interviews, and send automated emails. Some systems use AI for ranking and sorting.
+An ATS collects and organizes applications, then searches each resume for keywords that match the job requirements the employer programmed. It can also track source, schedule interviews, and send automated emails. Some systems use AI for ranking and sorting.
 - **Why resumes get filtered out.
 
-**The DOL lists three common reasons: missing keywords that match the posting, formatting that the parser cannot read (tables, columns, text boxes, graphics), and using a different term than the posting uses (for example, "managing direct reports" when the posting says "leading and directing teams").
+The DOL lists three common reasons: missing keywords that match the posting, formatting that the parser cannot read (tables, columns, text boxes, graphics), and using a different term than the posting uses (for example, "managing direct reports" when the posting says "leading and directing teams").
 - **What does not always happen.
 
-**CareerOneStop notes that while some ATS software can rank resumes, that feature is rarely used. The more common flow is: ATS stores and filters, then a recruiter or hiring manager reviews the remaining resumes for minimum qualifications. Expect a human read if you meet the requirements and the file parsed correctly.
+CareerOneStop notes that while some ATS software can rank resumes, that feature is rarely used. The more common flow is: ATS stores and filters, then a recruiter or hiring manager reviews the remaining resumes for minimum qualifications. Expect a human read if you meet the requirements and the file parsed correctly.
 - **AI detection note.
 
-**The DOL's February 2026 Resume Essentials guide states: "Some ATS tools can detect AI-generated resumes. Always write your resume in your own words." That does not mean a parser flags AI style directly, it means you should keep the voice and facts yours and verify every claim.
+The DOL's February 2026 Resume Essentials guide states: "Some ATS tools can detect AI-generated resumes. Always write your resume in your own words." That does not mean a parser flags AI style directly, it means you should keep the voice and facts yours and verify every claim.
 
 This is why formatting and exact phrasing matter more than visual design.
 
@@ -67,16 +67,16 @@ Most builders follow the same loop:
 
 1. **You provide source material.
 
-**Your master resume, plus the target job description.
+Your master resume, plus the target job description.
 2. **The tool extracts keywords.
 
-**It identifies hard skills, tools, certifications, and repeated phrases in the posting. More detailed tools break results into hard skills, soft skills, job titles, and education.
+It identifies hard skills, tools, certifications, and repeated phrases in the posting. More detailed tools break results into hard skills, soft skills, job titles, and education.
 3. **It suggests edits.
 
-**It maps your experience to those keywords and proposes rewritten bullets that include the exact terms from the posting.
+It maps your experience to those keywords and proposes rewritten bullets that include the exact terms from the posting.
 4. **It applies a template.
 
-**It places the content in a single-column layout with standard headings like Experience, Education, and Skills, and exports as DOCX or PDF.
+It places the content in a single-column layout with standard headings like Experience, Education, and Skills, and exports as DOCX or PDF.
 
 Prices and feature packaging change frequently. As listed on official pricing pages checked in early 2026: Jobscan Premium shows $49.95 per month or $89.95 billed quarterly, with a free tier of about 5 scans per month and a free builder. Rezi shows $29 per month or about $129 for a lifetime plan. Teal shows a free tier with unlimited resumes and a paid plan around $29 per month or $9 to $13 per week. Always check the official site before you pay.
 
@@ -170,11 +170,11 @@ Builders do not catch factual errors. Run this check on every tailored resume be
 
 ### Frequently Asked Questions (FAQs)
 
-**Can I just use ChatGPT to write my resume.
+Can I just use ChatGPT to write my resume.
 
 **You can use ChatGPT or a similar model to rewrite bullets and summaries if you provide factual source material and verify the output. Dedicated resume tools add two things ChatGPT alone does not: enforce ATS-safe templates and score keyword coverage against a specific job description. Many applicants use both: draft language with a language model, place it in a plain template in Word or Google Docs, then validate with a separate ATS scanner.** Is using an AI resume builder considered cheating.
 
 **Using a tool to help with writing and formatting is common and accepted when the content is truthful. What creates risk is submitting unverified claims, invented metrics, or tools you have not used. The FTC's guidance on AI and deception emphasizes that claims in the marketplace, including those on a resume, should be accurate and supportable. If an employer asks about AI use, answer honestly. If you cannot explain a bullet in an interview, do not submit it.** How much do AI resume builders cost.
 
-**Most offer a free tier that allows one or two resumes or a limited number of scans per month with watermarked or gated exports. Paid plans as listed in early 2026 typically range from about $8 to $30 per month for full rewriting and unlimited tailored versions, with Jobscan higher at about $49.95 per month for deep keyword analysis and LinkedIn optimization. Feature sets change, so check the official pricing page on the day you subscribe and cancel trials you do not need.** What is the biggest mistake to avoid.**
+**Most offer a free tier that allows one or two resumes or a limited number of scans per month with watermarked or gated exports. Paid plans as listed in early 2026 typically range from about $8 to $30 per month for full rewriting and unlimited tailored versions, with Jobscan higher at about $49.95 per month for deep keyword analysis and LinkedIn optimization. Feature sets change, so check the official pricing page on the day you subscribe and cancel trials you do not need.** What is the biggest mistake to avoid.
 Treating AI output as final. The DOL's February 2026 guide warns that formatting issues and missing or mismatched keywords are the most common reasons a qualified resume gets filtered, and that AI-generated text still needs human verification. Use AI suggestions as a first draft. Keep only edits that are accurate, in your voice, and backed by evidence you can provide when asked.

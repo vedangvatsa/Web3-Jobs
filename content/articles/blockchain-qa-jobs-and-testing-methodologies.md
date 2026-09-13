@@ -25,11 +25,11 @@ Public environments can be adversarial. A token may not behave like a simplified
 
 ## Start with a test strategy
 
-A test strategy describes what will be tested, what will not be tested, the risks, environments, tools, responsibilities, and release criteria. It is not a list of vague promises to test “everything.” Begin by reading the product requirements and mapping each user action to an expected outcome.
+A test strategy describes what will be tested, what will not be tested, the risks, environments, tools, responsibilities, and release criteria. It is not a list of vague promises to test "everything." Begin by reading the product requirements and mapping each user action to an expected outcome.
 
 For a token deposit feature, the flow might include connecting a wallet, selecting the correct network, approving an allowance, sending a deposit transaction, waiting for confirmation, indexing the event, and displaying the updated balance. Each step has a failure state. The wallet can reject a request. The account can lack funds. The approval can succeed while the deposit fails. The indexer can lag. A good test plan names these cases before implementation is complete.
 
-Write acceptance criteria in observable terms. “The interface is fast” is hard to test. “After a successful deposit transaction receives one application-defined confirmation, the interface displays the deposited amount and links the transaction hash to the selected network's explorer” is testable. Ask product and engineering owners to confirm the criterion and the chosen confirmation policy.
+Write acceptance criteria in observable terms. "The interface is fast" is hard to test. "After a successful deposit transaction receives one application-defined confirmation, the interface displays the deposited amount and links the transaction hash to the selected network's explorer" is testable. Ask product and engineering owners to confirm the criterion and the chosen confirmation policy.
 
 Prioritize by impact and likelihood. Permission changes, withdrawals, transaction signing, and accounting deserve more attention than a minor visual preference. Use a risk register that names the owner, test approach, and remaining limitation. This gives a release discussion evidence instead of relying on confidence alone.
 
@@ -81,7 +81,7 @@ Before release, run the agreed unit, integration, and end-to-end suites; check f
 
 A useful bug report has a concise title, environment, prerequisites, exact steps, expected result, actual result, impact, evidence, and reproducibility. For a blockchain issue, include the chain, network, contract address, transaction hash if one exists, account type, block number where relevant, and whether the issue occurred before or after confirmation. Never attach a private key or recovery phrase as evidence.
 
-Separate observed facts from a theory. “The UI showed success before the transaction reverted at hash X” is an observation. “The indexer caused the revert” is a hypothesis that needs investigation. This distinction helps engineers reproduce the problem quickly and prevents a report from assigning blame without evidence.
+Separate observed facts from a theory. "The UI showed success before the transaction reverted at hash X" is an observation. "The indexer caused the revert" is a hypothesis that needs investigation. This distinction helps engineers reproduce the problem quickly and prevents a report from assigning blame without evidence.
 
 Severity should account for user harm, exploitability, scope, and workarounds. A typo in an informational label differs from a UI path that sends an approval to the wrong spender. Escalate potential security issues through the team's defined channel rather than filing sensitive details in a public tracker.
 

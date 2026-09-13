@@ -26,7 +26,7 @@ Transitioning to Web3 involves more than adopting new technologies; it requires 
 - **Cultural Complexity:** Marketers in Web3 cannot simply apply traditional advertising strategies. They must understand the unique, meme-driven culture of crypto, community governance dynamics, and principles for brand building in a decentralized environment.
 
 #### 2. The "Crypto-Native" Dilemma
-Job postings often require "crypto-native" experience, creating a paradox for newcomers. Candidates struggle to enter the field without prior experience, which deters talented professionals with relevant skills but limited crypto exposure. This insularity makes it difficult for the industry to diversify its talent pool.** 3. High-Risk Environment
+Job postings often require "crypto-native" experience, creating a paradox for newcomers. Candidates struggle to enter the field without prior experience, which deters talented professionals with relevant skills but limited crypto exposure. This insularity makes it difficult for the industry to diversify its talent pool. 3. High-Risk Environment
 
 **The volatile nature of cryptocurrency markets deters many professionals from transitioning from stable Web2 roles. The prospect of tying a significant portion of personal wealth to fluctuating [tokens](/what-is-a-token) or risking project treasuries during downturns is a considerable concern. The industry must address the legitimacy of Web3 careers to attract talent willing to accept such risks.
 

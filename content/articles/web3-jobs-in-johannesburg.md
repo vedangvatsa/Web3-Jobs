@@ -49,7 +49,9 @@ To establish a career at the heart of Africa's Web3 ecosystem, visit our [Web3 j
 
 ## Salary Overview: Web3 Jobs in Johannesburg
 
-**Local/Hybrid Salary Ranges:**| Role | Salary Range (ZAR/month) | Salary Range (USD/month) |
+**Local/Hybrid Salary Ranges:**
+
+| Role | Salary Range (ZAR/month) | Salary Range (USD/month) |
 | --- | --- | --- |
 | Legal & Compliance Officer | Competitive | Competitive |
 | Enterprise Blockchain Developer | Competitive | Competitive |

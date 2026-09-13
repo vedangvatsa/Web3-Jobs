@@ -38,9 +38,9 @@ There are two main kinds of problems solved with supervised learning:
 * **Classification**: The goal is to predict a category. Is this email spam or not spam? Is this tumor malignant or benign? Is this credit card transaction fraudulent or legitimate? The answer is a distinct label.
 * **Regression **: The goal is to predict a continuous value. What will the price of this house be? How many customers will visit the store tomorrow? What will the temperature be next Tuesday? The answer is a number on a scale.** 2. Unsupervised Learning
 
-**In unsupervised learning, you don't give the model any labeled outputs. You just give it a large amount of data and ask it to find the hidden structure or patterns on its own. It's like giving someone a box of mixed Lego bricks and asking them to sort them into logical piles without telling them how.
+In unsupervised learning, you don't give the model any labeled outputs. You just give it a large amount of data and ask it to find the hidden structure or patterns on its own. It's like giving someone a box of mixed Lego bricks and asking them to sort them into logical piles without telling them how.
 
-A common use of unsupervised learning is **clustering**. For example, a company might use it to group its customers into different market segments based on their purchasing behavior. The AI would identify natural groupings of customers who buy similar things, even if the company didn't know those groups existed beforehand.** 3. Reinforcement Learning**
+A common use of unsupervised learning is **clustering**. For example, a company might use it to group its customers into different market segments based on their purchasing behavior. The AI would identify natural groupings of customers who buy similar things, even if the company didn't know those groups existed beforehand.**3. Reinforcement Learning**
 
 This type of learning is inspired by how animals learn through trial and error. The AI, called an "agent," is placed in an environment and learns to achieve a goal by taking actions and receiving rewards or penalties.
 

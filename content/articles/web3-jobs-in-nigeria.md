@@ -34,7 +34,7 @@ The Nigerian Web3 job market is competitive, with strong demand for both technic
 | Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development)) | Senior (5+ years) | Significant value |
 | Frontend/Mobile Web3 Engineer (React/React Native) | Mid-Level | Significant value |
 | Frontend/Mobile Web3 Engineer (React/React Native) | Senior | Significant value |
-| Community Manager | 
+| Community Manager |  |  |
 
 - | Significant value |
 | Marketing Manager / Growth Lead | 

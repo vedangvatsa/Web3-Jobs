@@ -22,7 +22,7 @@ The transition from Web2 to Web3 fundamentally alters the role of the worker.
 
 - **In Web2, you are an employee.
 
-**You receive a salary and may get stock options representing minimal ownership in a centralized entity.
+You receive a salary and may get stock options representing minimal ownership in a centralized entity.
 - **In Web3, you are an owner.
 
 **You collaborate with a protocol or a [DAO](/what-is-a-dao) where compensation often includes a salary and a significant allocation of governance [tokens](/what-is-a-token). These tokens provide not only financial benefits but also voting rights, allowing you to influence project decisions.

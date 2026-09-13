@@ -42,7 +42,7 @@ New York offers some of the highest salaries for Web3 positions globally, reflec
 
 - **Institutional Sales & Business Development
 
-**Professionals in this role sell crypto financial products to hedge funds and family offices.
+Professionals in this role sell crypto financial products to hedge funds and family offices.
  - **Salary Range:** Competitive base salary, plus notable commission.
 
 - **Legal & Compliance Officer (Securities/Financial Regulation Focus)** This role is vital for ensuring adherence to regulations.

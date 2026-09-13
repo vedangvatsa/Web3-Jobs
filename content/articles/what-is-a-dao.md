@@ -31,19 +31,19 @@ DAOs fit when you need transparent, collective control of shared resources or of
 
 - Protocol stewards.
 
-**Teams that ship open infrastructure and want users to govern upgrades, fees, and treasury. Uniswap, Sky (formerly MakerDAO), Aave, Curve, and ENS all use DAO governance for protocol parameters.
+Teams that ship open infrastructure and want users to govern upgrades, fees, and treasury. Uniswap, Sky (formerly MakerDAO), Aave, Curve, and ENS all use DAO governance for protocol parameters.
 - **Investment and grants groups.
 
-**People pooling capital to back projects, artists, or research, then voting on allocations and sharing proceeds. Repaid funds can be redistributed by code.
+People pooling capital to back projects, artists, or research, then voting on allocations and sharing proceeds. Repaid funds can be redistributed by code.
 - **Charities and cause funds.
 
-**Groups that take global donations and vote on which causes to fund. Ukraine DAO and Unchain Fund ran this model for wartime relief.
+Groups that take global donations and vote on which causes to fund. Ukraine DAO and Unchain Fund ran this model for wartime relief.
 - **Collectors and co-owners.
 
-**Communities buying and managing physical or digital assets together, from 40 acres of land to NFT collections, with votes on how to use them.
+Communities buying and managing physical or digital assets together, from 40 acres of land to NFT collections, with votes on how to use them.
 - **Social and builder collectives.
 
-**Worker co-ops, product squads, and community hubs that want a shared treasury and public voting record. Examples include BanklessDAO, Friends with Benefits, and developer guilds.** Poor fit:**- Early startups that need daily decisions and private strategy. A 14 to 30 day governance cycle will slow you down.
+**Worker co-ops, product squads, and community hubs that want a shared treasury and public voting record. Examples include BanklessDAO, Friends with Benefits, and developer guilds.** Poor fit:- Early startups that need daily decisions and private strategy. A 14 to 30 day governance cycle will slow you down.
 - Work that depends on deep technical judgment where a token vote by non-experts can produce worse outcomes than an expert call.
 - Anything that requires reversibility or confidentiality. On-chain votes and transfers are public by default and hard to undo.
 
@@ -72,16 +72,16 @@ Most large DAOs follow a four-stage pattern, not a single click to vote:
 
 - **Forum discussion.
 
-**A draft is posted on Discourse or Commonwealth. For Uniswap this is gov.uniswap.org, for Aave governance.aave.com, for Sky the Maker forum. Discussion runs 5 to 14 days.
+A draft is posted on Discourse or Commonwealth. For Uniswap this is gov.uniswap.org, for Aave governance.aave.com, for Sky the Maker forum. Discussion runs 5 to 14 days.
 - **Temperature check on Snapshot.
 
-**Token holders sign a gasless vote to show support without moving funds. Uniswap uses 25M UNI for Snapshot quorum, Aave uses 80K AAVE.
+Token holders sign a gasless vote to show support without moving funds. Uniswap uses 25M UNI for Snapshot quorum, Aave uses 80K AAVE.
 - **Binding on-chain vote.
 
-**If the check passes, the proposal moves to the governance contract. Many use Compound Bravo (Uniswap, Aave, Compound, Optimism), others use Tally's Governor or a custom system like Curve's vote-escrowed veCRV. Voting lasts 3 to 7 days. Uniswap requires 40M UNI to pass an on-chain governance proposal. Curve requires locking CRV to get veCRV, with voting power that decays over time.
+If the check passes, the proposal moves to the governance contract. Many use Compound Bravo (Uniswap, Aave, Compound, Optimism), others use Tally's Governor or a custom system like Curve's vote-escrowed veCRV. Voting lasts 3 to 7 days. Uniswap requires 40M UNI to pass an on-chain governance proposal. Curve requires locking CRV to get veCRV, with voting power that decays over time.
 - **Timelock and execution.
 
-**Passed proposals sit in a timelock for 2 to 7 days so the community can react if the code contains a bug. After that, anyone can call the execute function. End to end, a treasury spend often takes 14 to 30 days.
+Passed proposals sit in a timelock for 2 to 7 days so the community can react if the code contains a bug. After that, anyone can call the execute function. End to end, a treasury spend often takes 14 to 30 days.
 
 ### Membership models
 
@@ -92,10 +92,10 @@ Ethereum.org lists three common models. They solve different problems.
 **Permissionless. You buy or earn the governance [token](/what-is-a-token) on a [decentralized exchange](/what-is-a-decentralized-exchange-dex) and can vote immediately. Used for broad protocol governance. Famous example: Sky's MKR is widely traded and anyone who holds MKR can vote on stability fees, collateral types, and budget allocations. Uniswap's UNI works the same way for fee tiers and chain deployments.
 - **Share-based.
 
-**More permissioned. You submit a proposal to join and offer a tribute in tokens or work. Shares equal direct voting power and ownership, and you can ragequit with your pro-rata share of the treasury. Used for investment clubs, charities, and worker collectives. Moloch-style DAOs on DAOHaus follow this.
+More permissioned. You submit a proposal to join and offer a tribute in tokens or work. Shares equal direct voting power and ownership, and you can ragequit with your pro-rata share of the treasury. Used for investment clubs, charities, and worker collectives. Moloch-style DAOs on DAOHaus follow this.
 - **Reputation-based.
 
-**Non-transferable. You cannot buy, sell, or delegate reputation. You earn it through contributions and it grants voting power but not financial ownership. Well suited to public goods and protocol development where buying influence would be harmful. DXdao used this model to govern a suite of DeFi products since 2019.
+Non-transferable. You cannot buy, sell, or delegate reputation. You earn it through contributions and it grants voting power but not financial ownership. Well suited to public goods and protocol development where buying influence would be harmful. DXdao used this model to govern a suite of DeFi products since 2019.
 
 You do not need a token at all. Some DAOs grant voting by allowlisted wallet: one authorized wallet equals one vote.
 
@@ -103,19 +103,19 @@ You do not need a token at all. Some DAOs grant voting by allowlisted wallet: on
 
 - **One token equals one vote.
 
-**Your power is proportional to holdings. Simple to understand, but whales dominate.
+Your power is proportional to holdings. Simple to understand, but whales dominate.
 - **One wallet equals one vote.
 
-**Power is equal per allowlisted address. Harder to sybil-proof.
+Power is equal per allowlisted address. Harder to sybil-proof.
 - **Delegation.
 
-**Holders delegate to engaged delegates who steward the protocol and vote on their behalf. ENS popularized this: ENS holders can delegate to ranked community delegates. It treats apathy with representation rather than requiring everyone to read every proposal.
+Holders delegate to engaged delegates who steward the protocol and vote on their behalf. ENS popularized this: ENS holders can delegate to ranked community delegates. It treats apathy with representation rather than requiring everyone to read every proposal.
 - **Vote-escrow.
 
-**Lock tokens longer to get more power. Curve's veCRV is the canonical example. Longer lock signals alignment.
+Lock tokens longer to get more power. Curve's veCRV is the canonical example. Longer lock signals alignment.
 - **Automatic versus multisig execution.
 
-**In Nouns DAO, if quorum is met and a majority approves and founders do not veto, the transaction executes automatically. In many other DAOs, even with thousands of voters, funds sit in a Safe (formerly Gnosis Safe) multisig controlled by 5 to 20 doxxed signers. After the vote passes, signers execute the community's will. This adds a human layer that helps with speed for routine ops but reintroduces trust.
+In Nouns DAO, if quorum is met and a majority approves and founders do not veto, the transaction executes automatically. In many other DAOs, even with thousands of voters, funds sit in a Safe (formerly Gnosis Safe) multisig controlled by 5 to 20 doxxed signers. After the vote passes, signers execute the community's will. This adds a human layer that helps with speed for routine ops but reintroduces trust.
 
 ### Treasury management at scale
 
@@ -131,40 +131,40 @@ Operations have professionalized into three patterns: a service-provider model w
 
 - **No custodian needed.
 
-**Members pool funds from anywhere and vote on uses without a bank or lead signer who can act alone. The treasury requires group approval by code.
+Members pool funds from anywhere and vote on uses without a bank or lead signer who can act alone. The treasury requires group approval by code.
 - **Verifiable transparency.
 
-**Votes, transfers, mints, and vault balances are public and auditable by anyone. A Uniswap voter can see how many tokens each address held, how it voted, its rationale posted in the forum, and whether execution matched the proposal.
+Votes, transfers, mints, and vault balances are public and auditable by anyone. A Uniswap voter can see how many tokens each address held, how it voted, its rationale posted in the forum, and whether execution matched the proposal.
 - **Programmable incentives.
 
-**You can write alignment into governance. For example, reward voters for participation, or require locking tokens to increase voting weight.
+You can write alignment into governance. For example, reward voters for participation, or require locking tokens to increase voting weight.
 - **Global coordination at low setup cost.
 
-**Anyone with a wallet can join permissionless DAOs by buying the token, and groups can spin up shared governance in hours rather than months.
+Anyone with a wallet can join permissionless DAOs by buying the token, and groups can spin up shared governance in hours rather than months.
 - **Censorship resistance for execution.
 
-**If the vote passes, the code executes. No intermediary can quietly block it unless a veto or multisig was deliberately built in.
+If the vote passes, the code executes. No intermediary can quietly block it unless a veto or multisig was deliberately built in.
 
 ### Where DAOs struggle
 
 - **Voter apathy is the norm.
 
-**Turnout is low. In Uniswap, typical participation is 5 to 15 percent of UNI. Routine parameter changes often draw 3 to 8 percent. An ACM study of governance in 2025 found a median majority of 90.49 percent with broad clustering at low turnout and high consensus, and a negative correlation between turnout and closeness - higher turnout tends to mean more contested votes. OpenZeppelin's 2024 review found that in 17 of 23 major DAOs the top 10 delegates together held enough power to pass proposals alone. In one Compound example, a holder with about 1.3 percent of supply reached the 400K COMP quorum and passed a proposal while only 1.6M tokens voted. ArbitrumDAO's 59.83 percent on-chain turnout in April 2025 shows high turnout is possible, but it remains an outlier.
+Turnout is low. In Uniswap, typical participation is 5 to 15 percent of UNI. Routine parameter changes often draw 3 to 8 percent. An ACM study of governance in 2025 found a median majority of 90.49 percent with broad clustering at low turnout and high consensus, and a negative correlation between turnout and closeness - higher turnout tends to mean more contested votes. OpenZeppelin's 2024 review found that in 17 of 23 major DAOs the top 10 delegates together held enough power to pass proposals alone. In one Compound example, a holder with about 1.3 percent of supply reached the 400K COMP quorum and passed a proposal while only 1.6M tokens voted. ArbitrumDAO's 59.83 percent on-chain turnout in April 2025 shows high turnout is possible, but it remains an outlier.
 - **Whale concentration.
 
-**One token equals one vote recreates the power concentration DAOs meant to fix. A few large holders or delegate cartels can decide outcomes. In Lido, research notes about five entities have often been enough to swing decisions. Vote-escrow and reputation models aim to blunt this, but they add complexity.
+One token equals one vote recreates the power concentration DAOs meant to fix. A few large holders or delegate cartels can decide outcomes. In Lido, research notes about five entities have often been enough to swing decisions. Vote-escrow and reputation models aim to blunt this, but they add complexity.
 - **Complexity and speed.
 
-**Governance is slow and cognitively expensive. Complex choices like integrating protocol X versus Y benefit from expertise, not a popularity contest. And the 14 to 30 day cycle hurts teams that need to ship.
+Governance is slow and cognitively expensive. Complex choices like integrating protocol X versus Y benefit from expertise, not a popularity contest. And the 14 to 30 day cycle hurts teams that need to ship.
 - **Irreversibility and smart contract risk.
 
-**Once a vote executes, reversing it needs another vote and, for on-chain asset moves, another transaction. Bugs are permanent until repaired. The canonical case is The DAO in 2016. That venture fund on Ethereum raised about 12.7M ETH, roughly $150M at the time or about 14 to 17 percent of all ETH, from over 11,000 participants. A reentrancy bug allowed recursive withdrawals. About 3.6M ETH was drained into a child DAO, worth roughly $60M in June 2016 (reports vary from $50M to $70M with price moves). It was not a flaw in Ethereum itself but in The DAO's contract. Vitalik Buterin first proposed a soft fork to blacklist movement, then the community executed a hard fork to restore funds. Holders who rejected the fork continued the original chain, now Ethereum Classic. The event is why audits, bug bounties, and timelocks are now standard. Even today, a single overlooked function can cost hundreds of millions.
+Once a vote executes, reversing it needs another vote and, for on-chain asset moves, another transaction. Bugs are permanent until repaired. The canonical case is The DAO in 2016. That venture fund on Ethereum raised about 12.7M ETH, roughly $150M at the time or about 14 to 17 percent of all ETH, from over 11,000 participants. A reentrancy bug allowed recursive withdrawals. About 3.6M ETH was drained into a child DAO, worth roughly $60M in June 2016 (reports vary from $50M to $70M with price moves). It was not a flaw in Ethereum itself but in The DAO's contract. Vitalik Buterin first proposed a soft fork to blacklist movement, then the community executed a hard fork to restore funds. Holders who rejected the fork continued the original chain, now Ethereum Classic. The event is why audits, bug bounties, and timelocks are now standard. Even today, a single overlooked function can cost hundreds of millions.
 - **Coordination at scale.
 
-**Different stakeholders gain or lose from the same proposal. Token holders, liquidity providers, builders, and users rarely want the same thing. Frequent small votes also cause fatigue, which reduces attention when a critical vote appears.
+Different stakeholders gain or lose from the same proposal. Token holders, liquidity providers, builders, and users rarely want the same thing. Frequent small votes also cause fatigue, which reduces attention when a critical vote appears.
 - **Legal and tax ambiguity.
 
-**Wyoming became the first US state to recognize DAOs as LLCs on July 1, 2021 under SF0038, defining a DAO as an LLC whose articles state it is a DAO and list the smart contract identifier. The law allows member-managed or algorithmically managed forms, defaulting to member-managed if silent, and requires upgradeable contracts to file amendments. CityDAO used this to register on July 23, 2021 and on October 29, 2021 bought 40 acres west of Clark, Wyoming near Yellowstone for about $100,000, later raising to an $8.5M treasury peak and winding down in May 2024. Vermont and the Virgin Islands have similar limited statutes, but globally, liability, tax, and whether a DAO can sign contracts remain jurisdiction-dependent. Most large DAOs retain a foundation legal wrapper for that reason.
+Wyoming became the first US state to recognize DAOs as LLCs on July 1, 2021 under SF0038, defining a DAO as an LLC whose articles state it is a DAO and list the smart contract identifier. The law allows member-managed or algorithmically managed forms, defaulting to member-managed if silent, and requires upgradeable contracts to file amendments. CityDAO used this to register on July 23, 2021 and on October 29, 2021 bought 40 acres west of Clark, Wyoming near Yellowstone for about $100,000, later raising to an $8.5M treasury peak and winding down in May 2024. Vermont and the Virgin Islands have similar limited statutes, but globally, liability, tax, and whether a DAO can sign contracts remain jurisdiction-dependent. Most large DAOs retain a foundation legal wrapper for that reason.
 
 The honest pattern is hybrid. Even DAOs that aspire to full decentralization end up routing minor, operational, or time-sensitive decisions through a foundation or multisig while reserving protocol upgrades and large treasury moves for token votes. Pure decentralization is not the goal for most; defined boundaries are.
 
@@ -174,19 +174,19 @@ The honest pattern is hybrid. Even DAOs that aspire to full decentralization end
 
 1. **Read the forum, not just the vote.
 
-**On Tally, check who proposed, the discussion on gov.uniswap.org or the relevant forum, quorum reached, and whether execution matched the description.
+On Tally, check who proposed, the discussion on gov.uniswap.org or the relevant forum, quorum reached, and whether execution matched the description.
 2. **Inspect the treasury.
 
-**Open the DAO's Dune dashboard and Safe address. Ask: how much is native token versus stablecoins and ETH? How much is actually liquid? A treasury that is 85 percent native token is less flexible than one with stable reserves covering 12 to 24 months of runway.
+Open the DAO's Dune dashboard and Safe address. Ask: how much is native token versus stablecoins and ETH? How much is actually liquid? A treasury that is 85 percent native token is less flexible than one with stable reserves covering 12 to 24 months of runway.
 3. **Map power.
 
-**On Boardroom, Agora, or Tally, list the top delegates and their combined weight versus total supply. If the top 10 can pass alone, treat governance as delegated by default.
+On Boardroom, Agora, or Tally, list the top delegates and their combined weight versus total supply. If the top 10 can pass alone, treat governance as delegated by default.
 4. **Watch the cycle time.
 
-**If every $5,000 grant needs a 30 day vote, expect slow grants. If a multisig can move six figures without a vote, expect faster ops but more trust in signers.
+If every $5,000 grant needs a 30 day vote, expect slow grants. If a multisig can move six figures without a vote, expect faster ops but more trust in signers.
 5. **Check gas and chain.
 
-**Mainnet votes cost ETH. Snapshot signal votes are free. Some DAOs now host governance on layer 2 to keep voting under $0.10 and enable more frequent polls.
+Mainnet votes cost ETH. Snapshot signal votes are free. Some DAOs now host governance on layer 2 to keep voting under $0.10 and enable more frequent polls.
 
 ### If you want to join
 
@@ -199,19 +199,19 @@ The honest pattern is hybrid. Even DAOs that aspire to full decentralization end
 
 1. **Write a short charter.
 
-**State the shared goal, what needs a vote, what the multisig can do without a vote, and how you handle upgrades.
+State the shared goal, what needs a vote, what the multisig can do without a vote, and how you handle upgrades.
 2. **Pick tooling that matches your risk.
 
-**For a new community or investment club, DAOHaus or the Aragon App gives you Safe custody, token minting, and voting out of the box. For protocol governance, deploy a Governor Bravo style contract via Tally and connect Snapshot and a timelock.
+For a new community or investment club, DAOHaus or the Aragon App gives you Safe custody, token minting, and voting out of the box. For protocol governance, deploy a Governor Bravo style contract via Tally and connect Snapshot and a timelock.
 3. **Fund conservatively.
 
-**Seed the treasury with stablecoins for ops and cap native token use. Define monthly reporting from day one.
+Seed the treasury with stablecoins for ops and cap native token use. Define monthly reporting from day one.
 4. **Plan for legal form.
 
-**If you will hold real assets, sign contracts, or hire, register a legal wrapper. In the US the Wyoming DAO LLC is the most tested path and requires a registered agent in Wyoming. Elsewhere, use a foundation.
+If you will hold real assets, sign contracts, or hire, register a legal wrapper. In the US the Wyoming DAO LLC is the most tested path and requires a registered agent in Wyoming. Elsewhere, use a foundation.
 5. **Test with small stakes.
 
-**Run two or three funding votes under $1,000, execute them, and verify the on-chain flow on Etherscan before moving larger sums.
+Run two or three funding votes under $1,000, execute them, and verify the on-chain flow on Etherscan before moving larger sums.
 
 ### Career paths in DAO operations
 

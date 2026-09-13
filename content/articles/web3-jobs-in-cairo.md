@@ -31,9 +31,9 @@ The demand for Web3 talent in Cairo is on the rise, especially for skilled devel
 
 | Role | Experience Level | Monthly Salary Range (EGP) |
 | --- | --- | --- |
-**Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development))** | Mid-Level (2-4 years) | Competitive within local standards |
-| | Senior (5+ years) | Competitive within local standards |
-| | 
+| **Smart Contract Developer ([Solidity](/best-programming-languages-for-blockchain-development))** | Mid-Level (2-4 years) | Competitive within local standards |
+|  | Senior (5+ years) | Competitive within local standards |
+|  |  |  |
 
 *Note: Many top Egyptian developers work remotely, earning higher salaries in USD.* | |
 | **Full-Stack / Mobile Web3 Engineer** | Mid-Level | Competitive within local standards |

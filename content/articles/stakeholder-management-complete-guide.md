@@ -74,7 +74,9 @@ Your communication plan should include:
 - **Frequency:** Define how often you will communicate: daily, weekly, bi-weekly, or only during major milestones.
 - **Owner:** Assign responsibility for this communication to a project team member.
 
-**Example Communication Plan:**| Stakeholder | Key Message | Method | Frequency | Owner |
+**Example Communication Plan:**
+
+| Stakeholder | Key Message | Method | Frequency | Owner |
 | --- | --- | --- | --- | --- |
 | Project Sponsor | Progress against milestones, budget status, key risks | 1-on-1 Meeting | Weekly | Project Manager |
 | End-Users | Upcoming feature releases, training materials | Email Newsletter | Bi-weekly | Product Manager |

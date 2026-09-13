@@ -139,16 +139,16 @@ AI plus blockchain is the newest premium niche inside this market. Blockready, T
 **Read the Solidity security considerations page. Write tests in Solidity with Foundry and integration tests with Viem or Ethers.js. Use a local fork with `anvil --fork-url` to simulate mainnet state.
 3. **Build one hybrid project for your [portfolio](/building-web3-portfolio).
 
-**Example: a dApp where users upload an image, an off-chain Python script classifies it with a small PyTorch model, and a contract stores the signed result with the model hash. Include the repo, deployed address, test coverage, and a note on gas cost and proof method.
+Example: a dApp where users upload an image, an off-chain Python script classifies it with a small PyTorch model, and a contract stores the signed result with the model hash. Include the repo, deployed address, test coverage, and a note on gas cost and proof method.
 
 ### Path 2: You already ship Web3 code
 
 1. **Learn ML fundamentals without a PhD.
 
-**Complete a structured Python ML sequence that covers Pandas, NumPy, training, and evaluation. Fast.ai and Coursera courses are the most commonly cited starting points that hiring managers recognize.
+Complete a structured Python ML sequence that covers Pandas, NumPy, training, and evaluation. Fast.ai and Coursera courses are the most commonly cited starting points that hiring managers recognize.
 2. **Train and measure a small model.
 
-**Use PyTorch or TensorFlow to build a classifier or sentiment model. Track accuracy, latency, and inference cost. Try EZKL on a tiny network to see proof time and memory firsthand.
+Use PyTorch or TensorFlow to build a classifier or sentiment model. Track accuracy, latency, and inference cost. Try EZKL on a tiny network to see proof time and memory firsthand.
 3. **Build one hybrid project from on-chain data.
 
 **Example: export pool or [NFT](/what-are-nfts) activity from Dune Analytics, train a model to predict which mints retain activity after 30 days using on-chain metrics, and publish a dashboard plus a contract that gates a test action on the model score delivered via your oracle script. Document limitations, false positives, and where human review is still needed.

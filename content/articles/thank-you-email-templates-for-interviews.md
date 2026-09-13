@@ -63,7 +63,7 @@ Sincerely,
 
 Use this template when you want to provide additional value after the interview, especially if you discussed a specific challenge or idea.
 
-**Subject **: Following up on our conversation about [Specific Topic]** Body**:
+**Subject**: Following up on our conversation about [Specific Topic]**Body**:
 
 Hi [Interviewer's Name],
 

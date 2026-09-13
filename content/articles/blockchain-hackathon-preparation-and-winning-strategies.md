@@ -43,17 +43,17 @@ Run through one practice deployment. Compile a trivial contract, deploy it local
 
 ## Find a problem with a narrow user flow
 
-Good hackathon ideas begin with a specific actor and a specific moment of friction. “Improve DeFi” is too broad. “Let a small group split a shared expense after each member signs the same settlement” is narrow enough to prototype. The problem statement should identify who acts, what information they have, what action they take, and what result they receive.
+Good hackathon ideas begin with a specific actor and a specific moment of friction. "Improve DeFi" is too broad. "Let a small group split a shared expense after each member signs the same settlement" is narrow enough to prototype. The problem statement should identify who acts, what information they have, what action they take, and what result they receive.
 
 Use a short scoring exercise when the team has several ideas. Ask whether the project can be demonstrated by one person in three minutes, whether it uses the sponsor technology in a meaningful way, whether the core action can be completed on a test network, and whether the team can test the risky part before the deadline. Reject ideas that need an oracle partnership, a large user base, legal approval, or a custom protocol before the demo can work.
 
-Write the minimum viable product as a sentence. For example: “A user creates a payment request, another user approves it, and the request becomes visibly settled after the transaction confirms.” Everything beyond that is optional. Social feeds, governance systems, referral programs, mobile apps, and elaborate token economics can wait.
+Write the minimum viable product as a sentence. For example: "A user creates a payment request, another user approves it, and the request becomes visibly settled after the transaction confirms." Everything beyond that is optional. Social feeds, governance systems, referral programs, mobile apps, and elaborate token economics can wait.
 
 ## Plan the first hours deliberately
 
 Spend the opening hours agreeing on scope rather than immediately typing. Create a simple user-flow diagram or numbered list. Identify the contract functions, the frontend screens, the data that lives on-chain, and the data that can remain in a local or hosted database. List the one risk that could prevent the demo, such as an unfamiliar contract call or an unreliable third-party API.
 
-Turn the plan into small tasks with a named owner and a checkable result. “Build contract” is not a useful task. “Add `createRequest`, reject a zero amount, and write tests for creator and non-creator actions” is. Keep a visible backlog with a `must have`, `should have`, and `only if time remains` section. Delete optional items as soon as they threaten the core flow.
+Turn the plan into small tasks with a named owner and a checkable result. "Build contract" is not a useful task. "Add `createRequest`, reject a zero amount, and write tests for creator and non-creator actions" is. Keep a visible backlog with a `must have`, `should have`, and `only if time remains` section. Delete optional items as soon as they threaten the core flow.
 
 Agree on interfaces before parallel work begins. The frontend needs a contract address, ABI, function names, expected events, and error cases. The contract engineer needs to know what inputs the interface can collect safely. A five-minute written interface note prevents hours of integration drift.
 
@@ -69,7 +69,7 @@ Commit regularly and use pull requests when the team can do so without delay. A 
 
 ## Use mentors and workshops well
 
-Mentors can save time when the question is concrete. Before asking, write the failing command, error message, relevant code, network, dependency version, and steps already attempted. Ask one question at a time. “Our call to this documented method reverts on Sepolia with this error; does the protocol require an approval first?” is easier to answer than “Why does our integration not work?”
+Mentors can save time when the question is concrete. Before asking, write the failing command, error message, relevant code, network, dependency version, and steps already attempted. Ask one question at a time. "Our call to this documented method reverts on Sepolia with this error; does the protocol require an approval first?" is easier to answer than "Why does our integration not work?"
 
 Attend a sponsor workshop if the technology is central to your prototype, but do not attend every session by default. Watch recordings later when available. The team should protect build time, meals, rest, and a short daily check-in. Exhaustion produces mistakes in credentials, deployments, and submissions.
 

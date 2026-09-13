@@ -18,7 +18,9 @@ Tokenizing RWAs represents a shift, potentially introducing value into the DeFi 
 
 Real-World Assets are any assets that exist in the physical domain, outside the blockchain. Tokenization involves creating a digital token on a blockchain that represents a claim on the underlying asset.
 
-**Examples of Tokenized RWAs:**| Asset Type | Description |
+**Examples of Tokenized RWAs:**
+
+| Asset Type | Description |
 | --- | --- |
 | Real Estate | Tokens representing fractional ownership in properties like commercial buildings or rental units. |
 | Private Credit | Tokenization of real-world loans such as mortgages and business loans. |

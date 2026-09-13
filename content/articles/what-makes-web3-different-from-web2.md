@@ -20,7 +20,7 @@ The most critical difference between Web2 and Web3 lies in their architectural f
 
 - **Web2: Centralized Platforms.
 
-**The current internet is predominantly populated by centralized applications operated by corporations. Major companies like Meta, Google, and Amazon own the servers that store your data, content, and online identity. These entities serve as trusted intermediaries for user interactions, controlling the environment and setting the rules.
+The current internet is predominantly populated by centralized applications operated by corporations. Major companies like Meta, Google, and Amazon own the servers that store your data, content, and online identity. These entities serve as trusted intermediaries for user interactions, controlling the environment and setting the rules.
 
 - **Web3: Decentralized Protocols.**[Web3](/what-is-web3) is constructed on decentralized **[protocols](/what-is-a-protocol)** rather than centralized platforms. These protocols are open-source and enforced by **[smart contracts](/what-are-smart-contracts)** on public **[blockchains](/what-is-a-blockchain)**. Applications operate on a peer-to-peer network, meaning no single organization can dictate the rules or control the network.
 
@@ -30,7 +30,7 @@ This shift in architectural design leads to a significant change in data ownersh
 
 - **Web2: The Platform Owns Your Data.
 
-**When users upload content, such as photos or posts, they transfer ownership of that data to the platform. These platforms monetize user data by selling ads and using it to enhance their algorithms, often without the user's explicit consent. This dynamic positions users as products rather than owners.
+When users upload content, such as photos or posts, they transfer ownership of that data to the platform. These platforms monetize user data by selling ads and using it to enhance their algorithms, often without the user's explicit consent. This dynamic positions users as products rather than owners.
 
 - **Web3: You Own Your Data.
 
@@ -42,7 +42,7 @@ The business models of Web2 and Web3 differ fundamentally.
 
 - **Web2: The Attention Economy.
 
-**Advertising serves as the primary revenue model for platforms in Web2. Companies seek to capture users' attention, often leading to addictive design patterns and engagement-driven algorithms that prioritize profits over user welfare.
+Advertising serves as the primary revenue model for platforms in Web2. Companies seek to capture users' attention, often leading to addictive design patterns and engagement-driven algorithms that prioritize profits over user welfare.
 
 - **Web3: The Ownership Economy.
 
@@ -54,7 +54,7 @@ Online identity represents another significant battleground between Web2 and Web
 
 - **Web2: Siloed, Platform-Specific Identity.
 
-**In the Web2 structure, users possess individual accounts for each platform (e.g., Google, Facebook). If banned from a service, users lose access to their accounts, followers, and content, making digital identity non-portable.
+In the Web2 structure, users possess individual accounts for each platform (e.g., Google, Facebook). If banned from a service, users lose access to their accounts, followers, and content, making digital identity non-portable.
 
 - **Web3: Self-Sovereign, Portable Identity.
 

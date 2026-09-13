@@ -53,13 +53,13 @@ Customizing your resume for each job application enhances your chances of standi
 
 - **Analyze the job description carefully.
 
-**Identify key skills and qualifications that the employer seeks.
+Identify key skills and qualifications that the employer seeks.
 - **Highlight relevant experience.
 
-**Ensure that the most pertinent skills and achievements are prominently featured.
+Ensure that the most pertinent skills and achievements are prominently featured.
 - **Incorporate keywords from the job description.
 
-**Many companies employ Applicant Tracking Systems (ATS) to filter resumes based on specific terms. Including relevant keywords may help your resume get through initial screenings.
+Many companies employ Applicant Tracking Systems (ATS) to filter resumes based on specific terms. Including relevant keywords may help your resume get through initial screenings.
 
 ### 5. Maintain Clarity, Conciseness, and Readability
 

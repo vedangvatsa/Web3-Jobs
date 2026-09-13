@@ -138,13 +138,13 @@ Use this checklist before you deposit:
 
 ## Pros and cons to weigh
 
-**Access and transparency.
+Access and transparency.
 
 **Anyone with a wallet and internet can supply, borrow, or swap without a bank account. Contracts, balances, and collateral are public on chain. You can verify code on Etherscan, check the proxy, and read audits. That makes independent checks possible.** Composability.
 
 **Because DeFi products share token standards like ERC-20 and ERC-4626, you can use a receipt token elsewhere without withdrawing. You can supply USDC on Aave, receive aUSDC, and use that as collateral in another app in the same transaction.** Self-custody.
 
-**You hold keys, not an exchange. That removes custodian failure but shifts key management to you. Hardware wallets, offline seed backup, and limited approvals become your controls.** Impermanent loss.** This is the shortfall when the value of your share in a two-asset pool ends up less than the value of simply holding the two tokens outside the pool because prices moved apart while you were deposited.
+**You hold keys, not an exchange. That removes custodian failure but shifts key management to you. Hardware wallets, offline seed backup, and limited approvals become your controls.** Impermanent loss. This is the shortfall when the value of your share in a two-asset pool ends up less than the value of simply holding the two tokens outside the pool because prices moved apart while you were deposited.
 
 For a constant product pool x * y = k, impermanent loss depends only on price ratio change:
 
@@ -154,7 +154,7 @@ Uniswap docs publish the scale: 1.25x price change is about 0.6 percent loss vs 
 
 Fees can offset this, but not always. A study of Uniswap v3 volatile pairs cited in 2026 reviews found about 54.7 percent of LPs lost money after fees and impermanent loss were netted. Stable pools on Curve have much lower impermanent loss when the peg holds, which is why they are common for conservative LP strategies.
 
-**Smart contract and dependency risk.
+Smart contract and dependency risk.
 
 **Year-to-year loss data from Immunefi put DeFi protocol losses at 680 million dollars in 2025, up from 534 million in 2024 but 74 percent below the 2.62 billion peak in 2022, with most 2025 losses tied to protocol logic errors. An audit is a snapshot of one commit. It does not cover later changes, admin keys, or front-end compromise. Each layer you stack, for example LP token to gauge to vault to aggregator wrapper, adds a contract that can fail.** Liquidation and use risk.
 
@@ -164,7 +164,7 @@ Fees can offset this, but not always. A study of Uniswap v3 volatile pairs cited
 
 **Gas, slippage, and price impact reduce net yield. Pool fee tiers, protocol fees that can be enabled by governance, vault performance fees, and bridge fees all come off the gross. Layer 2s reduce gas by 5 to 20 times per ethereum.org notes, but you still pay bridging and must manage finality.** Regulatory and interface risk.
 
-**Contracts are permissionless, but stablecoin issuers, front ends, and fiat ramps face sanctions, licensing, and compliance rules like EU MiCA. A front end can geofence assets, and an issuer can add controls to a token contract. Your on-chain position may remain, but the interface to manage it can change.
+Contracts are permissionless, but stablecoin issuers, front ends, and fiat ramps face sanctions, licensing, and compliance rules like EU MiCA. A front end can geofence assets, and an issuer can add controls to a token contract. Your on-chain position may remain, but the interface to manage it can change.
 
 ### Current size and context in 2026
 

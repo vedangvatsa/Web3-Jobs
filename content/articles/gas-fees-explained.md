@@ -125,13 +125,13 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 - **Fees still spike.
 
-**When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
+When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
 - **Tip still needed for speed.
 
-**To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
+To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
 - **Mainnet is costly for small actions.
 
-**Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
+Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
 - **Developer cliff.
 
 **Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
@@ -195,7 +195,9 @@ struct Good { uint128 a; uint128 c; uint256 b; }
 
 This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
 
-**3. Use calldata for read-only external inputs.**```solidity
+**3. Use calldata for read-only external inputs.**
+
+```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 
@@ -244,21 +246,21 @@ The lesson repeats every cycle: demand spikes are temporary, base-fee math is pe
 
 ## FAQ
 
-**Estimating fees in dollars
+Estimating fees in dollars
 
-**Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
+Look up current base fee and suggested tip on a gas tracker, add them, multiply by your gas limit, and multiply by ETH price. For example, 21,000 gas with base 15 gwei plus tip 2 gwei equals 357,000 gwei, or 0.000357 ETH. At $2,500 per ETH that is $0.89. Wallets and sites like Etherscan show this estimate live.
 
-**Paid failures
+Paid failures
 
-**Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
+Gas pays for work, not success. If the EVM ran opcodes before it hit a revert or out-of-gas, validators did that work. You pay for gas used. If you set too little gasLimit for a transfer, the transaction can be rejected before inclusion and cost nothing, but most failures during execution are paid.
 
 #### What happens to gas if ETH price doubles?
 
 Gas used for an action stays the same. Price per unit in gwei is set by demand. If ETH price doubles and demand stays flat, the same 21,000-unit transfer costs twice as many dollars but the same gwei and ETH. In practice wallets and users target dollar costs, so demand often eases when ETH price rises.
 
-**ETH on Layer 2
+ETH on Layer 2
 
-**Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
+Yes, but less. Arbitrum and Optimism still use ETH for gas, and Base uses ETH as well. Fees are lower because execution happens off L1 and only a batch proof and blob or calldata is posted to Ethereum. Some L2s and apps offer paymasters that let you pay fees in USDC or sponsor them entirely, but under the hood the operator still pays ETH to settle.
 
 #### Is it cheaper to set a very low maxFeePerGas and wait?
 

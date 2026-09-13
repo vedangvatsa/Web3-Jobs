@@ -124,7 +124,7 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 ### Addressing Challenges with Solutions
 
-**Hyperinflation and Currency Volatility
+Hyperinflation and Currency Volatility
 
 **The Nigerian Naira has significantly depreciated, affecting local savings. Use Web3 to earn in stablecoins or USD, protecting your wealth from inflation.** CBN Restrictions on Crypto
 
@@ -134,7 +134,7 @@ Here is an overview of in-demand positions along with their salary ranges:
 
 **Lagos's reputation as Africa's crypto capital means fierce competition. Specialize in a niche area to differentiate yourself, such as Nigeria-specific FinTech or security auditing.** Scams and Rug Pulls
 
-**With the prevalence of scams, focus on building credible projects and educating the community about safe practices. Establish yourself as a trusted builder.
+With the prevalence of scams, focus on building credible projects and educating the community about safe practices. Establish yourself as a trusted builder.
 
 ### 90-Day Quick Start Action Plan
 

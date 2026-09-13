@@ -39,9 +39,9 @@ The tokenization of real estate requires professionals who possess knowledge in 
 | Asset Manager (Tokenized Properties) | Manage physical properties and report to token holders. | Traditional property management skills with tech proficiency. |
 | DeFi Integration Specialist (Collateral Onboarding) | Ensure tokenized properties can be used as collateral in DeFi lending protocols. | Knowledge of real estate valuation and DeFi risk management. |
 
-**Real Estate Tokenization Platform Developer
+Real Estate Tokenization Platform Developer
 
-**These professionals design and build the platforms that handle the entire tokenization lifecycle.
+These professionals design and build the platforms that handle the entire tokenization lifecycle.
 - **Responsibilities:** The role encompasses writing [smart contracts](/what-are-smart-contracts) for tokenized assets, typically using standards like ERC-3643. Developers also create user-facing investment portals and integrate custody and compliance solutions.
 - **Skills:** A combination of smart contract development and traditional backend engineering is essential. Developers must possess knowledge of token standards and decentralized finance ([DeFi](/what-is-defi)) alongside secure and scalable off-chain system development.
 

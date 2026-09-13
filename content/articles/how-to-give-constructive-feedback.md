@@ -47,18 +47,18 @@ A good rule: give it soon, but give it when both of you are in a state to have a
 
 If your team communicates mostly through Slack, Discord, or async tools - which is common in [remote Web3 roles](/remote-web3-jobs) - feedback requires extra thought.
 
-**Don't drop critical feedback in a DM without context.** A cold Slack message like "we need to talk about your last commit" reads as ominous. Instead, set up the conversation: "Hey, I had some thoughts on the auth module you shipped. Can we jump on a quick call, or would you prefer I write it up?"**For minor, straightforward feedback, async works fine.
+**Don't drop critical feedback in a DM without context.** A cold Slack message like "we need to talk about your last commit" reads as ominous. Instead, set up the conversation: "Hey, I had some thoughts on the auth module you shipped. Can we jump on a quick call, or would you prefer I write it up?"For minor, straightforward feedback, async works fine.
 
 **Code review comments, design critique in a shared doc, or a short Loom video walking through your concerns - these are all good options. Just make sure your tone reads as collaborative, not accusatory. Text strips out body language and vocal tone, so err on the side of being warmer than you think you need to be.** For anything sensitive, go synchronous.
 
-**A video call lets you read reactions and adjust your delivery in real time. Some conversations just don't work in text.
+A video call lets you read reactions and adjust your delivery in real time. Some conversations just don't work in text.
 
 ## How to Receive Feedback Well
 
-Giving feedback is half the equation. Receiving it is the other half.**Listen first, react second.
+Giving feedback is half the equation. Receiving it is the other half.Listen first, react second.
 
 **Your instinct will be to explain or defend. Resist that. Let the other person finish. Ask clarifying questions: "Can you give me a specific example?" or "What would you have preferred I did instead?"** Separate the message from the delivery.
 
 **Sometimes people give good feedback badly. Try to extract the useful signal even when the delivery is rough.** Remember: feedback is data, not a verdict.
 
-**Take what's useful, discard what isn't. But if you're hearing the same thing from multiple people, pay attention - there's probably something real there.** Say thank you.** Even when it stings, especially when it stings. The people willing to tell you hard truths are doing you a favor. Make it easy for them to keep doing it.
+**Take what's useful, discard what isn't. But if you're hearing the same thing from multiple people, pay attention - there's probably something real there.** Say thank you. Even when it stings, especially when it stings. The people willing to tell you hard truths are doing you a favor. Make it easy for them to keep doing it.

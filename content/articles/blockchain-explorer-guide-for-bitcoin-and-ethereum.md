@@ -57,7 +57,7 @@ Mempool pages show transactions waiting for inclusion. They can help explain why
 
 ## Inspect Ethereum contract pages
 
-An Ethereum contract address page often has a `Contract` tab with code and an ABI. “Verified” generally means the explorer compiled submitted source code with stated settings and matched the result to the deployed bytecode. This is valuable because it lets a reader inspect code and use a human-readable interface. It does not certify that the code is secure, that a project is legitimate, or that the source's behavior is suitable for a particular user.
+An Ethereum contract address page often has a `Contract` tab with code and an ABI. "Verified" generally means the explorer compiled submitted source code with stated settings and matched the result to the deployed bytecode. This is valuable because it lets a reader inspect code and use a human-readable interface. It does not certify that the code is secure, that a project is legitimate, or that the source's behavior is suitable for a particular user.
 
 The `Read Contract` interface calls functions that do not change state. Use it to inspect public values such as an owner address, an ERC-20 balance, a pause flag, or a configuration field. Results reflect the selected block context and can change as new blocks arrive. The `Write Contract` interface prepares a transaction that asks the contract to change state. Before using it, understand every parameter and the function's permission checks.
 

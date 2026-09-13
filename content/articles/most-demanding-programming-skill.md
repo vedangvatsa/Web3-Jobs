@@ -31,7 +31,9 @@ Crafting a simple prompt is straightforward, but creating a *great* prompt that 
 #### 1. Precision and Clarity
 LLMs operate on literal interpretations. Ambiguous language leads to misunderstandings. Great prompt engineers employ precise language to eliminate misinterpretation.
 
-**Example Comparison:**| Prompt Type | Prompt | Quality |
+**Example Comparison:**
+
+| Prompt Type | Prompt | Quality |
 | --- | --- | --- |
 | Bad Prompt | "Write about dogs." | Vague, open to interpretation |
 | Good Prompt | "Write a 500-word blog post about the benefits of positive reinforcement training for golden retriever puppies. The tone should be informative but friendly. Include a short, bulleted list of essential training equipment." | Specific and directive |

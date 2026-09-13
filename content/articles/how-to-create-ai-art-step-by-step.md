@@ -87,7 +87,9 @@ Writing a basic prompt is just the beginning. Crafting detailed and imaginative 
 
 5. **Technical Parameters (Optional)**: You can append parameters to control aspects like the aspect ratio. For example, adding `--ar 16:9` creates a widescreen image.
 
-**Example Comparisons of Prompts:**| Prompt Type | Example Prompt | Outcome |
+**Example Comparisons of Prompts:**
+
+| Prompt Type | Example Prompt | Outcome |
 | --- | --- | --- |
 | Simple Prompt | "A dragon." | Generic image of a dragon. |
 | Detailed Prompt | "A majestic black dragon, perched on a snowy mountain peak, breathing blue fire, epic fantasy art, cinematic lighting, ultra detailed, --ar 16:9" | A specific and impressive image. |
@@ -116,11 +118,11 @@ Ownership varies based on the terms of service of the respective tool. For Midjo
 
 Yes, many artists successfully sell their AI-generated art as prints or digital downloads. Developing a distinctive style and curating your work to a high standard is essential. Simply selling random images is not advisable; a clear vision enhances marketability.
 
-**3. What are some other AI art tools besides Midjourney?**| Tool | Description |
-| --- | --- |
-| Stable Diffusion | An open-source model that offers powerful, customizable options, though it requires more technical setup. |
-| DALL-E 3 | Developed by OpenAI, it excels at interpreting complex prompts and is integrated into ChatGPT for subscribers. |
-| Leonardo.Ai | A user-friendly platform featuring various AI models, ideal for beginners seeking to try different styles. |
+| **3. What are some other AI art tools besides Midjourney?** | Tool | Description |
+| --- | --- | --- |
+| Stable Diffusion | An open-source model that offers powerful, customizable options, though it requires more technical setup. |  |
+| DALL-E 3 | Developed by OpenAI, it excels at interpreting complex prompts and is integrated into ChatGPT for subscribers. |  |
+| Leonardo.Ai | A user-friendly platform featuring various AI models, ideal for beginners seeking to try different styles. |  |
 #### 4. Why doesn't my image look exactly like my prompt?
 
 The AI interprets your prompt rather than replicating it. Variability in output can occur due to the model's learned patterns. If the result does not align with your expectations, rephrase your prompt, enhance specificity, or use the "reroll" and "vary" options for better guidance.

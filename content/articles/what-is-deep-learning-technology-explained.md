@@ -92,7 +92,7 @@ Mastering competencies related to deep learning and AI is vital for growing in t
 
 #### Core Competencies
 
-**Technical Foundation
+Technical Foundation
 
 **Possessing an understanding of technical concepts relevant to your field is essential. While you don't need to be an expert, having foundational knowledge can help avert costly errors.** Communication Excellence
 
@@ -102,7 +102,7 @@ Mastering competencies related to deep learning and AI is vital for growing in t
 
 **The capacity to swiftly learn new skills is invaluable in fast-paced fields. Engage in hands-on learning rather than passive consumption of content.** Emotional Intelligence
 
-**Understanding and managing your emotions, as well as recognizing those of others, significantly enhances your effectiveness in teamwork and negotiations.
+Understanding and managing your emotions, as well as recognizing those of others, significantly enhances your effectiveness in teamwork and negotiations.
 
 ### Development Roadmap
 
@@ -132,15 +132,15 @@ Mastering competencies related to deep learning and AI is vital for growing in t
 
 ### Real-World Applications
 
-**In Web3 Organizations
+In Web3 Organizations
 
-**Distributed Web3 teams operate at a rapid pace. The skills you develop directly influence your capacity to:
+Distributed Web3 teams operate at a rapid pace. The skills you develop directly influence your capacity to:
 - Deliver products promptly (technical and communication).
 - Tackle ambiguity effectively (problem-solving and learning agility).
 - Establish trust with peers (emotional intelligence).
 - Influence without formal authority (communication and emotional intelligence).**In Career Progression
 
-**The importance of these skills varies by career stage:
+The importance of these skills varies by career stage:
 - **Junior Level:** Technical skills dominate, but communication grows in significance.
 - **Mid Level:** A balance of technical and soft skills becomes essential as leadership potential emerges.
 - **Senior Level:** Soft skills account for a significant portion of your effectiveness.

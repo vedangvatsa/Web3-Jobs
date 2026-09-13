@@ -29,7 +29,7 @@ Testing a dApp entails complexities that differ significantly from traditional w
  - **End-to-End (E2E) Testing:** Using tools like Cypress or Playwright, QA engineers automate user flows in the browser, from wallet connection to transaction signing and result verification.
  - **Fork Testing:** QA engineers create a local "fork" of the mainnet blockchain to assess interactions with real, deployed [DeFi](/what-is-defi) protocols within a controlled setting.
 
-**4. Performance and Load Testing **- QA engineers evaluate the performance of the dApp's off-chain components, such as the frontend and indexer, under heavy user loads. They investigate the application's behavior when thousands of users access it simultaneously.** 5. Regression Testing**- Before deploying new code, QA engineers execute the entire test suite to verify that changes do not disrupt existing functionalities.
+**4. Performance and Load Testing**- QA engineers evaluate the performance of the dApp's off-chain components, such as the frontend and indexer, under heavy user loads. They investigate the application's behavior when thousands of users access it simultaneously.**5. Regression Testing**- Before deploying new code, QA engineers execute the entire test suite to verify that changes do not disrupt existing functionalities.
 
 ### Essential Skills for Success
 

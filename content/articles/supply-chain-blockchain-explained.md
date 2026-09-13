@@ -27,7 +27,7 @@ In both models the ledger stores proofs and state changes. Large files, images, 
 
 ## Who it is for
 
-**Operators who move or sell physical goods.
+Operators who move or sell physical goods.
 
 **That includes farmers, manufacturers, logistics providers, cold chain operators, customs brokers, distributors, and retailers who need to answer where a lot came from and where it is now. If you handle recalls, audits, or sustainability claims, this is your primary use case.** Enterprise teams who integrate ERPs and WMS.
 
@@ -35,7 +35,7 @@ In both models the ledger stores proofs and state changes. Large files, images, 
 
 **Protocol developers write ledger logic and connect IoT devices. Product managers build dashboards that read ledger events and present inventory or compliance views. Web3 logistics consultants guide pilots and measure whether the ledger saves time or cost.** Career switchers with logistics background.
 
-**You bring domain knowledge about bills of lading, GTINs, SSCCs, and warehouse processes. You add basic smart contract and data standards skill to design pilots that reflect how the warehouse actually works.
+You bring domain knowledge about bills of lading, GTINs, SSCCs, and warehouse processes. You add basic smart contract and data standards skill to design pilots that reflect how the warehouse actually works.
 
 If you never touch a physical handover, you can use the concepts without running a node. If you are responsible for provenance or recall speed, the sections below affect architecture and vendor choice.
 
@@ -188,7 +188,7 @@ Prerequisites are basic smart contract skill plus GS1 and EDI comfort. You will 
 * **Product manager with supply chain focus.** You own the dashboard that reads on-chain events and displays lot genealogy, sensor alerts, and exception workflows. You need to translate endorsement and privacy rules into clear UX.
 * **Analyst for compliance and provenance.
 
-**You review chain data against certificates, country of origin claims, and audit records, and flag mismatches. You need to know how to query an EPCIS repository and how to read a ledger proof without assuming the source data was correct.
+You review chain data against certificates, country of origin claims, and audit records, and flag mismatches. You need to know how to query an EPCIS repository and how to read a ledger proof without assuming the source data was correct.
 
 ## FAQ
 

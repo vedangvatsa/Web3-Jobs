@@ -41,19 +41,21 @@ While the formal Web3 job market in Brazzaville remains limited, professionals c
 
 ### Salary Expectations in Detail
 
-**Developer Track:**| Level | Monthly Salary Range (Remote) |
-| --- | --- |
-| Junior Developer (0-1 year) | Competitive |
-| Mid-Level Developer (1-3 years) | Competitive |
+**Developer Track:**
+
+| Level | Monthly Salary Range (Remote) |  |  |  |
+| --- | --- | --- | --- | --- |
+| Junior Developer (0-1 year) | Competitive |  |  |  |
+| Mid-Level Developer (1-3 years) | Competitive |  |  |  |
 | Senior Developer (3+ years) | Competitive | **Enterprise & Consulting Track:** | Role | Monthly/Hourly Salary Range |
 | --- | --- | --- | --- | --- |
-| Enterprise Blockchain Consultant | Competitive |
-| Project Manager | Competitive |
-| Supply Chain Specialist | Competitive |
+| Enterprise Blockchain Consultant | Competitive |  |  |  |
+| Project Manager | Competitive |  |  |  |
+| Supply Chain Specialist | Competitive |  |  |  |
 
-**Living on a Web3 Salary in Brazzaville
+Living on a Web3 Salary in Brazzaville
 
-**A mid-level developer earning a competitive salary can expect the following living expenses:
+A mid-level developer earning a competitive salary can expect the following living expenses:
 
 - Comfortable housing: Competitive
 - Living expenses: Competitive

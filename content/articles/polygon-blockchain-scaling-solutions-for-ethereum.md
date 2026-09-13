@@ -75,7 +75,7 @@ Use official sources and check live dashboards before you plan capacity. Figures
 * **Usage reported by Polygon.** The marketing site reports about 175 million unique wallet addresses, more than 7 billion total transactions, about 590 million total addresses on PolygonScan including contracts, and $2.7 trillion in transfer volume with about $3.4 billion in stablecoin supply. Stablecoin TVL around $1.15 billion and daily active addresses near 590,000 to 600,000 were cited in Q3 2025 reports.
 * **Stability.
 
-**Polygon Chain notes over five years of production and 99.99 percent uptime.
+Polygon Chain notes over five years of production and 99.99 percent uptime.
 
 Treat the low fee and high capacity numbers as best case under light load. Actual cost depends on Bor gas price, batch checkpoint timing, and Ethereum fees for bridging.
 
@@ -97,37 +97,37 @@ Treat the low fee and high capacity numbers as best case under light load. Actua
 
 1. **Add the network.
 
-**In MetaMask or any EVM wallet, add Polygon Mainnet. Chain ID is 137. RPC is https://polygon-rpc.com. Symbol is POL. If it still shows MATIC, update the network symbol manually.
+In MetaMask or any EVM wallet, add Polygon Mainnet. Chain ID is 137. RPC is https://polygon-rpc.com. Symbol is POL. If it still shows MATIC, update the network symbol manually.
 2. **Get POL for gas.
 
-**On Polygon Chain you need POL, not MATIC. If you hold MATIC on Ethereum, migrate 1 to 1 at portal.polygon.technology/pol-upgrade. If you hold MATIC on Polygon Chain after September 2024, it is already POL though your display may lag.
+On Polygon Chain you need POL, not MATIC. If you hold MATIC on Ethereum, migrate 1 to 1 at portal.polygon.technology/pol-upgrade. If you hold MATIC on Polygon Chain after September 2024, it is already POL though your display may lag.
 3. **Bridge small first.
 
-**Use the Polygon Portal at portal.polygon.technology to move assets from Ethereum to Polygon. Send a test amount, confirm it arrives, then send the rest. Keep some POL for gas.
+Use the Polygon Portal at portal.polygon.technology to move assets from Ethereum to Polygon. Send a test amount, confirm it arrives, then send the rest. Keep some POL for gas.
 4. **Track finality.
 
-**A wallet confirmation is a Bor soft confirmation. For Polygon to Polygon activity, milestone finality in seconds is sufficient. For Polygon to Ethereum moves, wait for the checkpoint and keep the transaction hash. Block explorers and the validator dashboard show checkpoint status.
+A wallet confirmation is a Bor soft confirmation. For Polygon to Polygon activity, milestone finality in seconds is sufficient. For Polygon to Ethereum moves, wait for the checkpoint and keep the transaction hash. Block explorers and the validator dashboard show checkpoint status.
 5. **Manage bridges and ramps.
 
-**For fiat on- and off-ramps, Polygon now routes through the Open Money Stack partners including Coinme for cash rails. Compare fees and know your custody model before you deposit.
+For fiat on- and off-ramps, Polygon now routes through the Open Money Stack partners including Coinme for cash rails. Compare fees and know your custody model before you deposit.
 
 ### If you are a builder
 
 1. **Deploy as on Ethereum where possible.
 
-**Point Hardhat or Foundry at the Polygon RPC and deploy compiled Solidity. No custom compiler is needed on Polygon Chain. Check gas accounting, since fees are paid in POL.
+Point Hardhat or Foundry at the Polygon RPC and deploy compiled Solidity. No custom compiler is needed on Polygon Chain. Check gas accounting, since fees are paid in POL.
 2. **Check the POL assumption.
 
-**Search for any code that handles native token receipt from the bridge. If it checked for MATIC, update it for POL. Run tests on Amoy and verify with a real bridge round trip.
+Search for any code that handles native token receipt from the bridge. If it checked for MATIC, update it for POL. Run tests on Amoy and verify with a real bridge round trip.
 3. **Handle cross chain timing.
 
-**Ethereum to Polygon messages take minutes. Polygon to Ethereum messages require a checkpoint and proof, so do not build logic that assumes synchronous callbacks.
+Ethereum to Polygon messages take minutes. Polygon to Ethereum messages require a checkpoint and proof, so do not build logic that assumes synchronous callbacks.
 4. **Plan for sequencer and validator liveness.
 
-**A single Bor producer per span means downtime can delay inclusion. Provide a retry path and do not assume instant inclusion under load.
+A single Bor producer per span means downtime can delay inclusion. Provide a retry path and do not assume instant inclusion under load.
 5. **Choose CDK versus public chain deliberately.
 
-**Use Polygon Chain if you want public liquidity and immediate users. Use CDK if you need private blockspace, access controls, or custom throughput and can justify operating a chain. Agglayer connectivity is included with CDK and is also available to other chains.
+Use Polygon Chain if you want public liquidity and immediate users. Use CDK if you need private blockspace, access controls, or custom throughput and can justify operating a chain. Agglayer connectivity is included with CDK and is also available to other chains.
 
 ## FAQ
 

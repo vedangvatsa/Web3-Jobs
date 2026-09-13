@@ -45,7 +45,7 @@ Once you access the [Solidity](/best-programming-languages-for-blockchain-develo
 | --- |
 | `selfdestruct` | If you find `selfdestruct(owner)`, it means the contract owner can destroy the contract and take all funds. |
 
-**EXTREME RED FLAG.
+EXTREME RED FLAG.
 
 **Avoid. |
 | `set` functions | Functions like `setBaseURI`, `setPrice`, `setFee`, `pause`, `withdraw` should have an `onlyOwner` modifier. |

@@ -49,7 +49,7 @@ The block is now forming with the bot's transaction prioritized ahead of Bob's.
 1. **Bot's Sell Transaction**: The attacker's bot has already submitted a sell transaction for the CAT tokens acquired in Step 1. The bot adjusts its gas fee to ensure this transaction is included immediately after Bob's in the same block.
 2. **Realization of Profit**: The bot sells its CAT tokens at the improve price resulting from Bob's significant purchase.
 
-**Outcome:**- Bob receives fewer CAT tokens for his trade because the bot's initial transaction increased the price, forcing him to purchase at a less favorable rate. The difference between the expected and actual amount received constitutes Bob's ** slippage**.
+**Outcome:**- Bob receives fewer CAT tokens for his trade because the bot's initial transaction increased the price, forcing him to purchase at a less favorable rate. The difference between the expected and actual amount received constitutes Bob's **slippage**.
 - The attacker profits from capturing this slippage, effectively executing a perfect sandwich.
 
 ### Why Sandwich Attacks Occur

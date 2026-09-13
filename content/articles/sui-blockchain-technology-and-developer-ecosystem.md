@@ -76,7 +76,7 @@ Key changes:
 * **Multiple leaders per round.** Bullshark committed every two to three rounds through a single leader sub-DAG. Mysticeti can elect multiple anchors per round, so transactions that arrive just after a commit do not wait extra rounds.
 * **Lower CPU cost.
 
-**Eliminating explicit certification saved about 40 percent of consensus CPU in production, as reported in the March 2026 Decentralized Thoughts analysis of Mysticeti.
+Eliminating explicit certification saved about 40 percent of consensus CPU in production, as reported in the March 2026 Decentralized Thoughts analysis of Mysticeti.
 
 Mysticeti v2, detailed on the Sui Blog on November 6, 2025, integrates transaction validation into consensus and adds a Transaction Driver client. Valid transactions no longer need a separate two-thirds quorum vote before consensus. Accept votes are implicit via DAG links. Only rejections need explicit votes. The client submits each transaction to a single validator instead of all validators, batching signatures in block proposals. In rollout measurements, Mysten Labs reported about 35 percent lower latency on Asia-based full nodes (about 1.00 s to 0.65 s) and 25 percent on Europe nodes (about 0.55 s to 0.40 s). From Sui node v1.60, Mysticeti v2 and Transaction Driver became the default path.
 
@@ -166,9 +166,7 @@ Around these primitives, community projects include Aftermath Finance, Cetus, Na
 Sui also provides standard tooling: the Sui CLI with `sui move build`, `sui move test`, and `sui client publish`, the Move Analyzer language server for VS Code, Cursor, and IntelliJ with go-to-definition and diagnostics, a Move formatter, the Move Registry (MVR) for on-chain package naming and versioning, and RPC via JSON-RPC, gRPC, and GraphQL. You can run a local stack with `sui devstack` that boots Sui, Walrus, Seal, and DeepBook together for testing.
 
 ## Pros and cons
-
-**Pros**
-
+## Pros
 * **Parallel owned-object path.** Most wallets transfers, peer-to-peer payments, and item mints do not contend. They finalize without waiting for global ordering, which keeps latency low when load spikes.
 * **Sub-second finality with measured data.** Mysticeti commits at about 400 to 500 ms in production, and owned-object transactions can be lower. The July 2023 load test reached 65 million transactions in a single day. Lab benchmarks reported 50,000 to well above 100,000 TPS depending on latency target. These numbers come from the Sui blog and Mysticeti paper, not from marketing TPS claims alone.
 * **Asset safety by construction.** Sui Move resources without `copy` and `drop` cannot be duplicated or lost by accident. Privileged packing, ability checks, and bytecode verification enforce this at publish time and at runtime.
@@ -176,7 +174,7 @@ Sui also provides standard tooling: the Sui CLI with `sui move build`, `sui move
 * **Built-in onboarding and commerce.** zkLogin, sponsored transactions, and Kiosk reduce custom account and marketplace code you would otherwise write and audit.
 * **Integrated data and liquidity.
 
-**Walrus with Seal for storage plus access control, and DeepBook for native order book liquidity, let you compose apps without stitching three external services manually.** Cons**
+**Walrus with Seal for storage plus access control, and DeepBook for native order book liquidity, let you compose apps without stitching three external services manually.** Cons
 
 * **Smaller ecosystem and fewer examples.** You will often port Solidity or EVM audit guides by hand. Documentation quality varies across SDK versions, and Sui Move differs enough from Aptos Move that code does not port without edits, especially around `move_to`, `borrow_global`, and `UID`.
 * **New mental model.** Modeling assets as objects with explicit ownership, dynamic fields, and shared versus owned access takes design time. Teams from EVM need to stop mapping assets inside one contract and start creating one object per asset.
@@ -185,7 +183,7 @@ Sui also provides standard tooling: the Sui CLI with `sui move build`, `sui move
 * **Shared-object contention.** If your app puts all activity through one shared object (for example a single global counter or auction), transactions touching it still serialize and you pay consensus cost. You must shard hot state, use dynamic fields, or batch via PTBs.
 * **Hiring volume versus differentiation.
 
-**There are fewer Sui Move roles than Solidity roles, though scarcity can mean higher pay for proven Move developers. If you need volume of openings quickly, start with EVM and add Sui Move as a second specialization.
+There are fewer Sui Move roles than Solidity roles, though scarcity can mean higher pay for proven Move developers. If you need volume of openings quickly, start with EVM and add Sui Move as a second specialization.
 
 ## How to get started
 
@@ -194,7 +192,7 @@ Pick Sui or Aptos first. Do not try to learn both dialects at once.
 #### 1. Install and verify the toolchain
 Install the Sui CLI from docs.sui.io/guides/developer/getting-started/sui-install. Check `sui --version` (current releases at time of writing are in the 1.x line). Install the TypeScript SDK with `npm install @mysten/sui`. Add the Move Analyzer extension in VS Code for diagnostics and auto-format with the Prettier Move plugin.** 2. Create a minimal object package
 
-**Create a package and implement one owned object with access control:
+Create a package and implement one owned object with access control:
 
 ```bash
 sui move new hello_sui
@@ -234,7 +232,7 @@ module hello_sui::counter {
 #### 3. Test without a network, then publish
 Run `sui move test` for unit tests, `sui move test --coverage` for coverage. Read the Move Book chapters on modules, structs and resources, and abilities before adding a coin. Publish to testnet or devnet with `sui client publish --gas-budget 100000000` and note the package ID and object IDs in the transaction effects.** 4. Compose a PTB in TypeScript
 
-**Use the SDK to call multiple functions atomically:
+Use the SDK to call multiple functions atomically:
 
 ```ts
 import { Transaction } from "@mysten/sui/transactions";

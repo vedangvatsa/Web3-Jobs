@@ -21,22 +21,22 @@ Your thank-you email must go beyond a simple "Thanks for your time." Use this op
 
 1. **A Clear Subject Line.
 
-**Use a straightforward subject line, such as "Thank you - [Job Title] Interview."
+Use a straightforward subject line, such as "Thank you - [Job Title] Interview."
 2. **A Personalized Greeting.
 
-**Address the interviewer by name to create a personal touch.
+Address the interviewer by name to create a personal touch.
 3. **Express Your Thanks.
 
-**Begin by thanking them for their time and the opportunity to learn more about the role and company.
+Begin by thanking them for their time and the opportunity to learn more about the role and company.
 4. **Reference a Specific Point.
 
-**Mention a specific topic discussed during the interview that resonated with you. This shows attentiveness. For instance, "I particularly enjoyed our conversation about the company's plans to expand into on-chain analytics."
+Mention a specific topic discussed during the interview that resonated with you. This shows attentiveness. For instance, "I particularly enjoyed our conversation about the company's plans to expand into on-chain analytics."
 5. **Reiterate Your Interest and Fit.
 
-**Briefly restate your excitement for the role and how your skills align with their needs. Link one of your key qualifications to a challenge or goal they mentioned. For example, "My experience in building data visualization dashboards aligns with your goal of making on-chain data more accessible to the team."
+Briefly restate your excitement for the role and how your skills align with their needs. Link one of your key qualifications to a challenge or goal they mentioned. For example, "My experience in building data visualization dashboards aligns with your goal of making on-chain data more accessible to the team."
 6. **A Professional Closing.
 
-**Conclude with a simple "Sincerely" or "Best regards," followed by your name.
+Conclude with a simple "Sincerely" or "Best regards," followed by your name.
 
 If you interviewed with multiple individuals, send a separate, personalized email to each person. Although this requires additional time, it demonstrates a higher level of professionalism and attention to detail.
 

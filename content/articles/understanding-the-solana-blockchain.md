@@ -16,13 +16,13 @@ It is a single, integrated network. It does not run three separate chains and it
 
 ## Who this guide is for
 
-**Builders weighing a base layer.
+Builders weighing a base layer.
 
 **If you are comparing where to deploy and you need fast confirmation, low fees, and parallel execution, this explains the core pieces so you can decide with clear trade-offs.** Operators and researchers.
 
 **If you run validators, build explorers, or study throughput and fee design, you need the mechanics behind slots, fees, and client requirements.** Users who rely on Solana apps.
 
-**If you trade, send payments, or play games on Solana, you benefit from knowing why transactions confirm quickly and what can still go wrong.
+If you trade, send payments, or play games on Solana, you benefit from knowing why transactions confirm quickly and what can still go wrong.
 
 ## How Solana is built
 
@@ -98,23 +98,23 @@ The design target is up to 65,000 transactions per second. Observed non-vote thr
 
 1. **Create a wallet.
 
-**Phantom or Solflare are common. Back up the seed phrase offline. Start with a small amount to learn the flow.
+Phantom or Solflare are common. Back up the seed phrase offline. Start with a small amount to learn the flow.
 
 2. **Add a little SOL.
 
-**Fees are always in SOL, even for SPL token moves. Keep a dollar or two to cover many transactions. Verify the full address before sending.
+Fees are always in SOL, even for SPL token moves. Keep a dollar or two to cover many transactions. Verify the full address before sending.
 
 3. **Make a first transfer and inspect it.
 
-**Send between your own addresses and view the fee split on Solana Explorer or Solscan.
+Send between your own addresses and view the fee split on Solana Explorer or Solscan.
 
 4. **Stake if you want.
 
-**Most wallets let you stake to validators. Compare commission, skip rate, and concentration. Unstaking follows epoch boundaries, about two days per epoch.
+Most wallets let you stake to validators. Compare commission, skip rate, and concentration. Unstaking follows epoch boundaries, about two days per epoch.
 
 5. **Build on devnet first.
 
-**Install Rust, the Solana CLI, and Anchor. Use the quickstart at solana.com/docs/intro. Test on devnet with airdropped SOL before using mainnet.
+Install Rust, the Solana CLI, and Anchor. Use the quickstart at solana.com/docs/intro. Test on devnet with airdropped SOL before using mainnet.
 
 ## FAQ
 

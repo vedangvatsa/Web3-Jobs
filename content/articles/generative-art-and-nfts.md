@@ -114,10 +114,10 @@ fxhash has no curated gate, so curation happened through collecting. Notable exa
 
 1. **Set up a wallet.
 
-**MetaMask for Ethereum, Arbitrum, and Base is common. Temple or Kukai for Tezos if you use fxhash on Tezos. Back up your seed phrase offline. Never share it.
+MetaMask for Ethereum, Arbitrum, and Base is common. Temple or Kukai for Tezos if you use fxhash on Tezos. Back up your seed phrase offline. Never share it.
 2. **Add funds.
 
-**For Art Blocks you need ETH. For fxhash on Tezos you need XTZ. Start small. Mint fees plus gas are separate from the art price.
+For Art Blocks you need ETH. For fxhash on Tezos you need XTZ. Start small. Mint fees plus gas are separate from the art price.
 3. **Evaluate the generator before you mint.**
    * Open the live view or test mints if the project offers them. Generate 20 to 30 outputs locally if the code is available.
    * Read the project description for supply, mint price, and which hash is used.
@@ -128,25 +128,25 @@ fxhash has no curated gate, so curation happened through collecting. Notable exa
    * Secondary: buy on OpenSea for Ethereum projects or on fxhash secondary and Objkt for Tezos. Verify the contract address matches the official site.
 5. **Save and display correctly.
 
-**Save a high-resolution render or print via the live view. Note that the canonical view is what the script produces from the hash, not just a cached PNG.
+Save a high-resolution render or print via the live view. Note that the canonical view is what the script produces from the hash, not just a cached PNG.
 
 ### As an artist
 
 1. **Learn the stack.
 
-**Most generative artists use p5.js or plain JavaScript with canvas. Processing veterans use p5.js for web parity. Keep libraries pinned to specific versions.
+Most generative artists use p5.js or plain JavaScript with canvas. Processing veterans use p5.js for web parity. Keep libraries pinned to specific versions.
 2. **Build for determinism.
 
-**Use the hash provided at mint time as the only source of randomness. Do not use Math.random without seeding from the hash. Art Blocks provides a tokenData field and helpers for this. fxhash provides fxhash and fxrand.
+Use the hash provided at mint time as the only source of randomness. Do not use Math.random without seeding from the hash. Art Blocks provides a tokenData field and helpers for this. fxhash provides fxhash and fxrand.
 3. **Test range, not just favorites.
 
-**Generate at least 200 outputs and sort them into keep, weak, and broken. Adjust parameter probabilities until even lower-tier outputs feel intentional. Fidenza's work on probabilistic palettes and scale mixing is a good model for balancing variety and quality.
+Generate at least 200 outputs and sort them into keep, weak, and broken. Adjust parameter probabilities until even lower-tier outputs feel intentional. Fidenza's work on probabilistic palettes and scale mixing is a good model for balancing variety and quality.
 4. **Decide storage early.
 
-**For durability, store the script on chain and media assets on IPFS or Arweave. If you need fully on-chain visuals, keep the code and assets tiny, as Autoglyphs did.
+For durability, store the script on chain and media assets on IPFS or Arweave. If you need fully on-chain visuals, keep the code and assets tiny, as Autoglyphs did.
 5. **Plan supply and price.
 
-**Supply for Art Blocks Curated often ranges from 200 to 1,000. Open fxhash projects have seen supplies from 64 to 512 for accessible tests and up to 1,000 for larger ideas. Price low for experiments, higher when you can show a strong preview set.
+Supply for Art Blocks Curated often ranges from 200 to 1,000. Open fxhash projects have seen supplies from 64 to 512 for accessible tests and up to 1,000 for larger ideas. Price low for experiments, higher when you can show a strong preview set.
 6. **Apply or publish.**
    * Art Blocks Curated requires an application and review. See artblocks.io and docs.artblocks.io for current requirements.
    * fxhash lets you publish directly after testing. No application needed.
@@ -158,11 +158,11 @@ fxhash has no curated gate, so curation happened through collecting. Notable exa
 * **How is royalty handled.** Check if the marketplace you plan to use respects EIP-2981 for that contract.
 * **Energy use.
 
-**Ethereum switched to proof of stake in September 2022, which the Ethereum Foundation estimates cut energy use by about 99.95 percent. Tezos uses proof of stake with similarly low per-transaction energy. This matters if your team has sustainability reporting.
+Ethereum switched to proof of stake in September 2022, which the Ethereum Foundation estimates cut energy use by about 99.95 percent. Tezos uses proof of stake with similarly low per-transaction energy. This matters if your team has sustainability reporting.
 
 ## Frequently asked questions
 
-**What is generative art in simple terms
+What is generative art in simple terms
 
 **It is art made by a system the artist builds. The artist writes rules and parameters. The system makes each specific image or animation within those rules.** Why use NFTs for generative art
 
@@ -178,5 +178,5 @@ fxhash has no curated gate, so curation happened through collecting. Notable exa
 
 **Collectors often look for three things. First, variety: outputs feel distinct. Second, quality at the low end: even common pieces feel considered. Third, coherence: the whole set reads as one series with a clear visual identity. Fidenza and Ringers are often cited because they score high on all three.** Where do I start with low cost
 
-**Open a Tezos wallet and try fxhash with a few XTZ. Mint fees are low, often under one XTZ for many projects, and you can study how hash-seeded rendering works without a large outlay.** Are generative art NFTs still active**
+**Open a Tezos wallet and try fxhash with a few XTZ. Mint fees are low, often under one XTZ for many projects, and you can study how hash-seeded rendering works without a large outlay.** Are generative art NFTs still active
 Yes. Art Blocks continues to release curated projects, hosts the annual Marfa Weekend gallery in Texas, and documents its protocol publicly. fxhash continues as an open platform on Tezos and EVM chains. Secondary sales for top series like Fidenza, Ringers, and Chromie Squiggle still report daily floor prices on OpenSea and other marketplaces.

@@ -78,3 +78,6 @@ Once the transaction is confirmed, your contract will appear under "Deployed Con
 4. **Read the New Message**: After the transaction confirms, click the `message` button again. You will see the updated value, now reflecting "My first dApp!".
 
 Congratulations on successfully writing, compiling, and deploying your first smart contract to a public [blockchain](/what-is-a-blockchain). This achievement opens the door to exploring more complex contract types and developing frontends that interact with them, advancing your journey as a Web3 developer.
+
+
+```

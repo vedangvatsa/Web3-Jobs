@@ -53,7 +53,7 @@ Naive challenge-response schemes fail in adversarial environments:
 - **Deduplication Attack (Sybil Attack)**: A provider claims to store ten independent backup copies of a client dataset, earning ten times the reward, while actually storing only one physical copy on disk.
 - **Outsourcing Attack**: A provider offloads storage to a centralized cloud provider like [Amazon Web Services S3](https://aws.amazon.com/s3/) and forwards challenges in real-time.
 
-Filecoin resolves these failure modes through two cryptographic primitives: **Proof of Replication (PoRep) ** and ** Proof of Spacetime (PoSt)**.
+Filecoin resolves these failure modes through two cryptographic primitives: **Proof of Replication (PoRep)** and **Proof of Spacetime (PoSt)**.
 
 ```
 +---------------------------------------------------------------------------------+

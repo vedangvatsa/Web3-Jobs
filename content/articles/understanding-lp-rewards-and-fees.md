@@ -50,7 +50,7 @@ For example, if a pool has significant daily trading volume with a certain fee t
 
 ### 2. Yield Farming Rewards (Liquidity Mining)
 
-Trading fees alone often fall short in attracting the liquidity necessary for a protocol's success. To enhance attractiveness, many projects implement **liquidity mining ** or**yield farming** incentives.
+Trading fees alone often fall short in attracting the liquidity necessary for a protocol's success. To enhance attractiveness, many projects implement **liquidity mining** or**yield farming** incentives.
 
 **How it Works**:
 1. A project aims to enhance liquidity for its native token against another asset.

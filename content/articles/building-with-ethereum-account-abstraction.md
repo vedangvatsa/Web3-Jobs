@@ -34,7 +34,7 @@ The ethereum.org account abstraction page, last updated 24 June 2026, notes that
 
 ## Who it is for
 
-**Users who want simpler custody.
+Users who want simpler custody.
 
 **If seed phrases, holding ETH for gas, and separate approve steps create risk, a smart wallet hides those steps. You get one address with rules you can change.** Teams that lose users at wallet creation.
 
@@ -42,7 +42,7 @@ The ethereum.org account abstraction page, last updated 24 June 2026, notes that
 
 **If you need session keys for a game, spending limits for a team vault, or passkey login, you write that policy in the account contract. You do not wrap every action in an EOA transaction.** Security and enterprise teams.
 
-**If you need 2-of-3 approval above a threshold, daily limits, or time-locked recovery, you encode the policy in the account and add guardians. Guardians can be other wallets, hardware devices, or a Safe.
+If you need 2-of-3 approval above a threshold, daily limits, or time-locked recovery, you encode the policy in the account and add guardians. Guardians can be other wallets, hardware devices, or a Safe.
 
 It is less useful if you only send occasional ETH from one EOA and you need the lowest possible gas on mainnet with no offsetting benefit from batching or sponsorship.
 
@@ -88,17 +88,17 @@ struct PackedUserOperation {
 
 - **Aggregator.
 
-**An optional contract that validates an aggregated signature for a batch of UserOperations, for example BLS, to save verification cost.
+An optional contract that validates an aggregated signature for a batch of UserOperations, for example BLS, to save verification cost.
 
 ### The flow
 
 1. **Build.
 
-**You create a UserOperation in your app. For a new wallet you include factory and factoryData. For an EIP-7702 account you include an authorization tuple that points the EOA to a delegation contract. You set nonce, gas limits, and callData. The nonce is a 192-bit key plus a 64-bit sequence, so you can have parallel channels. Key 0 for normal ops and key 1 for admin ops is common.
+You create a UserOperation in your app. For a new wallet you include factory and factoryData. For an EIP-7702 account you include an authorization tuple that points the EOA to a delegation contract. You set nonce, gas limits, and callData. The nonce is a 192-bit key plus a 64-bit sequence, so you can have parallel channels. Key 0 for normal ops and key 1 for admin ops is common.
 
 2. **Sign.
 
-**You sign the UserOperation hash. The hash is an EIP-712 typed hash over the PackedUserOperation fields, the EntryPoint address, and chainId. That ties the signature to one chain and one EntryPoint.
+You sign the UserOperation hash. The hash is an EIP-712 typed hash over the PackedUserOperation fields, the EntryPoint address, and chainId. That ties the signature to one chain and one EntryPoint.
 
 3. **Send.
 
@@ -120,9 +120,9 @@ With EIP-7702 your EOA signs an authorization that sets its code to a delegate f
 
 ## What it enables, with concrete examples
 
-**Batching.
+Batching.
 
-**A DeFi flow that today needs approve then swap then stake can be one UserOperation with three calls. On a Safe or ZeroDev Kernel account the calls array executes atomically. If any call reverts, the whole UserOperation reverts, which simplifies error handling.
+A DeFi flow that today needs approve then swap then stake can be one UserOperation with three calls. On a Safe or ZeroDev Kernel account the calls array executes atomically. If any call reverts, the whole UserOperation reverts, which simplifies error handling.
 
 Example batch with viem and permissionless:
 

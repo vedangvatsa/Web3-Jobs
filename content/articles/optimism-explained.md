@@ -202,31 +202,31 @@ OP does not pay gas. Gas is ETH on OP Mainnet. OP is a governance token and a fu
 **Chain ID 10, currency ETH, RPC https://mainnet.optimism.io, explorer https://explorer.optimism.io. Use the docs for the exact `chainId` and contract addresses. Do not trust random RPCs in search results.
 2. **Bridge ETH to OP Mainnet first.
 
-**Use the official bridge at https://app.optimism.io/bridge/deposit for the canonical path. It locks on L1 and mints on L2. Start with a small test amount and confirm receipt before you move more. Third party bridges and aggregators are faster for returns, but they front funds and add risk.
+Use the official bridge at https://app.optimism.io/bridge/deposit for the canonical path. It locks on L1 and mints on L2. Start with a small test amount and confirm receipt before you move more. Third party bridges and aggregators are faster for returns, but they front funds and add risk.
 3. **Track finality for money moves.
 
-**For a deposit, check L1 inclusion and the L2 epoch. For a withdrawal, check the L2 transaction, the batch posted on L1, the fault game status, and the 7 day clock. Do not treat a sequencer confirmation as settled for a treasury move.
+For a deposit, check L1 inclusion and the L2 epoch. For a withdrawal, check the L2 transaction, the batch posted on L1, the fault game status, and the 7 day clock. Do not treat a sequencer confirmation as settled for a treasury move.
 4. **Watch fees before large transactions.
 
-**Check Ethereum base fee and blob base fee. When mainnet is calm, OP fees drop too. Avoid large calldata transactions during spikes. Remember failed L2 transactions still pay the L1 fee.
+Check Ethereum base fee and blob base fee. When mainnet is calm, OP fees drop too. Avoid large calldata transactions during spikes. Remember failed L2 transactions still pay the L1 fee.
 5. **Use native tooling.
 
-**OP Mainnet uses the same explorers and wallets as Ethereum. Set allowance limits, revoke unused approvals, and keep high value exits on the canonical bridge.
+OP Mainnet uses the same explorers and wallets as Ethereum. Set allowance limits, revoke unused approvals, and keep high value exits on the canonical bridge.
 
 ### If you are a developer
 
 1. **Deploy on OP Sepolia first.
 
-**Use https://console.optimism.io/faucet for test ETH. Deploy with Hardhat, Foundry, or Remix as you would on Ethereum. Verify on the explorer and test the bridge flows in both directions.
+Use https://console.optimism.io/faucet for test ETH. Deploy with Hardhat, Foundry, or Remix as you would on Ethereum. Verify on the explorer and test the bridge flows in both directions.
 2. **Measure fees, not just gas.
 
 **Your 100,000 gas contract costs 100,000 gas on OP Mainnet, but you need to measure the L1 data fee. Use the `GasPriceOracle` at `0x4200...000F` and the L2 fee estimators. Compress input calldata and avoid unneeded bytes. After Isthmus, check operator fee scalar and constant at `0x4200000000000000000000000000000000000015`.
 3. **Handle cross chain timing in code.
 
-**L1 to L2 takes minutes. L2 to L1 via the canonical path takes about a week. Do not assume a synchronous callback. Emit an event on L2, prove it on L1 after finality, then execute on L1. Test message passing with the Standard Bridge examples in the docs.
+L1 to L2 takes minutes. L2 to L1 via the canonical path takes about a week. Do not assume a synchronous callback. Emit an event on L2, prove it on L1 after finality, then execute on L1. Test message passing with the Standard Bridge examples in the docs.
 4. **Plan for sequencer outages.
 
-**Add a path that submits a deposit through L1 if the sequencer does not include a transaction. Test force inclusion on Sepolia with a delayed sequencer scenario. Document it for support.
+Add a path that submits a deposit through L1 if the sequencer does not include a transaction. Test force inclusion on Sepolia with a delayed sequencer scenario. Document it for support.
 5. **Review the chain you depend on.
 
 **Check `superchain-registry`, L2Beat stage, audit history, scalar settings, and whether blobs are enabled and how fallback to calldata works when blob fees spike. Pin to a hardfork version and test upgrades like Ecotone, Fjord, and Isthmus before they activate on mainnet.
@@ -252,7 +252,7 @@ OP does not pay gas. Gas is ETH on OP Mainnet. OP is a governance token and a fu
 * **Contract and circuit bugs.** Fraud proof, derivation, and bridge contracts have had fixes. Review audits, the fault proof specs at specs.optimism.io, and the 3.5 day plus 7 day delays before you treat a large bridge as instant.
 * **Token price volatility.
 
-**Retro Funding and airdrop budgets are denominated in OP. If OP falls, funding buys less. If you build public goods for retro rewards, keep a treasury plan that does not need the award to survive.
+Retro Funding and airdrop budgets are denominated in OP. If OP falls, funding buys less. If you build public goods for retro rewards, keep a treasury plan that does not need the award to survive.
 
 ## FAQ
 

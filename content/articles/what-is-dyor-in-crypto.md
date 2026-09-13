@@ -68,7 +68,7 @@ Conducting effective research requires time and critical analysis.
 
 **Test the project yourself**. If feasible, engage with the project. Create an account, explore features, and experience the user interface firsthand. This approach provides direct knowledge rather than relying on others' opinions.
 
-**Assess community sentiment
+Assess community sentiment
 
 #### . Join Discord channels, browse forums, and read discussions on platforms like Reddit. What are actual users saying? Are they satisfied or dissatisfied? Are they engaging or leaving the project?
 
@@ -76,7 +76,7 @@ Recognize the risks
 
 #### . Every investment carries inherent risks. Projects that fail to acknowledge these are disingenuous. Consider the potential pitfalls: what could go wrong? What factors could lead to failure? What assumptions might not hold true?
 
-Compare alternatives**. Avoid evaluating a project in isolation. Identify competitors and analyze how this project stacks up against them. What aspects are superior, and which are lacking? This context helps determine if the project is genuinely new or simply riding a wave of hype.
+Compare alternatives. Avoid evaluating a project in isolation. Identify competitors and analyze how this project stacks up against them. What aspects are superior, and which are lacking? This context helps determine if the project is genuinely new or simply riding a wave of hype.
 
 ## Why DYOR Matters for Your Career
 

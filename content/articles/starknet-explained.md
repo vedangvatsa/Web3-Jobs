@@ -147,26 +147,28 @@ Scaling numbers that are published and checkable: average cost dominated by L1 d
 
 1. **Add Starknet to a wallet.
 
-**Starknet is not EVM compatible, so use a native wallet for full features like paymasters and session keys. Argent X and Braavos are the two most used. Download from the official sites, not search ads. Save the seed phrase and add a second device or hardware signer if you hold size.
+Starknet is not EVM compatible, so use a native wallet for full features like paymasters and session keys. Argent X and Braavos are the two most used. Download from the official sites, not search ads. Save the seed phrase and add a second device or hardware signer if you hold size.
 2. **Get STRK for gas.
 
-**Since v0.14.0 you need STRK on Starknet to pay fees. You can bridge ETH or stablecoins and swap to STRK on Starknet, or on-ramp directly to Starknet via supported on-ramps listed on starknet.io/bridges-and-onramps. If you need to pay with another token, use a paymaster via AVNU, which sponsors the STRK fee and accepts payment in your token.
+Since v0.14.0 you need STRK on Starknet to pay fees. You can bridge ETH or stablecoins and swap to STRK on Starknet, or on-ramp directly to Starknet via supported on-ramps listed on starknet.io/bridges-and-onramps. If you need to pay with another token, use a paymaster via AVNU, which sponsors the STRK fee and accepts payment in your token.
 3. **Bridge with the canonical bridge.
 
-**StarkGate at starkgate.starknet.io is the canonical bridge for ETH and ERC-20 between Ethereum and Starknet. For large moves start with a small test amount. Third party bridges via Orbiter, Layerswap, or RocketX can route from 180+ chains, but they front funds and add separate risk.
+StarkGate at starkgate.starknet.io is the canonical bridge for ETH and ERC-20 between Ethereum and Starknet. For large moves start with a small test amount. Third party bridges via Orbiter, Layerswap, or RocketX can route from 180+ chains, but they front funds and add separate risk.
 4. **Track finality.
 
-**A fast 0.5 second confirmation is not Ethereum settlement. For treasury moves check StarkScan for block inclusion, then check the L1 Core contract for the verified state update before you consider the transfer final.
+A fast 0.5 second confirmation is not Ethereum settlement. For treasury moves check StarkScan for block inclusion, then check the L1 Core contract for the verified state update before you consider the transfer final.
 5. **Explore cheap but real activity.
 
-**Try a swap on Ekubo or AVNU, a position on Nostra, or a game on Dojo. Confirm fee lines show fractions of a cent to a few cents for simple actions. Use the Starknet status page at status.starknet.io if a transaction stalls.
+Try a swap on Ekubo or AVNU, a position on Nostra, or a game on Dojo. Confirm fee lines show fractions of a cent to a few cents for simple actions. Use the Starknet status page at status.starknet.io if a transaction stalls.
 
 ### If you are a developer
 
 1. **Install the Cairo stack.
 
-**Install Rust via rustup, then Scarb and Starknet Foundry. Check versions at docs.starknet.io and starknet.io/developers/version-releases. The current Cairo is 1.x/2.x series with Sierra in between. Do not start new code on Cairo 0.
-2. **Create and deploy to Sepolia first:**```bash
+Install Rust via rustup, then Scarb and Starknet Foundry. Check versions at docs.starknet.io and starknet.io/developers/version-releases. The current Cairo is 1.x/2.x series with Sierra in between. Do not start new code on Cairo 0.
+2. **Create and deploy to Sepolia first:**
+
+```bash
 # install
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 curl --proto '=https' --tlsv1.2 -sSf https://docs.swmansion.com/scarb/install.sh | sh
@@ -207,7 +209,7 @@ Fund Sepolia accounts via the faucet at starknet.io or the docs faucet page. Ver
 * **Ecosystem size.** TVL around $200 million to $800 million in 2026 snapshots depending on source and day, well below Arbitrum and Base. DeFi depth and bridge liquidity are thinner, so spreads can be wider for niche assets.
 * **Token and inflation dynamics.
 
-**STRK inflation funds staking. If stake ratio falls, rewards per staker rise but total inflation changes. Locked investor and contributor allocations continue vesting through March 2027, which adds supply.
+STRK inflation funds staking. If stake ratio falls, rewards per staker rise but total inflation changes. Locked investor and contributor allocations continue vesting through March 2027, which adds supply.
 
 ## FAQ
 

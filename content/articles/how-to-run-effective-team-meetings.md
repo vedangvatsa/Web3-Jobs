@@ -63,7 +63,7 @@ Your role as the meeting leader is to be an active facilitator. You are the cond
 
 - **Start promptly.
 
-**Do not wait for latecomers. This respects the time of those who were punctual.
+Do not wait for latecomers. This respects the time of those who were punctual.
 - **Reiterate the Purpose:** Begin the meeting by restating the goal from the agenda. "Welcome everyone. The goal of this meeting is to decide on our top three marketing initiatives for Q4."
 
 ### 2. Keep the Conversation on Track

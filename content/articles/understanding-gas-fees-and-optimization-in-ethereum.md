@@ -39,11 +39,11 @@ Two related terms matter:
 
 ## Who this guide is for
 
-**Users who send ETH, swap, bridge, or mint.
+Users who send ETH, swap, bridge, or mint.
 
 **If you have ever seen a wallet estimate of $2 and then $40 during a popular mint, you need to know why fees move and how to time or route transactions to save money.** Solidity and dapp developers.
 
-**Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.** Product and infrastructure teams.** Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
+**Your contract design directly sets gasUsed. Teams hiring for EVM roles screen for gas-aware patterns: minimizing storage writes, using the right data locations, and writing efficient errors and loops. Small choices compound across thousands of calls.** Product and infrastructure teams. Gas dictates UX. If a swap costs $15 on mainnet but $0.05 on a Layer 2, that changes where you deploy, how you batch, and how you sponsor fees.
 
 If you only hold ETH and never transact, you can skip the detail. If you build or transact, you cannot.
 
@@ -92,17 +92,17 @@ Five mechanics define it now:
 
 1. **Base fee is protocol-set and burned.
 
-**Every block has a base fee. Your transaction must cover it to be valid. When the block is built, that base fee is destroyed. It does not go to validators. Burning removes the incentive for validators to manipulate fees and offsets issuance. Trackers such as Etherscan and Ultrasound.money report about 4.6 million ETH burned between August 2021 and early 2026, even as net supply still rose slightly to around 120 to 121 million ETH by April 2026 after issuance to stakers continued.
+Every block has a base fee. Your transaction must cover it to be valid. When the block is built, that base fee is destroyed. It does not go to validators. Burning removes the incentive for validators to manipulate fees and offsets issuance. Trackers such as Etherscan and Ultrasound.money report about 4.6 million ETH burned between August 2021 and early 2026, even as net supply still rose slightly to around 120 to 121 million ETH by April 2026 after issuance to stakers continued.
 
 2. **Base fee moves with demand, capped at 12.5 percent per block.
 
-**The protocol compares gas used in the previous block to the gas target, which is half the gas limit. If the previous block used more than the target, the base fee increases by up to 12.5 percent. If it used less, it decreases by up to 12.5 percent. Blocks can be up to twice the target size, so during a surge the base fee climbs exponentially and then falls when demand eases. This is why ethereum.org describes the base fee as the network trying to keep average block size at the target.
+The protocol compares gas used in the previous block to the gas target, which is half the gas limit. If the previous block used more than the target, the base fee increases by up to 12.5 percent. If it used less, it decreases by up to 12.5 percent. Blocks can be up to twice the target size, so during a surge the base fee climbs exponentially and then falls when demand eases. This is why ethereum.org describes the base fee as the network trying to keep average block size at the target.
 
 3. **Priority fee is a tip validators keep.** Validators receive only `priorityFeePerGas * gasUsed`. A transaction that pays only the base fee is valid but less attractive to include. During calm periods a tip of 1 to 2 gwei is often enough. During a congested mint or crash, users add more to be included sooner. Wallets now suggest this automatically, and you can still set it manually.
 
 4. **maxFeePerGas protects you from overpaying.
 
-**You declare the highest total you accept. If the base fee falls before your transaction is included, you pay the lower effective price and get a refund for the unused allowance. If the base fee exceeds your maxFeePerGas, the transaction waits in the mempool.
+You declare the highest total you accept. If the base fee falls before your transaction is included, you pay the lower effective price and get a refund for the unused allowance. If the base fee exceeds your maxFeePerGas, the transaction waits in the mempool.
 
 5. **Target size is not the limit.** Ethereum can process roughly 15 to 30 simple transfers per second at layer 1. Each block has a target of half the limit. That slack lets the network absorb bursts without immediately rejecting transactions, but sustained demand still pushes the base fee up until some users wait.
 
@@ -135,25 +135,25 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 **Wallets can suggest `maxFeePerGas` and `maxPriorityFeePerGas` from the recent base fee instead of guessing a blind auction bid. Users see a clearer max cost.
 - **DoS resistance.
 
-**Gas metering makes infinite loops economically impossible and prices state access closer to real client work after Berlin fixes.
+Gas metering makes infinite loops economically impossible and prices state access closer to real client work after Berlin fixes.
 - **Burn aligns fee payment with ETH.
 
-**Only ETH pays the base fee, and burning it offsets issuance. Between the Merge in September 2022, which cut daily issuance from about 13,000 ETH to about 1,700 ETH, and steady burn in early 2023, ETH was briefly net deflationary. That effect faded as Layer 2 moved activity off mainnet.
+Only ETH pays the base fee, and burning it offsets issuance. Between the Merge in September 2022, which cut daily issuance from about 13,000 ETH to about 1,700 ETH, and steady burn in early 2023, ETH was briefly net deflationary. That effect faded as Layer 2 moved activity off mainnet.
 - **Layer 1 stays the settlement anchor.
 
-**Expensive mainnet fees fund validator security while high-volume activity moves to cheaper layers that still settle to Ethereum.
+Expensive mainnet fees fund validator security while high-volume activity moves to cheaper layers that still settle to Ethereum.
 
 ### What still hurts
 
 - **Fees still spike.
 
-**When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
+When demand exceeds roughly 15 to 30 transactions per second, the base fee climbs 12.5 percent per block until users pause. A planned NFT drop, a token launch, a large airdrop claim, or a market sell-off can push a plain transfer from $0.50 to $20 or more for hours.
 - **Tip still needed for speed.
 
-**To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
+To be included in the next block during spikes, you add a higher tip. The protocol does not guarantee inclusion time.
 - **Mainnet is costly for small actions.
 
-**Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
+Deployments, frequent writes, and per-user storage are hard to justify on L1. A swap can still cost many dollars when ETH price is high.
 - **Developer cliff.
 
 **Gas optimization helps but adds complexity and audit risk. An incorrect `unchecked` block or a bad packing choice can introduce bugs that cost more than the gas saved.
@@ -164,7 +164,7 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 1. **Prefer a Layer 2 for routine actions.
 
-**Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. Reports from March 2024 showed Optimism median fees falling from about $1.40 to about $0.04, Base from about $1.50 to about $0.03, and Arbitrum and zkSync seeing 50 to 90 percent drops as they adopted blobs. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills.
+Arbitrum, Optimism, Base, and zkSync Era post batches to Ethereum with compressed data and split the L1 cost across many L2 transactions. They are typically 10 to 100 times cheaper than mainnet. After the Dencun upgrade on 13 March 2024 at epoch 269,568, which activated EIP-4844 proto-danksharding, L2 fees fell further. EIP-4844 replaced expensive permanent calldata with temporary blobs that live about 18 days and are not stored forever. Reports from March 2024 showed Optimism median fees falling from about $1.40 to about $0.04, Base from about $1.50 to about $0.03, and Arbitrum and zkSync seeing 50 to 90 percent drops as they adopted blobs. By 2026, many L2 swaps and transfers settle for a few cents, though blobs can still get more expensive if blob space fills.
 
 2. **Time your mainnet transactions.
 
@@ -176,11 +176,11 @@ A simple copy from calldata to memory costs gas that grows with size. For one ad
 
 4. **Batch where possible.
 
-**Some apps let you approve and swap in one transaction, or mint several NFTs with ERC-721A for near the cost of one. Off-chain signatures followed by a single on-chain settlement also cut gas. Check if the dapp supports batch calls or permit signatures that avoid an extra approve transaction.
+Some apps let you approve and swap in one transaction, or mint several NFTs with ERC-721A for near the cost of one. Off-chain signatures followed by a single on-chain settlement also cut gas. Check if the dapp supports batch calls or permit signatures that avoid an extra approve transaction.
 
 5. **Avoid failed transactions.
 
-**Set a safe gasLimit. A simple ETH transfer always needs 21,000. Contract calls vary - use your wallet's estimate plus a margin. Failed or reverted transactions still consume gas for work done.
+Set a safe gasLimit. A simple ETH transfer always needs 21,000. Contract calls vary - use your wallet's estimate plus a margin. Failed or reverted transactions still consume gas for work done.
 
 ### If you are a Solidity developer
 
@@ -221,7 +221,9 @@ struct Good { uint128 a; uint128 c; uint256 b; }
 
 This only helps storage. For memory or calldata variables, use `uint256` - the EVM works natively on 32-byte words, so smaller types there can cost more.
 
-**3. Use calldata for read-only external inputs.**```solidity
+**3. Use calldata for read-only external inputs.**
+
+```solidity
 // Copies bytes into memory
 function processBad(string memory data) external { }
 

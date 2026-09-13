@@ -17,7 +17,7 @@ This is doubly true in [Web3 and DAO teams](/what-is-web3), where contributors m
 
 ## Why Trust Is Harder When You're Remote
 
-**No ambient awareness.
+No ambient awareness.
 
 **In an office, you passively know who's at their desk, who's in a meeting, who looks stressed. Remote work eliminates all of that. Without deliberate effort, teammates become names in a Slack channel.** Timezone gaps create information asymmetry.
 
@@ -25,7 +25,7 @@ This is doubly true in [Web3 and DAO teams](/what-is-web3), where contributors m
 
 **A short reply that's perfectly fine in person - "Noted" - can feel dismissive or passive-aggressive in a DM. Small misunderstandings accumulate and erode trust silently.** Fewer relationship-building moments.
 
-**There's no coffee run, no lunch together, no small talk before a meeting. The informal interactions that build personal connections don't happen by default.
+There's no coffee run, no lunch together, no small talk before a meeting. The informal interactions that build personal connections don't happen by default.
 
 ## Specific Tactics That Actually Work
 
@@ -65,7 +65,7 @@ When you share a decision, explain the reasoning. "We're switching to a biweekly
 
 **Trust in DAOs is earned the same way it's earned everywhere: by showing up and doing good work, repeatedly.** Transparent governance.
 
-**When decisions happen through on-chain voting with public proposals, there's less room for backroom politics. Everyone can see the process. That structural transparency compensates for the lack of personal familiarity.** Start with small commitments.** Smart DAO teams don't hand a new contributor a massive grant on day one. They start with a small bounty. If that goes well, scope increases. Trust is extended gradually based on demonstrated reliability.
+**When decisions happen through on-chain voting with public proposals, there's less room for backroom politics. Everyone can see the process. That structural transparency compensates for the lack of personal familiarity.** Start with small commitments. Smart DAO teams don't hand a new contributor a massive grant on day one. They start with a small bounty. If that goes well, scope increases. Trust is extended gradually based on demonstrated reliability.
 
 ## Trust Is a Practice, Not an Achievement
 

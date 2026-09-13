@@ -41,7 +41,7 @@ Understanding what quantum supremacy does not entail is equally important.
 * **Quantum computers are not superior in all tasks.** Traditional laptops remain far more effective for everyday activities like internet browsing, emailing, or gaming.
 * **Quantum computers are not free from errors.
 
-**Current quantum machines exhibit significant noise and are prone to errors. A substantial portion of ongoing research focuses on developing quantum error correction methods to enhance their reliability.
+Current quantum machines exhibit significant noise and are prone to errors. A substantial portion of ongoing research focuses on developing quantum error correction methods to enhance their reliability.
 
 ### Transitioning from Supremacy to Advantage
 
@@ -89,19 +89,19 @@ Quantum computing can also enhance supply chain management. By analyzing complex
 
 1. **Rushing to Conclusions
 
-**Avoid jumping to conclusions based on initial research. Quantum computing is a complex field, and understanding its nuances takes time.
+Avoid jumping to conclusions based on initial research. Quantum computing is a complex field, and understanding its nuances takes time.
 
 2. **Neglecting Collaboration
 
-**Do not overlook the importance of collaboration. Engaging with peers and experts can provide valuable insights and enhance your learning experience.
+Do not overlook the importance of collaboration. Engaging with peers and experts can provide valuable insights and enhance your learning experience.
 
 3. **Focusing Solely on Theory
 
-**Practical application is important. Strive to engage with real-world examples and projects to solidify your understanding.
+Practical application is important. Strive to engage with real-world examples and projects to solidify your understanding.
 
 4. **Ignoring Emerging Research
 
-**Stay informed about the latest developments in quantum computing. This field evolves rapidly, and keeping up with new research can provide significant advantages.
+Stay informed about the latest developments in quantum computing. This field evolves rapidly, and keeping up with new research can provide significant advantages.
 
 5. **Underestimating the Importance of Error Correction** 
 Recognize that error correction is a vital area of research in quantum computing. Understanding its implications is important for grasping the technology's future potential.

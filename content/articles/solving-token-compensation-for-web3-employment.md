@@ -18,7 +18,7 @@ This article outlines a framework for founders, People Operations leaders, and p
 
 ### The Objective: Long-Term Incentive Alignment
 
-The main objective of a token compensation plan is to achieve **long-term alignment**. Designing a system that motivates core team members to commit to the project over time is essential. This commitment is reinforced through ** vesting schedules**and ** cliffs**.
+The main objective of a token compensation plan is to achieve **long-term alignment**. Designing a system that motivates core team members to commit to the project over time is essential. This commitment is reinforced through **vesting schedules**and **cliffs**.
 
 ### Key Elements of a Token Grant
 
@@ -47,7 +47,9 @@ Consider a senior engineer, Alice, who joins a new [DeFi](/what-is-defi) protoco
 - **Token Grant:** 1,000,000 project tokens (valued at a certain amount each, totaling a significant value).
 - **Vesting Schedule:** 4 years with a 1-year cliff.
 
-**Vesting Breakdown:**| Timeline | Tokens Vested | Total Tokens Owned |
+**Vesting Breakdown:**
+
+| Timeline | Tokens Vested | Total Tokens Owned |
 | --- | --- | --- |
 | Day 1 to Day 364 | 0 tokens | 0 tokens |
 | Day 365 | 250,000 tokens | 250,000 tokens |

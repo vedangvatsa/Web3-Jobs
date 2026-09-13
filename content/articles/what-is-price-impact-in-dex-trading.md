@@ -35,9 +35,9 @@ To fully grasp price impact, one must understand how AMMs function, particularly
 - The formula dictates that the product of the quantities of these tokens remains constant, excluding fees.
 - The price of a token emerges from the ratio of the reserves.
 
-**Example of Trade Impact
+Example of Trade Impact
 
-**Consider a pool containing 10 ETH and a significant amount of USDC.
+Consider a pool containing 10 ETH and a significant amount of USDC.
 
 - Current price of ETH = significant amount of USDC / 10.
 

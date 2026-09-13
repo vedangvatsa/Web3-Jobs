@@ -326,12 +326,12 @@ A: Several Austin Web3 companies sponsor H-1B visas, though competition is incre
 
 A: The primary demand is for Solidity in smart contract development, along with Rust, Go, TypeScript/JavaScript for backend development, React for frontend work, and Python for research and analysis. If you specialize in one area, consider broadening your skills to include others.
 
-**Q: How does Austin compare to other Web3 hubs?**| City | Comparison Highlights |
-| --- | --- |
-| **San Francisco** | Lower cost of living, easier networking, less saturation, more libertarian culture. |
-| **New York** | Similar crypto engagement, but Texas culture is distinct; less finance-focused and more crypto-native. |
-| **Miami** | Austin offers greater technical depth and infrastructure jobs. |
-| **Singapore** | Different regulatory environment; Austin is more libertarian and less focused on fintech. |
+| **Q: How does Austin compare to other Web3 hubs?** | City | Comparison Highlights |
+| --- | --- | --- |
+| **San Francisco** | Lower cost of living, easier networking, less saturation, more libertarian culture. |  |
+| **New York** | Similar crypto engagement, but Texas culture is distinct; less finance-focused and more crypto-native. |  |
+| **Miami** | Austin offers greater technical depth and infrastructure jobs. |  |
+| **Singapore** | Different regulatory environment; Austin is more libertarian and less focused on fintech. |  |
 #### Q: Is crypto really accepted in Austin?
 
 A: Yes, the crypto community is active here. The mayor supports cryptocurrency initiatives, and the tech community widely adopt it.

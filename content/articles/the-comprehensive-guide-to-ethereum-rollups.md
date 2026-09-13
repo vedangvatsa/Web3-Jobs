@@ -56,7 +56,7 @@ When an Optimistic Rollup sequencer submits a batch of transactions to Layer 1, 
 
 ## ZK-Rollups: The Mathematical Proof Model
 
-Zero-Knowledge (ZK) Rollups, such as **zkSync**,** StarkNet**, and
+Zero-Knowledge (ZK) Rollups, such as **zkSync**,**StarkNet**, and
 
 **Polygon zkEVM**, adopt the opposite approach. They operate under a model of "guilty until proven innocent," requiring every batch of transactions to be supported by a cryptographic proof of its validity.
 

@@ -16,11 +16,11 @@ Unlike chains that trade speed for cost, Solana tries to keep both low at the sa
 
 ## Who Solana is for
 
-**Traders and payments teams.
+Traders and payments teams.
 
 **If your product needs real-time settlement or frequent small transfers, Solana's sub-second processing and fees measured in fractions of a cent matter. Decentralized exchanges, cross-border payments, and merchant checkout are common examples. Visa now settles USDC on Solana, and Solana Pay is built for point-of-sale use.** Developers who hit limits on other Layer 1s.
 
-**Solana runs a different execution model. If you need parallel processing or want to write programs in Rust rather than Solidity, you get a distinct set of trade-offs. You will not get EVM compatibility by default, so you are choosing a separate ecosystem.** Users who want low fees for NFTs, gaming, and daily use.** Minting, trading, and in-game actions cost cents, not dollars. That lowers the barrier for first-time Web3 users, but it assumes you are comfortable with a newer wallet flow and non-reversible transactions.
+**Solana runs a different execution model. If you need parallel processing or want to write programs in Rust rather than Solidity, you get a distinct set of trade-offs. You will not get EVM compatibility by default, so you are choosing a separate ecosystem.** Users who want low fees for NFTs, gaming, and daily use. Minting, trading, and in-game actions cost cents, not dollars. That lowers the barrier for first-time Web3 users, but it assumes you are comfortable with a newer wallet flow and non-reversible transactions.
 
 Solana is not a fit if you need the most decentralized validator set with minimal hardware, or if you need EVM tooling without changes. Ethereum and its Layer 2s still have broader client diversity and older tooling.
 
@@ -104,29 +104,29 @@ Theoretical throughput is up to 65,000 transactions per second, a figure from So
 
 * **Fee model complexity.
 
-**Prioritization fees are not always intuitive. Setting a compute unit price too low can delay landing during contested writes, while setting the limit too high charges for unused compute.
+Prioritization fees are not always intuitive. Setting a compute unit price too low can delay landing during contested writes, while setting the limit too high charges for unused compute.
 
 ## How to get started with Solana
 
 1. **Install a wallet.
 
-**Phantom and Solflare are common choices. Write down the seed phrase offline. Test with a small amount before moving larger sums.
+Phantom and Solflare are common choices. Write down the seed phrase offline. Test with a small amount before moving larger sums.
 
 2. **Get a little SOL.
 
-**You need SOL for fees, even when you send USDC or other SPL tokens. Less than one dollar covers hundreds of base-fee transactions. Acquire SOL on an exchange and send it to your wallet address, and double-check the address before confirming.
+You need SOL for fees, even when you send USDC or other SPL tokens. Less than one dollar covers hundreds of base-fee transactions. Acquire SOL on an exchange and send it to your wallet address, and double-check the address before confirming.
 
 3. **Try a simple transaction.
 
-**Send a small amount to a second address you control or to a friend. Watch the confirmation on an explorer such as Solana Explorer or Solscan. Note the fee breakdown between base and priority.
+Send a small amount to a second address you control or to a friend. Watch the confirmation on an explorer such as Solana Explorer or Solscan. Note the fee breakdown between base and priority.
 
 4. **Stake if you want to help secure the network.
 
-**You can stake from most wallets to a validator. Compare commission, uptime, and stake concentration. Rewards vary with network conditions and validator performance. Unstaking has a cooldown tied to epochs, which last about two days.
+You can stake from most wallets to a validator. Compare commission, uptime, and stake concentration. Rewards vary with network conditions and validator performance. Unstaking has a cooldown tied to epochs, which last about two days.
 
 5. **Build if you are a developer.
 
-**Install Rust, the Solana CLI, Solana Tool Suite, and Anchor via AVM. Start with the quickstart at solana.com/docs/intro and then work through an Anchor counter or token program. Use devnet first. Fund devnet with airdropped SOL and test before using real funds.
+Install Rust, the Solana CLI, Solana Tool Suite, and Anchor via AVM. Start with the quickstart at solana.com/docs/intro and then work through an Anchor counter or token program. Use devnet first. Fund devnet with airdropped SOL and test before using real funds.
 
 ## FAQ
 

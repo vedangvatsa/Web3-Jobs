@@ -48,7 +48,9 @@ The choice of data types in Solidity can significantly influence gas costs due t
 
 - **The Rule:** When using multiple `uint` variables in a `struct` or as contiguous state variables, prefer smaller types like `uint128` or `uint64` if the values are within their limits. The EVM can pack these smaller variables into a single 32-byte storage slot, which reduces gas usage.
 
-**Example:**```solidity
+**Example:**
+
+```solidity
 // Inefficient: Uses two 32-byte slots
 struct BadStruct {
  uint256 a; // Slot 1
@@ -84,7 +86,9 @@ Custom errors, introduced in Solidity 0.8.4, provide a more gas-efficient method
 - **The Problem:** The `require(condition, "Error string")` syntax stores the error string on-chain, which incurs gas costs.
 - **The Solution:** Define a custom error and use it in your `require` statement. This approach avoids storing string data, resulting in considerable gas savings.
 
-**Example:**```solidity
+**Example:**
+
+```solidity
 // Inefficient
 require(msg.sender == owner, "Caller is not the owner");
 
@@ -110,3 +114,6 @@ for (uint256 i = 0; i < length; i++) {
 ```**Warning:** Use this feature cautiously, ensuring that you are certain the arithmetic is safe. An unexpected overflow can create serious security vulnerabilities.
 
 Gas optimization is a complex subject. However, by applying these fundamental techniques, developers can achieve substantial savings. It requires a thorough understanding of how the EVM operates, as well as a focus on both functionality and gas efficiency.
+
+
+```

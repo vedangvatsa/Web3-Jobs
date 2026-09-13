@@ -67,7 +67,7 @@ The most promising opportunities for Zimbabwean professionals lie in remote posi
 | --- | --- |
 | Rent (nice apartment) | Competitive |
 | Food & Living | Competitive |
-| **Total Expenses** |
+| **Total Expenses** |  |
 
 **Competitive**|
 | **Savings Rate** |

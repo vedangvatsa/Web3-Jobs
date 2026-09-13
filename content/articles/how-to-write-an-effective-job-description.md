@@ -173,17 +173,17 @@ How to apply: Share resume, GitHub, contract addresses, and one paragraph on a v
 
 - **Inflating requirements.
 
-**Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
+Listing every tool you might use turns a mid-level role into an unfilled senior search. Move anything learnable to preferred.
 - **Hiding pay.
 
-**Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
+Omitting the range cuts applications and creates legal exposure in the 16 jurisdictions that now require it. It also lowers negotiation confidence for 74 percent of workers per the 2026 Resume Genius survey cited above.
 - **Writing long blocks of text.
 
-**Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
+Dense paragraphs hide the outcome the candidate cares about. Break into bullets and keep sentences short. Textio finds that shorter sentences and bullet ratios near one-third of the post improve completion.
 - **Clever titles.**"Crypto Ninja" may feel on brand but it is not searchable. Index.dev and Knowledgelib both flag discoverability losses above 50 percent.
 - **Copying another team's post.
 
-**A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
+A vault engineer and a protocol engineer are different risk profiles. Tailor the language and the proof you request.
 
 ## Limitations and trade-offs
 

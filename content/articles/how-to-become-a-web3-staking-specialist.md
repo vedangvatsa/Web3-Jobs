@@ -153,11 +153,11 @@ See also: [Mastering Web3 essential skills](/mastering-web3-essential-skills) an
 
 ## FAQ
 
-**Do I need 32 ETH to work in staking
+Do I need 32 ETH to work in staking
 
 **No. You need 32 ETH to activate a full Ethereum validator under your own keys, and that validator can now hold up to 2,048 ETH. You can still work in staking without that capital by running on Hoodi with test ETH, by operating a bonded minipool on Rocket Pool with about 4 ETH, or by building on pooled and liquid protocols that accept as little as 0.01 ETH per user.** Is Holesky still the right testnet for validator practice
 
-**No. Holesky is deprecated and no longer supported by client teams. Use Hoodi for validator and staking provider work and Sepolia for application testing. Check the Ethereum Foundation blog post from March 18, 2025 and the September 1, 2025 shutdown notice for the timeline and purpose of each testnet.** What is the difference between stETH, wstETH, and rETH**stETH from Lido is rebasing, your balance grows daily and 1 stETH aims to equal 1 ETH plus rewards. wstETH is the wrapped, non-rebasing version where your balance stays fixed and the redemption value rises. rETH from Rocket Pool is also non-rebasing and works by exchange-rate appreciation. DeFi apps often prefer wstETH or rETH because balances do not change unexpectedly.
+**No. Holesky is deprecated and no longer supported by client teams. Use Hoodi for validator and staking provider work and Sepolia for application testing. Check the Ethereum Foundation blog post from March 18, 2025 and the September 1, 2025 shutdown notice for the timeline and purpose of each testnet.** What is the difference between stETH, wstETH, and rETHstETH from Lido is rebasing, your balance grows daily and 1 stETH aims to equal 1 ETH plus rewards. wstETH is the wrapped, non-rebasing version where your balance stays fixed and the redemption value rises. rETH from Rocket Pool is also non-rebasing and works by exchange-rate appreciation. DeFi apps often prefer wstETH or rETH because balances do not change unexpectedly.
 
 **What causes slashing, and how common is it** On Ethereum, provable double proposal or double attestation triggers slashing. On Cosmos SDK chains, double-sign and extended downtime trigger slashing and jailing. Well-run operators see zero slashing for long periods because the causes are preventable with key isolation, single active signer guarantees, and upgrade discipline. Correlation penalties mean that when many validators are slashed together, each loses more, so client diversity matters.
 

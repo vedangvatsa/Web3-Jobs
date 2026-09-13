@@ -110,7 +110,7 @@ Projects are testing NFTs that represent property titles, club shares, or serial
 
 - **Verifiable ownership and provenance.
 
-**Anyone can confirm who minted the token, who owned it, and when it moved, without asking a company to share a private database.
+Anyone can confirm who minted the token, who owned it, and when it moved, without asking a company to share a private database.
 - **User custody.
 
 **The holder controls the token in a non-custodial [wallet](/how-to-choose-a-crypto-wallet) and can sell it on any compatible marketplace, not only the issuer's site.
@@ -119,7 +119,7 @@ Projects are testing NFTs that represent property titles, club shares, or serial
 **EIP-2981 defines `royaltyInfo(uint256 _tokenId, uint256 _salePrice)` to return a recipient and amount. Any marketplace can query it. It is a simple building block, not enforcement. See [eips.ethereum.org/EIPS/eip-2981](https://eips.ethereum.org/EIPS/eip-2981).
 - **Composability.
 
-**Because NFTs use open standards, other apps can build on them. An NFT from one project can be read by wallets, explorers, and DeFi protocols without custom deals.
+Because NFTs use open standards, other apps can build on them. An NFT from one project can be read by wallets, explorers, and DeFi protocols without custom deals.
 
 ### What to watch out for
 
@@ -128,22 +128,22 @@ Projects are testing NFTs that represent property titles, club shares, or serial
 **EIP-2981 signals what the creator asks for, but the core ERC-721 `transferFrom` cannot force a payment during a sale. Marketplaces decide. In 2022 to 2023, competing marketplaces such as X2Y2, SudoSwap, and Blur made royalties optional or as low as 0.5 percent to attract traders. OpenSea announced on August 17, 2023 that it would retire its Operator Filter enforcement tool and make creator fees optional for new collections starting August 31, 2023, keeping enforcement only for some existing collections through February 29, 2024. Creator royalty income fell across the market as a result.
 - **Links can break.
 
-**If the image is on a single server or unpinned IPFS node, the token may survive while the media disappears. Check storage method before you buy.
+If the image is on a single server or unpinned IPFS node, the token may survive while the media disappears. Check storage method before you buy.
 - **Copyright stays with the creator by default.
 
-**Buying an NFT usually gives you the token and a license to display the art for personal use, not the copyright. The artist retains reproduction and commercial rights unless a written license transfers them. Some projects grant commercial rights up to a cap, such as the early CryptoKitties license, but this is project-specific and must be in the terms.
+Buying an NFT usually gives you the token and a license to display the art for personal use, not the copyright. The artist retains reproduction and commercial rights unless a written license transfers them. Some projects grant commercial rights up to a cap, such as the early CryptoKitties license, but this is project-specific and must be in the terms.
 - **UX and custody risk.
 
-**You manage seed phrases, private keys, gas fees, and contract approvals. A wrong approval can let a malicious contract move your assets. There is no password reset.
+You manage seed phrases, private keys, gas fees, and contract approvals. A wrong approval can let a malicious contract move your assets. There is no password reset.
 - **Market volatility and quality.
 
-**The 2021 to 2022 boom filled marketplaces with low effort collections. Many now have near zero liquidity. Past sale price does not predict future demand.
+The 2021 to 2022 boom filled marketplaces with low effort collections. Many now have near zero liquidity. Past sale price does not predict future demand.
 - **Energy use changed with Ethereum.
 
 **Ethereum switched from proof of work to proof of stake on September 15, 2022 in an event called The Merge. According to [ethereum.org/roadmap/merge](https://ethereum.org/roadmap/merge), energy use fell by about 99.95 percent. Minting on Ethereum today is not comparable to pre-Merge mining. Other chains such as Tezos, Flow, and Solana also used low-energy consensus before and after The Merge.
 - **Legal gaps.
 
-**Tax, securities, and consumer protection rules for NFTs vary by country and are still evolving.
+Tax, securities, and consumer protection rules for NFTs vary by country and are still evolving.
 
 ## How to use, buy, create, and stay safe
 
@@ -161,19 +161,19 @@ Use a non-custodial wallet such as MetaMask, Rabby, or Phantom. Write down the s
 **Look at the tokenURI and image link. An `ipfs://` URI with a CID that resolves on multiple gateways is more durable than a single-domain `https://` link.
 3. **Review rights.
 
-**Read the license in the project docs. Does ownership give you personal display only, commercial use to a limit, or full transfer of copyright? If nothing is stated, assume no rights transfer.
+Read the license in the project docs. Does ownership give you personal display only, commercial use to a limit, or full transfer of copyright? If nothing is stated, assume no rights transfer.
 4. **Compare across marketplaces.
 
-**OpenSea, Blur, and Magic Eden show different liquidity and fees. Historical volume leaders change. Check that the listing is on a marketplace that respects creator royalties if that matters to you or the creator.
+OpenSea, Blur, and Magic Eden show different liquidity and fees. Historical volume leaders change. Check that the listing is on a marketplace that respects creator royalties if that matters to you or the creator.
 5. **Check approvals.
 
-**After buying, revoke unnecessary operator approvals in your wallet or on a tool like revoke.cash.
+After buying, revoke unnecessary operator approvals in your wallet or on a tool like revoke.cash.
 
 ### Creating checklist
 
 1. **Choose the standard.
 
-**Use ERC-721 for one-of-one art where each piece should be distinct. Use ERC-1155 if you need editions, batches, or fungible elements such as game currency in the same contract.
+Use ERC-721 for one-of-one art where each piece should be distinct. Use ERC-1155 if you need editions, batches, or fungible elements such as game currency in the same contract.
 2. **Prepare metadata correctly.
 
 **Generate images, upload them to IPFS, get the CID, insert `ipfs://CID` into the JSON, then upload the JSON and record its CID as the tokenURI. Validate JSON syntax and that the image resolves.
@@ -182,10 +182,10 @@ Use a non-custodial wallet such as MetaMask, Rabby, or Phantom. Write down the s
 **Add `royaltyInfo` to your contract and register the interface ID `0x2a55205a`. Understand that this is a request, not enforcement, and that marketplaces may ignore it.
 4. **Plan pinning and longevity.
 
-**Decide who pins the data and for how long. If you use a pinning service, keep at least one backup pin or your own node.
+Decide who pins the data and for how long. If you use a pinning service, keep at least one backup pin or your own node.
 5. **Test on testnet.
 
-**Mint, view in a wallet, list, and transfer on a test network before mainnet. This catches URI errors without wasting gas.
+Mint, view in a wallet, list, and transfer on a test network before mainnet. This catches URI errors without wasting gas.
 
 ### Red flags to avoid
 

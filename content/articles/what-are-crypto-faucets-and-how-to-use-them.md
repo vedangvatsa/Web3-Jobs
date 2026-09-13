@@ -40,7 +40,7 @@ Understanding the distinction between early consumer faucets and modern enterpri
 └──────────────────────────────────────┴─────────────────────────────────┘
 ```
 
-### 1. The Early Consumer Era (2010 – 2014)
+### 1. The Early Consumer Era (2010 - 2014)
 
 When Bitcoin mainnet was launched, acquiring BTC was technically challenging. Cryptocurrency exchanges were non-existent or illiquid. Faucets served as primary distribution channels to bootstrap wallet adoption. Gavin Andresen's faucet distributed over 19,500 BTC over its operational lifespan. As asset prices appreciated, retail mainnet faucets transitioned into ad-driven micro-earning sites before disappearing due to fraud and unviable economics.
 
@@ -124,9 +124,9 @@ By leveraging testnet faucets, engineering teams run continuous integration (CI)
 
 The management, scaling, and protection of testnet infrastructure, RPC endpoints, and developer tooling represent key business operations for Web3 infrastructure companies:
 
-- **Developer Infrastructure Engineer:** Building high-throughput RPC relayers, node clusters, and automated faucet distribution tools at companies like [Alchemy](https://www.alchemy.com/), Infura (Consensys), and QuickNode ($140,000 – $240,000).
-- **Developer Relations (DevRel) Engineer:** Creating developer tutorials, SDKs, and managing testnet developer onboarding pipelines ($120,000 – $210,000).
-- **Protocol Quality Assurance Lead:** Managing staging testnet deployments and simulating network stress tests for L1/L2 protocol teams ($130,000 – $220,000).
+- **Developer Infrastructure Engineer:** Building high-throughput RPC relayers, node clusters, and automated faucet distribution tools at companies like [Alchemy](https://www.alchemy.com/), Infura (Consensys), and QuickNode ($140,000 - $240,000).
+- **Developer Relations (DevRel) Engineer:** Creating developer tutorials, SDKs, and managing testnet developer onboarding pipelines ($120,000 - $210,000).
+- **Protocol Quality Assurance Lead:** Managing staging testnet deployments and simulating network stress tests for L1/L2 protocol teams ($130,000 - $220,000).
 
 ## Explore Web3 Infrastructure Careers
 

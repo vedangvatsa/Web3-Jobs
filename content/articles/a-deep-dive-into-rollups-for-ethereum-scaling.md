@@ -108,7 +108,7 @@ Both systems share a property: the L1 verifier can confirm correctness without r
 * **Starknet by StarkWare.** Uses Cairo VM and STARKs. Version 0.13.1 switched to blobs for state diffs, 0.13.3 added stateless compression with a lookup table, and 0.13.4 added stateful compression that indexes repeated contract addresses and storage keys. Uses SHARP aggregation.
 * **Polygon zkEVM, Scroll, Linea, Taiko.
 
-**Each offers a different point on the zkEVM spectrum. Polygon zkEVM, Scroll, and Linea aim for EVM equivalence or close to it. Taiko positions as a Type 1 zkEVM that aims to match Ethereum's execution exactly. All verify validity proofs on Ethereum before accepting state.
+Each offers a different point on the zkEVM spectrum. Polygon zkEVM, Scroll, and Linea aim for EVM equivalence or close to it. Taiko positions as a Type 1 zkEVM that aims to match Ethereum's execution exactly. All verify validity proofs on Ethereum before accepting state.
 
 ### The zkEVM challenge
 
@@ -129,7 +129,7 @@ Proving simple transfers is straightforward. Proving arbitrary EVM execution is 
 
 ## Trade-offs you should weigh before you choose
 
-**Fees.
+Fees.
 
 **On Ethereum's scaling page, rollups are described as roughly 5 to 20 times cheaper than L1 today, with ZK designs aiming for 40 to 100 times cheaper as compression improves and blob space grows. Your actual fee includes three parts: the L1 data cost (blob or calldata), the rollup execution fee, and for ZK the cost to generate and verify the proof spread across the batch. Large batches amortize cost, but posting small batches often can raise your cost.** Finality for your use case.
 
@@ -139,7 +139,7 @@ Proving simple transfers is straightforward. Proving arbitrary EVM execution is 
 
 **Running a ZK prover requires high spec machines. That tends to centralize proving today. Optimistic proving is lighter, any full node can challenge with ordinary hardware. Both types still commonly run a centralized sequencer that orders transactions and can earn ordering value. Etherscan and L2Beat track which rollups have open sequencer or prover sets and which still use a permissioned allowlist or a security council that can pause or override.** Censorship and liveness.
 
-**A sequencer can delay or reorder your transaction until you use force inclusion through L1. That delay costs you time, not safety, because you can still force an exit using the data on L1. If a ZK operator stalls, you can also force an exit if the rollup contract allows it. Check whether your chosen rollup has escape hatches enabled and how long they take.
+A sequencer can delay or reorder your transaction until you use force inclusion through L1. That delay costs you time, not safety, because you can still force an exit using the data on L1. If a ZK operator stalls, you can also force an exit if the rollup contract allows it. Check whether your chosen rollup has escape hatches enabled and how long they take.
 
 ## How to get started
 
@@ -150,34 +150,34 @@ Proving simple transfers is straightforward. Proving arbitrary EVM execution is 
 **Use [L2Beat](https://l2beat.com) and the project's docs. For general DeFi and NFTs, Arbitrum One, OP Mainnet, or Base are common. For apps that prize fast canonical withdrawals, look at zkSync Era or Starknet.
 2. **Add the network to your wallet.
 
-**All of these rollups use Ethereum addresses. Add the RPC from the official docs or via chainlist. Fund it with a bridge. The canonical bridge is the safest but respects the withdrawal delay. For the first deposit, start with a small amount.
+All of these rollups use Ethereum addresses. Add the RPC from the official docs or via chainlist. Fund it with a bridge. The canonical bridge is the safest but respects the withdrawal delay. For the first deposit, start with a small amount.
 3. **Track finality.
 
-**A fast confirmation from the sequencer is not L1 finality. If you plan to bridge back to L1 soon, check the rollup explorer for batch posting status. For optimistic you will see the 7 day window, for ZK you will see when the validity proof is verified.
+A fast confirmation from the sequencer is not L1 finality. If you plan to bridge back to L1 soon, check the rollup explorer for batch posting status. For optimistic you will see the 7 day window, for ZK you will see when the validity proof is verified.
 4. **Choose your bridge deliberately.
 
-**Canonical bridges are secured by the rollup's Ethereum contracts. Third party bridges and aggregators are faster for optimistic withdrawals but add fees and separate risk. Do not put more through them than you can afford to wait on if they pause.
+Canonical bridges are secured by the rollup's Ethereum contracts. Third party bridges and aggregators are faster for optimistic withdrawals but add fees and separate risk. Do not put more through them than you can afford to wait on if they pause.
 5. **Watch blob fees.
 
-**After Dencun, blob base fees are the key cost lever. Explorers show pending blobs per block. High demand can raise blob fees, and Starknet notes it can fall back to calldata when blobs are expensive.
+After Dencun, blob base fees are the key cost lever. Explorers show pending blobs per block. High demand can raise blob fees, and Starknet notes it can fall back to calldata when blobs are expensive.
 
 ### If you are a developer
 
 1. **Deploy as you would on Ethereum where equivalence is high.
 
-**On Arbitrum and OP Stack you can usually deploy compiled Solidity with Hardhat or Foundry unchanged. Test gas and calldata use specifically. The rollup charges an L1 data fee that reflects what you publish.
+On Arbitrum and OP Stack you can usually deploy compiled Solidity with Hardhat or Foundry unchanged. Test gas and calldata use specifically. The rollup charges an L1 data fee that reflects what you publish.
 2. **Adapt for ZK constraints.
 
-**On zkSync Era, Starknet, Scroll, or Linea, run the project's compiler and test suite. On Starknet you write in Cairo. On zkSync you use its zksolc path. Measure proof-related limits like maximum batch size and pubdata overhead per blob.
+On zkSync Era, Starknet, Scroll, or Linea, run the project's compiler and test suite. On Starknet you write in Cairo. On zkSync you use its zksolc path. Measure proof-related limits like maximum batch size and pubdata overhead per blob.
 3. **Handle cross chain timing.
 
-**L1 to L2 messages take minutes. L2 to L1 messages from optimistic rollups take about a week via the canonical path. Do not build logic that assumes a synchronous call back.
+L1 to L2 messages take minutes. L2 to L1 messages from optimistic rollups take about a week via the canonical path. Do not build logic that assumes a synchronous call back.
 4. **Plan for sequencer downtime.
 
-**Add a UI path that submits through L1 if the sequencer does not include a transaction. Test force inclusion on testnet so support can guide users.
+Add a UI path that submits through L1 if the sequencer does not include a transaction. Test force inclusion on testnet so support can guide users.
 5. **Audit bridge assumptions.
 
-**Keep custody logic on Ethereum. Use the rollup's official bridge contracts for high value exits. If you use a liquidity provider, bound your exposure.
+Keep custody logic on Ethereum. Use the rollup's official bridge contracts for high value exits. If you use a liquidity provider, bound your exposure.
 
 ## Rollup risks and where decentralization is still in progress
 

@@ -134,23 +134,23 @@ Provide clear contact details in the header so the manager does not search for t
 
 - **Sending a template with only the company name changed.
 
-**Managers see the lack of specifics and move on. FindWeb3 and CryptoJobsList both flag this as the top reason for rejection.
+Managers see the lack of specifics and move on. FindWeb3 and CryptoJobsList both flag this as the top reason for rejection.
 - **Listing duties without results.**"Responsible for social media" says little. "Grew Telegram from 800 to 3,200 members in three months by hosting weekly AMAs [link]" is verifiable.
 - **Overloading with jargon.
 
-**Non-technical recruiters often screen first. Explain the impact in plain terms and link to the technical detail.
+Non-technical recruiters often screen first. Explain the impact in plain terms and link to the technical detail.
 - **Making it about you only.
 
-**The letter must answer what you can do for their current goals. Tie each example to their posting.
+The letter must answer what you can do for their current goals. Tie each example to their posting.
 - **Negativity about past employers.
 
-**Even if a project failed, describe what you learned and shipped: "After a startup did not find fit, I learned to ship faster feedback loops and documented the process [link]."
+Even if a project failed, describe what you learned and shipped: "After a startup did not find fit, I learned to ship faster feedback loops and documented the process [link]."
 - **Inaccurate or unverifiable numbers.
 
-**Do not invent metrics. You will be asked about them, and the blockchain leaves a trail.
+Do not invent metrics. You will be asked about them, and the blockchain leaves a trail.
 - **Unedited AI drafts.
 
-**Recruiters report that generic AI phrasing is easy to spot and signals low effort. Use your own voice and keep sentences direct.
+Recruiters report that generic AI phrasing is easy to spot and signals low effort. Use your own voice and keep sentences direct.
 
 ## Web3 proof-of-work checklist to link from your letter
 

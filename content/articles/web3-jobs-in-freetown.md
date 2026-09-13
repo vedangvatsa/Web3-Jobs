@@ -77,7 +77,7 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 | --- | --- |
 | Rent (nice area) | Competitive |
 | Living Expenses | Competitive |
-| **Total Monthly Expenses** |
+| **Total Monthly Expenses** |  |
 
 **Competitive**|
 | **Potential Savings** |
@@ -139,7 +139,7 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 ### Challenges and Strategies
 
-**Challenge: Uncertain Project Timelines
+Challenge: Uncertain Project Timelines
 
 **The national ID project may face long-term delays. Build a diverse skill set and develop consulting capabilities.** Challenge: Security Expertise Requirement
 
@@ -149,7 +149,7 @@ Freetown's job market is specialized, concentrating on roles tied to the nationa
 
 **Few local developers possess relevant skills, leading to less competition. Position yourself as an expert for greater visibility.** Challenge: Language Proficiency
 
-**Effective communication in English is essential for GovTech projects. Improve your professional English and practice technical writing.
+Effective communication in English is essential for GovTech projects. Improve your professional English and practice technical writing.
 
 ### 90-Day Action Plan
 

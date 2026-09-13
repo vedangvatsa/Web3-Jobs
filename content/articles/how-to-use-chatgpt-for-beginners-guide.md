@@ -21,9 +21,9 @@ It's not thinking or understanding in the way a human does. Instead, it's a mast
 
 Using ChatGPT is as simple as having a text conversation. When you open it up, you'll see a text box waiting for your input. This is where you'll type your prompt. A prompt is simply the instruction or question you give to the model.
 
-**Let's try a simple one.
+Let's try a simple one.
 
-**Type this into the chat box and press enter.
+Type this into the chat box and press enter.
 `"Explain the concept of supply and demand in simple terms."`
 
 In a few seconds, ChatGPT will generate a response. It will likely start by defining supply and demand, explaining how they interact, and giving you a simple example, like the price of apples at a farmer's market.
@@ -111,7 +111,7 @@ While powerful, ChatGPT isn't perfect. It's important to be aware of its limitat
 * **It Can Have Biases** Since it was trained on text from the internet, it can reflect the biases present in that data. Be mindful of this when asking for opinions or generating content on sensitive topics.
 * **Don't Share Sensitive Information
 
-**Treat it like a public forum. Do not paste private or confidential information into ChatGPT, as your conversations can be used for further training.
+Treat it like a public forum. Do not paste private or confidential information into ChatGPT, as your conversations can be used for further training.
 
 Learning to use ChatGPT effectively is a skill that will become increasingly valuable. By starting with clear, specific prompts and learning to iterate on its responses, you can turn it into a powerful assistant for a wide range of tasks.
 

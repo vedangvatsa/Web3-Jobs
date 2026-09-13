@@ -20,7 +20,7 @@ Web3 principles and technologies provide a framework to develop more responsible
 
 The vast majority of advanced AI systems are under the control of large technology corporations. This concentration of power raises several issues.
 
-**Opacity and Lack of Accountability
+Opacity and Lack of Accountability
 
 **The inner workings of systems like YouTube's recommendation algorithm and Meta's content moderation are opaque. Users and researchers cannot audit these algorithms, making it impossible to verify companies' claims of responsibility.** Data Privacy Concerns
 
@@ -32,11 +32,11 @@ The vast majority of advanced AI systems are under the control of large technolo
 
 **A handful of companies exert control over most advanced AI technology. This concentration allows them to dictate the information people see, the jobs for which they are considered, and the loans they receive, raising ethical concerns.** Lack of User Control
 
-**Users often have limited control over the impact of AI systems on their lives. They cannot opt out of content moderation processes or appeal algorithm-driven decisions that affect them, leading to a one-way flow of power.
+Users often have limited control over the impact of AI systems on their lives. They cannot opt out of content moderation processes or appeal algorithm-driven decisions that affect them, leading to a one-way flow of power.
 
 ## How Web3 Principles Apply to AI
 
-Web3 provides principles that can address these challenges.**Transparency
+Web3 provides principles that can address these challenges.Transparency
 
 **Blockchain technology makes transactions visible and auditable. When applied to AI, this means rendering data, algorithms, and decision-making processes transparent. Open-source AI models enable public inspection, while blockchain-stored decision records create verifiable trails.** Decentralization
 
@@ -48,7 +48,7 @@ Web3 provides principles that can address these challenges.**Transparency
 
 **Cryptographic proofs allow for claims verification without requiring trust in the claimant. In AI applications, zero-knowledge proofs could demonstrate that an AI system possesses specific attributes without exposing the system itself.** Governance
 
-**Decentralized Autonomous Organizations (DAOs) enable communities to govern shared resources collectively. In AI, DAO governance could enable communities to manage AI systems that influence their lives.
+Decentralized Autonomous Organizations (DAOs) enable communities to govern shared resources collectively. In AI, DAO governance could enable communities to manage AI systems that influence their lives.
 
 ## Examples of Web3-Enabled Responsible AI
 
@@ -74,7 +74,7 @@ Zero-knowledge proofs could demonstrate that an AI system adheres to specific st
 
 ## Challenges with This Approach
 
-While combining Web3 and AI offers promising solutions, several challenges must be addressed.**Computational Cost
+While combining Web3 and AI offers promising solutions, several challenges must be addressed.Computational Cost
 
 **Decentralized methods often demand more computational resources than centralized approaches. Running AI systems on decentralized infrastructure can be slower and more expensive, complicating deployment.** Complexity
 
@@ -84,7 +84,7 @@ While combining Web3 and AI offers promising solutions, several challenges must 
 
 **Decentralized systems can be less user-friendly than centralized alternatives. Requiring users to manage wallets and tokens to engage in governance may deter participation.** Performance Tradeoffs
 
-**Transparent and decentralized systems may underperform compared to optimized centralized systems. Users might prefer opaque systems if they deliver superior performance.** Incentive Misalignment** 
+**Transparent and decentralized systems may underperform compared to optimized centralized systems. Users might prefer opaque systems if they deliver superior performance.** Incentive Misalignment
 Designing incentives that encourage responsibility is challenging. Poorly structured incentives may lead to unintended consequences, encouraging behaviors that undermine responsible AI development.
 
 ## Practical Paths Forward
