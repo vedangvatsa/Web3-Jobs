@@ -37,9 +37,6 @@ export function PromoPopup() {
         <p className="text-lg font-semibold tracking-tight">
           Discover more from Hashtag Web3
         </p>
-        <p className="text-sm text-muted-foreground mt-1">
-          Daily Web3 jobs. 60,000+ subscribers.
-        </p>
 
         <div className="mt-5 space-y-2.5">
           <a
@@ -49,16 +46,25 @@ export function PromoPopup() {
             onClick={dismiss}
             className="block w-full text-center text-sm font-medium py-2 px-4 rounded-md bg-foreground text-background hover:opacity-90 transition-opacity"
           >
-            Join on Telegram
+            Web3 Job Feed
           </a>
           <a
-            href="https://cvin.bio/?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            href="https://t.me/web3newsfeed?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
             target="_blank"
             rel="noopener noreferrer"
             onClick={dismiss}
             className="block w-full text-center text-sm font-medium py-2 px-4 rounded-md border hover:bg-muted transition-colors"
           >
-            Make your CV a website
+            Web3 News Feed
+          </a>
+          <a
+            href="https://t.me/hashtagweb3?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
+            target="_blank"
+            rel="noopener noreferrer"
+            onClick={dismiss}
+            className="block w-full text-center text-sm font-medium py-2 px-4 rounded-md border hover:bg-muted transition-colors"
+          >
+            Web3 Networking Group
           </a>
         </div>
 
