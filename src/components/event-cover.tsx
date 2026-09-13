@@ -1,6 +1,7 @@
 'use client';
 
 import { useState } from 'react';
+import Image from 'next/image';
 import type { EventType } from '@/lib/events';
 
 const GRADIENTS = [
@@ -26,6 +27,11 @@ function getInitial(name: string): string {
 
 function getGeneratedEventCover(name: string): string {
   return `/api/og?type=default&title=${encodeURIComponent(name)}&date=Web3%20Event`;
+}
+
+function canUseNextImage(src: string): boolean {
+  const path = src.split(/[?#]/, 1)[0].toLowerCase();
+  return src.startsWith('/') && !src.startsWith('//') && !path.endsWith('.gif');
 }
 
 export function EventCoverFallback({
@@ -140,15 +146,28 @@ export function EventHeroImage({ src, name }: { src?: string | null; name: strin
 
   return (
     <div className="w-full rounded-2xl overflow-hidden bg-muted border">
-      <img
-        src={imageSrc}
-        alt={name}
-        className="mx-auto w-full h-auto max-h-[75vh] object-contain"
-        loading="eager"
-        fetchPriority="high"
-        decoding="async"
-        onError={() => setFailedSrc(imageSrc)}
-      />
+      {canUseNextImage(imageSrc) ? (
+        <Image
+          src={imageSrc}
+          alt={name}
+          width={1600}
+          height={900}
+          className="mx-auto w-full h-auto max-h-[75vh] object-contain"
+          sizes="(max-width: 1280px) calc(100vw - 2rem), 1280px"
+          priority
+          onError={() => setFailedSrc(imageSrc)}
+        />
+      ) : (
+        <img
+          src={imageSrc}
+          alt={name}
+          className="mx-auto w-full h-auto max-h-[75vh] object-contain"
+          loading="eager"
+          fetchPriority="high"
+          decoding="async"
+          onError={() => setFailedSrc(imageSrc)}
+        />
+      )}
     </div>
   );
 }
