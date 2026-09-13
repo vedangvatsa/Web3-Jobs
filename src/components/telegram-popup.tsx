@@ -25,20 +25,20 @@ export function PromoPopup() {
   return (
     <div className="fixed inset-0 z-50 flex items-center justify-center p-4">
       <div className="absolute inset-0 bg-black/50" onClick={dismiss} />
-      <div className="relative bg-background border rounded-lg shadow-lg w-full max-w-sm p-6">
+      <div className="relative bg-background border rounded-lg shadow-lg w-full max-w-sm px-6 py-5">
         <button
           onClick={dismiss}
-          className="absolute top-3 right-3 text-muted-foreground hover:text-foreground"
+          className="absolute top-3.5 right-3.5 text-muted-foreground hover:text-foreground"
           aria-label="Close"
         >
           <X className="h-5 w-5" aria-hidden="true" />
         </button>
 
-        <p className="text-lg font-semibold tracking-tight text-center">
+        <p className="text-lg font-semibold tracking-tight text-center pt-1">
           Discover more from Hashtag Web3
         </p>
 
-        <div className="mt-5 space-y-2.5">
+        <div className="mt-4 space-y-2.5">
           <a
             href="https://t.me/web3hiring?utm_source=hashtagweb3&utm_medium=popup&utm_campaign=promo"
             target="_blank"
