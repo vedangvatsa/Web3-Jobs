@@ -35,16 +35,16 @@ export function DetailPageHeader({
       </nav>
 
       <header className="border-b pb-8">
-        <div className="flex flex-col gap-6 sm:flex-row sm:items-start">
-          <div className="flex min-w-0 items-start gap-3 sm:contents">
+        <div className="flex flex-col gap-6 lg:flex-row lg:items-start">
+          <div className="flex flex-row min-w-0 items-start gap-3 lg:contents">
             <div className="flex h-16 w-16 shrink-0 items-center justify-center">{icon}</div>
             <div className="min-w-0 flex-1">
-              <h1 className="break-words text-2xl font-bold tracking-tight sm:text-4xl">{title}</h1>
+              <h1 className="break-words text-2xl font-bold tracking-tight lg:text-4xl">{title}</h1>
               {subtitle && <div className="mt-1">{subtitle}</div>}
               {metadata && <div className="mt-2 flex flex-wrap gap-x-4 gap-y-1.5 text-sm text-muted-foreground">{metadata}</div>}
             </div>
           </div>
-          {actions && <div className="flex w-full shrink-0 flex-wrap gap-2 sm:w-auto">{actions}</div>}
+          {actions && <div className="flex w-full shrink-0 flex-wrap gap-2 lg:w-auto">{actions}</div>}
         </div>
       </header>
     </>
